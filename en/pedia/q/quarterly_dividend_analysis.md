@@ -41,7 +41,7 @@ Forecasting involves predicting future dividend payments based on historical dat
 Several online platforms and tools can facilitate quarterly dividend analysis, providing detailed data and insights for investors:
 
 - **Seeking Alpha**: Offers comprehensive analysis and forecasts for dividend-paying stocks.
-- **Yahoo Finance**: Provides historical dividend data, financial statements, and analyst ratings.
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Provides historical dividend data, financial statements, and analyst ratings.
 - **[Morningstar](../m/morningstar.md)**: Features detailed financial data, analyst reports, and dividend sustainability scores.
 
 ## Case Study: Analyzing Apple Inc. (AAPL)

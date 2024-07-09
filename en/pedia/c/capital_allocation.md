@@ -24,7 +24,7 @@ Capital allocation refers to the process by which an organization decides how to
 
 4. **[Kelly Criterion](../k/kelly_criterion.md)**: A formula used to determine the optimal size of a series of bets to maximize wealth over time. In the context of [algorithmic trading](../a/algorithmic_trading.md), it helps determine the size of positions based on the probability of winning and the payout ratio.
 
-5. **Machine Learning-based Allocation**: Employing machine learning algorithms to predict returns, classify market regimes, or optimize portfolio weights. Techniques like reinforcement learning, neural networks, and [decision trees](../d/decision_trees.md) can be utilized for dynamic capital allocation.
+5. **Machine Learning-based Allocation**: Employing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict returns, classify market regimes, or optimize portfolio weights. Techniques like reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) can be utilized for dynamic capital allocation.
 
 ## Tools and Technologies for Capital Allocation
 
@@ -34,17 +34,17 @@ Capital allocation refers to the process by which an organization decides how to
 
 3. **[Risk Management](../r/risk_management.md) Platforms**: Tools like RiskMetrics, Axioma, and [Algorithmic Trading](../a/algorithmic_trading.md) Management Systems (ATMS) provide risk analytics and tools to support capital allocation decisions.
 
-4. **Simulation and [Backtesting](../b/backtesting.md) Engines**: Platforms like [QuantConnect](../q/quantconnect.md), [TradingView](../t/tradingview.md), and MetaTrader allow traders to simulate and backtest their allocation strategies using historical data to evaluate performance before deploying them in live markets.
+4. **[Simulation](../s/simulation_in_trading.md) and [Backtesting](../b/backtesting.md) Engines**: Platforms like [QuantConnect](../q/quantconnect.md), [TradingView](../t/tradingview.md), and MetaTrader allow traders to simulate and backtest their allocation strategies using historical data to evaluate performance before deploying them in live markets.
 
 ## Practical Examples of Capital Allocation in Algorithmic Trading
 
 ### Case Study 1: Renaissance Technologies
 
-Renaissance Technologies, a hedge fund known for its [algorithmic trading](../a/algorithmic_trading.md) prowess, employs sophisticated mathematical models and algorithms to allocate capital across a variety of markets and instruments. By using statistical [arbitrage](../a/arbitrage.md) and machine learning techniques, Renaissance optimizes its capital allocation to achieve high annual returns with relatively low risk. More information about Renaissance Technologies can be found at [their official website](https://www.rentec.com).
+Renaissance Technologies, a hedge fund known for its [algorithmic trading](../a/algorithmic_trading.md) prowess, employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to allocate capital across a variety of markets and instruments. By using statistical [arbitrage](../a/arbitrage.md) and machine learning techniques, Renaissance optimizes its capital allocation to achieve high annual returns with relatively low risk. More information about Renaissance Technologies can be found at [their official website](https://www.rentec.com).
 
 ### Case Study 2: Two Sigma
 
-Two Sigma uses artificial intelligence, machine learning, and distributed computing to develop [trading strategies](../t/trading_strategies.md) and allocate capital efficiently. By continuously refining their models and algorithms, Two Sigma ensures optimal capital allocation that adapts to changing market conditions. Further details are available on the [Two Sigma website](https://www.twosigma.com).
+Two Sigma uses [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and distributed computing to develop [trading strategies](../t/trading_strategies.md) and allocate capital efficiently. By continuously refining their models and algorithms, Two Sigma ensures optimal capital allocation that adapts to changing market conditions. Further details are available on the [Two Sigma website](https://www.twosigma.com).
 
 ## Challenges in Capital Allocation
 
@@ -60,6 +60,6 @@ Two Sigma uses artificial intelligence, machine learning, and distributed comput
 
 ## Conclusion
 
-Effective capital allocation is a cornerstone of successful [algorithmic trading](../a/algorithmic_trading.md). By integrating principles of [risk management](../r/risk_management.md), diversification, and optimization, traders can develop robust strategies that maximize returns and manage risk efficiently. Continuous monitoring, performance evaluation, and adaptation to market changes are essential to maintaining an optimal allocation of capital. As technology and data science continue to advance, the tools and techniques for capital allocation will become increasingly sophisticated, offering new opportunities and challenges for algorithmic traders.
+Effective capital allocation is a cornerstone of successful [algorithmic trading](../a/algorithmic_trading.md). By integrating principles of [risk management](../r/risk_management.md), diversification, and optimization, traders can develop robust strategies that maximize returns and manage risk efficiently. Continuous monitoring, performance evaluation, and adaptation to market changes are essential to maintaining an optimal allocation of capital. As technology and [data science](../d/data_science_in_trading.md) continue to advance, the tools and techniques for capital allocation will become increasingly sophisticated, offering new opportunities and challenges for algorithmic traders.
 
 For further information or collaboration opportunities, you can contact the development team at major [algorithmic trading](../a/algorithmic_trading.md) companies through their respective websites: [Renaissance Technologies](https://www.rentec.com) and [Two Sigma](https://www.twosigma.com).

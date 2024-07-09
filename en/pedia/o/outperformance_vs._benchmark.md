@@ -65,7 +65,7 @@ Renaissance Technologies, founded by Jim Simons, is famous for its Medallion Fun
 - The Medallion Fund employs sophisticated mathematical and statistical models to identify trading opportunities, often achieving annual returns vastly superior to its benchmark indices.
 
 #### **Two Sigma**:
-Two Sigma Investments utilizes artificial intelligence, machine learning, and distributed computing for trading and investment management.
+Two Sigma Investments utilizes [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and distributed computing for trading and investment management.
 - More information: [Two Sigma](https://www.twosigma.com/)
 - The firm’s data-driven approach has enabled it to outperform traditional investment benchmarks by leveraging innovative, algorithmic strategies.
 
@@ -89,7 +89,7 @@ For individual and institutional investors, striving for outperformance relative
 
 - **Strategy Analysis**: Continual assessment and optimization of [trading strategies](../t/trading_strategies.md) are essential to adapt to changing market conditions.
 - **Diversification**: Having a mix of strategies and asset classes can reduce risk and improve the chances of achieving sustained outperformance.
-- **Technology Investment**: Leveraging advanced technologies including AI, machine learning, and big data analytics can provide a competitive edge.
+- **Technology Investment**: Leveraging advanced technologies including AI, machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) can provide a competitive edge.
 
 ### Conclusion
 

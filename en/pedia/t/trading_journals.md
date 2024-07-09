@@ -61,7 +61,7 @@ Integration with third-party platforms, including market data providers and othe
 
 ### Edgewonk
 
-[Edgewonk](https://edgewonk.com/) is a popular digital trading journal offering a wide range of features. Users can record detailed trade data, analyze [performance metrics](../p/performance_metrics.md), and benefit from advanced journaling functionalities like emotional analytics and trade simulation.
+[Edgewonk](https://edgewonk.com/) is a popular digital trading journal offering a wide range of features. Users can record detailed trade data, analyze [performance metrics](../p/performance_metrics.md), and benefit from advanced journaling functionalities like emotional analytics and trade [simulation](../s/simulation_in_trading.md).
 
 ### TraderSync
 

@@ -5,7 +5,7 @@ Support and resistance are fundamental concepts in [technical analysis](../t/tec
 
 Support is a price level where a downtrend can be expected to pause due to a concentration of demand or buying interest. As the price of assets drops, demand increases, thus forming the support line. Conversely, resistance is a price level where a trend can pause or reverse as a concentration of selling interest emerges. When the price of assets rises, selling interest increases, thus forming the resistance line. 
 
-In the context of [algorithmic trading](../a/algorithmic_trading.md), support and resistance levels can be used to develop [trading strategies](../t/trading_strategies.md) and enhance predictive models. Algorithmic traders leverage these levels to automate buying and selling actions, creating rules-based strategies that recognize and act upon these critical price thresholds.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), support and resistance levels can be used to develop [trading strategies](../t/trading_strategies.md) and enhance [predictive models](../p/predictive_models_in_trading.md). Algorithmic traders leverage these levels to automate buying and selling actions, creating rules-based strategies that recognize and act upon these critical price thresholds.
 
 ## Identification of Support and Resistance Levels
 ### Historical Price Analysis
@@ -28,7 +28,7 @@ Fibonacci retracement levels are also used to identify potential support and res
 Support and resistance levels can be used to develop various [algorithmic trading](../a/algorithmic_trading.md) strategies. For instance, a breakout strategy might be designed to buy an asset when its price breaks above a resistance level or sell when it drops below a support level. Alternatively, a [mean reversion](../m/mean_reversion.md) strategy might exploit the price bouncing off support or resistance levels.
 
 ### Backtesting
-[Backtesting](../b/backtesting.md) involves testing a trading strategy on historical data to evaluate its effectiveness. When developing strategies based on support and resistance, [backtesting](../b/backtesting.md) can help determine how reliable these levels are in predicting future price movements. Traders can use [backtesting](../b/backtesting.md) to refine their strategies and improve their predictive models.
+[Backtesting](../b/backtesting.md) involves testing a trading strategy on historical data to evaluate its effectiveness. When developing strategies based on support and resistance, [backtesting](../b/backtesting.md) can help determine how reliable these levels are in predicting future price movements. Traders can use [backtesting](../b/backtesting.md) to refine their strategies and improve their [predictive models](../p/predictive_models_in_trading.md).
 
 ### Automated Execution
 Using algorithms, trades can be automated to react instantly when the price reaches predetermined support or resistance levels. This removes the emotional aspect of trading and ensures that trades are executed based on logical criteria. [Automated trading systems](../a/automated_trading_systems.md) can continuously monitor multiple markets and execute trades with precision.
@@ -51,7 +51,7 @@ Many trading platforms offer APIs (Application Programming Interfaces) that algo
 
 ## Notable Companies and Solutions
 ### Trading Technologies
-[Trading Technologies](https://www.tradingtechnologies.com/) offers advanced trading solutions that include tools for [technical analysis](../t/technical_analysis.md) and automated [trading strategies](../t/trading_strategies.md). Their platform allows for sophisticated order types and integration with various financial instruments.
+[Trading Technologies](https://www.tradingtechnologies.com/) offers advanced trading solutions that include tools for [technical analysis](../t/technical_analysis.md) and automated [trading strategies](../t/trading_strategies.md). Their platform allows for sophisticated [order types](../o/order_types_in_trading.md) and integration with various financial instruments.
 
 ### QuantConnect
 [QuantConnect](https://www.quantconnect.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides a comprehensive environment for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). It supports multiple programming languages and offers extensive data for analyzing support and resistance levels.

@@ -1,11 +1,11 @@
 # NeuroShell Trader
 
 ## Overview
-NeuroShell Trader is an advanced trading software platform developed by Ward Systems Group. It is designed to leverage artificial intelligence (AI) and machine learning (ML) techniques to develop, backtest, and execute [trading strategies](../t/trading_strategies.md). The platform is particularly known for its neural network capabilities, allowing traders to create models that adapt and learn from market data.
+NeuroShell Trader is an advanced trading software platform developed by Ward Systems Group. It is designed to leverage [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) techniques to develop, backtest, and execute [trading strategies](../t/trading_strategies.md). The platform is particularly known for its neural network capabilities, allowing traders to create models that adapt and learn from market data.
 
 ## Features
-1. **Neural Networks**: Utilizes neural networks and other AI techniques to develop predictive [trading models](../t/trading_models.md).
-2. **Genetic Algorithms**: Employs genetic algorithms for optimizing [trading strategies](../t/trading_strategies.md) and parameters.
+1. **[Neural Networks](../n/neural_networks_in_trading.md)**: Utilizes [neural networks](../n/neural_networks_in_trading.md) and other AI techniques to develop predictive [trading models](../t/trading_models.md).
+2. **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md)**: Employs [genetic algorithms](../g/genetic_algorithms_in_trading.md) for optimizing [trading strategies](../t/trading_strategies.md) and parameters.
 3. **[Technical Indicators](../t/technical_indicators.md)**: Comprehensive library of [technical indicators](../t/technical_indicators.md), with the ability to create custom indicators.
 4. **Charting Tools**: Advanced charting capabilities with multiple chart types and timeframes.
 5. **[Backtesting](../b/backtesting.md)**: Robust [backtesting](../b/backtesting.md) engine to evaluate strategies against historical data.
@@ -16,8 +16,8 @@ NeuroShell Trader is an advanced trading software platform developed by Ward Sys
 10. **Multi-Market Support**: Supports trading in multiple markets including stocks, forex, futures, and options.
 
 ## Key Components
-- **Neural Network Wizard**: Tool for creating and training neural network models to predict market movements.
-- **Genetic Algorithm Optimizer**: Optimizes [trading strategies](../t/trading_strategies.md) using genetic algorithms.
+- **Neural Network Wizard**: Tool for creating and training neural [network models](../n/network_models_in_trading.md) to predict market movements.
+- **Genetic Algorithm Optimizer**: Optimizes [trading strategies](../t/trading_strategies.md) using [genetic algorithms](../g/genetic_algorithms_in_trading.md).
 - **[Technical Analysis](../t/technical_analysis.md) Tools**: A wide range of built-in and customizable [technical indicators](../t/technical_indicators.md).
 - **Charting Module**: Advanced charting tools for [technical analysis](../t/technical_analysis.md) and strategy visualization.
 - **Strategy Builder**: Intuitive interface for constructing and testing [trading strategies](../t/trading_strategies.md).
@@ -29,7 +29,7 @@ NeuroShell Trader is an advanced trading software platform developed by Ward Sys
 ## Integrations
 NeuroShell Trader integrates with various brokers and data providers to provide a seamless trading experience. Some notable integrations include:
 
-- **Brokerage Firms**: Direct integration with brokers such as Interactive Brokers for real-time trading and order execution.
+- **Brokerage Firms**: Direct integration with brokers such as [Interactive Brokers](../i/interactive_brokers.md) for real-time trading and order execution.
 - **Market Data Providers**: Access to real-time and historical data from providers like [eSignal](../e/esignal.md), DTN [IQFeed](../i/iqfeed.md), and others.
 - **Third-Party Tools**: Support for various third-party plugins and extensions to enhance platform functionality.
 - **APIs**: APIs for custom integrations and the development of [proprietary trading](../p/proprietary_trading.md) tools and models.
@@ -41,7 +41,7 @@ NeuroShell Trader provides extensive support through detailed documentation, use
 - **Retail Traders**: Utilized by retail traders for its AI-driven [trading models](../t/trading_models.md) and user-friendly strategy builder.
 - **Quantitative Analysts**: Supports quants in developing, testing, and deploying sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies.
 - **Institutional Traders**: Provides institutional trading desks with tools for managing large-scale trading operations and analyzing market data.
-- **Algorithmic Traders**: Enables algo traders to build and optimize automated [trading strategies](../t/trading_strategies.md) using neural networks and genetic algorithms.
+- **Algorithmic Traders**: Enables algo traders to build and optimize automated [trading strategies](../t/trading_strategies.md) using [neural networks](../n/neural_networks_in_trading.md) and [genetic algorithms](../g/genetic_algorithms_in_trading.md).
 - **Market Analysts**: Used by market analysts for in-depth [technical analysis](../t/technical_analysis.md) and market prediction models.
 
-NeuroShell Trader’s advanced AI capabilities, combined with its powerful trading tools and integrations, make it an ideal choice for traders seeking to leverage artificial intelligence and machine learning in their [trading strategies](../t/trading_strategies.md).
+NeuroShell Trader’s advanced AI capabilities, combined with its powerful trading tools and integrations, make it an ideal choice for traders seeking to leverage [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning in their [trading strategies](../t/trading_strategies.md).

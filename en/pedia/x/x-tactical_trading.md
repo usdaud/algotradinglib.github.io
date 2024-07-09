@@ -1,7 +1,7 @@
 # X-Tactical Trading
 
 ## Introduction
-X-Tactical Trading is an advanced concept in the world of [quantitative finance](../q/quantitative_finance.md), where the primary objective is to execute trades based on sophisticated algorithms and strategies. Utilizing cutting-edge technology and mathematical models, X-Tactical Trading is designed to exploit market inefficiencies. This document delves into the intricacies of X-Tactical Trading, including strategies used, technological infrastructure, key players in the industry, and potential risks.
+X-Tactical Trading is an advanced concept in the world of [quantitative finance](../q/quantitative_finance.md), where the primary objective is to execute trades based on sophisticated algorithms and strategies. Utilizing cutting-edge technology and [mathematical models](../m/mathematical_models_in_trading.md), X-Tactical Trading is designed to exploit market inefficiencies. This document delves into the intricacies of X-Tactical Trading, including strategies used, technological infrastructure, key players in the industry, and potential risks.
 
 ## Key Concepts
 
@@ -26,7 +26,7 @@ Market making involves creating liquidity in the market by providing both buy an
 [Sentiment analysis](../s/sentiment_analysis.md) involves analyzing news articles, social media posts, and other text data to gauge market sentiment. Algorithms can then use this sentiment data to make informed trading decisions.
 
 ### Machine Learning
-Machine learning techniques are increasingly used in X-Tactical Trading to develop predictive models. These models can uncover complex patterns in large datasets that traditional methods might miss.
+Machine learning techniques are increasingly used in X-Tactical Trading to develop [predictive models](../p/predictive_models_in_trading.md). These models can uncover complex patterns in large datasets that traditional methods might miss.
 
 ## Technological Infrastructure
 
@@ -37,7 +37,7 @@ Real-time data feeds are critical for X-Tactical Trading, providing up-to-the-mi
 Advanced trading platforms are necessary for executing X-Tactical [trading strategies](../t/trading_strategies.md). These platforms must offer high speed, low latency, and robust [risk management](../r/risk_management.md) features.
 
 ### Cloud Computing
-Cloud computing provides the computational power required to process large data sets and run complex algorithms. It enables scalability and flexibility in deploying [trading strategies](../t/trading_strategies.md).
+[Cloud computing](../c/cloud_computing_in_trading.md) provides the computational power required to process large data sets and run complex algorithms. It enables scalability and flexibility in deploying [trading strategies](../t/trading_strategies.md).
 
 ### GPUs and TPUs
 Graphics Processing Units (GPUs) and Tensor Processing Units (TPUs) are specialized hardware used to accelerate the processing of complex algorithms, particularly those involving machine learning.
@@ -69,4 +69,4 @@ X-Tactical Trading is subject to regulatory scrutiny, which can result in change
 Reliance on technology introduces the risk of technical failures, cybersecurity threats, and latency issues. Robust systems and contingency plans are critical to mitigate these risks.
 
 ## Conclusion
-X-Tactical Trading represents the frontier of modern finance, blending cutting-edge technology with advanced quantitative methods to execute trades with precision and speed. It is a rapidly evolving field, driven by continuous advancements in technology and data science. Understanding the complexities and challenges inherent in X-Tactical Trading is crucial for anyone looking to participate in or study this dynamic area of finance.
+X-Tactical Trading represents the frontier of modern finance, blending cutting-edge technology with advanced quantitative methods to execute trades with precision and speed. It is a rapidly evolving field, driven by continuous advancements in technology and [data science](../d/data_science_in_trading.md). Understanding the complexities and challenges inherent in X-Tactical Trading is crucial for anyone looking to participate in or study this dynamic area of finance.

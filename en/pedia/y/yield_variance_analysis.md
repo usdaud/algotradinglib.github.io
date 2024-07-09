@@ -68,7 +68,7 @@ By systematically applying YVA, the hedge fund can enhance the robustness and pe
 
 #### Tools and Software for Yield Variance Analysis
 
-Several tools and software platforms are available to assist traders in conducting Yield [Variance Analysis](../v/variance_analysis.md). These tools often provide functionalities for data collection, variance calculation, decomposition, and visualization. Some popular platforms include:
+Several tools and [software platforms](../s/software_platforms_for_trading.md) are available to assist traders in conducting Yield [Variance Analysis](../v/variance_analysis.md). These tools often provide functionalities for data collection, variance calculation, decomposition, and visualization. Some popular platforms include:
 
 - **MATLAB**: MATLAB is a powerful tool for [quantitative analysis](../q/quantitative_analysis.md) and algorithm development. It offers specialized toolboxes for financial analysis and can be used to implement custom YVA techniques.
   - [MATLAB Official Website](https://www.mathworks.com/products/matlab.html)

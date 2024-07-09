@@ -25,7 +25,7 @@ The weights typically decrease linearly over time, ensuring that recent prices h
 
 1. **Complexity**: Calculating the WMA is more complex than the SMA, requiring additional computational resources.
 2. **Lag**: Although the WMA reduces lag compared to the SMA, it still lags behind the actual price because it is based on historical data.
-3. **Overfitting Risks**: Over-weighting recent prices can sometimes lead to overfitting, where the indicator becomes too sensitive to short-term price movements and generates false signals.
+3. **Overfitting Risks**: Over-weighting recent prices can sometimes lead to overfitting, where the indicator becomes too sensitive to short-term price movements and generates [false signals](../f/false_signals_in_trading.md).
 
 ## Common Uses in Algo Trading
 

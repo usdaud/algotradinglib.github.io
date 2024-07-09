@@ -98,7 +98,7 @@ TreasuryDirect is the U.S. Treasury's online platform for the purchase and manag
 [Visit TreasuryDirect](https://www.treasurydirect.gov/)
 
 ### Secondary Market Platforms
-Online brokers and financial institutions often provide platforms where investors can trade T-Bills after issuance. These platforms include well-known brokerages such as [Charles Schwab](../c/charles_schwab.md), Fidelity, and E*TRADE.
+Online brokers and financial institutions often provide platforms where investors can trade T-Bills after issuance. These platforms include well-known brokerages such as [Charles Schwab](../c/charles_schwab.md), Fidelity, and [E*TRADE](../e/e_trade.md).
 
 ## Conclusion
 

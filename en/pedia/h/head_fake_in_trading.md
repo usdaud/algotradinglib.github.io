@@ -66,7 +66,7 @@ On May 6, 2010, the U.S. stock markets experienced a sudden and severe crash, fo
 
 #### **Cryptocurrency Market**
 
-The highly volatile nature of cryptocurrency markets makes them particularly susceptible to head fakes. Bitcoin, Ethereum, and other major cryptocurrencies have frequently shown patterns where prices break important psychological levels only to reverse sharply. Continuous monitoring of volumes and sentiment is crucial in these markets to avoid head fakes.
+The highly volatile nature of cryptocurrency markets makes them particularly susceptible to head fakes. Bitcoin, Ethereum, and other major cryptocurrencies have frequently shown patterns where prices break important [psychological levels](../p/psychological_levels_in_trading.md) only to reverse sharply. Continuous monitoring of volumes and sentiment is crucial in these markets to avoid head fakes.
 
 ### Conclusion
 

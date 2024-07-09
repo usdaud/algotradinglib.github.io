@@ -41,7 +41,7 @@ Effective [risk management](../r/risk_management.md) is crucial in pairs [arbitr
 
 ## Implementation Case: Renaissance Technologies
 
-Renaissance Technologies, a prominent quant hedge fund, famously employs statistical [arbitrage](../a/arbitrage.md) strategies, including [pairs trading](../p/pairs_trading.md). Their sophisticated use of mathematical models and algorithms allows them to identify and exploit pricing inefficiencies across various markets.
+Renaissance Technologies, a prominent quant hedge fund, famously employs statistical [arbitrage](../a/arbitrage.md) strategies, including [pairs trading](../p/pairs_trading.md). Their sophisticated use of [mathematical models](../m/mathematical_models_in_trading.md) and algorithms allows them to identify and exploit pricing inefficiencies across various markets.
 
 Visit Renaissance Technologies for more information: [Renaissance Technologies](https://www.rentec.com/)
 

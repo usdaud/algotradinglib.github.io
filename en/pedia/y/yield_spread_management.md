@@ -71,10 +71,10 @@ The advent of financial technology has revolutionized [yield spread](../y/yield_
    - Using algorithms to execute bond trades based on predetermined criteria, including yield spreads. 
 
 2. **Machine Learning and AI**:
-   - Leveraging machine learning algorithms to predict changes in yield spreads and optimize portfolio strategies. 
+   - Leveraging machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict changes in yield spreads and optimize portfolio strategies. 
 
 3. **Data Analytics**:
-   - Using big data analytics to identify patterns and trends in the bond market, helping to make more informed investment decisions.
+   - Using [big data analytics](../b/big_data_analytics_in_trading.md) to identify patterns and trends in the bond market, helping to make more informed investment decisions.
 
 ## Conclusion
 

@@ -54,7 +54,7 @@ Hedging variance swaps requires managing exposure to changes in the variance of 
    - With advancements in [algorithmic trading](../a/algorithmic_trading.md) and AI, firms now leverage machine learning models to dynamically hedge complex derivative exposures.
    
 2. **Improved Data Analytics**:
-   - Big data and advanced analytics enable traders to make more informed decisions by analyzing vast datasets for patterns and correlations.
+   - [Big data](../b/big_data_in_trading.md) and advanced analytics enable traders to make more informed decisions by analyzing vast datasets for patterns and correlations.
 
 3. **Regulatory Changes**:
    - Post financial crisis regulatory frameworks have changed, impacting the way variance swaps are managed in terms of capital requirements and disclosures.

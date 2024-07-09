@@ -25,7 +25,7 @@ The date on which the option contract expires and becomes void. Options can have
 ## Popular Options Trading Strategies
 
 ### Covered Call
-A covered call involves holding a long position in a stock and selling a call option on the same stock. This strategy generates income through the option premium but limits the upside potential if the stock price rises sharply.
+A covered call involves holding a long position in a stock and selling a call option on the same stock. This strategy generates income through the option premium but limits the [upside potential](../u/upside_potential_in_trading.md) if the stock price rises sharply.
 
 ### Protective Put
 A protective put involves holding a long position in a stock and buying a put option on the same stock. This acts as an insurance policy, protecting the investor against significant declines in the stock price.

@@ -45,7 +45,7 @@ Example: An [algorithmic trading](../a/algorithmic_trading.md) system may combin
 
 Hedging involves taking positions in financial instruments that are expected to move in the opposite direction of the primary investments, thereby reducing the potential for losses. Common [hedging strategies](../h/hedging_strategies.md) include:
 
-1. **Options Contracts**: Using options to gain downside protection while maintaining the upside potential.
+1. **Options Contracts**: Using options to gain downside protection while maintaining the [upside potential](../u/upside_potential_in_trading.md).
 2. **[Futures Contracts](../f/futures_contracts.md)**: Entering into [futures contracts](../f/futures_contracts.md) to lock in prices and hedge against adverse price movements.
 3. **[Pairs Trading](../p/pairs_trading.md)**: Simultaneously buying and selling two correlated securities to reduce market risk.
 
@@ -53,12 +53,12 @@ Example: An investor holds a portfolio of technology stocks may buy [put options
 
 ## 6. Stress Testing
 
-Stress testing involves simulating extreme market conditions to evaluate how an [algorithmic trading](../a/algorithmic_trading.md) strategy performs under adverse scenarios. This helps to identify vulnerabilities and make necessary adjustments to improve resilience. Stress testing can be done through:
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating extreme market conditions to evaluate how an [algorithmic trading](../a/algorithmic_trading.md) strategy performs under adverse scenarios. This helps to identify vulnerabilities and make necessary adjustments to improve resilience. [Stress testing](../s/stress_testing_in_trading.md) can be done through:
 
-1. **Historical Stress Testing**: Applying historical market events to current portfolios to understand potential impacts.
-2. **Hypothetical Stress Testing**: Using hypothetical scenarios constructed by considering potential market events and shocks.
+1. **Historical [Stress Testing](../s/stress_testing_in_trading.md)**: Applying historical market events to current portfolios to understand potential impacts.
+2. **Hypothetical [Stress Testing](../s/stress_testing_in_trading.md)**: Using hypothetical scenarios constructed by considering potential market events and shocks.
 
-Example: A trading system undergoes stress testing by applying market conditions similar to the 2008 financial crisis to understand potential drawdowns and required adjustments.
+Example: A trading system undergoes [stress testing](../s/stress_testing_in_trading.md) by applying market conditions similar to the 2008 financial crisis to understand potential drawdowns and required adjustments.
 
 ## 7. Regular Monitoring and Review
 
@@ -82,7 +82,7 @@ Example: A trader may set a maximum leverage of 2:1 for their portfolio to ensur
 
 ## 9. Use of Advanced Technologies
 
-Leveraging advanced technologies such as machine learning and artificial intelligence can enhance [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md). These technologies can analyze vast datasets and identify patterns that traditional methods may overlook. Applications include:
+Leveraging advanced technologies such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can enhance [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md). These technologies can analyze vast datasets and identify patterns that traditional methods may overlook. Applications include:
 
 1. **[Predictive Analytics](../p/predictive_analytics.md)**: Using machine learning models to predict market movements and adjust risk strategies accordingly.
 2. **Real-time Data Processing**: Utilizing high-frequency data processing systems to make real-time [risk management](../r/risk_management.md) decisions.

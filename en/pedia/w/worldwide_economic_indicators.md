@@ -15,7 +15,7 @@ Gross Domestic Product (GDP) is the total monetary or market value of all the fi
 ### Utilization in Algorithmic Trading
 
 In [algorithmic trading](../a/algorithmic_trading.md), GDP data can be used in several ways:
-- **Macroeconomic Models**: Incorporating GDP growth rates as a factor influencing equity indices or forex pairs.
+- **Macroeconomic Models**: Incorporating GDP [growth rates](../g/growth_rates_in_trading.md) as a factor influencing equity indices or forex pairs.
 - **[Predictive Analytics](../p/predictive_analytics.md)**: Using historical GDP data to predict future market movements.
 
 ## Consumer Price Index (CPI)
@@ -142,7 +142,7 @@ Corporate earnings represent a company’s profitability and are a crucial indic
 
 ### Utilization in Algorithmic Trading
 
-- **Earnings Predictive Models**: Developing [trading strategies](../t/trading_strategies.md) based on anticipated earnings or historical [earnings surprises](../e/earnings_surprises.md).
+- **Earnings [Predictive Models](../p/predictive_models_in_trading.md)**: Developing [trading strategies](../t/trading_strategies.md) based on anticipated earnings or historical [earnings surprises](../e/earnings_surprises.md).
 - **[Sector Rotation](../s/sector_rotation.md)**: Adjusting portfolios based on earnings trends in different sectors.
 
 ## Final Thoughts

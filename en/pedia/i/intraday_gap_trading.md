@@ -83,11 +83,11 @@ Maintaining a favorable risk-reward ratio is crucial for long-term success. Trad
 [TradeStation](https://www.tradestation.com)
 
 ### 3. Interactive Brokers
-Interactive Brokers offers a comprehensive trading platform with advanced order types and real-time monitoring features ideal for [intraday trading](../i/intraday_trading.md).
+[Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive trading platform with advanced [order types](../o/order_types_in_trading.md) and real-time monitoring features ideal for [intraday trading](../i/intraday_trading.md).
 [Interactive Brokers](https://www.interactivebrokers.com)
 
 ### 4. E*TRADE
-E*TRADE’s Power E*TRADE platform provides an intuitive interface and advanced charting tools that can be helpful for intraday gap traders.
+[E*TRADE](../e/e_trade.md)’s Power [E*TRADE](../e/e_trade.md) platform provides an intuitive interface and advanced charting tools that can be helpful for intraday gap traders.
 [E*TRADE](https://us.etrade.com)
 
 ### 5. MetaTrader 4 and 5

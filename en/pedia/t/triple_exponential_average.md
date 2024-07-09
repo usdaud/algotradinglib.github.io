@@ -47,7 +47,7 @@ TRIX_t = \frac {EMA3_t - EMA3_{t-1}} {EMA3_{t-1}} \times 100
 
 #### Advantages of Using TRIX
 
-- **Noise Filtration:** By using triple smoothing, TRIX eliminates a lot of the short-term volatility that can result in false signals.
+- **Noise Filtration:** By using triple smoothing, TRIX eliminates a lot of the short-term volatility that can result in [false signals](../f/false_signals_in_trading.md).
 - **Simplified Analysis:** TRIX provides a single line that can indicate both the direction and momentum of a trend, simplifying the analytical process for traders.
 - **Divergence Signal:** As mentioned, TRIX’s ability to show divergence with price action can signal potential reversals before they happen, giving traders a strategic advantage.
 
@@ -55,7 +55,7 @@ TRIX_t = \frac {EMA3_t - EMA3_{t-1}} {EMA3_{t-1}} \times 100
 
 - **Lag:** Like all moving averages, the TRIX is a lagging indicator. It responds to price movements with a delay, meaning that it may not forecast future price movements accurately.
 - **Complexity:** The triple smoothing process can be complex and might not be suitable for beginners who are unfamiliar with [exponential smoothing](../e/exponential_smoothing.md) techniques.
-- **False Signals:** While TRIX is designed to minimize noise, no indicator is perfect. There can still be periods of low volatility where TRIX may generate multiple false signals.
+- **[False Signals](../f/false_signals_in_trading.md):** While TRIX is designed to minimize noise, no indicator is perfect. There can still be periods of low volatility where TRIX may generate multiple [false signals](../f/false_signals_in_trading.md).
 
 #### Integration with Other Indicators
 

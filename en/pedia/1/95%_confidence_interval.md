@@ -12,15 +12,15 @@ The confidence interval is typically expressed in the form:
 
 where:
 - \(\bar{X}\) is the sample mean
-- \(Z_{\alpha/2}\) is the Z-value from the standard normal distribution corresponding to the desired confidence level (for 95%, it is 1.96)
+- \(Z_{\alpha/2}\) is the [Z-value](../z/z-value_in_trading.md) from the standard [normal distribution](../n/normal_distribution_in_trading.md) corresponding to the desired confidence level (for 95%, it is 1.96)
 - \(\sigma\) is the standard deviation of the population
 - \(n\) is the sample size
 
 ### More About Z-values
 
-In the context of a 95% confidence interval, the Z-value (also known as the critical value) is a factor that is derived from the standard normal distribution. For a 95% confidence interval, the Z-value is approximately 1.96. This value is derived from the fact that:
+In the context of a 95% confidence interval, the [Z-value](../z/z-value_in_trading.md) (also known as the critical value) is a factor that is derived from the standard [normal distribution](../n/normal_distribution_in_trading.md). For a 95% confidence interval, the [Z-value](../z/z-value_in_trading.md) is approximately 1.96. This value is derived from the fact that:
 
-- 95% of the data lies within 1.96 standard deviations from the mean in a standard normal distribution.
+- 95% of the data lies within 1.96 standard deviations from the mean in a standard [normal distribution](../n/normal_distribution_in_trading.md).
 
 ### Common Misunderstandings
 
@@ -50,7 +50,7 @@ To calculate a 95% confidence interval for the population mean when the populati
   
 2. **Determine the Population Standard Deviation (\(\sigma\))**: If this is not known, it will have to be estimated from the sample.
   
-3. **Find the Z-value (\(Z_{\alpha/2}\))**: For a 95% confidence interval, the Z-value is 1.96.
+3. **Find the [Z-value](../z/z-value_in_trading.md) (\(Z_{\alpha/2}\))**: For a 95% confidence interval, the [Z-value](../z/z-value_in_trading.md) is 1.96.
   
 4. **Compute the Margin of Error (ME)**:
    \[ ME = Z_{\alpha/2} \left( \frac{\sigma}{\sqrt{n}} \right) \]
@@ -66,7 +66,7 @@ Suppose an algorithmic trader wants to estimate the average daily return of a pa
 
 2. **Population Standard Deviation (\(\sigma\))**: 0.002
 
-3. **Z-value for 95% CI**: 1.96
+3. **[Z-value](../z/z-value_in_trading.md) for 95% CI**: 1.96
 
 4. **Sample Size (n)**: 50
 

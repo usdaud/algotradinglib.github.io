@@ -74,7 +74,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), option spreads are used t
 
 4. **[TradeStation](../t/tradestation.md)**: [TradeStation](../t/tradestation.md) is a well-known brokerage and trading platform that offers comprehensive tools and features for [algorithmic trading](../a/algorithmic_trading.md). It supports options trading and provides various tools for crafting spread strategies (https://www.[tradestation](../t/tradestation.md).com).
 
-5. **Interactive Brokers**: Interactive Brokers offers a powerful platform for professional traders and institutions, with advanced tools for options trading and support for automated strategies that include spreads (https://www.interactivebrokers.com).
+5. **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](../i/interactive_brokers.md) offers a powerful platform for professional traders and institutions, with advanced tools for options trading and support for automated strategies that include spreads (https://www.interactivebrokers.com).
 
 ### Advanced Spread Strategies in Algorithmic Trading
 

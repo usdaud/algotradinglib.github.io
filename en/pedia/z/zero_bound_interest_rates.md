@@ -54,7 +54,7 @@ In some cases, central banks have pushed interest rates below zero, charging fin
 
 ### Forward Guidance
 
-Central banks communicate future intentions regarding interest rates and monetary policy to influence economic expectations and behavior. By providing clear guidance, they aim to manage market expectations and reduce uncertainty.
+Central banks communicate future intentions regarding interest rates and monetary policy to influence economic expectations and behavior. By providing clear guidance, they aim to manage market expectations and reduce [uncertainty](../u/uncertainty_in_trading.md).
 
 #### Examples
 
@@ -64,7 +64,7 @@ Central banks communicate future intentions regarding interest rates and monetar
 
 ### Keynesian Economics
 
-Keynesian economics plays a significant role in the analysis of zero bound interest rates. John Maynard Keynes’s concept of the [liquidity trap](../l/liquidity_trap.md) describes a scenario where interest rates are so low that people prefer holding cash over investing in bonds, rendering monetary policy ineffective.
+[Keynesian economics](../k/keynesian_economics_in_trading.md) plays a significant role in the analysis of zero bound interest rates. John Maynard Keynes’s concept of the [liquidity trap](../l/liquidity_trap.md) describes a scenario where interest rates are so low that people prefer holding cash over investing in bonds, rendering monetary policy ineffective.
 
 ### Neo-Fisherian Approach
 

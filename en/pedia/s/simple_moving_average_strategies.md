@@ -100,7 +100,7 @@ print(data)
 ```
 
 #### Dynamic SMA Strategy
-Unlike static SMA crossover strategies, a Dynamic SMA strategy adjusts the SMA period based on market conditions. Traders may use volatility measures like the Average True Range (ATR) to modify the period. The rationale is that during high volatility, a longer SMA period smooths out noise, and during low volatility, a shorter SMA period provides more responsiveness.
+Unlike static SMA crossover strategies, a Dynamic SMA strategy adjusts the SMA period based on market conditions. Traders may use volatility measures like the [Average True Range](../a/average_true_range_(atr).md) (ATR) to modify the period. The rationale is that during high volatility, a longer SMA period smooths out noise, and during low volatility, a shorter SMA period provides more responsiveness.
 
 ##### Implementation Example
 ```python
@@ -131,7 +131,7 @@ print(data)
 
 ### Drawbacks of SMA Strategies
 1. **Lagging Indicator**: SMAs are based on historical prices and may lag in fast-moving markets.
-2. **Whipsaws**: Frequent changes in trend direction can lead to false signals, resulting in losses.
+2. **Whipsaws**: Frequent changes in trend direction can lead to [false signals](../f/false_signals_in_trading.md), resulting in losses.
 3. **Parameter Sensitivity**: The choice of period length can greatly affect performance, requiring optimization.
 
 ### Popular Platforms for Algortihmic Trading

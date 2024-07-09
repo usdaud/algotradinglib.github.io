@@ -4,11 +4,11 @@
 
 ## Social Sentiment Indicators
 
-Social [sentiment indicators](../s/sentiment_indicators.md) assess the mood of the market based on public opinion, news stories, and social media feeds. Social [sentiment analysis](../s/sentiment_analysis.md) employs Natural Language Processing (NLP) and machine learning algorithms to gauge sentiment from vast amounts of textual data.
+Social [sentiment indicators](../s/sentiment_indicators.md) assess the mood of the market based on public opinion, news stories, and social media feeds. Social [sentiment analysis](../s/sentiment_analysis.md) employs [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to gauge sentiment from vast amounts of textual data.
 
 ### Key Players in Social Sentiment Analytics
 
-1. **Sentifi**: A company that leverages AI and Big Data to offer real-time financial market sentiment. More information about Sentifi can be accessed [here](https://www.sentifi.com).
+1. **Sentifi**: A company that leverages AI and [Big Data](../b/big_data_in_trading.md) to offer real-time financial market sentiment. More information about Sentifi can be accessed [here](https://www.sentifi.com).
 2. **Finomial**: Focuses on delivering sentiment analytics to drive investment decisions. Visit their services [here](https://www.finomial.com).
 
 ### Application in Trading
@@ -74,7 +74,7 @@ Predicting the scale and impact of a disaster accurately remains a significant c
 
 ## Geopolitical Indicators
 
-Geopolitical factors like government policies, international relations, and political stability can greatly influence market behavior. 
+Geopolitical factors like [government policies](../g/government_policies_in_trading.md), international relations, and political stability can greatly influence market behavior. 
 
 ### Providers of Geopolitical Analysis
 
@@ -91,7 +91,7 @@ These indicators may generate "noise" that complicates trading decisions. Also, 
 
 ## Technological Disruption Indicators
 
-Technology advancements and disruptions, such as the advent of AI, blockchain, or new healthcare technologies can play crucial roles in shaping markets.
+Technology advancements and disruptions, such as the advent of AI, [blockchain](../b/blockchain_in_trading.md), or new healthcare technologies can play crucial roles in shaping markets.
 
 ### Companies Leading in Tech Analysis
 

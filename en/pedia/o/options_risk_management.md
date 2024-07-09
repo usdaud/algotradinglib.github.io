@@ -35,7 +35,7 @@ Model risk arises from the potential inaccuracy of [valuation models](../v/valua
 
 **Key Points**:
 - Dependence on models like Black-Scholes or Binomial models assumes certain market conditions that may not always hold true.
-- Regular model validation and stress testing are essential to mitigate model risk.
+- Regular model validation and [stress testing](../s/stress_testing_in_trading.md) are essential to mitigate model risk.
 
 ### Operational Risk
 

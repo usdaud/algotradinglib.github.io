@@ -8,9 +8,9 @@ Unlike single-period optimization, which focuses on a one-time decision based on
 
 - **Dynamic Investment Strategies**: Optimization that adapts to changes in market conditions across different time periods.
 - **Rebalancing Constraints**: Managing the frequency and impact of adjusting the portfolio to align with target allocations.
-- **Path Dependency**: Incorporating the effects of previous decisions and how they influence future allocations.
+- **[Path Dependency](../p/path_dependency_in_trading.md)**: Incorporating the effects of previous decisions and how they influence future allocations.
 
-Mathematically, multi-period optimization models can be described using dynamic programming principles or through [stochastic control](../s/stochastic_control.md) frameworks.
+Mathematically, multi-period optimization models can be described using [dynamic programming](../d/dynamic_programming_in_trading.md) principles or through [stochastic control](../s/stochastic_control.md) frameworks.
 
 ## Key Features and Benefits
 
@@ -24,13 +24,13 @@ Mathematically, multi-period optimization models can be described using dynamic 
 
 - **[Portfolio Rebalancing](../p/portfolio_rebalancing.md)**: Periodically adjusting the portfolio to maintain target [asset allocation](../a/asset_allocation.md) while minimizing transaction costs and taxes.
 - **[Dynamic Hedging](../d/dynamic_hedging.md)**: Continuously updating hedge positions to protect against adverse market movements.
-- **[Execution Algorithms](../e/execution_algorithms.md)**: Using predictive models to decide the timing and quantity of trades to minimize market impact and slippage.
+- **[Execution Algorithms](../e/execution_algorithms.md)**: Using [predictive models](../p/predictive_models_in_trading.md) to decide the timing and quantity of trades to minimize market impact and slippage.
 
 ## Mathematical Formulation
 
 ### Dynamic Programming Approach
 
-Dynamic programming breaks down the multi-period optimization problem into simpler sub-problems. The Bellman equation expresses the principle of optimality, providing a recursive solution:
+[Dynamic programming](../d/dynamic_programming_in_trading.md) breaks down the multi-period optimization problem into simpler sub-problems. The Bellman equation expresses the principle of optimality, providing a recursive solution:
 
 \[ V_t(x_t) = \max_{a_t \in A_t} \left( r_t(x_t, a_t) + \beta E_t[V_{t+1}(x_{t+1})] \right) \]
 

@@ -22,7 +22,7 @@ Different regions and asset classes can provide varied returns during the same p
 
 ### Data Collection and Analysis
 
-Collecting and analyzing vast amounts of data from different markets is crucial for global diversification. Algorithms can process this data to identify trends, correlations, and anomalies, thereby informing investment decisions. Advanced analytics, including artificial intelligence and machine learning, can further refine these insights.
+Collecting and analyzing vast amounts of data from different markets is crucial for global diversification. Algorithms can process this data to identify trends, correlations, and anomalies, thereby informing investment decisions. Advanced analytics, including [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, can further refine these insights.
 
 ### Execution Speed
 
@@ -96,7 +96,7 @@ Link: [Two Sigma](https://www.twosigma.com)
 
 ### AQR Capital Management
 
-AQR Capital Management employs quantitative strategies to capitalize on global market inefficiencies. The firm uses a diversified approach, investing across equities, fixed income, and alternative assets globally.
+AQR Capital Management employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) to capitalize on global market inefficiencies. The firm uses a diversified approach, investing across equities, fixed income, and alternative assets globally.
 Link: [AQR Capital Management](https://www.aqr.com)
 
 ## Challenges and Risks
@@ -129,11 +129,11 @@ Enhanced AI and ML techniques can improve prediction accuracy and adaptability, 
 
 ### Big Data and Alternative Data Sources
 
-Incorporating big data and [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md) and satellite imagery, can provide deeper insights into market trends and anomalies.
+Incorporating [big data](../b/big_data_in_trading.md) and [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md) and satellite imagery, can provide deeper insights into market trends and anomalies.
 
 ### Blockchain and Decentralized Finance (DeFi)
 
-Blockchain technology and DeFi are opening new avenues for global diversification by enabling access to decentralized financial instruments and cross-border transactions.
+[Blockchain](../b/blockchain_in_trading.md) technology and DeFi are opening new avenues for global diversification by enabling access to decentralized financial instruments and cross-border transactions.
 
 ### Environmental, Social, and Governance (ESG) Investing
 

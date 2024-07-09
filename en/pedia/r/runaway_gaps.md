@@ -46,7 +46,7 @@ While specific examples can vary greatly, notable instances of runaway gaps have
 - **Apple Inc.**: A significant increase in Apple's share price following a groundbreaking product announcement, coupled with higher-than-expected earnings.
 - **Tesla Inc.**: Runaway gaps witnessed during Tesla’s aggressive growth phase and entry into new markets. Their stock price surged with remarkable trading volumes.
 
-For algorithmic traders, platforms like **[TradeStation](../t/tradestation.md)** and **Interactive Brokers** offer robust tools for identifying and trading gaps. Traders developing their algorithms may reference these platforms for data feeds, API access, and [backtesting](../b/backtesting.md) environments.
+For algorithmic traders, platforms like **[TradeStation](../t/tradestation.md)** and **[Interactive Brokers](../i/interactive_brokers.md)** offer robust tools for identifying and trading gaps. Traders developing their algorithms may reference these platforms for data feeds, API access, and [backtesting](../b/backtesting.md) environments.
 
 - [TradeStation](https://www.tradestation.com/)
 - [Interactive Brokers](https://www.interactivebrokers.com/)

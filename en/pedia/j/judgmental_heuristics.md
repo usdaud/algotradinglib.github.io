@@ -1,6 +1,6 @@
 # Judgmental Heuristics
 
-Judgmental heuristics are mental shortcuts that people use to make decisions quickly and efficiently. They are part of human cognition that allows for rapid problem solving with a minimal cognitive load. These heuristics often arise in situations of uncertainty when decisions need to be made with limited information or under time constraints. While they can lead to effective decision-making in many scenarios, they may also introduce biases and systematic errors.
+Judgmental heuristics are mental shortcuts that people use to make decisions quickly and efficiently. They are part of human cognition that allows for rapid problem solving with a minimal cognitive load. These heuristics often arise in situations of [uncertainty](../u/uncertainty_in_trading.md) when decisions need to be made with limited information or under time constraints. While they can lead to effective decision-making in many scenarios, they may also introduce biases and systematic errors.
 
 In the context of [algorithmic trading](../a/algorithmic_trading.md), an area heavily reliant on data and quantitative analytics, understanding judgmental heuristics is crucial for several reasons. These heuristics can influence the design of [trading algorithms](../t/trading_algorithms.md) and the interpretation of their outcomes. They can also play a role in human-based decision-making processes that interact with or oversee [algorithmic trading](../a/algorithmic_trading.md) systems.
 
@@ -16,7 +16,7 @@ The availability heuristic involves basing judgments on information that is most
 
 **3. Representativeness Heuristic**
 
-The representativeness heuristic is used when making judgments about the probability of an event under uncertainty. Traders might classify a stock as "high growth" based on a few familiar characteristics without taking into account the broader statistical base rate of such stocks achieving high growth.
+The representativeness heuristic is used when making judgments about the probability of an event under [uncertainty](../u/uncertainty_in_trading.md). Traders might classify a stock as "high growth" based on a few familiar characteristics without taking into account the broader statistical base rate of such stocks achieving high growth.
 
 **4. Overconfidence Heuristic**
 
@@ -24,11 +24,11 @@ Overconfidence can lead traders to overestimate their knowledge or the precision
 
 ## Implications for Algorithmic Trading
 
-Understanding these heuristics is essential for those involved in the development of [trading algorithms](../t/trading_algorithms.md). Developers need to be aware of how these cognitive biases might influence their design decisions or the interpretation of algorithmic performance.
+Understanding these heuristics is essential for those involved in the development of [trading algorithms](../t/trading_algorithms.md). Developers need to be aware of how these [cognitive biases](../c/cognitive_biases_in_trading.md) might influence their design decisions or the interpretation of algorithmic performance.
 
 **1. Design of [Trading Algorithms](../t/trading_algorithms.md)**
 
-When designing [trading algorithms](../t/trading_algorithms.md), developers must guard against embedding their own cognitive biases into the coding process. For example, if an algorithm is anchored to [historical volatility](../h/historical_volatility.md) data, it may fail to adapt to changing market conditions effectively.
+When designing [trading algorithms](../t/trading_algorithms.md), developers must guard against embedding their own [cognitive biases](../c/cognitive_biases_in_trading.md) into the coding process. For example, if an algorithm is anchored to [historical volatility](../h/historical_volatility.md) data, it may fail to adapt to changing market conditions effectively.
 
 **2. [Risk Management](../r/risk_management.md)**
 
@@ -44,7 +44,7 @@ Traders often operate under high-pressure conditions, and stress can exacerbate 
 
 **Reference:**
 
-- Kahneman, Daniel, and Amos Tversky. "Judgment under Uncertainty: Heuristics and Biases." Science, vol. 185, no. 4157, 1974, pp. 1124–1131.
+- Kahneman, Daniel, and Amos Tversky. "Judgment under [Uncertainty](../u/uncertainty_in_trading.md): Heuristics and Biases." Science, vol. 185, no. 4157, 1974, pp. 1124–1131.
 
 ## Practical Applications
 
@@ -52,7 +52,7 @@ Several financial institutions leverage knowledge of judgmental heuristics to re
 
 Another example is Two Sigma [https://www.twosigma.com/], which employs advanced data science techniques to mitigate heuristic-driven errors and enhance [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-Understanding judgmental heuristics provides valuable insights that help firms develop more robust [trading systems](../t/trading_systems.md), manage risk effectively, and ensure regulatory compliance. This knowledge also informs trader education and training programs, fostering awareness of cognitive biases and improving decision-making processes.
+Understanding judgmental heuristics provides valuable insights that help firms develop more robust [trading systems](../t/trading_systems.md), manage risk effectively, and ensure regulatory compliance. This knowledge also informs trader education and training programs, fostering awareness of [cognitive biases](../c/cognitive_biases_in_trading.md) and improving decision-making processes.
 
 By recognizing the impact of these decisional shortcuts, algorithmic traders and developers can create more adaptive, resilient, and profitable [trading strategies](../t/trading_strategies.md) in the dynamic landscape of financial markets.
 

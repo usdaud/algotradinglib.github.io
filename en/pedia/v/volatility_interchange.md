@@ -77,7 +77,7 @@ HFT firms leverage ultra-low latency systems to exploit fleeting volatility [arb
 
 ### Machine Learning and AI
 
-Machine learning and artificial intelligence (AI) techniques are increasingly employed to identify patterns and predict volatility more accurately, thereby optimizing [trading strategies](../t/trading_strategies.md).
+Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques are increasingly employed to identify patterns and predict volatility more accurately, thereby optimizing [trading strategies](../t/trading_strategies.md).
 
 ## Industry Participants
 
@@ -93,8 +93,8 @@ Two Sigma Investments is a hedge fund that employs data-driven strategies to tra
 
 ### DE Shaw Group
 
-The DE Shaw Group is a global investment and technology development firm known for its sophisticated quantitative strategies. [DE Shaw Group](https://www.deshaw.com/)
+The DE Shaw Group is a global investment and technology development firm known for its sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md). [DE Shaw Group](https://www.deshaw.com/)
 
 ## Conclusion
 
-Volatility interchange represents a complex but rewarding frontier in modern finance. By leveraging advanced mathematical models, cutting-edge technology, and deep market insights, traders can exploit the nuanced relationships among various volatility measures to generate substantial returns. Despite its challenges, the evolution of tools and techniques continues to enhance the efficacy and scope of volatility interchange strategies.
+Volatility interchange represents a complex but rewarding frontier in modern finance. By leveraging advanced [mathematical models](../m/mathematical_models_in_trading.md), cutting-edge technology, and deep market insights, traders can exploit the nuanced relationships among various volatility measures to generate substantial returns. Despite its challenges, the evolution of tools and techniques continues to enhance the efficacy and scope of volatility interchange strategies.

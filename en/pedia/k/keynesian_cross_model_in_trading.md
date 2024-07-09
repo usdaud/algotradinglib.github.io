@@ -25,10 +25,10 @@ The Keynesian Cross Model, developed by British economist John Maynard Keynes, i
 In trading, aggregate expenditure can be interpreted as the total market investment across various assets. By analyzing aggregate levels of investment, traders can gauge market sentiment and potential future movements.
 
 ### Predictive Analysis
-Using the Keynesian Cross Model, one could develop predictive models for market behavior:
+Using the Keynesian Cross Model, one could develop [predictive models](../p/predictive_models_in_trading.md) for market behavior:
 - **Consumption Trends:** Analyzing consumer behavior can inform retail stock investments.
 - **Investment Levels:** High levels of investment in certain sectors can imply growth potential, guiding sector-focused [trading strategies](../t/trading_strategies.md).
-- **Government Policies:** Understanding the impact of fiscal policies can help predict moves in government-related securities or industries heavily influenced by government spending.
+- **[Government Policies](../g/government_policies_in_trading.md):** Understanding the impact of fiscal policies can help predict moves in government-related securities or industries heavily influenced by government spending.
 - **Net Exports:** Monitoring trade balances can guide forex [trading strategies](../t/trading_strategies.md).
 
 ## Practical Implementation in Algorithmic Trading

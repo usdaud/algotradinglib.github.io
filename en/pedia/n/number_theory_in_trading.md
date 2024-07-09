@@ -24,8 +24,8 @@ The Fibonacci sequence is a series of numbers where each number is the sum of th
    - Fibonacci retracement levels are popular tools in [technical analysis](../t/technical_analysis.md). Traders use them to identify potential reversal levels by plotting horizontal lines at key Fibonacci levels (23.6%, 38.2%, 50%, 61.8%, and 100%) from a significant price movement.
    - [Fibonacci Trading Institute](https://www.fibonaccitradinginstitute.com) offers specialized training on leveraging Fibonacci sequences in [trading strategies](../t/trading_strategies.md).
 
-2. **Predictive Models:**
-   - Traders develop predictive models based on Fibonacci numbers to forecast future price movements of financial instruments.
+2. **[Predictive Models](../p/predictive_models_in_trading.md):**
+   - Traders develop [predictive models](../p/predictive_models_in_trading.md) based on Fibonacci numbers to forecast future price movements of financial instruments.
 
 ## Modular Arithmetic
 
@@ -41,9 +41,9 @@ Modular arithmetic, a system of arithmetic for integers where numbers "wrap arou
 
 Chaos theory and fractals, rooted in number theory, study complex systems and patterns that appear chaotic but have underlying order. These concepts are increasingly used in trading for modeling and prediction.
 
-1. **Fractal Analysis:**
-   - Fractal analysis helps in understanding market behavior by identifying self-similar patterns at different scales. This analysis is used to forecast market movements and potential price reversals.
-   - [Fractal Wealth](https://www.fractalwealth.com) provides resources and strategies based on fractal analysis for traders.
+1. **[Fractal Analysis](../f/fractal_analysis_in_trading.md):**
+   - [Fractal analysis](../f/fractal_analysis_in_trading.md) helps in understanding market behavior by identifying self-similar patterns at different scales. This analysis is used to forecast market movements and potential price reversals.
+   - [Fractal Wealth](https://www.fractalwealth.com) provides resources and strategies based on [fractal analysis](../f/fractal_analysis_in_trading.md) for traders.
 
 2. **[Risk Management](../r/risk_management.md):**
    - Chaos theory aids in [risk management](../r/risk_management.md) by analyzing market volatility and dynamics, helping traders develop robust strategies under uncertain conditions.
@@ -71,4 +71,4 @@ Elliptic curves, algebraic curves defined by cubic equations, are critical in mo
 
 ## Conclusion
 
-Number theory offers diverse and rich applications in trading, from [technical analysis](../t/technical_analysis.md) tools like Fibonacci retracements to sophisticated cryptographic methods safeguarding financial transactions. As [trading strategies](../t/trading_strategies.md) become increasingly reliant on mathematical models and algorithms, the role of number theory in trading continues to grow, providing traders with both deeper insights and advanced tools for navigating financial markets.
+Number theory offers diverse and rich applications in trading, from [technical analysis](../t/technical_analysis.md) tools like Fibonacci retracements to sophisticated cryptographic methods safeguarding financial transactions. As [trading strategies](../t/trading_strategies.md) become increasingly reliant on [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, the role of number theory in trading continues to grow, providing traders with both deeper insights and advanced tools for navigating financial markets.

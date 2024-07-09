@@ -79,8 +79,8 @@ Bank of America’s Merrill Lynch division offers trading and investment service
 [Bloomberg](../b/bloomberg.md) Terminal is an essential tool for algo-traders monitoring real-time data, yields, and analytics related to 3-Month T-Bills. Learn more at [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ### E*TRADE
-E*TRADE allows individual investors to access T-Bills through their trading platform, providing tools for performance analysis and [portfolio management](../p/portfolio_management.md). Visit [E*TRADE](https://us.etrade.com/).
+[E*TRADE](../e/e_trade.md) allows individual investors to access T-Bills through their trading platform, providing tools for performance analysis and [portfolio management](../p/portfolio_management.md). Visit [E*TRADE](https://us.etrade.com/).
 
 ## Conclusion
 
-The 3-Month Treasury Bill plays a crucial role in the financial system, offering a risk-free investment vehicle that underpins various [trading strategies](../t/trading_strategies.md), including [algorithmic trading](../a/algorithmic_trading.md). Its importance is magnified during periods of economic uncertainty, serving as a safe haven for investors. The seamless integration of T-Bills into algo-[trading models](../t/trading_models.md) underscores their versatility and the sophisticated approaches embraced by modern finance.
+The 3-Month Treasury Bill plays a crucial role in the financial system, offering a risk-free investment vehicle that underpins various [trading strategies](../t/trading_strategies.md), including [algorithmic trading](../a/algorithmic_trading.md). Its importance is magnified during periods of economic [uncertainty](../u/uncertainty_in_trading.md), serving as a safe haven for investors. The seamless integration of T-Bills into algo-[trading models](../t/trading_models.md) underscores their versatility and the sophisticated approaches embraced by modern finance.

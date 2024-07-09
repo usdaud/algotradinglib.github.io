@@ -43,7 +43,7 @@ Realized volatility can be computed using different data frequencies (e.g., dail
 Realized volatility is a key input in [risk management](../r/risk_management.md) practices, as it helps quantify the historical risk associated with an asset. By analyzing realized volatility, risk managers can:
 
 - **Assess Historical Risk**: Understand the past behavior and risk characteristics of the asset, which aids in making informed decisions regarding risk exposure.
-- **Stress Testing**: Perform stress tests and scenario analyses by examining how realized volatility behaved during past market stress periods.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Perform stress tests and scenario analyses by examining how realized volatility behaved during past market stress periods.
 - **Value-at-Risk (VaR)**: Calculate historical VaR, which estimates the potential loss in the value of an asset or portfolio over a specified period, given a certain confidence level.
 
 #### Portfolio Management

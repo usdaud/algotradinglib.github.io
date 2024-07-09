@@ -28,7 +28,7 @@ Such changes pose unique challenges for [algorithmic trading](../a/algorithmic_t
 
 ### Challenges in Model Calibration
 
-Calibrating [algorithmic trading](../a/algorithmic_trading.md) models typically involves optimizing parameters based on historical performance. However, historical data with interest rates far from the [zero lower bound](../z/zero_lower_bound.md) might not be relevant. This can be particularly problematic for machine learning algorithms that depend heavily on large datasets for training and validation.
+Calibrating [algorithmic trading](../a/algorithmic_trading.md) models typically involves optimizing parameters based on historical performance. However, historical data with interest rates far from the [zero lower bound](../z/zero_lower_bound.md) might not be relevant. This can be particularly problematic for machine [learning algorithms](../l/learning_algorithms_in_trading.md) that depend heavily on large datasets for training and validation.
 
 For example, a trading algorithm based on mean-reversion strategies might need recalibration. In a ZLB environment, the mean-reverting behavior of interest rates and asset prices could be skewed, leading to potential miscalculations. Therefore, traders need to incorporate ZLB conditions explicitly into their models or use [alternative data](../a/alternative_data.md) sources to ensure robustness.
 
@@ -37,10 +37,10 @@ For example, a trading algorithm based on mean-reversion strategies might need r
 In a ZLB environment, managing risk becomes more complex due to the altered behavior of financial instruments. [Algorithmic trading](../a/algorithmic_trading.md) strategies often involve leverage, which can amplify both profits and losses. Given the unique challenges posed by zero-bound interest rates, algorithms must incorporate advanced [risk management](../r/risk_management.md) features.
 
 #### Volatility Considerations
-One of the key adjustments involves volatility management. At the [zero lower bound](../z/zero_lower_bound.md), market volatility can increase due to heightened uncertainty and the potential for unconventional monetary policy moves. [Algorithmic trading](../a/algorithmic_trading.md) models should adjust their volatility parameters to better reflect the increased market risk.
+One of the key adjustments involves volatility management. At the [zero lower bound](../z/zero_lower_bound.md), market volatility can increase due to heightened [uncertainty](../u/uncertainty_in_trading.md) and the potential for unconventional monetary policy moves. [Algorithmic trading](../a/algorithmic_trading.md) models should adjust their volatility parameters to better reflect the increased market risk.
 
 #### Tail Risk
-Tail [risk management](../r/risk_management.md) becomes crucial as well. Tail events—extreme events that are not well captured by normal distribution models—can become more frequent in ZLB scenarios. Prudent [risk management](../r/risk_management.md) techniques such as stress testing and VaR (Value-at-Risk) models should be calibrated to account for the higher likelihood of tail events.
+Tail [risk management](../r/risk_management.md) becomes crucial as well. Tail events—extreme events that are not well captured by [normal distribution](../n/normal_distribution_in_trading.md) models—can become more frequent in ZLB scenarios. Prudent [risk management](../r/risk_management.md) techniques such as [stress testing](../s/stress_testing_in_trading.md) and VaR (Value-at-Risk) models should be calibrated to account for the higher likelihood of tail events.
 
 ## Opportunities in ZLB
 
@@ -59,7 +59,7 @@ Algorithmic traders can also benefit from unconventional monetary policies such 
 Algorithms can be adapted to better handle ZLB conditions by incorporating a broader set of macroeconomic indicators. For example, instead of solely relying on interest rates, models can consider other factors such as GDP growth, inflation rates, and central bank communications. This multi-faceted approach can help algorithms make more informed decisions.
 
 ### Machine Learning Techniques
-Machine learning algorithms, particularly those capable of handling non-linear relationships and high-dimensional data, can be highly effective in a ZLB environment. Techniques such as reinforcement learning can adapt to changing market conditions and learn optimal [trading strategies](../t/trading_strategies.md) over time.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md), particularly those capable of handling non-linear relationships and high-dimensional data, can be highly effective in a ZLB environment. Techniques such as reinforcement learning can adapt to changing market conditions and learn optimal [trading strategies](../t/trading_strategies.md) over time.
 
 ### Real-Time Data Analysis
 The ability to analyze real-time data becomes increasingly important when interest rates are at the [zero lower bound](../z/zero_lower_bound.md). Market conditions can change rapidly, and algorithms that can process and react to new information in real-time will have a significant advantage.

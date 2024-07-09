@@ -84,7 +84,7 @@ data[['Close', '2WMA', 'Signal']].plot()
 
 ### Disadvantages
 1. **Lag**: Being a lagging indicator, it may not respond quickly to sudden market changes.
-2. **Whipsaws**: Prone to generating false signals in choppy markets.
+2. **Whipsaws**: Prone to generating [false signals](../f/false_signals_in_trading.md) in choppy markets.
 3. **Limited Scope**: May not be effective for long-term [trend analysis](../t/trend_analysis.md).
 
 ## Practical Use Cases

@@ -1,6 +1,6 @@
 # Quantitative Portfolio Construction
 
-Quantitative Portfolio Construction refers to the process of using mathematical models and algorithms to determine the optimal mix of assets in a portfolio, with the goal of maximizing returns while controlling for risk. This methodology employs various statistical and econometric techniques to analyze historical data, forecast future performance, and allocate assets in a systematic and disciplined manner.
+Quantitative Portfolio Construction refers to the process of using [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to determine the optimal mix of assets in a portfolio, with the goal of maximizing returns while controlling for risk. This methodology employs various statistical and econometric techniques to analyze historical data, forecast future performance, and allocate assets in a systematic and disciplined manner.
 
 ## Key Components
 
@@ -14,7 +14,7 @@ Asset selection is the initial step in quantitative portfolio construction. It i
 Optimization involves finding the best combination of assets to achieve desired investment objectives. Modern portfolio theory (MPT) and the [mean-variance optimization](../m/mean-variance_optimization.md) introduced by Harry Markowitz are foundational techniques in this area. These methods seek to maximize expected return for a given level of risk or minimize risk for a given level of expected return. Advanced techniques also incorporate constraints such as budget limitations, transaction costs, and regulatory requirements.
 
 ### 4. Risk Management
-[Risk management](../r/risk_management.md) is crucial for ensuring that the portfolio's risk is aligned with the investor's risk tolerance. Common risk measures include standard deviation, Value at Risk (VaR), and Conditional Value at Risk (CVaR). Portfolio managers also use stress testing and scenario analysis to assess potential losses under extreme market conditions.
+[Risk management](../r/risk_management.md) is crucial for ensuring that the portfolio's risk is aligned with the investor's risk tolerance. Common risk measures include standard deviation, Value at Risk (VaR), and Conditional Value at Risk (CVaR). Portfolio managers also use [stress testing](../s/stress_testing_in_trading.md) and scenario analysis to assess potential losses under extreme market conditions.
 
 ### 5. Backtesting
 [Backtesting](../b/backtesting.md) involves simulating the portfolio's performance using historical data to validate the efficacy of the [quantitative models](../q/quantitative_models.md) and strategies employed. This process helps identify potential weaknesses and allows for adjustments before actual implementation.
@@ -42,10 +42,10 @@ A multi-asset portfolio incorporates a diverse mix of asset classes, such as equ
 [AQR Capital Management](https://www.aqr.com/) is a renowned investment management firm known for its quantitative approach to portfolio construction. AQR utilizes advanced statistical models and extensive data analysis to design and manage diversified portfolios across various asset classes.
 
 ### Two Sigma Investments
-[Two Sigma](https://www.twosigma.com/) is a technology-driven investment firm that leverages machine learning and artificial intelligence to develop sophisticated [trading algorithms](../t/trading_algorithms.md) and [portfolio management](../p/portfolio_management.md) strategies. Their quantitative approach aims to uncover patterns and predict market movements.
+[Two Sigma](https://www.twosigma.com/) is a technology-driven investment firm that leverages machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop sophisticated [trading algorithms](../t/trading_algorithms.md) and [portfolio management](../p/portfolio_management.md) strategies. Their quantitative approach aims to uncover patterns and predict market movements.
 
 ### Renaissance Technologies
-Renaissance Technologies is a highly influential quantitative hedge fund known for its Medallion Fund, which employs complex mathematical models and computational techniques to achieve remarkable returns. Although the firm operates with a high level of secrecy, its success has made it a benchmark in the field of [quantitative investing](../q/quantitative_investing.md).
+Renaissance Technologies is a highly influential quantitative hedge fund known for its Medallion Fund, which employs complex [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques to achieve remarkable returns. Although the firm operates with a high level of secrecy, its success has made it a benchmark in the field of [quantitative investing](../q/quantitative_investing.md).
 
 ## Academic Foundations
 

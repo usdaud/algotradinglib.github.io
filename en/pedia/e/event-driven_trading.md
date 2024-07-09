@@ -23,7 +23,7 @@ Event-driven trading is a sophisticated strategy that aims to identify and capit
 
 #### News Analytics
 
-Traders use advanced news analytics tools to sift through massive amounts of data and extract relevant information. These tools often utilize Natural Language Processing (NLP) and machine learning algorithms to detect sentiment, relevance, and the anticipated impact of a financial event.
+Traders use advanced news analytics tools to sift through massive amounts of data and extract relevant information. These tools often utilize [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to detect sentiment, relevance, and the anticipated impact of a financial event.
 
 #### Event Databases
 
@@ -45,7 +45,7 @@ A good example of how [earnings announcements](../e/earnings_announcements.md) a
 
 #### Mergers and Acquisitions
 
-In an acquisition scenario, let’s consider Amazon's purchase of Whole Foods in 2017. As soon as the announcement broke, Whole Foods' stock surged due to the acquisition premium, while Amazon's stock fluctuated as traders assessed the strategic value of the acquisition. Event-driven algorithms could have been designed to capitalize on these movements by simultaneously buying Whole Foods stock and shorting Amazon's stock, balancing the portfolio based on predictive models.
+In an acquisition scenario, let’s consider Amazon's purchase of Whole Foods in 2017. As soon as the announcement broke, Whole Foods' stock surged due to the acquisition premium, while Amazon's stock fluctuated as traders assessed the strategic value of the acquisition. Event-driven algorithms could have been designed to capitalize on these movements by simultaneously buying Whole Foods stock and shorting Amazon's stock, balancing the portfolio based on [predictive models](../p/predictive_models_in_trading.md).
 
 ### Technology and Platforms
 
@@ -53,7 +53,7 @@ Modern event-driven strategies heavily depend on the use of advanced trading pla
 
 #### Quantitative Analysis and Machine Learning
 
-[Quantitative analysis](../q/quantitative_analysis.md) and machine learning models play a pivotal role in event-driven trading. These tools analyze vast datasets to detect patterns that human traders might miss. Platforms like [Numerai](https://numer.ai/) crowdsource intelligence from data scientists around the world to build predictive models, providing a unique way to harness collective intelligence for event-driven strategies.
+[Quantitative analysis](../q/quantitative_analysis.md) and machine learning models play a pivotal role in event-driven trading. These tools analyze vast datasets to detect patterns that human traders might miss. Platforms like [Numerai](https://numer.ai/) crowdsource intelligence from data scientists around the world to build [predictive models](../p/predictive_models_in_trading.md), providing a unique way to harness collective intelligence for event-driven strategies.
 
 #### Real-Life Applications
 

@@ -42,12 +42,12 @@ Optimizing limit orders involves a series of sophisticated techniques and consid
 ## Tools and Platforms
 
 ### 1. Trading Platforms and Bots
-   - **Interactive Brokers**: Offers sophisticated trading tools and algorithms for limit order optimization. [Interactive Brokers](https://www.interactivebrokers.com/)
+   - **[Interactive Brokers](../i/interactive_brokers.md)**: Offers sophisticated trading tools and algorithms for limit order optimization. [Interactive Brokers](https://www.interactivebrokers.com/)
    - **[QuantConnect](../q/quantconnect.md)**: A [quantitative trading](../q/quantitative_trading.md) platform supporting algorithm creation and [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
 
 ### 2. Data Analytics Tools
    - **Pandas**: A Python library for data analysis, instrumental in processing stock market data.
-   - **TensorFlow**: An open-source machine learning library by Google, useful in developing and training predictive models.
+   - **TensorFlow**: An open-source machine learning library by Google, useful in developing and training [predictive models](../p/predictive_models_in_trading.md).
 
 ## Case Studies and Applications
 
@@ -66,7 +66,7 @@ Optimizing limit orders involves a series of sophisticated techniques and consid
    Large orders can influence market prices unfavorably; optimizing limit order placement can mitigate this risk.
 
 ### 2. Data Quality and Accuracy
-   Reliable data are crucial for accurate predictive models and successful limit order optimization.
+   Reliable data are crucial for accurate [predictive models](../p/predictive_models_in_trading.md) and successful limit order optimization.
 
 ### 3. Regulatory Compliance
    Adherence to trading regulations and acting within the legal frameworks is essential for any [algorithmic trading](../a/algorithmic_trading.md) strategy.

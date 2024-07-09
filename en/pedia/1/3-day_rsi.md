@@ -63,7 +63,7 @@ The 3-Day RSI can be combined with other [technical indicators](../t/technical_i
 
 While the 3-Day RSI can be a useful tool, it is not without its limitations:
 
-- **False Signals**: The shorter time frame makes it more sensitive to price movements, which can result in more false signals.
+- **[False Signals](../f/false_signals_in_trading.md)**: The shorter time frame makes it more sensitive to price movements, which can result in more [false signals](../f/false_signals_in_trading.md).
 - **Lagging Indicator**: Like all RSI calculations, it is based on past price data and may lag behind the actual price movement.
 - **Market Conditions**: It may not perform well in certain market conditions, such as during strong trends where the price can remain overbought or oversold for extended periods.
 

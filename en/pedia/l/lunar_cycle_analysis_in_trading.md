@@ -56,7 +56,7 @@ Psychological studies have shown that lunar cycles may have an impact on human e
 
 #### Integration with Modern Trading Systems
 
-Lunar [cycle analysis](../c/cycle_analysis.md) can be integrated with modern [trading systems](../t/trading_systems.md) as part of a multi-faceted algorithmic approach. Combining it with [technical indicators](../t/technical_indicators.md), machine learning models, and other quantitative methods can potentially enhance predictive accuracy. For instance, machine learning algorithms can be trained to recognize subtle patterns in price movements relative to lunar phases, generating actionable insights.
+Lunar [cycle analysis](../c/cycle_analysis.md) can be integrated with modern [trading systems](../t/trading_systems.md) as part of a multi-faceted algorithmic approach. Combining it with [technical indicators](../t/technical_indicators.md), machine learning models, and other quantitative methods can potentially enhance predictive accuracy. For instance, machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be trained to recognize subtle patterns in price movements relative to lunar phases, generating actionable insights.
 
 **Example**: 
 To see how modern technology companies like [QuantConnect](../q/quantconnect.md) offer tools that allow traders to integrate such unconventional data into their [quantitative models](../q/quantitative_models.md), visit [QuantConnect's Website](https://www.quantconnect.com/).

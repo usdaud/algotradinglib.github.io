@@ -34,7 +34,7 @@ Improving the Winning Trade Ratio involves a combination of strategic adjustment
 
 1. **[Backtesting](../b/backtesting.md)**: Performing extensive [backtesting](../b/backtesting.md) using historical data to fine-tune algorithm parameters.
 2. **Machine Learning and AI**: Incorporating advanced machine learning and AI techniques to make more predictive and [adaptive algorithms](../a/adaptive_algorithms.md).
-3. **Optimization Algorithms**: Using genetic algorithms or other optimization techniques to improve the decision-making processes of the trading strategy.
+3. **Optimization Algorithms**: Using [genetic algorithms](../g/genetic_algorithms_in_trading.md) or other optimization techniques to improve the decision-making processes of the trading strategy.
 4. **[Risk Management](../r/risk_management.md) Tools**: Implementing robust [risk management](../r/risk_management.md) tools to minimize losses and maximize winning trades.
 5. **Market Analysis**: Continuously analyzing market conditions and updating the [trading algorithms](../t/trading_algorithms.md) to align with current trends.
 

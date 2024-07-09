@@ -53,7 +53,7 @@ Indicators and oscillators are mathematical calculations based on price, volume,
 Fibonacci retracement is based on the idea that markets will retrace a predictable portion of a move, after which they will continue in the original direction. Key Fibonacci levels include 38.2%, 50%, and 61.8%. Traders use these levels to identify potential [support and resistance](../s/support_and_resistance.md) levels.
 
 ### 3. Elliott Wave Theory
-[Elliott Wave Theory](../e/elliott_wave_theory.md) is based on the idea that markets move in predictable wave patterns, consisting of five waves in the direction of the trend and three corrective waves. This theory helps traders identify the direction of the market and potential reversal points.
+[Elliott Wave Theory](../e/elliott_wave_theory.md) is based on the idea that markets move in predictable [wave patterns](../w/wave_patterns_in_trading.md), consisting of five waves in the direction of the trend and three corrective waves. This theory helps traders identify the direction of the market and potential reversal points.
 
 ### 4. Ichimoku Cloud
 The [Ichimoku Cloud](../i/ichimoku_cloud.md), or Ichimoku Kinko Hyo, is a comprehensive indicator that provides information about [support and resistance](../s/support_and_resistance.md), trend direction, and momentum. It consists of five lines: Tenkan-sen, Kijun-sen, Senkou Span A, Senkou Span B, and Chikou Span. The area between Senkou Span A and B is the "cloud."

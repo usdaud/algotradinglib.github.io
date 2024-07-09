@@ -120,7 +120,7 @@ Volume [momentum indicators](../m/momentum_indicators.md) are versatile tools th
 While volume [momentum indicators](../m/momentum_indicators.md) provide valuable insights, traders should be aware of certain limitations:
 
 - **Lagging Nature**: Some indicators may lag price, potentially causing delays in trading decisions.
-- **False Signals**: During low volume periods, indicators may generate false signals.
+- **[False Signals](../f/false_signals_in_trading.md)**: During low volume periods, indicators may generate [false signals](../f/false_signals_in_trading.md).
 - **Complexity**: Combining various indicators can be complex and requires an understanding of each one's mechanics.
 
 ### Conclusion

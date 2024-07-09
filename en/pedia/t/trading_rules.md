@@ -1,6 +1,6 @@
 # Trading Rules
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," utilizes advanced mathematical models, automated systems, and high-speed data exchanges to execute trades. It represents a significant shift from manual trading, allowing traders to execute large orders and complex strategies with precision and efficiency. However, successful [algorithmic trading](../a/algorithmic_trading.md) hinges on a set of well-defined trading rules. These rules guide the creation, execution, and management of [trading algorithms](../t/trading_algorithms.md) and systems, ensuring they operate correctly and reduce the risk of significant losses. This document explores the different facets of trading rules in [algorithmic trading](../a/algorithmic_trading.md), providing a comprehensive overview for novice and experienced traders alike.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," utilizes advanced [mathematical models](../m/mathematical_models_in_trading.md), automated systems, and high-speed data exchanges to execute trades. It represents a significant shift from manual trading, allowing traders to execute large orders and complex strategies with precision and efficiency. However, successful [algorithmic trading](../a/algorithmic_trading.md) hinges on a set of well-defined trading rules. These rules guide the creation, execution, and management of [trading algorithms](../t/trading_algorithms.md) and systems, ensuring they operate correctly and reduce the risk of significant losses. This document explores the different facets of trading rules in [algorithmic trading](../a/algorithmic_trading.md), providing a comprehensive overview for novice and experienced traders alike.
 
 ## What are Trading Rules?
 
@@ -42,7 +42,7 @@ Historical market data is crucial for [backtesting](../b/backtesting.md) trading
 
 ### Computational Models
 
-Advanced computational models, including machine learning and artificial intelligence, are increasingly used to develop and refine trading rules. These models can analyze vast amounts of data to identify complex patterns and optimize [trading strategies](../t/trading_strategies.md).
+Advanced computational models, including machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are increasingly used to develop and refine trading rules. These models can analyze vast amounts of data to identify complex patterns and optimize [trading strategies](../t/trading_strategies.md).
 
 ## Implementation of Trading Rules
 
@@ -57,13 +57,13 @@ Once formulated, trading rules need to be implemented within a trading system. T
 ### Tools and Technologies
 
 There are various tools and platforms available for developing and implementing trading rules:
-- **Trading Platforms**: Software such as MetaTrader, [NinjaTrader](../n/ninjatrader.md), and Interactive Brokers’ API.
+- **Trading Platforms**: Software such as MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [Interactive Brokers](../i/interactive_brokers.md)’ API.
 - **Programming Languages**: Languages like Python, C++, and R are popular for [algorithmic trading](../a/algorithmic_trading.md) due to their extensive libraries and support for data manipulation.
 - **Data Providers**: Companies like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md) provide the necessary market data for [backtesting](../b/backtesting.md) and live trading.
 
 ## Case Study: Renaissance Technologies
 
-Renaissance Technologies, one of the most successful [quantitative trading](../q/quantitative_trading.md) firms, is renowned for its rigorous approach to trading rules. Founded by Jim Simons, the firm relies heavily on mathematical models and sophisticated algorithms to execute trades. Their Medallion Fund, known for its high returns, exemplifies the power of well-defined trading rules and meticulous implementation.
+Renaissance Technologies, one of the most successful [quantitative trading](../q/quantitative_trading.md) firms, is renowned for its rigorous approach to trading rules. Founded by Jim Simons, the firm relies heavily on [mathematical models](../m/mathematical_models_in_trading.md) and sophisticated algorithms to execute trades. Their Medallion Fund, known for its high returns, exemplifies the power of well-defined trading rules and meticulous implementation.
 
 For more information, visit [Renaissance Technologies](https://www.rentec.com/).
 

@@ -19,7 +19,7 @@ The expiration date, also called the maturity date, is the date on which the opt
 
 ## Valuation of European Options
 
-Valuing European options involves determining their theoretical price using mathematical models. The most commonly used models are the [Black-Scholes model](../b/black-scholes_model.md) and the Binomial model. Several factors influence the valuation, including the current price of the underlying asset, the strike price, the time to expiration, the risk-free interest rate, and the volatility of the underlying asset.
+Valuing European options involves determining their theoretical price using [mathematical models](../m/mathematical_models_in_trading.md). The most commonly used models are the [Black-Scholes model](../b/black-scholes_model.md) and the Binomial model. Several factors influence the valuation, including the current price of the underlying asset, the strike price, the time to expiration, the risk-free interest rate, and the volatility of the underlying asset.
 
 ### Black-Scholes Model
 
@@ -38,7 +38,7 @@ Where:
 - \( K \) is the strike price
 - \( r \) is the risk-free interest rate
 - \( T \) is the time to expiration
-- \( N(\cdot) \) is the cumulative distribution function of the standard normal distribution
+- \( N(\cdot) \) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md)
 - \( d_1 \) and \( d_2 \) are intermediary calculations defined as:
 
 \[ d_1 = \frac{\ln(S_0/K) + (r + \sigma^2/2)T}{\sigma \sqrt{T}} \]

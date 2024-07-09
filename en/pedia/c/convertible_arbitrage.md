@@ -52,7 +52,7 @@ Website: [Millennium Management](https://www.mlp.com/)
 
 ### Two Sigma Investments
 
-Two Sigma leverages data science and technology to execute sophisticated market strategies like convertible [arbitrage](../a/arbitrage.md). Their focus on [quantitative analysis](../q/quantitative_analysis.md) helps identify viable [arbitrage](../a/arbitrage.md) opportunities.
+Two Sigma leverages [data science](../d/data_science_in_trading.md) and technology to execute sophisticated market strategies like convertible [arbitrage](../a/arbitrage.md). Their focus on [quantitative analysis](../q/quantitative_analysis.md) helps identify viable [arbitrage](../a/arbitrage.md) opportunities.
 Website: [Two Sigma Investments](https://www.twosigma.com/)
 
 ### DE Shaw Group

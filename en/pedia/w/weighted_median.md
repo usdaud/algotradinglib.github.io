@@ -104,4 +104,4 @@ For an in-depth understanding and advanced methods, consult the following resour
 - [Algorithmic Trading Insights from QuantInsti](https://www.quantinsti.com/blog/algorithmic-trading)
 - [Risk and Portfolio Management](https://www.riskportfolio.com)
 
-In summary, the weighted median is a powerful statistical measure, enhancing the robustness and reliability of [trading algorithms](../t/trading_algorithms.md) by giving priority to more significant data points. Its applications in [portfolio management](../p/portfolio_management.md), outlier detection, signal processing, and [risk management](../r/risk_management.md) make it an indispensable tool in the algorithmic trader's toolkit.
+In summary, the weighted median is a powerful statistical measure, enhancing the robustness and reliability of [trading algorithms](../t/trading_algorithms.md) by giving priority to more significant data points. Its applications in [portfolio management](../p/portfolio_management.md), outlier detection, [signal processing](../s/signal_processing_in_trading.md), and [risk management](../r/risk_management.md) make it an indispensable tool in the algorithmic trader's toolkit.

@@ -25,7 +25,7 @@
    * **Market Conditions**: Requires adept analyses of interest rate movements and bond pricing.
 
 6. **Triangular [Arbitrage](../a/arbitrage.md)**:
-   * **Example**: Currency trading involving three different currencies to exploit discrepancies in the exchange rates between them.
+   * **Example**: [Currency trading](../c/currency_trading_strategies.md) involving three different currencies to exploit discrepancies in the exchange rates between them.
    * **Market Conditions**: Requires real-time trading data and low transaction fees for forex trades.
 
 #### Role in Investment Portfolios

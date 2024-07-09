@@ -1,6 +1,6 @@
 # 6-Month Moving Average
 
-The 6-month moving average is a widely used financial indicator that helps traders and investors identify trends in a financial instrument's price over a specified period. It is particularly relevant in the context of [algorithmic trading](../a/algorithmic_trading.md) (also known as algotrading), where automated systems use predetermined rules and mathematical models to execute trades. This moving average smooths out daily fluctuations and provides a clearer view of the market's underlying direction.
+The 6-month moving average is a widely used financial indicator that helps traders and investors identify trends in a financial instrument's price over a specified period. It is particularly relevant in the context of [algorithmic trading](../a/algorithmic_trading.md) (also known as algotrading), where automated systems use predetermined rules and [mathematical models](../m/mathematical_models_in_trading.md) to execute trades. This moving average smooths out daily fluctuations and provides a clearer view of the market's underlying direction.
 
 ## Definition
 
@@ -64,7 +64,7 @@ One of the major criticisms is that moving averages are [lagging indicators](../
 
 #### False Signals
 
-In volatile and sideways markets, the 6-month moving average can generate false signals, leading to potential losses.
+In volatile and sideways markets, the 6-month moving average can generate [false signals](../f/false_signals_in_trading.md), leading to potential losses.
 
 ## Integration in Algotrading Platforms
 
@@ -86,7 +86,7 @@ MetaTrader is a widely-used trading platform with robust capabilities for custom
 
 ### Hedge Fund Usage
 
-Many hedge funds utilize moving averages as part of their [quantitative trading](../q/quantitative_trading.md) strategies. For example, Renaissance Technologies is known for leveraging complex mathematical models, including moving averages, to gain trading advantages.
+Many hedge funds utilize moving averages as part of their [quantitative trading](../q/quantitative_trading.md) strategies. For example, Renaissance Technologies is known for leveraging complex [mathematical models](../m/mathematical_models_in_trading.md), including moving averages, to gain trading advantages.
 
 ### Retail Trading
 

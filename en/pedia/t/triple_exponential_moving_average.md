@@ -51,7 +51,7 @@ TEMA improves upon the EMA by applying multiple [exponential smoothing](../e/exp
 While TEMA offers advantages, it is not without limitations:
 
 1. **Complexity:** The calculation is more complex compared to SMA and EMA, which may require more computational resources.
-2. **Over-Sensitivity:** Though reduced lag is beneficial, over-sensitivity to price changes might lead to false signals in noisy or volatile markets.
+2. **Over-Sensitivity:** Though reduced lag is beneficial, over-sensitivity to price changes might lead to [false signals](../f/false_signals_in_trading.md) in noisy or volatile markets.
 
 #### Comparison with Other Moving Averages
 

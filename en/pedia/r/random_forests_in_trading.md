@@ -22,7 +22,7 @@ Training a Random Forest model involves splitting your financial historical data
 
 ### Model Evaluation
 
-Once the model is trained, it is evaluated using metrics such as accuracy, precision, recall, and F1-score for classification tasks. For regression tasks, metrics like [Mean Squared Error](../m/mean_squared_error.md) (MSE), Mean Absolute Error (MAE), and R-squared (R2) are typically used. The evaluation should also consider financial metrics such as [Sharpe Ratio](../s/sharpe_ratio.md), Maximum Drawdown, and [Profit Factor](../p/profit_factor.md) to understand the trading strategy's performance.
+Once the model is trained, it is evaluated using metrics such as accuracy, precision, recall, and F1-score for classification tasks. For regression tasks, metrics like [Mean Squared Error](../m/mean_squared_error.md) (MSE), Mean Absolute Error (MAE), and [R-squared](../r/r-squared_in_trading.md) (R2) are typically used. The evaluation should also consider financial metrics such as [Sharpe Ratio](../s/sharpe_ratio.md), Maximum Drawdown, and [Profit Factor](../p/profit_factor.md) to understand the trading strategy's performance.
 
 ### Making Predictions
 
@@ -40,7 +40,7 @@ Forex trading involves trading currency pairs, and the high volume and volatilit
 
 ### Crypto Trading
 
-The cryptocurrency market is known for its high volatility and round-the-clock trading, making it a fertile ground for [algorithmic trading](../a/algorithmic_trading.md). Random Forests can help predict price movements by analyzing historical price data, blockchain transaction volumes, market sentiment from social media, and news.
+The cryptocurrency market is known for its high volatility and round-the-clock trading, making it a fertile ground for [algorithmic trading](../a/algorithmic_trading.md). Random Forests can help predict price movements by analyzing historical price data, [blockchain](../b/blockchain_in_trading.md) transaction volumes, market sentiment from social media, and news.
 
 ## Challenges and Considerations
 
@@ -71,4 +71,4 @@ Several tools and libraries facilitate the implementation of Random Forests in t
 
 ## Conclusion
 
-Random Forests provide a robust and accurate method for creating predictive models in [algorithmic trading](../a/algorithmic_trading.md). By leveraging [ensemble learning](../e/ensemble_learning.md), they can handle large datasets and complex financial indicators, making them highly valuable for [trading strategies](../t/trading_strategies.md) across various financial markets. However, challenges such as overfitting, interpretability, and computational costs need to be addressed carefully. With the right approach and tools, Random Forests can significantly enhance the capability and performance of [trading algorithms](../t/trading_algorithms.md).
+Random Forests provide a robust and accurate method for creating [predictive models](../p/predictive_models_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md). By leveraging [ensemble learning](../e/ensemble_learning.md), they can handle large datasets and complex financial indicators, making them highly valuable for [trading strategies](../t/trading_strategies.md) across various financial markets. However, challenges such as overfitting, interpretability, and computational costs need to be addressed carefully. With the right approach and tools, Random Forests can significantly enhance the capability and performance of [trading algorithms](../t/trading_algorithms.md).

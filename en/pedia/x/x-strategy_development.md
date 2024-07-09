@@ -14,7 +14,7 @@ X-Strategy development begins with a solid understanding of market structure, da
 
 4. **[Backtesting](../b/backtesting.md)**: Historical [backtesting](../b/backtesting.md) involves running the strategy on past data to gauge its performance. Key metrics such as return on investment (ROI), [Sharpe ratio](../s/sharpe_ratio.md), maximum drawdown, and others are calculated.
 
-5. **Simulation and Paper Trading**: Running the algorithm in a simulated environment with live data to analyze performance and make necessary adjustments before applying it to real money.
+5. **[Simulation](../s/simulation_in_trading.md) and Paper Trading**: Running the algorithm in a simulated environment with live data to analyze performance and make necessary adjustments before applying it to real money.
 
 6. **Deployment and Live Trading**: Once the strategy is vetted, it is deployed in a live [trading environment](../t/trading_environment.md). Continuous monitoring and tweaking may be necessary to adapt to evolving market conditions.
 
@@ -32,16 +32,16 @@ Momentum strategies seek to capitalize on the continuance of existing market tre
 [Arbitrage](../a/arbitrage.md) strategies exploit price discrepancies between different markets or instruments. High-frequency trading (HFT) algorithms often conduct [arbitrage](../a/arbitrage.md) by executing cross-market trades at lightning speeds, capturing small price differentials.
 
 ### 4. **Sentiment Analysis Strategies**
-These strategies use natural language processing (NLP) and machine learning to gauge market sentiment from news articles, social media, and other textual sources. They then make trades based on the detected sentiment.
+These strategies use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning to gauge market sentiment from news articles, social media, and other textual sources. They then make trades based on the detected sentiment.
 
 ### 5. **High-Frequency Trading (HFT) Strategies**
 High-frequency trading involves making thousands of trades in a fraction of a second. HFT strategies use sophisticated algorithms and extraordinary computational power to locate and exploit fleeting market opportunities.
 
 ### 6. **Machine Learning-Based Strategies**
-Machine learning strategies involve the use of artificial intelligence to predict market movements. These algorithms can self-optimize by learning from past performance, and they can adapt to new market conditions quickly.
+Machine learning strategies involve the use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict market movements. These algorithms can self-optimize by learning from past performance, and they can adapt to new market conditions quickly.
 
 ### 7. **Quantitative Strategies**
-Quantitative strategies use mathematical and statistical models to identify trading opportunities. They rely on complex formulas to determine the appropriate times to buy or sell an asset.
+[Quantitative strategies](../q/quantitative_strategies_in_trading.md) use mathematical and statistical models to identify trading opportunities. They rely on complex formulas to determine the appropriate times to buy or sell an asset.
 
 ## Tools and Technologies
 
@@ -86,7 +86,7 @@ Regulatory scrutiny in algo-trading is intensifying. Compliance with laws and re
 Renaissance's Medallion Fund is famed for its astronomical returns driven by highly secretive and advanced algorithmic strategies.
 
 ### 3. **Citadel**
-[Citadel](https://www.citadel.com) employs various quantitative strategies to trade in markets worldwide. Their technology and analytics offer a significant competitive edge.
+[Citadel](https://www.citadel.com) employs various [quantitative strategies](../q/quantitative_strategies_in_trading.md) to trade in markets worldwide. Their technology and analytics offer a significant competitive edge.
 
 ## Future Trends
 
@@ -94,7 +94,7 @@ Renaissance's Medallion Fund is famed for its astronomical returns driven by hig
 With advancements in AI, especially in Deep Learning and Reinforcement Learning, future X-Strategies could become more adaptive and predictive.
 
 ### 2. **Quantum Computing**
-Quantum computing holds promise for exponentially faster data processing capabilities, which could revolutionize [algorithmic trading](../a/algorithmic_trading.md) strategies.
+[Quantum computing](../q/quantum_computing_in_trading.md) holds promise for exponentially faster data processing capabilities, which could revolutionize [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### 3. **Expansion of Alternative Data**
 Incorporating data sources like satellite imagery, transactional data, and IoT data can enhance [algorithmic trading](../a/algorithmic_trading.md) strategies by providing unique, non-traditional insights.

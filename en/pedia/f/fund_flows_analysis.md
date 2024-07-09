@@ -69,7 +69,7 @@ Consistent inflows or outflows in certain fund categories can indicate emerging 
 
 ### Quantitative Analysis
 
-Quantitative techniques involve the use of statistical and mathematical models to analyze fund flows data. Some common methods include:
+Quantitative techniques involve the use of statistical and [mathematical models](../m/mathematical_models_in_trading.md) to analyze fund flows data. Some common methods include:
 
 - **[Regression Analysis](../r/regression_analysis.md)**: To identify the relationship between fund flows and other market variables.
 - **Time-Series Analysis**: To study the behavior of fund flows over different time periods.
@@ -77,11 +77,11 @@ Quantitative techniques involve the use of statistical and mathematical models t
 
 ### Machine Learning Algorithms
 
-Leveraging machine learning algorithms can enhance the predictive power of fund flows analysis. Commonly used algorithms include:
+Leveraging machine [learning algorithms](../l/learning_algorithms_in_trading.md) can enhance the predictive power of fund flows analysis. Commonly used algorithms include:
 
 - **[Decision Trees](../d/decision_trees.md)**: For classifying fund flow data into different categories.
-- **Neural Networks**: To uncover complex relationships in large datasets.
-- **Support Vector Machines**: For regression and classification tasks in fund flows analysis.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: To uncover complex relationships in large datasets.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md)**: For regression and classification tasks in fund flows analysis.
 
 ### Sentiment Analysis
 

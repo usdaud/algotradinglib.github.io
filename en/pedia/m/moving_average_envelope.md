@@ -60,7 +60,7 @@ While MAE is a useful tool, it has its limitations:
 
 1. **Lagging Indicator**: Like all moving averages, MAE is a lagging indicator that relies on historical data. This means it may not provide timely signals during rapid market movements.
 
-2. **False Signals**: MAE can generate false signals in a volatile or range-bound market, causing traders to act on incorrect assumptions.
+2. **[False Signals](../f/false_signals_in_trading.md)**: MAE can generate [false signals](../f/false_signals_in_trading.md) in a volatile or range-bound market, causing traders to act on incorrect assumptions.
 
 3. **Parameter Settings**: The effectiveness of MAE largely depends on the chosen moving average period and envelope percentage. Inappropriate settings can lead to misleading signals.
 

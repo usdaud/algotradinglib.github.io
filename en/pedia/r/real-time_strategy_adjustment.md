@@ -10,7 +10,7 @@ Real-time strategy adjustment refers to the capability of [trading algorithms](.
 
 1. **Market Data Feed**: The foundation of real-time strategy adjustment is a continuous stream of high-quality market data. This includes price quotes, trade volumes, order book information, and [economic indicators](../e/economic_indicators.md). Accurate and timely data is essential for making informed adjustments.
 
-2. **Algorithmic Models**: These are mathematical models that define the [trading strategies](../t/trading_strategies.md). Common types of models include statistical [arbitrage](../a/arbitrage.md), market making, [trend following](../t/trend_following.md), and [mean reversion](../m/mean_reversion.md). Each model employs different techniques to identify trading opportunities.
+2. **Algorithmic Models**: These are [mathematical models](../m/mathematical_models_in_trading.md) that define the [trading strategies](../t/trading_strategies.md). Common types of models include statistical [arbitrage](../a/arbitrage.md), market making, [trend following](../t/trend_following.md), and [mean reversion](../m/mean_reversion.md). Each model employs different techniques to identify trading opportunities.
 
 3. **Signal Generation**: Based on the algorithmic models and incoming market data, signals are generated to indicate potential trades. Signals can be based on [technical indicators](../t/technical_indicators.md), [price patterns](../p/price_patterns.md), or statistical correlations.
 
@@ -24,13 +24,13 @@ Real-time strategy adjustment refers to the capability of [trading algorithms](.
 
 ### Machine Learning
 
-Machine learning algorithms are increasingly used for real-time strategy adjustment. Techniques such as reinforcement learning, supervised learning, and unsupervised learning enable algorithms to learn from historical data and adapt to new market conditions. 
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly used for real-time strategy adjustment. Techniques such as reinforcement learning, supervised learning, and unsupervised learning enable algorithms to learn from historical data and adapt to new market conditions. 
 
 - **Reinforcement Learning (RL)**: RL algorithms learn to make trading decisions by interacting with the market environment. They receive rewards or penalties based on the outcomes of their actions, enabling them to optimize their strategies over time.
 
 - **Supervised Learning**: In supervised learning, algorithms are trained using labeled historical data. They learn to predict future price movements or identify [trading signals](../t/trading_signals.md) based on input features.
 
-- **Unsupervised Learning**: Unsupervised learning algorithms, such as clustering and [anomaly detection](../a/anomaly_detection.md), find hidden patterns and structures in data without predefined labels. These patterns can reveal new trading opportunities.
+- **Unsupervised Learning**: Unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md), such as clustering and [anomaly detection](../a/anomaly_detection.md), find hidden patterns and structures in data without predefined labels. These patterns can reveal new trading opportunities.
 
 ### Statistical Methods
 
@@ -96,11 +96,11 @@ The use of algorithms in trading raises ethical considerations, such as market f
 
 ### Advancements in AI and Quantum Computing
 
-The future of real-time strategy adjustment lies in advancements in artificial intelligence and quantum computing. AI algorithms will become more sophisticated, capable of processing vast amounts of data and making complex decisions in real-time. Quantum computing holds the promise of exponentially increasing computational power, enabling even faster and more accurate strategy adjustments.
+The future of real-time strategy adjustment lies in advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [quantum computing](../q/quantum_computing_in_trading.md). AI algorithms will become more sophisticated, capable of processing vast amounts of data and making complex decisions in real-time. [Quantum computing](../q/quantum_computing_in_trading.md) holds the promise of exponentially increasing computational power, enabling even faster and more accurate strategy adjustments.
 
 ### Integration with Blockchain
 
-Blockchain technology offers the potential to enhance transparency and security in [algorithmic trading](../a/algorithmic_trading.md). Smart contracts and decentralized exchanges can facilitate real-time strategy adjustment by providing immutable and trustworthy data sources.
+[Blockchain](../b/blockchain_in_trading.md) technology offers the potential to enhance transparency and security in [algorithmic trading](../a/algorithmic_trading.md). [Smart contracts](../s/smart_contracts_in_trading.md) and decentralized exchanges can facilitate real-time strategy adjustment by providing immutable and trustworthy data sources.
 
 ## Conclusion
 

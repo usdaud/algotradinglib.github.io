@@ -12,7 +12,7 @@ In the context of financial markets, a "jump" refers to a drastic and rapid chan
 
 1. **[Earnings Announcements](../e/earnings_announcements.md)**: Quarterly or annual financial reports released by publicly traded companies can cause substantial price movements in their stock.
 2. **Economic Data Releases**: Reports such as GDP numbers, employment statistics, and inflation data can influence the financial markets dramatically.
-3. **[Geopolitical Events](../g/geopolitical_events.md)**: Political instability, wars, and elections can create uncertainty and sudden market movements.
+3. **[Geopolitical Events](../g/geopolitical_events.md)**: Political instability, wars, and elections can create [uncertainty](../u/uncertainty_in_trading.md) and sudden market movements.
 4. **Corporate Actions**: Events like mergers and acquisitions, stock splits, or dividend announcements can lead to significant price jumps.
 
 #### Key Components of Jump Event Strategies

@@ -58,7 +58,7 @@ Scalability analysis ensures that the trading strategy can be effectively scaled
 
 ## 9. Case Studies and Examples
 
-Examining real-world case studies can provide insights into the feasibility of [algorithmic trading](../a/algorithmic_trading.md) strategies. For example, companies like [Kensho Technologies](https://www.kensho.com) and [Two Sigma](https://www.twosigma.com) have successfully implemented sophisticated algorithms that leverage big data analytics and machine learning to generate profitable trading opportunities.
+Examining real-world case studies can provide insights into the feasibility of [algorithmic trading](../a/algorithmic_trading.md) strategies. For example, companies like [Kensho Technologies](https://www.kensho.com) and [Two Sigma](https://www.twosigma.com) have successfully implemented sophisticated algorithms that leverage [big data analytics](../b/big_data_analytics_in_trading.md) and machine learning to generate profitable trading opportunities.
 
 ## 10. Conclusion
 

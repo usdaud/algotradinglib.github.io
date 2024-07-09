@@ -22,7 +22,7 @@ Cross-correlation measures the similarity between two time series as a function 
 The lag (denoted as `X`) can be calculated using statistical methods, often involving cross-correlation functions or [regression analysis](../r/regression_analysis.md).
 
 ### 5. Signal Processing Techniques
-Signal processing techniques such as Fourier Transforms, Wavelet Transforms, and Smoothing Algorithms aid in refining and identifying true lag periods by filtering out noise and highlighting genuine patterns in data.
+[Signal processing](../s/signal_processing_in_trading.md) techniques such as Fourier Transforms, Wavelet Transforms, and Smoothing Algorithms aid in refining and identifying true lag periods by filtering out noise and highlighting genuine patterns in data.
 
 ## Applications of X-Lag Analysis in Algorithmic Trading
 
@@ -40,10 +40,10 @@ In [multi-asset trading](../m/multi-asset_trading.md), X-Lag Analysis helps in u
 
 ## Tools and Software for X-Lag Analysis
 
-Several software tools and platforms specialize in X-Lag Analysis, offering powerful features for both retail and institutional traders.
+Several [software tools](../s/software_tools_for_trading.md) and platforms specialize in X-Lag Analysis, offering powerful features for both retail and institutional traders.
 
 ### 1. MATLAB
-MATLAB provides robust toolboxes for time-lag analysis, including functions for cross-correlation and signal processing.
+MATLAB provides robust toolboxes for time-lag analysis, including functions for cross-correlation and [signal processing](../s/signal_processing_in_trading.md).
 
 ### 2. Python (SciPy, NumPy, Pandas)
 Python, with its scientific libraries like SciPy, NumPy, and Pandas, offers extensive options for implementing X-Lag Analysis.

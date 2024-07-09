@@ -43,7 +43,7 @@ A trend is the general direction of a market or security's price over time. Tren
 The synergy of volume and trend confirmation provides a more comprehensive trading strategy. Here's how they can be integrated:
 
 ### Breakouts and Volume
-When a stock price breaks through a resistance or support level with high volume, it signifies strong conviction behind the move. Conversely, breakouts on low volume are prone to false signals. Thus, combining [volume analysis](../v/volume_analysis.md) with trend lines enhances the reliability of breakouts.
+When a stock price breaks through a resistance or support level with high volume, it signifies strong conviction behind the move. Conversely, breakouts on low volume are prone to [false signals](../f/false_signals_in_trading.md). Thus, combining [volume analysis](../v/volume_analysis.md) with trend lines enhances the reliability of breakouts.
 
 ### Volume and Moving Averages
 Moving averages help identify the direction of the trend while volume provides the context for the strength of that trend. For instance:

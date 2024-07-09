@@ -87,7 +87,7 @@ The accuracy of intrinsic value models heavily depends on the reliability and pr
 
 #### Subjectivity in Assumptions
 
-Intrinsic value models require several assumptions, such as discount rates, growth rates, and future cash flows. These assumptions are subjective and can vary widely among analysts, leading to different intrinsic value estimates for the same asset.
+Intrinsic value models require several assumptions, such as discount rates, [growth rates](../g/growth_rates_in_trading.md), and future cash flows. These assumptions are subjective and can vary widely among analysts, leading to different intrinsic value estimates for the same asset.
 
 #### Market Volatility
 

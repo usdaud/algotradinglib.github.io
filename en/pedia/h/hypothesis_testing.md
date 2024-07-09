@@ -14,7 +14,7 @@ At its core, hypothesis testing involves the following steps:
 ### Types of Hypothesis Tests
 
 Several types of hypothesis tests are applicable in the context of algo-trading, each suited for different scenarios:
-1. **Z-test**: Used when the sample size is large (n > 30) and the population variance is known.
+1. **[Z-test](../z/z-test_in_trading.md)**: Used when the sample size is large (n > 30) and the population variance is known.
 2. **T-test**: Used when the sample size is small (n < 30) and the population variance is unknown.
 3. **[Chi-Square Test](../c/chi-square_test.md)**: Used for testing relationships between categorical variables.
 4. **ANOVA (Analysis of Variance)**: Used to compare means across three or more samples.

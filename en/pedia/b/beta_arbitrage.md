@@ -65,7 +65,7 @@ Beta [arbitrage](../a/arbitrage.md) is not without its risks and challenges:
 
 ### Technology and Beta Arbitrage
 
-With advancements in technology, beta [arbitrage](../a/arbitrage.md) strategies have seen significant evolution. Modern trading firms leverage [algorithmic trading](../a/algorithmic_trading.md) platforms and high-frequency [trading systems](../t/trading_systems.md) to execute beta [arbitrage](../a/arbitrage.md) strategies with high precision and speed. Firms like [Two Sigma](https://www.twosigma.com/), [Citadel Securities](https://www.citadelsecurities.com/), and [AQR Capital Management](https://www.aqr.com/) are known to utilize complex algorithms and big data analytics to uncover [arbitrage](../a/arbitrage.md) opportunities and implement these strategies at scale. 
+With advancements in technology, beta [arbitrage](../a/arbitrage.md) strategies have seen significant evolution. Modern trading firms leverage [algorithmic trading](../a/algorithmic_trading.md) platforms and high-frequency [trading systems](../t/trading_systems.md) to execute beta [arbitrage](../a/arbitrage.md) strategies with high precision and speed. Firms like [Two Sigma](https://www.twosigma.com/), [Citadel Securities](https://www.citadelsecurities.com/), and [AQR Capital Management](https://www.aqr.com/) are known to utilize complex algorithms and [big data analytics](../b/big_data_analytics_in_trading.md) to uncover [arbitrage](../a/arbitrage.md) opportunities and implement these strategies at scale. 
 
 ### Conclusion
 

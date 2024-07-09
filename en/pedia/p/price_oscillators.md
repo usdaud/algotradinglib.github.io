@@ -67,13 +67,13 @@ Optimization often involves adjusting the parameters of the oscillators to fine-
 
 #### Machine Learning Integration
 
-Machine learning algorithms can be employed to enhance the efficacy of [trading strategies](../t/trading_strategies.md) that utilize price oscillators. For instance, supervised learning models can be trained using inputs derived from multiple oscillators to forecast future price movements.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be employed to enhance the efficacy of [trading strategies](../t/trading_strategies.md) that utilize price oscillators. For instance, supervised learning models can be trained using inputs derived from multiple oscillators to forecast future price movements.
 
 Popular machine learning libraries such as TensorFlow and Scikit-Learn, when integrated with financial APIs, can retrieve [real-time market data](../r/real-time_market_data.md), process oscillator values, and execute trades based on predicted market scenarios.
 
 #### Multi-oscillator Strategies
 
-Combining multiple oscillators in a single trading strategy can help mitigate false signals and improve accuracy. For instance, a synergistic approach utilizing RSI, MACD, and [Stochastic Oscillator](../s/stochastic_oscillator.md) can be designed where:
+Combining multiple oscillators in a single trading strategy can help mitigate [false signals](../f/false_signals_in_trading.md) and improve accuracy. For instance, a synergistic approach utilizing RSI, MACD, and [Stochastic Oscillator](../s/stochastic_oscillator.md) can be designed where:
 
 - A trade is only initiated when all three indicators converge on a signal (e.g., all indicate overbought or oversold conditions).
 
@@ -87,7 +87,7 @@ In high-frequency trading, oscillators can be integrated into complex algorithms
 
 The effectiveness of oscillators can vary significantly across different market conditions:
 
-- **Trending Markets**: Oscillators may generate false signals in a strongly trending market.
+- **Trending Markets**: Oscillators may generate [false signals](../f/false_signals_in_trading.md) in a strongly trending market.
 - **Range-bound Markets**: Oscillators are typically more reliable in conditions where the market is moving sideways or within a range.
 
 #### Algorithm Deployment

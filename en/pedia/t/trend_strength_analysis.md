@@ -19,7 +19,7 @@ Moving averages smooth out price data to identify the direction of the trend. Th
 - **Simple Moving Average (SMA):** An average of historical prices over a specific period.
 - **Exponential Moving Average (EMA):** Places greater weight on more recent prices, making it more responsive to new information.
 
-**b. Average Directional Index (ADX):**
+**b. [Average Directional Index](../a/average_directional_index_(adx).md) (ADX):**
 
 The ADX measures the strength of a trend, regardless of its direction. Values range from 0 to 100, with higher values indicating stronger trends.
 
@@ -71,11 +71,11 @@ print(adx)
 
 **a. Machine Learning:**
 
-Machine learning algorithms can enhance trend strength analysis by identifying patterns that traditional methods may overlook. Techniques such as supervised learning, unsupervised learning, and reinforcement learning can be applied.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can enhance trend strength analysis by identifying patterns that traditional methods may overlook. Techniques such as supervised learning, unsupervised learning, and reinforcement learning can be applied.
 
-- **Supervised Learning:** Algorithms like [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and neural networks predict the trend strength based on historical data.
+- **Supervised Learning:** Algorithms like [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) predict the trend strength based on historical data.
 - **Unsupervised Learning:** Clustering techniques, such as k-means, can segment market conditions to identify trend patterns.
-- **Reinforcement Learning:** Algorithms learn to make trading decisions based on the strength of trends identified through continuous feedback loops.
+- **Reinforcement Learning:** Algorithms learn to make trading decisions based on the strength of trends identified through continuous [feedback loops](../f/feedback_loops_in_trading.md).
 
 **b. [Sentiment Analysis](../s/sentiment_analysis.md):**
 
@@ -91,8 +91,8 @@ Large financial institutions and hedge funds extensively use trend strength anal
 
 - **Two Sigma (twosigma.com):** Known for its data-driven approach to finance.
 - **Citadel (citadel.com):** Employs sophisticated technology and [quantitative research](../q/quantitative_research.md) in its [trading strategies](../t/trading_strategies.md).
-- **Renaissance Technologies (rentec.com):** Utilizes mathematical models to identify market inefficiencies and profit from them.
+- **Renaissance Technologies (rentec.com):** Utilizes [mathematical models](../m/mathematical_models_in_trading.md) to identify market inefficiencies and profit from them.
 
 ### Summary
 
-Trend strength analysis is a multifaceted technique essential for modern [algorithmic trading](../a/algorithmic_trading.md). By leveraging a variety of indicators, tools, and advanced techniques, traders can accurately assess trends, enhance [trading strategies](../t/trading_strategies.md), and optimize performance. Whether through moving averages, ADX, RSI, or machine learning algorithms, effective trend strength analysis equips traders with the insights needed to navigate financial markets successfully.
+Trend strength analysis is a multifaceted technique essential for modern [algorithmic trading](../a/algorithmic_trading.md). By leveraging a variety of indicators, tools, and advanced techniques, traders can accurately assess trends, enhance [trading strategies](../t/trading_strategies.md), and optimize performance. Whether through moving averages, ADX, RSI, or machine [learning algorithms](../l/learning_algorithms_in_trading.md), effective trend strength analysis equips traders with the insights needed to navigate financial markets successfully.

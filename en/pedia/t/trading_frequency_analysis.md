@@ -86,7 +86,7 @@ Market makers provide liquidity to the markets by continuously buying and sellin
 [Arbitrage](../a/arbitrage.md) trading involves exploiting price differences of the same asset in different markets. This can be done at varying frequencies, but high-frequency trading is often employed for statistical [arbitrage](../a/arbitrage.md) opportunities.
 
 ### Quantitative Strategies
-Quantitative strategies depend heavily on mathematical models to identify trading opportunities. These models can be designed for various trading frequencies to optimize returns.
+[Quantitative strategies](../q/quantitative_strategies_in_trading.md) depend heavily on [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities. These models can be designed for various trading frequencies to optimize returns.
 
 ### Event-Driven Strategies
 Event-driven strategies involve trading based on specific events like earnings reports, mergers, and acquisitions. These strategies can be both high and low-frequency depending on the timing and nature of the events.

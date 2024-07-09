@@ -69,7 +69,7 @@ Path-dependent options offer several advantages in financial strategies:
 
 ### Pricing Path-Dependent Options
 
-The complexity of path-dependent options means that their pricing involves more sophisticated methods than traditional options. Numerical methods, such as [Monte Carlo simulation](../m/monte_carlo_simulation.md) and [finite difference methods](../f/finite_difference_methods.md), are commonly used to price these [derivatives](../d/derivatives.md). These models take into account the stochastic nature of asset prices and the specific conditions of each option type.
+The complexity of path-dependent options means that their pricing involves more sophisticated methods than traditional options. [Numerical methods](../n/numerical_methods_in_trading.md), such as [Monte Carlo simulation](../m/monte_carlo_simulation.md) and [finite difference methods](../f/finite_difference_methods.md), are commonly used to price these [derivatives](../d/derivatives.md). These models take into account the stochastic nature of asset prices and the specific conditions of each option type.
 
 **[Monte Carlo Simulation](../m/monte_carlo_simulation.md):** This is a popular method for pricing path-dependent options by simulating a large number of possible price paths for the underlying asset and computing the average payoff. It is particularly useful for options with complex paths and features.
 

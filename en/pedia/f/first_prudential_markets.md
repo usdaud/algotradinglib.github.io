@@ -18,7 +18,7 @@ First Prudential Markets (FPM), also known as FP Markets, is a global provider o
 ## Key Components
 - **MetaTrader 4 (MT4)**: Popular trading platform known for its robust charting tools, [technical analysis](../t/technical_analysis.md), and automated trading capabilities.
 - **MetaTrader 5 (MT5)**: Advanced trading platform offering more timeframes, [technical indicators](../t/technical_indicators.md), and enhanced features.
-- **[IRESS](../i/iress.md) Platform**: Professional trading platform with comprehensive market data, advanced order management, and detailed reporting.
+- **[IRESS](../i/iress.md) Platform**: Professional trading platform with comprehensive market data, advanced [order management](../o/order_management_in_trading.md), and detailed reporting.
 - **Mobile Trading Apps**: Mobile applications for iOS and Android with full trading functionality.
 - **Research and Analysis Tools**: Comprehensive tools for market research, stock analysis, and investment insights.
 - **[Risk Management](../r/risk_management.md) Tools**: Integrated tools to manage and mitigate trading risks effectively.

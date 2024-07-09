@@ -75,7 +75,7 @@ Several trading platforms and tools can be employed to set up and manage Short C
 
 ### [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1335)
 
-Interactive Brokers offers a suite of options trading tools that can help traders implement and monitor Short Condor Spreads effectively. The platform includes a robust risk navigator, real-time risk monitoring, and [portfolio analysis](../p/portfolio_analysis.md) tools.
+[Interactive Brokers](../i/interactive_brokers.md) offers a suite of options trading tools that can help traders implement and monitor Short Condor Spreads effectively. The platform includes a robust risk navigator, real-time risk monitoring, and [portfolio analysis](../p/portfolio_analysis.md) tools.
 
 ### [TradeStation](https://www.tradestation.com/)
 

@@ -5,7 +5,7 @@ Currency pair analysis is an essential component of forex trading and [algorithm
 **Core Components of Currency Pair Analysis**
 
 1. **[Fundamental Analysis](../f/fundamental_analysis.md)**:
-   - **[Economic Indicators](../e/economic_indicators.md)**: These are statistics released by governments or other institutions that provide insights into economic performance. Key indicators include GDP growth rates, employment figures, inflation rates, and trade balances. [Economic indicators](../e/economic_indicators.md) are typically country-specific and significantly impact their respective currencies. For example, U.S. Non-Farm Payroll (NFP) data can influence the USD.
+   - **[Economic Indicators](../e/economic_indicators.md)**: These are statistics released by governments or other institutions that provide insights into economic performance. Key indicators include GDP [growth rates](../g/growth_rates_in_trading.md), employment figures, inflation rates, and trade balances. [Economic indicators](../e/economic_indicators.md) are typically country-specific and significantly impact their respective currencies. For example, U.S. Non-Farm Payroll (NFP) data can influence the USD.
    - **Central Bank Policies**: Central Banks, such as the Federal Reserve (Fed), European Central Bank (ECB), and Bank of Japan (BOJ), set monetary policies that impact currency valuations. Interest rate decisions, [quantitative easing](../q/quantitative_easing.md) measures, and other policy tools can strengthen or weaken a currency.
    - **Political Events**: Elections, trade negotiations, geopolitical tensions, and other political events can create volatility in currency pairs. For instance, Brexit negotiations significantly impacted the GBP/USD and EUR/GBP pairs.
 
@@ -15,9 +15,9 @@ Currency pair analysis is an essential component of forex trading and [algorithm
    - **[Support and Resistance](../s/support_and_resistance.md) Levels**: Support is a price level where a currency pair tends to find buying interest, preventing further decline. Resistance is a price level where selling interest prevents the price from rising higher. Identifying these levels helps traders make buy/sell decisions.
 
 3. **[Quantitative Analysis](../q/quantitative_analysis.md)**:
-   - **Statistical Models**: These models involve analyzing historical data to identify patterns and correlations that can predict future price movements. Techniques include [regression analysis](../r/regression_analysis.md), time series models, and machine learning algorithms.
+   - **Statistical Models**: These models involve analyzing historical data to identify patterns and correlations that can predict future price movements. Techniques include [regression analysis](../r/regression_analysis.md), time series models, and machine [learning algorithms](../l/learning_algorithms_in_trading.md).
    - **[Algorithmic Trading](../a/algorithmic_trading.md)**: This involves using computer algorithms to execute trades based on predefined criteria. Algorithms can analyze large datasets, identify trading opportunities, and execute trades at high speeds and frequencies.
-   - **[Risk Management](../r/risk_management.md)**: Assessing risk involves calculating potential losses and setting stop-loss limits to protect capital. Techniques such as Value at Risk (VaR) and stress testing help in risk assessment.
+   - **[Risk Management](../r/risk_management.md)**: Assessing risk involves calculating potential losses and setting stop-loss limits to protect capital. Techniques such as Value at Risk (VaR) and [stress testing](../s/stress_testing_in_trading.md) help in risk assessment.
 
 **Popular Currency Pairs and Their Characteristics**
 

@@ -18,7 +18,7 @@ Data mining refers to the computational process of discovering patterns, trends,
 
 5. **[Anomaly Detection](../a/anomaly_detection.md)**: Also known as outlier detection, this technique identifies rare items, events, or observations that differ significantly from the majority of the data. In trading, [anomaly detection](../a/anomaly_detection.md) can identify unusual market behavior, potential fraud, or trading anomalies.
 
-6. **Dimensionality Reduction**: This process reduces the number of random variables under consideration and can be divided into feature selection and feature extraction. It helps in simplifying models, reducing overfitting, and improving computational efficiency.
+6. **[Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md)**: This process reduces the number of random variables under consideration and can be divided into feature selection and feature extraction. It helps in simplifying models, reducing overfitting, and improving computational efficiency.
 
 ## Tools and Technologies for Data Mining in Trading
 
@@ -30,9 +30,9 @@ Several tools and technologies facilitate the data mining process in [algorithmi
 
 2. **MATLAB**: Widely used for numerical computing, MATLAB provides tools for data analysis, visualization, and algorithm development, and it has specific toolboxes for financial applications.
 
-3. **RapidMiner**: An open-source data science platform that offers a comprehensive suite for data preparation, machine learning, and predictive analysis.
+3. **RapidMiner**: An open-source [data science](../d/data_science_in_trading.md) platform that offers a comprehensive suite for data preparation, machine learning, and predictive analysis.
 
-4. **Weka**: A collection of machine learning algorithms for data mining tasks, Weka is well-suited for developing new machine learning schemes.
+4. **Weka**: A collection of machine [learning algorithms](../l/learning_algorithms_in_trading.md) for data mining tasks, Weka is well-suited for developing new machine learning schemes.
 
 5. **SAS**: Known for robust statistical analysis capabilities, SAS offers tools for data mining, [predictive analytics](../p/predictive_analytics.md), and machine learning.
 
@@ -40,11 +40,11 @@ Several tools and technologies facilitate the data mining process in [algorithmi
 
 ### Technologies
 
-1. **Big Data Platforms**: Platforms such as Hadoop and Apache Spark allow for the processing and analysis of massive datasets, which is crucial for high-frequency [trading systems](../t/trading_systems.md).
+1. **[Big Data](../b/big_data_in_trading.md) Platforms**: Platforms such as Hadoop and Apache Spark allow for the processing and analysis of massive datasets, which is crucial for high-frequency [trading systems](../t/trading_systems.md).
 
 2. **Database Management Systems**: SQL and NoSQL databases provide efficient data storage, retrieval, and management, enabling rapid access to historical and [real-time market data](../r/real-time_market_data.md).
 
-3. **Cloud Computing**: Cloud services like AWS, Google Cloud, and Azure offer scalable resources and services for data storage, processing, and analysis, supporting complex [algorithmic trading](../a/algorithmic_trading.md) strategies.
+3. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Cloud services like AWS, Google Cloud, and Azure offer scalable resources and services for data storage, processing, and analysis, supporting complex [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 4. **APIs**: Various financial market APIs (e.g., Alpha Vantage, [Yahoo Finance](../y/yahoo_finance.md), [Quandl](../q/quandl.md)) provide access to historical and real-time data, which are essential for data mining and model development.
 
@@ -54,7 +54,7 @@ Data mining transforms raw market data into actionable insights that can be inte
 
 ### Predictive Modeling
 
-Predictive models use historic market data to forecast future price movements, returns, or other market variables. Techniques such as [time series analysis](../t/time_series_analysis.md), regression models, and machine learning algorithms are commonly employed.
+[Predictive models](../p/predictive_models_in_trading.md) use historic market data to forecast future price movements, returns, or other market variables. Techniques such as [time series analysis](../t/time_series_analysis.md), regression models, and machine [learning algorithms](../l/learning_algorithms_in_trading.md) are commonly employed.
 
 ### Algorithm Optimization
 
@@ -70,7 +70,7 @@ By analyzing historical data, traders can develop and test new [trading strategi
 
 ### Risk Management
 
-Data mining identifies potential risk factors and determines the probability and impact of adverse market movements. Techniques such as clustering and [anomaly detection](../a/anomaly_detection.md) can detect unusual market conditions that may pose risks, facilitating the implementation of appropriate [risk management](../r/risk_management.md) measures.
+Data mining identifies potential [risk factors](../r/risk_factors_in_trading.md) and determines the probability and impact of adverse market movements. Techniques such as clustering and [anomaly detection](../a/anomaly_detection.md) can detect unusual market conditions that may pose risks, facilitating the implementation of appropriate [risk management](../r/risk_management.md) measures.
 
 ### Portfolio Management
 

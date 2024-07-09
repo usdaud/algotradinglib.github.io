@@ -60,9 +60,9 @@ Traders use knock-out options for various strategic purposes, taking advantage o
 Several financial institutions and trading platforms provide facilities for trading knock-out options. Some notable examples include:
 
 - **Societe Generale:** A provider of various structured products, including knock-out options. [Societe Generale](https://wholesalemarkets.societegenerale.com/en/structured-products/lists/standard-structured-products-exotic-options)
-- **IG Group:** Offers knock-out options as part of their trading services. [IG Group](https://www.ig.com/)
+- **[IG Group](../i/ig_group.md):** Offers knock-out options as part of their trading services. [IG Group](https://www.ig.com/)
 - **Cboe Global Markets:** Provides [derivatives](../d/derivatives.md) including various forms of barrier options. [Cboe Global Markets](https://www.cboe.com/)
 
 ## Conclusion
 
-Knock-out options remain a compelling tool for traders and financial engineers looking for lower-cost alternatives to vanilla options. Their role in sophisticated [hedging strategies](../h/hedging_strategies.md) and speculative plays, combined with advanced mathematical models for pricing, underscores their importance in modern financial markets. Whether used for [risk management](../r/risk_management.md) or strategic trade setups, knock-out options offer unique advantages, particularly in cost efficiency and tailored [risk management](../r/risk_management.md).
+Knock-out options remain a compelling tool for traders and financial engineers looking for lower-cost alternatives to vanilla options. Their role in sophisticated [hedging strategies](../h/hedging_strategies.md) and speculative plays, combined with advanced [mathematical models](../m/mathematical_models_in_trading.md) for pricing, underscores their importance in modern financial markets. Whether used for [risk management](../r/risk_management.md) or strategic trade setups, knock-out options offer unique advantages, particularly in cost efficiency and tailored [risk management](../r/risk_management.md).

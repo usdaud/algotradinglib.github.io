@@ -12,10 +12,10 @@ There are several types of intelligent agents used in trading, each with its own
 These agents operate based on predefined rules and logical conditions. For example, a rule-based agent might automatically buy a stock if its price falls below a certain threshold.
 
 ### 2. Machine Learning Agents
-These agents use various machine learning algorithms to identify patterns and make predictions. Techniques such as regression models, [decision trees](../d/decision_trees.md), and neural networks are common.
+These agents use various machine [learning algorithms](../l/learning_algorithms_in_trading.md) to identify patterns and make predictions. Techniques such as regression models, [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) are common.
 
 ### 3. Evolutionary Agents
-Inspired by biological evolution, these agents use algorithms like genetic algorithms to evolve and optimize [trading strategies](../t/trading_strategies.md) over time.
+Inspired by biological evolution, these agents use algorithms like [genetic algorithms](../g/genetic_algorithms_in_trading.md) to evolve and optimize [trading strategies](../t/trading_strategies.md) over time.
 
 ### 4. Reinforcement Learning Agents
 These agents learn optimal [trading strategies](../t/trading_strategies.md) by interacting with the market environment and receiving feedback in the form of rewards or penalties.
@@ -26,10 +26,10 @@ These agents learn optimal [trading strategies](../t/trading_strategies.md) by i
 Intelligent agents require large datasets to function effectively. This includes real-time data, historical data, [economic indicators](../e/economic_indicators.md), [social media sentiment](../s/social_media_sentiment.md), and more. Advanced data processing techniques are used to clean and normalize the data for analysis.
 
 ### 2. Feature Extraction and Selection
-Identifying relevant features from the data is crucial for building effective [trading models](../t/trading_models.md). This involves techniques like principal component analysis (PCA) to reduce dimensionality and select the most informative features.
+Identifying relevant features from the data is crucial for building effective [trading models](../t/trading_models.md). This involves techniques like [principal component analysis](../p/principal_component_analysis_(pca).md) (PCA) to reduce dimensionality and select the most informative features.
 
 ### 3. Model Building and Training
-Using machine learning and statistical methods, intelligent agents build predictive models. Training involves adjusting model parameters to minimize errors in predictions.
+Using machine learning and statistical methods, intelligent agents build [predictive models](../p/predictive_models_in_trading.md). Training involves adjusting model parameters to minimize errors in predictions.
 
 ### 4. Backtesting and Validation
 Before deployment, agents are rigorously tested using historical data to ensure their strategies would have been profitable in the past. This helps in identifying potential pitfalls and refining the models.
@@ -43,7 +43,7 @@ Once deployed, intelligent agents execute trades based on their models’ predic
 [Time series analysis](../t/time_series_analysis.md) involves techniques like ARIMA (AutoRegressive Integrated Moving Average) and GARCH (Generalized Autoregressive Conditional Heteroskedasticity), which are crucial for modeling and forecasting market prices.
 
 ### 2. Deep Learning
-Deep learning techniques, particularly Long Short-Term Memory (LSTM) networks and Convolutional Neural Networks (CNNs), are used to capture intricate patterns in large datasets.
+Deep learning techniques, particularly Long Short-Term Memory (LSTM) networks and Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs), are used to capture intricate patterns in large datasets.
 
 ### 3. Reinforcement Learning
 Algorithms like Q-learning and Deep Q Networks (DQNs) are used for training agents to make sequential decisions in trading environments.
@@ -92,7 +92,7 @@ Two Sigma uses machine learning and distributed computing to derive insights fro
 Website: [Two Sigma](https://www.twosigma.com/)
 
 ### 2. Renaissance Technologies
-RenTech is known for its Medallion Fund, which has consistently delivered high returns using statistical and mathematical models.
+RenTech is known for its Medallion Fund, which has consistently delivered high returns using statistical and [mathematical models](../m/mathematical_models_in_trading.md).
 Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ### 3. Numerai
@@ -113,10 +113,10 @@ Website: [XTX Markets](https://www.xtxmarkets.com/)
 The use of AI and machine learning in trading is expected to grow, with more sophisticated algorithms and models enhancing predictive accuracy and trading efficiency.
 
 ### 2. Quantum Computing
-Quantum computing holds the potential to solve complex trading problems at unprecedented speeds, paving the way for more advanced intelligent agents.
+[Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to solve complex trading problems at unprecedented speeds, paving the way for more advanced intelligent agents.
 
 ### 3. Integration with Blockchain
-Blockchain technology could provide transparent and secure transaction records, improving trust and efficiency in trading activities managed by intelligent agents.
+[Blockchain](../b/blockchain_in_trading.md) technology could provide transparent and secure transaction records, improving trust and efficiency in trading activities managed by intelligent agents.
 
 ### 4. Enhanced Natural Language Processing
 Advancements in NLP will enable better extraction of insights from unstructured data like news and social media, improving [sentiment analysis](../s/sentiment_analysis.md) and decision-making.

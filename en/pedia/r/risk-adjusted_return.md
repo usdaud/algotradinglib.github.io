@@ -78,7 +78,7 @@ Several [algorithmic trading](../a/algorithmic_trading.md) firms utilize risk-ad
    
 2. **Kensho Technologies**: A technology company providing machine learning and analytics platforms for algotrading and other financial fields. Kensho leverages risk-adjusted return metrics to enhance [trading algorithms](../t/trading_algorithms.md). [Kensho Technologies](https://www.kensho.com/)
 
-3. **Two Sigma**: A prominent hedge fund that employs machine learning and artificial intelligence to develop [trading strategies](../t/trading_strategies.md). Two Sigma places significant emphasis on risk-adjusted returns to maintain a competitive edge. [Two Sigma](https://www.twosigma.com/)
+3. **Two Sigma**: A prominent hedge fund that employs machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). Two Sigma places significant emphasis on risk-adjusted returns to maintain a competitive edge. [Two Sigma](https://www.twosigma.com/)
 
 ### Optimization Techniques
 In practice, algorithmic traders might employ various optimization techniques to maximize risk-adjusted returns.
@@ -87,7 +87,7 @@ In practice, algorithmic traders might employ various optimization techniques to
 [Monte Carlo simulation](../m/monte_carlo_simulation.md) helps in understanding the behavior of a trading strategy under different market conditions by generating numerous random scenarios. By evaluating the risk-adjusted returns across these scenarios, traders can optimize and refine their strategies to achieve better performance under varying conditions.
 
 #### Genetic Algorithms
-Genetic algorithms can be used to find optimal [trading strategies](../t/trading_strategies.md) by mimicking the process of natural selection. This involves iterating through potential solutions ([trading strategies](../t/trading_strategies.md)) to identify those with the highest risk-adjusted returns, thereby evolving more robust strategies over time.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) can be used to find optimal [trading strategies](../t/trading_strategies.md) by mimicking the process of natural selection. This involves iterating through potential solutions ([trading strategies](../t/trading_strategies.md)) to identify those with the highest risk-adjusted returns, thereby evolving more robust strategies over time.
 
 #### Machine Learning
 Machine learning models such as reinforcement learning can adaptively modify [trading strategies](../t/trading_strategies.md) to maximize risk-adjusted returns based on historical and real-time data. These models can continuously improve through learning from new market data and outcomes.

@@ -4,7 +4,7 @@ Overfitting is a critical issue in [algorithmic trading](../a/algorithmic_tradin
 
 ### Understanding Overfitting
 
-At its core, overfitting is an issue of model complexity. A model that is too flexible can fit the training data almost perfectly by capturing its idiosyncratic details and noise. This high flexibility often stems from incorporating too many parameters or using overly complex models, such as high-degree polynomials or deep neural networks with an excessive number of layers and neurons.
+At its core, overfitting is an issue of model complexity. A model that is too flexible can fit the training data almost perfectly by capturing its idiosyncratic details and noise. This high flexibility often stems from incorporating too many parameters or using overly complex models, such as high-degree polynomials or deep [neural networks](../n/neural_networks_in_trading.md) with an excessive number of layers and neurons.
 
 ### Techniques to Prevent Overfitting
 
@@ -13,7 +13,7 @@ Several strategies can be employed to prevent overfitting in [algorithmic tradin
 1. **Simplifying the Model**: Reducing the number of parameters or the complexity of the model can help prevent it from capturing noise in the training data.
 2. **Cross-Validation**: Using techniques like k-fold cross-validation helps ensure that the model performs well on different subsets of the data, thus improving its ability to generalize.
 3. **Regularization**: Techniques like Lasso (L1 regularization) and Ridge (L2 regularization) add a penalty for larger coefficients in the model, discouraging overly complex models.
-4. **Early Stopping**: When training models like neural networks, monitoring the performance on a validation set and stopping the training process once performance starts to degrade helps prevent overfitting.
+4. **Early Stopping**: When training models like [neural networks](../n/neural_networks_in_trading.md), monitoring the performance on a validation set and stopping the training process once performance starts to degrade helps prevent overfitting.
 5. **Ensemble Methods**: Combining the predictions of multiple models can reduce the likelihood of overfitting. Methods like bagging, boosting, and stacking are commonly used.
 6. **Feature Selection**: Carefully selecting the features that are most relevant to the task can reduce noise and complexity, thereby mitigating overfitting.
 7. **Data Augmentation**: Creating synthetic data points or slightly altering existing ones can help the model to generalize better.

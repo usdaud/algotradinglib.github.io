@@ -36,7 +36,7 @@ Reverse engineering, in the context of [algorithmic trading](../a/algorithmic_tr
 1. **Statistical Analysis**: Tools like R and Python (with libraries such as NumPy, pandas, and statsmodels) for identifying trends and variances.
 2. **Machine Learning**: Algorithms in scikit-learn, TensorFlow, or PyTorch for [predictive modeling](../p/predictive_modeling.md) and classification of trading patterns.
 3. **Visualization Tools**: Use of tools like Matplotlib, Seaborn, and Plotly for graphical representation of data to make sense of complex sets of data.
-4. **Simulation Environments**: [Backtesting](../b/backtesting.md) frameworks (e.g., [QuantConnect](https://www.quantconnect.com/), [Backtrader](https://www.backtrader.com/)) to test reconstructed models against historical data.
+4. **[Simulation](../s/simulation_in_trading.md) Environments**: [Backtesting](../b/backtesting.md) frameworks (e.g., [QuantConnect](https://www.quantconnect.com/), [Backtrader](https://www.backtrader.com/)) to test reconstructed models against historical data.
 
 ### Ethical and Legal Implications
 
@@ -60,7 +60,7 @@ Reverse engineering [trading algorithms](../t/trading_algorithms.md) can lead to
    - Market makers are crucial for liquidity; reverse engineering their algorithms helps traders understand spread behaviors and inventory management tactics from firms such as [Virtu Financial](https://www.virtu.com/).
 
 4. **[Sentiment Analysis](../s/sentiment_analysis.md)-Based Trading**:
-   - Algorithms that trade based on news or [social media sentiment](../s/social_media_sentiment.md) can be reverse engineered to improve natural language processing models and understand market reaction to sentiment.
+   - Algorithms that trade based on news or [social media sentiment](../s/social_media_sentiment.md) can be reverse engineered to improve [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) models and understand market reaction to sentiment.
 
 ### Practical Considerations
 

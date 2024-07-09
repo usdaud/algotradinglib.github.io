@@ -20,29 +20,29 @@ Descriptive statistics summarize the main features of a data set quantitatively 
 [Regression analysis](../r/regression_analysis.md) is used to understand the relationship between different variables. In [algorithmic trading](../a/algorithmic_trading.md), it can help model the relationship between stock returns and explanatory variables. Types of regression used include:
 - **[Linear Regression](../l/linear_regression.md)**: Simplest form, fits a straight line to the data.
 - **Multiple Regression**: Uses multiple explanatory variables.
-- **Logistic Regression**: Employed when the dependent variable is categorical.
+- **[Logistic Regression](../l/logistic_regression_in_trading.md)**: Employed when the dependent variable is categorical.
 
 ## Machine Learning Techniques
 
 ### Supervised Learning
 
 Supervised learning involves training a model on a labeled dataset. In the context of [algorithmic trading](../a/algorithmic_trading.md), it helps predict future stock prices, classify market regimes, or signal the buy/sell decision. Common algorithms include:
-- **Support Vector Machines (SVM)**: Effective for high-dimensional spaces.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Effective for high-dimensional spaces.
 - **Random Forest**: An ensemble method that uses multiple [decision trees](../d/decision_trees.md).
-- **Neural Networks**: Deep learning models that can capture complex relationships in data.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning models that can capture complex relationships in data.
 
 ### Unsupervised Learning
 
 Unsupervised learning finds hidden patterns or intrinsic structures in input data without labeled responses. This is particularly useful for clustering stocks, identifying co-movements, and [anomaly detection](../a/anomaly_detection.md). Key methods include:
-- **K-Means Clustering**: Groups data into K clusters based on feature similarity.
-- **Principal Component Analysis (PCA)**: Reduces dimensionality of the data while preserving as much variability as possible.
-- **Autoencoders**: Neural networks used for learning encodings of data for purposes like dimensionality reduction.
+- **[K-Means Clustering](../k/k-means_clustering_in_trading.md)**: Groups data into K clusters based on feature similarity.
+- **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces dimensionality of the data while preserving as much variability as possible.
+- **Autoencoders**: [Neural networks](../n/neural_networks_in_trading.md) used for learning encodings of data for purposes like [dimensionality reduction](../d/dimensionality_reduction_in_trading.md).
 
 ### Reinforcement Learning
 
 Reinforcement learning optimizes sequential decision-making tasks through trial and error to maximize cumulative reward. In trading, it is used to design strategies that adapt over time to changing market conditions. The core concepts include:
 - **Q-Learning**: A value-based learning algorithm.
-- **Deep Q-Networks (DQN)**: Combines Q-learning with deep neural networks.
+- **Deep Q-Networks (DQN)**: Combines Q-learning with deep [neural networks](../n/neural_networks_in_trading.md).
 - **Policy Gradients**: Directly searches for the optimal policy in the policy space.
 
 ## Mathematical Models
@@ -63,9 +63,9 @@ Financial models are mathematical representations of how financial markets funct
 ### Optimization Techniques
 
 Optimization techniques are used to maximize or minimize an objective function subject to constraints. They are crucial for [portfolio optimization](../p/portfolio_optimization.md), [risk management](../r/risk_management.md), and strategy development. Key methods include:
-- **Linear Programming**: Deals with linear relationships.
-- **Quadratic Programming**: Extends linear programming to quadratic relationships.
-- **Genetic Algorithms**: Search heuristics that mimic the process of natural selection.
+- **[Linear Programming](../l/linear_programming_in_trading.md)**: Deals with linear relationships.
+- **Quadratic Programming**: Extends [linear programming](../l/linear_programming_in_trading.md) to quadratic relationships.
+- **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md)**: Search heuristics that mimic the process of natural selection.
 
 ## Data Preprocessing
 
@@ -96,8 +96,8 @@ Several software and tools are essential for [quantitative research](../q/quanti
 
 ## Cloud Computing and High-Performance Computing
 
-Cloud computing and high-performance computing enable the processing of large datasets and the running of complex models:
-- **Amazon Web Services (AWS)**: Offers cloud computing services suited for data-intensive tasks (https://aws.amazon.com/).
+[Cloud computing](../c/cloud_computing_in_trading.md) and high-performance computing enable the processing of large datasets and the running of complex models:
+- **Amazon Web Services (AWS)**: Offers [cloud computing](../c/cloud_computing_in_trading.md) services suited for data-intensive tasks (https://aws.amazon.com/).
 - **Google Cloud Platform (GCP)**: Provides scalable machine learning services (https://cloud.google.com/).
 
 ## Ethical Considerations

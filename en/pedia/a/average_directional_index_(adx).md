@@ -35,7 +35,7 @@ When combined, the ADX, +DI, and -DI provide a comprehensive view of market tren
 
 - An **ADX value above 25** typically indicates a strong trend.
 - An **ADX value below 20** signals a weak trend or a ranging market.
-- ADX values can help traders avoid false signals by confirming the trend strength.
+- ADX values can help traders avoid [false signals](../f/false_signals_in_trading.md) by confirming the trend strength.
 
 ## Use Cases in Algorithmic Trading
 

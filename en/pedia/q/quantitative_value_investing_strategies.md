@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Quantitative value investing](../q/quantitative_value_investing.md) strategies are systematic approaches that leverage mathematical and statistical models to identify undervalued stocks. Different from traditional [value investing](../v/value_investing.md), which relies on subjective judgment and qualitative analysis, quantitative strategies implement a data-driven methodology to make investment decisions, aiming to exploit inefficiencies in the financial markets.
+[Quantitative value investing](../q/quantitative_value_investing.md) strategies are systematic approaches that leverage mathematical and statistical models to identify undervalued stocks. Different from traditional [value investing](../v/value_investing.md), which relies on subjective judgment and qualitative analysis, [quantitative strategies](../q/quantitative_strategies_in_trading.md) implement a data-driven methodology to make investment decisions, aiming to exploit inefficiencies in the financial markets.
 
 ## Core Concepts
 
@@ -39,10 +39,10 @@ Factors are characteristics of stocks that can explain their returns. Quantitati
 
 ### Model Development
 
-Once relevant factors are identified, mathematical models are developed to predict the future performance of stocks. Common models include:
+Once relevant factors are identified, [mathematical models](../m/mathematical_models_in_trading.md) are developed to predict the future performance of stocks. Common models include:
 
 - **Regression Models:** Used to identify relationships between different financial variables.
-- **Machine Learning Algorithms:** Employed to detect complex patterns and make predictions based on large datasets.
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md):** Employed to detect complex patterns and make predictions based on large datasets.
 - **Monte Carlo Simulations:** Utilized to simulate various scenarios and assess potential outcomes.
 
 ### Portfolio Construction
@@ -84,7 +84,7 @@ Investment funds such as DFA (Dimensional Fund Advisors) and Renaissance Technol
 - **Python:** A popular programming language used for data analysis, machine learning, and [quantitative finance](../q/quantitative_finance.md). Libraries such as Pandas, NumPy, and SciPy are essential for statistical analysis.
 - **R:** Another statistical programming language often used in [quantitative finance](../q/quantitative_finance.md) for data manipulation and visualization.
 - **MATLAB:** A high-level language and environment for numerical computing.
-- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying quantitative strategies.
+- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 ## Challenges and Limitations
 
@@ -108,7 +108,7 @@ Developing and [backtesting](../b/backtesting.md) complex models require substan
 
 ### Artificial Intelligence and Machine Learning
 
-The integration of AI and ML is revolutionizing [quantitative value investing](../q/quantitative_value_investing.md). Advanced techniques such as deep learning and natural language processing are enhancing data analysis capabilities, leading to more sophisticated and [adaptive strategies](../a/adaptive_strategies.md).
+The integration of AI and ML is revolutionizing [quantitative value investing](../q/quantitative_value_investing.md). Advanced techniques such as deep learning and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) are enhancing data analysis capabilities, leading to more sophisticated and [adaptive strategies](../a/adaptive_strategies.md).
 
 ### Alternative Data
 
@@ -116,7 +116,7 @@ The use of [alternative data](../a/alternative_data.md) sources, such as [social
 
 ### Quantum Computing
 
-Though still in its infancy, quantum computing holds potential for solving complex optimization problems in [quantitative finance](../q/quantitative_finance.md), offering unprecedented speed and computational power.
+Though still in its infancy, [quantum computing](../q/quantum_computing_in_trading.md) holds potential for solving complex optimization problems in [quantitative finance](../q/quantitative_finance.md), offering unprecedented speed and computational power.
 
 ## Conclusion
 

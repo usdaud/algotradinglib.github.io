@@ -50,7 +50,7 @@ In the context of the 9-period RSI, the calculation would focus on the average g
 
 ## Limitations of the 9-Period RSI
 
-1. **False Signals:** The increased sensitivity can also lead to more false signals. These can result in premature entries and exits, causing potential losses.
+1. **[False Signals](../f/false_signals_in_trading.md):** The increased sensitivity can also lead to more [false signals](../f/false_signals_in_trading.md). These can result in premature entries and exits, causing potential losses.
    
 2. **Noise:** In highly volatile markets, the shorter RSI can produce a lot of noise, making it difficult to distinguish between significant and insignificant price movements.
    
@@ -68,7 +68,7 @@ In trending markets, the 9-period RSI can help traders confirm the strength of a
 
 ### Combining with Other Indicators
 
-Many traders use the 9-period RSI in conjunction with other [technical indicators](../t/technical_indicators.md) to enhance the accuracy of their signals. Moving averages, MACD, and [Bollinger Bands](../b/bollinger_bands.md) are commonly paired with RSI to filter out false signals and confirm trends.
+Many traders use the 9-period RSI in conjunction with other [technical indicators](../t/technical_indicators.md) to enhance the accuracy of their signals. Moving averages, MACD, and [Bollinger Bands](../b/bollinger_bands.md) are commonly paired with RSI to filter out [false signals](../f/false_signals_in_trading.md) and confirm trends.
 
 ## Companies Utilizing RSI in Trading Systems
 
@@ -83,7 +83,7 @@ Several [proprietary trading](../p/proprietary_trading.md) firms and financial s
 3. **Jane Street Capital** — Utilizes a wide range of [technical indicators](../t/technical_indicators.md) as part of their [algorithmic trading](../a/algorithmic_trading.md) strategies, likely including RSI for various asset classes.  
    [Jane Street](https://www.janestreet.com/)
    
-4. **Renaissance Technologies** — Known for their Medallion Fund, they use sophisticated mathematical models, including RSI, to exploit market inefficiencies.  
+4. **Renaissance Technologies** — Known for their Medallion Fund, they use sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including RSI, to exploit market inefficiencies.  
    [Renaissance Technologies](https://www.rentec.com/)
 
 ## Case Study: Application of 9-Period RSI
@@ -105,4 +105,4 @@ Using the 9-period RSI, the trader executes several successful trades, profiting
 
 ## Conclusion
 
-The 9-period RSI is a versatile and widely used technical indicator that offers traders increased sensitivity to price changes, making it suitable for [short-term trading](../s/short-term_trading.md) strategies such as [swing trading](../s/swing_trading.md) and scalping. While it has its limitations, such as the potential for false signals, its benefits make it a valuable tool in a trader’s arsenal. By understanding and applying the 9-period RSI, traders can gain valuable insights into market conditions and enhance their trading decisions.
+The 9-period RSI is a versatile and widely used technical indicator that offers traders increased sensitivity to price changes, making it suitable for [short-term trading](../s/short-term_trading.md) strategies such as [swing trading](../s/swing_trading.md) and scalping. While it has its limitations, such as the potential for [false signals](../f/false_signals_in_trading.md), its benefits make it a valuable tool in a trader’s arsenal. By understanding and applying the 9-period RSI, traders can gain valuable insights into market conditions and enhance their trading decisions.

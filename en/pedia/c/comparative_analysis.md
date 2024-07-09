@@ -1,6 +1,6 @@
 # Comparative Analysis
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves the use of computer programs and systems to execute trades in financial markets according to predefined criteria. It leverages mathematical models and complex algorithms to make high-frequency and high-volume trades that would be impossible for human traders to execute manually. The purpose of this comprehensive comparative analysis is to explore the various aspects of [algorithmic trading](../a/algorithmic_trading.md), its methodologies, [performance metrics](../p/performance_metrics.md), advantages and disadvantages, as well as a look into some of the leading companies in the space.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves the use of computer programs and systems to execute trades in financial markets according to predefined criteria. It leverages [mathematical models](../m/mathematical_models_in_trading.md) and complex algorithms to make high-frequency and high-volume trades that would be impossible for human traders to execute manually. The purpose of this comprehensive comparative analysis is to explore the various aspects of [algorithmic trading](../a/algorithmic_trading.md), its methodologies, [performance metrics](../p/performance_metrics.md), advantages and disadvantages, as well as a look into some of the leading companies in the space.
 
 ## 1. Overview of Algorithmic Trading
 
@@ -135,7 +135,7 @@ Integration of AI and machine learning techniques into [algorithmic trading](../
 
 ### 8.2 Quantum Computing
 
-Exploration of quantum computing to solve complex optimization problems much faster than classical computers.
+Exploration of [quantum computing](../q/quantum_computing_in_trading.md) to solve complex optimization problems much faster than classical computers.
 
 ### 8.3 Democratization of Algorithmic Trading
 
@@ -147,6 +147,6 @@ Increased focus on ethical trading practices, including addressing the implicati
 
 ## Conclusion
 
-[Algorithmic trading](../a/algorithmic_trading.md) represents a fusion of finance, technology, and mathematics, offering numerous advantages but also presenting certain risks and challenges. Continuous developments in this field promise to shape the future of financial markets, making it an exciting area for further research and innovation. Whether through the development of cutting-edge algorithms or the adoption of newer technologies like AI and quantum computing, the evolution of [algorithmic trading](../a/algorithmic_trading.md) is set to continue at a rapid pace.
+[Algorithmic trading](../a/algorithmic_trading.md) represents a fusion of finance, technology, and mathematics, offering numerous advantages but also presenting certain risks and challenges. Continuous developments in this field promise to shape the future of financial markets, making it an exciting area for further research and innovation. Whether through the development of cutting-edge algorithms or the adoption of newer technologies like AI and [quantum computing](../q/quantum_computing_in_trading.md), the evolution of [algorithmic trading](../a/algorithmic_trading.md) is set to continue at a rapid pace.
 
 This comprehensive analysis has provided an in-depth look into the methodologies, [performance metrics](../p/performance_metrics.md), and market players that define [algorithmic trading](../a/algorithmic_trading.md), offering valuable insights for both seasoned professionals and newcomers to the field.

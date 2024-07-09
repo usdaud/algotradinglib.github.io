@@ -29,7 +29,7 @@ where:
 - \( r \) = Risk-free interest rate
 - \( T \) = Time to maturity
 - \( \sigma \) = Volatility of the stock
-- \( N(\cdot) \) = Cumulative distribution function of the standard normal distribution
+- \( N(\cdot) \) = [Cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md)
 
 ### 2. Binomial Option Pricing Model
 
@@ -56,7 +56,7 @@ The [Binomial Option Pricing Model](../b/binomial_option_pricing_model.md), deve
 
 **Fundamental Assumptions:**
 - The underlying asset price follows a stochastic process, such as [geometric Brownian motion](../g/geometric_brownian_motion.md).
-- The simulation can accommodate various features, such as path dependency and multiple sources of uncertainty.
+- The [simulation](../s/simulation_in_trading.md) can accommodate various features, such as [path dependency](../p/path_dependency_in_trading.md) and multiple sources of [uncertainty](../u/uncertainty_in_trading.md).
 
 **Monte Carlo Steps:**
 1. **Simulate multiple paths for the underlying asset price:**
@@ -127,7 +127,7 @@ where:
 
 ### 7. Bachelier Model
 
-The Bachelier Model, also known as the Normal Model, is one of the earliest option pricing models, introduced by Louis Bachelier in 1900. Unlike the [Black-Scholes Model](../b/black-scholes_model.md), which assumes [log-normal distribution](../l/log-normal_distribution.md) of asset prices, the Bachelier Model assumes a normal distribution of asset prices.
+The Bachelier Model, also known as the Normal Model, is one of the earliest option pricing models, introduced by Louis Bachelier in 1900. Unlike the [Black-Scholes Model](../b/black-scholes_model.md), which assumes [log-normal distribution](../l/log-normal_distribution.md) of asset prices, the Bachelier Model assumes a [normal distribution](../n/normal_distribution_in_trading.md) of asset prices.
 
 **Fundamental Assumptions:**
 - The asset price follows an arithmetic Brownian motion with constant volatility.
@@ -142,13 +142,13 @@ For a European put option, the formula is:
 
 where:
 - \( d = \frac{S_0 - X}{\sigma \sqrt{T}} \)
-- \( n(\cdot) \) = [Probability density function](../p/probability_density_function.md) of the standard normal distribution
+- \( n(\cdot) \) = [Probability density function](../p/probability_density_function.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md)
 
 ### Real-World Applications and Companies
 
 Several financial institutions and technology companies specialize in providing advanced option pricing solutions and platforms. Some of the notable companies in this space include:
 
-1. **[Bloomberg](../b/bloomberg.md) L.P.**: A global financial services company providing financial software tools, including advanced option pricing models and analytics.
+1. **[Bloomberg](../b/bloomberg.md) L.P.**: A global financial services company providing financial [software tools](../s/software_tools_for_trading.md), including advanced option pricing models and analytics.
    Website: [Bloomberg](https://www.bloomberg.com)
 
 2. **Intercontinental Exchange (ICE)**: Operates global exchanges and provides data services that include option pricing and [risk management](../r/risk_management.md) analytics.

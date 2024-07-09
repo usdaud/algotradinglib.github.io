@@ -17,7 +17,7 @@ Quantitative investment refers to the use of [quantitative analysis](../q/quanti
 ## 2. Types of Quantitative Investment Models
 
 ### 2.1 Statistical Arbitrage Models
-Statistical [arbitrage](../a/arbitrage.md) involves exploiting price discrepancies between related financial instruments based on statistical and mathematical models. These models use historical price data to identify mean-reverting relationships between assets and generate [trading signals](../t/trading_signals.md).
+Statistical [arbitrage](../a/arbitrage.md) involves exploiting price discrepancies between related financial instruments based on statistical and [mathematical models](../m/mathematical_models_in_trading.md). These models use historical price data to identify mean-reverting relationships between assets and generate [trading signals](../t/trading_signals.md).
 
 #### 2.1.1 Pair Trading
 Pair trading is a strategy where two correlated assets are traded to exploit their price divergence. For instance, if two stocks historically move together but diverge temporarily, a trader might short the overperforming stock and go long on the underperforming one, anticipating their convergence.
@@ -35,10 +35,10 @@ Multi-[factor models](../f/factor_models.md), like the Fama-French three-factor 
 Risk [factor analysis](../f/factor_analysis.md) identifies and quantifies the risk contributions of different factors to an investment portfolio. This helps in constructing portfolios that optimize returns for a given level of risk.
 
 ### 2.3 Machine Learning and AI Models
-Machine learning (ML) and artificial intelligence (AI) models have revolutionized quantitative investment by enabling more complex and [adaptive strategies](../a/adaptive_strategies.md).
+Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) models have revolutionized quantitative investment by enabling more complex and [adaptive strategies](../a/adaptive_strategies.md).
 
 #### 2.3.1 Supervised Learning Models
-Supervised learning models are trained on historical data to make predictions about future asset prices. Techniques like regression, [decision trees](../d/decision_trees.md), and support vector machines are commonly used.
+Supervised learning models are trained on historical data to make predictions about future asset prices. Techniques like regression, [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are commonly used.
 
 #### 2.3.2 Unsupervised Learning Models
 Unsupervised learning models identify patterns and relationships in data without predefined labels. [Clustering algorithms](../c/clustering_algorithms.md), such as k-means and hierarchical clustering, are used to group assets with similar characteristics.
@@ -68,7 +68,7 @@ Developing effective [quantitative models](../q/quantitative_models.md) involves
 [Quantitative research](../q/quantitative_research.md) begins with formulating hypotheses about market behavior. Statistical tests, like t-tests and chi-square tests, are used to validate these hypotheses against historical data.
 
 #### 3.2.2 Model Calibration
-Calibration involves fine-tuning model parameters to fit historical data accurately. Techniques like grid search and cross-validation ensure the model's robustness.
+Calibration involves fine-tuning model parameters to fit historical data accurately. Techniques like [grid search](../g/grid_search_in_trading.md) and cross-validation ensure the model's robustness.
 
 #### 3.2.3 Backtesting
 [Backtesting](../b/backtesting.md) evaluates the model's performance using historical data. By applying the model to past data, researchers can assess its accuracy and reliability.
@@ -121,12 +121,12 @@ Based on the deal probability, traders take positions in the target and acquirin
 Credit scoring models evaluate the creditworthiness of borrowers using statistical techniques. These models predict the likelihood of default based on historical data and borrower characteristics.
 
 #### 4.4.2 Default Prediction Models
-Default prediction models estimate the probability of issuer default for bonds and other debt instruments. Survival analysis and logistic regression are common techniques used in these models.
+Default prediction models estimate the probability of issuer default for bonds and other debt instruments. Survival analysis and [logistic regression](../l/logistic_regression_in_trading.md) are common techniques used in these models.
 
 ## 5. Leading Companies in Quantitative Investment
 
 ### 5.1 Two Sigma
-[Two Sigma](https://www.twosigma.com/) is a prominent quantitative investment management firm that leverages data science and technology to derive trading and investment strategies.
+[Two Sigma](https://www.twosigma.com/) is a prominent quantitative investment management firm that leverages [data science](../d/data_science_in_trading.md) and technology to derive trading and investment strategies.
 
 ### 5.2 Renaissance Technologies
 [Renaissance Technologies](https://www.rentec.com/) is renowned for its Medallion Fund, which is considered one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md) globally.

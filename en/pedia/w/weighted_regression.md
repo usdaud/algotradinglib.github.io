@@ -3,7 +3,7 @@
 ## Introduction
 Weighted Regression, a statistical method widely deployed in [algorithmic trading](../a/algorithmic_trading.md), is a pivotal technique used to handle various types of data anomalies, heteroscedasticity, and to refine model accuracy. Unlike ordinary least squares (OLS) regression, which treats all data points equally, weighted regression assigns different weights to data points based on their importance or reliability. This potency of focusing on more critical data points makes weighted regression an invaluable tool in the development of sophisticated [trading algorithms](../t/trading_algorithms.md).
 
-Weighted Regression is predominantly utilized in scenarios where some data points are inherently more reliable than others, or when variances across the observations differ significantly - a condition known as heteroscedasticity. By implementing appropriate weights, traders and quantitative analysts can develop more robust predictive models that ideally suit the erratic nature of financial markets.
+Weighted Regression is predominantly utilized in scenarios where some data points are inherently more reliable than others, or when variances across the observations differ significantly - a condition known as heteroscedasticity. By implementing appropriate weights, traders and quantitative analysts can develop more robust [predictive models](../p/predictive_models_in_trading.md) that ideally suit the erratic nature of financial markets.
 
 ## Fundamentals of Weighted Regression
 
@@ -35,7 +35,7 @@ In financial markets, some instruments or time periods exhibit higher volatility
 Weighted regression is integral in robust [portfolio optimization](../p/portfolio_optimization.md) techniques such as generalized least squares (GLS) and feasible generalized least squares (FGLS). By employing weights proportional to the inverse of the variance-covariance matrix of returns, these methods provide improved estimates of expected returns and covariance structures, crucial for portfolio construction and optimization.
 
 ### Predictive Analytics
-[Algorithmic trading](../a/algorithmic_trading.md) strategies, including [mean reversion](../m/mean_reversion.md), momentum, and statistical [arbitrage](../a/arbitrage.md), all benefit from accurate predictions of future prices or returns. Weighted regression can enhance prediction accuracy by assigning appropriate weights to historical data, thereby improving the training of predictive models.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies, including [mean reversion](../m/mean_reversion.md), momentum, and statistical [arbitrage](../a/arbitrage.md), all benefit from accurate predictions of future prices or returns. Weighted regression can enhance prediction accuracy by assigning appropriate weights to historical data, thereby improving the training of [predictive models](../p/predictive_models_in_trading.md).
 
 ### Machine Learning Models
 Incorporating weighted regression into machine learning frameworks like [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), or ensemble methods, adjusts the learning process to account for heteroscedasticity or data reliability. This preprocessing step optimizes the performance of machine learning models used for price prediction, risk assessment, and [trading signal generation](../t/trading_signal_generation.md).
@@ -48,7 +48,7 @@ Incorporating weighted regression into machine learning frameworks like [linear 
 - **Pandas:** Provides data manipulation tools to compute weights and prepare data for weighted [regression analysis](../r/regression_analysis.md).
 
 ### R Libraries
-- **Stats Package:** The foundational package in R includes `lm()` for linear models where weighted regression can be performed using the `weights` parameter.
+- **Stats Package:** The foundational package in R includes `lm()` for [linear models](../l/linear_models_in_trading.md) where weighted regression can be performed using the `weights` parameter.
 - **CAR package:** Extends base R functionalities, providing tools for heteroscedasticity diagnostics and weighted regression.
 
 ## Practical Example in Python

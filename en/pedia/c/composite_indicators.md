@@ -39,7 +39,7 @@ Traders can customize composite indicators to suit their specific [trading strat
 A Composite Moving Average combines multiple moving averages of different periods. It offers smoother transitions and reduces the lag associated with traditional moving averages.
 
 ### Composite Oscillator
-A Composite Oscillator combines oscillators like RSI, MACD, and Stochastic Oscillators. It typically uses weighted averages to account for the different characteristics and timeframes of the individual oscillators.
+A Composite Oscillator combines oscillators like RSI, MACD, and Stochastic Oscillators. It typically uses [weighted averages](../w/weighted_averages_in_trading.md) to account for the different characteristics and timeframes of the individual oscillators.
 
 ### Market Breadth Indicators
 [Market breadth indicators](../m/market_breadth_indicators.md) like the Advance/Decline Line can be incorporated into composite indicators to provide insights into the overall market direction.
@@ -59,7 +59,7 @@ Choose the individual indicators that will make up the composite indicator. Thes
 Assign weights to each of the chosen indicators. This could be equal weighting or weighted by importance, historical performance, or volatility adjustments.
 
 ### Backtesting and Optimization
-Before deploying a composite indicator in live trading, it should be backtested against historical data. Optimization techniques like genetic algorithms or machine learning can also be applied to fine-tune the parameters.
+Before deploying a composite indicator in live trading, it should be backtested against historical data. Optimization techniques like [genetic algorithms](../g/genetic_algorithms_in_trading.md) or machine learning can also be applied to fine-tune the parameters.
 
 ### Performance Monitoring
 Once the composite indicator is live, continue to monitor its performance. Make adjustments as required based on changing market conditions or new data.
@@ -73,7 +73,7 @@ JP Morgan employs proprietary composite indicators in their [trading algorithms]
 Goldman Sachs uses a Composite Trend Indicator that incorporates various moving averages, direction indices, and volume metrics to provide a single, coherent trend assessment. For more information, visit their [AI-driven trading solutions page](https://www.goldmansachs.com).
 
 ### Renaissance Technologies' Medallion Fund
-Renaissance Technologies' flagship Medallion Fund employs highly sophisticated composite indicators built from [proprietary algorithms](../p/proprietary_algorithms.md) and big data analytics. You can read more about their advanced quantitative methods on their [research page](https://www.rentec.com/).
+Renaissance Technologies' flagship Medallion Fund employs highly sophisticated composite indicators built from [proprietary algorithms](../p/proprietary_algorithms.md) and [big data analytics](../b/big_data_analytics_in_trading.md). You can read more about their advanced quantitative methods on their [research page](https://www.rentec.com/).
 
 ## Conclusion
 

@@ -18,7 +18,7 @@ High-frequency trading involves holding periods that are extremely short, often 
 [Intraday trading](../i/intraday_trading.md) involves buying and selling securities within the same trading day. The holding period may range from a few seconds to several hours, but all positions must be closed by the end of the trading day. Intraday strategies are designed to capitalize on short-term price movements.
 
 **Example Companies:**
-- **Interactive Brokers**
+- **[Interactive Brokers](../i/interactive_brokers.md)**
   - [Interactive Brokers](https://www.interactivebrokers.com/)
 
 #### 3. Swing Trading
@@ -32,7 +32,7 @@ High-frequency trading involves holding periods that are extremely short, often 
 Position trading involves holding assets for longer periods, often ranging from several months to years. This strategy aims to benefit from long-term trends and is less concerned with short-term price fluctuations. Position trading often relies on [fundamental analysis](../f/fundamental_analysis.md).
 
 **Example Companies:**
-- **Fidelity Investments**
+- **[Fidelity Investments](../f/fidelity_investments.md)**
   - [Fidelity Investments](https://www.fidelity.com/)
 
 ### Key Components of Holding Period Strategies
@@ -72,7 +72,7 @@ Renaissance Technologies is famous for its Medallion Fund, which employs high-fr
 - [Renaissance Technologies](https://www.rentec.com/)
 
 #### 3. Two Sigma Investments
-Two Sigma utilizes big data and machine learning to develop strategies that can include various holding periods. This firm focuses heavily on research and employs a wide array of quant strategies.
+Two Sigma utilizes [big data](../b/big_data_in_trading.md) and machine learning to develop strategies that can include various holding periods. This firm focuses heavily on research and employs a wide array of quant strategies.
 
 **Two Sigma Investments**
 - [Two Sigma Investments](https://www.twosigma.com/)

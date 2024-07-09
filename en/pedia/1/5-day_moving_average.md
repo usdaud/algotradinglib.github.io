@@ -59,7 +59,7 @@ Due to its short window period, the 5-day moving average is highly responsive to
 
 ### Susceptibility to Noise
 
-One significant drawback is its susceptibility to market noise. Because the look-back period is short, the 5MA can generate false signals, particularly in volatile market conditions.
+One significant drawback is its susceptibility to market noise. Because the look-back period is short, the 5MA can generate [false signals](../f/false_signals_in_trading.md), particularly in volatile market conditions.
 
 ### Lag Effect
 

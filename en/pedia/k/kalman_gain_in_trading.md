@@ -1,10 +1,10 @@
 # Kalman Gain
 
 ## Introduction to Kalman Filter
-The Kalman Filter is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more accurate than those based on a single measurement alone. The algorithm works in a two-step process: **predict** and **update**.
+The [Kalman Filter](../k/kalman_filter_in_trading.md) is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more accurate than those based on a single measurement alone. The algorithm works in a two-step process: **predict** and **update**.
 
 ## Kalman Gain
-Kalman Gain, a fundamental part of the Kalman Filter algorithm, helps in adjusting the weights of the predicted and observed values. The Kalman Gain determines how much of the new measurement should be incorporated into the updated estimate. Essentially, it balances the trust between predicted values and measured values. 
+Kalman Gain, a fundamental part of the [Kalman Filter](../k/kalman_filter_in_trading.md) algorithm, helps in adjusting the weights of the predicted and observed values. The Kalman Gain determines how much of the new measurement should be incorporated into the updated estimate. Essentially, it balances the trust between predicted values and measured values. 
 
 The formula for Kalman Gain \( K_t \) is:
 \[ K_t = \frac{P_{t|t-1} H_t^T}{H_t P_{t|t-1} H_t^T + R_t} \]
@@ -14,13 +14,13 @@ Where:
 - \( R_t \) is the measurement noise covariance.
 
 ## Application in Trading
-In the context of trading, the Kalman Filter and Kalman Gain can be utilized for various purposes including, but not limited to:
+In the context of trading, the [Kalman Filter](../k/kalman_filter_in_trading.md) and Kalman Gain can be utilized for various purposes including, but not limited to:
 - **Predicting Stock Prices**: Using historical price data to predict future movements.
 - **Estimating Volatility**: Filtering out the noise to estimate the actual volatility of a stock.
-- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Implementing the Kalman Filter in conjunction with other [trading algorithms](../t/trading_algorithms.md) for better signal processing and decision making.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Implementing the [Kalman Filter](../k/kalman_filter_in_trading.md) in conjunction with other [trading algorithms](../t/trading_algorithms.md) for better [signal processing](../s/signal_processing_in_trading.md) and decision making.
 
 ### Stock Price Prediction
-Traders often use the Kalman Filter to predict future stock prices. By feeding the algorithm with historical price data, traders can produce a smoothed estimate of the stock's direction. The Kalman Gain comes into play by adjusting the weights given to new observed prices versus predicted prices. For instance, during high volatility, the Kalman Gain adjusts to put more weight on new observations.
+Traders often use the [Kalman Filter](../k/kalman_filter_in_trading.md) to predict future stock prices. By feeding the algorithm with historical price data, traders can produce a smoothed estimate of the stock's direction. The Kalman Gain comes into play by adjusting the weights given to new observed prices versus predicted prices. For instance, during high volatility, the Kalman Gain adjusts to put more weight on new observations.
 
 ### Steps to Implement
 1. **Initialization**: Define the initial values for the state, covariance matrices, and noise covariances.

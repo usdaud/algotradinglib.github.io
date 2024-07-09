@@ -11,7 +11,7 @@
 2. **Implied Volatility (IV):** This represents the market's forecast of a likely movement in a security's price. It's derived from the price of options on the underlying asset.
 
 **Why Volatility Matters:**
-- High volatility often indicates uncertainty or risk, but it also provides trading opportunities.
+- High volatility often indicates [uncertainty](../u/uncertainty_in_trading.md) or risk, but it also provides trading opportunities.
 - Low volatility signifies stability and predictability but might result in fewer trading opportunities.
 
 ## X-Volatility Strategy Categories
@@ -26,7 +26,7 @@
 
 ### 2. Statistical Arbitrage
 
-**Statistical [Arbitrage](../a/arbitrage.md) Overview:** Often abbreviated as "stat arb," this strategy involves using mathematical models to identify and exploit pricing inefficiencies between related financial instruments.
+**Statistical [Arbitrage](../a/arbitrage.md) Overview:** Often abbreviated as "stat arb," this strategy involves using [mathematical models](../m/mathematical_models_in_trading.md) to identify and exploit pricing inefficiencies between related financial instruments.
 
 **How it Works:**
 - [Pairs trading](../p/pairs_trading.md): Identifying two historically correlated stocks and taking opposing positions based on deviation from their historical relationship.
@@ -45,8 +45,8 @@
 **Machine Learning Volatility Overview:** This approach uses advanced computational models to identify patterns in historical data, predicting future volatility and price movements.
 
 **How it Works:**
-- **Neural Networks:** Deep learning models trained on vast datasets to predict price movements.
-- **Random Forests:** [Ensemble learning](../e/ensemble_learning.md) methods that use multiple [decision trees](../d/decision_trees.md) to improve predictive accuracy.
+- **[Neural Networks](../n/neural_networks_in_trading.md):** Deep learning models trained on vast datasets to predict price movements.
+- **[Random Forests](../r/random_forests_in_trading.md):** [Ensemble learning](../e/ensemble_learning.md) methods that use multiple [decision trees](../d/decision_trees.md) to improve predictive accuracy.
 
 ### 5. Hedging Volatility Risk
 

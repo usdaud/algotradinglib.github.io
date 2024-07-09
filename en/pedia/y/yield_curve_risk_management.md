@@ -7,7 +7,7 @@ The [yield curve](../y/yield_curve.md) is typically depicted as a graph where th
 
 1. **Normal [Yield Curve](../y/yield_curve.md)**: Long-term debt instruments have higher yields than short-term instruments, reflecting the risks associated with time. This usually occurs in a healthy, growing economy.
 2. **Inverted [Yield Curve](../y/yield_curve.md)**: Short-term yields are higher than long-term yields, which often indicates that investors expect economic slowdown or recession.
-3. **Flat [Yield Curve](../y/yield_curve.md)**: Yields across different maturities are very close to each other, suggesting transition or uncertainty in economic conditions.
+3. **Flat [Yield Curve](../y/yield_curve.md)**: Yields across different maturities are very close to each other, suggesting transition or [uncertainty](../u/uncertainty_in_trading.md) in economic conditions.
 4. **Humped [Yield Curve](../y/yield_curve.md)**: Medium-term yields are higher than both short-term and long-term yields, often indicating specific economic conditions or market distortions.
 
 #### Factors Influencing the Yield Curve

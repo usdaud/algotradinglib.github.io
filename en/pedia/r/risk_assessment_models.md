@@ -20,7 +20,7 @@ Value at Risk (VaR) is one of the most widely used risk assessment models in fin
    - Assumes that returns are normally distributed.
    - Uses mean and standard deviation to calculate potential losses.
    - Advantages: Computationally efficient.
-   - Disadvantages: Assumes normal distribution, which may not hold true in real markets.
+   - Disadvantages: Assumes [normal distribution](../n/normal_distribution_in_trading.md), which may not hold true in real markets.
 
 3. **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**:
    - Uses [computational algorithms](../c/computational_algorithms.md) to generate a wide range of possible future scenarios based on random sampling.
@@ -41,13 +41,13 @@ Conditional Value at Risk (CVaR), also known as Expected Shortfall, is an extens
 
 2. **Optimized CVaR**:
    - Uses optimization techniques to minimize CVaR through portfolio adjustments.
-   - Often implemented using linear programming.
+   - Often implemented using [linear programming](../l/linear_programming_in_trading.md).
 
 ### Stress Testing and Scenario Analysis
 
 #### Overview
 
-Stress testing and scenario analysis are techniques used to evaluate how [trading strategies](../t/trading_strategies.md) perform under extreme yet plausible market conditions. These methods help identify vulnerabilities that may not be apparent under normal market conditions.
+[Stress testing](../s/stress_testing_in_trading.md) and scenario analysis are techniques used to evaluate how [trading strategies](../t/trading_strategies.md) perform under extreme yet plausible market conditions. These methods help identify vulnerabilities that may not be apparent under normal market conditions.
 
 #### Types of Stress Tests
 
@@ -58,10 +58,10 @@ Stress testing and scenario analysis are techniques used to evaluate how [tradin
 
 2. **Hypothetical Scenarios**:
    - Involves creating hypothetical extreme scenarios (e.g., a 10% drop in the market).
-   - Advantages: Customizable to specific risk factors.
+   - Advantages: Customizable to specific [risk factors](../r/risk_factors_in_trading.md).
    - Disadvantages: Subjective and may lack empirical basis.
 
-3. **Reverse Stress Testing**:
+3. **Reverse [Stress Testing](../s/stress_testing_in_trading.md)**:
    - Identifies scenarios that could lead to significant losses.
    - Starts with a loss threshold and works backward to find conditions that would produce such losses.
 
@@ -69,7 +69,7 @@ Stress testing and scenario analysis are techniques used to evaluate how [tradin
 
 #### Overview
 
-Sensitivity analysis examines how changes in market variables impact the performance of [trading strategies](../t/trading_strategies.md). It helps in understanding the relationship between different risk factors and potential losses.
+Sensitivity analysis examines how changes in market variables impact the performance of [trading strategies](../t/trading_strategies.md). It helps in understanding the relationship between different [risk factors](../r/risk_factors_in_trading.md) and potential losses.
 
 #### Techniques
 
@@ -99,7 +99,7 @@ Sensitivity analysis examines how changes in market variables impact the perform
 
 2. **Probability of Default (PD) Models**:
    - Estimate the likelihood of a counterparty defaulting within a specific period.
-   - Often used with structural models like the Merton model, which uses firm value and debt to estimate default risk.
+   - Often used with [structural models](../s/structural_models_in_trading.md) like the Merton model, which uses firm value and debt to estimate default risk.
 
 ### Liquidity Risk Models
 
@@ -125,7 +125,7 @@ Sensitivity analysis examines how changes in market variables impact the perform
 
 #### Overview
 
-Operational risk models examine the risks stemming from internal processes, systems, and human errors. In [algorithmic trading](../a/algorithmic_trading.md), operational risks include system failures, data inaccuracies, and procedural errors.
+Operational [risk models](../r/risk_models_in_trading.md) examine the risks stemming from internal processes, systems, and human errors. In [algorithmic trading](../a/algorithmic_trading.md), operational risks include system failures, data inaccuracies, and procedural errors.
 
 #### Frameworks
 
@@ -139,7 +139,7 @@ Operational risk models examine the risks stemming from internal processes, syst
 
 ### Conclusion
 
-Risk assessment models are indispensable tools in [algorithmic trading](../a/algorithmic_trading.md), providing a systematic approach to identifying, measuring, and managing various types of risks. By leveraging models such as VaR, CVaR, stress testing, sensitivity analysis, [credit risk models](../c/credit_risk_models.md), [liquidity risk](../l/liquidity_risk.md) models, and operational risk models, traders can enhance their [risk management](../r/risk_management.md) practices, ensuring more stable and profitable [trading strategies](../t/trading_strategies.md).
+Risk assessment models are indispensable tools in [algorithmic trading](../a/algorithmic_trading.md), providing a systematic approach to identifying, measuring, and managing various types of risks. By leveraging models such as VaR, CVaR, [stress testing](../s/stress_testing_in_trading.md), sensitivity analysis, [credit risk models](../c/credit_risk_models.md), [liquidity risk](../l/liquidity_risk.md) models, and operational [risk models](../r/risk_models_in_trading.md), traders can enhance their [risk management](../r/risk_management.md) practices, ensuring more stable and profitable [trading strategies](../t/trading_strategies.md).
 
 For more information on risk assessment models and their applications in [algorithmic trading](../a/algorithmic_trading.md), consider visiting financial firms and institutions that specialize in these areas:
 

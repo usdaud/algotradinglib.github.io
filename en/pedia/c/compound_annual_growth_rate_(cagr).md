@@ -29,7 +29,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), CAGR is essential for the
 
 1. **Performance Measurement:** It provides a single annualized rate that shows the consistent growth of an investment portfolio over time, even if the growth happened at an irregular rate year over year.
   
-2. **Portfolio Comparison:** Traders can use CAGR to compare the performance of different portfolios or investment strategies over the same period because it normalizes the growth rates.
+2. **Portfolio Comparison:** Traders can use CAGR to compare the performance of different portfolios or investment strategies over the same period because it normalizes the [growth rates](../g/growth_rates_in_trading.md).
   
 3. **Risk Evaluation:** By comparing CAGR with the volatility of the investment (measured in terms of the standard deviation of returns), traders can evaluate the risk-adjusted performance of a strategy. 
 
@@ -90,4 +90,4 @@ Despite its usefulness, CAGR has some limitations:
 3. **Single Metric:** It should not be used in isolation but rather combined with other metrics like standard deviation, [Sharpe ratio](../s/sharpe_ratio.md), and maximum drawdown to get a comprehensive view.
 
 ### Conclusion
-CAGR provides a clear and straightforward metric for comparing the annual growth rates of investments over time. It's a critical tool for traders, investors, analysts, and businesses to measure and compare performance accurately. Its main advantage is its ability to normalize the growth rates of different investments, providing a 'smoother' perspective on performance. However, users should be aware of its limitations and use it in conjunction with other metrics for a well-rounded analysis.
+CAGR provides a clear and straightforward metric for comparing the annual [growth rates](../g/growth_rates_in_trading.md) of investments over time. It's a critical tool for traders, investors, analysts, and businesses to measure and compare performance accurately. Its main advantage is its ability to normalize the [growth rates](../g/growth_rates_in_trading.md) of different investments, providing a 'smoother' perspective on performance. However, users should be aware of its limitations and use it in conjunction with other metrics for a well-rounded analysis.

@@ -23,7 +23,7 @@ Popularized by Harry Markowitz in 1952, the [Mean-Variance Optimization](../m/me
 
 3. **Limitations**:
     - Highly sensitive to input estimates (mean and covariance).
-    - Assumes normally distributed returns and quadratic utility functions, which may not always hold true in practice.
+    - Assumes normally distributed returns and quadratic [utility functions](../u/utility_functions_in_trading.md), which may not always hold true in practice.
 
 #### Capital Asset Pricing Model (CAPM)
 

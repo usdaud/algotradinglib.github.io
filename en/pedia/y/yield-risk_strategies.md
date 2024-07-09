@@ -20,10 +20,10 @@
 [Risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md) involves identifying, analyzing, and mitigating risks. Techniques include:
 
 - **Value at Risk (VaR)**: Estimates the potential loss in the value of a portfolio over a defined period for a given confidence interval.
-- **Stress Testing**: Simulates the performance of a trading strategy under extreme market conditions.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulates the performance of a trading strategy under extreme market conditions.
 
 ### 5. Machine Learning and AI
-Machine learning models can enhance yield-risk strategies by identifying complex patterns and making predictions based on vast datasets. Techniques like reinforcement learning, neural networks, and unsupervised learning can be applied to develop more effective [trading algorithms](../t/trading_algorithms.md).
+Machine learning models can enhance yield-risk strategies by identifying complex patterns and making predictions based on vast datasets. Techniques like reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and unsupervised learning can be applied to develop more effective [trading algorithms](../t/trading_algorithms.md).
 
 ## Implementation of Yield-Risk Strategies
 
@@ -33,11 +33,11 @@ Machine learning models can enhance yield-risk strategies by identifying complex
   
 2. **Data Preprocessing**: Cleaning and preparing data for analysis by handling missing values, normalizing data, and feature engineering.
   
-3. **Model Selection and Development**: Depending on the strategy, models such as ARIMA for time-series forecasting, logistic regression for classification, or deep learning models for complex patterns are selected and developed.
+3. **Model Selection and Development**: Depending on the strategy, models such as ARIMA for time-series forecasting, [logistic regression](../l/logistic_regression_in_trading.md) for classification, or deep learning models for complex patterns are selected and developed.
 
 4. **[Backtesting](../b/backtesting.md)**: Running the algorithm on historical data to assess performance. It is crucial to include transaction costs, slippage, and realistic assumptions in the [backtesting](../b/backtesting.md) process.
 
-5. **Risk Assessment**: Using [risk management](../r/risk_management.md) metrics and stress testing to evaluate the potential risks associated with the strategy.
+5. **Risk Assessment**: Using [risk management](../r/risk_management.md) metrics and [stress testing](../s/stress_testing_in_trading.md) to evaluate the potential risks associated with the strategy.
 
 6. **Optimization**: Tuning the parameters of the model to maximize the risk-adjusted returns.
 
@@ -46,7 +46,7 @@ Machine learning models can enhance yield-risk strategies by identifying complex
 ### Example Platforms and Tools
 - **[QuantConnect](../q/quantconnect.md)**: An open-source cloud platform for [algorithmic trading](../a/algorithmic_trading.md) and research, supporting multiple asset classes and offering robust [backtesting](../b/backtesting.md) tools. [QuantConnect](https://www.quantconnect.com/)
 - **[Alpaca](../a/alpaca.md)**: A commission-free API for trading stocks, which allows developers to create and execute algo [trading strategies](../t/trading_strategies.md). [Alpaca](https://alpaca.markets/)
-- **Interactive Brokers**: Provides a comprehensive suite of trading APIs for different asset classes, along with [risk management](../r/risk_management.md) tools. [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides a comprehensive suite of trading APIs for different asset classes, along with [risk management](../r/risk_management.md) tools. [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### Case Study: Momentum Strategy with Risk Management
 

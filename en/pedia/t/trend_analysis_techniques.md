@@ -100,7 +100,7 @@ Chikou Span = Close plotted 26 periods back
 
 ## Machine Learning and AI in Trend Analysis
 
-Machine learning and artificial intelligence are increasingly used for [trend analysis](../t/trend_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md). These techniques involve training algorithms on large datasets to recognize patterns and make predictions.
+Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly used for [trend analysis](../t/trend_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md). These techniques involve training algorithms on large datasets to recognize patterns and make predictions.
 
 ### Supervised Learning
 
@@ -108,14 +108,14 @@ In supervised learning, algorithms are trained on a labeled dataset, meaning the
 
 - **[Linear Regression](../l/linear_regression.md)**: Used for predicting numerical values based on linear relationships between variables.
 - **Random Forest**: An ensemble method using multiple [decision trees](../d/decision_trees.md) for classification and regression.
-- **Support Vector Machines (SVM)**: Used for classification tasks, useful in separating one trend from another.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Used for classification tasks, useful in separating one trend from another.
 
 ### Unsupervised Learning
 
-Unsupervised learning algorithms work with data that is not labeled and they try to find hidden structures in the data. Techniques such as clustering and [anomaly detection](../a/anomaly_detection.md) fall under this category.
+Unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) work with data that is not labeled and they try to find hidden structures in the data. Techniques such as clustering and [anomaly detection](../a/anomaly_detection.md) fall under this category.
 
-- **K-Means Clustering**: Groups data points into k clusters based on feature similarity.
-- **Principal Component Analysis (PCA)**: Reduces dimensionality of data while preserving variance, useful for visualizing trends.
+- **[K-Means Clustering](../k/k-means_clustering_in_trading.md)**: Groups data points into k clusters based on feature similarity.
+- **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces dimensionality of data while preserving variance, useful for visualizing trends.
 
 ### Reinforcement Learning
 
@@ -126,9 +126,9 @@ In reinforcement learning, an agent learns to make decisions by taking actions i
 
 ## Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) involves analyzing text data from news articles, social media, and other sources to gauge market sentiment. Natural language processing (NLP) techniques are commonly used to extract sentiment scores, which can then be incorporated into [trading algorithms](../t/trading_algorithms.md).
+[Sentiment analysis](../s/sentiment_analysis.md) involves analyzing text data from news articles, social media, and other sources to gauge market sentiment. [Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques are commonly used to extract sentiment scores, which can then be incorporated into [trading algorithms](../t/trading_algorithms.md).
 
-- **Text Classification**: Using machine learning algorithms to classify text data into sentiment categories (positive, negative, neutral).
+- **Text Classification**: Using machine [learning algorithms](../l/learning_algorithms_in_trading.md) to classify text data into sentiment categories (positive, negative, neutral).
 - **Named Entity Recognition (NER)**: Identifies and categorizes key information (entities) in text.
 - **[Sentiment Indicators](../s/sentiment_indicators.md)**: Aggregates sentiment scores to create indicators reflecting market sentiment.
 

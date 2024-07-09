@@ -32,7 +32,7 @@ In trading, IOA can be adapted to quantify and navigate the complex relationship
 
 #### Tools and Techniques for Implementing IOA in Trading
 
-1. **Mathematical Models**
+1. **[Mathematical Models](../m/mathematical_models_in_trading.md)**
 
    IOA involves heavy use of matrices and linear algebra. The basic model consists of an input-output table that records the inputs consumed and outputs produced by different sectors. Traders need a solid grasp of matrix operations to implement this analysis effectively.
 

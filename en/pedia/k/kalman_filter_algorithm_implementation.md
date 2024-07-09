@@ -1,16 +1,16 @@
 # Kalman Filter Algorithm Implementation
 
-The Kalman filter, named after Rudolf E. Kálmán, is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more precise than those based on a single measurement alone. It is widely used in various fields such as navigation, control systems, and signal processing. This document will delve into the implementation details of the Kalman filter within the context of [algorithmic trading](../a/algorithmic_trading.md).
+The [Kalman filter](../k/kalman_filter_in_trading.md), named after Rudolf E. Kálmán, is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more precise than those based on a single measurement alone. It is widely used in various fields such as navigation, control systems, and [signal processing](../s/signal_processing_in_trading.md). This document will delve into the implementation details of the [Kalman filter](../k/kalman_filter_in_trading.md) within the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Introduction
 
-In [algorithmic trading](../a/algorithmic_trading.md), the goal is to develop various models to predict price movements or other market variables. These models can benefit significantly from using the Kalman filter due to its ability to estimate the state of a process in a way that minimizes the mean of the squared error. This section covers the basics of the Kalman filter, including its mathematical underpinnings, before proceeding to its specific application in [trading algorithms](../t/trading_algorithms.md).
+In [algorithmic trading](../a/algorithmic_trading.md), the goal is to develop various models to predict price movements or other market variables. These models can benefit significantly from using the [Kalman filter](../k/kalman_filter_in_trading.md) due to its ability to estimate the state of a process in a way that minimizes the mean of the squared error. This section covers the basics of the [Kalman filter](../k/kalman_filter_in_trading.md), including its mathematical underpinnings, before proceeding to its specific application in [trading algorithms](../t/trading_algorithms.md).
 
 ## Kalman Filter Basics
 
 ### Mathematical Background
 
-The Kalman filter algorithm works in a two-phase process: the **predict** and **update** phases. The two key equations in these phases are:
+The [Kalman filter](../k/kalman_filter_in_trading.md) algorithm works in a two-phase process: the **predict** and **update** phases. The two key equations in these phases are:
 
 1. **Predict:**
     \[
@@ -35,7 +35,7 @@ Where:
 - \( \hat{x}_{k|k-1} \) is the predicted state estimate at time step \( k \) based on the state at time step \( k-1 \).
 - \( \hat{x}_{k|k} \) is the updated state estimate after taking the measurement into account.
 - \( P_{k|k-1} \) and \( P_{k|k} \) are the predicted and updated state covariance matrices, respectively.
-- \( K_k \) is the Kalman gain matrix.
+- \( K_k \) is the [Kalman gain](../k/kalman_gain_in_trading.md) matrix.
 - \( F_k \) is the state transition model.
 - \( B_k \) is the control-input model.
 - \( u_k \) is the control vector.
@@ -46,15 +46,15 @@ Where:
 
 ### Assumptions
 
-Before applying the Kalman filter, certain assumptions must be met:
-1. The system must be described in linear terms, or the Kalman filter must be adapted (Extended Kalman Filter) for non-linear systems.
+Before applying the [Kalman filter](../k/kalman_filter_in_trading.md), certain assumptions must be met:
+1. The system must be described in linear terms, or the [Kalman filter](../k/kalman_filter_in_trading.md) must be adapted (Extended [Kalman Filter](../k/kalman_filter_in_trading.md)) for non-linear systems.
 2. The noise for both process and measurement must be Gaussian and white, meaning they should have a zero mean.
 
 ## Applying the Kalman Filter in Algorithmic Trading
 
 ### Stock Price Prediction
 
-Stocks fluctuate in ways that can be described by a somewhat linear relationship influenced by multiple factors. By modeling stock prices as a stochastic process, the Kalman filter can estimate the underlying stock price signal that is "hidden" under the noise of frequent fluctuations. Here’s a step-by-step guide on how to implement Kalman filter for single stock price prediction.
+Stocks fluctuate in ways that can be described by a somewhat linear relationship influenced by multiple factors. By modeling stock prices as a stochastic process, the [Kalman filter](../k/kalman_filter_in_trading.md) can estimate the underlying stock price signal that is "hidden" under the noise of frequent fluctuations. Here’s a step-by-step guide on how to implement [Kalman filter](../k/kalman_filter_in_trading.md) for single stock price prediction.
 
 #### Step 1: Define Variables
 
@@ -142,11 +142,11 @@ for k in range(num_steps):
     P_estimates[k, :, :] = P_current
 ```
 
-This code snippet will iteratively apply the Kalman filter to the time series price data, predicting and updating the price and its rate of change.
+This code snippet will iteratively apply the [Kalman filter](../k/kalman_filter_in_trading.md) to the time series price data, predicting and updating the price and its rate of change.
 
 ### Performance Metrics
 
-To evaluate the performance of the Kalman filter in predicting stock prices, several metrics such as Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and R-Squared value can be used. Here’s how you might compute these in Python.
+To evaluate the performance of the [Kalman filter](../k/kalman_filter_in_trading.md) in predicting stock prices, several metrics such as Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and [R-Squared](../r/r-squared_in_trading.md) value can be used. Here’s how you might compute these in Python.
 
 ```python
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
@@ -161,13 +161,13 @@ r_squared = r2_score(price_series, predicted_prices)
 
 print(f'MAE: {mae}')
 print(f'RMSE: {rmse}')
-print(f'R-Squared: {r_squared}')
+print(f'[R-Squared](../r/r-squared_in_trading.md): {r_squared}')
 ```
 
-These metrics will provide a quantitative measure of how well the Kalman filter is predicting the stock prices, allowing for optimization and tuning of the filter parameters.
+These metrics will provide a quantitative measure of how well the [Kalman filter](../k/kalman_filter_in_trading.md) is predicting the stock prices, allowing for optimization and tuning of the filter parameters.
 
 ## Conclusion
 
-The Kalman filter's application to [algorithmic trading](../a/algorithmic_trading.md) illustrates its versatility and power in improving prediction accuracy by filtering out the noise and capturing the underlying [stochastic processes](../s/stochastic_processes.md). Understanding its mathematical foundation and implementing it in code gains you a powerful tool for time-series prediction in finance.
+The [Kalman filter](../k/kalman_filter_in_trading.md)'s application to [algorithmic trading](../a/algorithmic_trading.md) illustrates its versatility and power in improving prediction accuracy by filtering out the noise and capturing the underlying [stochastic processes](../s/stochastic_processes.md). Understanding its mathematical foundation and implementing it in code gains you a powerful tool for time-series prediction in finance.
 
 For more details on specific implementations, you may visit companies that focus on financial technology and market prediction, such as [Numerai](https://numer.ai/) and [QuantConnect](https://www.quantconnect.com/).

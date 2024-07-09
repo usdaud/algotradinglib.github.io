@@ -23,7 +23,7 @@ The goal is to maximize the [Sharpe Ratio](../s/sharpe_ratio.md), which implies 
 
 ### Factor Models
 
-[Factor models](../f/factor_models.md) aim to describe asset returns through exposure to various risk factors. The Capital Asset Pricing Model (CAPM) and the Fama-French Three-Factor Model are widely used in this context.
+[Factor models](../f/factor_models.md) aim to describe asset returns through exposure to various [risk factors](../r/risk_factors_in_trading.md). The Capital Asset Pricing Model (CAPM) and the Fama-French Three-Factor Model are widely used in this context.
 
 #### CAPM
 
@@ -92,4 +92,4 @@ Investment banks like Goldman Sachs and J.P. Morgan use [quantitative models](..
 
 ## Conclusion
 
-Quantitative Portfolio Theory provides a robust framework for creating and managing investment portfolios. By leveraging mathematical models, statistical techniques, and computational power, QPT enables investors to achieve their financial objectives while managing risks effectively. As data availability and computational capabilities continue to grow, the role of quantitative methods in investment management is expected to expand further, driving innovation and performance in the financial industry.
+Quantitative Portfolio Theory provides a robust framework for creating and managing investment portfolios. By leveraging [mathematical models](../m/mathematical_models_in_trading.md), statistical techniques, and computational power, QPT enables investors to achieve their financial objectives while managing risks effectively. As data availability and computational capabilities continue to grow, the role of quantitative methods in investment management is expected to expand further, driving innovation and performance in the financial industry.

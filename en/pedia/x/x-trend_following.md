@@ -7,7 +7,7 @@
 Traditional [trend following](../t/trend_following.md) revolves around the concept of buying an asset when its price is moving upwards and selling it when the price is moving downwards. It is based on the hypothesis that assets which have been trending in a certain direction for a period are more likely to continue moving in that direction. This strategy relies on various tools and indicators such as moving averages, moving average convergence divergence (MACD), and relative strength index (RSI).
 
 ### Evolution to X-Trend Following
-X-[Trend Following](../t/trend_following.md) goes beyond traditional methods by leveraging technological advancements and data science to refine the process:
+X-[Trend Following](../t/trend_following.md) goes beyond traditional methods by leveraging technological advancements and [data science](../d/data_science_in_trading.md) to refine the process:
 
 #### Data Sources and Integration
 Modern X-[Trend Following](../t/trend_following.md) platforms integrate multiple data sources including financial databases, social media [sentiment analysis](../s/sentiment_analysis.md), [economic indicators](../e/economic_indicators.md), and news feeds. This multi-source approach aims to capture a more comprehensive view of market trends.
@@ -26,7 +26,7 @@ NLP can parse and comprehend vast quantities of text-based data such as news art
    - Feature engineering to extract meaningful variables and metrics.
 
 2. **Model Development**
-   - Selection of appropriate ML models such as logistic regression, [decision trees](../d/decision_trees.md), random forests, and deep learning networks.
+   - Selection of appropriate ML models such as [logistic regression](../l/logistic_regression_in_trading.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and deep learning networks.
    - Training models on historical data sets to identify trends and patterns.
    - Validating models using cross-validation techniques to avoid overfitting.
 

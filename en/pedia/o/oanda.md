@@ -10,7 +10,7 @@ OANDA is a globally recognized online broker offering trading and investment ser
 4. **Market Research and Analysis**: Access to comprehensive research reports, market news, and advanced analysis tools.
 5. **Educational Resources**: Extensive educational materials, including webinars, tutorials, articles, and market analysis to help traders improve their skills.
 6. **Automated Trading**: Supports automated [trading strategies](../t/trading_strategies.md) and [algorithmic trading](../a/algorithmic_trading.md) through APIs and MetaTrader 4 (MT4).
-7. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced order types, [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
+7. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced [order types](../o/order_types_in_trading.md), [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
 8. **API Access**: Provides APIs for automated trading and custom integrations.
 9. **Mobile Trading**: Mobile apps for iOS and Android devices, allowing trading on the go.
 10. **Secure and Regulated**: OANDA is regulated by top-tier financial authorities, ensuring a secure [trading environment](../t/trading_environment.md).

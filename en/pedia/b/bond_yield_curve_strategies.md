@@ -13,7 +13,7 @@ Before delving into specific strategies, it's crucial to understand the underlyi
 
 1. **Normal [Yield Curve](../y/yield_curve.md)**: Indicates a growing economy where longer-term bonds have higher yields than shorter-term bonds due to the risks associated with time.
 2. **Inverted [Yield Curve](../y/yield_curve.md)**: Occurs when longer-term yields are lower than shorter-term yields, typically signaling an impending recession.
-3. **Flat [Yield Curve](../y/yield_curve.md)**: When yields on short-term and long-term bonds are very close, indicating economic uncertainty or transition.
+3. **Flat [Yield Curve](../y/yield_curve.md)**: When yields on short-term and long-term bonds are very close, indicating economic [uncertainty](../u/uncertainty_in_trading.md) or transition.
 
 ### Key Strategies
 
@@ -87,11 +87,11 @@ A butterfly strategy involves a combination of barbell and bullet strategies to 
 
 ### Algorithmic Trading and Yield Curve Strategies
 
-[Algorithmic trading](../a/algorithmic_trading.md) (algotrading) has revolutionized [yield curve](../y/yield_curve.md) strategies by leveraging advanced technologies and mathematical models to execute trades dynamically.
+[Algorithmic trading](../a/algorithmic_trading.md) (algotrading) has revolutionized [yield curve](../y/yield_curve.md) strategies by leveraging advanced technologies and [mathematical models](../m/mathematical_models_in_trading.md) to execute trades dynamically.
 
 **Key Technologies**:
 1. **High-Frequency Trading (HFT)**: Utilizes algorithms to execute numerous trades within milliseconds to take advantage of small [yield curve](../y/yield_curve.md) shifts.
-2. **Machine Learning**: Algorithms incorporate historical data and use predictive models to anticipate movements in the [yield curve](../y/yield_curve.md) and execute trades accordingly.
+2. **Machine Learning**: Algorithms incorporate historical data and use [predictive models](../p/predictive_models_in_trading.md) to anticipate movements in the [yield curve](../y/yield_curve.md) and execute trades accordingly.
 3. **[Risk Management](../r/risk_management.md) Systems**: These systems constantly monitor the portfolio against [yield curve](../y/yield_curve.md) shifts and adjust positions dynamically to optimize the risk-return profile.
 
 **Benefits of Algotrading in [Yield Curve](../y/yield_curve.md) Strategies**:
@@ -110,11 +110,11 @@ Several financial institutions and hedge funds are renowned for their innovative
 
 2. **Two Sigma Investments**:
    - Website: [Two Sigma](https://www.twosigma.com/)
-   - Utilizes data science and advanced algorithms to trade in various fixed income instruments, including bonds.
+   - Utilizes [data science](../d/data_science_in_trading.md) and advanced algorithms to trade in various fixed income instruments, including bonds.
 
 3. **D.E. Shaw & Co.**:
    - Website: [D.E. Shaw](https://www.deshaw.com/)
-   - Integrates sophisticated mathematical models and computers in bond [trading strategies](../t/trading_strategies.md).
+   - Integrates sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and computers in bond [trading strategies](../t/trading_strategies.md).
 
 4. **Man AHL**:
    - Website: [Man AHL](https://www.man.com/ahl)
@@ -127,7 +127,7 @@ Consider a hedge fund applying a butterfly strategy with algotrading to manage a
 
 **Step-by-Step Process**:
 1. **Data Collection**: Aggregates historical [yield curve](../y/yield_curve.md) data, macroeconomic indicators, central bank policy actions, and market sentiment data.
-2. **Model Development**: Develops a machine learning model to predict [yield curve](../y/yield_curve.md) movements. The model could be a neural network trained on historical data with features such as GDP growth rates, inflation data, etc.
+2. **Model Development**: Develops a machine learning model to predict [yield curve](../y/yield_curve.md) movements. The model could be a neural network trained on historical data with features such as GDP [growth rates](../g/growth_rates_in_trading.md), inflation data, etc.
 3. **[Backtesting](../b/backtesting.md)**: Utilizes historical data to backtest the model and refine its parameters for accuracy.
 4. **Execution**: Implements the butterfly strategy using the model's predictions. Allocates assets dynamically based on predicted [yield curve](../y/yield_curve.md) shifts.
 5. **Monitoring and Adjustment**: Continuously monitors the portfolio and algorithm performance. Adjusts the machine learning model as new data becomes available.

@@ -11,8 +11,8 @@ Online trading communities are web-based platforms where traders converge to dis
 1. **Forums**
    - **Purpose:** Forums are dedicated platforms where traders discuss a wide range of topics related to trading.
    - **Examples:** 
-     - **Trade2Win**: A global trading community where traders can find discussions on stock, forex, futures, options, and cryptocurrency trading. More information: [Trade2Win](https://www.trade2win.com/)
-     - **Elite Trader**: A forum for day traders and investors with discussions on [trading strategies](../t/trading_strategies.md), market analysis, and broker reviews. More information: [Elite Trader](https://www.elitetrader.com/)
+     - **[Trade2Win](../t/trade2win.md)**: A global trading community where traders can find discussions on stock, forex, futures, options, and cryptocurrency trading. More information: [Trade2Win](https://www.trade2win.com/)
+     - **[Elite Trader](../e/elite_trader.md)**: A forum for day traders and investors with discussions on [trading strategies](../t/trading_strategies.md), market analysis, and broker reviews. More information: [Elite Trader](https://www.elitetrader.com/)
 
 2. **Social Media Groups**
    - **Purpose:** Social media groups, particularly on platforms like Facebook, LinkedIn, and Reddit, allow traders to engage in real-time discussions and share quick insights.
@@ -77,10 +77,10 @@ Online trading communities are web-based platforms where traders converge to dis
 ### Future Trends in Online Trading Communities
 
 1. **Integration with AI**
-   - The integration of artificial intelligence can enhance platforms by moderating content, identifying promising [trading strategies](../t/trading_strategies.md), and providing personalized learning paths for traders.
+   - The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) can enhance platforms by moderating content, identifying promising [trading strategies](../t/trading_strategies.md), and providing personalized learning paths for traders.
 
 2. **Decentralized Platforms**
-   - With the rise of blockchain, decentralized trading communities could emerge, promoting transparency and reducing the risks associated with centralized moderation.
+   - With the rise of [blockchain](../b/blockchain_in_trading.md), decentralized trading communities could emerge, promoting transparency and reducing the risks associated with centralized moderation.
 
 3. **Enhanced Educational Tools**
    - The future will likely see more comprehensive and interactive educational tools, such as virtual trading simulators and augmented reality (AR) experiences, to train new traders.

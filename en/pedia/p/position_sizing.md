@@ -8,7 +8,7 @@ Position sizing is a critical concept in [algorithmic trading](../a/algorithmic_
 [Risk management](../r/risk_management.md) is central to position sizing. A well-defined [risk management](../r/risk_management.md) plan ensures that no single trade can significantly impact the trading capital. Usually, traders define risk as a percentage of their total portfolio. For example, if an algorithm dictates that a maximum of 1% of the portfolio be risked per trade, it means the potential loss on any given trade should not exceed 1% of the total portfolio value. This approach helps in limiting drawdowns and sustaining long-term growth.
 
 ### 2. Volatility Assessment
-Volatility, a statistical measure of the dispersion of returns, plays a crucial role in position sizing. Higher volatility means greater risk, which should translate into smaller position sizes. Tools like Average True Range (ATR) or standard deviation of returns often gauge volatility. By adjusting the position size according to the current volatility, traders can maintain a balanced risk profile.
+Volatility, a statistical measure of the dispersion of returns, plays a crucial role in position sizing. Higher volatility means greater risk, which should translate into smaller position sizes. Tools like [Average True Range](../a/average_true_range_(atr).md) (ATR) or standard deviation of returns often gauge volatility. By adjusting the position size according to the current volatility, traders can maintain a balanced risk profile.
 
 ### 3. Account Size
 The size of the trading account inherently influences the position size. Larger accounts can afford to take slightly more significant positions, but they also need to be careful about liquidity and market impact. Conversely, smaller accounts need to be meticulous about position sizing to avoid excessive risk.
@@ -38,7 +38,7 @@ In this method, traders allocate a fixed dollar amount to each trade irrespectiv
 
 ## Tools and Software for Position Sizing
 
-Several software tools and platforms assist traders in implementing and managing position sizing strategies:
+Several [software tools](../s/software_tools_for_trading.md) and platforms assist traders in implementing and managing position sizing strategies:
 
 1. **[QuantConnect](../q/quantconnect.md)**: Provides a robust [algorithmic trading](../a/algorithmic_trading.md) platform with integrated [risk management](../r/risk_management.md) and position sizing modules. Users can write algorithms in C# and Python.
    - [QuantConnect](https://www.quantconnect.com/)
@@ -49,7 +49,7 @@ Several software tools and platforms assist traders in implementing and managing
 3. **[TradeStation](../t/tradestation.md)**: Known for its advanced analytical tools, [TradeStation](../t/tradestation.md) allows customization of position sizing and [risk management](../r/risk_management.md) rules.
    - [TradeStation](https://www.tradestation.com/)
 
-4. **Interactive Brokers**: Provides a wide range of trading tools, including [risk management](../r/risk_management.md) features that traders can customize to fit their position sizing strategies.
+4. **[Interactive Brokers](../i/interactive_brokers.md)**: Provides a wide range of trading tools, including [risk management](../r/risk_management.md) features that traders can customize to fit their position sizing strategies.
    - [Interactive Brokers](https://www.interactivebrokers.com/)
 
 5. **[Alpaca](../a/alpaca.md)**: Offers API-first trading where developers can integrate [position sizing algorithms](../p/position_sizing_algorithms.md) directly within their trading bot.

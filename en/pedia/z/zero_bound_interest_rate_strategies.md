@@ -45,7 +45,7 @@ When interest rates approach zero and traditional monetary policy remains ineffe
 
 ### Forward Guidance
 
-Forward guidance is a communication tool used by central banks to influence market expectations and economic behavior. By providing explicit information about the future course of monetary policy, central banks can shape investor expectations, lower uncertainty, and encourage desired economic outcomes.
+Forward guidance is a communication tool used by central banks to influence market expectations and economic behavior. By providing explicit information about the future course of monetary policy, central banks can shape investor expectations, lower [uncertainty](../u/uncertainty_in_trading.md), and encourage desired economic outcomes.
 
 **Mechanism:**
 1. **Communication:** Central banks provide clear indications about the future path of interest rates and other policy actions.
@@ -72,7 +72,7 @@ Forward guidance is a communication tool used by central banks to influence mark
 
 **Implications:**
 - **Lower Long-term Rates:** Keeping long-term rates low encourages borrowing and investment.
-- **Increased Certainty:** Stable yield targets reduce uncertainty for investors, fostering economic confidence.
+- **Increased Certainty:** Stable yield targets reduce [uncertainty](../u/uncertainty_in_trading.md) for investors, fostering economic confidence.
 - **Policy Coordination:** Effective YCC requires coordination with other monetary and fiscal policies.
 
 **Examples:**

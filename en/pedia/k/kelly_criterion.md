@@ -43,15 +43,15 @@ The Kelly Criterion is especially useful for [portfolio management](../p/portfol
 
 ## Kelly in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) involves the use of software to automate trading decisions based on mathematical models, and the Kelly Criterion is often incorporated within these models to ensure optimal bet sizing. Various firms and software providers leverage the Kelly Criterion to enhance [trading performance](../t/trading_performance.md).
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of software to automate trading decisions based on [mathematical models](../m/mathematical_models_in_trading.md), and the Kelly Criterion is often incorporated within these models to ensure optimal bet sizing. Various firms and software providers leverage the Kelly Criterion to enhance [trading performance](../t/trading_performance.md).
 
 ### Firms Using Kelly Criterion
 
-- **Numerai**: [Numerai](https://numer.ai/) is a hedge fund that applies machine learning algorithms to trading data. They often incorporate advanced [risk management](../r/risk_management.md) techniques, including those based on the Kelly Criterion.
+- **Numerai**: [Numerai](https://numer.ai/) is a hedge fund that applies machine [learning algorithms](../l/learning_algorithms_in_trading.md) to trading data. They often incorporate advanced [risk management](../r/risk_management.md) techniques, including those based on the Kelly Criterion.
   
 - **Bridgewater Associates**: [Bridgewater](https://www.bridgewater.com/) is one of the world’s largest hedge funds, known for its systematic and [quantitative approaches](../q/quantitative_approaches.md) to trading that often includes risk assessment methodologies akin to the Kelly Criterion.
   
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) applies artificial intelligence, machine learning, and distributed computing to financial markets. The firm utilizes sophisticated [risk management](../r/risk_management.md) and allocation strategies, many of which are influenced by principles similar to the Kelly Criterion.
+- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) applies [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and distributed computing to financial markets. The firm utilizes sophisticated [risk management](../r/risk_management.md) and allocation strategies, many of which are influenced by principles similar to the Kelly Criterion.
 
 ## Historical Context and Development
 
@@ -59,7 +59,7 @@ John L. Kelly Jr. developed the Kelly Criterion originally for applications in t
 
 ## Mathematical Derivation
 
-To better understand the derivation of the Kelly Criterion, it helps to consider the objective: to maximize the expected logarithm of wealth. This approach is rooted in utility theory, aiming to optimize the growth rate of an investment rather than its absolute value.
+To better understand the derivation of the Kelly Criterion, it helps to consider the objective: to maximize the expected logarithm of wealth. This approach is rooted in [utility theory](../u/utility_theory_in_trading.md), aiming to optimize the growth rate of an investment rather than its absolute value.
 
 Given a current capital `W`, and a fraction `f` to be wagered, the formula for the expected logarithm of future wealth `E[log(W)]` can be illustrated as:
 

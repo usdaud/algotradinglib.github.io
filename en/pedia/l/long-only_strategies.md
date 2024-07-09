@@ -11,7 +11,7 @@ The term "long-only" refers specifically to investment strategies that involve p
 Several foundational principles guide long-only investment strategies:
 
 ### 1. Market Trends and Fundamentals
-Investors leveraging long-only strategies rely heavily on market trends and asset fundamentals. [Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a company's financial health, including metrics such as earnings, revenue, and profit margins to assess its intrinsic value.
+Investors leveraging long-only strategies rely heavily on market trends and asset fundamentals. [Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a company's financial health, including metrics such as earnings, revenue, and [profit margins](../p/profit_margins_in_trading.md) to assess its intrinsic value.
 
 ### 2. Diversification
 Diversification mitigates risk by spreading investments across various assets, sectors, or geographical regions. A well-diversified portfolio reduces the impact of any single asset's poor performance on the overall portfolio.

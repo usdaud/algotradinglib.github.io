@@ -20,7 +20,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies leverage statistical techn
 - **Index [Arbitrage](../a/arbitrage.md):** This type of strategy exploits discrepancies between the prices of [index futures](../i/index_futures.md) and the constituent stocks in the underlying index.
 
 ### 3. **Machine Learning Algorithms**
-Machine learning algorithms have gained significant traction in [algorithmic trading](../a/algorithmic_trading.md) due to their ability to learn from and adapt to new data. Some approaches include:
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) have gained significant traction in [algorithmic trading](../a/algorithmic_trading.md) due to their ability to learn from and adapt to new data. Some approaches include:
 
 - **Supervised Learning:** Algorithms are trained on historical data with known outcomes, such as predicting stock prices or classifications (e.g., buy, hold, sell).
 - **Unsupervised Learning:** These algorithms seek to identify patterns or clusters within the data without prior labels, often used for [anomaly detection](../a/anomaly_detection.md).
@@ -55,12 +55,12 @@ Effective [risk management](../r/risk_management.md) is crucial to protect capit
 - **[Position Sizing](../p/position_sizing.md):** Determining the size of each trade based on risk tolerance, volatility, and [capital allocation](../c/capital_allocation.md).
 - **Stop-Loss and Take-Profit Mechanisms:** Setting predefined levels at which positions will be closed to limit losses or secure profits.
 - **Diversification:** Spreading risk across various assets, markets, or strategies to reduce exposure to any single point of failure.
-- **Stress Testing:** Evaluating how strategies perform under extreme market conditions or scenarios.
+- **[Stress Testing](../s/stress_testing_in_trading.md):** Evaluating how strategies perform under extreme market conditions or scenarios.
 
 ### 4. **Execution Mechanism**
 The execution mechanism involves placing orders in the market efficiently. It requires:
 
-- **Order Types:** Using appropriate order types (e.g., market, limit, stop) based on the strategy and market conditions.
+- **[Order Types](../o/order_types_in_trading.md):** Using appropriate [order types](../o/order_types_in_trading.md) (e.g., market, limit, stop) based on the strategy and market conditions.
 - **Latency Considerations:** Minimizing delays in order execution to avoid slippage and take advantage of fleeting opportunities.
 - **Connectivity:** Ensuring robust connections to exchanges, brokers, and [dark pools](../d/dark_pools.md) to facilitate smooth order execution.
 

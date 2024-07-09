@@ -57,13 +57,13 @@ Several tools and libraries are available for performing frequency domain analys
 ### Python Libraries
 - **NumPy**: Provides support for array operations and includes FFT functionalities.
   - [NumPy](https://numpy.org/)
-- **SciPy**: Offers scientific and technical computing capabilities, including signal processing functions.
+- **SciPy**: Offers scientific and technical computing capabilities, including [signal processing](../s/signal_processing_in_trading.md) functions.
   - [SciPy](https://www.scipy.org/)
 - **Pandas**: Although primarily a data manipulation library, it integrates well with NumPy and SciPy for frequency domain analysis.
   - [Pandas](https://pandas.pydata.org/)
 
 ### Specialized Software
-- **MATLAB**: A high-level language and interactive environment for numerical computation, visualization, and programming. It has robust capabilities for frequency domain analysis and signal processing.
+- **MATLAB**: A high-level language and interactive environment for numerical computation, visualization, and programming. It has robust capabilities for frequency domain analysis and [signal processing](../s/signal_processing_in_trading.md).
   - [MATLAB](https://www.mathworks.com/products/matlab.html)
 - **R**: A language and environment for statistical computing and graphics. Packages such as `spectral` offer tools for frequency domain analysis.
   - [R](https://www.r-project.org/)

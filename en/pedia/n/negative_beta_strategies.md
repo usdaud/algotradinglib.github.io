@@ -50,13 +50,13 @@ Implementing negative beta strategies demands rigorous [risk management](../r/ri
 
 - **Volatility Monitoring**: Continuous monitoring and adjusting portfolio allocation based on changing market volatilities.
 - **Dynamic [Position Sizing](../p/position_sizing.md)**: Adjusting position sizes based on real-time analysis can help mitigate potential risks associated with market stress periods.
-- **Stress Testing and Scenario Analysis**: Conducting regular stress tests and scenario analyses to anticipate the potential impact of extreme market movements.
+- **[Stress Testing](../s/stress_testing_in_trading.md) and Scenario Analysis**: Conducting regular stress tests and scenario analyses to anticipate the potential impact of extreme market movements.
 
 ## Case Studies and Real-World Applications
 
 **Bridgewater Associates**: One of the world's largest hedge funds, known for its All Weather portfolio, employs various beta strategies to balance risk across different economic environments. This includes holding assets with low or negative market beta. [Bridgewater Associates](https://www.bridgewater.com/)
 
-**AQR Capital Management**: Known for quantitative strategies, AQR uses a variety of beta strategies within multi-strategy funds to hedge against market movements. Their approach involves sophisticated models to dynamically manage beta exposures across their portfolios. [AQR Capital Management](https://www.aqr.com/)
+**AQR Capital Management**: Known for [quantitative strategies](../q/quantitative_strategies_in_trading.md), AQR uses a variety of beta strategies within multi-strategy funds to hedge against market movements. Their approach involves sophisticated models to dynamically manage beta exposures across their portfolios. [AQR Capital Management](https://www.aqr.com/)
 
 **Two Sigma**: This quantitative hedge fund employs machine learning and sophisticated algorithms to trade based on statistical relationships identified in historical data, including those with negative beta characteristics. [Two Sigma](https://www.twosigma.com/)
 
@@ -82,9 +82,9 @@ For high-frequency trading and significant position sizes, liquidity becomes a c
 
 Advancements in technology and data analytics continue to shape the future of negative beta strategies:
 
-- **Artificial Intelligence and Machine Learning**: These technologies enhance [pattern recognition](../p/pattern_recognition.md), [backtesting](../b/backtesting.md) capabilities, and adaptive strategy development.
-- **Big Data Analytics**: Leveraging vast datasets allows for more granular and sophisticated analysis of market behavior and correlation structures.
-- **Blockchain and Decentralized Finance (DeFi)**: Emerging financial instruments and platforms may offer new avenues for implementing negative beta strategies in decentralized ecosystems.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: These technologies enhance [pattern recognition](../p/pattern_recognition.md), [backtesting](../b/backtesting.md) capabilities, and adaptive strategy development.
+- **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Leveraging vast datasets allows for more granular and sophisticated analysis of market behavior and correlation structures.
+- **[Blockchain](../b/blockchain_in_trading.md) and Decentralized Finance (DeFi)**: Emerging financial instruments and platforms may offer new avenues for implementing negative beta strategies in decentralized ecosystems.
 
 ## Conclusion
 

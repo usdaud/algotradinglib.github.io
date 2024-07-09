@@ -36,7 +36,7 @@ where:
 - \(T-t\) is the time to expiration.
 
 ### Heston Model
-The Heston model is a more advanced approach that incorporates stochastic volatility, addressing the shortcomings of the [Black-Scholes model](../b/black-scholes_model.md). In the Heston model, gamma is more complex to calculate, involving numerical methods rather than closed-form solutions.
+The Heston model is a more advanced approach that incorporates stochastic volatility, addressing the shortcomings of the [Black-Scholes model](../b/black-scholes_model.md). In the Heston model, gamma is more complex to calculate, involving [numerical methods](../n/numerical_methods_in_trading.md) rather than closed-form solutions.
 
 ## Gamma Scalping
 [Gamma scalping](../g/gamma_scalping.md) is a sophisticated strategy employed by traders to manage the risks associated with gamma. This strategy involves frequently rebalancing the portfolio to maintain a delta-neutral position. 
@@ -63,7 +63,7 @@ Machine learning is increasingly employed in gamma-related [trading strategies](
 Several financial institutions and trading firms leverage gamma models to optimize their [trading strategies](../t/trading_strategies.md) and manage risk.
 
 ### Jane Street
-Jane Street is known for its sophisticated [trading algorithms](../t/trading_algorithms.md) and heavy use of mathematical models, including gamma models, to drive its [trading strategies](../t/trading_strategies.md). More information about their approach can be found on their official website: [Jane Street](https://www.janestreet.com/)
+Jane Street is known for its sophisticated [trading algorithms](../t/trading_algorithms.md) and heavy use of [mathematical models](../m/mathematical_models_in_trading.md), including gamma models, to drive its [trading strategies](../t/trading_strategies.md). More information about their approach can be found on their official website: [Jane Street](https://www.janestreet.com/)
 
 ### Citadel Securities
 Citadel Securities is another prominent player that employs advanced gamma models within its [algorithmic trading](../a/algorithmic_trading.md) frameworks. Their significant investments in technology and research underscore their commitment to using cutting-edge models. More information can be found at: [Citadel Securities](https://www.citadelsecurities.com/)

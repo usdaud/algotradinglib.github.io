@@ -18,7 +18,7 @@ After data acquisition, processing is the next critical step:
 
 - **Data Transformation**: Converting raw data into formats suitable for analysis.
 - **Feature Engineering**: Creating additional variables from raw data to improve algorithm performance.
-- **Storage Solutions**: Using databases and big data technologies to store and manage vast amounts of information.
+- **Storage Solutions**: Using databases and [big data](../b/big_data_in_trading.md) technologies to store and manage vast amounts of information.
 
 ### 3. Strategy Development
 
@@ -26,7 +26,7 @@ This stage encompasses the creation and optimization of [trading algorithms](../
 
 - **[Quantitative Analysis](../q/quantitative_analysis.md)**: Applying mathematical and statistical models to identify profitable trading opportunities.
 - **[Backtesting](../b/backtesting.md)**: Testing the [trading algorithms](../t/trading_algorithms.md) on historical data to evaluate their effectiveness.
-- **Simulation**: Running algorithms in simulated environments to anticipate real-world performance.
+- **[Simulation](../s/simulation_in_trading.md)**: Running algorithms in simulated environments to anticipate real-world performance.
 
 ### 4. Trade Execution
 
@@ -42,7 +42,7 @@ Executing trades efficiently is critical to the success of algotrading strategie
 
 - **Real-time Monitoring**: Tools to track algorithm performance and market conditions in real-time.
 - **Stop-loss Algorithms**: Predefined mechanisms to limit losses on any given trade.
-- **Stress Testing**: Testing algorithms under extreme market conditions to evaluate robustness.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Testing algorithms under extreme market conditions to evaluate robustness.
 
 ### 6. Post-Trade Analysis
 
@@ -67,7 +67,7 @@ Constant refinement of algorithms and strategies is crucial:
 A robust technological backbone supports the entire algotrading value chain:
 
 - **High-frequency Trading Platforms**: Specialized platforms like [QuantConnect](../q/quantconnect.md) ([QuantConnect](https://www.quantconnect.com/)) for developing and deploying algorithms.
-- **Cloud Computing**: Leveraging cloud services for scalable computation and storage solutions.
+- **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Leveraging cloud services for scalable computation and storage solutions.
 - **API Integrations**: Seamless integration with various services and data providers to ensure smooth operations.
 
 ## Industry Applications

@@ -62,13 +62,13 @@ After developing a model using in-sample data, it is crucial to validate it on o
 ## Optimization Techniques
 
 ### 1. Parameter Optimization
-Parameter optimization involves adjusting the strategy’s parameters to achieve the best possible [performance metrics](../p/performance_metrics.md). Common methods include grid search and random search.
+Parameter optimization involves adjusting the strategy’s parameters to achieve the best possible [performance metrics](../p/performance_metrics.md). Common methods include [grid search](../g/grid_search_in_trading.md) and random search.
 
 ### 2. Genetic Algorithms
-Genetic algorithms, inspired by natural selection, are used to find optimal parameters by evolving a population of solutions over successive iterations.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md), inspired by natural selection, are used to find optimal parameters by evolving a population of solutions over successive iterations.
 
 ### 3. Machine Learning Algorithms
-Machine learning techniques, like neural networks and [decision trees](../d/decision_trees.md), can be employed to identify patterns and optimize [trading strategies](../t/trading_strategies.md).
+Machine learning techniques, like [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md), can be employed to identify patterns and optimize [trading strategies](../t/trading_strategies.md).
 
 ## Real-World Applications
 

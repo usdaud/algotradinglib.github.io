@@ -1,6 +1,6 @@
 # Yield-Curve Analysis Techniques
 
-In the world of finance, yield curves are crucial graphical representations of the relationship between the interest rates (or yields) of bonds having equal credit quality but differing maturity dates. Yield-curve analysis techniques focus on interpreting these curves to understand market expectations regarding interest rates, economic activity, and potential risk factors. This paper will delve deeply into various techniques used for analyzing yield curves, along with their applications, benefits, and limitations.
+In the world of finance, yield curves are crucial graphical representations of the relationship between the interest rates (or yields) of bonds having equal credit quality but differing maturity dates. Yield-curve analysis techniques focus on interpreting these curves to understand market expectations regarding interest rates, economic activity, and potential [risk factors](../r/risk_factors_in_trading.md). This paper will delve deeply into various techniques used for analyzing yield curves, along with their applications, benefits, and limitations.
 
 ### 1. Understanding Yield Curves
 
@@ -8,7 +8,7 @@ Before diving into the techniques, it's essential to understand what yield curve
 
 - **Normal [Yield Curve](../y/yield_curve.md)**: This upward-sloping curve indicates that longer-term securities have higher yields compared to short-term ones, reflecting the increased risk and time preference for money.
 - **Inverted [Yield Curve](../y/yield_curve.md)**: A downward-sloping curve where short-term yields are higher than long-term ones. This can signal an upcoming recession.
-- **Flat [Yield Curve](../y/yield_curve.md)**: This occurs when short-term and long-term yields are very close, indicating uncertainty in the market or a transition phase in the economic cycle.
+- **Flat [Yield Curve](../y/yield_curve.md)**: This occurs when short-term and long-term yields are very close, indicating [uncertainty](../u/uncertainty_in_trading.md) in the market or a transition phase in the economic cycle.
 
 ### 2. Theories Behind Yield Curves
 
@@ -85,7 +85,7 @@ PCA is a statistical technique that reduces the dimensions of the data to identi
 - [Portfolio management](../p/portfolio_management.md).
 
 **Limitations**:
-- Interpretation: Principal components may not have a clear economic interpretation.
+- Interpretation: [Principal components](../p/principal_components_in_trading.md) may not have a clear economic interpretation.
 - Data requirement: Requires extensive historical yield data.
 
 #### Factor Models
@@ -112,7 +112,7 @@ Machine learning techniques provide a flexible and powerful approach to yield-cu
 
 ##### Neural Networks
 
-Neural networks can capture nonlinear relationships in the [yield curve](../y/yield_curve.md) data.
+[Neural networks](../n/neural_networks_in_trading.md) can capture nonlinear relationships in the [yield curve](../y/yield_curve.md) data.
 
 **Process**:
 1. Train a neural network on historical yield data.
@@ -169,7 +169,7 @@ Understanding the [yield curve](../y/yield_curve.md) is essential for devising b
 Yield-curve analysis assists in managing interest rate risks in portfolios.
 
 **Applications**:
-- Stress testing: Evaluating [portfolio performance](../p/portfolio_performance.md) under different [yield curve](../y/yield_curve.md) scenarios.
+- [Stress testing](../s/stress_testing_in_trading.md): Evaluating [portfolio performance](../p/portfolio_performance.md) under different [yield curve](../y/yield_curve.md) scenarios.
 - Hedging: Formulating strategies to mitigate interest rate risks.
 
 ### 7. Limitations and Challenges in Yield-Curve Analysis

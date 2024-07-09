@@ -10,7 +10,7 @@ There are several different approaches to index tracking, each with its own set 
 
 2. **Sampling**: Instead of holding all the stocks in the index, the fund holds a representative sample. This approach is useful for indices with a large number of constituents or where some stocks are not easily tradable.
 
-3. **Optimized Sampling**: This technique involves selecting a subset of index constituents that closely match the index's risk and return characteristics, often using sophisticated mathematical models to identify the optimal subset.
+3. **Optimized Sampling**: This technique involves selecting a subset of index constituents that closely match the index's risk and return characteristics, often using sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to identify the optimal subset.
 
 4. **Synthetic Replication**: In this method, the fund uses financial [derivatives](../d/derivatives.md), such as swaps, to mimic the performance of the index. This approach can be beneficial for gaining exposure to hard-to-reach markets.
 
@@ -33,8 +33,8 @@ The primary advantage of full replication is the minimal tracking error. However
 For indices with many securities or where some securities are illiquid:
 
 - **Statistical Sampling**: Selecting a subset of securities that statistically represent the index's performance.
-- **Risk Factor Matching**: Ensuring the selected sample matches key risk factors of the index, such as sector distribution, market capitalization, and beta.
-- **Optimization Algorithms**: Using [quantitative models](../q/quantitative_models.md) to minimize tracking error by optimizing the selection process, which can involve linear programming, quadratic programming, or heuristic methods.
+- **Risk Factor Matching**: Ensuring the selected sample matches key [risk factors](../r/risk_factors_in_trading.md) of the index, such as sector distribution, market capitalization, and beta.
+- **Optimization Algorithms**: Using [quantitative models](../q/quantitative_models.md) to minimize tracking error by optimizing the selection process, which can involve [linear programming](../l/linear_programming_in_trading.md), quadratic programming, or heuristic methods.
 
 Optimization helps reduce transaction costs and manage illiquid securities more effectively.
 

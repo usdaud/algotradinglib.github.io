@@ -111,7 +111,7 @@ If, for instance, the predefined condition is met, where \( Q \) is the predeter
 
 ### Risk Management
 
-Understanding payoff structures is critical for effective [risk management](../r/risk_management.md). Tools like Value at Risk (VaR) and stress testing can be applied more accurately when the payoff profiles of portfolio components are well understood.
+Understanding payoff structures is critical for effective [risk management](../r/risk_management.md). Tools like Value at Risk (VaR) and [stress testing](../s/stress_testing_in_trading.md) can be applied more accurately when the payoff profiles of portfolio components are well understood.
 
 ### Portfolio Optimization
 

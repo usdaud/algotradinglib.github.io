@@ -95,11 +95,11 @@ Developed by Richard Dennis and William Eckhardt, this system employs breakout s
 ### Rules
 
 - Entry signals are generated when the price exceeds the high or low of a specific period (20-day or 55-day breakout periods are commonly used).
-- Stop-loss levels are set using the Average True Range (ATR) indicator.
+- Stop-loss levels are set using the [Average True Range](../a/average_true_range_(atr).md) (ATR) indicator.
 
 ## ADX + DI Strategy
 
-This strategy utilizes the Average Directional Index in combination with the Directional Movement Index (DMI) to identify and trade based on the trend's strength and direction.
+This strategy utilizes the [Average Directional Index](../a/average_directional_index_(adx).md) in combination with the Directional Movement Index (DMI) to identify and trade based on the trend's strength and direction.
 
 ### Trading Signals
 

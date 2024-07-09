@@ -67,7 +67,7 @@ Algorithmic traders use the X-[Volume Oscillator](../v/volume_oscillator.md) in 
 
 The X-[Volume Oscillator](../v/volume_oscillator.md) is often used in conjunction with other [technical indicators](../t/technical_indicators.md) to enhance [trading strategies](../t/trading_strategies.md). Here are a few examples:
 
-- **Moving Averages:** Combining XVO with moving averages of price can help traders filter out false signals and confirm trends more accurately.
+- **Moving Averages:** Combining XVO with moving averages of price can help traders filter out [false signals](../f/false_signals_in_trading.md) and confirm trends more accurately.
 
 - **Relative Strength Index (RSI):** Traders can use the RSI alongside the XVO to gauge overbought or oversold conditions and identify potential reversal points.
 
@@ -76,13 +76,13 @@ The X-[Volume Oscillator](../v/volume_oscillator.md) is often used in conjunctio
 ### Benefits of Using XVO
 
 - **Volume Insight:** The XVO provides valuable insights into trading volume dynamics, which is crucial for understanding market sentiment and momentum.
-- **Trend Validation:** Helps confirm trends and avoid false signals by analyzing volume in conjunction with price movements.
+- **Trend Validation:** Helps confirm trends and avoid [false signals](../f/false_signals_in_trading.md) by analyzing volume in conjunction with price movements.
 - **Divergence Detection:** Identifies potential reversals by spotting divergences between volume and price, offering early warning signals.
 
 ### Limitations and Considerations
 
 - **Lagging Indicator:** Like most moving average-based indicators, the XVO can lag behind price action, potentially leading to delayed signals.
-- **False Signals:** In choppy or sideways markets, the XVO may generate false signals, requiring traders to use it in combination with other indicators for confirmation.
+- **[False Signals](../f/false_signals_in_trading.md):** In choppy or sideways markets, the XVO may generate [false signals](../f/false_signals_in_trading.md), requiring traders to use it in combination with other indicators for confirmation.
 - **Parameter Sensitivity:** The choice of short-term and long-term periods for the moving averages can significantly impact the XVO’s sensitivity and effectiveness, requiring fine-tuning for different markets and assets.
 
 ### Conclusion

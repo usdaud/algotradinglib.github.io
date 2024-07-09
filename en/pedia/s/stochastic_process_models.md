@@ -32,7 +32,7 @@ Key Stochastic Process Models in [Algorithmic Trading](../a/algorithmic_trading.
       \[
       dS_t = \mu S_t dt + \sigma S_t dW_t + J_t dN_t
       \]
-      where \(J_t\) represents the jump size and \(N_t\) is a Poisson process indicating the number of jumps.
+      where \(J_t\) represents the jump size and \(N_t\) is a [Poisson process](../p/poisson_process_in_trading.md) indicating the number of jumps.
 
     - **Applications**:
         * **Credit Risk**: Modeling sudden credit events like defaults.
@@ -71,7 +71,7 @@ Real-World Examples and Companies Utilizing Stochastic Process Models
     - [AQR Capital Management](https://www.aqr.com)
 
 2. **Renaissance Technologies**
-    - Known for its Medallion Fund, Renaissance Technologies uses highly sophisticated mathematical models, including multi-variate [stochastic processes](../s/stochastic_processes.md), to achieve market-beating returns.
+    - Known for its Medallion Fund, Renaissance Technologies uses highly sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including multi-variate [stochastic processes](../s/stochastic_processes.md), to achieve market-beating returns.
     - [Renaissance Technologies](https://www.rentec.com)
 
 3. **Two Sigma**
@@ -87,8 +87,8 @@ Implementing Stochastic Process Models
 
 1. **Software and Programming Languages**
     - **Python**: Widely used libraries like NumPy, SciPy, and pandas are supplemented with specialized packages such as `statsmodels` and `[QuantLib](../q/quantlib.md)` for handling [stochastic processes](../s/stochastic_processes.md).
-    - **R**: The `sde` and `quantmod` packages facilitate the simulation and modeling of [stochastic processes](../s/stochastic_processes.md).
-    - **MATLAB**: Extensive toolboxes for finance, such as the Econometrics Toolbox, offer robust functions to work with stochastic models.
+    - **R**: The `sde` and `quantmod` packages facilitate the [simulation](../s/simulation_in_trading.md) and modeling of [stochastic processes](../s/stochastic_processes.md).
+    - **MATLAB**: Extensive toolboxes for finance, such as the [Econometrics](../e/econometrics_in_trading.md) Toolbox, offer robust functions to work with stochastic models.
 
 2. **Data Requirements**
     - Historical Price Data: For calibration and [backtesting](../b/backtesting.md) of models.
@@ -97,7 +97,7 @@ Implementing Stochastic Process Models
 
 3. **Calibration and Estimation**
     - **[Maximum Likelihood Estimation](../m/maximum_likelihood_estimation.md) (MLE)**: Commonly used for parameter estimation in stochastic models.
-    - **Kalman Filter**: For [latent variable models](../l/latent_variable_models.md), particularly in the estimation of stochastic volatility.
+    - **[Kalman Filter](../k/kalman_filter_in_trading.md)**: For [latent variable models](../l/latent_variable_models.md), particularly in the estimation of stochastic volatility.
     - **Method of Moments**: Utilized for estimating the parameters by matching sample moments to those implied by the model.
 
 Conclusion

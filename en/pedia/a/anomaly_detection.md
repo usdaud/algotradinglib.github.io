@@ -23,8 +23,8 @@ Several techniques are used in the field of anomaly detection, each with its own
 
 ### Machine Learning Techniques
 
-1. **Supervised Learning**: Algorithms like [Decision Trees](../d/decision_trees.md), Support Vector Machines (SVM), or Neural Networks can be trained on labeled datasets to recognize anomalies.
-2. **Unsupervised Learning**: Techniques such as Clustering (e.g., K-Means, DBSCAN) or Autoencoders in Neural Networks do not require labeled datasets and detect anomalies based on unusual patterns.
+1. **Supervised Learning**: Algorithms like [Decision Trees](../d/decision_trees.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), or [Neural Networks](../n/neural_networks_in_trading.md) can be trained on labeled datasets to recognize anomalies.
+2. **Unsupervised Learning**: Techniques such as Clustering (e.g., K-Means, DBSCAN) or Autoencoders in [Neural Networks](../n/neural_networks_in_trading.md) do not require labeled datasets and detect anomalies based on unusual patterns.
 
 ### Time Series Analysis
 
@@ -34,7 +34,7 @@ Several techniques are used in the field of anomaly detection, each with its own
 ### Signal Processing Methods
 
 1. **Fourier Transform**: Converts time series data into frequency domain to identify suspicious periodicities.
-2. **Wavelet Transform**: Analyzes data at different scales to capture both regular and irregular patterns.
+2. **[Wavelet Transform](../w/wavelet_transform_in_trading.md)**: Analyzes data at different scales to capture both regular and irregular patterns.
 
 ## Applications in Algorithmic Trading
 
@@ -65,8 +65,8 @@ While anomaly detection is powerful, it comes with challenges:
 
 Future advancements in anomaly detection might focus on:
 
-1. **Enhanced Learning Algorithms**: Developing more robust and adaptive machine learning models.
-2. **Integration with Big Data**: Leveraging vast datasets for better [pattern recognition](../p/pattern_recognition.md).
+1. **Enhanced [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Developing more robust and adaptive machine learning models.
+2. **Integration with [Big Data](../b/big_data_in_trading.md)**: Leveraging vast datasets for better [pattern recognition](../p/pattern_recognition.md).
 3. **Real-Time Analytics**: Improving speed and efficiency for real-time decision making.
 4. **Interdisciplinary Approaches**: Combining finance, statistics, and computer science for holistic solutions.
 

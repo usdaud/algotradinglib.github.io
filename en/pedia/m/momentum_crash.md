@@ -9,9 +9,9 @@ The concept of momentum in financial markets has been studied extensively. Momen
 **Mechanics Behind Momentum Crashes**
 Momentum crashes typically occur due to:
 1. **Overcrowding**: As more investors adopt momentum strategies, the trades become crowded, causing extreme price movements and overvaluation.
-2. **Market Regime Shifts**: Significant changes in market conditions (e.g., transition from bear to bull markets) can lead to a quick reversal in momentum.
+2. **Market [Regime Shifts](../r/regime_shifts_in_trading.md)**: Significant changes in market conditions (e.g., transition from bear to bull markets) can lead to a quick reversal in momentum.
 3. **Liquidity Constraints**: During periods of financial stress, liquidating large positions becomes challenging, exacerbating price declines.
-4. **Behavioral Factors**: Herd behavior and overreaction among investors can amplify the speed and magnitude of the crash.
+4. **Behavioral Factors**: [Herd behavior](../h/herd_behavior_in_trading.md) and overreaction among investors can amplify the speed and magnitude of the crash.
 
 **[Risk Management](../r/risk_management.md) in Momentum Strategies**
 To mitigate the impact of momentum crashes, traders and portfolio managers can employ various [risk management](../r/risk_management.md) techniques:
@@ -25,7 +25,7 @@ To mitigate the impact of momentum crashes, traders and portfolio managers can e
 
 **Contributing Factors from an Algorithmic Perspective**
 In [algorithmic trading](../a/algorithmic_trading.md), momentum strategies are often implemented using [quantitative models](../q/quantitative_models.md) that analyze price trends. However, these models may fail to account for:
-1. **Model Risk**: Inaccurate assumptions or overfitting can lead to poor performance during regime shifts.
+1. **Model Risk**: Inaccurate assumptions or overfitting can lead to poor performance during [regime shifts](../r/regime_shifts_in_trading.md).
 2. **[Execution Risk](../e/execution_risk.md)**: During crashes, the actual execution prices can deviate substantially from model predictions due to market impact and liquidity issues.
 3. **Parameter Sensitivity**: Momentum models are often sensitive to parameter choices like look-back periods and rebalancing frequencies, leading to unpredictability in different market conditions.
 

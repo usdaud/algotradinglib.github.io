@@ -24,7 +24,7 @@ The conceptual underpinning of the Value Premium is tied to investor behavior an
 
 ### Efficient Market Hypothesis (EMH) and Market Anomalies
 
-While the EMH dictates that asset prices reflect all available information and thus eliminate [arbitrage](../a/arbitrage.md) opportunities, the existence of the value premium suggests otherwise. Anomalies such as the value premium challenge this hypothesis, suggesting that markets are not fully efficient and can be influenced by investor sentiment, behavioral biases, and macroeconomic factors.
+While the EMH dictates that asset prices reflect all available information and thus eliminate [arbitrage](../a/arbitrage.md) opportunities, the existence of the value premium suggests otherwise. Anomalies such as the value premium challenge this hypothesis, suggesting that markets are not fully efficient and can be influenced by investor sentiment, [behavioral biases](../b/behavioral_biases_in_trading.md), and macroeconomic factors.
 
 ### Risk-Based Explanation
 
@@ -32,11 +32,11 @@ One perspective grounded in traditional finance theory suggests that value stock
 
 ### Behavioral Finance
 
-[Behavioral finance](../b/behavioral_finance.md) offers an alternative explanation involving systematic cognitive biases and emotions. Investors may overreact to bad news (causing undervaluation of fundamentally sound companies) or overoptimism about growth prospects (leading to overvaluation).
+[Behavioral finance](../b/behavioral_finance.md) offers an alternative explanation involving systematic [cognitive biases](../c/cognitive_biases_in_trading.md) and emotions. Investors may overreact to bad news (causing undervaluation of fundamentally sound companies) or overoptimism about growth prospects (leading to overvaluation).
 
 ## Quantitative Approaches to Exploiting Value Premium
 
-[Algorithmic trading](../a/algorithmic_trading.md) strategies have been designed to exploit the value premium by systematically identifying and investing in value stocks. These approaches typically require sophisticated data analysis, machine learning algorithms, and robust back-testing frameworks.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies have been designed to exploit the value premium by systematically identifying and investing in value stocks. These approaches typically require sophisticated data analysis, machine [learning algorithms](../l/learning_algorithms_in_trading.md), and robust back-testing frameworks.
 
 ### Factor Investing
 
@@ -44,7 +44,7 @@ One perspective grounded in traditional finance theory suggests that value stock
 
 ### Machine Learning Models
 
-Machine learning models can be employed to improve the prediction of value stock performance by analyzing a multitude of financial metrics and macroeconomic indicators. Techniques such as regression trees, support vector machines, and deep learning networks have found their way into quant funds and trading desks.
+Machine learning models can be employed to improve the prediction of value stock performance by analyzing a multitude of financial metrics and macroeconomic indicators. Techniques such as [regression trees](../r/regression_trees_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and deep learning networks have found their way into quant funds and trading desks.
 
 ### High-Frequency Trading (HFT)
 
@@ -58,12 +58,12 @@ Implementing a value premium strategy algorithmically involves several steps:
 
 1. **Source Data:** Financial statements, historical stock prices, macroeconomic indicators.
 2. **[Data Cleaning](../d/data_cleaning.md):** Handling missing data, standardizing formats.
-3. **Feature Engineering:** Creating relevant [financial ratios](../f/financial_ratios.md), trailing earnings growth rates, etc.
+3. **Feature Engineering:** Creating relevant [financial ratios](../f/financial_ratios.md), trailing earnings [growth rates](../g/growth_rates_in_trading.md), etc.
 
 ### Model Development
 
 1. **[Backtesting](../b/backtesting.md):** Evaluating past performance of value strategies on historical data.
-2. **Simulation:** Testing robustness under various market conditions and stress scenarios.
+2. **[Simulation](../s/simulation_in_trading.md):** Testing robustness under various market conditions and stress scenarios.
 3. **Optimization:** Calibrating parameters to improve predictive accuracy and reduce risk.
 
 ### Execution

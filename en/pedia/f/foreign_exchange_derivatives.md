@@ -43,7 +43,7 @@ A currency swaption is an option granting the right but not the obligation to en
 
 ### 1. **Corporations**
 
-Corporations use forex [derivatives](../d/derivatives.md) to hedge against currency risk associated with international trade and investments. By locking in exchange rates for future transactions, firms can protect profit margins and budget forecasts from adverse currency movements.
+Corporations use forex [derivatives](../d/derivatives.md) to hedge against currency risk associated with international trade and investments. By locking in exchange rates for future transactions, firms can protect [profit margins](../p/profit_margins_in_trading.md) and budget forecasts from adverse currency movements.
 
 - **Example:** A U.S. exporter to Japan might use [forward contracts](../f/forward_contracts.md) to stabilize expected yen revenues when converted to dollars.
 

@@ -63,11 +63,11 @@ Bridgewater Associates, founded by Ray Dalio, is one of the largest hedge funds 
 Website: [Bridgewater Associates](https://www.bridgewater.com/)
 
 ### 3. Renaissance Technologies
-Known for its Medallion Fund, Renaissance Technologies employs complex mathematical models and statistical analysis to capitalize on market inefficiencies and attain high absolute returns.
+Known for its Medallion Fund, Renaissance Technologies employs complex [mathematical models](../m/mathematical_models_in_trading.md) and statistical analysis to capitalize on market inefficiencies and attain high absolute returns.
 Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ### 4. Two Sigma Investments
-Two Sigma leverages artificial intelligence, machine learning, and advanced data analytics to pursue absolute return strategies across various asset classes.
+Two Sigma leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and advanced data analytics to pursue absolute return strategies across various asset classes.
 Website: [Two Sigma Investments](https://www.twosigma.com/)
 
 ### 5. Man Group

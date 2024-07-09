@@ -1,6 +1,6 @@
 # Spectral Density Analysis
 
-Spectral density analysis is a powerful tool from signal processing used extensively in [algorithmic trading](../a/algorithmic_trading.md). It involves studying the power distribution of different frequency components within a time series. In finance, it helps uncover periodicities, cyclic patterns, or quasi-cyclic behaviors of market data that are not easily detectable in the time domain.
+Spectral density analysis is a powerful tool from [signal processing](../s/signal_processing_in_trading.md) used extensively in [algorithmic trading](../a/algorithmic_trading.md). It involves studying the power distribution of different frequency components within a time series. In finance, it helps uncover periodicities, cyclic patterns, or quasi-cyclic behaviors of market data that are not easily detectable in the time domain.
 
 ## Introduction to Spectral Density
 
@@ -55,7 +55,7 @@ where \( I_k(f) \) is the periodogram of the signal multiplied by the kth taper.
 
 ## Applications in Algorithmic Trading
 
-Spectral density analysis finds several applications in [algorithmic trading](../a/algorithmic_trading.md), ranging from signal processing and [risk management](../r/risk_management.md) to [predictive modeling](../p/predictive_modeling.md) and [market microstructure](../m/market_microstructure.md) analysis.
+Spectral density analysis finds several applications in [algorithmic trading](../a/algorithmic_trading.md), ranging from [signal processing](../s/signal_processing_in_trading.md) and [risk management](../r/risk_management.md) to [predictive modeling](../p/predictive_modeling.md) and [market microstructure](../m/market_microstructure.md) analysis.
 
 ### Signal Processing and Feature Extraction
 
@@ -65,7 +65,7 @@ For instance, intraday price series can reveal periodic patterns corresponding t
 
 ### Risk Management
 
-[Spectral analysis](../s/spectral_analysis.md) can help in understanding the risk by studying the variance distribution across frequencies. Portfolio managers might use [spectral methods](../s/spectral_methods.md) to estimate the risk characteristics of time series data, such as [volatility clustering](../v/volatility_clustering.md) and other temporal dependencies.
+[Spectral analysis](../s/spectral_analysis.md) can help in understanding the risk by studying the variance distribution across frequencies. Portfolio managers might use [spectral methods](../s/spectral_methods.md) to estimate the risk characteristics of time series data, such as [volatility clustering](../v/volatility_clustering.md) and other [temporal dependencies](../t/temporal_dependencies_in_trading.md).
 
 ### Technical Analysis
 
@@ -73,7 +73,7 @@ Technical analysts rely on spectral density to enhance their traditional tools. 
 
 ### Regression and LSTM Models
 
-Quantitative researchers incorporate spectral features into regression models or deep learning algorithms like Long Short-Term Memory (LSTM) networks. Spectral features serve as powerful predictors when combined with traditional time-domain features.
+Quantitative researchers incorporate spectral features into regression models or deep [learning algorithms](../l/learning_algorithms_in_trading.md) like Long Short-Term Memory (LSTM) networks. Spectral features serve as powerful predictors when combined with traditional time-domain features.
 
 ### Market Microstructure Analysis
 
@@ -90,7 +90,7 @@ Several libraries and tools are available for performing spectral density analys
   f, Pxx = signal.welch(x, fs=1.0, nperseg=256)
   ```
 
-- **Matlab’s Signal Processing Toolbox:** Offers extensive tools for [spectral analysis](../s/spectral_analysis.md) including Fourier transforms, periodograms, and multitaper methods.
+- **Matlab’s [Signal Processing](../s/signal_processing_in_trading.md) Toolbox:** Offers extensive tools for [spectral analysis](../s/spectral_analysis.md) including Fourier transforms, periodograms, and multitaper methods.
   
   ```matlab
   [Pxx,F] = pwelch(x, [], [], [], fs);
@@ -102,7 +102,7 @@ Several libraries and tools are available for performing spectral density analys
   spec <- spectrum(x, method="pgram")
   ```
 
-**Interactive Brokers:** [Interactive Brokers' Official Site](https://www.interactivebrokers.com)
+**[Interactive Brokers](../i/interactive_brokers.md):** [Interactive Brokers' Official Site](https://www.interactivebrokers.com)
 
 ## Conclusion
 

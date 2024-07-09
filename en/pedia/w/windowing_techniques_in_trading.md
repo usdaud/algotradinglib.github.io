@@ -150,4 +150,4 @@ data['Rolling Mean'] = data['Price'].rolling(window=5).mean()
 3. [Yahoo Finance](https://finance.yahoo.com/)
 
 ## Conclusion
-Windowing techniques in trading offer powerful ways to analyze data, detect patterns, manage volatility, and enhance predictive models. By leveraging these methodologies, traders can make more informed decisions and optimize their [trading strategies](../t/trading_strategies.md).
+Windowing techniques in trading offer powerful ways to analyze data, detect patterns, manage volatility, and enhance [predictive models](../p/predictive_models_in_trading.md). By leveraging these methodologies, traders can make more informed decisions and optimize their [trading strategies](../t/trading_strategies.md).

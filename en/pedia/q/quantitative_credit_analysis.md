@@ -1,6 +1,6 @@
 # Quantitative Credit Analysis
 
-Quantitative Credit Analysis (QCA) is a systematic approach to evaluating the creditworthiness of borrowers—ranging from individual consumers to large corporations—using mathematical and statistical techniques. This method involves the application of various [quantitative models](../q/quantitative_models.md) and data analysis tools to assess the probability of default (PD), loss given default (LGD), and exposure at default (EAD), among other credit risk components. The advent of advanced computing and big data analytics has significantly enhanced the ability to process large datasets and generate accurate, real-time credit assessments, which are crucial for financial institutions, investors, and regulators.
+Quantitative Credit Analysis (QCA) is a systematic approach to evaluating the creditworthiness of borrowers—ranging from individual consumers to large corporations—using mathematical and statistical techniques. This method involves the application of various [quantitative models](../q/quantitative_models.md) and data analysis tools to assess the probability of default (PD), loss given default (LGD), and exposure at default (EAD), among other credit risk components. The advent of advanced computing and [big data analytics](../b/big_data_analytics_in_trading.md) has significantly enhanced the ability to process large datasets and generate accurate, real-time credit assessments, which are crucial for financial institutions, investors, and regulators.
 
 ## Fundamentals of Quantitative Credit Analysis
 
@@ -10,8 +10,8 @@ Quantitative Credit Analysis integrates traditional credit analysis methods with
 
 PD describes the likelihood that a borrower will default on their debt obligations within a specified horizon, usually one year. Techniques involved in estimating PD include:
 
-- **Logistic regression models:** Commonly used to predict binary outcomes, such as default or no default. By examining [financial ratios](../f/financial_ratios.md) and other key indicators, logistic regression helps in estimating the PD.
-- **Machine Learning Models:** Techniques such as Random Forests, Support Vector Machines (SVM), and Neural Networks can offer more accurate PD estimations by capturing complex, non-linear relationships within the data.
+- **[Logistic regression](../l/logistic_regression_in_trading.md) models:** Commonly used to predict binary outcomes, such as default or no default. By examining [financial ratios](../f/financial_ratios.md) and other key indicators, [logistic regression](../l/logistic_regression_in_trading.md) helps in estimating the PD.
+- **Machine Learning Models:** Techniques such as [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md) can offer more accurate PD estimations by capturing complex, non-linear relationships within the data.
 
 ### Loss Given Default (LGD)
 
@@ -55,7 +55,7 @@ Credit scoring models assign a numerical score to a borrower based on various at
 
 ### Structural Models
 
-Structural models, such as the Merton Model, use a firm's equity value and volatility to estimate the probability of default. These models view a company's equity as a call option on its assets.
+[Structural models](../s/structural_models_in_trading.md), such as the Merton Model, use a firm's equity value and volatility to estimate the probability of default. These models view a company's equity as a call option on its assets.
 
 ### Reduced-form Models
 
@@ -70,7 +70,7 @@ Credit portfolio models assess the overall risk of a portfolio of loans or credi
 
 ## Software and Tools
 
-Modern QCA leverages sophisticated software tools and platforms:
+Modern QCA leverages sophisticated [software tools](../s/software_tools_for_trading.md) and platforms:
 
 - **SAS Credit Scoring:** Offers end-to-end capabilities for building, validating, deploying, and monitoring credit scoring models. [SAS Credit Scoring](https://www.sas.com/en_us/software/credit-scoring.html)
 - **Moody's Analytics**: Provides comprehensive solutions for credit assessment and [portfolio management](../p/portfolio_management.md). [Moody's Analytics](https://www.moodysanalytics.com/)
@@ -119,7 +119,7 @@ The use of AI and machine learning in QCA is expected to grow, enhancing predict
 
 ### Big Data Analytics
 
-The utilization of big data analytics can provide deeper insights and more accurate credit assessments by analyzing vast amounts of structured and unstructured data.
+The utilization of [big data analytics](../b/big_data_analytics_in_trading.md) can provide deeper insights and more accurate credit assessments by analyzing vast amounts of structured and unstructured data.
 
 ### Real-time Credit Risk Monitoring
 
@@ -127,7 +127,7 @@ With advancements in technology, real-time monitoring of credit risk through con
 
 ### Blockchain and Decentralized Finance (DeFi)
 
-Blockchain technology and decentralized finance platforms present new opportunities and challenges for QCA, especially in terms of data integrity and transparency.
+[Blockchain](../b/blockchain_in_trading.md) technology and decentralized finance platforms present new opportunities and challenges for QCA, especially in terms of data integrity and transparency.
 
 ---
 

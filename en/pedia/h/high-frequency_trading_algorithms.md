@@ -8,7 +8,7 @@ High-Frequency Trading (HFT) algorithms have profoundly transformed financial ma
 The cornerstone of High-Frequency Trading is speed. HFT firms invest heavily in technologies that minimize latency, which is the time delay between the market event and the execution of trade. Low latency ensures that HFT algorithms can capitalize on minute price discrepancies before they disappear. Technologies such as fiber optic cables, microwave transmissions, and co-location services (placing traders' servers next to exchange servers) are commonly deployed.
 
 ### Complex Algorithms
-HFT algorithms are sophisticated, often incorporating machine learning and artificial intelligence. These algorithms scan and react to market orders, price movements, and other financial indicators. 
+HFT algorithms are sophisticated, often incorporating machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md). These algorithms scan and react to market orders, price movements, and other financial indicators. 
 
 ### Market Microstructure
 Understanding [market microstructure](../m/market_microstructure.md)—how orders are matched, types of orders, and the functioning of various trading venues—is crucial for HFT strategies. These algorithms exploit micro-inefficiencies within this structure.

@@ -17,7 +17,7 @@ Components of Emotional Intelligence include:
 
 ### 2. Cognitive Biases and Heuristics
 
-Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, and they can significantly impact trading decisions. Key biases include:
+[Cognitive biases](../c/cognitive_biases_in_trading.md) are systematic patterns of deviation from norm or rationality in judgment, and they can significantly impact trading decisions. Key biases include:
 
 - **Overconfidence Bias**: Traders who overestimate their abilities may take excessive risks without sufficient analysis.
 - **[Confirmation Bias](../c/confirmation_bias.md)**: The tendency to seek and interpret information in a way that confirms existing beliefs, while ignoring contradictory data.
@@ -70,7 +70,7 @@ The market is dynamic, requiring traders to continuously learn and adapt. Strate
 
 - **Reading and Research**: Staying updated on market news, economic reports, and trading strategy developments.
 - **Mentorship and Networking**: Learning from experienced traders and sharing insights.
-- **Simulation and Practice**: Using demo accounts or simulation tools to practice trading without financial risk.
+- **[Simulation](../s/simulation_in_trading.md) and Practice**: Using demo accounts or [simulation](../s/simulation_in_trading.md) tools to practice trading without financial risk.
 
 ## Integrating Technology with Psychological Strategies
 
@@ -105,6 +105,6 @@ The Turtle Traders, mentored by Richard Dennis and William Eckhardt, were part o
 
 ## Conclusion
 
-Psychological [trading strategies](../t/trading_strategies.md) are pivotal for improving [trading performance](../t/trading_performance.md) by addressing the mental and emotional challenges inherent in trading. By understanding and managing emotions, mitigating cognitive biases, implementing structured [risk management](../r/risk_management.md), and leveraging technology, traders can enhance their decision-making processes and increase their overall success in the markets.
+Psychological [trading strategies](../t/trading_strategies.md) are pivotal for improving [trading performance](../t/trading_performance.md) by addressing the mental and emotional challenges inherent in trading. By understanding and managing emotions, mitigating [cognitive biases](../c/cognitive_biases_in_trading.md), implementing structured [risk management](../r/risk_management.md), and leveraging technology, traders can enhance their decision-making processes and increase their overall success in the markets.
 
 By continuously learning, adapting, and integrating these psychological strategies, traders can achieve a balanced approach that not only focuses on numerical and analytical skills but also prioritizes mental and emotional resilience.

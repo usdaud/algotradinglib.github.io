@@ -21,16 +21,16 @@ where:
 - \( \mu \) is the drift term (average rate of return),
 - \( \sigma \) is the volatility,
 - \( W_t \) is a standard Brownian motion,
-- \( J_t \) is a jump process, often modeled as a compound Poisson process.
+- \( J_t \) is a jump process, often modeled as a compound [Poisson process](../p/poisson_process_in_trading.md).
 
 ### Compound Poisson Process
-The jump component \( J_t \) is usually modeled using a compound Poisson process, which captures the frequency and magnitude of the jumps. The compound Poisson process \( J_t \) can be expressed as:
+The jump component \( J_t \) is usually modeled using a compound [Poisson process](../p/poisson_process_in_trading.md), which captures the frequency and magnitude of the jumps. The compound [Poisson process](../p/poisson_process_in_trading.md) \( J_t \) can be expressed as:
 
 \[ J_t = \sum_{i=1}^{N_t} Y_i \]
 
 where:
-- \( N_t \) is a Poisson process with intensity \( \lambda \) (the average number of jumps per unit time),
-- \( Y_i \) are i.i.d. random variables representing the jump sizes, often assumed to follow a normal distribution \( N(\mu_J, \sigma_J^2) \).
+- \( N_t \) is a [Poisson process](../p/poisson_process_in_trading.md) with intensity \( \lambda \) (the average number of jumps per unit time),
+- \( Y_i \) are i.i.d. random variables representing the jump sizes, often assumed to follow a [normal distribution](../n/normal_distribution_in_trading.md) \( N(\mu_J, \sigma_J^2) \).
 
 ### Merton’s Jump Diffusion Model
 Merton's model is a specific instance of the jump diffusion process where the jump sizes \( Y_i \) follow a [log-normal distribution](../l/log-normal_distribution.md), inspired by the multiplicative nature of asset price changes. The SDE in Merton’s model is:
@@ -52,7 +52,7 @@ Unlike the [Black-Scholes model](../b/black-scholes_model.md), which leads to a 
 where \( f_Y(y) \) is the [probability density function](../p/probability_density_function.md) of the jump sizes.
 
 ### Numerical Methods
-Solving PIDEs analytically is often intractable, necessitating numerical methods for practical implementation. Common numerical techniques include:
+Solving PIDEs analytically is often intractable, necessitating [numerical methods](../n/numerical_methods_in_trading.md) for practical implementation. Common numerical techniques include:
 - **[Finite Difference Methods](../f/finite_difference_methods.md) (FDMs)**: Discretize the PIDE on a grid and solve iteratively.
 - **Monte Carlo Simulations**: Simulate paths of the underlying asset under the jump diffusion process and estimate the option price as the discounted average payoff.
 - **Fourier Transform Methods**: Leverage the characteristic function of the jump diffusion process to compute option prices via inversion formulas.

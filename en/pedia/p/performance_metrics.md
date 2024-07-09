@@ -74,7 +74,7 @@ Beta measures the sensitivity of an investment’s returns relative to the marke
 Where \( \text{Cov}(R_i, R_M) \) is the covariance between the strategy return and the market return, and \( \text{Var}(R_M) \) is the variance of the market return.
 
 ### 4.3 R-Squared
-R-Squared indicates the proportion of variance for a dependent variable that's explained by an independent variable or variables in a regression model.
+[R-Squared](../r/r-squared_in_trading.md) indicates the proportion of variance for a dependent variable that's explained by an independent variable or variables in a regression model.
 
 #### Formula:
 \[ R^2 = 1 - \frac{\sum (y_i - \hat{y}_i)^2}{\sum (y_i - \bar{y})^2} \]

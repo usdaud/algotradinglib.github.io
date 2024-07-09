@@ -7,12 +7,12 @@ Mean reversion is a financial theory that suggests that asset prices and histori
 ### Statistical Foundations
 Mean reversion relies heavily on the principles of statistics, particularly the notions of mean, variance, and regression. The theory assumes:
 
-1. **Normal Distribution**: Asset returns are often modeled as being normally distributed. 
+1. **[Normal Distribution](../n/normal_distribution_in_trading.md)**: Asset returns are often modeled as being normally distributed. 
 2. **Stationarity**: The underlying process that generates the asset prices is assumed to be stationary, meaning its statistical properties (like mean and variance) do not change over time.
 3. **[Autocorrelation](../a/autocorrelation.md)**: There is a degree of negative [autocorrelation](../a/autocorrelation.md) over time, implying that periods of returns above the mean are followed by returns below the mean, and vice versa.
 
 ### Mean Reversion Models
-Various mathematical models and techniques have been developed to capture and take advantage of the mean reversion concept:
+Various [mathematical models](../m/mathematical_models_in_trading.md) and techniques have been developed to capture and take advantage of the mean reversion concept:
 
 1. **Ornstein-Uhlenbeck Process**: This is a type of stochastic process used to model mean-reverting behavior in continuous time. It is often used in the valuation of [derivatives](../d/derivatives.md) and fixed income instruments.
 2. **Moving Averages and [Bollinger Bands](../b/bollinger_bands.md)**: These [technical analysis](../t/technical_analysis.md) tools are used to identify mean-reverting signals by comparing current price levels to their historical averages.
@@ -40,14 +40,14 @@ Implementing mean reversion strategies in an [algorithmic trading](../a/algorith
 ### Specific Algorithms
 Some popular algorithms and techniques for mean reversion in algo trading include:
 
-- **Kalman Filter**: Uses a series of measurements observed over time to estimate unknown variables that evolve over time. It’s particularly effective in modeling linear dynamic systems.
+- **[Kalman Filter](../k/kalman_filter_in_trading.md)**: Uses a series of measurements observed over time to estimate unknown variables that evolve over time. It’s particularly effective in modeling linear dynamic systems.
 - **[Z-Score Analysis](../z/z-score_analysis.md)**: Measures the number of standard deviations an element is from the mean, providing a way to gauge an asset’s relative performance.
 - **Cointegration Analysis**: Used in [pairs trading](../p/pairs_trading.md) to identify asset pairs that are likely to revert to their historical price relationship.
 
 ## Real-World Examples and Case Studies
 
 ### Renaissance Technologies
-Known for its Medallion Fund, Renaissance Technologies is one of the most successful hedge funds that heavily employs [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on mean reversion. Their approach integrates complex mathematical models and vast amounts of data to identify mean-reverting opportunities.
+Known for its Medallion Fund, Renaissance Technologies is one of the most successful hedge funds that heavily employs [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on mean reversion. Their approach integrates complex [mathematical models](../m/mathematical_models_in_trading.md) and vast amounts of data to identify mean-reverting opportunities.
 
 Link: [Renaissance Technologies](https://www.rentec.com/)
 
@@ -74,7 +74,7 @@ Executing mean-reversion strategies requires the use of advanced statistical too
 While mean reversion is a powerful concept, it comes with its own set of challenges:
 
 1. **Model Risk**: Incorrect modeling assumptions can lead to erroneous signals and potential losses.
-2. **Market Conditions**: Changes in market dynamics, such as regime shifts, can affect mean-reverting tendencies.
+2. **Market Conditions**: Changes in market dynamics, such as [regime shifts](../r/regime_shifts_in_trading.md), can affect mean-reverting tendencies.
 3. **Transaction Costs**: High-frequency trading required to exploit small mean-reversion opportunities can incur significant transaction costs.
 4. **Overfitting**: Model overfitting to historical data can fail to generalize well to future periods, leading to suboptimal performance.
 

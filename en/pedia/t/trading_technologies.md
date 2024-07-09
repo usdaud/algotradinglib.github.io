@@ -43,7 +43,7 @@ A platform extension for cryptocurrency trading.
 
 #### Key Features:
 - Integration with major crypto exchanges
-- Advanced order types for crypto markets
+- Advanced [order types](../o/order_types_in_trading.md) for crypto markets
 - [Risk management](../r/risk_management.md) specific to crypto trading
 
 ### 5. Infrastructure Solutions

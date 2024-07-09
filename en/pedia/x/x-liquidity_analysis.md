@@ -98,7 +98,7 @@ Financial markets are highly dynamic, and liquidity conditions can change rapidl
 
 #### AI and Enhanced Predictive Analytics
 
-Artificial intelligence and advanced [predictive analytics](../p/predictive_analytics.md) are expected to play a more significant role in X-[Liquidity Analysis](../l/liquidity_analysis.md), providing more accurate and timely insights.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and advanced [predictive analytics](../p/predictive_analytics.md) are expected to play a more significant role in X-[Liquidity Analysis](../l/liquidity_analysis.md), providing more accurate and timely insights.
 
 #### Enhanced Integration of Alternative Data
 
@@ -106,7 +106,7 @@ Incorporating [alternative data](../a/alternative_data.md) sources, such as [soc
 
 #### Blockchain and Decentralized Finance (DeFi)
 
-As blockchain technology and decentralized finance (DeFi) platforms evolve, they offer new opportunities and challenges for [liquidity analysis](../l/liquidity_analysis.md), necessitating updates to traditional methods and tools.
+As [blockchain](../b/blockchain_in_trading.md) technology and decentralized finance (DeFi) platforms evolve, they offer new opportunities and challenges for [liquidity analysis](../l/liquidity_analysis.md), necessitating updates to traditional methods and tools.
 
 ### Conclusion
 

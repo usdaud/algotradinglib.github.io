@@ -72,13 +72,13 @@ Many professional trading firms and individual traders employ variations of the 
 3. **Objective**: The rules are clear-cut, eliminating most of the ambiguity that can accompany [discretionary trading](../d/discretionary_trading.md).
 
 #### Cons
-1. **Whipsaws**: The strategy can generate false signals in choppy or sideways markets, leading to potential losses.
+1. **Whipsaws**: The strategy can generate [false signals](../f/false_signals_in_trading.md) in choppy or sideways markets, leading to potential losses.
 2. **Lagging Indicator**: Like many trend-following methods, the 4-Week Rule can be slow to react to rapidly changing market conditions.
 3. **[Risk Management](../r/risk_management.md)**: The rule does not inherently include [risk management](../r/risk_management.md) practices, so traders must implement their measures to protect their capital.
 
 ## Conclusion
 
-The 4-Week Rule remains a popular and effective trend-following strategy in [algorithmic trading](../a/algorithmic_trading.md). Its simplicity and ease of use have made it a staple for many [trading systems](../t/trading_systems.md). However, success with this strategy hinges on proper implementation, including supplementary [risk management](../r/risk_management.md) techniques and perhaps combining it with other indicators or methods to filter out false signals.
+The 4-Week Rule remains a popular and effective trend-following strategy in [algorithmic trading](../a/algorithmic_trading.md). Its simplicity and ease of use have made it a staple for many [trading systems](../t/trading_systems.md). However, success with this strategy hinges on proper implementation, including supplementary [risk management](../r/risk_management.md) techniques and perhaps combining it with other indicators or methods to filter out [false signals](../f/false_signals_in_trading.md).
 
 For more advanced implementations, many traders look to platforms like [QuantConnect](https://www.quantconnect.com) or [Alpaca](https://alpaca.markets) to backtest and deploy [trading algorithms](../t/trading_algorithms.md) based on the 4-Week Rule among other strategies.
 

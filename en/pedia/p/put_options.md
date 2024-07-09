@@ -61,7 +61,7 @@ Algorithmic systems can act as market makers, both buying and selling put option
 
 ### Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) algorithms identify and exploit price inefficiencies in put options markets. For instance, they may trade put options against corresponding call options (a form of options [arbitrage](../a/arbitrage.md)) or apply [mean reversion](../m/mean_reversion.md) strategies to capture small profit margins.
+Statistical [arbitrage](../a/arbitrage.md) algorithms identify and exploit price inefficiencies in put options markets. For instance, they may trade put options against corresponding call options (a form of options [arbitrage](../a/arbitrage.md)) or apply [mean reversion](../m/mean_reversion.md) strategies to capture small [profit margins](../p/profit_margins_in_trading.md).
 
 ### Sentiment Analysis
 
@@ -73,7 +73,7 @@ Several leading financial institutions and platforms support [algorithmic tradin
 
 - **Citadel Securities**: Known for its market-making prowess, Citadel Securities employs sophisticated algorithms to trade a vast array of [derivatives](../d/derivatives.md), including put options. [Citadel Securities](https://www.citadelsecurities.com/)
 - **DRW Trading**: A [proprietary trading](../p/proprietary_trading.md) firm that integrates technology and [risk management](../r/risk_management.md) to trade options across various markets. [DRW Trading](https://drw.com/)
-- **Interactive Brokers**: A popular trading platform offering API access for automated [trading strategies](../t/trading_strategies.md), including put options. [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A popular trading platform offering API access for automated [trading strategies](../t/trading_strategies.md), including put options. [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ## Conclusion
 

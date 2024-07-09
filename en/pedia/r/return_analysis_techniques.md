@@ -128,12 +128,12 @@ How to Calculate Omega Ratio:
 
 \[ \text{Omega Ratio} = \frac{\int_{MAR}^{\infty} (1 - F(R)) dR}{\int_{-\infty}^{MAR} F(R) dR} \]
 
-Where F(R) is the cumulative distribution function of the returns R.
+Where F(R) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the returns R.
 
 ## References and Further Reading
 
 - [QuantConnect](https://www.quantconnect.com/) - A leading platform for [algorithmic trading](../a/algorithmic_trading.md), offering a range of tools and resources for [backtesting](../b/backtesting.md) strategies, data access, and live trading.
-- [Kaggle](https://www.kaggle.com/) - A data science platform that provides datasets and competitions, useful for developing and testing [trading algorithms](../t/trading_algorithms.md).
+- [Kaggle](https://www.kaggle.com/) - A [data science](../d/data_science_in_trading.md) platform that provides datasets and competitions, useful for developing and testing [trading algorithms](../t/trading_algorithms.md).
 - [AlgoTrader](https://www.algotrader.com/) - A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software suite for [quantitative research](../q/quantitative_research.md), strategy development, and execution.
 
 By understanding and applying these return analysis techniques, algorithmic traders can enhance their strategies and achieve improved risk-adjusted returns.

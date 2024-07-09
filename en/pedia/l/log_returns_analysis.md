@@ -14,7 +14,7 @@ This can be equivalently expressed using natural logarithms as:
 
 ### Why Use Log Returns?
 
-1. **Normality**: Log returns often exhibit properties that are closer to normal distribution compared to simple returns, particularly over shorter time intervals. This assumption simplifies many theoretical models and practical applications, especially those relying on statistical methods.
+1. **Normality**: Log returns often exhibit properties that are closer to [normal distribution](../n/normal_distribution_in_trading.md) compared to simple returns, particularly over shorter time intervals. This assumption simplifies many theoretical models and practical applications, especially those relying on statistical methods.
 
 2. **Time Additivity**: Log returns are additive over time. For example, the log return over a multi-period horizon is the sum of the log returns over the individual periods. This property simplifies portfolio return calculations and compound return analysis.
 
@@ -54,7 +54,7 @@ This property allows for straightforward computation of cumulative returns.
 
 ### Normal Distribution
 
-In some cases, especially for shorter time periods, the distribution of log returns approaches a normal distribution. This aspect is leveraged in the Black-Scholes option pricing model and in various [risk management](../r/risk_management.md) strategies.
+In some cases, especially for shorter time periods, the distribution of log returns approaches a [normal distribution](../n/normal_distribution_in_trading.md). This aspect is leveraged in the Black-Scholes option pricing model and in various [risk management](../r/risk_management.md) strategies.
 
 ### Stability of Variance
 
@@ -104,7 +104,7 @@ Several libraries and tools facilitate log return calculations and analysis:
 
 - **Pandas**: Powerful data manipulation library in Python.
 - **NumPy**: Provides support for large multidimensional arrays and matrices.
-- **SciPy**: Offers additional functions for optimization, statistics, and signal processing.
+- **SciPy**: Offers additional functions for optimization, statistics, and [signal processing](../s/signal_processing_in_trading.md).
 - **Statsmodels**: For building statistical models, including [time series analysis](../t/time_series_analysis.md).
 
 ### Platforms

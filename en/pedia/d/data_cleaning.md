@@ -40,7 +40,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), the quality of data is pa
 
 Several tools and techniques are employed to clean data in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **Software Tools**: Tools such as Python libraries (Pandas, NumPy), R, SAS, and specialized data cleaning software provide functionalities to detect and correct data issues.
+- **[Software Tools](../s/software_tools_for_trading.md)**: Tools such as Python libraries (Pandas, NumPy), R, SAS, and specialized data cleaning software provide functionalities to detect and correct data issues.
 - **Automated Scripts**: Custom scripts to automate the detection and correction of common data issues.
 - **Machine Learning**: Using machine learning models to predict and fill in missing data, detect anomalies, and learn from historical patterns to improve data quality.
 
@@ -61,9 +61,9 @@ Several tools and techniques are employed to clean data in [algorithmic trading]
   
 - **Normalization**: Normalizing data ensures that values are within a common scale, which is especially important for algorithms sensitive to the scale of input data.
 
-- **Outlier Detection**: Statistical methods, such as z-scores or IQR methods, help identify outliers. Machine learning techniques like DBSCAN or Isolation Forest can also be used for this purpose.
+- **Outlier Detection**: Statistical methods, such as [z-scores](../z/z-scores_in_trading.md) or IQR methods, help identify outliers. Machine learning techniques like DBSCAN or Isolation Forest can also be used for this purpose.
 
-- **Data Duplication**: Identifying and removing duplicates can be done using software tools or scripts that compare and eliminate redundant entries.
+- **Data Duplication**: Identifying and removing duplicates can be done using [software tools](../s/software_tools_for_trading.md) or scripts that compare and eliminate redundant entries.
 
 - **Data Transformation**: Aggregation, filtering, and pivoting are typical data transformation operations. Aggregating transaction data to daily summaries, filtering trades within certain time bounds, or pivoting data for feature engineering are common practices.
 

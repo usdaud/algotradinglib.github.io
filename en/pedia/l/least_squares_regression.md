@@ -1,6 +1,6 @@
 # Least Squares Regression
 
-Least squares regression is a statistical method used to determine the line of best fit by minimizing the sum of squares of the differences between observed and estimated values. This method has a significant place in [algorithmic trading](../a/algorithmic_trading.md), where it helps traders make informed decisions based on historical data and predictive models. 
+Least squares regression is a statistical method used to determine the line of best fit by minimizing the sum of squares of the differences between observed and estimated values. This method has a significant place in [algorithmic trading](../a/algorithmic_trading.md), where it helps traders make informed decisions based on historical data and [predictive models](../p/predictive_models_in_trading.md). 
 
 ### Understanding Least Squares Regression
 
@@ -46,7 +46,7 @@ Least squares regression can be applied in several ways within [algorithmic trad
 
 #### 1. **Predictive Modeling**
 
-Traders can use least squares regression to build predictive models of future prices based on historical data. By understanding the relationship between variables, such as moving averages or other [technical indicators](../t/technical_indicators.md), traders can predict future trends and make buy/sell decisions accordingly.
+Traders can use least squares regression to build [predictive models](../p/predictive_models_in_trading.md) of future prices based on historical data. By understanding the relationship between variables, such as moving averages or other [technical indicators](../t/technical_indicators.md), traders can predict future trends and make buy/sell decisions accordingly.
 
 #### 2. **Pair Trading**
 
@@ -54,7 +54,7 @@ Pair trading involves finding two stocks that are statistically correlated. By u
 
 #### 3. **Risk Management**
 
-Regression methods can also assist in [risk management](../r/risk_management.md) by predicting the volatility of an asset. For instance, one can regress the squared returns of a stock on past returns to model the [volatility clustering](../v/volatility_clustering.md) typically observed in financial markets. This helps in creating more accurate Value-at-Risk (VaR) models and other [risk metrics](../r/risk_metrics.md).
+[Regression methods](../r/regression_methods_in_trading.md) can also assist in [risk management](../r/risk_management.md) by predicting the volatility of an asset. For instance, one can regress the squared returns of a stock on past returns to model the [volatility clustering](../v/volatility_clustering.md) typically observed in financial markets. This helps in creating more accurate Value-at-Risk (VaR) models and other [risk metrics](../r/risk_metrics.md).
 
 #### 4. **Market Neutral Strategies**
 
@@ -69,7 +69,7 @@ Several tools and platforms can be utilized for implementing least squares regre
 - **R**:
   - This statistical programming language offers extensive libraries for [regression analysis](../r/regression_analysis.md), including lm() function for linear modeling.
 - **MATLAB**:
-  - Known for its numerical computing capabilities, MATLAB has built-in functions like fitlm() for fitting linear models.
+  - Known for its numerical computing capabilities, MATLAB has built-in functions like fitlm() for fitting [linear models](../l/linear_models_in_trading.md).
 
 ### Example Code
 
@@ -102,16 +102,16 @@ print(model.summary())
 ### Case Studies & Industry Examples
 
 1. **Renaissance Technologies**:
-   Renaissance Technologies, founded by Jim Simons, is one of the most successful quant funds utilizing statistical models, including [regression techniques](../r/regression_techniques.md), for [algorithmic trading](../a/algorithmic_trading.md). Their Medallion Fund has been known for its impressive returns, largely attributed to sophisticated mathematical models and data analysis.
+   Renaissance Technologies, founded by Jim Simons, is one of the most successful quant funds utilizing statistical models, including [regression techniques](../r/regression_techniques.md), for [algorithmic trading](../a/algorithmic_trading.md). Their Medallion Fund has been known for its impressive returns, largely attributed to sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and data analysis.
 
 2. **Two Sigma**:
-   Two Sigma, another giant in the [quantitative trading](../q/quantitative_trading.md) space, employs a combination of machine learning, advanced statistical methods, and significant computational resources to analyze vast amounts of financial data. Least squares regression is fundamental in building predictive models for their [trading strategies](../t/trading_strategies.md). More about Two Sigma can be found on their [official website](https://www.twosigma.com).
+   Two Sigma, another giant in the [quantitative trading](../q/quantitative_trading.md) space, employs a combination of machine learning, advanced statistical methods, and significant computational resources to analyze vast amounts of financial data. Least squares regression is fundamental in building [predictive models](../p/predictive_models_in_trading.md) for their [trading strategies](../t/trading_strategies.md). More about Two Sigma can be found on their [official website](https://www.twosigma.com).
 
 ### Interpretation and Analysis
 
 A successful application of least squares regression in trading requires careful interpretation of the model parameters and assumptions. Key points to consider include:
 
-- **R-Squared and Adjusted R-Squared**: These metrics indicate how well the independent variables explain the variability in the dependent variable. In trading, a high R-Squared value might suggest a strong predictive model, although caution should be exercised to avoid overfitting.
+- **[R-Squared](../r/r-squared_in_trading.md) and Adjusted [R-Squared](../r/r-squared_in_trading.md)**: These metrics indicate how well the independent variables explain the variability in the dependent variable. In trading, a high [R-Squared](../r/r-squared_in_trading.md) value might suggest a strong predictive model, although caution should be exercised to avoid overfitting.
   
 - **P-Values**: Low p-values indicate that the coefficients are statistically significant. For trading, careful consideration of which variables to include in the model based on their p-values can improve model performance.
 
@@ -124,11 +124,11 @@ While least squares regression is a powerful tool, it has limitations in the con
 - **Linearity Assumption**: The method assumes a linear relationship between the variables, which may not always hold true in financial markets.
 - **Outliers**: Least squares regression is sensitive to outliers, which can disproportionately influence the regression line.
 - **Overfitting**: Using too many variables or overly complex models can lead to overfitting, where the model performs well on historical data but poorly on new, unseen data.
-- **Multicollinearity**: When independent variables are highly correlated with each other, it can cause issues with the reliability of the regression coefficients.
+- **[Multicollinearity](../m/multicollinearity_in_trading.md)**: When independent variables are highly correlated with each other, it can cause issues with the reliability of the regression coefficients.
 
 ### Advanced Techniques
 
-To address some of the limitations, advanced techniques such as Ridge Regression, Lasso Regression, and Elastic Net can be employed. These methods introduce regularization terms to handle multicollinearity and overfitting.
+To address some of the limitations, advanced techniques such as Ridge Regression, Lasso Regression, and Elastic Net can be employed. These methods introduce regularization terms to handle [multicollinearity](../m/multicollinearity_in_trading.md) and overfitting.
 
 - **Ridge Regression**: Adds a penalty term proportional to the square of the coefficients.
 - **Lasso Regression**: Adds a penalty term proportional to the absolute value of the coefficients, which can lead to some coefficients being reduced to zero, thus performing variable selection.
@@ -138,4 +138,4 @@ These techniques can improve the robustness of regression models in [algorithmic
 
 ### Conclusion
 
-Least squares regression is an invaluable tool in the arsenal of algorithmic traders. By leveraging historical data and statistical methods, traders can build predictive models, evaluate relationships among financial variables, and create effective [trading strategies](../t/trading_strategies.md). However, it is crucial to be aware of the method's assumptions and limitations and to complement it with other advanced techniques and rigorous analysis for optimal [trading performance](../t/trading_performance.md).
+Least squares regression is an invaluable tool in the arsenal of algorithmic traders. By leveraging historical data and statistical methods, traders can build [predictive models](../p/predictive_models_in_trading.md), evaluate relationships among financial variables, and create effective [trading strategies](../t/trading_strategies.md). However, it is crucial to be aware of the method's assumptions and limitations and to complement it with other advanced techniques and rigorous analysis for optimal [trading performance](../t/trading_performance.md).

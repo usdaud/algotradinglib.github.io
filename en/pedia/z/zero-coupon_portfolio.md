@@ -56,7 +56,7 @@ Algorithmic traders can use zero-coupon bonds to implement [yield curve](../y/yi
 [Algorithmic trading](../a/algorithmic_trading.md) systems rely heavily on data analysis. Detailed data on zero-coupon bonds, including historical prices, interest rates, and yield curves, are crucial for developing [trading algorithms](../t/trading_algorithms.md).
 
 ### Machine Learning
-Machine learning algorithms can be employed to analyze patterns in [zero-coupon bond](../z/zero-coupon_bond.md) prices and predict future movements. These algorithms can detect subtle correlations and trends that may not be evident through traditional analysis.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be employed to analyze patterns in [zero-coupon bond](../z/zero-coupon_bond.md) prices and predict future movements. These algorithms can detect subtle correlations and trends that may not be evident through traditional analysis.
 
 ### Execution Systems
 High-frequency [trading systems](../t/trading_systems.md) require advanced execution platforms capable of executing trades at lightning speed. These platforms must be able to handle large volumes of transactions and minimize latency.

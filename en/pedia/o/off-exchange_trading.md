@@ -99,7 +99,7 @@ Electronic trading platforms have revolutionized the OTC market by providing mor
 
 ### 3. Distributed Ledger Technology (DLT)
 
-Distributed ledger technology, such as blockchain, has the potential to transform off-exchange trading by offering enhanced security, transparency, and efficiency. DLT can be used for trade settlement, record-keeping, and facilitating trust between counterparties in OTC transactions.
+Distributed ledger technology, such as [blockchain](../b/blockchain_in_trading.md), has the potential to transform off-exchange trading by offering enhanced security, transparency, and efficiency. DLT can be used for trade settlement, record-keeping, and facilitating trust between counterparties in OTC transactions.
 
 - **R3 Corda** - [R3 Corda](https://www.r3.com)
 

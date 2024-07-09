@@ -29,15 +29,15 @@ The result is expressed as a percentage, indicating how much profit is generated
 Several factors can impact a company's ROTA, either positively or negatively:
 
 1. **Asset Management**: Efficient management of assets, such as optimizing inventory levels, can improve ROTA.
-2. **Profit Margins**: Higher profit margins, achieved through cost control or higher pricing power, can enhance ROTA.
+2. **[Profit Margins](../p/profit_margins_in_trading.md)**: Higher [profit margins](../p/profit_margins_in_trading.md), achieved through cost control or higher pricing power, can enhance ROTA.
 3. **Leverage**: Excessive debt may not directly impact ROTA but can have an indirect effect by influencing net income and total assets.
 4. **Sales Volume**: Increasing sales without a corresponding rise in assets can improve ROTA.
 
 ### ROTA versus ROA
 
-While Return on Assets (ROA) and Return on Total Assets (ROTA) might seem similar, there is a subtle difference:
+While [Return on Assets](../r/return_on_assets_(roa).md) (ROA) and Return on Total Assets (ROTA) might seem similar, there is a subtle difference:
 
-- **ROA** typically uses operating income or earnings before interest and taxes (EBIT) in the numerator, highlighting operational efficiency before financing costs.
+- **ROA** typically uses operating income or earnings before interest and taxes (EBIT) in the numerator, highlighting [operational efficiency](../o/operational_efficiency_in_trading.md) before financing costs.
 - **ROTA** uses net income, capturing the impact of financing costs and taxes, thereby providing a more holistic view of corporate performance.
 
 ### Industry Variations
@@ -66,7 +66,7 @@ Despite different sizes and income levels, both companies exhibit the same ROTA 
 
 Companies can adopt several strategies to enhance ROTA, including:
 
-1. **Improving Profit Margins**: Through cost reduction or enhancing revenues.
+1. **Improving [Profit Margins](../p/profit_margins_in_trading.md)**: Through cost reduction or enhancing revenues.
 2. **Optimizing Asset Utilization**: Effective management of inventory, receivables, and fixed assets.
 3. **Strategic Investments**: Investing in high-return projects or divesting underperforming assets.
 

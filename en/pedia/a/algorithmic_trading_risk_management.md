@@ -9,7 +9,7 @@
    - **Mitigation**: Diversification of assets, implementing [stop-loss orders](../s/stop-loss_orders.md), and using [hedging strategies](../h/hedging_strategies.md) can mitigate market risk.
 
 2. **Model Risk**:
-   - **Definition**: Model risk arises from using inaccurate or faulty mathematical models for trading decisions. This can lead to incorrect valuations and [trading strategies](../t/trading_strategies.md).
+   - **Definition**: Model risk arises from using inaccurate or faulty [mathematical models](../m/mathematical_models_in_trading.md) for trading decisions. This can lead to incorrect valuations and [trading strategies](../t/trading_strategies.md).
    - **Mitigation**: Regular [backtesting](../b/backtesting.md), validation with out-of-sample data, and continuous model updates help mitigate model risk.
 
 3. **[Liquidity Risk](../l/liquidity_risk.md)**:
@@ -33,9 +33,9 @@
 1. **Risk Assessment and Measurement**:
    - Identifying and quantifying risks is the first step in [risk management](../r/risk_management.md). This involves assessing the market and systemic risks associated with [trading strategies](../t/trading_strategies.md) and models.
 
-2. **[Algorithm Testing](../a/algorithm_testing.md) and Simulation**:
+2. **[Algorithm Testing](../a/algorithm_testing.md) and [Simulation](../s/simulation_in_trading.md)**:
    - **[Backtesting](../b/backtesting.md)**: Applying [trading algorithms](../t/trading_algorithms.md) to historical data to evaluate how they would have performed.
-   - **Stress Testing**: Testing algorithms under extreme market conditions to see how they hold up.
+   - **[Stress Testing](../s/stress_testing_in_trading.md)**: Testing algorithms under extreme market conditions to see how they hold up.
    - **Forward Testing**: Implementing the algorithm in a live but risk-free environment to observe performance.
 
 3. **Real-time Monitoring and Alerts**:
@@ -74,11 +74,11 @@ Bridgewater Associates, founded by Ray Dalio, is one of the largest hedge funds 
 
 2. **[Quantitative Risk Management](../q/quantitative_risk_management.md) Tools**:
    - Advanced statistical and mathematical tools for modeling and managing risk.
-   - Techniques such as Value-at-Risk (VaR), conditional VaR, and stress testing.
+   - Techniques such as Value-at-Risk (VaR), conditional VaR, and [stress testing](../s/stress_testing_in_trading.md).
 
-3. **Blockchain and Distributed Ledger Technology (DLT)**:
+3. **[Blockchain](../b/blockchain_in_trading.md) and Distributed Ledger Technology (DLT)**:
    - Enhancing transparency and reducing operational risk through immutable and auditable records.
-   - Smart contracts for automating and ensuring compliance with [trading rules](../t/trading_rules.md).
+   - [Smart contracts](../s/smart_contracts_in_trading.md) for automating and ensuring compliance with [trading rules](../t/trading_rules.md).
 
 ### Challenges in Risk Management
 

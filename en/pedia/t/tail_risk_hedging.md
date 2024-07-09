@@ -5,7 +5,7 @@
 ## Understanding Tail Risk
 
 ### Definition
-[Tail risk](../t/tail_risk.md) refers to the probability of rare and extreme market movements that deviate significantly from the normal distribution. In statistical terms, these events are found in the "tails" of the distribution curve, representing outcomes that fall far outside the realm of regular expectations.
+[Tail risk](../t/tail_risk.md) refers to the probability of rare and extreme market movements that deviate significantly from the [normal distribution](../n/normal_distribution_in_trading.md). In statistical terms, these events are found in the "tails" of the distribution curve, representing outcomes that fall far outside the realm of regular expectations.
 
 ### Importance in Finance
 In the context of finance, tail risks can result from various factors such as market crashes, [geopolitical events](../g/geopolitical_events.md), natural disasters, and other systemic shocks. The historical events like the 1987 stock market crash (Black Monday), the 2008 financial crisis, and the COVID-19 pandemic belong to these tail events, which had massive detrimental effects on financial markets worldwide.
@@ -47,11 +47,11 @@ In the context of finance, tail risks can result from various factors such as ma
 
 ### Algorithmic Tail Risk Models
 
-1. **Machine Learning Algorithms**
+1. **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**
    - **Function:** Advanced machine learning models can identify patterns and predict potential tail events by analyzing historical data and market signals.
    - **Usage:** Algorithms can dynamically adjust portfolio positions based on real-time data and [predictive analytics](../p/predictive_analytics.md) to hedge against anticipated tail risks.
 
-2. **[Backtesting](../b/backtesting.md) and Simulation**
+2. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**
    - **Function:** Before implementing [tail risk](../t/tail_risk.md) [hedging strategies](../h/hedging_strategies.md), algorithms are rigorously backtested using historical market data and Monte Carlo simulations.
    - **Usage:** This helps in fine-tuning strategies and assessing their effectiveness under various market conditions, including [tail risk](../t/tail_risk.md) scenarios.
 
@@ -62,8 +62,8 @@ In the context of finance, tail risks can result from various factors such as ma
    - **Function:** Robust [risk management](../r/risk_management.md) systems provide real-time monitoring of market conditions, portfolio positions, and potential tail risks.
    - **Usage:** Integration of such systems with [algorithmic trading](../a/algorithmic_trading.md) platforms allows for continuous assessment and automated adjustments to hedge positions.
 
-2. **Stress Testing**
-   - **Function:** Regular stress testing of portfolios against extreme market scenarios ensures preparedness for tail events.
+2. **[Stress Testing](../s/stress_testing_in_trading.md)**
+   - **Function:** Regular [stress testing](../s/stress_testing_in_trading.md) of portfolios against extreme market scenarios ensures preparedness for tail events.
    - **Usage:** Algorithmic systems can periodically simulate tail events, assess the potential impact, and adjust [hedging strategies](../h/hedging_strategies.md) accordingly.
 
 ## Challenges and Considerations

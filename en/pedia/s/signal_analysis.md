@@ -21,12 +21,12 @@ Technical signals are based on historical price and volume data. Analysts use ch
 Fundamental signals focus on the intrinsic value of an asset, considering external factors such as earnings reports, [economic indicators](../e/economic_indicators.md), and company news. Key fundamental signals include:
   
 - **Earnings Reports:** Information about a company’s profitability, revenue, and expenses.
-- **[Economic Indicators](../e/economic_indicators.md):** Data like GDP growth rates, unemployment rates, and inflation.
+- **[Economic Indicators](../e/economic_indicators.md):** Data like GDP [growth rates](../g/growth_rates_in_trading.md), unemployment rates, and inflation.
 - **News Reports and Sentiment:** Analyst recommendations, [market sentiment indicators](../m/market_sentiment_indicators.md), and relevant news.
 
 ### 2.3 Quantitative Signals
 
-Quantitative signals use mathematical models to identify opportunities. Approaches include:
+Quantitative signals use [mathematical models](../m/mathematical_models_in_trading.md) to identify opportunities. Approaches include:
 
 - **Statistical [Arbitrage](../a/arbitrage.md):** Employing statistical methods to exploit price inefficiencies between securities.
 - **[Factor Models](../f/factor_models.md):** Identifying factors that have historically explained asset returns, such as value or momentum factors.
@@ -44,7 +44,7 @@ Quantitative signals use mathematical models to identify opportunities. Approach
 
 Machine learning methods help identify patterns by training on past data. Applications in signal analysis include:
 
-- **[Classification Algorithms](../c/classification_algorithms.md):** Techniques like support vector machines (SVM) to classify buy/sell signals.
+- **[Classification Algorithms](../c/classification_algorithms.md):** Techniques like [support vector machines](../s/support_vector_machines_in_trading.md) (SVM) to classify buy/sell signals.
 - **Regression Algorithms:** Methods such as Lasso regression to predict future price movements.
 
 ### 3.3 Fourier Analysis
@@ -104,7 +104,7 @@ Ensuring the quality of data is paramount. Issues include:
 
 Overfitting occurs when an algorithm performs well on historical data but fails on live data. Mitigation strategies include:
   
-- **Regularization Techniques:** Applying methods like dropouts in neural networks to prevent overfitting.
+- **Regularization Techniques:** Applying methods like dropouts in [neural networks](../n/neural_networks_in_trading.md) to prevent overfitting.
 - **Cross-Validation:** Using k-fold cross-validation to validate the robustness of the model.
 
 ### 5.3 Market Changes
@@ -134,19 +134,19 @@ Citadel uses a range of quantitative tools for signal analysis in their [trading
 
 The advancement in AI and deep learning is expected to revolutionize signal analysis. Potential impacts include:
   
-- **Enhanced Predictive Models:** More accurate and complex models to predict market movements.
+- **Enhanced [Predictive Models](../p/predictive_models_in_trading.md):** More accurate and complex models to predict market movements.
 - **Automated Feature Engineering:** AI-driven techniques to automatically identify significant features from raw data.
 
 ### 7.2 Blockchain Technology
 
-Blockchain could provide a new source of market signals through transparent and immutable data logs. Potential signals include:
+[Blockchain](../b/blockchain_in_trading.md) could provide a new source of market signals through transparent and immutable data logs. Potential signals include:
   
-- **Transaction Data:** Using the flow of transactions on the blockchain for predictive analysis.
-- **Smart Contracts:** Automating signal execution through programmable contracts.
+- **Transaction Data:** Using the flow of transactions on the [blockchain](../b/blockchain_in_trading.md) for predictive analysis.
+- **[Smart Contracts](../s/smart_contracts_in_trading.md):** Automating signal execution through programmable contracts.
 
 ### 7.3 Quantum Computing
 
-Quantum computing could further enhance the capability of signal processing algorithms by:
+[Quantum computing](../q/quantum_computing_in_trading.md) could further enhance the capability of [signal processing](../s/signal_processing_in_trading.md) algorithms by:
   
 - **Faster Computations:** Solving complex problems more efficiently.
 - **New Algorithms:** Developing algorithms that leverage quantum principles.

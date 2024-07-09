@@ -52,7 +52,7 @@ To provide better clarity, let’s look at an example of a real 8-K filing, such
 
 ### Role of Technology
 
-Technologies such as Natural Language Processing (NLP) and Machine Learning (ML) play a pivotal role in interpreting 8-K filings for algo trading. These technologies can:
+Technologies such as [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and Machine Learning (ML) play a pivotal role in interpreting 8-K filings for algo trading. These technologies can:
 
 1. **Parse Filings**: Quickly parse and categorize the information.
 2. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Assess the sentiment of the disclosed information to predict market reactions.

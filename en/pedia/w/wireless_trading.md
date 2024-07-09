@@ -15,7 +15,7 @@ Mobile trading platforms are specialized software applications that facilitate w
 - [Real-time market data](../r/real-time_market_data.md) and news
 - Charting tools and [technical analysis](../t/technical_analysis.md) indicators
 - Customizable watchlists and alerts
-- Order management and execution features
+- [Order management](../o/order_management_in_trading.md) and execution features
 - [Risk management](../r/risk_management.md) tools
 Examples of prominent mobile trading platforms include:
   - **MetaTrader 4 and 5:** These platforms are popular among retail traders for their user-friendly interfaces and comprehensive trading tools.
@@ -32,7 +32,7 @@ Wireless trading finds applications across various segments of the trading indus
 **1. Retail Trading:**
 Retail traders, individuals who trade for their accounts, benefit significantly from wireless trading. They can monitor market movements, access trading opportunities, and execute orders without being tethered to a desktop computer. Popular retail brokers that offer mobile trading apps include:
   - **[Robinhood](../r/robinhood.md):** Focused on commission-free trades with a simple, user-friendly mobile app.
-  - **E*TRADE:** Provides comprehensive tools and resources for retail investors.
+  - **[E*TRADE](../e/e_trade.md):** Provides comprehensive tools and resources for retail investors.
   - **[Charles Schwab](../c/charles_schwab.md):** Delivers robust mobile trading features with extensive research tools.
 
 **2. Institutional Trading:**
@@ -80,11 +80,11 @@ The future of wireless trading appears promising, driven by continual advancemen
 **1. 5G Networks:**
 The widespread adoption of 5G technology will likely revolutionize wireless trading, providing near-instantaneous data transfer and ultra-low latency. This can enable more sophisticated [trading strategies](../t/trading_strategies.md) and enhance the overall user experience on mobile devices.
 
-**2. Artificial Intelligence (AI) and Machine Learning (ML):**
+**2. [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML):**
 AI and ML are poised to play a significant role in wireless trading by offering [predictive analytics](../p/predictive_analytics.md), automated [trading strategies](../t/trading_strategies.md), and personalized trading recommendations directly within mobile apps.
 
-**3. Blockchain and Cryptocurrencies:**
-Blockchain technology could enhance the security and transparency of wireless trading. Mobile trading of cryptocurrencies, which operates 24/7, is particularly well-suited to the wireless trading model, offering seamless access to this burgeoning asset class.
+**3. [Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies:**
+[Blockchain](../b/blockchain_in_trading.md) technology could enhance the security and transparency of wireless trading. Mobile trading of cryptocurrencies, which operates 24/7, is particularly well-suited to the wireless trading model, offering seamless access to this burgeoning asset class.
 
 **4. Enhanced User Interfaces:**
 Future mobile trading platforms are expected to feature improved user interfaces, incorporating voice recognition, augmented reality (AR), and gesture control to provide more intuitive and efficient trading experiences.

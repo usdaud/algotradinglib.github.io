@@ -86,7 +86,7 @@ Platforms such as [Bloomberg](../b/bloomberg.md) Terminal and [Reuters](../r/reu
 3. **Position Scaling**: Positions may be scaled in and out based on the strength of the trend.
 
 ### Tools
-Traders utilize platforms capable of high-speed order execution and advanced charting for [technical analysis](../t/technical_analysis.md). Brokerages like Interactive Brokers offer tools essential for [momentum trading](../m/momentum_trading.md).
+Traders utilize platforms capable of high-speed order execution and advanced charting for [technical analysis](../t/technical_analysis.md). Brokerages like [Interactive Brokers](../i/interactive_brokers.md) offer tools essential for [momentum trading](../m/momentum_trading.md).
 
 ## Arbitrage
 
@@ -121,4 +121,4 @@ These platforms generally offer APIs, developer tools, and comprehensive support
 
 ## Conclusion
 
-Quick trading techniques require a combination of speed, precision, and technology. Each method has its own set of advantages and challenges. Moving forward, the advancements in artificial intelligence and machine learning are likely to bring even more innovative approaches to quick trading techniques. Traders and financial institutions need to stay updated with these developments to maintain a competitive edge. By mastering tools and understanding various strategies—from scalping and [day trading](../d/day_trading.md) to HFT and [momentum trading](../m/momentum_trading.md)—an individual or institution can potentially excel in the high-speed world of quick trading.
+Quick trading techniques require a combination of speed, precision, and technology. Each method has its own set of advantages and challenges. Moving forward, the advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning are likely to bring even more innovative approaches to quick trading techniques. Traders and financial institutions need to stay updated with these developments to maintain a competitive edge. By mastering tools and understanding various strategies—from scalping and [day trading](../d/day_trading.md) to HFT and [momentum trading](../m/momentum_trading.md)—an individual or institution can potentially excel in the high-speed world of quick trading.

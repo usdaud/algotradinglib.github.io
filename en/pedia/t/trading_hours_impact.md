@@ -51,7 +51,7 @@ Different [algorithmic trading](../a/algorithmic_trading.md) strategies are affe
 
 ## 6. Execution and Order Types
 
-The timing of trades also influences the choice of order types and execution strategies adopted by algorithmic traders. Common order types include:
+The timing of trades also influences the choice of [order types](../o/order_types_in_trading.md) and execution strategies adopted by algorithmic traders. Common [order types](../o/order_types_in_trading.md) include:
 
 - **Market Orders**: These orders are executed immediately at the best available price. They are more likely to be used during high liquidity periods to minimize slippage.
 - **Limit Orders**: Limit orders specify the price at which the trader is willing to buy or sell. These are often used during lower liquidity periods to avoid unfavorable price movements.

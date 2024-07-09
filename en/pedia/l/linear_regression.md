@@ -22,7 +22,7 @@ Several key concepts form the backbone of [linear regression analysis](../l/line
 
 - **Intercept (β0):** The starting value of \( Y \) when all \( X \) variables are zero.
 
-- **R-squared (R²):** A statistical measure that indicates how well data fits the regression model. It ranges from 0 to 1.
+- **[R-squared](../r/r-squared_in_trading.md) (R²):** A statistical measure that indicates how well data fits the regression model. It ranges from 0 to 1.
 
 ### Assumptions in Linear Regression
 
@@ -31,7 +31,7 @@ For linear regression to be effective, several assumptions must hold true:
 1. **Linearity:** The relationship between independent and dependent variables should be linear.
 2. **Independence:** Observations must be independent of each other.
 3. **Homoscedasticity:** The residuals (errors) should have constant variance.
-4. **Normal Distribution of Errors:** Errors should follow a normal distribution.
+4. **[Normal Distribution](../n/normal_distribution_in_trading.md) of Errors:** Errors should follow a [normal distribution](../n/normal_distribution_in_trading.md).
 
 ### Implementing Linear Regression in Algorithmic Trading
 
@@ -77,7 +77,7 @@ y_pred = model.predict(X_test)
 
 #### 5. Model Evaluation
 
-Evaluate the model's performance using metrics such as [Mean Squared Error](../m/mean_squared_error.md) (MSE), and R-squared score:
+Evaluate the model's performance using metrics such as [Mean Squared Error](../m/mean_squared_error.md) (MSE), and [R-squared](../r/r-squared_in_trading.md) score:
 
 ```python
 from sklearn.metrics import mean_squared_error, r2_score
@@ -86,7 +86,7 @@ mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
 print(f'[Mean Squared Error](../m/mean_squared_error.md): {mse}')
-print(f'R-squared Score: {r2}')
+print(f'[R-squared](../r/r-squared_in_trading.md) Score: {r2}')
 ```
 
 ### Applications in Trading Strategies
@@ -105,7 +105,7 @@ Assess the risk of [trading strategies](../t/trading_strategies.md) by analyzing
 
 #### Quantitative Analysis
 
-Leverage regression models for [quantitative analysis](../q/quantitative_analysis.md), integrating them with other predictive models and strategies for comprehensive [trading systems](../t/trading_systems.md).
+Leverage regression models for [quantitative analysis](../q/quantitative_analysis.md), integrating them with other [predictive models](../p/predictive_models_in_trading.md) and strategies for comprehensive [trading systems](../t/trading_systems.md).
 
 ### Real-World Examples
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Transaction execution in [algorithmic trading](../a/algorithmic_trading.md) refers to the automated process of completing buy and sell orders in the financial markets according to predefined rules and strategies. This complex process encompasses a wide array of elements, including order types, execution venues, latency considerations, slippage, and [risk management](../r/risk_management.md), all designed to optimize the execution outcomes for various [trading strategies](../t/trading_strategies.md). The goal is to maximize efficiency while minimizing costs and risks.
+Transaction execution in [algorithmic trading](../a/algorithmic_trading.md) refers to the automated process of completing buy and sell orders in the financial markets according to predefined rules and strategies. This complex process encompasses a wide array of elements, including [order types](../o/order_types_in_trading.md), execution venues, latency considerations, slippage, and [risk management](../r/risk_management.md), all designed to optimize the execution outcomes for various [trading strategies](../t/trading_strategies.md). The goal is to maximize efficiency while minimizing costs and risks.
 
 ## Order Types
 
@@ -24,7 +24,7 @@ Stop orders become market orders once a specified price threshold is reached. [S
 
 ### Special Order Types
 
-Some advanced order types are created to fit specific [trading strategies](../t/trading_strategies.md), such as:
+Some advanced [order types](../o/order_types_in_trading.md) are created to fit specific [trading strategies](../t/trading_strategies.md), such as:
 - **Fill-Or-Kill (FOK)**: The order must be fully executed immediately or it is canceled.
 - **Immediate-Or-Cancel (IOC)**: The portion of the order that can be filled immediately will be, and the rest will be canceled.
 - **Good-Til-Canceled (GTC)**: The order remains active until executed or explicitly canceled by the trader.
@@ -91,7 +91,7 @@ Effective slippage management strategies include:
 - **Diversification**: Spreading investments across different assets to minimize risk.
 - **Hedging**: Using financial instruments like options and futures to offset potential losses.
 - **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Containing losses by triggering an exit from a losing position.
-- **Stress Testing**: Simulating extreme market conditions to evaluate the resilience of [trading strategies](../t/trading_strategies.md).
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating extreme market conditions to evaluate the resilience of [trading strategies](../t/trading_strategies.md).
 
 ## Statistical Arbitrage and Transaction Execution
 
@@ -116,7 +116,7 @@ Implementation shortfall algorithms seek to minimize the difference between the 
 
 ### Smart Order Routing (SOR)
 
-SOR systems automatically route orders to different execution venues to optimize factors like price, speed, and liquidity. This can involve splitting orders across multiple venues or using advanced order types.
+SOR systems automatically route orders to different execution venues to optimize factors like price, speed, and liquidity. This can involve splitting orders across multiple venues or using advanced [order types](../o/order_types_in_trading.md).
 
 ## Tools and Platforms
 
@@ -149,4 +149,4 @@ Transaction execution systems must adhere to various compliance requirements, in
 
 Transaction execution in [algorithmic trading](../a/algorithmic_trading.md) is a multifaceted and complex field, involving a synthesis of advanced algorithms, cutting-edge technology, and rigorous risk and compliance management. Mastering transaction execution can significantly enhance the effectiveness of [trading strategies](../t/trading_strategies.md), reduce costs, and ultimately improve return on investment.
 
-Understanding the various components—from order types and execution venues to latency and [risk management](../r/risk_management.md)—is crucial for developing robust and efficient execution strategies. As technology and markets evolve, so too will the techniques and tools for optimizing transaction execution, making it a continuously dynamic and vital aspect of [algorithmic trading](../a/algorithmic_trading.md).
+Understanding the various components—from [order types](../o/order_types_in_trading.md) and execution venues to latency and [risk management](../r/risk_management.md)—is crucial for developing robust and efficient execution strategies. As technology and markets evolve, so too will the techniques and tools for optimizing transaction execution, making it a continuously dynamic and vital aspect of [algorithmic trading](../a/algorithmic_trading.md).

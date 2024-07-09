@@ -34,7 +34,7 @@ Paulson & Co, founded by John Paulson, famously utilized a long/short equity str
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Using quantitative methods and statistical models to identify mispricings.
 
 ### Examples
-AQR Capital employs [market neutral strategies](../m/market_neutral_strategies.md) through [quantitative approaches](../q/quantitative_approaches.md), using mathematical models to discern pricing anomalies.
+AQR Capital employs [market neutral strategies](../m/market_neutral_strategies.md) through [quantitative approaches](../q/quantitative_approaches.md), using [mathematical models](../m/mathematical_models_in_trading.md) to discern pricing anomalies.
 
 #### Related Resources
 [AQR Capital Management](https://aqr.com/)
@@ -103,7 +103,7 @@ Relative Value strategies involve identifying and capitalizing on discrepancies 
 - **Volatility [Arbitrage](../a/arbitrage.md)**: Engaging in trades that profit from differences in the implied volatility of options versus the expected actual volatility of the underlying assets.
 
 ### Examples
-Two Sigma Investments utilizes relative value strategies, relying on advanced computational power and big data to identify and exploit relative value opportunities.
+Two Sigma Investments utilizes relative value strategies, relying on advanced computational power and [big data](../b/big_data_in_trading.md) to identify and exploit relative value opportunities.
 
 #### Related Resources
 [Two Sigma Investments](https://twosigma.com/)
@@ -128,11 +128,11 @@ Avenue Capital Group, founded by Marc Lasry, is known for its focus on credit op
 ## Quantitative Strategies
 
 ### Definition
-Quantitative strategies rely heavily on mathematical models, statistical analysis, and [algorithmic trading](../a/algorithmic_trading.md). These strategies use computers to execute trades based on [quantitative analysis](../q/quantitative_analysis.md) of market data.
+[Quantitative strategies](../q/quantitative_strategies_in_trading.md) rely heavily on [mathematical models](../m/mathematical_models_in_trading.md), statistical analysis, and [algorithmic trading](../a/algorithmic_trading.md). These strategies use computers to execute trades based on [quantitative analysis](../q/quantitative_analysis.md) of market data.
 
 ### Mechanism
 - **[Algorithmic Trading](../a/algorithmic_trading.md)**: Computers make decisions and execute trades based on predefined rules.
-- **Big Data**: Analyzing massive data sets including market data, news, and [alternative data](../a/alternative_data.md) sources.
+- **[Big Data](../b/big_data_in_trading.md)**: Analyzing massive data sets including market data, news, and [alternative data](../a/alternative_data.md) sources.
 - **Machine Learning**: Utilizing AI and machine learning to improve models and predict market movements.
 
 ### Examples

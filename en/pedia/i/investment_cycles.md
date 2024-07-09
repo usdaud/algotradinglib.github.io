@@ -22,7 +22,7 @@ During the expansion phase, [algorithmic trading](../a/algorithmic_trading.md) s
 
 ### Peak
 
-At the peak of an investment cycle, markets often exhibit high levels of volatility and uncertainty as they prepare to transition into a downturn. [Algorithmic trading](../a/algorithmic_trading.md) systems deploy various high-frequency trading (HFT) strategies during this phase:
+At the peak of an investment cycle, markets often exhibit high levels of volatility and [uncertainty](../u/uncertainty_in_trading.md) as they prepare to transition into a downturn. [Algorithmic trading](../a/algorithmic_trading.md) systems deploy various high-frequency trading (HFT) strategies during this phase:
 
 - **Statistical [Arbitrage](../a/arbitrage.md)**: This involves taking advantage of pricing inefficiencies between correlated assets.
 - **[Mean Reversion](../m/mean_reversion.md)**: Algorithms apply these strategies assuming that asset prices will revert to their historical means.
@@ -52,11 +52,11 @@ As the market reaches its lowest point, signals indicating a potential recovery 
 
 ## Machine Learning and AI in Investment Cycles
 
-Modern [algorithmic trading](../a/algorithmic_trading.md) intensely leverages machine learning and artificial intelligence to enhance the accuracy and adaptability of [trading strategies](../t/trading_strategies.md). ML algorithms can process vast amounts of data to identify subtle patterns and make predictions about future market movements.
+Modern [algorithmic trading](../a/algorithmic_trading.md) intensely leverages machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance the accuracy and adaptability of [trading strategies](../t/trading_strategies.md). ML algorithms can process vast amounts of data to identify subtle patterns and make predictions about future market movements.
 
 ### Neural Networks
 
-Neural networks, particularly deep learning architectures, are used extensively to model complex relationships in financial data. These systems can be trained to recognize patterns indicative of different phases of investment cycles.
+[Neural networks](../n/neural_networks_in_trading.md), particularly deep learning architectures, are used extensively to model complex relationships in financial data. These systems can be trained to recognize patterns indicative of different phases of investment cycles.
 
 ### Reinforcement Learning
 
@@ -76,7 +76,7 @@ Managing risk is paramount, especially during transitional phases of investment 
 
 ### Two Sigma
 
-Two Sigma uses data science and advanced algorithms to manage over $60 billion in assets. Their platform integrates millions of data points to execute trades consistently profitably across different market conditions. More information can be found at [Two Sigma](https://www.twosigma.com/).
+Two Sigma uses [data science](../d/data_science_in_trading.md) and advanced algorithms to manage over $60 billion in assets. Their platform integrates millions of data points to execute trades consistently profitably across different market conditions. More information can be found at [Two Sigma](https://www.twosigma.com/).
 
 ### Renaissance Technologies
 

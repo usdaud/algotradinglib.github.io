@@ -7,7 +7,7 @@ Open-source trading platforms represent a significant part of the financial tech
 **QuantiConnect** is an open-source platform designed for quant traders and financial engineers. It is built to support the entire trading lifecycle, from strategy creation and [backtesting](../b/backtesting.md) to live trading and performance analysis. 
 
 ### Key Features
-- **[Backtesting](../b/backtesting.md) Environment**: Provides robust simulation capabilities to evaluate [trading strategies](../t/trading_strategies.md) against historical data.
+- **[Backtesting](../b/backtesting.md) Environment**: Provides robust [simulation](../s/simulation_in_trading.md) capabilities to evaluate [trading strategies](../t/trading_strategies.md) against historical data.
 - **Extensible Modularity**: Easy integration of new modules and algorithms.
 - **Comprehensive Data Access**: Supports equities, futures, Forex, and cryptocurrencies data.
 - **Community Collaborations**: Active community of developers and users contributing to the ecosystem.
@@ -43,7 +43,7 @@ Open-source trading platforms represent a significant part of the financial tech
 **PyAlgoTrade** is another Python-based [backtesting](../b/backtesting.md) library designed for event-driven [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Key Features
-- **Event-Driven Architecture**: Facilitates the simulation of market events in real-time.
+- **Event-Driven Architecture**: Facilitates the [simulation](../s/simulation_in_trading.md) of market events in real-time.
 - **[Technical Indicators](../t/technical_indicators.md)**: Includes a variety of [technical indicators](../t/technical_indicators.md) useful for developing strategies.
 - **Broker Integration**: Offers integrations with real-world brokers for live trading.
 - **Easy Extension**: Allows for easy implementation of custom strategies and modules.
@@ -58,7 +58,7 @@ Open-source trading platforms represent a significant part of the financial tech
 - **Extensive [Portfolio Management](../p/portfolio_management.md)**: Manages multiple strategies and portfolios concurrently.
 - **Comprehensive Indicator Library**: In-built library of [technical indicators](../t/technical_indicators.md).
 - **Support for Multiple Data Feeds**: Handles numerous types of data feeds including live and historical data.
-- **Order Execution Customization**: Customizable order execution and order types.
+- **Order Execution Customization**: Customizable order execution and [order types](../o/order_types_in_trading.md).
 
 [Backtrader GitHub Repository](https://github.com/mementum/backtrader)
 

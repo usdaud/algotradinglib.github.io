@@ -18,7 +18,7 @@ OIS contracts are particularly useful for [hedging interest rate risk](../h/hedg
 
 ## Understanding the Libor-OIS Spread
 
-The LIBOR-OIS spread is the difference between the LIBOR rate and the OIS rate for the same maturity. It serves as a gauge of perceived credit risk and liquidity in the interbank market. A widening spread indicates rising credit risk or reduced liquidity, while a narrowing spread suggests improving conditions.
+The LIBOR-OIS spread is the difference between the [LIBOR rate](../l/libor_rate_analysis.md) and the OIS rate for the same maturity. It serves as a gauge of perceived credit risk and liquidity in the interbank market. A widening spread indicates rising credit risk or reduced liquidity, while a narrowing spread suggests improving conditions.
 
 ### Historical Context
 
@@ -29,7 +29,7 @@ The LIBOR-OIS spread gained prominence during the 2008 financial crisis. Typical
 The LIBOR-OIS spread is straightforward to calculate. Suppose the 3-month USD LIBOR is at 0.50%, and the 3-month USD OIS rate is at 0.15%. The LIBOR-OIS spread is:
 
 ```
-LIBOR-OIS Spread = LIBOR Rate - OIS Rate
+LIBOR-OIS Spread = [LIBOR Rate](../l/libor_rate_analysis.md) - OIS Rate
                  = 0.50% - 0.15%
                  = 0.35% or 35 basis points
 ```
@@ -58,7 +58,7 @@ Traders can design algorithms to exploit discrepancies between LIBOR and OIS rat
 
 ### Risk Management
 
-Algo trading platforms can use changes in the LIBOR-OIS spread to dynamically adjust their risk models. A widening spread can prompt models to become more risk-averse, shedding risky assets and increasing holdings in safer instruments.
+Algo trading platforms can use changes in the LIBOR-OIS spread to dynamically adjust their [risk models](../r/risk_models_in_trading.md). A widening spread can prompt models to become more risk-averse, shedding risky assets and increasing holdings in safer instruments.
 
 ### Portfolio Hedging
 

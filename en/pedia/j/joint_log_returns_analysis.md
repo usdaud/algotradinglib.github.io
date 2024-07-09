@@ -20,7 +20,7 @@ Log returns are preferred over simple returns due to their properties of being m
 
 The joint distribution of log returns examines the probability distribution of log returns for multiple assets simultaneously. This analysis helps in understanding the dependencies and correlations between assets. Joint returns can be modeled using multivariate statistical techniques which may include:
 
-- **Multivariate Normal Distribution:** Assumes that the log returns follow a normal distribution jointly. The multivariate normal distribution is characterized by a mean vector and covariance matrix.
+- **Multivariate [Normal Distribution](../n/normal_distribution_in_trading.md):** Assumes that the log returns follow a [normal distribution](../n/normal_distribution_in_trading.md) jointly. The multivariate [normal distribution](../n/normal_distribution_in_trading.md) is characterized by a mean vector and covariance matrix.
   
 - **Copula Functions:** Copulas allow for the modeling of the dependency structure separately from the marginals. This is particularly useful in finance where tail dependencies and non-linear relationships are common.
 
@@ -88,10 +88,10 @@ Joint [log returns analysis](../l/log_returns_analysis.md), especially with larg
 
 ### Software and Tools
 
-Various software tools and libraries facilitate joint [log returns analysis](../l/log_returns_analysis.md), including:
+Various [software tools](../s/software_tools_for_trading.md) and libraries facilitate joint [log returns analysis](../l/log_returns_analysis.md), including:
 - **Python Libraries (NumPy, SciPy, Pandas, statsmodels):** Provide comprehensive tools for statistical analysis and model implementation.
 - **R packages (rugarch, vars, tseries):** Offer robust functionalities for time series and econometric analysis.
-- **MATLAB Toolboxes:** Provide specialized functions for [financial modeling](../f/financial_modeling.md) and econometrics.
+- **MATLAB Toolboxes:** Provide specialized functions for [financial modeling](../f/financial_modeling.md) and [econometrics](../e/econometrics_in_trading.md).
 
 ## Case Study: Diversification and Risk Management
 
@@ -105,7 +105,7 @@ Consider a portfolio composed of stocks from different sectors, bonds, and commo
 
 ### Machine Learning and AI
 
-Integrating machine learning techniques with traditional statistical models enhances the predictive power and adaptability of joint [log returns analysis](../l/log_returns_analysis.md). Techniques like neural networks, reinforcement learning, and ensemble methods are being explored for this purpose.
+Integrating machine learning techniques with traditional statistical models enhances the predictive power and adaptability of joint [log returns analysis](../l/log_returns_analysis.md). Techniques like [neural networks](../n/neural_networks_in_trading.md), reinforcement learning, and ensemble methods are being explored for this purpose.
 
 ### High-Dimensional Data
 

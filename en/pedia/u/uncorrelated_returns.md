@@ -15,7 +15,7 @@ In statistical terms, correlation measures the degree to which two securities or
 #### Algorithmic Strategies
 1. **Statistical [Arbitrage](../a/arbitrage.md):** Statistical [arbitrage](../a/arbitrage.md) involves various market-neutral strategies designed to exploit statistical inefficiencies between different securities. For instance, [pairs trading](../p/pairs_trading.md) considers the relative price movement between two correlated stocks, betting that their historical relationship will revert to the mean.
 2. **Market Neutral Funds:** These funds aim to coordinate long and short positions in such a way that the overall exposure to market risk is minimized. By precisely balancing these positions, market-neutral strategies focus on capturing alpha (returns independent of the market direction).
-3. **Machine Learning Models:** Machine learning and artificial intelligence can develop [trading algorithms](../t/trading_algorithms.md) based on complex patterns and relationships not easily discernible by humans. Neural networks, for example, can identify non-linear patterns in data, providing opportunities for uncorrelated [trading strategies](../t/trading_strategies.md).
+3. **Machine Learning Models:** Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can develop [trading algorithms](../t/trading_algorithms.md) based on complex patterns and relationships not easily discernible by humans. [Neural networks](../n/neural_networks_in_trading.md), for example, can identify non-linear patterns in data, providing opportunities for uncorrelated [trading strategies](../t/trading_strategies.md).
 
 #### Portfolio Management Techniques
 1. **[Asset Allocation](../a/asset_allocation.md):** Diversifying across different asset classes (equities, bonds, commodities, real estate, etc.) is a fundamental way to achieve uncorrelated returns. Each asset class tends to perform differently under varying economic conditions.
@@ -24,7 +24,7 @@ In statistical terms, correlation measures the degree to which two securities or
 
 #### Quantitative Metrics
 1. **Correlation Matrix:** A correlation matrix is a table showing correlation coefficients between variables. It’s a useful tool for identifying relationships between different assets and can help in constructing a portfolio with uncorrelated returns.
-2. **Principal Component Analysis (PCA):** PCA is a statistical technique used to transform correlated variables into a set of uncorrelated variables, known as principal components. This method can help in uncovering the underlying structure of the data and aid in developing uncorrelated [trading strategies](../t/trading_strategies.md).
+2. **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA):** PCA is a statistical technique used to transform correlated variables into a set of uncorrelated variables, known as [principal components](../p/principal_components_in_trading.md). This method can help in uncovering the underlying structure of the data and aid in developing uncorrelated [trading strategies](../t/trading_strategies.md).
 3. **Random Matrix Theory:** This theory helps in distinguishing meaningful correlations from random [noise in financial data](../n/noise_in_financial_data.md). It is particularly useful for constructing portfolios that aim to achieve uncorrelated returns, as it helps to filter out spurious connections between assets.
 
 ### Real-World Examples and Case Studies
@@ -35,7 +35,7 @@ Renaissance Technologies is a hedge fund management company known for its quanti
 **Website:** [Renaissance Technologies](https://www.rentec.com/)
 
 #### Two Sigma
-Two Sigma is another prominent player in the world of [algorithmic trading](../a/algorithmic_trading.md). The firm leverages big data, machine learning, and distributive computing technologies to develop [trading strategies](../t/trading_strategies.md) that aim for uncorrelated returns. Two Sigma's diversified approach spans equities, futures, options, and fixed income instruments, among others.
+Two Sigma is another prominent player in the world of [algorithmic trading](../a/algorithmic_trading.md). The firm leverages [big data](../b/big_data_in_trading.md), machine learning, and distributive computing technologies to develop [trading strategies](../t/trading_strategies.md) that aim for uncorrelated returns. Two Sigma's diversified approach spans equities, futures, options, and fixed income instruments, among others.
 
 **Website:** [Two Sigma](https://www.twosigma.com/)
 

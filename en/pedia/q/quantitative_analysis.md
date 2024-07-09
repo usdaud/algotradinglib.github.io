@@ -10,7 +10,7 @@ Quantitative analysis relies on historical and real-time data to drive decision-
 
 ### Mathematical Models
 
-Mathematical models are at the core of quantitative analysis. These models can range from simple statistical tools to complex machine learning algorithms. The goal is to find patterns or correlations that can predict future market behaviors.
+[Mathematical models](../m/mathematical_models_in_trading.md) are at the core of quantitative analysis. These models can range from simple statistical tools to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md). The goal is to find patterns or correlations that can predict future market behaviors.
 
 ### Backtesting
 
@@ -18,7 +18,7 @@ Before deploying a trading strategy, quants use [backtesting](../b/backtesting.m
 
 ### Risk Management
 
-Quantitative analysis also incorporates [risk management](../r/risk_management.md) techniques to minimize potential losses. This includes using mathematical models to calculate various [risk metrics](../r/risk_metrics.md) such as Value at Risk (VaR) and Conditional Value at Risk (CVaR).
+Quantitative analysis also incorporates [risk management](../r/risk_management.md) techniques to minimize potential losses. This includes using [mathematical models](../m/mathematical_models_in_trading.md) to calculate various [risk metrics](../r/risk_metrics.md) such as Value at Risk (VaR) and Conditional Value at Risk (CVaR).
 
 ## Methodologies in Quantitative Analysis
 
@@ -28,15 +28,15 @@ Quantitative analysis also incorporates [risk management](../r/risk_management.m
 
 ### Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) is a trading strategy that seeks to exploit inefficiencies between related financial instruments. This method involves creating mathematical models to identify and capitalize on price discrepancies.
+Statistical [arbitrage](../a/arbitrage.md) is a trading strategy that seeks to exploit inefficiencies between related financial instruments. This method involves creating [mathematical models](../m/mathematical_models_in_trading.md) to identify and capitalize on price discrepancies.
 
 ### Machine Learning
 
-Machine learning algorithms can process vast amounts of data to learn patterns and make predictions. Techniques like supervised learning, unsupervised learning, and reinforcement learning are often employed in quantitative analysis.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can process vast amounts of data to learn patterns and make predictions. Techniques like supervised learning, unsupervised learning, and reinforcement learning are often employed in quantitative analysis.
 
 ### Factor Analysis
 
-[Factor analysis](../f/factor_analysis.md) aims to identify underlying variables, or factors, that influence asset prices. This can involve techniques like Principal Component Analysis (PCA) to reduce data dimensionality and isolate significant factors.
+[Factor analysis](../f/factor_analysis.md) aims to identify underlying variables, or factors, that influence asset prices. This can involve techniques like [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) to reduce data dimensionality and isolate significant factors.
 
 ## Key Players in Quantitative Analysis
 
@@ -60,7 +60,7 @@ Website: [Two Sigma](https://www.twosigma.com/)
 
 ### Citadel
 
-Citadel employs a combination of fundamental and quantitative analysis to manage its [trading strategies](../t/trading_strategies.md), using data science and engineering extensively in its approach.
+Citadel employs a combination of fundamental and quantitative analysis to manage its [trading strategies](../t/trading_strategies.md), using [data science](../d/data_science_in_trading.md) and engineering extensively in its approach.
 
 Website: [Citadel](https://www.citadelsecurities.com/)
 
@@ -88,4 +88,4 @@ Quantitative analysis is also used in [portfolio optimization](../p/portfolio_op
 
 ## Conclusion
 
-Quantitative analysis in [algorithmic trading](../a/algorithmic_trading.md) is a multifaceted field that combines data science, mathematical modeling, and financial theory. Its applications are vast, ranging from high-frequency trading to [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md). The success of quantitative analysis hinges on the quality of data, the robustness of the algorithms, and the ability to adapt to changing market conditions. As technology continues to advance, the role of quantitative analysis in financial markets is likely to become even more significant, offering new opportunities and challenges for traders and investors alike.
+Quantitative analysis in [algorithmic trading](../a/algorithmic_trading.md) is a multifaceted field that combines [data science](../d/data_science_in_trading.md), mathematical modeling, and financial theory. Its applications are vast, ranging from high-frequency trading to [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md). The success of quantitative analysis hinges on the quality of data, the robustness of the algorithms, and the ability to adapt to changing market conditions. As technology continues to advance, the role of quantitative analysis in financial markets is likely to become even more significant, offering new opportunities and challenges for traders and investors alike.

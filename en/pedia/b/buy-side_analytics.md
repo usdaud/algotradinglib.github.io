@@ -19,7 +19,7 @@ Historical market data is crucial for [backtesting](../b/backtesting.md) [tradin
 [Alternative data](../a/alternative_data.md) encompasses non-traditional data sets that can offer additional insights into market trends and asset performance. Examples include satellite imagery showing factory activity, social media [sentiment analysis](../s/sentiment_analysis.md), web scraping for news articles, and credit card transaction data.
 
 ### 2. Quantitative Modeling and Risk Management
-Quantitative modeling involves the use of statistical and mathematical models to identify trading opportunities, assess risks, and optimize portfolios. [Risk management](../r/risk_management.md) processes are integral to safeguard investment portfolios from significant losses.
+Quantitative modeling involves the use of statistical and [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities, assess risks, and optimize portfolios. [Risk management](../r/risk_management.md) processes are integral to safeguard investment portfolios from significant losses.
 
 #### a. Statistical Arbitrage
 Statistical [arbitrage](../a/arbitrage.md) strategies exploit short-term price discrepancies between correlated assets. These models often rely on mean-reversion principles and require rigorous statistical analysis to identify and capitalize on temporary mispricings.
@@ -74,19 +74,19 @@ Python, with its extensive libraries (e.g., pandas, NumPy, scikit-learn), is wid
 R is another powerful tool for statistical computing and graphics, favored by many quantitative analysts and data scientists. It provides a comprehensive environment for data manipulation, statistical modeling, and visualization.
 
 ### 3. High-Performance Computing (HPC)
-High-performance computing resources are essential for processing large volumes of data and running complex simulations. Cloud computing platforms such as Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure offer scalable HPC solutions for buy-side firms.
+High-performance computing resources are essential for processing large volumes of data and running complex simulations. [Cloud computing](../c/cloud_computing_in_trading.md) platforms such as Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure offer scalable HPC solutions for buy-side firms.
 
 ### 4. Machine Learning and AI
-Machine learning and artificial intelligence (AI) techniques have become increasingly integral to buy-side analytics. AI can uncover complex patterns in data and enhance predictive accuracy for [trading models](../t/trading_models.md).
+Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques have become increasingly integral to buy-side analytics. AI can uncover complex patterns in data and enhance predictive accuracy for [trading models](../t/trading_models.md).
 
 #### a. Supervised Learning
-Supervised learning algorithms, such as regression and classification models, are used to predict asset prices, identify [trading signals](../t/trading_signals.md), and categorize market regimes based on historical data.
+Supervised [learning algorithms](../l/learning_algorithms_in_trading.md), such as regression and classification models, are used to predict asset prices, identify [trading signals](../t/trading_signals.md), and categorize market regimes based on historical data.
 
 #### b. Unsupervised Learning
-Unsupervised learning techniques, such as clustering and dimensionality reduction, help in identifying hidden structures and relationships within data sets, leading to novel insights and potential trading opportunities.
+Unsupervised learning techniques, such as clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md), help in identifying hidden structures and relationships within data sets, leading to novel insights and potential trading opportunities.
 
 #### c. Reinforcement Learning
-Reinforcement learning algorithms optimize [trading strategies](../t/trading_strategies.md) by learning from interactions with the market environment. They adapt and self-improve based on the feedback received from each trading decision's outcomes.
+Reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) optimize [trading strategies](../t/trading_strategies.md) by learning from interactions with the market environment. They adapt and self-improve based on the feedback received from each trading decision's outcomes.
 
 ### 5. Visualization and Dashboard Tools
 Effective visualization and dashboard tools help in interpreting complex data and making informed decisions. Examples include Tableau, Power BI, and custom-built dashboards using JavaScript libraries such as D3.js.
@@ -103,7 +103,7 @@ Asset management firms leverage buy-side analytics to maximize returns for their
 Hedge funds employ complex [algorithmic trading](../a/algorithmic_trading.md) strategies and [quantitative models](../q/quantitative_models.md) to achieve alpha (excess returns) and manage risks. They often utilize high-frequency trading, statistical [arbitrage](../a/arbitrage.md), and machine learning models to capitalize on market inefficiencies.
 
 #### Example: Two Sigma
-[Two Sigma](https://www.twosigma.com) is a prominent hedge fund known for its quantitative and technology-driven approach to investment management. They leverage data science, machine learning, and distributed computing to develop sophisticated [trading algorithms](../t/trading_algorithms.md) and models.
+[Two Sigma](https://www.twosigma.com) is a prominent hedge fund known for its quantitative and technology-driven approach to investment management. They leverage [data science](../d/data_science_in_trading.md), machine learning, and distributed computing to develop sophisticated [trading algorithms](../t/trading_algorithms.md) and models.
 
 ### 3. Mutual Funds
 Mutual funds use buy-side analytics to create diversified portfolios that align with various investment objectives, from conservative income generation to aggressive growth. [Quantitative analysis](../q/quantitative_analysis.md) helps them allocate assets effectively and monitor ongoing performance.

@@ -31,7 +31,7 @@ Bond markets provide a platform for the issuance and trading of debt securities.
 ### 5. **Cryptocurrency Markets**
 Cryptocurrency markets have emerged as a new kind of market where digital assets such as Bitcoin and Ethereum are traded.
 
-- **Centralized Exchanges (CEX)**: Platforms like Binance and Coinbase operate under a centralized authority.
+- **Centralized Exchanges (CEX)**: Platforms like [Binance](../b/binance.md) and [Coinbase](../c/coinbase.md) operate under a centralized authority.
 - **Decentralized Exchanges (DEX)**: Platforms like Uniswap operate without a central authority.
 
 ## Market Segmentation

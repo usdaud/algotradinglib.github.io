@@ -1,19 +1,19 @@
 # Quantitative Risk Management
 
-Quantitative [Risk Management](../r/risk_management.md) (QRM) is a field that involves the application of mathematical models and statistical techniques to assess and manage risk in financial markets. This discipline leverages technology, computer science, and advanced analytics to quantify risk factors, manage exposure, and improve decision-making in various sectors, mainly within finance and insurance.
+Quantitative [Risk Management](../r/risk_management.md) (QRM) is a field that involves the application of [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to assess and manage risk in financial markets. This discipline leverages technology, computer science, and advanced analytics to quantify [risk factors](../r/risk_factors_in_trading.md), manage exposure, and improve decision-making in various sectors, mainly within finance and insurance.
 
 ## Key Concepts in Quantitative Risk Management
 
 ### Risk Identification
-Risk identification is the first step in the [risk management](../r/risk_management.md) process. It involves recognizing potential risk factors that can adversely affect the organization. These risks can be market-related, credit-related, operational, or even related to external factors such as economic or political changes.
+Risk identification is the first step in the [risk management](../r/risk_management.md) process. It involves recognizing potential [risk factors](../r/risk_factors_in_trading.md) that can adversely affect the organization. These risks can be market-related, credit-related, operational, or even related to external factors such as economic or political changes.
 
 ### Risk Measurement
-Risk measurement involves quantifying the identified risks using statistical and mathematical models. Common risk measurement tools include:
+Risk measurement involves quantifying the identified risks using statistical and [mathematical models](../m/mathematical_models_in_trading.md). Common risk measurement tools include:
 
 - **Value at Risk (VaR):** A statistical technique used to measure the maximum potential loss over a specific time period at a given confidence level.
 - **Conditional Value at Risk (CVaR):** Also called Expected Shortfall, this measures the average loss exceeding the VaR, providing a sense of the [tail risk](../t/tail_risk.md).
 - **Standard Deviation and Variance:** Measures of the dispersion of returns, indicating the volatility of asset prices.
-- **[Monte Carlo Simulation](../m/monte_carlo_simulation.md):** A computational technique that uses random sampling to assess the impact of risk and uncertainty in decision-making.
+- **[Monte Carlo Simulation](../m/monte_carlo_simulation.md):** A computational technique that uses random sampling to assess the impact of risk and [uncertainty](../u/uncertainty_in_trading.md) in decision-making.
 
 ### Risk Management Strategies
 [Risk management](../r/risk_management.md) strategies involve planning and implementing actions to mitigate or transfer risk. These strategies might include:
@@ -29,16 +29,16 @@ Continuous monitoring of risk is critical to ensure that risk levels remain with
 ## Role of Technology in Quantitative Risk Management
 
 ### Data Analytics
-Big Data and advanced analytics play a pivotal role in QRM. They enable the processing of vast amounts of data to identify trends, [pattern recognition](../p/pattern_recognition.md), and [anomaly detection](../a/anomaly_detection.md).
+[Big Data](../b/big_data_in_trading.md) and advanced analytics play a pivotal role in QRM. They enable the processing of vast amounts of data to identify trends, [pattern recognition](../p/pattern_recognition.md), and [anomaly detection](../a/anomaly_detection.md).
 
 ### Machine Learning Models
-Machine learning models can predict potential risks by analyzing historical data and uncovering hidden correlations. Techniques such as classification, regression, clustering, and neural networks are frequently used.
+Machine learning models can predict potential risks by analyzing historical data and uncovering hidden correlations. Techniques such as classification, regression, clustering, and [neural networks](../n/neural_networks_in_trading.md) are frequently used.
 
 ### Automated Trading Systems
 [Algorithmic trading](../a/algorithmic_trading.md) systems can execute trades based on predefined criteria, minimizing human error and emotional biases. These systems analyze market conditions and optimize [trading strategies](../t/trading_strategies.md) in real-time.
 
 ### Cloud Computing
-Cloud computing offers scalable and flexible resources for conducting complex computations, simulations, and storing large datasets essential for QRM.
+[Cloud computing](../c/cloud_computing_in_trading.md) offers scalable and flexible resources for conducting complex computations, simulations, and storing large datasets essential for QRM.
 
 ## Application of Quantitative Risk Management
 

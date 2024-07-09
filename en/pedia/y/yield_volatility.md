@@ -14,7 +14,7 @@ Economic data releases, such as Gross Domestic Product (GDP), unemployment rates
 
 ### Market Sentiment
 
-Bond markets, like other financial markets, are subject to investor sentiment. Changes in risk appetite, [geopolitical events](../g/geopolitical_events.md), and broader market developments can create fluctuations in bond yields. In times of uncertainty or market stress, investors often flock to safe-haven assets like government bonds, driving prices up and yields down. Conversely, in bullish environments, yields might rise as investors move towards riskier assets.
+Bond markets, like other financial markets, are subject to investor sentiment. Changes in risk appetite, [geopolitical events](../g/geopolitical_events.md), and broader market developments can create fluctuations in bond yields. In times of [uncertainty](../u/uncertainty_in_trading.md) or market stress, investors often flock to safe-haven assets like government bonds, driving prices up and yields down. Conversely, in bullish environments, yields might rise as investors move towards riskier assets.
 
 ## Measuring Yield Volatility
 
@@ -56,7 +56,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies involve identifying and ex
 
 ### Machine Learning Models
 
-Advanced machine learning algorithms can predict yield volatility patterns using historical data and real-time information. By analyzing large datasets, machine learning models can offer insights into future yield movements, which [algorithmic trading](../a/algorithmic_trading.md) systems can then act upon.
+Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can predict yield volatility patterns using historical data and real-time information. By analyzing large datasets, machine learning models can offer insights into future yield movements, which [algorithmic trading](../a/algorithmic_trading.md) systems can then act upon.
 
 ### Risk Management in Algo-Trading
 

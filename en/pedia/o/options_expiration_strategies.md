@@ -60,7 +60,7 @@ Effective [risk management](../r/risk_management.md) is paramount during options
 
 Modern trading platforms offer sophisticated tools for options expiration strategies. Among the noteworthy ones are:
 - **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Renowned for its comprehensive options analysis tools and customizable strategies (source: [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)).
-- **Interactive Brokers (IBKR)**: Offers a robust set of tools for options trading, including options analytics and [risk management](../r/risk_management.md) features (source: [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=optionshedgehog&p=options)).
+- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR)**: Offers a robust set of tools for options trading, including options analytics and [risk management](../r/risk_management.md) features (source: [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=optionshedgehog&p=options)).
 - **Tastyworks**: Designed specifically for options traders, providing intuitive tools and commission-free trading (source: [Tastyworks](https://tastyworks.com/)).
 
 ## Conclusion

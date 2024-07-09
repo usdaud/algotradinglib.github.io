@@ -32,7 +32,7 @@ Operational hedging involves using various financial instruments to mitigate ide
 ### 1. Development Phase
 The first step involves developing the algorithms that will drive the [trading strategies](../t/trading_strategies.md). This requires collaboration between financial analysts, data scientists, and software engineers to create robust models.
 
-- **Model Building:** Developing statistical and mathematical models to forecast market behaviors and risk profiles.
+- **Model Building:** Developing statistical and [mathematical models](../m/mathematical_models_in_trading.md) to forecast market behaviors and risk profiles.
 - **[Backtesting](../b/backtesting.md):** Simulating the algorithms using historical data to evaluate their performance and refine their accuracy.
 - **Optimization:** Fine-tuning algorithms to maximize efficiency and effectiveness in live market conditions.
 

@@ -11,22 +11,22 @@ Computational finance is a discipline that combines computer science, finance, s
    - Common strategies include high-frequency trading (HFT), statistical [arbitrage](../a/arbitrage.md), and [algorithmic execution](../a/algorithmic_execution.md) strategies.
 
 2. **[Financial Modeling](../f/financial_modeling.md):**
-   - Involves creating abstract representations of financial markets and instruments. Models can take various forms, such as predictive models for stock prices, risk models for [portfolio management](../p/portfolio_management.md), and [valuation models](../v/valuation_models.md) for [derivatives](../d/derivatives.md).
+   - Involves creating abstract representations of financial markets and instruments. Models can take various forms, such as [predictive models](../p/predictive_models_in_trading.md) for stock prices, [risk models](../r/risk_models_in_trading.md) for [portfolio management](../p/portfolio_management.md), and [valuation models](../v/valuation_models.md) for [derivatives](../d/derivatives.md).
 
 3. **[Quantitative Finance](../q/quantitative_finance.md):**
-   - This subfield uses mathematical models to develop and analyze financial strategies. Quantitative analysts (quants) use techniques from probability theory, statistics, and applied mathematics to solve financial problems.
+   - This subfield uses [mathematical models](../m/mathematical_models_in_trading.md) to develop and analyze financial strategies. Quantitative analysts (quants) use techniques from [probability theory](../p/probability_theory_in_trading.md), statistics, and applied mathematics to solve financial problems.
 
 4. **[Risk Management](../r/risk_management.md):**
-   - Computational finance techniques are used to measure and manage financial risk. This includes market risk, credit risk, and operational risk. Tools such as Value at Risk (VaR) models, stress testing, and scenario analysis are commonly used.
+   - Computational finance techniques are used to measure and manage financial risk. This includes market risk, credit risk, and operational risk. Tools such as Value at Risk (VaR) models, [stress testing](../s/stress_testing_in_trading.md), and scenario analysis are commonly used.
 
 5. **Derivative Pricing:**
-   - [Derivatives](../d/derivatives.md) are financial instruments whose value is derived from the value of other underlying assets. Pricing [derivatives](../d/derivatives.md) accurately requires complex mathematical models such as the [Black-Scholes model](../b/black-scholes_model.md), [stochastic calculus](../s/stochastic_calculus.md), and Monte Carlo simulations.
+   - [Derivatives](../d/derivatives.md) are financial instruments whose value is derived from the value of other underlying assets. Pricing [derivatives](../d/derivatives.md) accurately requires complex [mathematical models](../m/mathematical_models_in_trading.md) such as the [Black-Scholes model](../b/black-scholes_model.md), [stochastic calculus](../s/stochastic_calculus.md), and Monte Carlo simulations.
 
 6. **[Portfolio Optimization](../p/portfolio_optimization.md):**
    - This involves selecting a mix of assets that maximizes returns for a given level of risk. Techniques such as [Mean-Variance Optimization](../m/mean-variance_optimization.md), the Capital Asset Pricing Model (CAPM), and Black-Litterman models are commonly used.
 
 7. **Machine Learning in Finance:**
-   - Machine learning algorithms are increasingly being applied to financial problems. These techniques can uncover patterns in large datasets, improve [trading strategies](../t/trading_strategies.md), and enhance [risk management](../r/risk_management.md).
+   - Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being applied to financial problems. These techniques can uncover patterns in large datasets, improve [trading strategies](../t/trading_strategies.md), and enhance [risk management](../r/risk_management.md).
 
 **Key Players and Tools**
 
@@ -35,7 +35,7 @@ Computational finance is a discipline that combines computer science, finance, s
    - **Link:** [QuantLib](https://www.quantlib.org/)
 
 2. **Commercial Software:**
-   - **MATLAB:** Widely used in academics and industry for mathematical modeling, analysis, and simulation.
+   - **MATLAB:** Widely used in academics and industry for mathematical modeling, analysis, and [simulation](../s/simulation_in_trading.md).
    - **Link:** [MATLAB](https://www.mathworks.com/products/matlab.html)
    - **[Bloomberg](../b/bloomberg.md) Terminal:** Provides [real-time market data](../r/real-time_market_data.md), news, and analytics. It is an essential tool for financial professionals.
    - **Link:** [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
@@ -55,10 +55,10 @@ Computational finance is a discipline that combines computer science, finance, s
    - Methods dealing with sequences of random variables. These are used extensively in modeling stock prices and interest rates.
 
 3. **Optimization Algorithms:**
-   - Techniques such as linear programming, quadratic programming, and evolutionary algorithms are employed to solve optimization problems in finance.
+   - Techniques such as [linear programming](../l/linear_programming_in_trading.md), quadratic programming, and evolutionary algorithms are employed to solve optimization problems in finance.
    - **Example:** The Markowitz [Efficient Frontier](../e/efficient_frontier.md) is a common optimization approach to identify optimal portfolios.
 
-4. **Numerical Methods:**
+4. **[Numerical Methods](../n/numerical_methods_in_trading.md):**
    - [Finite difference methods](../f/finite_difference_methods.md), binomial and trinomial tree methods, and finite element methods are often used for solving partial differential equations that arise in derivative pricing.
 
 **Applications and Trends**
@@ -69,8 +69,8 @@ Computational finance is a discipline that combines computer science, finance, s
 2. **Robo-Advisors:**
    - Platforms that provide automated, algorithm-driven [financial planning](../f/financial_planning.md) services with little to no human supervision. They use algorithms to manage client portfolios based on their risk preferences and goals.
 
-3. **Blockchain and Cryptocurrencies:**
-   - Computational finance techniques are being applied to the analysis and trading of cryptocurrencies. Blockchain technology can also streamline processes such as settlement and clearing.
+3. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies:**
+   - Computational finance techniques are being applied to the analysis and trading of cryptocurrencies. [Blockchain](../b/blockchain_in_trading.md) technology can also streamline processes such as settlement and clearing.
 
 4. **RegTech:**
    - The application of technology to meet regulatory requirements and ensure compliance in financial services. This includes [risk management](../r/risk_management.md) and monitoring of market abuses.
@@ -78,7 +78,7 @@ Computational finance is a discipline that combines computer science, finance, s
 **Challenges**
 
 1. **Model Risk:**
-   - The risk that a financial model may fail or perform poorly. Ensuring model validation and stress testing is essential to mitigate this risk.
+   - The risk that a financial model may fail or perform poorly. Ensuring model validation and [stress testing](../s/stress_testing_in_trading.md) is essential to mitigate this risk.
 
 2. **Data Quality:**
    - Reliable and high-quality data is critical for model accuracy. Issues such as missing data, incorrect data, and data lag can affect results.
@@ -97,7 +97,7 @@ Computational finance is an ever-evolving field that continues to push the bound
 
 1. **Books:**
    - "Options, Futures, and Other [Derivatives](../d/derivatives.md)" by John C. Hull
-   - "[Quantitative Finance](../q/quantitative_finance.md): A Simulation-Based Introduction Using Excel" by Matt Davison
+   - "[Quantitative Finance](../q/quantitative_finance.md): A [Simulation](../s/simulation_in_trading.md)-Based Introduction Using Excel" by Matt Davison
    - "Mathematics of Financial Markets" by Robert J. Elliott and P. Ekkehard Kopp
 
 2. **Journals:**
@@ -107,8 +107,8 @@ Computational finance is an ever-evolving field that continues to push the bound
 
 3. **Online Courses:**
    - Coursera: [Financial Engineering](../f/financial_engineering.md) and [Risk Management](../r/risk_management.md)
-   - edX: Data Science and Computational Finance by MIT
-   - Udacity: Artificial Intelligence for Trading
+   - edX: [Data Science](../d/data_science_in_trading.md) and Computational Finance by MIT
+   - Udacity: [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) for Trading
 
 **Organizations and Conferences**
 

@@ -122,7 +122,7 @@ Many trading platforms support X-Moving Average techniques. Examples include:
 ### 3.1 Advantages
 
 - **Responsiveness:** More responsive to recent price changes.
-- **Smoothness:** Maintains smooth curves, reducing false signals.
+- **Smoothness:** Maintains smooth curves, reducing [false signals](../f/false_signals_in_trading.md).
 - **Customization:** Varying degrees of weight and periods allow for tailored strategies.
 
 ### 3.2 Disadvantages

@@ -18,11 +18,11 @@ Quantitative forecasting methods can be broadly categorized into two main types:
 
 #### Causal Models
 
-Causal models assume that the variable to be forecasted is influenced by one or more other variables. These are often referred to as exogenous variables. Common causal models include:
+Causal models assume that the variable to be forecasted is influenced by one or more other variables. These are often referred to as [exogenous variables](../e/exogenous_variables_in_trading.md). Common causal models include:
 
 1. **[Linear Regression](../l/linear_regression.md):** Establishes a relationship between a dependent variable and one or more independent variables using a linear equation.
 2. **Multiple Regression:** An extension of [linear regression](../l/linear_regression.md) that involves more than one independent variable.
-3. **Econometric Models:** Utilize multiple [regression techniques](../r/regression_techniques.md) and advanced econometrics to build models for complex systems, often involving multiple time-dependent and interrelated variables.
+3. **Econometric Models:** Utilize multiple [regression techniques](../r/regression_techniques.md) and advanced [econometrics](../e/econometrics_in_trading.md) to build models for complex systems, often involving multiple time-dependent and interrelated variables.
 
 ### Applications of Quantitative Forecasting
 
@@ -68,22 +68,22 @@ Some sophisticated models, especially those involving large datasets or multiple
 
 Machine learning (ML) techniques have revolutionized quantitative forecasting by enabling more accurate and robust predictions. Some popular ML approaches include:
 
-- **Random Forests:** An [ensemble learning](../e/ensemble_learning.md) method that builds multiple [decision trees](../d/decision_trees.md) and merges them to improve accuracy.
-- **Support Vector Machines (SVM):** A supervised learning model that finds the hyperplane that best separates data into classes.
-- **Neural Networks:** Computational models inspired by the human brain, capable of capturing complex patterns through hidden layers and non-linear activations.
-- **Recurrent Neural Networks (RNN):** A type of neural network particularly suited for time series data as they incorporate memory of previous inputs.
+- **[Random Forests](../r/random_forests_in_trading.md):** An [ensemble learning](../e/ensemble_learning.md) method that builds multiple [decision trees](../d/decision_trees.md) and merges them to improve accuracy.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** A supervised learning model that finds the hyperplane that best separates data into classes.
+- **[Neural Networks](../n/neural_networks_in_trading.md):** Computational models inspired by the human brain, capable of capturing complex patterns through hidden layers and non-linear activations.
+- **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNN):** A type of neural network particularly suited for time series data as they incorporate memory of previous inputs.
 
 #### Big Data Analytics
 
-With the advent of big data, it is now possible to analyze vast datasets that capture more diverse and granular patterns. Tools like Hadoop and Apache Spark, along with languages such as Python and R, make it feasible to process and model large-scale data for forecasting purposes.
+With the advent of [big data](../b/big_data_in_trading.md), it is now possible to analyze vast datasets that capture more diverse and granular patterns. Tools like Hadoop and Apache Spark, along with languages such as Python and R, make it feasible to process and model large-scale data for forecasting purposes.
 
 #### Cloud-Based Solutions
 
-The proliferation of cloud computing has made advanced forecasting accessible to businesses of all sizes. Services like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform offer scalable resources and tools for implementing quantitative [forecasting models](../f/forecasting_models.md).
+The proliferation of [cloud computing](../c/cloud_computing_in_trading.md) has made advanced forecasting accessible to businesses of all sizes. Services like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform offer scalable resources and tools for implementing quantitative [forecasting models](../f/forecasting_models.md).
 
 ### Conclusion
 
-Quantitative forecasting represents a vital component in strategic planning and decision-making across multiple fields. Its data-driven nature provides a reliable basis for prediction, but it also poses several challenges that need to be addressed. The integration of machine learning, big data, and cloud computing is pushing the boundaries of what is possible, making quantitative forecasting an ever-evolving discipline. As technology advances, the tools and techniques available for quantitative forecasting will continue to improve, offering more accurate and actionable insights.
+Quantitative forecasting represents a vital component in strategic planning and decision-making across multiple fields. Its data-driven nature provides a reliable basis for prediction, but it also poses several challenges that need to be addressed. The integration of machine learning, [big data](../b/big_data_in_trading.md), and [cloud computing](../c/cloud_computing_in_trading.md) is pushing the boundaries of what is possible, making quantitative forecasting an ever-evolving discipline. As technology advances, the tools and techniques available for quantitative forecasting will continue to improve, offering more accurate and actionable insights.
 
 For more information on [quantitative finance](../q/quantitative_finance.md) models and [trading algorithms](../t/trading_algorithms.md), you can visit Renaissance Technologies [here](https://www.rentec.com/).
 For information on supply chain solutions, visit SAP IBP [here](https://www.sap.com/products/integrated-business-planning.html).

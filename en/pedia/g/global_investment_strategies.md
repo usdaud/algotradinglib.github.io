@@ -28,7 +28,7 @@ Technical analysts study past market data, primarily price and volume, to foreca
 
 ### Economic Indicators
 
-[Economic indicators](../e/economic_indicators.md) such as GDP growth rates, unemployment rates, and inflation can provide insights into the future direction of markets. Investors use these indicators to make informed decisions about when to enter or exit the market.
+[Economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), unemployment rates, and inflation can provide insights into the future direction of markets. Investors use these indicators to make informed decisions about when to enter or exit the market.
 
 ## Value Investing
 

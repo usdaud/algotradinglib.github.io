@@ -9,7 +9,7 @@ Whipsaw detection is a critical aspect of [algorithmic trading](../a/algorithmic
 Whipsaws are characterized by sharp price movements followed by an immediate reversal. They often occur during periods of unpredictable market volatility and can be exacerbated by factors such as high-frequency trading, lack of liquidity, or major news announcements. The primary characteristics include:
 - A rapid and significant price movement in one direction, usually followed quickly by a sharp reversal.
 - Occurrence in short time frames, making them particularly hazardous for intraday trades.
-- Creation of false signals that can mislead trend-following algorithms.
+- Creation of [false signals](../f/false_signals_in_trading.md) that can mislead trend-following algorithms.
 
 ### Causes
 
@@ -27,7 +27,7 @@ Algorithmic detection of whipsaws generally relies on advanced indicators and st
 
 The crossover of short-term and long-term moving averages can sometimes indicate whipsaw events. Popular strategies include:
 - Simple Moving Averages (SMA) and Exponential Moving Averages (EMA) are often used with crossover techniques.
-- They may generate false signals during whipsaws, requiring additional filtration or adaptive techniques to discern true price trends.
+- They may generate [false signals](../f/false_signals_in_trading.md) during whipsaws, requiring additional filtration or adaptive techniques to discern true price trends.
 
 ### Bollinger Bands
 
@@ -65,7 +65,7 @@ Machine learning models have emerged as powerful tools for whipsaw detection:
 
 ### Enhanced Signal Processing
 
-Applying advanced signal processing techniques helps to reduce noise and false signals:
+Applying advanced [signal processing](../s/signal_processing_in_trading.md) techniques helps to reduce noise and [false signals](../f/false_signals_in_trading.md):
 - **Kalman Filters:** These can smooth out price data, thus reducing volatility artifacts and improving trend detection.
 - **Wavelet Transforms:** Multi-resolution analysis can capture different frequency components of price data, helping to differentiate between noise and trends.
 
@@ -100,7 +100,7 @@ Detecting and mitigating whipsaws remains challenging due to:
 
 ### High-frequency Data Noise
 
-The presence of noise in high-frequency data can produce false signals:
+The presence of noise in high-frequency data can produce [false signals](../f/false_signals_in_trading.md):
 - Advanced filtering techniques and noise reduction algorithms are required to accurately identify true signals.
 
 ### Adaptive Market Behavior

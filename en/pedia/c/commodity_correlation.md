@@ -44,7 +44,7 @@ Where:
 Traders and analysts often use historical data to calculate commodity correlations. By examining past price movements, one can assess the stability and strength of correlations over different periods. However, historical correlations may not always predict future relationships due to changing market conditions.
 
 ### Advanced Statistical Methods
-Machine learning algorithms and econometric models can also be employed to forecast and analyze commodity correlations. Techniques like Principal Component Analysis (PCA) and Vector Autoregression (VAR) help in identifying underlying factors driving correlations and in making more accurate predictions.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) and econometric models can also be employed to forecast and analyze commodity correlations. Techniques like [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) and Vector Autoregression (VAR) help in identifying underlying factors driving correlations and in making more accurate predictions.
 
 ## Practical Applications
 
@@ -100,7 +100,7 @@ Accurate [correlation analysis](../c/correlation_analysis.md) relies on high-qua
 While historical [correlation analysis](../c/correlation_analysis.md) provides valuable insights, it may not always predict future trends. Over-reliance on past data can lead to misleading conclusions, especially in rapidly changing markets.
 
 ### External Shocks
-Unpredictable external shocks such as natural disasters, geopolitical tensions, and pandemics can disrupt commodity correlations. These events introduce additional uncertainty and complexity into [correlation analysis](../c/correlation_analysis.md).
+Unpredictable external shocks such as natural disasters, geopolitical tensions, and pandemics can disrupt commodity correlations. These events introduce additional [uncertainty](../u/uncertainty_in_trading.md) and complexity into [correlation analysis](../c/correlation_analysis.md).
 
 ## Conclusion
 

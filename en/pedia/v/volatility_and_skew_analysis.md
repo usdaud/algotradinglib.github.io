@@ -24,7 +24,7 @@ Volatility can be measured using different models and approaches. Common methods
 
 ### Impact on Trading Strategies
 
-1. **Market Making**: High volatility can reduce profit margins for market makers due to larger bid-ask spreads and increased risk of inventory positions.
+1. **Market Making**: High volatility can reduce [profit margins](../p/profit_margins_in_trading.md) for market makers due to larger bid-ask spreads and increased risk of inventory positions.
 
 2. **[Arbitrage](../a/arbitrage.md)**: Strategies like statistical [arbitrage](../a/arbitrage.md) may thrive in volatile markets due to increased mispricing opportunities.
 
@@ -34,7 +34,7 @@ Volatility can be measured using different models and approaches. Common methods
 
 ### Risk Management
 
-1. **[Position Sizing](../p/position_sizing.md)**: Adjusting position sizes based on volatility (e.g., using the ATR - Average True Range) to manage risk proportionally to market conditions.
+1. **[Position Sizing](../p/position_sizing.md)**: Adjusting position sizes based on volatility (e.g., using the ATR - [Average True Range](../a/average_true_range_(atr).md)) to manage risk proportionally to market conditions.
 
 2. **Stop-Loss Adjustments**: Implementing dynamic stop losses that adapt to volatility levels to avoid premature exits.
 
@@ -74,11 +74,11 @@ Skewness measures the asymmetry of the probability distribution of returns. [Pos
 
 1. **Tail-[Risk Management](../r/risk_management.md)**: Understanding skewness helps in preparing for tail risks. For instance, a negatively skewed portfolio needs adequate protection against significant adverse movements.
 
-2. **Stress Testing**: Skew analysis assists in stress-testing portfolios against extreme market events, ensuring readiness for unlikely but impactful scenarios.
+2. **[Stress Testing](../s/stress_testing_in_trading.md)**: Skew analysis assists in stress-testing portfolios against extreme market events, ensuring readiness for unlikely but impactful scenarios.
 
 ### Algorithm Calibration
 
-1. **Probability Distributions**: Incorporating skewness in modeling return distributions can enhance predictive accuracy and trading efficiency.
+1. **[Probability Distributions](../p/probability_distributions_in_trading.md)**: Incorporating skewness in modeling return distributions can enhance predictive accuracy and trading efficiency.
 
 2. **[Performance Metrics](../p/performance_metrics.md)**: Evaluating strategy performance not just on returns but also on skew-adjusted considerations to ensure robustness against skew influences.
 
@@ -140,13 +140,13 @@ Skewness measures the asymmetry of the probability distribution of returns. [Pos
 
 1. **[Predictive Modeling](../p/predictive_modeling.md)**: Integration of machine learning techniques to enhance volatility and skew prediction models, allowing more accurate forecasting and sophisticated strategy deployment.
 
-2. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using natural language processing (NLP) to gauge market sentiment through news and social media, thereby refining skew analysis models.
+2. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to gauge market sentiment through news and social media, thereby refining skew analysis models.
 
 ### High-Frequency Trading (HFT)
 
 1. **Real-Time Adjustments**: HFT algorithms continually updating based on [real-time volatility](../r/real-time_volatility.md) and skew changes, allowing rapid and informed trading decisions.
 
-2. **Advanced [Risk Metrics](../r/risk_metrics.md)**: Utilization of big data and machine learning to develop new [risk metrics](../r/risk_metrics.md) encapsulating volatility and skew features, providing more nuanced risk assessments.
+2. **Advanced [Risk Metrics](../r/risk_metrics.md)**: Utilization of [big data](../b/big_data_in_trading.md) and machine learning to develop new [risk metrics](../r/risk_metrics.md) encapsulating volatility and skew features, providing more nuanced risk assessments.
 
 ### Regulatory Considerations
 

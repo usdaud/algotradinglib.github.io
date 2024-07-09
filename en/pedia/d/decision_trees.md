@@ -13,10 +13,10 @@ Decision Trees are a non-parametric supervised learning method used for classifi
 
 ### Decision Trees Algorithms
 
-- **Classification and Regression Trees (CART)**: Used for binary splits in classification and regression tasks.
+- **Classification and [Regression Trees](../r/regression_trees_in_trading.md) (CART)**: Used for binary splits in classification and regression tasks.
 - **ID3 (Iterative Dichotomiser 3)**: A classic algorithm that uses entropy and information gain to construct trees.
 - **C4.5**: An extension of ID3 that handles both categorical and continuous data and provides pruning methods.
-- **Random Forests**: Ensemble method that builds multiple trees for improved accuracy and robustness.
+- **[Random Forests](../r/random_forests_in_trading.md)**: Ensemble method that builds multiple trees for improved accuracy and robustness.
 
 ## Building a Decision Tree
 

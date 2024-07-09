@@ -1,10 +1,10 @@
 # One-Cancels-All Orders
 
-In the domain of [algorithmic trading](../a/algorithmic_trading.md), various order types and strategies are implemented to optimize [trading performance](../t/trading_performance.md) and manage risk effectively. One notable order type is the One-Cancels-All (OCA) order, which is a sophisticated mechanism designed to handle multiple contingent orders. This type of order ensures that when one of a set of orders is executed, the remaining orders in that set are automatically canceled. Understanding this concept in detail is critical for advanced traders aiming to enhance their [trading strategies](../t/trading_strategies.md).
+In the domain of [algorithmic trading](../a/algorithmic_trading.md), various [order types](../o/order_types_in_trading.md) and strategies are implemented to optimize [trading performance](../t/trading_performance.md) and manage risk effectively. One notable order type is the One-Cancels-All (OCA) order, which is a sophisticated mechanism designed to handle multiple contingent orders. This type of order ensures that when one of a set of orders is executed, the remaining orders in that set are automatically canceled. Understanding this concept in detail is critical for advanced traders aiming to enhance their [trading strategies](../t/trading_strategies.md).
 
 ## Definition and Functionality
 
-A One-Cancels-All order is a collection of several individual orders tied together by a conditional protocol. The core idea is that the execution of any single order within this group will trigger the cancellation of all other orders in the same group. This is in contrast to more straightforward order types like market or limit orders, as OCA orders are inherently more sophisticated and are employed to handle complex [trading strategies](../t/trading_strategies.md).
+A One-Cancels-All order is a collection of several individual orders tied together by a conditional protocol. The core idea is that the execution of any single order within this group will trigger the cancellation of all other orders in the same group. This is in contrast to more straightforward [order types](../o/order_types_in_trading.md) like market or limit orders, as OCA orders are inherently more sophisticated and are employed to handle complex [trading strategies](../t/trading_strategies.md).
 
 ### Example Scenario
 
@@ -28,7 +28,7 @@ From a technical standpoint, the implementation of OCA orders can be complex. Tr
 
 ### Broker Support
 
-Many online brokerages and trading platforms support OCA orders. For instance, Interactive Brokers (IBKR) provides extensive support for OCA orders. Traders can create OCA groups through the IBKR Trader Workstation or via their API, allowing for seamless integration into [automated trading systems](../a/automated_trading_systems.md). More details can be found [here](https://www.interactivebrokers.com/en/index.php?f=4985).
+Many online brokerages and trading platforms support OCA orders. For instance, [Interactive Brokers](../i/interactive_brokers.md) (IBKR) provides extensive support for OCA orders. Traders can create OCA groups through the IBKR Trader Workstation or via their API, allowing for seamless integration into [automated trading systems](../a/automated_trading_systems.md). More details can be found [here](https://www.interactivebrokers.com/en/index.php?f=4985).
 
 ### API Integration
 
@@ -47,7 +47,7 @@ While OCA orders offer several benefits, they also come with potential drawbacks
 
 ### Disadvantages
 
-1. **Complexity**: Setting up OCA orders can be more complex than traditional order types, requiring a nuanced understanding of market conditions and order execution.
+1. **Complexity**: Setting up OCA orders can be more complex than traditional [order types](../o/order_types_in_trading.md), requiring a nuanced understanding of market conditions and order execution.
 2. **[Execution Risk](../e/execution_risk.md)**: In fast-moving markets, there is a risk that an order might be partially filled before the cancellation protocol is triggered, leading to unintended positions.
 3. **Brokerage Limitations**: Not all brokerage platforms support OCA orders, potentially limiting accessibility for some traders.
 

@@ -122,7 +122,7 @@ The adoption of machine learning and AI in trading is becoming increasingly comm
 
 To implement these techniques effectively, traders need the right platforms and tools. Here are some popular platforms for [spread betting](../s/spread_betting.md):
 
-**IG Group** ([https://www.ig.com](https://www.ig.com))
+**[IG Group](../i/ig_group.md)** ([https://www.ig.com](https://www.ig.com))
 A leading provider offering an array of tools for [spread betting](../s/spread_betting.md) including advanced charting tools and extensive educational resources.
 
 **[CMC Markets](../c/cmc_markets.md)** ([https://www.cmcmarkets.com](https://www.cmcmarkets.com))

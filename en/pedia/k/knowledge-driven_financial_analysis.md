@@ -5,24 +5,24 @@ Knowledge-Driven Financial Analysis (KDFA) is a multifaceted approach to financi
 ## Components of Knowledge-Driven Financial Analysis
 
 ### 1. Big Data Utilization
-KDFA heavily relies on the utilization of big data, which encompasses vast and diverse datasets that can be analyzed to reveal patterns, trends, and associations. The use of big data in finance involves extracting useful insights from financial transactions, market sentiments, [economic indicators](../e/economic_indicators.md), and related datasets.
+KDFA heavily relies on the utilization of [big data](../b/big_data_in_trading.md), which encompasses vast and diverse datasets that can be analyzed to reveal patterns, trends, and associations. The use of [big data](../b/big_data_in_trading.md) in finance involves extracting useful insights from financial transactions, market sentiments, [economic indicators](../e/economic_indicators.md), and related datasets.
 
 #### Source Examples
 - [Bloomberg](../b/bloomberg.md) Terminal ([Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)): Provides real-time and historical data, news, and analytics for financial market professionals.
 - [Quandl](../q/quandl.md) ([Quandl](https://www.quandl.com/)): A platform offering a wide array of financial, economic, and alternative datasets.
 
 ### 2. Advanced Computational Techniques
-KDFA employs advanced computational techniques such as natural language processing (NLP), machine learning (ML), and artificial intelligence (AI) to process and analyze large volumes of data. These techniques enable more accurate predictions and identification of complex patterns that traditional methods might miss.
+KDFA employs advanced computational techniques such as [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), machine learning (ML), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) to process and analyze large volumes of data. These techniques enable more accurate predictions and identification of complex patterns that traditional methods might miss.
 
 #### Examples of Techniques
-- Natural Language Processing (NLP): Used to analyze market sentiment from news articles, social media, and other text data.
-- Machine Learning Algorithms: Utilized for [predictive modeling](../p/predictive_modeling.md), risk assessment, and [algorithmic trading](../a/algorithmic_trading.md).
+- [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP): Used to analyze market sentiment from news articles, social media, and other text data.
+- Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md): Utilized for [predictive modeling](../p/predictive_modeling.md), risk assessment, and [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 3. Machine Learning Models
 Machine learning models in KDFA focus on predicting financial outcomes by learning from historical data. These models include supervised, unsupervised, and reinforcement learning techniques.
 
 #### Common Models
-- **Supervised Learning**: Regression models, classification models, and neural networks.
+- **Supervised Learning**: Regression models, classification models, and [neural networks](../n/neural_networks_in_trading.md).
 - **Unsupervised Learning**: Clustering techniques such as K-means and hierarchical clustering.
 - **Reinforcement Learning**: Used for developing adaptive [trading strategies](../t/trading_strategies.md) that learn from market changes.
 
@@ -31,14 +31,14 @@ Machine learning models in KDFA focus on predicting financial outcomes by learni
 
 #### Key Players
 - Renaissance Technologies ([Renaissance Technologies](https://www.rentec.com/)): A notable firm in [quantitative trading](../q/quantitative_trading.md).
-- Two Sigma ([Two Sigma](https://www.twosigma.com/)): Another leading firm known for their use of data science and technology in [trading strategies](../t/trading_strategies.md).
+- Two Sigma ([Two Sigma](https://www.twosigma.com/)): Another leading firm known for their use of [data science](../d/data_science_in_trading.md) and technology in [trading strategies](../t/trading_strategies.md).
 
 ### 5. Risk Management
-Effective [risk management](../r/risk_management.md) is crucial in KDFA, helping to mitigate potential losses and protect investments. Techniques include stress testing, scenario analysis, and the implementation of [risk management](../r/risk_management.md) models.
+Effective [risk management](../r/risk_management.md) is crucial in KDFA, helping to mitigate potential losses and protect investments. Techniques include [stress testing](../s/stress_testing_in_trading.md), scenario analysis, and the implementation of [risk management](../r/risk_management.md) models.
 
 #### Tools and Techniques
 - Value at Risk (VaR): A measure used to assess the risk of loss on a specific portfolio.
-- Stress Testing: Simulating extreme market conditions to evaluate a portfolio's resilience.
+- [Stress Testing](../s/stress_testing_in_trading.md): Simulating extreme market conditions to evaluate a portfolio's resilience.
 
 ### 6. Domain-Specific Knowledge
 Integrating domain-specific knowledge in finance ensures that analysis and decisions are grounded in the reality of financial markets. This includes understanding regulatory requirements, economic theories, and market mechanics.
@@ -52,7 +52,7 @@ Integrating data from various sources and ensuring interoperability between diff
 
 #### Examples
 - APIs: Application Programming Interfaces (APIs) facilitate data exchange between different systems.
-- Data Warehousing: Centralized repositories for storing and managing large volumes of structured and unstructured data.
+- [Data Warehousing](../d/data_warehousing_in_trading.md): Centralized repositories for storing and managing large volumes of structured and unstructured data.
 
 ### 8. Visualization and Reporting
 Effective [data visualization](../d/data_visualization.md) and reporting are essential for interpreting complex data and communicating insights to stakeholders. Tools like dashboards, graphs, and interactive reports are used to present data in an understandable and actionable format.
@@ -69,10 +69,10 @@ Effective [data visualization](../d/data_visualization.md) and reporting are ess
 - MonkeyLearn ([MonkeyLearn](https://monkeylearn.com/)): An easy-to-use machine learning tool for text analysis.
 
 ### 10. Quantitative Finance
-[Quantitative finance](../q/quantitative_finance.md) focuses on the application of mathematical models and computational techniques to solve complex problems in finance, such as pricing [derivatives](../d/derivatives.md), [portfolio optimization](../p/portfolio_optimization.md), and [risk management](../r/risk_management.md).
+[Quantitative finance](../q/quantitative_finance.md) focuses on the application of [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques to solve complex problems in finance, such as pricing [derivatives](../d/derivatives.md), [portfolio optimization](../p/portfolio_optimization.md), and [risk management](../r/risk_management.md).
 
 #### Focus Areas
-- [Derivatives](../d/derivatives.md) Pricing: Using mathematical models to determine the fair value of [derivatives](../d/derivatives.md).
+- [Derivatives](../d/derivatives.md) Pricing: Using [mathematical models](../m/mathematical_models_in_trading.md) to determine the fair value of [derivatives](../d/derivatives.md).
 - [Portfolio Optimization](../p/portfolio_optimization.md): Techniques to allocate assets in a portfolio to maximize returns for a given level of risk.
 
 ## Applications of KDFA
@@ -81,7 +81,7 @@ Effective [data visualization](../d/data_visualization.md) and reporting are ess
 KDFA aids in the effective management of investment portfolios by leveraging advanced analytics, [predictive modeling](../p/predictive_modeling.md), and real-time data monitoring. These tools help in [asset allocation](../a/asset_allocation.md), risk assessment, and performance evaluation.
 
 ### 2. Fraud Detection
-By analyzing patterns in financial transactions and employing machine learning algorithms, KDFA can identify and prevent fraudulent activities. This ensures the integrity of financial systems and protects stakeholders from losses.
+By analyzing patterns in financial transactions and employing machine [learning algorithms](../l/learning_algorithms_in_trading.md), KDFA can identify and prevent fraudulent activities. This ensures the integrity of financial systems and protects stakeholders from losses.
 
 ### 3. Credit Scoring
 KDFA enhances credit scoring processes by integrating a wide range of data sources and employing sophisticated models to predict creditworthiness accurately. This helps lenders make informed decisions and mitigate credit risks.

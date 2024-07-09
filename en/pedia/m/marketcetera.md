@@ -11,7 +11,7 @@ Marketcetera is an open-source trading platform designed to offer a flexible and
 5. **[Risk Management](../r/risk_management.md)**: Includes tools for managing and monitoring trading risks in real-time.
 6. **[Real-Time Market Data](../r/real-time_market_data.md)**: Integration with various data providers to offer [real-time market data](../r/real-time_market_data.md).
 7. **[Backtesting](../b/backtesting.md)**: Comprehensive [backtesting](../b/backtesting.md) capabilities to evaluate [trading strategies](../t/trading_strategies.md) against historical data.
-8. **Order Management**: Advanced order management system for efficient execution and tracking of trades.
+8. **[Order Management](../o/order_management_in_trading.md)**: Advanced [order management](../o/order_management_in_trading.md) system for efficient execution and tracking of trades.
 9. **Extensible**: Easily extendable with APIs and SDKs for custom development.
 
 ## Key Components

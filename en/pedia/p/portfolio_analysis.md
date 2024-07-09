@@ -12,10 +12,10 @@ Portfolio analysis evaluates the performance, risk, and return of the collection
 Evaluating how a portfolio has performed over previous periods provides insights into the assets' returns and volatility patterns. This historical data is fundamental for predicting future performance.
 
 #### 2. Expected Return
-The expected return is the anticipated profit or loss from an investment over a specific period. Portfolio analysis uses mathematical models to estimate expected returns, considering the probability and magnitude of future earnings.
+The expected return is the anticipated profit or loss from an investment over a specific period. Portfolio analysis uses [mathematical models](../m/mathematical_models_in_trading.md) to estimate expected returns, considering the probability and magnitude of future earnings.
 
 #### 3. Risk and Volatility
-Risk refers to the uncertainty associated with the returns on an asset. Volatility measures the degree of this uncertainty, usually represented by standard deviation. Higher volatility translates to higher risk.
+Risk refers to the [uncertainty](../u/uncertainty_in_trading.md) associated with the returns on an asset. Volatility measures the degree of this [uncertainty](../u/uncertainty_in_trading.md), usually represented by standard deviation. Higher volatility translates to higher risk.
 
 #### 4. Diversification
 Diversification involves spreading investments across various assets to lower the overall risk. Portfolio analysis evaluates the correlation between assets to construct a diversified portfolio that minimizes risk.
@@ -35,7 +35,7 @@ The [Sharpe ratio](../s/sharpe_ratio.md) evaluates the performance of an investm
 Value at Risk quantifies the maximum expected loss on a portfolio over a certain period and confidence level. It’s crucial for [risk management](../r/risk_management.md), helping to anticipate potential losses and adjust accordingly.
 
 #### Monte Carlo Simulation
-[Monte Carlo simulation](../m/monte_carlo_simulation.md) uses random sampling and statistical modeling to predict the future behavior of asset prices and returns. It’s useful for stress testing, simulating various market conditions to assess [portfolio performance](../p/portfolio_performance.md) under different scenarios.
+[Monte Carlo simulation](../m/monte_carlo_simulation.md) uses random sampling and statistical modeling to predict the future behavior of asset prices and returns. It’s useful for [stress testing](../s/stress_testing_in_trading.md), simulating various market conditions to assess [portfolio performance](../p/portfolio_performance.md) under different scenarios.
 
 #### Factor Models
 [Factor models](../f/factor_models.md), such as the Capital Asset Pricing Model (CAPM) and Fama-French three-factor model, explain different aspects of returns by considering various factors like market risk, size, and value. These models help in understanding the drivers of [portfolio performance](../p/portfolio_performance.md).
@@ -57,7 +57,7 @@ Dynamic [asset allocation](../a/asset_allocation.md) continuously adjusts the as
 Algorithms can dynamically assess and manage risk by analyzing market data and portfolio positions. They implement strategies such as [stop-loss orders](../s/stop-loss_orders.md) and automated de-risking to limit potential losses.
 
 #### Optimization Algorithms
-Optimization algorithms use various parameters to determine the optimal [asset allocation](../a/asset_allocation.md), balancing risk and return while adhering to investor constraints. Examples include genetic algorithms and machine learning techniques.
+Optimization algorithms use various parameters to determine the optimal [asset allocation](../a/asset_allocation.md), balancing risk and return while adhering to investor constraints. Examples include [genetic algorithms](../g/genetic_algorithms_in_trading.md) and machine learning techniques.
 
 #### Backtesting Algorithms
 [Backtesting](../b/backtesting.md) involves running [trading strategies](../t/trading_strategies.md) on historical data to validate their effectiveness and profitability. Algorithms play a significant role in automating this process, ensuring strategies are robust and optimized for future performance.

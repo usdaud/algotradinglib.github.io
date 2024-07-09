@@ -52,7 +52,7 @@ Several algorithms and models are specifically designed to analyze and trade bas
 - **Market Making**: Strategies that provide liquidity to the market by placing buy and sell orders around the current market price.
 - **[Arbitrage](../a/arbitrage.md)**: Exploiting price differences between different markets or instruments.
 - **[Momentum Trading](../m/momentum_trading.md)**: Identifying and trading in the direction of short-term price movements.
-- **Machine Learning Models**: Techniques like reinforcement learning, neural networks, and [decision trees](../d/decision_trees.md) to predict price movements.
+- **Machine Learning Models**: Techniques like reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) to predict price movements.
 
 ### Challenges and Considerations
 
@@ -67,7 +67,7 @@ While tick data provides invaluable insights, it also comes with its own set of 
 
 To illustrate how tick data can be used in a real-world scenario, consider a simple market-making algorithm. Here’s a high-level outline of how one might be implemented:
 
-1. **Data Collection**: Obtain real-time tick data from a vendor like Interactive Brokers.
+1. **Data Collection**: Obtain real-time tick data from a vendor like [Interactive Brokers](../i/interactive_brokers.md).
 2. **Initialization**: Set initial parameters for [bid-ask spread](../b/bid-ask_spread.md) and order sizes.
 3. **Order Placement**: Place initial buy and sell orders around the current market price.
 4. **Order Adjustment**: Adjust orders based on real-time tick data to maintain the desired spread.

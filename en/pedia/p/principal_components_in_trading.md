@@ -1,6 +1,6 @@
 # Principal Components
 
-Principal Component Analysis (PCA) is a statistical procedure that uses orthogonal transformation to convert a set of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components. In the context of trading, PCA can be used to simplify the complexity of financial markets by reducing the dimensionality of datasets while retaining as much variability as possible.
+[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) is a statistical procedure that uses orthogonal transformation to convert a set of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components. In the context of trading, PCA can be used to simplify the complexity of financial markets by reducing the dimensionality of datasets while retaining as much variability as possible.
 
 Let's dive into this concept in detail.
 
@@ -29,7 +29,7 @@ PCA works by identifying the direction (principal components) along which data v
 
 #### Applications of PCA in Trading
 
-1. **Dimensionality Reduction**:
+1. **[Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md)**:
    Financial data often comes with high dimensionality, with hundreds or thousands of features. PCA helps in reducing this dimensionality while retaining the essential patterns, making it easier to analyze and visualize.
 
 2. **Noise Reduction**:
@@ -39,7 +39,7 @@ PCA works by identifying the direction (principal components) along which data v
    PCA is used to identify common factors that drive asset returns. For example, the first few principal components may represent underlying market factors such as market risk, interest rate changes, or sector-specific trends.
 
 4. **[Portfolio Management](../p/portfolio_management.md)**:
-   PCA can be used to create portfolios that are diversified across principal components, helping to reduce risk. It also assists in stress testing by analyzing the impact of variations in these components.
+   PCA can be used to create portfolios that are diversified across principal components, helping to reduce risk. It also assists in [stress testing](../s/stress_testing_in_trading.md) by analyzing the impact of variations in these components.
 
 5. **[Risk Management](../r/risk_management.md)**:
    In [risk management](../r/risk_management.md), PCA is used to identify hidden sources of risk within a portfolio by revealing the underlying factors. This can be particularly useful for identifying and mitigating systemic risks.
@@ -102,7 +102,7 @@ High-frequency trading (HFT) typically deals with vast amounts of data, includin
    Goldman Sachs utilizes advanced statistical methods, including PCA, to develop [trading strategies](../t/trading_strategies.md) and [risk assessment models](../r/risk_assessment_models.md). The firm uses PCA to identify latent factors that drive market movements and volatility. [Goldman Sachs](https://www.goldmansachs.com/)
 
 3. **Two Sigma**:
-   Two Sigma, a quantitative hedge fund, integrates PCA in their machine learning algorithms to uncover hidden patterns and correlations in financial data. PCA aids in enhancing the predictive power of their [trading models](../t/trading_models.md). [Two Sigma](https://www.twosigma.com/)
+   Two Sigma, a quantitative hedge fund, integrates PCA in their machine [learning algorithms](../l/learning_algorithms_in_trading.md) to uncover hidden patterns and correlations in financial data. PCA aids in enhancing the predictive power of their [trading models](../t/trading_models.md). [Two Sigma](https://www.twosigma.com/)
 
 #### Advanced Topics: Nonlinear PCA and Kernel PCA
 
@@ -118,14 +118,14 @@ While traditional PCA is effective for linear data, financial markets often exhi
 
 #### Conclusion
 
-Principal Component Analysis is a powerful tool in the realm of trading. By reducing dimensionality and uncovering underlying factors, PCA simplifies the complexity of financial data. It is widely used in [portfolio management](../p/portfolio_management.md), risk assessment, [algorithmic trading](../a/algorithmic_trading.md), and high-frequency trading. Advanced variations like Kernel PCA further extend its applicability to nonlinear data.
+[Principal Component Analysis](../p/principal_component_analysis_(pca).md) is a powerful tool in the realm of trading. By reducing dimensionality and uncovering underlying factors, PCA simplifies the complexity of financial data. It is widely used in [portfolio management](../p/portfolio_management.md), risk assessment, [algorithmic trading](../a/algorithmic_trading.md), and high-frequency trading. Advanced variations like Kernel PCA further extend its applicability to nonlinear data.
 
 As markets continue to evolve with increasing data complexity, the role of PCA in developing efficient and robust [trading strategies](../t/trading_strategies.md) is becoming ever more crucial. Understanding and leveraging PCA can provide a significant edge in the highly competitive field of trading.
 
 For more information about the practical applications of PCA in trading, you can explore the following resources and tools used by quantitative analysts and data scientists.
 
 1. **PyCaret**:
-   PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. PyCaret includes modules for performing PCA and other dimensionality reduction techniques.[PyCaret](https://www.pycaret.org/)
+   PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. PyCaret includes modules for performing PCA and other [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) techniques.[PyCaret](https://www.pycaret.org/)
    
 2. **[QuantConnect](../q/quantconnect.md)**:
    [QuantConnect](../q/quantconnect.md) provides a cloud-based platform for designing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform supports PCA and other statistical methods for developing robust [trading models](../t/trading_models.md). [QuantConnect](https://www.quantconnect.com/)

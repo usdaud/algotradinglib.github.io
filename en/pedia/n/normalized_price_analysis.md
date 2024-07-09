@@ -4,12 +4,12 @@ Normalized Price Analysis is a vital concept in [algorithmic trading](../a/algor
 
 ## What is Normalized Price?
 
-Normalized price refers to the process of adjusting the raw prices of financial instruments to a common scale, eliminating the effects of factors like different currency units, price ranges, and volatility. This adjustment allows traders to compare the performance of different assets more directly. Normalization techniques can include using percentages, z-scores, or scaling prices to a specific range (like 0 to 100).
+Normalized price refers to the process of adjusting the raw prices of financial instruments to a common scale, eliminating the effects of factors like different currency units, price ranges, and volatility. This adjustment allows traders to compare the performance of different assets more directly. Normalization techniques can include using percentages, [z-scores](../z/z-scores_in_trading.md), or scaling prices to a specific range (like 0 to 100).
 
 ### Common Normalization Techniques
 
 1. **Percentage Changes**: Calculating the percentage change from a base value to track relative performance over time.
-2. **Z-Scores**: Transforming price data into z-scores, which represent the number of standard deviations away from the mean price.
+2. **[Z-Scores](../z/z-scores_in_trading.md)**: Transforming price data into [z-scores](../z/z-scores_in_trading.md), which represent the number of standard deviations away from the mean price.
 3. **Min-Max Scaling**: Rescaling prices to a specific range, often between 0 and 1, to standardize data for comparison.
 4. **[Logarithmic Returns](../l/logarithmic_returns.md)**: Utilizing the natural logarithm of price relatives to normalize data.
 
@@ -33,11 +33,11 @@ Where \( P_t \) is the price at time \( t \). This method allows traders to see 
 
 ### Z-Scores
 
-To calculate z-scores, the following formula is used:
+To calculate [z-scores](../z/z-scores_in_trading.md), the following formula is used:
 
 \[ \text{Z-Score} = \frac{P_t - \mu}{\sigma} \]
 
-Where \( P_t \) is the price at time \( t \), \( \mu \) is the mean price, and \( \sigma \) is the standard deviation. Z-scores indicate how far a price is from its average, in terms of standard deviations. This statistical analysis helps traders identify anomalies and outliers.
+Where \( P_t \) is the price at time \( t \), \( \mu \) is the mean price, and \( \sigma \) is the standard deviation. [Z-scores](../z/z-scores_in_trading.md) indicate how far a price is from its average, in terms of standard deviations. This statistical analysis helps traders identify anomalies and outliers.
 
 ### Min-Max Scaling
 
@@ -117,7 +117,7 @@ log_returns = np.log(prices / prices.shift(1))
 import matplotlib.pyplot as plt
 
 plt.plot(data['Date'], percentage_change, label='Percentage Change')
-plt.plot(data['Date'], z_scores, label='Z-Scores')
+plt.plot(data['Date'], z_scores, label='[Z-Scores](../z/z-scores_in_trading.md)')
 plt.plot(data['Date'], min_max_scaled, label='Min-Max Scaled')
 plt.plot(data['Date'], log_returns, label='Log Returns')
 plt.legend()
@@ -128,4 +128,4 @@ This script loads price data, applies various normalization techniques, and visu
 
 ## Conclusion
 
-Normalized Price Analysis is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), providing a standardized method to evaluate and compare different financial instruments. By utilizing techniques such as percentage changes, z-scores, min-max scaling, and [logarithmic returns](../l/logarithmic_returns.md), traders can gain deeper insights into market dynamics, build effective strategies, and manage risk more efficiently. The use of advanced tools and libraries further enhances the precision and effectiveness of normalized price analysis in modern [trading systems](../t/trading_systems.md).
+Normalized Price Analysis is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), providing a standardized method to evaluate and compare different financial instruments. By utilizing techniques such as percentage changes, [z-scores](../z/z-scores_in_trading.md), min-max scaling, and [logarithmic returns](../l/logarithmic_returns.md), traders can gain deeper insights into market dynamics, build effective strategies, and manage risk more efficiently. The use of advanced tools and libraries further enhances the precision and effectiveness of normalized price analysis in modern [trading systems](../t/trading_systems.md).

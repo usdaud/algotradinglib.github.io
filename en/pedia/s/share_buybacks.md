@@ -31,7 +31,7 @@ Buybacks often boost a company's stock price due to reduced supply and increased
 ### Patterns and Predictability
 [Algorithmic trading](../a/algorithmic_trading.md) strategies can take advantage of the predictability of buybacks by:
 - **[Pattern Recognition](../p/pattern_recognition.md)**: Using past buyback data to predict future buyback events.
-- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Gauging market sentiment and investor reaction to buyback announcements through natural language processing (NLP) on financial news and reports.
+- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Gauging market sentiment and investor reaction to buyback announcements through [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) on financial news and reports.
 
 ### High-Frequency Trading (HFT)
 HFT algorithms can leverage the immediate price movements following buyback announcements to generate rapid, short-term gains. By utilizing speed advantages, HFT traders can compete effectively in low-latency environments.

@@ -27,7 +27,7 @@ Traditional [least squares regression](../l/least_squares_regression.md) is high
 ## Implementation in Trading
 
 ### Data Cleaning and Preprocessing
-Robust methods for [data cleaning](../d/data_cleaning.md) involve detecting and mitigating outliers. Techniques such as median filtering, Hampel filters, and robust z-scores are employed. For instance, algorithms that automatically adjust for fat-tailed distributions can preprocess financial data more effectively, ensuring the integrity of [trading signals](../t/trading_signals.md).
+Robust methods for [data cleaning](../d/data_cleaning.md) involve detecting and mitigating outliers. Techniques such as median filtering, Hampel filters, and robust [z-scores](../z/z-scores_in_trading.md) are employed. For instance, algorithms that automatically adjust for fat-tailed distributions can preprocess financial data more effectively, ensuring the integrity of [trading signals](../t/trading_signals.md).
 
 ### Risk Management
 Robust measures of central tendency and dispersion, like the median and MAD (Median Absolute Deviation), provide enhanced [risk metrics](../r/risk_metrics.md). These measures outperform traditional metrics like mean and standard deviation under heavy-tailed distributions, aiding in more accurate assessment and management of trading risks.
@@ -36,7 +36,7 @@ Robust measures of central tendency and dispersion, like the median and MAD (Med
 Traditional [Mean-Variance Optimization](../m/mean-variance_optimization.md) (MVO) is susceptible to estimation errors in the inputs (expected returns and covariances). [Robust optimization](../r/robust_optimization.md) frameworks incorporate robust statistics to mitigate the impact of extreme values and improve the resilience of portfolios. Methods like Robust MVO and Conditional Value at Risk (CVaR) offer superior performance by accommodating the empirical characteristics of financial returns.
 
 ### Algorithmic Trading Strategies
-Robust statistical methods enhance the robustness of [trading algorithms](../t/trading_algorithms.md). For instance, robust time series models like the Robust Autoregressive (RAR) models and methods employing robust principal component analysis (RPCA) better handle anomalous patterns and noise, leading to more reliable execution of algorithmic strategies.
+Robust statistical methods enhance the robustness of [trading algorithms](../t/trading_algorithms.md). For instance, robust time series models like the Robust Autoregressive (RAR) models and methods employing robust [principal component analysis](../p/principal_component_analysis_(pca).md) (RPCA) better handle anomalous patterns and noise, leading to more reliable execution of algorithmic strategies.
 
 ## Case Studies and Practical Applications
 
@@ -44,7 +44,7 @@ Robust statistical methods enhance the robustness of [trading algorithms](../t/t
 Robust statistics play a significant role in HFT, where the speed and reliability of decisions are paramount. Techniques such as robust Kalman filters for estimating [real-time volatility](../r/real-time_volatility.md) and adaptive thresholding for trade execution improve the accuracy and stability of HFT systems.
 
 ### Machine Learning in Trading
-Integrating robust statistics with machine learning models enhances their performance by providing resilience against noisy and non-stationary data. Robust versions of common machine learning algorithms, such as robust regression trees and support vector machines (SVMs), offer improved predictive capability in financial markets.
+Integrating robust statistics with machine learning models enhances their performance by providing resilience against noisy and non-stationary data. Robust versions of common machine [learning algorithms](../l/learning_algorithms_in_trading.md), such as robust [regression trees](../r/regression_trees_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md) (SVMs), offer improved predictive capability in financial markets.
 
 ### Real-World Example: Fund Management
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md) such as Renaissance Technologies have successfully integrated robust statistical methods into their [trading systems](../t/trading_systems.md). These methods' ability to deal with real-world data anomalies significantly contributes to their exemplary performance. More information on their approach can be found on their official website: [Renaissance Technologies](https://www.rentec.com/).

@@ -53,11 +53,11 @@ SVMs are used for classification and regression tasks. In the context of interes
 
 ##### Random Forests
 
-Random forests are ensembles of [decision trees](../d/decision_trees.md) that can be used for both classification and regression tasks. They are robust to overfitting and can handle high-dimensional data.
+[Random forests](../r/random_forests_in_trading.md) are ensembles of [decision trees](../d/decision_trees.md) that can be used for both classification and regression tasks. They are robust to overfitting and can handle high-dimensional data.
 
 #### 4. Hybrid Models
 
-Hybrid models combine multiple forecasting techniques to leverage their individual strengths and mitigate their weaknesses. For instance, combining ARIMA models with neural networks can improve forecasting accuracy.
+Hybrid models combine multiple forecasting techniques to leverage their individual strengths and mitigate their weaknesses. For instance, combining ARIMA models with [neural networks](../n/neural_networks_in_trading.md) can improve forecasting accuracy.
 
 ### Applications in Algorithmic Trading
 
@@ -65,7 +65,7 @@ Hybrid models combine multiple forecasting techniques to leverage their individu
 2. **[Interest Rate Swaps](../i/interest_rate_swaps.md)**: In [interest rate swaps](../i/interest_rate_swaps.md), two parties exchange cash flows based on different interest rate benchmarks. Accurate forecasting can enhance strategies for managing swap portfolios.
 3. **[Portfolio Management](../p/portfolio_management.md)**: Interest rate forecasts help in [asset allocation](../a/asset_allocation.md) decisions, particularly in portfolios that include interest rate-sensitive assets.
 4. **[Risk Management](../r/risk_management.md)**: Accurate interest rate forecasts enable better risk assessment and management, particularly for financial institutions exposed to interest rate fluctuations.
-5. **[Algorithmic Trading](../a/algorithmic_trading.md) Strategies**: Interest rates can be integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies to develop predictive models for other financial instruments influenced by interest rate changes.
+5. **[Algorithmic Trading](../a/algorithmic_trading.md) Strategies**: Interest rates can be integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies to develop [predictive models](../p/predictive_models_in_trading.md) for other financial instruments influenced by interest rate changes.
 
 ### Challenges in Interest Rate Forecasting
 

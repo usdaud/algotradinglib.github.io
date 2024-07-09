@@ -21,7 +21,7 @@ These indicators provide insights into the economic health and are often used by
 Corporate performance, reflected through earnings reports, mergers and acquisitions, and innovation, affects stock prices and market indices (https://www.morganstanley.com/articles/how-earnings-move-markets).
 
 ### 4. Technological Advancements
-Technological advancements, particularly in fintech, have revolutionized [trading strategies](../t/trading_strategies.md) and market operations. Developments in artificial intelligence, blockchain, and data analytics have introduced new dynamics into the market ecosystems (https://www.goldmansachs.com/what-we-do/technology/).
+Technological advancements, particularly in fintech, have revolutionized [trading strategies](../t/trading_strategies.md) and market operations. Developments in [artificial intelligence](../a/artificial_intelligence_in_trading.md), [blockchain](../b/blockchain_in_trading.md), and data analytics have introduced new dynamics into the market ecosystems (https://www.goldmansachs.com/what-we-do/technology/).
 
 ### 5. Social and Cultural Trends
 Changes in consumer behavior, societal values, and demographic shifts can influence financial markets. For example, the increased emphasis on environmental, social, and governance (ESG) criteria has led to a significant rise in sustainable investing (https://www.blackrock.com/corporate/investor-relations/blackrock-client-letter).
@@ -49,7 +49,7 @@ HFT involves executing trades at extremely high speeds using sophisticated algor
 [Arbitrage](../a/arbitrage.md) strategies exploit price discrepancies between different markets or instruments (https://www.janestreet.com/).
 
 ### Machine Learning Algorithms
-Machine learning algorithms enhance predictive accuracy and adapt to market dynamics swiftly (https://www.renaissance.com/).
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) enhance predictive accuracy and adapt to market dynamics swiftly (https://www.renaissance.com/).
 
 ### Risk Management Techniques
 [Algorithmic trading](../a/algorithmic_trading.md) integrates complex [risk management](../r/risk_management.md) techniques to mitigate potential losses (https://www.aqr.com/).

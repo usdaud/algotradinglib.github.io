@@ -24,7 +24,7 @@ Institutional block trades are conducted on various venues:
  
 - **Exchanges:** Public exchanges offer transparency but less privacy, often resulting in price moves due to large trades.
 - **[Dark Pools](../d/dark_pools.md):** These private venues allow for large trades without exposing the details to the public market, thus reducing the risk of price movements.
-- **Over-The-Counter (OTC) Markets:** Here trades are negotiated directly between two parties, providing maximum privacy and flexibility but potentially less liquidity.
+- **[Over-The-Counter (OTC) Markets](../o/over-the-counter_markets.md):** Here trades are negotiated directly between two parties, providing maximum privacy and flexibility but potentially less liquidity.
 
 ### Trading Strategies
 

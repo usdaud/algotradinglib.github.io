@@ -1,6 +1,6 @@
 # Liquidity-Weighted Returns
 
-Liquidity-weighted returns are a sophisticated concept in the realm of financial trading and [portfolio management](../p/portfolio_management.md). They represent a method of adjusting the returns of a trading strategy by taking into account the liquidity of the assets involved. This method is particularly useful in [algorithmic trading](../a/algorithmic_trading.md), where the goal is to create strategies that not only generate high returns but also are feasible to execute in real-world markets without causing significant price slippage or incurring large transaction costs.
+Liquidity-[weighted returns](../w/weighted_returns_in_trading.md) are a sophisticated concept in the realm of financial trading and [portfolio management](../p/portfolio_management.md). They represent a method of adjusting the returns of a trading strategy by taking into account the liquidity of the assets involved. This method is particularly useful in [algorithmic trading](../a/algorithmic_trading.md), where the goal is to create strategies that not only generate high returns but also are feasible to execute in real-world markets without causing significant price slippage or incurring large transaction costs.
 
 ## Introduction to Liquidity
 
@@ -22,15 +22,15 @@ Returns in finance refer to the gains or losses made on an investment over a per
 1. **Absolute Returns**: The simple increase or decrease in the value of an investment.
 2. **Relative Returns**: Returns compared to a benchmark index or other standard.
 3. **Risk-Adjusted Returns**: Returns that factor in the risk taken to achieve them, such as [Sharpe Ratio](../s/sharpe_ratio.md).
-4. **Liquidity-Weighted Returns**: Returns adjusted for the liquidity of the assets involved.
+4. **Liquidity-[Weighted Returns](../w/weighted_returns_in_trading.md)**: Returns adjusted for the liquidity of the assets involved.
 
 ## Liquidity-Weighted Returns
 
-Liquidity-weighted returns adjust traditional returns by incorporating the liquidity of the trades executed. The core idea is to account for the cost and feasibility of executing trades in practical scenarios, potentially leading to more realistic and sustainable investment performance.
+Liquidity-[weighted returns](../w/weighted_returns_in_trading.md) adjust traditional returns by incorporating the liquidity of the trades executed. The core idea is to account for the cost and feasibility of executing trades in practical scenarios, potentially leading to more realistic and sustainable investment performance.
 
 ### Calculation Method
 
-The calculation of liquidity-weighted returns involves several steps:
+The calculation of liquidity-[weighted returns](../w/weighted_returns_in_trading.md) involves several steps:
 
 1. **Identify Liquidity Metrics**: Determine which liquidity metrics (e.g., [bid-ask spread](../b/bid-ask_spread.md), market depth, volume) will be used.
 2. **Adjust Returns for Liquidity**: Modify the traditional return measures based on liquidity. This can involve:
@@ -40,7 +40,7 @@ The calculation of liquidity-weighted returns involves several steps:
 
 ### Formula Example
 
-A simplified formula for liquidity-weighted returns might look like:
+A simplified formula for liquidity-[weighted returns](../w/weighted_returns_in_trading.md) might look like:
 
 \[ R_{LW} = \left( \frac{R_t - \text{Transaction Costs} - \text{Price Impact}}{Liquidity Metric} \right) \]
 
@@ -73,7 +73,7 @@ Several platforms and tools are available to assist with integrating liquidity c
 
 ### Benefits
 
-1. **Realistic Performances**: Liquidity-weighted returns provide a more accurate picture of achievable performance.
+1. **Realistic Performances**: Liquidity-[weighted returns](../w/weighted_returns_in_trading.md) provide a more accurate picture of achievable performance.
 2. **Reduced Slippage**: By accounting for liquidity, traders can minimize the adverse effects of slippage.
 3. **Optimal Execution**: Enhancing execution efficiency by adjusting strategies in real-time to changing liquidity conditions.
 
@@ -85,4 +85,4 @@ Several platforms and tools are available to assist with integrating liquidity c
 
 ## Conclusion
 
-Liquidity-weighted returns offer a compelling enhancement over traditional return metrics by providing a more nuanced and executable measure of [trading performance](../t/trading_performance.md). While integrating these adjustments presents challenges, the benefits in terms of realistic assessment and improved execution make it a valuable approach in the sophisticated world of [algorithmic trading](../a/algorithmic_trading.md). Adopting liquidity-weighted returns requires access to detailed liquidity data, advanced analytical tools, and a thorough understanding of [market microstructure](../m/market_microstructure.md), but it can significantly enhance the robustness and feasibility of [trading strategies](../t/trading_strategies.md).
+Liquidity-[weighted returns](../w/weighted_returns_in_trading.md) offer a compelling enhancement over traditional return metrics by providing a more nuanced and executable measure of [trading performance](../t/trading_performance.md). While integrating these adjustments presents challenges, the benefits in terms of realistic assessment and improved execution make it a valuable approach in the sophisticated world of [algorithmic trading](../a/algorithmic_trading.md). Adopting liquidity-[weighted returns](../w/weighted_returns_in_trading.md) requires access to detailed liquidity data, advanced analytical tools, and a thorough understanding of [market microstructure](../m/market_microstructure.md), but it can significantly enhance the robustness and feasibility of [trading strategies](../t/trading_strategies.md).

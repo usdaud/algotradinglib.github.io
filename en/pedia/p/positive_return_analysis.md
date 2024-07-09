@@ -64,7 +64,7 @@ For more information, visit the [Renaissance Technologies](https://www.rentec.co
 
 ## Tools and Software for Positive Return Analysis
 
-Several tools and software platforms are essential for conducting positive return analysis:
+Several tools and [software platforms](../s/software_platforms_for_trading.md) are essential for conducting positive return analysis:
 
 ### QuantConnect
 
@@ -80,8 +80,8 @@ MetaTrader is a popular trading platform that includes comprehensive tools for [
 
 ### Interactive Brokers API
 
-Interactive Brokers provides a robust API that allows traders to integrate their custom algorithms for live trading. This API supports a wide range of programming languages and is well-documented for ease of use. More information is available on the [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041) page.
+[Interactive Brokers](../i/interactive_brokers.md) provides a robust API that allows traders to integrate their custom algorithms for live trading. This API supports a wide range of programming languages and is well-documented for ease of use. More information is available on the [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041) page.
 
 ## Conclusion
 
-Positive return analysis is a multifaceted approach that involves statistical evaluation, [backtesting](../b/backtesting.md), performance measurement, and continuous optimization to develop profitable [trading algorithms](../t/trading_algorithms.md). Despite the challenges, firms like Renaissance Technologies demonstrate that sustained positive returns are achievable through rigorous analysis and sophisticated algorithms. Utilizing advanced tools like [QuantConnect](../q/quantconnect.md), MetaTrader, and Interactive Brokers API can significantly aid in this process, providing the infrastructure and data necessary to refine and optimize [trading strategies](../t/trading_strategies.md) continuously.
+Positive return analysis is a multifaceted approach that involves statistical evaluation, [backtesting](../b/backtesting.md), performance measurement, and continuous optimization to develop profitable [trading algorithms](../t/trading_algorithms.md). Despite the challenges, firms like Renaissance Technologies demonstrate that sustained positive returns are achievable through rigorous analysis and sophisticated algorithms. Utilizing advanced tools like [QuantConnect](../q/quantconnect.md), MetaTrader, and [Interactive Brokers](../i/interactive_brokers.md) API can significantly aid in this process, providing the infrastructure and data necessary to refine and optimize [trading strategies](../t/trading_strategies.md) continuously.

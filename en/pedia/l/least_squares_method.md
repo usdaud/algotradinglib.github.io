@@ -16,11 +16,11 @@ There are two main types of least squares problems:
 
 ### Application in Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), the least squares method is used for various predictive models and techniques, including:
+In [algorithmic trading](../a/algorithmic_trading.md), the least squares method is used for various [predictive models](../p/predictive_models_in_trading.md) and techniques, including:
 - **Moving Averages**: Used to smooth out short-term fluctuations and highlight longer-term trends or cycles.
 - **[Regression Analysis](../r/regression_analysis.md)**: Helps in estimating the relationships among variables, identifying trends and patterns in historical data.
 - **[Risk Management](../r/risk_management.md) Models**: Quantifies and predicts risks to make informed trading decisions.
-- **Curve Fitting**: Fits a curve that best represents the trend in the given data, crucial for trend prediction and trading strategy development.
+- **[Curve Fitting](../c/curve_fitting_in_trading.md)**: Fits a curve that best represents the trend in the given data, crucial for trend prediction and trading strategy development.
 
 ### Step-by-Step Application in a Trading Model
 
@@ -28,7 +28,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), the least squares method 
 2. **Data Preprocessing**: Normalize the data and clear any outliers.
 3. **Model Selection**: Choose either a linear or non-linear model based on the data's nature.
 4. **Apply Least Squares Method**: Define the function and apply the least squares computation to fit the model.
-5. **Model Validation**: Use statistical metrics like R-squared, Mean Absolute Error (MAE), and Root Mean Square Error (RMSE) to validate the model.
+5. **Model Validation**: Use statistical metrics like [R-squared](../r/r-squared_in_trading.md), Mean Absolute Error (MAE), and Root Mean Square Error (RMSE) to validate the model.
 6. **Implementation**: Incorporate the model into [trading algorithms](../t/trading_algorithms.md) to make predications and execute trades.
 
 ### Example of Linear Regression in Trading

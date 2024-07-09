@@ -82,7 +82,7 @@ RSI can be used in conjunction with [chart patterns](../c/chart_patterns.md), su
 
 While the 30-Day RSI is a powerful tool, it is not without limitations:
 - **Lagging Indicator**: Being a momentum oscillator, the RSI can give signals that lag price movements. Thus, it might not always provide timely signals.
-- **False Signals**: In highly volatile or erratic markets, the RSI can produce false signals, leading to potential losses if not used with other confirmation tools.
+- **[False Signals](../f/false_signals_in_trading.md)**: In highly volatile or erratic markets, the RSI can produce [false signals](../f/false_signals_in_trading.md), leading to potential losses if not used with other confirmation tools.
 - **Doesn't Consider Fundamental Factors**: RSI is purely technical and does not take into account fundamental factors affecting an asset’s price.
 
 ## Conclusion

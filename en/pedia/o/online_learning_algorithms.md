@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Online learning algorithms are a key component in the field of [algorithmic trading](../a/algorithmic_trading.md), representing a class of machine learning algorithms that are especially well-suited to scenarios where data arrives in a sequential manner. Unlike batch learning algorithms, which train on a fixed dataset, online learning algorithms update the model incrementally as new data arrives. This makes them particularly useful in environments where data is continuously generated, such as stock markets. Online learning algorithms can provide more timely predictions and adapt to changing market conditions, which can be crucial for maintaining profitability in [algorithmic trading](../a/algorithmic_trading.md). 
+Online [learning algorithms](../l/learning_algorithms_in_trading.md) are a key component in the field of [algorithmic trading](../a/algorithmic_trading.md), representing a class of machine [learning algorithms](../l/learning_algorithms_in_trading.md) that are especially well-suited to scenarios where data arrives in a sequential manner. Unlike batch [learning algorithms](../l/learning_algorithms_in_trading.md), which train on a fixed dataset, online [learning algorithms](../l/learning_algorithms_in_trading.md) update the model incrementally as new data arrives. This makes them particularly useful in environments where data is continuously generated, such as stock markets. Online [learning algorithms](../l/learning_algorithms_in_trading.md) can provide more timely predictions and adapt to changing market conditions, which can be crucial for maintaining profitability in [algorithmic trading](../a/algorithmic_trading.md). 
 
 ### Types of Online Learning Algorithms
 
@@ -16,11 +16,11 @@ One of the foundational techniques in online learning is the [stochastic gradien
 
 #### Perceptron Algorithm
 
-The perceptron algorithm is one of the simplest types of online learning algorithms and serves as the foundation for more complex neural networks. The perceptron updates its weights based on the errors it makes on the individual training examples, thus learning incrementally.
+The perceptron algorithm is one of the simplest types of online [learning algorithms](../l/learning_algorithms_in_trading.md) and serves as the foundation for more complex [neural networks](../n/neural_networks_in_trading.md). The perceptron updates its weights based on the errors it makes on the individual training examples, thus learning incrementally.
 
 **Key Advantages**:
 - **Simplicity**: The algorithm is straightforward to implement.
-- **Real-time Updates**: Like other online learning algorithms, it updates in real-time, making it suitable for streaming data.
+- **Real-time Updates**: Like other online [learning algorithms](../l/learning_algorithms_in_trading.md), it updates in real-time, making it suitable for streaming data.
 
 #### Passive-Aggressive Algorithms
 
@@ -34,23 +34,23 @@ These algorithms are particularly favored for their ability to handle non-statio
 
 #### Real-Time Stock Market Prediction
 
-Online learning algorithms are highly effective for predicting short-term stock price movements given their ability to learn and adapt in real-time. With continuously incoming data, traditional batch learning methods may become outdated quickly.
+Online [learning algorithms](../l/learning_algorithms_in_trading.md) are highly effective for predicting short-term stock price movements given their ability to learn and adapt in real-time. With continuously incoming data, traditional batch learning methods may become outdated quickly.
 
 **Case Study:**
 - **Company**: [Kensho](https://www.kensho.com)
-- **Application**: Kensho uses machine learning techniques, including online learning algorithms, to analyze and predict stock market movements.
+- **Application**: Kensho uses machine learning techniques, including online [learning algorithms](../l/learning_algorithms_in_trading.md), to analyze and predict stock market movements.
 
 #### Portfolio Management
 
-[Portfolio management](../p/portfolio_management.md) is another area where online learning algorithms excel. The algorithms continuously assess the performance of various assets, enabling dynamic reallocation of resources for optimized returns.
+[Portfolio management](../p/portfolio_management.md) is another area where online [learning algorithms](../l/learning_algorithms_in_trading.md) excel. The algorithms continuously assess the performance of various assets, enabling dynamic reallocation of resources for optimized returns.
 
 **Case Study:**
 - **Company**: [Two Sigma](https://www.twosigma.com)
-- **Application**: This hedge fund leverages online learning algorithms for real-time [portfolio optimization](../p/portfolio_optimization.md) and asset management.
+- **Application**: This hedge fund leverages online [learning algorithms](../l/learning_algorithms_in_trading.md) for real-time [portfolio optimization](../p/portfolio_optimization.md) and asset management.
 
 #### High-Frequency Trading (HFT)
 
-In the high-frequency trading landscape, milliseconds can represent significant financial gains or losses. Online learning algorithms can be integrated into HFT systems to make real-time decisions.
+In the high-frequency trading landscape, milliseconds can represent significant financial gains or losses. Online [learning algorithms](../l/learning_algorithms_in_trading.md) can be integrated into HFT systems to make real-time decisions.
 
 **Case Study:**
 - **Company**: [Virtu Financial](https://www.virtu.com)
@@ -76,7 +76,7 @@ Concept drift refers to the change in the statistical properties of the target v
 
 #### Integration with Reinforcement Learning
 
-Reinforcement learning (RL) represents a compelling future direction for online learning in trading. Combining online learning algorithms with RL can offer ways to develop trading agents that not only learn from the data but also improve their strategy based on direct feedback from trading actions.
+Reinforcement learning (RL) represents a compelling future direction for online learning in trading. Combining online [learning algorithms](../l/learning_algorithms_in_trading.md) with RL can offer ways to develop trading agents that not only learn from the data but also improve their strategy based on direct feedback from trading actions.
 
 **Key Player**:
 - **Company**: [Sentient Technologies](https://www.sentient.ai)
@@ -84,11 +84,11 @@ Reinforcement learning (RL) represents a compelling future direction for online 
 
 #### AI Regulation and Ethics
 
-As online learning algorithms become more prevalent in financial markets, concerns around ethical AI and regulation are increasing.
+As online [learning algorithms](../l/learning_algorithms_in_trading.md) become more prevalent in financial markets, concerns around ethical AI and regulation are increasing.
 
 **Solution**:
 - Companies and regulatory bodies are collaborating on frameworks to govern the use of such algorithms, ensuring they operate within ethical boundaries.
 
 ### Conclusion
 
-Online learning algorithms represent a powerful tool in the arsenal of algorithmic traders, enabling [real-time data analysis](../r/real-time_data_analysis.md) and model updates. Whether it's in predicting stock prices, managing portfolios, or executing high-frequency trades, these algorithms offer distinct advantages over traditional batch learning techniques. As the field evolves, integrating online learning with other advanced technologies like reinforcement learning promises to unlock even more sophisticated [trading strategies](../t/trading_strategies.md). However, challenges related to data quality and concept drift must be addressed to maximize the efficacy of these algorithms. The future of online learning in [algorithmic trading](../a/algorithmic_trading.md) looks promising, but it will require careful navigation of ethical and regulatory landscapes.
+Online [learning algorithms](../l/learning_algorithms_in_trading.md) represent a powerful tool in the arsenal of algorithmic traders, enabling [real-time data analysis](../r/real-time_data_analysis.md) and model updates. Whether it's in predicting stock prices, managing portfolios, or executing high-frequency trades, these algorithms offer distinct advantages over traditional batch learning techniques. As the field evolves, integrating online learning with other advanced technologies like reinforcement learning promises to unlock even more sophisticated [trading strategies](../t/trading_strategies.md). However, challenges related to data quality and concept drift must be addressed to maximize the efficacy of these algorithms. The future of online learning in [algorithmic trading](../a/algorithmic_trading.md) looks promising, but it will require careful navigation of ethical and regulatory landscapes.

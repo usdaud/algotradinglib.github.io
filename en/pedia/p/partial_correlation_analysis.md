@@ -1,6 +1,6 @@
 # Partial Correlation Analysis
 
-Partial correlation measures the degree of association between two variables while controlling for the effect of one or more additional variables. This statistical tool is particularly useful in fields like [algorithmic trading](../a/algorithmic_trading.md), where analysts and traders are always looking for innovative methods to understand complex market dynamics and identify trading opportunities. [Algorithmic trading](../a/algorithmic_trading.md) relies on mathematical models and statistical measures to make automated trading decisions, and partial correlation can be one of those valuable tools.
+Partial correlation measures the degree of association between two variables while controlling for the effect of one or more additional variables. This statistical tool is particularly useful in fields like [algorithmic trading](../a/algorithmic_trading.md), where analysts and traders are always looking for innovative methods to understand complex market dynamics and identify trading opportunities. [Algorithmic trading](../a/algorithmic_trading.md) relies on [mathematical models](../m/mathematical_models_in_trading.md) and statistical measures to make automated trading decisions, and partial correlation can be one of those valuable tools.
 
 ### Why Partial Correlation?
 
@@ -84,7 +84,7 @@ Partial correlation is used in the development and validation of [factor models]
 
 #### Machine Learning Integration
 
-In the realm of machine learning, partial correlation can be employed to reduce multicollinearity among features, thus enhancing the performance of predictive models. Features with high partial correlations may be redundant and, therefore, one of them can be removed to improve model stability and interpretability.
+In the realm of machine learning, partial correlation can be employed to reduce [multicollinearity](../m/multicollinearity_in_trading.md) among features, thus enhancing the performance of [predictive models](../p/predictive_models_in_trading.md). Features with high partial correlations may be redundant and, therefore, one of them can be removed to improve model stability and interpretability.
 
 ### Practical Cases and Examples
 
@@ -100,7 +100,7 @@ Consider a scenario where an analyst wants to study the relationship between the
 
 1. **Data Quality**: Partial [correlation analysis](../c/correlation_analysis.md) is highly sensitive to the quality of input data. Poor data can lead to misleading results.
 2. **Assumptions**: It assumes linear relationships among variables, which might not always be the case in financial markets.
-3. **Multicollinearity**: High multicollinearity among control variables can distort the partial correlation results, leading to unreliable conclusions.
+3. **[Multicollinearity](../m/multicollinearity_in_trading.md)**: High [multicollinearity](../m/multicollinearity_in_trading.md) among control variables can distort the partial correlation results, leading to unreliable conclusions.
 4. **Overfitting**: In complex models, there’s a risk of overfitting, particularly if too many control variables are used.
 
 ### Conclusion

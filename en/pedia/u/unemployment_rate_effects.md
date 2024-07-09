@@ -40,7 +40,7 @@ While integrating unemployment data into [algorithmic trading](../a/algorithmic_
 
 3. **Regulatory Issues**: The use of unemployment data in [algorithmic trading](../a/algorithmic_trading.md) must adhere to regulatory standards. As regulatory frameworks evolve, algos must be updated to ensure compliance, particularly in high-frequency trading environments where regulations are stringent.
 
-4. **Competition**: The rise of [algorithmic trading](../a/algorithmic_trading.md) means numerous players are competing based on the same data points, including unemployment rates. This competition can erode profit margins and make it harder for individual algorithms to gain an edge.
+4. **Competition**: The rise of [algorithmic trading](../a/algorithmic_trading.md) means numerous players are competing based on the same data points, including unemployment rates. This competition can erode [profit margins](../p/profit_margins_in_trading.md) and make it harder for individual algorithms to gain an edge.
 
 ### Case Studies
 

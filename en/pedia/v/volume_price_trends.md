@@ -45,7 +45,7 @@ Several trading platforms and tools support VPT integration:
 
 ### Hedge Funds and Proprietary Trading Firms
 Several hedge funds and [proprietary trading](../p/proprietary_trading.md) firms specialize in [algorithmic trading](../a/algorithmic_trading.md) and use VPT as part of their strategy portfolio:
-- **Renaissance Technologies**: Known for its Medallion Fund, Renaissance uses advanced mathematical models, potentially including volume and price [trend analysis](../t/trend_analysis.md), to achieve high returns.
+- **Renaissance Technologies**: Known for its Medallion Fund, Renaissance uses advanced [mathematical models](../m/mathematical_models_in_trading.md), potentially including volume and price [trend analysis](../t/trend_analysis.md), to achieve high returns.
 - **Two Sigma**: Another quantitative hedge fund that employs a variety of data-driven strategies, likely incorporating volume-based indicators like the VPT. [Two Sigma](https://www.twosigma.com/)
 
 ### Retail Traders

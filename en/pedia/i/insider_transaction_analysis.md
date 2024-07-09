@@ -30,7 +30,7 @@ Several platforms and regulatory filings provide data on insider transactions:
 - **EDGAR Database**: The SEC’s Electronic Data Gathering, Analysis, and Retrieval system where insiders must file forms like Form 4.
   [EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch.html)
   
-- **Yahoo Finance Insider Transactions**
+- **[Yahoo Finance](../y/yahoo_finance.md) Insider Transactions**
   [Yahoo Finance Insider Transactions](https://finance.yahoo.com/insider-transactions)
 
 - **[Bloomberg](../b/bloomberg.md) Insiders Transactions**

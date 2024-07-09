@@ -1,6 +1,6 @@
 # Quantitative Investment Techniques
 
-Quantitative investment techniques involve using mathematical models and statistical methods to make investment decisions. These techniques are largely automated, relying on computer algorithms to generate [trading signals](../t/trading_signals.md) and manage portfolios. Here is a detailed examination of quantitative investment techniques, their foundations, and their applications.
+Quantitative investment techniques involve using [mathematical models](../m/mathematical_models_in_trading.md) and statistical methods to make investment decisions. These techniques are largely automated, relying on computer algorithms to generate [trading signals](../t/trading_signals.md) and manage portfolios. Here is a detailed examination of quantitative investment techniques, their foundations, and their applications.
 
 ## Historical Background
 
@@ -64,7 +64,7 @@ VaR measures the potential loss in value of a portfolio over a defined period fo
 
 ### Stress Testing
 
-Stress testing involves evaluating the resilience of a portfolio by simulating extreme market conditions. It helps in understanding the potential impact of rare but severe market events.
+[Stress testing](../s/stress_testing_in_trading.md) involves evaluating the resilience of a portfolio by simulating extreme market conditions. It helps in understanding the potential impact of rare but severe market events.
 
 ### Sharpe Ratio
 
@@ -72,7 +72,7 @@ The [Sharpe Ratio](../s/sharpe_ratio.md) measures the [risk-adjusted return](../
 
 ## Software and Tools
 
-Various software platforms and tools are available to support quantitative investment techniques.
+Various [software platforms](../s/software_platforms_for_trading.md) and tools are available to support quantitative investment techniques.
 
 ### MATLAB
 
@@ -80,7 +80,7 @@ MATLAB is widely used for mathematical modeling, algorithm development, and data
 
 ### Python
 
-Python, with libraries like Pandas, NumPy, and scikit-learn, has become a popular choice for implementing quantitative strategies due to its simplicity and versatility.
+Python, with libraries like Pandas, NumPy, and scikit-learn, has become a popular choice for implementing [quantitative strategies](../q/quantitative_strategies_in_trading.md) due to its simplicity and versatility.
 
 ### R
 
@@ -108,7 +108,7 @@ Traditional asset management firms are also increasingly adopting quantitative t
 
 ## Challenges and Limitations
 
-Quantitative investment techniques are not without their challenges. Overfitting, where models perform well on historical data but poorly on unseen data, is a common issue. [Market anomalies](../m/market_anomalies.md) and behavioral biases can also affect model performance.
+Quantitative investment techniques are not without their challenges. Overfitting, where models perform well on historical data but poorly on unseen data, is a common issue. [Market anomalies](../m/market_anomalies.md) and [behavioral biases](../b/behavioral_biases_in_trading.md) can also affect model performance.
 
 ## Future Trends
 
@@ -118,7 +118,7 @@ The integration of AI and machine learning will continue to evolve, offering mor
 
 ### Big Data
 
-The growth of big data will provide even more granular and diverse datasets for analysis, opening up new avenues for quantitative strategies.
+The growth of [big data](../b/big_data_in_trading.md) will provide even more granular and diverse datasets for analysis, opening up new avenues for [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 ### Regulatory Environment
 

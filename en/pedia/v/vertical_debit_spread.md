@@ -80,7 +80,7 @@ Several platforms and tools are available for traders looking to implement Verti
 1. **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple markets and offers extensive [backtesting](../b/backtesting.md) capabilities. (https://www.[quantconnect](../q/quantconnect.md).com/)
 2. **[AlgoTrader](../a/algotrader.md)**: A trading platform specializing in [algorithmic trading](../a/algorithmic_trading.md), supporting automated trading on futures and options markets. (https://www.[algotrader](../a/algotrader.md).com/)
 3. **[TradeStation](../t/tradestation.md)**: Known for robust trading software and range of products suitable for automating options strategies. (https://www.[tradestation](../t/tradestation.md).com/)
-4. **Interactive Brokers**: Offers API access to automate trading and supports [options trading strategies](../o/options_trading_strategies.md) such as Vertical Debit Spreads. (https://www.interactivebrokers.com/)
+4. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers API access to automate trading and supports [options trading strategies](../o/options_trading_strategies.md) such as Vertical Debit Spreads. (https://www.interactivebrokers.com/)
 
 ## Conclusion
 

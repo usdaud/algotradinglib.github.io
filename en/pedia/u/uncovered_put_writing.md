@@ -32,7 +32,7 @@ A trader writes a put option with a strike price of $50 when the underlying stoc
 3. **[Risk Management](../r/risk_management.md) Rules:** Define strict rules for stop-loss, [position sizing](../p/position_sizing.md), and margin requirements to mitigate the inherent risks of uncovered put writing.
 
 #### Tools and Technologies:
-1. **Trading Platforms:** Platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and Interactive Brokers provide the necessary infrastructure for executing automated strategies.
+1. **Trading Platforms:** Platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [Interactive Brokers](../i/interactive_brokers.md) provide the necessary infrastructure for executing automated strategies.
 2. **Programming Languages:** Using languages like Python, R, and C++ to develop algorithms that analyze market data and execute trades.
 3. **APIs:** APIs from brokers and data providers (e.g., [Alpaca](../a/alpaca.md) Markets, [Alpaca](../a/alpaca.md): https://[alpaca](../a/alpaca.md).markets/) enable seamless integration and real-time data access.
 
@@ -51,7 +51,7 @@ Optimizing the uncovered put writing strategy involves fine-tuning various eleme
 
 #### Steps:
 1. **Data Gathering:** Collect historical price and volatility data for S&P 500 stocks from a reliable data provider.
-2. **Model Development:** Develop predictive models for price direction and volatility using machine learning techniques like [regression analysis](../r/regression_analysis.md).
+2. **Model Development:** Develop [predictive models](../p/predictive_models_in_trading.md) for price direction and volatility using machine learning techniques like [regression analysis](../r/regression_analysis.md).
 3. **Trade Execution:** Write [put options](../p/put_options.md) with strike prices 5% below the current price for stocks predicted to have stable or increasing prices.
 4. **[Risk Management](../r/risk_management.md):** Set a 10% stop-loss rule for individual positions and overall portfolio.
 5. **Performance Monitoring:** Continuously analyze performance and fine-tune models to adapt to changing market conditions.

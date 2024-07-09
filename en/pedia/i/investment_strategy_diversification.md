@@ -72,7 +72,7 @@ Automated systems that regularly reallocate investments within a portfolio to ma
 
 ### Example: Two Sigma
 
-Two Sigma (https://www.twosigma.com/) is a prominent example of a firm that employs advanced technology and data science to implement diversified [algorithmic trading](../a/algorithmic_trading.md) strategies. They leverage machine learning, distributed computing, and other quantitative methods to enhance the diversification and performance of their investment portfolios.
+Two Sigma (https://www.twosigma.com/) is a prominent example of a firm that employs advanced technology and [data science](../d/data_science_in_trading.md) to implement diversified [algorithmic trading](../a/algorithmic_trading.md) strategies. They leverage machine learning, distributed computing, and other quantitative methods to enhance the diversification and performance of their investment portfolios.
 
 ## Challenges in Diversification
 

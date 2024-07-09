@@ -71,7 +71,7 @@ Lower Band = SMA - (Standard Deviation * N)
 Where `N` is the number of days in the calculation, the default being 20.
 
 ### Average True Range (ATR)
-The Average True Range (ATR) is an indicator that measures market volatility. It is typically derived from the 14-day simple moving average of a series of true range indicators.
+The [Average True Range](../a/average_true_range_(atr).md) (ATR) is an indicator that measures market volatility. It is typically derived from the 14-day simple moving average of a series of true range indicators.
 
 ```
 True Range (TR) = Maximum[(High - Low), (High - Close_previous), (Low - Close_previous)]

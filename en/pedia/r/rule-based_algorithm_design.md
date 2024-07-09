@@ -7,7 +7,7 @@ Rule-based [algorithm design](../a/algorithm_design.md) refers to a systematic a
 [Algorithmic trading](../a/algorithmic_trading.md) has evolved tremendously over the past 30 years. Early versions of [trading algorithms](../t/trading_algorithms.md) were rudimentary, relying on simple rule-based systems for making decisions. These early systems were designed to execute trades under certain market conditions, like crossing moving averages or breaking [support and resistance](../s/support_and_resistance.md) lines.
 
 ### The Rise of Electronic Trading 
-The 1990s marked an era where electronic trading platforms surged. This digitization allowed for more sophisticated [rule-based trading](../r/rule-based_trading.md) systems. Institutions such as Renaissance Technologies, founded by Jim Simons, utilized complex mathematical models to outsmart the market.
+The 1990s marked an era where electronic trading platforms surged. This digitization allowed for more sophisticated [rule-based trading](../r/rule-based_trading.md) systems. Institutions such as Renaissance Technologies, founded by Jim Simons, utilized complex [mathematical models](../m/mathematical_models_in_trading.md) to outsmart the market.
 
 ## Core Components of Rule-Based Design
 ### Rules and Conditions
@@ -21,7 +21,7 @@ Example:
 Rules can be derived from:
 - [Technical Analysis](../t/technical_analysis.md): Utilizing indicators like Moving Averages, Relative Strength Index (RSI), MACD.
 - [Fundamental Analysis](../f/fundamental_analysis.md): Based on financial health indicators such as earnings reports, P/E ratios.
-- [Quantitative Models](../q/quantitative_models.md): Using statistical measures and machine learning algorithms to identify patterns.
+- [Quantitative Models](../q/quantitative_models.md): Using statistical measures and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to identify patterns.
 
 ### Execution Engine
 The execution engine is responsible for executing trades when the rules' criteria are met. It is usually integrated with the trading platform for real-time trading.
@@ -72,7 +72,7 @@ Retail investors now have access to platforms that allow them to create and depl
 
 Examples:
 - [Robinhood](../r/robinhood.md): Offers [algorithmic trading](../a/algorithmic_trading.md) tools for retail investors. [Robinhood](https://robinhood.com)
-- Interactive Brokers: Provides API access for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com)
+- [Interactive Brokers](../i/interactive_brokers.md): Provides API access for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com)
 
 ## Challenges and Considerations
 ### Market Dynamics
@@ -92,7 +92,7 @@ Incorporating robust [risk management](../r/risk_management.md) strategies is es
 The integration of AI and machine learning can enhance rule-based algorithms by enabling them to adapt to new data and market conditions autonomously.
 
 ### Quantum Computing
-Quantum computing holds the potential to solve complex optimization problems faster than classical computers, potentially revolutionizing [algorithmic trading](../a/algorithmic_trading.md).
+[Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to solve complex optimization problems faster than classical computers, potentially revolutionizing [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Decentralized Finance (DeFi)
 DeFi platforms could offer new avenues for deploying rule-based strategies in a decentralized manner, providing more transparency and reducing reliance on traditional financial institutions.

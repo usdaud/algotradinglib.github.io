@@ -9,7 +9,7 @@ MetaTrader 5 (MT5) is a [multi-asset trading](../m/multi-asset_trading.md) platf
 3. **Automated Trading**: Supports automated trading through Expert Advisors (EAs) using the MQL5 programming language.
 4. **Market Depth**: Provides detailed market depth information for better understanding of market liquidity.
 5. **Economic Calendar**: Integrated economic calendar with real-time updates on important economic events and news.
-6. **Order Types**: Supports multiple order types, including market, limit, stop, and trailing stop orders.
+6. **[Order Types](../o/order_types_in_trading.md)**: Supports multiple [order types](../o/order_types_in_trading.md), including market, limit, stop, and trailing stop orders.
 7. **Hedging and Netting**: Offers both hedging and netting account types to suit different [trading strategies](../t/trading_strategies.md).
 8. **Multi-Device Support**: Available on desktop, web, and mobile devices, ensuring seamless access to trading accounts.
 9. **[Fundamental Analysis](../f/fundamental_analysis.md)**: Tools for [fundamental analysis](../f/fundamental_analysis.md), including financial news and [economic indicators](../e/economic_indicators.md).

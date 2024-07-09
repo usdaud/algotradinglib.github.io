@@ -4,7 +4,7 @@ Currency trading, also known as forex trading or FX trading, involves the buying
 
 ## Fundamental Analysis
 
-[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating the intrinsic value of a currency based on [economic indicators](../e/economic_indicators.md), political events, and social factors. Traders who employ [fundamental analysis](../f/fundamental_analysis.md) look at data such as GDP growth rates, interest rates, employment figures, inflation rates, and political stability. The goal is to predict how these factors will impact the future movement of currency prices.
+[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating the intrinsic value of a currency based on [economic indicators](../e/economic_indicators.md), political events, and social factors. Traders who employ [fundamental analysis](../f/fundamental_analysis.md) look at data such as GDP [growth rates](../g/growth_rates_in_trading.md), interest rates, employment figures, inflation rates, and political stability. The goal is to predict how these factors will impact the future movement of currency prices.
 
 ### Key Economic Indicators
 
@@ -64,7 +64,7 @@ Currency trading, also known as forex trading or FX trading, involves the buying
 
 - **[Mean Reversion](../m/mean_reversion.md):** This strategy is based on the idea that prices will eventually revert to their historical averages. Algorithms identify overbought or oversold conditions and trade accordingly.
 
-- **Statistical [Arbitrage](../a/arbitrage.md):** This involves complex mathematical models to identify trading opportunities based on statistical relationships between different currency pairs.
+- **Statistical [Arbitrage](../a/arbitrage.md):** This involves complex [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities based on statistical relationships between different currency pairs.
 
 - **Market Making:** [Market making algorithms](../m/market_making_algorithms.md) provide liquidity by simultaneously placing buy and sell orders. The algorithm profits from the [bid-ask spread](../b/bid-ask_spread.md).
 

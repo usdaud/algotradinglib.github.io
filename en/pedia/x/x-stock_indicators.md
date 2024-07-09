@@ -1,6 +1,6 @@
 # X-Stock Indicators
 
-In the world of [algorithmic trading](../a/algorithmic_trading.md), market participants are always seeking innovative tools and indicators to gain a competitive edge. One such series of tools can broadly be categorized under the term 'X-Stock Indicators'. These indicators utilize complex mathematical models and algorithms to digest vast amounts of market data and deliver actionable [trading signals](../t/trading_signals.md). This article aims to provide a detailed exploration of these indicators, their mechanics, applications, and examples within the industry.
+In the world of [algorithmic trading](../a/algorithmic_trading.md), market participants are always seeking innovative tools and indicators to gain a competitive edge. One such series of tools can broadly be categorized under the term 'X-Stock Indicators'. These indicators utilize complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to digest vast amounts of market data and deliver actionable [trading signals](../t/trading_signals.md). This article aims to provide a detailed exploration of these indicators, their mechanics, applications, and examples within the industry.
 
 ## Overview of X-Stock Indicators
 
@@ -17,7 +17,7 @@ X-Stock Indicators are a subset of [technical indicators](../t/technical_indicat
 2. **Volatility Indicators**
    - **[Bollinger Bands](../b/bollinger_bands.md)**:
      These bands are a volatility indicator that creates a set of upper and lower bands around the price level based on standard deviations.
-   - **Average True Range (ATR)**:
+   - **[Average True Range](../a/average_true_range_(atr).md) (ATR)**:
      ATR measures market volatility by decomposing the entire range of an asset price for that period.
     
 3. **[Volume Indicators](../v/volume_indicators.md)**
@@ -42,7 +42,7 @@ Data is collected from various sources including stock exchanges, financial news
 
 ### Algorithmic Analysis
 
-Algorithms employed for X-Stock indicators are usually based on mathematical and statistical models. Techniques such as [regression analysis](../r/regression_analysis.md), Fourier transforms, and neural networks are commonly used. The choice of algorithm depends on the specific indicator and the type of analysis required.
+Algorithms employed for X-Stock indicators are usually based on mathematical and statistical models. Techniques such as [regression analysis](../r/regression_analysis.md), Fourier transforms, and [neural networks](../n/neural_networks_in_trading.md) are commonly used. The choice of algorithm depends on the specific indicator and the type of analysis required.
 
 ### Signal Generation
 

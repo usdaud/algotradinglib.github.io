@@ -149,14 +149,14 @@ In this Python example, the `calculate_3_period_rsi` function calculates the 3-p
 
 ### Limitations
 
-1. **False Signals**:
-   - The increased sensitivity of the 3-period RSI can also be a double-edged sword, leading to more false signals. Short-term noise and market volatility can trigger premature buy or sell signals.
+1. **[False Signals](../f/false_signals_in_trading.md)**:
+   - The increased sensitivity of the 3-period RSI can also be a double-edged sword, leading to more [false signals](../f/false_signals_in_trading.md). Short-term noise and market volatility can trigger premature buy or sell signals.
 
 2. **Dependency on Market Conditions**:
    - In trending markets, the 3-period RSI may give numerous overbought or oversold signals without a resulting price reversal. This can lead to losses for traders relying solely on RSI signals.
 
 3. **Need for Confirmation**:
-   - To mitigate the risk of false signals, traders often combine the 3-period RSI with other [technical indicators](../t/technical_indicators.md) or analysis methods to confirm [trading signals](../t/trading_signals.md).
+   - To mitigate the risk of [false signals](../f/false_signals_in_trading.md), traders often combine the 3-period RSI with other [technical indicators](../t/technical_indicators.md) or analysis methods to confirm [trading signals](../t/trading_signals.md).
 
 ## Practical Use Cases and Strategies
 
@@ -201,4 +201,4 @@ To increase the robustness of [trading strategies](../t/trading_strategies.md), 
 
 ## Conclusion
 
-The 3-period RSI is a powerful tool in the arsenal of algorithmic traders. Its ability to provide timely insights into short-term market conditions makes it particularly useful for high-frequency trading and intraday strategies. However, like all [technical indicators](../t/technical_indicators.md), it is not infallible and should be used in combination with other indicators and analysis techniques to improve accuracy and reduce the risk of false signals. By understanding its calculation, applications, and limitations, traders can effectively incorporate the 3-period RSI into their [trading strategies](../t/trading_strategies.md) to enhance their decision-making process and potentially increase profitability.
+The 3-period RSI is a powerful tool in the arsenal of algorithmic traders. Its ability to provide timely insights into short-term market conditions makes it particularly useful for high-frequency trading and intraday strategies. However, like all [technical indicators](../t/technical_indicators.md), it is not infallible and should be used in combination with other indicators and analysis techniques to improve accuracy and reduce the risk of [false signals](../f/false_signals_in_trading.md). By understanding its calculation, applications, and limitations, traders can effectively incorporate the 3-period RSI into their [trading strategies](../t/trading_strategies.md) to enhance their decision-making process and potentially increase profitability.

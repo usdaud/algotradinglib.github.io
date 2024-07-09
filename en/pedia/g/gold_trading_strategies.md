@@ -4,7 +4,7 @@ Gold [trading strategies](../t/trading_strategies.md) involve a variety of techn
 
 ## Introduction to Gold Trading
 
-Gold has been a valuable asset for thousands of years, serving not only as a store of value but also as a hedge against inflation and economic uncertainty. The gold market is highly liquid, with trading taking place around the clock in major financial centers across the globe. Investors can trade gold through various instruments, including physical bullion, [futures contracts](../f/futures_contracts.md), ETFs, and more.
+Gold has been a valuable asset for thousands of years, serving not only as a store of value but also as a hedge against inflation and economic [uncertainty](../u/uncertainty_in_trading.md). The gold market is highly liquid, with trading taking place around the clock in major financial centers across the globe. Investors can trade gold through various instruments, including physical bullion, [futures contracts](../f/futures_contracts.md), ETFs, and more.
 
 ## Algorithmic Trading in Gold
 
@@ -22,7 +22,7 @@ Gold has been a valuable asset for thousands of years, serving not only as a sto
     - **[Arbitrage](../a/arbitrage.md) Opportunities**: Algorithms exploit price differences between different markets or instruments.
 
 3. **[Backtesting](../b/backtesting.md)**:
-    - Simulation of the trading algorithm on historical data to evaluate its performance and refine the strategy.
+    - [Simulation](../s/simulation_in_trading.md) of the trading algorithm on historical data to evaluate its performance and refine the strategy.
 
 4. **Execution**:
     - Execution of trades through brokers or trading platforms with minimal latency.

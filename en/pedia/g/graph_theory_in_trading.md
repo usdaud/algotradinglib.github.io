@@ -15,7 +15,7 @@ At its core, graph theory studies the properties and applications of graphs, whi
 
 #### 1. Market Network Analysis
 
-A fundamental use of graph theory in trading is market network analysis, where stocks, financial instruments, or other market entities are represented as vertices, and the relationships between them (based on correlations, transactions, etc.) are edges. Market networks can reveal valuable insights into market dynamics.
+A fundamental use of graph theory in trading is market [network analysis](../n/network_analysis_in_trading.md), where stocks, financial instruments, or other market entities are represented as vertices, and the relationships between them (based on correlations, transactions, etc.) are edges. Market networks can reveal valuable insights into market dynamics.
 
 - **Correlation Networks:** One common approach is to create a correlation matrix of asset returns and then convert it into a graph. In this graph, vertices represent assets, and edges represent correlations between asset returns. By analyzing the structure of this network, traders can identify clusters of highly correlated assets.
   
@@ -91,10 +91,10 @@ Website: [Neo4j](https://neo4j.com/)
 
 #### 4. **Quantexa**
 
-Quantexa uses advanced network analytics powered by graph theory to enhance decision-making in finance. Their platform is adept at detecting risks, uncovering fraud, and gaining insights from big data.
+Quantexa uses advanced network analytics powered by graph theory to enhance decision-making in finance. Their platform is adept at detecting risks, uncovering fraud, and gaining insights from [big data](../b/big_data_in_trading.md).
 
 Website: [Quantexa](https://www.quantexa.com/)
 
 ### Conclusion
 
-Graph theory is a powerful tool that offers immense potential in the domain of algo-trading. From market network analysis to [optimal execution strategies](../o/optimal_execution_strategies.md) and [sentiment analysis](../s/sentiment_analysis.md), the applications are numerous and varied. Companies like Kx Systems, Graphistry, Neo4j, and Quantexa are at the forefront of incorporating graph analytics into trading platforms, providing traders and institutions with the tools they need to stay competitive in a fast-evolving market. As financial markets continue to grow in complexity, the importance of advanced mathematical and computational techniques, including graph theory, is only likely to increase.
+Graph theory is a powerful tool that offers immense potential in the domain of algo-trading. From market [network analysis](../n/network_analysis_in_trading.md) to [optimal execution strategies](../o/optimal_execution_strategies.md) and [sentiment analysis](../s/sentiment_analysis.md), the applications are numerous and varied. Companies like Kx Systems, Graphistry, Neo4j, and Quantexa are at the forefront of incorporating graph analytics into trading platforms, providing traders and institutions with the tools they need to stay competitive in a fast-evolving market. As financial markets continue to grow in complexity, the importance of advanced mathematical and computational techniques, including graph theory, is only likely to increase.

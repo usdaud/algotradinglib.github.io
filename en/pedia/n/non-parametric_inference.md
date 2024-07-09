@@ -1,6 +1,6 @@
 # Non-Parametric Inference
 
-Non-parametric inference is a broad area within the domain of statistical inference, which makes no strong assumptions about the form of the distribution from which the sampled data are drawn. Unlike parametric methods that assume a specific distribution (e.g., normal distribution) and estimate the parameters of that distribution, non-parametric methods are more flexible. They rely on fewer assumptions about the underlying data structure, making them particularly useful in scenarios where parametric assumptions cannot be validated or are inappropriate.
+Non-parametric inference is a broad area within the domain of statistical inference, which makes no strong assumptions about the form of the distribution from which the sampled data are drawn. Unlike parametric methods that assume a specific distribution (e.g., [normal distribution](../n/normal_distribution_in_trading.md)) and estimate the parameters of that distribution, non-parametric methods are more flexible. They rely on fewer assumptions about the underlying data structure, making them particularly useful in scenarios where parametric assumptions cannot be validated or are inappropriate.
 
 ## Key Features of Non-Parametric Inference
 
@@ -81,7 +81,7 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), non-parame
 Non-parametric methods can be employed to estimate Value at Risk (VaR) and Conditional Value at Risk (CVaR) without making specific distributional assumptions. For example, [historical simulation](../h/historical_simulation.md), a non-parametric approach, uses historical returns data to estimate the quantiles of the return distribution directly.
 
 ### Price Prediction
-Non-parametric regression methods, such as kernel regression and K-NN, can be used to predict future stock prices based on past prices and other relevant features. These methods do not assume a specific functional form and can adapt to the underlying data patterns.
+Non-parametric [regression methods](../r/regression_methods_in_trading.md), such as kernel regression and K-NN, can be used to predict future stock prices based on past prices and other relevant features. These methods do not assume a specific functional form and can adapt to the underlying data patterns.
 
 ### Volatility Estimation
 Kernel Density Estimation and other non-parametric methods can be utilized to estimate the volatility of financial instruments. This can be particularly advantageous when the volatility pattern is not well-captured by parametric models.

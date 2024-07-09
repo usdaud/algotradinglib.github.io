@@ -1,6 +1,6 @@
 # Market Forecasting
 
-Market forecasting in [algorithmic trading](../a/algorithmic_trading.md) is a complex and multifaceted process that involves the use of mathematical models, statistical tools, and computer algorithms to predict future market movements. Below, we delve into the essential components and concepts of market forecasting within the realm of [algorithmic trading](../a/algorithmic_trading.md).
+Market forecasting in [algorithmic trading](../a/algorithmic_trading.md) is a complex and multifaceted process that involves the use of [mathematical models](../m/mathematical_models_in_trading.md), statistical tools, and computer algorithms to predict future market movements. Below, we delve into the essential components and concepts of market forecasting within the realm of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## 1. Introduction to Market Forecasting
 
@@ -54,23 +54,23 @@ Several models are utilized to analyze and forecast time series data:
 Supervised learning involves training algorithms on labeled data, where the input-output relationships are known. Common supervised learning techniques include:
 
 - **[Linear Regression](../l/linear_regression.md)**: Models the relationship between dependent and independent variables.
-- **[Decision Trees](../d/decision_trees.md)**: Non-linear models that segment data based on feature values.
-- **Support Vector Machines (SVM)**: Classifies data by finding the optimal hyperplane.
+- **[Decision Trees](../d/decision_trees.md)**: Non-[linear models](../l/linear_models_in_trading.md) that segment data based on feature values.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Classifies data by finding the optimal hyperplane.
 
 ### 4.2. Unsupervised Learning
 
 Unsupervised learning deals with unlabeled data and aims to find hidden patterns or groupings. Techniques include:
 
-- **Clustering**: Groups similar data points together (e.g., K-means clustering).
-- **Principal Component Analysis (PCA)**: Reduces the dimensionality of the data, retaining the most significant features.
+- **Clustering**: Groups similar data points together (e.g., [K-means clustering](../k/k-means_clustering_in_trading.md)).
+- **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces the dimensionality of the data, retaining the most significant features.
 
 ### 4.3. Deep Learning
 
-Deep learning, a subset of machine learning, uses neural networks with many layers to model complex data representations. Key architectures used in market forecasting include:
+Deep learning, a subset of machine learning, uses [neural networks](../n/neural_networks_in_trading.md) with many layers to model complex data representations. Key architectures used in market forecasting include:
 
-- **Recurrent Neural Networks (RNNs)**: Suitable for sequential data, capturing temporal dependencies.
+- **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs)**: Suitable for sequential data, capturing [temporal dependencies](../t/temporal_dependencies_in_trading.md).
 - **Long Short-Term Memory Networks (LSTMs)**: A type of RNN that can learn long-term dependencies and prevent the vanishing gradient problem.
-- **Convolutional Neural Networks (CNNs)**: Used for feature extraction from spatial data, sometimes combined with other models for financial data.
+- **Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs)**: Used for feature extraction from spatial data, sometimes combined with other models for financial data.
 
 ## 5. Sentiment Analysis
 
@@ -125,9 +125,9 @@ Real-time data processing is crucial for [algorithmic trading](../a/algorithmic_
 
 ### 7.3. Integration with Trading Platforms
 
-Trading platforms, such as **Interactive Brokers** and **MetaTrader**, offer APIs for integrating custom algorithms, enabling automated trading:
+Trading platforms, such as **[Interactive Brokers](../i/interactive_brokers.md)** and **MetaTrader**, offer APIs for integrating custom algorithms, enabling automated trading:
 
-- **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com/)
 - **MetaTrader**: [MetaTrader](https://www.metatrader5.com/)
 
 ## 8. Challenges and Risks

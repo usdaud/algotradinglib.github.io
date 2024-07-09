@@ -38,7 +38,7 @@ Execution involves exploiting the identified mispricing by:
 Due to the complexity and speed required for weighted index [arbitrage](../a/arbitrage.md), quantitative methods and algorithms play a crucial role. These methods include:
 
 - **Statistical [Arbitrage](../a/arbitrage.md) Models:** These models use statistical methods to predict price movements and identify [arbitrage](../a/arbitrage.md) opportunities.
-- **Machine Learning Algorithms:** These algorithms can improve over time through experience and more data, making predictions more accurate.
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md):** These algorithms can improve over time through experience and more data, making predictions more accurate.
 - **High-Frequency Trading (HFT):** Leveraging advanced technology to execute trades in milliseconds, ensuring near-instantaneous [arbitrage](../a/arbitrage.md) execution.
 
 ### Risk Factors
@@ -68,7 +68,7 @@ Weighted index [arbitrage](../a/arbitrage.md) strategies are widely employed in 
 Advanced technological infrastructure is essential for firms engaging in weighted index [arbitrage](../a/arbitrage.md). Essential components include:
 
 - **Low Latency Networks:** To transmit data and execute trades swiftly.
-- **Advanced Data Analytics Platforms:** For real-time data processing and model simulation.
+- **Advanced Data Analytics Platforms:** For real-time data processing and model [simulation](../s/simulation_in_trading.md).
 - **Robust [Algorithmic Trading](../a/algorithmic_trading.md) Systems:** Capable of handling high transaction volumes with minimal errors.
 - **[Risk Management](../r/risk_management.md) Systems:** Ensuring comprehensive risk assessment and mitigation strategies.
 

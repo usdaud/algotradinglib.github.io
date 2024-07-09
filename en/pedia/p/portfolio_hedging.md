@@ -125,7 +125,7 @@ A U.S.-based fund has a significant exposure to European equities valued at €5
 - Analyze correlations and [risk metrics](../r/risk_metrics.md) continuously.
 
 **Companies Offering Advanced Hedging Algorithms:**
-- [Arrow Grass](https://www.arrowgrass.com/): Provides sophisticated hedge fund solutions using quantitative strategies.
+- [Arrow Grass](https://www.arrowgrass.com/): Provides sophisticated hedge fund solutions using [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 - [Numerix](https://www.numerix.com/): Specializes in [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing software.
 
 ### Portfolio Management Software

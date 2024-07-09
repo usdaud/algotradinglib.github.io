@@ -30,7 +30,7 @@ Algorithmic traders deploy the [Kelly Criterion](../k/kelly_criterion.md) to det
 
 ### Maximizing Growth
 
-The primary advantage of the [Kelly Criterion](../k/kelly_criterion.md) is that it maximizes the long-term growth rate of capital. Unlike fixed-percentage betting or other risk strategies, Kelly rationalizes the amount of investment based on historical data and probability theory, leading to optimized capital growth over time.
+The primary advantage of the [Kelly Criterion](../k/kelly_criterion.md) is that it maximizes the long-term growth rate of capital. Unlike fixed-percentage betting or other risk strategies, Kelly rationalizes the amount of investment based on historical data and [probability theory](../p/probability_theory_in_trading.md), leading to optimized capital growth over time.
 
 ### Discipline and Objectivity
 

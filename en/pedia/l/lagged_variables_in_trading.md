@@ -4,7 +4,7 @@ In the field of [algorithmic trading](../a/algorithmic_trading.md), lagged varia
 
 #### Fundamentals of Lagged Variables
 
-Lagged variables are essentially previous observations of a data point in a time series. For example, in a dataset of daily closing prices for a stock, the lagged variables might include the closing prices from yesterday (lag-1), the day before yesterday (lag-2), and so on. These lagged values help in identifying momentum, cyclic behaviors, and other temporal dependencies.
+Lagged variables are essentially previous observations of a data point in a time series. For example, in a dataset of daily closing prices for a stock, the lagged variables might include the closing prices from yesterday (lag-1), the day before yesterday (lag-2), and so on. These lagged values help in identifying momentum, cyclic behaviors, and other [temporal dependencies](../t/temporal_dependencies_in_trading.md).
 
 Mathematically, for a time series \(Y_t\), the lagged value by k periods is represented as \(Y_{t-k}\).
 

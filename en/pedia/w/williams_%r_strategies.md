@@ -70,8 +70,8 @@ A reading above -20 is considered overbought, while a reading below -80 is consi
 
 #### Limitations
 
-1. **False Signals**
-   [Williams %R](../w/williams_%r.md) can produce false signals, especially in strong trending markets. Overbought and oversold levels can persist for a long time in such conditions.
+1. **[False Signals](../f/false_signals_in_trading.md)**
+   [Williams %R](../w/williams_%r.md) can produce [false signals](../f/false_signals_in_trading.md), especially in strong trending markets. Overbought and oversold levels can persist for a long time in such conditions.
 
 2. **Lagging Nature**
    Since [Williams %R](../w/williams_%r.md) is based on historical prices, it is inherently a lagging indicator. It may not always predict turning points accurately but rather confirm trends after they begin.

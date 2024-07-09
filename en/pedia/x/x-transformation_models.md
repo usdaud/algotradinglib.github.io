@@ -18,8 +18,8 @@ X-Transformation models are a class of models that employ various transformation
     - **Interaction Terms:** Including interaction terms between different features to capture combined effects.
     - **Fourier Transforms:** Using FFT (Fast Fourier Transform) for transforming time-series data into the frequency domain.
 
-3. **Dimensionality Reduction:**
-    - **Principal Component Analysis (PCA):** Reducing the dimensionality of the dataset while retaining most of the variability.
+3. **[Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md):**
+    - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA):** Reducing the dimensionality of the dataset while retaining most of the variability.
     - **Autoencoders:** Using neural network-based models to learn a compact, latent representation of the data.
 
 4. **Model Modifications:**
@@ -59,17 +59,17 @@ Fourier Transform is used to decompose a time series into frequencies. The Fast 
 
 ### Principal Component Analysis (PCA)
 
-PCA is widely used for dimensionality reduction:
+PCA is widely used for [dimensionality reduction](../d/dimensionality_reduction_in_trading.md):
 
 - **PCA Transformation:**
     \[
     Z = W^TX
     \]
-    Where \( Z \) is the vector of principal components, \( W \) is the matrix of eigenvectors of the covariance matrix of \( X \), and \( X \) is the original data matrix.
+    Where \( Z \) is the vector of [principal components](../p/principal_components_in_trading.md), \( W \) is the matrix of eigenvectors of the covariance matrix of \( X \), and \( X \) is the original data matrix.
 
 ### Regularization Techniques
 
-Regularization helps prevent overfitting in predictive models. Two common techniques are:
+Regularization helps prevent overfitting in [predictive models](../p/predictive_models_in_trading.md). Two common techniques are:
 
 - **L1 Regularization (Lasso):**
     \[
@@ -95,7 +95,7 @@ Autoencoders are a type of neural network used for unsupervised learning of effi
 
 ### Signal Processing
 
-X-Transformation models are instrumental in signal processing, allowing traders to extract meaningful signals from [financial time series](../f/financial_time_series.md) data. For instance, Fourier Transforms can help identify cyclical patterns and trends that are not immediately apparent in the raw data.
+X-Transformation models are instrumental in [signal processing](../s/signal_processing_in_trading.md), allowing traders to extract meaningful signals from [financial time series](../f/financial_time_series.md) data. For instance, Fourier Transforms can help identify cyclical patterns and trends that are not immediately apparent in the raw data.
 
 ### Risk Management
 
@@ -103,7 +103,7 @@ By applying various transformations, traders can better understand and model the
 
 ### Predictive Modeling
 
-Transformations can enhance [predictive modeling](../p/predictive_modeling.md) by making the input data more suitable for machine learning algorithms. Techniques like polynomial transformations and interaction terms can reveal nonlinear relationships that traditional models might miss.
+Transformations can enhance [predictive modeling](../p/predictive_modeling.md) by making the input data more suitable for machine [learning algorithms](../l/learning_algorithms_in_trading.md). Techniques like polynomial transformations and interaction terms can reveal nonlinear relationships that traditional models might miss.
 
 ### Financial Anomaly Detection
 
@@ -135,7 +135,7 @@ GSA Capital Partners is a hedge fund known for its use of advanced statistical m
 
 ### Renaissance Technologies
 
-Renaissance Technologies, one of the most successful hedge funds, leverages complex mathematical models and transformations to drive its [trading strategies](../t/trading_strategies.md). Founded by mathematician James Simons, the firm's Medallion Fund is renowned for its high returns. Visit their [official website](https://www.rentec.com) for more details.
+Renaissance Technologies, one of the most successful hedge funds, leverages complex [mathematical models](../m/mathematical_models_in_trading.md) and transformations to drive its [trading strategies](../t/trading_strategies.md). Founded by mathematician James Simons, the firm's Medallion Fund is renowned for its high returns. Visit their [official website](https://www.rentec.com) for more details.
 
 ## Conclusion
 

@@ -74,7 +74,7 @@ When combined with other [technical indicators](../t/technical_indicators.md) or
 
 ### False Signals
 
-Like any [technical analysis](../t/technical_analysis.md) tool, bullish divergence is not foolproof. False signals can occur, leading to potential losses.
+Like any [technical analysis](../t/technical_analysis.md) tool, bullish divergence is not foolproof. [False signals](../f/false_signals_in_trading.md) can occur, leading to potential losses.
 
 ### Lagging Nature
 

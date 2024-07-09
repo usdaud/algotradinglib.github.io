@@ -90,7 +90,7 @@ Overfitting occurs when a trading strategy performs exceptionally well on histor
 
 ### Computational Resources
 
-Optimizing [trading strategies](../t/trading_strategies.md) with GAs can be computationally intensive, especially for complex strategies with many parameters. Efficient coding practices, parallel processing, and cloud computing resources can help manage computational demands.
+Optimizing [trading strategies](../t/trading_strategies.md) with GAs can be computationally intensive, especially for complex strategies with many parameters. Efficient coding practices, parallel processing, and [cloud computing](../c/cloud_computing_in_trading.md) resources can help manage computational demands.
 
 ### Market Dynamics
 

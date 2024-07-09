@@ -6,7 +6,7 @@ In financial markets, structural shifts refer to significant and often long-last
 
 **Technological Advancements**
 
-One of the most prominent drivers of structural shifts in markets is technological advancement. The advent of digital trading platforms, high-frequency trading (HFT), and artificial intelligence (AI) has profoundly changed the landscape of financial markets.
+One of the most prominent drivers of structural shifts in markets is technological advancement. The advent of digital trading platforms, high-frequency trading (HFT), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) has profoundly changed the landscape of financial markets.
 
 **1. Digital Trading Platforms**
 
@@ -16,9 +16,9 @@ With the rise of digital trading platforms, market access has been democratized.
 
 High-frequency trading, which involves the use of complex algorithms to execute trades at incredibly high speeds, has also shifted market structures. Firms like Virtu Financial (https://www.virtu.com/) use HFT strategies to take advantage of price disparities and liquidity imbalances in milliseconds. While HFT can provide liquidity, it can also lead to market instability, as seen during the Flash Crash of 2010.
 
-**3. Artificial Intelligence (AI) and Machine Learning**
+**3. [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning**
 
-Artificial Intelligence and machine learning have enabled traders to analyze massive datasets and execute strategies that were previously impossible. Hedge funds such as Renaissance Technologies (https://www.rentec.com/) employ AI to uncover patterns and make predictive models, fundamentally changing how [trading strategies](../t/trading_strategies.md) are developed and executed.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and machine learning have enabled traders to analyze massive datasets and execute strategies that were previously impossible. Hedge funds such as Renaissance Technologies (https://www.rentec.com/) employ AI to uncover patterns and make [predictive models](../p/predictive_models_in_trading.md), fundamentally changing how [trading strategies](../t/trading_strategies.md) are developed and executed.
 
 **Regulatory Changes**
 

@@ -94,9 +94,9 @@ double calculateEMA(double price, int period) {
 
 ### Disadvantages
 
-1. **Over-sensitivity**: The same sensitivity that is advantageous can also render it susceptible to market noise, resulting in potential false signals.
+1. **Over-sensitivity**: The same sensitivity that is advantageous can also render it susceptible to market noise, resulting in potential [false signals](../f/false_signals_in_trading.md).
 2. **Limited Smoothing**: While it does offer some smoothing over raw prices, it may not be sufficient in extremely volatile markets.
 
 ## Conclusion
 
-The 1-period EMA, while often overshadowed by its longer-period counterparts, holds significant potential in [algorithmic trading](../a/algorithmic_trading.md). Its unique characteristics cater to the strategies that demand immediacy, minimal lag, and instantaneous market feedback. Incorporating the 1-period EMA into your [trading algorithms](../t/trading_algorithms.md) could enhance responsiveness and improve trading outcomes. Whether you're a high-frequency trader or an intraday enthusiast, the 1-period EMA warrants consideration as a valuable component in your trading toolkit.
+The 1-period EMA, while often overshadowed by its longer-period counterparts, holds significant potential in [algorithmic trading](../a/algorithmic_trading.md). Its unique characteristics cater to the strategies that demand immediacy, minimal lag, and instantaneous market feedback. Incorporating the 1-period EMA into your [trading algorithms](../t/trading_algorithms.md) could enhance responsiveness and improve trading outcomes. Whether you're a high-frequency trader or an intraday enthusiast, the 1-period EMA [warrants](../w/warrants_in_trading.md) consideration as a valuable component in your trading toolkit.

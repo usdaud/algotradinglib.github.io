@@ -110,7 +110,7 @@ Several key players provide platforms and tools for trading [derivatives](../d/d
 1. **CME Group**: [CME Group](https://www.cmegroup.com/) provides a global marketplace for [derivatives](../d/derivatives.md) trading, including futures and options on a wide range of underlying assets.
 2. **Intercontinental Exchange (ICE)**: [ICE](https://www.theice.com/) offers trading and clearing services for commodity and financial [derivatives](../d/derivatives.md).
 3. **NASDAQ**: [NASDAQ](https://www.nasdaq.com/) operates a leading global exchange for trading stocks, options, and other securities.
-4. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com/) provides financial software tools, analytics, and data services for trading and investing.
+4. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com/) provides financial [software tools](../s/software_tools_for_trading.md), analytics, and data services for trading and investing.
 5. **Goldman Sachs**: [Goldman Sachs](https://www.goldmansachs.com/) offers a wide array of financial services, including [derivatives](../d/derivatives.md) trading and [risk management](../r/risk_management.md) solutions.
 
 ## Conclusion

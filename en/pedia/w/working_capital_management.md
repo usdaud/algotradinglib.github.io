@@ -65,7 +65,7 @@ These involve managing both short-term and long-term funding to ensure financial
 ## 5. Importance of Working Capital Management
 Effective working capital management is crucial for several reasons:
 - **Ensures Liquidity**: Provides the company with the ability to meet its short-term obligations.
-- **Enhances Operational Efficiency**: Optimizes the use of current assets and liabilities to facilitate smooth business operations.
+- **Enhances [Operational Efficiency](../o/operational_efficiency_in_trading.md)**: Optimizes the use of current assets and liabilities to facilitate smooth business operations.
 - **Improves Profitability**: Reduces costs associated with borrowing and inventory holding, leading to higher profitability.
 - **Supports Growth**: Ensures that the company has sufficient funds to support its growth and expansion plans.
 - **[Risk Management](../r/risk_management.md)**: Helps in anticipating and mitigating financial risks associated with cash flow problems.
@@ -99,4 +99,4 @@ Oracle ERP Cloud offers solutions for managing receivables, payables, cash, and 
 Microsoft Dynamics 365 includes financial management tools that assist in managing accounts payable, accounts receivable, cash flow forecasting, and inventory management. [Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/finance/)
 
 ## 9. Conclusion
-Working capital management is a critical aspect of financial management that ensures the company has sufficient liquidity to meet its short-term obligations while optimizing operational efficiency and profitability. Through effective management of inventory, receivables, payables, and cash, businesses can achieve financial stability and support long-term growth objectives.
+Working capital management is a critical aspect of financial management that ensures the company has sufficient liquidity to meet its short-term obligations while optimizing [operational efficiency](../o/operational_efficiency_in_trading.md) and profitability. Through effective management of inventory, receivables, payables, and cash, businesses can achieve financial stability and support long-term growth objectives.

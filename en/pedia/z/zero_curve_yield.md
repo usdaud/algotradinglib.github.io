@@ -32,7 +32,7 @@ Bootstrapping is a popular technique for constructing the zero curve yield. It i
 
 ### Curve Fitting Methods
 
-Curve fitting involves fitting a mathematical function to the observed yields of various instruments. Common techniques include polynomial regression, spline interpolation, and Nelson-Siegel models. Here’s an overview:
+[Curve fitting](../c/curve_fitting_in_trading.md) involves fitting a mathematical function to the observed yields of various instruments. Common techniques include polynomial regression, spline interpolation, and Nelson-Siegel models. Here’s an overview:
 
 1. **Polynomial Regression**: A polynomial function is fitted to the observed yields, ensuring a smooth curve that captures the term structure accurately.
 2. **Spline Interpolation**: Splines, which are piecewise polynomials, are used to interpolate between observed yields, allowing for greater flexibility in the shape of the curve.
@@ -64,11 +64,11 @@ Analyzing the zero curve yield involves examining its shape, slope, and curvatur
 
 ### Yield Curve Shape
 
-The shape of the [yield curve](../y/yield_curve.md) can be upward-sloping, downward-sloping, or flat. An upward-sloping curve indicates that longer-term yields are higher than shorter-term yields, suggesting expectations of economic growth and rising interest rates. A downward-sloping curve, or inverted curve, suggests economic slowdown and declining rates. A flat curve implies uncertainty or transition between economic phases.
+The shape of the [yield curve](../y/yield_curve.md) can be upward-sloping, downward-sloping, or flat. An upward-sloping curve indicates that longer-term yields are higher than shorter-term yields, suggesting expectations of economic growth and rising interest rates. A downward-sloping curve, or inverted curve, suggests economic slowdown and declining rates. A flat curve implies [uncertainty](../u/uncertainty_in_trading.md) or transition between economic phases.
 
 ### Yield Curve Slope
 
-The slope of the [yield curve](../y/yield_curve.md) is measured by the difference between long-term and short-term yields. A steep slope indicates significant differences in yields, reflecting expectations of rising rates. A flatter slope suggests convergence of yields, indicating economic uncertainty or stability.
+The slope of the [yield curve](../y/yield_curve.md) is measured by the difference between long-term and short-term yields. A steep slope indicates significant differences in yields, reflecting expectations of rising rates. A flatter slope suggests convergence of yields, indicating economic [uncertainty](../u/uncertainty_in_trading.md) or stability.
 
 ### Yield Curve Curvature
 
@@ -84,7 +84,7 @@ Reliable [yield curve](../y/yield_curve.md) construction requires accurate and u
 
 ### Model Selection
 
-Choosing the appropriate model for curve fitting or bootstrapping is crucial. Different models can yield different curves, affecting valuations and risk assessments.
+Choosing the appropriate model for [curve fitting](../c/curve_fitting_in_trading.md) or bootstrapping is crucial. Different models can yield different curves, affecting valuations and risk assessments.
 
 ### Market Liquidity
 
@@ -100,7 +100,7 @@ Various software and tools are available for constructing and analyzing the zero
 
 ### Bloomberg Terminal
 
-[Bloomberg](../b/bloomberg.md) provides comprehensive tools for [yield curve](../y/yield_curve.md) analysis, including data on different fixed-income instruments and advanced curve fitting models. For more information, visit [Bloomberg](https://www.bloomberg.com/).
+[Bloomberg](../b/bloomberg.md) provides comprehensive tools for [yield curve](../y/yield_curve.md) analysis, including data on different fixed-income instruments and advanced [curve fitting](../c/curve_fitting_in_trading.md) models. For more information, visit [Bloomberg](https://www.bloomberg.com/).
 
 ### Thomson Reuters Eikon
 

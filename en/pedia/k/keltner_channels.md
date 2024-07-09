@@ -6,7 +6,7 @@ Keltner Channels are volatility-based envelopes that are set above and below an 
 
 ### History and Origin
 
-The concept of Keltner Channels was introduced by Chester W. Keltner in his 1960 book "How to Make Money in Commodities." The original version of Keltner Channels was based on a simple moving average (SMA) and the range of high-low prices. The modern version, however, replaces the SMA with an EMA and the range with Average True Range (ATR) to account for volatility.
+The concept of Keltner Channels was introduced by Chester W. Keltner in his 1960 book "How to Make Money in Commodities." The original version of Keltner Channels was based on a simple moving average (SMA) and the range of high-low prices. The modern version, however, replaces the SMA with an EMA and the range with [Average True Range](../a/average_true_range_(atr).md) (ATR) to account for volatility.
 
 ### Construction
 
@@ -14,7 +14,7 @@ The concept of Keltner Channels was introduced by Chester W. Keltner in his 1960
    - The middle line of the Keltner Channels is an Exponential Moving Average (EMA) of the closing prices. The typical period used is 20 days, although this can be adjusted based on the trader’s preference.
 
 2. **Upper and Lower Bands**:
-   - The upper and lower bands are calculated by adding and subtracting a multiple of the Average True Range (ATR) to the EMA. A common multiple used is 2, but this can also be adjusted for higher sensitivity.
+   - The upper and lower bands are calculated by adding and subtracting a multiple of the [Average True Range](../a/average_true_range_(atr).md) (ATR) to the EMA. A common multiple used is 2, but this can also be adjusted for higher sensitivity.
 
    \[
    \text{Upper Band} = EMA + (ATR \times k)
@@ -29,7 +29,7 @@ The concept of Keltner Channels was introduced by Chester W. Keltner in his 1960
 ### Components
 
 - **Exponential Moving Average (EMA)**: A type of weighted moving average where more recent data points have more significance.
-- **Average True Range (ATR)**: A measure of market volatility that considers gaps and limit moves.
+- **[Average True Range](../a/average_true_range_(atr).md) (ATR)**: A measure of market volatility that considers gaps and limit moves.
 
 ### Applications in Trading
 
@@ -56,7 +56,7 @@ Keltner Channels can be used for various trading purposes, including identifying
 
 1. **Lagging Indicator**: As with most moving average-based tools, Keltner Channels tend to lag behind the price, which may result in delayed signals.
 
-2. **False Signals**: In highly volatile or sideways markets, Keltner Channels may produce false signals, leading to poor trade decisions.
+2. **[False Signals](../f/false_signals_in_trading.md)**: In highly volatile or sideways markets, Keltner Channels may produce [false signals](../f/false_signals_in_trading.md), leading to poor trade decisions.
 
 ### Practical Example
 

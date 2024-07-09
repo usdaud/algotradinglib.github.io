@@ -20,7 +20,7 @@ The 90-Day Treasury Bill (T-Bill) is a short-term debt obligation backed by the 
 
 1. **[Risk Management](../r/risk_management.md)**: Algotrading strategies often require managing large sums of money where [capital preservation](../c/capital_preservation.md) is crucial. The stability and security of 90-Day T-Bills make them a safe haven asset for temporary cash storage.
 2. **Benchmark Rates**: The yield on 90-Day T-Bills serves as a benchmark interest rate for various other financial instruments. It is often used as a risk-free rate in financial models, providing a foundation for pricing [derivatives](../d/derivatives.md) and assessing the risk premiums of other securities.
-3. **Market Sentiment Indicator**: The demand for T-Bills can be an indicator of market sentiment. High demand for 90-Day T-Bills may indicate a flight to safety by investors, suggesting an increase in market volatility or economic uncertainty. Algorithms can be designed to interpret these signals and adjust [trading strategies](../t/trading_strategies.md) accordingly.
+3. **Market Sentiment Indicator**: The demand for T-Bills can be an indicator of market sentiment. High demand for 90-Day T-Bills may indicate a flight to safety by investors, suggesting an increase in market volatility or economic [uncertainty](../u/uncertainty_in_trading.md). Algorithms can be designed to interpret these signals and adjust [trading strategies](../t/trading_strategies.md) accordingly.
 4. **Interest Rate Predictions**: Movements in the yields of 90-Day T-Bills can help in predicting the future trajectory of interest rates. This is invaluable for algotrading strategies that are sensitive to interest rate fluctuations.
 
 ### Auction Mechanism

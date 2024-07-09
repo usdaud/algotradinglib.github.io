@@ -62,7 +62,7 @@ Several financial metrics are predominant in value-based investing, each providi
 
 - **[Market Timing](../m/market_timing.md) Issues**: Stocks can remain undervalued for extended periods, potentially leading to opportunity costs.
 
-- **Behavioral Biases**: Overcoming investor sentiment and psychological biases is crucial yet challenging in maintaining a value-based approach.
+- **[Behavioral Biases](../b/behavioral_biases_in_trading.md)**: Overcoming investor sentiment and [psychological biases](../p/psychological_biases_in_trading.md) is crucial yet challenging in maintaining a value-based approach.
 
 ## Modern Developments and Technology
 

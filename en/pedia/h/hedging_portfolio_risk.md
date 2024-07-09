@@ -1,7 +1,7 @@
 # Hedging Portfolio Risk
 
 ## Introduction
-Hedging portfolio risk is a critical strategy in [portfolio management](../p/portfolio_management.md) to reduce the exposure to adverse market conditions and minimize potential losses. In financial markets where uncertainty and volatility are commonplace, effective hedging can be the difference between preserving capital and suffering irreparable losses. This documentation delves into the concept of hedging portfolio risk, examining the various strategies, tools, and principles used to manage and mitigate these exposures.
+Hedging portfolio risk is a critical strategy in [portfolio management](../p/portfolio_management.md) to reduce the exposure to adverse market conditions and minimize potential losses. In financial markets where [uncertainty](../u/uncertainty_in_trading.md) and volatility are commonplace, effective hedging can be the difference between preserving capital and suffering irreparable losses. This documentation delves into the concept of hedging portfolio risk, examining the various strategies, tools, and principles used to manage and mitigate these exposures.
 
 ## What is Hedging?
 Hedging is an investment strategy used to offset potential losses in one asset by taking an opposite position in a related asset. The premise of hedging is to protect investors from market risks and price fluctuations. Although it can limit the potential gains, it is primarily used to provide a safety net against adverse price movements.
@@ -56,7 +56,7 @@ Commodity producers and consumers often use [futures contracts](../f/futures_con
 [Algorithmic trading](../a/algorithmic_trading.md) systems can automate [hedging strategies](../h/hedging_strategies.md) by executing predefined rules and formulas, thereby providing precision and speed in managing portfolio risks.
 
 ### Risk Management Software
-Software tools like [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/factset.md), and MSCI Barra provide analytics and frameworks for assessing and managing risk.
+[Software tools](../s/software_tools_for_trading.md) like [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/factset.md), and MSCI Barra provide analytics and frameworks for assessing and managing risk.
 
 ## Companies Specializing in Hedging Solutions
 ### AQR Capital Management
@@ -69,4 +69,4 @@ Software tools like [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/fact
 [CME Group](https://www.cmegroup.com/) is a major global [derivatives](../d/derivatives.md) marketplace that offers futures and options contracts for hedging purposes.
 
 ## Conclusion
-Hedging portfolio risk is an essential component of robust investment management. By employing various [hedging strategies](../h/hedging_strategies.md) and utilizing financial instruments effectively, investors can manage and mitigate the risks that come with market volatility and uncertainty. While hedging may reduce potential upside, its primary goal of protecting against significant losses makes it an indispensable tool in maintaining the longevity and stability of investment portfolios.
+Hedging portfolio risk is an essential component of robust investment management. By employing various [hedging strategies](../h/hedging_strategies.md) and utilizing financial instruments effectively, investors can manage and mitigate the risks that come with market volatility and [uncertainty](../u/uncertainty_in_trading.md). While hedging may reduce potential upside, its primary goal of protecting against significant losses makes it an indispensable tool in maintaining the longevity and stability of investment portfolios.

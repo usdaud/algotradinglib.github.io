@@ -10,7 +10,7 @@ The [yield curve](../y/yield_curve.md) is a graphical representation showing the
    
 2. **Inverted [Yield Curve](../y/yield_curve.md)**: This downward-sloping curve indicates that short-term interest rates are higher than long-term rates. It often signals that investors expect a downturn in the economy, potentially forecasting a recession.
 
-3. **Flat [Yield Curve](../y/yield_curve.md)**: When the yield difference between short-term and long-term bond rates is small or non-existent. This scenario might occur during transitions between normal and inverted curves and typically signals uncertainty about future economic conditions.
+3. **Flat [Yield Curve](../y/yield_curve.md)**: When the yield difference between short-term and long-term bond rates is small or non-existent. This scenario might occur during transitions between normal and inverted curves and typically signals [uncertainty](../u/uncertainty_in_trading.md) about future economic conditions.
 
 4. **Steep [Yield Curve](../y/yield_curve.md)**: The curve is steeper than usual, indicating that long-term yields are much higher than short-term yields. It suggests expectations of rising interest rates, economic growth, and potentially inflation in the future.
 

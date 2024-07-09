@@ -11,7 +11,7 @@ Brokerage fees are charges from the intermediary or broker for executing buy or 
 - **Percentage-Based Fees**: A percentage of the transaction value.
 - **Tiered Pricing**: Varies based on the trading volume or frequency.
 
-For instance, brokers like Interactive Brokers [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1338) offer a tiered pricing system where the cost can reduce with increased trading volume.
+For instance, brokers like [Interactive Brokers](../i/interactive_brokers.md) [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1338) offer a tiered pricing system where the cost can reduce with increased trading volume.
 
 ### 2. **Bid-Ask Spread**
 
@@ -45,7 +45,7 @@ Various regulatory bodies impose fees to fund their operations and oversight act
 
 ### 1. **Asset Liquidity**
 
-Liquidity, or the ease of buying or selling an asset without affecting its price, directly impacts [trading costs](../t/trading_costs.md). Highly liquid assets like major forex pairs or large-cap stocks generally have lower bid-ask spreads and lesser [market impact costs](../m/market_impact_costs.md).
+Liquidity, or the ease of buying or selling an asset without affecting its price, directly impacts [trading costs](../t/trading_costs.md). Highly liquid assets like major forex pairs or [large-cap stocks](../l/large_cap_stocks.md) generally have lower bid-ask spreads and lesser [market impact costs](../m/market_impact_costs.md).
 
 ### 2. **Trade Size and Frequency**
 
@@ -93,7 +93,7 @@ In algo-trading, understanding and mitigating one-way [trading costs](../t/tradi
 
 ### 1. **Profit Margins**
 
-Algo-[trading strategies](../t/trading_strategies.md) often operate on slim profit margins. Minimizing [trading costs](../t/trading_costs.md) ensures that the strategy remains profitable.
+Algo-[trading strategies](../t/trading_strategies.md) often operate on slim [profit margins](../p/profit_margins_in_trading.md). Minimizing [trading costs](../t/trading_costs.md) ensures that the strategy remains profitable.
 
 ### 2. **Competitive Edge**
 

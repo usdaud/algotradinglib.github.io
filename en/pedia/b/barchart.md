@@ -65,7 +65,7 @@ Barchart is a leading provider of financial data, analytics, and technology solu
 - Customizable screeners and scanners
 - Alerts and notifications
 - Portfolio tracking and analysis
-- Heatmaps and [sector performance](../s/sector_performance.md) tools
+- [Heatmaps](../h/heatmaps_in_trading.md) and [sector performance](../s/sector_performance.md) tools
 
 ### News and Research
 

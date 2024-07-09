@@ -116,7 +116,7 @@ Numerous platforms and tools aid traders in executing [vertical spread](../v/ver
 
 ### Interactive Brokers
 
-Interactive Brokers offers an advanced trading platform with [options spread trading](../o/options_spread_trading.md) capabilities and competitive pricing.
+[Interactive Brokers](../i/interactive_brokers.md) offers an advanced trading platform with [options spread trading](../o/options_spread_trading.md) capabilities and competitive pricing.
 
 - **Website:** [Interactive Brokers](https://www.interactivebrokers.com)
 

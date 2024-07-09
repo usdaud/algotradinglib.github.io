@@ -66,7 +66,7 @@ The terms of the contract are as follows:
 - Floating interest rate: 3-month LIBOR
 - Swap term: 5 years
 
-At the end of each quarter, the company and its counterparty exchange interest payments based on the notional amount. If the 3-month LIBOR rate rises above 2%, the company will receive more in floating payments than it pays in fixed payments, effectively hedging its exposure to rising interest rates.
+At the end of each quarter, the company and its counterparty exchange interest payments based on the notional amount. If the 3-month [LIBOR rate](../l/libor_rate_analysis.md) rises above 2%, the company will receive more in floating payments than it pays in fixed payments, effectively hedging its exposure to rising interest rates.
 
 ### Risks Associated with Futures Swaps
 

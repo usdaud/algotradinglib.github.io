@@ -61,7 +61,7 @@ Traditional Black-Scholes models are ill-equipped to handle skewness, leading to
 
 1. **Options Trading and Hedging**: Traders adjust their strategies based on the skewness of the underlying asset returns. For example, they might buy protective puts for negatively skewed assets.
 
-2. **Risk Assessment**: Financial analysts use skewness to assess the risk profiles of portfolios. This can be crucial in stress testing and scenario analyses.
+2. **Risk Assessment**: Financial analysts use skewness to assess the risk profiles of portfolios. This can be crucial in [stress testing](../s/stress_testing_in_trading.md) and scenario analyses.
 
 3. **[Quantitative Models](../q/quantitative_models.md)**: [Quantitative finance](../q/quantitative_finance.md) programs incorporate skewness into their models to more accurately reflect market behavior and improve the robustness of their predictions.
 

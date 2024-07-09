@@ -29,7 +29,7 @@ OptionsPlay provides an advanced options scanning platform that helps traders fi
 
 ### 4. Cryptocurrency Scanners
 
-With the rise of cryptocurrency trading, dedicated cryptocurrency scanners have emerged to monitor digital assets across multiple exchanges. These scanners track price movements, trading volumes, social media mentions, and blockchain data to generate [trading signals](../t/trading_signals.md).
+With the rise of cryptocurrency trading, dedicated cryptocurrency scanners have emerged to monitor digital assets across multiple exchanges. These scanners track price movements, trading volumes, social media mentions, and [blockchain](../b/blockchain_in_trading.md) data to generate [trading signals](../t/trading_signals.md).
 
 #### Example: Coinigy
 Coinigy offers a robust cryptocurrency scanner that integrates with multiple exchanges to provide [real-time market data](../r/real-time_market_data.md) and analytics. [Coinigy](https://www.coinigy.com)
@@ -64,7 +64,7 @@ Market scanners provide alerts and notifications to traders when certain conditi
 
 ### 7. Backtesting and Simulation
 
-Some market scanners support [backtesting](../b/backtesting.md) and simulation features, allowing traders to test their strategies on historical data. This helps traders evaluate the effectiveness of their strategies before deploying them in live trading.
+Some market scanners support [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) features, allowing traders to test their strategies on historical data. This helps traders evaluate the effectiveness of their strategies before deploying them in live trading.
 
 ### 8. Integration with Trading Platforms
 
@@ -96,7 +96,7 @@ Traders have unique strategies and requirements. A customizable and flexible mar
 
 ### 6. Advanced Analytical Tools
 
-Advanced analytical tools, such as charting capabilities, statistical analysis, and machine learning algorithms, enhance the functionality of market scanners. These tools provide deeper insights and more accurate predictions.
+Advanced analytical tools, such as charting capabilities, statistical analysis, and machine [learning algorithms](../l/learning_algorithms_in_trading.md), enhance the functionality of market scanners. These tools provide deeper insights and more accurate predictions.
 
 ### 7. Multi-Asset Support
 

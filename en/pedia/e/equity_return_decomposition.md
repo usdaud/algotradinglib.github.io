@@ -53,7 +53,7 @@ Geometric decomposition applies multiplicative factors to break down returns. It
 
 ### Factor Models
 
-[Factor models](../f/factor_models.md) utilize multivariate [regression analysis](../r/regression_analysis.md) to attribute returns to various risk factors like market, size, value, and momentum. The Fama-French three-factor model and its extensions, including the Carhart four-factor model, are widely applied in practice. These models help in capturing [systematic risk](../s/systematic_risk.md) components beyond basic return analysis.
+[Factor models](../f/factor_models.md) utilize multivariate [regression analysis](../r/regression_analysis.md) to attribute returns to various [risk factors](../r/risk_factors_in_trading.md) like market, size, value, and momentum. The Fama-French three-factor model and its extensions, including the Carhart four-factor model, are widely applied in practice. These models help in capturing [systematic risk](../s/systematic_risk.md) components beyond basic return analysis.
 
 ### Attribution Analysis
 

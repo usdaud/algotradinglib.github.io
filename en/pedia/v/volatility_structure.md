@@ -48,7 +48,7 @@ Implied volatility, unlike [historical volatility](../h/historical_volatility.md
 
 ### Derivation of Implied Volatility
 
-Implied volatility is derived through options pricing models such as the **[Black-Scholes model](../b/black-scholes_model.md)**. Given the market price of an option, the model inputs (current asset price, strike price, time to expiration, risk-free rate, and option price) can be reversed to solve for the volatility that would equilibrate the observed option price. This reverse-engineering process is computationally intensive and often solved using numerical methods.
+Implied volatility is derived through options pricing models such as the **[Black-Scholes model](../b/black-scholes_model.md)**. Given the market price of an option, the model inputs (current asset price, strike price, time to expiration, risk-free rate, and option price) can be reversed to solve for the volatility that would equilibrate the observed option price. This reverse-engineering process is computationally intensive and often solved using [numerical methods](../n/numerical_methods_in_trading.md).
 
 ### Importance in Trading Strategies
 
@@ -113,7 +113,7 @@ Understanding volatility structure helps in:
 
 ### Market Sentiment Analysis
 
-Volatility metrics can also gauge overall market sentiment. For example, an increase in implied volatility often signals uncertainty or anticipated price swings, alerting traders to possible trading opportunities.
+Volatility metrics can also gauge overall market sentiment. For example, an increase in implied volatility often signals [uncertainty](../u/uncertainty_in_trading.md) or anticipated price swings, alerting traders to possible trading opportunities.
 
 ## Advanced Models
 

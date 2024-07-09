@@ -30,7 +30,7 @@ Leverage is the use of borrowed capital to amplify potential returns. While leve
 
 ### 2.5. Stress Testing and Scenario Analysis
 
-Stress testing involves simulating adverse market conditions to evaluate the robustness of [trading strategies](../t/trading_strategies.md) and risk [capital allocation](../c/capital_allocation.md). Scenario analysis examines the potential impact of specific events (e.g., market crashes, interest rate hikes) on the portfolio. These tools help identify vulnerabilities and adjust the allocation strategy accordingly.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating adverse market conditions to evaluate the robustness of [trading strategies](../t/trading_strategies.md) and risk [capital allocation](../c/capital_allocation.md). Scenario analysis examines the potential impact of specific events (e.g., market crashes, interest rate hikes) on the portfolio. These tools help identify vulnerabilities and adjust the allocation strategy accordingly.
 
 ## 3. Strategies for Risk Capital Allocation in Algorithmic Trading
 
@@ -80,7 +80,7 @@ Financial markets are dynamic, and conditions can change rapidly. Continuous lea
 
 ### 5.1. Quantitative Hedge Funds
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies and Two Sigma apply sophisticated risk [capital allocation](../c/capital_allocation.md) techniques to their algorithm-driven [trading strategies](../t/trading_strategies.md). These firms use advanced mathematical models, machine learning algorithms, and high-performance computing to optimize risk-adjusted returns across diversified portfolios.
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies and Two Sigma apply sophisticated risk [capital allocation](../c/capital_allocation.md) techniques to their algorithm-driven [trading strategies](../t/trading_strategies.md). These firms use advanced [mathematical models](../m/mathematical_models_in_trading.md), machine [learning algorithms](../l/learning_algorithms_in_trading.md), and high-performance computing to optimize risk-adjusted returns across diversified portfolios.
 
 - [Renaissance Technologies](https://www.rentec.com/)
 - [Two Sigma](https://www.twosigma.com/)

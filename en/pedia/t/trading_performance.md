@@ -64,19 +64,19 @@ Expected Shortfall, also known as Conditional Value at Risk (CVaR), measures the
 ## Evolution and Trends in Trading Performance Assessment
 
 ### 1. Machine Learning and AI
-The integration of machine learning (ML) and artificial intelligence (AI) has transformed trading performance assessment. Advanced algorithms can analyze vast amounts of data to identify patterns, optimize [trading strategies](../t/trading_strategies.md), and predict market movements with greater accuracy.
+The integration of machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) has transformed trading performance assessment. Advanced algorithms can analyze vast amounts of data to identify patterns, optimize [trading strategies](../t/trading_strategies.md), and predict market movements with greater accuracy.
 
 ### 2. High-Frequency Trading (HFT)
 High-Frequency Trading involves executing a large number of orders at extremely high speeds. HFT firms rely on sophisticated algorithms and low-latency trading infrastructure to capitalize on minute price discrepancies. Performance assessment in HFT focuses on metrics like latency, order execution speed, and the impact of microsecond-level delays.
 
 ### 3. Backtesting and Simulation
-[Backtesting](../b/backtesting.md) involves testing a trading strategy on historical data to evaluate its performance before applying it to live markets. Simulation extends [backtesting](../b/backtesting.md) by creating hypothetical scenarios to assess how strategies would perform under different market conditions. These methods are crucial for validating and refining [trading algorithms](../t/trading_algorithms.md).
+[Backtesting](../b/backtesting.md) involves testing a trading strategy on historical data to evaluate its performance before applying it to live markets. [Simulation](../s/simulation_in_trading.md) extends [backtesting](../b/backtesting.md) by creating hypothetical scenarios to assess how strategies would perform under different market conditions. These methods are crucial for validating and refining [trading algorithms](../t/trading_algorithms.md).
 
 ### 4. Transaction Cost Analysis (TCA)
 TCA evaluates the costs associated with executing trades, such as bid-ask spreads, commissions, and slippage. Understanding transaction costs is essential for accurate performance assessment, as these costs can significantly impact net returns.
 
 ### 5. Behavioral Finance Insights
-Incorporating [behavioral finance](../b/behavioral_finance.md) insights into performance assessment recognizes that psychological factors influence trading decisions. Metrics such as overconfidence, [loss aversion](../l/loss_aversion.md), and herd behavior can be analyzed to understand their impact on trading outcomes and refine strategies accordingly.
+Incorporating [behavioral finance](../b/behavioral_finance.md) insights into performance assessment recognizes that psychological factors influence trading decisions. Metrics such as overconfidence, [loss aversion](../l/loss_aversion.md), and [herd behavior](../h/herd_behavior_in_trading.md) can be analyzed to understand their impact on trading outcomes and refine strategies accordingly.
 
 ## Companies and Tools
 
@@ -99,7 +99,7 @@ Incorporating [behavioral finance](../b/behavioral_finance.md) insights into per
 [QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for designing, testing, and deploying [trading strategies](../t/trading_strategies.md). It supports multiple asset classes and allows users to backtest strategies using historical data.
 
 ### 7. Numerai
-[Numerai](https://numer.ai/) is an AI-driven hedge fund that utilizes machine learning algorithms developed by a global community of data scientists. Numerai combines diverse predictive models to drive trading decisions and maximize performance.
+[Numerai](https://numer.ai/) is an AI-driven hedge fund that utilizes machine [learning algorithms](../l/learning_algorithms_in_trading.md) developed by a global community of data scientists. Numerai combines diverse [predictive models](../p/predictive_models_in_trading.md) to drive trading decisions and maximize performance.
 
 ### 8. Quantlib
 [Quantlib](https://www.quantlib.org/) is an open-source library for [quantitative finance](../q/quantitative_finance.md) that provides tools for pricing [derivatives](../d/derivatives.md), managing portfolios, and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). [Quantlib](../q/quantlib.md)'s extensive functionality supports sophisticated performance analysis.

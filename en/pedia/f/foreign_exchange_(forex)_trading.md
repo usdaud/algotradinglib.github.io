@@ -125,4 +125,4 @@ Compliance with regulatory requirements ensures market integrity and protects pa
 
 ## Conclusion
 
-Forex trading offers unparalleled opportunities and challenges, making it an intriguing venture for both institutional and retail traders. Mastery of technical, fundamental, and quantitative skills, combined with a deep understanding of the risks involved, can pave the way for successful forex trading. Innovations like [algorithmic trading](../a/algorithmic_trading.md) continue to push the boundaries, revolutionizing how market participants approach currency trading in the modern era.
+Forex trading offers unparalleled opportunities and challenges, making it an intriguing venture for both institutional and retail traders. Mastery of technical, fundamental, and quantitative skills, combined with a deep understanding of the risks involved, can pave the way for successful forex trading. Innovations like [algorithmic trading](../a/algorithmic_trading.md) continue to push the boundaries, revolutionizing how market participants approach [currency trading](../c/currency_trading_strategies.md) in the modern era.

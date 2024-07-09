@@ -38,7 +38,7 @@ Polynomial regression is an extension of [linear regression](../l/linear_regress
 Fitting a quadratic or cubic polynomial to capture the cyclical nature of a stock's price movements, making it possible to anticipate reversals and continuations more accurately.
 
 ### 4. Logistic Regression
-Logistic regression is used for binary outcomes such as predicting whether the price of a stock will go up or down. It is particularly useful in classification problems.
+[Logistic regression](../l/logistic_regression_in_trading.md) is used for binary outcomes such as predicting whether the price of a stock will go up or down. It is particularly useful in classification problems.
 
 **Applications in Trading:**
 - **Buy/Sell Signals:** Classifying trade signals based on historical data.
@@ -51,7 +51,7 @@ Predicting whether a stock will close higher or lower than its opening price bas
 ## Advanced Regression Techniques
 
 ### 1. Ridge Regression
-Ridge regression is a type of [linear regression](../l/linear_regression.md) that includes a regularization term to prevent overfitting, which is particularly beneficial when dealing with multicollinearity in the independent variables.
+Ridge regression is a type of [linear regression](../l/linear_regression.md) that includes a regularization term to prevent overfitting, which is particularly beneficial when dealing with [multicollinearity](../m/multicollinearity_in_trading.md) in the independent variables.
 
 **Applications in Trading:**
 - **Regularization for Stability:** Improving model stability by penalizing excessive coefficients.
@@ -78,7 +78,7 @@ Elastic Net is a combination of ridge and lasso regression, incorporating both f
 - **Handling Collinearity:** Effectively managing datasets with correlated variables, which is common in financial markets.
 
 *Example:*
-Forecasting stock prices using elastic net regression to leverage the benefits of both ridge and lasso while handling multicollinearity and variable selection.
+Forecasting stock prices using elastic net regression to leverage the benefits of both ridge and lasso while handling [multicollinearity](../m/multicollinearity_in_trading.md) and variable selection.
 
 ## Implementation in Trading
 

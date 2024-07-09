@@ -1,12 +1,12 @@
 # Thematic Investing
 
-Thematic investing is an investment approach that focuses on specific themes or trends expected to drive growth and innovation in the market. This can include everything from technological advancements, such as artificial intelligence or renewable energy, to demographic shifts like aging populations or urbanization. When combined with [algorithmic trading](../a/algorithmic_trading.md), thematic investing offers unique opportunities for profitability by leveraging data-driven strategies and [automated trading systems](../a/automated_trading_systems.md).
+Thematic investing is an investment approach that focuses on specific themes or trends expected to drive growth and innovation in the market. This can include everything from technological advancements, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) or renewable energy, to demographic shifts like aging populations or urbanization. When combined with [algorithmic trading](../a/algorithmic_trading.md), thematic investing offers unique opportunities for profitability by leveraging data-driven strategies and [automated trading systems](../a/automated_trading_systems.md).
 
 ## Key Concepts of Thematic Investing
 
 ### 1. Identifying Themes
 Thematic investing begins with identifying broader societal, economic, or technological trends expected to outperform the market. These themes are usually long-term and require substantial research and foresight. Example themes include:
-- **Artificial Intelligence and Robotics**
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Robotics**
 - **Clean Energy**
 - **Healthcare Innovation**
 - **Digital Transformation**
@@ -64,10 +64,10 @@ Algorithmic systems can also manage entire portfolios by:
 ## Case Studies and Examples
 
 ### 1. BlackRock [BlackRock Home](https://www.blackrock.com)
-BlackRock, one of the world's largest asset management firms, has embraced thematic investing through its range of thematic ETFs. These ETFs focus on various thematic trends, such as technology, healthcare, and sustainability. The firm leverages data science and artificial intelligence to refine its investment strategies.
+BlackRock, one of the world's largest asset management firms, has embraced thematic investing through its range of thematic ETFs. These ETFs focus on various thematic trends, such as technology, healthcare, and sustainability. The firm leverages [data science](../d/data_science_in_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to refine its investment strategies.
 
 ### 2. Ark Investment Management [Ark Invest Home](https://ark-invest.com)
-ARK Invest, founded by Cathie Wood, is well-known for its focus on disruptive innovation. The company uses a thematic approach to invest in technologies like genomics, automation, and blockchain. ARK employs data analytics and research to spot high-growth potential opportunities.
+ARK Invest, founded by Cathie Wood, is well-known for its focus on disruptive innovation. The company uses a thematic approach to invest in technologies like genomics, automation, and [blockchain](../b/blockchain_in_trading.md). ARK employs data analytics and research to spot high-growth potential opportunities.
 
 ### 3. Goldman Sachs [Goldman Sachs Home](https://www.goldmansachs.com)
 Goldman Sachs has developed thematic portfolios that center around trends like the digital revolution and environmental sustainability. They utilize quantitative methods and algorithmic strategies to offer clients optimized and dynamic exposure to these themes.

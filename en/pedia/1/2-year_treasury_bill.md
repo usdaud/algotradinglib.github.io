@@ -14,7 +14,7 @@ The price of a 2-Year T-Bill is calculated based on its yield. The formula for c
 \[ \text{Price} = \frac{\text{Face Value}}{(1 + \text{Yield})^{Period}} \]
 Where the period is the fraction of the year until maturity (in this case, 2 years). The T-Bills are sold at a discount, meaning that the purchase price is less than the face value, and the investor receives the face value upon maturity.
 ### Interest Rates
-Interest rate policies set by the Federal Reserve and economic conditions heavily influence the yields on 2-Year T-Bills. In times of economic uncertainty or high inflation, yields tend to be higher to compensate for the increased risk. Conversely, during periods of economic stability, yields are generally lower.
+Interest rate policies set by the Federal Reserve and economic conditions heavily influence the yields on 2-Year T-Bills. In times of economic [uncertainty](../u/uncertainty_in_trading.md) or high inflation, yields tend to be higher to compensate for the increased risk. Conversely, during periods of economic stability, yields are generally lower.
 ## Comparison with Other Investment Vehicles
 ### T-Bills vs. Corporate Bonds
 2-Year T-Bills, like other Treasury securities, are often compared to corporate bonds. Corporate bonds, unlike T-Bills, offer periodic interest payments (coupons) and are subject to credit risk, which is the risk of default by the issuing corporation. T-Bills carry no credit risk, assuming the government maintains its creditworthiness. However, corporate bonds often offer higher yields as compensation for the additional risk.

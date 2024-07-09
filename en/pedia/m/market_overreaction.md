@@ -4,7 +4,7 @@ Market overreaction is a phenomenon in financial markets where the price of a se
 
 ## Causes of Market Overreaction
 
-1. **Behavioral Biases**
+1. **[Behavioral Biases](../b/behavioral_biases_in_trading.md)**
    - **Herding Behavior**: Investors may rush to buy or sell securities based on the actions of others rather than on their own evaluations. This follow-the-crowd mentality can exacerbate price movements.
    - **Overconfidence**: Investors may overestimate their knowledge or ability to predict market movements, leading them to make aggressive trades in response to news.
    - **Anchoring**: Investors can fixate on certain pieces of information, giving them undue weight in their decision-making process.
@@ -45,7 +45,7 @@ Several academic studies have documented instances of market overreaction:
    - This study on momentum investing found that stocks that performed well over a 3-12 month period continued to perform well in the short-term, but the performance reversed in the longer term, indicating overreaction.
 
 3. **Barberis, Shleifer, and Vishny (1998)**
-   - Developed a model to explain investor sentiment driven phenomena like overreaction, suggesting that psychological biases can lead to mispricing in financial markets.
+   - Developed a model to explain investor sentiment driven phenomena like overreaction, suggesting that [psychological biases](../p/psychological_biases_in_trading.md) can lead to mispricing in financial markets.
 
 4. **Hong and Stein (1999)**
    - Their model suggests that different types of traders (news-watchers and momentum traders) interact in a way that can lead to initial underreaction and subsequent overreaction.
@@ -73,7 +73,7 @@ Several academic studies have documented instances of market overreaction:
    - On May 6, 2010, the Dow Jones Industrial Average experienced a sudden and dramatic plunge, largely attributed to [algorithmic trading](../a/algorithmic_trading.md) and a temporary overreaction to market conditions.
 
 3. **COVID-19 Pandemic (2020)**
-   - The initial market reactions to the COVID-19 pandemic saw major stock indices plummet, followed by a significant rebound and continued volatility as new information emerged and uncertainty lingered.
+   - The initial market reactions to the COVID-19 pandemic saw major stock indices plummet, followed by a significant rebound and continued volatility as new information emerged and [uncertainty](../u/uncertainty_in_trading.md) lingered.
 
 ## Relevant Companies
 
@@ -81,14 +81,14 @@ Several academic studies have documented instances of market overreaction:
    - [Bridgewater Associates](https://www.bridgewater.com/) is one of the world’s largest hedge funds and is known for using [quantitative approaches](../q/quantitative_approaches.md) to investment, including strategies to counter market overreactions.
    
 2. **Two Sigma**
-   - [Two Sigma](https://www.twosigma.com/) employs data science and advanced technology to manage billions of dollars, focusing on market inefficiencies including overreactions.
+   - [Two Sigma](https://www.twosigma.com/) employs [data science](../d/data_science_in_trading.md) and advanced technology to manage billions of dollars, focusing on market inefficiencies including overreactions.
    
 3. **Citadel LLC**
-   - [Citadel](https://www.citadel.com/) is a global financial institution that uses quantitative strategies to identify and exploit market overreactions and other anomalies.
+   - [Citadel](https://www.citadel.com/) is a global financial institution that uses [quantitative strategies](../q/quantitative_strategies_in_trading.md) to identify and exploit market overreactions and other anomalies.
    
 4. **Renaissance Technologies**
-   - [Renaissance Technologies](https://www.rentec.com/) utilizes sophisticated mathematical models to trade in financial markets, and is known for identifying overreactions.
+   - [Renaissance Technologies](https://www.rentec.com/) utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to trade in financial markets, and is known for identifying overreactions.
 
 ## Conclusion
 
-Understanding market overreaction is crucial for both individual and institutional investors aiming to enhance their investment strategies. By recognizing the behavioral biases and market mechanics that contribute to overreaction, investors can better navigate the complexities of financial markets, potentially capitalizing on opportunities created by temporary mispricings.
+Understanding market overreaction is crucial for both individual and institutional investors aiming to enhance their investment strategies. By recognizing the [behavioral biases](../b/behavioral_biases_in_trading.md) and market mechanics that contribute to overreaction, investors can better navigate the complexities of financial markets, potentially capitalizing on opportunities created by temporary mispricings.

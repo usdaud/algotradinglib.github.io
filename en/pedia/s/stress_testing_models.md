@@ -1,6 +1,6 @@
 # Stress Testing Models
 
-Stress testing models are a crucial component of [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md). These models are designed to evaluate the robustness of [trading algorithms](../t/trading_algorithms.md) under extreme market conditions. The primary objective is to ensure that in the face of unpredictable and adverse events, [trading algorithms](../t/trading_algorithms.md) can maintain functionality and not incur disproportionate losses.
+[Stress testing](../s/stress_testing_in_trading.md) models are a crucial component of [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md). These models are designed to evaluate the robustness of [trading algorithms](../t/trading_algorithms.md) under extreme market conditions. The primary objective is to ensure that in the face of unpredictable and adverse events, [trading algorithms](../t/trading_algorithms.md) can maintain functionality and not incur disproportionate losses.
 
 #### Components of Stress Testing Models
 
@@ -14,28 +14,28 @@ Stress testing models are a crucial component of [risk management](../r/risk_man
     - **Stress VaR**: An extension of VaR that considers the impact of extreme market conditions.
 
 3. **Sensitivity Analysis**:
-    - Evaluation of how changes in market factors (like volatility, interest rates, spans spreads) impact the trading algorithm. Through this, one can isolate the effect of specific risk factors.
+    - Evaluation of how changes in market factors (like volatility, interest rates, spans spreads) impact the trading algorithm. Through this, one can isolate the effect of specific [risk factors](../r/risk_factors_in_trading.md).
 
-4. **Reverse Stress Testing**:
+4. **Reverse [Stress Testing](../s/stress_testing_in_trading.md)**:
     - Begins with the identification of a pre-defined threshold of losses that are unacceptable, and then works backward to determine the kinds of events or market movements that could lead to such losses. This method is gaining popularity because it starts from the actual risk appetite of the trading firm.
 
 #### Methods of Stress Testing
 
-- **Simulation-Based Stress Testing**: Running scenarios through Monte Carlo simulations to generate a wide range of possible outcomes by simulating random draws from a probability distribution.
+- **[Simulation](../s/simulation_in_trading.md)-Based [Stress Testing](../s/stress_testing_in_trading.md)**: Running scenarios through Monte Carlo simulations to generate a wide range of possible outcomes by simulating random draws from a probability distribution.
   
-- **Analytical Stress Testing**: Uses mathematical models to estimate how the portfolio would react to predefined shocks. This method extensively uses closed-form solutions and [factor models](../f/factor_models.md).
+- **Analytical [Stress Testing](../s/stress_testing_in_trading.md)**: Uses [mathematical models](../m/mathematical_models_in_trading.md) to estimate how the portfolio would react to predefined shocks. This method extensively uses closed-form solutions and [factor models](../f/factor_models.md).
 
 - **[Extreme Value Theory](../e/extreme_value_theory.md) (EVT)**: Focuses on the tail ends of the probability distribution to estimate the risk of rare but extreme events. EVT is useful in financial markets where extreme risks are of primary concern.
 
 #### Implementing Stress Testing in Algorithmic Trading
 
 - **Development Environment**:
-  - Integrating stress testing modules within the algorithm development environment ensures that algorithms are tested during the development phase itself.
-  - Continuous Integration/Continuous Deployment (CI/CD) pipelines can include stress testing as part of the testing suite.
+  - Integrating [stress testing](../s/stress_testing_in_trading.md) modules within the algorithm development environment ensures that algorithms are tested during the development phase itself.
+  - Continuous Integration/Continuous Deployment (CI/CD) pipelines can include [stress testing](../s/stress_testing_in_trading.md) as part of the testing suite.
   
 - **Data Requirements**:
   - Access to rich historical data to simulate past extreme events.
-  - [Real-time market data](../r/real-time_market_data.md) feeds for continuous stress testing in the live [trading environment](../t/trading_environment.md).
+  - [Real-time market data](../r/real-time_market_data.md) feeds for continuous [stress testing](../s/stress_testing_in_trading.md) in the live [trading environment](../t/trading_environment.md).
 
 - **Technology Stack**:
   - The use of high-performance computing resources to handle large-scale simulations.
@@ -44,7 +44,7 @@ Stress testing models are a crucial component of [risk management](../r/risk_man
 #### Challenges in Stress Testing
 
 - **Model Risk**:
-  - The risk that the stress testing model itself may be flawed due to incorrect assumptions or oversimplification of market behaviors.
+  - The risk that the [stress testing](../s/stress_testing_in_trading.md) model itself may be flawed due to incorrect assumptions or oversimplification of market behaviors.
 
 - **Data Quality**:
   - The accuracy and completeness of the historical and market data can significantly influence the outcomes of stress tests. Poor data quality can lead to misleading results.
@@ -60,10 +60,10 @@ Stress testing models are a crucial component of [risk management](../r/risk_man
 
 #### Tools and Vendors
 
-- **MSCI**: Provides multi-asset class risk analytics and stress testing tools. [MSCI](https://www.msci.com/)
-- **[FactSet](../f/factset.md)**: Supplies integrated financial information and analytical applications. Their [risk management](../r/risk_management.md) tools incorporate stress testing functionality. [FactSet](https://www.factset.com/)
-- **[Bloomberg](../b/bloomberg.md)**: Offers comprehensive stress testing capabilities within their risk and analytics suite. [Bloomberg](https://www.bloomberg.com/)
-- **RiskMetrics**: Known for its extensive [risk management](../r/risk_management.md) and stress testing tools. [RiskMetrics](https://www.msci.com/riskmetrics)
-- **[QuantConnect](../q/quantconnect.md)**: Provides an open, cloud-based [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) platform with built-in tools for stress testing. [QuantConnect](https://www.quantconnect.com/)
+- **MSCI**: Provides multi-asset class risk analytics and [stress testing](../s/stress_testing_in_trading.md) tools. [MSCI](https://www.msci.com/)
+- **[FactSet](../f/factset.md)**: Supplies integrated financial information and analytical applications. Their [risk management](../r/risk_management.md) tools incorporate [stress testing](../s/stress_testing_in_trading.md) functionality. [FactSet](https://www.factset.com/)
+- **[Bloomberg](../b/bloomberg.md)**: Offers comprehensive [stress testing](../s/stress_testing_in_trading.md) capabilities within their risk and analytics suite. [Bloomberg](https://www.bloomberg.com/)
+- **RiskMetrics**: Known for its extensive [risk management](../r/risk_management.md) and [stress testing](../s/stress_testing_in_trading.md) tools. [RiskMetrics](https://www.msci.com/riskmetrics)
+- **[QuantConnect](../q/quantconnect.md)**: Provides an open, cloud-based [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) platform with built-in tools for [stress testing](../s/stress_testing_in_trading.md). [QuantConnect](https://www.quantconnect.com/)
 
-Stress testing remains an evolving field with continuous improvements in techniques and models. As financial markets become increasingly complex and interlinked, the importance of robust stress testing models in safeguarding [trading strategies](../t/trading_strategies.md) and financial stability cannot be understated.
+[Stress testing](../s/stress_testing_in_trading.md) remains an evolving field with continuous improvements in techniques and models. As financial markets become increasingly complex and interlinked, the importance of robust [stress testing](../s/stress_testing_in_trading.md) models in safeguarding [trading strategies](../t/trading_strategies.md) and financial stability cannot be understated.

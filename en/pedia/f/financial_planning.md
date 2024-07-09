@@ -1,6 +1,6 @@
 # Financial Planning
 
-[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or black-box trading, is the use of pre-programmed software or algorithms to execute trades in financial markets. Employing complex algorithms allows traders to make decisions based on vast data far faster than a human could. This approach leverages mathematical models and automated processes to execute high-frequency and complex [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or black-box trading, is the use of pre-programmed software or algorithms to execute trades in financial markets. Employing complex algorithms allows traders to make decisions based on vast data far faster than a human could. This approach leverages [mathematical models](../m/mathematical_models_in_trading.md) and automated processes to execute high-frequency and complex [trading strategies](../t/trading_strategies.md).
 
 ## Importance of Financial Planning in Algorithmic Trading
 
@@ -18,7 +18,7 @@ Financial planning plays a crucial role in [algorithmic trading](../a/algorithmi
 
 Cost management in [algorithmic trading](../a/algorithmic_trading.md) is both about reducing operational costs and increasing efficiency. This encompasses:
 
-1. **Transaction Costs**: Commissions, spreads, and slippage can eat into profit margins. Financial planning identifies strategies to minimize these costs.
+1. **Transaction Costs**: Commissions, spreads, and slippage can eat into [profit margins](../p/profit_margins_in_trading.md). Financial planning identifies strategies to minimize these costs.
 2. **Infrastructure Costs**: Maintaining servers, data feeds, and software needed for algorithm deployment and execution requires a robust budget.
 3. **Development Costs**: R&D for developing new algorithms or optimizing existing ones is capital intensive.
 
@@ -28,7 +28,7 @@ Cost management in [algorithmic trading](../a/algorithmic_trading.md) is both ab
 
 1. **[Risk Metrics](../r/risk_metrics.md)**: Using metrics like [Sharpe ratio](../s/sharpe_ratio.md), [Sortino ratio](../s/sortino_ratio.md), and Value at Risk (VaR) to understand potential risks better.
 2. **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Automatically exiting trades that move unfavorably to limit losses.
-3. **[Backtesting](../b/backtesting.md) and Simulation**: Running algorithms against historical data to gauge performance and understand risk factors.
+3. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**: Running algorithms against historical data to gauge performance and understand [risk factors](../r/risk_factors_in_trading.md).
 
 ## Strategic Components of Financial Planning for Algo-Trading
 
@@ -96,7 +96,7 @@ Founded by Jim Simons, Renaissance Technologies is renowned for its wildly succe
 
 ### Two Sigma
 
-Two Sigma uses data science and technology to predict the future price movements of securities. They emphasize efficient [capital allocation](../c/capital_allocation.md) and [risk management](../r/risk_management.md) in their financial planning to ensure the sustainability and profitability of their strategies (https://www.twosigma.com/).
+Two Sigma uses [data science](../d/data_science_in_trading.md) and technology to predict the future price movements of securities. They emphasize efficient [capital allocation](../c/capital_allocation.md) and [risk management](../r/risk_management.md) in their financial planning to ensure the sustainability and profitability of their strategies (https://www.twosigma.com/).
 
 ## Conclusion
 

@@ -37,7 +37,7 @@ Let's consider a simplified example of an algorithm that uses a 3-point reversal
 
 #### Challenges and Considerations
 
-1. **False Signals**: Like any trading strategy, 3-point reversals can generate false signals, meaning the price might temporarily break out but then reverse again. Algorithms must incorporate filters to minimize these occurrences.
+1. **[False Signals](../f/false_signals_in_trading.md)**: Like any trading strategy, 3-point reversals can generate [false signals](../f/false_signals_in_trading.md), meaning the price might temporarily break out but then reverse again. Algorithms must incorporate filters to minimize these occurrences.
 2. **Market Conditions**: The effectiveness of 3-point reversals can vary with different market conditions. It may work well in trending markets but not as efficiently in sideways or highly volatile markets.
 3. **Parameter Optimization**: The success of an algorithm based on 3-point reversals greatly depends on the optimal settings for parameters such as the length of the pullback and the breakout thresholds.
 

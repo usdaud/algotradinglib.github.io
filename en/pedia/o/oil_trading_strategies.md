@@ -9,7 +9,7 @@ Oil trading is a complex and multifaceted endeavor that involves the buying and 
 ### Key Components of Fundamental Analysis
 
 - **Supply Factors**: This includes production levels from major oil-producing countries, OPEC quotas, and the impact of technological advancements in oil extraction methods, such as shale drilling.
-- **Demand Factors**: Global economic growth, industrial activity, and energy consumption trends dictate the demand for oil. Analysts often look at [economic indicators](../e/economic_indicators.md) such as GDP growth rates, manufacturing indexes, and seasonal variations.
+- **Demand Factors**: Global economic growth, industrial activity, and energy consumption trends dictate the demand for oil. Analysts often look at [economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), manufacturing indexes, and seasonal variations.
 - **[Geopolitical Events](../g/geopolitical_events.md)**: Conflicts, sanctions, and political instability in key oil-producing regions can lead to supply disruptions, affecting global oil prices.
 - **Inventory Data**: Regularly published inventory data, such as the U.S. Energy Information Administration (EIA) weekly reports, offer insights into the balance between supply and demand.
 - **Currency Exchange Rates**: Since oil is traded globally in U.S. dollars, fluctuations in exchange rates can influence oil prices.
@@ -34,7 +34,7 @@ Oil trading is a complex and multifaceted endeavor that involves the buying and 
 ### Advantages and Risks
 
 - **Advantages**: Can provide precise entry and exit points; Effective for [short-term trading](../s/short-term_trading.md) strategies.
-- **Risks**: May generate false signals in volatile markets; Requires ongoing monitoring and analysis.
+- **Risks**: May generate [false signals](../f/false_signals_in_trading.md) in volatile markets; Requires ongoing monitoring and analysis.
 
 ## Spread Trading
 

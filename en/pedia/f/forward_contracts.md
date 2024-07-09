@@ -16,7 +16,7 @@ The key components of a forward contract are:
 
 ### Settlement
 On the contract's expiry date, the terms of the trade are executed. There are two types of settlements:
-- **Physical Delivery**: The actual asset is delivered.
+- **[Physical Delivery](../p/physical_delivery_in_trading.md)**: The actual asset is delivered.
 - **Cash Settlement**: The difference between the forward price and the market price is settled in cash.
 
 ## Usage in Algorithmic Trading
@@ -79,7 +79,7 @@ These organizations impose requirements such as reporting standards, anti-fraud 
 OMS handle the lifecycle of forward contracts from execution to settlement. These systems integrate with [trading algorithms](../t/trading_algorithms.md) to track and manage forward positions effectively.
 
 ### Risk Management Software
-Advanced software tools are used to model and manage the risks associated with forward contracts. These tools simulate various scenarios to stress-test the algorithms' strategies.
+Advanced [software tools](../s/software_tools_for_trading.md) are used to model and manage the risks associated with forward contracts. These tools simulate various scenarios to stress-test the algorithms' strategies.
 
 ### Data Feeds
 Real-time data feeds provide the latest market information, essential for accurate pricing and execution of forward contracts. Algo-traders rely on these feeds to make instantaneous trading decisions.

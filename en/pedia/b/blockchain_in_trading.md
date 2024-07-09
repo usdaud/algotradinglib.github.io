@@ -20,7 +20,7 @@ Blockchain's immutable ledger increases transparency in trading activities. Each
 Traditional trading settlement processes can take days due to the involvement of multiple intermediaries and manual reconciliations. Blockchain enables real-time gross settlement by automating and streamlining these processes, thus reducing counterparty risks and freeing up capital.
 
 ### Algorithmic Trading
-In [algorithmic trading](../a/algorithmic_trading.md), advanced algorithms make trading decisions at speeds and frequencies beyond human capabilities. Blockchain can enhance [algorithmic trading](../a/algorithmic_trading.md) by ensuring the integrity of market data and automating the execution of smart contracts based on predefined conditions.
+In [algorithmic trading](../a/algorithmic_trading.md), advanced algorithms make trading decisions at speeds and frequencies beyond human capabilities. Blockchain can enhance [algorithmic trading](../a/algorithmic_trading.md) by ensuring the integrity of market data and automating the execution of [smart contracts](../s/smart_contracts_in_trading.md) based on predefined conditions.
 
 ### Decentralized Exchanges (DEXs)
 Blockchain has given rise to Decentralized Exchanges (DEXs), which operate without a central authority, allowing users to trade directly with each other. DEXs offer increased security and privacy as they do not hold users’ funds, unlike centralized exchanges.
@@ -95,13 +95,13 @@ While blockchain is transparent, this can sometimes conflict with data privacy r
 ## Future Prospects and Innovations
 
 ### Integration with AI and ML
-The integration of blockchain with Artificial Intelligence (AI) and Machine Learning (ML) can transform [trading algorithms](../t/trading_algorithms.md), making them more efficient and capable of learning from vast amounts of data.
+The integration of blockchain with [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) can transform [trading algorithms](../t/trading_algorithms.md), making them more efficient and capable of learning from vast amounts of data.
 
 ### Smart Contracts
-Smart contracts can automate and enforce trading agreements without the need for manual intervention. These programmable contracts can execute trades automatically when specific conditions are met.
+[Smart contracts](../s/smart_contracts_in_trading.md) can automate and enforce trading agreements without the need for manual intervention. These programmable contracts can execute trades automatically when specific conditions are met.
 
 ### Quantum Computing
-While quantum computing poses a potential threat to blockchain encryption, it also offers opportunities to enhance the speed and security of blockchain transactions.
+While [quantum computing](../q/quantum_computing_in_trading.md) poses a potential threat to blockchain encryption, it also offers opportunities to enhance the speed and security of blockchain transactions.
 
 ### Central Bank Digital Currencies (CBDCs)
 The development of Central Bank Digital Currencies (CBDCs) can further integrate blockchain into the global financial system, enabling more efficient and secure trading processes.

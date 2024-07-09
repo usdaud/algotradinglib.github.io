@@ -56,7 +56,7 @@ Monte Carlo VaR involves simulating various price paths using random sampling to
 
 ## Stress Testing
 
-Stress testing involves modeling the impact of extreme market conditions on a portfolio. By simulating scenarios such as market crashes, traders can assess the resilience of their strategies.
+[Stress testing](../s/stress_testing_in_trading.md) involves modeling the impact of extreme market conditions on a portfolio. By simulating scenarios such as market crashes, traders can assess the resilience of their strategies.
 
 ## Scenario Analysis
 
@@ -90,7 +90,7 @@ Automated risk monitoring tools can track [portfolio performance](../p/portfolio
 
 ### Bridgewater Associates
 
-Bridgewater Associates is known for its robust [risk management](../r/risk_management.md) practices, including the use of [risk parity](../r/risk_parity.md) and extensive stress testing. 
+Bridgewater Associates is known for its robust [risk management](../r/risk_management.md) practices, including the use of [risk parity](../r/risk_parity.md) and extensive [stress testing](../s/stress_testing_in_trading.md). 
 
 Visit their website: [Bridgewater Associates](https://www.bridgewater.com/)
 

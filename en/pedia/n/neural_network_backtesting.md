@@ -1,20 +1,20 @@
 # Neural Network Backtesting
 
-Neural network [backtesting](../b/backtesting.md) is a critical process in [algorithmic trading](../a/algorithmic_trading.md) where historical market data is used to evaluate the performance of [trading strategies](../t/trading_strategies.md) driven by neural networks. The aim of [backtesting](../b/backtesting.md) is to understand how well a neural network-based trading strategy would have performed in past market conditions. This helps in validating the robustness and profitability of the strategy before deploying it in real, live trading environments.
+Neural network [backtesting](../b/backtesting.md) is a critical process in [algorithmic trading](../a/algorithmic_trading.md) where historical market data is used to evaluate the performance of [trading strategies](../t/trading_strategies.md) driven by [neural networks](../n/neural_networks_in_trading.md). The aim of [backtesting](../b/backtesting.md) is to understand how well a neural network-based trading strategy would have performed in past market conditions. This helps in validating the robustness and profitability of the strategy before deploying it in real, live trading environments.
 
 ### Neural Networks in Trading
 
-Neural networks, specifically deep learning models, have gained traction in recent years due to their ability to process large volumes of data and identify complex patterns. In trading, these models can be used to predict stock prices, classify market sentiment, optimize portfolios, and more. Key types of neural networks used in trading include:
+[Neural networks](../n/neural_networks_in_trading.md), specifically deep learning models, have gained traction in recent years due to their ability to process large volumes of data and identify complex patterns. In trading, these models can be used to predict stock prices, classify market sentiment, optimize portfolios, and more. Key types of [neural networks](../n/neural_networks_in_trading.md) used in trading include:
 
 1. **[Feedforward Neural Networks](../f/feedforward_neural_networks.md) (FNN)**: These are the simplest type of [artificial neural networks](../a/artificial_neural_networks.md) in which connections between the nodes do not form a cycle. They are mainly used for predicting future price movements based on historical data.
 
-2. **Recurrent Neural Networks (RNN)**: RNNs are neural networks with memory that can handle sequences of data. They are beneficial in time-series forecasting because they consider both current and past information.
+2. **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNN)**: RNNs are [neural networks](../n/neural_networks_in_trading.md) with memory that can handle sequences of data. They are beneficial in time-series forecasting because they consider both current and past information.
 
 3. **Long Short-Term Memory Networks (LSTM)**: LSTMs are a type of RNN designed to remember information for longer periods. They overcome the vanishing gradient problem, making them effective for predicting stock prices, which can be dependent on long-term patterns.
 
-4. **Convolutional Neural Networks (CNN)**: Originally designed for image processing, CNNs have found applications in trading by identifying patterns through different layers of processing, which can be transferred to analyzing features of trading data.
+4. **Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNN)**: Originally designed for image processing, CNNs have found applications in trading by identifying patterns through different layers of processing, which can be transferred to analyzing features of trading data.
 
-5. **Generative Adversarial Networks (GANs)**: GANs consist of two neural networks, a generator and a discriminator, working in opposition. In trading, GANs can generate synthetic data to augment limited datasets, providing more training data for models.
+5. **Generative Adversarial Networks (GANs)**: GANs consist of two [neural networks](../n/neural_networks_in_trading.md), a generator and a discriminator, working in opposition. In trading, GANs can generate synthetic data to augment limited datasets, providing more training data for models.
 
 ### Backtesting Frameworks and Tools
 
@@ -26,7 +26,7 @@ Neural networks, specifically deep learning models, have gained traction in rece
 
 3. **Zipline**: An open-source [backtesting](../b/backtesting.md) library written in Python and maintained by Quantopian. It is used in conjunction with Python and Pandas for efficient [backtesting](../b/backtesting.md). [Zipline](https://www.zipline.io/)
 
-4. **Keras and TensorFlow**: Keras, in conjunction with TensorFlow, is often used to build and train neural networks. These frameworks facilitate the integration of deep learning models with [backtesting](../b/backtesting.md) libraries like Zipline and [Backtrader](../b/backtrader.md). [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/)
+4. **Keras and TensorFlow**: Keras, in conjunction with TensorFlow, is often used to build and train [neural networks](../n/neural_networks_in_trading.md). These frameworks facilitate the integration of deep learning models with [backtesting](../b/backtesting.md) libraries like Zipline and [Backtrader](../b/backtrader.md). [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/)
 
 ### Backtesting Steps
 

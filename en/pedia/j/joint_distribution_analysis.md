@@ -32,7 +32,7 @@ For continuous random variables, the joint [probability density function](../p/p
 2. Integration to one: \(\int_{-\infty}^{\infty} \int_{-\infty}^{\infty} f_{X,Y}(x,y) \, dx \, dy = 1\).
 
 #### Example:
-Suppose \(X\) and \(Y\) are normally distributed random variables. Their joint PDF can be defined using the multivariate normal distribution.
+Suppose \(X\) and \(Y\) are normally distributed random variables. Their joint PDF can be defined using the multivariate [normal distribution](../n/normal_distribution_in_trading.md).
 
 ## Marginal and Conditional Distributions
 
@@ -106,7 +106,7 @@ In high-frequency trading, understanding the joint distribution of order book ev
 
 AQR Capital Management is a well-known firm that extensively uses quantitative techniques in its [trading strategies](../t/trading_strategies.md). Their approach often involves joint distribution analysis to understand the intricate relationships between different assets and to model risk.
 
-Visit AQR Capital Management's [official website](https://www.aqr.com/) for more information about their quantitative strategies.
+Visit AQR Capital Management's [official website](https://www.aqr.com/) for more information about their [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 ### Example Strategy: Pairs Trading
 
@@ -117,11 +117,11 @@ Visit AQR Capital Management's [official website](https://www.aqr.com/) for more
 ### Python Libraries
 
 - **NumPy**: Provides fundamental capabilities for numerical computations.
-- **SciPy**: Offers advanced statistical functions and probability distributions.
+- **SciPy**: Offers advanced statistical functions and [probability distributions](../p/probability_distributions_in_trading.md).
 - **Pandas**: Useful for data manipulation and analysis.
 - **Matplotlib/Seaborn**: For [data visualization](../d/data_visualization.md).
 - **statsmodels**: For statistical modeling.
-- **scikit-learn**: Includes machine learning algorithms that can leverage joint distribution analysis.
+- **scikit-learn**: Includes machine [learning algorithms](../l/learning_algorithms_in_trading.md) that can leverage joint distribution analysis.
 
 ### R Packages
 

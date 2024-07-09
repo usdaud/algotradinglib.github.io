@@ -50,7 +50,7 @@ Several [trading strategies](../t/trading_strategies.md) rely on intermarket mom
 
 ### Algorithmic Trading
 
-Intermarket momentum is increasingly being incorporated into [algorithmic trading](../a/algorithmic_trading.md) systems. Advanced algorithms can analyze real-time data from multiple markets, identify patterns, and execute trades much faster than human traders. These algorithms often rely on machine learning and artificial intelligence to improve their accuracy and performance over time.
+Intermarket momentum is increasingly being incorporated into [algorithmic trading](../a/algorithmic_trading.md) systems. Advanced algorithms can analyze real-time data from multiple markets, identify patterns, and execute trades much faster than human traders. These algorithms often rely on machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve their accuracy and performance over time.
 
 ## Case Studies and Examples
 
@@ -60,7 +60,7 @@ During the 2008 financial crisis, intermarket momentum was evident as the collap
 
 ### Gold and USD Relationship
 
-Historically, gold and the U.S. Dollar have shown an inverse relationship. During periods of economic uncertainty or inflation, gold prices tend to rise as investors seek safe-haven assets, while the U.S. Dollar may weaken.
+Historically, gold and the U.S. Dollar have shown an inverse relationship. During periods of economic [uncertainty](../u/uncertainty_in_trading.md) or inflation, gold prices tend to rise as investors seek safe-haven assets, while the U.S. Dollar may weaken.
 
 ### Oil Prices and Equities
 

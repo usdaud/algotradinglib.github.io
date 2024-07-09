@@ -72,7 +72,7 @@ Using visual tools to present complex return data helps traders interpret and an
 
 - **Equity Curves:** Plotting the cumulative returns over time.
 - **[Rolling Returns](../r/rolling_returns.md):** Showing returns over rolling periods to highlight consistency.
-- **Heatmaps:** Representing performance data across different assets, time frames, or other dimensions.
+- **[Heatmaps](../h/heatmaps_in_trading.md):** Representing performance data across different assets, time frames, or other dimensions.
 
 ### **Framework Integration**
 
@@ -82,7 +82,7 @@ Several platforms and libraries assist traders in implementing return analysis f
 
 - **Pandas:** A data manipulation library that is essential for preparing and analyzing time-series data.
 - **NumPy:** Helps with numerical operations, an integral part of [performance metrics](../p/performance_metrics.md) calculations.
-- **Matplotlib and Seaborn:** Visualization libraries that enable plotting equity curves, heatmaps, and more.
+- **Matplotlib and Seaborn:** Visualization libraries that enable plotting equity curves, [heatmaps](../h/heatmaps_in_trading.md), and more.
 - **Pyfolio:** A comprehensive library specifically designed for portfolio and risk analytics.
 - **[Backtrader](../b/backtrader.md):** Allows for extreme flexibility when [backtesting](../b/backtesting.md) strategies.
 
@@ -105,7 +105,7 @@ Several platforms provide comprehensive return analysis tools for algorithmic tr
 
 - **[QuantConnect](../q/quantconnect.md) ([www.quantconnect.com](https://www.quantconnect.com)):** Offers a cloud-based, sharable environment for running strategies and performing complex return analysis.
 - **Quantopian:** Was one of the pioneers in providing online [backtesting](../b/backtesting.md) and analysis tools before its closure.
-- **Interactive Brokers ([www.interactivebrokers.com](https://www.interactivebrokers.com)):** Provides a powerful API for traders who want to integrate their algo-trading with real-time [brokerage services](../b/brokerage_services.md).
+- **[Interactive Brokers](../i/interactive_brokers.md) ([www.interactivebrokers.com](https://www.interactivebrokers.com)):** Provides a powerful API for traders who want to integrate their algo-trading with real-time [brokerage services](../b/brokerage_services.md).
 
 ### Conclusion
 

@@ -8,7 +8,7 @@ One of the most significant risks associated with [penny stocks](../p/penny_stoc
 
 #### Lower Liquidity
 
-Liquidity refers to the ease with which an asset can be converted into cash without significantly affecting its price. [Penny stocks](../p/penny_stocks.md) generally have lower trading volumes compared to large-cap stocks, leading to lower liquidity. Low liquidity can result in higher volatility, making it harder to execute buy or sell orders at the desired price. This can lead to significant price fluctuations and potentially substantial losses if an investor needs to sell the stock quickly.
+Liquidity refers to the ease with which an asset can be converted into cash without significantly affecting its price. [Penny stocks](../p/penny_stocks.md) generally have lower trading volumes compared to [large-cap stocks](../l/large_cap_stocks.md), leading to lower liquidity. Low liquidity can result in higher volatility, making it harder to execute buy or sell orders at the desired price. This can lead to significant price fluctuations and potentially substantial losses if an investor needs to sell the stock quickly.
 
 #### Market Manipulation
 

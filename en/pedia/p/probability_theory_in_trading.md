@@ -1,7 +1,7 @@
 # Probability Theory
 
 ### Overview
-Probability theory forms the bedrock of modern [trading strategies](../t/trading_strategies.md), especially in the realm of [algorithmic trading](../a/algorithmic_trading.md). By leveraging mathematical frameworks to quantify uncertainty, traders can make informed decisions about future market behavior. This section explores the fundamental concepts of probability theory and their application in trading.
+Probability theory forms the bedrock of modern [trading strategies](../t/trading_strategies.md), especially in the realm of [algorithmic trading](../a/algorithmic_trading.md). By leveraging mathematical frameworks to quantify [uncertainty](../u/uncertainty_in_trading.md), traders can make informed decisions about future market behavior. This section explores the fundamental concepts of probability theory and their application in trading.
 
 ### Basic Concepts of Probability Theory
 Understanding probability theory involves grasping several fundamental concepts, including sample space, events, and probability measures.
@@ -16,16 +16,16 @@ An event is a specific outcome or a set of outcomes within the sample space. For
 A probability measure assigns a value between 0 and 1 to each event in the sample space, representing the likelihood of that event occurring. The sum of the probabilities of all possible outcomes is always 1.
 
 ### Important Probability Distributions in Trading
-Various probability distributions are often utilized in trading to model different types of data.
+Various [probability distributions](../p/probability_distributions_in_trading.md) are often utilized in trading to model different types of data.
 
 #### Normal Distribution
-The normal distribution, also known as the [Gaussian distribution](../g/gaussian_distribution.md), is commonly used due to its properties of symmetry and the convenient fact that it is fully defined by its mean and standard deviation. Many financial returns exhibit properties akin to a normal distribution under certain conditions.
+The [normal distribution](../n/normal_distribution_in_trading.md), also known as the [Gaussian distribution](../g/gaussian_distribution.md), is commonly used due to its properties of symmetry and the convenient fact that it is fully defined by its mean and standard deviation. Many financial returns exhibit properties akin to a [normal distribution](../n/normal_distribution_in_trading.md) under certain conditions.
 
 #### Log-Normal Distribution
 Financial asset prices often follow a [log-normal distribution](../l/log-normal_distribution.md). This means that while the returns may be normally distributed, the prices themselves are not. A [log-normal distribution](../l/log-normal_distribution.md) is used to model the multiplicative effect on the asset price.
 
 #### Exponential Distribution
-The exponential distribution is frequently used in modeling the time between events in a Poisson process, which can be applicable in high-frequency trading to model time between trades.
+The exponential distribution is frequently used in modeling the time between events in a [Poisson process](../p/poisson_process_in_trading.md), which can be applicable in high-frequency trading to model time between trades.
 
 ### Stochastic Processes
 [Stochastic processes](../s/stochastic_processes.md) are sequences of random variables, and several types of [stochastic processes](../s/stochastic_processes.md) are widely used in trading.
@@ -34,7 +34,7 @@ The exponential distribution is frequently used in modeling the time between eve
 Brownian motion is a continuous stochastic process with applications in modeling stock prices. The classic [Black-Scholes model](../b/black-scholes_model.md) for options pricing uses [geometric Brownian motion](../g/geometric_brownian_motion.md) to estimate the future price of an asset.
 
 #### Poisson Process
-The Poisson process is often used to model discrete events occurring independently over time, such as the arrival of buy and sell orders in a financial market.
+The [Poisson process](../p/poisson_process_in_trading.md) is often used to model discrete events occurring independently over time, such as the arrival of buy and sell orders in a financial market.
 
 ### Risk Management and Probability
 [Risk management](../r/risk_management.md) strategies heavily rely on probability theory to quantify and mitigate the potential for losses.
@@ -49,16 +49,16 @@ Expected Shortfall, or Conditional VaR, measures the average loss given that the
 [Algorithmic trading](../a/algorithmic_trading.md) strategies often incorporate probabilistic models to anticipate market movements.
 
 #### Markov Chains
-Markov Chains are used to model the sequence of possible events where the probability of each event depends only on the state achieved in the previous event. This can be useful for predicting future states of a market based on current conditions.
+[Markov Chains](../m/markov_chains_in_trading.md) are used to model the sequence of possible events where the probability of each event depends only on the state achieved in the previous event. This can be useful for predicting future states of a market based on current conditions.
 
 #### Monte Carlo Simulations
-Monte Carlo simulations use randomness to solve problems that might be deterministic in principle. By simulating thousands or millions of possible scenarios, traders can estimate the probability distributions of potential outcomes.
+Monte Carlo simulations use randomness to solve problems that might be deterministic in principle. By simulating thousands or millions of possible scenarios, traders can estimate the [probability distributions](../p/probability_distributions_in_trading.md) of potential outcomes.
 
 ### Companies Utilizing Probability Theory in Trading
 Several companies are at the forefront of using probability theory and advanced analytics to drive their [trading strategies](../t/trading_strategies.md).
 
 #### Renaissance Technologies
-Renaissance Technologies is known for its [quantitative research](../q/quantitative_research.md) and use of mathematical models to drive investment decisions.
+Renaissance Technologies is known for its [quantitative research](../q/quantitative_research.md) and use of [mathematical models](../m/mathematical_models_in_trading.md) to drive investment decisions.
 - [Renaissance Technologies](https://www.rentec.com)
 
 #### Two Sigma
@@ -70,7 +70,7 @@ DE Shaw combines advanced mathematical techniques with traditional investing str
 - [DE Shaw](https://www.deshaw.com)
 
 ### Conclusion
-The profound integration of probability theory in trading underscores its significance in shaping modern financial strategies. By quantifying uncertainty and employing sophisticated probabilistic models, traders can devise strategies that navigate market complexities with greater precision.
+The profound integration of probability theory in trading underscores its significance in shaping modern financial strategies. By quantifying [uncertainty](../u/uncertainty_in_trading.md) and employing sophisticated probabilistic models, traders can devise strategies that navigate market complexities with greater precision.
 
 ### References
 * "Probability Theory: The Logic of Science" by E.T. Jaynes

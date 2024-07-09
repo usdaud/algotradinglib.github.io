@@ -13,10 +13,10 @@ Systematic risk, also known as market risk or undiversifiable risk, is the inher
 
 Several macroeconomic factors can contribute to systematic risk. These include:
 
-1. **Economic Factors**: Elements such as GDP growth rates, unemployment figures, and consumer spending directly impact market stability. Periods of economic expansion typically reduce systematic risk, while recessions increase it.
+1. **Economic Factors**: Elements such as GDP [growth rates](../g/growth_rates_in_trading.md), unemployment figures, and consumer spending directly impact market stability. Periods of economic expansion typically reduce systematic risk, while recessions increase it.
 2. **Interest Rate Changes**: Central banks, like the Federal Reserve in the United States, influence systematic risk by altering interest rates. A rise in rates can make borrowing more expensive, reducing corporate profits and slowing down economic growth.
 3. **Inflation**: Rapid inflation can erode purchasing power and reduce the real returns on investments. It generally leads to higher interest rates, further impacting market conditions.
-4. **Political Stability**: Political events and instability (e.g., elections, governmental changes, or international conflicts) can create uncertainty, affecting market confidence and investor sentiment.
+4. **Political Stability**: Political events and instability (e.g., elections, governmental changes, or international conflicts) can create [uncertainty](../u/uncertainty_in_trading.md), affecting market confidence and investor sentiment.
 5. **Natural Disasters**: Events like earthquakes, hurricanes, or pandemics can disrupt economies, leading to significant systematic risk. The COVID-19 pandemic is a prime example of a systemic shock that affected global financial markets.
 
 ### Measuring Systematic Risk

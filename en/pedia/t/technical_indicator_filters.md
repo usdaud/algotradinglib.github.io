@@ -6,9 +6,9 @@ Technical indicator filters are crucial tools in the world of [algorithmic tradi
 
 Technical indicator filters are algorithms that analyze historical market data, such as price and volume, to identify patterns and trends. These patterns help traders forecast future market movements. Generally, [technical indicators](../t/technical_indicators.md) can be categorized into three main types:
 
-1. **[Trend Indicators](../t/trend_indicators.md)**: These help identify the direction of the market. Examples include Moving Averages (SMA and EMA) and the Average Directional Index (ADX).
+1. **[Trend Indicators](../t/trend_indicators.md)**: These help identify the direction of the market. Examples include Moving Averages (SMA and EMA) and the [Average Directional Index](../a/average_directional_index_(adx).md) (ADX).
 2. **[Momentum Indicators](../m/momentum_indicators.md)**: These measure the rate of change in the price of an asset. Examples include the Relative Strength Index (RSI) and the Moving Average Convergence Divergence (MACD).
-3. **Volatility Indicators**: These assess the degree of price variation over a given period. Examples include [Bollinger Bands](../b/bollinger_bands.md) and the Average True Range (ATR).
+3. **Volatility Indicators**: These assess the degree of price variation over a given period. Examples include [Bollinger Bands](../b/bollinger_bands.md) and the [Average True Range](../a/average_true_range_(atr).md) (ATR).
 
 By leveraging these [technical indicators](../t/technical_indicators.md) in algo-[trading strategies](../t/trading_strategies.md), a trading system can automatically generate buy or sell signals based on pre-defined criteria, enhancing the effectiveness and efficiency of the trading process.
 

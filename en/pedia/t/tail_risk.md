@@ -1,10 +1,10 @@
 # Tail Risk
 
-Tail risk refers to the risk of an asset or portfolio of assets moving more than three standard deviations from its current price, or in simpler terms, the risk of an extreme event occurring. These are rare events that lie in the "tails" of a normal distribution curve. In the context of financial markets, tail risk events are often catastrophic and lead to substantial negative returns. Though such events are infrequent, their impact can be devastating, making the assessment and management of tail risk a critical aspect of [risk management](../r/risk_management.md) in [trading strategies](../t/trading_strategies.md), especially [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
+Tail risk refers to the risk of an asset or portfolio of assets moving more than three standard deviations from its current price, or in simpler terms, the risk of an extreme event occurring. These are rare events that lie in the "tails" of a [normal distribution](../n/normal_distribution_in_trading.md) curve. In the context of financial markets, tail risk events are often catastrophic and lead to substantial negative returns. Though such events are infrequent, their impact can be devastating, making the assessment and management of tail risk a critical aspect of [risk management](../r/risk_management.md) in [trading strategies](../t/trading_strategies.md), especially [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
 
 ### Understanding Tail Risk
 
-In a normal distribution, about 68% of the occurrences lie within one standard deviation of the mean, 95% within two standard deviations, and 99.7% within three standard deviations. Tail risk pertains to the events that fall outside, typically beyond three standard deviations. These events, although statistically unlikely, can have dramatic consequences.
+In a [normal distribution](../n/normal_distribution_in_trading.md), about 68% of the occurrences lie within one standard deviation of the mean, 95% within two standard deviations, and 99.7% within three standard deviations. Tail risk pertains to the events that fall outside, typically beyond three standard deviations. These events, although statistically unlikely, can have dramatic consequences.
 
 For instance, in financial markets, significant crashes like the 2008 financial crisis or the 1987 stock market crash are instances of tail risk events. The term "black swan," coined by Nassim Nicholas Taleb, also refers to tail risk events that are unpredictable and have severe consequences.
 
@@ -30,7 +30,7 @@ For instance, in financial markets, significant crashes like the 2008 financial 
 Managing tail risk requires a combination of strategies designed to mitigate the impact of extreme events. Here are a few approaches commonly used:
 
 1. **[Tail Risk Hedging](../t/tail_risk_hedging.md)**: This involves purchasing assets or [derivatives](../d/derivatives.md) that provide payoff in extreme market conditions. Examples include [out-of-the-money options](../o/out-of-the-money_options.md) or volatility swaps.
-2. **Stress Testing**: Regularly conducting stress tests to evaluate how portfolios would perform under extreme conditions can help in identifying vulnerabilities.
+2. **[Stress Testing](../s/stress_testing_in_trading.md)**: Regularly conducting stress tests to evaluate how portfolios would perform under extreme conditions can help in identifying vulnerabilities.
 3. **Diversification**: Proper diversification across different asset classes and geographies can reduce exposure to tail risk.
 4. **Robust [Risk Management](../r/risk_management.md) Frameworks**: Implementing and adhering to stringent [risk management](../r/risk_management.md) protocols can mitigate the impact of tail events.
 5. **Scenario Analysis**: Conducting scenario analysis to understand the potential impact of various tail risk events on portfolios.
@@ -43,6 +43,6 @@ Another company specializing in [risk management](../r/risk_management.md), incl
 
 ### Conclusion
 
-Tail risk represents a significant but often underestimated dimension of risk in financial markets. While the infrequency of tail events might lead some traders to overlook this risk, the potential for substantial losses warrants careful attention and sophisticated [risk management](../r/risk_management.md) strategies. By employing a combination of hedging, stress testing, diversification, robust [risk management](../r/risk_management.md) frameworks, and scenario analysis, traders and institutional investors can better protect their portfolios from the devastating impacts of tail risk events. In the sophisticated domain of [algorithmic trading](../a/algorithmic_trading.md), where the stakes and speeds are amplified, vigilance against tail risk becomes even more critical.
+Tail risk represents a significant but often underestimated dimension of risk in financial markets. While the infrequency of tail events might lead some traders to overlook this risk, the potential for substantial losses [warrants](../w/warrants_in_trading.md) careful attention and sophisticated [risk management](../r/risk_management.md) strategies. By employing a combination of hedging, [stress testing](../s/stress_testing_in_trading.md), diversification, robust [risk management](../r/risk_management.md) frameworks, and scenario analysis, traders and institutional investors can better protect their portfolios from the devastating impacts of tail risk events. In the sophisticated domain of [algorithmic trading](../a/algorithmic_trading.md), where the stakes and speeds are amplified, vigilance against tail risk becomes even more critical.
 
 Whether you are an individual trader employing algorithmic strategies or an institutional investor, understanding and managing tail risk is essential for sustainable financial health and resilience against market extremes.

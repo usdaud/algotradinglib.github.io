@@ -56,7 +56,7 @@ Modern portfolio theory often employs multi-[factor models](../f/factor_models.m
 VaR measures the potential loss in value of a portfolio over a defined period for a given confidence interval. It is a widely used [risk management](../r/risk_management.md) technique to ensure that the portfolio is not exposed to excessive risk.
 
 ### Stress Testing
-Stress testing involves testing the portfolio against various extreme scenarios to evaluate its robustness. This helps portfolio managers understand the potential impact of rare but severe market events.
+[Stress testing](../s/stress_testing_in_trading.md) involves testing the portfolio against various extreme scenarios to evaluate its robustness. This helps portfolio managers understand the potential impact of rare but severe market events.
 
 ### Diversification
 Diversification is a fundamental [risk management](../r/risk_management.md) strategy where a diverse mix of investments is used to reduce risk. By spreading investments across various assets, sectors, or geographic locations, the portfolio's overall risk is minimized.
@@ -71,11 +71,11 @@ High-Frequency Trading employs sophisticated algorithms and high-speed data netw
 [Learn more about Renaissance Technologies here](https://www.rentec.com)
 
 ### Machine Learning and AI
-Machine learning and artificial intelligence have revolutionized the way Alpha is generated. Algorithms can now learn from vast datasets, recognize patterns, and make autonomous trading decisions. Companies like Two Sigma utilize AI for [predictive modeling](../p/predictive_modeling.md) and strategy development.
+Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) have revolutionized the way Alpha is generated. Algorithms can now learn from vast datasets, recognize patterns, and make autonomous trading decisions. Companies like Two Sigma utilize AI for [predictive modeling](../p/predictive_modeling.md) and strategy development.
 [Learn more about Two Sigma here](https://www.twosigma.com)
 
 ### Blockchain and Smart Contracts
-Blockchain technology and smart contracts offer new avenues for achieving Alpha by enabling secure and transparent transactions without intermediaries. Decentralized finance (DeFi) platforms are exploring ways to leverage blockchain for more efficient trading.
+[Blockchain](../b/blockchain_in_trading.md) technology and [smart contracts](../s/smart_contracts_in_trading.md) offer new avenues for achieving Alpha by enabling secure and transparent transactions without intermediaries. Decentralized finance (DeFi) platforms are exploring ways to leverage [blockchain](../b/blockchain_in_trading.md) for more efficient trading.
 
 ## Case Studies
 
@@ -92,7 +92,7 @@ D.E. Shaw & Co. is known for its use of [proprietary algorithms](../p/proprietar
 [Learn about D.E. Shaw & Co. here](https://www.deshaw.com)
 
 ### Citadel LLC
-Founded by Kenneth Griffin, Citadel LLC is one of the largest hedge funds globally, employing a range of quantitative strategies to generate Alpha. They harness technology and vast data sets to inform their trading decisions.
+Founded by Kenneth Griffin, Citadel LLC is one of the largest hedge funds globally, employing a range of [quantitative strategies](../q/quantitative_strategies_in_trading.md) to generate Alpha. They harness technology and vast data sets to inform their trading decisions.
 [Explore Citadel LLC here](https://www.citadel.com)
 
 ## Conclusion

@@ -1,6 +1,6 @@
 # YTD Return
 
-The year-to-date (YTD) return is an essential metric used in the financial markets to evaluate the performance of an investment or a portfolio over the current calendar year. This measurement allows investors, analysts, and portfolio managers to track and compare the year-to-date performance of different investments, helping them to make informed decisions. Understanding how to calculate the YTD return effectively can aid in strategic planning, performance evaluation, and [risk management](../r/risk_management.md). This article will delve deeply into the concept of YTD return calculation, illustrated examples, its importance, and practical applications in [algorithmic trading](../a/algorithmic_trading.md).
+The year-to-date (YTD) return is an essential metric used in the financial markets to evaluate the performance of an investment or a portfolio over the current calendar year. This measurement allows investors, analysts, and portfolio managers to track and compare the year-to-date performance of different investments, helping them to make informed decisions. Understanding how to calculate the YTD return effectively can aid in strategic planning, performance evaluation, and [risk management](../r/risk_management.md). This article will delve deeply into the concept of [YTD return calculation](../y/ytd_yield_calculation.md), illustrated examples, its importance, and practical applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## What is YTD Return?
 
@@ -28,7 +28,7 @@ To calculate the YTD return, follow these steps:
 
 ### Example Calculation
 
-Assume you have an investment in a stock that was valued at $100 per share at the beginning of the year. As of the latest date, the stock is trading at $120 per share, and it has paid a dividend of $2 per share during the year. The YTD return calculation would be:
+Assume you have an investment in a stock that was valued at $100 per share at the beginning of the year. As of the latest date, the stock is trading at $120 per share, and it has paid a dividend of $2 per share during the year. The [YTD return calculation](../y/ytd_yield_calculation.md) would be:
 
 1. **Starting value (Beginning of year):** $100
 2. **Current Value (Latest Price):** $120

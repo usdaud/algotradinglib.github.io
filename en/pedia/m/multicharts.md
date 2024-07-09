@@ -10,7 +10,7 @@ MultiCharts is a professional trading platform designed for serious traders who 
 4. **[Backtesting](../b/backtesting.md) and Optimization**: Robust [backtesting](../b/backtesting.md) engine to test [trading strategies](../t/trading_strategies.md) using historical data, along with optimization tools to refine strategy parameters.
 5. **Portfolio Trading**: Tools for managing and trading multiple strategies and instruments within a single portfolio.
 6. **Custom Indicators**: Ability to create custom indicators using EasyLanguage and .NET.
-7. **Order Execution**: Advanced order execution capabilities with multiple order types, including market, limit, stop, and trailing stops.
+7. **Order Execution**: Advanced order execution capabilities with multiple [order types](../o/order_types_in_trading.md), including market, limit, stop, and trailing stops.
 8. **Multi-Broker Support**: Compatible with a wide range of brokers for seamless trading execution.
 9. **Chart Trading**: Interactive chart trading features that allow traders to place and manage orders directly from the charts.
 10. **Strategy Development**: Tools for developing and testing complex [trading strategies](../t/trading_strategies.md) using EasyLanguage and .NET.
@@ -26,7 +26,7 @@ MultiCharts is a professional trading platform designed for serious traders who 
 ## Integrations
 MultiCharts integrates with a variety of brokers, data providers, and third-party services to enhance its functionality. Some notable integrations include:
 
-- **Brokerage Firms**: Direct integration with brokers such as Interactive Brokers, [TradeStation](../t/tradestation.md), and [CQG](../c/cqg.md) for order execution and account management.
+- **Brokerage Firms**: Direct integration with brokers such as [Interactive Brokers](../i/interactive_brokers.md), [TradeStation](../t/tradestation.md), and [CQG](../c/cqg.md) for order execution and account management.
 - **Market Data Providers**: Access to real-time and historical market data from providers like [IQFeed](../i/iqfeed.md), [eSignal](../e/esignal.md), and [BarChart](../b/barchart.md).
 - **Trading Platforms**: Compatibility with other trading platforms and tools for extended functionality.
 - **APIs**: APIs for custom integrations and the development of proprietary tools and strategies.

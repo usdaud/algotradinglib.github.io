@@ -32,7 +32,7 @@ Where:
 - \(X\) = Strike price
 - \(r\) = Risk-free interest rate
 - \(T\) = Time to expiration
-- \(N()\) = Cumulative distribution function of the standard normal distribution
+- \(N()\) = [Cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md)
 - \(d_1 = \frac{\ln(S_0/X) + (r + \sigma^2/2)T}{\sigma \sqrt{T}}\)
 - \(d_2 = d_1 - \sigma \sqrt{T}\)
 
@@ -72,7 +72,7 @@ Where:
 #### Key Features:
 
 1. **Random Sampling:** The method involves generating a large number of random samples to represent the possible future movements of an asset’s price.
-2. **Flexibility:** It can be used to price [derivatives](../d/derivatives.md) with complex features and multiple sources of uncertainty.
+2. **Flexibility:** It can be used to price [derivatives](../d/derivatives.md) with complex features and multiple sources of [uncertainty](../u/uncertainty_in_trading.md).
 3. **Accuracy:** The accuracy of the Monte Carlo method increases with the number of simulated paths, albeit at the cost of computational intensity.
 
 ### Heath-Jarrow-Morton Framework (HJM)

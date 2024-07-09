@@ -1,6 +1,6 @@
 # X-Turnover Analysis
 
-[Algorithmic trading](../a/algorithmic_trading.md) has become a dominant force in the financial markets, leveraging mathematical models and electronic systems to execute trades at speeds and frequencies that human traders cannot match. One crucial aspect of [algorithmic trading](../a/algorithmic_trading.md) that investors and analysts focus on is the concept of X-turnover, as it provides an insightful measure into the trading efficiency and behavior of algorithmic operations.
+[Algorithmic trading](../a/algorithmic_trading.md) has become a dominant force in the financial markets, leveraging [mathematical models](../m/mathematical_models_in_trading.md) and electronic systems to execute trades at speeds and frequencies that human traders cannot match. One crucial aspect of [algorithmic trading](../a/algorithmic_trading.md) that investors and analysts focus on is the concept of X-turnover, as it provides an insightful measure into the trading efficiency and behavior of algorithmic operations.
 
 ### Understanding X-Turnover
 
@@ -78,8 +78,8 @@ Various tools and platforms assist in X-[turnover analysis](../t/turnover_analys
 
 As markets evolve and technology advances, the future of X-[turnover analysis](../t/turnover_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md) will likely include:
 
-- **Artificial Intelligence (AI) and Machine Learning (ML)**: These technologies can provide deeper insights into turnover patterns, enabling more sophisticated and adaptive [trading strategies](../t/trading_strategies.md).
-- **Blockchain Technology**: Decentralized ledgers could offer more transparent and reliable trade volume data, enhancing [turnover analysis](../t/turnover_analysis.md) accuracy.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML)**: These technologies can provide deeper insights into turnover patterns, enabling more sophisticated and adaptive [trading strategies](../t/trading_strategies.md).
+- **[Blockchain](../b/blockchain_in_trading.md) Technology**: Decentralized ledgers could offer more transparent and reliable trade volume data, enhancing [turnover analysis](../t/turnover_analysis.md) accuracy.
 - **Enhanced Regulatory Frameworks**: As regulatory bodies incorporate more sophisticated surveillance tools, compliance monitoring and turnover reporting will become more rigorous.
 
 ### Conclusion

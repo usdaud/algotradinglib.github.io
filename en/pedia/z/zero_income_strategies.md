@@ -9,7 +9,7 @@ Zero Income Strategies in algo trading emphasize price movement and capital gain
 ## Key Components
 
 1. **Algorithm Development**
-   - **Machine Learning Models**: Algorithms rely on machine learning models to predict price movements. Techniques such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and neural networks are commonplace.
+   - **Machine Learning Models**: Algorithms rely on machine learning models to predict price movements. Techniques such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) are commonplace.
    - **[Backtesting](../b/backtesting.md)**: Ensuring historical performance measurements to validate the efficiency of the algorithm.
    - **Parameter Optimization**: Fine-tuning model parameters to maximize [performance metrics](../p/performance_metrics.md) like [Sharpe Ratio](../s/sharpe_ratio.md) or [Sortino Ratio](../s/sortino_ratio.md).
 
@@ -18,7 +18,7 @@ Zero Income Strategies in algo trading emphasize price movement and capital gain
    - **[Pattern Recognition](../p/pattern_recognition.md)**: Algorithms identify trading opportunities based on market patterns like head and shoulders, flag, and pennant patterns.
 
 3. **Execution Strategies**
-   - **Order Types**: Use of market orders, limit orders, stop orders, etc., to optimize entry and exit points.
+   - **[Order Types](../o/order_types_in_trading.md)**: Use of market orders, limit orders, stop orders, etc., to optimize entry and exit points.
    - **Latency [Arbitrage](../a/arbitrage.md)**: Taking advantage of brief price discrepancies across different markets.
 
 4. **[Risk Management](../r/risk_management.md)**
@@ -68,8 +68,8 @@ Zero Income Strategies in algo trading emphasize price movement and capital gain
 ## Technological Framework
 
 1. **Programming Languages**: Python, R, C++ are commonly used for developing and deploying [trading algorithms](../t/trading_algorithms.md).
-2. **Data Handling**: Big data platforms and technologies such as Apache Hadoop, Spark for handling large datasets and real-time data processing.
-3. **Cloud Computing**: Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure for scalable and flexible infrastructure.
+2. **Data Handling**: [Big data](../b/big_data_in_trading.md) platforms and technologies such as Apache Hadoop, Spark for handling large datasets and real-time data processing.
+3. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure for scalable and flexible infrastructure.
 
 ## Conclusion
 

@@ -43,7 +43,7 @@ The [key rate duration](../k/key_rate_duration.md) approach involves calculating
 Partial duration focuses on the sensitivity of a bond or portfolio to changes in interest rates at certain parts of the [yield curve](../y/yield_curve.md), without considering the entire curve. This approach is useful for portfolios that have exposure to specific maturities.
 
 #### 3. Scenario Analysis
-Scenario analysis involves evaluating the performance of a portfolio under different [yield curve](../y/yield_curve.md) scenarios, including parallel shifts, twists, and bends. This helps in stress testing the portfolio and refining [hedging strategies](../h/hedging_strategies.md).
+Scenario analysis involves evaluating the performance of a portfolio under different [yield curve](../y/yield_curve.md) scenarios, including parallel shifts, twists, and bends. This helps in [stress testing](../s/stress_testing_in_trading.md) the portfolio and refining [hedging strategies](../h/hedging_strategies.md).
 
 #### 4. Immunization
 Immunization entails structuring a portfolio in such a way that the duration and convexity match, thereby neutralizing the impact of interest rate changes. This technique ensures that the portfolio's value remains relatively stable, regardless of [yield curve](../y/yield_curve.md) fluctuations.

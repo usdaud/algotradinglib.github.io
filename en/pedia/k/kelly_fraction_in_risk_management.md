@@ -40,7 +40,7 @@ In [portfolio management](../p/portfolio_management.md), the [Kelly criterion](.
 
 ### Algorithmic and High-Frequency Trading
 
-Hedge funds like Renaissance Technologies and other [proprietary trading](../p/proprietary_trading.md) firms rely on mathematical models to make high-frequency trading decisions. The [Kelly criterion](../k/kelly_criterion.md) aids in determining the optimal trade sizes, ensuring the trades are scaled correctly to maximize returns while minimizing the risk of significant drawdowns. For more information about Renaissance Technologies, visit their [official site](https://www.rentech.com/).
+Hedge funds like Renaissance Technologies and other [proprietary trading](../p/proprietary_trading.md) firms rely on [mathematical models](../m/mathematical_models_in_trading.md) to make high-frequency trading decisions. The [Kelly criterion](../k/kelly_criterion.md) aids in determining the optimal trade sizes, ensuring the trades are scaled correctly to maximize returns while minimizing the risk of significant drawdowns. For more information about Renaissance Technologies, visit their [official site](https://www.rentech.com/).
 
 ### Risk Management
 
@@ -76,11 +76,11 @@ Fractional Kelly involves betting a fixed fraction (e.g., half or quarter) of th
 
 ### Mean-Variance Optimization
 
-Integrating the [Kelly criterion](../k/kelly_criterion.md) with [mean-variance optimization](../m/mean-variance_optimization.md) techniques can further refine portfolio choices. This hybrid approach considers both the expected returns (mean) and the uncertainty or volatility (variance) while still striving to maximize the logarithmic growth of capital.
+Integrating the [Kelly criterion](../k/kelly_criterion.md) with [mean-variance optimization](../m/mean-variance_optimization.md) techniques can further refine portfolio choices. This hybrid approach considers both the expected returns (mean) and the [uncertainty](../u/uncertainty_in_trading.md) or volatility (variance) while still striving to maximize the logarithmic growth of capital.
 
 ### Stochastic and Robust Kelly
 
-Adapting the [Kelly criterion](../k/kelly_criterion.md) to account for stochastic or uncertain parameters leads to robust Kelly strategies. These approaches incorporate Bayesian methods or [stochastic optimization](../s/stochastic_optimization.md) techniques to better handle parameter uncertainty and market volatility.
+Adapting the [Kelly criterion](../k/kelly_criterion.md) to account for stochastic or uncertain parameters leads to robust Kelly strategies. These approaches incorporate Bayesian methods or [stochastic optimization](../s/stochastic_optimization.md) techniques to better handle parameter [uncertainty](../u/uncertainty_in_trading.md) and market volatility.
 
 ## Conclusion
 

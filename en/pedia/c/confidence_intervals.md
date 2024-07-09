@@ -19,7 +19,7 @@ For the mean of a normally distributed population, the confidence interval is ca
 
 Here,
 - \( \bar{x} \) is the sample mean.
-- \( z \) is the z-value from the standard normal distribution corresponding to the desired confidence level.
+- \( z \) is the [z-value](../z/z-value_in_trading.md) from the standard [normal distribution](../n/normal_distribution_in_trading.md) corresponding to the desired confidence level.
 - \( \sigma \) is the population standard deviation.
 - \( n \) is the sample size.
 
@@ -86,7 +86,7 @@ Since the confidence intervals overlap, the difference in the mean returns of th
 1. **Statistical Rigor**: Confidence intervals offer a statistically rigorous way to estimate unknown parameters, providing a range rather than a point estimate.
 2. **[Risk Management](../r/risk_management.md)**: Helps in better [risk management](../r/risk_management.md) by providing a range within which parameters are likely to fall, with a specified level of confidence.
 3. **Comparison**: Useful for comparing the performance of different [trading strategies](../t/trading_strategies.md) in a statistically meaningful way.
-4. **Decision Making**: Aids in decision-making by quantifying uncertainty and variability.
+4. **Decision Making**: Aids in decision-making by quantifying [uncertainty](../u/uncertainty_in_trading.md) and variability.
 
 ### Disadvantages
 

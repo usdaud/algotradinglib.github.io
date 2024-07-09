@@ -1,6 +1,6 @@
 # Algorithmic Trading with Java
 
-[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, involves the use of computer algorithms to trade securities in financial markets. These algorithms use a set of rules and mathematical models to make trading decisions, often at speeds and frequencies far beyond human capability. This method of trading takes advantage of the computational power to execute trades that would be impossible for a human to carry out manually.
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, involves the use of computer algorithms to trade securities in financial markets. These algorithms use a set of rules and [mathematical models](../m/mathematical_models_in_trading.md) to make trading decisions, often at speeds and frequencies far beyond human capability. This method of trading takes advantage of the computational power to execute trades that would be impossible for a human to carry out manually.
 
 Java, being a versatile and widely-used programming language, provides an excellent platform for developing [algorithmic trading](../a/algorithmic_trading.md) systems. This document delves into how Java can be employed to create efficient and powerful algos for trading, touching on various aspects from setting up the development environment to implementing and testing the [trading strategies](../t/trading_strategies.md).
 
@@ -65,7 +65,7 @@ public class DataPreprocessor {
 1. **[Mean Reversion](../m/mean_reversion.md)**: This strategy bets on the fact that asset prices will revert to their historical mean or average.
 2. **[Momentum Trading](../m/momentum_trading.md)**: This involves taking positions based on trends. If the price is rising, a buy position is initiated, and if it is falling, a sell position.
 3. **[Arbitrage](../a/arbitrage.md)**: [Arbitrage](../a/arbitrage.md) strategies look to exploit price differences of the same asset appearing in different markets or forms.
-4. **Statistical [Arbitrage](../a/arbitrage.md)**: This involves complex mathematical models to identify and exploit [short-term trading](../s/short-term_trading.md) opportunities.
+4. **Statistical [Arbitrage](../a/arbitrage.md)**: This involves complex [mathematical models](../m/mathematical_models_in_trading.md) to identify and exploit [short-term trading](../s/short-term_trading.md) opportunities.
 
 ### Example: Mean Reversion Strategy
 

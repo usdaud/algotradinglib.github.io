@@ -72,7 +72,7 @@ Algorithmic day trading involves using computer algorithms to automate trading d
 High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_trading.md) involving thousands of trades per second, taking advantage of small price changes. HFT firms require cutting-edge technology and infrastructure to be successful in this space.
 
 ### 2. Machine Learning & Artificial Intelligence
-Machine learning and AI can analyze vast amounts of data to identify patterns that might not be immediately obvious to human traders. Techniques like natural language processing can analyze news articles and social media to predict market trends.
+Machine learning and AI can analyze vast amounts of data to identify patterns that might not be immediately obvious to human traders. Techniques like [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) can analyze news articles and social media to predict market trends.
 
 ### Prominent Companies and Platforms in Algorithmic Day Trading
 
@@ -83,7 +83,7 @@ Machine learning and AI can analyze vast amounts of data to identify patterns th
 
 ## Psychological Challenges in Day Trading
 
-The fast-paced nature of day trading can place significant psychological stress on traders. Challenges include maintaining discipline, handling the emotional rollercoaster of wins and losses, and avoiding cognitive biases like overconfidence or the disposition effect (the tendency to sell winning positions too early and keep losing positions too long).
+The fast-paced nature of day trading can place significant psychological stress on traders. Challenges include maintaining discipline, handling the emotional rollercoaster of wins and losses, and avoiding [cognitive biases](../c/cognitive_biases_in_trading.md) like overconfidence or the disposition effect (the tendency to sell winning positions too early and keep losing positions too long).
 
 ### 1. Maintaining Discipline
 Day trading requires strict adherence to a trading plan. Deviating from one’s strategy can lead to impulsive decisions and increased losses.

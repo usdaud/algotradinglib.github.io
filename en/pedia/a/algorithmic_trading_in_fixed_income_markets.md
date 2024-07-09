@@ -65,8 +65,8 @@ Fixed income markets are subject to various regulations aimed at ensuring stabil
 
 As technology continues to evolve, several trends are likely to shape the future of [algorithmic trading](../a/algorithmic_trading.md) in fixed income markets:
 
-- **AI and Deep Learning**: The adoption of artificial intelligence and deep learning models to enhance predictive capabilities and [trading strategies](../t/trading_strategies.md).
-- **Blockchain and Smart Contracts**: Leveraging blockchain technology for more efficient trade settlements and transparency.
+- **AI and Deep Learning**: The adoption of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and deep learning models to enhance predictive capabilities and [trading strategies](../t/trading_strategies.md).
+- **[Blockchain](../b/blockchain_in_trading.md) and [Smart Contracts](../s/smart_contracts_in_trading.md)**: Leveraging [blockchain](../b/blockchain_in_trading.md) technology for more efficient trade settlements and transparency.
 - **Enhanced Data Analytics**: Utilization of [alternative data](../a/alternative_data.md) sources, such as satellite imagery and [social media sentiment](../s/social_media_sentiment.md), to inform trading decisions.
 - **Electronification of Markets**: Growth of electronic trading platforms and the acceptance of digital tools by traditional market participants.
 

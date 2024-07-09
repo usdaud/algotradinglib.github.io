@@ -1,6 +1,6 @@
 # Prospect Theory Heuristics
 
-Prospect Theory is a foundational concept in behavioral economics that explains how people make decisions under conditions of risk and uncertainty. Developed by Daniel Kahneman and Amos Tversky in the late 1970s, this theory challenges the expected utility theory, which is a cornerstone of classical economics. Expected utility theory assumes that individuals act rationally to maximize their expected utility. However, Kahneman and Tversky demonstrated that real-world decision-making often deviates from this rationality due to cognitive biases and heuristics.
+[Prospect Theory](../p/prospect_theory_in_trading.md) is a foundational concept in behavioral economics that explains how people make decisions under conditions of risk and [uncertainty](../u/uncertainty_in_trading.md). Developed by Daniel Kahneman and Amos Tversky in the late 1970s, this theory challenges the expected [utility theory](../u/utility_theory_in_trading.md), which is a cornerstone of classical economics. Expected [utility theory](../u/utility_theory_in_trading.md) assumes that individuals act rationally to maximize their expected utility. However, Kahneman and Tversky demonstrated that real-world decision-making often deviates from this rationality due to [cognitive biases](../c/cognitive_biases_in_trading.md) and heuristics.
 
 #### Key Concepts of Prospect Theory
 
@@ -22,7 +22,7 @@ Prospect Theory is a foundational concept in behavioral economics that explains 
 
 #### Implications for Algo Trading
 
-Prospect Theory has crucial implications for [algorithmic trading](../a/algorithmic_trading.md) (algo trading), as it helps model and predict investor behavior and market dynamics. Traders and quant analysts can incorporate these behavioral insights into algorithms to better anticipate market movements and develop strategies that exploit inefficiencies created by human biases.
+[Prospect Theory](../p/prospect_theory_in_trading.md) has crucial implications for [algorithmic trading](../a/algorithmic_trading.md) (algo trading), as it helps model and predict investor behavior and market dynamics. Traders and quant analysts can incorporate these behavioral insights into algorithms to better anticipate market movements and develop strategies that exploit inefficiencies created by human biases.
 
 #### Heuristics in Trading
 
@@ -39,13 +39,13 @@ Heuristics are mental shortcuts or rules of thumb that simplify decision-making.
 
 #### Practical Applications
 
-Several companies and platforms have successfully integrated Prospect Theory and heuristics into their [algorithmic trading](../a/algorithmic_trading.md) strategies:
+Several companies and platforms have successfully integrated [Prospect Theory](../p/prospect_theory_in_trading.md) and heuristics into their [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
 1. **[QuantConnect](../q/quantconnect.md)**:
-   - [QuantConnect](https://www.quantconnect.com/) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It uses advanced data analytics to address behavioral biases explained by Prospect Theory.
+   - [QuantConnect](https://www.quantconnect.com/) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It uses advanced data analytics to address [behavioral biases](../b/behavioral_biases_in_trading.md) explained by [Prospect Theory](../p/prospect_theory_in_trading.md).
 
 2. **Kensho Technologies**:
-   - [Kensho Technologies](https://home.kensho.com/) leverages machine learning and advanced analytics to interpret vast amounts of data and predicts market movements with an awareness of behavioral biases.
+   - [Kensho Technologies](https://home.kensho.com/) leverages machine learning and advanced analytics to interpret vast amounts of data and predicts market movements with an awareness of [behavioral biases](../b/behavioral_biases_in_trading.md).
 
 3. **Sigmoid Capital**:
    - [Sigmoid Capital](https://www.sigmoidcapital.com/) focuses on using behavioral economics to guide their investment strategies. They employ algorithms that account for investor sentiment and market psychology in their [trading models](../t/trading_models.md).
@@ -55,7 +55,7 @@ Several companies and platforms have successfully integrated Prospect Theory and
 
 #### Criticisms and Limitations
 
-While Prospect Theory has significantly advanced the understanding of human decision-making, it is not without criticisms:
+While [Prospect Theory](../p/prospect_theory_in_trading.md) has significantly advanced the understanding of human decision-making, it is not without criticisms:
 
 1. **Descriptive, Not Prescriptive**:
    - The theory primarily describes how decisions are made rather than prescribing optimal decision rules. This limits its direct applicability in formulating [trading strategies](../t/trading_strategies.md).
@@ -64,7 +64,7 @@ While Prospect Theory has significantly advanced the understanding of human deci
    - The reference point is context-dependent and can change, making it challenging to model consistently in [trading algorithms](../t/trading_algorithms.md).
 
 3. **Complexity in Modeling**:
-   - Accurately modeling Prospect Theory in algorithms involves sophisticated mathematics and can be computationally intensive.
+   - Accurately modeling [Prospect Theory](../p/prospect_theory_in_trading.md) in algorithms involves sophisticated mathematics and can be computationally intensive.
 
-Despite these limitations, integrating insights from Prospect Theory and heuristics into [algorithmic trading](../a/algorithmic_trading.md) offers a more nuanced approach to understanding and predicting market behavior, ultimately leading to more robust [trading strategies](../t/trading_strategies.md) that can adapt to the nuances of human psychology.
+Despite these limitations, integrating insights from [Prospect Theory](../p/prospect_theory_in_trading.md) and heuristics into [algorithmic trading](../a/algorithmic_trading.md) offers a more nuanced approach to understanding and predicting market behavior, ultimately leading to more robust [trading strategies](../t/trading_strategies.md) that can adapt to the nuances of human psychology.
 

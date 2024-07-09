@@ -1,10 +1,10 @@
 # Algorithmic Trading with MATLAB
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, is the use of advanced mathematical models and electronic system platforms to make high-speed trading decisions in the financial markets. MATLAB, a high-level language and interactive environment for numerical computation, visualization, and programming, is widely used in [algorithmic trading](../a/algorithmic_trading.md) for a variety of purposes such as data analysis, strategy development, and [backtesting](../b/backtesting.md).
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, is the use of advanced [mathematical models](../m/mathematical_models_in_trading.md) and electronic system platforms to make high-speed trading decisions in the financial markets. MATLAB, a high-level language and interactive environment for numerical computation, visualization, and programming, is widely used in [algorithmic trading](../a/algorithmic_trading.md) for a variety of purposes such as data analysis, strategy development, and [backtesting](../b/backtesting.md).
 
 ## Introduction to Algorithmic Trading 
 
-[Algorithmic trading](../a/algorithmic_trading.md) refers to the use of algorithms to automate [trading strategies](../t/trading_strategies.md) and decisions. It encompasses the use of historical data, mathematical models, and computer programs to generate trading orders and strategies. This type of trading has become increasingly influential in financial markets due to its ability to process large amounts of data swiftly and execute trades with high precision.
+[Algorithmic trading](../a/algorithmic_trading.md) refers to the use of algorithms to automate [trading strategies](../t/trading_strategies.md) and decisions. It encompasses the use of historical data, [mathematical models](../m/mathematical_models_in_trading.md), and computer programs to generate trading orders and strategies. This type of trading has become increasingly influential in financial markets due to its ability to process large amounts of data swiftly and execute trades with high precision.
 
 ## Benefits of Using MATLAB in Algorithmic Trading
 
@@ -23,7 +23,7 @@ MATLAB offers several advantages in the context of [algorithmic trading](../a/al
     MATLAB's scripting language allows for rapid development and prototyping of [trading algorithms](../t/trading_algorithms.md). This can significantly reduce the amount of time required to iterate through different trading strategy ideas.
 
 5. **Extensive Toolboxes**:
-    MATLAB provides numerous toolboxes specifically designed for financial computations, such as the Financial Toolbox and Econometrics Toolbox. These toolboxes offer pre-built functions and methods to handle various financial tasks effectively.
+    MATLAB provides numerous toolboxes specifically designed for financial computations, such as the Financial Toolbox and [Econometrics](../e/econometrics_in_trading.md) Toolbox. These toolboxes offer pre-built functions and methods to handle various financial tasks effectively.
 
 ## Key Components of Algorithmic Trading in MATLAB
 

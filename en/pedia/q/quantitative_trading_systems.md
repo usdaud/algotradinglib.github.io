@@ -1,6 +1,6 @@
 # Quantitative Trading Systems
 
-[Quantitative trading](../q/quantitative_trading.md) systems, often referred to as [algorithmic trading](../a/algorithmic_trading.md) or simply "quant trading," are specialized methodologies that leverage mathematical models and [computational algorithms](../c/computational_algorithms.md) to identify and execute investment opportunities. These systems utilize statistical and mathematical techniques to evaluate the vast amounts of financial data available, and make decisions on [trading strategies](../t/trading_strategies.md) based on this analysis.
+[Quantitative trading](../q/quantitative_trading.md) systems, often referred to as [algorithmic trading](../a/algorithmic_trading.md) or simply "quant trading," are specialized methodologies that leverage [mathematical models](../m/mathematical_models_in_trading.md) and [computational algorithms](../c/computational_algorithms.md) to identify and execute investment opportunities. These systems utilize statistical and mathematical techniques to evaluate the vast amounts of financial data available, and make decisions on [trading strategies](../t/trading_strategies.md) based on this analysis.
 
 ## Components of Quantitative Trading Systems
 
@@ -14,7 +14,7 @@ Raw financial data is often incomplete or noisy and needs to be cleaned and prep
 
 ### Strategy Development
 
-Quantitative strategies can be broadly classified into two categories: statistical and deterministic. Statistical models might include [time series analysis](../t/time_series_analysis.md), [mean reversion](../m/mean_reversion.md), and various forms of [regression analysis](../r/regression_analysis.md). Deterministic models include rule-based strategies that rely on specific conditions being met (e.g., moving averages crossovers).
+[Quantitative strategies](../q/quantitative_strategies_in_trading.md) can be broadly classified into two categories: statistical and deterministic. Statistical models might include [time series analysis](../t/time_series_analysis.md), [mean reversion](../m/mean_reversion.md), and various forms of [regression analysis](../r/regression_analysis.md). [Deterministic models](../d/deterministic_models_in_trading.md) include rule-based strategies that rely on specific conditions being met (e.g., moving averages crossovers).
 
 ### Backtesting
 
@@ -80,12 +80,12 @@ Several [algorithmic trading](../a/algorithmic_trading.md) firms have made signi
 
 #### Renaissance Technologies
 
-Renaissance Technologies is one of the most successful [quantitative trading](../q/quantitative_trading.md) firms. Known primarily for its flagship Medallion Fund, the firm employs sophisticated mathematical models to identify market inefficiencies.
+Renaissance Technologies is one of the most successful [quantitative trading](../q/quantitative_trading.md) firms. Known primarily for its flagship Medallion Fund, the firm employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to identify market inefficiencies.
 [Renaissance Technologies](https://www.rentec.com/)
 
 #### Two Sigma
 
-Two Sigma Investments is another leading quantitative hedge fund that uses data science and technology to identify investment opportunities. They are known for their rigorous approach to research and development.
+Two Sigma Investments is another leading quantitative hedge fund that uses [data science](../d/data_science_in_trading.md) and technology to identify investment opportunities. They are known for their rigorous approach to research and development.
 [Two Sigma](https://www.twosigma.com/)
 
 #### D. E. Shaw & Co.
@@ -119,18 +119,18 @@ Large trades can significantly impact market prices, especially in less liquid m
 
 ### Machine Learning and AI
 
-Machine learning and artificial intelligence are increasingly being integrated into [quantitative trading](../q/quantitative_trading.md) strategies. These technologies can enhance models' predictive capabilities by identifying complex, non-linear relationships in data.
+Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly being integrated into [quantitative trading](../q/quantitative_trading.md) strategies. These technologies can enhance models' predictive capabilities by identifying complex, non-linear relationships in data.
 
 ### Quantum Computing
 
-Quantum computing holds the potential to revolutionize [quantitative trading](../q/quantitative_trading.md) by providing computational power far beyond current classical systems. This could allow for the solving of more complex models and faster optimization algorithms.
+[Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize [quantitative trading](../q/quantitative_trading.md) by providing computational power far beyond current classical systems. This could allow for the solving of more complex models and faster optimization algorithms.
 
 ### Decentralized Finance (DeFi)
 
-The rise of decentralized finance offers new opportunities and challenges for quantitative traders. Automated [trading strategies](../t/trading_strategies.md) in DeFi must account for the unique characteristics of decentralized exchanges and smart contracts.
+The rise of decentralized finance offers new opportunities and challenges for quantitative traders. Automated [trading strategies](../t/trading_strategies.md) in DeFi must account for the unique characteristics of decentralized exchanges and [smart contracts](../s/smart_contracts_in_trading.md).
 
 ### Alternative Data
 
 The use of [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md), satellite imagery, and web scraping, is becoming more prevalent. These data sources can provide unique insights that traditional market data cannot.
 
-[Quantitative trading](../q/quantitative_trading.md) systems represent a confluence of finance, mathematics, and technology. As markets become increasingly driven by data and automation, the role of quantitative strategies will continue to grow in importance, pushing the boundaries of what is possible in trading and investment.
+[Quantitative trading](../q/quantitative_trading.md) systems represent a confluence of finance, mathematics, and technology. As markets become increasingly driven by data and automation, the role of [quantitative strategies](../q/quantitative_strategies_in_trading.md) will continue to grow in importance, pushing the boundaries of what is possible in trading and investment.

@@ -1,7 +1,7 @@
 # Quantitative Technical Analysis
 
 # Introduction
-Quantitative [Technical Analysis](../t/technical_analysis.md) (QTA) is a method of evaluating and trading financial securities based on statistical and mathematical models derived from historical market data. Unlike traditional [technical analysis](../t/technical_analysis.md) that relies on visual [pattern recognition](../p/pattern_recognition.md) and subjective interpretation, QTA employs sophisticated algorithms, quantitative metrics, and computational techniques to analyze price movements, trading volume, and other market variables. This approach aims to minimize human error and biases, relying on historical data and statistical methods to generate predictive models for future market behavior.
+Quantitative [Technical Analysis](../t/technical_analysis.md) (QTA) is a method of evaluating and trading financial securities based on statistical and [mathematical models](../m/mathematical_models_in_trading.md) derived from historical market data. Unlike traditional [technical analysis](../t/technical_analysis.md) that relies on visual [pattern recognition](../p/pattern_recognition.md) and subjective interpretation, QTA employs sophisticated algorithms, quantitative metrics, and computational techniques to analyze price movements, trading volume, and other market variables. This approach aims to minimize human error and biases, relying on historical data and statistical methods to generate [predictive models](../p/predictive_models_in_trading.md) for future market behavior.
 
 # Historical Background
 Quantitative [Technical Analysis](../t/technical_analysis.md) has its roots in traditional [technical analysis](../t/technical_analysis.md), which dates back to the late 19th century. Charles Dow, one of the founders of The Wall Street Journal and co-creator of the Dow Jones Industrial Average, was among the first to introduce ideas that would form the basis of [technical analysis](../t/technical_analysis.md). However, the qualitative nature of early [technical analysis](../t/technical_analysis.md) made it prone to personal biases.
@@ -34,9 +34,9 @@ Several techniques and strategies are commonly employed in Quantitative [Technic
 ## Machine Learning Models
 Machine learning models are increasingly used in QTA due to their ability to identify non-linear relationships and patterns in large datasets. Common models include:
 
-- **Support Vector Machines (SVMs)**: Used for classification and regression tasks, identifying decision boundaries within the data.
-- **Neural Networks**: Multi-layered structures that can capture complex patterns, often used for price prediction and [sentiment analysis](../s/sentiment_analysis.md).
-- **Random Forests**: [Ensemble learning](../e/ensemble_learning.md) methods that combine multiple [decision trees](../d/decision_trees.md) to improve predictive accuracy.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs)**: Used for classification and regression tasks, identifying decision boundaries within the data.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Multi-layered structures that can capture complex patterns, often used for price prediction and [sentiment analysis](../s/sentiment_analysis.md).
+- **[Random Forests](../r/random_forests_in_trading.md)**: [Ensemble learning](../e/ensemble_learning.md) methods that combine multiple [decision trees](../d/decision_trees.md) to improve predictive accuracy.
 
 ## Momentum Strategies
 Momentum strategies involve buying securities that have shown an upward price trend and selling those that have shown a downward trend. Key concepts include:
@@ -57,7 +57,7 @@ Momentum strategies involve buying securities that have shown an upward price tr
 - **Convertible [Arbitrage](../a/arbitrage.md)**: Involves buying convertible securities and shorting the underlying stock when pricing inefficiencies are detected.
 
 # Tools and Software
-Numerous tools and software platforms facilitate Quantitative [Technical Analysis](../t/technical_analysis.md):
+Numerous tools and [software platforms](../s/software_platforms_for_trading.md) facilitate Quantitative [Technical Analysis](../t/technical_analysis.md):
 
 - **Matlab**: Widely used for mathematical modeling and algorithm development.
 - **Python**: Popular in the finance community due to its extensive libraries for data analysis (e.g., Pandas, NumPy), machine learning (e.g., Scikit-learn, TensorFlow), and visualization (e.g., Matplotlib, Seaborn).
@@ -96,4 +96,4 @@ Financial markets are dynamic, and what worked in the past may not work in the f
 The need for high-speed computation and vast amounts of data storage can be expensive. High-frequency trading, in particular, requires significant technological infrastructure.
 
 # Conclusion
-Quantitative [Technical Analysis](../t/technical_analysis.md) represents the intersection of finance, statistics, and computer science. It leverages historical data and mathematical models to develop [trading strategies](../t/trading_strategies.md), offering a more systematic and data-driven approach to market analysis. While it presents several challenges, such as the risk of overfitting and the need for high-quality data, its potential for generating consistent, risk-adjusted returns makes it a powerful tool in the arsenal of modern traders.
+Quantitative [Technical Analysis](../t/technical_analysis.md) represents the intersection of finance, statistics, and computer science. It leverages historical data and [mathematical models](../m/mathematical_models_in_trading.md) to develop [trading strategies](../t/trading_strategies.md), offering a more systematic and data-driven approach to market analysis. While it presents several challenges, such as the risk of overfitting and the need for high-quality data, its potential for generating consistent, risk-adjusted returns makes it a powerful tool in the arsenal of modern traders.

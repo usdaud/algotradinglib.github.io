@@ -43,7 +43,7 @@ Netting reduces counterparty exposure by offsetting positive and negative positi
 CDS are used as insurance against counterparty default. In [algorithmic trading](../a/algorithmic_trading.md), these can be dynamically adjusted based on the perceived risk of counterparties.
 
 ### 5. Real-time Risk Monitoring
-Automated real-time monitoring systems can flag potential counterparty risks as they arise, allowing for timely interventions. These systems may leverage machine learning algorithms to predict and identify risk patterns.
+Automated real-time monitoring systems can flag potential counterparty risks as they arise, allowing for timely interventions. These systems may leverage machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict and identify risk patterns.
 
 ## Regulatory Environment
 
@@ -63,7 +63,7 @@ EMIR focuses on reducing systemic counterparty risk by requiring central clearin
 Advancements in technology have led to the development of sophisticated tools and platforms that aid in managing counterparty risk. These innovations include:
 
 ### 1. Blockchain and Distributed Ledger Technology (DLT)
-Blockchain can provide transparent, immutable records of transactions, reducing the uncertainty and potential for disputes in trading.
+[Blockchain](../b/blockchain_in_trading.md) can provide transparent, immutable records of transactions, reducing the [uncertainty](../u/uncertainty_in_trading.md) and potential for disputes in trading.
 
 ### 2. Artificial Intelligence (AI) and Machine Learning
 AI and machine learning models can analyze enormous datasets to predict counterparty defaults and optimize [risk management](../r/risk_management.md) strategies.
@@ -108,7 +108,7 @@ The landscape of counterparty risk in [algorithmic trading](../a/algorithmic_tra
 
 - **Increased Regulatory Scrutiny:** Ongoing regulatory developments will likely impose stricter controls and reporting requirements, making it essential for trading firms to stay compliant.
 - **Integration of Advanced Analytics:** The use of [predictive analytics](../p/predictive_analytics.md) and AI will become more prevalent in assessing counterparty risk, enhancing accuracy and timeliness.
-- **Adoption of Blockchain:** Distributed ledger technologies could revolutionize how counterparty risk is managed, providing greater transparency and reducing the need for intermediation.
+- **Adoption of [Blockchain](../b/blockchain_in_trading.md):** Distributed ledger technologies could revolutionize how counterparty risk is managed, providing greater transparency and reducing the need for intermediation.
 - **Collaborative [Risk Management](../r/risk_management.md):** Firms may increasingly collaborate to share data and insights, improving collective risk assessment and mitigation strategies.
 
 In conclusion, counterparty risk remains a critical concern in [algorithmic trading](../a/algorithmic_trading.md). Through a combination of advanced technology, regulatory compliance, and robust [risk management](../r/risk_management.md) practices, firms can better navigate the complexities associated with this risk and safeguard their trading operations.

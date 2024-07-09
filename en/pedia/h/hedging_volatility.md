@@ -62,7 +62,7 @@ Advanced [risk management](../r/risk_management.md) algorithms continuously asse
 
 ## Case Studies
 ### S&P Global Market Intelligence
-S&P Global Market Intelligence provides tools and data analytics for managing market risk, including volatility. Their solutions assist in creating and executing effective [hedging strategies](../h/hedging_strategies.md). More information can be found [here](https://www.spglobal.com/marketintelligence/en/).
+[S&P Global Market Intelligence](../s/snp_global_market_intelligence.md) provides tools and data analytics for managing market risk, including volatility. Their solutions assist in creating and executing effective [hedging strategies](../h/hedging_strategies.md). More information can be found [here](https://www.spglobal.com/marketintelligence/en/).
 
 ### CME Group
 CME Group offers a range of volatility products, including futures and options. They provide resources and tools for traders to hedge against market volatility. Learn more [here](https://www.cmegroup.com/).

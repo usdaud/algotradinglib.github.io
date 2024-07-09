@@ -4,7 +4,7 @@ Quantitative [Value Investing](../v/value_investing.md) is an investment strateg
 
 #### Components of Quantitative Value Investing
 
-1. **[Quantitative Analysis](../q/quantitative_analysis.md)**: This element involves the use of mathematical models and computational techniques to analyze financial data. Quantitative analysts, or "quants," develop algorithms that can process vast amounts of historical financial data to identify patterns and relationships that can inform investment decisions.
+1. **[Quantitative Analysis](../q/quantitative_analysis.md)**: This element involves the use of [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques to analyze financial data. Quantitative analysts, or "quants," develop algorithms that can process vast amounts of historical financial data to identify patterns and relationships that can inform investment decisions.
 
 2. **[Value Investing](../v/value_investing.md) Principles**: These principles were popularized by Benjamin Graham and David Dodd in their seminal work "[Security Analysis](../s/security_analysis.md)." [Value investing](../v/value_investing.md) focuses on identifying stocks that are undervalued relative to their intrinsic value. Key metrics include the P/E ratio, P/B ratio, price-to-sales (P/S) ratio, and free cash flow, among others.
 
@@ -21,7 +21,7 @@ Quantitative [Value Investing](../v/value_investing.md) is an investment strateg
 
 1. **Data Collection and Cleaning**: Accurately gathering and cleaning financial data is crucial as the foundation of any quantitative strategy. This involves collecting historical price data, financial statements, and [economic indicators](../e/economic_indicators.md) from reliable sources.
   
-2. **Model Development**: Quants develop mathematical models that use [value-investing metrics](../v/value-investing_metrics.md) to identify potentially undervalued stocks. These models often incorporate machine learning algorithms to refine their predictive capabilities.
+2. **Model Development**: Quants develop [mathematical models](../m/mathematical_models_in_trading.md) that use [value-investing metrics](../v/value-investing_metrics.md) to identify potentially undervalued stocks. These models often incorporate machine [learning algorithms](../l/learning_algorithms_in_trading.md) to refine their predictive capabilities.
 
 3. **[Backtesting](../b/backtesting.md)**: Once a model is developed, it is backtested against historical data to evaluate its performance. [Backtesting](../b/backtesting.md) helps in assessing the robustness of the model and identifying any potential issues.
 
@@ -31,7 +31,7 @@ Quantitative [Value Investing](../v/value_investing.md) is an investment strateg
 
 #### Advantages of Quantitative Value Investing
 
-- **Objectivity**: By relying on data and mathematical models, quantitative [value investing](../v/value_investing.md) eliminates emotional biases that can cloud judgment and lead to suboptimal investment decisions.
+- **Objectivity**: By relying on data and [mathematical models](../m/mathematical_models_in_trading.md), quantitative [value investing](../v/value_investing.md) eliminates emotional biases that can cloud judgment and lead to suboptimal investment decisions.
 - **Consistency**: The use of systematic, rules-based approaches ensures that investment decisions are made consistently, reducing the likelihood of erratic or impulsive actions.
 - **Scalability**: Quantitative methods can analyze thousands of stocks simultaneously, making it feasible to identify opportunities across a broader universe of investments.
 - **[Risk Management](../r/risk_management.md)**: Sophisticated [quantitative models](../q/quantitative_models.md) can incorporate [risk management](../r/risk_management.md) techniques to optimize portfolio returns while managing downside risk.
@@ -40,7 +40,7 @@ Quantitative [Value Investing](../v/value_investing.md) is an investment strateg
 
 Several major investment firms and hedge funds employ [quantitative value investing strategies](../q/quantitative_value_investing_strategies.md). These firms use advanced computational techniques to analyze financial data and identify undervalued stocks.
 
-- **AQR Capital Management**: Founded by Cliff Asness, AQR Capital Management is a prominent quantitative investment firm that employs various quantitative strategies, including [value investing](../v/value_investing.md). The firm's research often centers on merging traditional value metrics with sophisticated quantitative techniques. More information can be found on their official website: [AQR Capital Management](https://www.aqr.com).
+- **AQR Capital Management**: Founded by Cliff Asness, AQR Capital Management is a prominent quantitative investment firm that employs various [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [value investing](../v/value_investing.md). The firm's research often centers on merging traditional value metrics with sophisticated quantitative techniques. More information can be found on their official website: [AQR Capital Management](https://www.aqr.com).
 
 - **Renaissance Technologies**: Known for its Medallion Fund, Renaissance Technologies is a pioneer in [quantitative investing](../q/quantitative_investing.md). Although primarily focused on high-frequency trading, the firm also employs value-oriented strategies in some of its funds. Their innovative approach has set the standard for combining [quantitative analysis](../q/quantitative_analysis.md) with investment strategies. Visit their website for more details: [Renaissance Technologies](https://www.rentec.com).
 

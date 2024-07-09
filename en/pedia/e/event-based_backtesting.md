@@ -6,14 +6,14 @@ Event-based [backtesting](../b/backtesting.md) is a form of simulating [algorith
 
 ### Importance in Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), the precision of [backtesting](../b/backtesting.md) is crucial for understanding the potential performance and risks associated with a trading strategy. Event-based [backtesting](../b/backtesting.md) provides a more granular and realistic simulation, capturing nuances that time-based methods might miss. This accuracy is vital for developing [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md), market-making strategies, and other complex systems that operate on finer timescales.
+In [algorithmic trading](../a/algorithmic_trading.md), the precision of [backtesting](../b/backtesting.md) is crucial for understanding the potential performance and risks associated with a trading strategy. Event-based [backtesting](../b/backtesting.md) provides a more granular and realistic [simulation](../s/simulation_in_trading.md), capturing nuances that time-based methods might miss. This accuracy is vital for developing [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md), market-making strategies, and other complex systems that operate on finer timescales.
 
 ### Key Components
 
 1. **Event Loop**: The core engine that processes events in the order they occur. It manages the queue of incoming events and executes the corresponding actions.
-2. **Event Generators**: These produce events based on incoming data. Examples include price updates, order book changes, and signals from predictive models.
+2. **Event Generators**: These produce events based on incoming data. Examples include price updates, order book changes, and signals from [predictive models](../p/predictive_models_in_trading.md).
 3. **Event Handlers**: Functions or methods designed to process specific types of events. They update the state of the backtest, including portfolio holdings, cash balance, and [performance metrics](../p/performance_metrics.md).
-4. **Order Management System (OMS)**: Handles the creation, modification, and execution of trade orders. It plays a critical role in mimicking the actual order placement and execution logic used in live trading.
+4. **[Order Management](../o/order_management_in_trading.md) System (OMS)**: Handles the creation, modification, and execution of trade orders. It plays a critical role in mimicking the actual order placement and execution logic used in live trading.
 5. **[Market Simulation](../m/market_simulation.md)**: This component emulates the behavior of the market in response to trade actions, often using models to simulate order filling and slippage.
 
 ### Workflow
@@ -75,7 +75,7 @@ while not event_queue.is_empty():
 
 #### Step 4: Integrate OMS and Market Simulator
 
-The Order Management System (OMS) is responsible for submitting orders to the market simulator, which might use various models for order filling, partial fills, and slippage.
+The [Order Management](../o/order_management_in_trading.md) System (OMS) is responsible for submitting orders to the market simulator, which might use various models for order filling, partial fills, and slippage.
 
 #### Step 5: Performance Tracking and Analysis
 

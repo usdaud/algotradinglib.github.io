@@ -71,7 +71,7 @@ Events like FDA announcements, product launches, or [geopolitical events](../g/g
 Several tools and platforms help traders execute and manage horizontal spreads. Some notable ones include:
 
 1. **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers advanced options trading capabilities and analytical tools. [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-2. **Interactive Brokers**: Provides robust options trading features and [risk management](../r/risk_management.md) tools. [Interactive Brokers](https://www.interactivebrokers.com)
+2. **[Interactive Brokers](../i/interactive_brokers.md)**: Provides robust options trading features and [risk management](../r/risk_management.md) tools. [Interactive Brokers](https://www.interactivebrokers.com)
 3. **Tastyworks**: Known for its options trading tools and educational resources. [Tastyworks](https://www.tastyworks.com)
 
 ## Conclusion

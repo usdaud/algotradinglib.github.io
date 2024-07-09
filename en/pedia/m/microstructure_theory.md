@@ -63,7 +63,7 @@ Incorporating microstructure insights can improve the design and implementation 
 - **[Market Timing](../m/market_timing.md)**: Identifying optimal times for trading based on order flow and liquidity patterns.
 
 #### 2. Risk Management
-Microstructure theory aids in understanding and managing various risk factors associated with trading.
+Microstructure theory aids in understanding and managing various [risk factors](../r/risk_factors_in_trading.md) associated with trading.
 
 - **Slippage**: The difference between the expected price of a trade and the actual execution price.
 - **Adverse Selection**: Risk of trading against more informed traders.

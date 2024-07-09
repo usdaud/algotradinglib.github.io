@@ -9,7 +9,7 @@ Interest rate risk is the exposure of a company’s financial condition to adver
 ### Types of Interest Rate Risk
 
 1. **Price Risk**: The risk arising from the inverse relationship between bond prices and interest rates.
-2. **Reinvestment Risk**: The risk associated with the uncertainty of re-investing cash flows from the interest or principal payments at the prevailing rates which may turn out to be lower in the future.
+2. **Reinvestment Risk**: The risk associated with the [uncertainty](../u/uncertainty_in_trading.md) of re-investing cash flows from the interest or principal payments at the prevailing rates which may turn out to be lower in the future.
 3. **[Yield Curve](../y/yield_curve.md) Risk**: The risk resulting from changes in the shape of the [yield curve](../y/yield_curve.md), affecting the value of fixed-income securities differently across various maturities.
 4. **Basis Risk**: The risk arising when the interest rates of assets and liabilities reprice at different times or amounts.
 5. **Embedded Option Risk**: Risk from financial instruments that contain an embedded option, such as callable bonds, where the issuer can repay the debt early if interest rates fall.
@@ -27,7 +27,7 @@ Value at Risk (VaR) is a statistical technique used to quantify the level of fin
 
 ### Scenario Analysis and Stress Testing
 
-Scenario analysis involves changing different variables in a model to analyze the effect on the portfolio or company's financial condition. Stress testing is a specific form of scenario analysis that examines the impacts of extreme but plausible adverse interest rate scenarios.
+Scenario analysis involves changing different variables in a model to analyze the effect on the portfolio or company's financial condition. [Stress testing](../s/stress_testing_in_trading.md) is a specific form of scenario analysis that examines the impacts of extreme but plausible adverse interest rate scenarios.
 
 ## Interest Rate Risk Management Techniques
 

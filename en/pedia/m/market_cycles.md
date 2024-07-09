@@ -41,7 +41,7 @@ Several [technical indicators](../t/technical_indicators.md) can help identify m
 
 While [technical indicators](../t/technical_indicators.md) are crucial, [fundamental analysis](../f/fundamental_analysis.md) provides context to these patterns by evaluating:
 
-- **[Economic Indicators](../e/economic_indicators.md)**: GDP growth rates, employment data, and consumer sentiment can impact market phases.
+- **[Economic Indicators](../e/economic_indicators.md)**: GDP [growth rates](../g/growth_rates_in_trading.md), employment data, and consumer sentiment can impact market phases.
 - **Company Earnings**: Earnings reports and guidance can drive investor behavior and influence market cycles.
 - **Interest Rates**: Central bank policies can significantly affect market trends.
 
@@ -68,19 +68,19 @@ While [technical indicators](../t/technical_indicators.md) are crucial, [fundame
 
 Machine learning models provide a quantitative edge by analyzing vast datasets to detect early signs of market cycle transitions. These models might include:
 
-- **Time-Series Analysis**: Techniques like ARIMA model the temporal dependencies in price data to forecast future trends.
-- **Classification Models**: Algorithms such as Random Forests and Support Vector Machines (SVM) classify market phases based on labeled training data.
+- **Time-Series Analysis**: Techniques like ARIMA model the [temporal dependencies](../t/temporal_dependencies_in_trading.md) in price data to forecast future trends.
+- **Classification Models**: Algorithms such as [Random Forests](../r/random_forests_in_trading.md) and [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) classify market phases based on labeled training data.
 
 ### Sentiment Analysis
 
 Advanced algorithms scan news articles, social media, and other textual data to gauge market sentiment, often resulting in predictions about forthcoming cycle phases. Techniques include:
 
-- **Natural Language Processing (NLP)**: Analyzes textual data to extract sentiment scores.
-- **Neural Networks**: Complex architectures like Long Short-Term Memory (LSTM) networks model sequential dependencies in textual data to predict market sentiment shifts.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Analyzes textual data to extract sentiment scores.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Complex architectures like Long Short-Term Memory (LSTM) networks model sequential dependencies in textual data to predict market sentiment shifts.
 
 ### Risk Management
 
-[Risk management](../r/risk_management.md) algorithms are fine-tuned to adapt to different market phases, ensuring that they minimize downside risk while maximizing upside potential. Leveraging Value at Risk (VaR) models, stress testing, and [diversification strategies](../d/diversification_strategies.md) helps maintain a balanced portfolio optimized for various phases of market cycles.
+[Risk management](../r/risk_management.md) algorithms are fine-tuned to adapt to different market phases, ensuring that they minimize downside risk while maximizing [upside potential](../u/upside_potential_in_trading.md). Leveraging Value at Risk (VaR) models, [stress testing](../s/stress_testing_in_trading.md), and [diversification strategies](../d/diversification_strategies.md) helps maintain a balanced portfolio optimized for various phases of market cycles.
 
 ## Real-World Applications and Services
 

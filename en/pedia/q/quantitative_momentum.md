@@ -92,7 +92,7 @@ Several investment firms and hedge funds have successfully implemented [Quantita
 
 The field of Quantitative Momentum is continuously evolving with advancements in technology and data analytics. Emerging trends include:
 
-- **Artificial Intelligence (AI) and Machine Learning**: Integrating AI and machine learning to enhance model accuracy and adaptability.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning**: Integrating AI and machine learning to enhance model accuracy and adaptability.
   
 - **[Alternative Data](../a/alternative_data.md)**: Leveraging [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md) and [economic indicators](../e/economic_indicators.md), to refine momentum models.
 

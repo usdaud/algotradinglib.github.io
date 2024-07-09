@@ -11,7 +11,7 @@ Key levels in trading are specific price points on a price chart that mark signi
 There are several types of key levels in trading, each providing unique insights into market behavior. These include:
 
 ### 1. Psychological Levels
-Psychological levels are price points that traders and investors naturally gravitate towards because they are rounded numbers, such as $50, $100, $1000, etc. 
+[Psychological levels](../p/psychological_levels_in_trading.md) are price points that traders and investors naturally gravitate towards because they are rounded numbers, such as $50, $100, $1000, etc. 
 
 ### 2. Historical Price Levels
 Historical price levels refer to previous highs and lows that have acted as support or resistance in the past. These levels are significant because they are based on past price action and are often watched by many traders.
@@ -84,4 +84,4 @@ By incorporating key levels into [risk management](../r/risk_management.md) fram
 
 ## Conclusion
 
-Key levels analysis is a vital component of effective [trading strategies](../t/trading_strategies.md), particularly in the context of algotrading. By understanding and accurately identifying [key support and resistance levels](../k/key_support_and_resistance_levels.md), traders and algorithms can make more informed decisions, manage risk more effectively, and enhance overall [trading performance](../t/trading_performance.md). Whether through psychological levels, historical price points, [pivot points](../p/pivot_points.md), Fibonacci retracements, or moving averages, key levels offer valuable insight into market behavior and potential future price movements. For algorithmic traders, integrating key levels into [trading algorithms](../t/trading_algorithms.md) can significantly improve their ability to capture profitable trades while mitigating risks, ultimately leading to more robust and successful [trading systems](../t/trading_systems.md).
+Key levels analysis is a vital component of effective [trading strategies](../t/trading_strategies.md), particularly in the context of algotrading. By understanding and accurately identifying [key support and resistance levels](../k/key_support_and_resistance_levels.md), traders and algorithms can make more informed decisions, manage risk more effectively, and enhance overall [trading performance](../t/trading_performance.md). Whether through [psychological levels](../p/psychological_levels_in_trading.md), historical price points, [pivot points](../p/pivot_points.md), Fibonacci retracements, or moving averages, key levels offer valuable insight into market behavior and potential future price movements. For algorithmic traders, integrating key levels into [trading algorithms](../t/trading_algorithms.md) can significantly improve their ability to capture profitable trades while mitigating risks, ultimately leading to more robust and successful [trading systems](../t/trading_systems.md).

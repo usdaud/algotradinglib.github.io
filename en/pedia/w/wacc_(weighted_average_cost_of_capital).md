@@ -36,7 +36,7 @@ The cost of debt (\( Rd \)) is the effective rate that a company pays on its bor
 
 ### Importance of WACC
 
-1. **Investment Decisions**: WACC serves as the hurdle rate in capital budgeting. Companies use it as a benchmark to evaluate the return on investment (ROI) of new projects. If the project’s return exceeds WACC, it is considered acceptable because it is expected to generate value for shareholders.
+1. **Investment Decisions**: WACC serves as the [hurdle rate](../h/hurdle_rate_in_trading.md) in capital budgeting. Companies use it as a benchmark to evaluate the return on investment (ROI) of new projects. If the project’s return exceeds WACC, it is considered acceptable because it is expected to generate value for shareholders.
 2. **Valuation**: WACC is used in discounted cash flow (DCF) analysis to appraise a company. Future cash flows are discounted back to their present value using WACC, helping in the assessment of an organization’s value.
 3. **Performance Measurement**: By comparing WACC to the return on invested capital (ROIC), businesses can gauge performance. If ROIC is greater than WACC, value is being created for shareholders.
 4. **Financing Strategy**: Companies use WACC to optimize their capital structure, balancing the proportion of debt and equity to minimize costs and maximize value.

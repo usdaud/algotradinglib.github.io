@@ -90,7 +90,7 @@ Traders often use the 3-Period EMA to identify dynamic [support and resistance](
 
 ### Limitations
 
-1. **Prone to Whipsaws:** Due to its sensitivity, the 3-Period EMA can generate false signals during volatile or sideways markets.
+1. **Prone to Whipsaws:** Due to its sensitivity, the 3-Period EMA can generate [false signals](../f/false_signals_in_trading.md) during volatile or sideways markets.
 2. **Less Reliable in Isolation:** It is often recommended to use the 3-Period EMA in conjunction with other indicators and not in isolation, to improve the accuracy of [trading signals](../t/trading_signals.md).
 3. **Short-Term Focus:** It's primarily effective for short-term analysis and may not provide reliable signals for long-term trends.
 

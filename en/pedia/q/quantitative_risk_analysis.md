@@ -1,6 +1,6 @@
 # Quantitative Risk Analysis
 
-Quantitative [risk analysis](../r/risk_analysis.md) is a pivotal discipline within the realm of finance, particularly in [algorithmic trading](../a/algorithmic_trading.md). It employs mathematical models, statistical methods, and computational techniques to assess, quantify, and manage the risks associated with [trading strategies](../t/trading_strategies.md). In the highly competitive and fast-paced world of [algorithmic trading](../a/algorithmic_trading.md), understanding and managing risk is crucial for maintaining profitability and avoiding catastrophic losses.
+Quantitative [risk analysis](../r/risk_analysis.md) is a pivotal discipline within the realm of finance, particularly in [algorithmic trading](../a/algorithmic_trading.md). It employs [mathematical models](../m/mathematical_models_in_trading.md), statistical methods, and computational techniques to assess, quantify, and manage the risks associated with [trading strategies](../t/trading_strategies.md). In the highly competitive and fast-paced world of [algorithmic trading](../a/algorithmic_trading.md), understanding and managing risk is crucial for maintaining profitability and avoiding catastrophic losses.
 
 ### Understanding Quantitative Risk Analysis
 
@@ -20,7 +20,7 @@ Sources of data can be varied, including market exchanges, financial news outlet
 
 ### 2. Statistical Methods and Probability Theory
 
-Quantitative [risk analysis](../r/risk_analysis.md) heavily relies on statistical methods to analyze data and model uncertainties. Probability theory aids in understanding the likelihood of different outcomes.
+Quantitative [risk analysis](../r/risk_analysis.md) heavily relies on statistical methods to analyze data and model uncertainties. [Probability theory](../p/probability_theory_in_trading.md) aids in understanding the likelihood of different outcomes.
 
 #### Common Statistical Techniques
 - **Descriptive Statistics:** Mean, median, variance, skewness, and kurtosis help characterize data distributions.
@@ -36,7 +36,7 @@ Several key metrics and measurements are used to quantify risk in [trading strat
 A widely-used risk measure that estimates the potential loss in value of a portfolio over a defined period for a given confidence interval (e.g., 95% or 99%).
 
 - Formula: \( VaR = z \cdot \sigma \cdot \sqrt{t} \)
-  - \( z \) is the z-score from the standard normal distribution.
+  - \( z \) is the z-score from the standard [normal distribution](../n/normal_distribution_in_trading.md).
   - \( \sigma \) is the standard deviation of the portfolio returns.
   - \( t \) is the time period.
 
@@ -63,15 +63,15 @@ Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models are use
 
 ### 5. Stress Testing and Scenario Analysis
 
-Stress testing involves simulating extreme market conditions to evaluate the robustness of [trading strategies](../t/trading_strategies.md). Scenario analysis explores how portfolios behave under various hypothetical situations (e.g., sudden interest rate changes or market crashes).
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating extreme market conditions to evaluate the robustness of [trading strategies](../t/trading_strategies.md). Scenario analysis explores how portfolios behave under various hypothetical situations (e.g., sudden interest rate changes or market crashes).
 
 ### 6. Application of Machine Learning
 
-Machine learning algorithms enhance the ability to predict and manage risk by analyzing vast datasets and identifying patterns that are not visible through conventional methods.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) enhance the ability to predict and manage risk by analyzing vast datasets and identifying patterns that are not visible through conventional methods.
 
 #### Common Machine Learning Techniques
-- **Supervised Learning:** Algorithms like [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), and Neural Networks are used to predict risk outcomes.
-- **Unsupervised Learning:** Techniques such as Clustering and Principal Component Analysis (PCA) for identifying hidden patterns and anomalies.
+- **Supervised Learning:** Algorithms like [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), and [Neural Networks](../n/neural_networks_in_trading.md) are used to predict risk outcomes.
+- **Unsupervised Learning:** Techniques such as Clustering and [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) for identifying hidden patterns and anomalies.
 
 ### 7. Real-Time Risk Monitoring
 
@@ -82,12 +82,12 @@ With advancements in technology, real-time risk monitoring has become possible. 
 
 ### 8. Software and Platforms for Quantitative Risk Analysis
 
-Several specialized software platforms are used to perform quantitative [risk analysis](../r/risk_analysis.md). These platforms offer tools for data analysis, risk assessment, and [algorithmic trading](../a/algorithmic_trading.md) strategy development.
+Several specialized [software platforms](../s/software_platforms_for_trading.md) are used to perform quantitative [risk analysis](../r/risk_analysis.md). These platforms offer tools for data analysis, risk assessment, and [algorithmic trading](../a/algorithmic_trading.md) strategy development.
 
 #### Notable Platforms
 - **[Alpaca](../a/alpaca.md) [www.alpaca.markets](https://www.alpaca.markets):** Provides API for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md).
 - **QuantInsti [www.quantinsti.com](https://www.quantinsti.com):** Offers courses and platforms for learning [quantitative trading](../q/quantitative_trading.md).
-- **RiskWatch [www.riskwatch.com](https://www.riskwatch.com):** Software tools for real-time risk monitoring and management.
+- **RiskWatch [www.riskwatch.com](https://www.riskwatch.com):** [Software tools](../s/software_tools_for_trading.md) for real-time risk monitoring and management.
 
 ### 9. Regulatory Considerations
 

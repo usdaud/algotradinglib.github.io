@@ -58,7 +58,7 @@ While unfilled gaps present lucrative opportunities, they also come with inheren
 
 ### False Signals
 
-Not all unfilled gaps lead to profitable trading opportunities. False signals can occur, leading to losses. Algorithms must be sophisticated enough to filter out noise and identify genuinely significant gaps.
+Not all unfilled gaps lead to profitable trading opportunities. [False signals](../f/false_signals_in_trading.md) can occur, leading to losses. Algorithms must be sophisticated enough to filter out noise and identify genuinely significant gaps.
 
 ### Market Volatility
 
@@ -92,7 +92,7 @@ Perform extensive [backtesting](../b/backtesting.md) using historical data to ev
 
 ### Risk Management
 
-Establish robust [risk management](../r/risk_management.md) protocols to protect against unforeseen market movements and false signals. This includes setting stop-loss levels, [position sizing](../p/position_sizing.md) rules, and [diversification strategies](../d/diversification_strategies.md).
+Establish robust [risk management](../r/risk_management.md) protocols to protect against unforeseen market movements and [false signals](../f/false_signals_in_trading.md). This includes setting stop-loss levels, [position sizing](../p/position_sizing.md) rules, and [diversification strategies](../d/diversification_strategies.md).
 
 ### Continuous Monitoring
 

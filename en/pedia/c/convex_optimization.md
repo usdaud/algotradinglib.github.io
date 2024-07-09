@@ -45,7 +45,7 @@ These approaches solve both the primal and dual problems concurrently, providing
 
 ### Convex Optimization in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on mathematical models and computational techniques to make optimal trading decisions. Convex optimization plays a crucial role in several aspects of trading, including:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques to make optimal trading decisions. Convex optimization plays a crucial role in several aspects of trading, including:
 
 **[Portfolio Optimization](../p/portfolio_optimization.md)**:
 The classic [mean-variance optimization](../m/mean-variance_optimization.md) problem, introduced by Harry Markowitz, is fundamentally a convex optimization problem. The aim is to find a portfolio that minimizes risk (variance) for a given expected return.
@@ -61,7 +61,7 @@ Traders use statistical models to identify and exploit mispricings between relat
 
 ### Tools and Software for Convex Optimization
 
-Several software tools and libraries are available for solving convex optimization problems, many of which are used in [algorithmic trading](../a/algorithmic_trading.md):
+Several [software tools](../s/software_tools_for_trading.md) and libraries are available for solving convex optimization problems, many of which are used in [algorithmic trading](../a/algorithmic_trading.md):
 
 **CVXOPT**:
 A Python library for convex optimization based on the above principles. It provides a wide range of solvers for different types of convex problems.
@@ -82,23 +82,23 @@ A Python-embedded modeling language for convex optimization problems. It integra
 ### Advanced Topics in Convex Optimization
 
 **[Robust Optimization](../r/robust_optimization.md)**:
-An extension of convex optimization that deals with uncertainty in the model parameters. [Robust optimization](../r/robust_optimization.md) seeks solutions that are optimal under the worst-case scenario within a certain uncertainty set.
+An extension of convex optimization that deals with [uncertainty](../u/uncertainty_in_trading.md) in the model parameters. [Robust optimization](../r/robust_optimization.md) seeks solutions that are optimal under the worst-case scenario within a certain [uncertainty](../u/uncertainty_in_trading.md) set.
 
 **Stochastic Programming**:
 This deals with optimization problems that involve randomness. Stochastic programming models [decision-making under uncertainty](../d/decision-making_under_uncertainty.md), where some of the constraints or coefficients are random variables with known distributions.
 
 **Semidefinite Programming (SDP)**:
-A powerful generalization of linear programming, SDP optimizes a linear objective function subject to the constraint that an affine combination of symmetric matrices is positive semidefinite.
+A powerful generalization of [linear programming](../l/linear_programming_in_trading.md), SDP optimizes a linear objective function subject to the constraint that an affine combination of symmetric matrices is positive semidefinite.
 
 ### Future Trends in Convex Optimization and Trading
 
-As financial markets continue to evolve, the role of convex optimization in [algorithmic trading](../a/algorithmic_trading.md) is expected to grow due to advances in computational power and the availability of big data. Some future trends include:
+As financial markets continue to evolve, the role of convex optimization in [algorithmic trading](../a/algorithmic_trading.md) is expected to grow due to advances in computational power and the availability of [big data](../b/big_data_in_trading.md). Some future trends include:
 
 **Machine Learning Integration**:
-Combining convex optimization with machine learning techniques to improve predictive models and make more informed trading decisions.
+Combining convex optimization with machine learning techniques to improve [predictive models](../p/predictive_models_in_trading.md) and make more informed trading decisions.
 
-**Quantum Computing**:
-Exploring how quantum algorithms can solve convex optimization problems more efficiently, reducing the computational complexity and time required for large-scale trading.
+**[Quantum Computing](../q/quantum_computing_in_trading.md)**:
+Exploring how [quantum algorithms](../q/quantum_algorithms_in_trading.md) can solve convex optimization problems more efficiently, reducing the computational complexity and time required for large-scale trading.
 
 **Real-Time [Risk Management](../r/risk_management.md)**:
 Developing more sophisticated models for real-time [risk management](../r/risk_management.md) that can adapt quickly to market changes using online convex optimization techniques.

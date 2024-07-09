@@ -14,7 +14,7 @@ The strike price, also known as the exercise price, is the set price at which an
 
 ### Expiration Date
 
-The expiration date is the date on which an option contract becomes void. Different expiration dates carry different levels of implied volatility, as the uncertainty regarding the underlying asset's price movement increases with the time to expiration.
+The expiration date is the date on which an option contract becomes void. Different expiration dates carry different levels of implied volatility, as the [uncertainty](../u/uncertainty_in_trading.md) regarding the underlying asset's price movement increases with the time to expiration.
 
 ## Components of Volatility Surface
 
@@ -24,11 +24,11 @@ The expiration date is the date on which an option contract becomes void. Differ
 
 ### Term Structure
 
-Volatility term structure refers to the pattern of implied volatilities across different expiration dates but for a fixed strike price. Typically, implied volatility increases with longer expiration dates due to the greater uncertainty over a longer time period. However, this isn't always the case and can vary based on market conditions and expectations.
+Volatility term structure refers to the pattern of implied volatilities across different expiration dates but for a fixed strike price. Typically, implied volatility increases with longer expiration dates due to the greater [uncertainty](../u/uncertainty_in_trading.md) over a longer time period. However, this isn't always the case and can vary based on market conditions and expectations.
 
 ### Surface Fitting
 
-Fitting a volatility surface involves using mathematical models to interpolate and extrapolate implied volatilities. The goal is to create a continuous surface that best fits the observed market data points. Common methods for surface fitting include spline interpolation, polynomial regression, and more advanced techniques like the SABR (Stochastic Alpha, Beta, Rho) model.
+Fitting a volatility surface involves using [mathematical models](../m/mathematical_models_in_trading.md) to interpolate and extrapolate implied volatilities. The goal is to create a continuous surface that best fits the observed market data points. Common methods for surface fitting include spline interpolation, polynomial regression, and more advanced techniques like the SABR (Stochastic Alpha, Beta, Rho) model.
 
 ## Practical Applications
 
@@ -78,7 +78,7 @@ The Heston model is another sophisticated approach that describes the evolution 
 
 ### Machine Learning Techniques
 
-Recent advancements in machine learning have led to the development of models that can capture the complexities of the volatility surface. Techniques like neural networks and support vector machines are being used to fit and predict the volatility surface more accurately.
+Recent advancements in machine learning have led to the development of models that can capture the complexities of the volatility surface. Techniques like [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md) are being used to fit and predict the volatility surface more accurately.
 
 ## Real-World Examples and Companies
 

@@ -36,7 +36,7 @@ While ZIRP aims to stimulate economic activity, it is not without risks and crit
 
 1. **Asset Bubbles**: Prolonged periods of low interest rates can lead to excessive risk-taking and the formation of asset bubbles. For example, sustained low rates might inflate housing markets or lead to overvaluation in the stock market.
 
-2. **Bank Profitability**: Financial institutions often struggle with lower profit margins under ZIRP as the spread between lending and deposit rates narrows. This can impact their ability to lend and overall financial stability.
+2. **Bank Profitability**: Financial institutions often struggle with lower [profit margins](../p/profit_margins_in_trading.md) under ZIRP as the spread between lending and deposit rates narrows. This can impact their ability to lend and overall financial stability.
 
 3. **Economic Distortions**: ZIRP can distort investment decisions by encouraging debt accumulation and inflating asset prices, which might not reflect true economic fundamentals. This could lead to misallocation of resources and potential financial imbalances.
 
@@ -64,7 +64,7 @@ The European Central Bank also implemented ZIRP in response to the financial cri
 
 ### Interactive Brokers
 
-Interactive Brokers offers a range of tools for traders and investors to navigate different market conditions. Their comprehensive trading platform includes features to analyze interest rate impacts on various asset classes, helping users make informed decisions under ZIRP. More details can be found at [Interactive Brokers](https://www.interactivebrokers.com/).
+[Interactive Brokers](../i/interactive_brokers.md) offers a range of tools for traders and investors to navigate different market conditions. Their comprehensive trading platform includes features to analyze interest rate impacts on various asset classes, helping users make informed decisions under ZIRP. More details can be found at [Interactive Brokers](https://www.interactivebrokers.com/).
 
 ### Alpha Vantage
 

@@ -20,7 +20,7 @@ The median filter is a non-linear digital filtering technique, often used to rem
 
 2. **Trend Identification**: By smoothing the price data, traders can more easily detect underlying trends. The median filter helps in identifying these trends without introducing lag, which is a common drawback of moving averages.
 
-3. **[Anomaly Detection](../a/anomaly_detection.md)**: Sharp, isolated spikes in price data can be mistaken as market signals when relying on other averages. The median filter can effectively eliminate such outliers, reducing the risk of false signals.
+3. **[Anomaly Detection](../a/anomaly_detection.md)**: Sharp, isolated spikes in price data can be mistaken as market signals when relying on other averages. The median filter can effectively eliminate such outliers, reducing the risk of [false signals](../f/false_signals_in_trading.md).
 
 ### Implementing the Median Filter
 
@@ -61,7 +61,7 @@ print(smoothed_series)
 
 ### Real-World Case Studies
 
-1. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Companies like [Two Sigma](https://www.twosigma.com/) and [Virtu Financial](https://www.virtu.com/) utilize sophisticated filtering techniques, including median filters, to enhance signal processing in their [trading strategies](../t/trading_strategies.md).
+1. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Companies like [Two Sigma](https://www.twosigma.com/) and [Virtu Financial](https://www.virtu.com/) utilize sophisticated filtering techniques, including median filters, to enhance [signal processing](../s/signal_processing_in_trading.md) in their [trading strategies](../t/trading_strategies.md).
 
 2. **Academic Research**: Numerous studies have examined the effectiveness of median filters in trading. For instance, the paper "Median Filtering as a Preprocessing Tool in [Financial Time Series](../f/financial_time_series.md) Prediction" investigates its use in machine learning models for predictive trading.
 

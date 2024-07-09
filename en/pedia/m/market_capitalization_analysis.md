@@ -67,7 +67,7 @@ Market cap is used to create stock market indices, such as the S&P 500, Russell 
 Analyzing market capitalization involves a combination of quantitative and qualitative methodologies aimed at understanding a company's financial health, market position, and growth prospects.
 
 ### **Fundamental Analysis**
-This methodology involves evaluating a company's financial statements, including income statements, balance sheets, and cash flow statements, to determine its intrinsic value. Key metrics analyzed include earnings per share (EPS), price-to-earnings (P/E) ratio, revenue growth, and profit margins.
+This methodology involves evaluating a company's financial statements, including income statements, balance sheets, and cash flow statements, to determine its intrinsic value. Key metrics analyzed include earnings per share (EPS), price-to-earnings (P/E) ratio, revenue growth, and [profit margins](../p/profit_margins_in_trading.md).
 
 ### **Technical Analysis**
 [Technical analysis](../t/technical_analysis.md) focuses on [historical price patterns](../h/historical_price_patterns.md) and trading volume to predict future price movements. Tools such as moving averages, relative strength index (RSI), and [candlestick patterns](../c/candlestick_patterns.md) are employed to identify trends and potential entry/exit points.
@@ -76,7 +76,7 @@ This methodology involves evaluating a company's financial statements, including
 This involves comparing a company's market capitalization with its peers within the same industry. It helps in understanding the company's market position and relative valuation.
 
 ### **Growth Analysis**
-Growth analysis examines a company's historical growth rates in revenue, earnings, and market cap. Projections for future growth are made based on industry trends, competitive landscape, and company-specific factors.
+Growth analysis examines a company's historical [growth rates](../g/growth_rates_in_trading.md) in revenue, earnings, and market cap. Projections for future growth are made based on industry trends, competitive landscape, and company-specific factors.
 
 ## Application in Algorithmic Trading
 
@@ -89,7 +89,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), market capitalization ana
 - **Small-Cap Strategy**: Targets high-growth potential stocks with higher volatility. Algorithms may use breakout or trend-following strategies.
 
 ### **Risk Management**
-Algorithms can incorporate market cap filters to manage risk. For example, an algorithm might allocate a higher percentage of capital to large-cap stocks to reduce exposure to high volatility.
+Algorithms can incorporate market cap filters to manage risk. For example, an algorithm might allocate a higher percentage of capital to [large-cap stocks](../l/large_cap_stocks.md) to reduce exposure to high volatility.
 
 ### **Portfolio Optimization**
 Algorithms use market cap data to optimize portfolio construction. Diversification across different market cap categories can be achieved through automated rebalancing and [asset allocation](../a/asset_allocation.md) models.
@@ -104,7 +104,7 @@ Several tools and platforms provide market capitalization data and analysis:
   
 ### **Research Platforms**
 - **[Morningstar](../m/morningstar.md)**: Provides market capitalization data, [fundamental analysis](../f/fundamental_analysis.md), and investment research. [Morningstar](https://www.morningstar.com/)
-- **Yahoo Finance**: A free resource for market cap data, news, and financial analysis. [Yahoo Finance](https://finance.yahoo.com/)
+- **[Yahoo Finance](../y/yahoo_finance.md)**: A free resource for market cap data, news, and financial analysis. [Yahoo Finance](https://finance.yahoo.com/)
 
 ### **Algorithmic Trading Platforms**
 - **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting multiple asset classes and strategies. [QuantConnect](https://www.quantconnect.com/)

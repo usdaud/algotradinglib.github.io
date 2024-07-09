@@ -67,7 +67,7 @@ Traders can exit their positions when the Lips cross into the Teeth and Jaw, ind
 
 - **Lagging Indicator:** As a moving average-based tool, it tends to lag behind the market, causing delayed signals.
   
-- **Whipsaws:** In sideways markets, the indicator might generate false signals due to frequent crossovers of the lines.
+- **Whipsaws:** In sideways markets, the indicator might generate [false signals](../f/false_signals_in_trading.md) due to frequent crossovers of the lines.
 
 ## Case Studies
 

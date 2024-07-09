@@ -30,7 +30,7 @@ Growth and [value investing](../v/value_investing.md) are two primary strategies
 **Key Characteristics of Value Stocks:**
 1. **Low P/E Ratios:** Stocks with low price-to-earnings ratios.
 2. **High Dividend Yields:** Companies that pay a higher than average dividend yield.
-3. **Stable Revenues and Earnings:** Consistent performance with moderate growth rates.
+3. **Stable Revenues and Earnings:** Consistent performance with moderate [growth rates](../g/growth_rates_in_trading.md).
 4. **Strong Financial Health:** Solid balance sheets with low debt levels.
 5. **Temporary Issues:** Companies facing short-term setbacks but have strong long-term fundamentals.
 

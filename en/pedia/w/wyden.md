@@ -9,7 +9,7 @@ Wyden is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) soft
 3. **[Backtesting](../b/backtesting.md)**: Comprehensive [backtesting](../b/backtesting.md) capabilities to test strategies against historical data.
 4. **Real-Time Data**: Integrates with multiple market data providers to offer [real-time market data](../r/real-time_market_data.md).
 5. **[Risk Management](../r/risk_management.md)**: In-built [risk management](../r/risk_management.md) tools to help manage trading risks effectively.
-6. **Order Management**: Advanced order management and [execution algorithms](../e/execution_algorithms.md).
+6. **[Order Management](../o/order_management_in_trading.md)**: Advanced [order management](../o/order_management_in_trading.md) and [execution algorithms](../e/execution_algorithms.md).
 7. **Connectivity**: Offers connectivity to a wide range of exchanges and brokers.
 
 ## Key Components

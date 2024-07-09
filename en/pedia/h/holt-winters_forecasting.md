@@ -42,7 +42,7 @@ Where:
 
 ## Parameter Selection
 
-The parameters \(\alpha, \beta, \gamma\) can significantly impact the model's accuracy. They are typically chosen to minimize the sum of squared errors between the forecast and actual values. This is often achieved using optimization methods such as grid search or gradient descent.
+The parameters \(\alpha, \beta, \gamma\) can significantly impact the model's accuracy. They are typically chosen to minimize the sum of squared errors between the forecast and actual values. This is often achieved using optimization methods such as [grid search](../g/grid_search_in_trading.md) or gradient descent.
 
 ## Model Initialization
 

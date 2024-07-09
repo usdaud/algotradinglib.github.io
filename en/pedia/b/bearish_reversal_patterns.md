@@ -88,7 +88,7 @@ Advanced algorithms and machine learning models are employed to recognize bearis
 
 **II. Signal Confirmation**
 
-To reduce false signals, algorithms incorporate multiple indicators for confirmation. For example, an algorithm detecting a [Bearish Engulfing pattern](../b/bearish_engulfing_pattern.md) would also require confirmation from RSI or MACD to execute a trade.
+To reduce [false signals](../f/false_signals_in_trading.md), algorithms incorporate multiple indicators for confirmation. For example, an algorithm detecting a [Bearish Engulfing pattern](../b/bearish_engulfing_pattern.md) would also require confirmation from RSI or MACD to execute a trade.
 
 **III. [Backtesting](../b/backtesting.md)**
 

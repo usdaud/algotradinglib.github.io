@@ -8,13 +8,13 @@ Coinbase is a leading cryptocurrency exchange and platform that provides a secur
 
 2. **User-Friendly Interface**: The platform is designed to be intuitive and easy to use, making it accessible to both beginners and experienced traders.
 
-3. **Coinbase Pro**: For more advanced traders, Coinbase offers Coinbase Pro, a platform with advanced charting tools, real-time order books, and various order types to enhance trading capabilities.
+3. **Coinbase Pro**: For more advanced traders, Coinbase offers Coinbase Pro, a platform with advanced charting tools, real-time order books, and various [order types](../o/order_types_in_trading.md) to enhance trading capabilities.
 
 4. **Coinbase Wallet**: A secure and user-controlled wallet that allows users to store, send, and receive cryptocurrencies. It supports a wide range of digital assets and provides access to decentralized applications (DApps).
 
 5. **Coinbase Custody**: An institutional-grade service that provides secure storage solutions for large amounts of cryptocurrency, designed to meet the needs of institutional investors.
 
-6. **Educational Resources**: Coinbase offers a wealth of educational materials through Coinbase Learn, including tutorials, articles, and videos to help users understand cryptocurrency and blockchain technology.
+6. **Educational Resources**: Coinbase offers a wealth of educational materials through Coinbase Learn, including tutorials, articles, and videos to help users understand cryptocurrency and [blockchain](../b/blockchain_in_trading.md) technology.
 
 7. **Staking and Earn Programs**: Users can earn rewards by staking certain cryptocurrencies or participating in Coinbase Earn, where they learn about different cryptocurrencies and earn tokens.
 

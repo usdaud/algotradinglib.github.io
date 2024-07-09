@@ -90,7 +90,7 @@ While volume divergence is a powerful tool, it is not without its challenges and
 
 ### Noise and False Signals
 
-Volume data can be noisy, especially in highly liquid markets. This noise can lead to false signals, making it essential to use additional filters and criteria to validate volume divergence patterns.
+Volume data can be noisy, especially in highly liquid markets. This noise can lead to [false signals](../f/false_signals_in_trading.md), making it essential to use additional filters and criteria to validate volume divergence patterns.
 
 ### Latency and Execution
 

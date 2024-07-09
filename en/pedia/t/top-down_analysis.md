@@ -29,7 +29,7 @@ The final step involves selecting specific securities within the chosen industri
 ### Combining Economic Data with Algorithms
 
 Algo-traders often incorporate economic data into their models:
-- **GDP Growth Rates**: Algorithms can be programmed to react to GDP announcements. For example, strong GDP growth may trigger buy signals for cyclical stocks.
+- **GDP [Growth Rates](../g/growth_rates_in_trading.md)**: Algorithms can be programmed to react to GDP announcements. For example, strong GDP growth may trigger buy signals for cyclical stocks.
 - **Inflation Trends**: Algorithms can adjust portfolios based on expected inflation. Sectors like commodities and real estate can be favorable during high inflation.
 - **Interest Rates**: Interest rate adjustments by central banks can prompt algorithms to rebalance portfolios between bonds and equities.
 
@@ -63,7 +63,7 @@ Reliable and timely economic data is crucial. Common sources include:
 Algorithms use statistical and machine learning models to analyze data. Techniques include:
 - **[Regression Analysis](../r/regression_analysis.md)**: Understanding relationships between [economic indicators](../e/economic_indicators.md) and asset prices.
 - **Time-Series Analysis**: Analyzing trends and cycles within economic data.
-- **Machine Learning**: Advanced models like neural networks can be used for [pattern recognition](../p/pattern_recognition.md) and predictions.
+- **Machine Learning**: Advanced models like [neural networks](../n/neural_networks_in_trading.md) can be used for [pattern recognition](../p/pattern_recognition.md) and predictions.
 
 ### Backtesting
 
@@ -77,7 +77,7 @@ Once deployed, algorithms continuously monitor [economic indicators](../e/econom
 
 ### Case Study 1: GDP-Based Equity Trading
 
-An algorithm that buys equities in anticipation of strong GDP growth reports exemplifies top-down analysis in action. By analyzing past correlations between GDP growth rates and equity performance, the algorithm identifies potential buy signals.
+An algorithm that buys equities in anticipation of strong GDP growth reports exemplifies top-down analysis in action. By analyzing past correlations between GDP [growth rates](../g/growth_rates_in_trading.md) and equity performance, the algorithm identifies potential buy signals.
 
 ### Case Study 2: Inflation-Adjusted Commodity Trading
 
@@ -87,7 +87,7 @@ A trading firm might develop an algorithm that dynamically adjusts exposure to [
 
 - **Bridgewater Associates**: Known for its macroeconomic-driven investment strategies. [Bridgewater Associates](https://www.bridgewater.com)
 - **Two Sigma**: Combines statistical analysis with top-down insights. [Two Sigma](https://www.twosigma.com)
-- **AQR Capital Management**: Utilizes economic theories in their quantitative strategies. [AQR Capital Management](https://www.aqr.com)
+- **AQR Capital Management**: Utilizes economic theories in their [quantitative strategies](../q/quantitative_strategies_in_trading.md). [AQR Capital Management](https://www.aqr.com)
 
 ## 5. Benefits and Limitations
 
@@ -101,13 +101,13 @@ A trading firm might develop an algorithm that dynamically adjusts exposure to [
 
 - **Complexity**: Integrating diverse economic data can be complex.
 - **Timeliness**: Economic data releases are sometimes [lagging indicators](../l/lagging_indicators.md), impacting real-time decision-making.
-- **Model Risk**: Predictive models might not always capture unforeseen economic shocks.
+- **Model Risk**: [Predictive models](../p/predictive_models_in_trading.md) might not always capture unforeseen economic shocks.
 
 ## 6. Advanced Techniques in Top-Down Analysis for Algorithms
 
 ### Sentiment Analysis
 
-Analyzing news and social media for economic sentiment can complement top-down analysis. Machine learning algorithms can process large volumes of text to gauge market sentiment and predict movements.
+Analyzing news and social media for economic sentiment can complement top-down analysis. Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can process large volumes of text to gauge market sentiment and predict movements.
 
 ### Geographic Diversification
 

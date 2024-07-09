@@ -34,7 +34,7 @@ EDD involves several components, each requiring detailed analysis and a thorough
 
 ### Technology and Automation
 - Financial institutions leverage advanced technology solutions to enhance the EDD process.
-- Use of Artificial Intelligence (AI) and Machine Learning (ML) to analyze large data sets and identify irregularities.
+- Use of [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) to analyze large data sets and identify irregularities.
 - Automation of compliance workflows to ensure consistent application of EDD protocols.
 
 ### Multi-Disciplinary Teams

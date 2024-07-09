@@ -6,8 +6,8 @@ The Kalman Filter is a mathematical algorithm that provides estimates of some un
 
 The Kalman Filter operates recursively on streams of noisy input data to produce a statistically optimal estimate of the underlying system state. It does this through a two-step process:
 
-1. **Prediction Step**: The filter produces a predicted estimate of the current state, along with its uncertainty.
-2. **Update Step**: The filter adjusts this prediction based on incoming measurement data, reducing the uncertainty.
+1. **Prediction Step**: The filter produces a predicted estimate of the current state, along with its [uncertainty](../u/uncertainty_in_trading.md).
+2. **Update Step**: The filter adjusts this prediction based on incoming measurement data, reducing the [uncertainty](../u/uncertainty_in_trading.md).
 
 Mathematically, the Kalman Filter can be expressed using a series of equations that predict the next state and then correct it using new measurements. These equations are divided into two parts: time update equations and measurement update equations.
 
@@ -16,7 +16,7 @@ Time Update (Predict):
 - **Error Covariance:** \( P_{k|k-1} = A P_{k-1|k-1} A^T + Q \)
 
 Measurement Update (Correct):
-- **Kalman Gain:** \( K_k = P_{k|k-1} H^T (H P_{k|k-1} H^T + R)^{-1} \)
+- **[Kalman Gain](../k/kalman_gain_in_trading.md):** \( K_k = P_{k|k-1} H^T (H P_{k|k-1} H^T + R)^{-1} \)
 - **State Estimate:** \( \hat{x}_{k|k} = \hat{x}_{k|k-1} + K_k (z_k - H \hat{x}_{k|k-1}) \)
 - **Error Covariance:** \( P_{k|k} = (I - K_k H) P_{k|k-1} \)
 
@@ -30,7 +30,7 @@ Where:
 - \( Q \) is the process noise covariance 
 - \( H \) is the observation model which maps the true state space into the observed space 
 - \( R \) is the measurement noise covariance 
-- \( K_k \) is the Kalman Gain at time \( k \)
+- \( K_k \) is the [Kalman Gain](../k/kalman_gain_in_trading.md) at time \( k \)
 - \( I \) is the identity matrix 
 
 #### Application of Kalman Filter in Trading

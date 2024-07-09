@@ -1,6 +1,6 @@
 # 3-Sigma Rule
 
-The 3-Sigma Rule, also commonly known as the empirical rule, is a statistical concept that is fundamental in the realm of quality control, process management, and, significantly, in [algorithmic trading](../a/algorithmic_trading.md). The rule states that for a normal distribution, almost all data will fall within three standard deviations (σ) of the mean (µ). Specifically, it posits that:
+The 3-Sigma Rule, also commonly known as the empirical rule, is a statistical concept that is fundamental in the realm of quality control, process management, and, significantly, in [algorithmic trading](../a/algorithmic_trading.md). The rule states that for a [normal distribution](../n/normal_distribution_in_trading.md), almost all data will fall within three standard deviations (σ) of the mean (µ). Specifically, it posits that:
 
 - About 68% of data points lie within one standard deviation from the mean.
 - Approximately 95% of data points lie within two standard deviations from the mean.
@@ -73,7 +73,7 @@ print("3-Sigma Range:", (lower_bound, upper_bound))
 ### Criticisms and Limitations
 
 #### Assumption of Normality
-The primary limitation of the 3-Sigma Rule is its reliance on the assumption that the underlying data follows a normal distribution. In financial markets, asset returns often exhibit fat tails and skewness, meaning the normal distribution is not always an accurate model. 
+The primary limitation of the 3-Sigma Rule is its reliance on the assumption that the underlying data follows a [normal distribution](../n/normal_distribution_in_trading.md). In financial markets, asset returns often exhibit fat tails and skewness, meaning the [normal distribution](../n/normal_distribution_in_trading.md) is not always an accurate model. 
 
 #### Extreme Events
 Extreme market movements, often termed as "black swan" events, fall outside the 3-Sigma range. These events are rare but can have profound impacts, and the 3-Sigma Rule does not account for them. Traders relying solely on this rule may find themselves unprepared for such anomalies.

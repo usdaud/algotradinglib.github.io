@@ -79,7 +79,7 @@ Algorithmic traders often use EMAs, including the 4-period EMA, to develop [trad
 
 ### Tools and Software
 
-Several tools and software platforms provide the capability to calculate and use EMAs for trading. Some notable examples include:
+Several tools and [software platforms](../s/software_platforms_for_trading.md) provide the capability to calculate and use EMAs for trading. Some notable examples include:
 
 - **MetaTrader 4 (MT4)**: A popular trading platform among forex traders that offers built-in EMA indicators.
 - **[TradingView](../t/tradingview.md)**: A comprehensive charting platform that includes customizable EMA indicators.
@@ -98,7 +98,7 @@ While the EMA is a powerful tool, it has certain limitations:
 
 1. **Lagging Indicator**: Like all moving averages, the EMA is a lagging indicator, meaning it is based on past prices and may not accurately predict future price movements.
 
-2. **Sensitivity to Volatility**: Although more responsive than the SMA, the EMA can still produce false signals during periods of high market volatility.
+2. **Sensitivity to Volatility**: Although more responsive than the SMA, the EMA can still produce [false signals](../f/false_signals_in_trading.md) during periods of high market volatility.
 
 3. **Parameter Selection**: The choice of the period for the EMA (in this case, 4 periods) significantly influences its effectiveness. Traders need to carefully select the period based on their trading style and the market conditions.
 

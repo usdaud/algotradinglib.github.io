@@ -67,14 +67,14 @@ Several firms specialize in creating and deploying algorithmic swing [trading st
 
 - **Quantitative Investment Management (QIM):** A renowned firm that uses [quantitative analysis](../q/quantitative_analysis.md) to develop automated [trading strategies](../t/trading_strategies.md). For more information, visit [QIM's Website](https://www.qim.com/).
 
-- **Two Sigma:** A hedge fund that heavily relies on data science and technology to develop [trading strategies](../t/trading_strategies.md), including swing trading. For more information, visit [Two Sigma's Website](https://www.twosigma.com/).
+- **Two Sigma:** A hedge fund that heavily relies on [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md), including swing trading. For more information, visit [Two Sigma's Website](https://www.twosigma.com/).
 
 - **AQR Capital Management:** Known for [systematic trading](../s/systematic_trading.md) approaches, AQR employs advanced statistical techniques to create and manage [trading strategies](../t/trading_strategies.md). For more information, visit [AQR's Website](https://www.aqr.com/).
 
 ## The Future of Swing Trading in Algorithmic Trading
 
 ### AI and Machine Learning
-The integration of artificial intelligence (AI) and machine learning (ML) into swing [trading algorithms](../t/trading_algorithms.md) is a growing trend. These technologies enable the algorithms to learn and adapt from historical data, improving their accuracy and performance.
+The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) into swing [trading algorithms](../t/trading_algorithms.md) is a growing trend. These technologies enable the algorithms to learn and adapt from historical data, improving their accuracy and performance.
 
 ### Increased Accessibility
 With the rise of online trading platforms and educational resources, swing trading, and [algorithmic trading](../a/algorithmic_trading.md) have become more accessible to retail investors. This democratization is likely to continue, with technological advancements lowering the barrier to entry.

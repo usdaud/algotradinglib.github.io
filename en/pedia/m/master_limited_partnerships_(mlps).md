@@ -86,7 +86,7 @@ Holding MLPs in tax-advantaged accounts like IRAs can be complicated due to Unre
 
 ### Sector-Specific Dynamics
 
-Investors should be familiar with the specific dynamics of the sector in which an MLP operates. Energy infrastructure, for example, has different risk factors and growth prospects compared to other industries.
+Investors should be familiar with the specific dynamics of the sector in which an MLP operates. Energy infrastructure, for example, has different [risk factors](../r/risk_factors_in_trading.md) and growth prospects compared to other industries.
 
 ## MLP ETFs and Funds
 

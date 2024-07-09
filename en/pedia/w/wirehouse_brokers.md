@@ -132,7 +132,7 @@ The rise of discount brokers and online trading platforms has intensified compet
 
 ### Technological Integration
 
-Technological advancements will continue to shape the future of wirehouse brokers. Firms are likely to invest in artificial intelligence, machine learning, and big data analytics to enhance their advisory services and improve trade execution.
+Technological advancements will continue to shape the future of wirehouse brokers. Firms are likely to invest in [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) to enhance their advisory services and improve trade execution.
 
 ### Enhanced Regulatory Scrutiny
 

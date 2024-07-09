@@ -19,7 +19,7 @@ Oil and gas trading forms a critical segment of the global commodities market, f
 ## Trading Mechanisms
 
 ### Spot Trading
-Spot trading involves the purchase or sale of commodities for immediate delivery. In the oil and gas market, this usually means the physical delivery of the commodity within a few days of the trade date.
+Spot trading involves the purchase or sale of commodities for immediate delivery. In the oil and gas market, this usually means the [physical delivery](../p/physical_delivery_in_trading.md) of the commodity within a few days of the trade date.
 
 ### Futures and Options
 The backbone of the oil and gas trading sector, [futures contracts](../f/futures_contracts.md) allow traders to buy or sell a specific quantity of a commodity at a predetermined price at a future date. Options provide the right, but not the obligation, to buy or sell at a specific price.
@@ -70,7 +70,7 @@ EMIR mandates reporting of all [derivatives](../d/derivatives.md) contracts to t
 ### Supply and Demand Factors
 1. **OPEC Decisions**: Policies and production levels set by the Organization of the Petroleum Exporting Countries can heavily influence prices.
 2. **[Geopolitical Events](../g/geopolitical_events.md)**: Conflicts or political instability in key oil-producing regions can cause supply disruptions and price spikes.
-3. **Economic Data**: [Economic indicators](../e/economic_indicators.md) such as GDP growth rates, employment statistics, and industrial production influence energy demand forecasts.
+3. **Economic Data**: [Economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), employment statistics, and industrial production influence energy demand forecasts.
 
 ### Technological Advancements
 1. **Shale Revolution**: The advent of hydraulic fracturing (“fracking”) has dramatically increased US oil and gas production.

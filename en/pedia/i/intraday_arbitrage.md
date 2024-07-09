@@ -18,7 +18,7 @@ Successful intraday [arbitrage](../a/arbitrage.md) often requires sophisticated 
 
 2. **[Real-Time Market Data](../r/real-time_market_data.md)**: Access to [real-time market data](../r/real-time_market_data.md) is essential for identifying [arbitrage](../a/arbitrage.md) opportunities. Platforms like [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provide detailed market data and analytics.
 
-3. **[Order Management Systems](../o/order_management_systems.md) (OMS)**: Systems like [FlexTrade](https://flextrade.com/) offer order management solutions designed to execute multiple orders across different markets seamlessly.
+3. **[Order Management Systems](../o/order_management_systems.md) (OMS)**: Systems like [FlexTrade](https://flextrade.com/) offer [order management](../o/order_management_in_trading.md) solutions designed to execute multiple orders across different markets seamlessly.
 
 ### Risks and Challenges
 
@@ -40,7 +40,7 @@ Given the complexities and the potential for market disruption, intraday [arbitr
 
 1. **Citadel LLC**: Citadel is one of the most successful hedge funds in the world, known for its intraday [arbitrage](../a/arbitrage.md) strategies. Their ability to quickly identify and exploit intraday [arbitrage](../a/arbitrage.md) opportunities is a key part of their trading strategy. More information can be found on their [website](https://www.citadel.com/).
 
-2. **Two Sigma Investments**: This quantitative hedge fund employs advanced algorithms and machine learning to identify and execute intraday [arbitrage](../a/arbitrage.md) opportunities. Their use of big data analytics sets them apart. You can learn more about their approach [here](https://www.twosigma.com/).
+2. **Two Sigma Investments**: This quantitative hedge fund employs advanced algorithms and machine learning to identify and execute intraday [arbitrage](../a/arbitrage.md) opportunities. Their use of [big data analytics](../b/big_data_analytics_in_trading.md) sets them apart. You can learn more about their approach [here](https://www.twosigma.com/).
 
 3. **Virtu Financial**: This firm is another major player in the field of intraday [arbitrage](../a/arbitrage.md). Virtu Financial utilizes high-frequency trading (HFT) to identify and act on [arbitrage](../a/arbitrage.md) opportunities in a fraction of a second. More details can be found on their [website](https://www.virtu.com/).
 

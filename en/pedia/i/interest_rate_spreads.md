@@ -46,7 +46,7 @@ Credit Spread = Corporate Bond Yield - Government Bond Yield
                = 2%
 ```
 
-Analyzing these spreads involves monitoring their movements over time and understanding the underlying factors driving these changes. Advanced quantitative techniques, statistical models, and machine learning algorithms are often employed to analyze historical data and predict future movements.
+Analyzing these spreads involves monitoring their movements over time and understanding the underlying factors driving these changes. Advanced quantitative techniques, statistical models, and machine [learning algorithms](../l/learning_algorithms_in_trading.md) are often employed to analyze historical data and predict future movements.
 
 #### Application in Algorithmic Trading
 
@@ -60,7 +60,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), interest rat
 
 4. **[Market Sentiment Analysis](../m/market_sentiment_analysis.md):** Spreads are used to gauge market sentiment. For example, a widening [LIBOR-OIS spread](../l/libor-ois_spread.md) may trigger algorithms to adjust their positions based on increased [counterparty risk](../c/counterparty_risk.md) sentiment.
 
-5. **Predictive Models:** Machine learning models are trained on historical spread data to predict future movements. These predictions can inform trading decisions and enhance the profitability of [trading strategies](../t/trading_strategies.md).
+5. **[Predictive Models](../p/predictive_models_in_trading.md):** Machine learning models are trained on historical spread data to predict future movements. These predictions can inform trading decisions and enhance the profitability of [trading strategies](../t/trading_strategies.md).
 
 #### Real-World Examples and Platforms
 

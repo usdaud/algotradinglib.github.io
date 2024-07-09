@@ -42,7 +42,7 @@ The successful implementation of index [arbitrage](../a/arbitrage.md) requires a
 
 #### Trading Platforms
 
-Customizable trading platforms that can handle multiple asset classes and offer advanced order types and [risk management](../r/risk_management.md) features.
+Customizable trading platforms that can handle multiple asset classes and offer advanced [order types](../o/order_types_in_trading.md) and [risk management](../r/risk_management.md) features.
 
 #### Algorithmic Trading Software
 
@@ -66,7 +66,7 @@ Index [arbitrage](../a/arbitrage.md) activities are regulated by financial autho
 
 - **U.S. Securities and Exchange Commission (SEC):** The SEC oversees securities markets, including the trading practices employed by market participants.
 - **[Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC):** This body regulates futures and options markets in the U.S., including [index futures](../i/index_futures.md).
-- **Financial Industry Regulatory Authority ([FINRA](../f/finra.md)):** [FINRA](../f/finra.md) monitors firms and brokers engaged in trading activities to enforce compliance with legal and ethical standards.
+- **Financial Industry Regulatory Authority ([FINRA](../f/finra.md)):** [FINRA](../f/finra.md) monitors firms and brokers engaged in trading activities to enforce compliance with legal and [ethical standards](../e/ethical_standards_in_trading.md).
 
 ### Conclusion
 

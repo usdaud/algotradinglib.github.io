@@ -12,14 +12,14 @@ A comprehensive [quantitative trading](../q/quantitative_trading.md) framework t
 
 ### Strategy Development
 - **Research and Ideation**: The initial stage involves generating trading ideas based on market observation, financial theories, or scientific methods. 
-- **Model Selection**: After ideation, [quantitative models](../q/quantitative_models.md) are selected and applied. These models can range from statistical methods, such as [mean reversion](../m/mean_reversion.md) and momentum, to more sophisticated techniques like machine learning and artificial intelligence.
+- **Model Selection**: After ideation, [quantitative models](../q/quantitative_models.md) are selected and applied. These models can range from statistical methods, such as [mean reversion](../m/mean_reversion.md) and momentum, to more sophisticated techniques like machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 ### Backtesting and Simulation
 - **[Backtesting](../b/backtesting.md)**: This involves testing the viability of the trading strategy against historical data to assess its performance. Key metrics include returns, drawdowns, [Sharpe ratio](../s/sharpe_ratio.md), and more.
-- **Simulation**: Running simulations helps understand how the strategy would perform in different market conditions without risking actual capital.
+- **[Simulation](../s/simulation_in_trading.md)**: Running simulations helps understand how the strategy would perform in different market conditions without risking actual capital.
 
 ### Execution
-- **Order Management System (OMS)**: An OMS manages order placement, modifications, and cancellations. It ensures that orders are executed according to predefined algorithms and market conditions.
+- **[Order Management](../o/order_management_in_trading.md) System (OMS)**: An OMS manages order placement, modifications, and cancellations. It ensures that orders are executed according to predefined algorithms and market conditions.
 - **[Execution Algorithms](../e/execution_algorithms.md)**: These algorithms are designed to efficiently execute trades by minimizing market impact, spread, and other [trading costs](../t/trading_costs.md). Examples include VWAP (Volume Weighted Average Price), TWAP (Time Weighted Average Price), and Arrival Price algorithms.
 
 ### Risk Management
@@ -42,7 +42,7 @@ A comprehensive [quantitative trading](../q/quantitative_trading.md) framework t
 Historical data can be used to verify the effectiveness of a trading strategy before deploying real capital, mitigating risks.
 
 ### Scalability
-Many quantitative strategies can be scaled up easily to manage larger volumes without a proportional increase in operational complexity.
+Many [quantitative strategies](../q/quantitative_strategies_in_trading.md) can be scaled up easily to manage larger volumes without a proportional increase in operational complexity.
 
 ### Diversification
 Quantitative frameworks allow for the creation of multi-strategy portfolios that diversify risk across various assets, geographies, and time frames.
@@ -73,7 +73,7 @@ Compliance with financial regulations is crucial. [Quantitative trading](../q/qu
 [Quantlib](../q/quantlib.md) is an open-source library for [quantitative finance](../q/quantitative_finance.md), offering tools for pricing [derivatives](../d/derivatives.md), managing portfolios, and simulating [trading strategies](../t/trading_strategies.md). The library is widely used in academia and industry for [financial modeling](../f/financial_modeling.md) and [quantitative analysis](../q/quantitative_analysis.md). More details can be found at [Quantlib](https://www.quantlib.org/).
 
 ### Algorithmic Trading Platform by Interactive Brokers
-Interactive Brokers offers a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to [real-time market data](../r/real-time_market_data.md), [backtesting](../b/backtesting.md) facilities, and a set of pre-built [trading algorithms](../t/trading_algorithms.md). Traders can also develop custom strategies using their API. For more details, visit [Interactive Brokers](https://www.interactivebrokers.com/).
+[Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to [real-time market data](../r/real-time_market_data.md), [backtesting](../b/backtesting.md) facilities, and a set of pre-built [trading algorithms](../t/trading_algorithms.md). Traders can also develop custom strategies using their API. For more details, visit [Interactive Brokers](https://www.interactivebrokers.com/).
 
 ### MetaTrader 5
 MetaTrader 5 (MT5) is a multi-asset platform for trading Forex, stocks, and futures. It supports [algorithmic trading](../a/algorithmic_trading.md) via its MQL5 programming language, enabling traders to create, test, and implement automated [trading strategies](../t/trading_strategies.md). Learn more at [MetaTrader 5](https://www.metatrader5.com/).

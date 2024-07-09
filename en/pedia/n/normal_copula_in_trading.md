@@ -4,15 +4,15 @@
 
 A copula is a statistical tool that allows us to understand and model the dependence structure between different random variables. Essentially, it helps in understanding how different variables co-move. This is particularly useful in finance and trading, where understanding the relationships between various assets can provide deeper insights into risk and [portfolio management](../p/portfolio_management.md). 
 
-The word 'copula' comes from the Latin word for 'link' or 'tie'. In the context of statistics and probability theory, a copula links marginal distributions to form a joint distribution. The most notable property of a copula is that it can describe the dependence structure between random variables, independent of their marginal distributions.
+The word 'copula' comes from the Latin word for 'link' or 'tie'. In the context of statistics and [probability theory](../p/probability_theory_in_trading.md), a copula links marginal distributions to form a joint distribution. The most notable property of a copula is that it can describe the dependence structure between random variables, independent of their marginal distributions.
 
 ### Normal Copula (Gaussian Copula)
 
-The Normal Copula, also known as the Gaussian Copula, is one of the simplest and most widely used copula models. It is especially favored for its mathematical tractability and ease of implementation. The Normal Copula is derived from the multivariate normal distribution, which means that its dependence structure is captured by the correlation matrix of a multivariate normal distribution.
+The Normal Copula, also known as the Gaussian Copula, is one of the simplest and most widely used copula models. It is especially favored for its mathematical tractability and ease of implementation. The Normal Copula is derived from the multivariate [normal distribution](../n/normal_distribution_in_trading.md), which means that its dependence structure is captured by the correlation matrix of a multivariate [normal distribution](../n/normal_distribution_in_trading.md).
 
 #### Mathematical Formulation
 
-Let \( Z = (Z_1, Z_2, \ldots, Z_n) \) be a vector of n standard normal variables whose correlation matrix is given by \( \Sigma \). If \( \Phi_{\Sigma} \) denotes the joint cumulative distribution function (CDF) of the multivariate normal distribution with mean zero and covariance matrix \( \Sigma \), and \( \Phi \) denotes the CDF of a standard normal distribution, then the Gaussian Copula \( C_{\Sigma} \) can be described as:
+Let \( Z = (Z_1, Z_2, \ldots, Z_n) \) be a vector of n standard normal variables whose correlation matrix is given by \( \Sigma \). If \( \Phi_{\Sigma} \) denotes the joint [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) (CDF) of the multivariate [normal distribution](../n/normal_distribution_in_trading.md) with mean zero and covariance matrix \( \Sigma \), and \( \Phi \) denotes the CDF of a standard [normal distribution](../n/normal_distribution_in_trading.md), then the Gaussian Copula \( C_{\Sigma} \) can be described as:
 
 \[ C_{\Sigma}(u_1, u_2, \ldots, u_n) = \Phi_{\Sigma}(\Phi^{-1}(u_1), \Phi^{-1}(u_2), \ldots, \Phi^{-1}(u_n)) \]
 
@@ -36,7 +36,7 @@ In credit risk modeling, copulas are used to model the dependence between defaul
 
 - **Mathematical Tractability**: The Normal Copula is mathematically straightforward, making it easy to implement and use in various financial models.
 - **Flexibility in Dependence Modeling**: It allows for flexible modeling of dependence structures by adjusting the correlation matrix, \( \Sigma \).
-- **Wide Adoption**: Due to its simplicity and the historical prevalence of the multivariate normal distribution in finance, the Gaussian Copula is widely understood and adopted in practice.
+- **Wide Adoption**: Due to its simplicity and the historical prevalence of the multivariate [normal distribution](../n/normal_distribution_in_trading.md) in finance, the Gaussian Copula is widely understood and adopted in practice.
 
 ### Limitations and Criticisms
 
@@ -77,8 +77,8 @@ copula_values = [gaussian_copula(u, v, 0.5) for u, v in uniform_samples]
 In the above example, we:
 
 1. Define a correlation matrix.
-2. Generate samples from a multivariate normal distribution with the given correlation matrix.
-3. Transform these samples to uniform marginals using the CDF of the standard normal distribution.
+2. Generate samples from a multivariate [normal distribution](../n/normal_distribution_in_trading.md) with the given correlation matrix.
+3. Transform these samples to uniform marginals using the CDF of the standard [normal distribution](../n/normal_distribution_in_trading.md).
 4. Compute the Gaussian Copula values for the transformed samples.
 
 ### Conclusion

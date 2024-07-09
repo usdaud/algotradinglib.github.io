@@ -27,7 +27,7 @@ Quantifying risk is essential to manage it effectively. Risk measurement often i
 Continuous monitoring is crucial to detect any deviations from expected risk levels and ensure timely intervention. Key activities include:
 
 - **Performance Tracking**: Regularly comparing actual returns to expected returns and [risk metrics](../r/risk_metrics.md).
-- **Stress Testing**: Simulating extreme market conditions to understand potential vulnerabilities.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating extreme market conditions to understand potential vulnerabilities.
 - **[Backtesting](../b/backtesting.md)**: Running algorithms against historical data to validate their performance and risk profile.
 
 #### 4. **Risk Mitigation Strategies**

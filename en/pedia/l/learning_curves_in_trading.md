@@ -4,7 +4,7 @@ In the field of [algorithmic trading](../a/algorithmic_trading.md), learning cur
 
 ### What is a Learning Curve?
 
-A learning curve is a graphical representation that shows the relationship between experience (such as the number of iterations or time spent training) and performance improvement. In the context of trading, performance can be measured in various metrics such as profit and loss (P&L), accuracy of market predictions, or risk-adjusted returns. The concept can be traced back to psychological studies in the early 20th century, but its application in trading is relatively new, driven by advancements in machine learning and big data analytics.
+A learning curve is a graphical representation that shows the relationship between experience (such as the number of iterations or time spent training) and performance improvement. In the context of trading, performance can be measured in various metrics such as profit and loss (P&L), accuracy of market predictions, or risk-adjusted returns. The concept can be traced back to psychological studies in the early 20th century, but its application in trading is relatively new, driven by advancements in machine learning and [big data analytics](../b/big_data_analytics_in_trading.md).
 
 ### Types of Learning Curves
 

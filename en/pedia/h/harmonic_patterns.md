@@ -83,7 +83,7 @@ Once successful [backtesting](../b/backtesting.md) has been achieved, real-time 
 Machine learning can further enhance harmonic pattern effectiveness in [algorithmic trading](../a/algorithmic_trading.md). By leveraging large datasets, machine learning models can be trained to recognize subtle variations in patterns that traditional harmonic analysis might miss. Some popular machine learning frameworks for this purpose include:
 
 - **TensorFlow**: A comprehensive library for machine learning developed by Google that can be adapted for financial market analysis.
-- **PyTorch**: An open-source machine learning library used for applications such as natural language processing and [financial modeling](../f/financial_modeling.md).
+- **PyTorch**: An open-source machine learning library used for applications such as [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and [financial modeling](../f/financial_modeling.md).
 
 ## Regulatory and Ethical Considerations
 
@@ -114,6 +114,6 @@ These real-world applications demonstrate the potential of harmonic patterns in 
 
 ## Conclusion
 
-Harmonic patterns offer a precise and mathematical approach to market analysis, making them highly suitable for [algorithmic trading](../a/algorithmic_trading.md). By leveraging advanced software platforms and machine learning, traders can automate the detection and execution of trades based on these patterns, thus achieving more consistent and emotion-free trading results. However, it is crucial to adhere to regulatory and ethical guidelines to ensure fair and stable market practices.
+Harmonic patterns offer a precise and mathematical approach to market analysis, making them highly suitable for [algorithmic trading](../a/algorithmic_trading.md). By leveraging advanced [software platforms](../s/software_platforms_for_trading.md) and machine learning, traders can automate the detection and execution of trades based on these patterns, thus achieving more consistent and emotion-free trading results. However, it is crucial to adhere to regulatory and ethical guidelines to ensure fair and stable market practices.
 
 In the ever-evolving world of finance, the integration of harmonic patterns with [algorithmic trading](../a/algorithmic_trading.md) represents a significant advancement towards smarter and more efficient market strategies.

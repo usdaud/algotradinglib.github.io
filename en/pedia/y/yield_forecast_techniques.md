@@ -108,7 +108,7 @@ Disadvantages:
 - Can be less efficient with very large datasets.
 
 ### 3.3 Neural Networks
-Neural Networks are highly flexible models capable of capturing complex, non-linear relationships in data. They consist of interconnected nodes (neurons) organized into layers:
+[Neural Networks](../n/neural_networks_in_trading.md) are highly flexible models capable of capturing complex, non-linear relationships in data. They consist of interconnected nodes (neurons) organized into layers:
 
 Advantages:
 - Can model complex and non-linear relationships.
@@ -179,4 +179,4 @@ Disadvantages:
 
 ## Conclusion
 
-[Yield forecasting](../y/yield_forecasting.md) employs a variety of techniques from traditional statistical models to advanced machine learning algorithms. While each method has its strengths and weaknesses, the choice of technique often depends on the specific application, data availability, and desired level of accuracy. Integrating multiple approaches and continuously adapting to new technologies can significantly enhance the accuracy and reliability of yield forecasts.
+[Yield forecasting](../y/yield_forecasting.md) employs a variety of techniques from traditional statistical models to advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md). While each method has its strengths and weaknesses, the choice of technique often depends on the specific application, data availability, and desired level of accuracy. Integrating multiple approaches and continuously adapting to new technologies can significantly enhance the accuracy and reliability of yield forecasts.

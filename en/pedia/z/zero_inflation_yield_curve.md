@@ -16,7 +16,7 @@ Zero-coupon bonds are [fixed income securities](../f/fixed_income_securities.md)
 
 ## Construction of the Zero Inflation Yield Curve
 
-Constructing the ZIYC requires several steps, involving both market data and mathematical models.
+Constructing the ZIYC requires several steps, involving both market data and [mathematical models](../m/mathematical_models_in_trading.md).
 
 ### Data Requirements
 
@@ -36,7 +36,7 @@ One common method for constructing the ZIYC is the bootstrapping method, which i
 
 ### Mathematical Models
 
-Several mathematical models are used to fit the observed data to create a smooth [yield curve](../y/yield_curve.md). Common models include:
+Several [mathematical models](../m/mathematical_models_in_trading.md) are used to fit the observed data to create a smooth [yield curve](../y/yield_curve.md). Common models include:
 
 - **Nelson-Siegel Model**: A widely used model that captures the level, slope, and curvature of the [yield curve](../y/yield_curve.md).
 - **Svensson Model**: An extension of the Nelson-Siegel model that adds more flexibility by including additional parameters.

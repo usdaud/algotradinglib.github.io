@@ -38,7 +38,7 @@ Algorithmic traders can use quantitative techniques to identify and exploit thes
 
 1. **[Trend Analysis](../t/trend_analysis.md)**: Utilizing moving averages, relative strength indices (RSI), and other [technical indicators](../t/technical_indicators.md) to identify trends in value and [growth stocks](../g/growth_stocks.md).
 2. **[Regression Analysis](../r/regression_analysis.md)**: Applying statistical methods to measure the relationship between different [economic indicators](../e/economic_indicators.md) and the performance of value and [growth stocks](../g/growth_stocks.md).
-3. **[Factor Models](../f/factor_models.md)**: Utilizing multi-[factor models](../f/factor_models.md) to identify the exposure of stocks to various risk factors and to build dynamic investment strategies that adjust to changing market conditions.
+3. **[Factor Models](../f/factor_models.md)**: Utilizing multi-[factor models](../f/factor_models.md) to identify the exposure of stocks to various [risk factors](../r/risk_factors_in_trading.md) and to build dynamic investment strategies that adjust to changing market conditions.
 
 ## Algorithmic Trading Strategies
 
@@ -49,7 +49,7 @@ Momentum strategies involve buying stocks that have shown an upward price trend 
 [Mean reversion](../m/mean_reversion.md) strategies are based on the idea that stock prices will revert to their mean or average level. Algorithmic traders can use statistical techniques to identify overbought or oversold conditions and execute trades that capitalize on these anticipated corrections.
 
 ### Machine Learning Models
-Machine learning models, including neural networks and [decision trees](../d/decision_trees.md), can be employed to analyze massive datasets and detect complex patterns that may not be visible through traditional methods. These models can improve the accuracy of predictions regarding the performance of value and [growth stocks](../g/growth_stocks.md).
+Machine learning models, including [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md), can be employed to analyze massive datasets and detect complex patterns that may not be visible through traditional methods. These models can improve the accuracy of predictions regarding the performance of value and [growth stocks](../g/growth_stocks.md).
 
 ## Real-World Applications
 
@@ -57,7 +57,7 @@ Machine learning models, including neural networks and [decision trees](../d/dec
 Several companies are at the forefront of developing advanced [trading algorithms](../t/trading_algorithms.md) to exploit value-growth cycles. Here are a few notable examples:
 
 1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) provides [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) engines and deployment tools that let traders design and execute strategies based on value-growth cycles. [QuantConnect](https://www.quantconnect.com/)
-2. **Two Sigma**: Two Sigma Investments uses data science and technology to create investment strategies. They employ machine learning and distributed computing to gain insights into value-growth cycles. [Two Sigma](https://www.twosigma.com/)
+2. **Two Sigma**: Two Sigma Investments uses [data science](../d/data_science_in_trading.md) and technology to create investment strategies. They employ machine learning and distributed computing to gain insights into value-growth cycles. [Two Sigma](https://www.twosigma.com/)
 3. **Kensho Technologies**: Kensho designs next-generation analytics tools for financial markets, leveraging machine learning to identify trends and cycles in value and [growth investing](../g/growth_investing.md). [Kensho Technologies](https://www.kensho.com/)
 4. **AlphaSense**: AlphaSense uses AI and NLP to provide insights into market trends, aiding the identification of value-growth cycles for informed trading decisions. [AlphaSense](https://www.alpha-sense.com/)
 

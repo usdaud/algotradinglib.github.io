@@ -25,7 +25,7 @@ Data storage must be scalable and reliable, capable of handling large volumes of
 
 - **Relational Databases**: SQL databases like PostgreSQL and MySQL.
 - **NoSQL Databases**: MongoDB, Cassandra for unstructured data.
-- **Data Lakes**: Using Hadoop or Amazon S3 for storing vast amounts of raw data.
+- **[Data Lakes](../d/data_lakes_in_trading.md)**: Using Hadoop or Amazon S3 for storing vast amounts of raw data.
 
 ### 4. Data Access and Analytics
 Once data is stored, it must be easily accessible for analysis. This phase involves:
@@ -90,7 +90,7 @@ Google BigQuery is a serverless, highly scalable, and cost-effective multi-cloud
 [Google BigQuery](https://cloud.google.com/bigquery)
 
 ### Microsoft Azure Synapse Analytics
-Previously known as Azure SQL Data Warehouse, Azure Synapse Analytics combines big data and data warehousing, providing a comprehensive analytics service.
+Previously known as Azure SQL Data Warehouse, Azure Synapse Analytics combines [big data](../b/big_data_in_trading.md) and data warehousing, providing a comprehensive analytics service.
 
 [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/)
 
@@ -102,16 +102,16 @@ IBM Db2 Warehouse on Cloud delivers a fully managed private data warehouse servi
 ## Future Trends
 
 ### 1. Integration with AI and ML
-The integration of artificial intelligence (AI) and machine learning (ML) into data warehousing will further enhance [predictive analytics](../p/predictive_analytics.md), enabling more sophisticated [trading strategies](../t/trading_strategies.md).
+The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) into data warehousing will further enhance [predictive analytics](../p/predictive_analytics.md), enabling more sophisticated [trading strategies](../t/trading_strategies.md).
 
 ### 2. Blockchain Technology
-Blockchain could revolutionize data warehousing in trading by providing enhanced security, traceability, and transparency of data transactions.
+[Blockchain](../b/blockchain_in_trading.md) could revolutionize data warehousing in trading by providing enhanced security, traceability, and transparency of data transactions.
 
 ### 3. Edge Computing
 Edge computing can reduce latency by processing data closer to its source. This is particularly beneficial for HFT where speed is critical.
 
 ### 4. Quantum Computing
-While still in its nascent stages, quantum computing holds the potential to solve complex trading computations much faster than classical computers, revolutionizing data warehousing and analysis.
+While still in its nascent stages, [quantum computing](../q/quantum_computing_in_trading.md) holds the potential to solve complex trading computations much faster than classical computers, revolutionizing data warehousing and analysis.
 
 ## Conclusion
 

@@ -14,7 +14,7 @@ CTAs typically manage multiple client accounts, which can include high-net-worth
 
 #### Fee Structures
 
-The compensation model for CTAs generally involves a combination of management fees (typically 1-2% of assets under management per annum) and performance fees (commonly 20% of trading profits). It's worth noting that these performance fees are often subject to a high-water mark, ensuring that the CTA only earns performance fees when the client's account reaches a new peak in value.
+The compensation model for CTAs generally involves a combination of management fees (typically 1-2% of assets under management per annum) and performance fees (commonly 20% of trading profits). It's worth noting that these performance fees are often subject to a [high-water mark](../h/high-water_mark_in_trading.md), ensuring that the CTA only earns performance fees when the client's account reaches a new peak in value.
 
 ### Trading Strategies
 
@@ -43,7 +43,7 @@ Effective [risk management](../r/risk_management.md) is crucial for CTAs given t
 1. **[Position Sizing](../p/position_sizing.md)**: Adjusting the size of positions based on volatility and other [risk metrics](../r/risk_metrics.md).
 2. **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Automatic orders to sell positions when they reach a certain level of loss.
 3. **Diversification**: Spreading exposure across various asset classes to mitigate risk.
-4. **Stress Testing and Scenario Analysis**: Assessing potential impacts of extreme market conditions on the portfolio.
+4. **[Stress Testing](../s/stress_testing_in_trading.md) and Scenario Analysis**: Assessing potential impacts of extreme market conditions on the portfolio.
 
 ### Regulation
 
@@ -67,7 +67,7 @@ Several CTAs have gained prominence for their exceptional performance and innova
 
 A number of firms have established themselves as leaders in the CTA space:
 
-1. **Man AHL**: One of the largest and most established CTAs, known for its diversified quantitative strategies. [Man AHL](https://www.ahl.com)
+1. **Man AHL**: One of the largest and most established CTAs, known for its diversified [quantitative strategies](../q/quantitative_strategies_in_trading.md). [Man AHL](https://www.ahl.com)
 2. **Aspect Capital**: Founded by AHL co-founder Anthony Todd, Aspect Capital employs sophisticated [quantitative models](../q/quantitative_models.md). [Aspect Capital](https://www.aspectcapital.com)
 3. **Campbell & Company**: A pioneer in the [systematic trading](../s/systematic_trading.md) space, with a history dating back to 1972. [Campbell & Company](https://www.campbell.com)
 
@@ -95,6 +95,6 @@ The CTA space is highly competitive, with numerous players vying for investor ca
 
 ### Conclusion
 
-Commodity Trading Advisors play a pivotal role in the financial markets, offering specialized expertise in futures trading and sophisticated quantitative strategies. Their ability to navigate complex market environments and deliver risk-adjusted returns makes them valuable partners for a diverse range of investors. However, success in this space demands careful attention to [risk management](../r/risk_management.md), compliance, and ongoing innovation.
+Commodity Trading Advisors play a pivotal role in the financial markets, offering specialized expertise in futures trading and sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md). Their ability to navigate complex market environments and deliver risk-adjusted returns makes them valuable partners for a diverse range of investors. However, success in this space demands careful attention to [risk management](../r/risk_management.md), compliance, and ongoing innovation.
 
 For further exploration into the world of CTAs, one might consider attending industry conferences, engaging with professional associations such as the Managed Funds Association (MFA), and staying current with industry publications and research.

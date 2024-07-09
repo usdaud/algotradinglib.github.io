@@ -4,7 +4,7 @@
 
 ## Importance of Yen in Global Markets
 
-The Japanese yen (JPY) is one of the most traded currencies in the world and serves as a strong indicator of economic sentiment in the Asia-Pacific region. Because Japan is the third-largest economy globally, fluctuations in the yen can have significant repercussions across various financial markets. The yen is often seen as a "safe-haven" currency, meaning that investors flock to it during periods of economic uncertainty, which can lead to sharp price changes.
+The Japanese yen (JPY) is one of the most traded currencies in the world and serves as a strong indicator of economic sentiment in the Asia-Pacific region. Because Japan is the third-largest economy globally, fluctuations in the yen can have significant repercussions across various financial markets. The yen is often seen as a "safe-haven" currency, meaning that investors flock to it during periods of economic [uncertainty](../u/uncertainty_in_trading.md), which can lead to sharp price changes.
 
 ## Factors Influencing Yen Volatility
 
@@ -48,7 +48,7 @@ Algo-[trading systems](../t/trading_systems.md) use historical data to identify 
 
 ### Machine Learning
 
-Machine learning algorithms can adapt to new information and improve over time. In yen volatility trading, these algorithms analyze historical and real-time data to make trading decisions that optimize profit and minimize risk.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can adapt to new information and improve over time. In yen volatility trading, these algorithms analyze historical and real-time data to make trading decisions that optimize profit and minimize risk.
 
 ### High-Frequency Trading (HFT)
 

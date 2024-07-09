@@ -10,7 +10,7 @@ High-Frequency Trading (HFT) is a subset of [algorithmic trading](../a/algorithm
 
 1. **Low Latency Systems**: These systems ensure that trades are executed within microseconds. The lower the latency, the higher the advantage in capitalizing on price discrepancies.
 2. **Colocation Services**: This involves placing [trading systems](../t/trading_systems.md) physically close to the exchange servers to minimize transmission delays.
-3. **Big Data Analytics**: Advanced analytics techniques are used to process vast quantities of market data and identify profitable trading opportunities.
+3. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Advanced analytics techniques are used to process vast quantities of market data and identify profitable trading opportunities.
 
 ### Machine Learning and AI
 
@@ -42,7 +42,7 @@ Market making involves providing liquidity to the market by quoting both buy and
 
 ### News-Based Trading
 
-News-based [trading strategies](../t/trading_strategies.md) use natural language processing (NLP) and [sentiment analysis](../s/sentiment_analysis.md) to interpret news articles, social media feeds, and other textual data sources. Algorithms can gauge the sentiment and impact of news events and execute trades based on their potential effects on commodity prices.
+News-based [trading strategies](../t/trading_strategies.md) use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [sentiment analysis](../s/sentiment_analysis.md) to interpret news articles, social media feeds, and other textual data sources. Algorithms can gauge the sentiment and impact of news events and execute trades based on their potential effects on commodity prices.
 
 ## Advantages of Algorithmic Trading in Commodities Markets
 

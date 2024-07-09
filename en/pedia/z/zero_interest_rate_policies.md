@@ -20,7 +20,7 @@ ZIRP has been implemented by various central banks around the world during diffe
 ZIRP affects the economy through several channels:
 
 1. **Bank Lending**: Lower interest rates reduce the cost of borrowing for banks, which in turn can offer cheaper loans to businesses and consumers.
-2. **Investment**: Reduced borrowing costs lower the hurdle rate for investment projects, encouraging businesses to invest in expansion and innovation.
+2. **Investment**: Reduced borrowing costs lower the [hurdle rate](../h/hurdle_rate_in_trading.md) for investment projects, encouraging businesses to invest in expansion and innovation.
 3. **Consumer Spending**: Lower mortgage and loan interest rates increase disposable income for consumers, potentially boosting consumption.
 4. **Exchange Rates**: ZIRP can lead to depreciation of the national currency, making exports more competitive and supporting the domestic economy.
 5. **Asset Prices**: Lower yields on safer assets push investors towards equities and other riskier assets, driving up their prices and increasing household wealth.
@@ -56,7 +56,7 @@ Several financial companies and institutions analyze and react to ZIRP's implica
 
 - **Goldman Sachs** ([https://www.goldmansachs.com/](https://www.goldmansachs.com/))
 - **BlackRock** ([https://www.blackrock.com/](https://www.blackrock.com/))
-- **Fidelity Investments** ([https://www.fidelity.com/](https://www.fidelity.com/))
+- **[Fidelity Investments](../f/fidelity_investments.md)** ([https://www.fidelity.com/](https://www.fidelity.com/))
 - **Vanguard Group** ([https://www.vanguard.com/](https://www.vanguard.com/))
 - **JP Morgan Chase & Co.** ([https://www.jpmorganchase.com/](https://www.jpmorganchase.com/))
 

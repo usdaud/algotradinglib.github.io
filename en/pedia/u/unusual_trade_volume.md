@@ -39,7 +39,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), UTV is used to enhance [t
 
 ### Tools and Platforms for Monitoring Unusual Trade Volume
 Several tools and platforms are available to monitor and analyze UTV:
-- **Yahoo Finance**: Offers historical and real-time volume data.
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Offers historical and real-time volume data.
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Provides advanced analytics and volume tracking features.
 - **[TradingView](../t/tradingview.md)**: A popular charting tool that allows for detailed [volume analysis](../v/volume_analysis.md).
 - **Finviz**: A financial visualization tool that helps identify unusual trade volumes across different securities.
@@ -54,7 +54,7 @@ In early 2021, GameStop became a notable case of unusual trade volume driven by 
 
 ### Risk Management Considerations
 While UTV can provide valuable insights, it also introduces risks:
-- **False Signals**: Not all unusual volumes will lead to profitable trades. It’s crucial to combine UTV analysis with other indicators.
+- **[False Signals](../f/false_signals_in_trading.md)**: Not all unusual volumes will lead to profitable trades. It’s crucial to combine UTV analysis with other indicators.
 - **Market Manipulation**: High volumes can sometimes be a result of manipulative tactics like pump and dump schemes.
 - **Overtrading**: Relying solely on volume spikes can lead to overtrading, which can erode returns through transaction costs.
 

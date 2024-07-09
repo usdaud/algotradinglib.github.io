@@ -84,7 +84,7 @@ Risk-adjusted performance is a concept within finance and investment that attemp
    - **Website**: [Bridgewater Associates](https://www.bridgewater.com/)
 
 2. **AQR Capital Management**:
-   AQR Capital Management, co-founded by Cliff Asness, leverages quantitative strategies to manage large-scale portfolios focusing on risk-adjusted performance.
+   AQR Capital Management, co-founded by Cliff Asness, leverages [quantitative strategies](../q/quantitative_strategies_in_trading.md) to manage large-scale portfolios focusing on risk-adjusted performance.
    - **Website**: [AQR Capital Management](https://www.aqr.com/)
 
 3. **Two Sigma Investments**:

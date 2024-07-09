@@ -39,7 +39,7 @@ A false breakout occurs when the price of a financial instrument moves beyond a 
 ### Case Studies and Examples
 
 #### Medallion Fund
-The Medallion Fund, managed by Renaissance Technologies, is known for its [quantitative trading](../q/quantitative_trading.md) strategies that often exploit market inefficiencies, including false breakouts. Their success highlights the importance of leveraging complex mathematical models and [algorithmic trading](../a/algorithmic_trading.md) techniques to navigate the pitfalls of deceptive price movements. More information about Renaissance Technologies can be found on their website: [Renaissance Technologies](https://www.rentec.com/).
+The Medallion Fund, managed by Renaissance Technologies, is known for its [quantitative trading](../q/quantitative_trading.md) strategies that often exploit market inefficiencies, including false breakouts. Their success highlights the importance of leveraging complex [mathematical models](../m/mathematical_models_in_trading.md) and [algorithmic trading](../a/algorithmic_trading.md) techniques to navigate the pitfalls of deceptive price movements. More information about Renaissance Technologies can be found on their website: [Renaissance Technologies](https://www.rentec.com/).
 
 ### Conclusion
 

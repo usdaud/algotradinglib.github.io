@@ -11,7 +11,7 @@ Domain expertise refers to the deep understanding of the financial markets, [eco
 Knowledge-based [trading algorithms](../t/trading_algorithms.md) rely on extensive datasets that include historical prices, trading volumes, [economic indicators](../e/economic_indicators.md), corporate earnings, news stories, [social media sentiment](../s/social_media_sentiment.md), and more. These datasets are continuously updated to ensure the algorithms operate with the most current information.
 
 ### Machine Learning and Artificial Intelligence
-Machine learning (ML) and artificial intelligence (AI) play a crucial role in knowledge-based [trading algorithms](../t/trading_algorithms.md). These technologies enable the system to recognize complex patterns, make predictions, and adapt to changing market conditions. Techniques such as natural language processing (NLP) help the algorithms understand and analyze textual data from news articles and financial reports.
+Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) play a crucial role in knowledge-based [trading algorithms](../t/trading_algorithms.md). These technologies enable the system to recognize complex patterns, make predictions, and adapt to changing market conditions. Techniques such as [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) help the algorithms understand and analyze textual data from news articles and financial reports.
 
 ### Rule-Based Systems
 Rule-based systems encapsulate expert knowledge in the form of conditional statements (if-then rules). These systems can execute trades based on predefined criteria, which might include [technical indicators](../t/technical_indicators.md), [fundamental analysis](../f/fundamental_analysis.md), or macroeconomic trends.
@@ -51,7 +51,7 @@ Financial markets are subject to regulations that can impact [trading strategies
 
 ### Numerai
 [Link](https://numer.ai/)
-Numerai is a hedge fund that leverages machine learning and data science to make investment decisions. The company uses crowdsourced models from data scientists around the world to enhance its [trading algorithms](../t/trading_algorithms.md).
+Numerai is a hedge fund that leverages machine learning and [data science](../d/data_science_in_trading.md) to make investment decisions. The company uses crowdsourced models from data scientists around the world to enhance its [trading algorithms](../t/trading_algorithms.md).
 
 ### AlphaSense
 [Link](https://www.alpha-sense.com/)
@@ -63,6 +63,6 @@ Kensho, a subsidiary of S&P Global, offers advanced analytics and machine learni
 
 ### Ayasdi
 [Link](https://www.ayasdi.com/)
-Ayasdi utilizes AI and machine learning to create predictive models for various industries, including finance. Their platform can be used to develop knowledge-based [trading algorithms](../t/trading_algorithms.md) that analyze complex datasets.
+Ayasdi utilizes AI and machine learning to create [predictive models](../p/predictive_models_in_trading.md) for various industries, including finance. Their platform can be used to develop knowledge-based [trading algorithms](../t/trading_algorithms.md) that analyze complex datasets.
 
 In conclusion, knowledge-based [trading algorithms](../t/trading_algorithms.md) represent a sophisticated approach to [algorithmic trading](../a/algorithmic_trading.md), combining domain expertise, extensive data analysis, and advanced AI techniques. While they offer significant advantages in terms of informed decision-making and adaptability, they also face challenges related to data quality, model complexity, and regulatory compliance.

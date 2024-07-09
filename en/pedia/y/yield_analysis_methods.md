@@ -41,9 +41,9 @@ Sensitivity analysis assesses how changes in input parameters affect the yield. 
 
 Optimization seeks to find the best set of parameters for a trading algorithm to maximize its yield. Techniques include:
 
-- **Grid Search:** An exhaustive search over a specified parameter grid to identify the optimal settings.
+- **[Grid Search](../g/grid_search_in_trading.md):** An exhaustive search over a specified parameter grid to identify the optimal settings.
   
-- **Genetic Algorithms:** These algorithms simulate the process of natural selection to evolve strategies towards better performance over multiple generations.
+- **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md):** These algorithms simulate the process of natural selection to evolve strategies towards better performance over multiple generations.
 
 - **Machine Learning-based Optimization:** Using machine learning models to predict optimal parameter settings based on historical data. Libraries like TensorFlow and Scikit-learn are often used for this purpose.
   

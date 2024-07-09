@@ -5,7 +5,7 @@ DXTrade is a sophisticated trading platform developed by Devexperts, designed to
 
 ## Features
 1. **Advanced Charting**: Offers a wide range of chart types and [technical analysis](../t/technical_analysis.md) tools.
-2. **Order Management**: Comprehensive order management system with various order types, including market, limit, stop, and trailing stop orders.
+2. **[Order Management](../o/order_management_in_trading.md)**: Comprehensive [order management](../o/order_management_in_trading.md) system with various [order types](../o/order_types_in_trading.md), including market, limit, stop, and trailing stop orders.
 3. **[Risk Management](../r/risk_management.md)**: Advanced [risk management](../r/risk_management.md) tools to help brokers manage client exposure and trading risks.
 4. **Real-Time Data**: [Real-time market data](../r/real-time_market_data.md) and news feeds integration.
 5. **Customizable Interface**: Highly customizable user interface to meet the specific needs of brokers and their clients.

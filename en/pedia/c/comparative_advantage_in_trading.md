@@ -41,7 +41,7 @@ Traders with comparative advantages in [risk management](../r/risk_management.md
 The primary benefit of leveraging comparative advantage in trading is the potential for enhanced returns. Specializing in areas of relative strength allows traders to exploit market inefficiencies more effectively.
 
 ### Increased Efficiency
-Comparative advantage can lead to increased operational efficiency. By focusing on areas of strength and outsourcing or avoiding weaker areas, trading firms can reduce costs and improve overall performance.
+Comparative advantage can lead to increased [operational efficiency](../o/operational_efficiency_in_trading.md). By focusing on areas of strength and outsourcing or avoiding weaker areas, trading firms can reduce costs and improve overall performance.
 
 ### Competitive Edge
 A well-identified comparative advantage can provide a sustainable competitive edge in increasingly crowded and competitive markets. This is particularly important in algorithmic and high-frequency trading, where milliseconds can mean the difference between profit and loss.
@@ -49,13 +49,13 @@ A well-identified comparative advantage can provide a sustainable competitive ed
 ## Real-World Examples
 
 ### Renaissance Technologies
-Renaissance Technologies (https://www.rentec.com/) is a prime example of a trading firm that has leveraged comparative advantage through its pioneering use of quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies. The firm's Medallion Fund has achieved stellar returns by employing complex mathematical models and sophisticated algorithms.
+Renaissance Technologies (https://www.rentec.com/) is a prime example of a trading firm that has leveraged comparative advantage through its pioneering use of quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies. The firm's Medallion Fund has achieved stellar returns by employing complex [mathematical models](../m/mathematical_models_in_trading.md) and sophisticated algorithms.
 
 ### Virtu Financial
 Virtu Financial (https://www.virtu.com/) uses cutting-edge technology and extensive market data to maintain its comparative advantage in market-making and [liquidity provision](../l/liquidity_provision.md). The firm's ability to execute trades with high speed and accuracy gives it an edge over competitors.
 
 ### Two Sigma
-Two Sigma (https://www.twosigma.com/) combines advanced technology with sophisticated data analysis to identify trading opportunities. The firm's extensive use of machine learning and artificial intelligence helps it maintain a comparative advantage in the [quantitative trading](../q/quantitative_trading.md) space.
+Two Sigma (https://www.twosigma.com/) combines advanced technology with sophisticated data analysis to identify trading opportunities. The firm's extensive use of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) helps it maintain a comparative advantage in the [quantitative trading](../q/quantitative_trading.md) space.
 
 ## Challenges and Risks
 

@@ -32,7 +32,7 @@ Statistical models, such as moving averages, [Bollinger Bands](../b/bollinger_ba
 
 ### Machine Learning and AI
 
-Advanced [algorithmic trading](../a/algorithmic_trading.md) platforms integrate machine learning and artificial intelligence to predict future price movements, identify patterns, and optimize [position management](../p/position_management.md). Techniques such as reinforcement learning, neural networks, and clustering are commonly applied.
+Advanced [algorithmic trading](../a/algorithmic_trading.md) platforms integrate machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict future price movements, identify patterns, and optimize [position management](../p/position_management.md). Techniques such as reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and clustering are commonly applied.
 
 ### Scenario Analysis
 
@@ -98,11 +98,11 @@ With advancements in AI and machine learning, future open position analysis is e
 
 ### Quantum Computing
 
-Quantum computing holds the potential to revolutionize open position analysis by providing unprecedented computational power, enabling the processing of vast datasets and complex simulations far more efficiently than conventional computers.
+[Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize open position analysis by providing unprecedented computational power, enabling the processing of vast datasets and complex simulations far more efficiently than conventional computers.
 
 ### Blockchain and Smart Contracts
 
-Blockchain technology, through smart contracts, can offer more transparent and secure management of open positions, reducing the risks associated with intermediary failures and enhancing overall trading efficiency.
+[Blockchain](../b/blockchain_in_trading.md) technology, through [smart contracts](../s/smart_contracts_in_trading.md), can offer more transparent and secure management of open positions, reducing the risks associated with intermediary failures and enhancing overall trading efficiency.
 
 ## Conclusion
 

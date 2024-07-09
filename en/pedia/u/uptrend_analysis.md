@@ -113,7 +113,7 @@ Website: [Alpaca](https://alpaca.markets)
 Website: [TradingView](https://www.tradingview.com)
 
 ### 4. Interactive Brokers
-Interactive Brokers provides a robust trading platform with a comprehensive set of tools and APIs for [algorithmic trading](../a/algorithmic_trading.md). They offer [advanced technical analysis](../a/advanced_technical_analysis.md) tools necessary for uptrend analysis.
+[Interactive Brokers](../i/interactive_brokers.md) provides a robust trading platform with a comprehensive set of tools and APIs for [algorithmic trading](../a/algorithmic_trading.md). They offer [advanced technical analysis](../a/advanced_technical_analysis.md) tools necessary for uptrend analysis.
 
 Website: [Interactive Brokers](https://www.interactivebrokers.com)
 
@@ -124,7 +124,7 @@ Website: [MetaTrader](https://www.metatrader4.com)
 
 ## Challenges in Uptrend Analysis
 
-1. **False Signals**: Not all detected uptrends are reliable. False breakouts and whipsaws can lead to losses.
+1. **[False Signals](../f/false_signals_in_trading.md)**: Not all detected uptrends are reliable. False breakouts and whipsaws can lead to losses.
 2. **Market Volatility**: High volatility can obscure trend patterns, making reliable identification difficult.
 3. **Overfitting**: Algorithms overly tailored to historical data may not perform well in live trading.
 4. **Latency**: High-frequency trading requires low-latency environments that not all platforms can provide.

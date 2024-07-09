@@ -5,7 +5,7 @@ Unit root testing plays a crucial role in [time series analysis](../t/time_serie
 ## Conceptual Background
 
 ### Time Series and Stationarity
-A time series is a series of data points indexed in time order, often used to track variables over time. Stationarity is a key property of time series data that must be considered in statistical modelling. A time series is said to be stationary if its statistical properties such as mean, variance, and [autocorrelation](../a/autocorrelation.md) are constant over time. Stationary time series are easier to model and predict, making them a preferred choice in econometrics and finance.
+A time series is a series of data points indexed in time order, often used to track variables over time. Stationarity is a key property of time series data that must be considered in statistical modelling. A time series is said to be stationary if its statistical properties such as mean, variance, and [autocorrelation](../a/autocorrelation.md) are constant over time. Stationary time series are easier to model and predict, making them a preferred choice in [econometrics](../e/econometrics_in_trading.md) and finance.
 
 ### Unit Root
 A unit root is a feature of some [stochastic processes](../s/stochastic_processes.md) that indicates a non-stationary time series. Essentially, if a time series has a unit root, it shows a systematic pattern that is not constant over time, meaning the series can exhibit persistent, random walks. This trait poses challenges in modelling as standard statistical techniques assume stationarity.
@@ -18,7 +18,7 @@ Consider a time series \( y_t \). The presence of a unit root is often tested us
 
 Where:
 - \( \rho \) is a parameter.
-- \( \epsilon_t \) is a white noise error term.
+- \( \epsilon_t \) is a [white noise](../w/white_noise_in_trading.md) error term.
 
 If \( \rho = 1 \), the series has a unit root (is non-stationary). Alternatively, if \( |\rho| < 1 \), the series is stationary.
 
@@ -58,7 +58,7 @@ The Kwiatkowski-Phillips-Schmidt-Shin (KPSS) test differs from ADF and PP in tha
 Here, \( \alpha \) and \(\beta t\) denote the intercept and trend, respectively. If the test statistic exceeds the critical value, the null hypothesis of stationarity is rejected.
 
 ### 4. Zivot-Andrews Test
-The Zivot-Andrews test incorporates structural breaks in the time series data. The ADF regression is modified to account for a single break in the intercept or trend at an unknown point.
+The Zivot-Andrews test incorporates [structural breaks](../s/structural_breaks_in_trading.md) in the time series data. The ADF regression is modified to account for a single break in the intercept or trend at an unknown point.
 
 \[ y_t = \mu + \theta DU_t + \rho y_{t-1} + \sum_{i=1}^{k} \Delta y_{t-i} + \epsilon_t \]
 
@@ -87,7 +87,7 @@ Several software packages offer unit root testing functionalities, integrating t
 - `arch` library: Offers additional econometric models and tests.
 
 #### MATLAB
-- Econometrics Toolbox: Includes functions for ADF, PP, and other unit root tests.
+- [Econometrics](../e/econometrics_in_trading.md) Toolbox: Includes functions for ADF, PP, and other unit root tests.
 
 #### EViews
 A sophisticated econometric software providing comprehensive support for [time series analysis](../t/time_series_analysis.md), including unit root tests.

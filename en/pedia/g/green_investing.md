@@ -104,7 +104,7 @@ Governments worldwide are strengthening regulations that promote green investing
 
 ### Technological Advancements
 
-Artificial Intelligence (AI) and Big Data are being increasingly used to gather and analyze ESG data, providing more accurate and comprehensive assessments.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Big Data](../b/big_data_in_trading.md) are being increasingly used to gather and analyze ESG data, providing more accurate and comprehensive assessments.
 
 ### Corporate Commitments
 

@@ -48,7 +48,7 @@ Turnover analysis can also be used to attribute returns to trading activity. If 
 
 Effective turnover management can enhance strategy performance. Several optimization techniques can be employed:
 
-1. **Cost-Benefit Analysis**: Assess the potential return from each trade relative to its expected transaction cost.
+1. **[Cost-Benefit Analysis](../c/cost-benefit_analysis_in_trading.md)**: Assess the potential return from each trade relative to its expected transaction cost.
 2. **Slippage Control**: Implement measures to minimize slippage, which is the difference between the expected and actual trade execution prices.
 3. **Liquidity Considerations**: Focus on assets with high liquidity to ensure that large orders can be executed without significant market impact.
 

@@ -60,7 +60,7 @@ These strategies use [quantitative models](../q/quantitative_models.md) to ident
 
 ### Best Practices for Efficient Limit Order Execution
 
-1. **[Backtesting](../b/backtesting.md) and Simulation**: Validate [limit order strategies](../l/limit_order_strategies.md) through historical data to ensure their efficacy under different market conditions.
+1. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**: Validate [limit order strategies](../l/limit_order_strategies.md) through historical data to ensure their efficacy under different market conditions.
 2. **Real-Time Monitoring**: Continuous monitoring and adjustment of limit orders based on market conditions and algorithm performance.
 3. **[Risk Management](../r/risk_management.md)**: Implement robust [risk management](../r/risk_management.md) rules to handle partial fills and non-execution scenarios.
 

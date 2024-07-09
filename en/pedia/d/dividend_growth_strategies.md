@@ -34,7 +34,7 @@ The dividend growth rate measures the annualized percentage growth rate of a com
 
 4. **Low-Yield, High-Growth**
 
-   Contrary to high-yield strategies, this approach targets companies with lower current yields but higher projected growth rates for their dividends. The idea is that the rapid growth in dividends will eventually result in higher yields down the road.
+   Contrary to high-yield strategies, this approach targets companies with lower current yields but higher projected [growth rates](../g/growth_rates_in_trading.md) for their dividends. The idea is that the rapid growth in dividends will eventually result in higher yields down the road.
 
 ### Benefits of Dividend Growth Strategies
 

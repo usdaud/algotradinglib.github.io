@@ -32,11 +32,11 @@ Nominal return analysis is a fundamental concept in [algorithmic trading](../a/a
 
 #### Practical Application of Nominal Return Analysis
 
-One of the prominent firms in [algorithmic trading](../a/algorithmic_trading.md) is **Two Sigma** [Two Sigma](https://www.twosigma.com/). They deploy advanced technologies to analyze massive datasets and implement sophisticated [trading strategies](../t/trading_strategies.md). The primary objective is to generate consistent nominal returns by leveraging [quantitative research](../q/quantitative_research.md) and artificial intelligence.
+One of the prominent firms in [algorithmic trading](../a/algorithmic_trading.md) is **Two Sigma** [Two Sigma](https://www.twosigma.com/). They deploy advanced technologies to analyze massive datasets and implement sophisticated [trading strategies](../t/trading_strategies.md). The primary objective is to generate consistent nominal returns by leveraging [quantitative research](../q/quantitative_research.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
-Another notable example is **Renaissance Technologies** [Renaissance Technologies](https://www.rentec.com/), renowned for their Medallion Fund, which consistently delivers high nominal returns through complex mathematical models and statistical analysis.
+Another notable example is **Renaissance Technologies** [Renaissance Technologies](https://www.rentec.com/), renowned for their Medallion Fund, which consistently delivers high nominal returns through complex [mathematical models](../m/mathematical_models_in_trading.md) and statistical analysis.
 
 #### Summary
 
-Nominal return analysis is an indispensable tool for traders and investors engaged in [algorithmic trading](../a/algorithmic_trading.md). It provides essential insights into the performance of investments and [trading strategies](../t/trading_strategies.md) without accounting for inflation, taxes, and other external factors. Ensure to consider nominal returns in conjunction with other measures and risk factors to develop robust and profitable [trading algorithms](../t/trading_algorithms.md).
+Nominal return analysis is an indispensable tool for traders and investors engaged in [algorithmic trading](../a/algorithmic_trading.md). It provides essential insights into the performance of investments and [trading strategies](../t/trading_strategies.md) without accounting for inflation, taxes, and other external factors. Ensure to consider nominal returns in conjunction with other measures and [risk factors](../r/risk_factors_in_trading.md) to develop robust and profitable [trading algorithms](../t/trading_algorithms.md).
 

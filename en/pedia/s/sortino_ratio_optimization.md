@@ -62,7 +62,7 @@ Develop an initial trading strategy based on preliminary hypotheses. This could 
 Calculate the [Sortino ratio](../s/sortino_ratio.md) for the initial strategy to establish a performance baseline. This will help in assessing the efficacy of subsequent optimization efforts.
 
 ### Parameter Optimization
-Utilize optimization algorithms, such as genetic algorithms, particle swarm optimization, or gradient descent, to iteratively adjust the parameters of the trading strategy. During each iteration, the [Sortino ratio](../s/sortino_ratio.md) is recalculated to ensure that changes lead to better risk-adjusted returns.
+Utilize optimization algorithms, such as [genetic algorithms](../g/genetic_algorithms_in_trading.md), particle swarm optimization, or gradient descent, to iteratively adjust the parameters of the trading strategy. During each iteration, the [Sortino ratio](../s/sortino_ratio.md) is recalculated to ensure that changes lead to better risk-adjusted returns.
 
 ### Backtesting
 Perform extensive [backtesting](../b/backtesting.md) on historical data to validate the optimized strategy. This ensures that the improvements in the [Sortino ratio](../s/sortino_ratio.md) are not merely a result of overfitting to specific data points.

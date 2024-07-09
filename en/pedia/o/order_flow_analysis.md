@@ -10,7 +10,7 @@ Order Flow Analysis is vital for several reasons:
 
 1. **Market Sentiment**: By analyzing the flow of orders, traders can gauge market sentiment. Large buy or sell orders can indicate bullish or bearish sentiment, respectively.
 2. **Price Movements**: Understanding order flow helps in predicting future price movements. For instance, large buy orders at a particular price level can indicate strong support.
-3. **Microstructure Insight**: Provides deep insight into [market microstructure](../m/market_microstructure.md), including order types, execution methods, and matching algorithms.
+3. **Microstructure Insight**: Provides deep insight into [market microstructure](../m/market_microstructure.md), including [order types](../o/order_types_in_trading.md), execution methods, and [matching algorithms](../m/matching_algorithms_in_trading.md).
 4. **Reduced Latency**: HFT firms often use OFA to reduce latency and optimize trade execution, ensuring they beat other market participants to the best prices.
 5. **[Risk Management](../r/risk_management.md)**: Effective use of OFA can enhance [risk management](../r/risk_management.md) by providing real-time insights into market liquidity and the presence of large players.
 
@@ -43,7 +43,7 @@ Market Depth, also known as Level II data, shows the number of open buy and sell
 
 ### 5. **Order Types**
 
-Different order types such as market orders, limit orders, stop orders, and trailing stops play a critical role in how orders are executed and how they impact market dynamics.
+Different [order types](../o/order_types_in_trading.md) such as market orders, limit orders, stop orders, and trailing stops play a critical role in how orders are executed and how they impact market dynamics.
 
 ---
 
@@ -69,7 +69,7 @@ Cumulative Delta is the running total of buy volume minus sell volume. It provid
 
 ### Heatmaps
 
-Heatmaps visualize order book data by representing different sizes and prices with varying colors. These graphical representations can highlight areas of high liquidity and potential turning points in the market.
+[Heatmaps](../h/heatmaps_in_trading.md) visualize order book data by representing different sizes and prices with varying colors. These graphical representations can highlight areas of high liquidity and potential turning points in the market.
 
 ---
 
@@ -117,7 +117,7 @@ To conduct Order Flow Analysis, traders require access to high-quality data and 
 
 ### NinjaTrader
 
-[NinjaTrader](https://ninjatrader.com/) offers a trading platform with extensive order flow analysis tools, including advanced charting, trade simulation, and [backtesting](../b/backtesting.md) features.
+[NinjaTrader](https://ninjatrader.com/) offers a trading platform with extensive order flow analysis tools, including advanced charting, trade [simulation](../s/simulation_in_trading.md), and [backtesting](../b/backtesting.md) features.
 
 ### Jigsaw Trading
 

@@ -112,7 +112,7 @@ The evolution of electronic trading platforms has enhanced efficiency and transp
 
 ### Blockchain and Distributed Ledger Technology (DLT)
 
-Blockchain and DLT offer potential improvements in transparency, efficiency, and security for OTC [derivatives](../d/derivatives.md) trading and post-trade processes. These technologies can help streamline settlement, reduce [counterparty risk](../c/counterparty_risk.md), and ensure real-time reporting.
+[Blockchain](../b/blockchain_in_trading.md) and DLT offer potential improvements in transparency, efficiency, and security for OTC [derivatives](../d/derivatives.md) trading and post-trade processes. These technologies can help streamline settlement, reduce [counterparty risk](../c/counterparty_risk.md), and ensure real-time reporting.
 
 ## Major Players in the OTC Derivatives Market
 

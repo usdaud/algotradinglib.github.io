@@ -2,18 +2,18 @@
 
 ### Introduction
 
-Cryptocurrency mining and trading are two critical aspects of the cryptocurrency ecosystem. Mining refers to the process of validating transactions and adding them to the blockchain, while trading involves buying and selling cryptocurrencies on various exchanges. Both activities have become increasingly popular due to the rise of digital currencies like Bitcoin, Ethereum, and numerous other altcoins.
+Cryptocurrency mining and trading are two critical aspects of the cryptocurrency ecosystem. Mining refers to the process of validating transactions and adding them to the [blockchain](../b/blockchain_in_trading.md), while trading involves buying and selling cryptocurrencies on various exchanges. Both activities have become increasingly popular due to the rise of digital currencies like Bitcoin, Ethereum, and numerous other altcoins.
 
 ### Crypto Mining
 
 #### Definition and Process
-Cryptocurrency mining is the process of using computational power to solve complex mathematical problems, which helps verify and add transactions to the blockchain. Miners utilize specialized hardware and software to perform these calculations, and in return, they are rewarded with new coins.
+Cryptocurrency mining is the process of using computational power to solve complex mathematical problems, which helps verify and add transactions to the [blockchain](../b/blockchain_in_trading.md). Miners utilize specialized hardware and software to perform these calculations, and in return, they are rewarded with new coins.
 
 #### Types of Mining
 
-1. **Proof of Work (PoW)**: This is the original consensus mechanism used by Bitcoin and many other cryptocurrencies. Miners compete to solve cryptographic puzzles, and the first one to solve it gets to add a new block to the blockchain and receive a reward.
+1. **Proof of Work (PoW)**: This is the original consensus mechanism used by Bitcoin and many other cryptocurrencies. Miners compete to solve cryptographic puzzles, and the first one to solve it gets to add a new block to the [blockchain](../b/blockchain_in_trading.md) and receive a reward.
 2. **Proof of Stake (PoS)**: Instead of miners competing to solve puzzles, validators are chosen based on the amount of cryptocurrency they hold and are willing to "stake" as collateral. PoS is more energy-efficient compared to PoW.
-3. **Other Methods**: There are other consensus mechanisms such as Proof of Authority (PoA), Delegated Proof of Stake (DPoS), and more, each with its unique approach to securing the blockchain.
+3. **Other Methods**: There are other consensus mechanisms such as Proof of Authority (PoA), Delegated Proof of Stake (DPoS), and more, each with its unique approach to securing the [blockchain](../b/blockchain_in_trading.md).
 
 #### Mining Hardware and Software
 
@@ -63,7 +63,7 @@ Cryptocurrency trading involves buying and selling digital currencies on various
 
 #### Risks and Security
 
-Trading cryptocurrencies can be highly profitable but also comes with significant risks due to market volatility, regulatory uncertainty, and security threats. It is crucial for traders to employ [risk management](../r/risk_management.md) strategies, such as [stop-loss orders](../s/stop-loss_orders.md), diversification, and using secure exchanges and wallets.
+Trading cryptocurrencies can be highly profitable but also comes with significant risks due to market volatility, regulatory [uncertainty](../u/uncertainty_in_trading.md), and security threats. It is crucial for traders to employ [risk management](../r/risk_management.md) strategies, such as [stop-loss orders](../s/stop-loss_orders.md), diversification, and using secure exchanges and wallets.
 
 ### Conclusion
 

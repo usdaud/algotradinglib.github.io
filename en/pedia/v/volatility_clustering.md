@@ -90,7 +90,7 @@ Volatility clustering models often assume normally distributed returns, which is
 
 ### Machine Learning and AI
 
-Machine learning algorithms, particularly those involving deep learning, are increasingly being used to model volatility clustering. These algorithms can automatically adjust to new data and uncover hidden patterns that traditional statistical models might miss.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md), particularly those involving deep learning, are increasingly being used to model volatility clustering. These algorithms can automatically adjust to new data and uncover hidden patterns that traditional statistical models might miss.
 
 ### Real-time Analytics
 

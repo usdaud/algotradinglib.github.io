@@ -66,7 +66,7 @@ Given its comprehensive nature, TWR is mandated by the Global Investment Perform
 
 Despite its advantages, TWR is not without limitations.
 
-1. **Complexity**: Calculating TWR can be complicated and require more detailed data than money-weighted returns, especially for portfolios with frequent cash flows.
+1. **Complexity**: Calculating TWR can be complicated and require more detailed data than money-[weighted returns](../w/weighted_returns_in_trading.md), especially for portfolios with frequent cash flows.
 2. **Does Not Reflect Investor Experience**: While useful for measuring manager performance, TWR does not necessarily reflect the experience of investors whose individual returns may be affected significantly by the timing and size of their cash flows.
 3. **Cost and Time**: The need to calculate returns for each sub-period and link them can be resource-intensive, particularly for large portfolios with high-frequency trading.
 
@@ -86,7 +86,7 @@ Consider two portfolios with identical value growth but different cash flow patt
 
 ### Software and Platforms
 
-Numerous software tools and platforms aid in calculating TWR:
+Numerous [software tools](../s/software_tools_for_trading.md) and platforms aid in calculating TWR:
 
 - **[Morningstar](../m/morningstar.md) Direct**: A comprehensive investment analysis platform that offers TWR calculation (https://www.[morningstar](../m/morningstar.md).com/products/direct).
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Known for its extensive financial data, the terminal provides TWR analytics tools, suitable for professional finance users (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/).

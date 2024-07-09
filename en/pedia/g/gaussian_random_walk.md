@@ -1,6 +1,6 @@
 # Gaussian Random Walk
 
-Gaussian Random Walk (GRW) is a mathematical model that describes a path consisting of a succession of random steps, where the steps are normally distributed. This model is highly relevant in various fields such as physics, finance, and econometrics. It provides a crucial underpinning to models used for predicting asset prices and is integral to the development of algorithms used in [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
+Gaussian Random Walk (GRW) is a mathematical model that describes a path consisting of a succession of random steps, where the steps are normally distributed. This model is highly relevant in various fields such as physics, finance, and [econometrics](../e/econometrics_in_trading.md). It provides a crucial underpinning to models used for predicting asset prices and is integral to the development of algorithms used in [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
 
 #### Mathematical Definition
 
@@ -13,12 +13,12 @@ A sequence of random variables \( \{X_t\}_{t=0}^\infty \) constitutes a Gaussian
 Formally:
 \[ X_t = X_{t-1} + \epsilon_t, \quad \epsilon_t \sim N(\mu, \sigma^2) \]
 
-Here, \( N(\mu, \sigma^2) \) represents a normal distribution with mean \( \mu \) and variance \( \sigma^2 \).
+Here, \( N(\mu, \sigma^2) \) represents a [normal distribution](../n/normal_distribution_in_trading.md) with mean \( \mu \) and variance \( \sigma^2 \).
 
 #### Properties of Gaussian Random Walk
 
 1. **Increment Independence**: The steps \(\epsilon_t\) are independent and identically distributed (i.i.d.).
-2. **Normal Distribution of Steps**: The steps follow a normal distribution.
+2. **[Normal Distribution](../n/normal_distribution_in_trading.md) of Steps**: The steps follow a [normal distribution](../n/normal_distribution_in_trading.md).
 3. **Martingale Property**: If \( \mu = 0 \), then the process has no drift and \( \{X_t\}\) is a martingale.
 4. **Variance Growth**: The variance of \( X_t \) grows linearly with time, \( \text{Var}(X_t) = t\sigma^2 \).
 
@@ -34,7 +34,7 @@ In the realm of derivative pricing, GRW forms the basis for more sophisticated m
 
 #### Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) (algotrading) leverages mathematical models and algorithms to make trading decisions at high speeds enabled by computers. Gaussian Random Walks are employed in various strategies, including:
+[Algorithmic trading](../a/algorithmic_trading.md) (algotrading) leverages [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make trading decisions at high speeds enabled by computers. Gaussian Random Walks are employed in various strategies, including:
 
 1. **[Mean Reversion](../m/mean_reversion.md) Strategies**: Identify deviations from the mean, assuming that prices will revert to their historical averages.
 2. **Statistical [Arbitrage](../a/arbitrage.md)**: Utilize statistical methods to identify mispricings between correlated assets.
@@ -52,7 +52,7 @@ Accurately estimating parameters \( \mu \) and \( \sigma \) from historical data
 
 #### Limitations
 
-1. **Assumption of Normality**: Financial returns often exhibit heavy tails and skewness, violating the assumption of normal distribution.
+1. **Assumption of Normality**: Financial returns often exhibit heavy tails and skewness, violating the assumption of [normal distribution](../n/normal_distribution_in_trading.md).
 2. **Ignore Longer-Term Trends and Volatilities**: Real financial data often display autocorrelations and conditional heteroskedasticity, which are not captured by a simple Gaussian Random Walk.
 
 #### Extensions and Alternatives

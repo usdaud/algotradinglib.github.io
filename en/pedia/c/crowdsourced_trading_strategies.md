@@ -38,7 +38,7 @@ Crowdsourcing in [trading strategies](../t/trading_strategies.md) typically invo
 
 ### Numerai
 
-[Numerai](https://numer.ai) is a hedge fund that leverages machine learning models submitted by a global network of data scientists. Numerai disguises its trading data and provides it to participants who develop predictive models. The best-performing models are then pooled together to inform the hedge fund's trading decisions. Numerai rewards contributors with cryptocurrency tokens based on the performance of their models.
+[Numerai](https://numer.ai) is a hedge fund that leverages machine learning models submitted by a global network of data scientists. Numerai disguises its trading data and provides it to participants who develop [predictive models](../p/predictive_models_in_trading.md). The best-performing models are then pooled together to inform the hedge fund's trading decisions. Numerai rewards contributors with cryptocurrency tokens based on the performance of their models.
 
 ### Collective2
 
@@ -52,7 +52,7 @@ Crowdsourcing in [trading strategies](../t/trading_strategies.md) typically invo
 
 ### Case Study 1: Numerai's Tournament Model
 
-Numerai operates a unique tournament model where data scientists from around the world submit predictive models based on disguised financial data. These models compete in a weekly tournament, and the most accurate predictions contribute to Numerai's [hedge fund strategies](../h/hedge_fund_strategies.md). Participants are rewarded in the form of Numeraire (NMR) tokens, which can be staked to earn additional rewards based on the model's performance.
+Numerai operates a unique tournament model where data scientists from around the world submit [predictive models](../p/predictive_models_in_trading.md) based on disguised financial data. These models compete in a weekly tournament, and the most accurate predictions contribute to Numerai's [hedge fund strategies](../h/hedge_fund_strategies.md). Participants are rewarded in the form of Numeraire (NMR) tokens, which can be staked to earn additional rewards based on the model's performance.
 
 ### Case Study 2: QuantConnect's Alpha Streams
 
@@ -60,15 +60,15 @@ Numerai operates a unique tournament model where data scientists from around the
 
 ## The Future of Crowdsourced Trading
 
-The landscape of financial trading is continuously evolving, and crowdsourced [trading strategies](../t/trading_strategies.md) are poised to play a significant role in the future. Advances in technology, such as artificial intelligence and blockchain, are likely to enhance the effectiveness and transparency of crowdsourcing platforms. Additionally, as more traders and investors recognize the benefits of collective intelligence, the adoption of crowdsourced strategies is expected to grow.
+The landscape of financial trading is continuously evolving, and crowdsourced [trading strategies](../t/trading_strategies.md) are poised to play a significant role in the future. Advances in technology, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [blockchain](../b/blockchain_in_trading.md), are likely to enhance the effectiveness and transparency of crowdsourcing platforms. Additionally, as more traders and investors recognize the benefits of collective intelligence, the adoption of crowdsourced strategies is expected to grow.
 
 ### Influences of AI and Machine Learning
 
-Artificial intelligence and machine learning are set to revolutionize the process of crowdsourced trading. These technologies can assist in the validation and optimization of submitted strategies, making it easier to identify promising algorithms and enhance their performance. Machine learning frameworks can also automate the [backtesting](../b/backtesting.md) process, providing more accurate and comprehensive evaluations of [trading strategies](../t/trading_strategies.md).
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning are set to revolutionize the process of crowdsourced trading. These technologies can assist in the validation and optimization of submitted strategies, making it easier to identify promising algorithms and enhance their performance. Machine learning frameworks can also automate the [backtesting](../b/backtesting.md) process, providing more accurate and comprehensive evaluations of [trading strategies](../t/trading_strategies.md).
 
 ### Blockchain and Smart Contracts
 
-Blockchain technology offers enhanced transparency and security for crowdsourcing platforms. Smart contracts can automate the distribution of rewards and ensure that contributors receive fair compensation based on their strategies' performance. This can help build trust within the community and encourage more participation.
+[Blockchain](../b/blockchain_in_trading.md) technology offers enhanced transparency and security for crowdsourcing platforms. [Smart contracts](../s/smart_contracts_in_trading.md) can automate the distribution of rewards and ensure that contributors receive fair compensation based on their strategies' performance. This can help build trust within the community and encourage more participation.
 
 ### Regulatory Considerations
 

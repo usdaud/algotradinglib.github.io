@@ -74,7 +74,7 @@ The [Bloomberg](../b/bloomberg.md) Terminal is a widely-used platform for financ
 [Official Website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### MATLAB
-MATLAB offers a robust environment for quantitative financial analysis. It includes specialized toolboxes for econometrics and financial time-series analysis, facilitating the implementation of yield [volatility models](../v/volatility_models.md) such as GARCH.
+MATLAB offers a robust environment for quantitative financial analysis. It includes specialized toolboxes for [econometrics](../e/econometrics_in_trading.md) and financial time-series analysis, facilitating the implementation of yield [volatility models](../v/volatility_models.md) such as GARCH.
 
 [Official Website](https://www.mathworks.com/products/matlab.html)
 

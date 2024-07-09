@@ -1,6 +1,6 @@
 # Extreme Value Theory (EVT)
 
-Extreme Value Theory (EVT) is a branch of statistics that deals with the extreme deviations from the median of probability distributions. It has gained considerable attention in the field of finance, particularly in [risk management](../r/risk_management.md) and [algorithmic trading](../a/algorithmic_trading.md). EVT focuses on the tail behavior of distributions and helps in understanding the probabilities of extreme events, such as market crashes or financial turmoils, which are often not explained adequately by traditional statistical methods.
+Extreme Value Theory (EVT) is a branch of statistics that deals with the extreme deviations from the median of [probability distributions](../p/probability_distributions_in_trading.md). It has gained considerable attention in the field of finance, particularly in [risk management](../r/risk_management.md) and [algorithmic trading](../a/algorithmic_trading.md). EVT focuses on the tail behavior of distributions and helps in understanding the probabilities of extreme events, such as market crashes or financial turmoils, which are often not explained adequately by traditional statistical methods.
 
 #### Basics of Extreme Value Theory
 
@@ -16,7 +16,7 @@ EVT is particularly useful for managing and understanding the [tail risk](../t/t
 
 1. **Value at Risk (VaR) and Conditional Value at Risk (CVaR)**: Traditionally, VaR and CVaR have been estimated using [historical simulation](../h/historical_simulation.md) or variance-covariance methods. EVT, particularly through the POT approach, offers a more robust estimation by focusing on extreme losses.
 
-2. **Stress Testing and Scenario Analysis**: EVT provides a framework for stress testing portfolios under extreme market conditions. This helps in assessing the potential impact of rare events and designing strategies to mitigate their effects.
+2. **[Stress Testing](../s/stress_testing_in_trading.md) and Scenario Analysis**: EVT provides a framework for [stress testing](../s/stress_testing_in_trading.md) portfolios under extreme market conditions. This helps in assessing the potential impact of rare events and designing strategies to mitigate their effects.
 
 3. **Algorithmic [Risk Management](../r/risk_management.md)**: By understanding the tail distribution of returns, algorithmic strategies can be designed to minimize exposure during periods of high volatility or extreme market movements.
 

@@ -12,7 +12,7 @@ The resulting figure is usually expressed as a percentage, indicating how many d
 
 ### Importance of ROA in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, involves the use of computer algorithms to execute [trading strategies](../t/trading_strategies.md). These algorithms are designed to analyze various financial indicators and make trading decisions with minimal human intervention. ROA is one such indicator that can offer insights into a company's operational efficiency and profitability. Here's why ROA is important in [algorithmic trading](../a/algorithmic_trading.md):
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, involves the use of computer algorithms to execute [trading strategies](../t/trading_strategies.md). These algorithms are designed to analyze various financial indicators and make trading decisions with minimal human intervention. ROA is one such indicator that can offer insights into a company's [operational efficiency](../o/operational_efficiency_in_trading.md) and profitability. Here's why ROA is important in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Indicator of Financial Health**: ROA helps in assessing a company’s financial health, which is critical for algorithms that rely on [fundamental analysis](../f/fundamental_analysis.md).
 2. **Performance Comparison**: ROA allows algorithms to compare the performance of companies within the same industry, making it easier to identify potential investment opportunities.
@@ -36,7 +36,7 @@ For example, if a company has a net income of $10 million and total assets worth
 Several factors can influence a company's ROA, and understanding these can help in making more informed trading decisions:
 
 1. **Asset Acquisition**: Companies that acquire high-performing assets may have a higher ROA.
-2. **Operational Efficiency**: Efficient management and operations can improve net income, thereby increasing ROA.
+2. **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**: Efficient management and operations can improve net income, thereby increasing ROA.
 3. **Leverage**: Companies with high levels of debt may have lower ROA due to higher interest expenses.
 4. **Industry Sector**: Different industry sectors have varying asset structures and profitability margins, impacting the typical ROA.
 

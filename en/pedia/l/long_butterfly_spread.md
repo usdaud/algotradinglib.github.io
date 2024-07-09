@@ -70,9 +70,9 @@ There are two breakeven points for a Long [Butterfly Spread](../b/butterfly_spre
 
 Several platforms and brokers provide the tools and education necessary for implementing Long Butterfly Spreads, including:
 
-- **Interactive Brokers (IBKR):** [Interactive Brokers](https://www.interactivebrokers.com/) offers a comprehensive options trading platform with detailed analytics and educational resources.
+- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR):** [Interactive Brokers](https://www.interactivebrokers.com/) offers a comprehensive options trading platform with detailed analytics and educational resources.
 - **TD [Ameritrade](../a/ameritrade.md):** [TD Ameritrade](https://www.tdameritrade.com/) provides [thinkorswim](../t/thinkorswim.md), a trading platform with advanced options analytics tools.
-- **E*TRADE:** [E*TRADE](https://us.etrade.com/home) allows for easy setup and execution of Butterfly Spreads with a user-friendly interface.
+- **[E*TRADE](../e/e_trade.md):** [E*TRADE](https://us.etrade.com/home) allows for easy setup and execution of Butterfly Spreads with a user-friendly interface.
 
 ## Conclusion
 

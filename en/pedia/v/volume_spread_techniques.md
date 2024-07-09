@@ -71,11 +71,11 @@ TradeGuider (www.tradeguider.com) provides a suite of tools for implementing Vol
 [TradingView](../t/tradingview.md) (www.[tradingview](../t/tradingview.md).com) features a range of VSA-based indicators and scripts developed by the community, allowing customization and integration into your trading strategy.
 
 ### MetaStock
-MetaStock (www.metastock.com) offers plugins and systems designed around VSA concepts, providing [backtesting](../b/backtesting.md), screening, and real-time advice based on volume spread techniques.
+[MetaStock](../m/metastock.md) (www.[metastock](../m/metastock.md).com) offers plugins and systems designed around VSA concepts, providing [backtesting](../b/backtesting.md), screening, and real-time advice based on volume spread techniques.
 
 ### Sierra Chart
-Sierra Chart (www.sierrachart.com) is another platform that supports various VSA indicators and tools, enabling traders to analyze volume and price spreads efficiently.
+[Sierra Chart](../s/sierra_chart.md) (www.sierrachart.com) is another platform that supports various VSA indicators and tools, enabling traders to analyze volume and price spreads efficiently.
 
 ## Conclusion
 
-Volume Spread Techniques provide a nuanced way to analyze market movements, particularly looking for the footprints of smart money. By examining the relationships between volume and price spreads, traders can infer the underlying strength or weakness in a market, identify potential reversals, and better manage their trades. Platforms like TradeGuider, [TradingView](../t/tradingview.md), MetaStock, and Sierra Chart offer sophisticated tools to apply these techniques in real-time trading.
+Volume Spread Techniques provide a nuanced way to analyze market movements, particularly looking for the footprints of smart money. By examining the relationships between volume and price spreads, traders can infer the underlying strength or weakness in a market, identify potential reversals, and better manage their trades. Platforms like TradeGuider, [TradingView](../t/tradingview.md), [MetaStock](../m/metastock.md), and [Sierra Chart](../s/sierra_chart.md) offer sophisticated tools to apply these techniques in real-time trading.

@@ -11,7 +11,7 @@ Non-financial market data encompasses a broad range of data sources that are not
 Social media platforms like Twitter, Facebook, and LinkedIn generate massive amounts of data every day. This data can be analyzed to gauge public sentiment, trends, and potential market-moving events. Firms like Dataminr (https://www.dataminr.com) specialize in providing real-time information from social media that can affect market prices.
 
 ### News Articles and Sentiment Analysis
-News articles and media reports are essential sources of information. Algorithms can be designed to analyze the sentiment of news stories using natural language processing (NLP) techniques to determine whether the news is positive or negative and how it might impact specific stocks or sectors. A company like [RavenPack](../r/ravenpack.md) (https://www.[ravenpack](../r/ravenpack.md).com) offers analytics services that process news data for trading purposes.
+News articles and media reports are essential sources of information. Algorithms can be designed to analyze the sentiment of news stories using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques to determine whether the news is positive or negative and how it might impact specific stocks or sectors. A company like [RavenPack](../r/ravenpack.md) (https://www.[ravenpack](../r/ravenpack.md).com) offers analytics services that process news data for trading purposes.
 
 ### Weather Data
 Weather conditions can have significant impacts on various industries such as agriculture, energy, and retail. Weather data can be used in [trading strategies](../t/trading_strategies.md) to predict supply chain disruptions, commodity price changes, and more. Companies like The Weather Company, an IBM Business (https://business.weather.com), provide detailed and precise weather data for this purpose.
@@ -23,7 +23,7 @@ While some [economic indicators](../e/economic_indicators.md) like interest rate
 Events such as elections, legislative changes, and international conflicts can have a profound impact on financial markets. Data on these events can be fed into algorithms to predict market reactions. Firms like Stratfor (https://worldview.stratfor.com) provide geopolitical intelligence that can be integrated into [trading models](../t/trading_models.md).
 
 ### Satellite Imagery
-Advances in satellite technology have made it possible to collect data on a range of factors, from agricultural yields to retail traffic. Companies like Orbital Insight (https://orbitalinsight.com) use machine learning algorithms to analyze satellite imagery and provide actionable insights that can be used in [trading strategies](../t/trading_strategies.md).
+Advances in satellite technology have made it possible to collect data on a range of factors, from agricultural yields to retail traffic. Companies like Orbital Insight (https://orbitalinsight.com) use machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze satellite imagery and provide actionable insights that can be used in [trading strategies](../t/trading_strategies.md).
 
 ### Corporate Announcements and M&A Activity
 Algorithms can be designed to process and react to corporate announcements such as earnings reports, product launches, and mergers and acquisitions (M&A). This data often moves stock prices and can be critical for [short-term trading](../s/short-term_trading.md) strategies.
@@ -46,7 +46,7 @@ With enriched and pre-processed data, the next step is to train machine learning
 For algo-trading, real-time processing capabilities are crucial. This involves setting up pipelines and infrastructures that can ingest, process, and react to data in real-time. Technologies like Apache Kafka and Apache Flink are often used for real-time data processing.
 
 ### Backtesting and Simulation
-Before deploying an algorithm in live markets, it is essential to backtest it against historical data to assess its performance. Simulation environments can also be used to evaluate how the algorithm would perform under different market conditions.
+Before deploying an algorithm in live markets, it is essential to backtest it against historical data to assess its performance. [Simulation](../s/simulation_in_trading.md) environments can also be used to evaluate how the algorithm would perform under different market conditions.
 
 ### Deployment
 Once the algorithm has been tested thoroughly, it can be deployed in a live [trading environment](../t/trading_environment.md). Continuous monitoring and tweaking are necessary to ensure that the algorithm adapts to changing market conditions.
@@ -79,7 +79,7 @@ Firms like Predictive Markets have created algorithms that integrate geopolitica
 ## Future Trends
 
 ### Increased Use of AI and Machine Learning
-Advancements in artificial intelligence (AI) and machine learning are likely to further enhance the ability to process and analyze non-financial market data. Deep learning models, in particular, hold promise for uncovering complex patterns and relationships in unstructured data.
+Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are likely to further enhance the ability to process and analyze non-financial market data. Deep learning models, in particular, hold promise for uncovering complex patterns and relationships in unstructured data.
 
 ### Greater Integration of Diverse Data Sources
 As more [non-traditional data sources](../n/non-traditional_data_sources.md) become available, there will likely be increased efforts to integrate these diverse datasets. This could improve the accuracy and robustness of [trading algorithms](../t/trading_algorithms.md).

@@ -43,7 +43,7 @@ Statistical [Arbitrage](../a/arbitrage.md), often known as StatArb, involves the
 
 ### 4. Machine Learning-Based Strategies
 
-These strategies utilize machine learning and artificial intelligence to make trading decisions. The algorithms ingest vast amounts of data to detect patterns and make predictions.
+These strategies utilize machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to make trading decisions. The algorithms ingest vast amounts of data to detect patterns and make predictions.
 
 - **Characteristics**:
   - Adaptive self-learning models
@@ -72,7 +72,7 @@ Cross-Asset [Arbitrage](../a/arbitrage.md) involves the simultaneous purchase an
 The backbone of any X-Speculation strategy is data. It involves collecting various types of data, including historical prices, financial statements, [economic indicators](../e/economic_indicators.md), and even [social media sentiment](../s/social_media_sentiment.md).
 
 - **Technologies Used**:
-  - Big Data platforms like Hadoop
+  - [Big Data](../b/big_data_in_trading.md) platforms like Hadoop
   - Real-time data processing with Apache Kafka
   - Cloud services for storage and computing
 
@@ -82,11 +82,11 @@ Developing the algorithms that make trading decisions is critical. This typicall
 
 - Statistical modeling
 - Machine learning
-- Signal processing
+- [Signal processing](../s/signal_processing_in_trading.md)
 
 ### 3. Backtesting and Simulation
 
-Before deploying any strategy, thorough [backtesting](../b/backtesting.md) on historical data is essential to assess its viability and risk. Simulation platforms help in stress testing the algorithms.
+Before deploying any strategy, thorough [backtesting](../b/backtesting.md) on historical data is essential to assess its viability and risk. [Simulation](../s/simulation_in_trading.md) platforms help in [stress testing](../s/stress_testing_in_trading.md) the algorithms.
 
 - **Tools Used**:
   - Python libraries such as Pandas, NumPy
@@ -95,7 +95,7 @@ Before deploying any strategy, thorough [backtesting](../b/backtesting.md) on hi
 
 ### 4. Execution
 
-Effective execution minimizes slippage and transaction costs. Advanced order types, smart [order routing](../o/order_routing.md), and direct market access are crucial components.
+Effective execution minimizes slippage and transaction costs. Advanced [order types](../o/order_types_in_trading.md), smart [order routing](../o/order_routing.md), and direct market access are crucial components.
 
 - **Technologies Used**:
   - FIX protocol for electronic trading
@@ -122,4 +122,4 @@ Continuous monitoring and reevaluation of models and algorithms ensure alignment
 
 ## Conclusion
 
-X-Speculation strategies represent the pinnacle of [quantitative trading](../q/quantitative_trading.md), leveraging advanced technologies and mathematical models to capture market inefficiencies. These strategies are inherently complex, requiring substantial expertise in financial markets, data science, and algorithm development. However, when executed effectively, they can yield substantial returns while mitigating risk. The continuous evolution in technology and data analytics will undoubtedly lead to further advancements and refinements in these strategies.
+X-Speculation strategies represent the pinnacle of [quantitative trading](../q/quantitative_trading.md), leveraging advanced technologies and [mathematical models](../m/mathematical_models_in_trading.md) to capture market inefficiencies. These strategies are inherently complex, requiring substantial expertise in financial markets, [data science](../d/data_science_in_trading.md), and algorithm development. However, when executed effectively, they can yield substantial returns while mitigating risk. The continuous evolution in technology and data analytics will undoubtedly lead to further advancements and refinements in these strategies.

@@ -90,13 +90,13 @@ The zero-sum nature of certain financial markets necessitates sophisticated stra
 #### Features
 
 - **Statistical Analysis**: Employs statistical techniques to identify deviations from the mean.
-- **Reversion Indicators**: Uses indicators like z-scores and standard deviation bands.
+- **Reversion Indicators**: Uses indicators like [z-scores](../z/z-scores_in_trading.md) and standard deviation bands.
 - **Trigger Mechanisms**: Trades are initiated when prices deviate by a certain threshold from the historical mean.
 
 #### Example Algorithms
 
 - **[Z-Score Trading](../z/z-score_trading.md)**: Buys or sells assets when their price z-score, a measure of deviation from the mean, crosses certain thresholds.
-- **Kalman Filter**: Utilizes the Kalman filter to predict and smooth price series, taking positions based on the filtered signals.
+- **[Kalman Filter](../k/kalman_filter_in_trading.md)**: Utilizes the [Kalman filter](../k/kalman_filter_in_trading.md) to predict and smooth price series, taking positions based on the filtered signals.
 
 ## Risk Management in Zero-Sum Market Strategies
 

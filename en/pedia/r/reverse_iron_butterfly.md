@@ -73,7 +73,7 @@ The maximum loss is confined to the initial debit paid, providing a clear and de
 
 ### Beneficial in Volatile Markets
 
-Given its positive Vega, the Reverse [Iron Butterfly](../i/iron_butterfly.md) gains from rising volatility, making it ideal during times of market uncertainty or anticipated significant price swings.
+Given its positive Vega, the Reverse [Iron Butterfly](../i/iron_butterfly.md) gains from rising volatility, making it ideal during times of market [uncertainty](../u/uncertainty_in_trading.md) or anticipated significant price swings.
 
 ## Risks and Considerations
 

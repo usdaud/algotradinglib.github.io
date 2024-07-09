@@ -18,7 +18,7 @@ There are several types of latent variable models that are commonly used in [alg
 
 4. **Structural Equation Models (SEMs)**: SEMs combine [factor analysis](../f/factor_analysis.md) and multiple regression models, allowing for the modeling of complex relationships between observed and latent variables.
 
-5. **[Latent Dirichlet Allocation](../l/latent_dirichlet_allocation.md) (LDA)**: Originally developed for natural language processing, LDA is used to discover latent topics within a set of documents. In finance, LDA can be applied to identify latent topics or themes within news articles, research reports, or social media data that may impact market behavior.
+5. **[Latent Dirichlet Allocation](../l/latent_dirichlet_allocation.md) (LDA)**: Originally developed for [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), LDA is used to discover latent topics within a set of documents. In finance, LDA can be applied to identify latent topics or themes within news articles, research reports, or social media data that may impact market behavior.
 
 # Applications in Algorithmic Trading
 
@@ -26,7 +26,7 @@ Latent variable models have numerous applications in [algorithmic trading](../a/
 
 ## Risk Management
 
-[Factor models](../f/factor_models.md) are frequently used in [risk management](../r/risk_management.md) to assess the sensitivity of portfolio returns to various risk factors. By identifying latent factors that drive asset prices, traders can better understand the sources of risk and construct portfolios that are more resilient to adverse market conditions.
+[Factor models](../f/factor_models.md) are frequently used in [risk management](../r/risk_management.md) to assess the sensitivity of portfolio returns to various [risk factors](../r/risk_factors_in_trading.md). By identifying latent factors that drive asset prices, traders can better understand the sources of risk and construct portfolios that are more resilient to adverse market conditions.
 
 ## Market Prediction
 

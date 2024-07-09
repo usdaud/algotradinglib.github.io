@@ -38,7 +38,7 @@ High-frequency trading firms utilize advanced algorithms and high-speed networks
 
 ### News-Based Trading Algorithms
 
-News-based [trading algorithms](../t/trading_algorithms.md) analyze textual data from news articles, earning reports, and other sources to make trading decisions. Natural Language Processing (NLP) techniques enable these algorithms to parse sentiment and key information from text, quickly reacting to market-relevant events.
+News-based [trading algorithms](../t/trading_algorithms.md) analyze textual data from news articles, earning reports, and other sources to make trading decisions. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques enable these algorithms to parse sentiment and key information from text, quickly reacting to market-relevant events.
 
 ### Event-Driven Strategies
 
@@ -60,7 +60,7 @@ The sheer volume of information available can be overwhelming. Effective filteri
 
 ### Latency and Timing
 
-In [algorithmic trading](../a/algorithmic_trading.md), even millisecond delays can be costly. Minimizing latency in information processing is critical for maintaining a competitive edge. Ensuring that information is received and acted upon in the shortest possible time frame requires investment in high-speed data transmission and processing infrastructure.
+In [algorithmic trading](../a/algorithmic_trading.md), even millisecond delays can be costly. Minimizing latency in [information processing](../i/information_processing_in_trading.md) is critical for maintaining a competitive edge. Ensuring that information is received and acted upon in the shortest possible time frame requires investment in high-speed data transmission and processing infrastructure.
 
 ### Regulatory Compliance
 

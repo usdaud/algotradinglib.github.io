@@ -68,7 +68,7 @@ Understanding [market cycles](../m/market_cycles.md) also aids in effective [ris
 
 ### Machine Learning and Predictive Analytics
 
-Advanced techniques such as machine learning and [predictive analytics](../p/predictive_analytics.md) can further enhance the identification and analysis of [market cycles](../m/market_cycles.md). By training models on historical data, these systems can recognize complex patterns and provide more accurate predictions of future market phases. Machine learning algorithms can adapt to evolving market conditions, offering a dynamic and responsive approach to trading based on [market cycles](../m/market_cycles.md).
+Advanced techniques such as machine learning and [predictive analytics](../p/predictive_analytics.md) can further enhance the identification and analysis of [market cycles](../m/market_cycles.md). By training models on historical data, these systems can recognize complex patterns and provide more accurate predictions of future market phases. Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can adapt to evolving market conditions, offering a dynamic and responsive approach to trading based on [market cycles](../m/market_cycles.md).
 
 ## Conclusion
 

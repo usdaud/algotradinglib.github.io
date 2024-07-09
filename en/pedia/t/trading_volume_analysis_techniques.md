@@ -93,7 +93,7 @@ Developing an algorithmic strategy based on trading volume, including [backtesti
 ## 6. Challenges and Considerations
 
 ### 6.1 False Signals
-[Volume indicators](../v/volume_indicators.md) can sometimes produce false signals, leading to unprofitable trading decisions. It's crucial to corroborate [volume analysis](../v/volume_analysis.md) with other technical and fundamental analyses.
+[Volume indicators](../v/volume_indicators.md) can sometimes produce [false signals](../f/false_signals_in_trading.md), leading to unprofitable trading decisions. It's crucial to corroborate [volume analysis](../v/volume_analysis.md) with other technical and fundamental analyses.
 
 ### 6.2 Market Conditions
 Different market conditions, such as high volatility or low liquidity periods, can affect the accuracy and reliability of [volume analysis](../v/volume_analysis.md) techniques. Traders need to account for these variations in their analysis.

@@ -41,11 +41,11 @@ where \( x_1, x_2, ..., x_n \) are the multiple predictors.
 
 Multiple [linear regression](../l/linear_regression.md) is beneficial in:
 1. **[Factor Investing](../f/factor_investing.md)**: Incorporating multiple [economic indicators](../e/economic_indicators.md) and company fundamentals to predict stock returns.
-2. **Market Risk Models (CAPM, Fama-French)**: Using factors like market return, size, and value to explain asset returns.
+2. **Market [Risk Models](../r/risk_models_in_trading.md) (CAPM, Fama-French)**: Using factors like market return, size, and value to explain asset returns.
 3. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Assessing the impact of various factors on portfolio returns and optimizing [asset allocation](../a/asset_allocation.md).
 
 **Example**:
-A trader might use multiple factors such as GDP growth rates, interest rates, and industry-specific indices to predict stock returns:
+A trader might use multiple factors such as GDP [growth rates](../g/growth_rates_in_trading.md), interest rates, and industry-specific indices to predict stock returns:
 
 \[ \text{Price\_Tomorrow} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{Interest\_Rate} + \beta_3 \cdot \text{Industry\_Index} + \epsilon \]
 
@@ -60,7 +60,7 @@ The general form of an AR model of order \( p \) (AR(p)) is:
 where:
 - \( y_t \) is the value of the series at time \( t \),
 - \( \phi_1, \phi_2, ..., \phi_p \) are the parameters (coefficients),
-- \( \epsilon_t \) is white noise error term,
+- \( \epsilon_t \) is [white noise](../w/white_noise_in_trading.md) error term,
 - \( p \) is the order of the autoregressive model.
 
 ### Application in Trading
@@ -113,7 +113,7 @@ z_{t-1}
 
 ## Ridge Regression
 
-**Ridge regression** or **Tikhonov regularization** is a technique used to address multicollinearity in [linear regression](../l/linear_regression.md). It introduces a penalty term to the loss function used to estimate the regression coefficients, preventing overfitting by shrinking coefficients towards zero.
+**Ridge regression** or **Tikhonov regularization** is a technique used to address [multicollinearity](../m/multicollinearity_in_trading.md) in [linear regression](../l/linear_regression.md). It introduces a penalty term to the loss function used to estimate the regression coefficients, preventing overfitting by shrinking coefficients towards zero.
 
 The ridge regression modifies the loss function in [linear regression](../l/linear_regression.md) to:
 
@@ -127,7 +127,7 @@ where:
 ### Application in Trading
 
 Ridge regression is useful when:
-1. **Handling Multicollinearity**: When independent variables are highly correlated, ridge regression stabilizes the estimates.
+1. **Handling [Multicollinearity](../m/multicollinearity_in_trading.md)**: When independent variables are highly correlated, ridge regression stabilizes the estimates.
 2. **High-dimensional Data**: When the number of predictors is large.
 
 **Example**:
@@ -168,7 +168,7 @@ The elastic net loss function is:
 
 Elastic Net is optimal when:
 1. **High-dimensional Data**: Managing datasets with a large number of predictors.
-2. **Handling Correlated Predictors**: Combining the strengths of lasso and ridge regression to handle multicollinearity and select variables.
+2. **Handling Correlated Predictors**: Combining the strengths of lasso and ridge regression to handle [multicollinearity](../m/multicollinearity_in_trading.md) and select variables.
 
 **Example**:
 [Predictive modeling](../p/predictive_modeling.md) for stocks with numerous [technical indicators](../t/technical_indicators.md), combining the strengths of ridge and lasso:

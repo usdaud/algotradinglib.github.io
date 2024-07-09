@@ -31,13 +31,13 @@ Cumulative Delta is the difference between the volume of buy market orders and s
 
 ### Tools and Software for Order Flow Analysis
 
-Several specialized tools and software platforms assist traders in conducting [order flow analysis](../o/order_flow_analysis.md), providing visualizations and detailed metrics to understand market dynamics. Some of these include:
+Several specialized tools and [software platforms](../s/software_platforms_for_trading.md) assist traders in conducting [order flow analysis](../o/order_flow_analysis.md), providing visualizations and detailed metrics to understand market dynamics. Some of these include:
 
 ##### Jigsaw Trading
 [Jigsaw Trading](https://www.jigsawtrading.com/) offers a comprehensive suite of tools focused on [order flow analysis](../o/order_flow_analysis.md). Their platform provides intuitive displays of market depth, trade volume, and order flow to help traders make informed decisions.
 
 ##### Bookmap
-[Bookmap](https://www.bookmap.com/) is a powerful order flow visualization platform that helps traders see the market liquidity and identify significant buying and selling activities. The software provides detailed heatmaps and volume dots, representing the bid and ask prices over time.
+[Bookmap](https://www.bookmap.com/) is a powerful order flow visualization platform that helps traders see the market liquidity and identify significant buying and selling activities. The software provides detailed [heatmaps](../h/heatmaps_in_trading.md) and volume dots, representing the bid and ask prices over time.
 
 ##### Sierra Chart
 [Sierra Chart](https://www.sierrachart.com/) is a professional trading platform that supports [order flow analysis](../o/order_flow_analysis.md) with various charting tools and integrations for different data feeds. It offers customizable charts and real-time data to support detailed market analysis.

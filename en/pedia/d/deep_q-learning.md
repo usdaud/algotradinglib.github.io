@@ -1,6 +1,6 @@
 # Deep Q-Learning
 
-Deep Q-Learning is an advanced reinforcement learning (RL) algorithm that combines Q-Learning with deep neural networks. It has been pivotal in solving complex decision-making problems and has been employed in various applications ranging from game playing to trading in financial markets. Below I delve into the various components, mechanisms, advantages, and practical applications of Deep Q-Learning.
+Deep Q-Learning is an advanced reinforcement learning (RL) algorithm that combines Q-Learning with deep [neural networks](../n/neural_networks_in_trading.md). It has been pivotal in solving complex decision-making problems and has been employed in various applications ranging from game playing to trading in financial markets. Below I delve into the various components, mechanisms, advantages, and practical applications of Deep Q-Learning.
 
 ## Introduction to Reinforcement Learning
 

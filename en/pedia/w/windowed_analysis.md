@@ -1,6 +1,6 @@
 # Windowed Analysis
 
-Windowed analysis, often referred to as rolling analysis or moving window analysis, is a statistical technique used extensively in [algorithmic trading](../a/algorithmic_trading.md) to help traders evaluate and adapt their strategies over time. It involves applying a calculation or analysis over a specific subset—or "window"—of data that moves or rolls through time. This method is particularly valuable in trading because it allows for dynamic adaptation to changing market conditions, ensuring that [trading models](../t/trading_models.md) remain relevant and effective.
+Windowed analysis, often referred to as rolling analysis or moving [window analysis](../w/window_analysis_in_trading.md), is a statistical technique used extensively in [algorithmic trading](../a/algorithmic_trading.md) to help traders evaluate and adapt their strategies over time. It involves applying a calculation or analysis over a specific subset—or "window"—of data that moves or rolls through time. This method is particularly valuable in trading because it allows for dynamic adaptation to changing market conditions, ensuring that [trading models](../t/trading_models.md) remain relevant and effective.
 
 ## Key Concepts of Windowed Analysis
 

@@ -12,11 +12,11 @@ From a [risk management](../r/risk_management.md) perspective, it's essential to
 
 ### Active vs. Passive Management
 
-Active managers seek to outperform the market through diligent research, [market timing](../m/market_timing.md), and stock selection, taking positions that they believe will capture more upside potential. On the other hand, passive managers may focus on tracking a benchmark index. In periods of strong market performance, active managers can significantly differentiate themselves by successfully navigating upside risks, whereas passive strategies will only capture market-level gains.
+Active managers seek to outperform the market through diligent research, [market timing](../m/market_timing.md), and stock selection, taking positions that they believe will capture more [upside potential](../u/upside_potential_in_trading.md). On the other hand, passive managers may focus on tracking a benchmark index. In periods of strong market performance, active managers can significantly differentiate themselves by successfully navigating upside risks, whereas passive strategies will only capture market-level gains.
 
 ### Behavioral Finance
 
-Investor behavior also plays a critical role in how upside market risk is perceived and managed. [Behavioral finance](../b/behavioral_finance.md) studies how psychological factors influence investor decisions. Concepts such as [loss aversion](../l/loss_aversion.md) and the disposition effect (the tendency to sell winning investments too early and hold onto losing ones) can impact how well investors capture upside potential.
+Investor behavior also plays a critical role in how upside market risk is perceived and managed. [Behavioral finance](../b/behavioral_finance.md) studies how psychological factors influence investor decisions. Concepts such as [loss aversion](../l/loss_aversion.md) and the disposition effect (the tendency to sell winning investments too early and hold onto losing ones) can impact how well investors capture [upside potential](../u/upside_potential_in_trading.md).
 
 ## Mathematical and Statistical Models
 
@@ -30,7 +30,7 @@ Investor behavior also plays a critical role in how upside market risk is percei
 
 ### Portfolio Management
 
-Investment portfolios are often structured to balance upside potential with downside protection. Portfolio managers use various techniques, including diversification, [asset allocation](../a/asset_allocation.md), and hedge strategies to optimize the trade-off between capturing market gains and managing risk.
+Investment portfolios are often structured to balance [upside potential](../u/upside_potential_in_trading.md) with downside protection. Portfolio managers use various techniques, including diversification, [asset allocation](../a/asset_allocation.md), and hedge strategies to optimize the trade-off between capturing market gains and managing risk.
 
 ### Hedging Strategies
 
@@ -38,7 +38,7 @@ Options and other derivative instruments can be used to hedge upside risks. For 
 
 ### Quants and Algorithmic Trading
 
-Quantitative analysts (quants) and [algorithmic trading](../a/algorithmic_trading.md) strategies heavily rely on mathematical models to identify and capitalize on upside risks. Advanced statistical methods, machine learning algorithms, and high-frequency [trading systems](../t/trading_systems.md) are employed to detect market inefficiencies and to optimize [trading strategies](../t/trading_strategies.md).
+Quantitative analysts (quants) and [algorithmic trading](../a/algorithmic_trading.md) strategies heavily rely on [mathematical models](../m/mathematical_models_in_trading.md) to identify and capitalize on upside risks. Advanced statistical methods, machine [learning algorithms](../l/learning_algorithms_in_trading.md), and high-frequency [trading systems](../t/trading_systems.md) are employed to detect market inefficiencies and to optimize [trading strategies](../t/trading_strategies.md).
 
 ### Investment Products
 
@@ -56,7 +56,7 @@ AQR Capital Management employs a disciplined, systematic approach to investing, 
 
 ### Two Sigma Investments
 
-Two Sigma Investments focuses on data-driven strategies to capture upside market risks. Utilizing big data, machine learning, and advanced technologies, Two Sigma's investment algorithms seek to uncover unique patterns and opportunities in the financial markets. More information is available on their [website](https://www.twosigma.com).
+Two Sigma Investments focuses on data-driven strategies to capture upside market risks. Utilizing [big data](../b/big_data_in_trading.md), machine learning, and advanced technologies, Two Sigma's investment algorithms seek to uncover unique patterns and opportunities in the financial markets. More information is available on their [website](https://www.twosigma.com).
 
 ---
 

@@ -42,7 +42,7 @@ Several platforms and tools enable the use of leading indicators in [algorithmic
 - **MetaTrader 4/5:** Popular trading software offering a range of [technical indicators](../t/technical_indicators.md) that can be used for algorithm development.
 - **[QuantConnect](../q/quantconnect.md):** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform providing access to data, [backtesting](../b/backtesting.md), and deployment. (https://www.[quantconnect](../q/quantconnect.md).com/)
 - **[TradingView](../t/tradingview.md):** A charting platform offering a variety of built-in indicators and scripts that can be used in [algorithmic trading](../a/algorithmic_trading.md). (https://www.[tradingview](../t/tradingview.md).com/)
-- **Algorithm Lab by Interactive Brokers:** A tool that allows users to create, test, and implement [trading algorithms](../t/trading_algorithms.md) using various indicators. (https://www.interactivebrokers.com/en/index.php?f=2078)
+- **Algorithm Lab by [Interactive Brokers](../i/interactive_brokers.md):** A tool that allows users to create, test, and implement [trading algorithms](../t/trading_algorithms.md) using various indicators. (https://www.interactivebrokers.com/en/index.php?f=2078)
 
 ## Future Trends
 
@@ -50,10 +50,10 @@ Several platforms and tools enable the use of leading indicators in [algorithmic
    With advancements in machine learning and AI, the predictive power of leading indicators can be significantly enhanced. AI systems can analyze vast amounts of data to identify patterns that traditional methods might miss.
 
 ### 2. **Integration with Big Data:**
-   The integration of big data analytics allows for more accurate predictions. Algorithms can analyze [social media sentiment](../s/social_media_sentiment.md), news reports, and other unconventional data sources to gain additional insights.
+   The integration of [big data analytics](../b/big_data_analytics_in_trading.md) allows for more accurate predictions. Algorithms can analyze [social media sentiment](../s/social_media_sentiment.md), news reports, and other unconventional data sources to gain additional insights.
 
 ### 3. **Advanced Computational Techniques:**
-   Techniques like quantum computing could revolutionize the use of leading indicators in [algorithmic trading](../a/algorithmic_trading.md) by performing complex calculations at unprecedented speeds.
+   Techniques like [quantum computing](../q/quantum_computing_in_trading.md) could revolutionize the use of leading indicators in [algorithmic trading](../a/algorithmic_trading.md) by performing complex calculations at unprecedented speeds.
 
 ## Conclusion
 

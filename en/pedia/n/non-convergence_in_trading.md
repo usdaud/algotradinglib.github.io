@@ -10,7 +10,7 @@ Non-convergence frequently occurs due to algorithmic traps, where an algorithm m
 
 #### Example: Machine Learning Models
 
-In machine learning, models like neural networks or support vector machines might show excellent [backtesting](../b/backtesting.md) results but diverge significantly in live trading. This divergence highlights the non-stationary nature of financial markets, where past patterns do not always predict future outcomes.
+In machine learning, models like [neural networks](../n/neural_networks_in_trading.md) or [support vector machines](../s/support_vector_machines_in_trading.md) might show excellent [backtesting](../b/backtesting.md) results but diverge significantly in live trading. This divergence highlights the non-stationary nature of financial markets, where past patterns do not always predict future outcomes.
 
 ### 2. Market Microstructure Noise
 
@@ -26,7 +26,7 @@ Financial models often rely on parameters estimated from historical data. Howeve
 
 #### Example: GARCH Models
 
-Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models are used to forecast volatility. These models might show non-convergence if the underlying volatility regime shifts, rendering the historical parameters obsolete.
+Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models are used to forecast volatility. These models might show non-convergence if the underlying volatility [regime shifts](../r/regime_shifts_in_trading.md), rendering the historical parameters obsolete.
 
 ### 4. High-Frequency Trading Challenges
 
@@ -46,7 +46,7 @@ The implementation of the Dodd-Frank Act introduced significant changes to [deri
 
 ### 6. Behavioral Factors
 
-Human behavior, particularly under stress or during significant events like market crashes, can be another cause of non-convergence. Herd behavior, panic selling, and irrational exuberance can all lead to market conditions that invalidate even the most robust [trading models](../t/trading_models.md).
+Human behavior, particularly under stress or during significant events like market crashes, can be another cause of non-convergence. [Herd behavior](../h/herd_behavior_in_trading.md), panic selling, and irrational exuberance can all lead to market conditions that invalidate even the most robust [trading models](../t/trading_models.md).
 
 #### Flash Crashes
 

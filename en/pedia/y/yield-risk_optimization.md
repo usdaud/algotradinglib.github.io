@@ -10,7 +10,7 @@ Yield-Risk Optimization (YRO) in [algorithmic trading](../a/algorithmic_trading.
 
 ### 2. Risk
 
-**Risk** represents the uncertainty or variability of returns associated with a trading strategy. In financial terms, risk is often quantified through metrics such as standard deviation, Value at Risk (VaR), and volatility. Understanding and measuring risk is crucial for assessing the potential downsides of trades and ensuring they fit within the trader's risk tolerance.
+**Risk** represents the [uncertainty](../u/uncertainty_in_trading.md) or variability of returns associated with a trading strategy. In financial terms, risk is often quantified through metrics such as standard deviation, Value at Risk (VaR), and volatility. Understanding and measuring risk is crucial for assessing the potential downsides of trades and ensuring they fit within the trader's risk tolerance.
 
 ### 3. Risk-Adjusted Return
 
@@ -25,7 +25,7 @@ Modern Portfolio Theory (MPT), introduced by Harry Markowitz in 1952, plays a fu
 
 ### 5. Algorithmic Techniques
 
-[Algorithmic trading](../a/algorithmic_trading.md) strategies can range from simple moving averages to complex machine learning algorithms. Key techniques and strategies include:
+[Algorithmic trading](../a/algorithmic_trading.md) strategies can range from simple moving averages to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md). Key techniques and strategies include:
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Exploits pricing inefficiencies between correlated securities.
 - **[Momentum Trading](../m/momentum_trading.md)**: Capitalizes on trends in price movements.
 - **[Mean Reversion](../m/mean_reversion.md)**: Assumes that asset prices will revert to their historical means.
@@ -34,9 +34,9 @@ Modern Portfolio Theory (MPT), introduced by Harry Markowitz in 1952, plays a fu
 ### 6. Optimization Algorithms
 
 Yield-risk optimization often involves solving complex mathematical problems. Common optimization algorithms include:
-- **Linear Programming**: Used for problems where the objective function and constraints are linear.
+- **[Linear Programming](../l/linear_programming_in_trading.md)**: Used for problems where the objective function and constraints are linear.
 - **Quadratic Programming**: Suitable for problems with a quadratic objective function and linear constraints.
-- **Genetic Algorithms**: Mimic natural evolution processes to find optimal solutions.
+- **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md)**: Mimic natural evolution processes to find optimal solutions.
 - **[Simulated Annealing](../s/simulated_annealing.md)**: A probabilistic technique used to approximate the global optimum of a given function.
 
 ### 7. Tools and Platforms

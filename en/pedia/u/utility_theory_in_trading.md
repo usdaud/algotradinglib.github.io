@@ -1,6 +1,6 @@
 # Utility Theory
 
-Utility theory is a critical concept in trading and financial decision-making. It originates from the field of economics and helps to understand how investors and traders make choices based on their preferences for certain types of outcomes or levels of wealth. The theory attempts to quantify the satisfaction or utility that an individual derives from a particular decision, enabling the analysis of behavior under uncertainty.
+Utility theory is a critical concept in trading and financial decision-making. It originates from the field of economics and helps to understand how investors and traders make choices based on their preferences for certain types of outcomes or levels of wealth. The theory attempts to quantify the satisfaction or utility that an individual derives from a particular decision, enabling the analysis of behavior under [uncertainty](../u/uncertainty_in_trading.md).
 
 ### 1. Introduction to Utility Theory
 
@@ -10,7 +10,7 @@ Utility theory is foundational to modern economic and finance theory, particular
 
 #### 2.1. Utility Function
 
-A utility function represents the preferences of an individual or entity over a set of goods, services, or outcomes. It assigns a numerical value to each potential outcome, reflecting the level of satisfaction or utility derived from that outcome. In trading, utility functions help model how traders value different possible returns on their investments, accounting for risk tolerance and other preferences.
+A utility function represents the preferences of an individual or entity over a set of goods, services, or outcomes. It assigns a numerical value to each potential outcome, reflecting the level of satisfaction or utility derived from that outcome. In trading, [utility functions](../u/utility_functions_in_trading.md) help model how traders value different possible returns on their investments, accounting for risk tolerance and other preferences.
 
 #### 2.2. Expected Utility
 
@@ -18,11 +18,11 @@ The expected utility is the sum of utilities associated with all possible outcom
 
 #### 2.3. Risk Aversion
 
-Risk aversion describes the tendency of individuals to prefer certain outcomes over uncertain ones, even if the uncertain outcomes have a higher expected return. In utility theory, risk-averse individuals have concave utility functions, meaning their marginal utility decreases as wealth increases. This concept is crucial in understanding how traders allocate their portfolios between risky and risk-free assets.
+Risk aversion describes the tendency of individuals to prefer certain outcomes over uncertain ones, even if the uncertain outcomes have a higher expected return. In utility theory, risk-averse individuals have concave [utility functions](../u/utility_functions_in_trading.md), meaning their marginal utility decreases as wealth increases. This concept is crucial in understanding how traders allocate their portfolios between risky and risk-free assets.
 
 ### 3. Application of Utility Theory in Trading
 
-Utility theory is applied in various ways in the trading and investment landscape. Traders use utility functions to maximize their expected utility, driving decision-making processes from portfolio construction to [risk management](../r/risk_management.md).
+Utility theory is applied in various ways in the trading and investment landscape. Traders use [utility functions](../u/utility_functions_in_trading.md) to maximize their expected utility, driving decision-making processes from portfolio construction to [risk management](../r/risk_management.md).
 
 #### 3.1. Portfolio Optimization
 
@@ -34,11 +34,11 @@ Effective [risk management](../r/risk_management.md) is integral to successful [
 
 #### 3.3. Behavioral Finance
 
-Utility theory intersects with [behavioral finance](../b/behavioral_finance.md) by explaining how cognitive biases and heuristics influence trading decisions. Understanding that traders do not always act rationally in accordance with classical economic models, utility theory provides a framework for interpreting such behaviors in terms of [utility maximization](../u/utility_maximization.md). Concepts like [loss aversion](../l/loss_aversion.md) and overconfidence can be quantified and incorporated into [trading strategies](../t/trading_strategies.md).
+Utility theory intersects with [behavioral finance](../b/behavioral_finance.md) by explaining how [cognitive biases](../c/cognitive_biases_in_trading.md) and heuristics influence trading decisions. Understanding that traders do not always act rationally in accordance with classical economic models, utility theory provides a framework for interpreting such behaviors in terms of [utility maximization](../u/utility_maximization.md). Concepts like [loss aversion](../l/loss_aversion.md) and overconfidence can be quantified and incorporated into [trading strategies](../t/trading_strategies.md).
 
 ### 4. Types of Utility Functions
 
-Different forms of utility functions capture various risk attitudes and preferences. The choice of utility function depends on the trader's risk profile and investment objectives.
+Different forms of [utility functions](../u/utility_functions_in_trading.md) capture various risk attitudes and preferences. The choice of utility function depends on the trader's risk profile and investment objectives.
 
 #### 4.1. Linear Utility Function
 
@@ -74,7 +74,7 @@ Utility theory extends beyond basic economic models, incorporating advancements 
 
 #### 5.1. Prospect Theory
 
-Prospect theory, developed by Daniel Kahneman and Amos Tversky, challenges the traditional expected utility theory by introducing a more descriptive model of decision-making under risk. It includes concepts like reference dependence, [loss aversion](../l/loss_aversion.md), and probability weighting, offering deeper insights into actual trading behavior.
+[Prospect theory](../p/prospect_theory_in_trading.md), developed by Daniel Kahneman and Amos Tversky, challenges the traditional expected utility theory by introducing a more descriptive model of decision-making under risk. It includes concepts like reference dependence, [loss aversion](../l/loss_aversion.md), and probability weighting, offering deeper insights into actual trading behavior.
 
 #### 5.2. Stochastic Dominance
 
@@ -100,12 +100,12 @@ Consider an [algorithmic trading](../a/algorithmic_trading.md) strategy that inc
 
 ### 7. Case Study: Real-world Application
 
-Several financial institutions and investment firms implement utility theory in their trading and [risk management](../r/risk_management.md) frameworks. One notable example is [BlackRock](https://www.blackrock.com/), a global asset management firm that uses advanced [quantitative models](../q/quantitative_models.md) incorporating utility functions to tailor investment solutions to client-specific risk profiles and objectives.
+Several financial institutions and investment firms implement utility theory in their trading and [risk management](../r/risk_management.md) frameworks. One notable example is [BlackRock](https://www.blackrock.com/), a global asset management firm that uses advanced [quantitative models](../q/quantitative_models.md) incorporating [utility functions](../u/utility_functions_in_trading.md) to tailor investment solutions to client-specific risk profiles and objectives.
 
 Another example is [Goldman Sachs](https://www.goldmansachs.com/), which employs utility-based approaches in structuring complex [derivatives](../d/derivatives.md) and managing [proprietary trading](../p/proprietary_trading.md) strategies, ensuring alignment with the firm’s risk appetite and return targets.
 
 ### 8. Conclusion
 
-Utility theory provides a robust framework for understanding and optimizing trading decisions by capturing the preferences and risk tolerance of traders. Its application ranges from [portfolio optimization](../p/portfolio_optimization.md) to [risk management](../r/risk_management.md) and aligns closely with developments in [behavioral finance](../b/behavioral_finance.md). By leveraging utility functions and related concepts, traders and financial institutions can make more informed and rational decisions, enhancing their overall performance in the financial markets.
+Utility theory provides a robust framework for understanding and optimizing trading decisions by capturing the preferences and risk tolerance of traders. Its application ranges from [portfolio optimization](../p/portfolio_optimization.md) to [risk management](../r/risk_management.md) and aligns closely with developments in [behavioral finance](../b/behavioral_finance.md). By leveraging [utility functions](../u/utility_functions_in_trading.md) and related concepts, traders and financial institutions can make more informed and rational decisions, enhancing their overall performance in the financial markets.
 
 Utility theory’s integration into modern trading practices underscores its relevance as an essential tool for navigating the complexities of market behavior and achieving desired investment outcomes.

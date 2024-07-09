@@ -12,7 +12,7 @@ There are generally two main types of security analysis: [Fundamental Analysis](
 
 #### Fundamental Analysis
 
-[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a security's intrinsic value by examining related economic, financial, and qualitative and quantitative factors. Analysts look at various elements, such as the macroeconomic environment, industry trends, company financial statements, and management, to determine the true worth of a security. Key metrics used in [fundamental analysis](../f/fundamental_analysis.md) include earnings, revenues, profit margins, and growth projections.
+[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a security's intrinsic value by examining related economic, financial, and qualitative and quantitative factors. Analysts look at various elements, such as the macroeconomic environment, industry trends, company financial statements, and management, to determine the true worth of a security. Key metrics used in [fundamental analysis](../f/fundamental_analysis.md) include earnings, revenues, [profit margins](../p/profit_margins_in_trading.md), and growth projections.
 
 1. **Economic Analysis**: Evaluates the overall economic environment and its impact on securities. It includes assessing indicators such as GDP growth, inflation rates, interest rates, and employment figures.
 2. **[Industry Analysis](../i/industry_analysis.md)**: Focuses on the specific industry in which a company operates. It involves understanding industry trends, competitive landscape, regulatory environment, and the impact of technological advancements.
@@ -32,7 +32,7 @@ There are generally two main types of security analysis: [Fundamental Analysis](
 
 1. **Data Collection**: Gathering extensive financial and market data from various sources, including historical prices, financial statements, and economic reports.
 2. **Data Processing**: Cleaning, normalizing, and structuring the data for analysis. This step is crucial as raw data often contain errors and inconsistencies.
-3. **Model Building**: Developing mathematical models that utilize the processed data to generate [trading signals](../t/trading_signals.md). These models can be based on statistical techniques, machine learning algorithms, or a combination of both.
+3. **Model Building**: Developing [mathematical models](../m/mathematical_models_in_trading.md) that utilize the processed data to generate [trading signals](../t/trading_signals.md). These models can be based on statistical techniques, machine [learning algorithms](../l/learning_algorithms_in_trading.md), or a combination of both.
 4. **[Backtesting](../b/backtesting.md)**: Testing the models on historical data to evaluate their performance. This helps in refining the algorithms and ensuring they work effectively under different market conditions.
 5. **Execution**: Deploying the algorithms in live trading environments where they monitor the market in real-time and execute trades based on predefined criteria.
 

@@ -1,7 +1,7 @@
 # JForex
 
 ## Overview
-JForex is a comprehensive trading platform developed by Dukascopy Bank SA. It is designed for both manual and automated trading, offering a wide range of tools for [technical analysis](../t/technical_analysis.md), strategy development, and real-time execution. JForex supports trading across various asset classes, including forex, commodities, and cryptocurrencies.
+JForex is a comprehensive trading platform developed by [Dukascopy](../d/dukascopy.md) Bank SA. It is designed for both manual and automated trading, offering a wide range of tools for [technical analysis](../t/technical_analysis.md), strategy development, and real-time execution. JForex supports trading across various asset classes, including forex, commodities, and cryptocurrencies.
 
 ## Features
 1. **Advanced Charting**: Provides sophisticated charting tools with multiple chart types, timeframes, and a variety of [technical indicators](../t/technical_indicators.md).
@@ -9,7 +9,7 @@ JForex is a comprehensive trading platform developed by Dukascopy Bank SA. It is
 3. **[Technical Analysis](../t/technical_analysis.md)**: Extensive library of [technical analysis](../t/technical_analysis.md) tools and studies to assist traders in making informed decisions.
 4. **Strategy Development**: Built-in strategy editor for creating, testing, and optimizing [trading strategies](../t/trading_strategies.md).
 5. **Real-Time Data**: Offers [real-time market data](../r/real-time_market_data.md) and news feeds for accurate and timely analysis.
-6. **Order Management**: Comprehensive order management system with various order types, including market, limit, stop, and trailing stop orders.
+6. **[Order Management](../o/order_management_in_trading.md)**: Comprehensive [order management](../o/order_management_in_trading.md) system with various [order types](../o/order_types_in_trading.md), including market, limit, stop, and trailing stop orders.
 7. **[Backtesting](../b/backtesting.md)**: High-performance [backtesting](../b/backtesting.md) engine to simulate [trading strategies](../t/trading_strategies.md) using historical data.
 8. **Multi-Asset Support**: Supports trading across multiple asset classes including forex, commodities, indices, and cryptocurrencies.
 9. **Mobile Trading**: Mobile apps for iOS and Android providing full trading functionality on the go.
@@ -28,7 +28,7 @@ JForex is a comprehensive trading platform developed by Dukascopy Bank SA. It is
 JForex integrates with various market data providers, trading platforms, and other financial services to enhance its functionality. Some notable integrations include:
 
 - **Market Data Providers**: Access to real-time and historical data from multiple exchanges and financial markets.
-- **Brokerage Integration**: Direct integration with Dukascopy Bank for seamless order execution and account management.
+- **Brokerage Integration**: Direct integration with [Dukascopy](../d/dukascopy.md) Bank for seamless order execution and account management.
 - **Third-Party Tools**: Support for various third-party tools and plugins to extend the platform’s capabilities.
 - **Custom Solutions**: API access for integrating JForex functionalities with custom trading solutions and applications.
 

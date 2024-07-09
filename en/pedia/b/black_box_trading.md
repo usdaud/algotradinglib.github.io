@@ -6,7 +6,7 @@ Black Box Trading refers to the use of proprietary, often secretive, algorithmic
 
 ### Algorithms
 
-Algorithms in black box trading are mathematical models and rules that dictate when to buy or sell securities. These algorithms can range from simple, rule-based strategies to highly complex systems incorporating machine learning and artificial intelligence.
+Algorithms in black box trading are [mathematical models](../m/mathematical_models_in_trading.md) and rules that dictate when to buy or sell securities. These algorithms can range from simple, rule-based strategies to highly complex systems incorporating machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 ### Data Inputs
 
@@ -20,7 +20,7 @@ Black box systems require vast amounts of data to function effectively, includin
 
 - **High-Performance Computing (HPC):** Essential for processing large datasets and executing trades at high speeds.
 - **Low-Latency Networking:** Reduces the time it takes for data to travel between trading venues and the black box system, essential for high-frequency trading (HFT).
-- **Cloud Computing:** Offers scalable resources for both storage and computation.
+- **[Cloud Computing](../c/cloud_computing_in_trading.md):** Offers scalable resources for both storage and computation.
 - **Machine Learning Models:** Used for [pattern recognition](../p/pattern_recognition.md), [predictive analytics](../p/predictive_analytics.md), and improving decision-making processes over time.
 
 ## Advantages
@@ -62,19 +62,19 @@ Regulators have expressed concerns about the systemic risks posed by black box t
 
 ### Renaissance Technologies
 
-Renaissance Technologies is one of the most famous names in the world of black box trading. They employ sophisticated mathematical models to analyze and execute trades.
+Renaissance Technologies is one of the most famous names in the world of black box trading. They employ sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to analyze and execute trades.
 
 [AQR Capital Management](https://www.aqr.com/)
 
 ### Two Sigma Investments
 
-Two Sigma Investments combines data analysis, artificial intelligence, and advanced technology to make trading decisions. They are one of the leading firms in [quantitative trading](../q/quantitative_trading.md).
+Two Sigma Investments combines data analysis, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced technology to make trading decisions. They are one of the leading firms in [quantitative trading](../q/quantitative_trading.md).
 
 [Two Sigma Investments](https://www.twosigma.com/)
 
 ### Citadel Securities
 
-Citadel Securities is a global market maker and one of the largest participants in various financial markets. They leverage highly advanced technology and quantitative strategies.
+Citadel Securities is a global market maker and one of the largest participants in various financial markets. They leverage highly advanced technology and [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 [Citadel Securities](https://www.citadelsecurities.com/)
 

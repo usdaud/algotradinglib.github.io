@@ -1,6 +1,6 @@
 # Overnight Index Swap
 
-An Overnight Index Swap (OIS) is a type of interest rate swap where the periodic floating payment is based on a return calculated from a daily compound interest investment. This investment typically uses an overnight rate, which is a measure of the cost of borrowing in the short-term interbank market. OIS are widely used in the financial markets for hedging and as a benchmark for weights and spreads between different types of financial instruments.
+An Overnight Index Swap (OIS) is a type of interest rate swap where the periodic floating payment is based on a return calculated from a daily [compound interest](../c/compound_interest_in_trading.md) investment. This investment typically uses an overnight rate, which is a measure of the cost of borrowing in the short-term interbank market. OIS are widely used in the financial markets for hedging and as a benchmark for weights and spreads between different types of financial instruments.
 
 ### Key Concepts and Terminology
 

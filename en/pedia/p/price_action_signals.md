@@ -125,7 +125,7 @@ print(df)
 
 - **Subjectivity**: Interpretation of price action signals can be subjective, leading to different conclusions among traders.
 - **Requires Experience**: Effective use of [price action trading](../p/price_action_trading.md) often requires significant experience and skill in reading charts and recognizing patterns.
-- **Not Always Reliable**: Like any trading approach, price action is not foolproof and can result in false signals.
+- **Not Always Reliable**: Like any trading approach, price action is not foolproof and can result in [false signals](../f/false_signals_in_trading.md).
 
 ## Conclusion
 

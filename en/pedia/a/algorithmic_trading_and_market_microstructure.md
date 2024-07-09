@@ -18,7 +18,7 @@ High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_tra
 ### Arbitrage Strategies
 [Arbitrage](../a/arbitrage.md) takes advantage of price inefficiencies between markets or financial instruments. Through [algorithmic trading](../a/algorithmic_trading.md), [arbitrage](../a/arbitrage.md) opportunities can be identified and exploited almost instantaneously. Common forms of [arbitrage](../a/arbitrage.md) include:
 
-- **Statistical [Arbitrage](../a/arbitrage.md) (StatArb)**: This strategy uses mathematical models to identify price discrepancies among related financial instruments.
+- **Statistical [Arbitrage](../a/arbitrage.md) (StatArb)**: This strategy uses [mathematical models](../m/mathematical_models_in_trading.md) to identify price discrepancies among related financial instruments.
 - **Triangular [Arbitrage](../a/arbitrage.md)**: This involves the trading of three currencies to profit from differences in their exchange rates.
 
 ### Market Making
@@ -31,7 +31,7 @@ High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_tra
 Momentum algorithms identify trends in the market and make trades that align with these trends. If prices are trending upwards, the algorithm will place buy orders, while if prices are trending downwards, it will place sell orders.
 
 ### Machine Learning in Algo Trading
-Machine learning and artificial intelligence are playing an increasingly significant role in [algorithmic trading](../a/algorithmic_trading.md). Models can be trained on historical data to predict market trends, optimize portfolio allocations, and detect [arbitrage](../a/arbitrage.md) opportunities. Popular machine learning techniques include:
+Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are playing an increasingly significant role in [algorithmic trading](../a/algorithmic_trading.md). Models can be trained on historical data to predict market trends, optimize portfolio allocations, and detect [arbitrage](../a/arbitrage.md) opportunities. Popular machine learning techniques include:
 
 - **Supervised Learning**: Training models based on labeled input-output pairs.
 - **Unsupervised Learning**: Identifying patterns in unlabeled data.
@@ -56,7 +56,7 @@ Several key players dominate the [algorithmic trading](../a/algorithmic_trading.
    - An innovative trading firm focusing on sophisticated strategies across various asset classes, heavily leveraging quantitative methods.
 
 4. [Two Sigma](https://www.twosigma.com/)
-   - A technology-driven trading firm that heavily utilizes data science and machine learning.
+   - A technology-driven trading firm that heavily utilizes [data science](../d/data_science_in_trading.md) and machine learning.
 
 5. [DRW Trading](https://drw.com/)
    - A diversified principal trading firm combining traditional and modern approaches across a variety of products and asset classes.

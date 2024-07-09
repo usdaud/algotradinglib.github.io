@@ -99,9 +99,9 @@ For more information on their services, visit [XYZ Trading Co.](https://www.xyzt
 
 ### Disadvantages
 
-1. **False Signals**: [Market cycles](../m/market_cycles.md), including the 5-week cycle, are not foolproof and can generate false signals.
+1. **[False Signals](../f/false_signals_in_trading.md)**: [Market cycles](../m/market_cycles.md), including the 5-week cycle, are not foolproof and can generate [false signals](../f/false_signals_in_trading.md).
 2. **Overfitting**: There is a risk of overfitting models to historical data, leading to poor performance in live trading.
-3. **Complexity**: Implementing advanced statistical models and signal processing techniques requires significant expertise and computational resources.
+3. **Complexity**: Implementing advanced statistical models and [signal processing](../s/signal_processing_in_trading.md) techniques requires significant expertise and computational resources.
 
 ## Conclusion
 

@@ -34,7 +34,7 @@ Several metrics and indicators are used to measure liquidity in the financial ma
 
 ## Techniques for Quick Liquidity Analysis
 
-Algorithmic traders employ various techniques to quickly analyze and respond to liquidity conditions. These techniques leverage advanced mathematical models, statistical methods, and real-time data processing:
+Algorithmic traders employ various techniques to quickly analyze and respond to liquidity conditions. These techniques leverage advanced [mathematical models](../m/mathematical_models_in_trading.md), statistical methods, and real-time data processing:
 
 1. **[Order Book Analysis](../o/order_book_analysis.md)**: Algorithms scrutinize order books to assess market depth, identifying where large concentrations of buy or sell orders are placed. This provides insight into potential support or resistance levels.
 

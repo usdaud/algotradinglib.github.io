@@ -110,7 +110,7 @@ print(data[['Close', 'EMA_10']].tail())
 ## Limitations
 
 ### Sensitivity to Recent Prices
-While the sensitivity of the EMA to recent prices can be advantageous by quickly reflecting the latest market conditions, it can also make the EMA susceptible to market noise and false signals.
+While the sensitivity of the EMA to recent prices can be advantageous by quickly reflecting the latest market conditions, it can also make the EMA susceptible to market noise and [false signals](../f/false_signals_in_trading.md).
 
 ### Lag Effect
 Despite being more responsive than the SMA, the EMA still lags behind the current price. This lag can result in delayed entry or exit signals compared to real-time price movements.

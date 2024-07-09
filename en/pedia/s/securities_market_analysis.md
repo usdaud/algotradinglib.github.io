@@ -61,7 +61,7 @@ High-Frequency Trading involves executing orders at incredibly high speeds using
 Value at Risk estimates the potential loss in value of an asset or portfolio over a defined period for a given confidence interval. It's a crucial metric for [risk management](../r/risk_management.md) and measuring financial risks.
 
 ### Stress Testing
-Stress testing evaluates how certain stress conditions will impact a portfolio. This involves simulating extreme but plausible adverse scenarios, such as economic crises or market crashes, to understand their impact on investments.
+[Stress testing](../s/stress_testing_in_trading.md) evaluates how certain stress conditions will impact a portfolio. This involves simulating extreme but plausible adverse scenarios, such as economic crises or market crashes, to understand their impact on investments.
 
 ### Diversification
 Diversification spreads investments across various financial instruments, industries, and other categories to reduce exposure to any single asset or risk.

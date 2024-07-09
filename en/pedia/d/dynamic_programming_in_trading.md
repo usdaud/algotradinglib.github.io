@@ -28,7 +28,7 @@ For an American call option, a binomial tree model can determine the option's va
 
 ### 3. Algorithmic Trading Strategies
 
-[Algorithmic trading](../a/algorithmic_trading.md) strategies often involve decision-making processes that optimize [trading signals](../t/trading_signals.md) based on historical data and predictive models. Dynamic programming can be used to design algorithms that maximize profits while minimizing risks over multiple trading periods.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies often involve decision-making processes that optimize [trading signals](../t/trading_signals.md) based on historical data and [predictive models](../p/predictive_models_in_trading.md). Dynamic programming can be used to design algorithms that maximize profits while minimizing risks over multiple trading periods.
 
 **Example**:
 A typical DP-based strategy might involve determining the optimal trading actions (buy, hold, sell) given current market conditions and past performance. By structuring the problem into stages representing different time intervals, the DP algorithm can process and store intermediate results, ensuring efficient and optimal decision-making across the trading horizon.

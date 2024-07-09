@@ -67,7 +67,7 @@ Several platforms and tools provide beta values for securities:
   [Visit Bloomberg](https://www.bloomberg.com/professional/solution/terminal/)
 - **[Reuters](../r/reuters.md) Eikon**: Provides financial analysis tools including beta metrics.
   [Visit Reuters](https://eikon.thomsonreuters.com/index.html)
-- **Yahoo Finance**: Free resource for beta values of publicly traded companies.
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Free resource for beta values of publicly traded companies.
   [Visit Yahoo Finance](https://finance.yahoo.com/)
 - **[Morningstar](../m/morningstar.md)**: Delivers proprietary beta scores along with other financial metrics.
   [Visit Morningstar](https://www.morningstar.com/)

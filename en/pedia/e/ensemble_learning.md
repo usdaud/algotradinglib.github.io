@@ -34,7 +34,7 @@ Stacking involves training multiple base models and a meta-model that combines t
 4. The meta-model learns to make final predictions by leveraging the strengths of the base models.
 
 #### Example: Averaged Stacking
-Averaged stacking is a basic form of stacking where the meta-model is a simple average of the base models' predictions. This method can be enhanced by using more sophisticated meta-models such as [linear regression](../l/linear_regression.md), gradient boosting, or neural networks.
+Averaged stacking is a basic form of stacking where the meta-model is a simple average of the base models' predictions. This method can be enhanced by using more sophisticated meta-models such as [linear regression](../l/linear_regression.md), gradient boosting, or [neural networks](../n/neural_networks_in_trading.md).
 
 ## Application of Ensemble Learning in Algorithmic Trading
 

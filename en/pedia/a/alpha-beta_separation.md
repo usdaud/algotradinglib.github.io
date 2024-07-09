@@ -35,7 +35,7 @@ Alpha-Beta Separation facilitates more precise [performance attribution](../p/pe
 
 ### Alpha-Beta Separation in Algorithmic Trading Infrastructure
 
-Incorporating Alpha-Beta Separation into [algorithmic trading](../a/algorithmic_trading.md) involves advanced infrastructure and sophisticated computational techniques. Firms often integrate technologies like machine learning and big data analytics to identify alpha opportunities while managing beta exposure efficiently. Here are notable aspects and examples:
+Incorporating Alpha-Beta Separation into [algorithmic trading](../a/algorithmic_trading.md) involves advanced infrastructure and sophisticated computational techniques. Firms often integrate technologies like machine learning and [big data analytics](../b/big_data_analytics_in_trading.md) to identify alpha opportunities while managing beta exposure efficiently. Here are notable aspects and examples:
 
 #### 1. Quantitative Models
 

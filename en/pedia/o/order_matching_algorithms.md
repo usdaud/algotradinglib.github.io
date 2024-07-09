@@ -1,6 +1,6 @@
 # Order Matching Algorithms
 
-Order matching algorithms are a cornerstone of financial markets, acting as the engines of exchange platforms that pair buy and sell orders from various market participants. These algorithms determine how trades are executed and are instrumental in ensuring efficient, fair, and orderly markets. 
+Order [matching algorithms](../m/matching_algorithms_in_trading.md) are a cornerstone of financial markets, acting as the engines of exchange platforms that pair buy and sell orders from various market participants. These algorithms determine how trades are executed and are instrumental in ensuring efficient, fair, and orderly markets. 
 
 ## Basic Concepts
 
@@ -55,7 +55,7 @@ Measures the difference between the decision price and the execution price, aimi
 
 ### Dark Pools
 
-[Dark pools](../d/dark_pools.md) use specialized matching algorithms that enable trades without displaying the order book to the public, thus reducing market impact but raising concerns about transparency.
+[Dark pools](../d/dark_pools.md) use specialized [matching algorithms](../m/matching_algorithms_in_trading.md) that enable trades without displaying the order book to the public, thus reducing market impact but raising concerns about transparency.
 
 ## Specific Algorithm Implementations
 
@@ -65,7 +65,7 @@ NASDAQ employs the INET matching engine, which uses an advanced-iteration of the
 
 ### NYSE
 
-The New York Stock Exchange (NYSE) uses a hybrid market model combining human decision-making with electronic trading via their Universal Trading Platform. Their system incorporates complex algorithms to handle varied order types. More details are available on their [website](https://www.nyse.com).
+The New York Stock Exchange (NYSE) uses a hybrid market model combining human decision-making with electronic trading via their Universal Trading Platform. Their system incorporates complex algorithms to handle varied [order types](../o/order_types_in_trading.md). More details are available on their [website](https://www.nyse.com).
 
 ### Cboe Global Markets
 
@@ -83,7 +83,7 @@ Throughput refers to the number of orders processed per unit of time. High throu
 
 ### Fill Rate
 
-Fill rate is the percentage of an order that gets executed. High fill rates are indicative of efficient matching algorithms.
+Fill rate is the percentage of an order that gets executed. High fill rates are indicative of efficient [matching algorithms](../m/matching_algorithms_in_trading.md).
 
 ### Fairness
 
@@ -93,18 +93,18 @@ Ensuring that no market participant has undue advantage through the matching pro
 
 ### High-Frequency Trading (HFT)
 
-HFT demands extremely low latency and high throughput, putting immense pressure on matching algorithms to be not only fast but also incredibly accurate.
+HFT demands extremely low latency and high throughput, putting immense pressure on [matching algorithms](../m/matching_algorithms_in_trading.md) to be not only fast but also incredibly accurate.
 
 ### Machine Learning
 
-Emerging machine learning algorithms show promise in improving order matching by predicting order flow and optimizing execution strategies.
+Emerging machine [learning algorithms](../l/learning_algorithms_in_trading.md) show promise in improving order matching by predicting order flow and optimizing execution strategies.
 
 ### Quantum Computing
 
-Though still in its infancy, quantum computing holds the potential to revolutionize order matching by handling calculations that are currently infeasible with classical computers.
+Though still in its infancy, [quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize order matching by handling calculations that are currently infeasible with classical computers.
 
 ### Regulatory Changes
 
 Continuously evolving regulations pose a challenge for [order matching systems](../o/order_matching_systems.md) as they must adapt to new rules while maintaining performance and fairness.
 
-In conclusion, order matching algorithms are integral to the functioning of modern financial markets. They balance the need for speed, efficiency, and fairness, adapting to the evolving landscape of trading through technological advancements and regulatory compliance. Understanding these algorithms is essential for anyone involved in trading, whether they are retail traders, institutional investors, or market regulators.
+In conclusion, order [matching algorithms](../m/matching_algorithms_in_trading.md) are integral to the functioning of modern financial markets. They balance the need for speed, efficiency, and fairness, adapting to the evolving landscape of trading through technological advancements and regulatory compliance. Understanding these algorithms is essential for anyone involved in trading, whether they are retail traders, institutional investors, or market regulators.

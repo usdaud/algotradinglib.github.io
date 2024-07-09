@@ -5,7 +5,7 @@
 Tail-[Risk Parity](../r/risk_parity.md) is a sophisticated [portfolio management](../p/portfolio_management.md) strategy designed to balance the distribution of risk, particularly focusing on [tail risk](../t/tail_risk.md). [Tail risk](../t/tail_risk.md) refers to the risk of rare events or "black swan" events that have significant negative impacts on an investment portfolio. Unlike traditional risk-parity strategies that aim to distribute risk evenly across various assets, Tail-[Risk Parity](../r/risk_parity.md) emphasizes mitigating extreme downside risks while still striving for reasonable returns.
 
 ## What is Tail Risk?
-[Tail risk](../t/tail_risk.md) refers to the statistical phenomenon where the likelihood of extreme outcomes in the distribution of returns is significantly higher than what is anticipated under a normal distribution. Financial markets, especially in turbulent times, exhibit fat tails, meaning the probability of extreme positive or negative returns is notably higher than standard models would suggest. These extreme outcomes, although rare, can have devastating effects on portfolios.
+[Tail risk](../t/tail_risk.md) refers to the statistical phenomenon where the likelihood of extreme outcomes in the distribution of returns is significantly higher than what is anticipated under a [normal distribution](../n/normal_distribution_in_trading.md). Financial markets, especially in turbulent times, exhibit fat tails, meaning the probability of extreme positive or negative returns is notably higher than standard models would suggest. These extreme outcomes, although rare, can have devastating effects on portfolios.
 
 ## Differentiating Standard Risk Parity From Tail-Risk Parity
 
@@ -47,7 +47,7 @@ With quantified tail risks, the next step involves constructing the portfolio. T
 
 Tail-[Risk Parity](../r/risk_parity.md) is not a static strategy. It requires ongoing monitoring and adjustments to ensure that the portfolio remains aligned with the [risk management](../r/risk_management.md) objectives. This includes:
 
-- Regular stress testing: Testing the portfolio under various simulated market conditions.
+- Regular [stress testing](../s/stress_testing_in_trading.md): Testing the portfolio under various simulated market conditions.
 - Real-time risk assessment: Utilizing [real-time market data](../r/real-time_market_data.md) and advanced analytics.
 - Continuous optimization: Rebalancing the portfolio periodically to maintain the desired tail-risk exposure.
 
@@ -72,7 +72,7 @@ AQR has developed several strategies aimed at better understanding and managing 
 BlackRock, with its extensive resources and advanced analytics, offers products that incorporate elements of tail-[risk management](../r/risk_management.md). Their Aladdin platform is particularly renowned for its analytical capabilities. Visit their official site here: [BlackRock](https://www.blackrock.com).
 
 ### 3. MSCI
-MSCI offers a suite of tools and indices that help in managing and analyzing tail risks in portfolios. Their solutions provide insights into risk factors, performance, and stress testing. Learn more on their site: [MSCI](https://www.msci.com).
+MSCI offers a suite of tools and indices that help in managing and analyzing tail risks in portfolios. Their solutions provide insights into [risk factors](../r/risk_factors_in_trading.md), performance, and [stress testing](../s/stress_testing_in_trading.md). Learn more on their site: [MSCI](https://www.msci.com).
 
 ### 4. RiskMetrics
 RiskMetrics, now a part of MSCI, has been a pioneer in [risk management](../r/risk_management.md) solutions, including tools to measure and manage tail risks. Visit them here: [RiskMetrics](https://www.msci.com/riskmetrics).

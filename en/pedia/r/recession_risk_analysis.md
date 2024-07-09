@@ -40,8 +40,8 @@ Tightening credit conditions and increasing default rates can be early signs of 
 [Quantitative models](../q/quantitative_models.md) use statistical techniques and historical data to forecast recessions. These models may include:
 
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Techniques such as ARIMA (AutoRegressive Integrated Moving Average) models forecast future values based on past data.
-- **Machine Learning**: Algorithms like random forests, neural networks, and support vector machines can be trained on historical data to predict recessions.
-- **Macroeconomic Models**: These include structural models that incorporate various economic theories and relationships between different economic variables.
+- **Machine Learning**: Algorithms like [random forests](../r/random_forests_in_trading.md), [neural networks](../n/neural_networks_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) can be trained on historical data to predict recessions.
+- **Macroeconomic Models**: These include [structural models](../s/structural_models_in_trading.md) that incorporate various economic theories and relationships between different economic variables.
 
 ### 2. Econometric Analysis
 
@@ -61,7 +61,7 @@ Scenario analysis involves creating different economic scenarios to assess poten
 
 ### 4. Stress Testing
 
-Stress testing evaluates how economic variables behave under extreme but plausible adverse conditions. Financial institutions often use stress testing to assess the resilience of their portfolios during a recession.
+[Stress testing](../s/stress_testing_in_trading.md) evaluates how economic variables behave under extreme but plausible adverse conditions. Financial institutions often use [stress testing](../s/stress_testing_in_trading.md) to assess the resilience of their portfolios during a recession.
 
 ## Practical Applications
 
@@ -100,7 +100,7 @@ Moody’s Analytics offers economic data and forecasts that help organizations a
 
 ### 3. MSCI's Stress Testing Capabilities
 
-MSCI provides stress testing tools and services to financial institutions for managing portfolio risk. They offer predefined stress scenarios and allow customized scenarios to assess the impact on returns and risks.
+MSCI provides [stress testing](../s/stress_testing_in_trading.md) tools and services to financial institutions for managing portfolio risk. They offer predefined stress scenarios and allow customized scenarios to assess the impact on returns and risks.
 
 For more information, you can visit Moody’s Analytics at [Moody's Analytics](https://www.moodysanalytics.com/) and MSCI at [MSCI](https://www.msci.com/).
 

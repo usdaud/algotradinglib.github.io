@@ -20,7 +20,7 @@ Autoregressive models predict future values based on past values. An AR model of
 
 \[ y_t = \phi_1 y_{t-1} + \phi_2 y_{t-2} + \cdots + \phi_p y_{t-p} + \epsilon_t \]
 
-where \(\phi_1, \phi_2, \ldots, \phi_p\) are parameters and \(\epsilon_t\) is white noise. The model assumes that \(y_t\) linearly depends on its previous values.
+where \(\phi_1, \phi_2, \ldots, \phi_p\) are parameters and \(\epsilon_t\) is [white noise](../w/white_noise_in_trading.md). The model assumes that \(y_t\) linearly depends on its previous values.
 
 ### 4. Moving Average (MA) Models
 
@@ -28,7 +28,7 @@ Moving average models utilize past forecast errors in a regression-like model. A
 
 \[ y_t = \epsilon_t + \theta_1 \epsilon_{t-1} + \theta_2 \epsilon_{t-2} + \cdots + \theta_q \epsilon_{t-q} \]
 
-where \(\theta_1, \theta_2, \ldots, \theta_q\) are parameters and \(\epsilon_t\) is white noise. The model emphasizes recent errors in the series.
+where \(\theta_1, \theta_2, \ldots, \theta_q\) are parameters and \(\epsilon_t\) is [white noise](../w/white_noise_in_trading.md). The model emphasizes recent errors in the series.
 
 ### 5. Autoregressive Integrated Moving Average (ARIMA) Models
 
@@ -48,7 +48,7 @@ where \(\Phi_P\) and \(\Theta_Q\) are polynomials of order \(P\) and \(Q\) in th
 
 ### 7. Exponential Smoothing Methods
 
-[Exponential smoothing](../e/exponential_smoothing.md) is an intuitive and practical approach to [time series forecasting](../t/time_series_forecasting.md), which applies weighted averages to past observations. Three common types are:
+[Exponential smoothing](../e/exponential_smoothing.md) is an intuitive and practical approach to [time series forecasting](../t/time_series_forecasting.md), which applies [weighted averages](../w/weighted_averages_in_trading.md) to past observations. Three common types are:
 - **Simple [Exponential Smoothing](../e/exponential_smoothing.md)**: For series without trend/seasonality,
   
   \[ y_t = \alpha y_{t-1} + (1 - \alpha) S_{t-1} \]

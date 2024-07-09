@@ -77,7 +77,7 @@ Citadel Securities is a prominent market maker in various financial instruments,
 Visit [Citadel Securities](https://www.citadelsecurities.com/) for more information.
 
 ### 4. **DRW Trading**
-DRW Trading is a diversified trading firm that participates in market making across various asset classes, including options. They leverage technology and quantitative strategies to manage risk and enhance liquidity.
+DRW Trading is a diversified trading firm that participates in market making across various asset classes, including options. They leverage technology and [quantitative strategies](../q/quantitative_strategies_in_trading.md) to manage risk and enhance liquidity.
 Visit [DRW Trading](https://drw.com/) for more information.
 
 ### 5. **Jane Street**

@@ -4,11 +4,11 @@
 
 #### Fundamental Analysis
 
-[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a security based on its intrinsic value, which is derived from examining related economic, financial, and other qualitative and quantitative factors. It's the cornerstone of long-term investment strategies, but in [algorithmic trading](../a/algorithmic_trading.md), fundamental data can still be incredibly relevant. [Fundamental analysis](../f/fundamental_analysis.md) incorporates evaluating aspects like earnings, dividends, growth rates, [economic indicators](../e/economic_indicators.md), competitive position, and management quality. Though traditionally used by long-term investors, fundamental indicators can be integrated into algorithmic models to optimize buy/sell signals.
+[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a security based on its intrinsic value, which is derived from examining related economic, financial, and other qualitative and quantitative factors. It's the cornerstone of long-term investment strategies, but in [algorithmic trading](../a/algorithmic_trading.md), fundamental data can still be incredibly relevant. [Fundamental analysis](../f/fundamental_analysis.md) incorporates evaluating aspects like earnings, dividends, [growth rates](../g/growth_rates_in_trading.md), [economic indicators](../e/economic_indicators.md), competitive position, and management quality. Though traditionally used by long-term investors, fundamental indicators can be integrated into algorithmic models to optimize buy/sell signals.
 
 - **Earnings and Revenue Growth**: Algorithms can be programmed to monitor quarterly reports and calculate price targets based on earning surprise potential.
 - **[Sector Analysis](../s/sector_analysis.md)**: By comparing fundamental values between sectors, algorithms can predict sector rotations.
-- **[Economic Indicators](../e/economic_indicators.md)**: Macroeconomic data like GDP growth rates, inflation rates, or unemployment figures can guide which sectors or companies are likely to outperform.
+- **[Economic Indicators](../e/economic_indicators.md)**: Macroeconomic data like GDP [growth rates](../g/growth_rates_in_trading.md), inflation rates, or unemployment figures can guide which sectors or companies are likely to outperform.
 
 #### Technical Analysis
 
@@ -24,22 +24,22 @@
 
 - **[Factor Models](../f/factor_models.md)**: These models aim to explain returns based on various factors like momentum, value, size, etc. Factors are statistically derived and quantified to shape trading decisions.
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Involves simultaneous buying and selling related securities when there are discrepancies in prices, expecting them to revert to the mean.
-- **Machine Learning Models**: Algorithms can be designed to learn from the data patterns and improve their accuracy over time using techniques like neural networks or reinforcement learning.
+- **Machine Learning Models**: Algorithms can be designed to learn from the data patterns and improve their accuracy over time using techniques like [neural networks](../n/neural_networks_in_trading.md) or reinforcement learning.
 
 #### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) captures investors' feelings and attitudes about the security or the market using text analytics and natural language processing on news, social media, and other data sources. Although this leans more on the qualitative side, advancements in AI/ML have enabled quantifying sentiments to drive algo-trading decisions.
+[Sentiment analysis](../s/sentiment_analysis.md) captures investors' feelings and attitudes about the security or the market using text analytics and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) on news, social media, and other data sources. Although this leans more on the qualitative side, advancements in AI/ML have enabled quantifying sentiments to drive algo-trading decisions.
 
 - **News Analytics**: Real-time news feeds can trigger trading actions based on pre-defined sentiment thresholds.
 - **Social Media Metrics**: Algorithms can track and analyze the social media mention frequencies and sentiment towards a particular stock or market situation to predict price movements.
-- **Natural Language Processing (NLP)**: Advanced NLP engines can gauge the overall tone and sentiment of thousands of news articles or tweets in real time.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Advanced NLP engines can gauge the overall tone and sentiment of thousands of news articles or tweets in real time.
 
 #### Risk Management Techniques
 
-Valuation is closely tied to [risk management](../r/risk_management.md), as each trading strategy must account for potential risk factors. Effective [valuation models](../v/valuation_models.md) incorporate risk assessment to gauge whether the trade offers sufficient potential reward to justify the risk.
+Valuation is closely tied to [risk management](../r/risk_management.md), as each trading strategy must account for potential [risk factors](../r/risk_factors_in_trading.md). Effective [valuation models](../v/valuation_models.md) incorporate risk assessment to gauge whether the trade offers sufficient potential reward to justify the risk.
 
 - **Value at Risk (VaR)**: Statistical method to measure the risk of loss for investments.
-- **Stress Testing**: Simulating extreme market conditions to understand the impact on portfolio valuation.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating extreme market conditions to understand the impact on portfolio valuation.
 - **Limit Orders**: Ensuring trades are executed at predefined maximum loss levels to prevent excessive losses.
 
 #### Discounted Cash Flow (DCF) Analysis

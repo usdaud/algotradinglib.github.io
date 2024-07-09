@@ -19,7 +19,7 @@ Algorithmic traders use computer algorithms to execute trades based on predefine
 
 2. **Improved Risk-Adjusted Returns**: By reducing the overall portfolio volatility, low correlation assets can enhance the [Sharpe ratio](../s/sharpe_ratio.md)—a measure of risk-adjusted returns. This means that traders can potentially achieve higher returns for each unit of risk taken.
 
-3. **Enhanced Predictive Models**: Incorporating assets with low correlations can improve the performance of predictive models used in algotrading. Diversification of the input data ensures that the models are not overly reliant on any single market condition or trend.
+3. **Enhanced [Predictive Models](../p/predictive_models_in_trading.md)**: Incorporating assets with low correlations can improve the performance of [predictive models](../p/predictive_models_in_trading.md) used in algotrading. Diversification of the input data ensures that the models are not overly reliant on any single market condition or trend.
 
 4. **Regulatory Compliance**: Many regulatory frameworks require asset managers to maintain diversified portfolios to protect investors' interests. Using low correlation assets helps in meeting these regulatory requirements.
 
@@ -27,7 +27,7 @@ Algorithmic traders use computer algorithms to execute trades based on predefine
 
 Several asset classes and instruments are commonly considered as low correlation assets:
 
-1. **Equities and Bonds**: Historically, stocks and bonds have shown low correlation, especially during periods of economic uncertainty. When equity markets decline, bonds often appreciate in value, making them a good diversifying asset class.
+1. **Equities and Bonds**: Historically, stocks and bonds have shown low correlation, especially during periods of economic [uncertainty](../u/uncertainty_in_trading.md). When equity markets decline, bonds often appreciate in value, making them a good diversifying asset class.
 
 2. **Commodities**: Commodities like gold, oil, and agricultural products often have low correlation with traditional equity markets and can provide [diversification benefits](../d/diversification_benefits.md).
 
@@ -37,7 +37,7 @@ Several asset classes and instruments are commonly considered as low correlation
 
 5. **Foreign Exchange (Forex)**: Currency pairs can have low correlation with equity and bond markets. Forex [trading strategies](../t/trading_strategies.md) that exploit these relationships can be beneficial for diversification.
 
-6. **Alternative Investments**: Assets such as hedge funds, private equity, and venture capital often have low correlation with public markets due to their different return profiles and risk factors.
+6. **Alternative Investments**: Assets such as hedge funds, private equity, and venture capital often have low correlation with public markets due to their different return profiles and [risk factors](../r/risk_factors_in_trading.md).
 
 ### Measuring Correlation
 
@@ -49,7 +49,7 @@ Traders and investors can use various statistical tools and software to measure 
 
 3. **[Rolling Correlation](../r/rolling_correlation.md)**: This involves calculating the correlation over a moving window of time, providing insights into how the relationship between assets changes over different market conditions.
 
-4. **Heatmaps and Correlation Matrices**: Visual tools that display the correlation coefficients between multiple assets, making it easier to identify low correlation pairs.
+4. **[Heatmaps](../h/heatmaps_in_trading.md) and Correlation Matrices**: Visual tools that display the correlation coefficients between multiple assets, making it easier to identify low correlation pairs.
 
 ### Practical Applications in Algotrading
 

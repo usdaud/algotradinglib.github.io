@@ -28,7 +28,7 @@ There are several types of repo transactions, each with distinct characteristics
 
 #### 3.1.1 Tri-party Repo
 
-In a tri-party repo, a third-party custodian (typically a clearing bank) plays a crucial role, managing the collateral and ensuring proper execution of the transaction. This arrangement offers better [risk management](../r/risk_management.md) and operational efficiency for both the borrower and lender.
+In a tri-party repo, a third-party custodian (typically a clearing bank) plays a crucial role, managing the collateral and ensuring proper execution of the transaction. This arrangement offers better [risk management](../r/risk_management.md) and [operational efficiency](../o/operational_efficiency_in_trading.md) for both the borrower and lender.
 
 #### 3.1.2 Bilateral Repo
 
@@ -82,7 +82,7 @@ The COVID-19 pandemic led to significant market stress, triggering central banks
 
 ### 7.2 Technological Innovations
 
-Innovations like blockchain and distributed ledger technology (DLT) are being explored to enhance repo [market efficiency](../m/market_efficiency.md), transparency, and security. These technologies can streamline settlement processes, reduce operational risks, and improve [collateral management](../c/collateral_management.md).
+Innovations like [blockchain](../b/blockchain_in_trading.md) and distributed ledger technology (DLT) are being explored to enhance repo [market efficiency](../m/market_efficiency.md), transparency, and security. These technologies can streamline settlement processes, reduce operational risks, and improve [collateral management](../c/collateral_management.md).
 
 ### 7.3 Environmental, Social, and Governance (ESG) Considerations
 

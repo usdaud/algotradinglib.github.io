@@ -9,7 +9,7 @@ Cloud computing refers to delivering various services over the internet, includi
 ##### Key Components of Cloud Computing:
 
 - **Infrastructure as a Service (IaaS):** Provides virtualized computing resources over the internet.
-- **Platform as a Service (PaaS):** Offers hardware and software tools over the internet.
+- **Platform as a Service (PaaS):** Offers hardware and [software tools](../s/software_tools_for_trading.md) over the internet.
 - **Software as a Service (SaaS):** Delivers software applications over the internet.
 - **Data Storage:** Secure and scalable storage solutions.
 
@@ -27,7 +27,7 @@ Leveraging powerful cloud infrastructure ensures high-speed data processing and 
 Cloud services operate on a pay-as-you-go model, reducing the need for large capital expenses on hardware. This operational expenditure model also includes cost savings on maintenance and updates.
 
 ##### Data Management:
-Traders can leverage cloud storage for data warehousing and analytics. Cloud platforms offer powerful tools for big data processing, enabling traders to make data-driven decisions.
+Traders can leverage cloud storage for [data warehousing](../d/data_warehousing_in_trading.md) and analytics. Cloud platforms offer powerful tools for [big data](../b/big_data_in_trading.md) processing, enabling traders to make data-driven decisions.
 
 ##### Collaboration and Accessibility:
 Cloud computing enables seamless collaboration across global teams. Accessibility from any location ensures that trading activities and monitoring can be carried out around the clock.
@@ -94,17 +94,17 @@ The trend towards cloud adoption in trading is set to continue, driven by emergi
 Cloud platforms' integration with AI and machine learning will further enhance data analytics capabilities.
 
 ##### Quantum Computing:
-Future developments in quantum computing, combined with cloud platforms, could offer unprecedented processing power for complex [trading algorithms](../t/trading_algorithms.md).
+Future developments in [quantum computing](../q/quantum_computing_in_trading.md), combined with cloud platforms, could offer unprecedented processing power for complex [trading algorithms](../t/trading_algorithms.md).
 
 ##### Edge Computing:
 Combining cloud and edge computing will reduce latency and enhance real-time data processing, crucial for fast-paced trading environments.
 
 ##### Blockchain Integration:
-Cloud platforms combined with blockchain technology can offer more secure and transparent trading operations.
+Cloud platforms combined with [blockchain](../b/blockchain_in_trading.md) technology can offer more secure and transparent trading operations.
 
 #### Conclusion
 
-Cloud computing is a transformative force in the trading industry, offering scalability, speed, cost efficiencies, and advanced data management capabilities. As technology evolves, the integration of cloud computing with other innovations like AI, quantum computing, and blockchain will continue to drive the trading industry forward. Embracing the cloud is not just an option but a strategic imperative for modern trading firms to stay competitive and innovative.
+Cloud computing is a transformative force in the trading industry, offering scalability, speed, cost efficiencies, and advanced data management capabilities. As technology evolves, the integration of cloud computing with other innovations like AI, [quantum computing](../q/quantum_computing_in_trading.md), and [blockchain](../b/blockchain_in_trading.md) will continue to drive the trading industry forward. Embracing the cloud is not just an option but a strategic imperative for modern trading firms to stay competitive and innovative.
 
 **References:**
 - [Amazon Web Services (AWS)](https://aws.amazon.com/financial-services/)

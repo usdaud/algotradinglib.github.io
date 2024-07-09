@@ -60,7 +60,7 @@ The EMA smoothes out price fluctuations, making it easier to spot the underlying
 Like all moving averages, the EMA is a lagging indicator and might not predict future price movements effectively. It relies on past prices and hence may react slower to sudden market changes.
 
 #### 2. **False Signals:**
-In sideways or choppy markets, the EMA can produce false signals, leading traders to enter or exit positions prematurely.
+In sideways or choppy markets, the EMA can produce [false signals](../f/false_signals_in_trading.md), leading traders to enter or exit positions prematurely.
 
 #### 3. **Overreliance:**
 Traders who rely solely on the 6-Month EMA without considering other factors or indicators might miss out on significant market insights. It's always advisable to use the EMA in conjunction with other analytical tools.
@@ -89,7 +89,7 @@ Consider a stock trading system designed by a company like [AlgoTrader](https://
    When a stock's price crosses above the 6-Month EMA, the system generates a buy signal. Conversely, when the price crosses below the EMA, it generates a sell signal.
 
 3. **Order Execution:**
-   The algorithm then sends buy/sell orders to the exchange based on these signals, potentially incorporating additional filters and criteria to reduce false signals.
+   The algorithm then sends buy/sell orders to the exchange based on these signals, potentially incorporating additional filters and criteria to reduce [false signals](../f/false_signals_in_trading.md).
 
 4. **Continuous Monitoring:**
    The system continuously monitors the market and updates the 6-Month EMA calculations in real-time, ensuring that trading decisions are based on the most current data.

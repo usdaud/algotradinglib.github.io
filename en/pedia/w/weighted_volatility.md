@@ -16,7 +16,7 @@ The calculation involves several steps:
    1. **Data Selection**: Gather the relevant pricing data over the desired period.
    2. **Weight Assignment**: Assign weights to each data point. The choice of weighting scheme significantly affects the final metric. Common schemes include exponential (where recent data points are weighted more heavily) or volume-based weights.
    3. **Weighted Return Calculation**: Compute the returns for the chosen data points, adjusted by their weights.
-   4. **Variance/Standard Deviation**: Finally, calculate the weighted variance or standard deviation of the weighted returns.
+   4. **Variance/Standard Deviation**: Finally, calculate the weighted variance or standard deviation of the [weighted returns](../w/weighted_returns_in_trading.md).
 
 ### 2. **Common Weighting Schemes**
 
@@ -61,7 +61,7 @@ For more details, visit the Renaissance Technologies [website](https://www.rente
 
 ## Tools and Software for Weighted Volatility Calculation
 
-Several software tools and platforms facilitate the computation and analysis of weighted volatility. These tools often come equipped with libraries and modules that can handle large datasets and perform sophisticated calculations.
+Several [software tools](../s/software_tools_for_trading.md) and platforms facilitate the computation and analysis of weighted volatility. These tools often come equipped with libraries and modules that can handle large datasets and perform sophisticated calculations.
 
 - **Python Libraries (e.g., NumPy, pandas)**: Provide functions to manipulate datasets and calculate weighted statistics.
 - **MATLAB**: Offers comprehensive toolboxes for financial data analysis, including custom weight assignments.

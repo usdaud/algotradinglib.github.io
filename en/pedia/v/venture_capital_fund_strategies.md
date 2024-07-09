@@ -74,7 +74,7 @@ One of the most renowned VC firms globally, Sequoia Capital has a long history o
 Website: [Sequoia Capital](https://www.sequoiacap.com/)
 
 ### Andreesen Horowitz
-Andreesen Horowitz, also known as a16z, is another prominent VC firm, specializing in backing startups in software, including cloud computing, mobile, and enterprise software. They adopt a hands-on approach, providing portfolio companies with extensive networks and mentorship.
+Andreesen Horowitz, also known as a16z, is another prominent VC firm, specializing in backing startups in software, including [cloud computing](../c/cloud_computing_in_trading.md), mobile, and enterprise software. They adopt a hands-on approach, providing portfolio companies with extensive networks and mentorship.
 
 Website: [Andreesen Horowitz](https://a16z.com/)
 
@@ -107,7 +107,7 @@ There is a growing emphasis on sustainable investment, with an increasing number
 AI and ML are increasingly being integrated into the investment process for better decision-making and identifying high-potential startups. These technologies help in analyzing vast amounts of data and provide insights that human analysis might miss.
 
 ### Blockchain and Cryptocurrencies
-VCs are increasingly looking into blockchain technologies and cryptocurrencies as an investment class. Startups in this space promise revolutionary changes in finance, supply chains, and more, offering immense growth potential.
+VCs are increasingly looking into [blockchain](../b/blockchain_in_trading.md) technologies and cryptocurrencies as an investment class. Startups in this space promise revolutionary changes in finance, supply chains, and more, offering immense growth potential.
 
 ### Remote Work Technologies
 In the wake of the COVID-19 pandemic, remote work solutions have gained significant traction. Venture capitalists are investing considerably in technologies that facilitate remote work, such as communication tools, project management software, and cybersecurity solutions.

@@ -15,7 +15,7 @@ Institutional investors must decide between passive management, which involves t
 [Risk management](../r/risk_management.md) is paramount for institutional investors due to the large sums of money involved. Techniques such as diversification, hedging, [risk assessment models](../r/risk_assessment_models.md), and scenario analysis are commonly used to mitigate risks. Institutions may also use [derivatives](../d/derivatives.md) and other financial instruments to manage various types of risk, including market risk, credit risk, and [liquidity risk](../l/liquidity_risk.md).
 
 ### 4. **Quantitative Strategies**
-Quantitative strategies involve the use of mathematical models, algorithms, and statistical techniques to guide investment decisions. This approach can range from simple statistical analysis to complex machine learning models that analyze vast amounts of data to predict market movements and optimize portfolios.
+[Quantitative strategies](../q/quantitative_strategies_in_trading.md) involve the use of [mathematical models](../m/mathematical_models_in_trading.md), algorithms, and statistical techniques to guide investment decisions. This approach can range from simple statistical analysis to complex machine learning models that analyze vast amounts of data to predict market movements and optimize portfolios.
 
 ### 5. **Long-Term Investing**
 Institutional investors often have long-term investment horizons, allowing them to make investments that may not yield immediate returns but are expected to grow significantly over time. This includes investments in infrastructure, private equity, and venture capital.

@@ -20,7 +20,7 @@ Spectral analysis transforms a time-series signal into its frequency components,
 
 In [algorithmic trading](../a/algorithmic_trading.md), spectral analysis can be applied in several innovative ways:
 
-1. **Cycle Detection**: Identifying [market cycles](../m/market_cycles.md) and oscillations can lead to the development of more accurate predictive models.
+1. **Cycle Detection**: Identifying [market cycles](../m/market_cycles.md) and oscillations can lead to the development of more accurate [predictive models](../p/predictive_models_in_trading.md).
 2. **Noise Reduction**: Filtering out noise from [trading signals](../t/trading_signals.md) to improve signal clarity.
 3. **[Trend Analysis](../t/trend_analysis.md)**: Distinguishing between long-term trends and short-term fluctuations.
 4. **[Predictive Modeling](../p/predictive_modeling.md)**: Anticipating future price movements based on cyclical behaviors detected in historical data.
@@ -29,7 +29,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), spectral analysis can be 
 
 ### Collecting Data
 
-To perform spectral analysis, traders need time-series data such as historical price, volume, and other relevant indicators. Data can be sourced from multiple financial data providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or Yahoo Finance.
+To perform spectral analysis, traders need time-series data such as historical price, volume, and other relevant indicators. Data can be sourced from multiple financial data providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or [Yahoo Finance](../y/yahoo_finance.md).
 
 ### Applying Fourier Transform
 
@@ -120,7 +120,7 @@ While spectral analysis offers valuable insights, it also has its limitations an
 
 ### Wavelet Transform
 
-Unlike the Fourier Transform, which offers simultaneous resolution in time and frequency domains, the Wavelet Transform provides better time localization of frequency components. This makes it particularly useful for analyzing non-stationary signals common in financial markets.
+Unlike the Fourier Transform, which offers simultaneous resolution in time and frequency domains, the [Wavelet Transform](../w/wavelet_transform_in_trading.md) provides better time localization of frequency components. This makes it particularly useful for analyzing non-stationary signals common in financial markets.
 
 ### Hilbert-Huang Transform (HHT)
 
@@ -133,7 +133,7 @@ HHT is another advanced method combining empirical mode decomposition (EMD) and 
     - Specialized libraries such as PyWavelets enable [wavelet analysis](../w/wavelet_analysis.md).
 
 2. **MATLAB**:
-    - MATLAB offers a comprehensive environment for spectral analysis, with built-in functions for FFT, wavelet transform, and more.
+    - MATLAB offers a comprehensive environment for spectral analysis, with built-in functions for FFT, [wavelet transform](../w/wavelet_transform_in_trading.md), and more.
     
 3. **R**:
     - R packages like `wavelets` and `TSA` ([Time Series Analysis](../t/time_series_analysis.md)) provide tools for [spectral methods](../s/spectral_methods.md) in financial analysis.
@@ -150,4 +150,4 @@ Several financial technology companies offer platforms and APIs integrating spec
 
 ## Conclusion
 
-Spectral analysis represents a powerful tool for uncovering hidden patterns in financial time-series data. When applied correctly, it can significantly enhance the effectiveness of [algorithmic trading](../a/algorithmic_trading.md) strategies. While the method comes with challenges, its potential to improve predictive accuracy and [risk management](../r/risk_management.md) makes it a valuable addition to the algorithmic trader's toolkit. Continuous advancements in computational methods and software tools will likely expand the accessibility and application of spectral analysis in finance, paving the way for more sophisticated and effective [trading algorithms](../t/trading_algorithms.md).
+Spectral analysis represents a powerful tool for uncovering hidden patterns in financial time-series data. When applied correctly, it can significantly enhance the effectiveness of [algorithmic trading](../a/algorithmic_trading.md) strategies. While the method comes with challenges, its potential to improve predictive accuracy and [risk management](../r/risk_management.md) makes it a valuable addition to the algorithmic trader's toolkit. Continuous advancements in computational methods and [software tools](../s/software_tools_for_trading.md) will likely expand the accessibility and application of spectral analysis in finance, paving the way for more sophisticated and effective [trading algorithms](../t/trading_algorithms.md).

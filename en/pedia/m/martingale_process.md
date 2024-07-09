@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Martingale process is a mathematical model used in probability theory that describes a fair game, where future probabilities are independent of past events. In the context of [algorithmic trading](../a/algorithmic_trading.md), the Martingale process can be applied to various strategies, especially those concerning [risk management](../r/risk_management.md) and betting strategies.
+The Martingale process is a mathematical model used in [probability theory](../p/probability_theory_in_trading.md) that describes a fair game, where future probabilities are independent of past events. In the context of [algorithmic trading](../a/algorithmic_trading.md), the Martingale process can be applied to various strategies, especially those concerning [risk management](../r/risk_management.md) and betting strategies.
 
 ## Concept of Martingale
 
@@ -61,7 +61,7 @@ Some advanced quantitative traders apply Martingale processes in statistical [ar
 
 ## Case Study: Medallion Fund by Renaissance Technologies
 
-One practical example of a firm successfully leveraging statistical models and advanced processes, potentially including Martingale elements, is Renaissance Technologies' Medallion Fund. Though specific strategies and algorithms are proprietary, it is known for its intricate statistical and mathematical models designed for market efficiencies.
+One practical example of a firm successfully leveraging statistical models and advanced processes, potentially including Martingale elements, is Renaissance Technologies' Medallion Fund. Though specific strategies and algorithms are proprietary, it is known for its intricate statistical and [mathematical models](../m/mathematical_models_in_trading.md) designed for market efficiencies.
 
 [Read More about Renaissance Technologies](https://www.rentec.com)
 

@@ -37,7 +37,7 @@ Latency, or the delay between order placement and execution, can significantly i
 Large orders can impact the market, causing price fluctuations that may work against the strategy. Algorithms need to take into account the potential market impact and spread out the orders if necessary.
 
 ### Regulatory Considerations
-Different financial markets have varying regulations regarding order types, sizes, and [trading strategies](../t/trading_strategies.md). Traders must ensure their algorithms comply with all applicable regulatory requirements to avoid sanctions and penalties.
+Different financial markets have varying regulations regarding [order types](../o/order_types_in_trading.md), sizes, and [trading strategies](../t/trading_strategies.md). Traders must ensure their algorithms comply with all applicable regulatory requirements to avoid sanctions and penalties.
 
 ## Benefits of Unfilled Order Strategies
 ### Enhanced Market Understanding
@@ -51,10 +51,10 @@ Strategically placing and managing [unfilled orders](../u/unfilled_orders.md) al
 
 ## Real-World Applications and Case Studies
 ### Institutional Traders
-Institutional traders often use sophisticated algorithms to manage large volumes of orders, minimizing the impact on the market and optimizing execution. For instance, [Goldman Sachs](https://www.goldmansachs.com) employs advanced quantitative strategies to handle their trading activities, including managing their [unfilled orders](../u/unfilled_orders.md) to maintain market neutrality.
+Institutional traders often use sophisticated algorithms to manage large volumes of orders, minimizing the impact on the market and optimizing execution. For instance, [Goldman Sachs](https://www.goldmansachs.com) employs advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) to handle their trading activities, including managing their [unfilled orders](../u/unfilled_orders.md) to maintain market neutrality.
 
 ### Retail Traders
-Retail traders can also benefit from unfilled order strategies by using trading platforms that offer advanced order management tools. Platforms like [Interactive Brokers](https://www.interactivebrokers.com) provide functionalities for monitoring and adjusting [unfilled orders](../u/unfilled_orders.md) in real-time, catering to both novice and experienced traders.
+Retail traders can also benefit from unfilled order strategies by using trading platforms that offer advanced [order management](../o/order_management_in_trading.md) tools. Platforms like [Interactive Brokers](https://www.interactivebrokers.com) provide functionalities for monitoring and adjusting [unfilled orders](../u/unfilled_orders.md) in real-time, catering to both novice and experienced traders.
 
 ## Conclusion
 The Unfilled Order Strategy is a nuanced approach in the realm of [algorithmic trading](../a/algorithmic_trading.md), offering both challenges and opportunities. By leveraging technology, data analytics, and sophisticated algorithms, traders can turn [unfilled orders](../u/unfilled_orders.md) into valuable insights and profitable opportunities. With continuous advancements in trading technology and increasing data availability, the future holds promising potential for further refinement and success in unfilled order strategies.

@@ -4,13 +4,13 @@
 Big Mike Trading, now known as Futures.io, is one of the largest and most active online communities for futures traders. Established in 2009 by Mike Bruns, the platform provides a wealth of resources for traders, including discussion forums, educational content, trading tools, and more. Futures.io focuses on helping traders of all experience levels improve their trading skills and connect with other like-minded individuals.
 
 ## Key Features
-1. **Active Discussion Forums**: Futures.io hosts a variety of forums where members can discuss topics related to futures trading, including trading strategies, technical analysis, market trends, and more.
+1. **Active Discussion Forums**: Futures.io hosts a variety of forums where members can discuss topics related to futures trading, including [trading strategies](../t/trading_strategies.md), [technical analysis](../t/technical_analysis.md), market trends, and more.
 
 2. **Educational Resources**: The platform offers a wide range of educational materials, including webinars, tutorials, articles, and videos to help traders enhance their knowledge and skills.
 
-3. **Trading Journals**: Members can maintain trading journals to track their trades, share their experiences, and receive feedback from other traders.
+3. **[Trading Journals](../t/trading_journals.md)**: Members can maintain [trading journals](../t/trading_journals.md) to track their trades, share their experiences, and receive feedback from other traders.
 
-4. **Trading Tools and Indicators**: Futures.io provides access to custom trading tools and indicators developed by members of the community. These tools can be integrated into popular trading platforms like NinjaTrader and Sierra Chart.
+4. **Trading Tools and Indicators**: Futures.io provides access to custom trading tools and indicators developed by members of the community. These tools can be integrated into popular trading platforms like [NinjaTrader](../n/ninjatrader.md) and [Sierra Chart](../s/sierra_chart.md).
 
 5. **Vendor Reviews**: The community features reviews of trading vendors, software, and services, helping traders make informed decisions about the tools and services they use.
 
@@ -25,24 +25,24 @@ Big Mike Trading, now known as Futures.io, is one of the largest and most active
 - **Community Support**: The active forums provide a supportive environment where traders can ask questions, share experiences, and get feedback from other members.
 - **Advanced Tools**: Access to custom trading tools and indicators enhances the trading experience and helps traders implement advanced strategies.
 - **Networking and Collaboration**: Opportunities to network and collaborate with other traders can lead to valuable insights and partnerships.
-- **Market Insights**: Discussions and reviews provide insights into market trends, trading strategies, and the effectiveness of different trading tools and services.
+- **Market Insights**: Discussions and reviews provide insights into market trends, [trading strategies](../t/trading_strategies.md), and the effectiveness of different trading tools and services.
 
 ## Use Cases
 - **Beginner Traders**: New traders can learn the basics of futures trading, explore different strategies, and get support from the community.
 - **Experienced Traders**: Seasoned traders can share their knowledge, refine their strategies, and access advanced trading tools.
 - **Developers**: Programmers and developers can share and discover custom trading indicators and tools, and collaborate on projects.
-- **Market Analysis**: Traders can discuss and analyze market trends, share trading signals, and stay updated on market developments.
+- **Market Analysis**: Traders can discuss and analyze market trends, share [trading signals](../t/trading_signals.md), and stay updated on market developments.
 
 ## Integration and APIs
 Futures.io supports integration with various trading platforms and APIs:
-- **NinjaTrader**: A popular platform among Futures.io members for implementing custom indicators and trading strategies.
-- **Sierra Chart**: Another widely used platform that allows integration of custom tools and indicators developed by the community.
+- **[NinjaTrader](../n/ninjatrader.md)**: A popular platform among Futures.io members for implementing custom indicators and [trading strategies](../t/trading_strategies.md).
+- **[Sierra Chart](../s/sierra_chart.md)**: Another widely used platform that allows integration of custom tools and indicators developed by the community.
 - **MetaTrader**: While primarily known for forex trading, some members also discuss using MetaTrader for futures trading.
 
 ## Clients and Partners
 Futures.io serves a diverse range of clients, including:
 - **Retail Traders**: Individual traders using the platform to improve their trading skills and connect with other traders.
-- **Professional Traders**: Experienced traders sharing their knowledge and collaborating on advanced trading strategies.
+- **Professional Traders**: Experienced traders sharing their knowledge and collaborating on advanced [trading strategies](../t/trading_strategies.md).
 - **Developers**: Programmers creating and sharing custom trading tools and indicators.
 - **Trading Vendors**: Companies offering trading software, tools, and services to the Futures.io community.
 

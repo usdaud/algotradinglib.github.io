@@ -12,7 +12,7 @@ The USD/JPY exchange rate is a critical indicator of economic health and policie
 
 ### Economic Indicators
 
-A wide range of [economic indicators](../e/economic_indicators.md) impact the USD/JPY trading pair. Key indicators include Gross Domestic Product (GDP) growth rates, employment data such as non-farm payrolls from the U.S. and Japan's unemployment rate, and indicators of manufacturing and consumer sentiment. Tracking these indicators can provide insights into future movements of the USD/JPY pair.
+A wide range of [economic indicators](../e/economic_indicators.md) impact the USD/JPY trading pair. Key indicators include Gross Domestic Product (GDP) [growth rates](../g/growth_rates_in_trading.md), employment data such as non-farm payrolls from the U.S. and Japan's unemployment rate, and indicators of manufacturing and consumer sentiment. Tracking these indicators can provide insights into future movements of the USD/JPY pair.
 
 ## Strategies for Trading USD/JPY
 
@@ -74,7 +74,7 @@ Several trading platforms specialize in forex trading, offering features such as
 
 Choosing a reputable broker is essential for successful forex trading. Key considerations include regulatory compliance, trading fees, and customer support. Some well-regarded brokers for trading USD/JPY include:
 
-- **IG Group** [ig.com](https://www.ig.com) 
+- **[IG Group](../i/ig_group.md)** [ig.com](https://www.ig.com) 
 - **[OANDA](../o/oanda.md)** [oanda.com](https://www.oanda.com)
 - **FOREX.com** [forex.com](https://www.forex.com)
 

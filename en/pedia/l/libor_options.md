@@ -5,9 +5,9 @@ Libor options, also known as London Interbank Offered Rate options, are derivati
 Libor is a series of interest rates calculated for five currencies and seven borrowing periods ranging from overnight to one year, which are published each banking day by the Intercontinental Exchange (ICE). These rates serve as reference rates for various financial instruments including mortgages, loans, and [derivatives](../d/derivatives.md) exceeding trillions of dollars in value globally. 
 
 ### Pricing Mechanism in Libor Options
-The valuation of Libor options is heavily influenced by the volatility of the underlying Libor rate. Pricing models for Libor options are typically derived from the Black-Scholes framework adapted to handle interest rates, known as the Black model. The key inputs needed for the Black model are the current Libor rate, the strike price of the option, the time to expiry, the risk-free rate, and the volatility of the Libor rate.
+The valuation of Libor options is heavily influenced by the volatility of the underlying [Libor rate](../l/libor_rate_analysis.md). Pricing models for Libor options are typically derived from the Black-Scholes framework adapted to handle interest rates, known as the Black model. The key inputs needed for the Black model are the current [Libor rate](../l/libor_rate_analysis.md), the strike price of the option, the time to expiry, the risk-free rate, and the volatility of the [Libor rate](../l/libor_rate_analysis.md).
 
-The pricing of a European call option on the Libor rate can be expressed as follows:
+The pricing of a European call option on the [Libor rate](../l/libor_rate_analysis.md) can be expressed as follows:
 
 \[ 
 C = P \left[ F \cdot N(d1) - X \cdot e^{-r(T-t)} \cdot N(d2) \right]
@@ -16,14 +16,14 @@ C = P \left[ F \cdot N(d1) - X \cdot e^{-r(T-t)} \cdot N(d2) \right]
 Where:
 - \(C\) is the price of the call option.
 - \(P\) is the notional principal value.
-- \(F\) is the forward Libor rate.
+- \(F\) is the forward [Libor rate](../l/libor_rate_analysis.md).
 - \(X\) is the strike rate.
 - \(T-t\) is the time to maturity.
 - \(r\) is the risk-free interest rate.
 - \(d1 = \frac{\ln(\frac{F}{X}) + \frac{\sigma^2}{2}(T-t)}{\sigma\sqrt{T-t}}\)
 - \(d2 = d1 - \sigma\sqrt{T-t}\)
-- \(N(\cdot)\) is the cumulative distribution function of the standard normal distribution.
-- \(\sigma\) is the volatility of the Libor rate.
+- \(N(\cdot)\) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md).
+- \(\sigma\) is the volatility of the [Libor rate](../l/libor_rate_analysis.md).
 
 This Black model framework is also applicable for pricing Libor [put options](../p/put_options.md), with appropriate adjustments made for the payoff structure.
 
@@ -37,7 +37,7 @@ Libor options are used by a variety of market participants including banks, hedg
 3. **[Arbitrage](../a/arbitrage.md):** Market makers and [proprietary trading](../p/proprietary_trading.md) desks often engage in [arbitrage](../a/arbitrage.md) activities exploiting pricing inefficiencies between the Libor options market and other related markets like futures, swaps, and forward rate agreements.
 
 ### Regulatory and Market Landscape
-Libor options are traded on various exchanges and over-the-counter (OTC) markets. However, the credibility of Libor as a benchmark was significantly impacted by the Libor scandal, where it was revealed that several banks colluded to manipulate the rate for profit. This had profound repercussions, prompting global regulatory bodies to initiate a transition from Libor to alternative risk-free rates (RFRs) like the Secured Overnight Financing Rate (SOFR) in the US, the Euro Short-Term Rate (€STR) in Europe, and the Sterling Overnight Index Average (SONIA) in the UK.
+Libor options are traded on various exchanges and [over-the-counter (OTC) markets](../o/over-the-counter_markets.md). However, the credibility of Libor as a benchmark was significantly impacted by the Libor scandal, where it was revealed that several banks colluded to manipulate the rate for profit. This had profound repercussions, prompting global regulatory bodies to initiate a transition from Libor to alternative risk-free rates (RFRs) like the Secured Overnight Financing Rate (SOFR) in the US, the Euro Short-Term Rate (€STR) in Europe, and the Sterling Overnight Index Average (SONIA) in the UK.
 
 ICE continues to publish Libor rates despite these developments, but the transition towards alternative benchmarks is steadily advancing. Market participants are gradually shifting their interest rate hedging and speculative activities from Libor-based instruments to those linked with new RFR benchmarks. 
 

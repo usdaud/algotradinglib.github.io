@@ -6,7 +6,7 @@ Kelly [Wealth Management](../w/wealth_management.md) is a [proprietary trading](
 
 #### **Algotrading**
 
-Algo (algorithmic) trading refers to the utilization of algorithms to make trading decisions, execute orders, and manage portfolios. This system relies heavily on complex mathematical models and automated systems to determine the optimal times for buying and selling financial assets. Here's how Kelly [Wealth Management](../w/wealth_management.md) implements algo trading in its operations:
+Algo (algorithmic) trading refers to the utilization of algorithms to make trading decisions, execute orders, and manage portfolios. This system relies heavily on complex [mathematical models](../m/mathematical_models_in_trading.md) and automated systems to determine the optimal times for buying and selling financial assets. Here's how Kelly [Wealth Management](../w/wealth_management.md) implements algo trading in its operations:
 
 1. **Algorithm Development and Testing**: At the heart of Kelly [Wealth Management](../w/wealth_management.md)'s strategy is the creation and refinement of [trading algorithms](../t/trading_algorithms.md). These algorithms are designed to identify trading opportunities based on predefined criteria and historical data patterns. [Backtesting](../b/backtesting.md) these algorithms on historical market data is critical to ensure their effectiveness and robustness before deployment in live trading scenarios.
 
@@ -61,20 +61,20 @@ Kelly [Wealth Management](../w/wealth_management.md)'s research and analytics di
 
 Kelly [Wealth Management](../w/wealth_management.md) is at the forefront of integrating technological innovations into its operations, with a focus on the following areas:
 
-1. **Machine Learning and AI**: The use of machine learning algorithms and artificial intelligence (AI) to enhance [trading strategies](../t/trading_strategies.md), [portfolio optimization](../p/portfolio_optimization.md), and [risk management](../r/risk_management.md). These technologies enable the firm to analyze vast datasets, identify patterns, and make data-driven decisions.
+1. **Machine Learning and AI**: The use of machine [learning algorithms](../l/learning_algorithms_in_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) to enhance [trading strategies](../t/trading_strategies.md), [portfolio optimization](../p/portfolio_optimization.md), and [risk management](../r/risk_management.md). These technologies enable the firm to analyze vast datasets, identify patterns, and make data-driven decisions.
 
-2. **Blockchain and Cryptocurrency**: Exploration of blockchain technology and cryptocurrency markets to offer clients exposure to digital assets and decentralized finance (DeFi) opportunities. Kelly [Wealth Management](../w/wealth_management.md) is developing secure and compliant investment solutions in this rapidly evolving space.
+2. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrency**: Exploration of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrency markets to offer clients exposure to digital assets and decentralized finance (DeFi) opportunities. Kelly [Wealth Management](../w/wealth_management.md) is developing secure and compliant investment solutions in this rapidly evolving space.
 
-3. **Big Data Analytics**: Leveraging big data analytics to gain insights into market trends, investor behavior, and [economic indicators](../e/economic_indicators.md). This data-driven approach informs investment strategies and enhances decision-making processes.
+3. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Leveraging [big data analytics](../b/big_data_analytics_in_trading.md) to gain insights into market trends, investor behavior, and [economic indicators](../e/economic_indicators.md). This data-driven approach informs investment strategies and enhances decision-making processes.
 
-4. **Cloud Computing**: Adoption of cloud computing for scalable and efficient data storage, processing, and analytics. This technology supports the firm's high-frequency trading operations and enhances its computational capabilities.
+4. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Adoption of [cloud computing](../c/cloud_computing_in_trading.md) for scalable and efficient data storage, processing, and analytics. This technology supports the firm's high-frequency trading operations and enhances its computational capabilities.
 
 ### **Regulatory Compliance and Ethical Standards**
 
 Kelly [Wealth Management](../w/wealth_management.md) is committed to maintaining the highest standards of regulatory compliance and ethical conduct. The firm adheres to stringent regulatory requirements, including those set forth by the Securities and Exchange Commission (SEC), the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)), and other relevant authorities. Key compliance practices include:
 
 1. **Know Your Customer (KYC)**: Rigorous KYC procedures to verify the identity and suitability of clients, ensuring compliance with anti-money laundering (AML) regulations.
-2. **Data Security**: Implementation of robust data security measures to protect client information and prevent data breaches.
+2. **[Data Security](../d/data_security_in_trading.md)**: Implementation of robust [data security](../d/data_security_in_trading.md) measures to protect client information and prevent data breaches.
 3. **Fair Trading Practices**: Adherence to fair trading practices and avoidance of market manipulation or unethical trading behavior.
 4. **Transparency and Disclosure**: Commitment to transparent communication and full disclosure of investment strategies, risks, and [performance metrics](../p/performance_metrics.md) to clients.
 

@@ -1,6 +1,6 @@
 # Automated Portfolio Management
 
-Automated [Portfolio Management](../p/portfolio_management.md) (APM) refers to the use of algorithms and technology to manage investment portfolios with minimal human intervention. APM leverages quantitative strategies and data analytics to optimize [asset allocation](../a/asset_allocation.md), minimize risk, and maximize returns. Below, we delve into the key components, strategies, tools, benefits, and challenges of APM.
+Automated [Portfolio Management](../p/portfolio_management.md) (APM) refers to the use of algorithms and technology to manage investment portfolios with minimal human intervention. APM leverages [quantitative strategies](../q/quantitative_strategies_in_trading.md) and data analytics to optimize [asset allocation](../a/asset_allocation.md), minimize risk, and maximize returns. Below, we delve into the key components, strategies, tools, benefits, and challenges of APM.
 
 ## Key Components of Automated Portfolio Management
 
@@ -10,7 +10,7 @@ Automated [Portfolio Management](../p/portfolio_management.md) (APM) refers to t
    - **[Alternative Data](../a/alternative_data.md)**: [Non-traditional data sources](../n/non-traditional_data_sources.md) such as [social media sentiment](../s/social_media_sentiment.md), satellite imagery, and transactional data.
 
 2. **Algorithm Development**
-   - **[Quantitative Models](../q/quantitative_models.md)**: Mathematical models to predict price movements and asset correlations.
+   - **[Quantitative Models](../q/quantitative_models.md)**: [Mathematical models](../m/mathematical_models_in_trading.md) to predict price movements and asset correlations.
    - **Machine Learning**: Algorithms that learn and adapt over time to improve prediction accuracy.
    - **[Backtesting](../b/backtesting.md)**: Evaluating the performance of algorithms on historical data to ensure their effectiveness.
 
@@ -68,7 +68,7 @@ Automated [Portfolio Management](../p/portfolio_management.md) (APM) refers to t
 2. **Consistency**: Algorithms provide consistent execution of strategies without emotional bias.
 3. **Cost-Effectiveness**: Lower management fees compared to traditional investment advisors due to automation.
 4. **Scalability**: Ability to manage large portfolios with complex strategies efficiently.
-5. **Real-Time Decisions**: Quick response to market changes and real-time portfolio adjustments.
+5. **Real-Time Decisions**: [Quick response](../q/quick_response_in_trading.md) to market changes and real-time portfolio adjustments.
 
 ## Challenges of Automated Portfolio Management
 

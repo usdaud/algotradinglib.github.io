@@ -24,7 +24,7 @@ Weekly [trading strategies](../t/trading_strategies.md) refer to methods and app
 **Volatility-based strategies** exploit the frequency and extent of price movements. Weekly traders benefit from understanding how volatility affects their trades.
 
 - **[Bollinger Bands](../b/bollinger_bands.md)**: These use standard deviations to create bands above and below a simple moving average, helping traders predict price movements.
-- **Average True Range (ATR)**: The ATR provides insights into a security’s [historical volatility](../h/historical_volatility.md), aiding in setting stop-loss levels and anticipating price swings.
+- **[Average True Range](../a/average_true_range_(atr).md) (ATR)**: The ATR provides insights into a security’s [historical volatility](../h/historical_volatility.md), aiding in setting stop-loss levels and anticipating price swings.
 
 ### 4. **Algorithmic Trading**
 

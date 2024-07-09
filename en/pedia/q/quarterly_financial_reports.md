@@ -5,10 +5,10 @@ Quarterly financial reports, commonly known as earnings reports, are fundamental
 ## Importance in Algorithmic Trading
 
 ### Market Sentiment Analysis
-Quarterly financial reports are pivotal in shaping market sentiment. Analysts, traders, and investors scrutinize these documents to gauge a company's performance and future prospects. Natural Language Processing (NLP) algorithms within the sphere of [algorithmic trading](../a/algorithmic_trading.md) can parse the textual content of these reports, extracting sentiment and key information that influence trading decisions.
+Quarterly financial reports are pivotal in shaping market sentiment. Analysts, traders, and investors scrutinize these documents to gauge a company's performance and future prospects. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) algorithms within the sphere of [algorithmic trading](../a/algorithmic_trading.md) can parse the textual content of these reports, extracting sentiment and key information that influence trading decisions.
 
 ### Volatility Prediction
-[Earnings announcements](../e/earnings_announcements.md) often induce significant market volatility. High-frequency trading (HFT) strategies leverage this volatility by executing rapid trades based on the content of quarterly reports. [Predictive modeling](../p/predictive_modeling.md), using machine learning algorithms, assesses factors like Earnings Per Share (EPS), revenue growth, and profit margins to trigger buy or sell orders.
+[Earnings announcements](../e/earnings_announcements.md) often induce significant market volatility. High-frequency trading (HFT) strategies leverage this volatility by executing rapid trades based on the content of quarterly reports. [Predictive modeling](../p/predictive_modeling.md), using machine [learning algorithms](../l/learning_algorithms_in_trading.md), assesses factors like Earnings Per Share (EPS), revenue growth, and [profit margins](../p/profit_margins_in_trading.md) to trigger buy or sell orders.
 
 ### Fundamental Analysis
 [Algorithmic trading](../a/algorithmic_trading.md) systems also incorporate [fundamental analysis](../f/fundamental_analysis.md) by evaluating financial metrics from quarterly reports. Ratios such as the Price-to-Earnings (P/E) ratio, Return on Equity (ROE), and Debt-to-Equity ratio are computed and compared against industry benchmarks to evaluate a stock's intrinsic value.
@@ -16,13 +16,13 @@ Quarterly financial reports are pivotal in shaping market sentiment. Analysts, t
 ## Key Components of Quarterly Financial Reports
 
 ### Income Statement
-The income statement, or profit and loss statement, outlines the revenue, expenses, and profits over the quarter. Algorithmic models factor in revenue growth rates, cost structures, and net income to assess a company’s profitability.
+The income statement, or profit and loss statement, outlines the revenue, expenses, and profits over the quarter. Algorithmic models factor in revenue [growth rates](../g/growth_rates_in_trading.md), cost structures, and net income to assess a company’s profitability.
 
 ### Balance Sheet
 The balance sheet provides a snapshot of a company's financial position at the end of the quarter, including assets, liabilities, and shareholders' equity. [Algorithmic trading](../a/algorithmic_trading.md) strategies use balance sheet data to evaluate financial stability and [liquidity ratios](../l/liquidity_ratios.md).
 
 ### Cash Flow Statement
-The cash flow statement details the inflows and outflows of cash within the quarter. It’s divided into cash flows from operating activities, investing activities, and financing activities. [Trading algorithms](../t/trading_algorithms.md) analyze cash flow data to understand a company's financial flexibility and operational efficiency.
+The cash flow statement details the inflows and outflows of cash within the quarter. It’s divided into cash flows from operating activities, investing activities, and financing activities. [Trading algorithms](../t/trading_algorithms.md) analyze cash flow data to understand a company's financial flexibility and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ### Management Discussion and Analysis (MD&A)
 The MD&A section gives insights into the management's perspective on the financial results, market conditions, and future outlook. NLP algorithms scan MD&A for tone, sentiment, and key managerial strategies to predict future performance.

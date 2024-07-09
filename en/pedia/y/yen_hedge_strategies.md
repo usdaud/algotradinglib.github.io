@@ -4,7 +4,7 @@ In the constantly evolving world of forex markets, effective [risk management](.
 
 ### Importance of Yen Hedging
 
-The Japanese Yen, known for its volatility and frequent movement against major currencies such as the USD, EUR, and GBP, poses significant risks for businesses and investors with exposures in Japan. These fluctuations can be mitigated through [hedging strategies](../h/hedging_strategies.md), ensuring predictability and stability in financial performance. [Algorithmic trading](../a/algorithmic_trading.md) systems, utilizing complex mathematical models and vast computational power, provide an efficient mechanism to implement these strategies.
+The Japanese Yen, known for its volatility and frequent movement against major currencies such as the USD, EUR, and GBP, poses significant risks for businesses and investors with exposures in Japan. These fluctuations can be mitigated through [hedging strategies](../h/hedging_strategies.md), ensuring predictability and stability in financial performance. [Algorithmic trading](../a/algorithmic_trading.md) systems, utilizing complex [mathematical models](../m/mathematical_models_in_trading.md) and vast computational power, provide an efficient mechanism to implement these strategies.
 
 ### Key Strategies for Yen Hedging
 
@@ -73,7 +73,7 @@ print(f"Forward Rate: {forward}")
 Several companies and platforms specialize in [algorithmic trading](../a/algorithmic_trading.md) strategies, providing tools and marketplaces for implementing sophisticated yen [hedging strategies](../h/hedging_strategies.md).
 
 #### 1. QuantConnect
-[QuantConnect](../q/quantconnect.md) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform enabling quantitative strategies development. It supports multiple asset classes, including forex, allowing traders to backtest and deploy yen hedging algorithms.
+[QuantConnect](../q/quantconnect.md) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform enabling [quantitative strategies](../q/quantitative_strategies_in_trading.md) development. It supports multiple asset classes, including forex, allowing traders to backtest and deploy yen hedging algorithms.
 [QuantConnect](https://www.quantconnect.com)
 
 #### 2. MetaTrader 5
@@ -81,7 +81,7 @@ MetaTrader 5 (MT5) is a popular trading platform that supports [algorithmic trad
 [MetaTrader 5](https://www.metatrader5.com/en)
 
 #### 3. Interactive Brokers
-Interactive Brokers offers a comprehensive platform with advanced [algorithmic trading](../a/algorithmic_trading.md) tools. Their API allows integration with custom-built models and [hedging strategies](../h/hedging_strategies.md).
+[Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive platform with advanced [algorithmic trading](../a/algorithmic_trading.md) tools. Their API allows integration with custom-built models and [hedging strategies](../h/hedging_strategies.md).
 [Interactive Brokers](https://www.interactivebrokers.com)
 
 ### Best Practices for Yen Hedging in Algorithmic Trading

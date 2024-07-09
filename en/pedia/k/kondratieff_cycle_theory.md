@@ -21,14 +21,14 @@ Kondratieff Cycle Theory, also known as K-waves, is a concept introduced by the 
 ##### First Kondratieff Cycle (1780s - 1840s)
 - **Innovation:** The Industrial Revolution, primarily driven by the invention and widespread use of steam engines and mechanization in textile production.
 - **Expansion:** Witnessed in the early stages of the Industrial Revolution, with rapid increases in productivity and the rise of factory systems.
-- **Stagnation:** Followed after markets reached saturation points, leading to decreased growth rates.
+- **Stagnation:** Followed after markets reached saturation points, leading to decreased [growth rates](../g/growth_rates_in_trading.md).
 - **Recession:** The financial crises in 1825 and 1837 marked significant downturns in the economic activity.
 - **Recovery:** Gradual stabilization and new technological advancements towards the latter part of the 1840s.
 
 ##### Second Kondratieff Cycle (1840s - 1890s)
 - **Innovation:** Expansion of railway networks and advancements in steel production.
 - **Expansion:** Economic booms driven by investments in railways and infrastructure, accompanied by rapid urbanization.
-- **Stagnation:** The mid-1870s experienced slow growth rates due to overexpansion in railway markets.
+- **Stagnation:** The mid-1870s experienced slow [growth rates](../g/growth_rates_in_trading.md) due to overexpansion in railway markets.
 - **Recession:** Financial Panic of 1873 led to long economic depression known as the Long Depression.
 - **Recovery:** Established towards the end of the 19th century with the rise of new technological advancements.
 

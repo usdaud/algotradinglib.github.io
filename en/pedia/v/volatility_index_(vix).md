@@ -1,14 +1,14 @@
 # Volatility Index (VIX)
 
 ## Introduction
-The Volatility Index (VIX), also known as the "fear gauge" or the "fear index," is a measure of the market's expectation of volatility over the coming 30 days. It was introduced by the Chicago Board Options Exchange (CBOE) in 1993. Traditionally, VIX is derived from the prices of S&P 500 [index options](../i/index_options.md) and reflects the market's expectations for volatility based on the implied volatilities of a wide range of S&P 500 [index options](../i/index_options.md). This index serves as a barometer of market sentiment, quantifying the level of uncertainty or risk perceived by investors.
+The Volatility Index (VIX), also known as the "fear gauge" or the "fear index," is a measure of the market's expectation of volatility over the coming 30 days. It was introduced by the Chicago Board Options Exchange (CBOE) in 1993. Traditionally, VIX is derived from the prices of S&P 500 [index options](../i/index_options.md) and reflects the market's expectations for volatility based on the implied volatilities of a wide range of S&P 500 [index options](../i/index_options.md). This index serves as a barometer of market sentiment, quantifying the level of [uncertainty](../u/uncertainty_in_trading.md) or risk perceived by investors.
 
 ## Calculation of VIX
 
 ### Methodology
 The VIX is calculated in real-time and is designed to be a forward-looking measure of volatility. The methodology involves averaging the weighted prices of a range of options, both calls and puts, over a broad array of strike prices, and utilizing these averages to estimate the implied volatility over the next 30 days. 
 
-The essential formula for the VIX is rooted in the concept of [option pricing models](../o/option_pricing_models.md), such as the [Black-Scholes model](../b/black-scholes_model.md), but it incorporates a series of weighted averages that provide a broad measure of market sentiment. 
+The essential formula for the VIX is rooted in the concept of [option pricing models](../o/option_pricing_models.md), such as the [Black-Scholes model](../b/black-scholes_model.md), but it incorporates a series of [weighted averages](../w/weighted_averages_in_trading.md) that provide a broad measure of market sentiment. 
 
 ### Core Formula
 The core formula for the VIX involves a more sophisticated approach encapsulated by the following:
@@ -24,7 +24,7 @@ Where:
 ## Importance of VIX in Financial Markets
 
 ### Market Sentiment Indicator
-The VIX is widely regarded as a leading indicator of investor sentiment and market volatility. High VIX values are often associated with increased fear, uncertainty, and bearish market activity. Conversely, low VIX values suggest complacency or optimism in the market.
+The VIX is widely regarded as a leading indicator of investor sentiment and market volatility. High VIX values are often associated with increased fear, [uncertainty](../u/uncertainty_in_trading.md), and bearish market activity. Conversely, low VIX values suggest complacency or optimism in the market.
 
 ### Hedging and Risk Management
 Many institutional investors and professional traders use the VIX to hedge their portfolios against potential market downturns. [Derivatives](../d/derivatives.md) like VIX options and futures allow for strategies to mitigate risk effectively. By trading VIX futures and options, investors can hedge their positions based on expected market volatility.
@@ -53,7 +53,7 @@ Several trading firms and hedge funds specialize in employing VIX-based strategi
 - [AQR Capital](https://www.aqr.com/)
 
 ### Financial Platforms and Services
-Trading platforms such as Interactive Brokers and [ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) offer tools and products for trading VIX options and futures. They provide sophisticated interfaces and APIs that allow algorithmic traders to implement VIX-based strategies.
+Trading platforms such as [Interactive Brokers](../i/interactive_brokers.md) and [ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) offer tools and products for trading VIX options and futures. They provide sophisticated interfaces and APIs that allow algorithmic traders to implement VIX-based strategies.
 
 - [Interactive Brokers](https://www.interactivebrokers.com/)
 - [ThinkOrSwim](https://www.thinkorswim.com/)

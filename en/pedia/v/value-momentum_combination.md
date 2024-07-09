@@ -35,7 +35,7 @@ The combination of value and momentum strategies aims to capitalize on the compl
 ### Advantages of Value-Momentum Combination
 1. **Diversification of Strategies:** By employing two different strategies, investors can diversify their sources of alpha, potentially reducing overall portfolio risk.
 2. **Improved Performance:** Studies have shown that combining these two strategies can generate better risk-adjusted returns compared to using each strategy individually.
-3. **Behavioral Aspect:** [Value investing](../v/value_investing.md) capitalizes on [mean reversion](../m/mean_reversion.md), while [momentum trading](../m/momentum_trading.md) takes advantage of market trends and behavioral biases. Combining them allows investors to exploit different market inefficiencies.
+3. **Behavioral Aspect:** [Value investing](../v/value_investing.md) capitalizes on [mean reversion](../m/mean_reversion.md), while [momentum trading](../m/momentum_trading.md) takes advantage of market trends and [behavioral biases](../b/behavioral_biases_in_trading.md). Combining them allows investors to exploit different market inefficiencies.
 
 ### Implementation Techniques
 1. **[Quantitative Models](../q/quantitative_models.md):** Use quantitative methods to identify stocks that fit both value and momentum criteria. For instance, a stock that has a low P/E ratio and is trading above its [200-day moving average](../1/200-day_moving_average.md) might be a candidate.
@@ -56,9 +56,9 @@ Numerous academic studies support the efficacy of combining value and momentum s
 
 ### Hedge Funds and Asset Management Firms
 Several prominent hedge funds and asset management firms employ value-momentum combination strategies:
-1. **AQR Capital Management (https://www.aqr.com):** This firm uses a variety of quantitative strategies, including value-momentum combinations, to manage billions of dollars in assets.
+1. **AQR Capital Management (https://www.aqr.com):** This firm uses a variety of [quantitative strategies](../q/quantitative_strategies_in_trading.md), including value-momentum combinations, to manage billions of dollars in assets.
 
-2. **Two Sigma (https://www.twosigma.com):** Focuses on using data science and technology to drive investment strategies, including value and momentum.
+2. **Two Sigma (https://www.twosigma.com):** Focuses on using [data science](../d/data_science_in_trading.md) and technology to drive investment strategies, including value and momentum.
 
 ### Case Studies
 1. **Case Study 1 - AQR Value and Momentum Strategy:** AQR's Value and Momentum fund combines stocks that are underpriced based on fundamental data with those exhibiting strong momentum. The fund has historically outperformed standard benchmarks.

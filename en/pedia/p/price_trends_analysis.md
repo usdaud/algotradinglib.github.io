@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Price trends analysis is an essential component of [technical analysis](../t/technical_analysis.md) in trading, applied across various financial markets to determine the potential direction of an asset's price movements. This process is especially crucial in [algorithmic trading](../a/algorithmic_trading.md), where in-depth mathematical models and high-frequency [trading systems](../t/trading_systems.md) capitalize on detected trends to execute trades automatically and consistently.
+Price trends analysis is an essential component of [technical analysis](../t/technical_analysis.md) in trading, applied across various financial markets to determine the potential direction of an asset's price movements. This process is especially crucial in [algorithmic trading](../a/algorithmic_trading.md), where in-depth [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency [trading systems](../t/trading_systems.md) capitalize on detected trends to execute trades automatically and consistently.
 
 ## Understanding Price Trends
 
@@ -59,7 +59,7 @@ Pair trading involves taking long and short positions in two correlated assets. 
 
 ## Machine Learning in Trend Analysis
 
-Machine learning algorithms enhance [trend analysis](../t/trend_analysis.md) by learning from historical price data and identifying complex patterns. Common techniques include:
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) enhance [trend analysis](../t/trend_analysis.md) by learning from historical price data and identifying complex patterns. Common techniques include:
 
 ### Supervised Learning
 
@@ -92,7 +92,7 @@ Founded by James Simons, Renaissance Technologies is a legendary [quantitative t
 
 ### Two Sigma
 
-Two Sigma leverages machine learning and big data to identify patterns in financial markets. Their approach includes extensive [trend analysis](../t/trend_analysis.md) to inform trading decisions.
+Two Sigma leverages machine learning and [big data](../b/big_data_in_trading.md) to identify patterns in financial markets. Their approach includes extensive [trend analysis](../t/trend_analysis.md) to inform trading decisions.
 [Two Sigma](https://www.twosigma.com/)
 
 ### Citadel Securities

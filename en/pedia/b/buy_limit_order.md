@@ -45,11 +45,11 @@ Several trading platforms and brokerages offer buy limit order functionality, of
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) is a global brokerage firm known for its comprehensive trading platforms and tools. Their Trader Workstation (TWS) supports complex order types, including buy limit orders, which can be integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found on their [website](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) is a global brokerage firm known for its comprehensive trading platforms and tools. Their Trader Workstation (TWS) supports complex [order types](../o/order_types_in_trading.md), including buy limit orders, which can be integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found on their [website](https://www.interactivebrokers.com).
 
 ### TradeStation
 
-[TradeStation](../t/tradestation.md) is another brokerage that offers extensive support for [algorithmic trading](../a/algorithmic_trading.md). Their platform includes advanced order types, [backtesting](../b/backtesting.md) capabilities, and integration with various programming languages, allowing traders to implement and execute buy limit orders effectively. Details are available on their [website](https://www.tradestation.com).
+[TradeStation](../t/tradestation.md) is another brokerage that offers extensive support for [algorithmic trading](../a/algorithmic_trading.md). Their platform includes advanced [order types](../o/order_types_in_trading.md), [backtesting](../b/backtesting.md) capabilities, and integration with various programming languages, allowing traders to implement and execute buy limit orders effectively. Details are available on their [website](https://www.tradestation.com).
 
 ### QuantConnect
 

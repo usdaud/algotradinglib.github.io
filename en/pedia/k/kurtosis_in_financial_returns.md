@@ -1,6 +1,6 @@
 # Kurtosis in Financial Returns
 
-Kurtosis is a statistical measure that describes the distribution of data points within a data set in relation to the shape of a normal distribution. In the context of financial returns, kurtosis is used to assess the presence of extreme values—often referred to as "outliers"—in return distributions. It helps in understanding the likelihood of extreme outcomes and is a critical metric in [risk management](../r/risk_management.md) and [quantitative finance](../q/quantitative_finance.md), especially in [algorithmic trading](../a/algorithmic_trading.md) where mathematical models and statistical methods are heavily relied upon.
+Kurtosis is a statistical measure that describes the distribution of data points within a data set in relation to the shape of a [normal distribution](../n/normal_distribution_in_trading.md). In the context of financial returns, kurtosis is used to assess the presence of extreme values—often referred to as "outliers"—in return distributions. It helps in understanding the likelihood of extreme outcomes and is a critical metric in [risk management](../r/risk_management.md) and [quantitative finance](../q/quantitative_finance.md), especially in [algorithmic trading](../a/algorithmic_trading.md) where [mathematical models](../m/mathematical_models_in_trading.md) and statistical methods are heavily relied upon.
 
 ### Understanding Kurtosis
 
@@ -15,7 +15,7 @@ Where:
 
 While there are different types of kurtosis measurements, the most commonly used are:
 
-1. **Excess Kurtosis**: It measures the deviation of the kurtosis from the kurtosis of a normal distribution (which is 3). Excess kurtosis is given by:
+1. **Excess Kurtosis**: It measures the deviation of the kurtosis from the kurtosis of a [normal distribution](../n/normal_distribution_in_trading.md) (which is 3). Excess kurtosis is given by:
    \[ \text{Excess Kurtosis} = K - 3 \]
 
 2. **Fisher's Kurtosis**: This is the standardized form of excess kurtosis.
@@ -23,18 +23,18 @@ While there are different types of kurtosis measurements, the most commonly used
 ### Types of Kurtosis
 
 1. **Leptokurtic**:
-   - Distributions that have a sharp peak and heavy tails compared to a normal distribution.
-   - Higher kurtosis than a normal distribution (K > 3).
+   - Distributions that have a sharp peak and heavy tails compared to a [normal distribution](../n/normal_distribution_in_trading.md).
+   - Higher kurtosis than a [normal distribution](../n/normal_distribution_in_trading.md) (K > 3).
    - Indicates a higher probability of extreme values.
 
 2. **Mesokurtic**:
-   - Distributions that have the same kurtosis as a normal distribution (K = 3).
-   - Normal distribution is an example of a mesokurtic distribution.
+   - Distributions that have the same kurtosis as a [normal distribution](../n/normal_distribution_in_trading.md) (K = 3).
+   - [Normal distribution](../n/normal_distribution_in_trading.md) is an example of a mesokurtic distribution.
 
 3. **Platykurtic**:
-   - Distributions that have a flatter peak and thinner tails than a normal distribution.
-   - Lower kurtosis than a normal distribution (K < 3).
-   - Indicates fewer extreme values than a normal distribution.
+   - Distributions that have a flatter peak and thinner tails than a [normal distribution](../n/normal_distribution_in_trading.md).
+   - Lower kurtosis than a [normal distribution](../n/normal_distribution_in_trading.md) (K < 3).
+   - Indicates fewer extreme values than a [normal distribution](../n/normal_distribution_in_trading.md).
 
 ### Importance in Financial Returns
 
@@ -49,8 +49,8 @@ Understanding the kurtosis of asset returns can guide portfolio managers in opti
 
 ### Measuring and Analyzing Kurtosis
 
-**Software Tools**:
-Many financial software tools and platforms provide functionality to measure kurtosis. Popular tools include:
+**[Software Tools](../s/software_tools_for_trading.md)**:
+Many financial [software tools](../s/software_tools_for_trading.md) and platforms provide functionality to measure kurtosis. Popular tools include:
 - **Python Libraries**: Libraries such as `pandas`, `scipy`, and `numpy` allow easy computation of kurtosis for financial return data.
 - **R**: The `e1071` package in R provides functions to calculate kurtosis.
 - **Matlab**: Using `kurtosis()` function can help in the analysis.
@@ -85,7 +85,7 @@ Hedge funds often analyze kurtosis to understand the risk of extreme market move
 
 ### Theoretical Underpinnings
 
-**Central Limit Theorem (CLT)**:
+**[Central Limit Theorem](../c/central_limit_theorem_in_trading.md) (CLT)**:
 While the CLT suggests that the sum of a large number of random variables will tend to be normally distributed, real-world financial data often show non-normal characteristics, including high kurtosis. Therefore, it is essential to consider these deviations when applying stochastic models in finance.
 
 **[Stochastic Processes](../s/stochastic_processes.md)**:

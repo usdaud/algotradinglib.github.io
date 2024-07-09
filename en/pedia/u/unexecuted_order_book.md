@@ -32,7 +32,7 @@ For algorithmic traders, the unexecuted order book is a crucial source of inform
 
 Modern trading platforms and algorithms employ sophisticated data analytics and visualization techniques to interpret the order book. Key metrics and tools include:
 
-- **Heatmaps**: Visual representations showing concentrations of buy and sell orders at various price levels.
+- **[Heatmaps](../h/heatmaps_in_trading.md)**: Visual representations showing concentrations of buy and sell orders at various price levels.
 - **[Order Flow Analysis](../o/order_flow_analysis.md)**: Monitoring the stream of incoming orders to predict price movements and market trends.
 - **Market Impact Models**: Estimating the potential impact of executing large orders on the asset’s price, which is critical for minimizing slippage in large trades.
 

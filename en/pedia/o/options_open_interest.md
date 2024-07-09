@@ -33,12 +33,12 @@ For algorithmic traders, open interest is a critical factor because it helps in 
 
 Several platforms and services offer tools to track open interest, providing data in various formats suited for both human analysis and algorithmic integration. Some notable ones include:
 
-- **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com) offers detailed options data, including open interest.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com) offers detailed options data, including open interest.
 - **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page) provides a comprehensive trading platform with options analytics and open interest data.
 
 ### Advanced Applications
 
-**- [Quantitative Analysis](../q/quantitative_analysis.md)**: Traders use algorithms to analyze the relationship between open interest, price, and volume to develop predictive models.
+**- [Quantitative Analysis](../q/quantitative_analysis.md)**: Traders use algorithms to analyze the relationship between open interest, price, and volume to develop [predictive models](../p/predictive_models_in_trading.md).
 - **Market Making**: High-frequency trading firms and market makers monitor open interest to manage risk and provide liquidity.
 - **[Arbitrage](../a/arbitrage.md)**: Changes in open interest can signal [arbitrage](../a/arbitrage.md) opportunities between different options contracts or between options and their underlying assets.
 

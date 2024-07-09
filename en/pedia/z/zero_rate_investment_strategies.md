@@ -39,7 +39,7 @@ Dividend-paying stocks provide a stream of income, making them attractive in a [
 REITs allow investors to gain exposure to real estate without the need to directly own property. They typically offer higher yields through rental income and can appreciate in value, providing both income and capital gains.
 
 #### Commodities
-Commodities such as gold and silver can serve as a hedge against inflation and currency devaluation. Investors may allocate a portion of their portfolio to commodities to diversify and protect against economic uncertainty.
+Commodities such as gold and silver can serve as a hedge against inflation and currency devaluation. Investors may allocate a portion of their portfolio to commodities to diversify and protect against economic [uncertainty](../u/uncertainty_in_trading.md).
 
 ### Leveraged Strategies
 #### Carry Trade

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-NASDAQ Volatility Trading refers to the practice of trading financial instruments that derive their value from the volatility of NASDAQ stock indices, notably the NASDAQ-100. Volatility trading can involve several strategies, instruments, and tools aimed at capitalizing on the market's uncertainty and price fluctuations. This trading seeks to exploit short-term and long-term movements in stock prices due to various factors, such as economic data releases, earnings reports, [geopolitical events](../g/geopolitical_events.md), and market sentiment.
+NASDAQ Volatility Trading refers to the practice of trading financial instruments that derive their value from the volatility of NASDAQ stock indices, notably the NASDAQ-100. Volatility trading can involve several strategies, instruments, and tools aimed at capitalizing on the market's [uncertainty](../u/uncertainty_in_trading.md) and price fluctuations. This trading seeks to exploit short-term and long-term movements in stock prices due to various factors, such as economic data releases, earnings reports, [geopolitical events](../g/geopolitical_events.md), and market sentiment.
 
 ## Understanding Volatility
 

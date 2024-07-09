@@ -7,7 +7,7 @@ The Low Volatility Anomaly is a fascinating and counterintuitive phenomenon obse
 ### Definitions
 
 - **Volatility**: Volatility refers to the degree of variation of an asset's returns over time, which is commonly measured by the standard deviation or variance of returns. High volatility indicates large price swings, whereas low volatility signifies more stable prices.
-- **Risk**: In the context of investment, risk often refers to the uncertainty regarding the returns an investment might produce. Risk is typically quantified by measures like standard deviation, variance, Value at Risk (VaR), and beta (a measure of a stock's volatility relative to the market).
+- **Risk**: In the context of investment, risk often refers to the [uncertainty](../u/uncertainty_in_trading.md) regarding the returns an investment might produce. Risk is typically quantified by measures like standard deviation, variance, Value at Risk (VaR), and beta (a measure of a stock's volatility relative to the market).
 
 ### Traditional Finance Theory
 
@@ -84,7 +84,7 @@ Low-volatility strategies have generally performed well, particularly during per
 Despite their advantages, low-volatility strategies are not without drawbacks:
 - **Underperformance in Bull Markets**: In strongly rising markets, low-volatility stocks may underperform their high-volatility counterparts as risk appetite increases and investors chase higher returns.
 - **Sector Concentration**: Low-volatility portfolios may become concentrated in certain sectors, such as utilities or consumer staples, which typically exhibit lower volatility.
-- **Limited Upside**: While low-volatility strategies aim to provide better risk-adjusted returns, they may offer limited upside potential during rapid market upswings.
+- **Limited Upside**: While low-volatility strategies aim to provide better risk-adjusted returns, they may offer limited [upside potential](../u/upside_potential_in_trading.md) during rapid market upswings.
 
 ## Future Prospects
 

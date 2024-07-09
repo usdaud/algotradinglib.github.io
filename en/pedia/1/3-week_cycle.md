@@ -14,7 +14,7 @@ The 3-Week Cycle specifically refers to the pattern where certain characteristic
 
 3. **Fund Flows**: Institutional investors and mutual funds may follow a regular cycle in their buying and selling activities, impacting market movements.
 
-4. **Market Sentiment**: Retail investors and traders often exhibit herd behavior, leading to predictable cycles of buying and selling based on prevailing sentiments and news.
+4. **Market Sentiment**: Retail investors and traders often exhibit [herd behavior](../h/herd_behavior_in_trading.md), leading to predictable cycles of buying and selling based on prevailing sentiments and news.
 
 ## Identifying the 3-Week Cycle
 
@@ -24,7 +24,7 @@ To utilize the 3-Week Cycle in [trading strategies](../t/trading_strategies.md),
 
 2. **[Technical Indicators](../t/technical_indicators.md)**: Applying [technical indicators](../t/technical_indicators.md) such as moving averages, Relative Strength Index (RSI), or [Bollinger Bands](../b/bollinger_bands.md) to smooth out data and identify turning points in cycles.
 
-3. **Machine Learning**: Leveraging machine learning algorithms to analyze large datasets and uncover complex patterns that might not be immediately visible through traditional statistical methods.
+3. **Machine Learning**: Leveraging machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze large datasets and uncover complex patterns that might not be immediately visible through traditional statistical methods.
 
 4. **Seasonal Patterns**: Evaluating historical data for seasonal effects such as the "[January effect](../j/january_effect.md)" or "sell in May and go away" adage to see if these align with or reinforce the 3-Week Cycle.
 

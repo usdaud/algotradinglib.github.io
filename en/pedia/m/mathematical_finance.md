@@ -1,11 +1,11 @@
 # Mathematical Finance
 
-Mathematical finance, also known as [quantitative finance](../q/quantitative_finance.md), is a field of applied mathematics concerned with the financial markets. It uses mathematical models and computational techniques to analyze financial markets, derive pricing models, manage risk, and optimize portfolios. Below are some critical areas covered under the umbrella of mathematical finance:
+Mathematical finance, also known as [quantitative finance](../q/quantitative_finance.md), is a field of applied mathematics concerned with the financial markets. It uses [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques to analyze financial markets, derive pricing models, manage risk, and optimize portfolios. Below are some critical areas covered under the umbrella of mathematical finance:
 
 ## 1. Financial Modeling
 
 ### 1.1 Black-Scholes Model
-The [Black-Scholes model](../b/black-scholes_model.md) is one of the most famous mathematical models for pricing options and other financial [derivatives](../d/derivatives.md). It provides a theoretical estimate of the price of European-style options and is based on several assumptions including constant volatility and the [log-normal distribution](../l/log-normal_distribution.md) of stock prices.
+The [Black-Scholes model](../b/black-scholes_model.md) is one of the most famous [mathematical models](../m/mathematical_models_in_trading.md) for pricing options and other financial [derivatives](../d/derivatives.md). It provides a theoretical estimate of the price of European-style options and is based on several assumptions including constant volatility and the [log-normal distribution](../l/log-normal_distribution.md) of stock prices.
 
 #### The Black-Scholes Formula
 \[
@@ -14,7 +14,7 @@ C(S, t) = S_0N(d_1) - Xe^{-rt}N(d_2)
 Where:
 - \(d_1 = \frac{\ln(\frac{S_0}{X}) + (r + \frac{\sigma^2}{2})t}{\sigma\sqrt{t}}\)
 - \(d_2 = d_1 - \sigma\sqrt{t}\)
-- \(N(\cdot)\) is the cumulative distribution function of the standard normal distribution
+- \(N(\cdot)\) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md)
 - \(S_0\) is the current stock price
 - \(X\) is the strike price
 - \(r\) is the risk-free interest rate
@@ -44,7 +44,7 @@ Value at Risk is a statistical technique used to measure the risk of loss on a p
 \text{VaR} = \Phi^{-1}(1 - \alpha) \cdot \sigma_P \cdot \sqrt{T}
 \]
 Where:
-- \(\Phi^{-1}\) is the inverse of the cumulative distribution function of the standard normal distribution
+- \(\Phi^{-1}\) is the inverse of the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md)
 - \(\alpha\) is the confidence level
 - \(\sigma_P\) is the portfolio's standard deviation
 - \(T\) is the time horizon
@@ -163,16 +163,16 @@ Where:
 Quantitative Brokers provides advanced algorithms and analytics for agency execution and trading. Their methodologies are deeply rooted in mathematical finance and computational techniques.
 
 ### 6.2 WorldQuant (https://www.worldquant.com/)
-WorldQuant is a quantitative investment management firm that uses sophisticated mathematical models to develop [trading strategies](../t/trading_strategies.md) and manage portfolios.
+WorldQuant is a quantitative investment management firm that uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to develop [trading strategies](../t/trading_strategies.md) and manage portfolios.
 
 ### 6.3 Jane Street (https://www.janestreet.com/)
 Jane Street is a trading firm and liquidity provider with a focus on using advanced quantitative methods for trading in global financial markets.
 
 ### 6.4 Renaissance Technologies (https://www.rentec.com/)
-Renaissance Technologies is a highly renowned quantitative investment firm known for its Medallion Fund, which utilizes sophisticated mathematical models for [trading strategies](../t/trading_strategies.md).
+Renaissance Technologies is a highly renowned quantitative investment firm known for its Medallion Fund, which utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for [trading strategies](../t/trading_strategies.md).
 
 ### 6.5 Two Sigma (https://www.twosigma.com/)
-Two Sigma is a top-tier quantitative hedge fund that leverages data science, machine learning, and applied mathematics to devise investment strategies.
+Two Sigma is a top-tier quantitative hedge fund that leverages [data science](../d/data_science_in_trading.md), machine learning, and applied mathematics to devise investment strategies.
 
 ## Conclusion
 

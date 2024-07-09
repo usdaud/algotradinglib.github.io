@@ -77,7 +77,7 @@ Where:
 
 ## 9. Average True Range (ATR)
 
-The Average True Range (ATR) is a volatility indicator that measures the degree of price movement for a given asset. It was developed by J. Welles Wilder and is commonly used to measure market volatility. The calculation involves taking the True Range (TR), which is the greatest of the following:
+The [Average True Range](../a/average_true_range_(atr).md) (ATR) is a volatility indicator that measures the degree of price movement for a given asset. It was developed by J. Welles Wilder and is commonly used to measure market volatility. The calculation involves taking the True Range (TR), which is the greatest of the following:
 - Current High minus current Low
 - Absolute value of current High minus previous Close
 - Absolute value of current Low minus previous Close

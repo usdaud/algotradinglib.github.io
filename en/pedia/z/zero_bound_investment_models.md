@@ -31,7 +31,7 @@ Focused on generating positive returns regardless of market conditions, absolute
 [Arbitrage](../a/arbitrage.md) models seek to exploit price differentials in different markets or securities. At the ZLB, fixed-income [arbitrage](../a/arbitrage.md) (e.g., swap spread trades) and equity [arbitrage](../a/arbitrage.md) (e.g., merger [arbitrage](../a/arbitrage.md)) become prevalent. These strategies often require high-frequency trading and advanced [computational algorithms](../c/computational_algorithms.md).
 
 ### Macro-Focused Models
-Macro-focused models take into account broader [economic indicators](../e/economic_indicators.md) and trends, adjusting their [asset allocation](../a/asset_allocation.md) based on expectations of economic conditions, monetary policies, and [geopolitical events](../g/geopolitical_events.md). These models leverage extensive datasets and machine learning algorithms to predict market movements.
+Macro-focused models take into account broader [economic indicators](../e/economic_indicators.md) and trends, adjusting their [asset allocation](../a/asset_allocation.md) based on expectations of economic conditions, monetary policies, and [geopolitical events](../g/geopolitical_events.md). These models leverage extensive datasets and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict market movements.
 
 ## Real-World Applications
 ### Central Banks and Sovereign Wealth Funds

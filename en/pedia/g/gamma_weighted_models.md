@@ -18,7 +18,7 @@ Gamma is particularly significant because it influences how Delta changes, a key
 
 ## What are Gamma Weighted Models?
 
-Gamma Weighted Models are advanced quantitative frameworks used to manage and optimize [trading strategies](../t/trading_strategies.md) by incorporating Gamma into various aspects of [portfolio management](../p/portfolio_management.md) and [algorithmic trading](../a/algorithmic_trading.md) systems. They go beyond simplistic linear models by addressing the non-linear characteristics of price movements in financial markets.
+Gamma Weighted Models are advanced quantitative frameworks used to manage and optimize [trading strategies](../t/trading_strategies.md) by incorporating Gamma into various aspects of [portfolio management](../p/portfolio_management.md) and [algorithmic trading](../a/algorithmic_trading.md) systems. They go beyond simplistic [linear models](../l/linear_models_in_trading.md) by addressing the non-linear characteristics of price movements in financial markets.
 
 ### Key Components and Concepts
 
@@ -104,13 +104,13 @@ While Gamma Weighted Models offer numerous advantages, there are challenges and 
 
 2. **Data Quality**: Accurate and high-frequency market data is essential for models to function correctly. Any discrepancies in data can lead to faulty model outputs.
 
-3. **Model Risk**: Over-reliance on mathematical models without considering market fundamentals can lead to unexpected losses. It is crucial to balance model outputs with market insights.
+3. **Model Risk**: Over-reliance on [mathematical models](../m/mathematical_models_in_trading.md) without considering market fundamentals can lead to unexpected losses. It is crucial to balance model outputs with market insights.
 
 4. **Regulatory Environment**: The use of advanced [trading algorithms](../t/trading_algorithms.md) is subject to regulatory scrutiny. Compliance with trading regulations is paramount to avoid legal issues.
 
 ## Future Trends
 
-Gamma Weighted Models are likely to evolve with advancements in machine learning and artificial intelligence. These technologies can enhance the predictive power of models, making them more robust and adaptive to changing market conditions. The integration of Gamma Weighted Models with big data analytics and [alternative data](../a/alternative_data.md) sources will provide even deeper insights, further optimizing [trading strategies](../t/trading_strategies.md).
+Gamma Weighted Models are likely to evolve with advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md). These technologies can enhance the predictive power of models, making them more robust and adaptive to changing market conditions. The integration of Gamma Weighted Models with [big data analytics](../b/big_data_analytics_in_trading.md) and [alternative data](../a/alternative_data.md) sources will provide even deeper insights, further optimizing [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

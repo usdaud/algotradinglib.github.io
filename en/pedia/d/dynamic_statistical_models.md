@@ -4,7 +4,7 @@ Dynamic Statistical Models are a cornerstone of modern [algorithmic trading](../
 
 ## Introduction to Dynamic Statistical Models
 
-Dynamic Statistical Models are systems that evolve over time according to probabilistic rules. Unlike static models, which assume fixed relationships between variables, dynamic models account for the fact that financial markets are continuously changing. These models are particularly useful for capturing the temporal dependencies and stochastic nature of asset prices.
+Dynamic Statistical Models are systems that evolve over time according to probabilistic rules. Unlike static models, which assume fixed relationships between variables, dynamic models account for the fact that financial markets are continuously changing. These models are particularly useful for capturing the [temporal dependencies](../t/temporal_dependencies_in_trading.md) and stochastic nature of asset prices.
 
 ## Key Components of Dynamic Statistical Models
 
@@ -20,10 +20,10 @@ Dynamic Statistical Models are systems that evolve over time according to probab
 
 ### 1. Kalman Filter
 
-The Kalman Filter is a recursive algorithm used to estimate the state of a linear dynamic system from a series of noisy measurements. It operates in two steps: prediction and update. During the prediction step, the current state estimate is projected forward to obtain a priori estimate for the next time period. In the update step, this estimate is corrected using the new observation.
+The [Kalman Filter](../k/kalman_filter_in_trading.md) is a recursive algorithm used to estimate the state of a linear dynamic system from a series of noisy measurements. It operates in two steps: prediction and update. During the prediction step, the current state estimate is projected forward to obtain a priori estimate for the next time period. In the update step, this estimate is corrected using the new observation.
 
 #### Application in Trading
-The Kalman Filter can be used for predicting asset prices, estimating the volatility of returns, and filtering noise from high-frequency trading data. Large hedge funds and trading firms often utilize this filter for real-time data assimilation and signal processing.
+The [Kalman Filter](../k/kalman_filter_in_trading.md) can be used for predicting asset prices, estimating the volatility of returns, and filtering noise from high-frequency trading data. Large hedge funds and trading firms often utilize this filter for real-time data assimilation and [signal processing](../s/signal_processing_in_trading.md).
 
 ### 2. Hidden Markov Models (HMM)
 
@@ -59,7 +59,7 @@ Two Sigma, another major player in the hedge fund industry, employs dynamic stat
 
 ## Challenges and Future Directions
 
-While dynamic statistical models offer powerful capabilities, they also come with challenges. These include computational complexity, model risk, and the need for constant adaptation to new market conditions. As financial markets continue to evolve, future research may focus on integrating these models with artificial intelligence, improving their scalability, and enhancing their robustness against anomalous market events.
+While dynamic statistical models offer powerful capabilities, they also come with challenges. These include computational complexity, model risk, and the need for constant adaptation to new market conditions. As financial markets continue to evolve, future research may focus on integrating these models with [artificial intelligence](../a/artificial_intelligence_in_trading.md), improving their scalability, and enhancing their robustness against anomalous market events.
 
 ## Conclusion
 

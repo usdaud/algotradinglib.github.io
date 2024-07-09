@@ -8,15 +8,15 @@ SciChart is a leading provider of high-performance charting software and librari
 
 2. **Cross-Platform Support**: SciChart offers charting libraries for multiple platforms, including Windows (WPF), iOS, Android, and JavaScript. This allows developers to create consistent and high-performance charts across different devices and operating systems.
 
-3. **Wide Range of Chart Types**: SciChart supports a variety of chart types, including line charts, scatter charts, bar charts, 3D charts, heatmaps, and more. This versatility makes it suitable for diverse applications, from financial trading to scientific research.
+3. **Wide Range of Chart Types**: SciChart supports a variety of chart types, including line charts, scatter charts, bar charts, 3D charts, [heatmaps](../h/heatmaps_in_trading.md), and more. This versatility makes it suitable for diverse applications, from financial trading to scientific research.
 
 4. **Customization and Flexibility**: The charting libraries provide extensive customization options, allowing developers to tailor the appearance and behavior of charts to meet specific requirements. This includes customizable axes, annotations, legends, and themes.
 
-5. **Real-Time Data Visualization**: SciChart excels at real-time data visualization, making it ideal for applications that require dynamic updating and live data streaming, such as trading platforms, monitoring systems, and scientific instruments.
+5. **Real-Time [Data Visualization](../d/data_visualization.md)**: SciChart excels at real-time [data visualization](../d/data_visualization.md), making it ideal for applications that require dynamic updating and live data streaming, such as trading platforms, monitoring systems, and scientific instruments.
 
 6. **Advanced Features**: SciChart includes advanced features such as zooming, panning, tooltips, cursors, and crosshairs, enhancing the user experience and interactivity of charts.
 
-7. **3D Charting**: SciChart offers 3D charting capabilities, enabling the visualization of complex datasets in three dimensions. This includes 3D scatter plots, surface meshes, and volumetric data visualization.
+7. **[3D Charting](../1/3d_charting.md)**: SciChart offers [3D charting](../1/3d_charting.md) capabilities, enabling the visualization of complex datasets in three dimensions. This includes 3D scatter plots, surface meshes, and volumetric [data visualization](../d/data_visualization.md).
 
 8. **Enterprise-Grade Support**: SciChart provides professional support and consulting services, ensuring that organizations can effectively integrate and leverage its charting solutions.
 
@@ -28,10 +28,10 @@ SciChart is a leading provider of high-performance charting software and librari
 - **Scalable Solutions**: SciChart's scalable solutions cater to a wide range of industries and applications, from small-scale projects to enterprise-level deployments.
 
 ## Use Cases
-- **Financial Trading**: SciChart is widely used in financial trading platforms for real-time market data visualization, technical analysis, and charting financial instruments.
+- **Financial Trading**: SciChart is widely used in financial trading platforms for real-time market [data visualization](../d/data_visualization.md), [technical analysis](../t/technical_analysis.md), and charting financial instruments.
 - **Scientific Research**: Researchers and scientists use SciChart for visualizing experimental data, simulations, and complex scientific datasets.
 - **Engineering Applications**: Engineers leverage SciChart for monitoring and analyzing real-time data from industrial systems, sensors, and instrumentation.
-- **Medical Imaging**: SciChart's 3D charting capabilities are used in medical imaging applications for visualizing volumetric data and diagnostic information.
+- **Medical Imaging**: SciChart's [3D charting](../1/3d_charting.md) capabilities are used in medical imaging applications for visualizing volumetric data and diagnostic information.
 - **Education and Training**: Educational institutions use SciChart for teaching and training purposes, providing interactive and illustrative charting tools.
 
 ## Integration and APIs
@@ -43,8 +43,8 @@ SciChart provides robust APIs and libraries for seamless integration with variou
 
 ## Clients and Partners
 SciChart serves a diverse range of clients and partners, including:
-- **Financial Institutions**: Banks, trading firms, and financial technology companies using SciChart for market data visualization and trading platforms.
-- **Research Institutions**: Universities, laboratories, and research organizations leveraging SciChart for scientific data visualization.
+- **Financial Institutions**: Banks, trading firms, and financial technology companies using SciChart for market [data visualization](../d/data_visualization.md) and trading platforms.
+- **Research Institutions**: Universities, laboratories, and research organizations leveraging SciChart for scientific [data visualization](../d/data_visualization.md).
 - **Engineering Firms**: Companies in the engineering and industrial sectors using SciChart for real-time monitoring and data analysis.
 - **Healthcare Providers**: Medical institutions and technology companies using SciChart for medical imaging and diagnostic applications.
 

@@ -27,7 +27,7 @@ Repo [trading strategies](../t/trading_strategies.md) can be diverse and cater t
 
 2. **Mismatch Book Repo Trading**: 
    - **Definition**: Unlike the matched book strategy, in mismatch book trading, the terms of the repo and reverse repo are intentionally mismatched to exploit expected interest rate movements.
-   - **Objective**: The trader aims to capitalize on fluctuating interest rates; however, this strategy carries higher risk given the uncertainty in rate movements.
+   - **Objective**: The trader aims to capitalize on fluctuating interest rates; however, this strategy carries higher risk given the [uncertainty](../u/uncertainty_in_trading.md) in rate movements.
 
 3. **General Collateral (GC) Repo Trading**: 
    - **Definition**: This involves trading in repos that are secured by highly liquid, high-quality assets that are widely accepted as collateral.
@@ -71,7 +71,7 @@ Even though repos are usually considered low-risk due to the collateral involved
 
 ### Technological Integration in Repo Trading
 
-The landscape of repo trading has evolved with technological advancements. [Algorithmic trading](../a/algorithmic_trading.md), data analytics, and blockchain technology are increasingly becoming integral to this market.
+The landscape of repo trading has evolved with technological advancements. [Algorithmic trading](../a/algorithmic_trading.md), data analytics, and [blockchain](../b/blockchain_in_trading.md) technology are increasingly becoming integral to this market.
 
 1. **[Algorithmic Trading](../a/algorithmic_trading.md)**: 
    - **Innovation**: Algorithms can execute repo transactions at high speed and efficiency, analyzing vast amounts of market data to identify opportunities.
@@ -79,11 +79,11 @@ The landscape of repo trading has evolved with technological advancements. [Algo
 
 2. **Data Analytics**: 
    - **Innovation**: The use of advanced data analytics helps in better risk assessment and decision-making by analyzing historical data, market trends, and [economic indicators](../e/economic_indicators.md).
-   - **Usage**: Financial institutions such as [J.P. Morgan](https://www.jpmorgan.com) utilize big data analytics to enhance their repo trading operations.
+   - **Usage**: Financial institutions such as [J.P. Morgan](https://www.jpmorgan.com) utilize [big data analytics](../b/big_data_analytics_in_trading.md) to enhance their repo trading operations.
 
-3. **Blockchain Technology**: 
-    - **Innovation**: Blockchain can streamline repo transactions by offering a decentralized, transparent, and secure mechanism for recording transactions.
-    - **Usage**: Companies like [HQLAx](https://www.hqla-x.com) are developing blockchain-based platforms to enhance the repo market’s efficiency.
+3. **[Blockchain](../b/blockchain_in_trading.md) Technology**: 
+    - **Innovation**: [Blockchain](../b/blockchain_in_trading.md) can streamline repo transactions by offering a decentralized, transparent, and secure mechanism for recording transactions.
+    - **Usage**: Companies like [HQLAx](https://www.hqla-x.com) are developing [blockchain](../b/blockchain_in_trading.md)-based platforms to enhance the repo market’s efficiency.
 
 ### Regulatory Environment
 
@@ -98,7 +98,7 @@ Repo trading is under constant scrutiny by regulators due to its significant rol
    - **Example**: Rules under the Basel III framework stipulate stringent capital requirements for repo trades.
 
 3. **Prudential Supervision**: 
-   - **Requirement**: Regulatory authorities conduct regular supervision and stress testing to ensure the financial health of firms engaged in repo markets.
+   - **Requirement**: Regulatory authorities conduct regular supervision and [stress testing](../s/stress_testing_in_trading.md) to ensure the financial health of firms engaged in repo markets.
    - **Example**: The [European Central Bank (ECB)](https://www.ecb.europa.eu) conducts stress tests to assess the stability of repo markets in the Eurozone.
 
 ### Conclusion

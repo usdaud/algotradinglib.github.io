@@ -12,7 +12,7 @@ Data science in trading involves using complex algorithms, statistical methods, 
 
 ### Predictive Analytics
 
-[Predictive analytics](../p/predictive_analytics.md) involves using historical data to forecast future trends. In trading, predictive models analyze past market behavior to predict price movements, trading volumes, and other vital metrics. Techniques like time-series analysis, regression models, and neural networks are commonly used.
+[Predictive analytics](../p/predictive_analytics.md) involves using historical data to forecast future trends. In trading, [predictive models](../p/predictive_models_in_trading.md) analyze past market behavior to predict price movements, trading volumes, and other vital metrics. Techniques like time-series analysis, regression models, and [neural networks](../n/neural_networks_in_trading.md) are commonly used.
 
 ### Machine Learning
 
@@ -24,11 +24,11 @@ Machine learning (ML) plays a crucial role in trading by enabling models to lear
 
 ### Natural Language Processing (NLP)
 
-Natural language processing is used to extract valuable information from unstructured text data. In trading, NLP can analyze news articles, social media posts, earnings reports, and other text data to gauge market sentiment and anticipate movements.
+[Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) is used to extract valuable information from unstructured text data. In trading, NLP can analyze news articles, social media posts, earnings reports, and other text data to gauge market sentiment and anticipate movements.
 
 ### Big Data and Cloud Computing
 
-Big Data technologies manage and process vast quantities of structured and unstructured data, while cloud computing offers scalable and flexible resources to handle large datasets and complex computations. Together, they enable traders to analyze diverse data sources in real time.
+[Big Data](../b/big_data_in_trading.md) technologies manage and process vast quantities of structured and unstructured data, while [cloud computing](../c/cloud_computing_in_trading.md) offers scalable and flexible resources to handle large datasets and complex computations. Together, they enable traders to analyze diverse data sources in real time.
 
 ## Tools and Technologies
 
@@ -46,7 +46,7 @@ Several programming languages are popular in the domain:
 - **NumPy:** For numerical computations.
 - **Scikit-Learn:** For machine learning.
 - **TensorFlow and PyTorch:** For deep learning.
-- **NLTK and SpaCy:** For natural language processing.
+- **NLTK and SpaCy:** For [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md).
 
 ### Data Visualization Tools
 
@@ -75,7 +75,7 @@ HFT involves executing a large number of orders at extremely high speeds. It rel
 
 ### Risk Management
 
-Data science assists in [risk management](../r/risk_management.md) by quantifying and analyzing the potential risks in [trading strategies](../t/trading_strategies.md). Predictive models can forecast adverse market conditions, allowing traders to take preemptive measures. Techniques like Value at Risk (VaR) and Monte Carlo simulations are common in risk assessment.
+Data science assists in [risk management](../r/risk_management.md) by quantifying and analyzing the potential risks in [trading strategies](../t/trading_strategies.md). [Predictive models](../p/predictive_models_in_trading.md) can forecast adverse market conditions, allowing traders to take preemptive measures. Techniques like Value at Risk (VaR) and Monte Carlo simulations are common in risk assessment.
 
 ### Portfolio Management 
 
@@ -97,13 +97,13 @@ ML models can inadvertently introduce bias, leading to unfair trading practices.
 
 ### Model Interpretability
 
-Traders must understand how their models make decisions. Black-box models, particularly deep learning algorithms, can be challenging to interpret. Techniques like SHAP (SHapley Additive exPlanations) can help make model predictions more understandable.
+Traders must understand how their models make decisions. Black-box models, particularly deep [learning algorithms](../l/learning_algorithms_in_trading.md), can be challenging to interpret. Techniques like SHAP (SHapley Additive exPlanations) can help make model predictions more understandable.
 
 ## Future Trends
 
 ### Quantum Computing
 
-Quantum computing promises to revolutionize trading by solving complex optimization problems and performing computations at unprecedented speeds. While still in its infancy, it represents a potential game-changer for the industry.
+[Quantum computing](../q/quantum_computing_in_trading.md) promises to revolutionize trading by solving complex optimization problems and performing computations at unprecedented speeds. While still in its infancy, it represents a potential game-changer for the industry.
 
 ### AI and Autonomous Trading
 
@@ -121,4 +121,4 @@ For more information on companies specializing in data science for trading, refe
 
 - [Numerai](https://numer.ai/): A hedge fund that crowdsources data science and machine learning to create stock market predictions.
 - [Kensho Technologies](https://www.kensho.com/): Develops data analytics and machine learning solutions for financial markets.
-- [QuantConnect](https://www.quantconnect.com/): An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that integrates data science and cloud computing.
+- [QuantConnect](https://www.quantconnect.com/): An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that integrates data science and [cloud computing](../c/cloud_computing_in_trading.md).

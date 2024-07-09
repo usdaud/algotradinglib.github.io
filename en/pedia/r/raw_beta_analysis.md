@@ -44,7 +44,7 @@ Raw Beta plays a crucial role in risk assessment frameworks. Identifying high Be
 Though Raw Beta offers valuable insights, it comes with certain limitations:
 - **Lack of Adjustments**: Raw Beta does not account for factors like industry-specific risks or temporal stability. Adjusted Beta, on the other hand, factors in these nuances.
 - **Historical Basis**: As Raw Beta is based on historical data, it may not accurately predict future volatility, especially in dynamically changing market conditions.
-- **Single Measure**: Beta captures only one dimension of risk—market risk. It does not consider other risk factors such as company-specific events or macroeconomic changes.
+- **Single Measure**: Beta captures only one dimension of risk—market risk. It does not consider other [risk factors](../r/risk_factors_in_trading.md) such as company-specific events or macroeconomic changes.
 
 ## Real-World Examples
 
@@ -62,7 +62,7 @@ Hedge funds and investment management firms frequently utilize Raw Beta analyses
 
 1. **Two Sigma**: A quant-driven investment firm that utilizes statistical models, including Raw Beta in its strategies. More information can be found at [Two Sigma](https://www.twosigma.com/).
 
-2. **DE Shaw Group**: A global investment management firm employing complex mathematical models such as Raw Beta analytics. Visit their site at [DE Shaw](https://www.deshaw.com/).
+2. **DE Shaw Group**: A global investment management firm employing complex [mathematical models](../m/mathematical_models_in_trading.md) such as Raw Beta analytics. Visit their site at [DE Shaw](https://www.deshaw.com/).
 
 ## Case Study: A Simple Regression Analysis
 

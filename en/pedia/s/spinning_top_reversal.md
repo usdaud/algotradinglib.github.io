@@ -50,7 +50,7 @@ Incorporating the Spinning Top in [risk management](../r/risk_management.md) str
 While the Spinning Top is a valuable tool in [technical analysis](../t/technical_analysis.md), traders must be aware of its limitations and complement it with other indicators for robust decision-making.
 
 ### False Signals
-The Spinning Top can sometimes generate false signals, especially in volatile or thinly traded markets. Traders should use additional confirmation tools to validate the pattern.
+The Spinning Top can sometimes generate [false signals](../f/false_signals_in_trading.md), especially in volatile or thinly traded markets. Traders should use additional confirmation tools to validate the pattern.
 
 ### Complementary Indicators
 Using complementary indicators such as Moving Averages, Relative Strength Index (RSI), and [Volume analysis](../v/volume_analysis.md) enhances the reliability of the Spinning Top pattern. These indicators provide broader market insights and confirm potential reversals.

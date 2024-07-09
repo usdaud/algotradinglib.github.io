@@ -72,12 +72,12 @@ DE Shaw leverages quantitative methods, including relative [volatility models](.
 
 ### 2. **Two Sigma**
 
-Two Sigma combines data science with trading to execute complex strategies. Their models include extensive use of volatility metrics to optimize trade execution and [risk management](../r/risk_management.md).
+Two Sigma combines [data science](../d/data_science_in_trading.md) with trading to execute complex strategies. Their models include extensive use of volatility metrics to optimize trade execution and [risk management](../r/risk_management.md).
 - [Two Sigma](https://www.twosigma.com)
 
 ### 3. **Citadel**
 
-Citadel employs relative [volatility models](../v/volatility_models.md) in its quantitative strategies, enabling the firm to navigate market complexities and extract value from various volatility conditions.
+Citadel employs relative [volatility models](../v/volatility_models.md) in its [quantitative strategies](../q/quantitative_strategies_in_trading.md), enabling the firm to navigate market complexities and extract value from various volatility conditions.
 - [Citadel](https://www.citadel.com)
 
 ### 4. **Renaissance Technologies**

@@ -49,7 +49,7 @@ Unlike the Exponential Moving Average (EMA), which gives more weight to recent p
 
 2. **Not Predictive**: While SMAs help in identifying trends, they do not predict future prices. Relying solely on SMAs without other forms of analysis can be risky.
 
-3. **Can Give False Signals**: Particularly in sideways or non-trending markets, SMA can give false signals causing unnecessary trades and potential losses.
+3. **Can Give [False Signals](../f/false_signals_in_trading.md)**: Particularly in sideways or non-trending markets, SMA can give [false signals](../f/false_signals_in_trading.md) causing unnecessary trades and potential losses.
 
 #### Practical Usage
 

@@ -1,53 +1,53 @@
 # Quantum Finance Applications
 
-Quantum finance, a burgeoning field at the intersection of quantum computing and financial technology, promises to revolutionize the way we approach complex financial problems. Quantum computing, leveraging the principles of quantum mechanics, introduces capabilities far beyond what classical computers can achieve, particularly in solving optimization problems and performing computations that involve vast datasets. This could have profound effects on the world of algotrading, where decisions are made based on patterns, speed, and precision. Below, we delve into the various applications of quantum finance in [algorithmic trading](../a/algorithmic_trading.md) and broader financial systems.
+Quantum finance, a burgeoning field at the intersection of [quantum computing](../q/quantum_computing_in_trading.md) and financial technology, promises to revolutionize the way we approach complex financial problems. [Quantum computing](../q/quantum_computing_in_trading.md), leveraging the principles of quantum mechanics, introduces capabilities far beyond what classical computers can achieve, particularly in solving optimization problems and performing computations that involve vast datasets. This could have profound effects on the world of algotrading, where decisions are made based on patterns, speed, and precision. Below, we delve into the various applications of quantum finance in [algorithmic trading](../a/algorithmic_trading.md) and broader financial systems.
 
 ### Quantum Computing: An Overview
-Quantum computing operates on quantum bits or qubits, which unlike classical bits (restricted to 0 or 1) can exist in multiple states simultaneously due to superposition. Alongside superposition, quantum entanglement allows qubits that are entangled to be interdependent irrespective of the distance between them. These properties enable quantum computers to explore many solutions at once, dramatically increasing computational speed and capacity.
+[Quantum computing](../q/quantum_computing_in_trading.md) operates on quantum bits or qubits, which unlike classical bits (restricted to 0 or 1) can exist in multiple states simultaneously due to superposition. Alongside superposition, quantum entanglement allows qubits that are entangled to be interdependent irrespective of the distance between them. These properties enable quantum computers to explore many solutions at once, dramatically increasing computational speed and capacity.
 
 ### Quantum Algorithms in Finance
-Quantum algorithms leverage the principles of quantum computing to solve problems more efficiently:
+[Quantum algorithms](../q/quantum_algorithms_in_trading.md) leverage the principles of [quantum computing](../q/quantum_computing_in_trading.md) to solve problems more efficiently:
 
 1. **Shor's Algorithm**: Capable of factoring large integers exponentially faster than classical algorithms, impacting cryptographic securities.
 2. **Grover's Algorithm**: Provides quadratic speedup for unstructured search problems, useful for database searches crucial in financial data analysis.
 3. **Quantum Approximate Optimization Algorithm (QAOA)**: Optimizes portfolio selections by solving complex combinatorial problems.
 
 ### Applications in Algotrading
-[Algorithmic trading](../a/algorithmic_trading.md) involves the use of algorithms to automatically execute trades based on pre-defined criteria. Quantum computing can enhance several aspects of algotrading:
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of algorithms to automatically execute trades based on pre-defined criteria. [Quantum computing](../q/quantum_computing_in_trading.md) can enhance several aspects of algotrading:
 
 1. **[Portfolio Optimization](../p/portfolio_optimization.md)**:
-    Classical optimization techniques like Monte Carlo simulations struggle with the enormous state space of portfolio combinations. Quantum algorithms can optimize portfolios by evaluating risk and return profiles much faster. For example, QAOA can be used to select an optimal mix of securities given a large universe of potential investments.
+    Classical optimization techniques like Monte Carlo simulations struggle with the enormous state space of portfolio combinations. [Quantum algorithms](../q/quantum_algorithms_in_trading.md) can optimize portfolios by evaluating risk and return profiles much faster. For example, QAOA can be used to select an optimal mix of securities given a large universe of potential investments.
 
 2. **[Risk Management](../r/risk_management.md)**:
     Quantum computers can dramatically improve the calculation of [risk metrics](../r/risk_metrics.md) such as Value at Risk (VaR) and Conditional Value at Risk (CVaR) by simulating market scenarios and computing probabilities more efficiently. This deeper risk assessment capability improves [trading strategies](../t/trading_strategies.md) and hedging approaches.
 
 3. **[Market Simulation](../m/market_simulation.md)**:
-   Quantum computing can simulate the stock market with greater accuracy by accounting for more variables and interacting parts. These simulations can better predict market movements, allowing for more informed [trading strategies](../t/trading_strategies.md).
+   [Quantum computing](../q/quantum_computing_in_trading.md) can simulate the stock market with greater accuracy by accounting for more variables and interacting parts. These simulations can better predict market movements, allowing for more informed [trading strategies](../t/trading_strategies.md).
 
 4. **Data Analysis and [Pattern Recognition](../p/pattern_recognition.md)**:
-    [Quantum machine learning](../q/quantum_machine_learning.md) (QML) algorithms can detect patterns in large and complex datasets faster and more accurately. Algorithms such as Quantum Support Vector Machines (QSVM) and Quantum Neural Networks (QNN) could outperform their classical counterparts in identifying trade signals and anomalies.
+    [Quantum machine learning](../q/quantum_machine_learning.md) (QML) algorithms can detect patterns in large and complex datasets faster and more accurately. Algorithms such as Quantum [Support Vector Machines](../s/support_vector_machines_in_trading.md) (QSVM) and Quantum [Neural Networks](../n/neural_networks_in_trading.md) (QNN) could outperform their classical counterparts in identifying trade signals and anomalies.
 
 ### Major Players and Initiatives
-Several companies and institutions are spearheading the integration of quantum computing into the financial markets:
+Several companies and institutions are spearheading the integration of [quantum computing](../q/quantum_computing_in_trading.md) into the financial markets:
 
 1. **D-Wave Systems**:
     D-Wave offers quantum annealers that are already being used in some financial applications. Their advantage is in solving optimization problems, which are fundamental to [trading strategies](../t/trading_strategies.md).
     [D-Wave Systems](https://www.dwavesys.com/)
 
 2. **IBM Quantum**:
-    IBM’s Qiskit platform allows researchers to use quantum computers for financial applications. IBM has partnered with numerous financial institutions to explore the potential of quantum computing in finance.
+    IBM’s Qiskit platform allows researchers to use quantum computers for financial applications. IBM has partnered with numerous financial institutions to explore the potential of [quantum computing](../q/quantum_computing_in_trading.md) in finance.
     [IBM Quantum](https://www.ibm.com/quantum-computing/)
 
 3. **Google Quantum AI**:
-    Google is deeply invested in quantum computing and its applications in finance. Their advancements in quantum supremacy indicate a promising future for financial algorithms leveraging quantum computing.
+    Google is deeply invested in [quantum computing](../q/quantum_computing_in_trading.md) and its applications in finance. Their advancements in quantum supremacy indicate a promising future for financial algorithms leveraging [quantum computing](../q/quantum_computing_in_trading.md).
     [Google Quantum AI](https://quantumai.google/)
 
 4. **Goldman Sachs**:
-    Goldman Sachs has a dedicated team exploring quantum algorithms to optimize [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) processes. They are partnering with quantum computing companies to develop real-world financial applications.
+    Goldman Sachs has a dedicated team exploring [quantum algorithms](../q/quantum_algorithms_in_trading.md) to optimize [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) processes. They are partnering with [quantum computing](../q/quantum_computing_in_trading.md) companies to develop real-world financial applications.
     [Goldman Sachs](https://www.goldmansachs.com/our-firm/technology/quantum-computing/)
 
 ### Challenges and Considerations
-Despite the promise, several challenges must be addressed to fully realize quantum computing’s potential in finance:
+Despite the promise, several challenges must be addressed to fully realize [quantum computing](../q/quantum_computing_in_trading.md)’s potential in finance:
 
 1. **Quantum Decoherence**:
     Quantum systems are highly sensitive to external environments. Quantum decoherence, where the quantum state loses its quantum properties, is a significant hurdle. Techniques are being developed to mitigate these effects, but they remain an area of intense research.
@@ -59,10 +59,10 @@ Despite the promise, several challenges must be addressed to fully realize quant
     Current quantum computers have a limited number of qubits. Scaling up the number of qubits while maintaining coherence and connectivity between them is essential for more complex financial applications.
 
 4. **Integration with Classical Systems**:
-    Many financial systems rely on established classical computing infrastructures. Integrating quantum computing seamlessly into these systems without disrupting existing operations is a considerable challenge.
+    Many financial systems rely on established classical computing infrastructures. Integrating [quantum computing](../q/quantum_computing_in_trading.md) seamlessly into these systems without disrupting existing operations is a considerable challenge.
 
 ### Future Directions
-The future of quantum finance is ripe with possibilities. Research is ongoing to create more stable and scalable quantum systems, develop new quantum financial algorithms, and establish frameworks for integrating quantum technologies into existing financial infrastructures. The evolution of quantum computing promises to unlock unprecedented capabilities in [financial modeling](../f/financial_modeling.md), [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md), setting the stage for a new era of financial innovation.
+The future of quantum finance is ripe with possibilities. Research is ongoing to create more stable and scalable quantum systems, develop new quantum financial algorithms, and establish frameworks for integrating quantum technologies into existing financial infrastructures. The evolution of [quantum computing](../q/quantum_computing_in_trading.md) promises to unlock unprecedented capabilities in [financial modeling](../f/financial_modeling.md), [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md), setting the stage for a new era of financial innovation.
 
 ### Conclusion
-Quantum computing stands as a transformative force in the realm of finance, particularly for [algorithmic trading](../a/algorithmic_trading.md). By harnessing the power of quantum mechanics, financial institutions can expect to solve previously intractable problems and optimize [trading strategies](../t/trading_strategies.md) with unprecedented precision and speed. As technology advances, the applications of quantum finance will become increasingly widespread, offering novel solutions to complex financial challenges.
+[Quantum computing](../q/quantum_computing_in_trading.md) stands as a transformative force in the realm of finance, particularly for [algorithmic trading](../a/algorithmic_trading.md). By harnessing the power of quantum mechanics, financial institutions can expect to solve previously intractable problems and optimize [trading strategies](../t/trading_strategies.md) with unprecedented precision and speed. As technology advances, the applications of quantum finance will become increasingly widespread, offering novel solutions to complex financial challenges.

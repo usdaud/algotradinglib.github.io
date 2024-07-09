@@ -54,7 +54,7 @@ Another common method to generate signals is by using [moving average crossovers
 ### Disadvantages
 
 - **Lagging Indicator**: Because it is based on past prices, the 20-DMA is a lagging indicator and may not react quickly to sudden market changes.
-- **False Signals**: During periods of market consolidation or sideways movement, the 20-DMA can generate false signals.
+- **[False Signals](../f/false_signals_in_trading.md)**: During periods of market consolidation or sideways movement, the 20-DMA can generate [false signals](../f/false_signals_in_trading.md).
 
 ## Practical Applications
 

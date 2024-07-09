@@ -67,7 +67,7 @@ One of the most notable [jump diffusion models](../j/jump_diffusion_models.md) i
 
 \[ dS_t = \mu S_t dt + \sigma S_t dW_t + J S_t dq_t \]
 
-where \( S_t \) is the asset price, \( \mu \) is the drift factor, \( \sigma \) is the volatility, \( W_t \) is a Wiener process, \( J \) is a jump size, and \( dq_t \) is a Poisson process.
+where \( S_t \) is the asset price, \( \mu \) is the drift factor, \( \sigma \) is the volatility, \( W_t \) is a Wiener process, \( J \) is a jump size, and \( dq_t \) is a [Poisson process](../p/poisson_process_in_trading.md).
 
 [Jump diffusion models](../j/jump_diffusion_models.md) are excellent for environments where abrupt changes in price are common, enhancing the predictions' accuracy and robustness.
 
@@ -85,9 +85,9 @@ Despite their complexity, multifractal models offer profound insights into the i
 
 9. **Neural Network Volatility Models**
 ----------------------------------------
-Recent advancements in machine learning have given rise to neural network-based models for volatility prediction. Neural networks, particularly deep learning models, can capture complex patterns in financial data that traditional models might miss.
+Recent advancements in machine learning have given rise to neural network-based models for volatility prediction. [Neural networks](../n/neural_networks_in_trading.md), particularly deep learning models, can capture complex patterns in financial data that traditional models might miss.
 
-These models are trained using large datasets and leverage various architectures, such as Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks, to forecast future volatility. 
+These models are trained using large datasets and leverage various architectures, such as Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) and Long Short-Term Memory (LSTM) networks, to forecast future volatility. 
 
 Leading financial institutions and research groups are increasingly adopting machine learning approaches due to their adaptability and accuracy. Notable examples include work done by companies like [Two Sigma](https://www.twosigma.com) and [Numerai](https://numer.ai).
 

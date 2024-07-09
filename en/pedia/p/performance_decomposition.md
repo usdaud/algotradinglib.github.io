@@ -26,7 +26,7 @@ Execution quality measures how effectively the trading orders are executed in th
 
 ### 6. Specific Risk Factors
 
-Specific risk factors include those risks unique to the securities or strategies being traded. These may include company-specific news, sector trends, or other idiosyncratic risks that affect the performance. Breaking down performance to these factors can help in developing [hedging strategies](../h/hedging_strategies.md).
+Specific [risk factors](../r/risk_factors_in_trading.md) include those risks unique to the securities or strategies being traded. These may include company-specific news, sector trends, or other idiosyncratic risks that affect the performance. Breaking down performance to these factors can help in developing [hedging strategies](../h/hedging_strategies.md).
 
 ### 7. Environmental Factors
 
@@ -44,7 +44,7 @@ Attribution analysis is a common method used to decompose performance. It breaks
 
 ### 3. Factor Models
 
-[Factor models](../f/factor_models.md), such as the Fama-French three-factor model or the Carhart four-factor model, help in breaking down returns into different risk factors. These models provide a systematic way to decompose performance by accounting for market risk, size, value, and momentum effects.
+[Factor models](../f/factor_models.md), such as the Fama-French three-factor model or the Carhart four-factor model, help in breaking down returns into different [risk factors](../r/risk_factors_in_trading.md). These models provide a systematic way to decompose performance by accounting for market risk, size, value, and momentum effects.
 
 ### 4. Scenario Analysis
 

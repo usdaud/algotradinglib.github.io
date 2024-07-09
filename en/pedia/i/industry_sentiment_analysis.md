@@ -1,6 +1,6 @@
 # Industry Sentiment Analysis
 
-Industry [sentiment analysis](../s/sentiment_analysis.md) is a method of utilizing natural language processing (NLP), text analysis, and computational linguistics to identify and extract subjective information from various sources, ultimately determining the overall sentiment or tone towards industries in financial markets. This analysis helps in understanding the general mood and opinions expressed in news articles, social media, forums, and other text-rich data sources about a specific industry, which can then be leveraged to make informed trading decisions. 
+Industry [sentiment analysis](../s/sentiment_analysis.md) is a method of utilizing [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), text analysis, and computational linguistics to identify and extract subjective information from various sources, ultimately determining the overall sentiment or tone towards industries in financial markets. This analysis helps in understanding the general mood and opinions expressed in news articles, social media, forums, and other text-rich data sources about a specific industry, which can then be leveraged to make informed trading decisions. 
 
 ## The Importance of Sentiment Analysis in Trading
 
@@ -21,13 +21,13 @@ Monitoring sentiment can help traders manage risks more effectively. By understa
 Text mining involves aggregating and analyzing large volumes of text to extract meaningful patterns and trends. Sources include news articles, earnings reports, social media posts, and blogs. Text mining tools use keyword extraction, clustering, and classification to interpret texts and determine sentiment.
 
 ### 2. **Natural Language Processing (NLP)**
-NLP is a field of artificial intelligence that focuses on the interaction between computers and human language. It aims to read, decipher, and understand human languages in a valuable way. NLP techniques like tokenization, part-of-speech tagging, and entity recognition help in capturing the sentiment within industry-related textual data.
+NLP is a field of [artificial intelligence](../a/artificial_intelligence_in_trading.md) that focuses on the interaction between computers and human language. It aims to read, decipher, and understand human languages in a valuable way. NLP techniques like tokenization, part-of-speech tagging, and entity recognition help in capturing the sentiment within industry-related textual data.
 
 ### 3. **Machine Learning**
-Machine learning algorithms can classify text data into sentiment categories based on training data. Supervised learning models like logistic regression, support vector machines (SVM), and neural networks have been extensively used for [sentiment analysis](../s/sentiment_analysis.md), showing remarkable accuracy in predicting sentiment.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can classify text data into sentiment categories based on training data. Supervised learning models like [logistic regression](../l/logistic_regression_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), and [neural networks](../n/neural_networks_in_trading.md) have been extensively used for [sentiment analysis](../s/sentiment_analysis.md), showing remarkable accuracy in predicting sentiment.
 
 ### 4. **Deep Learning**
-Deep learning approaches, particularly those involving recurrent neural networks (RNN) and convolutional neural networks (CNN), offer superior performance in capturing complex patterns in textual data. Models like Long Short-Term Memory (LSTM) and Bidirectional Encoder Representations from Transformers (BERT) have set new benchmarks in [sentiment analysis](../s/sentiment_analysis.md) accuracy.
+Deep learning approaches, particularly those involving recurrent [neural networks](../n/neural_networks_in_trading.md) (RNN) and convolutional [neural networks](../n/neural_networks_in_trading.md) (CNN), offer superior performance in capturing complex patterns in textual data. Models like Long Short-Term Memory (LSTM) and Bidirectional Encoder Representations from Transformers (BERT) have set new benchmarks in [sentiment analysis](../s/sentiment_analysis.md) accuracy.
 
 ## Applications and Tools
 
@@ -35,7 +35,7 @@ Deep learning approaches, particularly those involving recurrent neural networks
 A number of financial services provide [sentiment analysis](../s/sentiment_analysis.md) tools focused on financial news. These platforms analyze news articles from a wide range of sources to generate sentiment scores for different industries or specific stocks. 
 
 #### Example: [RavenPack](https://www.ravenpack.com/)
-[RavenPack](../r/ravenpack.md) is a renowned provider of [sentiment analysis](../s/sentiment_analysis.md) tools focused on financial markets. Their platform uses NLP and big data analytics to turn unstructured data into actionable analytics, offering insights that traders can integrate into their [trading strategies](../t/trading_strategies.md).
+[RavenPack](../r/ravenpack.md) is a renowned provider of [sentiment analysis](../s/sentiment_analysis.md) tools focused on financial markets. Their platform uses NLP and [big data analytics](../b/big_data_analytics_in_trading.md) to turn unstructured data into actionable analytics, offering insights that traders can integrate into their [trading strategies](../t/trading_strategies.md).
 
 ### 2. **Social Media Monitoring**
 Monitoring social media platforms like Twitter, Reddit, and LinkedIn for [sentiment analysis](../s/sentiment_analysis.md) is increasingly common. These platforms provide real-time data reflecting public opinions and can significantly impact market sentiments, especially in retail-heavy stocks.

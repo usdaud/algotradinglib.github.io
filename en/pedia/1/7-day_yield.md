@@ -79,7 +79,7 @@ Calculating and annualizing 7-day yields involves significant computational reso
 
 ### Enhanced Algorithms
 
-As machine learning and artificial intelligence continue to advance, we can expect to see more sophisticated algorithms that can better analyze 7-day yield data and incorporate it into [trading strategies](../t/trading_strategies.md). These algorithms will be capable of identifying more subtle patterns and making more accurate predictions.
+As machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) continue to advance, we can expect to see more sophisticated algorithms that can better analyze 7-day yield data and incorporate it into [trading strategies](../t/trading_strategies.md). These algorithms will be capable of identifying more subtle patterns and making more accurate predictions.
 
 ### Integration with Other Metrics
 

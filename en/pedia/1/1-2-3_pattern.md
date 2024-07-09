@@ -104,7 +104,7 @@ print(patterns)
 
 ### Considerations and Challenges
 
-1. **False Signals:** The 1-2-3 pattern can generate false signals, particularly in a choppy or sideways market environment. It is crucial to combine the pattern with other confirmation tools.
+1. **[False Signals](../f/false_signals_in_trading.md):** The 1-2-3 pattern can generate [false signals](../f/false_signals_in_trading.md), particularly in a choppy or sideways market environment. It is crucial to combine the pattern with other confirmation tools.
 2. **Market Conditions:** The efficiency of the 1-2-3 pattern can vary depending on market conditions. It may work better in trending markets than in ranging markets.
 3. **Algorithm Complexity:** While identifying the 1-2-3 pattern may seem simple, implementing it as part of an algorithmic strategy requires consideration of different market scenarios, [risk management](../r/risk_management.md), and optimization techniques.
 

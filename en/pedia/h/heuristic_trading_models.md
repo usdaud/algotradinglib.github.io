@@ -1,6 +1,6 @@
 # Heuristic Trading Models
 
-Heuristic [trading models](../t/trading_models.md) are algorithms that utilize heuristic methods to make trading decisions. Heuristics are techniques designed to solve problems more quickly and with less computational effort than traditional methods, which enable traders to operate efficiently in the fast-paced financial market. These models often incorporate rules of thumb, educated guesses, intuitive judgments, or common-sense strategies to identify trading opportunities. Heuristic models stand in contrast to more sophisticated approaches like machine learning or artificial intelligence, although the lines can sometimes blur as methods evolve and integrate.
+Heuristic [trading models](../t/trading_models.md) are algorithms that utilize heuristic methods to make trading decisions. Heuristics are techniques designed to solve problems more quickly and with less computational effort than traditional methods, which enable traders to operate efficiently in the fast-paced financial market. These models often incorporate rules of thumb, educated guesses, intuitive judgments, or common-sense strategies to identify trading opportunities. Heuristic models stand in contrast to more sophisticated approaches like machine learning or [artificial intelligence](../a/artificial_intelligence_in_trading.md), although the lines can sometimes blur as methods evolve and integrate.
 
 ## History and Background
 Heuristic methods in trading can trace their origins to the early days of automated trading. Before the advent of modern computational power, traders relied on simplistic rules and patterns to make trading decisions. These early forms of heuristics were manually implemented and lacked the sophistication of contemporary models. 
@@ -19,7 +19,7 @@ Rule-based systems are one of the simplest forms of heuristic models. These syst
 With the rise of social media and online forums, [sentiment analysis](../s/sentiment_analysis.md) has become an important tool in heuristic trading. Traders use algorithms to analyze the sentiment of news articles, tweets, and other text sources to gauge market sentiment. Positive sentiment may trigger buy signals, while negative sentiment may trigger sell signals.
 
 ### Genetic Algorithms
-Genetic algorithms are optimization heuristics inspired by the process of natural selection. These algorithms operate by creating a population of potential solutions to a problem and evolving them over time through selection, crossover, and mutation. In trading, genetic algorithms can optimize the parameters of a trading strategy to maximize performance.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) are optimization heuristics inspired by the process of natural selection. These algorithms operate by creating a population of potential solutions to a problem and evolving them over time through selection, crossover, and mutation. In trading, [genetic algorithms](../g/genetic_algorithms_in_trading.md) can optimize the parameters of a trading strategy to maximize performance.
 
 ## Applications in Financial Markets
 
@@ -38,7 +38,7 @@ In the options and [derivatives](../d/derivatives.md) markets, heuristic models 
 ## Advantages of Heuristic Trading
 
 1. **Speed**: Heuristic models enable rapid decision-making, which is crucial in high-frequency trading environments.
-2. **Simplicity**: These models are relatively simple to understand and implement compared to more complex machine learning algorithms.
+2. **Simplicity**: These models are relatively simple to understand and implement compared to more complex machine [learning algorithms](../l/learning_algorithms_in_trading.md).
 3. **Flexibility**: Heuristic models can be easily adapted and modified to suit different market conditions.
 4. **Cost-Effectiveness**: Developing and maintaining heuristic models is generally less expensive compared to advanced AI models.
 
@@ -55,14 +55,14 @@ In the options and [derivatives](../d/derivatives.md) markets, heuristic models 
 Renaissance Technologies, founded by Jim Simons, is a leading hedge fund known for its use of [quantitative trading](../q/quantitative_trading.md) models. While the firm utilizes a range of sophisticated techniques, heuristic methods still play a role in its [trading strategies](../t/trading_strategies.md). More details can be found on their [official website](https://www.rentec.com/).
 
 ### Two Sigma
-Two Sigma, another prominent hedge fund, uses data science and advanced technology to make informed trading decisions. Heuristic models are part of their extensive toolkit. For more information, visit their [official website](https://www.twosigma.com/).
+Two Sigma, another prominent hedge fund, uses [data science](../d/data_science_in_trading.md) and advanced technology to make informed trading decisions. Heuristic models are part of their extensive toolkit. For more information, visit their [official website](https://www.twosigma.com/).
 
 ### Bridgewater Associates
 Founded by Ray Dalio, Bridgewater Associates is one of the largest hedge funds globally. The firm employs a variety of [trading strategies](../t/trading_strategies.md), including heuristic models. Additional information is available on their [official website](https://www.bridgewater.com/).
 
 ## Future of Heuristic Trading Models
 
-As technology continues to advance, the distinction between heuristic and more sophisticated models like machine learning will likely become increasingly blurred. Future heuristic models may incorporate elements of AI and machine learning to enhance their performance and adaptability. Additionally, the growing availability of big data will provide more opportunities for heuristic models to analyze and exploit market patterns.
+As technology continues to advance, the distinction between heuristic and more sophisticated models like machine learning will likely become increasingly blurred. Future heuristic models may incorporate elements of AI and machine learning to enhance their performance and adaptability. Additionally, the growing availability of [big data](../b/big_data_in_trading.md) will provide more opportunities for heuristic models to analyze and exploit market patterns.
 
 However, the fundamental principles of simplicity, speed, and cost-effectiveness will continue to make heuristic models a valuable tool in the trader's arsenal. As markets become more complex, the need for diverse strategies, including heuristic approaches, will only grow.
 

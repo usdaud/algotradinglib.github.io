@@ -1,6 +1,6 @@
 # Order Management Systems
 
-Order Management Systems (OMS) are integral tools in the realm of [algorithmic trading](../a/algorithmic_trading.md), providing traders with sophisticated means to handle and streamline the execution of trading orders. An OMS acts as a centralized system that facilitates and automates the process of managing orders efficiently throughout their entire lifecycle, from initial order input to execution and eventual settlement. This comprehensive exploration will delve into the various aspects of OMS, including their functionalities, benefits, architecture, and key vendors offering such systems.
+[Order Management](../o/order_management_in_trading.md) Systems (OMS) are integral tools in the realm of [algorithmic trading](../a/algorithmic_trading.md), providing traders with sophisticated means to handle and streamline the execution of trading orders. An OMS acts as a centralized system that facilitates and automates the process of managing orders efficiently throughout their entire lifecycle, from initial order input to execution and eventual settlement. This comprehensive exploration will delve into the various aspects of OMS, including their functionalities, benefits, architecture, and key vendors offering such systems.
 
 ## Key Functionalities
 
@@ -28,7 +28,7 @@ For portfolio managers, an OMS includes features for allocating executed orders 
 
 ### Efficiency and Accuracy
 
-Automating order management processes reduces the likelihood of human error and accelerates trade execution. This efficiency is critical in the fast-paced environment of [algorithmic trading](../a/algorithmic_trading.md).
+Automating [order management](../o/order_management_in_trading.md) processes reduces the likelihood of human error and accelerates trade execution. This efficiency is critical in the fast-paced environment of [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Cost Reduction
 
@@ -66,19 +66,19 @@ The back-end comprises the data storage and management systems. It stores histor
 
 ### Charles River IMS
 
-Charles River Development, a subsidiary of State Street, offers the Charles River Investment Management Solution (IMS), which includes comprehensive OMS capabilities. It caters to investment managers by offering order management, compliance, risk monitoring, and more.
+Charles River Development, a subsidiary of State Street, offers the Charles River Investment Management Solution (IMS), which includes comprehensive OMS capabilities. It caters to investment managers by offering [order management](../o/order_management_in_trading.md), compliance, risk monitoring, and more.
 
 [Learn more about Charles River IMS](https://www.crd.com/solutions/investment-management-solution/order-management/)
 
 ### Eze Software
 
-Eze Software provides the Eze OMS, which integrates with their suite of trading, [portfolio management](../p/portfolio_management.md), and compliance tools. This OMS is designed to offer flexible, efficient, and compliant order management solutions for investment firms.
+Eze Software provides the Eze OMS, which integrates with their suite of trading, [portfolio management](../p/portfolio_management.md), and compliance tools. This OMS is designed to offer flexible, efficient, and compliant [order management](../o/order_management_in_trading.md) solutions for investment firms.
 
 [Learn more about Eze Software](https://www.ezesoft.com/solutions/order-management/)
 
 ### Fidessa
 
-Fidessa, part of ION Group, offers an advanced OMS known for its high-performance trading capabilities. It caters to various market participants, including broker-dealers and institutional investors, providing robust order management and execution services.
+Fidessa, part of ION Group, offers an advanced OMS known for its high-performance trading capabilities. It caters to various market participants, including broker-dealers and institutional investors, providing robust [order management](../o/order_management_in_trading.md) and execution services.
 
 [Learn more about Fidessa](https://iongroup.com/fidessa/)
 
@@ -90,4 +90,4 @@ SS&C Technologies provides the SS&C Eze OMS, a solution built to streamline [ord
 
 ## Conclusion
 
-Order Management Systems are indispensable in modern [algorithmic trading](../a/algorithmic_trading.md), providing the necessary tools to manage orders efficiently, comply with regulations, and optimize [trading performance](../t/trading_performance.md). With the growing complexity and scale of financial markets, the role of OMS solutions continues to evolve, becoming more advanced and integral to the trading strategy and operational infrastructure of financial institutions.
+[Order Management](../o/order_management_in_trading.md) Systems are indispensable in modern [algorithmic trading](../a/algorithmic_trading.md), providing the necessary tools to manage orders efficiently, comply with regulations, and optimize [trading performance](../t/trading_performance.md). With the growing complexity and scale of financial markets, the role of OMS solutions continues to evolve, becoming more advanced and integral to the trading strategy and operational infrastructure of financial institutions.

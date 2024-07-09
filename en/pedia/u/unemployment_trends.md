@@ -23,8 +23,8 @@ One of the most immediate and visible impacts of [algorithmic trading](../a/algo
 While traditional trading jobs decline, there is a corresponding increase in demand for roles related to the development, maintenance, and oversight of [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 - **Algorithm Developers**: These professionals design and implement [trading algorithms](../t/trading_algorithms.md), requiring expertise in programming languages such as Python, C++, and R.
-- **Data Scientists**: With big data playing a crucial role in [algorithmic trading](../a/algorithmic_trading.md), data scientists are employed to collect, process, and analyze market and economic data to inform [trading algorithms](../t/trading_algorithms.md).
-- **Quantitative Analysts (Quants)**: Quants use mathematical models to identify trading opportunities and manage risk, a role that has become central to many financial firms.
+- **Data Scientists**: With [big data](../b/big_data_in_trading.md) playing a crucial role in [algorithmic trading](../a/algorithmic_trading.md), data scientists are employed to collect, process, and analyze market and economic data to inform [trading algorithms](../t/trading_algorithms.md).
+- **Quantitative Analysts (Quants)**: Quants use [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities and manage risk, a role that has become central to many financial firms.
 
 ### Training and Development
 
@@ -78,7 +78,7 @@ Virtu Financial is known for its extensive use of high-frequency trading (HFT) a
 
 ### Two Sigma
 
-Two Sigma combines data science and advanced technology to drive investment research and [trading strategies](../t/trading_strategies.md).
+Two Sigma combines [data science](../d/data_science_in_trading.md) and advanced technology to drive investment research and [trading strategies](../t/trading_strategies.md).
 
 - **Diversified Teams**: Their workforce is diversified, consisting of data scientists, software engineers, and financial analysts working together.
 - **Research and Development**: Heavy focus on R&D has meant continuous hiring in technological roles, overshadowing traditional finance roles.

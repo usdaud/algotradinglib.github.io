@@ -33,7 +33,7 @@ Each Nikkei futures contract specifies:
 2. **Placing Orders**: Buy or sell the futures contract through the trading platform provided by the broker. 
 3. **Initial Margin**: Deposit an initial margin, a fraction of the contract value, with the broker as collateral.
 4. **Mark-to-Market**: Futures accounts are adjusted daily to reflect market movements. If the position incurs losses, additional margin must be deposited.
-5. **Expiration and Settlement**: On specifying the date, the futures contract must be settled. Settlement is typically done through cash rather than physical delivery of shares.
+5. **Expiration and Settlement**: On specifying the date, the futures contract must be settled. Settlement is typically done through cash rather than [physical delivery](../p/physical_delivery_in_trading.md) of shares.
 
 ## Trading Strategies
 

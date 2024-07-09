@@ -1,6 +1,6 @@
 # Algorithmic Options Trading
 
-Algorithmic options trading refers to the use of computer algorithms to trade options. Options are financial [derivatives](../d/derivatives.md) that give the buyer the right, but not the obligation, to buy or sell an underlying asset at a specified price on or before a specified date. The underlying asset could be a stock, commodity, index, or other financial instrument. [Algorithmic trading](../a/algorithmic_trading.md) involves the use of advanced mathematical models, automation, and computers to execute trades at high speeds and volumes that would be impossible for a human trader to handle.
+Algorithmic options trading refers to the use of computer algorithms to trade options. Options are financial [derivatives](../d/derivatives.md) that give the buyer the right, but not the obligation, to buy or sell an underlying asset at a specified price on or before a specified date. The underlying asset could be a stock, commodity, index, or other financial instrument. [Algorithmic trading](../a/algorithmic_trading.md) involves the use of advanced [mathematical models](../m/mathematical_models_in_trading.md), automation, and computers to execute trades at high speeds and volumes that would be impossible for a human trader to handle.
 
 ## Key Concepts of Algorithmic Options Trading
 
@@ -14,7 +14,7 @@ The price paid for the option is known as the premium. The strike price is the p
 
 ### 2. Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, employs complex algorithms and mathematical models to automate the trading process. In the context of options trading, these algorithms can be used to identify trading opportunities, execute orders, and manage risk. 
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, employs complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md) to automate the trading process. In the context of options trading, these algorithms can be used to identify trading opportunities, execute orders, and manage risk. 
 
 Key features of [algorithmic trading](../a/algorithmic_trading.md) include:
 - **Speed**: Algorithms can execute trades much faster than human traders.
@@ -58,7 +58,7 @@ The next step is designing the trading algorithm. Programmers and quantitative a
 
 #### Algorithm Validation
 
-Before deploying an algorithm in a live [trading environment](../t/trading_environment.md), it must be validated to ensure it behaves as expected under various market conditions. This involves [backtesting](../b/backtesting.md), stress testing, and forward testing the algorithm.
+Before deploying an algorithm in a live [trading environment](../t/trading_environment.md), it must be validated to ensure it behaves as expected under various market conditions. This involves [backtesting](../b/backtesting.md), [stress testing](../s/stress_testing_in_trading.md), and forward testing the algorithm.
 
 #### Deployment and Monitoring
 
@@ -82,7 +82,7 @@ Several firms specialize in algorithmic options trading. Some of the notable fir
 - **Citadel Securities**: A leading market maker providing liquidity in a wide range of financial instruments, including options, using advanced algorithms.
   [Citadel Securities](https://www.citadelsecurities.com/)
 
-- **Two Sigma**: A technology-driven [quantitative trading](../q/quantitative_trading.md) firm using data science and advanced algorithms to trade options and other financial instruments.
+- **Two Sigma**: A technology-driven [quantitative trading](../q/quantitative_trading.md) firm using [data science](../d/data_science_in_trading.md) and advanced algorithms to trade options and other financial instruments.
   [Two Sigma](https://www.twosigma.com/)
 
 - **IMC**: A [proprietary trading](../p/proprietary_trading.md) firm and market maker specializing in [algorithmic trading](../a/algorithmic_trading.md) across various asset classes, including options.
@@ -92,4 +92,4 @@ These firms invest heavily in technology and employ teams of quantitative analys
 
 ### Conclusion
 
-Algorithmic options trading represents a sophisticated and highly technological approach to trading options. By leveraging advanced mathematical models, automation, and high-speed computing, traders can identify opportunities, execute trades, and manage risk more efficiently than traditional manual trading methods. While the approach offers significant advantages, it also requires substantial resources, technical expertise, and robust [risk management](../r/risk_management.md) practices to be successful. As technology and markets continue to evolve, algorithmic options trading is likely to remain at the forefront of financial innovation.
+Algorithmic options trading represents a sophisticated and highly technological approach to trading options. By leveraging advanced [mathematical models](../m/mathematical_models_in_trading.md), automation, and high-speed computing, traders can identify opportunities, execute trades, and manage risk more efficiently than traditional manual trading methods. While the approach offers significant advantages, it also requires substantial resources, technical expertise, and robust [risk management](../r/risk_management.md) practices to be successful. As technology and markets continue to evolve, algorithmic options trading is likely to remain at the forefront of financial innovation.

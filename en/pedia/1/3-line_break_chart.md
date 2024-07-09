@@ -39,7 +39,7 @@ Algo trading involves using algorithms to make trading decisions based on predef
 
 1. **Automated Trend Detection**: Algorithms can automate the detection of trend reversals and continuations as defined by 3-line break rules. By systematically identifying true trend changes, algorithms can make more reliable trading decisions.
 2. **[Backtesting](../b/backtesting.md)**: Algorithms can backtest [trading strategies](../t/trading_strategies.md) based on historical 3-line break data to evaluate the efficacy before applying them in live trading.
-3. **Minimized Reactions to Market Noise**: Incorporating 3-line break chart principles into algo [trading systems](../t/trading_systems.md) helps reduce the number of false signals triggered by insignificant price movements, leading to potentially higher accuracy in trade entries and exits.
+3. **Minimized Reactions to Market Noise**: Incorporating 3-line break chart principles into algo [trading systems](../t/trading_systems.md) helps reduce the number of [false signals](../f/false_signals_in_trading.md) triggered by insignificant price movements, leading to potentially higher accuracy in trade entries and exits.
 
 #### Integrations and Tools
 

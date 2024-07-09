@@ -42,7 +42,7 @@ Some of the key aspects of yield matching in [algorithmic trading](../a/algorith
    
 2. **Dynamic Rebalancing**: Algorithms can continuously monitor the portfolio and execute trades to maintain the desired yield profile, especially in response to market changes or new liability forecasts.
    
-3. **[Risk Management](../r/risk_management.md)**: Algorithms can incorporate complex risk models to ensure that the yield-matching strategy accounts for various risk factors, including interest rate changes, credit risk, and market liquidity.
+3. **[Risk Management](../r/risk_management.md)**: Algorithms can incorporate complex [risk models](../r/risk_models_in_trading.md) to ensure that the yield-matching strategy accounts for various [risk factors](../r/risk_factors_in_trading.md), including interest rate changes, credit risk, and market liquidity.
    
 4. **Efficiency**: By automating the trading process, algorithms can execute yield-matching strategies more efficiently and at lower costs compared to manual trading.
 
@@ -66,13 +66,13 @@ Yield matching is widely used by institutional investors across the globe. Here 
 
 The evolution of technology has significantly enhanced the process of yield matching. Here are some key technological advancements:
 
-1. **Big Data Analytics**: The use of big data allows for more accurate prediction of cash flows and liabilities, enabling more precise yield-matching strategies.
+1. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: The use of [big data](../b/big_data_in_trading.md) allows for more accurate prediction of cash flows and liabilities, enabling more precise yield-matching strategies.
    
-2. **Machine Learning**: Machine learning algorithms can identify patterns and trends in market data, improving the selection of [fixed income securities](../f/fixed_income_securities.md) for yield matching.
+2. **Machine Learning**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can identify patterns and trends in market data, improving the selection of [fixed income securities](../f/fixed_income_securities.md) for yield matching.
    
-3. **Blockchain**: Blockchain technology can provide enhanced security and transparency in bond transactions, reducing [counterparty risk](../c/counterparty_risk.md) and ensuring reliable execution of yield-matching strategies.
+3. **[Blockchain](../b/blockchain_in_trading.md)**: [Blockchain](../b/blockchain_in_trading.md) technology can provide enhanced security and transparency in bond transactions, reducing [counterparty risk](../c/counterparty_risk.md) and ensuring reliable execution of yield-matching strategies.
    
-4. **Cloud Computing**: Cloud-based platforms enable [real-time data analysis](../r/real-time_data_analysis.md) and trade execution, making yield-matching strategies more responsive to market changes.
+4. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Cloud-based platforms enable [real-time data analysis](../r/real-time_data_analysis.md) and trade execution, making yield-matching strategies more responsive to market changes.
 
 ### Conclusion
 

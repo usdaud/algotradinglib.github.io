@@ -34,7 +34,7 @@ Trends persist until clear signals indicate that they have reversed. This means 
 By analyzing price movements and volume, investors can identify the primary, secondary, and minor trends. This helps in making informed decisions on entry and exit points, aligning investment strategies with the overall market direction.
 
 ### Confirmation of Trends
-Using the principle that the averages must confirm each other, investors can look for alignment between different market indices. This helps to validate trends and avoids potential false signals.
+Using the principle that the averages must confirm each other, investors can look for alignment between different market indices. This helps to validate trends and avoids potential [false signals](../f/false_signals_in_trading.md).
 
 ### Volume Analysis
 Evaluating trading volumes provides additional insights into the strength of trends. Investors can use this information to confirm or question the validity of price movements, aiding in more accurate [trend analysis](../t/trend_analysis.md).

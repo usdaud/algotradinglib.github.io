@@ -71,9 +71,9 @@ Algorithms can be designed to recognize specific chart patterns by analyzing pri
 
 ### Machine Learning and AI
 
-Machine learning and artificial intelligence can significantly enhance [pattern recognition](../p/pattern_recognition.md) in [algorithmic trading](../a/algorithmic_trading.md):
+Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can significantly enhance [pattern recognition](../p/pattern_recognition.md) in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **Supervised Learning:** Algorithms can be trained on historical data to learn specific chart patterns and their subsequent price movements. Models like Support Vector Machines (SVM), Random Forests, and Neural Networks are often used.
+- **Supervised Learning:** Algorithms can be trained on historical data to learn specific chart patterns and their subsequent price movements. Models like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) are often used.
   
 - **Unsupervised Learning:** Clustering techniques like K-means or Hierarchical Clustering can group similar patterns together without predefined labels, potentially discovering new patterns.
 

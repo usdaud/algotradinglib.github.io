@@ -37,14 +37,14 @@ Retail forex traders often take unhedged positions due to the high costs associa
 
 ### Understanding and Assessing Risk
 1. **Risk Assessment Tools:** Utilizing tools to assess potential risks can help in understanding the exposure of unhedged positions.
-2. **Simulation and [Backtesting](../b/backtesting.md):** Running simulations and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) can provide insight into how unhedged positions might perform under different market conditions.
+2. **[Simulation](../s/simulation_in_trading.md) and [Backtesting](../b/backtesting.md):** Running simulations and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) can provide insight into how unhedged positions might perform under different market conditions.
 
 ### Implementing Risk Management Practices
 1. **[Stop-Loss Orders](../s/stop-loss_orders.md):** Placing [stop-loss orders](../s/stop-loss_orders.md) can limit potential losses by automatically closing positions once they reach a certain loss threshold.
 2. **Diversification:** Spreading investments across different assets can mitigate the risk of unhedged positions by not relying on a single market or asset.
 
 ### Advanced Trading Algorithms
-Advanced [algorithmic trading](../a/algorithmic_trading.md) systems might include risk parameters to manage unhedged positions more effectively. For instance, machine learning algorithms can adapt to market conditions and optimize [trading strategies](../t/trading_strategies.md) to minimize risk exposure.
+Advanced [algorithmic trading](../a/algorithmic_trading.md) systems might include risk parameters to manage unhedged positions more effectively. For instance, machine [learning algorithms](../l/learning_algorithms_in_trading.md) can adapt to market conditions and optimize [trading strategies](../t/trading_strategies.md) to minimize risk exposure.
 
 ## Industry Perspectives
 
@@ -62,7 +62,7 @@ Several trading platforms offer tools and features that assist in managing unhed
 
 1. **MetaTrader 5 (MT5):** Known for its advanced charting tools and trading automation capabilities, MT5 allows traders to implement custom algorithms and [risk management](../r/risk_management.md) strategies. [MetaTrader](https://www.metatrader5.com)
 
-2. **Interactive Brokers:** This platform provides a range of [risk management](../r/risk_management.md) tools, including options for creating hedged strategies, even if the primary position is unhedged. [Interactive Brokers](https://www.interactivebrokers.com)
+2. **[Interactive Brokers](../i/interactive_brokers.md):** This platform provides a range of [risk management](../r/risk_management.md) tools, including options for creating hedged strategies, even if the primary position is unhedged. [Interactive Brokers](https://www.interactivebrokers.com)
 
 3. **[QuantConnect](../q/quantconnect.md):** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading while allowing customization to manage unhedged positions. [QuantConnect](https://www.quantconnect.com)
 

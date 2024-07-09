@@ -2,13 +2,13 @@
 
 ## Introduction to Yen Trading
 
-The Japanese Yen (JPY) is one of the most traded currencies in the world, and for good reason. Japan’s economy is the third largest in the world by nominal GDP, and the Yen itself is a safe-haven currency highly sought after during times of economic uncertainty. This document delves into the various strategies used in trading the Japanese Yen, focusing particularly on [algorithmic trading](../a/algorithmic_trading.md) strategies that leverage modern technology for profit.
+The Japanese Yen (JPY) is one of the most traded currencies in the world, and for good reason. Japan’s economy is the third largest in the world by nominal GDP, and the Yen itself is a safe-haven currency highly sought after during times of economic [uncertainty](../u/uncertainty_in_trading.md). This document delves into the various strategies used in trading the Japanese Yen, focusing particularly on [algorithmic trading](../a/algorithmic_trading.md) strategies that leverage modern technology for profit.
 
 ## Key Concepts in Yen Trading
 
 ### Safe-Haven Currency
 
-The Japanese Yen is considered a "safe-haven" currency, which means it often appreciates in value during periods of global economic uncertainty. This is due to Japan's stable economic and political environment, as well as its significant current account surplus.
+The Japanese Yen is considered a "safe-haven" currency, which means it often appreciates in value during periods of global economic [uncertainty](../u/uncertainty_in_trading.md). This is due to Japan's stable economic and political environment, as well as its significant current account surplus.
 
 ### Carry Trade
 
@@ -28,7 +28,7 @@ For traders using [fundamental analysis](../f/fundamental_analysis.md), several 
 
 ### Geopolitical Events
 
-Geopolitical stability in the Asia-Pacific region, trade relations, and government policies also significantly impact Yen trading. For instance, diplomatic relations between Japan and its major trading partners can affect currency value.
+Geopolitical stability in the Asia-Pacific region, trade relations, and [government policies](../g/government_policies_in_trading.md) also significantly impact Yen trading. For instance, diplomatic relations between Japan and its major trading partners can affect currency value.
 
 ## Technical Analysis in Yen Trading
 
@@ -76,9 +76,9 @@ Momentum strategies capitalize on the persistence of market trends. Traders focu
 
 Advancements in machine learning have introduced sophisticated models that can predict currency movements. These models might include:
 
-- **Neural Networks:** Deep learning algorithms trained on vast datasets.
-- **Support Vector Machines (SVM):** Supervised learning models used for classification and regression.
-- **Genetic Algorithms:** Optimization techniques inspired by natural selection processes.
+- **[Neural Networks](../n/neural_networks_in_trading.md):** Deep [learning algorithms](../l/learning_algorithms_in_trading.md) trained on vast datasets.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** Supervised learning models used for classification and regression.
+- **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md):** Optimization techniques inspired by natural selection processes.
 
 ## Risk Management
 

@@ -28,7 +28,7 @@ Since it applies to just the one-day data point, no additional data points are n
 
 1. **Volatility**: A 1-day moving average is highly susceptible to market noise and short-term price fluctuations. It does not filter out anomalies.
 2. **No Trend Indication**: Because it focuses on a single data point, it does not indicate broader market trends.
-3. **False Signals**: By reacting to every minor spike or dip, it can generate numerous false [trading signals](../t/trading_signals.md), leading to poor decision-making.
+3. **[False Signals](../f/false_signals_in_trading.md)**: By reacting to every minor spike or dip, it can generate numerous false [trading signals](../t/trading_signals.md), leading to poor decision-making.
 
 ### Implementation in Trading Algorithms
 

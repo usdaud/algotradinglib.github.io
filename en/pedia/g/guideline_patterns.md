@@ -94,7 +94,7 @@ def market_making_strategy(current_price, spread):
 [Sentiment analysis](../s/sentiment_analysis.md), also known as opinion mining, involves analyzing textual data from news, social media, and other sources to gauge the market’s mood and use it as a trading signal.
 
 ### Implementation
-Natural Language Processing (NLP) techniques are commonly employed for this, utilizing tools and libraries such as NLTK, spaCy, or [proprietary algorithms](../p/proprietary_algorithms.md).
+[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques are commonly employed for this, utilizing tools and libraries such as NLTK, spaCy, or [proprietary algorithms](../p/proprietary_algorithms.md).
 
 ```python
 from textblob import TextBlob

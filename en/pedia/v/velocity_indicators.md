@@ -20,7 +20,7 @@ Momentum = Current Price - Price n periods ago
 This indicator is straightforward and helps in identifying shifts in market sentiment. It is commonly plotted as an oscillator around a zero line, with values above zero indicating upward momentum and values below zero indicating downward momentum.
 
 ### Average True Range (ATR)
-The Average True Range (ATR) is not a velocity indicator per se, but it measures market volatility, which can be associated with price velocity. ATR is calculated as the moving average of the True Range, which considers the high, low, and closing prices of an asset:
+The [Average True Range](../a/average_true_range_(atr).md) (ATR) is not a velocity indicator per se, but it measures market volatility, which can be associated with price velocity. ATR is calculated as the moving average of the True Range, which considers the high, low, and closing prices of an asset:
 ```
 True Range = max[(High - Low), abs(High - Previous Close), abs(Low - Previous Close)]
 ATR = Moving Average of True Range
@@ -52,10 +52,10 @@ In [algorithmic trading](../a/algorithmic_trading.md), optimizing strategies for
 ## Examples of Algorithmic Trading Firms Using Velocity Indicators
 
 ### Citadel Securities
-Citadel Securities, a leading market maker and [algorithmic trading](../a/algorithmic_trading.md) firm, leverages various quantitative strategies, including those that utilize velocity indicators. For more information, visit their [website](https://www.citadelsecurities.com/).
+Citadel Securities, a leading market maker and [algorithmic trading](../a/algorithmic_trading.md) firm, leverages various [quantitative strategies](../q/quantitative_strategies_in_trading.md), including those that utilize velocity indicators. For more information, visit their [website](https://www.citadelsecurities.com/).
 
 ### Two Sigma
-Two Sigma is another prominent quant trading firm that employs advanced mathematical models and velocity indicators to enhance its [trading algorithms](../t/trading_algorithms.md). More details can be found on their [official site](https://www.twosigma.com/).
+Two Sigma is another prominent quant trading firm that employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and velocity indicators to enhance its [trading algorithms](../t/trading_algorithms.md). More details can be found on their [official site](https://www.twosigma.com/).
 
 ### Renaissance Technologies
 Renaissance Technologies, known for its Medallion Fund, uses sophisticated algorithms that likely include velocity measurements to stay ahead in the market. Learn more on their [website](https://www.rentec.com/).

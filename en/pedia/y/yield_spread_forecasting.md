@@ -43,7 +43,7 @@ Several models can be employed for forecasting yield spreads:
 
 ### Linear Regression Models
 
-[Linear regression](../l/linear_regression.md) models are fundamental tools to predict yield spreads. Independent variables in these models typically include macroeconomic indicators such as GDP growth rates, inflation rates, and unemployment rates.
+[Linear regression](../l/linear_regression.md) models are fundamental tools to predict yield spreads. Independent variables in these models typically include macroeconomic indicators such as GDP [growth rates](../g/growth_rates_in_trading.md), inflation rates, and unemployment rates.
 
 ### Time Series Models
 
@@ -51,7 +51,7 @@ Several models can be employed for forecasting yield spreads:
 
 ### Machine Learning Approaches
 
-Advanced machine learning techniques, like random forests, support vector machines (SVM), and neural networks, provide robust frameworks for forecasting by capturing complex patterns in the data.
+Advanced machine learning techniques, like [random forests](../r/random_forests_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), and [neural networks](../n/neural_networks_in_trading.md), provide robust frameworks for forecasting by capturing complex patterns in the data.
 
 ### Econometric Models
 

@@ -48,7 +48,7 @@ Over time, the underlying asset of the perpetual option might go through phases 
 
 ### Complexity in Valuation
 
-Valuating perpetual options is inherently complex and may require advanced mathematical models and computational methods.
+Valuating perpetual options is inherently complex and may require advanced [mathematical models](../m/mathematical_models_in_trading.md) and computational methods.
 
 ## Valuation and Pricing of Perpetual Options
 

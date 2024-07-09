@@ -19,12 +19,12 @@ The primary purpose of [Yield Matching](../y/yield_matching.md) Strategies is to
 2. **Algorithmic Models**:
    - **[Mean-Variance Optimization](../m/mean-variance_optimization.md)**: This involves balancing the trade-off between risk and return to construct a portfolio that meets the yield objective.
    - **[Factor Models](../f/factor_models.md)**: These models consider various market factors (e.g., interest rates, [economic indicators](../e/economic_indicators.md)) to predict asset performance and adjust the portfolio accordingly.
-   - **Machine Learning Algorithms**: Advanced algorithms that use historical data and real-time inputs to improve prediction accuracy and adapt to changing market conditions.
+   - **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Advanced algorithms that use historical data and real-time inputs to improve prediction accuracy and adapt to changing market conditions.
 
 3. **[Risk Management](../r/risk_management.md)**:
    - **Hedging**: Using [derivatives](../d/derivatives.md) or other financial instruments to protect against adverse price movements.
    - **Diversification**: Spreading investments across a wide range of assets to minimize risk.
-   - **Stress Testing**: Simulating various market scenarios to ensure that the strategy can withstand different economic conditions.
+   - **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating various market scenarios to ensure that the strategy can withstand different economic conditions.
 
 4. **Execution and Monitoring**:
    - **[Automated Trading Systems](../a/automated_trading_systems.md)**: Platforms that execute trades based on the predefined algorithms and continuously monitor market conditions.
@@ -68,13 +68,13 @@ There are several types of [Yield Matching](../y/yield_matching.md) Strategies, 
 
 The rise of technology has significantly enhanced the capabilities of [Yield Matching](../y/yield_matching.md) Strategies:
 
-1. **Big Data Analytics**: Leveraging large datasets to improve the accuracy of predictive models and make better-informed decisions.
+1. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Leveraging large datasets to improve the accuracy of [predictive models](../p/predictive_models_in_trading.md) and make better-informed decisions.
    
-2. **Artificial Intelligence (AI)**: AI systems can process vast amounts of information and learn from market conditions to optimize strategies in real-time.
+2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: AI systems can process vast amounts of information and learn from market conditions to optimize strategies in real-time.
 
 3. **Advanced Trading Platforms**: Modern trading platforms offer sophisticated tools for automating trades, monitoring performance, and managing risk.
 
-4. **Blockchain Technology**: Ensures transparency and security in transactions, reducing the risk of fraud and providing a reliable mechanism for executing [yield matching](../y/yield_matching.md) strategies.
+4. **[Blockchain](../b/blockchain_in_trading.md) Technology**: Ensures transparency and security in transactions, reducing the risk of fraud and providing a reliable mechanism for executing [yield matching](../y/yield_matching.md) strategies.
 
 ### Conclusion
 

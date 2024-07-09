@@ -83,7 +83,7 @@ Indicators for sharp trend reversals and are often found at market tops.
 Identifying these complex patterns manually can be error-prone and time-consuming. Thus, algorithmic traders often utilize machine learning and [pattern recognition](../p/pattern_recognition.md) software to detect these patterns in real-time, enhancing the decision-making process.
 
 ### Tools and Techniques:
-- **Machine Learning Models**: Supervised learning algorithms can be trained to recognize specific [chart patterns](../c/chart_patterns.md).
+- **Machine Learning Models**: Supervised [learning algorithms](../l/learning_algorithms_in_trading.md) can be trained to recognize specific [chart patterns](../c/chart_patterns.md).
 - **[Pattern Recognition](../p/pattern_recognition.md) Software**: Tools like TrendSpider, [MetaStock](../m/metastock.md), and [TradeStation](../t/tradestation.md) offer automated [pattern recognition](../p/pattern_recognition.md) to streamline [trading strategies](../t/trading_strategies.md).
 - **[Backtesting](../b/backtesting.md)**: Allows traders to validate the reliability of identified patterns in historical data before applying them to live trading.
 

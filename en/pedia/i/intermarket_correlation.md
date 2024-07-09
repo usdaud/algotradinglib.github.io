@@ -15,7 +15,7 @@ Intermarket correlation is the degree to which two or more markets or financial 
 ### Importance
 Understanding intermarket correlations helps in:
 - **[Risk Management](../r/risk_management.md):** [Diversification strategies](../d/diversification_strategies.md) can be optimized by selecting assets with low or negative correlations.
-- **Strategy Development:** [Algorithmic trading](../a/algorithmic_trading.md) strategies can leverage correlations to identify [arbitrage](../a/arbitrage.md) opportunities or enhance predictive models.
+- **Strategy Development:** [Algorithmic trading](../a/algorithmic_trading.md) strategies can leverage correlations to identify [arbitrage](../a/arbitrage.md) opportunities or enhance [predictive models](../p/predictive_models_in_trading.md).
 - **Market Prediction:** [Correlation analysis](../c/correlation_analysis.md) can provide insights into macroeconomic trends and potential shifts in market sentiment.
 
 ## Quantitative Measures
@@ -48,7 +48,7 @@ where $C$ is the number of concordant pairs, $D$ the number of discordant pairs,
 ### Strategy Development
 Algorithmic traders develop [trading strategies](../t/trading_strategies.md) based on intermarket correlations to:
 - **Identify [Arbitrage](../a/arbitrage.md) Opportunities:** Seek financial instruments that have deviated from their typical correlation and profit from the reversion to the mean.
-- **Enhance Predictive Models:** Use correlated assets to improve the accuracy of price predictions. For instance, a trader might predict the movement of a stock index by analyzing the correlated performance of its top constituents.
+- **Enhance [Predictive Models](../p/predictive_models_in_trading.md):** Use correlated assets to improve the accuracy of price predictions. For instance, a trader might predict the movement of a stock index by analyzing the correlated performance of its top constituents.
 
 ### Portfolio Diversification
 Diversification is a [risk management](../r/risk_management.md) strategy that spreads investments across various financial instruments, industries, and other categories to reduce exposure to any single asset or risk. By understanding intermarket correlations, traders can construct portfolios with assets that have low or negative correlations, thereby reducing portfolio volatility.

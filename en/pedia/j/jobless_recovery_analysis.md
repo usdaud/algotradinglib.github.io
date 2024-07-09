@@ -35,11 +35,11 @@ Structural changes, such as a shift from manufacturing to service-oriented indus
 
 ### Fiscal and Monetary Policy
 
-Government policies, including fiscal austerity measures and monetary policy decisions, can impact job creation. Sometimes, measures aimed at stabilizing or stimulating the economy primarily benefit financial markets and large corporations without immediately translating into job growth.
+[Government policies](../g/government_policies_in_trading.md), including fiscal austerity measures and monetary policy decisions, can impact job creation. Sometimes, measures aimed at stabilizing or stimulating the economy primarily benefit financial markets and large corporations without immediately translating into job growth.
 
 ### Corporate Caution
 
-After a recession, companies may be cautious about hiring due to uncertainty about the strength and sustainability of the recovery. They may prefer to increase hours for existing workers or use temporary or part-time labor rather than commit to new full-time employees.
+After a recession, companies may be cautious about hiring due to [uncertainty](../u/uncertainty_in_trading.md) about the strength and sustainability of the recovery. They may prefer to increase hours for existing workers or use temporary or part-time labor rather than commit to new full-time employees.
 
 ## Consequences of Jobless Recovery
 
@@ -110,7 +110,7 @@ As economies continue to evolve with technological advancements and globalizatio
 
 ### Technological Integration
 
-The integration of future technologies, such as AI, blockchain, and the Internet of Things (IoT), will require innovative approaches to workforce development. Collaborative efforts between governments, industries, and educational institutions will be crucial.
+The integration of future technologies, such as AI, [blockchain](../b/blockchain_in_trading.md), and the Internet of Things (IoT), will require innovative approaches to workforce development. Collaborative efforts between governments, industries, and educational institutions will be crucial.
 
 ### Global Cooperation
 

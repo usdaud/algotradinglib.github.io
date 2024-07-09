@@ -119,7 +119,7 @@ While MAD provides a clear and straightforward measure of variability, it’s of
 
 ### Software and Tools
 
-Multiple software tools and platforms offer functionalities to compute and analyze MAD for [trading algorithms](../t/trading_algorithms.md). Popular platforms include:
+Multiple [software tools](../s/software_tools_for_trading.md) and platforms offer functionalities to compute and analyze MAD for [trading algorithms](../t/trading_algorithms.md). Popular platforms include:
 
 - **MetaTrader**: A widely-used platform in forex and stock trading that supports custom scripting and analytics.
   [MetaTrader](https://www.metatrader4.com/en)

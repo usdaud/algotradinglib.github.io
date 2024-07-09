@@ -30,7 +30,7 @@
 
 ## 5. Sentiment Analysis Based Strategies
 
-**[Sentiment analysis](../s/sentiment_analysis.md)** strategies use natural language processing (NLP) and other machine learning techniques to gauge market sentiment from news, social media, and other sources.
+**[Sentiment analysis](../s/sentiment_analysis.md)** strategies use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and other machine learning techniques to gauge market sentiment from news, social media, and other sources.
 
 - **News-Based Trading**: Algorithms scan news sources like [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md) for market-moving news. If favorable, a buy order might be triggered; if unfavorable, a sell order might be issued.
 
@@ -42,9 +42,9 @@
 
 ## 7. Machine Learning and AI-Based Strategies
 
-**Machine learning** and AI-based strategies utilize advanced statistical models and algorithms to predict future price movements. Machine learning models are trained on historical data and can include regressive models, deep learning architectures, reinforcement learning algorithms, and more.
+**Machine learning** and AI-based strategies utilize advanced statistical models and algorithms to predict future price movements. Machine learning models are trained on historical data and can include regressive models, deep learning architectures, reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md), and more.
 
-- **Supervised Learning Models**: These models are trained on labeled historical data to predict future prices. Examples include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and neural networks.
+- **Supervised Learning Models**: These models are trained on labeled historical data to predict future prices. Examples include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md).
 
 - **Unsupervised Learning Models**: These models look for hidden patterns in the data. [Clustering algorithms](../c/clustering_algorithms.md) such as K-means can identify related groups of assets or [price patterns](../p/price_patterns.md).
 
@@ -64,7 +64,7 @@ A **VWAP** strategy aims to execute orders around the Volume Weighted Average Pr
 
 ## Prominent Companies Using Algorithmic Trading Strategies
 
-1. **Two Sigma**: Two Sigma is a New York-based hedge fund that extensively uses data science and technology to drive investment decisions. For more information, visit [Two Sigma](https://www.twosigma.com/).
+1. **Two Sigma**: Two Sigma is a New York-based hedge fund that extensively uses [data science](../d/data_science_in_trading.md) and technology to drive investment decisions. For more information, visit [Two Sigma](https://www.twosigma.com/).
 
 2. **Jane Street**: Jane Street is a global [proprietary trading](../p/proprietary_trading.md) firm that leverages [quantitative trading](../q/quantitative_trading.md) and sophisticated technology. For more information, visit [Jane Street](https://www.janestreet.com/).
 
@@ -72,6 +72,6 @@ A **VWAP** strategy aims to execute orders around the Volume Weighted Average Pr
 
 4. **Renaissance Technologies**: Renaissance Technologies is a quantitative hedge fund specializing in [systematic trading](../s/systematic_trading.md) using mathematical and statistical methods. For more information, visit [Renaissance Technologies](https://www.rentec.com/).
 
-5. **DRW Trading**: DRW Trading is based in Chicago and focuses on using technology, data, and quantitative strategies for [proprietary trading](../p/proprietary_trading.md). For more information, visit [DRW Trading](https://drw.com/).
+5. **DRW Trading**: DRW Trading is based in Chicago and focuses on using technology, data, and [quantitative strategies](../q/quantitative_strategies_in_trading.md) for [proprietary trading](../p/proprietary_trading.md). For more information, visit [DRW Trading](https://drw.com/).
 
 In conclusion, the world of [algorithmic trading](../a/algorithmic_trading.md) is vast and continually evolving. As financial markets become more sophisticated, [algorithmic trading](../a/algorithmic_trading.md) strategies represent the forefront of innovation, harnessing computational power and data analytics to make quicker, more precise trading decisions.

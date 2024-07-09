@@ -1,6 +1,6 @@
 # Quantitative Models
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," is the process of using computers programmed to follow a defined set of instructions (an algorithm) for placing a trade in order to generate profits at a speed and frequency that is impossible for a human trader. One of the core components of [algorithmic trading](../a/algorithmic_trading.md) is the use of quantitative models, which are mathematical models used for identifying trading opportunities and making trade decisions.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," is the process of using computers programmed to follow a defined set of instructions (an algorithm) for placing a trade in order to generate profits at a speed and frequency that is impossible for a human trader. One of the core components of [algorithmic trading](../a/algorithmic_trading.md) is the use of quantitative models, which are [mathematical models](../m/mathematical_models_in_trading.md) used for identifying trading opportunities and making trade decisions.
 
 ## Types of Quantitative Models
 
@@ -36,11 +36,11 @@ Machine learning models use various algorithms and statistical techniques for an
 
 #### Example
 
-Deep learning techniques such as neural networks can be applied to analyze large datasets and predict stock price movements based on various factors including historical prices, trading volumes, and even news sentiment.
+Deep learning techniques such as [neural networks](../n/neural_networks_in_trading.md) can be applied to analyze large datasets and predict stock price movements based on various factors including historical prices, trading volumes, and even news sentiment.
 
 ### Factor Models
 
-[Factor models](../f/factor_models.md) attempt to explain the returns of a security by its exposures to various risk factors. These models help in understanding the drivers behind asset price movements and are used in constructing diversified portfolios.
+[Factor models](../f/factor_models.md) attempt to explain the returns of a security by its exposures to various [risk factors](../r/risk_factors_in_trading.md). These models help in understanding the drivers behind asset price movements and are used in constructing diversified portfolios.
 
 #### Example
 
@@ -56,7 +56,7 @@ VaR is a widely used risk measure that estimates the potential loss in value of 
 
 ### Stress Testing
 
-Stress testing involves simulating extreme market conditions to evaluate how a trading strategy or portfolio would perform under such scenarios. This helps in understanding the vulnerabilities and the impact of rare but potentially catastrophic events on the portfolio.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating extreme market conditions to evaluate how a trading strategy or portfolio would perform under such scenarios. This helps in understanding the vulnerabilities and the impact of rare but potentially catastrophic events on the portfolio.
 
 ### Diversification
 
@@ -84,11 +84,11 @@ Quantitative models are extensively used by hedge funds, [proprietary trading](.
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by James Simons, is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md). The firm is known for its Medallion Fund, which uses complex mathematical models to trade in various markets. More information can be found on their [website](https://www.rentec.com/).
+Renaissance Technologies, founded by James Simons, is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md). The firm is known for its Medallion Fund, which uses complex [mathematical models](../m/mathematical_models_in_trading.md) to trade in various markets. More information can be found on their [website](https://www.rentec.com/).
 
 ### Two Sigma
 
-Two Sigma is a technology-driven hedge fund that leverages [quantitative analysis](../q/quantitative_analysis.md) and big data to develop [trading strategies](../t/trading_strategies.md). The firm employs data scientists and machine learning experts to uncover inefficiencies in the markets. More information can be found on their [website](https://www.twosigma.com/).
+Two Sigma is a technology-driven hedge fund that leverages [quantitative analysis](../q/quantitative_analysis.md) and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). The firm employs data scientists and machine learning experts to uncover inefficiencies in the markets. More information can be found on their [website](https://www.twosigma.com/).
 
 ### AQR Capital Management
 

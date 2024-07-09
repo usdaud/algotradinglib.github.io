@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the realm of [algorithmic trading](../a/algorithmic_trading.md), [X-Order Execution](../x/x-order_execution.md) Analysis represents a sophisticated method of scrutinizing the efficiency and effectiveness of order executions. This practice is pivotal for algorithmic traders, as it provides insights into how well their [trading algorithms](../t/trading_algorithms.md) are performing in real-time market conditions. The term "[X-Order Execution](../x/x-order_execution.md)" generally encompasses a variety of order types, including market orders, limit orders, and stop orders, each with its unique impact on the execution quality. This comprehensive analysis assists traders in minimizing [trading costs](../t/trading_costs.md), reducing slippage, and improving overall [trading performance](../t/trading_performance.md).
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), [X-Order Execution](../x/x-order_execution.md) Analysis represents a sophisticated method of scrutinizing the efficiency and effectiveness of order executions. This practice is pivotal for algorithmic traders, as it provides insights into how well their [trading algorithms](../t/trading_algorithms.md) are performing in real-time market conditions. The term "[X-Order Execution](../x/x-order_execution.md)" generally encompasses a variety of [order types](../o/order_types_in_trading.md), including market orders, limit orders, and stop orders, each with its unique impact on the execution quality. This comprehensive analysis assists traders in minimizing [trading costs](../t/trading_costs.md), reducing slippage, and improving overall [trading performance](../t/trading_performance.md).
 
 ## Components of X-Order Execution Analysis
 
@@ -41,7 +41,7 @@ TCA is a comprehensive approach to evaluating [trading performance](../t/trading
 EMS platforms are designed to optimize the execution of trades across various markets and asset classes. These systems provide real-time monitoring, analysis, and reporting of execution performance. Advanced EMS platforms incorporate machine learning and AI algorithms to enhance decision-making processes.
 
 ### Post-Trade Analysis
-[Post-trade analysis](../p/post-trade_analysis.md) involves reviewing the performance of all executed orders after the trading session. This includes assessing the effectiveness of different order types, identifying patterns in slippage and fill rates, and evaluating the overall success of the trading strategy. [Post-trade analysis](../p/post-trade_analysis.md) is crucial for continuous improvement in [trading performance](../t/trading_performance.md).
+[Post-trade analysis](../p/post-trade_analysis.md) involves reviewing the performance of all executed orders after the trading session. This includes assessing the effectiveness of different [order types](../o/order_types_in_trading.md), identifying patterns in slippage and fill rates, and evaluating the overall success of the trading strategy. [Post-trade analysis](../p/post-trade_analysis.md) is crucial for continuous improvement in [trading performance](../t/trading_performance.md).
 
 ## Leading Companies in X-Order Execution Analysis
 

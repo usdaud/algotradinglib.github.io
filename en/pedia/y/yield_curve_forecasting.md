@@ -9,7 +9,7 @@ The [yield curve](../y/yield_curve.md) represents the relationship between inter
 ### Types of Yield Curves
 1. **Normal [Yield Curve](../y/yield_curve.md)**: Long-term yields are higher than short-term yields, reflecting the risks associated with time.
 2. **Inverted [Yield Curve](../y/yield_curve.md)**: Short-term yields are higher than long-term yields, often observed before economic recessions.
-3. **Flat [Yield Curve](../y/yield_curve.md)**: Short- and long-term yields are very close, signaling economic uncertainty.
+3. **Flat [Yield Curve](../y/yield_curve.md)**: Short- and long-term yields are very close, signaling economic [uncertainty](../u/uncertainty_in_trading.md).
 
 ## Significance in Financial Markets
 
@@ -17,7 +17,7 @@ Yield curves serve as a benchmark for various financial instruments and are crit
 
 ## Forecasting the Yield Curve
 
-[Yield curve](../y/yield_curve.md) forecasting involves predicting future interest rates for different maturities. Various methods are employed, ranging from simple econometric models to advanced machine learning algorithms. Below, we delve into several prominent forecasting methods:
+[Yield curve](../y/yield_curve.md) forecasting involves predicting future interest rates for different maturities. Various methods are employed, ranging from simple econometric models to advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md). Below, we delve into several prominent forecasting methods:
 
 ### Time-Series Models
 
@@ -45,9 +45,9 @@ Macroeconomic models incorporate broader [economic indicators](../e/economic_ind
 
 Machine learning (ML) methods have revolutionized [yield curve](../y/yield_curve.md) forecasting by capturing complex, non-linear relationships in large data sets. Common ML techniques include:
 
-1. **Neural Networks**: Deep learning models, including Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) networks, excel in capturing time-dependent patterns.
-2. **Support Vector Machines (SVMs)**: SVMs are used for both regression and classification tasks, effective in high-dimensional spaces.
-3. **Random Forests**: These ensemble methods combine multiple [decision trees](../d/decision_trees.md) to provide robust predictions and are particularly useful for handling large datasets and complex interactions.
+1. **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning models, including Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNN) and Long Short-Term Memory (LSTM) networks, excel in capturing time-dependent patterns.
+2. **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs)**: SVMs are used for both regression and classification tasks, effective in high-dimensional spaces.
+3. **[Random Forests](../r/random_forests_in_trading.md)**: These ensemble methods combine multiple [decision trees](../d/decision_trees.md) to provide robust predictions and are particularly useful for handling large datasets and complex interactions.
 
 ## Practical Applications
 

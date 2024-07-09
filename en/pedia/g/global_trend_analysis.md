@@ -1,6 +1,6 @@
 # Global Trend Analysis
 
-Global [Trend Analysis](../t/trend_analysis.md) (GTA) in [algorithmic trading](../a/algorithmic_trading.md) refers to the practice of identifying and interpreting trends in global financial markets to make informed trading decisions. This analytical approach leverages a vast array of data sources, advanced statistical methods, and machine learning algorithms to uncover patterns and predict future market movements across different asset classes, including equities, commodities, currencies, and [fixed income securities](../f/fixed_income_securities.md). The ultimate goal of GTA is to optimize [trading strategies](../t/trading_strategies.md), enhance profitability, and mitigate risks. 
+Global [Trend Analysis](../t/trend_analysis.md) (GTA) in [algorithmic trading](../a/algorithmic_trading.md) refers to the practice of identifying and interpreting trends in global financial markets to make informed trading decisions. This analytical approach leverages a vast array of data sources, advanced statistical methods, and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to uncover patterns and predict future market movements across different asset classes, including equities, commodities, currencies, and [fixed income securities](../f/fixed_income_securities.md). The ultimate goal of GTA is to optimize [trading strategies](../t/trading_strategies.md), enhance profitability, and mitigate risks. 
 
 ## Key Concepts in Global Trend Analysis
 
@@ -26,7 +26,7 @@ Global [Trend Analysis](../t/trend_analysis.md) relies on a multitude of data so
 Sophisticated [quantitative models](../q/quantitative_models.md) form the backbone of GTA. These models use historical data to identify patterns and forecast future trends.
 
 - **Time-Series Analysis**: Autoregressive Integrated Moving Average (ARIMA), Generalized Autoregressive Conditional Heteroskedasticity (GARCH).
-- **Machine Learning Algorithms**: Regression models, random forests, neural networks, and support vector machines (SVM).
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Regression models, [random forests](../r/random_forests_in_trading.md), [neural networks](../n/neural_networks_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) (SVM).
 
 ### 4. **Risk Management**
 

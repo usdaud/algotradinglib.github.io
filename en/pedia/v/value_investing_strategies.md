@@ -70,7 +70,7 @@ Seth Klarman, the founder of Baupost Group, is known for his meticulous approach
 
 ### Role of Behavioral Finance
 
-[Behavioral finance](../b/behavioral_finance.md) plays a significant role in [value investing](../v/value_investing.md), as it explains market inefficiencies caused by human emotions and cognitive biases. Value investors often capitalize on these inefficiencies by taking a contrarian stance.
+[Behavioral finance](../b/behavioral_finance.md) plays a significant role in [value investing](../v/value_investing.md), as it explains market inefficiencies caused by human emotions and [cognitive biases](../c/cognitive_biases_in_trading.md). Value investors often capitalize on these inefficiencies by taking a contrarian stance.
 
 #### Common Biases:
 - **Overconfidence**: Investors' exaggerated belief in their ability to predict market movements.
@@ -87,7 +87,7 @@ While [value investing](../v/value_investing.md) is grounded in [fundamental ana
 
 ### Technology and Modern Value Investing
 
-The advent of technology and data analytics has revolutionized [value investing](../v/value_investing.md). Platforms like [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/factset.md), and S&P Capital IQ provide extensive data and analytics tools for comprehensive [fundamental analysis](../f/fundamental_analysis.md). Moreover, machine learning and artificial intelligence are increasingly being used to identify undervalued securities by analyzing vast amounts of data and spotting patterns.
+The advent of technology and data analytics has revolutionized [value investing](../v/value_investing.md). Platforms like [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/factset.md), and S&P Capital IQ provide extensive data and analytics tools for comprehensive [fundamental analysis](../f/fundamental_analysis.md). Moreover, machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly being used to identify undervalued securities by analyzing vast amounts of data and spotting patterns.
 
 ### Summary
 

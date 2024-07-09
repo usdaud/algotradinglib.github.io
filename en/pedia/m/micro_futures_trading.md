@@ -52,7 +52,7 @@ Many online trading platforms cater to retail traders interested in micro future
 
 ### Interactive Brokers
 
-Interactive Brokers (https://www.interactivebrokers.com/) provides access to a wide range of futures markets, including micro [futures contracts](../f/futures_contracts.md). They offer competitive pricing, advanced trading tools, and extensive research resources.
+[Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) provides access to a wide range of futures markets, including micro [futures contracts](../f/futures_contracts.md). They offer competitive pricing, advanced trading tools, and extensive research resources.
 
 ### TD Ameritrade
 

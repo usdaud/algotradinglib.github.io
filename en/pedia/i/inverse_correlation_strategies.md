@@ -19,7 +19,7 @@ The first step in employing an inverse correlation strategy is to identify pairs
 - **Statistical Analysis**: Using historical price data and statistical tools to calculate the correlation coefficient between potential asset pairs.
 - **[Economic Indicators](../e/economic_indicators.md)**: Reviewing [economic indicators](../e/economic_indicators.md) and sector performances that inherently push certain assets in opposite directions.
   
-For example, during times of economic uncertainty, assets like gold and stocks often exhibit negative correlation. As uncertainty rises, investors flock to safe-haven assets like gold, while riskier assets like stocks may see declines.
+For example, during times of economic [uncertainty](../u/uncertainty_in_trading.md), assets like gold and stocks often exhibit negative correlation. As [uncertainty](../u/uncertainty_in_trading.md) rises, investors flock to safe-haven assets like gold, while riskier assets like stocks may see declines.
 
 ### Portfolio Construction
 

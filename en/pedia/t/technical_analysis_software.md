@@ -11,7 +11,7 @@
 Charting tools provide visual representations of market data through different types of charts such as line, bar, and candlestick charts. These charts help traders to spot trends, reversals, and patterns.
 
 ### 3. **Backtesting Capabilities**
-[Backtesting](../b/backtesting.md) allows traders to test their [trading strategies](../t/trading_strategies.md) on historical data to assess their potential profitability and risk. Many [technical analysis](../t/technical_analysis.md) software platforms include [backtesting](../b/backtesting.md) engines that simulate trades based on past market conditions.
+[Backtesting](../b/backtesting.md) allows traders to test their [trading strategies](../t/trading_strategies.md) on historical data to assess their potential profitability and risk. Many [technical analysis](../t/technical_analysis.md) [software platforms](../s/software_platforms_for_trading.md) include [backtesting](../b/backtesting.md) engines that simulate trades based on past market conditions.
 
 ### 4. **Real-Time Data Feed**
 Access to real-time data feed is essential for traders to make timely decisions. [Technical analysis](../t/technical_analysis.md) software often integrates with various data providers to offer up-to-the-minute market data and price quotes.
@@ -48,7 +48,7 @@ MetaTrader 4 (MT4) and MetaTrader 5 (MT5) are among the most well-known trading 
 *Website:* [Thinkorswim](https://www.thinkorswim.com/)
 
 ### 5. **MetaStock**
-MetaStock is a comprehensive [technical analysis](../t/technical_analysis.md) and charting tool that serves traders of all experience levels. It offers a wealth of built-in and custom indicators, rich charting features, and robust [backtesting](../b/backtesting.md) capabilities.
+[MetaStock](../m/metastock.md) is a comprehensive [technical analysis](../t/technical_analysis.md) and charting tool that serves traders of all experience levels. It offers a wealth of built-in and custom indicators, rich charting features, and robust [backtesting](../b/backtesting.md) capabilities.
 
 *Website:* [MetaStock](https://www.metastock.com/)
 

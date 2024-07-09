@@ -15,7 +15,7 @@ Algorithms dictate the logic and procedures involved in routing orders. They are
 - **Implementation Shortfall:** Minimizes the difference between the decision price and the actual execution price.
 
 ### 3. **Order Types**
-The types of orders that can be routed also impact the routing strategy. Common order types include market orders, limit orders, stop orders, and various conditional orders like stop-limit and trailing stop orders.
+The types of orders that can be routed also impact the routing strategy. Common [order types](../o/order_types_in_trading.md) include market orders, limit orders, stop orders, and various conditional orders like stop-limit and trailing stop orders.
 
 ### 4. **Execution Venues**
 Execution venues are places where buy and sell orders can be matched. These can be traditional stock exchanges like NYSE, NASDAQ, or electronic platforms like [dark pools](../d/dark_pools.md) which allow large orders to be executed without disclosing the order size to the public, thereby minimizing market impact.
@@ -35,7 +35,7 @@ Application Programming Interfaces (APIs) enable [automated trading systems](../
 Low-latency networks ensure that time delays in sending and receiving orders are reduced to the minimum. HFT firms usually invest heavily in ultra-low latency networks to gain a competitive edge.
 
 ### 4. **Machine Learning and AI**
-Incorporating machine learning and artificial intelligence into order routing algorithms can optimize most of the routing parameters dynamically. These technologies analyze real-time and historical data to predict the most favorable execution venues.
+Incorporating machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) into order routing algorithms can optimize most of the routing parameters dynamically. These technologies analyze real-time and historical data to predict the most favorable execution venues.
 
 ## Challenges in Order Routing
 
@@ -63,7 +63,7 @@ Goldman Sachs is a significant player in [algorithmic trading](../a/algorithmic_
 Citadel Securities is renowned for its sophisticated [trading algorithms](../t/trading_algorithms.md). Their algorithms for order routing ensure optimal execution by smartly selecting the execution venues. [Citadel Securities](https://www.citadelsecurities.com/)
 
 ### 3. **Interactive Brokers**
-Interactive Brokers offers a suite of [algorithmic trading](../a/algorithmic_trading.md) tools, including [smart order routing](../s/smart_order_routing.md) to retail and institutional clients. Their sophisticated order routing technology aims to achieve the best possible execution prices by accessing various market centers. [Interactive Brokers - IB SmartRouting](https://www.interactivebrokers.com/en/index.php?f=smartRouting)
+[Interactive Brokers](../i/interactive_brokers.md) offers a suite of [algorithmic trading](../a/algorithmic_trading.md) tools, including [smart order routing](../s/smart_order_routing.md) to retail and institutional clients. Their sophisticated order routing technology aims to achieve the best possible execution prices by accessing various market centers. [Interactive Brokers - IB SmartRouting](https://www.interactivebrokers.com/en/index.php?f=smartRouting)
 
 ### 4. **Morgan Stanley**
 Morgan Stanley operates an advanced electronic trading system that includes order routing mechanisms to provide clients with best execution. [Morgan Stanley Electronic Trading](https://www.morganstanley.com/what-we-do/institutional/electronic-trading)

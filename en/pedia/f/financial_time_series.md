@@ -81,9 +81,9 @@ ARIMA is a popular model for analyzing and forecasting financial time series. It
 
 Recent advances include the application of machine learning models:
 
-1. **Recurrent Neural Networks (RNNs)**: Including Long Short-Term Memory (LSTM) networks, which are effective in capturing patterns in sequential data.
-2. **Support Vector Machines (SVM)**: Useful for classification tasks, such as predicting market direction.
-3. **Random Forests and Gradient Boosting Machines**: Suitable for regression and classification.
+1. **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs)**: Including Long Short-Term Memory (LSTM) networks, which are effective in capturing patterns in sequential data.
+2. **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Useful for classification tasks, such as predicting market direction.
+3. **[Random Forests](../r/random_forests_in_trading.md) and Gradient Boosting Machines**: Suitable for regression and classification.
 
 ## Risk Management and Performance Metrics
 

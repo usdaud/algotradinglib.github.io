@@ -24,7 +24,7 @@ Automated trading bots are sophisticated programs that interact with financial m
    The core of any trading bot is its algorithm, which could be based on:
    - **[Technical Analysis](../t/technical_analysis.md)**: Utilize past market data to predict future movements. Common tools include moving averages, exponential averages, and MACD.
    - **[Fundamental Analysis](../f/fundamental_analysis.md)**: Focus on the inherent value of a security by analyzing [economic indicators](../e/economic_indicators.md), financial statements, etc.
-   - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Leverage natural language processing (NLP) to analyze public opinion on social media and other platforms.
+   - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Leverage [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze public opinion on social media and other platforms.
    - **Machine Learning**: Use statistical techniques to enable the bot to learn from historical data and improve its performance over time.
    
 3. **Trading Strategy**
@@ -119,15 +119,15 @@ Automated trading bots are sophisticated programs that interact with financial m
 
 1. **Machine Learning and AI**
 
-   The integration of machine learning and artificial intelligence continues to drive innovations in automated trading. Advanced AI models can adapt to changing market conditions in real-time.
+   The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) continues to drive innovations in automated trading. Advanced AI models can adapt to changing market conditions in real-time.
 
-2. **Quantum Computing**
+2. **[Quantum Computing](../q/quantum_computing_in_trading.md)**
 
-   Quantum computing could offer unimaginable speed and complexity in analyzing data, potentially providing significant advantages over traditional computational methods.
+   [Quantum computing](../q/quantum_computing_in_trading.md) could offer unimaginable speed and complexity in analyzing data, potentially providing significant advantages over traditional computational methods.
 
 3. **Decentralized Finance (DeFi)**
 
-   The rise of DeFi offers new opportunities and challenges for automated trading bots, including new asset classes like cryptocurrencies and the use of smart contracts.
+   The rise of DeFi offers new opportunities and challenges for automated trading bots, including new asset classes like cryptocurrencies and the use of [smart contracts](../s/smart_contracts_in_trading.md).
 
 ### Conclusion
 

@@ -60,13 +60,13 @@ Active return can be decomposed into two components:
 
 Several firms and companies specialize in [algorithmic trading](../a/algorithmic_trading.md) and focus on generating active return through their advanced [trading systems](../t/trading_systems.md).
 
-1. **Two Sigma**: A quantitative investment management firm that uses data science and technology to manage asset portfolios. [Two Sigma](https://www.twosigma.com)
+1. **Two Sigma**: A quantitative investment management firm that uses [data science](../d/data_science_in_trading.md) and technology to manage asset portfolios. [Two Sigma](https://www.twosigma.com)
 
 2. **Citadel Securities**: A leading market maker and [quantitative trading](../q/quantitative_trading.md) firm that leverages sophisticated algorithms to provide liquidity in the financial markets. [Citadel Securities](https://www.citadelsecurities.com)
 
 3. **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) firm and liquidity provider, Jane Street uses algorithmic strategies to optimize trade execution and generate active returns. [Jane Street](https://www.janestreet.com)
 
-4. **Renaissance Technologies**: Known for its Medallion Fund, Renaissance Technologies employs complex mathematical models to identify and capitalize on market inefficiencies. [Renaissance Technologies](https://www.rentec.com)
+4. **Renaissance Technologies**: Known for its Medallion Fund, Renaissance Technologies employs complex [mathematical models](../m/mathematical_models_in_trading.md) to identify and capitalize on market inefficiencies. [Renaissance Technologies](https://www.rentec.com)
 
 5. **DE Shaw & Co**: A global investment firm that combines quantitative and qualitative strategies, DE Shaw & Co utilizes [algorithmic trading](../a/algorithmic_trading.md) to enhance [portfolio performance](../p/portfolio_performance.md). [DE Shaw & Co](https://www.deshaw.com)
 

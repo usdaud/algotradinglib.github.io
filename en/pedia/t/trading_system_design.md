@@ -56,7 +56,7 @@ A trading system needs to be thoroughly tested on historical data to validate it
 ### 3.1 Model Selection
 Choosing the right model for a trading system is essential. Some common models include:
 - **Statistical Models:** Methods based on statistical principles, like regression and time-series analysis.
-- **Machine Learning Models:** Algorithms that learn patterns from data, like [decision trees](../d/decision_trees.md) and neural networks.
+- **Machine Learning Models:** Algorithms that learn patterns from data, like [decision trees](../d/decision_trees.md) and [neural networks](../n/neural_networks_in_trading.md).
 - **[Technical Analysis](../t/technical_analysis.md) Models:** Techniques that analyze price and volume data to predict future price movements.
 
 ### 3.2 Backtesting
@@ -100,12 +100,12 @@ A reliable execution and monitoring framework ensures that the trading system op
 
 ### 5.1 Order Execution
 Efficient order execution minimizes the impact of trading on the market. Elements include:
-- **Order Types:** Market orders, limit orders, stop orders, and their hybrids.
+- **[Order Types](../o/order_types_in_trading.md):** Market orders, limit orders, stop orders, and their hybrids.
 - **[Execution Algorithms](../e/execution_algorithms.md):** TWAP, VWAP, and other algorithms designed to minimize market impact.
 
 ### 5.2 Execution Platforms
 Various platforms facilitate automated order execution. Examples include:
-- **Interactive Brokers:** Popular for its comprehensive API and low latency.
+- **[Interactive Brokers](../i/interactive_brokers.md):** Popular for its comprehensive API and low latency.
 - **MetaTrader:** Widely used in forex trading for executing algorithmic strategies.
 - **[QuantConnect](../q/quantconnect.md):** Provides a cloud-based [trading environment](../t/trading_environment.md).
 
@@ -128,7 +128,7 @@ Periodic reviews are necessary to evaluate system performance and make necessary
 - **Parameter Tuning:** Adjusting model parameters based on current market conditions.
 
 ### 6.2 Machine Learning and AI
-Modern [trading systems](../t/trading_systems.md) increasingly incorporate machine learning and artificial intelligence to adapt and evolve.
+Modern [trading systems](../t/trading_systems.md) increasingly incorporate machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to adapt and evolve.
 - **Reinforcement Learning:** Algorithms that learn optimal [trading strategies](../t/trading_strategies.md) through trial and error.
 - **[Adaptive Algorithms](../a/adaptive_algorithms.md):** Models that continuously update themselves based on new data.
 
@@ -137,4 +137,4 @@ A closed-loop system where feedback from the trading activity feeds into strateg
 - **Surveillance Systems:** Monitoring the market environment for new patterns or behaviors.
 - **Algorithm Optimization:** Continuously refining algorithms based on performance data.
 
-In conclusion, designing an effective trading system involves a multi-faceted approach, marrying concepts from data science, finance, and technology. It takes meticulous planning, rigorous testing, and ongoing adjustments to build a system capable of surviving and thriving in the fast-paced world of [algorithmic trading](../a/algorithmic_trading.md).
+In conclusion, designing an effective trading system involves a multi-faceted approach, marrying concepts from [data science](../d/data_science_in_trading.md), finance, and technology. It takes meticulous planning, rigorous testing, and ongoing adjustments to build a system capable of surviving and thriving in the fast-paced world of [algorithmic trading](../a/algorithmic_trading.md).

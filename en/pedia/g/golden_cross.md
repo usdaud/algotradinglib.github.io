@@ -43,7 +43,7 @@ Before relying on the Golden Cross signal, traders often backtest it using histo
 3. **Signal Verification**: Analyze how often the Golden Cross has accurately predicted upward trends.
 
 ### Limitations
-- **False Signals**: Can generate false positives, especially in sideways, consolidating markets.
+- **[False Signals](../f/false_signals_in_trading.md)**: Can generate false positives, especially in sideways, consolidating markets.
 - **Lagging Indicator**: As moving averages are based on historical data, they tend to lag behind real-time market movements.
 
 ## Companies Utilizing Golden Cross
@@ -72,4 +72,4 @@ Traders often combine the Golden Cross with other [technical indicators](../t/te
 
 ## Conclusion
 
-The Golden Cross is a powerful tool in [technical analysis](../t/technical_analysis.md), offering traders a straightforward signal of potential bullish market conditions. While it comes with its share of limitations and potential for false signals, its importance in a trader's toolkit cannot be understated. By integrating it with comprehensive market analysis and other [technical indicators](../t/technical_indicators.md), traders can leverage the Golden Cross to make more informed trading decisions.
+The Golden Cross is a powerful tool in [technical analysis](../t/technical_analysis.md), offering traders a straightforward signal of potential bullish market conditions. While it comes with its share of limitations and potential for [false signals](../f/false_signals_in_trading.md), its importance in a trader's toolkit cannot be understated. By integrating it with comprehensive market analysis and other [technical indicators](../t/technical_indicators.md), traders can leverage the Golden Cross to make more informed trading decisions.

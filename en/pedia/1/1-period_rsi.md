@@ -32,7 +32,7 @@ Effectively, this results in an RSI that reacts immediately to the single recent
 3. **Early Reversals:** Can potentially identify market reversals sooner than longer-period RSIs.
 
 #### Challenges:
-1. **False Signals:** The high sensitivity can lead to a higher number of false signals and noise.
+1. **[False Signals](../f/false_signals_in_trading.md):** The high sensitivity can lead to a higher number of [false signals](../f/false_signals_in_trading.md) and noise.
 2. **Overtrading:** Frequent signals might lead to overtrading, resulting in higher transaction costs.
 3. **Volatility Impact:** The 1-period RSI can be highly volatile, making it challenging to discern genuine trends from short-term fluctuations.
 
@@ -83,6 +83,6 @@ An [algorithmic trading](../a/algorithmic_trading.md) company like [QuantConnect
 
 ### Conclusion
 
-The 1-period RSI is a potent tool in the arsenal of algorithmic traders, offering rapid signals and the potential to capitalize on short-term market movements. However, its high sensitivity requires careful strategy development and robust [risk management](../r/risk_management.md) to mitigate the inevitable noise and false signals. When effectively integrated into an algorithmic framework, the 1-period RSI can enhance the performance of [trading systems](../t/trading_systems.md), especially for those focused on high-frequency trading.
+The 1-period RSI is a potent tool in the arsenal of algorithmic traders, offering rapid signals and the potential to capitalize on short-term market movements. However, its high sensitivity requires careful strategy development and robust [risk management](../r/risk_management.md) to mitigate the inevitable noise and [false signals](../f/false_signals_in_trading.md). When effectively integrated into an algorithmic framework, the 1-period RSI can enhance the performance of [trading systems](../t/trading_systems.md), especially for those focused on high-frequency trading.
 
 Understanding the nuances of the 1-period RSI and its implementation in [algorithmic trading](../a/algorithmic_trading.md) is essential for traders looking to exploit its benefits while minimizing potential pitfalls. Through continuous optimization and [risk management](../r/risk_management.md), traders can leverage the 1-period RSI for successful [algorithmic trading](../a/algorithmic_trading.md) endeavors.

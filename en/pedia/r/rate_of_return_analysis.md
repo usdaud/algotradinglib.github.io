@@ -66,7 +66,7 @@ Ongoing RoR analysis allows for continuous refinement of [trading algorithms](..
 
 ### Simulation
 
-**Simulation** involves creating a virtual [trading environment](../t/trading_environment.md) that mimics real market conditions, using the algorithm to trade within this environment to predict future performance.
+**[Simulation](../s/simulation_in_trading.md)** involves creating a virtual [trading environment](../t/trading_environment.md) that mimics real market conditions, using the algorithm to trade within this environment to predict future performance.
 
 ### Live Trading
 

@@ -50,7 +50,7 @@ Several companies specialize in [algorithmic trading](../a/algorithmic_trading.m
 
 2. **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](../a/algotrader.md) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports [backtesting](../b/backtesting.md), execution, and [risk management](../r/risk_management.md). The platform offers advanced features for strategy development and integration with multiple exchanges. [AlgoTrader](https://www.algotrader.com/)
 
-3. **Kensho**: Kensho is a machine learning and analytics platform that provides tools for developing [trading algorithms](../t/trading_algorithms.md) and analyzing financial data. The platform leverages artificial intelligence to identify patterns and improve [trading strategies](../t/trading_strategies.md). [Kensho](https://www.kensho.com/)
+3. **Kensho**: Kensho is a machine learning and analytics platform that provides tools for developing [trading algorithms](../t/trading_algorithms.md) and analyzing financial data. The platform leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify patterns and improve [trading strategies](../t/trading_strategies.md). [Kensho](https://www.kensho.com/)
 
 4. **[TradeStation](../t/tradestation.md)**: [TradeStation](../t/tradestation.md) is a brokerage firm that offers a robust trading platform with advanced charting, [backtesting](../b/backtesting.md), and automation capabilities. The platform supports [algorithmic trading](../a/algorithmic_trading.md) across various asset classes. [TradeStation](https://www.tradestation.com/)
 

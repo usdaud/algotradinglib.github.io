@@ -43,7 +43,7 @@ Plotting the returns of two different stocks can reveal whether they have a posi
 
 ### Heatmaps and Contour Plots
 
-Heatmaps and contour plots provide a way to visualize multi-dimensional data in two dimensions. In [algorithmic trading](../a/algorithmic_trading.md), these plots are often used to display the density or intensity of data points, giving insights into market conditions or trading volumes.
+[Heatmaps](../h/heatmaps_in_trading.md) and contour plots provide a way to visualize multi-dimensional data in two dimensions. In [algorithmic trading](../a/algorithmic_trading.md), these plots are often used to display the density or intensity of data points, giving insights into market conditions or trading volumes.
 
 #### Example
 A heatmap showing the intensity of trading volumes across different time intervals can help in identifying periods of high and low market activity.

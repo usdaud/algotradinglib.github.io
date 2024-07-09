@@ -25,7 +25,7 @@ Hybrid [trading systems](../t/trading_systems.md) often integrate several key co
 4. **[Risk Management](../r/risk_management.md)**: Effective [risk management](../r/risk_management.md) is critical. Hybrid systems use both automated risk controls and human oversight to manage exposure. Key aspects include:
    - Automated stop-loss triggers
    - [Position sizing](../p/position_sizing.md) algorithms
-   - Scenario analysis and stress testing
+   - Scenario analysis and [stress testing](../s/stress_testing_in_trading.md)
 
 5. **Market Data and Analytics**: Real-time data feeds and advanced analytics are essential. Hybrid [trading systems](../t/trading_systems.md) combine quantitative data analysis with human interpretation for:
    - Signal generation

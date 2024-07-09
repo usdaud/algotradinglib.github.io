@@ -34,7 +34,7 @@ When interest rates are at the ZLB, the [yield curve](../y/yield_curve.md) may a
 Zero Bound [Yield Curve](../y/yield_curve.md) Analysis requires sophisticated [quantitative models](../q/quantitative_models.md) and a keen understanding of economic theories. Below are some methods:
 
 1. **Dynamic Term Structure Models (DTSM)**:
-   These models incorporate risk factors and [stochastic processes](../s/stochastic_processes.md) to model the [yield curve](../y/yield_curve.md)'s evolution over time. For example, the **Affine Term Structure Models (ATSM)** allow for a simple representation of interest rates and risk premiums.
+   These models incorporate [risk factors](../r/risk_factors_in_trading.md) and [stochastic processes](../s/stochastic_processes.md) to model the [yield curve](../y/yield_curve.md)'s evolution over time. For example, the **Affine Term Structure Models (ATSM)** allow for a simple representation of interest rates and risk premiums.
 
 2. **Regime-Switching Models**:
    Capture different economic regimes (e.g., high growth vs. recession) and their impact on the [yield curve](../y/yield_curve.md). Models like the **Markov Chain Monte Carlo (MCMC)** methods estimate the probability of switching between regimes.

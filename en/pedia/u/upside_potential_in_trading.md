@@ -58,9 +58,9 @@ Despite its importance, accurately assessing upside potential is fraught with ch
 
 2. **Data Quality**: The reliability of historical data used for [backtesting](../b/backtesting.md) and strategy development can affect the assessment of upside potential. Inaccurate or biased data can lead to erroneous conclusions.
 
-3. **Model Risk**: The risk that the mathematical models used to predict upside potential are flawed or based on incorrect assumptions. Continuous validation and updating of models are necessary to mitigate this risk.
+3. **Model Risk**: The risk that the [mathematical models](../m/mathematical_models_in_trading.md) used to predict upside potential are flawed or based on incorrect assumptions. Continuous validation and updating of models are necessary to mitigate this risk.
 
-4. **Behavioral Factors**: Market behavior is influenced by human emotions and psychological biases, which can be hard to predict and incorporate into models assessing upside potential.
+4. **Behavioral Factors**: Market behavior is influenced by human emotions and [psychological biases](../p/psychological_biases_in_trading.md), which can be hard to predict and incorporate into models assessing upside potential.
 
 5. **Regulatory Changes**: Unexpected changes in market regulations can alter the landscape, affecting the upside potential of existing [trading strategies](../t/trading_strategies.md).
 

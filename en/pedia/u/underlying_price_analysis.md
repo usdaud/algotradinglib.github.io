@@ -79,15 +79,15 @@ The analysis of GameStop’s stock price movements revealed the power of social 
 ## Emerging Trends
 
 ### AI and Machine Learning
-Artificial intelligence and machine learning are becoming increasingly prevalent in analyzing underlying prices and making predictive models more accurate.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning are becoming increasingly prevalent in analyzing underlying prices and making [predictive models](../p/predictive_models_in_trading.md) more accurate.
 
 ### Big Data Analytics
-The use of big data enables the processing of large datasets to derive actionable insights and improve [trading algorithms](../t/trading_algorithms.md).
+The use of [big data](../b/big_data_in_trading.md) enables the processing of large datasets to derive actionable insights and improve [trading algorithms](../t/trading_algorithms.md).
 
 ### Blockchain and Cryptocurrencies
-The emergence of blockchain technology and cryptocurrencies introduces new underlying assets, requiring novel analysis methods.
+The emergence of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies introduces new underlying assets, requiring novel analysis methods.
 
 ## Conclusion
-Underlying price analysis is a multifaceted discipline that combines various methodologies to understand and predict market movements. It is a cornerstone of [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). Continuous advancements in technology, like AI and big data, are transforming how underlying price analysis is conducted, providing more precise and actionable insights.
+Underlying price analysis is a multifaceted discipline that combines various methodologies to understand and predict market movements. It is a cornerstone of [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). Continuous advancements in technology, like AI and [big data](../b/big_data_in_trading.md), are transforming how underlying price analysis is conducted, providing more precise and actionable insights.
 
 Understanding the nuances of underlying price analysis can significantly enhance a trader's ability to make informed decisions and develop sophisticated [trading algorithms](../t/trading_algorithms.md). Traders and analysts must stay updated with new tools, techniques, and market developments to maintain their competitive edge.

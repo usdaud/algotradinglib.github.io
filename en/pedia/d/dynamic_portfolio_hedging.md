@@ -12,7 +12,7 @@ In static hedging, positions are established and maintained over a set period wi
 
 ### 1.2 Dynamic Hedging
 
-In contrast, [dynamic hedging](../d/dynamic_hedging.md) involves continuous adjustments to one's portfolio in reaction to market movements. This approach is especially pertinent in environments where asset prices are volatile, and the risk landscape can change rapidly. The strategy typically employs advanced mathematical models and algorithms to guide these adjustments, making it a cornerstone of modern [algorithmic trading](../a/algorithmic_trading.md) practices.
+In contrast, [dynamic hedging](../d/dynamic_hedging.md) involves continuous adjustments to one's portfolio in reaction to market movements. This approach is especially pertinent in environments where asset prices are volatile, and the risk landscape can change rapidly. The strategy typically employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to guide these adjustments, making it a cornerstone of modern [algorithmic trading](../a/algorithmic_trading.md) practices.
 
 ## 2. Importance of Dynamic Hedging in Modern Finance
 
@@ -48,9 +48,9 @@ Several companies are at the forefront of dynamic [portfolio hedging](../p/portf
 
 - **AQR Capital Management**: Known for their quantitative approach to trading and investment management, AQR uses [dynamic hedging](../d/dynamic_hedging.md) techniques to manage risk across its portfolios. [AQR Capital Management](https://www.aqr.com/).
 
-- **Two Sigma Investments**: A hedge fund that employs machine learning and artificial intelligence to identify market patterns and dynamically hedge positions. [Two Sigma Investments](https://www.twosigma.com/).
+- **Two Sigma Investments**: A hedge fund that employs machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify market patterns and dynamically hedge positions. [Two Sigma Investments](https://www.twosigma.com/).
 
-- **DE Shaw & Co**: An investment and technology development firm, DE Shaw employs sophisticated mathematical models for [dynamic hedging](../d/dynamic_hedging.md). [DE Shaw & Co](https://www.deshaw.com/).
+- **DE Shaw & Co**: An investment and technology development firm, DE Shaw employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for [dynamic hedging](../d/dynamic_hedging.md). [DE Shaw & Co](https://www.deshaw.com/).
 
 ## 5. Implementing Dynamic Hedging: A Step-by-Step Guide
 
@@ -67,7 +67,7 @@ Before implementing a [dynamic hedging](../d/dynamic_hedging.md) strategy, it's 
 
 Developing a [dynamic hedging](../d/dynamic_hedging.md) strategy involves:
 
-- **Model Selection**: Choose appropriate mathematical models and algorithms based on the portfolio's characteristics and market conditions.
+- **Model Selection**: Choose appropriate [mathematical models](../m/mathematical_models_in_trading.md) and algorithms based on the portfolio's characteristics and market conditions.
 - **Hedge Instrument Selection**: Decide on the instruments to be used for hedging, such as options, futures, or swaps.
 - **Parameter Calibration**: Calibrate model parameters using historical data and back-testing to ensure robustness.
 
@@ -84,7 +84,7 @@ Finally, monitoring and evaluation are essential to ensure the strategy's effect
 
 - **Performance Tracking**: Track the performance of the hedging strategy in real-time.
 - **Risk Reassessment**: Regularly reassess the portfolio's risk profile and make necessary adjustments to the strategy.
-- **Model Updating**: Update the mathematical models and algorithms based on new data and changing market conditions.
+- **Model Updating**: Update the [mathematical models](../m/mathematical_models_in_trading.md) and algorithms based on new data and changing market conditions.
 
 ## 6. Challenges in Dynamic Portfolio Hedging
 
@@ -120,7 +120,7 @@ The availability of real-time data enables more responsive and accurate [dynamic
 
 ### 7.3 Blockchain and Smart Contracts
 
-Blockchain technology and smart contracts can automate and streamline the hedging process, reducing the need for intermediaries and minimizing transaction costs.
+[Blockchain](../b/blockchain_in_trading.md) technology and [smart contracts](../s/smart_contracts_in_trading.md) can automate and streamline the hedging process, reducing the need for intermediaries and minimizing transaction costs.
 
 ### 7.4 Regulatory Developments
 

@@ -70,9 +70,9 @@ EBS is an electronic trading platform specializing in foreign exchange markets. 
 
 ## Future Trends in OTC Markets
 
-1. **Technological Advancements**: Continued advancements in technology, including blockchain and distributed ledger technology (DLT), have the potential to enhance the transparency and efficiency of OTC markets. DLT can facilitate the secure and transparent recording of trades.
+1. **Technological Advancements**: Continued advancements in technology, including [blockchain](../b/blockchain_in_trading.md) and distributed ledger technology (DLT), have the potential to enhance the transparency and efficiency of OTC markets. DLT can facilitate the secure and transparent recording of trades.
 
-2. **Artificial Intelligence and Machine Learning**: AI and machine learning algorithms are increasingly being used for [predictive analytics](../p/predictive_analytics.md), automated trading, and [risk management](../r/risk_management.md) in OTC markets. These technologies can improve accuracy in price discovery and execution.
+2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: AI and machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being used for [predictive analytics](../p/predictive_analytics.md), automated trading, and [risk management](../r/risk_management.md) in OTC markets. These technologies can improve accuracy in price discovery and execution.
 
 3. **Regulatory Evolutions**: Regulatory bodies are constantly evolving to address the challenges posed by OTC markets. This includes enhancing transparency, implementing stringent reporting requirements, and developing frameworks to mitigate systemic risks.
 

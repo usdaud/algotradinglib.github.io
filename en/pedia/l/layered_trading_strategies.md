@@ -80,7 +80,7 @@ Once implemented, continuous monitoring and maintenance are crucial to ensure th
 
 ### Real-World Application
 
-One notable example of a company utilizing layered [trading strategies](../t/trading_strategies.md) is Renaissance Technologies. Known for its Medallion Fund, Renaissance Technologies employs a multitude of quantitative strategies, layered and coordinated to achieve remarkable returns. More information about Renaissance Technologies can be found [here](https://www.rentec.com).
+One notable example of a company utilizing layered [trading strategies](../t/trading_strategies.md) is Renaissance Technologies. Known for its Medallion Fund, Renaissance Technologies employs a multitude of [quantitative strategies](../q/quantitative_strategies_in_trading.md), layered and coordinated to achieve remarkable returns. More information about Renaissance Technologies can be found [here](https://www.rentec.com).
 
 ## Conclusion
 

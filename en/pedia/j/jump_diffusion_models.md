@@ -24,14 +24,14 @@ where:
 
 ### Jump Process
 
-The jump component introduces discontinuous movements in the asset price. This is often modeled using a Poisson process, which adds jumps to the SDE at random points in time:
+The jump component introduces discontinuous movements in the asset price. This is often modeled using a [Poisson process](../p/poisson_process_in_trading.md), which adds jumps to the SDE at random points in time:
 
 ```math
 dS(t) = \mu S(t) dt + \sigma S(t) dW(t) + S(t^{-}) \sum_{i=1}^{N(t)}(J_i - 1) dN(t)
 ```
 
 where:
-- \(N(t)\) is a Poisson process with intensity \(\lambda\),
+- \(N(t)\) is a [Poisson process](../p/poisson_process_in_trading.md) with intensity \(\lambda\),
 - \(J_i\) are independent identically distributed random variables representing the jump sizes.
 
 ### Complete Jump Diffusion Model
@@ -76,7 +76,7 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), jump diffus
 
 Jump diffusion models contribute to the deeper understanding of market mechanics, informing both academic research and practical application:
 
-- **Empirical Analysis**: Researchers use these models to study the impact of macroeconomic news, [earnings announcements](../e/earnings_announcements.md), and [geopolitical events](../g/geopolitical_events.md) on market prices.
+- **[Empirical Analysis](../e/empirical_analysis_in_trading.md)**: Researchers use these models to study the impact of macroeconomic news, [earnings announcements](../e/earnings_announcements.md), and [geopolitical events](../g/geopolitical_events.md) on market prices.
 - **[Behavioral Finance](../b/behavioral_finance.md)**: Examines how sudden market movements affect investor behavior and market psychology.
 
 ## Calibration and Estimation

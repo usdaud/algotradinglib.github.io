@@ -21,16 +21,16 @@ X-Price Forecasting is integral to [algorithmic trading](../a/algorithmic_tradin
 ### Machine Learning Models
 Machine learning models can capture complex, non-linear relationships in financial data:
 - **[Linear Regression](../l/linear_regression.md)**: Provides a basic approach for modeling relationships between variables.
-- **Support Vector Machines (SVM)**: Effective for classification and regression tasks in [financial forecasting](../f/financial_forecasting.md).
-- **Random Forests**: An [ensemble learning](../e/ensemble_learning.md) method that enhances prediction accuracy by combining multiple [decision trees](../d/decision_trees.md).
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Effective for classification and regression tasks in [financial forecasting](../f/financial_forecasting.md).
+- **[Random Forests](../r/random_forests_in_trading.md)**: An [ensemble learning](../e/ensemble_learning.md) method that enhances prediction accuracy by combining multiple [decision trees](../d/decision_trees.md).
 - **Gradient Boosting Machines (GBM)**: Focuses on improving prediction accuracy by minimizing errors sequentially.
 
 ### Deep Learning Architectures
 Deep learning models have gained popularity due to their ability to process large volumes of data and uncover intricate patterns:
-- **Recurrent Neural Networks (RNNs)**: Suitable for sequential data, capturing dependencies between time steps.
+- **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs)**: Suitable for sequential data, capturing dependencies between time steps.
 - **Long Short Term Memory (LSTM) Networks**: A type of RNN designed to handle long-term dependencies and memory issues in time series data.
-- **Convolutional Neural Networks (CNNs)**: Effective for extracting features from raw data, combined with RNNs for [time series forecasting](../t/time_series_forecasting.md).
-- **Transformer Models**: Advanced architectures leveraging attention mechanisms to model temporal dependencies across long sequences.
+- **Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs)**: Effective for extracting features from raw data, combined with RNNs for [time series forecasting](../t/time_series_forecasting.md).
+- **Transformer Models**: Advanced architectures leveraging attention mechanisms to model [temporal dependencies](../t/temporal_dependencies_in_trading.md) across long sequences.
 
 ### Hybrid Models
 Hybrid models combine various forecasting techniques to leverage their strengths and mitigate individual limitations:

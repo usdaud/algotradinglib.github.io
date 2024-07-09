@@ -1,6 +1,6 @@
 # Zero Coupon Yield Curve Strategy
 
-The Zero Coupon [Yield Curve](../y/yield_curve.md) Strategy is a sophisticated fixed-income trading technique utilized primarily by institutional investors and hedge funds. The strategy revolves around the use and interpretation of the zero-coupon [yield curve](../y/yield_curve.md)—a plot that represents the yields of zero-coupon bonds with differing maturities. This strategy depends heavily on mathematical models, computer algorithms, and financial theories to identify [arbitrage](../a/arbitrage.md) opportunities, hedge risks, and optimize returns.
+The Zero Coupon [Yield Curve](../y/yield_curve.md) Strategy is a sophisticated fixed-income trading technique utilized primarily by institutional investors and hedge funds. The strategy revolves around the use and interpretation of the zero-coupon [yield curve](../y/yield_curve.md)—a plot that represents the yields of zero-coupon bonds with differing maturities. This strategy depends heavily on [mathematical models](../m/mathematical_models_in_trading.md), computer algorithms, and financial theories to identify [arbitrage](../a/arbitrage.md) opportunities, hedge risks, and optimize returns.
 
 ## Zero-Coupon Bonds
 
@@ -82,7 +82,7 @@ Financial institutions use this strategy to manage interest rate risk on their b
 
 ### Model Risk
 
-The reliance on complex mathematical models introduces model risk. Incorrect assumptions or inaccuracies in the models can lead to substantial losses.
+The reliance on complex [mathematical models](../m/mathematical_models_in_trading.md) introduces model risk. Incorrect assumptions or inaccuracies in the models can lead to substantial losses.
 
 ### Liquidity Risk
 

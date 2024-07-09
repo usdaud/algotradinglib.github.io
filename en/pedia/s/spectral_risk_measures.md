@@ -26,7 +26,7 @@ A spectral risk measure is a coherent risk measure associated with a spectrum, r
 
 2. **[Loss Distribution](../l/loss_distribution.md)**: Let L be a random variable representing the loss of a portfolio.
 
-3. **Quantile Function**: Denote the quantile function of L as \( q_L(α) \), which is the inverse of the cumulative distribution function (CDF) of L.
+3. **Quantile Function**: Denote the quantile function of L as \( q_L(α) \), which is the inverse of the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) (CDF) of L.
 
 4. **Spectral Risk Measure**: The spectral risk measure ρ associated with φ is given by:
     \[
@@ -71,7 +71,7 @@ When constructing an optimized portfolio, spectral risk measures provide a way t
 
 ### Stress Testing and Scenario Analysis
 
-Spectral risk measures enable more granular stress testing by assigning different emphasis to various potential loss scenarios. This helps in identifying vulnerabilities within a portfolio under extreme market conditions and allows for better-preparedness and risk mitigation strategies.
+Spectral risk measures enable more granular [stress testing](../s/stress_testing_in_trading.md) by assigning different emphasis to various potential loss scenarios. This helps in identifying vulnerabilities within a portfolio under extreme market conditions and allows for better-preparedness and risk mitigation strategies.
 
 ### Algorithm Calibration
 

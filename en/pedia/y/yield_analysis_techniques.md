@@ -35,7 +35,7 @@ Forward testing or paper trading involves testing [trading strategies](../t/trad
 
 - **Platforms**:
   - [Thinkorswim](../t/thinkorswim.md) (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md).page)
-  - Interactive Brokers (https://www.interactivebrokers.com/)
+  - [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/)
   - [NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com/)
 
 ## 3. Monte Carlo Simulations
@@ -49,7 +49,7 @@ Monte Carlo simulations use random sampling and statistical modeling to understa
 
 - **Disadvantages**:
   - Computationally intensive and time-consuming.
-  - The accuracy of simulation depends on the quality of input data and assumptions.
+  - The accuracy of [simulation](../s/simulation_in_trading.md) depends on the quality of input data and assumptions.
 
 - **Tools**:
   - Python libraries such as NumPy and Pandas.
@@ -58,7 +58,7 @@ Monte Carlo simulations use random sampling and statistical modeling to understa
 
 ## 4. Stress Testing
 
-Stress testing evaluates the robustness of [trading strategies](../t/trading_strategies.md) by applying extreme market conditions or historical events to assess how these strategies would perform under high volatility or market crashes.
+[Stress testing](../s/stress_testing_in_trading.md) evaluates the robustness of [trading strategies](../t/trading_strategies.md) by applying extreme market conditions or historical events to assess how these strategies would perform under high volatility or market crashes.
 
 - **Advantages**: 
   - Identifies potential vulnerabilities in [trading strategies](../t/trading_strategies.md).
@@ -130,7 +130,7 @@ A profitability map, also known as heatmap analysis, visualizes the return and p
   - Misidentification of factors can lead to incorrect conclusions.
 
 - **Key Techniques**:
-  - Principal Component Analysis (PCA)
+  - [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)
   - [Regression Analysis](../r/regression_analysis.md)
 
 - **Tools**:
@@ -140,7 +140,7 @@ A profitability map, also known as heatmap analysis, visualizes the return and p
 
 ## 8. Scenario Analysis
 
-Scenario analysis involves constructing hypothetical scenarios to explore the performance of [trading strategies](../t/trading_strategies.md) over a range of different possible future events. It enables traders to gauge the potential impact of various risk factors on their strategy returns.
+Scenario analysis involves constructing hypothetical scenarios to explore the performance of [trading strategies](../t/trading_strategies.md) over a range of different possible future events. It enables traders to gauge the potential impact of various [risk factors](../r/risk_factors_in_trading.md) on their strategy returns.
 
 - **Advantages**:
   - Helps in preparing for a wide range of market conditions.

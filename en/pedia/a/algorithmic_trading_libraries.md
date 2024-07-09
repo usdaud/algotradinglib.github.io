@@ -1,6 +1,6 @@
 # Algorithmic Trading Libraries
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, is a method of executing orders using automated and pre-programmed trading instructions. This system combines financial data and mathematical models to make high-speed decisions about trading. Here, we will delve into some of the most commonly used libraries in the field of [algorithmic trading](../a/algorithmic_trading.md).
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, is a method of executing orders using automated and pre-programmed trading instructions. This system combines financial data and [mathematical models](../m/mathematical_models_in_trading.md) to make high-speed decisions about trading. Here, we will delve into some of the most commonly used libraries in the field of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## QuantConnect
 
@@ -74,7 +74,7 @@ TA-Lib, or [Technical Analysis](../t/technical_analysis.md) Library, is an effic
 
 ## QSTrader
 
-QSTrader is an open-source library designed specifically for [backtesting](../b/backtesting.md) quantitative strategies. It emphasizes ease of use and rapid development.
+QSTrader is an open-source library designed specifically for [backtesting](../b/backtesting.md) [quantitative strategies](../q/quantitative_strategies_in_trading.md). It emphasizes ease of use and rapid development.
 
 - **Website**: [QSTrader](https://github.com/mhallsmoore/qstrader)
 - **Notable Features**: 

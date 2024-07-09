@@ -26,7 +26,7 @@ Several factors influence the yield of the [30-year Treasury bond](../1/30-year_
 
 5. **Fiscal Policy**: Government spending and borrowing can affect yields. Large deficits may result in higher yields as the government needs to borrow more, which can increase supply and lower prices.
 
-6. **Market Sentiment**: Investor sentiment and market risk appetite also play a role. In times of financial stress or uncertainty, investors often flock to the safety of Treasury bonds, driving up prices and lowering yields.
+6. **Market Sentiment**: Investor sentiment and market risk appetite also play a role. In times of financial stress or [uncertainty](../u/uncertainty_in_trading.md), investors often flock to the safety of Treasury bonds, driving up prices and lowering yields.
 
 ### Impact on the Economy
 

@@ -23,7 +23,7 @@ In traditional [portfolio management](../p/portfolio_management.md), risk is oft
 Several metrics and methodologies can be used to measure upside risk effectively. While there is no single widely accepted measure, here are some commonly used techniques:
 
 - **Upside Deviation**: Similar to standard deviation, but only considers returns above a certain threshold (like the mean or a target return).
-- **[Sortino Ratio](../s/sortino_ratio.md)**: A variation of the [Sharpe Ratio](../s/sharpe_ratio.md) that penalizes only downside risk, thereby giving weight to upside potential.
+- **[Sortino Ratio](../s/sortino_ratio.md)**: A variation of the [Sharpe Ratio](../s/sharpe_ratio.md) that penalizes only downside risk, thereby giving weight to [upside potential](../u/upside_potential_in_trading.md).
 - **Omega Ratio**: Measures the ratio of the probability-weighted gains to the probability-weighted losses, thereby providing a holistic view of both upside and downside risks.
 - **Upside Beta**: Measures an asset's co-movement with the market during periods when the market is going up.
 
@@ -38,7 +38,7 @@ Optimizing upside risk involves [asset allocation](../a/asset_allocation.md) str
 
 With the evolution of technology and financial theories, various tools and platforms have emerged to help manage and optimize upside risk. [Algorithmic trading](../a/algorithmic_trading.md) systems, machine learning models, and advanced analytics are commonly used for this purpose.
 
-- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Enables automated [trading strategies](../t/trading_strategies.md) that maximize upside potential through automated decisions based on pre-set criteria.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Enables automated [trading strategies](../t/trading_strategies.md) that maximize [upside potential](../u/upside_potential_in_trading.md) through automated decisions based on pre-set criteria.
 - **Machine Learning Models**: Provide [predictive analytics](../p/predictive_analytics.md) to anticipate market conditions that might lead to upside deviations.
 - **[Risk Management](../r/risk_management.md) Software**: Dedicated platforms like those offered by [Bloomberg](https://www.bloomberg.com/professional/product/portfolio-and-risk-analytics/) and [RiskMetrics](https://www.msci.com/rmg) provide comprehensive tools for measuring and managing both upside and downside risks.
 
@@ -48,7 +48,7 @@ To illustrate the practical application of upside risk, consider the following c
 
 1. **Hedge Funds**: Many hedge funds focus on high-risk, high-reward strategies. For instance, [Bridgewater Associates](https://www.bridgewater.com/) employs an "alpha overlay" strategy that seeks to achieve positive returns irrespective of market conditions, focusing significantly on managing upside risk.
   
-2. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Firms like [Renaissance Technologies](https://www.rentec.com/) utilize complex mathematical models and algorithms to identify opportunities for high returns. Their Medallion Fund, known for its extraordinary performance, is an example of how upside risk can be effectively managed and capitalized upon.
+2. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Firms like [Renaissance Technologies](https://www.rentec.com/) utilize complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify opportunities for high returns. Their Medallion Fund, known for its extraordinary performance, is an example of how upside risk can be effectively managed and capitalized upon.
 
 ### Conclusion
 

@@ -30,7 +30,7 @@ The demand for talent in algo-trading is influenced by the need for expertise in
 
 ### B. Trend Analysis
 - **Early 2000s:** Moderate demand for specialists with experience in C++ and financial markets.
-- **2010s:** Surge in demand for big data analysts and machine learning experts alongside regulatory scrutiny.
+- **2010s:** Surge in demand for [big data](../b/big_data_in_trading.md) analysts and machine learning experts alongside regulatory scrutiny.
 - **2020s:** Continued growth in demand for AI and automation expertise, with an increasing focus on ethical AI and sustainable trading practices.
 
 ## 4. Recruitment Strategies and Processes
@@ -58,7 +58,7 @@ Evaluation often involves rigorous technical assessments, including coding chall
 ## 6. Impact of External Factors on Job Market Cycles
 
 ### A. Technological Advancements
-Improvements in computing power, big data analytics, and machine learning have a profound impact on the job market, driving demand for highly specialized skills.
+Improvements in computing power, [big data analytics](../b/big_data_analytics_in_trading.md), and machine learning have a profound impact on the job market, driving demand for highly specialized skills.
 
 ### B. Regulatory Changes
 Regulatory frameworks, such as MiFID II in Europe and Dodd-Frank in the U.S., impose compliance requirements that indirectly shape hiring trends. Firms often need compliance experts and risk managers to navigate these regulatory landscapes.
@@ -84,7 +84,7 @@ Leading institutions offering specialized programs in [quantitative finance](../
 
 ### B. Online Courses and Certifications
 1. **Coursera**: Offers courses on [algorithmic trading](../a/algorithmic_trading.md), machine learning, and [financial engineering](../f/financial_engineering.md). [Coursera](https://www.coursera.org/)
-2. **Udacity**: Provides nano degree programs focused on programming and data science, relevant for aspiring algo-traders. [Udacity](https://www.udacity.com/)
+2. **Udacity**: Provides nano degree programs focused on programming and [data science](../d/data_science_in_trading.md), relevant for aspiring algo-traders. [Udacity](https://www.udacity.com/)
 
 ### C. Professional Networks and Meetups
 Engaging with professional networks, such as those facilitated by the Global Association of Risk Professionals (GARP) and attending industry conferences like those hosted by Quantitative Work Alliance for Applied Finance, Education, and Wisdom (QAFAW), help in building connections and staying updated with industry trends.
@@ -102,7 +102,7 @@ As with any advanced technology, ethical concerns related to algo-trading, such 
 
 ## 10. Future Outlook
 
-The job [market cycles](../m/market_cycles.md) in [algorithmic trading](../a/algorithmic_trading.md) are expected to evolve with ongoing technological advancements, regulatory developments, and changing market dynamics. Growth in areas such as decentralized finance (DeFi), blockchain technology, and sustainable investing will continue to shape the future landscape of this field.
+The job [market cycles](../m/market_cycles.md) in [algorithmic trading](../a/algorithmic_trading.md) are expected to evolve with ongoing technological advancements, regulatory developments, and changing market dynamics. Growth in areas such as decentralized finance (DeFi), [blockchain](../b/blockchain_in_trading.md) technology, and sustainable investing will continue to shape the future landscape of this field.
 
 ### Key Predictions
 - **AI and Machine Learning Integration**: Increasing reliance on AI-driven algorithms to enhance [trading strategies](../t/trading_strategies.md) and decision-making processes.

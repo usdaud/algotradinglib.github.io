@@ -76,13 +76,13 @@ Unlike active managers who can quickly adjust portfolios in response to market c
 
 ### Vanguard 500 Index Fund (VFIAX)
 
-The Vanguard 500 Index Fund seeks to track the performance of the S&P 500 Index. It is one of the most well-known and widely used index funds, offering broad exposure to U.S. large-cap stocks.
+The Vanguard 500 Index Fund seeks to track the performance of the S&P 500 Index. It is one of the most well-known and widely used index funds, offering broad exposure to U.S. [large-cap stocks](../l/large_cap_stocks.md).
 
 **Website**: [https://investor.vanguard.com/mutual-funds/profile/VFIAX](https://investor.vanguard.com/mutual-funds/profile/VFIAX)
 
 ### SPDR S&P 500 ETF Trust (SPY)
 
-SPY is one of the first ETFs introduced and remains one of the most popular. It aims to replicate the performance of the S&P 500 Index, providing investors with a convenient way to invest in U.S. large-cap stocks.
+SPY is one of the first ETFs introduced and remains one of the most popular. It aims to replicate the performance of the S&P 500 Index, providing investors with a convenient way to invest in U.S. [large-cap stocks](../l/large_cap_stocks.md).
 
 **Website**: [https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy)
 
@@ -120,11 +120,11 @@ High-frequency trading is used by some ETFs and index funds to improve liquidity
 
 ### Big Data and Machine Learning
 
-Big data and machine learning technologies enable more sophisticated analysis and optimization of passive investment strategies. By analyzing vast amounts of financial data, these technologies can uncover patterns and trends that enhance the construction and rebalancing of passive portfolios.
+[Big data](../b/big_data_in_trading.md) and machine learning technologies enable more sophisticated analysis and optimization of passive investment strategies. By analyzing vast amounts of financial data, these technologies can uncover patterns and trends that enhance the construction and rebalancing of passive portfolios.
 
 ### Blockchain and Tokenization
 
-Blockchain technology and the tokenization of assets have the potential to further streamline and democratize passive investing. Tokenized index funds or ETFs could offer fractional ownership, increased transparency, and reduced administrative costs.
+[Blockchain](../b/blockchain_in_trading.md) technology and the tokenization of assets have the potential to further streamline and democratize passive investing. Tokenized index funds or ETFs could offer fractional ownership, increased transparency, and reduced administrative costs.
 
 ## Conclusion
 

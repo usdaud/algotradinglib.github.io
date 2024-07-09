@@ -80,7 +80,7 @@ During the period of extreme volatility in early 2020 due to the COVID-19 pandem
 ### Trading Platforms
 
 - **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A powerful tool for options traders offering real-time Gamma and Delta monitoring. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- **Interactive Brokers**: Provides advanced options analytics and real-time monitoring tools. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides advanced options analytics and real-time monitoring tools. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
 
 ### Analytics Tools
 - **OptionVue**: Delivers robust options analysis including Gamma and Delta projections. [OptionVue](https://optionvue.com)

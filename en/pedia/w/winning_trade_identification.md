@@ -18,7 +18,7 @@ Machine learning models have become increasingly vital in identifying winning tr
 
 ### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) involves using natural language processing (NLP) to analyze news articles, social media, and other textual data to gauge market sentiment. Sentiment scores can provide insights into the bullish or bearish mood of the market, which can be a valuable input for [trading algorithms](../t/trading_algorithms.md).
+[Sentiment analysis](../s/sentiment_analysis.md) involves using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze news articles, social media, and other textual data to gauge market sentiment. Sentiment scores can provide insights into the bullish or bearish mood of the market, which can be a valuable input for [trading algorithms](../t/trading_algorithms.md).
 
 ## Key Strategies for Identifying Winning Trades
 
@@ -50,7 +50,7 @@ Scenario analysis involves evaluating the potential effects of different market 
 
 ### Real-time Data Analysis
 
-[Real-time data analysis](../r/real-time_data_analysis.md) is crucial for implementing algorithmic trades. Platforms like [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets) and Interactive Brokers (https://www.interactivebrokers.com) offer APIs for [real-time market data](../r/real-time_market_data.md) access, enabling algorithms to make informed, instant trading decisions.
+[Real-time data analysis](../r/real-time_data_analysis.md) is crucial for implementing algorithmic trades. Platforms like [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets) and [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com) offer APIs for [real-time market data](../r/real-time_market_data.md) access, enabling algorithms to make informed, instant trading decisions.
 
 ## Risk Management
 
@@ -72,15 +72,15 @@ Diversification involves spreading investments across various assets to reduce r
 
 ### Renaissance Technologies
 
-Renaissance Technologies is renowned for its Medallion Fund, a quantitatively-driven investment fund. By leveraging complex mathematical models and high-frequency trading, the firm has achieved exceptional returns. More about their approach can be found at (https://www.rentec.com).
+Renaissance Technologies is renowned for its Medallion Fund, a quantitatively-driven investment fund. By leveraging complex [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency trading, the firm has achieved exceptional returns. More about their approach can be found at (https://www.rentec.com).
 
 ### Two Sigma
 
-Two Sigma uses machine learning, distributed computing, and big data to develop investment strategies. Their approach highlights the significance of technology and data science in modern trading. Visit (https://www.twosigma.com) for more insight.
+Two Sigma uses machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to develop investment strategies. Their approach highlights the significance of technology and [data science](../d/data_science_in_trading.md) in modern trading. Visit (https://www.twosigma.com) for more insight.
 
 ### Bridgewater Associates
 
-Bridgewater Associates employs a fundamental macroeconomic approach to trading, utilizing big data and machine learning to inform its strategies. They focus on understanding the underlying economic factors that drive market movements. For more details, visit (https://www.bridgewater.com).
+Bridgewater Associates employs a fundamental macroeconomic approach to trading, utilizing [big data](../b/big_data_in_trading.md) and machine learning to inform its strategies. They focus on understanding the underlying economic factors that drive market movements. For more details, visit (https://www.bridgewater.com).
 
 ## Conclusion
 

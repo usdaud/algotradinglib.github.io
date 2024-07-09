@@ -81,7 +81,7 @@ If not used carefully, 3D charts can sometimes be misleading. The added dimensio
 ## Future Trends
 
 ### Integration with AI
-As artificial intelligence continues to shape the landscape of finance, integrating AI with 3D charting can offer dynamic visualizations that adapt to real-time data and [predictive analytics](../p/predictive_analytics.md).
+As [artificial intelligence](../a/artificial_intelligence_in_trading.md) continues to shape the landscape of finance, integrating AI with 3D charting can offer dynamic visualizations that adapt to real-time data and [predictive analytics](../p/predictive_analytics.md).
 
 ### Virtual and Augmented Reality
 The adoption of VR and AR technologies in trading could revolutionize the way 3D data visualizations are experienced. Imagine traders using VR headsets to walk through a virtual trading floor where they can interact with 3D charts and models.

@@ -60,7 +60,7 @@ Transaction Cost Analysis (TCA) refers to the methodology of analyzing the costs
 ### Tools and Technologies for TCA
 
 1. **TCA Platforms**:
-   - Specialized software platforms that provide comprehensive TCA services.
+   - Specialized [software platforms](../s/software_platforms_for_trading.md) that provide comprehensive TCA services.
    - Examples: [Bloomberg](../b/bloomberg.md) Transaction Cost Analysis (BTCA), ITG TCA, Abel Noser Solutions.
 
 2. **Data Feeds and Analytics**:
@@ -68,7 +68,7 @@ Transaction Cost Analysis (TCA) refers to the methodology of analyzing the costs
    - Examples: Thomson [Reuters](../r/reuters.md) DataScope, [FactSet](../f/factset.md).
 
 3. **Machine Learning and AI**:
-   - Leveraging machine learning and artificial intelligence to predict market impact and optimize [trading strategies](../t/trading_strategies.md).
+   - Leveraging machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict market impact and optimize [trading strategies](../t/trading_strategies.md).
    - AI-driven models can continuously learn and adapt to changing market conditions, improving execution quality over time.
 
 ### Regulatory and Compliance Aspects

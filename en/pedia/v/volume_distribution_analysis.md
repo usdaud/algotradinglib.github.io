@@ -60,8 +60,8 @@ Volume Distribution Analysis is a pivotal concept in [algorithmic trading](../a/
 2. **[NinjaTrader](../n/ninjatrader.md)**:
    [NinjaTrader](../n/ninjatrader.md) provides advanced charting and [volume analysis](../v/volume_analysis.md) tools tailored for professional traders. Its platform allows for detailed order flow and [volume profile](../v/volume_profile.md) studies. [NinjaTrader Volume Analysis](https://ninjatrader.com/)
 
-3. **Sierra Chart**:
-   Sierra Chart is known for its robust [volume analysis](../v/volume_analysis.md) capabilities, including customizable [volume profile](../v/volume_profile.md) tools and TPO (Time Price Opportunities) charts for detailed market profile studies. [Sierra Chart](https://www.sierrachart.com/)
+3. **[Sierra Chart](../s/sierra_chart.md)**:
+   [Sierra Chart](../s/sierra_chart.md) is known for its robust [volume analysis](../v/volume_analysis.md) capabilities, including customizable [volume profile](../v/volume_profile.md) tools and TPO (Time Price Opportunities) charts for detailed market profile studies. [Sierra Chart](https://www.sierrachart.com/)
 
 4. **[ThinkOrSwim](../t/thinkorswim.md) (by TD [Ameritrade](../a/ameritrade.md))**:
    [ThinkOrSwim](../t/thinkorswim.md) platform offers extensive [volume analysis](../v/volume_analysis.md) tools and is particularly favored for options and [equity trading](../e/equity_trading.md). [ThinkOrSwim Volume Profile](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)

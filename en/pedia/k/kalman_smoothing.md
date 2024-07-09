@@ -1,10 +1,10 @@
 # Kalman Smoothing
 
-Kalman Smoothing is an advanced statistical method used in various fields, including [algorithmic trading](../a/algorithmic_trading.md). It builds upon the Kalman Filter, which is a recursive algorithm designed to estimate the state of a system over time. While the Kalman Filter is used for real-time estimation, Kalman Smoothing provides a way to refine these estimates by considering future observations as well. This document delves deep into the methodology, applications, advantages, and limitations of Kalman Smoothing in [algorithmic trading](../a/algorithmic_trading.md).
+Kalman Smoothing is an advanced statistical method used in various fields, including [algorithmic trading](../a/algorithmic_trading.md). It builds upon the [Kalman Filter](../k/kalman_filter_in_trading.md), which is a recursive algorithm designed to estimate the state of a system over time. While the [Kalman Filter](../k/kalman_filter_in_trading.md) is used for real-time estimation, Kalman Smoothing provides a way to refine these estimates by considering future observations as well. This document delves deep into the methodology, applications, advantages, and limitations of Kalman Smoothing in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## What is Kalman Smoothing?
 
-Kalman Smoothing, also known as Rauch-Tung-Striebel (RTS) smoother, is a method for refining estimates of the internal state of a dynamic system by using both past and future observations. Unlike the Kalman Filter, which updates estimates as new data arrives, Kalman Smoothing revisits past estimates to improve them using future data.
+Kalman Smoothing, also known as Rauch-Tung-Striebel (RTS) smoother, is a method for refining estimates of the internal state of a dynamic system by using both past and future observations. Unlike the [Kalman Filter](../k/kalman_filter_in_trading.md), which updates estimates as new data arrives, Kalman Smoothing revisits past estimates to improve them using future data.
 
 ### Mathematical Foundation
 
@@ -34,7 +34,7 @@ The system can be described by a set of linear stochastic difference equations:
 
 Kalman Smoothing involves two key passes through the data:
 
-1. **Forward pass (Kalman Filter)**: This is the standard Kalman Filter process, which provides an initial estimate of the state vector up to time \(k\).
+1. **Forward pass ([Kalman Filter](../k/kalman_filter_in_trading.md))**: This is the standard [Kalman Filter](../k/kalman_filter_in_trading.md) process, which provides an initial estimate of the state vector up to time \(k\).
 
 2. **Backward pass (RTS Smoother)**: This pass refines the forward estimates by incorporating future data. It calculates the smoothed state estimates by working backward through the data using the following equations:
 
@@ -76,7 +76,7 @@ In [portfolio management](../p/portfolio_management.md), accurate state estimati
 
 ### Increased Accuracy
 
-By using both past and future data, Kalman Smoothing provides more accurate state estimates than the Kalman Filter alone, reducing prediction error.
+By using both past and future data, Kalman Smoothing provides more accurate state estimates than the [Kalman Filter](../k/kalman_filter_in_trading.md) alone, reducing prediction error.
 
 ### Robustness to Noise
 
@@ -90,7 +90,7 @@ Kalman Smoothing can be adapted to various types of financial data and [trading 
 
 ### Complexity
 
-Implementing Kalman Smoothing is computationally more intensive than the Kalman Filter. It requires a deep understanding of the underlying mathematics and more sophisticated software to handle the calculations.
+Implementing Kalman Smoothing is computationally more intensive than the [Kalman Filter](../k/kalman_filter_in_trading.md). It requires a deep understanding of the underlying mathematics and more sophisticated software to handle the calculations.
 
 ### Assumptions
 
@@ -104,7 +104,7 @@ Since Kalman Smoothing requires future data for refining past estimates, it is n
 
 ### Renaissance Technologies
 
-Renaissance Technologies, a pioneering quantitative hedge fund management firm, uses advanced statistical and mathematical models, including techniques similar to Kalman Smoothing, to exploit inefficiencies in financial markets. [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies, a pioneering quantitative hedge fund management firm, uses advanced statistical and [mathematical models](../m/mathematical_models_in_trading.md), including techniques similar to Kalman Smoothing, to exploit inefficiencies in financial markets. [Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
 

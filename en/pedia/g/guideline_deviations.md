@@ -1,6 +1,6 @@
 # Guideline Deviations
 
-[Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algo-trading," is the process of executing trades in the financial markets using pre-programmed instructions. These instructions could be based on a wide array of variables including timing, price, volume, and complex mathematical models. The primary advantage of algo-trading is the ability to automate [trading strategies](../t/trading_strategies.md) at speeds and frequencies that are impossible for a human trader. This detailed discussion will cover various aspects of [algorithmic trading](../a/algorithmic_trading.md), including its mechanisms, strategies, technological advancements, regulatory environment, and its overall impact on the financial markets.
+[Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algo-trading," is the process of executing trades in the financial markets using pre-programmed instructions. These instructions could be based on a wide array of variables including timing, price, volume, and complex [mathematical models](../m/mathematical_models_in_trading.md). The primary advantage of algo-trading is the ability to automate [trading strategies](../t/trading_strategies.md) at speeds and frequencies that are impossible for a human trader. This detailed discussion will cover various aspects of [algorithmic trading](../a/algorithmic_trading.md), including its mechanisms, strategies, technological advancements, regulatory environment, and its overall impact on the financial markets.
 
 ## Mechanisms of Algorithmic Trading
 
@@ -16,9 +16,9 @@
 
 ### Technological Advancements
 
-1. **Machine Learning and AI**: Algorithms leveraging artificial intelligence (AI) and machine learning (ML) can adapt to changing market conditions by learning from historical data. These models can identify complex patterns that may not be evident through traditional statistical techniques.
+1. **Machine Learning and AI**: Algorithms leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) can adapt to changing market conditions by learning from historical data. These models can identify complex patterns that may not be evident through traditional statistical techniques.
 
-2. **Big Data Analytics**: The availability of large datasets and advancements in data analytics allow for the processing and analysis of vast amounts of information. This data can include everything from market prices to [social media sentiment](../s/social_media_sentiment.md).
+2. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: The availability of large datasets and advancements in data analytics allow for the processing and analysis of vast amounts of information. This data can include everything from market prices to [social media sentiment](../s/social_media_sentiment.md).
 
 3. **Latency Reduction**: Advanced technologies are continually being developed to reduce latency—the time delay between order initiation and its execution. Low-latency systems offer a competitive advantage, enabling traders to capitalize on market inefficiencies in milliseconds.
 
@@ -54,7 +54,7 @@ Trend-following algorithms buy or sell securities based on the direction of pric
 
 ### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) strategies analyze news articles, social media, and other text-based data to gauge market sentiment. Natural language processing (NLP) techniques are used to quantify sentiment, and trading decisions are made accordingly.
+[Sentiment analysis](../s/sentiment_analysis.md) strategies analyze news articles, social media, and other text-based data to gauge market sentiment. [Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques are used to quantify sentiment, and trading decisions are made accordingly.
 
 ### Basket Trading
 
@@ -120,7 +120,7 @@ There is the potential for [algorithmic trading](../a/algorithmic_trading.md) to
 
 ## Future Outlook
 
-The future of [algorithmic trading](../a/algorithmic_trading.md) will likely be shaped by ongoing technological advancements and evolving regulatory landscapes. Innovations in artificial intelligence, quantum computing, and other technologies will continue to push the boundaries of what is possible in algo-trading.
+The future of [algorithmic trading](../a/algorithmic_trading.md) will likely be shaped by ongoing technological advancements and evolving regulatory landscapes. Innovations in [artificial intelligence](../a/artificial_intelligence_in_trading.md), [quantum computing](../q/quantum_computing_in_trading.md), and other technologies will continue to push the boundaries of what is possible in algo-trading.
 
 ### AI and Machine Learning
 
@@ -128,7 +128,7 @@ Future algorithms may incorporate more advanced AI techniques, such as deep lear
 
 ### Quantum Computing
 
-Quantum computing holds the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex optimization problems at unprecedented speeds. Although still in its infancy, quantum computing could provide a significant competitive advantage to early adopters in the trading world.
+[Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex optimization problems at unprecedented speeds. Although still in its infancy, [quantum computing](../q/quantum_computing_in_trading.md) could provide a significant competitive advantage to early adopters in the trading world.
 
 ### Enhanced Regulation
 

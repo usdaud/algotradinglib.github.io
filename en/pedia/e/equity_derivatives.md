@@ -1,6 +1,6 @@
 # Equity Derivatives
 
-Equity [derivatives](../d/derivatives.md) are financial instruments whose value is derived from the price movements of the underlying equity securities. They are used primarily for hedging, speculation, and [arbitrage](../a/arbitrage.md). Equity [derivatives](../d/derivatives.md) include options, futures, warrants, convertible bonds, and swaps. Each of these instruments has unique characteristics and potential uses in a variety of [trading strategies](../t/trading_strategies.md). In this comprehensive overview, we will delve into the various types of equity [derivatives](../d/derivatives.md), their functions, and their importance in financial markets.
+Equity [derivatives](../d/derivatives.md) are financial instruments whose value is derived from the price movements of the underlying equity securities. They are used primarily for hedging, speculation, and [arbitrage](../a/arbitrage.md). Equity [derivatives](../d/derivatives.md) include options, futures, [warrants](../w/warrants_in_trading.md), convertible bonds, and swaps. Each of these instruments has unique characteristics and potential uses in a variety of [trading strategies](../t/trading_strategies.md). In this comprehensive overview, we will delve into the various types of equity [derivatives](../d/derivatives.md), their functions, and their importance in financial markets.
 
 ### Types of Equity Derivatives
 
@@ -15,17 +15,17 @@ Options can be traded on exchanges, such as the Chicago Board Options Exchange (
 
 #### Futures
 
-Futures are standardized contracts obligating the buyer to purchase, or the seller to sell, an asset at a predetermined future date and price. Unlike options, [futures contracts](../f/futures_contracts.md) require the contract holder to fulfill the terms of the contract, either by physical delivery of the asset or through a cash settlement.
+Futures are standardized contracts obligating the buyer to purchase, or the seller to sell, an asset at a predetermined future date and price. Unlike options, [futures contracts](../f/futures_contracts.md) require the contract holder to fulfill the terms of the contract, either by [physical delivery](../p/physical_delivery_in_trading.md) of the asset or through a cash settlement.
 
 Equity futures are listed on exchanges like the CME Group [CME Group](https://www.cmegroup.com/), which provides a platform for the trading of various financial [derivatives](../d/derivatives.md).
 
 #### Warrants
 
-Warrants are similar to options in that they provide the holder the right to buy the underlying stock at a fixed price in the future. However, warrants are typically issued by the company itself and have longer durations than options. They often serve as sweeteners in bond or preferred stock offerings to increase their attractiveness to investors.
+[Warrants](../w/warrants_in_trading.md) are similar to options in that they provide the holder the right to buy the underlying stock at a fixed price in the future. However, [warrants](../w/warrants_in_trading.md) are typically issued by the company itself and have longer durations than options. They often serve as sweeteners in bond or preferred stock offerings to increase their attractiveness to investors.
 
 #### Convertible Bonds
 
-Convertible bonds are hybrid securities that have features of both debt and equity. They pay fixed interest like a bond but can be converted into a predetermined number of shares of the issuing company’s stock. This conversion feature allows investors to benefit from the upside potential of the company’s stock while enjoying the fixed income from the bond.
+Convertible bonds are hybrid securities that have features of both debt and equity. They pay fixed interest like a bond but can be converted into a predetermined number of shares of the issuing company’s stock. This conversion feature allows investors to benefit from the [upside potential](../u/upside_potential_in_trading.md) of the company’s stock while enjoying the fixed income from the bond.
 
 #### Swaps
 

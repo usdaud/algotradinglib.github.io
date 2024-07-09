@@ -28,13 +28,13 @@ Cash settlement, on the other hand, does not involve the delivery of the underly
 
 ### Key Features of Cash Settlement
 
-1. **No Physical Delivery**: Cash settlement eliminates the need for the physical transfer of the underlying asset. This makes the settlement process faster and more straightforward.
+1. **No [Physical Delivery](../p/physical_delivery_in_trading.md)**: Cash settlement eliminates the need for the physical transfer of the underlying asset. This makes the settlement process faster and more straightforward.
 
 2. **Underlying Assets**: Cash settlement is often used for financial [derivatives](../d/derivatives.md) based on assets that are difficult or impractical to deliver, such as stock indices, currency pairs, and certain commodity indices.
 
 3. **Settlement Process**: The settlement involves calculating the difference between the final settlement price and the contract price, and then crediting or debiting the equivalent cash amount to the respective parties’ accounts.
 
-4. **Reduced Costs and Risks**: Since there is no physical delivery, the costs and logistical risks associated with transportation, storage, and insurance are eliminated. 
+4. **Reduced Costs and Risks**: Since there is no [physical delivery](../p/physical_delivery_in_trading.md), the costs and logistical risks associated with transportation, storage, and insurance are eliminated. 
 
 ### Examples of Cash Settlement
 
@@ -82,7 +82,7 @@ For [algorithmic trading](../a/algorithmic_trading.md) strategies involving phys
 
 Algorithms focusing on cash-settled [derivatives](../d/derivatives.md) may benefit from:
 
-- **Simplified Execution**: Easier to automate and execute without dealing with physical delivery logistics.
+- **Simplified Execution**: Easier to automate and execute without dealing with [physical delivery](../p/physical_delivery_in_trading.md) logistics.
 - **Focus on Price Movements**: Strategies can focus purely on price movements and difference rather than the physical asset.
 - **Liquidity Concerns**: Ensuring that there is sufficient liquidity in the market for cash-settled instruments to support efficient trading.
 

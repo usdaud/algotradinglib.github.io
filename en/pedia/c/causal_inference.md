@@ -69,7 +69,7 @@ Financial markets produce vast amounts of data, but they often lack the experime
 
 ### Model Complexity
 
-Building and validating causal models can be complex and computationally intensive. The high dimensionality of financial data introduces further complications such as multicollinearity and overfitting.
+Building and validating causal models can be complex and computationally intensive. The high dimensionality of financial data introduces further complications such as [multicollinearity](../m/multicollinearity_in_trading.md) and overfitting.
 
 ### External Validity
 

@@ -2,7 +2,7 @@
 
 ### Introduction to Unexecuted Orders
 
-In the financial markets, an order refers to an instruction issued by an investor to a broker or trading platform to buy or sell an asset such as stocks, cryptocurrencies, or forex. In the realm of [algorithmic trading](../a/algorithmic_trading.md) (algo trading), orders can be complex and automated, driven by pre-programmed [trading strategies](../t/trading_strategies.md) using advanced mathematical models. One important aspect of trading, particularly in algo trading, is the challenge of unexecuted orders, which are the orders that, for various reasons, fail to execute.
+In the financial markets, an order refers to an instruction issued by an investor to a broker or trading platform to buy or sell an asset such as stocks, cryptocurrencies, or forex. In the realm of [algorithmic trading](../a/algorithmic_trading.md) (algo trading), orders can be complex and automated, driven by pre-programmed [trading strategies](../t/trading_strategies.md) using advanced [mathematical models](../m/mathematical_models_in_trading.md). One important aspect of trading, particularly in algo trading, is the challenge of unexecuted orders, which are the orders that, for various reasons, fail to execute.
 
 Unexecuted orders can pose significant implications and challenges for traders, and managing these orders efficiently is crucial for the optimization of [trading strategies](../t/trading_strategies.md) and profitable outcomes.
 

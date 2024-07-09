@@ -51,7 +51,7 @@ Therefore, the [yield to maturity](../y/yield_to_maturity.md) on this [zero-coup
 ### Practical Applications
 
 #### Treasury STRIPS
-Treasury STRIPS (Separate Trading of Registered Interest and Principal Securities) are a type of [zero-coupon bond](../z/zero-coupon_bond.md) issued by the U.S. Treasury. Investors can purchase individual interest or principal components of Treasury securities as separate securities.
+Treasury STRIPS (Separate Trading of Registered Interest and Principal Securities) are a type of [zero-coupon bond](../z/zero-coupon_bond.md) issued by the U.S. Treasury. Investors can purchase individual interest or [principal components](../p/principal_components_in_trading.md) of Treasury securities as separate securities.
 
 #### Corporate and Municipal Zero-Coupon Bonds
 

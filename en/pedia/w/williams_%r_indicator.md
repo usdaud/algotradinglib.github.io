@@ -52,7 +52,7 @@ In this case, a %R value of -20 indicates that the stock is in the overbought zo
 - **Effectiveness**: It has a proven track record in identifying overbought and oversold conditions.
 
 ### Limitations
-- **False Signals**: Like any technical indicator, it is prone to false signals, particularly in volatile markets.
+- **[False Signals](../f/false_signals_in_trading.md)**: Like any technical indicator, it is prone to [false signals](../f/false_signals_in_trading.md), particularly in volatile markets.
 - **Lag**: It may lag price action, leading to delayed signals.
 - **Should be used with other indicators**: Relying solely on the [Williams %R](../w/williams_%r.md) can be risky; combining it with other indicators is recommended.
 

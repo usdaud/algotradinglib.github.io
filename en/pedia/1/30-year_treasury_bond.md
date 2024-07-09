@@ -52,7 +52,7 @@ The 30-Year Treasury Bond has a rich history, reflecting the macroeconomic condi
 
 The significance of the 30-Year Treasury Bond continues to evolve:
 - **[Quantitative Easing](../q/quantitative_easing.md) (QE)**: In recent times, actions by the Federal Reserve, such as QE, have had direct impacts on yields, driving them lower as the Fed purchases large amounts of long-term Treasuries.
-- **Technological Innovations**: The rise of high-frequency trading (HFT) and other technological advancements in algo trading have changed the way these bonds are traded, incorporating machine learning models and big data analytics to improve trade execution and strategy efficiency.
+- **Technological Innovations**: The rise of high-frequency trading (HFT) and other technological advancements in algo trading have changed the way these bonds are traded, incorporating machine learning models and [big data analytics](../b/big_data_analytics_in_trading.md) to improve trade execution and strategy efficiency.
 
 ### Relevance for Institutional and Retail Investors
 

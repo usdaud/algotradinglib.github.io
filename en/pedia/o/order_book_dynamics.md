@@ -71,7 +71,7 @@ The process of price discovery involves determining the market price of an asset
 
 ## Statistical Analysis of Order Books
 
-Traders often use statistical tools to analyze order book data for patterns and trends to develop predictive models. Common metrics include:
+Traders often use statistical tools to analyze order book data for patterns and trends to develop [predictive models](../p/predictive_models_in_trading.md). Common metrics include:
 
 - **Order Book Volume**: Total volume represented in the book at any given time.
 - **Order Flow**: The rate at which orders are submitted, modified, or canceled.
@@ -83,7 +83,7 @@ Machine learning techniques are increasingly used to analyze order book data:
 
 - **Supervised Learning**: Models are trained on historical order book data to predict future price movements. For example, regression models can predict mid-price changes.
 - **Unsupervised Learning**: Clustering techniques can identify common order book shapes or configurations that precede certain price movements.
-- **Deep Learning**: Neural networks, particularly RNNs and LSTMs, can capture the temporal dependencies in the sequences of order book changes.
+- **Deep Learning**: [Neural networks](../n/neural_networks_in_trading.md), particularly RNNs and LSTMs, can capture the [temporal dependencies](../t/temporal_dependencies_in_trading.md) in the sequences of order book changes.
 
 ## Challenges and Considerations
 

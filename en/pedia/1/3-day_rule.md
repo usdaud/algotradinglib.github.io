@@ -28,7 +28,7 @@ The 3-Day Rule offers several benefits to traders:
 - **Reduced Emotional Trading**: By imposing a waiting period, traders are less likely to make knee-jerk reactions based on initial market hysteria.
 - **Improved Decision-Making**: Traders can make more rational and data-driven decisions with additional time to analyze the situation.
 - **Identification of Trends**: The waiting period allows for the identification of emerging trends and patterns, which can indicate stronger or weaker long-term prospects.
-- **Avoidance of False Signals**: Immediate price reactions can often be misleading. By waiting, traders can avoid acting on false signals that might reverse shortly after the event.
+- **Avoidance of [False Signals](../f/false_signals_in_trading.md)**: Immediate price reactions can often be misleading. By waiting, traders can avoid acting on [false signals](../f/false_signals_in_trading.md) that might reverse shortly after the event.
 
 ## Disadvantages of the 3-Day Rule
 
@@ -82,7 +82,7 @@ By waiting for three days, a prudent trader could potentially identify a stabili
 
 Imagine a regulatory change impacting the pharmaceutical industry is announced. The market reacts negatively, causing widespread declines in relevant stock prices. A trader following the 3-Day Rule would:
 
-- **Day 1**: Observe sharp declines across the sector due to uncertainty.
+- **Day 1**: Observe sharp declines across the sector due to [uncertainty](../u/uncertainty_in_trading.md).
 - **Day 2**: Market participants and analysts start to analyze the impact of the regulation.
 - **Day 3**: The price movement begins to stabilize as more information becomes available and initial fears are mitigated.
 

@@ -30,7 +30,7 @@ MACD is a trend-following momentum indicator that shows the relationship between
 
 ### 3. Algorithms and Machine Learning
 
-Modern algotrading models employ machine learning techniques, including supervised and unsupervised learning algorithms, to study historical data and predict future price movements. These models can recognize patterns that are not evident to human traders.
+Modern algotrading models employ machine learning techniques, including supervised and unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md), to study historical data and predict future price movements. These models can recognize patterns that are not evident to human traders.
 
 #### Support Vector Machines (SVMs)
 
@@ -38,11 +38,11 @@ SVMs can be used for classification and regression in time series prediction. By
 
 #### Neural Networks
 
-Recurrent Neural Networks (RNNs), particularly Long Short-Term Memory Networks (LSTMs), can maintain a memory of previous states, making them suitable for [time series forecasting](../t/time_series_forecasting.md). They can help in identifying the sequences of events that often lead to [whipsaw patterns](../w/whipsaw_patterns.md).
+Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs), particularly Long Short-Term Memory Networks (LSTMs), can maintain a memory of previous states, making them suitable for [time series forecasting](../t/time_series_forecasting.md). They can help in identifying the sequences of events that often lead to [whipsaw patterns](../w/whipsaw_patterns.md).
 
 ### 4. Sentiment Analysis
 
-By analyzing news articles, social media posts, and other forms of communication, [sentiment analysis](../s/sentiment_analysis.md) can provide insights into market sentiment and therefore anticipate and identify whipsaw events. Natural Language Processing (NLP) is often used for this purpose.
+By analyzing news articles, social media posts, and other forms of communication, [sentiment analysis](../s/sentiment_analysis.md) can provide insights into market sentiment and therefore anticipate and identify whipsaw events. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) is often used for this purpose.
 
 ### 5. Statistical Methods
 

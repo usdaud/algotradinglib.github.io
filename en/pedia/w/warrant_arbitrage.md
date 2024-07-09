@@ -1,15 +1,15 @@
 # Warrant Arbitrage
 
-Warrant [arbitrage](../a/arbitrage.md) is a trading strategy involving the purchase and sale of warrants, which are derivative securities that give the holder the right to buy the underlying asset, typically equity, at a specific price before a particular date. This strategy exploits price discrepancies between the warrant and the underlying asset to generate profits. Warrant [arbitrage](../a/arbitrage.md) involves a thorough understanding of the mechanics of warrants, as well as sophisticated analytical skills to identify profitable opportunities.
+Warrant [arbitrage](../a/arbitrage.md) is a trading strategy involving the purchase and sale of [warrants](../w/warrants_in_trading.md), which are derivative securities that give the holder the right to buy the underlying asset, typically equity, at a specific price before a particular date. This strategy exploits price discrepancies between the warrant and the underlying asset to generate profits. Warrant [arbitrage](../a/arbitrage.md) involves a thorough understanding of the mechanics of [warrants](../w/warrants_in_trading.md), as well as sophisticated analytical skills to identify profitable opportunities.
 
 ## Understanding Warrants
 
-**Warrants** are financial instruments issued by a company that grants the holder the right, but not the obligation, to purchase the company’s stock at a specific price (known as the strike price) before the expiration date. There are two main types of warrants: call warrants and put warrants. 
+**[Warrants](../w/warrants_in_trading.md)** are financial instruments issued by a company that grants the holder the right, but not the obligation, to purchase the company’s stock at a specific price (known as the strike price) before the expiration date. There are two main types of [warrants](../w/warrants_in_trading.md): call [warrants](../w/warrants_in_trading.md) and put [warrants](../w/warrants_in_trading.md). 
 
-- **Call Warrants**: These grant the holder the right to purchase the underlying asset at the strike price.
-- **Put Warrants**: These provide the holder the right to sell the underlying asset at the strike price.
+- **Call [Warrants](../w/warrants_in_trading.md)**: These grant the holder the right to purchase the underlying asset at the strike price.
+- **Put [Warrants](../w/warrants_in_trading.md)**: These provide the holder the right to sell the underlying asset at the strike price.
 
-For more information on warrants, visit [Warrant Definition provided by Investopedia](https://www.investopedia.com/terms/w/warrant.asp).
+For more information on [warrants](../w/warrants_in_trading.md), visit [Warrant Definition provided by Investopedia](https://www.investopedia.com/terms/w/warrant.asp).
 
 ## Mechanics of Warrant Arbitrage
 
@@ -18,8 +18,8 @@ The core idea behind warrant [arbitrage](../a/arbitrage.md) is to take advantage
 ### Key Steps in Warrant Arbitrage
 
 1. **Identify Inefficiencies**: Traders must continuously monitor the market to spot when a warrant's price deviates from its fair value.
-2. **Hedge Positions**: Since warrants are [derivatives](../d/derivatives.md), holding a warrant often involves a complementary position in the underlying security to hedge risk.
-3. **Leverage the Time Value**: Warrants have a time value that erodes as they approach expiration. Arbitrageurs can profit from the predictable nature of time decay.
+2. **Hedge Positions**: Since [warrants](../w/warrants_in_trading.md) are [derivatives](../d/derivatives.md), holding a warrant often involves a complementary position in the underlying security to hedge risk.
+3. **Leverage the Time Value**: [Warrants](../w/warrants_in_trading.md) have a time value that erodes as they approach expiration. Arbitrageurs can profit from the predictable nature of time decay.
 4. **Execution**: Implementing [arbitrage](../a/arbitrage.md) strategies requires swift execution due to the fleeting nature of [arbitrage](../a/arbitrage.md) opportunities.
 
 An example of a company dealing with such instruments is [Interactive Brokers](https://www.interactivebrokers.com).
@@ -41,11 +41,11 @@ One common form of [arbitrage](../a/arbitrage.md) is the delta-neutral strategy,
 
 ### Risk Arbitrage
 
-Warrant [arbitrage](../a/arbitrage.md) might also involve risk [arbitrage](../a/arbitrage.md), typically seen in merger and acquisition contexts. Traders take positions where they believe they can predict the eventual price movements due to corporate events, exploiting the premium offered in warrants over the actual stock price.
+Warrant [arbitrage](../a/arbitrage.md) might also involve risk [arbitrage](../a/arbitrage.md), typically seen in merger and acquisition contexts. Traders take positions where they believe they can predict the eventual price movements due to corporate events, exploiting the premium offered in [warrants](../w/warrants_in_trading.md) over the actual stock price.
 
 ### Convertible Arbitrage
 
-Convertible [arbitrage](../a/arbitrage.md) involves simultaneously entering into a long position on convertible securities like warrants and a short position in the underlying common stock. This allows for exploiting price differentials between the stock and the convertible securities.
+Convertible [arbitrage](../a/arbitrage.md) involves simultaneously entering into a long position on convertible securities like [warrants](../w/warrants_in_trading.md) and a short position in the underlying common stock. This allows for exploiting price differentials between the stock and the convertible securities.
 
 For institutions that facilitate such trading, including [algorithmic trading](../a/algorithmic_trading.md) systems, [TradeStation](https://www.tradestation.com) is a significant player.
 
@@ -57,7 +57,7 @@ Warrant [arbitrage](../a/arbitrage.md) is not without risks, including market ri
 
 ### Liquidity Risk
 
-Since warrants are not as liquid as the underlying securities, there can be challenges in entering or exiting positions without affecting the market price, leading to potential slippage.
+Since [warrants](../w/warrants_in_trading.md) are not as liquid as the underlying securities, there can be challenges in entering or exiting positions without affecting the market price, leading to potential slippage.
 
 ### Operational Risk
 
@@ -95,6 +95,6 @@ For compliance solutions and consulting, refer to [KPMG’s Financial Services](
 
 ## Conclusion
 
-Warrant [arbitrage](../a/arbitrage.md) is a sophisticated strategy that leverages the price differences between warrants and their underlying securities. It requires a deep understanding of financial instruments, diligent [risk management](../r/risk_management.md), and the use of cutting-edge technology for effective execution. When performed effectively, warrant [arbitrage](../a/arbitrage.md) can provide consistent returns, making it a valuable addition to an arbitrader’s portfolio.
+Warrant [arbitrage](../a/arbitrage.md) is a sophisticated strategy that leverages the price differences between [warrants](../w/warrants_in_trading.md) and their underlying securities. It requires a deep understanding of financial instruments, diligent [risk management](../r/risk_management.md), and the use of cutting-edge technology for effective execution. When performed effectively, warrant [arbitrage](../a/arbitrage.md) can provide consistent returns, making it a valuable addition to an arbitrader’s portfolio.
 
 Successful warrant [arbitrage](../a/arbitrage.md) demands continuous market monitoring, expert knowledge of [derivatives](../d/derivatives.md), effective hedging practices, and a robust infrastructure capable of supporting complex, high-speed trading operations. With proper execution and management, arbitrageurs can effectively exploit market inefficiencies to realize significant profits.

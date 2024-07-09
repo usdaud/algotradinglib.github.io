@@ -66,9 +66,9 @@ Retail traders can use online brokerage platforms to implement short [put spread
 
 ## Tools and Platforms
 
-- **[Market Scanners](../m/market_scanners.md)**: Software tools that scan the market for options with favorable conditions for short put spreads. Examples include [OptionsPlay](https://www.optionsplay.com/) and [Finviz](https://finviz.com/).
+- **[Market Scanners](../m/market_scanners.md)**: [Software tools](../s/software_tools_for_trading.md) that scan the market for options with favorable conditions for short put spreads. Examples include [OptionsPlay](https://www.optionsplay.com/) and [Finviz](https://finviz.com/).
 
-- **Trading Platforms**: Comprehensive platforms like [Thinkorswim](../t/thinkorswim.md) and Interactive Brokers' Trader Workstation (TWS) offer robust functionality for executing and managing short put spreads.
+- **Trading Platforms**: Comprehensive platforms like [Thinkorswim](../t/thinkorswim.md) and [Interactive Brokers](../i/interactive_brokers.md)' Trader Workstation (TWS) offer robust functionality for executing and managing short put spreads.
 
 - **[Risk Management](../r/risk_management.md) Tools**: Tools like portfolio margin calculators and risk analytics tools can help manage the risks associated with short put spreads.
 

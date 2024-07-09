@@ -5,7 +5,7 @@ Social [Sentiment Analysis](../s/sentiment_analysis.md) refers to the process of
 ## Key Concepts
 
 ### Sentiment Analysis
-[Sentiment analysis](../s/sentiment_analysis.md), also known as opinion mining, is a field of Natural Language Processing (NLP) that involves extracting subjective information from text data. The analysis can be categorized into three main types:
+[Sentiment analysis](../s/sentiment_analysis.md), also known as opinion mining, is a field of [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) that involves extracting subjective information from text data. The analysis can be categorized into three main types:
 1. **Polarity Detection**: Measures whether the sentiment expressed in a piece of text is positive, negative, or neutral.
 2. **Emotion Classification**: Identifies specific emotions such as happiness, sadness, anger, and fear.
 3. **Aspect-Based [Sentiment Analysis](../s/sentiment_analysis.md)**: Focuses on identifying sentiment related to specific aspects or attributes of an entity.
@@ -33,11 +33,11 @@ Processing large volumes of text data requires various NLP techniques including:
 ### Sentiment Scoring
 Sentiment scoring aims to quantify the sentiment expressed. Two popular methods are:
 1. **Lexicon-Based Methods**: Utilize predefined dictionaries where words are associated with sentiment scores. Examples include VADER (Valence Aware Dictionary for sEntiment Reasoning) and SentiWordNet.
-2. **Machine Learning Models**: Employ supervised learning techniques to train models on labeled sentiment data. Examples are logistic regression, support vector machines, and deep learning models like LSTM (Long Short-Term Memory) networks.
+2. **Machine Learning Models**: Employ supervised learning techniques to train models on labeled sentiment data. Examples are [logistic regression](../l/logistic_regression_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and deep learning models like LSTM (Long Short-Term Memory) networks.
 
 ### Integration in Algorithmic Trading
 [Sentiment analysis](../s/sentiment_analysis.md) can be integrated into [trading algorithms](../t/trading_algorithms.md) in several ways:
-1. **Feature Engineering**: Sentiment scores can be added as features in predictive models.
+1. **Feature Engineering**: Sentiment scores can be added as features in [predictive models](../p/predictive_models_in_trading.md).
 2. **Event Detection**: Identifying significant changes in sentiment as potential [trading signals](../t/trading_signals.md).
 3. **[Risk Management](../r/risk_management.md)**: Adjusting [trading strategies](../t/trading_strategies.md) based on sentiment trends to mitigate risk.
 

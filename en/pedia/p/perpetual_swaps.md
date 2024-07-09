@@ -51,7 +51,7 @@ Reliability and security of cryptocurrency exchanges are critical considerations
 [BitMEX](https://www.bitmex.com/) is one of the pioneers in offering perpetual swaps and remains a leading platform in this space. BitMEX provides high leverage, a variety of trading pairs, and a sophisticated trading engine tailored towards professional traders and [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Binance
-[Binance](https://www.binance.com/) is one of the largest cryptocurrency exchanges globally, offering perpetual swaps on a wide range of cryptocurrencies. Binance's robust API, extensive liquidity, and comprehensive suite of trading tools make it ideal for [algorithmic trading](../a/algorithmic_trading.md).
+[Binance](https://www.binance.com/) is one of the largest cryptocurrency exchanges globally, offering perpetual swaps on a wide range of cryptocurrencies. [Binance](../b/binance.md)'s robust API, extensive liquidity, and comprehensive suite of trading tools make it ideal for [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Bybit
 [Bybit](https://www.bybit.com/) is another popular platform offering perpetual swaps with competitive fees and advanced trading features. Bybit's emphasis on speed and reliability, along with its high leverage options, makes it a preferred choice for many algorithmic traders.

@@ -30,7 +30,7 @@ Order book visualization serves multiple purposes in [algorithmic trading](../a/
 
 ### Heatmaps
 
-Heatmaps are graphical representations where colors indicate the density of orders at different price levels. Darker shades often signify higher concentrations of orders.
+[Heatmaps](../h/heatmaps_in_trading.md) are graphical representations where colors indicate the density of orders at different price levels. Darker shades often signify higher concentrations of orders.
 
 #### Example
 
@@ -62,7 +62,7 @@ Time and Sales data presents a real-time chronological record of individual trad
 
 ## Tools and Platforms for Order Book Visualization
 
-Several software tools and platforms cater to the need for advanced order book visualization in [algorithmic trading](../a/algorithmic_trading.md):
+Several [software tools](../s/software_tools_for_trading.md) and platforms cater to the need for advanced order book visualization in [algorithmic trading](../a/algorithmic_trading.md):
 
 ### Bookmap
 
@@ -78,7 +78,7 @@ Bookmap provides detailed heatmap visualizations of order book data and supports
 
 ### Sierra Chart
 
-Sierra Chart supports advanced market profile and order book visualizations, making it a favorite among professional traders.
+[Sierra Chart](../s/sierra_chart.md) supports advanced market profile and order book visualizations, making it a favorite among professional traders.
 
 [Sierra Chart](https://www.sierrachart.com)
 

@@ -38,14 +38,14 @@ Polynomial X-Regression models introduce non-linear relationships by including p
     Y = β0 + β1X + β2X^2 + ... + βnX^n + ε
 
 ### 3. Ridge X-Regression
-Ridge X-Regression addresses multicollinearity (when independent variables are highly correlated) by adding a penalty to the size of the coefficients. The modified objective function becomes:
+Ridge X-Regression addresses [multicollinearity](../m/multicollinearity_in_trading.md) (when independent variables are highly correlated) by adding a penalty to the size of the coefficients. The modified objective function becomes:
 
     Minimize (∑(Y_i - (β0 + β1X1 + ... + βnXn))^2 + λ∑β_i^2)
 
 where λ is the regularization parameter controlling the penalty strength.
 
 ### 4. Lasso X-Regression
-Lasso X-Regression (Least Absolute Shrinkage and Selection Operator) also addresses multicollinearity but promotes sparsity by adding an L1 norm penalty:
+Lasso X-Regression (Least Absolute Shrinkage and Selection Operator) also addresses [multicollinearity](../m/multicollinearity_in_trading.md) but promotes sparsity by adding an L1 norm penalty:
 
     Minimize (∑(Y_i - (β0 + β1X1 + ... + βnXn))^2 + λ∑|β_i|)
 
@@ -66,7 +66,7 @@ Bayesian X-Regression incorporates prior distributions on the coefficients and u
 X-[Regression techniques](../r/regression_techniques.md) are extensively used in [predictive modeling](../p/predictive_modeling.md) to forecast asset prices, returns, volatility, and other financial metrics.
 
 ### 2. Risk Management
-By modeling the relationships between various risk factors and asset returns, X-Regression helps in identifying potential risks and optimizing portfolios.
+By modeling the relationships between various [risk factors](../r/risk_factors_in_trading.md) and asset returns, X-Regression helps in identifying potential risks and optimizing portfolios.
 
 ### 3. Factor Analysis
 X-Regression is used to identify and quantify the impact of different factors (e.g., market, sector, [economic indicators](../e/economic_indicators.md)) on asset prices.
@@ -100,7 +100,7 @@ Numerix (https://www.numerix.com/) offers advanced analytics and financial techn
 [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) provides [algorithmic trading](../a/algorithmic_trading.md) platforms with built-in support for various regression models and tools for strategy development and [backtesting](../b/backtesting.md).
 
 ### 3. Ayasdi
-Ayasdi (https://www.ayasdi.com/) specializes in machine learning and artificial intelligence for financial services, with robust [regression analysis](../r/regression_analysis.md) capabilities.
+Ayasdi (https://www.ayasdi.com/) specializes in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) for financial services, with robust [regression analysis](../r/regression_analysis.md) capabilities.
 
 ### 4. RStudio
 RStudio (https://rstudio.com/) offers integrated development environments and tools for R, a statistical programming language widely used for [regression analysis](../r/regression_analysis.md) in finance.

@@ -68,17 +68,17 @@ For instance, Modern Portfolio Theory (MPT) relies heavily on the joint distribu
 
 Value-at-Risk (VaR) is a widely-used [risk management](../r/risk_management.md) tool that estimates the potential loss in the value of a portfolio under normal market conditions over a set time period and at a given confidence level. Joint probability models are employed to simulate the distribution of returns for multiple assets, which in turn aids in the calculation of VaR.
 
-Similarly, stress testing—evaluating how a portfolio performs under extreme market conditions—also benefits from joint probability models, as they allow for the simulation of rare events that could impact multiple variables simultaneously.
+Similarly, [stress testing](../s/stress_testing_in_trading.md)—evaluating how a portfolio performs under extreme market conditions—also benefits from joint probability models, as they allow for the [simulation](../s/simulation_in_trading.md) of rare events that could impact multiple variables simultaneously.
 
 ### Pair Trading and Statistical Arbitrage
 
-Pair trading and statistical [arbitrage](../a/arbitrage.md) are strategies that exploit the statistical relationship between two or more securities. Joint probability models can be used to identify correlated pairs and build predictive models that signal when to enter or exit trades.
+Pair trading and statistical [arbitrage](../a/arbitrage.md) are strategies that exploit the statistical relationship between two or more securities. Joint probability models can be used to identify correlated pairs and build [predictive models](../p/predictive_models_in_trading.md) that signal when to enter or exit trades.
 
 For instance, if stock A and stock B are identified as having a strong positive correlation, a joint probability model can help in developing a trading strategy that takes long positions in stock A and short positions in stock B when their prices diverge, anticipating a reversion to their mean relationship.
 
 ### Machine Learning and Predictive Models
 
-Machine learning algorithms often leverage joint probability models to make predictions. Techniques like [Bayesian Networks](../b/bayesian_networks.md), Markov Chains, and [Hidden Markov Models](../h/hidden_markov_models.md) (HMMs) incorporate joint probabilities to enhance predictive accuracy.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) often leverage joint probability models to make predictions. Techniques like [Bayesian Networks](../b/bayesian_networks.md), [Markov Chains](../m/markov_chains_in_trading.md), and [Hidden Markov Models](../h/hidden_markov_models.md) (HMMs) incorporate joint probabilities to enhance predictive accuracy.
 
 For example, a Bayesian Network might use joint probabilities to compute the posterior distribution of future asset prices given historical data and other relevant variables. In [algorithmic trading](../a/algorithmic_trading.md), such probabilistic models are crucial for developing robust [predictive analytics](../p/predictive_analytics.md) that can adapt to changing market conditions.
 
@@ -92,7 +92,7 @@ Renaissance Technologies, one of the most successful hedge funds in the world, i
 
 ### Two Sigma
 
-Two Sigma Investments is another leading firm that leverages joint probability models to drive their [algorithmic trading](../a/algorithmic_trading.md) strategies. By employing advanced statistical techniques, machine learning, and artificial intelligence, Two Sigma develops models that analyze the joint behavior of various financial instruments to identify profitable opportunities.
+Two Sigma Investments is another leading firm that leverages joint probability models to drive their [algorithmic trading](../a/algorithmic_trading.md) strategies. By employing advanced statistical techniques, machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md), Two Sigma develops models that analyze the joint behavior of various financial instruments to identify profitable opportunities.
 
 [Link to Two Sigma](https://www.twosigma.com/)
 

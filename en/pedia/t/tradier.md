@@ -12,7 +12,7 @@ Tradier is a leading financial services provider offering a comprehensive tradin
 6. **API Access**: Robust APIs for automated trading, custom integrations, and developing third-party trading applications.
 7. **Developer-Friendly**: Extensive documentation, SDKs, and support for developers building on the Tradier platform.
 8. **Mobile Trading**: Mobile apps for iOS and Android devices, allowing trading on the go.
-9. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced order types, [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
+9. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced [order types](../o/order_types_in_trading.md), [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
 10. **Secure and Regulated**: Tradier is regulated by top-tier financial authorities, ensuring a secure [trading environment](../t/trading_environment.md).
 
 ## Key Components

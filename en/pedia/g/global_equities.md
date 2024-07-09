@@ -59,15 +59,15 @@ Several indices track the performance of global equities, offering benchmarks fo
 ## Firms Specializing in Global Equities Algo Trading
 
 1. **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) firm focusing heavily on quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies (https://www.janestreet.com).
-2. **Two Sigma**: A hedge fund leveraging data science and technology for trading, with significant involvement in global equities (https://www.twosigma.com).
+2. **Two Sigma**: A hedge fund leveraging [data science](../d/data_science_in_trading.md) and technology for trading, with significant involvement in global equities (https://www.twosigma.com).
 3. **Virtu Financial**: A market maker and liquidity provider adopting algo strategies across multiple asset classes, including global equities (https://www.virtu.com).
 4. **DE Shaw**: Utilizes complex computational strategies and models for trading equities and other asset classes (https://www.deshaw.com).
 
 ## Future Trends in Global Equities and Algorithmic Trading
 
-1. **Artificial Intelligence**: Increased application of AI and machine learning for [predictive analytics](../p/predictive_analytics.md), trade execution, and [risk management](../r/risk_management.md).
-2. **Big Data**: Leveraging vast datasets for more sophisticated insights and enhanced decision-making.
-3. **Quantum Computing**: Potential to revolutionize algo trading with faster computations and complex problem-solving capabilities.
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: Increased application of AI and machine learning for [predictive analytics](../p/predictive_analytics.md), trade execution, and [risk management](../r/risk_management.md).
+2. **[Big Data](../b/big_data_in_trading.md)**: Leveraging vast datasets for more sophisticated insights and enhanced decision-making.
+3. **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potential to revolutionize algo trading with faster computations and complex problem-solving capabilities.
 4. **RegTech**: Development of technologies to ensure compliance with evolving regulations smoothly and efficiently.
 
 ## Conclusion

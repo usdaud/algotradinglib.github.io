@@ -29,7 +29,7 @@ In an autoregressive model, the future value of a variable is assumed to be a li
 Where:
 - \( Y_t \) is the variable at time \( t \)
 - \( \phi_1, \phi_2, \ldots, \phi_p \) are parameters
-- \( \epsilon_t \) is white noise
+- \( \epsilon_t \) is [white noise](../w/white_noise_in_trading.md)
 
 ### Moving Average Models (MA)
 
@@ -39,7 +39,7 @@ The moving average model uses past forecast errors in a regression-like model. A
 Where:
 - \( Y_t \) is the variable at time \( t \)
 - \( \mu \) is the mean of the series
-- \( \epsilon_t, \epsilon_{t-1}, \ldots, \epsilon_{t-q} \) are white noise
+- \( \epsilon_t, \epsilon_{t-1}, \ldots, \epsilon_{t-q} \) are [white noise](../w/white_noise_in_trading.md)
 - \( \theta_1, \theta_2, \ldots, \theta_q \) are parameters
 
 ### Autoregressive Integrated Moving Average (ARIMA)
@@ -78,7 +78,7 @@ A simple GARCH(1,1) model can be written as:
 Where:
 - \( Y_t \) is the return at time \( t \)
 - \( \sigma_t \) is the conditional standard deviation
-- \( \epsilon_t \) is white noise
+- \( \epsilon_t \) is [white noise](../w/white_noise_in_trading.md)
 - \( \alpha_0, \alpha_1 \) are parameters
 - \( \beta \) is the lag coefficient for the variance
 
@@ -88,22 +88,22 @@ Where:
 
 ### Linear Models
 
-Linear models, such as [linear regression](../l/linear_regression.md), are straightforward and interpretable. They assume a linear relationship between the input variables (lags) and the output variable (future value).
+[Linear models](../l/linear_models_in_trading.md), such as [linear regression](../l/linear_regression.md), are straightforward and interpretable. They assume a linear relationship between the input variables (lags) and the output variable (future value).
 
 ### Machine Learning Models
 
-More sophisticated methods involve machine learning algorithms that can model non-linear relationships and interactions in the data. Some popular machine learning algorithms for [time series forecasting](../t/time_series_forecasting.md) include:
+More sophisticated methods involve machine [learning algorithms](../l/learning_algorithms_in_trading.md) that can model non-linear relationships and interactions in the data. Some popular machine [learning algorithms](../l/learning_algorithms_in_trading.md) for [time series forecasting](../t/time_series_forecasting.md) include:
 
-- **Random Forests**: Ensemble method that builds multiple [decision trees](../d/decision_trees.md) and merges them to get a more accurate and stable prediction.
+- **[Random Forests](../r/random_forests_in_trading.md)**: Ensemble method that builds multiple [decision trees](../d/decision_trees.md) and merges them to get a more accurate and stable prediction.
 - **Gradient Boosting Machines (GBM)**: Builds trees sequentially, each one trying to correct errors from the previous one.
-- **Support Vector Machines (SVM)**: Works by finding the hyperplane that best divides a dataset into classes.
-- **Neural Networks (NN)**: Deep learning models can capture complex patterns in the data. Recurrent Neural Networks (RNNs) and Long Short-Term Memory networks (LSTMs) are tailored for sequential data.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Works by finding the hyperplane that best divides a dataset into classes.
+- **[Neural Networks](../n/neural_networks_in_trading.md) (NN)**: Deep learning models can capture complex patterns in the data. Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) and Long Short-Term Memory networks (LSTMs) are tailored for sequential data.
 
 ### Deep Learning Models
 
 Deep learning has gained traction in [time series forecasting](../t/time_series_forecasting.md) due to its ability to model complex patterns and structures. Two popular architectures include:
 
-- **Recurrent Neural Networks (RNNs)**: Designed for sequential data, they have loops that enable the persistence of information across sequence steps.
+- **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs)**: Designed for sequential data, they have loops that enable the persistence of information across sequence steps.
 - **Long Short-Term Memory (LSTM)**: A type of RNN that can capture long-term dependencies and address the vanishing gradient problem.
 
 ## Practical Applications in Algorithmic Trading
@@ -132,7 +132,7 @@ One of the significant challenges in [time series forecasting](../t/time_series_
 
 ### Non-Stationarity
 
-[Financial time series](../f/financial_time_series.md) data are often non-stationary, exhibiting trends, cycles, and structural breaks. Differencing, transformations, and advanced models like SARIMA and LSTM can handle non-stationarity to some extent.
+[Financial time series](../f/financial_time_series.md) data are often non-stationary, exhibiting trends, cycles, and [structural breaks](../s/structural_breaks_in_trading.md). Differencing, transformations, and advanced models like SARIMA and LSTM can handle non-stationarity to some extent.
 
 ### Data Quality
 

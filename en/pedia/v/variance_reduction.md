@@ -1,6 +1,6 @@
 # Variance Reduction
 
-Variance reduction is a crucial concept in [algorithmic trading](../a/algorithmic_trading.md), where the primary goal is to maximize returns while minimizing risk. It involves techniques and strategies to reduce the variability or volatility of an investment portfolio's returns. This practice becomes particularly important in [trading strategies](../t/trading_strategies.md) that rely on statistical and mathematical models, as high variance can lead to significant deviations from expected outcomes.
+Variance reduction is a crucial concept in [algorithmic trading](../a/algorithmic_trading.md), where the primary goal is to maximize returns while minimizing risk. It involves techniques and strategies to reduce the variability or volatility of an investment portfolio's returns. This practice becomes particularly important in [trading strategies](../t/trading_strategies.md) that rely on statistical and [mathematical models](../m/mathematical_models_in_trading.md), as high variance can lead to significant deviations from expected outcomes.
 
 ## Understanding Variance in Trading
 
@@ -48,7 +48,7 @@ Advanced statistical methods like Monte Carlo simulations, bootstrap methods, an
 
 #### Example: Monte Carlo Simulation
 
-Monte Carlo simulations use random sampling to understand the impact of risk and uncertainty in financial models. This helps in predicting a range of possible outcomes and their associated variances.
+Monte Carlo simulations use random sampling to understand the impact of risk and [uncertainty](../u/uncertainty_in_trading.md) in financial models. This helps in predicting a range of possible outcomes and their associated variances.
 
 ## Practical Applications
 
@@ -56,7 +56,7 @@ Several companies have successfully implemented variance reduction techniques to
 
 ### Renaissance Technologies
 
-Renaissance Technologies, a pioneering hedge fund, employs sophisticated mathematical models and algorithms to achieve high returns with low volatility. 
+Renaissance Technologies, a pioneering hedge fund, employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to achieve high returns with low volatility. 
 
 [Website](https://www.rentec.com/)
 
@@ -68,7 +68,7 @@ Two Sigma uses machine learning and distributed computing to develop model-drive
 
 ### Citadel LLC
 
-Citadel uses a wide array of quantitative strategies, including variance reduction techniques, to manage risk and optimize performance. Their multi-strategy approach helps in diversifying and hedging portfolios effectively.
+Citadel uses a wide array of [quantitative strategies](../q/quantitative_strategies_in_trading.md), including variance reduction techniques, to manage risk and optimize performance. Their multi-strategy approach helps in diversifying and hedging portfolios effectively.
 
 [Website](https://www.citadel.com/)
 

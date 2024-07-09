@@ -20,7 +20,7 @@ Transparency is a cornerstone of fair and efficient markets. Governments mandate
 
 ### Testing and Validation
 
-Before deploying [trading algorithms](../t/trading_algorithms.md) in live markets, firms are required to conduct thorough testing and validation. This ensures that the algorithms perform as intended and do not pose undue risks to market stability. Regulatory bodies may mandate the use of simulation environments or "sandboxes" where algorithms can be tested under various market conditions. The Financial Conduct Authority (FCA) in the UK offers a regulatory sandbox that allows firms to test innovative financial technologies, including [trading algorithms](../t/trading_algorithms.md), in a controlled setting.
+Before deploying [trading algorithms](../t/trading_algorithms.md) in live markets, firms are required to conduct thorough testing and validation. This ensures that the algorithms perform as intended and do not pose undue risks to market stability. Regulatory bodies may mandate the use of [simulation](../s/simulation_in_trading.md) environments or "sandboxes" where algorithms can be tested under various market conditions. The Financial Conduct Authority (FCA) in the UK offers a regulatory sandbox that allows firms to test innovative financial technologies, including [trading algorithms](../t/trading_algorithms.md), in a controlled setting.
 
 ## Impact on Financial Markets
 

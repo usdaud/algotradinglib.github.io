@@ -35,10 +35,10 @@ Efficient [trading strategies](../t/trading_strategies.md) are fundamental for t
 
 ### 5. **Machine Learning and AI-based Strategies**
 
-Artificial Intelligence and Machine Learning are revolutionizing [trading strategies](../t/trading_strategies.md) by processing vast amounts of data and identifying patterns that humans may overlook. These models continuously learn and adapt, improving their predictive accuracy over time.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning are revolutionizing [trading strategies](../t/trading_strategies.md) by processing vast amounts of data and identifying patterns that humans may overlook. These models continuously learn and adapt, improving their predictive accuracy over time.
 
-- **Neural Networks:** These are used to predict price movements by learning from historical data and identifying complex patterns.
-- **Natural Language Processing (NLP):** NLP analyzes news articles, social media posts, and other text data to gauge market sentiment and predict price movements.
+- **[Neural Networks](../n/neural_networks_in_trading.md):** These are used to predict price movements by learning from historical data and identifying complex patterns.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP):** NLP analyzes news articles, social media posts, and other text data to gauge market sentiment and predict price movements.
 
 ## Risk Management
 
@@ -83,11 +83,11 @@ Several tools and platforms facilitate the implementation of efficient [trading 
 
 ### 1. **Renaissance Technologies**
 
-Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion Fund, which has consistently outperformed the market using quantitative strategies. The firm employs mathematicians, physicists, and computer scientists to develop sophisticated [trading algorithms](../t/trading_algorithms.md). [Renaissance Technologies](https://www.rentec.com)
+Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion Fund, which has consistently outperformed the market using [quantitative strategies](../q/quantitative_strategies_in_trading.md). The firm employs mathematicians, physicists, and computer scientists to develop sophisticated [trading algorithms](../t/trading_algorithms.md). [Renaissance Technologies](https://www.rentec.com)
 
 ### 2. **Two Sigma**
 
-Founded in 2001, Two Sigma uses machine learning, distributed computing, and big data to elucidate trading insights. The firm has successfully applied these technologies to manage billions in assets. [Two Sigma](https://www.twosigma.com)
+Founded in 2001, Two Sigma uses machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to elucidate trading insights. The firm has successfully applied these technologies to manage billions in assets. [Two Sigma](https://www.twosigma.com)
 
 ### 3. **D. E. Shaw Group**
 

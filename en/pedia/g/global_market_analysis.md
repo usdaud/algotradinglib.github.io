@@ -104,11 +104,11 @@ High-frequency traders rely on market data providers like CME Group, NYSE, and N
 
 ### Analytical Software
 
-Software tools like MATLAB, Python, and R are widely used for statistical analysis and model development. These tools enable traders to perform complex data analysis, develop predictive models, and execute trades more efficiently.
+[Software tools](../s/software_tools_for_trading.md) like MATLAB, Python, and R are widely used for statistical analysis and model development. These tools enable traders to perform complex data analysis, develop [predictive models](../p/predictive_models_in_trading.md), and execute trades more efficiently.
 
 ### AI and Machine Learning
 
-Artificial intelligence (AI) and machine learning are becoming increasingly important in algo trading. These technologies can analyze vast amounts of data, identify patterns, and make predictions with high accuracy.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are becoming increasingly important in algo trading. These technologies can analyze vast amounts of data, identify patterns, and make predictions with high accuracy.
 
 Firms like [Kensho](https://www.kensho.com/) and [Numerai](https://numer.ai/) specialize in AI-driven market analysis and offer platforms that leverage machine learning for [trading strategies](../t/trading_strategies.md).
 
@@ -130,7 +130,7 @@ Diversifying across multiple asset classes, sectors, and geographic regions can 
 
 ### Stress Testing
 
-Stress testing involves simulating various adverse market conditions to evaluate the resilience of [trading strategies](../t/trading_strategies.md). This process helps identify potential vulnerabilities and improve [risk management](../r/risk_management.md).
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating various adverse market conditions to evaluate the resilience of [trading strategies](../t/trading_strategies.md). This process helps identify potential vulnerabilities and improve [risk management](../r/risk_management.md).
 
 ## Conclusion
 

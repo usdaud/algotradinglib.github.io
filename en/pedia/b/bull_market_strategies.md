@@ -4,7 +4,7 @@ In financial markets, a "bull market" refers to a period in which the prices of 
 
 ## Momentum Strategies
 
-Momentum strategies involve investing in stocks that have shown an upward trend, with the expectation that they will continue to rise. This strategy is based on the idea that securities that have performed well in the past will continue to do so, capitalizing on herd behavior and market psychology.
+Momentum strategies involve investing in stocks that have shown an upward trend, with the expectation that they will continue to rise. This strategy is based on the idea that securities that have performed well in the past will continue to do so, capitalizing on [herd behavior](../h/herd_behavior_in_trading.md) and market psychology.
 
 1. **Buying on Breakouts**: Investors often buy stocks when they break through previous resistance levels, assuming this signals future upside. Tools like moving averages and [volume indicators](../v/volume_indicators.md) are used to confirm breakouts.
 2. **[Trend Following](../t/trend_following.md)**: Using [technical indicators](../t/technical_indicators.md) such as moving averages (e.g., 50-day and 200-day moving averages) to determine the general direction of the market and align trades accordingly.
@@ -62,7 +62,7 @@ Despite the general upward trend in a bull market, [risk management](../r/risk_m
 
 Investors must be aware of psychological factors that can influence decision-making, particularly in the euphoria of a bull market.
 
-1. **Avoiding Herd Behavior**: Making independent, well-researched decisions rather than following the crowd.
+1. **Avoiding [Herd Behavior](../h/herd_behavior_in_trading.md)**: Making independent, well-researched decisions rather than following the crowd.
 2. **Recognizing Overconfidence**: Staying vigilant to the risks of overtrading or assuming higher risks due to recent successes.
 
 ## Conclusion

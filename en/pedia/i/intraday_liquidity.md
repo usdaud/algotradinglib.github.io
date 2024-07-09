@@ -1,6 +1,6 @@
 # Intraday Liquidity
 
-Intraday liquidity is the availability of funds to meet financial obligations within the same business day. It is a critical aspect of the financial system, particularly for the smooth functioning of payment and settlement systems, as well as for the operational efficiency of banks and other financial institutions. Effective management of intraday liquidity ensures that institutions can make payments in real time, meet regulatory requirements, and manage risks associated with large-value transactions.
+Intraday liquidity is the availability of funds to meet financial obligations within the same business day. It is a critical aspect of the financial system, particularly for the smooth functioning of payment and settlement systems, as well as for the [operational efficiency](../o/operational_efficiency_in_trading.md) of banks and other financial institutions. Effective management of intraday liquidity ensures that institutions can make payments in real time, meet regulatory requirements, and manage risks associated with large-value transactions.
 
 ### Understanding Intraday Liquidity
 
@@ -30,7 +30,7 @@ Managing intraday liquidity effectively is vital for several reasons:
 1. **Payment System Stability:**
    Smooth operation of payment systems is critical for financial stability. Intraday liquidity allows for timely settlement of transactions, reducing the risk of payment gridlocks and systemic disruptions.
 
-2. **Operational Efficiency:**
+2. **[Operational Efficiency](../o/operational_efficiency_in_trading.md):**
    Efficient management of intraday liquidity optimizes the use of available funds, reducing the need for costly borrowing and minimizing the opportunity cost of holding excess liquidity.
 
 3. **[Risk Management](../r/risk_management.md):**
@@ -76,7 +76,7 @@ Despite its importance, managing intraday liquidity presents several challenges:
 
 ### Conclusion
 
-Intraday liquidity is a critical component of the financial system, enabling the smooth functioning of payment and settlement processes. Effective management of intraday liquidity ensures payment system stability, operational efficiency, [risk management](../r/risk_management.md), and regulatory compliance. Financial institutions must adopt robust strategies and technologies to navigate the complexities and challenges associated with intraday liquidity management. With the right tools and practices, institutions can optimize their liquidity positions, enhance financial stability, and support the overall health of the financial markets.
+Intraday liquidity is a critical component of the financial system, enabling the smooth functioning of payment and settlement processes. Effective management of intraday liquidity ensures payment system stability, [operational efficiency](../o/operational_efficiency_in_trading.md), [risk management](../r/risk_management.md), and regulatory compliance. Financial institutions must adopt robust strategies and technologies to navigate the complexities and challenges associated with intraday liquidity management. With the right tools and practices, institutions can optimize their liquidity positions, enhance financial stability, and support the overall health of the financial markets.
 
 For more information on intraday liquidity management, you can visit the websites of the following organizations:
 

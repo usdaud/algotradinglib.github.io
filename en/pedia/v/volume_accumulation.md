@@ -50,7 +50,7 @@ High-frequency trading (HFT) firms like Citadel Securities and Virtu Financial u
 
 ### Brokerage Platforms
 
-Brokerage platforms such as Interactive Brokers and [Charles Schwab](../c/charles_schwab.md) integrate Volume Accumulation tools in their trading platforms, allowing retail and institutional investors to leverage this data in their [trading strategies](../t/trading_strategies.md).
+Brokerage platforms such as [Interactive Brokers](../i/interactive_brokers.md) and [Charles Schwab](../c/charles_schwab.md) integrate Volume Accumulation tools in their trading platforms, allowing retail and institutional investors to leverage this data in their [trading strategies](../t/trading_strategies.md).
 
 * [Interactive Brokers](https://www.interactivebrokers.com/)
 * [Charles Schwab](https://www.schwab.com/)

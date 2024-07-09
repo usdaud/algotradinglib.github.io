@@ -53,13 +53,13 @@ Upside [risk metrics](../r/risk_metrics.md) play a crucial role in differentiati
     - Applying upside [risk metrics](../r/risk_metrics.md) during the [backtesting](../b/backtesting.md) phase helps in identifying strategies that perform well under positive market conditions. By simulating historical data, traders can evaluate how their algorithms might exploit upward trends and adjust their models to enhance performance further.
 
 2. **Strategy Optimization**
-    - Upside [risk metrics](../r/risk_metrics.md) can be used as objective functions in optimization algorithms. For instance, genetic algorithms or other optimization techniques can optimize parameters to maximize the [Upside Capture Ratio](../u/upside_capture_ratio.md) or [Sortino Ratio](../s/sortino_ratio.md), leading to strategies with better risk-adjusted returns.
+    - Upside [risk metrics](../r/risk_metrics.md) can be used as [objective functions](../o/objective_functions_in_trading.md) in optimization algorithms. For instance, [genetic algorithms](../g/genetic_algorithms_in_trading.md) or other optimization techniques can optimize parameters to maximize the [Upside Capture Ratio](../u/upside_capture_ratio.md) or [Sortino Ratio](../s/sortino_ratio.md), leading to strategies with better risk-adjusted returns.
 
 3. **Performance Monitoring**
     - During live trading, ongoing performance monitoring using upside [risk metrics](../r/risk_metrics.md) ensures that the strategy continues to meet the desired performance benchmarks. Real-time analytics can trigger adjustments if the strategy deviates from expected performance profiles.
 
 4. **[Risk Management](../r/risk_management.md)**
-    - Integrating upside [risk metrics](../r/risk_metrics.md) into [risk management](../r/risk_management.md) frameworks allows for dynamic adjustments based on market conditions. For instance, [portfolio rebalancing](../p/portfolio_rebalancing.md) rules can be tweaked to maintain optimal upside potential while mitigating downside risks.
+    - Integrating upside [risk metrics](../r/risk_metrics.md) into [risk management](../r/risk_management.md) frameworks allows for dynamic adjustments based on market conditions. For instance, [portfolio rebalancing](../p/portfolio_rebalancing.md) rules can be tweaked to maintain optimal [upside potential](../u/upside_potential_in_trading.md) while mitigating downside risks.
 
 ### Case Studies and Examples
 
@@ -67,7 +67,7 @@ Upside [risk metrics](../r/risk_metrics.md) play a crucial role in differentiati
 A quantitative hedge fund implemented an [algorithmic trading](../a/algorithmic_trading.md) strategy focusing on momentum and [mean reversion](../m/mean_reversion.md) signals. By incorporating upside [risk metrics](../r/risk_metrics.md) like the [Sortino Ratio](../s/sortino_ratio.md) and [Upside Capture Ratio](../u/upside_capture_ratio.md), the fund refined its strategy to ensure high performance during bull markets. Over a three-year period, the strategy achieved an [Upside Capture Ratio](../u/upside_capture_ratio.md) of 120% against the S&P 500, significantly outperforming the benchmark.
 
 #### Case Study 2: Retail Algorithmic Trader
-A retail algorithmic trader utilized machine learning models to predict stock price movements. By incorporating the Gain-Loss Ratio into the evaluation process, the trader optimized the models to favor trades with higher upside potential. The approach resulted in a 35% higher average gain during profitable trades, demonstrating the effectiveness of leveraging upside [risk metrics](../r/risk_metrics.md) in strategy development.
+A retail algorithmic trader utilized machine learning models to predict stock price movements. By incorporating the Gain-Loss Ratio into the evaluation process, the trader optimized the models to favor trades with higher [upside potential](../u/upside_potential_in_trading.md). The approach resulted in a 35% higher average gain during profitable trades, demonstrating the effectiveness of leveraging upside [risk metrics](../r/risk_metrics.md) in strategy development.
 
 ### Key Considerations and Limitations
 

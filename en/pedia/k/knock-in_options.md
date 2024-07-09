@@ -17,7 +17,7 @@ Knock-In options are a type of exotic option in financial markets, distinct from
 
 ### Pricing of Knock-In Options
 
-The pricing of knock-in options is more complex compared to vanilla options due to the additional barrier condition. The valuation typically involves advanced mathematical models and numerical methods, considering not only the volatility and price of the underlying asset but also the relationship between the underlying price and the barrier level. Some commonly used models include:
+The pricing of knock-in options is more complex compared to vanilla options due to the additional barrier condition. The valuation typically involves advanced [mathematical models](../m/mathematical_models_in_trading.md) and [numerical methods](../n/numerical_methods_in_trading.md), considering not only the volatility and price of the underlying asset but also the relationship between the underlying price and the barrier level. Some commonly used models include:
 
 - **[Black-Scholes Model](../b/black-scholes_model.md)**: Adapted for barrier options, taking into account the hitting probability of the barrier.
 - **Monte Carlo Simulations**: Used to simulate numerous price paths of the underlying asset to estimate the probability of the barrier being breached and the option becoming active.
@@ -48,7 +48,7 @@ Several financial institutions and trading platforms offer knock-in options as p
 
 - **Goldman Sachs**: A leading global investment bank that provides various [exotic options](../e/exotic_options.md), including knock-in options [Goldman Sachs](https://www.goldmansachs.com/).
 - **Barclays**: Offers a wide range of structured products and [derivatives](../d/derivatives.md), including barrier options [Barclays](https://www.barclays.co.uk/).
-- **Interactive Brokers**: A well-known trading platform that includes [exotic options](../e/exotic_options.md) in their product offerings [Interactive Brokers](https://www.interactivebrokers.com/).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A well-known trading platform that includes [exotic options](../e/exotic_options.md) in their product offerings [Interactive Brokers](https://www.interactivebrokers.com/).
 
 In conclusion, knock-in options provide unique opportunities for investors and traders to manage risk and create tailored investment strategies. However, understanding their complexities and the associated risks is crucial for their effective use in financial portfolios.
 

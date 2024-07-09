@@ -36,7 +36,7 @@ Several factors can lead to orders remaining unfilled:
 
 To minimize the negative impact of [unfilled orders](../u/unfilled_orders.md), traders and algorithms can implement various strategies:
 
-1. **Order Types and Conditions**: Using a mix of order types and conditions, such as market orders for immediate execution and limit orders for controlling price.
+1. **[Order Types](../o/order_types_in_trading.md) and Conditions**: Using a mix of [order types](../o/order_types_in_trading.md) and conditions, such as market orders for immediate execution and limit orders for controlling price.
 2. **Volume-weighted Average Price (VWAP) Strategies**: These strategies aim to execute orders in line with the market volume to minimize market impact.
 3. **Iceberg Orders**: Breaking a large order into smaller, more manageable chunks can help in ensuring higher fill rates without alarming the market.
 4. **[Adaptive Algorithms](../a/adaptive_algorithms.md)**: Algorithms that adapt to changing market conditions in real-time can help in improving execution rates. Companies like [Kinetik](https://kinetik.co/) specialize in adaptive [trading algorithms](../t/trading_algorithms.md).

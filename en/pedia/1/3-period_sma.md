@@ -41,7 +41,7 @@ One basic [algorithmic trading](../a/algorithmic_trading.md) strategy involves u
 
 #### Tools and Software
 
-Several platforms and software tools allow for the calculation and use of SMAs, including the 3-Period SMA, making them accessible for both novice and expert traders. Popular platforms include:
+Several platforms and [software tools](../s/software_tools_for_trading.md) allow for the calculation and use of SMAs, including the 3-Period SMA, making them accessible for both novice and expert traders. Popular platforms include:
 
 - **MetaTrader 4/5:** A leading platform for Forex, Futures, and CFD markets. It's favored for its robust charting tools and ability to create custom indicators and automated [trading strategies](../t/trading_strategies.md) via MQL scripting.
   - [MetaTrader](https://www.metatrader4.com/)
@@ -66,7 +66,7 @@ Despite its usefulness, the 3-Period SMA has some limitations:
    - Like all moving averages, the SMA is a lagging indicator, meaning it is based on past price data. Therefore, by the time a trend is identified, the move may be well underway or near its end.
 
 **3. Ineffective in Ranging Markets:**
-   - In sideways or ranging markets, the 3-Period SMA might generate false signals due to frequent price whipsaws around the average.
+   - In sideways or ranging markets, the 3-Period SMA might generate [false signals](../f/false_signals_in_trading.md) due to frequent price whipsaws around the average.
 
 #### Conclusion
 

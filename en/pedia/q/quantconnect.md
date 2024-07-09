@@ -10,7 +10,7 @@ QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md)
 4. **Extensive Data Library**: Access to a vast library of historical and real-time data for equities, forex, futures, options, and cryptocurrencies.
 5. **Collaboration Tools**: Features for collaborative strategy development, including version control and team management.
 6. **[Risk Management](../r/risk_management.md)**: Advanced [risk management](../r/risk_management.md) tools to monitor and mitigate trading risks.
-7. **Cloud Computing**: Leverages cloud computing resources to provide scalable and powerful computational capabilities.
+7. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Leverages [cloud computing](../c/cloud_computing_in_trading.md) resources to provide scalable and powerful computational capabilities.
 8. **Open-Source Framework**: Built on an open-source [algorithmic trading](../a/algorithmic_trading.md) engine (Lean), allowing for transparency and customization.
 9. **Strategy Optimization**: Tools for optimizing [trading strategies](../t/trading_strategies.md) to enhance performance and profitability.
 10. **Integration with Brokers**: Seamless integration with multiple brokerages for live trading and data feeds.
@@ -28,9 +28,9 @@ QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md)
 ## Integrations
 QuantConnect integrates with a variety of brokers, data providers, and third-party services to enhance its functionality. Some notable integrations include:
 
-- **Brokerage Firms**: Integration with brokers such as Interactive Brokers, [OANDA](../o/oanda.md), and GDAX for live trading and data feeds.
-- **Data Providers**: Access to market data from providers like [Morningstar](../m/morningstar.md), FXCM, and others.
-- **Cloud Services**: Leverages cloud computing platforms like Microsoft Azure and Amazon Web Services (AWS) for scalable computational resources.
+- **Brokerage Firms**: Integration with brokers such as [Interactive Brokers](../i/interactive_brokers.md), [OANDA](../o/oanda.md), and GDAX for live trading and data feeds.
+- **Data Providers**: Access to market data from providers like [Morningstar](../m/morningstar.md), [FXCM](../f/fxcm.md), and others.
+- **Cloud Services**: Leverages [cloud computing](../c/cloud_computing_in_trading.md) platforms like Microsoft Azure and Amazon Web Services (AWS) for scalable computational resources.
 - **Third-Party Tools**: Support for various third-party tools and libraries to extend platform capabilities.
 - **APIs**: APIs for custom integrations and the development of [proprietary trading](../p/proprietary_trading.md) solutions.
 

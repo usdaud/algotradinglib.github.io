@@ -30,7 +30,7 @@ If inflation is 3% per year, the adjusted amount at the end of each year will in
 **Year 10**: Final amount will be approximately $13,439.
 
 ### Calculation Example
-To calculate the future value of a zero inflation bond, the formula for compound interest can be applied, adjusted for inflation:
+To calculate the future value of a zero inflation bond, the formula for [compound interest](../c/compound_interest_in_trading.md) can be applied, adjusted for inflation:
 
 \[ FV = PV \times (1 + i)^n \]
 

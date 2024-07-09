@@ -2,7 +2,7 @@
 
 ## Overview
 
-Trading signal generation is a crucial component of [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading, black-box trading, or automated trading), where mathematical models determine the timing and conditions for buying or selling assets. These signals are generated based on various strategies—ranging from simple [moving average crossovers](../m/moving_average_crossovers.md) to intricate machine learning models.
+Trading signal generation is a crucial component of [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading, black-box trading, or automated trading), where [mathematical models](../m/mathematical_models_in_trading.md) determine the timing and conditions for buying or selling assets. These signals are generated based on various strategies—ranging from simple [moving average crossovers](../m/moving_average_crossovers.md) to intricate machine learning models.
 
 [Trading signals](../t/trading_signals.md) can be generated for various types of [trading strategies](../t/trading_strategies.md), including but not limited to momentum, [mean reversion](../m/mean_reversion.md), [arbitrage](../a/arbitrage.md), and market-making. This document will delve into different aspects of trading signal generation, covering the basic principles, [technical indicators](../t/technical_indicators.md), statistical methods, machine learning approaches, and case studies of [algorithmic trading](../a/algorithmic_trading.md) employed by financial firms.
 
@@ -21,11 +21,11 @@ Trading signal generation is a crucial component of [algorithmic trading](../a/a
    - Develop relevant features from raw market data. For example, compute moving averages, [momentum indicators](../m/momentum_indicators.md), and volatility metrics.
 
 4. **Signal Generation**:
-   - Employ quantitative methods to produce [trading signals](../t/trading_signals.md). This could involve rule-based systems, statistical models, or machine learning algorithms.
+   - Employ quantitative methods to produce [trading signals](../t/trading_signals.md). This could involve rule-based systems, statistical models, or machine [learning algorithms](../l/learning_algorithms_in_trading.md).
 
 5. **[Backtesting](../b/backtesting.md) and Optimization**:
    - Test the trading strategy on historical data to assess its effectiveness.
-   - Optimize parameters using techniques such as grid search, random search, or more advanced methods like [Bayesian optimization](../b/bayesian_optimization.md).
+   - Optimize parameters using techniques such as [grid search](../g/grid_search_in_trading.md), random search, or more advanced methods like [Bayesian optimization](../b/bayesian_optimization.md).
 
 6. **Execution**:
    - Translate signals into buy/sell orders and execute them via a trading platform or broker.
@@ -45,7 +45,7 @@ Trading signal generation is a crucial component of [algorithmic trading](../a/a
    - **CCI**: Commodity Channel Index.
 
 3. **Volatility Indicators**:
-   - **ATR**: Average True Range.
+   - **ATR**: [Average True Range](../a/average_true_range_(atr).md).
    - **Standard Deviation**.
 
 4. **[Volume Indicators](../v/volume_indicators.md)**:
@@ -79,12 +79,12 @@ Machine learning (ML) offers sophisticated methods for trading signal generation
    - **Lasso/Ridge Regression**: Adjusting coefficients to prevent overfitting.
 
 2. **Classification Models**:
-   - **Support Vector Machines (SVMs)**: Classify market states as profitable or unprofitable.
-   - **Random Forests**: An ensemble method that reduces overfitting.
+   - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs)**: Classify market states as profitable or unprofitable.
+   - **[Random Forests](../r/random_forests_in_trading.md)**: An ensemble method that reduces overfitting.
 
-3. **Neural Networks**:
+3. **[Neural Networks](../n/neural_networks_in_trading.md)**:
    - **[Feedforward Neural Networks](../f/feedforward_neural_networks.md) (FNNs)**: Simple multilayer perceptrons.
-   - **Recurrent Neural Networks (RNNs) & LSTMs**: Useful for sequential data like time-series.
+   - **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) & LSTMs**: Useful for sequential data like time-series.
 
 4. **Reinforcement Learning**:
    - Agents learn to make trading decisions through trial and error, optimizing long-term profit.
@@ -95,15 +95,15 @@ Several financial institutions and hedge funds employ sophisticated signal gener
 
 1. **Two Sigma Investments**:
    - Website: [Two Sigma](https://www.twosigma.com/)
-   - Known for its rigorous scientific approach to signal generation using big data and machine learning.
+   - Known for its rigorous scientific approach to signal generation using [big data](../b/big_data_in_trading.md) and machine learning.
 
 2. **Renaissance Technologies**:
    - Website: Not available, but often considered the most successful quantitative hedge fund.
-   - It employs mathematical models to uncover hidden patterns in data.
+   - It employs [mathematical models](../m/mathematical_models_in_trading.md) to uncover hidden patterns in data.
 
 3. **Citadel LLC**:
    - Website: [Citadel](https://www.citadel.com/)
-   - Utilizes a diverse set of quantitative strategies for high-frequency trading.
+   - Utilizes a diverse set of [quantitative strategies](../q/quantitative_strategies_in_trading.md) for high-frequency trading.
 
 ## Conclusion
 

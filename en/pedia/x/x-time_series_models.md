@@ -1,6 +1,6 @@
 # X-Time Series Models
 
-Time series models are indispensable tools in the realm of [algorithmic trading](../a/algorithmic_trading.md). They allow traders to predict future values based on previously observed data, making them pivotal for developing [trading strategies](../t/trading_strategies.md), managing risk, and optimizing portfolios. Leveraging time series models increases the precision and potential profitability of trades by accounting for temporal dependencies in financial data.
+Time series models are indispensable tools in the realm of [algorithmic trading](../a/algorithmic_trading.md). They allow traders to predict future values based on previously observed data, making them pivotal for developing [trading strategies](../t/trading_strategies.md), managing risk, and optimizing portfolios. Leveraging time series models increases the precision and potential profitability of trades by accounting for [temporal dependencies](../t/temporal_dependencies_in_trading.md) in financial data.
 
 ## Overview of Time Series Models
 
@@ -66,12 +66,12 @@ Time series models are statistical tools designed to analyze data points collect
    - Time series models help in refining [trading algorithms](../t/trading_algorithms.md) by providing insights into [price patterns](../p/price_patterns.md), seasonality, and cyclical movements.
 
 5. **[Risk Management](../r/risk_management.md)**:
-   - Predictive models are used to anticipate potential market risks and adjust [trading strategies](../t/trading_strategies.md) to mitigate these risks.
+   - [Predictive models](../p/predictive_models_in_trading.md) are used to anticipate potential market risks and adjust [trading strategies](../t/trading_strategies.md) to mitigate these risks.
 
 ## Prominent Companies Utilizing Time Series Models in Algorithmic Trading
 
 1. **Two Sigma**:
-   - Uses data science and technology to predict the price movement of securities.
+   - Uses [data science](../d/data_science_in_trading.md) and technology to predict the price movement of securities.
    - [Two Sigma](https://www.twosigma.com/)
 
 2. **Renaissance Technologies**:
@@ -83,7 +83,7 @@ Time series models are statistical tools designed to analyze data points collect
    - [DE Shaw](https://www.deshaw.com/)
 
 4. **[Jump Trading](../j/jump_trading.md)**:
-   - Leverages technology and quantitative strategies to engage in global [proprietary trading](../p/proprietary_trading.md).
+   - Leverages technology and [quantitative strategies](../q/quantitative_strategies_in_trading.md) to engage in global [proprietary trading](../p/proprietary_trading.md).
    - [Jump Trading](https://www.jumptrading.com/)
 
 5. **Jane Street**:

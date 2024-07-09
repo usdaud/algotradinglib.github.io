@@ -20,7 +20,7 @@ Brokerage execution is a critical component of [algorithmic trading](../a/algori
 
 ### 3. Smart Order Routing (SOR)
 
-Smart [Order Routing](../o/order_routing.md) enhances basic [order routing](../o/order_routing.md) by dynamically seeking the best possible execution opportunities in real-time. It leverages artificial intelligence and machine learning to adapt to changing market conditions and optimize execution.
+Smart [Order Routing](../o/order_routing.md) enhances basic [order routing](../o/order_routing.md) by dynamically seeking the best possible execution opportunities in real-time. It leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to adapt to changing market conditions and optimize execution.
 
 ### 4. Direct Market Access (DMA)
 
@@ -78,15 +78,15 @@ AI and ML are transforming brokerage execution by enabling [real-time data analy
 
 ### 2. Blockchain and Distributed Ledger Technology
 
-Blockchain technology offers potential improvements in trade settlement processes, ensuring faster and more secure transactions with transparent audit trails.
+[Blockchain](../b/blockchain_in_trading.md) technology offers potential improvements in trade settlement processes, ensuring faster and more secure transactions with transparent audit trails.
 
 ### 3. Quantum Computing
 
-Quantum computing represents a future frontier for brokerage execution, with the potential to solve complex optimization problems and enhance algorithmic strategies beyond current capabilities.
+[Quantum computing](../q/quantum_computing_in_trading.md) represents a future frontier for brokerage execution, with the potential to solve complex optimization problems and enhance algorithmic strategies beyond current capabilities.
 
 ### 4. Cloud Computing
 
-Cloud computing provides scalable resources and advanced analytics tools, enabling traders to execute complex strategies without significant infrastructure investments.
+[Cloud computing](../c/cloud_computing_in_trading.md) provides scalable resources and advanced analytics tools, enabling traders to execute complex strategies without significant infrastructure investments.
 
 ## Challenges in Brokerage Execution
 

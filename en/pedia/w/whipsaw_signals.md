@@ -29,7 +29,7 @@ Identifying whipsaw signals is challenging and requires a careful analysis of ma
 **5. Algorithmic Adjustments:** Implementing sophisticated algorithms that can adapt to changing market conditions.
 
 ### Impact on Algorithmic Trading Strategies
-Whipsaw signals have significant implications for [algorithmic trading](../a/algorithmic_trading.md) strategies. They can lead to increased transaction costs, slippage, and overall reduced [trading performance](../t/trading_performance.md). Addressing whipsaw signals within an algorithmic strategy involves refining the algorithm to better handle volatile market conditions and avoid false signals.
+Whipsaw signals have significant implications for [algorithmic trading](../a/algorithmic_trading.md) strategies. They can lead to increased transaction costs, slippage, and overall reduced [trading performance](../t/trading_performance.md). Addressing whipsaw signals within an algorithmic strategy involves refining the algorithm to better handle volatile market conditions and avoid [false signals](../f/false_signals_in_trading.md).
 
 ### Practical Solutions
 **1. Diversification:** Diversifying [trading strategies](../t/trading_strategies.md) can help mitigate the impact of whipsaw signals.

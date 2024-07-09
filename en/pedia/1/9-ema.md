@@ -57,7 +57,7 @@ Cryptocurrency traders also employ the 9-EMA to navigate the highly volatile con
 
 #### Cons
 
-1. **Noise**: The higher sensitivity can also result in more "noise," giving false signals in a sideways market.
+1. **Noise**: The higher sensitivity can also result in more "noise," giving [false signals](../f/false_signals_in_trading.md) in a sideways market.
 2. **Lag**: Despite being more responsive than the simple moving average, the 9-EMA can still lag behind the price in very volatile markets.
 
 ### Integration with Other Indicators

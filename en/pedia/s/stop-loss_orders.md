@@ -66,7 +66,7 @@ Intraday price fluctuations might cause the stop order to execute prematurely, c
 
 #### 4. **Broker Fees**
 
-Some brokers charge fees for stop-loss orders, particularly trailing and guaranteed stop-loss orders, which can eat into profit margins.
+Some brokers charge fees for stop-loss orders, particularly trailing and guaranteed stop-loss orders, which can eat into [profit margins](../p/profit_margins_in_trading.md).
 
 ---
 
@@ -145,7 +145,7 @@ The continuous improvement in [real-time data analysis](../r/real-time_data_anal
 
 #### 3. **Blockchain Integration**
 
-Blockchain technology could provide enhanced transparency and security features to stop-loss order executions, ensuring that once a stop price is hit, the execution is both fair and verifiable.
+[Blockchain](../b/blockchain_in_trading.md) technology could provide enhanced transparency and security features to stop-loss order executions, ensuring that once a stop price is hit, the execution is both fair and verifiable.
 
 #### 4. **Regulatory Changes**
 

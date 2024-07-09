@@ -13,7 +13,7 @@ Networked [trading systems](../t/trading_systems.md) refer to the interconnected
 Front-end systems in a networked [trading environment](../t/trading_environment.md) consist of user interfaces and applications that traders interact with. These include:
 
 - **Trading Platforms:** Software provided by brokerage firms, such as MetaTrader and [NinjaTrader](../n/ninjatrader.md), that offer tools for order placement, [technical analysis](../t/technical_analysis.md), and trade management.
-- **Web Portals:** Browser-based interfaces that give traders access to market data, account information, and order management from anywhere.
+- **Web Portals:** Browser-based interfaces that give traders access to market data, account information, and [order management](../o/order_management_in_trading.md) from anywhere.
 - **Mobile Applications:** Apps designed for smartphones and tablets that allow traders to monitor markets and execute trades on the go.
 
 ### 2. Middle-Tier Systems
@@ -48,7 +48,7 @@ Back-end systems manage and store the data required for trading operations:
 ### 3. Data Management and Processing
 
 - **Real-Time Data Processing:** Technologies like Complex Event Processing (CEP) analyze streaming data in real-time to detect patterns and trigger trading decisions.
-- **Big Data Analytics:** Using Hadoop, Spark, and other frameworks to handle large volumes of market and trade data for [backtesting](../b/backtesting.md) and strategy optimization.
+- **[Big Data Analytics](../b/big_data_analytics_in_trading.md):** Using Hadoop, Spark, and other frameworks to handle large volumes of market and trade data for [backtesting](../b/backtesting.md) and strategy optimization.
 - **Machine Learning:** Employing algorithms to identify predictive patterns in historical data and adapt strategies dynamically.
 
 ## Importance and Impact on Algorithmic Trading

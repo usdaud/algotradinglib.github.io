@@ -1,6 +1,6 @@
 # Bayesian Inference
 
-Bayesian inference is a statistical method employed to update the probability for a hypothesis as more evidence or information becomes available. In the context of [algorithmic trading](../a/algorithmic_trading.md), Bayesian inference can be used to refine [trading strategies](../t/trading_strategies.md) and make more informed decisions based on the evolving market data. This method is named after Reverend Thomas Bayes, who provided the foundation through Bayes' Theorem, a cornerstone in probability theory.
+Bayesian inference is a statistical method employed to update the probability for a hypothesis as more evidence or information becomes available. In the context of [algorithmic trading](../a/algorithmic_trading.md), Bayesian inference can be used to refine [trading strategies](../t/trading_strategies.md) and make more informed decisions based on the evolving market data. This method is named after Reverend Thomas Bayes, who provided the foundation through Bayes' Theorem, a cornerstone in [probability theory](../p/probability_theory_in_trading.md).
 
 ### Overview of Bayes' Theorem
 
@@ -60,7 +60,7 @@ Where:
 
 ### Case Study: Renaissance Technologies
 
-An example of a firm that might utilize Bayesian inference in their [trading models](../t/trading_models.md) is Renaissance Technologies, a well-known [quantitative trading](../q/quantitative_trading.md) firm founded by Jim Simons. Their approach involves advanced mathematical models and statistical techniques, likely incorporating Bayesian methods for updating their [trading strategies](../t/trading_strategies.md) based on new market data.
+An example of a firm that might utilize Bayesian inference in their [trading models](../t/trading_models.md) is Renaissance Technologies, a well-known [quantitative trading](../q/quantitative_trading.md) firm founded by Jim Simons. Their approach involves advanced [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques, likely incorporating Bayesian methods for updating their [trading strategies](../t/trading_strategies.md) based on new market data.
 
 [Visit Renaissance Technologies](https://www.rentec.com/)
 

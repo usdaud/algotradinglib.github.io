@@ -55,7 +55,7 @@ This pseudocode runs through an equity curve (time series of account values) to 
 
 #### Tools and Software for Drawdown Analysis
 
-Several software tools and platforms can assist in drawdown analysis for algorithmic traders:
+Several [software tools](../s/software_tools_for_trading.md) and platforms can assist in drawdown analysis for algorithmic traders:
 
 1. **Python Libraries**: The `pandas` and `numpy` libraries in Python are commonly used for financial analysis, including drawdown calculations. The `[quantlib](../q/quantlib.md)` and `zipline` libraries provide more specialized features for [quantitative finance](../q/quantitative_finance.md).
 
@@ -69,8 +69,8 @@ Several software tools and platforms can assist in drawdown analysis for algorit
 
 2. **Value at Risk (VaR)**: VaR models estimate the maximum potential drawdown over a specified period at a certain confidence level. While VaR is traditionally used for market risk, it can be adapted to understand drawdown risks in [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-3. **Stress Testing**: Stress testing involves evaluating how a trading strategy performs under extreme market conditions. This helps in identifying vulnerabilities and potential drawdowns that may not be evident under normal market conditions.
+3. **[Stress Testing](../s/stress_testing_in_trading.md)**: [Stress testing](../s/stress_testing_in_trading.md) involves evaluating how a trading strategy performs under extreme market conditions. This helps in identifying vulnerabilities and potential drawdowns that may not be evident under normal market conditions.
 
 #### Conclusion
 
-Drawdown analysis is an indispensable tool in [algorithmic trading](../a/algorithmic_trading.md), providing valuable insights into the risk and performance of [trading strategies](../t/trading_strategies.md). By understanding and managing drawdowns, traders can improve their [risk management](../r/risk_management.md) practices, enhance their strategies, and ultimately achieve more consistent and stable trading outcomes. Whether through basic calculations or advanced techniques like Monte Carlo simulations and stress testing, drawdown analysis remains a cornerstone of effective [algorithmic trading](../a/algorithmic_trading.md).
+Drawdown analysis is an indispensable tool in [algorithmic trading](../a/algorithmic_trading.md), providing valuable insights into the risk and performance of [trading strategies](../t/trading_strategies.md). By understanding and managing drawdowns, traders can improve their [risk management](../r/risk_management.md) practices, enhance their strategies, and ultimately achieve more consistent and stable trading outcomes. Whether through basic calculations or advanced techniques like Monte Carlo simulations and [stress testing](../s/stress_testing_in_trading.md), drawdown analysis remains a cornerstone of effective [algorithmic trading](../a/algorithmic_trading.md).

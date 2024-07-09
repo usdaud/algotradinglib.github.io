@@ -12,7 +12,7 @@ Trading mechanisms refer to the rules and systems that facilitate the exchange o
 - **Electronic Communication Networks (ECNs)**: These are automated systems that match buy and sell orders electronically without the need for a traditional middleman.
 
 ### 2. Order Types
-Different types of orders in financial markets allow traders to express their trading intentions and control the execution of their trades. Key order types include:
+Different types of orders in financial markets allow traders to express their trading intentions and control the execution of their trades. Key [order types](../o/order_types_in_trading.md) include:
 
 - **Market orders**: Orders to buy or sell a security immediately at the best available price.
 - **Limit orders**: Orders to buy or sell a security at a specified price or better.
@@ -33,7 +33,7 @@ The advent of technology has significantly transformed market microstructure. Ke
 
 - **High-Frequency Trading (HFT)**: This involves the use of powerful computers and algorithms to execute trades at extremely high speeds, often within microseconds. HFT strategies exploit short-term market inefficiencies and require sophisticated data analysis and low-latency [trading systems](../t/trading_systems.md).
 - **[Algorithmic Trading](../a/algorithmic_trading.md)**: Automated [trading strategies](../t/trading_strategies.md) that use predefined rules to execute trades. Algorithms can optimize trading by minimizing execution costs, managing risk, and adapting to changing market conditions.
-- **Blockchain and Distributed Ledger Technology (DLT)**: These technologies have the potential to revolutionize the settlement and clearing processes, enhance transparency, and reduce [counterparty risk](../c/counterparty_risk.md) in financial markets.
+- **[Blockchain](../b/blockchain_in_trading.md) and Distributed Ledger Technology (DLT)**: These technologies have the potential to revolutionize the settlement and clearing processes, enhance transparency, and reduce [counterparty risk](../c/counterparty_risk.md) in financial markets.
 
 ## Regulatory Considerations
 
@@ -48,7 +48,7 @@ Market microstructure is subject to regulatory oversight to ensure fair and orde
 Several companies specialize in providing technology, data, and services related to market microstructure. These companies include:
 
 - **Nasdaq**: A global exchange group that operates multiple securities exchanges and offers market technology solutions to other exchanges and market participants. [Nasdaq Website](https://www.nasdaq.com/)
-- **Virtu Financial**: A financial firm specializing in market making and execution services. Virtu leverages advanced technology and quantitative strategies to provide liquidity and trading solutions. [Virtu Financial Website](https://www.virtu.com/)
+- **Virtu Financial**: A financial firm specializing in market making and execution services. Virtu leverages advanced technology and [quantitative strategies](../q/quantitative_strategies_in_trading.md) to provide liquidity and trading solutions. [Virtu Financial Website](https://www.virtu.com/)
 - **Citadel Securities**: A leading global market maker that uses cutting-edge technology to provide liquidity across various asset classes. Citadel Securities focuses on improving [market efficiency](../m/market_efficiency.md) and [trading performance](../t/trading_performance.md). [Citadel Securities Website](https://www.citadelsecurities.com/)
 - **NYSE (New York Stock Exchange)**: One of the world's largest stock exchanges, offering a platform for buying and selling securities and providing market data and technology services. [NYSE Website](https://www.nyse.com/)
   

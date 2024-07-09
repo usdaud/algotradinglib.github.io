@@ -82,8 +82,8 @@ Using options, futures, or other derivative instruments to offset potential loss
 ## Companies and Resources
 
 ### Brokers Offering Martingale Trading Platforms
-- **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com)
-- **IG Group**: [IG](https://www.ig.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com)
+- **[IG Group](../i/ig_group.md)**: [IG](https://www.ig.com)
 
 ### Algorithmic Trading Platforms
 - **MetaTrader 4/5**: [MetaTrader](https://www.metatrader4.com)

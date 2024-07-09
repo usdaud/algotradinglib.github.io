@@ -20,7 +20,7 @@ Traditionally, stocks and bonds have displayed low or negative correlation. Stoc
 
 ### Gold and Stocks
 
-Gold is another example of an asset that typically has a low correlation with stocks. During periods of economic uncertainty, gold is often considered a "safe haven" asset, and its price tends to go up as stock prices go down. This inverse relationship makes gold a valuable component of a diversified portfolio.
+Gold is another example of an asset that typically has a low correlation with stocks. During periods of economic [uncertainty](../u/uncertainty_in_trading.md), gold is often considered a "safe haven" asset, and its price tends to go up as stock prices go down. This inverse relationship makes gold a valuable component of a diversified portfolio.
 
 ### Real Estate and Equities
 
@@ -104,7 +104,7 @@ As traditional asset classes become more correlated due to global economic integ
 
 ### Evolution of Correlation Metrics
 
-Advances in data science and computational techniques are leading to the development of more sophisticated methods for measuring and analyzing correlations. These new metrics can provide deeper insights into the relationships between assets and help in identifying truly uncorrelated investments.
+Advances in [data science](../d/data_science_in_trading.md) and computational techniques are leading to the development of more sophisticated methods for measuring and analyzing correlations. These new metrics can provide deeper insights into the relationships between assets and help in identifying truly uncorrelated investments.
 
 ### Impact of Globalization and Technology
 

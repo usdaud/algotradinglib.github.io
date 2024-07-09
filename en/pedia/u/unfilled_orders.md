@@ -29,7 +29,7 @@ Unfilled orders can have various impacts on [trading strategies](../t/trading_st
 
 Effective management of unfilled orders is essential for improving trading strategy performance. Here are some strategies employed by traders:
 
-1. **Order Types Optimization:** Using a combination of order types such as limit, market, and stop orders to increase the likelihood of execution.
+1. **[Order Types](../o/order_types_in_trading.md) Optimization:** Using a combination of [order types](../o/order_types_in_trading.md) such as limit, market, and stop orders to increase the likelihood of execution.
 2. **[Liquidity Analysis](../l/liquidity_analysis.md):** Assessing market liquidity conditions before placing large orders.
 3. **Dynamic Order Placement:** Using algorithms that dynamically adjust order placement based on market conditions.
 4. **Order Splitting:** Breaking large orders into smaller chunks to improve the chances of execution.

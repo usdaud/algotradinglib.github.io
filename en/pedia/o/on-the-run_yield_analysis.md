@@ -62,7 +62,7 @@ Several tools and resources are available for conducting on-the-run [yield analy
 To illustrate the application of OTR [yield analysis](../y/yield_analysis.md), consider a scenario where an investment firm uses this analysis to gauge market sentiment and adjust their strategies:
 
 ### Scenario
-An investment firm notices a flattening of the OTR [yield curve](../y/yield_curve.md), indicating potential economic uncertainty. This change prompts them to:
+An investment firm notices a flattening of the OTR [yield curve](../y/yield_curve.md), indicating potential economic [uncertainty](../u/uncertainty_in_trading.md). This change prompts them to:
 - **Reduce Exposure to Riskier Assets**: Moving a portion of the portfolio into safer, high-liquidity OTR bonds.
 - **Adjust [Portfolio Duration](../p/portfolio_duration.md)**: Shortening the [portfolio duration](../p/portfolio_duration.md) to reduce exposure to potential interest rate increases.
 - **Monitor Inflation Indicators**: Closely tracking inflation data to adjust their strategy as needed, given its impact on bond yields.

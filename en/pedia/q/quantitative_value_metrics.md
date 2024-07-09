@@ -4,7 +4,7 @@ Quantitative value metrics are critical tools utilized in the realm of [algorith
 
 ## Introduction to Quantitative Value Investing
 
-[Quantitative value investing](../q/quantitative_value_investing.md) is an investment strategy that employs mathematical models, statistics, and algorithms to select stocks, bonds, or other securities expected to be undervalued by the market. This approach is rooted in the principles of [value investing](../v/value_investing.md), where investors seek assets trading for less than their intrinsic value. By utilizing quantitative methods, investors can systematically and efficiently screen for these undervalued securities.
+[Quantitative value investing](../q/quantitative_value_investing.md) is an investment strategy that employs [mathematical models](../m/mathematical_models_in_trading.md), statistics, and algorithms to select stocks, bonds, or other securities expected to be undervalued by the market. This approach is rooted in the principles of [value investing](../v/value_investing.md), where investors seek assets trading for less than their intrinsic value. By utilizing quantitative methods, investors can systematically and efficiently screen for these undervalued securities.
 
 ## Key Quantitative Value Metrics
 
@@ -86,7 +86,7 @@ Several financial firms and research studies have showcased the practical implem
 
 ### AQR Capital Management
 
-AQR Capital Management employs quantitative strategies, including value-based models, in its investment approach. By integrating value metrics into their [proprietary algorithms](../p/proprietary_algorithms.md), AQR can manage large portfolios efficiently. More information can be found on their [official website](https://www.aqr.com/).
+AQR Capital Management employs [quantitative strategies](../q/quantitative_strategies_in_trading.md), including value-based models, in its investment approach. By integrating value metrics into their [proprietary algorithms](../p/proprietary_algorithms.md), AQR can manage large portfolios efficiently. More information can be found on their [official website](https://www.aqr.com/).
 
 ### Research on Value Investing
 

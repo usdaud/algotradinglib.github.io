@@ -1,6 +1,6 @@
 # Greeks in Options Trading
 
-In the domain of options trading, "Greeks" refer to vital financial measures that reflect the sensitivity of an option's price in reaction to various factors. These measures are derived from complex mathematical models, the most common of which is the [Black-Scholes model](../b/black-scholes_model.md). Each Greek quantifies a different component of risk inherent in holding an option, providing traders and risk managers with critical diagnostic tools to gauge and hedge risk.
+In the domain of options trading, "Greeks" refer to vital financial measures that reflect the sensitivity of an option's price in reaction to various factors. These measures are derived from complex [mathematical models](../m/mathematical_models_in_trading.md), the most common of which is the [Black-Scholes model](../b/black-scholes_model.md). Each Greek quantifies a different component of risk inherent in holding an option, providing traders and risk managers with critical diagnostic tools to gauge and hedge risk.
 
 ## Delta (Δ)
 

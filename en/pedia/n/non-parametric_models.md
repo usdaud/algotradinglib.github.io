@@ -11,7 +11,7 @@ Non-parametric models do not assume any specific form for the underlying distrib
 These models rely heavily on the data at hand instead of prior assumptions. This feature tends to make them more accurate when dealing with large and high-dimensional datasets, which are common in financial markets.
 
 ### No Assumption about Distribution
-Non-parametric models do not assume a normal distribution or any other predefined distribution. This lack of assumption can be particularly useful when dealing with financial data, which often exhibits fat tails and skewed distributions.
+Non-parametric models do not assume a [normal distribution](../n/normal_distribution_in_trading.md) or any other predefined distribution. This lack of assumption can be particularly useful when dealing with financial data, which often exhibits fat tails and skewed distributions.
 
 ### Robustness
 Due to fewer assumptions, non-parametric models are generally more robust to outliers and noise, which are prevalent in financial datasets.
@@ -68,10 +68,10 @@ In trading, KDE is often used for estimating the probability distribution of ret
 
 ### Random Forests
 #### Description
-Random forests are an [ensemble learning](../e/ensemble_learning.md) method based on [decision trees](../d/decision_trees.md). They construct multiple [decision trees](../d/decision_trees.md) during training and output the mode or mean prediction of the individual trees.
+[Random forests](../r/random_forests_in_trading.md) are an [ensemble learning](../e/ensemble_learning.md) method based on [decision trees](../d/decision_trees.md). They construct multiple [decision trees](../d/decision_trees.md) during training and output the mode or mean prediction of the individual trees.
 
 #### Application in Algo Trading
-In [trading strategies](../t/trading_strategies.md), random forests can be used for predicting asset prices, detecting [trading signals](../t/trading_signals.md), or assessing risk.
+In [trading strategies](../t/trading_strategies.md), [random forests](../r/random_forests_in_trading.md) can be used for predicting asset prices, detecting [trading signals](../t/trading_signals.md), or assessing risk.
 
 #### Advantages
 - Reduces overfitting by averaging multiple trees
@@ -102,10 +102,10 @@ SVMs can be used for classification tasks, such as predicting market direction, 
 [Gaussian processes](../g/gaussian_processes.md) are a non-parametric, Bayesian approach to regression and classification. They define a distribution over functions and make predictions based on observed data.
 
 #### Application in Algo Trading
-[Gaussian processes](../g/gaussian_processes.md) can be used for [predictive modeling](../p/predictive_modeling.md), such as forecasting prices or volatility. They provide a measure of uncertainty in predictions, which is valuable for [risk management](../r/risk_management.md).
+[Gaussian processes](../g/gaussian_processes.md) can be used for [predictive modeling](../p/predictive_modeling.md), such as forecasting prices or volatility. They provide a measure of [uncertainty](../u/uncertainty_in_trading.md) in predictions, which is valuable for [risk management](../r/risk_management.md).
 
 #### Advantages
-- Provides uncertainty measures
+- Provides [uncertainty](../u/uncertainty_in_trading.md) measures
 - Flexible in modeling non-linear relationships
 
 #### Disadvantages
@@ -120,7 +120,7 @@ SVMs can be used for classification tasks, such as predicting market direction, 
 [Bayesian networks](../b/bayesian_networks.md) can be used for risk assessment, [anomaly detection](../a/anomaly_detection.md), and predicting market movements. They provide a way to integrate prior knowledge with observed data.
 
 #### Advantages
-- Handles uncertainty well
+- Handles [uncertainty](../u/uncertainty_in_trading.md) well
 - Incorporates prior knowledge
 
 #### Disadvantages
@@ -136,7 +136,7 @@ Non-parametric models often require significant computational resources, especia
 The performance of non-parametric models can be highly sensitive to the choice of parameters such as the number of neighbors in k-NN, the bandwidth in KDE, and the kernel in SVMs. Hyperparameter tuning is essential but can be time-consuming.
 
 ### Interpretability
-While some non-parametric models like [decision trees](../d/decision_trees.md) are easy to interpret, others like SVMs and random forests can be more challenging to understand. This lack of interpretability can be a drawback when explaining model decisions to stakeholders.
+While some non-parametric models like [decision trees](../d/decision_trees.md) are easy to interpret, others like SVMs and [random forests](../r/random_forests_in_trading.md) can be more challenging to understand. This lack of interpretability can be a drawback when explaining model decisions to stakeholders.
 
 ### Overfitting
 Non-parametric models are prone to overfitting, especially when the dataset is small. Regularization techniques and cross-validation are often employed to mitigate this issue.

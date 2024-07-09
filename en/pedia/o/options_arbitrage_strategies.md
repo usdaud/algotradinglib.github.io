@@ -77,7 +77,7 @@ While options [arbitrage](../a/arbitrage.md) might sound risk-free theoretically
 
 ### 5. Tools and Platforms
 Professional traders use advanced tools and platforms to automate and manage these strategies. Some prominent platforms include:
-- **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com)
 - **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 - **Optiver**: [Optiver](https://www.optiver.com/)
 

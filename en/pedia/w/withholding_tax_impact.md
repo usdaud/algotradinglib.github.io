@@ -1,6 +1,6 @@
 # Withholding Tax Impact
 
-[Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algo trading," refers to the use of automated and pre-programmed trading instructions to execute orders in financial markets. This type of trading relies heavily on mathematical models, high-speed computing, and statistical methods to make decisions and execute trades at speeds far beyond human capability. The goal is to capitalize on market inefficiencies, exploit price discrepancies, and achieve optimal execution. However, one of the significant factors that can affect the profitability and efficiency of [algorithmic trading](../a/algorithmic_trading.md) is the withholding tax.
+[Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algo trading," refers to the use of automated and pre-programmed trading instructions to execute orders in financial markets. This type of trading relies heavily on [mathematical models](../m/mathematical_models_in_trading.md), high-speed computing, and statistical methods to make decisions and execute trades at speeds far beyond human capability. The goal is to capitalize on market inefficiencies, exploit price discrepancies, and achieve optimal execution. However, one of the significant factors that can affect the profitability and efficiency of [algorithmic trading](../a/algorithmic_trading.md) is the withholding tax.
 
 ## What is Withholding Tax?
 

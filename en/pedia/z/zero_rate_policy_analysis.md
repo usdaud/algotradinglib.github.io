@@ -42,7 +42,7 @@ A zero-rate environment can create significant [arbitrage](../a/arbitrage.md) op
 
 ### Volatility Strategies
 
-A ZRP can lead to a reduction in market volatility in the short term as uncertainty about interest rate changes diminishes. [Algorithmic trading](../a/algorithmic_trading.md) strategies that rely on volatility, such as certain types of options trading, need to be adjusted to account for this decrease in volatility.
+A ZRP can lead to a reduction in market volatility in the short term as [uncertainty](../u/uncertainty_in_trading.md) about interest rate changes diminishes. [Algorithmic trading](../a/algorithmic_trading.md) strategies that rely on volatility, such as certain types of options trading, need to be adjusted to account for this decrease in volatility.
 
 ### Risk Management
 

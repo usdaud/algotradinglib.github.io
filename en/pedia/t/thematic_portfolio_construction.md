@@ -8,7 +8,7 @@ Thematic portfolio construction is an investment strategy focused on building po
 [Thematic investing](../t/thematic_investing.md) involves selecting investments based on predicted long-term trends. This strategy moves beyond traditional sectors and focuses on cross-sector opportunities. The objective is to identify powerful, transformative forces and invest in companies poised to benefit from these trends.
 
 ### 2. Themes
-Themes are the central ideas around which thematic portfolios are built. Common themes include technology (such as artificial intelligence and robotics), healthcare (biotechnology and aging populations), environment (renewable energy and climate change), and social trends (urbanization and increasing consumer wealth).
+Themes are the central ideas around which thematic portfolios are built. Common themes include technology (such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and robotics), healthcare (biotechnology and aging populations), environment (renewable energy and climate change), and social trends (urbanization and increasing consumer wealth).
 
 ### 3. Identifying Themes
 Identifying viable themes requires rigorous research and forecasting. Investors must discern between fads and sustainable trends. Sources of themes can include macroeconomic analyses, industry studies, and exploring societal memes. A thorough understanding of [market cycles](../m/market_cycles.md) and historical context is also crucial.
@@ -40,9 +40,9 @@ Thematic portfolios require continuous monitoring and adjustment. Trends evolve,
 
 ### 1. Technology and Innovation
 
-- **Artificial Intelligence**: Investments in companies developing or utilizing AI technology.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: Investments in companies developing or utilizing AI technology.
 - **Robotics and Automation**: Companies creating robotic technology or automation solutions.
-- **Fintech**: Financial technology companies offering digital payment solutions, blockchain, or financial services innovation.
+- **Fintech**: Financial technology companies offering digital payment solutions, [blockchain](../b/blockchain_in_trading.md), or financial services innovation.
 - **Cybersecurity**: Firms providing products and services to protect against cyber threats.
 - **5G Telecommunications**: Companies advancing 5G technology and infrastructure.
 
@@ -74,7 +74,7 @@ ARK Invest is renowned for its focus on disruptive innovation and [thematic inve
 - [ARK Invest](https://ark-invest.com/)
 
 ### iShares by BlackRock
-iShares offers a range of thematic ETFs that allow investors to gain exposure to various themes. The iShares Global Clean Energy ETF (ICLN) focuses on companies in the clean energy sector, while the iShares Robotics and Artificial Intelligence ETF (IRBO) targets firms in the robotics and AI industries.
+iShares offers a range of thematic ETFs that allow investors to gain exposure to various themes. The iShares Global Clean Energy ETF (ICLN) focuses on companies in the clean energy sector, while the iShares Robotics and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) ETF (IRBO) targets firms in the robotics and AI industries.
 - [iShares by BlackRock](https://www.ishares.com/us/products/239726/ishares-global-clean-energy-etf)
 
 ### Invesco

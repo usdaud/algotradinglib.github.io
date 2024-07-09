@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the realm of trading and investment, particularly in [algorithmic trading](../a/algorithmic_trading.md), the concept of the hurdle rate plays a pivotal role. Essentially, the hurdle rate is the minimum rate of return on an investment required by an investor or manager. It acts as a benchmark against which the performance of potential investments is measured. This can be particularly significant in [algorithmic trading](../a/algorithmic_trading.md), where decisions on buying and selling are governed by complex mathematical models and algorithms designed to maximize returns while keeping risks in check.
+In the realm of trading and investment, particularly in [algorithmic trading](../a/algorithmic_trading.md), the concept of the hurdle rate plays a pivotal role. Essentially, the hurdle rate is the minimum rate of return on an investment required by an investor or manager. It acts as a benchmark against which the performance of potential investments is measured. This can be particularly significant in [algorithmic trading](../a/algorithmic_trading.md), where decisions on buying and selling are governed by complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms designed to maximize returns while keeping risks in check.
 
 ## Understanding the Hurdle Rate
 
@@ -75,7 +75,7 @@ One of the challenges of using a hurdle rate in trading is the dynamic nature of
 
 ### Model Dependency
 
-In [algorithmic trading](../a/algorithmic_trading.md), the reliance on mathematical models means that the hurdle rate’s effectiveness is contingent on the accuracy of these models. Any flaws or inaccuracies in the models can lead to suboptimal application of the hurdle rate.
+In [algorithmic trading](../a/algorithmic_trading.md), the reliance on [mathematical models](../m/mathematical_models_in_trading.md) means that the hurdle rate’s effectiveness is contingent on the accuracy of these models. Any flaws or inaccuracies in the models can lead to suboptimal application of the hurdle rate.
 
 ### Overfitting Risks
 

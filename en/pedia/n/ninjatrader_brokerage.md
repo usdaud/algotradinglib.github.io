@@ -10,7 +10,7 @@
 4. **Automated Trading**: Supports automated [trading strategies](../t/trading_strategies.md) and [algorithmic trading](../a/algorithmic_trading.md) through NinjaScript.
 5. **Educational Resources**: Comprehensive educational materials including webinars, tutorials, articles, and live training sessions.
 6. **Research and Analysis**: Access to in-depth market research, news, and analysis tools.
-7. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced order types, [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
+7. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced [order types](../o/order_types_in_trading.md), [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
 8. **Customizable Interface**: Highly customizable trading interface to suit individual trading styles and preferences.
 9. **Market Data**: Real-time and historical market data for informed trading decisions.
 10. **Customer Support**: Dedicated customer support available to assist clients with their trading and technical needs.

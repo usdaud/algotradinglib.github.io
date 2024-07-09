@@ -32,7 +32,7 @@ Vector decomposition allows risk managers to decompose the total risk of a portf
 
 ### 4. Factor Analysis
 
-Decomposition techniques like the Principal Component Analysis (PCA) can identify underlying factors that drive asset returns. These factors can then be used to create more robust [trading models](../t/trading_models.md).
+Decomposition techniques like the [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) can identify underlying factors that drive asset returns. These factors can then be used to create more robust [trading models](../t/trading_models.md).
 
 ## Methods of Vector Decomposition
 
@@ -40,7 +40,7 @@ Several methods can be used for vector decomposition in trading. Some of the com
 
 ### 1. Eigendecomposition
 
-In eigendecomposition, a matrix is decomposed into its eigenvalues and eigenvectors. This method is often used in the context of covariance matrices to understand the principal components of asset returns.
+In eigendecomposition, a matrix is decomposed into its eigenvalues and eigenvectors. This method is often used in the context of covariance matrices to understand the [principal components](../p/principal_components_in_trading.md) of asset returns.
 
 ### 2. Singular Value Decomposition (SVD)
 
@@ -52,7 +52,7 @@ The Fourier Transform decomposes a signal into its constituent frequencies. In t
 
 ### 4. Wavelet Transform
 
-Similar to the Fourier Transform, the Wavelet Transform decomposes data into components at different scales. This is useful for detecting patterns that vary over time.
+Similar to the Fourier Transform, the [Wavelet Transform](../w/wavelet_transform_in_trading.md) decomposes data into components at different scales. This is useful for detecting patterns that vary over time.
 
 ## Practical Examples
 
@@ -64,11 +64,11 @@ Consider a stock price series that exhibits cyclical behavior. By applying the F
 
 ### Example 2: Portfolio Optimization Using PCA
 
-Suppose a trader has a portfolio of various assets. By applying PCA to the historical returns data, the trader can identify the principal components (factors) that explain the most variance in the portfolio. This helps in understanding the key drivers of returns and optimizing the portfolio for desired risk/reward characteristics.
+Suppose a trader has a portfolio of various assets. By applying PCA to the historical returns data, the trader can identify the [principal components](../p/principal_components_in_trading.md) (factors) that explain the most variance in the portfolio. This helps in understanding the key drivers of returns and optimizing the portfolio for desired risk/reward characteristics.
 
 ### Example 3: Risk Management Using Orthogonal Decomposition
 
-Assume a portfolio has exposure to different risk factors. By orthogonally decomposing the returns, the risk manager can isolate the impact of each factor. This aids in precise [hedging strategies](../h/hedging_strategies.md) to mitigate specific risks without affecting the entire portfolio.
+Assume a portfolio has exposure to different [risk factors](../r/risk_factors_in_trading.md). By orthogonally decomposing the returns, the risk manager can isolate the impact of each factor. This aids in precise [hedging strategies](../h/hedging_strategies.md) to mitigate specific risks without affecting the entire portfolio.
 
 ## Companies Utilizing Vector Decomposition in Trading
 
@@ -82,7 +82,7 @@ Renaissance Technologies applies [quantitative models](../q/quantitative_models.
 
 ### 3. AQR Capital Management
 
-AQR Capital Management uses quantitative strategies that likely incorporate vector decomposition to enhance trade decisions and [portfolio management](../p/portfolio_management.md). Visit [AQR Capital Management](https://www.aqr.com/).
+AQR Capital Management uses [quantitative strategies](../q/quantitative_strategies_in_trading.md) that likely incorporate vector decomposition to enhance trade decisions and [portfolio management](../p/portfolio_management.md). Visit [AQR Capital Management](https://www.aqr.com/).
 
 ## Conclusion
 

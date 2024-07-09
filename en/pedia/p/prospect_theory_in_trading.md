@@ -2,7 +2,7 @@
 
 ## Introduction to Prospect Theory
 
-Prospect Theory is a behavioral economic theory that was developed by Daniel Kahneman and Amos Tversky in 1979. Unlike classical utility theory, which assumes that individuals make rational decisions to maximize expected utility, Prospect Theory describes how people actually make decisions under risk and uncertainty. It highlights the fact that real-life decision making often deviates from the rational model, being influenced by biases and heuristics.
+Prospect Theory is a behavioral economic theory that was developed by Daniel Kahneman and Amos Tversky in 1979. Unlike classical [utility theory](../u/utility_theory_in_trading.md), which assumes that individuals make rational decisions to maximize expected utility, Prospect Theory describes how people actually make decisions under risk and [uncertainty](../u/uncertainty_in_trading.md). It highlights the fact that real-life decision making often deviates from the rational model, being influenced by biases and heuristics.
 
 In the context of trading, Prospect Theory can provide insights into the behavior of traders and investors, highlighting why they often make irrational decisions like holding onto losing positions or selling winning positions too early.
 
@@ -64,7 +64,7 @@ Diversifying a portfolio can reduce the impact of potential losses from any sing
 
 ### 3. Education and Training
 
-Ongoing education about behavioral biases and how they influence trading can help traders recognize and counteract these tendencies in their decision-making.
+Ongoing education about [behavioral biases](../b/behavioral_biases_in_trading.md) and how they influence trading can help traders recognize and counteract these tendencies in their decision-making.
 
 ### 4. Using Automated Trading Systems
 

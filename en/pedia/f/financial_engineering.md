@@ -25,15 +25,15 @@ Financial engineering borrows heavily from traditional engineering fields, parti
 Financial engineering relies on complex mathematical tools for analysis and decision-making. Some of the key mathematical areas include:
 
 - **Calculus and Differential Equations**: Essential for modeling continuous-time financial problems.
-- **Statistics and Probability**: Vital for risk assessment and modeling the uncertainty in financial markets.
+- **Statistics and Probability**: Vital for risk assessment and modeling the [uncertainty](../u/uncertainty_in_trading.md) in financial markets.
 - **Linear Algebra**: Often used in optimization problems and algorithm development.
 
 ### Programming and Data Analysis
 
-The rise of [computational finance](../c/computational_finance.md) has made programming an indispensable part of financial engineering. This involves using programming languages like Python, R, C++, and software tools such as MATLAB and Excel for [quantitative analysis](../q/quantitative_analysis.md) and model implementation.
+The rise of [computational finance](../c/computational_finance.md) has made programming an indispensable part of financial engineering. This involves using programming languages like Python, R, C++, and [software tools](../s/software_tools_for_trading.md) such as MATLAB and Excel for [quantitative analysis](../q/quantitative_analysis.md) and model implementation.
 
 - **Algorithm Development**: Creating [trading algorithms](../t/trading_algorithms.md) that can operate autonomously in the financial markets.
-- **Data Analysis**: Handling vast amounts of financial data using big data technologies to derive insights and improve models.
+- **Data Analysis**: Handling vast amounts of financial data using [big data](../b/big_data_in_trading.md) technologies to derive insights and improve models.
 
 ## Applications of Financial Engineering
 
@@ -42,7 +42,7 @@ The rise of [computational finance](../c/computational_finance.md) has made prog
 [Risk management](../r/risk_management.md) is one of the primary applications of financial engineering. Financial engineers develop complex models to measure and manage the financial risks faced by organizations. This includes:
 
 - **Value at Risk (VaR)**: A statistical technique that measures the risk of loss for investments.
-- **Credit Risk Modeling**: Techniques such as logistic regression and machine learning are used to predict the likelihood of a borrower defaulting on a loan.
+- **Credit Risk Modeling**: Techniques such as [logistic regression](../l/logistic_regression_in_trading.md) and machine learning are used to predict the likelihood of a borrower defaulting on a loan.
 - **[Derivatives](../d/derivatives.md) and Hedging**: Using instruments like options, swaps, and futures to manage exposure to various financial risks.
 
 ### Investment Strategies
@@ -63,7 +63,7 @@ Several companies and institutions have become leaders in the field of financial
 
 ### Renaissance Technologies
 
-Renaissance Technologies is a highly regarded hedge fund management company known for its [quantitative trading](../q/quantitative_trading.md) strategies. The firm was founded by Jim Simons and is renowned for its Medallion Fund, which has consistently delivered outstanding performance by leveraging mathematical models and statistical methods.
+Renaissance Technologies is a highly regarded hedge fund management company known for its [quantitative trading](../q/quantitative_trading.md) strategies. The firm was founded by Jim Simons and is renowned for its Medallion Fund, which has consistently delivered outstanding performance by leveraging [mathematical models](../m/mathematical_models_in_trading.md) and statistical methods.
 
 ### Goldman Sachs
 

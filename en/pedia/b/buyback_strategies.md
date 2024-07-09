@@ -49,7 +49,7 @@ Buybacks are subject to regulatory guidelines and compliance requirements to ens
 
 The evolution of [algorithmic trading](../a/algorithmic_trading.md) has allowed for the integration of advanced technologies in executing buybacks. These include:
 
-- **Artificial Intelligence (AI)**: AI-driven algorithms can predict optimal buyback times and volumes based on market conditions and historical data.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: AI-driven algorithms can predict optimal buyback times and volumes based on market conditions and historical data.
 - **Machine Learning**: These models can adapt to new data, refining buyback strategies in real-time to enhance efficiency and effectiveness.
 - **High-Frequency Trading (HFT)**: HFT allows for the execution of buybacks at extremely high speeds, taking advantage of minute price discrepancies to optimize execution prices.
 
@@ -57,8 +57,8 @@ The evolution of [algorithmic trading](../a/algorithmic_trading.md) has allowed 
 
 The landscape of buyback strategies is continually evolving, influenced by technological advancements and changing market dynamics. Some emerging trends include:
 
-- **Data Analytics**: Increasing reliance on big data analytics to inform buyback strategies, determining the optimal timing and scale of repurchases.
-- **Blockchain**: Exploration of blockchain technology for maintaining transparent and tamper-proof records of buyback activities.
+- **Data Analytics**: Increasing reliance on [big data analytics](../b/big_data_analytics_in_trading.md) to inform buyback strategies, determining the optimal timing and scale of repurchases.
+- **[Blockchain](../b/blockchain_in_trading.md)**: Exploration of [blockchain](../b/blockchain_in_trading.md) technology for maintaining transparent and tamper-proof records of buyback activities.
 - **Environmental, Social, and Governance (ESG) Considerations**: Incorporating ESG factors into buyback decisions, aligning with the growing trend towards socially responsible investing.
 
 #### Conclusion

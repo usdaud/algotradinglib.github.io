@@ -4,7 +4,7 @@ Yield forecast analysis is a crucial and sophisticated aspect of [algorithmic tr
 
 ## Introduction to Yield Forecast Analysis
 
-Yield forecast analysis is the process of predicting the future returns of various financial instruments such as stocks, bonds, commodities, and [derivatives](../d/derivatives.md). It leverages historical data, [economic indicators](../e/economic_indicators.md), and advanced mathematical models to generate accurate predictions. The objective is to derive actionable insights that can be used to develop and refine [trading strategies](../t/trading_strategies.md).
+Yield forecast analysis is the process of predicting the future returns of various financial instruments such as stocks, bonds, commodities, and [derivatives](../d/derivatives.md). It leverages historical data, [economic indicators](../e/economic_indicators.md), and advanced [mathematical models](../m/mathematical_models_in_trading.md) to generate accurate predictions. The objective is to derive actionable insights that can be used to develop and refine [trading strategies](../t/trading_strategies.md).
 
 ## Key Components of Yield Forecast Analysis
 
@@ -16,11 +16,11 @@ Yield forecast analysis is the process of predicting the future returns of vario
 2. **Statistical Methods and Models**
     - **[Time Series Analysis](../t/time_series_analysis.md):** Techniques like ARIMA (AutoRegressive Integrated Moving Average) models are employed to analyze time-dependent data.
     - **[Factor Models](../f/factor_models.md):** Multi-[factor models](../f/factor_models.md) (e.g., Fama-French three-factor model) evaluate the impact of various economic factors on returns.
-    - **Machine Learning Models:** More recently, machine learning models such as Random Forests, Gradient Boosting Machines, and Neural Networks have been employed for [yield forecasting](../y/yield_forecasting.md).
+    - **Machine Learning Models:** More recently, machine learning models such as [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, and [Neural Networks](../n/neural_networks_in_trading.md) have been employed for [yield forecasting](../y/yield_forecasting.md).
 
 3. **[Risk Management](../r/risk_management.md)**
     - **Volatility Assessment:** Measuring the volatility of predicted returns is critical for [risk management](../r/risk_management.md).
-    - **Scenario Analysis:** Stress testing and scenario analysis to evaluate the impact of different market conditions on forecasts.
+    - **Scenario Analysis:** [Stress testing](../s/stress_testing_in_trading.md) and scenario analysis to evaluate the impact of different market conditions on forecasts.
 
 ## Methodologies in Yield Forecast Analysis
 
@@ -42,7 +42,7 @@ The GARCH model is used to predict the volatility of returns. It helps in unders
 
 #### Fama-French Three-Factor Model
 
-This model expands on the Capital Asset Pricing Model (CAPM), adding size risk and value risk factors to the market risk factor in CAPM, providing a more comprehensive view of asset prices and trends.
+This model expands on the Capital Asset Pricing Model (CAPM), adding size risk and value [risk factors](../r/risk_factors_in_trading.md) to the market risk factor in CAPM, providing a more comprehensive view of asset prices and trends.
 
 ### Machine Learning Models
 
@@ -54,19 +54,19 @@ These [ensemble learning](../e/ensemble_learning.md) methods combine the predict
 
 #### Neural Networks
 
-Neural networks, particularly deep learning models, have shown significant promise in capturing complex patterns in large datasets. Techniques like Long Short-Term Memory (LSTM) networks are particularly suited for time-series forecasting.
+[Neural networks](../n/neural_networks_in_trading.md), particularly deep learning models, have shown significant promise in capturing complex patterns in large datasets. Techniques like Long Short-Term Memory (LSTM) networks are particularly suited for time-series forecasting.
 
 ## Tools and Platforms for Yield Forecast Analysis
 
 1. **Python Libraries:**
     - **Pandas:** Essential for data manipulation and preprocessing.
     - **NumPy:** Fundamental for numerical operations.
-    - **Scikit-learn:** Provides robust implementations of classical machine learning algorithms.
+    - **Scikit-learn:** Provides robust implementations of classical machine [learning algorithms](../l/learning_algorithms_in_trading.md).
     - **Statsmodels:** Useful for statistical models and [hypothesis testing](../h/hypothesis_testing.md).
-    - **TensorFlow/PyTorch:** Frameworks for building and training neural networks.
+    - **TensorFlow/PyTorch:** Frameworks for building and training [neural networks](../n/neural_networks_in_trading.md).
 
 2. **Trading Platforms:**
-    - **[QuantConnect](../q/quantconnect.md) [https://www.quantconnect.com/](https://www.quantconnect.com/):** An [algorithmic trading](../a/algorithmic_trading.md) platform offering data, cloud computing, and [backtesting](../b/backtesting.md) capabilities.
+    - **[QuantConnect](../q/quantconnect.md) [https://www.quantconnect.com/](https://www.quantconnect.com/):** An [algorithmic trading](../a/algorithmic_trading.md) platform offering data, [cloud computing](../c/cloud_computing_in_trading.md), and [backtesting](../b/backtesting.md) capabilities.
     - **[AlgoTrader](../a/algotrader.md) [https://www.algotrader.com/](https://www.algotrader.com/):** Professional software for automated [trading strategies](../t/trading_strategies.md) development and execution.
     - **MetaTrader [https://www.metatrader4.com/en](https://www.metatrader4.com/en):** A widely-used electronic trading platform for financial markets.
 
@@ -90,13 +90,13 @@ Neural networks, particularly deep learning models, have shown significant promi
     - Clean and preprocess the data, handle missing values, and normalize features.
 
 3. **Model Selection:**
-    - Choose appropriate models (ARIMA, LSTM, Random Forests).
+    - Choose appropriate models (ARIMA, LSTM, [Random Forests](../r/random_forests_in_trading.md)).
 
 4. **Model Training:**
     - Train the model on historical data, ensuring to split the data into training and validation sets.
 
 5. **Model Evaluation:**
-    - Evaluate the model's performance using metrics like Mean Absolute Error (MAE), [Mean Squared Error](../m/mean_squared_error.md) (MSE), and R-squared.
+    - Evaluate the model's performance using metrics like Mean Absolute Error (MAE), [Mean Squared Error](../m/mean_squared_error.md) (MSE), and [R-squared](../r/r-squared_in_trading.md).
 
 6. **Risk Assessment:**
     - Assess the volatility and risk of the forecasted yields.
@@ -148,7 +148,7 @@ This example demonstrates a simple ARIMA model for forecasting stock prices. In 
 
 - **Data Quality:** The accuracy of yield forecasts heavily depends on the quality and granularity of the data.
 - **Model Overfitting:** Care must be taken to avoid overfitting models to historical data, which can lead to poor performance on unseen data.
-- **Economic Uncertainty:** Predicting yields is inherently uncertain due to the unpredictable nature of economic and [geopolitical events](../g/geopolitical_events.md).
+- **Economic [Uncertainty](../u/uncertainty_in_trading.md):** Predicting yields is inherently uncertain due to the unpredictable nature of economic and [geopolitical events](../g/geopolitical_events.md).
 - **Computational Resources:** High-frequency trading and complex models demand significant computational power and efficient algorithms.
 
 ## Conclusion

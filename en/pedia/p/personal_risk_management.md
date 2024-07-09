@@ -17,7 +17,7 @@ Market risk refers to the potential for losses due to fluctuations in market pri
 Model risk arises when the algorithms used for trading are based on inaccurate assumptions or data errors. Faulty models can lead to incorrect trading decisions and potential financial loss.
 
 #### Mitigation Strategies:
-- **[Backtesting](../b/backtesting.md) and Simulation:** Before deploying any model, thoroughly backtest it using historical data and simulate it under different market conditions to validate its performance.
+- **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md):** Before deploying any model, thoroughly backtest it using historical data and simulate it under different market conditions to validate its performance.
 - **Regular Audits:** Continuously monitor and audit models for accuracy and update them in response to changing market conditions.
 
 ### 3. **Operational Risk**

@@ -73,7 +73,7 @@ Professional traders, including hedge funds and [proprietary trading](../p/propr
 For instance, **TD [Ameritrade](../a/ameritrade.md)** provides comprehensive resources for options trading, including educational materials on strategies like vertical credit spreads. (Visit: [TD Ameritrade](https://www.tdameritrade.com))
 
 ### Retail Investor Use
-Increasing numbers of retail investors are utilizing online platforms like **[Robinhood](../r/robinhood.md)** and **E*TRADE** to access options trading. These platforms offer tools and educational content to help individual investors understand and implement strategies like vertical credit spreads.
+Increasing numbers of retail investors are utilizing online platforms like **[Robinhood](../r/robinhood.md)** and **[E*TRADE](../e/e_trade.md)** to access options trading. These platforms offer tools and educational content to help individual investors understand and implement strategies like vertical credit spreads.
 
 ## Frequently Asked Questions (FAQ)
 

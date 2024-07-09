@@ -34,7 +34,7 @@ Accurate measurement of transaction costs is essential for effective management.
 
 1. **Price Impact Models**: These models estimate the potential impact of a trade on market prices based on historical data and market conditions. Tools like the Amihud Illiquidity Measure and Kyle's Lambda are commonly used for this purpose.
 
-2. **Cost Prediction Models**: Predictive models, often powered by machine learning algorithms, forecast the expected transaction costs based on factors such as order size, volatility, and liquidity.
+2. **Cost Prediction Models**: [Predictive models](../p/predictive_models_in_trading.md), often powered by machine [learning algorithms](../l/learning_algorithms_in_trading.md), forecast the expected transaction costs based on factors such as order size, volatility, and liquidity.
 
 #### Post-Trade Analysis
 
@@ -42,7 +42,7 @@ Accurate measurement of transaction costs is essential for effective management.
 
 2. **VWAP (Volume-Weighted Average Price)**: VWAP compares the execution price to the average price of the security during the trading period, weighted by volume. It helps in evaluating the efficiency of trade execution.
 
-3. **[Transaction Cost Analysis](../t/transaction_cost_analysis.md) (TCA)**: TCA involves a detailed analysis of all components of transaction costs, including market conditions, order types, and execution venues. Advanced TCA platforms provide granular insights and benchmarks for improving [trading strategies](../t/trading_strategies.md).
+3. **[Transaction Cost Analysis](../t/transaction_cost_analysis.md) (TCA)**: TCA involves a detailed analysis of all components of transaction costs, including market conditions, [order types](../o/order_types_in_trading.md), and execution venues. Advanced TCA platforms provide granular insights and benchmarks for improving [trading strategies](../t/trading_strategies.md).
 
 ### Strategies for Minimizing Transaction Costs
 
@@ -78,11 +78,11 @@ Technology plays a pivotal role in transaction cost management by providing adva
 
 2. **[FactSet](../f/factset.md)**: [FactSet](../f/factset.md) provides robust TCA solutions that help traders measure and minimize transaction costs through detailed analytics and performance benchmarks.
 
-3. **ITG (Investment Technology Group)**: ITG offers a suite of tools for [transaction cost analysis](../t/transaction_cost_analysis.md), including predictive models, [execution algorithms](../e/execution_algorithms.md), and liquidity management solutions. [ITG](https://www.itg.com/)
+3. **ITG (Investment Technology Group)**: ITG offers a suite of tools for [transaction cost analysis](../t/transaction_cost_analysis.md), including [predictive models](../p/predictive_models_in_trading.md), [execution algorithms](../e/execution_algorithms.md), and liquidity management solutions. [ITG](https://www.itg.com/)
 
 #### Machine Learning and AI
 
-1. **Cost Prediction Models**: Machine learning algorithms analyze historical data to predict transaction costs and optimize trade execution strategies in real-time.
+1. **Cost Prediction Models**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) analyze historical data to predict transaction costs and optimize trade execution strategies in real-time.
 
 2. **[Adaptive Algorithms](../a/adaptive_algorithms.md)**: AI-powered algorithms adjust their [trading strategies](../t/trading_strategies.md) based on real-time market conditions, liquidity, and volatility to minimize transaction costs.
 

@@ -62,7 +62,7 @@ Traders and analysts use the Elliott [Wave Theory](../w/wave_theory.md) to forec
 
 ### Identifying Wave Patterns
 
-Experienced traders often combine Elliott [Wave Theory](../w/wave_theory.md) with other forms of [technical analysis](../t/technical_analysis.md), such as trend lines, moving averages, and [momentum indicators](../m/momentum_indicators.md), to increase the accuracy of their predictions. Identifying wave patterns typically involves looking for the following:
+Experienced traders often combine Elliott [Wave Theory](../w/wave_theory.md) with other forms of [technical analysis](../t/technical_analysis.md), such as trend lines, moving averages, and [momentum indicators](../m/momentum_indicators.md), to increase the accuracy of their predictions. Identifying [wave patterns](../w/wave_patterns_in_trading.md) typically involves looking for the following:
 
 1. Completeness of wave structures: Ensuring that the current wave structure adheres to established Elliott wave rules.
 2. Fibonacci levels: Confirming that wave retracements and extensions align with Fibonacci ratios.
@@ -78,6 +78,6 @@ Despite its widespread use, Elliott [Wave Theory](../w/wave_theory.md) has its c
 
 ## Conclusion
 
-The Elliott [Wave Theory](../w/wave_theory.md) remains a popular tool among traders and analysts for forecasting market trends. Its reliance on wave patterns and Fibonacci ratios offers a structured method to predict price movements and investor behaviors. Despite its criticisms and challenges, when combined with other [technical analysis](../t/technical_analysis.md) tools, Elliott [Wave Theory](../w/wave_theory.md) can be a powerful component of a trader's toolkit.
+The Elliott [Wave Theory](../w/wave_theory.md) remains a popular tool among traders and analysts for forecasting market trends. Its reliance on [wave patterns](../w/wave_patterns_in_trading.md) and Fibonacci ratios offers a structured method to predict price movements and investor behaviors. Despite its criticisms and challenges, when combined with other [technical analysis](../t/technical_analysis.md) tools, Elliott [Wave Theory](../w/wave_theory.md) can be a powerful component of a trader's toolkit.
 
 For further exploration of Elliott [Wave Theory](../w/wave_theory.md), traders might consider educational resources and tools from [Elliott Wave International](https://www.elliottwave.com), a leading authority on the subject.

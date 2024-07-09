@@ -106,7 +106,7 @@ Companies can take several strategic steps to improve their ROCE:
 
 ### Enhancing Operational Efficiency
 
-Improving operational efficiency through better resource management, cost control measures, and process optimization can boost EBIT, thereby increasing ROCE.
+Improving [operational efficiency](../o/operational_efficiency_in_trading.md) through better resource management, cost control measures, and process optimization can boost EBIT, thereby increasing ROCE.
 
 ### Effective Capital Management
 
@@ -122,6 +122,6 @@ Increasing [asset turnover](../a/asset_turnover.md) by generating higher sales w
 
 ## Conclusion
 
-Return on Capital Employed (ROCE) is a critical financial metric for assessing a company's profitability and capital efficiency. By understanding and analyzing ROCE, investors and analysts can gain valuable insights into a company's financial health, operational efficiency, and potential for delivering sustained returns. While it has certain limitations, ROCE remains a cornerstone metric for making informed investment decisions and evaluating long-term financial performance.
+Return on Capital Employed (ROCE) is a critical financial metric for assessing a company's profitability and capital efficiency. By understanding and analyzing ROCE, investors and analysts can gain valuable insights into a company's financial health, [operational efficiency](../o/operational_efficiency_in_trading.md), and potential for delivering sustained returns. While it has certain limitations, ROCE remains a cornerstone metric for making informed investment decisions and evaluating long-term financial performance.
 
 For more information on various financial metrics and investment strategies, consider exploring resources from investment firms such as [Goldman Sachs](https://www.goldmansachs.com/) and [Morgan Stanley](https://www.morganstanley.com/).

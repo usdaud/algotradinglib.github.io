@@ -62,7 +62,7 @@ Automated systems and algorithms are often employed to continuously monitor and 
 Various platforms and [trading systems](../t/trading_systems.md) provide tools for [delta hedging](../d/delta_hedging.md), such as:
 
 - **[ThinkorSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers trading tools and analytics for [delta hedging](../d/delta_hedging.md). [ThinkorSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.page)
-- **Interactive Brokers**: Provides advanced options analytics and [delta hedging](../d/delta_hedging.md) tools. [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides advanced options analytics and [delta hedging](../d/delta_hedging.md) tools. [Interactive Brokers](https://www.interactivebrokers.com/)
 - **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports delta-hedging via custom algorithms. [QuantConnect](https://www.quantconnect.com/)
 
 ## Challenges and Considerations in Delta Hedging

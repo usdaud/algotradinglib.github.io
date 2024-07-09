@@ -36,7 +36,7 @@ One of the oscillator's strengths is its ability to preempt price changes. By us
 
 ### Practical Application
 
-The stochastic oscillator is particularly useful in shorter time frames, making it a valuable tool for day traders and swing traders. Its ability to indicate potential tops and bottoms in price action allows traders to make more informed decisions. However, it is most effective when combined with other indicators and analysis methods, as it can sometimes give false signals.
+The stochastic oscillator is particularly useful in shorter time frames, making it a valuable tool for day traders and swing traders. Its ability to indicate potential tops and bottoms in price action allows traders to make more informed decisions. However, it is most effective when combined with other indicators and analysis methods, as it can sometimes give [false signals](../f/false_signals_in_trading.md).
 
 ### Usage in Algorithmic Trading
 
@@ -68,7 +68,7 @@ print(df[['%K', '%D']])
 - **Preemptive Indicator**: Often signals momentum shifts before price movements.
 
 #### Limitations
-- **False Signals**: Can produce false signals, especially in highly volatile or trending markets.
+- **[False Signals](../f/false_signals_in_trading.md)**: Can produce [false signals](../f/false_signals_in_trading.md), especially in highly volatile or trending markets.
 - **Lagging Nature**: As a momentum indicator, it may lag in recognizing reversals swiftly.
 
 ### Conclusion

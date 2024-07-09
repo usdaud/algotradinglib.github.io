@@ -91,7 +91,7 @@ This script downloads historical price data for Apple Inc. (AAPL), calculates da
 
 Several companies have made significant strides in [algorithmic trading](../a/algorithmic_trading.md), leveraging concepts like autocorrelation to develop advanced [trading strategies](../t/trading_strategies.md). These firms often employ teams of quantitative analysts, data scientists, and software engineers to create and refine their [trading algorithms](../t/trading_algorithms.md).
 
-1. **Two Sigma**: A technology-driven hedge fund that uses machine learning, distributed computing, and big data to create [quantitative models](../q/quantitative_models.md). [Two Sigma](https://www.twosigma.com/)
+1. **Two Sigma**: A technology-driven hedge fund that uses machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to create [quantitative models](../q/quantitative_models.md). [Two Sigma](https://www.twosigma.com/)
 
 2. **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) firm that adopts a [quantitative trading](../q/quantitative_trading.md) approach across various asset classes. [Jane Street](https://www.janestreet.com/)
 
@@ -103,4 +103,4 @@ Several companies have made significant strides in [algorithmic trading](../a/al
 
 ### Conclusion
 
-Autocorrelation is a powerful statistical tool in the arsenal of an algorithmic trader, offering insights into the temporal dependencies within [financial time series](../f/financial_time_series.md). By leveraging autocorrelation, traders can detect trends, develop mean-reversion strategies, model volatility, and potentially uncover market inefficiencies. However, it is crucial to be aware of the limitations embedded in autocorrelation analysis and to combine this approach with other quantitative methods for robust strategy development in [algorithmic trading](../a/algorithmic_trading.md).
+Autocorrelation is a powerful statistical tool in the arsenal of an algorithmic trader, offering insights into the [temporal dependencies](../t/temporal_dependencies_in_trading.md) within [financial time series](../f/financial_time_series.md). By leveraging autocorrelation, traders can detect trends, develop mean-reversion strategies, model volatility, and potentially uncover market inefficiencies. However, it is crucial to be aware of the limitations embedded in autocorrelation analysis and to combine this approach with other quantitative methods for robust strategy development in [algorithmic trading](../a/algorithmic_trading.md).

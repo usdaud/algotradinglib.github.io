@@ -87,7 +87,7 @@ Where:
 - \( g \) = Growth rate of dividends
 
 ### Application in Algorithmic Trading
-Algorithms can automate the projection of future dividends and adjust for changes in growth rates and required returns, providing an efficient way to value dividend-paying stocks.
+Algorithms can automate the projection of future dividends and adjust for changes in [growth rates](../g/growth_rates_in_trading.md) and required returns, providing an efficient way to value dividend-paying stocks.
 
 ### Example
 - [Bloomberg](../b/bloomberg.md) Terminal provides robust tools for dividend discount modeling, aiding in the creation of automated [trading strategies](../t/trading_strategies.md). More information can be found at [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).

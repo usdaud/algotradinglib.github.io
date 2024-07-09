@@ -9,7 +9,7 @@ Key price levels are specific points on a financial instrument's price chart tha
 - **[Support Levels](../s/support_levels.md):** These are price points where an asset tends to find buying interest as it declines. Historical data reveal that the price rarely goes below this level, bolstering its significance.
 - **Resistance Levels:** In contrast, resistance levels are price points where selling interest emerges as the asset's price rises. The price often struggles to break above these levels.
 - **[Pivot Points](../p/pivot_points.md):** These are calculated price levels that indicate potential turning points in the market based on the previous day's high, low, and closing prices.
-- **Psychological Levels:** Often round numbers, such as $50, $100, or $1,000, that tend to influence trader behavior.
+- **[Psychological Levels](../p/psychological_levels_in_trading.md):** Often round numbers, such as $50, $100, or $1,000, that tend to influence trader behavior.
   
 Key price levels are instrumental in defining areas where the price is likely to behave in a predictable manner, thus providing a foundation for reliable [trading strategies](../t/trading_strategies.md).
 
@@ -31,7 +31,7 @@ Certain [technical indicators](../t/technical_indicators.md) can help identify k
 
 ### Advanced Algorithms
 
-Modern quantitative firms like [Two Sigma](https://www.twosigma.com/) and [Citadel](https://www.citadel.com/) employ machine learning and artificial intelligence to develop advanced algorithms for pinpointing key price levels. These algorithms are capable of learning from vast datasets and can adapt as market conditions change.
+Modern quantitative firms like [Two Sigma](https://www.twosigma.com/) and [Citadel](https://www.citadel.com/) employ machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop advanced algorithms for pinpointing key price levels. These algorithms are capable of learning from vast datasets and can adapt as market conditions change.
 
 ## Utilizing Key Price Levels in Trading Strategies
 

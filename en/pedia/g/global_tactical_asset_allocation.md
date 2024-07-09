@@ -26,7 +26,7 @@ GTAA places a strong emphasis on [risk management](../r/risk_management.md). Thi
 
 - **Diversification**: Spreading investments across various assets and regions.
 - **Hedging**: Using [derivatives](../d/derivatives.md) to guard against adverse price movements.
-- **Stress Testing**: Simulating different market conditions to ensure the portfolio can withstand shocks.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating different market conditions to ensure the portfolio can withstand shocks.
 
 ### Performance Measurement
 
@@ -44,7 +44,7 @@ Key [performance metrics](../p/performance_metrics.md) in GTAA include:
 
 ### Quantitative Models
 
-Quantitative methods involve statistical and mathematical models to gauge market trends and asset correlations. These models often use historical data and machine learning algorithms to forecast future performance.
+Quantitative methods involve statistical and [mathematical models](../m/mathematical_models_in_trading.md) to gauge market trends and asset correlations. These models often use historical data and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to forecast future performance.
 
 ### Sentiment Analysis
 
@@ -56,7 +56,7 @@ Analyzes investor behavior and market sentiment to identify potential turning po
 
 These strategies are driven by in-depth economic research and data analysis. For example:
 
-- **Top-Down Approach**: Begins with the larger picture (global economy) and narrows down to sectors or stocks.
+- **[Top-Down Approach](../t/top-down_approach_in_trading.md)**: Begins with the larger picture (global economy) and narrows down to sectors or stocks.
 - **Bottom-Up Approach**: Starts with specific stocks or sectors, seeking undervalued opportunities based on intrinsic value.
 
 ### Technical Strategies

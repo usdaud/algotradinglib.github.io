@@ -98,7 +98,7 @@ Conducting sensitivity analysis involves testing the robustness of [trading stra
 
 ### Stress Testing
 
-Stress testing involves simulating extreme market conditions to evaluate how the trading strategy performs under stress. It provides insights into potential vulnerabilities and aids in [risk management](../r/risk_management.md).
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating extreme market conditions to evaluate how the trading strategy performs under stress. It provides insights into potential vulnerabilities and aids in [risk management](../r/risk_management.md).
 
 ### Documentation and Transparency
 
@@ -106,7 +106,7 @@ Maintaining detailed documentation of the analysis process, including the choice
 
 ### Ethical and Regulatory Compliance
 
-Traders must ensure that their performance benchmark analysis practices comply with ethical standards and regulatory requirements. This includes accurate reporting and avoidance of any practices that might mislead stakeholders.
+Traders must ensure that their performance benchmark analysis practices comply with [ethical standards](../e/ethical_standards_in_trading.md) and regulatory requirements. This includes accurate reporting and avoidance of any practices that might mislead stakeholders.
 
 ## Conclusion
 

@@ -43,7 +43,7 @@ The 10-year government bond yield serves as a critical benchmark for various int
 
 ### Indicator of Economic Sentiment
 
-The yield on 10-year bonds often reflects investor sentiment regarding the future direction of the economy. When investors are optimistic, they may seek riskier assets, leading to lower demand for 10-year bonds and higher yields. Conversely, during economic uncertainty, investors flock to safe-haven assets like 10-year bonds, driving up prices and lowering yields.
+The yield on 10-year bonds often reflects investor sentiment regarding the future direction of the economy. When investors are optimistic, they may seek riskier assets, leading to lower demand for 10-year bonds and higher yields. Conversely, during economic [uncertainty](../u/uncertainty_in_trading.md), investors flock to safe-haven assets like 10-year bonds, driving up prices and lowering yields.
 
 ### Inflation and Monetary Policy
 

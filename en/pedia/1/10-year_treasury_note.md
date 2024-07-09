@@ -33,7 +33,7 @@ The yield on the 10-Year Treasury Note serves as a key indicator of investor sen
 
 ### Safe-Haven Asset
 
-In times of market uncertainty or geopolitical instability, investors flock to the safety of the 10-Year Treasury Note, driving up prices and lowering yields. This "flight-to-quality" is a hallmark of the 10-Year Note's role as a safe-haven asset.
+In times of market [uncertainty](../u/uncertainty_in_trading.md) or geopolitical instability, investors flock to the safety of the 10-Year Treasury Note, driving up prices and lowering yields. This "flight-to-quality" is a hallmark of the 10-Year Note's role as a safe-haven asset.
 
 ## Factors Influencing the 10-Year Treasury Note Yield
 

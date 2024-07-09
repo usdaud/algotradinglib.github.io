@@ -34,11 +34,11 @@ Statistical methods like variance ratio tests and [autocorrelation](../a/autocor
 
 ### 3. **Machine Learning**
 
-Machine learning models can be trained to distinguish between noise and meaningful patterns in historical data. Techniques such as clustering and neural networks can identify non-obvious relationships that might be obscured by noise.
+Machine learning models can be trained to distinguish between noise and meaningful patterns in historical data. Techniques such as clustering and [neural networks](../n/neural_networks_in_trading.md) can identify non-obvious relationships that might be obscured by noise.
 
 ## Impact of Noise on Trading Strategies
 
-Noise can significantly impact the performance of [trading strategies](../t/trading_strategies.md), especially those based on short-term price movements. Strategies that fail to account for noise may generate false signals, leading to suboptimal trades and potential losses.
+Noise can significantly impact the performance of [trading strategies](../t/trading_strategies.md), especially those based on short-term price movements. Strategies that fail to account for noise may generate [false signals](../f/false_signals_in_trading.md), leading to suboptimal trades and potential losses.
 
 ### 1. **Overfitting**
 
@@ -82,7 +82,7 @@ HFT strategies operate on very short time scales, where the signal-to-noise rati
 
 ### 3. **Portfolio Management**
 
-In [portfolio management](../p/portfolio_management.md), noise can obscure the assessment of asset correlations and risk. Techniques to reduce noise can improve the accuracy of risk models and optimize [asset allocation](../a/asset_allocation.md).
+In [portfolio management](../p/portfolio_management.md), noise can obscure the assessment of asset correlations and risk. Techniques to reduce noise can improve the accuracy of [risk models](../r/risk_models_in_trading.md) and optimize [asset allocation](../a/asset_allocation.md).
 
 ### 4. **Market Making**
 

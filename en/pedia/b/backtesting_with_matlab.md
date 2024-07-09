@@ -11,7 +11,7 @@
 MATLAB is widely used in [quantitative finance](../q/quantitative_finance.md) for [backtesting](../b/backtesting.md) due to several reasons:
 
 - **Powerful Mathematical Tools**: MATLAB has extensive built-in functions for mathematical computation, data analysis, and visualization.
-- **Toolboxes**: MATLAB offers specific financial and econometrics toolboxes tailored for financial markets and [time series analysis](../t/time_series_analysis.md).
+- **Toolboxes**: MATLAB offers specific financial and [econometrics](../e/econometrics_in_trading.md) toolboxes tailored for financial markets and [time series analysis](../t/time_series_analysis.md).
 - **Flexibility and Customization**: With MATLAB, users can customize their [backtesting](../b/backtesting.md) models and scripts according to specific needs.
 - **Visualization**: The platform's powerful visualization tools allow traders to better understand trading strategy performance and market behavior.
 - **Speed and Efficiency**: MATLAB’s computational efficiency is essential for processing large datasets commonly used in [backtesting](../b/backtesting.md).

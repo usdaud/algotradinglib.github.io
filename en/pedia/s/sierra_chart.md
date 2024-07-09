@@ -20,7 +20,7 @@ Sierra Chart's charting capabilities are among the most advanced in the industry
 
 Sierra Chart provides a comprehensive trading interface:
 
-- **Order Types**: Supports a wide range of order types including market, limit, stop, OCO (One-Cancels-Other), trailing stops, and more.
+- **[Order Types](../o/order_types_in_trading.md)**: Supports a wide range of [order types](../o/order_types_in_trading.md) including market, limit, stop, OCO (One-Cancels-Other), trailing stops, and more.
 - **Direct Market Access (DMA)**: Offers direct connections to numerous exchanges, allowing for faster execution and reduced slippage.
 - **DOM Trading**: Features a dynamic Depth of Market (DOM) window for rapid order placement and [market depth analysis](../m/market_depth_analysis.md).
 - **[Position Management](../p/position_management.md)**: Real-time tracking of positions, P&L, and [risk metrics](../r/risk_metrics.md) across multiple accounts and instruments.

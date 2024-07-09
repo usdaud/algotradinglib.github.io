@@ -1,6 +1,6 @@
 # Factor Analysis
 
-Factor analysis is a statistical method used in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) to understand the underpinnings of complex financial datasets. Primarily, it aims to identify underlying factors or variables that influence the observed data. This approach is essential for constructing predictive models, optimizing portfolios, and developing [trading strategies](../t/trading_strategies.md). The application of factor analysis can be categorized into several key areas: identifying principal components, understanding market dynamics, and enhancing [trading algorithms](../t/trading_algorithms.md).
+Factor analysis is a statistical method used in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) to understand the underpinnings of complex financial datasets. Primarily, it aims to identify underlying factors or variables that influence the observed data. This approach is essential for constructing [predictive models](../p/predictive_models_in_trading.md), optimizing portfolios, and developing [trading strategies](../t/trading_strategies.md). The application of factor analysis can be categorized into several key areas: identifying [principal components](../p/principal_components_in_trading.md), understanding market dynamics, and enhancing [trading algorithms](../t/trading_algorithms.md).
 
 ## Core Concepts of Factor Analysis
 
@@ -25,7 +25,7 @@ Where:
 
 ### Principal Component Analysis (PCA)
 
-Principal Component Analysis is a technique used to reduce the dimensionality of the dataset while retaining most of the variance. It transforms the original variables into a new set of orthogonal variables called principal components. The first few principal components capture the most significant directions of variance in the data, which simplifies the dataset and makes it easier to analyze.
+[Principal Component Analysis](../p/principal_component_analysis_(pca).md) is a technique used to reduce the dimensionality of the dataset while retaining most of the variance. It transforms the original variables into a new set of orthogonal variables called [principal components](../p/principal_components_in_trading.md). The first few [principal components](../p/principal_components_in_trading.md) capture the most significant directions of variance in the data, which simplifies the dataset and makes it easier to analyze.
 
 ### Factor Rotation
 
@@ -51,17 +51,17 @@ Quantitative traders develop strategies based on [factor models](../f/factor_mod
 
 ## Factor Risk Models
 
-Financial institutions and quantitative firms often develop proprietary factor risk models. These models are crucial for estimating the risk and potential returns of portfolios. Well-known examples include Barra’s [Equity Factor Models](../e/equity_factor_models.md) and the Axioma Risk Models.
+Financial institutions and quantitative firms often develop proprietary factor [risk models](../r/risk_models_in_trading.md). These models are crucial for estimating the risk and potential returns of portfolios. Well-known examples include Barra’s [Equity Factor Models](../e/equity_factor_models.md) and the Axioma [Risk Models](../r/risk_models_in_trading.md).
 
 ### Barra’s Equity Factor Models
 
-Barra, a subsidiary of MSCI, offers a range of [equity factor models](../e/equity_factor_models.md) that are widely used in the investment management industry. These models help investors analyze the sources of risk and return in their portfolios, leveraging a rich set of risk factors including country, currency, sector, and style factors.
+Barra, a subsidiary of MSCI, offers a range of [equity factor models](../e/equity_factor_models.md) that are widely used in the investment management industry. These models help investors analyze the sources of risk and return in their portfolios, leveraging a rich set of [risk factors](../r/risk_factors_in_trading.md) including country, currency, sector, and style factors.
 
 For further details: [MSCI Barra](https://www.msci.com/factor-investing)
 
 ### Axioma Risk Models
 
-Axioma, now part of Qontigo, provides factor risk models that integrate multiple sources of risk, capturing nuances across markets and asset classes. Their models are designed to support portfolio construction, [performance attribution](../p/performance_attribution.md), and regulatory compliance.
+Axioma, now part of Qontigo, provides factor [risk models](../r/risk_models_in_trading.md) that integrate multiple sources of risk, capturing nuances across markets and asset classes. Their models are designed to support portfolio construction, [performance attribution](../p/performance_attribution.md), and regulatory compliance.
 
 For further details: [Qontigo Axioma](https://www.qontigo.com/risk-solutions/)
 
@@ -75,7 +75,7 @@ ANNs and deep learning techniques can model complex relationships in financial d
 
 ### Random Forests and Gradient Boosting
 
-These [ensemble learning](../e/ensemble_learning.md) methods are used to identify and rank the importance of various factors affecting asset returns. Random forests aggregate the predictions of multiple [decision trees](../d/decision_trees.md), while gradient boosting focuses on optimizing the model performance by addressing errors iteratively.
+These [ensemble learning](../e/ensemble_learning.md) methods are used to identify and rank the importance of various factors affecting asset returns. [Random forests](../r/random_forests_in_trading.md) aggregate the predictions of multiple [decision trees](../d/decision_trees.md), while gradient boosting focuses on optimizing the model performance by addressing errors iteratively.
 
 ## Conclusion
 

@@ -6,7 +6,7 @@ High-frequency statistical [arbitrage](../a/arbitrage.md) (HFSA) is a sophistica
 
 ### Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md), often referred to as "stat arb," is a class of [trading strategies](../t/trading_strategies.md) that utilize statistical and mathematical models to identify and exploit price inefficiencies between related financial instruments. The fundamental premise is that the prices of correlated securities will, over time, revert to a mean value, allowing traders to profit from temporary deviations.
+Statistical [arbitrage](../a/arbitrage.md), often referred to as "stat arb," is a class of [trading strategies](../t/trading_strategies.md) that utilize statistical and [mathematical models](../m/mathematical_models_in_trading.md) to identify and exploit price inefficiencies between related financial instruments. The fundamental premise is that the prices of correlated securities will, over time, revert to a mean value, allowing traders to profit from temporary deviations.
 
 ### High-Frequency Trading (HFT)
 
@@ -24,7 +24,7 @@ Developing the algorithms used in HFSA requires expertise in both [quantitative 
 
 #### Machine Learning and Artificial Intelligence
 
-In recent years, the integration of machine learning (ML) and artificial intelligence (AI) has become increasingly common in HFSA. These technologies enable the development of more adaptive and predictive models, allowing traders to refine their strategies based on [real-time market data](../r/real-time_market_data.md).
+In recent years, the integration of machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) has become increasingly common in HFSA. These technologies enable the development of more adaptive and [predictive models](../p/predictive_models_in_trading.md), allowing traders to refine their strategies based on [real-time market data](../r/real-time_market_data.md).
 
 ### Data Collection and Analysis
 
@@ -36,7 +36,7 @@ To implement HFSA strategies effectively, traders require specialized infrastruc
 
 - **Colocation Services**: Housing trading servers in close proximity to exchange servers to reduce latency.
 - **Low-Latency Networks**: High-speed communication networks that facilitate rapid data transmission and order execution.
-- **[Order Management Systems](../o/order_management_systems.md) (OMS)**: Software platforms that manage the placement, execution, and monitoring of large volumes of trades.
+- **[Order Management Systems](../o/order_management_systems.md) (OMS)**: [Software platforms](../s/software_platforms_for_trading.md) that manage the placement, execution, and monitoring of large volumes of trades.
 
 ### Risk Management
 
@@ -80,7 +80,7 @@ HFSA firms must invest in robust cybersecurity measures to protect against hacki
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by mathematician James Simons, is renowned for its application of mathematical models and high-frequency trading techniques. The firm's Medallion Fund has consistently achieved remarkable returns, attributed to its [quantitative trading](../q/quantitative_trading.md) strategies, including HFSA.
+Renaissance Technologies, founded by mathematician James Simons, is renowned for its application of [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency trading techniques. The firm's Medallion Fund has consistently achieved remarkable returns, attributed to its [quantitative trading](../q/quantitative_trading.md) strategies, including HFSA.
 
 ### Two Sigma
 

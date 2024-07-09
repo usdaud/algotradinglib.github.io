@@ -75,7 +75,7 @@ Algo trading, or [algorithmic trading](../a/algorithmic_trading.md), involves us
 ### Use of WLS in Algo Trading
 
 1. **Address Heteroscedasticity**: Financial data often exhibits heteroscedasticity due to varying market volatility. WLS helps in creating more reliable models.
-2. **Improve Model Accuracy**: By assigning appropriate weights, WLS improves the precision of the predictive models used in [trading algorithms](../t/trading_algorithms.md).
+2. **Improve Model Accuracy**: By assigning appropriate weights, WLS improves the precision of the [predictive models](../p/predictive_models_in_trading.md) used in [trading algorithms](../t/trading_algorithms.md).
 3. **Enhance [Risk Management](../r/risk_management.md)**: Better model accuracy translates to more effective [risk management](../r/risk_management.md) strategies in trading.
 
 ## Practical Example
@@ -96,4 +96,4 @@ By incorporating WLS, the analyst achieves a model that better adjusts to varyin
 
 Weighted Least Squares is a powerful extension of ordinary least squares, providing robustness to heteroscedasticity and improving model accuracy. Its application is particularly valuable in fields like [algorithmic trading](../a/algorithmic_trading.md), where precision and reliability are paramount. Understanding and applying WLS equips analysts and traders with the tools to address real-world data complexities, leading to more informed and effective decision-making.
 
-For further information or in-depth examples, consulting specialized statistical texts or comprehensive resources such as econometrics literature is recommended.
+For further information or in-depth examples, consulting specialized statistical texts or comprehensive resources such as [econometrics](../e/econometrics_in_trading.md) literature is recommended.

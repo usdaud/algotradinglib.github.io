@@ -16,7 +16,7 @@
 
 **2. Signal Generation**: 
    - Signals are based on the deviation from the historical price relationship. When the price spread between the two instruments widens beyond certain thresholds, a trading opportunity signal is generated.
-   - Common triggering methods include moving averages, z-scores, or [Bollinger Bands](../b/bollinger_bands.md).
+   - Common triggering methods include moving averages, [z-scores](../z/z-scores_in_trading.md), or [Bollinger Bands](../b/bollinger_bands.md).
 
 **3. Entry and Exit Signals**: 
    - Entry signals indicate when to initiate a pairs trade based on a preset threshold of divergence.
@@ -34,7 +34,7 @@
    - High correlation may indicate potential pairs but needs further statistical testing.
 
 **3. Signal Thresholds**:
-   - Z-scores measure how many standard deviations an element is from the mean, useful in identifying outliers in the spread changes.
+   - [Z-scores](../z/z-scores_in_trading.md) measure how many standard deviations an element is from the mean, useful in identifying outliers in the spread changes.
    - [Bollinger Bands](../b/bollinger_bands.md) apply moving averages and standard deviation bands to analyze volatility and signal potential trades when prices hit the bands.
 
 **4. Moving Averages**:
@@ -78,7 +78,7 @@ Consider a [pairs trading](../p/pairs_trading.md) strategy involving two stocks 
 **3. Signal Generation**:
    - Calculate the spread: \( \text{spread}_t = \text{AAPL}_t - \beta \cdot \text{MSFT}_t \) where \( \beta \) is obtained from regression.
    - Compute the moving average and the standard deviation of the spread.
-   - Generate signals based on Z-scores: If z-score > 2, short AAPL and long MSFT; if z-score < -2, long AAPL and short MSFT.
+   - Generate signals based on [Z-scores](../z/z-scores_in_trading.md): If z-score > 2, short AAPL and long MSFT; if z-score < -2, long AAPL and short MSFT.
 
 **4. [Backtesting](../b/backtesting.md)**:
    - Simulate the pairs trades over historical data to measure profitability and risks.
@@ -97,8 +97,8 @@ Several platforms and tools facilitate [pairs trading](../p/pairs_trading.md) st
    - Provides an open-source platform for [algorithmic trading](../a/algorithmic_trading.md) strategies including [pairs trading](../p/pairs_trading.md).
    - Offers extensive documentation and community support for developing and [backtesting](../b/backtesting.md) [trading models](../t/trading_models.md).
 
-**2. Quantopian (now merged with Interactive Brokers)** (https://www.interactivebrokers.com/)
-   - Initially an independent platform, it now integrates with Interactive Brokers offering [algorithmic trading](../a/algorithmic_trading.md) tools.
+**2. Quantopian (now merged with [Interactive Brokers](../i/interactive_brokers.md))** (https://www.interactivebrokers.com/)
+   - Initially an independent platform, it now integrates with [Interactive Brokers](../i/interactive_brokers.md) offering [algorithmic trading](../a/algorithmic_trading.md) tools.
    - Users can develop, test, and deploy [pairs trading](../p/pairs_trading.md) algorithms.
 
 **3. MetaTrader** (https://www.[metatrader4](../m/metatrader4.md).com/)

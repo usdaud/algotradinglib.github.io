@@ -14,7 +14,7 @@ Kitchin Cycles usually span between 40 to 60 months, with an average duration of
 ### Economic Indicators
 Several [economic indicators](../e/economic_indicators.md) reveal the presence of Kitchin Cycles, including:
 
-1. **Gross Domestic Product (GDP)**: Fluctuations in GDP growth rates often signal different phases of Kitchin Cycles.
+1. **Gross Domestic Product (GDP)**: Fluctuations in GDP [growth rates](../g/growth_rates_in_trading.md) often signal different phases of Kitchin Cycles.
 2. **Stock Market Indices**: Indices such as the S&P 500 or Dow Jones Industrial Average frequently exhibit periodic highs and lows corresponding to Kitchin Cycles.
 3. **Interest Rates**: Changes in central bank policies and prevailing interest rates can also reflect these cycles.
 4. **Business Inventories**: Adjustments in inventory levels among businesses are a primary driver of these cycles.

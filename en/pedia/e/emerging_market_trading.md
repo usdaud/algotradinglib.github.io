@@ -4,7 +4,7 @@
 
 ### Key Characteristics of Emerging Markets
 
-- **Economic Growth:** Emerging markets generally experience higher economic growth rates compared to developed economies.
+- **Economic Growth:** Emerging markets generally experience higher economic [growth rates](../g/growth_rates_in_trading.md) compared to developed economies.
 - **Market Volatility:** Higher levels of volatility are common, driven by political instability, economic factors, and currency fluctuations.
 - **Market Restrictions:** Governments may impose capital controls, affecting the flow of investments.
 - **Institutional Development:** Financial and regulatory institutions are often less robust compared to developed markets.
@@ -19,13 +19,13 @@
 
 ### Advantages of Trading in Emerging Markets
 
-1. **High Growth Potential:** Faster economic growth rates offer opportunities for substantial gains.
+1. **High Growth Potential:** Faster economic [growth rates](../g/growth_rates_in_trading.md) offer opportunities for substantial gains.
 2. **Diversification:** Adds variety to portfolios, reducing exposure to developed market risks.
 3. **High Yield:** Potential for higher returns due to undervalued assets.
 
 ### Risks Involved in Emerging Market Trading
 
-1. **Political Risk:** Changes in government policies can adversely impact investments.
+1. **Political Risk:** Changes in [government policies](../g/government_policies_in_trading.md) can adversely impact investments.
 2. **Currency Risk:** High volatility in exchange rates can affect returns.
 3. **[Liquidity Risk](../l/liquidity_risk.md):** Lower levels of market liquidity can make buying and selling securities a challenge.
 4. **Regulatory Risk:** Regulatory frameworks may be less stringent, leading to potential issues.
@@ -40,7 +40,7 @@
 ### Technological Influences on Emerging Market Trading
 
 - **[Algorithmic Trading](../a/algorithmic_trading.md):** Enhanced execution speed and efficiency in trading emerging market securities using computer algorithms.
-- **Blockchain Technology:** Increased transparency and security in transactions.
+- **[Blockchain](../b/blockchain_in_trading.md) Technology:** Increased transparency and security in transactions.
 - **Fintech Platforms:** Lowered barriers to entry for retail investors.
 
 ### Leading Companies in Emerging Market Trading

@@ -29,7 +29,7 @@ SVM models classify data points by finding optimal hyperplanes, making them effe
 ### 2. Unsupervised Learning
 
 #### K-means Clustering
-K-means clustering partitions data into distinct groups based on similarity, enabling traders to identify market regimes or segment stocks with similar behavior.
+[K-means clustering](../k/k-means_clustering_in_trading.md) partitions data into distinct groups based on similarity, enabling traders to identify market regimes or segment stocks with similar behavior.
 
 #### Principal Component Analysis (PCA)
 PCA reduces dimensionality by transforming data into a set of orthogonal components. This method is useful for eliminating noise and uncovering hidden patterns in complex market data.
@@ -37,11 +37,11 @@ PCA reduces dimensionality by transforming data into a set of orthogonal compone
 ### 3. Deep Learning
 
 #### Neural Networks
-Neural networks, especially deep learning models like Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), are adept at capturing non-linear relationships in data. These models are employed to forecast stock prices, detect anomalies, and generate high-frequency [trading strategies](../t/trading_strategies.md).
+[Neural networks](../n/neural_networks_in_trading.md), especially deep learning models like Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) and Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs), are adept at capturing non-linear relationships in data. These models are employed to forecast stock prices, detect anomalies, and generate high-frequency [trading strategies](../t/trading_strategies.md).
 
 ## Genetic Algorithms
 
-Genetic algorithms mimic the process of natural selection to solve optimization problems. In trading, these algorithms are used to evolve [trading strategies](../t/trading_strategies.md) through iterations of selection, crossover, and mutation, resulting in highly optimized and adaptive models.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) mimic the process of natural selection to solve optimization problems. In trading, these algorithms are used to evolve [trading strategies](../t/trading_strategies.md) through iterations of selection, crossover, and mutation, resulting in highly optimized and adaptive models.
 
 ## Ensemble Methods
 
@@ -61,7 +61,7 @@ NLP techniques are used to analyze textual data, such as news articles, social m
 [QuantConnect](https://www.quantconnect.com) provides a platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies using Python and C#. It offers access to extensive historical data and cloud-based [backtesting](../b/backtesting.md) tools.
 
 ### Numerai
-[Numerai](https://numer.ai) is a hedge fund that crowdsources machine learning models to manage its portfolio. Data scientists build and submit predictive models to compete in a global tournament, improving their algorithms over time.
+[Numerai](https://numer.ai) is a hedge fund that crowdsources machine learning models to manage its portfolio. Data scientists build and submit [predictive models](../p/predictive_models_in_trading.md) to compete in a global tournament, improving their algorithms over time.
 
 ### Alpaca
 [Alpaca](https://alpaca.markets) offers a commission-free trading platform with APIs for algo trading. It provides resources and tools for building and executing [trading algorithms](../t/trading_algorithms.md).
@@ -71,4 +71,4 @@ NLP techniques are used to analyze textual data, such as news articles, social m
 
 ## Conclusion
 
-[Predictive modeling](../p/predictive_modeling.md) techniques are vital for the success of [algorithmic trading](../a/algorithmic_trading.md). By leveraging a combination of statistical methods, machine learning algorithms, genetic algorithms, ensemble methods, and NLP, traders can develop robust strategies to navigate complex financial markets. These techniques enable traders to analyze vast amounts of data, identify patterns, and make data-driven decisions that optimize [trading performance](../t/trading_performance.md).
+[Predictive modeling](../p/predictive_modeling.md) techniques are vital for the success of [algorithmic trading](../a/algorithmic_trading.md). By leveraging a combination of statistical methods, machine [learning algorithms](../l/learning_algorithms_in_trading.md), [genetic algorithms](../g/genetic_algorithms_in_trading.md), ensemble methods, and NLP, traders can develop robust strategies to navigate complex financial markets. These techniques enable traders to analyze vast amounts of data, identify patterns, and make data-driven decisions that optimize [trading performance](../t/trading_performance.md).

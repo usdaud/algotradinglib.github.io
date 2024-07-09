@@ -43,7 +43,7 @@ Iceberg orders are large orders divided into smaller, visible chunks. Only a sma
 [Learn More](https://www.investopedia.com/terms/i/icebergorder.asp)
 
 ### Adaptive Order Types
-Adaptive order types, such as Volume-Weighted Average Price (VWAP) and Time-Weighted Average Price (TWAP), adjust the order execution strategy based on the market conditions. They aim to execute the order progressively to minimize the market impact and increase the execution probability.
+Adaptive [order types](../o/order_types_in_trading.md), such as Volume-Weighted Average Price (VWAP) and Time-Weighted Average Price (TWAP), adjust the order execution strategy based on the market conditions. They aim to execute the order progressively to minimize the market impact and increase the execution probability.
 [Learn More](https://www.interactivebrokers.com/en/index.php?f=1468)
 
 ### Smart Order Routing (SOR)

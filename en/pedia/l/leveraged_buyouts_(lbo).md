@@ -12,7 +12,7 @@ In a typical LBO, a financial sponsor, such as a private equity firm, seeks to a
 
 2. **Debt Financing**: The debt portion of the financing comes from various sources, including:
    - **Senior Debt**: This is the primary source of debt financing in an LBO and typically has the highest priority in the capital structure. It is secured against the assets of the target company and may include term loans and revolving credit facilities.
-   - **Junior Debt (Mezzanine Financing)**: This represents a secondary layer of debt financing, subordinate to senior debt but senior to equity. It often carries higher interest rates and may include warrants or options to align the interests of lenders and equity holders.
+   - **Junior Debt (Mezzanine Financing)**: This represents a secondary layer of debt financing, subordinate to senior debt but senior to equity. It often carries higher interest rates and may include [warrants](../w/warrants_in_trading.md) or options to align the interests of lenders and equity holders.
    - **Subordinated Debt**: This is further down the capital structure hierarchy. It carries even higher interest rates due to its increased risk.
 
 3. **Cash Flow Management**: Effective cash flow management is crucial for servicing the debt incurred in an LBO. This involves meticulous planning of operating cash flows, working capital requirements, capital expenditures, and other financial obligations.
@@ -49,7 +49,7 @@ While LBOs offer substantial potential rewards, they also entail significant ris
 
 3. **Interest Rate Risk**: Variations in interest rates can influence the cost of debt servicing. Rising interest rates can lead to higher interest expenses, putting additional strain on the cash flows of the target company.
 
-4. **Market and Economic Risk**: Economic downturns and adverse market conditions can impact the performance of the target company and its ability to meet debt obligations. A recession can result in reduced revenue, lower profit margins, and constrained cash flows.
+4. **Market and Economic Risk**: Economic downturns and adverse market conditions can impact the performance of the target company and its ability to meet debt obligations. A recession can result in reduced revenue, lower [profit margins](../p/profit_margins_in_trading.md), and constrained cash flows.
 
 5. **Exit Risk**: Achieving a successful exit at the desired valuation can be challenging. Market conditions, industry trends, and competitive pressures can affect the timing and valuation of exit strategies, impacting the anticipated returns for financial sponsors.
 
@@ -87,7 +87,7 @@ Financial sponsors, typically private equity firms, play an integral role in orc
 
 1. **Deal Origination and Sourcing**: Identifying suitable LBO candidates requires an in-depth understanding of industry dynamics, market trends, and financial performance. Financial sponsors leverage their network, industry expertise, and research capabilities to source potential targets.
 
-2. **Due Diligence and Valuation**: Comprehensive due diligence is essential to assess the target company’s financial health, operational efficiency, and growth prospects. The valuation process involves detailed [financial modeling](../f/financial_modeling.md), scenario analysis, and sensitivity testing to determine the appropriate purchase price and financing structure.
+2. **Due Diligence and Valuation**: Comprehensive due diligence is essential to assess the target company’s financial health, [operational efficiency](../o/operational_efficiency_in_trading.md), and growth prospects. The valuation process involves detailed [financial modeling](../f/financial_modeling.md), scenario analysis, and sensitivity testing to determine the appropriate purchase price and financing structure.
 
 3. **Structuring and Negotiation**: Structuring the deal involves determining the optimal mix of debt and equity financing. Financial sponsors negotiate with lenders, investors, and the target company’s stakeholders to finalize the terms of the transaction.
 

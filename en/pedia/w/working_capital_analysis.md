@@ -1,6 +1,6 @@
 # Working Capital Analysis
 
-Working capital analysis is a critical aspect of financial management, especially for businesses operating in volatile markets or dealing with fluctuating levels of demand. Essentially, working capital represents the difference between a company's current assets and current liabilities. This analysis helps in assessing the operational efficiency and short-term financial health of a business. It also provides insights into how well a company can manage its liquidity and meet short-term obligations.
+Working capital analysis is a critical aspect of financial management, especially for businesses operating in volatile markets or dealing with fluctuating levels of demand. Essentially, working capital represents the difference between a company's current assets and current liabilities. This analysis helps in assessing the [operational efficiency](../o/operational_efficiency_in_trading.md) and short-term financial health of a business. It also provides insights into how well a company can manage its liquidity and meet short-term obligations.
 
 ## Key Components of Working Capital
 
@@ -40,7 +40,7 @@ The formula for the working capital cycle is:
 Working Capital Cycle = Inventory Period + Receivables Period - Payables Period
 ```
 
-A shorter cycle indicates better liquidity and operational efficiency.
+A shorter cycle indicates better liquidity and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## Measures of Working Capital
 
@@ -118,4 +118,4 @@ More details can be found on their official website: [Toyota](https://www.toyota
 
 ## Conclusion
 
-Working capital analysis is indispensable for companies aiming for operational efficiency and financial stability. By continually monitoring and managing their current assets and liabilities, businesses can ensure they have the liquidity to meet short-term obligations, invest in growth opportunities, and navigate market uncertainties. Effective [working capital management](../w/working_capital_management.md) not only enhances a company’s profitability but also its overall value and competitive positioning in the market.
+Working capital analysis is indispensable for companies aiming for [operational efficiency](../o/operational_efficiency_in_trading.md) and financial stability. By continually monitoring and managing their current assets and liabilities, businesses can ensure they have the liquidity to meet short-term obligations, invest in growth opportunities, and navigate market uncertainties. Effective [working capital management](../w/working_capital_management.md) not only enhances a company’s profitability but also its overall value and competitive positioning in the market.

@@ -45,7 +45,7 @@ Before feeding data into an LSTM network, it needs to be preprocessed. Key steps
 An LSTM model is typically built using deep learning frameworks such as TensorFlow or PyTorch. Important layers include:
 
 1. **Input Layer:** Accepts the historical sequences.
-2. **LSTM Layers:** One or more layers that capture the temporal dependencies.
+2. **LSTM Layers:** One or more layers that capture the [temporal dependencies](../t/temporal_dependencies_in_trading.md).
 3. **Dense Layer:** A fully connected layer that outputs the prediction.
 
 ### Training the Model
@@ -130,6 +130,6 @@ Deep learning models often act as black boxes, making it difficult to interpret 
 
 ## Conclusion
 
-LSTM networks offer a powerful tool for forecasting in trading, capable of capturing complex temporal dependencies in [financial time series](../f/financial_time_series.md). Despite the challenges, such as computational demands and potential overfitting, the advantages of improved accuracy and robustness in predictions make LSTMs an invaluable asset for traders. By continually refining LSTM models and integrating them into [trading strategies](../t/trading_strategies.md), traders can achieve better insights and more informed decision-making in the dynamic landscape of financial markets.
+LSTM networks offer a powerful tool for forecasting in trading, capable of capturing complex [temporal dependencies](../t/temporal_dependencies_in_trading.md) in [financial time series](../f/financial_time_series.md). Despite the challenges, such as computational demands and potential overfitting, the advantages of improved accuracy and robustness in predictions make LSTMs an invaluable asset for traders. By continually refining LSTM models and integrating them into [trading strategies](../t/trading_strategies.md), traders can achieve better insights and more informed decision-making in the dynamic landscape of financial markets.
 
 For further information on LSTM models and their applications in trading, you can explore resources from financial technology firms specializing in [algorithmic trading](../a/algorithmic_trading.md) solutions, such as [Alpaca](https://alpaca.markets/) and [QuantConnect](https://www.quantconnect.com/).

@@ -1,6 +1,6 @@
 # Quasi-Newton Methods
 
-Quasi-Newton methods are an essential class of optimization algorithms widely used in various scientific and engineering fields, including [algorithmic trading](../a/algorithmic_trading.md). These methods are designed to solve nonlinear optimization problems more efficiently compared to the classical Newton's method. In the context of [algorithmic trading](../a/algorithmic_trading.md), quasi-Newton methods can play a critical role in parameter optimization, risk minimization, and improving predictive models for better market strategies.
+Quasi-Newton methods are an essential class of optimization algorithms widely used in various scientific and engineering fields, including [algorithmic trading](../a/algorithmic_trading.md). These methods are designed to solve nonlinear optimization problems more efficiently compared to the classical Newton's method. In the context of [algorithmic trading](../a/algorithmic_trading.md), quasi-Newton methods can play a critical role in parameter optimization, risk minimization, and improving [predictive models](../p/predictive_models_in_trading.md) for better market strategies.
 
 ## Overview of Quasi-Newton Methods
 
@@ -41,11 +41,11 @@ Effective [risk management](../r/risk_management.md) is crucial in trading. By u
 
 ### Predictive Models
 
-[Algorithmic trading](../a/algorithmic_trading.md) heavily relies on predictive models. Quasi-Newton methods can enhance these models by optimizing the underlying mathematical functions they are based on. This leads to more accurate predictions and better trading decisions.
+[Algorithmic trading](../a/algorithmic_trading.md) heavily relies on [predictive models](../p/predictive_models_in_trading.md). Quasi-Newton methods can enhance these models by optimizing the underlying mathematical functions they are based on. This leads to more accurate predictions and better trading decisions.
 
 ### Example Case: Optimizing a Machine Learning Model
 
-Consider a trading algorithm that predicts stock prices using a machine learning model like support vector machines (SVMs). Quasi-Newton methods such as BFGS or L-BFGS can be employed to optimize the SVM’s hyperparameters.
+Consider a trading algorithm that predicts stock prices using a machine learning model like [support vector machines](../s/support_vector_machines_in_trading.md) (SVMs). Quasi-Newton methods such as BFGS or L-BFGS can be employed to optimize the SVM’s hyperparameters.
 
 #### Steps:
 

@@ -12,7 +12,7 @@ Explicit costs are direct costs associated with trading. They are usually clear 
 
 Commissions are fees paid to brokers for executing trades. These fees can be either a fixed amount per trade or a percentage of the trade value. The structure and level of commissions can vary significantly between brokers and trading platforms.
 
-- **Example:** Interactive Brokers [website](https://www.interactivebrokers.com)
+- **Example:** [Interactive Brokers](../i/interactive_brokers.md) [website](https://www.interactivebrokers.com)
 
 #### b. Exchange Fees
 
@@ -68,7 +68,7 @@ TCA involves [analyzing trading costs](../a/analyzing_trading_costs.md) to ident
 
 ## The Role of Technology
 
-Advancements in technology have played a pivotal role in understanding and managing trading and execution costs. High-frequency trading, machine learning, and big data analytics are some of the technologies that have revolutionized the way [trading costs](../t/trading_costs.md) are approached.
+Advancements in technology have played a pivotal role in understanding and managing trading and execution costs. High-frequency trading, machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) are some of the technologies that have revolutionized the way [trading costs](../t/trading_costs.md) are approached.
 
 ### 1. High-Frequency Trading (HFT)
 
@@ -78,13 +78,13 @@ HFT involves using powerful computers to execute a large number of orders at ext
 
 ### 2. Machine Learning and AI
 
-Machine learning algorithms can analyze vast amounts of data to predict market movements and optimize order execution strategies. These algorithms can adapt to changing market conditions and continuously improve their performance.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze vast amounts of data to predict market movements and optimize order execution strategies. These algorithms can adapt to changing market conditions and continuously improve their performance.
 
 - **Example:** Two Sigma [website](https://www.twosigma.com)
 
 ### 3. Big Data Analytics
 
-Big data analytics involves analyzing large datasets to uncover patterns and insights that can be used to optimize [trading strategies](../t/trading_strategies.md). This can help in identifying the best times to trade and the most cost-effective ways to execute orders.
+[Big data analytics](../b/big_data_analytics_in_trading.md) involves analyzing large datasets to uncover patterns and insights that can be used to optimize [trading strategies](../t/trading_strategies.md). This can help in identifying the best times to trade and the most cost-effective ways to execute orders.
 
 - **Example:** Palantir Technologies [website](https://www.palantir.com)
 

@@ -106,7 +106,7 @@ In pair trading, algorithms use [valuation models](../v/valuation_models.md) to 
 
 ### Model Sensitivity
 
-[Valuation models](../v/valuation_models.md), especially DCF, are highly sensitive to input assumptions like discount rates and growth rates. Small changes can significantly impact the valuation outcome.
+[Valuation models](../v/valuation_models.md), especially DCF, are highly sensitive to input assumptions like discount rates and [growth rates](../g/growth_rates_in_trading.md). Small changes can significantly impact the valuation outcome.
 
 ### Over-Reliance on Historical Data
 
@@ -149,6 +149,6 @@ Several firms specialize in providing financial analysis tools and algorithms th
 - **[Morningstar](../m/morningstar.md):** [www.morningstar.com](www.morningstar.com)
 - **[Bloomberg](../b/bloomberg.md):** [www.bloomberg.com](www.bloomberg.com)
 - **[FactSet](../f/factset.md):** [www.factset.com](www.factset.com)
-- **S&P Global Market Intelligence:** [www.spglobal.com/marketintelligence](www.spglobal.com/marketintelligence)
+- **[S&P Global Market Intelligence](../s/snp_global_market_intelligence.md):** [www.spglobal.com/marketintelligence](www.spglobal.com/marketintelligence)
 
 In conclusion, valuation discount models are indispensable tools in the arsenal of algorithmic traders. By accurately assessing the intrinsic value of assets, these models enable traders to make informed decisions, optimize their portfolios, and enhance their [trading performance](../t/trading_performance.md) in the financial markets.

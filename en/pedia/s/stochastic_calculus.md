@@ -11,7 +11,7 @@ One of the principal concepts in stochastic calculus is Brownian motion, also kn
 1. **Continuity:** The paths of Brownian motion are continuous.
 2. **Starting Point:** The process starts at zero.
 3. **Independent Increments:** The movements of the process over non-overlapping intervals are independent.
-4. **Normal Distribution of Increments:** The change in the process over any interval is normally distributed with mean zero and variance equal to the length of the interval.
+4. **[Normal Distribution](../n/normal_distribution_in_trading.md) of Increments:** The change in the process over any interval is normally distributed with mean zero and variance equal to the length of the interval.
 
 In mathematical notation, a Brownian motion \( W(t) \) can be described by:
 \[ W(t) - W(s) \sim N(0, t-s) \quad \text{for} \quad t \geq s \]
@@ -64,7 +64,7 @@ Dynamic [portfolio optimization](../p/portfolio_optimization.md) uses stochastic
 
 ### Risk Management
 
-In its application to [risk management](../r/risk_management.md), stochastic calculus helps in modeling the dynamic behavior of various risk factors and quantifying the risk associated with financial portfolios. Value-at-Risk (VaR) metrics and sensitivities like Greek letters (Delta, Gamma, Vega, etc.) are often derived using models based on [stochastic processes](../s/stochastic_processes.md).
+In its application to [risk management](../r/risk_management.md), stochastic calculus helps in modeling the dynamic behavior of various [risk factors](../r/risk_factors_in_trading.md) and quantifying the risk associated with financial portfolios. Value-at-Risk (VaR) metrics and sensitivities like Greek letters (Delta, Gamma, Vega, etc.) are often derived using models based on [stochastic processes](../s/stochastic_processes.md).
 
 ## Tools and Libraries
 
@@ -107,7 +107,7 @@ Lévy processes extend the concept of Brownian motion by allowing jumps, making 
 
 ### Stochastic Control
 
-[Stochastic control](../s/stochastic_control.md) theory deals with decision-making in stochastic environments. It extends optimal control theory to cases where uncertainty is modeled by [stochastic processes](../s/stochastic_processes.md).
+[Stochastic control](../s/stochastic_control.md) theory deals with decision-making in stochastic environments. It extends optimal control theory to cases where [uncertainty](../u/uncertainty_in_trading.md) is modeled by [stochastic processes](../s/stochastic_processes.md).
 
 ### Stochastic Volatility Models
 

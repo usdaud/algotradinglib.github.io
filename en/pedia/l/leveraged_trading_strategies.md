@@ -33,7 +33,7 @@ A margin call occurs when the account's equity falls below the maintenance margi
 
 #### Arbitrage
 
-[Arbitrage](../a/arbitrage.md) strategies exploit price discrepancies of the same asset across different markets or instruments. Traditional [arbitrage](../a/arbitrage.md) involves buying low in one market and selling high in another, while statistical [arbitrage](../a/arbitrage.md) uses mathematical models to identify and exploit pricing inefficiencies.
+[Arbitrage](../a/arbitrage.md) strategies exploit price discrepancies of the same asset across different markets or instruments. Traditional [arbitrage](../a/arbitrage.md) involves buying low in one market and selling high in another, while statistical [arbitrage](../a/arbitrage.md) uses [mathematical models](../m/mathematical_models_in_trading.md) to identify and exploit pricing inefficiencies.
 
 #### Swing Trading
 
@@ -77,4 +77,4 @@ Leveraged trading is highly regulated due to its potential to magnify both gains
 
 ### Conclusion
 
-Leveraged [trading strategies](../t/trading_strategies.md) offer significant potential for enhanced returns by amplifying exposure to market movements. However, the associated risks require meticulous planning, sound [risk management](../r/risk_management.md) practices, and a deep understanding of market dynamics. By employing tools like [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and diversification, traders can mitigate some of the inherent risks and leverage their expertise to achieve their financial goals in the markets. Leveraged trading platforms such as Interactive Brokers, [eToro](../e/etoro.md), and MetaTrader provide comprehensive resources and tools to support traders in their pursuits.
+Leveraged [trading strategies](../t/trading_strategies.md) offer significant potential for enhanced returns by amplifying exposure to market movements. However, the associated risks require meticulous planning, sound [risk management](../r/risk_management.md) practices, and a deep understanding of market dynamics. By employing tools like [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and diversification, traders can mitigate some of the inherent risks and leverage their expertise to achieve their financial goals in the markets. Leveraged trading platforms such as [Interactive Brokers](../i/interactive_brokers.md), [eToro](../e/etoro.md), and MetaTrader provide comprehensive resources and tools to support traders in their pursuits.

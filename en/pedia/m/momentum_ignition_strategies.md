@@ -48,7 +48,7 @@ To gain a latency advantage, firms often use co-location services, which place t
 High-speed, low-latency network infrastructure ensures that trade instructions can be sent and confirmed with minimal delay.
 
 ### Machine Learning and AI
-Advanced machine learning algorithms can help in refining strategies by analyzing large datasets to identify subtle patterns and nuances in market behavior.
+Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can help in refining strategies by analyzing large datasets to identify subtle patterns and nuances in market behavior.
 
 ## Risks and Challenges
 

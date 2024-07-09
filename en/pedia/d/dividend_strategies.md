@@ -2,7 +2,7 @@
 
 Dividend strategies are a class of investment strategies that focus on stocks or other financial instruments that pay dividends. Dividends are a portion of a company's earnings that are paid out to shareholders, typically on a regular basis, such as quarterly or annually. Dividend strategies leverage these payments to generate a return on investment and can be especially appealing in low-interest-rate environments or for investors seeking a steady income stream.
 
-[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, enhances dividend strategies using computer algorithms to execute trades at speed and frequencies that a human trader cannot match. By employing advanced mathematical models and theories, these algorithms can identify patterns, forecast dividend payments, and execute trades - making the dividend strategy more efficient.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, enhances dividend strategies using computer algorithms to execute trades at speed and frequencies that a human trader cannot match. By employing advanced [mathematical models](../m/mathematical_models_in_trading.md) and theories, these algorithms can identify patterns, forecast dividend payments, and execute trades - making the dividend strategy more efficient.
 
 #### Key Concepts in Dividend Investing
 
@@ -45,7 +45,7 @@ The implementation of dividend strategies within the scope of [algorithmic tradi
     Collecting historical data on dividend payments, stock prices, financial statements, and market sentiment. Sources of data might include financial news websites, stock exchanges, and data marketplaces.
 
 2. **Model Development**:
-    Developing mathematical models and algorithms that can predict dividend payments, assess the financial health of companies, and identify trading opportunities based on dividend events. These models might use statistical methods, machine learning, or a combination of both.
+    Developing [mathematical models](../m/mathematical_models_in_trading.md) and algorithms that can predict dividend payments, assess the financial health of companies, and identify trading opportunities based on dividend events. These models might use statistical methods, machine learning, or a combination of both.
 
 3. **[Backtesting](../b/backtesting.md)**:
     Testing the developed algorithms against historical data to evaluate their performance. [Backtesting](../b/backtesting.md) helps refine strategy parameters, manage risk, and estimate potential returns.

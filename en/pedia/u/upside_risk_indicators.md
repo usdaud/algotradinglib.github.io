@@ -8,7 +8,7 @@ In the context of financial markets, risk is often perceived negatively, associa
 
 1. **Upside Beta**: Upside beta measures an asset’s performance relative to the market in uptrend conditions. It shows how much of the gains of the market are captured by the asset. If an asset’s upside beta is greater than 1, the asset is expected to outperform the market in favorable conditions.
 
-2. **[Sortino Ratio](../s/sortino_ratio.md)**: The [Sortino ratio](../s/sortino_ratio.md) is a modified version of the [Sharpe ratio](../s/sharpe_ratio.md) that differentiates harmful volatility from overall volatility by using [downside deviation](../d/downside_deviation.md) instead of standard deviation. Since it disregards upside volatility, it gives a clearer picture of downside risk while promoting upside potential.
+2. **[Sortino Ratio](../s/sortino_ratio.md)**: The [Sortino ratio](../s/sortino_ratio.md) is a modified version of the [Sharpe ratio](../s/sharpe_ratio.md) that differentiates harmful volatility from overall volatility by using [downside deviation](../d/downside_deviation.md) instead of standard deviation. Since it disregards upside volatility, it gives a clearer picture of downside risk while promoting [upside potential](../u/upside_potential_in_trading.md).
 
 3. **Gain-Loss Ratio**: This ratio compares the potential gains against potential losses. It evaluates the frequency and magnitude of positive returns relative to negative returns, providing insights into the risk-return dynamic of an asset.
 
@@ -72,7 +72,7 @@ The Omega ratio can be defined as:
 \[ \Omega(\alpha) = \frac{\int_{\alpha}^{\infty} [1 - F(r)]dr}{\int_{-\infty}^{\alpha} F(r)dr} \]
 
 where:
-- \( F(r) \) is the cumulative distribution function of returns.
+- \( F(r) \) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of returns.
 - \( \alpha \) is the threshold return level.
 
 ## Implementation in Trading Platforms
@@ -123,9 +123,9 @@ In sophisticated [trading systems](../t/trading_systems.md) like BlackRock's Ala
 
 1. **Machine Learning Integration**: [Upside risk](../u/upside_risk.md) indicators can be enhanced through machine learning models that predict future values, offering dynamic adjustments to [trading strategies](../t/trading_strategies.md).
 
-2. **Real-time Analytics**: With advancements in big data analytics and real-time data streams, [upside risk](../u/upside_risk.md) indicators can be calculated and applied in real-time, providing more responsive and adaptive [trading strategies](../t/trading_strategies.md).
+2. **Real-time Analytics**: With advancements in [big data analytics](../b/big_data_analytics_in_trading.md) and real-time data streams, [upside risk](../u/upside_risk.md) indicators can be calculated and applied in real-time, providing more responsive and adaptive [trading strategies](../t/trading_strategies.md).
 
-3. **Blockchain and Decentralized Finance (DeFi)**: In DeFi platforms, [upside risk](../u/upside_risk.md) indicators can be integrated to manage risks in decentralized portfolios, bringing more sophisticated [risk management](../r/risk_management.md) tools to the blockchain ecosystem.
+3. **[Blockchain](../b/blockchain_in_trading.md) and Decentralized Finance (DeFi)**: In DeFi platforms, [upside risk](../u/upside_risk.md) indicators can be integrated to manage risks in decentralized portfolios, bringing more sophisticated [risk management](../r/risk_management.md) tools to the [blockchain](../b/blockchain_in_trading.md) ecosystem.
 
 ## Conclusion
 

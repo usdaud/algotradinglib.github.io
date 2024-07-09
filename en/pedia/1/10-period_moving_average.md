@@ -68,7 +68,7 @@ One of the primary criticisms of moving averages is that they lag behind current
 
 ### False Signals
 
-In volatile or range-bound markets, moving averages can generate false signals. This happens because the price can frequently cross the moving average, causing the trader to repeatedly enter or exit the market unnecessarily.
+In volatile or range-bound markets, moving averages can generate [false signals](../f/false_signals_in_trading.md). This happens because the price can frequently cross the moving average, causing the trader to repeatedly enter or exit the market unnecessarily.
 
 ### Optimization
 

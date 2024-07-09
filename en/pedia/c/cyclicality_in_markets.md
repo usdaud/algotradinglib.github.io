@@ -11,7 +11,7 @@ Cyclicality in financial markets refers to the tendency of these markets to foll
 3. **Contraction**: Marked by decreasing economic activity, rising unemployment, and a slowing GDP.
 4. **Trough**: The lowest point of economic activity before the cycle begins anew with a period of expansion.
 
-[Economic indicators](../e/economic_indicators.md) such as GDP growth rates, employment figures, and inflation rates can be useful for identifying these cycles.
+[Economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), employment figures, and inflation rates can be useful for identifying these cycles.
 
 ## Market Cycles
 

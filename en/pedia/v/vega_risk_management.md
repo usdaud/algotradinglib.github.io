@@ -54,10 +54,10 @@ Several tools and platforms are available to assist in Vega [risk management](..
 2. **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md):** An advanced trading platform with features for options analysis, volatility studies, and real-time data.
    [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html)
 
-3. **OptionsHouse by E*TRADE:** Offers powerful tools and analytics for options traders to manage and hedge Vega risk.
+3. **OptionsHouse by [E*TRADE](../e/e_trade.md):** Offers powerful tools and analytics for options traders to manage and hedge Vega risk.
    [OptionsHouse](https://us.etrade.com/platforms/optionshouse)
 
-4. **Interactive Brokers:** Provides robust platforms for options trading with tools for Greek [risk management](../r/risk_management.md), including Vega.
+4. **[Interactive Brokers](../i/interactive_brokers.md):** Provides robust platforms for options trading with tools for Greek [risk management](../r/risk_management.md), including Vega.
    [Interactive Brokers](https://www.interactivebrokers.com/)
 
 #### Conclusion

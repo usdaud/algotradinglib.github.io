@@ -2,7 +2,7 @@
 
 [Algorithmic trading](../a/algorithmic_trading.md), or simply algotrading, refers to the use of computer algorithms to automate the process of trading financial instruments at high speeds and frequencies. These algorithms make decisions and execute trades based on pre-programmed criteria. The goal is to profit from market opportunities that are often transient and cannot be exploited through manual trading.
 
-One fascinating and evolving aspect of [algorithmic trading](../a/algorithmic_trading.md) is the use of reinforcement learning (RL), a subfield of artificial intelligence. This document explores the intricate relationship between reinforcement learning and [algorithmic trading](../a/algorithmic_trading.md), unveiling its potential, strategies, benefits, and challenges.
+One fascinating and evolving aspect of [algorithmic trading](../a/algorithmic_trading.md) is the use of reinforcement learning (RL), a subfield of [artificial intelligence](../a/artificial_intelligence_in_trading.md). This document explores the intricate relationship between reinforcement learning and [algorithmic trading](../a/algorithmic_trading.md), unveiling its potential, strategies, benefits, and challenges.
 
 # What is Reinforcement Learning?
 
@@ -24,7 +24,7 @@ Several RL algorithms have been adapted for use in [algorithmic trading](../a/al
 
 - **Q-Learning:** An off-policy RL algorithm where the agent learns the value of taking certain actions in given states. It utilizes a Q-table to store and update Q-values, which help in choosing actions that yield the highest rewards.
   
-- **Deep Q-Network (DQN):** An extension of Q-learning that uses deep neural networks to approximate Q-values. DQN is capable of handling large and complex state spaces, making it suitable for financial markets.
+- **Deep Q-Network (DQN):** An extension of Q-learning that uses deep [neural networks](../n/neural_networks_in_trading.md) to approximate Q-values. DQN is capable of handling large and complex state spaces, making it suitable for financial markets.
 
 - **Policy Gradient Methods:** These involve directly optimizing the policy, which maps states to actions, using gradient ascent. Examples include REINFORCE and Proximal Policy Optimization (PPO).
 
@@ -34,7 +34,7 @@ Several RL algorithms have been adapted for use in [algorithmic trading](../a/al
 
 To implement RL in [algorithmic trading](../a/algorithmic_trading.md), several steps need to be followed:
 
-1. **Defining the [Trading Environment](../t/trading_environment.md):** This involves setting up the simulation of a financial market, including historical price data, transaction costs, slippage, etc.
+1. **Defining the [Trading Environment](../t/trading_environment.md):** This involves setting up the [simulation](../s/simulation_in_trading.md) of a financial market, including historical price data, transaction costs, slippage, etc.
 
 2. **Formulating the State Space:** The state can include various features like current prices, historical prices, [technical indicators](../t/technical_indicators.md), trading volumes, etc.
 
@@ -98,8 +98,8 @@ Several companies and research institutions are at the forefront of integrating 
 
 - **[Alpaca](../a/alpaca.md)**: [Alpaca](../a/alpaca.md) provides commission-free trading APIs for real-time and historical market data. They leverage machine learning, including reinforcement learning, to offer advanced trading solutions. More information can be found on their [official website](https://alpaca.markets/).
 
-- **Numerai**: A hedge fund built according to a new model, Numerai applies machine learning algorithms to model the stock market. Their approach crowdsources predictive models from data scientists and has explored the use of reinforcement learning. Visit their [official website](https://numer.ai/) for more details.
+- **Numerai**: A hedge fund built according to a new model, Numerai applies machine [learning algorithms](../l/learning_algorithms_in_trading.md) to model the stock market. Their approach crowdsources [predictive models](../p/predictive_models_in_trading.md) from data scientists and has explored the use of reinforcement learning. Visit their [official website](https://numer.ai/) for more details.
 
-- **DeepMind**: Known for its advancements in artificial intelligence, DeepMind has delved into financial markets. Their research often touches on reinforcement learning applications in trading. More about their work can be found on their [website](https://deepmind.com/).
+- **DeepMind**: Known for its advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), DeepMind has delved into financial markets. Their research often touches on reinforcement learning applications in trading. More about their work can be found on their [website](https://deepmind.com/).
 
 By understanding and applying these principles, traders and financial analysts can harness the power of reinforcement learning to develop sophisticated and adaptive [trading strategies](../t/trading_strategies.md) that can potentially outperform traditional methods.

@@ -14,7 +14,7 @@ More information about the VIX and its calculation can be found on the [CBOE web
 
 VIX Options come in two primary types: call options and [put options](../p/put_options.md). 
 
-1. **VIX Call Options**: These give the holder the right, but not the obligation, to buy the VIX at a predetermined strike price on or before a specified expiration date. Investors utilize call options when they predict that market volatility will increase, typically during times of economic uncertainty or market downturns.
+1. **VIX Call Options**: These give the holder the right, but not the obligation, to buy the VIX at a predetermined strike price on or before a specified expiration date. Investors utilize call options when they predict that market volatility will increase, typically during times of economic [uncertainty](../u/uncertainty_in_trading.md) or market downturns.
 
 2. **VIX [Put Options](../p/put_options.md)**: These grant the holder the right to sell the VIX at a predefined strike price on or before the option's expiration date. Traders opt for [put options](../p/put_options.md) when they believe volatility will decrease, which often corresponds with the stabilizing of the market.
 

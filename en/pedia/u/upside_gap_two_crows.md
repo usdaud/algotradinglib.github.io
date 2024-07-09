@@ -38,7 +38,7 @@ For instance, traders can look at historical chart data in trading platforms or 
 
 ## Limitations and False Signals
 
-While the Upside Gap Two Crows pattern can be a powerful tool, it is not infallible. Here are some limitations and possibilities of false signals:
+While the Upside Gap Two Crows pattern can be a powerful tool, it is not infallible. Here are some limitations and possibilities of [false signals](../f/false_signals_in_trading.md):
 
 ### False Breakouts
 The pattern can sometimes indicate a bearish reversal, but the market might experience a [false breakout](../f/false_breakout.md). This occurs when prices briefly move below the confirmation level but then resume their upward trend. Traders should be cautious and may consider additional confirmations.

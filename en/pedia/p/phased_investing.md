@@ -66,7 +66,7 @@ Executing trades and monitoring performance are vital aspects of Phased Investin
 
 Leading platforms include:
 
-- **Interactive Brokers:** Offers a robust API for automating trades and accessing [real-time market data](../r/real-time_market_data.md). More information can be found on their website: [Interactive Brokers](https://www.interactivebrokers.com).
+- **[Interactive Brokers](../i/interactive_brokers.md):** Offers a robust API for automating trades and accessing [real-time market data](../r/real-time_market_data.md). More information can be found on their website: [Interactive Brokers](https://www.interactivebrokers.com).
   
 - **MetaTrader:** Popular among retail traders for its comprehensive trading tools and user-friendly interface. More information available at [MetaTrader](https://www.metatrader4.com).
 

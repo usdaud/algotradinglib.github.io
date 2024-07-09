@@ -19,7 +19,7 @@ The last phase in the W-shaped pattern is a sustained recovery where [economic i
 ## Implications for Algorithmic Trading
 
 ### Volatility Management
-[Algorithmic trading](../a/algorithmic_trading.md) systems, which execute trades based on pre-defined strategies and mathematical models, need to account for the increased volatility typical of a W-shaped recovery. The unpredictable nature of the dual economic downturns requires algorithms to be adaptable and robust, capable of handling sudden market shifts without significant losses.
+[Algorithmic trading](../a/algorithmic_trading.md) systems, which execute trades based on pre-defined strategies and [mathematical models](../m/mathematical_models_in_trading.md), need to account for the increased volatility typical of a W-shaped recovery. The unpredictable nature of the dual economic downturns requires algorithms to be adaptable and robust, capable of handling sudden market shifts without significant losses.
 
 ### Predictive Analytics
 Advanced [predictive analytics](../p/predictive_analytics.md) can be beneficial during a W-shaped recovery. Algorithms can be designed to detect early signs of a secondary decline, such as slowing growth in key [economic indicators](../e/economic_indicators.md) or fall-offs in trading volume. By leveraging machine learning techniques, these algorithms can adapt to new data and improve their predictive accuracy over time.

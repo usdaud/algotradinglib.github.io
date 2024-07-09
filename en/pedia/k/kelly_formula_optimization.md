@@ -1,6 +1,6 @@
 # Kelly Formula Optimization
 
-Kelly formula optimization is a crucial concept in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). Essentially, it provides a strategy for maximizing the growth rate of an investment portfolio over the long term by determining the optimal size of bets or trades. This method is especially important for traders and investors looking to balance risk and reward efficiently. In the context of [algorithmic trading](../a/algorithmic_trading.md), where decision-making is driven by mathematical models and algorithms, the Kelly formula stands out as an essential tool. This document explains the Kelly formula, dives into its mathematical foundation, and explores its practical application and optimization in [algorithmic trading](../a/algorithmic_trading.md).
+Kelly formula optimization is a crucial concept in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). Essentially, it provides a strategy for maximizing the growth rate of an investment portfolio over the long term by determining the optimal size of bets or trades. This method is especially important for traders and investors looking to balance risk and reward efficiently. In the context of [algorithmic trading](../a/algorithmic_trading.md), where decision-making is driven by [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, the Kelly formula stands out as an essential tool. This document explains the Kelly formula, dives into its mathematical foundation, and explores its practical application and optimization in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## The Kelly Formula Explained
 
@@ -74,7 +74,7 @@ This yields the Kelly formula as defined earlier.
 
 ### Application in Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), the [Kelly criterion](../k/kelly_criterion.md) can help determine the position size for trades based on the expected probabilities and outcomes derived from historical data and predictive models.
+In [algorithmic trading](../a/algorithmic_trading.md), the [Kelly criterion](../k/kelly_criterion.md) can help determine the position size for trades based on the expected probabilities and outcomes derived from historical data and [predictive models](../p/predictive_models_in_trading.md).
 
 #### Example
 

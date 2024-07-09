@@ -21,7 +21,7 @@ Public cloud services, provided by third-party vendors, offer flexibility and sc
 
 1. **Scalability**: Easily scale resources up or down based on trading volume and market conditions.
 2. **Cost Efficiency**: Pay-as-you-go pricing models help manage IT expenses effectively.
-3. **Innovation**: Access to cutting-edge technologies such as machine learning and big data analytics.
+3. **Innovation**: Access to cutting-edge technologies such as machine learning and [big data analytics](../b/big_data_analytics_in_trading.md).
 
 ### Integration Layer
 
@@ -42,7 +42,7 @@ Integrated [risk management](../r/risk_management.md) systems can run simulation
 
 ### Data Analytics and Machine Learning
 
-[Algorithmic trading](../a/algorithmic_trading.md) heavily relies on data analytics to devise and optimize [trading strategies](../t/trading_strategies.md). Hybrid cloud systems empower trading firms to harness the computational power of public clouds for big data processing and machine learning, while protecting [proprietary algorithms](../p/proprietary_algorithms.md) and sensitive data in private clouds.
+[Algorithmic trading](../a/algorithmic_trading.md) heavily relies on data analytics to devise and optimize [trading strategies](../t/trading_strategies.md). Hybrid cloud systems empower trading firms to harness the computational power of public clouds for [big data](../b/big_data_in_trading.md) processing and machine learning, while protecting [proprietary algorithms](../p/proprietary_algorithms.md) and sensitive data in private clouds.
 
 ## Examples of Hybrid Cloud Solutions in Financial Services
 
@@ -52,7 +52,7 @@ Several companies specialize in providing hybrid cloud solutions tailored to the
 
 2. **Microsoft Azure for Financial Services**: Azure provides a comprehensive set of cloud services aimed at enabling financial institutions to modernize their infrastructure. Detailed insights are available at [Microsoft Azure for Financial Services](https://azure.microsoft.com/en-us/solutions/financial-services/).
 
-3. **Google Cloud for Financial Services**: Google Cloud offers a suite of solutions leveraging AI and big data to enhance trading, [risk management](../r/risk_management.md), and customer experiences. Explore further at [Google Cloud for Financial Services](https://cloud.google.com/solutions/financial-services).
+3. **Google Cloud for Financial Services**: Google Cloud offers a suite of solutions leveraging AI and [big data](../b/big_data_in_trading.md) to enhance trading, [risk management](../r/risk_management.md), and customer experiences. Explore further at [Google Cloud for Financial Services](https://cloud.google.com/solutions/financial-services).
 
 ## Security Considerations
 

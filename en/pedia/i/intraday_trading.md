@@ -36,7 +36,7 @@ News-based trading relies on reacting quickly to news events, such as earnings r
 ## Tools and Technologies
 
 ### Trading Platforms
-Modern trading platforms like MetaTrader, Interactive Brokers, and [Robinhood](../r/robinhood.md) offer advanced features such as real-time quotes, charting tools, and automated trading capabilities, making them indispensable for day traders.
+Modern trading platforms like MetaTrader, [Interactive Brokers](../i/interactive_brokers.md), and [Robinhood](../r/robinhood.md) offer advanced features such as real-time quotes, charting tools, and automated trading capabilities, making them indispensable for day traders.
 
 ### Direct Market Access (DMA)
 Direct Market Access allows traders to access financial markets directly, bypassing intermediaries. This results in faster execution times, which can be critical in intraday trading.
@@ -81,7 +81,7 @@ Intraday traders must adhere to regulatory requirements and comply with market r
 ## Companies and Resources
 
 ### Interactive Brokers
-Interactive Brokers offers a comprehensive trading platform suitable for intraday trading, with access to multiple asset classes and global markets. More information can be found on their [official website](https://www.interactivebrokers.com/).
+[Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive trading platform suitable for intraday trading, with access to multiple asset classes and global markets. More information can be found on their [official website](https://www.interactivebrokers.com/).
 
 ### MetaTrader
 MetaTrader (MT4 and MT5) is widely used by intraday traders for its robust [technical analysis](../t/technical_analysis.md) capabilities and automated trading features through Expert Advisors (EAs). More information can be found on their [official site](https://www.metatrader4.com/).

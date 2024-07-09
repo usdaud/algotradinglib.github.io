@@ -9,7 +9,7 @@ MotiveWave is a comprehensive trading platform designed for professional traders
 3. **Gann Analysis**: Tools for [Gann Theory](../g/gann_theory.md) analysis, including [Gann Angles](../g/gann_angles.md), Squares, and Fans.
 4. **Automated Trading**: Supports automated [trading strategies](../t/trading_strategies.md) through built-in tools and custom scripting.
 5. **Market Analysis**: Comprehensive suite of market analysis tools, including Fibonacci, [Harmonic Patterns](../h/harmonic_patterns.md), and [Volume Analysis](../v/volume_analysis.md).
-6. **Order Management**: Advanced order management system with various order types and execution capabilities.
+6. **[Order Management](../o/order_management_in_trading.md)**: Advanced [order management](../o/order_management_in_trading.md) system with various [order types](../o/order_types_in_trading.md) and execution capabilities.
 7. **Strategy [Backtesting](../b/backtesting.md)**: Powerful [backtesting](../b/backtesting.md) engine to test [trading strategies](../t/trading_strategies.md) using historical data.
 8. **[Risk Management](../r/risk_management.md)**: In-built [risk management](../r/risk_management.md) tools to monitor and control trading risks.
 9. **Multi-Broker Support**: Compatible with various brokers and data feeds for seamless trading and data acquisition.

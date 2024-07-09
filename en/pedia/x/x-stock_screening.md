@@ -1,6 +1,6 @@
 # X-Stock Screening
 
-X-Stock Screening is an advanced process used in [algorithmic trading](../a/algorithmic_trading.md) to filter through a large set of stocks and identify those that meet specific criteria for further analysis or trading. This technique leverages quantitative methods, data analysis, and often machine learning algorithms to systematically evaluate stocks rather than relying on manual selection or gut instincts. This method significantly improves the efficiency and effectiveness of identifying potentially profitable trades in the financial markets.
+X-Stock Screening is an advanced process used in [algorithmic trading](../a/algorithmic_trading.md) to filter through a large set of stocks and identify those that meet specific criteria for further analysis or trading. This technique leverages quantitative methods, data analysis, and often machine [learning algorithms](../l/learning_algorithms_in_trading.md) to systematically evaluate stocks rather than relying on manual selection or gut instincts. This method significantly improves the efficiency and effectiveness of identifying potentially profitable trades in the financial markets.
 
 ## Key Components of X-Stock Screening
 
@@ -29,8 +29,8 @@ Once the data is collected, the next step is to define the criteria for screenin
 Designing the algorithm involves translating screening criteria into programmable instructions. This requires knowledge of both finance and programming. Common algorithmic methods include:
 
 - **Rule-Based Screening**: Logical rules (e.g., P/E ratio < 15 and dividend yield > 3%) are implemented to filter stocks.
-- **Machine Learning Models**: Techniques like [decision trees](../d/decision_trees.md), random forests, or neural networks can identify patterns and predict stock performance based on historical data.
-- **Optimization Algorithms**: Techniques like genetic algorithms or gradient descent can fine-tune stock selection criteria for better performance.
+- **Machine Learning Models**: Techniques like [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), or [neural networks](../n/neural_networks_in_trading.md) can identify patterns and predict stock performance based on historical data.
+- **Optimization Algorithms**: Techniques like [genetic algorithms](../g/genetic_algorithms_in_trading.md) or gradient descent can fine-tune stock selection criteria for better performance.
 
 ### Implementation Frameworks
 
@@ -68,7 +68,7 @@ Stock screening can identify undervalued stocks trading below their intrinsic va
 
 ### Growth Investing
 
-Screening for high-[growth stocks](../g/growth_stocks.md) involves metrics like revenue growth rates, earnings per share (EPS) growth, and market expansion potential.
+Screening for high-[growth stocks](../g/growth_stocks.md) involves metrics like revenue [growth rates](../g/growth_rates_in_trading.md), earnings per share (EPS) growth, and market expansion potential.
 
 ### Momentum Investing
 

@@ -16,15 +16,15 @@ Revenue growth is another critical factor. Companies that consistently boost the
 
 ### Future Growth Projections
 
-Analysts' predictions and company projections of future growth also play a significant role. These forward-looking estimates help in identifying companies that might sustain high growth rates over the coming years.
+Analysts' predictions and company projections of future growth also play a significant role. These forward-looking estimates help in identifying companies that might sustain high [growth rates](../g/growth_rates_in_trading.md) over the coming years.
 
 ### Industry and Sector Trends
 
-Growth-weighted indices often place significant emphasis on sectors that show promising future trends, such as technology, biotechnology, and renewable energy. These sectors typically exhibit higher growth rates compared to more mature industries.
+Growth-weighted indices often place significant emphasis on sectors that show promising future trends, such as technology, biotechnology, and renewable energy. These sectors typically exhibit higher [growth rates](../g/growth_rates_in_trading.md) compared to more mature industries.
 
 ### Financial Health Metrics
 
-Financial stability and health indicators, including debt-to-equity ratios, cash flow, and profit margins, are essential to assess whether a company's growth is sustainable.
+Financial stability and health indicators, including debt-to-equity ratios, cash flow, and [profit margins](../p/profit_margins_in_trading.md), are essential to assess whether a company's growth is sustainable.
 
 ## Benefits of Growth-Weighted Indices
 

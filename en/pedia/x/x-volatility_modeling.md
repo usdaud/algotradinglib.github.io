@@ -29,7 +29,7 @@ Unlike [GARCH models](../g/garch_models.md) that are deterministic, [stochastic 
 
 ### Machine Learning Techniques
 
-With advancements in machine learning, several algorithms like Random Forests, Support Vector Machines (SVM), and Neural Networks are increasingly being employed for volatility modeling. These techniques can capture nonlinear relationships better than traditional statistical models.
+With advancements in machine learning, several algorithms like [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md) are increasingly being employed for volatility modeling. These techniques can capture nonlinear relationships better than traditional statistical models.
 
 Example: [Acme Trading Systems](https://acmetrading.com)
 

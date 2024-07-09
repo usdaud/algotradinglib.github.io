@@ -33,15 +33,15 @@ Efficient data storage and management are critical due to the vast volumes of da
 
 - **Databases:** Relational databases (e.g., PostgreSQL) and NoSQL databases (e.g., MongoDB) are employed for storing structured data.
 - **Data Warehouses:** Centralized repositories that store large volumes of historical data for analysis and reporting.
-- **Data Lakes:** Storage systems that hold raw data in its original format until needed for analysis.
+- **[Data Lakes](../d/data_lakes_in_trading.md):** Storage systems that hold raw data in its original format until needed for analysis.
 
 ## Data Analysis Techniques
 
 A wide array of techniques is utilized for analyzing trading data:
 
 1. **Statistical Analysis:** Tools like [regression analysis](../r/regression_analysis.md) and [hypothesis testing](../h/hypothesis_testing.md) help identify patterns and correlations.
-2. **Machine Learning:** Algorithms such as [decision trees](../d/decision_trees.md), neural networks, and support vector machines are used for [predictive modeling](../p/predictive_modeling.md).
-3. **Natural Language Processing (NLP):** Techniques for processing and analyzing text data from financial news and reports.
+2. **Machine Learning:** Algorithms such as [decision trees](../d/decision_trees.md), [neural networks](../n/neural_networks_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are used for [predictive modeling](../p/predictive_modeling.md).
+3. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP):** Techniques for processing and analyzing text data from financial news and reports.
 4. **[Technical Analysis](../t/technical_analysis.md):** The study of historical market data to forecast future price movements using indicators like moving averages and [Bollinger Bands](../b/bollinger_bands.md).
 
 ## Execution Algorithms
@@ -80,13 +80,13 @@ Compliance with financial regulations is mandatory and shapes how information is
 
 Ongoing technological advancements continually reshape information processing in trading:
 
-1. **Artificial Intelligence (AI):** Enhances predictive accuracy and decision-making processes in [trading algorithms](../t/trading_algorithms.md).
-2. **Blockchain:** Promises greater transparency and security in trading and post-trade processes.
-3. **Quantum Computing:** Although still in its infancy, it holds potential for solving complex optimization problems in trading.
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI):** Enhances predictive accuracy and decision-making processes in [trading algorithms](../t/trading_algorithms.md).
+2. **[Blockchain](../b/blockchain_in_trading.md):** Promises greater transparency and security in trading and post-trade processes.
+3. **[Quantum Computing](../q/quantum_computing_in_trading.md):** Although still in its infancy, it holds potential for solving complex optimization problems in trading.
 
 ## Case Studies
 
-- **Renaissance Technologies:** Known for its Medallion Fund, this firm employs sophisticated mathematical models and robust data processing techniques ([Renaissance Technologies](https://www.rentec.com/)).
+- **Renaissance Technologies:** Known for its Medallion Fund, this firm employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and robust data processing techniques ([Renaissance Technologies](https://www.rentec.com/)).
 - **Two Sigma:** Utilizes machine learning and vast amounts of data for trading across global markets ([Two Sigma](https://www.twosigma.com)).
 
 ## Conclusion

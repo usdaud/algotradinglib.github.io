@@ -104,7 +104,7 @@
 **Definition**: DDM values a security by estimating the present value of its expected future dividend payments.
 
 **Methodology**:
-- **Forecasting Dividends**: Predict future dividend payments based on historical data and growth rates.
+- **Forecasting Dividends**: Predict future dividend payments based on historical data and [growth rates](../g/growth_rates_in_trading.md).
 - **Choosing a Discount Rate**: Select an appropriate discount rate, often the cost of equity.
 - **Calculating the Present Value**: Discount the future dividends to their present value using the chosen discount rate.
 - **Summing the Present Values**: Add the discounted dividends to determine the total value of the security.

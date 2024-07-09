@@ -22,7 +22,7 @@ Trading in financial markets often involves emotional stress and anxiety. Simula
 
 ### Platform Familiarization
 
-Simulated trading platforms enable traders to become familiar with the functionalities of trading platforms. This includes understanding order types, market depth, charting tools, and other features essential for efficient trading.
+Simulated trading platforms enable traders to become familiar with the functionalities of trading platforms. This includes understanding [order types](../o/order_types_in_trading.md), market depth, charting tools, and other features essential for efficient trading.
 
 ## Popular Simulated Trading Platforms
 
@@ -50,7 +50,7 @@ Traders can access historical data to backtest [trading strategies](../t/trading
 
 ### Order Types
 
-Simulated trading platforms support various order types such as market orders, limit orders, stop orders, and more. This allows traders to experiment with different execution strategies and understand the implications of each order type.
+Simulated trading platforms support various [order types](../o/order_types_in_trading.md) such as market orders, limit orders, stop orders, and more. This allows traders to experiment with different execution strategies and understand the implications of each order type.
 
 ### Risk Management Tools
 

@@ -47,14 +47,14 @@ The [mean reversion](../m/mean_reversion.md) theory suggests that asset prices e
 
 ### Machine Learning Models
 
-Machine learning algorithms have become increasingly popular for [market timing](../m/market_timing.md). These models can analyze vast amounts of data to identify patterns and make predictions.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) have become increasingly popular for [market timing](../m/market_timing.md). These models can analyze vast amounts of data to identify patterns and make predictions.
 
-- **Neural Networks:** Utilize layers of nodes to process inputs and generate outputs. They are particularly effective for complex, non-linear relationships in market data.
-- **Support Vector Machines (SVM):** Used for classification and regression tasks, SVMs can help identify profitable [trading signals](../t/trading_signals.md) based on historical data.
+- **[Neural Networks](../n/neural_networks_in_trading.md):** Utilize layers of nodes to process inputs and generate outputs. They are particularly effective for complex, non-linear relationships in market data.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** Used for classification and regression tasks, SVMs can help identify profitable [trading signals](../t/trading_signals.md) based on historical data.
 
 ## Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) involves gauging market sentiment through news articles, social media, and other sources. Natural Language Processing (NLP) algorithms can parse text to determine market sentiment and make trading decisions accordingly.
+[Sentiment analysis](../s/sentiment_analysis.md) involves gauging market sentiment through news articles, social media, and other sources. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) algorithms can parse text to determine market sentiment and make trading decisions accordingly.
 
 - **Twitter [Sentiment Analysis](../s/sentiment_analysis.md):** Tweets can provide real-time insight into market mood. Algos can be designed to track influential accounts and keywords for [trading signals](../t/trading_signals.md).
 
@@ -85,11 +85,11 @@ Diversifying investments across various asset classes and markets can also serve
 
 ### Renaissance Technologies
 
-Renaissance Technologies is renowned for its [quantitative trading](../q/quantitative_trading.md) strategies and use of mathematical models to drive [market timing](../m/market_timing.md). [Renaissance Technologies](https://www.rentec.com)
+Renaissance Technologies is renowned for its [quantitative trading](../q/quantitative_trading.md) strategies and use of [mathematical models](../m/mathematical_models_in_trading.md) to drive [market timing](../m/market_timing.md). [Renaissance Technologies](https://www.rentec.com)
 
 ### Two Sigma
 
-Two Sigma leverages data science and technology to build sophisticated [trading algorithms](../t/trading_algorithms.md) that rely on [market timing](../m/market_timing.md) models. [Two Sigma](https://www.twosigma.com)
+Two Sigma leverages [data science](../d/data_science_in_trading.md) and technology to build sophisticated [trading algorithms](../t/trading_algorithms.md) that rely on [market timing](../m/market_timing.md) models. [Two Sigma](https://www.twosigma.com)
 
 ### Citadel Securities
 
@@ -97,4 +97,4 @@ Citadel Securities employs extensive data analysis and [market timing](../m/mark
 
 ## Conclusion
 
-[Market timing](../m/market_timing.md) models are essential for developing effective [algorithmic trading](../a/algorithmic_trading.md) strategies. These models range from simple [technical indicators](../t/technical_indicators.md) like moving averages to complex machine learning algorithms. Incorporating comprehensive [risk management](../r/risk_management.md) techniques ensures these models are not only profitable but also sustainable. As technology advances, [market timing](../m/market_timing.md) models are becoming increasingly sophisticated, offering new opportunities for traders and investors in the [algorithmic trading](../a/algorithmic_trading.md) space.
+[Market timing](../m/market_timing.md) models are essential for developing effective [algorithmic trading](../a/algorithmic_trading.md) strategies. These models range from simple [technical indicators](../t/technical_indicators.md) like moving averages to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md). Incorporating comprehensive [risk management](../r/risk_management.md) techniques ensures these models are not only profitable but also sustainable. As technology advances, [market timing](../m/market_timing.md) models are becoming increasingly sophisticated, offering new opportunities for traders and investors in the [algorithmic trading](../a/algorithmic_trading.md) space.

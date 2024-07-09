@@ -64,7 +64,7 @@ However, it is essential to consider this indicator in conjunction with other [t
 
 #### Limitations of the 5-Day RSI
 
-1. **False Signals**: Due to its sensitivity, the 5-Day RSI is prone to generating false signals in choppy or ranging markets, leading to potential losses if not used cautiously.
+1. **[False Signals](../f/false_signals_in_trading.md)**: Due to its sensitivity, the 5-Day RSI is prone to generating [false signals](../f/false_signals_in_trading.md) in choppy or ranging markets, leading to potential losses if not used cautiously.
 
 2. **Lagging Nature**: Like other [technical indicators](../t/technical_indicators.md), the RSI is inherently lagging as it relies on past price data. As a result, it may not always predict future price movements accurately.
 

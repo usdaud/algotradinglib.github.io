@@ -40,7 +40,7 @@ This strategy involves using multiple WMAs of different periods to signal market
 
 ### 2. WMA and Relative Strength Index (RSI) Strategy
 
-Combining WMA with Relative Strength Index (RSI) can enhance [trading signals](../t/trading_signals.md) by filtering out false signals and confirming trend strength.
+Combining WMA with Relative Strength Index (RSI) can enhance [trading signals](../t/trading_signals.md) by filtering out [false signals](../f/false_signals_in_trading.md) and confirming trend strength.
 
 #### Implementation Steps
 

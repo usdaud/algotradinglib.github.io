@@ -1,6 +1,6 @@
 # Optimal Stopping Theory
 
-Optimal Stopping Theory is a branch of mathematical statistics and probability theory that deals with the problem of choosing a time to take a particular action in order to maximize an expected reward or minimize an expected cost. The theory is particularly useful in [Algorithmic Trading](../a/algorithmic_trading.md) for making decisions such as when to buy or sell assets in order to maximize returns or minimize losses.
+Optimal Stopping Theory is a branch of mathematical statistics and [probability theory](../p/probability_theory_in_trading.md) that deals with the problem of choosing a time to take a particular action in order to maximize an expected reward or minimize an expected cost. The theory is particularly useful in [Algorithmic Trading](../a/algorithmic_trading.md) for making decisions such as when to buy or sell assets in order to maximize returns or minimize losses.
 
 ### Key Concepts
 
@@ -53,5 +53,5 @@ Many [algorithmic trading](../a/algorithmic_trading.md) platforms and financial 
 
 ### Conclusion
 
-Optimal stopping theory provides a robust framework for making critical decisions in [algorithmic trading](../a/algorithmic_trading.md). By leveraging mathematical models and [computational algorithms](../c/computational_algorithms.md), traders can optimize their strategies to achieve better financial outcomes.
+Optimal stopping theory provides a robust framework for making critical decisions in [algorithmic trading](../a/algorithmic_trading.md). By leveraging [mathematical models](../m/mathematical_models_in_trading.md) and [computational algorithms](../c/computational_algorithms.md), traders can optimize their strategies to achieve better financial outcomes.
 

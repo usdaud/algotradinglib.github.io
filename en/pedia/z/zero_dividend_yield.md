@@ -28,17 +28,17 @@ Growth companies are firms that are expected to grow at an above-average rate co
 
 #### Example: Amazon (NASDAQ: AMZN)
 
-Amazon is a quintessential growth company that has historically operated with a zero dividend yield. The company reinvests its profits into various initiatives, such as enhancing its online retail platform, expanding its cloud computing services (Amazon Web Services), and developing new technologies like artificial intelligence. 
+Amazon is a quintessential growth company that has historically operated with a zero dividend yield. The company reinvests its profits into various initiatives, such as enhancing its online retail platform, expanding its [cloud computing](../c/cloud_computing_in_trading.md) services (Amazon Web Services), and developing new technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md). 
 
 For more information on Amazon, please visit their [official page](https://www.amazon.com/).
 
 ### Technology Firms
 
-Many technology firms do not pay dividends. The technology sector is known for high growth rates and continuous disruption, which requires significant and consistent reinvestment in research and development. 
+Many technology firms do not pay dividends. The technology sector is known for high [growth rates](../g/growth_rates_in_trading.md) and continuous disruption, which requires significant and consistent reinvestment in research and development. 
 
 #### Example: Alphabet Inc. (NASDAQ: GOOGL)
 
-Alphabet Inc., the parent company of Google, has a zero dividend yield. Alphabet invests heavily in its core businesses (like Google Search and YouTube) as well as in emerging technologies and innovative solutions such as Waymo (self-driving cars), Verily (life sciences), and various artificial intelligence projects. 
+Alphabet Inc., the parent company of Google, has a zero dividend yield. Alphabet invests heavily in its core businesses (like Google Search and YouTube) as well as in emerging technologies and innovative solutions such as Waymo (self-driving cars), Verily (life sciences), and various [artificial intelligence](../a/artificial_intelligence_in_trading.md) projects. 
 
 For more information on Alphabet Inc., please visit their [official page](https://abc.xyz/).
 
@@ -56,7 +56,7 @@ For more information on SpaceX, please visit their [official page](https://www.s
 
 Investors looking at zero dividend yield stocks should consider the following:
 
-1. **Risk Tolerance**: Investing in companies that do not pay dividends can be riskier, as the investor is relying purely on capital appreciation. These companies might have volatile stock prices and their financial success is often dependent on achieving high growth rates.
+1. **Risk Tolerance**: Investing in companies that do not pay dividends can be riskier, as the investor is relying purely on capital appreciation. These companies might have volatile stock prices and their financial success is often dependent on achieving high [growth rates](../g/growth_rates_in_trading.md).
 
 2. **Investment Horizon**: Zero dividend yield stocks are often more suitable for long-term investors. The growth strategies employed by such companies typically take time to yield significant returns.
 

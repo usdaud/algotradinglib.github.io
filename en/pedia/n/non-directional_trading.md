@@ -8,7 +8,7 @@ Non-directional trading, also known as market-neutral trading, is a sophisticate
 A market-neutral position refers to constructing a portfolio in which the exposure to market movements (both upwards and downwards) is minimized, ideally neutralizing the effect of market volatility. This is typically achieved through balancing long positions (betting that the asset price will rise) and short positions (betting that the asset price will fall) in a manner that the gains from one set of positions offset losses from the other.
 
 #### Statistical Arbitrage
-Statistical [arbitrage](../a/arbitrage.md) involves using statistical methods to identify pricing inefficiencies between related securities, such as pairs of stocks, indices, or other financial instruments. This method relies heavily on historical data and complex mathematical models to determine the relative pricing of assets and execute trades when an anomaly or deviation is detected, expecting the prices to revert to their mean or historical relationship over time.
+Statistical [arbitrage](../a/arbitrage.md) involves using statistical methods to identify pricing inefficiencies between related securities, such as pairs of stocks, indices, or other financial instruments. This method relies heavily on historical data and complex [mathematical models](../m/mathematical_models_in_trading.md) to determine the relative pricing of assets and execute trades when an anomaly or deviation is detected, expecting the prices to revert to their mean or historical relationship over time.
 
 #### Pairs Trading
 [Pairs trading](../p/pairs_trading.md) is a market-neutral strategy that seeks to exploit the relationship between two correlated securities. When the historical pricing relationship between the two securities diverges, the strategy involves taking a short position in the over-performing security and a long position in the under-performing one, anticipating that the prices will eventually converge back to their historical mean.
@@ -19,7 +19,7 @@ Merger [arbitrage](../a/arbitrage.md) involves taking advantage of price discrep
 ### Components and Implementation
 
 #### Quantitative Models
-Non-directional [trading strategies](../t/trading_strategies.md) rely on [quantitative models](../q/quantitative_models.md) to assess and predict movements in asset prices. These models incorporate various statistical and mathematical techniques to analyze historical price data, identify patterns, and forecast future price movements. The models can include [mean reversion](../m/mean_reversion.md), machine learning algorithms, or other sophisticated approaches tailored to draw insights from data anomalies and market inefficiencies.
+Non-directional [trading strategies](../t/trading_strategies.md) rely on [quantitative models](../q/quantitative_models.md) to assess and predict movements in asset prices. These models incorporate various statistical and mathematical techniques to analyze historical price data, identify patterns, and forecast future price movements. The models can include [mean reversion](../m/mean_reversion.md), machine [learning algorithms](../l/learning_algorithms_in_trading.md), or other sophisticated approaches tailored to draw insights from data anomalies and market inefficiencies.
 
 #### Risk Management
 [Risk management](../r/risk_management.md) is a crucial aspect of non-directional trading. Since the strategy involves holding both long and short positions, effective [risk management](../r/risk_management.md) ensures that any potential losses are minimized and do not offset the gains. Techniques such as [volatility forecasting](../v/volatility_forecasting.md), Value-at-Risk (VaR) analysis, and [stop-loss orders](../s/stop-loss_orders.md) are integral parts of a comprehensive [risk management](../r/risk_management.md) framework.
@@ -35,7 +35,7 @@ Several companies and hedge funds have established themselves as leaders in non-
 Renaissance Technologies is a prominent hedge fund known for its reliance on mathematical and statistical models to execute non-directional [trading strategies](../t/trading_strategies.md). They operate the Medallion Fund, which employs sophisticated algorithms to identify market inefficiencies and trade a diversified set of assets. More information about Renaissance Technologies can be found on their [official website](https://www.renaissance.com/).
 
 #### Two Sigma
-Two Sigma is another leading hedge fund that specializes in employing data science and advanced technology for [algorithmic trading](../a/algorithmic_trading.md), including non-directional strategies. Two Sigma's approach combines machine learning, big data, and distributed computing to capture alpha and manage risk effectively. Additional details are available on their [official website](https://www.twosigma.com/).
+Two Sigma is another leading hedge fund that specializes in employing [data science](../d/data_science_in_trading.md) and advanced technology for [algorithmic trading](../a/algorithmic_trading.md), including non-directional strategies. Two Sigma's approach combines machine learning, [big data](../b/big_data_in_trading.md), and distributed computing to capture alpha and manage risk effectively. Additional details are available on their [official website](https://www.twosigma.com/).
 
 #### AQR Capital Management
 AQR Capital Management offers a variety of investment strategies, including market-neutral approaches that aim to generate returns with minimal risk exposure. They utilize [quantitative models](../q/quantitative_models.md) and a robust research infrastructure to develop and implement their [trading strategies](../t/trading_strategies.md). Information about AQR Capital Management is accessible on their [official site](https://www.aqr.com/).
@@ -61,7 +61,7 @@ Market-making entails providing liquidity to the market by simultaneously quotin
 #### Challenges
 - **Complexity:** Implementing non-directional [trading strategies](../t/trading_strategies.md) requires advanced quantitative skills, sophisticated algorithms, and significant computational resources.
 - **Costs:** The costs associated with developing, maintaining, and executing these strategies can be substantial, including technology infrastructure, transaction fees, and data acquisition.
-- **Model Risk:** The reliance on mathematical models introduces model risk, where incorrect assumptions or outdated data can lead to significant losses.
+- **Model Risk:** The reliance on [mathematical models](../m/mathematical_models_in_trading.md) introduces model risk, where incorrect assumptions or outdated data can lead to significant losses.
 
 ### Conclusion
 

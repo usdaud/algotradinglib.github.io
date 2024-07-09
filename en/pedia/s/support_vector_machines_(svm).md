@@ -1,6 +1,6 @@
 # Support Vector Machines (SVM)
 
-Support Vector Machines (SVM) are a set of supervised learning methods used for classification, regression, and outliers detection. Developed initially for binary classification problems, SVMs are powerful, versatile algorithms well-suited for a wide range of tasks.
+[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) are a set of supervised learning methods used for classification, regression, and outliers detection. Developed initially for binary classification problems, SVMs are powerful, versatile algorithms well-suited for a wide range of tasks.
 
 ## Fundamentals of SVM
 
@@ -69,7 +69,7 @@ One-Class SVM, an extension of SVM, is particularly useful for outlier detection
 ### Libraries and Tools
 
 1. **scikit-learn**: A popular Python library for machine learning, which provides robust support for SVM through its `svm` module. [scikit-learn](https://scikit-learn.org/stable/modules/svm.html)
-2. **LIBSVM**: A library for Support Vector Machines that is widely used for SVM implementation. [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+2. **LIBSVM**: A library for [Support Vector Machines](../s/support_vector_machines_in_trading.md) that is widely used for SVM implementation. [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 3. **TensorFlow**: An open-source library for machine learning that also supports SVM implementations. [TensorFlow SVM](https://www.tensorflow.org/overview)
 4. **KERAS**: An open-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md) and also has modules to integrate SVM. [KERAS](https://keras.io/)
 
@@ -121,7 +121,7 @@ SVMs are widely used in image and speech recognition systems. They help in handw
 
 ### Text Categorization
 
-Support Vector Machines can efficiently categorize text, such as emails, news articles, and social media posts, into predefined categories. They are useful in spam detection, [sentiment analysis](../s/sentiment_analysis.md), and topic classification.
+[Support Vector Machines](../s/support_vector_machines_in_trading.md) can efficiently categorize text, such as emails, news articles, and social media posts, into predefined categories. They are useful in spam detection, [sentiment analysis](../s/sentiment_analysis.md), and topic classification.
 
 ## Challenges with SVM
 
@@ -131,4 +131,4 @@ Support Vector Machines can efficiently categorize text, such as emails, news ar
 
 ## Summary
 
-Support Vector Machines are powerful, versatile machine learning algorithms capable of handling classification, regression, and outlier detection tasks. They are particularly well-suited for complex, high-dimensional datasets. Despite their computational complexity and sensitivity to parameter tuning, their ability to find optimal hyperplanes and their proficiency with kernel methods make them an essential tool in a data scientist's arsenal.
+[Support Vector Machines](../s/support_vector_machines_in_trading.md) are powerful, versatile machine [learning algorithms](../l/learning_algorithms_in_trading.md) capable of handling classification, regression, and outlier detection tasks. They are particularly well-suited for complex, high-dimensional datasets. Despite their computational complexity and sensitivity to parameter tuning, their ability to find optimal hyperplanes and their proficiency with kernel methods make them an essential tool in a data scientist's arsenal.

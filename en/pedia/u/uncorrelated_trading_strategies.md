@@ -16,7 +16,7 @@ Including [uncorrelated assets](../u/uncorrelated_assets.md) in a portfolio redu
 ## Types of Uncorrelated Trading Strategies
 
 ### Statistical Arbitrage
-Statistical [arbitrage](../a/arbitrage.md) involves identifying pricing inefficiencies between related financial instruments and capitalizing on the statistical likelihood of these inefficiencies correcting themselves. These strategies are often market-neutral and rely on sophisticated mathematical models. 
+Statistical [arbitrage](../a/arbitrage.md) involves identifying pricing inefficiencies between related financial instruments and capitalizing on the statistical likelihood of these inefficiencies correcting themselves. These strategies are often market-neutral and rely on sophisticated [mathematical models](../m/mathematical_models_in_trading.md). 
 
 #### Example Companies:
 - [Virtu Financial](https://www.virtu.com/)
@@ -74,7 +74,7 @@ Implementing sophisticated [risk management](../r/risk_management.md) tools is e
 ## Challenges
 
 ### Model Risk
-Reliance on mathematical models and algorithms entails the risk that the models may be incorrect or become outdated over time. Constant updating and validation are necessary to maintain model accuracy.
+Reliance on [mathematical models](../m/mathematical_models_in_trading.md) and algorithms entails the risk that the models may be incorrect or become outdated over time. Constant updating and validation are necessary to maintain model accuracy.
 
 ### Market Conditions
 Uncorrelated strategies are not immune to extreme market conditions. Events like financial crises or sudden economic shifts can disrupt even the most meticulously planned strategies.

@@ -79,7 +79,7 @@ Traders use these levels as potential [support and resistance](../s/support_and_
 
 ### Average Directional Index (ADX)
 
-The Average Directional Index is used to quantify trend strength. It ranges from 0 to 100, with readings above 25 indicating a strong trend. 
+The [Average Directional Index](../a/average_directional_index_(adx).md) is used to quantify trend strength. It ranges from 0 to 100, with readings above 25 indicating a strong trend. 
 
 **Calculation:**
 1. Calculate the True Range (TR)

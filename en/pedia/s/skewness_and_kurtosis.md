@@ -39,7 +39,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), skewness helps in underst
 
 Kurtosis measures the "tailedness" of the probability distribution of a real-valued random variable. It provides insights into the extremities of data points, indicating the frequency of extreme deviations (outliers) from the mean:
 
-- **Mesokurtic (Normal Distribution)**: Kurtosis of approximately 3.
+- **Mesokurtic ([Normal Distribution](../n/normal_distribution_in_trading.md))**: Kurtosis of approximately 3.
 - **Leptokurtic**: Kurtosis greater than 3, indicating fatter tails and a sharper peak.
 - **Platykurtic**: Kurtosis less than 3, indicating thinner tails and a flatter peak.
 
@@ -114,7 +114,7 @@ Continuous monitoring of skewness and kurtosis in [real-time trading systems](..
 
 ### Machine Learning and AI
 
-Skewness and kurtosis are also significant in feature engineering for machine learning models in trading. Algorithms such as random forests, gradient boosting, and neural networks can incorporate these features to improve predictive accuracy.
+Skewness and kurtosis are also significant in feature engineering for machine learning models in trading. Algorithms such as [random forests](../r/random_forests_in_trading.md), gradient boosting, and [neural networks](../n/neural_networks_in_trading.md) can incorporate these features to improve predictive accuracy.
 
 ## Conclusion
 

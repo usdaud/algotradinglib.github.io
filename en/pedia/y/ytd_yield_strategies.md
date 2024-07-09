@@ -12,7 +12,7 @@ This formula is crucial for investors and traders who want to track performance 
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer programs and systems to execute trading orders at high speeds and frequencies, often relying on complex mathematical models and formulas. Algorithms can analyze large datasets, predict market movements, and execute trades without direct human intervention.
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer programs and systems to execute trading orders at high speeds and frequencies, often relying on complex [mathematical models](../m/mathematical_models_in_trading.md) and formulas. Algorithms can analyze large datasets, predict market movements, and execute trades without direct human intervention.
 
 ### Key Components of Algorithmic Trading
 
@@ -59,17 +59,17 @@ Once a strategy is backtested, it moves on to real-time testing where it is test
 
 ### Execution Management Systems (EMS)
 
-EMS are software platforms that allow traders to execute orders across multiple markets and instruments. They provide features like [order routing](../o/order_routing.md), trade analytics, and [risk management](../r/risk_management.md).
+EMS are [software platforms](../s/software_platforms_for_trading.md) that allow traders to execute orders across multiple markets and instruments. They provide features like [order routing](../o/order_routing.md), trade analytics, and [risk management](../r/risk_management.md).
 
 ### Cloud Computing
 
-Cloud computing provides the necessary computational power and storage for running complex algorithms and processing large datasets. It also offers scalability and flexibility, allowing traders to run multiple strategies simultaneously.
+[Cloud computing](../c/cloud_computing_in_trading.md) provides the necessary computational power and storage for running complex algorithms and processing large datasets. It also offers scalability and flexibility, allowing traders to run multiple strategies simultaneously.
 
 ## Companies Leveraging YTD Yield Strategies
 
 ### Two Sigma
 
-[Two Sigma](https://www.twosigma.com/) is a leading quantitative investment firm that utilizes data science and technology to develop sophisticated [trading strategies](../t/trading_strategies.md), including YTD yield strategies. 
+[Two Sigma](https://www.twosigma.com/) is a leading quantitative investment firm that utilizes [data science](../d/data_science_in_trading.md) and technology to develop sophisticated [trading strategies](../t/trading_strategies.md), including YTD yield strategies. 
 
 ### Citadel
 

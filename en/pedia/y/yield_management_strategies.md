@@ -34,7 +34,7 @@ Combining yield management techniques with [algorithmic trading](../a/algorithmi
 
 Dynamic pricing involves adjusting the prices of financial instruments in real-time based on market conditions. Algorithms can analyze vast amounts of data to determine the optimal pricing strategy. For example:
 
-**1. Machine Learning Models:** Using [regression analysis](../r/regression_analysis.md) and neural networks to predict market trends and adjust prices accordingly.
+**1. Machine Learning Models:** Using [regression analysis](../r/regression_analysis.md) and [neural networks](../n/neural_networks_in_trading.md) to predict market trends and adjust prices accordingly.
 **2. [Real-Time Data Analysis](../r/real-time_data_analysis.md):** Evaluating order books, trade volumes, and other market indicators to set prices dynamically.
 **3. Competitive Pricing:** Analyzing competitors' pricing strategies and adjusting accordingly to remain competitive.
 
@@ -51,7 +51,7 @@ Dynamic pricing involves adjusting the prices of financial instruments in real-t
 Effective yield management strategies must balance the pursuit of high returns with adequate [risk management](../r/risk_management.md). Key [risk management](../r/risk_management.md) techniques include:
 
 **1. Value at Risk (VaR):** Estimating the potential loss in a portfolio over a defined period for a given confidence interval.
-**2. Stress Testing:** Simulating various adverse market conditions to assess potential impacts on the portfolio.
+**2. [Stress Testing](../s/stress_testing_in_trading.md):** Simulating various adverse market conditions to assess potential impacts on the portfolio.
 **3. Scenario Analysis:** Generating different market scenarios to evaluate how portfolio returns could be affected by specific events.
 
 ### Key Players and Technologies
@@ -64,9 +64,9 @@ Effective yield management strategies must balance the pursuit of high returns w
 
 #### Advanced Technologies Utilized
 
-**1. Artificial Intelligence and Machine Learning:** These technologies are deployed to develop sophisticated [trading algorithms](../t/trading_algorithms.md) capable of learning and adapting to market conditions.
-**2. Big Data Analytics:** The capacity to manage and analyze large datasets allows for more accurate [demand forecasting](../d/demand_forecasting.md) and strategy formulation.
-**3. Quantum Computing:** Although still in early stages, quantum computing presents potential for solving complex optimization problems at speeds unattainable by classical computers.
+**1. [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning:** These technologies are deployed to develop sophisticated [trading algorithms](../t/trading_algorithms.md) capable of learning and adapting to market conditions.
+**2. [Big Data Analytics](../b/big_data_analytics_in_trading.md):** The capacity to manage and analyze large datasets allows for more accurate [demand forecasting](../d/demand_forecasting.md) and strategy formulation.
+**3. [Quantum Computing](../q/quantum_computing_in_trading.md):** Although still in early stages, [quantum computing](../q/quantum_computing_in_trading.md) presents potential for solving complex optimization problems at speeds unattainable by classical computers.
 
 ### Case Studies and Real-World Applications
 
@@ -104,7 +104,7 @@ The use of [algorithmic trading](../a/algorithmic_trading.md) and sophisticated 
 
 #### Enhanced AI Integration
 
-The future of yield management in [algorithmic trading](../a/algorithmic_trading.md) is likely to see deeper integration of artificial intelligence. AI can enhance the adaptability of algorithms, enabling them to handle more complex market conditions and improve predictive accuracy.
+The future of yield management in [algorithmic trading](../a/algorithmic_trading.md) is likely to see deeper integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md). AI can enhance the adaptability of algorithms, enabling them to handle more complex market conditions and improve predictive accuracy.
 
 #### Regulatory Evolution
 

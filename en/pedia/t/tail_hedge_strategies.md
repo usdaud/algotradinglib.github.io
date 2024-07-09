@@ -12,7 +12,7 @@ Tail hedge strategies are sophisticated financial mechanisms designed to protect
 
 - **Low Probability**: Tail events are rare, with a low probability of occurrence. However, their impact can be significant.
 - **High Impact**: Despite their rarity, these events can lead to severe financial losses, potentially jeopardizing the entire investment portfolio.
-- **Fat Tails**: Financial markets often exhibit "fat tails," meaning extreme outcomes are more likely than predicted by the normal distribution.
+- **Fat Tails**: Financial markets often exhibit "fat tails," meaning extreme outcomes are more likely than predicted by the [normal distribution](../n/normal_distribution_in_trading.md).
   
 ## Mechanisms of Tail Hedging
 

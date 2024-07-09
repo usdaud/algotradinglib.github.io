@@ -50,7 +50,7 @@ High-frequency trading firms are particularly interested in on-the-run liquidity
    
 2. **Market Depth:** On-the-run securities typically offer greater market depth, meaning there are more buy and sell orders at each price level. This reduces the risk of significant price slippage when executing large trades.
    
-3. **Data Analysis:** HFT firms use sophisticated algorithms to analyze immense amounts of market data in real-time. The high trading volume of on-the-run securities generates a rich dataset, enhancing the accuracy of predictive models.
+3. **Data Analysis:** HFT firms use sophisticated algorithms to analyze immense amounts of market data in real-time. The high trading volume of on-the-run securities generates a rich dataset, enhancing the accuracy of [predictive models](../p/predictive_models_in_trading.md).
 
 ## Institutional and Retail Investors
 

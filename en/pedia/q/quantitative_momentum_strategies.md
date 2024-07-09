@@ -1,6 +1,6 @@
 # Quantitative Momentum Strategies
 
-Momentum investing is a financial strategy that aims to capitalize on the continuance of existing trends in the market. This strategy is based on the premise that stocks that have performed well in the past will continue to do well in the future, and those that have performed poorly will continue to decline. [Quantitative momentum](../q/quantitative_momentum.md) strategies, in particular, leverage mathematical models and statistical techniques to identify and invest in securities that exhibit strong momentum.
+Momentum investing is a financial strategy that aims to capitalize on the continuance of existing trends in the market. This strategy is based on the premise that stocks that have performed well in the past will continue to do well in the future, and those that have performed poorly will continue to decline. [Quantitative momentum](../q/quantitative_momentum.md) strategies, in particular, leverage [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to identify and invest in securities that exhibit strong momentum.
 
 ### Definition and Basics
 
@@ -38,7 +38,7 @@ Numerous academic studies support the efficacy of momentum strategies. For examp
 
 Several investment funds and ETFs incorporate momentum strategies to construct their portfolios. Examples include:
 
-- **AQR Capital Management:** AQR offers funds such as the AQR Large Cap Momentum Style Fund, focusing on large-cap stocks exhibiting strong momentum. More details can be found at [AQR Capital Management](https://www.aqr.com/).
+- **AQR Capital Management:** AQR offers funds such as the AQR Large Cap Momentum Style Fund, focusing on [large-cap stocks](../l/large_cap_stocks.md) exhibiting strong momentum. More details can be found at [AQR Capital Management](https://www.aqr.com/).
 
 - **iShares Edge MSCI USA [Momentum Factor](../m/momentum_factor.md) ETF (MTUM):** This ETF aims to track an index that targets U.S. large- and mid-capitalization stocks with high momentum characteristics. More information can be found on the [iShares website](https://www.ishares.com/us/products/239726/ishares-msci-usa-momentum-factor-etf).
 
@@ -55,4 +55,4 @@ Numerous [quantitative models](../q/quantitative_models.md) have been developed 
 
 ### Conclusion
 
-[Quantitative momentum](../q/quantitative_momentum.md) strategies rely on systematic approaches to harness the persistence of trends in financial markets. By integrating mathematical models, empirical evidence, and [risk management](../r/risk_management.md) techniques, these strategies offer a compelling framework for investors seeking to leverage momentum. However, like all investment strategies, they require careful consideration of transaction costs, market impacts, and changing market conditions.
+[Quantitative momentum](../q/quantitative_momentum.md) strategies rely on systematic approaches to harness the persistence of trends in financial markets. By integrating [mathematical models](../m/mathematical_models_in_trading.md), empirical evidence, and [risk management](../r/risk_management.md) techniques, these strategies offer a compelling framework for investors seeking to leverage momentum. However, like all investment strategies, they require careful consideration of transaction costs, market impacts, and changing market conditions.

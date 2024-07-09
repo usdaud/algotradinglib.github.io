@@ -35,7 +35,7 @@ One of the principal applications of [simulated annealing](../s/simulated_anneal
 
 #### Algorithmic Trading Strategies
 
-[Simulated annealing](../s/simulated_annealing.md) can be used to optimize parameters in [algorithmic trading](../a/algorithmic_trading.md) strategies. For example, in a momentum-based strategy, you might want to optimize the look-back period and the thresholds for entering and exiting trades. [Simulated annealing](../s/simulated_annealing.md) allows exploring these parameter spaces more effectively than grid search or random search.
+[Simulated annealing](../s/simulated_annealing.md) can be used to optimize parameters in [algorithmic trading](../a/algorithmic_trading.md) strategies. For example, in a momentum-based strategy, you might want to optimize the look-back period and the thresholds for entering and exiting trades. [Simulated annealing](../s/simulated_annealing.md) allows exploring these parameter spaces more effectively than [grid search](../g/grid_search_in_trading.md) or random search.
 
 #### Model Calibration
 
@@ -67,7 +67,7 @@ While primarily known for automated machine learning, [DataRobot](https://www.da
 1. **Parameter Sensitivity**: The performance of [simulated annealing](../s/simulated_annealing.md) heavily depends on the choice of parameters, such as the initial temperature, cooling schedule, and acceptance probability.
 2. **Computational Intensity**: It can be computationally expensive, especially for high-dimensional spaces.
 3. **No Guaranteed Optimum**: While it increases the chances of finding the global optimum, it does not guarantee it.
-4. **Slow Convergence**: The algorithm may require a large number of iterations to converge, making it slower in comparison to other methods like Genetic Algorithms or Particle Swarm Optimization.
+4. **Slow Convergence**: The algorithm may require a large number of iterations to converge, making it slower in comparison to other methods like [Genetic Algorithms](../g/genetic_algorithms_in_trading.md) or Particle Swarm Optimization.
 
 ### Case Study: Simulated Annealing in Forex Trading
 

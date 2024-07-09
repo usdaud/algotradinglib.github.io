@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, involves the use of computer programs to execute trades at speeds and frequencies that are impossible for human traders. These algorithms make trading decisions based on pre-defined criteria, often incorporating statistical and mathematical models. Write-off strategies in the context of [algorithmic trading](../a/algorithmic_trading.md) refer to the practice of closing or offloading positions that are no longer profitable or viable. Let's delve deeper into the various aspects of write-off strategies.
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, involves the use of computer programs to execute trades at speeds and frequencies that are impossible for human traders. These algorithms make trading decisions based on pre-defined criteria, often incorporating statistical and [mathematical models](../m/mathematical_models_in_trading.md). Write-off strategies in the context of [algorithmic trading](../a/algorithmic_trading.md) refer to the practice of closing or offloading positions that are no longer profitable or viable. Let's delve deeper into the various aspects of write-off strategies.
 
 ## Importance of Write-Off Strategies
 
@@ -34,7 +34,7 @@ Time-based exits involve closing positions after a specific period, regardless o
 
 ### Event-Driven Write-Offs
 
-Event-driven write-offs are triggered by specific market events such as earnings reports, [economic indicators](../e/economic_indicators.md), or geopolitical developments. These strategies utilize algorithms that monitor news feeds and market data to determine the optimal time to offload positions.
+Event-driven [write-offs](../w/write-offs_in_trading.md) are triggered by specific market events such as earnings reports, [economic indicators](../e/economic_indicators.md), or geopolitical developments. These strategies utilize algorithms that monitor news feeds and market data to determine the optimal time to offload positions.
 
 ### Volatility-Based Exits
 
@@ -62,7 +62,7 @@ Goldman Sachs employs advanced [algorithmic trading](../a/algorithmic_trading.md
 
 ### Renaissance Technologies
 
-Renaissance Technologies, known for its Medallion Fund, uses highly sophisticated algos for trading. Their write-off strategies involve complex mathematical models to minimize losses and optimize returns. Visit their [website](https://www.rentec.com/) for more details.
+Renaissance Technologies, known for its Medallion Fund, uses highly sophisticated algos for trading. Their write-off strategies involve complex [mathematical models](../m/mathematical_models_in_trading.md) to minimize losses and optimize returns. Visit their [website](https://www.rentec.com/) for more details.
 
 ### Citadel Securities
 

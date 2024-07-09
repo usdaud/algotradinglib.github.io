@@ -1,7 +1,7 @@
 # Kurtosis and Skewness Adjustment
 
 ### Introduction
-[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, leverages complex mathematical models and algorithms to make trading decisions at speeds and frequencies that human traders cannot match. Among the myriad of statistical tools and techniques used in developing these algorithms, kurtosis and skewness adjustments are paramount in fine-tuning and optimizing [trading strategies](../t/trading_strategies.md). These statistical measures offer deep insights into the distribution characteristics of asset returns, significantly influencing [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and overall [trading performance](../t/trading_performance.md).
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, leverages complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make trading decisions at speeds and frequencies that human traders cannot match. Among the myriad of statistical tools and techniques used in developing these algorithms, kurtosis and skewness adjustments are paramount in fine-tuning and optimizing [trading strategies](../t/trading_strategies.md). These statistical measures offer deep insights into the distribution characteristics of asset returns, significantly influencing [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and overall [trading performance](../t/trading_performance.md).
 
 ### Understanding Kurtosis
 
@@ -9,9 +9,9 @@ Kurtosis is a statistical measure that describes the distribution of a dataset's
 
 #### Types of Kurtosis
 
-1. **Mesokurtic**: Distributions with kurtosis similar to the normal distribution. They have kurtosis close to 3.
+1. **Mesokurtic**: Distributions with kurtosis similar to the [normal distribution](../n/normal_distribution_in_trading.md). They have kurtosis close to 3.
 2. **Leptokurtic**: Distributions with fat tails and a sharp peak. They have kurtosis greater than 3, indicating a higher probability of extreme values.
-3. **Platykurtic**: Distributions with thinner tails and a flatter peak compared to the normal distribution. They have kurtosis less than 3, suggesting fewer and less extreme outliers.
+3. **Platykurtic**: Distributions with thinner tails and a flatter peak compared to the [normal distribution](../n/normal_distribution_in_trading.md). They have kurtosis less than 3, suggesting fewer and less extreme outliers.
 
 High kurtosis in a financial dataset implies that asset returns may exhibit extreme outcomes more frequently than normally distributed returns, impacting risk assessments and trading decisions.
 
@@ -58,7 +58,7 @@ Financial institutions and hedge funds employ kurtosis and skewness adjustments 
 ### Tools and Software for Analysis
 
 #### R and Python Libraries
-Both R and Python offer extensive libraries for performing kurtosis and skewness analysis. Libraries such as `statsmodels` and `scipy` in Python, and packages like `e1071` in R, provide functions to easily calculate and adjust for these statistical measures.
+Both R and Python offer extensive libraries for performing [kurtosis and skewness analysis](../k/kurtosis_skewness_analysis.md). Libraries such as `statsmodels` and `scipy` in Python, and packages like `e1071` in R, provide functions to easily calculate and adjust for these statistical measures.
 
 #### Specialized Trading Platforms
 Many trading platforms and software solutions, such as [QuantConnect](../q/quantconnect.md) and AlgorithmicTrading.net, provide built-in tools for incorporating kurtosis and skewness adjustments in algorithmic strategies. For more details, you can visit [QuantConnect's website](https://www.quantconnect.com) and [AlgorithmicTrading.net](https://algorithmictrading.net).

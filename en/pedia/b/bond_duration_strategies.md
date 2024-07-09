@@ -42,7 +42,7 @@ Where:
 
 ### Effective Duration Calculation
 
-Effective duration \(D_e\) is calculated using a simulation approach, reflecting the bond’s price sensitivity to parallel shifts in the [yield curve](../y/yield_curve.md):
+Effective duration \(D_e\) is calculated using a [simulation](../s/simulation_in_trading.md) approach, reflecting the bond’s price sensitivity to parallel shifts in the [yield curve](../y/yield_curve.md):
 
 \[ D_e = \frac{P_{-} - P_{+}}{2 \cdot \Delta y \cdot P_0} \]
 

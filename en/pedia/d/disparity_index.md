@@ -90,7 +90,7 @@ MetaTrader platforms offer built-in indicators for the Disparity Index. Traders 
 ### Limitations
 
 1. **Lagging Indicator**: Since it relies on moving averages, it can sometimes lag in identifying trends.
-2. **False Signals**: Like any other single indicator, it might provide false signals during extremely volatile market conditions.
+2. **[False Signals](../f/false_signals_in_trading.md)**: Like any other single indicator, it might provide [false signals](../f/false_signals_in_trading.md) during extremely volatile market conditions.
 3. **Threshold Difficulty**: Setting suitable thresholds for overbought and oversold conditions can be challenging and may require extensive [backtesting](../b/backtesting.md).
 
 ## Research and Development
@@ -99,8 +99,8 @@ Ongoing research and development in the field of [algorithmic trading](../a/algo
 
 ### Machine Learning
 
-1. **Predictive Models**: Machine learning models such as neural networks and [decision trees](../d/decision_trees.md) can use historical data to predict future price movements based on the Disparity Index values.
-2. **Optimization**: Genetic algorithms and other optimization techniques help in fine-tuning the parameters (like the length of the moving average) to improve the reliability of the Disparity Index.
+1. **[Predictive Models](../p/predictive_models_in_trading.md)**: Machine learning models such as [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md) can use historical data to predict future price movements based on the Disparity Index values.
+2. **Optimization**: [Genetic algorithms](../g/genetic_algorithms_in_trading.md) and other optimization techniques help in fine-tuning the parameters (like the length of the moving average) to improve the reliability of the Disparity Index.
 
 ### Case Studies
 

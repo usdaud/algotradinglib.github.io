@@ -57,10 +57,10 @@ Having a robust technology infrastructure can significantly reduce [trading cost
 ### 1. Optimization in High-Frequency Trading Firms
 
 #### 1.1 Renaissance Technologies
-Renaissance Technologies, one of the most successful hedge funds, uses sophisticated mathematical models and algorithms to minimize [trading costs](../t/trading_costs.md). The firm's Medallion Fund is renowned for its ability to generate high returns while controlling [trading costs](../t/trading_costs.md) effectively. More information can be found on their [official website](https://www.rentech.com/).
+Renaissance Technologies, one of the most successful hedge funds, uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to minimize [trading costs](../t/trading_costs.md). The firm's Medallion Fund is renowned for its ability to generate high returns while controlling [trading costs](../t/trading_costs.md) effectively. More information can be found on their [official website](https://www.rentech.com/).
 
 #### 1.2 Two Sigma
-Two Sigma, another leading quant firm, leverages data science and machine learning to optimize [trading strategies](../t/trading_strategies.md). By focusing on minimizing [trading costs](../t/trading_costs.md) and maximizing efficiency, Two Sigma has maintained a competitive edge in the market. Visit their [official site](https://www.twosigma.com/) for more details.
+Two Sigma, another leading quant firm, leverages [data science](../d/data_science_in_trading.md) and machine learning to optimize [trading strategies](../t/trading_strategies.md). By focusing on minimizing [trading costs](../t/trading_costs.md) and maximizing efficiency, Two Sigma has maintained a competitive edge in the market. Visit their [official site](https://www.twosigma.com/) for more details.
 
 ### 2. Real-World Applications
 

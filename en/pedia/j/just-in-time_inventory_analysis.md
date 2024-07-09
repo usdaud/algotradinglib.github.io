@@ -14,7 +14,7 @@ JIT originated in Japan in the 1960s and 1970s, primarily at Toyota. The company
 
 ### Benefits of JIT
 - **Reduced Inventory Costs**: Companies don't have to maintain large inventories of raw materials and finished products, reducing storage costs and the capital tied up in inventory.
-- **Increased Efficiency**: Streamlined production processes and efficient use of resources reduce wastage and improve operational efficiency.
+- **Increased Efficiency**: Streamlined production processes and efficient use of resources reduce wastage and improve [operational efficiency](../o/operational_efficiency_in_trading.md).
 - **Improved Cash Flow**: Reduced inventory levels free up cash that can be used elsewhere in the business.
 - **Better Supplier Relationships**: Closer relationships with suppliers can lead to better terms, better prices, and an increase in reliability.
 - **Higher Quality Products**: By focusing on defect prevention and quality control, products are generally of higher quality.

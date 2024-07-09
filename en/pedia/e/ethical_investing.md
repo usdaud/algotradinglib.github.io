@@ -34,7 +34,7 @@ ESG criteria are a set of standards for a company’s operations that ethically-
 
 ### Ethical Investment Funds
 
-Ethical investment funds, also known as socially responsible funds, are mutual funds or exchange-traded funds (ETFs) that incorporate ESG criteria into their investment process. These funds allow investors to diversify their portfolios while maintaining a commitment to ethical standards. Examples include:
+Ethical investment funds, also known as socially responsible funds, are mutual funds or exchange-traded funds (ETFs) that incorporate ESG criteria into their investment process. These funds allow investors to diversify their portfolios while maintaining a commitment to [ethical standards](../e/ethical_standards_in_trading.md). Examples include:
 
 - **Pax World Funds**: [Pax World](https://paxworld.com/)
 - **Calvert Research and Management**: [Calvert](https://www.calvert.com/)
@@ -88,7 +88,7 @@ Greenwashing refers to the practice of companies presenting themselves as more e
 
 ### Technological Advances
 
-Advancements in technology, such as artificial intelligence and big data analytics, are enhancing the ability to assess and integrate ESG factors. These technologies can provide more accurate, timely, and comprehensive insights into companies' ethical performance.
+Advancements in technology, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [big data analytics](../b/big_data_analytics_in_trading.md), are enhancing the ability to assess and integrate ESG factors. These technologies can provide more accurate, timely, and comprehensive insights into companies' ethical performance.
 
 ### Increasing Demand and Regulatory Support
 

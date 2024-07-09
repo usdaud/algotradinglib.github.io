@@ -54,7 +54,7 @@ In a bear market, descending triangle detection algorithms can be quite profitab
 
 ## Mathematical and Statistical Evaluation
 
-Algorithms often employ mathematical models to evaluate triangle patterns precisely. Key methods include:
+Algorithms often employ [mathematical models](../m/mathematical_models_in_trading.md) to evaluate [triangle patterns](../t/triangle_patterns_in_trading.md) precisely. Key methods include:
 - **[Regression Analysis](../r/regression_analysis.md):** To assess the trendlines accurately.
 - **Statistical Significance:** Utilizing [hypothesis testing](../h/hypothesis_testing.md) to confirm if a detected pattern is statistically significant.
 
@@ -82,7 +82,7 @@ data.plot(x='Date', y=['Price', 'Upper_Trend', 'Lower_Trend'])
 ```
 
 ## Risk Management and Triangle Patterns
-[Risk management](../r/risk_management.md) is an essential aspect of trading triangle patterns. Algorithms must incorporate stop losses and take profits:
+[Risk management](../r/risk_management.md) is an essential aspect of trading [triangle patterns](../t/triangle_patterns_in_trading.md). Algorithms must incorporate stop losses and take profits:
 - **Stop Losses:** Placed just outside the trendlines to prevent large losses from false breakouts.
 - **Take Profits:** Positioned at a distance that mirrors the height of the widest part of the triangle, projecting potential breakout targets.
 
@@ -91,7 +91,7 @@ data.plot(x='Date', y=['Price', 'Upper_Trend', 'Lower_Trend'])
 ### Advanced Pattern Recognition
 Algorithms may use more advanced techniques for [pattern recognition](../p/pattern_recognition.md), including:
 - **Machine Learning Models:** To train models on historical data for more accurate pattern detection.
-- **Deep Learning:** Neural networks can recognize more complex patterns and relationships in trading data.
+- **Deep Learning:** [Neural networks](../n/neural_networks_in_trading.md) can recognize more complex patterns and relationships in trading data.
 
 *Example*:
 ```python
@@ -117,7 +117,7 @@ print(f'Model Accuracy: {accuracy}')
 
 ### Automated Signal Validation
 Algorithms can use real-time data to validate signals against historical patterns:
-- **[Backtesting](../b/backtesting.md):** To ensure that [trading strategies](../t/trading_strategies.md) based on triangle patterns perform well on past data.
+- **[Backtesting](../b/backtesting.md):** To ensure that [trading strategies](../t/trading_strategies.md) based on [triangle patterns](../t/triangle_patterns_in_trading.md) perform well on past data.
 - **Forward Testing:** Applying strategies in a live but [simulated trading](../s/simulated_trading.md) environment.
 
 *Example*:

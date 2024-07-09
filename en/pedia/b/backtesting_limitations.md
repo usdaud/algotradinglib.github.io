@@ -34,19 +34,19 @@ Market impact is the effect that a trader's actions have on the market prices of
 
 ## Changes in Market Conditions
 
-Markets evolve over time due to changes in regulations, technology, macroeconomic conditions, and market structure. A trading strategy that performs well under specific historical conditions may not adapt well to new market environments. This is known as regime change or structural breaks.
+Markets evolve over time due to changes in regulations, technology, macroeconomic conditions, and market structure. A trading strategy that performs well under specific historical conditions may not adapt well to new market environments. This is known as regime change or [structural breaks](../s/structural_breaks_in_trading.md).
 
 **Example**: [Arbitrage](../a/arbitrage.md) opportunities that existed in the past may disappear due to technological advancements, regulatory changes, or increased competition.
 
 ## Unmodeled Risk Factors
 
-Every [backtesting](../b/backtesting.md) model makes certain assumptions about risk factors and market dynamics. However, real-world trading entails risks that models cannot fully capture, such as [geopolitical events](../g/geopolitical_events.md), natural disasters, or changes in investor sentiment.
+Every [backtesting](../b/backtesting.md) model makes certain assumptions about [risk factors](../r/risk_factors_in_trading.md) and market dynamics. However, real-world trading entails risks that models cannot fully capture, such as [geopolitical events](../g/geopolitical_events.md), natural disasters, or changes in investor sentiment.
 
 **Example**: A strategy may perform well historically but could incur significant losses due to an unforeseen event, like a pandemic or a sudden regulatory change.
 
 ## Curve Fitting
 
-Curve fitting is the process of creating a strategy that fits the historical data excessively well but fails to perform on new, unseen data. This issue is closely related to overfitting and is a common problem when using complex models with many parameters.
+[Curve fitting](../c/curve_fitting_in_trading.md) is the process of creating a strategy that fits the historical data excessively well but fails to perform on new, unseen data. This issue is closely related to overfitting and is a common problem when using complex models with many parameters.
 
 **Example**: Using a polynomial regression model with a high degree to predict stock prices might fit the historical data perfectly but will likely perform poorly on future data.
 

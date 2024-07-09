@@ -109,7 +109,7 @@ One example of a successful trend reversal trading strategy involves the use of 
    - Ensuring the RSI is in the overbought or oversold territory to confirm the reversal strength.
 
 2. **[Risk Management](../r/risk_management.md)**:
-   - Implementing tight [stop-loss orders](../s/stop-loss_orders.md) just beyond recent highs or lows to protect against false signals.
+   - Implementing tight [stop-loss orders](../s/stop-loss_orders.md) just beyond recent highs or lows to protect against [false signals](../f/false_signals_in_trading.md).
    - Using trailing stops to secure profits as the new trend develops.
 
 3. **[Backtesting](../b/backtesting.md) and Optimization**:

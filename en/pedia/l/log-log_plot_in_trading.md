@@ -14,7 +14,7 @@ The transformation to logarithmic scales means that what are multiplicative fact
 
 Financial markets often exhibit price movements that span several orders of magnitude. Log-log plots are particularly useful for visualizing these movements because they compress the wide range of values into a more manageable scale. For instance, stock prices can vary from a few dollars to several thousand dollars. A log-log plot can help to visualize and analyze these variations effectively.
 
-One common use is analyzing historical stock prices or indices to identify long-term trends and patterns. By transforming the prices to logarithmic values, traders can easily observe exponential growth trends or multiplicative effects, which would appear as straight lines on a log-log plot.
+One common use is analyzing historical stock prices or indices to identify long-term trends and patterns. By transforming the prices to logarithmic values, traders can easily observe exponential [growth trends](../g/growth_trends_in_trading.md) or multiplicative effects, which would appear as straight lines on a log-log plot.
 
 ### Investigating Power Laws
 
@@ -47,13 +47,13 @@ This method could reveal power-law behavior in the return distribution, aiding i
 
 ### Case Study: Market Index Analysis
 
-For long-term investment strategies, analyzing the historical performance of market indices is crucial. A log-log plot of an index like the S&P 500 over several decades can illustrate the compounded growth more clearly than a linear plot. Exponential growth trends appear linear, making it easier to identify phases of different growth rates and periods of market volatility.
+For long-term investment strategies, analyzing the historical performance of market indices is crucial. A log-log plot of an index like the S&P 500 over several decades can illustrate the compounded growth more clearly than a linear plot. Exponential [growth trends](../g/growth_trends_in_trading.md) appear linear, making it easier to identify phases of different [growth rates](../g/growth_rates_in_trading.md) and periods of market volatility.
 
 ## Implementing Log-Log Plots
 
 ### Software Tools
 
-Various software tools can be used to create log-log plots, including Python with libraries like Matplotlib and Pandas, R with ggplot2, and specialized trading platforms with built-in plotting capabilities.
+Various [software tools](../s/software_tools_for_trading.md) can be used to create log-log plots, including Python with libraries like Matplotlib and Pandas, R with ggplot2, and specialized trading platforms with built-in plotting capabilities.
 
 **Python Example:**
 ```python
@@ -76,7 +76,7 @@ plt.show()
 
 ### Real-Time Market Data
 
-For traders who need [real-time data analysis](../r/real-time_data_analysis.md), many trading platforms and APIs provide ways to integrate [real-time market data](../r/real-time_market_data.md) into log-log plots. For instance, using APIs from brokers like Interactive Brokers [IBKR API](https://www.interactivebrokers.com/en/index.php?f=5041) or platforms like [Bloomberg](../b/bloomberg.md) Terminal enables real-time data retrieval and plotting.
+For traders who need [real-time data analysis](../r/real-time_data_analysis.md), many trading platforms and APIs provide ways to integrate [real-time market data](../r/real-time_market_data.md) into log-log plots. For instance, using APIs from brokers like [Interactive Brokers](../i/interactive_brokers.md) [IBKR API](https://www.interactivebrokers.com/en/index.php?f=5041) or platforms like [Bloomberg](../b/bloomberg.md) Terminal enables real-time data retrieval and plotting.
 
 **Integrating Real-Time Data Example:**
 ```python

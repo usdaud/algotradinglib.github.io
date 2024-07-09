@@ -64,7 +64,7 @@ In recent years, Japan's GDP growth has been modest, partly due to global econom
     - Diversification into new industries such as renewable energy, healthcare, and biotechnology can provide new growth avenues and reduce dependence on traditional manufacturing sectors.
 
 ### Government Policies and Future Outlook
-Government policies play a crucial role in shaping Japan's GDP trajectory. Initiatives to encourage innovation, digital transformation, and sustainable development are ongoing. Proactive measures to address demographic issues, such as immigration reforms and workforce participation incentives, are also critical.
+[Government policies](../g/government_policies_in_trading.md) play a crucial role in shaping Japan's GDP trajectory. Initiatives to encourage innovation, digital transformation, and sustainable development are ongoing. Proactive measures to address demographic issues, such as immigration reforms and workforce participation incentives, are also critical.
 
 ### Conclusion
 Japan’s GDP analysis reveals a complex interplay of strengths and challenges. While the nation boasts significant industrial capabilities and technological prowess, demographic shifts and external economic pressures necessitate strategic policy interventions and innovative solutions to sustain and enhance its economic growth in the future.

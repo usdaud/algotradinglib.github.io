@@ -68,7 +68,7 @@ Currency [arbitrage](../a/arbitrage.md) heavily relies on technology for trade e
 To engage in currency [arbitrage](../a/arbitrage.md), traders commonly use advanced tools and platforms:
 
 ### 1. MetaTrader 4/5
-MetaTrader is a popular trading platform that offers comprehensive tools for [technical analysis](../t/technical_analysis.md), automated trading, and multi-currency trading. These features make it suitable for executing currency [arbitrage](../a/arbitrage.md) strategies.
+MetaTrader is a popular trading platform that offers comprehensive tools for [technical analysis](../t/technical_analysis.md), automated trading, and multi-[currency trading](../c/currency_trading_strategies.md). These features make it suitable for executing currency [arbitrage](../a/arbitrage.md) strategies.
 
 ### 2. TradingView
 [TradingView](../t/tradingview.md) is a web-based platform providing advanced charting tools, real-time data, and social networking features for traders. It allows users to monitor multiple currency pairs and identify [arbitrage](../a/arbitrage.md) opportunities.

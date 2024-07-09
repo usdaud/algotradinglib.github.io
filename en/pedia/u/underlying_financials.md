@@ -4,7 +4,7 @@
 
 #### Definition of Underlying Financials
 
-Underlying financials refer to the core financial data and [performance metrics](../p/performance_metrics.md) of a business or asset. These are often used as part of the decision-making process in [algorithmic trading](../a/algorithmic_trading.md) to predict future price movements, evaluate the financial health of a company, and make informed trading decisions. This detailed financial data includes, but is not limited to, revenue, profit margins, earnings per share (EPS), debt levels, cash flows, and other key [performance indicators](../p/performance_indicators.md) (KPIs).
+Underlying financials refer to the core financial data and [performance metrics](../p/performance_metrics.md) of a business or asset. These are often used as part of the decision-making process in [algorithmic trading](../a/algorithmic_trading.md) to predict future price movements, evaluate the financial health of a company, and make informed trading decisions. This detailed financial data includes, but is not limited to, revenue, [profit margins](../p/profit_margins_in_trading.md), earnings per share (EPS), debt levels, cash flows, and other key [performance indicators](../p/performance_indicators.md) (KPIs).
 
 #### Key Components of Underlying Financials
 
@@ -20,7 +20,7 @@ Underlying financials refer to the core financial data and [performance metrics]
 
 6. **Gross and Operating Margins**: Gross margin is calculated by subtracting the cost of goods sold (COGS) from total revenue, while operating margin is derived by subtracting operating expenses from gross profit. These margins show how efficiently a company is running its operations and managing costs.
 
-7. **Return on Equity (ROE) and Return on Assets (ROA)**: These metrics evaluate how effectively a company is using its equity and assets to generate profits, offering a glimpse into management efficiency.
+7. **Return on Equity (ROE) and [Return on Assets](../r/return_on_assets_(roa).md) (ROA)**: These metrics evaluate how effectively a company is using its equity and assets to generate profits, offering a glimpse into management efficiency.
 
 #### Application in Algorithmic Trading
 
@@ -66,7 +66,7 @@ While integrating underlying financials into [algorithmic trading](../a/algorith
 
 #### Future Trends
 
-The integration of underlying financials in [algorithmic trading](../a/algorithmic_trading.md) is expected to expand and evolve with advancements in technology and data science:
+The integration of underlying financials in [algorithmic trading](../a/algorithmic_trading.md) is expected to expand and evolve with advancements in technology and [data science](../d/data_science_in_trading.md):
 
 1. **Enhanced Machine Learning Models**: As machine learning models grow more sophisticated, they will be better equipped to handle the complexity and volume of financial data, yielding even more precise [trading strategies](../t/trading_strategies.md).
 
@@ -76,6 +76,6 @@ The integration of underlying financials in [algorithmic trading](../a/algorithm
 
 4. **Increased Customization**: Personalized [trading algorithms](../t/trading_algorithms.md) tailored to specific financial goals and risk tolerances will become more common, allowing for finely tuned investment strategies.
 
-5. **Blockchain and Distributed Ledger Technology**: The use of blockchain technology may lead to more transparent and secure handling of financial data, facilitating seamless [data integration](../d/data_integration.md) and improving trust in the data used for [algorithmic trading](../a/algorithmic_trading.md).
+5. **[Blockchain](../b/blockchain_in_trading.md) and Distributed Ledger Technology**: The use of [blockchain](../b/blockchain_in_trading.md) technology may lead to more transparent and secure handling of financial data, facilitating seamless [data integration](../d/data_integration.md) and improving trust in the data used for [algorithmic trading](../a/algorithmic_trading.md).
 
-Understanding the underlying financials is crucial for enhancing [algorithmic trading](../a/algorithmic_trading.md) strategies. By carefully analyzing financial data and integrating it into predictive models, traders can make more informed decisions, manage risk effectively, and capitalize on market opportunities. Despite the challenges, continued advancements in technology promise greater precision and efficiency in the discipline of [algorithmic trading](../a/algorithmic_trading.md).
+Understanding the underlying financials is crucial for enhancing [algorithmic trading](../a/algorithmic_trading.md) strategies. By carefully analyzing financial data and integrating it into [predictive models](../p/predictive_models_in_trading.md), traders can make more informed decisions, manage risk effectively, and capitalize on market opportunities. Despite the challenges, continued advancements in technology promise greater precision and efficiency in the discipline of [algorithmic trading](../a/algorithmic_trading.md).

@@ -24,7 +24,7 @@ In the realm of financial markets, "Institutional Order Flow" refers to the buyi
 
 ### Tools and Techniques
 
-1. **[Order Flow Analysis](../o/order_flow_analysis.md) Tools**: Software like Sierra Chart, Bookmap, and Quantower allow traders to visualize and analyze order flow data to detect patterns that might indicate institutional trading.
+1. **[Order Flow Analysis](../o/order_flow_analysis.md) Tools**: Software like [Sierra Chart](../s/sierra_chart.md), Bookmap, and Quantower allow traders to visualize and analyze order flow data to detect patterns that might indicate institutional trading.
 
 2. **Footprint Charts**: These are detailed charts that provide a visualization of order flow, showing the number of contracts traded at each price level during a specified period.
 
@@ -54,7 +54,7 @@ In the realm of financial markets, "Institutional Order Flow" refers to the buyi
 
 1. **Regulations**: Entities like the SEC (U.S. Securities and Exchange Commission) in the United States impose strict regulations to prevent malpractices like [front-running](../f/front-running.md) and market manipulation related to institutional order flow.
 
-2. **Ethical Trading**: While analyzing institutional order flow can be advantageous, it’s crucial for traders and firms to adhere to ethical standards, ensuring compliance with regulations and maintaining integrity in the markets.
+2. **Ethical Trading**: While analyzing institutional order flow can be advantageous, it’s crucial for traders and firms to adhere to [ethical standards](../e/ethical_standards_in_trading.md), ensuring compliance with regulations and maintaining integrity in the markets.
 
 ### Conclusion
 

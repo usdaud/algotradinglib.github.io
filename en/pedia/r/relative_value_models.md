@@ -10,7 +10,7 @@ Relative value trading involves comparing the prices of two or more related fina
 
 1. **Basics of Relative Value:**
     - **Concept**: At its simplest, relative value trading aims to profit from temporal discrepancies in prices that should theoretically be closely aligned.
-    - **Mathematical Foundation**: Often, statistical measures such as z-scores, correlation coefficients, and regression analyses are employed to gauge the relationship between instruments.
+    - **Mathematical Foundation**: Often, statistical measures such as [z-scores](../z/z-scores_in_trading.md), correlation coefficients, and regression analyses are employed to gauge the relationship between instruments.
 
 2. **Common Relative Value Strategies:**
     - **[Pairs Trading](../p/pairs_trading.md)**: Involves two stocks or other financial instruments expected to maintain a specific price relationship. Traders buy the underperforming instrument and short the overperforming one.
@@ -31,11 +31,11 @@ Relative value methodologies can be categorized into several types based on thei
 
 3. **Statistical Measures:**
     - **Correlation Coefficient**: Quantifies the degree to which two instruments move in relation to each other.
-    - **Z-scores**: Measures how far an instrument’s price deviates from its average in terms of standard deviations.
+    - **[Z-scores](../z/z-scores_in_trading.md)**: Measures how far an instrument’s price deviates from its average in terms of standard deviations.
 
-4. **Machine Learning Algorithms:**
-    - **Support Vector Machines (SVM)**: Can be used for classification and regression, aiding in identifying non-linear relationships.
-    - **Neural Networks**: Capable of recognizing complex patterns in large datasets, making them suitable for high-frequency [trading strategies](../t/trading_strategies.md).
+4. **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md):**
+    - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Can be used for classification and regression, aiding in identifying non-linear relationships.
+    - **[Neural Networks](../n/neural_networks_in_trading.md)**: Capable of recognizing complex patterns in large datasets, making them suitable for high-frequency [trading strategies](../t/trading_strategies.md).
 
 **Applications of Relative Value Models**
 
@@ -67,7 +67,7 @@ Relative value methodologies can be categorized into several types based on thei
     - **Example Strategy**: Implementing statistical [arbitrage](../a/arbitrage.md) in the equities market, where sophisticated algorithms detect and exploit short-term pricing inefficiencies.
 
 3. **Winton Group**
-   - Winton Group, founded by David Harding, applies statistical and mathematical models to financial markets, including relative value strategies in commodities and other assets. Find more at [Winton Group](https://www.winton.com/).
+   - Winton Group, founded by David Harding, applies statistical and [mathematical models](../m/mathematical_models_in_trading.md) to financial markets, including relative value strategies in commodities and other assets. Find more at [Winton Group](https://www.winton.com/).
 
     - **Example Strategy**: Using regression models to identify mispricings in commodities markets, leveraging seasonality and historical price data.
 
@@ -87,4 +87,4 @@ Relative value methodologies can be categorized into several types based on thei
 
 **Conclusion**
 
-Relative Value Models play a crucial role in the landscape of [algorithmic trading](../a/algorithmic_trading.md), providing traders with tools to identify and exploit mispricings in financial markets. From the application of simple statistical measures to the use of sophisticated machine learning algorithms, these models encompass a wide array of techniques that help in capturing subtle price dynamics. While there are challenges and risks associated with their use, relative value strategies continue to be a cornerstone of [quantitative trading](../q/quantitative_trading.md), offering the potential for substantial returns when implemented with precision and care.
+Relative Value Models play a crucial role in the landscape of [algorithmic trading](../a/algorithmic_trading.md), providing traders with tools to identify and exploit mispricings in financial markets. From the application of simple statistical measures to the use of sophisticated machine [learning algorithms](../l/learning_algorithms_in_trading.md), these models encompass a wide array of techniques that help in capturing subtle price dynamics. While there are challenges and risks associated with their use, relative value strategies continue to be a cornerstone of [quantitative trading](../q/quantitative_trading.md), offering the potential for substantial returns when implemented with precision and care.

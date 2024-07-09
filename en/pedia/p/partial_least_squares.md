@@ -4,7 +4,7 @@ Partial Least Squares (PLS) is a powerful statistical method that is extensively
 
 ### Introduction to Partial Least Squares
 
-Partial Least Squares is fundamentally a dimensionality reduction technique, sharing some conceptual similarities with Principal Component Analysis (PCA) but with a unique approach. Unlike PCA, which focuses solely on capturing the variance in the predictors, PLS also takes the response variable into account, aiming to maximize the covariance between the predictors and the response. This makes PLS especially valuable in [predictive modeling](../p/predictive_modeling.md) and machine learning applications.
+Partial Least Squares is fundamentally a [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) technique, sharing some conceptual similarities with [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) but with a unique approach. Unlike PCA, which focuses solely on capturing the variance in the predictors, PLS also takes the response variable into account, aiming to maximize the covariance between the predictors and the response. This makes PLS especially valuable in [predictive modeling](../p/predictive_modeling.md) and machine learning applications.
 
 ### The Mathematical Foundation of PLS
 
@@ -38,22 +38,22 @@ These steps are iterated for a predefined number of components or until the resi
 
 #### Portfolio Optimization
 
-[Algorithmic trading](../a/algorithmic_trading.md) strategies often rely on robust models for [portfolio optimization](../p/portfolio_optimization.md). PLS can be employed to model the relationships between different financial indicators and asset returns. This helps in dimensionality reduction when dealing with a large number of correlated predictors, improving the stability and reliability of the [portfolio optimization](../p/portfolio_optimization.md) process.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies often rely on robust models for [portfolio optimization](../p/portfolio_optimization.md). PLS can be employed to model the relationships between different financial indicators and asset returns. This helps in [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) when dealing with a large number of correlated predictors, improving the stability and reliability of the [portfolio optimization](../p/portfolio_optimization.md) process.
 
 #### Risk Management
 
-PLS is particularly useful in [risk management](../r/risk_management.md), where predicting the potential risk associated with financial instruments is crucial. By maximizing the covariance between predictors and the risk factors, PLS models can provide more accurate risk estimates.
+PLS is particularly useful in [risk management](../r/risk_management.md), where predicting the potential risk associated with financial instruments is crucial. By maximizing the covariance between predictors and the [risk factors](../r/risk_factors_in_trading.md), PLS models can provide more accurate risk estimates.
 
 #### Stock and Asset Price Prediction
 
-Predicting future asset prices is a complex task requiring the integration of numerous predictors, including historical prices, trading volumes, and macroeconomic indicators. PLS reduces the complexity of these inputs, enabling the construction of more efficient and predictive models.
+Predicting future asset prices is a complex task requiring the integration of numerous predictors, including historical prices, trading volumes, and macroeconomic indicators. PLS reduces the complexity of these inputs, enabling the construction of more efficient and [predictive models](../p/predictive_models_in_trading.md).
 
 ### Software and Tools
 
 Several statistical software packages and programming environments provide implementations of Partial Least Squares, making it accessible to data scientists and financial engineers.
 
 #### Python Libraries
-- **scikit-learn**: The `PLSRegression` module in scikit-learn is widely used in the data science community and provides a simple interface for applying PLS in [financial modeling](../f/financial_modeling.md).
+- **scikit-learn**: The `PLSRegression` module in scikit-learn is widely used in the [data science](../d/data_science_in_trading.md) community and provides a simple interface for applying PLS in [financial modeling](../f/financial_modeling.md).
 - **statsmodels**: This library offers comprehensive statistical modeling capabilities, including Partial Least Squares.
 
 #### R Packages
@@ -71,7 +71,7 @@ In a study focusing on [financial time series](../f/financial_time_series.md) pr
 
 #### Credit Risk Modeling
 
-Another notable application is in credit risk modeling, where PLS helps in creating predictive models for default probabilities. By reducing multicollinearity and capturing the latent structures between predictors and credit risk, PLS models have been shown to outperform standard logistic regression models.
+Another notable application is in credit risk modeling, where PLS helps in creating [predictive models](../p/predictive_models_in_trading.md) for default probabilities. By reducing [multicollinearity](../m/multicollinearity_in_trading.md) and capturing the latent structures between predictors and credit risk, PLS models have been shown to outperform standard [logistic regression](../l/logistic_regression_in_trading.md) models.
 
 ### Conclusion
 

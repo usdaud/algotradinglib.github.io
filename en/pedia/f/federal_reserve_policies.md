@@ -68,7 +68,7 @@ The Federal Reserve implemented several rounds of QE following the 2008 financia
 
 Forward guidance is a communication strategy used by the Federal Reserve to influence market expectations about the future path of monetary policy. By providing explicit guidance on factors that will influence monetary policy decisions, such as economic conditions, employment, and inflation targets, the Fed seeks to manage market expectations and enhance the effectiveness of its policy actions.
 
-For example, during periods of economic uncertainty, the Fed may indicate that it expects to keep interest rates low for an extended period, which can help anchor long-term interest rates and support economic activity.
+For example, during periods of economic [uncertainty](../u/uncertainty_in_trading.md), the Fed may indicate that it expects to keep interest rates low for an extended period, which can help anchor long-term interest rates and support economic activity.
 
 #### Interest Rate Policies
 
@@ -90,7 +90,7 @@ Conversely, during periods of economic expansion, the Fed may adopt more restric
 
 Federal Reserve policies also profoundly affect financial markets. Changes in interest rates and monetary policy can influence asset prices, investor behavior, and overall market sentiment. For example, lower interest rates typically lead to higher stock prices as investors search for higher returns in equities. Additionally, higher liquidity resulting from QE can boost asset prices across various markets, including real estate and commodities.
 
-Forward guidance and communication from the Fed also play a critical role in shaping market expectations. Clear and transparent communication can reduce uncertainty and volatility in financial markets, while unexpected policy changes or ambiguous signals can lead to market turbulence.
+Forward guidance and communication from the Fed also play a critical role in shaping market expectations. Clear and transparent communication can reduce [uncertainty](../u/uncertainty_in_trading.md) and volatility in financial markets, while unexpected policy changes or ambiguous signals can lead to market turbulence.
 
 #### Banking and Credit Conditions
 

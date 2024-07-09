@@ -17,7 +17,7 @@ UMM seeks to integrate various market components, typically distinguished by div
     - **Commodities**: Physical assets traded such as gold, oil, and agricultural products.
     - **Forex**: Foreign exchange markets involving currency pairs.
 
-3. **Order Types and Attributes**
+3. **[Order Types](../o/order_types_in_trading.md) and Attributes**
     - **Market Orders**: Immediate execution at current market prices.
     - **Limit Orders**: Execution at specified prices or better.
     - **Stop Orders**: Conditional orders activated when specified price limits are breached.
@@ -52,7 +52,7 @@ UMM seeks to integrate various market components, typically distinguished by div
     - **Market Making**: Providing liquidity to earn spread income, requiring sophisticated [risk management](../r/risk_management.md) and [execution algorithms](../e/execution_algorithms.md).
     - **Event-Driven**: Trading based on significant events like earnings releases, mergers, or macroeconomic reports.
 
-2. **[Backtesting](../b/backtesting.md) and Simulation**
+2. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**
    - Utilizing historical data to test algorithm performance, simulating real market conditions, and assessing [risk metrics](../r/risk_metrics.md) without financial exposure.
 
 3. **[Execution Algorithms](../e/execution_algorithms.md)**
@@ -70,7 +70,7 @@ UMM seeks to integrate various market components, typically distinguished by div
 
 1. **Trading Platforms**
    - **MetaTrader**: Popular among retail traders, providing robust charting and [algorithmic trading](../a/algorithmic_trading.md) tools. [MetaTrader](https://www.metatrader4.com)
-   - **Interactive Brokers (IBKR)**: Advanced platform with extensive market access for institutional and retail traders. [Interactive Brokers](https://www.interactivebrokers.com)
+   - **[Interactive Brokers](../i/interactive_brokers.md) (IBKR)**: Advanced platform with extensive market access for institutional and retail traders. [Interactive Brokers](https://www.interactivebrokers.com)
 
 2. **Market Data Providers**
    - **[Bloomberg](../b/bloomberg.md)**: Comprehensive financial services platform offering market data, news, and analytics. [Bloomberg](https://www.bloomberg.com)
@@ -82,7 +82,7 @@ UMM seeks to integrate various market components, typically distinguished by div
 ### Challenges and Future Directions
 
 1. **Regulatory Changes**
-    - Constant evolution in financial regulation necessitates adaptability in algorithmic systems to maintain compliance and operational efficiency.
+    - Constant evolution in financial regulation necessitates adaptability in algorithmic systems to maintain compliance and [operational efficiency](../o/operational_efficiency_in_trading.md).
   
 2. **Technological Advancements**
     - Integration of AI and machine learning to enhance [predictive modeling](../p/predictive_modeling.md), [risk management](../r/risk_management.md), and [adaptive algorithms](../a/adaptive_algorithms.md).

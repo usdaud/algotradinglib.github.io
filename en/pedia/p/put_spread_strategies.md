@@ -127,7 +127,7 @@ Implied and [historical volatility](../h/historical_volatility.md) can significa
 
 ## Technological Tools
 
-Utilizing modern trading platforms and analytical tools can help in crafting and monitoring put spread strategies efficiently. Platforms like [Thinkorswim](../t/thinkorswim.md), Interactive Brokers, and [TradeStation](../t/tradestation.md) offer robust tools for analyzing option data, [backtesting](../b/backtesting.md) strategies, and executing trades seamlessly.
+Utilizing modern trading platforms and analytical tools can help in crafting and monitoring put spread strategies efficiently. Platforms like [Thinkorswim](../t/thinkorswim.md), [Interactive Brokers](../i/interactive_brokers.md), and [TradeStation](../t/tradestation.md) offer robust tools for analyzing option data, [backtesting](../b/backtesting.md) strategies, and executing trades seamlessly.
 
 ### Thinkorswim by TD Ameritrade
 [Thinkorswim](../t/thinkorswim.md) provides advanced charting capabilities, real-time data, and comprehensive options analytics. It allows traders to simulate trades, analyze risk profiles, and utilize various volatility metrics.
@@ -135,7 +135,7 @@ Utilizing modern trading platforms and analytical tools can help in crafting and
 [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### Interactive Brokers
-Interactive Brokers offers global market access, advanced trading tools, and sophisticated options analytics. It provides customizable charts, real-time data, and a variety of order types suitable for executing spread strategies.
+[Interactive Brokers](../i/interactive_brokers.md) offers global market access, advanced trading tools, and sophisticated options analytics. It provides customizable charts, real-time data, and a variety of [order types](../o/order_types_in_trading.md) suitable for executing spread strategies.
 
 [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=612&ns=T)
 

@@ -61,7 +61,7 @@ Techniques like [mean-variance optimization](../m/mean-variance_optimization.md)
 
 ### Machine Learning
 
-Machine learning models can also be adapted for low-frequency data, including both supervised methods (e.g., regression, classification) and unsupervised methods (e.g., clustering, dimensionality reduction).
+Machine learning models can also be adapted for low-frequency data, including both supervised methods (e.g., regression, classification) and unsupervised methods (e.g., clustering, [dimensionality reduction](../d/dimensionality_reduction_in_trading.md)).
 
 ## Risk Management
 
@@ -87,7 +87,7 @@ Ensuring adequate market liquidity is crucial for the execution of larger trades
 
 ### Algorithmic Trading Platforms
 
-Apart from [QuantConnect](../q/quantconnect.md), there are other platforms like MetaTrader (MT4 and MT5), [TradeStation](../t/tradestation.md), and Interactive Brokers, which offer tools and features useful for [low-frequency trading](../l/low-frequency_trading.md) strategies.
+Apart from [QuantConnect](../q/quantconnect.md), there are other platforms like MetaTrader (MT4 and MT5), [TradeStation](../t/tradestation.md), and [Interactive Brokers](../i/interactive_brokers.md), which offer tools and features useful for [low-frequency trading](../l/low-frequency_trading.md) strategies.
 
 ### MetaTrader
 

@@ -18,7 +18,7 @@ Collecting accurate and reliable last price data is crucial. Several primary dat
 
 1. **Stock Exchanges**: Official trading venues like NYSE, NASDAQ, provide real-time last price data.
 2. **Data Providers**: Companies such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Intrinio](../i/intrinio.md) offer comprehensive datasets.
-3. **Brokers**: Online brokerage platforms like Interactive Brokers (https://www.interactivebrokers.com/) provide market data feeds.
+3. **Brokers**: Online brokerage platforms like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) provide market data feeds.
 
 ## How Last Price is Calculated
 
@@ -42,10 +42,10 @@ Technical analysts heavily rely on the last price to make trading decisions by e
 
 ### Quantitative Analysis
 
-In [quantitative finance](../q/quantitative_finance.md), researchers use mathematical models to analyze last price data:
+In [quantitative finance](../q/quantitative_finance.md), researchers use [mathematical models](../m/mathematical_models_in_trading.md) to analyze last price data:
 
 1. **Statistical Analysis**: Employing statistical methods such as [mean reversion](../m/mean_reversion.md), regression, and [variance analysis](../v/variance_analysis.md).
-2. **Machine Learning Algorithms**: Utilizing AI to predict price movements based on historical last prices.
+2. **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Utilizing AI to predict price movements based on historical last prices.
 3. **[Time Series Analysis](../t/time_series_analysis.md)**: Applying models like ARIMA (Auto-Regressive Integrated Moving Average) to forecast future prices.
 
 ### High-Frequency Trading (HFT)

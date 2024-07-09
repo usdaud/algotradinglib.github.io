@@ -25,7 +25,7 @@ Hedging involves taking offsetting positions in related securities to counterbal
 [Grid trading](../g/grid_trading.md) is a type of trading strategy that places buy and sell orders at predefined intervals around a set price. While the market fluctuates, it will trigger these orders, thus capturing profits from the volatility without trying to predict directions.
 
 ### 4. **Sophisticated Algorithms**
-Advanced algorithms that incorporate machine learning and artificial intelligence can dynamically adapt to changing market conditions better than static models. These sophisticated algorithms are capable of learning from past market behavior, thus reducing the risk of unexpected events.
+Advanced algorithms that incorporate machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can dynamically adapt to changing market conditions better than static models. These sophisticated algorithms are capable of learning from past market behavior, thus reducing the risk of unexpected events.
 
 ### 5. **Risk Parity**
 [Risk parity](../r/risk_parity.md) is an investment approach that focuses on allocating capital according to risk rather than expected return. By equalizing the risk contribution of each asset in the portfolio, this method reduces variance and contributes to a more balanced investment strategy.
@@ -40,7 +40,7 @@ A stop-loss order is an order placed with a broker to buy or sell once the stock
 Regular calibration and adjustment of [trading algorithms](../t/trading_algorithms.md) to reflect the latest market conditions are crucial. Over time, market dynamics can change, and an unmodified algorithm may not perform consistently; hence, periodic calibration is necessary to ensure reduced variance in performance.
 
 ### 9. **Statistical Arbitrage**
-Statistical [arbitrage](../a/arbitrage.md) involves [trading strategies](../t/trading_strategies.md) that use statistical techniques to exploit price inefficiencies in the market. These strategies often involve complex mathematical models and large datasets to forecast price movements. Since these inefficiencies are usually short-lived, the risk and hence the variance associated with such strategies tend to be lower.
+Statistical [arbitrage](../a/arbitrage.md) involves [trading strategies](../t/trading_strategies.md) that use statistical techniques to exploit price inefficiencies in the market. These strategies often involve complex [mathematical models](../m/mathematical_models_in_trading.md) and large datasets to forecast price movements. Since these inefficiencies are usually short-lived, the risk and hence the variance associated with such strategies tend to be lower.
 
 ### 10. **Portfolio Rebalancing**
 Periodic [portfolio rebalancing](../p/portfolio_rebalancing.md) helps in maintaining the desired level of risk by readjusting the weights of the assets in the portfolio. This readjustment helps in capturing gains from overperforming assets and investing them in underperforming ones, thereby reducing overall risk and variance.
@@ -51,7 +51,7 @@ Periodic [portfolio rebalancing](../p/portfolio_rebalancing.md) helps in maintai
 
 - **Diversification in Software Solutions**: EPAM assists financial institutions in creating diversified trading platforms that include various asset classes and market access points.
 - **Algorithm Development**: The company has expertise in developing advanced [trading algorithms](../t/trading_algorithms.md) that are capable of real-time learning and dynamic adjustment to changing market conditions.
-- **[Risk Management](../r/risk_management.md) Systems**: EPAM's [risk management](../r/risk_management.md) solutions include features like real-time risk assessment, stress testing, and compliance reporting which are crucial for monitoring and reducing variance.
+- **[Risk Management](../r/risk_management.md) Systems**: EPAM's [risk management](../r/risk_management.md) solutions include features like real-time risk assessment, [stress testing](../s/stress_testing_in_trading.md), and compliance reporting which are crucial for monitoring and reducing variance.
 
 ## Conclusion
 

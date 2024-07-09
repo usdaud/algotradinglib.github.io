@@ -48,7 +48,7 @@ Quantitative Performance Measurement (QPM) is a systematic approach to assessing
 - **Monte Carlo Simulations** leverage random sampling to model the probability of different outcomes in a process that cannot be easily predicted due to the intervention of random variables. This helps in understanding the range of potential future performance paths.
 
 #### 3. Stress Testing
-- **Stress Testing** involves simulating extreme market conditions to evaluate the resilience of [trading strategies](../t/trading_strategies.md) under adverse scenarios. This ensures that strategies can withstand market shocks and high volatility.
+- **[Stress Testing](../s/stress_testing_in_trading.md)** involves simulating extreme market conditions to evaluate the resilience of [trading strategies](../t/trading_strategies.md) under adverse scenarios. This ensures that strategies can withstand market shocks and high volatility.
 
 ### Tools and Platforms
 
@@ -76,7 +76,7 @@ Quantitative Performance Measurement (QPM) is a systematic approach to assessing
 Renaissance Technologies is a renowned quantitative hedge fund known for its Medallion Fund. Their success is attributed to sophisticated [quantitative models](../q/quantitative_models.md) and a strong focus on quantitative performance measurement. [Website](https://www.rentec.com)
 
 #### 2. Two Sigma
-Two Sigma uses artificial intelligence, machine learning, and [quantitative analysis](../q/quantitative_analysis.md) to uncover investment opportunities. Their rigorous approach to performance measurement ensures optimal strategy effectiveness. [Website](https://www.twosigma.com)
+Two Sigma uses [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [quantitative analysis](../q/quantitative_analysis.md) to uncover investment opportunities. Their rigorous approach to performance measurement ensures optimal strategy effectiveness. [Website](https://www.twosigma.com)
 
 ### Conclusion
 

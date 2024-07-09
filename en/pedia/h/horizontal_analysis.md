@@ -7,7 +7,7 @@ Horizontal Analysis, also known as [trend analysis](../t/trend_analysis.md), is 
 #### Purpose of Horizontal Analysis
 The primary goal of Horizontal Analysis is to identify trends and growth patterns over time. By examining changes in financial line items over a sequence of reporting periods, businesses and analysts can:
 
-- Detect growth trends or decline in revenues, expenses, profits, and other financial metrics.
+- Detect [growth trends](../g/growth_trends_in_trading.md) or decline in revenues, expenses, profits, and other financial metrics.
 - Make informed predictions about future financial performance.
 - Assess the impact of business strategies and operational changes over time.
 - Compare the performance of a company against industry norms and competitors.
@@ -31,7 +31,7 @@ Horizontal Analysis typically involves calculating the percentage change in fina
 Horizontal Analysis on the income statement helps in understanding the trends in revenues, cost of goods sold (COGS), operating expenses, and net income. For example:
 - **Revenue Growth**: Tracking the percentage growth in revenues over several periods to assess demand and market expansion.
 - **Expense Management**: Analyzing trends in operating expenses to evaluate cost control measures.
-- **Profit Margins**: Examining the changes in net income to assess profitability trends.
+- **[Profit Margins](../p/profit_margins_in_trading.md)**: Examining the changes in net income to assess profitability trends.
 
 #### Balance Sheet Analysis
 When applied to the balance sheet, Horizontal Analysis can reveal trends in assets, liabilities, and equity. For instance:

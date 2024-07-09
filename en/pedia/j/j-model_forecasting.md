@@ -10,9 +10,9 @@ J-Model Forecasting is a relatively recent addition to the array of [forecasting
 
 1. **Data Aggregation**: The first step involves the collection of vast amounts of data from multiple sources. This includes historical prices, trading volumes, [economic indicators](../e/economic_indicators.md), [social media sentiment](../s/social_media_sentiment.md), and other relevant data points. Advanced models may also incorporate [alternative data](../a/alternative_data.md) like satellite imagery or internet search trends.
 
-2. **Feature Engineering**: This step involves transforming raw data into meaningful features that can be used by machine learning algorithms. Feature engineering may include creating lagged variables, calculating [technical indicators](../t/technical_indicators.md), or deriving sentiment scores from textual data.
+2. **Feature Engineering**: This step involves transforming raw data into meaningful features that can be used by machine [learning algorithms](../l/learning_algorithms_in_trading.md). Feature engineering may include creating [lagged variables](../l/lagged_variables_in_trading.md), calculating [technical indicators](../t/technical_indicators.md), or deriving sentiment scores from textual data.
 
-3. **Algorithm Selection**: A crucial part of the J-Model is the selection of appropriate algorithms. This often includes a combination of traditional statistical methods like ARIMA (AutoRegressive Integrated Moving Average) and more advanced machine learning techniques such as Random Forests, Gradient Boosting Machines, or Deep Learning models.
+3. **Algorithm Selection**: A crucial part of the J-Model is the selection of appropriate algorithms. This often includes a combination of traditional statistical methods like ARIMA (AutoRegressive Integrated Moving Average) and more advanced machine learning techniques such as [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, or Deep Learning models.
 
 4. **Training and Validation**: The chosen algorithms are then trained on historical data and validated using a portion of the data set aside for this purpose. Techniques like cross-validation are employed to ensure the model generalizes well to unseen data.
 
@@ -26,17 +26,17 @@ J-Model Forecasting is a relatively recent addition to the array of [forecasting
 
 ### Machine Learning Techniques
 
-1. **Supervised Learning**: This involves training algorithms on labeled data, where the model learns a mapping from input features to the output predictions. Common supervised learning algorithms used in J-Model Forecasting include:
+1. **Supervised Learning**: This involves training algorithms on labeled data, where the model learns a mapping from input features to the output predictions. Common supervised [learning algorithms](../l/learning_algorithms_in_trading.md) used in J-Model Forecasting include:
 
     - **[Linear Regression](../l/linear_regression.md)**: Despite its simplicity, [linear regression](../l/linear_regression.md) can serve as a useful benchmark or be combined with more complex models.
-    - **Random Forests**: An [ensemble learning](../e/ensemble_learning.md) method that operates by constructing multiple [decision trees](../d/decision_trees.md).
+    - **[Random Forests](../r/random_forests_in_trading.md)**: An [ensemble learning](../e/ensemble_learning.md) method that operates by constructing multiple [decision trees](../d/decision_trees.md).
     - [**Gradient Boosting Machines**](https://xgboost.readthedocs.io/): These models build progressively stronger models by focusing on the errors of previous models.
-    - **Neural Networks and Deep Learning**: Advanced architectures like LSTM (Long Short-Term Memory) networks are particularly effective for time-series forecasting.
+    - **[Neural Networks](../n/neural_networks_in_trading.md) and Deep Learning**: Advanced architectures like LSTM (Long Short-Term Memory) networks are particularly effective for time-series forecasting.
 
 2. **Unsupervised Learning**: Methods like clustering can be used to identify underlying structures in the data that may not be immediately apparent. Techniques include:
 
-    - **K-means Clustering**: Groups data into clusters based on similarity, which can help in identifying different market regimes.
-    - **Principal Component Analysis (PCA)**: Reduces the dimensionality of data, making it easier to visualize and interpret.
+    - **[K-means Clustering](../k/k-means_clustering_in_trading.md)**: Groups data into clusters based on similarity, which can help in identifying different market regimes.
+    - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces the dimensionality of data, making it easier to visualize and interpret.
 
 ### Time Series Analysis
 
@@ -47,7 +47,7 @@ J-Model Forecasting is a relatively recent addition to the array of [forecasting
 
 ### Sentiment Analysis
 
-Incorporating [sentiment analysis](../s/sentiment_analysis.md) involves extracting sentiment scores from textual data sources like news articles, social media posts, and financial reports. Natural Language Processing (NLP) techniques such as:
+Incorporating [sentiment analysis](../s/sentiment_analysis.md) involves extracting sentiment scores from textual data sources like news articles, social media posts, and financial reports. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques such as:
 
 - **Bag of Words**: Represents textual data as word frequency vectors.
 - **TF-IDF (Term Frequency-Inverse Document Frequency)**: Weighs terms based on their importance.

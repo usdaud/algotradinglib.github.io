@@ -1,6 +1,6 @@
 # X-Stock Analysis
 
-X-Stock Analysis refers to a sophisticated form of stock market analysis that leverages advanced algorithms, machine learning techniques, and big data analytics to make informed trading decisions. This approach is part of the broader field of [algorithmic trading](../a/algorithmic_trading.md), which uses mathematical models to identify and execute trading opportunities. In this document, we will delve into the intricacies of X-Stock Analysis, exploring its components, benefits, challenges, and real-world applications.
+X-Stock Analysis refers to a sophisticated form of stock market analysis that leverages advanced algorithms, machine learning techniques, and [big data analytics](../b/big_data_analytics_in_trading.md) to make informed trading decisions. This approach is part of the broader field of [algorithmic trading](../a/algorithmic_trading.md), which uses [mathematical models](../m/mathematical_models_in_trading.md) to identify and execute trading opportunities. In this document, we will delve into the intricacies of X-Stock Analysis, exploring its components, benefits, challenges, and real-world applications.
 
 ## Introduction to X-Stock Analysis
 
@@ -23,13 +23,13 @@ Before the collected data can be fed into the analysis algorithms, it needs to b
 
 - **[Data Cleaning](../d/data_cleaning.md)**: Removing inaccuracies, duplicate entries, and irrelevant information.
 - **Normalization**: Transforming data into a common format or scale.
-- **Feature Engineering**: Creating new variables that can improve the performance of the predictive models. This might involve using techniques such as principal component analysis (PCA) to reduce data dimensionality.
+- **Feature Engineering**: Creating new variables that can improve the performance of the [predictive models](../p/predictive_models_in_trading.md). This might involve using techniques such as [principal component analysis](../p/principal_component_analysis_(pca).md) (PCA) to reduce data dimensionality.
 
 ### Algorithmic Models
 
 At the heart of X-Stock Analysis are the algorithmic models that leverage the preprocessed data to make trading decisions. Some common types of models include:
 
-- **Machine Learning Models**: These can be supervised, unsupervised, or reinforcement learning models. Examples include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), random forests, and neural networks.
+- **Machine Learning Models**: These can be supervised, unsupervised, or reinforcement learning models. Examples include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md).
 - **Statistical Models**: Models like autoregressive integrated moving average (ARIMA) or generalized autoregressive conditional heteroskedasticity (GARCH) are used for time-series forecasting.
 - **[Algorithmic Trading](../a/algorithmic_trading.md) Strategies**: Strategies like [mean reversion](../m/mean_reversion.md), [momentum trading](../m/momentum_trading.md), [arbitrage](../a/arbitrage.md), and [sentiment analysis](../s/sentiment_analysis.md).
 
@@ -61,7 +61,7 @@ The use of advanced algorithms ensures a high level of precision in identifying 
 
 ### Reduction of Human Bias
 
-Human decision-making is often influenced by emotions and cognitive biases. Algorithmic models, on the other hand, rely purely on data, reducing the influence of these biases on trading decisions.
+Human decision-making is often influenced by emotions and [cognitive biases](../c/cognitive_biases_in_trading.md). Algorithmic models, on the other hand, rely purely on data, reducing the influence of these biases on trading decisions.
 
 ### Backtesting
 
@@ -93,11 +93,11 @@ Algo trading is subject to strict regulatory oversight to prevent market manipul
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is one of the most famous [quantitative hedge funds](../q/quantitative_hedge_funds.md) that leverages sophisticated algorithms to achieve remarkable returns. The firm's Medallion Fund uses complex mathematical models to analyze and trade a wide array of financial instruments. [Renaissance Technologies](https://www.rentec.com)
+Renaissance Technologies, founded by Jim Simons, is one of the most famous [quantitative hedge funds](../q/quantitative_hedge_funds.md) that leverages sophisticated algorithms to achieve remarkable returns. The firm's Medallion Fund uses complex [mathematical models](../m/mathematical_models_in_trading.md) to analyze and trade a wide array of financial instruments. [Renaissance Technologies](https://www.rentec.com)
 
 ### Two Sigma
 
-Two Sigma is another prominent quantitative hedge fund that applies data science and technology to financial markets. The firm employs machine learning, distributed computing, and other advanced techniques to devise innovative [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com)
+Two Sigma is another prominent quantitative hedge fund that applies [data science](../d/data_science_in_trading.md) and technology to financial markets. The firm employs machine learning, distributed computing, and other advanced techniques to devise innovative [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com)
 
 ### AQR Capital Management
 

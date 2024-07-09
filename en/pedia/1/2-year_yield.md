@@ -66,7 +66,7 @@ While the 2-Year Yield is specific to U.S. Treasuries, similar short-term sovere
 
 ### Geopolitical and Macro Events
 
-[Geopolitical events](../g/geopolitical_events.md), such as trade wars, military conflicts, and significant policy shifts, can impact the 2-Year Yield. Algorithms often include geopolitical risk factors in their models to pre-emptively adjust trades based on the potential impact of such events on market dynamics.
+[Geopolitical events](../g/geopolitical_events.md), such as trade wars, military conflicts, and significant policy shifts, can impact the 2-Year Yield. Algorithms often include geopolitical [risk factors](../r/risk_factors_in_trading.md) in their models to pre-emptively adjust trades based on the potential impact of such events on market dynamics.
 
 ## Conclusion
 

@@ -1,20 +1,20 @@
 # Robust Optimization
 
-Robust Optimization (RO) is a field within optimization that deals with decision-making problems under uncertainty. In contrast to classical optimization, which assumes precise inputs, robust optimization explicitly incorporates uncertain data, seeking solutions that perform well across a range of possible scenarios. This approach is crucial in many real-world applications, including finance, supply chain management, engineering, and more.
+Robust Optimization (RO) is a field within optimization that deals with decision-making problems under [uncertainty](../u/uncertainty_in_trading.md). In contrast to classical optimization, which assumes precise inputs, robust optimization explicitly incorporates uncertain data, seeking solutions that perform well across a range of possible scenarios. This approach is crucial in many real-world applications, including finance, supply chain management, engineering, and more.
 
 ## Key Concepts in Robust Optimization
 
 ### Uncertainty Sets
 
-The cornerstone of robust optimization is the concept of uncertainty sets. These sets describe all possible values that uncertain parameters can take. Common types of uncertainty sets include:
+The cornerstone of robust optimization is the concept of [uncertainty](../u/uncertainty_in_trading.md) sets. These sets describe all possible values that uncertain parameters can take. Common types of [uncertainty](../u/uncertainty_in_trading.md) sets include:
 
-1. **Box Uncertainty:** Each uncertain parameter varies within an independent interval.
-2. **Ellipsoidal Uncertainty:** Parameters vary within an ellipsoid, often used when there's a known correlation between uncertainties.
-3. **Polyhedral Uncertainty:** Parameters are constrained within a polyhedron, allowing for more complex relationships and dependencies.
+1. **Box [Uncertainty](../u/uncertainty_in_trading.md):** Each uncertain parameter varies within an independent interval.
+2. **Ellipsoidal [Uncertainty](../u/uncertainty_in_trading.md):** Parameters vary within an ellipsoid, often used when there's a known correlation between uncertainties.
+3. **Polyhedral [Uncertainty](../u/uncertainty_in_trading.md):** Parameters are constrained within a polyhedron, allowing for more complex relationships and dependencies.
 
 ### Robust Counterparts
 
-For an optimization problem with uncertain parameters, the robust counterpart is a reformulation that seeks solutions feasible for all possible realizations within the uncertainty set. The goal is to ensure that the obtained solution remains viable under varying conditions. Techniques used to derive robust counterparts include:
+For an optimization problem with uncertain parameters, the robust counterpart is a reformulation that seeks solutions feasible for all possible realizations within the [uncertainty](../u/uncertainty_in_trading.md) set. The goal is to ensure that the obtained solution remains viable under varying conditions. Techniques used to derive robust counterparts include:
 
 1. **Primal Robust Counterparts:** Translating the uncertain problem directly into a robust form.
 2. **Dual Robust Counterparts:** Using duality theory to obtain a robust formulation.
@@ -40,7 +40,7 @@ Example: Goldman Sachs [link to recent research or application on the company's 
 
 In supply chain management, robust optimization assists in designing systems to withstand demand variability, lead time uncertainties, and supply disruptions. Applications include:
 
-- **Inventory Management:** Balancing stock levels to avoid both excess and stockouts under demand uncertainty.
+- **Inventory Management:** Balancing stock levels to avoid both excess and stockouts under demand [uncertainty](../u/uncertainty_in_trading.md).
 - **Network Design:** Creating resilient transportation and distribution networks.
 
 Example: IBM's approach to robust supply chain solutions [Link to relevant IBM page].
@@ -56,8 +56,8 @@ In engineering, robust optimization is applied to design systems and structures 
 
 Several methodologies have been developed to tackle robust optimization problems, including:
 
-1. **Constraint Relaxation:** Adjusting constraints to accommodate uncertainty.
-2. **Scenario-Based Approaches:** Using multiple scenarios to capture uncertainty and drive decisions.
+1. **Constraint Relaxation:** Adjusting constraints to accommodate [uncertainty](../u/uncertainty_in_trading.md).
+2. **Scenario-Based Approaches:** Using multiple scenarios to capture [uncertainty](../u/uncertainty_in_trading.md) and drive decisions.
 3. **Adaptive Robust Optimization:** Updating decisions as more information becomes available.
 
 ### Algorithms and Software
@@ -72,11 +72,11 @@ Robust optimization theory has evolved significantly, with contributions from va
 
 - **Multi-Stage Robust Optimization:** Extends RO to sequential decision-making problems.
 - **Distributionally Robust Optimization:** Combines elements of RO with probabilistic approaches, considering the worst-case distribution within a defined set.
-- **Stochastic Robust Optimization:** Integrates [stochastic processes](../s/stochastic_processes.md) with RO, providing a more nuanced approach to uncertainty.
+- **Stochastic Robust Optimization:** Integrates [stochastic processes](../s/stochastic_processes.md) with RO, providing a more nuanced approach to [uncertainty](../u/uncertainty_in_trading.md).
 
 ### Challenges and Future Directions
 
-Robust optimization faces several challenges, including high computational demands and difficulty in accurately modeling uncertainty. Future directions in the field involve:
+Robust optimization faces several challenges, including high computational demands and difficulty in accurately modeling [uncertainty](../u/uncertainty_in_trading.md). Future directions in the field involve:
 
 1. **Efficient Algorithms:** Developing more efficient algorithms to handle larger and more complex problems.
 2. **Integration with Machine Learning:** Leveraging machine learning techniques to better predict and manage uncertainties.
@@ -84,4 +84,4 @@ Robust optimization faces several challenges, including high computational deman
 
 ## Conclusion
 
-Robust optimization provides a powerful framework for [decision-making under uncertainty](../d/decision-making_under_uncertainty.md), offering solutions that are viable under a wide range of scenarios. Its applications span finance, supply chain management, engineering, and beyond, impacting how we design systems and make strategic choices in uncertain environments. As computational techniques advance and our understanding of uncertainty deepens, robust optimization will continue to play a critical role in various industries, delivering solutions that are not only optimal but also resilient to the vagaries of real-world conditions.
+Robust optimization provides a powerful framework for [decision-making under uncertainty](../d/decision-making_under_uncertainty.md), offering solutions that are viable under a wide range of scenarios. Its applications span finance, supply chain management, engineering, and beyond, impacting how we design systems and make strategic choices in uncertain environments. As computational techniques advance and our understanding of [uncertainty](../u/uncertainty_in_trading.md) deepens, robust optimization will continue to play a critical role in various industries, delivering solutions that are not only optimal but also resilient to the vagaries of real-world conditions.

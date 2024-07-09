@@ -53,7 +53,7 @@ Investors can utilize [derivatives](../d/derivatives.md) such as options, [inter
 
 ### Risk Management
 
-Advanced algorithms can incorporate complex [risk management](../r/risk_management.md) frameworks to mitigate the impact of negative convexity on portfolios. These frameworks often use real-time data and predictive models to dynamically adjust the holdings and hedging positions in response to interest rate changes.
+Advanced algorithms can incorporate complex [risk management](../r/risk_management.md) frameworks to mitigate the impact of negative convexity on portfolios. These frameworks often use real-time data and [predictive models](../p/predictive_models_in_trading.md) to dynamically adjust the holdings and hedging positions in response to interest rate changes.
 
 ### Machine Learning Techniques
 

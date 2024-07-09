@@ -27,7 +27,7 @@ Tangible Common Equity is the equity capital of a company that excludes intangib
 
 ### Importance of ROTE
 
-1. **Focused Evaluation**: By excluding intangible assets, ROTE focuses solely on the returns generated from tangible assets, providing a clearer picture of operational efficiency and asset productivity.
+1. **Focused Evaluation**: By excluding intangible assets, ROTE focuses solely on the returns generated from tangible assets, providing a clearer picture of [operational efficiency](../o/operational_efficiency_in_trading.md) and asset productivity.
 2. **[Comparative Analysis](../c/comparative_analysis.md)**: ROTE allows for better comparisons across companies within the same industry, especially those with significant intangible assets like tech companies or firms heavily invested in R&D.
 3. **Risk Assessment**: Intangible assets can be harder to assess and may carry higher risk. By excluding them, ROTE offers insights into the more stable and assessable portions of a company's equity.
 4. **[Performance Benchmarking](../p/performance_benchmarking.md)**: Investors and analysts use ROTE to benchmark a company's performance against its peers and historical data, aiding in investment decisions and strategic analysis.
@@ -75,6 +75,6 @@ By focusing on tangible assets, ROTE helps in assessing the risk profile of a co
 
 ### Conclusion
 
-Return on Tangible Equity (ROTE) is a vital metric for financial analysis, offering a focused view of a company's ability to generate returns from its tangible assets. While it has its limitations, particularly for companies with significant intangible assets, it remains a crucial tool for investors, analysts, and corporate managers to assess operational efficiency, identify strategic improvements, and make informed investment decisions.
+Return on Tangible Equity (ROTE) is a vital metric for financial analysis, offering a focused view of a company's ability to generate returns from its tangible assets. While it has its limitations, particularly for companies with significant intangible assets, it remains a crucial tool for investors, analysts, and corporate managers to assess [operational efficiency](../o/operational_efficiency_in_trading.md), identify strategic improvements, and make informed investment decisions.
 
 For more detailed insights, documentation, and reports, consider visiting the links and resources provided by leading financial institutions and analysis firms.

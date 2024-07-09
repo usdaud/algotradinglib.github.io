@@ -60,7 +60,7 @@ In high-frequency trading, algorithms can detect and act on [candlestick pattern
 
 ## Software and Tools
 
-Several software platforms offer comprehensive tools for candlestick charting and [pattern recognition](../p/pattern_recognition.md), helping traders implement these techniques effectively.
+Several [software platforms](../s/software_platforms_for_trading.md) offer comprehensive tools for candlestick charting and [pattern recognition](../p/pattern_recognition.md), helping traders implement these techniques effectively.
 
 - [TradingView](https://www.tradingview.com/): A popular platform with extensive charting tools and the ability to create and share custom indicators based on [candlestick patterns](../c/candlestick_patterns.md).
 - [NinjaTrader](https://ninjatrader.com/): Provides advanced charting, analysis, and automated trading capabilities with support for [candlestick pattern recognition](../c/candlestick_pattern_recognition.md).

@@ -1,6 +1,6 @@
 # Negative Volatility Strategies
 
-Volatility is a key metric in the financial markets representing the degree of variation in asset prices over time. It essentially measures the uncertainty or risk associated with changes in a security's value. While most [trading strategies](../t/trading_strategies.md) are designed to capitalize on positive volatility (i.e., betting that an asset's price will move significantly in one direction), negative volatility strategies are designed to benefit from the opposite: a market's uncertainty, chaotic movements, or the lack of significant price changes.
+Volatility is a key metric in the financial markets representing the degree of variation in asset prices over time. It essentially measures the [uncertainty](../u/uncertainty_in_trading.md) or risk associated with changes in a security's value. While most [trading strategies](../t/trading_strategies.md) are designed to capitalize on positive volatility (i.e., betting that an asset's price will move significantly in one direction), negative volatility strategies are designed to benefit from the opposite: a market's [uncertainty](../u/uncertainty_in_trading.md), chaotic movements, or the lack of significant price changes.
 
 ## Understanding Volatility
 
@@ -57,7 +57,7 @@ Volatility [arbitrage](../a/arbitrage.md) involves exploiting the difference bet
 
 Several financial firms and hedge funds specialize in volatility trading, particularly in implementing negative volatility strategies. Some notable companies include:
 
-- **Two Sigma Investments**: A tech-driven firm that combines advanced artificial intelligence and big data to execute a range of [trading strategies](../t/trading_strategies.md), including volatility trading. Learn more at [Two Sigma](https://www.twosigma.com/).
+- **Two Sigma Investments**: A tech-driven firm that combines advanced [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [big data](../b/big_data_in_trading.md) to execute a range of [trading strategies](../t/trading_strategies.md), including volatility trading. Learn more at [Two Sigma](https://www.twosigma.com/).
 - **Renaissance Technologies**: Known for the Medallion Fund, this firm utilizes quantitative methods to achieve high returns while managing risk, including [volatility risk](../v/volatility_risk.md). Visit [Renaissance Technologies](https://www.rentec.com/).
 - **AQR Capital Management**: Employs a diverse approach to trading, including strategies that involve shorting volatility. Detailed information can be found at [AQR](https://www.aqr.com/).
 

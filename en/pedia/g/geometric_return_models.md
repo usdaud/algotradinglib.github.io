@@ -2,7 +2,7 @@
 
 ### Introduction
 
-[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on mathematical models to forecast and optimize [trading strategies](../t/trading_strategies.md). One of the critical components of these models is the calculation of returns. While there are multiple ways to calculate returns, the geometric return is particularly significant due to its compounding nature, making it highly relevant for long-term investment strategies in [algorithmic trading](../a/algorithmic_trading.md).
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on [mathematical models](../m/mathematical_models_in_trading.md) to forecast and optimize [trading strategies](../t/trading_strategies.md). One of the critical components of these models is the calculation of returns. While there are multiple ways to calculate returns, the geometric return is particularly significant due to its compounding nature, making it highly relevant for long-term investment strategies in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### What is Geometric Return?
 
@@ -27,10 +27,10 @@ Geometric return provides a more accurate measure of the average rate of return 
 
 ### Mathematical Foundation
 
-The geometric return builds upon the principles of geometric mean, extending it into multiple-period returns. The geometric mean is defined as:
+The geometric return builds upon the principles of [geometric mean](../g/geometric_mean_in_trading.md), extending it into multiple-period returns. The [geometric mean](../g/geometric_mean_in_trading.md) is defined as:
 
 \[ 
-\text{Geometric Mean} = \left( \prod_{i=1}^{n} X_i \right)^{\frac{1}{n}} 
+\text{[Geometric Mean](../g/geometric_mean_in_trading.md)} = \left( \prod_{i=1}^{n} X_i \right)^{\frac{1}{n}} 
 \]
 
 For returns, the formula becomes:
@@ -53,7 +53,7 @@ Metrics such as the [Sharpe ratio](../s/sharpe_ratio.md) and [Sortino ratio](../
 
 #### 3. Portfolio Rebalancing
 
-Geometric return models assist in determining the long-term growth rates of portfolio components, which is essential for periodic rebalancing. By understanding the compounded growth rates, traders can make more informed decisions about [asset allocation](../a/asset_allocation.md) to optimize returns and manage risks effectively.
+Geometric return models assist in determining the long-term [growth rates](../g/growth_rates_in_trading.md) of portfolio components, which is essential for periodic rebalancing. By understanding the compounded [growth rates](../g/growth_rates_in_trading.md), traders can make more informed decisions about [asset allocation](../a/asset_allocation.md) to optimize returns and manage risks effectively.
 
 #### 4. High-Frequency Trading (HFT)
 
@@ -63,7 +63,7 @@ Although HFT often focuses on short-term gains, understanding the geometric retu
 
 #### Case Study 1: QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading strategies](../t/trading_strategies.md). The platform supports various mathematical models, including geometric return models. In [QuantConnect](../q/quantconnect.md), users can backtest their strategies using geometric returns to ensure that the compounding effect of returns is accurately reflected in their [performance metrics](../p/performance_metrics.md).
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading strategies](../t/trading_strategies.md). The platform supports various [mathematical models](../m/mathematical_models_in_trading.md), including geometric return models. In [QuantConnect](../q/quantconnect.md), users can backtest their strategies using geometric returns to ensure that the compounding effect of returns is accurately reflected in their [performance metrics](../p/performance_metrics.md).
 
 **Link**: [QuantConnect](https://www.quantconnect.com)
 

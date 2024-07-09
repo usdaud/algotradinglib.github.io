@@ -34,7 +34,7 @@ Several factors can influence the unemployment rate:
 1. **Economic Conditions**: Periods of economic downturn often result in higher unemployment rates, while growth phases typically see lower rates.
 2. **Technological Advancements**: Automation and technological changes can lead to structural unemployment by making certain jobs obsolete.
 3. **Globalization**: The international movement of jobs and capital can impact domestic employment levels.
-4. **Demographics**: Age, education, and population growth rates can influence overall unemployment rates.
+4. **Demographics**: Age, education, and population [growth rates](../g/growth_rates_in_trading.md) can influence overall unemployment rates.
 
 ## Methods of Analysis
 Unemployment rate analysis can employ various methods, including:

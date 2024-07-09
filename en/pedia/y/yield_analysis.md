@@ -103,7 +103,7 @@ ytm = calculate_ytm(bond_price, annual_coupon, face_value, years_to_maturity)
 print(f'The YTM of the bond is: {ytm:.4%}')
 ```
 
-This simple Python model uses numerical methods to estimate the [Yield to Maturity](../y/yield_to_maturity.md) of a bond given its price, coupon payments, face value, and years to maturity.
+This simple Python model uses [numerical methods](../n/numerical_methods_in_trading.md) to estimate the [Yield to Maturity](../y/yield_to_maturity.md) of a bond given its price, coupon payments, face value, and years to maturity.
 
 ## Challenges in Yield Analysis
 

@@ -8,7 +8,7 @@ A futures contract is a standardized legal agreement to buy or sell an asset at 
 - **Underlying Asset**: The specific commodity or financial instrument on which the futures contract is based.
 - **Contract Size**: The quantity of the underlying asset that the contract represents.
 - **Expiration Date**: The date on which the contract expires and the transaction must be settled.
-- **Settlement Method**: [Futures contracts](../f/futures_contracts.md) can be settled either by physical delivery of the asset or cash settlement.
+- **Settlement Method**: [Futures contracts](../f/futures_contracts.md) can be settled either by [physical delivery](../p/physical_delivery_in_trading.md) of the asset or cash settlement.
 
 ### Mechanics of a Long Futures Position
 Taking a long futures position involves entering into a futures contract with the intention of buying the underlying asset at a future date and a predetermined price. Here's a step-by-step view of how it works:
@@ -16,7 +16,7 @@ Taking a long futures position involves entering into a futures contract with th
 2. **Price Movements**: If the market price of the underlying asset increases, the value of the futures contract also rises. Conversely, if the market price falls, the value of the contract decreases.
 3. **Margin Requirements**: Traders must maintain a margin account, which acts as a security deposit to ensure they fulfill their contractual obligations. This margin consists of an initial margin (upfront deposit) and a maintenance margin (minimum account balance).
 4. **Marking to Market**: Futures accounts are marked to market daily, meaning that gains and losses are calculated and settled each trading day based on the closing market price.
-5. **Closing the Position**: The trader can close the long position by entering into an offsetting short position or letting the contract reach expiration, at which point the contract is settled by cash or physical delivery.
+5. **Closing the Position**: The trader can close the long position by entering into an offsetting short position or letting the contract reach expiration, at which point the contract is settled by cash or [physical delivery](../p/physical_delivery_in_trading.md).
 
 ### Example of a Long Futures Position
 Consider a investor who anticipates that the price of crude oil will increase. They decide to take a long position in crude oil futures:

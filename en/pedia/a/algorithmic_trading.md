@@ -1,6 +1,6 @@
 # Algorithmic Trading
 
-Algorithmic trading, also known as "algo trading" or "black-box trading," refers to the use of computer algorithms to automate trading decisions and execute orders in financial markets. These algorithms are typically based on complex mathematical models and can analyze large datasets far more quickly than a human trader. The primary goal of algorithmic trading is to ensure the best possible outcomes in terms of price, speed, and efficiency. Algorithmic trading has become a significant part of modern financial markets, and a number of companies specialize in providing algorithmic trading services and technologies.
+Algorithmic trading, also known as "algo trading" or "black-box trading," refers to the use of computer algorithms to automate trading decisions and execute orders in financial markets. These algorithms are typically based on complex [mathematical models](../m/mathematical_models_in_trading.md) and can analyze large datasets far more quickly than a human trader. The primary goal of algorithmic trading is to ensure the best possible outcomes in terms of price, speed, and efficiency. Algorithmic trading has become a significant part of modern financial markets, and a number of companies specialize in providing algorithmic trading services and technologies.
 
 ### Components of Algorithmic Trading
 
@@ -10,12 +10,12 @@ Algorithmic trading, also known as "algo trading" or "black-box trading," refers
    - **[Alternative Data](../a/alternative_data.md):** Unconventional data sources such as social media, news articles, and satellite imagery may also be used.
 
 2. **Strategy Development**
-   - **[Quantitative Analysis](../q/quantitative_analysis.md):** Use of mathematical models and statistical techniques to develop [trading strategies](../t/trading_strategies.md).
+   - **[Quantitative Analysis](../q/quantitative_analysis.md):** Use of [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to develop [trading strategies](../t/trading_strategies.md).
    - **[Backtesting](../b/backtesting.md):** Testing a trading strategy against historical data to evaluate its performance.
-   - **Simulation:** Simulating a trading strategy in a controlled environment before applying it in real-world markets.
+   - **[Simulation](../s/simulation_in_trading.md):** Simulating a trading strategy in a controlled environment before applying it in real-world markets.
 
 3. **Trade Execution**
-   - **Order Types:** Market orders, limit orders, [stop-loss orders](../s/stop-loss_orders.md), etc.
+   - **[Order Types](../o/order_types_in_trading.md):** Market orders, limit orders, [stop-loss orders](../s/stop-loss_orders.md), etc.
    - **[Execution Algorithms](../e/execution_algorithms.md):** Algorithms designed to execute trades at the best possible prices. Examples include VWAP (Volume Weighted Average Price), TWAP (Time Weighted Average Price), and Smart [Order Routing](../o/order_routing.md) (SOR).
    - **Latency:** Minimizing delay in trade execution to take advantage of market opportunities.
 
@@ -49,7 +49,7 @@ Algorithmic trading, also known as "algo trading" or "black-box trading," refers
    - Involves executing a large number of orders at very high speeds. It aims to capture small price discrepancies that exist for mere fractions of a second.
 
 7. **[Sentiment Analysis](../s/sentiment_analysis.md)**
-   - Uses natural language processing and machine learning to analyze market sentiment from news articles, social media, and other textual data.
+   - Uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and machine learning to analyze market sentiment from news articles, social media, and other textual data.
 
 ### Prominent Companies in Algorithmic Trading
 
@@ -59,7 +59,7 @@ Algorithmic trading, also known as "algo trading" or "black-box trading," refers
 
 2. **Two Sigma**
    - Website: [Two Sigma](https://www.twosigma.com/)
-   - Overview: A hedge fund that uses advanced data science and technology to develop [trading strategies](../t/trading_strategies.md). Two Sigma focuses on exploiting market inefficiencies through [quantitative analysis](../q/quantitative_analysis.md) and machine learning.
+   - Overview: A hedge fund that uses advanced [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md). Two Sigma focuses on exploiting market inefficiencies through [quantitative analysis](../q/quantitative_analysis.md) and machine learning.
 
 3. **Renaissance Technologies**
    - Website: [Renaissance Technologies](https://www.rentec.com/)
@@ -106,18 +106,18 @@ Algorithmic trading, also known as "algo trading" or "black-box trading," refers
    - Minimizing network latency is crucial in algorithmic trading. Colocation services, where trading servers are placed close to exchange servers, are commonly used to reduce latency.
 
 4. **Data Storage**
-   - Efficient data storage solutions, including data lakes and distributed databases, are essential for handling large volumes of market data.
+   - Efficient data storage solutions, including [data lakes](../d/data_lakes_in_trading.md) and distributed databases, are essential for handling large volumes of market data.
 
 ### Future Trends in Algorithmic Trading
 
-1. **Artificial Intelligence and Machine Learning**
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**
    - Increasing use of AI and machine learning techniques to develop more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md).
 
-2. **Blockchain and Cryptocurrencies**
-   - Growth of algorithmic trading in the cryptocurrency market, leveraging blockchain technology for transparency and security.
+2. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies**
+   - Growth of algorithmic trading in the cryptocurrency market, leveraging [blockchain](../b/blockchain_in_trading.md) technology for transparency and security.
 
-3. **Quantum Computing**
-   - Exploration of quantum computing for solving complex optimization problems in trading.
+3. **[Quantum Computing](../q/quantum_computing_in_trading.md)**
+   - Exploration of [quantum computing](../q/quantum_computing_in_trading.md) for solving complex optimization problems in trading.
 
 4. **Environmental, Social, and Governance (ESG) Factors**
    - Incorporation of ESG factors into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), reflecting a growing focus on sustainable and responsible investing.

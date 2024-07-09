@@ -20,7 +20,7 @@ Gamma measures the rate of change in delta relative to the change in the price o
 
 #### Identifying Mispricing
 
-Traders use complex mathematical models and algorithms to identify options that are under- or over-priced based on their volatility forecasts. Tools such as the [Black-Scholes model](../b/black-scholes_model.md), [GARCH models](../g/garch_models.md), and machine learning algorithms play a significant role in these analyses.
+Traders use complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify options that are under- or over-priced based on their volatility forecasts. Tools such as the [Black-Scholes model](../b/black-scholes_model.md), [GARCH models](../g/garch_models.md), and machine [learning algorithms](../l/learning_algorithms_in_trading.md) play a significant role in these analyses.
 
 #### Execution
 
@@ -51,7 +51,7 @@ A calendar spread involves buying and selling options with different expiration 
 Several trading firms and hedge funds specialize in volatility [arbitrage](../a/arbitrage.md), using sophisticated algorithms and advanced trading platforms to execute their strategies. Notable firms include:
 
 - **Citadel LLC**: [Citadel](https://www.citadel.com) is a global financial institution involved in hedge fund management and market making, known for its expertise in volatility [arbitrage](../a/arbitrage.md).
-- **DE Shaw Group**: [DE Shaw](https://www.deshaw.com) uses computational techniques and quantitative strategies for trading, including vol arb.
+- **DE Shaw Group**: [DE Shaw](https://www.deshaw.com) uses computational techniques and [quantitative strategies](../q/quantitative_strategies_in_trading.md) for trading, including vol arb.
 - **Two Sigma Investments**: [Two Sigma](https://www.twosigma.com) employs machine learning and advanced statistical analysis in its vol arb strategies.
 
 #### Software and Models

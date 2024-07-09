@@ -6,7 +6,7 @@ In the realm of financial markets, "herd behavior" refers to the phenomenon wher
 
 ## Understanding Herd Behavior
 
-Herd behavior is fundamentally rooted in social psychology. It is driven by the human inclination to conform to group actions, especially in situations of uncertainty where individual decision-making is challenging. In trading, uncertainty is a constant feature due to the unpredictable nature of market movements and macroeconomic factors.
+Herd behavior is fundamentally rooted in social psychology. It is driven by the human inclination to conform to group actions, especially in situations of [uncertainty](../u/uncertainty_in_trading.md) where individual decision-making is challenging. In trading, [uncertainty](../u/uncertainty_in_trading.md) is a constant feature due to the unpredictable nature of market movements and macroeconomic factors.
 
 ### Causes of Herd Behavior
 

@@ -83,7 +83,7 @@ While the 2-Period EMA offers several benefits, it also has its limitations.
 3. **Versatility**: Can be combined with numerous other [technical indicators](../t/technical_indicators.md) for more robust [trading signals](../t/trading_signals.md).
 
 ### Limitations
-1. **Sensitivity**: Its sensitivity to recent price changes can lead to false signals in highly volatile markets.
+1. **Sensitivity**: Its sensitivity to recent price changes can lead to [false signals](../f/false_signals_in_trading.md) in highly volatile markets.
 2. **Lag**: Despite being more responsive than longer-period EMAs, it still lags behind the actual price to some extent.
 3. **Not Suitable for Long-Term Trends**: The 2-Period EMA is less effective for identifying long-term trends due to its short timeframe.
 

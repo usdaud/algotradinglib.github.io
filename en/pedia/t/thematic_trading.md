@@ -6,7 +6,7 @@ Thematic trading is an investment strategy that focuses on identifying and capit
 
 ### Understanding Themes
 
-Thematic trading involves identifying significant macro-level trends that are expected to influence market dynamics over the long term. These themes can emerge from various domains, including technology, demographics, environmental changes, or geopolitical shifts. Examples of themes could be the rise of artificial intelligence, the aging population, renewable energy, or the increasing influence of emerging markets.
+Thematic trading involves identifying significant macro-level trends that are expected to influence market dynamics over the long term. These themes can emerge from various domains, including technology, demographics, environmental changes, or geopolitical shifts. Examples of themes could be the rise of [artificial intelligence](../a/artificial_intelligence_in_trading.md), the aging population, renewable energy, or the increasing influence of emerging markets.
 
 ### Research and Analysis
 
@@ -27,8 +27,8 @@ Thematic trading is inherently a long-term strategy. The themes identified are o
 ### Technology Disruption
 
 Technological innovation is a constant driver of market and economic change. Themes within technology disruption could include:
-- **Artificial Intelligence and Machine Learning**: Companies leveraging AI and ML to create new products, optimize operations, and enhance customer experiences.
-- **Blockchain and Cryptocurrencies**: The rise of blockchain technology and the increasing adoption of digital currencies.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: Companies leveraging AI and ML to create new products, optimize operations, and enhance customer experiences.
+- **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies**: The rise of [blockchain](../b/blockchain_in_trading.md) technology and the increasing adoption of digital currencies.
 - **Internet of Things (IoT)**: Growth in interconnected devices and smart solutions across various industries.
 
 ### Sustainable Investing
@@ -76,7 +76,7 @@ More sophisticated investors might use options and other [derivatives](../d/deri
 
 ### Theme Viability
 
-One of the key risks in thematic trading is the uncertainty of the theme's long-term viability. Not all themes play out as expected, and some might take longer than anticipated to materialize. It requires continuous monitoring and re-evaluation of the theme to ensure it remains relevant.
+One of the key risks in thematic trading is the [uncertainty](../u/uncertainty_in_trading.md) of the theme's long-term viability. Not all themes play out as expected, and some might take longer than anticipated to materialize. It requires continuous monitoring and re-evaluation of the theme to ensure it remains relevant.
 
 ### Market Volatility
 

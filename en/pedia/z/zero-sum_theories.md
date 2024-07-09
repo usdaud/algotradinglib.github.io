@@ -11,11 +11,11 @@ The term "[zero-sum game](../z/zero-sum_game.md)" originates from game theory an
 While not all financial transactions are zero-sum, certain markets inherently exhibit these characteristics. For example:
 
 1. **[Derivatives](../d/derivatives.md) Markets**: Futures and options contracts are prime examples of zero-sum markets. If one party profits from a futures contract, another party incurs a corresponding loss.
-2. **Currency Trading (Forex)**: In the forex market, traders buy and sell currencies. For every profit made by a trader, an equivalent loss is realized by another trader.
+2. **[Currency Trading](../c/currency_trading_strategies.md) (Forex)**: In the forex market, traders buy and sell currencies. For every profit made by a trader, an equivalent loss is realized by another trader.
 
 ### Implications for Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), where trades are executed by complex predictive models and algorithms, understanding zero-sum dynamics can help optimize [trading strategies](../t/trading_strategies.md). Here are some key implications:
+In [algorithmic trading](../a/algorithmic_trading.md), where trades are executed by complex [predictive models](../p/predictive_models_in_trading.md) and algorithms, understanding zero-sum dynamics can help optimize [trading strategies](../t/trading_strategies.md). Here are some key implications:
 
 #### Strategy Development
 

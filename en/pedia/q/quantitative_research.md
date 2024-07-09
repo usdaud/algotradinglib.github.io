@@ -1,6 +1,6 @@
 # Quantitative Research
 
-Quantitative research is a pivotal aspect of the financial domain, significantly impacting various strategies utilized in [algorithmic trading](../a/algorithmic_trading.md) and [financial forecasting](../f/financial_forecasting.md). It involves extensive use of mathematical models, statistical analysis, and computational techniques to analyze financial data and generate [trading signals](../t/trading_signals.md). This research method is undergirded by data-driven decision-making processes aimed at mitigating risks and maximizing returns.
+Quantitative research is a pivotal aspect of the financial domain, significantly impacting various strategies utilized in [algorithmic trading](../a/algorithmic_trading.md) and [financial forecasting](../f/financial_forecasting.md). It involves extensive use of [mathematical models](../m/mathematical_models_in_trading.md), statistical analysis, and computational techniques to analyze financial data and generate [trading signals](../t/trading_signals.md). This research method is undergirded by data-driven decision-making processes aimed at mitigating risks and maximizing returns.
 
 ## Core Concepts
 
@@ -24,10 +24,10 @@ Quantitative research employs advanced statistical methods to uncover patterns a
 
 ### Mathematical Modeling 
 
-Mathematical models are the cornerstone of quantitative research. They leverage historical data to predict future market behaviors and form the backbone of many [trading strategies](../t/trading_strategies.md). Common types of models include:
+[Mathematical models](../m/mathematical_models_in_trading.md) are the cornerstone of quantitative research. They leverage historical data to predict future market behaviors and form the backbone of many [trading strategies](../t/trading_strategies.md). Common types of models include:
 - **Time Series Models**: ARIMA, [GARCH models](../g/garch_models.md) are often used to forecast stock prices.
 - **[Factor Models](../f/factor_models.md)**: CAPM and multi-[factor models](../f/factor_models.md) help in understanding risk and return.
-- **Machine Learning Models**: Algorithms like Random Forest, Gradient Boosting, and Neural Networks provide sophisticated [predictive analytics](../p/predictive_analytics.md).
+- **Machine Learning Models**: Algorithms like Random Forest, Gradient Boosting, and [Neural Networks](../n/neural_networks_in_trading.md) provide sophisticated [predictive analytics](../p/predictive_analytics.md).
 
 ### Programming and Algorithm Development 
 
@@ -53,7 +53,7 @@ Quantitative research aims to optimize returns while managing risks. Strategies 
 
 ### Model Validation and Stress Testing
 
-Ensuring the robustness of models through validation and stress testing is essential. Techniques include:
+Ensuring the robustness of models through validation and [stress testing](../s/stress_testing_in_trading.md) is essential. Techniques include:
 - **Cross-validation**
 - **[Out-of-sample testing](../o/out-of-sample_testing.md)**
 - **Scenario Analysis**
@@ -81,7 +81,7 @@ Quantitative research feeds into the development of various [algorithmic trading
 
 ### Quantitative Hedge Funds
 
-Hedge funds employing quantitative strategies leverage these research techniques to manage large volumes of capital efficiently. Notable [quantitative hedge funds](../q/quantitative_hedge_funds.md) include:
+Hedge funds employing [quantitative strategies](../q/quantitative_strategies_in_trading.md) leverage these research techniques to manage large volumes of capital efficiently. Notable [quantitative hedge funds](../q/quantitative_hedge_funds.md) include:
 - [Renaissance Technologies](https://www.rentec.com/)
 - [DE Shaw](https://www.deshaw.com/)
 
@@ -95,12 +95,12 @@ Several platforms and tools support the rigorous demands of quantitative researc
 
 The infusion of machine learning techniques into quantitative research has created new paradigms for data analysis and [predictive modeling](../p/predictive_modeling.md):
 - **Supervised Learning**: Used for classification and regression problems.
-- **Unsupervised Learning**: Techniques like clustering and dimensionality reduction applied for [pattern recognition](../p/pattern_recognition.md).
+- **Unsupervised Learning**: Techniques like clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) applied for [pattern recognition](../p/pattern_recognition.md).
 - **Reinforcement Learning**: [Adaptive algorithms](../a/adaptive_algorithms.md) optimizing [trading strategies](../t/trading_strategies.md) through continuous learning.
 
 ### Regulatory Considerations
 
-Quantitative researchers must adhere to financial regulations to ensure models and [trading strategies](../t/trading_strategies.md) comply with legal and ethical standards. Regulatory bodies include:
+Quantitative researchers must adhere to financial regulations to ensure models and [trading strategies](../t/trading_strategies.md) comply with legal and [ethical standards](../e/ethical_standards_in_trading.md). Regulatory bodies include:
 - **SEC (Securities and Exchange Commission)** in the USA
 - **FCA (Financial Conduct Authority)** in the UK
 - **ESMA (European Securities and Markets Authority)** in Europe
@@ -108,10 +108,10 @@ Quantitative researchers must adhere to financial regulations to ensure models a
 ## Future Trends
 
 The future of quantitative research is poised to integrate:
-- **Artificial Intelligence**: Enhancing predictive accuracy and strategy optimization.
-- **Quantum Computing**: Potentially revolutionizing computational capabilities.
-- **Big Data Analytics**: Leveraging vast datasets for more comprehensive insights.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: Enhancing predictive accuracy and strategy optimization.
+- **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potentially revolutionizing computational capabilities.
+- **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Leveraging vast datasets for more comprehensive insights.
 
 ## Conclusion
 
-Quantitative research remains a dynamic and integral component of modern finance. By harnessing mathematical models, statistical analysis, and advanced computational techniques, it continues to drive innovation and efficacy in [algorithmic trading](../a/algorithmic_trading.md) and financial decision-making processes.
+Quantitative research remains a dynamic and integral component of modern finance. By harnessing [mathematical models](../m/mathematical_models_in_trading.md), statistical analysis, and advanced computational techniques, it continues to drive innovation and efficacy in [algorithmic trading](../a/algorithmic_trading.md) and financial decision-making processes.

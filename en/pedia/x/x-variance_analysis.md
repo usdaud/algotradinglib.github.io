@@ -18,7 +18,7 @@ X-[Variance Analysis](../v/variance_analysis.md) extends beyond the conventional
 
 - **Time-Series Analysis**: By analyzing the temporal structure of asset returns, X-[Variance Analysis](../v/variance_analysis.md) captures patterns, trends, and seasonal effects that traditional variance might overlook. Techniques such as Autoregressive Integrated Moving Average (ARIMA) models are commonly used.
 - **Regime Switching Models**: Financial markets often exhibit different regimes characterized by varying levels of volatility. X-[Variance Analysis](../v/variance_analysis.md) incorporates regime-switching models, such as Markov Regime-Switching models, to identify and adapt to these changing conditions.
-- **Machine Learning**: Advanced machine learning algorithms, including clustering (k-means, DBSCAN) and classification (support vector machines, neural networks), are employed to segment the data and unveil intricate relationships within the returns’ variance structure.
+- **Machine Learning**: Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md), including clustering (k-means, DBSCAN) and classification ([support vector machines](../s/support_vector_machines_in_trading.md), [neural networks](../n/neural_networks_in_trading.md)), are employed to segment the data and unveil intricate relationships within the returns’ variance structure.
 
 ## Implementation of X-Variance Analysis
 
@@ -26,7 +26,7 @@ X-[Variance Analysis](../v/variance_analysis.md) extends beyond the conventional
 
 1. **Data Collection and Preprocessing**: Gather historical price data for the assets of interest. Clean the data to handle missing values, outliers, and normalization.
 2. **Preliminary Statistical Analysis**: Conduct an exploratory data analysis (EDA) to understand the basic statistical properties, such as mean, standard deviation, skewness, and kurtosis.
-3. **Time-Series Modeling**: Apply time-series models to capture the temporal dependencies in the data. Techniques such as ARIMA, GARCH (Generalized Autoregressive Conditional Heteroskedasticity), and EGARCH (Exponential GARCH) are pivotal.
+3. **Time-Series Modeling**: Apply time-series models to capture the [temporal dependencies](../t/temporal_dependencies_in_trading.md) in the data. Techniques such as ARIMA, GARCH (Generalized Autoregressive Conditional Heteroskedasticity), and EGARCH (Exponential GARCH) are pivotal.
 4. **Regime-Switching Analysis**: Use regime-switching models to identify different volatility regimes and transitions between them.
 5. **Machine Learning Integration**: Implement machine learning models to classify and predict variance patterns, enhancing the depth of the analysis.
 6. **Risk Assessment and Optimization**: Evaluate the risk characteristics revealed by the X-[Variance Analysis](../v/variance_analysis.md) and optimize [trading strategies](../t/trading_strategies.md) accordingly.
@@ -36,7 +36,7 @@ X-[Variance Analysis](../v/variance_analysis.md) extends beyond the conventional
 Several tools and software packages facilitate the implementation of X-[Variance Analysis](../v/variance_analysis.md). Prominent ones include:
 
 - **Python**: Libraries such as Statsmodels, scikit-learn, and TensorFlow provide robust frameworks for statistical analysis and machine learning.
-- **R**: Packages like forecast, MSwM (Markov-Switching Models), and e1071 (Support Vector Machines) support comprehensive [variance analysis](../v/variance_analysis.md).
+- **R**: Packages like forecast, MSwM (Markov-Switching Models), and e1071 ([Support Vector Machines](../s/support_vector_machines_in_trading.md)) support comprehensive [variance analysis](../v/variance_analysis.md).
 - **Matlab**: Offers extensive toolboxes for time-series analysis, regime switching, and machine learning.
 
 ## Case Studies and Real-World Applications
@@ -55,7 +55,7 @@ Several companies provide tools and services dedicated to advanced [variance ana
 
 - **[QuantConnect](../q/quantconnect.md)**: A platform offering [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md) solutions. [QuantConnect](https://www.quantconnect.com/)
 - **Kensho Technologies**: Known for their AI-powered analytics and financial intelligence solutions. [Kensho](https://www.kensho.com/)
-- **Two Sigma**: An investment management firm that leverages cutting-edge technology and data science for [alpha generation](../a/alpha_generation.md). [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: An investment management firm that leverages cutting-edge technology and [data science](../d/data_science_in_trading.md) for [alpha generation](../a/alpha_generation.md). [Two Sigma](https://www.twosigma.com/)
 
 ## Conclusion
 

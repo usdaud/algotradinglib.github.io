@@ -67,7 +67,7 @@ Off-the-run bonds refer to Treasury securities that were issued before the most 
    Algorithms can exploit the yield difference between on-the-run and off-the-run bonds. By identifying mispriced off-the-run bonds with higher yields, traders can implement strategies to lock in risk-free profits.
 
 2. **[Liquidity Provision](../l/liquidity_provision.md)**: 
-   Quantitative strategies can provide liquidity to both markets by arbitraging small price differences or by executing trades that market participants need liquidity for, especially for off-the-run bonds.
+   [Quantitative strategies](../q/quantitative_strategies_in_trading.md) can provide liquidity to both markets by arbitraging small price differences or by executing trades that market participants need liquidity for, especially for off-the-run bonds.
 
 3. **Volatility**: 
    High liquidity in on-the-run bonds makes them ideal for [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) that benefit from quick price changes and tighter spreads.

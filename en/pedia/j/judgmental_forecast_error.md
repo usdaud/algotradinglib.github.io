@@ -3,13 +3,13 @@
 Judgmental forecast error refers to the inaccuracies and biases that occur when human judgment is applied in the forecasting process. In the context of [algorithmic trading](../a/algorithmic_trading.md) (algo trading), these errors can have significant implications for market strategies, trading decisions, and overall financial performance. This document delves into various aspects of judgmental forecast error, its sources, impacts, and mitigation strategies within algo trading.
 
 ## Introduction to Judgmental Forecast Error
-Judgmental forecast error arises from the subjective intervention of human understanding in predictive models and data interpretation. Unlike purely statistical errors that result from model imperfections or data noise, judgmental errors stem from cognitive biases, emotional influences, and subjective reasoning. In algo trading, even minor forecast errors can lead to substantial financial losses, making it crucial to understand and address them effectively.
+Judgmental forecast error arises from the subjective intervention of human understanding in [predictive models](../p/predictive_models_in_trading.md) and data interpretation. Unlike purely statistical errors that result from model imperfections or data noise, judgmental errors stem from [cognitive biases](../c/cognitive_biases_in_trading.md), emotional influences, and subjective reasoning. In algo trading, even minor forecast errors can lead to substantial financial losses, making it crucial to understand and address them effectively.
 
 ## Sources of Judgmental Forecast Error
 Several factors contribute to judgmental forecast errors. Understanding these sources helps in developing strategies to mitigate their effects.
 
 ### Cognitive Biases
-Cognitive biases refer to systematic deviations from rationality in judgment and decision-making. Common cognitive biases include:
+[Cognitive biases](../c/cognitive_biases_in_trading.md) refer to systematic deviations from rationality in judgment and decision-making. Common [cognitive biases](../c/cognitive_biases_in_trading.md) include:
 - **Overconfidence Bias**: Traders may overestimate their forecasting abilities, leading to overly optimistic predictions.
 - **Anchoring Bias**: Relying too heavily on initial information (anchor) can skew subsequent forecasts.
 - **[Confirmation Bias](../c/confirmation_bias.md)**: The tendency to seek information that confirms pre-existing beliefs, ignoring contradictory data.
@@ -56,10 +56,10 @@ Regular [backtesting](../b/backtesting.md) and validation of [forecasting models
 While automation reduces judgmental errors, incorporating human oversight ensures that subjective insights are still considered. A balance between automated systems and expert judgment can enhance forecast robustness.
 
 ### Training and Awareness Programs
-Educating traders and analysts about cognitive biases and their impacts can help mitigate judgmental errors. Training programs focused on improving judgment accuracy and awareness can lead to more informed decision-making.
+Educating traders and analysts about [cognitive biases](../c/cognitive_biases_in_trading.md) and their impacts can help mitigate judgmental errors. Training programs focused on improving judgment accuracy and awareness can lead to more informed decision-making.
 
 ### Scenario Analysis and Stress Testing
-Conducting scenario analysis and stress testing helps forecast potential market conditions and their impacts. This approach enables traders to prepare for various scenarios and reduces reliance on singular judgmental forecasts.
+Conducting scenario analysis and [stress testing](../s/stress_testing_in_trading.md) helps forecast potential market conditions and their impacts. This approach enables traders to prepare for various scenarios and reduces reliance on singular judgmental forecasts.
 
 ## Conclusion
 Judgmental forecast error poses significant challenges in the realm of algo trading. By understanding its sources and impacts, and employing robust mitigation strategies, the accuracy of forecasts can be enhanced, leading to improved trading outcomes and reduced financial risks. As the trading landscape evolves, continuous refinement of these strategies will be essential in maintaining competitive advantage and financial stability.

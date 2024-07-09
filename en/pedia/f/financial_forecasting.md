@@ -34,9 +34,9 @@ Quantitative methods are statistical and mathematical techniques used to derive 
 
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Analyzing data points collected or recorded at specific time intervals to identify trends, seasonality, and cyclical patterns. Techniques include ARIMA (AutoRegressive Integrated Moving Average), SARIMA (Seasonal ARIMA), and [Exponential Smoothing](../e/exponential_smoothing.md) State Space Model (ETS).
   
-- **[Regression Analysis](../r/regression_analysis.md)**: Statistical technique for modeling the relationships between dependent and independent variables. [Linear regression](../l/linear_regression.md), multiple regression, and logistic regression are widely used.
+- **[Regression Analysis](../r/regression_analysis.md)**: Statistical technique for modeling the relationships between dependent and independent variables. [Linear regression](../l/linear_regression.md), multiple regression, and [logistic regression](../l/logistic_regression_in_trading.md) are widely used.
   
-- **Machine Learning Models**: Advanced [computational algorithms](../c/computational_algorithms.md) that improve prediction accuracy by learning from data. Examples include neural networks, support vector machines, and [decision trees](../d/decision_trees.md).
+- **Machine Learning Models**: Advanced [computational algorithms](../c/computational_algorithms.md) that improve prediction accuracy by learning from data. Examples include [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [decision trees](../d/decision_trees.md).
 
 ### Qualitative Methods
 Qualitative methods rely on expert judgment, market research, and intuition to generate forecasts. These methods are useful when historical data is limited or when predicting new market trends. Key qualitative methods include:
@@ -69,16 +69,16 @@ In [algorithmic trading](../a/algorithmic_trading.md), financial forecasting is 
   
 - **[Order Flow Analysis](../o/order_flow_analysis.md)**: Analyzing the flow of buy and sell orders to predict short-term price movements.
   
-- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using natural language processing (NLP) to analyze news, social media, and other textual data to gauge market sentiment and predict market reactions.
+- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze news, social media, and other textual data to gauge market sentiment and predict market reactions.
 
 ### Case Study: Renaissance Technologies
 
-Renaissance Technologies is a renowned hedge fund known for its pioneering use of quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies. The firm employs complex mathematical models and machine learning techniques to forecast financial markets and execute trades. For more information, visit their [official website](https://www.rentec.com).
+Renaissance Technologies is a renowned hedge fund known for its pioneering use of quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies. The firm employs complex [mathematical models](../m/mathematical_models_in_trading.md) and machine learning techniques to forecast financial markets and execute trades. For more information, visit their [official website](https://www.rentec.com).
 
 ### Case Study: Two Sigma
 
-Two Sigma is another leading hedge fund that heavily relies on data science, machine learning, and distributed computing to forecast financial markets and implement [trading strategies](../t/trading_strategies.md). The firm continuously analyzes vast datasets to uncover hidden patterns and predict future market movements. For more information, visit their [official website](https://www.twosigma.com).
+Two Sigma is another leading hedge fund that heavily relies on [data science](../d/data_science_in_trading.md), machine learning, and distributed computing to forecast financial markets and implement [trading strategies](../t/trading_strategies.md). The firm continuously analyzes vast datasets to uncover hidden patterns and predict future market movements. For more information, visit their [official website](https://www.twosigma.com).
 
 ## Conclusion
 
-Financial forecasting is a critical component of financial management, investment decision-making, and [algorithmic trading](../a/algorithmic_trading.md). By leveraging various quantitative and qualitative methods, businesses and investors can make informed decisions, manage risks, and optimize performance. Despite the inherent challenges, continuous advancements in data science, machine learning, and computational power are enhancing the accuracy and reliability of financial forecasts, paving the way for more sophisticated [trading strategies](../t/trading_strategies.md) and [financial planning](../f/financial_planning.md) techniques.
+Financial forecasting is a critical component of financial management, investment decision-making, and [algorithmic trading](../a/algorithmic_trading.md). By leveraging various quantitative and qualitative methods, businesses and investors can make informed decisions, manage risks, and optimize performance. Despite the inherent challenges, continuous advancements in [data science](../d/data_science_in_trading.md), machine learning, and computational power are enhancing the accuracy and reliability of financial forecasts, paving the way for more sophisticated [trading strategies](../t/trading_strategies.md) and [financial planning](../f/financial_planning.md) techniques.

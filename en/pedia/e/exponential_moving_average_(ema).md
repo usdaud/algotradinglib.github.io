@@ -55,7 +55,7 @@ EMAs can also act as dynamic [support and resistance](../s/support_and_resistanc
 
 ### Disadvantages
 
-1. **Sensitivity to Volatility**: The same responsiveness can lead to false signals in highly volatile markets.
+1. **Sensitivity to Volatility**: The same responsiveness can lead to [false signals](../f/false_signals_in_trading.md) in highly volatile markets.
 2. **Complexity**: More complex than SMAs, requiring a deeper understanding of the underlying calculations and market application.
 
 ## Implementations in Trading Platforms

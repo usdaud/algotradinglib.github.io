@@ -54,7 +54,7 @@ Unlisted stock analysis refers to the detailed examination and evaluation of sec
 
 1. **[Financial Ratios](../f/financial_ratios.md)**: Calculating ratios like P/E ratio, debt-to-equity ratio, and return on equity to assess financial health.
 2. **Statistical Models**: Using models like [regression analysis](../r/regression_analysis.md) to identify relationships between variables.
-3. **Machine Learning**: Implementing machine learning algorithms to predict stock performance based on historical data.
+3. **Machine Learning**: Implementing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict stock performance based on historical data.
 
 ## Implementing Algotrading for Unlisted Stocks
 
@@ -76,7 +76,7 @@ Unlisted stock analysis refers to the detailed examination and evaluation of sec
 
 - **Python and R**: Popular programming languages for developing [trading algorithms](../t/trading_algorithms.md).
 - **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports a wide range of asset classes. [QuantConnect](https://www.quantconnect.com)
-- **Interactive Brokers**: Offers a robust API for implementing and executing [trading algorithms](../t/trading_algorithms.md). [Interactive Brokers](https://www.interactivebrokers.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a robust API for implementing and executing [trading algorithms](../t/trading_algorithms.md). [Interactive Brokers](https://www.interactivebrokers.com)
 - **Alpha Vantage**: Provides APIs for accessing financial data and [performance metrics](../p/performance_metrics.md). [Alpha Vantage](https://www.alphavantage.co)
 
 ## Case Study

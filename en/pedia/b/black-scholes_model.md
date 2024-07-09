@@ -30,7 +30,7 @@ where:
 - \( X \) is the strike price of the option
 - \( T \) is the time to expiration (in years)
 - \( r \) is the risk-free interest rate
-- \( N(\cdot) \) is the cumulative distribution function of the standard normal distribution
+- \( N(\cdot) \) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md)
 - \( d_1 \) and \( d_2 \) are calculated as follows:
 
 \[ d_1 = \frac{\ln(S_0 / X) + (r + \sigma^2 / 2) T}{\sigma \sqrt{T}} \]

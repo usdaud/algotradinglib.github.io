@@ -26,7 +26,7 @@ There are mainly two types of whipsaw movements:
 
 Effective identification of [whipsaw patterns](../w/whipsaw_patterns.md) involves [technical analysis](../t/technical_analysis.md) and monitoring specific indicators. Common tools for spotting potential whipsaws include:
 
-1. **Moving Averages:** Short-term moving averages (such as the 20-day MA) can indicate potential whipsaws when they cross long-term moving averages (like the 50-day MA), causing false signals.
+1. **Moving Averages:** Short-term moving averages (such as the 20-day MA) can indicate potential whipsaws when they cross long-term moving averages (like the 50-day MA), causing [false signals](../f/false_signals_in_trading.md).
 2. **Relative Strength Index (RSI):** RSI can help identify overbought or oversold conditions that might precede a price reversal.
 3. **[Bollinger Bands](../b/bollinger_bands.md):** These bands can signal a whipsaw if the price repeatedly touches or breaches the bands, indicating high volatility.
 4. **[Volume Analysis](../v/volume_analysis.md):** Sudden changes in trading volume can signify a coming price reversal.

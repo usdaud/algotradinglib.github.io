@@ -36,7 +36,7 @@ Renaissance Technologies is a famed hedge fund known for its successful use of [
 
 ### Two Sigma
 
-Two Sigma is another notable firm in the algo trading space. They use data science and technology to develop models that analyze massive datasets for trading opportunities. In the zero-sum context, Two Sigma’s profits are mirrored by equivalent losses somewhere else in the market.
+Two Sigma is another notable firm in the algo trading space. They use [data science](../d/data_science_in_trading.md) and technology to develop models that analyze massive datasets for trading opportunities. In the zero-sum context, Two Sigma’s profits are mirrored by equivalent losses somewhere else in the market.
 
 #### Reference: [Two Sigma](https://www.twosigma.com/)
 
@@ -64,11 +64,11 @@ In [zero-sum trading](../z/zero-sum_trading.md), significant trading volumes can
 
 ### Artificial Intelligence
 
-With the advent of artificial intelligence (AI), zero-sum investment models are poised to become even more intricate. AI can analyze complex patterns and execute trades with precision, potentially heightening the zero-sum competition as more firms utilize AI-driven strategies.
+With the advent of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), zero-sum investment models are poised to become even more intricate. AI can analyze complex patterns and execute trades with precision, potentially heightening the zero-sum competition as more firms utilize AI-driven strategies.
 
 ### Blockchain and Decentralized Finance (DeFi)
 
-Blockchain and DeFi hold the potential to revolutionize zero-sum [trading models](../t/trading_models.md) by offering new kinds of marketplaces and financial instruments. These platforms can provide transparent, immutable records of transactions, thus enhancing trust and efficiency in zero-sum [trading strategies](../t/trading_strategies.md).
+[Blockchain](../b/blockchain_in_trading.md) and DeFi hold the potential to revolutionize zero-sum [trading models](../t/trading_models.md) by offering new kinds of marketplaces and financial instruments. These platforms can provide transparent, immutable records of transactions, thus enhancing trust and efficiency in zero-sum [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

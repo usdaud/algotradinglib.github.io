@@ -36,7 +36,7 @@ The Conference Board periodically reviews and updates the methodology of the LEI
 
 ### Historical Performance
 
-Historically, the LEI has been a reliable predictive tool for identifying economic phases. For example, it successfully signaled the onset of several recessions, including the global financial crisis of 2007-2008. However, it is important to note that while the LEI is a useful tool, it is not infallible and occasionally produces false signals.
+Historically, the LEI has been a reliable predictive tool for identifying economic phases. For example, it successfully signaled the onset of several recessions, including the global financial crisis of 2007-2008. However, it is important to note that while the LEI is a useful tool, it is not infallible and occasionally produces [false signals](../f/false_signals_in_trading.md).
 
 ### Inflation and LEI
 

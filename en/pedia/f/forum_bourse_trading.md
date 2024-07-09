@@ -6,15 +6,15 @@ Forum Bourse Trading is a popular French online community dedicated to discussio
 ## Key Features
 1. **Discussion Forums**: Forum Bourse Trading hosts various sub-forums where members can discuss different aspects of trading and investing. Topics include stocks, forex, commodities, cryptocurrencies, and more.
 
-2. **Market Analysis**: Members share technical and fundamental analysis, providing insights into market trends, stock performance, and economic indicators. This helps traders and investors make informed decisions.
+2. **Market Analysis**: Members share technical and [fundamental analysis](../f/fundamental_analysis.md), providing insights into market trends, stock performance, and [economic indicators](../e/economic_indicators.md). This helps traders and investors make informed decisions.
 
-3. **Trading Strategies**: The forum provides a space for discussing different trading strategies, such as day trading, swing trading, and long-term investing. Members can share their strategies, get feedback, and discuss improvements.
+3. **[Trading Strategies](../t/trading_strategies.md)**: The forum provides a space for discussing different [trading strategies](../t/trading_strategies.md), such as [day trading](../d/day_trading.md), [swing trading](../s/swing_trading.md), and long-term investing. Members can share their strategies, get feedback, and discuss improvements.
 
 4. **Educational Resources**: Forum Bourse Trading offers educational content, including tutorials, articles, and videos, to help traders enhance their knowledge and skills.
 
 5. **Broker and Platform Reviews**: Members review and discuss various brokers and trading platforms, helping others choose reliable and cost-effective services.
 
-6. **Trading Journals**: Members can maintain trading journals to document their trades, share their experiences, and receive feedback from the community.
+6. **[Trading Journals](../t/trading_journals.md)**: Members can maintain [trading journals](../t/trading_journals.md) to document their trades, share their experiences, and receive feedback from the community.
 
 7. **Networking Opportunities**: Forum Bourse Trading facilitates networking among its members, allowing traders and investors to connect, collaborate, and share resources.
 
@@ -30,20 +30,20 @@ Forum Bourse Trading is a popular French online community dedicated to discussio
 ## Use Cases
 - **Retail Investors**: Individual investors use Forum Bourse Trading’s forums to discuss stocks, forex, commodities, and other investment products.
 - **Traders**: Active traders share strategies, market analysis, and trading experiences to refine their approaches and gain new insights.
-- **Market Analysis**: Investors and traders can share and discuss technical and fundamental analysis to make better-informed investment decisions.
+- **Market Analysis**: Investors and traders can share and discuss technical and [fundamental analysis](../f/fundamental_analysis.md) to make better-informed investment decisions.
 - **Broker Selection**: Members read and discuss reviews of brokers and trading platforms to choose the best services for their trading and investment needs.
 - **Educational Purposes**: New and experienced investors utilize Forum Bourse Trading’s educational resources to enhance their financial knowledge and trading skills.
 
 ## Integration and APIs
 While Forum Bourse Trading itself does not provide APIs, discussions often cover integration with various trading platforms and APIs:
-- **MetaTrader 4/5 API**: For developing custom trading strategies and indicators.
-- **Interactive Brokers API**: For automated trading and accessing market data.
-- **Other Financial APIs**: Various APIs used for market data, trading signals, and portfolio management.
+- **MetaTrader 4/5 API**: For developing custom [trading strategies](../t/trading_strategies.md) and indicators.
+- **[Interactive Brokers](../i/interactive_brokers.md) API**: For automated trading and accessing market data.
+- **Other Financial APIs**: Various APIs used for market data, [trading signals](../t/trading_signals.md), and [portfolio management](../p/portfolio_management.md).
 
 ## Clients and Partners
 Forum Bourse Trading serves a diverse range of clients, including:
 - **Retail Investors**: Individuals using the forums to discuss investments and market trends.
-- **Professional Traders**: Experienced traders sharing insights and collaborating on advanced trading strategies.
+- **Professional Traders**: Experienced traders sharing insights and collaborating on advanced [trading strategies](../t/trading_strategies.md).
 - **Financial Advisors**: Professionals offering advice and sharing knowledge with the community.
 - **Brokers and Service Providers**: Companies engaging with the community to offer their services and receive feedback.
 

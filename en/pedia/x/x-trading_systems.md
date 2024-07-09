@@ -57,7 +57,7 @@ The integration of machine learning (ML) into [trading algorithms](../t/trading_
 X-[Trading Systems](../t/trading_systems.md) supports High-Frequency Trading, enabling traders to execute a large number of orders at extremely high speeds. This is achieved through low-latency trading infrastructure and optimized algorithms.
 
 ### 3. Quantum Computing
-Exploring the potential of [quantum computing in trading](../q/quantum_computing_in_trading.md), X-[Trading Systems](../t/trading_systems.md) is researching how quantum algorithms can solve complex optimization problems faster than classical computers.
+Exploring the potential of [quantum computing in trading](../q/quantum_computing_in_trading.md), X-[Trading Systems](../t/trading_systems.md) is researching how [quantum algorithms](../q/quantum_algorithms_in_trading.md) can solve complex optimization problems faster than classical computers.
 
 ### 4. Blockchain and Cryptocurrency Trading
 Recognizing the rapid growth of the cryptocurrency market, X-[Trading Systems](../t/trading_systems.md) offers solutions for trading digital assets. The platform supports multiple cryptocurrency exchanges and provides tools for developing and executing crypto [trading strategies](../t/trading_strategies.md).
@@ -75,7 +75,7 @@ Large financial institutions leverage the advanced features and customizability 
 ## Case Studies
 
 ### Case Study 1: Hedge Fund Optimization
-A prominent hedge fund utilized X-[Trading Systems](../t/trading_systems.md)' platform to optimize its [quantitative trading](../q/quantitative_trading.md) strategies. By employing advanced machine learning algorithms and [backtesting](../b/backtesting.md) capabilities, the fund increased its [alpha generation](../a/alpha_generation.md) by 20%.
+A prominent hedge fund utilized X-[Trading Systems](../t/trading_systems.md)' platform to optimize its [quantitative trading](../q/quantitative_trading.md) strategies. By employing advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) and [backtesting](../b/backtesting.md) capabilities, the fund increased its [alpha generation](../a/alpha_generation.md) by 20%.
 
 ### Case Study 2: Retail Trader Success
 A retail trader with no prior experience in coding used the X-Trade Platform to develop and automate a trading strategy. By leveraging the platform's visual strategy builder and paper trading capabilities, the trader achieved a 15% return within the first six months.
@@ -105,7 +105,7 @@ Advanced encryption and multi-factor authentication are used to safeguard client
 
 ## Future Outlook
 
-The future looks promising for X-[Trading Systems](../t/trading_systems.md) as it continues to innovate and expand its offerings. With a focus on emerging technologies such as quantum computing and blockchain, the company is poised to remain a leader in the [algorithmic trading](../a/algorithmic_trading.md) space.
+The future looks promising for X-[Trading Systems](../t/trading_systems.md) as it continues to innovate and expand its offerings. With a focus on emerging technologies such as [quantum computing](../q/quantum_computing_in_trading.md) and [blockchain](../b/blockchain_in_trading.md), the company is poised to remain a leader in the [algorithmic trading](../a/algorithmic_trading.md) space.
 
 ### 1. Expansion into New Markets
 X-[Trading Systems](../t/trading_systems.md) plans to expand its presence in emerging markets and offer localized solutions catering to regional trading practices and regulatory requirements.

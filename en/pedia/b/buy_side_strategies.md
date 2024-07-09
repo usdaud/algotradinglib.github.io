@@ -19,7 +19,7 @@ Fidelity is a diversified financial services company offering a range of service
 
 Buy side firms employ various strategies to achieve their investment goals. These strategies can be broadly categorized into several types:
 
-1. **Quantitative Strategies**
+1. **[Quantitative Strategies](../q/quantitative_strategies_in_trading.md)**
 2. **Discretionary Strategies**
 3. **Event-Driven Strategies**
 4. **Statistical [Arbitrage](../a/arbitrage.md)**
@@ -28,7 +28,7 @@ Buy side firms employ various strategies to achieve their investment goals. Thes
 
 ## Quantitative Strategies
 
-Quantitative strategies rely extensively on mathematical models and statistical techniques to identify trading opportunities. These strategies often utilize vast amounts of data and advanced [computational algorithms](../c/computational_algorithms.md).
+[Quantitative strategies](../q/quantitative_strategies_in_trading.md) rely extensively on [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to identify trading opportunities. These strategies often utilize vast amounts of data and advanced [computational algorithms](../c/computational_algorithms.md).
 
 ### Factor Investing
 
@@ -104,7 +104,7 @@ The implementation of buy side strategies, especially those involving quantitati
 
 ### Data Analytics Platforms
 
-These platforms aggregate and analyze large volumes of market data, providing insights and signals used in quantitative strategies. Examples include [Bloomberg](../b/bloomberg.md) Terminal and Thomson [Reuters](../r/reuters.md) Eikon.
+These platforms aggregate and analyze large volumes of market data, providing insights and signals used in [quantitative strategies](../q/quantitative_strategies_in_trading.md). Examples include [Bloomberg](../b/bloomberg.md) Terminal and Thomson [Reuters](../r/reuters.md) Eikon.
 
 ### Trading Algorithms
 
@@ -116,7 +116,7 @@ EMS platforms facilitate the efficient execution of large orders by optimizing [
 
 ### Risk Management Frameworks
 
-Effective [risk management](../r/risk_management.md) tools are essential for monitoring and mitigating the various risks associated with buy side [trading strategies](../t/trading_strategies.md). These frameworks include value-at-risk (VaR) models, stress testing, and scenario analysis.
+Effective [risk management](../r/risk_management.md) tools are essential for monitoring and mitigating the various risks associated with buy side [trading strategies](../t/trading_strategies.md). These frameworks include value-at-risk (VaR) models, [stress testing](../s/stress_testing_in_trading.md), and scenario analysis.
 
 ## Key Challenges and Considerations
 

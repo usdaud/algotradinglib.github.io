@@ -61,7 +61,7 @@ Regulations often require financial institutions to report risk measures. The Ba
 
 ### Tools and Software for CVaR Calculation
 
-Several tools and software platforms facilitate CVaR calculation, including:
+Several tools and [software platforms](../s/software_platforms_for_trading.md) facilitate CVaR calculation, including:
 
 - **RiskMetrics**: RiskMetrics provides comprehensive risk analytics tools, including CVaR calculation (https://www.msci.com/riskmetrics-analytics).
 - **MATLAB**: MATLAB offers various financial toolboxes that can calculate CVaR for different asset classes (https://www.mathworks.com/products/financial.html).

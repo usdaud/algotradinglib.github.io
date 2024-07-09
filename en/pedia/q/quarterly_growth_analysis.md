@@ -1,6 +1,6 @@
 # Quarterly Growth Analysis
 
-**Quarterly growth analysis** is a financial analysis technique used to assess the performance of a company over a given three-month period relative to comparable past periods. This type of analysis is crucial in identifying trends, forecasting future performance, and making informed investment decisions. It involves examining financial statements, revenue trends, earnings reports, and other key metrics to derive insights into a company's financial health and operational efficiency.
+**Quarterly growth analysis** is a financial analysis technique used to assess the performance of a company over a given three-month period relative to comparable past periods. This type of analysis is crucial in identifying trends, forecasting future performance, and making informed investment decisions. It involves examining financial statements, revenue trends, earnings reports, and other key metrics to derive insights into a company's financial health and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## Key Metrics in Quarterly Growth Analysis
 
@@ -11,7 +11,7 @@ Revenue growth is one of the most fundamental indicators of a company's performa
 - **Year-over-Year (YoY)**: Compares revenue from a quarter of the current year with the same quarter from the previous year.
 - **Quarter-over-Quarter (QoQ)**: Compares revenue from one quarter to the immediate preceding quarter.
 
-Both YoY and QoQ revenue growth rates offer valuable insights. YoY growth filters out seasonal fluctuations, while QoQ growth reflects recent performance trends.
+Both YoY and QoQ revenue [growth rates](../g/growth_rates_in_trading.md) offer valuable insights. YoY growth filters out seasonal fluctuations, while QoQ growth reflects recent performance trends.
 
 ### Earnings Per Share (EPS) Growth
 

@@ -15,7 +15,7 @@ Yield optimization in the context of [algorithmic trading](../a/algorithmic_trad
 - **CAPM (Capital Asset Pricing Model)**: Determines the expected return of an asset based on its risk relative to the market.
 
 #### 3. **Machine Learning and AI**
-Artificial Intelligence (AI) and Machine Learning (ML) advancements have significantly influenced [algorithmic trading](../a/algorithmic_trading.md). ML models can process complex datasets, identify patterns, and make data-driven predictions.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) advancements have significantly influenced [algorithmic trading](../a/algorithmic_trading.md). ML models can process complex datasets, identify patterns, and make data-driven predictions.
 
 - **Supervised Learning**: Uses historical data to train algorithms on how to behave under certain market conditions.
 - **Unsupervised Learning**: Identifies hidden patterns in data without predefined labels.

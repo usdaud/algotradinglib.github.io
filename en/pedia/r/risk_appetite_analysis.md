@@ -26,7 +26,7 @@ Risk appetite is not a one-size-fits-all parameter; it varies widely between dif
 
 - **Scenario Analysis**: Involves simulating different market conditions to observe how various [trading strategies](../t/trading_strategies.md) perform under hypothetical scenarios such as extreme volatility or market crashes.
   
-- **Stress Testing**: Evaluates the resilience of [trading strategies](../t/trading_strategies.md) under adverse conditions, ensuring that the system can handle [market anomalies](../m/market_anomalies.md) without catastrophic losses.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Evaluates the resilience of [trading strategies](../t/trading_strategies.md) under adverse conditions, ensuring that the system can handle [market anomalies](../m/market_anomalies.md) without catastrophic losses.
 
 ## Methods of Assessing Risk Appetite
 

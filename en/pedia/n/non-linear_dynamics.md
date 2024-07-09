@@ -16,16 +16,16 @@ Non-linear dynamics studies how systems evolve over time when the influence of v
 ## Application in Algorithmic Trading
 
 ### Predictive Modeling
-Non-linear dynamics can enhance predictive models by accounting for the complex and chaotic nature of financial markets. For example, non-[linear regression](../l/linear_regression.md) models and neural networks can encapsulate intricate patterns that linear models might overlook. 
+Non-linear dynamics can enhance [predictive models](../p/predictive_models_in_trading.md) by accounting for the complex and chaotic nature of financial markets. For example, non-[linear regression](../l/linear_regression.md) models and [neural networks](../n/neural_networks_in_trading.md) can encapsulate intricate patterns that [linear models](../l/linear_models_in_trading.md) might overlook. 
 
 #### Case Study: Renaissance Technologies
-Renaissance Technologies is a pioneering hedge fund known for employing sophisticated mathematical models, including non-linear dynamics, to predict market movements and execute trades. Their Medallion Fund, in particular, has garnered legendary returns. [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies is a pioneering hedge fund known for employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including non-linear dynamics, to predict market movements and execute trades. Their Medallion Fund, in particular, has garnered legendary returns. [Renaissance Technologies](https://www.rentec.com/)
 
 ### Volatility Analysis
 Volatility, the degree of variation of trading prices, is a critical factor in [risk management](../r/risk_management.md). Non-linear dynamics helps in understanding and predicting volatility clusters—periods of high volatility followed by periods of low volatility—through techniques like GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models.
 
 ### High-Frequency Trading
-In high-frequency trading (HFT), where trades are executed in fractions of a second, non-linear dynamics offers an edge by refining algorithms to respond to rapidly changing market conditions. Techniques from chaos theory can help identify fleeting opportunities that linear models might miss.
+In high-frequency trading (HFT), where trades are executed in fractions of a second, non-linear dynamics offers an edge by refining algorithms to respond to rapidly changing market conditions. Techniques from chaos theory can help identify fleeting opportunities that [linear models](../l/linear_models_in_trading.md) might miss.
 
 ## Techniques in Non-Linear Dynamics for Trading
 
@@ -35,8 +35,8 @@ These models capture more complex relationships between variables. They are cruc
 - **Spline Regression**: Fits piecewise polynomial functions to segments of the data.
 
 ### Machine Learning Algorithms
-Machine learning, particularly deep learning models, inherently considers non-linear dynamics. Neural networks, especially those with multiple layers (Deep Neural Networks), can model highly complex relationships.
-- **Recurrent Neural Networks (RNNs)**: Suitable for time-series data where past information influences future events.
+Machine learning, particularly deep learning models, inherently considers non-linear dynamics. [Neural networks](../n/neural_networks_in_trading.md), especially those with multiple layers (Deep [Neural Networks](../n/neural_networks_in_trading.md)), can model highly complex relationships.
+- **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs)**: Suitable for time-series data where past information influences future events.
 - **Long Short-Term Memory (LSTM)**: An advanced RNN variant that can remember long-term dependencies, crucial in financial time-series forecasting.
 
 #### Case Study: Two Sigma
@@ -72,21 +72,21 @@ R, with packages like `tseries` and `forecast`, offers powerful tools for [time 
 ## Challenges and Considerations
 
 ### Data Quality
-The effectiveness of non-linear models heavily depends on data quality. Noisy data can lead to overfitting or spurious patterns, rendering the models ineffective.
+The effectiveness of non-[linear models](../l/linear_models_in_trading.md) heavily depends on data quality. Noisy data can lead to overfitting or spurious patterns, rendering the models ineffective.
 
 ### Computational Complexity
-Non-linear models often require significant computational resources. Optimizing these models for real-time trading applications can be challenging but necessary, particularly in high-frequency trading.
+Non-[linear models](../l/linear_models_in_trading.md) often require significant computational resources. Optimizing these models for real-time trading applications can be challenging but necessary, particularly in high-frequency trading.
 
 ### Interpretability
-Non-linear models, especially those built using machine learning, can be challenging to interpret. Understanding the rationale behind trading decisions is crucial for [risk management](../r/risk_management.md) and regulatory compliance.
+Non-[linear models](../l/linear_models_in_trading.md), especially those built using machine learning, can be challenging to interpret. Understanding the rationale behind trading decisions is crucial for [risk management](../r/risk_management.md) and regulatory compliance.
 
 ### Overfitting
-The flexibility of non-linear models can sometimes lead to overfitting, where the model performs well on historical data but poorly on new data. Robust cross-validation techniques are essential.
+The flexibility of non-[linear models](../l/linear_models_in_trading.md) can sometimes lead to overfitting, where the model performs well on historical data but poorly on new data. Robust cross-validation techniques are essential.
 
 ## Future Directions
 
 ### Quantum Computing
-Quantum algorithms hold promise for solving non-linear problems more efficiently than classical computers, potentially revolutionizing [algorithmic trading](../a/algorithmic_trading.md).
+[Quantum algorithms](../q/quantum_algorithms_in_trading.md) hold promise for solving non-linear problems more efficiently than classical computers, potentially revolutionizing [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Explainable AI (XAI)
 Developing models that are both powerful and interpretable is an ongoing research area. Explainable AI aims to make complex models, including those based on non-linear dynamics, more transparent and understandable to human users.
@@ -95,5 +95,5 @@ Developing models that are both powerful and interpretable is an ongoing researc
 The ability to process vast amounts of unstructured data in real-time will further enhance the capabilities of non-linear dynamic models in [algorithmic trading](../a/algorithmic_trading.md), improving predictive accuracy and decision-making speed.
 
 ## Conclusion
-Non-linear dynamics brings a sophisticated and nuanced approach to [algorithmic trading](../a/algorithmic_trading.md), enabling traders to capture complex market relationships that linear models overlook. While the field presents significant challenges, advancements in computational power, machine learning, and [data analysis techniques](../d/data_analysis_techniques.md) continue to push the boundaries of what's possible. As markets evolve, the integration of non-linear dynamics into [trading strategies](../t/trading_strategies.md) will likely become even more critical in maintaining a competitive edge.
+Non-linear dynamics brings a sophisticated and nuanced approach to [algorithmic trading](../a/algorithmic_trading.md), enabling traders to capture complex market relationships that [linear models](../l/linear_models_in_trading.md) overlook. While the field presents significant challenges, advancements in computational power, machine learning, and [data analysis techniques](../d/data_analysis_techniques.md) continue to push the boundaries of what's possible. As markets evolve, the integration of non-linear dynamics into [trading strategies](../t/trading_strategies.md) will likely become even more critical in maintaining a competitive edge.
 

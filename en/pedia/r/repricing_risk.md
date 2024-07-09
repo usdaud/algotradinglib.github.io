@@ -21,7 +21,7 @@ Financial institutions employ various measures to assess and manage repricing ri
 
 1. **Gap Analysis:** This technique involves categorizing assets and liabilities into different time buckets (e.g., 0-30 days, 31-90 days, etc.) based on their maturity or repricing dates. The difference (or gap) between assets and liabilities in each bucket can reveal potential exposure to interest rate changes.
 2. **Duration Analysis:** This measure evaluates the sensitivity of the value of a financial institution's assets and liabilities to changes in interest rates by calculating weighted average timings of cash flows.
-3. **Sensitivity Analysis:** This approach involves stress testing the institution’s financial position by assuming various interest rate scenarios and assessing the impact on earnings and capital.
+3. **Sensitivity Analysis:** This approach involves [stress testing](../s/stress_testing_in_trading.md) the institution’s financial position by assuming various interest rate scenarios and assessing the impact on earnings and capital.
 
 ## Impacts of Repricing Risk
 

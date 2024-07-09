@@ -14,13 +14,13 @@ Market shocks can be categorized based on their origin and nature:
 ### Key Components of Market Shock Analysis
 
 #### Volatility Estimation
-One of the primary components of market shock analysis is estimating the volatility of financial instruments under different shock scenarios. Volatility is a measure of the frequency and magnitude of price movements. High volatility indicates significant uncertainty and risk.
+One of the primary components of market shock analysis is estimating the volatility of financial instruments under different shock scenarios. Volatility is a measure of the frequency and magnitude of price movements. High volatility indicates significant [uncertainty](../u/uncertainty_in_trading.md) and risk.
 
 #### Scenario Analysis
 This involves creating hypothetical scenarios based on potential market shocks and analyzing their impacts on portfolios. Scenario analysis helps traders and risk managers to examine the effects of extreme but plausible events. These scenarios can be historical (based on past events) or predictive (imagining future events based on current trends).
 
 #### Stress Testing
-Stress testing evaluates how financial instruments or portfolios would perform under extreme and adverse conditions. This process helps in identifying vulnerabilities and potential areas of loss, allowing traders to develop strategies to mitigate risk.
+[Stress testing](../s/stress_testing_in_trading.md) evaluates how financial instruments or portfolios would perform under extreme and adverse conditions. This process helps in identifying vulnerabilities and potential areas of loss, allowing traders to develop strategies to mitigate risk.
 
 #### Value at Risk (VaR)
 Value at Risk is a statistical technique used to measure the risk of loss on a portfolio over a specific time frame. It estimates the maximum potential loss with a given confidence level under normal market conditions. VaR can be adjusted to take into account extreme events (such as market shocks) by incorporating stress loss or [tail risk](../t/tail_risk.md) measures.
@@ -31,10 +31,10 @@ Market shocks can significantly impact liquidity, making it difficult to execute
 ### Tools and Techniques
 
 #### Risk Management Software
-Various advanced software tools are used to perform market shock analysis, such as:
+Various advanced [software tools](../s/software_tools_for_trading.md) are used to perform market shock analysis, such as:
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive tools for financial professionals to monitor and analyze financial data, perform scenario analysis, and manage risk. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers financial analysis tools and content for market researchers, including stress testing and scenario analysis capabilities. [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-- **RiskMetrics**: A widely used [risk management](../r/risk_management.md) and analysis tool by MSCI that provides VaR calculations and stress testing. [MSCI RiskMetrics](https://www.msci.com/riskmetrics)
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers financial analysis tools and content for market researchers, including [stress testing](../s/stress_testing_in_trading.md) and scenario analysis capabilities. [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+- **RiskMetrics**: A widely used [risk management](../r/risk_management.md) and analysis tool by MSCI that provides VaR calculations and [stress testing](../s/stress_testing_in_trading.md). [MSCI RiskMetrics](https://www.msci.com/riskmetrics)
 
 #### Quantitative Models
 Several [quantitative models](../q/quantitative_models.md) are employed to simulate and analyze market shocks:
@@ -47,7 +47,7 @@ Several [quantitative models](../q/quantitative_models.md) are employed to simul
 1. **Diversification**: Diversifying portfolios to spread risk across various assets and asset classes, reducing the potential impact of a single market shock.
 2. **[Dynamic Hedging](../d/dynamic_hedging.md)**: Continuously adjusting hedge positions to respond to changing market conditions and potential shocks.
 3. **Keep a Pulse on Global Events**: Staying informed about global economic, political, and natural events that could lead to sudden market shocks.
-4. **Regular Stress Testing**: Conducting regular and rigorous stress tests to prepare for potential adverse market conditions.
+4. **Regular [Stress Testing](../s/stress_testing_in_trading.md)**: Conducting regular and rigorous stress tests to prepare for potential adverse market conditions.
 5. **Contingency Planning**: Developing comprehensive contingency plans and response strategies for various market shock scenarios.
 
 ### Real-World Examples

@@ -73,9 +73,9 @@ The importance of clearing and settlement in maintaining market integrity has le
 
 Modern technology significantly impacts clearing and settlement processes, especially in the realm of [algorithmic trading](../a/algorithmic_trading.md). Some groundbreaking innovations include:
 
-- **Blockchain**: Promises a decentralized and immutable ledger for real-time settlement, reducing the need for intermediaries and lowering settlement times.
-- **Artificial Intelligence (AI) and Machine Learning**: Used for [risk management](../r/risk_management.md), fraud detection, and process automation to streamline the clearing and settlement pipeline.
-- **Cloud Computing**: Provides scalable resources and robust infrastructure, enabling faster processing and improved data security.
+- **[Blockchain](../b/blockchain_in_trading.md)**: Promises a decentralized and immutable ledger for real-time settlement, reducing the need for intermediaries and lowering settlement times.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning**: Used for [risk management](../r/risk_management.md), fraud detection, and process automation to streamline the clearing and settlement pipeline.
+- **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Provides scalable resources and robust infrastructure, enabling faster processing and improved [data security](../d/data_security_in_trading.md).
 
 ### Conclusion
 

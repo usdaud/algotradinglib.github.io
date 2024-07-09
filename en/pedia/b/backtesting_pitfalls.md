@@ -48,7 +48,7 @@ Ignoring transaction costs and slippage can lead to a significant overestimation
 ### How to Avoid It:
 
 1. **Modeling Real Costs:** Incorporate realistic transaction costs and potential slippage into your model.
-2. **Stress Testing:** Test your strategy in various market conditions to understand the impact of slippage.
+2. **[Stress Testing](../s/stress_testing_in_trading.md):** Test your strategy in various market conditions to understand the impact of slippage.
 3. **Brokerage Data:** Use historical brokerage data to better estimate these costs.
 
 ## Market Impact Ignorance
@@ -73,7 +73,7 @@ Failing to adjust historical data for corporate actions like stock splits, divid
 
 ## Psychological Biases
 
-Psychological biases, such as [confirmation bias](../c/confirmation_bias.md) or overconfidence, can cloud judgment during the [backtesting](../b/backtesting.md) process. These biases can lead to false confidence in a strategy's performance.
+[Psychological biases](../p/psychological_biases_in_trading.md), such as [confirmation bias](../c/confirmation_bias.md) or overconfidence, can cloud judgment during the [backtesting](../b/backtesting.md) process. These biases can lead to false confidence in a strategy's performance.
 
 ### How to Avoid It:
 
@@ -88,7 +88,7 @@ Forward bias happens when data or events that occurred after the fact are used t
 ### How to Avoid It:
 
 1. **Ex-Ante Data:** Ensure all data used was available at the time of the trading decision.
-2. **Precise Simulation:** Develop precise simulations that consider the timeline of data availability.
+2. **Precise [Simulation](../s/simulation_in_trading.md):** Develop precise simulations that consider the timeline of data availability.
 3. **Review Process:** Regularly review your methodology to check for unintentional forward bias.
 
 ## Limited Historical Data
@@ -107,7 +107,7 @@ Latency and execution issues can cause differences between backtest results and 
 
 ### How to Avoid It:
 
-1. **Latency Simulation:** Simulate latency in your backtest environment.
+1. **Latency [Simulation](../s/simulation_in_trading.md):** Simulate latency in your backtest environment.
 2. **[Execution Algorithms](../e/execution_algorithms.md):** Use sophisticated [execution algorithms](../e/execution_algorithms.md) to minimize delays.
 3. **Real-time Testing:** Conduct real-time, small-scale tests to evaluate the impact of latency.
 

@@ -32,7 +32,7 @@ A calendar spread, also known as a time spread, is an options or futures strateg
 Higher liquidity typically leads to tighter spreads owing to the presence of more buyers and sellers in the market.
 
 ### 3.2 Market Volatility
-Increased volatility often results in wider spreads due to higher risk and uncertainty in the market.
+Increased volatility often results in wider spreads due to higher risk and [uncertainty](../u/uncertainty_in_trading.md) in the market.
 
 ### 3.3 Order Size
 Large orders can impact the spread significantly, often causing it to widen temporarily.
@@ -78,7 +78,7 @@ Understanding spreads helps in better assessing transaction costs, potential sli
 ## 6. Tools and Software for Spread Analysis
 
 ### 6.1 Trading Platforms
-Platforms like MetaTrader, Interactive Brokers, and [Thinkorswim](../t/thinkorswim.md) offer built-in tools for spread analysis and strategy development.
+Platforms like MetaTrader, [Interactive Brokers](../i/interactive_brokers.md), and [Thinkorswim](../t/thinkorswim.md) offer built-in tools for spread analysis and strategy development.
 
 ### 6.2 Statistical Software
 Software such as MATLAB, R, Python (with libraries like pandas, statsmodels, and scikit-learn), and SAS are widely used for conducting [quantitative analysis](../q/quantitative_analysis.md) of spreads.
@@ -92,7 +92,7 @@ Software such as MATLAB, R, Python (with libraries like pandas, statsmodels, and
 A leading market-making firm might leverage advanced spread analysis to dynamically adjust their quotes in response to market conditions, maintaining tight spreads while optimizing their inventory and risk exposure.
 
 ### 7.2 Example: Statistical Arbitrage
-A hedge fund could employ cointegration tests and z-scores to identify pairs of stocks with a historically stable spread. By exploiting deviations from the mean spread, they can generate alpha while managing risk.
+A hedge fund could employ cointegration tests and [z-scores](../z/z-scores_in_trading.md) to identify pairs of stocks with a historically stable spread. By exploiting deviations from the mean spread, they can generate alpha while managing risk.
 
 ### 7.3 Example: HFT Spread Capture
 An HFT firm might utilize high-frequency data and sophisticated models to predict minute-by-minute spread changes, executing rapid trades to capture even fractional spread differences for profit.

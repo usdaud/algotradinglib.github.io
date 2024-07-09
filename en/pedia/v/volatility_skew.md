@@ -7,12 +7,12 @@ Volatility skew refers to the pattern in which implied volatility (IV) varies wi
 **1. Vertical Skew (Strike Skew):**  
 Vertical skew refers to the variation in implied volatility across different strike prices for options with the same expiration. When plotted on a graph with strike prices on the x-axis and implied volatility on the y-axis, the shape of this curve is called the volatility smile or volatility smirk.
 
-- **Volatility Smile:** This pattern occurs when lower and higher strike prices exhibit higher implied volatilities compared to at-the-money (ATM) options. It often indicates higher uncertainty or demand for hedging at extreme price levels.
+- **Volatility Smile:** This pattern occurs when lower and higher strike prices exhibit higher implied volatilities compared to at-the-money (ATM) options. It often indicates higher [uncertainty](../u/uncertainty_in_trading.md) or demand for hedging at extreme price levels.
   
 - **Volatility Smirk:** Typically, [equity options](../e/equity_options.md) exhibit higher implied volatilities for out-of-the-money (OTM) [put options](../p/put_options.md) than for OTM call options. This pattern, called a volatility smirk or skew, indicates a higher premium for [put options](../p/put_options.md) as a hedge against a potential market downturn.
   
 **2. Horizontal Skew (Term Structure):**  
-Horizontal skew refers to the change in implied volatility for options with the same strike price but different expiration dates. This skew is also known as the term structure of volatility. Generally, the term structure is upward sloping, implying that longer-term options have higher implied volatility due to the greater uncertainty over a longer time horizon.
+Horizontal skew refers to the change in implied volatility for options with the same strike price but different expiration dates. This skew is also known as the term structure of volatility. Generally, the term structure is upward sloping, implying that longer-term options have higher implied volatility due to the greater [uncertainty](../u/uncertainty_in_trading.md) over a longer time horizon.
 
 ### Factors Influencing Volatility Skew
 

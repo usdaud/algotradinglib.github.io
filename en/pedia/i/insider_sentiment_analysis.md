@@ -62,7 +62,7 @@ These sentiment scores can then be integrated into broader [trading algorithms](
 
 Several quantitative investment funds have effectively utilized insider sentiment within their [trading strategies](../t/trading_strategies.md):
 
-- **Point72 Asset Management** [Website](https://www.point72.com/): Renowned for integrating various data sets, including insider transactions, into their predictive models.
+- **Point72 Asset Management** [Website](https://www.point72.com/): Renowned for integrating various data sets, including insider transactions, into their [predictive models](../p/predictive_models_in_trading.md).
 - **Renaissance Technologies** [Website](https://www.rentec.com/): Famous for their Medallion Fund, which capitalizes on [systematic trading](../s/systematic_trading.md) strategies, potentially integrating insider sentiment alongside other sophisticated algorithms.
 
 ### Tools and Platforms

@@ -42,8 +42,8 @@ Statistical methods involve the application of mathematical theories to analyze 
 ### Machine Learning
 
 Machine learning (ML) offers advanced methods for interpreting large datasets:
-- **Supervised Learning**: Algorithms like [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), and Neural Networks trained on labeled data to predict outcomes.
-- **Unsupervised Learning**: Clustering and dimensionality reduction techniques such as K-Means, Principal Component Analysis (PCA) for identifying hidden patterns in data.
+- **Supervised Learning**: Algorithms like [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), and [Neural Networks](../n/neural_networks_in_trading.md) trained on labeled data to predict outcomes.
+- **Unsupervised Learning**: Clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) techniques such as K-Means, [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) for identifying hidden patterns in data.
 - **Reinforcement Learning**: Algorithms like Q-Learning which learn to make decisions through trial-and-error in dynamic environments.
 
 ### Natural Language Processing (NLP)
@@ -76,7 +76,7 @@ NLP techniques help in analyzing unstructured textual data from news articles, e
 ### Quantitative Hedge Funds
 
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies and Two Sigma heavily rely on observational data analysis:
-- **Renaissance Technologies**: Uses sophisticated mathematical models to identify subtle patterns and predict price movements with incredible precision. [Renaissance Technologies](https://www.rentec.com/)
+- **Renaissance Technologies**: Uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to identify subtle patterns and predict price movements with incredible precision. [Renaissance Technologies](https://www.rentec.com/)
 - **Two Sigma**: Employs machine learning and distributed computing to build models that ingest and analyze vast datasets. [Two Sigma](https://www.twosigma.com/)
 
 ### High-Frequency Trading (HFT)
@@ -103,7 +103,7 @@ Processing and analyzing vast amounts of data require substantial computational 
 
 ### Quantum Computing
 
-Quantum computing has the potential to revolutionize data analysis by solving complex problems exponentially faster than classical computers.
+[Quantum computing](../q/quantum_computing_in_trading.md) has the potential to revolutionize data analysis by solving complex problems exponentially faster than classical computers.
 
 ### Enhanced Machine Learning Algorithms
 

@@ -22,7 +22,7 @@ Joint [hypothesis testing](../h/hypothesis_testing.md) expands on the basic idea
 - **SIMS Tests**: Sequential testing of individual hypotheses under a joint distribution.
 
 ## Application in Algorithmic Trading
-[Algorithmic trading](../a/algorithmic_trading.md) hinges on the assumption that financial markets can be understood, predicted, and exploited using mathematical models. Given the complex and dynamic nature of financial markets, joint [hypothesis testing](../h/hypothesis_testing.md) provides a robust framework to validate these models and refine strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) hinges on the assumption that financial markets can be understood, predicted, and exploited using [mathematical models](../m/mathematical_models_in_trading.md). Given the complex and dynamic nature of financial markets, joint [hypothesis testing](../h/hypothesis_testing.md) provides a robust framework to validate these models and refine strategies.
 
 ### Testing Trading Strategies
 [Trading strategies](../t/trading_strategies.md) often incorporate various factors such as moving averages, [momentum indicators](../m/momentum_indicators.md), and even external economic factors. Joint [hypothesis testing](../h/hypothesis_testing.md) can evaluate these components in unison to understand their collective impact on the strategy’s performance.
@@ -33,9 +33,9 @@ For [quantitative models](../q/quantitative_models.md) that predict asset prices
 - **Parameter Testing**: Simultaneously tests parameters to ensure they fit well collectively.
 
 ### Risk Management
-[Risk management](../r/risk_management.md) frameworks can employ joint [hypothesis testing](../h/hypothesis_testing.md) to examine the validity of various risk factors:
-- **VaR Models**: Validate multiple risk factors like market risk, credit risk, and operational risk.
-- **Stress Testing**: Examine how different risk factors behave under extreme conditions collectively.
+[Risk management](../r/risk_management.md) frameworks can employ joint [hypothesis testing](../h/hypothesis_testing.md) to examine the validity of various [risk factors](../r/risk_factors_in_trading.md):
+- **VaR Models**: Validate multiple [risk factors](../r/risk_factors_in_trading.md) like market risk, credit risk, and operational risk.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Examine how different [risk factors](../r/risk_factors_in_trading.md) behave under extreme conditions collectively.
 
 ## Statistical Techniques
 
@@ -52,7 +52,7 @@ summary(manova_result)
 These tests help in understanding the joint behavior of variables. For example, F-tests can compare models to see if additional predictors improve performance.
 
 ### Simulation Techniques
-Monte Carlo simulations and other resampling techniques can help understand the joint behavior of variables under different scenarios.
+Monte Carlo simulations and other [resampling techniques](../r/resampling_techniques_in_trading.md) can help understand the joint behavior of variables under different scenarios.
 
 ```python
 import numpy as np
@@ -68,7 +68,7 @@ mean_return, std_return = monte_carlo_simulation(trading_data)
 ```
 
 ### Bayesian Methods
-Bayesian statistics allow incorporating prior beliefs and updating them with observed data. This method can be particularly useful for joint testing multiple hypotheses.
+[Bayesian statistics](../b/bayesian_statistics_in_trading.md) allow incorporating prior beliefs and updating them with observed data. This method can be particularly useful for joint testing multiple hypotheses.
 
 ```python
 from pyro.infer import MCMC, NUTS
@@ -87,7 +87,7 @@ mcmc.run(trading_data)
 ```
 
 ### Neural Networks and Machine Learning Models
-Advanced machine learning models and neural networks can be trained to perform joint [hypothesis testing](../h/hypothesis_testing.md), particularly useful in high-dimensional data scenarios.
+Advanced machine learning models and [neural networks](../n/neural_networks_in_trading.md) can be trained to perform joint [hypothesis testing](../h/hypothesis_testing.md), particularly useful in high-dimensional data scenarios.
 
 ```python
 from sklearn.model_selection import train_test_split

@@ -105,7 +105,7 @@ BlackRock, an investment management corporation, utilizes advanced [algorithmic 
 
 #### 7.2. Renaissance Technologies
 
-Renaissance Technologies is a quantitative hedge fund that employs complex mathematical models and algorithms to exploit market inefficiencies, including those based on yield discrepancies.
+Renaissance Technologies is a quantitative hedge fund that employs complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to exploit market inefficiencies, including those based on yield discrepancies.
 
 **Source**: [Renaissance Technologies LLC](https://www.rentec.com/)
 

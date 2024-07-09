@@ -5,7 +5,7 @@
 ## The Nature of Geopolitical Events
 
 ### Political Elections
-Political elections, especially in major economies, have the potential to cause significant market volatility. Changes in government leadership can lead to shifts in economic policy, trade agreements, and regulatory frameworks. For example, the 2016 U.S. Presidential election resulted in significant market movements due to the uncertainty surrounding the policies of the incoming administration.
+Political elections, especially in major economies, have the potential to cause significant market volatility. Changes in government leadership can lead to shifts in economic policy, trade agreements, and regulatory frameworks. For example, the 2016 U.S. Presidential election resulted in significant market movements due to the [uncertainty](../u/uncertainty_in_trading.md) surrounding the policies of the incoming administration.
 
 ### International Conflicts and Wars
 Conflicts and wars disrupt economic activities, lead to trade embargoes, and cause fluctuations in commodity prices such as oil and gold. An example is the Russia-Ukraine conflict, which has had profound effects on European energy markets and global commodity prices. Such events can lead to abrupt market swings, posing both risks and opportunities for algorithmic traders.
@@ -22,7 +22,7 @@ While not strictly geopolitical, natural disasters and pandemics can have geopol
 ## Impact on Market Behavior
 
 ### Volatility
-Geopolitical events often lead to increased market volatility as investors react to uncertainty and potential risk. [Algorithmic trading](../a/algorithmic_trading.md) strategies must be capable of adjusting to higher volatility levels to avoid significant losses or to capitalize on rapid price changes.
+Geopolitical events often lead to increased market volatility as investors react to [uncertainty](../u/uncertainty_in_trading.md) and potential risk. [Algorithmic trading](../a/algorithmic_trading.md) strategies must be capable of adjusting to higher volatility levels to avoid significant losses or to capitalize on rapid price changes.
 
 ### Liquidity
 Market liquidity can be affected by geopolitical events. For instance, during times of crisis, market participants might pull back, leading to reduced liquidity. [Algorithmic trading](../a/algorithmic_trading.md) systems need to account for these changes to ensure that trades are executed efficiently without impacting market prices adversely.
@@ -54,11 +54,11 @@ Tensions between the United States and Iran have periodically caused spikes in o
 Several firms specialize in [algorithmic trading](../a/algorithmic_trading.md) and have developed sophisticated systems to navigate the complexities of geopolitical events. Notable examples include:
 
 - [Jane Street](https://www.janestreet.com/): A global [proprietary trading](../p/proprietary_trading.md) firm that uses sophisticated algorithms and technology to trade a wide range of financial products.
-- [Two Sigma](https://www.twosigma.com/): A quantitative investment management firm that leverages data science and technology to build innovative [trading strategies](../t/trading_strategies.md).
+- [Two Sigma](https://www.twosigma.com/): A quantitative investment management firm that leverages [data science](../d/data_science_in_trading.md) and technology to build innovative [trading strategies](../t/trading_strategies.md).
 - [Citadel Securities](https://www.citadelsecurities.com/): A leading market maker and trading firm known for using advanced algorithms and technology to provide liquidity in financial markets.
 
 ## The Future of Algorithmic Trading Amid Geopolitical Events
 
-As geopolitical events continue to shape the global economy, [algorithmic trading](../a/algorithmic_trading.md) systems will need to evolve to remain effective. The integration of artificial intelligence (AI) and machine learning (ML) will enhance the ability of these systems to analyze vast amounts of data, predict market reactions, and adjust strategies accordingly. Enhanced real-time data feeds and improved [risk management](../r/risk_management.md) protocols will be crucial in navigating future geopolitical uncertainties.
+As geopolitical events continue to shape the global economy, [algorithmic trading](../a/algorithmic_trading.md) systems will need to evolve to remain effective. The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) will enhance the ability of these systems to analyze vast amounts of data, predict market reactions, and adjust strategies accordingly. Enhanced real-time data feeds and improved [risk management](../r/risk_management.md) protocols will be crucial in navigating future geopolitical uncertainties.
 
 In conclusion, geopolitical events play a significant role in influencing financial markets and pose unique challenges and opportunities for [algorithmic trading](../a/algorithmic_trading.md). By understanding the impact of these events and employing advanced strategies and technologies, [algorithmic trading](../a/algorithmic_trading.md) firms can effectively navigate the complexities of the global market landscape.

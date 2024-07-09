@@ -41,7 +41,7 @@ In financial markets, the concept of zero-sum games is applied in various tradin
 
 Several companies specialize in trading and have platforms and tools that operate under the principles of zero-sum games:
 
-1. **Interactive Brokers**: Offers a wide array of trading tools that are used in futures and options markets (https://www.interactivebrokers.com)
+1. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a wide array of trading tools that are used in futures and options markets (https://www.interactivebrokers.com)
 2. **CME Group**: The world's largest futures and options exchange, where many [zero-sum trading](../z/zero-sum_trading.md) activities take place (https://www.cmegroup.com)
 
 ### Criticisms and Limitations

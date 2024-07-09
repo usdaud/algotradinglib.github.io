@@ -39,7 +39,7 @@ Quantitative volatility [trading strategies](../t/trading_strategies.md) rely on
 
 ## Tools and Software for Volatility Analysis
 
-Several tools and software platforms assist in conducting quantitative [volatility analysis](../v/volatility_analysis.md):
+Several tools and [software platforms](../s/software_platforms_for_trading.md) assist in conducting quantitative [volatility analysis](../v/volatility_analysis.md):
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive platform for accessing financial data and models.
 - **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows for [backtesting](../b/backtesting.md) and implementing [trading strategies](../t/trading_strategies.md).
@@ -61,4 +61,4 @@ Numerous research papers and publications contribute to the field:
 - **"Volatility and Correlation"** by Riccardo Rebonato is an authoritative text on the subject.
 - **"The Concepts and Practice of [Mathematical Finance](../m/mathematical_finance.md)"** by Mark S. Joshi covers various aspects of volatility modeling and [quantitative finance](../q/quantitative_finance.md).
 
-In conclusion, quantitative [volatility analysis](../v/volatility_analysis.md) remains a cornerstone of modern finance, guiding traders, risk managers, and portfolio managers in navigating and capitalizing on market movements. Advanced mathematical models and tools are integral to understanding and predicting market behaviors, making [volatility analysis](../v/volatility_analysis.md) both a science and an art essential for financial success.
+In conclusion, quantitative [volatility analysis](../v/volatility_analysis.md) remains a cornerstone of modern finance, guiding traders, risk managers, and portfolio managers in navigating and capitalizing on market movements. Advanced [mathematical models](../m/mathematical_models_in_trading.md) and tools are integral to understanding and predicting market behaviors, making [volatility analysis](../v/volatility_analysis.md) both a science and an art essential for financial success.

@@ -18,7 +18,7 @@ Hedge fund [risk management](../r/risk_management.md) is a critical component of
 
 **Value at Risk (VaR)**: VaR quantifies the maximum potential loss within a given timeframe and confidence level. Despite its broad usage, VaR has limitations, especially during extreme market conditions.
 
-**Stress Testing and Scenario Analysis**: These techniques assess the fund’s resilience under extreme market conditions. Stress tests simulate shocks to understand potential impacts, while scenario analysis considers multi-factor events.
+**[Stress Testing](../s/stress_testing_in_trading.md) and Scenario Analysis**: These techniques assess the fund’s resilience under extreme market conditions. Stress tests simulate shocks to understand potential impacts, while scenario analysis considers multi-factor events.
 
 **[Risk Budgeting](../r/risk_budgeting.md)**: It involves allocating capital while managing exposures to various risks within pre-defined limits, enhancing overall risk-adjusted returns.
 
@@ -30,9 +30,9 @@ Hedge fund [risk management](../r/risk_management.md) is a critical component of
 
 ### Technologies in Risk Management
 
-**Advanced Analytics and Machine Learning**: Sophisticated algorithms and big data analytics help in modeling complex risk scenarios and predicting potential vulnerabilities.
+**Advanced Analytics and Machine Learning**: Sophisticated algorithms and [big data analytics](../b/big_data_analytics_in_trading.md) help in modeling complex risk scenarios and predicting potential vulnerabilities.
 
-**Blockchain and Distributed Ledger Technology (DLT)**: Improves transparency and accuracy in recording financial transactions, aiding in managing operational and counterparty risks.
+**[Blockchain](../b/blockchain_in_trading.md) and Distributed Ledger Technology (DLT)**: Improves transparency and accuracy in recording financial transactions, aiding in managing operational and counterparty risks.
 
 **[Risk Management](../r/risk_management.md) Software and Platforms**: Comprehensive software solutions streamline risk assessment and reporting. Notable examples include:
 - **BlackRock’s Aladdin**: [Aladdin](https://www.blackrock.com/aladdin)
@@ -51,7 +51,7 @@ Regulatory changes post-2008 financial crisis have intensified the focus on [ris
 ### Example Case Studies
 
 1. **Long-Term Capital Management (LTCM)**: An examination of LTCM's collapse in the late 1990s underscores the perils of high leverage and inadequate risk diversification.
-2. **Amaranth Advisors**: In 2006, massive losses in natural gas markets highlighted the crucial need for managing concentrated exposures and stress testing.
+2. **Amaranth Advisors**: In 2006, massive losses in natural gas markets highlighted the crucial need for managing concentrated exposures and [stress testing](../s/stress_testing_in_trading.md).
 
 ### Strategies for Effective Risk Management
 

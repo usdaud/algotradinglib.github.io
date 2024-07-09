@@ -7,7 +7,7 @@
 Mergers and Acquisitions (M&A) are a cornerstone of investment banking activities, where financial advisors assist in the consolidation of companies or assets. The primary goal in M&A is to create a strategic fit that captures synergies and enhances shareholder value.
 
 **Key Components of M&A Advisory:**
-- **Due Diligence:** Conducting thorough analyses of the targeted entity’s financial health, operational efficiency, and long-term strategic potential.
+- **Due Diligence:** Conducting thorough analyses of the targeted entity’s financial health, [operational efficiency](../o/operational_efficiency_in_trading.md), and long-term strategic potential.
 - **Valuation:** Determining a fair value for the entity based on various metrics like discounted cash flow (DCF), comparable company analysis, and precedent transactions.
 - **Negotiation & Structuring:** Facilitating negotiations between parties and structuring the deal terms to optimize financial outcomes and compliance.
 - **Integration Planning:** Developing integration plans to seamlessly merge the operations of the entities involved.

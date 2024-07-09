@@ -117,7 +117,7 @@ Several tools and platforms can help traders execute theta strategies effectivel
 
 ### Interactive Brokers
 
-Interactive Brokers provides robust tools for analyzing and managing options strategies, including those centered on theta.
+[Interactive Brokers](../i/interactive_brokers.md) provides robust tools for analyzing and managing options strategies, including those centered on theta.
 
 [Interactive Brokers](https://www.interactivebrokers.com/)
 

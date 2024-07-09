@@ -1,6 +1,6 @@
 # Recurrent Neural Networks (RNN)
 
-Recurrent Neural Networks (RNNs) represent a class of [artificial neural networks](../a/artificial_neural_networks.md) designed to recognize patterns in sequential data such as time series, speech, text, financial data, and more. They are distinguished by their ability to retain memory of previous elements in the sequence, making them highly effective at tasks where context and temporal dependencies are important. Unlike traditional [feedforward neural networks](../f/feedforward_neural_networks.md), RNNs can use their internal state (memory) to process sequences of inputs, making them suitable for tasks where the previous input is relevant to predicting the next input.
+Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) represent a class of [artificial neural networks](../a/artificial_neural_networks.md) designed to recognize patterns in sequential data such as time series, speech, text, financial data, and more. They are distinguished by their ability to retain memory of previous elements in the sequence, making them highly effective at tasks where context and [temporal dependencies](../t/temporal_dependencies_in_trading.md) are important. Unlike traditional [feedforward neural networks](../f/feedforward_neural_networks.md), RNNs can use their internal state (memory) to process sequences of inputs, making them suitable for tasks where the previous input is relevant to predicting the next input.
 
 ## Key Components and Structure
 
@@ -81,4 +81,4 @@ Attention mechanisms allow models to focus on specific parts of the input sequen
 ### Transformers
 Transformers, introduced by Vaswani et al., have revolutionized sequence processing by eliminating the need for recurrent connections. Instead, they rely on self-attention mechanisms, enabling faster training and improved performance on sequence tasks. Traders are increasingly exploring transformer models to enhance predictive accuracy and execution speed.
 
-In conclusion, Recurrent Neural Networks continue to be a pivotal technology in [algorithmic trading](../a/algorithmic_trading.md), providing robust tools for analyzing sequential data and driving more informed trading decisions. With ongoing research and development, the capabilities and applications of RNNs in financial markets are poised to expand even further.
+In conclusion, Recurrent [Neural Networks](../n/neural_networks_in_trading.md) continue to be a pivotal technology in [algorithmic trading](../a/algorithmic_trading.md), providing robust tools for analyzing sequential data and driving more informed trading decisions. With ongoing research and development, the capabilities and applications of RNNs in financial markets are poised to expand even further.

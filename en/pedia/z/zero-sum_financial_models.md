@@ -14,13 +14,13 @@ In a [zero-sum game](../z/zero-sum_game.md), the profit of each participant is i
 
 - **Options Trading**: Similar to futures, options involve a buyer and a seller engaging in a contract where the buyer has the right, but not the obligation, to buy or sell an asset at a set price. The payoff profile of one party is directly counterbalanced by the other's loss.
 
-- **Forex Trading**: Currency trading is another domain where zero-sum dynamics are evident. Currency pairs fluctuate based on geopolitical and economic factors, and gains in one currency pair correspond to losses in another.
+- **Forex Trading**: [Currency trading](../c/currency_trading_strategies.md) is another domain where zero-sum dynamics are evident. Currency pairs fluctuate based on geopolitical and economic factors, and gains in one currency pair correspond to losses in another.
 
 ## Game Theory and Zero-Sum Models
 
 Game theory provides the mathematical framework for analyzing zero-sum games. Key concepts include:
 
-- **Nash Equilibrium**: A situation where no player can benefit by changing their strategy while the other players keep theirs unchanged. In zero-sum games, the Nash Equilibrium represents mutual maximization of each participant's strategies.
+- **[Nash Equilibrium](../n/nash_equilibrium_in_trading.md)**: A situation where no player can benefit by changing their strategy while the other players keep theirs unchanged. In zero-sum games, the [Nash Equilibrium](../n/nash_equilibrium_in_trading.md) represents mutual maximization of each participant's strategies.
 
 - **Minimax Theorem**: This principle, formulated by John von Neumann, asserts that in zero-sum games, there exists a strategy for each player that minimizes their maximum loss.
 
@@ -54,7 +54,7 @@ Several prominent financial firms utilize [zero-sum models](../z/zero-sum_models
 
 - **Jane Street** (https://www.janestreet.com/): A [quantitative trading](../q/quantitative_trading.md) firm specializing in [arbitrage](../a/arbitrage.md) and market making where zero-sum strategies are frequently employed.
 - **DRW Trading** (https://drw.com/): Another significant player in [algorithmic trading](../a/algorithmic_trading.md) employing [zero-sum models](../z/zero-sum_models.md) to optimize [trading strategies](../t/trading_strategies.md).
-- **Renaissance Technologies** (https://www.rentec.com/): Known for their Medallion Fund, which employs sophisticated mathematical models, including zero-sum principles, to achieve market-beating returns.
+- **Renaissance Technologies** (https://www.rentec.com/): Known for their Medallion Fund, which employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including zero-sum principles, to achieve market-beating returns.
 
 ## Conclusion
 

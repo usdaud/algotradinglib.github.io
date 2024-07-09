@@ -1,6 +1,6 @@
 # Knowledge-Driven Trading Systems
 
-In the fast-paced world of financial markets, the ability to make informed and timely trading decisions is crucial. Knowledge-driven [trading systems](../t/trading_systems.md) are [algorithmic trading](../a/algorithmic_trading.md) frameworks that leverage advanced data analytics, artificial intelligence, and domain expertise to execute trades with precision. These systems incorporate diverse sources of information, ranging from historical price data to news [sentiment analysis](../s/sentiment_analysis.md), to craft robust [trading strategies](../t/trading_strategies.md). This document explores the foundational concepts, technologies, and applications of knowledge-driven [trading systems](../t/trading_systems.md) in algo trading.
+In the fast-paced world of financial markets, the ability to make informed and timely trading decisions is crucial. Knowledge-driven [trading systems](../t/trading_systems.md) are [algorithmic trading](../a/algorithmic_trading.md) frameworks that leverage advanced data analytics, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and domain expertise to execute trades with precision. These systems incorporate diverse sources of information, ranging from historical price data to news [sentiment analysis](../s/sentiment_analysis.md), to craft robust [trading strategies](../t/trading_strategies.md). This document explores the foundational concepts, technologies, and applications of knowledge-driven [trading systems](../t/trading_systems.md) in algo trading.
 
 ## Core Concepts of Knowledge-Driven Trading Systems
 
@@ -15,8 +15,8 @@ Knowledge-driven [trading systems](../t/trading_systems.md) rely on the seamless
 The processing and analysis of integrated data are conducted using advanced analytical techniques:
 
 - **Statistical Analysis:** Traditional methods like regression, [hypothesis testing](../h/hypothesis_testing.md), and [time series analysis](../t/time_series_analysis.md).
-- **Machine Learning (ML):** Utilizing supervised and unsupervised learning algorithms for [pattern recognition](../p/pattern_recognition.md) and [predictive analytics](../p/predictive_analytics.md).
-- **Natural Language Processing (NLP):** Analyzing textual data from news articles, earnings reports, and social media.
+- **Machine Learning (ML):** Utilizing supervised and unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) for [pattern recognition](../p/pattern_recognition.md) and [predictive analytics](../p/predictive_analytics.md).
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP):** Analyzing textual data from news articles, earnings reports, and social media.
 
 ### 3. Domain Expertise
 A critical aspect of knowledge-driven trading is incorporating domain expertise into the system design. Experienced traders and financial analysts provide:
@@ -27,19 +27,19 @@ A critical aspect of knowledge-driven trading is incorporating domain expertise 
 ## Key Technologies in Knowledge-Driven Trading
 
 ### 1. Machine Learning and AI
-Machine Learning and Artificial Intelligence play pivotal roles in knowledge-driven trading. Algorithms learn from historical data to predict future price movements and trading opportunities. Key algorithms include:
+Machine Learning and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) play pivotal roles in knowledge-driven trading. Algorithms learn from historical data to predict future price movements and trading opportunities. Key algorithms include:
 
-- **Deep Learning Models:** Such as Long Short-Term Memory (LSTM) networks and Convolutional Neural Networks (CNNs) for complex [pattern recognition](../p/pattern_recognition.md).
+- **Deep Learning Models:** Such as Long Short-Term Memory (LSTM) networks and Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) for complex [pattern recognition](../p/pattern_recognition.md).
 - **Reinforcement Learning:** Algorithms that learn optimal [trading strategies](../t/trading_strategies.md) through trial and error in simulated environments.
 
 ### 2. Big Data Technologies
-Handling vast amounts of financial data necessitates robust big data technologies:
+Handling vast amounts of financial data necessitates robust [big data](../b/big_data_in_trading.md) technologies:
 
 - **Hadoop and Spark:** Frameworks for distributed data storage and processing.
 - **NoSQL Databases:** Databases like MongoDB and Cassandra for flexible data modeling and rapid access.
 
 ### 3. Cloud Computing
-The scalability and computational power of cloud computing support the vast data needs and complex computations of knowledge-driven systems:
+The scalability and computational power of [cloud computing](../c/cloud_computing_in_trading.md) support the vast data needs and complex computations of knowledge-driven systems:
 
 - **AWS, Google Cloud, Microsoft Azure:** Leading cloud service providers offering scalable infrastructure and machine learning services.
 
@@ -53,7 +53,7 @@ Cleaning, transforming, and normalizing raw data to make it suitable for analysi
 - **Normalization:** Scaling data to ensure uniformity across different data sources.
 
 ### 2. Model Development
-Developing predictive models using machine learning techniques:
+Developing [predictive models](../p/predictive_models_in_trading.md) using machine learning techniques:
 
 - **Training and Validation:** Splitting data into training and testing sets, and using cross-validation techniques to assess model performance.
 - **Hyperparameter Tuning:** Optimizing model parameters to enhance predictive accuracy.
@@ -79,9 +79,9 @@ Knowledge-driven systems are key in high-frequency trading where algorithms exec
 - **[Order Routing](../o/order_routing.md):** Strategically placing orders across multiple exchanges to capitalize on price discrepancies.
 
 ### 2. Quantitative Research
-Quantitative analysts utilize knowledge-driven systems to conduct research and develop new [trading strategies](../t/trading_strategies.md) based on mathematical models and statistical analysis.
+Quantitative analysts utilize knowledge-driven systems to conduct research and develop new [trading strategies](../t/trading_strategies.md) based on [mathematical models](../m/mathematical_models_in_trading.md) and statistical analysis.
 
-- **[Factor Models](../f/factor_models.md):** Identifying [market anomalies](../m/market_anomalies.md) and risk factors that influence asset prices.
+- **[Factor Models](../f/factor_models.md):** Identifying [market anomalies](../m/market_anomalies.md) and [risk factors](../r/risk_factors_in_trading.md) that influence asset prices.
 - **[Arbitrage](../a/arbitrage.md) Strategies:** Exploiting price inefficiencies across different markets or instruments.
 
 ### 3. Sentiment Analysis-Based Trading
@@ -96,7 +96,7 @@ Utilizing NLP to analyze sentiment from news articles, social media, and other t
 Two Sigma (https://www.twosigma.com/) employs machine learning, distributed computing, and sophisticated models to manage various investment strategies. Two Sigma's approach is a paragon of knowledge-driven trading using vast amounts of data and advanced technologies.
 
 ### 2. Renaissance Technologies
-Noted for its pioneering work in [quantitative trading](../q/quantitative_trading.md), Renaissance Technologies focuses on [systematic trading](../s/systematic_trading.md) strategies derived from complex mathematical models.
+Noted for its pioneering work in [quantitative trading](../q/quantitative_trading.md), Renaissance Technologies focuses on [systematic trading](../s/systematic_trading.md) strategies derived from complex [mathematical models](../m/mathematical_models_in_trading.md).
 
 ### 3. Numerai
 Numerai (https://numer.ai/) leverages collective intelligence from data scientists worldwide to develop machine learning models for its hedge fund.
@@ -105,7 +105,7 @@ Numerai (https://numer.ai/) leverages collective intelligence from data scientis
 AQR (https://www.aqr.com/) integrates economic theories with [quantitative analysis](../q/quantitative_analysis.md) to manage its diverse suite of investment strategies.
 
 ### 5. Point72
-Point72 (https://www.point72.com/) employs data scientists and quantitative researchers to develop alpha-generating strategies using big data and machine learning.
+Point72 (https://www.point72.com/) employs data scientists and quantitative researchers to develop alpha-generating strategies using [big data](../b/big_data_in_trading.md) and machine learning.
 
 ## Challenges and Future Directions
 

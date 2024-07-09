@@ -28,7 +28,7 @@ With their capacity to handle vast amounts of information, data lakes enable the
 
 ### Advanced Data Analysis
 
-Data lakes support complex analytics workflows, including machine learning (ML) and artificial intelligence (AI) models which can unearth intricate patterns and predictive signals from vast datasets. 
+Data lakes support complex analytics workflows, including machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) models which can unearth intricate patterns and predictive signals from vast datasets. 
 
 ### Low Latency
 
@@ -118,14 +118,14 @@ Deeper integration of AI and ML frameworks will allow for more advanced [predict
 Technologies and frameworks that enhance data governance and quality assurance are expected to be a focus, ensuring that data lakes provide reliable and actionable insights.
 
 ### Quantum Computing
-The advent of quantum computing could revolutionize data processing capabilities of data lakes, enabling the execution of complex computations at unprecedented speeds.
+The advent of [quantum computing](../q/quantum_computing_in_trading.md) could revolutionize data processing capabilities of data lakes, enabling the execution of complex computations at unprecedented speeds.
 
 ## Case Studies and Applications
 
 Several leading firms have adopted data lakes, witnessing significant improvements in their trading operations.
 
 ### JPMorgan Chase
-JPMorgan uses Big Data technologies, including data lakes, to gain deeper insights into market conditions and refine their [algorithmic trading](../a/algorithmic_trading.md) strategies. [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
+JPMorgan uses [Big Data](../b/big_data_in_trading.md) technologies, including data lakes, to gain deeper insights into market conditions and refine their [algorithmic trading](../a/algorithmic_trading.md) strategies. [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
 
 ### Goldman Sachs
 Goldman Sachs leverages data lake architectures to integrate diverse datasets, ensuring their [trading algorithms](../t/trading_algorithms.md) have access to the most comprehensive and current data. [Goldman Sachs](https://www.goldmansachs.com/)

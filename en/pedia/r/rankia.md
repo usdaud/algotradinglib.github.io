@@ -1,24 +1,24 @@
 # Rankia
 
 ## Overview
-Rankia is a leading financial community and information platform based in Spain. Established in 2003, Rankia provides a comprehensive range of financial resources, including market news, analysis, investment strategies, and a vibrant community forum. The platform caters to a broad audience, including retail investors, traders, and financial professionals, offering insights and discussions on various financial topics such as stocks, mutual funds, forex, and personal finance.
+Rankia is a leading financial community and information platform based in Spain. Established in 2003, Rankia provides a comprehensive range of financial resources, including market news, analysis, investment strategies, and a vibrant community forum. The platform caters to a broad audience, including retail investors, traders, and financial professionals, offering insights and discussions on various financial topics such as stocks, mutual funds, forex, and [personal finance](../p/personal_finance_in_trading.md).
 
 ## Key Features
-1. **Financial News and Analysis**: Rankia offers up-to-date news and in-depth analysis on a wide range of financial markets, including stocks, bonds, commodities, and forex. The platform provides valuable insights into market trends and economic indicators.
+1. **Financial News and Analysis**: Rankia offers up-to-date news and in-depth analysis on a wide range of financial markets, including stocks, bonds, commodities, and forex. The platform provides valuable insights into market trends and [economic indicators](../e/economic_indicators.md).
 
-2. **Community Forums**: Rankia hosts active forums where members can discuss various financial topics, share investment strategies, and exchange insights. The forums cover a wide array of subjects, including equities, funds, forex, real estate, and personal finance.
+2. **Community Forums**: Rankia hosts active forums where members can discuss various financial topics, share investment strategies, and exchange insights. The forums cover a wide array of subjects, including equities, funds, forex, real estate, and [personal finance](../p/personal_finance_in_trading.md).
 
-3. **Investment Strategies**: The platform provides a space for discussing different investment strategies, including value investing, growth investing, day trading, and long-term investing. Members can share their strategies, get feedback, and discuss improvements.
+3. **Investment Strategies**: The platform provides a space for discussing different investment strategies, including [value investing](../v/value_investing.md), [growth investing](../g/growth_investing.md), [day trading](../d/day_trading.md), and long-term investing. Members can share their strategies, get feedback, and discuss improvements.
 
 4. **Educational Resources**: Rankia offers a wealth of educational content, including articles, tutorials, webinars, and videos, aimed at helping investors improve their financial knowledge and trading skills.
 
 5. **Broker and Product Reviews**: Members can read and write reviews of brokers, financial products, and services, helping others make informed decisions. Rankia also provides comparative tools to analyze different brokers and investment products.
 
-6. **Personal Finance**: The platform includes a section dedicated to personal finance, offering advice on budgeting, savings, loans, mortgages, and insurance.
+6. **[Personal Finance](../p/personal_finance_in_trading.md)**: The platform includes a section dedicated to [personal finance](../p/personal_finance_in_trading.md), offering advice on budgeting, savings, loans, mortgages, and insurance.
 
 7. **Events and Webinars**: Rankia organizes events and webinars featuring financial experts and industry leaders. These events provide valuable learning opportunities and insights into various financial topics.
 
-8. **Market Data and Tools**: Rankia provides access to real-time market data, charts, and financial tools that help users analyze and track their investments.
+8. **Market Data and Tools**: Rankia provides access to [real-time market data](../r/real-time_market_data.md), charts, and financial tools that help users analyze and track their investments.
 
 ## Benefits
 - **Comprehensive Coverage**: Rankia covers a wide range of financial topics, making it a valuable resource for investors and traders interested in multiple asset classes.
@@ -29,8 +29,8 @@ Rankia is a leading financial community and information platform based in Spain.
 
 ## Use Cases
 - **Retail Investors**: Individual investors use Rankia’s news, analysis, and forums to make informed investment decisions.
-- **Traders**: Active traders leverage the platform’s market data and community discussions to develop and refine their trading strategies.
-- **Personal Finance Management**: Users utilize Rankia’s resources to manage their personal finances, including budgeting, savings, and loans.
+- **Traders**: Active traders leverage the platform’s market data and community discussions to develop and refine their [trading strategies](../t/trading_strategies.md).
+- **[Personal Finance](../p/personal_finance_in_trading.md) Management**: Users utilize Rankia’s resources to manage their personal finances, including budgeting, savings, and loans.
 - **Educational Purposes**: New and experienced investors use Rankia’s educational content to enhance their financial knowledge and trading skills.
 - **Product Selection**: Investors use the platform’s reviews and comparative tools to choose brokers and financial products that best suit their needs.
 

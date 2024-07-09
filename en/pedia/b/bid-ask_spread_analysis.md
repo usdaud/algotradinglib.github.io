@@ -24,10 +24,10 @@ The spread is the difference between the bid price and the ask price:
 Liquidity is a crucial factor influencing the [bid-ask spread](../b/bid-ask_spread.md). High liquidity, characterized by a high volume of trading activity and numerous market participants, generally results in a narrower spread. In contrast, low liquidity leads to wider spreads due to higher transaction costs and the difficulty in finding matching buyers and sellers.
 
 ### Volatility
-Market volatility impacts the spread significantly. High volatility often widens the spread because of the increased risk perceived by market makers and traders. In volatile markets, the uncertainty regarding future price movements prompts participants to demand a higher premium for bearing this risk, leading to wider spreads.
+Market volatility impacts the spread significantly. High volatility often widens the spread because of the increased risk perceived by market makers and traders. In volatile markets, the [uncertainty](../u/uncertainty_in_trading.md) regarding future price movements prompts participants to demand a higher premium for bearing this risk, leading to wider spreads.
 
 ### Market Conditions
-Overall market conditions, including [economic indicators](../e/economic_indicators.md), [geopolitical events](../g/geopolitical_events.md), and investor sentiment, can influence the [bid-ask spread](../b/bid-ask_spread.md). Unfavorable conditions or uncertainty in the market can cause spreads to widen as traders become more cautious and risk-averse.
+Overall market conditions, including [economic indicators](../e/economic_indicators.md), [geopolitical events](../g/geopolitical_events.md), and investor sentiment, can influence the [bid-ask spread](../b/bid-ask_spread.md). Unfavorable conditions or [uncertainty](../u/uncertainty_in_trading.md) in the market can cause spreads to widen as traders become more cautious and risk-averse.
 
 ### Order Size
 The size of the trade order can impact the [bid-ask spread](../b/bid-ask_spread.md). Large orders may move the market and widen the spread due to the imbalance they create between supply and demand. Smaller orders typically have less impact on market prices and maintain tighter spreads.

@@ -10,7 +10,7 @@ To effectively implement bear market strategies, it's crucial to understand the 
 
 - **Liquidity Crunch**: During bear markets, liquidity can dry up, making it harder to buy and sell assets without influencing prices significantly. Lower liquidity often exacerbates market declines.
 
-- **Volatility**: Bear markets are characterized by high volatility, reflecting the uncertainty and fear among market participants.
+- **Volatility**: Bear markets are characterized by high volatility, reflecting the [uncertainty](../u/uncertainty_in_trading.md) and fear among market participants.
 
 ### Common Bear Market Strategies for Algorithmic Trading
 
@@ -82,13 +82,13 @@ Developing robust algorithms often requires [quantitative models](../q/quantitat
 
 - **[Backtesting](../b/backtesting.md)**: Testing the algorithm on historical data to ensure it performs well during past bear markets.
 
-- **Simulation**: Simulating the algorithm's performance under different market conditions to refine parameters.
+- **[Simulation](../s/simulation_in_trading.md)**: Simulating the algorithm's performance under different market conditions to refine parameters.
 
 #### Execution
 
 Efficient execution is crucial due to the high volatility and low liquidity in bear markets:
 
-- **Order Types**: Using various order types, such as limit orders or [stop-loss orders](../s/stop-loss_orders.md), to minimize market impact and control risk.
+- **[Order Types](../o/order_types_in_trading.md)**: Using various [order types](../o/order_types_in_trading.md), such as limit orders or [stop-loss orders](../s/stop-loss_orders.md), to minimize market impact and control risk.
 
 - **Latency**: Minimizing latency to ensure the algorithm can react quickly to market conditions, especially important in high-frequency trading (HFT).
 

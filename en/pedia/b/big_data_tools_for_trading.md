@@ -1,10 +1,10 @@
 # Big Data Tools for Trading
 
-In the ever-evolving landscape of financial markets, the use of big data tools has surged in importance for both individual traders and large financial institutions. These tools, which harness vast amounts of historical data, real-time market information, and advanced analytical techniques, can enable more informed trading decisions, enhance [risk management](../r/risk_management.md), and improve overall [trading strategies](../t/trading_strategies.md). This document will explore various big data tools that have become integral to modern trading practices.
+In the ever-evolving landscape of financial markets, the use of [big data](../b/big_data_in_trading.md) tools has surged in importance for both individual traders and large financial institutions. These tools, which harness vast amounts of historical data, real-time market information, and advanced analytical techniques, can enable more informed trading decisions, enhance [risk management](../r/risk_management.md), and improve overall [trading strategies](../t/trading_strategies.md). This document will explore various [big data](../b/big_data_in_trading.md) tools that have become integral to modern trading practices.
 
 ## 1. Hadoop
 
-Hadoop is an open-source framework for storing and processing large data sets in a distributed computing environment. It uses a simple programming model known as MapReduce, and it can be integrated with various other big data tools to enhance trading analytics.
+Hadoop is an open-source framework for storing and processing large data sets in a distributed computing environment. It uses a simple programming model known as MapReduce, and it can be integrated with various other [big data](../b/big_data_in_trading.md) tools to enhance trading analytics.
 
 - **Usage in Trading:**
   - **Data Storage:** Hadoop can manage large volumes of historical market data, transaction logs, and other financial datasets.
@@ -19,12 +19,12 @@ More information can be found on the [Apache Hadoop Website](https://hadoop.apac
 
 ## 2. Spark
 
-Apache Spark is another open-source big data processing framework designed for speed and ease of use. It extends Hadoop's capabilities by providing a comprehensive framework for big data analytics.
+Apache Spark is another open-source [big data](../b/big_data_in_trading.md) processing framework designed for speed and ease of use. It extends Hadoop's capabilities by providing a comprehensive framework for [big data analytics](../b/big_data_analytics_in_trading.md).
 
 - **Usage in Trading:**
   - **Real-time Analytics:** Spark’s in-memory computing capabilities enable the analysis of financial data in real-time.
   - **Back-testing:** Traders can leverage Spark to perform back-testing of [trading strategies](../t/trading_strategies.md) using extensive historical data.
-  - **Machine Learning:** Integrates with MLlib to apply machine learning algorithms for predicting market trends.
+  - **Machine Learning:** Integrates with MLlib to apply machine [learning algorithms](../l/learning_algorithms_in_trading.md) for predicting market trends.
 
 - **Key Features:**
   - Speed: Processes data up to 100x faster than Hadoop MapReduce.
@@ -51,7 +51,7 @@ For further information, check the [Apache Kafka Website](https://kafka.apache.o
 
 ## 4. HBase
 
-HBase, built on top of Hadoop HDFS, is a distributed, scalable, big data store that provides random, real-time read/write access to large data sets.
+HBase, built on top of Hadoop HDFS, is a distributed, scalable, [big data](../b/big_data_in_trading.md) store that provides random, real-time read/write access to large data sets.
 
 - **Usage in Trading:**
   - **Historical Data Storage:** Effective for storing time-series data, such as historical price data and transaction logs.
@@ -163,4 +163,4 @@ More information is available on the [Quandl Website](https://www.quandl.com/).
 
 ## Conclusion
 
-Big data tools have become indispensable in the trading landscape, offering capabilities that were previously unimaginable. From managing and processing vast datasets to performing real-time analytics and supporting [algorithmic trading](../a/algorithmic_trading.md), these tools provide significant advantages to traders looking to leverage data for better decision-making and increased profitability. Whether it’s using Hadoop for data storage and processing, Apache Spark for real-time analytics, or specialized platforms like [QuantConnect](../q/quantconnect.md) for [algorithmic trading](../a/algorithmic_trading.md), the right combination of big data tools can make a substantial difference in trading outcomes.
+[Big data](../b/big_data_in_trading.md) tools have become indispensable in the trading landscape, offering capabilities that were previously unimaginable. From managing and processing vast datasets to performing real-time analytics and supporting [algorithmic trading](../a/algorithmic_trading.md), these tools provide significant advantages to traders looking to leverage data for better decision-making and increased profitability. Whether it’s using Hadoop for data storage and processing, Apache Spark for real-time analytics, or specialized platforms like [QuantConnect](../q/quantconnect.md) for [algorithmic trading](../a/algorithmic_trading.md), the right combination of [big data](../b/big_data_in_trading.md) tools can make a substantial difference in trading outcomes.

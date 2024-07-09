@@ -31,7 +31,7 @@ The primary objective of lifecycle funds is to align the [asset allocation](../a
 
 1. **Vanguard**: Vanguard offers a suite of target-date retirement funds, which automatically adjust their asset mix to become more conservative as the target date approaches. [Vanguard Target Retirement Funds](https://investor.vanguard.com/mutual-funds/target-retirement/#/)
 
-2. **Fidelity Investments**: Fidelity offers target-date funds under the Freedom Fund brand. These funds are designed to provide diversified portfolios that gradually become more conservative. [Fidelity Freedom Funds](https://fundresearch.fidelity.com/mutual-funds/category-performance.do?cat=TARGET)
+2. **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity offers target-date funds under the Freedom Fund brand. These funds are designed to provide diversified portfolios that gradually become more conservative. [Fidelity Freedom Funds](https://fundresearch.fidelity.com/mutual-funds/category-performance.do?cat=TARGET)
 
 3. **T. Rowe Price**: Another prominent provider, T. Rowe Price, offers target-date retirement funds designed to reduce the risk as the retirement date approaches. [T. Rowe Price Retirement Funds](https://www.troweprice.com/personal-investing/tools/target-date-investments.html)
 

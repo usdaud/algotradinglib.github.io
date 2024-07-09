@@ -12,7 +12,7 @@ The 5-year yield is a key financial metric that represents the return on investm
 
 4. **Monetary Policy**: Central banks, like the Federal Reserve, closely monitor the 5-year yield as part of their monetary policy-making process. Changes in the 5-year yield can signal shifts in economic conditions and influence decisions on interest rates.
 
-5. **Market Sentiment**: The 5-year yield is a useful indicator of market sentiment. A rising 5-year yield might indicate expectations of stronger economic growth and higher inflation, whereas a declining yield may signal economic uncertainty or a preference for safer investments.
+5. **Market Sentiment**: The 5-year yield is a useful indicator of market sentiment. A rising 5-year yield might indicate expectations of stronger economic growth and higher inflation, whereas a declining yield may signal economic [uncertainty](../u/uncertainty_in_trading.md) or a preference for safer investments.
 
 6. **Corporate Bonds**: Aside from government bonds, the 5-year yield is also relevant for corporate bonds. The yield on corporate bonds of similar duration is typically higher than government bonds due to higher risk.
 

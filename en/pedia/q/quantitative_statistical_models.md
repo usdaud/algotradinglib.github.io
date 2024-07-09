@@ -40,7 +40,7 @@ ARIMA models are particularly useful for capturing the underlying temporal struc
 
 #### Logistic Regression
 
-Logistic regression is used for predicting a binary outcome, typically modeled using a logistic function.
+[Logistic regression](../l/logistic_regression_in_trading.md) is used for predicting a binary outcome, typically modeled using a logistic function.
 
 \[ P(Y=1) = \frac{e^{\beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_nX_n}}{1 + e^{\beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_nX_n}} \]
 
@@ -70,7 +70,7 @@ Quantitative statistical models help predict market movements using historical d
 
 ### Risk Management
 
-Models like GARCH are instrumental in estimating and managing market risks. They allow traders to quantify uncertainty and adjust their strategies accordingly.
+Models like GARCH are instrumental in estimating and managing market risks. They allow traders to quantify [uncertainty](../u/uncertainty_in_trading.md) and adjust their strategies accordingly.
 
 ### Portfolio Optimization
 
@@ -100,7 +100,7 @@ Overfitting occurs when a model is excessively complex and captures noise rather
 
 ### Market Changes
 
-Financial markets are influenced by a myriad of factors, including changes in government policies, economic shifts, and unprecedented events. Models must be adaptive to accommodate these changes.
+Financial markets are influenced by a myriad of factors, including changes in [government policies](../g/government_policies_in_trading.md), economic shifts, and unprecedented events. Models must be adaptive to accommodate these changes.
 
 ### Ethical Considerations
 
@@ -122,7 +122,7 @@ For more details, visit [AQR Capital Management](https://www.aqr.com).
 
 ### Two Sigma
 
-Two Sigma applies data science and technology to find value in financial markets. Their [quantitative models](../q/quantitative_models.md) integrate machine learning and big data analytics.
+Two Sigma applies [data science](../d/data_science_in_trading.md) and technology to find value in financial markets. Their [quantitative models](../q/quantitative_models.md) integrate machine learning and [big data analytics](../b/big_data_analytics_in_trading.md).
 
 More information can be found at [Two Sigma](https://www.twosigma.com).
 

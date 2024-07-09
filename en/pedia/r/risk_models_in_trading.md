@@ -1,7 +1,7 @@
 # Risk Models
 
 ### Introduction
-Risk models in trading are mathematical frameworks designed to quantify the uncertainty in investment returns over a given period. Traders use these models to forecast potential losses or gains, manage risks efficiently, and optimize portfolios. Several types of risk models exist, each tailored to different aspects of trading and investment.
+Risk models in trading are mathematical frameworks designed to quantify the [uncertainty](../u/uncertainty_in_trading.md) in investment returns over a given period. Traders use these models to forecast potential losses or gains, manage risks efficiently, and optimize portfolios. Several types of risk models exist, each tailored to different aspects of trading and investment.
 
 ### Types of Risk Models
 
@@ -34,10 +34,10 @@ Operational risk covers losses from internal process failures, human errors, and
 ### Techniques in Risk Modeling
 
 #### Stress Testing
-Stress testing involves subjecting a portfolio to extreme economic scenarios to evaluate its resilience. Scenarios may include financial crises, market crashes, or geopolitical uncertainties.
+[Stress testing](../s/stress_testing_in_trading.md) involves subjecting a portfolio to extreme economic scenarios to evaluate its resilience. Scenarios may include financial crises, market crashes, or geopolitical uncertainties.
 
 #### Scenario Analysis
-Scenario analysis explores various hypothetical events to understand their impact on [portfolio performance](../p/portfolio_performance.md). Unlike stress testing, which is often extreme, scenario analysis includes a range of potential future states, from very optimistic to very pessimistic.
+Scenario analysis explores various hypothetical events to understand their impact on [portfolio performance](../p/portfolio_performance.md). Unlike [stress testing](../s/stress_testing_in_trading.md), which is often extreme, scenario analysis includes a range of potential future states, from very optimistic to very pessimistic.
 
 #### Monte Carlo Simulation
 [Monte Carlo Simulation](../m/monte_carlo_simulation.md) uses random sampling methods to generate numerous possible future states of the market. This technique helps to model the probability distribution of potential outcomes.
@@ -56,15 +56,15 @@ Risk-adjusted [performance metrics](../p/performance_metrics.md) like the [Sharp
 ### Risk Modeling Software
 
 **BlackRock Aladdin**
-BlackRock Aladdin provides comprehensive risk analytics, involving detailed scenario analysis, stress testing, and [portfolio management](../p/portfolio_management.md) tools. More details at [BlackRock Aladdin](https://www.blackrock.com/aladdin).
+BlackRock Aladdin provides comprehensive risk analytics, involving detailed scenario analysis, [stress testing](../s/stress_testing_in_trading.md), and [portfolio management](../p/portfolio_management.md) tools. More details at [BlackRock Aladdin](https://www.blackrock.com/aladdin).
 
 **[Bloomberg](../b/bloomberg.md) Risk Terminal**
-[Bloomberg](../b/bloomberg.md) offers robust [risk management](../r/risk_management.md) tools through its [Bloomberg](../b/bloomberg.md) Terminal. The platform includes a wide array of risk analytics, including VaR, CVaR, and stress testing capabilities. More information available at [Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/market-risk/).
+[Bloomberg](../b/bloomberg.md) offers robust [risk management](../r/risk_management.md) tools through its [Bloomberg](../b/bloomberg.md) Terminal. The platform includes a wide array of risk analytics, including VaR, CVaR, and [stress testing](../s/stress_testing_in_trading.md) capabilities. More information available at [Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/market-risk/).
 
 ### Challenges in Risk Modeling
 
 #### Model Risk
-Model risk arises from inaccuracies and limitations in risk models. Assumptions like normal distribution of returns and linear relationships between variables can lead to erroneous estimates.
+Model risk arises from inaccuracies and limitations in risk models. Assumptions like [normal distribution](../n/normal_distribution_in_trading.md) of returns and linear relationships between variables can lead to erroneous estimates.
 
 #### Data Quality
 Accurate risk modeling requires high-quality data. Poor data quality from missing values, errors, or outdated information can severely affect the reliability of risk assessments.

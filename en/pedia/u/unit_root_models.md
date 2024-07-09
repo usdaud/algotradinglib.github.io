@@ -1,12 +1,12 @@
 # Unit Root Models
 
-Unit root models play a pivotal role in [time series analysis](../t/time_series_analysis.md) and econometrics, especially when dealing with non-stationary data. These models are integral for understanding and predicting various economic and financial metrics, which can exhibit random walks or stochastic trends. This section will delve into the essence of unit root processes, their significance, statistical testing methodologies, and their application in [algorithmic trading](../a/algorithmic_trading.md).
+Unit root models play a pivotal role in [time series analysis](../t/time_series_analysis.md) and [econometrics](../e/econometrics_in_trading.md), especially when dealing with non-stationary data. These models are integral for understanding and predicting various economic and financial metrics, which can exhibit random walks or stochastic trends. This section will delve into the essence of unit root processes, their significance, statistical testing methodologies, and their application in [algorithmic trading](../a/algorithmic_trading.md).
 
 A time series with a unit root is described as having a stochastic trend, meaning the series is non-stationary and its statistical properties such as mean and variance change over time. More formally, if a series \( y_t \) is integrated of order one, or I(1), it can be modeled as:
 
 \[ y_t = y_{t-1} + \epsilon_t \]
 
-where \( \epsilon_t \) is white noise, indicating that the current value \( y_t \) is simply the past value \( y_{t-1} \) with a random error term.
+where \( \epsilon_t \) is [white noise](../w/white_noise_in_trading.md), indicating that the current value \( y_t \) is simply the past value \( y_{t-1} \) with a random error term.
 
 ## Unit Root Processes
 
@@ -56,7 +56,7 @@ Unit root models are integral in developing [trading algorithms](../t/trading_al
 
 ### Risk Management
 
-Understanding whether [financial time series](../f/financial_time_series.md) possess unit roots aids in [risk management](../r/risk_management.md). Non-stationary series imply more significant long-term variance, impacting portfolio volatility estimations, VaR (Value at Risk) calculations, and stress testing.
+Understanding whether [financial time series](../f/financial_time_series.md) possess unit roots aids in [risk management](../r/risk_management.md). Non-stationary series imply more significant long-term variance, impacting portfolio volatility estimations, VaR (Value at Risk) calculations, and [stress testing](../s/stress_testing_in_trading.md).
 
 ### Model Development
 
@@ -88,4 +88,4 @@ for key, value in result[4].items():
 
 Unit root models are a fundamental aspect of [time series analysis](../t/time_series_analysis.md), indispensable in understanding economic and financial data. By accurately identifying and interpreting unit root processes, practitioners can enhance model accuracy, improve forecasts, and develop robust [trading strategies](../t/trading_strategies.md). Whether for economics, finance, or another field, unit root models and testing methods remain vital analytical tools.
 
-For further reading and more advanced implementation details, consider exploring resources provided by statistical organizations and econometrics software, such as [Statsmodels Documentation](https://www.statsmodels.org/stable/tsa.html).
+For further reading and more advanced implementation details, consider exploring resources provided by statistical organizations and [econometrics](../e/econometrics_in_trading.md) software, such as [Statsmodels Documentation](https://www.statsmodels.org/stable/tsa.html).

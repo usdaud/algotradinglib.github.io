@@ -4,7 +4,7 @@ Exponential Smoothing is a [time series forecasting](../t/time_series_forecastin
 
 ## Principle of Exponential Smoothing
 
-The basic idea behind exponential smoothing is to give more weight to recent observations while not discarding older observations entirely. It achieves this by applying weights that decrease exponentially as observations get older. This method is highly effective for data that possesses a time-related structure or temporal dependencies.
+The basic idea behind exponential smoothing is to give more weight to recent observations while not discarding older observations entirely. It achieves this by applying weights that decrease exponentially as observations get older. This method is highly effective for data that possesses a time-related structure or [temporal dependencies](../t/temporal_dependencies_in_trading.md).
 
 ## Types of Exponential Smoothing
 

@@ -92,7 +92,7 @@ EMAs can act as dynamic [support and resistance](../s/support_and_resistance.md)
 
 ### Limitations
 
-1. **Whipsaws**: The increased sensitivity can also lead to false signals during sideways markets (whipsaws).
+1. **Whipsaws**: The increased sensitivity can also lead to [false signals](../f/false_signals_in_trading.md) during sideways markets (whipsaws).
 2. **Lag**: While it reduces lag compared to a Simple Moving Average (SMA), it still lags behind the actual price, which can be a disadvantage in fast-moving markets.
 
 ## Real-World Examples

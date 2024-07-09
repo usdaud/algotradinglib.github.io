@@ -60,7 +60,7 @@ Zero-coupon bonds are utilized to hedge against interest rate risk as their pric
 
 ### Mathematical Models for Pricing
 
-Several advanced mathematical models and techniques help in pricing zero-coupon bonds:
+Several advanced [mathematical models](../m/mathematical_models_in_trading.md) and techniques help in pricing zero-coupon bonds:
 
 **1. Bootstrap Method:**
 Used for constructing the zero-coupon [yield curve](../y/yield_curve.md) from the prices of a range of existing bonds with different maturities.
@@ -96,8 +96,8 @@ This script will output:
 
 ### Conclusion
 
-Zero-coupon bonds, with their distinct characteristics and inert complexities, offer a dynamic component to [algorithmic trading](../a/algorithmic_trading.md) strategies. Their pricing is intricately linked to market interest rates, credit risk, and time to maturity. Advanced mathematical models and computational techniques are essential for accurate pricing and can significantly enhance [algorithmic trading](../a/algorithmic_trading.md) performance and [risk management](../r/risk_management.md).
+Zero-coupon bonds, with their distinct characteristics and inert complexities, offer a dynamic component to [algorithmic trading](../a/algorithmic_trading.md) strategies. Their pricing is intricately linked to market interest rates, credit risk, and time to maturity. Advanced [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques are essential for accurate pricing and can significantly enhance [algorithmic trading](../a/algorithmic_trading.md) performance and [risk management](../r/risk_management.md).
 
 ```
 
-This markdown document captures the extensive details surrounding zero-coupon bonds, from their fundamental characteristics and pricing to their application in [algorithmic trading](../a/algorithmic_trading.md) and the types of mathematical models used for their valuation. The principles and examples provided can be valuable for both educational and practical implementation within financial contexts.
+This markdown document captures the extensive details surrounding zero-coupon bonds, from their fundamental characteristics and pricing to their application in [algorithmic trading](../a/algorithmic_trading.md) and the types of [mathematical models](../m/mathematical_models_in_trading.md) used for their valuation. The principles and examples provided can be valuable for both educational and practical implementation within financial contexts.

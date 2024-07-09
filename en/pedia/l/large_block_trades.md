@@ -23,7 +23,7 @@ Executing large block trades involves multiple challenges, primarily revolving a
 
 ### Algorithmic Trading and Large Block Trades
 
-[Algorithmic trading](../a/algorithmic_trading.md), employing sophisticated mathematical models and systems, has revolutionized the execution of block trades. Algorithms help break down large orders into smaller, more manageable parts, execute trades at optimal times, and minimize market impact.
+[Algorithmic trading](../a/algorithmic_trading.md), employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and systems, has revolutionized the execution of block trades. Algorithms help break down large orders into smaller, more manageable parts, execute trades at optimal times, and minimize market impact.
 
 #### Common Algorithms Used in Block Trade Execution
 
@@ -51,7 +51,7 @@ Executing large block trades involves multiple challenges, primarily revolving a
 
 **AI and Machine Learning:** Innovations in AI and machine learning are further refining [algorithmic trading](../a/algorithmic_trading.md) strategies for block trades. Machine learning models can predict market movements, optimize trade execution segments, and make real-time adjustments to strategies.
 
-**Blockchain Technology:** Blockchain offers potential for increased transparency, security, and efficiency in the execution and settlement of block trades. 
+**[Blockchain](../b/blockchain_in_trading.md) Technology:** [Blockchain](../b/blockchain_in_trading.md) offers potential for increased transparency, security, and efficiency in the execution and settlement of block trades. 
 
 **Regulatory Environment:** The regulatory landscape surrounding block trading continues to evolve, with regulations like MiFID II in Europe imposing stricter transparency requirements on [dark pools](../d/dark_pools.md) and over-the-counter (OTC) transactions.
 
@@ -59,7 +59,7 @@ Executing large block trades involves multiple challenges, primarily revolving a
 
 The execution of large block trades is a complex process that requires sophisticated strategies to ensure minimal market impact and optimal pricing. [Algorithmic trading](../a/algorithmic_trading.md) has become indispensable in achieving efficient execution, with various algorithms designed to cater to specific trading needs. As technology continues to advance, and market dynamics evolve, the approaches to handling large block trades will undoubtedly become even more refined and effective.
 
-Incorporating cutting-edge technologies such as AI and blockchain, alongside [adaptive algorithms](../a/adaptive_algorithms.md), positions institutional traders to navigate the challenges of large block trades adeptly while harnessing opportunities for innovation and improvement in trade executions.
+Incorporating cutting-edge technologies such as AI and [blockchain](../b/blockchain_in_trading.md), alongside [adaptive algorithms](../a/adaptive_algorithms.md), positions institutional traders to navigate the challenges of large block trades adeptly while harnessing opportunities for innovation and improvement in trade executions.
 
 ---
 Building a deep understanding of large block trades in the context of [algorithmic trading](../a/algorithmic_trading.md) showcases the importance of strategic execution in financial markets. Through technological advancements and strategic maneuvers, market participants can continue to optimize their trading approaches, ensuring liquidity, efficiency, and market stability.

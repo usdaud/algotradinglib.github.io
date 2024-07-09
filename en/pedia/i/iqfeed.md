@@ -26,7 +26,7 @@ IQFeed is a high-performance market data service provided by DTN, offering real-
 ## Integrations
 IQFeed integrates with a variety of financial platforms, trading tools, and third-party applications to enhance its functionality. Some notable integrations include:
 
-- **Trading Platforms**: Compatibility with popular trading platforms such as [NinjaTrader](../n/ninjatrader.md), MetaTrader, Sierra Chart, and [MultiCharts](../m/multicharts.md).
+- **Trading Platforms**: Compatibility with popular trading platforms such as [NinjaTrader](../n/ninjatrader.md), MetaTrader, [Sierra Chart](../s/sierra_chart.md), and [MultiCharts](../m/multicharts.md).
 - **Financial Analysis Tools**: Integration with analysis tools like Microsoft Excel, MATLAB, and R for advanced data manipulation and visualization.
 - **APIs and SDKs**: Provides APIs and SDKs for custom integrations and automated data retrieval.
 - **Third-Party Applications**: Support for various third-party financial applications and services to extend the platform’s capabilities.

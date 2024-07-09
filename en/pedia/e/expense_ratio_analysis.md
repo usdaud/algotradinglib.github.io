@@ -42,7 +42,7 @@ Total fund costs include management fees, administrative fees, operating costs, 
 
 3. **Performance Tracking:** Continuous monitoring of expense ratios is essential in [algorithmic trading](../a/algorithmic_trading.md) to maintain the profitability threshold. Algorithms can be programmed to alert or adjust investment strategies if a fund's expense ratio reaches a pre-determined threshold.
 
-4. **[Backtesting](../b/backtesting.md):** In the [backtesting](../b/backtesting.md) phase of algotrading, including historical expense ratio data can provide a more accurate simulation of fund performance, thereby improving the reliability of [backtesting](../b/backtesting.md) results.
+4. **[Backtesting](../b/backtesting.md):** In the [backtesting](../b/backtesting.md) phase of algotrading, including historical expense ratio data can provide a more accurate [simulation](../s/simulation_in_trading.md) of fund performance, thereby improving the reliability of [backtesting](../b/backtesting.md) results.
 
 #### Real-World Examples and Company Applications
 

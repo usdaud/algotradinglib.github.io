@@ -96,7 +96,7 @@ Modern trading platforms and software provide tools for constructing and managin
   
   More information can be found at: [TD Ameritrade ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
-- **Interactive Brokers**: Offers a robust options trading interface with analysis tools to implement and monitor [Iron Butterfly strategies](../i/iron_butterfly_strategies.md) effectively.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a robust options trading interface with analysis tools to implement and monitor [Iron Butterfly strategies](../i/iron_butterfly_strategies.md) effectively.
   
   More information can be found at: [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=options-trading)
 

@@ -4,7 +4,7 @@
 The Russell 2000 Index is a benchmark for small-cap stocks in the United States. It represents the bottom 2,000 stocks in the Russell 3000 Index. The Russell 2000 is widely used as a barometer for the performance of smaller, less-capitalized companies in contrast to the larger companies included in S&P 500. Trading and investment strategies based on the Russell 2000 Index require a deep understanding of the specific behaviors and characteristics of small-cap stocks, market dynamics, and economic influences.
 
 ### Understanding the Russell 2000 Index
-The Russell 2000 Index is maintained by FTSE Russell, a subsidiary of the London Stock Exchange Group (LSEG). The index is known for its large, diversified holdings across a wide array of industries, offering a comprehensive picture of the small-cap sector. Importantly, the stocks included in the Russell 2000 are typically more volatile and have higher growth potential compared to their large-cap counterparts.
+The Russell 2000 Index is maintained by [FTSE Russell](../f/ftse_russell.md), a subsidiary of the London Stock Exchange Group (LSEG). The index is known for its large, diversified holdings across a wide array of industries, offering a comprehensive picture of the small-cap sector. Importantly, the stocks included in the Russell 2000 are typically more volatile and have higher growth potential compared to their large-cap counterparts.
 
 For more detailed information and current listings, the Russell 2000 Index details can be found [here](https://www.ftserussell.com/products/indices/russell-us).
 

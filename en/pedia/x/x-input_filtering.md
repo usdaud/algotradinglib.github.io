@@ -43,13 +43,13 @@ Smoothing techniques like Moving Average (MA), Exponential Moving Average (EMA),
 Statistical filters such as Kalman Filters and Particle Filters are used for estimating variables over time by considering noise and other inaccuracies.
 
 ### Machine Learning Models
-Machine learning models like Neural Networks and Support Vector Machines can be trained to identify and filter out anomalies and irrelevant data points.
+Machine learning models like [Neural Networks](../n/neural_networks_in_trading.md) and [Support Vector Machines](../s/support_vector_machines_in_trading.md) can be trained to identify and filter out anomalies and irrelevant data points.
 
 ### Signal Processing Techniques
-Fourier Transform and Wavelet Transform are advanced signal processing techniques that can segregate noise from useful signals in the data.
+Fourier Transform and [Wavelet Transform](../w/wavelet_transform_in_trading.md) are advanced [signal processing](../s/signal_processing_in_trading.md) techniques that can segregate noise from useful signals in the data.
 
 ### Sentiment Analysis Algorithms
-Natural Language Processing (NLP) and Text Mining techniques are used to analyze and filter [social media sentiment](../s/social_media_sentiment.md) and news feeds.
+[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and Text Mining techniques are used to analyze and filter [social media sentiment](../s/social_media_sentiment.md) and news feeds.
 
 ## Implementation Strategies in Algorithmic Trading
 
@@ -71,7 +71,7 @@ Filtered inputs are used to create features that will be fed into machine learni
 High-Frequency Trading firms like [Citadel Securities](https://www.citadelsecurities.com/) and [Virtu Financial](https://www.virtu.com/) extensively use X-Input Filtering to manage the vast amount of data they process.
 
 ### Hedge Funds
-Hedge funds such as [Two Sigma](https://www.twosigma.com/) and [AQR Capital Management](https://www.aqr.com/) leverage X-Input Filtering to refine their quantitative strategies.
+Hedge funds such as [Two Sigma](https://www.twosigma.com/) and [AQR Capital Management](https://www.aqr.com/) leverage X-Input Filtering to refine their [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 ### Retail Trading Platforms
 Platforms like [Robinhood](https://www.robinhood.com/) and [E*TRADE](https://us.etrade.com/home) implement various levels of filtering to offer more accurate and user-friendly trading services to their clients.

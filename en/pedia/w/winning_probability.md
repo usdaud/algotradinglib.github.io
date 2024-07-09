@@ -27,7 +27,7 @@ Several statistical methods can be employed to calculate and analyze winning pro
 - **Expectation Calculation**: This involves calculating the expected value of trades by multiplying the probability of each outcome by its corresponding payoff.
 
 ### Machine Learning Techniques
-Machine learning algorithms can also be used to estimate winning probabilities by training models on historical trading data. Techniques such as classification models can be employed to predict the likelihood of a trade resulting in a win.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can also be used to estimate winning probabilities by training models on historical trading data. Techniques such as classification models can be employed to predict the likelihood of a trade resulting in a win.
 
 ## Challenges in Estimating Winning Probability
 

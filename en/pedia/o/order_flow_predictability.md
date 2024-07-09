@@ -20,7 +20,7 @@ Order flow provides insights into the supply and demand dynamics of a security. 
 2. **Improve Execution Quality:** Traders can optimize their order entry strategies to minimize market impact and avoid adverse price movements.
 3. **Enhance [Risk Management](../r/risk_management.md):** Predicting order flow can help in identifying and mitigating potential risks associated with large trades.
 4. **Develop [Quantitative Models](../q/quantitative_models.md):** Order flow data is a key input for developing and refining [quantitative trading](../q/quantitative_trading.md) models.
-5. **Simulation and [Backtesting](../b/backtesting.md):** Historical order flow data can be used to test the robustness of [trading strategies](../t/trading_strategies.md) under different market conditions.
+5. **[Simulation](../s/simulation_in_trading.md) and [Backtesting](../b/backtesting.md):** Historical order flow data can be used to test the robustness of [trading strategies](../t/trading_strategies.md) under different market conditions.
 
 ## Techniques for Order Flow Prediction
 
@@ -37,7 +37,7 @@ Statistical methods involve analyzing historical order flow data to detect patte
 
 Machine learning techniques have become increasingly popular for order flow prediction due to their ability to handle large datasets and capture complex patterns. Common approaches include:
 
-- **Supervised Learning:** Techniques such as regression, [decision trees](../d/decision_trees.md), and neural networks can be trained on historical order flow data to predict future orders.
+- **Supervised Learning:** Techniques such as regression, [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) can be trained on historical order flow data to predict future orders.
 - **Unsupervised Learning:** Clustering methods can be used to identify distinct order flow regimes or segments in the data.
 - **Reinforcement Learning:** Algorithms that learn optimal [trading strategies](../t/trading_strategies.md) through trial and error by interacting with the market environment.
 
@@ -90,7 +90,7 @@ Quantitative Brokers (QB) [Quantitative Brokers](https://www.quantitativebrokers
 
 ### 2. Numerix
 
-Numerix [Numerix](https://www.numerix.com) offers a range of analytics and [risk management](../r/risk_management.md) solutions that incorporate order flow data. Their platform enables traders to analyze market dynamics and develop predictive models for order flow.
+Numerix [Numerix](https://www.numerix.com) offers a range of analytics and [risk management](../r/risk_management.md) solutions that incorporate order flow data. Their platform enables traders to analyze market dynamics and develop [predictive models](../p/predictive_models_in_trading.md) for order flow.
 
 ### 3. AlgoTrader
 
@@ -126,7 +126,7 @@ Large trades based on order flow predictions can move the market, influencing th
 
 ### 3. Latency
 
-In high-frequency trading, even microsecond-level delays can be significant. Firms must ensure that their predictive models and execution systems operate with minimal latency.
+In high-frequency trading, even microsecond-level delays can be significant. Firms must ensure that their [predictive models](../p/predictive_models_in_trading.md) and execution systems operate with minimal latency.
 
 ### 4. Model Overfitting
 
@@ -134,11 +134,11 @@ Machine learning models, especially complex ones, are prone to overfitting—whe
 
 ### 5. Regulatory Compliance
 
-Traders must adhere to regulatory requirements governing market activities. This includes ensuring that their use of order flow data and predictive models complies with all applicable laws and regulations.
+Traders must adhere to regulatory requirements governing market activities. This includes ensuring that their use of order flow data and [predictive models](../p/predictive_models_in_trading.md) complies with all applicable laws and regulations.
 
 ### 6. Ethical Considerations
 
-The use of predictive models, especially in high-frequency and [algorithmic trading](../a/algorithmic_trading.md), raises ethical questions about market fairness and the potential for market manipulation. Traders must consider the broader implications of their strategies.
+The use of [predictive models](../p/predictive_models_in_trading.md), especially in high-frequency and [algorithmic trading](../a/algorithmic_trading.md), raises ethical questions about market fairness and the potential for market manipulation. Traders must consider the broader implications of their strategies.
 
 ## Future Trends in Order Flow Prediction
 
@@ -158,11 +158,11 @@ Advancements in real-time data processing and analytics will enable traders to m
 
 ### 4. Blockchain and Decentralized Finance (DeFi)
 
-Blockchain technology and decentralized finance (DeFi) platforms are introducing new forms of market infrastructure. Order flow prediction models will need to adapt to these emerging environments.
+[Blockchain](../b/blockchain_in_trading.md) technology and decentralized finance (DeFi) platforms are introducing new forms of market infrastructure. Order flow prediction models will need to adapt to these emerging environments.
 
 ### 5. Increased Focus on ESG Factors
 
-Environmental, Social, and Governance (ESG) factors are becoming increasingly important in investment decisions. Predictive models may incorporate ESG-related order flow data to align with sustainable investing goals.
+Environmental, Social, and Governance (ESG) factors are becoming increasingly important in investment decisions. [Predictive models](../p/predictive_models_in_trading.md) may incorporate ESG-related order flow data to align with sustainable investing goals.
 
 ## Conclusion
 

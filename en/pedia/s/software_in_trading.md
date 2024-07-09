@@ -10,7 +10,7 @@ Trading software, also known as trading platforms, consists of computer programs
 
 Front-end platforms are the most commonly known trading software, providing a graphical user interface for traders to interact with the markets.
 
-1. **Interactive Brokers' Trader Workstation (TWS)**
+1. **[Interactive Brokers](../i/interactive_brokers.md)' Trader Workstation (TWS)**
    - Website: [Interactive Brokers TWS](https://www.interactivebrokers.com/en/trading/tws.php)
    - Features: Advanced charting, customizable dashboards, real-time data and news, [algorithmic trading](../a/algorithmic_trading.md) capabilities.
 
@@ -59,7 +59,7 @@ HFT software involves platforms and systems that algorithmically trade at extrem
 
 1. **X_TRADER by Trading Technologies**
    - Website: [Trading Technologies](https://www.tradingtechnologies.com/)
-   - Features: Low-latency execution, advanced order types, in-built strategy development tools.
+   - Features: Low-latency execution, advanced [order types](../o/order_types_in_trading.md), in-built strategy development tools.
 
 2. **[CQG](../c/cqg.md) Integrated Client**
    - Website: [CQG](https://www.cqg.com/)
@@ -93,7 +93,7 @@ Charting tools allow traders to visualize market data and conduct [technical ana
 
 ### Order Execution
 
-Order execution capabilities are essential for entering and exiting trades. This includes support for various order types (e.g., market, limit, stop), as well as advanced [order routing](../o/order_routing.md) and [execution algorithms](../e/execution_algorithms.md) to ensure optimal trade placement.
+Order execution capabilities are essential for entering and exiting trades. This includes support for various [order types](../o/order_types_in_trading.md) (e.g., market, limit, stop), as well as advanced [order routing](../o/order_routing.md) and [execution algorithms](../e/execution_algorithms.md) to ensure optimal trade placement.
 
 ### Customizable Interface
 
@@ -163,4 +163,4 @@ Access to customer support and educational resources is vital for both novice an
 
 Trading software plays a pivotal role in modern financial markets, offering tools and features that cater to a wide range of trading styles and strategies. From real-time data and advanced charting to [algorithmic trading](../a/algorithmic_trading.md) and [portfolio management](../p/portfolio_management.md), these platforms empower traders to make informed decisions and optimize their [trading performance](../t/trading_performance.md).
 
-As technology continues to evolve, trading software will likely become even more sophisticated, incorporating advanced analytics, machine learning, and artificial intelligence to further enhance trading capabilities and streamline operations. By staying informed about the latest developments and choosing the right platform, traders can stay competitive and maximize their potential in the financial markets.
+As technology continues to evolve, trading software will likely become even more sophisticated, incorporating advanced analytics, machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to further enhance trading capabilities and streamline operations. By staying informed about the latest developments and choosing the right platform, traders can stay competitive and maximize their potential in the financial markets.

@@ -62,8 +62,8 @@ Several platforms and tools are available to assist algorithmic traders in monit
    MetaTrader is a popular trading platform known for its [algorithmic trading](../a/algorithmic_trading.md) capabilities. Traders can monitor YTD performance and other financial metrics through built-in analytics and custom scripts.
    Link: [MetaTrader](https://www.metatrader5.com/)
 
-5. **Interactive Brokers:**
-   Interactive Brokers provides a comprehensive trading platform that supports automated trading and performance analysis. Traders can track YTD performance using their detailed reporting tools.
+5. **[Interactive Brokers](../i/interactive_brokers.md):**
+   [Interactive Brokers](../i/interactive_brokers.md) provides a comprehensive trading platform that supports automated trading and performance analysis. Traders can track YTD performance using their detailed reporting tools.
    Link: [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### Factors Affecting YTD Performance in Algorithmic Trading
@@ -92,7 +92,7 @@ To improve the YTD performance of [algorithmic trading](../a/algorithmic_trading
 
 4. **Monitoring and Analysis:** Continuous monitoring and analysis of [performance metrics](../p/performance_metrics.md), including YTD returns, enable traders to make informed adjustments to their strategies.
 
-5. **Stress Testing:** Performing stress tests on [trading algorithms](../t/trading_algorithms.md) under various market scenarios ensures they can withstand adverse conditions without significant performance degradation.
+5. **[Stress Testing](../s/stress_testing_in_trading.md):** Performing stress tests on [trading algorithms](../t/trading_algorithms.md) under various market scenarios ensures they can withstand adverse conditions without significant performance degradation.
 
 ### Conclusion
 

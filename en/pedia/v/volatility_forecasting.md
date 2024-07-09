@@ -1,10 +1,10 @@
 # Volatility Forecasting
 
-Volatility forecasting is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md), which involves the use of sophisticated mathematical models and [computational algorithms](../c/computational_algorithms.md) to predict the fluctuation patterns of asset prices. Accurate volatility forecasting enables traders to make informed decisions about their [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and [portfolio optimization](../p/portfolio_optimization.md). This document provides a comprehensive overview of the key concepts, methods, and applications of volatility forecasting in the context of [algorithmic trading](../a/algorithmic_trading.md).
+Volatility forecasting is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md), which involves the use of sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and [computational algorithms](../c/computational_algorithms.md) to predict the fluctuation patterns of asset prices. Accurate volatility forecasting enables traders to make informed decisions about their [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and [portfolio optimization](../p/portfolio_optimization.md). This document provides a comprehensive overview of the key concepts, methods, and applications of volatility forecasting in the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Introduction
 
-In financial markets, volatility refers to the degree of variation in the price of a financial instrument over a given period. It is often used as a measure of risk, with higher volatility indicating greater uncertainty and risk. Volatility forecasting aims to predict future volatility based on historical data, market indicators, and other relevant factors. Accurate predictions can enhance [trading performance](../t/trading_performance.md), optimize [risk management](../r/risk_management.md) strategies, and improve overall [market efficiency](../m/market_efficiency.md).
+In financial markets, volatility refers to the degree of variation in the price of a financial instrument over a given period. It is often used as a measure of risk, with higher volatility indicating greater [uncertainty](../u/uncertainty_in_trading.md) and risk. Volatility forecasting aims to predict future volatility based on historical data, market indicators, and other relevant factors. Accurate predictions can enhance [trading performance](../t/trading_performance.md), optimize [risk management](../r/risk_management.md) strategies, and improve overall [market efficiency](../m/market_efficiency.md).
 
 ## Methods of Volatility Forecasting
 
@@ -42,7 +42,7 @@ Model-based approaches use econometric and statistical models to predict future 
 
 1. **ARIMA Models:** Autoregressive Integrated Moving Average models are used to capture and predict the time series properties of financial data.
 2. **[Stochastic Volatility Models](../s/stochastic_volatility_models.md):** These models assume that volatility itself follows a stochastic process, such as the Heston model.
-3. **Machine Learning Models:** Advanced machine learning techniques, including neural networks and ensemble methods, are applied to predict volatility based on a wide range of input variables.
+3. **Machine Learning Models:** Advanced machine learning techniques, including [neural networks](../n/neural_networks_in_trading.md) and ensemble methods, are applied to predict volatility based on a wide range of input variables.
 
 #### Examples:
 - ARIMA Model: `R_t = μ + ϕ1R_t-1 + ϕ2R_t-2 + ... + ε_t`
@@ -87,7 +87,7 @@ Several companies provide solutions and tools for volatility forecasting:
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports various volatility forecasting methods, including [GARCH models](../g/garch_models.md) and machine learning algorithms. Learn more at [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports various volatility forecasting methods, including [GARCH models](../g/garch_models.md) and machine [learning algorithms](../l/learning_algorithms_in_trading.md). Learn more at [QuantConnect](https://www.quantconnect.com/).
 
 ### Alpha Vantage
 
@@ -95,7 +95,7 @@ Alpha Vantage provides APIs for accessing historical and [real-time market data]
 
 ### Numerai
 
-Numerai is a hedge fund that uses machine learning to generate [trading signals](../t/trading_signals.md), including volatility forecasts. The company's open data science platform allows data scientists to contribute models and improve forecasting accuracy. Visit [Numerai](https://numer.ai/) for more details.
+Numerai is a hedge fund that uses machine learning to generate [trading signals](../t/trading_signals.md), including volatility forecasts. The company's open [data science](../d/data_science_in_trading.md) platform allows data scientists to contribute models and improve forecasting accuracy. Visit [Numerai](https://numer.ai/) for more details.
 
 ## Conclusion
 

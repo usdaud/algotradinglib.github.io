@@ -19,9 +19,9 @@ Qualitative [sentiment analysis](../s/sentiment_analysis.md) involves human inte
 
 ### Quantitative Analysis
 
-Quantitative [sentiment analysis](../s/sentiment_analysis.md) employs algorithms and natural language processing (NLP) techniques to systematically analyze large datasets and generate sentiment scores.
+Quantitative [sentiment analysis](../s/sentiment_analysis.md) employs algorithms and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques to systematically analyze large datasets and generate sentiment scores.
 
-* **Natural Language Processing**: Algorithms parse and interpret text data to assess the sentiment expressed in words and phrases. Popular libraries and frameworks like `NLTK`, `spaCy`, and Google's `BERT` assist in sentiment extraction.
+* **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md)**: Algorithms parse and interpret text data to assess the sentiment expressed in words and phrases. Popular libraries and frameworks like `NLTK`, `spaCy`, and Google's `BERT` assist in sentiment extraction.
 * **Lexicon-based Models**: Sentiment lexicons like VADER or Loughran-McDonald are utilized to score text data for positivity, negativity, and neutrality.
 
 ## Tools and Technologies
@@ -95,7 +95,7 @@ Despite its potential, market [sentiment analysis](../s/sentiment_analysis.md) f
 
 ## Future Trends
 
-The future of market [sentiment analysis](../s/sentiment_analysis.md) looks promising, driven by continuous advancements in AI, machine learning, and Big Data technologies:
+The future of market [sentiment analysis](../s/sentiment_analysis.md) looks promising, driven by continuous advancements in AI, machine learning, and [Big Data](../b/big_data_in_trading.md) technologies:
 
 * **Real-Time Analysis**: The development of more sophisticated real-time [sentiment analysis](../s/sentiment_analysis.md) tools to capture instantaneous market reactions.
 * **Multimodal Analysis**: Integration of text, audio, and video data to provide a more comprehensive [sentiment analysis](../s/sentiment_analysis.md).

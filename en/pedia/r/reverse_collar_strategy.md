@@ -1,6 +1,6 @@
 # Reverse Collar Strategy
 
-The reverse collar strategy is an advanced options trading strategy, commonly utilized by traders seeking significant upside potential while limiting their potential losses. This strategy involves simultaneously buying call options and selling [put options](../p/put_options.md) on an underlying asset, often executed when the trader believes the asset price will move significantly but wants to hedge against downside risk. Below, we will delve into how the reverse collar strategy works, including its structure, benefits, drawbacks, and examples for better understanding.
+The reverse collar strategy is an advanced options trading strategy, commonly utilized by traders seeking significant [upside potential](../u/upside_potential_in_trading.md) while limiting their potential losses. This strategy involves simultaneously buying call options and selling [put options](../p/put_options.md) on an underlying asset, often executed when the trader believes the asset price will move significantly but wants to hedge against downside risk. Below, we will delve into how the reverse collar strategy works, including its structure, benefits, drawbacks, and examples for better understanding.
 
 ## 1. Structure of the Reverse Collar Strategy
 
@@ -46,7 +46,7 @@ Traders face the risk of early assignment when selling [put options](../p/put_op
 
 ### 3.3. Limited Appreciation Potential
 
-While the strategy allows for significant upside potential, the extent of this potential is limited to the difference between the call option's strike price and the underlying asset's price at expiration, minus the original premiums. Thus, if the asset price skyrockets beyond expectations, the gains are somewhat capped compared to holding the underlying asset directly.
+While the strategy allows for significant [upside potential](../u/upside_potential_in_trading.md), the extent of this potential is limited to the difference between the call option's strike price and the underlying asset's price at expiration, minus the original premiums. Thus, if the asset price skyrockets beyond expectations, the gains are somewhat capped compared to holding the underlying asset directly.
 
 ## 4. Example Scenarios
 

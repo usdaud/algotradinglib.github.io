@@ -4,7 +4,7 @@ Kelly betting strategies are methodologies used mainly in investing, betting, an
 
 ## Basic Concepts
 
-The [Kelly Criterion](../k/kelly_criterion.md) is grounded in probability theory and information theory. It focuses on maximizing the expected logarithm of wealth, which is equivalent to maximizing geometric mean returns. The formula itself is fairly simple but has profound implications for strategy.
+The [Kelly Criterion](../k/kelly_criterion.md) is grounded in [probability theory](../p/probability_theory_in_trading.md) and information theory. It focuses on maximizing the expected logarithm of wealth, which is equivalent to maximizing [geometric mean](../g/geometric_mean_in_trading.md) returns. The formula itself is fairly simple but has profound implications for strategy.
 
 ### The Kelly Formula
 

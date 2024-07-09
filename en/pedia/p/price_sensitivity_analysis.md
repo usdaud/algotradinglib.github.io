@@ -55,7 +55,7 @@ Price sensitivity analysis helps algorithmic traders identify and exploit [arbit
 [Regression analysis](../r/regression_analysis.md) is a statistical method used to estimate the relationships among variables. In price sensitivity analysis, regression models can be applied to historical price and volume data to determine elasticity metrics. This involves fitting a regression line to the data points and analyzing the slope, which represents the price sensitivity.
 
 ### Machine Learning Models
-Machine learning algorithms, such as [decision trees](../d/decision_trees.md), neural networks, and support vector machines, can be employed to predict price sensitivity. These models can process vast amounts of data and identify complex patterns that might be overlooked by traditional statistical methods.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md), such as [decision trees](../d/decision_trees.md), [neural networks](../n/neural_networks_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md), can be employed to predict price sensitivity. These models can process vast amounts of data and identify complex patterns that might be overlooked by traditional statistical methods.
 
 ### Monte Carlo Simulations
 Monte Carlo simulations involve generating a large number of random price scenarios to assess how price changes affect demand and supply. This technique is useful for understanding the probability distribution of price sensitivity and evaluating the potential impact of various market conditions.
@@ -69,7 +69,7 @@ High-frequency trading (HFT) relies on analyzing price data in very short interv
 ## Case Studies and Practical Examples
 
 ### Case Study: Renaissance Technologies
-Renaissance Technologies, a pioneering firm in [algorithmic trading](../a/algorithmic_trading.md), employs advanced mathematical models and [data analysis techniques](../d/data_analysis_techniques.md) to develop [trading algorithms](../t/trading_algorithms.md). Price sensitivity analysis is a core component of their strategies, enabling them to predict market movements and execute high-frequency trades. More information about their approach can be found on their [official website](https://www.rentec.com/).
+Renaissance Technologies, a pioneering firm in [algorithmic trading](../a/algorithmic_trading.md), employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and [data analysis techniques](../d/data_analysis_techniques.md) to develop [trading algorithms](../t/trading_algorithms.md). Price sensitivity analysis is a core component of their strategies, enabling them to predict market movements and execute high-frequency trades. More information about their approach can be found on their [official website](https://www.rentec.com/).
 
 ### Practical Example: Pairs Trading
 [Pairs trading](../p/pairs_trading.md) is a market-neutral strategy that involves trading two correlated assets by taking a long position in one and a short position in the other. Price sensitivity analysis is crucial for identifying the correlation between the two assets and determining the optimal entry and exit points for the trades.

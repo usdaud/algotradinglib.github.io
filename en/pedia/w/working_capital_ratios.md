@@ -1,6 +1,6 @@
 # Working Capital Ratios
 
-Working capital ratios are financial metrics used to assess a company's operational efficiency and short-term financial health. These ratios provide insight into the firm's ability to meet its short-term liabilities with its short-term assets. Below, we will delve deeply into the most commonly used working capital ratios, their calculation, interpretation, and significance in the context of algotrading.
+Working capital ratios are financial metrics used to assess a company's [operational efficiency](../o/operational_efficiency_in_trading.md) and short-term financial health. These ratios provide insight into the firm's ability to meet its short-term liabilities with its short-term assets. Below, we will delve deeply into the most commonly used working capital ratios, their calculation, interpretation, and significance in the context of algotrading.
 
 ## Current Ratio
 
@@ -96,7 +96,7 @@ The inventory turnover ratio measures how frequently a company's inventory is so
 
 ### Significance in Algotrading
 
-In the context of algotrading firms dealing with tangible goods or commodities, maintaining an optimal inventory turnover ratio ensures capital isn't unnecessarily locked in unsold inventory. This allows for better liquidity and operational efficiency.
+In the context of algotrading firms dealing with tangible goods or commodities, maintaining an optimal inventory turnover ratio ensures capital isn't unnecessarily locked in unsold inventory. This allows for better liquidity and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## Accounts Receivable Turnover Ratio
 
@@ -148,4 +148,4 @@ Renaissance Technologies, another giant in the field of [algorithmic trading](..
 
 ## Conclusion
 
-In conclusion, working capital ratios are vital for assessing and managing the short-term financial health and operational efficiency of algotrading firms. Ratios such as the current ratio, quick ratio, cash ratio, [working capital turnover](../w/working_capital_turnover.md) ratio, inventory turnover ratio, accounts receivable turnover ratio, and accounts payable turnover ratio provide a comprehensive understanding of the firm’s liquidity and operational efficiency. For algotrading firms, maintaining optimal working capital ratios ensures they can meet short-term obligations, capitalize on trading opportunities, and operate effectively in a fast-paced [trading environment](../t/trading_environment.md).
+In conclusion, working capital ratios are vital for assessing and managing the short-term financial health and [operational efficiency](../o/operational_efficiency_in_trading.md) of algotrading firms. Ratios such as the current ratio, quick ratio, cash ratio, [working capital turnover](../w/working_capital_turnover.md) ratio, inventory turnover ratio, accounts receivable turnover ratio, and accounts payable turnover ratio provide a comprehensive understanding of the firm’s liquidity and [operational efficiency](../o/operational_efficiency_in_trading.md). For algotrading firms, maintaining optimal working capital ratios ensures they can meet short-term obligations, capitalize on trading opportunities, and operate effectively in a fast-paced [trading environment](../t/trading_environment.md).

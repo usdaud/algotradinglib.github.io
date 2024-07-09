@@ -1,6 +1,6 @@
 # Bayesian Networks
 
-Bayesian networks, also known as belief networks or Bayesian belief networks, are a class of probabilistic graphical models that represent a set of variables and their conditional dependencies via a directed acyclic graph (DAG). These networks are valuable in [algorithmic trading](../a/algorithmic_trading.md) because they provide a way to model uncertainty, calculate probabilities, and make predictions based on observed data. Below is a detailed exploration of how Bayesian networks can be applied in the field of [algorithmic trading](../a/algorithmic_trading.md).
+Bayesian networks, also known as belief networks or Bayesian belief networks, are a class of probabilistic graphical models that represent a set of variables and their conditional dependencies via a directed acyclic graph (DAG). These networks are valuable in [algorithmic trading](../a/algorithmic_trading.md) because they provide a way to model [uncertainty](../u/uncertainty_in_trading.md), calculate probabilities, and make predictions based on observed data. Below is a detailed exploration of how Bayesian networks can be applied in the field of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Understanding Bayesian Networks
 
@@ -8,9 +8,9 @@ A Bayesian network is composed of:
 
 - **Nodes**: Represent variables which could be relevant to trading, such as market indicators, stock prices, or economic factors.
 - **Edges**: Directed edges between the nodes that represent conditional dependencies.
-- **Conditional Probability Distributions (CPDs)**: For each node, a CPD quantifies the effect of the parent nodes on the current node.
+- **Conditional [Probability Distributions](../p/probability_distributions_in_trading.md) (CPDs)**: For each node, a CPD quantifies the effect of the parent nodes on the current node.
   
-When constructed well, a Bayesian network can help in determining joint probability distributions, performing inference, and learning the best model parameters from data.
+When constructed well, a Bayesian network can help in determining joint [probability distributions](../p/probability_distributions_in_trading.md), performing inference, and learning the best model parameters from data.
 
 ## Components of Bayesian Networks in Trading
 
@@ -77,7 +77,7 @@ The first step in constructing a Bayesian network for trading is gathering histo
 
 ### Model Structure
 
-The structure of the Bayesian network (i.e., the nodes and edges) can be defined using domain knowledge or learned from data using structure learning algorithms such as:
+The structure of the Bayesian network (i.e., the nodes and edges) can be defined using domain knowledge or learned from data using structure [learning algorithms](../l/learning_algorithms_in_trading.md) such as:
 
 - **Constraint-based Algorithms**: These use statistical tests to learn the independence constraints to determine the network structure.
 - **Score-based Algorithms**: These involve searching through possible structures and scoring them based on how well they fit the data.
@@ -100,7 +100,7 @@ Inference in Bayesian networks involves updating the probability of outcomes bas
 
 ### Software Tools
 
-Several software tools and frameworks can help implement Bayesian networks for [algorithmic trading](../a/algorithmic_trading.md):
+Several [software tools](../s/software_tools_for_trading.md) and frameworks can help implement Bayesian networks for [algorithmic trading](../a/algorithmic_trading.md):
 
 - **BNlearn**: An R package offering tools for learning the structure of Bayesian networks and performing inference.
 - **PyMC3**: A Python library for probabilistic programming, which can be used to build Bayesian networks.
@@ -124,7 +124,7 @@ Traders can use Bayesian networks to backtest [trading strategies](../t/trading_
 
 ### Benefits
 
-- **Robustness**: Handle uncertainty and incorporate various data sources.
+- **Robustness**: Handle [uncertainty](../u/uncertainty_in_trading.md) and incorporate various data sources.
 - **Flexibility**: Easily incorporate new variables and adjust to new data.
 - **Insightful**: Provide a clear representation of dependencies among variables.
 

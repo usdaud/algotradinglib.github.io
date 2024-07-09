@@ -60,7 +60,7 @@ These technologies can predict fund requirements based on historical data and ma
 
 ### 2. **Blockchain**
 
-Blockchain technology ensures secure and transparent fund transfers. Smart contracts can automate and enforce ZBM rules, making the system more robust and tamper-proof.
+[Blockchain](../b/blockchain_in_trading.md) technology ensures secure and transparent fund transfers. [Smart contracts](../s/smart_contracts_in_trading.md) can automate and enforce ZBM rules, making the system more robust and tamper-proof.
 
 ### 3. **Real-Time Analytics**
 
@@ -83,7 +83,7 @@ When deploying ZBM in [algorithmic trading](../a/algorithmic_trading.md), it is 
 1. **Enhanced Liquidity Management**: Ensures that funds are always available where needed, reducing the likelihood of missed trading opportunities or margin calls.
 2. **Cost Efficiency**: Minimizes idle cash and reduces costs associated with maintaining excess liquidity.
 3. **Increased Returns**: By centralizing surplus funds, companies can invest in higher-yielding opportunities.
-4. **Operational Efficiency**: Automation reduces manual intervention, lowers error rates, and streamlines account management.
+4. **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**: Automation reduces manual intervention, lowers error rates, and streamlines account management.
 
 ## Challenges
 

@@ -7,7 +7,7 @@
 A [yield curve](../y/yield_curve.md) generally exhibits three primary shapes:
 1. **Normal [Yield Curve](../y/yield_curve.md)**: Longer maturities have higher yields than shorter ones, reflecting expectations of an expanding economy and potential inflation.
 2. **Inverted [Yield Curve](../y/yield_curve.md)**: Shorter maturities offer higher yields than longer ones, which can indicate an impending economic recession.
-3. **Flat [Yield Curve](../y/yield_curve.md)**: Yields are similar across maturities, suggesting uncertainty about future economic conditions.
+3. **Flat [Yield Curve](../y/yield_curve.md)**: Yields are similar across maturities, suggesting [uncertainty](../u/uncertainty_in_trading.md) about future economic conditions.
 
 In terms of decomposition, the [yield curve](../y/yield_curve.md) is seen as comprising three core elements:
 1. **Level**: The overall average level of interest rates.
@@ -19,7 +19,7 @@ In terms of decomposition, the [yield curve](../y/yield_curve.md) is seen as com
 Several mathematical and statistical techniques are employed to decompose the [yield curve](../y/yield_curve.md), each with its unique advantages and applications. Some of the most widely used methods include:
 
 #### Principal Component Analysis (PCA)
-PCA is a statistical method that identifies the principal components which explain most of the variance in the [yield curve](../y/yield_curve.md). The first few components usually capture the level, slope, and curvature. PCA helps in reducing the dimensionality of the data while retaining most of the important information.
+PCA is a statistical method that identifies the [principal components](../p/principal_components_in_trading.md) which explain most of the variance in the [yield curve](../y/yield_curve.md). The first few components usually capture the level, slope, and curvature. PCA helps in reducing the dimensionality of the data while retaining most of the important information.
 
 1. **First Principal Component**: Represents the overall shift in the [yield curve](../y/yield_curve.md) (level).
 2. **Second Principal Component**: Captures the steepness (slope).
@@ -58,12 +58,12 @@ Several financial institutions and fintech companies specialize in [yield curve]
 
 ### Advanced Yield Curve Techniques
 
-Beyond basic decomposition methods, more advanced techniques have emerged, incorporating machine learning and artificial intelligence to enhance [yield curve](../y/yield_curve.md) modeling.
+Beyond basic decomposition methods, more advanced techniques have emerged, incorporating machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance [yield curve](../y/yield_curve.md) modeling.
 
 #### Machine Learning Models
-Machine learning techniques, such as neural networks and regression trees, are increasingly used to predict [yield curve](../y/yield_curve.md) movements by identifying complex patterns in historical data.
+Machine learning techniques, such as [neural networks](../n/neural_networks_in_trading.md) and [regression trees](../r/regression_trees_in_trading.md), are increasingly used to predict [yield curve](../y/yield_curve.md) movements by identifying complex patterns in historical data.
 
-- **Neural Networks**: Capture non-linear relationships and can model intricate [yield curve](../y/yield_curve.md) dynamics.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Capture non-linear relationships and can model intricate [yield curve](../y/yield_curve.md) dynamics.
 - **Gradient Boosting Machines**: Effective in handling large datasets and improving prediction accuracy.
 
 #### Interest Rate Term Structure Models

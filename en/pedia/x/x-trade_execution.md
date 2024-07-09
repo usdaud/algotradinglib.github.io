@@ -73,7 +73,7 @@ Brokers must navigate complex regulatory frameworks:
 
 Implementing and maintaining robust algorithmic systems for cross-trading involves considerable technological investment:
 - **System Reliability**: Ensuring systems are reliable and can handle large volumes of trades.
-- **Data Security**: Safeguarding sensitive client data and order information.
+- **[Data Security](../d/data_security_in_trading.md)**: Safeguarding sensitive client data and order information.
 
 ## Application in Modern Markets
 
@@ -85,7 +85,7 @@ X-Trades are prominently used in institutional trading, where large asset manage
 
 ### Broker-Dealers
 
-Broker-dealers leverage X-Trade execution to enhance service offerings to clients and improve operational efficiency:
+Broker-dealers leverage X-Trade execution to enhance service offerings to clients and improve [operational efficiency](../o/operational_efficiency_in_trading.md):
 - **Liquidity Providers**: Offer internal [liquidity pools](../l/liquidity_pools.md) to clients.
 - **Trade Facilitation**: Streamline the order process for high-frequency and day traders.
 

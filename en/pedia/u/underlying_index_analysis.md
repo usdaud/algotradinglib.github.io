@@ -32,7 +32,7 @@ The performance of indices can be influenced by the earning reports of constitue
 
 ### Economic Indicators
 
-[Economic indicators](../e/economic_indicators.md) such as GDP growth rates, unemployment rates, and consumer confidence indices can impact the performance of underlying indices. Analysts use these indicators to predict future market movements and make informed predictions.
+[Economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), unemployment rates, and consumer confidence indices can impact the performance of underlying indices. Analysts use these indicators to predict future market movements and make informed predictions.
 
 ## Techniques in Underlying Index Analysis
 
@@ -46,7 +46,7 @@ This involves evaluating the underlying economic and financial factors that affe
 
 ### Quantitative Analysis
 
-[Quantitative analysis](../q/quantitative_analysis.md) leverages mathematical models and algorithms to predict future performance. This technique is heavily used in [algorithmic trading](../a/algorithmic_trading.md), where traders write algorithms to execute trades based on index performance.
+[Quantitative analysis](../q/quantitative_analysis.md) leverages [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to predict future performance. This technique is heavily used in [algorithmic trading](../a/algorithmic_trading.md), where traders write algorithms to execute trades based on index performance.
 
 ## Key Index Providers 
 
@@ -60,7 +60,7 @@ MSCI Inc. offers a wide range of indices including the MSCI World and MSCI Emerg
 
 ### FTSE Russell
 
-FTSE Russell provides global equity and fixed income indices, including the widely-followed FTSE 100 and Russell 2000 indices. Detailed information is available on their [website](https://www.ftserussell.com/).
+[FTSE Russell](../f/ftse_russell.md) provides global equity and fixed income indices, including the widely-followed FTSE 100 and Russell 2000 indices. Detailed information is available on their [website](https://www.ftserussell.com/).
 
 ## Software and Tools for Index Analysis
 

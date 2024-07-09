@@ -52,7 +52,7 @@ The New York Stock Exchange uses the NYSE Pillar trading platform. This system i
 
 ### 3.3. Binance
 
-As a leading cryptocurrency exchange, Binance utilizes its custom-built matching engine to handle high volume and high-frequency trading. It supports a complex order matching algorithm that prioritizes price and incorporates elements to manage the vast amount of data processed in real time.
+As a leading cryptocurrency exchange, [Binance](../b/binance.md) utilizes its custom-built matching engine to handle high volume and high-frequency trading. It supports a complex order matching algorithm that prioritizes price and incorporates elements to manage the vast amount of data processed in real time.
 
 [Discover Binance’s trading technology](https://www.binance.com)
 
@@ -109,11 +109,11 @@ AI and machine learning technologies are increasingly being integrated into matc
 
 ### 7.2. Quantum Computing
 
-Although still in its infancy, quantum computing holds potential for revolutionizing matching algorithms by solving complex optimization problems much faster than classical computers.
+Although still in its infancy, [quantum computing](../q/quantum_computing_in_trading.md) holds potential for revolutionizing matching algorithms by solving complex optimization problems much faster than classical computers.
 
 ### 7.3. Blockchain Technology
 
-Blockchain can enhance the transparency and security of [trading systems](../t/trading_systems.md) by providing a decentralized ledger for verifying transactions.
+[Blockchain](../b/blockchain_in_trading.md) can enhance the transparency and security of [trading systems](../t/trading_systems.md) by providing a decentralized ledger for verifying transactions.
 
 ### 7.4. Enhancing Fairness and Market Integrity
 
@@ -121,4 +121,4 @@ New matching algorithms are being developed to further enhance fairness and prev
 
 ## Conclusion
 
-Matching algorithms are pivotal to the functioning of modern electronic trading platforms. They facilitate liquidity, ensure effective price discovery, and contribute to market fairness and efficiency. As technology advances, matching algorithms will continue to evolve, incorporating AI, quantum computing, and blockchain to further refine the trading process, meet regulatory demands, and adapt to the continuously changing dynamics of global financial markets.
+Matching algorithms are pivotal to the functioning of modern electronic trading platforms. They facilitate liquidity, ensure effective price discovery, and contribute to market fairness and efficiency. As technology advances, matching algorithms will continue to evolve, incorporating AI, [quantum computing](../q/quantum_computing_in_trading.md), and [blockchain](../b/blockchain_in_trading.md) to further refine the trading process, meet regulatory demands, and adapt to the continuously changing dynamics of global financial markets.

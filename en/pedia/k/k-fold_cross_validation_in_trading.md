@@ -79,7 +79,7 @@ for train_index, test_index in kf.split(data):
 
 ### 6. **Hyperparameter Tuning**
 
-K-Fold cross validation can also be used for hyperparameter tuning by embedding it within techniques like Grid Search or Random Search. This ensures that the hyperparameters selected perform well across multiple data splits.
+K-Fold cross validation can also be used for hyperparameter tuning by embedding it within techniques like [Grid Search](../g/grid_search_in_trading.md) or Random Search. This ensures that the hyperparameters selected perform well across multiple data splits.
 
 ### 7. **Avoiding Data Leakage**
 

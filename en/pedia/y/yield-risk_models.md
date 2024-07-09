@@ -1,10 +1,10 @@
 # Yield-Risk Models
 
-Yield-Risk Models are essential tools in [algorithmic trading](../a/algorithmic_trading.md) for assessing potential returns against their inherent risks. These models help traders design, evaluate, and execute [trading strategies](../t/trading_strategies.md) by quantitatively analyzing historical data and market conditions. This document will delve into the intricacies of Yield-Risk Models, discussing their fundamental principles, types, key components, and applications in [algorithmic trading](../a/algorithmic_trading.md). 
+Yield-[Risk Models](../r/risk_models_in_trading.md) are essential tools in [algorithmic trading](../a/algorithmic_trading.md) for assessing potential returns against their inherent risks. These models help traders design, evaluate, and execute [trading strategies](../t/trading_strategies.md) by quantitatively analyzing historical data and market conditions. This document will delve into the intricacies of Yield-[Risk Models](../r/risk_models_in_trading.md), discussing their fundamental principles, types, key components, and applications in [algorithmic trading](../a/algorithmic_trading.md). 
 
 ## Fundamental Principles
 
-At their core, Yield-Risk Models aim to balance the trade-off between expected returns (yield) and associated risks. The goal is to optimize the benefit-cost ratio to maximize profitability while minimizing potential losses. Two primary factors drive these models:
+At their core, Yield-[Risk Models](../r/risk_models_in_trading.md) aim to balance the trade-off between expected returns (yield) and associated risks. The goal is to optimize the benefit-cost ratio to maximize profitability while minimizing potential losses. Two primary factors drive these models:
 
 1. **Yield:** The expected return from an investment, typically measured as annual percentage yield (APY) or return on investment (ROI).
 2. **Risk:** The susceptibility of returns to rise or fall, commonly evaluated using metrics like volatility, Value at Risk (VaR), and beta coefficients.
@@ -42,7 +42,7 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
     \]
   - **Applications:**
     - Identifying and leveraging [arbitrage](../a/arbitrage.md) opportunities.
-    - Diversifying through multiple risk factors.
+    - Diversifying through multiple [risk factors](../r/risk_factors_in_trading.md).
 
 ### 4. **Black-Scholes Model**
   - A model for pricing [European options](../e/european_options.md) and [derivatives](../d/derivatives.md), developed by Fischer Black, Myron Scholes, and Robert Merton.
@@ -70,13 +70,13 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
     R_i - R_f = \alpha_i + \beta (R_m - R_f) + s SMB + h HML + e_i
     \]
   - **Applications:**
-    - Enhancing CAPM by including size risk and value risk factors.
+    - Enhancing CAPM by including size risk and value [risk factors](../r/risk_factors_in_trading.md).
     - Evaluating performance through multiple dimensions of risk.
 
 ## Key Components of Yield-Risk Models
 
 ### Historical Data Analysis
-  - Yield-Risk Models rely heavily on historical data to project future performance.
+  - Yield-[Risk Models](../r/risk_models_in_trading.md) rely heavily on historical data to project future performance.
   - Factors analyzed include past returns, asset volatility, and historical price trends.
 
 ### Risk Metrics
@@ -87,16 +87,16 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
   
 ### Optimization Algorithms
   - Algorithms play a crucial role in refining model parameters.
-  - Techniques include genetic algorithms, [simulated annealing](../s/simulated_annealing.md), and gradient descent.
+  - Techniques include [genetic algorithms](../g/genetic_algorithms_in_trading.md), [simulated annealing](../s/simulated_annealing.md), and gradient descent.
 
 ### Machine Learning Integration
-  - Machine learning models can enhance predictability and adaptability of Yield-Risk Models.
-  - Techniques like regression, neural networks, and reinforcement learning can uncover non-linear relationships and intrinsic patterns in data.
+  - Machine learning models can enhance predictability and adaptability of Yield-[Risk Models](../r/risk_models_in_trading.md).
+  - Techniques like regression, [neural networks](../n/neural_networks_in_trading.md), and reinforcement learning can uncover non-linear relationships and intrinsic patterns in data.
 
 ## Applications in Algorithmic Trading
 
 ### Strategy Design
-  - Yield-Risk Models assist in the formulation of robust [trading strategies](../t/trading_strategies.md).
+  - Yield-[Risk Models](../r/risk_models_in_trading.md) assist in the formulation of robust [trading strategies](../t/trading_strategies.md).
   - Enable [backtesting](../b/backtesting.md) and forward testing to assess strategy viability over different market conditions.
 
 ### Portfolio Management
@@ -113,12 +113,12 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
 
 ### Scenario Analysis and Stress Testing
   - Models can simulate various market scenarios to test strategy resilience.
-  - Stress testing aids in understanding worst-case scenarios and preparing contingency plans.
+  - [Stress testing](../s/stress_testing_in_trading.md) aids in understanding worst-case scenarios and preparing contingency plans.
 
 ## Industry Use Cases
 
 ### Hedge Funds
-  - Hedge funds leverage Yield-Risk Models to develop high-frequency trading (HFT) strategies.
+  - Hedge funds leverage Yield-[Risk Models](../r/risk_models_in_trading.md) to develop high-frequency trading (HFT) strategies.
   - Examples include AQR Capital Management [AQR](https://www.aqr.com) and Renaissance Technologies [Rentech](https://www.rentec.com).
 
 ### Investment Banks
@@ -130,11 +130,11 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
   - Vanguard [Vanguard](https://www.vanguard.com) and BlackRock [BlackRock](https://www.blackrock.com) are key industry players.
 
 ### Algorithmic Trading Platforms
-  - Platforms like [QuantConnect](../q/quantconnect.md) [QuantConnect](https://www.quantconnect.com) and Tradeworx [Tradeworx](http://tradeworx.com) offer tools and environments to implement and test Yield-Risk Models.
+  - Platforms like [QuantConnect](../q/quantconnect.md) [QuantConnect](https://www.quantconnect.com) and Tradeworx [Tradeworx](http://tradeworx.com) offer tools and environments to implement and test Yield-[Risk Models](../r/risk_models_in_trading.md).
 
 ## Conclusion
 
-Yield-Risk Models play a pivotal role in shaping successful [algorithmic trading](../a/algorithmic_trading.md) strategies by quantifying and balancing potential returns against associated risks. Their application spans various segments of the financial industry, from hedge funds to asset management. By integrating statistical analysis, optimization techniques, and advanced machine learning algorithms, these models provide a robust framework for informed decision-making and strategic planning in dynamic markets.
+Yield-[Risk Models](../r/risk_models_in_trading.md) play a pivotal role in shaping successful [algorithmic trading](../a/algorithmic_trading.md) strategies by quantifying and balancing potential returns against associated risks. Their application spans various segments of the financial industry, from hedge funds to asset management. By integrating statistical analysis, optimization techniques, and advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md), these models provide a robust framework for informed decision-making and strategic planning in dynamic markets.
 
 --- 
 

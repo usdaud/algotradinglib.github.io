@@ -90,7 +90,7 @@ v_{t+1} = \beta v_t + \eta \cdot \nabla f(\theta_t - \beta v_t)
 
 ### Predictive Models
 
-SGD is instrumental in calibrating predictive models used in [algorithmic trading](../a/algorithmic_trading.md). These models can include:
+SGD is instrumental in calibrating [predictive models](../p/predictive_models_in_trading.md) used in [algorithmic trading](../a/algorithmic_trading.md). These models can include:
 - **[Time Series Forecasting](../t/time_series_forecasting.md):** Predicting stock prices.
 - **Classification Models:** Identifying bullish or bearish trends.
 
@@ -116,7 +116,7 @@ SGD can also be applied to enhance [risk management](../r/risk_management.md) mo
 Several popular libraries and frameworks support SGD:
 - **TensorFlow:** [TensorFlow Optimizers](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers) provide a variety of SGD-based optimizers.
 - **PyTorch:** [PyTorch Optimizers](https://pytorch.org/docs/stable/optim.html) include implementations of SGD and its variants.
-- **Scikit-learn:** [Scikit-learn SGD](https://scikit-learn.org/stable/modules/sgd.html) for linear models.
+- **Scikit-learn:** [Scikit-learn SGD](https://scikit-learn.org/stable/modules/sgd.html) for [linear models](../l/linear_models_in_trading.md).
 
 ### Example Implementation in Python with TensorFlow
 
@@ -202,4 +202,4 @@ print(validation_output[:10])
 
 ## Conclusion
 
-Stochastic Gradient Descent and its variants are foundational in the realm of optimization for machine learning models, playing a crucial role in [algorithmic trading](../a/algorithmic_trading.md). The adaptability, efficiency, and convergence capabilities of SGD make it an ideal choice for training large-scale predictive models, optimizing [trading strategies](../t/trading_strategies.md), and enhancing [risk management](../r/risk_management.md) techniques. Understanding these concepts and their practical implementations enables algorithmic traders and quants to harness the full potential of cutting-edge machine learning technologies.
+Stochastic Gradient Descent and its variants are foundational in the realm of optimization for machine learning models, playing a crucial role in [algorithmic trading](../a/algorithmic_trading.md). The adaptability, efficiency, and convergence capabilities of SGD make it an ideal choice for training large-scale [predictive models](../p/predictive_models_in_trading.md), optimizing [trading strategies](../t/trading_strategies.md), and enhancing [risk management](../r/risk_management.md) techniques. Understanding these concepts and their practical implementations enables algorithmic traders and quants to harness the full potential of cutting-edge machine learning technologies.

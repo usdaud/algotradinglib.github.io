@@ -89,10 +89,10 @@ AQR Capital Management is known for its quantitative approach to multi-asset cla
 
 ## The Future of Multi-Asset Class Strategies
 
-The future of multi-asset class strategies will likely continue to evolve with advancements in technology, particularly in the fields of artificial intelligence, machine learning, and big data analytics. These technologies have the potential to enhance the way multi-asset portfolios are constructed, monitored, and managed.
+The future of multi-asset class strategies will likely continue to evolve with advancements in technology, particularly in the fields of [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md). These technologies have the potential to enhance the way multi-asset portfolios are constructed, monitored, and managed.
 
 ### Artificial Intelligence and Machine Learning
-Artificial intelligence (AI) and machine learning can dynamically analyze vast datasets to identify patterns and correlations that traditional analysis might miss. As these technologies evolve, they will offer more precise and adaptive multi-asset class strategies.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning can dynamically analyze vast datasets to identify patterns and correlations that traditional analysis might miss. As these technologies evolve, they will offer more precise and adaptive multi-asset class strategies.
 
 ### Roboadvisors
 Robo-advisors use automated, algorithm-driven [financial planning](../f/financial_planning.md) services to create and manage multi-asset portfolios tailored to individual investor needs. These platforms are becoming increasingly popular for providing accessible and cost-effective investment solutions.
@@ -101,7 +101,7 @@ Robo-advisors use automated, algorithm-driven [financial planning](../f/financia
 Environmental, social, and governance (ESG) criteria are becoming increasingly important for investors. Multi-asset class strategies are evolving to incorporate ESG factors, aligning investment goals with ethical and sustainable practices.
 
 ### Blockchain and Tokenization
-Blockchain technology and the tokenization of assets can further expand the universe of investable assets within multi-asset class strategies, enhancing liquidity, transparency, and access to various asset classes.
+[Blockchain](../b/blockchain_in_trading.md) technology and the tokenization of assets can further expand the universe of investable assets within multi-asset class strategies, enhancing liquidity, transparency, and access to various asset classes.
 
 ## Conclusion
 

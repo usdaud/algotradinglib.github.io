@@ -137,7 +137,7 @@ Even more granular intervals, such as 1-minute or tick charts, are gaining tract
 
 ### Quantum Computing
 
-Though still in nascent stages, quantum computing promises to advance algo-trading by:
+Though still in nascent stages, [quantum computing](../q/quantum_computing_in_trading.md) promises to advance algo-trading by:
 - **Complex Calculations**: Solving optimization problems faster, allowing better use of 15-minute [chart patterns](../c/chart_patterns.md).
 - **Volume Handling**: Processing vast amounts of price data and executing trades more efficiently.
 

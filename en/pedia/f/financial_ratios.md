@@ -25,7 +25,7 @@ The net profit margin ratio measures the percentage of revenue that remains as p
 \[ \text{Net Profit Margin} = \frac{\text{Net Income}}{\text{Revenue}} \times 100 \]
 
 #### 2.1.3 Return on Assets (ROA)
-Return on assets (ROA) indicates how efficiently a company uses its assets to generate profit. It is calculated as:
+[Return on assets](../r/return_on_assets_(roa).md) (ROA) indicates how efficiently a company uses its assets to generate profit. It is calculated as:
 \[ \text{ROA} = \frac{\text{Net Income}}{\text{Total Assets}} \times 100 \]
 
 #### 2.1.4 Return on Equity (ROE)
@@ -105,7 +105,7 @@ The first step is to collect financial data from reliable sources. This data sho
 The collected data needs to be cleaned, standardized, and preprocessed to ensure it is suitable for analysis. This may involve handling missing values, normalizing data, and ensuring consistency in financial terms.
 
 ### 4.3 **Ratio Calculation**
-Algorithms must be programmed to accurately calculate the required financial ratios from the preprocessed data. This involves writing functions or employing software tools that can process the financial data and output the necessary ratios.
+Algorithms must be programmed to accurately calculate the required financial ratios from the preprocessed data. This involves writing functions or employing [software tools](../s/software_tools_for_trading.md) that can process the financial data and output the necessary ratios.
 
 ### 4.4 **Integration into Trading Algorithms**
 Once the ratios are calculated, they can be integrated into [trading algorithms](../t/trading_algorithms.md) to inform trading decisions. This can involve:

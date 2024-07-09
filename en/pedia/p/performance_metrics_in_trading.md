@@ -80,13 +80,13 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), [quantitati
 
 ### 7. R-squared (R²)
 
-**Definition**: R-squared measures the percentage of an investment's movements that can be explained by movements in a benchmark index.
+**Definition**: [R-squared](../r/r-squared_in_trading.md) measures the percentage of an investment's movements that can be explained by movements in a benchmark index.
 
 **Calculation**:
-R-squared values range between 0 to 1, often expressed as percentages. An R-squared of 100% means that all movements of a portfolio are completely explained by movements in the index.
+[R-squared](../r/r-squared_in_trading.md) values range between 0 to 1, often expressed as percentages. An [R-squared](../r/r-squared_in_trading.md) of 100% means that all movements of a portfolio are completely explained by movements in the index.
 
 **Importance**:
-- Higher R-squared values indicate better conformity to the benchmark.
+- Higher [R-squared](../r/r-squared_in_trading.md) values indicate better conformity to the benchmark.
 - Useful for identifying how closely a strategy follows an index.
 
 ### 8. Alpha

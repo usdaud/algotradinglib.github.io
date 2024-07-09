@@ -23,7 +23,7 @@
 [Quantitative analysis](../q/quantitative_analysis.md) uses mathematical and statistical models for [yield forecasting](../y/yield_forecasting.md). It involves complex algorithms and high-powered computing for analyzing patterns and trends. Common quantitative techniques include:
 
 - **[Time Series Analysis](../t/time_series_analysis.md):** Analyzes time-ordered data points to extract meaningful statistics and other characteristics.
-- **Machine Learning Models:** Techniques such as regression models, neural networks, and [decision trees](../d/decision_trees.md) to predict future yields based on historical data.
+- **Machine Learning Models:** Techniques such as regression models, [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) to predict future yields based on historical data.
 - **[Factor Models](../f/factor_models.md):** Involve identifying certain "factors" that can explain differences in asset returns, commonly employed in [risk management](../r/risk_management.md) and portfolio construction.
 
 ## 4. Macro-Economic Indicators
@@ -32,13 +32,13 @@ Macro-[economic indicators](../e/economic_indicators.md) are statistics that pro
 
 - **Interest Rates:** Governed by central banks affecting the yield of bonds and other financial instruments.
 - **Inflation Rates:** A higher inflation rate might lead to higher interest rates, impacting bond yields.
-- **GDP Growth Rates:** Indicating the health of an economy, which in turn affects the equity yields and interest rates.
+- **GDP [Growth Rates](../g/growth_rates_in_trading.md):** Indicating the health of an economy, which in turn affects the equity yields and interest rates.
 
 ## 5. Sentiment Analysis
 
 [Sentiment analysis](../s/sentiment_analysis.md), also known as opinion mining, involves analyzing the sentiments expressed in news articles, social media, and other online platforms. The sentiment can provide a leading edge as market sentiment often precedes market movements. Techniques used in [sentiment analysis](../s/sentiment_analysis.md) include:
 
-- **Natural Language Processing (NLP):** For extracting sentiment from text data.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP):** For extracting sentiment from text data.
 - **Machine Learning Classifiers:** Such as Naive Bayes, SVMs, and deep learning models to categorize sentiment as positive, negative, or neutral.
 
 ## 6. Event-Driven Strategies
@@ -56,7 +56,7 @@ Several tools and platforms help implement [yield forecasting](../y/yield_foreca
 - **[Bloomberg](../b/bloomberg.md) Terminal:** [Bloomberg L.P.](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provides comprehensive data and analytics for financial professionals. 
 - **[Reuters](../r/reuters.md) Eikon:** [Refinitiv Eikon](https://eikon.thomsonreuters.com/index.html) offers powerful tools for financial analysis, including [yield forecasting](../y/yield_forecasting.md).
 - **[QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com/) provides an open platform for [algorithmic trading](../a/algorithmic_trading.md) and financial analysis.
-- **Kensho:** [Kensho](https://www.kensho.com/) employs artificial intelligence to provide actionable insights and real-time [yield forecasting](../y/yield_forecasting.md).
+- **Kensho:** [Kensho](https://www.kensho.com/) employs [artificial intelligence](../a/artificial_intelligence_in_trading.md) to provide actionable insights and real-time [yield forecasting](../y/yield_forecasting.md).
 
 ## Conclusion
 

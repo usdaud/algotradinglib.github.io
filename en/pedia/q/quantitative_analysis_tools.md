@@ -77,7 +77,7 @@ PyTorch is an open-source machine learning library developed by Facebook's AI Re
 
 ### Keras
 
-Keras is an open-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md). Keras acts as an interface for the TensorFlow library and simplifies the process of building complex neural network models.
+Keras is an open-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md). Keras acts as an interface for the TensorFlow library and simplifies the process of building complex neural [network models](../n/network_models_in_trading.md).
 
 - [Keras](https://keras.io/): Official site.
 
@@ -99,13 +99,13 @@ Zipline is a Pythonic [algorithmic trading](../a/algorithmic_trading.md) library
 
 ### RiskMetrics
 
-RiskMetrics is a set of tools and methodologies for managing financial risk. It includes models for calculating Value at Risk (VaR), stress testing, and scenario analysis. RiskMetrics is widely used in the finance industry for risk assessment and regulatory compliance.
+RiskMetrics is a set of tools and methodologies for managing financial risk. It includes models for calculating Value at Risk (VaR), [stress testing](../s/stress_testing_in_trading.md), and scenario analysis. RiskMetrics is widely used in the finance industry for risk assessment and regulatory compliance.
 
 - [MSCI RiskMetrics](https://www.msci.com/riskmetrics): Product page.
 
 ### OpenGamma
 
-OpenGamma provides an open-source risk analytics platform for financial institutions. The platform supports various risk computations such as VaR, sensitivities, and stress testing. It is designed to be used with large scale and high-frequency trading operations.
+OpenGamma provides an open-source risk analytics platform for financial institutions. The platform supports various risk computations such as VaR, sensitivities, and [stress testing](../s/stress_testing_in_trading.md). It is designed to be used with large scale and high-frequency trading operations.
 
 - [OpenGamma](https://opengamma.com/): Official site.
 

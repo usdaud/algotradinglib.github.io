@@ -71,12 +71,12 @@ Visit: [AQR Capital Management](https://www.aqr.com/)
 
 ### Two Sigma Investments
 
-Two Sigma Investments utilizes machine learning, distributed computing, and other advanced technologies to implement beta-neutral, market-neutral strategies. They focus on statistical [arbitrage](../a/arbitrage.md) among other quantitative strategies.
+Two Sigma Investments utilizes machine learning, distributed computing, and other advanced technologies to implement beta-neutral, market-neutral strategies. They focus on statistical [arbitrage](../a/arbitrage.md) among other [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 Visit: [Two Sigma Investments](https://www.twosigma.com/)
 
 ### Renaissance Technologies
 
-Renaissance Technologies is known for its Medallion Fund, which employs complex mathematical models to execute a variety of market-neutral strategies, including beta neutral approaches.
+Renaissance Technologies is known for its Medallion Fund, which employs complex [mathematical models](../m/mathematical_models_in_trading.md) to execute a variety of market-neutral strategies, including beta neutral approaches.
 Visit: [Renaissance Technologies](http://www.rentec.com/)
 
 ## Technological and Regulatory Aspects

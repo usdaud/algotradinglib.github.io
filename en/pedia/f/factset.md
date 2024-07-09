@@ -10,7 +10,7 @@ FactSet is a leading provider of integrated financial information and analytical
 4. **Market Data**: Real-time and historical market data across multiple asset classes.
 5. **Research Management**: Tools for managing and integrating investment research, including collaboration and compliance features.
 6. **[Quantitative Research](../q/quantitative_research.md)**: Support for [quantitative research](../q/quantitative_research.md) and model development, including [backtesting](../b/backtesting.md) and optimization.
-7. **Trading Solutions**: Tools for order management, execution, and trading analytics.
+7. **Trading Solutions**: Tools for [order management](../o/order_management_in_trading.md), execution, and trading analytics.
 8. **[Data Integration](../d/data_integration.md)**: Seamless integration with third-party data providers and proprietary systems.
 9. **Custom Reporting**: Customizable reporting tools for creating detailed financial reports and presentations.
 10. **Mobile Access**: Mobile applications for accessing FactSet data and tools on the go.
@@ -20,7 +20,7 @@ FactSet is a leading provider of integrated financial information and analytical
 - **Portfolio Analytics**: Tools for performance measurement, attribution analysis, and [risk management](../r/risk_management.md).
 - **[Quantitative Analysis](../q/quantitative_analysis.md)**: Solutions for developing, testing, and deploying [quantitative models](../q/quantitative_models.md).
 - **Research Management Solutions**: Tools for organizing, sharing, and analyzing investment research.
-- **Trading Solutions**: Integrated trading tools for order management and execution.
+- **Trading Solutions**: Integrated trading tools for [order management](../o/order_management_in_trading.md) and execution.
 - **Data Feeds**: Real-time and historical data feeds for multiple asset classes.
 - **Custom Applications**: APIs and SDKs for developing custom applications and integrating FactSet data into proprietary systems.
 

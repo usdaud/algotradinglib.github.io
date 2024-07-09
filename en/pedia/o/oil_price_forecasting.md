@@ -10,7 +10,7 @@ Supply and demand dynamics are the most fundamental factors impacting oil prices
 
 - **Global Economic Activity:** Economic growth in major oil-consuming countries (e.g., the United States, China, and countries in the EU) can increase the demand for oil.
 - **Technological Advances:** Advances in extraction and production techniques, like fracking, can greatly influence supply.
-- **Government Policies:** Subsidies, tariffs, and regulations can also impact supply and demand.
+- **[Government Policies](../g/government_policies_in_trading.md):** Subsidies, tariffs, and regulations can also impact supply and demand.
 
 ### Geopolitical Events
 
@@ -46,7 +46,7 @@ Improvements in efficiency and alternative energy sources can also impact oil pr
 
 [Fundamental analysis](../f/fundamental_analysis.md) involves evaluating [economic indicators](../e/economic_indicators.md), [geopolitical events](../g/geopolitical_events.md), OPEC decisions, and other qualitative factors to predict future oil prices.
 
-- **[Economic Indicators](../e/economic_indicators.md):** Economic reports such as GDP growth rates, industrial output, and unemployment rates are examined.
+- **[Economic Indicators](../e/economic_indicators.md):** Economic reports such as GDP [growth rates](../g/growth_rates_in_trading.md), industrial output, and unemployment rates are examined.
 - **Oil Inventories:** Regular reports from organizations like the U.S. Energy Information Administration (EIA) provide data on oil inventories.
 
 ### Technical Analysis
@@ -61,11 +61,11 @@ Improvements in efficiency and alternative energy sources can also impact oil pr
 [Quantitative models](../q/quantitative_models.md) use statistical and mathematical techniques for oil price forecasting.
 
 - **[Time Series Analysis](../t/time_series_analysis.md):** Models like ARIMA (AutoRegressive Integrated Moving Average) are employed to understand and predict future prices based on past price data.
-- **Machine Learning:** Advanced machine learning models, including neural networks and support vector machines, are increasingly used for forecasting oil prices.
+- **Machine Learning:** Advanced machine learning models, including [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md), are increasingly used for forecasting oil prices.
 
 ### Algorithmic Trading Systems
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems execute trades automatically based on pre-programmed criteria, which can include predictive models for oil prices.
+[Algorithmic trading](../a/algorithmic_trading.md) systems execute trades automatically based on pre-programmed criteria, which can include [predictive models](../p/predictive_models_in_trading.md) for oil prices.
 
 - **High-Frequency Trading (HFT):** Uses sophisticated algorithms to make rapid trading decisions, exploiting small price discrepancies.
 - **Statistical [Arbitrage](../a/arbitrage.md):** Relies on [mean reversion](../m/mean_reversion.md) strategies and other statistical methods to find and exploit inefficiencies in the market.

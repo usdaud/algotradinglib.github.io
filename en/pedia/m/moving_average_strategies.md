@@ -45,7 +45,7 @@ Formula:
   where \(d\) is the deviation percentage.
 
 #### Double Moving Average (DMA)
-This strategy uses the crossover of two pairs of moving averages to reduce false signals.
+This strategy uses the crossover of two pairs of moving averages to reduce [false signals](../f/false_signals_in_trading.md).
 
 Example:
 - Short-Term Pair: [10-day SMA](../1/10-day_sma.md), 20-day SMA
@@ -91,7 +91,7 @@ MAs can confirm signals from other [technical indicators](../t/technical_indicat
 
 - **[QuantConnect](../q/quantconnect.md)**: An online platform for [algorithmic trading](../a/algorithmic_trading.md) that supports Python and C#. [QuantConnect](../q/quantconnect.md) offers extensive libraries and data sources for [backtesting](../b/backtesting.md) and live trading moving average strategies. [QuantConnect](https://www.quantconnect.com/)
 
-- **Interactive Brokers**: Through its API, Interactive Brokers allows the execution of moving average strategies with direct market access. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Through its API, [Interactive Brokers](../i/interactive_brokers.md) allows the execution of moving average strategies with direct market access. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
 
 - **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced charting and trading feature-set, supporting multi-time frame strategy development including moving average algorithms. [NinjaTrader](https://www.ninjatrader.com/)
 
@@ -108,7 +108,7 @@ MAs can confirm signals from other [technical indicators](../t/technical_indicat
 ### Challenges and Considerations
 
 #### Market Conditions
-Moving average strategies perform differently under varying market conditions. They tend to work well in trending markets but may produce false signals in sideways or highly volatile markets.
+Moving average strategies perform differently under varying market conditions. They tend to work well in trending markets but may produce [false signals](../f/false_signals_in_trading.md) in sideways or highly volatile markets.
 
 #### Overfitting
 Optimization of parameters in [backtesting](../b/backtesting.md) may lead to overfitting, which fails to generalize well in live trading environments.

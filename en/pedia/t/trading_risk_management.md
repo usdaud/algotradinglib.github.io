@@ -48,7 +48,7 @@ Hedging is a [risk management](../r/risk_management.md) strategy used to offset 
 ### 5. Risk Assessment Tools
 Utilizing advanced risk assessment tools can help traders understand and manage their exposure better. Common tools include:
 - **Value at Risk (VaR)**: Measures the maximum potential loss over a specified time frame with a given confidence level.
-- **Stress Testing**: Simulating extreme market conditions to evaluate the potential impact on the portfolio.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating extreme market conditions to evaluate the potential impact on the portfolio.
 
 ## Implementing Risk Management in Algorithmic Trading
 

@@ -1,6 +1,6 @@
 # Risk Management
 
-Risk management is a crucial component of [algorithmic trading](../a/algorithmic_trading.md), a domain where advanced mathematical models, statistical analyses, and automated systems are utilized to execute trades. Algos, as these automated systems are commonly known, are tasked with making rapid and high-volume trades to capitalize on market inefficiencies. However, this speed and volume introduce significant risks. Effective risk management strategies are essential to mitigate potential losses and to ensure long-term profitability.
+Risk management is a crucial component of [algorithmic trading](../a/algorithmic_trading.md), a domain where advanced [mathematical models](../m/mathematical_models_in_trading.md), statistical analyses, and automated systems are utilized to execute trades. Algos, as these automated systems are commonly known, are tasked with making rapid and high-volume trades to capitalize on market inefficiencies. However, this speed and volume introduce significant risks. Effective risk management strategies are essential to mitigate potential losses and to ensure long-term profitability.
 
 ## Key Concepts in Risk Management
 
@@ -8,10 +8,10 @@ Risk management is a crucial component of [algorithmic trading](../a/algorithmic
 Value at Risk (VaR) is a statistical technique used to measure and quantify the level of financial risk within a firm or portfolio over a specified time frame. This metric estimates the maximum potential loss with a given confidence interval. For example, a one-day VaR of $1 million at a 95% confidence level suggests that there is a 5% chance of a loss exceeding $1 million in a day.
 
 ### 2. Stress Testing
-Stress testing involves running simulations to assess the impact of extreme market conditions on a portfolio. These tests help in understanding how various scenarios, such as economic collapse, high market volatility, or unexpected [geopolitical events](../g/geopolitical_events.md), could affect investments.
+[Stress testing](../s/stress_testing_in_trading.md) involves running simulations to assess the impact of extreme market conditions on a portfolio. These tests help in understanding how various scenarios, such as economic collapse, high market volatility, or unexpected [geopolitical events](../g/geopolitical_events.md), could affect investments.
 
 ### 3. Scenario Analysis
-Scenario analysis evaluates the portfolio under varied potential future states of the world. Unlike stress testing, which might focus on extreme conditions, scenario analysis often examines a broader range of possibilities, including both adverse and favorable scenarios.
+Scenario analysis evaluates the portfolio under varied potential future states of the world. Unlike [stress testing](../s/stress_testing_in_trading.md), which might focus on extreme conditions, scenario analysis often examines a broader range of possibilities, including both adverse and favorable scenarios.
 
 ### 4. Diversification
 Diversification is the practice of spreading investments across various financial instruments, markets, or other categories to reduce exposure to any single asset or risk. In [algorithmic trading](../a/algorithmic_trading.md), this might involve diversifying across multiple strategies, asset classes, or geographical locations.
@@ -34,7 +34,7 @@ Developed by J.P. Morgan, RiskMetrics is an industry-standard framework for iden
 [Backtesting](../b/backtesting.md) involves running the algorithm against historical data to identify how it would have performed in different market conditions. This helps in recognizing potential weaknesses in the strategy and in understanding the risk profile.
 
 ### 3. Monte Carlo Simulation
-Monte Carlo simulations provide a means to account for uncertainty in [forecasting models](../f/forecasting_models.md). By generating thousands of random scenarios and mapping potential outcomes, traders can better estimate risk and uncertainty.
+Monte Carlo simulations provide a means to account for [uncertainty](../u/uncertainty_in_trading.md) in [forecasting models](../f/forecasting_models.md). By generating thousands of random scenarios and mapping potential outcomes, traders can better estimate risk and [uncertainty](../u/uncertainty_in_trading.md).
 
 ### 4. Portfolio Optimization
 Optimization techniques, often based on mean-[variance analysis](../v/variance_analysis.md), help to construct portfolios that maximize expected returns for a given level of risk. Tools such as Modern Portfolio Theory (MPT) by Harry Markowitz offer quantitative methods for optimization (https://www.econ.iastate.edu/hmarkowitz).
@@ -43,7 +43,7 @@ Optimization techniques, often based on mean-[variance analysis](../v/variance_a
 Machine learning models can dynamically adjust to new information and continually refine their predictions. These models can be used for risk estimation, fraud detection, and in optimizing [trading algorithms](../t/trading_algorithms.md). Companies like [QuantConnect](../q/quantconnect.md) offer platforms to integrate machine learning in [algorithmic trading](../a/algorithmic_trading.md) strategies (https://www.[quantconnect](../q/quantconnect.md).com/).
 
 ### 6. Real-Time Risk Monitoring
-Advanced software platforms and dashboards provide real-time monitoring of [risk metrics](../r/risk_metrics.md) such as VaR, beta, position sizes, and [stop-loss orders](../s/stop-loss_orders.md). Continuous monitoring enables swift corrective actions to be undertaken when risk parameters are breached. [Alpaca](../a/alpaca.md) provides API-based trading and risk management tools for better real-time intervention (https://[alpaca](../a/alpaca.md).markets/).
+Advanced [software platforms](../s/software_platforms_for_trading.md) and dashboards provide real-time monitoring of [risk metrics](../r/risk_metrics.md) such as VaR, beta, position sizes, and [stop-loss orders](../s/stop-loss_orders.md). Continuous monitoring enables swift corrective actions to be undertaken when risk parameters are breached. [Alpaca](../a/alpaca.md) provides API-based trading and risk management tools for better real-time intervention (https://[alpaca](../a/alpaca.md).markets/).
 
 ## Risk Management in Different Types of Algorithmic Strategies
 

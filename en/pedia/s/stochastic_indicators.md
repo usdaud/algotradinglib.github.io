@@ -73,7 +73,7 @@ Brokerage platforms and specialized [algorithmic trading](../a/algorithmic_tradi
 - **Customizable**: The [stochastic oscillator](../s/stochastic_oscillator.md)'s parameters can be adjusted for different trading styles and timeframes.
 
 #### Limitations
-- **Whipsaws in Trending Markets**: False signals can occur frequently during strong trending markets.
+- **Whipsaws in Trending Markets**: [False signals](../f/false_signals_in_trading.md) can occur frequently during strong trending markets.
 - **Lagging Nature**: As a momentum indicator, the [stochastic oscillator](../s/stochastic_oscillator.md) can provide delayed signals after significant price movements.
 - **Need for Confirmation**: Often requires additional indicators or analysis methods to validate its signals, reducing the likelihood of false positives.
 

@@ -19,7 +19,7 @@ A covered call involves owning the underlying asset and selling a call option on
 - Provides limited downside protection.
 
 #### Disadvantages
-- Limits the upside potential if the asset's price increases significantly.
+- Limits the [upside potential](../u/upside_potential_in_trading.md) if the asset's price increases significantly.
 - Still exposes the investor to the downside risk of the underlying asset.
 
 ### Protective Put
@@ -32,7 +32,7 @@ A protective put involves holding a long position in an asset and buying a put o
 
 #### Advantages
 - Provides downside protection.
-- Retains upside potential.
+- Retains [upside potential](../u/upside_potential_in_trading.md).
 
 #### Disadvantages
 - Cost of purchasing [put options](../p/put_options.md).

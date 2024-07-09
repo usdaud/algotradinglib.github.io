@@ -30,7 +30,7 @@ A trailing stop-loss moves along with the price movement, only in the favorable 
 
 ### 3. Volatility-Based Stop-Loss
 
-A volatility-based stop-loss adjusts its level based on market volatility. This type of stop-loss takes into account Average True Range (ATR) or other volatility measures. For instance, if the ATR of a stock is $2, a trader might set a stop-loss at 2x ATR below the entry price.
+A volatility-based stop-loss adjusts its level based on market volatility. This type of stop-loss takes into account [Average True Range](../a/average_true_range_(atr).md) (ATR) or other volatility measures. For instance, if the ATR of a stock is $2, a trader might set a stop-loss at 2x ATR below the entry price.
 
 #### Advantages:
 - Adapts to changing market conditions.
@@ -59,7 +59,7 @@ A time-based stop-loss exits the trade after a specific period, regardless of th
 Determining the appropriate stop-loss level is crucial for balancing risk and reward. Several methods can be utilized:
 
 - **Percentage-Based:** Setting a stop-loss at a percentage of the entry price (e.g., 5% below the buy price).
-- **ATR-Based:** Using a multiple of the Average True Range (ATR) to set a dynamic stop level.
+- **ATR-Based:** Using a multiple of the [Average True Range](../a/average_true_range_(atr).md) (ATR) to set a dynamic stop level.
 - **[Support and Resistance](../s/support_and_resistance.md) Levels:** Placing stop-losses around key technical levels on the chart.
 
 ### Backtesting the Strategy

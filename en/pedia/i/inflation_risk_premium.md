@@ -14,7 +14,7 @@ The nominal yield or interest rate of a bond typically includes several componen
 
 1. **Real Rate of Return**: The return that compensates investors for the opportunity cost of their investment, excluding inflation.
 2. **Inflation Expectation**: Investors’ forecast of future inflation rates over the bond’s term.
-3. **Inflation Risk Premium**: The extra yield to compensate for the uncertainty and potential variability of inflation.
+3. **Inflation Risk Premium**: The extra yield to compensate for the [uncertainty](../u/uncertainty_in_trading.md) and potential variability of inflation.
 
 Mathematically, the nominal interest rate (i) can be represented as:
 \[ i = r + \pi + \varphi \]
@@ -28,7 +28,7 @@ where:
 
 Several factors can influence the size of the inflation risk premium:
 
-1. **Inflation Variability**: Greater uncertainty and variability in the inflation rate often lead to a higher inflation risk premium.
+1. **Inflation Variability**: Greater [uncertainty](../u/uncertainty_in_trading.md) and variability in the inflation rate often lead to a higher inflation risk premium.
 2. **Economic Conditions**: During periods of economic stability, the inflation risk premium may be lower, while during economic volatility, it may rise.
 3. **Monetary Policy**: Central banks’ policies can influence inflation expectations and thus the inflation risk premium.
 4. **Duration of the Bond**: Longer-term bonds generally carry higher inflation risk, leading to a higher premium compared to shorter-term bonds.

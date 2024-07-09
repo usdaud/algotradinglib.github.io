@@ -4,11 +4,11 @@ The Russell 3000 Index is a key benchmark of the performance of the 3,000 larges
 
 ## Understanding the Russell 3000 Index
 
-The Russell 3000 Index includes companies from diverse sectors and market capitalizations. The range covers large-cap stocks, [mid-cap stocks](../m/mid-cap_stocks.md), and small-cap stocks, providing a comprehensive overview of the market. These stocks are also a subset of the Russell 3000E Index, the broadest engineering index for U.S. stocks.
+The Russell 3000 Index includes companies from diverse sectors and market capitalizations. The range covers [large-cap stocks](../l/large_cap_stocks.md), [mid-cap stocks](../m/mid-cap_stocks.md), and small-cap stocks, providing a comprehensive overview of the market. These stocks are also a subset of the Russell 3000E Index, the broadest engineering index for U.S. stocks.
 
 ## Components of the Russell 3000 Index
 
-* **Large-Cap Stocks:** These are typically well-established companies with a market capitalization often exceeding $10 billion.
+* **[Large-Cap Stocks](../l/large_cap_stocks.md):** These are typically well-established companies with a market capitalization often exceeding $10 billion.
 * **[Mid-Cap Stocks](../m/mid-cap_stocks.md):** Companies with a market capitalization between $2 billion and $10 billion.
 * **Small-Cap Stocks:** These companies have a market capitalization between $300 million and $2 billion.
 
@@ -94,7 +94,7 @@ TWAP focuses on distributing trades evenly over time to reduce market impact.
 [Stop-loss orders](../s/stop-loss_orders.md) are critical for limiting losses.
 
 * **Fixed Percentage Stop Loss:** Set a stop loss at a fixed percentage below the entry price.
-* **ATR-Based Stop Loss:** Use the Average True Range (ATR) to set a dynamic stop loss based on market volatility.
+* **ATR-Based Stop Loss:** Use the [Average True Range](../a/average_true_range_(atr).md) (ATR) to set a dynamic stop loss based on market volatility.
 
 ### Position Sizing
 

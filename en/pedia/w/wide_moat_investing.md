@@ -9,14 +9,14 @@ There are several types of moats that a business can possess:
 - **Network Effects:** Some businesses become more valuable as their number of users increases. A classic example is Facebook; as more people use the network, it becomes more valuable to each user.
 - **Cost Advantages:** Companies that can produce goods or services at a lower cost than competitors have a significant moat. Walmart, for example, leverages its massive buying power to negotiate lower prices from suppliers.
 - **Switching Costs:** When it's difficult or costly for customers to switch from one product to another, companies can lock in their customer base. Microsoft Office Suite has high switching costs because learning a new software package would be inconvenient and time-consuming for users.
-- **Intellectual Property:** Patents, trademarks, and proprietary technologies can protect companies from competition. Pharmaceutical companies like Pfizer enjoy high profit margins due to patented drugs that prevent competitors from entering the market.
+- **Intellectual Property:** Patents, trademarks, and proprietary technologies can protect companies from competition. Pharmaceutical companies like Pfizer enjoy high [profit margins](../p/profit_margins_in_trading.md) due to patented drugs that prevent competitors from entering the market.
 
 ### Economic Moats
 
 Economic moats can be broadly categorized based on the sustainable competitive advantage they provide:
 
 #### 1. **Cost Leadership**
-Companies like Walmart and Amazon have low-cost structures that allow them to undercut competitors on price while still maintaining high-profit margins. Their logistical efficiencies and scale give them a significant advantage.
+Companies like Walmart and Amazon have low-cost structures that allow them to undercut competitors on price while still maintaining high-[profit margins](../p/profit_margins_in_trading.md). Their logistical efficiencies and scale give them a significant advantage.
 
 #### 2. **Differentiation**
 Companies such as Apple and BMW offer unique products or services that command higher prices. Their focus on research and development, quality, and brand identity differentiates them from competitors.
@@ -43,7 +43,7 @@ To identify wide moat companies, investors look for businesses with:
 Berkshire Hathaway, led by Warren Buffett, owns a diverse range of businesses, many of which are wide moat companies in their own right. For example, GEICO enjoys cost advantages in the insurance industry through efficient operations and scale.
 
 #### 2. **Coca-Cola**
-The Coca-Cola Company (www.coca-colacompany.com) has an extremely strong brand that allows it to maintain high-profit margins and customer loyalty. Its global distribution network also creates a significant barrier to entry for competitors.
+The Coca-Cola Company (www.coca-colacompany.com) has an extremely strong brand that allows it to maintain high-[profit margins](../p/profit_margins_in_trading.md) and customer loyalty. Its global distribution network also creates a significant barrier to entry for competitors.
 
 #### 3. **Visa**
 Visa (www.visa.com) benefits from network effects. The more merchants that accept Visa, the more useful it becomes to cardholders, creating a virtuous cycle that strengthens its market position.

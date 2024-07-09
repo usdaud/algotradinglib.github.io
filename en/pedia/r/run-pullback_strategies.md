@@ -69,7 +69,7 @@ Large financial institutions and hedge funds often employ sophisticated algorith
 ## Practical Considerations
 
 1. **Market Conditions:**
-   Run-pullback strategies perform best in trending markets. In sideways or highly volatile markets, they may produce false signals.
+   Run-pullback strategies perform best in trending markets. In sideways or highly volatile markets, they may produce [false signals](../f/false_signals_in_trading.md).
 
 2. **Asset Selection:**
    Different assets have different liquidity and volatility profiles which affect strategy performance. Forex, equities, and commodities are common choices.

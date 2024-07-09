@@ -49,7 +49,7 @@ Incorporating macroeconomic models can help predict how broader economic shifts 
 ### 1. **Algorithmic Models**
 
 Developing sophisticated algorithmic models to analyze bond yields involves:
-- **[Regression Analysis](../r/regression_analysis.md)**: To assess how different variables impact bond yields. This might include factors such as GDP growth rates, inflation, employment data, etc.
+- **[Regression Analysis](../r/regression_analysis.md)**: To assess how different variables impact bond yields. This might include factors such as GDP [growth rates](../g/growth_rates_in_trading.md), inflation, employment data, etc.
 - **Time-series Analysis**: For predicting interest rates and price trends over time.
 
 ### 2. **Natural Language Processing (NLP)**
@@ -66,7 +66,7 @@ Algorithms can identify [arbitrage](../a/arbitrage.md) opportunities arising fro
 
 ## Example: Lighthouse Investment Partners
 
-[Lighthouse Investment Partners](https://www.lighthousepartners.com) is one such firm that implements quantitative strategies focusing on bond [yield analysis](../y/yield_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md) to create diversified and risk-adjusted portfolios.
+[Lighthouse Investment Partners](https://www.lighthousepartners.com) is one such firm that implements [quantitative strategies](../q/quantitative_strategies_in_trading.md) focusing on bond [yield analysis](../y/yield_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md) to create diversified and risk-adjusted portfolios.
 
 ## Advanced Algorithmic Techniques
 

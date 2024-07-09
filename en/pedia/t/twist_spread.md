@@ -14,7 +14,7 @@ The [yield curve](../y/yield_curve.md) is a graphical representation of the yiel
 
 - **Normal [Yield Curve](../y/yield_curve.md)**: Upward sloping, indicating higher yields for longer-term bonds, which typically occurs in a healthy, growing economy.
 - **Inverted [Yield Curve](../y/yield_curve.md)**: Downward sloping, indicating higher yields for shorter-term bonds, often seen as a predictor of economic recession.
-- **Flat [Yield Curve](../y/yield_curve.md)**: Little difference between short-term and long-term yields, suggesting economic uncertainty.
+- **Flat [Yield Curve](../y/yield_curve.md)**: Little difference between short-term and long-term yields, suggesting economic [uncertainty](../u/uncertainty_in_trading.md).
 
 ## Understanding Twist Spread
 
@@ -97,7 +97,7 @@ Several companies and financial institutions specialize in [algorithmic trading]
 - **Hudson River Trading**: A [quantitative trading](../q/quantitative_trading.md) firm that employs advanced algorithms to trade across various asset classes, including fixed-income securities. [Hudson River Trading](https://www.hudsontrading.com/)
 - **Jane Street**: A global [proprietary trading](../p/proprietary_trading.md) firm that uses [quantitative analysis](../q/quantitative_analysis.md) and advanced technology to trade a wide range of financial instruments. [Jane Street](https://www.janestreet.com/)
 - **Two Sigma**: A technology-driven hedge fund that utilizes machine learning, distributed computing, and massive datasets to develop [trading strategies](../t/trading_strategies.md), including fixed-income and twist spreads. [Two Sigma](https://www.twosigma.com/)
-- **Citadel Securities**: A leading market maker with expertise in [algorithmic trading](../a/algorithmic_trading.md) and quantitative strategies across various asset classes. [Citadel Securities](https://www.citadelsecurities.com/)
+- **Citadel Securities**: A leading market maker with expertise in [algorithmic trading](../a/algorithmic_trading.md) and [quantitative strategies](../q/quantitative_strategies_in_trading.md) across various asset classes. [Citadel Securities](https://www.citadelsecurities.com/)
 - **Virtu Financial**: A global financial technology firm that provides liquidity and execution services, utilizing advanced algorithms to trade equities, fixed income, and other asset classes. [Virtu Financial](https://www.virtu.com/)
 
 ## Conclusion

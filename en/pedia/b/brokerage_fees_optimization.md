@@ -17,7 +17,7 @@ Brokerage fees are costs charged by brokers to execute trades on behalf of their
 
 ### Impact on Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), where trades are executed in rapid succession and often in high volume, even small fees can accumulate and erode profit margins. For high-frequency trading (HFT) in particular, where profits per trade are typically very small, the optimization of brokerage fees becomes crucial.
+In [algorithmic trading](../a/algorithmic_trading.md), where trades are executed in rapid succession and often in high volume, even small fees can accumulate and erode [profit margins](../p/profit_margins_in_trading.md). For high-frequency trading (HFT) in particular, where profits per trade are typically very small, the optimization of brokerage fees becomes crucial.
 
 ## Strategies for Brokerage Fees Optimization
 

@@ -49,11 +49,11 @@ For an 8-period RSI:
 
 ### 8-Period RSI vs 14-Period RSI
 
-The 8-period RSI is shorter-term and more sensitive to recent price movements compared to the traditional 14-period RSI. This means it can generate quicker signals for buying and selling but might also result in more false signals. Traders looking for swift entry and exit points may prefer a shorter period RSI like 8 periods, while those with a longer horizon may stick with the standard 14 periods for more reliable signals.
+The 8-period RSI is shorter-term and more sensitive to recent price movements compared to the traditional 14-period RSI. This means it can generate quicker signals for buying and selling but might also result in more [false signals](../f/false_signals_in_trading.md). Traders looking for swift entry and exit points may prefer a shorter period RSI like 8 periods, while those with a longer horizon may stick with the standard 14 periods for more reliable signals.
 
 ## Practical Application in Algo Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) or "algo trading" leverages mathematical models and financial theories to execute trades automatically. The 8-period RSI can be integrated into [trading algorithms](../t/trading_algorithms.md) to automate the buying and selling process based on predictive RSI signals.
+[Algorithmic trading](../a/algorithmic_trading.md) or "algo trading" leverages [mathematical models](../m/mathematical_models_in_trading.md) and financial theories to execute trades automatically. The 8-period RSI can be integrated into [trading algorithms](../t/trading_algorithms.md) to automate the buying and selling process based on predictive RSI signals.
 
 ### Developing an RSI-Based Algorithm
 

@@ -1,6 +1,6 @@
 # Econometrics
 
-Econometrics, the application of statistical methods to economic data, plays a crucial role in modern financial [trading strategies](../t/trading_strategies.md). It provides traders and quantitative analysts with the tools to model, estimate, and forecast financial market trends and risks. Integrating econometrics in trading involves employing a combination of linear and non-linear models, [hypothesis testing](../h/hypothesis_testing.md), [regression analysis](../r/regression_analysis.md), and [time series analysis](../t/time_series_analysis.md). This document delves into the various facets of econometrics in trading, exploring its impact and applications.
+Econometrics, the application of statistical methods to economic data, plays a crucial role in modern financial [trading strategies](../t/trading_strategies.md). It provides traders and quantitative analysts with the tools to model, estimate, and forecast financial market trends and risks. Integrating econometrics in trading involves employing a combination of linear and non-[linear models](../l/linear_models_in_trading.md), [hypothesis testing](../h/hypothesis_testing.md), [regression analysis](../r/regression_analysis.md), and [time series analysis](../t/time_series_analysis.md). This document delves into the various facets of econometrics in trading, exploring its impact and applications.
 
 ## 1. Introduction to Econometrics in Trading
 Econometrics combines economic theory, mathematics, and statistical inference. In the context of trading, econometric models help in understanding the relationship between different financial variables, forecasting market movements, and evaluating [trading strategies](../t/trading_strategies.md). Traders leverage econometric techniques to analyze historical price data, trading volume, interest rates, and other [economic indicators](../e/economic_indicators.md), thereby making informed decisions.
@@ -21,10 +21,10 @@ Where:
 [Linear regression](../l/linear_regression.md) is widely used in predicting stock prices, analyzing market risk, and understanding the impact of economic announcements on asset prices.
 
 ### 2.2 Non-Linear Models
-Non-linear models account for more complex relationships between variables that linear models cannot capture. These include quadratic, cubic, and exponential relationships. An example of a non-linear model is the polynomial regression, where the relationship between the dependent and independent variables is modeled as an nth-degree polynomial.
+Non-[linear models](../l/linear_models_in_trading.md) account for more complex relationships between variables that [linear models](../l/linear_models_in_trading.md) cannot capture. These include quadratic, cubic, and exponential relationships. An example of a non-linear model is the polynomial regression, where the relationship between the dependent and independent variables is modeled as an nth-degree polynomial.
 
 #### Application
-Non-linear models are used in options pricing, modeling interest rate movements, and capturing [volatility clustering](../v/volatility_clustering.md) in [financial time series](../f/financial_time_series.md).
+Non-[linear models](../l/linear_models_in_trading.md) are used in options pricing, modeling interest rate movements, and capturing [volatility clustering](../v/volatility_clustering.md) in [financial time series](../f/financial_time_series.md).
 
 ### 2.3 Time Series Models
 Time series models are essential in trading as they focus on analyzing data points collected or recorded at specific time intervals. Key time series models include:

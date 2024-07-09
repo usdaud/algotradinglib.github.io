@@ -55,7 +55,7 @@
 ### GARP Screening Criteria
 
 To identify potential GARP investment opportunities, investors can use the following screening criteria:
-1. **EPS Growth:** Companies with historical and projected EPS growth rates of 10%-20%.
+1. **EPS Growth:** Companies with historical and projected EPS [growth rates](../g/growth_rates_in_trading.md) of 10%-20%.
 2. **P/E Ratio:** Stocks with P/E ratios lower than the overall market or below the earnings growth rate.
 3. **PEG Ratio:** Targets a PEG ratio below 1.
 4. **ROE:** Preference for companies with ROE above 15%.

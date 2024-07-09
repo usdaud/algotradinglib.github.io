@@ -89,11 +89,11 @@ DE Shaw is a prominent hedge fund that employs advanced quantitative techniques,
 [DE Shaw & Co.](https://www.deshaw.com)
 
 ### 4. **Two Sigma Investments**
-Two Sigma is a technology-focused investment firm that uses data science and advanced modeling for various [trading strategies](../t/trading_strategies.md), including fixed income [arbitrage](../a/arbitrage.md).
+Two Sigma is a technology-focused investment firm that uses [data science](../d/data_science_in_trading.md) and advanced modeling for various [trading strategies](../t/trading_strategies.md), including fixed income [arbitrage](../a/arbitrage.md).
 [Two Sigma Investments](https://www.twosigma.com)
 
 ### 5. **Jane Street**
-Jane Street is a [proprietary trading](../p/proprietary_trading.md) firm that uses quantitative strategies, including fixed income [arbitrage](../a/arbitrage.md), to trade in global markets.
+Jane Street is a [proprietary trading](../p/proprietary_trading.md) firm that uses [quantitative strategies](../q/quantitative_strategies_in_trading.md), including fixed income [arbitrage](../a/arbitrage.md), to trade in global markets.
 [Jane Street](https://www.janestreet.com)
 
 ## Conclusion

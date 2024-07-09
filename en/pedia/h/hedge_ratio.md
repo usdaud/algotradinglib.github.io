@@ -136,11 +136,11 @@ Advanced AI and machine learning models are increasingly being integrated into [
 
 ### Quantum Computing
 
-Quantum computing holds the potential to revolutionize the calculation of hedge ratios by performing complex computations at unprecedented speeds. This technology could enable real-time optimization of hedge ratios across large portfolios with unparalleled precision.
+[Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize the calculation of hedge ratios by performing complex computations at unprecedented speeds. This technology could enable real-time optimization of hedge ratios across large portfolios with unparalleled precision.
 
 ### Blockchain Technology
 
-Blockchain technology offers enhanced transparency and security in transactions involving hedging instruments. By reducing [counterparty risk](../c/counterparty_risk.md) and ensuring the integrity of transaction records, blockchain can support more reliable hedge ratio calculations and adjustments.
+[Blockchain](../b/blockchain_in_trading.md) technology offers enhanced transparency and security in transactions involving hedging instruments. By reducing [counterparty risk](../c/counterparty_risk.md) and ensuring the integrity of transaction records, [blockchain](../b/blockchain_in_trading.md) can support more reliable hedge ratio calculations and adjustments.
 
 ### ESG (Environmental, Social, and Governance) Considerations
 

@@ -22,7 +22,7 @@ Dynamic stop-loss strategies are sophisticated tools used in trading that enable
 
 1. **Trailing Stop-Loss**: This popular method adjusts the stop-loss level as the asset price moves in favor of the trade, maintaining a specified distance below (in a long position) or above (in a short position) the current market price.
 
-2. **Volatility-Based Stops**: These stop-loss levels consider the volatility of the asset. For instance, using the Average True Range (ATR) to set stop-loss levels that adjust according to the asset's recent price movements.
+2. **Volatility-Based Stops**: These stop-loss levels consider the volatility of the asset. For instance, using the [Average True Range](../a/average_true_range_(atr).md) (ATR) to set stop-loss levels that adjust according to the asset's recent price movements.
 
 3. **Time-Based Stops**: Adjusting stop-loss levels based on the time duration since the trade was opened. This method ensures that as the trade matures, the stop-loss level tightens, reducing potential losses from long-held positions.
 
@@ -60,7 +60,7 @@ def handle_data(context, data):
 
 ### Volatility-Based Stops
 
-Volatility-based stops adjust the stop-loss levels based on the asset's volatility, using indicators like the Average True Range (ATR). This method ensures that the stop-loss order adapts to current market conditions.
+Volatility-based stops adjust the stop-loss levels based on the asset's volatility, using indicators like the [Average True Range](../a/average_true_range_(atr).md) (ATR). This method ensures that the stop-loss order adapts to current market conditions.
 
 **Example:**
 
@@ -154,7 +154,7 @@ def handle_data(context, data):
 
 ## Real-World Examples and Companies Utilizing Dynamic Stop-Loss Strategies
 
-Several top-tier fintech companies and hedge funds employ dynamic stop-loss strategies within their [algorithmic trading](../a/algorithmic_trading.md) frameworks to enhance [risk management](../r/risk_management.md) and trading efficiency. One prominent example is [Two Sigma](https://www.twosigma.com/), a company that leverages data science and technology to create advanced [trading models](../t/trading_models.md). By incorporating dynamic stop-loss strategies, Two Sigma can adapt to market changes swiftly and reduce exposure to adverse market movements.
+Several top-tier fintech companies and hedge funds employ dynamic stop-loss strategies within their [algorithmic trading](../a/algorithmic_trading.md) frameworks to enhance [risk management](../r/risk_management.md) and trading efficiency. One prominent example is [Two Sigma](https://www.twosigma.com/), a company that leverages [data science](../d/data_science_in_trading.md) and technology to create advanced [trading models](../t/trading_models.md). By incorporating dynamic stop-loss strategies, Two Sigma can adapt to market changes swiftly and reduce exposure to adverse market movements.
 
 Another notable example is [QuantConnect](https://www.quantconnect.com/), an [algorithmic trading](../a/algorithmic_trading.md) platform that offers traders and developers access to powerful [backtesting](../b/backtesting.md) and live trading capabilities. [QuantConnect](../q/quantconnect.md)'s platform supports the development and implementation of dynamic stop-loss strategies through its extensive library of quant tools and financial data.
 

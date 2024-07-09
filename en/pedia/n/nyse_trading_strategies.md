@@ -28,7 +28,7 @@ Dividend investing focuses on purchasing stocks that pay regular dividends. Thes
 ## Quantitative Strategies
 
 ### Statistical Arbitrage
-Statistical [arbitrage](../a/arbitrage.md) involves using mathematical models and algorithms to identify and exploit price inefficiencies between related securities. Traders employ complex statistical methods to predict price movements and execute trades to profit from the small price differentials.
+Statistical [arbitrage](../a/arbitrage.md) involves using [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify and exploit price inefficiencies between related securities. Traders employ complex statistical methods to predict price movements and execute trades to profit from the small price differentials.
 
 ### High-Frequency Trading (HFT)
 High-frequency trading leverages powerful computing systems and sophisticated algorithms to execute a large number of trades at extremely high speeds. HFT strategies often involve trading small price discrepancies across different markets or securities, taking advantage of the minimal time discrepancies between various exchanges.

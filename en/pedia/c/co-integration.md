@@ -60,7 +60,7 @@ Various hedge funds and [proprietary trading](../p/proprietary_trading.md) firms
 - **Two Sigma Investments**: Two Sigma uses machine learning and statistical modeling, likely incorporating co-integration in its strategies.
   [Two Sigma Investments](https://www.twosigma.com)
 
-- **Citadel LLC**: Known for its use of advanced quantitative strategies.
+- **Citadel LLC**: Known for its use of advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md).
   [Citadel LLC](https://www.citadel.com)
 
 ## Conclusion

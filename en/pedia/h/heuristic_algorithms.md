@@ -17,10 +17,10 @@ Greedy algorithms build a solution iteratively by making the locally optimal cho
 In trading, a greedy algorithm might select stocks that show the highest immediate profit without considering long-term trends or risks.
 
 ### 2. Genetic Algorithms
-Inspired by the process of natural selection, genetic algorithms use techniques such as selection, crossover, and mutation to evolve solutions over successive generations. These are highly adaptive but computationally intensive.
+Inspired by the process of natural selection, [genetic algorithms](../g/genetic_algorithms_in_trading.md) use techniques such as selection, crossover, and mutation to evolve solutions over successive generations. These are highly adaptive but computationally intensive.
 
 #### Example: 
-Genetic algorithms can optimize [trading strategies](../t/trading_strategies.md) by simulating various market conditions and evolving the most successful strategies over time.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) can optimize [trading strategies](../t/trading_strategies.md) by simulating various market conditions and evolving the most successful strategies over time.
 
 ### 3. Simulated Annealing
 [Simulated annealing](../s/simulated_annealing.md) mimics the process of cooling metal to reach a stable state. It starts with a high "temperature" and explores the solution space widely. As the temperature decreases, the algorithm focuses more on refining the solutions.
@@ -70,7 +70,7 @@ A tabu search algorithm might track and analyze trending topics to predict short
 
 1. **Accuracy**: Heuristic algorithms may not always find the optimal solution.
 2. **Overfitting**: They can be prone to overfitting to past data, which may not generalize well to future conditions.
-3. **Complexity**: Some heuristic methods, like genetic algorithms, can be computationally demanding.
+3. **Complexity**: Some heuristic methods, like [genetic algorithms](../g/genetic_algorithms_in_trading.md), can be computationally demanding.
 
 ## Companies Utilizing Heuristic Algorithms
 

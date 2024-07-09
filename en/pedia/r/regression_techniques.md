@@ -40,7 +40,7 @@ where:
 
 ### 4. Logistic Regression
 
-**Definition:** Logistic regression is used for binary classification problems, where the outcome variable is categorical and usually represents two classes (such as up/down or buy/sell). The logistic function transforms the linear equation output into probabilities.
+**Definition:** [Logistic regression](../l/logistic_regression_in_trading.md) is used for binary classification problems, where the outcome variable is categorical and usually represents two classes (such as up/down or buy/sell). The logistic function transforms the linear equation output into probabilities.
 
 \[ P(Y=1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 x_1 + ... + \beta_n x_n)}} \]
 
@@ -50,14 +50,14 @@ where:
 
 ### 5. Ridge Regression (L2 Regularization)
 
-**Definition:** Ridge regression is a technique used to address multicollinearity (high correlation between predictor variables) by introducing a penalty term to the regression model. The objective function is modified to include a regularization term:
+**Definition:** Ridge regression is a technique used to address [multicollinearity](../m/multicollinearity_in_trading.md) (high correlation between predictor variables) by introducing a penalty term to the regression model. The objective function is modified to include a regularization term:
 
 \[ \min_{\beta} \left( \sum_{i=1}^{n} (y_i - \beta_0 - \sum_{j=1}^{p} \beta_j x_{ij})^2 + \lambda \sum_{j=1}^{p} \beta_j^2 \right) \]
 
 where \( \lambda \) is the regularization parameter.
 
 **Applications in Trading:**
-- **Performance Improvement:** By reducing overfitting, ridge regression enhances the generalization of predictive models on new, unseen data.
+- **Performance Improvement:** By reducing overfitting, ridge regression enhances the generalization of [predictive models](../p/predictive_models_in_trading.md) on new, unseen data.
 - **Robust Predictions:** Particularly useful when dealing with a large number of predictors or when predictors are highly correlated.
 
 ### 6. Lasso Regression (L1 Regularization)
@@ -77,8 +77,8 @@ where \( \lambda \) is the regularization parameter.
 \[ \min_{\beta} \left( \sum_{i=1}^{n} (y_i - \beta_0 - \sum_{j=1}^{p} \beta_j x_{ij})^2 + \alpha \lambda \sum_{j=1}^{p} |\beta_j| + \frac{1 - \alpha}{2} \lambda \sum_{j=1}^{p} \beta_j^2 \right) \]
 
 **Applications in Trading:**
-- **Model Stability:** Combines the benefits of both techniques to handle multicollinearity and perform variable selection.
-- **Robust Predictive Models:** Particularly effective when dealing with correlated predictors and high-dimensional data.
+- **Model Stability:** Combines the benefits of both techniques to handle [multicollinearity](../m/multicollinearity_in_trading.md) and perform variable selection.
+- **Robust [Predictive Models](../p/predictive_models_in_trading.md):** Particularly effective when dealing with correlated predictors and high-dimensional data.
 
 ### 8. Quantile Regression
 
@@ -100,7 +100,7 @@ where \( \tau \) represents the quantile of interest.
 
 **Applications in Trading:**
 - **Incorporating Prior Knowledge:** Integrating expert knowledge or historical data into the model.
-- **Uncertainty Quantification:** Providing a measure of uncertainty associated with predictions, which is valuable for [decision-making under uncertainty](../d/decision-making_under_uncertainty.md).
+- **[Uncertainty](../u/uncertainty_in_trading.md) Quantification:** Providing a measure of [uncertainty](../u/uncertainty_in_trading.md) associated with predictions, which is valuable for [decision-making under uncertainty](../d/decision-making_under_uncertainty.md).
 
 ### 10. Stepwise Regression
 

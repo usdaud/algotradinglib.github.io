@@ -4,7 +4,7 @@ Systematic trading, also known as [algorithmic trading](../a/algorithmic_trading
 
 ## What is Systematic Trading?
 
-Systematic trading leverages [computational algorithms](../c/computational_algorithms.md) to execute trades based on historical data and mathematical models. Unlike [discretionary trading](../d/discretionary_trading.md), which relies on the intuition and decisions of individual traders, systematic trading automates decision-making processes, aiming to increase efficiency and reduce the emotional impact on trading activities.
+Systematic trading leverages [computational algorithms](../c/computational_algorithms.md) to execute trades based on historical data and [mathematical models](../m/mathematical_models_in_trading.md). Unlike [discretionary trading](../d/discretionary_trading.md), which relies on the intuition and decisions of individual traders, systematic trading automates decision-making processes, aiming to increase efficiency and reduce the emotional impact on trading activities.
 
 ## Key Components of Systematic Trading
 
@@ -57,21 +57,21 @@ Various trading platforms support the deployment of systematic [trading strategi
 
 - **MetaTrader 4/5:** Popular for forex trading.
 - **[MultiCharts](../m/multicharts.md):** Supports various asset classes and provides extensive charting tools.
-- **Interactive Brokers:** Offers a robust API for [algorithmic trading](../a/algorithmic_trading.md).
+- **[Interactive Brokers](../i/interactive_brokers.md):** Offers a robust API for [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 4. **Machine Learning and AI**
 
-Machine learning (ML) and artificial intelligence (AI) are increasingly being integrated into systematic trading to enhance model accuracy and predictability. Techniques like neural networks, reinforcement learning, and natural language processing are applied to extract insights from large data sets.
+Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being integrated into systematic trading to enhance model accuracy and predictability. Techniques like [neural networks](../n/neural_networks_in_trading.md), reinforcement learning, and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) are applied to extract insights from large data sets.
 
 ## Systematic Trading Firms
 
 ### 1. **Two Sigma**
 
-[Two Sigma](https://www.twosigma.com) is a prominent quantitative hedge fund that uses data science and advanced technologies to drive its [trading strategies](../t/trading_strategies.md). They leverage massive data sets, machine learning, and distributed computing.
+[Two Sigma](https://www.twosigma.com) is a prominent quantitative hedge fund that uses [data science](../d/data_science_in_trading.md) and advanced technologies to drive its [trading strategies](../t/trading_strategies.md). They leverage massive data sets, machine learning, and distributed computing.
 
 ### 2. **Renaissance Technologies**
 
-[Renaissance Technologies](https://www.rentec.com) is another leading hedge fund known for its Medallion Fund, which utilizes mathematical models to exploit market inefficiencies. Founded by Jim Simons, it is often cited as one of the most successful hedge funds.
+[Renaissance Technologies](https://www.rentec.com) is another leading hedge fund known for its Medallion Fund, which utilizes [mathematical models](../m/mathematical_models_in_trading.md) to exploit market inefficiencies. Founded by Jim Simons, it is often cited as one of the most successful hedge funds.
 
 ### 3. **DE Shaw & Co.**
 
@@ -79,7 +79,7 @@ Machine learning (ML) and artificial intelligence (AI) are increasingly being in
 
 ### 4. **Citadel**
 
-[Citadel](https://www.citadel.com) is a multinational hedge fund and financial services company. They operate with a strong focus on using quantitative strategies, high-frequency trading, and market-making activities.
+[Citadel](https://www.citadel.com) is a multinational hedge fund and financial services company. They operate with a strong focus on using [quantitative strategies](../q/quantitative_strategies_in_trading.md), high-frequency trading, and market-making activities.
 
 ## Regulatory Landscape
 
@@ -124,7 +124,7 @@ Utilizing [alternative data](../a/alternative_data.md) sources, such as [social 
 
 ### 3. **Blockchain and Distributed Ledger Technology**
 
-Potential use of blockchain for settlements and improving transparency in trade execution.
+Potential use of [blockchain](../b/blockchain_in_trading.md) for settlements and improving transparency in trade execution.
 
 ### 4. **Quantitative ETFs**
 

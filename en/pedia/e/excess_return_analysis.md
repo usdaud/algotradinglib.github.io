@@ -94,7 +94,7 @@ Excess return analysis is integral during the [backtesting](../b/backtesting.md)
 
 ### Continuous Monitoring
 
-Continuous monitoring of excess return ensures that the strategy remains aligned with market conditions and adjusts for unexpected risk factors. This ongoing analysis is essential for [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) where market conditions can change rapidly.
+Continuous monitoring of excess return ensures that the strategy remains aligned with market conditions and adjusts for unexpected [risk factors](../r/risk_factors_in_trading.md). This ongoing analysis is essential for [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) where market conditions can change rapidly.
 
 ## Leading Firms in Excess Return Analysis
 

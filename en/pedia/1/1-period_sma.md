@@ -32,7 +32,7 @@ Where:
 ### Use Cases
 
 #### Real-Time Data Analysis
-In high-frequency trading (HFT), where algorithms need to make decisions in microseconds, the 1-period SMA provides immediate reference data for instantaneous analysis, enabling quick response to market changes.
+In high-frequency trading (HFT), where algorithms need to make decisions in microseconds, the 1-period SMA provides immediate reference data for instantaneous analysis, enabling [quick response](../q/quick_response_in_trading.md) to market changes.
 
 #### Signal Generation
 The 1-period SMA can serve as a signal line in various stochastic and mean-reversion strategies, acting as an immediate price reference to trigger trades based on divergence, convergence, or other predefined conditions.

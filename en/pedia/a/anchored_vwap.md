@@ -64,7 +64,7 @@ Standard VWAP becomes less meaningful as an intraday tool in volatile markets wh
 
 ### Software and Tools Supporting Anchored VWAP
 
-Several trading platforms and software tools provide functionalities to compute and use Anchored VWAP. Notable among these are:
+Several trading platforms and [software tools](../s/software_tools_for_trading.md) provide functionalities to compute and use Anchored VWAP. Notable among these are:
 
 - **[TradingView](../t/tradingview.md):** [TradingView](../t/tradingview.md) offers extensive charting capabilities, including the use of custom indicators like Anchored VWAP. [More Information](https://www.tradingview.com)
 - **[Thinkorswim](../t/thinkorswim.md):** Provided by TD [Ameritrade](../a/ameritrade.md), this trading platform offers customization options for [technical indicators](../t/technical_indicators.md), allowing traders to apply Anchored VWAP. [More Information](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)

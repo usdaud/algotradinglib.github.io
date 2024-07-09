@@ -58,7 +58,7 @@ Banks and investment firms provide the capital and financial services needed to 
 ### Financial Commodities Trading
 
 - **[Derivatives](../d/derivatives.md):** Involves trading of financial instruments such as futures, options, and swaps that derive their value from the underlying physical commodity.
-- **No Physical Delivery:** Most financial trades do not result in the delivery of the actual commodity.
+- **No [Physical Delivery](../p/physical_delivery_in_trading.md):** Most financial trades do not result in the delivery of the actual commodity.
 - **Leverage:** Traders can use leverage to amplify their positions, often leading to higher risk.
 - **Speculation:** Considerably driven by speculation on price movements rather than the actual supply of the commodity.
 
@@ -89,7 +89,7 @@ Economic growth, geopolitical stability, and currency fluctuations significantly
 
 ### Technological Advancements
 
-Technological innovations in extraction, transportation, and [trading systems](../t/trading_systems.md) are transforming how physical commodities are traded. Blockchain technology, for example, is being adopted for secure and transparent transaction processing.
+Technological innovations in extraction, transportation, and [trading systems](../t/trading_systems.md) are transforming how physical commodities are traded. [Blockchain](../b/blockchain_in_trading.md) technology, for example, is being adopted for secure and transparent transaction processing.
 
 ### Environmental and Sustainability Considerations
 

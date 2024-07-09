@@ -44,11 +44,11 @@ Different brokers and exchanges may have varied rules regarding GTC orders, incl
 
 #### Notable Brokers Offering GTC Orders
 
-1. **[Interactive Brokers](../i/interactive_brokers.md)**: A leading brokerage firm that supports a wide range of order types, including GTC orders with detailed setups. More information can be found on their [official website](https://www.interactivebrokers.com).
+1. **[Interactive Brokers](../i/interactive_brokers.md)**: A leading brokerage firm that supports a wide range of [order types](../o/order_types_in_trading.md), including GTC orders with detailed setups. More information can be found on their [official website](https://www.interactivebrokers.com).
 
 2. **TD [Ameritrade](../a/ameritrade.md)**: This brokerage provides GTC orders, allowing investors the flexibility to maintain open orders over significant periods. Detailed information can be found on their [official page](https://www.tdameritrade.com).
 
-3. **E*TRADE**: Known for a user-friendly platform, E*TRADE offers GTC order options catering to both novice and experienced investors. Further details can be found on their site [here](https://us.etrade.com).
+3. **[E*TRADE](../e/e_trade.md)**: Known for a user-friendly platform, [E*TRADE](../e/e_trade.md) offers GTC order options catering to both novice and experienced investors. Further details can be found on their site [here](https://us.etrade.com).
 
 ### Algorithmic Trading and GTC Orders
 

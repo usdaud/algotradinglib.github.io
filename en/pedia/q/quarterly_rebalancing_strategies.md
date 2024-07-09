@@ -72,7 +72,7 @@ Several financial firms and platforms specialize in providing automated rebalanc
 
 2. **Betterment**: Another leading robo-advisor that automates the rebalancing process. Betterment continuously monitors and adjusts portfolios to keep them aligned with investors' goals. More information can be found [here](https://www.betterment.com).
 
-3. **Interactive Brokers**: This firm offers sophisticated rebalancing tools within its trading platforms, allowing individual traders and institutions to automate and optimize their [rebalancing strategies](../r/rebalancing_strategies.md). Visit their site [here](https://www.interactivebrokers.com).
+3. **[Interactive Brokers](../i/interactive_brokers.md)**: This firm offers sophisticated rebalancing tools within its trading platforms, allowing individual traders and institutions to automate and optimize their [rebalancing strategies](../r/rebalancing_strategies.md). Visit their site [here](https://www.interactivebrokers.com).
 
 ## Advanced Rebalancing Strategies
 
@@ -82,7 +82,7 @@ Unlike static [quarterly rebalancing](../q/quarterly_rebalancing.md), dynamic re
 
 ### Optimization Algorithms
 
-Modern portfolio theory and optimization algorithms can enhance the rebalancing process. Techniques such as [mean-variance optimization](../m/mean-variance_optimization.md), the [Black-Litterman model](../b/black-litterman_model.md), and genetic algorithms are employed to determine the ideal asset weights considering risk, return, and other constraints.
+Modern portfolio theory and optimization algorithms can enhance the rebalancing process. Techniques such as [mean-variance optimization](../m/mean-variance_optimization.md), the [Black-Litterman model](../b/black-litterman_model.md), and [genetic algorithms](../g/genetic_algorithms_in_trading.md) are employed to determine the ideal asset weights considering risk, return, and other constraints.
 
 ### Factor-Based Rebalancing
 

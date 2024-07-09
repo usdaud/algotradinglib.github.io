@@ -42,7 +42,7 @@ HFT algorithms are specifically designed for the fast pace of these markets. The
 This technique involves leveraging small delays in information dissemination and reaction between different exchanges to secure low-risk profits.
 
 #### 3. Machine Learning
-Machine learning algorithms can adapt to the conditions of fast markets by learning from historical data. These algorithms can fine-tune their strategies in real-time.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can adapt to the conditions of fast markets by learning from historical data. These algorithms can fine-tune their strategies in real-time.
 
 ### Role of Exchanges and Regulators
 

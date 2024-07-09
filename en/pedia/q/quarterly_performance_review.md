@@ -20,7 +20,7 @@ A comprehensive QPR in algotrading consists of several key components:
 2. **Algorithm Analysis**
    - **Performance Consistency:** Considers how consistently the algorithm performs under varying market conditions.
    - **Optimization:** Involves tuning algorithm parameters for better performance.
-   - **Stress Testing:** Simulates extreme market scenarios to test the algorithm's resilience.
+   - **[Stress Testing](../s/stress_testing_in_trading.md):** Simulates extreme market scenarios to test the algorithm's resilience.
    - **[Backtesting](../b/backtesting.md) Results:** Reviews historical data to validate the effectiveness of the strategies.
 
 3. **Market Conditions**

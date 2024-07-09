@@ -5,7 +5,7 @@ Options trading volume refers to the total number of options contracts that are 
 ## Importance of Options Trading Volume
 
 ### Market Sentiment
-Options trading volume can serve as a barometer for market sentiment. High trading volumes typically indicate strong investor interest and can be suggestive of future price movements. Conversely, low trading volumes may signal a lack of interest or uncertainty about the asset's future prospects.
+Options trading volume can serve as a barometer for market sentiment. High trading volumes typically indicate strong investor interest and can be suggestive of future price movements. Conversely, low trading volumes may signal a lack of interest or [uncertainty](../u/uncertainty_in_trading.md) about the asset's future prospects.
 
 ### Liquidity
 An active options market with high trading volume ensures greater liquidity. Liquidity is critical because it allows traders to execute large orders with minimal impact on the market price. Moreover, higher liquidity tends to narrow the [bid-ask spread](../b/bid-ask_spread.md), making it cost-effective for traders to enter and exit positions.
@@ -57,7 +57,7 @@ Several tools and platforms provide advanced analytics for tracking options trad
 Providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and Nasdaq offer comprehensive market data, including real-time and historical options trading volume. Their platforms often feature advanced analytics tools for in-depth analysis.
 
 ### Online Brokerages
-Online brokerages such as E*TRADE, TD [Ameritrade](../a/ameritrade.md), and Interactive Brokers provide traders with access to options trading volume data through their trading platforms. These platforms usually come equipped with charting tools, volume alerts, and screening capabilities.
+Online brokerages such as [E*TRADE](../e/e_trade.md), TD [Ameritrade](../a/ameritrade.md), and [Interactive Brokers](../i/interactive_brokers.md) provide traders with access to options trading volume data through their trading platforms. These platforms usually come equipped with charting tools, volume alerts, and screening capabilities.
 
 ### Specialized Software
 Softwares like OptionVue, ORATS, and [Livevol](../l/livevol.md) cater specifically to options traders, offering sophisticated analytics and volume tracking. These tools often provide features like [backtesting](../b/backtesting.md), scanning for [unusual volume](../u/unusual_volume.md), and advanced charting capabilities.

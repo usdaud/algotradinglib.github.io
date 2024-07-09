@@ -16,7 +16,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), the speed and accuracy of
 
 ### Quantitative Strategies
 
-Quantitative strategies use mathematical models to identify trading opportunities. Common methods include statistical [arbitrage](../a/arbitrage.md), quantitative [factor models](../f/factor_models.md), and high-frequency trading (HFT). These strategies heavily rely on historical data and advanced statistical techniques to make predictions.
+[Quantitative strategies](../q/quantitative_strategies_in_trading.md) use [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities. Common methods include statistical [arbitrage](../a/arbitrage.md), quantitative [factor models](../f/factor_models.md), and high-frequency trading (HFT). These strategies heavily rely on historical data and advanced statistical techniques to make predictions.
 
 ### Momentum Strategies
 
@@ -28,7 +28,7 @@ Momentum strategies exploit the hypothesis that assets which have performed well
 
 ### Machine Learning Strategies
 
-Machine learning strategies use artificial intelligence to analyze vast amounts of data and detect patterns that are not apparent to human traders. These strategies continuously learn and adapt, improving their accuracy over time.
+Machine learning strategies use [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze vast amounts of data and detect patterns that are not apparent to human traders. These strategies continuously learn and adapt, improving their accuracy over time.
 
 ### Risk Parity
 
@@ -42,7 +42,7 @@ The foundation of any algorithmic strategy is robust data. Blended strategies re
 
 ### Backtesting and Simulation
 
-Before deploying blended strategies live, rigorous [backtesting](../b/backtesting.md) on historical data is essential. This process involves running the algorithms on past market data to evaluate their performance. Simulation tools allow for stress-testing strategies under various market conditions to ensure they perform as expected.
+Before deploying blended strategies live, rigorous [backtesting](../b/backtesting.md) on historical data is essential. This process involves running the algorithms on past market data to evaluate their performance. [Simulation](../s/simulation_in_trading.md) tools allow for stress-testing strategies under various market conditions to ensure they perform as expected.
 
 ### Execution Algorithms
 
@@ -50,7 +50,7 @@ Before deploying blended strategies live, rigorous [backtesting](../b/backtestin
 
 ### Risk Management
 
-Effective [risk management](../r/risk_management.md) is critical in blended strategies. Techniques such as Value at Risk (VaR), stress testing, and scenario analysis help in understanding the potential risks and implementing measures to mitigate them.
+Effective [risk management](../r/risk_management.md) is critical in blended strategies. Techniques such as Value at Risk (VaR), [stress testing](../s/stress_testing_in_trading.md), and scenario analysis help in understanding the potential risks and implementing measures to mitigate them.
 
 ## Advantages of Blended Strategies
 
@@ -78,7 +78,7 @@ Combining strategies can naturally hedge against adverse market movements. For e
 
 ### Complexity in Design
 
-Designing effective blended strategies is complex. It requires deep knowledge of multiple [trading strategies](../t/trading_strategies.md), data science, and market behavior. The interplay between different strategies must be carefully managed to avoid conflicts.
+Designing effective blended strategies is complex. It requires deep knowledge of multiple [trading strategies](../t/trading_strategies.md), [data science](../d/data_science_in_trading.md), and market behavior. The interplay between different strategies must be carefully managed to avoid conflicts.
 
 ### Computational Resources
 
@@ -96,7 +96,7 @@ The reliability of blended strategies hinges on the quality of data used. Poor q
 
 ### Two Sigma
 
-Two Sigma is a prominent player in the field of blended investment strategies. They use artificial intelligence, machine learning, and distributed computing to develop sophisticated [trading algorithms](../t/trading_algorithms.md).
+Two Sigma is a prominent player in the field of blended investment strategies. They use [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and distributed computing to develop sophisticated [trading algorithms](../t/trading_algorithms.md).
 [Two Sigma](https://www.twosigma.com/)
 
 ### Renaissance Technologies

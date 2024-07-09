@@ -45,7 +45,7 @@ Analysts employ various techniques to assess the yield and performance of zero-c
     - **Duration**: Measures the bond's sensitivity to changes in interest rates, especially important for zero-coupon bonds with long maturities.
     - **Convexity**: Provides a more accurate measure of [interest rate sensitivity](../i/interest_rate_sensitivity.md) by accounting for the curvature in the price-yield relationship.
 
-4. **Scenario Analysis and Stress Testing**:
+4. **Scenario Analysis and [Stress Testing](../s/stress_testing_in_trading.md)**:
     - Evaluates how zero-coupon bonds perform under different economic conditions. This includes assessing the impact of varying interest rates and [economic cycles](../e/economic_cycles.md) on bond prices.
 
 5. **[Comparative Analysis](../c/comparative_analysis.md)**:

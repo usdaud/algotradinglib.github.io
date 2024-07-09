@@ -35,7 +35,7 @@ There are several key strategies to effectively capture option premiums:
 - Mitigate minor declines in stock price.
 
 **Disadvantages:**
-- Limited upside potential.
+- Limited [upside potential](../u/upside_potential_in_trading.md).
 - Risk if the stock declines significantly.
 
 ### 2. Put Selling (Naked Puts)
@@ -121,7 +121,7 @@ Let’s consider a hypothetical example of an algorithm designed to implement a 
 Several companies provide platforms and tools for implementing premium capture strategies. Notable among them are:
 
 ### 1. **Interactive Brokers** [Interactive Brokers](https://www.interactivebrokers.com/)
-Interactive Brokers offers a suite of advanced trading tools, including an options analytics platform that supports premium capture strategies. Their Trader Workstation (TWS) and API allow for sophisticated [algorithmic trading](../a/algorithmic_trading.md).
+[Interactive Brokers](../i/interactive_brokers.md) offers a suite of advanced trading tools, including an options analytics platform that supports premium capture strategies. Their Trader Workstation (TWS) and API allow for sophisticated [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 2. **TD Ameritrade** [TD Ameritrade](https://www.tdameritrade.com/)
 TD [Ameritrade](../a/ameritrade.md)’s [thinkorswim](../t/thinkorswim.md) platform provides extensive resources for developing and [backtesting](../b/backtesting.md) option strategies. Their API also supports [algorithmic trading](../a/algorithmic_trading.md).

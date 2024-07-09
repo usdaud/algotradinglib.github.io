@@ -2,7 +2,7 @@
 
 ### Introduction
 
-[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or black-box trading, leverages mathematical models and automated systems to execute trades in financial markets. By utilizing algorithms — predefined sets of rules and computations — traders can systematically accomplish tasks at speeds and frequencies unachievable by human traders. A critical aspect of this process is the analysis of **return and risk**, as they play essential roles in devising and optimizing [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or black-box trading, leverages [mathematical models](../m/mathematical_models_in_trading.md) and automated systems to execute trades in financial markets. By utilizing algorithms — predefined sets of rules and computations — traders can systematically accomplish tasks at speeds and frequencies unachievable by human traders. A critical aspect of this process is the analysis of **return and risk**, as they play essential roles in devising and optimizing [trading strategies](../t/trading_strategies.md).
 
 ### Return Metrics
 
@@ -70,7 +70,7 @@
 
 ### Advanced Risk Analysis Techniques
 
-1. **Stress Testing**
+1. **[Stress Testing](../s/stress_testing_in_trading.md)**
    - Involves simulating abnormal market conditions to evaluate the robustness of [trading algorithms](../t/trading_algorithms.md).
 2. **Scenario Analysis**
    - Investigates impacts of specific hypothetical events or conditions on [trading strategies](../t/trading_strategies.md).
@@ -86,7 +86,7 @@
 2. **Optimization**
    - Optimization in [algorithmic trading](../a/algorithmic_trading.md) often requires balancing between maximizing returns and minimizing risk.
    - Methods: 
-     - Genetic Algorithms
+     - [Genetic Algorithms](../g/genetic_algorithms_in_trading.md)
      - Particle Swarm Optimization
      - Gradient-Based Methods
 
@@ -99,11 +99,11 @@
 ### Case Studies and Real-World Examples
 
 1. **Renaissance Technologies** ([Website](https://www.rentec.com/))
-   - Known for its Medallion Fund, Renaissance Technologies utilizes highly sophisticated mathematical models for trading, showing extraordinary risk-adjusted returns.
+   - Known for its Medallion Fund, Renaissance Technologies utilizes highly sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for trading, showing extraordinary risk-adjusted returns.
 2. **AQR Capital Management** ([Website](https://www.aqr.com/))
    - Integration of quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies focusing on diversified [risk management](../r/risk_management.md).
 3. **Two Sigma Investments** ([Website](https://www.twosigma.com/))
-   - Combines advanced technology and data science to develop [algorithmic trading](../a/algorithmic_trading.md) strategies with a strong emphasis on controlling risk.
+   - Combines advanced technology and [data science](../d/data_science_in_trading.md) to develop [algorithmic trading](../a/algorithmic_trading.md) strategies with a strong emphasis on controlling risk.
 
 ### Conclusion
 

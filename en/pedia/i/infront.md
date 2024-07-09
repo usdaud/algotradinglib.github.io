@@ -1,7 +1,7 @@
 # Infront
 
 ## Overview
-Infront is a comprehensive financial market solutions provider, offering a suite of products designed for trading, market data, analytics, and [portfolio management](../p/portfolio_management.md). Infront’s platform caters to a wide range of financial professionals, including traders, asset managers, analysts, and advisors, delivering [real-time market data](../r/real-time_market_data.md), advanced analytics, and trading tools to enhance decision-making and operational efficiency.
+Infront is a comprehensive financial market solutions provider, offering a suite of products designed for trading, market data, analytics, and [portfolio management](../p/portfolio_management.md). Infront’s platform caters to a wide range of financial professionals, including traders, asset managers, analysts, and advisors, delivering [real-time market data](../r/real-time_market_data.md), advanced analytics, and trading tools to enhance decision-making and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## Features
 1. **[Real-Time Market Data](../r/real-time_market_data.md)**: Access to real-time data from global exchanges, including equities, bonds, [derivatives](../d/derivatives.md), forex, and commodities.

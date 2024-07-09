@@ -107,7 +107,7 @@ For portfolio managers, these metrics help in balancing risk and return, decidin
 
 ## 5. **Case Study: Two Sigma’s Use of Performance Metrics**
 
-Two Sigma Investments is a prominent quantitative hedge fund that employs data science and technology to drive investment strategies. The firm relies heavily on quantitative [performance metrics](../p/performance_metrics.md) to evaluate its algorithms. More information can be found on their [official website](https://www.twosigma.com).
+Two Sigma Investments is a prominent quantitative hedge fund that employs [data science](../d/data_science_in_trading.md) and technology to drive investment strategies. The firm relies heavily on quantitative [performance metrics](../p/performance_metrics.md) to evaluate its algorithms. More information can be found on their [official website](https://www.twosigma.com).
 
 ## 6. **Challenges and Limitations**
 

@@ -62,7 +62,7 @@ This approach is based on the assumption that prices will continue to move in th
    The market can change direction swiftly, and momentum traders can face significant losses if caught on the wrong side of a trade.
 
 2. **Whipsaws:**
-   Rapid price movements can trigger false signals, leading to whipsaw trades where trades enter and exit positions frequently with no profit.
+   Rapid price movements can trigger [false signals](../f/false_signals_in_trading.md), leading to whipsaw trades where trades enter and exit positions frequently with no profit.
 
 3. **Slippage:**
    The difference between the expected price of a trade and the actual executed price can impact profits, especially in fast-moving markets.

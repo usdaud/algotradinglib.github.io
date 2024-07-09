@@ -8,7 +8,7 @@ FXCM (Forex Capital Markets) is a leading online provider of [foreign exchange (
 
 2. **CFD Trading**: FXCM offers Contracts for Difference (CFDs) on various asset classes including indices, commodities, cryptocurrencies, and more, allowing traders to speculate on the price movements of a wide range of instruments.
 
-3. **Trading Platforms**: FXCM offers several advanced trading platforms, including Trading Station, MetaTrader 4 (MT4), [NinjaTrader](../n/ninjatrader.md), and ZuluTrade. These platforms provide robust charting tools, automated trading capabilities, and various order types.
+3. **Trading Platforms**: FXCM offers several advanced trading platforms, including Trading Station, MetaTrader 4 (MT4), [NinjaTrader](../n/ninjatrader.md), and ZuluTrade. These platforms provide robust charting tools, automated trading capabilities, and various [order types](../o/order_types_in_trading.md).
 
 4. **API Trading**: FXCM provides API access, allowing developers to create custom trading applications and algorithms. The firm supports REST, FIX, and Java APIs.
 

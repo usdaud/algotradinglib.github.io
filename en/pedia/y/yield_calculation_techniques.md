@@ -135,7 +135,7 @@ Several companies and online platforms provide tools and resources for yield cal
 
 - **[Morningstar](../m/morningstar.md)**: [Morningstar.com](https://www.morningstar.com)
 - **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg.com](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Yahoo Finance**: [finance.yahoo.com](https://finance.yahoo.com)
+- **[Yahoo Finance](../y/yahoo_finance.md)**: [finance.yahoo.com](https://finance.yahoo.com)
 
 These platforms offer calculators, real-time data, and analytical tools essential for professionals engaged in [yield analysis](../y/yield_analysis.md) and algotrading.
 

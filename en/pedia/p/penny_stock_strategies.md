@@ -1,6 +1,6 @@
 # Penny Stock Strategies
 
-[Penny stocks](../p/penny_stocks.md) are shares of small public companies that trade at low prices per share, typically below $5. These stocks are often traded on over-the-counter (OTC) markets rather than major exchanges. As a result, investing in [penny stocks](../p/penny_stocks.md) can be quite risky but also offers the potential for significant returns if the right strategies are employed. Due to their low price, [penny stocks](../p/penny_stocks.md) exhibit high volatility, which attracts a variety of traders, including algorithmic traders. [Algorithmic trading](../a/algorithmic_trading.md), or algotrading, involves the use of automated software to execute trades based on predefined criteria. In this context, developing effective strategies for [penny stocks](../p/penny_stocks.md) can be crucial for maximizing returns while minimizing risk.
+[Penny stocks](../p/penny_stocks.md) are shares of small public companies that trade at low prices per share, typically below $5. These stocks are often traded on [over-the-counter (OTC) markets](../o/over-the-counter_markets.md) rather than major exchanges. As a result, investing in [penny stocks](../p/penny_stocks.md) can be quite risky but also offers the potential for significant returns if the right strategies are employed. Due to their low price, [penny stocks](../p/penny_stocks.md) exhibit high volatility, which attracts a variety of traders, including algorithmic traders. [Algorithmic trading](../a/algorithmic_trading.md), or algotrading, involves the use of automated software to execute trades based on predefined criteria. In this context, developing effective strategies for [penny stocks](../p/penny_stocks.md) can be crucial for maximizing returns while minimizing risk.
 
 ## Understanding Penny Stocks
 
@@ -49,7 +49,7 @@ Scalping is a high-frequency trading strategy that involves making numerous trad
 
 - **Small Gains, High Frequency**: The goal is to make small profits on each trade but execute many trades throughout the day.
 - **Technology**: Utilize advanced trading platforms with low latency and fast execution speeds. Scalping often requires sophisticated tools and algorithms to be effective.
-- **Tight Spreads**: Since the profit margins per trade are small, tight spreads are crucial. Traders often focus on stocks with high liquidity and tight bid-ask spreads.
+- **Tight Spreads**: Since the [profit margins](../p/profit_margins_in_trading.md) per trade are small, tight spreads are crucial. Traders often focus on stocks with high liquidity and tight bid-ask spreads.
 - **Discipline**: Scalping requires a disciplined approach and the ability to make quick decisions. Emotional trading can lead to significant losses in this strategy.
 
 ### 5. **Fundamental Analysis**
@@ -76,14 +76,14 @@ Contrarian investing involves taking a position opposite to the prevailing marke
 
 ### 1. **Statistical Arbitrage**
 
-Statistical [arbitrage](../a/arbitrage.md) involves using mathematical models to identify price discrepancies between related stocks:
+Statistical [arbitrage](../a/arbitrage.md) involves using [mathematical models](../m/mathematical_models_in_trading.md) to identify price discrepancies between related stocks:
 
 - **Pair Trading**: Identify two [penny stocks](../p/penny_stocks.md) that historically move together (i.e., highly correlated). When the price relationship diverges, the algorithm buys the underperforming stock and sells the outperforming one, betting that the prices will converge.
 - **[Mean Reversion](../m/mean_reversion.md)**: Develop algorithms that identify statistical anomalies where a stock deviates significantly from its historical mean. The strategy then takes a position expecting the price to revert to its mean.
 
 ### 2. **Sentiment Analysis**
 
-[Sentiment analysis](../s/sentiment_analysis.md) uses natural language processing (NLP) to analyze news articles, social media posts, and other text data to gauge market sentiment:
+[Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze news articles, social media posts, and other text data to gauge market sentiment:
 
 - **News Scraping**: Develop algorithms to scrape news articles related to specific [penny stocks](../p/penny_stocks.md). Sentiment scores can be assigned to each article to determine overall sentiment.
 - **Social Media Monitoring**: Use [sentiment analysis](../s/sentiment_analysis.md) tools to monitor platforms like Twitter, Reddit, or stock message boards. This can help identify trending stocks or gauge public opinion on a particular stock.

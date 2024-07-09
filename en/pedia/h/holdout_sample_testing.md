@@ -41,7 +41,7 @@ A more sophisticated variation where the data is split into k subsets (folds). T
 ### Common Metrics
 - **Accuracy:** Proportion of correct predictions.
 - **Precision and Recall:** Measures related to the correctness of positive predictions.
-- **F1 Score:** Harmonic mean of precision and recall, balancing both metrics.
+- **F1 Score:** [Harmonic mean](../h/harmonic_mean_in_trading.md) of precision and recall, balancing both metrics.
 - **[Sharpe Ratio](../s/sharpe_ratio.md):** Measures the strategy’s performance relative to risk.
 
 ### Financial Metrics

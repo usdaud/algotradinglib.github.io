@@ -47,7 +47,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves using data-driven techniques
 IPOs are often accompanied by high volatility, which can either deter or attract investors. Algotrading facilitates [real-time volatility](../r/real-time_volatility.md) analysis, enabling traders to capitalize on short-term price fluctuations.
 
 #### Implementation:
-- **Volatility Indicators**: Use indicators like [Bollinger Bands](../b/bollinger_bands.md), Average True Range (ATR), or Volatility Index (VIX) in [trading algorithms](../t/trading_algorithms.md).
+- **Volatility Indicators**: Use indicators like [Bollinger Bands](../b/bollinger_bands.md), [Average True Range](../a/average_true_range_(atr).md) (ATR), or Volatility Index (VIX) in [trading algorithms](../t/trading_algorithms.md).
 - **Options Strategies**: Develop [options trading strategies](../o/options_trading_strategies.md) to hedge or speculate based on expected volatility.
 
 #### 5. Order Book Analysis
@@ -71,7 +71,7 @@ Price discovery is a critical element of an IPO. Algorithms can adopt several pr
 Algotrading can help detect suspicious activities that might indicate insider trading. By analyzing trading volumes and patterns, these algorithms can identify irregularities before and after an IPO.
 
 #### Implementation:
-- **[Pattern Recognition](../p/pattern_recognition.md)**: Employ machine learning algorithms to identify [unusual trading patterns](../u/unusual_trading_patterns.md).
+- **[Pattern Recognition](../p/pattern_recognition.md)**: Employ machine [learning algorithms](../l/learning_algorithms_in_trading.md) to identify [unusual trading patterns](../u/unusual_trading_patterns.md).
 - **[Anomaly Detection](../a/anomaly_detection.md) Tools**: Use tools like Scikit-Learn or TensorFlow to build models for [anomaly detection](../a/anomaly_detection.md).
 
 ### Companies Offering Algotrading Solutions for IPOs
@@ -87,7 +87,7 @@ Website: [Virtu Financial](https://www.virtu.com)
 Website: [QuantConnect](https://www.quantconnect.com)
 
 #### 3. **Interactive Brokers**
-Interactive Brokers offers advanced trading technology and algorithms that support IPO [trading strategies](../t/trading_strategies.md).
+[Interactive Brokers](../i/interactive_brokers.md) offers advanced trading technology and algorithms that support IPO [trading strategies](../t/trading_strategies.md).
 Website: [Interactive Brokers](https://www.interactivebrokers.com)
 
 #### 4. **Trading Technologies**
@@ -95,7 +95,7 @@ Trading Technologies specializes in sophisticated trading solutions, including a
 Website: [Trading Technologies](https://www.tradingtechnologies.com)
 
 #### 5. **Kavout**
-Kavout leverages artificial intelligence and machine learning to provide [trading signals](../t/trading_signals.md) and predictions, beneficial for IPO strategies.
+Kavout leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to provide [trading signals](../t/trading_signals.md) and predictions, beneficial for IPO strategies.
 Website: [Kavout](https://www.kavout.com)
 
 ### Risks and Challenges in Algotrading for IPOs

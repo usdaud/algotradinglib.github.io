@@ -6,7 +6,7 @@ Hypothesis Generation is a crucial initial step in the [algorithmic trading](../
 
 ### 1.1 What is Hypothesis Generation?
 
-Hypothesis Generation in [algorithmic trading](../a/algorithmic_trading.md) is the process of creating potential predictive models or [trading strategies](../t/trading_strategies.md) based on market observations, historical data, and financial theories. These hypotheses aim to uncover inefficiencies or patterns within the financial markets that can be exploited for profit.
+Hypothesis Generation in [algorithmic trading](../a/algorithmic_trading.md) is the process of creating potential [predictive models](../p/predictive_models_in_trading.md) or [trading strategies](../t/trading_strategies.md) based on market observations, historical data, and financial theories. These hypotheses aim to uncover inefficiencies or patterns within the financial markets that can be exploited for profit.
 
 ### 1.2 Importance of Hypothesis Generation
 
@@ -32,7 +32,7 @@ Based on the insights gained from EDA, traders can formulate a hypothesis. For e
 
 ### 2.5 Testing the Hypothesis
 
-The hypothesis is then tested using historical data. This involves creating a model or simulation that applies the hypothesis to past market conditions to see how well it predicts the outcomes.
+The hypothesis is then tested using historical data. This involves creating a model or [simulation](../s/simulation_in_trading.md) that applies the hypothesis to past market conditions to see how well it predicts the outcomes.
 
 ### 2.6 Refinement and Iteration
 
@@ -46,7 +46,7 @@ Statistical methods are essential tools in hypothesis generation. Techniques suc
 
 ### 3.2 Machine Learning
 
-Machine learning algorithms can be extremely useful in generating and testing hypotheses. These algorithms can uncover complex and non-linear relationships within large datasets that might be missed by traditional statistical methods.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be extremely useful in generating and testing hypotheses. These algorithms can uncover complex and non-linear relationships within large datasets that might be missed by traditional statistical methods.
 
 ### 3.3 Technical Indicators
 

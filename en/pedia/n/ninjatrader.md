@@ -9,7 +9,7 @@ NinjaTrader is a powerful trading platform designed for active traders and inves
 3. **Automated Trading**: Supports automated [trading strategies](../t/trading_strategies.md) through NinjaScript, a C# based programming language.
 4. **[Backtesting](../b/backtesting.md) and Optimization**: Robust [backtesting](../b/backtesting.md) engine to test [trading strategies](../t/trading_strategies.md) using historical data and optimize strategy parameters.
 5. **Real-Time Data**: Integration with multiple market data providers for real-time quotes and historical data.
-6. **Order Execution**: Advanced order execution capabilities with various order types and direct market access.
+6. **Order Execution**: Advanced order execution capabilities with various [order types](../o/order_types_in_trading.md) and direct market access.
 7. **Market Replay**: Ability to replay historical market data tick-by-tick to practice trading and analyze past market conditions.
 8. **[Simulated Trading](../s/simulated_trading.md)**: [Simulated trading](../s/simulated_trading.md) environment to test strategies and practice trading without risking real money.
 9. **Multi-Broker Support**: Compatible with numerous brokers for seamless order execution and account management.
@@ -26,7 +26,7 @@ NinjaTrader is a powerful trading platform designed for active traders and inves
 ## Integrations
 NinjaTrader integrates with a variety of brokers, data providers, and third-party services to offer a seamless trading experience. Some notable integrations include:
 
-- **Brokerage Firms**: Direct integration with brokers such as Interactive Brokers, TD [Ameritrade](../a/ameritrade.md), and NinjaTrader Brokerage for order execution and account management.
+- **Brokerage Firms**: Direct integration with brokers such as [Interactive Brokers](../i/interactive_brokers.md), TD [Ameritrade](../a/ameritrade.md), and [NinjaTrader Brokerage](../n/ninjatrader_brokerage.md) for order execution and account management.
 - **Market Data Providers**: Access to real-time and historical market data from providers like [Kinetick](../k/kinetick.md), [CQG](../c/cqg.md), and [Rithmic](../r/rithmic.md).
 - **Third-Party Add-Ons**: Support for numerous third-party add-ons and extensions to enhance the platform’s capabilities.
 - **APIs**: APIs for custom integrations and the development of proprietary tools and strategies.

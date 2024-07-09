@@ -19,7 +19,7 @@ Dynamic [Asset Allocation](../a/asset_allocation.md) (DAA) is an investment stra
 3. **[Quantitative Models](../q/quantitative_models.md)**:
     - **[Mean-Variance Optimization](../m/mean-variance_optimization.md)**: Balances expected returns against risk.
     - **[Factor Models](../f/factor_models.md)**: Incorporate economic factors like interest rates and inflation.
-    - **Machine Learning Algorithms**: Use historical data to predict future market movements.
+    - **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Use historical data to predict future market movements.
 
 4. **[Risk Management](../r/risk_management.md)**:
     - **Volatility**: Measures the degree of variation in asset prices.
@@ -82,7 +82,7 @@ Dynamic [Asset Allocation](../a/asset_allocation.md) (DAA) is an investment stra
 4. **Technology and Tools**:
     - **Data Analytics**: Utilize advanced data analytics for better market insights.
     - **Trading Platforms**: Use sophisticated trading platforms for efficient [portfolio management](../p/portfolio_management.md).
-    - **Artificial Intelligence (AI)**: Employ AI and machine learning for [predictive analytics](../p/predictive_analytics.md) and automated decision-making.
+    - **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: Employ AI and machine learning for [predictive analytics](../p/predictive_analytics.md) and automated decision-making.
 
 ### Advantages of Dynamic Asset Allocation
 
@@ -97,7 +97,7 @@ Dynamic [Asset Allocation](../a/asset_allocation.md) (DAA) is an investment stra
 1. **[Market Timing](../m/market_timing.md) Risk**: Risk of making incorrect market predictions leading to suboptimal adjustments.
 2. **Higher Costs**: Frequent trading and adjustments can result in higher transaction costs.
 3. **Complexity**: Requires sophisticated tools, models, and expertise to implement effectively.
-4. **Behavioral Biases**: Investors may be influenced by emotional biases, leading to poor decision-making.
+4. **[Behavioral Biases](../b/behavioral_biases_in_trading.md)**: Investors may be influenced by emotional biases, leading to poor decision-making.
 5. **Regulatory Considerations**: Compliance with regulatory requirements for frequent trading and adjustments.
 
 ### Conclusion

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Post-trade analysis is an essential component of the trading lifecycle, particularly in [algorithmic trading](../a/algorithmic_trading.md), where large volumes of orders are executed at high speeds. The process involves examining and interpreting trade data after transactions have taken place. This analysis aims to assess the performance of [trading strategies](../t/trading_strategies.md), compliance with regulatory standards, operational efficiency, and identify areas for improvement. Essential metrics and methodologies are employed to gain insights into how well the [trading algorithms](../t/trading_algorithms.md) performed, and the results are used to fine-tune future trading decisions.
+Post-trade analysis is an essential component of the trading lifecycle, particularly in [algorithmic trading](../a/algorithmic_trading.md), where large volumes of orders are executed at high speeds. The process involves examining and interpreting trade data after transactions have taken place. This analysis aims to assess the performance of [trading strategies](../t/trading_strategies.md), compliance with regulatory standards, [operational efficiency](../o/operational_efficiency_in_trading.md), and identify areas for improvement. Essential metrics and methodologies are employed to gain insights into how well the [trading algorithms](../t/trading_algorithms.md) performed, and the results are used to fine-tune future trading decisions.
 
 ## Core Components of Post-Trade Analysis
 
@@ -52,7 +52,7 @@ The use of advanced [data visualization](../d/data_visualization.md) tools can g
 
 ### Machine Learning and AI
 
-Artificial Intelligence (AI) and Machine Learning (ML) models are increasingly being used for post-trade analysis to identify patterns, predict outcomes, and provide insights that traditional methods may miss. 
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) models are increasingly being used for post-trade analysis to identify patterns, predict outcomes, and provide insights that traditional methods may miss. 
 
 ### Analytical Platforms
 
@@ -71,4 +71,4 @@ While post-trade analysis is indispensable, it also comes with its set of challe
 
 ## Conclusion
 
-Post-trade analysis plays a pivotal role in the trading ecosystem, especially within the context of [algorithmic trading](../a/algorithmic_trading.md). It allows firms to scrutinize every aspect of their trading activity, optimize performance, ensure compliance, manage risks, and enhance operational efficiency. Leveraging advanced analytics, machine learning, and specialized platforms can significantly amplify the effectiveness of post-trade analysis, positioning firms to achieve better trading outcomes and maintain a competitive edge in the dynamic market landscape. 
+Post-trade analysis plays a pivotal role in the trading ecosystem, especially within the context of [algorithmic trading](../a/algorithmic_trading.md). It allows firms to scrutinize every aspect of their trading activity, optimize performance, ensure compliance, manage risks, and enhance [operational efficiency](../o/operational_efficiency_in_trading.md). Leveraging advanced analytics, machine learning, and specialized platforms can significantly amplify the effectiveness of post-trade analysis, positioning firms to achieve better trading outcomes and maintain a competitive edge in the dynamic market landscape. 

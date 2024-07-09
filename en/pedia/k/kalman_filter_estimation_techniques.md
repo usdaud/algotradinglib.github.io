@@ -2,11 +2,11 @@
 
 ### Introduction
 
-The Kalman filter, named after Rudolf E. Kálmán, is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, to produce estimates of unknown variables. The filter is widely utilized in fields such as signal processing, control systems, and econometrics.
+The [Kalman filter](../k/kalman_filter_in_trading.md), named after Rudolf E. Kálmán, is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, to produce estimates of unknown variables. The filter is widely utilized in fields such as [signal processing](../s/signal_processing_in_trading.md), control systems, and [econometrics](../e/econometrics_in_trading.md).
 
 ### The Kalman Filter Model
 
-Fundamentally, a Kalman filter works on the principle of producing an optimal estimate of the system's state by iteratively updating predictions with new measurements.
+Fundamentally, a [Kalman filter](../k/kalman_filter_in_trading.md) works on the principle of producing an optimal estimate of the system's state by iteratively updating predictions with new measurements.
 
 1. **State Space Representation**
    - **State Vector**: Denoted as `x_k`, it encapsulates the quantities of interest.
@@ -24,7 +24,7 @@ Fundamentally, a Kalman filter works on the principle of producing an optimal es
 
 ### Kalman Filter Algorithm
 
-The Kalman filter algorithm consists of two phases: prediction and update.
+The [Kalman filter](../k/kalman_filter_in_trading.md) algorithm consists of two phases: prediction and update.
 
 1. **Prediction Phase**
    - **Predicted (a priori) state estimate**: `\hat{x}_{k|k-1} = F * \hat{x}_{k-1|k-1} + B * u_k`
@@ -33,7 +33,7 @@ The Kalman filter algorithm consists of two phases: prediction and update.
 2. **Update Phase**
    - **Measurement Residual**: `y_k = z_k - H * \hat{x}_{k|k-1}`
    - **Residual Covariance**: `S_k = H * P_{k|k-1} * H^T + R`
-   - **Kalman Gain**: `K_k = P_{k|k-1} * H^T * S_k^{-1}`
+   - **[Kalman Gain](../k/kalman_gain_in_trading.md)**: `K_k = P_{k|k-1} * H^T * S_k^{-1}`
    - **Updated (a posteriori) state estimate**: `\hat{x}_{k|k} = \hat{x}_{k|k-1} + K_k * y_k`
    - **Updated (a posteriori) estimate covariance**: `P_{k|k} = (I - K_k * H) * P_{k|k-1}`
 
@@ -43,12 +43,12 @@ Kalman filters can accommodate real-time data and recursively update estimates, 
 
 ### Extended and Unscented Kalman Filters
 
-The classic Kalman filter assumes linearity in the process and measurement models. However, many practical systems are nonlinear, leading to adaptations like:
+The classic [Kalman filter](../k/kalman_filter_in_trading.md) assumes linearity in the process and measurement models. However, many practical systems are nonlinear, leading to adaptations like:
 
-1. **Extended Kalman Filter (EKF)**
+1. **Extended [Kalman Filter](../k/kalman_filter_in_trading.md) (EKF)**
    - Linearizes nonlinear models around the current estimate.
 
-2. **Unscented Kalman Filter (UKF)**
+2. **Unscented [Kalman Filter](../k/kalman_filter_in_trading.md) (UKF)**
    - Utilizes deterministic sampling to capture the mean and covariance more accurately.
 
 ### Applications in Algorithmic Trading
@@ -84,11 +84,11 @@ The application of Kalman filters in [trading strategies](../t/trading_strategie
 
 ### Conclusion
 
-The Kalman filter's adaptability, recursive nature, and proficient handling of uncertainty make it an invaluable tool in [algorithmic trading](../a/algorithmic_trading.md). Understanding its mechanisms, extensions, and practical implementation nuances is crucial for deploying robust financial models.
+The [Kalman filter](../k/kalman_filter_in_trading.md)'s adaptability, recursive nature, and proficient handling of [uncertainty](../u/uncertainty_in_trading.md) make it an invaluable tool in [algorithmic trading](../a/algorithmic_trading.md). Understanding its mechanisms, extensions, and practical implementation nuances is crucial for deploying robust financial models.
 
 ### References
 
-For further reading and a deeper dive into advanced Kalman filter techniques and applications in financial markets, consider exploring the following resources:
+For further reading and a deeper dive into advanced [Kalman filter](../k/kalman_filter_in_trading.md) techniques and applications in financial markets, consider exploring the following resources:
 
 - [Further elucidation on Kalman Filter](https://www.kalmanfilter.net)
 - [Application in Algorithmic Trading](https://www.quantconnect.com/tutorials/strategies/using-a-kalman-filter)

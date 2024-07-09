@@ -1,18 +1,18 @@
 # Kurtosis of Returns
 
-In the realm of financial markets and trading, understanding the distribution of returns is fundamental to assessing risk and strategizing investments. One key statistical measure used in this domain is kurtosis, specifically the kurtosis of returns. This measure provides insight into the tails of the return distribution, indicating the likelihood of extreme outcomes relative to a normal distribution. Kurtosis is particularly important in [algorithmic trading](../a/algorithmic_trading.md) where models heavily depend on accurate statistical assumptions of return distributions.
+In the realm of financial markets and trading, understanding the distribution of returns is fundamental to assessing risk and strategizing investments. One key statistical measure used in this domain is kurtosis, specifically the kurtosis of returns. This measure provides insight into the tails of the return distribution, indicating the likelihood of extreme outcomes relative to a [normal distribution](../n/normal_distribution_in_trading.md). Kurtosis is particularly important in [algorithmic trading](../a/algorithmic_trading.md) where models heavily depend on accurate statistical assumptions of return distributions.
 
 ### Definition and Types
 
-Kurtosis is a statistical measure that describes the shape of a distribution's tails in terms of their heaviness and sharpness compared to a normal distribution. There are three types of kurtosis:
+Kurtosis is a statistical measure that describes the shape of a distribution's tails in terms of their heaviness and sharpness compared to a [normal distribution](../n/normal_distribution_in_trading.md). There are three types of kurtosis:
  
-1. **Mesokurtic**: A distribution with kurtosis similar to that of a normal distribution. It has a kurtosis value close to zero.
+1. **Mesokurtic**: A distribution with kurtosis similar to that of a [normal distribution](../n/normal_distribution_in_trading.md). It has a kurtosis value close to zero.
 2. **Leptokurtic**: A distribution with heavy tails, indicating a higher probability of extreme outcomes. It has a positive kurtosis value. 
-3. **Platykurtic**: A distribution with light tails, suggesting fewer extreme outcomes compared to a normal distribution. It has a negative kurtosis value.
+3. **Platykurtic**: A distribution with light tails, suggesting fewer extreme outcomes compared to a [normal distribution](../n/normal_distribution_in_trading.md). It has a negative kurtosis value.
 
 ### Formula and Calculation
 
-The kurtosis of a dataset is calculated using the fourth central moment divided by the square of the variance, typically standardized by subtracting 3, the kurtosis of the normal distribution:
+The kurtosis of a dataset is calculated using the fourth central moment divided by the square of the variance, typically standardized by subtracting 3, the kurtosis of the [normal distribution](../n/normal_distribution_in_trading.md):
 
 \[ \text{Kurtosis} = \frac{n(n+1)}{(n-1)(n-2)(n-3)} \sum_{i=1}^{n} \left( \frac{x_i - \bar{x}}{s} \right)^4 - \frac{3(n-1)^2}{(n-2)(n-3)} \]
 

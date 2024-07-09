@@ -70,13 +70,13 @@ Incorporating divergence into [trading strategies](../t/trading_strategies.md) c
 
 1. **Lagging Indicator**: The MACD is a lagging indicator, meaning it is based on past price action. This can sometimes result in delayed signals, causing traders to miss early entry or exit points.
    
-2. **Whipsaws**: In choppy or sideways markets, the MACD can produce false signals and whipsaws, leading to potential losses if not used in conjunction with other indicators.
+2. **Whipsaws**: In choppy or sideways markets, the MACD can produce [false signals](../f/false_signals_in_trading.md) and whipsaws, leading to potential losses if not used in conjunction with other indicators.
 
 ## Using MACD in Conjunction with Other Indicators
 
 To mitigate some of its limitations, many traders use the MACD in conjunction with other [technical indicators](../t/technical_indicators.md) and analysis techniques to confirm signals and improve trading accuracy. Common complementary tools include:
 
-1. **Relative Strength Index (RSI)**: The RSI is a momentum oscillator that measures overbought and oversold conditions. Combining MACD with RSI can help filter out false signals and enhance trading decisions.
+1. **Relative Strength Index (RSI)**: The RSI is a momentum oscillator that measures overbought and oversold conditions. Combining MACD with RSI can help filter out [false signals](../f/false_signals_in_trading.md) and enhance trading decisions.
 
 2. **Moving Averages**: Using longer-term moving averages alongside MACD can help confirm trend direction and add a layer of [trend analysis](../t/trend_analysis.md).
 

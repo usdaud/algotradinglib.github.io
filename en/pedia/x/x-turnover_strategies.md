@@ -2,7 +2,7 @@
 
 ### Introduction to Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading or automated trading, involves using pre-programmed trading instructions to execute orders at speeds and frequencies that are impossible for a human trader. These instructions are based on a wide range of variables such as timing, price, volume, and other mathematical models. While basic strategies might react to price movements, more advanced algorithms utilize concepts such as X-[turnover strategies](../t/turnover_strategies.md) to optimize their efficacy.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading or automated trading, involves using pre-programmed trading instructions to execute orders at speeds and frequencies that are impossible for a human trader. These instructions are based on a wide range of variables such as timing, price, volume, and other [mathematical models](../m/mathematical_models_in_trading.md). While basic strategies might react to price movements, more advanced algorithms utilize concepts such as X-[turnover strategies](../t/turnover_strategies.md) to optimize their efficacy.
 
 ### What are X-Turnover Strategies?
 
@@ -78,7 +78,7 @@ Access to [real-time market data](../r/real-time_market_data.md) is crucial for 
 
 ##### Company Using Advanced Technology for X-Turnover
 
-[Two Sigma](https://www.twosigma.com) employs sophisticated machine learning algorithms and big data analytics to implement its [trading strategies](../t/trading_strategies.md), effectively managing both high and low-turnover portfolios.
+[Two Sigma](https://www.twosigma.com) employs sophisticated machine [learning algorithms](../l/learning_algorithms_in_trading.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to implement its [trading strategies](../t/trading_strategies.md), effectively managing both high and low-turnover portfolios.
 
 ### Regulatory and Ethical Considerations
 
@@ -98,9 +98,9 @@ The future of X-[turnover strategies](../t/turnover_strategies.md) in [algorithm
 
 #### Innovations on the Horizon
 
-- **Quantum Computing**: Quantum computing holds the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by performing complex computations at unprecedented speeds.
+- **[Quantum Computing](../q/quantum_computing_in_trading.md)**: [Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by performing complex computations at unprecedented speeds.
   
-- **Blockchain Technology**: Transparent and immutable ledger systems can reduce fraud and increase the trustworthiness of [trading algorithms](../t/trading_algorithms.md).
+- **[Blockchain](../b/blockchain_in_trading.md) Technology**: Transparent and immutable ledger systems can reduce fraud and increase the trustworthiness of [trading algorithms](../t/trading_algorithms.md).
 
 ##### Company Innovating in Algorithmic Trading
 

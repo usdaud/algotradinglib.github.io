@@ -46,7 +46,7 @@ In the sphere of [algorithmic trading](../a/algorithmic_trading.md), capturing a
 
 1. **[QuantConnect](../q/quantconnect.md)** - This is a popular [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development of strategies in Python and C#. It has a comprehensive library for options data and analytics.
 2. **[QuantLib](../q/quantlib.md)** - An open-source library for quantitive finance that provides extensive tools for options pricing, [risk management](../r/risk_management.md), and Greeks calculations.
-3. **Interactive Brokers** - Offers a suite of advanced tools and APIs for options trading, including real-time data and analytics that can be integrated into an [algorithmic trading](../a/algorithmic_trading.md) system. [Interactive Brokers](https://www.interactivebrokers.com)
+3. **[Interactive Brokers](../i/interactive_brokers.md)** - Offers a suite of advanced tools and APIs for options trading, including real-time data and analytics that can be integrated into an [algorithmic trading](../a/algorithmic_trading.md) system. [Interactive Brokers](https://www.interactivebrokers.com)
 
 ## Case Studies and Use Cases
 
@@ -84,4 +84,4 @@ Experienced traders might employ advanced strategies that exploit long [Gamma ex
 
 ## Conclusion
 
-Long [Gamma exposure](../g/gamma_exposure.md) presents numerous opportunities and challenges for options traders. In the context of [algorithmic trading](../a/algorithmic_trading.md), such strategies require sophisticated models, real-time data analytics, and automated execution capabilities to manage positions dynamically and profit from market volatility. By leveraging platforms like [QuantConnect](../q/quantconnect.md), [QuantLib](../q/quantlib.md), and Interactive Brokers, algorithmic traders can effectively implement and manage long Gamma strategies, optimizing their risk-reward balance in volatile markets.
+Long [Gamma exposure](../g/gamma_exposure.md) presents numerous opportunities and challenges for options traders. In the context of [algorithmic trading](../a/algorithmic_trading.md), such strategies require sophisticated models, real-time data analytics, and automated execution capabilities to manage positions dynamically and profit from market volatility. By leveraging platforms like [QuantConnect](../q/quantconnect.md), [QuantLib](../q/quantlib.md), and [Interactive Brokers](../i/interactive_brokers.md), algorithmic traders can effectively implement and manage long Gamma strategies, optimizing their risk-reward balance in volatile markets.

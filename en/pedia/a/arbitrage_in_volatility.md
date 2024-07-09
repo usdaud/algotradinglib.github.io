@@ -44,11 +44,11 @@ Modern [algorithmic trading](../a/algorithmic_trading.md) increasingly relies on
 
 ### Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com/) is renowned for its use of sophisticated mathematical models and algorithms in trading. The firm employs a variety of volatility [arbitrage](../a/arbitrage.md) strategies as part of its broader [quantitative trading](../q/quantitative_trading.md) programs.
+[Renaissance Technologies](https://www.rentec.com/) is renowned for its use of sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms in trading. The firm employs a variety of volatility [arbitrage](../a/arbitrage.md) strategies as part of its broader [quantitative trading](../q/quantitative_trading.md) programs.
 
 ### Two Sigma
 
-[Two Sigma](https://www.twosigma.com/) is another major player that leverages technology and data science for trading, including volatility [arbitrage](../a/arbitrage.md). They use advanced data modeling and machine learning techniques to identify and exploit market inefficiencies.
+[Two Sigma](https://www.twosigma.com/) is another major player that leverages technology and [data science](../d/data_science_in_trading.md) for trading, including volatility [arbitrage](../a/arbitrage.md). They use advanced data modeling and machine learning techniques to identify and exploit market inefficiencies.
 
 ### Citadel LLC
 

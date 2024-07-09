@@ -61,10 +61,10 @@ The Bellman equations provide recursive relationships for value functions, essen
 \[ Q^\pi(s, a) = R(s, a) + \gamma \sum_{s' \in S} P(s' | s, a) \sum_{a' \in A} \pi(a'|s') Q^\pi(s', a') \]
 
 ## Solution Methods
-There are several methods for finding optimal policies in MDPs, categorized into dynamic programming, Monte Carlo, and temporal difference methods.
+There are several methods for finding optimal policies in MDPs, categorized into [dynamic programming](../d/dynamic_programming_in_trading.md), Monte Carlo, and temporal difference methods.
 
 ### Dynamic Programming
-Dynamic programming methods leverage the Bellman equations to iteratively improve value estimates and policies. Key algorithms include:
+[Dynamic programming](../d/dynamic_programming_in_trading.md) methods leverage the Bellman equations to iteratively improve value estimates and policies. Key algorithms include:
 
 #### Value Iteration
 Value iteration repeatedly updates the state value function until it converges to the optimal value function.
@@ -89,7 +89,7 @@ First-Visit Monte Carlo updates the value function based on the first occurrence
 Every-Visit Monte Carlo updates the value function based on every occurrence of each state or state-action pair in an episode.
 
 ### Temporal Difference (TD) Learning
-Temporal difference methods combine the ideas of dynamic programming and [Monte Carlo methods](../m/monte_carlo_methods.md). TD learning updates value estimates based on the difference (temporal difference) between consecutive value estimates.
+Temporal difference methods combine the ideas of [dynamic programming](../d/dynamic_programming_in_trading.md) and [Monte Carlo methods](../m/monte_carlo_methods.md). TD learning updates value estimates based on the difference (temporal difference) between consecutive value estimates.
 
 #### TD(0)
 TD(0) is the simplest form, updating the value function using a single step lookahead.
@@ -107,7 +107,7 @@ SARSA is an on-policy TD control algorithm that updates the action-value functio
 \[ Q(s_t, a_t) \leftarrow Q(s_t, a_t) + \alpha \left[ R_{t+1} + \gamma Q(s_{t+1}, a_{t+1}) - Q(s_t, a_t) \right] \]
 
 ## Applications in Algorithmic Trading
-MDPs have significant applications in [algorithmic trading](../a/algorithmic_trading.md), where agents must make sequential decisions under uncertainty to maximize returns. 
+MDPs have significant applications in [algorithmic trading](../a/algorithmic_trading.md), where agents must make sequential decisions under [uncertainty](../u/uncertainty_in_trading.md) to maximize returns. 
 
 ### Optimal Execution
 One of the key applications is optimal trade execution, wherein an agent determines the best times and quantities to trade to minimize transaction costs and market impact.
@@ -122,4 +122,4 @@ Agents can use MDPs to design optimal market-making strategies, setting bid-ask 
 Reinforcement learning, encompassing many MDP solution methods, is used for developing sophisticated [trading algorithms](../t/trading_algorithms.md). Platforms like [Alpaca](https://alpaca.markets/) and [QuantConnect](https://www.quantconnect.com/) provide environments for testing and deploying these strategies.
 
 ## Conclusion
-Markov Decision Processes offer a robust framework for solving sequential decision-making problems in stochastic environments. With their ability to balance immediate and future rewards, they are indispensable in various fields, particularly in [algorithmic trading](../a/algorithmic_trading.md), where they help design strategies to optimize financial returns under uncertainty. Through methods including dynamic programming, Monte Carlo, and temporal difference learning, MDPs facilitate the development of optimal policies for complex, real-world problems.
+Markov Decision Processes offer a robust framework for solving sequential decision-making problems in stochastic environments. With their ability to balance immediate and future rewards, they are indispensable in various fields, particularly in [algorithmic trading](../a/algorithmic_trading.md), where they help design strategies to optimize financial returns under [uncertainty](../u/uncertainty_in_trading.md). Through methods including [dynamic programming](../d/dynamic_programming_in_trading.md), Monte Carlo, and temporal difference learning, MDPs facilitate the development of optimal policies for complex, real-world problems.

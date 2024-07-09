@@ -61,7 +61,7 @@ Construct the covariance matrix based on the estimated returns and risks. The co
 
 ### Step 5: Solve the Optimization Problem
 
-Use mathematical optimization techniques to solve the [portfolio optimization](../p/portfolio_optimization.md) problem. Common objective functions include maximizing return for a given level of risk, or minimizing risk for a given level of expected return.
+Use mathematical optimization techniques to solve the [portfolio optimization](../p/portfolio_optimization.md) problem. Common [objective functions](../o/objective_functions_in_trading.md) include maximizing return for a given level of risk, or minimizing risk for a given level of expected return.
 
 #### Mean-Variance Optimization
 
@@ -89,7 +89,7 @@ For more refined estimated returns, the [Black-Litterman Model](../b/black-litte
 
 ### Robust Optimization
 
-[Robust Optimization](../r/robust_optimization.md) deals with uncertainty in the data by optimizing worst-case scenarios, ensuring that the portfolio performs well under a variety of conditions.
+[Robust Optimization](../r/robust_optimization.md) deals with [uncertainty](../u/uncertainty_in_trading.md) in the data by optimizing worst-case scenarios, ensuring that the portfolio performs well under a variety of conditions.
 
 ### Bayesian Methods
 
@@ -97,7 +97,7 @@ Bayesian methods incorporate prior distributions and update the beliefs about th
 
 ### Machine Learning Approaches
 
-With the advent of AI, machine learning approaches such as Reinforcement Learning, Genetic Algorithms, and Deep Learning are increasingly used for [portfolio optimization](../p/portfolio_optimization.md).
+With the advent of AI, machine learning approaches such as Reinforcement Learning, [Genetic Algorithms](../g/genetic_algorithms_in_trading.md), and Deep Learning are increasingly used for [portfolio optimization](../p/portfolio_optimization.md).
 
 ## Practical Applications
 

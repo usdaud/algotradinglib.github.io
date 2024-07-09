@@ -4,15 +4,15 @@ In the world of finance and investments, [portfolio management](../p/portfolio_m
 
 ## Understanding Kurtosis
 
-Kurtosis is a statistical measure that describes the tail-risk and peakedness of the distribution of returns. It is the fourth central moment of a distribution and provides insights into the likelihood of extreme outcomes compared to the normal distribution. High kurtosis (leptokurtic distributions) indicates heavy tails and a higher probability of extreme returns, both positive and negative, while low kurtosis (platykurtic distributions) suggests tails that are lighter than a normal distribution, implying fewer extreme events.
+Kurtosis is a statistical measure that describes the tail-risk and peakedness of the distribution of returns. It is the fourth central moment of a distribution and provides insights into the likelihood of extreme outcomes compared to the [normal distribution](../n/normal_distribution_in_trading.md). High kurtosis (leptokurtic distributions) indicates heavy tails and a higher probability of extreme returns, both positive and negative, while low kurtosis (platykurtic distributions) suggests tails that are lighter than a [normal distribution](../n/normal_distribution_in_trading.md), implying fewer extreme events.
 
 ### Types of Kurtosis
 
-1. **Mesokurtic**: This describes distributions that have kurtosis similar to the normal distribution. The benchmark value for a normal distribution is a kurtosis of 3. When referred to in excess form (subtracting 3 from the kurtosis value), a mesokurtic distribution has a kurtosis of 0.
+1. **Mesokurtic**: This describes distributions that have kurtosis similar to the [normal distribution](../n/normal_distribution_in_trading.md). The benchmark value for a [normal distribution](../n/normal_distribution_in_trading.md) is a kurtosis of 3. When referred to in excess form (subtracting 3 from the kurtosis value), a mesokurtic distribution has a kurtosis of 0.
   
 2. **Leptokurtic**: These distributions are characterized by higher peakedness and fat tails. They have a kurtosis greater than 3 (or >0 in excess kurtosis), indicating a higher likelihood of extreme outcomes.
   
-3. **Platykurtic**: These distributions are less peaked and have thinner tails. With a kurtosis less than 3 (or <0 in excess kurtosis), they suggest fewer extreme events compared to a normal distribution.
+3. **Platykurtic**: These distributions are less peaked and have thinner tails. With a kurtosis less than 3 (or <0 in excess kurtosis), they suggest fewer extreme events compared to a [normal distribution](../n/normal_distribution_in_trading.md).
 
 ## Importance of Kurtosis in Portfolios
 
@@ -40,7 +40,7 @@ Using financial instruments such as options and futures can hedge against [tail 
 
 ### Dynamic Risk Management
 
-Actively adjusting the portfolio's exposure based on market conditions can help manage kurtosis. For example, during periods of high market uncertainty, reducing exposure to assets with high kurtosis may be prudent.
+Actively adjusting the portfolio's exposure based on market conditions can help manage kurtosis. For example, during periods of high market [uncertainty](../u/uncertainty_in_trading.md), reducing exposure to assets with high kurtosis may be prudent.
 
 ### Portfolio Optimization Including Higher Moments
 
@@ -52,7 +52,7 @@ Leverage can be employed judiciously to manage kurtosis, although it must be don
 
 ## Practical Application and Software Tools
 
-Several software tools and platforms can help in managing and analyzing kurtosis within portfolios. For instance:
+Several [software tools](../s/software_tools_for_trading.md) and platforms can help in managing and analyzing kurtosis within portfolios. For instance:
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers extensive analytics and data to assess the kurtosis of individual assets and portfolios ([link](https://www.bloomberg.com/professional/product/analytics/)).
 - **MATLAB**: Provides financial toolkits that can compute kurtosis and integrate higher moments into [portfolio optimization](../p/portfolio_optimization.md) engines ([link](https://www.mathworks.com/products/financial-instruments-portfolio.html)).

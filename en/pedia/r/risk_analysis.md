@@ -1,6 +1,6 @@
 # Risk Analysis
 
-[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, leverages complex mathematical models and strategies to make high-speed trading decisions. While [algorithmic trading](../a/algorithmic_trading.md) offers several benefits such as increased execution speed, reduced transaction costs, and the ability to backtest strategies, it also necessitates rigorous risk analysis to safeguard against potential losses. This article delves into the various methodologies and strategies used in risk analysis within the context of [algorithmic trading](../a/algorithmic_trading.md).
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, leverages complex [mathematical models](../m/mathematical_models_in_trading.md) and strategies to make high-speed trading decisions. While [algorithmic trading](../a/algorithmic_trading.md) offers several benefits such as increased execution speed, reduced transaction costs, and the ability to backtest strategies, it also necessitates rigorous risk analysis to safeguard against potential losses. This article delves into the various methodologies and strategies used in risk analysis within the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Types of Risks in Algorithmic Trading
 
@@ -14,7 +14,7 @@ Market risk refers to the possibility of an investor experiencing losses due to 
 [Execution risk](../e/execution_risk.md) involves the uncertainties in the actual execution of orders. Delays, failed trades, and slippages (where the execution price differs from the intended price) can all contribute to [execution risk](../e/execution_risk.md).
 
 ### Model Risk
-[Algorithmic trading](../a/algorithmic_trading.md) strategies rely heavily on mathematical models. Model risk arises when these models fail to perform as expected due to flawed assumptions or inaccuracies in the data.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies rely heavily on [mathematical models](../m/mathematical_models_in_trading.md). Model risk arises when these models fail to perform as expected due to flawed assumptions or inaccuracies in the data.
 
 ### Operational Risk
 Operational risk encompasses the potential losses resulting from faulty processes, systems, or controls. In algo-trading, this can be due to software bugs, hardware malfunctions, or cybersecurity breaches.
@@ -25,10 +25,10 @@ Operational risk encompasses the potential losses resulting from faulty processe
 Value at Risk (VaR) is a statistical technique used to measure and quantify the level of financial risk within a firm or portfolio over a specific time frame. While there are several ways to calculate VaR, the common approaches include the [Variance-Covariance method](../v/variance-covariance_method.md), [Historical Simulation](../h/historical_simulation.md), and the [Monte Carlo simulation](../m/monte_carlo_simulation.md).
 
 ### Stress Testing
-Stress testing involves creating hypothetical scenarios to assess the impact of extreme market conditions on [trading strategies](../t/trading_strategies.md). These scenarios can be based on historical events or constructed to reflect potential future crises.
+[Stress testing](../s/stress_testing_in_trading.md) involves creating hypothetical scenarios to assess the impact of extreme market conditions on [trading strategies](../t/trading_strategies.md). These scenarios can be based on historical events or constructed to reflect potential future crises.
 
 ### Scenario Analysis
-Scenario analysis is similar to stress testing but often involves a broader range of conditions. Instead of focusing solely on extreme scenarios, it also examines moderate and base-case scenarios to understand the potential outcomes in various market environments.
+Scenario analysis is similar to [stress testing](../s/stress_testing_in_trading.md) but often involves a broader range of conditions. Instead of focusing solely on extreme scenarios, it also examines moderate and base-case scenarios to understand the potential outcomes in various market environments.
 
 ### Sensitivity Analysis
 Sensitivity analysis examines how different variables affect a trading strategy's performance. By adjusting one or more input variables and observing the impact on the output, traders can identify which factors are most influential and potentially risky.
@@ -72,7 +72,7 @@ MATLAB is widely used for its robust numerical computing capabilities. It offers
 R and Python are popular among quants and data scientists. Libraries such as [QuantLib](../q/quantlib.md), pandas, and NumPy are extensively used for statistical analysis, risk modeling, and [backtesting](../b/backtesting.md).
 
 ### Trading Platforms
-Several trading platforms come equipped with [risk management](../r/risk_management.md) tools. Examples include MetaTrader, Interactive Brokers (https://www.interactivebrokers.com/en/home.php), and [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
+Several trading platforms come equipped with [risk management](../r/risk_management.md) tools. Examples include MetaTrader, [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/en/home.php), and [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
 
 ## Regulatory Aspects of Risk Management
 
@@ -95,4 +95,4 @@ The Flash Crash on May 6, 2010, saw the Dow Jones Industrial Average plummet nea
 
 ## Conclusion
 
-Risk analysis in [algorithmic trading](../a/algorithmic_trading.md) is a multifaceted discipline that combines statistical techniques, software tools, and regulatory compliance to identify, assess, and mitigate potential risks. By adopting robust [risk management](../r/risk_management.md) strategies and continuously monitoring for vulnerabilities, traders can improve the resilience and performance of their [algorithmic trading](../a/algorithmic_trading.md) systems.
+Risk analysis in [algorithmic trading](../a/algorithmic_trading.md) is a multifaceted discipline that combines statistical techniques, [software tools](../s/software_tools_for_trading.md), and regulatory compliance to identify, assess, and mitigate potential risks. By adopting robust [risk management](../r/risk_management.md) strategies and continuously monitoring for vulnerabilities, traders can improve the resilience and performance of their [algorithmic trading](../a/algorithmic_trading.md) systems.

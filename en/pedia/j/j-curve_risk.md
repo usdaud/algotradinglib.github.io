@@ -31,7 +31,7 @@ Both the algorithm and its human overseers typically go through a learning curve
 Understanding and managing J-Curve risk is crucial for the success of an [algorithmic trading](../a/algorithmic_trading.md) strategy. Here are some methods:
 
 ### A. Simulations and Stress Testing
-Before going live, extensive simulations and stress testing can help anticipate potential issues and minimize the initial downturn.
+Before going live, extensive simulations and [stress testing](../s/stress_testing_in_trading.md) can help anticipate potential issues and minimize the initial downturn.
 
 ### B. Incremental Deployment
 Launching the algorithm in increments instead of a full-scale deployment allows for real-time adjustments and minimizes the impact of any negative initial performance.
@@ -44,22 +44,22 @@ Using a diversified portfolio of [trading strategies](../t/trading_strategies.md
 
 ## Case Studies
 ### 1. Renaissance Technologies
-Renaissance Technologies is a hedge fund management company that has successfully mastered the principles of managing J-Curve risk. By using advanced mathematical models and algorithms, they have been able to implement strategies that, after an initial period of adjustment, yield consistent positive returns.
+Renaissance Technologies is a hedge fund management company that has successfully mastered the principles of managing J-Curve risk. By using advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, they have been able to implement strategies that, after an initial period of adjustment, yield consistent positive returns.
 [Learn More](https://www.rentec.com/)
 
 ### 2. Two Sigma
-Two Sigma applies data science to find connections in the world's data. They have incorporated comprehensive [risk management](../r/risk_management.md) techniques, including mitigation of J-Curve risk, to successfully run their [trading algorithms](../t/trading_algorithms.md).
+Two Sigma applies [data science](../d/data_science_in_trading.md) to find connections in the world's data. They have incorporated comprehensive [risk management](../r/risk_management.md) techniques, including mitigation of J-Curve risk, to successfully run their [trading algorithms](../t/trading_algorithms.md).
 [Learn More](https://www.twosigma.com/)
 
 ## Tools and Software
-Several software tools can help manage J-Curve risk by offering capabilities for back-testing, simulation, and real-time monitoring. These include:
+Several [software tools](../s/software_tools_for_trading.md) can help manage J-Curve risk by offering capabilities for back-testing, [simulation](../s/simulation_in_trading.md), and real-time monitoring. These include:
 
 ### 1. QuantConnect
 [QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with features for back-testing and live trading. It allows developers to simulate different market conditions to prepare algorithms for real-world performance.
 [Learn More](https://www.quantconnect.com/)
 
 ### 2. Algorithmic Trading Group (ATG)
-ATG offers technology and expertise for developing and deploying [trading algorithms](../t/trading_algorithms.md). Their platform includes tools for stress testing and performance analysis, crucial for managing J-Curve risk.
+ATG offers technology and expertise for developing and deploying [trading algorithms](../t/trading_algorithms.md). Their platform includes tools for [stress testing](../s/stress_testing_in_trading.md) and performance analysis, crucial for managing J-Curve risk.
 [Learn More](https://atgforex.com/)
 
 ## Conclusion

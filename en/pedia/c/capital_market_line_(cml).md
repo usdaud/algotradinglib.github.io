@@ -57,7 +57,7 @@ The development of the CML and the CAPM theory dates back to the 1960s with pion
 
 - **Unrealistic Assumptions**: The assumptions underlying the CML, such as perfect markets, risk-free borrowing/lending rates, and normally distributed returns, are often criticized as being overly idealistic.
 - **Single-Period Model**: The CML is based on a single-period model, which may not capture the dynamic nature of financial markets and investor behavior over time.
-- **Ignoring [Market Anomalies](../m/market_anomalies.md)**: It does not account for anomalies that can occur in real markets, such as behavioral biases or market frictions.
+- **Ignoring [Market Anomalies](../m/market_anomalies.md)**: It does not account for anomalies that can occur in real markets, such as [behavioral biases](../b/behavioral_biases_in_trading.md) or market frictions.
 
 ## Real-World Implications
 

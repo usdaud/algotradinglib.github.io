@@ -36,13 +36,13 @@ Growth stocks represent shares in companies that are expected to grow at an abov
 
 ### Examples of Successful Growth Stocks
 
-1. **Amazon (AMZN)**: Amazon exemplifies a growth stock with its continual investment in new business areas, such as cloud computing (Amazon Web Services) and artificial intelligence, leading to substantial revenue growth over the years. More information can be found on [Amazon's investor relations page](https://www.amazon.com/ir).
+1. **Amazon (AMZN)**: Amazon exemplifies a growth stock with its continual investment in new business areas, such as [cloud computing](../c/cloud_computing_in_trading.md) (Amazon Web Services) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), leading to substantial revenue growth over the years. More information can be found on [Amazon's investor relations page](https://www.amazon.com/ir).
 
 2. **Tesla (TSLA)**: Tesla's focus on electric vehicles and sustainable energy has led to explosive revenue growth and innovation in the automotive industry. Tesla continues to expand its market reach and product offerings. Details are available on [Tesla's investor relations page](https://ir.tesla.com).
 
 3. **NVIDIA (NVDA)**: NVIDIA has witnessed significant growth due to its leadership in graphics processing units (GPUs) and its entrance into AI and data center markets. Their story is detailed on [NVIDIA's investor relations page](https://investor.nvidia.com).
 
-4. **Alphabet (GOOGL)**: Alphabet, Google's parent company, has shown substantial growth through its dominance in search engines and expansion into various technology sectors, such as cloud computing and autonomous driving. Visit [Alphabet's investor relations page](https://abc.xyz/investor).
+4. **Alphabet (GOOGL)**: Alphabet, Google's parent company, has shown substantial growth through its dominance in search engines and expansion into various technology sectors, such as [cloud computing](../c/cloud_computing_in_trading.md) and autonomous driving. Visit [Alphabet's investor relations page](https://abc.xyz/investor).
 
 ### Factors Influencing Growth Stock Performance
 

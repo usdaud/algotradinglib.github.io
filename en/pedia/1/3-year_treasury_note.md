@@ -59,7 +59,7 @@ Treasury Notes, including the 3-Year variant, are essential components of a dive
 
 ### Risk Management
 
-Given their low default risk, Treasury Notes serve as a safe haven during periods of economic uncertainty and market volatility. They can help mitigate the risks associated with more volatile assets like stocks.
+Given their low default risk, Treasury Notes serve as a safe haven during periods of economic [uncertainty](../u/uncertainty_in_trading.md) and market volatility. They can help mitigate the risks associated with more volatile assets like stocks.
 
 ### Regular Income
 

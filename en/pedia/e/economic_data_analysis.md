@@ -25,7 +25,7 @@ Retail sales data measures the total receipts of retail stores and serves as an 
 Microeconomic indicators focus on individual sectors or industries within the economy. These can include earnings reports, product sales figures, and specific company [performance metrics](../p/performance_metrics.md). Algorithmic traders often analyze these indicators to gauge private sector health and predict stock performance.
 
 #### Earnings Reports
-[Quarterly earnings reports](../q/quarterly_earnings_reports.md) from companies provide detailed insights into their financial performance. Analysts examine revenue, profit margins, cash flow, and other financial metrics to assess a company’s health and future prospects.
+[Quarterly earnings reports](../q/quarterly_earnings_reports.md) from companies provide detailed insights into their financial performance. Analysts examine revenue, [profit margins](../p/profit_margins_in_trading.md), cash flow, and other financial metrics to assess a company’s health and future prospects.
 
 #### Inventory Levels
 Inventory levels can indicate the future direction of business activity. High inventory levels may suggest overproduction or weak demand, whereas low levels could indicate strong sales and potential supply chain issues.
@@ -48,7 +48,7 @@ Analyzing economic data requires robust statistical techniques and models to par
 - **[Time Series Analysis](../t/time_series_analysis.md)**: To forecast future values based on historical data.
 - **[Regression Analysis](../r/regression_analysis.md)**: To understand relationships between different economic variables.
 - **[Factor Models](../f/factor_models.md)**: To decompose data into underlying factors driving market movements.
-- **Machine Learning Algorithms**: To identify complex patterns and build predictive models.
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: To identify complex patterns and build [predictive models](../p/predictive_models_in_trading.md).
 
 ### 5. Real-Time Data and High-Frequency Trading (HFT)
 
@@ -65,7 +65,7 @@ Economic data analysis faces several challenges, including:
 
 ### 7. Use Case: GDP and Currency Trading 
 
-An example of economic data analysis in action is the use of GDP data in currency trading. An algorithm could be designed to trade forex based on anticipated changes in GDP. For instance, if advanced GDP estimates suggest robust growth, the algorithm might predict an appreciation in the country's currency and take long positions.
+An example of economic data analysis in action is the use of GDP data in [currency trading](../c/currency_trading_strategies.md). An algorithm could be designed to trade forex based on anticipated changes in GDP. For instance, if advanced GDP estimates suggest robust growth, the algorithm might predict an appreciation in the country's currency and take long positions.
 
 ### Summary
 

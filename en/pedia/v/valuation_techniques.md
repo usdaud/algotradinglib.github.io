@@ -43,15 +43,15 @@ Options pricing models are used to determine the fair value of options. The [Bla
 - Complex strategies, like options spreads, benefit from accurate pricing models.
 
 ## Quantitative Techniques
-Quantitative techniques involve sophisticated mathematical models and statistical analysis. These techniques are essential for [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) and other advanced [trading strategies](../t/trading_strategies.md).
+Quantitative techniques involve sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and statistical analysis. These techniques are essential for [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) and other advanced [trading strategies](../t/trading_strategies.md).
 
 ### Time Series Analysis:
 - **Overview**: Uses historical data to predict future price movements.
 - **Models**: Common models include ARIMA (AutoRegressive Integrated Moving Average) and GARCH (Generalized Autoregressive Conditional Heteroskedasticity).
 
 ### Machine Learning Models:
-- **Overview**: Employ artificial intelligence to discern patterns and make predictions.
-- **Techniques**: Neural networks, Random Forests, and Support Vector Machines (SVMs) are commonly used.
+- **Overview**: Employ [artificial intelligence](../a/artificial_intelligence_in_trading.md) to discern patterns and make predictions.
+- **Techniques**: [Neural networks](../n/neural_networks_in_trading.md), [Random Forests](../r/random_forests_in_trading.md), and [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs) are commonly used.
 
 ### Applications in Algorithmic Trading:
 - Algorithms can forecast asset prices and volatility more accurately using [quantitative models](../q/quantitative_models.md).
@@ -123,7 +123,7 @@ Despite the advantages, valuation techniques come with their own set of challeng
 
 ### Model Risk:
 - **Risk**: Flawed model assumptions or oversimplification can result in inaccurate valuations.
-- **Mitigation**: Regular stress testing and recalibration of models.
+- **Mitigation**: Regular [stress testing](../s/stress_testing_in_trading.md) and recalibration of models.
 
 ### Market Conditions:
 - **Risk**: Rapid market changes can render models obsolete, impacting their reliability.
@@ -134,4 +134,4 @@ Despite the advantages, valuation techniques come with their own set of challeng
 - **Mitigation**: Ensure models adhere to relevant regulatory requirements and incorporate compliance checks.
 
 ## Conclusion
-Valuation techniques are indispensable in [algorithmic trading](../a/algorithmic_trading.md), providing the foundation for informed trading decisions. Whether through DCF analysis, relative valuation, options pricing models, quantitative methods, or event-driven valuation, these techniques enable traders and their algorithms to identify profitable opportunities while managing risks effectively. Continuous advancements in data science and technology will further refine these techniques, enhancing their accuracy and applicability in increasingly complex financial markets.
+Valuation techniques are indispensable in [algorithmic trading](../a/algorithmic_trading.md), providing the foundation for informed trading decisions. Whether through DCF analysis, relative valuation, options pricing models, quantitative methods, or event-driven valuation, these techniques enable traders and their algorithms to identify profitable opportunities while managing risks effectively. Continuous advancements in [data science](../d/data_science_in_trading.md) and technology will further refine these techniques, enhancing their accuracy and applicability in increasingly complex financial markets.

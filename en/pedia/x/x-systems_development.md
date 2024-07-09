@@ -20,7 +20,7 @@ Accurate and timely market data is crucial for effective [algorithmic trading](.
 #### 3. Execution Management
 Execution management systems (EMS) handle the placement and management of orders. Key aspects include:
 - **[Order Routing](../o/order_routing.md)**: Directing orders to the exchange or trading venue offering the best conditions.
-- **Order Types**: Utilizing various order types (e.g., market, limit, stop-loss) to achieve optimal trading outcomes.
+- **[Order Types](../o/order_types_in_trading.md)**: Utilizing various [order types](../o/order_types_in_trading.md) (e.g., market, limit, stop-loss) to achieve optimal trading outcomes.
 - **Latency Reduction**: Minimizing the time it takes for an order to be executed.
 
 #### 4. Risk Management
@@ -44,7 +44,7 @@ Key programming languages and libraries used in [algorithmic trading](../a/algor
 - **R**: Popular for statistical analysis and [data visualization](../d/data_visualization.md).
 
 #### 2. Machine Learning and AI
-Machine learning algorithms enhance predictive accuracy by analyzing large datasets and identifying patterns. Techniques used include:
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) enhance predictive accuracy by analyzing large datasets and identifying patterns. Techniques used include:
 - **Supervised Learning**: Training models on labeled historical data to make predictions.
 - **Unsupervised Learning**: Clustering and [pattern recognition](../p/pattern_recognition.md) without predefined labels.
 - **Reinforcement Learning**: Teaching models to make trading decisions by rewarding successful outcomes.
@@ -52,11 +52,11 @@ Machine learning algorithms enhance predictive accuracy by analyzing large datas
 #### 3. High-Performance Computing (HPC)
 HPC enables the processing of vast amounts of data at high speeds. Components include:
 - **GPUs and TPUs**: Graphics Processing Units and Tensor Processing Units for parallel processing tasks.
-- **Cloud Computing**: Scalable and flexible computing resources from providers like AWS, Google Cloud, and Microsoft Azure.
+- **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Scalable and flexible computing resources from providers like AWS, Google Cloud, and Microsoft Azure.
 
 #### 4. Financial APIs
 APIs facilitate the integration of various data sources and trading platforms. Key APIs include:
-- **Trading APIs**: Provided by brokers and exchanges like Interactive Brokers, TD [Ameritrade](../a/ameritrade.md), and [Alpaca](../a/alpaca.md).
+- **Trading APIs**: Provided by brokers and exchanges like [Interactive Brokers](../i/interactive_brokers.md), TD [Ameritrade](../a/ameritrade.md), and [Alpaca](../a/alpaca.md).
 - **Market Data APIs**: Offered by providers like [Bloomberg](../b/bloomberg.md), Refinitiv, and Alpha Vantage.
 - **[Alternative Data](../a/alternative_data.md) APIs**: Sources like Twitter, Foursquare, and various satellite data providers.
 
@@ -67,7 +67,7 @@ Hudson River Trading is renowned for its expertise in high-frequency trading and
 [Website](https://www.hudsonrivertrading.com/)
 
 #### 2. Two Sigma
-Two Sigma uses big data and machine learning to create alpha-generating strategies. They emphasize a scientific approach to investment management.
+Two Sigma uses [big data](../b/big_data_in_trading.md) and machine learning to create alpha-generating strategies. They emphasize a scientific approach to investment management.
 [Website](https://www.twosigma.com/)
 
 #### 3. Goldman Sachs

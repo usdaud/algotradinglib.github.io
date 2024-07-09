@@ -1,12 +1,12 @@
 # Decision Support Systems (DSS)
 
-Decision Support Systems (DSS) are specialized information systems designed to support business or organizational decision-making activities. In the context of [algorithmic trading](../a/algorithmic_trading.md), DSS integrate data, sophisticated mathematical models, and user-friendly interfaces to help traders, analysts, and managers make data-driven decisions. Below, we delve into the core components, functionalities, and the significance of DSS in the realm of [algorithmic trading](../a/algorithmic_trading.md).
+Decision Support Systems (DSS) are specialized information systems designed to support business or organizational decision-making activities. In the context of [algorithmic trading](../a/algorithmic_trading.md), DSS integrate data, sophisticated [mathematical models](../m/mathematical_models_in_trading.md), and user-friendly interfaces to help traders, analysts, and managers make data-driven decisions. Below, we delve into the core components, functionalities, and the significance of DSS in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Core Components of DSS
 
 1. **Data Management Component**: This component involves storing and managing large volumes of data, which may include historical market data, real-time data feeds, and various forms of financial data. Efficient data management is crucial for ensuring that the DSS can provide accurate and timely information.
 
-2. **Model Management Component**: This component includes the mathematical and statistical models that analyze data and generate [trading signals](../t/trading_signals.md). These models range from simple moving averages to complex machine learning algorithms.
+2. **Model Management Component**: This component includes the mathematical and statistical models that analyze data and generate [trading signals](../t/trading_signals.md). These models range from simple moving averages to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md).
 
 3. **User Interface Component**: A user-friendly interface allows traders to interact with the DSS effectively. This may include dashboards, visualizations, query systems, and report generation tools.
 
@@ -16,7 +16,7 @@ Decision Support Systems (DSS) are specialized information systems designed to s
 
 1. **Data Analysis and Visualization**: DSS help in analyzing large datasets to find trends and patterns that may not be immediately apparent. Visual tools like charts and dashboards are instrumental in simplifying this process.
 
-2. **Simulation and What-If Analysis**: Traders can simulate various trading scenarios to understand potential outcomes. "What-if" analysis helps in assessing the impact of different strategies under various market conditions.
+2. **[Simulation](../s/simulation_in_trading.md) and What-If Analysis**: Traders can simulate various trading scenarios to understand potential outcomes. "What-if" analysis helps in assessing the impact of different strategies under various market conditions.
 
 3. **Optimization**: DSS can optimize [trading strategies](../t/trading_strategies.md) by tweaking various parameters to achieve the best possible outcome. This is particularly useful for high-frequency trading where speed and precision are crucial.
 

@@ -50,7 +50,7 @@ ZIRP can create dislocations in financial markets, leading to [arbitrage](../a/a
 
 #### Machine Learning Models
 
-Machine learning algorithms can be employed to predict market movements in a ZIRP environment. These models can analyze vast amounts of data to identify patterns and predict future market behavior more accurately.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be employed to predict market movements in a ZIRP environment. These models can analyze vast amounts of data to identify patterns and predict future market behavior more accurately.
 
 ### Practical Challenges
 

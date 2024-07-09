@@ -1,6 +1,6 @@
 # Yield Mapping Techniques
 
-[Algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading or black-box trading) is the process of using computer algorithms to trade financial assets. One critical aspect of [algorithmic trading](../a/algorithmic_trading.md) is yield mapping, which involves predicting the returns (yield) of various assets to execute trades effectively. Yield mapping techniques combine sophisticated mathematical models, big data analytics, and machine learning to predict asset returns. This document will explore several advanced yield mapping techniques utilized in [algorithmic trading](../a/algorithmic_trading.md).
+[Algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading or black-box trading) is the process of using computer algorithms to trade financial assets. One critical aspect of [algorithmic trading](../a/algorithmic_trading.md) is yield mapping, which involves predicting the returns (yield) of various assets to execute trades effectively. Yield mapping techniques combine sophisticated [mathematical models](../m/mathematical_models_in_trading.md), [big data analytics](../b/big_data_analytics_in_trading.md), and machine learning to predict asset returns. This document will explore several advanced yield mapping techniques utilized in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Statistical Models
 
@@ -8,10 +8,10 @@
 [Linear regression](../l/linear_regression.md) is one of the simplest and oldest yield mapping techniques. It attempts to fit a linear relationship between the dependent variable (yield) and one or more independent variables (predictors). Despite its simplicity, [linear regression](../l/linear_regression.md) can be quite powerful when used appropriately.
 
 ### Logistic Regression
-Logistic regression is used to model a binomial outcome variable. This technique is particularly useful for predicting the probability of a trade yielding a specific return threshold. Unlike [linear regression](../l/linear_regression.md), the outcome is categorical, and it uses the logistic function to squeeze the output between 0 and 1.
+[Logistic regression](../l/logistic_regression_in_trading.md) is used to model a binomial outcome variable. This technique is particularly useful for predicting the probability of a trade yielding a specific return threshold. Unlike [linear regression](../l/linear_regression.md), the outcome is categorical, and it uses the logistic function to squeeze the output between 0 and 1.
 
 ### Time Series Analysis
-[Time series analysis](../t/time_series_analysis.md) involves statistical techniques that analyze time-ordered data points. Techniques such as ARIMA (AutoRegressive Integrated Moving Average) are used to model the time series data. [Time series analysis](../t/time_series_analysis.md) is especially useful for predicting the yield of assets over time by capturing the temporal dependencies.
+[Time series analysis](../t/time_series_analysis.md) involves statistical techniques that analyze time-ordered data points. Techniques such as ARIMA (AutoRegressive Integrated Moving Average) are used to model the time series data. [Time series analysis](../t/time_series_analysis.md) is especially useful for predicting the yield of assets over time by capturing the [temporal dependencies](../t/temporal_dependencies_in_trading.md).
 
 ## Machine Learning Models
 
@@ -19,10 +19,10 @@ Logistic regression is used to model a binomial outcome variable. This technique
 Random Forest is an [ensemble learning](../e/ensemble_learning.md) method that constructs multiple [decision trees](../d/decision_trees.md) during training and outputs the mode of the classes (classification) or mean prediction (regression) of the individual trees. It can model complex nonlinear relationships, making it useful for predicting asset yields.
 
 ### Support Vector Machines
-Support Vector Machines (SVM) are supervised learning models that analyze data for classification and regression. SVMs perform well when the data is linearly separable or can be transformed to be so. They are particularly beneficial for yield mapping when the predictor variables and decision boundaries are complex.
+[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) are supervised learning models that analyze data for classification and regression. SVMs perform well when the data is linearly separable or can be transformed to be so. They are particularly beneficial for yield mapping when the predictor variables and decision boundaries are complex.
 
 ### Neural Networks
-Neural networks, particularly deep learning models, consist of multiple layers of interconnected neurons. They can capture complex patterns in data and are highly effective for yield mapping when feature relationships are highly nonlinear. Variants like Long Short-Term Memory (LSTM) networks are specifically designed for time series prediction.
+[Neural networks](../n/neural_networks_in_trading.md), particularly deep learning models, consist of multiple layers of interconnected neurons. They can capture complex patterns in data and are highly effective for yield mapping when feature relationships are highly nonlinear. Variants like Long Short-Term Memory (LSTM) networks are specifically designed for time series prediction.
 
 ### Gradient Boosting Machines
 Gradient Boosting Machines (GBMs) are [ensemble learning](../e/ensemble_learning.md) techniques that build models sequentially. Each model tries to correct the errors of the previous one. XGBoost and LightGBM are popular variants noted for their effectiveness in yield mapping.
@@ -33,7 +33,7 @@ Gradient Boosting Machines (GBMs) are [ensemble learning](../e/ensemble_learning
 Reinforcement learning involves training an agent to make a sequence of decisions by rewarding it for desired actions. In yield mapping, reinforcement learning can be used to develop trading policies that maximize the long-term yield by learning from historical trading data.
 
 ### Genetic Algorithms
-Genetic algorithms are optimization algorithms inspired by natural selection. They are used to find optimal [trading strategies](../t/trading_strategies.md) by evolving a population of potential solutions over multiple iterations. This method is effective for yield mapping in complex, multi-modal landscapes.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) are optimization algorithms inspired by natural selection. They are used to find optimal [trading strategies](../t/trading_strategies.md) by evolving a population of potential solutions over multiple iterations. This method is effective for yield mapping in complex, multi-modal landscapes.
 
 ### Bayesian Optimization
 [Bayesian Optimization](../b/bayesian_optimization.md) uses Bayes' theorem to model the objective function and select the next query point by minimizing the expected loss. This technique can be used to hyper-tune the parameters of other models to improve yield predictions.
@@ -55,7 +55,7 @@ Feature engineering is the process of using domain knowledge to create features 
 [Two Sigma](https://www.twosigma.com/) is a well-known hedge fund that uses [algorithmic trading](../a/algorithmic_trading.md) and [quantitative analysis](../q/quantitative_analysis.md). They employ various yield mapping techniques to optimize their [trading strategies](../t/trading_strategies.md) and improve their returns.
 
 ### Renaissance Technologies
-[Renaissance Technologies](https://www.rentec.com/) is a pioneer in the field of [algorithmic trading](../a/algorithmic_trading.md), known for its significant returns through the use of sophisticated mathematical models for yield mapping.
+[Renaissance Technologies](https://www.rentec.com/) is a pioneer in the field of [algorithmic trading](../a/algorithmic_trading.md), known for its significant returns through the use of sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for yield mapping.
 
 ### WorldQuant
 [WorldQuant](https://www.worldquant.com/) is another quantitative investment firm that relies heavily on advanced yield mapping techniques and data-driven [trading algorithms](../t/trading_algorithms.md).

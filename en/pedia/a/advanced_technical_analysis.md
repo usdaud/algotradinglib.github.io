@@ -43,7 +43,7 @@ Fibonacci analysis involves using mathematical ratios derived from the Fibonacci
 
 ### 7. Elliott Wave Theory
 
-[Elliott Wave Theory](../e/elliott_wave_theory.md), developed by Ralph Nelson Elliott, is a form of [technical analysis](../t/technical_analysis.md) that identifies recurring wave patterns to predict market trends. The theory consists of two types of waves: impulse waves (in the direction of the trend) and corrective waves (against the trend). [Elliott Wave patterns](../e/elliott_wave_patterns.md) help traders understand the cyclical nature of markets and anticipate future price movements.
+[Elliott Wave Theory](../e/elliott_wave_theory.md), developed by Ralph Nelson Elliott, is a form of [technical analysis](../t/technical_analysis.md) that identifies recurring [wave patterns](../w/wave_patterns_in_trading.md) to predict market trends. The theory consists of two types of waves: impulse waves (in the direction of the trend) and corrective waves (against the trend). [Elliott Wave patterns](../e/elliott_wave_patterns.md) help traders understand the cyclical nature of markets and anticipate future price movements.
 
 ### 8. Ichimoku Cloud
 
@@ -68,7 +68,7 @@ Market profile is a charting technique that displays the volume traded at variou
 
 ### 11. Machine Learning and Artificial Intelligence
 
-Machine learning and AI are increasingly being integrated into advanced [technical analysis](../t/technical_analysis.md) to improve the accuracy and efficacy of [trading strategies](../t/trading_strategies.md). Techniques such as neural networks, support vector machines, and natural language processing enable traders to analyze vast amounts of data, uncover hidden patterns, and make more informed decisions.
+Machine learning and AI are increasingly being integrated into advanced [technical analysis](../t/technical_analysis.md) to improve the accuracy and efficacy of [trading strategies](../t/trading_strategies.md). Techniques such as [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) enable traders to analyze vast amounts of data, uncover hidden patterns, and make more informed decisions.
 
 ### 12. Algorithmic Trading
 

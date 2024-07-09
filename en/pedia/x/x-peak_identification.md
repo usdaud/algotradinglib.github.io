@@ -50,17 +50,17 @@ At its core, X-Peak Identification involves analyzing time-series data to determ
 Several libraries and tools are available for implementing X-Peak Identification in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Python Libraries**:
-    - `SciPy` (https://scipy.org/): Offers a comprehensive signal processing module including peak detection functions.
+    - `SciPy` (https://scipy.org/): Offers a comprehensive [signal processing](../s/signal_processing_in_trading.md) module including peak detection functions.
     - `NumPy` (https://numpy.org/): Essential for numerical operations required in data preprocessing.
     - `Pandas` (https://pandas.pydata.org/): Useful for handling time-series data and applying moving averages.
     - `PyWavelets` (https://pywavelets.readthedocs.io/): A library for wavelet transforms, useful for multi-resolution analysis.
 
 2. **R Packages**:
     - `TTR` (https://cran.r-project.org/web/packages/TTR/index.html): Provides technical [trading rules](../t/trading_rules.md) and indicators, including peak detection.
-    - `pracma` (https://cran.r-project.org/web/packages/pracma/index.html): Contains functions for numerical analysis, including signal processing and peak finding.
+    - `pracma` (https://cran.r-project.org/web/packages/pracma/index.html): Contains functions for numerical analysis, including [signal processing](../s/signal_processing_in_trading.md) and peak finding.
 
 3. **MATLAB Toolboxes**:
-    - `Signal Processing Toolbox` (https://www.mathworks.com/products/signal.html): Offers comprehensive tools for peak detection and analysis.
+    - `[Signal Processing](../s/signal_processing_in_trading.md) Toolbox` (https://www.mathworks.com/products/signal.html): Offers comprehensive tools for peak detection and analysis.
     - `Wavelet Toolbox` (https://www.mathworks.com/products/wavelet.html): Provides functionality for wavelet-based peak detection.
 
 #### Challenges and Considerations

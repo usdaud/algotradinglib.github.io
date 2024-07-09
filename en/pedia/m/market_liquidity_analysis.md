@@ -37,7 +37,7 @@ The fixed-income market, including bonds, tends to have lower liquidity compared
 Multiple factors can influence market liquidity, including:
 
 1. **Market Participants**: The number and type of participants, including retail traders, institutional investors, and market makers, can significantly affect liquidity.
-2. **Regulatory Environment**: Regulations impact trading practices, market transparency, and the operational efficiency of exchanges and markets.
+2. **Regulatory Environment**: Regulations impact trading practices, market transparency, and the [operational efficiency](../o/operational_efficiency_in_trading.md) of exchanges and markets.
 3. **Market Structure**: The structure of the market, including whether it is a centralized or decentralized market, affects [liquidity provision](../l/liquidity_provision.md).
 4. **Economic Events**: Macro-economic factors, such as interest rate changes, [geopolitical events](../g/geopolitical_events.md), and economic data releases, can influence liquidity.
 5. **Technological Advances**: [Algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading have substantially impacted market liquidity by increasing [market efficiency](../m/market_efficiency.md) but also contributing to occasional liquidity crunches during periods of high volatility.
@@ -45,7 +45,7 @@ Multiple factors can influence market liquidity, including:
 ## Impact of Liquidity on Algorithmic Trading
 [Algorithmic trading](../a/algorithmic_trading.md) strategies need to factor in market liquidity to minimize market impact and enhance execution efficiency. Some strategies and considerations include:
 
-1. **Order Types**: Using order types such as limit orders can help in mitigating market impact and trading within the desired price constraints.
+1. **[Order Types](../o/order_types_in_trading.md)**: Using [order types](../o/order_types_in_trading.md) such as limit orders can help in mitigating market impact and trading within the desired price constraints.
 2. **Liquidity Indicators**: Incorporating real-time liquidity indicators and market depth information to optimize trade execution.
 3. **[Adaptive Algorithms](../a/adaptive_algorithms.md)**: Developing adaptive [trading algorithms](../t/trading_algorithms.md) that adjust their behavior based on current market liquidity conditions.
 4. **[Transaction Cost Analysis](../t/transaction_cost_analysis.md) (TCA)**: Employing TCA to evaluate and reduce [trading costs](../t/trading_costs.md) by analyzing past trades and adapting future strategies accordingly.

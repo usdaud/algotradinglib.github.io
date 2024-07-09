@@ -1,6 +1,6 @@
 # Joint Spectral Analysis
 
-Joint [Spectral Analysis](../s/spectral_analysis.md) (JSA) is a sophisticated method that examines the relationship between multiple time series by studying their spectral properties, which refer to the frequencies at which they oscillate. In the context of trading, this analysis can be used to uncover hidden patterns and correlations between different financial instruments, such as stocks, commodities, or indices, which could help algorithmic traders enhance their [trading strategies](../t/trading_strategies.md) and improve their predictive models.
+Joint [Spectral Analysis](../s/spectral_analysis.md) (JSA) is a sophisticated method that examines the relationship between multiple time series by studying their spectral properties, which refer to the frequencies at which they oscillate. In the context of trading, this analysis can be used to uncover hidden patterns and correlations between different financial instruments, such as stocks, commodities, or indices, which could help algorithmic traders enhance their [trading strategies](../t/trading_strategies.md) and improve their [predictive models](../p/predictive_models_in_trading.md).
 
 ### What is Joint Spectral Analysis?
 
@@ -22,7 +22,7 @@ The Fourier Transform decomposes a time series into its frequency components. Fo
 This transform allows us to move from the time domain to the frequency domain, revealing the predominant cycles present in the data.
 
 #### Wavelet Transform
-The Wavelet Transform is another powerful tool for [spectral analysis](../s/spectral_analysis.md). Unlike the Fourier Transform, which uses sine and cosine functions as the basis functions, the Wavelet Transform uses a set of wavelets that can vary in frequency and location. This allows for a multi-resolution analysis, which is particularly useful for capturing both short-term fluctuations and long-term trends.
+The [Wavelet Transform](../w/wavelet_transform_in_trading.md) is another powerful tool for [spectral analysis](../s/spectral_analysis.md). Unlike the Fourier Transform, which uses sine and cosine functions as the basis functions, the [Wavelet Transform](../w/wavelet_transform_in_trading.md) uses a set of wavelets that can vary in frequency and location. This allows for a multi-resolution analysis, which is particularly useful for capturing both short-term fluctuations and long-term trends.
 
 #### Cross-Spectral Density
 Cross-Spectral Density (CSD) measures the spectral relationship between two time series. It is defined as the Fourier Transform of the cross-covariance function of the two series. Mathematically, for two time series \( X(t) \) and \( Y(t) \), the CSD \( S_{XY}(f) \) is given by:
@@ -70,10 +70,10 @@ Joint [Spectral Analysis](../s/spectral_analysis.md) is a powerful tool in the a
 
 ### Resources and References
 
-For those interested in implementing JSA in their [trading models](../t/trading_models.md), several software tools and libraries are available:
+For those interested in implementing JSA in their [trading models](../t/trading_models.md), several [software tools](../s/software_tools_for_trading.md) and libraries are available:
 
 - [MATLAB](https://www.mathworks.com/products/matlab.html) offers built-in functions for [spectral analysis](../s/spectral_analysis.md), including Fourier and Wavelet transforms.
-- [Python's SciPy](https://scipy.org/) library provides extensive support for [spectral analysis](../s/spectral_analysis.md) through its signal processing module.
+- [Python's SciPy](https://scipy.org/) library provides extensive support for [spectral analysis](../s/spectral_analysis.md) through its [signal processing](../s/signal_processing_in_trading.md) module.
 - [R](https://www.r-project.org/) also has numerous packages for [spectral analysis](../s/spectral_analysis.md), such as `spectral` and `wavelets`.
 
 It’s also valuable to stay updated with academic research and industry case studies to continually refine your approach to using JSA in trading.

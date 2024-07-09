@@ -8,7 +8,7 @@ Systematic alpha is derived from the application of systematic, rules-based stra
 
 ## Key Components of Systematic Alpha Strategies
 
-1. **[Quantitative Models](../q/quantitative_models.md)**: These are mathematical models used to identify trading opportunities. The models can vary from simple statistical [arbitrage](../a/arbitrage.md) strategies to complex machine learning algorithms. 
+1. **[Quantitative Models](../q/quantitative_models.md)**: These are [mathematical models](../m/mathematical_models_in_trading.md) used to identify trading opportunities. The models can vary from simple statistical [arbitrage](../a/arbitrage.md) strategies to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md). 
 
 2. **Data-Driven Insights**: Systematic alpha relies heavily on data - both historical and real-time. Data analysis helps in identifying patterns, correlations, and anomalies which can be exploited for profit.
 
@@ -34,25 +34,25 @@ Statistical [arbitrage](../a/arbitrage.md) involves trading two or more correlat
 
 ### Machine Learning-Based Strategies
 
-With advances in technology, machine learning algorithms are increasingly being used to develop systematic alpha strategies. These algorithms can process vast amounts of data and uncover complex patterns that traditional statistical methods might miss.
+With advances in technology, machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being used to develop systematic alpha strategies. These algorithms can process vast amounts of data and uncover complex patterns that traditional statistical methods might miss.
 
 ## Examples of Firms Utilizing Systematic Alpha
 
 ### Renaissance Technologies
 
-Renaissance Technologies is one of the most renowned hedge funds that employ [systematic trading](../s/systematic_trading.md) strategies. Their flagship Medallion Fund has historically posted outstanding returns, powered by sophisticated mathematical models and algorithms.
+Renaissance Technologies is one of the most renowned hedge funds that employ [systematic trading](../s/systematic_trading.md) strategies. Their flagship Medallion Fund has historically posted outstanding returns, powered by sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms.
 
 [Company Website](https://www.rentec.com/)
 
 ### Two Sigma
 
-Two Sigma uses machine learning, distributed computing, and other advanced technologies to develop [systematic investment strategies](../s/systematic_investment_strategies.md). They delve deeply into big data and [quantitative analysis](../q/quantitative_analysis.md) to drive their investment decisions.
+Two Sigma uses machine learning, distributed computing, and other advanced technologies to develop [systematic investment strategies](../s/systematic_investment_strategies.md). They delve deeply into [big data](../b/big_data_in_trading.md) and [quantitative analysis](../q/quantitative_analysis.md) to drive their investment decisions.
 
 [Company Website](https://www.twosigma.com/)
 
 ### AQR Capital Management
 
-AQR Capital Management employs quantitative strategies across various asset classes. They emphasize a disciplined, data-driven approach to trading, focusing on historical data and economic fundamentals.
+AQR Capital Management employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) across various asset classes. They emphasize a disciplined, data-driven approach to trading, focusing on historical data and economic fundamentals.
 
 [Company Website](https://www.aqr.com/)
 

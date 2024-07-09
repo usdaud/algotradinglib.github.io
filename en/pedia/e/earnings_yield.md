@@ -31,7 +31,7 @@ For example, if a company has an EPS of $5 and its current share price is $50, t
 
 2. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Algorithms can be designed to optimize portfolios by prioritizing stocks with higher earnings yields. This can help in building a portfolio that balances growth and value stocks, potentially leading to better risk-adjusted returns.
 
-3. **Predictive Models**: Machine learning models can use historical earnings yields, among other factors, to predict future stock prices or price movements. By analyzing patterns and correlations, these models can generate buy or sell signals.
+3. **[Predictive Models](../p/predictive_models_in_trading.md)**: Machine learning models can use historical earnings yields, among other factors, to predict future stock prices or price movements. By analyzing patterns and correlations, these models can generate buy or sell signals.
 
 4. **Pair Trading**: Involving simultaneous buying and selling of related stocks, pair [trading strategies](../t/trading_strategies.md) can benefit from earnings yield by pairing a high-yield stock with a low-yield one within the same sector.
 
@@ -46,8 +46,8 @@ Several firms and platforms offer tools and algorithms to incorporate earnings y
 2. **[Alpaca](../a/alpaca.md)**: A commission-free trading API for developers. Users can develop and deploy [trading algorithms](../t/trading_algorithms.md) that use earnings yield as part of their decision criteria.
    [Link to Alpaca](https://alpaca.markets/)
 
-3. **Kensho Technologies**: Utilizing AI and data science, Kensho offers advanced analytics that can incorporate earnings yield into predictive models and [trading strategies](../t/trading_strategies.md).
+3. **Kensho Technologies**: Utilizing AI and [data science](../d/data_science_in_trading.md), Kensho offers advanced analytics that can incorporate earnings yield into [predictive models](../p/predictive_models_in_trading.md) and [trading strategies](../t/trading_strategies.md).
    [Link to Kensho Technologies](https://www.kensho.com/)
 
 ### Conclusion
-Earnings yield is a versatile financial metric that can significantly enhance [algorithmic trading](../a/algorithmic_trading.md) strategies. By identifying undervalued stocks, optimizing portfolios, and improving predictive models, earnings yield helps traders and investors make more informed decisions. Integrating it with other financial indicators and leveraging advanced technologies can provide a competitive edge in the financial markets.
+Earnings yield is a versatile financial metric that can significantly enhance [algorithmic trading](../a/algorithmic_trading.md) strategies. By identifying undervalued stocks, optimizing portfolios, and improving [predictive models](../p/predictive_models_in_trading.md), earnings yield helps traders and investors make more informed decisions. Integrating it with other financial indicators and leveraging advanced technologies can provide a competitive edge in the financial markets.

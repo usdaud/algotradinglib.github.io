@@ -30,14 +30,14 @@ Noise measurement typically involves statistical and computational techniques to
 
 - **Pre-Processing Data**: Before using data for [trading algorithms](../t/trading_algorithms.md), it's crucial to pre-process and clean it. This involves removing outliers, smoothing data, and applying filters.
 - **Feature Engineering**: Various statistical metrics and transformations can be applied to raw data to extract more meaningful features that highlight true signals.
-- **Machine Learning**: Advanced machine learning models, such as Support Vector Machines (SVMs) and neural networks, can be trained to distinguish between noise and signal.
+- **Machine Learning**: Advanced machine learning models, such as [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs) and [neural networks](../n/neural_networks_in_trading.md), can be trained to distinguish between noise and signal.
 - **[Backtesting](../b/backtesting.md)**: A robust [backtesting](../b/backtesting.md) framework can help determine how well noise-filtering techniques work under different market conditions by simulating [trading strategies](../t/trading_strategies.md) on historical data.
 
 ### Case Studies
 
-Several companies specialize in noise measurement and signal processing for trading:
+Several companies specialize in noise measurement and [signal processing](../s/signal_processing_in_trading.md) for trading:
 
-1. **[Quandl](../q/quandl.md)**: Provides a marketplace for financial, economic, and [alternative data](../a/alternative_data.md), offering tools for [data normalization](../d/data_normalization.md) and signal detection. [Website](https://www.quandl.com/)
+1. **[Quandl](../q/quandl.md)**: Provides a marketplace for financial, economic, and [alternative data](../a/alternative_data.md), offering tools for [data normalization](../d/data_normalization.md) and [signal detection](../s/signal_detection_in_trading.md). [Website](https://www.quandl.com/)
 2. **Kensho Technologies**: Uses machine learning to analyze and interpret market data, filtering out noise to provide accurate market insights. [Website](https://www.kensho.com/)
 3. **Numerai**: A hedge fund that crowdsources AI models to predict market movements, where model submission and evaluation focus heavily on signal extraction quality. [Website](https://numer.ai/)
 

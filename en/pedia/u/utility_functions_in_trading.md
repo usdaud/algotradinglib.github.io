@@ -10,7 +10,7 @@ In mathematical terms, a utility function \( U(x) \) maps choices or outcomes \(
 
 ### Utility Functions in Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), utility functions are used to model and formalize [trading strategies](../t/trading_strategies.md). Algorithms need to make rapid and complex decisions similar to human traders but without the biases and constraints. By incorporating utility functions, algorithms can systematically evaluate and select trades that align with the trader's objectives under uncertainty and risk.
+In [algorithmic trading](../a/algorithmic_trading.md), utility functions are used to model and formalize [trading strategies](../t/trading_strategies.md). Algorithms need to make rapid and complex decisions similar to human traders but without the biases and constraints. By incorporating utility functions, algorithms can systematically evaluate and select trades that align with the trader's objectives under [uncertainty](../u/uncertainty_in_trading.md) and risk.
 
 ## Types of Utility Functions
 

@@ -53,7 +53,7 @@ Numerous studies and models have been developed to analyze the market impact of 
 - **Agent-Based Models:**
     - These models simulate the actions and interactions of autonomous agents (traders) to assess their effects on the market. They are effective in capturing the adaptive and strategic behavior of market participants.
 
-- **Empirical Analysis:**
+- **[Empirical Analysis](../e/empirical_analysis_in_trading.md):**
     - Real market data analysis helps to understand actual trading behavior and market responses to limit orders. Techniques such as [regression analysis](../r/regression_analysis.md) and econometric modeling are used to identify patterns and causal relationships.
 
 ---
@@ -109,7 +109,7 @@ Technological advancements have significantly impacted the usage and effectivene
 Regulations can affect how limit orders are used and their market impact:
 
 - **[Trading Rules](../t/trading_rules.md):**
-    - Exchanges may impose rules on order types, limits on order size, and cancellations, affecting the deployment of limit orders.
+    - Exchanges may impose rules on [order types](../o/order_types_in_trading.md), limits on order size, and cancellations, affecting the deployment of limit orders.
 
 - **Transparency Requirements:**
     - Regulations that require transparency can limit the use of hidden orders, impacting market depth and liquidity.

@@ -1,11 +1,11 @@
 # Least Squares Monte Carlo (LSMC)
 
-Least Squares Monte Carlo (LSMC) is a simulation-based method for estimating the value of financial [derivatives](../d/derivatives.md), particularly American-style options, which provide the holder with the right to exercise at multiple points before the expiry. This technique blends elements of [Monte Carlo simulation](../m/monte_carlo_simulation.md) and [least squares regression](../l/least_squares_regression.md), offering a powerful tool for handling complex derivative pricing where analytical solutions are often infeasible.
+Least Squares Monte Carlo (LSMC) is a [simulation](../s/simulation_in_trading.md)-based method for estimating the value of financial [derivatives](../d/derivatives.md), particularly American-style options, which provide the holder with the right to exercise at multiple points before the expiry. This technique blends elements of [Monte Carlo simulation](../m/monte_carlo_simulation.md) and [least squares regression](../l/least_squares_regression.md), offering a powerful tool for handling complex derivative pricing where analytical solutions are often infeasible.
 
 ### Background and Context
 The valuation of American options signifies a notable complexity due to the embedded feature of early exercise. Traditional methods like the Black-Scholes formulacmanage [European options](../e/european_options.md) but fall short for American counterparts. Least Squares Monte Carlo addresses this gap effectively by providing a numerical method to estimate the optimal exercise strategy and the corresponding option value.
 
-The method was first introduced by Francis Longstaff and Eduardo Schwartz in their seminal paper "Valuing American Options by Simulation: A Simple Least-Squares Approach" in 2001. This pioneering work laid the foundation for LSMC and demonstrated its efficacy in pricing high-dimensional American options.
+The method was first introduced by Francis Longstaff and Eduardo Schwartz in their seminal paper "Valuing American Options by [Simulation](../s/simulation_in_trading.md): A Simple Least-Squares Approach" in 2001. This pioneering work laid the foundation for LSMC and demonstrated its efficacy in pricing high-dimensional American options.
 
 ### Core Concepts
 
@@ -99,7 +99,7 @@ Consider the task of pricing an American put option. The steps would include:
    option_value = np.mean(cash_flows[1] * np.exp(-r * (T / M)))
    print(f"Estimated American Put Option Value: {option_value:.2f}")
    ```
-This example provides a simplified illustration of LSMC applied to an American put option, demonstrating the blending of simulation and regression to derive an estimated option value.
+This example provides a simplified illustration of LSMC applied to an American put option, demonstrating the blending of [simulation](../s/simulation_in_trading.md) and regression to derive an estimated option value.
 
 ### LSMC in the Industry
 
@@ -116,8 +116,8 @@ Agencies like PRMIA (Professional Risk Managers' International Association) prov
 The dynamics of financial markets present ongoing challenges and necessitate continuous innovations in derivative pricing methodologies. LSMC remains a cornerstone technique, with future advancements likely focusing on:
 
 1. **Enhanced Computational Tools**: Development of more efficient algorithms and utilization of GPU computing to tackle the computational intensity of LSMC.
-2. **Hybrid Models**: Integration of LSMC with other numerical methods (e.g., [finite difference methods](../f/finite_difference_methods.md)) to improve accuracy and computational efficiency.
+2. **Hybrid Models**: Integration of LSMC with other [numerical methods](../n/numerical_methods_in_trading.md) (e.g., [finite difference methods](../f/finite_difference_methods.md)) to improve accuracy and computational efficiency.
 3. **Machine Learning Integration**: Employing machine learning techniques to refine regression steps and optimize the basis functions for better estimation of continuation values.
-4. **Stochastic Volatility and Jump Processes**: Extending LSMC to accommodate more complex [stochastic processes](../s/stochastic_processes.md) involving [volatility clustering](../v/volatility_clustering.md) or jumps in asset prices.
+4. **Stochastic Volatility and [Jump Processes](../j/jump_processes_in_trading.md)**: Extending LSMC to accommodate more complex [stochastic processes](../s/stochastic_processes.md) involving [volatility clustering](../v/volatility_clustering.md) or jumps in asset prices.
 
 In conclusion, Least Squares Monte Carlo remains an indispensable technique in the toolbox of financial engineers and quantitative analysts, offering a robust framework for tackling the intricacies of American option pricing and beyond.

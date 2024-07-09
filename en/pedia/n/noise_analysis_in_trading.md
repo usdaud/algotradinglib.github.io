@@ -13,7 +13,7 @@ In the context of financial trading, noise refers to the random fluctuations in 
 Noise analysis becomes pivotal in the domain of [algorithmic trading](../a/algorithmic_trading.md), where the objective is to develop strategies based on data-driven insights. Distinguishing between noise and true signal is essential for several reasons:
 
 - **Improving Signal-to-Noise Ratio**: Enhancing the accuracy of the signals used in [trading algorithms](../t/trading_algorithms.md) helps in making better trading decisions.
-- **[Risk management](../r/risk_management.md)**: Proper noise filtering can reduce the number of false signals, thus minimizing the risk of unnecessary trades.
+- **[Risk management](../r/risk_management.md)**: Proper noise filtering can reduce the number of [false signals](../f/false_signals_in_trading.md), thus minimizing the risk of unnecessary trades.
 - **Enhanced model performance**: Algorithms that effectively reduce noise are generally more resilient and perform better in varying market conditions.
 
 ## Sources and Types of Noise
@@ -49,11 +49,11 @@ Technical noise is derived from the trading activity itself and includes:
 2. **Kalman Filtering**
    - Advanced statistical techniques that predict the next value of a series by considering both the noise and the underlying model of the data.
 
-3. **Wavelet Transform**
+3. **[Wavelet Transform](../w/wavelet_transform_in_trading.md)**
    - Decomposing the price series into different frequency components and analyzing each component individually to filter out noise.
 
 ### Machine Learning Approaches
-Machine learning algorithms can assist in distinguishing noise from signal:
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can assist in distinguishing noise from signal:
 
 - **Supervised Learning Models**: Models trained on labeled data to identify and filter noise.
 - **Unsupervised Learning**: Techniques like clustering to find patterns that distinguish noise from informative signals.
@@ -81,7 +81,7 @@ Noise reduction improves the accuracy of [portfolio management](../p/portfolio_m
 ### High-Frequency Trading (HFT)
 In HFT, dealing with noise effectively is crucial for maintaining profitability and reducing the occurrence of erroneous trades:
 
-- **Signal processing techniques**: Using sophisticated filtering methods to clean tick-by-tick data.
+- **[Signal processing](../s/signal_processing_in_trading.md) techniques**: Using sophisticated filtering methods to clean tick-by-tick data.
 - **Latency management**: Implementing measures to mitigate the impact of microstructure noise.
 
 ## Challenges in Noise Analysis
@@ -101,13 +101,13 @@ Noise reduction can be computationally intensive, especially for high-frequency 
 ### Identifying the True Signal
 Differentiating between noise and genuine signals remains a nuanced task:
 
-- **Contextual analysis**: Incorporating broader market context and external factors to improve signal detection.
+- **Contextual analysis**: Incorporating broader market context and external factors to improve [signal detection](../s/signal_detection_in_trading.md).
 - **Cross-validation**: Utilizing robust validation techniques to ensure reliability.
 
 ## Case Studies and Use Cases
 
 ### Renaissance Technologies
-Renaissance Technologies, a prominent hedge fund, is known for its sophisticated noise analysis techniques that it employs in its [quantitative trading](../q/quantitative_trading.md) strategies. By leveraging extensive computational power and advanced mathematical models, the firm has consistently outperformed traditional market strategies.
+Renaissance Technologies, a prominent hedge fund, is known for its sophisticated noise analysis techniques that it employs in its [quantitative trading](../q/quantitative_trading.md) strategies. By leveraging extensive computational power and advanced [mathematical models](../m/mathematical_models_in_trading.md), the firm has consistently outperformed traditional market strategies.
 
 For more details, visit: [Renaissance Technologies](https://www.rentec.com/)
 

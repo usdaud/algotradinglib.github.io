@@ -59,7 +59,7 @@ The net effect is capturing any pricing inefficiencies while being relatively in
 Fully [automated trading systems](../a/automated_trading_systems.md) can monitor markets in real-time and execute Short Box Spreads more efficiently than manual trading. Popular platforms and resources for developing these systems include:
 
 - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) - provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive resources for options trading.
-- **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com/) - offers robust API access for [automated trading systems](../a/automated_trading_systems.md).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com/) - offers robust API access for [automated trading systems](../a/automated_trading_systems.md).
 
 ## Risks and Considerations
 
@@ -89,7 +89,7 @@ Consider implementing a Short Box Spread on the S&P 500 [index options](../i/ind
 
 3. **[Backtesting](../b/backtesting.md) and Optimization**: Test the algorithm against historical S&P 500 data to ensure robustness.
 
-4. **Deployment**: Execute the strategy in a live [trading environment](../t/trading_environment.md) using platforms such as [QuantConnect](../q/quantconnect.md) or Interactive Brokers.
+4. **Deployment**: Execute the strategy in a live [trading environment](../t/trading_environment.md) using platforms such as [QuantConnect](../q/quantconnect.md) or [Interactive Brokers](../i/interactive_brokers.md).
 
 ## Conclusion
 

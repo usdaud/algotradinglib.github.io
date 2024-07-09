@@ -40,7 +40,7 @@ Structured models, also known as firm-value models, are based on the idea that a
 Reduced-form models, also called intensity-based models, do not focus on the firm's asset values. Instead, they model default as a random event, driven by variables like interest rates or macroeconomic factors.
 
 #### Key Aspects:
-- **Poisson Process**: Default is modeled as a Poisson process with an intensity function.
+- **[Poisson Process](../p/poisson_process_in_trading.md)**: Default is modeled as a [Poisson process](../p/poisson_process_in_trading.md) with an intensity function.
 - **Hazard Rates**: Dynamic modeling of hazard rates based on observable market data.
 
 **Notable Researchers**:
@@ -48,12 +48,12 @@ Reduced-form models, also called intensity-based models, do not focus on the fir
 
 ### 4. Machine Learning Models
 
-Machine learning (ML) and artificial intelligence (AI) are transforming credit risk modeling by leveraging vast datasets and sophisticated algorithms to improve predictive accuracy.
+Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are transforming credit risk modeling by leveraging vast datasets and sophisticated algorithms to improve predictive accuracy.
 
 #### Techniques Used:
-- **Supervised Learning**: Algorithms like logistic regression, [decision trees](../d/decision_trees.md), random forests, and gradient boosting.
+- **Supervised Learning**: Algorithms like [logistic regression](../l/logistic_regression_in_trading.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and gradient boosting.
 - **Unsupervised Learning**: Clustering techniques to identify patterns in borrower behavior.
-- **Neural Networks**: Deep learning models to capture complex, non-linear relationships.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning models to capture complex, non-linear relationships.
 
 **Example Companies**:
 - Zest AI: [https://www.zest.ai/](https://www.zest.ai/)
@@ -72,26 +72,26 @@ These models assess the risk of a portfolio of credit exposures, considering cor
 
 ## Regulatory and Economic Considerations
 
-The development and application of credit risk models are heavily influenced by regulatory frameworks and economic conditions.
+The development and application of credit [risk models](../r/risk_models_in_trading.md) are heavily influenced by regulatory frameworks and economic conditions.
 
 ### Major Regulatory Frameworks:
 - **Basel Accords**: International regulatory accord that provides recommendations on banking regulations with a strong emphasis on [risk management](../r/risk_management.md).
 
 ### Economic Conditions:
-[Economic cycles](../e/economic_cycles.md) play a significant role in credit risk models, as periods of recession often see higher default rates, whereas stable or growing economies tend to have lower default rates.
+[Economic cycles](../e/economic_cycles.md) play a significant role in credit [risk models](../r/risk_models_in_trading.md), as periods of recession often see higher default rates, whereas stable or growing economies tend to have lower default rates.
 
 ## Challenges and Future Directions
 
 Despite advancements, credit risk modeling faces several challenges, including:
 - **Data Quality**: Ensuring the accuracy and completeness of data used for modeling.
 - **Model Risk**: The risk that a model may be incorrect or misused.
-- **Economic Uncertainty**: Predicting the impact of unforeseen economic events.
+- **Economic [Uncertainty](../u/uncertainty_in_trading.md)**: Predicting the impact of unforeseen economic events.
 
 ### Future Directions:
 - **Integration of [Alternative Data](../a/alternative_data.md)**: Using [non-traditional data sources](../n/non-traditional_data_sources.md) like social media, utility payments, and transaction data to enhance model accuracy.
-- **Use of Blockchain**: Potential for decentralized credit scoring and verification.
+- **Use of [Blockchain](../b/blockchain_in_trading.md)**: Potential for decentralized credit scoring and verification.
 - **Advance in AI and ML**: Continued evolution of machine learning models to handle larger and more complex datasets, improving predictive power and robustness.
 
 ## Conclusion
 
-Credit risk models are an essential component of modern [financial risk management](../f/financial_risk_management.md). From traditional statistical methods to cutting-edge machine learning techniques, these models provide valuable insights into the probability of borrower default, enabling better decision-making and [risk management](../r/risk_management.md) for financial institutions. As technology and data availability continue to evolve, credit risk modeling will undoubtedly become even more sophisticated, offering enhanced capabilities for predicting and managing credit risk in an increasingly complex financial landscape.
+Credit [risk models](../r/risk_models_in_trading.md) are an essential component of modern [financial risk management](../f/financial_risk_management.md). From traditional statistical methods to cutting-edge machine learning techniques, these models provide valuable insights into the probability of borrower default, enabling better decision-making and [risk management](../r/risk_management.md) for financial institutions. As technology and data availability continue to evolve, credit risk modeling will undoubtedly become even more sophisticated, offering enhanced capabilities for predicting and managing credit risk in an increasingly complex financial landscape.

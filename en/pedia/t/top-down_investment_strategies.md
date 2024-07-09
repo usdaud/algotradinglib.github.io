@@ -34,7 +34,7 @@ Sector rotational strategies involve switching investments between different sec
 
 ### Country Allocation Strategy
 
-Country allocation strategies focus on investing in the stock markets of countries expected to outperform others. This involves analyzing factors such as GDP growth rates, political stability, and interest rates to determine which national markets are most attractive for investment.
+Country allocation strategies focus on investing in the stock markets of countries expected to outperform others. This involves analyzing factors such as GDP [growth rates](../g/growth_rates_in_trading.md), political stability, and interest rates to determine which national markets are most attractive for investment.
 
 ## Advantages of Top-Down Investment Strategies
 
@@ -72,7 +72,7 @@ Bridgewater Associates, founded by Ray Dalio, is one of the world's largest and 
 
 ### Fidelity Investments
 
-Fidelity Investments uses a combination of top-down and bottom-up approaches in its actively managed funds. The firm’s global [asset allocation](../a/asset_allocation.md) funds rely heavily on [top-down analysis](../t/top-down_analysis.md) to make investment decisions that align with macroeconomic and sectoral trends. For more details, visit their [official website](https://www.fidelity.com/).
+[Fidelity Investments](../f/fidelity_investments.md) uses a combination of top-down and bottom-up approaches in its actively managed funds. The firm’s global [asset allocation](../a/asset_allocation.md) funds rely heavily on [top-down analysis](../t/top-down_analysis.md) to make investment decisions that align with macroeconomic and sectoral trends. For more details, visit their [official website](https://www.fidelity.com/).
 
 ## Conclusion
 

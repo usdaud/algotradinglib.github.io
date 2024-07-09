@@ -18,7 +18,7 @@ To grasp the concept, consider two assets. If Asset A tends to go up when Asset 
 
 #### 1. Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) strategies involve taking advantage of price inefficiencies between related assets using mathematical models and statistical techniques. These strategies often employ [pairs trading](../p/pairs_trading.md), where one asset is bought, and a correlated asset is sold short, to exploit mean-reverting behavior of spread between the two.
+Statistical [arbitrage](../a/arbitrage.md) strategies involve taking advantage of price inefficiencies between related assets using [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques. These strategies often employ [pairs trading](../p/pairs_trading.md), where one asset is bought, and a correlated asset is sold short, to exploit mean-reverting behavior of spread between the two.
 
 - **Example:** Consider two stocks in the same industry with historically correlated price movements. When the price spread deviates significantly from its historical average, a trader might buy the underperforming stock and short the outperforming one, expecting the spread to revert to the mean.
 
@@ -42,24 +42,24 @@ Advanced machine learning techniques enable the discovery of non-correlational p
 
 ### Examples of Firms Utilizing Non-Correlative Strategies
 
-1. **Two Sigma** - [Two Sigma](https://www.twosigma.com): Two Sigma employs a variety of algorithmic strategies, including those based on low correlation, to manage risks and drive returns. They leverage data science and advanced technology to develop quantitatively-driven investment strategies.
+1. **Two Sigma** - [Two Sigma](https://www.twosigma.com): Two Sigma employs a variety of algorithmic strategies, including those based on low correlation, to manage risks and drive returns. They leverage [data science](../d/data_science_in_trading.md) and advanced technology to develop quantitatively-driven investment strategies.
 
 2. **AQR Capital Management** - [AQR](https://www.aqr.com): AQR is known for its market-neutral and diversified [hedge fund strategies](../h/hedge_fund_strategies.md). The firm uses purely [quantitative models](../q/quantitative_models.md) to identify non-correlational relationships across various asset classes, aiming for consistent [alpha generation](../a/alpha_generation.md).
 
-3. **Renaissance Technologies** - Renaissance Technologies operates under the philosophy that markets are chaotic and exhibit nonlinear dynamics. They use sophisticated mathematical models to detect inefficiencies and develop non-correlated strategies, maximizing returns while minimizing risk.
+3. **Renaissance Technologies** - Renaissance Technologies operates under the philosophy that markets are chaotic and exhibit nonlinear dynamics. They use sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to detect inefficiencies and develop non-correlated strategies, maximizing returns while minimizing risk.
 
 ### Techniques and Tools for Implementing Non-Correlation Strategies
 
 #### Statistical Techniques
 
 - **Pearson Correlation Coefficient:** Measures the linear relationship between two variables, useful for identifying pairs of assets with low or negative correlations.
-- **Principal Component Analysis (PCA):** Helps in reducing dimensionality of data and understanding the major sources of variance, facilitating the construction of portfolios with non-correlated assets.
+- **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA):** Helps in reducing dimensionality of data and understanding the major sources of variance, facilitating the construction of portfolios with non-correlated assets.
 - **Cointegration Analysis:** Identifies pairs of assets whose price series have a long-term equilibrium relationship, useful for [pairs trading](../p/pairs_trading.md) strategies.
 
 #### Algorithmic Tools
 
 - **[Backtesting](../b/backtesting.md) Software:** Platforms like [QuantConnect](../q/quantconnect.md) and MetaTrader provide robust environments for [backtesting](../b/backtesting.md) non-correlational strategies using historical data.
-- **Machine Learning Frameworks:** Libraries such as TensorFlow and scikit-learn offer tools for building predictive models that can identify non-correlated asset relationships.
+- **Machine Learning Frameworks:** Libraries such as TensorFlow and scikit-learn offer tools for building [predictive models](../p/predictive_models_in_trading.md) that can identify non-correlated asset relationships.
 - **API Access to Market Data:** Real-time and historical data providers, such as [Bloomberg](../b/bloomberg.md) and [Quandl](../q/quandl.md), supply comprehensive datasets necessary for [backtesting](../b/backtesting.md) and implementing non-correlational strategies.
 
 ### Challenges and Considerations

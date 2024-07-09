@@ -12,7 +12,7 @@ Nikolai Kondratieff first expounded his theory in the 1920s, most notably throug
 
 ### 1. Spring (Inflationary Growth)
 
-This phase marks the beginning of a new cycle. It's characterized by recovery and growth, often stimulated by innovation and technological advancements. Increased investment, expansive credit policies, and the development of new industries drive economic expansion. Profit margins expand, employment rises, and there is a general sense of optimism in the market.
+This phase marks the beginning of a new cycle. It's characterized by recovery and growth, often stimulated by innovation and technological advancements. Increased investment, expansive credit policies, and the development of new industries drive economic expansion. [Profit margins](../p/profit_margins_in_trading.md) expand, employment rises, and there is a general sense of optimism in the market.
 
 ### 2. Summer (Stagflation)
 

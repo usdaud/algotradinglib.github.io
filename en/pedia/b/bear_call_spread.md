@@ -101,7 +101,7 @@ While the Bear Call Spread is meant to be a "set it and forget it" strategy, som
 2. **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A highly regarded platform for options trading with advanced analytics and trading tools.
    - [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.page)
 
-3. **E*TRADE**: Offers a comprehensive options trading platform with analytical tools and educational resources.
+3. **[E*TRADE](../e/e_trade.md)**: Offers a comprehensive options trading platform with analytical tools and educational resources.
    - [E*TRADE](https://us.etrade.com/home)
 
 4. **Tastyworks**: Popular among active traders for its user-friendly interface and low commission structure.

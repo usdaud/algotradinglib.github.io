@@ -12,7 +12,7 @@ Structural models typically encompass several key components:
 
 3. **[Stochastic Processes](../s/stochastic_processes.md)**: Structural models often incorporate [stochastic processes](../s/stochastic_processes.md) to account for the randomness inherent in financial markets. Commonly used processes include Brownian motion, [Geometric Brownian motion](../g/geometric_brownian_motion.md), and mean-reverting processes.
 
-4. **Risk Factors**: These include various types of risk that affect asset returns, such as market risk, credit risk, [liquidity risk](../l/liquidity_risk.md), and operational risk. Structural models aim to quantify and incorporate these risks into their predictions.
+4. **[Risk Factors](../r/risk_factors_in_trading.md)**: These include various types of risk that affect asset returns, such as market risk, credit risk, [liquidity risk](../l/liquidity_risk.md), and operational risk. Structural models aim to quantify and incorporate these risks into their predictions.
 
 ## Types of Structural Models
 Several types of structural models are commonly used in trading:
@@ -41,7 +41,7 @@ Firm-[valuation models](../v/valuation_models.md) aim to estimate the intrinsic 
 ### 4. Behavioral Models
 Behavioral models incorporate insights from psychology and behavioral economics to explain [market anomalies](../m/market_anomalies.md) and investor behavior that are not captured by traditional financial theories.
 
-* **Prospect Theory Models**: These models are based on the idea that investors value gains and losses differently, leading to irrational decision-making.
+* **[Prospect Theory](../p/prospect_theory_in_trading.md) Models**: These models are based on the idea that investors value gains and losses differently, leading to irrational decision-making.
 
 * **[Sentiment Analysis](../s/sentiment_analysis.md) Models**: These models use data from news articles, social media, and other sources to gauge investor sentiment and predict market movements.
 
@@ -73,13 +73,13 @@ Several companies and tools have been instrumental in the development and applic
 [FactSet](https://www.factset.com/) provides integrated financial information and analytical applications, including tools for [quantitative analysis](../q/quantitative_analysis.md) and [risk management](../r/risk_management.md).
 
 ### 4. MATLAB
-[MATLAB](https://www.mathworks.com/products/matlab.html) is a high-level programming language and environment used extensively in [financial modeling](../f/financial_modeling.md). It offers toolboxes for econometrics, optimization, and statistical analysis, making it a popular choice for developing structural models.
+[MATLAB](https://www.mathworks.com/products/matlab.html) is a high-level programming language and environment used extensively in [financial modeling](../f/financial_modeling.md). It offers toolboxes for [econometrics](../e/econometrics_in_trading.md), optimization, and statistical analysis, making it a popular choice for developing structural models.
 
 ### 5. SAS
 [SAS](https://www.sas.com/) provides advanced analytics and [risk management](../r/risk_management.md) solutions. Their software is widely used in the finance industry for developing and implementing structural models.
 
 ### 6. Python and R
-Both [Python](https://www.python.org/) and [R](https://www.r-project.org/) are open-source programming languages that have become increasingly popular for [financial modeling](../f/financial_modeling.md). They offer a wide range of libraries and packages for econometrics, statistical analysis, and machine learning.
+Both [Python](https://www.python.org/) and [R](https://www.r-project.org/) are open-source programming languages that have become increasingly popular for [financial modeling](../f/financial_modeling.md). They offer a wide range of libraries and packages for [econometrics](../e/econometrics_in_trading.md), statistical analysis, and machine learning.
 
 ## Challenges and Limitations
 Despite their advantages, structural models also face several challenges and limitations:
@@ -103,13 +103,13 @@ There is a risk of overfitting when developing structural models, especially whe
 The future of structural models in trading is likely to be influenced by advancements in technology and data availability:
 
 ### 1. Big Data and Machine Learning
-The integration of big data and machine learning techniques can enhance structural models by providing more accurate and granular insights. For example, machine learning algorithms can be used to identify patterns in large datasets that traditional models might miss.
+The integration of [big data](../b/big_data_in_trading.md) and machine learning techniques can enhance structural models by providing more accurate and granular insights. For example, machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be used to identify patterns in large datasets that traditional models might miss.
 
 ### 2. Real-Time Data Analysis
 Advancements in data processing and storage technologies are enabling real-time analysis of large volumes of data. This can help traders make more timely and informed decisions based on up-to-date information.
 
 ### 3. Enhanced Risk Management
-Improved [risk management](../r/risk_management.md) tools and techniques can help traders better quantify and mitigate various types of risk. For example, advancements in stress testing and scenario analysis can provide deeper insights into potential market downturns.
+Improved [risk management](../r/risk_management.md) tools and techniques can help traders better quantify and mitigate various types of risk. For example, advancements in [stress testing](../s/stress_testing_in_trading.md) and scenario analysis can provide deeper insights into potential market downturns.
 
 ### 4. Regulatory Changes
 Changes in financial regulations can impact the development and application of structural models. For example, new regulations on data privacy and financial reporting can influence the availability and use of data in modeling.

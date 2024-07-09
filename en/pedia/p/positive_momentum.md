@@ -58,7 +58,7 @@ Cross-sectional momentum involves ranking assets relative to each other based on
 
 #### Data Collection and Processing
 
-Accurate data collection is foundational to any [algorithmic trading](../a/algorithmic_trading.md) strategy. Historical price data, volume, and other relevant metrics need to be fetched from reliable data sources. Providers like Yahoo Finance, [Quandl](../q/quandl.md), and [Bloomberg](../b/bloomberg.md) offer such data.
+Accurate data collection is foundational to any [algorithmic trading](../a/algorithmic_trading.md) strategy. Historical price data, volume, and other relevant metrics need to be fetched from reliable data sources. Providers like [Yahoo Finance](../y/yahoo_finance.md), [Quandl](../q/quandl.md), and [Bloomberg](../b/bloomberg.md) offer such data.
 
 - [Quandl](../q/quandl.md) API: [Visit Quandl](https://www.quandl.com/tools/api)
 
@@ -82,7 +82,7 @@ Designing a positive momentum algorithm involves various steps:
    - Adjust parameters to optimize returns while minimizing risks.
 
 5. **Implementation:**
-   - Set up a live [trading environment](../t/trading_environment.md), integrating with brokerage APIs (e.g., [Alpaca](../a/alpaca.md), Interactive Brokers).
+   - Set up a live [trading environment](../t/trading_environment.md), integrating with brokerage APIs (e.g., [Alpaca](../a/alpaca.md), [Interactive Brokers](../i/interactive_brokers.md)).
    - Regularly rebalance the portfolio based on the momentum signals.
 
 #### Risk Management

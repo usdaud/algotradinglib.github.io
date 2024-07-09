@@ -12,11 +12,11 @@ Intertemporal hedging is a cornerstone of MPAA. It involves making investment ch
 
 ### Dynamic Rebalancing
 
-Dynamic rebalancing refers to periodically adjusting the asset allocations in a portfolio to reflect changing market conditions, investment opportunities, and risk factors over multiple periods. This often involves selling overperforming assets and buying underperforming ones to maintain a targeted risk-return profile.
+Dynamic rebalancing refers to periodically adjusting the asset allocations in a portfolio to reflect changing market conditions, investment opportunities, and [risk factors](../r/risk_factors_in_trading.md) over multiple periods. This often involves selling overperforming assets and buying underperforming ones to maintain a targeted risk-return profile.
 
 ### Stochastic Programming
 
-Stochastic programming is a mathematical framework used to solve optimization problems that involve uncertainty. In MPAA, it is used to model the probabilistic nature of asset returns, interest rates, and other economic variables over multiple periods. Stochastic models help investors to incorporate various scenarios and pathways that could materialize in the future, thus optimizing the portfolio across time.
+Stochastic programming is a mathematical framework used to solve optimization problems that involve [uncertainty](../u/uncertainty_in_trading.md). In MPAA, it is used to model the probabilistic nature of asset returns, interest rates, and other economic variables over multiple periods. Stochastic models help investors to incorporate various scenarios and pathways that could materialize in the future, thus optimizing the portfolio across time.
 
 ### Scenario Analysis
 
@@ -30,11 +30,11 @@ Scenario analysis involves evaluating the portfolio under different hypothetical
 
 ### Bellman's Principle of Optimality
 
-Bellman's Principle of Optimality, derived from Dynamic Programming, states that an optimal policy has the property that, given the initial state, the remaining decisions must constitute an optimal policy concerning the state resulting from the first decision. This principle is essential for solving MPAA problems, as it facilitates breaking down the multi-period problem into a series of interrelated single-period problems.
+Bellman's Principle of Optimality, derived from [Dynamic Programming](../d/dynamic_programming_in_trading.md), states that an optimal policy has the property that, given the initial state, the remaining decisions must constitute an optimal policy concerning the state resulting from the first decision. This principle is essential for solving MPAA problems, as it facilitates breaking down the multi-period problem into a series of interrelated single-period problems.
 
 ### Utility Theory
 
-Utility theory plays a significant role in MPAA by quantifying investor preferences for risk and return over multiple periods. Unlike simple return maximization, utility functions can capture the investor's risk aversion, time preference, and other subjective factors that influence investment decisions over time.
+[Utility theory](../u/utility_theory_in_trading.md) plays a significant role in MPAA by quantifying investor preferences for risk and return over multiple periods. Unlike simple return maximization, [utility functions](../u/utility_functions_in_trading.md) can capture the investor's risk aversion, time preference, and other subjective factors that influence investment decisions over time.
 
 ## Computational Approaches
 
@@ -44,11 +44,11 @@ Utility theory plays a significant role in MPAA by quantifying investor preferen
 
 ### Dynamic Programming
 
-Dynamic programming is used extensively in MPAA to solve complex optimization problems. By breaking down the multi-period allocation problem into simpler stages, dynamic programming ensures that the overall strategy remains optimal at each step.
+[Dynamic programming](../d/dynamic_programming_in_trading.md) is used extensively in MPAA to solve complex optimization problems. By breaking down the multi-period allocation problem into simpler stages, [dynamic programming](../d/dynamic_programming_in_trading.md) ensures that the overall strategy remains optimal at each step.
 
 ### Genetic Algorithms
 
-Genetic algorithms are adaptive heuristic search algorithms premised on the evolutionary ideas of natural selection and genetics. They are increasingly being used in MPAA to optimize complex, multi-modal problems where traditional optimization techniques fall short.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) are adaptive heuristic search algorithms premised on the evolutionary ideas of natural selection and genetics. They are increasingly being used in MPAA to optimize complex, multi-modal problems where traditional optimization techniques fall short.
 
 ## Practical Applications
 
@@ -68,7 +68,7 @@ Sovereign wealth funds, owned by governments, manage large pools of money derive
 
 ### Model Uncertainty
 
-One of the significant challenges in MPAA is dealing with model uncertainty. Predicting future market conditions, interest rates, and other economic variables with high accuracy is inherently difficult. Sensitivity analysis and [robust optimization](../r/robust_optimization.md) techniques are often employed to address this issue.
+One of the significant challenges in MPAA is dealing with model [uncertainty](../u/uncertainty_in_trading.md). Predicting future market conditions, interest rates, and other economic variables with high accuracy is inherently difficult. Sensitivity analysis and [robust optimization](../r/robust_optimization.md) techniques are often employed to address this issue.
 
 ### Computational Complexity
 

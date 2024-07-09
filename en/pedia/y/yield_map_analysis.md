@@ -19,7 +19,7 @@ A yield map is a comprehensive visualization that combines multiple yield curves
 1. **[Interest Rate Spreads](../i/interest_rate_spreads.md):** These are differences between the yields of various debt instruments, which can indicate changing market conditions.
 2. **[Yield Volatility](../y/yield_volatility.md):** Understanding how the yields fluctuate over time helps in assessing the risk and stability of different securities.
 3. **Credit Spreads:** The difference in yield between corporate bonds and government bonds of similar maturity, indicating credit risk.
-4. **Macro-[Economic Indicators](../e/economic_indicators.md):** Economic data such as GDP growth rates, inflation rates, and employment levels contribute to the overall analysis.
+4. **Macro-[Economic Indicators](../e/economic_indicators.md):** Economic data such as GDP [growth rates](../g/growth_rates_in_trading.md), inflation rates, and employment levels contribute to the overall analysis.
 5. **Foreign Exchange Rates:** The relationship between different currencies can affect the yields, especially for international investments.
 
 ### Methodologies in Yield Map Analysis
@@ -43,7 +43,7 @@ Yield map analysis serves a wide array of applications within [algorithmic tradi
 
 ### Case Study: Yield Map Analysis in Practice
 
-Consider a scenario where a trading firm uses yield map analysis to navigate the bond market. By integrating historical yield data, macroeconomic indicators, and credit spreads, the firm develops a comprehensive yield map. Utilizing machine learning algorithms, the firm can predict future yield movements and optimize their trading strategy accordingly. This systematic approach enables them to outperform the market by identifying profitable trades and mitigating risks effectively.
+Consider a scenario where a trading firm uses yield map analysis to navigate the bond market. By integrating historical yield data, macroeconomic indicators, and credit spreads, the firm develops a comprehensive yield map. Utilizing machine [learning algorithms](../l/learning_algorithms_in_trading.md), the firm can predict future yield movements and optimize their trading strategy accordingly. This systematic approach enables them to outperform the market by identifying profitable trades and mitigating risks effectively.
 
 ### Key Players and Tools in Yield Map Analysis
 
@@ -61,7 +61,7 @@ Several companies and tools specialize in providing advanced solutions for yield
 - **[QuantConnect](../q/quantconnect.md):** Platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies using data-driven methods.
   [QuantConnect](https://www.quantconnect.com/)
   
-- **Numerai:** A hedge fund leveraging data science and machine learning to drive trading decisions.
+- **Numerai:** A hedge fund leveraging [data science](../d/data_science_in_trading.md) and machine learning to drive trading decisions.
   [Numerai](https://numer.ai/)
 
 ### Conclusion

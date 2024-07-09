@@ -46,7 +46,7 @@ Trendlines and channels are visual tools used to identify and trade trends. A tr
 
 ### Technical Indicators
 
-Various [technical indicators](../t/technical_indicators.md) are used in trend-following strategies to generate signals and confirm trends. Popular indicators include the Moving Average Convergence Divergence (MACD), the Relative Strength Index (RSI), the Average Directional Index (ADX), and the [Parabolic SAR](../p/parabolic_sar.md). These indicators help traders identify trends, measure their strength, and determine potential reversal points.
+Various [technical indicators](../t/technical_indicators.md) are used in trend-following strategies to generate signals and confirm trends. Popular indicators include the Moving Average Convergence Divergence (MACD), the Relative Strength Index (RSI), the [Average Directional Index](../a/average_directional_index_(adx).md) (ADX), and the [Parabolic SAR](../p/parabolic_sar.md). These indicators help traders identify trends, measure their strength, and determine potential reversal points.
 
 ## Advantages and Disadvantages
 
@@ -59,7 +59,7 @@ Various [technical indicators](../t/technical_indicators.md) are used in trend-f
 
 ### Disadvantages
 
-1. **Whipsaws**: Trend followers can be susceptible to whipsaws, where prices make sudden reversals, leading to losses or false signals.
+1. **Whipsaws**: Trend followers can be susceptible to whipsaws, where prices make sudden reversals, leading to losses or [false signals](../f/false_signals_in_trading.md).
 2. **Drawdowns**: The strategy may experience significant drawdowns during periods of consolidation or choppy markets when trends are not well-defined.
 3. **Delayed Entries**: Trend-following signals are often [lagging indicators](../l/lagging_indicators.md), meaning that traders may enter positions after a significant portion of the trend has already occurred.
 4. **Market Conditions**: Trend following performs best in trending markets and may struggle during periods of low volatility or sideways movement.

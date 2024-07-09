@@ -44,11 +44,11 @@ In this table, the order book depth can be seen through the quantities available
 
 Several platforms offer access to real-time order book data. Some of the prominent providers include:
 
-- **Interactive Brokers**: Provides extensive market data, including order book depth.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides extensive market data, including order book depth.
   [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=4727)
-- **Coinbase Pro**: Offers order book data for cryptocurrencies.
+- **[Coinbase](../c/coinbase.md) Pro**: Offers order book data for cryptocurrencies.
   [Coinbase Pro](https://pro.coinbase.com/)
-- **E*TRADE**: Known for their comprehensive trading data, including order book details.
+- **[E*TRADE](../e/e_trade.md)**: Known for their comprehensive trading data, including order book details.
   [E*TRADE](https://us.etrade.com/home)
 - **Nasdaq TotalView**: A complete order book service that delivers deeper market data.
   [Nasdaq TotalView](https://www.nasdaq.com/solutions/nasdaq-totalview)

@@ -1,6 +1,6 @@
 # Tail Risk Management
 
-In the realm of [algorithmic trading](../a/algorithmic_trading.md), one of the most critical aspects of [risk management](../r/risk_management.md) is the mitigation of [tail risk](../t/tail_risk.md). [Tail risk](../t/tail_risk.md) refers to the risk of asset price movements that are more than three standard deviations from the mean in a normal distribution, usually associated with profoundly negative impacts on a portfolio's value. These rare but highly disruptive events make managing [tail risk](../t/tail_risk.md) an essential component of sustaining long-term profitability in [algorithmic trading](../a/algorithmic_trading.md).
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), one of the most critical aspects of [risk management](../r/risk_management.md) is the mitigation of [tail risk](../t/tail_risk.md). [Tail risk](../t/tail_risk.md) refers to the risk of asset price movements that are more than three standard deviations from the mean in a [normal distribution](../n/normal_distribution_in_trading.md), usually associated with profoundly negative impacts on a portfolio's value. These rare but highly disruptive events make managing [tail risk](../t/tail_risk.md) an essential component of sustaining long-term profitability in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Understanding Tail Risk
 [Tail risk](../t/tail_risk.md) stems from the tails of a probability distribution, representing the extreme points that lie far from the center (mean). In finance, these tails reflect the probability of extreme losses or gains, although the focus is often on the left tail, which signifies significant losses. While standard deviation and variance are used to measure risk, they often underestimate the probability of extreme events in financial markets.
@@ -19,12 +19,12 @@ Different statistical tools and metrics are employed to quantify [tail risk](../
 2. **Diversification Across [Uncorrelated Assets](../u/uncorrelated_assets.md)**: While traditional diversification might not be sufficient, diversifying across assets that have low or negative correlation during extreme market moves can help.
 3. **[Dynamic Hedging](../d/dynamic_hedging.md)**: Continuously adjusting hedges based on market conditions and volatility can help mitigate losses during tail events.
 4. **[Risk Parity](../r/risk_parity.md)**: Allocating capital based on risk contribution rather than nominal value can help balance a portfolio against tail risks.
-5. **Stress Testing and Scenario Analysis**: Running simulations of [portfolio performance](../p/portfolio_performance.md) under extreme but plausible market scenarios to understand potential vulnerabilities.
+5. **[Stress Testing](../s/stress_testing_in_trading.md) and Scenario Analysis**: Running simulations of [portfolio performance](../p/portfolio_performance.md) under extreme but plausible market scenarios to understand potential vulnerabilities.
 
 ### Technology and Tail Risk Management
 Algorithmic traders can leverage technology to monitor, evaluate, and respond to tail risks more effectively:
 - **High-Frequency Data Analytics**: Using vast datasets and high-frequency trading data, algorithms can identify and react to extreme patterns promptly.
-- **Machine Learning Models**: Predictive models incorporating machine learning can foresee tail events by recognizing complex, non-linear market relationships.
+- **Machine Learning Models**: [Predictive models](../p/predictive_models_in_trading.md) incorporating machine learning can foresee tail events by recognizing complex, non-linear market relationships.
 - **Real-Time Monitoring Systems**: Implementing real-time risk monitoring systems that can automatically trigger hedging mechanisms when tail event signals are detected.
 
 ### Notable Examples and Case Studies

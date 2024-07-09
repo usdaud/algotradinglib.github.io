@@ -101,7 +101,7 @@ Interpreting sentiment data requires sophisticated models that can correctly und
 
 ## 7. Future of Sentiment Surveys in Algorithmic Trading
 
-With advancements in natural language processing (NLP) and machine learning, the future of sentiment surveys in [algorithmic trading](../a/algorithmic_trading.md) looks promising. Enhanced capabilities in text analysis and classification could lead to more accurate [sentiment indicators](../s/sentiment_indicators.md), further improving the efficacy of [trading algorithms](../t/trading_algorithms.md).
+With advancements in [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning, the future of sentiment surveys in [algorithmic trading](../a/algorithmic_trading.md) looks promising. Enhanced capabilities in text analysis and classification could lead to more accurate [sentiment indicators](../s/sentiment_indicators.md), further improving the efficacy of [trading algorithms](../t/trading_algorithms.md).
 
 ## 8. Conclusion
 

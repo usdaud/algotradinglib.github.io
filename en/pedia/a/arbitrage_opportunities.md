@@ -28,7 +28,7 @@ Suppose the following exchange rates exist:
 A trader can convert USD to EUR, EUR to JPY, and finally JPY back to USD to exploit any discrepancies that may exist between these rates.
 
 ### 4. Statistical Arbitrage
-This method involves complex mathematical models to find opportunities. Statistical [arbitrage](../a/arbitrage.md) relies on historical data, volatility, and statistical means to identify and exploit pricing inefficiencies. It often employs pair trading where two correlated securities are bought and sold simultaneously to take advantage of the expected movement in their price differential.
+This method involves complex [mathematical models](../m/mathematical_models_in_trading.md) to find opportunities. Statistical [arbitrage](../a/arbitrage.md) relies on historical data, volatility, and statistical means to identify and exploit pricing inefficiencies. It often employs pair trading where two correlated securities are bought and sold simultaneously to take advantage of the expected movement in their price differential.
 
 #### Example
 If historical data shows that the prices of two oil companies' stocks are highly correlated, but one company's stock underperforms temporarily, a trader might buy the undervalued stock and short-sell the overvalued one, expecting the prices will return to their historical relationship.

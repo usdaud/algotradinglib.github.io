@@ -23,7 +23,7 @@
 Weighted Yield Strategies involve a blend of quantitative algorithms, statistical analyses, and financial theories. Here are the fundamental mechanics:
 
 #### 1. Quantitative Analysis
-**ML Algorithms**: Machine Learning (ML) algorithms are employed to identify patterns and predict future yields. Techniques such as Support Vector Machines (SVMs), Neural Networks, and Random Forests are widely used.
+**ML Algorithms**: Machine Learning (ML) algorithms are employed to identify patterns and predict future yields. Techniques such as [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs), [Neural Networks](../n/neural_networks_in_trading.md), and [Random Forests](../r/random_forests_in_trading.md) are widely used.
 
 #### 2. Statistical Approaches
 **Variance and Covariance**: Measures the variability of asset returns and their relationships. This helps in assessing the risk associated with each asset.
@@ -42,7 +42,7 @@ Data forms the backbone of WYS. Accurate, real-time data is critical for making 
 
 **Sources**:
 - **Market Data**: Stock exchanges, commodity markets, forex markets.
-- **[Economic Indicators](../e/economic_indicators.md)**: GDP growth rates, employment data, inflation rates.
+- **[Economic Indicators](../e/economic_indicators.md)**: GDP [growth rates](../g/growth_rates_in_trading.md), employment data, inflation rates.
 - **Corporate Financials**: Earnings reports, balance sheets, cash flow statements.
 
 **Processing**: Involves cleaning, normalization, and transformation of raw data into a usable format.
@@ -50,7 +50,7 @@ Data forms the backbone of WYS. Accurate, real-time data is critical for making 
 #### 2. Algorithm Development and Testing
 **[Backtesting](../b/backtesting.md)**: Historical data is used to test the efficacy of developed strategies. Metrics such as [Sharpe Ratio](../s/sharpe_ratio.md), [Sortino Ratio](../s/sortino_ratio.md), and Maximum Drawdown are evaluated.
 
-**Simulation**: Running the strategy in a simulated environment resembling real market conditions to understand its real-time performance.
+**[Simulation](../s/simulation_in_trading.md)**: Running the strategy in a simulated environment resembling real market conditions to understand its real-time performance.
 
 #### 3. Execution
 **[Automated Trading Systems](../a/automated_trading_systems.md)**: Platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and proprietary systems are used to execute trades automatically based on the algorithm's signals.

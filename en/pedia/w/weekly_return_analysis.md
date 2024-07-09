@@ -47,7 +47,7 @@ Using adjusted closing prices, calculate the weekly returns:
 ### Statistical Analysis
 
 1. **Descriptive Statistics:** Mean, median, standard deviation, skewness, and kurtosis of weekly returns.
-2. **Distribution Fitting:** Identify whether returns follow a normal distribution or other heavy-tailed distributions.
+2. **Distribution Fitting:** Identify whether returns follow a [normal distribution](../n/normal_distribution_in_trading.md) or other heavy-tailed distributions.
 3. **Scenario Analysis:** Assess returns under different market conditions (bullish, bearish, high volatility, etc.)
 
 ### Visualization
@@ -67,7 +67,7 @@ Using adjusted closing prices, calculate the weekly returns:
 ### Risk Management
 
 1. **Value at Risk (VaR):** Estimate potential losses with weekly returns, aiding in setting risk thresholds.
-2. **Stress Testing:** Analyze strategy resilience under adverse weekly return scenarios.
+2. **[Stress Testing](../s/stress_testing_in_trading.md):** Analyze strategy resilience under adverse weekly return scenarios.
 
 ### Portfolio Optimization
 
@@ -83,8 +83,8 @@ Using adjusted closing prices, calculate the weekly returns:
 
 ### Machine Learning Algorithms
 
-1. **Random Forests:** Ensemble method that can handle non-linear relationships and interactions among predictor variables.
-2. **Neural Networks:** Capable of modeling complex patterns and relationships in weekly returns data, especially with deep learning techniques.
+1. **[Random Forests](../r/random_forests_in_trading.md):** Ensemble method that can handle non-linear relationships and interactions among predictor variables.
+2. **[Neural Networks](../n/neural_networks_in_trading.md):** Capable of modeling complex patterns and relationships in weekly returns data, especially with deep learning techniques.
 
 ### Factor Models
 

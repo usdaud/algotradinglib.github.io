@@ -90,12 +90,12 @@ Triangles are a significant subset of [continuation patterns](../c/continuation_
 [Pattern recognition](../p/pattern_recognition.md) algorithms are designed to detect specific price patterns from historical and [real-time market data](../r/real-time_market_data.md). These algorithms employ sophisticated techniques, including machine learning and statistical methods, to identify patterns such as head and shoulders, double tops/bottoms, and triangles. 
 
 1. **Machine Learning:**
-   - **Neural Networks:** Used to recognize complex patterns and predict future price movements based on identified formations. Convolutional neural networks (CNNs) are particularly adept at [pattern recognition](../p/pattern_recognition.md) in time-series data.
-   - **Support Vector Machines (SVM):** Effective for classifying and recognizing price patterns by finding the optimal hyperplane that distinguishes different patterns.
+   - **[Neural Networks](../n/neural_networks_in_trading.md):** Used to recognize complex patterns and predict future price movements based on identified formations. Convolutional [neural networks](../n/neural_networks_in_trading.md) (CNNs) are particularly adept at [pattern recognition](../p/pattern_recognition.md) in time-series data.
+   - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** Effective for classifying and recognizing price patterns by finding the optimal hyperplane that distinguishes different patterns.
 
 2. **Statistical Methods:**
    - **AutoRegressive Integrated Moving Average (ARIMA):** A statistical approach used to model and forecast time series data, helping to identify and quantify price patterns.
-   - **[Hidden Markov Models](../h/hidden_markov_models.md) (HMMs):** Used to model probability distributions over sequences of observations, aiding in the detection of probabilistic price patterns.
+   - **[Hidden Markov Models](../h/hidden_markov_models.md) (HMMs):** Used to model [probability distributions](../p/probability_distributions_in_trading.md) over sequences of observations, aiding in the detection of probabilistic price patterns.
 
 ### Backtesting Strategies
 
@@ -132,7 +132,7 @@ Identifying price patterns can be subjective, with different traders and algorit
 
 ### False Signals
 
-Price patterns can occasionally generate false signals, leading to unprofitable trades. It's essential to corroborate pattern-based signals with additional [technical indicators](../t/technical_indicators.md) or [fundamental analysis](../f/fundamental_analysis.md) to enhance accuracy.
+Price patterns can occasionally generate [false signals](../f/false_signals_in_trading.md), leading to unprofitable trades. It's essential to corroborate pattern-based signals with additional [technical indicators](../t/technical_indicators.md) or [fundamental analysis](../f/fundamental_analysis.md) to enhance accuracy.
 
 ### Market Conditions
 

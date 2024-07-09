@@ -100,7 +100,7 @@ The gig economy offers both opportunities and challenges for job market recovery
 
 ### Automation and AI
 
-Automation and artificial intelligence (AI) are likely to transform job markets by creating new roles while making others obsolete. Preparing the workforce for these changes is crucial for a balanced recovery.
+Automation and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are likely to transform job markets by creating new roles while making others obsolete. Preparing the workforce for these changes is crucial for a balanced recovery.
 
 ## Conclusion
 

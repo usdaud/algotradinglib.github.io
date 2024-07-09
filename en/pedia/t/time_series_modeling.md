@@ -1,6 +1,6 @@
 # Time Series Modeling
 
-Time series modeling is an essential aspect of [algorithmic trading](../a/algorithmic_trading.md), a field where mathematical models and algorithms are used to analyze historical time series data of financial instruments like stocks, bonds, commodities, and forex. This modeling helps traders forecast future movements and make informed trading decisions. Here, we delve deep into the various facets of time series modeling and its applications in [algorithmic trading](../a/algorithmic_trading.md).
+Time series modeling is an essential aspect of [algorithmic trading](../a/algorithmic_trading.md), a field where [mathematical models](../m/mathematical_models_in_trading.md) and algorithms are used to analyze historical time series data of financial instruments like stocks, bonds, commodities, and forex. This modeling helps traders forecast future movements and make informed trading decisions. Here, we delve deep into the various facets of time series modeling and its applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Understanding Time Series
 
@@ -41,7 +41,7 @@ where:
 
 ### Exponential Smoothing (ETS)
 
-ETS models are another family of statistical methods, where the model's forecasts are weighted averages of past observations, with the weights decaying exponentially with time.
+ETS models are another family of statistical methods, where the model's forecasts are [weighted averages](../w/weighted_averages_in_trading.md) of past observations, with the weights decaying exponentially with time.
 
 - **Error**: The difference between actual and forecasted values.
 - **Trend**: Components capturing the trend behavior.
@@ -105,7 +105,7 @@ Numerai uses AI and machine learning models, including advanced time series mode
 
 ### Alpaca
 [https://alpaca.markets](https://alpaca.markets)
-[Alpaca](../a/alpaca.md) offers commission-free trading APIs that can integrate predictive models based on [time series analysis](../t/time_series_analysis.md).
+[Alpaca](../a/alpaca.md) offers commission-free trading APIs that can integrate [predictive models](../p/predictive_models_in_trading.md) based on [time series analysis](../t/time_series_analysis.md).
 
 ### QuantInsti
 [https://www.quantinsti.com](https://www.quantinsti.com)
@@ -123,7 +123,7 @@ Complex models with many parameters can overfit historical data, capturing noise
 
 ### Non-linearity
 
-[Financial time series](../f/financial_time_series.md) often exhibit non-linear behavior not suited for linear models like ARIMA. More advanced models like LSTMs or GARCH can better capture such behavior.
+[Financial time series](../f/financial_time_series.md) often exhibit non-linear behavior not suited for [linear models](../l/linear_models_in_trading.md) like ARIMA. More advanced models like LSTMs or GARCH can better capture such behavior.
 
 ### Computational Complexity
 

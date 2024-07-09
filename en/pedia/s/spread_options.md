@@ -36,7 +36,7 @@ Ratio spreads involve buying a certain number of options at one strike price and
 
 ## The Mathematics Behind Spread Options
 
-The valuation of spread options often relies on advanced financial models to capture the myriad factors influencing price differentials between underlying assets. Popular models include the [Black-Scholes model](../b/black-scholes_model.md), the [Monte Carlo simulation](../m/monte_carlo_simulation.md), and more recently, machine learning algorithms.
+The valuation of spread options often relies on advanced financial models to capture the myriad factors influencing price differentials between underlying assets. Popular models include the [Black-Scholes model](../b/black-scholes_model.md), the [Monte Carlo simulation](../m/monte_carlo_simulation.md), and more recently, machine [learning algorithms](../l/learning_algorithms_in_trading.md).
 
 ### Black-Scholes Model
 
@@ -48,7 +48,7 @@ Monte Carlo simulations provide a versatile approach, generating numerous scenar
 
 ### Machine Learning Algorithms
 
-As the financial markets continue to evolve, machine learning models such as neural networks, [decision trees](../d/decision_trees.md), and [clustering algorithms](../c/clustering_algorithms.md) have started playing a pivotal role in predicting price differentials and optimizing spread option strategies.
+As the financial markets continue to evolve, machine learning models such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [clustering algorithms](../c/clustering_algorithms.md) have started playing a pivotal role in predicting price differentials and optimizing spread option strategies.
 
 ## Applications in Algorithmic Trading
 

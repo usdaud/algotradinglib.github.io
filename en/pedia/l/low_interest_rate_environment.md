@@ -34,7 +34,7 @@ Lower interest rates can weaken a country’s currency as investors seek higher 
 [Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using computer algorithms to automate [trading strategies](../t/trading_strategies.md) in the financial markets. In a LIRE, specific strategies can be particularly effective:
 
 #### Carry Trade
-The [carry trade](../c/carry_trade.md) involves borrowing in a low-interest rate currency to finance investments in higher-yielding assets. Algo-traders utilize predictive models and [real-time data analysis](../r/real-time_data_analysis.md) to identify profitable [carry trade](../c/carry_trade.md) opportunities, dynamically adjusting positions to manage risks.
+The [carry trade](../c/carry_trade.md) involves borrowing in a low-interest rate currency to finance investments in higher-yielding assets. Algo-traders utilize [predictive models](../p/predictive_models_in_trading.md) and [real-time data analysis](../r/real-time_data_analysis.md) to identify profitable [carry trade](../c/carry_trade.md) opportunities, dynamically adjusting positions to manage risks.
 
 #### Pair Trading
 In a LIRE, pair [trading strategies](../t/trading_strategies.md) can be used to capitalize on relative value [arbitrage](../a/arbitrage.md) between two correlated financial instruments. Algorithms can detect divergences from historical price relationships and execute trades to profit from those temporary imbalances.
@@ -43,7 +43,7 @@ In a LIRE, pair [trading strategies](../t/trading_strategies.md) can be used to 
 Low-interest rates can lead to decreased market volatility. Algo-traders can employ volatility [arbitrage](../a/arbitrage.md) strategies, such as those based on the volatility index (VIX), to take advantage of mispricings in options and other derivative instruments.
 
 #### Machine Learning Models
-Machine learning and artificial intelligence have become increasingly important in identifying patterns and forecasting market movements in a low interest rate environment. These models can process vast amounts of data and refine [trading strategies](../t/trading_strategies.md) more efficiently than traditional methods.
+Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) have become increasingly important in identifying patterns and forecasting market movements in a low interest rate environment. These models can process vast amounts of data and refine [trading strategies](../t/trading_strategies.md) more efficiently than traditional methods.
 
 ### Challenges and Considerations
 
@@ -65,4 +65,4 @@ LIRE can exacerbate the risk of [flash crashes](../f/flash_crashes.md), where ra
 
 A low interest rate environment presents both opportunities and challenges for [algorithmic trading](../a/algorithmic_trading.md). Understanding the macroeconomic backdrop, investment implications, and specific algo-[trading strategies](../t/trading_strategies.md) tailored to exploit these conditions is crucial for traders and investors. Effective [risk management](../r/risk_management.md), compliance with regulatory standards, and adaptive [trading algorithms](../t/trading_algorithms.md) will enable market participants to capitalize on the nuances of a LIRE successfully.
 
-For more information on the strategies and dynamics of [algorithmic trading](../a/algorithmic_trading.md), you can visit companies like [Two Sigma](https://www.twosigma.com/), which specialize in using data science and technology to develop [trading strategies](../t/trading_strategies.md) suitable for various market environments, including low interest rate conditions.
+For more information on the strategies and dynamics of [algorithmic trading](../a/algorithmic_trading.md), you can visit companies like [Two Sigma](https://www.twosigma.com/), which specialize in using [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md) suitable for various market environments, including low interest rate conditions.

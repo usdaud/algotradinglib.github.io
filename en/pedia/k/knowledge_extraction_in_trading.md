@@ -1,6 +1,6 @@
 # Knowledge Extraction
 
-Knowledge extraction in trading refers to the process of retrieving, filtering, and interpreting vast quantities of financial and market-related data to generate insights that support financial decisions, including [algorithmic trading](../a/algorithmic_trading.md). This involves using various technologies and methodologies from data science, machine learning, and natural language processing to transform raw data into actionable knowledge.
+Knowledge extraction in trading refers to the process of retrieving, filtering, and interpreting vast quantities of financial and market-related data to generate insights that support financial decisions, including [algorithmic trading](../a/algorithmic_trading.md). This involves using various technologies and methodologies from [data science](../d/data_science_in_trading.md), machine learning, and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to transform raw data into actionable knowledge.
 
 ## Introduction to Knowledge Extraction
 
@@ -36,12 +36,12 @@ Feature selection is a critical part of the knowledge extraction process as it i
 
 ## Model Training
 
-With clean and relevant data, the next step is to train predictive models. Various machine learning algorithms can be employed, including:
+With clean and relevant data, the next step is to train [predictive models](../p/predictive_models_in_trading.md). Various machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be employed, including:
 
 - **Regression Models**: Linear, Lasso, Ridge Regression for predicting continuous outcomes.
-- **Classification Models**: Logistic Regression, SVM, [Decision Trees](../d/decision_trees.md) for binary or multiclass outcomes.
+- **Classification Models**: [Logistic Regression](../l/logistic_regression_in_trading.md), SVM, [Decision Trees](../d/decision_trees.md) for binary or multiclass outcomes.
 - **[Ensemble Learning](../e/ensemble_learning.md)**: Methods like Random Forest, Gradient Boosting, and AdaBoost that combine multiple weak learners to create a strong predictive model.
-- **Deep Learning**: Neural Networks, RNN, LSTM for complex, non-linear patterns.
+- **Deep Learning**: [Neural Networks](../n/neural_networks_in_trading.md), RNN, LSTM for complex, non-linear patterns.
 
 ## Validation and Testing
 
@@ -63,7 +63,7 @@ Once validated, the models can be deployed in a live [trading environment](../t/
 
 Knowledge extraction has numerous applications in trading, such as:
 
-- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Automated [trading strategies](../t/trading_strategies.md) based on mathematical models and algorithms.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Automated [trading strategies](../t/trading_strategies.md) based on [mathematical models](../m/mathematical_models_in_trading.md) and algorithms.
 - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Analyzing news and social media to gauge market sentiment.
 - **[Quantitative Analysis](../q/quantitative_analysis.md)**: Using statistical methods to evaluate financial instruments.
 - **High-Frequency Trading (HFT)**: Employing sophisticated algorithms to execute trades at extremely high speeds.

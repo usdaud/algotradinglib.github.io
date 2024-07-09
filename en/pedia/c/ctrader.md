@@ -8,7 +8,7 @@ cTrader is a leading trading platform developed by Spotware Systems. It is desig
 2. **Automated Trading (cAlgo)**: Allows traders to create and run automated [trading strategies](../t/trading_strategies.md) using the cAlgo platform, which supports C# programming.
 3. **Copy Trading (cMirror)**: Offers copy trading capabilities, enabling traders to follow and copy the strategies of successful traders.
 4. **Level II Pricing**: Access to detailed market depth information with Level II pricing.
-5. **Order Types**: Supports a wide range of order types, including market, limit, stop, and trailing stop orders.
+5. **[Order Types](../o/order_types_in_trading.md)**: Supports a wide range of [order types](../o/order_types_in_trading.md), including market, limit, stop, and trailing stop orders.
 6. **Fast Execution**: Optimized for high-speed trade execution, ensuring minimal latency.
 7. **[Risk Management](../r/risk_management.md)**: Comprehensive [risk management](../r/risk_management.md) tools to manage exposure and protect trading capital.
 8. **User Interface**: Highly customizable and user-friendly interface designed to enhance the trading experience.

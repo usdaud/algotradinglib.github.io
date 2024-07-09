@@ -22,7 +22,7 @@ Where:
 1. **Linearity**: There is a linear relationship between the dependent and independent variables.
 2. **Independence**: Observations are independent of each other.
 3. **Homoscedasticity**: The residuals (error terms) have constant variance at every level of \( X \).
-4. **No multicollinearity**: Independent variables are not highly correlated with each other.
+4. **No [multicollinearity](../m/multicollinearity_in_trading.md)**: Independent variables are not highly correlated with each other.
 5. **Normality**: The residuals of the model are normally distributed.
 
 ## Fitting the Model
@@ -31,8 +31,8 @@ To fit a multiple [linear regression](../l/linear_regression.md) model, the ordi
 
 ## Model Evaluation
 
-- **R-squared (\( R^2 \))**: Measures the proportion of variance in the dependent variable that is predictable from the independent variables. Values range from 0 to 1, with higher values indicating better model fit.
-- **Adjusted R-squared**: A modified version of \( R^2 \) that adjusts for the number of independent variables in the model.
+- **[R-squared](../r/r-squared_in_trading.md) (\( R^2 \))**: Measures the proportion of variance in the dependent variable that is predictable from the independent variables. Values range from 0 to 1, with higher values indicating better model fit.
+- **Adjusted [R-squared](../r/r-squared_in_trading.md)**: A modified version of \( R^2 \) that adjusts for the number of independent variables in the model.
 - **F-statistic**: Tests the overall significance of the model.
 - **p-values for coefficients**: Test the significance of individual regression coefficients.
 
@@ -91,7 +91,7 @@ summary(model)
 ## Limitations and Considerations
 
 1. **Overfitting**: Including too many variables can lead to overfitting, where the model captures noise instead of the actual pattern. Use techniques like cross-validation to mitigate this risk.
-2. **Multicollinearity**: High correlation among independent variables can distort estimates and lead to erroneous conclusions. Variance inflation factor (VIF) is commonly used to detect multicollinearity.
+2. **[Multicollinearity](../m/multicollinearity_in_trading.md)**: High correlation among independent variables can distort estimates and lead to erroneous conclusions. Variance inflation factor (VIF) is commonly used to detect [multicollinearity](../m/multicollinearity_in_trading.md).
 3. **Assumption Violations**: Ensure that the key assumptions of MLR are met. Violations can lead to biased or inefficient estimates.
 
 ## Conclusion

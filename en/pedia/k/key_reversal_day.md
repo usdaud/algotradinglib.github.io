@@ -41,7 +41,7 @@ A Key Reversal Day suggests a potential change in the market sentiment and, cons
    - These signals can then be used to trigger buy or sell orders automatically.
    
 2. **[Trend Reversal](../t/trend_reversal.md) Confirmation:**
-   - Key Reversal Days can be integrated with other [technical indicators](../t/technical_indicators.md) (e.g., Moving Averages, RSI, MACD) to confirm potential trend reversals, reducing the likelihood of false signals.
+   - Key Reversal Days can be integrated with other [technical indicators](../t/technical_indicators.md) (e.g., Moving Averages, RSI, MACD) to confirm potential trend reversals, reducing the likelihood of [false signals](../f/false_signals_in_trading.md).
    
 3. **[Risk Management](../r/risk_management.md):**
    - Algorithms can place [stop-loss orders](../s/stop-loss_orders.md) below the lows of a bullish Key Reversal Day or above the highs of a bearish Key Reversal Day to manage risk effectively.
@@ -81,7 +81,7 @@ MetaTrader [https://www.[metatrader4](../m/metatrader4.md).com/] (both MT4 and M
 
 ### Interactive Brokers
 
-Interactive Brokers [https://www.interactivebrokers.com/] offers traders robust tools to script and automate [trading strategies](../t/trading_strategies.md). Using the API provided by Interactive Brokers, traders can identify Key Reversal Days and execute trades across various asset classes.
+[Interactive Brokers](../i/interactive_brokers.md) [https://www.interactivebrokers.com/] offers traders robust tools to script and automate [trading strategies](../t/trading_strategies.md). Using the API provided by [Interactive Brokers](../i/interactive_brokers.md), traders can identify Key Reversal Days and execute trades across various asset classes.
 
 ## Conclusion
 

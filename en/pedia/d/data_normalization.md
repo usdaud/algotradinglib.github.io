@@ -6,7 +6,7 @@ Data normalization is a critical process in [algorithmic trading](../a/algorithm
 ## The Importance of Data Normalization
 In the realm of trading, data comes in various forms such as prices, volumes, [financial ratios](../f/financial_ratios.md), and [technical indicators](../t/technical_indicators.md). These data types often have different scales. For example, stock prices may range from a few dollars to several thousand dollars, while trading volumes can vary from hundreds to millions of shares. Raw data with such discrepancies can lead to misleading outcomes in analyses and models.
 
-Normalization ensures that data from different sources and of varying types can be compared on a common scale. Without normalization, a model might give undue importance to variables with larger scales, leading to biased results. Furthermore, normalization is essential for improving the performance and convergence speed of many machine learning algorithms used in trading.
+Normalization ensures that data from different sources and of varying types can be compared on a common scale. Without normalization, a model might give undue importance to variables with larger scales, leading to biased results. Furthermore, normalization is essential for improving the performance and convergence speed of many machine [learning algorithms](../l/learning_algorithms_in_trading.md) used in trading.
 
 ## Methods of Data Normalization
 
@@ -68,7 +68,7 @@ Effective [risk management](../r/risk_management.md) requires accurate measureme
   - [numpy](https://numpy.org)
 
 ### R Packages
-- **caret**: Provides a comprehensive framework for creating and assessing predictive models.
+- **caret**: Provides a comprehensive framework for creating and assessing [predictive models](../p/predictive_models_in_trading.md).
   - [caret](https://topepo.github.io/caret/)
 - **dplyr**: Facilitates data manipulation and normalization.
   - [dplyr](https://dplyr.tidyverse.org)

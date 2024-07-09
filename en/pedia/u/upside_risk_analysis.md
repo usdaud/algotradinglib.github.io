@@ -14,13 +14,13 @@ Upside [risk analysis](../r/risk_analysis.md) refers to the assessment and evalu
    A measure of the asymmetry of the probability distribution of returns. [Positive skewness](../p/positive_skewness.md) indicates a distribution with an asymmetrical tail extending towards more positive returns, which is of particular interest in upside [risk analysis](../r/risk_analysis.md).
 
 4. **Kurtosis**:
-   A statistical measure that describes the shape of the distribution. Higher kurtosis indicates more extreme values (or "fat tails") which might represent significant upside potential in the context of financial returns.
+   A statistical measure that describes the shape of the distribution. Higher kurtosis indicates more extreme values (or "fat tails") which might represent significant [upside potential](../u/upside_potential_in_trading.md) in the context of financial returns.
 
 5. **Value at Risk (VaR)**:
    Although traditionally associated with downside risk, VaR can be adapted to measure the potential for upside gains by examining the distribution of returns above a certain confidence level.
 
 6. **Conditional Value at Risk (CVaR)**:
-   An extension of VaR that considers not just the threshold but the mean of the distribution beyond the threshold, providing a more comprehensive measure of extreme upside potential.
+   An extension of VaR that considers not just the threshold but the mean of the distribution beyond the threshold, providing a more comprehensive measure of extreme [upside potential](../u/upside_potential_in_trading.md).
 
 7. **[Sharpe Ratio](../s/sharpe_ratio.md)**:
    A common measure of [risk-adjusted return](../r/risk-adjusted_return.md). While typically used to assess overall risk, variations of the [Sharpe Ratio](../s/sharpe_ratio.md) can be used to focus on the potential for upside gains.
@@ -40,10 +40,10 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), upside [ris
    Running historical data through the algorithm to simulate performance and identify periods of high positive returns, aiding in the discovery of patterns correlating with upside risks.
 
 2. **Parameter Optimization**:
-   Adjusting the algorithm's parameters such that it maximizes the probability of capturing upside risks. This might include tweaking entry and exit points, [position sizing](../p/position_sizing.md), and other variables based on upside potential.
+   Adjusting the algorithm's parameters such that it maximizes the probability of capturing upside risks. This might include tweaking entry and exit points, [position sizing](../p/position_sizing.md), and other variables based on [upside potential](../u/upside_potential_in_trading.md).
 
 3. **Monte Carlo Simulations**:
-   Using [Monte Carlo methods](../m/monte_carlo_methods.md) to model and understand the distribution of returns and their upside potential. These simulations allow for stress-testing the algorithm under various market conditions to ensure robustness.
+   Using [Monte Carlo methods](../m/monte_carlo_methods.md) to model and understand the distribution of returns and their [upside potential](../u/upside_potential_in_trading.md). These simulations allow for stress-testing the algorithm under various market conditions to ensure robustness.
 
 4. **Machine Learning**:
    Employing machine learning models to dynamically adjust the algorithm based on evolving market conditions. These models can identify and adapt to new opportunities for upside gains that static algorithms might miss.
@@ -53,10 +53,10 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), upside [ris
 For managing a portfolio of [algorithmic trading](../a/algorithmic_trading.md) strategies, upside [risk analysis](../r/risk_analysis.md) can be instrumental in optimizing the allocation of capital to different strategies. Here’s how it’s applied:
 
 1. **Diversification**:
-   Allocating capital across a range of strategies to ensure that the overall portfolio retains upside potential while controlling for risk. This might involve balancing between high-risk high-reward strategies and more stable ones.
+   Allocating capital across a range of strategies to ensure that the overall portfolio retains [upside potential](../u/upside_potential_in_trading.md) while controlling for risk. This might involve balancing between high-risk high-reward strategies and more stable ones.
 
 2. **Dynamic Rebalancing**:
-   Continuously reassessing the performance of individual strategies and reallocating capital to those demonstrating higher upside potential, based on historical and real-time performance data.
+   Continuously reassessing the performance of individual strategies and reallocating capital to those demonstrating higher [upside potential](../u/upside_potential_in_trading.md), based on historical and real-time performance data.
 
 3. **Risk-Adjusted [Performance Metrics](../p/performance_metrics.md)**:
    Utilizing metrics such as the [Sortino Ratio](../s/sortino_ratio.md) over traditional measures like the [Sharpe Ratio](../s/sharpe_ratio.md) to evaluate and prioritize strategies with higher [upside risk](../u/upside_risk.md).
@@ -66,7 +66,7 @@ For managing a portfolio of [algorithmic trading](../a/algorithmic_trading.md) s
 Several real-world examples highlight the significance and application of upside [risk analysis](../r/risk_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Two Sigma Investments**:
-   [Two Sigma](https://www.twosigma.com) is a notable quantitative hedge fund that uses advanced mathematical models and sophisticated algorithms to identify investment opportunities. They rely heavily on statistical analysis, including upside [risk metrics](../r/risk_metrics.md), to optimize their [trading strategies](../t/trading_strategies.md).
+   [Two Sigma](https://www.twosigma.com) is a notable quantitative hedge fund that uses advanced [mathematical models](../m/mathematical_models_in_trading.md) and sophisticated algorithms to identify investment opportunities. They rely heavily on statistical analysis, including upside [risk metrics](../r/risk_metrics.md), to optimize their [trading strategies](../t/trading_strategies.md).
 
 2. **Renaissance Technologies**:
    Another giant in the field, [Renaissance Technologies](https://www.rentec.com) leverages complex [quantitative models](../q/quantitative_models.md) to exploit [market anomalies](../m/market_anomalies.md). Their Medallion Fund, in particular, showcases the effective use of upside [risk analysis](../r/risk_analysis.md) to consistently achieve outsized returns.
@@ -82,7 +82,7 @@ Professional traders and financial analysts employ a variety of tools to conduct
    These programming languages are popular for their robust libraries (e.g., NumPy, pandas, SciPy, quantmod) that facilitate statistical analysis and model building.
 
 2. **[QuantConnect](../q/quantconnect.md)**:
-   An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). It provides extensive data and analytical tools for examining upside potential.
+   An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). It provides extensive data and analytical tools for examining [upside potential](../u/upside_potential_in_trading.md).
 
 3. **[Quantlib](../q/quantlib.md)**:
    An open-source library for [quantitative finance](../q/quantitative_finance.md), offering tools for analyzing the risk and return of different financial instruments, including upside risks.
@@ -95,16 +95,16 @@ Professional traders and financial analysts employ a variety of tools to conduct
 As the field of [algorithmic trading](../a/algorithmic_trading.md) evolves, several trends are emerging that are likely to shape the future of upside [risk analysis](../r/risk_analysis.md):
 
 1. **AI and Deep Learning**:
-   The integration of artificial intelligence and deep learning models can enhance the ability to predict and capture upside risks by recognizing complex patterns that traditional models might miss.
+   The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and deep learning models can enhance the ability to predict and capture upside risks by recognizing complex patterns that traditional models might miss.
 
-2. **Big Data**:
+2. **[Big Data](../b/big_data_in_trading.md)**:
    Leveraging vast amounts of data from diverse sources (e.g., social media, news, [alternative data](../a/alternative_data.md)) can provide deeper insights and lead to more informed [upside risk](../u/upside_risk.md) assessments.
 
 3. **Real-time Analytics**:
    The development of real-time analytics capabilities allows for the dynamic adjustment of strategies to capitalize on immediate market opportunities, thereby enhancing the capture of upside gains.
 
-4. **Blockchain and Decentralized Finance (DeFi)**:
-   The rise of blockchain technology and DeFi platforms introduces new asset classes and trading opportunities, requiring novel approaches to upside [risk analysis](../r/risk_analysis.md).
+4. **[Blockchain](../b/blockchain_in_trading.md) and Decentralized Finance (DeFi)**:
+   The rise of [blockchain](../b/blockchain_in_trading.md) technology and DeFi platforms introduces new asset classes and trading opportunities, requiring novel approaches to upside [risk analysis](../r/risk_analysis.md).
 
 ### Conclusion
 

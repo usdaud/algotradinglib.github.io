@@ -1,6 +1,6 @@
 # Run-Up Analysis
 
-[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or black-box trading, uses advanced mathematical models and software to execute trades automatically and efficiently. One of the key techniques employed in this domain is Run-Up Analysis. This analysis is critical for understanding and leveraging short-term market movements, especially after significant events or changes in asset prices.
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or black-box trading, uses advanced [mathematical models](../m/mathematical_models_in_trading.md) and software to execute trades automatically and efficiently. One of the key techniques employed in this domain is Run-Up Analysis. This analysis is critical for understanding and leveraging short-term market movements, especially after significant events or changes in asset prices.
 
 Run-Up Analysis involves examining the price movements of a financial instrument over a specific period, usually just before, during, and after a significant price change. This technique can be used to study stock prices, commodity prices, forex rates, and any other market-traded instruments. The primary goal is to identify patterns that can be exploited for profitable [trading strategies](../t/trading_strategies.md).
 
@@ -17,7 +17,7 @@ The timing of the run-up is crucial. Traders need to understand when a run-up st
 - **Run-up phase**: The period during which prices rise significantly.
 - **Post-run-up phase**: The period after the price peaks, when it stabilizes or starts to decline.
 
-Understanding these phases helps traders define entry and exit points to maximize their profit margins.
+Understanding these phases helps traders define entry and exit points to maximize their [profit margins](../p/profit_margins_in_trading.md).
 
 ### Factors Influencing Run-Ups
 
@@ -64,14 +64,14 @@ Reliable data sources are crucial for accurate run-up analysis. These include:
 
 ### Analytical Software
 
-Sophisticated software tools help in analyzing run-up data:
+Sophisticated [software tools](../s/software_tools_for_trading.md) help in analyzing run-up data:
 - **Statistical analysis software**: Platforms like R, Python (with libraries such as Pandas and NumPy), and MATLAB are commonly used for advanced statistical analysis.
 - **Charting tools**: Software like [TradingView](../t/tradingview.md) and MetaTrader offer powerful charting capabilities for visualizing run-ups and price movements.
 - **Machine learning**: Tools like TensorFlow and Scikit-learn can be used to develop algorithms that predict future run-ups based on historical data.
 
 ### Example of a Company Utilizing Run-Up Analysis
 
-One notable company that employs Run-Up Analysis in its [trading strategies](../t/trading_strategies.md) is Renaissance Technologies ([https://www.rentec.com/](https://www.rentec.com/)). Known for its [quantitative trading](../q/quantitative_trading.md) models, the firm uses advanced statistical analysis and mathematical models, including run-up analysis techniques, to achieve significant market gains.
+One notable company that employs Run-Up Analysis in its [trading strategies](../t/trading_strategies.md) is Renaissance Technologies ([https://www.rentec.com/](https://www.rentec.com/)). Known for its [quantitative trading](../q/quantitative_trading.md) models, the firm uses advanced statistical analysis and [mathematical models](../m/mathematical_models_in_trading.md), including run-up analysis techniques, to achieve significant market gains.
 
 ## Conclusion
 

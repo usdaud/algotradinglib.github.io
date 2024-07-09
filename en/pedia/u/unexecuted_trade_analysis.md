@@ -87,7 +87,7 @@ Post these amendments, the unexecuted trade rate fell from 15% to 8% in subseque
 4. **[Backtesting](../b/backtesting.md) Platforms**:
    Platforms like [QuantConnect](../q/quantconnect.md) and [AlgoTrader](../a/algotrader.md) allow for comprehensive [backtesting](../b/backtesting.md), including unexecuted trades scenario modeling.
 
-5. **Simulation Tools**:
+5. **[Simulation](../s/simulation_in_trading.md) Tools**:
    [Monte Carlo simulation](../m/monte_carlo_simulation.md) frameworks can be built using Python or R and integrated into [trading strategies](../t/trading_strategies.md) to estimate the impact of random market conditions on unexecuted trades.
 
 ## Conclusion

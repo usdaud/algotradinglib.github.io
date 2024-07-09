@@ -8,7 +8,7 @@ Market structure refers to the composition and functioning of financial markets.
 
 ### Key Elements of Market Structure
 1. **Market Participants:** Traders, market makers, institutional investors, retail investors, etc.
-2. **Order Types:** Market orders, limit orders, stop orders, etc.
+2. **[Order Types](../o/order_types_in_trading.md):** Market orders, limit orders, stop orders, etc.
 3. **Order Matching:** Auction systems, continuous order book systems.
 4. **Regulation and Market Rules:** Governing laws, trading halts, margin requirements.
 
@@ -40,7 +40,7 @@ Advanced structural analysis often involves identifying and interpreting complex
 Statistical [arbitrage](../a/arbitrage.md) strategies exploit statistical patterns in market prices. These patterns may relate to [mean reversion](../m/mean_reversion.md), momentum, or other statistical relationships.
 
 #### Machine Learning and AI
-Machine learning algorithms can uncover hidden market structures by analyzing vast amounts of data and detecting patterns that may not be evident through traditional statistical methods. Techniques like clustering, neural networks, and reinforcement learning are commonly adopted.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can uncover hidden market structures by analyzing vast amounts of data and detecting patterns that may not be evident through traditional statistical methods. Techniques like clustering, [neural networks](../n/neural_networks_in_trading.md), and reinforcement learning are commonly adopted.
 
 ### High-Frequency Trading (HFT)
 High-frequency trading (HFT) represents the pinnacle of leveraging structural analysis in trading. HFT firms utilize sophisticated algorithms to exploit micro-structures in the market, executing numerous trades within fractions of a second.
@@ -76,7 +76,7 @@ In real-time execution, algorithms monitor live market data, executing trades ac
 Several firms are leading the way in leveraging structural analysis for [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Two Sigma
-Two Sigma is a technology-driven hedge fund that uses data science, artificial intelligence, and advanced engineering to identify trading opportunities. Their approach is deeply rooted in thorough structural analysis of market data.
+Two Sigma is a technology-driven hedge fund that uses [data science](../d/data_science_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced engineering to identify trading opportunities. Their approach is deeply rooted in thorough structural analysis of market data.
 
 [Two Sigma Website](https://www.twosigma.com)
 

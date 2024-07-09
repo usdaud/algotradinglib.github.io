@@ -17,7 +17,7 @@ The squared term ensures that larger differences between the actual and predicte
 
 #### Importance in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on predictive models to forecast market trends, optimize trade entry and exit points, and manage risk. The performance of these predictive models can be gauged using MSD, making it a crucial metric for several reasons:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on [predictive models](../p/predictive_models_in_trading.md) to forecast market trends, optimize trade entry and exit points, and manage risk. The performance of these [predictive models](../p/predictive_models_in_trading.md) can be gauged using MSD, making it a crucial metric for several reasons:
 
 1. **Model Accuracy**: MSD provides a clear, numerical indicator of how well an algorithm's predictions align with actual market behavior.
 2. **Outlier Sensitivity**: The squaring of errors in MSD underscores significant deviations, pushing modelers to address large prediction errors that could lead to substantial financial losses.
@@ -54,7 +54,7 @@ print(f"Mean Square Deviation: {msd}")
 #### Applications of MSD in Algorithmic Trading
 
 1. **Model Evaluation**:
-   - Traders can use MSD to compare different predictive models and choose the one with the lowest MSD, indicating higher accuracy.
+   - Traders can use MSD to compare different [predictive models](../p/predictive_models_in_trading.md) and choose the one with the lowest MSD, indicating higher accuracy.
 
 2. **Parameter Tuning**:
    - Adjusting hyperparameters in machine learning models to minimize MSD can lead to better-performing [trading algorithms](../t/trading_algorithms.md).
@@ -73,7 +73,7 @@ Several trading firms and platforms utilize MSD as part of their model developme
 
 - **WorldQuant**: A global investment management firm that leverages quantitative methods, including careful analysis of MSD, to build and optimize [trading algorithms](../t/trading_algorithms.md) ([WorldQuant](https://www.worldquant.com/)).
 
-- **Two Sigma**: This hedge fund relies on data science and advanced statistical methods, including MSD, to drive its trading decisions and strategy optimizations ([Two Sigma](https://www.twosigma.com/)).
+- **Two Sigma**: This hedge fund relies on [data science](../d/data_science_in_trading.md) and advanced statistical methods, including MSD, to drive its trading decisions and strategy optimizations ([Two Sigma](https://www.twosigma.com/)).
 
 #### Challenges and Limitations of Using MSD
 
@@ -103,4 +103,4 @@ To address some of the limitations of MSD, traders and analysts may use other me
 
 #### Conclusion
 
-Mean Square Deviation is a cornerstone metric in [algorithmic trading](../a/algorithmic_trading.md), offering a robust way to measure and optimize the performance of predictive models. By understanding and applying MSD, traders can enhance their strategies, minimize financial risks, and improve overall trading efficiency. However, it’s essential to be aware of its limitations and consider complementary metrics to gain a comprehensive view of model performance.
+Mean Square Deviation is a cornerstone metric in [algorithmic trading](../a/algorithmic_trading.md), offering a robust way to measure and optimize the performance of [predictive models](../p/predictive_models_in_trading.md). By understanding and applying MSD, traders can enhance their strategies, minimize financial risks, and improve overall trading efficiency. However, it’s essential to be aware of its limitations and consider complementary metrics to gain a comprehensive view of model performance.

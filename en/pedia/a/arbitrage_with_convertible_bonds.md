@@ -67,7 +67,7 @@ Convertible bond [arbitrage](../a/arbitrage.md) involves exploiting price ineffi
    - These include pension funds, insurance companies, and mutual funds that incorporate convertible bonds into diversified portfolios to enhance returns and manage risks.
    
 3. **Prop Trading Firms:**
-   - [Proprietary trading](../p/proprietary_trading.md) firms engage in [arbitrage](../a/arbitrage.md) using their capital, often employing high-frequency trading and other quantitative strategies.
+   - [Proprietary trading](../p/proprietary_trading.md) firms engage in [arbitrage](../a/arbitrage.md) using their capital, often employing high-frequency trading and other [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 **Case Studies:**
 
@@ -99,11 +99,11 @@ Technological advancements have dramatically transformed convertible bond [arbit
 - **High-Frequency Trading (HFT):**
    - HFT firms employ sophisticated technology to execute a large number of transactions at lightning speed. These firms often engage in convertible bond [arbitrage](../a/arbitrage.md), leveraging speed and efficiency to gain competitive advantages.
    
-- **Big Data and Analytics:**
-   - The analysis of vast datasets enables more accurate [valuation models](../v/valuation_models.md) and risk assessments for convertible bonds. Big data analytics improve decision-making processes and strategy implementation.
+- **[Big Data](../b/big_data_in_trading.md) and Analytics:**
+   - The analysis of vast datasets enables more accurate [valuation models](../v/valuation_models.md) and risk assessments for convertible bonds. [Big data analytics](../b/big_data_analytics_in_trading.md) improve decision-making processes and strategy implementation.
    
-- **Blockchain and Smart Contracts:**
-   - Emerging technologies like blockchain aim to enhance transparency and reduce [counterparty risk](../c/counterparty_risk.md) in bond trading. Smart contracts can potentially automate and secure complex [arbitrage](../a/arbitrage.md) trades.
+- **[Blockchain](../b/blockchain_in_trading.md) and [Smart Contracts](../s/smart_contracts_in_trading.md):**
+   - Emerging technologies like [blockchain](../b/blockchain_in_trading.md) aim to enhance transparency and reduce [counterparty risk](../c/counterparty_risk.md) in bond trading. [Smart contracts](../s/smart_contracts_in_trading.md) can potentially automate and secure complex [arbitrage](../a/arbitrage.md) trades.
 
 **Learning and Resources:**
 
@@ -140,7 +140,7 @@ The future of convertible bond [arbitrage](../a/arbitrage.md) looks promising wi
    - The rise of sustainable finance and [green bonds](../g/green_bonds.md) opens new avenues for convertible bond [arbitrage](../a/arbitrage.md) focused on environmentally-friendly investments.
 
 - **Technological Integration:**
-   - Future advancements in AI, quantum computing, and blockchain technology are expected to further revolutionize [arbitrage](../a/arbitrage.md) strategies, increasing efficiency and reducing operational risks.
+   - Future advancements in AI, [quantum computing](../q/quantum_computing_in_trading.md), and [blockchain](../b/blockchain_in_trading.md) technology are expected to further revolutionize [arbitrage](../a/arbitrage.md) strategies, increasing efficiency and reducing operational risks.
 
 - **Market Volatility:**
    - Continued market volatility creates both challenges and opportunities for arbitrageurs. [Adaptive strategies](../a/adaptive_strategies.md) and robust [risk management](../r/risk_management.md) will remain critical for success.

@@ -70,7 +70,7 @@ While the ROC is a powerful tool, it also has its limitations:
 
 ### Sensitivity to Volatile Markets
 
-ROC can be highly sensitive in volatile markets, sometimes generating false signals. Shorter periods can result in a more volatile ROC, leading to excessive whipsaw trades.
+ROC can be highly sensitive in volatile markets, sometimes generating [false signals](../f/false_signals_in_trading.md). Shorter periods can result in a more volatile ROC, leading to excessive whipsaw trades.
 
 ### Lagging Indicator
 

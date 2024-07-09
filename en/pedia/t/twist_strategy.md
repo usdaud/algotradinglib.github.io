@@ -1,7 +1,7 @@
 # Twist Strategy
 
 ## Introduction
-The “Twist Strategy” in [algorithmic trading](../a/algorithmic_trading.md) is an advanced and nuanced method used by traders to outperform conventional investment strategies. Its basis lies in exploiting market inefficiencies, harnessing data-driven insights, and leveraging high-speed transactions. This composite strategy integrates principles from various trading paradigms, including statistical [arbitrage](../a/arbitrage.md), [market microstructure](../m/market_microstructure.md) models, machine learning, and artificial intelligence.
+The “Twist Strategy” in [algorithmic trading](../a/algorithmic_trading.md) is an advanced and nuanced method used by traders to outperform conventional investment strategies. Its basis lies in exploiting market inefficiencies, harnessing data-driven insights, and leveraging high-speed transactions. This composite strategy integrates principles from various trading paradigms, including statistical [arbitrage](../a/arbitrage.md), [market microstructure](../m/market_microstructure.md) models, machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 ## Core Concepts and Components
 
@@ -15,13 +15,13 @@ Statistical [arbitrage](../a/arbitrage.md) involves [trading strategies](../t/tr
 [Market microstructure](../m/market_microstructure.md) models examine the process of price formation and the role of market intermediaries. These models provide insight into liquidity, order flow, and the effects of trading at different times and volumes. The Twist Strategy utilizes microstructure models to improve execution efficiency, minimize market impact, and optimize trade timing.
 
 ### 4. Machine Learning & Artificial Intelligence
-Machine learning and AI are pivotal in the Twist Strategy. They help in analyzing massive datasets to detect patterns and make predictions. The incorporation of convolutions neural networks (CNN), recurrent neural networks (RNN), and reinforcement learning algorithms allows for continuous learning and adaptation to market conditions.
+Machine learning and AI are pivotal in the Twist Strategy. They help in analyzing massive datasets to detect patterns and make predictions. The incorporation of convolutions [neural networks](../n/neural_networks_in_trading.md) (CNN), recurrent [neural networks](../n/neural_networks_in_trading.md) (RNN), and reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) allows for continuous learning and adaptation to market conditions.
 
 ### 5. Sentiment Analysis
-[Sentiment analysis](../s/sentiment_analysis.md) involves the use of natural language processing (NLP) to gauge market sentiment from news articles, social media, and analyst reports. By assessing the sentiment, the Twist Strategy can anticipate market movements triggered by news and public opinion, thus providing a predictive edge.
+[Sentiment analysis](../s/sentiment_analysis.md) involves the use of [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to gauge market sentiment from news articles, social media, and analyst reports. By assessing the sentiment, the Twist Strategy can anticipate market movements triggered by news and public opinion, thus providing a predictive edge.
 
 ### 6. Risk Management
-Effective [risk management](../r/risk_management.md) is critical to the success of [algorithmic trading](../a/algorithmic_trading.md) strategies. The Twist Strategy includes dynamic [risk management](../r/risk_management.md) techniques such as value at risk (VaR), stress testing, and [portfolio optimization](../p/portfolio_optimization.md) to ensure that potential losses are minimized.
+Effective [risk management](../r/risk_management.md) is critical to the success of [algorithmic trading](../a/algorithmic_trading.md) strategies. The Twist Strategy includes dynamic [risk management](../r/risk_management.md) techniques such as value at risk (VaR), [stress testing](../s/stress_testing_in_trading.md), and [portfolio optimization](../p/portfolio_optimization.md) to ensure that potential losses are minimized.
 
 ### 7. High-Frequency Trading (HFT)
 High-frequency trading (HFT) is integral to the Twist Strategy due to its reliance on executing a large number of orders at incredibly high speeds. This requires low latency systems and colocated servers to ensure execution times are minimized and [arbitrage](../a/arbitrage.md) opportunities are quickly capitalized upon.
@@ -44,18 +44,18 @@ High-frequency trading (HFT) is integral to the Twist Strategy due to its relian
 - **[Execution Algorithms](../e/execution_algorithms.md)**: Use algorithms such as VWAP (Volume Weighted Average Price) and TWAP (Time Weighted Average Price) to execute large orders while minimizing market impact.
 
 ### Machine Learning and AI Integration
-- **[Predictive Analytics](../p/predictive_analytics.md)**: Develop predictive models using past trading data and market indicators.
-- **Algorithmic Adaptation**: Create self-learning algorithms that adapt to changing market conditions.
+- **[Predictive Analytics](../p/predictive_analytics.md)**: Develop [predictive models](../p/predictive_models_in_trading.md) using past trading data and market indicators.
+- **Algorithmic Adaptation**: Create self-[learning algorithms](../l/learning_algorithms_in_trading.md) that adapt to changing market conditions.
 - **Behavioral Models**: Construct models that predict market movements based on historical patterns of trader behavior.
 
 ### Sentiment Analysis
 - **News Sentiment**: Analyze news headlines, articles, and reports to gauge market sentiment.
 - **[Social Media Sentiment](../s/social_media_sentiment.md)**: Scrutinize social media platforms for public opinion and sentiment shifts.
-- **Natural Language Processing**: Employ NLP techniques to categorize and quantify sentiment data for integration into [trading models](../t/trading_models.md).
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md)**: Employ NLP techniques to categorize and quantify sentiment data for integration into [trading models](../t/trading_models.md).
 
 ### Risk Management Techniques
 - **Value at Risk (VaR)**: Calculate the maximum potential loss over a given period with a specified confidence level.
-- **Stress Testing**: Simulate extreme market conditions to evaluate the resilience of [trading strategies](../t/trading_strategies.md).
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulate extreme market conditions to evaluate the resilience of [trading strategies](../t/trading_strategies.md).
 - **Dynamic Portfolio Adjustment**: Continuously adjust the portfolio to maintain optimal risk exposure based on market conditions.
 
 ### High-Frequency Trading Execution

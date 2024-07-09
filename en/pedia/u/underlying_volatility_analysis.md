@@ -33,7 +33,7 @@ Volatility measures the degree of variation in a trading price series over time,
 1. **[Bollinger Bands](../b/bollinger_bands.md):**
    [Bollinger Bands](../b/bollinger_bands.md) consist of a moving average and two standard deviations of the moving average. The bands widen during periods of high volatility and narrow during periods of low volatility.
    
-2. **Average True Range (ATR):**
+2. **[Average True Range](../a/average_true_range_(atr).md) (ATR):**
    ATR measures market volatility by decomposing the entire range of an asset for that period. It is an indicator that helps in determining the average range of price moves, adjusted for gaps.
 
 3. **Volatility Index (VIX):**

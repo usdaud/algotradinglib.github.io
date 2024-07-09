@@ -48,7 +48,7 @@ This solution shows that \( S_t \), the stock price, has a [log-normal distribut
     - \( K \) is the strike price.
     - \( T \) is the time to maturity.
     - \( r \) is the risk-free interest rate.
-    - \( N(\cdot) \) is the cumulative distribution function of the standard normal distribution.
+    - \( N(\cdot) \) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md).
 
 2. **Stock Price Modeling**: GBM is used to simulate future stock prices, enabling risk assessment and [portfolio management](../p/portfolio_management.md).
 3. **[Risk Management](../r/risk_management.md)**: By simulating the future distribution of asset prices, firms can quantify potential risks and set appropriate capital reserves.
@@ -92,7 +92,7 @@ for i in range(1, N):
 # Plotting
 plt.figure(figsize=(10, 6))
 plt.plot(t, S)
-plt.title('Geometric Brownian Motion Simulation')
+plt.title('Geometric Brownian Motion [Simulation](../s/simulation_in_trading.md)')
 plt.xlabel('Time')
 plt.ylabel('Stock Price')
 plt.show()

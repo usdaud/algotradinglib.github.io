@@ -39,7 +39,7 @@ The Dividend Discount Model (DDM) is specifically designed for valuing dividend-
 
 **Variants:**
 - **Gordon Growth Model:** Assumes dividends grow at a constant rate indefinitely.
-- **Multi-Stage DDM:** Accounts for different growth rates in different periods.
+- **Multi-Stage DDM:** Accounts for different [growth rates](../g/growth_rates_in_trading.md) in different periods.
 
 **Applications:**
 - Valuing mature, dividend-paying companies.
@@ -87,7 +87,7 @@ Earnings Power Value (EPV) is a valuation method that focuses on a company's sus
 
 **Applications:**
 - Valuing mature, stable companies.
-- Assessing the financial health and operational efficiency.
+- Assessing the financial health and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 **Strengths:**
 - Focuses on core earnings potential.

@@ -169,7 +169,7 @@ For example, firms like Citadel Securities and Virtu Financial may incorporate W
 
 #### Quantitative Hedge Funds
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md) often use a multitude of indicators to optimize strategies. Firms like Renaissance Technologies might integrate Williams %R with advanced statistical methods to enhance predictive models. For more details, check out [Renaissance Technologies](https://www.rentec.com).
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) often use a multitude of indicators to optimize strategies. Firms like Renaissance Technologies might integrate Williams %R with advanced statistical methods to enhance [predictive models](../p/predictive_models_in_trading.md). For more details, check out [Renaissance Technologies](https://www.rentec.com).
 
 #### Retail Investors
 

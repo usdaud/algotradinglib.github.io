@@ -2,7 +2,7 @@
 
 ## Introduction to Poisson Distribution
 
-The Poisson distribution is a fundamental concept within probability theory and statistics, widely used to model random events that occur independently and with a known average rate within a fixed interval of time or space. Named after the French mathematician Siméon Denis Poisson, this distribution is discrete and it provides the probability of a given number of events happening in a fixed interval.
+The Poisson distribution is a fundamental concept within [probability theory](../p/probability_theory_in_trading.md) and statistics, widely used to model random events that occur independently and with a known average rate within a fixed interval of time or space. Named after the French mathematician Siméon Denis Poisson, this distribution is discrete and it provides the probability of a given number of events happening in a fixed interval.
 
 Formally, the probability mass function (PMF) of the Poisson distribution can be defined as:
 
@@ -19,7 +19,7 @@ Prevalent in various fields such as telecommunications, biology, and physics, th
 
 ### Modeling Trade Counts
 
-One of the primary applications of the Poisson distribution in trading is in modeling the number of trades within a given time period. Typically, trade counts tend to be random but exhibit an average rate. For example, a stock may experience a consistent average number of trades per hour during regular market sessions. This can be modeled as a Poisson process wherein \(\lambda\) represents the average number of trades per hour.
+One of the primary applications of the Poisson distribution in trading is in modeling the number of trades within a given time period. Typically, trade counts tend to be random but exhibit an average rate. For example, a stock may experience a consistent average number of trades per hour during regular market sessions. This can be modeled as a [Poisson process](../p/poisson_process_in_trading.md) wherein \(\lambda\) represents the average number of trades per hour.
 
 By leveraging this model, traders and analysts can forecast the likelihood of observing a specific number of trades in a forthcoming period. Such information is crucial for numerous [trading strategies](../t/trading_strategies.md), including [liquidity provision](../l/liquidity_provision.md) and high-frequency trading (HFT).
 
@@ -31,7 +31,7 @@ For instance, if the average number of market orders arriving per minute is 5, w
 
 ### Price Jumps and Extreme Movements
 
-Price jumps or extreme movements in asset prices are another area where the Poisson distribution can be applied. These movements often occur sporadically due to unexpected news, economic releases, or [large block trades](../l/large_block_trades.md). By treating the frequency of such jumps as a Poisson process, traders can estimate the probabilities of price jumps over specific intervals.
+Price jumps or extreme movements in asset prices are another area where the Poisson distribution can be applied. These movements often occur sporadically due to unexpected news, economic releases, or [large block trades](../l/large_block_trades.md). By treating the frequency of such jumps as a [Poisson process](../p/poisson_process_in_trading.md), traders can estimate the probabilities of price jumps over specific intervals.
 
 An example of this application is in the modeling of "[tail risk](../t/tail_risk.md)," which is concerned with the risk of extreme price movements. Knowing the likelihood of such extreme movements can aid in better [risk management](../r/risk_management.md) and hedging practices.
 

@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Knowledge-Based Systems (KBS) leverage artificial intelligence (AI) to simulate human decision-making. In trading, these systems often operate as expert systems or rule-based systems, providing traders with advanced tools for making informed decisions. The application of KBS in trading is crucial given the complexity and volume of data involved in financial markets. This discussion aims to delve into the role, mechanisms, and advantages of KBS in trading, while highlighting notable examples and companies utilizing these systems.
+Knowledge-Based Systems (KBS) leverage [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) to simulate human decision-making. In trading, these systems often operate as expert systems or rule-based systems, providing traders with advanced tools for making informed decisions. The application of KBS in trading is crucial given the complexity and volume of data involved in financial markets. This discussion aims to delve into the role, mechanisms, and advantages of KBS in trading, while highlighting notable examples and companies utilizing these systems.
 
 ### The Role of Knowledge-Based Systems in Trading
 

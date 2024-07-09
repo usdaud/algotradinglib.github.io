@@ -61,13 +61,13 @@ The E-step and M-step repeat until convergence, which is typically defined as th
 
 Gaussian Mixture Models have wide applications in various fields:
 
-1. **Clustering**: GMMs are commonly used for data clustering. Unlike K-means clustering, which assigns each data point to exactly one cluster, GMMs assign probabilities to the cluster memberships, allowing more flexibility and accounting for overlap between clusters.
+1. **Clustering**: GMMs are commonly used for data clustering. Unlike [K-means clustering](../k/k-means_clustering_in_trading.md), which assigns each data point to exactly one cluster, GMMs assign probabilities to the cluster memberships, allowing more flexibility and accounting for overlap between clusters.
 
 2. **Density Estimation**: GMMs can be used to model the [probability density function](../p/probability_density_function.md) of a dataset. This is especially useful in situations where the data distribution is multimodal or does not conform to a single [Gaussian distribution](../g/gaussian_distribution.md).
 
 3. **[Anomaly Detection](../a/anomaly_detection.md)**: By learning the distribution of the data, GMMs can be used to detect anomalies or outliers. In a trained GMM, data points that have low probability under the model can be considered anomalies.
 
-4. **Dimensionality Reduction**: GMMs can be used in conjunction with methods like Principal Component Analysis (PCA) to reduce the dimensionality of data, retaining only the most important components for further analysis.
+4. **[Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md)**: GMMs can be used in conjunction with methods like [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) to reduce the dimensionality of data, retaining only the most important components for further analysis.
 
 ### Implementation of Gaussian Mixture Models in Python
 

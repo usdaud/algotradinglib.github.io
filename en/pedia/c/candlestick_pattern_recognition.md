@@ -47,7 +47,7 @@ A candlestick chart is composed of numerous individual candles, and each candle 
 
 #### Automation of Pattern Recognition
 
-With the advancement of artificial intelligence and machine learning, the automation of candlestick [pattern recognition](../p/pattern_recognition.md) has become feasible. These technologies utilize historical data to train models that can identify patterns in real-time with high accuracy. Automated recognition reduces the lag and potential errors due to manual identification, increasing the efficiency and effectiveness of [trading strategies](../t/trading_strategies.md).
+With the advancement of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, the automation of candlestick [pattern recognition](../p/pattern_recognition.md) has become feasible. These technologies utilize historical data to train models that can identify patterns in real-time with high accuracy. Automated recognition reduces the lag and potential errors due to manual identification, increasing the efficiency and effectiveness of [trading strategies](../t/trading_strategies.md).
 
 #### Software and Tools
 
@@ -62,7 +62,7 @@ Several companies and platforms provide tools for automated candlestick [pattern
 Utilizing [candlestick patterns](../c/candlestick_patterns.md) for developing [algorithmic trading](../a/algorithmic_trading.md) strategies involves:
 
 1. **Data Collection:** Harvest historical price data to build a comprehensive dataset for analysis.
-2. **[Pattern Recognition](../p/pattern_recognition.md) Algorithms:** Apply machine learning algorithms to identify [candlestick patterns](../c/candlestick_patterns.md).
+2. **[Pattern Recognition](../p/pattern_recognition.md) Algorithms:** Apply machine [learning algorithms](../l/learning_algorithms_in_trading.md) to identify [candlestick patterns](../c/candlestick_patterns.md).
 3. **[Backtesting](../b/backtesting.md):** Test the strategy against historical data to measure its effectiveness and refine parameters.
 4. **Execution:** Implement the strategy in a live [trading environment](../t/trading_environment.md), continuously monitoring and adjusting as needed.
 
@@ -70,7 +70,7 @@ Utilizing [candlestick patterns](../c/candlestick_patterns.md) for developing [a
 
 #### False Signals
 
-One of the significant risks in relying on [candlestick patterns](../c/candlestick_patterns.md) is the potential for false signals. Market contexts, such as varying volatility and external news events, can generate misleading patterns. Traders should combine candlestick analysis with other [technical indicators](../t/technical_indicators.md) to validate signals.
+One of the significant risks in relying on [candlestick patterns](../c/candlestick_patterns.md) is the potential for [false signals](../f/false_signals_in_trading.md). Market contexts, such as varying volatility and external news events, can generate misleading patterns. Traders should combine candlestick analysis with other [technical indicators](../t/technical_indicators.md) to validate signals.
 
 #### Overfitting
 

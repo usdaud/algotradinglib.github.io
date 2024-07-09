@@ -1,6 +1,6 @@
 # Order Type Strategies
 
-[Algorithmic trading](../a/algorithmic_trading.md) has transformed the financial markets by introducing sophisticated [trading strategies](../t/trading_strategies.md) that can execute orders with minimal human intervention. At the core of these strategies are different order types, each designed to optimize trades based on a variety of factors, such as price, time, and volume. Understanding these order types and their strategic applications is crucial for anyone involved in [algorithmic trading](../a/algorithmic_trading.md). This article provides an in-depth analysis of various order type strategies commonly used in [algorithmic trading](../a/algorithmic_trading.md).
+[Algorithmic trading](../a/algorithmic_trading.md) has transformed the financial markets by introducing sophisticated [trading strategies](../t/trading_strategies.md) that can execute orders with minimal human intervention. At the core of these strategies are different [order types](../o/order_types_in_trading.md), each designed to optimize trades based on a variety of factors, such as price, time, and volume. Understanding these [order types](../o/order_types_in_trading.md) and their strategic applications is crucial for anyone involved in [algorithmic trading](../a/algorithmic_trading.md). This article provides an in-depth analysis of various order type strategies commonly used in [algorithmic trading](../a/algorithmic_trading.md).
 
 #### 1. Market Orders
 
@@ -91,7 +91,7 @@ An All or None order stipulates that the order must be filled in its entirety or
 
 **Strategic Use:**
 - **Complete Transaction Assurance:** Ensures that the entire order is executed, which is critical when dealing with certain levels of transaction sizes.
-- **Order Management:** Helps in better management of large orders to avoid complications arising from partial fills.
+- **[Order Management](../o/order_management_in_trading.md):** Helps in better management of large orders to avoid complications arising from partial fills.
 
 #### 12. Pegged Orders
 
@@ -121,14 +121,14 @@ Trailing stop orders set a stop limit that "trails" the current market price of 
 
 Several companies offer advanced [algorithmic trading](../a/algorithmic_trading.md) platforms with sophisticated order type strategies:
 
-**Interactive Brokers:** [Interactive Brokers](https://www.interactivebrokers.com) provides a wide range of order types, including conditional orders, bracket orders, and [algorithmic trading](../a/algorithmic_trading.md) strategies that utilize these orders for optimized execution.
+**[Interactive Brokers](../i/interactive_brokers.md):** [Interactive Brokers](https://www.interactivebrokers.com) provides a wide range of [order types](../o/order_types_in_trading.md), including conditional orders, bracket orders, and [algorithmic trading](../a/algorithmic_trading.md) strategies that utilize these orders for optimized execution.
 
-**[Robinhood](../r/robinhood.md):** [Robinhood](https://robinhood.com) offers various order types such as market orders, limit orders, stop orders, and [stop-limit orders](../s/stop-limit_orders.md), catering to both novice and experienced traders.
+**[Robinhood](../r/robinhood.md):** [Robinhood](https://robinhood.com) offers various [order types](../o/order_types_in_trading.md) such as market orders, limit orders, stop orders, and [stop-limit orders](../s/stop-limit_orders.md), catering to both novice and experienced traders.
 
-**TD [Ameritrade](../a/ameritrade.md):** [TD Ameritrade](https://www.tdameritrade.com) facilitates numerous order types, including advanced conditional orders and robust algorithmic order execution.
+**TD [Ameritrade](../a/ameritrade.md):** [TD Ameritrade](https://www.tdameritrade.com) facilitates numerous [order types](../o/order_types_in_trading.md), including advanced conditional orders and robust algorithmic order execution.
 
-**[TradeStation](../t/tradestation.md):** [TradeStation](https://www.tradestation.com) supports a comprehensive suite of order types and automated [trading strategies](../t/trading_strategies.md), enabling traders to execute sophisticated algorithmic trades.
+**[TradeStation](../t/tradestation.md):** [TradeStation](https://www.tradestation.com) supports a comprehensive suite of [order types](../o/order_types_in_trading.md) and automated [trading strategies](../t/trading_strategies.md), enabling traders to execute sophisticated algorithmic trades.
 
 ### Conclusion
 
-Understanding the various order types and their strategic applications is foundational to mastering [algorithmic trading](../a/algorithmic_trading.md). Each order type offers unique advantages and risks, making it essential for traders to choose the appropriate order type that aligns with their trading objectives and market conditions. By leveraging these order types effectively, traders can optimize their trade execution, manage risk, and enhance their overall [trading performance](../t/trading_performance.md).
+Understanding the various [order types](../o/order_types_in_trading.md) and their strategic applications is foundational to mastering [algorithmic trading](../a/algorithmic_trading.md). Each order type offers unique advantages and risks, making it essential for traders to choose the appropriate order type that aligns with their trading objectives and market conditions. By leveraging these [order types](../o/order_types_in_trading.md) effectively, traders can optimize their trade execution, manage risk, and enhance their overall [trading performance](../t/trading_performance.md).

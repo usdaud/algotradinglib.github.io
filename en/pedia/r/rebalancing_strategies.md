@@ -38,10 +38,10 @@ Threshold-based rebalancing, also known as percentage-of-[portfolio rebalancing]
 
 ### Dynamic Rebalancing
 
-Dynamic rebalancing uses more sophisticated models and algorithms to determine the optimal rebalancing points. This might involve machine learning algorithms, stochastic models, or optimization techniques that consider future market predictions and the current portfolio state.
+Dynamic rebalancing uses more sophisticated models and algorithms to determine the optimal rebalancing points. This might involve machine [learning algorithms](../l/learning_algorithms_in_trading.md), stochastic models, or optimization techniques that consider future market predictions and the current portfolio state.
 
 **Pros**:
-- Highly adaptive: Can optimize timing and [asset allocation](../a/asset_allocation.md) based on predictive models.
+- Highly adaptive: Can optimize timing and [asset allocation](../a/asset_allocation.md) based on [predictive models](../p/predictive_models_in_trading.md).
 - Potential for improved performance: By leveraging complex algorithms, dynamic rebalancing can enhance returns and reduce risk.
 
 **Cons**:
@@ -97,7 +97,7 @@ High-level technology and infrastructure are required to implement rebalancing s
 
 Several platforms offer tools and services for implementing rebalancing strategies. Some notable ones include:
 
-- **Interactive Brokers**: A popular choice for individual traders and institutional clients due to its extensive API and low transaction costs. [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A popular choice for individual traders and institutional clients due to its extensive API and low transaction costs. [Interactive Brokers](https://www.interactivebrokers.com/)
 - **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based platform for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). [QuantConnect](https://www.quantconnect.com/)
 - **[AlgoTrader](../a/algotrader.md)**: Enterprise-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports multi-asset strategies. [AlgoTrader](https://www.algotrader.com/)
 

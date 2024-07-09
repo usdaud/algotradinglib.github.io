@@ -1,9 +1,9 @@
 # Z-Test Models
 
-[Algorithmic trading](../a/algorithmic_trading.md) leverages mathematical models and statistical techniques to make trading decisions autonomously. One of the fundamental statistical tests used in this realm is the Z-Test. The Z-Test is employed to determine if there is a significant difference between sample data and a known value or between two sample means. In [algorithmic trading](../a/algorithmic_trading.md), Z-Test models play a crucial role in validating [trading strategies](../t/trading_strategies.md), conducting [hypothesis testing](../h/hypothesis_testing.md), and assessing market behavior. This document explores the intricacies of Z-Test models and their applications in [algorithmic trading](../a/algorithmic_trading.md).
+[Algorithmic trading](../a/algorithmic_trading.md) leverages [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to make trading decisions autonomously. One of the fundamental statistical tests used in this realm is the [Z-Test](../z/z-test_in_trading.md). The [Z-Test](../z/z-test_in_trading.md) is employed to determine if there is a significant difference between sample data and a known value or between two sample means. In [algorithmic trading](../a/algorithmic_trading.md), [Z-Test](../z/z-test_in_trading.md) models play a crucial role in validating [trading strategies](../t/trading_strategies.md), conducting [hypothesis testing](../h/hypothesis_testing.md), and assessing market behavior. This document explores the intricacies of [Z-Test](../z/z-test_in_trading.md) models and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Table of Contents
-1. Introduction to Z-Test
+1. Introduction to [Z-Test](../z/z-test_in_trading.md)
 2. Types of Z-Tests
 3. Z-Score Calculation
 4. Assumptions in Z-Tests
@@ -13,7 +13,7 @@
     2. [Market Efficiency](../m/market_efficiency.md) Testing
     3. [Risk Management](../r/risk_management.md)
     4. [Performance Attribution](../p/performance_attribution.md)
-7. Implementation of Z-Test Models
+7. Implementation of [Z-Test](../z/z-test_in_trading.md) Models
     1. Python for Z-Tests
     2. Case Studies
 8. Limitations of Z-Tests in Trading
@@ -21,13 +21,13 @@
 
 ## Introduction to Z-Test
 
-The Z-Test is a statistical test used to determine whether there is a significant difference between sample data and a known population value or between two independent samples. It is called a Z-Test because the test statistic follows a standard normal distribution under the null hypothesis. This test is particularly useful when the sample size is large (typically n > 30) and the population variance is known.
+The [Z-Test](../z/z-test_in_trading.md) is a statistical test used to determine whether there is a significant difference between sample data and a known population value or between two independent samples. It is called a [Z-Test](../z/z-test_in_trading.md) because the test statistic follows a standard [normal distribution](../n/normal_distribution_in_trading.md) under the null hypothesis. This test is particularly useful when the sample size is large (typically n > 30) and the population variance is known.
 
 ## Types of Z-Tests
 
-1. **One-Sample Z-Test**: Used to determine if the sample mean is significantly different from the known population mean.
-2. **Two-Sample Z-Test**: Used to compare the means of two independent samples to see if they come from populations with equal means.
-3. **Proportion Z-Test**: Used to determine if the sample proportion is significantly different from the known population proportion.
+1. **One-Sample [Z-Test](../z/z-test_in_trading.md)**: Used to determine if the sample mean is significantly different from the known population mean.
+2. **Two-Sample [Z-Test](../z/z-test_in_trading.md)**: Used to compare the means of two independent samples to see if they come from populations with equal means.
+3. **Proportion [Z-Test](../z/z-test_in_trading.md)**: Used to determine if the sample proportion is significantly different from the known population proportion.
 
 ## Z-Score Calculation
 
@@ -41,11 +41,11 @@ Where:
 - \(\sigma\) is the population standard deviation
 - \(n\) is the sample size
 
-For a two-sample Z-test, the formula is slightly adjusted to account for two sample means and their respective standard deviations.
+For a two-sample [Z-test](../z/z-test_in_trading.md), the formula is slightly adjusted to account for two sample means and their respective standard deviations.
 
 ## Assumptions in Z-Tests
 
-1. **Normality**: The data follows a normal distribution.
+1. **Normality**: The data follows a [normal distribution](../n/normal_distribution_in_trading.md).
 2. **Independence**: The samples are independent of each other.
 3. **Known Population Variance**: The population variance should be known and constant.
 4. These assumptions ensure the validity and reliability of the test results.
@@ -64,7 +64,7 @@ For a two-sample Z-test, the formula is slightly adjusted to account for two sam
 
 ### Strategy Validation
 
-Algorithmic traders use Z-tests to validate their [trading strategies](../t/trading_strategies.md) by comparing the returns of their algorithm against a benchmark. For example, if a trader wants to ascertain whether their new high-frequency trading (HFT) algorithm produces significantly higher returns than the S&P 500 index, they can use a one-sample Z-test.
+Algorithmic traders use Z-tests to validate their [trading strategies](../t/trading_strategies.md) by comparing the returns of their algorithm against a benchmark. For example, if a trader wants to ascertain whether their new high-frequency trading (HFT) algorithm produces significantly higher returns than the S&P 500 index, they can use a one-sample [Z-test](../z/z-test_in_trading.md).
 
 ### Market Efficiency Testing
 
@@ -82,7 +82,7 @@ Traders often use Z-tests for [performance attribution](../p/performance_attribu
 
 ### Python for Z-Tests
 
-Python, a leading language in the field of data science and [algorithmic trading](../a/algorithmic_trading.md), offers robust libraries such as SciPy and Statsmodels to perform Z-tests. Below is a simple example of a one-sample Z-test using Python:
+Python, a leading language in the field of [data science](../d/data_science_in_trading.md) and [algorithmic trading](../a/algorithmic_trading.md), offers robust libraries such as SciPy and Statsmodels to perform Z-tests. Below is a simple example of a one-sample [Z-test](../z/z-test_in_trading.md) using Python:
 
 ```python
 from scipy import stats
@@ -107,7 +107,7 @@ print("P-Value:", p_value)
 
 ### Case Studies
 
-Several [algorithmic trading](../a/algorithmic_trading.md) firms and hedge funds implement Z-Test models to optimize their [trading strategies](../t/trading_strategies.md). For instance:
+Several [algorithmic trading](../a/algorithmic_trading.md) firms and hedge funds implement [Z-Test](../z/z-test_in_trading.md) models to optimize their [trading strategies](../t/trading_strategies.md). For instance:
 
 - **WorldQuant**: This firm extensively uses statistical tests, including Z-Tests, to develop and validate its [trading models](../t/trading_models.md). More information can be found on their [official website](https://www.worldquant.com).
 - **Two Sigma**: Two Sigma employs sophisticated algorithms and statistical methodologies, including Z-Tests, to derive insights and make trading decisions. Additional details are available on their [official website](https://www.twosigma.com).
@@ -120,4 +120,4 @@ Several [algorithmic trading](../a/algorithmic_trading.md) firms and hedge funds
 
 ## Conclusion
 
-Z-Test models are invaluable tools in the arsenal of algorithmic traders for validating strategies, testing market hypotheses, managing risk, and attributing performance. However, traders should be aware of the limitations and ensure that assumptions underlying the Z-Test are reasonably met. By incorporating Z-Tests judiciously, traders can enhance their decision-making frameworks and achieve more robust trading outcomes.
+[Z-Test](../z/z-test_in_trading.md) models are invaluable tools in the arsenal of algorithmic traders for validating strategies, testing market hypotheses, managing risk, and attributing performance. However, traders should be aware of the limitations and ensure that assumptions underlying the [Z-Test](../z/z-test_in_trading.md) are reasonably met. By incorporating Z-Tests judiciously, traders can enhance their decision-making frameworks and achieve more robust trading outcomes.

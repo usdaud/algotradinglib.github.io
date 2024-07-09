@@ -1,6 +1,6 @@
 # Global Risk Management
 
-[Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo trading, is the process of executing trades in financial markets using automated, predefined criteria based on mathematical models and algorithms. While this trading method has numerous advantages, including speed, reduced human error, and the ability to handle large volumes of transactions, it also comes with its unique set of risks. Global [risk management](../r/risk_management.md) is a crucial aspect of algo trading, as it encompasses identifying, analyzing, and mitigating potential risks that can have adverse effects on the performance of [trading strategies](../t/trading_strategies.md). This document explores the key components of global [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md), focusing on risk types, strategies for managing those risks, technological infrastructure, regulatory compliance, and case studies from prominent financial institutions.
+[Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo trading, is the process of executing trades in financial markets using automated, predefined criteria based on [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. While this trading method has numerous advantages, including speed, reduced human error, and the ability to handle large volumes of transactions, it also comes with its unique set of risks. Global [risk management](../r/risk_management.md) is a crucial aspect of algo trading, as it encompasses identifying, analyzing, and mitigating potential risks that can have adverse effects on the performance of [trading strategies](../t/trading_strategies.md). This document explores the key components of global [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md), focusing on risk types, strategies for managing those risks, technological infrastructure, regulatory compliance, and case studies from prominent financial institutions.
 
 ### Types of Risks in Algorithmic Trading
 
@@ -14,7 +14,7 @@
 
 3. **Credit Risk**:
    - **Definition**: The risk that a counterparty will fail to fulfill its financial obligations.
-   - **Impacts**: This is especially relevant in over-the-counter (OTC) markets where the failure of a counterparty can lead to significant financial losses.
+   - **Impacts**: This is especially relevant in [over-the-counter (OTC) markets](../o/over-the-counter_markets.md) where the failure of a counterparty can lead to significant financial losses.
 
 4. **Operational Risk**:
    - **Definition**: The risk of loss from inadequate or failed internal processes, people, and systems.
@@ -25,7 +25,7 @@
    - **Impacts**: Non-compliance can lead to fines, legal penalties, and reputational damage.
 
 6. **Model Risk**:
-   - **Definition**: The risk that the mathematical models used in [trading strategies](../t/trading_strategies.md) may be incorrect or misapplied.
+   - **Definition**: The risk that the [mathematical models](../m/mathematical_models_in_trading.md) used in [trading strategies](../t/trading_strategies.md) may be incorrect or misapplied.
    - **Impacts**: Can lead to incorrect [trading signals](../t/trading_signals.md) and significant financial losses.
 
 ### Risk Management Strategies
@@ -38,7 +38,7 @@
    - **Description**: Predefined instructions to close a trade at a specific price level to limit losses.
    - **Implementation**: Integrating stop-loss mechanisms into [trading algorithms](../t/trading_algorithms.md) to automatically trigger upon reaching certain thresholds.
 
-3. **Stress Testing**:
+3. **[Stress Testing](../s/stress_testing_in_trading.md)**:
    - **Description**: Simulating extreme market conditions to evaluate the robustness of [trading strategies](../t/trading_strategies.md).
    - **Implementation**: Regularly performing stress tests using historical data of financial crises and hypothetical scenarios to ensure algorithms can withstand adverse market conditions.
 
@@ -51,7 +51,7 @@
    - **Implementation**: Using statistical methods to calculate the correlation and volatility of assets and rebalancing the portfolio accordingly.
 
 6. **Automated Monitoring Systems**:
-   - **Description**: Utilizing software tools to constantly monitor and report the performance and [risk metrics](../r/risk_metrics.md) of [trading algorithms](../t/trading_algorithms.md).
+   - **Description**: Utilizing [software tools](../s/software_tools_for_trading.md) to constantly monitor and report the performance and [risk metrics](../r/risk_metrics.md) of [trading algorithms](../t/trading_algorithms.md).
    - **Implementation**: Deploying real-time monitoring systems to detect and alert traders about unusual activities or discrepancies in algorithmic performance.
 
 ### Technological Infrastructure for Risk Management
@@ -60,13 +60,13 @@
    - **Description**: Leveraging powerful computational resources to process large volumes of data quickly and efficiently.
    - **Implementation**: Utilizing high-performance servers and parallel processing systems to execute complex algorithms and risk calculations.
 
-2. **Cloud Computing**:
+2. **[Cloud Computing](../c/cloud_computing_in_trading.md)**:
    - **Description**: Utilizing cloud platforms for scalable and flexible computing resources.
    - **Implementation**: Employing cloud services to handle peak loads, ensuring constant monitoring and updating of [trading algorithms](../t/trading_algorithms.md) without performance degradation.
 
-3. **Big Data Analytics**:
+3. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**:
    - **Description**: Analyzing vast amounts of market data to identify trends, patterns, and risks.
-   - **Implementation**: Integrating big data analytics tools into the trading infrastructure to enhance decision-making and risk assessment capabilities.
+   - **Implementation**: Integrating [big data analytics](../b/big_data_analytics_in_trading.md) tools into the trading infrastructure to enhance decision-making and risk assessment capabilities.
 
 4. **Machine Learning and AI**:
    - **Description**: Using advanced algorithms to predict market movements and identify risks.
@@ -89,7 +89,7 @@
 ### Case Studies
 
 #### 1. JP Morgan Chase & Co.
-JP Morgan Chase & Co. is one of the largest global financial institutions, known for its innovative use of technology in trading. The firm leverages advanced [risk management](../r/risk_management.md) systems and has implemented a comprehensive [risk management](../r/risk_management.md) framework that includes real-time monitoring, stress testing, and big data analytics. For more information, visit their [official website](https://www.jpmorganchase.com).
+JP Morgan Chase & Co. is one of the largest global financial institutions, known for its innovative use of technology in trading. The firm leverages advanced [risk management](../r/risk_management.md) systems and has implemented a comprehensive [risk management](../r/risk_management.md) framework that includes real-time monitoring, [stress testing](../s/stress_testing_in_trading.md), and [big data analytics](../b/big_data_analytics_in_trading.md). For more information, visit their [official website](https://www.jpmorganchase.com).
 
 #### 2. Goldman Sachs
 Goldman Sachs is a leader in [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md). The firm uses sophisticated machine learning models to assess market risks and optimize [trading strategies](../t/trading_strategies.md). It has a robust infrastructure for real-time risk monitoring and regulatory compliance. Learn more on their [official page](https://www.goldmansachs.com).

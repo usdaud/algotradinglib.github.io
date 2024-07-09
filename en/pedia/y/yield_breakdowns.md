@@ -28,7 +28,7 @@ Effective [yield decomposition](../y/yield_decomposition.md) requires sophistica
 
 1. **Attribution Analysis**: Involves dissecting the return into various contributing factors. This can include sector allocation, stock selection, and timing decisions for equity portfolios.
   
-2. **[Factor Analysis](../f/factor_analysis.md)**: Decomposing returns into risk factors such as market risk, size risk, value risk, and momentum risk to understand the sources of alpha.
+2. **[Factor Analysis](../f/factor_analysis.md)**: Decomposing returns into [risk factors](../r/risk_factors_in_trading.md) such as market risk, size risk, value risk, and momentum risk to understand the sources of alpha.
   
 3. **[Performance Attribution](../p/performance_attribution.md)**: This method includes calculating the performance impact of specific factors like currency effects, interest rate changes, and macroeconomic shocks.
 
@@ -50,7 +50,7 @@ To illustrate how yield breakdown is applied, consider a case involving a multif
   - **Interest Income**: 0.5%
   - **Transaction Costs**: -0.5%
   - **Slippage**: -0.25%
-  - **Leverage Effect**: 1.25%
+  - **[Leverage Effect](../l/leverage_effect_in_trading.md)**: 1.25%
 
 By breaking down the yield, it becomes evident that despite robust capital gains, transaction costs and slippage reduce the effective yield. Strategies like optimizing trade execution and reducing slippage can enhance the overall yield.
 

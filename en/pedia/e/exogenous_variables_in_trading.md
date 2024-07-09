@@ -12,7 +12,7 @@ Exogenous variables essentially lie outside the scope of a model but have the po
 
 1. **Statistical Methods**: Time series models like ARIMAX (Auto-Regressive Integrated Moving Average with Exogenous Inputs) integrate exogenous variables explicitly. These models offer more accurate forecasts by incorporating external factors.
 
-2. **Machine Learning**: Advanced machine learning techniques can handle high-dimensional data, making it easier to incorporate multiple exogenous variables. Models such as Random Forests, Gradient Boosting Machines, and Deep Learning frameworks can be equipped to accommodate these external factors.
+2. **Machine Learning**: Advanced machine learning techniques can handle high-dimensional data, making it easier to incorporate multiple exogenous variables. Models such as [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, and Deep Learning frameworks can be equipped to accommodate these external factors.
 
 3. **Hybrid Models**: Some [trading strategies](../t/trading_strategies.md) leverage a combination of statistical methods and machine learning to balance robustness and precision. A hybrid approach can enhance model performance by capturing both linear and non-linear effects introduced by exogenous variables.
 
@@ -26,13 +26,13 @@ Various exogenous variables may impact trading decisions, ranging from macroecon
    
 2. **Inflation Rates**: Rising inflation generally leads to tighter monetary policy, which can affect equity and bond markets. For example, a high Consumer Price Index (CPI) can lead traders to anticipate changes in inflation-driven central bank policies.
 
-3. **GDP Growth Rates**: Strong GDP growth signals a healthy economy, often leading to bullish sentiment in equity markets. Conversely, negative GDP growth or [recession indicators](../r/recession_indicators.md) can trigger bearish trends.
+3. **GDP [Growth Rates](../g/growth_rates_in_trading.md)**: Strong GDP growth signals a healthy economy, often leading to bullish sentiment in equity markets. Conversely, negative GDP growth or [recession indicators](../r/recession_indicators.md) can trigger bearish trends.
 
 4. **Employment Data**: Monthly reports such as Non-Farm Payrolls (NFP) in the U.S. are closely watched for signs of economic health. High employment levels generally contribute to market confidence.
 
 ### Geopolitical Events
 
-1. **Political Elections**: Elections can introduce volatility as markets speculate on the potential economic policies of different candidates or parties. For instance, U.S. presidential elections typically drive market uncertainty and trading volume.
+1. **Political Elections**: Elections can introduce volatility as markets speculate on the potential economic policies of different candidates or parties. For instance, U.S. presidential elections typically drive market [uncertainty](../u/uncertainty_in_trading.md) and trading volume.
 
 2. **International Conflicts**: Wars, treaties, and trade disputes can have profound impacts on global markets. The trade war between the U.S. and China is a prime example, where tariff announcements have led to significant market shifts.
 
@@ -40,17 +40,17 @@ Various exogenous variables may impact trading decisions, ranging from macroecon
 
 ### Market Sentiment Indicators
 
-1. **Volatility Indices (VIX)**: Often termed the "fear gauge," the VIX measures market volatility expectations. High VIX values typically indicate higher market uncertainty and potential downturns.
+1. **Volatility Indices (VIX)**: Often termed the "fear gauge," the VIX measures market volatility expectations. High VIX values typically indicate higher market [uncertainty](../u/uncertainty_in_trading.md) and potential downturns.
 
 2. **Investor [Sentiment Surveys](../s/sentiment_surveys.md)**: Surveys like the AAII Investor Sentiment Survey provide insights into retail investor moods, which can be contra-indicators or confirmation signals for market trends.
 
-3. **Media [Sentiment Analysis](../s/sentiment_analysis.md)**: Natural Language Processing (NLP) techniques can analyze media sentiment and public opinion as expressed in news, social media, and financial blogs, providing real-time insights into market sentiment.
+3. **Media [Sentiment Analysis](../s/sentiment_analysis.md)**: [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques can analyze media sentiment and public opinion as expressed in news, social media, and financial blogs, providing real-time insights into market sentiment.
 
 ### Technological Developments
 
 1. **[Algorithmic Trading](../a/algorithmic_trading.md) Adoption**: The rise in [algorithmic trading](../a/algorithmic_trading.md) by hedge funds, banks, and retail traders impacts liquidity and market behavior. For example, high-frequency trading (HFT) can lead to more pronounced short-term market movements.
 
-2. **Blockchain and Cryptocurrencies**: Blockchain technology and the proliferation of cryptocurrencies have introduced new asset classes and market dynamics. Bitcoin price movements often react to technological advancements and regulatory news in the blockchain space.
+2. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies**: [Blockchain](../b/blockchain_in_trading.md) technology and the proliferation of cryptocurrencies have introduced new asset classes and market dynamics. Bitcoin price movements often react to technological advancements and regulatory news in the [blockchain](../b/blockchain_in_trading.md) space.
 
 3. **Cybersecurity Events**: Data breaches or widespread cyber-attacks can cause immediate market reactions, particularly in technology and financial sectors.
 

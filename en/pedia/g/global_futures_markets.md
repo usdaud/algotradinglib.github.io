@@ -76,7 +76,7 @@ Technological advancements have significantly transformed futures trading. Elect
    
 2. **High-Frequency Trading (HFT)**: Leveraging algorithms to execute a large number of orders at extremely high speeds, HFT strategies are common in futures markets.
    
-3. **Blockchain and Smart Contracts**: Innovations in blockchain technology are being examined for their potential to enhance transparency and efficiency in futures trading.
+3. **[Blockchain](../b/blockchain_in_trading.md) and [Smart Contracts](../s/smart_contracts_in_trading.md)**: Innovations in [blockchain](../b/blockchain_in_trading.md) technology are being examined for their potential to enhance transparency and efficiency in futures trading.
 
 ### Case Study: The Impact of Macroeconomic Events on Futures Markets
 
@@ -96,7 +96,7 @@ The future of futures markets looks poised for continued growth and innovation:
    
 2. **Sustainable Futures**: Growing interest in [environmental, social, and governance (ESG) investing](../e/environmental,_social,_and_governance_(esg)_investing.md) is leading to the creation of [futures contracts](../f/futures_contracts.md) linked to sustainable assets, such as carbon credits.
 
-3. **Advanced Analytics and Machine Learning**: The use of big data analytics and machine learning in creating predictive models and [trading strategies](../t/trading_strategies.md).
+3. **Advanced Analytics and Machine Learning**: The use of [big data analytics](../b/big_data_analytics_in_trading.md) and machine learning in creating [predictive models](../p/predictive_models_in_trading.md) and [trading strategies](../t/trading_strategies.md).
 
 4. **Regulatory Changes**: Evolving regulations aiming to improve market transparency and reduce systemic risks.
 

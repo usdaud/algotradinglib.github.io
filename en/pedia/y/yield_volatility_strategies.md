@@ -4,7 +4,7 @@
 
 ### Understanding Yield Volatility
 
-[Yield volatility](../y/yield_volatility.md) refers to the degree of variation in the yields of financial instruments such as bonds. It is an essential concept in fixed-income markets, reflecting the uncertainty and risk associated with holding these instruments. The factors that contribute to [yield volatility](../y/yield_volatility.md) include changes in interest rates, [economic indicators](../e/economic_indicators.md), [geopolitical events](../g/geopolitical_events.md), and market sentiment.
+[Yield volatility](../y/yield_volatility.md) refers to the degree of variation in the yields of financial instruments such as bonds. It is an essential concept in fixed-income markets, reflecting the [uncertainty](../u/uncertainty_in_trading.md) and risk associated with holding these instruments. The factors that contribute to [yield volatility](../y/yield_volatility.md) include changes in interest rates, [economic indicators](../e/economic_indicators.md), [geopolitical events](../g/geopolitical_events.md), and market sentiment.
 
 ### Importance in Portfolio Management
 

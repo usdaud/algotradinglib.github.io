@@ -21,14 +21,14 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), the interpre
    - **Trade Frequency:** Number of trades executed over a period can also be plotted to observe trading activity.
 
 #### Advanced Visualization Techniques
-- **Heatmaps:** To visualize correlation matrices or signal strengths across multiple assets simultaneously.
+- **[Heatmaps](../h/heatmaps_in_trading.md):** To visualize correlation matrices or signal strengths across multiple assets simultaneously.
 - **Scatter Plots:** Often used to identify potential relationships between two variables such as volatility versus return.
 - **Histograms:** Distribution of returns, volume, or other metrics to understand the spread and central tendencies.
 
 #### Practical Interpretation Strategies
 1. **Trend Identification:**
    - Identify upward, downward, or sideways trends by examining the slope of the price movement on the plot.
-   - Utilize moving averages overlaid on the x-y plots to smooth out short-term fluctuations.
+   - Utilize moving averages overlaid on the [x-y plots](../x/x-y_plots_in_trading.md) to smooth out short-term fluctuations.
 
 2. **[Anomaly Detection](../a/anomaly_detection.md):**
    - Look for outliers in the scatter plots which could signify abnormal trading activity or errors.
@@ -36,7 +36,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), the interpre
 
 3. **[Correlation Analysis](../c/correlation_analysis.md):**
    - Use scatter plots to find relationships between two assets (e.g., if they are positively or negatively correlated).
-   - Heatmaps can quickly identify clusters of highly correlated instruments.
+   - [Heatmaps](../h/heatmaps_in_trading.md) can quickly identify clusters of highly correlated instruments.
 
 #### Tools and Libraries
 - **Matplotlib & Seaborn (Python):** Widely-used libraries for creating static, animated, and interactive visualizations.
@@ -45,7 +45,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), the interpre
 
 #### Case Studies
 1. **Renaissance Technologies:**
-   - Known for its algorithmic success, utilizes sophisticated methods to analyze extensive x-y plots of various financial datasets ([Renaissance Technologies](https://www.rentec.com/)).
+   - Known for its algorithmic success, utilizes sophisticated methods to analyze extensive [x-y plots](../x/x-y_plots_in_trading.md) of various financial datasets ([Renaissance Technologies](https://www.rentec.com/)).
 
 2. **Two Sigma:**
    - Employs a data-driven approach with deep analysis using x-y axis plots to develop statistical models and [trading strategies](../t/trading_strategies.md) ([Two Sigma](https://www.twosigma.com/)).
@@ -54,4 +54,4 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), the interpre
    - Leverages advanced modeling and x-y axis interpretation to optimize [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) ([Virtu Financial](https://www.virtu.com/)).
 
 #### Conclusion
-Mastering x-y axis interpretation in [algorithmic trading](../a/algorithmic_trading.md) empowers traders to extract actionable insights from raw data. Whether examining simple time series plots or complex correlation heatmaps, proficient use of these tools can dramatically enhance strategy development and execution efficacy.
+Mastering x-y axis interpretation in [algorithmic trading](../a/algorithmic_trading.md) empowers traders to extract actionable insights from raw data. Whether examining simple time series plots or complex correlation [heatmaps](../h/heatmaps_in_trading.md), proficient use of these tools can dramatically enhance strategy development and execution efficacy.

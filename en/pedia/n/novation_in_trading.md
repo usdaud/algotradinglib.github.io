@@ -33,7 +33,7 @@ Novation refers to the process by which all legal rights and obligations of a co
 3. **Increased Market Stability**:
    - The centralization of [risk management](../r/risk_management.md) through a clearinghouse enhances the stability of the financial system. This is particularly important during times of market stress or volatility.
    
-4. **Operational Efficiency**:
+4. **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**:
    - Standardized [clearing and settlement](../c/clearing_and_settlement.md) processes reduce operational complexities and enhance the efficiency of the trading and post-trading processes.
 
 ### Applications in Different Markets
@@ -41,7 +41,7 @@ Novation refers to the process by which all legal rights and obligations of a co
 **1. [Derivatives](../d/derivatives.md) Markets**:
    - Futures and options markets heavily rely on novation to manage risks and ensure market integrity. Major [derivatives](../d/derivatives.md) exchanges like the Chicago Mercantile Exchange (CME) and Intercontinental Exchange (ICE) utilize novation through their clearinghouses.
    
-**2. Over-the-Counter (OTC) Markets**:
+**2. [Over-the-Counter (OTC) Markets](../o/over-the-counter_markets.md)**:
    - In OTC markets, novation is used to centralize clearing for instruments like [interest rate swaps](../i/interest_rate_swaps.md) and [credit default swaps](../c/credit_default_swaps.md) (CDS). The International Swaps and [Derivatives](../d/derivatives.md) Association (ISDA) often oversees these transactions.
    
 **3. Forex Markets**:

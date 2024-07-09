@@ -32,7 +32,7 @@ Technological advancements have played a crucial role in the evolution of propri
 
 ### 1. Algorithmic Trading Systems
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems execute trades based on pre-defined rules and complex mathematical models. These systems are designed to minimize human intervention, allowing for faster and more efficient trade execution.
+[Algorithmic trading](../a/algorithmic_trading.md) systems execute trades based on pre-defined rules and complex [mathematical models](../m/mathematical_models_in_trading.md). These systems are designed to minimize human intervention, allowing for faster and more efficient trade execution.
 
 ### 2. Direct Market Access (DMA)
 
@@ -77,7 +77,7 @@ Several leading firms in the industry have made a name for themselves through so
 [Virtu Financial](https://www.virtu.com/) is a notable high-frequency trading and market-making firm that leverages advanced technological innovations to execute trades efficiently.
 
 ### Two Sigma
-[Two Sigma](https://www.twosigma.com/) focuses on employing data science and technology-driven methods to explore opportunities in the financial markets.
+[Two Sigma](https://www.twosigma.com/) focuses on employing [data science](../d/data_science_in_trading.md) and technology-driven methods to explore opportunities in the financial markets.
 
 ## Conclusion
 

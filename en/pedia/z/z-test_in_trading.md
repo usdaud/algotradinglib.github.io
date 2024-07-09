@@ -6,7 +6,7 @@ In the world of financial markets and [algorithmic trading](../a/algorithmic_tra
 
 ## Understanding Z-Test
 
-The Z-Test is a hypothesis test that is used to determine if there is a significant difference between the means of two populations. It assumes that the data follows a normal distribution and that the sample size is sufficiently large (usually n > 30). The Z-Test is used to test the null hypothesis (H0), which states that there is no difference between the population means, against the alternative hypothesis (H1), which asserts that there is a difference.
+The Z-Test is a hypothesis test that is used to determine if there is a significant difference between the means of two populations. It assumes that the data follows a [normal distribution](../n/normal_distribution_in_trading.md) and that the sample size is sufficiently large (usually n > 30). The Z-Test is used to test the null hypothesis (H0), which states that there is no difference between the population means, against the alternative hypothesis (H1), which asserts that there is a difference.
 
 ### Formula
 
@@ -58,7 +58,7 @@ Traders might also use the Z-Test to analyze market behaviors. For instance, the
 
 ### Step 2: Collect Data
 
-Gather sample data for the period you are analyzing. Ensure the data is of a size large enough to validate the normal distribution assumption.
+Gather sample data for the period you are analyzing. Ensure the data is of a size large enough to validate the [normal distribution](../n/normal_distribution_in_trading.md) assumption.
 
 ### Step 3: Calculate the Z-Statistic
 
@@ -123,7 +123,7 @@ In cases where the data does not meet the assumptions of the Z-Test, other stati
 
 ### Software and Tools
 
-Various software tools support Z-Test calculations, including:
+Various [software tools](../s/software_tools_for_trading.md) support Z-Test calculations, including:
 
 - **Excel**: Microsoft Excel has built-in functions for conducting Z-Tests.
 - **Python**: Libraries like SciPy and Statsmodels offer comprehensive statistical testing functionalities.

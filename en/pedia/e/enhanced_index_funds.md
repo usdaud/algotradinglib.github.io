@@ -27,7 +27,7 @@ One of the critical aspects of enhanced index funds is [risk management](../r/ri
 Fund managers may utilize [quantitative models](../q/quantitative_models.md) that analyze statistical data to inform investment decisions. These models can uncover patterns and trends that human analysts might miss, providing a systematic approach to enhancing returns.
 
 ### 2. Fundamental Analysis
-This involves analyzing a company's financial health, including metrics such as earnings, revenue, and profit margins, to identify undervalued stocks within the index that might offer better returns.
+This involves analyzing a company's financial health, including metrics such as earnings, revenue, and [profit margins](../p/profit_margins_in_trading.md), to identify undervalued stocks within the index that might offer better returns.
 
 ### 3. Technical Analysis
 [Technical analysis](../t/technical_analysis.md) looks at historical market data, primarily price and volume, to forecast future price movements. This can help in timing investments and identifying entry and exit points for specific stocks.

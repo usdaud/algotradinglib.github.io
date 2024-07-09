@@ -110,7 +110,7 @@ Several platforms and tools are available for implementing [Iron Condor](../i/ir
 
 Several financial firms have successfully employed [Iron Condor](../i/iron_condor.md) strategies for [portfolio management](../p/portfolio_management.md) and [alpha generation](../a/alpha_generation.md):
 
-- **Two Sigma**: Employs a variety of quantitative strategies, including options-based strategies like the [Iron Condor](../i/iron_condor.md). More details at [Two Sigma](https://www.twosigma.com/).
+- **Two Sigma**: Employs a variety of [quantitative strategies](../q/quantitative_strategies_in_trading.md), including options-based strategies like the [Iron Condor](../i/iron_condor.md). More details at [Two Sigma](https://www.twosigma.com/).
 - **Citadel**: Utilizes [algorithmic trading](../a/algorithmic_trading.md) strategies that may include complex options trading methodologies. More details at [Citadel](https://www.citadel.com/).
 
 ## Risk Management in Iron Condor Strategies

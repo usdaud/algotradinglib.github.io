@@ -4,7 +4,7 @@ Lambda value, also known as the lambda parameter, is a crucial element in variou
 
 ## Definition of Lambda Value
 
-In the context of [algorithmic trading](../a/algorithmic_trading.md), the lambda value often refers to a parameter used in mathematical models and optimization techniques to balance different components of a strategy. Specifically, lambda is frequently employed in models to control the trade-off between risk and return.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), the lambda value often refers to a parameter used in [mathematical models](../m/mathematical_models_in_trading.md) and optimization techniques to balance different components of a strategy. Specifically, lambda is frequently employed in models to control the trade-off between risk and return.
 
 ## Uses of Lambda Value in Trading
 
@@ -14,7 +14,7 @@ Lambda value plays a significant role in [risk management](../r/risk_management.
 
 ### 2. High-Frequency Trading (HFT)
 
-In high-frequency trading, the lambda parameter is critical in various predictive models and [execution algorithms](../e/execution_algorithms.md). It is used to fine-tune models that forecast price movements or decide on optimal order sizes, ensuring that the [trading strategies](../t/trading_strategies.md) deliver consistent performance.
+In high-frequency trading, the lambda parameter is critical in various [predictive models](../p/predictive_models_in_trading.md) and [execution algorithms](../e/execution_algorithms.md). It is used to fine-tune models that forecast price movements or decide on optimal order sizes, ensuring that the [trading strategies](../t/trading_strategies.md) deliver consistent performance.
 
 ### 3. Execution Algorithms
 

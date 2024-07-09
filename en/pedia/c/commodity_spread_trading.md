@@ -59,7 +59,7 @@ High-Frequency Trading (HFT) firms such as *Virtu Financial* (https://www.virtu.
 
 **Software and Platforms**
 
-Numerous trading platforms and software tools specialize in [spread trading](../s/spread_trading.md):
+Numerous trading platforms and [software tools](../s/software_tools_for_trading.md) specialize in [spread trading](../s/spread_trading.md):
 
 1. **[CQG](../c/cqg.md) Spreader:**
    

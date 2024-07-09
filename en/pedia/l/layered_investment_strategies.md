@@ -9,7 +9,7 @@ Layered investment strategies represent a sophisticated approach to managing and
 A layered investment strategy typically entails the application of different investment tactics concurrently to achieve a well-rounded and resilient portfolio. This can involve:
 
 1. **Top-Down and Bottom-Up Analysis:**
-   - **Top-Down Approach:** Macroeconomic factors, such as interest rates, GDP growth, and global economic trends, are assessed to determine the general market direction before drilling down to specific sectors and individual securities.
+   - **[Top-Down Approach](../t/top-down_approach_in_trading.md):** Macroeconomic factors, such as interest rates, GDP growth, and global economic trends, are assessed to determine the general market direction before drilling down to specific sectors and individual securities.
    - **Bottom-Up Approach:** Focuses on the analysis of individual stocks or assets, evaluating financial statements, earnings reports, and other company-specific data.
 
 2. **[Risk Management](../r/risk_management.md) Layers:**
@@ -27,10 +27,10 @@ Implementing layered investment strategies in [algorithmic trading](../a/algorit
 
 1. **[Alpha Generation](../a/alpha_generation.md):**
    - **[Quantitative Models](../q/quantitative_models.md):** Employing mathematical and statistical techniques to identify trading opportunities.
-   - **Machine Learning:** Using machine learning algorithms to analyze historical data and predict future price movements.
+   - **Machine Learning:** Using machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze historical data and predict future price movements.
 
 2. **Execution:**
-   - **Order Placement:** Optimizing order types (market orders, limit orders) and timing to achieve the best possible execution price.
+   - **Order Placement:** Optimizing [order types](../o/order_types_in_trading.md) (market orders, limit orders) and timing to achieve the best possible execution price.
    - **Liquidity Management:** Ensuring that trades are executed efficiently without significantly impacting the market price.
 
 3. **Performance Measurement:**
@@ -69,9 +69,9 @@ Successful implementation of layered investment strategies in [algorithmic tradi
    - **High-Performance Computing (HPC):** To handle large-scale data processing and complex computations.
    - **Cloud Services:** Flexible and scalable computing resources from providers like AWS, Google Cloud, and Microsoft Azure.
 
-3. **Software Tools:**
+3. **[Software Tools](../s/software_tools_for_trading.md):**
    - **Programming Languages:** Python, R, and C++ for developing and testing algorithms.
-   - **Machine Learning Frameworks:** TensorFlow, PyTorch, and Scikit-learn for building predictive models.
+   - **Machine Learning Frameworks:** TensorFlow, PyTorch, and Scikit-learn for building [predictive models](../p/predictive_models_in_trading.md).
 
 4. **Trading Platforms:**
    - **Execution Management Systems (EMS):** For efficient order execution and trade management.
@@ -100,14 +100,14 @@ Despite the potential benefits, layered investment strategies in [algorithmic tr
 
 The field of [algorithmic trading](../a/algorithmic_trading.md) and layered investment strategies is constantly evolving. Key trends to watch include:
 
-1. **Artificial Intelligence and Machine Learning:**
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning:**
    - Continued advancements in AI and ML will lead to more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md).
 
-2. **Big Data and [Alternative Data](../a/alternative_data.md):**
-   - The integration of big data and [alternative data](../a/alternative_data.md) sources will provide new insights and trading opportunities.
+2. **[Big Data](../b/big_data_in_trading.md) and [Alternative Data](../a/alternative_data.md):**
+   - The integration of [big data](../b/big_data_in_trading.md) and [alternative data](../a/alternative_data.md) sources will provide new insights and trading opportunities.
 
-3. **Blockchain and Distributed Ledger Technology:**
-   - Blockchain technology could revolutionize trading infrastructure, providing enhanced security, transparency, and efficiency.
+3. **[Blockchain](../b/blockchain_in_trading.md) and Distributed Ledger Technology:**
+   - [Blockchain](../b/blockchain_in_trading.md) technology could revolutionize trading infrastructure, providing enhanced security, transparency, and efficiency.
 
 4. **Regulatory Developments:**
    - Ongoing changes in regulatory frameworks will shape the landscape of [algorithmic trading](../a/algorithmic_trading.md) and investment strategies.

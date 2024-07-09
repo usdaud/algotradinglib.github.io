@@ -103,7 +103,7 @@ Northern Trust is a prominent player in the asset servicing industry, providing 
 
 ### Blockchain and DLT
 
-Distributed Ledger Technology (DLT) and blockchain have the potential to transform the securities lending landscape by enhancing transparency, reducing settlement times, and lowering operational risks. These technologies can automate and streamline various aspects of the lending process through smart contracts and secure, immutable records.
+Distributed Ledger Technology (DLT) and [blockchain](../b/blockchain_in_trading.md) have the potential to transform the securities lending landscape by enhancing transparency, reducing settlement times, and lowering operational risks. These technologies can automate and streamline various aspects of the lending process through [smart contracts](../s/smart_contracts_in_trading.md) and secure, immutable records.
 
 ### Automated Trading Systems
 
@@ -118,7 +118,7 @@ RegTech solutions help firms comply with the evolving regulatory landscape in se
 The future of securities lending is poised to be influenced by several trends:
 
 - **Increased Transparency**: Enhanced transparency measures will likely be implemented to ensure fair practices and reduce systemic risk.
-- **Technological Innovations**: Continued advancements in technology, such as AI and blockchain, will further automate and secure securities lending transactions.
+- **Technological Innovations**: Continued advancements in technology, such as AI and [blockchain](../b/blockchain_in_trading.md), will further automate and secure securities lending transactions.
 - **Regulatory Evolution**: Ongoing changes in the regulatory environment will shape the practices and requirements for securities lending.
 - **Sustainable Investing**: The integration of Environmental, Social, and Governance (ESG) criteria into securities lending programs will gain prominence, aligning with broader industry trends towards responsible investing.
 

@@ -36,10 +36,10 @@ Econometric models use economic theories to specify relationships between the un
 
 #### 3. Machine Learning Techniques
 
-With the advent of big data, machine learning models have become popular for forecasting. These include:
-- **Random Forests**: An [ensemble learning](../e/ensemble_learning.md) method that constructs multiple [decision trees](../d/decision_trees.md) during training.
-- **Support Vector Machines (SVM)**: A supervised learning model that analyzes data for classification and [regression analysis](../r/regression_analysis.md).
-- **Neural Networks**: Deep learning models like Long Short-Term Memory (LSTM) networks are used for their ability to capture long-term dependencies in sequential data.
+With the advent of [big data](../b/big_data_in_trading.md), machine learning models have become popular for forecasting. These include:
+- **[Random Forests](../r/random_forests_in_trading.md)**: An [ensemble learning](../e/ensemble_learning.md) method that constructs multiple [decision trees](../d/decision_trees.md) during training.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: A supervised learning model that analyzes data for classification and [regression analysis](../r/regression_analysis.md).
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning models like Long Short-Term Memory (LSTM) networks are used for their ability to capture long-term dependencies in sequential data.
 
 ### Factors Influencing the Unemployment Rate
 
@@ -49,7 +49,7 @@ Several economic variables influence the unemployment rate, and these are often 
 - **Interest Rates**: Higher interest rates can slow economic growth and increase unemployment.
 - **Consumer Confidence**: Higher consumer confidence typically leads to increased spending and employment.
 - **Industrial Production**: A measure of the output of the industrial sector, which is closely tied to employment levels.
-- **Labor Market Policies**: Government policies, such as minimum wage laws and unemployment benefits, can influence the unemployment rate.
+- **Labor Market Policies**: [Government policies](../g/government_policies_in_trading.md), such as minimum wage laws and unemployment benefits, can influence the unemployment rate.
 
 ### Case Studies
 

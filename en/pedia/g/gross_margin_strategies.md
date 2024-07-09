@@ -27,7 +27,7 @@ Lowering the cost of executing trades is a primary method to improve gross margi
 ### Trade Execution Optimization
 Effective trade execution can have a significant impact on the gross margin. Strategies include:
 
-- **Advanced Order Types**: Utilizing limit orders, [stop-loss orders](../s/stop-loss_orders.md), and other advanced order types to control entry and exit points.
+- **Advanced [Order Types](../o/order_types_in_trading.md)**: Utilizing limit orders, [stop-loss orders](../s/stop-loss_orders.md), and other advanced [order types](../o/order_types_in_trading.md) to control entry and exit points.
 - **Smart [Order Routing](../o/order_routing.md)**: Using algorithms that identify the best possible execution venues to minimize slippage and capture optimal prices.
 - **Latency Reduction**: Minimizing latency through high-speed connections and proximity-hosting to ensure faster execution times.
 
@@ -58,10 +58,10 @@ Custom algorithms can be designed to enhance gross margin. These include:
 Renaissance Technologies is renowned for its scientific approach to [algorithmic trading](../a/algorithmic_trading.md). The firm employs sophisticated algorithms to optimize trade execution and reduce costs, thus enhancing its gross margin. More about their strategies can be found [here](https://www.rentec.com/).
 
 ### Citadel Securities
-Citadel Securities focuses on leveraging advanced technology and quantitative strategies to achieve superior trade execution and minimize operational costs. They invest heavily in infrastructure to reduce latency and improve execution quality. More information is available [here](https://www.citadelsecurities.com/).
+Citadel Securities focuses on leveraging advanced technology and [quantitative strategies](../q/quantitative_strategies_in_trading.md) to achieve superior trade execution and minimize operational costs. They invest heavily in infrastructure to reduce latency and improve execution quality. More information is available [here](https://www.citadelsecurities.com/).
 
 ### Two Sigma
-Two Sigma utilizes machine learning and big data analytics to enhance their [trading strategies](../t/trading_strategies.md). Their approach involves continuous refinement of algorithms to optimize performance and control costs, thereby improving gross margins. Learn more about their methods [here](https://www.twosigma.com/).
+Two Sigma utilizes machine learning and [big data analytics](../b/big_data_analytics_in_trading.md) to enhance their [trading strategies](../t/trading_strategies.md). Their approach involves continuous refinement of algorithms to optimize performance and control costs, thereby improving gross margins. Learn more about their methods [here](https://www.twosigma.com/).
 
 ## Conclusion
 Gross margin strategies in [algorithmic trading](../a/algorithmic_trading.md) are essential for maximizing profitability. By focusing on cost management, optimizing trade execution, managing risks, and leveraging advanced algorithms, traders can significantly enhance their gross margins. Continuous performance monitoring and algorithm refinement are critical to sustaining these improvements in a dynamic market environment.

@@ -11,7 +11,7 @@ A simple moving average (SMA) is the average price of a security over a specific
 The exponential moving average (EMA) gives more weight to recent prices, making it more responsive to new information than the SMA. The formula adds an alpha weighting factor to increase the importance of recent data.
 
 **Application:**
-Moving averages can signal upside potential when a shorter-term moving average crosses above a longer-term moving average—a phenomenon known as a "[golden cross](../g/golden_cross.md)."
+Moving averages can signal [upside potential](../u/upside_potential_in_trading.md) when a shorter-term moving average crosses above a longer-term moving average—a phenomenon known as a "[golden cross](../g/golden_cross.md)."
 
 #### Relative Strength Index (RSI)
 
@@ -54,7 +54,7 @@ Fibonacci retracement levels are horizontal lines that indicate potential [suppo
 Identify major swing highs and swing lows, then use the Fibonacci ratios (23.6%, 38.2%, 50%, 61.8%, and 100%) to predict possible retracement points.
 
 **Application:**
-A bounce off key Fibonacci levels can indicate upside potential as it might reflect a correction within an ongoing bullish trend.
+A bounce off key Fibonacci levels can indicate [upside potential](../u/upside_potential_in_trading.md) as it might reflect a correction within an ongoing bullish trend.
 
 #### Volume
 
@@ -85,7 +85,7 @@ Using platforms such as MetaTrader or custom-built Python scripts to simulate [t
 Combining multiple indicators into a single trading algorithm to authenticate bullish signals, reducing false positives.
 
 **Execution:**
-Automated trading platforms like Interactive Brokers (https://www.interactivebrokers.com) enable seamless execution of trades based on coded strategies.
+Automated trading platforms like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com) enable seamless execution of trades based on coded strategies.
 
 **[Risk Management](../r/risk_management.md):**
 Implementing [stop-loss orders](../s/stop-loss_orders.md) and [risk management](../r/risk_management.md) rules within the algorithm to minimize potential losses.

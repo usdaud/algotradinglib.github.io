@@ -29,7 +29,7 @@ Even after the initial shock subsided, the 9/11 attack led to lasting changes:
 
 The attack also induced a psychological paradigm shift among traders and investors:
 
-1. **Increased Risk Aversion**: The sense of uncertainty and vulnerability led to more conservative investment approaches, with an increased focus on [risk management](../r/risk_management.md).
+1. **Increased Risk Aversion**: The sense of [uncertainty](../u/uncertainty_in_trading.md) and vulnerability led to more conservative investment approaches, with an increased focus on [risk management](../r/risk_management.md).
   
 2. **Greater Reliance on Data and Automation**: The desire to mitigate human-error risk and emotional biases led many firms to adopt more data-driven, automated [trading strategies](../t/trading_strategies.md). This reliance on [quantitative models](../q/quantitative_models.md) and algorithms aimed to optimize trading outcomes and reduce human interference.
 
@@ -43,7 +43,7 @@ A number of firms have emerged or expanded their footprint in the realm of [algo
 
 - **Citadel**: As a leading hedge fund and market-maker, Citadel has leveraged sophisticated algorithmic strategies to optimize trade executions. [Citadel Securities](https://www.citadelsecurities.com/)
 
-- **Two Sigma**: Specializes in applying artificial intelligence and machine learning to develop predictive algorithms for trading. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: Specializes in applying [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to develop predictive algorithms for trading. [Two Sigma](https://www.twosigma.com/)
 
 - **Renaissance Technologies**: Known for its Medallion Fund, Renaissance Technologies is a pioneer in [quantitative trading](../q/quantitative_trading.md) strategies, employing complex algorithms to trade across various markets. [Renaissance Technologies](https://www.rentec.com/Home.action)
 

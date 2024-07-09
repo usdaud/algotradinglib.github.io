@@ -157,7 +157,7 @@ Incorporating [risk management](../r/risk_management.md) measures is crucial to 
 
 1. [QuantConnect](https://www.quantconnect.com/): An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading.
 2. [Alpaca](https://alpaca.markets/): A commission-free trading platform that offers robust API support for algorithmic traders.
-3. [Two Sigma](https://www.twosigma.com/): A technology-driven investment firm that integrates machine learning and artificial intelligence in their [trading strategies](../t/trading_strategies.md).
+3. [Two Sigma](https://www.twosigma.com/): A technology-driven investment firm that integrates machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) in their [trading strategies](../t/trading_strategies.md).
 4. [Jane Street](https://www.janestreet.com/): A global trading firm known for their [quantitative trading](../q/quantitative_trading.md) expertise.
 
 Algorithimic trading for maximum return is the confluence of advanced computational techniques, statistical methods, and rigorous [risk management](../r/risk_management.md), all aimed at achieving optimal financial performance in trading activities.

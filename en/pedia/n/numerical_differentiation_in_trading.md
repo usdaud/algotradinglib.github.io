@@ -99,7 +99,7 @@ While numerical differentiation offers valuable insights, it comes with several 
 
 Several financial institutions and trading firms employ numerical differentiation as part of their [algorithmic trading](../a/algorithmic_trading.md) platforms. For instance:
 
-- [Jane Street](https://www.janestreet.com/): A [quantitative trading](../q/quantitative_trading.md) firm that leverages sophisticated mathematical models and algorithms for trading across various asset classes. Numerical differentiation is likely a component of their analytical and trading processes.
+- [Jane Street](https://www.janestreet.com/): A [quantitative trading](../q/quantitative_trading.md) firm that leverages sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms for trading across various asset classes. Numerical differentiation is likely a component of their analytical and trading processes.
 - [DRW Trading Group](https://www.drw.com/): Another [proprietary trading](../p/proprietary_trading.md) firm known for its reliance on [quantitative analysis](../q/quantitative_analysis.md) and high-frequency [trading strategies](../t/trading_strategies.md), where numerical differentiation can provide an edge in interpreting market data.
 
 ### Conclusion

@@ -6,11 +6,11 @@ Binance is one of the largest and most popular cryptocurrency exchanges in the w
 ## Key Features
 1. **Wide Range of Cryptocurrencies**: Binance supports trading for hundreds of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Binance Coin (BNB), and many altcoins. 
 
-2. **Advanced Trading Platforms**: Binance offers multiple trading platforms, including a web-based platform, desktop applications, and mobile apps. The platforms feature advanced charting tools, [real-time market data](../r/real-time_market_data.md), and various order types.
+2. **Advanced Trading Platforms**: Binance offers multiple trading platforms, including a web-based platform, desktop applications, and mobile apps. The platforms feature advanced charting tools, [real-time market data](../r/real-time_market_data.md), and various [order types](../o/order_types_in_trading.md).
 
-3. **Binance Smart Chain (BSC)**: Binance has developed its own blockchain, Binance Smart Chain, which enables smart contracts and decentralized applications (DApps). BSC is known for its low transaction fees and fast processing times.
+3. **Binance Smart Chain (BSC)**: Binance has developed its own [blockchain](../b/blockchain_in_trading.md), Binance Smart Chain, which enables [smart contracts](../s/smart_contracts_in_trading.md) and decentralized applications (DApps). BSC is known for its low transaction fees and fast processing times.
 
-4. **Binance Academy**: An educational portal offering a wide range of resources, including articles, tutorials, and videos to help users learn about blockchain, cryptocurrencies, and trading.
+4. **Binance Academy**: An educational portal offering a wide range of resources, including articles, tutorials, and videos to help users learn about [blockchain](../b/blockchain_in_trading.md), cryptocurrencies, and trading.
 
 5. **Security**: Binance employs advanced security measures, including two-factor authentication (2FA), withdrawal whitelist, and cold storage for funds. They also have a Secure Asset Fund for Users (SAFU) to protect a portion of user funds.
 

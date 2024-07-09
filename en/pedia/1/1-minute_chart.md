@@ -28,7 +28,7 @@ Various [technical indicators](../t/technical_indicators.md) and oscillators can
 
 ### High Precision
 
-1-minute charts offer extreme precision, enabling algorithms to detect and act on micro-trends that are invisible on longer time-frame charts. This allows for precise entry and exit points which can substantially improve profit margins in high-frequency trading (HFT).
+1-minute charts offer extreme precision, enabling algorithms to detect and act on micro-trends that are invisible on longer time-frame charts. This allows for precise entry and exit points which can substantially improve [profit margins](../p/profit_margins_in_trading.md) in high-frequency trading (HFT).
 
 ### Real-Time Analysis
 
@@ -46,7 +46,7 @@ Short-term trades using 1-minute charts reduce the risk associated with holding 
 
 ### High Volatility
 
-1-minute intervals can be extremely volatile, and the noise generated in such short time frames may lead to false signals. To counter this, sophisticated filtering and signal confirmation mechanisms are often necessary in algotrading algorithms.
+1-minute intervals can be extremely volatile, and the noise generated in such short time frames may lead to [false signals](../f/false_signals_in_trading.md). To counter this, sophisticated filtering and signal confirmation mechanisms are often necessary in algotrading algorithms.
 
 ### Technological Requirements
 

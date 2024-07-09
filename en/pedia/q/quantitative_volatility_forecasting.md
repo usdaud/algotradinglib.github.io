@@ -1,6 +1,6 @@
 # Quantitative Volatility Forecasting
 
-Quantitative [volatility forecasting](../v/volatility_forecasting.md) is a fundamental aspect of [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) in the financial markets. At its core, it involves the use of mathematical models and computational tools to predict the future volatility of asset prices. This forecasting plays an essential role for traders, portfolio managers, and financial analysts who need to manage risk, optimize portfolios, and make informed trading decisions.
+Quantitative [volatility forecasting](../v/volatility_forecasting.md) is a fundamental aspect of [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) in the financial markets. At its core, it involves the use of [mathematical models](../m/mathematical_models_in_trading.md) and computational tools to predict the future volatility of asset prices. This forecasting plays an essential role for traders, portfolio managers, and financial analysts who need to manage risk, optimize portfolios, and make informed trading decisions.
 
 ## The Importance of Volatility Forecasting
 
@@ -9,7 +9,7 @@ Volatility represents the degree of variation in the price of a financial instru
 1. **[Risk Management](../r/risk_management.md)**: Investors and traders utilize volatility forecasts to gauge the potential risk and adjust their exposure accordingly.
 2. **Option Pricing**: The pricing models for [derivatives](../d/derivatives.md), such as the [Black-Scholes model](../b/black-scholes_model.md), factor in volatility to value options accurately.
 3. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Understanding the volatility of different assets allows portfolio managers to craft portfolios that balance returns and risks.
-4. **Regulatory Compliance**: Financial institutions must adhere to regulatory requirements that involve stress testing and scenario analysis which drive the need for accurate volatility forecasts.
+4. **Regulatory Compliance**: Financial institutions must adhere to regulatory requirements that involve [stress testing](../s/stress_testing_in_trading.md) and scenario analysis which drive the need for accurate volatility forecasts.
 
 ## Approaches to Volatility Forecasting
 
@@ -103,12 +103,12 @@ RNNs, and specifically Long Short-Term Memory (LSTM) networks, are suitable for 
 #### Example Architecture
 
 1. Input Layer: Takes historical price returns as input.
-2. LSTM Layers: Capture temporal dependencies.
+2. LSTM Layers: Capture [temporal dependencies](../t/temporal_dependencies_in_trading.md).
 3. Dense Output Layer: Predicts the future volatility score.
 
 ### Random Forests
 
-Random Forests use an ensemble of [decision trees](../d/decision_trees.md) to improve the robustness and accuracy of volatility forecasts by averaging multiple trees to reduce overfitting.
+[Random Forests](../r/random_forests_in_trading.md) use an ensemble of [decision trees](../d/decision_trees.md) to improve the robustness and accuracy of volatility forecasts by averaging multiple trees to reduce overfitting.
 
 ## Practical Applications
 

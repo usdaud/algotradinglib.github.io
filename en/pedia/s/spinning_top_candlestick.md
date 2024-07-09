@@ -88,7 +88,7 @@ In a historical analysis of a major stock index, the S&P 500, the presence of [S
 
 #### Case Study 2: Cryptocurrency Market
 
-The volatile nature of cryptocurrencies often leads to frequent formation of [Spinning Top patterns](../s/spinning_top_patterns.md). In the case of Bitcoin, analysis of daily price movements in 2021 revealed numerous Spinning Top candlesticks during periods of high market uncertainty, guiding traders in making informed decisions.
+The volatile nature of cryptocurrencies often leads to frequent formation of [Spinning Top patterns](../s/spinning_top_patterns.md). In the case of Bitcoin, analysis of daily price movements in 2021 revealed numerous Spinning Top candlesticks during periods of high market [uncertainty](../u/uncertainty_in_trading.md), guiding traders in making informed decisions.
 
 ### Institutional Usage
 
@@ -104,7 +104,7 @@ Machine learning techniques can be integrated with traditional [technical analys
 
 1. **Data Preprocessing**: Clean and normalize historical price data.
 2. **Feature Engineering**: Extract features such as [candlestick patterns](../c/candlestick_patterns.md), volume, and other [technical indicators](../t/technical_indicators.md).
-3. **Model Training**: Use machine learning algorithms like [decision trees](../d/decision_trees.md), neural networks, or support vector machines to train on labeled data.
+3. **Model Training**: Use machine [learning algorithms](../l/learning_algorithms_in_trading.md) like [decision trees](../d/decision_trees.md), [neural networks](../n/neural_networks_in_trading.md), or [support vector machines](../s/support_vector_machines_in_trading.md) to train on labeled data.
 4. **Prediction**: Implement the trained model in a live [trading environment](../t/trading_environment.md) to predict potential market movements based on new data.
 
 ### High-Frequency Trading (HFT)

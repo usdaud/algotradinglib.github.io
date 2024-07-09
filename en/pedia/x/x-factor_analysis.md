@@ -9,23 +9,23 @@ The foundation of X-[Factor Analysis](../f/factor_analysis.md) is the collection
 
 - **Geopolitical Data:** Information on international relations, political stability, and policy changes.
 - **[Social Media Sentiment](../s/social_media_sentiment.md):** Real-time [sentiment analysis](../s/sentiment_analysis.md) from platforms like Twitter, Reddit, and specialized financial forums.
-- **Technological Trends:** Innovations in technology that can disrupt industries, such as blockchain, AI, and IoT.
-- **Macroeconomic Indicators:** Detailed analysis of [economic indicators](../e/economic_indicators.md) like GDP growth rates, unemployment rates, and inflation data.
+- **Technological Trends:** Innovations in technology that can disrupt industries, such as [blockchain](../b/blockchain_in_trading.md), AI, and IoT.
+- **Macroeconomic Indicators:** Detailed analysis of [economic indicators](../e/economic_indicators.md) like GDP [growth rates](../g/growth_rates_in_trading.md), unemployment rates, and inflation data.
 - **[Alternative Data](../a/alternative_data.md):** Sources like satellite images, weather patterns, and credit card transactions.
 
 #### 2. Data Processing and Normalization
 Given the diversity and often unstructured nature of these data types, sophisticated techniques are needed for their processing and normalization. This involves:
 
-- **Natural Language Processing (NLP):** To analyze textual data from social media, news articles, and financial reports.
-- **Machine Learning Algorithms:** To identify patterns and relationships in large datasets.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP):** To analyze textual data from social media, news articles, and financial reports.
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md):** To identify patterns and relationships in large datasets.
 - **[Data Normalization](../d/data_normalization.md) Techniques:** To standardize different data types and scales for [comparative analysis](../c/comparative_analysis.md).
 
 #### 3. Factor Selection and Weighting
 Not all factors will have the same impact on asset performance. Therefore, the next step involves selecting the most relevant factors and assigning appropriate weights based on their perceived impact. This process includes:
 
-- **[Backtesting](../b/backtesting.md) and Simulation:** Using historical data to assess the performance impact of each factor.
+- **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md):** Using historical data to assess the performance impact of each factor.
 - **Expert Input:** Incorporating insights from industry experts, economists, and market analysts.
-- **Machine Learning Models:** Employing algorithms like [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and neural networks to optimize factor selection and weighting.
+- **Machine Learning Models:** Employing algorithms like [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) to optimize factor selection and weighting.
 
 #### 4. Strategy Development
 Once the relevant factors are chosen and weighted, they are integrated into [trading algorithms](../t/trading_algorithms.md). These algorithms can be designed to:

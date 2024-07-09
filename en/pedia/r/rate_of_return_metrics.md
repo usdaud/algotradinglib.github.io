@@ -28,7 +28,7 @@ where:
 - \( n \) is the number of years.
 
 ### Importance in Algorithmic Trading
-CAGR is especially important in [algorithmic trading](../a/algorithmic_trading.md) for long-term strategy assessment. Algorithms designed to operate over longer periods can be evaluated for their annual growth rates, allowing traders to assess sustainability and performance accurately. 
+CAGR is especially important in [algorithmic trading](../a/algorithmic_trading.md) for long-term strategy assessment. Algorithms designed to operate over longer periods can be evaluated for their annual [growth rates](../g/growth_rates_in_trading.md), allowing traders to assess sustainability and performance accurately. 
 
 ## Sharpe Ratio
 The [Sharpe Ratio](../s/sharpe_ratio.md) is a widely-used metric to understand the risk-adjusted performance of an investment or trading strategy. Named after Nobel laureate William F. Sharpe, this ratio measures the extra return earned for the extra volatility endured by holding a riskier asset.

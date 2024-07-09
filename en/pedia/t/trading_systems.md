@@ -16,7 +16,7 @@
 
 3. **Order Execution Engine**
     - **Function:** Executes trades based on the strategy's output.
-    - **Example Providers:** Interactive Brokers ([interactivebrokers.com](https://www.interactivebrokers.com)), [TradeStation](../t/tradestation.md) ([tradestation.com](https://www.tradestation.com)).
+    - **Example Providers:** [Interactive Brokers](../i/interactive_brokers.md) ([interactivebrokers.com](https://www.interactivebrokers.com)), [TradeStation](../t/tradestation.md) ([tradestation.com](https://www.tradestation.com)).
     - **Details:** This component splits orders to minimize market impact and reduce latency. Algorithms like TWAP (Time-Weighted Average Price) and VWAP (Volume-Weighted Average Price) are commonly used in these engines.
 
 4. **[Risk Management](../r/risk_management.md) System**

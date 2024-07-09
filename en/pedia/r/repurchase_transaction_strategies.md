@@ -83,13 +83,13 @@ The GMRA is a standard framework developed by the International Capital Market A
 ## Technological Innovations in Repo Transactions
 
 ### 1. Blockchain Technology
-Blockchain technology is being explored for its potential to enhance the efficiency and security of repo transactions. By creating immutable records, blockchain can simplify the settlement process, reduce [counterparty risk](../c/counterparty_risk.md), and improve transparency.
+[Blockchain](../b/blockchain_in_trading.md) technology is being explored for its potential to enhance the efficiency and security of repo transactions. By creating immutable records, [blockchain](../b/blockchain_in_trading.md) can simplify the settlement process, reduce [counterparty risk](../c/counterparty_risk.md), and improve transparency.
 
 ### 2. Automated Trading Systems
 The use of [automated trading systems](../a/automated_trading_systems.md), also known as [algorithmic trading](../a/algorithmic_trading.md), is gaining traction in the repo market. These systems can execute repo trades at high speeds and with high precision, optimizing the placement and management of collateral.
 
 ### 3. Artificial Intelligence
-Artificial intelligence (AI) and machine learning algorithms are being leveraged to analyze vast amounts of data related to repo transactions. These technologies can identify patterns, predict market movements, and optimize [trading strategies](../t/trading_strategies.md).
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine [learning algorithms](../l/learning_algorithms_in_trading.md) are being leveraged to analyze vast amounts of data related to repo transactions. These technologies can identify patterns, predict market movements, and optimize [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

@@ -8,15 +8,15 @@ The [yield curve](../y/yield_curve.md) is typically plotted with the interest ra
 
 - **Normal [Yield Curve](../y/yield_curve.md)**: This is an upward-sloping curve, indicating that longer-term securities have higher yields compared to short-term securities. It suggests that investors expect stable or growing economic conditions.
 - **Inverted [Yield Curve](../y/yield_curve.md)**: This downward-sloping curve indicates that short-term yields are higher than long-term yields. It is often interpreted as a sign of an impending economic recession.
-- **Flat or Humped [Yield Curve](../y/yield_curve.md)**: When short-term and long-term yields are similar, the [yield curve](../y/yield_curve.md) is flat. A humped [yield curve](../y/yield_curve.md) occurs when mid-term yields are higher than both short-term and long-term yields, often indicating uncertainty in the market.
+- **Flat or Humped [Yield Curve](../y/yield_curve.md)**: When short-term and long-term yields are similar, the [yield curve](../y/yield_curve.md) is flat. A humped [yield curve](../y/yield_curve.md) occurs when mid-term yields are higher than both short-term and long-term yields, often indicating [uncertainty](../u/uncertainty_in_trading.md) in the market.
 
 #### Key Yield Curve Techniques
 
-1. **Curve Fitting and Smoothing**: Accurate [yield curve](../y/yield_curve.md) analysis depends on how well the curve fits and smooths out the data points. Common methods include polynomial fitting, spline interpolation, and the Nelson-Siegel model. These techniques help create a smooth curve that minimizes the impact of noise and anomalies.
+1. **[Curve Fitting](../c/curve_fitting_in_trading.md) and Smoothing**: Accurate [yield curve](../y/yield_curve.md) analysis depends on how well the curve fits and smooths out the data points. Common methods include polynomial fitting, spline interpolation, and the Nelson-Siegel model. These techniques help create a smooth curve that minimizes the impact of noise and anomalies.
 
 2. **[Spread Analysis](../s/spread_analysis.md)**: [Spread analysis](../s/spread_analysis.md) involves examining the differences in yields between different maturities. Common spreads include the [yield spread](../y/yield_spread.md) between two-year and ten-year bonds. Monitoring these spreads can provide clues about future economic conditions and market sentiment.
 
-3. **Principal Component Analysis (PCA)**: PCA is a statistical technique used to simplify complex datasets. In [yield curve](../y/yield_curve.md) analysis, PCA can help identify the main factors that drive movements in the curve. Typically, the first three principal components represent the level, slope, and curvature of the [yield curve](../y/yield_curve.md).
+3. **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: PCA is a statistical technique used to simplify complex datasets. In [yield curve](../y/yield_curve.md) analysis, PCA can help identify the main factors that drive movements in the curve. Typically, the first three [principal components](../p/principal_components_in_trading.md) represent the level, slope, and curvature of the [yield curve](../y/yield_curve.md).
 
 4. **Bootstrapping**: Bootstrapping is a method to derive zero-coupon yield curves from the prices of a set of coupon-bearing bonds. This is crucial for calculating the [term structure of interest rates](../t/term_structure_of_interest_rates.md) and for pricing various fixed-income securities.
 

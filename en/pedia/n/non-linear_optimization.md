@@ -10,11 +10,11 @@ Non-linear optimization refers to the process of maximizing or minimizing a non-
 
 ### Importance in Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), non-linear optimization is employed to enhance [trading strategies](../t/trading_strategies.md), manage risks, and optimize portfolios. Financial markets exhibit non-linear behaviors, such as varying volatility and complex price movements, which necessitate the use of non-linear models to achieve superior performance. Here are some key applications:
+In [algorithmic trading](../a/algorithmic_trading.md), non-linear optimization is employed to enhance [trading strategies](../t/trading_strategies.md), manage risks, and optimize portfolios. Financial markets exhibit non-linear behaviors, such as varying volatility and complex price movements, which necessitate the use of non-[linear models](../l/linear_models_in_trading.md) to achieve superior performance. Here are some key applications:
 
 - **[Portfolio Optimization](../p/portfolio_optimization.md)**: Adjusting portfolio weights to maximize returns while minimizing risk.
 - **[Risk Management](../r/risk_management.md)**: Fine-tuning strategies to avoid excessive drawdowns and ensure stability.
-- **Signal Processing**: Identifying non-linear patterns in market data to generate [trading signals](../t/trading_signals.md).
+- **[Signal Processing](../s/signal_processing_in_trading.md)**: Identifying non-linear patterns in market data to generate [trading signals](../t/trading_signals.md).
 
 ## Mathematical Formulation
 
@@ -55,7 +55,7 @@ Newton's method is a second-order optimization technique that uses both the grad
 
 ### Genetic Algorithms
 
-Genetic algorithms are search heuristics that mimic the process of natural selection. They use techniques such as mutation, crossover, and selection to generate high-quality solutions for non-linear optimization problems.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) are search heuristics that mimic the process of natural selection. They use techniques such as mutation, crossover, and selection to generate high-quality solutions for non-linear optimization problems.
 
 ### Simulated Annealing
 
@@ -69,11 +69,11 @@ PSO is an optimization algorithm inspired by the social behavior of birds flocki
 
 ### High Dimensionality
 
-Non-linear optimization problems often involve a high number of variables, making the solution space extremely large. Techniques like dimensionality reduction can help mitigate this issue.
+Non-linear optimization problems often involve a high number of variables, making the solution space extremely large. Techniques like [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) can help mitigate this issue.
 
 ### Local Minima
 
-Non-linear problems often have multiple local minima, making it challenging to find the global minimum. Algorithms like [simulated annealing](../s/simulated_annealing.md) or genetic algorithms are designed to overcome this by exploring a wider solution space.
+Non-linear problems often have multiple local minima, making it challenging to find the global minimum. Algorithms like [simulated annealing](../s/simulated_annealing.md) or [genetic algorithms](../g/genetic_algorithms_in_trading.md) are designed to overcome this by exploring a wider solution space.
 
 ### Computational Intensity
 
@@ -85,7 +85,7 @@ Several tools and libraries are available to perform non-linear optimization in 
 
 - **NLopt**: A free/open-source library for non-linear optimization.
 - **Scipy**: A Python library that provides functionalities for non-linear optimization.
-- **CVXPY**: A Python-embedded modeling language for [convex optimization](../c/convex_optimization.md) problems which also supports non-linear programming.
+- **CVXPY**: A Python-embedded modeling language for [convex optimization](../c/convex_optimization.md) problems which also supports non-[linear programming](../l/linear_programming_in_trading.md).
 
 ## Case Study: Portfolio Optimization
 

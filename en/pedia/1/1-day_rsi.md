@@ -55,7 +55,7 @@ Trading based on divergences between the price and RSI levels can also be a pote
 
 ### Market Volatility
 
-Due to its short-term nature, the 1-Day RSI can be highly sensitive to market noise and volatility. This sensitivity can result in false signals which may lead to unprofitable trades.
+Due to its short-term nature, the 1-Day RSI can be highly sensitive to market noise and volatility. This sensitivity can result in [false signals](../f/false_signals_in_trading.md) which may lead to unprofitable trades.
 
 ### Not a Standalone Indicator
 

@@ -12,7 +12,7 @@ $$
 \text{P/E Ratio} = \frac{\text{Market Value per Share}}{\text{Earnings per Share (EPS)}}
 $$
 
-A high P/E ratio may indicate that a stock is overpriced or that investors are expecting high growth rates in the future. Conversely, a low P/E ratio could signify an undervalued stock or a company experiencing difficulties.
+A high P/E ratio may indicate that a stock is overpriced or that investors are expecting high [growth rates](../g/growth_rates_in_trading.md) in the future. Conversely, a low P/E ratio could signify an undervalued stock or a company experiencing difficulties.
 
 ### Example Companies:
 - **Apple Inc.** ([Apple](https://www.apple.com))

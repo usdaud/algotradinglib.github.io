@@ -12,7 +12,7 @@ There are various ways to gauge market sentiment, and the advancement of technol
 
 ### 1. **News Articles and Media**
    - **Description**: News articles from financial websites, blogs, and other media outlets are parsed and analyzed for positive or negative sentiment.
-   - **Tools**: Natural Language Processing (NLP) algorithms can be employed to scan these texts for sentiment cues.
+   - **Tools**: [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) algorithms can be employed to scan these texts for sentiment cues.
    - **Example**: Sentdex (https://sentdex.com) offers [sentiment analysis](../s/sentiment_analysis.md) specifically geared towards financial markets.
 
 ### 2. **Social Media**
@@ -44,7 +44,7 @@ There are various ways to gauge market sentiment, and the advancement of technol
 
 ### 2. **Machine Learning**
    - **Description**: Machine learning models can be trained on historical sentiment data to predict future market movements.
-   - **Tools**: Algorithms like Support Vector Machines (SVM), Random Forests, and Neural Networks can be employed.
+   - **Tools**: Algorithms like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) can be employed.
    - **Example**: Scikit-learn (https://scikit-learn.org) for building ML models.
 
 ### 3. **Sentiment Indices**
@@ -104,7 +104,7 @@ There are various ways to gauge market sentiment, and the advancement of technol
 
 ### 2. **Real-time Processing**
    - **Description**: Capturing and analyzing sentiment data in real-time can be computationally intensive.
-   - **Solution**: Using efficient data processing pipelines and cloud computing.
+   - **Solution**: Using efficient data processing pipelines and [cloud computing](../c/cloud_computing_in_trading.md).
 
 ### 3. **Overfitting**
    - **Description**: Machine learning models can overfit to historical sentiment data, reducing future predictive accuracy.

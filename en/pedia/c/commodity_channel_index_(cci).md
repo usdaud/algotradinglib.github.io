@@ -81,7 +81,7 @@ As originally intended, CCI still plays a significant role in [commodities tradi
 
 Despite its versatility, CCI is not without criticisms. Some of the commonly cited limitations include:
 
-- **False Signals:** Like any technical indicator, CCI can produce false signals, especially in highly volatile or non-trending markets.
+- **[False Signals](../f/false_signals_in_trading.md):** Like any technical indicator, CCI can produce [false signals](../f/false_signals_in_trading.md), especially in highly volatile or non-trending markets.
 - **Lagging Nature:** Being an oscillator, CCI is inherently a lagging indicator, which means it looks at past price data to generate signals. This can sometimes result in delayed reaction times.
 - **Over-reliance:** Traders who rely solely on CCI without considering other market factors or indicators may miss out on important contextual information.
 

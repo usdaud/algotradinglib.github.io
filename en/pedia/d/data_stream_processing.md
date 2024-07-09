@@ -34,7 +34,7 @@ At its core, data stream processing focuses on several key principles:
 
 * **Healthcare**: Continuous monitoring of patient vitals through IoT devices enables immediate responses to life-threatening situations and proactive healthcare management.
 
-* **Real-Time Analytics**: Businesses use data stream processing for timely insights into customer behavior, stock levels, and operational efficiency.
+* **Real-Time Analytics**: Businesses use data stream processing for timely insights into customer behavior, stock levels, and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ### Leading Technologies for Data Stream Processing
 

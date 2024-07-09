@@ -70,7 +70,7 @@ Advanced models might include factors such as liquidity, profitability, investme
 The identification of factors typically involves:
 
 1. **Economic Theory**: Factors that have a theoretical basis for influencing asset prices.
-2. **Empirical Analysis**: Statistical methods to identify factors that have historically explained returns.
+2. **[Empirical Analysis](../e/empirical_analysis_in_trading.md)**: Statistical methods to identify factors that have historically explained returns.
 3. **Practical Considerations**: Industry knowledge and practical considerations to ensure the model is applicable and useful in real-world scenarios.
 
 ### Factor Model Construction
@@ -94,7 +94,7 @@ Constructing a factor model involves several steps:
 [Factor models](../f/factor_models.md) provide insights into the sources of risk, enabling investors to:
 
 - **Hedge**: Identifying and hedging against undesirable risk exposures.
-- **Stress Testing**: Simulating various market conditions to assess the impact on the portfolio.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating various market conditions to assess the impact on the portfolio.
 - **Risk Monitoring**: Continuously monitoring portfolio exposures to different factors and adjusting as needed.
 
 ### Performance Attribution
@@ -128,7 +128,7 @@ Investment firms and financial institutions use [factor models](../f/factor_mode
 
 ### Software Tools
 
-Several software tools and platforms are available to support quantitative factor modeling:
+Several [software tools](../s/software_tools_for_trading.md) and platforms are available to support quantitative factor modeling:
 
 1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides access to a wide range of data and analytical tools for factor modeling.
    [Bloomberg](https://www.bloomberg.com)

@@ -1,19 +1,19 @@
 # Quantitative Hedge Funds
 
-Quantitative hedge funds (quant funds) represent a specialized category within the hedge fund industry that utilizes complex mathematical models, statistical techniques, and algorithmic strategies to identify trading opportunities. These funds heavily rely on technology, data, and finance to make informed trading decisions, often executing trades at high speeds and frequencies that are impossible for human traders to match.
+Quantitative hedge funds (quant funds) represent a specialized category within the hedge fund industry that utilizes complex [mathematical models](../m/mathematical_models_in_trading.md), statistical techniques, and algorithmic strategies to identify trading opportunities. These funds heavily rely on technology, data, and finance to make informed trading decisions, often executing trades at high speeds and frequencies that are impossible for human traders to match.
 
 ## Overview
 
-Quantitative hedge funds differ from traditional hedge funds in their approach to investing. While traditional hedge funds might rely on [fundamental analysis](../f/fundamental_analysis.md), qualitative judgments, or [discretionary trading](../d/discretionary_trading.md) decisions, quant funds depend on [quantitative analysis](../q/quantitative_analysis.md) and algorithms. They use vast amounts of data to construct mathematical models that predict price movements and identify [arbitrage](../a/arbitrage.md) opportunities.
+Quantitative hedge funds differ from traditional hedge funds in their approach to investing. While traditional hedge funds might rely on [fundamental analysis](../f/fundamental_analysis.md), qualitative judgments, or [discretionary trading](../d/discretionary_trading.md) decisions, quant funds depend on [quantitative analysis](../q/quantitative_analysis.md) and algorithms. They use vast amounts of data to construct [mathematical models](../m/mathematical_models_in_trading.md) that predict price movements and identify [arbitrage](../a/arbitrage.md) opportunities.
 
 ## Components
 
 ### Mathematical Models
 
-Quant funds use diverse mathematical models to forecast market movements and optimize [trading strategies](../t/trading_strategies.md). These models may be based on various theories, including 
+Quant funds use diverse [mathematical models](../m/mathematical_models_in_trading.md) to forecast market movements and optimize [trading strategies](../t/trading_strategies.md). These models may be based on various theories, including 
 
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Identifies price discrepancies between related securities.
-- **Machine Learning**: Employs neural networks and other AI techniques to analyze patterns in financial data.
+- **Machine Learning**: Employs [neural networks](../n/neural_networks_in_trading.md) and other AI techniques to analyze patterns in financial data.
 - **High-Frequency Trading (HFT)**: Utilizes algorithms to execute large numbers of trades at extremely high speeds.
 
 ### Data
@@ -30,13 +30,13 @@ Advanced computing technology and infrastructure are essential in quant trading:
 
 - **Supercomputers**: To run complex simulations and backtests.
 - **Low-Latency Networks**: For executing high-frequency trades.
-- **Cloud Computing**: To store and process massive datasets.
+- **[Cloud Computing](../c/cloud_computing_in_trading.md)**: To store and process massive datasets.
 
 ## Major Quantitative Hedge Funds
 
 ### Renaissance Technologies
 
-Renaissance Technologies is one of the most famous quant funds, founded by Jim Simons. The firm's Medallion Fund is known for its astronomical performance, yielding annual returns exceeding 60% before fees. Renaissance uses sophisticated mathematical models and employs renowned mathematicians and scientists.
+Renaissance Technologies is one of the most famous quant funds, founded by Jim Simons. The firm's Medallion Fund is known for its astronomical performance, yielding annual returns exceeding 60% before fees. Renaissance uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and employs renowned mathematicians and scientists.
 
 [https://www.rentec.com/](https://www.rentec.com/)
 
@@ -48,13 +48,13 @@ Two Sigma, co-founded by David Siegel and John Overdeck, operates at the interse
 
 ### DE Shaw
 
-Founded by David Shaw, DE Shaw is a prominent player in the quant trading space. The firm uses a multidisciplinary approach, combining insights from finance, science, and engineering to develop its quantitative strategies.
+Founded by David Shaw, DE Shaw is a prominent player in the quant trading space. The firm uses a multidisciplinary approach, combining insights from finance, science, and engineering to develop its [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 [https://www.deshaw.com/](https://www.deshaw.com/)
 
 ### Citadel
 
-Citadel, managed by Ken Griffin, is one of the largest and most influential hedge funds globally. The firm employs a range of quantitative strategies to exploit market inefficiencies and delivers high-speed trading through its advanced technological infrastructure.
+Citadel, managed by Ken Griffin, is one of the largest and most influential hedge funds globally. The firm employs a range of [quantitative strategies](../q/quantitative_strategies_in_trading.md) to exploit market inefficiencies and delivers high-speed trading through its advanced technological infrastructure.
 
 [https://www.citadel.com/](https://www.citadel.com/)
 
@@ -68,11 +68,11 @@ AQR Capital, founded by Cliff Asness, focuses on factor-based investing, utilizi
 
 ### Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) aims to exploit statistical mispricing of one or more assets based on complex mathematical models. The strategy involves identifying pairs or groups of securities that deviate from their historical correlations and executing trades to capitalize on these deviations.
+Statistical [arbitrage](../a/arbitrage.md) aims to exploit statistical mispricing of one or more assets based on complex [mathematical models](../m/mathematical_models_in_trading.md). The strategy involves identifying pairs or groups of securities that deviate from their historical correlations and executing trades to capitalize on these deviations.
 
 ### Machine Learning
 
-Machine learning algorithms analyze vast datasets to identify patterns or trends that human traders might overlook. These models learn and evolve over time, continually refining their predictions and improving accuracy.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) analyze vast datasets to identify patterns or trends that human traders might overlook. These models learn and evolve over time, continually refining their predictions and improving accuracy.
 
 ### High-Frequency Trading (HFT)
 
@@ -96,7 +96,7 @@ Quantitative hedge funds face several unique risks and challenges:
 
 ### Model Risk
 
-Reliance on mathematical models can be both a strength and a vulnerability. If a model is flawed or based on incorrect assumptions, it can lead to significant losses.
+Reliance on [mathematical models](../m/mathematical_models_in_trading.md) can be both a strength and a vulnerability. If a model is flawed or based on incorrect assumptions, it can lead to significant losses.
 
 ### Data Quality
 
@@ -108,7 +108,7 @@ Technical glitches, system failures, or latency issues can disrupt trading opera
 
 ### Regulatory Risk
 
-Quant funds must navigate complex regulatory environments, with rules that vary across jurisdictions. Ensuring compliance while maintaining operational efficiency is a continual challenge.
+Quant funds must navigate complex regulatory environments, with rules that vary across jurisdictions. Ensuring compliance while maintaining [operational efficiency](../o/operational_efficiency_in_trading.md) is a continual challenge.
 
 ### Market Liquidity
 
@@ -122,15 +122,15 @@ Unpredictable events, known as black swans, can cause market conditions to devia
 
 ### Artificial Intelligence
 
-The future of quant trading is likely to see increased integration of artificial intelligence (AI) and machine learning technologies. AI can enhance [pattern recognition](../p/pattern_recognition.md), optimize [trading strategies](../t/trading_strategies.md), and manage risk more effectively.
+The future of quant trading is likely to see increased integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning technologies. AI can enhance [pattern recognition](../p/pattern_recognition.md), optimize [trading strategies](../t/trading_strategies.md), and manage risk more effectively.
 
 ### Big Data
 
-Big data analytics will continue to play a critical role as quant funds seek to leverage [alternative data](../a/alternative_data.md) sources for richer insights. This includes everything from social media [sentiment analysis](../s/sentiment_analysis.md) to geospatial data from satellites.
+[Big data analytics](../b/big_data_analytics_in_trading.md) will continue to play a critical role as quant funds seek to leverage [alternative data](../a/alternative_data.md) sources for richer insights. This includes everything from social media [sentiment analysis](../s/sentiment_analysis.md) to geospatial data from satellites.
 
 ### Quantum Computing
 
-Quantum computing holds the promise of exponentially increasing computational power, potentially revolutionizing how quant funds develop and implement their [trading strategies](../t/trading_strategies.md). Although it is still in its early stages, quantum computing could solve complex optimization problems much faster than classical computers.
+[Quantum computing](../q/quantum_computing_in_trading.md) holds the promise of exponentially increasing computational power, potentially revolutionizing how quant funds develop and implement their [trading strategies](../t/trading_strategies.md). Although it is still in its early stages, [quantum computing](../q/quantum_computing_in_trading.md) could solve complex optimization problems much faster than classical computers.
 
 ### Ethical Considerations
 

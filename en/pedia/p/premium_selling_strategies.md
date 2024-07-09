@@ -10,7 +10,7 @@ Premium selling, also known as option writing, involves the selling of option co
 1. **[Covered Call Writing](../c/covered_call_writing.md)**
     - **Description**: This strategy involves holding a long position in an underlying asset while simultaneously selling call options on the same asset. The goal is to generate extra income from the premiums.
     - **Execution**: Sell one call option for every 100 shares of the underlying stock owned.
-    - **Risk/Reward**: Limited upside potential (premium + stock appreciation up to the strike price) and downside risk associated with stock depreciation.
+    - **Risk/Reward**: Limited [upside potential](../u/upside_potential_in_trading.md) (premium + stock appreciation up to the strike price) and downside risk associated with stock depreciation.
   
 2. **Cash-Secured Put Selling**
     - **Description**: This strategy entails selling [put options](../p/put_options.md) and setting aside enough cash to purchase the underlying stock at the option's strike price if assigned. It's often used as a method to acquire stocks at a lower price.

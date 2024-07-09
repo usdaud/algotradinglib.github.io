@@ -1,6 +1,6 @@
 # Keynesian Economics
 
-Keynesian economics, named after its founder, the British economist John Maynard Keynes, revolutionized economic thought in the 20th century. At its core, Keynesian economics emphasizes the total spending in the economy (aggregate demand) and its effects on output and inflation. It's fundamentally different from classical economics, which focuses more on the supply side of the economy. In the context of trading, Keynesian principles can provide valuable insights into market behavior, government policies, and the impact of [economic cycles](../e/economic_cycles.md) on [trading strategies](../t/trading_strategies.md).
+Keynesian economics, named after its founder, the British economist John Maynard Keynes, revolutionized economic thought in the 20th century. At its core, Keynesian economics emphasizes the total spending in the economy (aggregate demand) and its effects on output and inflation. It's fundamentally different from classical economics, which focuses more on the supply side of the economy. In the context of trading, Keynesian principles can provide valuable insights into market behavior, [government policies](../g/government_policies_in_trading.md), and the impact of [economic cycles](../e/economic_cycles.md) on [trading strategies](../t/trading_strategies.md).
 
 ## The Fundamentals of Keynesian Economics
 
@@ -38,7 +38,7 @@ Understanding key [economic indicators](../e/economic_indicators.md) through a K
 
 ### Trend Following Strategies
 
-Keynesian economics suggests that fiscal and monetary policies can influence market trends. For instance, during economic expansion, favorable government policies can lead to bullish market trends, while during contraction, restrictive policies might result in bearish trends. Traders can develop trend-following strategies based on anticipated policy measures.
+Keynesian economics suggests that fiscal and monetary policies can influence market trends. For instance, during economic expansion, favorable [government policies](../g/government_policies_in_trading.md) can lead to bullish market trends, while during contraction, restrictive policies might result in bearish trends. Traders can develop trend-following strategies based on anticipated policy measures.
 
 ### Mean Reversion Strategies
 
@@ -68,4 +68,4 @@ While Keynesian economics offers valuable insights, it is not without its limita
 
 ## Conclusion
 
-Keynesian economics provides a robust framework for understanding the interplay between government policies, [economic cycles](../e/economic_cycles.md), and market behaviors. For traders, applying Keynesian principles can enhance their ability to predict market trends, devise effective [trading strategies](../t/trading_strategies.md), and navigate economic uncertainties. Whether you are a seasoned trader or a novice, incorporating Keynesian insights can be a valuable addition to your trading toolkit.
+Keynesian economics provides a robust framework for understanding the interplay between [government policies](../g/government_policies_in_trading.md), [economic cycles](../e/economic_cycles.md), and market behaviors. For traders, applying Keynesian principles can enhance their ability to predict market trends, devise effective [trading strategies](../t/trading_strategies.md), and navigate economic uncertainties. Whether you are a seasoned trader or a novice, incorporating Keynesian insights can be a valuable addition to your trading toolkit.

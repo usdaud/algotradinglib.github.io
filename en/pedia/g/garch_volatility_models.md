@@ -1,6 +1,6 @@
 # GARCH Volatility Models
 
-Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models are a cornerstone in the field of financial econometrics and particularly crucial for algo-trading. These models extend upon the basic Autoregressive Conditional Heteroskedasticity (ARCH) framework by capturing not only the [volatility clustering](../v/volatility_clustering.md) seen in time series data but also allowing for more flexibility in modeling changing variances over time.
+Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models are a cornerstone in the field of financial [econometrics](../e/econometrics_in_trading.md) and particularly crucial for algo-trading. These models extend upon the basic Autoregressive Conditional Heteroskedasticity (ARCH) framework by capturing not only the [volatility clustering](../v/volatility_clustering.md) seen in time series data but also allowing for more flexibility in modeling changing variances over time.
 
 ## Introduction to Volatility Models
 
@@ -76,14 +76,14 @@ Understanding the correlation structure between assets is essential for portfoli
 
 ### Software Tools and Libraries
 
-Several software tools and libraries support the implementation of [GARCH models](../g/garch_models.md):
+Several [software tools](../s/software_tools_for_trading.md) and libraries support the implementation of [GARCH models](../g/garch_models.md):
 
 - **R**: The `rugarch` package in R offers comprehensive functionalities for specifying, estimating, and simulating [GARCH models](../g/garch_models.md).
 - **Python**: The `arch` package in Python, developed by Kevin Sheppard, provides a wide array of tools to fit different kinds of [GARCH models](../g/garch_models.md).
   
   - Visit [arch package](https://github.com/bashtage/arch) for more details.
 
-- **Matlab**: The Econometrics Toolbox in Matlab includes built-in functions for estimating [GARCH models](../g/garch_models.md).
+- **Matlab**: The [Econometrics](../e/econometrics_in_trading.md) Toolbox in Matlab includes built-in functions for estimating [GARCH models](../g/garch_models.md).
 - **EViews**: A statistical package that provides user-friendly interfaces to estimate ARCH/[GARCH models](../g/garch_models.md).
 
 ### Steps in Model Estimation
@@ -146,7 +146,7 @@ While extensions of [GARCH models](../g/garch_models.md) can capture more comple
 
 ### Parameter Stability
 
-Parameters in [GARCH models](../g/garch_models.md) may not remain stable over time, especially in the presence of structural breaks or regime shifts in the data.
+Parameters in [GARCH models](../g/garch_models.md) may not remain stable over time, especially in the presence of [structural breaks](../s/structural_breaks_in_trading.md) or [regime shifts](../r/regime_shifts_in_trading.md) in the data.
 
 ### Computational Efficiency
 
