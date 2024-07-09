@@ -12,7 +12,7 @@
     end
 
     def convert_links(page)
-      page.content.gsub!(/(\[.*?\])\((.*?)\.md\)/) do |match|
+      page.content.gsub!(/(\[.*?\])\(((?!http|www\.|\/|mailto:).*?)\.md\)/) do |match|
         link_text = $1
         link_path = $2
         "#{link_text}(#{link_path}.html)"
