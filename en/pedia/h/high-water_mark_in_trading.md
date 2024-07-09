@@ -21,13 +21,13 @@ The High-Water Mark is calculated based on the net asset value (NAV) of the fund
 
 ### Real-World Application in Hedge Funds
 
-In hedge funds, the High-Water Mark is often coupled with a hurdle rate. The hurdle rate is the minimum acceptable return an investor expects before performance fees are charged. Here’s a portrayal of how this operates:
+In hedge funds, the High-Water Mark is often coupled with a [hurdle rate](../h/hurdle_rate_in_trading.md). The [hurdle rate](../h/hurdle_rate_in_trading.md) is the minimum acceptable return an investor expects before performance fees are charged. Here’s a portrayal of how this operates:
 
-1. **Set Hurdle Rate**: Assume the hurdle rate is 5% annually.
-2. **Calculate Fund NAV**: If the fund's NAV is $100 million, a 5% hurdle rate makes the target NAV $105 million for the next year.
+1. **Set [Hurdle Rate](../h/hurdle_rate_in_trading.md)**: Assume the [hurdle rate](../h/hurdle_rate_in_trading.md) is 5% annually.
+2. **Calculate Fund NAV**: If the fund's NAV is $100 million, a 5% [hurdle rate](../h/hurdle_rate_in_trading.md) makes the target NAV $105 million for the next year.
 3. **NAV Movements**: If the NAV reaches $108 million by year-end:
-    - **Surpass HWM and Hurdle Rate**: The fund has surpassed both the HWM and the hurdle rate.
-    - **Performance Fee Eligibility**: The manager earns performance fees on the $3 million excess above the $105 million hurdle rate.
+    - **Surpass HWM and [Hurdle Rate](../h/hurdle_rate_in_trading.md)**: The fund has surpassed both the HWM and the [hurdle rate](../h/hurdle_rate_in_trading.md).
+    - **Performance Fee Eligibility**: The manager earns performance fees on the $3 million excess above the $105 million [hurdle rate](../h/hurdle_rate_in_trading.md).
 4. **Revised HWM**: The new HWM is set at $108 million.
 
 ### Advantages and Disadvantages of High-Water Marks

@@ -57,7 +57,7 @@ Ride-hailing services such as Uber must match drivers to ride requests dynamical
 
 ### Cloud Resource Management
 
-In cloud computing, resource management involves the dynamic allocation of computational resources. Companies like Amazon Web Services (AWS) use online algorithms to allocate instances to tasks submitted by customers ([AWS](https://aws.amazon.com)). The goal is to maximize resource utilization while minimizing cost and ensuring quality of service.
+In [cloud computing](../c/cloud_computing_in_trading.md), resource management involves the dynamic allocation of computational resources. Companies like Amazon Web Services (AWS) use online algorithms to allocate instances to tasks submitted by customers ([AWS](https://aws.amazon.com)). The goal is to maximize resource utilization while minimizing cost and ensuring quality of service.
 
 ### Stock Market Trading
 
@@ -83,4 +83,4 @@ In cloud computing, resource management involves the dynamic allocation of compu
 
 ## Summary
 
-Online [algorithm design](../a/algorithm_design.md) plays a crucial role in situations where decisions must be made sequentially without complete knowledge of future events. By employing techniques like competitive analysis and considering various adversarial models, researchers and practitioners can develop online strategies that perform well compared to optimal offline solutions. These algorithms are essential in a wide range of applications today, from internet advertising to resource management in cloud computing and financial trading.
+Online [algorithm design](../a/algorithm_design.md) plays a crucial role in situations where decisions must be made sequentially without complete knowledge of future events. By employing techniques like competitive analysis and considering various adversarial models, researchers and practitioners can develop online strategies that perform well compared to optimal offline solutions. These algorithms are essential in a wide range of applications today, from internet advertising to resource management in [cloud computing](../c/cloud_computing_in_trading.md) and financial trading.

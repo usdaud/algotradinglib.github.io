@@ -42,7 +42,7 @@ Look-ahead bias doesn't just affect theoretical [backtesting](../b/backtesting.m
 
 ## The Role of Technology
 
-Modern technology offers both challenges and solutions regarding look-ahead bias. On one hand, the vast amount of data and computational power available increases the risk of inadvertently using future information. On the other hand, advanced tools and software platforms are designed to mitigate these risks.
+Modern technology offers both challenges and solutions regarding look-ahead bias. On one hand, the vast amount of data and computational power available increases the risk of inadvertently using future information. On the other hand, advanced tools and [software platforms](../s/software_platforms_for_trading.md) are designed to mitigate these risks.
 
 ### Algorithmic Trading Platforms
 
@@ -59,6 +59,6 @@ Platforms like [QuantConnect](../q/quantconnect.md), [Alpaca](../a/alpaca.md), a
 
 ## Conclusion
 
-Look-ahead bias is a critical issue in the field of [algorithmic trading](../a/algorithmic_trading.md), with the potential to distort [performance metrics](../p/performance_metrics.md) and lead to unprofitable [trading strategies](../t/trading_strategies.md). Identifying and mitigating look-ahead bias is crucial for developing reliable models that will perform well in real-world conditions. Traders and quantitative analysts must be vigilant in data handling, model validation, and simulation practices to ensure that their [backtesting](../b/backtesting.md) results are as accurate as possible.
+Look-ahead bias is a critical issue in the field of [algorithmic trading](../a/algorithmic_trading.md), with the potential to distort [performance metrics](../p/performance_metrics.md) and lead to unprofitable [trading strategies](../t/trading_strategies.md). Identifying and mitigating look-ahead bias is crucial for developing reliable models that will perform well in real-world conditions. Traders and quantitative analysts must be vigilant in data handling, model validation, and [simulation](../s/simulation_in_trading.md) practices to ensure that their [backtesting](../b/backtesting.md) results are as accurate as possible.
 
 Avoiding look-ahead bias not only leads to more robust [trading strategies](../t/trading_strategies.md) but also builds a foundation of trust with investors and stakeholders, essential for long-term success in the financial markets.

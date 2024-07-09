@@ -52,7 +52,7 @@ For traders who can execute these strategies efficiently, the returns can be sig
 
 ### 1. Transaction Costs
 
-High transaction fees can significantly erode the profit margins in cross-exchange [arbitrage](../a/arbitrage.md). It’s crucial to factor in these costs when calculating potential returns.
+High transaction fees can significantly erode the [profit margins](../p/profit_margins_in_trading.md) in cross-exchange [arbitrage](../a/arbitrage.md). It’s crucial to factor in these costs when calculating potential returns.
 
 ### 2. Transfer Times
 

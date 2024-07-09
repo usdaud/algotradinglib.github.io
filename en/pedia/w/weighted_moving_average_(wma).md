@@ -36,7 +36,7 @@ The WMA is predominantly used to identify the trend direction in the market. Thi
 
 ### Signal Filtering
 
-In [algorithmic trading](../a/algorithmic_trading.md), filtering out the noise from the price data is essential to avoid false signals. The WMA, with its weighted nature, can smooth out the data more effectively than other averages, thereby providing clearer signals for trade executions.
+In [algorithmic trading](../a/algorithmic_trading.md), filtering out the noise from the price data is essential to avoid [false signals](../f/false_signals_in_trading.md). The WMA, with its weighted nature, can smooth out the data more effectively than other averages, thereby providing clearer signals for trade executions.
 
 ### Crossovers
 
@@ -76,7 +76,7 @@ MetaTrader 4, a popular trading platform, supports the WMA indicator out of the 
 
 ### Interactive Brokers
 
-Interactive Brokers provides the Trader Workstation (TWS) platform, offering WMAs among various [technical indicators](../t/technical_indicators.md). Traders can integrate WMAs into their automated [trading algorithms](../t/trading_algorithms.md) using the API. [Interactive Brokers](https://www.interactivebrokers.com)
+[Interactive Brokers](../i/interactive_brokers.md) provides the Trader Workstation (TWS) platform, offering WMAs among various [technical indicators](../t/technical_indicators.md). Traders can integrate WMAs into their automated [trading algorithms](../t/trading_algorithms.md) using the API. [Interactive Brokers](https://www.interactivebrokers.com)
 
 ## Advantages of WMA
 

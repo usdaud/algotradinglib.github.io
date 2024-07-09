@@ -51,8 +51,8 @@ Time-series analysis involves studying the spread over time to identify trends, 
 Machine learning can be leveraged to model complex spread dynamics and make [predictive analytics](../p/predictive_analytics.md):
 
 1. **Regression Models**: Linear and non-[linear regression](../l/linear_regression.md) models can be used to predict spreads based on multiple input variables.
-2. **[Classification Algorithms](../c/classification_algorithms.md)**: Algorithms like [decision trees](../d/decision_trees.md) and random forests can classify market conditions that lead to wide spreads.
-3. **Neural Networks**: Deep learning models to capture intricate patterns in spreads and improve predictive accuracy.
+2. **[Classification Algorithms](../c/classification_algorithms.md)**: Algorithms like [decision trees](../d/decision_trees.md) and [random forests](../r/random_forests_in_trading.md) can classify market conditions that lead to wide spreads.
+3. **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning models to capture intricate patterns in spreads and improve predictive accuracy.
 
 ## Implementation in Trading Systems
 
@@ -66,7 +66,7 @@ Machine learning can be leveraged to model complex spread dynamics and make [pre
 
 Several advanced trading platforms and financial institutions emphasize [spread analysis](../s/spread_analysis.md):
 
-- **Interactive Brokers (IBKR)**: Offers sophisticated tools for [spread analysis](../s/spread_analysis.md) to aid in precise trade execution. [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR)**: Offers sophisticated tools for [spread analysis](../s/spread_analysis.md) to aid in precise trade execution. [Interactive Brokers](https://www.interactivebrokers.com/)
 - **[TradeStation](../t/tradestation.md)**: Provides robust analytics for understanding market spreads and integrating them into [trading strategies](../t/trading_strategies.md). [TradeStation](https://www.tradestation.com/)
 - **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers data access and analytical tools for comprehensive [spread analysis](../s/spread_analysis.md). [QuantConnect](https://www.quantconnect.com/)
 

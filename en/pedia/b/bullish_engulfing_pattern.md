@@ -62,7 +62,7 @@ Several companies provide platforms and tools for automated trading. Some popula
 
 ## Limitations and Risks
 While the bullish engulfing pattern can be a powerful tool, traders should be aware of its limitations and associated risks:
-1. **False Signals:** There is always a risk of false signals, where the pattern may indicate a reversal, but the price continues to trend downward.
+1. **[False Signals](../f/false_signals_in_trading.md):** There is always a risk of [false signals](../f/false_signals_in_trading.md), where the pattern may indicate a reversal, but the price continues to trend downward.
 2. **Market Conditions:** In volatile or highly unpredictable market conditions, the pattern may not perform as expected.
 3. **Over-Reliance:** Depending solely on the bullish engulfing pattern without considering other technical and fundamental factors can lead to poor trading decisions.
 

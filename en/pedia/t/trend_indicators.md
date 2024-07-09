@@ -28,7 +28,7 @@ The [Stochastic Oscillator](../s/stochastic_oscillator.md) compares a securityâ€
 
 ### Average Directional Index (ADX)
 
-The Average Directional Index (ADX) measures the strength of a trend. It ranges from 0 to 100, with values above 20 indicating a strong trend and values below 20 suggesting a weak trend. ADX helps traders determine whether a market is trending or ranging.
+The [Average Directional Index](../a/average_directional_index_(adx).md) (ADX) measures the strength of a trend. It ranges from 0 to 100, with values above 20 indicating a strong trend and values below 20 suggesting a weak trend. ADX helps traders determine whether a market is trending or ranging.
 
 ### Ichimoku Cloud
 

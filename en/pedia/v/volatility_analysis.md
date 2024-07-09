@@ -22,7 +22,7 @@ The standard deviation is a commonly used measure of volatility. It is a measure
 
 ### Average True Range (ATR)
 
-The Average True Range is a [technical analysis](../t/technical_analysis.md) indicator developed by J. Welles Wilder. It measures market volatility by decomposing the entire range of an asset price for a given period. ATR is useful for understanding the degree of price volatility, which in turn helps in setting stop-loss levels and gauging market sentiment.
+The [Average True Range](../a/average_true_range_(atr).md) is a [technical analysis](../t/technical_analysis.md) indicator developed by J. Welles Wilder. It measures market volatility by decomposing the entire range of an asset price for a given period. ATR is useful for understanding the degree of price volatility, which in turn helps in setting stop-loss levels and gauging market sentiment.
 
 ### Bollinger Bands
 
@@ -56,7 +56,7 @@ Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models are use
 
 ### VIX Index
 
-The VIX, also known as the CBOE Volatility Index, measures the market's expectation of 30-day volatility and is often referred to as the "fear gauge". A high VIX level indicates increased market uncertainty and potential turbulence, while a low VIX level suggests complacency and stability. Traders monitor the VIX to gauge market sentiment and adjust their strategies accordingly.
+The VIX, also known as the CBOE Volatility Index, measures the market's expectation of 30-day volatility and is often referred to as the "fear gauge". A high VIX level indicates increased market [uncertainty](../u/uncertainty_in_trading.md) and potential turbulence, while a low VIX level suggests complacency and stability. Traders monitor the VIX to gauge market sentiment and adjust their strategies accordingly.
 
 ### News and Events
 
@@ -88,7 +88,7 @@ Statistical [Arbitrage](../a/arbitrage.md) (StatArb) relies on statistical metho
 
 ### Machine Learning Models
 
-Machine learning has become a significant tool in [algorithmic trading](../a/algorithmic_trading.md) for forecasting volatility and making trading decisions. Techniques such as neural networks, support vector machines, and random forests can be used to analyze vast amounts of data and identify patterns predictive of future volatility. These models adapt to new data and can provide a competitive edge in rapidly changing markets.
+Machine learning has become a significant tool in [algorithmic trading](../a/algorithmic_trading.md) for forecasting volatility and making trading decisions. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [random forests](../r/random_forests_in_trading.md) can be used to analyze vast amounts of data and identify patterns predictive of future volatility. These models adapt to new data and can provide a competitive edge in rapidly changing markets.
 
 ### Risk-Limited Strategies
 
@@ -110,7 +110,7 @@ Renaissance Technologies is renowned for its Medallion Fund, which uses [quantit
 
 #### Two Sigma
 
-Two Sigma combines data science and technology to develop predictive models for trading. The firm emphasizes the importance of volatility analysis in understanding market dynamics and improving model accuracy [Two Sigma](https://www.twosigma.com).
+Two Sigma combines [data science](../d/data_science_in_trading.md) and technology to develop [predictive models](../p/predictive_models_in_trading.md) for trading. The firm emphasizes the importance of volatility analysis in understanding market dynamics and improving model accuracy [Two Sigma](https://www.twosigma.com).
 
 #### DE Shaw
 

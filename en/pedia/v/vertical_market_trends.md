@@ -31,7 +31,7 @@ The relative nascency of the cryptocurrency market makes it ripe for [algorithmi
 [Market making algorithms](../m/market_making_algorithms.md) provide liquidity to markets by continuously quoting buy and sell prices for a security. This makes it easier for other participants to trade, thereby enhancing [market efficiency](../m/market_efficiency.md).
 
 **2. [Arbitrage](../a/arbitrage.md):**
-[Arbitrage](../a/arbitrage.md) strategies involve exploiting price differences between different markets or instruments. Statistical [arbitrage](../a/arbitrage.md) uses mathematical models to identify relative mispricings between different securities.
+[Arbitrage](../a/arbitrage.md) strategies involve exploiting price differences between different markets or instruments. Statistical [arbitrage](../a/arbitrage.md) uses [mathematical models](../m/mathematical_models_in_trading.md) to identify relative mispricings between different securities.
 
 **3. [Trend Following](../t/trend_following.md):**
 Trend-following algorithms employ techniques that analyze market trends and make trades based on anticipated price movements. These algorithms often rely on [technical indicators](../t/technical_indicators.md) such as moving averages and [momentum oscillators](../m/momentum_oscillators.md).
@@ -47,11 +47,11 @@ HFT algorithms execute a large number of orders at extremely high speeds. These 
 **1. High-Speed Networks:**
 The performance of [algorithmic trading](../a/algorithmic_trading.md) strategies is often contingent on the speed of execution. High-speed networks reduce latency, thereby enabling faster order execution and better chances of capturing [arbitrage](../a/arbitrage.md) opportunities.
 
-**2. Cloud Computing:**
-Cloud computing offers scalable resources for back-testing and running complex [trading algorithms](../t/trading_algorithms.md). It also provides the flexibility to adapt to changing market conditions without significant upfront investment in hardware.
+**2. [Cloud Computing](../c/cloud_computing_in_trading.md):**
+[Cloud computing](../c/cloud_computing_in_trading.md) offers scalable resources for back-testing and running complex [trading algorithms](../t/trading_algorithms.md). It also provides the flexibility to adapt to changing market conditions without significant upfront investment in hardware.
 
-**3. Machine Learning and Artificial Intelligence:**
-Machine learning (ML) and artificial intelligence (AI) are increasingly being integrated into [algorithmic trading](../a/algorithmic_trading.md) systems. These technologies enable the development of algorithms that can learn and evolve based on market data, potentially leading to more sophisticated and adaptive [trading strategies](../t/trading_strategies.md).
+**3. Machine Learning and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md):**
+Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being integrated into [algorithmic trading](../a/algorithmic_trading.md) systems. These technologies enable the development of algorithms that can learn and evolve based on market data, potentially leading to more sophisticated and adaptive [trading strategies](../t/trading_strategies.md).
 
 **4. Regulatory Technology (RegTech):**
 Compliance with regulatory requirements is crucial in [algorithmic trading](../a/algorithmic_trading.md). RegTech solutions automate compliance processes, ensuring that [trading algorithms](../t/trading_algorithms.md) adhere to relevant laws and regulations.
@@ -62,7 +62,7 @@ Compliance with regulatory requirements is crucial in [algorithmic trading](../a
 [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) offers an open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes. It provides a suite of tools for research, back-testing, and live trading.
 
 **2. [AlgoTrader](../a/algotrader.md):**
-[AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports both traditional and digital asset trading. Its platform includes features for strategy development, simulation, and execution.
+[AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports both traditional and digital asset trading. Its platform includes features for strategy development, [simulation](../s/simulation_in_trading.md), and execution.
 
 **3. Numerai:**
 Numerai (https://numer.ai) is a hedge fund that crowdsources its [trading algorithms](../t/trading_algorithms.md) from data scientists around the world. The company uses a unique incentive structure and machine learning to develop its [trading strategies](../t/trading_strategies.md).

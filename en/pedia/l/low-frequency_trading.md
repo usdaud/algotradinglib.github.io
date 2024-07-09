@@ -56,7 +56,7 @@ LFT strategies generally involve holding positions for longer durations, which c
 
 ## Role of Technology
 
-While LFT does not rely on the ultra-fast execution technologies necessary for HFT, it nonetheless benefits from advancements in computing power, data analytics, machine learning, and algorithm development. Technologies such as cloud computing, big data analytics, and artificial intelligence enable LFT traders to process vast amounts of data and develop more sophisticated [trading models](../t/trading_models.md).
+While LFT does not rely on the ultra-fast execution technologies necessary for HFT, it nonetheless benefits from advancements in computing power, data analytics, machine learning, and algorithm development. Technologies such as [cloud computing](../c/cloud_computing_in_trading.md), [big data analytics](../b/big_data_analytics_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) enable LFT traders to process vast amounts of data and develop more sophisticated [trading models](../t/trading_models.md).
 
 ### Importance of Backtesting
 
@@ -80,7 +80,7 @@ While many trading firms engage in low-frequency trading, some notable players i
 - **BlackRock**: [BlackRock](https://www.blackrock.com) is one of the world's largest asset management firms and employs various LFT strategies.
 - **Bridgewater Associates**: [Bridgewater Associates](https://www.bridgewater.com) is a leading hedge fund that utilizes multiple [trading strategies](../t/trading_strategies.md), including LFT.
 - **Citadel**: [Citadel](https://www.citadel.com) is a global financial institution known for its diverse [trading strategies](../t/trading_strategies.md), including LFT.
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com) employs quantitative strategies in its trading, including low-frequency models.
+- **Two Sigma**: [Two Sigma](https://www.twosigma.com) employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) in its trading, including low-frequency models.
 - **Renaissance Technologies**: [Renaissance Technologies](https://www.rentec.com) is a renowned hedge fund that employs sophisticated [quantitative trading](../q/quantitative_trading.md) strategies, including LFT.
 
 ## Case Studies
@@ -91,7 +91,7 @@ A prominent hedge fund developed a [momentum trading](../m/momentum_trading.md) 
 
 ### Case Study 2: Mean Reversion Strategy by an Asset Manager
 
-An asset manager implemented a [mean reversion](../m/mean_reversion.md) strategy focusing on large-cap stocks. The strategy involved identifying price deviations from historical averages and entering trades expecting the prices to revert to the mean. The average holding period ranged from a few days to a couple of months. This approach yielded consistent returns with lower volatility compared to the broader market.
+An asset manager implemented a [mean reversion](../m/mean_reversion.md) strategy focusing on [large-cap stocks](../l/large_cap_stocks.md). The strategy involved identifying price deviations from historical averages and entering trades expecting the prices to revert to the mean. The average holding period ranged from a few days to a couple of months. This approach yielded consistent returns with lower volatility compared to the broader market.
 
 ## Conclusion
 

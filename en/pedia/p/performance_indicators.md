@@ -136,12 +136,12 @@ Tail Ratio = Average Size of Largest Gains / Average Size of Largest Losses
 ## Implementation Examples for Algorithmic Trading Companies
 
 ### 1. **Kensho Technologies**
-Kensho uses advanced analytics and natural language processing to offer [performance analytics](../p/performance_analytics.md) tools. You can explore their technology further at [Kensho Technologies](https://www.kensho.com/).
+Kensho uses advanced analytics and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to offer [performance analytics](../p/performance_analytics.md) tools. You can explore their technology further at [Kensho Technologies](https://www.kensho.com/).
 
 ### 2. **Numerai**
 Numerai uses machine learning models to predict stock market returns and offers incentives to data scientists for improved predictions. Additional details can be found on [Numerai](https://numer.ai/).
 
 ### 3. **Two Sigma**
-Two Sigma is a hedge fund that uses artificial intelligence and machine learning for its [trading strategies](../t/trading_strategies.md). Their approach to [performance metrics](../p/performance_metrics.md) is detailed on [Two Sigma](https://www.twosigma.com/).
+Two Sigma is a hedge fund that uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning for its [trading strategies](../t/trading_strategies.md). Their approach to [performance metrics](../p/performance_metrics.md) is detailed on [Two Sigma](https://www.twosigma.com/).
 
 These performance indicators collectively provide a robust framework for evaluating the efficacy, risk, and return profile of [algorithmic trading](../a/algorithmic_trading.md) strategies. Each metric highlights different facets of a trading algorithm's performance and risks, aiding in the comprehensive assessment and optimization of [trading models](../t/trading_models.md).

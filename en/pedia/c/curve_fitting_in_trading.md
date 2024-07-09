@@ -20,7 +20,7 @@ The measure of how well the model fits the data is often quantified by the sum o
 
 ## Applications in Trading
 
-Curve fitting is used extensively in [algorithmic trading](../a/algorithmic_trading.md) to create predictive models, develop [trading signals](../t/trading_signals.md), and optimize [trading strategies](../t/trading_strategies.md). Below are some common applications:
+Curve fitting is used extensively in [algorithmic trading](../a/algorithmic_trading.md) to create [predictive models](../p/predictive_models_in_trading.md), develop [trading signals](../t/trading_signals.md), and optimize [trading strategies](../t/trading_strategies.md). Below are some common applications:
 
 ### Backtesting
 

@@ -1,6 +1,6 @@
 # Algorithmic Trading Regulations
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," utilizes sophisticated mathematical models and high-speed data analysis to execute trades in financial markets. While these technologies have fostered increased efficiency and liquidity, they also bring risks that regulators aim to mitigate. Below is a comprehensive discussion on [algorithmic trading](../a/algorithmic_trading.md) regulations, spanning multiple jurisdictions and regulatory bodies.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and high-speed data analysis to execute trades in financial markets. While these technologies have fostered increased efficiency and liquidity, they also bring risks that regulators aim to mitigate. Below is a comprehensive discussion on [algorithmic trading](../a/algorithmic_trading.md) regulations, spanning multiple jurisdictions and regulatory bodies.
 
 ## 1. Introduction to Algorithmic Trading Regulations
 
@@ -40,7 +40,7 @@ ESMA serves as the overarching regulatory body within the European Union (EU) fo
 FCA, although currently departing slightly from ESMA guidelines due to Brexit, still places strict demands on [algorithmic trading](../a/algorithmic_trading.md):
 
 - **Senior Management Arrangements, Systems, and Controls (SYSC)**:
-  - **Governance:** Requires adequate systems and controls for [algorithmic trading](../a/algorithmic_trading.md) strategies, including stress testing and risk assessment.
+  - **Governance:** Requires adequate systems and controls for [algorithmic trading](../a/algorithmic_trading.md) strategies, including [stress testing](../s/stress_testing_in_trading.md) and risk assessment.
   - **Record Keeping**: Detailed record-keeping of [trading algorithms](../t/trading_algorithms.md)’ purpose and functionality, with specific conditions for firms engaged in HFT.
 
 ## 4. Asia-Pacific Regulations
@@ -84,7 +84,7 @@ MAS has structured its regulatory approach to balance innovation with market int
 
 ### 5.3 Stress Testing and Simulation
 
-[Algorithmic trading](../a/algorithmic_trading.md) strategies and systems undergo rigorous stress testing to validate their resilience under adverse conditions. Simulations, [backtesting](../b/backtesting.md), and scenario analysis are essential components of this process.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies and systems undergo rigorous [stress testing](../s/stress_testing_in_trading.md) to validate their resilience under adverse conditions. Simulations, [backtesting](../b/backtesting.md), and scenario analysis are essential components of this process.
 
 ## 6. International Cooperation and Harmonization
 
@@ -103,7 +103,7 @@ With technological advancements, AI and machine learning are increasingly integr
 
 ### 7.2 Blockchain and DLT
 
-Blockchain technology and Distributed Ledger Technology (DLT) are also being explored for their potential to modernize trade settlement and enhance transparency, impacting the future regulatory landscape of [algorithmic trading](../a/algorithmic_trading.md).
+[Blockchain](../b/blockchain_in_trading.md) technology and Distributed Ledger Technology (DLT) are also being explored for their potential to modernize trade settlement and enhance transparency, impacting the future regulatory landscape of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Conclusion
 

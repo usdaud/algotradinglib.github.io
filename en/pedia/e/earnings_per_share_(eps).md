@@ -20,9 +20,9 @@ EPS = (Net Income - Preferred Dividends) / Average Outstanding Shares
 
 There are different forms of EPS, each providing a unique view of a company's earnings:
 
-1. **Basic EPS**: This is the simplest form of EPS, calculated by dividing net income by the total number of outstanding shares. It does not account for any potential dilution from convertible securities, warrants, or options.
+1. **Basic EPS**: This is the simplest form of EPS, calculated by dividing net income by the total number of outstanding shares. It does not account for any potential dilution from convertible securities, [warrants](../w/warrants_in_trading.md), or options.
 
-2. **Diluted EPS**: This form of EPS accounts for the potential dilution that could occur if all convertible securities, such as stock options, warrants, and convertible bonds, were exercised. Diluted EPS is generally lower than basic EPS and provides a more conservative measure of a company's earnings per share.
+2. **Diluted EPS**: This form of EPS accounts for the potential dilution that could occur if all convertible securities, such as stock options, [warrants](../w/warrants_in_trading.md), and convertible bonds, were exercised. Diluted EPS is generally lower than basic EPS and provides a more conservative measure of a company's earnings per share.
 
 3. **Adjusted EPS**: This version of EPS excludes one-time items, such as extraordinary gains or losses, to provide a clearer view of a company's recurring earnings. Companies might adjust EPS to reflect operational performance more accurately.
 

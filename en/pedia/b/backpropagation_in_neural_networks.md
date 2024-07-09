@@ -1,10 +1,10 @@
 # Backpropagation in Neural Networks
 
-Backpropagation, short for "backward propagation of errors," is a fundamental algorithm used for training [artificial neural networks](../a/artificial_neural_networks.md). It is a supervised learning technique used primarily for minimizing the error in predictions by adjusting the weights of neurons based on the error at the output. This method is essential to the training process of deep learning models, particularly multi-layered neural networks, such as deep neural networks.
+Backpropagation, short for "backward propagation of errors," is a fundamental algorithm used for training [artificial neural networks](../a/artificial_neural_networks.md). It is a supervised learning technique used primarily for minimizing the error in predictions by adjusting the weights of neurons based on the error at the output. This method is essential to the training process of deep learning models, particularly multi-layered [neural networks](../n/neural_networks_in_trading.md), such as deep [neural networks](../n/neural_networks_in_trading.md).
 
 ## Components of Neural Networks
 
-Before diving into backpropagation, it's essential to understand the core components of neural networks:
+Before diving into backpropagation, it's essential to understand the core components of [neural networks](../n/neural_networks_in_trading.md):
 
 1. **Neurons**: Basic computation units in the network. Each neuron receives one or more inputs, applies a linear transformation, and follows it with a non-linear activation function.
 2. **Weights and Biases**: Parameters that are adjusted during training to minimize the output error.
@@ -166,20 +166,20 @@ Gradient Descent is the most straightforward optimization algorithm used to mini
 
 ## Applications
 
-Backpropagation, and by extension neural networks, have found applications across various domains:
+Backpropagation, and by extension [neural networks](../n/neural_networks_in_trading.md), have found applications across various domains:
 
 - **Finance**: For [algorithmic trading](../a/algorithmic_trading.md), credit scoring, and fraud detection. Companies like [Two Sigma](https://www.twosigma.com/) and [Jane Street](https://www.janestreet.com/) leverage deep learning in their [trading strategies](../t/trading_strategies.md).
 - **Healthcare**: For medical image analysis, genomics, and personalized treatment plans.
-- **Natural Language Processing (NLP)**: For machine translation, [sentiment analysis](../s/sentiment_analysis.md), and chatbots.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: For machine translation, [sentiment analysis](../s/sentiment_analysis.md), and chatbots.
 - **Computer Vision**: For image and video recognition, self-driving cars, and facial recognition systems. Companies like [DeepMind](https://deepmind.com/) (a subsidiary of Alphabet) and [OpenAI](https://openai.com/) are at the forefront of AI research in these fields.
 - **Gaming**: For AI opponents, game strategy development, and real-time decision-making.
 
 ## Challenges and Considerations
 
-While backpropagation is a powerful algorithm, training deep neural networks is not without its challenges:
+While backpropagation is a powerful algorithm, training deep [neural networks](../n/neural_networks_in_trading.md) is not without its challenges:
 
 1. **Vanishing/Exploding Gradients**: Gradients can become very small or extremely large when propagating through many layers, making training unstable.
 2. **Overfitting**: The model may perform exceptionally well on training data but poorly on unseen data. Regularization techniques like Dropout can mitigate this.
 3. **Computation Cost**: Training can be computationally expensive, requiring specialized hardware like GPUs or TPUs.
 
-In summary, backpropagation is a cornerstone technique in the field of deep learning, enabling the training of complex neural networks by systematically minimizing the prediction error. Its effectiveness has catalyzed advancements across numerous fields, driving the success of artificial intelligence applications worldwide.
+In summary, backpropagation is a cornerstone technique in the field of deep learning, enabling the training of complex [neural networks](../n/neural_networks_in_trading.md) by systematically minimizing the prediction error. Its effectiveness has catalyzed advancements across numerous fields, driving the success of [artificial intelligence](../a/artificial_intelligence_in_trading.md) applications worldwide.

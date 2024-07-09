@@ -50,7 +50,7 @@ The results from testing should be statistically significant, ensuring that the 
 [TradingView](../t/tradingview.md) is a social network for traders and investors offering charting tools, analysis, and strategies. It supports [backtesting](../b/backtesting.md) and forward testing through its Pine Script language.
 
 #### 4.3 Backtrader
-[Backtrader](../b/backtrader.md) is a Python-based [backtesting](../b/backtesting.md) library for [trading strategies](../t/trading_strategies.md). It supports advanced order types, multiple time frames, and various broker integrations.
+[Backtrader](../b/backtrader.md) is a Python-based [backtesting](../b/backtesting.md) library for [trading strategies](../t/trading_strategies.md). It supports advanced [order types](../o/order_types_in_trading.md), multiple time frames, and various broker integrations.
 
 ### 5. Challenges in Algorithm Testing
 
@@ -69,7 +69,7 @@ Algorithms should be tested for their potential market impact, especially if the
 Machine learning and AI techniques are increasingly used in testing [trading algorithms](../t/trading_algorithms.md). These techniques can identify patterns and relationships in data that may not be evident through traditional analysis.
 
 #### 6.2 Genetic Algorithms
-Genetic algorithms optimize [trading strategies](../t/trading_strategies.md) by simulating the process of natural selection, iterating through generations of strategies to find the best performers.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) optimize [trading strategies](../t/trading_strategies.md) by simulating the process of natural selection, iterating through generations of strategies to find the best performers.
 
 ### 7. Conclusion
 Algorithm testing is a crucial step in the development of [trading algorithms](../t/trading_algorithms.md), ensuring they are robust, reliable, and profitable under various market conditions. By leveraging various types of testing, considering key factors, and using advanced tools and techniques, traders can improve the likelihood of success for their [algorithmic trading](../a/algorithmic_trading.md) strategies.
@@ -127,7 +127,7 @@ The results from testing should be statistically significant, ensuring that the 
 [TradingView](../t/tradingview.md) is a social network for traders and investors offering charting tools, analysis, and strategies. It supports [backtesting](../b/backtesting.md) and forward testing through its Pine Script language.
 
 #### 4.3 Backtrader
-[Backtrader](../b/backtrader.md) is a Python-based [backtesting](../b/backtesting.md) library for [trading strategies](../t/trading_strategies.md). It supports advanced order types, multiple time frames, and various broker integrations.
+[Backtrader](../b/backtrader.md) is a Python-based [backtesting](../b/backtesting.md) library for [trading strategies](../t/trading_strategies.md). It supports advanced [order types](../o/order_types_in_trading.md), multiple time frames, and various broker integrations.
 
 ### 5. Challenges in Algorithm Testing
 
@@ -146,7 +146,7 @@ Algorithms should be tested for their potential market impact, especially if the
 Machine learning and AI techniques are increasingly used in testing [trading algorithms](../t/trading_algorithms.md). These techniques can identify patterns and relationships in data that may not be evident through traditional analysis.
 
 #### 6.2 Genetic Algorithms
-Genetic algorithms optimize [trading strategies](../t/trading_strategies.md) by simulating the process of natural selection, iterating through generations of strategies to find the best performers.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) optimize [trading strategies](../t/trading_strategies.md) by simulating the process of natural selection, iterating through generations of strategies to find the best performers.
 
 ### 7. Conclusion
 Algorithm testing is a crucial step in the development of [trading algorithms](../t/trading_algorithms.md), ensuring they are robust, reliable, and profitable under various market conditions. By leveraging various types of testing, considering key factors, and using advanced tools and techniques, traders can improve the likelihood of success for their [algorithmic trading](../a/algorithmic_trading.md) strategies.

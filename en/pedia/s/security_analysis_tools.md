@@ -1,6 +1,6 @@
 # Security Analysis Tools
 
-[Security analysis](../s/security_analysis.md) tools play a critical role in the realm of [algorithmic trading](../a/algorithmic_trading.md), enabling traders and institutions to assess and make informed decisions about investments. These tools leverage various forms of analysis, including technical, quantitative, and [fundamental analysis](../f/fundamental_analysis.md), to evaluate the potential of securities. In this detailed exploration, we will delve into several key categories of [security analysis](../s/security_analysis.md) tools, including software platforms, [quantitative analysis](../q/quantitative_analysis.md) libraries, data services, [backtesting](../b/backtesting.md) platforms, and [sentiment analysis](../s/sentiment_analysis.md) tools.
+[Security analysis](../s/security_analysis.md) tools play a critical role in the realm of [algorithmic trading](../a/algorithmic_trading.md), enabling traders and institutions to assess and make informed decisions about investments. These tools leverage various forms of analysis, including technical, quantitative, and [fundamental analysis](../f/fundamental_analysis.md), to evaluate the potential of securities. In this detailed exploration, we will delve into several key categories of [security analysis](../s/security_analysis.md) tools, including [software platforms](../s/software_platforms_for_trading.md), [quantitative analysis](../q/quantitative_analysis.md) libraries, data services, [backtesting](../b/backtesting.md) platforms, and [sentiment analysis](../s/sentiment_analysis.md) tools.
 
 ## 1. Software Platforms
 
@@ -33,7 +33,7 @@ Pandas is a powerful data manipulation library in Python, highly utilized in [al
 
 ### c. scipy.stats
 
-SciPy is an open-source Python library used for scientific and technical computing. The `scipy.stats` module in SciPy contains a large number of probability distributions and statistical functions, which are essential for [financial modeling](../f/financial_modeling.md) and [risk management](../r/risk_management.md) in [trading systems](../t/trading_systems.md).
+SciPy is an open-source Python library used for scientific and technical computing. The `scipy.stats` module in SciPy contains a large number of [probability distributions](../p/probability_distributions_in_trading.md) and statistical functions, which are essential for [financial modeling](../f/financial_modeling.md) and [risk management](../r/risk_management.md) in [trading systems](../t/trading_systems.md).
 [More about SciPy](https://scipy.org/)
 
 ## 3. Data Services
@@ -50,7 +50,7 @@ Alpha Vantage offers APIs for real-time and historical stock market data, FX dat
 
 ### c. IEX Cloud
 
-IEX Cloud provides financial data APIs that include [real-time market data](../r/real-time_market_data.md), historical trade data, and reference data. Its pay-as-you-go pricing model makes it accessible for traders of all sizes, from individual developers to large institutions.
+[IEX Cloud](../i/iex_cloud.md) provides financial data APIs that include [real-time market data](../r/real-time_market_data.md), historical trade data, and reference data. Its pay-as-you-go pricing model makes it accessible for traders of all sizes, from individual developers to large institutions.
 [More about IEX Cloud](https://iexcloud.io/)
 
 ## 4. Backtesting Platforms
@@ -79,7 +79,7 @@ StockTwits is a social media platform specifically designed for the financial an
 
 ### b. RavenPack
 
-[RavenPack](../r/ravenpack.md) provides data analytics services that focus on big data analytics for finance. It offers tools for [sentiment analysis](../s/sentiment_analysis.md) and event detection by processing news, social media, and other public information sources. Its data can be used to enhance [trading algorithms](../t/trading_algorithms.md) by incorporating sentiment-based signals.
+[RavenPack](../r/ravenpack.md) provides data analytics services that focus on [big data analytics](../b/big_data_analytics_in_trading.md) for finance. It offers tools for [sentiment analysis](../s/sentiment_analysis.md) and event detection by processing news, social media, and other public information sources. Its data can be used to enhance [trading algorithms](../t/trading_algorithms.md) by incorporating sentiment-based signals.
 [More about RavenPack](https://www.ravenpack.com/)
 
 ### c. MarketPsych
@@ -89,4 +89,4 @@ MarketPsych applies textual analysis of news and social media to generate sentim
 
 ## Conclusion
 
-[Security analysis](../s/security_analysis.md) tools are indispensable in the field of [algorithmic trading](../a/algorithmic_trading.md). They bring precision and efficiency to the analysis process, enabling traders to develop, test, and implement complex strategies with a high degree of accuracy. From robust software platforms and sophisticated [quantitative analysis](../q/quantitative_analysis.md) libraries to comprehensive data services, powerful [backtesting](../b/backtesting.md) platforms, and advanced [sentiment analysis](../s/sentiment_analysis.md) tools, these tools form the backbone of modern [algorithmic trading](../a/algorithmic_trading.md) strategies. As the financial markets continue to evolve, the importance and capabilities of these tools are likely to expand, driving further innovation and efficiency in trading practices.
+[Security analysis](../s/security_analysis.md) tools are indispensable in the field of [algorithmic trading](../a/algorithmic_trading.md). They bring precision and efficiency to the analysis process, enabling traders to develop, test, and implement complex strategies with a high degree of accuracy. From robust [software platforms](../s/software_platforms_for_trading.md) and sophisticated [quantitative analysis](../q/quantitative_analysis.md) libraries to comprehensive data services, powerful [backtesting](../b/backtesting.md) platforms, and advanced [sentiment analysis](../s/sentiment_analysis.md) tools, these tools form the backbone of modern [algorithmic trading](../a/algorithmic_trading.md) strategies. As the financial markets continue to evolve, the importance and capabilities of these tools are likely to expand, driving further innovation and efficiency in trading practices.

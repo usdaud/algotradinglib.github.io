@@ -25,14 +25,14 @@ X-Seasonality Detection extends traditional [seasonality analysis](../s/seasonal
 
 ### Incorporating Macroeconomic Data
 Key [economic indicators](../e/economic_indicators.md) can be layered to refine seasonal models:
-- **GDP Growth Rates**: Annual or quarterly changes in GDP can indicate macroeconomic trends.
+- **GDP [Growth Rates](../g/growth_rates_in_trading.md)**: Annual or quarterly changes in GDP can indicate macroeconomic trends.
 - **Inflation Data**: Consumer Price Index (CPI) and Producer Price Index (PPI) offer insights into inflationary pressures.
 - **Employment Data**: Non-Farm Payrolls (NFP) numbers can reflect broader economic health.
 
 ### Sentiment Analysis
 Collecting and processing sentiment data from various sources, including:
 - **Social Media**: Monitoring platforms like Twitter for public opinion.
-- **News Analysis**: Using Natural Language Processing (NLP) to gauge sentiment from news articles.
+- **News Analysis**: Using [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to gauge sentiment from news articles.
 - **Analyst Reports**: Understanding consensus and deviations in analyst expectations.
 
 ### Global Events
@@ -52,7 +52,7 @@ Collecting and integrating data from multiple sources is crucial:
 Several methods can be employed to enhance seasonality detection:
 - **Machine Learning (ML)**: Utilizing supervised and unsupervised learning techniques to identify patterns.
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Applying ARIMA, GARCH, and other models to forecast seasonal components.
-- **Signal Processing**: Using Fourier Transforms to parse out cyclical components from noise.
+- **[Signal Processing](../s/signal_processing_in_trading.md)**: Using Fourier Transforms to parse out cyclical components from noise.
 - **[Anomaly Detection](../a/anomaly_detection.md)**: Techniques like Isolation Forests to detect unusual events.
 
 ## Implementing X-Seasonality Detection in Algorithmic Trading

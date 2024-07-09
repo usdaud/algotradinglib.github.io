@@ -1,6 +1,6 @@
 # Yield-Pricing Models
 
-In the realm of finance and particularly within the domain of [algorithmic trading](../a/algorithmic_trading.md), yield-pricing models hold significant importance. These mathematical models are used to determine the price of a financial instrument based on its yield characteristics. Yield, in this context, generally refers to the earnings generated and realized on an investment over a particular period, expressed as a percentage of the investment’s cost or current market value.
+In the realm of finance and particularly within the domain of [algorithmic trading](../a/algorithmic_trading.md), yield-pricing models hold significant importance. These [mathematical models](../m/mathematical_models_in_trading.md) are used to determine the price of a financial instrument based on its yield characteristics. Yield, in this context, generally refers to the earnings generated and realized on an investment over a particular period, expressed as a percentage of the investment’s cost or current market value.
 
 ## Understanding Yield
 
@@ -85,6 +85,6 @@ Modeling yields accurately involves not just fixed-income securities but also ot
 
 4. **[Risk Management](../r/risk_management.md)**: [Hedging strategies](../h/hedging_strategies.md), such as [interest rate swaps](../i/interest_rate_swaps.md) and futures, rely on accurate yield-pricing models to mitigate the risks associated with interest rate fluctuations.
 
-5. **Regulatory Compliance**: Financial institutions use yield-pricing models to comply with regulatory requirements regarding capital reserves and stress testing, ensuring they maintain sufficient liquidity to cover potential losses.
+5. **Regulatory Compliance**: Financial institutions use yield-pricing models to comply with regulatory requirements regarding capital reserves and [stress testing](../s/stress_testing_in_trading.md), ensuring they maintain sufficient liquidity to cover potential losses.
 
 In summary, yield-pricing models are indispensable tools in the financial industry, offering a precise and analytical basis for pricing a wide range of financial instruments. Their integration into [algorithmic trading](../a/algorithmic_trading.md) platforms has revolutionized the speed and efficiency of trading operations, making yield calculations a cornerstone of modern finance.

@@ -28,7 +28,7 @@ Market sentiment is the overall attitude of investors towards a particular secur
 
 1. **Volatility Index (VIX)**:
    - Often referred to as the "fear gauge," it measures market expectations of near-term volatility.
-   - High VIX values can indicate high uncertainty and potential for sharp market movements.
+   - High VIX values can indicate high [uncertainty](../u/uncertainty_in_trading.md) and potential for sharp market movements.
 
 2. **Surveys and Polls**:
    - Surveys such as the American Association of Individual Investors (AAII) Sentiment Survey.
@@ -62,16 +62,16 @@ When it comes to individual equities, company fundamentals are crucial value dri
 The significance of technology in trading cannot be understated, with advancements in this field contributing substantially to [market efficiency](../m/market_efficiency.md) and [trading strategies](../t/trading_strategies.md). These technological drivers include:
 
 1. **[Algorithmic Trading](../a/algorithmic_trading.md)**:
-   - Utilizes advanced mathematical models and automated systems to execute trades.
+   - Utilizes advanced [mathematical models](../m/mathematical_models_in_trading.md) and automated systems to execute trades.
    - Examples include high-frequency trading (HFT) firms like Citadel Securities (https://www.citadelsecurities.com/).
 
-2. **Artificial Intelligence**:
-   - Machine learning algorithms can analyze vast amounts of data and identify [trading signals](../t/trading_signals.md).
+2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**:
+   - Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze vast amounts of data and identify [trading signals](../t/trading_signals.md).
    - Companies such as BlackRock (https://www.blackrock.com/) integrate AI to enhance trading decisions.
 
-3. **Blockchain Technology**:
+3. **[Blockchain](../b/blockchain_in_trading.md) Technology**:
    - Ensures more transparent, secure, and efficient transactions.
-   - Used in cryptocurrency trading platforms like Coinbase (https://www.coinbase.com/).
+   - Used in cryptocurrency trading platforms like [Coinbase](../c/coinbase.md) (https://www.[coinbase](../c/coinbase.md).com/).
 
 ## Other Influential Factors
 

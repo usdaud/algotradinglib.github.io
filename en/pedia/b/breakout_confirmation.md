@@ -77,7 +77,7 @@ Algorithms can follow predefined rules such as:
 #### 2. Machine Learning Models
 
 Machine learning models can be trained to recognize patterns and confirm breakouts by analyzing historical data. These models can include:
-- **Supervised Learning**: Models like Random Forests or Support Vector Machines (SVM) can classify breakouts by learning from labeled historical data.
+- **Supervised Learning**: Models like [Random Forests](../r/random_forests_in_trading.md) or [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) can classify breakouts by learning from labeled historical data.
 - **Unsupervised Learning**: [Clustering algorithms](../c/clustering_algorithms.md) can identify breakout patterns not immediately apparent.
 
 #### 3. Technical Indicator-Based Algorithms

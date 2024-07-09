@@ -59,7 +59,7 @@ In response to flash crashes, many trading firms have developed more sophisticat
 
 ### AI and Machine Learning
 
-Advancements in artificial intelligence (AI) and machine learning are also being leveraged to predict and mitigate flash crashes. By analyzing historical data and identifying patterns, machine learning models can forecast when market conditions might lead to a flash crash and adjust [trading strategies](../t/trading_strategies.md) accordingly.
+Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are also being leveraged to predict and mitigate flash crashes. By analyzing historical data and identifying patterns, machine learning models can forecast when market conditions might lead to a flash crash and adjust [trading strategies](../t/trading_strategies.md) accordingly.
 
 ### Collaboration Across Markets
 
@@ -73,7 +73,7 @@ For individual investors, flash crashes underscore the importance of robust [ris
 
 ### Psychological Impact
 
-Flash crashes can have a profound psychological impact on investors. Fear and uncertainty during such events can lead to hasty decisions that exacerbate losses. Investors need to remain calm and adhere to their long-term investment strategies rather than reacting impulsively to market turbulence.
+Flash crashes can have a profound psychological impact on investors. Fear and [uncertainty](../u/uncertainty_in_trading.md) during such events can lead to hasty decisions that exacerbate losses. Investors need to remain calm and adhere to their long-term investment strategies rather than reacting impulsively to market turbulence.
 
 ### Institutional Investors
 

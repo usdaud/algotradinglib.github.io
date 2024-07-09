@@ -82,7 +82,7 @@ Ex-ante risk measures heavily rely on statistical techniques and machine learnin
 
 - **Time-Series Analysis:** Techniques such as ARIMA or [GARCH models](../g/garch_models.md) are used to predict future volatility and returns.
 - **Monte Carlo Simulations:** These simulations generate a range of potential outcomes based on historical data, helping to estimate VaR and CVaR.
-- **Machine Learning Algorithms:** Algorithms like random forests or neural networks can be trained on historical data to predict [risk metrics](../r/risk_metrics.md).
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md):** Algorithms like [random forests](../r/random_forests_in_trading.md) or [neural networks](../n/neural_networks_in_trading.md) can be trained on historical data to predict [risk metrics](../r/risk_metrics.md).
 
 #### Software and Tools
 

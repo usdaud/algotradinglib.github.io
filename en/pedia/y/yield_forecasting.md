@@ -1,6 +1,6 @@
 # Yield Forecasting
 
-Yield forecasting is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), offering predictions on the expected returns from financial instruments such as stocks, bonds, commodities, and other investment vehicles. This advanced technique leverages a mix of statistical methodologies, machine learning algorithms, and financial theories to generate forecasts aiming to maximize returns and minimize risks.
+Yield forecasting is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), offering predictions on the expected returns from financial instruments such as stocks, bonds, commodities, and other investment vehicles. This advanced technique leverages a mix of statistical methodologies, machine [learning algorithms](../l/learning_algorithms_in_trading.md), and financial theories to generate forecasts aiming to maximize returns and minimize risks.
 
 ### Key Components of Yield Forecasting
 
@@ -22,15 +22,15 @@ Data collection is the first step in yield forecasting. Relevant data includes h
 Feature engineering involves selecting the right predictors or features that are most influential in determining the yield. This step may include:
 - **[Technical Indicators](../t/technical_indicators.md):** Moving averages, MACD (Moving Average Convergence Divergence), [Bollinger Bands](../b/bollinger_bands.md).
 - **Statistical Measures:** Mean, variance, skewness, kurtosis.
-- **Lagged Variables:** Previous time period values to capture trends.
+- **[Lagged Variables](../l/lagged_variables_in_trading.md):** Previous time period values to capture trends.
 - **Fundamental Indicators:** Earnings, P/E ratios, dividend yields.
 
 #### 3. **Model Selection**
-The core of yield forecasting is the predictive models employed. Different models have varying strengths and weaknesses, and the choice of the model can significantly affect the forecast's accuracy.
+The core of yield forecasting is the [predictive models](../p/predictive_models_in_trading.md) employed. Different models have varying strengths and weaknesses, and the choice of the model can significantly affect the forecast's accuracy.
 
 **Common Models Used:**
 - **Time Series Models:** ARIMA (AutoRegressive Integrated Moving Average), GARCH (Generalized Autoregressive Conditional Heteroskedasticity), [Exponential Smoothing](../e/exponential_smoothing.md).
-- **Machine Learning Models:** [Linear Regression](../l/linear_regression.md), Lasso Regression, Ridge Regression, [Decision Trees](../d/decision_trees.md), Random Forest, Gradient Boosting Machines, Support Vector Machines, Neural Networks.
+- **Machine Learning Models:** [Linear Regression](../l/linear_regression.md), Lasso Regression, Ridge Regression, [Decision Trees](../d/decision_trees.md), Random Forest, Gradient Boosting Machines, [Support Vector Machines](../s/support_vector_machines_in_trading.md), [Neural Networks](../n/neural_networks_in_trading.md).
 - **Deep Learning Models:** LSTM (Long Short-Term Memory networks), GRU (Gated Recurrent Units).
 
 #### 4. **Model Training and Validation**
@@ -44,7 +44,7 @@ After selecting the model, it needs to be trained on historical data and validat
 Common [performance metrics](../p/performance_metrics.md) used to evaluate yield [forecasting models](../f/forecasting_models.md) include:
 - **RMSE (Root [Mean Squared Error](../m/mean_squared_error.md)):** Measures the average magnitude of the forecast errors.
 - **MAE (Mean Absolute Error):** Average absolute difference between actual and predicted values.
-- **R-Squared:** Percentage of the variation explained by the model.
+- **[R-Squared](../r/r-squared_in_trading.md):** Percentage of the variation explained by the model.
 - **[Sharpe Ratio](../s/sharpe_ratio.md):** Measures [risk-adjusted return](../r/risk-adjusted_return.md).
 
 ### Application in Algorithmic Trading
@@ -53,7 +53,7 @@ Yield forecasting is integrated into [algorithmic trading](../a/algorithmic_trad
 
 **Typical Workflow:**
 1. **Market Data Ingestion:** Continuous collection and preprocessing of market data.
-2. **Forecast Generation:** Use predictive models to generate yield forecasts.
+2. **Forecast Generation:** Use [predictive models](../p/predictive_models_in_trading.md) to generate yield forecasts.
 3. **Signal Generation:** Algorithms define buy/sell signals based on forecasted yields.
 4. **Order Execution:** Automated execution of trades according to the signals.
 5. **[Portfolio Management](../p/portfolio_management.md):** Adjusting portfolio holdings to align with yield forecasts.
@@ -95,7 +95,7 @@ Retail platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alp
 Yield forecasting will continue evolving with advancements in AI and computational technologies. Areas likely to see significant improvements include:
 - **Real-Time Forecasting:** Enhanced computational power for immediate data processing and yield predictions.
 - **AI and Deep Learning:** Leveraging advanced AI techniques for more precise and adaptive [forecasting models](../f/forecasting_models.md).
-- **Quantum Computing:** Expected to revolutionize data processing and model optimization in yield forecasting.
+- **[Quantum Computing](../q/quantum_computing_in_trading.md):** Expected to revolutionize data processing and model optimization in yield forecasting.
 
 ### Conclusion
 

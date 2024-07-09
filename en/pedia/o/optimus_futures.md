@@ -6,13 +6,13 @@ Optimus Futures is a futures brokerage firm that provides a wide range of tradin
 ## Key Features
 1. **Futures and Options Trading**: Optimus Futures offers access to a wide array of futures and options markets, including commodities, financials, indices, and more. Clients can trade on major exchanges such as CME, ICE, and EUREX.
 
-2. **Advanced Trading Platforms**: The firm provides multiple trading platforms to suit different trading styles and preferences, including platforms like MetaTrader 5 (MT5), Sierra Chart, MultiCharts, TradingView, and more.
+2. **Advanced Trading Platforms**: The firm provides multiple trading platforms to suit different trading styles and preferences, including platforms like MetaTrader 5 (MT5), [Sierra Chart](../s/sierra_chart.md), [MultiCharts](../m/multicharts.md), [TradingView](../t/tradingview.md), and more.
 
 3. **Low Commissions and Fees**: Optimus Futures offers competitive commissions and low fees, making it cost-effective for active traders.
 
-4. **API Access**: Optimus Futures supports API access for traders who want to integrate their own trading systems or develop custom trading applications.
+4. **API Access**: Optimus Futures supports API access for traders who want to integrate their own [trading systems](../t/trading_systems.md) or develop custom trading applications.
 
-5. **Risk Management Tools**: The firm provides various risk management tools and services to help traders manage their exposure and protect their capital.
+5. **[Risk Management](../r/risk_management.md) Tools**: The firm provides various [risk management](../r/risk_management.md) tools and services to help traders manage their exposure and protect their capital.
 
 6. **Educational Resources**: Optimus Futures offers a wealth of educational materials, including webinars, tutorials, blog posts, and market analysis to help traders improve their skills and stay informed about market developments.
 
@@ -21,7 +21,7 @@ Optimus Futures is a futures brokerage firm that provides a wide range of tradin
 8. **Broker Assisted Trading**: For traders who prefer to have professional assistance, Optimus Futures offers broker-assisted trading services.
 
 ## Benefits
-- **Wide Range of Markets**: Access to a diverse range of futures and options markets allows traders to implement various trading strategies and diversify their portfolios.
+- **Wide Range of Markets**: Access to a diverse range of futures and options markets allows traders to implement various [trading strategies](../t/trading_strategies.md) and diversify their portfolios.
 - **Advanced Technology**: Optimus Futures offers state-of-the-art trading platforms and tools to enhance the trading experience and execution quality.
 - **Personalized Service**: The firm’s commitment to providing personalized service ensures that clients receive the support and assistance they need.
 - **Competitive Pricing**: Low commissions and fees make trading with Optimus Futures cost-effective.
@@ -30,25 +30,25 @@ Optimus Futures is a futures brokerage firm that provides a wide range of tradin
 ## Use Cases
 - **Retail Traders**: Individual traders using Optimus Futures’ platforms and services to trade futures and options markets.
 - **Institutional Clients**: Hedge funds, trading firms, and institutional investors leveraging Optimus Futures’ execution and clearing services.
-- **Algo Traders**: Developers and traders utilizing API access to implement automated trading strategies.
+- **Algo Traders**: Developers and traders utilizing API access to implement automated [trading strategies](../t/trading_strategies.md).
 - **Broker Assisted Trading**: Traders who prefer professional assistance in executing their trades.
 
 ## Integration and APIs
-Optimus Futures supports various trading platforms and APIs to facilitate seamless integration with clients’ trading systems:
+Optimus Futures supports various trading platforms and APIs to facilitate seamless integration with clients’ [trading systems](../t/trading_systems.md):
 - **MetaTrader 5 API**: Comprehensive API for accessing market data and executing trades on the MT5 platform.
-- **Sierra Chart API**: Advanced API for custom trading strategies and integration with Sierra Chart.
-- **MultiCharts API**: Flexible API for algorithmic trading and custom strategy development on MultiCharts.
+- **[Sierra Chart](../s/sierra_chart.md) API**: Advanced API for custom [trading strategies](../t/trading_strategies.md) and integration with [Sierra Chart](../s/sierra_chart.md).
+- **[MultiCharts](../m/multicharts.md) API**: Flexible API for [algorithmic trading](../a/algorithmic_trading.md) and custom strategy development on [MultiCharts](../m/multicharts.md).
 
 ## Clients and Partners
 Optimus Futures serves a diverse range of clients, including:
 - **Retail Traders**: Individual investors and traders using Optimus Futures’ platforms for futures and options trading.
 - **Institutional Clients**: Hedge funds, trading firms, and institutional investors leveraging Optimus Futures’ execution and clearing services.
-- **Algo Traders**: Developers and traders utilizing Optimus Futures’ APIs for automated trading strategies.
+- **Algo Traders**: Developers and traders utilizing Optimus Futures’ APIs for automated [trading strategies](../t/trading_strategies.md).
 - **Introducing Brokers**: IBs partnering with Optimus Futures to provide futures trading services to their clients.
 
 ## Regulatory Compliance
 Optimus Futures is a registered introducing broker (IB) and is regulated by:
-- **Commodity Futures Trading Commission (CFTC)**
+- **[Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC)**
 - **National Futures Association (NFA)**
 
 These regulatory bodies ensure that Optimus Futures adheres to strict standards of financial integrity and customer protection.

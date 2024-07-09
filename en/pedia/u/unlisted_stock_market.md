@@ -1,7 +1,7 @@
 # Unlisted Stock Market
 
 ### Introduction
-The unlisted stock market pertains to the realm of securities that are not available on formal exchanges such as the New York Stock Exchange (NYSE) or NASDAQ. This market plays a crucial role in the financial ecosystem, providing opportunities for businesses to raise capital and for investors to diversify their portfolios. Unlisted stocks are often traded in over-the-counter (OTC) markets or through alternative [trading systems](../t/trading_systems.md) (ATS).
+The unlisted stock market pertains to the realm of securities that are not available on formal exchanges such as the New York Stock Exchange (NYSE) or NASDAQ. This market plays a crucial role in the financial ecosystem, providing opportunities for businesses to raise capital and for investors to diversify their portfolios. Unlisted stocks are often traded in [over-the-counter (OTC) markets](../o/over-the-counter_markets.md) or through alternative [trading systems](../t/trading_systems.md) (ATS).
 
 ### Characteristics of Unlisted Stocks
 Unlisted stocks differ from their listed counterparts in several distinct ways:
@@ -11,7 +11,7 @@ Unlisted stocks differ from their listed counterparts in several distinct ways:
 4. **Valuation**: Valuing unlisted stocks can be more complex due to the lack of readily available market prices and comprehensive financial data.
 
 ### Methods of Trading Unlisted Stocks
-Unlisted stocks can be traded through two primary methods: over-the-counter (OTC) markets and alternative [trading systems](../t/trading_systems.md) (ATS).
+Unlisted stocks can be traded through two primary methods: [over-the-counter (OTC) markets](../o/over-the-counter_markets.md) and alternative [trading systems](../t/trading_systems.md) (ATS).
 
 #### Over-The-Counter (OTC) Markets
 OTC markets involve the trading of securities directly between parties without a central exchange. Examples of OTC markets include:
@@ -51,7 +51,7 @@ The unlisted stock market is governed by a patchwork of federal and state regula
 
 ### Technological Innovations
 Recent technological advancements have significantly impacted the unlisted stock market. Key innovations include:
-- **Blockchain Technology**: Provides transparent and secure methods for issuing and trading unlisted stocks.
+- **[Blockchain](../b/blockchain_in_trading.md) Technology**: Provides transparent and secure methods for issuing and trading unlisted stocks.
 - **Digital Platforms**: Online trading platforms and apps have made it easier for smaller investors to access unlisted stocks.
 - **Crowdfunding**: Equity crowdfunding platforms have opened new avenues for startups and small companies to raise capital in exchange for shares.
 

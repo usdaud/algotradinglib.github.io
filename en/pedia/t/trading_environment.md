@@ -36,7 +36,7 @@ Regulations ensure market integrity, protect investors, and maintain fair and or
 
 Various entities participate in the trading environment, each with different motivations, strategies, and impacts on the market.
 
-- **Retail Investors**: Individual investors trading for personal accounts, typically through brokerage platforms like [Robinhood](../r/robinhood.md) (https://www.[robinhood](../r/robinhood.md).com) and E*TRADE (https://us.etrade.com).
+- **Retail Investors**: Individual investors trading for personal accounts, typically through brokerage platforms like [Robinhood](../r/robinhood.md) (https://www.[robinhood](../r/robinhood.md).com) and [E*TRADE](../e/e_trade.md) (https://us.etrade.com).
 
 - **Institutional Investors**: Large organizations such as mutual funds, pension funds, and insurance companies managing significant assets. Examples include BlackRock (https://www.blackrock.com) and Vanguard Group (https://www.vanguard.com).
 
@@ -62,7 +62,7 @@ To effectively navigate the trading environment, traders and institutions must i
 
 - **Trade [Execution Algorithms](../e/execution_algorithms.md)**: Designed to optimize the execution of orders by minimizing market impact and reducing costs. [Execution algorithms](../e/execution_algorithms.md), such as VWAP (Volume Weighted Average Price) and TWAP (Time Weighted Average Price), help achieve better fills for large orders.
 
-- **Continuous Research and Development**: Staying ahead in the trading environment requires constant innovation and adaptation. Developing new [trading strategies](../t/trading_strategies.md), improving algorithms, and utilizing big data analytics can lead to competitive advantages.
+- **Continuous Research and Development**: Staying ahead in the trading environment requires constant innovation and adaptation. Developing new [trading strategies](../t/trading_strategies.md), improving algorithms, and utilizing [big data analytics](../b/big_data_analytics_in_trading.md) can lead to competitive advantages.
 
 - **Connectivity and Network Infrastructure**: Ensuring high-speed, reliable connections to market data providers, exchanges, and trading platforms. Network redundancy and low-latency connections are vital for maintaining trading operations.
 

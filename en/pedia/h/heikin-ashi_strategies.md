@@ -19,7 +19,7 @@ Heikin-Ashi candlesticks are calculated using the following formulas:
 
 ### Significance in Algo Trading
 
-The Heikin-Ashi technique smoothens price data, reducing the number of false signals and making it easier to spot trends. This makes it especially useful in [algorithmic trading](../a/algorithmic_trading.md), where the clarity and strength of trend signals can be critical. Algorithms can be programmed to automatically execute trades based on Heikin-Ashi indicators, removing the emotional element from trading decisions and improving efficiency.
+The Heikin-Ashi technique smoothens price data, reducing the number of [false signals](../f/false_signals_in_trading.md) and making it easier to spot trends. This makes it especially useful in [algorithmic trading](../a/algorithmic_trading.md), where the clarity and strength of trend signals can be critical. Algorithms can be programmed to automatically execute trades based on Heikin-Ashi indicators, removing the emotional element from trading decisions and improving efficiency.
 
 ### Key Heikin-Ashi Trading Strategies
 

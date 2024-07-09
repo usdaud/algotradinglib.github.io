@@ -20,7 +20,7 @@ Theta decay is especially relevant in the context of time-sensitive [trading str
 
 Theta is usually expressed as a negative number and is calculated on a per-day basis. For example, a theta value of -0.05 indicates that the option will lose $0.05 in value each day. 
 
-The calculation of theta is complex and typically requires the use of mathematical models, such as the [Black-Scholes model](../b/black-scholes_model.md), to estimate. The primary factors influencing theta are:
+The calculation of theta is complex and typically requires the use of [mathematical models](../m/mathematical_models_in_trading.md), such as the [Black-Scholes model](../b/black-scholes_model.md), to estimate. The primary factors influencing theta are:
 
 1. **Time to Expiration**: The closer the option is to expiration, the higher the theta.
 2. **Volatility**: Options on more volatile securities tend to have higher theta.

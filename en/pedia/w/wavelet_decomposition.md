@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Wavelet decomposition is a mathematical tool used to analyze and represent signals in multiple resolutions or scales. It has numerous applications in various fields such as signal processing, image compression, and, notably, [algorithmic trading](../a/algorithmic_trading.md). Wavelet decomposition can handle data that is non-stationary, making it highly suitable for [financial time series](../f/financial_time_series.md) that exhibit non-stationarity behaviors like stock prices, forex rates, and commodity prices.
+Wavelet decomposition is a mathematical tool used to analyze and represent signals in multiple resolutions or scales. It has numerous applications in various fields such as [signal processing](../s/signal_processing_in_trading.md), image compression, and, notably, [algorithmic trading](../a/algorithmic_trading.md). Wavelet decomposition can handle data that is non-stationary, making it highly suitable for [financial time series](../f/financial_time_series.md) that exhibit non-stationarity behaviors like stock prices, forex rates, and commodity prices.
 
 ## Overview of Wavelet Decomposition
 
@@ -22,7 +22,7 @@ The core idea of wavelet decomposition can be mathematically described using the
 
 where \( a \) is the scaling parameter and \( b \) is the translation parameter.
 
-The wavelet transform of a signal f(t) is defined as:
+The [wavelet transform](../w/wavelet_transform_in_trading.md) of a signal f(t) is defined as:
 
 \[ \text{Wf}(a,b) = \int_{-\infty}^{\infty} f(t) \overline{\psi_{a,b}(t)} dt \]
 
@@ -36,7 +36,7 @@ Common wavelets used in financial applications include Haar, Daubechies, Coiflet
 
 ### Step 2: Performing Discrete Wavelet Transform (DWT)
 
-The Discrete Wavelet Transform is applied to obtain the coefficients at various levels. This involves:
+The Discrete [Wavelet Transform](../w/wavelet_transform_in_trading.md) is applied to obtain the coefficients at various levels. This involves:
 
 1. **Convolving the signal with the wavelet function** to obtain detail coefficients.
 2. **Convolving the signal with the scaling function** to obtain approximation coefficients.
@@ -68,7 +68,7 @@ High-frequency [trading strategies](../t/trading_strategies.md) benefit from the
 
 ### Predictive Modeling
 
-Wavelet-decomposed features can significantly improve the performance of predictive models like neural networks and support vector machines (SVMs). These models can better capture the underlying dynamics of the market when trained on wavelet-transformed data.
+Wavelet-decomposed features can significantly improve the performance of [predictive models](../p/predictive_models_in_trading.md) like [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md) (SVMs). These models can better capture the underlying dynamics of the market when trained on wavelet-transformed data.
 
 ### Example: Application in Stock Market Prediction
 
@@ -82,10 +82,10 @@ In Forex trading, wavelet decomposition can be utilized to filter out market noi
 
 ### Python Libraries
 
-- **PyWavelets**: An open-source library for wavelet transform in Python. It supports a wide range of wavelet families and provides functions for one-dimensional and two-dimensional decomposition.
+- **PyWavelets**: An open-source library for [wavelet transform](../w/wavelet_transform_in_trading.md) in Python. It supports a wide range of wavelet families and provides functions for one-dimensional and two-dimensional decomposition.
   [PyWavelets](https://pywavelets.readthedocs.io/en/latest/)
 
-- **WaveletToolbox**: Another Python-based tool for [wavelet analysis](../w/wavelet_analysis.md) tailored for signal processing applications, often used in financial data analysis.
+- **WaveletToolbox**: Another Python-based tool for [wavelet analysis](../w/wavelet_analysis.md) tailored for [signal processing](../s/signal_processing_in_trading.md) applications, often used in financial data analysis.
   [WaveletToolbox](https://pypi.org/project/WaveletToolbox/)
 
 ### MATLAB

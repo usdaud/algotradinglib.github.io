@@ -62,7 +62,7 @@ Plotting [backtesting](../b/backtesting.md) results (returns) on the Y-axis agai
 
 ## Tools and Technologies
 
-Several software tools facilitate the creation and analysis of X-Y graphs in [algorithmic trading](../a/algorithmic_trading.md):
+Several [software tools](../s/software_tools_for_trading.md) facilitate the creation and analysis of X-Y graphs in [algorithmic trading](../a/algorithmic_trading.md):
 
 ### 1. **Python (Matplotlib, Seaborn)**
 
@@ -138,7 +138,7 @@ Statistical [Arbitrage](../a/arbitrage.md) (StatArb) involves the use of quantit
 
 ### Example Firms:
 - [Jane Street](https://www.janestreet.com/): Known for its expertise in [proprietary trading](../p/proprietary_trading.md) and advanced statistical methods.
-- [Two Sigma](https://www.twosigma.com/): Utilizes big data and machine learning to develop sophisticated [trading strategies](../t/trading_strategies.md).
+- [Two Sigma](https://www.twosigma.com/): Utilizes [big data](../b/big_data_in_trading.md) and machine learning to develop sophisticated [trading strategies](../t/trading_strategies.md).
 
 ## Challenges and Considerations
 

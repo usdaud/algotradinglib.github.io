@@ -1,6 +1,6 @@
 # 6-Week Cycle
 
-In the constantly evolving landscape of [algorithmic trading](../a/algorithmic_trading.md), patterns and cycles play crucial roles in predicting market behavior. One such pattern that has drawn considerable interest among traders and analysts is the 6-week cycle. This cycle is characterized by consistent, recurring movements in the market over a nearly unified period of six weeks. Understanding the intricacies and the mechanics behind this cycle can provide significant advantages to algorithmic traders, who rely heavily on mathematical models and automated systems for making informed trading decisions.
+In the constantly evolving landscape of [algorithmic trading](../a/algorithmic_trading.md), patterns and cycles play crucial roles in predicting market behavior. One such pattern that has drawn considerable interest among traders and analysts is the 6-week cycle. This cycle is characterized by consistent, recurring movements in the market over a nearly unified period of six weeks. Understanding the intricacies and the mechanics behind this cycle can provide significant advantages to algorithmic traders, who rely heavily on [mathematical models](../m/mathematical_models_in_trading.md) and automated systems for making informed trading decisions.
 
 ## Historical Context and Identification
 

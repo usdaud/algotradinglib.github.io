@@ -70,7 +70,7 @@ Website: [NYSE](https://www.nyse.com/)
 
 ### Binance
 
-In the cryptocurrency market, exchanges like Binance maintain LOBs for various digital assets. Traders can view detailed order book data to make informed decisions about buying and selling cryptocurrencies.
+In the cryptocurrency market, exchanges like [Binance](../b/binance.md) maintain LOBs for various digital assets. Traders can view detailed order book data to make informed decisions about buying and selling cryptocurrencies.
 
 Website: [Binance](https://www.binance.com/)
 

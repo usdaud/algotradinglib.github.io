@@ -51,7 +51,7 @@ These indexes use fundamental metrics such as earnings, dividends, book value, o
 
 ## Algorithmic Trading Strategies Utilizing Weighted Index Funds
 
-[Algorithmic trading](../a/algorithmic_trading.md) involves the use of complex algorithms and mathematical models to decide the timing, price, and volume of trades. When applied to weighted index funds, several strategies can be employed:
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md) to decide the timing, price, and volume of trades. When applied to weighted index funds, several strategies can be employed:
 
 ### Mean Reversion
 This strategy assumes that asset prices will revert to their historical mean levels. In the context of weighted index funds, an algorithm may identify overbought or oversold conditions and execute trades to capture the reversion to the mean.

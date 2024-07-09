@@ -62,7 +62,7 @@ Since market-cap weighting automatically adjusts by price movement of the consti
 
 #### Over-Concentration in Large-Cap Stocks
 
-One critical disadvantage is the potential over-concentration in large-cap stocks. This may lead the index to be disproportionately influenced by the movements of the largest companies, reducing the impact of smaller stocks' performance on the index.
+One critical disadvantage is the potential over-concentration in [large-cap stocks](../l/large_cap_stocks.md). This may lead the index to be disproportionately influenced by the movements of the largest companies, reducing the impact of smaller stocks' performance on the index.
 
 #### Bubble Risk
 

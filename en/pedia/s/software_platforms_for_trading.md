@@ -1,10 +1,10 @@
 # Software Platforms
 
-[Algorithmic trading](../a/algorithmic_trading.md), often abbreviated as algo trading or automated trading, refers to the use of computer algorithms to automate the process of buying and selling financial assets in the market. These algorithms are designed to follow predefined rules that range from simple decision-making criteria to complex mathematical models. To implement and execute these algorithms efficiently, traders and financial institutions leverage various software platforms specifically designed for trading. This document explores some of the most prominent software platforms used in [algorithmic trading](../a/algorithmic_trading.md).
+[Algorithmic trading](../a/algorithmic_trading.md), often abbreviated as algo trading or automated trading, refers to the use of computer algorithms to automate the process of buying and selling financial assets in the market. These algorithms are designed to follow predefined rules that range from simple decision-making criteria to complex [mathematical models](../m/mathematical_models_in_trading.md). To implement and execute these algorithms efficiently, traders and financial institutions leverage various software platforms specifically designed for trading. This document explores some of the most prominent software platforms used in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### MetaTrader 4 and 5 (MT4 and MT5)
 
-MetaTrader 4 and MetaTrader 5, developed by MetaQuotes Software, are some of the most widely used platforms in retail FX and CFD trading. MT4, launched in 2005, gained immense popularity due to its user-friendly interface and robust charting tools. MT5, introduced in 2010, is more advanced than MT4, offering additional features such as more timeframes, order types, and market depth. Both platforms support [algorithmic trading](../a/algorithmic_trading.md) through Expert Advisors (EAs), which are custom scripts written in MQL4 for MT4 and MQL5 for MT5, allowing for the automation of [trading strategies](../t/trading_strategies.md).
+MetaTrader 4 and MetaTrader 5, developed by MetaQuotes Software, are some of the most widely used platforms in retail FX and CFD trading. MT4, launched in 2005, gained immense popularity due to its user-friendly interface and robust charting tools. MT5, introduced in 2010, is more advanced than MT4, offering additional features such as more timeframes, [order types](../o/order_types_in_trading.md), and market depth. Both platforms support [algorithmic trading](../a/algorithmic_trading.md) through Expert Advisors (EAs), which are custom scripts written in MQL4 for MT4 and MQL5 for MT5, allowing for the automation of [trading strategies](../t/trading_strategies.md).
 
 - [MetaQuotes Software](https://www.metaquotes.net/)
 
@@ -22,7 +22,7 @@ Trading Technologies International, Inc. (TT) provides a high-performance tradin
 
 ### Interactive Brokers (IBKR) TWS
 
-Interactive Brokers’ Trader Workstation (TWS) is a highly robust and customizable platform that supports a wide range of asset classes, including stocks, options, futures, forex, bonds, and funds. TWS provides [algorithmic trading](../a/algorithmic_trading.md) capabilities, which can be accessed through various programming languages, including Java, C++, and Python, leveraging the IBKR API. This extensive programming support makes Interactive Brokers a popular choice among professional and retail traders alike.
+[Interactive Brokers](../i/interactive_brokers.md)’ Trader Workstation (TWS) is a highly robust and customizable platform that supports a wide range of asset classes, including stocks, options, futures, forex, bonds, and funds. TWS provides [algorithmic trading](../a/algorithmic_trading.md) capabilities, which can be accessed through various programming languages, including Java, C++, and Python, leveraging the IBKR API. This extensive programming support makes [Interactive Brokers](../i/interactive_brokers.md) a popular choice among professional and retail traders alike.
 
 - [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=16035)
 
@@ -34,19 +34,19 @@ Interactive Brokers’ Trader Workstation (TWS) is a highly robust and customiza
 
 ### MetaStock
 
-MetaStock is another well-regarded trading platform that offers robust charting and [technical analysis](../t/technical_analysis.md) tools. It is widely used for market analysis and strategy testing. MetaStock supports automated trading through its MetaStock Real Time and MetaStock Daily Charting software, where traders can develop custom [trading systems](../t/trading_systems.md) using the platform's proprietary MetaStock Formula Language (MSFL).
+[MetaStock](../m/metastock.md) is another well-regarded trading platform that offers robust charting and [technical analysis](../t/technical_analysis.md) tools. It is widely used for market analysis and strategy testing. [MetaStock](../m/metastock.md) supports automated trading through its [MetaStock](../m/metastock.md) Real Time and [MetaStock](../m/metastock.md) Daily Charting software, where traders can develop custom [trading systems](../t/trading_systems.md) using the platform's proprietary [MetaStock](../m/metastock.md) Formula Language (MSFL).
 
 - [MetaStock](https://www.metastock.com/)
 
 ### MultiCharts
 
-[MultiCharts](../m/multicharts.md) is designed for both institutional and retail traders who engage in [algorithmic trading](../a/algorithmic_trading.md). It supports multiple brokers, including Interactive Brokers and [TradeStation](../t/tradestation.md). The platform offers advanced charting capabilities, strategy [backtesting](../b/backtesting.md), and optimization tools. [MultiCharts](../m/multicharts.md) uses EasyLanguage for scripting, which is also used by [TradeStation](../t/tradestation.md), making it easy for users to migrate between the two platforms. 
+[MultiCharts](../m/multicharts.md) is designed for both institutional and retail traders who engage in [algorithmic trading](../a/algorithmic_trading.md). It supports multiple brokers, including [Interactive Brokers](../i/interactive_brokers.md) and [TradeStation](../t/tradestation.md). The platform offers advanced charting capabilities, strategy [backtesting](../b/backtesting.md), and optimization tools. [MultiCharts](../m/multicharts.md) uses EasyLanguage for scripting, which is also used by [TradeStation](../t/tradestation.md), making it easy for users to migrate between the two platforms. 
 
 - [MultiCharts](https://www.multicharts.com/)
 
 ### Sierra Chart
 
-Sierra Chart is a professional trading platform offering high-performance charting and trading functionalities. It supports [algorithmic trading](../a/algorithmic_trading.md) through Advanced Custom Study Interface and Language (ACSIL), which is integrated with C++ for creating custom studies and [trading systems](../t/trading_systems.md). Sierra Chart stands out for its focus on performance and low latency, making it a favorite among high-frequency traders.
+[Sierra Chart](../s/sierra_chart.md) is a professional trading platform offering high-performance charting and trading functionalities. It supports [algorithmic trading](../a/algorithmic_trading.md) through Advanced Custom Study Interface and Language (ACSIL), which is integrated with C++ for creating custom studies and [trading systems](../t/trading_systems.md). [Sierra Chart](../s/sierra_chart.md) stands out for its focus on performance and low latency, making it a favorite among high-frequency traders.
 
 - [Sierra Chart](https://www.sierrachart.com/)
 

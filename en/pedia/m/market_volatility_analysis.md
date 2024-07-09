@@ -10,15 +10,15 @@ Market volatility refers to the degree of variation of a trading price series ov
 
 3. **Implied Volatility (IV)**: Implied volatility, derived from option prices, is a forward-looking metric reflecting the market's expectations of future volatility. Unlike [historical volatility](../h/historical_volatility.md), it doesn't rely on past price movements but on the premiums paid to trade options. It is crucial for options traders, as high implied volatility often results in higher option premiums.
 
-4. **Volatility Index (VIX)**: Known as the "fear gauge," the VIX is a popular measure of the implied volatility of S&P 500 [index options](../i/index_options.md). Calculated by the Chicago Board Options Exchange (CBOE), the VIX provides insights into market sentiment and potential market turbulence. A higher VIX indicates increased market uncertainty.
+4. **Volatility Index (VIX)**: Known as the "fear gauge," the VIX is a popular measure of the implied volatility of S&P 500 [index options](../i/index_options.md). Calculated by the Chicago Board Options Exchange (CBOE), the VIX provides insights into market sentiment and potential market turbulence. A higher VIX indicates increased market [uncertainty](../u/uncertainty_in_trading.md).
 
 5. **[Volatility Clustering](../v/volatility_clustering.md)**: [Volatility clustering](../v/volatility_clustering.md) refers to the phenomenon where high or low volatility periods tend to cluster together. This implies that markets often experience bursts of volatility followed by periods of tranquility. Understanding [volatility clustering](../v/volatility_clustering.md) helps traders predict potential periods of high volatility.
 
-6. **Autoregressive Conditional Heteroskedasticity (ARCH) and Generalized ARCH (GARCH)**: These are econometric models used to analyze and forecast time series data, particularly volatility. ARCH and [GARCH models](../g/garch_models.md) capture [volatility clustering](../v/volatility_clustering.md) by modelling the current period's volatility as a function of past periods' squared returns. They are pivotal in financial econometrics.
+6. **Autoregressive Conditional Heteroskedasticity (ARCH) and Generalized ARCH (GARCH)**: These are econometric models used to analyze and forecast time series data, particularly volatility. ARCH and [GARCH models](../g/garch_models.md) capture [volatility clustering](../v/volatility_clustering.md) by modelling the current period's volatility as a function of past periods' squared returns. They are pivotal in financial [econometrics](../e/econometrics_in_trading.md).
 
-7. **Leverage Effect**: The leverage effect describes the tendency for volatility to increase when stock prices decrease, especially during market downturns. It is attributed to the rising debt-to-equity ratio as stock prices fall. Traders monitor this effect to anticipate heightened volatility during market declines.
+7. **[Leverage Effect](../l/leverage_effect_in_trading.md)**: The [leverage effect](../l/leverage_effect_in_trading.md) describes the tendency for volatility to increase when stock prices decrease, especially during market downturns. It is attributed to the rising debt-to-equity ratio as stock prices fall. Traders monitor this effect to anticipate heightened volatility during market declines.
 
-8. **Fat Tails and Skewness**: Financial return distributions often exhibit heavy tails and skewness, deviating from the normal distribution. Fat tails indicate more frequent extreme price movements, while skewness signals asymmetric return distributions. These characteristics inform [risk management](../r/risk_management.md) and strategy development.
+8. **Fat Tails and Skewness**: Financial return distributions often exhibit heavy tails and skewness, deviating from the [normal distribution](../n/normal_distribution_in_trading.md). Fat tails indicate more frequent extreme price movements, while skewness signals asymmetric return distributions. These characteristics inform [risk management](../r/risk_management.md) and strategy development.
 
 ### Practical Applications of Volatility Analysis
 
@@ -32,7 +32,7 @@ Market volatility refers to the degree of variation of a trading price series ov
 
 ### Advanced Volatility Metrics and Models
 
-- **[Stochastic Volatility Models](../s/stochastic_volatility_models.md)**: Unlike deterministic models (e.g., GARCH), [stochastic volatility models](../s/stochastic_volatility_models.md) assume that volatility is a random process. The Heston model, for instance, incorporates [mean reversion](../m/mean_reversion.md) and allows for more realistic volatility dynamics, aligning well with empirical data.
+- **[Stochastic Volatility Models](../s/stochastic_volatility_models.md)**: Unlike [deterministic models](../d/deterministic_models_in_trading.md) (e.g., GARCH), [stochastic volatility models](../s/stochastic_volatility_models.md) assume that volatility is a random process. The Heston model, for instance, incorporates [mean reversion](../m/mean_reversion.md) and allows for more realistic volatility dynamics, aligning well with empirical data.
 
 - **[Realized Volatility](../r/realized_volatility.md)**: [Realized volatility](../r/realized_volatility.md) is calculated from high-frequency intraday returns, offering a more granular volatility measure than traditional daily returns. It captures intra-day price variations, providing deeper insights into short-term volatility dynamics.
 

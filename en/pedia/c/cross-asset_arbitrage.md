@@ -52,7 +52,7 @@ Many modern traders employ high-frequency [trading systems](../t/trading_systems
 
 ### Quantitative Funds
 
-Quantitative funds, such as Renaissance Technologies (www.rentec.com), are renowned for their use of complex mathematical models to identify [arbitrage](../a/arbitrage.md) opportunities. These funds often employ cross-asset strategies to diversify their trading and minimize risk.
+Quantitative funds, such as Renaissance Technologies (www.rentec.com), are renowned for their use of complex [mathematical models](../m/mathematical_models_in_trading.md) to identify [arbitrage](../a/arbitrage.md) opportunities. These funds often employ cross-asset strategies to diversify their trading and minimize risk.
 
 ## Tools and Technologies
 

@@ -36,7 +36,7 @@ def exponential_moving_average(data, window):
 
 ### 2. Kalman Filter
 
-The Kalman Filter is a recursive algorithm used to estimate the state of a dynamic system from a series of noisy measurements. It is particularly useful for [financial time series](../f/financial_time_series.md) data as it can filter out the noise and provide more accurate estimates of underlying trends.
+The [Kalman Filter](../k/kalman_filter_in_trading.md) is a recursive algorithm used to estimate the state of a dynamic system from a series of noisy measurements. It is particularly useful for [financial time series](../f/financial_time_series.md) data as it can filter out the noise and provide more accurate estimates of underlying trends.
 
 ```python
 import numpy as np
@@ -101,7 +101,7 @@ def savitzky_golay_filter(data, window_size, polyorder):
 
 ### 5. Wavelet Transform
 
-Wavelet Transform is an advanced technique that decomposes a time series into different frequency components, allowing for multi-resolution analysis. It is flexible and can handle non-stationary time series effectively.
+[Wavelet Transform](../w/wavelet_transform_in_trading.md) is an advanced technique that decomposes a time series into different frequency components, allowing for multi-resolution analysis. It is flexible and can handle non-stationary time series effectively.
 
 ```python
 import pywt
@@ -116,7 +116,7 @@ def wavelet_transform(data, wavelet='db4', level=1):
 
 ### 6. Hodrick-Prescott Filter
 
-The Hodrick-Prescott (HP) filter is a tool used in macroeconomics, especially in business cycle theory, to remove the cyclical component of a time series from raw data. It uses a lambda value to control the level of smoothing.
+The Hodrick-Prescott (HP) filter is a tool used in macroeconomics, especially in business cycle theory, to remove the cyclical component of a time series from raw data. It uses a [lambda value](../l/lambda_value_in_trading.md) to control the level of smoothing.
 
 ```python
 from statsmodels.tsa.filters.hp_filter import hpfilter
@@ -128,7 +128,7 @@ def hodrick_prescott_filter(data, lamb=1600):
 
 ### 7. Bayesian Estimators
 
-Bayesian Estimators use Bayes' theorem to update the probability estimate as more evidence or information becomes available. It accounts for uncertainty in the predictions which can be very useful for noisy financial data.
+Bayesian Estimators use Bayes' theorem to update the probability estimate as more evidence or information becomes available. It accounts for [uncertainty](../u/uncertainty_in_trading.md) in the predictions which can be very useful for noisy financial data.
 
 ```python
 import pymc3 as pm
@@ -146,7 +146,7 @@ def bayesian_estimator(data):
 
 ### 8. Robust Statistics
 
-Robust statistics are techniques that are not unduly affected by outliers and other small departures from model assumptions.
+[Robust statistics](../r/robust_statistics_in_trading.md) are techniques that are not unduly affected by outliers and other small departures from model assumptions.
 
 #### Median Absolute Deviation (MAD)
 
@@ -162,8 +162,8 @@ def median_absolute_deviation(data):
 
 ## Conclusion
 
-Effective noise reduction techniques are critical for the success of [algorithmic trading](../a/algorithmic_trading.md) strategies. By employing methods such as Moving Averages, Kalman Filter, Fourier Transform, Savitzky-Golay Filter, Wavelet Transform, Hodrick-Prescott Filter, Bayesian Estimators, and Robust Statistics, traders can better isolate meaningful signals from the noise. This enables more accurate predictions, reduces trading risks, and improves overall performance in financial markets.
+Effective noise reduction techniques are critical for the success of [algorithmic trading](../a/algorithmic_trading.md) strategies. By employing methods such as Moving Averages, [Kalman Filter](../k/kalman_filter_in_trading.md), Fourier Transform, Savitzky-Golay Filter, [Wavelet Transform](../w/wavelet_transform_in_trading.md), Hodrick-Prescott Filter, Bayesian Estimators, and [Robust Statistics](../r/robust_statistics_in_trading.md), traders can better isolate meaningful signals from the noise. This enables more accurate predictions, reduces trading risks, and improves overall performance in financial markets.
 
-Additionally, continuous research and advancements in machine learning and artificial intelligence are opening up new avenues for even more sophisticated noise reduction techniques.
+Additionally, continuous research and advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are opening up new avenues for even more sophisticated noise reduction techniques.
 
 For more information about advanced noise reduction techniques in [algorithmic trading](../a/algorithmic_trading.md), you can visit [QuantConnect](https://www.quantconnect.com) or [Alpha Vantage](https://www.alphavantage.co/).

@@ -46,7 +46,7 @@ Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models are wid
 
 ### Stochastic Volatility Models
 
-[Stochastic volatility models](../s/stochastic_volatility_models.md), such as the Heston model, assume that volatility is driven by random processes. These models provide a more flexible approach, capturing the dynamic nature of volatility better than deterministic models.
+[Stochastic volatility models](../s/stochastic_volatility_models.md), such as the Heston model, assume that volatility is driven by random processes. These models provide a more flexible approach, capturing the dynamic nature of volatility better than [deterministic models](../d/deterministic_models_in_trading.md).
 
 ### Monte Carlo Simulation
 
@@ -70,7 +70,7 @@ MATLAB is widely used for mathematical computing and offers robust toolkits for 
 
 ### R
 
-R is a statistical computing environment that provides various packages for financial econometrics, including GARCH and stochastic volatility modeling.
+R is a statistical computing environment that provides various packages for financial [econometrics](../e/econometrics_in_trading.md), including GARCH and stochastic volatility modeling.
 
 [R Project for Statistical Computing](https://www.r-project.org/)
 
@@ -112,4 +112,4 @@ The IVI, provided by several financial data providers, measures volatility trend
 
 ## Conclusion
 
-[Volatility structure](../v/volatility_structure.md) analysis is a cornerstone of contemporary [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md). By leveraging various models and tools to understand and predict market volatility, traders can develop better strategies, manage risks effectively, and make more informed trading decisions. As technology and data science evolve, the methods for analyzing volatility structures continue to improve, offering ever more significant opportunities for those engaged in financial markets.
+[Volatility structure](../v/volatility_structure.md) analysis is a cornerstone of contemporary [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md). By leveraging various models and tools to understand and predict market volatility, traders can develop better strategies, manage risks effectively, and make more informed trading decisions. As technology and [data science](../d/data_science_in_trading.md) evolve, the methods for analyzing volatility structures continue to improve, offering ever more significant opportunities for those engaged in financial markets.

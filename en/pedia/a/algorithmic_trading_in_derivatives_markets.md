@@ -1,6 +1,6 @@
 # Algorithmic Trading in Derivatives Markets
 
-[Algorithmic trading](../a/algorithmic_trading.md), also known as automated trading, black-box trading, or algo-trading, involves the use of computer algorithms to execute a large volume of trades at very high speeds. These algorithms are designed to follow pre-defined set of rules or instructions based on timing, price, quantity, or other mathematical models. [Algorithmic trading](../a/algorithmic_trading.md) is widely used in various financial markets, including the [derivatives](../d/derivatives.md) markets. A derivative is a financial security with a value that is reliant upon, or derived from, an underlying asset or group of assets—a benchmark. The derivative itself is a contract between two or more parties based upon the asset or assets. Its price is determined by fluctuations in the underlying asset.
+[Algorithmic trading](../a/algorithmic_trading.md), also known as automated trading, black-box trading, or algo-trading, involves the use of computer algorithms to execute a large volume of trades at very high speeds. These algorithms are designed to follow pre-defined set of rules or instructions based on timing, price, quantity, or other [mathematical models](../m/mathematical_models_in_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) is widely used in various financial markets, including the [derivatives](../d/derivatives.md) markets. A derivative is a financial security with a value that is reliant upon, or derived from, an underlying asset or group of assets—a benchmark. The derivative itself is a contract between two or more parties based upon the asset or assets. Its price is determined by fluctuations in the underlying asset.
 
 ### Key Concepts in Algorithmic Trading in Derivatives Markets
 
@@ -48,7 +48,7 @@ Effective [risk management](../r/risk_management.md) strategies are crucial to m
 1. **[Position Sizing](../p/position_sizing.md)**: Ensuring that no single trade risks a substantial portion of capital.
 2. **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Pre-defined levels at which positions are automatically closed to prevent further losses.
 3. **Diversification**: Spreading investments across various [derivatives](../d/derivatives.md) and strategies to reduce risk.
-4. **Stress Testing**: Simulating extreme market conditions to evaluate the resilience of [trading algorithms](../t/trading_algorithms.md).
+4. **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating extreme market conditions to evaluate the resilience of [trading algorithms](../t/trading_algorithms.md).
 
 ### Popular Algorithmic Trading Firms in Derivatives Markets
 
@@ -57,7 +57,7 @@ Renaissance Technologies is one of the most successful [algorithmic trading](../
 - Official Website: [Renaissance Technologies](https://www.rentec.com)
 
 #### DE Shaw & Co.
-Another prominent player, D. E. Shaw & Co. utilizes complex mathematical models and [proprietary algorithms](../p/proprietary_algorithms.md) to trade [derivatives](../d/derivatives.md).
+Another prominent player, D. E. Shaw & Co. utilizes complex [mathematical models](../m/mathematical_models_in_trading.md) and [proprietary algorithms](../p/proprietary_algorithms.md) to trade [derivatives](../d/derivatives.md).
 - Official Website: [D. E. Shaw & Co.](https://www.deshaw.com)
 
 #### Citadel LLC

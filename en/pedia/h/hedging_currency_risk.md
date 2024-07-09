@@ -10,7 +10,7 @@ Currency risk affects all kinds of market participants:
   
 2. **Investors**: Holding foreign assets means the value of investments may be affected by fluctuations in exchange rates.
 
-3. **Importers and Exporters**: Variations in currency rates can affect the pricing of goods and services sold internationally, thereby impacting an importer’s or exporter’s profit margins.
+3. **Importers and Exporters**: Variations in currency rates can affect the pricing of goods and services sold internationally, thereby impacting an importer’s or exporter’s [profit margins](../p/profit_margins_in_trading.md).
 
 ## Mechanisms for Hedging Currency Risk
 

@@ -73,7 +73,7 @@ Several sophisticated platforms and tools can assist traders in implementing and
 - **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: An advanced platform offering powerful tools for options trading, including analysis and strategy building.
   - Website: [Thinkorswim](https://www.thinkorswim.com)
   
-- **Interactive Brokers**: Known for low-cost trading, it offers extensive tools for options traders.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for low-cost trading, it offers extensive tools for options traders.
   - Website: [Interactive Brokers](https://www.interactivebrokers.com)
   
 - **Tastyworks**: Focused specifically on options trading with an intuitive interface and competitive commission structure.

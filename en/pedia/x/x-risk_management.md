@@ -21,7 +21,7 @@ Given these potential risks, it is crucial for traders, investment firms, and fi
 
 Ensuring that algorithms are robust and can handle various market conditions is the first line of defense against X-risks. This involves:
 
-- **Stress Testing:** Simulating extreme market conditions to assess how the algorithm performs under stress. This helps identify potential weak points.
+- **[Stress Testing](../s/stress_testing_in_trading.md):** Simulating extreme market conditions to assess how the algorithm performs under stress. This helps identify potential weak points.
 - **[Backtesting](../b/backtesting.md):** Running the algorithm against historical market data to evaluate its performance. Ensure that [backtesting](../b/backtesting.md) considers a range of market scenarios, including extreme events.
 - **Validation:** Regularly validating the algorithm against current market conditions. This might involve recalibrating the model parameters based on recent data.
 
@@ -35,7 +35,7 @@ Diversifying [trading strategies](../t/trading_strategies.md) and asset classes 
 
 ### 3. Real-time Risk Monitoring
 
-Real-time risk monitoring systems can help detect and respond to deviations from expected performance quickly. Technologies such as machine learning and artificial intelligence can enhance these systems by identifying patterns indicative of potential risks.
+Real-time risk monitoring systems can help detect and respond to deviations from expected performance quickly. Technologies such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can enhance these systems by identifying patterns indicative of potential risks.
 
 - **Key [Performance Indicators](../p/performance_indicators.md) (KPIs):** Defining and monitoring key [performance indicators](../p/performance_indicators.md) in real-time to detect any anomalies.
 - **Alert Systems:** Implementing automated alerts that notify traders of significant deviations or potential issues.
@@ -84,9 +84,9 @@ High-Frequency Trading (HFT) firms, such as Virtu Financial (https://www.virtu.c
 
 Modern X-[risk management](../r/risk_management.md) leverages a range of advanced tools and technologies:
 
-- **Artificial Intelligence (AI) and Machine Learning (ML):** AI and ML can analyze vast amounts of data in real-time, identifying potential risks and adapting [trading strategies](../t/trading_strategies.md) dynamically.
-- **Blockchain Technology:** Blockchain’s transparent and immutable ledger can enhance auditability and security, reducing fraud and operational risks.
-- **Cloud Computing:** Leveraging cloud infrastructure can enhance the scalability and reliability of trading operations, ensuring robust disaster recovery mechanisms.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML):** AI and ML can analyze vast amounts of data in real-time, identifying potential risks and adapting [trading strategies](../t/trading_strategies.md) dynamically.
+- **[Blockchain](../b/blockchain_in_trading.md) Technology:** [Blockchain](../b/blockchain_in_trading.md)’s transparent and immutable ledger can enhance auditability and security, reducing fraud and operational risks.
+- **[Cloud Computing](../c/cloud_computing_in_trading.md):** Leveraging cloud infrastructure can enhance the scalability and reliability of trading operations, ensuring robust disaster recovery mechanisms.
 
 ## Regulatory Environment and X-Risk
 

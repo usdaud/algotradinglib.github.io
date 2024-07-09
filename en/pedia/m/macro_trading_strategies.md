@@ -33,7 +33,7 @@ Events such as natural disasters, pandemics, technological innovations, and sign
 
 Global Macro trading involves taking positions in any market worldwide, based on macroeconomic principles and factors. This can involve:
 
-- **Currency Trading**: Profiting from changes in exchange rates, interest rate differentials, and economic policies.
+- **[Currency Trading](../c/currency_trading_strategies.md)**: Profiting from changes in exchange rates, interest rate differentials, and economic policies.
 - **Commodity Trading**: Speculating on the prices of commodities like oil, gold, and agricultural products.
 - **Equity Indices**: Trading on indices like the S&P 500, FTSE 100, or Nikkei 225 based on macroeconomic trends.
 - **Fixed Income**: Investing in government or corporate bonds, focusing on interest rate trends and inflation expectations.
@@ -96,26 +96,26 @@ Macro traders often use sophisticated economic models to predict the relationshi
 Quantitative methods employ mathematical and statistical techniques to analyze past data and predict future movements. Techniques include:
 
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Using historical data to predict future trends.
-- **Machine Learning Algorithms**: Employing AI to identify patterns and make [predictive analytics](../p/predictive_analytics.md).
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Employing AI to identify patterns and make [predictive analytics](../p/predictive_analytics.md).
 - **Optimization Models**: For [portfolio management](../p/portfolio_management.md) and [asset allocation](../a/asset_allocation.md).
 
 ### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) involves evaluating market sentiment through various sources like news articles, social media, and financial reports. Advanced natural language processing (NLP) techniques can gauge the mood of the market and predict future movements.
+[Sentiment analysis](../s/sentiment_analysis.md) involves evaluating market sentiment through various sources like news articles, social media, and financial reports. Advanced [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques can gauge the mood of the market and predict future movements.
 
 ### Risk Management
 
 Effective [risk management](../r/risk_management.md) is crucial in macro trading due to the high volatility and unpredictable nature of financial markets. Key strategies include:
 
 - **Value at Risk (VaR)**: A statistical technique used to measure the risk of loss on a portfolio.
-- **Stress Testing**: Simulating extreme market conditions to assess the impact on portfolios.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating extreme market conditions to assess the impact on portfolios.
 - **Hedging**: Using [derivatives](../d/derivatives.md) such as options and futures to mitigate potential losses.
 
 ## Challenges in Macro Trading
 
 ### Complexity and Uncertainty
 
-Macro trading is inherently complex and subject to a high degree of uncertainty. Multiple factors, often outside the control of traders, can simultaneously impact markets.
+Macro trading is inherently complex and subject to a high degree of [uncertainty](../u/uncertainty_in_trading.md). Multiple factors, often outside the control of traders, can simultaneously impact markets.
 
 ### Data Overload
 

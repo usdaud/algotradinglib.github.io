@@ -1,6 +1,6 @@
 # Time Series Analysis
 
-Time series analysis is a statistical technique that deals with time-ordered data points. Typically, it involves analyzing the data to extract meaningful statistics, patterns, and other characteristics. The primary goal of time series analysis is to understand and forecast future points based on the historical data. This discipline is particularly crucial in areas like econometrics, finance, weather forecasting, and, notably, [algorithmic trading](../a/algorithmic_trading.md).
+Time series analysis is a statistical technique that deals with time-ordered data points. Typically, it involves analyzing the data to extract meaningful statistics, patterns, and other characteristics. The primary goal of time series analysis is to understand and forecast future points based on the historical data. This discipline is particularly crucial in areas like [econometrics](../e/econometrics_in_trading.md), finance, weather forecasting, and, notably, [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Basics of Time Series Data
 
@@ -77,7 +77,7 @@ Many [financial time series](../f/financial_time_series.md) are non-stationary, 
 
 ### High Dimensionality
 
-In the case of multivariate time series, high dimensionality can pose a challenge. Techniques like Principal Component Analysis (PCA) are used to reduce dimensions and focus on principal components.
+In the case of multivariate time series, high dimensionality can pose a challenge. Techniques like [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) are used to reduce dimensions and focus on [principal components](../p/principal_components_in_trading.md).
 
 ### Data Quality
 
@@ -89,7 +89,7 @@ As the volume of time series data increases, the computational complexity of ana
 
 ## Conclusion
 
-Time series analysis is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), offering invaluable insights into historical data to forecast future trends and make data-driven trading decisions. Its techniques and applications are vast, ranging from simple moving averages to complex neural networks. Given the dynamic nature of financial markets, continuous advancements and refinements in time series analysis methods are essential for maintaining a competitive edge in trading.
+Time series analysis is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), offering invaluable insights into historical data to forecast future trends and make data-driven trading decisions. Its techniques and applications are vast, ranging from simple moving averages to complex [neural networks](../n/neural_networks_in_trading.md). Given the dynamic nature of financial markets, continuous advancements and refinements in time series analysis methods are essential for maintaining a competitive edge in trading.
 
 For more information on companies specializing in [algorithmic trading](../a/algorithmic_trading.md) and time series analysis, you may check out:
 - [QuantConnect](https://www.quantconnect.com/)

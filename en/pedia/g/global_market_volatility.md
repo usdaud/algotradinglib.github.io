@@ -6,7 +6,7 @@ Global market volatility refers to the degree of variation in the value of globa
 
 ### 1. Macroeconomic Indicators
 
-Macroeconomic indicators such as GDP growth rates, inflation, unemployment rates, and interest rates play a significant role in influencing market volatility. For example, unexpected changes in inflation or GDP growth can lead to significant adjustments in stock, bond, and currency markets.
+Macroeconomic indicators such as GDP [growth rates](../g/growth_rates_in_trading.md), inflation, unemployment rates, and interest rates play a significant role in influencing market volatility. For example, unexpected changes in inflation or GDP growth can lead to significant adjustments in stock, bond, and currency markets.
 
 ### 2. Geopolitical Events
 
@@ -18,7 +18,7 @@ Natural events such as earthquakes, hurricanes, and pandemics can cause disrupti
 
 ### 4. Market Sentiment
 
-Market sentiment, which encompasses investor behavior and perception, can significantly influence volatility. Fear, greed, and uncertainty can lead to rapid buying or selling, causing substantial price movements.
+Market sentiment, which encompasses investor behavior and perception, can significantly influence volatility. Fear, greed, and [uncertainty](../u/uncertainty_in_trading.md) can lead to rapid buying or selling, causing substantial price movements.
 
 ### 5. Financial Crises
 

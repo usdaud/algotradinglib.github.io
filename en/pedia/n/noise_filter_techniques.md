@@ -24,7 +24,7 @@ Moving Averages are one of the simplest and most widely used techniques for filt
 
 #### 2. **Kalman Filters**
 
-Kalman Filters are used in [algorithmic trading](../a/algorithmic_trading.md) to predict and filter time series data. This technique is particularly useful for smoothing noisy data and accurately estimating underlying trends. The Kalman Filter operates recursively on streams of noisy input data to produce a statistically optimal estimate of the underlying system state.
+Kalman Filters are used in [algorithmic trading](../a/algorithmic_trading.md) to predict and filter time series data. This technique is particularly useful for smoothing noisy data and accurately estimating underlying trends. The [Kalman Filter](../k/kalman_filter_in_trading.md) operates recursively on streams of noisy input data to produce a statistically optimal estimate of the underlying system state.
 
   \[
   \hat{x}_k = A \hat{x}_{k-1} + B u_k + K_k (z_k - H \hat{x}_{k-1})
@@ -35,7 +35,7 @@ Where:
 - \( A \) is the state transition matrix.
 - \( B \) is the control input model.
 - \( u_k \) is the control vector.
-- \( K_k \) is the Kalman gain.
+- \( K_k \) is the [Kalman gain](../k/kalman_gain_in_trading.md).
 - \( z_k \) is the measurement at time \( k \).
 - \( H \) is the observation model.
 
@@ -64,9 +64,9 @@ Where:
 
 #### 5. **Wavelet Transform**
 
-Wavelet Transform is another mathematical technique employed to filter noise in trading data. Unlike Fourier Transform, which only provides frequency information, Wavelet Transform also provides time localization information, making it more effective in detecting and filtering fleeting noise spikes.
+[Wavelet Transform](../w/wavelet_transform_in_trading.md) is another mathematical technique employed to filter noise in trading data. Unlike Fourier Transform, which only provides frequency information, [Wavelet Transform](../w/wavelet_transform_in_trading.md) also provides time localization information, making it more effective in detecting and filtering fleeting noise spikes.
 
-  - **Discrete Wavelet Transform (DWT) **:
+  - **Discrete [Wavelet Transform](../w/wavelet_transform_in_trading.md) (DWT) **:
 
     - Identifies and operates on different frequency components of the signal at various time scales.
   
@@ -75,7 +75,7 @@ Wavelet Transform is another mathematical technique employed to filter noise in 
   \]
 
   Where:
-  - \( W_{\psi}(a, b) \) is the Wavelet Transform.
+  - \( W_{\psi}(a, b) \) is the [Wavelet Transform](../w/wavelet_transform_in_trading.md).
   - \( a \) and \( b \) are scaling and translation parameters.
   - \( x(t) \) is the input time series data.
   - \( \psi \) is the mother wavelet.
@@ -109,11 +109,11 @@ Several companies specialize in providing [algorithmic trading](../a/algorithmic
   - [AlgoTrader](../a/algotrader.md) offers institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that integrates advanced noise filtering techniques to enhance trading signal accuracy and improve overall [trading performance](../t/trading_performance.md).
 
 - **Kensho Technologies**: [kensho.com](https://www.kensho.com)
-  - Kensho Technologies uses artificial intelligence and advanced analytics, including noise filtering techniques like Wavelet Transform, to offer refined and actionable market insights.
+  - Kensho Technologies uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and advanced analytics, including noise filtering techniques like [Wavelet Transform](../w/wavelet_transform_in_trading.md), to offer refined and actionable market insights.
 
 - **Numerai**: [numer.ai](https://numer.ai)
   - Numerai leverages collective intelligence and machine learning, incorporating noise filtering processes to create more robust [trading models](../t/trading_models.md).
 
 ### Conclusion
 
-Noise filtering is crucial in [algorithmic trading](../a/algorithmic_trading.md) to improve signal quality by separating meaningful market data from random price fluctuations. Using techniques like moving averages, Kalman filters, [Bollinger Bands](../b/bollinger_bands.md), Fourier Transform, Wavelet Transform, and low-pass filters, traders can enhance the reliability of their [trading strategies](../t/trading_strategies.md). Companies specializing in trading technology continuously innovate in these areas to provide sophisticated solutions for professional traders and institutions.
+Noise filtering is crucial in [algorithmic trading](../a/algorithmic_trading.md) to improve signal quality by separating meaningful market data from random price fluctuations. Using techniques like moving averages, Kalman filters, [Bollinger Bands](../b/bollinger_bands.md), Fourier Transform, [Wavelet Transform](../w/wavelet_transform_in_trading.md), and low-pass filters, traders can enhance the reliability of their [trading strategies](../t/trading_strategies.md). Companies specializing in trading technology continuously innovate in these areas to provide sophisticated solutions for professional traders and institutions.

@@ -63,9 +63,9 @@ Market Profile analysis is widely used by institutional traders and increasingly
 
 ### Tools and Software
 
-Several tools and software platforms provide Market Profile charting capabilities. Some of the notable ones include:
+Several tools and [software platforms](../s/software_platforms_for_trading.md) provide Market Profile charting capabilities. Some of the notable ones include:
 
-- **Sierra Chart**: Known for its robust market analysis tools, including Market Profile charts.
+- **[Sierra Chart](../s/sierra_chart.md)**: Known for its robust market analysis tools, including Market Profile charts.
   [Sierra Chart](https://www.sierrachart.com/)
 - **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers comprehensive Market Profile features integrated with other trading tools.
   [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)

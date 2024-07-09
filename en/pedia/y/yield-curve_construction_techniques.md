@@ -10,7 +10,7 @@ There are three primary types of yield curves commonly used in financial markets
 
 2. **Inverted [Yield Curve](../y/yield_curve.md)**: This happens when short-term yields are higher than long-term yields, often indicating a forthcoming economic recession. 
 
-3. **Flat [Yield Curve](../y/yield_curve.md)**: This curve occurs when short-term and long-term yields are very close to each other, often reflecting uncertainty in the economy.
+3. **Flat [Yield Curve](../y/yield_curve.md)**: This curve occurs when short-term and long-term yields are very close to each other, often reflecting [uncertainty](../u/uncertainty_in_trading.md) in the economy.
 
 #### Key Techniques for Construction
 
@@ -20,7 +20,7 @@ Several techniques are employed for constructing the [yield curve](../y/yield_cu
 2. **Smoothing Splines**
 3. **Nelson-Siegel Models**
 4. **Cubic Spline Interpolation**
-5. **Principal Component Analysis (PCA)**
+5. **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**
 6. **Machine Learning Approaches**
 
 ### Bootstrapping
@@ -55,19 +55,19 @@ Cubic spline interpolation is a non-parametric method that uses piecewise cubic 
 
 ### Principal Component Analysis (PCA)
 
-Principal Component Analysis (PCA) is a statistical method used to reduce the dimensionality of the [yield curve](../y/yield_curve.md) data. It identifies the main factors that drive changes in the shape of the [yield curve](../y/yield_curve.md).
+[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) is a statistical method used to reduce the dimensionality of the [yield curve](../y/yield_curve.md) data. It identifies the main factors that drive changes in the shape of the [yield curve](../y/yield_curve.md).
 
 - **Process**:
-  1. Decompose the [yield curve](../y/yield_curve.md) data into its principal components.
-  2. Typically, the first few principal components capture most of the variation.
+  1. Decompose the [yield curve](../y/yield_curve.md) data into its [principal components](../p/principal_components_in_trading.md).
+  2. Typically, the first few [principal components](../p/principal_components_in_trading.md) capture most of the variation.
 - **Advantages**: Helps in understanding the underlying factors that influence yield curves and in constructing more robust [trading strategies](../t/trading_strategies.md).
 
 ### Machine Learning Approaches
 
 Recent advances in machine learning have introduced new techniques for [yield curve](../y/yield_curve.md) construction. These approaches can capture complex nonlinear relationships in the data that traditional methods might miss.
 
-- **Techniques**: Methods such as neural networks, gradient boosting machines, and support vector machines.
-- **Implementation**: Requires specialized knowledge in machine learning and data science, but can significantly enhance prediction accuracy.
+- **Techniques**: Methods such as [neural networks](../n/neural_networks_in_trading.md), gradient boosting machines, and [support vector machines](../s/support_vector_machines_in_trading.md).
+- **Implementation**: Requires specialized knowledge in machine learning and [data science](../d/data_science_in_trading.md), but can significantly enhance prediction accuracy.
 
 ### Practical Applications in Algorithmic Trading
 

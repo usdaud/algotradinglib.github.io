@@ -48,8 +48,8 @@
 
 ### Technological Innovations
 
-1. **Blockchain**: Distributed ledger technology (DLT) can enhance transparency, reduce [counterparty risk](../c/counterparty_risk.md), and improve the efficiency of [securities lending](../s/securities_lending.md) transactions.
-2. **[Automated Trading Systems](../a/automated_trading_systems.md)**: Platforms using AI and machine learning algorithms can optimize [securities lending](../s/securities_lending.md) operations by determining ideal lending rates and identifying willing borrowers and lenders.
+1. **[Blockchain](../b/blockchain_in_trading.md)**: Distributed ledger technology (DLT) can enhance transparency, reduce [counterparty risk](../c/counterparty_risk.md), and improve the efficiency of [securities lending](../s/securities_lending.md) transactions.
+2. **[Automated Trading Systems](../a/automated_trading_systems.md)**: Platforms using AI and machine [learning algorithms](../l/learning_algorithms_in_trading.md) can optimize [securities lending](../s/securities_lending.md) operations by determining ideal lending rates and identifying willing borrowers and lenders.
 
 ### Impact of COVID-19
 

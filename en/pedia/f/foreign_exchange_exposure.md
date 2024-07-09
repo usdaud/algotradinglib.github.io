@@ -14,7 +14,7 @@ Foreign exchange exposure, often known as "currency risk," is the risk that a bu
 
 1. **Natural Hedging**: Companies can balance their foreign currency inflows and outflows to mitigate risk. For example, if a company generates revenue in euros but has expenses in euros as well, the impact of euro fluctuations is minimized.
 
-2. **[Forward Contracts](../f/forward_contracts.md)**: A forward contract is an agreement to exchange a specific amount of currencies at a predetermined rate on a specified future date. This locks in the exchange rate and minimizes the uncertainty of future transactions.
+2. **[Forward Contracts](../f/forward_contracts.md)**: A forward contract is an agreement to exchange a specific amount of currencies at a predetermined rate on a specified future date. This locks in the exchange rate and minimizes the [uncertainty](../u/uncertainty_in_trading.md) of future transactions.
 
 3. **Options**: Currency options give the buyer the right, but not the obligation, to exchange money at a predefined rate before a specified date. While this provides flexibility, it is typically more expensive than [forward contracts](../f/forward_contracts.md) due to the premium paid for the option.
 

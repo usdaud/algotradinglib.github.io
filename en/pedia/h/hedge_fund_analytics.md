@@ -19,7 +19,7 @@ Hedge fund analytics involves the systematic study and analysis of data related 
 [Risk management](../r/risk_management.md) involves identifying, analyzing, and mitigating risks to minimize the potential for losses.
 
 - **Value at Risk (VaR)**: A statistical technique used to measure the probability of portfolio losses exceeding a certain amount over a specific time period.
-- **Stress Testing**: Simulating extreme market conditions to determine the potential impact on the fund's performance.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating extreme market conditions to determine the potential impact on the fund's performance.
 - **Scenario Analysis**: Assessing the effects of different hypothetical situations on [portfolio performance](../p/portfolio_performance.md).
 
 ### 3. Portfolio Management
@@ -34,7 +34,7 @@ These models are paramount for proper analysis and strategy development in hedge
 
 - **Markowitz Modern Portfolio Theory (MPT)**: Emphasizes optimizing a portfolio's expected return for a given level of risk.
 - **[Factor Models](../f/factor_models.md)**: Decomposing returns into factors such as market risk, size, value, and momentum.
-- **Machine Learning (ML) Algorithms**: Using techniques like regression, classification, clustering, and neural networks to analyze data and predict market behaviors.
+- **Machine Learning (ML) Algorithms**: Using techniques like regression, classification, clustering, and [neural networks](../n/neural_networks_in_trading.md) to analyze data and predict market behaviors.
 
 ### 5. Data Sources and Tools
 Hedge funds use numerous data sources and analytical tools to support decision-making processes.
@@ -56,7 +56,7 @@ Two Sigma uses machine learning, distributed computing, and other advanced techn
 - Website: [Two Sigma](https://www.twosigma.com/)
 
 ### 2. Renaissance Technologies
-Founded by Jim Simons, Renaissance Technologies employs sophisticated mathematical models to predict price changes in markets. The firm manages several funds including the famous Medallion Fund.
+Founded by Jim Simons, Renaissance Technologies employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to predict price changes in markets. The firm manages several funds including the famous Medallion Fund.
 - Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ### 3. AQR Capital Management
@@ -81,11 +81,11 @@ Machine learning (ML) plays a pivotal role in enhancing the capabilities of hedg
 
 ### Popular ML Algorithms:
 - **[Regression Analysis](../r/regression_analysis.md)**: Investigating relationships between variables to predict future trends.
-- **Support Vector Machines (SVM)**: For classification and regression tasks, useful in trend prediction.
-- **Random Forests**: An [ensemble learning](../e/ensemble_learning.md) method combining multiple [decision trees](../d/decision_trees.md) to improve prediction accuracy.
-- **Neural Networks**: Deep learning techniques that model complex relationships in data, used for high-dimensional data sets.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: For classification and regression tasks, useful in trend prediction.
+- **[Random Forests](../r/random_forests_in_trading.md)**: An [ensemble learning](../e/ensemble_learning.md) method combining multiple [decision trees](../d/decision_trees.md) to improve prediction accuracy.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning techniques that model complex relationships in data, used for high-dimensional data sets.
 
 ## Conclusion
-Hedge fund analytics is a multi-faceted field encompassing various aspects of performance measurement, [risk management](../r/risk_management.md), [portfolio management](../p/portfolio_management.md), and [predictive modeling](../p/predictive_modeling.md). Leveraging advanced [quantitative models](../q/quantitative_models.md), machine learning algorithms, and robust data sources, hedge funds can optimize their strategies and deliver superior returns to their investors.
+Hedge fund analytics is a multi-faceted field encompassing various aspects of performance measurement, [risk management](../r/risk_management.md), [portfolio management](../p/portfolio_management.md), and [predictive modeling](../p/predictive_modeling.md). Leveraging advanced [quantitative models](../q/quantitative_models.md), machine [learning algorithms](../l/learning_algorithms_in_trading.md), and robust data sources, hedge funds can optimize their strategies and deliver superior returns to their investors.
 
 By staying at the forefront of technological advancements and continually refining their analytical methodologies, hedge funds can maintain a competitive edge in the increasingly sophisticated and data-driven landscape of financial markets.

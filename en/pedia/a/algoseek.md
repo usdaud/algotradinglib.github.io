@@ -73,7 +73,7 @@ AlgoSeek is a leading provider of high-quality financial data and analytics solu
 - Cloud-based data storage and processing
 - Scalable architecture to handle large datasets
 - Low-latency data delivery systems
-- Machine learning algorithms for data analysis and predictions
+- Machine [learning algorithms](../l/learning_algorithms_in_trading.md) for data analysis and predictions
 
 ## Target Audience
 

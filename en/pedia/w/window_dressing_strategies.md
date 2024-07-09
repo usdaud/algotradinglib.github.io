@@ -64,7 +64,7 @@ Firms are encouraged to adopt more transparent reporting practices. This involve
 
 #### 3. Technology and Big Data
 
-Advanced algorithms and big data analytics are now being employed to detect patterns indicative of [window dressing](../w/window_dressing.md). These tools analyze large volumes of transaction data, flagging anomalies that suggest manipulative practices.
+Advanced algorithms and [big data analytics](../b/big_data_analytics_in_trading.md) are now being employed to detect patterns indicative of [window dressing](../w/window_dressing.md). These tools analyze large volumes of transaction data, flagging anomalies that suggest manipulative practices.
 
 ### Window Dressing in Algorithmic Trading
 
@@ -81,7 +81,7 @@ The use of algorithms for [window dressing](../w/window_dressing.md) raises seri
 **Company Name: Renaissance Technologies**  
 [Website](https://www.rentec.com/)
 
-Renaissance Technologies, a hedge fund management company, is known for its use of complex mathematical models to drive trading decisions. While there is no public evidence to suggest Renaissance engages in [window dressing](../w/window_dressing.md), the firm's technological sophistication makes it a potential candidate for employing such strategies.
+Renaissance Technologies, a hedge fund management company, is known for its use of complex [mathematical models](../m/mathematical_models_in_trading.md) to drive trading decisions. While there is no public evidence to suggest Renaissance engages in [window dressing](../w/window_dressing.md), the firm's technological sophistication makes it a potential candidate for employing such strategies.
 
 ### Tools and Software for Detecting Window Dressing
 

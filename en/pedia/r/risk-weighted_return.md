@@ -6,7 +6,7 @@ Risk-Weighted Return is a financial metric that adjusts the returns of an invest
 
 ### Risk-Weighted Return
 
-At its core, Risk-Weighted Return considers the variance or volatility of returns and adjusts the [performance metrics](../p/performance_metrics.md) accordingly. Higher volatility implies higher risk; hence, a high return with high uncertainty may not be as attractive as a lower but stable return.
+At its core, Risk-Weighted Return considers the variance or volatility of returns and adjusts the [performance metrics](../p/performance_metrics.md) accordingly. Higher volatility implies higher risk; hence, a high return with high [uncertainty](../u/uncertainty_in_trading.md) may not be as attractive as a lower but stable return.
 
 ### Importance in Algo-Trading
 
@@ -14,7 +14,7 @@ In the realm of algo-trading, the use of sophisticated algorithms for making tra
 
 ### Common Metrics
 
-Several specific ratios and measurements assess Risk-Weighted Returns, each with its own method of factoring in risk:
+Several specific ratios and measurements assess Risk-[Weighted Returns](../w/weighted_returns_in_trading.md), each with its own method of factoring in risk:
 
 1. **[Sharpe Ratio](../s/sharpe_ratio.md)**
 2. **[Sortino Ratio](../s/sortino_ratio.md)**
@@ -93,7 +93,7 @@ Two Sigma uses machine learning, distributed computing, and other sophisticated 
 
 ### Renaissance Technologies [Link](https://www.rentec.com/)
 
-Renaissance Technologies, known for their Medallion Fund, employs complex mathematical models and algorithms to exploit market inefficiencies, continually adjusting for risk-to-return ratios to maintain their competitive edge.
+Renaissance Technologies, known for their Medallion Fund, employs complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to exploit market inefficiencies, continually adjusting for risk-to-return ratios to maintain their competitive edge.
 
 ### AQR Capital Management [Link](https://www.aqr.com/)
 
@@ -101,7 +101,7 @@ AQR Capital Management leverages [quantitative analysis](../q/quantitative_analy
 
 ### Citadel [Link](https://www.citadel.com/)
 
-Citadel applies rigorous research and technology-driven strategies to manage a broad range of asset classes and investment strategies. These strategies often incorporate risk-weighted returns to ensure alignment with investment objectives.
+Citadel applies rigorous research and technology-driven strategies to manage a broad range of asset classes and investment strategies. These strategies often incorporate risk-[weighted returns](../w/weighted_returns_in_trading.md) to ensure alignment with investment objectives.
 
 ## Application in Portfolio Management
 

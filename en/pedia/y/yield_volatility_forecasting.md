@@ -50,7 +50,7 @@ These models assume that volatility itself follows a stochastic process. The Hes
 
 ### Machine Learning Techniques
 
-With advancements in [computational finance](../c/computational_finance.md), machine learning techniques are increasingly used for [volatility forecasting](../v/volatility_forecasting.md). Algorithms such as Support Vector Machines (SVM), Neural Networks, and Random Forests can model complex, non-linear relationships in the data.
+With advancements in [computational finance](../c/computational_finance.md), machine learning techniques are increasingly used for [volatility forecasting](../v/volatility_forecasting.md). Algorithms such as [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Neural Networks](../n/neural_networks_in_trading.md), and [Random Forests](../r/random_forests_in_trading.md) can model complex, non-linear relationships in the data.
 
 ## Applications in Risk Management
 
@@ -60,7 +60,7 @@ Value at Risk is a statistical measure used to assess the risk of investment por
 
 ### Stress Testing
 
-Stress testing involves simulating extreme market conditions to see how portfolios would perform. [Yield volatility](../y/yield_volatility.md) forecasts help in creating realistic stress scenarios.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating extreme market conditions to see how portfolios would perform. [Yield volatility](../y/yield_volatility.md) forecasts help in creating realistic stress scenarios.
 
 ### Credit Risk Assessment
 
@@ -68,4 +68,4 @@ For banks and other lending institutions, [yield volatility](../y/yield_volatili
 
 ## Conclusion
 
-Yield [volatility forecasting](../v/volatility_forecasting.md) is a multi-faceted process that is essential for various aspects of financial management. Whether for [risk management](../r/risk_management.md), [trading strategies](../t/trading_strategies.md), or [asset allocation](../a/asset_allocation.md), accurate forecasts can provide substantial benefits and protect against financial losses. Various methods, from [historical volatility](../h/historical_volatility.md) analyses to complex machine learning algorithms, are used for this purpose, making it a dynamic and evolving field within the realm of [quantitative finance](../q/quantitative_finance.md).
+Yield [volatility forecasting](../v/volatility_forecasting.md) is a multi-faceted process that is essential for various aspects of financial management. Whether for [risk management](../r/risk_management.md), [trading strategies](../t/trading_strategies.md), or [asset allocation](../a/asset_allocation.md), accurate forecasts can provide substantial benefits and protect against financial losses. Various methods, from [historical volatility](../h/historical_volatility.md) analyses to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md), are used for this purpose, making it a dynamic and evolving field within the realm of [quantitative finance](../q/quantitative_finance.md).

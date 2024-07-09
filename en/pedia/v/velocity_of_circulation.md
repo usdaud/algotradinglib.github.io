@@ -85,4 +85,4 @@ Regulatory bodies across the globe, such as the SEC (Securities and Exchange Com
 
 The velocity of circulation, whether in its economic context or within the scope of [algorithmic trading](../a/algorithmic_trading.md), is a critical factor that influences market behavior and economic health. In the fast-paced world of algo trading, understanding and optimizing the velocity of trade executions and [asset turnover](../a/asset_turnover.md) is essential for maintaining competitiveness and ensuring [market efficiency](../m/market_efficiency.md). With advancements in technology and analytics, firms can better harness this velocity, although they must navigate regulatory and ethical landscapes carefully.
 
-Understanding and optimizing the velocity of circulation can provide significant strategic advantages, but it requires continuous innovation and adherence to market regulations and ethical standards.
+Understanding and optimizing the velocity of circulation can provide significant strategic advantages, but it requires continuous innovation and adherence to market regulations and [ethical standards](../e/ethical_standards_in_trading.md).

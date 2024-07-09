@@ -39,7 +39,7 @@ Hedging commodity risk refers to the strategies employed by investors, producers
    - This involves aligning the structure of a company’s operations to naturally offset risks. For instance, an airline might acquire or lease more fuel-efficient aircraft to reduce its exposure to fuel price volatility.
 
 2. **Contractual Hedging**:
-   - Companies can enter into fixed-price contracts with suppliers or customers to eliminate price uncertainty. This approach is particularly common in industries like energy.
+   - Companies can enter into fixed-price contracts with suppliers or customers to eliminate price [uncertainty](../u/uncertainty_in_trading.md). This approach is particularly common in industries like energy.
 
 3. **[Dynamic Hedging](../d/dynamic_hedging.md)**:
    - This sophisticated method involves adjusting the hedging position as market conditions change over time. It requires active management and typically uses a combination of hedging instruments to optimize protection and cost.

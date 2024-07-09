@@ -16,7 +16,7 @@ In the context of trading, the harmonic mean is particularly useful in cases whe
 The price-to-earnings (P/E) ratio is a commonly used metric in trading for valuing companies. The harmonic mean of P/E ratios of a portfolio of stocks is often considered more accurate than the arithmetic mean, as it mitigates the impact of stocks with extremely high P/E ratios.
 
 ### Rates of Return
-When dealing with financial instruments that provide different rates of return, the harmonic mean can offer a more balanced view than the arithmetic mean. For instance, when averaging rates of return on assets over multiple periods, the harmonic mean accounts for the compounding effect more effectively.
+When dealing with financial instruments that provide different rates of return, the harmonic mean can offer a more balanced view than the arithmetic mean. For instance, when averaging rates of [return on assets](../r/return_on_assets_(roa).md) over multiple periods, the harmonic mean accounts for the compounding effect more effectively.
 
 ### Forex Trading
 In [foreign exchange (Forex) trading](../f/foreign_exchange_(forex)_trading.md), traders often deal with currency pairs. The harmonic mean can help provide a more balanced average rate in scenarios where exchange rates are extremely volatile.
@@ -44,7 +44,7 @@ One of the attractive properties of the harmonic mean is its resistance to extre
 2. **Limited to Positive Numbers**: The harmonic mean is only defined for positive numbers, limiting its applicability in datasets containing zero or negative values.
 
 ## Software Implementation
-The harmonic mean can be easily computed using various programming languages and software tools frequently used in trading. Below are examples using Python, R, and Excel:
+The harmonic mean can be easily computed using various programming languages and [software tools](../s/software_tools_for_trading.md) frequently used in trading. Below are examples using Python, R, and Excel:
 
 ### Python
 ```python
@@ -75,7 +75,7 @@ In Excel, you can use the `HARMEAN` function to calculate the harmonic mean of a
 In [portfolio management](../p/portfolio_management.md), the harmonic mean can help in the evaluation of [performance metrics](../p/performance_metrics.md). For instance, when assessing the average expense ratio or fee structure across mutual funds, the harmonic mean provides a more accurate picture of the central tendency of these ratios.
 
 ### Risk Management
-[Risk management](../r/risk_management.md) strategies often involve analyzing and averaging various risk-related metrics such as Value at Risk (VaR) or expected shortfall. Using the harmonic mean for these sorts of metrics can help finance professionals develop more robust risk models.
+[Risk management](../r/risk_management.md) strategies often involve analyzing and averaging various risk-related metrics such as Value at Risk (VaR) or expected shortfall. Using the harmonic mean for these sorts of metrics can help finance professionals develop more robust [risk models](../r/risk_models_in_trading.md).
 
 ## Case Study
 ### Portfolio Valuation

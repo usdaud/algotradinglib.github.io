@@ -1,6 +1,6 @@
 # Algorithmic Volatility Trading
 
-Algorithmic Volatility Trading involves using algorithms to exploit price variations arising from market volatility. This specialized form of trading leverages complex mathematical models and statistical techniques to predict and profit from fluctuations in market prices. It plays a crucial role in enhancing [market efficiency](../m/market_efficiency.md), reducing [trading costs](../t/trading_costs.md), and providing liquidity. In this article, we will explore the techniques, models, tools, and key players in algorithmic volatility trading as well as its benefits and challenges.
+Algorithmic Volatility Trading involves using algorithms to exploit price variations arising from market volatility. This specialized form of trading leverages complex [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to predict and profit from fluctuations in market prices. It plays a crucial role in enhancing [market efficiency](../m/market_efficiency.md), reducing [trading costs](../t/trading_costs.md), and providing liquidity. In this article, we will explore the techniques, models, tools, and key players in algorithmic volatility trading as well as its benefits and challenges.
 
 ## Introduction to Algorithmic Volatility Trading
 
@@ -32,15 +32,15 @@ Algorithmic volatility trading heavily relies on statistical techniques and mach
 - **Machine Learning Models:**
     Advanced machine learning models, including classification, regression, and clustering, help to analyze complex datasets. Supervised and unsupervised learning methods are used to increase prediction accuracy.
 
-    - **Neural Networks:**
-        Deep learning techniques such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) are employed to predict market volatility.
+    - **[Neural Networks](../n/neural_networks_in_trading.md):**
+        Deep learning techniques such as Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) and Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) are employed to predict market volatility.
 
     - **Reinforcement Learning:**
         Involves training models to make sequence decisions, effectively optimizing [trading strategies](../t/trading_strategies.md) to maximize cumulative returns.
 
 ### Tools and Platforms
 
-For algorithmic volatility trading, using sophisticated software platforms and tools is imperative. Here are some key tools and platforms:
+For algorithmic volatility trading, using sophisticated [software platforms](../s/software_platforms_for_trading.md) and tools is imperative. Here are some key tools and platforms:
 
 1. **[QuantConnect](../q/quantconnect.md):**
     Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform dealing with interactive research and [backtesting](../b/backtesting.md) environments. (https://www.[quantconnect](../q/quantconnect.md).com/)
@@ -49,7 +49,7 @@ For algorithmic volatility trading, using sophisticated software platforms and t
     An open-source library for modeling, trading, and [risk management](../r/risk_management.md) in real-life (https://www.[quantlib](../q/quantlib.md).org/)
 
 3. **Kdb+/Q:**
-    This is a high-performance column-store database, optimized for big data and analytic applications used in market data storage and processing. (https://kx.com/)
+    This is a high-performance column-store database, optimized for [big data](../b/big_data_in_trading.md) and analytic applications used in market data storage and processing. (https://kx.com/)
 
 4. **[Interactive Brokers](../i/interactive_brokers.md):**
     A platform known for its API capabilities, allowing for automated trading across various asset classes. (https://www.interactivebrokers.com/)
@@ -59,7 +59,7 @@ For algorithmic volatility trading, using sophisticated software platforms and t
 Several companies have positioned themselves at the forefront of algorithmic volatility trading:
 
 - **Two Sigma Investments:**
-    Known for its focus on technology and innovation, Two Sigma Investments combines data science and computational power to implement [algorithmic trading](../a/algorithmic_trading.md) strategies. (https://www.twosigma.com/)
+    Known for its focus on technology and innovation, Two Sigma Investments combines [data science](../d/data_science_in_trading.md) and computational power to implement [algorithmic trading](../a/algorithmic_trading.md) strategies. (https://www.twosigma.com/)
 
 - **Citadel Securities:**
     A leading market maker, Citadel Securities uses [algorithmic trading](../a/algorithmic_trading.md) to maintain liquidity in the markets. (https://www.citadelsecurities.com/)

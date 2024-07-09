@@ -24,7 +24,7 @@ This involves modifying forecasts based on gut feelings or intuition. Experts mi
 More systematic, this approach involves rules and criteria to adjust forecasts. Methods like Delphi techniques or scenario planning can formalize how expert judgments are integrated into forecasts.
 
 ### Hybrid Models
-Hybrid models combine statistical methods with expert input. Machine learning algorithms might incorporate human adjustments as additional features in the model.
+Hybrid models combine statistical methods with expert input. Machine [learning algorithms](../l/learning_algorithms_in_trading.md) might incorporate human adjustments as additional features in the model.
 
 ## Challenges
 
@@ -69,7 +69,7 @@ Provide comprehensive training to improve the quality of judgmental inputs. Trai
 Adopt a structured approach for integrating judgmental adjustments. Consistently apply rules and criteria to ensure uniformity.
 
 ### Continuous Improvement
-Regularly review and refine the adjustment process. Incorporate feedback loops to understand the impact and effectiveness of human inputs.
+Regularly review and refine the adjustment process. Incorporate [feedback loops](../f/feedback_loops_in_trading.md) to understand the impact and effectiveness of human inputs.
 
 ### Documentation
 Thoroughly document the reasons for each adjustment. Transparency ensures that future adjustments benefit from historical context and rationales.

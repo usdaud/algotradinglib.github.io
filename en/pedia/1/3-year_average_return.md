@@ -36,7 +36,7 @@ Example:
 
 1. **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com): [QuantConnect](../q/quantconnect.md) offers a platform for designing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. The 3-year average return is one of the [performance metrics](../p/performance_metrics.md) available for evaluating strategies in their [backtesting](../b/backtesting.md) environment.
 
-2. **Two Sigma** (https://www.twosigma.com): Two Sigma is a technology-driven quantitative investment firm that employs [algorithmic trading](../a/algorithmic_trading.md) strategies. The firm focuses on using data science and machine learning to generate sustained returns, often measured over multi-year periods including the 3-year average return.
+2. **Two Sigma** (https://www.twosigma.com): Two Sigma is a technology-driven quantitative investment firm that employs [algorithmic trading](../a/algorithmic_trading.md) strategies. The firm focuses on using [data science](../d/data_science_in_trading.md) and machine learning to generate sustained returns, often measured over multi-year periods including the 3-year average return.
 
 3. **[Alpaca](../a/alpaca.md)** (https://[alpaca](../a/alpaca.md).markets): [Alpaca](../a/alpaca.md) is a commission-free trading platform that offers API access for [algorithmic trading](../a/algorithmic_trading.md). Evaluating the 3-year average return of different algorithmic strategies is crucial for users of the platform to make informed investment decisions.
 

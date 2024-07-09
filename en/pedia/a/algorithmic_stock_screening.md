@@ -157,7 +157,7 @@ Sophisticated algorithms, particularly those involving machine learning, can req
 
 ## Future of Algorithmic Stock Screening
 
-The future of algorithmic stock screening will likely be shaped by advancements in artificial intelligence, particularly in machine learning and natural language processing. These technologies will enable more sophisticated analyses and predictions, making it possible to incorporate a broader range of data sources and more complex criteria.
+The future of algorithmic stock screening will likely be shaped by advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), particularly in machine learning and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md). These technologies will enable more sophisticated analyses and predictions, making it possible to incorporate a broader range of data sources and more complex criteria.
 
 ### **AI and Machine Learning**
 
@@ -165,7 +165,7 @@ As AI continues to advance, we can expect more algorithms to leverage deep learn
 
 ### **Big Data**
 
-The integration of big data will provide more robust and comprehensive datasets, improving the quality and breadth of information available for screening.
+The integration of [big data](../b/big_data_in_trading.md) will provide more robust and comprehensive datasets, improving the quality and breadth of information available for screening.
 
 ### **Automation**
 

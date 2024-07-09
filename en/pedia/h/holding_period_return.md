@@ -50,7 +50,7 @@ Where \( n \) is the number of years the investment was held.
 Numerous financial firms and trading platforms use HPR as part of their analytics and reporting tools. For instance:
 
 - **Two Sigma Investments** (https://www.twosigma.com/): This quantitative hedge fund uses advanced analytics and algorithms to identify profitable trading opportunities. HPR is likely a key metric they analyze in their [trading strategies](../t/trading_strategies.md).
-- **Renaissance Technologies** (https://www.rentec.com/): Another leading hedge fund that employs sophisticated mathematical models and algorithms, including the analysis of HPR for performance evaluation.
+- **Renaissance Technologies** (https://www.rentec.com/): Another leading hedge fund that employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, including the analysis of HPR for performance evaluation.
 - **AQR Capital Management** (https://www.aqr.com/): This global investment management firm uses quantitative methods to invest and manage risks, incorporating HPR calculations in their strategy assessments.
 
 ### Limitations of HPR

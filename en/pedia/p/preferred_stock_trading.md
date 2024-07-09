@@ -56,8 +56,8 @@ Notable issuers of preferred stocks include major banks, utilities, and other st
 
 - **JPMorgan Chase & Co.**: One of the largest banks in the world, JPMorgan issues preferred stocks to raise capital while offering attractive dividends to investors ([JPMorgan Chase](https://www.jpmorganchase.com)).
 - **Duke Energy**: A leading energy company that issues preferred shares to finance its operations while providing stable dividend payouts ([Duke Energy](https://www.duke-energy.com)).
-- **Interactive Brokers**: A comprehensive trading platform that offers access to a wide range of preferred stocks, catering to both individual and institutional investors ([Interactive Brokers](https://www.interactivebrokers.com)).
-- **E*TRADE**: An online trading platform known for its user-friendly interface and extensive range of investment options, including preferred stocks ([E*TRADE](https://us.etrade.com)).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A comprehensive trading platform that offers access to a wide range of preferred stocks, catering to both individual and institutional investors ([Interactive Brokers](https://www.interactivebrokers.com)).
+- **[E*TRADE](../e/e_trade.md)**: An online trading platform known for its user-friendly interface and extensive range of investment options, including preferred stocks ([E*TRADE](https://us.etrade.com)).
 
 #### Conclusion
 

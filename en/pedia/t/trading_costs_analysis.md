@@ -12,7 +12,7 @@ Understanding [trading costs](../t/trading_costs.md) is crucial for the success 
 
 Explicit costs are the direct, visible costs associated with trading. They usually consist of the following:
 
-- **Commissions**: Fees paid to brokers for executing trades. These can vary widely based on the broker and the volume of trades. For instance, Interactive Brokers offers sophisticated algo trading services with competitive pricing. More details can be found [here](https://www.interactivebrokers.com/). 
+- **Commissions**: Fees paid to brokers for executing trades. These can vary widely based on the broker and the volume of trades. For instance, [Interactive Brokers](../i/interactive_brokers.md) offers sophisticated algo trading services with competitive pricing. More details can be found [here](https://www.interactivebrokers.com/). 
 - **Exchange Fees**: Charges levied by stock exchanges for the execution of trades. Different exchanges have different fee structures based on the types of assets being traded and the trading volume.
 
 ### 2.2. Implicit Costs

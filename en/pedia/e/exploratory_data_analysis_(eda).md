@@ -16,7 +16,7 @@ EDA is important because, in [algorithmic trading](../a/algorithmic_trading.md),
 
 3. **Detecting Anomalies and Outliers:**
    - Identifying potential [market anomalies](../m/market_anomalies.md) which could either present opportunities or risks.
-   - Box plots and Z-scores are often used to spot outliers in trading data.
+   - Box plots and [Z-scores](../z/z-scores_in_trading.md) are often used to spot outliers in trading data.
 
 4. **Testing Hypotheses:**
    - Evaluating initial hypotheses regarding market behavior to refine [trading models](../t/trading_models.md).
@@ -42,15 +42,15 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), several te
    - **Histograms:** Provide insights into the frequency distribution of asset prices.
    - **Scatter Plots:** Identify relationships between two different variables.
    - **Line Charts:** Track price movements and trends over time.
-   - **Heatmaps:** Show correlation matrices between different trading instruments or features.
+   - **[Heatmaps](../h/heatmaps_in_trading.md):** Show correlation matrices between different trading instruments or features.
 
 3. **[Time Series Analysis](../t/time_series_analysis.md):**
    - **[Autocorrelation](../a/autocorrelation.md) Plots (ACF):** Measure the correlation of the time series with its lagged values to detect seasonality.
    - **Moving Averages:** Identify the underlying trend by smoothing out price data.
    - **Differencing:** Used to make a non-stationary time series stationary by removing trends.
 
-4. **Dimensionality Reduction Techniques:**
-   - **Principal Component Analysis (PCA):** Transform high-dimensional data into a lower-dimensional space while preserving most of the variance.
+4. **[Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md) Techniques:**
+   - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA):** Transform high-dimensional data into a lower-dimensional space while preserving most of the variance.
    - **t-distributed Stochastic Neighbor Embedding (t-SNE):** Effective in visualizing high-dimensional data by reducing it to two or three dimensions.
 
 5. **[Data Cleaning](../d/data_cleaning.md):**
@@ -61,7 +61,7 @@ Incorporating these techniques in EDA helps to attain a refined and clean datase
 
 ## Software and Tools for EDA
 
-EDA can be performed using various software tools and programming languages, with some of the most popular ones being:
+EDA can be performed using various [software tools](../s/software_tools_for_trading.md) and programming languages, with some of the most popular ones being:
 
 1. **Python:**
    - Libraries such as Pandas, NumPy, and SciPy are used for data manipulation and statistical analysis.
@@ -157,4 +157,4 @@ Through these steps, the quantitative analyst can obtain a deep understanding of
 
 ## Conclusion
 
-Exploratory Data Analysis is an indispensable step in the workflow of [algorithmic trading](../a/algorithmic_trading.md). It equips traders and analysts with the tools necessary to make informed decisions based on a thorough understanding of data. By employing various statistical and visualization techniques, EDA facilitates the uncovering of insights that can greatly influence the success of [trading strategies](../t/trading_strategies.md). Moreover, the advent of powerful software tools and libraries has made performing EDA more accessible and efficient, enabling algorithmic traders to stay ahead in the competitive markets.
+Exploratory Data Analysis is an indispensable step in the workflow of [algorithmic trading](../a/algorithmic_trading.md). It equips traders and analysts with the tools necessary to make informed decisions based on a thorough understanding of data. By employing various statistical and visualization techniques, EDA facilitates the uncovering of insights that can greatly influence the success of [trading strategies](../t/trading_strategies.md). Moreover, the advent of powerful [software tools](../s/software_tools_for_trading.md) and libraries has made performing EDA more accessible and efficient, enabling algorithmic traders to stay ahead in the competitive markets.

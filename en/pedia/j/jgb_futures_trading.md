@@ -16,7 +16,7 @@ JGB futures are traded on the Tokyo Stock Exchange (TSE) and the Osaka Exchange 
 
 3. **Tick Size**: The minimum price movement, or tick size, for JGB futures is 0.01, which corresponds to a change of ¥10,000 per contract.
 
-4. **Delivery**: JGB futures can be settled either through physical delivery of the underlying bonds or through cash settlement. However, in practice, most JGB futures are settled through cash settlement.
+4. **Delivery**: JGB futures can be settled either through [physical delivery](../p/physical_delivery_in_trading.md) of the underlying bonds or through cash settlement. However, in practice, most JGB futures are settled through cash settlement.
 
 5. **Trading Hours**: The trading hours for JGB futures on the Tokyo Stock Exchange are from 9:00 AM to 3:00 PM Japan Standard Time (JST), with a lunch break from 11:30 AM to 12:30 PM. Additionally, there is a night session that runs from 3:30 PM to 5:30 AM JST.
 

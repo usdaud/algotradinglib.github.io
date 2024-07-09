@@ -81,7 +81,7 @@ print(decision)
 
 ### Real-life Application and Performance
 
-Algo trading firms and platforms frequently incorporate vertical analysis into their algorithms. One example is [Two Sigma](https://www.twosigma.com/), an investment management firm that heavily relies on data science and technology for their [trading strategies](../t/trading_strategies.md). By integrating vertical analysis into their algorithms, they can better understand the financial statements of potential investments and execute trades based on this relative performance evaluation.
+Algo trading firms and platforms frequently incorporate vertical analysis into their algorithms. One example is [Two Sigma](https://www.twosigma.com/), an investment management firm that heavily relies on [data science](../d/data_science_in_trading.md) and technology for their [trading strategies](../t/trading_strategies.md). By integrating vertical analysis into their algorithms, they can better understand the financial statements of potential investments and execute trades based on this relative performance evaluation.
 
 ### Conclusion
 

@@ -52,16 +52,16 @@ Implied [volatility models](../v/volatility_models.md) use information embedded 
 
 ### Machine Learning and AI Techniques
 
-Recent advancements in machine learning (ML) and artificial intelligence (AI) have introduced novel methods for [volatility forecasting](../v/volatility_forecasting.md). Techniques such as neural networks, support vector machines, and ensemble models leverage large datasets to identify complex patterns indicative of future volatility.
+Recent advancements in machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have introduced novel methods for [volatility forecasting](../v/volatility_forecasting.md). Techniques such as [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and ensemble models leverage large datasets to identify complex patterns indicative of future volatility.
 
 ## Tools and Software for Volatility Forecasting
 
-Several software tools and platforms are available for [volatility forecasting](../v/volatility_forecasting.md):
+Several [software tools](../s/software_tools_for_trading.md) and platforms are available for [volatility forecasting](../v/volatility_forecasting.md):
 
 - **Matlab**: Widely used for developing GARCH and [stochastic volatility models](../s/stochastic_volatility_models.md).
 - **R**: Popular among statisticians and data scientists for its extensive package ecosystem tailored to time series and [volatility analysis](../v/volatility_analysis.md).
 - **Python**: With libraries like Pandas, NumPy, and scikit-learn, Python is a versatile choice for implementing machine learning models for [volatility forecasting](../v/volatility_forecasting.md).
-- **Eviews**: Econometrics software commonly used in academic and professional settings for [time series analysis](../t/time_series_analysis.md).
+- **Eviews**: [Econometrics](../e/econometrics_in_trading.md) software commonly used in academic and professional settings for [time series analysis](../t/time_series_analysis.md).
 
 For practical applications and building robust models, integration with trading platforms and historical market data is crucial. Companies like [Quandl](https://www.quandl.com) provide financial data APIs that can be used in conjunction with these tools.
 
@@ -83,7 +83,7 @@ Market makers and traders in [derivatives](../d/derivatives.md) markets rely hea
 
 ### Structural Breaks and Regime Changes
 
-One significant challenge in [volatility forecasting](../v/volatility_forecasting.md) is accounting for structural breaks and regime changes in financial markets. These shifts, often caused by macroeconomic events or policy changes, can disrupt existing models. Future research focuses on developing adaptive models that can respond dynamically to such changes.
+One significant challenge in [volatility forecasting](../v/volatility_forecasting.md) is accounting for [structural breaks](../s/structural_breaks_in_trading.md) and regime changes in financial markets. These shifts, often caused by macroeconomic events or policy changes, can disrupt existing models. Future research focuses on developing adaptive models that can respond dynamically to such changes.
 
 ### High-Frequency Data
 

@@ -34,7 +34,7 @@ Understanding the efficacy of various [trading strategies](../t/trading_strategi
 ### 5. Risk Management
 [Risk management](../r/risk_management.md) is a critical part of [algorithmic trading](../a/algorithmic_trading.md). This section includes:
 - Risk Assessment: Analysis of the risks taken by different strategies.
-- Stress Testing: Testing the algorithms under extreme market conditions to foresee potential losses.
+- [Stress Testing](../s/stress_testing_in_trading.md): Testing the algorithms under extreme market conditions to foresee potential losses.
 - Risk Mitigation Strategies: Methods and alterations made to mitigate identified risks.
 
 ### 6. Economic and Market Forecast
@@ -49,7 +49,7 @@ Regulations can significantly impact [algorithmic trading](../a/algorithmic_trad
 
 ### 8. Technological Developments
 Technological advancements can influence [algorithmic trading](../a/algorithmic_trading.md). This section may cover:
-- New Technologies: Emerging technologies like AI, machine learning, and blockchain.
+- New Technologies: Emerging technologies like AI, machine learning, and [blockchain](../b/blockchain_in_trading.md).
 - System Upgrades: Upgrades in trading platforms or algorithms.
 - Cybersecurity: Measures taken to secure [trading systems](../t/trading_systems.md) against cyber threats.
 

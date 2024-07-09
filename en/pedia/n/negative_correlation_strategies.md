@@ -24,7 +24,7 @@ To effectively implement negative correlation strategies, sophisticated analytic
 
 - **Correlation Matrix**: This is used to quantify the degree of correlation between multiple securities.
 - **Vector Autoregression (VAR)**: A statistical model that captures the linear interdependencies among multiple time series.
-- **Principal Component Analysis (PCA)**: Used to reduce the complexity of a dataset by transforming possibly correlated variables into a set of values of linearly uncorrelated variables called principal components.
+- **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Used to reduce the complexity of a dataset by transforming possibly correlated variables into a set of values of linearly uncorrelated variables called [principal components](../p/principal_components_in_trading.md).
 - **Cointegration Tests**: These tests help in identifying pairs of non-stationary time series that have a stable, long-term relationship.
 
 ### Implementing Negative Correlation Strategies
@@ -56,7 +56,7 @@ This involves the risk of poor execution timing due to latency or other market i
 
 #### Market Risk
 
-Even with negative correlation strategies, extreme market conditions can lead to correlated movements across all assets. Stress testing the model against various scenarios can help in understanding potential vulnerabilities.
+Even with negative correlation strategies, extreme market conditions can lead to correlated movements across all assets. [Stress testing](../s/stress_testing_in_trading.md) the model against various scenarios can help in understanding potential vulnerabilities.
 
 ### Case Studies
 
@@ -74,10 +74,10 @@ Link: [Bridgewater Associates](https://www.bridgewater.com/)
 
 As financial markets become more complex and interconnected, the efficacy of simple negative correlation strategies may diminish. Here are some burgeoning trends and technologies that could influence their future:
 
-1. **Artificial Intelligence and Machine Learning**: AI can uncover patterns and relationships between assets that traditional models might miss. Machine Learning algorithms, such as reinforcement learning and neural networks, are increasingly being used to refine negative correlation strategies.
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: AI can uncover patterns and relationships between assets that traditional models might miss. Machine [Learning algorithms](../l/learning_algorithms_in_trading.md), such as reinforcement learning and [neural networks](../n/neural_networks_in_trading.md), are increasingly being used to refine negative correlation strategies.
 
 2. **[Alternative Data](../a/alternative_data.md)**: Traditional price and volume data are being supplemented with [alternative data](../a/alternative_data.md) sources such as [social media sentiment](../s/social_media_sentiment.md), satellite images, and transaction data, offering new avenues for identifying negatively correlated assets.
 
-3. **Quantum Computing**: Although still in the nascent stages, quantum computing holds the promise of performing complex calculations at unprecedented speeds, potentially revolutionizing the way negative correlation strategies are developed and executed.
+3. **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Although still in the nascent stages, [quantum computing](../q/quantum_computing_in_trading.md) holds the promise of performing complex calculations at unprecedented speeds, potentially revolutionizing the way negative correlation strategies are developed and executed.
 
 In conclusion, negative correlation strategies offer a sophisticated yet challenging approach to achieving risk-adjusted returns in [algorithmic trading](../a/algorithmic_trading.md). By understanding the underlying relationships between assets and employing advanced analytical tools and technologies, traders can build robust portfolios capable of weathering various market conditions.

@@ -22,7 +22,7 @@ Whipsaw events can pose significant risks in both manual and [algorithmic tradin
 
 #### Dynamic Stop-Losses
 
-Dynamic stop-losses adjust based on market volatility and recent price movements. Instead of fixing a stop-loss at a preset level, dynamic stop-losses move closer or further from the entry price based on defined criteria, such as the Average True Range (ATR).
+Dynamic stop-losses adjust based on market volatility and recent price movements. Instead of fixing a stop-loss at a preset level, dynamic stop-losses move closer or further from the entry price based on defined criteria, such as the [Average True Range](../a/average_true_range_(atr).md) (ATR).
 
 ```python
 def dynamic_stop_loss(entry_price, atr):

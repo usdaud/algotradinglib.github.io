@@ -19,12 +19,12 @@ A rolling forecast is a forecasting method that uses historical data to predict 
 1. **Adaptability**: Rolling forecasts facilitate the creation of models that can adapt in real-time to market changes, ensuring that [trading strategies](../t/trading_strategies.md) remain relevant.
 2. **[Risk Management](../r/risk_management.md)**: By continuously updating forecasts, traders can better anticipate potential market risks, allowing for more effective [risk management](../r/risk_management.md) strategies.
 3. **Optimized Trading Decisions**: Leveraging up-to-date information allows algorithms to make more informed and timely trading decisions, potentially leading to increased profitability.
-4. **Integration with Machine Learning**: Rolling forecasts can be effectively integrated with machine learning models, particularly supervised learning algorithms that thrive on continuous, updated data streams.
+4. **Integration with Machine Learning**: Rolling forecasts can be effectively integrated with machine learning models, particularly supervised [learning algorithms](../l/learning_algorithms_in_trading.md) that thrive on continuous, updated data streams.
 
 ### Methodologies Used
 
 1. **[Time Series Analysis](../t/time_series_analysis.md)**: Techniques such as ARIMA (AutoRegressive Integrated Moving Average), SARIMA (Seasonal ARIMA), and [Exponential Smoothing](../e/exponential_smoothing.md) are commonly used.
-2. **Machine Learning Models**: Techniques like Random Forests, Gradient Boosting Machines, Long Short-Term Memory (LSTM) networks, and other deep learning models are increasingly prevalent.
+2. **Machine Learning Models**: Techniques like [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, Long Short-Term Memory (LSTM) networks, and other deep learning models are increasingly prevalent.
 3. **Hybrid Models**: These combine classical time series methods with machine learning approaches to leverage the strengths of both.
 
 ### Example: Application in Trading Strategies
@@ -40,7 +40,7 @@ A practical example of rolling forecasts in an [algorithmic trading](../a/algori
 
 ### Software and Tools
 
-Several software tools and platforms support rolling forecasts, including:
+Several [software tools](../s/software_tools_for_trading.md) and platforms support rolling forecasts, including:
 
 1. **[QuantConnect](../q/quantconnect.md)**: Provides a powerful [algorithmic trading](../a/algorithmic_trading.md) platform that can use rolling forecasts. Website: [QuantConnect](https://www.quantconnect.com)
 2. **[AlgoTrader](../a/algotrader.md)**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software provider that supports rolling forecasts and other advanced forecasting techniques. Website: [AlgoTrader](https://www.algotrader.com)
@@ -48,8 +48,8 @@ Several software tools and platforms support rolling forecasts, including:
 
 ### Future Trends and Developments
 
-1. **Integration with AI**: The future will likely see even more integration of artificial intelligence with rolling forecasts, enabling even more sophisticated [predictive analytics](../p/predictive_analytics.md).
-2. **Quantum Computing**: As quantum computing becomes more accessible, it may revolutionize how rolling forecasts are computed and applied in real-time scenarios.
-3. **Big Data**: The increasing availability of big data will further enhance the accuracy and applicability of rolling forecasts in [algorithmic trading](../a/algorithmic_trading.md).
+1. **Integration with AI**: The future will likely see even more integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) with rolling forecasts, enabling even more sophisticated [predictive analytics](../p/predictive_analytics.md).
+2. **[Quantum Computing](../q/quantum_computing_in_trading.md)**: As [quantum computing](../q/quantum_computing_in_trading.md) becomes more accessible, it may revolutionize how rolling forecasts are computed and applied in real-time scenarios.
+3. **[Big Data](../b/big_data_in_trading.md)**: The increasing availability of [big data](../b/big_data_in_trading.md) will further enhance the accuracy and applicability of rolling forecasts in [algorithmic trading](../a/algorithmic_trading.md).
 
 Rolling forecasts are a dynamic and powerful method for predicting future market conditions and are indispensable in the toolkit of modern algorithmic traders. By continuously updating predictions based on new data, rolling forecasts help ensure that [trading models](../t/trading_models.md) remain relevant and accurate in a constantly changing market environment.

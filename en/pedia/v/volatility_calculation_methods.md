@@ -99,7 +99,7 @@ Where:
 - \( \sigma \) is the volatility
 - \( W_t \) is a standard Wiener process
 - \( J \) is the jump size (log-normally distributed)
-- \( dq_t \) is a Poisson process with jump intensity λ
+- \( dq_t \) is a [Poisson process](../p/poisson_process_in_trading.md) with jump intensity λ
 
 Jump-diffusion models are used to better capture the leptokurtic nature of asset return distributions (i.e., heavy tails).
 

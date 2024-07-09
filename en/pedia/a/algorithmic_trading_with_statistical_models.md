@@ -34,20 +34,20 @@ Statistical models form the backbone of many [algorithmic trading](../a/algorith
 - **Common Methods**:
   - **ARIMA (AutoRegressive Integrated Moving Average)**: Combines autoregression, differencing, and moving averages to produce forecasts.
   - **GARCH (Generalized Autoregressive Conditional Heteroskedasticity)**: Models and forecasts financial volatility.
-  - **Kalman Filter**: Used to infer the hidden states of a system from noisy observations.
+  - **[Kalman Filter](../k/kalman_filter_in_trading.md)**: Used to infer the hidden states of a system from noisy observations.
 
 ### Machine Learning Models
 
 **Machine Learning (ML)** techniques have gained popularity in [algorithmic trading](../a/algorithmic_trading.md) due to their ability to model complex, non-linear relationships in data.
 
 - **Supervised Learning**: Models are trained on labeled data to predict outcomes.
-  - **Examples**: [Linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), support vector machines.
+  - **Examples**: [Linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md).
 - **Unsupervised Learning**: Models identify inherent structures in data without labeled outcomes.
-  - **Examples**: [Clustering algorithms](../c/clustering_algorithms.md) like k-means, Principal Component Analysis (PCA).
+  - **Examples**: [Clustering algorithms](../c/clustering_algorithms.md) like k-means, [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA).
 
 ### Probabilistic Models
 
-**Probabilistic Models** incorporate uncertainty and randomness in financial markets. One popular model in this category is the **Hidden Markov Model (HMM)**.
+**Probabilistic Models** incorporate [uncertainty](../u/uncertainty_in_trading.md) and randomness in financial markets. One popular model in this category is the **Hidden Markov Model (HMM)**.
 
 - **Hidden Markov Model (HMM)**: Used to infer the unobservable state of a process that generates observable data. Particularly useful for modeling market regimes and transitions between different market conditions.
 
@@ -110,11 +110,11 @@ Overfitting occurs when a model describes random noise instead of underlying pat
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is one of the most successful hedge funds employing [algorithmic trading](../a/algorithmic_trading.md). They use sophisticated mathematical models and statistics to generate high-frequency [trading strategies](../t/trading_strategies.md). More information can be found on their [website](https://www.rentec.com).
+Renaissance Technologies, founded by Jim Simons, is one of the most successful hedge funds employing [algorithmic trading](../a/algorithmic_trading.md). They use sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and statistics to generate high-frequency [trading strategies](../t/trading_strategies.md). More information can be found on their [website](https://www.rentec.com).
 
 ### Two Sigma
 
-Two Sigma is another prominent player in [quantitative trading](../q/quantitative_trading.md). They leverage big data and advanced analytics to identify trading opportunities. You can learn more about their approach on their [website](https://www.twosigma.com).
+Two Sigma is another prominent player in [quantitative trading](../q/quantitative_trading.md). They leverage [big data](../b/big_data_in_trading.md) and advanced analytics to identify trading opportunities. You can learn more about their approach on their [website](https://www.twosigma.com).
 
 ### DE Shaw
 
@@ -122,6 +122,6 @@ Founded by David E. Shaw, DE Shaw has been a pioneer in [proprietary trading](..
 
 ## Future of Algorithmic Trading
 
-Advancements in artificial intelligence (AI) and machine learning are set to further revolutionize [algorithmic trading](../a/algorithmic_trading.md). Predictive models are expected to become more accurate, adaptive, and capable of processing an ever-increasing volume of data. Additionally, the integration of blockchain technology may enhance transparency and security in trading activities.
+Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are set to further revolutionize [algorithmic trading](../a/algorithmic_trading.md). [Predictive models](../p/predictive_models_in_trading.md) are expected to become more accurate, adaptive, and capable of processing an ever-increasing volume of data. Additionally, the integration of [blockchain](../b/blockchain_in_trading.md) technology may enhance transparency and security in trading activities.
 
 In summary, [algorithmic trading](../a/algorithmic_trading.md) with statistical models has established itself as an indispensable tool in modern financial markets. While the benefits are clear, traders must navigate the complexities of market behavior, technological constraints, and regulatory requirements to develop and deploy successful strategies.

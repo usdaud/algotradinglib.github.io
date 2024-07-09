@@ -72,7 +72,7 @@ Kondratieff identified several historical waves spanning centuries, each associa
 
 ### Fifth Kondratieff Wave (2000-present)
 
-- **Technological Innovation**: The current wave is driven by advancements in digital technologies, biotechnology, renewable energy, and artificial intelligence.
+- **Technological Innovation**: The current wave is driven by advancements in digital technologies, biotechnology, renewable energy, and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 - **Economic Impact**: These innovations are creating new industries and transforming existing ones, leading to significant shifts in employment, productivity, and global economic dynamics.
 
 ## Implications for Algo Trading

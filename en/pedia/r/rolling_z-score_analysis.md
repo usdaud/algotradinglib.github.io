@@ -60,11 +60,11 @@ For example, if an asset's Rolling Z-Score exceeds a threshold (e.g., ±2), it s
 
 ### 2. Statistical Arbitrage
 
-In statistical [arbitrage](../a/arbitrage.md), Rolling Z-Scores help identify pairs of assets or portfolios that are temporarily mispriced relative to each other. Traders capitalize on the convergence of their prices by shorting the overvalued asset and longing the undervalued one.
+In statistical [arbitrage](../a/arbitrage.md), Rolling [Z-Scores](../z/z-scores_in_trading.md) help identify pairs of assets or portfolios that are temporarily mispriced relative to each other. Traders capitalize on the convergence of their prices by shorting the overvalued asset and longing the undervalued one.
 
 ### 3. Risk Management
 
-Rolling Z-Scores are also useful for [risk management](../r/risk_management.md). By monitoring the Z-Score, traders can identify abnormal price movements and adjust their positions or risk parameters accordingly to mitigate potential losses.
+Rolling [Z-Scores](../z/z-scores_in_trading.md) are also useful for [risk management](../r/risk_management.md). By monitoring the Z-Score, traders can identify abnormal price movements and adjust their positions or risk parameters accordingly to mitigate potential losses.
 
 ## Implementing Rolling Z-Score in Algorithmic Trading
 
@@ -155,7 +155,7 @@ plt.show()
 
 ### Step 6: Deployment
 
-After successful [backtesting](../b/backtesting.md), deploy the algorithm in a live [trading environment](../t/trading_environment.md). Use real-time data feeds and integrate with trading platforms such as MetaTrader, Interactive Brokers, or [Alpaca](../a/alpaca.md) to execute trades.
+After successful [backtesting](../b/backtesting.md), deploy the algorithm in a live [trading environment](../t/trading_environment.md). Use real-time data feeds and integrate with trading platforms such as MetaTrader, [Interactive Brokers](../i/interactive_brokers.md), or [Alpaca](../a/alpaca.md) to execute trades.
 
 Example with [Alpaca](../a/alpaca.md):
 

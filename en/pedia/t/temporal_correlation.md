@@ -62,7 +62,7 @@ While temporal correlation offers valuable insights, it is not free from challen
 
 1. **Non-Stationarity**: [Financial time series](../f/financial_time_series.md) are often non-stationary, meaning their statistical properties change over time, making it harder to rely on past correlations.
 2. **Overfitting**: Over-reliance on historical data and correlations can lead to overfitting, where the model performs well on past data but poorly on future data.
-3. **Regime Shifts**: Market regimes can change due to economic, political, or other factors, affecting the temporal correlations and rendering past data less useful.
+3. **[Regime Shifts](../r/regime_shifts_in_trading.md)**: Market regimes can change due to economic, political, or other factors, affecting the temporal correlations and rendering past data less useful.
 
 ## Conclusion
 

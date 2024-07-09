@@ -6,7 +6,7 @@ Grid search involves systematically working through multiple combinations of par
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) refers to the use of computer algorithms to trade on financial markets. The algorithms make decisions to buy or sell assets using various strategies, often based on complex mathematical models and analysis. 
+[Algorithmic trading](../a/algorithmic_trading.md) refers to the use of computer algorithms to trade on financial markets. The algorithms make decisions to buy or sell assets using various strategies, often based on complex [mathematical models](../m/mathematical_models_in_trading.md) and analysis. 
 
 ## Parameters in Trading Strategies
 
@@ -128,7 +128,7 @@ Grid search can be time-consuming, especially for strategies that involve long c
 
 ### 1. Advanced Optimization Techniques
 
-With computational advancements, more sophisticated optimization techniques like random search, [Bayesian optimization](../b/bayesian_optimization.md), and genetic algorithms are gaining attention. These methods are less exhaustive but can be more efficient in finding optimal parameters.
+With computational advancements, more sophisticated optimization techniques like random search, [Bayesian optimization](../b/bayesian_optimization.md), and [genetic algorithms](../g/genetic_algorithms_in_trading.md) are gaining attention. These methods are less exhaustive but can be more efficient in finding optimal parameters.
 
 ### 2. Automated Trading Platforms
 

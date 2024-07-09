@@ -34,7 +34,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), gamma adjustment involves
 
 - **[Portfolio Rebalancing](../p/portfolio_rebalancing.md) Algorithms**: These algorithms automatically adjust the positions in the portfolio to maintain the desired delta-neutral status. They continuously monitor the delta and gamma exposures and execute trades in the underlying asset or options to rebalance the portfolio as needed.
 - **[Dynamic Hedging](../d/dynamic_hedging.md) Models**: [Dynamic hedging](../d/dynamic_hedging.md) models use advanced statistical and mathematical techniques to predict the future behavior of the underlying asset and adjust the portfolio accordingly. These models can incorporate factors such as [historical volatility](../h/historical_volatility.md), current market conditions, and [option Greeks](../o/option_greeks.md) to optimize gamma adjustment.
-- **Machine Learning Algorithms**: Machine learning techniques, including regression models, neural networks, and reinforcement learning, can be employed to predict changes in delta and gamma and suggest optimal adjustments to the portfolio. These algorithms can learn from historical data and adapt to changing market conditions in real-time.
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Machine learning techniques, including regression models, [neural networks](../n/neural_networks_in_trading.md), and reinforcement learning, can be employed to predict changes in delta and gamma and suggest optimal adjustments to the portfolio. These algorithms can learn from historical data and adapt to changing market conditions in real-time.
 
 ### Real-World Gamma Adjustment Applications
 

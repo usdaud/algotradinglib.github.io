@@ -30,7 +30,7 @@ Identifying growth potential involves analyzing several key metrics:
 Utilizing advanced algorithms enhances the efficiency and accuracy of VGA:
 
 - **Machine Learning**: Algorithms trained on historical data to predict future stock performance.
-- **Natural Language Processing (NLP)**: Analyzes news articles and social media posts for [sentiment analysis](../s/sentiment_analysis.md).
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Analyzes news articles and social media posts for [sentiment analysis](../s/sentiment_analysis.md).
 - **[Quantitative Models](../q/quantitative_models.md)**: Employ statistical methods to identify correlations and patterns in the data.
 
 ### 5. Risk Management
@@ -38,7 +38,7 @@ Effective VGA incorporates risk assessment and management techniques:
 
 - **[Volatility Analysis](../v/volatility_analysis.md)**: Monitors stock price fluctuations to gauge risk.
 - **Value at Risk (VaR)**: Estimates the potential loss within a given time frame.
-- **Stress Testing**: Simulates adverse market conditions to test the robustness of the portfolio.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulates adverse market conditions to test the robustness of the portfolio.
 
 ## Tools and Platforms for VGA
 

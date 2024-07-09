@@ -26,14 +26,14 @@ Effective [market timing](../m/market_timing.md) often involves the use of sophi
 - **Relative Strength Index (RSI)**: A momentum oscillator that measures the speed and change of price movements.
 - **Moving Average Convergence Divergence (MACD)**: A trend-following momentum indicator that shows the relationship between two moving averages of a security’s price.
 - **Fibonacci Retracement**: A method of [technical analysis](../t/technical_analysis.md) for determining [support and resistance](../s/support_and_resistance.md) levels.
-- **[Economic Indicators](../e/economic_indicators.md)**: Macroeconomic data such as GDP growth rates, inflation rates, and unemployment figures can also provide context for predicting market movements.
+- **[Economic Indicators](../e/economic_indicators.md)**: Macroeconomic data such as GDP [growth rates](../g/growth_rates_in_trading.md), inflation rates, and unemployment figures can also provide context for predicting market movements.
 
 ### Algorithms in Market Timing
 
-With the rise of artificial intelligence and machine learning, [algorithmic trading](../a/algorithmic_trading.md) strategies have become increasingly popular. These algorithms can process vast amounts of data in real-time and make trading decisions at speeds unattainable by human traders. Key components of algorithmic [market timing](../m/market_timing.md) strategies include:
+With the rise of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, [algorithmic trading](../a/algorithmic_trading.md) strategies have become increasingly popular. These algorithms can process vast amounts of data in real-time and make trading decisions at speeds unattainable by human traders. Key components of algorithmic [market timing](../m/market_timing.md) strategies include:
 
 - **[Quantitative Models](../q/quantitative_models.md)**: These models use statistical techniques to identify trading opportunities based on historical market data.
-- **Machine Learning Algorithms**: Techniques like neural networks and random forests are employed to detect patterns and make predictions.
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Techniques like [neural networks](../n/neural_networks_in_trading.md) and [random forests](../r/random_forests_in_trading.md) are employed to detect patterns and make predictions.
 - **[Sentiment Analysis](../s/sentiment_analysis.md)**: AI tools analyze news articles, social media, and other textual information to gauge market sentiment and make predictions.
 
 ### Advantages and Disadvantages

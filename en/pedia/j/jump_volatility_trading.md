@@ -10,7 +10,7 @@ Volatility is a statistical measure of the dispersion of returns for a given sec
 
 ### Jump Processes in Finance
 
-In the context of financial markets, jump processes refer to sudden, discontinuous changes in asset prices. Unlike continuous processes where prices evolve smoothly, jump processes introduce abrupt shifts that can be challenging to predict and model. These jumps often occur due to new information entering the market, leading to a rapid reassessment of asset values.
+In the context of financial markets, [jump processes](../j/jump_processes_in_trading.md) refer to sudden, discontinuous changes in asset prices. Unlike continuous processes where prices evolve smoothly, [jump processes](../j/jump_processes_in_trading.md) introduce abrupt shifts that can be challenging to predict and model. These jumps often occur due to new information entering the market, leading to a rapid reassessment of asset values.
 
 ### Jump-Diffusion Models
 
@@ -20,7 +20,7 @@ One of the popular mathematical frameworks for modeling jump volatility is the j
 
 ### Detection of Jumps
 
-The first step in jump volatility trading is the detection of jumps. This involves analyzing historical price data to identify instances where significant price jumps have occurred. Various statistical techniques, such as the Bai-Perron test or the Lee-Mykland test, can be used to detect structural breaks and jumps in time series data.
+The first step in jump volatility trading is the detection of jumps. This involves analyzing historical price data to identify instances where significant price jumps have occurred. Various statistical techniques, such as the Bai-Perron test or the Lee-Mykland test, can be used to detect [structural breaks](../s/structural_breaks_in_trading.md) and jumps in time series data.
 
 ### Measuring Jump Intensity and Size
 
@@ -56,7 +56,7 @@ High-frequency trading plays a crucial role in jump volatility trading. HFT invo
 
 ### Machine Learning and AI
 
-Machine learning and artificial intelligence (AI) have revolutionized jump volatility trading by enabling the development of predictive models that can identify patterns and trends in vast amounts of data. These models can anticipate the likelihood of price jumps and optimize [trading strategies](../t/trading_strategies.md) in real-time.
+Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have revolutionized jump volatility trading by enabling the development of [predictive models](../p/predictive_models_in_trading.md) that can identify patterns and trends in vast amounts of data. These models can anticipate the likelihood of price jumps and optimize [trading strategies](../t/trading_strategies.md) in real-time.
 
 ### Real-Time Data Feeds
 
@@ -70,7 +70,7 @@ Access to real-time data feeds is essential for jump volatility trading. Traders
 
 ### Model Risk
 
-One of the primary risks in jump volatility trading is model risk. This occurs when the mathematical models used to predict and respond to jumps are flawed or based on incorrect assumptions. Traders must continuously validate and update their models to ensure accuracy.
+One of the primary risks in jump volatility trading is model risk. This occurs when the [mathematical models](../m/mathematical_models_in_trading.md) used to predict and respond to jumps are flawed or based on incorrect assumptions. Traders must continuously validate and update their models to ensure accuracy.
 
 ### Liquidity Risk
 
@@ -94,7 +94,7 @@ Citadel Securities is a leading market maker and trading firm known for its expe
 
 ### Two Sigma
 
-Two Sigma is a quantitative investment firm that applies advanced data science and technology to [trading strategies](../t/trading_strategies.md). The firm focuses on research-driven approaches, including those related to jump volatility. Learn more at [Two Sigma](https://www.twosigma.com/).
+Two Sigma is a quantitative investment firm that applies advanced [data science](../d/data_science_in_trading.md) and technology to [trading strategies](../t/trading_strategies.md). The firm focuses on research-driven approaches, including those related to jump volatility. Learn more at [Two Sigma](https://www.twosigma.com/).
 
 ### Jump Trading
 
@@ -106,4 +106,4 @@ DRW Trading is a diversified principal trading firm that engages in various [tra
 
 ## Conclusion
 
-Jump volatility trading is a complex and dynamic area of [algorithmic trading](../a/algorithmic_trading.md) that requires a deep understanding of market behavior, advanced mathematical models, and cutting-edge technology. By focusing on sudden price jumps and employing sophisticated strategies, traders can potentially achieve significant returns. However, the risks and challenges associated with jump volatility trading necessitate robust [risk management](../r/risk_management.md) practices and continuous innovation.
+Jump volatility trading is a complex and dynamic area of [algorithmic trading](../a/algorithmic_trading.md) that requires a deep understanding of market behavior, advanced [mathematical models](../m/mathematical_models_in_trading.md), and cutting-edge technology. By focusing on sudden price jumps and employing sophisticated strategies, traders can potentially achieve significant returns. However, the risks and challenges associated with jump volatility trading necessitate robust [risk management](../r/risk_management.md) practices and continuous innovation.

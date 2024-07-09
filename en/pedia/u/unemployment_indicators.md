@@ -76,7 +76,7 @@ When designing algorithms that leverage unemployment indicators, several conside
 1. **Data Quality**: Ensuring the accuracy and reliability of unemployment data is paramount. Incorrect data can lead to erroneous trades.
 2. **Latency**: Rapid response to the release of unemployment data can be critical. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md), in particular, must process data with minimal delay to capitalize on market movements.
 3. **Historical Analysis**: [Backtesting](../b/backtesting.md) algorithms with historical unemployment data helps validate their effectiveness and refine their parameters.
-4. **Machine Learning**: Incorporating machine learning can enhance algorithms' ability to predict market movements based on unemployment indicators. Models like [regression analysis](../r/regression_analysis.md), neural networks, and [decision trees](../d/decision_trees.md) can be deployed.
+4. **Machine Learning**: Incorporating machine learning can enhance algorithms' ability to predict market movements based on unemployment indicators. Models like [regression analysis](../r/regression_analysis.md), [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) can be deployed.
 5. **[Risk Management](../r/risk_management.md)**: Developing robust [risk management](../r/risk_management.md) protocols to prevent significant losses due to unexpected unemployment data is essential.
 
 ## Conclusion

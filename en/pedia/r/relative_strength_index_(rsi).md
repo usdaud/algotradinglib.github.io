@@ -97,8 +97,8 @@ Implementing RSI-based strategies involves the use of trading platforms and soft
 
 While RSI is a powerful tool, it is not without limitations:
 
-1. **False Signals**:
-    - RSI may generate false signals, especially in highly volatile markets where price movements are erratic.
+1. **[False Signals](../f/false_signals_in_trading.md)**:
+    - RSI may generate [false signals](../f/false_signals_in_trading.md), especially in highly volatile markets where price movements are erratic.
     
 2. **Lagging Indicator**:
     - As a momentum oscillator, RSI may sometimes lag behind actual price movements, causing delayed entry or exit points.

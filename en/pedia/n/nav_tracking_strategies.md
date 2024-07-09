@@ -60,12 +60,12 @@ Index replication involves building a portfolio that exactly or approximately ma
 ### 5. Statistical Arbitrage
 
 #### Description
-Statistical [arbitrage](../a/arbitrage.md) utilizes statistical and mathematical models to identify mispriced assets expected to converge to their fair value over time.
+Statistical [arbitrage](../a/arbitrage.md) utilizes statistical and [mathematical models](../m/mathematical_models_in_trading.md) to identify mispriced assets expected to converge to their fair value over time.
 
 #### Methodology
 - **[Mean Reversion](../m/mean_reversion.md)**: Betting that the price of a mispriced security will revert to its historical mean.
 - **[Pairs Trading](../p/pairs_trading.md)**: Simultaneously buying and selling correlated securities to exploit relative price movements.
-- **Machine Learning**: Implementing machine learning algorithms to predict price movements and optimize [trading strategies](../t/trading_strategies.md).
+- **Machine Learning**: Implementing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict price movements and optimize [trading strategies](../t/trading_strategies.md).
 
 ## Technological and Analytical Tools
 

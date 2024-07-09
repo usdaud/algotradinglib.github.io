@@ -71,7 +71,7 @@ For both asset classes, the key objectives are to ensure timely delivery of secu
 
 Technology and innovation are addressing these challenges in several ways:
 
-1. **Blockchain and Distributed Ledger Technology (DLT)**: These technologies can potentially streamline settlement processes by providing a secure and transparent ledger for recording trades and settlements. Notable examples include the [SETL project](https://www.setl.io/home).
+1. **[Blockchain](../b/blockchain_in_trading.md) and Distributed Ledger Technology (DLT)**: These technologies can potentially streamline settlement processes by providing a secure and transparent ledger for recording trades and settlements. Notable examples include the [SETL project](https://www.setl.io/home).
 2. **Real-Time Gross Settlement (RTGS)**: Some securities are moving towards real-time gross settlement to reduce settlement risk and enhance liquidity.
 
 ### Case Study: DTCC
@@ -81,7 +81,7 @@ The DTCC is one of the world's largest post-trade financial services firms. It o
 1. **National Securities Clearing Corporation (NSCC)**: Provides clearing, settlement, [risk management](../r/risk_management.md), and central counterparty services for trades in the US securities market.
 2. **Depository Trust Company (DTC)**: Provides custody and settlement services for equities, bonds, and other securities.
 
-The DTCC has been at the forefront of adopting new technologies to enhance post-trade processes, including blockchain and DLT, to make settlement more efficient and secure. More information about DTCC can be found [here](http://www.dtcc.com).
+The DTCC has been at the forefront of adopting new technologies to enhance post-trade processes, including [blockchain](../b/blockchain_in_trading.md) and DLT, to make settlement more efficient and secure. More information about DTCC can be found [here](http://www.dtcc.com).
 
 ## Regulatory Framework
 

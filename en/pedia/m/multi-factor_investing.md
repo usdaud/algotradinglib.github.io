@@ -44,7 +44,7 @@ The selection of appropriate factors is crucial. It involves analyzing historica
 After selecting factors, assigning weights to each factor is necessary. Equal weighting, [risk parity](../r/risk_parity.md), and optimization-based weighting are among the methods used to determine the contribution of each factor to the portfolio.
 
 ### Risk Management
-[Risk management](../r/risk_management.md) is integral to multi-[factor investing](../f/factor_investing.md). Techniques such as diversification, regular rebalancing, and stress testing are employed to mitigate risks associated with individual factors and the overall portfolio.
+[Risk management](../r/risk_management.md) is integral to multi-[factor investing](../f/factor_investing.md). Techniques such as diversification, regular rebalancing, and [stress testing](../s/stress_testing_in_trading.md) are employed to mitigate risks associated with individual factors and the overall portfolio.
 
 ## Advantages of Multi-Factor Investing
 
@@ -92,7 +92,7 @@ Overfitting occurs when a model is too closely tailored to historical data, capt
 Environmental, social, and governance (ESG) considerations are becoming increasingly integrated into [factor investing](../f/factor_investing.md). Combining traditional factors with ESG criteria can align investments with broader sustainability goals.
 
 ### Advances in Technology
-Technological advancements, including machine learning and artificial intelligence, are enhancing the capabilities of multi-[factor models](../f/factor_models.md). These technologies facilitate the analysis of vast datasets, uncovering new factors and improving the accuracy of predictions.
+Technological advancements, including machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are enhancing the capabilities of multi-[factor models](../f/factor_models.md). These technologies facilitate the analysis of vast datasets, uncovering new factors and improving the accuracy of predictions.
 
 ### Personalized Investment Solutions
 The trend towards customization is driving the development of personalized multi-factor investment solutions. Robo-advisors and fintech platforms are leveraging multi-factor strategies to create tailored portfolios for individual investors.

@@ -22,7 +22,7 @@ CoinGecko is a leading cryptocurrency data aggregator that provides a comprehens
 
 9. **Mobile App**: CoinGecko has a mobile app available on iOS and Android, offering the same comprehensive data and features as the web platform.
 
-10. **Educational Resources**: CoinGecko provides educational content through its blog, research reports, and a dedicated section called CoinGecko Learn, which includes guides and tutorials on cryptocurrency and blockchain technology.
+10. **Educational Resources**: CoinGecko provides educational content through its blog, research reports, and a dedicated section called CoinGecko Learn, which includes guides and tutorials on cryptocurrency and [blockchain](../b/blockchain_in_trading.md) technology.
 
 ## Benefits
 - **Extensive Data Coverage**: CoinGecko covers a vast number of cryptocurrencies and exchanges, providing users with a comprehensive view of the market.

@@ -56,7 +56,7 @@ High-frequency trading firms, such as **Citadel Securities** (https://www.citade
 ### Academic Research
 
 Academic research has extensively studied order book imbalances:
-- **Empirical Analysis of Order Book Imbalance and Its Implications**: This study analyzes how order book imbalances affect short-term price movements and market liquidity.
+- **[Empirical Analysis](../e/empirical_analysis_in_trading.md) of Order Book Imbalance and Its Implications**: This study analyzes how order book imbalances affect short-term price movements and market liquidity.
 - **Order Book Imbalance and [Market Efficiency](../m/market_efficiency.md)**: Investigates the relationship between order book imbalances and the [efficient market hypothesis](../e/efficient_market_hypothesis.md), showing how imbalances can lead to predictable price changes, thus questioning [market efficiency](../m/market_efficiency.md).
 
 ## Implementation Considerations

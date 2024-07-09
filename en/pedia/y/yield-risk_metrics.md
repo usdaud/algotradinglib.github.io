@@ -90,7 +90,7 @@ Several companies specialize in providing tools and services related to yield-[r
 
 #### 2. Numerai
 
-Numerai (https://numer.ai) leverages data science and machine learning to develop [trading strategies](../t/trading_strategies.md). They utilize yield-[risk metrics](../r/risk_metrics.md) to evaluate the performance of predictive models contributed by their community of data scientists.
+Numerai (https://numer.ai) leverages [data science](../d/data_science_in_trading.md) and machine learning to develop [trading strategies](../t/trading_strategies.md). They utilize yield-[risk metrics](../r/risk_metrics.md) to evaluate the performance of [predictive models](../p/predictive_models_in_trading.md) contributed by their community of data scientists.
 
 #### 3. Two Sigma
 

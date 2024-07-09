@@ -10,7 +10,7 @@ The theory of [market cycles](../m/market_cycles.md) is rooted in the [Dow Theor
 
 #### Key Theories
 1. **[Dow Theory](../d/dow_theory.md)**: Suggests that markets move in a series of highs and lows, influenced by [economic cycles](../e/economic_cycles.md).
-2. **[Elliott Wave Theory](../e/elliott_wave_theory.md)**: Proposes that markets move in predictable wave patterns influenced by investor psychology.
+2. **[Elliott Wave Theory](../e/elliott_wave_theory.md)**: Proposes that markets move in predictable [wave patterns](../w/wave_patterns_in_trading.md) influenced by investor psychology.
 
 ## Methodology
 The 20-week cycle can be identified through various methodologies like Moving Averages, Cyclical Analysis, and Fourier Transforms.
@@ -59,7 +59,7 @@ Supports custom indicators and scripts for implementing cyclical analysis. [Meta
 [Algorithmic trading](../a/algorithmic_trading.md) platforms leverage computational approaches for higher accuracy in cycle prediction.
 
 ### Machine Learning
-Machine learning algorithms such as LSTM (Long Short-Term Memory) networks can be trained to predict [market cycles](../m/market_cycles.md) more accurately.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) such as LSTM (Long Short-Term Memory) networks can be trained to predict [market cycles](../m/market_cycles.md) more accurately.
 
 ### High-Frequency Trading (HFT)
 HFT firms use low-latency algorithms to exploit micro-cycles within the 20-week cycle.

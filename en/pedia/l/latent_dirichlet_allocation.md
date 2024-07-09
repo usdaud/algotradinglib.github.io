@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Latent Dirichlet Allocation (LDA) is a powerful generative probabilistic model primarily used for topic modeling and natural language processing. However, LDA can also be applied in the context of [algorithmic trading](../a/algorithmic_trading.md) to uncover latent patterns in large datasets, enabling market prediction and trading strategy optimization. This article explores LDA's application in the domain of algotrading, explaining its fundamentals, and providing examples of its practical usage.
+Latent Dirichlet Allocation (LDA) is a powerful generative probabilistic model primarily used for topic modeling and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md). However, LDA can also be applied in the context of [algorithmic trading](../a/algorithmic_trading.md) to uncover latent patterns in large datasets, enabling market prediction and trading strategy optimization. This article explores LDA's application in the domain of algotrading, explaining its fundamentals, and providing examples of its practical usage.
 
 ## Fundamentals of Latent Dirichlet Allocation
 
@@ -79,10 +79,10 @@ Beyond company-specific data, LDA can analyze macro-economic reports, central ba
 2. **Scikit-learn**: A machine learning library in Python that includes an implementation of LDA.
    - Website: [Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html)
    
-3. **SpaCy**: An open-source software library for advanced natural language processing in Python, useful for preprocessing text.
+3. **SpaCy**: An open-source software library for advanced [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) in Python, useful for preprocessing text.
    - Website: [SpaCy](https://spacy.io/)
    
-4. **NLTK**: The Natural Language Toolkit, a suite of libraries and programs for symbolic and statistical natural language processing for English.
+4. **NLTK**: The Natural Language Toolkit, a suite of libraries and programs for symbolic and statistical [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) for English.
    - Website: [NLTK](https://www.nltk.org/)
    
 5. **PyLDAvis**: A Python library for visualizing LDA model results in an interactive manner.

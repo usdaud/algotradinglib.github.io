@@ -5,16 +5,16 @@ Quantitative financial models are mathematical constructs that simulate market b
 ## Types of Quantitative Financial Models
 
 ### 1. Statistical Arbitrage Models
-Statistical [arbitrage](../a/arbitrage.md) (stat arb) models involve the use of statistical methods to exploit price inefficiencies between securities. These models rely heavily on [mean reversion](../m/mean_reversion.md) techniques, [co-integration](../c/co-integration.md), and machine learning algorithms to identify temporarily mispriced assets.
+Statistical [arbitrage](../a/arbitrage.md) (stat arb) models involve the use of statistical methods to exploit price inefficiencies between securities. These models rely heavily on [mean reversion](../m/mean_reversion.md) techniques, [co-integration](../c/co-integration.md), and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to identify temporarily mispriced assets.
 
 ### 2. Factor Models
 [Factor models](../f/factor_models.md) are used to explain asset returns through various explanatory variables or 'factors', which could be macroeconomic indicators, industry-specific factors, or company-specific metrics. The most well-known among these is the Capital Asset Pricing Model (CAPM), which uses a single factor - the market (beta) - to explain returns. Multifactor models like the Fama-French three-factor model incorporate additional factors such as size and value.
 
 ### 3. Time Series Models
-Time series models analyze and forecast financial data points sequenced over time. Commonly used time series models include Autoregressive Integrated Moving Average (ARIMA), Generalized Autoregressive Conditional Heteroskedasticity (GARCH), and more advanced Long Short-Term Memory (LSTM) networks, which are recurrent neural networks adept at handling sequential data.
+Time series models analyze and forecast financial data points sequenced over time. Commonly used time series models include Autoregressive Integrated Moving Average (ARIMA), Generalized Autoregressive Conditional Heteroskedasticity (GARCH), and more advanced Long Short-Term Memory (LSTM) networks, which are recurrent [neural networks](../n/neural_networks_in_trading.md) adept at handling sequential data.
 
 ### 4. Machine Learning Models
-Machine learning models rely on [computational algorithms](../c/computational_algorithms.md) to analyze financial data, learn patterns, and make predictions. These models include supervised learning techniques like regression and classification, as well as unsupervised learning techniques such as clustering and dimensionality reduction. Reinforcement learning models, where learning takes place through interaction with an environment, are also increasingly applied in dynamic [trading strategies](../t/trading_strategies.md).
+Machine learning models rely on [computational algorithms](../c/computational_algorithms.md) to analyze financial data, learn patterns, and make predictions. These models include supervised learning techniques like regression and classification, as well as unsupervised learning techniques such as clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md). Reinforcement learning models, where learning takes place through interaction with an environment, are also increasingly applied in dynamic [trading strategies](../t/trading_strategies.md).
 
 ### 5. Risk Management Models
 [Risk management](../r/risk_management.md) models are designed to assess and mitigate financial risks. Value-at-Risk (VaR) is a standard [risk management](../r/risk_management.md) model that predicts the potential loss in value of an asset or portfolio over a defined period for a given confidence interval. The Conditional Value-at-Risk (CVaR) and [stress testing models](../s/stress_testing_models.md) are other commonly used [risk management](../r/risk_management.md) techniques.
@@ -37,7 +37,7 @@ Machine learning models rely on [computational algorithms](../c/computational_al
 [Bayesian inference](../b/bayesian_inference.md) applies probability to statistical problems, updating the probability for a hypothesis as more evidence or information becomes available. Bayesian models are particularly useful in the presence of market uncertainties and for dynamic [asset allocation](../a/asset_allocation.md).
 
 ### 5. Neural Networks
-Neural networks, particularly deep learning models, are computational frameworks inspired by the human brain's neural structure, capable of recognizing complex patterns and making predictions. Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) are widely used in [quantitative finance](../q/quantitative_finance.md).
+[Neural networks](../n/neural_networks_in_trading.md), particularly deep learning models, are computational frameworks inspired by the human brain's neural structure, capable of recognizing complex patterns and making predictions. Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNN) and Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNN) are widely used in [quantitative finance](../q/quantitative_finance.md).
 
 ## Applications of Quantitative Financial Models
 
@@ -48,7 +48,7 @@ High-frequency trading involves executing a large number of orders at extremely 
 [Algorithmic trading](../a/algorithmic_trading.md) uses pre-programmed instructions or algorithms based on [quantitative models](../q/quantitative_models.md) to execute [trading strategies](../t/trading_strategies.md). These models help in back-testing strategies, automating trade execution, and optimizing trade timing.
 
 ### 3. Asset Management
-In asset management, [quantitative models](../q/quantitative_models.md) are used to construct and manage investment portfolios, employing strategies across equities, fixed income, commodities, and [derivatives](../d/derivatives.md). Firms like Two Sigma [Two Sigma](https://www.twosigma.com/) leverage big data and machine learning in their asset management processes.
+In asset management, [quantitative models](../q/quantitative_models.md) are used to construct and manage investment portfolios, employing strategies across equities, fixed income, commodities, and [derivatives](../d/derivatives.md). Firms like Two Sigma [Two Sigma](https://www.twosigma.com/) leverage [big data](../b/big_data_in_trading.md) and machine learning in their asset management processes.
 
 ### 4. Risk Assessment
 [Quantitative models](../q/quantitative_models.md) assist in assessing and managing financial risks. Regulatory compliance, market risk, credit risk, and operational risk are evaluated using sophisticated statistical and computational techniques.

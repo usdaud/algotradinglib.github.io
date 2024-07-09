@@ -30,7 +30,7 @@ GICS was developed by MSCI and Standard & Poor’s (S&P) to provide a uniform st
 
 ### Industry Classification Benchmark (ICB)
 
-ICB, developed by FTSE Russell, provides a similar classification system but includes a slightly different hierarchy. It comprises 11 industries, 20 supersectors, 45 sectors, and 173 subsectors.
+ICB, developed by [FTSE Russell](../f/ftse_russell.md), provides a similar classification system but includes a slightly different hierarchy. It comprises 11 industries, 20 supersectors, 45 sectors, and 173 subsectors.
 
 These classification systems ensure consistent and transparent categorization, which is critical for the credibility and reliability of sector indices.
 

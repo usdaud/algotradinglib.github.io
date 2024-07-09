@@ -69,10 +69,10 @@ Many hedge funds and specialized investment firms engage in risk [arbitrage](../
   Citadel is one of the world's leading alternative investment management firms, with significant expertise in risk [arbitrage](../a/arbitrage.md) among other strategies. The firm employs quantitative and qualitative techniques to identify profitable [arbitrage](../a/arbitrage.md) opportunities.
 
 - **[DE Shaw](https://www.deshaw.com/)**
-  DE Shaw is another prominent name in the hedge fund industry, known for its use of advanced mathematical models and [computational algorithms](../c/computational_algorithms.md) in risk [arbitrage](../a/arbitrage.md) and other [trading strategies](../t/trading_strategies.md).
+  DE Shaw is another prominent name in the hedge fund industry, known for its use of advanced [mathematical models](../m/mathematical_models_in_trading.md) and [computational algorithms](../c/computational_algorithms.md) in risk [arbitrage](../a/arbitrage.md) and other [trading strategies](../t/trading_strategies.md).
 
 - **[Renaissance Technologies](https://www.rentec.com/)**
-  Renaissance Technologies is famously known for its Medallion Fund, which employs a myriad of quantitative strategies, including risk [arbitrage](../a/arbitrage.md), to generate extraordinary returns.
+  Renaissance Technologies is famously known for its Medallion Fund, which employs a myriad of [quantitative strategies](../q/quantitative_strategies_in_trading.md), including risk [arbitrage](../a/arbitrage.md), to generate extraordinary returns.
 
 ### Risk Management in Risk Arbitrage
 

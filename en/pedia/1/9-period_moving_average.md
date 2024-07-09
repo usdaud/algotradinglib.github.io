@@ -79,7 +79,7 @@ MathWorks provides a comprehensive set of tools for algorithm development and [b
 Even a short-term moving average like the 9-period MA introduces some lag because it is based on historical prices. This lag can result in delays in recognizing trend reversals.
 
 ### Whipsaws
-In volatile markets, short-term moving averages may produce false signals or whipsaws, resulting in multiple buy and sell signals that could undermine the profitability of a strategy.
+In volatile markets, short-term moving averages may produce [false signals](../f/false_signals_in_trading.md) or whipsaws, resulting in multiple buy and sell signals that could undermine the profitability of a strategy.
 
 ### Optimization
 Finding the correct period for a moving average is essential and may require [backtesting](../b/backtesting.md) to ensure it performs well under various market conditions. Traders often use optimization techniques to find the most suitable parameters for their strategies.

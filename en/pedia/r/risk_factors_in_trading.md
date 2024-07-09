@@ -84,7 +84,7 @@ While it is impossible to eliminate all risks associated with trading, traders c
 - **Diversification:** Spreading investments across different assets to reduce exposure to any single asset.
 - **Hedging:** Using financial instruments, such as options and futures, to offset potential losses.
 - **[Risk Management](../r/risk_management.md) Tools:** Utilizing [stop-loss orders](../s/stop-loss_orders.md), position limits, and [risk assessment models](../r/risk_assessment_models.md) to manage exposure.
-- **Stress Testing:** Conducting simulations to assess the impact of extreme market conditions on a portfolio.
+- **[Stress Testing](../s/stress_testing_in_trading.md):** Conducting simulations to assess the impact of extreme market conditions on a portfolio.
 
 ## Conclusion
 

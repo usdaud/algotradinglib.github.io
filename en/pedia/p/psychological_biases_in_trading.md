@@ -95,7 +95,7 @@ The availability heuristic is a mental shortcut where individuals estimate the l
 ## Prominent Companies in Algorithmic Trading
 
 ### 1. Renaissance Technologies
-Renaissance Technologies, often referred to as the gold standard in [algorithmic trading](../a/algorithmic_trading.md), leverages complex mathematical models to exploit [market anomalies](../m/market_anomalies.md). [Website](https://www.rentec.com/)
+Renaissance Technologies, often referred to as the gold standard in [algorithmic trading](../a/algorithmic_trading.md), leverages complex [mathematical models](../m/mathematical_models_in_trading.md) to exploit [market anomalies](../m/market_anomalies.md). [Website](https://www.rentec.com/)
 
 ### 2. Two Sigma
 Two Sigma uses machine learning, distributed computing, and research for investment management, aimed at dispassionately making decisions based on data. [Website](https://www.twosigma.com/)

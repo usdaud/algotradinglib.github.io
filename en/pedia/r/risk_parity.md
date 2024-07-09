@@ -53,14 +53,14 @@ Retail investors who are looking for diversified investment solutions can also b
 To manage the inherent risks in risk parity strategies, several techniques can be employed:
 
 1. **Dynamic Rebalancing**: Regularly reassess and adjust the asset weights based on up-to-date volatility and correlation data.
-2. **Stress Testing**: Conduct stress tests to understand how the portfolio might perform under extreme market conditions.
+2. **[Stress Testing](../s/stress_testing_in_trading.md)**: Conduct stress tests to understand how the portfolio might perform under extreme market conditions.
 3. **Use of [Derivatives](../d/derivatives.md)**: Employ [derivatives](../d/derivatives.md) like options and futures to hedge specific risks and achieve desired risk exposures.
 
 ### Advanced Topics
 
 #### Machine Learning in Risk Parity
 
-Recent advances in machine learning and artificial intelligence provide sophisticated tools for enhancing risk parity strategies. Machine learning algorithms can improve [volatility forecasting](../v/volatility_forecasting.md), optimize asset weightings more efficiently, and adapt to changing market conditions more swiftly.
+Recent advances in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) provide sophisticated tools for enhancing risk parity strategies. Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can improve [volatility forecasting](../v/volatility_forecasting.md), optimize asset weightings more efficiently, and adapt to changing market conditions more swiftly.
 
 #### Multi-Period Optimization
 

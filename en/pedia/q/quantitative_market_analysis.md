@@ -27,14 +27,14 @@ Statistical tools and techniques are employed to identify patterns and correlati
 - [Factor analysis](../f/factor_analysis.md)
 
 **4. Model Building:**
-Quantitative analysts build predictive models using mathematical and statistical techniques. Popular models include:
+Quantitative analysts build [predictive models](../p/predictive_models_in_trading.md) using mathematical and statistical techniques. Popular models include:
 - Linear and nonlinear regression models
-- Machine learning algorithms (Random Forest, SVM, Neural Networks)
+- Machine [learning algorithms](../l/learning_algorithms_in_trading.md) (Random Forest, SVM, [Neural Networks](../n/neural_networks_in_trading.md))
 - Econometric models (GARCH, ARIMA)
 - [Factor models](../f/factor_models.md) (Fama-French Three-Factor Model)
 
 **5. [Backtesting](../b/backtesting.md):**
-[Backtesting](../b/backtesting.md) involves running the predictive models on historical data to evaluate their performance. Key metrics for [backtesting](../b/backtesting.md) are:
+[Backtesting](../b/backtesting.md) involves running the [predictive models](../p/predictive_models_in_trading.md) on historical data to evaluate their performance. Key metrics for [backtesting](../b/backtesting.md) are:
 - [Sharpe Ratio](../s/sharpe_ratio.md)
 - Alpha and Beta
 - Maximum Drawdown
@@ -67,7 +67,7 @@ Several tools and platforms facilitate quantitative market analysis, including:
 [Quantitative models](../q/quantitative_models.md) are used to automate trading decisions, leading to faster execution and reduced emotional bias. High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_trading.md) that executes a large number of orders at extremely high speeds.
 
 **2. [Risk Management](../r/risk_management.md):**
-[Quantitative analysis](../q/quantitative_analysis.md) helps in identifying and mitigating financial risks. VaR (Value at Risk) models, stress testing, and scenario analysis are common [quantitative risk management](../q/quantitative_risk_management.md) techniques.
+[Quantitative analysis](../q/quantitative_analysis.md) helps in identifying and mitigating financial risks. VaR (Value at Risk) models, [stress testing](../s/stress_testing_in_trading.md), and scenario analysis are common [quantitative risk management](../q/quantitative_risk_management.md) techniques.
 
 **3. [Portfolio Management](../p/portfolio_management.md):**
 Portfolio managers use quantitative methods for [asset allocation](../a/asset_allocation.md), [portfolio optimization](../p/portfolio_optimization.md), and [performance attribution](../p/performance_attribution.md). Modern Portfolio Theory (MPT) and the Capital Asset Pricing Model (CAPM) are fundamental principles in quantitative [portfolio management](../p/portfolio_management.md).
@@ -76,7 +76,7 @@ Portfolio managers use quantitative methods for [asset allocation](../a/asset_al
 Analyzing the fine details of how market transactions occur can reveal insights into [market efficiency](../m/market_efficiency.md), liquidity, and the impact of trading on prices. 
 
 **5. [Sentiment Analysis](../s/sentiment_analysis.md):**
-Quantitative analysts use natural language processing (NLP) to analyze sentiment from news articles, social media, and earnings calls, integrating this sentiment data into [trading models](../t/trading_models.md).
+Quantitative analysts use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze sentiment from news articles, social media, and earnings calls, integrating this sentiment data into [trading models](../t/trading_models.md).
 
 ### Challenges in Quantitative Market Analysis
 
@@ -102,7 +102,7 @@ Renowned for its Medallion Fund, Renaissance Technologies is a pioneer in [quant
 [Renaissance Technologies](https://www.rentec.com)
 
 **2. Two Sigma:**
-A technology-driven firm specializing in data science and advanced quantitative techniques.
+A technology-driven firm specializing in [data science](../d/data_science_in_trading.md) and advanced quantitative techniques.
 [Two Sigma](https://www.twosigma.com)
 
 **3. DE Shaw:**
@@ -110,7 +110,7 @@ Combines [computational finance](../c/computational_finance.md), [quantitative t
 [DE Shaw](https://www.deshaw.com)
 
 **4. Citadel:**
-One of the largest hedge funds globally, employing extensive quantitative strategies.
+One of the largest hedge funds globally, employing extensive [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 [Citadel](https://www.citadel.com)
 
 **5. AQR Capital Management:**

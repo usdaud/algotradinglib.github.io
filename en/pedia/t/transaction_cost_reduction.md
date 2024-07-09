@@ -46,7 +46,7 @@ By focusing on reducing these costs, traders can enhance their net returns.
 
    For instance, tools like [Bloomberg](../b/bloomberg.md)’s BTCA provide advanced metrics and visualizations to help traders understand and reduce their transaction costs.
 
-2. **[Backtesting](../b/backtesting.md) and Simulation**
+2. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**
    Running [trading strategies](../t/trading_strategies.md) through historical data to evaluate their performance and cost implications can lead to better strategy adjustments. Simulations help in understanding potential costs and tweaking strategies before real market implementation.
 
 ### Broker and Trading Venue Selection
@@ -77,7 +77,7 @@ Regulations like MiFID II in Europe and Reg NMS in the US are designed to promot
 
 ## Future Prospects
 
-The future of transaction cost reduction lies in the ongoing integration of more sophisticated AI, blockchain technology for transparent and low-cost transactions, and even more optimized hardware solutions.
+The future of transaction cost reduction lies in the ongoing integration of more sophisticated AI, [blockchain](../b/blockchain_in_trading.md) technology for transparent and low-cost transactions, and even more optimized hardware solutions.
 
 ## Conclusion
 

@@ -48,7 +48,7 @@ Real-world financial markets are complex and dynamic, making it difficult to pin
 Solving for Nash Equilibrium in high-dimensional spaces characteristic of financial markets can be computationally intensive. Advanced computational techniques and significant processing power are often required, particularly for real-time trading applications.
 
 ### Behavioral Factors
-Not all market participants act rationally. [Behavioral finance](../b/behavioral_finance.md) studies show that emotions, biases, and irrational behavior can all influence market dynamics, deviating from the predictions of strict Nash Equilibrium models.
+Not all market participants act rationally. [Behavioral finance](../b/behavioral_finance.md) studies show that emotions, biases, and irrational behavior can all influence market dynamics, deviating from the predictions of strict Nash [Equilibrium models](../e/equilibrium_models_in_trading.md).
 
 ### Regulatory Concerns
 Regulatory bodies often scrutinize algorithmic and high-frequency trading for fairness, market stability, and systemic risk. Ensuring that algorithms adhere to regulations while adopting Nash Equilibrium strategies can be challenging.

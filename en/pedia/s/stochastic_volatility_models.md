@@ -1,6 +1,6 @@
 # Stochastic Volatility Models
 
-Stochastic Volatility (SV) models are a class of mathematical models used to capture and describe the dynamic nature of volatility in financial markets. Volatility represents the degree of variation of a financial instrument's price over time and is a crucial factor in the valuation of [derivatives](../d/derivatives.md), [risk management](../r/risk_management.md), and investment decisions. In [financial economics](../f/financial_economics.md), volatility dynamics often exhibit random fluctuations that do not adhere to stationary patterns, necessitating models that can capture such randomness effectively.
+Stochastic Volatility (SV) models are a class of [mathematical models](../m/mathematical_models_in_trading.md) used to capture and describe the dynamic nature of volatility in financial markets. Volatility represents the degree of variation of a financial instrument's price over time and is a crucial factor in the valuation of [derivatives](../d/derivatives.md), [risk management](../r/risk_management.md), and investment decisions. In [financial economics](../f/financial_economics.md), volatility dynamics often exhibit random fluctuations that do not adhere to stationary patterns, necessitating models that can capture such randomness effectively.
 
 ## Basic Concepts
 
@@ -10,7 +10,7 @@ At its core, a Stochastic Volatility model attempts to capture the random nature
 ### Importance in Finance
 Stochastic [Volatility models](../v/volatility_models.md) play an essential role in various areas of finance:
 1. **Derivative Pricing:** Accurate modeling of volatility is critical for pricing options and other derivative instruments. Models that can capture the unpredictable nature of volatility provide more realistic pricing and [hedging strategies](../h/hedging_strategies.md).
-2. **[Risk Management](../r/risk_management.md):** Understanding volatility behavior helps in forecasting future risks and potential losses. SV models are crucial for Value at Risk (VaR) calculations and stress testing.
+2. **[Risk Management](../r/risk_management.md):** Understanding volatility behavior helps in forecasting future risks and potential losses. SV models are crucial for Value at Risk (VaR) calculations and [stress testing](../s/stress_testing_in_trading.md).
 3. **[Portfolio Management](../p/portfolio_management.md):** Predicting changes in volatility allows for dynamic adjustment of portfolios to minimize risk and maximize returns.
 
 ## Key Components of Stochastic Volatility Models
@@ -19,7 +19,7 @@ Stochastic [Volatility models](../v/volatility_models.md) play an essential role
 Volatility is often modeled as the square root of variance, and the variance itself is typically described by a stochastic process. Common techniques include:
 - **[Geometric Brownian Motion](../g/geometric_brownian_motion.md) (GBM):** Suitable for modeling stock prices, assumes that volatility follows a lognormal distribution.
 - **Mean-Reverting Process:** Assumes that volatility tends to revert to a long-term mean, modeled often by an Ornstein-Uhlenbeck process.
-- **Jump Processes:** Incorporate sudden large movements, capturing market shocks and jumps.
+- **[Jump Processes](../j/jump_processes_in_trading.md):** Incorporate sudden large movements, capturing market shocks and jumps.
 
 ### Common Stochastic Volatility Models
 
@@ -68,7 +68,7 @@ Calibration involves adjusting the model parameters to fit market data accuratel
 - **Implied [Volatility Surface](../v/volatility_surface.md):** Extracting parameters from the market prices of liquid options.
 
 ### Numerical Methods
-Given the complexity of SV models, numerical methods like [Monte Carlo simulation](../m/monte_carlo_simulation.md) and [finite difference methods](../f/finite_difference_methods.md) are often employed to solve pricing equations and simulate paths of volatility processes.
+Given the complexity of SV models, [numerical methods](../n/numerical_methods_in_trading.md) like [Monte Carlo simulation](../m/monte_carlo_simulation.md) and [finite difference methods](../f/finite_difference_methods.md) are often employed to solve pricing equations and simulate paths of volatility processes.
 
 ## Applications in Financial Markets
 
@@ -96,7 +96,7 @@ SV models' accuracy heavily depends on parameter estimates, which can be sensiti
 Models with too many parameters may fit historical data well but fail to generalize to unseen data, leading to poor predictive performance.
 
 ### Market Conditions
-Changes in market regime or structural breaks can affect the stability of the models, requiring constant re-calibration and monitoring.
+Changes in market regime or [structural breaks](../s/structural_breaks_in_trading.md) can affect the stability of the models, requiring constant re-calibration and monitoring.
 
 ## Conclusion
 

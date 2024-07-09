@@ -1,6 +1,6 @@
 # Computational Algorithms
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves the use of computer algorithms to automatically make trading decisions, submit orders to financial markets, and manage those orders after submission. These decisions are typically based on predefined criteria or strategies that consider multiple factors, such as timing, price, quantity, and other mathematical models. Here, we explore the key computational algorithms that are foundational to algo trading, presenting an in-depth view of their roles, implementations, and effects on the trading landscape.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves the use of computer algorithms to automatically make trading decisions, submit orders to financial markets, and manage those orders after submission. These decisions are typically based on predefined criteria or strategies that consider multiple factors, such as timing, price, quantity, and other [mathematical models](../m/mathematical_models_in_trading.md). Here, we explore the key computational algorithms that are foundational to algo trading, presenting an in-depth view of their roles, implementations, and effects on the trading landscape.
 
 ### 1. Mean Reversion Algorithms
 
@@ -80,7 +80,7 @@
 
 ### 4. Machine Learning Algorithms
 
-**Machine Learning (ML)** has revolutionized [algorithmic trading](../a/algorithmic_trading.md) by enabling the development of adaptive [trading systems](../t/trading_systems.md) that learn from new data. ML algorithms can uncover patterns and relationships that traditional methods might miss, making them highly effective for developing predictive models and strategies.
+**Machine Learning (ML)** has revolutionized [algorithmic trading](../a/algorithmic_trading.md) by enabling the development of adaptive [trading systems](../t/trading_systems.md) that learn from new data. ML algorithms can uncover patterns and relationships that traditional methods might miss, making them highly effective for developing [predictive models](../p/predictive_models_in_trading.md) and strategies.
 
 **Implementation**:
 - **[Linear Regression](../l/linear_regression.md)**: Used to predict the price of a stock based on its historical values.
@@ -103,7 +103,7 @@
         predictions = model.predict(X_test)
         return predictions
     ```
-- **Neural Networks**: Deep learning models, such as Long Short-Term Memory (LSTM) networks, are particularly adept at predicting time series data.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning models, such as Long Short-Term Memory (LSTM) networks, are particularly adept at predicting time series data.
     ```python
     from keras.models import Sequential
     from keras.layers import LSTM, Dense
@@ -122,7 +122,7 @@
 **[Event-Driven Trading](../e/event-driven_trading.md)** strategies rely on news, earnings reports, [economic indicators](../e/economic_indicators.md), or other significant events to make trading decisions. These strategies require algorithms that can process large volumes of unstructured data to interpret the impact of the event on the market.
 
 **Implementation**:
-- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using natural language processing (NLP) to gauge the sentiment from news articles, tweets, and other textual data.
+- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to gauge the sentiment from news articles, tweets, and other textual data.
     ```python
     from textblob import TextBlob
     
@@ -163,7 +163,7 @@
 
 ### 7. Genetic Algorithms
 
-**Genetic Algorithms (GAs)** are search heuristics that mimic the process of natural selection. These are used to generate high-quality solutions to optimization and search problems by relying on bio-inspired operators such as mutation, crossover, and selection.
+**[Genetic Algorithms](../g/genetic_algorithms_in_trading.md) (GAs)** are search heuristics that mimic the process of natural selection. These are used to generate high-quality solutions to optimization and search problems by relying on bio-inspired operators such as mutation, crossover, and selection.
 
 **Implementation**:
 - **Strategy Optimization**: GAs can be used to evolve [trading strategies](../t/trading_strategies.md) by encoding different parameters and rules as 'genes' which can be combined and mutated to find optimal strategies.
@@ -193,7 +193,7 @@
 
 ### Conclusion
 
-Computational algorithms play a crucial role in [algorithmic trading](../a/algorithmic_trading.md), enabling the automation of trades, the discovery of new strategies, and the enhancement of existing ones. From traditional statistical methods and machine learning to cutting-edge genetic algorithms, these computational techniques continuously evolve to keep up with the ever-changing financial markets. Each algorithm offers unique strengths and applications, allowing traders to develop robust systems tailored to specific market conditions and objectives.
+Computational algorithms play a crucial role in [algorithmic trading](../a/algorithmic_trading.md), enabling the automation of trades, the discovery of new strategies, and the enhancement of existing ones. From traditional statistical methods and machine learning to cutting-edge [genetic algorithms](../g/genetic_algorithms_in_trading.md), these computational techniques continuously evolve to keep up with the ever-changing financial markets. Each algorithm offers unique strengths and applications, allowing traders to develop robust systems tailored to specific market conditions and objectives.
 
 ### Example Companies
 

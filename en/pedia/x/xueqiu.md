@@ -4,9 +4,9 @@
 Xueqiu, also known as Snowball Finance, is a prominent Chinese financial information and social networking platform designed for investors and traders. Established in 2010, Xueqiu provides a comprehensive range of financial services, including market news, investment analysis, and community discussions. The platform is popular among Chinese investors for its rich content, user-friendly interface, and active community, making it a go-to resource for financial insights and investment opportunities.
 
 ## Key Features
-1. **Market News and Analysis**: Xueqiu offers real-time news and in-depth analysis on various financial markets, including stocks, bonds, commodities, and cryptocurrencies. The platform provides valuable insights into market trends and economic indicators.
+1. **Market News and Analysis**: Xueqiu offers real-time news and in-depth analysis on various financial markets, including stocks, bonds, commodities, and cryptocurrencies. The platform provides valuable insights into market trends and [economic indicators](../e/economic_indicators.md).
 
-2. **Community Forums**: Xueqiu hosts active forums where members can discuss a wide range of financial topics, share investment strategies, and exchange insights. The forums cover subjects such as equities, mutual funds, forex, real estate, and personal finance.
+2. **Community Forums**: Xueqiu hosts active forums where members can discuss a wide range of financial topics, share investment strategies, and exchange insights. The forums cover subjects such as equities, mutual funds, forex, real estate, and [personal finance](../p/personal_finance_in_trading.md).
 
 3. **Investment Portfolios**: Users can create and manage their investment portfolios on Xueqiu, track performance, and receive personalized investment recommendations based on their portfolio data.
 
@@ -14,7 +14,7 @@ Xueqiu, also known as Snowball Finance, is a prominent Chinese financial informa
 
 5. **Educational Resources**: The platform offers a wealth of educational content, including articles, tutorials, webinars, and videos, aimed at helping investors improve their financial knowledge and trading skills.
 
-6. **Brokerage Services**: Xueqiu partners with various brokerage firms to provide seamless access to trading services directly from the platform. Users can execute trades, manage accounts, and access trading tools.
+6. **[Brokerage Services](../b/brokerage_services.md)**: Xueqiu partners with various brokerage firms to provide seamless access to trading services directly from the platform. Users can execute trades, manage accounts, and access trading tools.
 
 7. **Data and Analytics**: Xueqiu provides access to a wide range of financial data, including stock quotes, historical data, and financial metrics. Advanced analytics tools help users perform detailed market analysis.
 
@@ -29,8 +29,8 @@ Xueqiu, also known as Snowball Finance, is a prominent Chinese financial informa
 
 ## Use Cases
 - **Retail Investors**: Individual investors use Xueqiu’s news, analysis, and forums to make informed investment decisions.
-- **Traders**: Active traders leverage the platform’s market data, analytics, and community discussions to develop and refine their trading strategies.
-- **Portfolio Management**: Users utilize Xueqiu’s portfolio management tools to track their investments and receive personalized recommendations.
+- **Traders**: Active traders leverage the platform’s market data, analytics, and community discussions to develop and refine their [trading strategies](../t/trading_strategies.md).
+- **[Portfolio Management](../p/portfolio_management.md)**: Users utilize Xueqiu’s [portfolio management](../p/portfolio_management.md) tools to track their investments and receive personalized recommendations.
 - **Educational Purposes**: New and experienced investors use Xueqiu’s educational content to enhance their financial knowledge and trading skills.
 - **Social Networking**: Investors connect with like-minded individuals, share insights, and build a network of financial contacts.
 

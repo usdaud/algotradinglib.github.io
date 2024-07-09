@@ -61,7 +61,7 @@ The X-[Volatility Surface](../v/volatility_surface.md) has several applications 
 ### Risk Management
 
 - **Value-at-Risk (VaR):** A more precise calculation of VaR by incorporating the dynamic nature of volatility.
-- **Stress Testing:** Assessing the impact of extreme market movements on a portfolio of [derivatives](../d/derivatives.md).
+- **[Stress Testing](../s/stress_testing_in_trading.md):** Assessing the impact of extreme market movements on a portfolio of [derivatives](../d/derivatives.md).
 
 ### Trading Strategies
 

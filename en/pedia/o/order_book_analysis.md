@@ -62,7 +62,7 @@ Many trading platforms like MetaTrader 5, [TradeStation](../t/tradestation.md), 
 
 ### Third-Party Analytics Tools
 
-- **Bookmap [Bookmap](https://www.bookmap.com/)**: A popular tool for visualizing order book data in real-time, providing heatmaps and other visual cues to understand market depth and order flow.
+- **Bookmap [Bookmap](https://www.bookmap.com/)**: A popular tool for visualizing order book data in real-time, providing [heatmaps](../h/heatmaps_in_trading.md) and other visual cues to understand market depth and order flow.
 - **[QuantConnect](../q/quantconnect.md) [QuantConnect](https://www.quantconnect.com/)**: Provides a comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md) and includes tools for order book analysis.
 
 ### Proprietary Software
@@ -101,7 +101,7 @@ High-frequency trading firms use sophisticated algorithms and high-speed data fe
 
 ### Predictive Analytics
 
-[Predictive analytics](../p/predictive_analytics.md) involves using historical order book data to forecast future market movements. Techniques like [time series analysis](../t/time_series_analysis.md), regression models, and neural networks are employed to enhance the predictive accuracy.
+[Predictive analytics](../p/predictive_analytics.md) involves using historical order book data to forecast future market movements. Techniques like [time series analysis](../t/time_series_analysis.md), regression models, and [neural networks](../n/neural_networks_in_trading.md) are employed to enhance the predictive accuracy.
 
 ### Event-Driven Strategies
 

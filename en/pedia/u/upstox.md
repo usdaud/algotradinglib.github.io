@@ -10,7 +10,7 @@ Upstox is a leading discount brokerage firm in India, providing a wide range of 
 4. **Market Research and Analysis**: Access to comprehensive research reports, market news, and advanced analysis tools.
 5. **Educational Resources**: Extensive educational materials, including webinars, tutorials, articles, and market analysis to help traders improve their skills.
 6. **API Access**: Robust APIs for automated trading, custom integrations, and developing third-party trading applications.
-7. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced order types, [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
+7. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced [order types](../o/order_types_in_trading.md), [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
 8. **[Portfolio Management](../p/portfolio_management.md)**: Tools for tracking and managing investment portfolios efficiently.
 9. **Mobile Trading**: Mobile apps for iOS and Android devices, allowing trading on the go.
 10. **Secure and Regulated**: Upstox is regulated by top-tier financial authorities in India, ensuring a secure [trading environment](../t/trading_environment.md).

@@ -20,7 +20,7 @@ Earnings announcements are eagerly anticipated by investors, analysts, and finan
 
 ### Pre-Announcement Strategies
 1. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Algorithms can analyze news articles, social media posts, and other [sentiment indicators](../s/sentiment_indicators.md) leading up to an earnings announcement to predict its likely impact.
-2. **Historical Analysis**: Historical earnings data and stock price reactions can help build predictive models that indicate how a stock might react to upcoming earnings.
+2. **Historical Analysis**: Historical earnings data and stock price reactions can help build [predictive models](../p/predictive_models_in_trading.md) that indicate how a stock might react to upcoming earnings.
 
 ### Post-Announcement Strategies
 1. **Statistical [Arbitrage](../a/arbitrage.md)**: Post-announcement, algorithms can exploit inefficiencies such as overreactions or underreactions in stock prices.
@@ -29,7 +29,7 @@ Earnings announcements are eagerly anticipated by investors, analysts, and finan
 ### Challenges in Algorithmic Trading of Earnings Announcements
 1. **Latency**: The time lag between the release of an earnings report and the market's reaction. Even milliseconds can make a difference.
 2. **Data Accuracy**: Algorithms require accurate and up-to-date data to function correctly. Errors or delays in data can lead to significant trading losses.
-3. **[Market Microstructure](../m/market_microstructure.md)**: Understanding the specifics of [market microstructure](../m/market_microstructure.md), such as order types and execution venues, is essential for executing profitable trades.
+3. **[Market Microstructure](../m/market_microstructure.md)**: Understanding the specifics of [market microstructure](../m/market_microstructure.md), such as [order types](../o/order_types_in_trading.md) and execution venues, is essential for executing profitable trades.
 
 ### Real-World Applications
 Several financial firms specialize in [algorithmic trading](../a/algorithmic_trading.md) strategies focused on earnings announcements. For instance, **Jane Street** and **Virtu Financial** are industry leaders that deploy sophisticated algorithms to trade around these events.
@@ -41,4 +41,4 @@ Several financial firms specialize in [algorithmic trading](../a/algorithmic_tra
 Earnings announcements are powerful catalysts in the financial markets, capable of driving significant price movements and volatility. They offer algorithmic traders numerous opportunities to profit by employing pre-and post-announcement strategies. However, with high potential rewards come considerable risks, necessitating robust algorithms that can quickly and accurately interpret data to execute profitable trades.
 
 ### Future Directions in Algorithmic Trading and Earnings Announcements
-As technology advances, the tools and techniques used in [algorithmic trading](../a/algorithmic_trading.md) continue to evolve. Machine learning and artificial intelligence stand to further enhance the ability of traders to predict and react to earnings announcements, potentially leading to even greater market efficiencies and new trading opportunities.
+As technology advances, the tools and techniques used in [algorithmic trading](../a/algorithmic_trading.md) continue to evolve. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) stand to further enhance the ability of traders to predict and react to earnings announcements, potentially leading to even greater market efficiencies and new trading opportunities.

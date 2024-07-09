@@ -8,7 +8,7 @@ MetaTrader 4 (MT4) is one of the most popular trading platforms globally, develo
 2. **Advanced Charting**: Offers a wide range of chart types, timeframes, and [technical indicators](../t/technical_indicators.md) for in-depth market analysis.
 3. **Automated Trading**: Supports automated trading through Expert Advisors (EAs), allowing traders to develop and run [trading algorithms](../t/trading_algorithms.md).
 4. **Real-Time Data**: Provides real-time quotes and market news, ensuring traders have up-to-date information.
-5. **Order Types**: Supports various order types, including market orders, limit orders, stop orders, and trailing stops.
+5. **[Order Types](../o/order_types_in_trading.md)**: Supports various [order types](../o/order_types_in_trading.md), including market orders, limit orders, stop orders, and trailing stops.
 6. **[Backtesting](../b/backtesting.md)**: Built-in strategy tester for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) using historical data.
 7. **Custom Indicators**: Ability to create and use custom indicators using the MQL4 programming language.
 8. **Alerts and Notifications**: Customizable alerts and notifications for price movements, order execution, and market news.

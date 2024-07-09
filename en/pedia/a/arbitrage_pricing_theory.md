@@ -41,7 +41,7 @@ APT does not specify what the factors are; instead, it suggests that multiple fa
 Although both APT and CAPM are used to determine the fair price of an asset, they differ in several key areas:
 
 - **Number of Factors**: CAPM considers only one factor which is the market return, while APT considers multiple factors.
-- **Flexibility**: APT is more flexible as it allows the inclusion of various risk factors.
+- **Flexibility**: APT is more flexible as it allows the inclusion of various [risk factors](../r/risk_factors_in_trading.md).
 - **Application**: CAPM is conceptually simpler and widely used in finance, whereas APT is more complex and less frequently used due to its requirement of a more detailed [factor analysis](../f/factor_analysis.md).
 
 ## Practical Application of APT
@@ -81,4 +81,4 @@ With factors and betas identified and estimated, the model is constructed, allow
 
 ## Conclusion
 
-[Arbitrage](../a/arbitrage.md) Pricing Theory offers a powerful and flexible methodology for understanding the determinants of asset prices and expected returns. By incorporating multiple risk factors, APT provides a richer framework than single-[factor models](../f/factor_models.md) like CAPM. However, its complexity and the requirement for detailed [factor analysis](../f/factor_analysis.md) mean that it is less widely adopted. Nonetheless, for those willing to undertake the requisite detailed analysis, APT can offer valuable insights into the pricing of assets and identification of [arbitrage](../a/arbitrage.md) opportunities.
+[Arbitrage](../a/arbitrage.md) Pricing Theory offers a powerful and flexible methodology for understanding the determinants of asset prices and expected returns. By incorporating multiple [risk factors](../r/risk_factors_in_trading.md), APT provides a richer framework than single-[factor models](../f/factor_models.md) like CAPM. However, its complexity and the requirement for detailed [factor analysis](../f/factor_analysis.md) mean that it is less widely adopted. Nonetheless, for those willing to undertake the requisite detailed analysis, APT can offer valuable insights into the pricing of assets and identification of [arbitrage](../a/arbitrage.md) opportunities.

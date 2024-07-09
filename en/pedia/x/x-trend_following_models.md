@@ -108,7 +108,7 @@ Various platforms and tools aid in the implementation of these models within an 
 
 3. **[QuantConnect](../q/quantconnect.md)** - Provides cloud-based services for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) using multiple programming languages like C#, Python. [QuantConnect](https://www.quantconnect.com/)
 
-4. **Interactive Brokers** - An electronic trading platform that provides APIs for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com/)
+4. **[Interactive Brokers](../i/interactive_brokers.md)** - An electronic trading platform that provides APIs for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com/)
 
 5. **[TradeStation](../t/tradestation.md)** - Known for its easy-to-use charting and analysis tools, offering a platform for automating trades. [TradeStation](https://www.tradestation.com/)
 

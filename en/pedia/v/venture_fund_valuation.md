@@ -58,7 +58,7 @@ Startups and early-stage companies typically exhibit high volatility, which can 
 Startup investments are generally illiquid, meaning that the venture capital firm cannot easily sell its shares in the company. Illiquid assets are harder to value as there are fewer market comparables.
 
 ### 4. Subjectivity
-[Valuation models](../v/valuation_models.md) often involve subjective assumptions, such as revenue growth rates and discount rates, which can vary widely between analysts.
+[Valuation models](../v/valuation_models.md) often involve subjective assumptions, such as revenue [growth rates](../g/growth_rates_in_trading.md) and discount rates, which can vary widely between analysts.
 
 ## Examples of Firms Specializing in Venture Fund Valuation
 

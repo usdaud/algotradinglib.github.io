@@ -23,7 +23,7 @@ For algorithmic traders, managing risk is paramount, and rolling volatility help
 Rolling volatility is used in modern portfolio theory to continually optimize the portfolio's [asset allocation](../a/asset_allocation.md). By understanding the current volatility environment, algorithms can adjust the portfolio to maintain a desired risk profile.
 
 #### Market Forecasting:
-By analyzing trends in rolling volatility, algorithms can identify periods of market stress or calm. This enables predictive models to adapt [trading strategies](../t/trading_strategies.md) accordingly, whether by hedging positions during turmoil or by exploiting opportunities when markets are stable.
+By analyzing trends in rolling volatility, algorithms can identify periods of market stress or calm. This enables [predictive models](../p/predictive_models_in_trading.md) to adapt [trading strategies](../t/trading_strategies.md) accordingly, whether by hedging positions during turmoil or by exploiting opportunities when markets are stable.
 
 ### Implementation in Algorithms
 

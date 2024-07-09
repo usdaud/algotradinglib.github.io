@@ -1,6 +1,6 @@
 # Profit Taking Strategies
 
-Profit taking strategies are essential components of a comprehensive trading plan, especially in the realm of [algorithmic trading](../a/algorithmic_trading.md). These strategies outline when and how profits should be secured and are crucial for optimizing returns while minimizing risk. [Algorithmic trading](../a/algorithmic_trading.md), which employs high-speed computers and complex mathematical models to execute trades, benefits greatly from well-defined, systematic profit-taking approaches.
+Profit taking strategies are essential components of a comprehensive trading plan, especially in the realm of [algorithmic trading](../a/algorithmic_trading.md). These strategies outline when and how profits should be secured and are crucial for optimizing returns while minimizing risk. [Algorithmic trading](../a/algorithmic_trading.md), which employs high-speed computers and complex [mathematical models](../m/mathematical_models_in_trading.md) to execute trades, benefits greatly from well-defined, systematic profit-taking approaches.
 
 ## Types of Profit Taking Strategies
 
@@ -10,7 +10,7 @@ A fixed profit target strategy involves closing a position once it reaches a pre
 
 ### 2. Trailing Stop Loss
 
-A trailing stop loss dynamically adjusts a stop loss order as the price moves in the trader’s favor. It provides the dual benefit of locking in profits while allowing room for further gains if the market continues to move in a favorable direction. Trailing stops can be set based on a fixed percentage, dollar amount, or an indicator like the Average True Range (ATR).
+A trailing stop loss dynamically adjusts a stop loss order as the price moves in the trader’s favor. It provides the dual benefit of locking in profits while allowing room for further gains if the market continues to move in a favorable direction. Trailing stops can be set based on a fixed percentage, dollar amount, or an indicator like the [Average True Range](../a/average_true_range_(atr).md) (ATR).
 
 ### 3. Time-Based Exit
 
@@ -68,7 +68,7 @@ Trend-following strategies often use moving averages to decide when to take prof
 
 ### Case Study: Quantitative Trading
 
-[Quantitative trading](../q/quantitative_trading.md) firms like Renaissance Technologies (no official website) employ mathematical models to determine optimal points for taking profits. These models analyze vast amounts of data to predict price movements and set profit targets that maximize returns while minimizing risk. 
+[Quantitative trading](../q/quantitative_trading.md) firms like Renaissance Technologies (no official website) employ [mathematical models](../m/mathematical_models_in_trading.md) to determine optimal points for taking profits. These models analyze vast amounts of data to predict price movements and set profit targets that maximize returns while minimizing risk. 
 
 ## Conclusion
 

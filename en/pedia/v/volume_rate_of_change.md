@@ -42,7 +42,7 @@ Volume spikes, as indicated by sharp increases in the VROC, can signal significa
 
 ### Confluence with Other Indicators
 
-Traders often use the VROC in conjunction with other [technical indicators](../t/technical_indicators.md), such as moving averages, Relative Strength Index (RSI), and MACD, to gain a more comprehensive view of the market. This multi-indicator approach helps in filtering out false signals and confirming trading decisions.
+Traders often use the VROC in conjunction with other [technical indicators](../t/technical_indicators.md), such as moving averages, Relative Strength Index (RSI), and MACD, to gain a more comprehensive view of the market. This multi-indicator approach helps in filtering out [false signals](../f/false_signals_in_trading.md) and confirming trading decisions.
 
 ### Volume-Based Trading Rules
 
@@ -58,7 +58,7 @@ The choice of the look-back period (n) in the VROC calculation can be tailored t
 
 ### False Signals
 
-Like any technical indicator, the VROC is not foolproof. It can produce false signals, especially in markets characterized by low liquidity or during periods of consolidation. Traders should use caution and consider additional confirmation before making trading decisions based solely on the VROC.
+Like any technical indicator, the VROC is not foolproof. It can produce [false signals](../f/false_signals_in_trading.md), especially in markets characterized by low liquidity or during periods of consolidation. Traders should use caution and consider additional confirmation before making trading decisions based solely on the VROC.
 
 ### Subjectivity in Parameter Selection
 

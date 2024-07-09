@@ -42,7 +42,7 @@ The issuance of new 30-year bonds and the demand for these bonds also affect yie
 
 ### 5. Global Events
 
-[Geopolitical events](../g/geopolitical_events.md), global financial crises, and other macroeconomic factors can lead to volatility in bond markets, affecting the 30-year yield. For instance, during periods of uncertainty, investors might flock to the perceived safety of U.S. Treasuries, pushing yields down.
+[Geopolitical events](../g/geopolitical_events.md), global financial crises, and other macroeconomic factors can lead to volatility in bond markets, affecting the 30-year yield. For instance, during periods of [uncertainty](../u/uncertainty_in_trading.md), investors might flock to the perceived safety of U.S. Treasuries, pushing yields down.
 
 ### 6. Fiscal Policy
 

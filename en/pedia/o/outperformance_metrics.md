@@ -117,7 +117,7 @@ The Omega Ratio is a measure of the risk-return trade-off of an investment. It i
 ### Calculation
 \[ \Omega (R) = \frac{\int_{R}^{\infty} [1 - F(r)]dr}{\int_{-\infty}^{R} F(r)dr} \]
 where:
-- \(F(r)\) is the cumulative distribution function of returns.
+- \(F(r)\) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of returns.
 - \(R\) is the threshold return.
 
 ### Interpretation

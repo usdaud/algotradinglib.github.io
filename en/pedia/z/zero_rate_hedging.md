@@ -89,7 +89,7 @@ By hedging against fluctuations in interest rates, companies can achieve more pr
 
 ### Cost Efficiency
 
-Zero rate hedging can provide cost efficiency compared to other hedging techniques. Since it focuses on neutralizing interest rate changes, it can be more straightforward and potentially less expensive than other hedging methods that might require managing more complex risk factors.
+Zero rate hedging can provide cost efficiency compared to other hedging techniques. Since it focuses on neutralizing interest rate changes, it can be more straightforward and potentially less expensive than other hedging methods that might require managing more complex [risk factors](../r/risk_factors_in_trading.md).
 
 ## Challenges in Zero Rate Hedging
 

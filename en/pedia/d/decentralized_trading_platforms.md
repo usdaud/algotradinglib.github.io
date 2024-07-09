@@ -1,18 +1,18 @@
 # Decentralized Trading Platforms
 
-Decentralized trading platforms, also known as decentralized exchanges (DEXs), have revolutionized the way financial transactions are conducted within the realm of cryptocurrency and digital assets. Unlike traditional centralized exchanges (CEXs) such as [Binance](../b/binance.md), [Coinbase](../c/coinbase.md), and Kraken, which rely on an authoritative central entity to manage all trades, decentralized platforms operate on blockchain technology, providing a peer-to-peer trading ecosystem. This shift towards decentralization brings forth a myriad of advantages and nuanced complexities, reshaping the financial landscape significantly.
+Decentralized trading platforms, also known as decentralized exchanges (DEXs), have revolutionized the way financial transactions are conducted within the realm of cryptocurrency and digital assets. Unlike traditional centralized exchanges (CEXs) such as [Binance](../b/binance.md), [Coinbase](../c/coinbase.md), and Kraken, which rely on an authoritative central entity to manage all trades, decentralized platforms operate on [blockchain](../b/blockchain_in_trading.md) technology, providing a peer-to-peer trading ecosystem. This shift towards decentralization brings forth a myriad of advantages and nuanced complexities, reshaping the financial landscape significantly.
 
 ## What are Decentralized Trading Platforms?
 
-Decentralized trading platforms utilize smart contracts and blockchain technology to enable users to trade digital assets without the need for intermediaries or centralized control. These platforms are typically built on various blockchain networks like Ethereum, [Binance](../b/binance.md) Smart Chain, Solana, and others, harnessing the strengths of these blockchains to provide secure and transparent trading environments.
+Decentralized trading platforms utilize [smart contracts](../s/smart_contracts_in_trading.md) and [blockchain](../b/blockchain_in_trading.md) technology to enable users to trade digital assets without the need for intermediaries or centralized control. These platforms are typically built on various [blockchain](../b/blockchain_in_trading.md) networks like Ethereum, [Binance](../b/binance.md) Smart Chain, Solana, and others, harnessing the strengths of these blockchains to provide secure and transparent trading environments.
 
 ## Key Features of Decentralized Trading Platforms
 
 1. **Autonomy and Control**: Users retain full control over their funds without entrusting them to a centralized entity, mitigating risks associated with hacks and insolvency.
    
-2. **Transparency**: All transactions are recorded on the blockchain, ensuring transparency and immutability.
+2. **Transparency**: All transactions are recorded on the [blockchain](../b/blockchain_in_trading.md), ensuring transparency and immutability.
 
-3. **Security**: Decentralized platforms reduce the risk of centralized breaches since assets are managed through individual wallets and smart contracts rather than being held on the exchange.
+3. **Security**: Decentralized platforms reduce the risk of centralized breaches since assets are managed through individual wallets and [smart contracts](../s/smart_contracts_in_trading.md) rather than being held on the exchange.
 
 4. **Privacy**: DEXs offer better privacy features because they often do not require extensive personal information or KYC (Know Your Customer) procedures.
 
@@ -22,7 +22,7 @@ Decentralized trading platforms utilize smart contracts and blockchain technolog
 
 ### Uniswap
 
-[Uniswap](https://uniswap.org/) is one of the pioneer decentralized trading platforms built on the Ethereum blockchain. It functions as an automated market maker (AMM), allowing users to trade ERC-20 tokens without the need for an order book.
+[Uniswap](https://uniswap.org/) is one of the pioneer decentralized trading platforms built on the Ethereum [blockchain](../b/blockchain_in_trading.md). It functions as an automated market maker (AMM), allowing users to trade ERC-20 tokens without the need for an order book.
 
 - **[Automated Market Making](../a/automated_market_making.md)**: Uses a constant product formula (x * y = k) to facilitate trades.
 - **[Liquidity Pools](../l/liquidity_pools.md)**: Users can provide liquidity to pools in exchange for a share of the trading fees.
@@ -59,13 +59,13 @@ Decentralized trading platforms utilize smart contracts and blockchain technolog
 
 ### Smart Contracts
 
-Smart contracts are self-executing contracts with the terms of the agreement directly written into code. They automatically enforce and execute contractual conditions when predetermined criteria are met. For decentralized trading platforms, smart contracts handle the trading mechanisms, settlements, and liquidity management without human intervention.
+[Smart contracts](../s/smart_contracts_in_trading.md) are self-executing contracts with the terms of the agreement directly written into code. They automatically enforce and execute contractual conditions when predetermined criteria are met. For decentralized trading platforms, [smart contracts](../s/smart_contracts_in_trading.md) handle the trading mechanisms, settlements, and liquidity management without human intervention.
 
 ### Blockchain Technology
 
-Blockchain technology underpins decentralized platforms by providing a distributed ledger that records all transactions in an immutable and transparent manner. The decentralized nature of blockchains helps ensure security, as there is no single point of failure.
+[Blockchain](../b/blockchain_in_trading.md) technology underpins decentralized platforms by providing a distributed ledger that records all transactions in an immutable and transparent manner. The decentralized nature of blockchains helps ensure security, as there is no single point of failure.
 
-- **Ethereum**: The predominant blockchain for DEXs, utilizing the ERC-20 standard for token creation and transaction processing.
+- **Ethereum**: The predominant [blockchain](../b/blockchain_in_trading.md) for DEXs, utilizing the ERC-20 standard for token creation and transaction processing.
 - **[Binance](../b/binance.md) Smart Chain**: Offers faster and cheaper transactions, providing a competitive alternative to Ethereum.
 - **Solana**: Known for its high throughput and low-latency, supporting a growing number of DEXs.
 
@@ -89,7 +89,7 @@ Sufficient liquidity is critical for the functioning of DEXs. While [liquidity p
 
 ### User Experience
 
-The complexity of using decentralized platforms, including managing private keys and interacting with smart contracts, can be a barrier for mainstream adoption. User-friendly interfaces and educational initiatives are essential for broader acceptance.
+The complexity of using decentralized platforms, including managing private keys and interacting with [smart contracts](../s/smart_contracts_in_trading.md), can be a barrier for mainstream adoption. User-friendly interfaces and educational initiatives are essential for broader acceptance.
 
 ### Regulatory Uncertainty
 
@@ -97,7 +97,7 @@ The regulatory environment for decentralized trading platforms remains uncertain
 
 ### Interoperability
 
-Cross-chain interoperability is crucial for the growth of DEXs. Projects like Polkadot and Cosmos are working on creating bridges between different blockchain networks, facilitating seamless asset transfer and trading across multiple chains.
+Cross-chain interoperability is crucial for the growth of DEXs. Projects like Polkadot and Cosmos are working on creating bridges between different [blockchain](../b/blockchain_in_trading.md) networks, facilitating seamless asset transfer and trading across multiple chains.
 
 ## Conclusion
 

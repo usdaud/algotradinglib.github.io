@@ -101,7 +101,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), system inefficiencies are
 
 ### Assumption of Normally Distributed Returns
 
-The calculation presumes normal distribution of returns, which isn’t always true. Asymmetrical return distributions affect the reliability of the [Sharpe Ratio](../s/sharpe_ratio.md).
+The calculation presumes [normal distribution](../n/normal_distribution_in_trading.md) of returns, which isn’t always true. Asymmetrical return distributions affect the reliability of the [Sharpe Ratio](../s/sharpe_ratio.md).
 
 ### Risk-Free Rate Consistency
 
@@ -115,13 +115,13 @@ The [Sharpe Ratio](../s/sharpe_ratio.md) might not be consistent over different 
 
 ### Renaissance Technologies
 
-Renaissance Technologies boasts some of the highest Sharpe Ratios in the industry, largely due to their Medallion Fund. The fund leverages advanced mathematical models to trade equities, [derivatives](../d/derivatives.md), and other financial instruments.
+Renaissance Technologies boasts some of the highest Sharpe Ratios in the industry, largely due to their Medallion Fund. The fund leverages advanced [mathematical models](../m/mathematical_models_in_trading.md) to trade equities, [derivatives](../d/derivatives.md), and other financial instruments.
 
 - **Renaissance Technologies**: [RenTech](https://www.rentec.com/)
 
 ### Two Sigma
 
-Two Sigma utilizes machine learning and big data to develop [trading algorithms](../t/trading_algorithms.md), with their strategies often achieving considerable Sharpe Ratios over diverse timeframes and market conditions.
+Two Sigma utilizes machine learning and [big data](../b/big_data_in_trading.md) to develop [trading algorithms](../t/trading_algorithms.md), with their strategies often achieving considerable Sharpe Ratios over diverse timeframes and market conditions.
 
 - **Two Sigma**: [Two Sigma](https://www.twosigma.com/)
 

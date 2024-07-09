@@ -42,7 +42,7 @@ Jobless claims data is collected and reported by government agencies. In the Uni
 
 [Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to execute trades based on predefined rules and conditions. Integrating jobless claims data into algorithmic strategies requires careful consideration of several factors.
 
-**Data Analysis**: Traders need to analyze historical jobless claims data to identify patterns and correlations with asset prices. This analysis can help in developing predictive models that anticipate market reactions to jobless claims reports.
+**Data Analysis**: Traders need to analyze historical jobless claims data to identify patterns and correlations with asset prices. This analysis can help in developing [predictive models](../p/predictive_models_in_trading.md) that anticipate market reactions to jobless claims reports.
 
 **Event-Driven Strategies**: Jobless claims data releases are events that can trigger significant market movements. Traders can develop event-driven strategies that capitalize on these movements. For example, an algorithm could automatically buy or sell assets based on deviations from expected jobless claims figures.
 

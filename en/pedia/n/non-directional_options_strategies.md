@@ -8,13 +8,13 @@ Non-Directional Options Strategies refer to a set of options trading techniques 
 An options contract is a financial derivative that gives the holder the right, but not the obligation, to buy (call option) or sell (put option) an underlying asset at a specified strike price before or at expiration. Traders use options for various strategies that either anticipate price movement (directional) or do not require forecasting a specific price trend (non-directional).
 
 ### Implied Volatility
-Implied volatility (IV) is a measure of the market's forecast of a likely movement in an asset's price. It provides a key input in options pricing models. High IV often leads to higher premiums on options contracts, implying greater uncertainty.
+Implied volatility (IV) is a measure of the market's forecast of a likely movement in an asset's price. It provides a key input in options pricing models. High IV often leads to higher premiums on options contracts, implying greater [uncertainty](../u/uncertainty_in_trading.md).
 
 ### Time Decay
 Time decay, or theta, refers to the reduction in the value of an options contract as it approaches its expiration date. Options lose value over time, all else being equal, which is a critical aspect leveraged in non-directional strategies.
 
 ### Risk Management
-Non-directional options traders implement strategic [risk management](../r/risk_management.md) to mitigate losses. This can include setting [stop-loss orders](../s/stop-loss_orders.md), adjusting positions dynamically, and using mathematical models to predict outcomes.
+Non-directional options traders implement strategic [risk management](../r/risk_management.md) to mitigate losses. This can include setting [stop-loss orders](../s/stop-loss_orders.md), adjusting positions dynamically, and using [mathematical models](../m/mathematical_models_in_trading.md) to predict outcomes.
 
 ## Popular Non-Directional Strategies
 
@@ -62,7 +62,7 @@ A Box Spread is a risk-free [arbitrage](../a/arbitrage.md) strategy often used b
 ## Tools and Software for Non-Directional Trading
 
 ### Trading Platforms
-Platforms like [Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) ([TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)) and Interactive Brokers’ Trader Workstation ([Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=4985)) offer advanced tools for [backtesting](../b/backtesting.md), analyzing, and executing non-directional options trades.
+Platforms like [Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) ([TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)) and [Interactive Brokers](../i/interactive_brokers.md)’ Trader Workstation ([Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=4985)) offer advanced tools for [backtesting](../b/backtesting.md), analyzing, and executing non-directional options trades.
 
 ### Options Analytics Software
 Software such as OptionVue ([OptionVue](https://www.optionvue.com/)) and OptionsPlay ([OptionsPlay](https://www.optionsplay.com/)) provides sophisticated analytics, Greeks calculations, and strategy simulations to help traders plan and manage their options positions.

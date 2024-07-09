@@ -14,9 +14,9 @@ The methodology of quantitative [backtesting](../b/backtesting.md) involves seve
 
 2. **Strategy Formulation**: The next step is to define the trading strategy. This includes determining entry and exit rules, [risk management](../r/risk_management.md) techniques, and [position sizing](../p/position_sizing.md).
 
-3. **Simulation**: The trading strategy is then applied to the historical data. This is done through a series of computations and logic checks to simulate how the strategy would have operated in real-time.
+3. **[Simulation](../s/simulation_in_trading.md)**: The trading strategy is then applied to the historical data. This is done through a series of computations and logic checks to simulate how the strategy would have operated in real-time.
 
-4. **Performance Analysis**: After simulation, the performance of the strategy is analyzed. Key metrics such as total return, drawdown, [Sharpe ratio](../s/sharpe_ratio.md), and win/loss ratio are evaluated.
+4. **Performance Analysis**: After [simulation](../s/simulation_in_trading.md), the performance of the strategy is analyzed. Key metrics such as total return, drawdown, [Sharpe ratio](../s/sharpe_ratio.md), and win/loss ratio are evaluated.
 
 5. **Optimization**: Based on the performance analysis, adjustments and optimizations are made to the strategy. This could involve tweaking parameters or altering [trading rules](../t/trading_rules.md).
 

@@ -9,7 +9,7 @@ An order book consists of several key components, which include:
 1. **Bid Prices**: These are the prices at which buyers are willing to purchase the asset.
 2. **Ask Prices**: These are the prices at which sellers are willing to sell the asset.
 3. **Order Size**: This indicates the quantity of the asset to be bought or sold at each price level.
-4. **Order Types**: This includes various instructions like limit orders, market orders, stop orders, etc.
+4. **[Order Types](../o/order_types_in_trading.md)**: This includes various instructions like limit orders, market orders, stop orders, etc.
 
 A well-maintained order book provides transparency and liquidity to the market.
 

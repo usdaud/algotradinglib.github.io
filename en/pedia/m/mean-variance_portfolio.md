@@ -70,7 +70,7 @@ The process of [mean-variance optimization](../m/mean-variance_optimization.md) 
 
 #### Criticisms and Limitations
 
-1. **Assumption of Normality**: Returns are assumed to follow a normal distribution, which may not hold true in real markets.
+1. **Assumption of Normality**: Returns are assumed to follow a [normal distribution](../n/normal_distribution_in_trading.md), which may not hold true in real markets.
 2. **Estimation of Parameters**: Accurate estimation of expected returns, variances, and covariances is challenging.
 3. **Changing Dynamics**: Market conditions are dynamic, and historical data may not accurately predict future performance.
 4. **Transaction Costs and Taxes**: MVT doesn’t account for transaction costs and taxes, which are significant in real-world investing.

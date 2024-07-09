@@ -14,7 +14,7 @@ Where:
 - \( p \) is the probability of winning.
 - \( q \) is the probability of losing, which is \( 1 - p \).
 
-In more practical scenarios, especially in finance, the formula might be adjusted for continuous variables and other factors, but the core principle remains to calculate an optimal bet size to maximize logarithmic wealth growth, taking both the upside potential and the downside risk into account.
+In more practical scenarios, especially in finance, the formula might be adjusted for continuous variables and other factors, but the core principle remains to calculate an optimal bet size to maximize logarithmic wealth growth, taking both the [upside potential](../u/upside_potential_in_trading.md) and the downside risk into account.
 
 ## Application in Algorithmic Trading
 
@@ -88,11 +88,11 @@ Renaissance Technologies is a hedge fund management company that utilises [quant
 [https://www.rentec.com/](https://www.rentec.com/)
 
 ### Two Sigma
-Two Sigma is another major player in the [algorithmic trading](../a/algorithmic_trading.md) space, employing large-scale data analysis, advanced technology, and mathematical models. Two Sigma's strategies include sophisticated [risk management](../r/risk_management.md) techniques that likely leverage the principles of the [Kelly Criterion](../k/kelly_criterion.md).
+Two Sigma is another major player in the [algorithmic trading](../a/algorithmic_trading.md) space, employing large-scale data analysis, advanced technology, and [mathematical models](../m/mathematical_models_in_trading.md). Two Sigma's strategies include sophisticated [risk management](../r/risk_management.md) techniques that likely leverage the principles of the [Kelly Criterion](../k/kelly_criterion.md).
 [https://www.twosigma.com/](https://www.twosigma.com/)
 
 ### Citadel
-Citadel, founded by Ken Griffin, is a global financial institution with a focus on [quantitative trading](../q/quantitative_trading.md) and mathematical models. The firm uses a variety of advanced [risk management](../r/risk_management.md) tactics, which may include Kelly Optimal Bet Sizing for efficient [capital allocation](../c/capital_allocation.md).
+Citadel, founded by Ken Griffin, is a global financial institution with a focus on [quantitative trading](../q/quantitative_trading.md) and [mathematical models](../m/mathematical_models_in_trading.md). The firm uses a variety of advanced [risk management](../r/risk_management.md) tactics, which may include Kelly Optimal Bet Sizing for efficient [capital allocation](../c/capital_allocation.md).
 [https://www.citadel.com/](https://www.citadel.com/)
 
 ## Conclusion

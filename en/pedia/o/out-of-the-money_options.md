@@ -44,10 +44,10 @@ Investors and traders employ various strategies using OTM options, primarily foc
 
 #### Financial Institutions and Platforms
 Many financial institutions and online platforms offer tools and services to trade OTM options. Some notable ones include:
-- **Interactive Brokers** (https://www.interactivebrokers.com/): Known for comprehensive options trading and low commissions.
-- **E*TRADE** (https://us.etrade.com/): Offers extensive research tools and educational resources.
+- **[Interactive Brokers](../i/interactive_brokers.md)** (https://www.interactivebrokers.com/): Known for comprehensive options trading and low commissions.
+- **[E*TRADE](../e/e_trade.md)** (https://us.etrade.com/): Offers extensive research tools and educational resources.
 - **TD [Ameritrade](../a/ameritrade.md)** (https://www.tdameritrade.com/): Provides a robust trading platform with advanced analytics.
-- **OptionsHouse** (part of E*TRADE): Specializes in options trading with competitive pricing.
+- **OptionsHouse** (part of [E*TRADE](../e/e_trade.md)): Specializes in options trading with competitive pricing.
 
 #### Conclusion
 Out-of-the-Money options are a versatile instrument in the financial markets, offering significant profit potential paired with high risk. They are often used in speculative strategies due to their low cost and potential for substantial returns if market movements are favorable. Understanding the dynamics and factors influencing OTM options pricing and employing them carefully in strategic planning can help traders make informed decisions and leverage opportunities in the [derivatives](../d/derivatives.md) market.

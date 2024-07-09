@@ -23,7 +23,7 @@ Algorithmic traders utilize various [technical indicators](../t/technical_indica
 To implement a 3-day cycle trading strategy, algorithmic traders follow these steps:
 
 1. **Data Collection:** Gather historical price data and other relevant market metrics for the security in question.
-2. **[Pattern Recognition](../p/pattern_recognition.md):** Use statistical analysis and machine learning algorithms to detect recurring 3-day cycles in the historical data.
+2. **[Pattern Recognition](../p/pattern_recognition.md):** Use statistical analysis and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to detect recurring 3-day cycles in the historical data.
 3. **Indicator Application:** Apply [technical indicators](../t/technical_indicators.md) to the data to confirm the presence of a 3-day cycle.
 4. **Rule Creation:** Develop a set of [trading rules](../t/trading_rules.md) that dictate buy or sell actions based on the identified 3-day cycle patterns.
 5. **[Backtesting](../b/backtesting.md):** Test the trading strategy against historical data to evaluate its performance and robustness.

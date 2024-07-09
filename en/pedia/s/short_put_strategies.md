@@ -83,7 +83,7 @@ Using stops, limits, and predefined exit points can help manage risk in a short 
 
 ## Real-World Application
 
-Many professional traders and financial institutions utilize short put strategies to generate income and improve portfolio returns. Companies like TD [Ameritrade](../a/ameritrade.md) (https://www.tdameritrade.com/), E*TRADE (https://us.etrade.com/home), and Interactive Brokers (https://www.interactivebrokers.com/en/home.php) offer platforms and tools to facilitate such [options trading strategies](../o/options_trading_strategies.md).
+Many professional traders and financial institutions utilize short put strategies to generate income and improve portfolio returns. Companies like TD [Ameritrade](../a/ameritrade.md) (https://www.tdameritrade.com/), [E*TRADE](../e/e_trade.md) (https://us.etrade.com/home), and [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/en/home.php) offer platforms and tools to facilitate such [options trading strategies](../o/options_trading_strategies.md).
 
 ## Conclusion
 

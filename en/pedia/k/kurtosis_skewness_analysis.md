@@ -8,7 +8,7 @@ Skewness is a statistical measure that describes the asymmetry of the probabilit
 
 - **[Positive Skewness](../p/positive_skewness.md):** Indicates that the right tail (larger values) is longer or fatter than the left tail (smaller values). This suggests that there are more extreme high values in the dataset.
 - **[Negative Skewness](../n/negative_skewness.md):** Indicates that the left tail (smaller values) is longer or fatter than the right tail (larger values). This implies a higher probability of extreme low values.
-- **Zero Skewness:** Denotes a perfectly symmetric distribution, often a normal distribution.
+- **Zero Skewness:** Denotes a perfectly symmetric distribution, often a [normal distribution](../n/normal_distribution_in_trading.md).
 
 Mathematically, skewness \( S \) is defined as:
 
@@ -27,14 +27,14 @@ In [algorithmic trading](../a/algorithmic_trading.md), skewness helps traders as
 Kurtosis is another statistical measure that describes the 'tailedness' of the probability distribution of a real-valued random variable. Unlike skewness, which deals with asymmetry, kurtosis addresses the height and sharpness of the distribution’s peak and the thickness of the tails.
 
 - **Leptokurtic (Positive Kurtosis):** A distribution with positive kurtosis indicates heavy tails and a sharp peak, suggesting a higher likelihood of outliers.
-- **Platykurtic (Negative Kurtosis):** This implies lighter tails and a flatter peak compared to a normal distribution, suggesting fewer extreme outliers.
-- **Mesokurtic (Zero Kurtosis):** Equivalent to a normal distribution, indicating a moderate tail thickness and peak sharpness.
+- **Platykurtic (Negative Kurtosis):** This implies lighter tails and a flatter peak compared to a [normal distribution](../n/normal_distribution_in_trading.md), suggesting fewer extreme outliers.
+- **Mesokurtic (Zero Kurtosis):** Equivalent to a [normal distribution](../n/normal_distribution_in_trading.md), indicating a moderate tail thickness and peak sharpness.
 
 Kurtosis is mathematically expressed as:
 
 \[ K = \frac{E[(X - \mu)^4]}{\sigma^4} - 3 \]
 
-The subtraction of 3 makes the kurtosis of a normal distribution zero. Traders use kurtosis to understand the likelihood and impact of extreme values (outliers) on an investment’s return.
+The subtraction of 3 makes the kurtosis of a [normal distribution](../n/normal_distribution_in_trading.md) zero. Traders use kurtosis to understand the likelihood and impact of extreme values (outliers) on an investment’s return.
 
 ### Application in Algorithmic Trading
 
@@ -86,7 +86,7 @@ print(f"Kurtosis: {data_kurtosis}")
 Several financial institutions and trading firms apply kurtosis and skewness analysis in their [trading algorithms](../t/trading_algorithms.md) to manage risks and optimize portfolios. Here are a few examples:
 
 - **Two Sigma:** Known for its data-driven approach, Two Sigma incorporates advanced statistical measures, including [skewness and kurtosis](../s/skewness_and_kurtosis.md), to enhance [trading algorithms](../t/trading_algorithms.md). More information can be found [here](https://www.twosigma.com/).
-- **AQR Capital Management:** AQR utilizes these metrics as part of its quantitative strategies to assess and mitigate risks. Their systematic approach often involves deep statistical analysis of asset returns. Additional insights can be found [here](https://www.aqr.com/).
+- **AQR Capital Management:** AQR utilizes these metrics as part of its [quantitative strategies](../q/quantitative_strategies_in_trading.md) to assess and mitigate risks. Their systematic approach often involves deep statistical analysis of asset returns. Additional insights can be found [here](https://www.aqr.com/).
 
 ### Conclusion
 

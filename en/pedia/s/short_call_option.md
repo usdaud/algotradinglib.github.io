@@ -47,11 +47,11 @@ Managing a short call option involves continuous monitoring due to the potential
 Professional traders and institutions often engage in writing call options as part of more complex strategies, such as creating income portfolios or engaging in volatility [arbitrage](../a/arbitrage.md).
 
 #### Companies Offering Options Trading Platforms:
-- **Interactive Brokers** [link](https://www.interactivebrokers.com/en/index.php?f=options)
+- **[Interactive Brokers](../i/interactive_brokers.md)** [link](https://www.interactivebrokers.com/en/index.php?f=options)
   
 - **TD [Ameritrade](../a/ameritrade.md)** [link](https://www.tdameritrade.com/investment-products/options-trading.html)
   
-- **E*TRADE** [link](https://us.etrade.com/what-we-offer/investment-choices/options)
+- **[E*TRADE](../e/e_trade.md)** [link](https://us.etrade.com/what-we-offer/investment-choices/options)
 
 ### Conclusion
 

@@ -20,10 +20,10 @@ The formula for calculating gross profit margin is:
 
 #### Application in Algorithmic Trading
 
-In the context of [algorithmic trading](../a/algorithmic_trading.md) (algotrading), understanding and analyzing a company's gross profit margin can provide insights into its financial health and operational efficiency, which in turn, can inform trading decisions. Here are several ways gross [profit margin analysis](../p/profit_margin_analysis.md) can be integrated into algotrading:
+In the context of [algorithmic trading](../a/algorithmic_trading.md) (algotrading), understanding and analyzing a company's gross profit margin can provide insights into its financial health and [operational efficiency](../o/operational_efficiency_in_trading.md), which in turn, can inform trading decisions. Here are several ways gross [profit margin analysis](../p/profit_margin_analysis.md) can be integrated into algotrading:
 
 1. **[Fundamental Analysis](../f/fundamental_analysis.md) Algorithms:** [Automated trading systems](../a/automated_trading_systems.md) may use gross profit margin data as part of their [fundamental analysis](../f/fundamental_analysis.md) algorithms to assess the valuation and growth potential of a stock.
-2. **Screening and Filtering:** Traders can program their algorithms to screen stocks with desirable gross profit margins, narrowing down the universe of stocks to those with strong financial health.
+2. **Screening and Filtering:** Traders can program their algorithms to screen stocks with desirable gross [profit margins](../p/profit_margins_in_trading.md), narrowing down the universe of stocks to those with strong financial health.
 3. **[Trend Analysis](../t/trend_analysis.md):** By analyzing historical gross profit margin trends, algorithms can detect shifts in company performance, potentially signaling buying or selling opportunities.
 
 For example, a trading algorithm might be programmed to prioritize stocks with a gross profit margin above a certain threshold, combined with other fundamental metrics such as revenue growth and return on equity (ROE).
@@ -34,7 +34,7 @@ Several financial platforms and services provide real-time financial data, inclu
 
 1. **[Bloomberg](../b/bloomberg.md) Terminal:** [Bloomberg](https://www.bloomberg.com/professional/solution/execution-order-management/) offers comprehensive financial data and analytics that are essential for real-time trading and analysis.
 2. **Thomson [Reuters](../r/reuters.md) Eikon:** [Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software) provides financial markets data and tools for in-depth analysis and trading.
-3. **[Yahoo Finance](../y/yahoo_finance.md) API:** [Yahoo Finance](https://www.yahoofinanceapi.com/) offers access to fundamental financial data, including gross profit margins.
+3. **[Yahoo Finance](../y/yahoo_finance.md) API:** [Yahoo Finance](https://www.yahoofinanceapi.com/) offers access to fundamental financial data, including gross [profit margins](../p/profit_margins_in_trading.md).
 
 #### Case Study: Analyzing Gross Profit Margin for Algorithmic Trading
 

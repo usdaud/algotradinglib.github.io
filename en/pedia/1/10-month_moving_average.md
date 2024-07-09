@@ -92,7 +92,7 @@ Due to its long-term nature, the 10MMA is not suitable for [short-term trading](
 
 ### False Signals
 
-In volatile markets, the 10MMA can generate false signals. Short-term price spikes can cause the moving average to give misleading buy or sell signals, which may result in unnecessary trades.
+In volatile markets, the 10MMA can generate [false signals](../f/false_signals_in_trading.md). Short-term price spikes can cause the moving average to give misleading buy or sell signals, which may result in unnecessary trades.
 
 ## Practical Implementations
 

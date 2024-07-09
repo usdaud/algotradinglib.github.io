@@ -40,7 +40,7 @@ Over-the-counter (OTC) options are financial [derivatives](../d/derivatives.md) 
 
 ## Mechanisms and Valuation
 
-Valuing OTC options can be complex due to their customizable nature and the bespoke terms of each contract. Various financial models are used to price these instruments, including the [Black-Scholes model](../b/black-scholes_model.md) for simpler options and more sophisticated numerical methods like Monte Carlo simulations for [exotic options](../e/exotic_options.md). 
+Valuing OTC options can be complex due to their customizable nature and the bespoke terms of each contract. Various financial models are used to price these instruments, including the [Black-Scholes model](../b/black-scholes_model.md) for simpler options and more sophisticated [numerical methods](../n/numerical_methods_in_trading.md) like Monte Carlo simulations for [exotic options](../e/exotic_options.md). 
 
 Market participants also consider the implied volatility of the underlying asset, interest rates, and other macroeconomic factors when determining the fair value of an OTC option. Additionally, the credit risk of the counterparty is often priced into the premium of the option, with higher-risk counterparties demanding higher premiums.
 
@@ -60,11 +60,11 @@ Key regulatory changes include:
 
 ## Real-World Applications of OTC Options
 
-1. **[Currency Hedging](../c/currency_hedging.md)**: A multinational corporation may use OTC currency options to hedge against the risk of exchange rate fluctuations impacting its revenues or costs. By entering into a tailored option contract, the corporation can lock in favorable exchange rates and reduce uncertainty in its financial results.
+1. **[Currency Hedging](../c/currency_hedging.md)**: A multinational corporation may use OTC currency options to hedge against the risk of exchange rate fluctuations impacting its revenues or costs. By entering into a tailored option contract, the corporation can lock in favorable exchange rates and reduce [uncertainty](../u/uncertainty_in_trading.md) in its financial results.
 
 2. **Interest Rate Management**: Banks and financial institutions often use OTC [interest rate options](../i/interest_rate_options.md) to manage their exposure to changes in interest rates. For example, an institution with a portfolio of fixed-rate loans may use interest rate caps or floors to protect against rising interest rates.
 
-3. **Commodity [Risk Management](../r/risk_management.md)**: Companies in industries such as oil and gas, agriculture, and metals frequently use OTC [commodity options](../c/commodity_options.md) to hedge against price volatility in raw materials. This allows them to stabilize their input costs and manage their profit margins more effectively.
+3. **Commodity [Risk Management](../r/risk_management.md)**: Companies in industries such as oil and gas, agriculture, and metals frequently use OTC [commodity options](../c/commodity_options.md) to hedge against price volatility in raw materials. This allows them to stabilize their input costs and manage their [profit margins](../p/profit_margins_in_trading.md) more effectively.
 
 4. **Equity Exposure**: Institutional investors may use OTC [equity options](../e/equity_options.md) to gain exposure to specific stocks or indices in a manner that is customized to their investment strategies. This can include strategies for enhancing returns, managing risk, or achieving specific performance targets.
 

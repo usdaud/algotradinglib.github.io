@@ -80,7 +80,7 @@ Central banks may face political pressure to use reserves for non-economic purpo
 Historically, foreign exchange reserves were dominated by the U.S. dollar, euro, and yen. However, central banks are increasingly diversifying into non-traditional currencies like the Chinese yuan.
 
 ### 2. Gold Reserves
-Many central banks are growing their gold reserves as a hedge against economic uncertainty and a weak dollar.
+Many central banks are growing their gold reserves as a hedge against economic [uncertainty](../u/uncertainty_in_trading.md) and a weak dollar.
 
 ### 3. Sovereign Wealth Funds
 Some countries are establishing sovereign wealth funds to manage their foreign assets more effectively. These funds typically invest in a broader range of assets, including equities and real estate.

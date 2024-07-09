@@ -46,7 +46,7 @@ These algorithms are predicated on the statistical concept of [mean reversion](.
 Market-making algorithms provide liquidity to financial markets. They place both buy and sell limit orders for a given security, profiting from the [bid-ask spread](../b/bid-ask_spread.md). These algorithms aim to be market-neutral by quickly offsetting inventory positions.
 
 ### **5. Sentiment Analysis Algorithms**
-These algorithms scan news articles, social media platforms, and other text sources for [sentiment indicators](../s/sentiment_indicators.md). Positive sentiment about an asset might trigger buying, while negative sentiment might trigger selling. Advances in natural language processing (NLP) and machine learning have vastly improved these systems' effectiveness.
+These algorithms scan news articles, social media platforms, and other text sources for [sentiment indicators](../s/sentiment_indicators.md). Positive sentiment about an asset might trigger buying, while negative sentiment might trigger selling. Advances in [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning have vastly improved these systems' effectiveness.
 
 ### **6. High-Frequency Trading (HFT)**
 HFT represents the apex of [algorithmic trading](../a/algorithmic_trading.md), focusing on executing orders in microseconds. Firms like Citadel Securities and Virtu Financial employ HFT algorithms for strategies including [arbitrage](../a/arbitrage.md) and market-making.
@@ -70,11 +70,11 @@ Designing and implementing a trading algorithm involves multiple steps:
 ### Backtesting Frameworks
 - **[QuantConnect](../q/quantconnect.md):** Offers cloud-based [backtesting](../b/backtesting.md) and strategy development.
   - Website: https://www.[quantconnect](../q/quantconnect.md).com/
-- **Zipline:** Open-source Python library for [algorithmic trading](../a/algorithmic_trading.md) simulation.
+- **Zipline:** Open-source Python library for [algorithmic trading](../a/algorithmic_trading.md) [simulation](../s/simulation_in_trading.md).
   - Website: https://www.zipline.io/
 
 ### Trading Platforms and APIs
-- **Interactive Brokers (IB):** Offers extensive APIs for automating trades.
+- **[Interactive Brokers](../i/interactive_brokers.md) (IB):** Offers extensive APIs for automating trades.
   - Website: https://www.interactivebrokers.com/
 - **TD [Ameritrade](../a/ameritrade.md):** Provides APIs for trading and market data.
   - Website: https://developer.tdameritrade.com/
@@ -82,15 +82,15 @@ Designing and implementing a trading algorithm involves multiple steps:
 ## Emerging Trends
 
 ### **Machine Learning and AI**
-Machine learning (ML) and artificial intelligence (AI) are becoming integral to [algorithmic trading](../a/algorithmic_trading.md) strategies. ML models excel in [pattern recognition](../p/pattern_recognition.md) and [predictive analytics](../p/predictive_analytics.md), giving traders an edge.
+Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are becoming integral to [algorithmic trading](../a/algorithmic_trading.md) strategies. ML models excel in [pattern recognition](../p/pattern_recognition.md) and [predictive analytics](../p/predictive_analytics.md), giving traders an edge.
 - **Deep Reinforcement Learning:** Algorithms train themselves to trade by simulating market environments.
-- **Neural Networks:** Employed for complex forecasting and [anomaly detection](../a/anomaly_detection.md).
+- **[Neural Networks](../n/neural_networks_in_trading.md):** Employed for complex forecasting and [anomaly detection](../a/anomaly_detection.md).
 
 ### **Quantum Computing**
-Quantum computing promises to elevate [algorithmic trading](../a/algorithmic_trading.md) to unprecedented heights. Algorithms running on quantum computers could solve optimization problems exponentially faster than classical computers.
+[Quantum computing](../q/quantum_computing_in_trading.md) promises to elevate [algorithmic trading](../a/algorithmic_trading.md) to unprecedented heights. Algorithms running on quantum computers could solve optimization problems exponentially faster than classical computers.
 
 ### **Blockchain and Cryptocurrencies**
-Blockchain technology and cryptocurrencies have introduced new avenues for [algorithmic trading](../a/algorithmic_trading.md). Smart contracts and decentralized exchanges enable algorithmic strategies in the crypto ecosystem.
+[Blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies have introduced new avenues for [algorithmic trading](../a/algorithmic_trading.md). [Smart contracts](../s/smart_contracts_in_trading.md) and decentralized exchanges enable algorithmic strategies in the crypto ecosystem.
 
 ## Challenges and Risks
 
@@ -104,4 +104,4 @@ Regulatory bodies have established guidelines to mitigate some of these risks. F
 
 ## Conclusion
 
-[Algorithmic trading](../a/algorithmic_trading.md) has transformed financial markets irrevocably, offering advantages such as speed, efficiency, and precision. While the benefits are substantial, it is crucial to remain aware of the associated risks and challenges. As technologies like AI, ML, and quantum computing advance, [algorithmic trading](../a/algorithmic_trading.md) will continue to evolve, presenting new opportunities and hurdles for traders worldwide.
+[Algorithmic trading](../a/algorithmic_trading.md) has transformed financial markets irrevocably, offering advantages such as speed, efficiency, and precision. While the benefits are substantial, it is crucial to remain aware of the associated risks and challenges. As technologies like AI, ML, and [quantum computing](../q/quantum_computing_in_trading.md) advance, [algorithmic trading](../a/algorithmic_trading.md) will continue to evolve, presenting new opportunities and hurdles for traders worldwide.

@@ -21,7 +21,7 @@ Effective gross [exposure management](../e/exposure_management.md) ensures that 
 Given the high-speed nature of [algorithmic trading](../a/algorithmic_trading.md), real-time monitoring systems are essential. These systems continuously track the gross exposure of the portfolio and alert traders if limits are breached. Modern trading platforms and [risk management](../r/risk_management.md) tools provide dashboards and alerts to facilitate this.
 
 ### Stress Testing
-Stress testing involves simulating adverse market conditions to assess the impact on gross exposure. By understanding how various scenarios affect the portfolio, traders can set more effective exposure limits and risk mitigation strategies.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating adverse market conditions to assess the impact on gross exposure. By understanding how various scenarios affect the portfolio, traders can set more effective exposure limits and risk mitigation strategies.
 
 ### Diversification
 Diversification is a fundamental strategy to manage gross exposure. By spreading investments across different asset classes, industries, or geographical regions, traders can reduce the risk associated with any single exposure.
@@ -37,7 +37,7 @@ Traders and risk managers often set specific exposure limits for different asset
 Several tools and technologies are available to assist in managing gross exposure. These range from sophisticated [risk management](../r/risk_management.md) platforms to specific software solutions embedded within [trading systems](../t/trading_systems.md).
 
 ### Risk Management Platforms
-Platforms like RiskMetrics or [Bloomberg](../b/bloomberg.md)'s Risk & Analytics provide comprehensive tools for monitoring and managing risk. They offer functionalities for real-time monitoring, stress testing, and limit management.
+Platforms like RiskMetrics or [Bloomberg](../b/bloomberg.md)'s Risk & Analytics provide comprehensive tools for monitoring and managing risk. They offer functionalities for real-time monitoring, [stress testing](../s/stress_testing_in_trading.md), and limit management.
 
 ### Trading Platforms
 Most advanced trading platforms like MetaTrader, [Trading Technologies](../t/trading_technologies.md), and proprietary systems developed by [quantitative trading](../q/quantitative_trading.md) firms include features for real-time [exposure management](../e/exposure_management.md).
@@ -53,7 +53,7 @@ Several companies and institutions lead the way in advanced [risk management](..
 AQR (https://www.aqr.com) employs quantitative analytics to manage risks, including gross exposure. Their systematic approach to trading includes rigorous [risk management](../r/risk_management.md) frameworks.
 
 ### Two Sigma
-Two Sigma (https://www.twosigma.com) uses advanced technologies and data science to manage their [trading strategies](../t/trading_strategies.md). Their approach to [risk management](../r/risk_management.md) includes sophisticated models for gross exposure.
+Two Sigma (https://www.twosigma.com) uses advanced technologies and [data science](../d/data_science_in_trading.md) to manage their [trading strategies](../t/trading_strategies.md). Their approach to [risk management](../r/risk_management.md) includes sophisticated models for gross exposure.
 
 ### Bridgewater Associates
 Bridgewater (https://www.bridgewater.com) is well-known for its principled approach to [risk management](../r/risk_management.md). They utilize detailed [risk metrics](../r/risk_metrics.md) and [exposure management](../e/exposure_management.md) techniques to navigate financial markets.
@@ -76,4 +76,4 @@ While algorithms can manage gross exposure effectively, human oversight is still
 
 ## Conclusion
 
-Gross [exposure management](../e/exposure_management.md) is a vital component of [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md). By employing methodologies such as real-time monitoring, stress testing, diversification, and leveraging sophisticated technological tools, traders can effectively manage their gross exposure. Continuous advancements in trading platforms and [risk management](../r/risk_management.md) software further enable firms to navigate the complexities of modern financial markets proficiently. The integration of these practices not only helps in mitigating potential risks but also ensures regulatory compliance and optimal capital utilization.
+Gross [exposure management](../e/exposure_management.md) is a vital component of [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md). By employing methodologies such as real-time monitoring, [stress testing](../s/stress_testing_in_trading.md), diversification, and leveraging sophisticated technological tools, traders can effectively manage their gross exposure. Continuous advancements in trading platforms and [risk management](../r/risk_management.md) software further enable firms to navigate the complexities of modern financial markets proficiently. The integration of these practices not only helps in mitigating potential risks but also ensures regulatory compliance and optimal capital utilization.

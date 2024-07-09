@@ -68,7 +68,7 @@ Participation Rate or Percentage of Volume (POV) algorithms execute a trade at a
 
 #### How POV Works
 - **Defining Participation Rate:** The trader selects a participation rate, typically a percentage of the total market volume.
-- **Order Management:** The algorithm calculates real-time market volume and places orders that represent the selected percentage.
+- **[Order Management](../o/order_management_in_trading.md):** The algorithm calculates real-time market volume and places orders that represent the selected percentage.
 - **Execution:** Trades in accordance with the market volume, ensuring execution is aligned with market liquidity.
 
 #### Advantages of POV
@@ -132,7 +132,7 @@ For more information, you can visit some of these leading HFT firms:
 
 ### Retail Trading Platforms
 
-Retail traders and brokerage platforms also offer access to basic forms of these algorithms, making sophisticated trade execution strategies accessible to individual investors. Platforms like Interactive Brokers and E*TRADE integrate TWAP and VWAP algorithms into their trading interfaces.
+Retail traders and brokerage platforms also offer access to basic forms of these algorithms, making sophisticated trade execution strategies accessible to individual investors. Platforms like [Interactive Brokers](../i/interactive_brokers.md) and [E*TRADE](../e/e_trade.md) integrate TWAP and VWAP algorithms into their trading interfaces.
 
 - [Interactive Brokers](https://www.interactivebrokers.com/)
 - [E*TRADE](https://us.etrade.com/home)

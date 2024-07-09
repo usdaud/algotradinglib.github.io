@@ -187,7 +187,7 @@ print(tail(cumulative_strategy_returns, 1))
 
 ## Conclusion
 
-[Technical analysis](../t/technical_analysis.md) methods play a crucial role in [algorithmic trading](../a/algorithmic_trading.md) by providing a structured approach to understanding market conditions through historical data. By using various indicators such as moving averages, oscillators, and [volume indicators](../v/volume_indicators.md), traders can develop and implement strategies that aim to exploit market inefficiencies and generate alpha. The continuous advancements in computational power and machine learning algorithms are set to further enhance the capabilities and accuracy of [technical analysis](../t/technical_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md).
+[Technical analysis](../t/technical_analysis.md) methods play a crucial role in [algorithmic trading](../a/algorithmic_trading.md) by providing a structured approach to understanding market conditions through historical data. By using various indicators such as moving averages, oscillators, and [volume indicators](../v/volume_indicators.md), traders can develop and implement strategies that aim to exploit market inefficiencies and generate alpha. The continuous advancements in computational power and machine [learning algorithms](../l/learning_algorithms_in_trading.md) are set to further enhance the capabilities and accuracy of [technical analysis](../t/technical_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md).
 
 For further exploration of [algorithmic trading](../a/algorithmic_trading.md) services and platforms, you may visit:
 

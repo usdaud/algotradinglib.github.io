@@ -14,7 +14,7 @@ Unlisted companies can provide liquidity in specific markets that are otherwise 
 
 ### Market Dynamics
 
-The dynamics of trading [unlisted securities](../u/unlisted_securities.md) are distinct from those of listed ones. Since unlisted companies' stock prices are not subjected to the same transparency and market regulations, algotrading systems must adapt by including more sophisticated models to account for varying liquidity levels and less frequent public information disclosures. This can involve advanced statistical models, machine learning algorithms, and other high-level mathematical computations to predict price movements and execute trades effectively.
+The dynamics of trading [unlisted securities](../u/unlisted_securities.md) are distinct from those of listed ones. Since unlisted companies' stock prices are not subjected to the same transparency and market regulations, algotrading systems must adapt by including more sophisticated models to account for varying liquidity levels and less frequent public information disclosures. This can involve advanced statistical models, machine [learning algorithms](../l/learning_algorithms_in_trading.md), and other high-level mathematical computations to predict price movements and execute trades effectively.
 
 ## Major Players in Unlisted Algotrading
 
@@ -40,7 +40,7 @@ This strategy involves the simultaneous purchase and sale of closely related sec
 
 ### Machine Learning and AI
 
-Advanced machine learning models are employed to predict the price movements of [unlisted securities](../u/unlisted_securities.md). These models can include neural networks, regression models, and clustering techniques, all of which can adapt to the unique characteristics of [unlisted securities](../u/unlisted_securities.md) markets.
+Advanced machine learning models are employed to predict the price movements of [unlisted securities](../u/unlisted_securities.md). These models can include [neural networks](../n/neural_networks_in_trading.md), regression models, and clustering techniques, all of which can adapt to the unique characteristics of [unlisted securities](../u/unlisted_securities.md) markets.
 
 ### Sentiment Analysis
 

@@ -34,7 +34,7 @@ The characteristic function of a NIG-distributed random variable is given by:
 
 ### Relationship with Other Distributions
 
-- **Normal Distribution**: The NIG distribution becomes a normal distribution in the special case where \(\delta \to \infty\) and \(\alpha = \gamma^2\).
+- **[Normal Distribution](../n/normal_distribution_in_trading.md)**: The NIG distribution becomes a [normal distribution](../n/normal_distribution_in_trading.md) in the special case where \(\delta \to \infty\) and \(\alpha = \gamma^2\).
 - **Inverse [Gaussian Distribution](../g/gaussian_distribution.md)**: When \(\beta = 0\), the distribution simplifies to an Inverse [Gaussian distribution](../g/gaussian_distribution.md).
 - **Generalized Hyperbolic Distribution**: The NIG distribution is a special case of the generalized hyperbolic distribution.
 
@@ -44,7 +44,7 @@ The ability of the NIG distribution to model fat tails and skewness makes it par
 
 ### Asset Pricing
 
-The NIG distribution can provide a better fit for the returns of financial assets compared to the normal distribution. This improved fit helps in creating more accurate pricing models.
+The NIG distribution can provide a better fit for the returns of financial assets compared to the [normal distribution](../n/normal_distribution_in_trading.md). This improved fit helps in creating more accurate pricing models.
 
 ### Risk Management
 

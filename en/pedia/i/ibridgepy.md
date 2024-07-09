@@ -1,10 +1,10 @@
 # IBridgePy
 
 ## Overview
-IBridgePy is a flexible and powerful Python trading platform that allows traders to automate their [trading strategies](../t/trading_strategies.md) with Interactive Brokers (IB). It provides a simplified interface to connect Python-based algorithms to IB’s robust trading infrastructure, making it accessible for both individual traders and institutional clients.
+IBridgePy is a flexible and powerful Python trading platform that allows traders to automate their [trading strategies](../t/trading_strategies.md) with [Interactive Brokers](../i/interactive_brokers.md) (IB). It provides a simplified interface to connect Python-based algorithms to IB’s robust trading infrastructure, making it accessible for both individual traders and institutional clients.
 
 ## Features
-1. **Interactive Brokers Integration**: Seamless integration with Interactive Brokers, providing access to a wide range of financial instruments including stocks, options, futures, forex, and bonds.
+1. **[Interactive Brokers](../i/interactive_brokers.md) Integration**: Seamless integration with [Interactive Brokers](../i/interactive_brokers.md), providing access to a wide range of financial instruments including stocks, options, futures, forex, and bonds.
 2. **Python-Based**: Allows users to develop [trading algorithms](../t/trading_algorithms.md) using Python, leveraging its extensive libraries for data analysis and machine learning.
 3. **[Backtesting](../b/backtesting.md)**: Comprehensive [backtesting](../b/backtesting.md) capabilities to test [trading strategies](../t/trading_strategies.md) against historical data.
 4. **Live Trading**: Support for live trading, enabling the execution of strategies in real-time markets.
@@ -14,17 +14,17 @@ IBridgePy is a flexible and powerful Python trading platform that allows traders
 8. **Customizable**: Highly customizable to fit specific trading needs and strategies.
 
 ## Key Components
-- **IBridgePy Core**: The main framework that connects Python [trading algorithms](../t/trading_algorithms.md) to Interactive Brokers.
+- **IBridgePy Core**: The main framework that connects Python [trading algorithms](../t/trading_algorithms.md) to [Interactive Brokers](../i/interactive_brokers.md).
 - **Strategy Development**: Tools and interfaces for developing and implementing [trading strategies](../t/trading_strategies.md) in Python.
 - **[Backtesting](../b/backtesting.md) Engine**: Allows for thorough [backtesting](../b/backtesting.md) of strategies using historical market data.
-- **Market Data**: Real-time and historical market [data integration](../d/data_integration.md) from Interactive Brokers.
-- **Order Management**: Comprehensive order management system for placing, modifying, and tracking orders.
+- **Market Data**: Real-time and historical market [data integration](../d/data_integration.md) from [Interactive Brokers](../i/interactive_brokers.md).
+- **[Order Management](../o/order_management_in_trading.md)**: Comprehensive [order management](../o/order_management_in_trading.md) system for placing, modifying, and tracking orders.
 - **[Risk Management](../r/risk_management.md)**: Tools for managing and mitigating trading risks.
 
 ## Integrations
-IBridgePy is designed to work seamlessly with Interactive Brokers, providing a range of integration options to enhance trading capabilities:
+IBridgePy is designed to work seamlessly with [Interactive Brokers](../i/interactive_brokers.md), providing a range of integration options to enhance trading capabilities:
 
-- **Interactive Brokers API**: Direct integration with IB’s API for real-time data and order execution.
+- **[Interactive Brokers](../i/interactive_brokers.md) API**: Direct integration with IB’s API for real-time data and order execution.
 - **Python Libraries**: Compatible with popular Python libraries such as NumPy, pandas, and scikit-learn for data analysis and machine learning.
 - **Third-Party Data Providers**: Ability to integrate with other data providers for additional market data.
 
@@ -37,4 +37,4 @@ IBridgePy offers extensive support through detailed documentation, tutorials, an
 - **Institutional Clients**: Provides a robust platform for institutional clients to implement large-scale [automated trading systems](../a/automated_trading_systems.md).
 - **Educational Purposes**: Useful for educational purposes in teaching [algorithmic trading](../a/algorithmic_trading.md) and Python programming.
 
-IBridgePy’s powerful and flexible platform makes it a preferred choice for traders looking to leverage Python for automating their [trading strategies](../t/trading_strategies.md) with Interactive Brokers.
+IBridgePy’s powerful and flexible platform makes it a preferred choice for traders looking to leverage Python for automating their [trading strategies](../t/trading_strategies.md) with [Interactive Brokers](../i/interactive_brokers.md).

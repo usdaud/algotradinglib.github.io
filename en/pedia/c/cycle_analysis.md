@@ -45,7 +45,7 @@ Understanding [market cycles](../m/market_cycles.md) helps traders implement bet
 ## Case Studies and Real-world Implementations
 
 ### John Ehlers' Contributions
-John Ehlers is recognized for pioneering the application of signal processing techniques, including cycle analysis, to trading. His books, such as "Cybernetic Analysis for Stocks and Futures," delve deeply into the technical aspects of cycle analysis and offer practical strategies for traders.
+John Ehlers is recognized for pioneering the application of [signal processing](../s/signal_processing_in_trading.md) techniques, including cycle analysis, to trading. His books, such as "Cybernetic Analysis for Stocks and Futures," delve deeply into the technical aspects of cycle analysis and offer practical strategies for traders.
 
 ### J.P. Morgan's Quantitative Research Group
 J.P. Morgan's [Quantitative Research](../q/quantitative_research.md) Group applies cycle analysis alongside other advanced modeling techniques to develop sophisticated [trading strategies](../t/trading_strategies.md). Their research often blends traditional financial theory with modern computational techniques to identify and capitalize on cyclical patterns in the markets.
@@ -63,7 +63,7 @@ J.P. Morgan's [Quantitative Research](../q/quantitative_research.md) Group appli
 Financial markets contain a significant amount of 'noise,' or random price movements that do not adhere to any identifiable pattern. This noise can obscure underlying cycles, making them difficult to detect and predict. Additionally, the [efficient market hypothesis](../e/efficient_market_hypothesis.md) (EMH) suggests that all known information is already reflected in current prices, complicating the effective use of past cycles for future predictions.
 
 ### Model Overfitting
-There is a risk of overfitting when using mathematical models to identify cycles. Overfitting occurs when a model is too closely aligned with historical data, capturing noise rather than true underlying patterns, leading to poor predictive performance on unseen data.
+There is a risk of overfitting when using [mathematical models](../m/mathematical_models_in_trading.md) to identify cycles. Overfitting occurs when a model is too closely aligned with historical data, capturing noise rather than true underlying patterns, leading to poor predictive performance on unseen data.
 
 ### Adaptability to Changing Market Conditions
 Markets are dynamic and influenced by a myriad of factors, including economic policies, [geopolitical events](../g/geopolitical_events.md), and technological advancements. Cycles identified in historical data may not persist under new market conditions, challenging the adaptability of cycle-based strategies.

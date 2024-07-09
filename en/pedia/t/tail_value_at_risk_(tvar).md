@@ -43,7 +43,7 @@ TVaR is also used for the performance evaluation of [trading algorithms](../t/tr
 [Monte Carlo simulation](../m/monte_carlo_simulation.md) is a more advanced technique that involves generating a large number of hypothetical scenarios based on statistical models. These scenarios are used to estimate the [loss distribution](../l/loss_distribution.md) and calculate the TVaR.
 
 **Analytical Methods:**
-Analytical methods involve using mathematical formulas to calculate TVaR directly from the distribution of returns. For instance, if the returns follow a normal distribution, TVaR can be calculated using the mean and standard deviation of the returns.
+Analytical methods involve using mathematical formulas to calculate TVaR directly from the distribution of returns. For instance, if the returns follow a [normal distribution](../n/normal_distribution_in_trading.md), TVaR can be calculated using the mean and standard deviation of the returns.
 
 ### TVaR in Practice
 
@@ -61,7 +61,7 @@ Several financial firms and software providers offer tools and platforms that he
 - **Regulatory Acceptance:** TVaR is increasingly recognized by financial regulators, which enhances its relevance in [risk management](../r/risk_management.md) frameworks.
 
 **Limitations:**
-- **Complexity:** Calculating TVaR, especially using simulation methods, can be computationally intensive and complex.
+- **Complexity:** Calculating TVaR, especially using [simulation](../s/simulation_in_trading.md) methods, can be computationally intensive and complex.
 - **Data Sensitivity:** TVaR is sensitive to the quality and quantity of data used, and poor data can lead to inaccurate risk assessments.
 - **Assumptions:** Like all [risk metrics](../r/risk_metrics.md), TVaR is based on certain assumptions about the [loss distribution](../l/loss_distribution.md), which may not always hold true in real market conditions.
 

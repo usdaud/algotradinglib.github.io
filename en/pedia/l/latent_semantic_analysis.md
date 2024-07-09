@@ -1,6 +1,6 @@
 # Latent Semantic Analysis (LSA)
 
-Latent Semantic Analysis (LSA) is a powerful natural language processing (NLP) technique that is primarily used to analyze relationships between a set of documents and the terms they contain. As an unsupervised machine learning algorithm, LSA employs singular value decomposition (SVD) to reduce the dimensionality of term-document matrices, uncovering the latent relationships and patterns present in the data. This approach is particularly useful in text mining, information retrieval, and information indexing.
+Latent Semantic Analysis (LSA) is a powerful [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) technique that is primarily used to analyze relationships between a set of documents and the terms they contain. As an unsupervised machine learning algorithm, LSA employs singular value decomposition (SVD) to reduce the dimensionality of term-document matrices, uncovering the latent relationships and patterns present in the data. This approach is particularly useful in text mining, information retrieval, and information indexing.
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), LSA can be leveraged to analyze vast amounts of textual data to generate [trading signals](../t/trading_signals.md), understand market sentiments, and make informed trading decisions.
 
@@ -49,7 +49,7 @@ Traders can use LSA for topic modeling to categorize and cluster documents based
 LSA can aid in [anomaly detection](../a/anomaly_detection.md) by identifying unusual patterns in textual data. If sentiment or thematic patterns deviate significantly from the norm, it may signal potential [market anomalies](../m/market_anomalies.md) or trading opportunities.
 
 ### Enhancing Trading Algorithms
-Integrating LSA with other machine learning techniques, such as supervised learning algorithms, can enhance the accuracy and effectiveness of [trading models](../t/trading_models.md). By incorporating latent semantic features derived from textual data, algorithms can make more informed predictions and decisions.
+Integrating LSA with other machine learning techniques, such as supervised [learning algorithms](../l/learning_algorithms_in_trading.md), can enhance the accuracy and effectiveness of [trading models](../t/trading_models.md). By incorporating latent semantic features derived from textual data, algorithms can make more informed predictions and decisions.
 
 ## Implementation of LSA
 

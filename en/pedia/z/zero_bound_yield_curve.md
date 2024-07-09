@@ -8,7 +8,7 @@ Before delving into the specifics of the Zero Bound [Yield Curve](../y/yield_cur
 
 - **Normal [Yield Curve](../y/yield_curve.md)**: Characterized by higher yields for long-term bonds than short-term bonds, indicating positive economic growth expectations.
 - **Inverted [Yield Curve](../y/yield_curve.md)**: Occurs when short-term yields are higher than long-term yields, often seen as a predictor of economic recession.
-- **Flat [Yield Curve](../y/yield_curve.md)**: When there is little difference between short-term and long-term yields, suggesting uncertainty in economic outlook.
+- **Flat [Yield Curve](../y/yield_curve.md)**: When there is little difference between short-term and long-term yields, suggesting [uncertainty](../u/uncertainty_in_trading.md) in economic outlook.
 
 #### The Zero Lower Bound
 
@@ -24,7 +24,7 @@ When interest rates are at or near the zero bound, central banks face a signific
 
 - **[Quantitative Easing](../q/quantitative_easing.md) (QE)**: The central bank purchases long-term securities to inject liquidity into the economy and lower long-term interest rates. By doing this, the central bank aims to encourage borrowing and investment.
 
-- **Forward Guidance**: Central banks communicate their future policy intentions to influence economic expectations and behaviors. By providing assurances that interest rates will remain low for an extended period, central banks aim to reduce uncertainty and encourage spending and investment.
+- **Forward Guidance**: Central banks communicate their future policy intentions to influence economic expectations and behaviors. By providing assurances that interest rates will remain low for an extended period, central banks aim to reduce [uncertainty](../u/uncertainty_in_trading.md) and encourage spending and investment.
 
 - **Negative Interest Rates**: Some central banks have experimented with negative interest rates, charging banks for holding excess reserves to incentivize lending. While controversial, this approach aims to stimulate economic activity by making it costly to hoard money.
 

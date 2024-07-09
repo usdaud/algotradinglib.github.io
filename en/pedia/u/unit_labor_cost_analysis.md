@@ -12,7 +12,7 @@ Where:
 - **Total Labor Compensation** includes wages, salaries, and benefits paid to employees.
 - **Total Output** refers to the real output produced, typically measured in constant prices to account for inflation.
 
-Understanding ULC is crucial because it encapsulates the relationship between labor cost and productivity. A rising ULC indicates that labor is becoming more expensive per unit of output, potentially squeezing profit margins and making the company less competitive, while a falling ULC suggests that productivity gains are outpacing increases in labor costs, enhancing competitive standing.
+Understanding ULC is crucial because it encapsulates the relationship between labor cost and productivity. A rising ULC indicates that labor is becoming more expensive per unit of output, potentially squeezing [profit margins](../p/profit_margins_in_trading.md) and making the company less competitive, while a falling ULC suggests that productivity gains are outpacing increases in labor costs, enhancing competitive standing.
 
 ## Components of Unit Labor Costs
 

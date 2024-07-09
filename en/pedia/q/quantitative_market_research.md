@@ -45,7 +45,7 @@ Quantitative market research is a crucial aspect of business strategy and analyt
     - [Quantitative research](../q/quantitative_research.md) in healthcare involves patient surveys, health outcomes data, and clinical trial results to improve patient care and develop new treatments.
 
 3. **Finance**
-    - Financial institutions employ [quantitative research](../q/quantitative_research.md) to analyze market trends, assess risk, and make investment decisions. Econometric models and big data analytics play a significant role in this sector.
+    - Financial institutions employ [quantitative research](../q/quantitative_research.md) to analyze market trends, assess risk, and make investment decisions. Econometric models and [big data analytics](../b/big_data_analytics_in_trading.md) play a significant role in this sector.
 
 4. **Technology**
     - Tech companies use quantitative market research to understand user preferences, improve product features, and enhance user experience. A/B testing and user analytics are common methodologies.

@@ -1,6 +1,6 @@
 # Distributed Ledger Technology (DLT)
 
-Distributed Ledger Technology (DLT) refers to a digital system for recording the transaction of assets in which the transactions and their details are recorded in multiple places at the same time. Unlike traditional databases, distributed ledgers have no central data store or administration functionality. Although blockchain is the most popular form of DLT, there are other variants available.
+Distributed Ledger Technology (DLT) refers to a digital system for recording the transaction of assets in which the transactions and their details are recorded in multiple places at the same time. Unlike traditional databases, distributed ledgers have no central data store or administration functionality. Although [blockchain](../b/blockchain_in_trading.md) is the most popular form of DLT, there are other variants available.
 
 ## Terminology and Basic Concepts
 
@@ -18,13 +18,13 @@ A consensus mechanism is a process through which all the nodes in a DLT network 
 
 ### Smart Contracts
 
-Smart contracts are self-executing contracts with the terms of the agreement directly written into lines of code. These are stored and executed on the DLT, enhancing the functionality and efficiency of the ledger.
+[Smart contracts](../s/smart_contracts_in_trading.md) are self-executing contracts with the terms of the agreement directly written into lines of code. These are stored and executed on the DLT, enhancing the functionality and efficiency of the ledger.
 
 ## Types of Distributed Ledgers
 
 ### Blockchain
 
-The most known type of DLT, blockchain, structures data in blocks, which are linked or chained together, with each new block containing a cryptographic hash of the previous block. This linkage ensures that the data in a blockchain is immutable.
+The most known type of DLT, [blockchain](../b/blockchain_in_trading.md), structures data in blocks, which are linked or chained together, with each new block containing a cryptographic hash of the previous block. This linkage ensures that the data in a [blockchain](../b/blockchain_in_trading.md) is immutable.
 
 ### Directed Acyclic Graph (DAG)
 
@@ -50,7 +50,7 @@ Due to its decentralized nature and use of cryptographic techniques, DLT offers 
 
 ### Efficiency
 
-DLT eliminates intermediaries, ensuring faster and more cost-effective transactions. Smart contracts can automate processes, reducing the need for manual oversight.
+DLT eliminates intermediaries, ensuring faster and more cost-effective transactions. [Smart contracts](../s/smart_contracts_in_trading.md) can automate processes, reducing the need for manual oversight.
 
 ### Immutable Data
 
@@ -100,7 +100,7 @@ Automated and accurate record-keeping can simplify compliance and reporting requ
 
 ### R3
 
-[R3](https://www.r3.com) is an enterprise software firm that develops blockchain solutions for businesses. Their flagship product, Corda, is designed to record, manage, and automate legal agreements between businesses.
+[R3](https://www.r3.com) is an enterprise software firm that develops [blockchain](../b/blockchain_in_trading.md) solutions for businesses. Their flagship product, Corda, is designed to record, manage, and automate legal agreements between businesses.
 
 ### Holochain
 
@@ -108,11 +108,11 @@ Automated and accurate record-keeping can simplify compliance and reporting requ
 
 ### Hedera Hashgraph
 
-[Hedera Hashgraph](https://hedera.com) offers an enterprise-grade DLT platform that is highly scalable and uses a different structure than traditional blockchain to achieve consensus and maintain ledger integrity.
+[Hedera Hashgraph](https://hedera.com) offers an enterprise-grade DLT platform that is highly scalable and uses a different structure than traditional [blockchain](../b/blockchain_in_trading.md) to achieve consensus and maintain ledger integrity.
 
 ### Intel
 
-[Intel](https://www.intel.com) provides technology infrastructure to support blockchain and distributed ledger deployments, including hardware and specialized software solutions.
+[Intel](https://www.intel.com) provides technology infrastructure to support [blockchain](../b/blockchain_in_trading.md) and distributed ledger deployments, including hardware and specialized software solutions.
 
 ## Conclusion
 

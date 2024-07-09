@@ -6,7 +6,7 @@ Dukascopy Bank SA is a Swiss online bank and brokerage firm, offering a wide ran
 ## Key Features
 1. **Forex and CFD Trading**: Dukascopy offers trading in a wide range of forex pairs and CFDs, including indices, commodities, cryptocurrencies, and stocks.
 
-2. **Advanced Trading Platforms**: Dukascopy provides multiple trading platforms, including the proprietary [JForex](../j/jforex.md) platform, MetaTrader 4 (MT4), and mobile trading apps. The platforms feature advanced charting tools, [real-time market data](../r/real-time_market_data.md), and various order types.
+2. **Advanced Trading Platforms**: Dukascopy provides multiple trading platforms, including the proprietary [JForex](../j/jforex.md) platform, MetaTrader 4 (MT4), and mobile trading apps. The platforms feature advanced charting tools, [real-time market data](../r/real-time_market_data.md), and various [order types](../o/order_types_in_trading.md).
 
 3. **Binary Options**: Dukascopy allows trading in binary options, offering a straightforward way to trade on the price movements of various assets.
 

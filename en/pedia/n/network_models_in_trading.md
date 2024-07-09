@@ -4,7 +4,7 @@
 
 In the modern financial market, trading has emerged as predominantly automated with the proliferation of high-frequency trading (HFT), [algorithmic trading](../a/algorithmic_trading.md), and [quantitative trading](../q/quantitative_trading.md) strategies. Network models have become crucial tools for traders and firms to understand, predict, and exploit asset price movements. By using these models, trading entities can better grasp the complex relationships between different market variables and improve prediction accuracy, enhance decision-making, and optimize [trading strategies](../t/trading_strategies.md).
 
-Network models leverage concepts from graph theory, machine learning, and statistical analysis to provide detailed insights into market dynamics. They help traders identify patterns, relationships, and anomalies in financial data that human traders might overlook. This document explores the intricacies of network models in trading, their applications, key methodologies, and benefits.
+Network models leverage concepts from [graph theory](../g/graph_theory_in_trading.md), machine learning, and statistical analysis to provide detailed insights into market dynamics. They help traders identify patterns, relationships, and anomalies in financial data that human traders might overlook. This document explores the intricacies of network models in trading, their applications, key methodologies, and benefits.
 
 ## Basics of Network Models
 
@@ -29,7 +29,7 @@ The process of building network models in trading can be broken down into severa
 
 1. **Data Collection**: Gather historical and real-time data on the financial instruments of interest. This data can include price, volume, transaction data, macroeconomic indicators, and more.
 2. **Data Processing**: Clean and preprocess the data to ensure consistency, remove noise, and handle missing values.
-3. **Network Construction**: Use statistical methods and machine learning algorithms to construct the network, identify nodes and edges, and assign weights.
+3. **Network Construction**: Use statistical methods and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to construct the network, identify nodes and edges, and assign weights.
 4. **Analysis**: Analyze the network to uncover patterns, identify key nodes (centrality measures), and detect communities (clusters of highly interconnected nodes).
 
 ## Applications in Trading
@@ -59,14 +59,14 @@ In HFT, milliseconds matter. Network models can enhance [trading algorithms](../
 ### Machine Learning Techniques
 
 1. **Graph Convolutional Networks (GCNs)**: Used to analyze data structured as graphs. GCNs can capture the spatial dependencies between nodes, making them powerful tools for analyzing networked financial data.
-2. **Recurrent Neural Networks (RNNs)**: Can model the temporal dependencies in financial data. When applied to network models, RNNs can help in predicting future trends and relationships based on historical patterns.
+2. **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs)**: Can model the [temporal dependencies](../t/temporal_dependencies_in_trading.md) in financial data. When applied to network models, RNNs can help in predicting future trends and relationships based on historical patterns.
 3. **[Clustering Algorithms](../c/clustering_algorithms.md)**: Such as K-means and DBSCAN, can be used to identify communities within the network. This helps in understanding the structure and segmentation of the market.
 
 ### Statistical Methods
 
 1. **[Correlation Analysis](../c/correlation_analysis.md)**: Used to construct correlation networks by measuring the linear relationship between different financial variables.
 2. **Granger Causality**: Determines whether one time series can predict another. This is useful for constructing causal networks.
-3. **Principal Component Analysis (PCA)**: Reduces the dimensionality of the data, making it easier to visualize and analyze complex network structures.
+3. **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces the dimensionality of the data, making it easier to visualize and analyze complex network structures.
 
 ## Case Studies
 
@@ -78,13 +78,13 @@ JPMorgan Chase uses network models for [risk management](../r/risk_management.md
 
 ### Two Sigma
 
-Two Sigma, a quantitative investment firm, employs advanced network models to perfect their [trading algorithms](../t/trading_algorithms.md). By using machine learning and big data analytics, Two Sigma creates robust network models that provide deep insights into market behavior.
+Two Sigma, a quantitative investment firm, employs advanced network models to perfect their [trading algorithms](../t/trading_algorithms.md). By using machine learning and [big data analytics](../b/big_data_analytics_in_trading.md), Two Sigma creates robust network models that provide deep insights into market behavior.
 
 **Reference**: [Two Sigma](https://www.twosigma.com)
 
 ### Renaissance Technologies
 
-Renaissance Technologies, one of the most successful hedge funds, has been known for utilizing sophisticated mathematical models, including network models, to trade in various financial markets. Their Medallion Fund, in particular, uses these models to achieve legendary returns.
+Renaissance Technologies, one of the most successful hedge funds, has been known for utilizing sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including network models, to trade in various financial markets. Their Medallion Fund, in particular, uses these models to achieve legendary returns.
 
 **Reference**: [Renaissance Technologies](https://www.rentec.com)
 

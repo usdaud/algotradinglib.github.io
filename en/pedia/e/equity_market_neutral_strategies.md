@@ -32,7 +32,7 @@ Equity [Market Neutral strategies](../m/market_neutral_strategies.md) frequently
 ## Examples of Equity Market Neutral Funds and Firms
 
 ### AQR Capital Management
-AQR Capital Management is a well-known investment firm that employs quantitative strategies, including Equity [Market Neutral strategies](../m/market_neutral_strategies.md). They use a combination of fundamental and statistical models to identify investment opportunities.
+AQR Capital Management is a well-known investment firm that employs [quantitative strategies](../q/quantitative_strategies_in_trading.md), including Equity [Market Neutral strategies](../m/market_neutral_strategies.md). They use a combination of fundamental and statistical models to identify investment opportunities.
 [Visit AQR Capital Management](https://www.aqr.com/)
 
 ### Renaissance Technologies
@@ -44,7 +44,7 @@ Bridgewater Associates is one of the largest hedge fund firms in the world, know
 [Visit Bridgewater Associates](https://www.bridgewater.com/)
 
 ### Two Sigma
-Two Sigma is another prominent quantitative hedge fund that leverages big data, machine learning, and advanced algorithms to implement market-neutral and other [trading strategies](../t/trading_strategies.md).
+Two Sigma is another prominent quantitative hedge fund that leverages [big data](../b/big_data_in_trading.md), machine learning, and advanced algorithms to implement market-neutral and other [trading strategies](../t/trading_strategies.md).
 [Visit Two Sigma](https://www.twosigma.com/)
 
 ### Citadel

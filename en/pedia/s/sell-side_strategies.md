@@ -42,7 +42,7 @@ Companies Involved:
 
 #### 4. Liquidity Provision Strategies
 
-These strategies aim to enhance market liquidity by supplying or taking liquidity through different order types and placement techniques. The sell-side firms can engage in such strategies to earn rebates or reduce their own transaction costs.
+These strategies aim to enhance market liquidity by supplying or taking liquidity through different [order types](../o/order_types_in_trading.md) and placement techniques. The sell-side firms can engage in such strategies to earn rebates or reduce their own transaction costs.
 
 - **Key Concepts:**
   - Passive Orders: Orders that add liquidity to the market, often placed at the bid or ask price.

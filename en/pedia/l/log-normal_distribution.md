@@ -1,14 +1,14 @@
 # Log-Normal Distribution
 
-A log-normal distribution is a probability distribution of a random variable whose logarithm is normally distributed. If the random variable \( X \) is log-normally distributed, then \( Y = \ln(X) \) has a normal distribution. This type of distribution is often used in various fields, including finance, economics, and actuarial science, because it can model the distribution of prices, incomes, or other financial variables that are always positive and skewed to the right.
+A log-[normal distribution](../n/normal_distribution_in_trading.md) is a probability distribution of a random variable whose logarithm is normally distributed. If the random variable \( X \) is log-normally distributed, then \( Y = \ln(X) \) has a [normal distribution](../n/normal_distribution_in_trading.md). This type of distribution is often used in various fields, including finance, economics, and actuarial science, because it can model the distribution of prices, incomes, or other financial variables that are always positive and skewed to the right.
 
 ## Mathematical Definition
 
-Mathematically, a positive random variable \( X \) follows a log-normal distribution if \( \ln(X) \) is normally distributed. The log-normal distribution is characterized by two parameters:
+Mathematically, a positive random variable \( X \) follows a log-[normal distribution](../n/normal_distribution_in_trading.md) if \( \ln(X) \) is normally distributed. The log-[normal distribution](../n/normal_distribution_in_trading.md) is characterized by two parameters:
 - \( \mu \) (mu): the mean of the natural logarithm of \( X \)
 - \( \sigma \) (sigma): the standard deviation of the natural logarithm of \( X \)
 
-The [probability density function](../p/probability_density_function.md) (PDF) of a log-normal distribution is given by:
+The [probability density function](../p/probability_density_function.md) (PDF) of a log-[normal distribution](../n/normal_distribution_in_trading.md) is given by:
 
 \[ f(x; \mu, \sigma) = \frac{1}{x\sigma\sqrt{2\pi}} \exp\left( -\frac{(\ln(x) - \mu)^2}{2\sigma^2} \right) \]
 
@@ -18,10 +18,10 @@ for \( x > 0 \).
 
 1. **Positivity**: Since \( X \) is defined as the exponent of a normally distributed variable, it is always positive, i.e., \( X > 0 \).
 
-2. **Skewness**: The log-normal distribution is right-skewed, meaning it has a long right tail. This property makes it suitable for modeling phenomena where extreme values (like very high incomes) are more probable than similarly extreme low values.
+2. **Skewness**: The log-[normal distribution](../n/normal_distribution_in_trading.md) is right-skewed, meaning it has a long right tail. This property makes it suitable for modeling phenomena where extreme values (like very high incomes) are more probable than similarly extreme low values.
 
 3. **Mean and Median**:
-   - The mean of a log-normal distribution is given by:
+   - The mean of a log-[normal distribution](../n/normal_distribution_in_trading.md) is given by:
      \[
      \mathbb{E}[X] = e^{\mu + \frac{\sigma^2}{2}}
      \]
@@ -32,31 +32,31 @@ for \( x > 0 \).
    \text{Var}(X) = (e^{\sigma^2} - 1) e^{2\mu + \sigma^2}
    \]
 
-5. **Logarithmic Transformation**: The logarithmic transformation of a log-normal variable results in a normal distribution. This property is particularly useful in simplifying the mathematical treatment of multiplicative processes.
+5. **Logarithmic Transformation**: The logarithmic transformation of a log-normal variable results in a [normal distribution](../n/normal_distribution_in_trading.md). This property is particularly useful in simplifying the mathematical treatment of multiplicative processes.
 
 ## Applications in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on statistical and mathematical models to design [trading strategies](../t/trading_strategies.md). The log-normal distribution is widely used in the following aspects of [algorithmic trading](../a/algorithmic_trading.md):
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on statistical and [mathematical models](../m/mathematical_models_in_trading.md) to design [trading strategies](../t/trading_strategies.md). The log-[normal distribution](../n/normal_distribution_in_trading.md) is widely used in the following aspects of [algorithmic trading](../a/algorithmic_trading.md):
 
 ### 1. Stock Prices and Returns
 
-Stock prices are often modeled as [geometric Brownian motion](../g/geometric_brownian_motion.md), where the percentage change in prices follows a normal distribution. Therefore, stock prices themselves can be modeled using a log-normal distribution. This is because the logarithm of the stock prices follows a normal distribution.
+Stock prices are often modeled as [geometric Brownian motion](../g/geometric_brownian_motion.md), where the percentage change in prices follows a [normal distribution](../n/normal_distribution_in_trading.md). Therefore, stock prices themselves can be modeled using a log-[normal distribution](../n/normal_distribution_in_trading.md). This is because the logarithm of the stock prices follows a [normal distribution](../n/normal_distribution_in_trading.md).
 
 ### 2. Option Pricing Models
 
-The Black-Scholes option pricing model uses the assumption that the underlying asset's price follows a log-normal distribution. The model's key formula for pricing European call and [put options](../p/put_options.md) is derived using log-normal properties. 
+The Black-Scholes option pricing model uses the assumption that the underlying asset's price follows a log-[normal distribution](../n/normal_distribution_in_trading.md). The model's key formula for pricing European call and [put options](../p/put_options.md) is derived using log-normal properties. 
 
 ### 3. Risk Management
 
-In quantifying risk and assessing potential losses, financial analysts and traders use the log-normal distribution for Value at Risk (VaR) calculations. The right-tail properties of the distribution help in understanding the probabilities of extreme value occurrences.
+In quantifying risk and assessing potential losses, financial analysts and traders use the log-[normal distribution](../n/normal_distribution_in_trading.md) for Value at Risk (VaR) calculations. The right-tail properties of the distribution help in understanding the probabilities of extreme value occurrences.
 
 ### 4. Portfolio Optimization
 
-Portfolio managers use the log-normal distribution to model asset returns and their volatilities. The portfolio's overall return and risk assessment are analyzed under this probabilistic framework to make optimal investment decisions.
+Portfolio managers use the log-[normal distribution](../n/normal_distribution_in_trading.md) to model asset returns and their volatilities. The portfolio's overall return and risk assessment are analyzed under this probabilistic framework to make optimal investment decisions.
 
 ## Implementation in Python
 
-To model and analyze a log-normal distribution in Python, popular libraries like NumPy, SciPy, and Matplotlib can be employed. Below is an example code that demonstrates how to plot a log-normal distribution.
+To model and analyze a log-[normal distribution](../n/normal_distribution_in_trading.md) in Python, popular libraries like NumPy, SciPy, and Matplotlib can be employed. Below is an example code that demonstrates how to plot a log-[normal distribution](../n/normal_distribution_in_trading.md).
 
 ```python
 import numpy as np
@@ -86,7 +86,7 @@ plt.show()
 
 ## Conclusion
 
-The log-normal distribution plays a crucial role in [financial modeling](../f/financial_modeling.md) and [algorithmic trading](../a/algorithmic_trading.md). Its properties make it suitable for modeling a wide range of financial variables and phenomena. Understanding and applying the log-normal distribution can provide traders and risk managers with valuable insights and robust mathematical tools for making informed decisions.
+The log-[normal distribution](../n/normal_distribution_in_trading.md) plays a crucial role in [financial modeling](../f/financial_modeling.md) and [algorithmic trading](../a/algorithmic_trading.md). Its properties make it suitable for modeling a wide range of financial variables and phenomena. Understanding and applying the log-[normal distribution](../n/normal_distribution_in_trading.md) can provide traders and risk managers with valuable insights and robust mathematical tools for making informed decisions.
 
 For more information, you can visit the following link:
 - [SciPy Log-Normal Distribution Documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.lognorm.html)

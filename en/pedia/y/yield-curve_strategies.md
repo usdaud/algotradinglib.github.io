@@ -8,7 +8,7 @@ The [yield curve](../y/yield_curve.md) is a graphical representation showing the
 
 - **Normal [Yield Curve](../y/yield_curve.md)**: Indicates that longer-term securities have higher yields compared to short-term securities, reflecting the risks associated with time.
 - **Inverted [Yield Curve](../y/yield_curve.md)**: Indicates higher yields for short-term securities compared to long-term ones, often seen as a predictor of an economic recession.
-- **Flat [Yield Curve](../y/yield_curve.md)**: Occurs when yields for short-term and long-term securities are very close, indicating market uncertainty.
+- **Flat [Yield Curve](../y/yield_curve.md)**: Occurs when yields for short-term and long-term securities are very close, indicating market [uncertainty](../u/uncertainty_in_trading.md).
 
 #### 2. Key Yield-Curve Trading Strategies
 
@@ -28,7 +28,7 @@ To implement these strategies, traders use a variety of models and algorithms. T
 
 1. **Data Collection and Preprocessing**: Gathering historical data on bond yields, interest rates, [economic indicators](../e/economic_indicators.md), and market sentiment. Preprocessing involves cleaning the data and ensuring its accuracy for model training.
 
-2. **Modeling and Forecasting**: Developing [quantitative models](../q/quantitative_models.md) to forecast future movements in interest rates and yield spreads. Common techniques include econometric models, machine learning algorithms, and statistical analysis.
+2. **Modeling and Forecasting**: Developing [quantitative models](../q/quantitative_models.md) to forecast future movements in interest rates and yield spreads. Common techniques include econometric models, machine [learning algorithms](../l/learning_algorithms_in_trading.md), and statistical analysis.
 
 3. **Optimization and Strategy Development**: Using optimization techniques to identify the best set of trades. This includes determining the ideal bond maturities, entry and exit points, and position sizes to maximize returns and minimize risk.
 
@@ -42,7 +42,7 @@ Yield-curve strategies have evolved significantly with advancements in technolog
   
 - **Machine Learning and AI**: Employing sophisticated machine learning models to predict [yield curve](../y/yield_curve.md) movements and optimize [trading strategies](../t/trading_strategies.md). These models can process vast amounts of data and identify patterns that traditional methods might miss.
 
-- **Blockchain and Smart Contracts**: Using blockchain technology to enhance transparency and efficiency in bond trading. Smart contracts can automate the settlement process, reducing [counterparty risk](../c/counterparty_risk.md) and operational inefficiencies.
+- **[Blockchain](../b/blockchain_in_trading.md) and [Smart Contracts](../s/smart_contracts_in_trading.md)**: Using [blockchain](../b/blockchain_in_trading.md) technology to enhance transparency and efficiency in bond trading. [Smart contracts](../s/smart_contracts_in_trading.md) can automate the settlement process, reducing [counterparty risk](../c/counterparty_risk.md) and operational inefficiencies.
 
 #### 5. Risk Management
 
@@ -50,7 +50,7 @@ Yield-curve strategies have evolved significantly with advancements in technolog
 
 - **Duration and Convexity Analysis**: Assessing the sensitivity of bond prices to changes in interest rates. Duration measures the price change for a 1% change in interest rates, while convexity accounts for the curvature of the price-yield relationship.
   
-- **Stress Testing and Scenario Analysis**: Evaluating how portfolios perform under extreme market conditions. This helps in identifying potential vulnerabilities and adjusting positions accordingly.
+- **[Stress Testing](../s/stress_testing_in_trading.md) and Scenario Analysis**: Evaluating how portfolios perform under extreme market conditions. This helps in identifying potential vulnerabilities and adjusting positions accordingly.
 
 - **Hedging**: Implementing [hedging strategies](../h/hedging_strategies.md) using [derivatives](../d/derivatives.md) such as [interest rate swaps](../i/interest_rate_swaps.md), futures, and options to mitigate exposure to adverse [yield curve](../y/yield_curve.md) movements.
 

@@ -1,18 +1,18 @@
 # QuantHouse
 
 ## Overview
-QuantHouse is a leading provider of end-to-end systematic trading solutions, offering low-latency market data, comprehensive trading infrastructure, and advanced algorithmic trading capabilities. The company's solutions are designed to meet the needs of quantitative trading firms, hedge funds, banks, and proprietary trading desks looking for high-performance trading technologies.
+QuantHouse is a leading provider of end-to-end [systematic trading](../s/systematic_trading.md) solutions, offering low-latency market data, comprehensive trading infrastructure, and advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities. The company's solutions are designed to meet the needs of [quantitative trading](../q/quantitative_trading.md) firms, hedge funds, banks, and [proprietary trading](../p/proprietary_trading.md) desks looking for high-performance trading technologies.
 
 ## Key Features
-1. **Market Data Solutions**: QuantHouse provides ultra-low latency market data feeds from over 150 sources worldwide, including major exchanges, dark pools, and other liquidity providers. Their market data solutions are designed to deliver high-speed, accurate, and reliable data for trading and analysis.
+1. **Market Data Solutions**: QuantHouse provides ultra-low latency market data feeds from over 150 sources worldwide, including major exchanges, [dark pools](../d/dark_pools.md), and other liquidity providers. Their market data solutions are designed to deliver high-speed, accurate, and reliable data for trading and analysis.
 
-2. **Trading Infrastructure**: QuantHouse offers a robust and scalable trading infrastructure, including co-location services, direct market access (DMA), and order routing. Their infrastructure ensures minimal latency and maximum uptime, which are critical for high-frequency and algorithmic trading strategies.
+2. **Trading Infrastructure**: QuantHouse offers a robust and scalable trading infrastructure, including co-location services, direct market access (DMA), and [order routing](../o/order_routing.md). Their infrastructure ensures minimal latency and maximum uptime, which are critical for high-frequency and [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-3. **Algorithmic Trading**: With QuantHouse's advanced algorithmic trading tools, firms can develop, backtest, and deploy complex trading strategies. The platform supports multiple programming languages and offers a wide range of APIs for seamless integration with existing systems.
+3. **[Algorithmic Trading](../a/algorithmic_trading.md)**: With QuantHouse's advanced [algorithmic trading](../a/algorithmic_trading.md) tools, firms can develop, backtest, and deploy complex [trading strategies](../t/trading_strategies.md). The platform supports multiple programming languages and offers a wide range of APIs for seamless integration with existing systems.
 
-4. **QuantFEED**: This service provides normalized market data with consistent timestamping and sequencing, ensuring that users receive clean and accurate data for their trading algorithms and analytics.
+4. **QuantFEED**: This service provides normalized market data with consistent timestamping and sequencing, ensuring that users receive clean and accurate data for their [trading algorithms](../t/trading_algorithms.md) and analytics.
 
-5. **QuantFACTORY**: A suite of tools for algorithmic trading strategy development, backtesting, and execution. It includes QuantDEVELOPER, QuantENGINE, and QuantTrader, enabling traders to design, test, and run their strategies in a fully integrated environment.
+5. **QuantFACTORY**: A suite of tools for [algorithmic trading](../a/algorithmic_trading.md) strategy development, [backtesting](../b/backtesting.md), and execution. It includes QuantDEVELOPER, QuantENGINE, and QuantTrader, enabling traders to design, test, and run their strategies in a fully integrated environment.
 
 6. **QuantLINK**: A global fiber optic network that connects all major trading venues, ensuring low-latency and high-reliability connectivity. This network is designed to support the high-speed data transfer requirements of today's trading firms.
 
@@ -24,15 +24,15 @@ QuantHouse is a leading provider of end-to-end systematic trading solutions, off
 
 ## Use Cases
 - **High-Frequency Trading (HFT)**: Firms engaged in HFT can leverage QuantHouse's low-latency market data and trading infrastructure to gain a competitive edge.
-- **Algorithmic Trading**: QuantHouse provides the tools necessary for developing, testing, and deploying sophisticated trading algorithms.
-- **Quantitative Research**: Researchers can access high-quality market data for backtesting and analysis, enabling them to develop and refine their trading models.
-- **Risk Management**: Accurate and timely market data helps firms manage their risk exposure more effectively.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: QuantHouse provides the tools necessary for developing, testing, and deploying sophisticated [trading algorithms](../t/trading_algorithms.md).
+- **[Quantitative Research](../q/quantitative_research.md)**: Researchers can access high-quality market data for [backtesting](../b/backtesting.md) and analysis, enabling them to develop and refine their [trading models](../t/trading_models.md).
+- **[Risk Management](../r/risk_management.md)**: Accurate and timely market data helps firms manage their risk exposure more effectively.
 
 ## Integration and APIs
 QuantHouse offers a variety of APIs, including REST, FIX, and WebSocket, allowing for easy integration with a firm's existing systems and workflows. Their APIs are designed to provide fast and reliable access to market data and trading infrastructure.
 
 ## Clients and Partners
-QuantHouse serves a diverse range of clients, including hedge funds, proprietary trading firms, investment banks, and asset managers. Their partners include major exchanges, data centers, and technology providers, ensuring comprehensive coverage and support for their clients' trading needs.
+QuantHouse serves a diverse range of clients, including hedge funds, [proprietary trading](../p/proprietary_trading.md) firms, investment banks, and asset managers. Their partners include major exchanges, data centers, and technology providers, ensuring comprehensive coverage and support for their clients' trading needs.
 
 ## Website
 For more information about QuantHouse and their services, visit the official website: [QuantHouse](https://www.quanthouse.com/)

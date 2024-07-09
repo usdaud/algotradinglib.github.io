@@ -40,12 +40,12 @@ Temporal patterns offer significant advantages to traders and algorithmic system
 Statistical methods involve analyzing historical data to identify recurring patterns. Techniques include:
 - **Descriptive Statistics**: Mean, median, variance, and standard deviation calculations to summarize data patterns.
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Using models like ARIMA (AutoRegressive Integrated Moving Average) to forecast future values based on past data.
-- **Signal Processing**: Methods like Fourier Transform and [Wavelet Analysis](../w/wavelet_analysis.md) to identify cyclical patterns in data.
+- **[Signal Processing](../s/signal_processing_in_trading.md)**: Methods like Fourier Transform and [Wavelet Analysis](../w/wavelet_analysis.md) to identify cyclical patterns in data.
 
 ### 2. Machine Learning
 Machine learning provides advanced tools for [pattern recognition](../p/pattern_recognition.md), including:
 - **Regression Models**: Linear and non-[linear regression](../l/linear_regression.md) to predict future price movements.
-- **[Classification Algorithms](../c/classification_algorithms.md)**: Support Vector Machines (SVM), [Decision Trees](../d/decision_trees.md), and Neural Networks to categorize data and predict trends.
+- **[Classification Algorithms](../c/classification_algorithms.md)**: [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Decision Trees](../d/decision_trees.md), and [Neural Networks](../n/neural_networks_in_trading.md) to categorize data and predict trends.
 - **Unsupervised Learning**: Clustering techniques like K-means and Hierarchical clustering to discover hidden patterns without pre-labeled data.
 
 ### 3. Technical Indicators
@@ -60,7 +60,7 @@ Machine learning provides advanced tools for [pattern recognition](../p/pattern_
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies utilize advanced algorithms to detect and exploit temporal patterns for high-frequency trading and other strategies. More details about their methods can be found on the [Renaissance Technologies website](https://www.rentec.com/).
 
 ### 2. Retail Trading Platforms
-Platforms like Interactive Brokers offer tools and data feeds that help retail traders to identify and capitalize on temporal patterns. Learn more from the [Interactive Brokers website](https://www.interactivebrokers.com/).
+Platforms like [Interactive Brokers](../i/interactive_brokers.md) offer tools and data feeds that help retail traders to identify and capitalize on temporal patterns. Learn more from the [Interactive Brokers website](https://www.interactivebrokers.com/).
 
 ### 3. Algorithmic Trading Software
 Software solutions like MetaTrader and [NinjaTrader](../n/ninjatrader.md) provide built-in [technical indicators](../t/technical_indicators.md) and custom scripting capabilities to develop pattern-detection algorithms. For more information, visit the [MetaTrader website](https://www.metatrader4.com/) and the [NinjaTrader website](https://ninjatrader.com/).

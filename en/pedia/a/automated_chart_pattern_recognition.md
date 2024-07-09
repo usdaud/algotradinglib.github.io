@@ -22,7 +22,7 @@ Automated Chart [Pattern Recognition](../p/pattern_recognition.md) (ACPR) involv
 
 ### Machine Learning and AI
 
-Machine learning and AI can enhance ACPR by developing models trained on vast datasets to improve the identification accuracy and predict the likelihood of pattern success. Techniques include supervised learning, neural networks, and deep learning frameworks.
+Machine learning and AI can enhance ACPR by developing models trained on vast datasets to improve the identification accuracy and predict the likelihood of pattern success. Techniques include supervised learning, [neural networks](../n/neural_networks_in_trading.md), and deep learning frameworks.
 
 ### Technical Indicators
 
@@ -32,7 +32,7 @@ Machine learning and AI can enhance ACPR by developing models trained on vast da
 
 ### Image Recognition
 
-Image recognition techniques involve processing visual data from charts. Convolutional Neural Networks (CNNs) are particularly useful in identifying patterns in chart images.
+Image recognition techniques involve processing visual data from charts. Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) are particularly useful in identifying patterns in chart images.
 
 ### Rule-Based Systems
 
@@ -75,9 +75,9 @@ Quant desks in financial institutions use ACPR for [quantitative analysis](../q/
 ### Financial Institutions
 
 1. **Goldman Sachs**: Known for its [proprietary trading](../p/proprietary_trading.md) algorithms and advanced analytics, Goldman Sachs is at the forefront of using technology for trading. [Website](https://www.goldmansachs.com)
-2. **J.P. Morgan**: The firm employs advanced mathematical models and ACPR technologies to enhance their trading operations. [Website](https://www.jpmorgan.com)
+2. **J.P. Morgan**: The firm employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and ACPR technologies to enhance their trading operations. [Website](https://www.jpmorgan.com)
 
 ### Research and Development
 
 1. **Kensho Technologies**: Acquired by S&P Global, Kensho develops machine learning and AI solutions for financial markets. [Website](https://www.kensho.com)
-2. **Numerai**: A hedge fund that leverages data science and AI for trading, utilizing predictive models and [pattern recognition](../p/pattern_recognition.md). [Website](https://numer.ai)
+2. **Numerai**: A hedge fund that leverages [data science](../d/data_science_in_trading.md) and AI for trading, utilizing [predictive models](../p/predictive_models_in_trading.md) and [pattern recognition](../p/pattern_recognition.md). [Website](https://numer.ai)

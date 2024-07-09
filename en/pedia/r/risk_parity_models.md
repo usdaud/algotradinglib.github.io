@@ -86,7 +86,7 @@ Regular monitoring and adjustment of the [risk parity](../r/risk_parity.md) mode
 
 ## Tools and Software
 
-Several tools and software platforms help in implementing and managing [risk parity](../r/risk_parity.md) portfolios:
+Several tools and [software platforms](../s/software_platforms_for_trading.md) help in implementing and managing [risk parity](../r/risk_parity.md) portfolios:
 
 - **Riskalyze**: A platform that offers risk assessment tools for portfolio construction and monitoring.
 - **BlackRock Aladdin**: Provides [risk management](../r/risk_management.md) and [portfolio management](../p/portfolio_management.md) solutions, incorporating [risk parity](../r/risk_parity.md) principles.

@@ -82,7 +82,7 @@ Retail investors and day traders use market [trend analysis](../t/trend_analysis
 While market [trend analysis](../t/trend_analysis.md) offers significant advantages, it comes with its own set of limitations and risks:
 
 1. **[Lagging Indicators](../l/lagging_indicators.md)**: Many [trend indicators](../t/trend_indicators.md) are lagging, meaning they can signal a trend change too late.
-2. **False Signals**: False positive or false negative signals can occur, leading to potential losses.
+2. **[False Signals](../f/false_signals_in_trading.md)**: False positive or false negative signals can occur, leading to potential losses.
 3. **Market Volatility**: High market volatility can render [trend analysis](../t/trend_analysis.md) tools less effective.
 4. **Overfitting**: Relying too much on historical data can sometimes lead to overfitting, where the model works well with past data but fails in real-time trading.
 

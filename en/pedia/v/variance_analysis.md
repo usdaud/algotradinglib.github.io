@@ -32,7 +32,7 @@ Realized risk is observed in actual trading outcomes, revealing true exposure to
 Sources:
 - Calculation errors
 - Unforeseen market events
-- Inaccurate risk models
+- Inaccurate [risk models](../r/risk_models_in_trading.md)
 
 ### 3. Execution Variance
 Execution variance focuses on the differences between the intended and actual trade execution. High execution variance can lead to slippage and increased transaction costs.
@@ -54,7 +54,7 @@ Sources:
 Variance decomposition involves breaking down the total variance into its core components. For instance, a variance in returns could be divided into price variance, volume variance, and time variance. This granular approach helps in pinpointing the exact source of variance.
 
 ### 2. Conformance Testing
-Conformance testing helps to identify if a trading strategy operates within its defined parameters. This often involves [backtesting](../b/backtesting.md) and stress testing to ensure that the model performs as expected under various conditions.
+Conformance testing helps to identify if a trading strategy operates within its defined parameters. This often involves [backtesting](../b/backtesting.md) and [stress testing](../s/stress_testing_in_trading.md) to ensure that the model performs as expected under various conditions.
 
 ### 3. Attribution Analysis
 Attribution analysis allocates the variance in performance to different contributing factors. This method is commonly used to assess the impact of specific variables like market trends, [sector performance](../s/sector_performance.md), or individual stock movements on the overall strategy performance.
@@ -65,7 +65,7 @@ Attribution analysis allocates the variance in performance to different contribu
 By understanding the sources of variance, traders can tweak their algorithms to optimize performance. For example, if high execution variance is identified, improvements can be made in [trading algorithms](../t/trading_algorithms.md) to reduce slippage.
 
 ### 2. Risk Management
-Variance analysis aids in fine-tuning risk models to better capture the actual risk exposed in live trading conditions.
+Variance analysis aids in fine-tuning [risk models](../r/risk_models_in_trading.md) to better capture the actual risk exposed in live trading conditions.
 
 ### 3. Performance Benchmarking
 Traders use variance analysis to compare their strategies against benchmarks or competing strategies. This enables them to identify relative performance gaps and areas for enhancement.

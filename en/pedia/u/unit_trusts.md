@@ -42,7 +42,7 @@ There are several advantages to incorporating [algorithmic trading](../a/algorit
 
 3. **Consistency**: Algorithms follow predefined rules and strategies, ensuring consistent application without emotional biases.
 
-4. **[Risk Management](../r/risk_management.md)**: Algorithms can identify and react to risk factors in real-time, allowing for proactive [risk management](../r/risk_management.md) strategies.
+4. **[Risk Management](../r/risk_management.md)**: Algorithms can identify and react to [risk factors](../r/risk_factors_in_trading.md) in real-time, allowing for proactive [risk management](../r/risk_management.md) strategies.
 
 ### Case Studies
 

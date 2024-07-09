@@ -1,22 +1,22 @@
 # Quantitative Portfolio Management
 
-Quantitative [portfolio management](../p/portfolio_management.md) is a form of investment management that employs sophisticated mathematical models, algorithms, and extensive data analysis to make investment decisions. Instead of relying on the subjective judgment of human analysts or portfolio managers, quantitative [portfolio management](../p/portfolio_management.md) leverages the power of computers and quantitative techniques to optimize the selection and weighting of investment assets in a portfolio. This approach is prevalent among hedge funds, institutional investors, and quant funds, where it has been employed to maximize returns, minimize risks, and capitalize on market inefficiencies. Here is an extensive exploration of the topic, covering a wide array of aspects intrinsic to quantitative [portfolio management](../p/portfolio_management.md). 
+Quantitative [portfolio management](../p/portfolio_management.md) is a form of investment management that employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md), algorithms, and extensive data analysis to make investment decisions. Instead of relying on the subjective judgment of human analysts or portfolio managers, quantitative [portfolio management](../p/portfolio_management.md) leverages the power of computers and quantitative techniques to optimize the selection and weighting of investment assets in a portfolio. This approach is prevalent among hedge funds, institutional investors, and quant funds, where it has been employed to maximize returns, minimize risks, and capitalize on market inefficiencies. Here is an extensive exploration of the topic, covering a wide array of aspects intrinsic to quantitative [portfolio management](../p/portfolio_management.md). 
 
 ### Key Concepts in Quantitative Portfolio Management
 
 1. **[Algorithmic Trading](../a/algorithmic_trading.md)**: [Algorithmic trading](../a/algorithmic_trading.md) involves using pre-defined sets of rules executed by sophisticated software to determine the timing, price, and quantity of financial assets to be traded. The programs are designed to operate at speeds and frequencies that human traders cannot match. These algorithms can identify [arbitrage](../a/arbitrage.md) opportunities, predict market trends, and implement high-frequency [trading strategies](../t/trading_strategies.md).
 
-2. **Mathematical Models**: Mathematical models play a central role in quantitative [portfolio management](../p/portfolio_management.md). Modern portfolio theory (MPT), developed by Harry Markowitz, is one of the foundational models. MPT focuses on how risk-averse investors can construct portfolios to optimize or maximize expected return based on a given level of market risk.
+2. **[Mathematical Models](../m/mathematical_models_in_trading.md)**: [Mathematical models](../m/mathematical_models_in_trading.md) play a central role in quantitative [portfolio management](../p/portfolio_management.md). Modern portfolio theory (MPT), developed by Harry Markowitz, is one of the foundational models. MPT focuses on how risk-averse investors can construct portfolios to optimize or maximize expected return based on a given level of market risk.
 
-3. **[Risk Management](../r/risk_management.md)**: In quantitative [portfolio management](../p/portfolio_management.md), risk is meticulously measured and controlled using diverse techniques and metrics, such as Value at Risk (VaR), stress testing, and scenario analysis. Tools like Monte Carlo simulations may be used to assess the probability distribution of potential outcomes.
+3. **[Risk Management](../r/risk_management.md)**: In quantitative [portfolio management](../p/portfolio_management.md), risk is meticulously measured and controlled using diverse techniques and metrics, such as Value at Risk (VaR), [stress testing](../s/stress_testing_in_trading.md), and scenario analysis. Tools like Monte Carlo simulations may be used to assess the probability distribution of potential outcomes.
 
 4. **[Factor Models](../f/factor_models.md)**: [Factor models](../f/factor_models.md), such as the Capital Asset Pricing Model (CAPM) and the Fama-French Three-Factor Model, help in understanding the relationship between expected return and risk. These models consider factors such as market risk, size, and value, among others, to assess the expected returns of an asset.
 
-5. **Machine Learning and AI**: Modern advancements have integrated machine learning and artificial intelligence into quantitative [portfolio management](../p/portfolio_management.md). Machine learning algorithms analyze large datasets to uncover patterns and insights that human analysis might miss. AI systems continuously learn from new data, improving their predictive accuracy over time.
+5. **Machine Learning and AI**: Modern advancements have integrated machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) into quantitative [portfolio management](../p/portfolio_management.md). Machine [learning algorithms](../l/learning_algorithms_in_trading.md) analyze large datasets to uncover patterns and insights that human analysis might miss. AI systems continuously learn from new data, improving their predictive accuracy over time.
 
 6. **[Backtesting](../b/backtesting.md)**: A critical component of quantitative [portfolio management](../p/portfolio_management.md) is [backtesting](../b/backtesting.md), which involves testing [trading strategies](../t/trading_strategies.md) on historical market data to evaluate their effectiveness. [Backtesting](../b/backtesting.md) helps in refining models and strategies by demonstrating how they would have performed in the past.
 
-7. **Optimization**: [Portfolio optimization](../p/portfolio_optimization.md) is about selecting the best combination of assets to achieve the desired trade-off between risk and return. This could involve techniques like quadratic programming, genetic algorithms, and other advanced optimization methodologies.
+7. **Optimization**: [Portfolio optimization](../p/portfolio_optimization.md) is about selecting the best combination of assets to achieve the desired trade-off between risk and return. This could involve techniques like quadratic programming, [genetic algorithms](../g/genetic_algorithms_in_trading.md), and other advanced optimization methodologies.
 
 ### Application and Implementation
 
@@ -27,7 +27,7 @@ Quantitative [portfolio management](../p/portfolio_management.md) is a form of i
 
 2. **Model Development and Validation**
    - **[Hypothesis Testing](../h/hypothesis_testing.md)**: Formulating and testing hypotheses about market behavior are fundamental steps in model development. Hypotheses are rigorously tested using statistical methods to ensure their validity.
-   - **Parameter Tuning**: Models often have adjustable parameters that need to be fine-tuned to optimize performance. Techniques like grid search, random search, and [Bayesian optimization](../b/bayesian_optimization.md) are employed to find the sweet spots of these parameters.
+   - **Parameter Tuning**: Models often have adjustable parameters that need to be fine-tuned to optimize performance. Techniques like [grid search](../g/grid_search_in_trading.md), random search, and [Bayesian optimization](../b/bayesian_optimization.md) are employed to find the sweet spots of these parameters.
    - **Model Validation**: To ensure that models are not overfitting and are generalizable to new data, they are validated using techniques like cross-validation and [out-of-sample testing](../o/out-of-sample_testing.md).
 
 3. **Strategy Deployment**
@@ -59,7 +59,7 @@ Quantitative [portfolio management](../p/portfolio_management.md) is a form of i
 
 4. **Regulatory Compliance**: Navigating the complex regulatory landscape is essential. Regulations are continually evolving, and compliance can be a significant operational burden.
 
-5. **Technological Advancements**: The integration of advancements in AI, big data, and cloud computing will continue to shape the future of quantitative [portfolio management](../p/portfolio_management.md), enabling more sophisticated models and faster processing capabilities.
+5. **Technological Advancements**: The integration of advancements in AI, [big data](../b/big_data_in_trading.md), and [cloud computing](../c/cloud_computing_in_trading.md) will continue to shape the future of quantitative [portfolio management](../p/portfolio_management.md), enabling more sophisticated models and faster processing capabilities.
 
 6. **Ethical Considerations**: The ethical implications of [automated trading systems](../a/automated_trading_systems.md) and their impact on market liquidity and fairness are under scrutiny. Balancing profit motives with ethical considerations is increasingly important.
 

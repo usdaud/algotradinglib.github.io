@@ -79,7 +79,7 @@ PCI DSS is a set of security standards designed to protect payment card informat
 ## Emerging Trends
 
 ### 1. Blockchain Technology
-Blockchain technology offers a decentralized approach to securing transaction data. By using cryptographic hashes and distributed ledgers, blockchain can provide enhanced security and transparency in trading operations.
+[Blockchain](../b/blockchain_in_trading.md) technology offers a decentralized approach to securing transaction data. By using cryptographic hashes and distributed ledgers, [blockchain](../b/blockchain_in_trading.md) can provide enhanced security and transparency in trading operations.
 
 ### 2. Artificial Intelligence and Machine Learning
 AI and ML are increasingly being used to enhance data security in trading. These technologies can help in detecting anomalies, predicting potential threats, and automating security responses.
@@ -94,6 +94,6 @@ The Zero Trust security model assumes that threats can exist both inside and out
 As more trading firms move to cloud-based systems, securing data in the cloud has become a priority. This includes ensuring data encryption, securing API endpoints, and adhering to cloud security best practices.
 
 ## Conclusion
-Data security in trading is an ongoing challenge that requires constant vigilance and proactive measures. By understanding the types of data involved, potential threats, available security mechanisms, and regulatory requirements, trading firms can better protect their critical assets. Emerging trends like blockchain, AI, and quantum cryptography offer promising avenues for enhancing data security in the future.
+Data security in trading is an ongoing challenge that requires constant vigilance and proactive measures. By understanding the types of data involved, potential threats, available security mechanisms, and regulatory requirements, trading firms can better protect their critical assets. Emerging trends like [blockchain](../b/blockchain_in_trading.md), AI, and quantum cryptography offer promising avenues for enhancing data security in the future.
 
 For more information on data security and financial [trading systems](../t/trading_systems.md), firms can refer to resources provided by leading security and trading organizations such as [Securities Industry and Financial Markets Association (SIFMA)](https://www.sifma.org), [European Securities and Markets Authority (ESMA)](https://www.esma.europa.eu), and [Financial Conduct Authority (FCA)](https://www.fca.org.uk).

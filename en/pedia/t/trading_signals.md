@@ -14,7 +14,7 @@ Trading signals are indicators that suggest a good time to buy or sell a securit
 
 ### Fundamental Analysis
 
-[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a security's intrinsic value based on financial statements, economic conditions, and other qualitative factors. Trading signals from [fundamental analysis](../f/fundamental_analysis.md) can emerge from indicators such as earnings reports, interest rates, and GDP growth rates.
+[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a security's intrinsic value based on financial statements, economic conditions, and other qualitative factors. Trading signals from [fundamental analysis](../f/fundamental_analysis.md) can emerge from indicators such as earnings reports, interest rates, and GDP [growth rates](../g/growth_rates_in_trading.md).
 
 ### Quantitative Analysis
 
@@ -22,7 +22,7 @@ Trading signals are indicators that suggest a good time to buy or sell a securit
 
 ### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) uses natural language processing (NLP) to assess the mood of the market from news articles, social media, and other textual data. Software like StockTwits or services like those offered by [MarketPsych](https://www.marketpsych.com) can provide sentiment-based trading signals.
+[Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to assess the mood of the market from news articles, social media, and other textual data. Software like StockTwits or services like those offered by [MarketPsych](https://www.marketpsych.com) can provide sentiment-based trading signals.
 
 ## Types of Trading Signals
 

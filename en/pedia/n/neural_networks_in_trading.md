@@ -1,7 +1,7 @@
 # Neural Networks
 
 ## Introduction
-Neural Networks (NNs) are a subset of machine learning algorithms inspired by the structure and function of the human brain. They are designed to recognize patterns, make decisions, and predict outcomes based on data inputs. NNs have revolutionized many industries, including trading, where they are used to analyze vast amounts of financial data, identify trends, and execute trades with high precision.
+Neural Networks (NNs) are a subset of machine [learning algorithms](../l/learning_algorithms_in_trading.md) inspired by the structure and function of the human brain. They are designed to recognize patterns, make decisions, and predict outcomes based on data inputs. NNs have revolutionized many industries, including trading, where they are used to analyze vast amounts of financial data, identify trends, and execute trades with high precision.
 
 ## Basics of Neural Networks
 
@@ -59,7 +59,7 @@ Overfitting occurs when a neural network model is too closely aligned with the h
 Training neural networks, especially deep learning models, requires substantial computational power and memory. This demand can be a barrier for smaller trading firms or individual traders without access to high-performance computing resources.
 
 ### Regulatory Compliance
-[Trading algorithms](../t/trading_algorithms.md) based on neural networks must comply with regulatory requirements. Ensuring that AI-driven [trading strategies](../t/trading_strategies.md) adhere to financial regulations and ethical standards can be challenging.
+[Trading algorithms](../t/trading_algorithms.md) based on neural networks must comply with regulatory requirements. Ensuring that AI-driven [trading strategies](../t/trading_strategies.md) adhere to financial regulations and [ethical standards](../e/ethical_standards_in_trading.md) can be challenging.
 
 ## Companies Utilizing Neural Networks in Trading
 
@@ -72,7 +72,7 @@ Renaissance Technologies is renowned for its use of quantitative methods and neu
 - Website: [Renaissance Technologies](https://www.rentec.com)
 
 ### Citadel
-Citadel is a leading global financial institution that utilizes artificial intelligence and neural networks to drive its [trading strategies](../t/trading_strategies.md) across various asset classes. Citadel's technology-driven approach allows it to process market data in real-time and execute trades with high precision.
+Citadel is a leading global financial institution that utilizes [artificial intelligence](../a/artificial_intelligence_in_trading.md) and neural networks to drive its [trading strategies](../t/trading_strategies.md) across various asset classes. Citadel's technology-driven approach allows it to process market data in real-time and execute trades with high precision.
 - Website: [Citadel](https://www.citadel.com)
 
 ### DE Shaw
@@ -109,10 +109,10 @@ Combining neural networks with traditional [quantitative models](../q/quantitati
 Advancements in online learning and [adaptive algorithms](../a/adaptive_algorithms.md) enable neural networks to learn and adjust in real-time, enhancing their ability to respond to immediate market changes and opportunities.
 
 ### Enhanced Interpretability
-Efforts to develop more interpretable neural network models will make it easier for traders and regulators to understand and trust AI-driven trading decisions. Techniques like attention mechanisms and explainable AI are steps in this direction.
+Efforts to develop more interpretable neural [network models](../n/network_models_in_trading.md) will make it easier for traders and regulators to understand and trust AI-driven trading decisions. Techniques like attention mechanisms and explainable AI are steps in this direction.
 
 ### Ethical AI
-Ensuring that neural network models are designed and used ethically is paramount. This includes addressing biases in data, ensuring fairness in decision-making, and protecting against misuse in high-frequency trading that can disrupt markets.
+Ensuring that neural [network models](../n/network_models_in_trading.md) are designed and used ethically is paramount. This includes addressing biases in data, ensuring fairness in decision-making, and protecting against misuse in high-frequency trading that can disrupt markets.
 
 ## Conclusion
 Neural Networks are a powerful tool in modern trading, capable of analyzing complex data, predicting market movements, and automating [trading strategies](../t/trading_strategies.md) with high precision. While they offer significant advantages, implementing neural networks also presents challenges such as data quality, computational resources, and regulatory compliance. As technology advances, the future of neural networks in trading looks promising, with potential developments in hybrid models, real-time learning, enhanced interpretability, and ethical AI practices.

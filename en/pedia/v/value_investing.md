@@ -77,7 +77,7 @@ Seth Klarman, the author of "Margin of Safety: Risk-Averse [Value Investing Stra
 Advanced data analytics can enhance the [fundamental analysis](../f/fundamental_analysis.md) process, allowing investors to scrutinize financial statements and market trends with greater precision.
 
 ### Machine Learning
-Machine learning algorithms can predict the intrinsic value of a stock more accurately by analyzing patterns within vast amounts of data. Training these models on historical data helps in recognizing potential investment opportunities.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can predict the intrinsic value of a stock more accurately by analyzing patterns within vast amounts of data. Training these models on historical data helps in recognizing potential investment opportunities.
 
 ## Value Investing in a Digital Age
 

@@ -7,7 +7,7 @@ The yield curve is a fundamental concept in finance and economics, known for its
 There are several shapes a yield curve can take, each indicative of different economic conditions:
 1. **Normal Yield Curve**: This curve slopes upward, indicating that longer-term securities have higher yields compared to shorter-term securities. It usually suggests that the economy is expected to experience steady growth.
 2. **Inverted Yield Curve**: This curve slopes downward, where longer-term securities have lower yields than shorter-term ones. It is often interpreted as a signal of an upcoming recession.
-3. **Flat Yield Curve**: This curve is horizontal, indicating that there is little difference between short-term and long-term yields. It can be a sign of economic uncertainty.
+3. **Flat Yield Curve**: This curve is horizontal, indicating that there is little difference between short-term and long-term yields. It can be a sign of economic [uncertainty](../u/uncertainty_in_trading.md).
 4. **Humped Yield Curve**: This curve has a hump, where medium-term yields are higher than both short-term and long-term yields. It is less common but may indicate that investors expect future interest rates to rise modestly and then decline.
 
 ## Components of Yield Curves

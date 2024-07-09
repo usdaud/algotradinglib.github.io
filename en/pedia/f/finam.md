@@ -12,7 +12,7 @@ Finam is a leading Russian financial services company providing a wide range of 
 
 4. **Mutual Funds**: The firm offers a variety of mutual funds, allowing clients to invest in professionally managed portfolios across different asset classes.
 
-5. **Advanced Trading Platforms**: Finam provides several trading platforms, including FinamTrade, MetaTrader 4 (MT4), and QUIK. These platforms offer advanced charting tools, [real-time market data](../r/real-time_market_data.md), and various order types.
+5. **Advanced Trading Platforms**: Finam provides several trading platforms, including FinamTrade, MetaTrader 4 (MT4), and QUIK. These platforms offer advanced charting tools, [real-time market data](../r/real-time_market_data.md), and various [order types](../o/order_types_in_trading.md).
 
 6. **Investment Research**: Finam’s research team provides in-depth market analysis, stock recommendations, and economic forecasts, helping clients make informed investment decisions.
 

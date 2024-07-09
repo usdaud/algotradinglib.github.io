@@ -1,6 +1,6 @@
 # Quarterly Profit Analysis
 
-Quarterly profit analysis is a crucial aspect of financial analysis that focuses on evaluating a company's profitability over a three-month period. This granular approach allows businesses and investors to track performance, make timely adjustments to strategy, and benchmark progress against competitors and market expectations. In algotrading, quarterly profit analysis can be employed to adjust [trading algorithms](../t/trading_algorithms.md), optimize [portfolio performance](../p/portfolio_performance.md), and enhance predictive models.
+Quarterly profit analysis is a crucial aspect of financial analysis that focuses on evaluating a company's profitability over a three-month period. This granular approach allows businesses and investors to track performance, make timely adjustments to strategy, and benchmark progress against competitors and market expectations. In algotrading, quarterly profit analysis can be employed to adjust [trading algorithms](../t/trading_algorithms.md), optimize [portfolio performance](../p/portfolio_performance.md), and enhance [predictive models](../p/predictive_models_in_trading.md).
 
 ## Understanding Quarterly Profits
 
@@ -12,11 +12,11 @@ Quarterly profits reflect the net income of a company during a specified three-m
 
 2. **Net Profit Margin**: The ratio of net profit to revenue, indicating the efficiency of the company in converting revenue into actual profit after all expenses.
 
-3. **Earnings Before Interest and Taxes (EBIT)**: Focuses on profitability from core operations, excluding interest and tax expenses, providing a clear view of operational efficiency.
+3. **Earnings Before Interest and Taxes (EBIT)**: Focuses on profitability from core operations, excluding interest and tax expenses, providing a clear view of [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 4. **Earnings Per Share (EPS)**: Net profit divided by the number of outstanding shares, EPS is a key indicator for investors to gauge profitability on a per-share basis.
 
-5. **Operating Cash Flow**: Cash generated from operational activities, crucial for understanding the liquidity and operational efficiency of the company.
+5. **Operating Cash Flow**: Cash generated from operational activities, crucial for understanding the liquidity and [operational efficiency](../o/operational_efficiency_in_trading.md) of the company.
 
 ## Importance of Quarterly Profit Analysis in Algotrading
 
@@ -34,7 +34,7 @@ Algotrading involves using algorithms to execute trades based on predefined crit
 
 Several tools and platforms can assist in the quarterly profit analysis which can be integrated into algotrading systems:
 
-1. **Yahoo Finance**: Provides comprehensive financial data and quarterly reports for numerous companies.
+1. **[Yahoo Finance](../y/yahoo_finance.md)**: Provides comprehensive financial data and quarterly reports for numerous companies.
 
 2. **[Bloomberg](../b/bloomberg.md) Terminal**: A powerful tool for real-time financial data and analytics.
 
@@ -65,7 +65,7 @@ To illustrate how quarterly profit analysis can be applied, let’s examine Appl
 
 ### Algotrading Implications
 
-- **Predictive Models**: Given the steady growth and high profit margins, [trading algorithms](../t/trading_algorithms.md) could predict a continuing upward trend for Apple's stock.
+- **[Predictive Models](../p/predictive_models_in_trading.md)**: Given the steady growth and high [profit margins](../p/profit_margins_in_trading.md), [trading algorithms](../t/trading_algorithms.md) could predict a continuing upward trend for Apple's stock.
 - **[Risk Management](../r/risk_management.md)**: High profitability and liquidity reduce the perceived risk, potentially adjusting the risk parameters in the trading algorithm.
 - **Strategy Adjustment**: Positive quarterly results might prompt the algorithm to increase long positions in AAPL stock.
 
@@ -85,7 +85,7 @@ Quarterly profit analysis is indispensable for understanding a company's financi
 
 For further details and collaboration, visiting companies' official finance pages and integrating their data feeds can provide more granular insights:
 - **Apple Inc.** - [Apple Investor Relations](https://investor.apple.com/)
-- **Yahoo Finance** - [Yahoo Finance](https://finance.yahoo.com/)
+- **[Yahoo Finance](../y/yahoo_finance.md)** - [Yahoo Finance](https://finance.yahoo.com/)
 - **[Bloomberg](../b/bloomberg.md) Terminal** - [Bloomberg Professional](https://www.bloomberg.com/professional/)
 - **Thomson [Reuters](../r/reuters.md) Eikon** - [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 

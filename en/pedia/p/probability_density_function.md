@@ -1,6 +1,6 @@
 # Probability Density Function (PDF)
 
-In probability theory and statistics, a Probability Density Function (PDF) is a function that describes the likelihood of a continuous random variable taking on a particular value. The concept of PDF is a pivotal part of statistics and helps in understanding the distribution patterns of continuous data, which is essential in various fields, including algo-trading, finance, and economics.
+In [probability theory](../p/probability_theory_in_trading.md) and statistics, a Probability Density Function (PDF) is a function that describes the likelihood of a continuous random variable taking on a particular value. The concept of PDF is a pivotal part of statistics and helps in understanding the distribution patterns of continuous data, which is essential in various fields, including algo-trading, finance, and economics.
 
 ## Introduction to PDFs
 
@@ -33,15 +33,15 @@ This implies that the area under the curve of the PDF over the interval \( [a, b
 
 ### Normal (Gaussian) Distribution
 
-One of the most commonly used PDFs is the normal distribution, also known as the [Gaussian distribution](../g/gaussian_distribution.md). Its PDF is given by:
+One of the most commonly used PDFs is the [normal distribution](../n/normal_distribution_in_trading.md), also known as the [Gaussian distribution](../g/gaussian_distribution.md). Its PDF is given by:
 
 \[ f(x | \mu, \sigma^2) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}} \]
 
-Where \( \mu \) is the mean and \( \sigma^2 \) is the variance. This distribution is pivotal in algo-trading due to the central limit theorem, which implies that under certain conditions, the sum of many random variables will follow a normal distribution.
+Where \( \mu \) is the mean and \( \sigma^2 \) is the variance. This distribution is pivotal in algo-trading due to the [central limit theorem](../c/central_limit_theorem_in_trading.md), which implies that under certain conditions, the sum of many random variables will follow a [normal distribution](../n/normal_distribution_in_trading.md).
 
 ### Log-normal Distribution
 
-The [log-normal distribution](../l/log-normal_distribution.md) is another important PDF in finance. If a random variable \( X \) follows a normal distribution, then \( Y = e^X \) follows a [log-normal distribution](../l/log-normal_distribution.md). The PDF of a [log-normal distribution](../l/log-normal_distribution.md) is:
+The [log-normal distribution](../l/log-normal_distribution.md) is another important PDF in finance. If a random variable \( X \) follows a [normal distribution](../n/normal_distribution_in_trading.md), then \( Y = e^X \) follows a [log-normal distribution](../l/log-normal_distribution.md). The PDF of a [log-normal distribution](../l/log-normal_distribution.md) is:
 
 \[ f(y | \mu, \sigma^2) = \frac{1}{y\sigma\sqrt{2\pi}} e^{-\frac{(\ln y - \mu)^2}{2\sigma^2}} \]
 
@@ -71,7 +71,7 @@ Understanding the distribution of returns, volatilities, and other financial met
 
 ### Option Pricing
 
-PDFs play a crucial role in the pricing of options and other [derivatives](../d/derivatives.md). The famous [Black-Scholes model](../b/black-scholes_model.md) uses the normal distribution to estimate the prices of [European options](../e/european_options.md).
+PDFs play a crucial role in the pricing of options and other [derivatives](../d/derivatives.md). The famous [Black-Scholes model](../b/black-scholes_model.md) uses the [normal distribution](../n/normal_distribution_in_trading.md) to estimate the prices of [European options](../e/european_options.md).
 
 **[Black-Scholes Model](../b/black-scholes_model.md):**
 \[ C = S_0 N(d_1) - Xe^{-rt} N(d_2) \]
@@ -80,7 +80,7 @@ Where:
 \[ d_1 = \frac{\ln(S_0 / X) + (r + \sigma^2 / 2)t}{\sigma \sqrt{t}} \]
 \[ d_2 = d_1 - \sigma \sqrt{t} \]
 
-Here, \( N(\cdot) \) is the cumulative distribution function (CDF) of the standard normal distribution, which is derived from its PDF.
+Here, \( N(\cdot) \) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) (CDF) of the standard [normal distribution](../n/normal_distribution_in_trading.md), which is derived from its PDF.
 
 ### Statistical Arbitrage
 

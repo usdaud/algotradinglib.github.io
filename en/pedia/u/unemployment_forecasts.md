@@ -24,7 +24,7 @@ Unemployment forecasts are projections of future unemployment rates, which repre
 
 ### Machine Learning
 
-1. **Supervised Learning**: Algorithms like [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and neural networks are trained on historical data to predict future unemployment rates.
+1. **Supervised Learning**: Algorithms like [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) are trained on historical data to predict future unemployment rates.
 2. **Unsupervised Learning**: Cluster analysis can identify patterns and trends in unemployment data that aren't immediately obvious.
 
 ### Expert Judgment
@@ -47,7 +47,7 @@ With advancements in technology, real-time data (such as online job postings, so
 
 ### Integration of Big Data
 
-Big data analytics allows for the consideration of a broader range of variables and the handling of massive datasets, improving the accuracy of predictions.
+[Big data analytics](../b/big_data_analytics_in_trading.md) allows for the consideration of a broader range of variables and the handling of massive datasets, improving the accuracy of predictions.
 
 ### Combining Multiple Models
 

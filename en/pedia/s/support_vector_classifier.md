@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A Support Vector Classifier (SVC) is a supervised learning algorithm commonly used in the field of machine learning and [pattern recognition](../p/pattern_recognition.md). It is based on the principles of the Support Vector Machine (SVM) and aims to classify data points by finding an optimal hyperplane that separates the various classes. In the context of [algorithmic trading](../a/algorithmic_trading.md), SVC can play a crucial role in predicting market directions, identifying [trading signals](../t/trading_signals.md), and building predictive models to optimize [trading strategies](../t/trading_strategies.md). 
+A Support Vector Classifier (SVC) is a supervised learning algorithm commonly used in the field of machine learning and [pattern recognition](../p/pattern_recognition.md). It is based on the principles of the Support Vector Machine (SVM) and aims to classify data points by finding an optimal hyperplane that separates the various classes. In the context of [algorithmic trading](../a/algorithmic_trading.md), SVC can play a crucial role in predicting market directions, identifying [trading signals](../t/trading_signals.md), and building [predictive models](../p/predictive_models_in_trading.md) to optimize [trading strategies](../t/trading_strategies.md). 
 
 ## Basic Concept of Support Vector Classifier
 
@@ -93,7 +93,7 @@ Once validated, the model can be deployed in a real-time [trading environment](.
 
 ### Example 1: Stock Price Prediction
 
-Consider a scenario where a trader wants to predict the price movement of a particular stock. The features might include historical prices, trading volumes, and [technical indicators](../t/technical_indicators.md). The SVC model is trained on this dataset, optimized using grid search for hyperparameter tuning, and validated using historical test data. Upon deployment, the model continuously predicts whether the stock price will rise or fall, assisting the trader in making informed trading decisions.
+Consider a scenario where a trader wants to predict the price movement of a particular stock. The features might include historical prices, trading volumes, and [technical indicators](../t/technical_indicators.md). The SVC model is trained on this dataset, optimized using [grid search](../g/grid_search_in_trading.md) for hyperparameter tuning, and validated using historical test data. Upon deployment, the model continuously predicts whether the stock price will rise or fall, assisting the trader in making informed trading decisions.
 
 ### Example 2: Predicting Cryptocurrency Trends
 
@@ -107,7 +107,7 @@ One of the primary challenges in using SVC is overfitting, which occurs when the
 
 ### Feature Selection
 
-Choosing the right features is critical for the success of an SVC model in trading. Irrelevant or redundant features can deteriorate the model’s performance. Feature selection methods, such as Principal Component Analysis (PCA) and Recursive Feature Elimination (RFE), can be employed to identify the most informative features.
+Choosing the right features is critical for the success of an SVC model in trading. Irrelevant or redundant features can deteriorate the model’s performance. Feature selection methods, such as [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) and Recursive Feature Elimination (RFE), can be employed to identify the most informative features.
 
 ### Computational Complexity
 
@@ -124,7 +124,7 @@ Several tools and libraries facilitate the implementation of SVC for [algorithmi
 - **scikit-learn**: A popular Python library that offers a robust implementation of SVC with various kernel options and utilities for model evaluation.
   [scikit-learn](https://scikit-learn.org/stable/modules/svm.html#svm-classification)
 
-- **TensorFlow and Keras**: Although primarily used for neural networks, TensorFlow and Keras can also implement SVC models through their machine learning APIs.
+- **TensorFlow and Keras**: Although primarily used for [neural networks](../n/neural_networks_in_trading.md), TensorFlow and Keras can also implement SVC models through their machine learning APIs.
   [TensorFlow](https://www.tensorflow.org/)
 
 - **libsvm**: A library dedicated to SVM and SVC with support for various kernels and optimization algorithms.

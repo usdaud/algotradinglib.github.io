@@ -72,7 +72,7 @@ Smart [order routing](../o/order_routing.md) (SOR) algorithms split orders acros
 Breaking large orders into smaller chunks can reduce market impact and increase the chances of execution. Techniques such as "iceberg" orders—where only a portion of the order is displayed, with the rest revealed as it gets filled—can be particularly effective.
 
 ### Adaptive Algorithms
-Developing [adaptive algorithms](../a/adaptive_algorithms.md) that adjust order parameters based on real-time market feedback can reduce the occurrence of unfilled trades. [Adaptive algorithms](../a/adaptive_algorithms.md) can modify order types, sizes, and their timing dynamically.
+Developing [adaptive algorithms](../a/adaptive_algorithms.md) that adjust order parameters based on real-time market feedback can reduce the occurrence of unfilled trades. [Adaptive algorithms](../a/adaptive_algorithms.md) can modify [order types](../o/order_types_in_trading.md), sizes, and their timing dynamically.
 
 ### Latency Reduction
 Investing in low-latency infrastructure, including faster data feeds and more efficient [order routing](../o/order_routing.md) networks, is essential in competitive trading environments. Companies such as [Colt Technology Services](https://www.colt.net) provide robust low-latency solutions for traders.

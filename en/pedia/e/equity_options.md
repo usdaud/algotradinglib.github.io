@@ -30,7 +30,7 @@ Equity options generally fall into two categories:
 
 ### Pricing Models for Equity Options
 
-The pricing of equity options involves sophisticated mathematical models. The most well-known of these is the [Black-Scholes model](../b/black-scholes_model.md), which uses several variables, including the current stock price, the option's strike price, time until expiration, risk-free interest rate, and the volatility of the underlying stock.
+The pricing of equity options involves sophisticated [mathematical models](../m/mathematical_models_in_trading.md). The most well-known of these is the [Black-Scholes model](../b/black-scholes_model.md), which uses several variables, including the current stock price, the option's strike price, time until expiration, risk-free interest rate, and the volatility of the underlying stock.
 
 #### Black-Scholes Model Formula
 
@@ -42,7 +42,7 @@ Where:
 - \( X \): Strike price
 - \( r \): Risk-free interest rate
 - \( T \): Time to expiration
-- \( N \): Cumulative distribution function of the standard normal distribution
+- \( N \): [Cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md)
 - \( d_1 \) and \( d_2 \) are intermediary calculated values.
 
 ### Strategies Involving Equity Options
@@ -64,7 +64,7 @@ Where:
 
 ### Uses in Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), equity options are vital due to their flexibility and potential for complex, quantitative strategies. Algorithms can be designed to:
+In [algorithmic trading](../a/algorithmic_trading.md), equity options are vital due to their flexibility and potential for complex, [quantitative strategies](../q/quantitative_strategies_in_trading.md). Algorithms can be designed to:
 
 - **Price Options**: Using advanced models like Black-Scholes or binomial trees to determine fair option prices.
 - **Execute Complex Strategies**: Automatically initiating and managing strategies like straddles, strangles, and iron condors.

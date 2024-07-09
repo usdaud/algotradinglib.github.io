@@ -22,7 +22,7 @@ Traders develop algorithms based on historical price data. Skewness informs thes
 
 ### Methods of Skewness Adjustment
 
-There are numerous methods and mathematical models employed to adjust for skewness:
+There are numerous methods and [mathematical models](../m/mathematical_models_in_trading.md) employed to adjust for skewness:
 
 1. **Non-Linear Transformations**: Techniques like Box-Cox transformations are used to stabilize variance and make the data more normally distributed, reducing skewness.
 
@@ -36,7 +36,7 @@ There are numerous methods and mathematical models employed to adjust for skewne
 
 - **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) infrastructure provides tools to adjust strategies for skewness. [Visit QuantConnect](https://www.quantconnect.com/)
 
-- **[Quantlib](../q/quantlib.md)**: A free/open-source library for [quantitative finance](../q/quantitative_finance.md) is widely used for incorporating skewness adjustments in risk models. [Visit QuantLib](https://www.quantlib.org/)
+- **[Quantlib](../q/quantlib.md)**: A free/open-source library for [quantitative finance](../q/quantitative_finance.md) is widely used for incorporating skewness adjustments in [risk models](../r/risk_models_in_trading.md). [Visit QuantLib](https://www.quantlib.org/)
 
 - **Algorithmic Strategies from Quantitative Brokers**: Quantitative Brokers (QB) offer advanced [execution algorithms](../e/execution_algorithms.md) that inherently adjust for skewness in market data. [Visit Quantitative Brokers](https://www.quantitativebrokers.com/)
 

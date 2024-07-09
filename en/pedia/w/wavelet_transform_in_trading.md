@@ -81,7 +81,7 @@ Implementing wavelet transform in [trading systems](../t/trading_systems.md) typ
    - Feature selection techniques can be applied to retain the most informative features for trading decisions.
 
 4. **Model Development**:
-   - The extracted features are used as inputs for [trading models](../t/trading_models.md), such as machine learning algorithms or statistical frameworks.
+   - The extracted features are used as inputs for [trading models](../t/trading_models.md), such as machine [learning algorithms](../l/learning_algorithms_in_trading.md) or statistical frameworks.
    - Models are trained, validated, and tested using historical data to ensure robustness and accuracy.
 
 5. **Real-Time Execution**:
@@ -115,7 +115,7 @@ Several tools and libraries are available for implementing wavelet transform in 
 1. **Python**:
    - `PyWavelets`: A comprehensive library for wavelet transform in Python, supporting both CWT and DWT.
      - [PyWavelets](https://pywavelets.readthedocs.io/)
-   - `scikit-learn`: A machine learning library that can be combined with wavelet features for developing predictive models.
+   - `scikit-learn`: A machine learning library that can be combined with wavelet features for developing [predictive models](../p/predictive_models_in_trading.md).
      - [scikit-learn](https://scikit-learn.org/)
 
 2. **MATLAB**:

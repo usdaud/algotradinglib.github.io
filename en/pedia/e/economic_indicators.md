@@ -41,7 +41,7 @@ An increase in business inventories can indicate that products are not being sol
 ### Example of Companies Utilizing Economic Indicators in Algorithmic Trading
 
 1. **Two Sigma** (https://www.twosigma.com/)
-Two Sigma is known for using a variety of economic indicators in its [algorithmic trading](../a/algorithmic_trading.md) strategies. By analyzing a vast array of data, including economic indicators, they create predictive models to inform trading decisions.
+Two Sigma is known for using a variety of economic indicators in its [algorithmic trading](../a/algorithmic_trading.md) strategies. By analyzing a vast array of data, including economic indicators, they create [predictive models](../p/predictive_models_in_trading.md) to inform trading decisions.
 
 2. **Renaissance Technologies** (https://www.rentech.com/)
 Renaissance Technologies uses [quantitative models](../q/quantitative_models.md) based on mathematical and statistical methods to predict changes in financial markets. Economic indicators are a significant part of the data input into these models.

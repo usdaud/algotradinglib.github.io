@@ -10,7 +10,7 @@ PI Financial is a full-service investment dealer based in Canada, offering a wid
 4. **Research and Analysis**: Comprehensive research reports, market news, and analysis to support informed investment decisions.
 5. **Educational Resources**: Educational materials including webinars, tutorials, articles, and market analysis to help investors improve their skills.
 6. **Mobile Trading**: Mobile apps for iOS and Android devices, allowing trading on the go.
-7. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced order types, [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
+7. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced [order types](../o/order_types_in_trading.md), [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
 8. **Personalized Service**: Dedicated financial advisors and client service teams to provide tailored investment solutions.
 9. **Secure and Regulated**: PI Financial is regulated by top-tier financial authorities in Canada, ensuring a secure [trading environment](../t/trading_environment.md).
 10. **Competitive Pricing**: Low commissions and transparent fee structures.

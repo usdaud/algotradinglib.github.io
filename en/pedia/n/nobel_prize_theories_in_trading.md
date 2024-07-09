@@ -44,16 +44,16 @@ APT assumes that if the returns of a portfolio are created with a combination of
 
 **Laureates**: Daniel Kahneman (2002), Robert Shiller (2013), Richard Thaler (2017)
 
-[Behavioral finance](../b/behavioral_finance.md) incorporates cognitive psychology into finance to explain why investors often behave irrationally. Daniel Kahneman, a psychologist by training, won the Nobel Prize in 2002 for his work on prospect theory, which he developed with Amos Tversky.
+[Behavioral finance](../b/behavioral_finance.md) incorporates cognitive psychology into finance to explain why investors often behave irrationally. Daniel Kahneman, a psychologist by training, won the Nobel Prize in 2002 for his work on [prospect theory](../p/prospect_theory_in_trading.md), which he developed with Amos Tversky.
 
-Prospect theory describes how people make decisions under risk and uncertainty, highlighting several biases:
+[Prospect theory](../p/prospect_theory_in_trading.md) describes how people make decisions under risk and [uncertainty](../u/uncertainty_in_trading.md), highlighting several biases:
  
 - **[Loss Aversion](../l/loss_aversion.md)**: Investors are more sensitive to losses than gains of the same size.
 - **Overconfidence**: Investors overestimate their ability to predict market movements.
-- **Herd Behavior**: Investors tend to follow the crowd, which can amplify market trends.
+- **[Herd Behavior](../h/herd_behavior_in_trading.md)**: Investors tend to follow the crowd, which can amplify market trends.
 - **Anchoring**: Investors rely too heavily on the first piece of information (such as the purchase price of a stock) when making decisions.
 
-Robert Shiller, awarded the Nobel Prize in 2013, expanded on these ideas, showing how irrational behavior and psychological factors can lead to [market anomalies](../m/market_anomalies.md) and bubbles. Richard Thaler, awarded in 2017, further explored how psychological biases and anomalies impact economic decision-making.
+Robert Shiller, awarded the Nobel Prize in 2013, expanded on these ideas, showing how irrational behavior and psychological factors can lead to [market anomalies](../m/market_anomalies.md) and bubbles. Richard Thaler, awarded in 2017, further explored how [psychological biases](../p/psychological_biases_in_trading.md) and anomalies impact economic decision-making.
 
 **References**: 
 - [Daniel Kahneman's Insights](https://scholar.princeton.edu/kahneman)
@@ -97,7 +97,7 @@ Where:
 - \(X\) is the strike price.
 - \(r\) is the risk-free interest rate.
 - \(T\) is the time to maturity.
-- \(N()\) is the cumulative distribution function of the standard normal distribution.
+- \(N()\) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md).
 - \(d1 = \frac{ln(S0/X) + (r + \frac{σ^2}{2}) T}{σ \sqrt{T}}\)
 - \(d2 = d1 - σ\sqrt{T}\)
 

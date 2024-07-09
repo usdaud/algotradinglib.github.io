@@ -43,12 +43,12 @@ Algorithms may automate the process of rolling over positions:
 - **Rolling Short Positions**: Covering short options and writing new ones in the next period.
 
 ### Avoidance of Pin Risk
-Pin risk occurs when the underlying asset price is near the strike price at expiry, creating uncertainty.
+Pin risk occurs when the underlying asset price is near the strike price at expiry, creating [uncertainty](../u/uncertainty_in_trading.md).
 - Algorithms can include contingency rules to offset or unwind positions close to expiry to avoid the complexities of pin risk.
 
 ## Data Analysis and Prediction Models
 
-Algorithmic traders extensively use historical data and predictive models to analyze patterns around expiry:
+Algorithmic traders extensively use historical data and [predictive models](../p/predictive_models_in_trading.md) to analyze patterns around expiry:
 - **[Historical Volatility](../h/historical_volatility.md) Data**: Studying past data helps in predicting volatility spikes and crafting relevant strategies.
 - **Machine Learning Models**: Leveraging machine learning to forecast price movements and volatility patterns at expiry.
 - **[Order Book Analysis](../o/order_book_analysis.md)**: Analyzing depth and changes in the order book to understand market sentiment and liquidity dynamics.
@@ -62,4 +62,4 @@ Algorithmic strategies must incorporate robust [risk management](../r/risk_manag
 
 ## Conclusion
 
-Options expiry analysis is a critical component of [algorithmic trading](../a/algorithmic_trading.md), informing strategic decisions and [risk management](../r/risk_management.md) practices. By understanding the diverse dimensions of options expiry and employing advanced data analytics and predictive models, traders can enhance their [trading strategies](../t/trading_strategies.md) and capital management.
+Options expiry analysis is a critical component of [algorithmic trading](../a/algorithmic_trading.md), informing strategic decisions and [risk management](../r/risk_management.md) practices. By understanding the diverse dimensions of options expiry and employing advanced data analytics and [predictive models](../p/predictive_models_in_trading.md), traders can enhance their [trading strategies](../t/trading_strategies.md) and capital management.

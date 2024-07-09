@@ -22,7 +22,7 @@ Knowledge graphs can be applied to various aspects of trading to enhance decisio
 
 2. **Semantic Search and Discovery**: Traders can use knowledge graphs to perform semantic searches, allowing them to find relevant information based on the context rather than just keywords. This capability is crucial for uncovering nuanced insights that textual search methods might miss.
 
-3. **[Risk Management](../r/risk_management.md)**: By mapping out the interconnectedness of entities and their relationships, knowledge graphs help in identifying potential risk factors and exposure. This is particularly useful for understanding the cascading effects of market events on related entities.
+3. **[Risk Management](../r/risk_management.md)**: By mapping out the interconnectedness of entities and their relationships, knowledge graphs help in identifying potential [risk factors](../r/risk_factors_in_trading.md) and exposure. This is particularly useful for understanding the cascading effects of market events on related entities.
 
 4. **[Market Sentiment Analysis](../m/market_sentiment_analysis.md)**: Knowledge graphs can be used to analyze sentiment from various sources, such as news articles, social media, and analyst reports. By connecting sentiment data to entities in the graph, traders can get a clearer picture of market sentiment and react accordingly.
 

@@ -111,7 +111,7 @@ Several tools and software programs assist in Unit Trust analysis. They provide 
 
 [Unit Trusts](../u/unit_trusts.md) are subject to regulatory oversight to ensure transparency, protect investors, and maintain market integrity. Regulatory requirements vary by jurisdiction, but common aspects include:
 
-**1. Disclosure**: Regular reporting of financial performance, portfolio holdings, and risk factors to investors.
+**1. Disclosure**: Regular reporting of financial performance, portfolio holdings, and [risk factors](../r/risk_factors_in_trading.md) to investors.
 
 **2. Compliance**: Adherence to investment guidelines, limits, and fiduciary responsibilities outlined in the trust deed.
 

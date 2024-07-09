@@ -36,7 +36,7 @@ The [yield curve](../y/yield_curve.md) plots the yields of similar-quality bonds
 
 1. **Normal [Yield Curve](../y/yield_curve.md)**: A normal, upward-sloping [yield curve](../y/yield_curve.md) suggests that longer-term bonds have higher yields due to the risks associated with time. This indicates positive economic prospects.
 2. **Inverted [Yield Curve](../y/yield_curve.md)**: An inverted [yield curve](../y/yield_curve.md) occurs when short-term yields are higher than long-term yields, often seen as a precursor to economic recession.
-3. **Flat [Yield Curve](../y/yield_curve.md)**: A flat [yield curve](../y/yield_curve.md) suggests uncertainty, with little difference between short-term and long-term yields.
+3. **Flat [Yield Curve](../y/yield_curve.md)**: A flat [yield curve](../y/yield_curve.md) suggests [uncertainty](../u/uncertainty_in_trading.md), with little difference between short-term and long-term yields.
 
 ### Implications for Various Stakeholders
 

@@ -37,7 +37,7 @@ For Simple [Linear Regression](../l/linear_regression.md) to provide valid resul
 2. **Independence**: Observations should be independent of each other.
 3. **Homoscedasticity**: The residuals (errors) should have constant variance across all levels of \(X\).
 4. **Normality**: The residuals should be approximately normally distributed.
-5. **No Multicollinearity**: Since it's simple [linear regression](../l/linear_regression.md), there is only one predictor variable, hence multicollinearity is not a concern here.
+5. **No [Multicollinearity](../m/multicollinearity_in_trading.md)**: Since it's simple [linear regression](../l/linear_regression.md), there is only one predictor variable, hence [multicollinearity](../m/multicollinearity_in_trading.md) is not a concern here.
 
 ## Estimation of the Coefficients
 

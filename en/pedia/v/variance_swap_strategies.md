@@ -59,7 +59,7 @@ Where:
 
 ### Behavioral Arbitrage
 
-1. **Exploiting Herd Behavior**:
+1. **Exploiting [Herd Behavior](../h/herd_behavior_in_trading.md)**:
    - **Crowded Trades**: During instances where market participants collectively engage in similar trades (herding), resulting in distorted volatility signals, variance swaps offer a means to capitalize on these distortions. Traders can either benefit from the anticipated correction or protect against the behavioral-induced volatility spikes.
 
 ## Notable Players and Market Impact

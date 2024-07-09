@@ -15,7 +15,7 @@ Overlay [portfolio management](../p/portfolio_management.md) can be defined as t
 Currency overlays are employed to manage foreign exchange risk in a global portfolio. These strategies often involve the use of forwards, swaps, and options to hedge against currency fluctuations. Currency overlays help to protect the portfolio from volatility due to changes in exchange rates while allowing investors to maintain exposures to international assets.
 
 ### Risk Management Overlays
-[Risk management](../r/risk_management.md) overlays involve strategies designed to reduce the overall risk of the portfolio. This could include both market risk and specific risks like interest rate changes or credit risk. Techniques used in [risk management](../r/risk_management.md) overlays include options, futures, and other [derivatives](../d/derivatives.md) that can offer protection against downside risks while maintaining upside potential.
+[Risk management](../r/risk_management.md) overlays involve strategies designed to reduce the overall risk of the portfolio. This could include both market risk and specific risks like interest rate changes or credit risk. Techniques used in [risk management](../r/risk_management.md) overlays include options, futures, and other [derivatives](../d/derivatives.md) that can offer protection against downside risks while maintaining [upside potential](../u/upside_potential_in_trading.md).
 
 ## Key Components of Overlay Management
 

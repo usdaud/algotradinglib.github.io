@@ -12,7 +12,7 @@ Negative correlation occurs when the increase in the value of one asset is assoc
 
 The concept of diversification is often championed in investment strategy, and for good reason. Diversification aims to reduce risk by spreading investments across a variety of asset classes that will react differently to the same economic events. By incorporating negatively correlated assets into a portfolio, an investor can cushion against downturns in the market.
 
-For example, during periods of economic uncertainty, investors often flock to 'safe-haven' assets like gold, causing its price to rise. Meanwhile, riskier assets like stocks may experience declines. Therefore, including both gold and stocks in a portfolio can reduce overall risk.
+For example, during periods of economic [uncertainty](../u/uncertainty_in_trading.md), investors often flock to 'safe-haven' assets like gold, causing its price to rise. Meanwhile, riskier assets like stocks may experience declines. Therefore, including both gold and stocks in a portfolio can reduce overall risk.
 
 ### Examples of Negatively Correlated Assets
 

@@ -79,7 +79,7 @@ Several factors can influence the Equity Risk Premium, including:
 ### Risk Factors
 
 1. **Market Volatility:** Increased market volatility generally leads to a higher ERP as investors demand more compensation for taking on additional risk.
-2. **Political and Economic Stability:** Political and economic uncertainty can impact investor confidence, driving changes in the required equity risk premium.
+2. **Political and Economic Stability:** Political and economic [uncertainty](../u/uncertainty_in_trading.md) can impact investor confidence, driving changes in the required equity risk premium.
 3. **Corporate Earnings:** Expected changes in corporate earnings and profitability affect the attractiveness of equities, influencing the ERP.
 
 ### Behavioral Factors
@@ -103,7 +103,7 @@ ERP plays a pivotal role in various financial applications, including:
 
 ### Risk Management
 
-1. **Stress Testing:** Financial institutions incorporate ERP into stress tests to assess the resilience of their portfolios under adverse market conditions.
+1. **[Stress Testing](../s/stress_testing_in_trading.md):** Financial institutions incorporate ERP into stress tests to assess the resilience of their portfolios under adverse market conditions.
 2. **[Hedging Strategies](../h/hedging_strategies.md):** ERP helps in designing [hedging strategies](../h/hedging_strategies.md) to manage equity market risk, ensuring that portfolios are protected against downside scenarios.
 
 ## ERP in Different Markets
@@ -113,7 +113,7 @@ ERP can vary significantly across different markets due to variations in economi
 ### Developed vs. Emerging Markets
 
 - **Developed Markets:** ERP in developed markets, such as the United States or Europe, tends to be lower due to greater economic stability, mature financial systems, and lower perceived risk.
-- **Emerging Markets:** ERP in emerging markets, such as Brazil or India, is generally higher due to greater economic uncertainty, higher political risk, and less efficient markets.
+- **Emerging Markets:** ERP in emerging markets, such as Brazil or India, is generally higher due to greater economic [uncertainty](../u/uncertainty_in_trading.md), higher political risk, and less efficient markets.
 
 ### Global Diversification
 

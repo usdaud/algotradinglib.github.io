@@ -2,11 +2,11 @@
 
 **Introduction to Poisson Regression**
 
-Poisson regression is a type of regression model that is specifically designed to handle count data. Unlike [linear regression](../l/linear_regression.md) that deals with continuous outcomes, Poisson regression is used when the dependent variable is an integer count. The model is based on the Poisson distribution which assumes that the event occurs independently over a fixed period of time or space. Poisson regression is used in various domains like epidemiology, finance, and trading.
+Poisson regression is a type of regression model that is specifically designed to handle count data. Unlike [linear regression](../l/linear_regression.md) that deals with continuous outcomes, Poisson regression is used when the dependent variable is an integer count. The model is based on the [Poisson distribution](../p/poisson_distribution_in_trading.md) which assumes that the event occurs independently over a fixed period of time or space. Poisson regression is used in various domains like epidemiology, finance, and trading.
 
 **Mathematical Foundation**
 
-In Poisson regression, the probability of a given number of events happening in a fixed interval is modeled using the Poisson distribution. The Poisson probability function is given by:
+In Poisson regression, the probability of a given number of events happening in a fixed interval is modeled using the [Poisson distribution](../p/poisson_distribution_in_trading.md). The Poisson probability function is given by:
 
 \[ P(Y = y) = \dfrac{\lambda^y e^{-\lambda}}{y!} \]
 
@@ -109,4 +109,4 @@ Leading financial information provider [Bloomberg](../b/bloomberg.md) offers var
 
 **Conclusion**
 
-Poisson regression is a powerful statistical tool that can be utilized in trading to predict the count of various trading-related events. Its application can range from predicting the number of trades, price movements, to more complex [order book dynamics](../o/order_book_dynamics.md). Understanding the statistical foundation and being aware of its assumptions and limitations is crucial for effective application. Combined with robust data and feature selection, Poisson regression can significantly aid in creating predictive models and enhancing [trading strategies](../t/trading_strategies.md).
+Poisson regression is a powerful statistical tool that can be utilized in trading to predict the count of various trading-related events. Its application can range from predicting the number of trades, price movements, to more complex [order book dynamics](../o/order_book_dynamics.md). Understanding the statistical foundation and being aware of its assumptions and limitations is crucial for effective application. Combined with robust data and feature selection, Poisson regression can significantly aid in creating [predictive models](../p/predictive_models_in_trading.md) and enhancing [trading strategies](../t/trading_strategies.md).

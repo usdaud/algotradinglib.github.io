@@ -22,7 +22,7 @@ Alpha, often symbolized by the Greek letter α, is a measure of an investment's 
 
 ### 3. Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) involves gauging the market sentiment based on news articles, social media posts, and other sources of public information. By analyzing the sentiment, algorithms can predict market movements and make trades accordingly. Natural language processing (NLP) techniques are commonly used for [sentiment analysis](../s/sentiment_analysis.md) in modern algo trading.
+[Sentiment analysis](../s/sentiment_analysis.md) involves gauging the market sentiment based on news articles, social media posts, and other sources of public information. By analyzing the sentiment, algorithms can predict market movements and make trades accordingly. [Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques are commonly used for [sentiment analysis](../s/sentiment_analysis.md) in modern algo trading.
 
 ### 4. Event-Driven Strategies
 
@@ -40,7 +40,7 @@ Data analytics platforms such as Apache Spark and Hadoop are widely used for pro
 
 ### 2. Machine Learning Libraries
 
-Machine learning libraries like TensorFlow, Keras, and Scikit-Learn are commonly used to develop predictive models in algo trading. These libraries provide tools for building neural networks, [decision trees](../d/decision_trees.md), and other types of machine learning models.
+Machine learning libraries like TensorFlow, Keras, and Scikit-Learn are commonly used to develop [predictive models](../p/predictive_models_in_trading.md) in algo trading. These libraries provide tools for building [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and other types of machine learning models.
 
 ### 3. Execution Management Systems (EMS)
 
@@ -50,7 +50,7 @@ Execution Management Systems (EMS) are software applications that facilitate the
 
 ### 4. Cloud Computing
 
-Cloud computing platforms such as Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure offer scalable infrastructure for running complex [trading algorithms](../t/trading_algorithms.md). These platforms provide the computational power needed to process massive amounts of data and execute trades at high speeds.
+[Cloud computing](../c/cloud_computing_in_trading.md) platforms such as Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure offer scalable infrastructure for running complex [trading algorithms](../t/trading_algorithms.md). These platforms provide the computational power needed to process massive amounts of data and execute trades at high speeds.
 
 ## Challenges in Alpha Generation
 
@@ -84,7 +84,7 @@ Renaissance Technologies, founded by mathematician James Simons, is one of the m
 
 ### Case Study 2: Two Sigma
 
-Two Sigma is another prominent hedge fund known for its data-driven approach to investment management. The firm uses advanced machine learning techniques and big data analytics to create [trading strategies](../t/trading_strategies.md) that consistently outperform the market. Two Sigma’s emphasis on research and technology has made it a leader in alpha generation.
+Two Sigma is another prominent hedge fund known for its data-driven approach to investment management. The firm uses advanced machine learning techniques and [big data analytics](../b/big_data_analytics_in_trading.md) to create [trading strategies](../t/trading_strategies.md) that consistently outperform the market. Two Sigma’s emphasis on research and technology has made it a leader in alpha generation.
 
 - Website: [Two Sigma](https://www.twosigma.com/)
 
@@ -108,11 +108,11 @@ The use of [artificial intelligence in trading](../a/artificial_intelligence_in_
 
 ### 2. Blockchain and Decentralized Finance (DeFi)
 
-Blockchain technology and decentralized finance (DeFi) are emerging as new frontiers for alpha generation. These technologies offer transparency, security, and new investment opportunities that traditional markets cannot provide.
+[Blockchain](../b/blockchain_in_trading.md) technology and decentralized finance (DeFi) are emerging as new frontiers for alpha generation. These technologies offer transparency, security, and new investment opportunities that traditional markets cannot provide.
 
 ### 3. Quantum Computing
 
-Quantum computing holds the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex optimization problems at unprecedented speeds. While still in its early stages, quantum computing could eventually lead to new methods for alpha generation.
+[Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex optimization problems at unprecedented speeds. While still in its early stages, [quantum computing](../q/quantum_computing_in_trading.md) could eventually lead to new methods for alpha generation.
 
 ### 4. Ethical Algorithms
 
@@ -128,6 +128,6 @@ Alpha generation remains a central objective in [algorithmic trading](../a/algor
 - Data analytics, machine learning, and [sentiment analysis](../s/sentiment_analysis.md) are key tools for generating alpha in [algorithmic trading](../a/algorithmic_trading.md).
 - [Risk management](../r/risk_management.md), regulatory compliance, and data quality are critical for successful alpha generation.
 - Leading firms in the field, such as Renaissance Technologies, Two Sigma, and Citadel, exemplify the successful application of these principles.
-- Future trends like AI, blockchain, and quantum computing promise to reshape the landscape of alpha generation.
+- Future trends like AI, [blockchain](../b/blockchain_in_trading.md), and [quantum computing](../q/quantum_computing_in_trading.md) promise to reshape the landscape of alpha generation.
 
 For more information on alpha generation and [algorithmic trading](../a/algorithmic_trading.md) strategies, visit the websites of leading firms mentioned in the case studies above.

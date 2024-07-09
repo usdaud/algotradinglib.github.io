@@ -39,7 +39,7 @@ Advanced [trading strategies](../t/trading_strategies.md) may utilize statistica
   
 - **Time-Series Analysis**: Techniques like ARIMA (AutoRegressive Integrated Moving Average) are used to forecast future prices based on past data.
 
-- **Machine Learning Algorithms**: Include support vector machines, neural networks, and ensemble methods like random forests or gradient boosting machines. These models can be trained on historical data to predict future price movements.
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Include [support vector machines](../s/support_vector_machines_in_trading.md), [neural networks](../n/neural_networks_in_trading.md), and ensemble methods like [random forests](../r/random_forests_in_trading.md) or gradient boosting machines. These models can be trained on historical data to predict future price movements.
 
 ### 1.4 Fundamental Analysis
 Entry signals can also be generated based on fundamental data, such as financial statements, [economic indicators](../e/economic_indicators.md), and news reports.

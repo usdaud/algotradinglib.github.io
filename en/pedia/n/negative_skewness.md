@@ -7,7 +7,7 @@ In the field of algotrading, understanding the various statistical properties of
 Skewness in statistics measures the asymmetry of the data distribution. If the data have a longer tail on one end compared to the other, the distribution is said to be skewed. Skewness can be categorized into three types:
 
 1. **[Positive Skewness](../p/positive_skewness.md)**: The right tail (higher values) is longer or fatter than the left tail (lower values).
-2. **Zero Skewness**: The tails on both ends of the distribution are balanced, indicating a normal distribution.
+2. **Zero Skewness**: The tails on both ends of the distribution are balanced, indicating a [normal distribution](../n/normal_distribution_in_trading.md).
 3. **Negative Skewness**: The left tail (lower values) is longer or fatter than the right tail (higher values).
 
 ## Negative Skewness

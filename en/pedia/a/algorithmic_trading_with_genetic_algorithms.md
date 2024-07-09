@@ -1,12 +1,12 @@
 # Algorithmic trading Wuth Genetic Algorithms
 
-[Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo-trading, employs algorithms to execute [trading strategies](../t/trading_strategies.md) at high speed and volume. One sophisticated approach within this domain is the application of genetic algorithms (GAs). Genetic algorithms are optimization techniques inspired by the process of natural selection, which belong to the broader class of evolutionary algorithms. 
+[Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo-trading, employs algorithms to execute [trading strategies](../t/trading_strategies.md) at high speed and volume. One sophisticated approach within this domain is the application of [genetic algorithms](../g/genetic_algorithms_in_trading.md) (GAs). [Genetic algorithms](../g/genetic_algorithms_in_trading.md) are optimization techniques inspired by the process of natural selection, which belong to the broader class of evolutionary algorithms. 
 
-**Genetic Algorithms**:
+**[Genetic Algorithms](../g/genetic_algorithms_in_trading.md)**:
 
 A genetic algorithm mimics the process of natural selection by considering a population of solutions to a given problem. Over successive generations, the algorithm selects the fittest individuals to produce offspring that form the next generation. These offspring are then subject to mutation and recombination (crossover), emulating biological evolution processes.
 
-**Components of Genetic Algorithms**:
+**Components of [Genetic Algorithms](../g/genetic_algorithms_in_trading.md)**:
 
 1. **Chromosomes**: A chromosome represents a potential solution to the problem and is usually encoded as a string of bits or numbers.
 
@@ -24,7 +24,7 @@ A genetic algorithm mimics the process of natural selection by considering a pop
 
 **Application in [Algorithmic Trading](../a/algorithmic_trading.md)**:
 
-Genetic algorithms can be particularly effective in [algorithmic trading](../a/algorithmic_trading.md) due to their ability to find optimal or near-optimal solutions in complex search spaces. Here's a step-by-step breakdown of how they can be applied:
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) can be particularly effective in [algorithmic trading](../a/algorithmic_trading.md) due to their ability to find optimal or near-optimal solutions in complex search spaces. Here's a step-by-step breakdown of how they can be applied:
 
 1. **Encoding [Trading Strategies](../t/trading_strategies.md)**: [Trading strategies](../t/trading_strategies.md) can be represented as chromosomes. For instance, elements of a strategy, such as moving average periods or stop-loss percentages, can be encoded into a bit string or numerical vector.
 
@@ -42,34 +42,34 @@ Genetic algorithms can be particularly effective in [algorithmic trading](../a/a
 
 **Advantages**:
 
-1. **Adaptability**: Genetic algorithms can adapt to changing market conditions by continually evolving [trading strategies](../t/trading_strategies.md).
+1. **Adaptability**: [Genetic algorithms](../g/genetic_algorithms_in_trading.md) can adapt to changing market conditions by continually evolving [trading strategies](../t/trading_strategies.md).
 2. **Parallelism**: The population-based approach allows for natural parallel processing, speeding up the optimization process.
-3. **Exploration**: Genetic algorithms explore a wide search space, which helps discover novel and potentially profitable strategies.
+3. **Exploration**: [Genetic algorithms](../g/genetic_algorithms_in_trading.md) explore a wide search space, which helps discover novel and potentially profitable strategies.
 4. **Multi-objective Optimization**: They can handle multiple objectives, balancing factors like profitability, risk, and trading frequency.
 
 **Challenges**:
 
-1. **Complexity**: Designing and implementing genetic algorithms can be complex and computationally intensive.
+1. **Complexity**: Designing and implementing [genetic algorithms](../g/genetic_algorithms_in_trading.md) can be complex and computationally intensive.
 2. **Overfitting**: There's a risk of overfitting to historical data, which might lead to poor performance in live trading. Proper validation techniques, such as walk-forward analysis, are essential.
-3. **Parameter Sensitivity**: The performance of genetic algorithms can be sensitive to parameter settings, such as population size, mutation rate, and crossover rate. These parameters often require careful tuning.
+3. **Parameter Sensitivity**: The performance of [genetic algorithms](../g/genetic_algorithms_in_trading.md) can be sensitive to parameter settings, such as population size, mutation rate, and crossover rate. These parameters often require careful tuning.
 
 **Case Study and Examples**:
 
 Numerous financial firms and academic institutions have explored the use of [genetic algorithms in trading](../g/genetic_algorithms_in_trading.md). One example is the work conducted by Michael J. Stutzer at the University of Colorado. His research demonstrated the effectiveness of genetic programming in evolving [trading rules](../t/trading_rules.md) that could outperform traditional approaches.
 
-Another notable application is by QTS Capital Management, who employ advanced evolutionary algorithms, including genetic algorithms, as part of their trading strategy development process. Their use of high-frequency data and sophisticated modeling has yielded significant performance in various market conditions.
+Another notable application is by QTS Capital Management, who employ advanced evolutionary algorithms, including [genetic algorithms](../g/genetic_algorithms_in_trading.md), as part of their trading strategy development process. Their use of high-frequency data and sophisticated modeling has yielded significant performance in various market conditions.
 
-For those interested in further exploration, there are several open-source libraries available that provide tools to implement genetic algorithms for trading:
+For those interested in further exploration, there are several open-source libraries available that provide tools to implement [genetic algorithms](../g/genetic_algorithms_in_trading.md) for trading:
 
 1. **DEAP (Distributed Evolutionary Algorithms in Python)**: It is a library for creating evolutionary algorithms that can be easily adapted for trading strategy optimization.
    - [DEAP](https://deap.readthedocs.io/)
 
-2. **PyGAD**: PyGAD is a Python library for building genetic algorithms and training machine learning algorithms.
+2. **PyGAD**: PyGAD is a Python library for building [genetic algorithms](../g/genetic_algorithms_in_trading.md) and training machine [learning algorithms](../l/learning_algorithms_in_trading.md).
    - [PyGAD](https://pygad.readthedocs.io/en/latest/)
 
-3. **ecadapts**: An adaptation-focused library for evolutionary computation including genetic algorithms.
+3. **ecadapts**: An adaptation-focused library for evolutionary computation including [genetic algorithms](../g/genetic_algorithms_in_trading.md).
    - [ecadapts](https://ecadapts.github.io/ecadapts/)
 
 **Conclusion**:
 
-Genetic algorithms represent a powerful tool in the arsenal of algorithmic traders. By leveraging principles of evolution and natural selection, they can discover, optimize, and adapt [trading strategies](../t/trading_strategies.md) that deliver superior performance. Despite the challenges, the adaptability and robustness of genetic algorithms make them a captivating area of research and application in financial markets.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) represent a powerful tool in the arsenal of algorithmic traders. By leveraging principles of evolution and natural selection, they can discover, optimize, and adapt [trading strategies](../t/trading_strategies.md) that deliver superior performance. Despite the challenges, the adaptability and robustness of [genetic algorithms](../g/genetic_algorithms_in_trading.md) make them a captivating area of research and application in financial markets.

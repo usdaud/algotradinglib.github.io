@@ -7,7 +7,7 @@ The Directional Movement Index (DMI), developed by J. Welles Wilder, is a techni
 The DMI consists of three lines:
 1. **+DI (Positive Directional Indicator)**: Measures the strength of the upward movement.
 2. **-DI (Negative Directional Indicator)**: Measures the strength of the downward movement.
-3. **ADX (Average Directional Index)**: Calculates the absolute strength of the trend, regardless of direction.
+3. **ADX ([Average Directional Index](../a/average_directional_index_(adx).md))**: Calculates the absolute strength of the trend, regardless of direction.
 
 ### +DI and -DI Calculation
 
@@ -72,7 +72,7 @@ When ADX is below 20, it may be an indication of a range-bound market. Strategie
 ## Limitations of DMI
 
 1. **Lagging Indicator**: The DMI relies on historical data, so it may not respond quickly to sudden price changes.
-2. **False Signals**: In highly volatile markets, DMI can produce false signals.
+2. **[False Signals](../f/false_signals_in_trading.md)**: In highly volatile markets, DMI can produce [false signals](../f/false_signals_in_trading.md).
 3. **Complexity**: The calculation of DMI involves multiple steps, making it somewhat complex for beginners.
 
 ## Conclusion

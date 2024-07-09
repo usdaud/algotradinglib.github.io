@@ -42,7 +42,7 @@ Where:
 
 ### Noise Reduction
 
-One of the primary advantages of AMA is its ability to filter out market noise. During periods of low volatility or no clear trend, the AMA remains relatively flat, thus reducing the number of false signals and trading whipsaws.
+One of the primary advantages of AMA is its ability to filter out market noise. During periods of low volatility or no clear trend, the AMA remains relatively flat, thus reducing the number of [false signals](../f/false_signals_in_trading.md) and trading whipsaws.
 
 ### Reduced Lag
 
@@ -88,7 +88,7 @@ print(ama_values)
 
 ### Software and Tools
 
-Several financial software platforms and trading tools support the implementation of AMA. Examples include:
+Several financial [software platforms](../s/software_platforms_for_trading.md) and trading tools support the implementation of AMA. Examples include:
 
 - **MetaTrader 4/5**: A popular platform among forex traders, which allows custom indicators like AMA.
 - **[NinjaTrader](../n/ninjatrader.md)**: A trading platform that supports advanced charting and custom indicators.

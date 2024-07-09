@@ -26,7 +26,7 @@ Due to its equal-weighted nature, the Value Line Index is often viewed as a meas
 
 ### S&P 500
 
-The S&P 500 is a market-capitalization-weighted index, meaning that larger companies like Apple and Microsoft have a more significant impact on the index’s overall performance. In contrast, the Value Line Index's equal-weighted structure ensures that small and [mid-cap stocks](../m/mid-cap_stocks.md) have an equal influence on performance. This makes the Value Line Index less susceptible to volatility caused by a handful of large-cap stocks, offering a diversified view of the market.
+The S&P 500 is a market-capitalization-weighted index, meaning that larger companies like Apple and Microsoft have a more significant impact on the index’s overall performance. In contrast, the Value Line Index's equal-weighted structure ensures that small and [mid-cap stocks](../m/mid-cap_stocks.md) have an equal influence on performance. This makes the Value Line Index less susceptible to volatility caused by a handful of [large-cap stocks](../l/large_cap_stocks.md), offering a diversified view of the market.
 
 ### DJIA
 
@@ -46,11 +46,11 @@ The Value Line Index can also serve as a [risk management](../r/risk_management.
 
 ### Buy and Hold
 
-For long-term investors, the Value Line Index offers an alternative perspective on market performance. By holding a diversified portfolio that reflects the equal-weighted structure of the VLI, investors can mitigate the risk of overweighting in large-cap stocks and benefit from the growth potential of smaller companies.
+For long-term investors, the Value Line Index offers an alternative perspective on market performance. By holding a diversified portfolio that reflects the equal-weighted structure of the VLI, investors can mitigate the risk of overweighting in [large-cap stocks](../l/large_cap_stocks.md) and benefit from the growth potential of smaller companies.
 
 ### Technical Analysis
 
-Technical analysts often use the Value Line Index in their charting and [pattern recognition](../p/pattern_recognition.md). The index's long history provides a wealth of data for analyzing [market cycles](../m/market_cycles.md), resistance and [support levels](../s/support_levels.md), and other [technical indicators](../t/technical_indicators.md). The geometric mean calculation smooths out data anomalies, making it easier to identify long-term trends and patterns.
+Technical analysts often use the Value Line Index in their charting and [pattern recognition](../p/pattern_recognition.md). The index's long history provides a wealth of data for analyzing [market cycles](../m/market_cycles.md), resistance and [support levels](../s/support_levels.md), and other [technical indicators](../t/technical_indicators.md). The [geometric mean](../g/geometric_mean_in_trading.md) calculation smooths out data anomalies, making it easier to identify long-term trends and patterns.
 
 ## Value Line Corporation
 

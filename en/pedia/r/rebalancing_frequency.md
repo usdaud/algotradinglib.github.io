@@ -28,7 +28,7 @@ Rebalancing frequency refers to the periodic adjustment of the weightings of ass
 
 #### 4. Transaction Costs
 
-- **Cost-Benefit Analysis**: The cost of frequent trading and potential tax implications must be weighed against the benefits of frequent rebalancing. High transaction costs can erode the gains from frequent rebalancing, making it counterproductive.
+- **[Cost-Benefit Analysis](../c/cost-benefit_analysis_in_trading.md)**: The cost of frequent trading and potential tax implications must be weighed against the benefits of frequent rebalancing. High transaction costs can erode the gains from frequent rebalancing, making it counterproductive.
 
 ### Rebalancing Techniques
 
@@ -46,7 +46,7 @@ With the advent of [algorithmic trading](../a/algorithmic_trading.md), rebalanci
    
 2. **[Backtesting](../b/backtesting.md)**: Historical data can be used to simulate and refine [rebalancing strategies](../r/rebalancing_strategies.md), optimizing parameters like frequency and thresholds for better performance.
    
-3. **Optimization Algorithms**: Advanced techniques like genetic algorithms or machine learning can be employed to determine optimal rebalancing schedules, balancing costs and benefits dynamically.
+3. **Optimization Algorithms**: Advanced techniques like [genetic algorithms](../g/genetic_algorithms_in_trading.md) or machine learning can be employed to determine optimal rebalancing schedules, balancing costs and benefits dynamically.
 
 ### Example
 

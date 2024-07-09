@@ -15,7 +15,7 @@ The put-call ratio is a widely-used indicator to gauge market sentiment. It is c
 
 ### 2. Implied Volatility
 
-Implied volatility (IV) is a metric that reflects the market's expectation of the future volatility of an asset's price. Higher implied volatility suggests that the market expects significant price movements (often associated with uncertainty or upcoming events), whereas lower implied volatility suggests a more stable outlook.
+Implied volatility (IV) is a metric that reflects the market's expectation of the future volatility of an asset's price. Higher implied volatility suggests that the market expects significant price movements (often associated with [uncertainty](../u/uncertainty_in_trading.md) or upcoming events), whereas lower implied volatility suggests a more stable outlook.
 
 - **Sources:**
   - **CBOE Volatility Index (VIX):** Often referred to as the "fear gauge," the VIX measures the implied volatility of S&P 500 [index options](../i/index_options.md) and is a popular indicator of market sentiment.
@@ -31,7 +31,7 @@ Open interest refers to the total number of outstanding options contracts (calls
 
 ### 4. Skew
 
-The skew, or [volatility skew](../v/volatility_skew.md), refers to the difference in implied volatility between out-of-the-money (OTM) puts, at-the-money (ATM) options, and OTM calls. The skew provides insights into the relative demand for protection against downside risks ([put options](../p/put_options.md)) compared to upside potential (call options).
+The skew, or [volatility skew](../v/volatility_skew.md), refers to the difference in implied volatility between out-of-the-money (OTM) puts, at-the-money (ATM) options, and OTM calls. The skew provides insights into the relative demand for protection against downside risks ([put options](../p/put_options.md)) compared to [upside potential](../u/upside_potential_in_trading.md) (call options).
 
 - **Skew Index:**
   - Measures the implied volatility of OTM puts relative to OTM calls.

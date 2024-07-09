@@ -5,16 +5,16 @@ Kurtosis is a statistical measure that is often used in [financial modeling](../
 #### Types of Distributions Based on Kurtosis
 
 1. **Mesokurtic**: 
-   - A distribution with kurtosis similar to that of a normal distribution is referred to as mesokurtic. The kurtosis value is approximately 3 (Excess kurtosis, which is kurtosis minus 3, is approximately 0).
-   - Example: Normal distribution.
+   - A distribution with kurtosis similar to that of a [normal distribution](../n/normal_distribution_in_trading.md) is referred to as mesokurtic. The kurtosis value is approximately 3 (Excess kurtosis, which is kurtosis minus 3, is approximately 0).
+   - Example: [Normal distribution](../n/normal_distribution_in_trading.md).
 
 2. **Leptokurtic**:
    - Distributions with higher kurtosis values (greater than 3) are referred to as leptokurtic. They have heavy tails and sharp peaks.
-   - Financial Implication: A leptokurtic distribution suggests higher probability of extreme values (both positive and negative) compared to a normal distribution.
+   - Financial Implication: A leptokurtic distribution suggests higher probability of extreme values (both positive and negative) compared to a [normal distribution](../n/normal_distribution_in_trading.md).
    - Example: Distribution of stock market returns often shows leptokurtic behavior.
 
 3. **Platykurtic**:
-   - Distributions with lower kurtosis values (less than 3) are known as platykurtic. They have lighter tails and a flatter peak compared to the normal distribution.
+   - Distributions with lower kurtosis values (less than 3) are known as platykurtic. They have lighter tails and a flatter peak compared to the [normal distribution](../n/normal_distribution_in_trading.md).
    - Financial Implication: A platykurtic distribution indicates a lower probability of extreme values.
    - Example: Uniform distribution.
 
@@ -45,7 +45,7 @@ Where:
 - \( s \) is the sample standard deviation.
 
 **Excess Kurtosis**:
-- Often excess kurtosis is used, which is simply \( K - 3 \). For a normal distribution, excess kurtosis is 0.
+- Often excess kurtosis is used, which is simply \( K - 3 \). For a [normal distribution](../n/normal_distribution_in_trading.md), excess kurtosis is 0.
 
 #### Application in Algorithmic Trading
 
@@ -59,9 +59,9 @@ Where:
    - [Algorithmic trading](../a/algorithmic_trading.md) systems can dynamically adjust risk parameters based on real-time kurtosis calculations.
    - For example, if an increase in kurtosis is detected, the system might reduce position sizes to mitigate potential risks associated with extreme market movements.
 
-3. **[Backtesting](../b/backtesting.md) and Simulation**:
+3. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**:
    - Incorporating kurtosis in [backtesting](../b/backtesting.md) helps in realistically assessing the performance of [trading strategies](../t/trading_strategies.md) under extreme market conditions.
-   - It improves simulation fidelity, ensuring that strategies are robust across a wide range of market scenarios.
+   - It improves [simulation](../s/simulation_in_trading.md) fidelity, ensuring that strategies are robust across a wide range of market scenarios.
 
 #### Practical Examples
 

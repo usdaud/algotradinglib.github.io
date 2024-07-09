@@ -48,7 +48,7 @@ Credit easing focuses on altering the composition of the central bank's balance 
 
 ### Keynesian Economics
 
-In Keynesian economics, the ZLB is particularly problematic because it limits the effectiveness of monetary policy in increasing aggregate demand. According to Keynesians, fiscal policy becomes crucial in such scenarios to boost spending and economic activity.
+In [Keynesian economics](../k/keynesian_economics_in_trading.md), the ZLB is particularly problematic because it limits the effectiveness of monetary policy in increasing aggregate demand. According to Keynesians, fiscal policy becomes crucial in such scenarios to boost spending and economic activity.
 
 ### New Keynesian Models
 

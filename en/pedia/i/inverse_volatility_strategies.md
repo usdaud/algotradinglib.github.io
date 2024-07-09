@@ -18,7 +18,7 @@ Inverse volatility strategies operate on the principle that periods of high vola
 
 ### Mathematical Models
 
-These strategies often use mathematical models to measure volatility levels and make trading decisions. Common approaches include:
+These strategies often use [mathematical models](../m/mathematical_models_in_trading.md) to measure volatility levels and make trading decisions. Common approaches include:
 
 1. **GARCH (Generalized Autoregressive Conditional Heteroskedasticity) Models**: These models are used to predict future volatility based on past periods. 
 2. **[Bollinger Bands](../b/bollinger_bands.md)**: A [technical analysis](../t/technical_analysis.md) tool that uses standard deviation to measure volatility and identify overbought or oversold conditions.
@@ -84,6 +84,6 @@ Regulative scrutiny around volatility products is expected to increase, necessit
 
 ## Conclusion
 
-Inverse volatility strategies stand out as a sophisticated approach within the algo-trading landscape. They offer a unique perspective on trading by leveraging the non-linear and often unpredictable nature of volatility. While there are inherent risks and complexities, the strategic application of these methods, underpinned by robust mathematical models and [risk management](../r/risk_management.md) protocols, can yield high returns and serve as a vital tool for both individual traders and institutional investors.
+Inverse volatility strategies stand out as a sophisticated approach within the algo-trading landscape. They offer a unique perspective on trading by leveraging the non-linear and often unpredictable nature of volatility. While there are inherent risks and complexities, the strategic application of these methods, underpinned by robust [mathematical models](../m/mathematical_models_in_trading.md) and [risk management](../r/risk_management.md) protocols, can yield high returns and serve as a vital tool for both individual traders and institutional investors.
 
 By continuously evolving with advancements in AI, machine learning, and statistical modeling, inverse volatility strategies are poised to play an increasingly prominent role in the future of financial markets.

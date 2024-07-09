@@ -12,7 +12,7 @@ There are several types of yield curves, each conveying different information ab
 
 - **Normal [Yield Curve](../y/yield_curve.md):** An upward-sloping curve indicating that longer-term bonds have higher yields than shorter-term bonds. This shape suggests a positive economic outlook and higher future interest rates.
 - **Inverted [Yield Curve](../y/yield_curve.md):** A downward-sloping curve where short-term yields are higher than long-term yields. This is often considered a predictor of economic recession.
-- **Flat [Yield Curve](../y/yield_curve.md):** Indicates that short-term and long-term yields are very close, suggesting uncertainty in economic conditions.
+- **Flat [Yield Curve](../y/yield_curve.md):** Indicates that short-term and long-term yields are very close, suggesting [uncertainty](../u/uncertainty_in_trading.md) in economic conditions.
 - **Humped [Yield Curve](../y/yield_curve.md):** A curve with a peak at medium-term maturities, indicating complex market expectations about future interest rates.
 
 ### 3. Spot Rates and Forward Rates
@@ -73,7 +73,7 @@ JPMorgan Chase integrates term structure analysis into their investment banking 
 These models incorporate the stochastic nature of interest rates, providing a more intricate depiction of how term structures evolve over time. Examples include the Cox-Ingersoll-Ross (CIR) model and the Heath-Jarrow-Morton (HJM) framework.
 
 ### 2. Machine Learning and AI in Term Structure Analysis
-Recent advancements in machine learning and artificial intelligence are revolutionizing term structure analysis by enabling more accurate predictions and advanced [risk management](../r/risk_management.md) techniques.
+Recent advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are revolutionizing term structure analysis by enabling more accurate predictions and advanced [risk management](../r/risk_management.md) techniques.
 
 ### 3. Multivariate Term Structure Models
 These models consider multiple factors affecting interest rates, such as macroeconomic variables and market sentiments, to offer a comprehensive view of term structures.

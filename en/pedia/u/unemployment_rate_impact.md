@@ -46,7 +46,7 @@ Changes in the unemployment rate can significantly impact financial markets. For
 
 ### Data-Driven Decision Making
 
-- **[Quantitative Models](../q/quantitative_models.md)**: These use statistical and mathematical models to predict market movements based on historical data, including unemployment figures.
+- **[Quantitative Models](../q/quantitative_models.md)**: These use statistical and [mathematical models](../m/mathematical_models_in_trading.md) to predict market movements based on historical data, including unemployment figures.
 - **Machine Learning**: Advanced algorithms can be trained to recognize patterns from historical unemployment data and predict future movements.
 - **Event-Driven Strategies**: These algorithms are programmed to execute trades based on events such as the release of the unemployment rate.
 

@@ -1,6 +1,6 @@
 # Quantitative Value Strategies
 
-Quantitative value strategies are investment strategies that combine the principles of [value investing](../v/value_investing.md) with quantitative methods and algorithms. While traditional [value investing](../v/value_investing.md) involves manually examining financial statements and identifying undervalued stocks, quantitative value strategies utilize mathematical models and statistical analysis to systematically and objectively identify value opportunities. These strategies leverage large datasets and computational power to process and analyze information more efficiently than human analysis alone.
+Quantitative value strategies are investment strategies that combine the principles of [value investing](../v/value_investing.md) with quantitative methods and algorithms. While traditional [value investing](../v/value_investing.md) involves manually examining financial statements and identifying undervalued stocks, quantitative value strategies utilize [mathematical models](../m/mathematical_models_in_trading.md) and statistical analysis to systematically and objectively identify value opportunities. These strategies leverage large datasets and computational power to process and analyze information more efficiently than human analysis alone.
 
 ## Core Concepts of Quantitative Value Investing
 
@@ -11,7 +11,7 @@ At the heart of quantitative value strategies lie the fundamental principles of 
 
 ### Quantitative Methods
 Quantitative value strategies implement these principles through the following:
-- **Mathematical Models**: Algorithmic models that use various financial metrics and ratios to evaluate and rank securities.
+- **[Mathematical Models](../m/mathematical_models_in_trading.md)**: Algorithmic models that use various financial metrics and ratios to evaluate and rank securities.
 - **Data Analysis**: Processing large volumes of historical and real-time data to identify patterns and predict future performance.
 - **Statistical Techniques**: Using statistical methods such as [regression analysis](../r/regression_analysis.md), clustering, and machine learning to enhance stock selection and [portfolio management](../p/portfolio_management.md).
 
@@ -37,8 +37,8 @@ Quantitative value strategies implement these principles through the following:
 ### Common Algorithms & Techniques
 1. **[Linear Regression](../l/linear_regression.md)**: Modeling the relationship between a dependent variable and one or more independent variables.
 2. **[Decision Trees](../d/decision_trees.md)**: Using tree-like models of decisions, useful for feature selection and classification.
-3. **Random Forests**: [Ensemble learning](../e/ensemble_learning.md) method that builds multiple [decision trees](../d/decision_trees.md) and merges them for better accuracy.
-4. **Neural Networks**: Deep learning models that can capture complex patterns in large datasets.
+3. **[Random Forests](../r/random_forests_in_trading.md)**: [Ensemble learning](../e/ensemble_learning.md) method that builds multiple [decision trees](../d/decision_trees.md) and merges them for better accuracy.
+4. **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning models that can capture complex patterns in large datasets.
 5. **Cluster Analysis**: Grouping stocks based on similarity in financial metrics to identify clusters of undervalued securities.
 
 ## Implementing Quantitative Value Strategies
@@ -76,7 +76,7 @@ Effective [risk management](../r/risk_management.md) in quantitative value strat
 
 ## Conclusion
 
-Quantitative value strategies blend the time-tested principles of [value investing](../v/value_investing.md) with the power of [quantitative analysis](../q/quantitative_analysis.md). By leveraging mathematical models and large datasets, these strategies aim to systematically identify undervalued stocks and construct high-performing, risk-managed portfolios. Despite challenges such as model risk and data quality, the benefits of objectivity, efficiency, and consistency make quantitative value strategies a compelling approach for modern investing.
+Quantitative value strategies blend the time-tested principles of [value investing](../v/value_investing.md) with the power of [quantitative analysis](../q/quantitative_analysis.md). By leveraging [mathematical models](../m/mathematical_models_in_trading.md) and large datasets, these strategies aim to systematically identify undervalued stocks and construct high-performing, risk-managed portfolios. Despite challenges such as model risk and data quality, the benefits of objectivity, efficiency, and consistency make quantitative value strategies a compelling approach for modern investing.
 
 For practitioners and researchers, continuous advancements in algorithmic techniques and computational power offer exciting opportunities to refine these strategies and achieve superior investment outcomes.
 

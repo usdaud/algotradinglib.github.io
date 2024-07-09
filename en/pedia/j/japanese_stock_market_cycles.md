@@ -13,7 +13,7 @@ The period immediately following World War II was marked by extensive reconstruc
 ### The Economic Miracle (1955-1973)
 Often referred to as the "Japanese Economic Miracle," this era saw unprecedented economic growth. Japan's GDP grew at an average annual rate of around 10%, making it one of the fastest-growing economies in the world. Key factors contributing to this growth included:
 
-- Government policies focused on industrialization and export-led growth.
+- [Government policies](../g/government_policies_in_trading.md) focused on industrialization and export-led growth.
 - Investment in education and research and development.
 - Growth of major corporations such as Toyota, Sony, and Mitsubishi.
 

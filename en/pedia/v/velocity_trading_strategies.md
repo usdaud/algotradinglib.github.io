@@ -10,11 +10,11 @@ Velocity [trading strategies](../t/trading_strategies.md) use advanced algorithm
 
 ### Algorithms
 
-Algorithms are the backbone of velocity trading. They analyze market data in real-time and execute trades based on pre-set criteria. These algorithms can be highly sophisticated, using machine learning and artificial intelligence to adapt over time.
+Algorithms are the backbone of velocity trading. They analyze market data in real-time and execute trades based on pre-set criteria. These algorithms can be highly sophisticated, using machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to adapt over time.
 
 ### Order Types
 
-Velocity [trading strategies](../t/trading_strategies.md) often utilize various order types such as market orders, limit orders, and stop orders. The chosen order type can depend on the specific conditions of the market and the strategy being employed.
+Velocity [trading strategies](../t/trading_strategies.md) often utilize various [order types](../o/order_types_in_trading.md) such as market orders, limit orders, and stop orders. The chosen order type can depend on the specific conditions of the market and the strategy being employed.
 
 ### Latency
 
@@ -125,11 +125,11 @@ The integration of machine learning and AI is expected to make algorithms smarte
 
 ### Blockchain
 
-Blockchain technology could offer new avenues for transparent and secure transactions in high-frequency trading.
+[Blockchain](../b/blockchain_in_trading.md) technology could offer new avenues for transparent and secure transactions in high-frequency trading.
 
 ### Quantum Computing
 
-Quantum computing has the potential to revolutionize velocity trading by exponentially increasing the speed and complexity of data analysis and algorithm execution.
+[Quantum computing](../q/quantum_computing_in_trading.md) has the potential to revolutionize velocity trading by exponentially increasing the speed and complexity of data analysis and algorithm execution.
 
 ### Decentralized Finance (DeFi)
 
@@ -137,4 +137,4 @@ The rise of DeFi platforms suggests that velocity trading could extend beyond tr
 
 ## Conclusion
 
-Velocity [trading strategies](../t/trading_strategies.md) offer numerous advantages, including improved liquidity, efficient price discovery, and increased [market efficiency](../m/market_efficiency.md). However, they also come with challenges such as regulatory compliance, technological demands, and potential market risks. The future of velocity trading will likely be shaped by advancements in AI, machine learning, blockchain, and quantum computing, which promise to further refine and optimize these high-speed [trading strategies](../t/trading_strategies.md).
+Velocity [trading strategies](../t/trading_strategies.md) offer numerous advantages, including improved liquidity, efficient price discovery, and increased [market efficiency](../m/market_efficiency.md). However, they also come with challenges such as regulatory compliance, technological demands, and potential market risks. The future of velocity trading will likely be shaped by advancements in AI, machine learning, [blockchain](../b/blockchain_in_trading.md), and [quantum computing](../q/quantum_computing_in_trading.md), which promise to further refine and optimize these high-speed [trading strategies](../t/trading_strategies.md).

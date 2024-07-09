@@ -40,7 +40,7 @@ Pre-trade models predict the potential market impact costs before an order is ex
 [Post-trade analysis](../p/post-trade_analysis.md) involves examining the actual market prices before, during, and after trade execution to evaluate the realized market impact. This helps in assessing the accuracy of pre-trade predictions and refining algorithms.
 
 ### Predictive Models
-Advanced predictive models using machine learning and regression analytics can also be employed to estimate market impact costs. These models often factor in a wide range of variables pulled from historical trading data, encompassing aspects like [order book depth](../o/order_book_depth.md) and high-frequency trading patterns.
+Advanced [predictive models](../p/predictive_models_in_trading.md) using machine learning and regression analytics can also be employed to estimate market impact costs. These models often factor in a wide range of variables pulled from historical trading data, encompassing aspects like [order book depth](../o/order_book_depth.md) and high-frequency trading patterns.
 
 ## Mitigation Strategies
 

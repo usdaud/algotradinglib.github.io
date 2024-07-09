@@ -23,7 +23,7 @@ Mathematical models play a crucial role in the realm of trading, especially with
 ##### Key Concepts:
 - **Brownian Motion**: This is a continuous-time stochastic process that models random motion, often used to represent stock price movements.
 - **[Geometric Brownian Motion](../g/geometric_brownian_motion.md) (GBM)**: An extension of Brownian motion, it accounts for the fact that stock prices cannot be negative.
-- **Poisson Process**: Useful for modeling the number of events occurring within fixed intervals of time.
+- **[Poisson Process](../p/poisson_process_in_trading.md)**: Useful for modeling the number of events occurring within fixed intervals of time.
 
 #### 3. Quantitative Finance Methods
 
@@ -45,7 +45,7 @@ Statistical [arbitrage](../a/arbitrage.md) is a trading strategy that involves s
 
 #### 5. Machine Learning and AI in Trading
 
-Machine learning (ML) and artificial intelligence (AI) have become integral in developing sophisticated [trading algorithms](../t/trading_algorithms.md). These technologies help in modeling complex patterns in financial data that traditional statistical methods might miss.
+Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have become integral in developing sophisticated [trading algorithms](../t/trading_algorithms.md). These technologies help in modeling complex patterns in financial data that traditional statistical methods might miss.
 
 ##### Key Approaches:
 - **Supervised Learning**: Involves training algorithms on historical data to predict future outcomes.
@@ -68,7 +68,7 @@ Effective [risk management](../r/risk_management.md) is critical for the long-te
 ##### Key Models:
 - **Value at Risk (VaR)**: Represents the maximum loss expected over a specified time period with a given confidence level.
 - **Expected Shortfall (ES)**: Also known as Conditional VaR, it assesses the expected loss on days when there is a VaR breach.
-- **Stress Testing**: Involves testing the portfolio against extreme market conditions to evaluate its resilience.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Involves testing the portfolio against extreme market conditions to evaluate its resilience.
 
 #### 8. Execution Algorithms
 
@@ -93,17 +93,17 @@ High-frequency trading (HFT) involves executing a large number of orders at extr
 [Behavioral finance](../b/behavioral_finance.md) combines psychological theories with conventional economics to explain why people make irrational financial decisions. Mathematical models in [behavioral finance](../b/behavioral_finance.md) help in understanding and predicting market sentiment and investor behaviors.
 
 ##### Key Concepts:
-- **Prospect Theory**: Describes how people choose between probabilistic alternatives involving risk.
+- **[Prospect Theory](../p/prospect_theory_in_trading.md)**: Describes how people choose between probabilistic alternatives involving risk.
 - **Agent-Based Models**: Simulate the actions and interactions of autonomous agents (individuals or groups) to assess their effects on the financial system.
-- **Behavioral Bias Models**: Identify common biases such as overconfidence, [loss aversion](../l/loss_aversion.md), and herd behavior that can impact trading decisions.
+- **Behavioral Bias Models**: Identify common biases such as overconfidence, [loss aversion](../l/loss_aversion.md), and [herd behavior](../h/herd_behavior_in_trading.md) that can impact trading decisions.
 
 #### 11. Blockchain and Cryptocurrencies
 
-Mathematical models are also applied in trading cryptocurrencies and in understanding blockchain technology. 
+Mathematical models are also applied in trading cryptocurrencies and in understanding [blockchain](../b/blockchain_in_trading.md) technology. 
 
 ##### Key Aspects:
-- **Cryptographic Algorithms**: Ensure the security and integrity of blockchain transactions.
-- **Blockchain Consensus Protocols**: Mathematical algorithms (e.g., Proof of Work, Proof of Stake) used to achieve consensus in decentralized networks.
+- **Cryptographic Algorithms**: Ensure the security and integrity of [blockchain](../b/blockchain_in_trading.md) transactions.
+- **[Blockchain](../b/blockchain_in_trading.md) Consensus Protocols**: Mathematical algorithms (e.g., Proof of Work, Proof of Stake) used to achieve consensus in decentralized networks.
 - **Price Prediction Models**: Use historical data and machine learning to forecast cryptocurrency price movements.
 
 #### Conclusion

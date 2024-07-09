@@ -31,7 +31,7 @@ Successful [sector rotation](../s/sector_rotation.md) relies heavily on interpre
 ### Sector Analysis
 In addition to [economic indicators](../e/economic_indicators.md), [sector analysis](../s/sector_analysis.md) is critical. This involves evaluating factors such as:
 
-- **Earnings Growth**: Historical and projected earnings growth rates for companies within a sector.
+- **Earnings Growth**: Historical and projected earnings [growth rates](../g/growth_rates_in_trading.md) for companies within a sector.
 - **Valuation Metrics**: Price-to-earnings (P/E) ratios, price-to-book (P/B) ratios, and other valuation metrics.
 - **Industry Trends**: Technological advancements, regulatory changes, and shifts in consumer behavior impacting the sector.
 - **Financial Health**: Assessing balance sheets, debt levels, and cash flow generation of companies within the sector.
@@ -39,12 +39,12 @@ In addition to [economic indicators](../e/economic_indicators.md), [sector analy
 ### Rotational Models
 There are different models and approaches to [sector rotation](../s/sector_rotation.md):
 
-- **Top-Down Approach**: This approach starts with a macroeconomic analysis to identify the current phase of the business cycle. Investors then select sectors expected to perform well in that phase and finally choose individual stocks within those sectors.
+- **[Top-Down Approach](../t/top-down_approach_in_trading.md)**: This approach starts with a macroeconomic analysis to identify the current phase of the business cycle. Investors then select sectors expected to perform well in that phase and finally choose individual stocks within those sectors.
 
 - **Bottom-Up Approach**: Focuses more on individual company performance within sectors, identifying companies with strong fundamentals, regardless of the broader economic cycle.
 
 ### Quantitative Strategies
-[Quantitative approaches](../q/quantitative_approaches.md) to [sector rotation](../s/sector_rotation.md) involve mathematical models and algorithms to make investment decisions. Key techniques include:
+[Quantitative approaches](../q/quantitative_approaches.md) to [sector rotation](../s/sector_rotation.md) involve [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make investment decisions. Key techniques include:
 
 - **Momentum-Based Rotation**: This strategy involves investing in sectors that have shown strong recent performance relative to other sectors, based on the idea that strong performance is likely to continue.
 
@@ -85,7 +85,7 @@ Various investment platforms and tools assist in implementing [sector rotation](
 - **T. Rowe Price**: T. Rowe Price Diversified Sector Strategy focuses on tactical sector allocation, aiming to outperform the S&P 500 Index by actively managing sector exposures.
   [T. Rowe Price](https://www.troweprice.com)
 
-- **Fidelity Investments**: Fidelity offers [sector rotation](../s/sector_rotation.md) mutual funds and ETFs that use [top-down analysis](../t/top-down_analysis.md) and fundamental research to rotate between sectors.
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity offers [sector rotation](../s/sector_rotation.md) mutual funds and ETFs that use [top-down analysis](../t/top-down_analysis.md) and fundamental research to rotate between sectors.
   [Fidelity Investments](https://www.fidelity.com)
 
 - **Invesco**: Invesco provides [sector rotation](../s/sector_rotation.md) ETFs, such as the Invesco DWA Tactical [Sector Rotation](../s/sector_rotation.md) ETF (DWTR), which uses a proprietary model to identify and rotate into leading sectors.

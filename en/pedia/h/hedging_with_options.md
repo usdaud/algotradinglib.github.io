@@ -67,7 +67,7 @@ Hedging with options is not without its challenges. Costs can add up, particular
 
 Various platforms offer tools and environments for trading options and implementing [hedging strategies](../h/hedging_strategies.md). Some of the prominent ones include:
 
-- [Interactive Brokers](https://www.interactivebrokers.com): Known for its comprehensive range of options trading tools, Interactive Brokers provides a robust platform for executing and managing options strategies.
+- [Interactive Brokers](https://www.interactivebrokers.com): Known for its comprehensive range of options trading tools, [Interactive Brokers](../i/interactive_brokers.md) provides a robust platform for executing and managing options strategies.
 - [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page): Offers advanced charting and analytics tools tailored for options trading.
 - [E*Trade](https://us.etrade.com): Provides a user-friendly interface with extensive resources for options trading and [risk management](../r/risk_management.md).
 - [Tastyworks](https://www.tastyworks.com): Focuses on options trading with innovative features and educational content to help traders master [hedging strategies](../h/hedging_strategies.md).

@@ -25,7 +25,7 @@ Company analysis dives into a firm’s financial statements and other pertinent 
 
 #### Ratios:
 - **[Liquidity Ratios](../l/liquidity_ratios.md)**: Assess the company’s ability to meet its short-term obligations (e.g., Current Ratio, Quick Ratio).
-- **Profitability Ratios**: Gauge how well the company uses its resources to generate profit (e.g., Return on Assets, Return on Equity).
+- **Profitability Ratios**: Gauge how well the company uses its resources to generate profit (e.g., [Return on Assets](../r/return_on_assets_(roa).md), Return on Equity).
 - **Debt Ratios**: Examine the company’s leverage and its ability to meet long-term obligations (e.g., Debt to Equity Ratio, Interest Coverage Ratio).
 - **Efficiency Ratios**: Indicate how well the company utilizes its resources (e.g., Inventory Turnover, Accounts Receivable Turnover).
 

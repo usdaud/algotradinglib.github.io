@@ -58,7 +58,7 @@ Commodity ETFs and mutual funds provide individual investors with diversified ex
 
 ### Direct Investment in Physical Commodities
 
-Investors can also choose to invest directly in physical commodities. This includes purchasing tangible assets like gold bars, silver coins, crude oil, or agricultural products. Physical investments are often favored by long-term investors who wish to hedge against inflation or economic uncertainty.
+Investors can also choose to invest directly in physical commodities. This includes purchasing tangible assets like gold bars, silver coins, crude oil, or agricultural products. Physical investments are often favored by long-term investors who wish to hedge against inflation or economic [uncertainty](../u/uncertainty_in_trading.md).
 
 ### Storage and Insurance
 
@@ -100,7 +100,7 @@ Investing in commodity indices can offer diversified exposure and reduce the imp
 
 ### What are Managed Futures?
 
-[Managed futures](../m/managed_futures.md) involve professional fund managers, known as Commodity Trading Advisors (CTAs), who use [futures contracts](../f/futures_contracts.md) to achieve investment goals. These professionals employ various [trading strategies](../t/trading_strategies.md), including trend-following, [arbitrage](../a/arbitrage.md), and [spread trading](../s/spread_trading.md).
+[Managed futures](../m/managed_futures.md) involve professional fund managers, known as [Commodity Trading Advisors](../c/commodity_trading_advisors_(ctas).md) (CTAs), who use [futures contracts](../f/futures_contracts.md) to achieve investment goals. These professionals employ various [trading strategies](../t/trading_strategies.md), including trend-following, [arbitrage](../a/arbitrage.md), and [spread trading](../s/spread_trading.md).
 
 ### Advantages of Managed Futures
 
@@ -110,7 +110,7 @@ Investing in commodity indices can offer diversified exposure and reduce the imp
 
 ### Leading CTAs
 
-Several companies are renowned for their [managed futures](../m/managed_futures.md) programs. One such example is [AQR Capital Management](https://www.aqr.com), noted for its quantitative strategies across different asset classes.
+Several companies are renowned for their [managed futures](../m/managed_futures.md) programs. One such example is [AQR Capital Management](https://www.aqr.com), noted for its [quantitative strategies](../q/quantitative_strategies_in_trading.md) across different asset classes.
 
 ## Risks in Commodity Investment
 

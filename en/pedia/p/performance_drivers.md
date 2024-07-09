@@ -29,7 +29,7 @@ Transaction costs encompass all expenses associated with buying and selling asse
 Key Points:
 - Minimizing transaction costs involves negotiating lower fees with brokers.
 - Algo strategies need to be optimized to trade during periods of lower spreads and volatility.
-- Advanced order types like iceberg orders can help reduce market impact.
+- Advanced [order types](../o/order_types_in_trading.md) like iceberg orders can help reduce market impact.
 
 #### 4. **Data Quality and Management**
 
@@ -47,7 +47,7 @@ The design and inherent complexity of the algorithm influence its performance. A
 Key Points:
 - Simpler algorithms are usually less prone to overfitting on historical data.
 - Advanced machine learning models can adapt to changing market conditions but may require more data and processing power.
-- Stress testing under various market scenarios is essential to ensure reliability.
+- [Stress testing](../s/stress_testing_in_trading.md) under various market scenarios is essential to ensure reliability.
 
 #### 6. **Risk Management**
 
@@ -81,7 +81,7 @@ Key Points:
 An understanding of [market microstructure](../m/market_microstructure.md) – the way orders are placed and executed – aids in the development of more [efficient trading strategies](../e/efficient_trading_strategies.md).
 
 Key Points:
-- Knowledge of order types (limit, market, stop orders) and their impact on execution is crucial.
+- Knowledge of [order types](../o/order_types_in_trading.md) (limit, market, stop orders) and their impact on execution is crucial.
 - Insights into exchange mechanisms and how liquidity is provided improve strategy formulation.
 - Analysis of market depth and [order book dynamics](../o/order_book_dynamics.md) provides competitive advantages.
 

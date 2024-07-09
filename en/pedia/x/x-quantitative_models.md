@@ -26,9 +26,9 @@ Time series models analyze historical price data to forecast future movements. C
 
 Machine learning models represent the frontier of X-[Quantitative Models](../q/quantitative_models.md), heavily relying on patterns identified in large datasets:
 
-- **Supervised Learning Models**: Utilize labeled data to train algorithms. Examples include [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), and SVMs (Support Vector Machines).
-- **Unsupervised Learning Models**: These work with unlabeled data to find hidden patterns. Techniques often used are Clustering and Dimensionality Reduction.
-- **Deep Learning Models**: A subset of machine learning, leveraging neural networks with many layers to model complex patterns in large datasets.
+- **Supervised Learning Models**: Utilize labeled data to train algorithms. Examples include [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), and SVMs ([Support Vector Machines](../s/support_vector_machines_in_trading.md)).
+- **Unsupervised Learning Models**: These work with unlabeled data to find hidden patterns. Techniques often used are Clustering and [Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md).
+- **Deep Learning Models**: A subset of machine learning, leveraging [neural networks](../n/neural_networks_in_trading.md) with many layers to model complex patterns in large datasets.
 
 ### 3. Stochastic Models
 
@@ -41,7 +41,7 @@ These models incorporate random variables to account for market uncertainties:
 
 [Factor models](../f/factor_models.md) decompose asset returns into multiple underlying sources of risk or reward:
 
-- **Multi-[Factor Models](../f/factor_models.md)**: Consider multiple risk factors such as size, value, and momentum.
+- **Multi-[Factor Models](../f/factor_models.md)**: Consider multiple [risk factors](../r/risk_factors_in_trading.md) such as size, value, and momentum.
 - **APT ([Arbitrage](../a/arbitrage.md) Pricing Theory)**: An equilibrium model derived from no-[arbitrage](../a/arbitrage.md) conditions in a financial market.
 
 ## Implementation of X-Quantitative Models
@@ -74,7 +74,7 @@ Model development involves coding the quantitative strategy in a selected progra
 Robust [risk management](../r/risk_management.md) frameworks are essential for operating X-[Quantitative Models](../q/quantitative_models.md):
 
 - **Value at Risk (VaR)**: Estimates the potential loss in value of a portfolio.
-- **Stress Testing**: Simulates extreme market conditions to evaluate model robustness.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulates extreme market conditions to evaluate model robustness.
 
 ## Leading Companies Utilizing X-Quantitative Models
 

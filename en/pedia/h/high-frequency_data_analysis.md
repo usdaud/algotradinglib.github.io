@@ -28,7 +28,7 @@ High-frequency trading (HFT) processes rely on several key data sources:
     - **Descriptive Statistics**: Summarizing the main features of a data set.
     - **Time-Series Analysis**: Techniques to analyze data points collected or recorded at specific time intervals.
     - **Machine Learning**: Algorithms and models to predict trends and patterns.
-    - **Signal Processing**: For detecting anomalies and patterns in noisy data.
+    - **[Signal Processing](../s/signal_processing_in_trading.md)**: For detecting anomalies and patterns in noisy data.
 
 ## Statistical Methods in HFDA
 
@@ -48,11 +48,11 @@ Understanding and modeling volatility is critical for [risk management](../r/ris
 
 ### Machine Learning and AI
 
-The application of machine learning (ML) and artificial intelligence (AI) techniques in HFDA is growing rapidly. Algorithms such as Random Forest, Support Vector Machines (SVM), and Neural Networks are employed for [pattern recognition](../p/pattern_recognition.md) and [predictive analytics](../p/predictive_analytics.md).
+The application of machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques in HFDA is growing rapidly. Algorithms such as Random Forest, [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md) are employed for [pattern recognition](../p/pattern_recognition.md) and [predictive analytics](../p/predictive_analytics.md).
 
 - **Random Forest**: An [ensemble learning](../e/ensemble_learning.md) method for classification and regression.
 - **SVM**: A supervised machine learning algorithm used for classification and regression challenges.
-- **Neural Networks**: Used for complex [pattern recognition](../p/pattern_recognition.md), capable of capturing intricate relationships within the data.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Used for complex [pattern recognition](../p/pattern_recognition.md), capable of capturing intricate relationships within the data.
 
 ### Tick Data Analysis
 
@@ -65,7 +65,7 @@ Tick data, which includes every trade and quote, is the most granular level of d
 
 1. **Data Overload**: The sheer volume of data can overwhelm storage and processing capabilities.
 2. **Latency Issues**: Minimizing latency requires significant investment in hardware and network infrastructure.
-3. **Noise and False Signals**: High-frequency data can contain a lot of noise, leading to false [trading signals](../t/trading_signals.md).
+3. **Noise and [False Signals](../f/false_signals_in_trading.md)**: High-frequency data can contain a lot of noise, leading to false [trading signals](../t/trading_signals.md).
 4. **Regulatory Constraints**: Compliance with regulatory requirements can be complex and demanding.
 5. **Market Impact**: High-frequency [trading strategies](../t/trading_strategies.md) need to consider the impact of trades on the market.
 

@@ -11,7 +11,7 @@ Deterministic models operate on the principle that a given input will always pro
 Deterministic models rely heavily on mathematical functions and relationships. Common mathematical tools used in these models include:
 - Differential equations
 - Linear algebra
-- Numerical methods
+- [Numerical methods](../n/numerical_methods_in_trading.md)
 - Optimization techniques
 
 **3. Data Requirements**
@@ -52,7 +52,7 @@ Calibration is the process of fine-tuning the model parameters to improve its pr
 **Advantages**
 1. **Predictability**: The primary advantage of deterministic models is their predictability, which allows traders to devise more reliable strategies.
 2. **Speed and Efficiency**: Deterministic algorithms can execute trades at high speeds and with great precision.
-3. **Quantitative Rigor**: These models provide a solid mathematical basis for trading decisions, reducing emotional and psychological biases.
+3. **Quantitative Rigor**: These models provide a solid mathematical basis for trading decisions, reducing emotional and [psychological biases](../p/psychological_biases_in_trading.md).
 
 **Limitations**
 1. **Lack of Adaptability**: Deterministic models may fail to account for unexpected market events or changes in market conditions.
@@ -68,7 +68,7 @@ Calibration is the process of fine-tuning the model parameters to improve its pr
 [Mean reversion](../m/mean_reversion.md) models assume that asset prices will revert to their mean over time. These models use deterministic formulas to predict the reversion and execute trades accordingly. A common [mean reversion](../m/mean_reversion.md) strategy is [pairs trading](../p/pairs_trading.md), where two correlated assets are traded to capitalize on deviations from their historical price relationship.
 
 **3. [Arbitrage](../a/arbitrage.md) Models**
-[Arbitrage](../a/arbitrage.md) models seek to exploit price differentials between related instruments. These models rely on deterministic algorithms to identify and act on [arbitrage](../a/arbitrage.md) opportunities. An example is statistical [arbitrage](../a/arbitrage.md), where mathematical models identify mispricings between securities.
+[Arbitrage](../a/arbitrage.md) models seek to exploit price differentials between related instruments. These models rely on deterministic algorithms to identify and act on [arbitrage](../a/arbitrage.md) opportunities. An example is statistical [arbitrage](../a/arbitrage.md), where [mathematical models](../m/mathematical_models_in_trading.md) identify mispricings between securities.
 
 ### Case Studies
 

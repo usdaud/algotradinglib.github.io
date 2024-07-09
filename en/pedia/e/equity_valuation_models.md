@@ -2,7 +2,7 @@
 
 Equity valuation is the process of determining the fair market value of a company's equity, and it is a cornerstone of investment analysis and strategy. This valuation is essential for various stakeholders, including individual investors, institutional investors, and corporate managers. The goal of equity valuation is to derive the intrinsic value of a stock, which can then be compared to its current market price to identify investment opportunities.
 
-Equity [valuation models](../v/valuation_models.md) can be broadly classified into two categories: absolute [valuation models](../v/valuation_models.md) and relative [valuation models](../v/valuation_models.md). Absolute [valuation models](../v/valuation_models.md) are used to find the intrinsic value of an asset based on its fundamentals, such as dividends, earnings, and growth rates. Relative [valuation models](../v/valuation_models.md), on the other hand, estimate the value of an asset by comparing it to the valuation of other similar assets.
+Equity [valuation models](../v/valuation_models.md) can be broadly classified into two categories: absolute [valuation models](../v/valuation_models.md) and relative [valuation models](../v/valuation_models.md). Absolute [valuation models](../v/valuation_models.md) are used to find the intrinsic value of an asset based on its fundamentals, such as dividends, earnings, and [growth rates](../g/growth_rates_in_trading.md). Relative [valuation models](../v/valuation_models.md), on the other hand, estimate the value of an asset by comparing it to the valuation of other similar assets.
 
 ## Absolute Valuation Models
 
@@ -12,7 +12,7 @@ Absolute [valuation models](../v/valuation_models.md) are grounded in the theory
 
 The Dividend Discount Model (DDM) is based on the premise that the value of a stock is the present value of all future dividends. It assumes that dividends are the primary return for shareholders and forecasts these dividends over an extended period.
 
-There are several variations of the DDM, including the Gordon Growth Model (GGM), which assumes a constant growth rate in dividends, and the Multi-stage DDM, which assumes that dividend growth rates will change over time.
+There are several variations of the DDM, including the Gordon Growth Model (GGM), which assumes a constant growth rate in dividends, and the Multi-stage DDM, which assumes that dividend [growth rates](../g/growth_rates_in_trading.md) will change over time.
 
 ```markdown
 #### Gordon Growth Model (GGM)
@@ -27,7 +27,7 @@ where:
 - \( g \) = Growth rate of dividends
 - \( r \) = Required rate of return
 
-This model is best suited for companies with stable and predictable dividend growth rates.
+This model is best suited for companies with stable and predictable dividend [growth rates](../g/growth_rates_in_trading.md).
 
 #### Multi-stage Dividend Discount Model
 
@@ -100,7 +100,7 @@ The P/E ratio compares a company's current share price to its per-share earnings
 
 \[ P/E \, Ratio = \frac{Market \, Value \, per \, Share}{Earnings \, per \, Share (EPS)} \]
 
-A high P/E ratio may indicate that the stock is overvalued, or investors expect high growth rates in the future. Conversely, a low P/E ratio might imply undervaluation or expectations of slower growth.
+A high P/E ratio may indicate that the stock is overvalued, or investors expect high [growth rates](../g/growth_rates_in_trading.md) in the future. Conversely, a low P/E ratio might imply undervaluation or expectations of slower growth.
 
 ### Price-to-Book (P/B) Ratio
 

@@ -43,7 +43,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), Markowitz Portfolio Theor
 - **[Rebalancing Algorithms](../r/rebalancing_algorithms.md)**: Automated systems can periodically adjust portfolio weights to maintain an optimal risk-return profile as market conditions change.
 
 ## Software and Tools Implementing MPT
-Several financial software platforms and tools implement Markowitz Portfolio Theory, offering both individual and institutional investors tools to optimize their portfolios.
+Several financial [software platforms](../s/software_platforms_for_trading.md) and tools implement Markowitz Portfolio Theory, offering both individual and institutional investors tools to optimize their portfolios.
 
 ### Example Platforms:
 - **[Kensho](https://www.s&pglobal.com/marketintelligence/en/campaigns/kensho)**: Provides comprehensive AI-driven analytics, including [portfolio optimization](../p/portfolio_optimization.md) using MPT.
@@ -65,7 +65,7 @@ Static portfolio allocation might not adapt well to changing market conditions. 
 
 ## Critiques and Limitations
 Markowitz Portfolio Theory, while fundamental, has been criticized and evolved over time. Some key critiques include:
-- **Assumption of Normal Distribution of Returns**: MPT assumes returns are normally distributed, which may not hold true for all assets, especially in turbulent markets where tail risks are prominent.
+- **Assumption of [Normal Distribution](../n/normal_distribution_in_trading.md) of Returns**: MPT assumes returns are normally distributed, which may not hold true for all assets, especially in turbulent markets where tail risks are prominent.
 - **Estimation Errors**: Estimating the inputs (expected returns, variances, and covariances) accurately is challenging and errors can lead to suboptimal portfolios.
 - **Ignoring Higher Moments**: Traditional MPT only considers mean and variance, but higher moments of the return distribution like [skewness and kurtosis](../s/skewness_and_kurtosis.md) can also impact investment decisions.
 

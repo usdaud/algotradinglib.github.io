@@ -39,8 +39,8 @@ Algorithms use historical price data to detect trendlines. They employ various m
 
 Advanced algorithms might include machine learning models trained to recognize complex patterns that indicate trend changes. Techniques such as:
 
-- **Neural Networks**: Employed to predict future price movements based on historical patterns.
-- **Support Vector Machines**: Used to classify price movements into different trend categories.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Employed to predict future price movements based on historical patterns.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md)**: Used to classify price movements into different trend categories.
 
 ### Implementation Strategies
 
@@ -68,7 +68,7 @@ Machine learning systems, on the other hand, are more dynamic and adapt by learn
 
 ### Challenges in Trendline Analysis
 
-- **Market Noise**: Short-term price movements can create false signals.
+- **Market Noise**: Short-term price movements can create [false signals](../f/false_signals_in_trading.md).
 - **Dynamic Markets**: Trendlines need regular adjustments to stay relevant.
 - **Subjectivity**: Manual drawing of trendlines can be subjective; automated tools must be precisely programmed.
 

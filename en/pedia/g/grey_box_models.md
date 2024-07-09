@@ -11,9 +11,9 @@ Grey Box Models are a hybrid approach that merges the transparency and understan
 
 #### Components of Grey Box Models
 
-1. **Transparent Part:** This part includes the traditional statistical or econometric models that are well understood. Examples include [Linear Regression](../l/linear_regression.md), ARIMA models, and other [time series analysis](../t/time_series_analysis.md) tools, which rely on financial theory and econometrics.
+1. **Transparent Part:** This part includes the traditional statistical or econometric models that are well understood. Examples include [Linear Regression](../l/linear_regression.md), ARIMA models, and other [time series analysis](../t/time_series_analysis.md) tools, which rely on financial theory and [econometrics](../e/econometrics_in_trading.md).
    
-2. **Opaque Part:** This comprises machine learning algorithms such as neural networks, support vector machines, and other complex methods where the exact internal workings are not fully understood but are exceptionally good at predicting outcomes based on input data.
+2. **Opaque Part:** This comprises machine [learning algorithms](../l/learning_algorithms_in_trading.md) such as [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and other complex methods where the exact internal workings are not fully understood but are exceptionally good at predicting outcomes based on input data.
 
 
 ### Applications in Algorithmic Trading
@@ -22,7 +22,7 @@ Grey Box Models are particularly useful in [algorithmic trading](../a/algorithmi
 
 #### Market Prediction
 
-Grey Box Models are used to predict stock prices, commodity prices, and forex rates. By combining traditional time series methods with machine learning algorithms, these models can achieve a high level of accuracy. For example, a Grey Box Model might use ARIMA for decomposing time series data and then apply a neural network to model the residual errors and make final predictions.
+Grey Box Models are used to predict stock prices, commodity prices, and forex rates. By combining traditional time series methods with machine [learning algorithms](../l/learning_algorithms_in_trading.md), these models can achieve a high level of accuracy. For example, a Grey Box Model might use ARIMA for decomposing time series data and then apply a neural network to model the residual errors and make final predictions.
 
 #### Risk Management
 
@@ -59,10 +59,10 @@ Grey Box Models are also employed to develop [quantitative trading](../q/quantit
 Several trading firms and financial institutions use Grey Box Models to enhance their [trading strategies](../t/trading_strategies.md). Here are some notable examples:
 
 1. **Two Sigma:**
-   [Two Sigma](https://www.twosigma.com/) is a prominent quantitative hedge fund that uses a combination of innovative data science and financial theory. While specific details about their models are proprietary, they are known to employ a mix of machine learning and traditional statistical techniques, suggesting the use of Grey Box Models.
+   [Two Sigma](https://www.twosigma.com/) is a prominent quantitative hedge fund that uses a combination of innovative [data science](../d/data_science_in_trading.md) and financial theory. While specific details about their models are proprietary, they are known to employ a mix of machine learning and traditional statistical techniques, suggesting the use of Grey Box Models.
 
 2. **AQR Capital Management:**
-   [AQR Capital Management](https://www.aqr.com/) is known for its sophisticated quantitative strategies that blend financial theory with advanced data-driven methods, making it another example of an institution likely using Grey Box Models.
+   [AQR Capital Management](https://www.aqr.com/) is known for its sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md) that blend financial theory with advanced data-driven methods, making it another example of an institution likely using Grey Box Models.
 
 3. **Kensho Technologies:**
    [Kensho Technologies](https://www.kensho.com/) provides analytics platforms for financial markets and is known for integrating machine learning models with established financial theories, aligning with the concept of Grey Box Models.
@@ -86,7 +86,7 @@ Choose the appropriate traditional statistical or econometric models based on fi
 
 #### Integrating Machine Learning Models
 
-After the initial transparent model is constructed, integrate machine learning algorithms to capture any residual patterns and improve predictions. This might involve using a neural network, support vector machine, or any other complex algorithm that complements the initial model.
+After the initial transparent model is constructed, integrate machine [learning algorithms](../l/learning_algorithms_in_trading.md) to capture any residual patterns and improve predictions. This might involve using a neural network, support vector machine, or any other complex algorithm that complements the initial model.
 
 #### Model Training and Validation
 
@@ -98,6 +98,6 @@ Deploy the model into the trading system and continuously monitor its performanc
 
 ### Conclusion
 
-Grey Box Models offer a unique and powerful approach for [algorithmic trading](../a/algorithmic_trading.md) by blending the best of both worlds: the interpretability and theoretical foundation of traditional statistical models with the predictive prowess of machine learning algorithms. Although complex to build and maintain, they provide a flexible and robust framework for making informed trading decisions and managing risks effectively.
+Grey Box Models offer a unique and powerful approach for [algorithmic trading](../a/algorithmic_trading.md) by blending the best of both worlds: the interpretability and theoretical foundation of traditional statistical models with the predictive prowess of machine [learning algorithms](../l/learning_algorithms_in_trading.md). Although complex to build and maintain, they provide a flexible and robust framework for making informed trading decisions and managing risks effectively.
 
 For firms and individuals looking to stay competitive in the fast-paced world of trading, adopting Grey Box Models can provide a significant edge, combining the predictability of white box approaches with the adaptability and performance of black box methods.

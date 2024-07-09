@@ -25,11 +25,11 @@ Application in Trading
 
 ### Predicting Market Reactions to Fiscal Policies
 
-Traders closely monitor government policies that influence spending and taxation, as these can significantly impact the markets. For instance, when a government announces a substantial infrastructure project, traders might predict a surge in stocks related to construction and materials. The reason is that the Keynesian multiplier suggests that the initial government spending will lead to increased income and consumption in related sectors, thus boosting profits and stock prices.
+Traders closely monitor [government policies](../g/government_policies_in_trading.md) that influence spending and taxation, as these can significantly impact the markets. For instance, when a government announces a substantial infrastructure project, traders might predict a surge in stocks related to construction and materials. The reason is that the Keynesian multiplier suggests that the initial government spending will lead to increased income and consumption in related sectors, thus boosting profits and stock prices.
 
 ### Assessing Economic Stimulus Packages
 
-Understanding the Keynesian multiplier is crucial for trading during periods of economic uncertainty, such as recessions. Government stimulus packages designed to boost spending and investment can have varying multiplier effects. Traders analyze these packages to forecast potential market movements. For example, a stimulus focusing on consumer spending might lead to immediate boosts in retail stocks, while infrastructure-focused spending might benefit industrial sectors.
+Understanding the Keynesian multiplier is crucial for trading during periods of economic [uncertainty](../u/uncertainty_in_trading.md), such as recessions. Government stimulus packages designed to boost spending and investment can have varying multiplier effects. Traders analyze these packages to forecast potential market movements. For example, a stimulus focusing on consumer spending might lead to immediate boosts in retail stocks, while infrastructure-focused spending might benefit industrial sectors.
 
 ### Influence on Currency Markets
 

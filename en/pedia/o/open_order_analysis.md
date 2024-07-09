@@ -66,7 +66,7 @@ Analyzing historical data helps in understanding the performance of past orders 
 
 Scenario analysis involves testing different market conditions to anticipate how open orders might perform. This includes:
 
-- **Stress Testing**: Simulating extreme market conditions to assess the resilience of open orders.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating extreme market conditions to assess the resilience of open orders.
 - **What-If Analysis**: Exploring various hypothetical scenarios to determine potential outcomes.
 
 ## Tools for Open Order Analysis
@@ -89,7 +89,7 @@ Developing custom analytics solutions using programming languages like Python an
 
 APIs from trading platforms and brokers allow for seamless integration of open order data into custom analysis systems. Key APIs include:
 
-- **Interactive Brokers API**: Offers extensive data and trading functionalities ([Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=5041)).
+- **[Interactive Brokers](../i/interactive_brokers.md) API**: Offers extensive data and trading functionalities ([Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=5041)).
 - **[Alpaca](../a/alpaca.md) API**: A commission-free trading API with [real-time market data](../r/real-time_market_data.md) ([Alpaca](https://alpaca.markets/)).
 
 ## Practical Applications in Algorithmic Trading

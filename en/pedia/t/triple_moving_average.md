@@ -37,7 +37,7 @@ When the short-term moving average (SMA1) crosses above the medium-term moving a
 
 #### Confirmation
 
-One of the primary advantages of using the TMA is that the triple confirmation reduces the number of false signals. The combination of three different periods helps to filter out noise and delivers more reliable trend identification.
+One of the primary advantages of using the TMA is that the triple confirmation reduces the number of [false signals](../f/false_signals_in_trading.md). The combination of three different periods helps to filter out noise and delivers more reliable trend identification.
 
 ### Advantages of Triple Moving Average
 
@@ -117,7 +117,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), the TMA can be programmed
 When implementing a TMA strategy, consider the following:
 
 1. **Market Conditions:**
-    - The effectiveness of the TMA can vary depending on market conditions. It tends to perform better in trending markets and may produce false signals in range-bound or choppy markets.
+    - The effectiveness of the TMA can vary depending on market conditions. It tends to perform better in trending markets and may produce [false signals](../f/false_signals_in_trading.md) in range-bound or choppy markets.
 
 2. **[Backtesting](../b/backtesting.md):**
     - Thorough [backtesting](../b/backtesting.md) of the TMA strategy is essential to evaluate its performance over different market conditions and historical periods. Most trading platforms and programming environments provide [backtesting](../b/backtesting.md) functionalities.

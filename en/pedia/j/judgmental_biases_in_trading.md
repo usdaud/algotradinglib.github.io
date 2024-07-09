@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Judgmental biases are cognitive biases that affect the rationality and decision-making processes of traders. These biases often lead to systematic deviations from logical judgment, significantly impacting the efficiency of financial markets and the profitability of [trading strategies](../t/trading_strategies.md). Understanding these biases is essential for both individual traders and institutions aiming to mitigate their effects and improve [trading performance](../t/trading_performance.md).
+Judgmental biases are [cognitive biases](../c/cognitive_biases_in_trading.md) that affect the rationality and decision-making processes of traders. These biases often lead to systematic deviations from logical judgment, significantly impacting the efficiency of financial markets and the profitability of [trading strategies](../t/trading_strategies.md). Understanding these biases is essential for both individual traders and institutions aiming to mitigate their effects and improve [trading performance](../t/trading_performance.md).
 
 ## Types of Judgmental Biases
 

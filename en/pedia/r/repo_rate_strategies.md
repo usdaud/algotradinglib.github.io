@@ -19,7 +19,7 @@ Understanding these contracts is crucial as each type has different implications
 3. **Tenor**: The length of time for which the repo agreement is in place. Shorter terms usually have lower rates compared to longer terms due to reduced risk exposure.
 
 ## Repo Rate Strategizing in Algorithmic Trading
-[Algorithmic trading](../a/algorithmic_trading.md) strategies focused on repo rates aim to exploit inefficiencies in the repo markets. By leveraging advanced mathematical models, algorithms can predict the movements and optimal positioning in repo agreements. Popular strategies include:
+[Algorithmic trading](../a/algorithmic_trading.md) strategies focused on repo rates aim to exploit inefficiencies in the repo markets. By leveraging advanced [mathematical models](../m/mathematical_models_in_trading.md), algorithms can predict the movements and optimal positioning in repo agreements. Popular strategies include:
 
 1. **Enhanced Liquidity Management**: Using repo markets to manage liquidity positions more efficiently. Algorithms can dynamically adjust positions taking advantage of the best available rates.
 2. **Mismatches and [Arbitrage](../a/arbitrage.md)**: Identifying discrepancies between the repo rates and the yields on collateral securities to execute [arbitrage](../a/arbitrage.md) strategies. 

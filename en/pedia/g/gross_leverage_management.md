@@ -29,7 +29,7 @@ Gross Leverage = ($200,000 + $100,000) / $100,000 = 3x
 
 1. **Leverage Caps**: Setting a maximum allowable leverage ratio to ensure that trading does not exceed acceptable risk levels. This cap might be set according to the trader's risk appetite, market conditions, or regulatory requirements.
 2. **Dynamic Adjustment**: Adjusting leverage dynamically based on market volatility, the performance of the trading strategy, or other indicators. For instance, reducing leverage in highly volatile markets to minimize risk exposure.
-3. **Stress Testing**: Performing regular stress tests to understand how various leverage levels affect [portfolio performance](../p/portfolio_performance.md) under different market scenarios. This helps in deciding optimal [leverage ratios](../l/leverage_ratios.md).
+3. **[Stress Testing](../s/stress_testing_in_trading.md)**: Performing regular stress tests to understand how various leverage levels affect [portfolio performance](../p/portfolio_performance.md) under different market scenarios. This helps in deciding optimal [leverage ratios](../l/leverage_ratios.md).
 4. **Monitoring and Rebalancing**: Constantly monitoring trading positions and market conditions to rebalance the portfolio, ensuring that leverage remains within the desired range.
 5. **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Implementing [stop-loss orders](../s/stop-loss_orders.md) can help in managing downside risk, indirectly influencing gross leverage by liquidating positions when losses exceed a certain threshold.
 6. **Diversification**: Creating a diversified portfolio to reduce unsystematic risk, which can be magnified by high leverage.
@@ -55,7 +55,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), various tools and technol
 1. **Market Volatility**: Sudden market movements can affect [leverage ratios](../l/leverage_ratios.md) unpredictably, making management challenging in volatile markets.
 2. **Algorithm Limitations**: The effectiveness of automated systems in managing leverage depends on the accuracy and robustness of the implemented algorithms.
 3. **Liquidity Constraints**: High leverage can lead to liquidity issues, particularly in less liquid markets or during market stress periods.
-4. **Behavioral Biases**: Traders might struggle with psychological biases, such as overconfidence, leading to poor leverage management decisions.
+4. **[Behavioral Biases](../b/behavioral_biases_in_trading.md)**: Traders might struggle with [psychological biases](../p/psychological_biases_in_trading.md), such as overconfidence, leading to poor leverage management decisions.
 
 ### Case Studies
 
@@ -65,7 +65,7 @@ Long-Term Capital Management provides a historical example of the consequences o
 
 #### Case Study 2: Bridgewater Associates
 
-Bridgewater Associates, one of the largest and most successful hedge funds, is known for its robust [risk management](../r/risk_management.md) practices, including stringent leverage management. The firm employs dynamic leverage adjustment strategies based on exhaustive risk assessments and stress testing. This approach has helped Bridgewater consistently achieve strong performance while mitigating severe drawdowns.
+Bridgewater Associates, one of the largest and most successful hedge funds, is known for its robust [risk management](../r/risk_management.md) practices, including stringent leverage management. The firm employs dynamic leverage adjustment strategies based on exhaustive risk assessments and [stress testing](../s/stress_testing_in_trading.md). This approach has helped Bridgewater consistently achieve strong performance while mitigating severe drawdowns.
 
 ### Conclusion
 

@@ -74,8 +74,8 @@ Wealthfront employs advanced algorithms to handle rebalancing for their clients'
 
 The field of rebalancing algorithms is evolving rapidly with advancements in technology. Some future trends and innovations include:
 
-- **AI and Deep Learning**: Leveraging artificial intelligence and deep learning to create more sophisticated rebalancing models that can adapt to changing market conditions with higher accuracy.
-- **Blockchain Technology**: Utilizing blockchain for transparent and efficient [portfolio rebalancing](../p/portfolio_rebalancing.md), reducing the need for intermediaries and enhancing security.
+- **AI and Deep Learning**: Leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) and deep learning to create more sophisticated rebalancing models that can adapt to changing market conditions with higher accuracy.
+- **[Blockchain](../b/blockchain_in_trading.md) Technology**: Utilizing [blockchain](../b/blockchain_in_trading.md) for transparent and efficient [portfolio rebalancing](../p/portfolio_rebalancing.md), reducing the need for intermediaries and enhancing security.
 - **Real-Time [Data Integration](../d/data_integration.md)**: Integrating [real-time market data](../r/real-time_market_data.md) feeds to enable instantaneous rebalancing decisions and improving the timeliness and accuracy of the adjustments.
 - **Personalized Rebalancing**: Developing algorithms that tailor [rebalancing strategies](../r/rebalancing_strategies.md) to individual investor preferences, taking into account their unique risk profiles and investment objectives.
 

@@ -39,7 +39,7 @@ The variance of the residuals \( \sigma(\epsilon) \) represents the residual vol
 ### Applications in Algorithmic Trading
 
 1. **[Risk Management](../r/risk_management.md)**: Identifying and managing residual volatility is essential for [portfolio optimization](../p/portfolio_optimization.md) and [risk management](../r/risk_management.md). By isolating the portion of volatility that cannot be explained by market movements, traders can better hedge their positions.
-2. **[Alpha Generation](../a/alpha_generation.md)**: Quantitative strategies often seek to exploit idiosyncratic risks to generate alpha, which is the excess return above the expected return derived from the asset’s sensitivity to the market.
+2. **[Alpha Generation](../a/alpha_generation.md)**: [Quantitative strategies](../q/quantitative_strategies_in_trading.md) often seek to exploit idiosyncratic risks to generate alpha, which is the excess return above the expected return derived from the asset’s sensitivity to the market.
 3. **Enhanced Modeling**: Incorporating residual volatility in algorithmic models leads to more accurate pricing, better hedging, and optimized [trading strategies](../t/trading_strategies.md).
 4. **[Performance Attribution](../p/performance_attribution.md)**: Residual [volatility analysis](../v/volatility_analysis.md) assists in understanding the sources of portfolio returns, distinguishing between market-driven and security-specific performance.
 

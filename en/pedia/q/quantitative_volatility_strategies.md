@@ -58,7 +58,7 @@ Monte Carlo simulations are used to model the probability of different outcomes 
 
 ### Machine Learning
 
-Machine learning can be used to predict volatility by analyzing patterns that might not be apparent through traditional statistical methods. Techniques like neural networks and reinforcement learning are gaining popularity.
+Machine learning can be used to predict volatility by analyzing patterns that might not be apparent through traditional statistical methods. Techniques like [neural networks](../n/neural_networks_in_trading.md) and reinforcement learning are gaining popularity.
 
 ## Key Metrics
 
@@ -76,7 +76,7 @@ Volatility strategies inherently involve risks that must be managed through:
 
 1. **Hedging:** Using other instruments to offset risk.
 2. **Diversification:** Spreading risk across various assets.
-3. **Stress Testing:** Simulating extreme market conditions to measure potential impact.
+3. **[Stress Testing](../s/stress_testing_in_trading.md):** Simulating extreme market conditions to measure potential impact.
 
 ## Practical Implementations
 
@@ -96,5 +96,5 @@ Many hedge funds and trading firms specialize in volatility trading. Notable fir
 
 ## Conclusion
 
-Quantitative volatility strategies offer a robust framework for trading and [risk management](../r/risk_management.md), harnessing the power of mathematical models and computational techniques. As markets evolve, these strategies continue to adapt, incorporating advancements in technology and data analytics to maintain their edge.
+Quantitative volatility strategies offer a robust framework for trading and [risk management](../r/risk_management.md), harnessing the power of [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques. As markets evolve, these strategies continue to adapt, incorporating advancements in technology and data analytics to maintain their edge.
 

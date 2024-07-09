@@ -1,11 +1,11 @@
 # Z-Test Financial Models
 
-The Z-Test is a statistical test used to determine whether there is a significant difference between the means of two groups. It leverages the Z-distribution, which tells us how many standard deviations away from the mean a data point is. In financial models, Z-Tests can be a powerful tool for [hypothesis testing](../h/hypothesis_testing.md), enabling traders and analysts to make data-driven decisions.
+The [Z-Test](../z/z-test_in_trading.md) is a statistical test used to determine whether there is a significant difference between the means of two groups. It leverages the Z-distribution, which tells us how many standard deviations away from the mean a data point is. In financial models, Z-Tests can be a powerful tool for [hypothesis testing](../h/hypothesis_testing.md), enabling traders and analysts to make data-driven decisions.
 
 ## Key Concepts of Z-Test
 
 ### 1. Hypothesis Testing
-[Hypothesis testing](../h/hypothesis_testing.md) is a method of making decisions using data. In the Z-Test context, it involves the formulation of two hypotheses:
+[Hypothesis testing](../h/hypothesis_testing.md) is a method of making decisions using data. In the [Z-Test](../z/z-test_in_trading.md) context, it involves the formulation of two hypotheses:
 - **Null Hypothesis (H₀)**: Assumes no effect or no difference between groups.
 - **Alternative Hypothesis (H₁ or Ha)**: Assumes some effect or a difference between groups.
 
@@ -18,7 +18,7 @@ where:
 - \( \sigma \) is the population standard deviation
 
 ### 3. Standard Normal Distribution
-The Z-Test assumes that the data follows a normal distribution, sometimes referred to as the "bell curve."
+The [Z-Test](../z/z-test_in_trading.md) assumes that the data follows a [normal distribution](../n/normal_distribution_in_trading.md), sometimes referred to as the "bell curve."
 
 ### 4. Significance Level
 The significance level (\(\alpha\)), often set at 0.05, is the probability of rejecting the null hypothesis when it is actually true. It defines the threshold for determining whether an observed effect is statistically significant.
@@ -35,14 +35,14 @@ In financial markets, analysts often compare the prices of a stock at different 
 Z-Tests can be used to compare the performance of different portfolios against a benchmark index to assess if a portfolio manager has added significant value.
 
 ### 3. Economic Indicators
-Financial analysts often use Z-Tests to compare [economic indicators](../e/economic_indicators.md) (e.g., GDP growth rates) between different countries or different time periods.
+Financial analysts often use Z-Tests to compare [economic indicators](../e/economic_indicators.md) (e.g., GDP [growth rates](../g/growth_rates_in_trading.md)) between different countries or different time periods.
 
 ### 4. Trading Strategies
 Algorithmic traders use Z-Tests to validate the performance of different [trading strategies](../t/trading_strategies.md) under various market conditions.
 
 ### Practical Example: Z-Test for Stock Returns
 
-Suppose you are analyzing the returns of a stock. You want to determine if the mean return of the stock over the last year is significantly different from zero. Here’s how you would perform a Z-Test:
+Suppose you are analyzing the returns of a stock. You want to determine if the mean return of the stock over the last year is significantly different from zero. Here’s how you would perform a [Z-Test](../z/z-test_in_trading.md):
 
 1. **State Hypotheses**:
    - Null Hypothesis (H₀): μ = 0 (The mean return is zero)
@@ -71,7 +71,7 @@ Excel provides built-in functions for performing Z-Tests (`Z.TEST`).
 Python's `SciPy` library includes functions for Z-Tests (`scipy.stats.ztest`).
 
 ### 3. R
-R is another powerful tool with built-in functions for Z-Test (`z.test`).
+R is another powerful tool with built-in functions for [Z-Test](../z/z-test_in_trading.md) (`z.test`).
 
 ### 4. MATLAB
 MATLAB also offers functionalities to perform Z-Tests with functions like `ztest`.
@@ -96,6 +96,6 @@ Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ## Conclusion
 
-The Z-Test offers a robust methodology for [hypothesis testing](../h/hypothesis_testing.md) in financial models. From stock price analysis to [portfolio performance](../p/portfolio_performance.md) evaluation and trading strategy validation, Z-Tests enable financial analysts and traders to make informed, data-driven decisions.
+The [Z-Test](../z/z-test_in_trading.md) offers a robust methodology for [hypothesis testing](../h/hypothesis_testing.md) in financial models. From stock price analysis to [portfolio performance](../p/portfolio_performance.md) evaluation and trading strategy validation, Z-Tests enable financial analysts and traders to make informed, data-driven decisions.
 
 By incorporating Z-Tests into [financial modeling](../f/financial_modeling.md), organizations can improve the accuracy of their predictions and the effectiveness of their [trading strategies](../t/trading_strategies.md), thereby gaining a competitive edge in the financial markets.

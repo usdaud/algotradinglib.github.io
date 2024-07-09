@@ -29,9 +29,9 @@ Kondratieff identified several major long waves in economic history:
 
 #### Technological Integration
 
-Modern technology, particularly in the field of data science and machine learning, enhances the application of [Kondratieff waves](../k/kondratieff_waves.md) in trading. Here's how:
+Modern technology, particularly in the field of [data science](../d/data_science_in_trading.md) and machine learning, enhances the application of [Kondratieff waves](../k/kondratieff_waves.md) in trading. Here's how:
 
-- **Big Data Analysis**: Financial markets generate vast amounts of data. Algorithms powered by big data analytics can sift through historical market data to identify trends corresponding to different phases of [Kondratieff waves](../k/kondratieff_waves.md).
+- **[Big Data](../b/big_data_in_trading.md) Analysis**: Financial markets generate vast amounts of data. Algorithms powered by [big data analytics](../b/big_data_analytics_in_trading.md) can sift through historical market data to identify trends corresponding to different phases of [Kondratieff waves](../k/kondratieff_waves.md).
 - **Machine Learning**: Machine learning models can be trained on historical economic and market data to predict the phases of Kondratieff cycles. These models can continuously improve as they process more data, leading to more accurate predictions.
 - **[Automated Trading Systems](../a/automated_trading_systems.md)**: These systems can be programmed to adjust [trading strategies](../t/trading_strategies.md) based on the identified phase of the Kondratieff cycle. For example, an algorithm might increase exposure to tech stocks during the expansion phase and shift to defensive assets like bonds or gold during the contraction phase.
 

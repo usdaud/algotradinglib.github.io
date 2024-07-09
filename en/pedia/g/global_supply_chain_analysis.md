@@ -44,13 +44,13 @@ Differing trade policies and regulations across countries can complicate global 
 
 ### 4.4 Technological Integration
 
-Leveraging technology for supply chain management is essential but can be challenging. Integrating various software systems, ensuring cybersecurity, and adopting new technologies like blockchain and IoT are critical considerations.
+Leveraging technology for supply chain management is essential but can be challenging. Integrating various software systems, ensuring cybersecurity, and adopting new technologies like [blockchain](../b/blockchain_in_trading.md) and IoT are critical considerations.
 
 ## 5. Technological Advancements
 
 ### 5.1 Blockchain
 
-Blockchain technology offers enhanced transparency and traceability in supply chains. By providing an immutable ledger of transactions, it helps in tracking the movement of goods and verifying authenticity.
+[Blockchain](../b/blockchain_in_trading.md) technology offers enhanced transparency and traceability in supply chains. By providing an immutable ledger of transactions, it helps in tracking the movement of goods and verifying authenticity.
 
 ### 5.2 Internet of Things (IoT)
 
@@ -58,7 +58,7 @@ IoT devices can provide real-time data on the location and condition of goods in
 
 ### 5.3 Artificial Intelligence (AI)
 
-AI can optimize various aspects of supply chain management including [demand forecasting](../d/demand_forecasting.md), route planning, and inventory management. Machine learning algorithms analyze historical data to predict future trends and make informed decisions.
+AI can optimize various aspects of supply chain management including [demand forecasting](../d/demand_forecasting.md), route planning, and inventory management. Machine [learning algorithms](../l/learning_algorithms_in_trading.md) analyze historical data to predict future trends and make informed decisions.
 
 ### 5.4 Automation and Robotics
 
@@ -86,7 +86,7 @@ While globalization remains a trend, there is also a move towards localization t
 
 ### 7.3 Advanced Analytics
 
-Advanced analytics will play a significant role in the future of supply chains. Big data and [predictive analytics](../p/predictive_analytics.md) will help companies optimize operations, reduce costs, and improve decision-making.
+Advanced analytics will play a significant role in the future of supply chains. [Big data](../b/big_data_in_trading.md) and [predictive analytics](../p/predictive_analytics.md) will help companies optimize operations, reduce costs, and improve decision-making.
 
 ### 7.4 3D Printing
 

@@ -4,7 +4,7 @@ In the competitive world of financial trading, leveraging computational technolo
 
 ### Algorithmic Trading Overview
 
-[Algorithmic trading](../a/algorithmic_trading.md) involves using specific rules, derived from both historical analysis and real-time data, to trade securities such as stocks, options, and futures. Algorithms can be programmed to follow a range of strategies, from simple ones like moving averages and [arbitrage](../a/arbitrage.md) to more complex strategies incorporating neural networks, machine learning, and [quantitative analysis](../q/quantitative_analysis.md). Some of the most common types of [algorithmic trading](../a/algorithmic_trading.md) include high-frequency trading (HFT), market making, statistical [arbitrage](../a/arbitrage.md), and momentum strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using specific rules, derived from both historical analysis and real-time data, to trade securities such as stocks, options, and futures. Algorithms can be programmed to follow a range of strategies, from simple ones like moving averages and [arbitrage](../a/arbitrage.md) to more complex strategies incorporating [neural networks](../n/neural_networks_in_trading.md), machine learning, and [quantitative analysis](../q/quantitative_analysis.md). Some of the most common types of [algorithmic trading](../a/algorithmic_trading.md) include high-frequency trading (HFT), market making, statistical [arbitrage](../a/arbitrage.md), and momentum strategies.
 
 ### Key Components of Algorithmic Trading Systems
 
@@ -30,7 +30,7 @@ High-Performance Computing is particularly valuable in [algorithmic trading](../
 
 3. **Low-Latency Networks**: High-frequency trading relies heavily on low-latency networks to execute trades in microseconds. Data centers and exchanges often use specialized hardware like FPGA (Field Programmable Gate Arrays) to minimize network latency.
 
-4. **Cloud Computing**: Financial firms are increasingly turning to cloud solutions for scaling their computational resources. Cloud computing offers flexibility, scalability, and cost-effectiveness, making it ideal for [backtesting](../b/backtesting.md), data analysis, and even real-time trading.
+4. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Financial firms are increasingly turning to cloud solutions for scaling their computational resources. [Cloud computing](../c/cloud_computing_in_trading.md) offers flexibility, scalability, and cost-effectiveness, making it ideal for [backtesting](../b/backtesting.md), data analysis, and even real-time trading.
 
 5. **Machine Learning Frameworks**: HPC technologies often integrate with advanced machine learning frameworks like TensorFlow, PyTorch, and Apache Spark. These frameworks can be optimized to run on GPUs (Graphics Processing Units), thereby parallelizing computation and speeding up strategy development and [backtesting](../b/backtesting.md).
 
@@ -46,7 +46,7 @@ CEP involves tracking and analyzing streams of information about events and maki
 
 #### Risk Management
 
-Managing risk in real-time involves analyzing a wide range of factors, including market volatility, liquidity, and [counterparty risk](../c/counterparty_risk.md). HPC platforms can run complex risk models faster than traditional systems, allowing for timely adjustments to [trading strategies](../t/trading_strategies.md).
+Managing risk in real-time involves analyzing a wide range of factors, including market volatility, liquidity, and [counterparty risk](../c/counterparty_risk.md). HPC platforms can run complex [risk models](../r/risk_models_in_trading.md) faster than traditional systems, allowing for timely adjustments to [trading strategies](../t/trading_strategies.md).
 
 #### Optimization
 
@@ -56,11 +56,11 @@ Managing risk in real-time involves analyzing a wide range of factors, including
 
 #### Renaissance Technologies
 
-Renaissance Technologies, one of the most successful hedge funds in the world, leverages HPC for its [trading strategies](../t/trading_strategies.md). Founded by Jim Simons, a former mathematician, the firm employs complex mathematical models to detect inefficiencies in the market. Their Medallion Fund is known for its consistent high returns, attributed in part to its use of high-performance computational techniques.
+Renaissance Technologies, one of the most successful hedge funds in the world, leverages HPC for its [trading strategies](../t/trading_strategies.md). Founded by Jim Simons, a former mathematician, the firm employs complex [mathematical models](../m/mathematical_models_in_trading.md) to detect inefficiencies in the market. Their Medallion Fund is known for its consistent high returns, attributed in part to its use of high-performance computational techniques.
 
 #### Two Sigma
 
-Two Sigma Investments is another prominent firm that extensively uses HPC and machine learning for trading. Their strategies are heavily research-driven, relying on large datasets and complex algorithms. The firm has stated that it uses cloud computing and scalable data storage to enhance its trading capabilities.
+Two Sigma Investments is another prominent firm that extensively uses HPC and machine learning for trading. Their strategies are heavily research-driven, relying on large datasets and complex algorithms. The firm has stated that it uses [cloud computing](../c/cloud_computing_in_trading.md) and scalable data storage to enhance its trading capabilities.
 
 Website: [Two Sigma](https://www.twosigma.com/)
 
@@ -68,7 +68,7 @@ Website: [Two Sigma](https://www.twosigma.com/)
 
 #### Quantum Computing
 
-While still in its early stages, quantum computing has the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md). Quantum computers can perform complex calculations at speeds far beyond current supercomputers, enabling more sophisticated [trading strategies](../t/trading_strategies.md) and risk models.
+While still in its early stages, [quantum computing](../q/quantum_computing_in_trading.md) has the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md). Quantum computers can perform complex calculations at speeds far beyond current supercomputers, enabling more sophisticated [trading strategies](../t/trading_strategies.md) and [risk models](../r/risk_models_in_trading.md).
 
 #### Real-Time Analytics
 
@@ -76,7 +76,7 @@ As financial markets become more data-driven, the need for real-time analytics i
 
 #### Advanced Machine Learning
 
-Machine learning algorithms are becoming more advanced, and their integration with HPC is likely to produce even more sophisticated [trading strategies](../t/trading_strategies.md). Techniques like deep learning and reinforcement learning are expected to become more prevalent in the trading domain.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are becoming more advanced, and their integration with HPC is likely to produce even more sophisticated [trading strategies](../t/trading_strategies.md). Techniques like deep learning and reinforcement learning are expected to become more prevalent in the trading domain.
 
 ### Conclusion
 

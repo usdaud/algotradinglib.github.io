@@ -73,7 +73,7 @@ Liability-Driven Investment (LDI) is a strategy primarily used by pension funds 
 
 ### Implementation Steps for LDI
 1. **Liability Analysis**:
-    - Conduct a thorough analysis of the liabilities, understanding their nature, timing, and sensitivity to various risk factors.
+    - Conduct a thorough analysis of the liabilities, understanding their nature, timing, and sensitivity to various [risk factors](../r/risk_factors_in_trading.md).
     - This involves actuarial assessments and projections to accurately model the future liability stream.
 
 2. **Asset Selection**:

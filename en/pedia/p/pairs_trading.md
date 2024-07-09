@@ -56,6 +56,6 @@ Another notable example is Two Sigma, a firm that uses machine learning, distrib
 
 ## Future of Pairs Trading
 
-With advancements in technology and the increasing availability of data, pairs [trading strategies](../t/trading_strategies.md) are becoming more sophisticated. Machine learning and artificial intelligence are playing significant roles in identifying new pairs and optimizing [trading strategies](../t/trading_strategies.md). High-frequency trading firms continue to develop and refine algorithms that can execute pairs trades in milliseconds, capturing fleeting [arbitrage](../a/arbitrage.md) opportunities.
+With advancements in technology and the increasing availability of data, pairs [trading strategies](../t/trading_strategies.md) are becoming more sophisticated. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are playing significant roles in identifying new pairs and optimizing [trading strategies](../t/trading_strategies.md). High-frequency trading firms continue to develop and refine algorithms that can execute pairs trades in milliseconds, capturing fleeting [arbitrage](../a/arbitrage.md) opportunities.
 
 Despite its complexity and potential risks, pairs trading remains a robust strategy for quantitatively inclined traders. Its market-neutral nature, statistical foundation, and adaptability to various market conditions make it an enduring and potentially lucrative trading approach.

@@ -35,7 +35,7 @@ Quarterly earnings reports are generally released in accordance with the followi
 [Algorithmic trading](../a/algorithmic_trading.md) systems leverage quarterly earnings reports in several ways:
 
 1. **[Earnings Surprises](../e/earnings_surprises.md)**: Algorithms are designed to detect [earnings surprises](../e/earnings_surprises.md) – instances when reported earnings differ significantly from analyst expectations. Positive surprises can trigger buy signals, while negative surprises may prompt selling.
-2. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Natural Language Processing (NLP) techniques are used to parse the textual content of earnings reports and earnings call transcripts to gauge market sentiment.
+2. **[Sentiment Analysis](../s/sentiment_analysis.md)**: [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques are used to parse the textual content of earnings reports and earnings call transcripts to gauge market sentiment.
 3. **Quantitative Indicators**: Algorithms analyze quantitative metrics from the reports to update financial models and investment strategies.
 4. **[Pattern Recognition](../p/pattern_recognition.md)**: Historical earnings data is used to identify patterns and trends that can predict future stock performance.
 5. **Volatility Predictions**: Earnings reports often lead to increased stock volatility. Algorithms can be fine-tuned to exploit this volatility through strategies like straddles and strangles in options trading.

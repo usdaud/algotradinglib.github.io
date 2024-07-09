@@ -6,7 +6,7 @@ Unusual [trading volume analysis](../t/trading_volume_analysis.md) is a signific
 
 Trading volume represents the number of shares or contracts traded in a security or market over a specified period. It is a crucial metric because it can:
 
-1. **Indicate Market Interest and Sentiment:** High trading volumes can signal strong interest and positive or negative sentiment towards a particular asset. Conversely, low volumes might indicate a lack of interest or uncertainty.
+1. **Indicate Market Interest and Sentiment:** High trading volumes can signal strong interest and positive or negative sentiment towards a particular asset. Conversely, low volumes might indicate a lack of interest or [uncertainty](../u/uncertainty_in_trading.md).
 2. **Precede Price Movements:** Sudden spikes or drops in trading volume often precede significant price movements, serving as early indicators for traders.
 3. **Confirm Trends and Patterns:** [Volume analysis](../v/volume_analysis.md) can confirm the validity of price trends, patterns, and breakouts. High volume during an uptrend suggests strength, while low volume can indicate weakening momentum.
 
@@ -72,7 +72,7 @@ Several tools and platforms offer functionalities for unusual [trading volume an
 
 ### 2. Thomson Reuters Eikon
 
-Thomson [Reuters](../r/reuters.md) Eikon provides [volume analysis](../v/volume_analysis.md) capabilities, including volume heatmaps, historical comparisons, and volume [trend indicators](../t/trend_indicators.md). (https://www.refinitiv.com/en/products/eikon-trading-software)
+Thomson [Reuters](../r/reuters.md) Eikon provides [volume analysis](../v/volume_analysis.md) capabilities, including volume [heatmaps](../h/heatmaps_in_trading.md), historical comparisons, and volume [trend indicators](../t/trend_indicators.md). (https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### 3. TradeStation
 

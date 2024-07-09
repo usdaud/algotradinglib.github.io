@@ -10,7 +10,7 @@ Saxo Bank is a leading online trading and investment specialist, offering a comp
 4. **Market Research and Analysis**: Access to comprehensive research reports, market news, and advanced analysis tools.
 5. **Educational Resources**: Extensive educational materials, including webinars, tutorials, articles, and market analysis to help traders improve their skills.
 6. **Automated Trading**: Supports automated [trading strategies](../t/trading_strategies.md) and [algorithmic trading](../a/algorithmic_trading.md) through APIs and third-party integrations.
-7. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced order types, [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
+7. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced [order types](../o/order_types_in_trading.md), [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
 8. **[Portfolio Management](../p/portfolio_management.md)**: Tools for tracking and managing investment portfolios efficiently.
 9. **Multi-Currency Accounts**: Trade and hold multiple currencies within a single account.
 10. **Secure and Regulated**: Saxo Bank is regulated by top-tier financial authorities, ensuring a secure [trading environment](../t/trading_environment.md).

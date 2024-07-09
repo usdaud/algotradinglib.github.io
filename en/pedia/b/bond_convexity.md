@@ -37,7 +37,7 @@ Consider two bonds, Bond A and Bond B, with identical durations but different co
 - If interest rates drop, Bond A's price will increase more than that of Bond B due to its higher convexity.
 - Conversely, if interest rates rise, the price of Bond A will fall less than that of Bond B.
 
-Thus, investors preferring less volatile investments in times of interest rate uncertainty might prefer bonds with higher convexity.
+Thus, investors preferring less volatile investments in times of interest rate [uncertainty](../u/uncertainty_in_trading.md) might prefer bonds with higher convexity.
 
 #### Applications in Algorithmic Trading
 

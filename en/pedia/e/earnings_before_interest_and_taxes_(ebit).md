@@ -15,7 +15,7 @@ Alternatively, it can be derived from operating income in the income statement, 
 ### Importance of EBIT
 
 1. **[Comparative Analysis](../c/comparative_analysis.md)**: EBIT enables apples-to-apples comparisons between companies differentially leveraged and operating in various tax jurisdictions.
-2. **Operational Efficiency**: By excluding interest and taxes, EBIT focuses solely on the company's operational earning power.
+2. **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**: By excluding interest and taxes, EBIT focuses solely on the company's operational earning power.
 3. **Valuation Metric**: Many [valuation multiples](../v/valuation_multiples.md) such as EV/EBIT (Enterprise Value to EBIT) use EBIT to help stakeholders understand a company's valuation.
 4. **Indicator of Financial Health**: A higher EBIT suggests better operational performance, which is crucial for debt servicing capability and potential growth opportunities.
 

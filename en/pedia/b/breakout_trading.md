@@ -44,7 +44,7 @@ Breakout trading can be applied across various time frames, from intraday to lon
 
 ### Classic Breakout Strategy
 
-The classic breakout strategy involves identifying [key support and resistance levels](../k/key_support_and_resistance_levels.md) on a price chart and entering trades when the price breaks through these levels. Traders often use [technical indicators](../t/technical_indicators.md) such as moving averages, [Bollinger Bands](../b/bollinger_bands.md), or the Relative Strength Index (RSI) to confirm breakouts and filter false signals.
+The classic breakout strategy involves identifying [key support and resistance levels](../k/key_support_and_resistance_levels.md) on a price chart and entering trades when the price breaks through these levels. Traders often use [technical indicators](../t/technical_indicators.md) such as moving averages, [Bollinger Bands](../b/bollinger_bands.md), or the Relative Strength Index (RSI) to confirm breakouts and filter [false signals](../f/false_signals_in_trading.md).
 
 ### Range Breakout Strategy
 
@@ -56,7 +56,7 @@ Trendline breakouts involve drawing trendlines connecting successive highs or lo
 
 ### Volatility Breakout Strategy
 
-The volatility breakout strategy leverages market volatility to identify potential breakouts. Traders use indicators such as the Average True Range (ATR) or [Bollinger Bands](../b/bollinger_bands.md) to measure volatility and set entry points. When the price moves beyond the predetermined volatility levels, traders enter trades, anticipating large price swings.
+The volatility breakout strategy leverages market volatility to identify potential breakouts. Traders use indicators such as the [Average True Range](../a/average_true_range_(atr).md) (ATR) or [Bollinger Bands](../b/bollinger_bands.md) to measure volatility and set entry points. When the price moves beyond the predetermined volatility levels, traders enter trades, anticipating large price swings.
 
 ### News Breakout Strategy
 

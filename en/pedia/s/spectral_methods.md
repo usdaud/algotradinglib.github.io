@@ -23,7 +23,7 @@ The Power Spectral Density (PSD) describes how the power of a time-series signal
 
 ### Wavelet Transform
 
-While the Fourier Transform provides insight into the frequency domain, it doesn't offer information about when those frequencies occur. The Wavelet Transform overcomes this limitation by providing both time and frequency domain information. This is particularly advantageous for analyzing non-stationary financial time-series data, where statistical properties vary over time.
+While the Fourier Transform provides insight into the frequency domain, it doesn't offer information about when those frequencies occur. The [Wavelet Transform](../w/wavelet_transform_in_trading.md) overcomes this limitation by providing both time and frequency domain information. This is particularly advantageous for analyzing non-stationary financial time-series data, where statistical properties vary over time.
 
 ## Applications in Algorithmic Trading
 
@@ -64,15 +64,15 @@ Several software packages and libraries offer robust implementations of spectral
 
 ### Case Study: Detecting Seasonal Patterns 
 
-One practical application of spectral methods in [algorithmic trading](../a/algorithmic_trading.md) is detecting seasonal patterns in asset prices. For example, agricultural commodities often exhibit seasonal cycles due to planting and harvesting periods. By conducting a [spectral analysis](../s/spectral_analysis.md) using the PSD, traders can identify these seasonal components and incorporate them into their predictive models.
+One practical application of spectral methods in [algorithmic trading](../a/algorithmic_trading.md) is detecting seasonal patterns in asset prices. For example, agricultural commodities often exhibit seasonal cycles due to planting and harvesting periods. By conducting a [spectral analysis](../s/spectral_analysis.md) using the PSD, traders can identify these seasonal components and incorporate them into their [predictive models](../p/predictive_models_in_trading.md).
 
 ### Case Study: Enhancing Portfolio Optimization
 
-In [portfolio management](../p/portfolio_management.md), PCA can be used to decompose the covariance matrix of asset returns, identifying principal components that explain the most variance. This can help in constructing more efficient portfolios by focusing on the underlying factors driving market movements.
+In [portfolio management](../p/portfolio_management.md), PCA can be used to decompose the covariance matrix of asset returns, identifying [principal components](../p/principal_components_in_trading.md) that explain the most variance. This can help in constructing more efficient portfolios by focusing on the underlying factors driving market movements.
 
 ### Future Directions
 
-As financial markets continue to evolve, the role of spectral methods in [algorithmic trading](../a/algorithmic_trading.md) is likely to expand. With advancements in machine learning and artificial intelligence, hybrid models that combine [spectral analysis](../s/spectral_analysis.md) with deep learning techniques are beginning to emerge, offering even more powerful tools for traders.
+As financial markets continue to evolve, the role of spectral methods in [algorithmic trading](../a/algorithmic_trading.md) is likely to expand. With advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), hybrid models that combine [spectral analysis](../s/spectral_analysis.md) with deep learning techniques are beginning to emerge, offering even more powerful tools for traders.
 
 ## Conclusion
 

@@ -65,7 +65,7 @@ The trinomial tree model subdivides the price movements further to provide more 
 
 #### Advantages:
 
-1. **Flexibility**: Lattice models can handle a variety of [derivatives](../d/derivatives.md), including [exotic options](../e/exotic_options.md) and those with path dependency.
+1. **Flexibility**: Lattice models can handle a variety of [derivatives](../d/derivatives.md), including [exotic options](../e/exotic_options.md) and those with [path dependency](../p/path_dependency_in_trading.md).
 2. **Intuitive Approach**: The step-by-step construction of price movements provides insights into the dynamics of option pricing.
 3. **Application to American Options**: Unlike the [Black-Scholes model](../b/black-scholes_model.md), lattice models can efficiently price American options, which involve early exercise.
 
@@ -77,7 +77,7 @@ The trinomial tree model subdivides the price movements further to provide more 
 
 ### Practical Applications
 
-Lattice-based models have found widespread application in financial technology companies and investment firms focusing on derivative pricing, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md). Some companies renowned for utilizing advanced mathematical models include:
+Lattice-based models have found widespread application in financial technology companies and investment firms focusing on derivative pricing, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md). Some companies renowned for utilizing advanced [mathematical models](../m/mathematical_models_in_trading.md) include:
 
 - **[QuantConnect](../q/quantconnect.md)**: A platform providing [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) engines that integrate various financial models, including lattice-based approaches.
   [QuantConnect](https://www.quantconnect.com/)

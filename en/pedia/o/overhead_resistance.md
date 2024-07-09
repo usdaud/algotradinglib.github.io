@@ -12,7 +12,7 @@ In algo-trading, the identification and analysis of overhead resistance levels a
 - **Setting Stop-Loss and Take-Profit Levels**: Algorithms use overhead resistance to set stop-loss and take-profit orders. Knowing where resistance is can help in minimizing losses and locking in profits.
 - **[Trend Analysis](../t/trend_analysis.md)**: Algorithms can identify and follow trends effectively by understanding where resistance levels lie. The inability to break through resistance may signal a [trend reversal](../t/trend_reversal.md).
 - **Automated Decision Making**: [Automated trading systems](../a/automated_trading_systems.md) rely on precise data and predefined rules. By integrating overhead resistance levels into their calculations, these systems can make more informed trading decisions.
-- **[Risk Management](../r/risk_management.md)**: Knowing overhead resistance helps in assessing the risk. If an asset is close to a resistance level, the upside potential might be limited, and the risk of reversal may be higher.
+- **[Risk Management](../r/risk_management.md)**: Knowing overhead resistance helps in assessing the risk. If an asset is close to a resistance level, the [upside potential](../u/upside_potential_in_trading.md) might be limited, and the risk of reversal may be higher.
 
 ## Identifying Overhead Resistance
 [Trading algorithms](../t/trading_algorithms.md) typically use various methods to identify overhead resistance levels, such as:
@@ -65,9 +65,9 @@ This involves algorithms that are designed to trade on the breakout of resistanc
 [QuantConnect](../q/quantconnect.md) provides comprehensive tools and data through its cloud-based algorithm development environment. Strategies incorporating resistance levels can be backtested and optimized using historical data and a wide range of indicators.
 
 ## Risk Factors and Limitations
-[Trading algorithms](../t/trading_algorithms.md) that use overhead resistance as part of their strategy need to consider several risk factors and limitations:
+[Trading algorithms](../t/trading_algorithms.md) that use overhead resistance as part of their strategy need to consider several [risk factors](../r/risk_factors_in_trading.md) and limitations:
 
-- **False Breakouts**: Sometimes prices temporarily break through resistance only to fall back. Algorithms must account for these false signals to prevent unnecessary losses.
+- **False Breakouts**: Sometimes prices temporarily break through resistance only to fall back. Algorithms must account for these [false signals](../f/false_signals_in_trading.md) to prevent unnecessary losses.
 - **Market Sentiment**: External factors like news and economic events can significantly influence market conditions, causing resistance levels to behave unpredictably.
 - **Latency and Execution Speed**: The effectiveness of an algorithm heavily depends on how quickly it can process data and execute trades. Delays can lead to missed trading opportunities or suboptimal entry and exit points.
 - **Overfitting**: Excessive focus on historical resistance levels can lead to overfitting, making the algorithm less effective in changing market conditions.

@@ -47,7 +47,7 @@ The essence of Value-Momentum Investing lies in identifying stocks that are unde
 
 #### Tools and Software for Value-Momentum Investing
 
-Several advanced software tools can assist in implementing a Value-Momentum Investing strategy effectively:
+Several advanced [software tools](../s/software_tools_for_trading.md) can assist in implementing a Value-Momentum Investing strategy effectively:
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers extensive financial data, analytics, and tools for both value and [momentum analysis](../m/momentum_analysis.md).
 - **[Morningstar](../m/morningstar.md) Direct**: Provides comprehensive data that can help in screening value stocks and analyzing momentum.

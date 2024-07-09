@@ -4,7 +4,7 @@ Utility-Based Trading is an advanced financial strategy in the realm of [algorit
 
 ### Definition and Concepts
 
-Utility-Based Trading leverages economic theories on utility functions, which are mathematical representations of the satisfaction or value that an investor derives from their investment decisions. Unlike traditional models that focus purely on returns, utility-based models also weigh the associated risks and the investor's individual risk tolerance, ultimately aiming for an optimal balance between risk and reward.
+Utility-Based Trading leverages economic theories on [utility functions](../u/utility_functions_in_trading.md), which are mathematical representations of the satisfaction or value that an investor derives from their investment decisions. Unlike traditional models that focus purely on returns, utility-based models also weigh the associated risks and the investor's individual risk tolerance, ultimately aiming for an optimal balance between risk and reward.
 
 #### Utility Function
 
@@ -16,13 +16,13 @@ In economics, a **utility function** represents a person's preferences over a se
 
 2. **Expected [Utility Maximization](../u/utility_maximization.md)**: This is a fundamental principle where the investor aims to maximize the expected value of their utility function rather than just expected returns. Expected [utility maximization](../u/utility_maximization.md) involves considering the probabilities of different outcomes and their respective utilities.
 
-3. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Utility-based trading seeks the optimal portfolio allocation that maximizes the investor's expected utility. This is typically achieved through advanced mathematical methods like dynamic programming or [stochastic control](../s/stochastic_control.md) theory.
+3. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Utility-based trading seeks the optimal portfolio allocation that maximizes the investor's expected utility. This is typically achieved through advanced mathematical methods like [dynamic programming](../d/dynamic_programming_in_trading.md) or [stochastic control](../s/stochastic_control.md) theory.
 
 4. **Dynamic Adjustment**: The strategy often involves continuously adjusting the portfolio in accordance with changes in market conditions and personal circumstances of the investor.
 
 ### Utility Functions in Detail
 
-Different forms of utility functions can be employed depending on the type of risk aversion:
+Different forms of [utility functions](../u/utility_functions_in_trading.md) can be employed depending on the type of risk aversion:
 
 - **Linear Utility Function**: Represents risk-neutral behavior, where the trader is indifferent to risk.
   
@@ -47,7 +47,7 @@ Utility-based principles can be incorporated into [automated trading systems](..
 At the core of utility-based trading is advanced mathematics. Some key techniques include:
 
 - **[Stochastic Calculus](../s/stochastic_calculus.md)**: Used for modeling random processes that affect asset prices.
-- **Dynamic Programming**: Helps in solving optimization problems where decisions are made sequentially.
+- **[Dynamic Programming](../d/dynamic_programming_in_trading.md)**: Helps in solving optimization problems where decisions are made sequentially.
 - **[Stochastic Control](../s/stochastic_control.md) Theory**: Focuses on controlling systems that are influenced by random external disturbances.
 
 ### Advantages
@@ -78,4 +78,4 @@ Utility-based trading has been adopted by various financial institutions and hed
 
 ### Conclusion
 
-Utility-Based Trading represents a sophisticated approach to [algorithmic trading](../a/algorithmic_trading.md), focusing on maximizing an investor's utility function rather than purely seeking profit. By incorporating risk preferences and advanced mathematical models, this strategy provides a balanced methodology that aligns closely with the individual investor’s goals and risk tolerance. Despite its complexity, the benefits of personalized [risk management](../r/risk_management.md) and objective decision-making make utility-based trading a valuable tool in the modern financial landscape.
+Utility-Based Trading represents a sophisticated approach to [algorithmic trading](../a/algorithmic_trading.md), focusing on maximizing an investor's utility function rather than purely seeking profit. By incorporating risk preferences and advanced [mathematical models](../m/mathematical_models_in_trading.md), this strategy provides a balanced methodology that aligns closely with the individual investor’s goals and risk tolerance. Despite its complexity, the benefits of personalized [risk management](../r/risk_management.md) and objective decision-making make utility-based trading a valuable tool in the modern financial landscape.

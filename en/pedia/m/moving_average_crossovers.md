@@ -74,7 +74,7 @@ A moving average crossover occurs when one moving average crosses above or below
 
 - **Lagging Indicator:** Moving averages are inherently [lagging indicators](../l/lagging_indicators.md) and might not be as effective in predicting future price movements. They often generate signals after the initial move has occurred, sometimes leading to late entries and exits.
 
-- **[Whipsaw Effect](../w/whipsaw_effect.md):** In ranging or sideways markets, moving average crossovers can produce numerous false signals, leading to a high number of unprofitable trades. This phenomenon, known as the [whipsaw effect](../w/whipsaw_effect.md), can significantly erode profits.
+- **[Whipsaw Effect](../w/whipsaw_effect.md):** In ranging or sideways markets, moving average crossovers can produce numerous [false signals](../f/false_signals_in_trading.md), leading to a high number of unprofitable trades. This phenomenon, known as the [whipsaw effect](../w/whipsaw_effect.md), can significantly erode profits.
 
 ### Applications and Real-World Examples
 

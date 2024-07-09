@@ -30,7 +30,7 @@ Gamma is critical for several reasons:
 
 ### Gamma Exposure in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on mathematical models and computational methods to optimize [trading strategies](../t/trading_strategies.md). Gamma exposure plays a vital role in these models. Here’s how:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on [mathematical models](../m/mathematical_models_in_trading.md) and computational methods to optimize [trading strategies](../t/trading_strategies.md). Gamma exposure plays a vital role in these models. Here’s how:
 
 #### 1. Delta-Neutral Strategies
 

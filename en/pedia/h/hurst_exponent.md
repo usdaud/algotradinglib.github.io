@@ -19,7 +19,7 @@ Formally, the Hurst exponent can be derived through several methods, most popula
 3. Compute the standard deviation S of values within the segment.
 4. Divide the range R by the standard deviation S for normalization.
 5. Plot the log of the average `(R/S)` value against the log of the segment size.
-6. The slope of the line obtained from the log-log plot gives the Hurst exponent H.
+6. The slope of the line obtained from the [log-log plot](../l/log-log_plot_in_trading.md) gives the Hurst exponent H.
 
 Various algorithms and techniques, like Detrended Fluctuation Analysis (DFA) and Wavelet Multi-fractal Detrended Fluctuation Analysis (MFDFA), are used for more accurate computation of the Hurst exponent.
 
@@ -55,7 +55,7 @@ Let's run through a simplified example of how you might calculate the Hurst expo
 1. **Divide the Time Series**: Divide a time series of stock prices into several segments, each of length n.
 2. **Compute R and S**: For each segment, compute the range R (maximum value - minimum value) and the standard deviation S.
 3. **Normalize and Average R/S**: Calculate the R/S ratio for each segment and then compute the average `(R/S)_n`.
-4. **Log-Log Plot**: Plot `log((R/S)_n)` against `log(n)`.
+4. **[Log-Log Plot](../l/log-log_plot_in_trading.md)**: Plot `log((R/S)_n)` against `log(n)`.
 5. **Compute the Slope**: The slope H of the straight line fitted to the plot points is the Hurst exponent.
 
 ### Theoretical Implications

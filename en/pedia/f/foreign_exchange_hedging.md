@@ -1,6 +1,6 @@
 # Foreign Exchange Hedging
 
-Foreign exchange hedging is a fundamental practice in global finance designed to protect businesses and investors against the risks associated with fluctuations in currency exchange rates. When companies engage in international commerce or investment, they often face the uncertainty of currency movements which can affect profits, contracts, investments, and the overall financial health of the entity. Hedging utilizes various financial instruments and strategies to mitigate or manage this risk.
+Foreign exchange hedging is a fundamental practice in global finance designed to protect businesses and investors against the risks associated with fluctuations in currency exchange rates. When companies engage in international commerce or investment, they often face the [uncertainty](../u/uncertainty_in_trading.md) of currency movements which can affect profits, contracts, investments, and the overall financial health of the entity. Hedging utilizes various financial instruments and strategies to mitigate or manage this risk.
 
 ## Hedging Instruments
 
@@ -82,7 +82,7 @@ Navigating the regulatory landscape for forex hedging can be complex. Companies 
 ## Future Trends in Forex Hedging
 
 ### 1. Technological Advancements
-Automation and artificial intelligence are revolutionizing forex hedging by providing sophisticated analytics, [predictive modeling](../p/predictive_modeling.md), and automated execution. These technologies enhance precision, reduce costs, and streamline hedging operations.
+Automation and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are revolutionizing forex hedging by providing sophisticated analytics, [predictive modeling](../p/predictive_modeling.md), and automated execution. These technologies enhance precision, reduce costs, and streamline hedging operations.
 
 ### 2. Increased Integration of ESG Factors
 Environmental, social, and governance (ESG) considerations are increasingly being integrated into [hedging strategies](../h/hedging_strategies.md). Companies are factoring in ESG risks and opportunities to align their currency [risk management](../r/risk_management.md) with broader sustainability goals.

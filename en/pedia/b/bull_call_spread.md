@@ -44,7 +44,7 @@ Comparing this strategy to others helps place its utility in context:
 
 - **[Bull Put Spread](../b/bull_put_spread.md)**: A similar bullish strategy, but it involves selling a put option and buying a lower strike put, benefiting from time decay and comparatively larger credit.
 - **Long Call**: Purely buying a call option yields unlimited upside but involves a higher initial premium outlay.
-- **Covered Call**: Writing calls against owned stock, delivering income but capping upside potential.
+- **Covered Call**: Writing calls against owned stock, delivering income but capping [upside potential](../u/upside_potential_in_trading.md).
 
 #### Risks and Drawbacks
 

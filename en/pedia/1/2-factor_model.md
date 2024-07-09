@@ -77,7 +77,7 @@ Despite its usefulness, the 2-Factor Model has limitations:
    
 2. **Static Nature**: The model assumes constant factor loadings over time, which might not hold true in dynamic markets.
    
-3. **Multicollinearity**: If the chosen factors are highly correlated, it may undermine the effectiveness of the model.
+3. **[Multicollinearity](../m/multicollinearity_in_trading.md)**: If the chosen factors are highly correlated, it may undermine the effectiveness of the model.
 
 ### Real-World Example: The Fama-French 3-Factor Model
 

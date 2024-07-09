@@ -193,7 +193,7 @@ Reinforcement learning allows strategies to adapt dynamically by learning from t
 
 ### Genetic Algorithms
 
-Genetic algorithms can help optimize [trading strategies](../t/trading_strategies.md) by simulating the process of natural selection, iterating through potential solutions to find the most effective strategy parameters.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) can help optimize [trading strategies](../t/trading_strategies.md) by simulating the process of natural selection, iterating through potential solutions to find the most effective strategy parameters.
 
 ## Conclusion
 

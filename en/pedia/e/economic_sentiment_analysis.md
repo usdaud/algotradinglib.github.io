@@ -1,6 +1,6 @@
 # Economic Sentiment Analysis
 
-Economic [sentiment analysis](../s/sentiment_analysis.md) refers to the utilization of text analysis and natural language processing (NLP) techniques to assess public and market sentiment based on economic-related textual data sources. These sources can include news articles, financial reports, social media postings, professional analyses, central bank communications, and other forms of written content that contain economic information. By analyzing these texts, traders, economists, and financial analysts can gauge the overall mood or sentiment towards [economic indicators](../e/economic_indicators.md), companies, or financial markets, enabling them to make more informed decisions.
+Economic [sentiment analysis](../s/sentiment_analysis.md) refers to the utilization of text analysis and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques to assess public and market sentiment based on economic-related textual data sources. These sources can include news articles, financial reports, social media postings, professional analyses, central bank communications, and other forms of written content that contain economic information. By analyzing these texts, traders, economists, and financial analysts can gauge the overall mood or sentiment towards [economic indicators](../e/economic_indicators.md), companies, or financial markets, enabling them to make more informed decisions.
 
 ## Importance of Economic Sentiment Analysis
 
@@ -23,12 +23,12 @@ NLP allows computers to understand, interpret, and generate human language. It's
 - **Sentiment Classification**: Categorizing text data into predefined sentiment categories (positive, negative, neutral).
 
 ### Machine Learning
-Machine learning algorithms can classify text sentiment by learning from labeled datasets. Common algorithms used include:
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can classify text sentiment by learning from labeled datasets. Common algorithms used include:
 
-- **Support Vector Machines (SVM)**: A supervised learning model used for classification tasks.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: A supervised learning model used for classification tasks.
 - **Naive Bayes**: A probabilistic classifier based on Bayes’ theorem.
 - **Random Forest**: An [ensemble learning](../e/ensemble_learning.md) method that operates by constructing multiple [decision trees](../d/decision_trees.md) during training.
-- **Neural Networks**: Advanced models like recurrent neural networks (RNNs) and transformers that can capture complex patterns in text data.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Advanced models like recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs) and transformers that can capture complex patterns in text data.
 
 ### Sentiment Lexicons
 Sentiment lexicons are lists of words associated with positive or negative sentiment scores. Some popular lexicons include:
@@ -99,7 +99,7 @@ Platforms like Twitter can reflect real-time investor sentiment. Researchers hav
 ## Future Directions
 
 ### Integration with AI
-The integration of advanced AI and deep learning models promises to improve the accuracy of economic [sentiment analysis](../s/sentiment_analysis.md). Models like BERT and GPT-3 are capable of understanding context much better than traditional machine learning algorithms.
+The integration of advanced AI and deep learning models promises to improve the accuracy of economic [sentiment analysis](../s/sentiment_analysis.md). Models like BERT and GPT-3 are capable of understanding context much better than traditional machine [learning algorithms](../l/learning_algorithms_in_trading.md).
 
 ### Multilingual Sentiment Analysis
 As global markets become more interconnected, there is an increasing need for [sentiment analysis](../s/sentiment_analysis.md) across different languages. Developing multilingual models can help in assessing sentiment from international news sources.

@@ -15,13 +15,13 @@ Predictive models in trading are statistical techniques employed to forecast fut
         - **GARCH (Generalized Autoregressive Conditional Heteroskedasticity)**: Models [volatility clustering](../v/volatility_clustering.md) in time series data.
 
 3. **Machine Learning Models**:
-    - **Support Vector Machines (SVM)**: Used for classification and regression tasks. SVMs can capture non-linear relationships in data by transforming it using a kernel function.
-    - **Random Forests**: An [ensemble learning](../e/ensemble_learning.md) method that constructs multiple [decision trees](../d/decision_trees.md) to improve prediction accuracy and control overfitting.
-    - **Neural Networks**: Especially deep learning models like recurrent neural networks (RNN) and long short-term memory networks (LSTM) are highly effective in capturing complex patterns and dependencies in sequential data.
+    - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Used for classification and regression tasks. SVMs can capture non-linear relationships in data by transforming it using a kernel function.
+    - **[Random Forests](../r/random_forests_in_trading.md)**: An [ensemble learning](../e/ensemble_learning.md) method that constructs multiple [decision trees](../d/decision_trees.md) to improve prediction accuracy and control overfitting.
+    - **[Neural Networks](../n/neural_networks_in_trading.md)**: Especially deep learning models like recurrent [neural networks](../n/neural_networks_in_trading.md) (RNN) and long short-term memory networks (LSTM) are highly effective in capturing complex patterns and dependencies in sequential data.
 
 4. **[Sentiment Analysis](../s/sentiment_analysis.md) Models**:
     - By analyzing news, social media, and other textual data, [sentiment analysis](../s/sentiment_analysis.md) models gauge market sentiment, which can be predictive of market movements.
-    - Techniques include Natural Language Processing (NLP) and machine learning algorithms to classify the sentiment as positive, negative, or neutral.
+    - Techniques include [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to classify the sentiment as positive, negative, or neutral.
 
 5. **Markov Models**:
     - These models predict future states of a system based on its current state, assuming that future states are independent of past states, given the present state.
@@ -86,10 +86,10 @@ To implement predictive models in trading, several steps must be followed:
 2. **Explainable AI (XAI)**:
     - Developing models that provide insights into their decision-making process to enhance transparency and trust.
 
-3. **Quantum Computing**:
-    - Leveraging quantum computing for faster and more accurate predictions. Quantum algorithms can potentially solve complex optimization problems much quicker than classical computers.
+3. **[Quantum Computing](../q/quantum_computing_in_trading.md)**:
+    - Leveraging [quantum computing](../q/quantum_computing_in_trading.md) for faster and more accurate predictions. [Quantum algorithms](../q/quantum_algorithms_in_trading.md) can potentially solve complex optimization problems much quicker than classical computers.
 
 4. **Automated Machine Learning (AutoML)**:
     - Simplifying the model building process by automating tasks such as feature selection, model selection, and hyperparameter tuning.
 
-In conclusion, predictive models in trading have revolutionized the way market participants forecast asset prices and make trading decisions. With continuous advancements in machine learning and data analytics, these models are expected to evolve further, offering enhanced accuracy and efficiency in trading. The integration of [alternative data](../a/alternative_data.md) and emerging technologies like quantum computing will likely drive the next wave of innovations in [predictive modeling](../p/predictive_modeling.md) for trading.
+In conclusion, predictive models in trading have revolutionized the way market participants forecast asset prices and make trading decisions. With continuous advancements in machine learning and data analytics, these models are expected to evolve further, offering enhanced accuracy and efficiency in trading. The integration of [alternative data](../a/alternative_data.md) and emerging technologies like [quantum computing](../q/quantum_computing_in_trading.md) will likely drive the next wave of innovations in [predictive modeling](../p/predictive_modeling.md) for trading.

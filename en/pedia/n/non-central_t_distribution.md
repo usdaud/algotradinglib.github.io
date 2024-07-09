@@ -17,7 +17,7 @@ Where:
 
 1. **Degrees of Freedom**: Similar to the central T distribution, the non-central T distribution also defines its shape based on degrees of freedom (df). The degrees of freedom are critical in determining the exact characteristics and behavior of the distribution.
 
-2. **Non-Centrality Parameter (\( \lambda \))**: This parameter introduces a deviation from the mean. When \( \lambda = 0 \), the distribution reduces to a standard Student's T Distribution. As \( \lambda \) increases or decreases, the distribution moves away from the central normal distribution.
+2. **Non-Centrality Parameter (\( \lambda \))**: This parameter introduces a deviation from the mean. When \( \lambda = 0 \), the distribution reduces to a standard Student's T Distribution. As \( \lambda \) increases or decreases, the distribution moves away from the central [normal distribution](../n/normal_distribution_in_trading.md).
 
 3. **Mean and Variance**:
     - The mean of a non-central T distribution is non-zero and shifts according to the non-centrality parameter.
@@ -29,7 +29,7 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), the non-ce
 
 1. **Performance Analysis**: Traders often hypothesize that certain [trading strategies](../t/trading_strategies.md) have a non-zero mean return. The non-central T distribution helps in testing the effectiveness and performance of these strategies by allowing for the mean to be different from zero.
 
-2. **[Risk Management](../r/risk_management.md)**: The distribution helps in modeling the risk by accounting for non-normal distribution traits in asset returns. By incorporating the non-centrality parameter, risk measures can be adjusted for more accurate predictions.
+2. **[Risk Management](../r/risk_management.md)**: The distribution helps in modeling the risk by accounting for non-[normal distribution](../n/normal_distribution_in_trading.md) traits in asset returns. By incorporating the non-centrality parameter, risk measures can be adjusted for more accurate predictions.
 
 3. **[Backtesting](../b/backtesting.md) [Trading Strategies](../t/trading_strategies.md)**: When [backtesting](../b/backtesting.md), one needs to account for actual market conditions, which often means acknowledging that stock returns may have a non-zero mean. The non-central T distribution accommodates these conditions better than the central T distribution.
 

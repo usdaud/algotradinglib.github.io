@@ -14,7 +14,7 @@ Several factors can influence the spread on NASDAQ:
 1. **Market Liquidity**: Securities with high trading volumes typically have narrower spreads due to the greater balance between supply and demand.
 2. **Volatility**: High volatility can lead to wider spreads as market makers adjust prices to account for increased risk.
 3. **Market Maker Competition**: More competition among market makers can lead to narrower spreads, as they vie to attract trade flow by offering better prices.
-4. **Time of Day**: Spreads may vary throughout the trading day, often widening at market open and close due to higher uncertainty and lower liquidity.
+4. **Time of Day**: Spreads may vary throughout the trading day, often widening at market open and close due to higher [uncertainty](../u/uncertainty_in_trading.md) and lower liquidity.
 5. **News and Events**: Significant news releases or events can lead to temporary changes in spreads as the market reacts to new information.
 
 ## Calculating the Spread
@@ -43,7 +43,7 @@ Analyzing historical spread data can provide insights into typical spread behavi
 Visualization tools help in understanding and interpreting spread data. Platforms like Tableau or custom-built dashboards can assist in visualizing spread changes over time, highlighting patterns that might not be obvious in raw data.
 
 ### Machine Learning Models
-Machine learning techniques can be employed to predict future spread behaviors based on historical data. Models such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), or neural networks can be trained to recognize patterns and predict spread changes that can inform trading decisions.
+Machine learning techniques can be employed to predict future spread behaviors based on historical data. Models such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), or [neural networks](../n/neural_networks_in_trading.md) can be trained to recognize patterns and predict spread changes that can inform trading decisions.
 
 ## Real-Life Application: Companies Specializing in Spread Analysis
 Several firms specialize in providing tools and services for [spread analysis](../s/spread_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). One notable example is:
@@ -83,7 +83,7 @@ As technology continues to evolve, several future trends are likely to shape the
 The integration of AI into [spread analysis](../s/spread_analysis.md) will enable even more sophisticated models capable of adapting to changing market conditions and uncovering new patterns in spread behavior.
 
 ### Blockchain
-Blockchain technology may introduce new levels of transparency and security in trading activities, potentially impacting how spreads are monitored and analyzed.
+[Blockchain](../b/blockchain_in_trading.md) technology may introduce new levels of transparency and security in trading activities, potentially impacting how spreads are monitored and analyzed.
 
 ### Enhanced Real-Time Analytics
 With the continued advancement in data processing capabilities, real-time analytics will become even more powerful, offering deeper insights and enabling more proactive decision-making in spread-driven [trading strategies](../t/trading_strategies.md).

@@ -31,7 +31,7 @@ Raw financial data is collected from reliable data providers such as [Bloomberg]
 Traders select relevant [technical indicators](../t/technical_indicators.md) and metrics that rely on the lookback period. Common indicators include:
    - **Moving Averages**: Simple Moving Average (SMA), Exponential Moving Average (EMA)
    - **Oscillators**: Relative Strength Index (RSI), [Stochastic Oscillator](../s/stochastic_oscillator.md)
-   - **Volatility Measures**: [Bollinger Bands](../b/bollinger_bands.md), Average True Range (ATR)
+   - **Volatility Measures**: [Bollinger Bands](../b/bollinger_bands.md), [Average True Range](../a/average_true_range_(atr).md) (ATR)
    
 ### 3. Parameter Optimization
 
@@ -73,7 +73,7 @@ A prominent example of successful lookback period analysis is Renaissance Techno
 
 ### AQR Capital Management
 
-Another example is AQR Capital Management, a global investment firm that deploys a range of quantitative strategies. AQR's approach involves rigorous [backtesting](../b/backtesting.md) and optimization of lookback periods to enhance the predictive power of their models. More information is available on their [official website](https://www.aqr.com).
+Another example is AQR Capital Management, a global investment firm that deploys a range of [quantitative strategies](../q/quantitative_strategies_in_trading.md). AQR's approach involves rigorous [backtesting](../b/backtesting.md) and optimization of lookback periods to enhance the predictive power of their models. More information is available on their [official website](https://www.aqr.com).
 
 ## Challenges and Considerations
 

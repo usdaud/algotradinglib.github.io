@@ -36,7 +36,7 @@ X-System Testing is a series of rigorous tests designed to evaluate [trading alg
 
 ### 3. Stress Testing
 
-**Stress Testing** involves subjecting the algorithm to extreme market conditions to evaluate its robustness and resilience. This method helps identify potential points of failure and ensure the algorithm can withstand market shocks. Key considerations in stress testing include:
+**[Stress Testing](../s/stress_testing_in_trading.md)** involves subjecting the algorithm to extreme market conditions to evaluate its robustness and resilience. This method helps identify potential points of failure and ensure the algorithm can withstand market shocks. Key considerations in [stress testing](../s/stress_testing_in_trading.md) include:
 
 - **Scenario Analysis**: Simulating various market scenarios, including high volatility, low liquidity, and major market events.
 - **[Risk Metrics](../r/risk_metrics.md)**: Evaluating [risk metrics](../r/risk_metrics.md) such as Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR) under stressed conditions.
@@ -69,7 +69,7 @@ Several tools and platforms are available to conduct X-System Testing, each offe
 [MetaTrader 5](https://www.metatrader5.com/) is a popular trading platform that supports [algorithmic trading](../a/algorithmic_trading.md) through its Expert Advisor (EA) framework. It offers robust [backtesting](../b/backtesting.md) and optimization tools, as well as [real-time market data](../r/real-time_market_data.md).
 
 ### 3. NinjaTrader
-[NinjaTrader](https://ninjatrader.com/) is a trading platform that provides advanced charting, [backtesting](../b/backtesting.md), and trade simulation capabilities. It supports custom strategy development using C# and offers access to a wide range of market data.
+[NinjaTrader](https://ninjatrader.com/) is a trading platform that provides advanced charting, [backtesting](../b/backtesting.md), and trade [simulation](../s/simulation_in_trading.md) capabilities. It supports custom strategy development using C# and offers access to a wide range of market data.
 
 ### 4. AlgoTrader
 [AlgoTrader](https://www.algotrader.com/) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md), forward testing, and live trading. It offers extensive [data integration](../d/data_integration.md) options and advanced [risk management](../r/risk_management.md) tools.

@@ -57,7 +57,7 @@ Once the data is ready, the next step is designing the trading algorithm. Key co
 
 Optimization involves tuning the model parameters to maximize performance:
 
-- **Grid Search**: Testing all possible combinations of parameters.
+- **[Grid Search](../g/grid_search_in_trading.md)**: Testing all possible combinations of parameters.
 - **Random Search**: Random sampling of parameters.
 - **[Bayesian Optimization](../b/bayesian_optimization.md)**: More sophisticated method for parameter tuning.
 

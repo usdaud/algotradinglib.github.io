@@ -28,7 +28,7 @@ Supply and demand dynamics for specific maturities can also cause kinks. If ther
 
 ### 4. Economic Events
 
-Major economic events, such as financial crises, geopolitical tensions, or significant fiscal policy announcements, can introduce uncertainty and create kinks as investors adjust their expectations.
+Major economic events, such as financial crises, geopolitical tensions, or significant fiscal policy announcements, can introduce [uncertainty](../u/uncertainty_in_trading.md) and create kinks as investors adjust their expectations.
 
 ## Implications of a Kinked Yield Curve
 

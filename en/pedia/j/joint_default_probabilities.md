@@ -20,7 +20,7 @@ While individual default probabilities are essential, they do not provide a comp
 1. **[Risk Management](../r/risk_management.md):** Financial institutions use JDP to manage and hedge risk in credit portfolios. By understanding the correlation between defaults, they can better allocate capital and set aside appropriate reserves.
 2. **Regulatory Compliance:** Basel III and other regulatory frameworks require banks to assess and disclose the risk of joint defaults as part of their internal [risk management](../r/risk_management.md) processes.
 3. **Credit [Derivatives](../d/derivatives.md) Pricing:** Instruments like CDOs and basket default swaps require accurate JDP calculations for pricing and risk assessment.
-4. **Stress Testing:** By simulating scenarios where multiple borrowers default simultaneously, institutions can prepare for adverse economic conditions and design more robust investment strategies.
+4. **[Stress Testing](../s/stress_testing_in_trading.md):** By simulating scenarios where multiple borrowers default simultaneously, institutions can prepare for adverse economic conditions and design more robust investment strategies.
 
 ## Calculating Joint Default Probabilities
 
@@ -30,12 +30,12 @@ Calculating JDP is complex and typically requires advanced statistical and mathe
 
 Copula models are popular in finance due to their ability to capture the dependence structure between random variables. A copula is a mathematical function that links univariate marginal distribution functions to form a multivariate distribution. By using copulas, analysts can model the joint distribution of default times for multiple entities.
 
-1. **Gaussian Copula:** The Gaussian copula is widely used due to its simplicity and flexibility. It assumes that the joint distribution of the standardized normal variables (representing the entities' default probabilities) follows a multivariate normal distribution.
-2. **Student's t Copula:** This copula provides a way to model tail dependence which is often observed in financial data. It is particularly useful when the joint distribution exhibits heavier tails than the normal distribution.
+1. **Gaussian Copula:** The Gaussian copula is widely used due to its simplicity and flexibility. It assumes that the joint distribution of the standardized normal variables (representing the entities' default probabilities) follows a multivariate [normal distribution](../n/normal_distribution_in_trading.md).
+2. **Student's t Copula:** This copula provides a way to model tail dependence which is often observed in financial data. It is particularly useful when the joint distribution exhibits heavier tails than the [normal distribution](../n/normal_distribution_in_trading.md).
 
 ### Structural Models
 
-Structural models of default, such as the Merton model, derive default probabilities based on the asset value dynamics of the firms. These models view default as occurring when a firm's asset value falls below a certain threshold (typically the debt level).
+[Structural models](../s/structural_models_in_trading.md) of default, such as the Merton model, derive default probabilities based on the asset value dynamics of the firms. These models view default as occurring when a firm's asset value falls below a certain threshold (typically the debt level).
 
 1. **Merton’s Model:** This model assumes that the firm's assets follow a [geometric Brownian motion](../g/geometric_brownian_motion.md) and calculates the probability that the assets will fall below the debt level at maturity.
 2. **Extended Models:** Extensions of the Merton model include additional features such as stochastic interest rates, jumps in asset values, and multiple debt maturities.
@@ -44,7 +44,7 @@ Structural models of default, such as the Merton model, derive default probabili
 
 Reduced-form models, also known as intensity-based models, treat default as a random event with a hazard rate or intensity that can vary over time. These models focus on the default time distribution rather than the firm's asset value dynamics.
 
-1. **Cox Process:** Also known as the doubly stochastic Poisson process, it models the default intensity as a stochastic process itself, allowing for time-varying default probabilities.
+1. **Cox Process:** Also known as the doubly stochastic [Poisson process](../p/poisson_process_in_trading.md), it models the default intensity as a stochastic process itself, allowing for time-varying default probabilities.
 2. **Jarrow-Turnbull Model:** This reduced-form model allows for correlated defaults by incorporating the dependency structure between hazard rates.
 
 ### Monte Carlo Simulation
@@ -59,7 +59,7 @@ Accurate estimation of JDP relies heavily on the availability and quality of dat
 
 ### Model Risk
 
-All models have inherent assumptions and simplifications that may not fully capture the true dynamics of default events. Model risk arises when these assumptions lead to inaccurate estimates of joint default probabilities. It is crucial to perform rigorous validation, back-testing, and stress testing of models to minimize this risk.
+All models have inherent assumptions and simplifications that may not fully capture the true dynamics of default events. Model risk arises when these assumptions lead to inaccurate estimates of joint default probabilities. It is crucial to perform rigorous validation, back-testing, and [stress testing](../s/stress_testing_in_trading.md) of models to minimize this risk.
 
 ### Correlation Dynamics
 
@@ -76,18 +76,18 @@ The global financial crisis of 2007-2008 highlighted the importance of Joint Def
 ### Lessons Learned
 
 1. **Model Robustness:** Financial institutions need robust models that can handle extreme scenarios and avoid the pitfalls of underestimating joint default risk.
-2. **Regulatory Oversight:** Enhanced regulatory requirements now mandate more rigorous stress testing and reporting of joint default probabilities.
+2. **Regulatory Oversight:** Enhanced regulatory requirements now mandate more rigorous [stress testing](../s/stress_testing_in_trading.md) and reporting of joint default probabilities.
 3. **Risk Culture:** The crisis emphasized the importance of a strong risk culture within financial institutions, promoting continuous monitoring and reassessment of [credit risk models](../c/credit_risk_models.md).
 
 ## Current Trends and Future Directions
 
 ### Machine Learning and AI
 
-Advancements in machine learning and artificial intelligence offer new opportunities for improving Joint Default Probability estimation. Techniques such as neural networks, ensemble methods, and natural language processing can uncover complex patterns in vast amounts of data, enhancing the accuracy of [credit risk models](../c/credit_risk_models.md).
+Advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) offer new opportunities for improving Joint Default Probability estimation. Techniques such as [neural networks](../n/neural_networks_in_trading.md), ensemble methods, and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) can uncover complex patterns in vast amounts of data, enhancing the accuracy of [credit risk models](../c/credit_risk_models.md).
 
 ### Blockchain and Big Data
 
-The integration of blockchain technology and big data analytics provides new avenues for collecting and analyzing credit risk information. Blockchain can offer transparent and immutable records of financial transactions, while big data analytics can process these records to identify early warning signals of default.
+The integration of [blockchain](../b/blockchain_in_trading.md) technology and [big data analytics](../b/big_data_analytics_in_trading.md) provides new avenues for collecting and analyzing credit risk information. [Blockchain](../b/blockchain_in_trading.md) can offer transparent and immutable records of financial transactions, while [big data analytics](../b/big_data_analytics_in_trading.md) can process these records to identify early warning signals of default.
 
 ### Climate Risk and ESG Factors
 

@@ -1,6 +1,6 @@
 # Bond Arbitrage
 
-Bond [arbitrage](../a/arbitrage.md) is a strategy used in the financial markets that involves exploiting inefficiencies and price discrepancies between different bonds. This trading strategy leverages sophisticated mathematical models and algorithms to identify and capitalize on these discrepancies for profitable returns. Below is a detailed examination of bond [arbitrage](../a/arbitrage.md), its types, mechanisms, risks, and key players.
+Bond [arbitrage](../a/arbitrage.md) is a strategy used in the financial markets that involves exploiting inefficiencies and price discrepancies between different bonds. This trading strategy leverages sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify and capitalize on these discrepancies for profitable returns. Below is a detailed examination of bond [arbitrage](../a/arbitrage.md), its types, mechanisms, risks, and key players.
 
 ## Mechanisms of Bond Arbitrage
 
@@ -48,7 +48,7 @@ Due to their tax-exempt status, [municipal bonds](../m/municipal_bonds.md) often
 
 ### Quantitative Models
 
-[Quantitative finance](../q/quantitative_finance.md) plays a significant role in implementing bond [arbitrage](../a/arbitrage.md) strategies. Mathematical models are used to identify [arbitrage](../a/arbitrage.md) opportunities by analyzing historical price data, interest rates, yield curves, and other [economic indicators](../e/economic_indicators.md).
+[Quantitative finance](../q/quantitative_finance.md) plays a significant role in implementing bond [arbitrage](../a/arbitrage.md) strategies. [Mathematical models](../m/mathematical_models_in_trading.md) are used to identify [arbitrage](../a/arbitrage.md) opportunities by analyzing historical price data, interest rates, yield curves, and other [economic indicators](../e/economic_indicators.md).
 
 ### Algorithmic Trading
 

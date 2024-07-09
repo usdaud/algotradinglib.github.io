@@ -8,7 +8,7 @@ Sector weighting is a crucial concept in the field of investment and [portfolio 
 Sector weighting involves dividing an investment portfolio among various sectors to achieve a balanced and diversified portfolio. It helps in reducing risk by spreading investments across different economic segments, each with unique risk and return characteristics. For example, technology stocks might be highly volatile, while utility stocks tend to be more stable. By balancing investments among these sectors, investors can optimize their risk-return profile.
 
 ### Relevance of Sector Weighting in Algotrading
-[Algorithmic trading](../a/algorithmic_trading.md) relies on complex mathematical models and algorithms to make trading decisions. Sector weighting plays a critical role in these algorithms by providing a framework for diversification and [risk management](../r/risk_management.md). Algotrading systems using sector weighting can automatically rebalance portfolios, ensuring that exposure to any single sector does not exceed specified limits, thus mitigating sector-specific risks.
+[Algorithmic trading](../a/algorithmic_trading.md) relies on complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make trading decisions. Sector weighting plays a critical role in these algorithms by providing a framework for diversification and [risk management](../r/risk_management.md). Algotrading systems using sector weighting can automatically rebalance portfolios, ensuring that exposure to any single sector does not exceed specified limits, thus mitigating sector-specific risks.
 
 ## Methods of Sector Weighting
 
@@ -47,7 +47,7 @@ Sector weighting allows for dynamic [risk management](../r/risk_management.md). 
 Strategic sector weighting can potentially lead to higher returns by focusing more on sectors with better growth prospects and reducing exposure to underperforming sectors. This requires sophisticated models capable of accurately forecasting sector performances.
 
 ### Algorithmic Implementation
-Implementing sector weighting in algotrading requires integrating various data sources and analytical tools. Modern algorithms use machine learning and artificial intelligence to identify optimal sector weights and adapt to changing market conditions in real-time. Companies like Betterment (https://www.betterment.com/) utilize advanced algorithms to provide tailored investment strategies based on sector weighting.
+Implementing sector weighting in algotrading requires integrating various data sources and analytical tools. Modern algorithms use machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify optimal sector weights and adapt to changing market conditions in real-time. Companies like Betterment (https://www.betterment.com/) utilize advanced algorithms to provide tailored investment strategies based on sector weighting.
 
 ### Challenges in Sector Weighting for Algotrading
 Despite its benefits, there are challenges involved in sector weighting for algotrading. One major challenge is accurately predicting [sector performance](../s/sector_performance.md), which requires advanced analytical models and constant data updates. Additionally, over-reliance on historical data might lead to suboptimal decisions, as past performance is not always indicative of future results.

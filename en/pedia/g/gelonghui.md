@@ -4,7 +4,7 @@
 Gelonghui is a prominent Chinese financial information and services platform that offers comprehensive market insights, investment research, and financial news. Established to cater to the needs of investors and financial professionals, Gelonghui provides a range of services including data analysis, investment research, and an active community forum. The platform is highly regarded for its in-depth analysis and real-time information, making it a valuable resource for investors in China and beyond.
 
 ## Key Features
-1. **Market Analysis**: Gelonghui offers detailed analysis of various financial markets, including stocks, bonds, commodities, and real estate. The platform provides insights into market trends, economic indicators, and investment opportunities.
+1. **Market Analysis**: Gelonghui offers detailed analysis of various financial markets, including stocks, bonds, commodities, and real estate. The platform provides insights into market trends, [economic indicators](../e/economic_indicators.md), and investment opportunities.
 
 2. **Investment Research**: The platform features comprehensive research reports on listed companies, industries, and market sectors. These reports are authored by experienced analysts and provide valuable information for making informed investment decisions.
 
@@ -12,7 +12,7 @@ Gelonghui is a prominent Chinese financial information and services platform tha
 
 4. **Community Forum**: Gelonghui hosts an active community forum where investors and financial professionals can discuss market trends, share investment ideas, and exchange insights. The forum fosters a collaborative environment for learning and networking.
 
-5. **Data Services**: The platform offers a range of data services, including real-time market data, historical data, and financial metrics. This data is essential for conducting thorough market analysis and research.
+5. **Data Services**: The platform offers a range of data services, including [real-time market data](../r/real-time_market_data.md), historical data, and financial metrics. This data is essential for conducting thorough market analysis and research.
 
 6. **Educational Resources**: Gelonghui provides educational content, including articles, videos, and tutorials, aimed at enhancing financial literacy and investment knowledge among its users.
 
@@ -33,7 +33,7 @@ Gelonghui is a prominent Chinese financial information and services platform tha
 - **Educational Purposes**: Users utilize Gelonghui’s educational resources to enhance their understanding of financial markets and investment strategies.
 
 ## Integration and APIs
-While Gelonghui primarily offers web and mobile access to its services, discussions and user needs may lead to the use of various APIs for financial data integration:
+While Gelonghui primarily offers web and mobile access to its services, discussions and user needs may lead to the use of various APIs for financial [data integration](../d/data_integration.md):
 - **Market Data APIs**: For accessing real-time and historical market data.
 - **Financial Metrics APIs**: For retrieving company financials and metrics.
 - **News APIs**: For integrating real-time financial news into other platforms.

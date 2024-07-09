@@ -49,7 +49,7 @@ Performance ratio analysis is an essential aspect of [algorithmic trading](../a/
    \[
    \text{Omega Ratio} = \frac{\int_\tau^\infty [1 - F(x)] \, dx}{\int_{-\infty}^\tau F(x) \, dx}
    \]
-   where \( \tau \) is the threshold return level, and \( F(x) \) is the cumulative distribution function of returns.
+   where \( \tau \) is the threshold return level, and \( F(x) \) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of returns.
    - **Significance**: Incorporates both the magnitude and frequency of returns above a certain threshold, providing a more comprehensive measure of performance.
    - **Application**: Utilized to assess strategies with non-normal return distributions or where higher moments like [skewness and kurtosis](../s/skewness_and_kurtosis.md) are significant.
 

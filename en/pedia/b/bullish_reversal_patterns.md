@@ -114,7 +114,7 @@ An algorithm can be designed to:
 
 ### Machine Learning Models
 
-Machine learning models can enhance the performance of [trading algorithms](../t/trading_algorithms.md) by learning from historical data and improving [pattern recognition](../p/pattern_recognition.md) accuracy. Models such as [decision trees](../d/decision_trees.md), random forests, and neural networks can be trained to recognize bullish [reversal patterns](../r/reversal_patterns.md) and predict the probability of a successful reversal.
+Machine learning models can enhance the performance of [trading algorithms](../t/trading_algorithms.md) by learning from historical data and improving [pattern recognition](../p/pattern_recognition.md) accuracy. Models such as [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) can be trained to recognize bullish [reversal patterns](../r/reversal_patterns.md) and predict the probability of a successful reversal.
 
 ### Backtesting and Optimization
 

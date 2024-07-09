@@ -1,19 +1,19 @@
 # Warrant Pricing Models
 
-Warrants are financial instruments that give the holder the right, but not the obligation, to purchase a company's stock at a specific price before a certain expiration date. They share similarities with stock options, but there are unique features and differences that necessitate specialized pricing models. This comprehensive exploration delves into various [warrant pricing](../w/warrant_pricing.md) models, offering insight into their theoretical foundation, practical applications, and the underlying mathematics.
+[Warrants](../w/warrants_in_trading.md) are financial instruments that give the holder the right, but not the obligation, to purchase a company's stock at a specific price before a certain expiration date. They share similarities with stock options, but there are unique features and differences that necessitate specialized pricing models. This comprehensive exploration delves into various [warrant pricing](../w/warrant_pricing.md) models, offering insight into their theoretical foundation, practical applications, and the underlying mathematics.
 
 ### Basic Concepts
 
-Before delving into specific models, it's essential to understand a few basic concepts associated with warrants:
+Before delving into specific models, it's essential to understand a few basic concepts associated with [warrants](../w/warrants_in_trading.md):
 
 - **Strike Price (Exercise Price):** The price at which the holder can purchase the underlying stock.
 - **Expiration Date:** The date after which the warrant cannot be exercised.
 - **Premium:** The price paid for the warrant.
-- **Dilution Effect:** Unlike stock options, warrants often lead to the issuance of new shares, diluting existing shareholders.
+- **Dilution Effect:** Unlike stock options, [warrants](../w/warrants_in_trading.md) often lead to the issuance of new shares, diluting existing shareholders.
 
 ### Black-Scholes Model
 
-Originally developed for [European options](../e/european_options.md), the [Black-Scholes model](../b/black-scholes_model.md) can be adapted for [warrant pricing](../w/warrant_pricing.md). This model, formulated by Fischer Black, Myron Scholes, and Robert Merton in 1973, is based on the assumption of a constant volatility and a lognormal distribution of stock returns. The adapted formula for warrants takes into consideration the dilution effect, as exercising a warrant typically results in the issuance of new shares, diluting the equity of current shareholders.
+Originally developed for [European options](../e/european_options.md), the [Black-Scholes model](../b/black-scholes_model.md) can be adapted for [warrant pricing](../w/warrant_pricing.md). This model, formulated by Fischer Black, Myron Scholes, and Robert Merton in 1973, is based on the assumption of a constant volatility and a lognormal distribution of stock returns. The adapted formula for [warrants](../w/warrants_in_trading.md) takes into consideration the dilution effect, as exercising a warrant typically results in the issuance of new shares, diluting the equity of current shareholders.
 
 #### Formula
 
@@ -27,14 +27,14 @@ where:
 - \( K \) = Exercise price of the warrant
 - \( T \) = Time to expiration
 - \( r \) = Risk-free interest rate
-- \( N(.) \) = Cumulative distribution function of a standard normal distribution
+- \( N(.) \) = [Cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of a standard [normal distribution](../n/normal_distribution_in_trading.md)
 - \( d_1 = \frac{\ln(\frac{S_0}{K}) + (r + \frac{\sigma^2}{2})T}{\sigma\sqrt{T}} \)
 - \( d_2 = d_1 - \sigma\sqrt{T} \)
 - \( \sigma \) = Volatility of the underlying stock
 
 ### Binomial Model
 
-The [binomial option pricing model](../b/binomial_option_pricing_model.md) offers a more flexible approach, allowing for the modeling of American-style warrants (which can be exercised at any time before expiration) and consideration of changing variables over time. Developed by Cox, Ross, and Rubinstein in 1979, this model creates a binomial tree representing different paths that the underlying stock price could take.
+The [binomial option pricing model](../b/binomial_option_pricing_model.md) offers a more flexible approach, allowing for the modeling of American-style [warrants](../w/warrants_in_trading.md) (which can be exercised at any time before expiration) and consideration of changing variables over time. Developed by Cox, Ross, and Rubinstein in 1979, this model creates a binomial tree representing different paths that the underlying stock price could take.
 
 #### Steps
 
@@ -89,8 +89,8 @@ When applying these models in practice, traders and financial analysts must cons
 1. **Market Conditions:** Real-world deviations from model assumptions (e.g., non-constant volatility, jumps, and noisiness in data).
 2. **Model Calibration:** Fitting model parameters to market data to improve accuracy.
 3. **Regulation and Accounting:** Compliance with financial regulations and accounting standards.
-4. **Technology and Resources:** Availability of computational power and software tools for complex simulations and calculations.
+4. **Technology and Resources:** Availability of computational power and [software tools](../s/software_tools_for_trading.md) for complex simulations and calculations.
 
 ### Conclusion
 
-[Warrant pricing](../w/warrant_pricing.md) models are essential tools in financial markets, aiding in the valuation and strategic planning of investments involving warrants. Each model comes with its own set of assumptions, strengths, and limitations. By understanding and applying these models appropriately, market participants can better navigate the complexities of warrants and optimize their investment outcomes.
+[Warrant pricing](../w/warrant_pricing.md) models are essential tools in financial markets, aiding in the valuation and strategic planning of investments involving [warrants](../w/warrants_in_trading.md). Each model comes with its own set of assumptions, strengths, and limitations. By understanding and applying these models appropriately, market participants can better navigate the complexities of [warrants](../w/warrants_in_trading.md) and optimize their investment outcomes.

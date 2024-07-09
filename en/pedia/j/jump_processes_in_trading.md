@@ -21,23 +21,23 @@ Types of Jump Processes
 Here we discuss some common types of jump processes used in trading:
 
 ### Poisson Process
-A Poisson process is one of the simplest types of jump processes. It models events that occur randomly and independently over time, at a constant average rate. For example, if we are modeling the number of trades executed on a trading platform, a Poisson process might be an appropriate choice.
+A [Poisson process](../p/poisson_process_in_trading.md) is one of the simplest types of jump processes. It models events that occur randomly and independently over time, at a constant average rate. For example, if we are modeling the number of trades executed on a trading platform, a [Poisson process](../p/poisson_process_in_trading.md) might be an appropriate choice.
 
-Mathematically, a Poisson process \(N(t)\) with rate \(\lambda\) has increments that follow a Poisson distribution:
+Mathematically, a [Poisson process](../p/poisson_process_in_trading.md) \(N(t)\) with rate \(\lambda\) has increments that follow a [Poisson distribution](../p/poisson_distribution_in_trading.md):
 \[ P(N(t+s) - N(s) = k) = \frac{(\lambda t)^k e^{-\lambda t}}{k!} \]
 
 ### Compound Poisson Process
-A Compound Poisson process extends the Poisson process by allowing the jumps to have random magnitudes. This is more suitable for financial asset prices, where not only the timing but also the magnitude of jumps is relevant.
+A Compound [Poisson process](../p/poisson_process_in_trading.md) extends the [Poisson process](../p/poisson_process_in_trading.md) by allowing the jumps to have random magnitudes. This is more suitable for financial asset prices, where not only the timing but also the magnitude of jumps is relevant.
 
-If \(N(t)\) is a Poisson process and \(J_i\) are iid random variables representing jump sizes, then a Compound Poisson process \(X(t)\) can be written as:
+If \(N(t)\) is a [Poisson process](../p/poisson_process_in_trading.md) and \(J_i\) are iid random variables representing jump sizes, then a Compound [Poisson process](../p/poisson_process_in_trading.md) \(X(t)\) can be written as:
 \[ X(t) = \sum_{i=1}^{N(t)} J_i \]
 
 ### Merton’s Jump-Diffusion Model
-One of the most well-known jump processes in finance is Merton’s jump-diffusion model. This model combines a standard [geometric Brownian motion](../g/geometric_brownian_motion.md) with a Compound Poisson process to account for both continuous and jump-like movements in asset prices. The dynamics of the asset price \(S(t)\) under this model are given by:
+One of the most well-known jump processes in finance is Merton’s jump-diffusion model. This model combines a standard [geometric Brownian motion](../g/geometric_brownian_motion.md) with a Compound [Poisson process](../p/poisson_process_in_trading.md) to account for both continuous and jump-like movements in asset prices. The dynamics of the asset price \(S(t)\) under this model are given by:
 \[ dS(t) = \mu S(t) dt + \sigma S(t) dW(t) + S(t) dJ(t) \]
 where \(dW(t)\) is the Brownian motion term, and \(dJ(t)\) captures the jumps.
 
-In this model, \(J(t)\) is often modeled as a Compound Poisson process:
+In this model, \(J(t)\) is often modeled as a Compound [Poisson process](../p/poisson_process_in_trading.md):
 \[ J(t) = \sum_{i=1}^{N(t)} (\exp(Z_i) - 1) \]
 where \(Z_i\) are normally distributed with mean \(\mu_J\) and standard deviation \(\sigma_J\).
 
@@ -69,7 +69,7 @@ Real-World Examples and Use Cases
 Several trading firms and financial institutions leverage jump processes in their [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) frameworks. Here are a few examples:
 
 ### Citadel
-Citadel is a leading [quantitative trading](../q/quantitative_trading.md) firm that uses complex mathematical models, including jump processes, to manage its trades and portfolios. More information can be found on [Citadel's official website](https://www.citadel.com/).
+Citadel is a leading [quantitative trading](../q/quantitative_trading.md) firm that uses complex [mathematical models](../m/mathematical_models_in_trading.md), including jump processes, to manage its trades and portfolios. More information can be found on [Citadel's official website](https://www.citadel.com/).
 
 ### Goldman Sachs
 Goldman Sachs employs advanced stochastic models that include jump processes to manage derivative pricing, risk, and high-frequency trading. More information can be found on [Goldman Sachs' official website](https://www.goldmansachs.com/).
@@ -82,7 +82,7 @@ Challenges and Considerations
 While jump processes offer a more realistic framework for modeling financial markets, they come with their own set of challenges:
 
 1. **Calibration:** Estimating the parameters of jump processes, such as jump intensity and size distribution, can be complex.
-2. **Computational Complexity:** Jump processes often require advanced numerical techniques for simulation and analysis.
+2. **Computational Complexity:** Jump processes often require advanced numerical techniques for [simulation](../s/simulation_in_trading.md) and analysis.
 3. **Model Risk:** Incorrectly specifying a jump process can lead to significant model risk, affecting [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md).
 
 Conclusion

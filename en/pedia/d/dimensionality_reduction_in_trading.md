@@ -1,6 +1,6 @@
 # Dimensionality Reduction
 
-Dimensionality reduction is a key concept in the field of machine learning and data analysis, especially pertinent in trading and financial markets. As financial markets produce vast amounts of data with numerous variables (or "dimensions") such as price, volume, [economic indicators](../e/economic_indicators.md), and more, managing and extracting meaningful information from this high-dimensional data can be challenging. Dimensionality reduction techniques help simplify this data, making it easier to visualize, understand, and use in predictive models for [trading strategies](../t/trading_strategies.md).
+Dimensionality reduction is a key concept in the field of machine learning and data analysis, especially pertinent in trading and financial markets. As financial markets produce vast amounts of data with numerous variables (or "dimensions") such as price, volume, [economic indicators](../e/economic_indicators.md), and more, managing and extracting meaningful information from this high-dimensional data can be challenging. Dimensionality reduction techniques help simplify this data, making it easier to visualize, understand, and use in [predictive models](../p/predictive_models_in_trading.md) for [trading strategies](../t/trading_strategies.md).
 
 ## Importance of Dimensionality Reduction
 
@@ -13,7 +13,7 @@ Dimensionality reduction is a key concept in the field of machine learning and d
 
 ### Principal Component Analysis (PCA)
 
-PCA is a statistical procedure that converts a set of correlated variables into a set of uncorrelated variables called principal components. This transformation is achieved by calculating the eigenvalues and eigenvectors of the data's covariance matrix. The principal components are ordered by the amount of variance they explain in the data, and typically, only the first few components are kept, which capture the most significant aspects of the data.
+PCA is a statistical procedure that converts a set of correlated variables into a set of uncorrelated variables called [principal components](../p/principal_components_in_trading.md). This transformation is achieved by calculating the eigenvalues and eigenvectors of the data's covariance matrix. The [principal components](../p/principal_components_in_trading.md) are ordered by the amount of variance they explain in the data, and typically, only the first few components are kept, which capture the most significant aspects of the data.
 
 #### Application in Trading
 In trading, PCA can be used to identify the most influential factors affecting asset prices. For example, in stock trading, it can help identify the principal sectors or [economic indicators](../e/economic_indicators.md) that drive stock movements, simplifying the decision-making process.
@@ -41,7 +41,7 @@ Autoencoders can detect complex patterns in market data by encoding and decoding
 
 ## Real-world Applications
 
-1. **[Risk Management](../r/risk_management.md)**: Dimensionality reduction techniques are pivotal in [risk management](../r/risk_management.md), where identifying the few key risk factors from a large dataset can significantly enhance predictive accuracy and reaction time.
+1. **[Risk Management](../r/risk_management.md)**: Dimensionality reduction techniques are pivotal in [risk management](../r/risk_management.md), where identifying the few key [risk factors](../r/risk_factors_in_trading.md) from a large dataset can significantly enhance predictive accuracy and reaction time.
 2. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Firms specializing in [algorithmic trading](../a/algorithmic_trading.md), such as Renaissance Technologies, leverage dimensionality reduction to streamline their high-frequency [trading strategies](../t/trading_strategies.md). Visit [Renaissance Technologies](https://www.rentec.com/) for more insights into their methodologies.
 3. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Reducing dimensionality helps in identifying the most relevant assets, sectors, or strategies that contribute to portfolio returns. This is particularly useful for firms like BlackRock, whose systematic tools are detailed [here](https://www.blackrock.com/) for more information.
 

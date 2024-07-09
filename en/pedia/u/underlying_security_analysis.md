@@ -10,7 +10,7 @@ Underlying [security analysis](../s/security_analysis.md) is a critical componen
 [Fundamental analysis](../f/fundamental_analysis.md) aims to measure a security's intrinsic value by examining related economic, financial, and other qualitative and quantitative factors. Here are some key aspects:
 
 - **Financial Statements:** The analysis of a company's balance sheet, income statement, and cash flow statement to evaluate its financial health.
-- **[Economic Indicators](../e/economic_indicators.md):** Metrics such as GDP growth rates, employment data, inflation rates, and interest rates that can impact the overall market environment.
+- **[Economic Indicators](../e/economic_indicators.md):** Metrics such as GDP [growth rates](../g/growth_rates_in_trading.md), employment data, inflation rates, and interest rates that can impact the overall market environment.
 - **[Industry Analysis](../i/industry_analysis.md):** Understanding the dynamics, growth potential, competition, and regulatory environment of the industry in which the company operates.
 - **Company Metrics:** Evaluating ratios like the Price-to-Earnings (P/E), Price-to-Book (P/B), Debt-to-Equity (D/E), Return on Equity (ROE), and others.
 - **Management Analysis:** Assessing the quality, experience, and performance track record of the company’s management team.
@@ -29,7 +29,7 @@ Underlying [security analysis](../s/security_analysis.md) is a critical componen
 
 - **Statistical Models:** Models such as [regression analysis](../r/regression_analysis.md), time-series analysis, and [factor analysis](../f/factor_analysis.md).
 - **Machine Learning Techniques:** Implementing algorithms that learn from and make predictions based on data.
-- **[Risk Assessment Models](../r/risk_assessment_models.md):** Tools like Value at Risk (VaR) and stress testing to gauge potential financial risks.
+- **[Risk Assessment Models](../r/risk_assessment_models.md):** Tools like Value at Risk (VaR) and [stress testing](../s/stress_testing_in_trading.md) to gauge potential financial risks.
 
 ### Implementation in Algorithmic Trading
 
@@ -47,23 +47,23 @@ Underlying [security analysis](../s/security_analysis.md) is a critical componen
 High-frequency trading (HFT) involves executing a large number of orders at extremely high speeds, often in fractions of a second. Core aspects are:
 
 - **Latency:** The speed at which orders are executed can be a significant competitive advantage.
-- **[Market Microstructure](../m/market_microstructure.md) Analysis:** Understanding inner workings of the market, order types, and the behavior of other participants.
+- **[Market Microstructure](../m/market_microstructure.md) Analysis:** Understanding inner workings of the market, [order types](../o/order_types_in_trading.md), and the behavior of other participants.
 - **Co-location:** Placing trading servers physically close to the exchange to minimize latency.
 
 #### Machine Learning and AI in Algorithmic Trading
 
 The use of machine learning and AI has revolutionized underlying [security analysis](../s/security_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md) by enabling more sophisticated models and predictions. Key points include:
 
-- **Data Processing:** Leveraging big data to process and analyze vast amounts of information quickly.
+- **Data Processing:** Leveraging [big data](../b/big_data_in_trading.md) to process and analyze vast amounts of information quickly.
 - **[Pattern Recognition](../p/pattern_recognition.md):** Identifying complex patterns that may not be evident through traditional analysis techniques.
 - **Adaptive Learning:** Algorithms that evolve based on new data without human intervention.
 
 ### Tools and Software for Underlying Security Analysis
 
-Several tools and software platforms help traders conduct underlying [security analysis](../s/security_analysis.md) and implement [algorithmic trading](../a/algorithmic_trading.md) strategies. Some prominent ones include:
+Several tools and [software platforms](../s/software_platforms_for_trading.md) help traders conduct underlying [security analysis](../s/security_analysis.md) and implement [algorithmic trading](../a/algorithmic_trading.md) strategies. Some prominent ones include:
 
 - **[Bloomberg](../b/bloomberg.md) Terminal:** A widely used platform providing comprehensive financial data, analytics, and trading tools. [Bloomberg](https://www.bloomberg.com/)
-- **MetaStock:** Tools for charting, [technical analysis](../t/technical_analysis.md), and [automated trading systems](../a/automated_trading_systems.md). [MetaStock](https://www.metastock.com/)
+- **[MetaStock](../m/metastock.md):** Tools for charting, [technical analysis](../t/technical_analysis.md), and [automated trading systems](../a/automated_trading_systems.md). [MetaStock](https://www.metastock.com/)
 - **[TradeStation](../t/tradestation.md):** A platform for trading and analysis offering custom scripting language EasyLanguage for strategy development. [TradeStation](https://www.tradestation.com/)
 - **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform supporting research, [backtesting](../b/backtesting.md), and live trading. [QuantConnect](https://www.quantconnect.com/)
 - **Python Libraries:** Libraries like NumPy, Pandas, Scikit-learn, and TensorFlow for building custom models.

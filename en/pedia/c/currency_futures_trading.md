@@ -18,7 +18,7 @@ The concept of futures trading dates back to the 19th century, primarily in the 
    To trade currency futures, traders must deposit an initial margin with the exchange. This acts as a security deposit to cover potential losses. Maintenance margins must also be maintained to continue holding positions.
 
 4. **Settlement:**
-   Currency futures can be settled either by physical delivery of the underlying asset or by cash settlement. Most market participants prefer cash settlement.
+   Currency futures can be settled either by [physical delivery](../p/physical_delivery_in_trading.md) of the underlying asset or by cash settlement. Most market participants prefer cash settlement.
 
 5. **Tick Value and Contract Adjustments:**
    The smallest price increment (tick) in currency futures affects the overall profit or loss. Contract adjustments like rollovers are common practices to move positions from an expiring contract to a new one.
@@ -94,8 +94,8 @@ Technology plays a pivotal role in modern currency futures trading. Advanced tra
 3. **Data Analytics:**
    Tools for data analysis, machine learning, and AI are widely adopted to glean insights from historical and [real-time market data](../r/real-time_market_data.md) to enhance [trading strategies](../t/trading_strategies.md).
 
-4. **Blockchain and Cryptocurrencies:**
-   As blockchain technology and cryptocurrencies gain momentum, they are gradually integrating with traditional futures markets. Some exchanges now offer bitcoin futures, for instance.
+4. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies:**
+   As [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies gain momentum, they are gradually integrating with traditional futures markets. Some exchanges now offer bitcoin futures, for instance.
 
 ### Conclusion
 

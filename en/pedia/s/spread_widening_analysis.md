@@ -43,7 +43,7 @@ Statistical techniques such as moving averages, standard deviations, and [Bollin
 Spread widening has several implications for [algorithmic trading](../a/algorithmic_trading.md), influencing [trading strategies](../t/trading_strategies.md), execution costs, and profitability.
 
 ### Transaction Costs
-Wider spreads mean higher transaction costs for traders, as buying at the ask and selling at the bid becomes more expensive. This can erode profit margins, especially for high-frequency [trading strategies](../t/trading_strategies.md) aimed at capturing small price movements.
+Wider spreads mean higher transaction costs for traders, as buying at the ask and selling at the bid becomes more expensive. This can erode [profit margins](../p/profit_margins_in_trading.md), especially for high-frequency [trading strategies](../t/trading_strategies.md) aimed at capturing small price movements.
 
 ### Execution Slippage
 Spread widening can lead to higher slippage, where the execution price of an order deviates from its expected price. Slippage is particularly problematic for large orders or orders placed during volatile market conditions.
@@ -52,7 +52,7 @@ Spread widening can lead to higher slippage, where the execution price of an ord
 Traders must be cautious of the market impact when placing large orders in environments with widened spreads, as this can drive prices unfavorably and increase overall [trading costs](../t/trading_costs.md).
 
 ### Strategy Adaptation
-[Algorithmic trading](../a/algorithmic_trading.md) strategies must be adaptive to spread conditions. This may involve dynamically adjusting order types, frequencies, and sizes based on real-time spread data to minimize costs and maximize execution efficiency.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies must be adaptive to spread conditions. This may involve dynamically adjusting [order types](../o/order_types_in_trading.md), frequencies, and sizes based on real-time spread data to minimize costs and maximize execution efficiency.
 
 ## Tools and Techniques for Spread Widening Analysis
 
@@ -62,13 +62,13 @@ Several tools and techniques are available for analyzing spread widening, aiding
 Advanced trading platforms and monitoring systems provide real-time data on bid-ask spreads. These systems allow traders to set alerts for significant spread changes, enabling quick responses to adverse market conditions.
 
 ### Algorithmic Adjustment
-Some [trading algorithms](../t/trading_algorithms.md) are designed to adjust their behavior based on spread conditions. For example, they might switch from aggressive to passive order types during times of widened spreads to reduce transaction costs.
+Some [trading algorithms](../t/trading_algorithms.md) are designed to adjust their behavior based on spread conditions. For example, they might switch from aggressive to passive [order types](../o/order_types_in_trading.md) during times of widened spreads to reduce transaction costs.
 
 ### Historical Data Analysis
 Analyzing historical spread data helps traders understand typical spread behavior during different market conditions and events. This knowledge can be incorporated into [trading algorithms](../t/trading_algorithms.md) to enhance decision-making processes.
 
 ### Spread Predictive Models
-Machine learning models can be trained on historical data to predict future spread widening events. Such predictive models can be integrated into [trading systems](../t/trading_systems.md) to preemptively adapt strategies before spreads widen.
+Machine learning models can be trained on historical data to predict future spread widening events. Such [predictive models](../p/predictive_models_in_trading.md) can be integrated into [trading systems](../t/trading_systems.md) to preemptively adapt strategies before spreads widen.
 
 ## Major Entities in Spread Widening Analysis
 
@@ -96,7 +96,7 @@ Thesys Technologies offers tools and services for market data analysis, includin
 During the Flash Crash of May 6, 2010, the US stock market experienced a dramatic drop within minutes, causing spreads to widen significantly. Analyzing the spread behavior during such events helps in understanding the risks and adjusting algorithms to handle extreme volatility.
 
 ### Brexit Referendum
-The Brexit referendum in June 2016 led to significant uncertainty in the financial markets, causing spreads in the currency markets to widen dramatically. Traders with robust [spread analysis](../s/spread_analysis.md) capabilities were better prepared to navigate the resulting volatility.
+The Brexit referendum in June 2016 led to significant [uncertainty](../u/uncertainty_in_trading.md) in the financial markets, causing spreads in the currency markets to widen dramatically. Traders with robust [spread analysis](../s/spread_analysis.md) capabilities were better prepared to navigate the resulting volatility.
 
 ### COVID-19 Pandemic
 The onset of the COVID-19 pandemic in early 2020 caused unprecedented volatility in global financial markets, leading to widespread spread widening. Algorithmic traders had to quickly adapt their strategies to cope with the sudden changes in spread conditions.

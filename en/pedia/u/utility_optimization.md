@@ -4,11 +4,11 @@ Utility Optimization is a fundamental concept in both economics and finance, and
 
 ### Theoretical Foundations
 
-Utility functions are mathematical representations of an investor's preferences. They capture the trade-off between risk and return and help in making optimal investment decisions. The most commonly used utility functions include:
+[Utility functions](../u/utility_functions_in_trading.md) are mathematical representations of an investor's preferences. They capture the trade-off between risk and return and help in making optimal investment decisions. The most commonly used [utility functions](../u/utility_functions_in_trading.md) include:
 
-1. **Linear Utility Functions**: Representing investors who are indifferent to risk (risk-neutral).
-2. **Quadratic Utility Functions**: Investors have a quadratic preference for returns and risk ([mean-variance optimization](../m/mean-variance_optimization.md)).
-3. **Exponential Utility Functions**: Risk-averse investors who weigh losses more heavily than gains.
+1. **Linear [Utility Functions](../u/utility_functions_in_trading.md)**: Representing investors who are indifferent to risk (risk-neutral).
+2. **Quadratic [Utility Functions](../u/utility_functions_in_trading.md)**: Investors have a quadratic preference for returns and risk ([mean-variance optimization](../m/mean-variance_optimization.md)).
+3. **Exponential [Utility Functions](../u/utility_functions_in_trading.md)**: Risk-averse investors who weigh losses more heavily than gains.
 
 In the context of [algorithmic trading](../a/algorithmic_trading.md), the primary goal is to develop strategies that maximize the expected utility, which could be a function of returns, risks, transaction costs, and other constraints.
 
@@ -35,11 +35,11 @@ MPT introduces the concepts of:
 
 1. **[Mean-Variance Optimization](../m/mean-variance_optimization.md)**: Based on the Markowitz framework, algorithms can be programmed to calculate the expected returns and risks of different asset combinations and select the optimal portfolio that maximizes utility.
 
-2. **Dynamic Programming**: Algorithms can use dynamic programming to solve multi-period utility optimization problems, taking into account changes in market conditions and [rebalancing strategies](../r/rebalancing_strategies.md) over time.
+2. **[Dynamic Programming](../d/dynamic_programming_in_trading.md)**: Algorithms can use [dynamic programming](../d/dynamic_programming_in_trading.md) to solve multi-period utility optimization problems, taking into account changes in market conditions and [rebalancing strategies](../r/rebalancing_strategies.md) over time.
 
 3. **[Stochastic Control](../s/stochastic_control.md)**: This approach involves modeling the asset price dynamics as [stochastic processes](../s/stochastic_processes.md) and using control theory to derive optimal [trading strategies](../t/trading_strategies.md) that maximize the expected utility.
 
-4. **Reinforcement Learning**: Machine learning techniques, particularly reinforcement learning, can be used to develop adaptive [trading strategies](../t/trading_strategies.md) that learn and optimize utility functions over time based on observed market data.
+4. **Reinforcement Learning**: Machine learning techniques, particularly reinforcement learning, can be used to develop adaptive [trading strategies](../t/trading_strategies.md) that learn and optimize [utility functions](../u/utility_functions_in_trading.md) over time based on observed market data.
 
 ### Transaction Costs and Constraints
 
@@ -56,6 +56,6 @@ In practical implementation, utility optimization must also take into account tr
 
 ### Conclusion
 
-Utility optimization is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), providing a mathematical framework for making optimal investment decisions under uncertainty. By leveraging advanced techniques in finance, mathematics, and computer science, trading firms can develop efficient and [adaptive strategies](../a/adaptive_strategies.md) that maximize returns while minimizing risks and costs.
+Utility optimization is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), providing a mathematical framework for making optimal investment decisions under [uncertainty](../u/uncertainty_in_trading.md). By leveraging advanced techniques in finance, mathematics, and computer science, trading firms can develop efficient and [adaptive strategies](../a/adaptive_strategies.md) that maximize returns while minimizing risks and costs.
 
 Understanding and implementing utility optimization principles is essential for staying competitive in the fast-paced world of [algorithmic trading](../a/algorithmic_trading.md), where even small advantages can lead to significant gains.

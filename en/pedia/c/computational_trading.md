@@ -1,6 +1,6 @@
 # Computational Trading
 
-Computational trading, also known as [algorithmic trading](../a/algorithmic_trading.md) or algo trading, is a method of executing trades using automated pre-programmed trading instructions to account for variables such as time, price, and volume. This type of trading relies heavily on complex mathematical models and high-speed computing to make decisions and execute trades at speeds far beyond the capability of human traders.
+Computational trading, also known as [algorithmic trading](../a/algorithmic_trading.md) or algo trading, is a method of executing trades using automated pre-programmed trading instructions to account for variables such as time, price, and volume. This type of trading relies heavily on complex [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computing to make decisions and execute trades at speeds far beyond the capability of human traders.
 
 ## Core Concepts
 
@@ -11,7 +11,7 @@ An algorithm in trading is a set of rules or instructions programmed to automati
 HFT is a specific subset of computational trading where the goal is to make very short-term trades. These trades are executed in milliseconds, and the systems involved require minimal latency. Firms engaged in HFT often co-locate their servers as close to the exchange as possible to gain microseconds of advantage over competitors.
 
 ### Quantitative Models
-[Quantitative models](../q/quantitative_models.md) are mathematical constructs used to predict stock price movements. These models can range from simple moving averages to complex machine learning algorithms and are often developed by "quants" - specialists in [quantitative finance](../q/quantitative_finance.md).
+[Quantitative models](../q/quantitative_models.md) are mathematical constructs used to predict stock price movements. These models can range from simple moving averages to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md) and are often developed by "quants" - specialists in [quantitative finance](../q/quantitative_finance.md).
 
 ### Market Microstructure
 Understanding the [market microstructure](../m/market_microstructure.md), which includes the mechanisms and protocols of trading ([order book dynamics](../o/order_book_dynamics.md), liquidity, transaction costs), is essential for developing and implementing effective [trading strategies](../t/trading_strategies.md) within computational trading.
@@ -27,7 +27,7 @@ Founded by Ken Griffin, Citadel is a global financial institution with a signifi
 Website: [Citadel](https://www.citadel.com/)
 
 ### Two Sigma
-Two Sigma leverages big data and machine learning to develop [trading algorithms](../t/trading_algorithms.md). Their team includes engineers, data scientists, and statisticians who work together to refine their [trading models](../t/trading_models.md) and strategies continuously.
+Two Sigma leverages [big data](../b/big_data_in_trading.md) and machine learning to develop [trading algorithms](../t/trading_algorithms.md). Their team includes engineers, data scientists, and statisticians who work together to refine their [trading models](../t/trading_models.md) and strategies continuously.
 Website: [Two Sigma](https://www.twosigma.com/)
 
 ### Virtu Financial
@@ -62,7 +62,7 @@ To achieve low-latency trading, high-performance computing (HPC) hardware, inclu
 Latency [arbitrage](../a/arbitrage.md) involves taking advantage of delays in the dissemination of market information. While lucrative, this strategy has raised concerns about fairness and the integrity of financial markets, leading to regulatory scrutiny.
 
 ### Model Risk
-Reliance on mathematical models introduces model risk - the risk that the models fail to predict future price movements accurately. Continuous model validation and [backtesting](../b/backtesting.md) are essential in mitigating these risks.
+Reliance on [mathematical models](../m/mathematical_models_in_trading.md) introduces model risk - the risk that the models fail to predict future price movements accurately. Continuous model validation and [backtesting](../b/backtesting.md) are essential in mitigating these risks.
 
 ### Regulatory Environment
 [Algorithmic trading](../a/algorithmic_trading.md) is subject to regulation, varying significantly by jurisdiction. In the U.S., the SEC and CFTC impose various regulations to ensure market stability and fairness. In Europe, MiFID II introduces stringent regulatory requirements on [algorithmic trading](../a/algorithmic_trading.md) practices.
@@ -70,13 +70,13 @@ Reliance on mathematical models introduces model risk - the risk that the models
 ## Current Trends and the Future
 
 ### Artificial Intelligence and Machine Learning
-AI and machine learning are being increasingly integrated into [trading algorithms](../t/trading_algorithms.md) to enhance prediction accuracy and adaptive capability. This includes using natural language processing (NLP) to analyze news and [social media sentiment](../s/social_media_sentiment.md).
+AI and machine learning are being increasingly integrated into [trading algorithms](../t/trading_algorithms.md) to enhance prediction accuracy and adaptive capability. This includes using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze news and [social media sentiment](../s/social_media_sentiment.md).
 
 ### Blockchain and Decentralized Finance (DeFi)
-Blockchain technology and DeFi are transforming the trading landscape by enabling decentralized exchanges and smart contracts, which could bring about new opportunities for computational [trading strategies](../t/trading_strategies.md).
+[Blockchain](../b/blockchain_in_trading.md) technology and DeFi are transforming the trading landscape by enabling decentralized exchanges and [smart contracts](../s/smart_contracts_in_trading.md), which could bring about new opportunities for computational [trading strategies](../t/trading_strategies.md).
 
 ### Quantum Computing
-As quantum computing technology matures, it promises unparalleled computational power, potentially transforming how complex financial computations are performed and providing a significant edge in developing and executing [trading strategies](../t/trading_strategies.md).
+As [quantum computing](../q/quantum_computing_in_trading.md) technology matures, it promises unparalleled computational power, potentially transforming how complex financial computations are performed and providing a significant edge in developing and executing [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 Computational trading represents the cutting-edge intersection of finance, mathematics, and computer science. As technology advances, the methods and strategies will continue to evolve, presenting both opportunities and challenges for traders and the market as a whole.

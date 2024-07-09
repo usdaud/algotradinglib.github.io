@@ -15,7 +15,7 @@ Historically, wealth management was more manually driven, involving a financial 
 
 ## The Role of Algorithmic Trading in Wealth Management
 
-[Algorithmic trading](../a/algorithmic_trading.md) involves the use of algorithms—complex mathematical models and formulas—to make trading decisions at high speeds. These algorithms can process vast amounts of data much faster than human traders, execute orders based on pre-defined criteria, and continuously learn from trading outcomes.
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of algorithms—complex [mathematical models](../m/mathematical_models_in_trading.md) and formulas—to make trading decisions at high speeds. These algorithms can process vast amounts of data much faster than human traders, execute orders based on pre-defined criteria, and continuously learn from trading outcomes.
 
 ### Benefits of Algorithmic Trading in Wealth Management
 
@@ -58,7 +58,7 @@ While [algorithmic trading](../a/algorithmic_trading.md) offers numerous benefit
 
 ## Future Trends
 
-The evolution of wealth management in [algorithmic trading](../a/algorithmic_trading.md) is driven by advancements in artificial intelligence (AI) and machine learning (ML). [Predictive analytics](../p/predictive_analytics.md), enhanced by AI and ML, are enabling more precise and adaptive [trading strategies](../t/trading_strategies.md). 
+The evolution of wealth management in [algorithmic trading](../a/algorithmic_trading.md) is driven by advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML). [Predictive analytics](../p/predictive_analytics.md), enhanced by AI and ML, are enabling more precise and adaptive [trading strategies](../t/trading_strategies.md). 
 
 1. **AI-Driven Decisions:** AI allows for more nuanced decision-making, considering a broader range of factors and potential market scenarios.
 2. **Personalization:** Algorithms are becoming increasingly sophisticated in tailoring investment strategies to individual client profiles and goals.

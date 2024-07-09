@@ -28,7 +28,7 @@ Traders often look for signals where the %R moves from overbought to below -20 o
 
 ### Practical Application
 
-To use the [Williams %R](../w/williams_%r.md) effectively in [algorithmic trading](../a/algorithmic_trading.md), traders usually combine it with other [technical indicators](../t/technical_indicators.md) and parameters, such as moving averages and volume, to filter out false signals and enhance the accuracy of their trading setups.
+To use the [Williams %R](../w/williams_%r.md) effectively in [algorithmic trading](../a/algorithmic_trading.md), traders usually combine it with other [technical indicators](../t/technical_indicators.md) and parameters, such as moving averages and volume, to filter out [false signals](../f/false_signals_in_trading.md) and enhance the accuracy of their trading setups.
 
 ## 2. Williams Alligator
 
@@ -56,7 +56,7 @@ Algorithmic traders use the Williams Alligator to identify the start and continu
 
 ### Definition
 
-The Williams Accumulation/Distribution (A/D) indicator measures the cumulative flow of money into and out of a security to assess the overall market trend.
+The [Williams Accumulation/Distribution](../w/williams_accumulation_distribution.md) (A/D) indicator measures the cumulative flow of money into and out of a security to assess the overall market trend.
 
 ### Calculation
 
@@ -131,7 +131,7 @@ When integrating Williams Indicators into an [algorithmic trading](../a/algorith
 
 ### Combining Multiple Indicators
 
-No single indicator can guarantee success in trading. Therefore, combining Williams Indicators with other [technical analysis](../t/technical_analysis.md) tools can provide a more robust trading strategy. For instance, using the [Williams %R](../w/williams_%r.md) in conjunction with moving averages and the Williams Alligator can help traders filter out false signals and improve their likelihood of catching significant trends.
+No single indicator can guarantee success in trading. Therefore, combining Williams Indicators with other [technical analysis](../t/technical_analysis.md) tools can provide a more robust trading strategy. For instance, using the [Williams %R](../w/williams_%r.md) in conjunction with moving averages and the Williams Alligator can help traders filter out [false signals](../f/false_signals_in_trading.md) and improve their likelihood of catching significant trends.
 
 ### Risk Management
 

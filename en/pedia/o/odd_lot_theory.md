@@ -22,7 +22,7 @@ Odd Lot Theory is essentially a contrarian indicator. It suggests that the major
 
 ### Data Analysis
 
-In the context of modern [algorithmic trading](../a/algorithmic_trading.md), analyzing odd-lot data requires sophisticated analytics tools. High-frequency traders might incorporate odd-lot transaction data into their models to predict short-term price movements. Machine learning algorithms and statistical methods can be employed to uncover patterns and correlations within odd-lot trading data, contributing to more refined [trading strategies](../t/trading_strategies.md).
+In the context of modern [algorithmic trading](../a/algorithmic_trading.md), analyzing odd-lot data requires sophisticated analytics tools. High-frequency traders might incorporate odd-lot transaction data into their models to predict short-term price movements. Machine [learning algorithms](../l/learning_algorithms_in_trading.md) and statistical methods can be employed to uncover patterns and correlations within odd-lot trading data, contributing to more refined [trading strategies](../t/trading_strategies.md).
 
 ## Implementation in Algorithmic Trading Strategies
 
@@ -34,7 +34,7 @@ Real-time and historical data streams are obtained from exchanges and financial 
 
 ### Signal Detection
 
-Using statistical methods and machine learning algorithms, [trading systems](../t/trading_systems.md) analyze the collected data to identify dominant trends in odd-lot buying and selling. Signals are generated based on pre-defined thresholds and patterns identified in the data.
+Using statistical methods and machine [learning algorithms](../l/learning_algorithms_in_trading.md), [trading systems](../t/trading_systems.md) analyze the collected data to identify dominant trends in odd-lot buying and selling. Signals are generated based on pre-defined thresholds and patterns identified in the data.
 
 ### Strategy Execution
 

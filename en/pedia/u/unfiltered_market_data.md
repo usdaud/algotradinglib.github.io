@@ -20,7 +20,7 @@ Unfiltered market data refers to the raw, unprocessed data stream that dissemina
 
 ### Real-Time Insights
 
-For algorithmic traders, unfiltered market data provides real-time insights that are crucial for executing high-frequency [trading strategies](../t/trading_strategies.md). Since these strategies often exploit tiny price inefficiencies that may only exist for milliseconds, the timeliness and completeness of unfiltered data are indispensable.
+For algorithmic traders, unfiltered market data provides real-time insights that are crucial for executing high-frequency [trading strategies](../t/trading_strategies.md). Since these strategies often exploit tiny price inefficiencies that may only exist for milliseconds, the timeliness and completeness of [unfiltered data](../u/unfiltered_data_in_trading.md) are indispensable.
 
 ### Market Microstructure
 
@@ -38,7 +38,7 @@ Algorithms can be designed to recognize patterns or anomalies in unfiltered mark
 
 ### Backtesting
 
-Unfiltered market data is essential for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). Historical unfiltered data enables traders to simulate how their algorithm would have performed in real trading scenarios, assessing both risks and returns.
+Unfiltered market data is essential for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). Historical [unfiltered data](../u/unfiltered_data_in_trading.md) enables traders to simulate how their algorithm would have performed in real trading scenarios, assessing both risks and returns.
 
 ### Real-Time Analysis
 
@@ -87,14 +87,14 @@ Several companies specialize in offering unfiltered market data to traders and f
   - Website: [Bloomberg](https://www.bloomberg.com/)
 
 - **Nasdaq Market Data:**
-  - Provides unfiltered data directly from the Nasdaq exchange, covering equities, options, and other instruments.
+  - Provides [unfiltered data](../u/unfiltered_data_in_trading.md) directly from the Nasdaq exchange, covering equities, options, and other instruments.
   - Website: [Nasdaq Data](https://www.nasdaq.com/solutions/data)
 
 - **ICE Data Services:**
   - Offers unfiltered market data across multiple asset classes including commodities, equities, and fixed income.
   - Website: [ICE Data](https://www.theice.com/market-data)
 
-- **IEX Cloud:**
+- **[IEX Cloud](../i/iex_cloud.md):**
   - A data platform that provides unfiltered market data to developers and businesses.
   - Website: [IEX Cloud](https://iexcloud.io/)
 

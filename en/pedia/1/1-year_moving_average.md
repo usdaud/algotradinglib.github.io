@@ -39,12 +39,12 @@ This formula provides a simplified representation of the 1Y MA. Each day, a new 
 
 ### Cons:
 - **Lagging Indicator:** The 1Y MA reacts slowly to recent price changes, which might result in delayed [trading signals](../t/trading_signals.md).
-- **Less Effective in Sideways Markets:** In markets without a clear trend, the 1Y MA may not provide meaningful insights and can generate false signals.
+- **Less Effective in Sideways Markets:** In markets without a clear trend, the 1Y MA may not provide meaningful insights and can generate [false signals](../f/false_signals_in_trading.md).
 - **Overlooks Recent Data:** By giving equal weight to all data points in the period, it may underrepresent recent market conditions.
 
 ## Tools and Platforms
 
-Numerous financial platforms and software tools incorporate the 1Y MA for analysis and [algorithmic trading](../a/algorithmic_trading.md). Some notable mentions include:
+Numerous financial platforms and [software tools](../s/software_tools_for_trading.md) incorporate the 1Y MA for analysis and [algorithmic trading](../a/algorithmic_trading.md). Some notable mentions include:
 
 1. **MetaTrader 4 and 5 (MT4/MT5):** Widely used trading platforms that offer various [technical indicators](../t/technical_indicators.md), including the 1Y MA. They provide tools for [backtesting](../b/backtesting.md) and implementing automated [trading strategies](../t/trading_strategies.md).
 2. **[Bloomberg](../b/bloomberg.md) Terminal:** A comprehensive platform used by financial professionals for market analysis and trading. [Bloomberg](../b/bloomberg.md) provides extensive support for moving averages and other [technical indicators](../t/technical_indicators.md).

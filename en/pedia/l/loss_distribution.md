@@ -8,7 +8,7 @@ Loss distribution provides a detailed view of how losses are spread over time, h
 
 1. **Why Loss Distribution Matters:** 
    - Helps in understanding the risk profile of a strategy.
-   - Crucial for stress testing and scenario analysis.
+   - Crucial for [stress testing](../s/stress_testing_in_trading.md) and scenario analysis.
    - Aids in setting risk limits and stop-loss levels.
 
 2. **Components of Loss Distribution:**
@@ -45,13 +45,13 @@ To implement loss distribution analysis effectively within [algorithmic trading]
    - Clean the data to remove outliers and erroneous entries which could skew the results.
 
 2. **Choosing the Right Model:**
-   - Depending largely on the nature of trading strategy and the market, selecting between normal distribution, heavy-tailed distributions (like the Cauchy or Student's t-distribution), or more complex models aligned with EVT principles.
+   - Depending largely on the nature of trading strategy and the market, selecting between [normal distribution](../n/normal_distribution_in_trading.md), heavy-tailed distributions (like the Cauchy or Student's t-distribution), or more complex models aligned with EVT principles.
 
-3. **Software Tools and Programming:**
+3. **[Software Tools](../s/software_tools_for_trading.md) and Programming:**
    - Popular programming languages and libraries include Python (using libraries such as NumPy, Pandas, and SciPy), R (with packages like quantmod and PerformanceAnalytics), and specialized trading platforms like [QuantConnect](../q/quantconnect.md) and MetaTrader.
    - [QuantConnect](https://www.quantconnect.com/) allows for rigorous [backtesting](../b/backtesting.md) and deployment with tools necessary for detailed statistical analysis.
 
-4. **[Backtesting](../b/backtesting.md) and Simulation:**
+4. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md):**
    - Implementing the chosen model into [backtesting](../b/backtesting.md) frameworks to simulate historical performance and analyze loss distribution.
    - Running multiple simulations to cover a variety of market conditions and validate the robustness of the strategy.
 

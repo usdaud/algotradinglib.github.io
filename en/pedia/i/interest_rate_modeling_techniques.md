@@ -53,7 +53,7 @@ The LIBOR Market Model, also known as the Brace-Gatarek-Musiela (BGM) model, is 
 
 \[ dL(t,T) = L(t,T) \left( \mu(t,T) dt + \sigma(t,T) dW_t \right) \]
 
-where \( L(t,T) \) is the forward LIBOR rate at time \( t \) for maturity \( T \).
+where \( L(t,T) \) is the forward [LIBOR rate](../l/libor_rate_analysis.md) at time \( t \) for maturity \( T \).
 
 ### 8. Multifactor Models
 
@@ -80,7 +80,7 @@ Calibration is a critical step in interest rate modeling, ensuring that the mode
 
 Several companies specialize in providing tools and services for interest rate modeling:
 
-- **[Bloomberg](../b/bloomberg.md) L.P.:** A global financial services, software, and media company providing financial software tools and analytics. [Bloomberg L.P.](https://www.bloomberg.com/)
+- **[Bloomberg](../b/bloomberg.md) L.P.:** A global financial services, software, and media company providing financial [software tools](../s/software_tools_for_trading.md) and analytics. [Bloomberg L.P.](https://www.bloomberg.com/)
 - **Numerix:** A leading provider of [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing technology. [Numerix](https://www.numerix.com/)
 - **FIS:** Offers comprehensive software solutions for financial services, including interest rate modeling. [FIS](https://www.fisglobal.com/)
 - **Quantifi:** Provides risk, analytics, and trading solutions for the global financial markets. [Quantifi](https://www.quantifisolutions.com/)

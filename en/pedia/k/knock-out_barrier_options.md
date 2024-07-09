@@ -40,7 +40,7 @@ The pricing of knock-out barrier options is more complex than that of standard v
 
 #### Models for Valuation
 
-Various mathematical models can be used to value knock-out barrier options, including:
+Various [mathematical models](../m/mathematical_models_in_trading.md) can be used to value knock-out barrier options, including:
 
 1. **[Black-Scholes Model](../b/black-scholes_model.md)**: A modified [Black-Scholes model](../b/black-scholes_model.md) takes into account the barrier level.
 2. **Binomial Models**: Lattice-based models like the Cox-Ross-Rubinstein (CRR) that accommodate multiple step calculations.
@@ -63,7 +63,7 @@ Banks and financial institutions offering barrier options might additionally emp
 
 #### Counterparty Risk
 
-One significant concern with knock-out barrier options is the [counterparty risk](../c/counterparty_risk.md), especially in over-the-counter (OTC) markets. Since these options are often customized contracts negotiated directly between parties, the risk of default by the counterparty can be higher. 
+One significant concern with knock-out barrier options is the [counterparty risk](../c/counterparty_risk.md), especially in [over-the-counter (OTC) markets](../o/over-the-counter_markets.md). Since these options are often customized contracts negotiated directly between parties, the risk of default by the counterparty can be higher. 
 
 #### Real-World Examples and Providers
 
@@ -77,4 +77,4 @@ These institutions offer a suite of [exotic options](../e/exotic_options.md), in
 
 #### Conclusion
 
-Knock-out barrier options are versatile and sophisticated financial instruments, suitable for specific market conditions. They offer cost-effective alternatives to vanilla options but come with additional complexity and risk factors. Traders and hedgers must thoroughly understand the mechanics, pricing models, and [hedging strategies](../h/hedging_strategies.md) associated with these options to effectively utilize them in their investment and [risk management](../r/risk_management.md) practices.
+Knock-out barrier options are versatile and sophisticated financial instruments, suitable for specific market conditions. They offer cost-effective alternatives to vanilla options but come with additional complexity and [risk factors](../r/risk_factors_in_trading.md). Traders and hedgers must thoroughly understand the mechanics, pricing models, and [hedging strategies](../h/hedging_strategies.md) associated with these options to effectively utilize them in their investment and [risk management](../r/risk_management.md) practices.

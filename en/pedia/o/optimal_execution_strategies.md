@@ -76,7 +76,7 @@ Machine learning and AI-based algorithms analyze vast amounts of market data to 
 
 ### Blockchain and Distributed Ledger Technology (DLT)
 
-Blockchain and DLT offer potential improvements in transparency and efficiency for trade execution. These technologies can streamline settlement processes and reduce [counterparty risk](../c/counterparty_risk.md), contributing to more optimal execution.
+[Blockchain](../b/blockchain_in_trading.md) and DLT offer potential improvements in transparency and efficiency for trade execution. These technologies can streamline settlement processes and reduce [counterparty risk](../c/counterparty_risk.md), contributing to more optimal execution.
 
 ## Notable Companies in Algorithmic Trading
 

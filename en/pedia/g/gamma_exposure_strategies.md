@@ -40,7 +40,7 @@ Straddles and strangles are popular options strategies that involve buying both 
 Creating portfolios that are gamma-weighted involves selecting options and underlying assets in such a way that the overall [gamma exposure](../g/gamma_exposure.md) of the portfolio is balanced according to certain risk and return parameters.
 
 #### Implementation
-- **Optimization Models**: Use mathematical models to determine the optimal combination of options and underlying assets that balance [gamma exposure](../g/gamma_exposure.md) and desired portfolio outcomes.
+- **Optimization Models**: Use [mathematical models](../m/mathematical_models_in_trading.md) to determine the optimal combination of options and underlying assets that balance [gamma exposure](../g/gamma_exposure.md) and desired portfolio outcomes.
 - **[Risk Management](../r/risk_management.md)**: Continuously monitor and adjust the portfolio to maintain the desired gamma profile.
 
 ### Volatility Arbitrage
@@ -56,7 +56,7 @@ Volatility [arbitrage](../a/arbitrage.md) involves trading options to profit fro
 Several investment firms and hedge funds specialize in [gamma exposure](../g/gamma_exposure.md) strategies. They employ complex algorithms and advanced [trading systems](../t/trading_systems.md) to manage [gamma exposure](../g/gamma_exposure.md) and optimize [portfolio performance](../p/portfolio_performance.md).
 
 #### Example: Susquehanna International Group (SIG)
-Susquehanna International Group is a global [quantitative trading](../q/quantitative_trading.md) firm specializing in a variety of strategies, including gamma [exposure management](../e/exposure_management.md). Their approach to [gamma trading](../g/gamma_trading.md) involves sophisticated mathematical models and [proprietary trading](../p/proprietary_trading.md) systems.
+Susquehanna International Group is a global [quantitative trading](../q/quantitative_trading.md) firm specializing in a variety of strategies, including gamma [exposure management](../e/exposure_management.md). Their approach to [gamma trading](../g/gamma_trading.md) involves sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and [proprietary trading](../p/proprietary_trading.md) systems.
 
 Website: [Susquehanna International Group](https://www.sig.com)
 

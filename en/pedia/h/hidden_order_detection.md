@@ -48,11 +48,11 @@ High-frequency [trading systems](../t/trading_systems.md) leverage low-latency t
 
 ### Machine Learning Algorithms
 
-Machine learning algorithms can analyze historical market data to uncover hidden patterns indicative of iceberg orders. These algorithms learn from past trades and market conditions to predict future occurrences of hidden orders with high accuracy.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze historical market data to uncover hidden patterns indicative of iceberg orders. These algorithms learn from past trades and market conditions to predict future occurrences of hidden orders with high accuracy.
 
 ### Big Data Analytics
 
-Big data analytics involves processing and analyzing large volumes of structured and unstructured data to identify hidden orders. By integrating data from various sources, including trading platforms, news feeds, and social media, big data tools can provide a comprehensive view of market activities and detect hidden orders more effectively.
+[Big data analytics](../b/big_data_analytics_in_trading.md) involves processing and analyzing large volumes of structured and unstructured data to identify hidden orders. By integrating data from various sources, including trading platforms, news feeds, and social media, [big data](../b/big_data_in_trading.md) tools can provide a comprehensive view of market activities and detect hidden orders more effectively.
 
 ## Challenges in Hidden Order Detection
 

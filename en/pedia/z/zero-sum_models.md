@@ -78,11 +78,11 @@ While zero-sum models are a natural aspect of trading, they raise several ethica
 
 The future of zero-sum models in [algorithmic trading](../a/algorithmic_trading.md) is likely to be shaped by several trends:
 
-- **Artificial Intelligence and Machine Learning**: Increasing adoption of AI and ML to enhance model accuracy and predictive power, enabling better exploitation of zero-sum opportunities.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: Increasing adoption of AI and ML to enhance model accuracy and predictive power, enabling better exploitation of zero-sum opportunities.
 
-- **Big Data Analytics**: Leveraging vast datasets from various sources to refine [trading algorithms](../t/trading_algorithms.md) and improve decision-making in zero-sum environments.
+- **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Leveraging vast datasets from various sources to refine [trading algorithms](../t/trading_algorithms.md) and improve decision-making in zero-sum environments.
 
-- **Quantum Computing**: Potential future applications of quantum computing could revolutionize zero-sum algo-trading by solving complex computational problems more efficiently.
+- **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potential future applications of [quantum computing](../q/quantum_computing_in_trading.md) could revolutionize zero-sum algo-trading by solving complex computational problems more efficiently.
 
 ### Conclusion
 

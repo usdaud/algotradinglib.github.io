@@ -1,6 +1,6 @@
 # Algorithmic Commodities Trading
 
-Algorithmic [commodities trading](../c/commodities_trading.md), commonly referred to as "algo trading," involves using computer programs and algorithms to trade commodities based on pre-defined criteria. These criteria can include price, volume, time, and other market factors. By leveraging advanced mathematical models and fast computing power, [algorithmic trading](../a/algorithmic_trading.md) systems can make decisions and execute trades far more quickly and accurately than a human trader could.
+Algorithmic [commodities trading](../c/commodities_trading.md), commonly referred to as "algo trading," involves using computer programs and algorithms to trade commodities based on pre-defined criteria. These criteria can include price, volume, time, and other market factors. By leveraging advanced [mathematical models](../m/mathematical_models_in_trading.md) and fast computing power, [algorithmic trading](../a/algorithmic_trading.md) systems can make decisions and execute trades far more quickly and accurately than a human trader could.
 
 ### Basic Concepts
 
@@ -22,7 +22,7 @@ Commodities are goods or raw materials that are standardized and interchangeable
 [Market making algorithms](../m/market_making_algorithms.md) aim to profit from the [bid-ask spread](../b/bid-ask_spread.md) by placing both buy (bid) and sell (ask) orders for a commodity. The algorithm continuously updates these orders based on market conditions, providing liquidity to the market and profiting from the spread.
 
 #### 4. **Statistical Arbitrage**
-Statistical [arbitrage](../a/arbitrage.md) strategies use mathematical models to identify trading opportunities based on historical price data and statistical analysis. These models often involve [pairs trading](../p/pairs_trading.md), where an algorithm bets on the price convergence between two correlated commodities.
+Statistical [arbitrage](../a/arbitrage.md) strategies use [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities based on historical price data and statistical analysis. These models often involve [pairs trading](../p/pairs_trading.md), where an algorithm bets on the price convergence between two correlated commodities.
 
 #### 5. **Mean Reversion**
 [Mean reversion](../m/mean_reversion.md) strategies are based on the idea that commodity prices will revert to their historical average over time. The algorithm identifies commodities that are trading significantly above or below their historical average and initiates trades to exploit this expected reversion.
@@ -81,7 +81,7 @@ Major investment banks, hedge funds, and [proprietary trading](../p/proprietary_
 
 #### Examples:
 - **Citadel LLC**: A global financial institution employing sophisticated [trading algorithms](../t/trading_algorithms.md) across various asset classes, including commodities. [Citadel's Website](https://www.citadel.com)
-- **Two Sigma**: A hedge fund utilizing data science and technology to deploy [algorithmic trading](../a/algorithmic_trading.md) strategies. [Two Sigma's Website](https://www.twosigma.com)
+- **Two Sigma**: A hedge fund utilizing [data science](../d/data_science_in_trading.md) and technology to deploy [algorithmic trading](../a/algorithmic_trading.md) strategies. [Two Sigma's Website](https://www.twosigma.com)
 - **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) firm that excels in developing [quantitative trading](../q/quantitative_trading.md) strategies. [Jane Street's Website](https://www.janestreet.com)
 
 ### Conclusion

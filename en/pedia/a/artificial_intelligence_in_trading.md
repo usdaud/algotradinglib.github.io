@@ -7,17 +7,17 @@ Artificial Intelligence (AI) has revolutionized many industries, and trading is 
 1. **Machine Learning (ML)**: 
    Machine Learning is the backbone of AI in trading, where systems learn from historical data to identify patterns and make predictions. Techniques such as supervised learning, unsupervised learning, and reinforcement learning are employed to develop [trading models](../t/trading_models.md).
 
-2. **Natural Language Processing (NLP)**: 
+2. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: 
    NLP enables the processing and analysis of unstructured data like news articles, social media posts, and financial reports. By understanding the sentiment and context of this data, [trading algorithms](../t/trading_algorithms.md) can make better-informed decisions.
 
-3. **Big Data Analytics**: 
-   [Trading strategies](../t/trading_strategies.md) rely heavily on the analysis of large datasets. Big Data technologies facilitate the handling, storage, and analysis of vast amounts of data from varied sources such as historical prices, [economic indicators](../e/economic_indicators.md), and [alternative data](../a/alternative_data.md) (e.g., satellite imagery, social media activity).
+3. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: 
+   [Trading strategies](../t/trading_strategies.md) rely heavily on the analysis of large datasets. [Big Data](../b/big_data_in_trading.md) technologies facilitate the handling, storage, and analysis of vast amounts of data from varied sources such as historical prices, [economic indicators](../e/economic_indicators.md), and [alternative data](../a/alternative_data.md) (e.g., satellite imagery, social media activity).
 
 4. **Robotic Process Automation (RPA)**:
    RPA automates routine trading tasks, from executing trades to reconciling accounts. This reduces the need for manual intervention, lowers errors, and enhances efficiency.
 
 5. **Deep Learning**:
-   A subset of ML, deep learning utilizes neural networks with many layers (or "depths") to model complex patterns in the data. This is especially useful for understanding intricate relationships and non-linear patterns in financial markets.
+   A subset of ML, deep learning utilizes [neural networks](../n/neural_networks_in_trading.md) with many layers (or "depths") to model complex patterns in the data. This is especially useful for understanding intricate relationships and non-linear patterns in financial markets.
 
 ### Applications of AI in Trading
 
@@ -25,7 +25,7 @@ Artificial Intelligence (AI) has revolutionized many industries, and trading is 
    AI-driven [algorithmic trading](../a/algorithmic_trading.md) systems execute pre-set rules based on models, statistically derived from historical data, to buy and sell assets. These algorithms can react to market changes with high speed and precision.
 
 2. **[Predictive Analytics](../p/predictive_analytics.md)**:
-   Predictive models use AI to forecast future trends in the market by analyzing past data and identifying potential opportunities and risks. Techniques such as [regression analysis](../r/regression_analysis.md), [time series analysis](../t/time_series_analysis.md), and neural networks are common.
+   [Predictive models](../p/predictive_models_in_trading.md) use AI to forecast future trends in the market by analyzing past data and identifying potential opportunities and risks. Techniques such as [regression analysis](../r/regression_analysis.md), [time series analysis](../t/time_series_analysis.md), and [neural networks](../n/neural_networks_in_trading.md) are common.
 
 3. **[Sentiment Analysis](../s/sentiment_analysis.md)**:
    By employing NLP techniques, AI systems can analyze the sentiment of financial texts (e.g., news, tweets) to gauge market sentiment. This helps in predicting moves based on collective human emotions and reactions.
@@ -75,8 +75,8 @@ Artificial Intelligence (AI) has revolutionized many industries, and trading is 
 
 ### Ongoing Developments in AI Trading
 
-1. **Quantum Computing**:
-   Researchers are exploring the potential of quantum computing to solve complex optimization problems in trading at unprecedented speeds.
+1. **[Quantum Computing](../q/quantum_computing_in_trading.md)**:
+   Researchers are exploring the potential of [quantum computing](../q/quantum_computing_in_trading.md) to solve complex optimization problems in trading at unprecedented speeds.
 
 2. **Transfer Learning**:
    This technique allows AI models to apply knowledge gained from one problem domain to another, enhancing the flexibility and applicability of models.
@@ -84,8 +84,8 @@ Artificial Intelligence (AI) has revolutionized many industries, and trading is 
 3. **Explainable AI (XAI)**:
    XAI aims to make AI decision-making processes more transparent and understandable to humans, which is crucial for regulatory and ethical considerations.
 
-4. **Integration with Blockchain**:
-   Combining AI with blockchain technology can enhance the security and transparency of trading activities.
+4. **Integration with [Blockchain](../b/blockchain_in_trading.md)**:
+   Combining AI with [blockchain](../b/blockchain_in_trading.md) technology can enhance the security and transparency of trading activities.
 
 ### Companies Leading AI in Trading
 

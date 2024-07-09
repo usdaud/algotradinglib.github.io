@@ -103,7 +103,7 @@ ICE offers OTC clearing services and platforms for trading energy, commodities, 
 ## The Future of OTC Trading
 
 ### Technological Advancements
-Advancements in technology, such as blockchain and artificial intelligence, are likely to transform OTC trading by enhancing transparency, reducing operational risks, and improving efficiency. Distributed ledger technology (DLT) like blockchain can facilitate faster and more secure settlement processes.
+Advancements in technology, such as [blockchain](../b/blockchain_in_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are likely to transform OTC trading by enhancing transparency, reducing operational risks, and improving efficiency. Distributed ledger technology (DLT) like [blockchain](../b/blockchain_in_trading.md) can facilitate faster and more secure settlement processes.
 
 ### Regulatory Changes
 Ongoing regulatory efforts aim to bring more transparency and oversight to OTC markets. Future regulations may include stricter reporting requirements, enhanced [risk management](../r/risk_management.md) practices, and greater protections for investors.

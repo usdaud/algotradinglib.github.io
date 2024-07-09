@@ -64,7 +64,7 @@ Individual traders often use naked calls when they have strong convictions about
 Modern trading platforms offer robust tools for executing and managing uncovered call option strategies. Examples include [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page) and [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=39858), which provide complex option trading functionalities and [real-time market data](../r/real-time_market_data.md).
 
 ### Analytical Tools
-Software such as [OptionNet Explorer](https://www.optionnetexplorer.com/) provides detailed analytics and simulation capabilities, allowing traders to backtest strategies and understand potential risks before entering live trades.
+Software such as [OptionNet Explorer](https://www.optionnetexplorer.com/) provides detailed analytics and [simulation](../s/simulation_in_trading.md) capabilities, allowing traders to backtest strategies and understand potential risks before entering live trades.
 
 ## Conclusion
 Uncovered call option strategies can offer significant income opportunities for experienced traders who can accurately predict market movements and judiciously manage associated risks. Despite their high potential for profit, the unlimited loss potential necessitates rigorous [risk management](../r/risk_management.md) and a deep understanding of market mechanics. While professional firms and advanced trading platforms provide tools to manage these strategies effectively, individual traders must approach naked call options with caution, ensuring they employ comprehensive analysis and precautionary measures.

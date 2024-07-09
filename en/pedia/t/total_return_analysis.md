@@ -63,7 +63,7 @@ Several financial technology firms and platforms offer tools and solutions for i
 [TradeStation](../t/tradestation.md) is a trading platform that provides advanced tools for algorithmic traders. It supports detailed [performance analytics](../p/performance_analytics.md) and custom metrics, including Total Return Analysis, to help traders refine and improve their strategies.
 
 ### Interactive Brokers [Interactive Brokers](https://www.interactivebrokers.com/)
-Interactive Brokers offers a suite of tools for [algorithmic trading](../a/algorithmic_trading.md) and detailed performance reports. Their total return metrics include dividends, interest income, and capital gains, allowing for a thorough analysis of investment performance.
+[Interactive Brokers](../i/interactive_brokers.md) offers a suite of tools for [algorithmic trading](../a/algorithmic_trading.md) and detailed performance reports. Their total return metrics include dividends, interest income, and capital gains, allowing for a thorough analysis of investment performance.
 
 ### Numerai [Numerai](https://numer.ai/)
 Numerai is a hedge fund offering a platform for data scientists to create machine learning models in trading. It emphasizes advanced analytics, including Total Return, to judge the performance of submitted models.
@@ -84,7 +84,7 @@ Market conditions can greatly influence the components of Total Return. For exam
 
 ## Future of Total Return Analysis in Algorithmic Trading
 
-With advancements in technology and the increasing availability of real-time data, Total Return Analysis is likely to become even more integral to [algorithmic trading](../a/algorithmic_trading.md) strategies. Innovations such as artificial intelligence and machine learning will further enhance the ability to analyze and optimize Total Return, paving the way for more sophisticated and effective [trading algorithms](../t/trading_algorithms.md).
+With advancements in technology and the increasing availability of real-time data, Total Return Analysis is likely to become even more integral to [algorithmic trading](../a/algorithmic_trading.md) strategies. Innovations such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning will further enhance the ability to analyze and optimize Total Return, paving the way for more sophisticated and effective [trading algorithms](../t/trading_algorithms.md).
 
 Moreover, the growing trend towards personalized portfolios and [algorithmic trading](../a/algorithmic_trading.md) tailored to individual investor goals will amplify the importance of Total Return Analysis, ensuring that strategies not only aim for capital appreciation but also optimize for income generation and [risk management](../r/risk_management.md).
 

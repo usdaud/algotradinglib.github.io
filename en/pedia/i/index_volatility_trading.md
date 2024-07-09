@@ -30,7 +30,7 @@ Link: [CBOE VIX](https://www.cboe.com/tradable_products/vix/)
 
 ### Long Volatility Trading
 
-Long volatility strategies typically involve purchasing [derivatives](../d/derivatives.md) whose value rises when volatility increases. Options and [futures contracts](../f/futures_contracts.md) on volatility indices are common instruments used in long volatility trading. For instance, during times of market uncertainty or anticipated market turbulence, traders may buy VIX call options or futures, anticipating a spike in the VIX.
+Long volatility strategies typically involve purchasing [derivatives](../d/derivatives.md) whose value rises when volatility increases. Options and [futures contracts](../f/futures_contracts.md) on volatility indices are common instruments used in long volatility trading. For instance, during times of market [uncertainty](../u/uncertainty_in_trading.md) or anticipated market turbulence, traders may buy VIX call options or futures, anticipating a spike in the VIX.
 
 ### Short Volatility Trading
 
@@ -79,7 +79,7 @@ The regulatory environment for [derivatives](../d/derivatives.md) trading can im
 
 Several trading platforms offer access to volatility indices and related [derivatives](../d/derivatives.md), including:
 
-- **Interactive Brokers**: Provides access to a wide range of market indices, options, and [futures contracts](../f/futures_contracts.md).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides access to a wide range of market indices, options, and [futures contracts](../f/futures_contracts.md).
 
   Link: [Interactive Brokers](https://www.interactivebrokers.com/)
 

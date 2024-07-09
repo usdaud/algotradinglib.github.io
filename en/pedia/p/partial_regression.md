@@ -1,6 +1,6 @@
 # Partial Regression
 
-Partial regression, also known as residual regression, is a statistical technique used in multivariate data analysis and econometrics. It's employed to understand the unique relationship between a dependent variable and one of the multiple independent variables while accounting for the effect of the other variables. This method is particularly useful when one wants to isolate the influence of a single predictor variable on the response variable, adjusting for the other predictors in the model.
+Partial regression, also known as residual regression, is a statistical technique used in multivariate data analysis and [econometrics](../e/econometrics_in_trading.md). It's employed to understand the unique relationship between a dependent variable and one of the multiple independent variables while accounting for the effect of the other variables. This method is particularly useful when one wants to isolate the influence of a single predictor variable on the response variable, adjusting for the other predictors in the model.
 
 ### The Concept
 
@@ -25,7 +25,7 @@ where \( Y \) is the dependent variable, \( X_1, X_2, \ldots, X_k \) are the ind
 
 ### Applications in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md), or "algotrading," often involves the use of complex statistical and mathematical models to make trading decisions. Partial regression can be an instrumental technique in this domain for several reasons:
+[Algorithmic trading](../a/algorithmic_trading.md), or "algotrading," often involves the use of complex statistical and [mathematical models](../m/mathematical_models_in_trading.md) to make trading decisions. Partial regression can be an instrumental technique in this domain for several reasons:
 
 1. **Feature Selection and Importance**:
     When developing [trading algorithms](../t/trading_algorithms.md), it's crucial to determine which features (independent variables, such as [economic indicators](../e/economic_indicators.md), market sentiment scores, etc.) are significant for predicting price movements or other [trading signals](../t/trading_signals.md). Partial regression helps in isolating the effect of each feature while controlling for others, thus aiding in feature selection and assessing feature importance.
@@ -34,7 +34,7 @@ where \( Y \) is the dependent variable, \( X_1, X_2, \ldots, X_k \) are the ind
     Understanding the partial relationships between various market indicators and asset prices can be vital for [risk management](../r/risk_management.md). For example, isolating the effect of interest rates on a bond's price while accounting for other factors such as inflation rates and economic growth can help in better risk assessment and mitigation.
 
 3. **Model Enhancement**:
-    In [algorithmic trading](../a/algorithmic_trading.md) models, particularly those based on machine learning, partial regression can be used to refine models by identifying and adjusting for multicollinearity among predictors. This leads to more robust and reliable [trading strategies](../t/trading_strategies.md).
+    In [algorithmic trading](../a/algorithmic_trading.md) models, particularly those based on machine learning, partial regression can be used to refine models by identifying and adjusting for [multicollinearity](../m/multicollinearity_in_trading.md) among predictors. This leads to more robust and reliable [trading strategies](../t/trading_strategies.md).
 
 ### Practical Implementation
 

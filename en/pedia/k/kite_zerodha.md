@@ -7,7 +7,7 @@ Kite is a cutting-edge trading platform developed by [Zerodha](../z/zerodha.md),
 1. **User-Friendly Interface**: Intuitive and easy-to-navigate interface designed for efficient trading.
 2. **Advanced Charting**: Offers a wide range of chart types and [technical indicators](../t/technical_indicators.md) for in-depth market analysis.
 3. **[Real-Time Market Data](../r/real-time_market_data.md)**: Provides streaming [real-time market data](../r/real-time_market_data.md) for accurate and timely trading decisions.
-4. **Order Types**: Supports various order types, including market, limit, stop-loss, and cover orders.
+4. **[Order Types](../o/order_types_in_trading.md)**: Supports various [order types](../o/order_types_in_trading.md), including market, limit, stop-loss, and cover orders.
 5. **[Portfolio Management](../p/portfolio_management.md)**: Tools for tracking and managing your investment portfolio.
 6. **Market Watch**: Customizable market watchlists to monitor your favorite stocks and indices.
 7. **Mobile Trading**: Fully functional mobile app for trading on the go.

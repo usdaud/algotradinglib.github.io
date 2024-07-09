@@ -84,7 +84,7 @@ Although zero-coupon bonds are primarily exposed to interest rate risk, they may
 
 Large financial institutions such as hedge funds and investment banks often use zero-coupon bonds as part of their fixed-income portfolios. These institutions may employ sophisticated algotrading systems to manage and hedge their exposure. For example:
 
-- **PIMCO**: PIMCO is one of the world's largest fixed-income investment managers. They utilize advanced quantitative strategies, including interest rate modeling and scenario analysis, to hedge their bond portfolios. Learn more at their [official website](https://www.pimco.com/en-us).
+- **PIMCO**: PIMCO is one of the world's largest fixed-income investment managers. They utilize advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md), including interest rate modeling and scenario analysis, to hedge their bond portfolios. Learn more at their [official website](https://www.pimco.com/en-us).
 
 ### Pension Funds
 

@@ -19,7 +19,7 @@ Where:
 
 \[ \text{Total Log Return} = \ln\left(\frac{P_t}{P_{t-n}}\right) = \sum_{i=t-n+1}^{t} \ln\left(\frac{P_i}{P_{i-1}}\right) \]
 
-2. **Normal Distribution**: Logarithmic returns tend to be more normally distributed than simple returns, especially over longer time frames. This is advantageous because many statistical and financial models make the assumption of normally distributed returns.
+2. **[Normal Distribution](../n/normal_distribution_in_trading.md)**: Logarithmic returns tend to be more normally distributed than simple returns, especially over longer time frames. This is advantageous because many statistical and financial models make the assumption of normally distributed returns.
 
 3. **Compounding**: Logarithmic returns implicitly account for the effects of compounding, which can provide a more accurate measure of return for assets over multiple periods.
 
@@ -47,11 +47,11 @@ Where:
 
    [Alpha Vantage](https://www.alphavantage.co/)
 
-3. **Two Sigma**: A prominent hedge fund and financial services company that relies heavily on data science and advanced mathematics, including the use of log returns, to drive its [algorithmic trading](../a/algorithmic_trading.md) strategies.
+3. **Two Sigma**: A prominent hedge fund and financial services company that relies heavily on [data science](../d/data_science_in_trading.md) and advanced mathematics, including the use of log returns, to drive its [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
    [Two Sigma](https://www.twosigma.com/)
 
-4. **Kaggle**: Kaggle is a platform for data science competitions where financial datasets are often used for [algorithmic trading](../a/algorithmic_trading.md) challenges. Many solutions and kernels shared by the community involve the calculation and application of logarithmic returns.
+4. **Kaggle**: Kaggle is a platform for [data science](../d/data_science_in_trading.md) competitions where financial datasets are often used for [algorithmic trading](../a/algorithmic_trading.md) challenges. Many solutions and kernels shared by the community involve the calculation and application of logarithmic returns.
 
    [Kaggle](https://www.kaggle.com/)
 

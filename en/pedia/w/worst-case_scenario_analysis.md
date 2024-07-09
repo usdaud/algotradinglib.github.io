@@ -4,7 +4,7 @@ Worst-case scenario analysis (WCS) is a critical component in the field of [algo
 
 ## Overview of Worst-Case Scenario Analysis
 
-Worst-case scenario analysis is the process of forecasting and examining the most detrimental possible outcomes in [trading strategies](../t/trading_strategies.md). This type of analysis is essential for financial professionals to understand the upper limits of potential losses under extremely adverse conditions. It involves various methodologies, including stress testing, value-at-risk (VaR) analysis, and [drawdown analysis](../d/drawdown_analysis.md).
+Worst-case scenario analysis is the process of forecasting and examining the most detrimental possible outcomes in [trading strategies](../t/trading_strategies.md). This type of analysis is essential for financial professionals to understand the upper limits of potential losses under extremely adverse conditions. It involves various methodologies, including [stress testing](../s/stress_testing_in_trading.md), value-at-risk (VaR) analysis, and [drawdown analysis](../d/drawdown_analysis.md).
 
 ### Historical Context and Evolution
 
@@ -25,7 +25,7 @@ The methodologies used in worst-case scenario analysis are varied, each offering
 
 ### Stress Testing
 
-Stress testing involves simulating extreme market conditions to see how a trading algorithm performs. This method often includes:
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating extreme market conditions to see how a trading algorithm performs. This method often includes:
 
 - **Historical Scenarios**: Using past market crises (e.g., the 2008 financial crisis) to evaluate how the algorithm would have fared under similar conditions.
 - **Hypothetical Scenarios**: Creating artificial scenarios based on potential future events, such as geopolitical tensions or technological disruptions.
@@ -37,7 +37,7 @@ VaR is a statistical technique used to measure the risk of loss for investments.
 #### Types of VaR
 
 - **Historical VaR**: Uses historical market data to calculate potential losses.
-- **Parametric VaR**: Assumes a normal distribution of returns and calculates risk based on this assumption.
+- **Parametric VaR**: Assumes a [normal distribution](../n/normal_distribution_in_trading.md) of returns and calculates risk based on this assumption.
 - **Monte Carlo VaR**: Utilizes simulations to generate a range of possible market outcomes and estimates potential losses accordingly.
 
 ### Drawdown Analysis
@@ -89,7 +89,7 @@ Learn more about Renaissance Technologies: [Renaissance Technologies](https://ww
 
 ### Case Study 3: Two Sigma
 
-Two Sigma is another major player in the [algorithmic trading](../a/algorithmic_trading.md) space, using data science and technology to drive its investment strategies. The firm places a strong emphasis on [risk management](../r/risk_management.md), utilizing worst-case scenario analysis to anticipate and prepare for extreme market conditions. This proactive approach has helped Two Sigma maintain stability and performance throughout market fluctuations.
+Two Sigma is another major player in the [algorithmic trading](../a/algorithmic_trading.md) space, using [data science](../d/data_science_in_trading.md) and technology to drive its investment strategies. The firm places a strong emphasis on [risk management](../r/risk_management.md), utilizing worst-case scenario analysis to anticipate and prepare for extreme market conditions. This proactive approach has helped Two Sigma maintain stability and performance throughout market fluctuations.
 
 Further details are available at Two Sigma: [Two Sigma](https://www.twosigma.com/)
 
@@ -119,11 +119,11 @@ As technology and computational methods advance, worst-case scenario analysis in
 
 ### Artificial Intelligence and Machine Learning
 
-Leveraging AI and machine learning to enhance predictive models and simulate more sophisticated scenarios.
+Leveraging AI and machine learning to enhance [predictive models](../p/predictive_models_in_trading.md) and simulate more sophisticated scenarios.
 
 ### Big Data Analytics
 
-Utilizing big data to incorporate a broader range of variables and improve the accuracy of worst-case scenario predictions.
+Utilizing [big data](../b/big_data_in_trading.md) to incorporate a broader range of variables and improve the accuracy of worst-case scenario predictions.
 
 ### Enhanced Regulatory Frameworks
 

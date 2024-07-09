@@ -90,7 +90,7 @@ In [arbitrage](../a/arbitrage.md) strategies, algorithms exploit price different
 
 ### Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) relies on mathematical models to identify pricing inefficiencies and execute trades. The 4-hour chart provides the necessary historical price data to build and validate these models, ensuring that trades are based on statistical analysis.
+Statistical [arbitrage](../a/arbitrage.md) relies on [mathematical models](../m/mathematical_models_in_trading.md) to identify pricing inefficiencies and execute trades. The 4-hour chart provides the necessary historical price data to build and validate these models, ensuring that trades are based on statistical analysis.
 
 ## Considerations for Using the 4-Hour Chart
 

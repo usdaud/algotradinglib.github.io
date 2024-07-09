@@ -1,6 +1,6 @@
 # Portfolio Insurance
 
-Portfolio insurance is a method used in the financial markets to hedge the downside risk of a portfolio of assets. The main goal of portfolio insurance is to limit the potential losses of a portfolio while preserving the potential for upside gains. This can be particularly useful during periods of market volatility or economic uncertainty.
+Portfolio insurance is a method used in the financial markets to hedge the downside risk of a portfolio of assets. The main goal of portfolio insurance is to limit the potential losses of a portfolio while preserving the potential for upside gains. This can be particularly useful during periods of market volatility or economic [uncertainty](../u/uncertainty_in_trading.md).
 
 Several strategies can be used to achieve portfolio insurance, with the most popular ones being [dynamic hedging](../d/dynamic_hedging.md), the use of financial [derivatives](../d/derivatives.md) such as options, and the application of systematic asset management techniques like [algorithmic trading](../a/algorithmic_trading.md). Here's a deep dive into these strategies:
 
@@ -20,11 +20,11 @@ Financial [derivatives](../d/derivatives.md), particularly options, are a key co
   
 - **Protective Puts**: This involves buying [put options](../p/put_options.md) for the existing holdings in the portfolio. It effectively sets a minimum selling price for those assets, thus limiting the downside risk.
 
-- **Collars**: A collar strategy involves holding the underlying asset, buying a protective put, and, to finance this, selling a call option. This strategy caps both the downside risk and the upside potential.
+- **Collars**: A collar strategy involves holding the underlying asset, buying a protective put, and, to finance this, selling a call option. This strategy caps both the downside risk and the [upside potential](../u/upside_potential_in_trading.md).
 
 #### Algorithmic & Systematic Trading
 
-Automated, [algorithmic trading](../a/algorithmic_trading.md) systems can be employed for portfolio insurance by systematically applying rules that adjust the portfolio's exposure based on market conditions. Algorithms can be programmed to execute strategies in real-time, taking into account market data, risk models, and historical performance.
+Automated, [algorithmic trading](../a/algorithmic_trading.md) systems can be employed for portfolio insurance by systematically applying rules that adjust the portfolio's exposure based on market conditions. Algorithms can be programmed to execute strategies in real-time, taking into account market data, [risk models](../r/risk_models_in_trading.md), and historical performance.
 
 - **[Mean-variance optimization](../m/mean-variance_optimization.md)**: Algorithms can dynamically adjust the portfolio based on modern portfolio theory to balance expected return against risk.
   
@@ -34,7 +34,7 @@ Automated, [algorithmic trading](../a/algorithmic_trading.md) systems can be emp
 
 To implement portfolio insurance effectively, a combination of theoretical knowledge and practical tools is essential. Modern financial systems have made portfolio insurance strategies accessible to institutional and retail investors alike. Here are a few practical considerations:
 
-- **Brokerage Platforms**: Most brokerage platforms offer advanced trading functionalities that support portfolio insurance strategies, including options trading and [dynamic hedging](../d/dynamic_hedging.md) tools. For instance, platforms like Interactive Brokers [Interactive Brokers](https://www.interactivebrokers.com) offer sophisticated [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) tools.
+- **Brokerage Platforms**: Most brokerage platforms offer advanced trading functionalities that support portfolio insurance strategies, including options trading and [dynamic hedging](../d/dynamic_hedging.md) tools. For instance, platforms like [Interactive Brokers](../i/interactive_brokers.md) [Interactive Brokers](https://www.interactivebrokers.com) offer sophisticated [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) tools.
 
 - **[Risk Management](../r/risk_management.md) Tools**: Several financial institutions provide [risk management](../r/risk_management.md) tools that can help tailor portfolio insurance strategies. One such example is [Bloomberg](../b/bloomberg.md)'s Portfolio & Risk Analytics solutions which provide real-time risk tracking and analytic capabilities [Bloomberg](https://www.bloomberg.com/professional/product/portfolio-and-risk-analytics/).
 

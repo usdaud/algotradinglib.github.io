@@ -113,7 +113,7 @@ Invesco's equal-weighted S&P 500 ETF provides exposure to the S&P 500 but with e
 
 ### Data and Technology Integration
 
-Advances in data science and technology are expected to further refine [Smart Beta](../s/smart_beta.md) strategies. Enhanced data analytics can improve factor selection and weighting mechanisms, leading to more [robust portfolio construction](../r/robust_portfolio_construction.md).
+Advances in [data science](../d/data_science_in_trading.md) and technology are expected to further refine [Smart Beta](../s/smart_beta.md) strategies. Enhanced data analytics can improve factor selection and weighting mechanisms, leading to more [robust portfolio construction](../r/robust_portfolio_construction.md).
 
 ### Customization and Personalized Strategies
 

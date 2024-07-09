@@ -20,7 +20,7 @@ High [dividend yield strategies](../d/dividend_yield_strategies.md) focus on inv
 
 4. **Dividend Aristocrats**: These are companies that have a history of consistently increasing dividends for at least 25 consecutive years. These companies are often included in high [dividend yield strategies](../d/dividend_yield_strategies.md) due to their reliability.
 
-5. **Risk Factors**: High dividend stocks are often seen as less risky compared to [growth stocks](../g/growth_stocks.md), but they can still be subject to interest rate risk and company-specific risks, such as declining earnings.
+5. **[Risk Factors](../r/risk_factors_in_trading.md)**: High dividend stocks are often seen as less risky compared to [growth stocks](../g/growth_stocks.md), but they can still be subject to interest rate risk and company-specific risks, such as declining earnings.
 
 ## Examples of Algorithmic High Dividend Yield Strategies
 
@@ -75,8 +75,8 @@ To implement a high dividend yield strategy algorithmically, the first step is t
 Sources for such data include financial APIs such as:
 
 - **Alpha Vantage**: [Alpha Vantage](https://www.alphavantage.co/)
-- **IEX Cloud**: [IEX Cloud](https://iexcloud.io/)
-- **Yahoo Finance API**: [Yahoo Finance](https://finance.yahoo.com/)
+- **[IEX Cloud](../i/iex_cloud.md)**: [IEX Cloud](https://iexcloud.io/)
+- **[Yahoo Finance](../y/yahoo_finance.md) API**: [Yahoo Finance](https://finance.yahoo.com/)
 
 ### Algorithm Design
 
@@ -120,7 +120,7 @@ Several firms and platforms specialize in facilitating [algorithmic trading](../
 2. **[TradeStation](../t/tradestation.md)**: A broker-dealer and futures commission merchant offering advanced trading solutions, including for algorithmic strategies.
    - [TradeStation](https://www.tradestation.com/)
 
-3. **Interactive Brokers**: A comprehensive trading platform offering advanced tools and APIs for automated trading.
+3. **[Interactive Brokers](../i/interactive_brokers.md)**: A comprehensive trading platform offering advanced tools and APIs for automated trading.
    - [Interactive Brokers](https://www.interactivebrokers.com/)
 
 By leveraging these platforms and tools, traders can effectively implement and manage high [dividend yield strategies](../d/dividend_yield_strategies.md) in [algorithmic trading](../a/algorithmic_trading.md), optimizing for both income generation and capital appreciation.

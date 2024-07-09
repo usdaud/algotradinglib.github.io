@@ -58,7 +58,7 @@ The flagship product, providing:
 ### Trading and Execution
 
 - Multi-asset electronic trading platforms
-- Order management and execution systems
+- [Order management](../o/order_management_in_trading.md) and execution systems
 - Pre-trade and post-trade analytics
 
 ### Communication
@@ -129,7 +129,7 @@ The flagship product, providing:
 
 - Refinitiv (formerly Thomson [Reuters](../r/reuters.md) Financial & Risk)
 - [FactSet](../f/factset.md)
-- S&P Global Market Intelligence
+- [S&P Global Market Intelligence](../s/snp_global_market_intelligence.md)
 - [Morningstar](../m/morningstar.md)
 
 Bloomberg's comprehensive suite of products, centered around the Bloomberg Terminal, has made it an integral part of the global financial ecosystem. Its combination of real-time data, news, analytics, and communication tools creates a powerful platform that's widely used across the financial industry. The company's continued innovation and expansion into areas like law, government, and sustainable finance further solidify its position as a leader in financial technology and information services.

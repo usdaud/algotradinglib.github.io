@@ -99,7 +99,7 @@ Hedge funds like Two Sigma (https://www.twosigma.com) use 1-hour charts as part 
 
 ### Market Noise
 
-While the 1-hour chart reduces noise compared to shorter time frames, it is not entirely immune to it. Traders must be cautious of false signals and whipsaws, especially in highly volatile markets.
+While the 1-hour chart reduces noise compared to shorter time frames, it is not entirely immune to it. Traders must be cautious of [false signals](../f/false_signals_in_trading.md) and whipsaws, especially in highly volatile markets.
 
 ### Overfitting
 
@@ -117,15 +117,15 @@ Developing and maintaining the technology infrastructure for [algorithmic tradin
 
 ### Artificial Intelligence and Machine Learning
 
-The integration of artificial intelligence (AI) and machine learning (ML) in [algorithmic trading](../a/algorithmic_trading.md) is poised to revolutionize the use of 1-hour charts. Advanced models can analyze vast amounts of data, identify complex patterns, and adapt to evolving market conditions.
+The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) in [algorithmic trading](../a/algorithmic_trading.md) is poised to revolutionize the use of 1-hour charts. Advanced models can analyze vast amounts of data, identify complex patterns, and adapt to evolving market conditions.
 
 ### Increased Adoption of Cloud Computing
 
-Cloud computing offers scalable and cost-effective solutions for [algorithmic trading](../a/algorithmic_trading.md). By leveraging cloud services, traders can access powerful computing resources, enhance collaboration, and improve their algorithms' performance on 1-hour charts.
+[Cloud computing](../c/cloud_computing_in_trading.md) offers scalable and cost-effective solutions for [algorithmic trading](../a/algorithmic_trading.md). By leveraging cloud services, traders can access powerful computing resources, enhance collaboration, and improve their algorithms' performance on 1-hour charts.
 
 ### Blockchain and Cryptocurrencies
 
-The rise of blockchain technology and cryptocurrencies presents new opportunities and challenges for [algorithmic trading](../a/algorithmic_trading.md). The 1-hour chart is applicable to cryptocurrency markets, allowing traders to develop strategies for this emerging asset class.
+The rise of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies presents new opportunities and challenges for [algorithmic trading](../a/algorithmic_trading.md). The 1-hour chart is applicable to cryptocurrency markets, allowing traders to develop strategies for this emerging asset class.
 
 ## Conclusion
 

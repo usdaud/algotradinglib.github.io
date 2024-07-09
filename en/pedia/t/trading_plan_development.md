@@ -32,7 +32,7 @@ Select or develop a trading strategy that aligns with your goals. Common [algori
 [Backtesting](../b/backtesting.md) involves testing a trading strategy on historical data to ensure its viability:
 
 - **Data Collection**: Obtain historical data relevant to your trading market from reliable sources.
-- **Simulation**: Apply your algorithm to the historical data to see how it would have performed.
+- **[Simulation](../s/simulation_in_trading.md)**: Apply your algorithm to the historical data to see how it would have performed.
 - **Optimization**: Fine-tune the parameters of your model to improve performance while avoiding overfitting.
 
 ### 5. **Risk Management**

@@ -106,7 +106,7 @@ Advanced algorithms may use multiple indicators concurrently to enhance decision
 
 ### False Signals
 
-One of the significant challenges with overbought indicators is the possibility of false signals. Overbought does not always mean the price will drop immediately. Developing algorithms capable of distinguishing between genuine and false signals can be complex and often requires combining multiple indicators and contextual analysis.
+One of the significant challenges with overbought indicators is the possibility of [false signals](../f/false_signals_in_trading.md). Overbought does not always mean the price will drop immediately. Developing algorithms capable of distinguishing between genuine and [false signals](../f/false_signals_in_trading.md) can be complex and often requires combining multiple indicators and contextual analysis.
 
 ### Market Conditions
 

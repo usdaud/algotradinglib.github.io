@@ -57,7 +57,7 @@ Turnover rate is the proportion of the portfolio that is traded within a certain
 
 ### Simulation and Backtesting
 
-Simulation and [backtesting](../b/backtesting.md) are essential tools in algo trading to test the performance of a trading strategy over historical data. By analyzing the number of trades executed in backtests, traders can optimize their algorithms for better performance.
+[Simulation](../s/simulation_in_trading.md) and [backtesting](../b/backtesting.md) are essential tools in algo trading to test the performance of a trading strategy over historical data. By analyzing the number of trades executed in backtests, traders can optimize their algorithms for better performance.
 
 - **Tradeworx Inc.**: [Tradeworx](http://www.tradeworx.com) offers platforms for [backtesting](../b/backtesting.md) and strategy development.
 - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) provides a cloud-based platform for [backtesting](../b/backtesting.md) and live algorithm trading.
@@ -91,7 +91,7 @@ The algorithm's trade frequency needs to be analyzed to ensure it does not incur
 
 ### Cost and Profitability Analysis
 
-The firm calculates the average profit per trade and finds that during high-volatility periods, the trade success rate diminishes due to increased market noise. Adjusting the algorithm to lower its trade frequency during such periods improves the overall success rate and profit margins.
+The firm calculates the average profit per trade and finds that during high-volatility periods, the trade success rate diminishes due to increased market noise. Adjusting the algorithm to lower its trade frequency during such periods improves the overall success rate and [profit margins](../p/profit_margins_in_trading.md).
 
 ### Risk Management
 
@@ -99,4 +99,4 @@ By analyzing the drawdown periods and [Sharpe ratio](../s/sharpe_ratio.md), the 
 
 ## Conclusion
 
-Analyzing the number of trades executed by an algorithm is a multi-faceted process involving various metrics, tools, and methodologies. It helps traders understand the efficiency, costs, risks, and potential for profitability of their [trading strategies](../t/trading_strategies.md). Firms leveraging advanced tools such as simulation platforms, machine learning, and statistical analysis can optimize their [trading algorithms](../t/trading_algorithms.md) to perform better in live markets. This optimization not only contributes to higher profitability but also ensures sustainable and robust trading operations.
+Analyzing the number of trades executed by an algorithm is a multi-faceted process involving various metrics, tools, and methodologies. It helps traders understand the efficiency, costs, risks, and potential for profitability of their [trading strategies](../t/trading_strategies.md). Firms leveraging advanced tools such as [simulation](../s/simulation_in_trading.md) platforms, machine learning, and statistical analysis can optimize their [trading algorithms](../t/trading_algorithms.md) to perform better in live markets. This optimization not only contributes to higher profitability but also ensures sustainable and robust trading operations.

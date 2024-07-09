@@ -39,8 +39,8 @@ Risk budgeting is a comprehensive approach to [risk management](../r/risk_manage
 3. **Beta Adjusted Positions**:
     - Beta measures the sensitivity of a portfolio to market movements. By adjusting positions based on their beta, traders can control their market exposure. This technique ensures that the risk budget remains within limits during volatile market conditions.
 
-4. **Stress Testing and Scenario Analysis**:
-    - Stress testing involves evaluating the impact of extreme market conditions on a portfolio. Scenario analysis, on the other hand, assesses the impact of specific hypothetical events. Together, they help in understanding the potential risks that aren't captured by standard [risk metrics](../r/risk_metrics.md).
+4. **[Stress Testing](../s/stress_testing_in_trading.md) and Scenario Analysis**:
+    - [Stress testing](../s/stress_testing_in_trading.md) involves evaluating the impact of extreme market conditions on a portfolio. Scenario analysis, on the other hand, assesses the impact of specific hypothetical events. Together, they help in understanding the potential risks that aren't captured by standard [risk metrics](../r/risk_metrics.md).
 
 ### Practical Implementation
 
@@ -91,7 +91,7 @@ While risk budgeting provides a structured and disciplined approach to [risk man
 
 ### Conclusion
 
-Risk budgeting is an indispensable part of [algorithmic trading](../a/algorithmic_trading.md). It ensures that risk is systematically allocated and managed, preventing significant losses and optimizing returns. By employing techniques like VaR, CVaR, and stress testing, traders can create resilient portfolios capable of withstanding market volatility. Despite the challenges, the use of advanced software and platforms makes risk budgeting accessible and effective for both individual traders and large institutions.
+Risk budgeting is an indispensable part of [algorithmic trading](../a/algorithmic_trading.md). It ensures that risk is systematically allocated and managed, preventing significant losses and optimizing returns. By employing techniques like VaR, CVaR, and [stress testing](../s/stress_testing_in_trading.md), traders can create resilient portfolios capable of withstanding market volatility. Despite the challenges, the use of advanced software and platforms makes risk budgeting accessible and effective for both individual traders and large institutions.
 
 ### References
 

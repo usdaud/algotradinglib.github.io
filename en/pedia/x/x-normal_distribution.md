@@ -1,12 +1,12 @@
 # X-Normal Distribution
 
-The X-Normal Distribution, often referred to as the Johnson's SU distribution or simply the SU distribution, is a continuous probability distribution used extensively within the field of statistics and more specifically in the analysis of financial data and [algorithmic trading](../a/algorithmic_trading.md). This distribution belongs to the family of Johnson distributions, which were introduced by Norman L. Johnson in 1949. These distributions are particularly useful for modeling data that does not conform to the normal distribution ([Gaussian distribution](../g/gaussian_distribution.md)), especially skewed and heavy-tailed data sets, which are common in financial returns.
+The X-[Normal Distribution](../n/normal_distribution_in_trading.md), often referred to as the Johnson's SU distribution or simply the SU distribution, is a continuous probability distribution used extensively within the field of statistics and more specifically in the analysis of financial data and [algorithmic trading](../a/algorithmic_trading.md). This distribution belongs to the family of Johnson distributions, which were introduced by Norman L. Johnson in 1949. These distributions are particularly useful for modeling data that does not conform to the [normal distribution](../n/normal_distribution_in_trading.md) ([Gaussian distribution](../g/gaussian_distribution.md)), especially skewed and heavy-tailed data sets, which are common in financial returns.
 
 ## Mathematical Formulation
 
-The X-Normal Distribution is described using a transformation of a normal variate. The transformation involves parameters that control [skewness and kurtosis](../s/skewness_and_kurtosis.md), making it flexible enough to model a variety of shapes for probability distributions.
+The X-[Normal Distribution](../n/normal_distribution_in_trading.md) is described using a transformation of a normal variate. The transformation involves parameters that control [skewness and kurtosis](../s/skewness_and_kurtosis.md), making it flexible enough to model a variety of shapes for [probability distributions](../p/probability_distributions_in_trading.md).
 
-The X-Normal Distribution \(Y\) can be defined using a normal variate \(Z\):
+The X-[Normal Distribution](../n/normal_distribution_in_trading.md) \(Y\) can be defined using a normal variate \(Z\):
 
 \[ Y = \gamma + \delta \sinh\left(\frac{Z - \xi}{\lambda}\right) \]
 
@@ -18,7 +18,7 @@ where:
 
 ### Probability Density Function (PDF)
 
-The [probability density function](../p/probability_density_function.md) of the X-Normal Distribution is given by:
+The [probability density function](../p/probability_density_function.md) of the X-[Normal Distribution](../n/normal_distribution_in_trading.md) is given by:
 
 \[ f(y|\gamma, \delta, \xi, \lambda) = \frac{\delta}{\sqrt{2\pi}} \frac{\exp\left(-\frac{1}{2} \left(\frac{\left(\sinh^{-1}\left(\frac{y - \xi}{\delta}\right) - \gamma\right)}{\lambda}\right)^2\right)}{\sqrt{1 + \left(\frac{y - \xi}{\delta}\right)^2}} \]
 
@@ -26,13 +26,13 @@ where \(\sinh^{-1}\) is the inverse hyperbolic sine function.
 
 ### Cumulative Distribution Function (CDF)
 
-The cumulative distribution function of the X-Normal Distribution cannot be expressed in a closed form and typically needs to be evaluated numerically. However, it is based on the cumulative distribution function of the normal distribution, \(\Phi(z)\):
+The [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the X-[Normal Distribution](../n/normal_distribution_in_trading.md) cannot be expressed in a closed form and typically needs to be evaluated numerically. However, it is based on the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the [normal distribution](../n/normal_distribution_in_trading.md), \(\Phi(z)\):
 
 \[ F(y|\gamma, \delta, \xi, \lambda) = \Phi\left(\frac{\sinh^{-1}\left(\frac{y - \xi}{\delta}\right) - \gamma}{\lambda}\right) \]
 
 ### Moments
 
-The moments of the X-Normal Distribution are complex functions of its parameters. Nevertheless, the mean (\(\mu\)), variance (\(\sigma^2\)), skewness (\(\gamma_1\)), and kurtosis (\(\beta_2\)) can be computed numerically.
+The moments of the X-[Normal Distribution](../n/normal_distribution_in_trading.md) are complex functions of its parameters. Nevertheless, the mean (\(\mu\)), variance (\(\sigma^2\)), skewness (\(\gamma_1\)), and kurtosis (\(\beta_2\)) can be computed numerically.
 
 #### Mean
 
@@ -48,27 +48,27 @@ The variance is given by:
 
 #### Skewness and Kurtosis
 
-The [skewness and kurtosis](../s/skewness_and_kurtosis.md) are derived from higher-order moments but are generally more complicated to express in closed form. These moments indicate how the distribution deviates from the normal distribution in terms of asymmetry and tail heaviness.
+The [skewness and kurtosis](../s/skewness_and_kurtosis.md) are derived from higher-order moments but are generally more complicated to express in closed form. These moments indicate how the distribution deviates from the [normal distribution](../n/normal_distribution_in_trading.md) in terms of asymmetry and tail heaviness.
 
 ## Applications in Algorithmic Trading
 
-The field of [algorithmic trading](../a/algorithmic_trading.md) involves the use of complex algorithms and mathematical models to make trading decisions. The X-Normal Distribution is particularly useful in this context for several reasons:
+The field of [algorithmic trading](../a/algorithmic_trading.md) involves the use of complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md) to make trading decisions. The X-[Normal Distribution](../n/normal_distribution_in_trading.md) is particularly useful in this context for several reasons:
 
 ### Modeling Financial Returns
 
-Financial returns often exhibit skewness and heavy tails—characteristics that are not well modeled by the normal distribution. The flexibility of the X-Normal Distribution in accommodating these features makes it a valuable tool for financial engineers and quants.
+Financial returns often exhibit skewness and heavy tails—characteristics that are not well modeled by the [normal distribution](../n/normal_distribution_in_trading.md). The flexibility of the X-[Normal Distribution](../n/normal_distribution_in_trading.md) in accommodating these features makes it a valuable tool for financial engineers and quants.
 
 ### Risk Management
 
-Proper [risk management](../r/risk_management.md) requires accurate modeling of asset returns to understand the likelihood of extreme losses. The X-Normal Distribution's ability to model heavy tails makes it suitable for Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR) calculations, which are critical in [risk management](../r/risk_management.md) contexts.
+Proper [risk management](../r/risk_management.md) requires accurate modeling of asset returns to understand the likelihood of extreme losses. The X-[Normal Distribution](../n/normal_distribution_in_trading.md)'s ability to model heavy tails makes it suitable for Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR) calculations, which are critical in [risk management](../r/risk_management.md) contexts.
 
 ### Option Pricing
 
-[Option pricing models](../o/option_pricing_models.md) often assume normally distributed returns; however, real market data usually exhibits [skewness and kurtosis](../s/skewness_and_kurtosis.md). By using the X-Normal Distribution to model the underlying asset's return distribution, traders can achieve more accurate option prices and [hedging strategies](../h/hedging_strategies.md).
+[Option pricing models](../o/option_pricing_models.md) often assume normally distributed returns; however, real market data usually exhibits [skewness and kurtosis](../s/skewness_and_kurtosis.md). By using the X-[Normal Distribution](../n/normal_distribution_in_trading.md) to model the underlying asset's return distribution, traders can achieve more accurate option prices and [hedging strategies](../h/hedging_strategies.md).
 
 ### Portfolio Optimization
 
-In [portfolio optimization](../p/portfolio_optimization.md), the assumption of normality can lead to suboptimal asset allocations. The X-Normal Distribution allows for more accurate modeling of the return distributions, leading to improved portfolio construction and performance.
+In [portfolio optimization](../p/portfolio_optimization.md), the assumption of normality can lead to suboptimal asset allocations. The X-[Normal Distribution](../n/normal_distribution_in_trading.md) allows for more accurate modeling of the return distributions, leading to improved portfolio construction and performance.
 
 ## Implementation in R and Python
 
@@ -127,7 +127,7 @@ gamma, delta, xi, lambda_ = fit_params
 
 ## Companies Utilizing X-Normal Distribution
 
-Several companies and financial institutions employ advanced statistical methods like the X-Normal Distribution for modeling market behavior, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md). Notable examples include:
+Several companies and financial institutions employ advanced statistical methods like the X-[Normal Distribution](../n/normal_distribution_in_trading.md) for modeling market behavior, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md). Notable examples include:
 
 - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect Website](https://www.quantconnect.com)
 - **Kensho Technologies**: [Kensho Website](https://www.kensho.com)
@@ -136,5 +136,5 @@ Several companies and financial institutions employ advanced statistical methods
 
 ## Conclusion
 
-The X-Normal Distribution, or Johnson's SU distribution, is a powerful tool for modeling non-normal financial data. Its flexibility in capturing skewness and heavy tails makes it particularly suitable for various applications in [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md), option pricing, and [portfolio optimization](../p/portfolio_optimization.md). Its usage in modern financial analysis highlights the importance of selecting appropriate probability distributions to account for real-world data behaviors in order to make more informed and effective financial decisions.
+The X-[Normal Distribution](../n/normal_distribution_in_trading.md), or Johnson's SU distribution, is a powerful tool for modeling non-normal financial data. Its flexibility in capturing skewness and heavy tails makes it particularly suitable for various applications in [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md), option pricing, and [portfolio optimization](../p/portfolio_optimization.md). Its usage in modern financial analysis highlights the importance of selecting appropriate [probability distributions](../p/probability_distributions_in_trading.md) to account for real-world data behaviors in order to make more informed and effective financial decisions.
 

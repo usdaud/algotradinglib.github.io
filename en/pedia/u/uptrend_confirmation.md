@@ -73,7 +73,7 @@ Surveys such as the American Association of Individual Investors (AAII) sentimen
 
 ### 8.2 Interactive Brokers
 
-Interactive Brokers provides tools for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) that can confirm uptrends using [technical indicators](../t/technical_indicators.md) and [volume patterns](../v/volume_patterns.md).
+[Interactive Brokers](../i/interactive_brokers.md) provides tools for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) that can confirm uptrends using [technical indicators](../t/technical_indicators.md) and [volume patterns](../v/volume_patterns.md).
 [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### 8.3 MetaTrader

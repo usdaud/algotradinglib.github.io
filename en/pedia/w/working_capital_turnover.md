@@ -1,6 +1,6 @@
 # Working Capital Turnover
 
-Working Capital Turnover is a financial metric that quantifies how efficiently a company utilizes its working capital to generate sales. In essence, it is a measure of a company's operational efficiency and short-term financial health. The formula for calculating working capital turnover is:
+Working Capital Turnover is a financial metric that quantifies how efficiently a company utilizes its working capital to generate sales. In essence, it is a measure of a company's [operational efficiency](../o/operational_efficiency_in_trading.md) and short-term financial health. The formula for calculating working capital turnover is:
 
 \[ \text{Working Capital Turnover} = \frac{\text{Net Sales}}{\text{Average Working Capital}} \]
 
@@ -12,7 +12,7 @@ where:
 
 ### Importance of Working Capital Turnover
 
-1. **Operational Efficiency**: High working capital turnover indicates that the company is efficiently managing its short-term assets and liabilities to generate sales. This often translates to better operational performance and liquidity.
+1. **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**: High working capital turnover indicates that the company is efficiently managing its short-term assets and liabilities to generate sales. This often translates to better operational performance and liquidity.
 2. **Cash Flow Management**: Active management of working capital turnover ensures that the company has adequate liquidity to meet its short-term obligations, thus preventing potential cash flow problems.
 3. **Investment Decisions**: Investors use working capital turnover as a key indicator to assess how well the company is utilizing its resources, which influences investment decisions. A higher ratio generally signifies sound financial management.
 
@@ -67,5 +67,5 @@ Companies can adopt several strategies to enhance their working capital turnover
 
 ### Conclusion
 
-Working capital turnover is a crucial metric for understanding how efficiently a company is managing its short-term assets and liabilities to generate revenue. By comparing this ratio against industry benchmarks and analyzing trends over time, companies can gain valuable insights into their financial health and operational efficiency, making more informed strategic decisions.
+Working capital turnover is a crucial metric for understanding how efficiently a company is managing its short-term assets and liabilities to generate revenue. By comparing this ratio against industry benchmarks and analyzing trends over time, companies can gain valuable insights into their financial health and [operational efficiency](../o/operational_efficiency_in_trading.md), making more informed strategic decisions.
 

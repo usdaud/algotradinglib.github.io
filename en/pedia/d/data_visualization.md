@@ -34,7 +34,7 @@ Several visualization techniques are commonly used in [algorithmic trading](../a
    - Bar Charts: Represent categorical data with rectangular bars.
    - Histograms: Illustrate the frequency distribution of numerical data.
 
-3. **Heatmaps**:
+3. **[Heatmaps](../h/heatmaps_in_trading.md)**:
    - Display data values in a matrix format.
    - Use color gradation to represent intensity.
 
@@ -56,7 +56,7 @@ For more sophisticated analysis, advanced visualization techniques can be employ
 
 1. **Network Graphs**:
    - Represent relationships between entities using nodes and edges.
-   - Useful for social network analysis and fraud detection.
+   - Useful for social [network analysis](../n/network_analysis_in_trading.md) and fraud detection.
 
 2. **Geospatial Visualizations**:
    - Map data points to geographic locations.
@@ -72,7 +72,7 @@ For more sophisticated analysis, advanced visualization techniques can be employ
 
 ## Tools and Software for Data Visualization
 
-Numerous tools and software platforms are available for creating effective data visualizations in [algorithmic trading](../a/algorithmic_trading.md). Some of the popular ones include:
+Numerous tools and [software platforms](../s/software_platforms_for_trading.md) are available for creating effective data visualizations in [algorithmic trading](../a/algorithmic_trading.md). Some of the popular ones include:
 
 1. **Matplotlib**:
    - A Python library for creating static, animated, and interactive visualizations.

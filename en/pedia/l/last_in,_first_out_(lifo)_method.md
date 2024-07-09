@@ -30,7 +30,7 @@ Using LIFO in algo trading can influence tax calculations, cost basis, and ultim
 
 Efficient data management is critical when implementing LIFO in any trading system. It involves keeping detailed records of each asset’s acquisition date and cost. Modern [algorithmic trading](../a/algorithmic_trading.md) platforms leverage advanced databases and ledger systems to manage this data efficiently.
 
-- **Blockchain and Distributed Ledgers**: Utilizing blockchain technology can enhance transparency and accuracy in tracking asset acquisition dates and costs. Platforms like Ethereum can be used to develop decentralized applications (DApps) that manage transaction histories in an immutable and transparent manner.
+- **[Blockchain](../b/blockchain_in_trading.md) and Distributed Ledgers**: Utilizing [blockchain](../b/blockchain_in_trading.md) technology can enhance transparency and accuracy in tracking asset acquisition dates and costs. Platforms like Ethereum can be used to develop decentralized applications (DApps) that manage transaction histories in an immutable and transparent manner.
 
 **2. Software and Algorithms**
 
@@ -64,4 +64,4 @@ Changes in tax policies can impact the viability of LIFO. For instance, proposal
 
 ### Conclusion
 
-The LIFO method offers distinct advantages for specific [trading strategies](../t/trading_strategies.md), particularly in high-frequency and [short-term trading](../s/short-term_trading.md) environments. However, implementing LIFO in algo trading requires addressing significant complexities, such as regulatory compliance, data management, and sophisticated algorithm development. By leveraging modern technology like blockchain for data management and integrating with advanced accounting systems, algo traders can harness the benefits of LIFO while ensuring compliance and efficiency. Adapting to changing regulatory landscapes and maintaining robust system designs will be crucial for the sustainable application of LIFO in [algorithmic trading](../a/algorithmic_trading.md). 
+The LIFO method offers distinct advantages for specific [trading strategies](../t/trading_strategies.md), particularly in high-frequency and [short-term trading](../s/short-term_trading.md) environments. However, implementing LIFO in algo trading requires addressing significant complexities, such as regulatory compliance, data management, and sophisticated algorithm development. By leveraging modern technology like [blockchain](../b/blockchain_in_trading.md) for data management and integrating with advanced accounting systems, algo traders can harness the benefits of LIFO while ensuring compliance and efficiency. Adapting to changing regulatory landscapes and maintaining robust system designs will be crucial for the sustainable application of LIFO in [algorithmic trading](../a/algorithmic_trading.md). 

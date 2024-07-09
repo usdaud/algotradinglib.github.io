@@ -4,7 +4,7 @@ Reverse engineering [trading strategies](../t/trading_strategies.md) involves de
 
 ## Understanding Trading Strategies
 
-[Trading strategies](../t/trading_strategies.md) are systematic approaches to buying and selling financial instruments, such as stocks, commodities, or currencies, to generate profits. They can range from simple techniques based on price movements to complex algorithms that incorporate various mathematical models and [real-time data analysis](../r/real-time_data_analysis.md). Broadly speaking, [trading strategies](../t/trading_strategies.md) can be categorized into different types such as:
+[Trading strategies](../t/trading_strategies.md) are systematic approaches to buying and selling financial instruments, such as stocks, commodities, or currencies, to generate profits. They can range from simple techniques based on price movements to complex algorithms that incorporate various [mathematical models](../m/mathematical_models_in_trading.md) and [real-time data analysis](../r/real-time_data_analysis.md). Broadly speaking, [trading strategies](../t/trading_strategies.md) can be categorized into different types such as:
 
 - **[Trend Following](../t/trend_following.md):** Strategies that identify and capitalize on market trends.
 - **[Mean Reversion](../m/mean_reversion.md):** Strategies that exploit the tendency of asset prices to revert to their historical average.
@@ -25,7 +25,7 @@ Reverse engineering [trading strategies](../t/trading_strategies.md) is essentia
 
 ### 1. Data Collection
 
-The first step in reverse engineering a trading strategy is to collect relevant data. This includes historical price data, trading volumes, market news, and other financial indicators. Data can be obtained from various sources, including brokerage firms, financial data providers like [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md), and free sources like Yahoo Finance.
+The first step in reverse engineering a trading strategy is to collect relevant data. This includes historical price data, trading volumes, market news, and other financial indicators. Data can be obtained from various sources, including brokerage firms, financial data providers like [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md), and free sources like [Yahoo Finance](../y/yahoo_finance.md).
 
 ### 2. Identifying Patterns and Signals
 
@@ -44,7 +44,7 @@ After identifying patterns and signals, the next step is to hypothesize the logi
 
 ### 4. Strategy Simulation
 
-With a hypothesis in place, the strategy needs to be tested through simulation. This involves implementing the hypothesized rules in a trading simulator and running backtests on historical data. Key metrics to evaluate during this step include:
+With a hypothesis in place, the strategy needs to be tested through [simulation](../s/simulation_in_trading.md). This involves implementing the hypothesized rules in a trading simulator and running backtests on historical data. Key metrics to evaluate during this step include:
 
 - **Profitability:** Assessing the strategy's ability to generate profits.
 - **Risk-Adjusted Returns:** Evaluating the strategy's returns relative to the risk taken.

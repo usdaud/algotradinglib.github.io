@@ -10,7 +10,7 @@ The Price-Earnings Ratio (P/E Ratio) is one of the most commonly used valuation 
 \[ \text{P/E Ratio} = \frac{\text{Market Price per Share}}{\text{Earnings per Share (EPS)}} \]
 
 ### Interpretation
-- **High P/E Ratio**: Indicates that investors expect high growth rates in the future. It might also suggest that the stock is overvalued.
+- **High P/E Ratio**: Indicates that investors expect high [growth rates](../g/growth_rates_in_trading.md) in the future. It might also suggest that the stock is overvalued.
 - **Low P/E Ratio**: Suggests that the stock might be undervalued, or the company is experiencing difficulties.
 
 ### Example

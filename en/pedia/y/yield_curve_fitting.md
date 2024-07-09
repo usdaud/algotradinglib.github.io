@@ -12,7 +12,7 @@ A [yield curve](../y/yield_curve.md) is a graphical representation of yields on 
 
 2. **Inverted [Yield Curve](../y/yield_curve.md)**: Here, the curve slopes downward, indicating that short-term interest rates are higher than long-term rates. An inverted [yield curve](../y/yield_curve.md) is often seen as a predictor of economic recession.
 
-3. **Flat [Yield Curve](../y/yield_curve.md)**: In this case, yields are similar across different maturities, suggesting uncertainty about future interest rates or economic conditions.
+3. **Flat [Yield Curve](../y/yield_curve.md)**: In this case, yields are similar across different maturities, suggesting [uncertainty](../u/uncertainty_in_trading.md) about future interest rates or economic conditions.
 
 4. **Humped [Yield Curve](../y/yield_curve.md)**: This occurs when the [yield curve](../y/yield_curve.md) is normal at the short end and inverted at the long end, showing a peak at some intermediate maturity.
 

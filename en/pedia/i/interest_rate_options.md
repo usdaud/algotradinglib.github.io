@@ -80,7 +80,7 @@ Market risk arises due to fluctuations in interest rates which can affect the op
 [Liquidity risk](../l/liquidity_risk.md) is the potential challenge in buying or selling the option without significantly affecting its price. Less liquid markets can lead to wider bid-ask spreads and higher transaction costs.
 
 #### 3. Credit Risk
-Credit risk refers to the possibility that the counterparty might default on its obligations. In most over-the-counter (OTC) markets, this risk is managed through collateral agreements and margin requirements.
+Credit risk refers to the possibility that the counterparty might default on its obligations. In most [over-the-counter (OTC) markets](../o/over-the-counter_markets.md), this risk is managed through collateral agreements and margin requirements.
 
 #### 4. Model Risk
 Model risk is associated with the potential errors in the [valuation models](../v/valuation_models.md) used for pricing. Improper models can result in incorrect valuations and mispricing of risk.

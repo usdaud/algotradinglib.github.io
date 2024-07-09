@@ -65,11 +65,11 @@ This script calculates the Z-Score for each closing price of Apple's stock over 
 
 ### Renaissance Technologies
 
-Renaissance Technologies is a renowned hedge fund that employs sophisticated mathematical models and algorithms, including Z-Scores, to trade in financial markets. The firm is known for its quantitative approach and has a stellar track record of returns, largely driven by its ability to exploit statistical anomalies in the market. More information about Renaissance Technologies can be found [here](https://www.rentec.com/).
+Renaissance Technologies is a renowned hedge fund that employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, including Z-Scores, to trade in financial markets. The firm is known for its quantitative approach and has a stellar track record of returns, largely driven by its ability to exploit statistical anomalies in the market. More information about Renaissance Technologies can be found [here](https://www.rentec.com/).
 
 ### Two Sigma
 
-Two Sigma is another prominent quantitative hedge fund that leverages a vast array of data and statistical methods, including Z-Scores, to make trading decisions. The firm uses machine learning and artificial intelligence to identify trading opportunities and manage risk. Two Sigma's approach involves extensive use of Z-Scores to develop and fine-tune their [trading models](../t/trading_models.md). More details can be found on their [website](https://www.twosigma.com/).
+Two Sigma is another prominent quantitative hedge fund that leverages a vast array of data and statistical methods, including Z-Scores, to make trading decisions. The firm uses machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify trading opportunities and manage risk. Two Sigma's approach involves extensive use of Z-Scores to develop and fine-tune their [trading models](../t/trading_models.md). More details can be found on their [website](https://www.twosigma.com/).
 
 ## Conclusion
 

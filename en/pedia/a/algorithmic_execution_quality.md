@@ -43,7 +43,7 @@ VWAP and TWAP are popular [trading strategies](../t/trading_strategies.md) used 
 
 ### Algorithmic Adjustments and Fine-Tuning
 
-Continuous fine-tuning and adjustments to [trading algorithms](../t/trading_algorithms.md) based on historical performance and market conditions can significantly improve execution quality. This includes back-testing, simulation, and the use of machine learning to adapt algorithms to changing market conditions.
+Continuous fine-tuning and adjustments to [trading algorithms](../t/trading_algorithms.md) based on historical performance and market conditions can significantly improve execution quality. This includes back-testing, [simulation](../s/simulation_in_trading.md), and the use of machine learning to adapt algorithms to changing market conditions.
 
 ## Industry Standards and Compliance
 
@@ -61,11 +61,11 @@ Institutional investors such as hedge funds and mutual funds often deploy comple
 
 ### Retail Trading Platforms
 
-Platforms like [Robinhood](../r/robinhood.md) (https://[robinhood](../r/robinhood.md).com/) and E*TRADE (https://us.etrade.com/home) also incorporate algorithms to provide retail investors with improved execution quality. These platforms often provide transparency into their execution quality metrics, helping retail investors make informed decisions.
+Platforms like [Robinhood](../r/robinhood.md) (https://[robinhood](../r/robinhood.md).com/) and [E*TRADE](../e/e_trade.md) (https://us.etrade.com/home) also incorporate algorithms to provide retail investors with improved execution quality. These platforms often provide transparency into their execution quality metrics, helping retail investors make informed decisions.
 
 ### High-Frequency Trading (HFT)
 
-HFT firms like Virtu Financial (https://www.virtu.com/) employ advanced algorithms that focus extensively on execution quality. Given the razor-thin profit margins in HFT, even the smallest improvements in execution can lead to significant profitability.
+HFT firms like Virtu Financial (https://www.virtu.com/) employ advanced algorithms that focus extensively on execution quality. Given the razor-thin [profit margins](../p/profit_margins_in_trading.md) in HFT, even the smallest improvements in execution can lead to significant profitability.
 
 ## Future Trends in Algorithmic Execution Quality
 
@@ -75,7 +75,7 @@ The integration of machine learning and [artificial intelligence in trading](../
 
 ### Blockchain and Smart Contracts
 
-Blockchain technology and smart contracts offer the potential for increased transparency and reduced [counterparty risk](../c/counterparty_risk.md) in trading. These advancements could lead to improved execution quality by providing more reliable and efficient settlement processes.
+[Blockchain](../b/blockchain_in_trading.md) technology and [smart contracts](../s/smart_contracts_in_trading.md) offer the potential for increased transparency and reduced [counterparty risk](../c/counterparty_risk.md) in trading. These advancements could lead to improved execution quality by providing more reliable and efficient settlement processes.
 
 ### Enhanced Real-Time Analytics
 

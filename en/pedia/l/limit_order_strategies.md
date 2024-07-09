@@ -60,7 +60,7 @@ Algorithms detect trends based on historical price movements, placing limit orde
 
 ### Brokerage Services
 
-- **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com/) provides advanced trading platforms and tools, ideal for implementing dynamic limit order strategies.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com/) provides advanced trading platforms and tools, ideal for implementing dynamic limit order strategies.
 - **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com/) offers a suite of trading tools and integration capabilities for algorithmic traders.
 - **[Robinhood](../r/robinhood.md)**: [Robinhood](https://robinhood.com/), though designed for retail investors, supports basic limit order functionality.
 
@@ -72,7 +72,7 @@ Algorithms can dynamically adjust limit prices based on real-time data, optimizi
 
 ### Machine Learning
 
-Machine learning models enhance limit order strategies by predicting short-term price movements. Techniques like reinforcement learning and neural networks optimize order placement decisions.
+Machine learning models enhance limit order strategies by predicting short-term price movements. Techniques like reinforcement learning and [neural networks](../n/neural_networks_in_trading.md) optimize order placement decisions.
 
 ### High-Frequency Trading (HFT)
 

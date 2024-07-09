@@ -1,16 +1,16 @@
 # Quantitative Arbitrage
 
-Quantitative [arbitrage](../a/arbitrage.md), often abbreviated as "quant arb," is a trading strategy that applies advanced mathematical models and computational techniques to exploit market inefficiencies. The primary goal of quantitative [arbitrage](../a/arbitrage.md) is to achieve risk-adjusted profits through the identification and exploitation of small price discrepancies across different markets or financial instruments. This approach is broad and can be divided into several sub-categories, including statistical [arbitrage](../a/arbitrage.md), index [arbitrage](../a/arbitrage.md), and convertible [arbitrage](../a/arbitrage.md), among others. In this article, we will explore the various dimensions of quantitative [arbitrage](../a/arbitrage.md), detail its methodologies, and examine its role within financial markets.
+Quantitative [arbitrage](../a/arbitrage.md), often abbreviated as "quant arb," is a trading strategy that applies advanced [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques to exploit market inefficiencies. The primary goal of quantitative [arbitrage](../a/arbitrage.md) is to achieve risk-adjusted profits through the identification and exploitation of small price discrepancies across different markets or financial instruments. This approach is broad and can be divided into several sub-categories, including statistical [arbitrage](../a/arbitrage.md), index [arbitrage](../a/arbitrage.md), and convertible [arbitrage](../a/arbitrage.md), among others. In this article, we will explore the various dimensions of quantitative [arbitrage](../a/arbitrage.md), detail its methodologies, and examine its role within financial markets.
 
 ## Understanding Quantitative Arbitrage
 
-Quantitative [arbitrage](../a/arbitrage.md) involves the use of quantitative methods, such as statistical models, machine learning algorithms, and other computational tools, to identify and capitalize on inefficiencies in the market. These inefficiencies may arise due to a variety of factors, such as market structure, liquidity imbalances, or behavioral biases among investors. The essence of quantitative [arbitrage](../a/arbitrage.md) is to develop strategies that are market-neutral, aiming to profit from the convergence of price discrepancies while minimizing exposure to broader market risks.
+Quantitative [arbitrage](../a/arbitrage.md) involves the use of quantitative methods, such as statistical models, machine [learning algorithms](../l/learning_algorithms_in_trading.md), and other computational tools, to identify and capitalize on inefficiencies in the market. These inefficiencies may arise due to a variety of factors, such as market structure, liquidity imbalances, or [behavioral biases](../b/behavioral_biases_in_trading.md) among investors. The essence of quantitative [arbitrage](../a/arbitrage.md) is to develop strategies that are market-neutral, aiming to profit from the convergence of price discrepancies while minimizing exposure to broader market risks.
 
 ### Key Components
 
 1. **Data Collection and Processing**: Quantitative [arbitrage](../a/arbitrage.md) strategies rely heavily on large datasets, including historical and [real-time market data](../r/real-time_market_data.md). This data is processed and cleaned to ensure accuracy and relevance for further analysis.
 
-2. **Model Development**: Quantitative analysts, or "quants," develop mathematical models to identify patterns and relationships within the data. These models often incorporate elements of statistical analysis, machine learning, and other sophisticated techniques.
+2. **Model Development**: Quantitative analysts, or "quants," develop [mathematical models](../m/mathematical_models_in_trading.md) to identify patterns and relationships within the data. These models often incorporate elements of statistical analysis, machine learning, and other sophisticated techniques.
 
 3. **[Backtesting](../b/backtesting.md)**: Before deploying a strategy in live markets, it is crucial to backtest it using historical data. This process involves simulating trades based on the model to evaluate its performance and robustness under different market conditions.
 
@@ -44,7 +44,7 @@ High-frequency trading is a subset of [quantitative trading](../q/quantitative_t
 
 ### Machine Learning and Artificial Intelligence
 
-Machine learning algorithms are increasingly being used to enhance quantitative [arbitrage](../a/arbitrage.md) strategies. These algorithms can analyze vast amounts of data to identify patterns and make predictions about future price movements. Techniques such as supervised learning, unsupervised learning, and reinforcement learning are applied to develop and refine [trading models](../t/trading_models.md).
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being used to enhance quantitative [arbitrage](../a/arbitrage.md) strategies. These algorithms can analyze vast amounts of data to identify patterns and make predictions about future price movements. Techniques such as supervised learning, unsupervised learning, and reinforcement learning are applied to develop and refine [trading models](../t/trading_models.md).
 
 ### Alternative Data
 
@@ -58,7 +58,7 @@ Understanding [market microstructure](../m/market_microstructure.md) is crucial 
 
 ### Model Risk
 
-Model risk arises from inaccuracies or limitations in the mathematical models used for trading. Overfitting, where a model performs well on historical data but fails in real-time trading, is a common concern. Continuous validation and updating of models are necessary to mitigate this risk.
+Model risk arises from inaccuracies or limitations in the [mathematical models](../m/mathematical_models_in_trading.md) used for trading. Overfitting, where a model performs well on historical data but fails in real-time trading, is a common concern. Continuous validation and updating of models are necessary to mitigate this risk.
 
 ### Regulatory Challenges
 
@@ -72,15 +72,15 @@ The reliance on technology means that failures in [trading systems](../t/trading
 
 Several well-known firms are recognized for their expertise in quantitative [arbitrage](../a/arbitrage.md). These firms leverage advanced technology and quantitative techniques to execute their strategies.
 
-- **Renaissance Technologies**: One of the most famous firms in the [quantitative trading](../q/quantitative_trading.md) space, Renaissance Technologies, employs highly sophisticated mathematical models and computational techniques. [Renaissance Technologies](https://www.rentec.com/)
+- **Renaissance Technologies**: One of the most famous firms in the [quantitative trading](../q/quantitative_trading.md) space, Renaissance Technologies, employs highly sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques. [Renaissance Technologies](https://www.rentec.com/)
 
-- **Two Sigma**: Two Sigma uses machine learning and distributed computing to develop its [trading strategies](../t/trading_strategies.md). The firm relies heavily on data science and advanced analytics. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: Two Sigma uses machine learning and distributed computing to develop its [trading strategies](../t/trading_strategies.md). The firm relies heavily on [data science](../d/data_science_in_trading.md) and advanced analytics. [Two Sigma](https://www.twosigma.com/)
 
-- **Citadel Securities**: Citadel is a leading market maker and [proprietary trading](../p/proprietary_trading.md) firm that employs quantitative strategies across various asset classes. [Citadel Securities](https://www.citadelsecurities.com/)
+- **Citadel Securities**: Citadel is a leading market maker and [proprietary trading](../p/proprietary_trading.md) firm that employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) across various asset classes. [Citadel Securities](https://www.citadelsecurities.com/)
 
 - **D. E. Shaw & Co.**: D. E. Shaw is known for its quantitative approach to trading and investment management, using a combination of fundamental and [quantitative analysis](../q/quantitative_analysis.md). [D. E. Shaw & Co.](https://www.deshaw.com/)
 
 ## Conclusion
 
-Quantitative [arbitrage](../a/arbitrage.md) represents a sophisticated approach to trading that combines advanced mathematical models, computational techniques, and [real-time data analysis](../r/real-time_data_analysis.md) to exploit market inefficiencies. While the strategies and methodologies can be complex, the fundamental goal is to achieve consistent, risk-adjusted returns. As technology and data science continue to evolve, quantitative [arbitrage](../a/arbitrage.md) will likely remain at the forefront of innovation within the financial markets.
+Quantitative [arbitrage](../a/arbitrage.md) represents a sophisticated approach to trading that combines advanced [mathematical models](../m/mathematical_models_in_trading.md), computational techniques, and [real-time data analysis](../r/real-time_data_analysis.md) to exploit market inefficiencies. While the strategies and methodologies can be complex, the fundamental goal is to achieve consistent, risk-adjusted returns. As technology and [data science](../d/data_science_in_trading.md) continue to evolve, quantitative [arbitrage](../a/arbitrage.md) will likely remain at the forefront of innovation within the financial markets.
 

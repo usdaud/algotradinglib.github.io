@@ -77,7 +77,7 @@ Developed algorithms that target securities in jurisdictions with favorable with
 
 ### Interactive Brokers
 
-**Interactive Brokers LLC** offers various services that assist in managing and optimizing tax obligations, including withholding taxes. They provide detailed tax reports, documentation support for reclaiming taxes, and tools to aid in strategic tax planning.
+**[Interactive Brokers](../i/interactive_brokers.md) LLC** offers various services that assist in managing and optimizing tax obligations, including withholding taxes. They provide detailed tax reports, documentation support for reclaiming taxes, and tools to aid in strategic tax planning.
 
 Website: [Interactive Brokers](https://www.interactivebrokers.com/)
 

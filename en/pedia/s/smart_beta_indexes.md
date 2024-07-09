@@ -48,7 +48,7 @@ MSCI Inc. (Morgan Stanley Capital International) is a leading provider of resear
 
 #### FTSE Russell
 
-FTSE Russell, a subsidiary of the London Stock Exchange Group, provides a comprehensive suite of [smart beta](../s/smart_beta.md) indexes through its FTSE Russell [Smart Beta](../s/smart_beta.md) Index Series. These indexes track specific factors such as quality, low volatility, and yield. For more information, visit [FTSE Russell](https://www.ftserussell.com).
+[FTSE Russell](../f/ftse_russell.md), a subsidiary of the London Stock Exchange Group, provides a comprehensive suite of [smart beta](../s/smart_beta.md) indexes through its [FTSE Russell](../f/ftse_russell.md) [Smart Beta](../s/smart_beta.md) Index Series. These indexes track specific factors such as quality, low volatility, and yield. For more information, visit [FTSE Russell](https://www.ftserussell.com).
 
 #### S&P Dow Jones Indices
 

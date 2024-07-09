@@ -60,7 +60,7 @@ Effective [risk management](../r/risk_management.md) is essential in preventing 
 
 ### Long-Term Capital Management (LTCM)
 
-One of the most famous examples of catastrophic drawdown occurred with the hedge fund Long-Term Capital Management (LTCM) in 1998. LTCM used highly [leveraged trading strategies](../l/leveraged_trading_strategies.md) founded on mathematical models and algorithms. However, the Russian financial crisis triggered a liquidity crisis, resulting in a loss of $4.6 billion within a few months, representing a drawdown of over 90%.
+One of the most famous examples of catastrophic drawdown occurred with the hedge fund Long-Term Capital Management (LTCM) in 1998. LTCM used highly [leveraged trading strategies](../l/leveraged_trading_strategies.md) founded on [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. However, the Russian financial crisis triggered a liquidity crisis, resulting in a loss of $4.6 billion within a few months, representing a drawdown of over 90%.
 
 ### Knight Capital Group
 
@@ -94,7 +94,7 @@ Frequent monitoring and rebalancing of the portfolio ensure that the trading str
 
 ### Stress Testing
 
-Stress testing involves simulating various adverse market conditions to evaluate how the trading strategy performs under stress. This helps identify potential weaknesses and allows for adjustments to mitigate risks.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating various adverse market conditions to evaluate how the trading strategy performs under stress. This helps identify potential weaknesses and allows for adjustments to mitigate risks.
 
 ### Risk Management Metrics
 
@@ -116,7 +116,7 @@ Several Python libraries are specifically designed for analyzing drawdowns. Libr
 
 ### Interactive Brokers
 
-Interactive Brokers offer an array of tools for managing and analyzing drawdowns, including real-time [risk management](../r/risk_management.md) and [portfolio analysis](../p/portfolio_analysis.md) tools.
+[Interactive Brokers](../i/interactive_brokers.md) offer an array of tools for managing and analyzing drawdowns, including real-time [risk management](../r/risk_management.md) and [portfolio analysis](../p/portfolio_analysis.md) tools.
 
 - [Interactive Brokers](https://www.interactivebrokers.com/)
 

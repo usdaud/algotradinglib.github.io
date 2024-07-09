@@ -1,6 +1,6 @@
 # Temporal Dependencies
 
-Temporal dependencies in trading refer to the relationships and patterns that exist between financial data points over time. These dependencies are critical for developing predictive models and algorithms in [algorithmic trading](../a/algorithmic_trading.md) (algo-trading). Understanding, identifying, and leveraging these temporal dependencies can significantly enhance the accuracy and effectiveness of [trading strategies](../t/trading_strategies.md). This document provides an exhaustive exploration of temporal dependencies in trading, covering various aspects including statistical models, machine learning techniques, and practical applications in the finance sector.
+Temporal dependencies in trading refer to the relationships and patterns that exist between financial data points over time. These dependencies are critical for developing [predictive models](../p/predictive_models_in_trading.md) and algorithms in [algorithmic trading](../a/algorithmic_trading.md) (algo-trading). Understanding, identifying, and leveraging these temporal dependencies can significantly enhance the accuracy and effectiveness of [trading strategies](../t/trading_strategies.md). This document provides an exhaustive exploration of temporal dependencies in trading, covering various aspects including statistical models, machine learning techniques, and practical applications in the finance sector.
 
 ## Introduction to Temporal Dependencies
 
@@ -64,10 +64,10 @@ HMMs are statistical models where the system being modeled is assumed to follow 
 Supervised learning techniques, including SVMs and [decision trees](../d/decision_trees.md), can be employed to predict future values of a time series based on labeled historical data.
 
 ### Unsupervised Learning
-Unsupervised learning methods such as clustering and dimensionality reduction can be utilized to detect hidden patterns and structures within the data.
+Unsupervised learning methods such as clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) can be utilized to detect hidden patterns and structures within the data.
 
 ### Reinforcement Learning
-Reinforcement learning algorithms can adapt to new data points over time and are particularly useful in developing self-learning [trading systems](../t/trading_systems.md).
+Reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) can adapt to new data points over time and are particularly useful in developing self-learning [trading systems](../t/trading_systems.md).
 
 ## Practical Use Cases
 
@@ -89,7 +89,7 @@ One of the primary challenges in dealing with temporal dependencies is the non-s
 Models that are too complex might overfit the historical data, leading to poor generalization to new data. Regularization techniques and cross-validation can help mitigate this problem.
 
 ### Computational Complexity
-Advanced models like LSTM networks and reinforcement learning algorithms can be computationally intensive, requiring significant computational resources and expertise.
+Advanced models like LSTM networks and reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) can be computationally intensive, requiring significant computational resources and expertise.
 
 ## Conclusion
 

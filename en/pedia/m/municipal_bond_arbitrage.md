@@ -26,7 +26,7 @@ The interest income from [municipal bonds](../m/municipal_bonds.md) is typically
 
 ## Key Players in Municipal Bond Arbitrage
 
-Several hedge funds and financial institutions specialize in municipal bond [arbitrage](../a/arbitrage.md). These entities often employ complex mathematical models and algorithms to identify opportunities. Notable firms that engage in this practice include:
+Several hedge funds and financial institutions specialize in municipal bond [arbitrage](../a/arbitrage.md). These entities often employ complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify opportunities. Notable firms that engage in this practice include:
 
 - **Citadel LLC:** A renowned global hedge fund with a significant focus on various [arbitrage](../a/arbitrage.md) strategies, including municipal bond [arbitrage](../a/arbitrage.md). [Citadel](https://www.citadel.com/)
 

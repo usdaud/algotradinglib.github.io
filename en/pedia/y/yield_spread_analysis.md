@@ -36,11 +36,11 @@ Yield [spread analysis](../s/spread_analysis.md) is essential for several reason
 
 In [algorithmic trading](../a/algorithmic_trading.md), yield [spread analysis](../s/spread_analysis.md) can be performed using various methodologies, including statistical techniques, machine learning models, and [quantitative finance](../q/quantitative_finance.md) methods. Key methodologies are:
 
-1. **Statistical Analysis**: Analyzing historical [yield spread](../y/yield_spread.md) data using statistics to identify patterns, correlations, and trends. Techniques include [regression analysis](../r/regression_analysis.md), time-series analysis, and principal component analysis (PCA).
+1. **Statistical Analysis**: Analyzing historical [yield spread](../y/yield_spread.md) data using statistics to identify patterns, correlations, and trends. Techniques include [regression analysis](../r/regression_analysis.md), time-series analysis, and [principal component analysis](../p/principal_component_analysis_(pca).md) (PCA).
 
-2. **Machine Learning Models**: Employing machine learning algorithms such as [decision trees](../d/decision_trees.md), random forests, and neural networks to predict [yield spread](../y/yield_spread.md) movements based on a range of input variables like macroeconomic indicators, [financial ratios](../f/financial_ratios.md), and market sentiment.
+2. **Machine Learning Models**: Employing machine [learning algorithms](../l/learning_algorithms_in_trading.md) such as [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) to predict [yield spread](../y/yield_spread.md) movements based on a range of input variables like macroeconomic indicators, [financial ratios](../f/financial_ratios.md), and market sentiment.
 
-3. **Term Structure Models**: Utilizing mathematical models to describe the relationship between bond yields and different maturities. Popular models include the Vasicek model, Cox-Ingersoll-Ross (CIR) model, and the Heath-Jarrow-Morton (HJM) framework.
+3. **Term Structure Models**: Utilizing [mathematical models](../m/mathematical_models_in_trading.md) to describe the relationship between bond yields and different maturities. Popular models include the Vasicek model, Cox-Ingersoll-Ross (CIR) model, and the Heath-Jarrow-Morton (HJM) framework.
 
 4. **[Credit Risk Models](../c/credit_risk_models.md)**: Implementing models that quantify credit risk and compute yield spreads, such as the Merton model, which derives credit spreads based on the firm’s asset value and volatility.
 

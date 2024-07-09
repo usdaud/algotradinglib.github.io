@@ -73,9 +73,9 @@ Incorporating [volume indicators](../v/volume_indicators.md) into [trading algor
    - [QuantConnect](https://www.quantconnect.com)
    - [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It provides various [volume indicators](../v/volume_indicators.md) which can be used within their Python-based algorithm development environment.
 
-4. **Interactive Brokers**
+4. **[Interactive Brokers](../i/interactive_brokers.md)**
    - [Interactive Brokers](https://www.interactivebrokers.com)
-   - Interactive Brokers offers advanced trading tools and APIs for [algorithmic trading](../a/algorithmic_trading.md). Their trading platform includes a comprehensive suite of [volume indicators](../v/volume_indicators.md) for both manual and automated trading. 
+   - [Interactive Brokers](../i/interactive_brokers.md) offers advanced trading tools and APIs for [algorithmic trading](../a/algorithmic_trading.md). Their trading platform includes a comprehensive suite of [volume indicators](../v/volume_indicators.md) for both manual and automated trading. 
 
 ## Integrating Volume Indicators into Trading Strategies
 
@@ -104,7 +104,7 @@ While [volume indicators](../v/volume_indicators.md) provide valuable insights, 
 Volume behavior can vary significantly across different market conditions. Indicators that work well in trending markets may perform poorly in ranging markets, and vice versa. Adapting strategies to different market conditions is necessary for consistent performance.
 
 ### Data Quality
-Accurate volume data is critical for the effective use of [volume indicators](../v/volume_indicators.md). Inaccuracies or latency in data can lead to false signals and poor trading decisions. Ensuring high-quality data feeds is paramount.
+Accurate volume data is critical for the effective use of [volume indicators](../v/volume_indicators.md). Inaccuracies or latency in data can lead to [false signals](../f/false_signals_in_trading.md) and poor trading decisions. Ensuring high-quality data feeds is paramount.
 
 ### Overfitting
 In the optimization process, there is a risk of overfitting the strategy to historical data, which can result in poor performance in live trading. It is important to use [out-of-sample testing](../o/out-of-sample_testing.md) and cross-validation techniques to mitigate overfitting.

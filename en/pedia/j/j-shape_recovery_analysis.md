@@ -15,7 +15,7 @@ The concept of a J-shaped recovery is not just theoretical. It has been observed
 - **Tech Stocks Post Dot-Com Bubble**: Certain technology companies witnessed J-shaped recovery patterns after the dot-com bubble burst.
 
 ## Implications for Algorithmic Trading
-[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on mathematical models and historical data to predict future market actions. J-shaped recovery patterns offer specific signals and trends that can be incorporated into [trading algorithms](../t/trading_algorithms.md).
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on [mathematical models](../m/mathematical_models_in_trading.md) and historical data to predict future market actions. J-shaped recovery patterns offer specific signals and trends that can be incorporated into [trading algorithms](../t/trading_algorithms.md).
 
 ### Data Patterns
 [Algorithmic trading](../a/algorithmic_trading.md) systems can identify J-shaped recovery patterns by analyzing historical price movements and [economic indicators](../e/economic_indicators.md). Key metrics often include:
@@ -30,7 +30,7 @@ The concept of a J-shaped recovery is not just theoretical. It has been observed
 
 ### Risk Considerations
 While J-shaped recoveries can offer lucrative trading opportunities, they also come with inherent risks such as:
-- **False Signals**: Algorithms might misinterpret market data, leading to false identification of J-shaped patterns.
+- **[False Signals](../f/false_signals_in_trading.md)**: Algorithms might misinterpret market data, leading to false identification of J-shaped patterns.
 - **Market Volatility**: The initial sharp decline can create significant volatility, affecting [trading strategies](../t/trading_strategies.md).
 
 ## Case Studies
@@ -47,7 +47,7 @@ The global economy saw several instances of J-shaped recovery during the COVID-1
 Data analytics platforms such as [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) and [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) provide comprehensive market data essential for identifying J-shaped recoveries.
 
 ### AI and Machine Learning
-Utilizing AI and machine learning algorithms, trading platforms like [Kensho](https://www.spglobal.com/en/what-we-do/our-capabilities/ai-and-data-science-technologies) integrate sophisticated analysis capabilities to identify and act on J-shaped recovery patterns.
+Utilizing AI and machine [learning algorithms](../l/learning_algorithms_in_trading.md), trading platforms like [Kensho](https://www.spglobal.com/en/what-we-do/our-capabilities/ai-and-data-science-technologies) integrate sophisticated analysis capabilities to identify and act on J-shaped recovery patterns.
 
 ### Trading Platforms
 High-frequency trading platforms such as [TradeStation](https://www.tradestation.com) allow traders to implement complex algorithms tailored to exploit J-shaped recovery trends.

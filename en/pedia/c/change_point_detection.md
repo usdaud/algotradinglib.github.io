@@ -4,9 +4,9 @@ Change Point Detection (CPD) refers to the process of identifying points in time
 
 ## Importance of Change Point Detection in Trading
 
-1. **Market Regime Shifts**:
+1. **Market [Regime Shifts](../r/regime_shifts_in_trading.md)**:
     - Financial markets often exhibit different regimes characterized by distinct statistical properties.
-    - Regime shifts can include transitions from bull markets to bear markets or periods of high volatility to low volatility.
+    - [Regime shifts](../r/regime_shifts_in_trading.md) can include transitions from bull markets to bear markets or periods of high volatility to low volatility.
     - Detecting these changes timely can enable traders to adjust their strategies to mitigate risks and exploit new opportunities.
 
 2. **Volatility Shifts**:
@@ -16,7 +16,7 @@ Change Point Detection (CPD) refers to the process of identifying points in time
 
 3. **Predictive Modelling**:
     - Machine learning and statistical models used in trading rely on the assumption that the underlying data-generating process remains stable.
-    - Change points can signify structural breaks that necessitate model retraining or recalibration.
+    - Change points can signify [structural breaks](../s/structural_breaks_in_trading.md) that necessitate model retraining or recalibration.
 
 ## Methods for Change Point Detection
 
@@ -24,7 +24,7 @@ Several methods exist for detecting change points, each with its strengths and a
 
 1. **Statistical Tests**:
     - **Cumulative Sum (CUSUM)**: A method that evaluates the cumulative sum of deviations from the mean to detect changes.
-    - **Z Score Test**: Identifies points where the observed value significantly deviates from the expected normal distribution.
+    - **Z Score Test**: Identifies points where the observed value significantly deviates from the expected [normal distribution](../n/normal_distribution_in_trading.md).
     - **Likelihood Ratio Tests**: Compare the likelihood of data under different hypothesis models to identify change points.
 
 2. **Machine Learning Approaches**:
@@ -45,8 +45,8 @@ Several methods exist for detecting change points, each with its strengths and a
     - By detecting volatility shifts or abrupt market changes, algorithms can dynamically adjust position sizes or hedge positions to control risk.
     - Sudden changes in market conditions can be mitigated by executing protective orders when change points are detected.
 
-3. **Enhanced Predictive Models**:
-    - Incorporating change point detection improves the robustness of predictive models by accounting for structural breaks.
+3. **Enhanced [Predictive Models](../p/predictive_models_in_trading.md)**:
+    - Incorporating change point detection improves the robustness of [predictive models](../p/predictive_models_in_trading.md) by accounting for [structural breaks](../s/structural_breaks_in_trading.md).
     - This can lead to more accurate forecasts and better-informed trading decisions.
 
 ## Example Study: Change Point Detection in Forex Markets
@@ -73,4 +73,4 @@ Several libraries and tools are available to assist in implementing Change Point
 
 ## Conclusion
 
-Change Point Detection is a critical component in the toolkit of algorithmic traders. By accurately identifying shifts in market regimes, volatility, and other statistical properties, traders can improve strategy performance, manage risks more effectively, and enhance the accuracy of predictive models. The ongoing development and refinement of CPD methods hold promising potential for further advancements in [algorithmic trading](../a/algorithmic_trading.md) strategies.
+Change Point Detection is a critical component in the toolkit of algorithmic traders. By accurately identifying shifts in market regimes, volatility, and other statistical properties, traders can improve strategy performance, manage risks more effectively, and enhance the accuracy of [predictive models](../p/predictive_models_in_trading.md). The ongoing development and refinement of CPD methods hold promising potential for further advancements in [algorithmic trading](../a/algorithmic_trading.md) strategies.

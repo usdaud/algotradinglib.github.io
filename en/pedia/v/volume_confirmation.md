@@ -1,6 +1,6 @@
 # Volume Confirmation
 
-Volume confirmation is a pivotal concept in the realm of [algorithmic trading](../a/algorithmic_trading.md), lending deeper insights into the validity and strength of price movements. It revolves around the usage of trading volume as a metric to verify and substantiate various [trading signals](../t/trading_signals.md) and market trends. This mechanism is frequently employed by traders to ensure that the observed price movements in the market are backed by an adequate level of participation, which adds credibility and reduces the risk of false signals.
+Volume confirmation is a pivotal concept in the realm of [algorithmic trading](../a/algorithmic_trading.md), lending deeper insights into the validity and strength of price movements. It revolves around the usage of trading volume as a metric to verify and substantiate various [trading signals](../t/trading_signals.md) and market trends. This mechanism is frequently employed by traders to ensure that the observed price movements in the market are backed by an adequate level of participation, which adds credibility and reduces the risk of [false signals](../f/false_signals_in_trading.md).
 
 ## Understanding Volume
 

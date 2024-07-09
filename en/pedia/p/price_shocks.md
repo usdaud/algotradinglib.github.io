@@ -33,10 +33,10 @@ Price shocks highlight the importance of [risk management](../r/risk_management.
 Diversifying across different asset classes and strategies can help mitigate the impact of price shocks. This approach reduces the likelihood that a single event will significantly affect the entire portfolio.
 
 ### Adaptive Algorithms
-Developing [adaptive algorithms](../a/adaptive_algorithms.md) capable of adjusting their trading parameters in response to changing market conditions can help manage the volatility associated with price shocks. Machine learning and artificial intelligence techniques can be employed to create such adaptive systems.
+Developing [adaptive algorithms](../a/adaptive_algorithms.md) capable of adjusting their trading parameters in response to changing market conditions can help manage the volatility associated with price shocks. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) techniques can be employed to create such adaptive systems.
 
 ### Risk Management Tools
-Utilizing advanced [risk management](../r/risk_management.md) tools, such as Value at Risk (VaR) and stress testing, can help traders assess and manage the potential impacts of price shocks on their portfolios.
+Utilizing advanced [risk management](../r/risk_management.md) tools, such as Value at Risk (VaR) and [stress testing](../s/stress_testing_in_trading.md), can help traders assess and manage the potential impacts of price shocks on their portfolios.
 
 ### Monitoring and Alerts
 Continuous monitoring of market conditions and setting up alerts for unusual price movements can help traders respond more quickly to emerging situations. This helps in making informed decisions and limiting adverse impacts.

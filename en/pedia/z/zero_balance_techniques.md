@@ -25,7 +25,7 @@ Market makers provide liquidity to the markets by placing both buy and sell orde
 
 ### 2. Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) involves [trading strategies](../t/trading_strategies.md) that are based on statistical and mathematical models to identify price discrepancies among securities. [Zero balance](../z/zero_balance.md) is crucial here to ensure that positions taken to exploit these discrepancies do not carry unnecessary risk overnight.
+Statistical [arbitrage](../a/arbitrage.md) involves [trading strategies](../t/trading_strategies.md) that are based on statistical and [mathematical models](../m/mathematical_models_in_trading.md) to identify price discrepancies among securities. [Zero balance](../z/zero_balance.md) is crucial here to ensure that positions taken to exploit these discrepancies do not carry unnecessary risk overnight.
 
 #### Implementation:
 - **Pair Trading:** Ensuring that long and short positions are perfectly offset by the end of the trading day.

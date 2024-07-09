@@ -54,7 +54,7 @@ The choice of an investment horizon is intrinsically linked to [risk management]
 
 4. **[Trend Following](../t/trend_following.md) Strategies**: Often applied over medium to long-term horizons, [trend following](../t/trend_following.md) strategies involve identifying and following prolonged price movements. These strategies rely on [technical indicators](../t/technical_indicators.md) such as moving averages and trend lines.
 
-5. **Machine Learning and AI Strategies**: Machine learning algorithms can adapt to various horizons by learning from vast amounts of data and detecting patterns that are not evident to traditional models. These strategies can range from high-frequency trading to long-term investments.
+5. **Machine Learning and AI Strategies**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can adapt to various horizons by learning from vast amounts of data and detecting patterns that are not evident to traditional models. These strategies can range from high-frequency trading to long-term investments.
 
 ### Real-World Applications
 
@@ -66,9 +66,9 @@ Several companies and platforms have developed sophisticated solutions to analyz
 
 3. **[TradeStation](../t/tradestation.md)**: [TradeStation](https://www.tradestation.com) offers advanced trading technology and [brokerage services](../b/brokerage_services.md), supporting a wide range of [algorithmic trading](../a/algorithmic_trading.md) strategies tailored to different investment horizons.
 
-4. **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com) provides a comprehensive trading platform with [algorithmic trading](../a/algorithmic_trading.md) capabilities, allowing traders to execute strategies across various timeframes and asset classes.
+4. **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com) provides a comprehensive trading platform with [algorithmic trading](../a/algorithmic_trading.md) capabilities, allowing traders to execute strategies across various timeframes and asset classes.
 
-5. **Kavout**: [Kavout](https://www.kavout.com) leverages artificial intelligence and machine learning to develop predictive models and [algorithmic trading](../a/algorithmic_trading.md) strategies, optimizing investment horizons for better risk-adjusted returns.
+5. **Kavout**: [Kavout](https://www.kavout.com) leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to develop [predictive models](../p/predictive_models_in_trading.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies, optimizing investment horizons for better risk-adjusted returns.
 
 ### Conclusion
 

@@ -20,8 +20,8 @@ QuantLib is an open-source library for [quantitative finance](../q/quantitative_
 - **Term Structures**: Tools for constructing and managing yield curves and other term structures.
 - **[Volatility Models](../v/volatility_models.md)**: Support for modeling and analyzing volatility surfaces and skew.
 - **[Stochastic Processes](../s/stochastic_processes.md)**: Implementation of various [stochastic processes](../s/stochastic_processes.md) used in [financial modeling](../f/financial_modeling.md).
-- **Numerical Methods**: Includes numerical methods such as finite differences, binomial trees, and lattice models.
-- **[Risk Analysis](../r/risk_analysis.md) Tools**: Modules for calculating [risk metrics](../r/risk_metrics.md) and performing stress testing.
+- **[Numerical Methods](../n/numerical_methods_in_trading.md)**: Includes [numerical methods](../n/numerical_methods_in_trading.md) such as finite differences, binomial trees, and lattice models.
+- **[Risk Analysis](../r/risk_analysis.md) Tools**: Modules for calculating [risk metrics](../r/risk_metrics.md) and performing [stress testing](../s/stress_testing_in_trading.md).
 
 ## Integrations
 QuantLib can be integrated with various programming environments and tools to enhance its functionality and ease of use. Some notable integrations include:

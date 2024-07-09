@@ -27,7 +27,7 @@ The terrorist attacks on September 11, 2001, in the United States were another i
 
 ### Market Volatility
 
-Black Swan events can lead to extreme market volatility. During such events, stock markets can experience dramatic drops, leading to massive sell-offs and ensuing panic among investors. The uncertainty associated with these occurrences often makes financial markets highly unstable.
+Black Swan events can lead to extreme market volatility. During such events, stock markets can experience dramatic drops, leading to massive sell-offs and ensuing panic among investors. The [uncertainty](../u/uncertainty_in_trading.md) associated with these occurrences often makes financial markets highly unstable.
 
 ### Risk Management
 
@@ -49,7 +49,7 @@ One of the most well-known firms founded by Nassim Taleb himself is [Universa In
 
 ### Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com/), a highly successful quantitative hedge fund, employs complex mathematical models and algorithms to predict and exploit market movements. While Renaissance has historically achieved exceptional returns, including during periods of market turmoil, the firm is also acutely aware of the risks posed by Black Swan events and continuously adapts its models to mitigate such risks.
+[Renaissance Technologies](https://www.rentec.com/), a highly successful quantitative hedge fund, employs complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to predict and exploit market movements. While Renaissance has historically achieved exceptional returns, including during periods of market turmoil, the firm is also acutely aware of the risks posed by Black Swan events and continuously adapts its models to mitigate such risks.
 
 ## Preparing for Black Swan Events
 

@@ -29,7 +29,7 @@ Unlike market orders that are executed immediately at the current market price, 
 
 ### Disadvantages of GTD Orders
 
-1. **Complexity**: Setting up GTD orders can be more complex than simpler order types, requiring a good understanding of market conditions and timing.
+1. **Complexity**: Setting up GTD orders can be more complex than simpler [order types](../o/order_types_in_trading.md), requiring a good understanding of market conditions and timing.
 2. **Potential for Missed Opportunities**: There is always a chance that the market conditions might meet the criteria of the order shortly after the expiration date, missing potential favorable trades.
 3. **Order Stagnation**: Orders that are not executed due to tightly specified conditions can lead to missed trades, especially in a highly volatile market.
 

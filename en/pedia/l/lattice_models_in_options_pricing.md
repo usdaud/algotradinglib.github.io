@@ -103,7 +103,7 @@ Lattice models are widely used in finance for various applications beyond classi
 - **Real Options**: Evaluating investment opportunities with managerial flexibility.
 - **[Risk Management](../r/risk_management.md)**: Assessing the risk exposure of portfolios containing [derivatives](../d/derivatives.md).
 
-Several software platforms and tools provide implementations of lattice models, including but not limited to MATLAB, Python (with libraries such as [QuantLib](../q/quantlib.md) and pandas), and specialized financial software like [Bloomberg](../b/bloomberg.md) Terminal and Thomson [Reuters](../r/reuters.md) Eikon.
+Several [software platforms](../s/software_platforms_for_trading.md) and tools provide implementations of lattice models, including but not limited to MATLAB, Python (with libraries such as [QuantLib](../q/quantlib.md) and pandas), and specialized financial software like [Bloomberg](../b/bloomberg.md) Terminal and Thomson [Reuters](../r/reuters.md) Eikon.
 
 ## Conclusion
 

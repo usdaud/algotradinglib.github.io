@@ -18,7 +18,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), the primary goal is to ex
 
 2. **Kernel Density Estimation (KDE):** This technique estimates the [probability density function](../p/probability_density_function.md) of a random variable without assuming a specific distribution, useful for understanding the underlying distribution of asset returns.
 
-3. **Empirical Distribution Functions:** These functions approximate the cumulative distribution function (CDF) of a sample, offering insights into the distribution without parametric assumptions.
+3. **Empirical Distribution Functions:** These functions approximate the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) (CDF) of a sample, offering insights into the distribution without parametric assumptions.
 
 4. **Bootstrap Methods:** These involve repeatedly resampling the data to create 'new' samples, allowing estimation of the sampling distribution of almost any statistic. This is particularly useful for constructing [confidence intervals](../c/confidence_intervals.md) and [hypothesis testing](../h/hypothesis_testing.md) in [trading models](../t/trading_models.md).
 

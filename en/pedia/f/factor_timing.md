@@ -14,7 +14,7 @@ Momentum factors look for securities that have demonstrated strong performance o
 Size factors refer to the market capitalization of a company. Generally, smaller companies are expected to outperform larger companies over the long term due to their higher growth potential and greater flexibility.
 
 ### Quality
-Quality factors assess the financial health of a company, looking at metrics such as return on equity (ROE), debt-to-equity ratio, earnings stability, and profit margins. Companies with high-quality attributes are perceived to be safer and more reliable investments.
+Quality factors assess the financial health of a company, looking at metrics such as return on equity (ROE), debt-to-equity ratio, earnings stability, and [profit margins](../p/profit_margins_in_trading.md). Companies with high-quality attributes are perceived to be safer and more reliable investments.
 
 ### Volatility
 Volatility factors consider the price fluctuations of a security. Low-volatility strategies prefer stocks with lower price variability, as they are seen as less risky and more stable investments.
@@ -28,7 +28,7 @@ Factor timing strategies often rely on [economic indicators](../e/economic_indic
 [Technical analysis](../t/technical_analysis.md) tools like moving averages, relative strength index (RSI), and moving average convergence divergence (MACD) can help identify trends and signal optimal times to adjust factor exposures. For instance, a crossover of a short-term moving average above a long-term moving average might indicate a good time to increase momentum exposure.
 
 ### Machine Learning
-Machine learning models can analyze large datasets and uncover patterns that traditional methods might miss. Algorithms such as random forests, neural networks, and support vector machines can be trained to predict factor performance based on historical data and other inputs.
+Machine learning models can analyze large datasets and uncover patterns that traditional methods might miss. Algorithms such as [random forests](../r/random_forests_in_trading.md), [neural networks](../n/neural_networks_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) can be trained to predict factor performance based on historical data and other inputs.
 
 ### Sentiment Analysis
 [Sentiment analysis](../s/sentiment_analysis.md) involves gauging market sentiment through news articles, social media, and other sources. By understanding investor sentiment, traders can anticipate market movements and adjust factor exposures accordingly. For instance, positive sentiment toward technology stocks might suggest increasing exposure to the tech sector's [momentum factor](../m/momentum_factor.md).
@@ -42,7 +42,7 @@ The foundation of any factor timing strategy is robust data collection. This inv
 Building a reliable model to time factors requires extensive [backtesting](../b/backtesting.md) and validation. Quantitative researchers develop models based on historical data, incorporating various factors and signals. The goal is to create a model that can predict factor performance with a reasonable degree of accuracy.
 
 ### Execution
-[Algorithmic trading](../a/algorithmic_trading.md) systems execute trades based on the model's outputs. These systems must be designed to handle high volumes of transactions quickly and efficiently. Traders use order types such as limit orders, market orders, and stop orders to manage trade execution.
+[Algorithmic trading](../a/algorithmic_trading.md) systems execute trades based on the model's outputs. These systems must be designed to handle high volumes of transactions quickly and efficiently. Traders use [order types](../o/order_types_in_trading.md) such as limit orders, market orders, and stop orders to manage trade execution.
 
 ### Risk Management
 [Risk management](../r/risk_management.md) is crucial in factor timing. Strategies like diversification, [position sizing](../p/position_sizing.md), and [stop-loss orders](../s/stop-loss_orders.md) help mitigate risks. Additionally, [quantitative models](../q/quantitative_models.md) often include [risk metrics](../r/risk_metrics.md) such as Value at Risk (VaR) and Conditional Value at Risk (CVaR) to assess potential losses.
@@ -69,7 +69,7 @@ Human biases can influence model development and interpretation of results. Ensu
 ## Future Directions
 
 ### Advances in AI and Machine Learning
-As artificial intelligence (AI) and machine learning technologies continue to evolve, they are likely to play an increasingly important role in factor timing. These technologies can process vast amounts of data and identify complex patterns that traditional methods cannot.
+As [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning technologies continue to evolve, they are likely to play an increasingly important role in factor timing. These technologies can process vast amounts of data and identify complex patterns that traditional methods cannot.
 
 ### Integration with Alternative Data
 Incorporating [alternative data](../a/alternative_data.md) sources, such as satellite imagery, web traffic, and consumer transaction data, can provide additional insights for factor timing. These data sources can help capture aspects of economic activity and market sentiment that are not reflected in traditional datasets.

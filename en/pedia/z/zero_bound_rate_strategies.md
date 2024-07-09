@@ -51,7 +51,7 @@ In some cases, central banks may implement Negative Interest Rate Policies (NIRP
 
 ### Implications for Risk Management
 
-Implementing Zero Bound Rate Strategies necessitates robust [risk management](../r/risk_management.md) due to the unique challenges posed by near-zero or negative interest rates. The key risk factors include:
+Implementing Zero Bound Rate Strategies necessitates robust [risk management](../r/risk_management.md) due to the unique challenges posed by near-zero or negative interest rates. The key [risk factors](../r/risk_factors_in_trading.md) include:
 
 #### 1. Interest Rate Risk
 Interest rate risk is heightened in a zero-bound environment due to the potential for sudden policy shifts by central banks. Effective strategies for managing this risk include the use of [interest rate swaps](../i/interest_rate_swaps.md) and hedging via [futures contracts](../f/futures_contracts.md).

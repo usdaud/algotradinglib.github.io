@@ -40,7 +40,7 @@ Once the data is prepared, the next step is to identify trends. Common methods i
 Using the identified trends, traders can develop models to predict future price movements. Techniques include:
 
 - **[Regression Analysis](../r/regression_analysis.md):** Statistical methods to determine the relationship between variables.
-- **Machine Learning:** Algorithms that can learn from historical data to make predictions, such as neural networks and [decision trees](../d/decision_trees.md).
+- **Machine Learning:** Algorithms that can learn from historical data to make predictions, such as [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md).
 
 - **Time-Series Analysis:** Using methods like ARIMA (AutoRegressive Integrated Moving Average) to model and forecast based on time-series data.
 

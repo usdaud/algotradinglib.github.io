@@ -20,7 +20,7 @@ Risk assessment comprises the processes carried out to determine the extent and 
 
 #### Methods of Risk Assessment
 
-- **[Quantitative Analysis](../q/quantitative_analysis.md):** Using statistical and mathematical models to predict potential losses and their probability (e.g., Value at Risk (VaR), stress testing).
+- **[Quantitative Analysis](../q/quantitative_analysis.md):** Using statistical and [mathematical models](../m/mathematical_models_in_trading.md) to predict potential losses and their probability (e.g., Value at Risk (VaR), [stress testing](../s/stress_testing_in_trading.md)).
 - **Qualitative Analysis:** Using scenarios and expertise to evaluate the risk's nature and potential impact.
 
 ### 3. Risk Evaluation
@@ -70,7 +70,7 @@ Setting limits on exposures and ensuring adherence is a fundamental practice in 
 
 ## Tools and Software for Financial Risk Management
 
-Modern financial [risk management](../r/risk_management.md) heavily relies on advanced analytics and software tools for effective measurement and control.
+Modern financial [risk management](../r/risk_management.md) heavily relies on advanced analytics and [software tools](../s/software_tools_for_trading.md) for effective measurement and control.
 
 ### 1. Risk Management Information Systems (RMIS)
 

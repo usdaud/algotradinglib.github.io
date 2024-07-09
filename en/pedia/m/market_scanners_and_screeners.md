@@ -48,13 +48,13 @@
 
 3. **Trade Ideas**:
    - [Trade Ideas](https://www.trade-ideas.com/)
-   - Specializes in real-time stock market scanning. Leverages artificial intelligence with the ‘Holly’ AI to generate trading ideas and backtest strategies.
+   - Specializes in real-time stock market scanning. Leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) with the ‘Holly’ AI to generate trading ideas and backtest strategies.
 
 4. **Stock Rover**:
    - [Stock Rover](https://www.stockrover.com/)
    - A research platform that emphasizes fundamental stock screening and analysis. Comprehensive metrics and financial data are available to investors.
 
-5. **MetaStock**:
+5. **[MetaStock](../m/metastock.md)**:
    - [MetaStock](https://www.metastock.com/)
    - An advanced charting and [technical analysis](../t/technical_analysis.md) software that includes powerful scanning tools and [backtesting](../b/backtesting.md) capabilities.
 

@@ -16,7 +16,7 @@ Stress testing, a crucial [risk management](../r/risk_management.md) tool employ
 
 ### Sensitivity Analysis
 
-Sensitivity analysis evaluates how the value of a portfolio responds to small changes in individual risk factors such as interest rates, exchange rates, or asset prices. This type of stress test helps identify which variables have the most significant impact on the portfolio’s performance.
+Sensitivity analysis evaluates how the value of a portfolio responds to small changes in individual [risk factors](../r/risk_factors_in_trading.md) such as interest rates, exchange rates, or asset prices. This type of stress test helps identify which variables have the most significant impact on the portfolio’s performance.
 
 ### Scenario Analysis
 
@@ -54,7 +54,7 @@ Based on the insights gained, traders and risk managers should develop strategie
 
 ### 6. Regular Review and Update
 
-Stress testing is not a one-time exercise. It should be conducted regularly and updated to reflect changing market conditions, new financial products, and evolving risk factors. Regular reviews ensure that the stress tests remain relevant and effective.
+Stress testing is not a one-time exercise. It should be conducted regularly and updated to reflect changing market conditions, new financial products, and evolving [risk factors](../r/risk_factors_in_trading.md). Regular reviews ensure that the stress tests remain relevant and effective.
 
 ## Tools and Software for Stress Testing
 
@@ -103,13 +103,13 @@ Conducting stress tests can be resource-intensive, requiring significant computa
 
 ### Keeping Up with Market Changes
 
-Financial markets are dynamic, and new risk factors can emerge rapidly. Keeping stress testing frameworks up-to-date with the latest market developments is crucial but challenging.
+Financial markets are dynamic, and new [risk factors](../r/risk_factors_in_trading.md) can emerge rapidly. Keeping stress testing frameworks up-to-date with the latest market developments is crucial but challenging.
 
 ## Future of Stress Testing
 
 ### Machine Learning and AI
 
-The integration of machine learning and artificial intelligence (AI) in stress testing promises to enhance the predictive capabilities of models, identify complex risk patterns, and automate scenario analysis.
+The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in stress testing promises to enhance the predictive capabilities of models, identify complex risk patterns, and automate scenario analysis.
 
 ### Real-Time Stress Testing
 

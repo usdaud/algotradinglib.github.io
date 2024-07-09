@@ -65,7 +65,7 @@ The Detrended Price Oscillator is not without limitations:
 
 - **Lag**: Since DPO relies on historical data, it inherently involves a lag, making it less responsive to sudden market changes.
 - **Short-term Focus**: By design, DPO removes long-term trends, which may mislead traders if the broader market context is neglected.
-- **Standalone Reliability**: Like most indicators, DPO should not be used in isolation. Confirmation from other technical tools is advisable to avoid false signals.
+- **Standalone Reliability**: Like most indicators, DPO should not be used in isolation. Confirmation from other technical tools is advisable to avoid [false signals](../f/false_signals_in_trading.md).
 
 ## Implementations in Trading Platforms
 

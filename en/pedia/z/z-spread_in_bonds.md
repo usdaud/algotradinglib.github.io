@@ -69,7 +69,7 @@ Portfolio managers utilize Z-spreads to optimize their bond portfolios. By analy
 
 ### 4. Market Sentiment
 
-Z-spreads reflect market sentiment regarding interest rates and credit risk. A significant widening of Z-spreads in the market can indicate increased risk aversion or economic uncertainty.
+Z-spreads reflect market sentiment regarding interest rates and credit risk. A significant widening of Z-spreads in the market can indicate increased risk aversion or economic [uncertainty](../u/uncertainty_in_trading.md).
 
 ## Z-Spread vs. Other Spreads
 

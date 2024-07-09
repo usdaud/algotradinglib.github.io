@@ -4,17 +4,17 @@
 Smart-Lab is a prominent Russian financial information and community platform dedicated to providing market insights, investment strategies, and trading discussions. Established to cater to the Russian-speaking financial community, Smart-Lab offers a wide range of resources, including market news, analysis, educational content, and an active forum for traders and investors. The platform is well-regarded for its comprehensive coverage of the financial markets and its collaborative community environment.
 
 ## Key Features
-1. **Market News and Analysis**: Smart-Lab offers up-to-date news and in-depth analysis on various financial markets, including stocks, bonds, commodities, and forex. The platform provides insights into market trends and economic indicators.
+1. **Market News and Analysis**: Smart-Lab offers up-to-date news and in-depth analysis on various financial markets, including stocks, bonds, commodities, and forex. The platform provides insights into market trends and [economic indicators](../e/economic_indicators.md).
 
-2. **Community Forums**: Smart-Lab hosts active forums where members can discuss a wide range of financial topics, share investment strategies, and exchange insights. The forums cover subjects such as equities, derivatives, forex, real estate, and personal finance.
+2. **Community Forums**: Smart-Lab hosts active forums where members can discuss a wide range of financial topics, share investment strategies, and exchange insights. The forums cover subjects such as equities, [derivatives](../d/derivatives.md), forex, real estate, and [personal finance](../p/personal_finance_in_trading.md).
 
-3. **Trading Strategies**: The platform provides a space for discussing different trading strategies, including day trading, swing trading, and long-term investing. Members can share their strategies, receive feedback, and discuss improvements.
+3. **[Trading Strategies](../t/trading_strategies.md)**: The platform provides a space for discussing different [trading strategies](../t/trading_strategies.md), including [day trading](../d/day_trading.md), [swing trading](../s/swing_trading.md), and long-term investing. Members can share their strategies, receive feedback, and discuss improvements.
 
 4. **Educational Resources**: Smart-Lab offers educational content, including articles, tutorials, webinars, and videos, aimed at helping traders and investors enhance their financial knowledge and trading skills.
 
 5. **Broker and Product Reviews**: Members can read and write reviews of brokers, financial products, and services, helping others make informed decisions. Smart-Lab also provides comparative tools to analyze different brokers and investment products.
 
-6. **Personal Finance**: The platform includes a section dedicated to personal finance, offering advice on budgeting, savings, loans, mortgages, and insurance.
+6. **[Personal Finance](../p/personal_finance_in_trading.md)**: The platform includes a section dedicated to [personal finance](../p/personal_finance_in_trading.md), offering advice on budgeting, savings, loans, mortgages, and insurance.
 
 7. **Economic News**: Smart-Lab provides news and analysis on economic trends, policies, and indicators, helping users stay informed about the broader economic environment.
 
@@ -29,8 +29,8 @@ Smart-Lab is a prominent Russian financial information and community platform de
 
 ## Use Cases
 - **Retail Investors**: Individual investors use Smart-Lab’s news, analysis, and forums to make informed investment decisions.
-- **Traders**: Active traders leverage the platform’s market data and community discussions to develop and refine their trading strategies.
-- **Personal Finance Management**: Users utilize Smart-Lab’s resources to manage their personal finances, including budgeting, savings, and loans.
+- **Traders**: Active traders leverage the platform’s market data and community discussions to develop and refine their [trading strategies](../t/trading_strategies.md).
+- **[Personal Finance](../p/personal_finance_in_trading.md) Management**: Users utilize Smart-Lab’s resources to manage their personal finances, including budgeting, savings, and loans.
 - **Educational Purposes**: New and experienced investors use Smart-Lab’s educational content to enhance their financial knowledge and trading skills.
 - **Product Selection**: Investors use the platform’s reviews and comparative tools to choose brokers and financial products that best suit their needs.
 

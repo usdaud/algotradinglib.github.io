@@ -63,7 +63,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), large volumes of data are
 
 ## Tools and Software
 
-Several tools and software platforms are widely used in the industry to create and analyze X-Y charts for [algorithmic trading](../a/algorithmic_trading.md):
+Several tools and [software platforms](../s/software_platforms_for_trading.md) are widely used in the industry to create and analyze X-Y charts for [algorithmic trading](../a/algorithmic_trading.md):
 
 - **Matplotlib and Seaborn (Python)**: These libraries are extensively used in [algorithmic trading](../a/algorithmic_trading.md) for [data visualization](../d/data_visualization.md), including X-Y charts.
 - **R**: Offers powerful packages like ggplot2 for creating detailed scatter plots.

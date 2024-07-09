@@ -18,7 +18,7 @@ Uncertainty is a fundamental aspect of financial markets and trading. It stems f
 
 ## Sources of Uncertainty
 
-1. **Economic Data Releases**: Employment figures, GDP growth rates, inflation rates, and other [economic indicators](../e/economic_indicators.md) can lead to significant price movements. These data releases create uncertainty because market participants often react unpredictably.
+1. **Economic Data Releases**: Employment figures, GDP [growth rates](../g/growth_rates_in_trading.md), inflation rates, and other [economic indicators](../e/economic_indicators.md) can lead to significant price movements. These data releases create uncertainty because market participants often react unpredictably.
 
 2. **[Earnings Announcements](../e/earnings_announcements.md)**: Financial reports released by companies can cause stock prices to move dramatically. Uncertainty surrounds whether a company will meet, exceed, or fall short of market expectations.
 
@@ -26,7 +26,7 @@ Uncertainty is a fundamental aspect of financial markets and trading. It stems f
 
 4. **Technological Changes**: Rapid advancements in technology can swiftly shift competitive advantages within industries, affecting stock prices of companies involved.
 
-5. **Market Sentiment**: The psychological and behavioral factors of market participants often lead to unpredictable market movements based on herd behavior, fear, and greed.
+5. **Market Sentiment**: The psychological and behavioral factors of market participants often lead to unpredictable market movements based on [herd behavior](../h/herd_behavior_in_trading.md), fear, and greed.
 
 ## Measuring Uncertainty
 
@@ -44,7 +44,7 @@ Uncertainty is a fundamental aspect of financial markets and trading. It stems f
 
 3. **Algorithmic Refinement**: Continual improvement of [trading algorithms](../t/trading_algorithms.md) based on [backtesting](../b/backtesting.md) and real-time performance. Algorithms must adapt to changing market conditions and incorporate strategies for managing model risk.
 
-4. **Stress Testing**: Performing simulations to understand how a portfolio would perform under extreme market conditions. This helps in preparing for unexpected market events.
+4. **[Stress Testing](../s/stress_testing_in_trading.md)**: Performing simulations to understand how a portfolio would perform under extreme market conditions. This helps in preparing for unexpected market events.
 
 5. **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Implementing [stop-loss orders](../s/stop-loss_orders.md) to limit potential losses by automatically selling assets when they reach a predetermined price level.
 
@@ -60,7 +60,7 @@ Uncertainty is a fundamental aspect of financial markets and trading. It stems f
 
 4. **Regulatory Compliance**: Adhering to evolving regulatory requirements is essential to avoid penalties and negative impacts on [trading strategies](../t/trading_strategies.md). Algorithms must be continuously updated to reflect regulatory changes.
 
-5. **[Market Microstructure](../m/market_microstructure.md)**: Understanding the finer mechanisms of market exchanges, including order types, [liquidity provision](../l/liquidity_provision.md), and the behavior of other algorithmic traders, is crucial in managing execution uncertainty.
+5. **[Market Microstructure](../m/market_microstructure.md)**: Understanding the finer mechanisms of market exchanges, including [order types](../o/order_types_in_trading.md), [liquidity provision](../l/liquidity_provision.md), and the behavior of other algorithmic traders, is crucial in managing execution uncertainty.
 
 ## Case Studies of Uncertainty in Trading
 

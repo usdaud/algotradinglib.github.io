@@ -86,7 +86,7 @@ Selecting the appropriate model for volatility estimation and calibrating it wit
 
 ### 3. **Market Regimes and Structural Breaks**
 
-Volatility can exhibit different characteristics under different market regimes, such as bullish or bearish trends. Accurately estimating volatility requires models that can adapt to structural changes and regime shifts.
+Volatility can exhibit different characteristics under different market regimes, such as bullish or bearish trends. Accurately estimating volatility requires models that can adapt to structural changes and [regime shifts](../r/regime_shifts_in_trading.md).
 
 ### 4. **Quantifying Model Risk**
 
@@ -100,11 +100,11 @@ Leverage and [derivatives](../d/derivatives.md) can amplify the impact of volati
 
 ### 1. **Machine Learning and AI**
 
-Machine learning algorithms are increasingly being applied to volatility estimation. Techniques such as neural networks, support vector machines, and ensemble methods can capture complex patterns in data that traditional models might miss.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being applied to volatility estimation. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and ensemble methods can capture complex patterns in data that traditional models might miss.
 
 ### 2. **Big Data and Alternative Data**
 
-The use of big data and [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md), macroeconomic indicators, and news analytics, is becoming more prevalent in volatility estimation. These data sources provide additional context and can improve the accuracy of volatility forecasts.
+The use of [big data](../b/big_data_in_trading.md) and [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md), macroeconomic indicators, and news analytics, is becoming more prevalent in volatility estimation. These data sources provide additional context and can improve the accuracy of volatility forecasts.
 
 ### 3. **Real-Time and Adaptive Models**
 
@@ -118,4 +118,4 @@ The integration of high-performance computing (HPC) platforms allows for faster 
 
 As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, regulatory frameworks will likely evolve to address the complexities and risks associated with advanced volatility estimation techniques. Ethical considerations, such as the impact on market stability, will also play a significant role in shaping future practices.
 
-In conclusion, volatility estimation remains a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), offering a range of methods and models to suit different [trading strategies](../t/trading_strategies.md) and risk appetites. As technology and data science continue to advance, the accuracy and applicability of volatility estimation techniques are set to improve, providing traders with ever more sophisticated tools to navigate the complex landscape of financial markets.
+In conclusion, volatility estimation remains a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), offering a range of methods and models to suit different [trading strategies](../t/trading_strategies.md) and risk appetites. As technology and [data science](../d/data_science_in_trading.md) continue to advance, the accuracy and applicability of volatility estimation techniques are set to improve, providing traders with ever more sophisticated tools to navigate the complex landscape of financial markets.

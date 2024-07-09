@@ -39,7 +39,7 @@ Stops are generally placed above the most recent swing high before the breakdown
 Traders often set initial targets by measuring the vertical distance from Point 1 to Point 2 and projecting it downwards from the breakout level (Point 2).
 
 ### Risk Management
-Proper [risk management](../r/risk_management.md) is crucial. Traders should use size limits, avoid excessive leverage, and maintain balance relative to their entire portfolio to mitigate risks associated with false signals or market volatility.
+Proper [risk management](../r/risk_management.md) is crucial. Traders should use size limits, avoid excessive leverage, and maintain balance relative to their entire portfolio to mitigate risks associated with [false signals](../f/false_signals_in_trading.md) or market volatility.
 
 ## Applications in Different Markets
 
@@ -60,13 +60,13 @@ Traders also apply this pattern in volatile markets like cryptocurrencies, where
 - **Effectiveness:** Provides clear entry and exit signals.
 
 ### Limitations
-- **False Signals:** Might produce false negatives, leading to premature position exits.
+- **[False Signals](../f/false_signals_in_trading.md):** Might produce false negatives, leading to premature position exits.
 - **Delay:** Confirmation might come late, reducing potential gains.
 - **Subjectivity:** Requires a clear interpretation which might vary among traders.
 
 ## Software Tools for Identifying 1-2-3 Top Pattern
 
-Various trading platforms and software tools help identify the 1-2-3 Top Pattern, enhancing its usage. Examples include:
+Various trading platforms and [software tools](../s/software_tools_for_trading.md) help identify the 1-2-3 Top Pattern, enhancing its usage. Examples include:
 - **[TradingView](../t/tradingview.md) (https://www.[tradingview](../t/tradingview.md).com):** Offers powerful charting and [pattern recognition](../p/pattern_recognition.md) tools.
 - **MetaTrader 4/5 (https://www.metaquotes.net/en/[metatrader4](../m/metatrader4.md)):** Popular trading platforms with custom indicators for [pattern recognition](../p/pattern_recognition.md).
 - **[NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com):** Provides advanced charting and analysis tools for futures and forex.

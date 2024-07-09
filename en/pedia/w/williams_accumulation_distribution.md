@@ -41,7 +41,7 @@ Algorithmic traders leverage WAD in several strategies to capitalize on its pred
 
 WAD is frequently used in conjunction with other [technical indicators](../t/technical_indicators.md) to enhance [trading strategies](../t/trading_strategies.md). Some common pairings include:
 
-- **Moving Averages:** By combining WAD with moving averages, traders can filter out false signals and improve the accuracy of their trades.
+- **Moving Averages:** By combining WAD with moving averages, traders can filter out [false signals](../f/false_signals_in_trading.md) and improve the accuracy of their trades.
 - **Relative Strength Index (RSI):** Integrating WAD with RSI allows traders to gauge momentum and confirm the strength of trends.
 - **[Bollinger Bands](../b/bollinger_bands.md):** WAD can be paired with [Bollinger Bands](../b/bollinger_bands.md) to identify potential breakouts or breakdowns, improving the timing of entries and exits.
 
@@ -53,7 +53,7 @@ Numerous financial institutions and trading platforms implement WAD in their [tr
 
 While WAD is a powerful tool, traders must be aware of its limitations and consider additional factors during implementation:
 
-1. **False Signals:** Like any technical indicator, WAD is not immune to false signals, especially in choppy or sideways markets. Traders should use confirmatory signals and [risk management](../r/risk_management.md) techniques to mitigate this risk.
+1. **[False Signals](../f/false_signals_in_trading.md):** Like any technical indicator, WAD is not immune to [false signals](../f/false_signals_in_trading.md), especially in choppy or sideways markets. Traders should use confirmatory signals and [risk management](../r/risk_management.md) techniques to mitigate this risk.
 2. **Market Conditions:** The effectiveness of WAD can vary based on market conditions. For instance, WAD might perform differently in highly volatile markets compared to stable ones. Traders need to adapt their strategies accordingly.
 3. **Volume Data Accuracy:** Reliable and accurate volume data is crucial for calculating WAD. Any discrepancies or inaccuracies in volume data can lead to erroneous interpretations and trading decisions.
 

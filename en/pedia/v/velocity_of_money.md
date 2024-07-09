@@ -43,7 +43,7 @@ The relationship between the velocity of money and inflation is central to under
 
 ## Velocity of Money in the Digital Age
 
-The advent of digital currencies and blockchain technology is posing new dimensions to the velocity of money. Cryptocurrencies like Bitcoin and Ethereum facilitate faster transactions and have the potential to influence VoM by improving transaction speeds and reducing friction in payments. Additionally, the rise of fintech companies and digital payment platforms is creating a more interconnected financial system, potentially increasing the velocity of money.
+The advent of digital currencies and [blockchain](../b/blockchain_in_trading.md) technology is posing new dimensions to the velocity of money. Cryptocurrencies like Bitcoin and Ethereum facilitate faster transactions and have the potential to influence VoM by improving transaction speeds and reducing friction in payments. Additionally, the rise of fintech companies and digital payment platforms is creating a more interconnected financial system, potentially increasing the velocity of money.
 
 ### Notable Companies in Digital Payments
 1. **Square Inc.** - https://squareup.com 

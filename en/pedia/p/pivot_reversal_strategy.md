@@ -128,7 +128,7 @@ Several trading platforms and companies offer support for implementing and [back
 
 ### Limitations
 
-- **False Signals**: The strategy can produce false signals in highly volatile or trending markets, leading to potential losses.
+- **[False Signals](../f/false_signals_in_trading.md)**: The strategy can produce [false signals](../f/false_signals_in_trading.md) in highly volatile or trending markets, leading to potential losses.
 - **Dependence on Past Data**: [Pivot points](../p/pivot_points.md) rely on historical price data, which may not always accurately predict future price movements.
 - **Requires Confirmation**: Effective use of the strategy often requires additional confirmation from other [technical indicators](../t/technical_indicators.md) or patterns.
 

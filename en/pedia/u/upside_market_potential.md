@@ -4,7 +4,7 @@ Upside market potential refers to the opportunity for investment instruments, st
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algo trading," is the use of computer algorithms to automate trading decisions in the financial markets. These algorithms follow mathematical models to execute trades at speeds and frequencies that would be impossible for human traders. The primary goals are to increase efficiency, reduce transaction costs, and capitalize on opportunities such as upside market potential.
+[Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algo trading," is the use of computer algorithms to automate trading decisions in the financial markets. These algorithms follow [mathematical models](../m/mathematical_models_in_trading.md) to execute trades at speeds and frequencies that would be impossible for human traders. The primary goals are to increase efficiency, reduce transaction costs, and capitalize on opportunities such as upside market potential.
 
 ### Key Components of Algorithmic Trading
 
@@ -33,7 +33,7 @@ Identifying upside market potential in [algorithmic trading](../a/algorithmic_tr
 
 #### Tools for Sentiment Analysis
 
-- **Natural Language Processing (NLP)**: Used to interpret and quantify human language data.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Used to interpret and quantify human language data.
 - **Social Media Analyzers**: Tools designed to assess public sentiment on platforms like Twitter and Reddit.
 - **News Analytics**: Systems that assess news articles for positive or negative sentiment toward specific securities.
 
@@ -53,7 +53,7 @@ Several firms specialize in [algorithmic trading](../a/algorithmic_trading.md), 
 
 ### Numerai
 
-Numerai is a hedge fund that uses machine learning algorithms to manage its investment portfolio. It operates on the principle of crowdsourced intelligence, allowing data scientists worldwide to contribute models which are then blended together to make trading decisions.
+Numerai is a hedge fund that uses machine [learning algorithms](../l/learning_algorithms_in_trading.md) to manage its investment portfolio. It operates on the principle of crowdsourced intelligence, allowing data scientists worldwide to contribute models which are then blended together to make trading decisions.
 
 - [Numerai](https://numer.ai/)
 
@@ -105,4 +105,4 @@ Despite advanced tools and techniques, capturing upside market potential has its
 
 ## Conclusion
 
-Upside market potential represents a significant opportunity for traders and investors to achieve remarkable returns. In the realm of [algorithmic trading](../a/algorithmic_trading.md), leveraging sophisticated algorithms, advanced [data analysis techniques](../d/data_analysis_techniques.md), and robust trading platforms is essential to identifying and acting on these opportunities. While challenges exist, continuous advancements in technology and data science hold the promise of refining and enhancing the capabilities of [algorithmic trading](../a/algorithmic_trading.md) systems to capture upside market potential effectively.
+Upside market potential represents a significant opportunity for traders and investors to achieve remarkable returns. In the realm of [algorithmic trading](../a/algorithmic_trading.md), leveraging sophisticated algorithms, advanced [data analysis techniques](../d/data_analysis_techniques.md), and robust trading platforms is essential to identifying and acting on these opportunities. While challenges exist, continuous advancements in technology and [data science](../d/data_science_in_trading.md) hold the promise of refining and enhancing the capabilities of [algorithmic trading](../a/algorithmic_trading.md) systems to capture upside market potential effectively.

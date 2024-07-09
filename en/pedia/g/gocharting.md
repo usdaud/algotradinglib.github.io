@@ -16,7 +16,7 @@ GoCharting is an advanced web-based charting and analysis platform designed for 
 ## Key Components
 - **Interactive Charts**: Highly interactive and responsive charts with multiple timeframes and customization options.
 - **[Technical Analysis](../t/technical_analysis.md) Tools**: Built-in tools for [technical analysis](../t/technical_analysis.md) including trend lines, Fibonacci retracements, and a wide range of [technical indicators](../t/technical_indicators.md).
-- **Order Flow Tools**: Advanced tools for [order flow analysis](../o/order_flow_analysis.md), including heatmaps, [volume profile](../v/volume_profile.md), and depth of market (DOM) charts.
+- **Order Flow Tools**: Advanced tools for [order flow analysis](../o/order_flow_analysis.md), including [heatmaps](../h/heatmaps_in_trading.md), [volume profile](../v/volume_profile.md), and depth of market (DOM) charts.
 - **Real-Time Data Feeds**: Integration with various data providers to offer [real-time market data](../r/real-time_market_data.md) across different asset classes.
 - **Custom Indicators**: Ability to create and use custom indicators tailored to specific [trading strategies](../t/trading_strategies.md).
 - **Collaboration Tools**: Features for sharing charts, analysis, and strategies with other users for collaborative trading.

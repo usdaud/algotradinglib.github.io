@@ -1,20 +1,20 @@
 # Kurtosis Risk Premium
 
 ## Introduction to Kurtosis and Risk 
-**Kurtosis** is a statistical measure that describes the distribution of data points in the tails relative to a normal distribution. It is part of the higher moments of a distribution in statistical terminology, along with skewness. Kurtosis specifically captures the "tailedness" of the distribution, indicating how much weight is in the tails. A higher kurtosis implies more of the variance is due to infrequent extreme deviations, as opposed to frequent modestly-sized deviations.
+**Kurtosis** is a statistical measure that describes the distribution of data points in the tails relative to a [normal distribution](../n/normal_distribution_in_trading.md). It is part of the higher moments of a distribution in statistical terminology, along with skewness. Kurtosis specifically captures the "tailedness" of the distribution, indicating how much weight is in the tails. A higher kurtosis implies more of the variance is due to infrequent extreme deviations, as opposed to frequent modestly-sized deviations.
 
 **Standard types of kurtosis**:
-- **Mesokurtic**: A distribution with kurtosis similar to that of a normal distribution (kurtosis = 3).
+- **Mesokurtic**: A distribution with kurtosis similar to that of a [normal distribution](../n/normal_distribution_in_trading.md) (kurtosis = 3).
 - **Leptokurtic**: A distribution with heavy tails and a sharper peak (kurtosis > 3), indicating more frequent extreme values.
 - **Platykurtic**: A distribution with lighter tails and a flatter peak (kurtosis < 3), indicating fewer extreme values.
 
-Risk, in the context of finance, often refers to the uncertainty or volatility of returns. Traditional measures, such as variance and standard deviation, have limitations, particularly in their inability to capture the nuances in the tails of the distribution. This is where kurtosis comes into play, offering a way to measure the risk associated with potential extreme outcomes.
+Risk, in the context of finance, often refers to the [uncertainty](../u/uncertainty_in_trading.md) or volatility of returns. Traditional measures, such as variance and standard deviation, have limitations, particularly in their inability to capture the nuances in the tails of the distribution. This is where kurtosis comes into play, offering a way to measure the risk associated with potential extreme outcomes.
 
 ## Understanding Kurtosis Risk Premium
 The **[Kurtosis Risk](../k/kurtosis_risk.md) Premium** (KRP) can be understood as the additional return that investors demand for holding assets with higher kurtosis, or, more specifically, for being exposed to the risk of extreme deviations in returns. This concept expands the typical framework of risk premiums, which primarily focus on mean and variance.
 
 ### Theoretical Basis
-KRP is rooted in the notion that investors are not only averse to volatility but also to the "fat tails" or extreme outcomes. Traditionally, [asset pricing models](../a/asset_pricing_models.md) like CAPM (Capital Asset Pricing Model) consider risk in terms of beta (market risk), which assumes a normal distribution of returns. However, in reality, asset returns often exhibit fat tails and deviations from normality. 
+KRP is rooted in the notion that investors are not only averse to volatility but also to the "fat tails" or extreme outcomes. Traditionally, [asset pricing models](../a/asset_pricing_models.md) like CAPM (Capital Asset Pricing Model) consider risk in terms of beta (market risk), which assumes a [normal distribution](../n/normal_distribution_in_trading.md) of returns. However, in reality, asset returns often exhibit fat tails and deviations from normality. 
 
 Thus, **investors price in an additional premium for assets that exhibit higher kurtosis**. Simply put, assets with potential for extreme outcomes must compensate investors with higher average returns.
 
@@ -48,7 +48,7 @@ In financial markets, kurtosis is used to evaluate the risk profile of assets. H
 - **High-frequency Trading (HFT)**: Short-term strategies can benefit from analyzing return distributions for extreme events.
 
 ### Risk Management 
-Financial firms incorporate kurtosis measurement into their [risk management](../r/risk_management.md) frameworks to understand and mitigate tail risks comprehensively. Techniques include stress testing, scenario analysis, and value-at-risk (VaR) models that factor in fat tails.
+Financial firms incorporate kurtosis measurement into their [risk management](../r/risk_management.md) frameworks to understand and mitigate tail risks comprehensively. Techniques include [stress testing](../s/stress_testing_in_trading.md), scenario analysis, and value-at-risk (VaR) models that factor in fat tails.
 
 ## Industry Examples
 Several financial institutions and research firms are exploring and utilizing KRP in their operations and methodologies. Examples include:

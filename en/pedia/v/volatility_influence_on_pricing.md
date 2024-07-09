@@ -43,7 +43,7 @@ where:
 - \( X \) is the strike price,
 - \( r \) is the risk-free interest rate,
 - \( T \) is the time to expiration,
-- \( \mathcal{N} \) is the cumulative distribution function of the standard normal distribution,
+- \( \mathcal{N} \) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md),
 - \( d_1 = \frac{\ln(\frac{S_0}{X}) + (r + \frac{\sigma^2}{2})T}{\sigma\sqrt{T}} \),
 - \( d_2 = d_1 - \sigma \sqrt{T} \).
 
@@ -72,7 +72,7 @@ Volatility affects the discount rate used in Discounted Cash Flow (DCF) models. 
 
 ### Bonds
 
-For bonds, volatility in interest rates can lead to price fluctuations. Higher volatility in interest rates increases the uncertainty regarding future interest rate movements, impacting bond prices inversely.
+For bonds, volatility in interest rates can lead to price fluctuations. Higher volatility in interest rates increases the [uncertainty](../u/uncertainty_in_trading.md) regarding future interest rate movements, impacting bond prices inversely.
 
 ## Algorithms and Volatility
 

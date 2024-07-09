@@ -24,7 +24,7 @@ Several factors can influence the size of the bid-ask spread, each impacting mar
 
 - **Volatility**: In more volatile markets, spreads tend to widen as the risk for traders increases. Increased volatility can lead to higher risk premiums, thus widening the bid-ask spread.
 
-- **Information Asymmetry**: In markets where there is a lot of uncertainty or where participants have different levels of information, spreads tend to be wider. This additional risk is compensated for by higher transaction costs.
+- **Information Asymmetry**: In markets where there is a lot of [uncertainty](../u/uncertainty_in_trading.md) or where participants have different levels of information, spreads tend to be wider. This additional risk is compensated for by higher transaction costs.
 
 - **Regulation and Market Structure**: Regulations and the structure of a market can also affect the bid-ask spread. For example, markets with tighter regulation on order execution might see narrower spreads.
 

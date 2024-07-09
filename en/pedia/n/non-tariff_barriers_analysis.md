@@ -33,7 +33,7 @@ NTBs can restrict market access, limiting the flow of goods and financial instru
 
 ### Volatility and Price Movements
 
-By influencing supply and demand, NTBs can cause sudden and unpredictable price movements. Algorithms that rely on historical data and predictive models may need to account for the volatility introduced by NTBs.
+By influencing supply and demand, NTBs can cause sudden and unpredictable price movements. Algorithms that rely on historical data and [predictive models](../p/predictive_models_in_trading.md) may need to account for the volatility introduced by NTBs.
 
 ### Regulatory Compliance
 

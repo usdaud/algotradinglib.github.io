@@ -1,6 +1,6 @@
 # Quantitative Trade Execution
 
-Quantitative trade execution is a sophisticated financial practice that involves the use of mathematical and statistical models for the purpose of making trading decisions and executing transactions. This method is often used by hedge funds, investment banks, and [proprietary trading](../p/proprietary_trading.md) firms to improve trading efficiency, minimize transaction costs, and maximize the profitability of trades. The approach integrates concepts from [quantitative analysis](../q/quantitative_analysis.md), econometrics, and computer science to optimize [trading strategies](../t/trading_strategies.md) and execution.
+Quantitative trade execution is a sophisticated financial practice that involves the use of mathematical and statistical models for the purpose of making trading decisions and executing transactions. This method is often used by hedge funds, investment banks, and [proprietary trading](../p/proprietary_trading.md) firms to improve trading efficiency, minimize transaction costs, and maximize the profitability of trades. The approach integrates concepts from [quantitative analysis](../q/quantitative_analysis.md), [econometrics](../e/econometrics_in_trading.md), and computer science to optimize [trading strategies](../t/trading_strategies.md) and execution.
 
 ## Overview
 
@@ -57,19 +57,19 @@ High-Frequency Trading (HFT) uses high-speed algorithms to execute a large numbe
 
 ### Machine Learning Models
 
-More advanced [quantitative trading](../q/quantitative_trading.md) firms apply machine learning (ML) models to predict future price movements. These models can include techniques like [decision trees](../d/decision_trees.md), support vector machines, and neural networks. The models are trained on historical data and continuously updated based on new information.
+More advanced [quantitative trading](../q/quantitative_trading.md) firms apply machine learning (ML) models to predict future price movements. These models can include techniques like [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md). The models are trained on historical data and continuously updated based on new information.
 
 ## Key Players in Quantitative Trade Execution
 
 ### Renaissance Technologies
 
-Renaissance Technologies is one of the most esteemed [quantitative trading](../q/quantitative_trading.md) firms, known for its Medallion Fund, which has achieved extraordinary returns. The firm utilizes various quantitative strategies and leverages sophisticated mathematical models to trade in global markets.
+Renaissance Technologies is one of the most esteemed [quantitative trading](../q/quantitative_trading.md) firms, known for its Medallion Fund, which has achieved extraordinary returns. The firm utilizes various [quantitative strategies](../q/quantitative_strategies_in_trading.md) and leverages sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to trade in global markets.
 
 Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
 
-Two Sigma is another prominent name in the [quantitative trading](../q/quantitative_trading.md) world. The firm uses data science and technology to create and execute its [trading strategies](../t/trading_strategies.md). It employs techniques from fields like machine learning and distributed computing to analyze data and make trading decisions.
+Two Sigma is another prominent name in the [quantitative trading](../q/quantitative_trading.md) world. The firm uses [data science](../d/data_science_in_trading.md) and technology to create and execute its [trading strategies](../t/trading_strategies.md). It employs techniques from fields like machine learning and distributed computing to analyze data and make trading decisions.
 
 Website: [Two Sigma](https://www.twosigma.com/)
 
@@ -81,7 +81,7 @@ Website: [Citadel Securities](https://www.citadelsecurities.com/)
 
 ### AQR Capital Management
 
-AQR Capital Management employs [quantitative models](../q/quantitative_models.md) to manage assets across a wide range of investment strategies. They combine fundamental research, economic theory, and proprietary [data analysis techniques](../d/data_analysis_techniques.md) to inform their quantitative strategies.
+AQR Capital Management employs [quantitative models](../q/quantitative_models.md) to manage assets across a wide range of investment strategies. They combine fundamental research, economic theory, and proprietary [data analysis techniques](../d/data_analysis_techniques.md) to inform their [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 Website: [AQR Capital Management](https://www.aqr.com/)
 

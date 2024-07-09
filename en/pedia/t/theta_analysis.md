@@ -21,8 +21,8 @@ Likewise, the Theta of a European put option is given by:
 Where:
 - \( S \) = Current stock price
 - \( \sigma \) = Volatility
-- \( N \) = Cumulative distribution function of the standard normal distribution
-- \( N' \) = Differential of the cumulative distribution function
+- \( N \) = [Cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md)
+- \( N' \) = Differential of the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md)
 - \( T \) = Time to expiration
 - \( r \) = Risk-free interest rate
 - \( K \) = Strike price

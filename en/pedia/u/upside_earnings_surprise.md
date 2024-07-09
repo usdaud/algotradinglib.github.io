@@ -18,7 +18,7 @@ After a significant upside earnings surprise, financial analysts may adjust thei
 Several factors can contribute to a company reporting earnings higher than expected:
 
 ### Operational Efficiency
-Improvements in operational efficiency, such as cost reduction strategies or operational streamlining, can lead to increased profitability. Companies that can effectively manage their expenses while maintaining or growing their revenue are more likely to report better-than-expected earnings.
+Improvements in [operational efficiency](../o/operational_efficiency_in_trading.md), such as cost reduction strategies or operational streamlining, can lead to increased profitability. Companies that can effectively manage their expenses while maintaining or growing their revenue are more likely to report better-than-expected earnings.
 
 ### Revenue Growth
 Strong revenue growth, perhaps driven by increased sales volume, higher pricing power, or market expansion, can contribute to earnings outperformance. Companies successfully entering new markets or launching new products that generate significant additional revenue often report positive [earnings surprises](../e/earnings_surprises.md).

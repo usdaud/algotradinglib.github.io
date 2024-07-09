@@ -23,7 +23,7 @@ Yield mapping models are crucial tools in the [algorithmic trading](../a/algorit
 
    Examples:
    - **[Factor Models](../f/factor_models.md)**: These models use multiple factors (e.g., market risk, size, value) to explain returns. The Fama-French model is a well-known multi-factor approach.
-   - **Machine Learning Models**: Leverage algorithms from machine learning, such as neural networks or random forests, to predict yields based on extensive datasets.
+   - **Machine Learning Models**: Leverage algorithms from machine learning, such as [neural networks](../n/neural_networks_in_trading.md) or [random forests](../r/random_forests_in_trading.md), to predict yields based on extensive datasets.
 
 4. **Hybrid Models**:
    Hybrid models integrate elements from fundamental, technical, and [quantitative approaches](../q/quantitative_approaches.md) to create robust yield prediction models. Combining multiple methodologies often results in more accurate and reliable predictions.
@@ -33,7 +33,7 @@ Yield mapping models are crucial tools in the [algorithmic trading](../a/algorit
 ### Data Input
 For yield mapping models to function effectively, comprehensive data inputs are critical:
 - **Market Data**: Includes historical and real-time prices, volumes, and bid-ask spreads.
-- **[Economic Indicators](../e/economic_indicators.md)**: GDP growth rates, inflation, interest rates, employment figures, etc.
+- **[Economic Indicators](../e/economic_indicators.md)**: GDP [growth rates](../g/growth_rates_in_trading.md), inflation, interest rates, employment figures, etc.
 - **Corporate Financials**: Balance sheets, income statements, cash flow statements.
 - **[Alternative Data](../a/alternative_data.md)**: [Social media sentiment](../s/social_media_sentiment.md), news feeds, satellite imagery, etc.
 
@@ -90,7 +90,7 @@ AI and deep learning are expected to play a growing role in yield mapping. These
 The trend towards incorporating [alternative data](../a/alternative_data.md) sources will continue, enhancing the breadth and depth of inputs available to models. This includes everything from social media activity to environmental data.
 
 ### Integration with Blockchain Technology
-Blockchain can offer enhanced data transparency and integrity, providing a reliable foundation for yield mapping models. Smart contracts could automate and enhance model-driven [trading strategies](../t/trading_strategies.md).
+[Blockchain](../b/blockchain_in_trading.md) can offer enhanced data transparency and integrity, providing a reliable foundation for yield mapping models. [Smart contracts](../s/smart_contracts_in_trading.md) could automate and enhance model-driven [trading strategies](../t/trading_strategies.md).
 
 ### Collaboration Between Human Traders and Algorithms
 A synergistic approach, where human intuition and experience complement algorithmic precision, holds promise. Yield mapping models can support traders by providing data-driven insights, while traders can apply context and discretion.

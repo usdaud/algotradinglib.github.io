@@ -41,7 +41,7 @@ The Consumer Confidence Index (CCI) measures the degree of optimism that consume
 Corporate earnings reports provide insight into the financial health of companies. Deteriorating earnings are often a sign that businesses are facing reduced demand and increased costs, which can precede a recession.
 
 - **Significance**: Earnings reductions across multiple sectors typically indicate a broader economic slowdown.
-- **Measurement**: Tracked quarterly, these reports are analyzed for trends. Indicators include earnings per share (EPS), revenue growth, and profit margins.
+- **Measurement**: Tracked quarterly, these reports are analyzed for trends. Indicators include earnings per share (EPS), revenue growth, and [profit margins](../p/profit_margins_in_trading.md).
 - **Application in Algo-Trading**: Algo-[trading models](../t/trading_models.md) might respond to aggregate earnings trends by reallocating assets away from sectors experiencing declining profits to more stable ones.
 
 ### 6. Housing Market Indicators
@@ -105,10 +105,10 @@ Actions by central banks, especially the Federal Reserve in the United States, a
 To practically implement these recession indicators in algo-trading, the following steps can be considered:
 
 1. **[Data Integration](../d/data_integration.md)**: Collect and store relevant data for each indicator from reliable sources.
-2. **Model Development**: Develop predictive models using historical data to identify patterns correlated with recessions.
+2. **Model Development**: Develop [predictive models](../p/predictive_models_in_trading.md) using historical data to identify patterns correlated with recessions.
 3. **[Backtesting](../b/backtesting.md)**: Test the models on historical data to verify their predictive accuracy.
 4. **Real-Time Monitoring**: Continuously update models with real-time data inputs and adjust [trading strategies](../t/trading_strategies.md) accordingly.
-5. **[Risk Management](../r/risk_management.md)**: Implement stop-loss mechanisms and [diversification strategies](../d/diversification_strategies.md) to manage the risk associated with false signals.
+5. **[Risk Management](../r/risk_management.md)**: Implement stop-loss mechanisms and [diversification strategies](../d/diversification_strategies.md) to manage the risk associated with [false signals](../f/false_signals_in_trading.md).
 
 By harnessing these indicators, traders can build robust algo-[trading models](../t/trading_models.md) that aim to anticipate and react to economic downturns, maximizing their potential for profit while managing risks effectively.
 

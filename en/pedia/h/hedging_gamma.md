@@ -74,7 +74,7 @@ Hedging gamma, while beneficial, comes with its own set of challenges and consid
 
 ## Software and Tools for Gamma Hedging
 
-In modern trading, numerous software tools and platforms can assist in [gamma hedging](../g/gamma_hedging.md), providing real-time analytics and automated [trading algorithms](../t/trading_algorithms.md):
+In modern trading, numerous [software tools](../s/software_tools_for_trading.md) and platforms can assist in [gamma hedging](../g/gamma_hedging.md), providing real-time analytics and automated [trading algorithms](../t/trading_algorithms.md):
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: A popular choice among professional traders, offering comprehensive options analytics and real-time data.
 - **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A powerful trading platform that includes advanced [options Greeks analysis](../o/options_greeks_analysis.md) tools.
@@ -114,7 +114,7 @@ As financial markets evolve, new techniques and innovations continue to emerge i
 
 ### Algorithmic Gamma Hedging
 
-Leveraging machine learning and artificial intelligence to create dynamic algorithms that automatically adjust hedging positions in real-time based on market data.
+Leveraging machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to create dynamic algorithms that automatically adjust hedging positions in real-time based on market data.
 
 ### High-Frequency Trading (HFT) Firms
 
@@ -126,7 +126,7 @@ Some high-frequency trading firms specialize in automated [gamma hedging](../g/g
 
 ### Blockchain and Distributed Ledger Technology
 
-Exploring the use of blockchain for transparent and efficient [gamma hedging](../g/gamma_hedging.md) operations, potentially reducing transaction costs and improving execution speed.
+Exploring the use of [blockchain](../b/blockchain_in_trading.md) for transparent and efficient [gamma hedging](../g/gamma_hedging.md) operations, potentially reducing transaction costs and improving execution speed.
 
 ## Case Studies in Gamma Hedging
 

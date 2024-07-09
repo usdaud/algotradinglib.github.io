@@ -1,6 +1,6 @@
 # Structural Breaks
 
-Structural breaks, also known as regime shifts, refer to sudden and significant changes in the underlying statistical properties of time series data. These shifts can affect mean, variance, and correlations of the data sets, often causing traditional models to fail in their predictive capabilities. In the context of trading, recognizing and adapting to structural breaks is essential for maintaining the reliability and robustness of [trading algorithms](../t/trading_algorithms.md).
+Structural breaks, also known as [regime shifts](../r/regime_shifts_in_trading.md), refer to sudden and significant changes in the underlying statistical properties of time series data. These shifts can affect mean, variance, and correlations of the data sets, often causing traditional models to fail in their predictive capabilities. In the context of trading, recognizing and adapting to structural breaks is essential for maintaining the reliability and robustness of [trading algorithms](../t/trading_algorithms.md).
 
 ## Importance in Algorithmic Trading
 
@@ -24,7 +24,7 @@ Several statistical techniques have been developed to detect structural breaks i
 
 3. **Zivot-Andrews Test**: This test is particularly useful when the exact location of the break is not known. It allows for endogenous detection of structural breaks in both the intercept and slope of a time series model.
 
-4. **Markov Switching Models**: These models assume that the data can switch between different regimes according to a Markov process. They are particularly useful for detecting frequent regime shifts.
+4. **Markov Switching Models**: These models assume that the data can switch between different regimes according to a Markov process. They are particularly useful for detecting frequent [regime shifts](../r/regime_shifts_in_trading.md).
 
 ## Adapting Trading Algorithms to Structural Breaks
 
@@ -40,11 +40,11 @@ Once a structural break has been detected, [trading algorithms](../t/trading_alg
 
 ### LTCM and the 1998 Financial Crisis
 
-Long-Term Capital Management (LTCM) was a hedge fund that utilized sophisticated mathematical models for trading. The fund failed spectacularly during the 1998 financial crisis when a structural break in the relationship between different asset classes led to catastrophic losses.
+Long-Term Capital Management (LTCM) was a hedge fund that utilized sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for trading. The fund failed spectacularly during the 1998 financial crisis when a structural break in the relationship between different asset classes led to catastrophic losses.
 
 ### The 2008 Financial Crisis
 
-The 2008 financial crisis is another example of how structural breaks can impact trading. Traditional risk models that assumed stable correlations between asset classes failed, leading to significant losses for many financial institutions.
+The 2008 financial crisis is another example of how structural breaks can impact trading. Traditional [risk models](../r/risk_models_in_trading.md) that assumed stable correlations between asset classes failed, leading to significant losses for many financial institutions.
 
 ### COVID-19 Pandemic
 

@@ -1,6 +1,6 @@
 # Algorithmic Forex Trading
 
-Algorithmic Forex Trading, also known as automated trading, black-box trading, or simply algo trading, is the process of using computer algorithms to trade currencies in the foreign exchange market. This practice leverages complex mathematical models and strategies to make trades that are designed to maximize profits while minimizing human error and emotional decision-making.
+Algorithmic Forex Trading, also known as automated trading, black-box trading, or simply algo trading, is the process of using computer algorithms to trade currencies in the foreign exchange market. This practice leverages complex [mathematical models](../m/mathematical_models_in_trading.md) and strategies to make trades that are designed to maximize profits while minimizing human error and emotional decision-making.
 
 ## What is Forex Trading?
 
@@ -47,7 +47,7 @@ Market making involves continuously buying and selling currencies to profit from
 
 ### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) uses natural language processing and machine learning to gauge market sentiment from news articles, social media, and other textual sources.
+[Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and machine learning to gauge market sentiment from news articles, social media, and other textual sources.
 
 ## Advantages of Algorithmic Forex Trading
 
@@ -144,7 +144,7 @@ The integration of AI and machine learning technologies in [algorithmic trading]
 
 ### Quantum Computing
 
-Quantum computing offers the potential to perform complex calculations at unprecedented speeds, which could revolutionize [algorithmic trading](../a/algorithmic_trading.md).
+[Quantum computing](../q/quantum_computing_in_trading.md) offers the potential to perform complex calculations at unprecedented speeds, which could revolutionize [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Decentralized Finance (DeFi)
 

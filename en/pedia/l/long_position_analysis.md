@@ -54,7 +54,7 @@ Diversification involves spreading investments across various assets, sectors, o
 
 ### Position Sizing
 
-[Position sizing](../p/position_sizing.md) determines the amount of capital allocated to each trade. Proper [position sizing](../p/position_sizing.md) helps manage risk and avoid significant losses. Techniques like the [Kelly Criterion](../k/kelly_criterion.md) and fixed-percentage risk models are commonly used.
+[Position sizing](../p/position_sizing.md) determines the amount of capital allocated to each trade. Proper [position sizing](../p/position_sizing.md) helps manage risk and avoid significant losses. Techniques like the [Kelly Criterion](../k/kelly_criterion.md) and fixed-percentage [risk models](../r/risk_models_in_trading.md) are commonly used.
 
 ## Tools and Technologies
 
@@ -68,7 +68,7 @@ Diversification involves spreading investments across various assets, sectors, o
 
 ### Risk Management Tools
 
-[Risk management](../r/risk_management.md) tools help traders and investors assess and manage potential risks. Features include [portfolio analysis](../p/portfolio_analysis.md), stress testing, and scenario analysis. Tools like RiskMetrics and Portfolio123 are widely used.
+[Risk management](../r/risk_management.md) tools help traders and investors assess and manage potential risks. Features include [portfolio analysis](../p/portfolio_analysis.md), [stress testing](../s/stress_testing_in_trading.md), and scenario analysis. Tools like RiskMetrics and Portfolio123 are widely used.
 
 ## Case Studies
 

@@ -33,7 +33,7 @@ where:
 - \( T \) is the time to maturity.
 - \( r \) is the risk-free rate.
 - \( \sigma \) is the volatility of the stock.
-- \( N(\cdot) \) is the cumulative distribution function of the standard normal distribution.
+- \( N(\cdot) \) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md).
 
 ### Assumptions of the Black-Scholes Model
 1. **No dividends** are paid out during the life of the option.

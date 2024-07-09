@@ -62,7 +62,7 @@ Advanced machine learning techniques and statistical models can be used for [pat
 
 ### Sentiment Analysis
 
-With the advent of natural language processing (NLP), [sentiment analysis](../s/sentiment_analysis.md) tools can also be employed. By analyzing financial news, reports, and even social media, [sentiment analysis](../s/sentiment_analysis.md) algorithms can predict when [window dressing](../w/window_dressing.md) activities are about to take place.
+With the advent of [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), [sentiment analysis](../s/sentiment_analysis.md) tools can also be employed. By analyzing financial news, reports, and even social media, [sentiment analysis](../s/sentiment_analysis.md) algorithms can predict when [window dressing](../w/window_dressing.md) activities are about to take place.
 
 ### Cross-Asset Analysis
 

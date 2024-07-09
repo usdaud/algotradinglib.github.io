@@ -29,7 +29,7 @@ Operational risks are related to failures in the trading system's infrastructure
 ## 3. Methods of Performance Risk Analysis
 
 ### 3.1 Stress Testing
-Stress testing involves simulating extreme market conditions to evaluate how the trading algorithm performs under high-stress scenarios. This process helps traders identify potential vulnerabilities and quantify the level of risk involved.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating extreme market conditions to evaluate how the trading algorithm performs under high-stress scenarios. This process helps traders identify potential vulnerabilities and quantify the level of risk involved.
 
 ### 3.2 Scenario Analysis
 Scenario analysis involves the evaluation of different market scenarios to determine the potential impact on [trading algorithms](../t/trading_algorithms.md). This analysis helps predict outcomes under various market conditions, providing insights into risks associated with specific scenarios.
@@ -52,7 +52,7 @@ Diversification involves spreading investments across different assets or strate
 Setting risk limits such as [stop-loss orders](../s/stop-loss_orders.md), maximum drawdown limits, and exposure limits helps in capping the potential losses. Risk limits act as safety nets to prevent excessive losses in unfavorable market conditions.
 
 ### 4.3 Algorithm Adjustments
-Continuous improvement and adjustments of [trading algorithms](../t/trading_algorithms.md) based on performance [risk analysis](../r/risk_analysis.md) outcomes help in keeping them optimized. Incorporating feedback loops wherein algorithms learn from past performance can significantly enhance efficiency and risk mitigation.
+Continuous improvement and adjustments of [trading algorithms](../t/trading_algorithms.md) based on performance [risk analysis](../r/risk_analysis.md) outcomes help in keeping them optimized. Incorporating [feedback loops](../f/feedback_loops_in_trading.md) wherein algorithms learn from past performance can significantly enhance efficiency and risk mitigation.
 
 ### 4.4 Hedging
 Hedging involves taking positions that would offset potential losses in the primary trading strategy. For example, traders can use options and futures to hedge against adverse price movements.
@@ -66,7 +66,7 @@ Investing in robust and redundant trading infrastructure ensures minimal operati
 Analytic tools such as Python’s pandas, NumPy, and SciPy libraries are widely used for performance [risk analysis](../r/risk_analysis.md). These tools facilitate extensive data analysis and visualization, aiding in the identification and management of risks.
 
 ### 5.2 Machine Learning Models
-Machine learning models are increasingly employed to predict market movements and identify risks in real-time. Libraries like TensorFlow and Scikit-Learn provide frameworks for implementing predictive models.
+Machine learning models are increasingly employed to predict market movements and identify risks in real-time. Libraries like TensorFlow and Scikit-Learn provide frameworks for implementing [predictive models](../p/predictive_models_in_trading.md).
 
 ### 5.3 Automated Monitoring Systems
 Automated systems that monitor [algorithmic trading](../a/algorithmic_trading.md) performance in real-time are invaluable. Tools such as Splunk and Nagios offer comprehensive monitoring solutions, helping traders detect and respond to risks promptly.
@@ -89,7 +89,7 @@ Renaissance Technologies, one of the most successful hedge funds, employs rigoro
 **Website:** [Renaissance Technologies](https://www.rentec.com/)
 
 ### 7.2 Two Sigma
-Two Sigma utilizes advanced machine learning algorithms for trading and employs comprehensive performance [risk analysis](../r/risk_analysis.md) techniques to mitigate risks and enhance returns.
+Two Sigma utilizes advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) for trading and employs comprehensive performance [risk analysis](../r/risk_analysis.md) techniques to mitigate risks and enhance returns.
 
 **Website:** [Two Sigma](https://www.twosigma.com/)
 
@@ -100,4 +100,4 @@ Citadel Securities places significant emphasis on real-time monitoring and robus
 
 ## 8. Conclusion
 
-Performance [risk analysis](../r/risk_analysis.md) is essential in [algorithmic trading](../a/algorithmic_trading.md) to ensure that [trading algorithms](../t/trading_algorithms.md) perform as expected without incurring significant losses. Through methods like stress testing, [backtesting](../b/backtesting.md), real-time monitoring, and adherence to regulatory standards, algorithmic traders can effectively manage and mitigate the various risks involved. Advanced technological tools and risk mitigation strategies further enhance the robustness and resilience of [trading algorithms](../t/trading_algorithms.md) in dynamic market environments.
+Performance [risk analysis](../r/risk_analysis.md) is essential in [algorithmic trading](../a/algorithmic_trading.md) to ensure that [trading algorithms](../t/trading_algorithms.md) perform as expected without incurring significant losses. Through methods like [stress testing](../s/stress_testing_in_trading.md), [backtesting](../b/backtesting.md), real-time monitoring, and adherence to regulatory standards, algorithmic traders can effectively manage and mitigate the various risks involved. Advanced technological tools and risk mitigation strategies further enhance the robustness and resilience of [trading algorithms](../t/trading_algorithms.md) in dynamic market environments.

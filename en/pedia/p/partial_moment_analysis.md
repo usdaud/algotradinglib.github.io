@@ -4,7 +4,7 @@ Partial Moment Analysis is a statistical method used to understand the behavior 
 
 ## Definition and Importance
 
-Partial moments are defined based on a specified threshold, and they measure the average deviation of returns that either fall below or exceed this threshold. There are two primary types: lower partial moments (LPM) and upper partial moments (UPM). These are used to assess downside risk and upside potential respectively.
+Partial moments are defined based on a specified threshold, and they measure the average deviation of returns that either fall below or exceed this threshold. There are two primary types: lower partial moments (LPM) and upper partial moments (UPM). These are used to assess downside risk and [upside potential](../u/upside_potential_in_trading.md) respectively.
 
 ### Lower Partial Moments (LPM)
 
@@ -20,11 +20,11 @@ Where \( \tau \) is the threshold return, \( R \) is the actual return, and \( n
 
 ### Upper Partial Moments (UPM)
 
-Upper partial moments focus on the upside potential—returns that exceed a certain threshold. Similar to LPMs, there are different orders of UPM:
+Upper partial moments focus on the [upside potential](../u/upside_potential_in_trading.md)—returns that exceed a certain threshold. Similar to LPMs, there are different orders of UPM:
 
 1. **First-order UPM (UPM1)**: Measures the mean excess above the threshold.
 2. **Second-order UPM (UPM2)**: Measures the variance of returns above the threshold.
-3. **Higher-order UPMs**: Analyze even finer aspects of the upside potential.
+3. **Higher-order UPMs**: Analyze even finer aspects of the [upside potential](../u/upside_potential_in_trading.md).
 
 \[ \text{UPM}_n(\tau) = \mathbb{E}[\max(0, R - \tau)^n] \]
 

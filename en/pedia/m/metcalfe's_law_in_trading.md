@@ -18,7 +18,7 @@ Bitcoin's value can be partially explained by Metcalfe's Law. The increasing num
 
 #### Ethereum (ETH)
 
-Ethereum's network value can also be analyzed through the lens of Metcalfe's Law. As more developers build decentralized applications (dApps) on the Ethereum platform and more users engage with these dApps, the network's overall utility and value increase. The growth in the number of smart contracts and decentralized finance (DeFi) projects on Ethereum further exemplifies this principle.
+Ethereum's network value can also be analyzed through the lens of Metcalfe's Law. As more developers build decentralized applications (dApps) on the Ethereum platform and more users engage with these dApps, the network's overall utility and value increase. The growth in the number of [smart contracts](../s/smart_contracts_in_trading.md) and decentralized finance (DeFi) projects on Ethereum further exemplifies this principle.
 
 ### Social Trading Platforms
 

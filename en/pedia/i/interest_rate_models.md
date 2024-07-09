@@ -1,6 +1,6 @@
 # Interest Rate Models
 
-Interest rate models are mathematical models used to describe the evolution of interest rates over time. These models are crucial in finance for the valuation of interest rate [derivatives](../d/derivatives.md), [risk management](../r/risk_management.md), and [portfolio management](../p/portfolio_management.md). This document provides a detailed examination of several popular interest rate models, their applications, and their theoretical foundations.
+Interest rate models are [mathematical models](../m/mathematical_models_in_trading.md) used to describe the evolution of interest rates over time. These models are crucial in finance for the valuation of interest rate [derivatives](../d/derivatives.md), [risk management](../r/risk_management.md), and [portfolio management](../p/portfolio_management.md). This document provides a detailed examination of several popular interest rate models, their applications, and their theoretical foundations.
 
 ## Vasicek Model
 
@@ -47,7 +47,7 @@ The LIBOR Market Model, also known as the Brace-Gatarek-Musiela (BGM) model, ext
 
 \[ dL_i(t) = L_i(t) \left( \mu_i dt + \sum_{j} \sigma_{ij} dW_j(t) \right) \]
 
-where \( L_i(t) \) is the forward LIBOR rate with maturity \( i \), and \( \mu_i \) and \( \sigma_{ij} \) are the drift and volatility terms. It is particularly popular in market practice for its ability to closely match observed market prices of interest rate [derivatives](../d/derivatives.md).
+where \( L_i(t) \) is the forward [LIBOR rate](../l/libor_rate_analysis.md) with maturity \( i \), and \( \mu_i \) and \( \sigma_{ij} \) are the drift and volatility terms. It is particularly popular in market practice for its ability to closely match observed market prices of interest rate [derivatives](../d/derivatives.md).
 
 ## Application in Algo Trading
 

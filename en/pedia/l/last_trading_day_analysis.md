@@ -70,7 +70,7 @@ On the last trading day of 2018, there was significant market activity as trader
 
 ### March 29, 2019 (Brexit Uncertainty)
 
-The final trading day of Q1 2019 was marked by high volatility due to uncertainty around Brexit. Stocks like FTSE 100 experienced considerable swings, providing ample opportunities for short-term traders.
+The final trading day of Q1 2019 was marked by high volatility due to [uncertainty](../u/uncertainty_in_trading.md) around Brexit. Stocks like FTSE 100 experienced considerable swings, providing ample opportunities for short-term traders.
 
 ## Ethical Considerations
 

@@ -22,7 +22,7 @@ Fixed-income [arbitrage](../a/arbitrage.md) strategies involve exploiting price 
 ## Methods of Implementation
 
 ### Quantitative Models
-[Quantitative models](../q/quantitative_models.md) form the backbone of market neutral strategies. These models use historical data to identify patterns, correlations, and deviations that can be exploited for profit. Machine learning and artificial intelligence are increasingly employed to enhance these models.
+[Quantitative models](../q/quantitative_models.md) form the backbone of market neutral strategies. These models use historical data to identify patterns, correlations, and deviations that can be exploited for profit. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly employed to enhance these models.
 
 ### Risk Management Techniques
 Proper [risk management](../r/risk_management.md) is crucial for market neutral strategies. This includes setting stop-loss levels, diversifying trades, and using leverage judiciously to avoid exposure to systematic risks that could negate the strategy’s neutrality.
@@ -63,7 +63,7 @@ Two Sigma is another leading hedge fund known for its advancements in technology
 [Visit Two Sigma](https://www.twosigma.com/)
 
 ### Renaissance Technologies
-Renaissance Technologies, led by Jim Simons, is a pioneer in [quantitative trading](../q/quantitative_trading.md). Their Medallion Fund is famous for its incredible returns, achieved through market neutral strategies employing sophisticated mathematical models and algorithms.
+Renaissance Technologies, led by Jim Simons, is a pioneer in [quantitative trading](../q/quantitative_trading.md). Their Medallion Fund is famous for its incredible returns, achieved through market neutral strategies employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms.
 [Visit Renaissance Technologies](https://www.rentec.com/)
 
 ## Conclusion

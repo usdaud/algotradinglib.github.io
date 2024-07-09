@@ -55,7 +55,7 @@ Parameter tuning involves adjusting the algorithm's internal parameters to achie
 
 ### Machine Learning and AI
 
-The integration of machine learning and artificial intelligence (AI) can significantly enhance the optimization of X-[Trading models](../t/trading_models.md). Techniques such as reinforcement learning, neural networks, and genetic algorithms can be employed to automatically optimize [trading strategies](../t/trading_strategies.md) based on historical and real-time data.
+The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) can significantly enhance the optimization of X-[Trading models](../t/trading_models.md). Techniques such as reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and [genetic algorithms](../g/genetic_algorithms_in_trading.md) can be employed to automatically optimize [trading strategies](../t/trading_strategies.md) based on historical and real-time data.
 
 #### Reinforcement Learning
 
@@ -63,11 +63,11 @@ Reinforcement learning involves training an agent to make a sequence of decision
 
 #### Neural Networks
 
-Neural networks, especially deep learning models, can identify complex patterns in large datasets. By training a neural network on historical market data, it can predict future price movements or classify market conditions, thereby aiding in trade decision-making.
+[Neural networks](../n/neural_networks_in_trading.md), especially deep learning models, can identify complex patterns in large datasets. By training a neural network on historical market data, it can predict future price movements or classify market conditions, thereby aiding in trade decision-making.
 
 #### Genetic Algorithms
 
-Genetic algorithms mimic the process of natural selection to optimize [trading strategies](../t/trading_strategies.md). By iteratively evolving a population of strategies, selecting the best performers, and introducing variations, genetic algorithms can discover highly effective [trading rules](../t/trading_rules.md).
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) mimic the process of natural selection to optimize [trading strategies](../t/trading_strategies.md). By iteratively evolving a population of strategies, selecting the best performers, and introducing variations, [genetic algorithms](../g/genetic_algorithms_in_trading.md) can discover highly effective [trading rules](../t/trading_rules.md).
 
 ### Risk Management
 
@@ -155,11 +155,11 @@ Once the X-Trading model is optimized, it needs to be deployed on a trading plat
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is one of the most successful hedge funds utilizing [algorithmic trading](../a/algorithmic_trading.md). RenTech's flagship Medallion Fund leverages sophisticated mathematical models and algorithms to achieve consistently high returns. Their success demonstrates the power of optimized [trading models](../t/trading_models.md).
+Renaissance Technologies, founded by Jim Simons, is one of the most successful hedge funds utilizing [algorithmic trading](../a/algorithmic_trading.md). RenTech's flagship Medallion Fund leverages sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to achieve consistently high returns. Their success demonstrates the power of optimized [trading models](../t/trading_models.md).
 
 ### Two Sigma
 
-Two Sigma Investments employs data science and technology to drive their [trading strategies](../t/trading_strategies.md). Their approach involves utilizing machine learning and artificial intelligence to identify patterns and optimize [trading algorithms](../t/trading_algorithms.md). Learn more about their innovative methods on their [official website](https://twosigma.com).
+Two Sigma Investments employs [data science](../d/data_science_in_trading.md) and technology to drive their [trading strategies](../t/trading_strategies.md). Their approach involves utilizing machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify patterns and optimize [trading algorithms](../t/trading_algorithms.md). Learn more about their innovative methods on their [official website](https://twosigma.com).
 
 ### Citadel Securities
 
@@ -169,7 +169,7 @@ Citadel Securities is a global market-making firm that uses advanced algorithmic
 
 ### Quantum Computing
 
-Quantum computing has the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by performing complex calculations at unprecedented speeds. Quantum algorithms could optimize [trading strategies](../t/trading_strategies.md) in ways that classical computers cannot.
+[Quantum computing](../q/quantum_computing_in_trading.md) has the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by performing complex calculations at unprecedented speeds. [Quantum algorithms](../q/quantum_algorithms_in_trading.md) could optimize [trading strategies](../t/trading_strategies.md) in ways that classical computers cannot.
 
 ### Decentralized Finance (DeFi)
 

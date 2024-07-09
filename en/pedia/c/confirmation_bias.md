@@ -13,7 +13,7 @@ Confirmation bias refers to the inclination of people to seek, interpret, and re
 The roots of confirmation bias are deeply embedded in human psychology. Key factors contributing to this bias include:
 
 1. **Cognitive Dissonance:** The mental discomfort experienced when confronted with conflicting information or beliefs.
-2. **Information Processing:** The tendency to process information in a way that is congruent with existing beliefs.
+2. **[Information Processing](../i/information_processing_in_trading.md):** The tendency to process information in a way that is congruent with existing beliefs.
 3. **Selective Exposure:** The inclination to expose oneself predominantly to information that supports one's preexisting views.
 
 ## Implications of Confirmation Bias in Algorithmic Trading
@@ -36,14 +36,14 @@ In [algorithmic trading](../a/algorithmic_trading.md), the accuracy of [trading 
 
 The development of [trading strategies](../t/trading_strategies.md) can be severely hampered by confirmation bias. Traders or developers may:
 
-- **Ignore Risk Factors:** Underestimate potential risks or market conditions that could invalidate their strategies.
+- **Ignore [Risk Factors](../r/risk_factors_in_trading.md):** Underestimate potential risks or market conditions that could invalidate their strategies.
 - **Reinforce Existing Beliefs:** Continually refine strategies to satisfy preconceived notions, leading to suboptimal [trading performance](../t/trading_performance.md).
 
 ## Mitigating Confirmation Bias
 
 ### Awareness and Education
 
-One of the first steps in mitigating confirmation bias is awareness. Traders and algorithm developers must educate themselves on cognitive biases and their effects. Understanding that confirmation bias exists and recognizes its manifestations can help in making more objective decisions.
+One of the first steps in mitigating confirmation bias is awareness. Traders and algorithm developers must educate themselves on [cognitive biases](../c/cognitive_biases_in_trading.md) and their effects. Understanding that confirmation bias exists and recognizes its manifestations can help in making more objective decisions.
 
 ### Structured Decision-Making
 
@@ -68,7 +68,7 @@ Developing processes to ensure the integrity and robustness of [trading algorith
 
 ### Feedback Loops
 
-Establishing feedback loops that include performance monitoring and [post-trade analysis](../p/post-trade_analysis.md) can aid in identifying confirmation bias. By rigorously analyzing the outcomes of [trading strategies](../t/trading_strategies.md) and comparing them with initial expectations, traders can:
+Establishing [feedback loops](../f/feedback_loops_in_trading.md) that include performance monitoring and [post-trade analysis](../p/post-trade_analysis.md) can aid in identifying confirmation bias. By rigorously analyzing the outcomes of [trading strategies](../t/trading_strategies.md) and comparing them with initial expectations, traders can:
 
 - **Identify Bias:** Detect systematic patterns of bias in their decision-making processes.
 - **Continuous Improvement:** Refine algorithms and strategies based on unbiased performance data.
@@ -96,7 +96,7 @@ Several companies offer solutions aimed at reducing confirmation bias in trading
 
 - [Qlik](https://www.qlik.com): Qlik provides business intelligence and [data visualization](../d/data_visualization.md) tools that help traders uncover unbiased insights from their data.
 - [Kensho](https://www.kensho.com): Kensho offers advanced machine learning and analytics solutions to ensure objective data analysis and reduce [cognitive biases in trading](../c/cognitive_biases_in_trading.md) decisions.
-- [Aiera](https://www.aiera.com): Aiera specializes in providing real-time market analysis using AI to help traders make data-driven decisions without cognitive biases.
+- [Aiera](https://www.aiera.com): Aiera specializes in providing real-time market analysis using AI to help traders make data-driven decisions without [cognitive biases](../c/cognitive_biases_in_trading.md).
 
 ### Conclusion
 

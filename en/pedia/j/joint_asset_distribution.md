@@ -22,7 +22,7 @@ A well-diversified portfolio tends to have lower volatility since different asse
 
 Equities represent ownership in a company and entitle shareholders to a portion of the firm's profits. They are typically divided into:
 
-- **Large-Cap Stocks:** Companies with a large market capitalization. Known for stability and consistent returns.
+- **[Large-Cap Stocks](../l/large_cap_stocks.md):** Companies with a large market capitalization. Known for stability and consistent returns.
 - **[Mid-Cap Stocks](../m/mid-cap_stocks.md):** Companies with moderate market capitalization. Offer a balance between growth potential and stability.
 - **Small-Cap Stocks:** Companies with small market capitalization. Higher growth potential but also higher risk.
 
@@ -67,7 +67,7 @@ An algorithmic method that aims to create an optimal portfolio by considering th
 
 ## Application in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems are employed to automate the joint asset distribution process. These systems utilize mathematical models and [computational algorithms](../c/computational_algorithms.md) to make investment decisions. Key components include:
+[Algorithmic trading](../a/algorithmic_trading.md) systems are employed to automate the joint asset distribution process. These systems utilize [mathematical models](../m/mathematical_models_in_trading.md) and [computational algorithms](../c/computational_algorithms.md) to make investment decisions. Key components include:
 
 ### Data Analysis
 
@@ -96,7 +96,7 @@ BlackRock's Aladdin platform integrates sophisticated analytics with advanced po
 Website: [BlackRock Aladdin](https://www.blackrock.com/aladdin/)
 
 ### Two Sigma
-Two Sigma leverages machine learning, distributed computing, and big data to create automated investment strategies. Their approach is deeply rooted in [quantitative analysis](../q/quantitative_analysis.md) and algorithmic processes for asset distribution.
+Two Sigma leverages machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to create automated investment strategies. Their approach is deeply rooted in [quantitative analysis](../q/quantitative_analysis.md) and algorithmic processes for asset distribution.
 Website: [Two Sigma](https://www.twosigma.com/)
 
 ## Challenges in Joint Asset Distribution

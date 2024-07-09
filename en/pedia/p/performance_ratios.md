@@ -68,7 +68,7 @@ The Omega Ratio evaluates the ratio of gains to losses above a threshold return 
 \[ \text{Omega Ratio} = \frac{\int_{\text{threshold}}^{\infty} [1 - F(x)]dx}{\int_{-\infty}^{\text{threshold}} F(x)dx} \]
 
 Where:
-- F(x) = Cumulative distribution function of returns
+- F(x) = [Cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of returns
 
 A higher Omega Ratio signifies that the trading strategy offers more favorable returns compared to losses.
 

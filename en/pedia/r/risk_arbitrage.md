@@ -34,7 +34,7 @@ Accurate [valuation models](../v/valuation_models.md) are vital for determining 
 
 ### Quantitative Strategies
 
-In addition to traditional [fundamental analysis](../f/fundamental_analysis.md), [quantitative trading](../q/quantitative_trading.md) strategies can be applied in risk [arbitrage](../a/arbitrage.md). These strategies utilize statistical and mathematical models to predict the likelihood of a deal’s success and to determine the optimal time to buy or sell the securities involved. Some quant funds may employ machine learning algorithms to identify patterns and correlations that might not be apparent through conventional analysis.
+In addition to traditional [fundamental analysis](../f/fundamental_analysis.md), [quantitative trading](../q/quantitative_trading.md) strategies can be applied in risk [arbitrage](../a/arbitrage.md). These strategies utilize statistical and [mathematical models](../m/mathematical_models_in_trading.md) to predict the likelihood of a deal’s success and to determine the optimal time to buy or sell the securities involved. Some quant funds may employ machine [learning algorithms](../l/learning_algorithms_in_trading.md) to identify patterns and correlations that might not be apparent through conventional analysis.
 
 ## Risks and Challenges
 
@@ -48,7 +48,7 @@ Regulatory approval processes can be unpredictable and lengthy. Even if initiall
 
 ### Market Volatility
 
-Market conditions can affect [arbitrage](../a/arbitrage.md) opportunities. During periods of high volatility or economic downturns, the premiums offered by acquirers might be larger, reflecting a greater level of uncertainty. Conversely, in bull markets, there may be more competition among potential acquirers, leading to tighter spreads and potentially lower profits.
+Market conditions can affect [arbitrage](../a/arbitrage.md) opportunities. During periods of high volatility or economic downturns, the premiums offered by acquirers might be larger, reflecting a greater level of [uncertainty](../u/uncertainty_in_trading.md). Conversely, in bull markets, there may be more competition among potential acquirers, leading to tighter spreads and potentially lower profits.
 
 ### Financing Risks
 
@@ -76,7 +76,7 @@ Another leading firm in the risk [arbitrage](../a/arbitrage.md) space is Citadel
 
 ### DE Shaw
 
-DE Shaw is known for its extensive use of quantitative strategies and risk [arbitrage](../a/arbitrage.md) in its investment approach ([DE Shaw](https://www.deshaw.com/)).
+DE Shaw is known for its extensive use of [quantitative strategies](../q/quantitative_strategies_in_trading.md) and risk [arbitrage](../a/arbitrage.md) in its investment approach ([DE Shaw](https://www.deshaw.com/)).
 
 ## Conclusion
 

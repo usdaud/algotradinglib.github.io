@@ -144,7 +144,7 @@ cerebro.run()
 cerebro.plot()
 ```
 
-In this example, the `[backtrader](../b/backtrader.md)` library is used to backtest an Ichimoku-based strategy on Apple's stock data from Yahoo Finance.
+In this example, the `[backtrader](../b/backtrader.md)` library is used to backtest an Ichimoku-based strategy on Apple's stock data from [Yahoo Finance](../y/yahoo_finance.md).
 
 ## Advantages of Ichimoku in Algorithmic Trading
 

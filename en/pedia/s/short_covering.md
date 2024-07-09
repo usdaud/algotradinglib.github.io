@@ -54,12 +54,12 @@ While short covering can be a strategic move for traders, it carries inherent ri
 ### Algorithmic Trading Platforms
 Several platforms offer advanced tools and algorithms for executing short covering efficiently:
 - **[TradeStation](../t/tradestation.md)**: [TradeStation](../t/tradestation.md) offers robust trading tools and platforms that support various [trading strategies](../t/trading_strategies.md), including [short selling](../s/short_selling.md) and short covering. [TradeStation](https://www.tradestation.com/)
-- **Interactive Brokers**: Known for its advanced trading technology, Interactive Brokers provides a range of tools for short sellers. [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its advanced trading technology, [Interactive Brokers](../i/interactive_brokers.md) provides a range of tools for short sellers. [Interactive Brokers](https://www.interactivebrokers.com/)
 - **[QuantConnect](../q/quantconnect.md)**: This platform allows users to build and backtest [trading algorithms](../t/trading_algorithms.md), including those for short covering. [QuantConnect](https://www.quantconnect.com/)
 
 ### Factors Considered by Algorithms
 - **Market Trends**: Real-time analysis of market trends and trading volumes.
-- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using natural language processing (NLP) to gauge market sentiment from news and social media.
+- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to gauge market sentiment from news and social media.
 - **Historical Data**: [Backtesting](../b/backtesting.md) algorithms with historical data to validate their efficacy.
 - **[Risk Management](../r/risk_management.md)**: [Automated risk management](../a/automated_risk_management.md) protocols to limit potential losses.
 

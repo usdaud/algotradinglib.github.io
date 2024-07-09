@@ -4,13 +4,13 @@ Flexible [Asset Allocation](../a/asset_allocation.md) (FAA) is an advanced inves
 
 ### Key Concepts
 
-**1. Dynamic Adjustment:** FAA involves periodic rebalancing of the portfolio based on predefined criteria such as momentum, valuation metrics, risk factors, or [economic indicators](../e/economic_indicators.md). This approach aims to shift investments towards assets that are projected to perform well and away from those that are expected to underperform.
+**1. Dynamic Adjustment:** FAA involves periodic rebalancing of the portfolio based on predefined criteria such as momentum, valuation metrics, [risk factors](../r/risk_factors_in_trading.md), or [economic indicators](../e/economic_indicators.md). This approach aims to shift investments towards assets that are projected to perform well and away from those that are expected to underperform.
 
 **2. Diversification:** Even though FAA is dynamic, it still upholds the core principle of diversification by spreading investments across a variety of asset classes such as equities, bonds, commodities, real estate, and even alternative investments like cryptocurrencies.
 
 **3. [Risk Management](../r/risk_management.md):** FAA aims not just for returns but also for managing risk through techniques such as [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and volatility targeting. This ensures that the portfolio is not overly exposed to any single market movement.
 
-**4. [Quantitative Models](../q/quantitative_models.md):** The strategy often relies on sophisticated [quantitative models](../q/quantitative_models.md) and algorithms to analyze market data and make timely investment decisions. This can involve machine learning and artificial intelligence for [predictive analytics](../p/predictive_analytics.md).
+**4. [Quantitative Models](../q/quantitative_models.md):** The strategy often relies on sophisticated [quantitative models](../q/quantitative_models.md) and algorithms to analyze market data and make timely investment decisions. This can involve machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) for [predictive analytics](../p/predictive_analytics.md).
 
 **5. Tactical Moves:** FAA can involve tactical shifts, such as increasing the allocation to cash during periods of high market volatility, or increasing exposure to high-yield bonds when interest rates are favorable.
 
@@ -25,8 +25,8 @@ Flexible [Asset Allocation](../a/asset_allocation.md) (FAA) is an advanced inves
 **3. Multi-[Factor Models](../f/factor_models.md):**
    These models incorporate various factors like value, growth, momentum, and quality to determine the optimal [asset allocation](../a/asset_allocation.md). The weight given to different factors can be adjusted based on changing market conditions.
 
-**4. Machine Learning Algorithms:**
-   Advanced machine learning algorithms can analyze vast amounts of historical and real-time data to identify patterns and predict future price movements. These algorithms continuously learn and adapt to improve their predictive accuracy.
+**4. Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md):**
+   Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze vast amounts of historical and real-time data to identify patterns and predict future price movements. These algorithms continuously learn and adapt to improve their predictive accuracy.
 
 **5. [Economic Indicators](../e/economic_indicators.md):**
    Macroeconomic indicators like GDP growth, unemployment rates, and inflation can also influence [asset allocation](../a/asset_allocation.md) decisions. For example, during periods of economic expansion, the allocation might favor equities, while during recessions, it might favor bonds.

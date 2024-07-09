@@ -1,7 +1,7 @@
 # Kurtosis Trading Strategies
 
 ## Introduction
-Kurtosis, in the context of trading and financial markets, is a statistical measure used to describe the "tailedness" or the extremity of deviations within a probability distribution compared to a normal distribution. Higher kurtosis implies that data points, or in this case, asset price movements, tend to be more extreme, both in spikes and dips. In financial trading, understanding kurtosis can be critical for developing robust [trading strategies](../t/trading_strategies.md) aimed at capitalizing on extreme price moves or for [risk management](../r/risk_management.md) purposes.
+Kurtosis, in the context of trading and financial markets, is a statistical measure used to describe the "tailedness" or the extremity of deviations within a probability distribution compared to a [normal distribution](../n/normal_distribution_in_trading.md). Higher kurtosis implies that data points, or in this case, asset price movements, tend to be more extreme, both in spikes and dips. In financial trading, understanding kurtosis can be critical for developing robust [trading strategies](../t/trading_strategies.md) aimed at capitalizing on extreme price moves or for [risk management](../r/risk_management.md) purposes.
 
 ## Understanding Kurtosis
 ### Definition and Calculation
@@ -11,7 +11,7 @@ where \(X\) is the value, \(\mu\) is the mean, \(\sigma\) is the standard deviat
 - **Excess Kurtosis**: \( K - 3 \)
 - **Sample Kurtosis**: \( \frac{n(n+1)}{(n-1)(n-2)(n-3)} \sum \left( \frac{(X_i - \bar{X})^4}{S^4} \right) - \frac{3(n-1)^2}{(n-2)(n-3)} \)
 
-Typically, a normal distribution has a kurtosis of 3 (or an excess kurtosis of 0). Distributions with kurtosis > 3 are termed leptokurtic, indicating heavy tails, while kurtosis < 3 are platykurtic, indicating light tails.
+Typically, a [normal distribution](../n/normal_distribution_in_trading.md) has a kurtosis of 3 (or an excess kurtosis of 0). Distributions with kurtosis > 3 are termed leptokurtic, indicating heavy tails, while kurtosis < 3 are platykurtic, indicating light tails.
 
 ## Relevance in Financial Markets
 

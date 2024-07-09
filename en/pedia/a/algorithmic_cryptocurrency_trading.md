@@ -1,6 +1,6 @@
 # Algorithmic Cryptocurrency Trading
 
-Algorithmic cryptocurrency trading refers to the use of advanced mathematical models and software applications to facilitate the process of trading digital currencies, such as Bitcoin, Ethereum, and other altcoins. The primary objective is to execute trades with greater speed and frequency than would be possible for a human trader, thereby taking advantage of tiny market inefficiencies to generate profit. [Algorithmic trading](../a/algorithmic_trading.md) in the context of cryptocurrencies adopts various strategies and employs sophisticated algorithms to optimize [trading performance](../t/trading_performance.md).
+Algorithmic cryptocurrency trading refers to the use of advanced [mathematical models](../m/mathematical_models_in_trading.md) and software applications to facilitate the process of trading digital currencies, such as Bitcoin, Ethereum, and other altcoins. The primary objective is to execute trades with greater speed and frequency than would be possible for a human trader, thereby taking advantage of tiny market inefficiencies to generate profit. [Algorithmic trading](../a/algorithmic_trading.md) in the context of cryptocurrencies adopts various strategies and employs sophisticated algorithms to optimize [trading performance](../t/trading_performance.md).
 
 ## Key Concepts
 
@@ -21,7 +21,7 @@ High-Frequency Trading (HFT) involves executing a large number of orders at extr
 
 ### Software
 
-The software tools for algorithmic cryptocurrency trading can range from custom-built, proprietary software to open-source platforms. Key components include:
+The [software tools](../s/software_tools_for_trading.md) for algorithmic cryptocurrency trading can range from custom-built, proprietary software to open-source platforms. Key components include:
 
 - **[Trading Algorithms](../t/trading_algorithms.md)**: Developed usually in languages like Python, C++, or Rust.
 - **[Backtesting](../b/backtesting.md) Platforms**: Software that allows traders to test algorithms on historical data to verify their performance before deploying them in a live [trading environment](../t/trading_environment.md).
@@ -42,7 +42,7 @@ The efficiency of [algorithmic trading](../a/algorithmic_trading.md) is heavily 
 
 ### Cloud Computing
 
-Many [algorithmic trading](../a/algorithmic_trading.md) infrastructures now employ cloud computing solutions for scalability, speed, and cost efficiency. Services like AWS (Amazon Web Services) and Google Cloud Platform provide robust infrastructures that assure high availability and performance.
+Many [algorithmic trading](../a/algorithmic_trading.md) infrastructures now employ [cloud computing](../c/cloud_computing_in_trading.md) solutions for scalability, speed, and cost efficiency. Services like AWS (Amazon Web Services) and Google Cloud Platform provide robust infrastructures that assure high availability and performance.
 
 ## Exchanges
 
@@ -72,11 +72,11 @@ The regulatory environment for algorithmic cryptocurrency trading varies across 
 
 ## Quantitative Strategies
 
-[Trading strategies](../t/trading_strategies.md) in algorithmic cryptocurrency trading are usually data-driven. Some advanced quantitative strategies include:
+[Trading strategies](../t/trading_strategies.md) in algorithmic cryptocurrency trading are usually data-driven. Some advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) include:
 
 - **Statistical [Arbitrage](../a/arbitrage.md)**: This involves using statistical methods to identify and exploit market inefficiencies.
 - **Machine Learning (ML)**: Algorithms that use ML techniques to predict market prices and identify [trading signals](../t/trading_signals.md).
-- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Leveraging natural language processing (NLP) to gauge market sentiment from news articles, social media, and other sources.
+- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Leveraging [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to gauge market sentiment from news articles, social media, and other sources.
 
 ## Challenges and Opportunities
 

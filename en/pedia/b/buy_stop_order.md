@@ -40,7 +40,7 @@ While buy stop orders can be a useful tool, they also come with certain risks an
 
 ## Alternative Strategies
 
-While buy stop orders are effective for certain strategies, traders might also consider other order types or combinations to achieve similar goals:
+While buy stop orders are effective for certain strategies, traders might also consider other [order types](../o/order_types_in_trading.md) or combinations to achieve similar goals:
 
 - **Limit Orders**: Unlike a buy stop order, a limit order is set to buy a security at a specific price or lower. This provides more control over the entry price but might result in missed opportunities if the market moves quickly.
 - **[Stop-Limit Orders](../s/stop-limit_orders.md)**: This order combines the features of a stop order and a limit order. When the stop price is reached, the order becomes a limit order instead of a market order. This can help control the execution price but might not be filled if the market moves past the limit price.
@@ -50,9 +50,9 @@ While buy stop orders are effective for certain strategies, traders might also c
 
 Many online trading platforms and brokerage firms support buy stop orders, including well-known names in the financial industry:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com) offers a wide range of order types, including buy stop orders, to help traders execute various [trading strategies](../t/trading_strategies.md).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com) offers a wide range of [order types](../o/order_types_in_trading.md), including buy stop orders, to help traders execute various [trading strategies](../t/trading_strategies.md).
 - **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com) provides comprehensive tools and resources for traders to set up and manage buy stop orders.
-- **E*TRADE**: [E*TRADE](https://us.etrade.com) supports different order types to help traders automate their [trading strategies](../t/trading_strategies.md), including the use of buy stop orders.
+- **[E*TRADE](../e/e_trade.md)**: [E*TRADE](https://us.etrade.com) supports different [order types](../o/order_types_in_trading.md) to help traders automate their [trading strategies](../t/trading_strategies.md), including the use of buy stop orders.
 - **Fidelity**: [Fidelity](https://www.fidelity.com) offers buy stop order capabilities to its clients, allowing them to leverage this tool as part of their [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion

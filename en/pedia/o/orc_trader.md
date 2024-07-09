@@ -13,7 +13,7 @@ Orc Trader is a sophisticated trading platform developed by Itiviti (formerly kn
 7. **Customizable Interface**: Highly customizable user interface to meet specific trading requirements.
 8. **Integration**: Seamless integration with various exchanges, brokers, and data providers.
 9. **Multi-Asset Support**: Supports trading in equities, options, futures, forex, and fixed income.
-10. **Order Management**: Sophisticated order management system with multiple order types and execution strategies.
+10. **[Order Management](../o/order_management_in_trading.md)**: Sophisticated [order management](../o/order_management_in_trading.md) system with multiple [order types](../o/order_types_in_trading.md) and execution strategies.
 
 ## Key Components
 - **Trading Engine**: High-performance core engine designed for low-latency order execution and real-time data processing.

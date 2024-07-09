@@ -12,7 +12,7 @@ YTD returns provide investors with a way to gauge how well an investment or a po
 
 ### Example Calculation
 
-Suppose you own a mutual fund that was valued at $100 per share at the beginning of the year. If the current value of the mutual fund is $120 per share, the YTD return can be calculated as follows:
+Suppose you own a mutual fund that was valued at $100 per share at the beginning of the year. If the current value of the mutual fund is $120 per share, the [YTD return](../y/ytd_return_calculation.md) can be calculated as follows:
 
 \[ \text{YTD Returns} = \left( \frac{120 - 100}{100} \right) \times 100 = 20\% \]
 
@@ -52,7 +52,7 @@ For investments held over periods longer than a year, YTD returns do not provide
 
 Various companies and financial institutions utilize YTD returns in their performance reports and investment analysis tools. For example:
 
-- **Fidelity Investments**: Fidelity provides various investment tools and performance analysis, often highlighting YTD returns for mutual funds and other investment products. ([Fidelity Investments](https://www.fidelity.com))
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity provides various investment tools and performance analysis, often highlighting YTD returns for mutual funds and other investment products. ([Fidelity Investments](https://www.fidelity.com))
 - **Vanguard Group**: Vanguard's online platforms offer insights into YTD returns for its ETFs, mutual funds, and other financial instruments. ([Vanguard Group](https://www.vanguard.com))
 - **[Charles Schwab](../c/charles_schwab.md)**: Schwab's financial services include detailed performance reporting, where YTD returns are prominently featured for various asset classes. ([Charles Schwab](https://www.schwab.com))
 

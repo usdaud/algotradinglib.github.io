@@ -52,7 +52,7 @@ Trend-following algorithms identify and capitalize on momentum in JGB price move
 
 ##### 4. Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) strategies use [quantitative models](../q/quantitative_models.md) to identify and exploit statistical relationships between JGB prices and other financial variables. These strategies often involve complex mathematical models and require significant computational power to identify profitable opportunities.
+Statistical [arbitrage](../a/arbitrage.md) strategies use [quantitative models](../q/quantitative_models.md) to identify and exploit statistical relationships between JGB prices and other financial variables. These strategies often involve complex [mathematical models](../m/mathematical_models_in_trading.md) and require significant computational power to identify profitable opportunities.
 
 #### Key Players in the JGB Algo-Trading Market
 

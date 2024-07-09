@@ -16,7 +16,7 @@ Risk capital refers to the funds allocated for high-risk investments that could 
 
 #### 2. **Risk Assessment**
    - **Value at Risk (VaR)**: A statistical technique used to measure the potential loss in value of a portfolio over a defined period for a given confidence interval.
-   - **Stress Testing**: Simulating extreme market conditions to assess the impact on [trading strategies](../t/trading_strategies.md).
+   - **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating extreme market conditions to assess the impact on [trading strategies](../t/trading_strategies.md).
    - **Scenario Analysis**: Evaluating the effect of specific events on financial markets and trading positions.
 
 #### 3. **Risk Mitigation**
@@ -27,7 +27,7 @@ Risk capital refers to the funds allocated for high-risk investments that could 
 
 ### Algorithmic Trading-Specific Risk Management Techniques
 
-[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on advanced mathematical models and data analytics. Here are some specialized techniques used for managing risk in this domain:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on advanced [mathematical models](../m/mathematical_models_in_trading.md) and data analytics. Here are some specialized techniques used for managing risk in this domain:
 
 #### 1. **Backtesting**
    [Backtesting](../b/backtesting.md) involves testing an algorithm on historical data to evaluate its performance. This helps in identifying potential pitfalls and understanding the risk profile of the strategy.
@@ -39,7 +39,7 @@ Risk capital refers to the funds allocated for high-risk investments that could 
    These strategies involve simultaneously buying and selling complementary assets to exploit price differences, thus reducing net exposure and risk.
 
 #### 4. **Machine Learning Models**
-   Machine learning algorithms can be trained to predict market movements and optimize [trading strategies](../t/trading_strategies.md) by learning from historical data, improving [risk management](../r/risk_management.md) decisions.
+   Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be trained to predict market movements and optimize [trading strategies](../t/trading_strategies.md) by learning from historical data, improving [risk management](../r/risk_management.md) decisions.
 
 ### Case Studies and Practical Implementations
 

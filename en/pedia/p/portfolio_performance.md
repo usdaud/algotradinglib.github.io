@@ -1,6 +1,6 @@
 # Portfolio Performance
 
-Portfolio performance is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), which involves the use of computer algorithms to automatically make trading decisions and execute trades. [Algorithmic trading](../a/algorithmic_trading.md) leverages statistical and mathematical models to manage and optimize portfolios, aiming to maximize returns while controlling for risk. This document delves into the intricacies of assessing portfolio performance, highlighting key metrics, methodologies, and strategies employed by traders and quantitative analysts.
+Portfolio performance is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), which involves the use of computer algorithms to automatically make trading decisions and execute trades. [Algorithmic trading](../a/algorithmic_trading.md) leverages statistical and [mathematical models](../m/mathematical_models_in_trading.md) to manage and optimize portfolios, aiming to maximize returns while controlling for risk. This document delves into the intricacies of assessing portfolio performance, highlighting key metrics, methodologies, and strategies employed by traders and quantitative analysts.
 
 ### Key Metrics for Portfolio Performance
 
@@ -56,7 +56,7 @@ Maximum Drawdown measures the largest peak-to-trough decline in the portfolio va
 Walk-forward testing is an extension of [backtesting](../b/backtesting.md) where a model is trained on a rolling window of historical data and then tested on subsequent data. This approach helps in understanding the robustness and adaptability of the strategy in changing market conditions.
 
 #### 3. **Monte Carlo Simulations**
-Monte Carlo simulations use random sampling and statistical modeling to assess the impact of risk and uncertainty on portfolio performance. This technique generates a range of possible outcomes, providing insights into the potential variability of returns.
+Monte Carlo simulations use random sampling and statistical modeling to assess the impact of risk and [uncertainty](../u/uncertainty_in_trading.md) on portfolio performance. This technique generates a range of possible outcomes, providing insights into the potential variability of returns.
 
 ### Strategies for Optimizing Portfolio Performance
 
@@ -87,7 +87,7 @@ Python, with its extensive libraries such as Pandas, NumPy, and scikit-learn, is
 R, known for its statistical computing capabilities, offers packages like quantmod, PerformanceAnalytics, and TTR, which are specifically geared toward financial market analysis and trading strategy development.
 
 #### 3. **Trading Platforms and APIs**
-Automated trading platforms and APIs, such as Interactive Brokers, MetaTrader, and [QuantConnect](../q/quantconnect.md), offer robust environments for developing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. They provide access to real-time and historical market data, execution services, and [performance analytics](../p/performance_analytics.md) tools.
+Automated trading platforms and APIs, such as [Interactive Brokers](../i/interactive_brokers.md), MetaTrader, and [QuantConnect](../q/quantconnect.md), offer robust environments for developing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. They provide access to real-time and historical market data, execution services, and [performance analytics](../p/performance_analytics.md) tools.
 
 - [QuantConnect](https://www.quantconnect.com/)
 - [Interactive Brokers](https://www.interactivebrokers.com/)
@@ -101,12 +101,12 @@ Bridgewater Associates, founded by Ray Dalio, is a global leader in hedge fund m
 - [Bridgewater Associates](https://www.bridgewater.com/)
 
 #### 2. **Two Sigma Investments**
-Two Sigma Investments utilizes machine learning, distributed computing, and sophisticated quantitative strategies to manage assets. The firm's emphasis on data-driven insights and [algorithmic trading](../a/algorithmic_trading.md) has enabled it to deliver strong portfolio performance.
+Two Sigma Investments utilizes machine learning, distributed computing, and sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md) to manage assets. The firm's emphasis on data-driven insights and [algorithmic trading](../a/algorithmic_trading.md) has enabled it to deliver strong portfolio performance.
 
 - [Two Sigma Investments](https://www.twosigma.com/)
 
 #### 3. **Renaissance Technologies**
-Renaissance Technologies, founded by Jim Simons, is renowned for its [quantitative trading](../q/quantitative_trading.md) approach. The firm's Medallion Fund, which uses complex mathematical models and algorithms, has achieved unparalleled success in generating high returns.
+Renaissance Technologies, founded by Jim Simons, is renowned for its [quantitative trading](../q/quantitative_trading.md) approach. The firm's Medallion Fund, which uses complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, has achieved unparalleled success in generating high returns.
 
 - [Renaissance Technologies](https://www.rentec.com/)
 

@@ -52,7 +52,7 @@ Mortgage rates in the United States are heavily influenced by the 10-year yield.
 Some algotrading strategies are built around the concept of [mean reversion](../m/mean_reversion.md), where a financial metric is expected to return to its historical average over time. Traders may employ such strategies on the 10-year yield, assuming that significant deviations will eventually correct.
 
 ### Machine Learning
-Advanced machine learning algorithms can be trained to recognize patterns and predict movements in the 10-year yield based on historical data and macroeconomic variables. These algotrading models are more adaptive and can handle complex, non-linear relationships.
+Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be trained to recognize patterns and predict movements in the 10-year yield based on historical data and macroeconomic variables. These algotrading models are more adaptive and can handle complex, non-linear relationships.
 
 ## Notable Resources
 
@@ -62,4 +62,4 @@ Advanced machine learning algorithms can be trained to recognize patterns and pr
 - [Investopedia](https://www.investopedia.com/terms/1/10-yeartreasury.asp)
 
 ## Conclusion
-The 10-year yield is a potent financial metric with wide-ranging implications for economic policy, market conditions, and investment strategies. For those engaged in [algorithmic trading](../a/algorithmic_trading.md), understanding and accurately predicting the movements of the 10-year yield can provide a significant edge. Whether you're employing simple [quantitative models](../q/quantitative_models.md) or advanced machine learning algorithms, the 10-year yield is an indispensable component of sophisticated [trading strategies](../t/trading_strategies.md).
+The 10-year yield is a potent financial metric with wide-ranging implications for economic policy, market conditions, and investment strategies. For those engaged in [algorithmic trading](../a/algorithmic_trading.md), understanding and accurately predicting the movements of the 10-year yield can provide a significant edge. Whether you're employing simple [quantitative models](../q/quantitative_models.md) or advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md), the 10-year yield is an indispensable component of sophisticated [trading strategies](../t/trading_strategies.md).

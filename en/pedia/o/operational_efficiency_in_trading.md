@@ -13,7 +13,7 @@ Operational efficiency in trading refers to the capability of a trading operatio
     - **Example**: [Solarflare](https://www.xilinx.com/products/boards-and-kits/alveo.html), known for network adapters that provide ultra-low latency and high-speed Ethernet, enhances trading speed and reliability.
 
 3. **Data Management**
-    - Efficient data management systems ensure quick access to relevant trading data. Big data analytics and machine learning models play pivotal roles in analyzing market trends and making informed decisions.
+    - Efficient data management systems ensure quick access to relevant trading data. [Big data analytics](../b/big_data_analytics_in_trading.md) and machine learning models play pivotal roles in analyzing market trends and making informed decisions.
     - **Example**: [CloudQuant](https://cloudquant.com/) offers data management and research platforms aimed at quant traders, ensuring high efficiency in trading operations.
 
 4. **[Risk Management](../r/risk_management.md)**
@@ -57,8 +57,8 @@ Operational efficiency in trading refers to the capability of a trading operatio
 ### Future Trends in Operational Efficiency in Trading
 
 - **AI and Machine Learning**: Increasing reliance on AI and machine learning for [predictive analytics](../p/predictive_analytics.md) and trade decision-making, leading to higher efficiency.
-- **Blockchain Technology**: Utilization of blockchain for transparent and secure trading operations.
-- **Quantum Computing**: Future adoption of quantum computing may revolutionize data processing speeds, further enhancing efficiency.
+- **[Blockchain](../b/blockchain_in_trading.md) Technology**: Utilization of [blockchain](../b/blockchain_in_trading.md) for transparent and secure trading operations.
+- **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Future adoption of [quantum computing](../q/quantum_computing_in_trading.md) may revolutionize data processing speeds, further enhancing efficiency.
 - **More Automated Tools**: Greater deployment of robots and AI for not just trading but also compliance and [risk management](../r/risk_management.md).
 
-Operational efficiency in trading is a multifaceted concept that extends beyond simply making trades. It’s about optimizing every aspect of the trading operation from data management and latency reduction to [risk management](../r/risk_management.md) and compliance. Continuous advancements in technology, such as AI, machine learning, and blockchain, indicate a promising future where trading operations can achieve even greater heights of efficiency and profitability.
+Operational efficiency in trading is a multifaceted concept that extends beyond simply making trades. It’s about optimizing every aspect of the trading operation from data management and latency reduction to [risk management](../r/risk_management.md) and compliance. Continuous advancements in technology, such as AI, machine learning, and [blockchain](../b/blockchain_in_trading.md), indicate a promising future where trading operations can achieve even greater heights of efficiency and profitability.

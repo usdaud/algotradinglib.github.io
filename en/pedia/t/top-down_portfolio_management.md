@@ -5,14 +5,14 @@ Top-down [portfolio management](../p/portfolio_management.md) is an investment s
 
 ### Macro-Economic Analysis
 
-Macro-economic analysis is the cornerstone of the top-down approach. Investors look at global [economic indicators](../e/economic_indicators.md) such as:
+Macro-economic analysis is the cornerstone of the [top-down approach](../t/top-down_approach_in_trading.md). Investors look at global [economic indicators](../e/economic_indicators.md) such as:
 
-1. **GDP Growth Rates**: GDP growth rates provide a snapshot of the economic health of a country. High growth rates often signal expanding economies, which can be a positive sign for stock markets.
+1. **GDP [Growth Rates](../g/growth_rates_in_trading.md)**: GDP [growth rates](../g/growth_rates_in_trading.md) provide a snapshot of the economic health of a country. High [growth rates](../g/growth_rates_in_trading.md) often signal expanding economies, which can be a positive sign for stock markets.
 2. **Interest Rates**: Central banks' interest rates affect borrowing costs, consumer spending, and corporate investment. Lower interest rates generally stimulate economic growth, encouraging equity investments, while higher rates may dampen economic activity.
 3. **Inflation Rates**: Inflation can erode purchasing power, but moderate inflation is often associated with economic growth. High inflation rates, however, may hurt corporate profitability and stock performance.
 4. **Employment Data**: Employment statistics, such as non-farm payrolls and unemployment rates, provide insights into economic stability and consumer spending capabilities.
 5. **Trade Balances**: A country's trade balance (exports vs. imports) can affect its currency value and, consequently, the stock market. Positive trade balances are typically seen as favorable.
-6. **Political Stability**: Political events, elections, and government policies can significantly influence market performance. Investors analyze these factors to gauge market risks and opportunities.
+6. **Political Stability**: Political events, elections, and [government policies](../g/government_policies_in_trading.md) can significantly influence market performance. Investors analyze these factors to gauge market risks and opportunities.
 
 ### Sector and Industry Analysis
 
@@ -60,7 +60,7 @@ Evaluating [portfolio performance](../p/portfolio_performance.md) is an ongoing 
 
 ### Tools and Resources
 
-Investors utilize various tools and platforms for implementing a top-down approach:
+Investors utilize various tools and platforms for implementing a [top-down approach](../t/top-down_approach_in_trading.md):
 
 1. **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive financial platform providing real-time data, news, and analysis. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 2. **[Reuters](../r/reuters.md) Eikon**: Another robust financial analysis tool offering insights and analytics. [Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)

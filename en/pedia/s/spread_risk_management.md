@@ -34,7 +34,7 @@ Establishing risk limits and controls is essential for managing spread risk. Tra
 
 ### 5. Statistical Models and Machine Learning
 
-Traders leverage statistical models and machine learning algorithms to predict and manage spread risk. By analyzing historical data and market conditions, these models can forecast spread movements and adjust [trading strategies](../t/trading_strategies.md) accordingly. Machine learning techniques, such as [regression analysis](../r/regression_analysis.md) and neural networks, are particularly effective in identifying patterns and anomalies in spread behavior.
+Traders leverage statistical models and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict and manage spread risk. By analyzing historical data and market conditions, these models can forecast spread movements and adjust [trading strategies](../t/trading_strategies.md) accordingly. Machine learning techniques, such as [regression analysis](../r/regression_analysis.md) and [neural networks](../n/neural_networks_in_trading.md), are particularly effective in identifying patterns and anomalies in spread behavior.
 
 ## Importance of Spread Risk Management
 
@@ -72,7 +72,7 @@ Market makers provide liquidity to the market by continuously quoting buy and se
 
 ### Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) strategies rely on the statistical relationships between different assets to generate profits. Spread [risk management](../r/risk_management.md) plays a key role in these strategies by ensuring that transaction costs do not outweigh the expected returns. Statistical models and machine learning algorithms are often used to predict spread movements and optimize execution.
+Statistical [arbitrage](../a/arbitrage.md) strategies rely on the statistical relationships between different assets to generate profits. Spread [risk management](../r/risk_management.md) plays a key role in these strategies by ensuring that transaction costs do not outweigh the expected returns. Statistical models and machine [learning algorithms](../l/learning_algorithms_in_trading.md) are often used to predict spread movements and optimize execution.
 
 ## Case Study: Citadel Securities
 

@@ -1,10 +1,10 @@
 # Law of Large Numbers
 
-The Law of Large Numbers (LLN) is a fundamental principle in probability theory and statistics, which states that as the size of a sample increases, the sample mean will get closer to the expected value. In the context of trading, particularly [algorithmic trading](../a/algorithmic_trading.md), the LLN has significant implications for strategy development, [risk management](../r/risk_management.md), and the evaluation of [trading performance](../t/trading_performance.md). This article provides a detailed exposition of the LLN and its application in trading.
+The Law of Large Numbers (LLN) is a fundamental principle in [probability theory](../p/probability_theory_in_trading.md) and statistics, which states that as the size of a sample increases, the sample mean will get closer to the expected value. In the context of trading, particularly [algorithmic trading](../a/algorithmic_trading.md), the LLN has significant implications for strategy development, [risk management](../r/risk_management.md), and the evaluation of [trading performance](../t/trading_performance.md). This article provides a detailed exposition of the LLN and its application in trading.
 
 ## Introduction to Law of Large Numbers (LLN)
 
-The Law of Large Numbers is one of the cornerstones of probability theory. There are two main forms of LLN: the Weak Law of Large Numbers (WLLN) and the Strong Law of Large Numbers (SLLN). Both laws deal with the convergence of sample averages to the expected value as the sample size grows, but they differ in the type and strength of convergence.
+The Law of Large Numbers is one of the cornerstones of [probability theory](../p/probability_theory_in_trading.md). There are two main forms of LLN: the Weak Law of Large Numbers (WLLN) and the Strong Law of Large Numbers (SLLN). Both laws deal with the convergence of sample averages to the expected value as the sample size grows, but they differ in the type and strength of convergence.
 
 ### Weak Law of Large Numbers (WLLN)
 

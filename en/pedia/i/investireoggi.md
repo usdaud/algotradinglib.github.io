@@ -6,15 +6,15 @@ Investireoggi is a well-known Italian financial information and services platfor
 ## Key Features
 1. **Market News**: Investireoggi provides up-to-date news on financial markets, including stocks, bonds, commodities, and cryptocurrencies. The platform covers both Italian and international market developments.
 
-2. **Investment Analysis**: The platform features in-depth analysis of various financial instruments and markets. This includes technical analysis, fundamental analysis, and market commentary from financial experts.
+2. **Investment Analysis**: The platform features in-depth analysis of various financial instruments and markets. This includes [technical analysis](../t/technical_analysis.md), [fundamental analysis](../f/fundamental_analysis.md), and market commentary from financial experts.
 
-3. **Financial Guides**: Investireoggi offers a variety of guides and tutorials on investing, trading, personal finance, and tax planning. These resources are designed to help users improve their financial literacy and investment skills.
+3. **Financial Guides**: Investireoggi offers a variety of guides and tutorials on investing, trading, [personal finance](../p/personal_finance_in_trading.md), and tax planning. These resources are designed to help users improve their financial literacy and investment skills.
 
 4. **Community Forums**: Investireoggi hosts active forums where members can discuss market trends, investment strategies, and financial news. The forums provide a space for investors to share insights and exchange ideas.
 
 5. **Real Estate**: The platform includes a section dedicated to real estate investment, offering news, analysis, and advice on the Italian property market.
 
-6. **Personal Finance**: Investireoggi covers a wide range of personal finance topics, including savings, loans, mortgages, and insurance, providing practical advice for managing personal finances.
+6. **[Personal Finance](../p/personal_finance_in_trading.md)**: Investireoggi covers a wide range of [personal finance](../p/personal_finance_in_trading.md) topics, including savings, loans, mortgages, and insurance, providing practical advice for managing personal finances.
 
 7. **Economic News**: The platform provides news and analysis on economic trends, policies, and indicators, helping users stay informed about the broader economic environment.
 
@@ -25,12 +25,12 @@ Investireoggi is a well-known Italian financial information and services platfor
 - **Expert Analysis**: The platform features analysis and commentary from financial experts, providing valuable insights for making informed investment decisions.
 - **Educational Resources**: Extensive guides and tutorials help users improve their financial knowledge and investment skills.
 - **Community Engagement**: The active forums allow members to engage with other investors, share experiences, and exchange ideas.
-- **Practical Advice**: Investireoggi offers practical advice on personal finance, tax planning, and real estate investment, helping users manage their finances effectively.
+- **Practical Advice**: Investireoggi offers practical advice on [personal finance](../p/personal_finance_in_trading.md), tax planning, and real estate investment, helping users manage their finances effectively.
 
 ## Use Cases
 - **Retail Investors**: Individual investors use Investireoggi’s news, analysis, and guides to make informed investment decisions.
-- **Traders**: Active traders leverage the platform’s market analysis and commentary to develop and refine their trading strategies.
-- **Personal Finance Management**: Users utilize the platform’s resources to manage their personal finances, including savings, loans, and mortgages.
+- **Traders**: Active traders leverage the platform’s market analysis and commentary to develop and refine their [trading strategies](../t/trading_strategies.md).
+- **[Personal Finance](../p/personal_finance_in_trading.md) Management**: Users utilize the platform’s resources to manage their personal finances, including savings, loans, and mortgages.
 - **Real Estate Investors**: Individuals interested in the Italian property market use Investireoggi’s real estate section for news, analysis, and investment advice.
 - **Cryptocurrency Enthusiasts**: Investors and traders interested in cryptocurrencies use the platform for news, analysis, and market trends in the crypto space.
 

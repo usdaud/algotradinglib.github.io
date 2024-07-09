@@ -10,7 +10,7 @@ Univariate statistical models deal with the analysis of a single variable. The p
 
 1. **Descriptive Statistics**: These include mean, median, mode, variance, standard deviation, skewness, and kurtosis. Descriptive statistics summarize the key characteristics of the dataset.
 
-2. **Probability Distributions**: Common distributions used in [univariate analysis](../u/univariate_analysis.md) include the normal distribution, binomial distribution, Poisson distribution, and exponential distribution. Understanding the distribution helps in modeling and predicting future values.
+2. **[Probability Distributions](../p/probability_distributions_in_trading.md)**: Common distributions used in [univariate analysis](../u/univariate_analysis.md) include the [normal distribution](../n/normal_distribution_in_trading.md), binomial distribution, [Poisson distribution](../p/poisson_distribution_in_trading.md), and exponential distribution. Understanding the distribution helps in modeling and predicting future values.
 
 3. **Stationarity**: A time series is considered stationary if its statistical properties do not change over time. Stationarity is a critical assumption for many [univariate time series](../u/univariate_time_series.md) models.
 
@@ -45,7 +45,7 @@ Univariate statistical models deal with the analysis of a single variable. The p
 5. **State Space Models**
    - Represents time series data using state variables that evolve over time according to a set of equations, often including noise components. These models are flexible and can encompass a wide range of time series structures.
    
-   **Applications**: Macroeconomic data, signal processing.
+   **Applications**: Macroeconomic data, [signal processing](../s/signal_processing_in_trading.md).
    
 ### Model Evaluation and Selection
 
@@ -79,7 +79,7 @@ Univariate statistical models deal with the analysis of a single variable. The p
 
 #### Step 4: Model Validation
    - Evaluate the model using metrics like RMSE (Root [Mean Squared Error](../m/mean_squared_error.md)) and MAE (Mean Absolute Error).
-   - Conduct residual analysis to ensure no patterns exist in the residuals.
+   - Conduct [residual analysis](../r/residual_analysis_in_trading.md) to ensure no patterns exist in the residuals.
 
 #### Step 5: Forecasting and Strategy Execution
    - Generate price forecasts using the fitted ARIMA model.
@@ -92,7 +92,7 @@ Univariate statistical models deal with the analysis of a single variable. The p
    - Involves executing trades in milliseconds. Statistical models tailored for ultra-high-frequency data can identify fleeting opportunities.
 
 - **Machine Learning Integration**
-   - Combining traditional statistical models with machine learning techniques can enhance predictive performance. For example, hybrid models that integrate ARIMA with neural networks.
+   - Combining traditional statistical models with machine learning techniques can enhance predictive performance. For example, hybrid models that integrate ARIMA with [neural networks](../n/neural_networks_in_trading.md).
 
 ### Conclusion
 

@@ -1,6 +1,6 @@
 # Holding Company Strategies
 
-A holding company is a type of firm that exists primarily to own shares in other companies. Holding companies are significant players in the world of corporate finance and have been used strategically for various purposes including [risk management](../r/risk_management.md), tax minimization, and operational efficiency. This detailed exposition explores the strategic applications of holding companies in different contexts.
+A holding company is a type of firm that exists primarily to own shares in other companies. Holding companies are significant players in the world of corporate finance and have been used strategically for various purposes including [risk management](../r/risk_management.md), tax minimization, and [operational efficiency](../o/operational_efficiency_in_trading.md). This detailed exposition explores the strategic applications of holding companies in different contexts.
 
 ### 1. Definition and Structure of Holding Companies
 
@@ -23,7 +23,7 @@ Holding companies often have efficient [capital allocation](../c/capital_allocat
 
 ### 5. Operational Synergies
 
-While holding companies themselves do not typically engage in operational business activities, they can create synergies among their subsidiaries. This could include consolidated purchasing, shared technology, marketing expertise, or centralized administrative services which can reduce costs and improve operational efficiency.
+While holding companies themselves do not typically engage in operational business activities, they can create synergies among their subsidiaries. This could include consolidated purchasing, shared technology, marketing expertise, or centralized administrative services which can reduce costs and improve [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ### 6. Diversification
 

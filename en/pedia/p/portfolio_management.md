@@ -1,6 +1,6 @@
 # Portfolio Management
 
-Portfolio management is a crucial function in finance and investment, involving the strategic allocation and management of assets to achieve specific financial goals. [Algorithmic trading](../a/algorithmic_trading.md) has revolutionized portfolio management, leveraging advanced mathematical models and technological innovations to optimize performance, reduce risk, and improve decision-making efficiency. This detailed exploration will encompass various aspects of portfolio management within the realm of [algorithmic trading](../a/algorithmic_trading.md).
+Portfolio management is a crucial function in finance and investment, involving the strategic allocation and management of assets to achieve specific financial goals. [Algorithmic trading](../a/algorithmic_trading.md) has revolutionized portfolio management, leveraging advanced [mathematical models](../m/mathematical_models_in_trading.md) and technological innovations to optimize performance, reduce risk, and improve decision-making efficiency. This detailed exploration will encompass various aspects of portfolio management within the realm of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## 1. Introduction to Portfolio Management
 
@@ -36,7 +36,7 @@ Algorithmic diversification helps reduce unsystematic risk by spreading investme
 
 ### Mean-Variance Optimization
 
-[Mean-variance optimization](../m/mean-variance_optimization.md) uses mathematical models to select the optimal portfolio asset mix by maximizing expected returns for a given risk level. Algorithms quickly compute various portfolio combinations to identify the most efficient mix.
+[Mean-variance optimization](../m/mean-variance_optimization.md) uses [mathematical models](../m/mathematical_models_in_trading.md) to select the optimal portfolio asset mix by maximizing expected returns for a given risk level. Algorithms quickly compute various portfolio combinations to identify the most efficient mix.
 
 ### Risk Parity
 
@@ -74,7 +74,7 @@ CVaR, or Expected Shortfall, provides a more comprehensive risk assessment by co
 
 ### Stress Testing
 
-Stress testing involves simulating adverse market conditions to evaluate the portfolio's resilience. Algorithms conduct stress tests to identify vulnerabilities and adjust the portfolio accordingly.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating adverse market conditions to evaluate the portfolio's resilience. Algorithms conduct stress tests to identify vulnerabilities and adjust the portfolio accordingly.
 
 ## 8. Automated Portfolio Rebalancing
 
@@ -94,15 +94,15 @@ Smart [Order Routing](../o/order_routing.md) algorithms optimize trade execution
 
 ### Machine Learning and AI
 
-Machine learning and artificial intelligence (AI) enhance portfolio management by identifying complex patterns and making smarter, data-driven decisions. Algorithms continuously learn and adapt to market changes, improving performance over time.
+Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) enhance portfolio management by identifying complex patterns and making smarter, data-driven decisions. Algorithms continuously learn and adapt to market changes, improving performance over time.
 
 ### Big Data Analytics
 
-Big data analytics processes vast amounts of financial data from various sources, providing valuable insights for portfolio management. Algorithms aggregate and analyze data to make informed investment decisions.
+[Big data analytics](../b/big_data_analytics_in_trading.md) processes vast amounts of financial data from various sources, providing valuable insights for portfolio management. Algorithms aggregate and analyze data to make informed investment decisions.
 
 ### Blockchain and Cryptocurrencies
 
-The rise of blockchain technology and cryptocurrencies introduces new asset classes and investment opportunities. Algorithms help manage diversified portfolios incorporating both traditional and digital assets.
+The rise of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies introduces new asset classes and investment opportunities. Algorithms help manage diversified portfolios incorporating both traditional and digital assets.
 
 ## 11. Regulatory and Ethical Considerations
 
@@ -124,7 +124,7 @@ Renaissance Technologies, founded by Jim Simons, is renowned for its pioneering 
 
 ### Two Sigma
 
-Two Sigma employs advanced data science and technology to develop cutting-edge [trading strategies](../t/trading_strategies.md). Their approach combines machine learning, AI, and big data to optimize portfolio management. For more details, visit [Two Sigma](https://www.twosigma.com/).
+Two Sigma employs advanced [data science](../d/data_science_in_trading.md) and technology to develop cutting-edge [trading strategies](../t/trading_strategies.md). Their approach combines machine learning, AI, and [big data](../b/big_data_in_trading.md) to optimize portfolio management. For more details, visit [Two Sigma](https://www.twosigma.com/).
 
 ### Bridgewater Associates
 

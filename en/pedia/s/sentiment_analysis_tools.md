@@ -24,7 +24,7 @@ VADER is a lexicon and rule-based [sentiment analysis](../s/sentiment_analysis.m
 
 ## 3. TextBlob
 
-TextBlob is an open-source library for processing textual data. It provides a simple API for diving into many common natural language processing (NLP) tasks, including [sentiment analysis](../s/sentiment_analysis.md). TextBlob's sentiment analyzer returns a polarity (ranging from -1 to 1) and subjectivity (ranging from 0 to 1) score for each text.
+TextBlob is an open-source library for processing textual data. It provides a simple API for diving into many common [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) tasks, including [sentiment analysis](../s/sentiment_analysis.md). TextBlob's sentiment analyzer returns a polarity (ranging from -1 to 1) and subjectivity (ranging from 0 to 1) score for each text.
 
 - **Website:** [TextBlob](https://textblob.readthedocs.io/en/dev/)
 - **Key Features:**

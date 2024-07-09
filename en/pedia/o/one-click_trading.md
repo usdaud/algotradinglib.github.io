@@ -30,7 +30,7 @@ MetaTrader 4 is one of the most widely used trading platforms globally. It offer
 
 ### MetaTrader 5 (MT5)
 
-An advanced version of MT4, MetaTrader 5, also offers one-click trading. It includes additional features such as a more sophisticated order management system and more [market depth analysis](../m/market_depth_analysis.md) tools. Visit their official site for more details: [MetaTrader 5](https://www.metatrader5.com).
+An advanced version of MT4, MetaTrader 5, also offers one-click trading. It includes additional features such as a more sophisticated [order management](../o/order_management_in_trading.md) system and more [market depth analysis](../m/market_depth_analysis.md) tools. Visit their official site for more details: [MetaTrader 5](https://www.metatrader5.com).
 
 ### NinjaTrader
 
@@ -42,7 +42,7 @@ An advanced version of MT4, MetaTrader 5, also offers one-click trading. It incl
 
 ### Interactive Brokers
 
-Interactive Brokers offers a Trader Workstation (TWS) platform that includes one-click trading options. This platform is well-regarded for its extensive range of trading tools and low-cost high-speed execution. Visit their site for further information: [Interactive Brokers](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) offers a Trader Workstation (TWS) platform that includes one-click trading options. This platform is well-regarded for its extensive range of trading tools and low-cost high-speed execution. Visit their site for further information: [Interactive Brokers](https://www.interactivebrokers.com).
 
 ## Risks and Considerations
 

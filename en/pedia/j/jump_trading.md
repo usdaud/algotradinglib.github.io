@@ -28,7 +28,7 @@ Data is the lifeblood of Jump Trading’s operations. The firm collects and anal
   
 - **[Alternative Data](../a/alternative_data.md):** In addition to traditional market data, Jump Trading also uses [alternative data](../a/alternative_data.md) sources. This can include news [sentiment analysis](../s/sentiment_analysis.md), social media trends, and other non-traditional data points that may influence market movements.
   
-- **Machine Learning and AI:** Jump Trading employs machine learning and artificial intelligence to analyze data and improve [trading algorithms](../t/trading_algorithms.md). These technologies enable the firm to find patterns in data that are not immediately obvious to human traders.
+- **Machine Learning and AI:** Jump Trading employs machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze data and improve [trading algorithms](../t/trading_algorithms.md). These technologies enable the firm to find patterns in data that are not immediately obvious to human traders.
 
 ### Risk Management
 
@@ -36,7 +36,7 @@ Effective [risk management](../r/risk_management.md) is critical for Jump Tradin
 
 - **Real-Time Monitoring:** Jump Trading uses real-time monitoring systems to track its trading activities and exposure. This allows the firm to quickly identify and address any potential issues.
   
-- **Stress Testing:** The firm conducts regular stress tests to evaluate its exposure to extreme market conditions. These tests help ensure that Jump Trading can withstand adverse market events.
+- **[Stress Testing](../s/stress_testing_in_trading.md):** The firm conducts regular stress tests to evaluate its exposure to extreme market conditions. These tests help ensure that Jump Trading can withstand adverse market events.
   
 - **Diversification:** Jump Trading diversifies its trading activities across different asset classes, geographies, and strategies. This diversification helps reduce the firm’s overall risk exposure.
 
@@ -60,7 +60,7 @@ Ethics and integrity are core values at Jump Trading. The firm is committed to c
 
 Jump Trading continues to be one of the pioneers in the field of algorithmic and high-frequency trading. Looking ahead, the firm aims to stay at the forefront of technological advancements and maintain its competitive edge in the financial markets.
 
-- **Technological Advancements:** Jump Trading is committed to continuing its investment in technology. This includes exploring new developments in areas like quantum computing and blockchain technology.
+- **Technological Advancements:** Jump Trading is committed to continuing its investment in technology. This includes exploring new developments in areas like [quantum computing](../q/quantum_computing_in_trading.md) and [blockchain](../b/blockchain_in_trading.md) technology.
 
 - **Global Expansion:** The firm plans to expand its operations into new markets and regions. This global expansion strategy aims to increase its market presence and take advantage of trading opportunities worldwide.
   

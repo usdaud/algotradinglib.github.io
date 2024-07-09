@@ -55,7 +55,7 @@ where \(\alpha\) is the confidence level.
 
 #### 2. Quantitative Strategies
 
-Quantitative strategies often rely on statistical measures to optimize trade execution. The CDF can help in defining [stop-loss orders](../s/stop-loss_orders.md) or take-profit levels based on the historical distribution of asset prices. For example, if the CDF of an asset's return suggests a 95% probability that returns will not exceed a certain level, a trader might set a take-profit order around that level.
+[Quantitative strategies](../q/quantitative_strategies_in_trading.md) often rely on statistical measures to optimize trade execution. The CDF can help in defining [stop-loss orders](../s/stop-loss_orders.md) or take-profit levels based on the historical distribution of asset prices. For example, if the CDF of an asset's return suggests a 95% probability that returns will not exceed a certain level, a trader might set a take-profit order around that level.
 
 #### 3. Algorithmic Trading
 

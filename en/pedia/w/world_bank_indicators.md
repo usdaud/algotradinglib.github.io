@@ -94,7 +94,7 @@ Several financial institutions and trading firms utilize World Bank Indicators i
 
 ### AQR Capital Management
 
-**AQR Capital Management** uses a data-driven approach in its [trading strategies](../t/trading_strategies.md). By analyzing [economic indicators](../e/economic_indicators.md), AQR can develop predictive models to enhance their [trading algorithms](../t/trading_algorithms.md).
+**AQR Capital Management** uses a data-driven approach in its [trading strategies](../t/trading_strategies.md). By analyzing [economic indicators](../e/economic_indicators.md), AQR can develop [predictive models](../p/predictive_models_in_trading.md) to enhance their [trading algorithms](../t/trading_algorithms.md).
 [AQR Capital Management](https://www.aqr.com/)
 
 ## Challenges and Limitations

@@ -138,14 +138,14 @@ The output will include a new column `8_Period_EMA`, representing the calculated
 
 ### Strengths
 
-1. **Responsiveness**: The 8-period EMA provides a quick response to recent price movements, making it useful for short-term traders.
+1. **Responsiveness**: The 8-period EMA provides a [quick response](../q/quick_response_in_trading.md) to recent price movements, making it useful for short-term traders.
 2. **Simplicity**: It is easy to understand and implement in various trading platforms.
 3. **Trend Detection**: Useful in identifying the prevailing trend and potential reversals.
 4. **Combining with Other Indicators**: It works well when combined with other [technical indicators](../t/technical_indicators.md) for a more comprehensive analysis.
 
 ### Limitations
 
-1. **False Signals**: The sensitivity of the 8-period EMA can sometimes generate false signals, especially in choppy markets.
+1. **[False Signals](../f/false_signals_in_trading.md)**: The sensitivity of the 8-period EMA can sometimes generate [false signals](../f/false_signals_in_trading.md), especially in choppy markets.
 2. **Lag**: Despite being more sensitive than the SMA, the EMA still lags behind the actual price and may sometimes delay entry or exit signals.
 3. **Market Conditions**: The effectiveness of the 8-period EMA may vary based on market conditions and the specific asset being traded.
 

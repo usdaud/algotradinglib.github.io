@@ -1,6 +1,6 @@
 # X-Lagged Models
 
-In the realm of [algorithmic trading](../a/algorithmic_trading.md), the prediction and modeling of [financial time series](../f/financial_time_series.md) data are crucial. X-Lagged Models are a sophisticated approach to predicting such data. These models utilize lagged variables, meaning past data points are used to forecast future values. In this document, we will delve into the intricacies of X-Lagged Models, their implementation, advantages, and potential limitations.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), the prediction and modeling of [financial time series](../f/financial_time_series.md) data are crucial. X-Lagged Models are a sophisticated approach to predicting such data. These models utilize [lagged variables](../l/lagged_variables_in_trading.md), meaning past data points are used to forecast future values. In this document, we will delve into the intricacies of X-Lagged Models, their implementation, advantages, and potential limitations.
 
 ## Understanding X-Lagged Models
 
@@ -45,7 +45,7 @@ In X-Lagged Models, these elements can be extended to incorporate additional pre
 
 ### Software and Libraries
 
-Several software platforms and libraries facilitate the implementation of X-Lagged Models, including:
+Several [software platforms](../s/software_platforms_for_trading.md) and libraries facilitate the implementation of X-Lagged Models, including:
 
 - **Python Libraries:** Statsmodels, scikit-learn, tensorflow
 - **R Packages:** forecast, vars, car
@@ -56,8 +56,8 @@ Several software platforms and libraries facilitate the implementation of X-Lagg
 Let's consider a practical scenario where we use X-Lagged Models to predict the price of a stock. Suppose we have a dataset consisting of daily stock prices for the past three years. We will:
 
 1. **Prepare the Data:** Clean the data, handle missing values, and scale it appropriately.
-2. **Feature Engineering:** Create lagged variables for the past `n` days.
-3. **Model Training:** Use a suitable algorithm (e.g., OLS regression, neural networks) to train the model on the lagged features.
+2. **Feature Engineering:** Create [lagged variables](../l/lagged_variables_in_trading.md) for the past `n` days.
+3. **Model Training:** Use a suitable algorithm (e.g., OLS regression, [neural networks](../n/neural_networks_in_trading.md)) to train the model on the lagged features.
 4. **Validation:** Split the data into training and testing sets to validate the model's accuracy.
 5. **Prediction:** Use the trained model to predict future prices.
 
@@ -119,7 +119,7 @@ These models can be robust to changes in market conditions if properly adjusted.
 
 ### Overfitting
 
-With a high number of lagged variables, there's a risk of overfitting the model to historical data, which might not generalize well to unseen data.
+With a high number of [lagged variables](../l/lagged_variables_in_trading.md), there's a risk of overfitting the model to historical data, which might not generalize well to unseen data.
 
 ### Computational Complexity
 

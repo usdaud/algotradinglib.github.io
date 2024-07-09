@@ -61,7 +61,7 @@ These theorems provide a normative foundation for free-market economics, justify
 Computing general equilibrium in real economies involves solving complex systems of equations. With advances in computational power and algorithms, methods such as:
 
 - **Scarf's Algorithm:** It uses fixed-point iterations to converge on equilibrium prices and allocations.
-- **Applied General Equilibrium Models (AGEM):** They simulate economic processes and are extensively used in policy analysis.
+- **Applied General [Equilibrium Models](../e/equilibrium_models_in_trading.md) (AGEM):** They simulate economic processes and are extensively used in policy analysis.
 
 ## 7. Extensions and Modern Developments
 
@@ -69,7 +69,7 @@ Since its inception, General Equilibrium Theory has expanded to address more rea
 
 ### 7.1. Incomplete Markets
 
-Real-world markets often have incomplete information and contracts, which general equilibrium models account for through incomplete markets frameworks. These models reflect limitations in trading certain goods or future risks, affecting agents' decisions and market outcomes.
+Real-world markets often have incomplete information and contracts, which general [equilibrium models](../e/equilibrium_models_in_trading.md) account for through incomplete markets frameworks. These models reflect limitations in trading certain goods or future risks, affecting agents' decisions and market outcomes.
 
 ### 7.2. Dynamic General Equilibrium
 
@@ -77,7 +77,7 @@ Static models, like the Arrow-Debreu Model, analyze equilibrium at a single poin
 
 ### 7.3. Behavioral Aspects
 
-Traditional GET assumes rationality and perfect information. Behavioral extensions relax these assumptions, considering factors like bounded rationality, psychological biases, and asymmetric information.
+Traditional GET assumes rationality and perfect information. Behavioral extensions relax these assumptions, considering factors like bounded rationality, [psychological biases](../p/psychological_biases_in_trading.md), and asymmetric information.
 
 ## 8. Criticisms and Limitations
 
@@ -103,7 +103,7 @@ Understanding the effects of tariffs, quotas, and trade agreements on national w
 
 ### 9.3. Environmental Economics
 
-Equilibrium models assess the economic impact of environmental policies, such as carbon taxes and cap-and-trade schemes, evaluating their efficiency and effectiveness in reducing pollution.
+[Equilibrium models](../e/equilibrium_models_in_trading.md) assess the economic impact of environmental policies, such as carbon taxes and cap-and-trade schemes, evaluating their efficiency and effectiveness in reducing pollution.
 
 ### 9.4. Financial Markets
 
@@ -117,7 +117,7 @@ Several organizations and research centers specialize in developing and applying
    - Affiliated with Yale University, this foundation focuses on advancing economic theory and its applications. More information can be found [here](https://cowles.yale.edu/).
 
 2. **The Institute for Fiscal Studies (IFS)**:
-   - Based in London, the IFS conducts research on public policy, using equilibrium models to analyze fiscal policies. More information can be found [here](https://www.ifs.org.uk/).
+   - Based in London, the IFS conducts research on public policy, using [equilibrium models](../e/equilibrium_models_in_trading.md) to analyze fiscal policies. More information can be found [here](https://www.ifs.org.uk/).
 
 3. **National Bureau of Economic Research (NBER)**:
    - A leading research organization in the United States, NBER facilitates the development and dissemination of economic research, including work on general equilibrium. More information can be found [here](https://www.nber.org/).

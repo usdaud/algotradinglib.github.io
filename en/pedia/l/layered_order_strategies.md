@@ -12,7 +12,7 @@ Layered order strategies involve placing multiple orders at different price leve
    - **Order Book**: An order book is a digital list of buy and sell orders for a specific security or financial instrument, organized by price level.
    - **[Liquidity Analysis](../l/liquidity_analysis.md)**: Traders analyze the order book to assess market depth and identify the best price levels to place their layered orders.
 
-2. **Order Types and Placement**
+2. **[Order Types](../o/order_types_in_trading.md) and Placement**
    - **Limit Orders**: These are orders to buy or sell an asset at a specified price or better.
    - **Market Orders**: Orders to buy or sell immediately at the best available current price.
    - **Stop Orders**: Orders that become market orders when a certain price point is reached.

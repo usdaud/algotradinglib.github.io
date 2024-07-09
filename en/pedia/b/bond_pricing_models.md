@@ -50,7 +50,7 @@ Duration measures the sensitivity of a bond's price to changes in interest rates
 Multi-[factor models](../f/factor_models.md) incorporate several factors that affect interest rates and bond prices, offering a more comprehensive analysis of the interest rate environment. An example is the Heath-Jarrow-Morton (HJM) framework, which generalizes the dynamics of the forward rate curve by specifying the drift and [volatility structure](../v/volatility_structure.md) of interest rates.
 
 8. **[Credit Risk Models](../c/credit_risk_models.md)**
-[Credit risk models](../c/credit_risk_models.md) evaluate the possibility of a bond issuer defaulting, affecting a bond's price. The models include structural models, like the Merton model, and reduced-form models. Rating agencies such as Moody's, S&P, and Fitch provide credit ratings that help estimate the credit risk component in bond pricing.
+[Credit risk models](../c/credit_risk_models.md) evaluate the possibility of a bond issuer defaulting, affecting a bond's price. The models include [structural models](../s/structural_models_in_trading.md), like the Merton model, and reduced-form models. Rating agencies such as Moody's, S&P, and Fitch provide credit ratings that help estimate the credit risk component in bond pricing.
 
 ### Practical Applications
 

@@ -28,7 +28,7 @@ When traders engage in yen spot trading, they are speculating on the future move
 
 1. **US and China Relations**: As major trading partners, any geopolitical tension between Japan, the US, or China can cause significant volatility in the yen's value.
    
-2. **Global Market Sentiment**: During times of global economic uncertainty, the yen often acts as a "safe haven" currency. Traders flock to the yen, believing it to be more stable than other currencies.
+2. **Global Market Sentiment**: During times of global economic [uncertainty](../u/uncertainty_in_trading.md), the yen often acts as a "safe haven" currency. Traders flock to the yen, believing it to be more stable than other currencies.
 
 ### Market Speculation and Sentiment
 
@@ -42,7 +42,7 @@ When traders engage in yen spot trading, they are speculating on the future move
 
 2. **International Monetary Fund (IMF)**: Offers insights into global economic conditions and plays a supervisory role in international exchange rate systems. [IMF Official Website](https://www.imf.org/)
 
-3. **Major Forex Brokers**: Companies like IG Group, Saxo Bank, and [OANDA](../o/oanda.md) are key players in facilitating yen spot trading for both retail and institutional traders.
+3. **Major Forex Brokers**: Companies like [IG Group](../i/ig_group.md), [Saxo Bank](../s/saxo_bank.md), and [OANDA](../o/oanda.md) are key players in facilitating yen spot trading for both retail and institutional traders.
    - [IG Group](https://www.ig.com/)
    - [Saxo Bank](https://www.home.saxo/)
    - [OANDA](https://www.oanda.com/)
@@ -54,7 +54,7 @@ When traders engage in yen spot trading, they are speculating on the future move
 [Fundamental analysis](../f/fundamental_analysis.md) involves evaluating [economic indicators](../e/economic_indicators.md), interest rates, and [geopolitical events](../g/geopolitical_events.md) to predict future movements of the yen. Some common [fundamental analysis](../f/fundamental_analysis.md) strategies include:
 
 - **Interest Rate Differentials**: Traders might trade the yen based on the difference between Japanese interest rates and those of other countries.
-- **Economic Reports**: Keeping an eye on Japan’s GDP growth rates, inflation statistics, and other [economic indicators](../e/economic_indicators.md) help traders predict yen movements.
+- **Economic Reports**: Keeping an eye on Japan’s GDP [growth rates](../g/growth_rates_in_trading.md), inflation statistics, and other [economic indicators](../e/economic_indicators.md) help traders predict yen movements.
 
 ### Technical Analysis
 

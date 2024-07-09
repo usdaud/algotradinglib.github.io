@@ -1,6 +1,6 @@
 # Weekly Income Strategies
 
-[Algorithmic trading](../a/algorithmic_trading.md), also referred to as algo trading or black-box trading, involves using computer software to execute trades based on predefined criteria. These criteria can be statistical models, [technical indicators](../t/technical_indicators.md), or even complex machine learning algorithms. Weekly income strategies in [algorithmic trading](../a/algorithmic_trading.md) focus on generating consistent returns over weekly periods. This detailed analysis explores various strategies and methods employed, key concepts, popular tools, [risk management](../r/risk_management.md) techniques, and case studies related to weekly income strategies in [algorithmic trading](../a/algorithmic_trading.md).
+[Algorithmic trading](../a/algorithmic_trading.md), also referred to as algo trading or black-box trading, involves using computer software to execute trades based on predefined criteria. These criteria can be statistical models, [technical indicators](../t/technical_indicators.md), or even complex machine [learning algorithms](../l/learning_algorithms_in_trading.md). Weekly income strategies in [algorithmic trading](../a/algorithmic_trading.md) focus on generating consistent returns over weekly periods. This detailed analysis explores various strategies and methods employed, key concepts, popular tools, [risk management](../r/risk_management.md) techniques, and case studies related to weekly income strategies in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Key Concepts
 
@@ -79,7 +79,7 @@ Spreading investments across various assets or strategies can mitigate risk. Com
 
 ### Trading Platforms
 
-Some popular trading platforms offering robust support for [algorithmic trading](../a/algorithmic_trading.md) include MetaTrader 4/5, [NinjaTrader](../n/ninjatrader.md), and Interactive Brokers.
+Some popular trading platforms offering robust support for [algorithmic trading](../a/algorithmic_trading.md) include MetaTrader 4/5, [NinjaTrader](../n/ninjatrader.md), and [Interactive Brokers](../i/interactive_brokers.md).
 
 - [MetaTrader](https://www.metatrader4.com/)
 - [NinjaTrader](https://ninjatrader.com/)
@@ -113,7 +113,7 @@ A high-frequency trading firm employs a momentum-based strategy for weekly incom
 
 ### Case Study 2: Hedge Fund Using Mean Reversion
 
-A hedge fund uses a [mean reversion](../m/mean_reversion.md) strategy to generate weekly income. The fund's algorithm identifies significant price divergences in large-cap stocks. Once identified, the algorithm executes trades to profit from the expected reversion to the mean.
+A hedge fund uses a [mean reversion](../m/mean_reversion.md) strategy to generate weekly income. The fund's algorithm identifies significant price divergences in [large-cap stocks](../l/large_cap_stocks.md). Once identified, the algorithm executes trades to profit from the expected reversion to the mean.
 
 ### Case Study 3: Retail Trader Using Pairs Trading
 

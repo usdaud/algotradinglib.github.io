@@ -30,12 +30,12 @@ Where:
 
 ### Kalman Filter
 
-The Kalman Filter is a more advanced recursive filter that estimates the state of a linear dynamic system from a series of noisy measurements. It operates in two steps: prediction and update.
+The [Kalman Filter](../k/kalman_filter_in_trading.md) is a more advanced recursive filter that estimates the state of a linear dynamic system from a series of noisy measurements. It operates in two steps: prediction and update.
 
 - **Prediction:** The filter projects forward the current state and error covariance estimates to obtain the prior estimate for the next time step.
 - **Update:** The filter adjusts the projected estimate by an actual measurement at this time step.
 
-The Kalman Filter is effective for trading as it can dynamically adjust to new market conditions.
+The [Kalman Filter](../k/kalman_filter_in_trading.md) is effective for trading as it can dynamically adjust to new market conditions.
 
 ### Butterworth Filter
 
@@ -62,7 +62,7 @@ Recursive filters can be used to generate [trading signals](../t/trading_signals
 
 ### Predictive Modeling
 
-Filters like the Kalman Filter are used not only for noise reduction but also for [predictive modeling](../p/predictive_modeling.md). They estimate the state of a market variable (e.g., price, volatility) based on a combination of current and past data. This makes them suitable for forecasting and in models requiring real-time updates.
+Filters like the [Kalman Filter](../k/kalman_filter_in_trading.md) are used not only for noise reduction but also for [predictive modeling](../p/predictive_modeling.md). They estimate the state of a market variable (e.g., price, volatility) based on a combination of current and past data. This makes them suitable for forecasting and in models requiring real-time updates.
 
 ### High-Frequency Trading
 
@@ -76,7 +76,7 @@ Choosing the right parameters (like the smoothing factor in EMA or the cutoff fr
 
 ### Computational Complexity
 
-While recursive filters are relatively less complex, more advanced filters like the Kalman Filter require understanding matrix operations and may become computationally heavy, especially when extended to nonlinear systems using the Extended Kalman Filter (EKF).
+While recursive filters are relatively less complex, more advanced filters like the [Kalman Filter](../k/kalman_filter_in_trading.md) require understanding matrix operations and may become computationally heavy, especially when extended to nonlinear systems using the Extended [Kalman Filter](../k/kalman_filter_in_trading.md) (EKF).
 
 ### Real-Time Adaptation
 

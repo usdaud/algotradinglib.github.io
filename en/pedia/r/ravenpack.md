@@ -1,14 +1,14 @@
 # RavenPack
 
 ## Overview
-RavenPack is a leading provider of big data analytics and financial intelligence. The company specializes in transforming unstructured data into structured data, providing actionable insights for financial professionals. RavenPack’s solutions help traders, portfolio managers, and analysts gain a competitive edge by leveraging news analytics, [sentiment analysis](../s/sentiment_analysis.md), and [alternative data](../a/alternative_data.md) for better decision-making.
+RavenPack is a leading provider of [big data analytics](../b/big_data_analytics_in_trading.md) and financial intelligence. The company specializes in transforming unstructured data into structured data, providing actionable insights for financial professionals. RavenPack’s solutions help traders, portfolio managers, and analysts gain a competitive edge by leveraging news analytics, [sentiment analysis](../s/sentiment_analysis.md), and [alternative data](../a/alternative_data.md) for better decision-making.
 
 ## Features
 1. **News Analytics**: Real-time analysis of news and media content to extract sentiment, relevance, and market impact.
 2. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Advanced [sentiment analysis](../s/sentiment_analysis.md) to gauge market sentiment from news articles, social media, and other sources.
 3. **Event Detection**: Identifies and analyzes significant events that may impact financial markets.
 4. **[Alternative Data](../a/alternative_data.md)**: Access to unique datasets, including ESG data, supply chain insights, and more.
-5. **Big Data Analytics**: High-[performance analytics](../p/performance_analytics.md) platform capable of processing vast amounts of unstructured data.
+5. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: High-[performance analytics](../p/performance_analytics.md) platform capable of processing vast amounts of unstructured data.
 6. **Custom Data Feeds**: Tailored data feeds to meet specific client needs and requirements.
 7. **API Access**: Developer-friendly APIs for integrating RavenPack data into financial models, [trading systems](../t/trading_systems.md), and applications.
 8. **[Data Visualization](../d/data_visualization.md)**: Tools for visualizing data, trends, and market sentiment.

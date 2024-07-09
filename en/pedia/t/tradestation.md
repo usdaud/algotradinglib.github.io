@@ -32,7 +32,7 @@ TradeStation is a comprehensive electronic trading platform developed by TradeSt
 ### 4. Order Execution and Trade Management
 
 - Support for stocks, ETFs, options, futures, forex, and cryptocurrencies
-- Advanced order types (including conditional orders)
+- Advanced [order types](../o/order_types_in_trading.md) (including conditional orders)
 - Matrix (ladder) trading interface
 - Real-time position tracking and [risk management](../r/risk_management.md)
 - Customizable alerts and notifications

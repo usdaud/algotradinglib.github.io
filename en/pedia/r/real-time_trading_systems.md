@@ -20,8 +20,8 @@ Handling the massive influx of market data requires robust data processing and s
 ### Algorithmic Models
 Algorithmic models are the brain of any RTTS. These models analyze market data to identify profitable trading opportunities and prescribe actions.
 1. **[Quantitative Models](../q/quantitative_models.md)**: Developed using statistical methods and mathematical theories. Often used in strategies like [mean reversion](../m/mean_reversion.md) or statistical [arbitrage](../a/arbitrage.md).
-2. **Machine Learning Models**: Incorporate techniques such as neural networks and [decision trees](../d/decision_trees.md) to predict market trends and optimize [trading strategies](../t/trading_strategies.md).
-3. **Natural Language Processing (NLP)**: Used to analyze news articles, social media posts, and other unstructured data to gauge market sentiment.
+2. **Machine Learning Models**: Incorporate techniques such as [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md) to predict market trends and optimize [trading strategies](../t/trading_strategies.md).
+3. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Used to analyze news articles, social media posts, and other unstructured data to gauge market sentiment.
 
 ### Order Management System (OMS)
 The OMS is responsible for executing the trades recommended by the algorithmic models. It ensures that trade orders are placed correctly, monitored throughout their life cycle, and completed as efficiently as possible.
@@ -62,9 +62,9 @@ Virtu Financial operates as one of the largest HFT firms globally. Their RTTS le
 
 ### Future Trends
 The landscape of real-time [trading systems](../t/trading_systems.md) is continually evolving, driven by technological advancements and regulatory changes.
-1. **AI and Machine Learning**: More sophisticated models will likely drive [trading strategies](../t/trading_strategies.md), leveraging artificial intelligence and machine learning for deeper market insights.
-2. **Blockchain Technology**: Could offer greater transparency and security in trading operations.
-3. **Quantum Computing**: Although still in its infancy, quantum computing promises to revolutionize data processing and algorithmic modeling capabilities.
+1. **AI and Machine Learning**: More sophisticated models will likely drive [trading strategies](../t/trading_strategies.md), leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning for deeper market insights.
+2. **[Blockchain](../b/blockchain_in_trading.md) Technology**: Could offer greater transparency and security in trading operations.
+3. **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Although still in its infancy, [quantum computing](../q/quantum_computing_in_trading.md) promises to revolutionize data processing and algorithmic modeling capabilities.
 
 ## Conclusion
 Real-Time [Trading Systems](../t/trading_systems.md) are indispensable in the contemporary financial trading landscape. They offer unparalleled speed, efficiency, and accuracy in trading operations, driven by advancements in market data processing, algorithmic modeling, and networking technologies. As technological innovations continue to unfold, the scope and capabilities of these systems are expected to further expand, heralding a new era of trading sophistication.

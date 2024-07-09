@@ -20,7 +20,7 @@ OpenQuant is SmartQuant's primary trading platform, designed for developing, tes
  - Transaction cost modeling
 
 - **Optimization Tools**: 
- - Genetic algorithm and grid search optimization
+ - Genetic algorithm and [grid search](../g/grid_search_in_trading.md) optimization
  - Distributed computing support for faster processing
 
 - **[Risk Management](../r/risk_management.md)**: 
@@ -29,7 +29,7 @@ OpenQuant is SmartQuant's primary trading platform, designed for developing, tes
 
 - **Live Trading**: 
  - Automated execution across multiple markets
- - Support for various order types and algorithms
+ - Support for various [order types](../o/order_types_in_trading.md) and algorithms
 
 - **Data Management**: 
  - Integration with multiple data providers

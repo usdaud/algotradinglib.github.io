@@ -48,14 +48,14 @@ Many financial software suites and programming libraries provide tools to comput
 
 - **MATLAB**: MATLAB's Financial Toolbox includes functions to compute ES using a variety of methods (more info can be found at [MathWorks](https://www.mathworks.com/products/financial.html)).
 - **R**: The R language provides packages like `PerformanceAnalytics` and `QRM` which include functions to calculate ES.
-- **Python**: Libraries such as `NumPy`, `Pandas`, and `SciPy` can be used to compute ES using both historical and simulation methods.
+- **Python**: Libraries such as `NumPy`, `Pandas`, and `SciPy` can be used to compute ES using both historical and [simulation](../s/simulation_in_trading.md) methods.
 
 ## Challenges and Limitations
 
 Despite its advantages, ES is not without challenges:
 
 - **Data Requirements**: Accurate estimation of ES requires extensive historical data, particularly in the tails of the distribution where data points are sparse.
-- **Complexity**: Computing ES, especially through simulation methods, can be computationally intensive and may require significant resources for implementation.
+- **Complexity**: Computing ES, especially through [simulation](../s/simulation_in_trading.md) methods, can be computationally intensive and may require significant resources for implementation.
 - **Model Risk**: Assuming a specific distribution for losses can introduce model risk if the assumptions do not hold in practice.
 
 ## Conclusion

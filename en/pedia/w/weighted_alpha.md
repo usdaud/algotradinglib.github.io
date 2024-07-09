@@ -14,7 +14,7 @@ The calculation of Weighted Alpha involves looking at the price movement of a se
 2. **Return Calculation**: Compute the return of the security over the period.
 3. **Weight Assignment**: Assign weights to these returns, with more recent periods receiving higher weights.
 4. **Weight Application**: Apply these weights to the corresponding return figures.
-5. **Summation**: Sum the weighted returns to produce the Weighted Alpha.
+5. **Summation**: Sum the [weighted returns](../w/weighted_returns_in_trading.md) to produce the Weighted Alpha.
 
 ```python
 def calculate_weighted_alpha(prices, weights):

@@ -18,7 +18,7 @@ Where:
 - \(R_i\) represents the return of asset \(i\)
 - \(\alpha\) is the asset's specific return not explained by the factors (intercept term)
 - \(\beta_1, \beta_2, \beta_3, ..., \beta_n\) are the factor loadings or sensitivities of asset \(i\)
-- \(F_1, F_2, F_3, ..., F_n\) are the risk factors or explanatory variables
+- \(F_1, F_2, F_3, ..., F_n\) are the [risk factors](../r/risk_factors_in_trading.md) or explanatory variables
 - \(\epsilon_i\) is the error term representing the idiosyncratic risk of asset \(i\)
 
 ### Key Multi-Factor Models
@@ -62,7 +62,7 @@ Traders leverage multi-[factor models](../f/factor_models.md) to develop strateg
 
 ### Example of Practical Implementation
 
-Consider an [algorithmic trading](../a/algorithmic_trading.md) firm, such as [Two Sigma](https://www.twosigma.com/), which leverages data science and technology to build [trading models](../t/trading_models.md). Using multi-[factor models](../f/factor_models.md), Two Sigma can develop strategies by:
+Consider an [algorithmic trading](../a/algorithmic_trading.md) firm, such as [Two Sigma](https://www.twosigma.com/), which leverages [data science](../d/data_science_in_trading.md) and technology to build [trading models](../t/trading_models.md). Using multi-[factor models](../f/factor_models.md), Two Sigma can develop strategies by:
 
 1. **Data Collection**: Gathering extensive data sets, including market prices, financial statements, and macroeconomic indicators.
 2. **[Factor Analysis](../f/factor_analysis.md)**: Identifying and [backtesting](../b/backtesting.md) factors that have historically explained stock returns. This includes traditional factors like those in the Fama-French model as well as proprietary factors derived from data analysis.

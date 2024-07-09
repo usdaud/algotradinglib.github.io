@@ -64,10 +64,10 @@ The [Ichimoku Cloud](../i/ichimoku_cloud.md), or Ichimoku Kinko Hyo, is a compre
 Statistical techniques used in trend models rely heavily on the analysis of past price data. Common techniques include [time series analysis](../t/time_series_analysis.md), regression models, and [hypothesis testing](../h/hypothesis_testing.md).
 
 ### Machine Learning
-Machine learning techniques leverage algorithms that can learn from and make predictions on data. Techniques such as neural networks, [decision trees](../d/decision_trees.md), and support vector machines are employed to identify and exploit market trends.
+Machine learning techniques leverage algorithms that can learn from and make predictions on data. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are employed to identify and exploit market trends.
 
 ### Signal Processing
-Signal processing methods such as Fourier Transform, wavelet transforms, and filtering techniques are used to analyze and filter noise from the market data to identify underlying trends.
+[Signal processing](../s/signal_processing_in_trading.md) methods such as Fourier Transform, wavelet transforms, and filtering techniques are used to analyze and filter noise from the market data to identify underlying trends.
 
 ## Components of Quantitative Trend Models
 
@@ -109,13 +109,13 @@ Trend models are increasingly being applied to the volatile cryptocurrency marke
 Renaissance Technologies is a prominent example of a hedge fund that uses [quantitative models](../q/quantitative_models.md) to manage investments. Their Medallion Fund is famous for its outstanding returns driven by sophisticated quantitative techniques. [Link to Renaissance Technologies](https://www.rentec.com/)
 
 ### D. E. Shaw & Co.
-D. E. Shaw & Co. is another leading hedge fund known for its [quantitative trading](../q/quantitative_trading.md) strategies. They employ advanced mathematical models and computational techniques to identify market trends and opportunities. [Link to D. E. Shaw & Co.](https://www.deshaw.com/)
+D. E. Shaw & Co. is another leading hedge fund known for its [quantitative trading](../q/quantitative_trading.md) strategies. They employ advanced [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques to identify market trends and opportunities. [Link to D. E. Shaw & Co.](https://www.deshaw.com/)
 
 ### Two Sigma Investments
-Two Sigma Investments leverages machine learning, distributed computing, and big data to build models that identify subtle market inefficiencies and trends. [Link to Two Sigma Investments](https://www.twosigma.com/)
+Two Sigma Investments leverages machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to build models that identify subtle market inefficiencies and trends. [Link to Two Sigma Investments](https://www.twosigma.com/)
 
 ### AQR Capital Management
 AQR Capital Management blends quantitative and investment research to develop models for trend-following, [risk parity](../r/risk_parity.md), and other strategies to deliver consistent returns. [Link to AQR Capital Management](https://www.aqr.com/)
 
 ## Conclusion
-Quantitative trend models are an essential part of the [algorithmic trading](../a/algorithmic_trading.md) landscape. They offer sophisticated tools for analyzing market behavior and making informed trading decisions. By leveraging diverse techniques, including statistical methods, machine learning, and signal processing, traders can effectively capture and exploit market trends. As the financial markets continue to evolve, the role of quantitative trend models in ensuring competitive trading edge remains invaluable.
+Quantitative trend models are an essential part of the [algorithmic trading](../a/algorithmic_trading.md) landscape. They offer sophisticated tools for analyzing market behavior and making informed trading decisions. By leveraging diverse techniques, including statistical methods, machine learning, and [signal processing](../s/signal_processing_in_trading.md), traders can effectively capture and exploit market trends. As the financial markets continue to evolve, the role of quantitative trend models in ensuring competitive trading edge remains invaluable.

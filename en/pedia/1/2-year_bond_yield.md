@@ -42,7 +42,7 @@ In the realm of algotrading, the 2-year bond yield serves as a vital input for v
 
 ### Example of Utilization in Financial Markets
 
-Prominent financial institutions and trading firms, such as [Citadel Securities](https://www.citadelsecurities.com/) and [Renaissance Technologies](https://www.rentec.com/), use sophisticated algotrading strategies incorporating 2-year bond yields. These firms apply machine learning and extensive historical data to enhance their predictive models, thus ensuring more profitable trading decisions based on yield movements.
+Prominent financial institutions and trading firms, such as [Citadel Securities](https://www.citadelsecurities.com/) and [Renaissance Technologies](https://www.rentec.com/), use sophisticated algotrading strategies incorporating 2-year bond yields. These firms apply machine learning and extensive historical data to enhance their [predictive models](../p/predictive_models_in_trading.md), thus ensuring more profitable trading decisions based on yield movements.
 
 ### Conclusion
 

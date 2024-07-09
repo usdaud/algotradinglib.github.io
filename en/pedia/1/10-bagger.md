@@ -44,7 +44,7 @@ Patience is a critical trait for investors seeking 10-baggers. These investments
 
 ## Technological Advancements and 10-Baggers
 
-In recent years, technological advancements such as artificial intelligence, blockchain, and biotechnology have provided fertile ground for potential 10-baggers. Companies at the forefront of these technologies, like Tesla (TSLA) and NVIDIA (NVDA), have shown the capacity to multiply their stock prices many times over.
+In recent years, technological advancements such as [artificial intelligence](../a/artificial_intelligence_in_trading.md), [blockchain](../b/blockchain_in_trading.md), and biotechnology have provided fertile ground for potential 10-baggers. Companies at the forefront of these technologies, like Tesla (TSLA) and NVIDIA (NVDA), have shown the capacity to multiply their stock prices many times over.
 
 ## Professional Insight
 

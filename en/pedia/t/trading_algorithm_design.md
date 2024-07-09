@@ -1,6 +1,6 @@
 # Trading Algorithm Design
 
-Trading [algorithm design](../a/algorithm_design.md) is a critical domain within the field of financial technology and [quantitative finance](../q/quantitative_finance.md), where sophisticated computational methods and mathematical models are employed to facilitate trading decisions. In this extensive exploration, we'll delve into the integral components, methodologies, and strategies that inform the creation of robust [trading algorithms](../t/trading_algorithms.md).
+Trading [algorithm design](../a/algorithm_design.md) is a critical domain within the field of financial technology and [quantitative finance](../q/quantitative_finance.md), where sophisticated computational methods and [mathematical models](../m/mathematical_models_in_trading.md) are employed to facilitate trading decisions. In this extensive exploration, we'll delve into the integral components, methodologies, and strategies that inform the creation of robust [trading algorithms](../t/trading_algorithms.md).
 
 ## Key Components of Trading Algorithm Design
 
@@ -22,8 +22,8 @@ The heart of any trading algorithm lies in its strategy, which typically falls i
 ### 3. Model Selection and Training
 Choosing the right model is vital for the efficiency of [trading algorithms](../t/trading_algorithms.md). Models can be broadly categorized as:
 
-- **Linear Models**: Simplistic yet powerful in capturing underlying relationships (e.g., [linear regression](../l/linear_regression.md)).
-- **Machine Learning Models**: More sophisticated models capable of capturing complex patterns (e.g., [decision trees](../d/decision_trees.md), neural networks).
+- **[Linear Models](../l/linear_models_in_trading.md)**: Simplistic yet powerful in capturing underlying relationships (e.g., [linear regression](../l/linear_regression.md)).
+- **Machine Learning Models**: More sophisticated models capable of capturing complex patterns (e.g., [decision trees](../d/decision_trees.md), [neural networks](../n/neural_networks_in_trading.md)).
 
 **Training Machine Learning Models**:
 - **Supervised Learning**: Where the algorithm learns from labeled input-output pairs.
@@ -47,7 +47,7 @@ Mitigating potential losses is paramount in [algorithmic trading](../a/algorithm
 ### 6. Execution and Trade Management
 Effective execution is critical to capitalizing on the strategy:
 
-- **Order Types**: Market orders, limit orders, and stop orders, among others.
+- **[Order Types](../o/order_types_in_trading.md)**: Market orders, limit orders, and stop orders, among others.
 - **Latency and Slippage**: Minimizing delays and the difference between expected and actual trade prices.
 - **Smart [Order Routing](../o/order_routing.md)**: Algorithmically routing orders to different exchanges to find the best price and liquidity.
 
@@ -69,14 +69,14 @@ HFT involves executing a large number of orders at extremely high speeds, typica
 ### AI and Machine Learning in Algorithm Trading
 AI and machine learning revolutionize [algorithmic trading](../a/algorithmic_trading.md) by providing tools for prediction and automated decision-making:
 
-- **Natural Language Processing**: Analyzing news articles and tweets to gauge market sentiment.
-- **Deep Learning**: Using neural networks to model nonlinear relationships and patterns in market data.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md)**: Analyzing news articles and tweets to gauge market sentiment.
+- **Deep Learning**: Using [neural networks](../n/neural_networks_in_trading.md) to model nonlinear relationships and patterns in market data.
 - **Reinforcement Learning**: Training models that can adapt their strategies based on market feedback.
 
 ### Quantum Computing in Trading
-Though still in its infancy, quantum computing promises transformative capabilities:
+Though still in its infancy, [quantum computing](../q/quantum_computing_in_trading.md) promises transformative capabilities:
 
-- **Quantum Algorithms**: Improved computational power to solve optimization problems in trading.
+- **[Quantum Algorithms](../q/quantum_algorithms_in_trading.md)**: Improved computational power to solve optimization problems in trading.
 - **Quantum Cryptography**: Enhancing the security of [trading algorithms](../t/trading_algorithms.md).
 
 ### Ethical and Regulatory Aspects

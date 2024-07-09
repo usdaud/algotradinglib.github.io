@@ -78,11 +78,11 @@ System failures, bugs, or latency can undermine the effectiveness of algorithms.
 
 ### Future Trends
 
-The landscape of [algorithmic trading](../a/algorithmic_trading.md) in forwards and futures is continuously evolving with advancements in AI, machine learning, and big data analytics. Future trends include:
+The landscape of [algorithmic trading](../a/algorithmic_trading.md) in forwards and futures is continuously evolving with advancements in AI, machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md). Future trends include:
 
 - **AI-Driven Strategies:** Algorithms increasingly use AI and machine learning to analyze vast datasets, identify patterns, and optimize trading decisions.
 
-- **Blockchain Technology:** Blockchain offers potential for faster, more transparent, and secure transactions in forward and futures markets.
+- **[Blockchain](../b/blockchain_in_trading.md) Technology:** [Blockchain](../b/blockchain_in_trading.md) offers potential for faster, more transparent, and secure transactions in forward and futures markets.
 
 - **[Quantitative Finance](../q/quantitative_finance.md) Models:** More sophisticated [quantitative models](../q/quantitative_models.md) are being developed to enhance the precision and efficacy of algo-[trading strategies](../t/trading_strategies.md).
 

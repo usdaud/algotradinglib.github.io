@@ -46,7 +46,7 @@ Modern X-Order Execution systems rely heavily on real-time data analytics to adj
 **Usage of Real-Time Data:**
 - **[Market Depth Analysis](../m/market_depth_analysis.md):** Monitoring order book levels and changes to predict short-term price movements.
 - **[Sentiment Analysis](../s/sentiment_analysis.md):** Gauging market sentiment through news, social media, and other data sources to anticipate market direction.
-- **Price Prediction Models:** Utilizing machine learning algorithms to forecast imminent price changes.
+- **Price Prediction Models:** Utilizing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to forecast imminent price changes.
 
 ##### Latency Management
 

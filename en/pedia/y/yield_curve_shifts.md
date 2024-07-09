@@ -40,7 +40,7 @@ Supply and demand for government bonds and other fixed-income securities can als
 
 ### Market Sentiment
 
-Investor sentiment and risk appetite can cause [yield curve](../y/yield_curve.md) shifts. During periods of high uncertainty or risk aversion, investors tend to flock to safe-haven assets like government bonds, leading to lower yields and potential shifts in the [yield curve](../y/yield_curve.md). Conversely, during periods of optimism and risk-taking, yields may rise as investors seek higher returns in riskier assets.
+Investor sentiment and risk appetite can cause [yield curve](../y/yield_curve.md) shifts. During periods of high [uncertainty](../u/uncertainty_in_trading.md) or risk aversion, investors tend to flock to safe-haven assets like government bonds, leading to lower yields and potential shifts in the [yield curve](../y/yield_curve.md). Conversely, during periods of optimism and risk-taking, yields may rise as investors seek higher returns in riskier assets.
 
 ## Implications of Yield Curve Shifts
 
@@ -64,7 +64,7 @@ Businesses are affected by [yield curve](../y/yield_curve.md) shifts through the
 
 ### Yield Curve Arbitrage
 
-[Yield curve](../y/yield_curve.md) [arbitrage](../a/arbitrage.md) strategies seek to exploit mismatches in bond yields across different maturities. By analyzing [yield curve](../y/yield_curve.md) shifts, algorithms can identify opportunities to buy undervalued bonds and sell overvalued bonds, aiming to profit from the convergence of yields. These strategies often involve complex mathematical models and require high-frequency trading capabilities.
+[Yield curve](../y/yield_curve.md) [arbitrage](../a/arbitrage.md) strategies seek to exploit mismatches in bond yields across different maturities. By analyzing [yield curve](../y/yield_curve.md) shifts, algorithms can identify opportunities to buy undervalued bonds and sell overvalued bonds, aiming to profit from the convergence of yields. These strategies often involve complex [mathematical models](../m/mathematical_models_in_trading.md) and require high-frequency trading capabilities.
 
 ### Hedging Strategies
 

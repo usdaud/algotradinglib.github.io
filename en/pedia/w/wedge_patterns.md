@@ -15,7 +15,7 @@ Conversely, a falling wedge develops when the price is making lower highs and lo
 Wedge patterns are characterized by several key elements:
 
 - **Convergence of Trendlines**: The upper and lower trendlines converge, indicating a compression in price movement.
-- **Volume**: Volume tends to decrease as the pattern develops, reflecting uncertainty and indecision among traders.
+- **Volume**: Volume tends to decrease as the pattern develops, reflecting [uncertainty](../u/uncertainty_in_trading.md) and indecision among traders.
 - **Breakout**: A breakout from a wedge pattern can lead to significant price movement, as the market resolves the indecision.
 
 ## Identifying Wedge Patterns
@@ -63,7 +63,7 @@ Several companies specialize in providing [algorithmic trading](../a/algorithmic
 While using wedge patterns in [algorithmic trading](../a/algorithmic_trading.md) offers significant advantages, several challenges and considerations must be addressed:
 
 ### Market Noise and False Signals
-The presence of market noise can lead to false signals, making it crucial for algorithms to distinguish between genuine patterns and random fluctuations.
+The presence of market noise can lead to [false signals](../f/false_signals_in_trading.md), making it crucial for algorithms to distinguish between genuine patterns and random fluctuations.
 
 ### Adaptability
 Markets are dynamic, and patterns that worked in the past may not perform well in current conditions. Algorithms must be adaptable and continuously updated to reflect changing market behaviors.

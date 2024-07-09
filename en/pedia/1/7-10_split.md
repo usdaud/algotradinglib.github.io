@@ -65,10 +65,10 @@ In [algorithmic trading](../a/algorithmic_trading.md), complex market scenarios 
 ### Case Studies
 
 1. **Renaissance Technologies**
-   - RenTech, founded by Jim Simons, utilizes machine learning algorithms and has a famously successful Medallion Fund. The firm’s systematic approach can be likened to a masterful handling of a "7-10 split" in complex markets. For more information, visit their [website](https://www.rentec.com/).
+   - RenTech, founded by Jim Simons, utilizes machine [learning algorithms](../l/learning_algorithms_in_trading.md) and has a famously successful Medallion Fund. The firm’s systematic approach can be likened to a masterful handling of a "7-10 split" in complex markets. For more information, visit their [website](https://www.rentec.com/).
 
 2. **Two Sigma**
-   - Similar to RenTech, Two Sigma uses data science and technology to find trading opportunities. Their capability to process and analyze vast amounts of data in real-time mirrors the precision required to handle difficult market conditions. More details can be found on their [website](https://www.twosigma.com/).
+   - Similar to RenTech, Two Sigma uses [data science](../d/data_science_in_trading.md) and technology to find trading opportunities. Their capability to process and analyze vast amounts of data in real-time mirrors the precision required to handle difficult market conditions. More details can be found on their [website](https://www.twosigma.com/).
 
 ### Challenges and Risks
 
@@ -86,7 +86,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), complex market scenarios 
 
 ### Future Directions
 
-1. **Quantum Computing**
+1. **[Quantum Computing](../q/quantum_computing_in_trading.md)**
    - Potential to revolutionize [trading algorithms](../t/trading_algorithms.md) with vastly superior processing power.
    - Still in research and development stages but promising for complex scenario management.
 

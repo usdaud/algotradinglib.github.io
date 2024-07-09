@@ -28,8 +28,8 @@ Cross-market analysis in [algorithmic trading](../a/algorithmic_trading.md) invo
 
 1. **Machine Learning**
    - Supervised Learning (e.g., Regression, Classification)
-   - Unsupervised Learning (e.g., Clustering, Dimensionality Reduction)
-   - Deep Learning (e.g., Neural Networks)
+   - Unsupervised Learning (e.g., Clustering, [Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md))
+   - Deep Learning (e.g., [Neural Networks](../n/neural_networks_in_trading.md))
 
 2. **Time-Series Analysis**
    - Autoregressive Integrated Moving Average (ARIMA)
@@ -37,15 +37,15 @@ Cross-market analysis in [algorithmic trading](../a/algorithmic_trading.md) invo
    - Vector Autoregression (VAR)
 
 3. **[Sentiment Analysis](../s/sentiment_analysis.md)**
-   - Natural Language Processing (NLP) for parsing news and social media
+   - [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) for parsing news and social media
 
 ### Quantitative Models
 
 1. **[Factor Models](../f/factor_models.md)**
-   - Principal Component Analysis (PCA)
+   - [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)
    - Fama-French Three-Factor Model
 
-2. **Risk Models**
+2. **[Risk Models](../r/risk_models_in_trading.md)**
    - Value at Risk (VaR)
    - Conditional Value at Risk (CVaR)
 
@@ -93,7 +93,7 @@ Cross-market analysis aids in the construction of diversified portfolios by iden
 
 ### Risk Management
 
-Understanding cross-market dynamics helps in developing sophisticated [risk management](../r/risk_management.md) strategies. Algorithmic risk models can predict potential market downturns and recommend [hedging strategies](../h/hedging_strategies.md) using options or futures.
+Understanding cross-market dynamics helps in developing sophisticated [risk management](../r/risk_management.md) strategies. Algorithmic [risk models](../r/risk_models_in_trading.md) can predict potential market downturns and recommend [hedging strategies](../h/hedging_strategies.md) using options or futures.
 
 ### Macro Trading Strategies
 

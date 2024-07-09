@@ -15,10 +15,10 @@ Market orders provide high certainty that a trade will be executed, although not
 
 ## Execution Mechanisms
 
-Market order execution involves complex mechanisms that ensure trades are processed efficiently. The execution process is facilitated by order-matching algorithms and high-frequency [trading systems](../t/trading_systems.md).
+Market order execution involves complex mechanisms that ensure trades are processed efficiently. The execution process is facilitated by order-[matching algorithms](../m/matching_algorithms_in_trading.md) and high-frequency [trading systems](../t/trading_systems.md).
 
 ### Order-Matching Algorithms
-Order-matching algorithms are the cornerstone of executing market orders. These algorithms match buy and sell orders based on order types, prices, and time of entry. In most exchanges, market orders are executed through an "order book," a digital ledger where all buy and sell orders are listed.
+Order-[matching algorithms](../m/matching_algorithms_in_trading.md) are the cornerstone of executing market orders. These algorithms match buy and sell orders based on [order types](../o/order_types_in_trading.md), prices, and time of entry. In most exchanges, market orders are executed through an "order book," a digital ledger where all buy and sell orders are listed.
 
 ### High-Frequency Trading (HFT)
 High-frequency [trading systems](../t/trading_systems.md) are automated platforms that utilize powerful [computational algorithms](../c/computational_algorithms.md) to execute orders at extremely high speeds. These systems are designed to capitalize on minute price discrepancies and can execute thousands of orders in microseconds.
@@ -49,7 +49,7 @@ When a trader needs to exit a position rapidly to mitigate risk, market orders e
 
 ## Order Types and Market Order Execution 
 
-Different order types can influence the method and timing of market order execution. Understanding these types helps in creating sophisticated [trading strategies](../t/trading_strategies.md).
+Different [order types](../o/order_types_in_trading.md) can influence the method and timing of market order execution. Understanding these types helps in creating sophisticated [trading strategies](../t/trading_strategies.md).
 
 ### Stop Orders
 Stop orders convert into market orders when a specified stop price is reached. This mechanism protects traders from significant losses during unfavorable market movements.

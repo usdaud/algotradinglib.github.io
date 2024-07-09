@@ -27,7 +27,7 @@ Psychological levels often act as support (where the price tends to stop falling
 When prices approach psychological levels, trading volume tends to spike. Increased volume signifies more investor interest and can result in more robust price action at these levels.
 
 ### Behavioral Impacts
-[Behavioral finance](../b/behavioral_finance.md) explains that cognitive biases such as anchoring (relying too heavily on the first piece of information encountered) and herd behavior (following the majority) significantly affect trading decisions at psychological levels.
+[Behavioral finance](../b/behavioral_finance.md) explains that [cognitive biases](../c/cognitive_biases_in_trading.md) such as anchoring (relying too heavily on the first piece of information encountered) and [herd behavior](../h/herd_behavior_in_trading.md) (following the majority) significantly affect trading decisions at psychological levels.
 
 **Strategies Involving Psychological Levels**
 ---------------------------------------------

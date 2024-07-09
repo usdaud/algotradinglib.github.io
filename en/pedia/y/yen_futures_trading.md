@@ -60,7 +60,7 @@ Key [economic indicators](../e/economic_indicators.md) that impact Yen futures i
 
 ### Global Sentiment
 
-Being a safe-haven currency, the Yen often appreciates during times of global uncertainty and risk aversion. Conversely, during periods of risk appetite and market optimism, the Yen may depreciate as investors seek higher returns in riskier assets.
+Being a safe-haven currency, the Yen often appreciates during times of global [uncertainty](../u/uncertainty_in_trading.md) and risk aversion. Conversely, during periods of risk appetite and market optimism, the Yen may depreciate as investors seek higher returns in riskier assets.
 
 ## Real-World Examples of Yen Futures Trading
 

@@ -94,7 +94,7 @@ Algorithmic traders should conduct thorough due diligence, incorporating not onl
 
 ### 2. Adaptive Algorithms
 
-Algos can be designed to integrate off-balance-sheet risk factors into their predictive models. Machine learning models can be particularly effective in identifying and adjusting to anomalies associated with these activities.
+Algos can be designed to integrate off-balance-sheet [risk factors](../r/risk_factors_in_trading.md) into their [predictive models](../p/predictive_models_in_trading.md). Machine learning models can be particularly effective in identifying and adjusting to anomalies associated with these activities.
 
 ### 3. Regulatory Compliance Monitoring
 

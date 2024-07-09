@@ -63,7 +63,7 @@ Several tools and libraries support the implementation and tuning of learning ra
 
 - **TensorFlow**: An open-source machine learning framework that supports various learning rate schedules and adaptive optimizers. [TensorFlow Website](https://www.tensorflow.org)
 - **PyTorch**: Another popular machine learning framework with extensive support for customizing learning rates. [PyTorch Website](https://pytorch.org)
-- **Keras**: A high-level neural networks API that runs on top of TensorFlow, providing easy-to-use learning rate scheduling and optimization. [Keras Website](https://keras.io)
+- **Keras**: A high-level [neural networks](../n/neural_networks_in_trading.md) API that runs on top of TensorFlow, providing easy-to-use learning rate scheduling and optimization. [Keras Website](https://keras.io)
 
 ## Conclusion
 

@@ -35,7 +35,7 @@ Understanding the historical trends of the 6-month yield provides insights into 
 
 - **Monetary Policy**: Central bank decisions, such as changes in the federal funds rate, directly impact the 6-month yield. For instance, periods of tightening monetary policy generally see an increase in short-term yields.
 - **Inflation Rates**: High inflation typically leads to higher yields as investors demand more return to compensate for the decreased purchasing power.
-- **Economic Conditions**: In times of economic turmoil or uncertainty, yields on safe investments like T-bills may drop as investors flock to safety.
+- **Economic Conditions**: In times of economic turmoil or [uncertainty](../u/uncertainty_in_trading.md), yields on safe investments like T-bills may drop as investors flock to safety.
 
 ## Current Environment
 

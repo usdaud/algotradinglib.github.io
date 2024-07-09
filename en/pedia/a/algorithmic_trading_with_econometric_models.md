@@ -1,6 +1,6 @@
 # Algorithmic Trading With Econometric Models
 
-[Algorithmic trading](../a/algorithmic_trading.md), a branch of financial trading that relies on algorithms to execute trades, has grown exponentially in recent years. It hinges on complex mathematical models and computational technologies to optimize [trading strategies](../t/trading_strategies.md) and maximize returns. Econometric models play a critical role in [algorithmic trading](../a/algorithmic_trading.md) by utilizing historical data and statistical methods to forecast future market movements. This article will delve into the intricacies of [algorithmic trading](../a/algorithmic_trading.md) with various econometric models, examining their functionalities, applications, and impacts on the financial markets.
+[Algorithmic trading](../a/algorithmic_trading.md), a branch of financial trading that relies on algorithms to execute trades, has grown exponentially in recent years. It hinges on complex [mathematical models](../m/mathematical_models_in_trading.md) and computational technologies to optimize [trading strategies](../t/trading_strategies.md) and maximize returns. Econometric models play a critical role in [algorithmic trading](../a/algorithmic_trading.md) by utilizing historical data and statistical methods to forecast future market movements. This article will delve into the intricacies of [algorithmic trading](../a/algorithmic_trading.md) with various econometric models, examining their functionalities, applications, and impacts on the financial markets.
 
 [Algorithmic Trading](../a/algorithmic_trading.md) and Its Components
 ---------------------------------------
@@ -15,7 +15,7 @@ Key components of [algorithmic trading](../a/algorithmic_trading.md) include:
 
 Econometric Models in [Algorithmic Trading](../a/algorithmic_trading.md)
 ------------------------------------------
-Econometrics applies statistical methods to economic data to give empirical content to economic relationships. In the context of [algorithmic trading](../a/algorithmic_trading.md), econometric models are used to forecast prices, volatilities, and other relevant financial metrics. Some commonly used econometric models include:
+[Econometrics](../e/econometrics_in_trading.md) applies statistical methods to economic data to give empirical content to economic relationships. In the context of [algorithmic trading](../a/algorithmic_trading.md), econometric models are used to forecast prices, volatilities, and other relevant financial metrics. Some commonly used econometric models include:
 
 1. **Autoregressive Integrated Moving Average (ARIMA)**: The ARIMA model is a versatile and widely-used econometric model for time-series forecasting. It combines autoregressive and moving average components and integrates differencing to make non-stationary data stationary.
 2. **Generalized Autoregressive Conditional Heteroskedasticity (GARCH)**: The GARCH model is employed to predict and analyze financial market volatility. It accounts for [volatility clustering](../v/volatility_clustering.md) by modeling the variance of a time series, which fluctuates over time.
@@ -79,7 +79,7 @@ The effectiveness of econometric models depends on the quality of the data used.
 
 ### Market Regimes
 
-Financial markets are subject to different regimes and structural breaks, which can affect the performance of [trading algorithms](../t/trading_algorithms.md). Econometric models may need to be frequently recalibrated to adapt to changing market conditions.
+Financial markets are subject to different regimes and [structural breaks](../s/structural_breaks_in_trading.md), which can affect the performance of [trading algorithms](../t/trading_algorithms.md). Econometric models may need to be frequently recalibrated to adapt to changing market conditions.
 
 Conclusion
 -----------

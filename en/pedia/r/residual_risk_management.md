@@ -8,7 +8,7 @@ Residual risk is the risk that remains after all mitigative actions have been ap
 
 ## Relevance in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on sophisticated mathematical models and computer systems to execute trades at high speeds. Given the dynamic nature of financial markets, it is virtually impossible to eliminate all risks. Hence, understanding and managing residual risk is vital for:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and computer systems to execute trades at high speeds. Given the dynamic nature of financial markets, it is virtually impossible to eliminate all risks. Hence, understanding and managing residual risk is vital for:
 
 1. **Model Validation**: Ensuring that [trading algorithms](../t/trading_algorithms.md) perform as intended under various market conditions.
 2. **Capital Protection**: Safeguarding trading capital from unexpected losses.
@@ -40,7 +40,7 @@ Residual risk is the risk that remains after all mitigative actions have been ap
 
 ### 1. **Model Risk Mitigation**
    - **[Backtesting](../b/backtesting.md)**: Running [trading algorithms](../t/trading_algorithms.md) on historical data to evaluate performance and identify potential issues.
-   - **Stress Testing**: Simulating extreme market conditions to assess the resilience of [trading strategies](../t/trading_strategies.md).
+   - **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating extreme market conditions to assess the resilience of [trading strategies](../t/trading_strategies.md).
    - **Ongoing Monitoring**: Continuously tracking algorithm performance in real-time and making necessary adjustments.
 
 ### 2. **Market Risk Mitigation**
@@ -69,10 +69,10 @@ Residual risk is the risk that remains after all mitigative actions have been ap
    Various software solutions aid in the identification, assessment, and management of residual risks. For instance, firms like [Risk.net](https://www.risk.net/) provide specialized [risk management](../r/risk_management.md) tools.
 
 ### 2. **Machine Learning**
-   Machine learning algorithms can predict potential risk factors and adjust [trading strategies](../t/trading_strategies.md) dynamically. Firms like [Kensho](https://www.kensho.com/) are leading in the application of machine learning for [risk management](../r/risk_management.md).
+   Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can predict potential [risk factors](../r/risk_factors_in_trading.md) and adjust [trading strategies](../t/trading_strategies.md) dynamically. Firms like [Kensho](https://www.kensho.com/) are leading in the application of machine learning for [risk management](../r/risk_management.md).
 
 ### 3. **Blockchain Technology**
-   The transparency and immutability offered by blockchain can help in tracking transactions and reducing operational risks.
+   The transparency and immutability offered by [blockchain](../b/blockchain_in_trading.md) can help in tracking transactions and reducing operational risks.
 
 ### 4. **Algorithmic Risk Testing Platforms**
    Platforms such as [QuantConnect](https://www.quantconnect.com/) offer environments for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) under various risk scenarios.
@@ -80,17 +80,17 @@ Residual risk is the risk that remains after all mitigative actions have been ap
 ## Case Studies
 
 ### 1. **Two Sigma Investments**
-   Two Sigma is a hedge fund that extensively uses data science and technology for trading. They have robust [risk management](../r/risk_management.md) frameworks to handle residual risks, including advanced machine learning models for [predictive analytics](../p/predictive_analytics.md). [Two Sigma](https://www.twosigma.com/).
+   Two Sigma is a hedge fund that extensively uses [data science](../d/data_science_in_trading.md) and technology for trading. They have robust [risk management](../r/risk_management.md) frameworks to handle residual risks, including advanced machine learning models for [predictive analytics](../p/predictive_analytics.md). [Two Sigma](https://www.twosigma.com/).
 
 ### 2. **Bridgewater Associates**
-   Bridgewater Associates employs systematic decision-making processes to manage risk across their portfolios. Their emphasis on scenario analysis and stress testing helps manage residual risks effectively. [Bridgewater Associates](https://www.bridgewater.com/).
+   Bridgewater Associates employs systematic decision-making processes to manage risk across their portfolios. Their emphasis on scenario analysis and [stress testing](../s/stress_testing_in_trading.md) helps manage residual risks effectively. [Bridgewater Associates](https://www.bridgewater.com/).
 
 ### 3. **Goldman Sachs**
    Goldman Sachs utilizes comprehensive algorithmic frameworks and technology-driven solutions for managing trading risks, including residual risks. They have proprietary software and [risk management](../r/risk_management.md) systems in place. [Goldman Sachs](https://www.goldmansachs.com/).
 
 ## Conclusion
 
-Residual [risk management](../r/risk_management.md) is an indispensable part of [algorithmic trading](../a/algorithmic_trading.md), requiring a multifaceted approach that encompasses model validation, market diversification, operational controls, credit evaluation, and [liquidity analysis](../l/liquidity_analysis.md). By leveraging advanced technologies such as machine learning, blockchain, and specialized [risk management](../r/risk_management.md) software, trading firms can better anticipate and mitigate the potential adverse impacts of residual risk, ensuring more consistent and profitable trading outcomes.
+Residual [risk management](../r/risk_management.md) is an indispensable part of [algorithmic trading](../a/algorithmic_trading.md), requiring a multifaceted approach that encompasses model validation, market diversification, operational controls, credit evaluation, and [liquidity analysis](../l/liquidity_analysis.md). By leveraging advanced technologies such as machine learning, [blockchain](../b/blockchain_in_trading.md), and specialized [risk management](../r/risk_management.md) software, trading firms can better anticipate and mitigate the potential adverse impacts of residual risk, ensuring more consistent and profitable trading outcomes.
 
 Understanding and managing residual risk not only protects trading capital but also aligns trading practices with regulatory standards, making it a crucial competence for any [algorithmic trading](../a/algorithmic_trading.md) firm aiming for long-term success.
 

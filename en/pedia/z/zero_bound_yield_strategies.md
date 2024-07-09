@@ -55,13 +55,13 @@ These include investments like Real Estate, commodities, and infrastructure. The
 Investing in private equity and debt can offer higher returns but comes with higher risk and lower liquidity. These investments aren't as tied to interest rate movements, making them an attractive option in a zero-bound scenario.
 
 ### 5. Quantitative Strategies
-Quantitative strategies leverage mathematical models and statistical methods to identify trading opportunities and manage risks.
+[Quantitative strategies](../q/quantitative_strategies_in_trading.md) leverage [mathematical models](../m/mathematical_models_in_trading.md) and statistical methods to identify trading opportunities and manage risks.
 
 #### Statistical Arbitrage
 This strategy involves the use of statistical models to identify pricing inefficiencies between related financial instruments. Traders move swiftly to exploit these discrepancies, often using high-frequency trading methods for quick execution.
 
 #### Machine Learning Algorithms
-Advanced machine learning algorithms can predict price movements by analyzing vast datasets, creating opportunities even in low-yield environments. These algorithms continually adapt by learning from new data, offering dynamic [trading strategies](../t/trading_strategies.md) that conventional models might miss.
+Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can predict price movements by analyzing vast datasets, creating opportunities even in low-yield environments. These algorithms continually adapt by learning from new data, offering dynamic [trading strategies](../t/trading_strategies.md) that conventional models might miss.
 
 ## Key Considerations
 

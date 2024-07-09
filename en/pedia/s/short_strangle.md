@@ -48,7 +48,7 @@ A short strangle is a sophisticated options trading strategy employed in the fin
 
 3. **[Risk Management](../r/risk_management.md) Parameters**: Develop [risk management](../r/risk_management.md) protocols within the algorithm, including setting [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md) rules, and triggers for adjusting or closing positions if the market moves unfavorably.
 
-4. **Execution Mechanisms**: Use sophisticated order types and execution strategies to ensure that the options are sold at favorable prices, minimizing slippage and maximizing premium received.
+4. **Execution Mechanisms**: Use sophisticated [order types](../o/order_types_in_trading.md) and execution strategies to ensure that the options are sold at favorable prices, minimizing slippage and maximizing premium received.
 
 5. **Monitoring and Adjustment Routines**: The algorithm should continuously monitor the positions and market conditions. If the underlying asset’s price approaches the strike prices, the algorithm may need to adjust the strangle, such as rolling out to a different expiration date or strike prices.
 

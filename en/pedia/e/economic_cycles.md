@@ -10,7 +10,7 @@ Economic cycles, also referred to as business cycles, are characterized by the r
 
 1. **Expansion**: This phase features increased economic activity. Indicators such as GDP, employment rates, and consumer spending rise. Credit availability expands, leading to more investments and consumption. It's a period of growing confidence among businesses and consumers.
   
-2. **Peak**: This marks the high point of the economy, where growth hits its maximum potential. Indicators such as inflation may start to increase, and the growth rates of GDP and employment begin to decelerate. It's often a precursor to an economic slowdown.
+2. **Peak**: This marks the high point of the economy, where growth hits its maximum potential. Indicators such as inflation may start to increase, and the [growth rates](../g/growth_rates_in_trading.md) of GDP and employment begin to decelerate. It's often a precursor to an economic slowdown.
 
 3. **Contraction**: Also known as a recession, contraction is when economic activity begins to decline. Indicators such as GDP, employment, and spending go down. Businesses cut back on investments, and layoffs may occur as companies try to maintain profitability.
 
@@ -60,7 +60,7 @@ Economic cycles significantly impact financial markets and investment strategies
 
 #### Practical Applications in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md), which uses pre-programmed trading instructions, can be enhanced by understanding economic cycles. Algorithms can be tuned to adapt to different phases of economic cycles by integrating indicators like GDP growth rates, inflation rates, and interest rates into their decision-making processes.
+[Algorithmic trading](../a/algorithmic_trading.md), which uses pre-programmed trading instructions, can be enhanced by understanding economic cycles. Algorithms can be tuned to adapt to different phases of economic cycles by integrating indicators like GDP [growth rates](../g/growth_rates_in_trading.md), inflation rates, and interest rates into their decision-making processes.
 
 For instance, during economic expansions, algorithms might favor buying stocks, commodities, or currencies that typically outperform in booming economies. Conversely, during recessions, algorithms could shift focus toward more stable investments like bonds or sectors that are less sensitive to economic downturns.
 

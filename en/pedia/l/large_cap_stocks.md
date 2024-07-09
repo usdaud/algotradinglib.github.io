@@ -24,15 +24,15 @@ Large-cap stocks, often referred to as "blue-chip stocks," are shares of compani
 
 1. **Apple Inc. (AAPL)**: With a market cap typically hovering around $2 trillion, Apple is one of the largest companies in the world. Its dominance in the technology sector and consistent performance make it a favorite among large-cap investors. [Apple Inc.](https://www.apple.com/)
 2. **Microsoft Corporation (MSFT)**: Another tech giant, Microsoft has a market cap of over $1.5 trillion. Known for its software products and expanding cloud services, Microsoft is a staple in many large-cap portfolios. [Microsoft Corporation](https://www.microsoft.com/)
-3. **Amazon.com Inc. (AMZN)**: Amazon's market cap often exceeds $1 trillion. Its dominance in e-commerce and cloud computing has made it one of the most influential companies globally. [Amazon.com Inc.](https://www.amazon.com/)
-4. **Alphabet Inc. (GOOGL)**: The parent company of Google, Alphabet, has a market cap of over $1 trillion. It is a leading player in online advertising, cloud computing, and artificial intelligence. [Alphabet Inc.](https://www.abc.xyz/)
+3. **Amazon.com Inc. (AMZN)**: Amazon's market cap often exceeds $1 trillion. Its dominance in e-commerce and [cloud computing](../c/cloud_computing_in_trading.md) has made it one of the most influential companies globally. [Amazon.com Inc.](https://www.amazon.com/)
+4. **Alphabet Inc. (GOOGL)**: The parent company of Google, Alphabet, has a market cap of over $1 trillion. It is a leading player in online advertising, [cloud computing](../c/cloud_computing_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md). [Alphabet Inc.](https://www.abc.xyz/)
 5. **Johnson & Johnson (JNJ)**: With a market cap exceeding $400 billion, Johnson & Johnson is a significant player in pharmaceuticals and consumer health products. [Johnson & Johnson](https://www.jnj.com/)
 
 ### Risks Associated with Large-Cap Stocks
 
 Despite their stability and lower volatility, large-cap stocks are not without risks:
 
-1. **Slower Growth**: Large-cap companies often have lower growth rates compared to small and mid-cap companies, as they are already well-established.
+1. **Slower Growth**: Large-cap companies often have lower [growth rates](../g/growth_rates_in_trading.md) compared to small and mid-cap companies, as they are already well-established.
 2. **Market Sentiment**: Like all stocks, large-caps are subject to market sentiment and can be impacted by broader economic conditions.
 3. **Regulatory Risks**: Large companies often face stricter regulatory scrutiny, which can impact their operations and profitability.
 4. **Competition**: Even dominant players can face significant competition that can erode their market share and profitability.

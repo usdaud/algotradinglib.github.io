@@ -1,10 +1,10 @@
 # Quantitative Risk Models
 
-Quantitative risk models are mathematical constructs used to understand, quantify, and manage risk in a variety of financial contexts, particularly in [algorithmic trading](../a/algorithmic_trading.md), investment management, and [financial engineering](../f/financial_engineering.md). These models leverage statistical techniques, historical data, and various computational methods to predict and mitigate potential losses. This article delves deeply into the concepts, methodologies, tools, and real-world applications of quantitative risk models in finance.
+Quantitative [risk models](../r/risk_models_in_trading.md) are mathematical constructs used to understand, quantify, and manage risk in a variety of financial contexts, particularly in [algorithmic trading](../a/algorithmic_trading.md), investment management, and [financial engineering](../f/financial_engineering.md). These models leverage statistical techniques, historical data, and various computational methods to predict and mitigate potential losses. This article delves deeply into the concepts, methodologies, tools, and real-world applications of quantitative [risk models](../r/risk_models_in_trading.md) in finance.
 
 ### Overview
 
-Quantitative risk models are essential for identifying and assessing the risks involved in financial investments. They employ algorithms and computational techniques to measure and predict risk, aiding in effective decision-making and risk mitigation.
+Quantitative [risk models](../r/risk_models_in_trading.md) are essential for identifying and assessing the risks involved in financial investments. They employ algorithms and computational techniques to measure and predict risk, aiding in effective decision-making and risk mitigation.
 
 ### Types of Quantitative Risk Models
 
@@ -16,7 +16,7 @@ Quantitative risk models are essential for identifying and assessing the risks i
 2. **Conditional Value at Risk (CVaR)**:
    - Also known as Expected Shortfall, it provides an average loss exceeding the VaR threshold in worst-case scenarios.
 
-3. **Stress Testing**:
+3. **[Stress Testing](../s/stress_testing_in_trading.md)**:
    - Simulates extreme market conditions to assess the effects of abnormal market events on a portfolio.
 
 4. **[Risk-Adjusted Return](../r/risk-adjusted_return.md) Models**:
@@ -43,10 +43,10 @@ Quantitative risk models are essential for identifying and assessing the risks i
 ### Methodologies 
 
 1. **Statistical Methods**:
-   - Involves the use of probability distributions, [regression analysis](../r/regression_analysis.md), and other statistical tools to estimate risk.
+   - Involves the use of [probability distributions](../p/probability_distributions_in_trading.md), [regression analysis](../r/regression_analysis.md), and other statistical tools to estimate risk.
 
 2. **Machine Learning and AI**:
-   - Advanced techniques like neural networks, [decision trees](../d/decision_trees.md), and [clustering algorithms](../c/clustering_algorithms.md) are increasingly utilized to identify and manage risk.
+   - Advanced techniques like [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [clustering algorithms](../c/clustering_algorithms.md) are increasingly utilized to identify and manage risk.
 
 3. **[Simulation Models](../s/simulation_models.md)**:
    - Use various computational techniques, such as [Monte Carlo simulation](../m/monte_carlo_simulation.md), to model and assess risk under different scenarios.
@@ -54,25 +54,25 @@ Quantitative risk models are essential for identifying and assessing the risks i
 ### Tools and Software
 
 1. **MATLAB**: Widely used for developing algorithms and implementing advanced [quantitative models](../q/quantitative_models.md).
-2. **Python**: With libraries like pandas, NumPy, and scikit-learn, Python is a go-to choice for developing risk models.
+2. **Python**: With libraries like pandas, NumPy, and scikit-learn, Python is a go-to choice for developing [risk models](../r/risk_models_in_trading.md).
 3. **R**: Known for its statistical capabilities, R is extensively used for [risk analysis](../r/risk_analysis.md) and modeling.
 4. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Software such as MetaTrader, [NinjaTrader](../n/ninjatrader.md), and proprietary platforms often incorporate [risk management](../r/risk_management.md) tools too.
 
 ### Applications in Financial Contexts
 
 1. **[Portfolio Management](../p/portfolio_management.md)**:
-   - Quantitative risk models help portfolio managers create and manage portfolios that balance expected returns against risk.
+   - Quantitative [risk models](../r/risk_models_in_trading.md) help portfolio managers create and manage portfolios that balance expected returns against risk.
 
 2. **[Algorithmic Trading](../a/algorithmic_trading.md)**:
    - Algorithms incorporate risk measures to make real-time decisions on buying and selling assets while minimizing potential losses.
 
 3. **Regulatory Compliance**:
-   - Financial institutions employ risk models to comply with regulatory requirements like Basel III and Dodd-Frank.
+   - Financial institutions employ [risk models](../r/risk_models_in_trading.md) to comply with regulatory requirements like Basel III and Dodd-Frank.
 
 ### Case Studies and Real-World Examples
 
 1. **Dimensional Fund Advisors (DFA)**:
-   - Uses quantitative risk models to structure and manage portfolios with a focus on [systematic risk](../s/systematic_risk.md) factors.
+   - Uses quantitative [risk models](../r/risk_models_in_trading.md) to structure and manage portfolios with a focus on [systematic risk](../s/systematic_risk.md) factors.
 
     [Dimensional Fund Advisors](https://www.dimensional.com)
 
@@ -91,7 +91,7 @@ Quantitative risk models are essential for identifying and assessing the risks i
 **Advantages**:
 - **Precision**: [Quantitative models](../q/quantitative_models.md) provide precise measurements of risk which helps in making informed decisions.
 - **Automation**: Models can be automated to continually assess risk in real-time, crucial for high-frequency trading.
-- **Comprehensive Analysis**: They can integrate various risk factors and provide a holistic view of potential exposures.
+- **Comprehensive Analysis**: They can integrate various [risk factors](../r/risk_factors_in_trading.md) and provide a holistic view of potential exposures.
 
 **Disadvantages**:
 - **Model Risk**: The risk of inaccuracy due to incorrect or oversimplified models.
@@ -100,15 +100,15 @@ Quantitative risk models are essential for identifying and assessing the risks i
 
 ### Future Trends
 
-1. **Integration of Big Data and Analytics**:
+1. **Integration of [Big Data](../b/big_data_in_trading.md) and Analytics**:
    - Leveraging vast datasets and advanced analytics to improve risk modeling accuracy.
 
 2. **Enhanced Machine Learning Techniques**:
-   - The ongoing advancements in AI and machine learning are likely to bring more sophisticated and adaptive risk models.
+   - The ongoing advancements in AI and machine learning are likely to bring more sophisticated and adaptive [risk models](../r/risk_models_in_trading.md).
 
 3. **Increased Focus on Cyber Risk**:
    - With digitalization, models assessing cybersecurity risks are becoming increasingly important.
 
 ### Conclusion
 
-Quantitative risk models are indispensable in today's financial landscape. They provide valuable insights that help in understanding and mitigating risks, crucial for sustaining profitable and resilient financial operations. As technology evolves, these models will continue to improve, offering more precision and adaptability in managing future financial uncertainties.
+Quantitative [risk models](../r/risk_models_in_trading.md) are indispensable in today's financial landscape. They provide valuable insights that help in understanding and mitigating risks, crucial for sustaining profitable and resilient financial operations. As technology evolves, these models will continue to improve, offering more precision and adaptability in managing future financial uncertainties.

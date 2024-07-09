@@ -1,6 +1,6 @@
 # Learning Algorithms
 
-[Algorithmic trading](../a/algorithmic_trading.md), often abbreviated as algo-trading, involves using computer algorithms to automate trading decisions, usually at speeds and frequencies that are impossible for human traders. Learning algorithms, a subset of the broader machine learning and artificial intelligence (AI) fields, are increasingly transforming how trading is conducted on financial markets. These algorithms analyze data, generate predictive models, and often execute trades without human intervention. This document delves into various learning algorithms applied in the trading sector, their types, methodologies, practical applications, and the ethical considerations associated with their use.
+[Algorithmic trading](../a/algorithmic_trading.md), often abbreviated as algo-trading, involves using computer algorithms to automate trading decisions, usually at speeds and frequencies that are impossible for human traders. Learning algorithms, a subset of the broader machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) fields, are increasingly transforming how trading is conducted on financial markets. These algorithms analyze data, generate [predictive models](../p/predictive_models_in_trading.md), and often execute trades without human intervention. This document delves into various learning algorithms applied in the trading sector, their types, methodologies, practical applications, and the ethical considerations associated with their use.
 
 ## Types of Learning Algorithms in Trading
 
@@ -18,15 +18,15 @@ Supervised learning algorithms are among the most commonly used in trading. The 
 
 - **[Linear Regression](../l/linear_regression.md)**: Used to predict the value of a continuous target variable based on one or more predictor variables. Common applications include predicting stock prices, returns, and other continuous outcomes.
   
-- **Logistic Regression**: Used for binary classification problems. In trading, it can be used to predict whether the price of a stock will go up or down.
+- **[Logistic Regression](../l/logistic_regression_in_trading.md)**: Used for binary classification problems. In trading, it can be used to predict whether the price of a stock will go up or down.
   
 - **[Decision Trees](../d/decision_trees.md)**: A flowchart-like structure where each internal node represents a decision rule on one of the input features, and each leaf node represents an output. It is used for both classification and regression tasks.
   
-- **Random Forests**: An ensemble method that constructs multiple [decision trees](../d/decision_trees.md) and merges their results to achieve better performance and robustness.
+- **[Random Forests](../r/random_forests_in_trading.md)**: An ensemble method that constructs multiple [decision trees](../d/decision_trees.md) and merges their results to achieve better performance and robustness.
   
-- **Support Vector Machines (SVMs)**: Used for both classification and regression tasks, relying on finding a hyperplane that best separates the classes in the training data.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs)**: Used for both classification and regression tasks, relying on finding a hyperplane that best separates the classes in the training data.
   
-- **Neural Networks**: Particularly deep learning models, can be used for more complex prediction tasks where many features and non-linear relationships are involved.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Particularly deep learning models, can be used for more complex prediction tasks where many features and non-linear relationships are involved.
 
 ### Unsupervised Learning
 
@@ -34,7 +34,7 @@ Unsupervised learning algorithms identify patterns in data without pre-existing 
 
 - **[Clustering Algorithms](../c/clustering_algorithms.md)**: Such as K-means, used to group similar market conditions or classify trading days.
   
-- **Principal Component Analysis (PCA)**: Used to reduce the dimensionality of the dataset, helping to simplify models by eliminating noise and redundancy.
+- **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Used to reduce the dimensionality of the dataset, helping to simplify models by eliminating noise and redundancy.
   
 - **[Anomaly Detection](../a/anomaly_detection.md)**: Algorithms like Isolation Forest and One-Class SVM that can identify unexpected market movements or outliers that may signify trading opportunities.
 
@@ -98,7 +98,7 @@ Learning algorithms can be applied to various [trading strategies](../t/trading_
 
 ### Sentiment Analysis
 
-- **News and [Sentiment Analysis](../s/sentiment_analysis.md)**: Using natural language processing (NLP) to analyze news articles, social media, and other text-based data sources to gauge market sentiment and predict its impact on stock prices.
+- **News and [Sentiment Analysis](../s/sentiment_analysis.md)**: Using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze news articles, social media, and other text-based data sources to gauge market sentiment and predict its impact on stock prices.
 
 ## Ethical Considerations in Algorithmic Trading
 

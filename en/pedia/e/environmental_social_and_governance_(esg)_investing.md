@@ -32,7 +32,7 @@ Governance criteria relate to a company’s leadership, executive pay, audits, i
 By including ESG factors in their investment analyses, investors can better understand potential risks that are not captured by traditional financial analysis alone. For instance, a company with poor environmental practices may face fines, regulatory restrictions, or reputational damage.
 
 ##### 2.2 Long-Term Returns
-Companies that score highly on ESG criteria tend to have more sustainable business practices, which can lead to better long-term financial performance. Sustainable practices can result in cost savings, increased operational efficiency, and new market opportunities.
+Companies that score highly on ESG criteria tend to have more sustainable business practices, which can lead to better long-term financial performance. Sustainable practices can result in cost savings, increased [operational efficiency](../o/operational_efficiency_in_trading.md), and new market opportunities.
 
 ##### 2.3 Aligning with Values
 ESG investing allows investors to align their portfolios with their personal values, promoting positive societal and environmental outcomes. Many investors find value in supporting companies that contribute to better communities and a healthier planet.
@@ -119,7 +119,7 @@ The future of ESG investing looks promising, with several trends expected to sha
 There is increasing momentum towards better ESG disclosure and the establishment of global reporting standards. Frameworks like the Task Force on Climate-related Financial Disclosures (TCFD) and potential international standards from bodies like the International Sustainability Standards Board (ISSB) aim to enhance transparency and comparability.
 
 ##### 7.2 Technological Integration
-Advancements in technology, including AI and big data analytics, are enhancing ESG research capabilities. These technologies facilitate the collection, processing, and analysis of large volumes of ESG data, enabling more accurate and timely assessments of ESG performance.
+Advancements in technology, including AI and [big data analytics](../b/big_data_analytics_in_trading.md), are enhancing ESG research capabilities. These technologies facilitate the collection, processing, and analysis of large volumes of ESG data, enabling more accurate and timely assessments of ESG performance.
 
 ##### 7.3 Regulatory Developments
 Governments and regulatory bodies around the world are increasingly focusing on sustainable finance. Legislative measures could mandate greater ESG disclosure and accountability from corporations, further embedding ESG principles into investment practices.

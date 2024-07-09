@@ -8,7 +8,7 @@ Alpaca is a commission-free, API-first stock brokerage platform that allows deve
 2. **Powerful API**: Provides a RESTful API and WebSocket for accessing real-time and historical market data, as well as executing trades.
 3. **Fractional Shares**: Supports trading of fractional shares, enabling investment in high-priced stocks with smaller amounts of capital.
 4. **Paper Trading**: Offers a paper [trading environment](../t/trading_environment.md) to test and refine [trading strategies](../t/trading_strategies.md) without risking real money.
-5. **Advanced Order Types**: Supports various order types including market, limit, stop, and trailing stop orders.
+5. **Advanced [Order Types](../o/order_types_in_trading.md)**: Supports various [order types](../o/order_types_in_trading.md) including market, limit, stop, and trailing stop orders.
 6. **Algo Trading**: Enables [algorithmic trading](../a/algorithmic_trading.md) with support for automated [trading strategies](../t/trading_strategies.md).
 7. **Market Data**: Provides real-time and historical market data through APIs.
 8. **Commission-Free**: Zero commission fees for trading U.S. equities.

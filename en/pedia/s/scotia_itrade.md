@@ -9,7 +9,7 @@ Scotia iTRADE is an online brokerage platform provided by Scotiabank, one of Can
 3. **Research and Analysis**: Comprehensive research reports, market news, and analysis tools to support informed investment decisions.
 4. **Educational Resources**: Extensive educational materials, including webinars, tutorials, articles, and market analysis to help traders improve their skills.
 5. **[Portfolio Management](../p/portfolio_management.md)**: Tools for tracking and managing investment portfolios efficiently.
-6. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced order types, [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
+6. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced [order types](../o/order_types_in_trading.md), [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
 7. **Retirement Accounts**: Various account types including RRSPs, TFSAs, and RESPs.
 8. **Mobile Trading**: Mobile apps for iOS and Android devices, allowing trading on the go.
 9. **Secure and Regulated**: Scotia iTRADE is regulated by top-tier financial authorities in Canada, ensuring a secure [trading environment](../t/trading_environment.md).

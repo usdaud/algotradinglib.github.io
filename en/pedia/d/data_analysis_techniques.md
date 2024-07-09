@@ -1,6 +1,6 @@
 # Data Analysis Techniques
 
-[Algorithmic trading](../a/algorithmic_trading.md), often called "algo trading," uses computer algorithms to automate trading activities, thereby enhancing trading efficiency and reducing the impact of human greed, fear, and other behavioral biases. Data analysis is a foundational element of successful [algorithmic trading](../a/algorithmic_trading.md) strategies. In this extensive guide, we will delve deep into the techniques used for data analysis in the context of [algorithmic trading](../a/algorithmic_trading.md).
+[Algorithmic trading](../a/algorithmic_trading.md), often called "algo trading," uses computer algorithms to automate trading activities, thereby enhancing trading efficiency and reducing the impact of human greed, fear, and other [behavioral biases](../b/behavioral_biases_in_trading.md). Data analysis is a foundational element of successful [algorithmic trading](../a/algorithmic_trading.md) strategies. In this extensive guide, we will delve deep into the techniques used for data analysis in the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## 1. Historical Data Analysis
 
@@ -34,13 +34,13 @@ Machine learning (ML) algorithms allow traders to build models that can learn fr
 
 ### Techniques
 
-- **Supervised Learning:** In situations where historical data is labeled, algorithms like [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), SVM (Support Vector Machines), and neural networks are implemented.
-- **Unsupervised Learning:** When dealing with unlabeled data, algorithms like K-Means clustering and PCA (Principal Component Analysis) are commonly used to find hidden patterns.
+- **Supervised Learning:** In situations where historical data is labeled, algorithms like [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), SVM ([Support Vector Machines](../s/support_vector_machines_in_trading.md)), and [neural networks](../n/neural_networks_in_trading.md) are implemented.
+- **Unsupervised Learning:** When dealing with unlabeled data, algorithms like [K-Means clustering](../k/k-means_clustering_in_trading.md) and PCA ([Principal Component Analysis](../p/principal_component_analysis_(pca).md)) are commonly used to find hidden patterns.
 - **Reinforcement Learning:** Algorithms learn to make decisions by receiving feedback from their actions in the [trading environment](../t/trading_environment.md).
 
 ## 4. Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) involves evaluating the sentiment behind news articles, social media posts, and other text data to predict market movements. Natural language processing (NLP) techniques are widely used in this domain.
+[Sentiment analysis](../s/sentiment_analysis.md) involves evaluating the sentiment behind news articles, social media posts, and other text data to predict market movements. [Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques are widely used in this domain.
 
 ### Techniques
 
@@ -75,7 +75,7 @@ Effective [risk management](../r/risk_management.md) is crucial for the sustaina
 ### Techniques
 
 - **Value at Risk (VaR):** Measures the potential loss in value of a portfolio within a specific confidence interval over a defined period.
-- **Stress Testing:** Simulating extreme market conditions to evaluate how the portfolio would perform under unusual scenarios.
+- **[Stress Testing](../s/stress_testing_in_trading.md):** Simulating extreme market conditions to evaluate how the portfolio would perform under unusual scenarios.
 - **[Position Sizing](../p/position_sizing.md):** Determining the optimal amount to invest in each trade to manage risk effectively.
 
 ## 8. Optimization Techniques
@@ -84,7 +84,7 @@ Optimization techniques are used to fine-tune [trading strategies](../t/trading_
 
 ### Techniques
 
-- **Parameter Optimization:** Using methods like grid search, random search, and [Bayesian optimization](../b/bayesian_optimization.md) to find the best parameters for [trading algorithms](../t/trading_algorithms.md).
+- **Parameter Optimization:** Using methods like [grid search](../g/grid_search_in_trading.md), random search, and [Bayesian optimization](../b/bayesian_optimization.md) to find the best parameters for [trading algorithms](../t/trading_algorithms.md).
 - **[Portfolio Optimization](../p/portfolio_optimization.md):** Techniques like Modern Portfolio Theory (MPT) and [Efficient Frontier](../e/efficient_frontier.md) help in constructing a portfolio that offers the highest expected return for a defined level of risk.
 
 ## 9. Data Sourcing
@@ -99,7 +99,7 @@ Accurate and reliable data is the backbone of successful [algorithmic trading](.
 
 ## 10. Software and Tools
 
-Numerous software platforms and tools assist in performing data analysis for [algorithmic trading](../a/algorithmic_trading.md).
+Numerous [software platforms](../s/software_platforms_for_trading.md) and tools assist in performing data analysis for [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Tools
 

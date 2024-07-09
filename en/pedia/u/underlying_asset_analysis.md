@@ -63,7 +63,7 @@ Investors’ collective attitudes and emotions can heavily influence the prices 
 
 ### Economic Indicators
 
-Economic data such as GDP growth rates, unemployment figures, and inflation rates can impact the value of underlying assets significantly. Strong economic performance generally boosts asset prices, while weak data can have the opposite effect.
+Economic data such as GDP [growth rates](../g/growth_rates_in_trading.md), unemployment figures, and inflation rates can impact the value of underlying assets significantly. Strong economic performance generally boosts asset prices, while weak data can have the opposite effect.
 
 ### Corporate Earnings and Reports
 
@@ -101,7 +101,7 @@ For international investments and commodities priced in specific currencies, exc
 
 ### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) leverages news data, social media, and other sources to gauge investor sentiment. Techniques often involve natural language processing (NLP) to analyze textual data.
+[Sentiment analysis](../s/sentiment_analysis.md) leverages news data, social media, and other sources to gauge investor sentiment. Techniques often involve [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze textual data.
 
 ### Machine Learning and AI
 

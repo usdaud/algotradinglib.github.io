@@ -45,9 +45,9 @@ The [Variance-Covariance method](../v/variance-covariance_method.md) assumes tha
 
 ### 3. Monte Carlo Simulation
 
-[Monte Carlo Simulation](../m/monte_carlo_simulation.md) involves generating a large number of possible future return scenarios using specified statistical distributions and risk factors. The basic steps include:
+[Monte Carlo Simulation](../m/monte_carlo_simulation.md) involves generating a large number of possible future return scenarios using specified statistical distributions and [risk factors](../r/risk_factors_in_trading.md). The basic steps include:
 
-- Define the distribution of returns and risk factors.
+- Define the distribution of returns and [risk factors](../r/risk_factors_in_trading.md).
 - Simulate a large number of possible future price paths (e.g., 10,000 scenarios).
 - Calculate the potential portfolio values at the end of the time horizon for each scenario.
 - Determine the potential loss corresponding to the desired confidence level.
@@ -58,7 +58,7 @@ While VaR is a powerful tool, it also has several limitations:
 
 ### 1. Assumption of Normal Distribution
 
-VaR methods, especially Variance-Covariance, often assume that returns follow a normal distribution. However, financial returns tend to have fatter tails (i.e., higher probability of extreme events) than normal distribution would suggest.
+VaR methods, especially Variance-Covariance, often assume that returns follow a [normal distribution](../n/normal_distribution_in_trading.md). However, financial returns tend to have fatter tails (i.e., higher probability of extreme events) than [normal distribution](../n/normal_distribution_in_trading.md) would suggest.
 
 ### 2. Lack of Tail Risk Insights
 
@@ -98,11 +98,11 @@ Several software solutions and tools are available for calculating and managing 
 
 ### Bloomberg Terminal
 
-The [Bloomberg](../b/bloomberg.md) Terminal offers comprehensive [risk management](../r/risk_management.md) tools, including VaR calculations, scenario analysis, and stress testing. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+The [Bloomberg](../b/bloomberg.md) Terminal offers comprehensive [risk management](../r/risk_management.md) tools, including VaR calculations, scenario analysis, and [stress testing](../s/stress_testing_in_trading.md). [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### MSCI BarraOne
 
-BarraOne is a multi-asset class risk and [performance analytics](../p/performance_analytics.md) platform by MSCI, which includes advanced VaR analytics and stress testing. [MSCI BarraOne](https://www.msci.com/our-solutions/multi-asset-class-risk/analytics/portfolio-management)
+BarraOne is a multi-asset class risk and [performance analytics](../p/performance_analytics.md) platform by MSCI, which includes advanced VaR analytics and [stress testing](../s/stress_testing_in_trading.md). [MSCI BarraOne](https://www.msci.com/our-solutions/multi-asset-class-risk/analytics/portfolio-management)
 
 ### RiskMetrics by MSCI
 

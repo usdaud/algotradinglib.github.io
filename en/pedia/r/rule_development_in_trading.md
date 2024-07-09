@@ -78,8 +78,8 @@ Once the rules have been thoroughly tested and optimized, they can be deployed i
 
 Machine learning (ML) can enhance rule development by identifying complex patterns and adapting to changing market conditions. Various ML models are used, such as:
 
-- **Supervised Learning:** Algorithms like Random Forest, Support Vector Machines, and Neural Networks are trained using labeled historical data.
-- **Unsupervised Learning:** Models like k-means clustering can identify inherent market patterns without preset labels.
+- **Supervised Learning:** Algorithms like Random Forest, [Support Vector Machines](../s/support_vector_machines_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) are trained using labeled historical data.
+- **Unsupervised Learning:** Models like [k-means clustering](../k/k-means_clustering_in_trading.md) can identify inherent market patterns without preset labels.
   
 Integration of platforms like [TensorFlow](https://www.tensorflow.org/) for Python allows for sophisticated ML model building and usage in algo trading.
 
@@ -89,7 +89,7 @@ Numerous frameworks help simplify rule development and algo trading:
 
 - **[QuantConnect](../q/quantconnect.md):** An open-source platform that supports multiple languages and connects to live markets for automated trading.
 - **[Quantlib](../q/quantlib.md):** A free/open-source library for [quantitative finance](../q/quantitative_finance.md).
-- **ib_insync:** A Pythonic wrapper for the Interactive Brokers API that simplifies rule implementation.
+- **ib_insync:** A Pythonic wrapper for the [Interactive Brokers](../i/interactive_brokers.md) API that simplifies rule implementation.
 
 ### Regulatory Considerations
 

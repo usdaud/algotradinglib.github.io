@@ -6,7 +6,7 @@ Worldwide market trends encompass the various shifts and patterns observed in di
 ## Technological Innovation
 
 ### Artificial Intelligence and Machine Learning
-Artificial Intelligence (AI) and Machine Learning (ML) are revolutionizing industries by automating processes, enhancing productivity, and enabling data-driven decision-making. Their applications are vast, ranging from [predictive analytics](../p/predictive_analytics.md) in finance to autonomous driving in the automotive sector.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are revolutionizing industries by automating processes, enhancing productivity, and enabling data-driven decision-making. Their applications are vast, ranging from [predictive analytics](../p/predictive_analytics.md) in finance to autonomous driving in the automotive sector.
 
 - **Finance:** AI is being leveraged in [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md), and fraud detection. For example, firms like [Renaissance Technologies](https://www.rentec.com/) use complex algorithms to generate substantial returns on investments.
   
@@ -56,7 +56,7 @@ Sustainability has become a critical consideration for consumers. Brands that pr
 ## Geopolitical Influences
 
 ### Trade Wars
-Trade wars, such as those between the U.S. and China, impact global market trends by disrupting supply chains, altering tariff structures, and creating uncertainty.
+Trade wars, such as those between the U.S. and China, impact global market trends by disrupting supply chains, altering tariff structures, and creating [uncertainty](../u/uncertainty_in_trading.md).
 
 - **U.S. Tariffs on China:** The imposition of tariffs on Chinese goods by the U.S. has led to shifts in global supply chains, with companies relocating production to other Asian countries.
 

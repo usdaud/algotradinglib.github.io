@@ -50,7 +50,7 @@ The OAS is extensively used by professional investors, including portfolio manag
 
 ### Limitations of OAS
 
-1. **Complexity**: Calculating OAS involves complex mathematical models and assumptions, which can be a barrier for some investors.
+1. **Complexity**: Calculating OAS involves complex [mathematical models](../m/mathematical_models_in_trading.md) and assumptions, which can be a barrier for some investors.
 2. **Model Dependency**: The accuracy of OAS calculations depends heavily on the [interest rate models](../i/interest_rate_models.md) and assumptions used.
 
 ### Key Players in OAS Analysis

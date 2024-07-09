@@ -21,7 +21,7 @@ There is always a risk that the merged entity might not perform as expected fina
 Integration risk is the challenge of effectively merging the operations, cultures, and practices of the acquiring and target companies. Poor integration can lead to disruptions in business operations, loss of key personnel, and failure to realize anticipated synergies.
 
 ### Technology Integration
-Combining different IT systems, software platforms, and technological infrastructures can be complex and fraught with risk. Incompatibilities can lead to operational disruptions, data breaches, and increased costs.
+Combining different IT systems, [software platforms](../s/software_platforms_for_trading.md), and technological infrastructures can be complex and fraught with risk. Incompatibilities can lead to operational disruptions, data breaches, and increased costs.
 
 ### Human Capital Risk
 The loss of key employees, cultural clashes, and morale issues can all pose significant risks to successful integration. Employees from the target company may feel uncertain or dissatisfied, leading to increased turnover and decreased productivity.

@@ -2,7 +2,7 @@
 
 Green bonds are a type of fixed-income instrument specifically earmarked to raise money for climate and environmental projects. These bonds are an essential financial tool in the fight against global warming and the promotion of sustainability. A green bond is similar to a traditional bond in terms of its structure, risk, and returns, but the significant difference lies in its purpose: the funds raised by green bonds are exclusively dedicated to projects with positive environmental impacts. 
 
-[Algorithmic trading](../a/algorithmic_trading.md), often abbreviated as algo trading, involves the use of computer algorithms to automate the trading process. It leverages advanced mathematical models and high-speed computation to execute the buying and selling of securities more efficiently than manual trading. The intersection of green bonds and [algorithmic trading](../a/algorithmic_trading.md) represents a promising frontier for both finance and environmentalism.
+[Algorithmic trading](../a/algorithmic_trading.md), often abbreviated as algo trading, involves the use of computer algorithms to automate the trading process. It leverages advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computation to execute the buying and selling of securities more efficiently than manual trading. The intersection of green bonds and [algorithmic trading](../a/algorithmic_trading.md) represents a promising frontier for both finance and environmentalism.
 
 ## Key Features of Green Bonds
 
@@ -46,7 +46,7 @@ Momentum strategies in [algorithmic trading](../a/algorithmic_trading.md) can be
 [Mean reversion](../m/mean_reversion.md) strategies based on the statistical analysis of green bond prices can be utilized. Algorithms can be designed to buy undervalued bonds and sell overvalued ones, contributing to [market efficiency](../m/market_efficiency.md).
 
 ### 3. Machine Learning Models
-Machine learning models can predict the performance of green bonds by analyzing historical data, environmental metrics, and relevant news articles. These predictive models can inform trading decisions and [risk management](../r/risk_management.md).
+Machine learning models can predict the performance of green bonds by analyzing historical data, environmental metrics, and relevant news articles. These [predictive models](../p/predictive_models_in_trading.md) can inform trading decisions and [risk management](../r/risk_management.md).
 
 ## Risks and Challenges
 

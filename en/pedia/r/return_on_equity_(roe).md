@@ -1,6 +1,6 @@
 # Return on Equity (ROE)
 
-Return on Equity (ROE) is a financial performance metric that measures the profitability of a company relative to shareholders' equity. Essentially, it calculates how efficiently a company uses the capital invested by its shareholders to generate profit. ROE is one of the most important indicators of a company's financial health and operational efficiency. It is of particular significance in the context of [algorithmic trading](../a/algorithmic_trading.md) as it helps traders and investors evaluate the quality of potential investments based on how well a company's management is utilizing equity to generate earnings.
+Return on Equity (ROE) is a financial performance metric that measures the profitability of a company relative to shareholders' equity. Essentially, it calculates how efficiently a company uses the capital invested by its shareholders to generate profit. ROE is one of the most important indicators of a company's financial health and [operational efficiency](../o/operational_efficiency_in_trading.md). It is of particular significance in the context of [algorithmic trading](../a/algorithmic_trading.md) as it helps traders and investors evaluate the quality of potential investments based on how well a company's management is utilizing equity to generate earnings.
 
 ## Calculation and Formula
 
@@ -36,7 +36,7 @@ In this formula:
 
 4. **Dividend Policy**: Retained earnings that are reinvested into the company can enhance equity and future profit, impacting ROE positively.
 
-5. **Operational Efficiency**: Better management and operational efficiency can lead to higher net income without needing proportionate equity investment increases, thus boosting ROE.
+5. **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**: Better management and [operational efficiency](../o/operational_efficiency_in_trading.md) can lead to higher net income without needing proportionate equity investment increases, thus boosting ROE.
 
 ## Practical Considerations
 
@@ -46,11 +46,11 @@ When using ROE in [algorithmic trading](../a/algorithmic_trading.md), several pr
 
 2. **Short-Term vs Long-Term**: ROE is a longer-term efficiency measure and might not be as effective for short-term [algorithmic trading](../a/algorithmic_trading.md) decisions focused on rapid micro-fluctuations in stock prices.
 
-3. **One of Many Metrics**: While important, ROE should not be the sole determinant in any trading algorithm. It should be considered in conjunction with other [financial ratios](../f/financial_ratios.md) like Return on Assets (ROA), Debt to Equity ratio, and Earnings per Share (EPS), among others.
+3. **One of Many Metrics**: While important, ROE should not be the sole determinant in any trading algorithm. It should be considered in conjunction with other [financial ratios](../f/financial_ratios.md) like [Return on Assets](../r/return_on_assets_(roa).md) (ROA), Debt to Equity ratio, and Earnings per Share (EPS), among others.
 
 ## Tools and Software
 
-Several software platforms and tools provide capabilities to compute, analyze, and integrate ROE into [algorithmic trading](../a/algorithmic_trading.md) strategies. Some notable examples include:
+Several [software platforms](../s/software_platforms_for_trading.md) and tools provide capabilities to compute, analyze, and integrate ROE into [algorithmic trading](../a/algorithmic_trading.md) strategies. Some notable examples include:
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive financial tool that provides extensive data on financial metrics, including ROE, and allows for the creation of customized algorithms.
 - **Thomson [Reuters](../r/reuters.md) Eikon**: Similar to [Bloomberg](../b/bloomberg.md), Eikon provides detailed financial metrics and [quantitative analysis](../q/quantitative_analysis.md) tools suitable for [algorithmic trading](../a/algorithmic_trading.md).

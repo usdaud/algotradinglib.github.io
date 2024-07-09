@@ -24,7 +24,7 @@ The pricing of One-Touch options is more complex than vanilla options due to the
 3. **Interest Rates:** Raised rates can influence the asset's price dynamics over time.
 4. **Distance from Barrier:** The closer the current price is to the barrier, the higher the probability and, consequently, the cost of the option.
 
-Advanced mathematical models and numerical methods such as Monte Carlo simulations and PDE (Partial Differential Equations) are employed to estimate the price of One-Touch options.
+Advanced [mathematical models](../m/mathematical_models_in_trading.md) and [numerical methods](../n/numerical_methods_in_trading.md) such as Monte Carlo simulations and PDE (Partial Differential Equations) are employed to estimate the price of One-Touch options.
 
 ## Risk Management
 
@@ -46,7 +46,7 @@ In the institutional landscape, banks and hedge funds frequently utilize One-Tou
 
 - **Goldman Sachs [goldmansachs.com]**
 - **J.P Morgan [jpmorgan.com]**
-- **Interactive Brokers [interactivebrokers.com]**
+- **[Interactive Brokers](../i/interactive_brokers.md) [interactivebrokers.com]**
 
 These institutions and platforms provide necessary infrastructure, [risk management](../r/risk_management.md) tools, and expert analysis required for trading complex options.
 

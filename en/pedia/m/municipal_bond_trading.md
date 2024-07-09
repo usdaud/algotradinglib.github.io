@@ -62,7 +62,7 @@ Entities that facilitate the buying and selling of bonds in the secondary market
 
 ### Role of Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) uses mathematical models and automated algorithms to execute trades at high speeds and volumes, often without human intervention. In the municipal bond market, [algorithmic trading](../a/algorithmic_trading.md) can enhance efficiency, pricing accuracy, and liquidity. Firms like BlackRock (https://www.blackrock.com/) and Two Sigma (https://www.twosigma.com/) are known for employing advanced technologies in their [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md) uses [mathematical models](../m/mathematical_models_in_trading.md) and automated algorithms to execute trades at high speeds and volumes, often without human intervention. In the municipal bond market, [algorithmic trading](../a/algorithmic_trading.md) can enhance efficiency, pricing accuracy, and liquidity. Firms like BlackRock (https://www.blackrock.com/) and Two Sigma (https://www.twosigma.com/) are known for employing advanced technologies in their [trading strategies](../t/trading_strategies.md).
 
 #### Advantages of Algorithmic Trading
 

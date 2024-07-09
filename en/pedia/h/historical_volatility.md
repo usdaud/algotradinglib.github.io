@@ -24,7 +24,7 @@ Algo [trading strategies](../t/trading_strategies.md) often incorporate [risk ma
 
 ### Strategy Development
 
-Algorithmic traders use historical volatility to develop predictive models and refine [trading strategies](../t/trading_strategies.md). For instance, [mean reversion](../m/mean_reversion.md) strategies capitalize on periods of low volatility, while momentum strategies may perform better in high-volatility environments.
+Algorithmic traders use historical volatility to develop [predictive models](../p/predictive_models_in_trading.md) and refine [trading strategies](../t/trading_strategies.md). For instance, [mean reversion](../m/mean_reversion.md) strategies capitalize on periods of low volatility, while momentum strategies may perform better in high-volatility environments.
 
 ### Pricing Derivatives
 

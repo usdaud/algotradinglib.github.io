@@ -20,7 +20,7 @@ Some key terms relevant to game theory in zero-sum investing include:
 
 - **Pure strategy**: A straightforward approach where a player consistently follows a single course of action.
 - **Mixed strategy**: An approach involving probabilistic decision-making to keep opponents uncertain.
-- **Nash equilibrium**: A game theory concept where no player can benefit by unilaterally changing their strategy, assuming other players' strategies remain constant.
+- **[Nash equilibrium](../n/nash_equilibrium_in_trading.md)**: A game theory concept where no player can benefit by unilaterally changing their strategy, assuming other players' strategies remain constant.
 
 ## Examples of Zero-Sum Games in Investing
 

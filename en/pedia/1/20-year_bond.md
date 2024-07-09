@@ -45,7 +45,7 @@ The 20-year bond, a type of fixed-income security, is a debt instrument with a m
 ### Risk Management Models
 
 1. **Value-at-Risk (VaR):** Estimating the potential loss in bond portfolio value due to market movements over a specified time frame.
-2. **Stress Testing:** Simulating extreme market conditions to gauge the impact on bond portfolios and to inform risk mitigation strategies.
+2. **[Stress Testing](../s/stress_testing_in_trading.md):** Simulating extreme market conditions to gauge the impact on bond portfolios and to inform risk mitigation strategies.
 
 ## Tools and Platforms
 
@@ -74,7 +74,7 @@ The 20-year bond, a type of fixed-income security, is a debt instrument with a m
 ### Crisis Events
 
 1. **Example:** The impact of the COVID-19 pandemic on long-duration bond yields and price volatility.
-2. **Analysis:** Stress testing bond portfolios under pandemic conditions and adjusting holdings to mitigate potential losses.
+2. **Analysis:** [Stress testing](../s/stress_testing_in_trading.md) bond portfolios under pandemic conditions and adjusting holdings to mitigate potential losses.
 
 ## Conclusion
 

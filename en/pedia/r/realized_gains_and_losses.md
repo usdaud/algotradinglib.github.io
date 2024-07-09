@@ -62,7 +62,7 @@ Several tools and software are available to help algorithmic traders track their
 Modern trading platforms come with built-in features for tracking gains and losses. These platforms can integrate directly with a trader’s algorithms to provide real-time reports.
 
 ### Custom Solutions
-Firms often develop custom solutions tailored to their specific needs. These systems may use machine learning and big data to optimize [trading strategies](../t/trading_strategies.md) and track realized gains and losses effectively.
+Firms often develop custom solutions tailored to their specific needs. These systems may use machine learning and [big data](../b/big_data_in_trading.md) to optimize [trading strategies](../t/trading_strategies.md) and track realized gains and losses effectively.
 
 ### External Service Providers
 Several companies provide specialized services to help track and report gains and losses. These services are particularly valuable for smaller firms that may not have the resources to develop internal solutions.

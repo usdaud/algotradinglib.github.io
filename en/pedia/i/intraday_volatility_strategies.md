@@ -11,7 +11,7 @@ Volatility is a statistical measure of the dispersion of returns for a given sec
 Liquidity refers to the ability of an asset to be bought or sold in the market without affecting its price. High liquidity is essential for intraday traders to ensure they can enter and exit positions quickly without causing significant price impact. Assets with high trading volumes typically offer the best liquidity.
 
 ### Technical Indicators
-[Technical indicators](../t/technical_indicators.md) are mathematical calculations based on historical price, volume, or open interest information. Intraday traders use these indicators to identify patterns and trends that may predict future price movements. Common [technical indicators](../t/technical_indicators.md) used in intraday volatility strategies include Moving Averages, [Bollinger Bands](../b/bollinger_bands.md), Relative Strength Index (RSI), and the Average True Range (ATR).
+[Technical indicators](../t/technical_indicators.md) are mathematical calculations based on historical price, volume, or open interest information. Intraday traders use these indicators to identify patterns and trends that may predict future price movements. Common [technical indicators](../t/technical_indicators.md) used in intraday volatility strategies include Moving Averages, [Bollinger Bands](../b/bollinger_bands.md), Relative Strength Index (RSI), and the [Average True Range](../a/average_true_range_(atr).md) (ATR).
 
 ## Common Intraday Volatility Strategies
 

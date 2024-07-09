@@ -7,7 +7,7 @@ Jigsaw Trading is a trading software company that provides advanced tools and ed
 1. **[Order Flow Analysis](../o/order_flow_analysis.md)**: Comprehensive tools for analyzing order flow, including real-time depth of market (DOM) and [volume profile](../v/volume_profile.md).
 2. **Advanced DOM**: A highly interactive and customizable depth of market interface to view market depth and liquidity.
 3. **[Volume Profile](../v/volume_profile.md)**: Detailed [volume profile](../v/volume_profile.md) analysis to identify [key support and resistance levels](../k/key_support_and_resistance_levels.md).
-4. **Trade Management**: Tools for managing trades, including automated trade management and advanced order types.
+4. **Trade Management**: Tools for managing trades, including automated trade management and advanced [order types](../o/order_types_in_trading.md).
 5. **Historical Analysis**: Ability to replay market data to analyze past order flow and improve [trading strategies](../t/trading_strategies.md).
 6. **Trading Simulator**: [Simulated trading](../s/simulated_trading.md) environment for practicing order flow trading without risking real money.
 7. **Integration**: Compatible with various trading platforms and brokers for seamless trading execution.

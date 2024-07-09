@@ -100,8 +100,8 @@ Algorithms gauge risk-adjusted returns incorporating zero-coupon yield spreads b
 ### Important Entities in Zero-Coupon Analysis
 
 1. **[Bloomberg](../b/bloomberg.md) L.P.:** Provides essential market data, analytics, and financial tools, including [zero-coupon bond](../z/zero-coupon_bond.md) pricing and yield curves. [Bloomberg](https://www.bloomberg.com)
-2. **Interactive Brokers:** Offers trading platforms and financial services for [zero-coupon bond](../z/zero-coupon_bond.md) trading. [Interactive Brokers](https://www.interactivebrokers.com)
-3. **Fidelity Investments:** Facilitates [zero-coupon bond](../z/zero-coupon_bond.md) investments and comprehensive market analysis tools. [Fidelity Investments](https://www.fidelity.com)
+2. **[Interactive Brokers](../i/interactive_brokers.md):** Offers trading platforms and financial services for [zero-coupon bond](../z/zero-coupon_bond.md) trading. [Interactive Brokers](https://www.interactivebrokers.com)
+3. **[Fidelity Investments](../f/fidelity_investments.md):** Facilitates [zero-coupon bond](../z/zero-coupon_bond.md) investments and comprehensive market analysis tools. [Fidelity Investments](https://www.fidelity.com)
 
 ### Conclusion
 

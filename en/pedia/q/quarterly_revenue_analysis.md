@@ -44,7 +44,7 @@ Comparing the company's quarterly revenue against industry peers provides contex
 
 ### Financial Ratios
 
-Using [financial ratios](../f/financial_ratios.md), such as profit margins, return on investment (ROI), and earnings before interest, taxes, depreciation, and amortization (EBITDA), can provide a clearer picture of the company's financial health and operational efficiency.
+Using [financial ratios](../f/financial_ratios.md), such as [profit margins](../p/profit_margins_in_trading.md), return on investment (ROI), and earnings before interest, taxes, depreciation, and amortization (EBITDA), can provide a clearer picture of the company's financial health and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## Methods of Analyzing Quarterly Revenue
 
@@ -118,7 +118,7 @@ Amazon’s robust quarterly revenue analysis and reporting have been critical to
 
 ### Microsoft
 
-Microsoft’s revenue analysis involves a deep dive into their various service lines such as cloud computing, software, and hardware. The company’s focus on high-growth segments like Azure has been driven by detailed quarterly revenue insights, helping them stay ahead in the competitive tech industry.
+Microsoft’s revenue analysis involves a deep dive into their various service lines such as [cloud computing](../c/cloud_computing_in_trading.md), software, and hardware. The company’s focus on high-growth segments like Azure has been driven by detailed quarterly revenue insights, helping them stay ahead in the competitive tech industry.
 
 ### Procter & Gamble
 

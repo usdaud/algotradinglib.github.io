@@ -104,7 +104,7 @@ Renaissance Technologies, known for its Medallion Fund, employs a variety of qua
 
 ### Two Sigma Investments [Two Sigma Investments](https://www.twosigma.com/)
 
-Two Sigma leverages machine learning and big data to drive its [algorithmic trading](../a/algorithmic_trading.md) strategies. The firm uses RPIs to ensure its algorithms are not just profitable but also outperforming relevant benchmarks. This benchmarking process is critical for refining algorithms and sustaining competitive advantage.
+Two Sigma leverages machine learning and [big data](../b/big_data_in_trading.md) to drive its [algorithmic trading](../a/algorithmic_trading.md) strategies. The firm uses RPIs to ensure its algorithms are not just profitable but also outperforming relevant benchmarks. This benchmarking process is critical for refining algorithms and sustaining competitive advantage.
 
 ### Bridgewater Associates [Bridgewater Associates](https://www.bridgewater.com/)
 

@@ -57,7 +57,7 @@ Share price analysis is a critical aspect of financial markets. It involves the 
 ### Tools for Sentiment Analysis
 
 - **Lexical Analysis Tools**: Identify positive or negative words.
-- **Natural Language Processing (NLP)**: Technology that helps in sentiment extraction from large volumes of text.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Technology that helps in sentiment extraction from large volumes of text.
 
 ## Algorithmic Trading
 
@@ -74,28 +74,28 @@ Share price analysis is a critical aspect of financial markets. It involves the 
 
 - **[QuantConnect](../q/quantconnect.md)**: An open [algorithmic trading](../a/algorithmic_trading.md) platform that provides data for [backtesting](../b/backtesting.md) strategies.
 - **[QuantConnect](https://www.quantconnect.com)**
-- **Alpha Vantage**: Offers a rich set of APIs for financial data for simulation.
+- **Alpha Vantage**: Offers a rich set of APIs for financial data for [simulation](../s/simulation_in_trading.md).
 - **[Alpha Vantage](https://www.alphavantage.co)**
 - **Kensho Technologies**: A data analytics and machine learning firm providing advanced solutions for financial markets.
 - **[Kensho](https://www.kensho.com)**
 
 ## Modern Technologies in Share Price Prediction
 
-Advancements in technology have revolutionized share price analysis. Machine learning and artificial intelligence (AI) are now integral in processing large datasets and identifying patterns.
+Advancements in technology have revolutionized share price analysis. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are now integral in processing large datasets and identifying patterns.
 
 ### Machine Learning Models
 
 1. **Supervised Learning Models**
     - **[Linear Regression](../l/linear_regression.md)**: Useful for predicting continuous values.
-    - **[Decision Trees](../d/decision_trees.md)**: Non-linear models capable of capturing complex patterns.
-    - **Support Vector Machines (SVM)**: Work well for classification problems.
+    - **[Decision Trees](../d/decision_trees.md)**: Non-[linear models](../l/linear_models_in_trading.md) capable of capturing complex patterns.
+    - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Work well for classification problems.
 
 2. **Unsupervised Learning Models**
     - **Clustering**: Groups similar data points which can help identify market segments.
     - **[Anomaly Detection](../a/anomaly_detection.md)**: Identifies unusual patterns that might signify [market anomalies](../m/market_anomalies.md).
 
 3. **Deep Learning Models**
-    - **Neural Networks**: Particularly feedforward, convolutional, and recurrent neural networks (RNNs) for time-series prediction.
+    - **[Neural Networks](../n/neural_networks_in_trading.md)**: Particularly feedforward, convolutional, and recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs) for time-series prediction.
 
 ### AI-powered Tools and Platforms
 

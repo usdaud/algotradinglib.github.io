@@ -2,13 +2,13 @@
 
 ## What is Clustering?
 
-Clustering is a machine learning technique that involves grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar to each other than to those in other groups. This technique is widely used in various fields such as [data mining](../d/data_mining.md), [pattern recognition](../p/pattern_recognition.md), image analysis, information retrieval, and bioinformatics. In the context of algo trading, clustering algorithms can be used to identify patterns in historical price data, segment different types of market conditions, and enhance predictive models for [trading strategies](../t/trading_strategies.md).
+Clustering is a machine learning technique that involves grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar to each other than to those in other groups. This technique is widely used in various fields such as [data mining](../d/data_mining.md), [pattern recognition](../p/pattern_recognition.md), image analysis, information retrieval, and bioinformatics. In the context of algo trading, clustering algorithms can be used to identify patterns in historical price data, segment different types of market conditions, and enhance [predictive models](../p/predictive_models_in_trading.md) for [trading strategies](../t/trading_strategies.md).
 
 ## Types of Clustering Algorithms
 
 Several clustering algorithms can be applied in the context of algo trading. Some of the popular ones include:
 
-- **K-means Clustering**
+- **[K-means Clustering](../k/k-means_clustering_in_trading.md)**
 - **Hierarchical Clustering**
 - **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**
 - **[Gaussian Mixture Models](../g/gaussian_mixture_models.md) (GMM)**
@@ -17,7 +17,7 @@ Several clustering algorithms can be applied in the context of algo trading. Som
 
 ### K-means Clustering
 
-**K-means Clustering** is one of the simplest and most widely used clustering algorithms. It partitions the data into K clusters, where each data point belongs to the cluster with the nearest mean. The algorithm works as follows:
+**[K-means Clustering](../k/k-means_clustering_in_trading.md)** is one of the simplest and most widely used clustering algorithms. It partitions the data into K clusters, where each data point belongs to the cluster with the nearest mean. The algorithm works as follows:
 
 1. Choose the number of clusters, K.
 2. Randomly initialize K cluster centroids.
@@ -56,11 +56,11 @@ In algo trading, GMM can be used to model the distribution of returns or other f
 
 **Mean Shift Clustering** identifies clusters by iteratively shifting data points towards the region of the highest density (mode). It does not require specifying the number of clusters in advance and can adapt to the shape of the data distribution.
 
-This algorithm can be particularly useful in algo trading for identifying trending regions or regime shifts in market data.
+This algorithm can be particularly useful in algo trading for identifying trending regions or [regime shifts](../r/regime_shifts_in_trading.md) in market data.
 
 ### Spectral Clustering
 
-**Spectral Clustering** uses the eigenvalues of a similarity matrix to perform dimensionality reduction before clustering in fewer dimensions. This algorithm is particularly useful for identifying clusters with complex structures that are not easily separable in the original space.
+**Spectral Clustering** uses the eigenvalues of a similarity matrix to perform [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) before clustering in fewer dimensions. This algorithm is particularly useful for identifying clusters with complex structures that are not easily separable in the original space.
 
 In algo trading, spectral clustering can help uncover hidden relationships between assets or detect intricate market patterns that are not immediately apparent.
 
@@ -72,7 +72,7 @@ Clustering algorithms can be applied in various aspects of algo trading, includi
 2. **Regime Detection**: Identify different market regimes (e.g., bullish, bearish, volatile) to adjust [trading strategies](../t/trading_strategies.md) accordingly.
 3. **[Risk Management](../r/risk_management.md)**: Detect outliers or unusual trading activities that may indicate potential risk.
 4. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Diversify portfolio by selecting assets from different clusters to minimize risk and enhance returns.
-5. **Feature Engineering**: Generate new features for predictive models by clustering historical price data or other financial metrics.
+5. **Feature Engineering**: Generate new features for [predictive models](../p/predictive_models_in_trading.md) by clustering historical price data or other financial metrics.
 6. **[Pattern Recognition](../p/pattern_recognition.md)**: Identify and exploit repeating patterns in market data.
 
 ## Challenges and Considerations

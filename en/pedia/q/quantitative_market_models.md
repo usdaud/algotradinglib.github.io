@@ -4,7 +4,7 @@ Quantitative market models, often referred to as "quant models" in financial cir
 
 ## Definition and Overview
 
-Quantitative market models are mathematical representations of market behaviors constructed using historical price data and other relevant financial metrics. These models aim to identify patterns, forecast future price movements, and optimize [trading strategies](../t/trading_strategies.md). The models vary widely in complexity, from simple linear regressions to intricate machine learning algorithms.
+Quantitative market models are mathematical representations of market behaviors constructed using historical price data and other relevant financial metrics. These models aim to identify patterns, forecast future price movements, and optimize [trading strategies](../t/trading_strategies.md). The models vary widely in complexity, from simple linear regressions to intricate machine [learning algorithms](../l/learning_algorithms_in_trading.md).
 
 ## Types of Quantitative Market Models
 
@@ -18,14 +18,14 @@ Time series models focus on using historical price data to predict future price 
 
 ### Factor Models
 
-[Factor models](../f/factor_models.md) decompose asset returns into multiple underlying factors that drive price movements. These models help in identifying common risk factors across a portfolio. Prominent [factor models](../f/factor_models.md) include:
+[Factor models](../f/factor_models.md) decompose asset returns into multiple underlying factors that drive price movements. These models help in identifying common [risk factors](../r/risk_factors_in_trading.md) across a portfolio. Prominent [factor models](../f/factor_models.md) include:
 
 - **Capital Asset Pricing Model (CAPM)**: This model relates the return of an asset to its risk in relation to the market.
 - **Fama-French Three-Factor Model**: An extension of CAPM, this model includes size and value factors in addition to the market factor.
 
 ### Stochastic Models
 
-Stochastic models incorporate random variables and processes to account for the inherent uncertainty in financial markets. These models are commonly used for option pricing and [risk management](../r/risk_management.md). Examples include:
+Stochastic models incorporate random variables and processes to account for the inherent [uncertainty](../u/uncertainty_in_trading.md) in financial markets. These models are commonly used for option pricing and [risk management](../r/risk_management.md). Examples include:
 
 - **Brownian Motion Models**: Used to model stock price paths with continuous random movement.
 - **[Geometric Brownian Motion](../g/geometric_brownian_motion.md) (GBM)**: A specific type of Brownian motion model adapted for log-normal asset prices.
@@ -39,9 +39,9 @@ Agent-based models simulate interactions of individual market participants (agen
 
 Machine learning models use algorithms to learn patterns and make predictions from large datasets without being explicitly programmed for specific tasks. Common machine learning techniques in quant modeling include:
 
-- **Supervised Learning**: Techniques like [linear regression](../l/linear_regression.md), logistic regression, and [decision trees](../d/decision_trees.md).
+- **Supervised Learning**: Techniques like [linear regression](../l/linear_regression.md), [logistic regression](../l/logistic_regression_in_trading.md), and [decision trees](../d/decision_trees.md).
 - **Unsupervised Learning**: Clustering techniques like K-means and hierarchical clustering.
-- **Deep Learning**: Neural networks and their variants, such as recurrent neural networks (RNNs) and convolutional neural networks (CNNs).
+- **Deep Learning**: [Neural networks](../n/neural_networks_in_trading.md) and their variants, such as recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs) and convolutional [neural networks](../n/neural_networks_in_trading.md) (CNNs).
 
 ## Model Construction and Calibration
 
@@ -102,7 +102,7 @@ Several companies and research institutions specialize in the development and ap
 - [The MathWorks](https://www.mathworks.com/solutions/quantitative-finance.html): Known for their MATLAB software, which is extensively used for [quantitative finance](../q/quantitative_finance.md) and model development.
 - [Bloomberg](https://www.bloomberg.com/professional/solution/quantitative-research/): Provides a suite of quant tools and data analytics for financial professionals.
 - [QuantConnect](https://www.quantconnect.com/): An open platform offering tools and data for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
-- [Two Sigma](https://www.twosigma.com/): A hedge fund that leverages quantitative strategies and machine learning for investment decisions.
+- [Two Sigma](https://www.twosigma.com/): A hedge fund that leverages [quantitative strategies](../q/quantitative_strategies_in_trading.md) and machine learning for investment decisions.
 - [Jane Street](https://www.janestreet.com/): Engages in [proprietary trading](../p/proprietary_trading.md), using [quantitative models](../q/quantitative_models.md) to make markets and manage risks.
 
 ## Conclusion

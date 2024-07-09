@@ -42,7 +42,7 @@ High turnover [trading strategies](../t/trading_strategies.md), such as high-fre
 
 #### Example: Renaissance Technologies
 
-Renaissance Technologies, founded by James Simons, is famous for its high-frequency [trading strategies](../t/trading_strategies.md). The firm utilizes sophisticated mathematical models to predict price movements and execute thousands of trades per second. The high turnover rates associated with such strategies can lead to substantial profits, but also involve significant transaction costs and risks.
+Renaissance Technologies, founded by James Simons, is famous for its high-frequency [trading strategies](../t/trading_strategies.md). The firm utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to predict price movements and execute thousands of trades per second. The high turnover rates associated with such strategies can lead to substantial profits, but also involve significant transaction costs and risks.
 
 [Visit Renaissance Technologies](https://www.rentec.com/)
 

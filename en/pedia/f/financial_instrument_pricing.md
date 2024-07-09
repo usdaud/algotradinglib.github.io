@@ -43,7 +43,7 @@ In a risk-neutral world, every investor is indifferent to risk. This simplifies 
 ## Computational Approaches
 
 ### Numerical Methods
-For complex instruments, analytical solutions may not be possible. Numerical methods like [finite difference methods](../f/finite_difference_methods.md) and lattice models (e.g., the binomial model) are employed.
+For complex instruments, analytical solutions may not be possible. [Numerical methods](../n/numerical_methods_in_trading.md) like [finite difference methods](../f/finite_difference_methods.md) and lattice models (e.g., the binomial model) are employed.
 
 ### Machine Learning
 Machine learning models are increasingly applied to pricing problems. Approaches include:

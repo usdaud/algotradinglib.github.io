@@ -1,14 +1,14 @@
 # Weighted Returns Calculation
 
-In the realm of investment and [portfolio management](../p/portfolio_management.md), understanding the precise return on investments is paramount. Calculating returns can be straightforward; however, when dealing with a portfolio composed of multiple assets, each with different investment sizes, it becomes necessary to use the concept of weighted returns. Weighted returns take into account the varying sizes of investments within a portfolio, providing a more accurate measure of overall performance. This article explores the concept of weighted returns, their significance in financial analysis, and the methodologies for calculating them.
+In the realm of investment and [portfolio management](../p/portfolio_management.md), understanding the precise return on investments is paramount. Calculating returns can be straightforward; however, when dealing with a portfolio composed of multiple assets, each with different investment sizes, it becomes necessary to use the concept of [weighted returns](../w/weighted_returns_in_trading.md). [Weighted returns](../w/weighted_returns_in_trading.md) take into account the varying sizes of investments within a portfolio, providing a more accurate measure of overall performance. This article explores the concept of [weighted returns](../w/weighted_returns_in_trading.md), their significance in financial analysis, and the methodologies for calculating them.
 
 ### 1. Introduction to Weighted Returns
 
-Weighted returns are used to represent the actual performance of a portfolio, taking into account the proportion of each asset in the portfolio relative to the total investment. Unlike a simple average return, which treats each asset equally, a weighted return assigns different weights to each asset based on their respective sizes in the portfolio. This approach reflects the true impact of each asset's performance on the overall portfolio.
+[Weighted returns](../w/weighted_returns_in_trading.md) are used to represent the actual performance of a portfolio, taking into account the proportion of each asset in the portfolio relative to the total investment. Unlike a simple average return, which treats each asset equally, a weighted return assigns different weights to each asset based on their respective sizes in the portfolio. This approach reflects the true impact of each asset's performance on the overall portfolio.
 
 ### 2. Importance of Weighted Returns
 
-Weighted returns are crucial for several reasons:
+[Weighted returns](../w/weighted_returns_in_trading.md) are crucial for several reasons:
 
 - **Accuracy**: They provide a true representation of the portfolio's performance, accounting for the [capital allocation](../c/capital_allocation.md) to each investment.
 - **Comparison**: Facilitates comparison between portfolios of different sizes and compositions.
@@ -16,7 +16,7 @@ Weighted returns are crucial for several reasons:
 
 ### 3. Calculation Methodology
 
-To calculate weighted returns, follow these steps:
+To calculate [weighted returns](../w/weighted_returns_in_trading.md), follow these steps:
 
 #### Step 1: Determine Individual Asset Returns
 Calculate the return for each asset in the portfolio. The return can be expressed as:
@@ -45,7 +45,7 @@ Multiply the return of each asset by its corresponding weight:
 \[ WR_i = W_i \times R_i \]
 
 #### Step 4: Sum the Weighted Returns
-Sum the weighted returns of all assets to obtain the total weighted return of the portfolio:
+Sum the [weighted returns](../w/weighted_returns_in_trading.md) of all assets to obtain the total weighted return of the portfolio:
 
 \[ R_{portfolio} = \sum_{i=1}^{n} (W_i \times R_i) \]
 
@@ -71,7 +71,7 @@ Calculate the portfolio weights:
 - \( W_B = \frac{8000}{15000} = 0.5333 \)
 - \( W_C = \frac{2000}{15000} = 0.1333 \)
 
-Calculate the weighted returns:
+Calculate the [weighted returns](../w/weighted_returns_in_trading.md):
 - \( WR_A = 0.3333 \times 0.12 = 0.04 \)
 - \( WR_B = 0.5333 \times 0.0625 = 0.0333 \)
 - \( WR_C = 0.1333 \times 0.275 = 0.0367 \)
@@ -95,11 +95,11 @@ Many financial tools and software solutions facilitate weighted return calculati
   [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 - **[Morningstar](../m/morningstar.md) Direct**: Provides comprehensive [portfolio analysis](../p/portfolio_analysis.md), including weighted return calculations.
   [Morningstar](https://www.morningstar.com/products/direct)
-- **Yahoo Finance**: Offers basic [portfolio management](../p/portfolio_management.md) features and weighted return calculations.
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Offers basic [portfolio management](../p/portfolio_management.md) features and weighted return calculations.
   [Yahoo Finance](https://finance.yahoo.com/)
 
 ### 7. Conclusion
 
 Weighted return calculations provide a nuanced view of a portfolio’s performance by considering the proportionate impact of each asset. Understanding and accurately implementing these calculations are essential for effective [portfolio management](../p/portfolio_management.md), risk assessment, and strategic decision-making. As financial markets become more complex, the ability to dissect returns accurately will remain a critical skill for investors and financial professionals.
 
-By ensuring that each investment's size and performance are appropriately accounted for, weighted returns offer a clear and precise view of a portfolio's health, paving the way for more informed and strategic investment choices.
+By ensuring that each investment's size and performance are appropriately accounted for, [weighted returns](../w/weighted_returns_in_trading.md) offer a clear and precise view of a portfolio's health, paving the way for more informed and strategic investment choices.

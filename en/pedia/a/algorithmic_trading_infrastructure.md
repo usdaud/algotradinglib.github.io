@@ -20,9 +20,9 @@ Storing and managing the large volumes of data generated and consumed by [tradin
 
 - **Databases**: Relational databases like PostgreSQL and MySQL, as well as NoSQL databases like MongoDB, are used to store structured and unstructured data.
 
-- **Data Warehousing**: Solutions like Amazon Redshift, Google BigQuery, and Snowflake are used for large-scale data storage and analytics.
+- **[Data Warehousing](../d/data_warehousing_in_trading.md)**: Solutions like Amazon Redshift, Google BigQuery, and Snowflake are used for large-scale data storage and analytics.
 
-- **Data Lakes**: These are used for storing vast amounts of raw data in its native format. Technologies like Hadoop and Amazon S3 are often used to build data lakes.
+- **[Data Lakes](../d/data_lakes_in_trading.md)**: These are used for storing vast amounts of raw data in its native format. Technologies like Hadoop and Amazon S3 are often used to build [data lakes](../d/data_lakes_in_trading.md).
 
 ### 3. Data Processing Frameworks
 
@@ -46,7 +46,7 @@ Creating, testing, and optimizing [trading algorithms](../t/trading_algorithms.m
 
 Execution Management Systems are responsible for the actual execution of trades in the market. These systems provide functionalities such as:
 
-- **Order Management**: EMS systems handle different types of orders (market, limit, stop-loss, etc.) and ensure they are executed as intended. Notable EMS providers include FlexTrade and [Trading Technologies](../t/trading_technologies.md).
+- **[Order Management](../o/order_management_in_trading.md)**: EMS systems handle different types of orders (market, limit, stop-loss, etc.) and ensure they are executed as intended. Notable EMS providers include FlexTrade and [Trading Technologies](../t/trading_technologies.md).
 
 - **Connection to Exchanges**: Execution management involves direct access to exchanges via FIX (Financial Information eXchange) protocol or other proprietary APIs. Companies like [TradeStation](../t/tradestation.md), [Interactive Brokers](../i/interactive_brokers.md), and [CQG](../c/cqg.md) offer such connectivity.
 
@@ -86,7 +86,7 @@ Several companies specialize in providing various components of the [algorithmic
 
 - **[Trading Technologies](../t/trading_technologies.md)**: Specializes in professional trading software, offering advanced execution tools, charting, and analytics (https://www.tradingtechnologies.com).
 
-- **AWS**: Amazon Web Services provides cloud computing resources for data storage, processing, and running [trading algorithms](../t/trading_algorithms.md), offering solutions like AWS Lambda, Amazon EC2, and Amazon Redshift (https://aws.amazon.com).
+- **AWS**: Amazon Web Services provides [cloud computing](../c/cloud_computing_in_trading.md) resources for data storage, processing, and running [trading algorithms](../t/trading_algorithms.md), offering solutions like AWS Lambda, Amazon EC2, and Amazon Redshift (https://aws.amazon.com).
 
 ## Conclusion
 

@@ -56,7 +56,7 @@
 
 ### Quantitative Analysis
 
-[Quantitative analysis](../q/quantitative_analysis.md) involves using mathematical models and statistical techniques to evaluate ETFs. Key methods include:
+[Quantitative analysis](../q/quantitative_analysis.md) involves using [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to evaluate ETFs. Key methods include:
 
 - **[Factor Models](../f/factor_models.md)**: Assessing how different factors like value, growth, and momentum influence ETF performance.
 - **[Risk Metrics](../r/risk_metrics.md)**: Calculating measures such as beta, alpha, and [Sharpe ratio](../s/sharpe_ratio.md) to understand risk-adjusted returns.
@@ -66,7 +66,7 @@
 
 [Sentiment analysis](../s/sentiment_analysis.md) gauges the market mood by examining news articles, social media posts, and analyst opinions. Techniques include:
 
-- **Natural Language Processing (NLP)**: Using algorithms to analyze vast amounts of text data for sentiment scoring.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Using algorithms to analyze vast amounts of text data for sentiment scoring.
 - **Surveys and Polls**: Employing market research tools to gather insights from investors and analysts.
 - **Volume and Social Metrics**: Monitoring trading volume, message board activity, and social media mentions.
 
@@ -87,7 +87,7 @@ When analyzing [Sector ETFs](../s/sector_etfs.md), several [performance metrics]
 **Overview**: XLK seeks to track the performance of the Technology Select Sector Index. It includes holdings primarily in software, hardware, and semiconductors.
 
 - **Top Holdings**: Apple Inc., Microsoft Corp., NVIDIA Corp.
-- **Performance Analysis**: Over the past five years, XLK has shown substantial growth, driven by advancements in cloud computing, artificial intelligence, and consumer electronics.
+- **Performance Analysis**: Over the past five years, XLK has shown substantial growth, driven by advancements in [cloud computing](../c/cloud_computing_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and consumer electronics.
 - **Sector Trends**: Increasing demand for technology solutions in various sectors supports long-term growth potential.
 
 ### Healthcare Sector ETF (XLV)

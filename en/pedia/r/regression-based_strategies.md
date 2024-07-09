@@ -1,6 +1,6 @@
 # Regression-Based Strategies
 
-Regression-based strategies in [algorithmic trading](../a/algorithmic_trading.md) leverage statistical methods to predict the future price movements of financial assets. These strategies utilize [regression analysis](../r/regression_analysis.md) to model the relationship between different financial variables and the price of the asset of interest. By analyzing historical data, traders aim to identify patterns and correlations that can suggest profitable trades. There are several types of regression methods used in [algorithmic trading](../a/algorithmic_trading.md), including [linear regression](../l/linear_regression.md), logistic regression, polynomial regression, and ridge regression, among others. This article delves into the intricacies of each type, their applications, advantages, and limitations in the context of trading.
+Regression-based strategies in [algorithmic trading](../a/algorithmic_trading.md) leverage statistical methods to predict the future price movements of financial assets. These strategies utilize [regression analysis](../r/regression_analysis.md) to model the relationship between different financial variables and the price of the asset of interest. By analyzing historical data, traders aim to identify patterns and correlations that can suggest profitable trades. There are several types of [regression methods](../r/regression_methods_in_trading.md) used in [algorithmic trading](../a/algorithmic_trading.md), including [linear regression](../l/linear_regression.md), [logistic regression](../l/logistic_regression_in_trading.md), polynomial regression, and ridge regression, among others. This article delves into the intricacies of each type, their applications, advantages, and limitations in the context of trading.
 
 ### Linear Regression
 
@@ -29,7 +29,7 @@ Here, \( y \) is the dependent variable, \( x_1 \) is the independent variable, 
 
 ### Logistic Regression
 
-While [linear regression](../l/linear_regression.md) deals with predicting continuous values, logistic regression is used for binary or categorical outcomes. It predicts the probability of a binary event occurring and is particularly useful in classification tasks.
+While [linear regression](../l/linear_regression.md) deals with predicting continuous values, [logistic regression](../l/logistic_regression_in_trading.md) is used for binary or categorical outcomes. It predicts the probability of a binary event occurring and is particularly useful in classification tasks.
 
 \[ P(Y=1) = \frac{e^{\beta_0 + \beta_1x_1}}{1 + e^{\beta_0 + \beta_1x_1}} \]
 
@@ -42,7 +42,7 @@ While [linear regression](../l/linear_regression.md) deals with predicting conti
 
 1. **Classification**: Effectively handles classification tasks.
 2. **Probability Output**: Provides probabilities, offering confidence levels for predictions.
-3. **Non-Linearity**: Logistic regression can capture non-linear relationships through the logistic function.
+3. **Non-Linearity**: [Logistic regression](../l/logistic_regression_in_trading.md) can capture non-linear relationships through the logistic function.
 
 #### Limitations
 
@@ -58,7 +58,7 @@ Polynomial regression extends [linear regression](../l/linear_regression.md) by 
 
 #### Applications
 
-1. **Curve Fitting**: Models more complex curves in the data, essential for capturing non-linear trends.
+1. **[Curve Fitting](../c/curve_fitting_in_trading.md)**: Models more complex curves in the data, essential for capturing non-linear trends.
 2. **[Trend Analysis](../t/trend_analysis.md)**: Useful in identifying and forecasting non-linear trends in asset prices or other financial metrics.
 
 #### Advantages
@@ -83,12 +83,12 @@ Here, \( \lambda \) is the regularization parameter that controls the penalty on
 #### Applications
 
 1. **Feature Selection**: Helps in selecting important features by shrinking coefficients of less important features.
-2. **Multicollinearity**: Addresses multicollinearity issues by penalizing correlated predictors.
+2. **[Multicollinearity](../m/multicollinearity_in_trading.md)**: Addresses [multicollinearity](../m/multicollinearity_in_trading.md) issues by penalizing correlated predictors.
 
 #### Advantages
 
 1. **Overfitting Reduction**: Mitigates overfitting by regularizing the coefficients.
-2. **Handling Multicollinearity**: Performs well with datasets having multicollinearity.
+2. **Handling [Multicollinearity](../m/multicollinearity_in_trading.md)**: Performs well with datasets having [multicollinearity](../m/multicollinearity_in_trading.md).
 3. **Stability**: Produces more stable and reliable models.
 
 #### Limitations

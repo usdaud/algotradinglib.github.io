@@ -19,7 +19,7 @@ Changes in money supply can have significant impacts on various [economic indica
 
 - **Inflation**: An increase in the money supply can lead to higher inflation if it exceeds the growth of goods and services in the economy. Conversely, a decrease in the money supply can help control inflation.
 - **Interest Rates**: An increased money supply can drive down interest rates as more funds become available for lending, whereas a reduced money supply can elevate interest rates.
-- **Economic Growth**: By adjusting the money supply, central banks aim to stimulate or cool down the economy as needed to sustain stable growth rates.
+- **Economic Growth**: By adjusting the money supply, central banks aim to stimulate or cool down the economy as needed to sustain stable [growth rates](../g/growth_rates_in_trading.md).
 
 **3. Money Supply in [Algorithmic Trading](../a/algorithmic_trading.md)**
 
@@ -31,7 +31,7 @@ Changes in money supply can have significant impacts on various [economic indica
 
 **3.2 [Predictive Analytics](../p/predictive_analytics.md)**
 
-Algorithms can incorporate [predictive analytics](../p/predictive_analytics.md) to estimate future money supply changes based on current economic conditions and policy announcements from central banks. Techniques such as [regression analysis](../r/regression_analysis.md), time-series forecasting, and neural networks can be employed to predict money supply movements.
+Algorithms can incorporate [predictive analytics](../p/predictive_analytics.md) to estimate future money supply changes based on current economic conditions and policy announcements from central banks. Techniques such as [regression analysis](../r/regression_analysis.md), time-series forecasting, and [neural networks](../n/neural_networks_in_trading.md) can be employed to predict money supply movements.
 
 **3.3 Strategy Adjustments**
 

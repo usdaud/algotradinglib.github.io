@@ -64,7 +64,7 @@ VWAP aims to execute orders in relation to the volume traded in the market, ensu
 
 #### C. Sniper Algorithms
 
-These algorithms search for the best possible entry and exit points using complex mathematical models and [real-time data analysis](../r/real-time_data_analysis.md). They are designed to 'snipe' profitable trades based on predefined conditions.
+These algorithms search for the best possible entry and exit points using complex [mathematical models](../m/mathematical_models_in_trading.md) and [real-time data analysis](../r/real-time_data_analysis.md). They are designed to 'snipe' profitable trades based on predefined conditions.
 
 ### 6. Essential Indicators
 

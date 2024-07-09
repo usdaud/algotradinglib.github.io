@@ -12,7 +12,7 @@ Implied volatility represents the market's forecast of a likely movement in an a
 
 The XVIX plays several critical roles in financial markets:
 
-- **[Risk Management](../r/risk_management.md):** Volatility indices like the XVIX are essential for [risk management](../r/risk_management.md). High XVIX values indicate elevated market uncertainty and potential for significant price swings, which can guide traders in adjusting their risk exposure accordingly.
+- **[Risk Management](../r/risk_management.md):** Volatility indices like the XVIX are essential for [risk management](../r/risk_management.md). High XVIX values indicate elevated market [uncertainty](../u/uncertainty_in_trading.md) and potential for significant price swings, which can guide traders in adjusting their risk exposure accordingly.
 - **Investment Decisions:** By analyzing the XVIX, investors can gauge market sentiment and make informed investment decisions. Low XVIX values generally signal market stability, while high values may suggest caution.
 - **[Hedging Strategies](../h/hedging_strategies.md):** Traders often use volatility indices to devise [hedging strategies](../h/hedging_strategies.md). An increase in XVIX can signal the need to purchase protective options or other [derivatives](../d/derivatives.md) to hedge against potential market downturns.
 
@@ -42,7 +42,7 @@ The X-Volatility Index has diverse applications in the financial markets, some o
 - **[Portfolio Optimization](../p/portfolio_optimization.md):** By incorporating the XVIX into [portfolio optimization](../p/portfolio_optimization.md) models, traders can achieve a balanced risk-return profile. The XVIX helps in identifying which assets might provide better protection during high volatility periods.
 - **Event-Driven Strategies:** The XVIX is crucial for traders employing event-driven strategies, such as trading around [earnings announcements](../e/earnings_announcements.md) or [geopolitical events](../g/geopolitical_events.md). The index provides insights into how much volatility the market expects around these events.
 - **Options Pricing:** The XVIX is also instrumental in options pricing models. It helps in setting realistic prices for options premiums, ensuring that traders do not overpay or underprice their [derivatives](../d/derivatives.md).
-- **Stress Testing:** Financial institutions use the XVIX for stress testing their portfolios. By simulating scenarios where volatility spikes, they can assess the potential impact on their holdings and take precautionary measures.
+- **[Stress Testing](../s/stress_testing_in_trading.md):** Financial institutions use the XVIX for [stress testing](../s/stress_testing_in_trading.md) their portfolios. By simulating scenarios where volatility spikes, they can assess the potential impact on their holdings and take precautionary measures.
 
 ## XVIX vs. Other Volatility Indices
 

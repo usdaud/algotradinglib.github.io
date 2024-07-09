@@ -1,6 +1,6 @@
 # Elliott Wave Patterns
 
-Elliott Wave Patterns are a form of [technical analysis](../t/technical_analysis.md) used in stock and forex trading to predict market trends by identifying recurring fractal wave patterns. The theory was developed by Ralph Nelson Elliott in the 1930s after he observed that financial markets do not behave in a chaotic manner but instead form identifiable patterns due to the collective psychology of investors.
+Elliott [Wave Patterns](../w/wave_patterns_in_trading.md) are a form of [technical analysis](../t/technical_analysis.md) used in stock and forex trading to predict market trends by identifying recurring fractal [wave patterns](../w/wave_patterns_in_trading.md). The theory was developed by Ralph Nelson Elliott in the 1930s after he observed that financial markets do not behave in a chaotic manner but instead form identifiable patterns due to the collective psychology of investors.
 
 ## Fundamental Concepts
 
@@ -37,7 +37,7 @@ Corrective waves move against the trend established by the impulsive waves and p
 
 ## Fibonacci Ratios
 
-Elliott also applied Fibonacci ratios to his wave patterns. Some key Fibonacci ratios used in [wave analysis](../w/wave_analysis.md) include 1.618, 0.618, and 2.618, among others. These ratios help to identify the probable length and duration of market waves:
+Elliott also applied Fibonacci ratios to his [wave patterns](../w/wave_patterns_in_trading.md). Some key Fibonacci ratios used in [wave analysis](../w/wave_analysis.md) include 1.618, 0.618, and 2.618, among others. These ratios help to identify the probable length and duration of market waves:
 
 1. **Retracement Levels**: 23.6%, 38.2%, 50%, 61.8%, and 100%.
 2. **Extension Levels**: 161.8%, 261.8%, and sometimes 423.6%.
@@ -70,8 +70,8 @@ The fractal nature and multiple forms of corrective waves can make identifying t
 
 ### Confirmation Bias
 
-Traders may sometimes force wave patterns to fit pre-existing biases or expectations, leading to potential errors in market predictions.
+Traders may sometimes force [wave patterns](../w/wave_patterns_in_trading.md) to fit pre-existing biases or expectations, leading to potential errors in market predictions.
 
 ## Conclusion
 
-Elliott Wave Patterns constitute an advanced and sophisticated tool in the arsenal of technical analysts and traders. While it offers detailed insights into market psychology and structure, it remains a complex and somewhat subjective methodology. Nonetheless, with diligent study and practice, traders can harness the power of [Elliott Wave Theory](../e/elliott_wave_theory.md) to better predict market movements and make informed trading decisions.
+Elliott [Wave Patterns](../w/wave_patterns_in_trading.md) constitute an advanced and sophisticated tool in the arsenal of technical analysts and traders. While it offers detailed insights into market psychology and structure, it remains a complex and somewhat subjective methodology. Nonetheless, with diligent study and practice, traders can harness the power of [Elliott Wave Theory](../e/elliott_wave_theory.md) to better predict market movements and make informed trading decisions.

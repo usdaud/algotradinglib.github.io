@@ -14,9 +14,9 @@ Value and [growth investing](../g/growth_investing.md) are two fundamental appro
 
 [Growth investing](../g/growth_investing.md) focuses on companies expected to grow their earnings at an above-average rate compared to the industry or the overall market. Growth investors are attracted to companies with strong earnings momentum, revenue increases, and potential for substantial capital appreciation. Key traits of [growth investing](../g/growth_investing.md) include:
 
-1. **Earnings Growth**: Regular and substantial earnings growth is a critical indicator. Historical and projected earnings growth rates are analyzed.
+1. **Earnings Growth**: Regular and substantial earnings growth is a critical indicator. Historical and projected earnings [growth rates](../g/growth_rates_in_trading.md) are analyzed.
 2. **Revenue Growth**: Consistent increases in revenue signify a company's expanding market share or new sales avenues.
-3. **Profit Margins**: Higher profit margins indicate operational efficiency and cost management.
+3. **[Profit Margins](../p/profit_margins_in_trading.md)**: Higher [profit margins](../p/profit_margins_in_trading.md) indicate [operational efficiency](../o/operational_efficiency_in_trading.md) and cost management.
 4. **Price Appreciation**: Investors in [growth stocks](../g/growth_stocks.md) are willing to pay high P/E ratios for future growth prospects.
 
 ### Algorithmic Trading and Value-Growth Strategies
@@ -24,7 +24,7 @@ Value and [growth investing](../g/growth_investing.md) are two fundamental appro
 [Algorithmic trading](../a/algorithmic_trading.md) leverages computer algorithms to execute trades based on pre-defined criteria without human intervention. When applying value and growth analysis to [algorithmic trading](../a/algorithmic_trading.md), traders and firms utilize [quantitative models](../q/quantitative_models.md) to identify trading opportunities and execute orders efficiently. Here’s how value-growth strategies are integrated into [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Data Collection and Processing**: Large datasets containing price, volume, financial statements, and analyst forecasts are collected and processed.
-2. **[Quantitative Models](../q/quantitative_models.md)**: Advanced mathematical models evaluate the data. For [value investing](../v/value_investing.md) algorithms, the model might calculate intrinsic values and compare them with market prices. For [growth investing](../g/growth_investing.md), algorithms may track earnings, revenue growth, and other [performance indicators](../p/performance_indicators.md).
+2. **[Quantitative Models](../q/quantitative_models.md)**: Advanced [mathematical models](../m/mathematical_models_in_trading.md) evaluate the data. For [value investing](../v/value_investing.md) algorithms, the model might calculate intrinsic values and compare them with market prices. For [growth investing](../g/growth_investing.md), algorithms may track earnings, revenue growth, and other [performance indicators](../p/performance_indicators.md).
 3. **Signal Generation**: The algorithms generate buy or sell signals based on pre-defined criteria. A value-based algorithm could trigger a buy when a stock's market price falls significantly below its calculated intrinsic value.
 4. **[Risk Management](../r/risk_management.md)**: Algorithms incorporate [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and other [risk management](../r/risk_management.md) tools to minimize potential losses.
 5. **Execution**: High-speed [execution algorithms](../e/execution_algorithms.md) place orders efficiently, minimizing market impact and transaction costs.
@@ -34,10 +34,10 @@ Value and [growth investing](../g/growth_investing.md) are two fundamental appro
 Several firms specialize in developing and implementing [algorithmic trading](../a/algorithmic_trading.md) systems, incorporating both value and growth analysis. These companies use cutting-edge technology and strategic insights to deliver superior [trading performance](../t/trading_performance.md).
 
 #### 1. [Two Sigma](https://www.twosigma.com/)
-Two Sigma is a technology-driven company focusing on data science and advanced quantitative methods to understand the world’s markets. They utilize machine learning and distributed computing to create [algorithmic trading](../a/algorithmic_trading.md) strategies based on various financial theories, including value and [growth investing](../g/growth_investing.md).
+Two Sigma is a technology-driven company focusing on [data science](../d/data_science_in_trading.md) and advanced quantitative methods to understand the world’s markets. They utilize machine learning and distributed computing to create [algorithmic trading](../a/algorithmic_trading.md) strategies based on various financial theories, including value and [growth investing](../g/growth_investing.md).
 
 #### 2. [Renaissance Technologies](https://www.rentec.com/)
-Renaissance Technologies is renowned for its Medallion Fund, which employs sophisticated mathematical models and algorithmic systems. Their approach includes elements of value and growth investment strategies within their overall quantitative framework.
+Renaissance Technologies is renowned for its Medallion Fund, which employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithmic systems. Their approach includes elements of value and growth investment strategies within their overall quantitative framework.
 
 #### 3. [AlphaSimplex](https://www.alphasimplex.com/)
 AlphaSimplex Group specializes in risk-based active investment strategies. They leverage quantitative techniques and [algorithmic trading](../a/algorithmic_trading.md) to manage investments, combining insights from value and growth analysis.

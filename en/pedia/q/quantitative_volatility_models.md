@@ -137,7 +137,7 @@ Quantitative [volatility models](../v/volatility_models.md) are crucial tools in
       ```
 
 4. **[Algorithmic Trading](../a/algorithmic_trading.md)**:
-   - Many [algorithmic trading](../a/algorithmic_trading.md) strategies incorporate volatility predictions to adjust position sizes, leverage, and timing of trades. Predictive models like GARCH can signal entry and exit points.
+   - Many [algorithmic trading](../a/algorithmic_trading.md) strategies incorporate volatility predictions to adjust position sizes, leverage, and timing of trades. [Predictive models](../p/predictive_models_in_trading.md) like GARCH can signal entry and exit points.
 
       ```python
       def trading_signal(hist_vol, threshold):

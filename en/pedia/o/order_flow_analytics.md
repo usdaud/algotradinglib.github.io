@@ -75,11 +75,11 @@ Bookmap is a trading platform known for its detailed visualization of order book
 
 ### Jigsaw Trading
 
-Jigsaw Trading offers advanced [order flow analysis](../o/order_flow_analysis.md) tools, such as depth and sales, reconstructed tape, and the ability to filter and highlight important market data. [Jigsaw Trading](https://www.jigsawtrading.com/) is used by professional traders for its extensive analytical capabilities.
+[Jigsaw Trading](../j/jigsaw_trading.md) offers advanced [order flow analysis](../o/order_flow_analysis.md) tools, such as depth and sales, reconstructed tape, and the ability to filter and highlight important market data. [Jigsaw Trading](https://www.jigsawtrading.com/) is used by professional traders for its extensive analytical capabilities.
 
 ### Sierra Chart
 
-Sierra Chart is a professional trading platform that supports advanced order flow analytics, including detailed volume profiles, footprint charts, and analysis of market depth. [Sierra Chart](https://www.sierrachart.com/) provides traders with comprehensive tools for [order flow analysis](../o/order_flow_analysis.md).
+[Sierra Chart](../s/sierra_chart.md) is a professional trading platform that supports advanced order flow analytics, including detailed volume profiles, footprint charts, and analysis of market depth. [Sierra Chart](https://www.sierrachart.com/) provides traders with comprehensive tools for [order flow analysis](../o/order_flow_analysis.md).
 
 ### Quantower
 

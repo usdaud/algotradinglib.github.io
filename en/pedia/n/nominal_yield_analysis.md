@@ -94,7 +94,7 @@ By incorporating nominal [yield analysis](../y/yield_analysis.md), algorithms ca
 
 ### Risk Management Tools
 
-Algotrading platforms integrate [risk management](../r/risk_management.md) frameworks that use nominal yield data to evaluate and mitigate various risks. This can involve stress testing, scenario analysis, and the use of Value-at-Risk (VaR) models to anticipate and address potential losses.
+Algotrading platforms integrate [risk management](../r/risk_management.md) frameworks that use nominal yield data to evaluate and mitigate various risks. This can involve [stress testing](../s/stress_testing_in_trading.md), scenario analysis, and the use of Value-at-Risk (VaR) models to anticipate and address potential losses.
 
 ## Major Players in Nominal Yield Analysis Tools
 

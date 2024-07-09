@@ -29,7 +29,7 @@ When the model is used to find the price of an option and matches the current ma
 
 ## Calculating Implied Volatility
 
-Implied volatility is calculated using advanced mathematical models and algorithms. It is not directly observable and requires solving for volatility from the options pricing model. Essentially, traders input the known values (market price, strike price, time to expiration, etc.) into a model and solve for the unknown value, which is volatility. This involves iterative methods or numerical techniques such as the Newton-Raphson method.
+Implied volatility is calculated using advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. It is not directly observable and requires solving for volatility from the options pricing model. Essentially, traders input the known values (market price, strike price, time to expiration, etc.) into a model and solve for the unknown value, which is volatility. This involves iterative methods or numerical techniques such as the Newton-Raphson method.
 
 ### Example Calculation
 

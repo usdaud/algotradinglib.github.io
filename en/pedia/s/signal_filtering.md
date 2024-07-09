@@ -1,6 +1,6 @@
 # Signal Filtering
 
-Signal filtering is a crucial concept in [algorithmic trading](../a/algorithmic_trading.md), employed to refine raw market data and identify actionable [trading signals](../t/trading_signals.md). The main goal is to eliminate noise from data to make more accurate predictions and decisions. This process involves various techniques, ranging from basic statistical methods to advanced machine learning algorithms. The effectiveness of these filtering methods can significantly influence the performance of [trading strategies](../t/trading_strategies.md).
+Signal filtering is a crucial concept in [algorithmic trading](../a/algorithmic_trading.md), employed to refine raw market data and identify actionable [trading signals](../t/trading_signals.md). The main goal is to eliminate noise from data to make more accurate predictions and decisions. This process involves various techniques, ranging from basic statistical methods to advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md). The effectiveness of these filtering methods can significantly influence the performance of [trading strategies](../t/trading_strategies.md).
 
 ## Types of Noise in Market Data
 
@@ -28,10 +28,10 @@ Kalman filters are advanced mathematical tools that recursively estimate the sta
 Low-pass filters allow low-frequency signals to pass through while attenuating (reducing) the amplitude of frequencies higher than the cutoff frequency. Butterworth and Chebyshev filters are common types.
 
 ### Machine Learning-Based Filters
-Machine learning algorithms, such as neural networks and support vector machines, can be trained to distinguish between signal and noise. These methods require extensive historical data and computational resources but can adapt to changing market conditions.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md), such as [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md), can be trained to distinguish between signal and noise. These methods require extensive historical data and computational resources but can adapt to changing market conditions.
 
 ### Signal-to-Noise Ratio (SNR)
-SNR is a statistical measure used to quantify the level of a desired signal compared to the level of background noise. Higher SNR indicates clearer and more reliable signals. Techniques to improve SNR include averaging multiple signals and using signal processing algorithms.
+SNR is a statistical measure used to quantify the level of a desired signal compared to the level of background noise. Higher SNR indicates clearer and more reliable signals. Techniques to improve SNR include averaging multiple signals and using [signal processing](../s/signal_processing_in_trading.md) algorithms.
 
 ## Practical Implementations
 

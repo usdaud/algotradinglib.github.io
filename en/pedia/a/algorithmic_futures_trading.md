@@ -27,15 +27,15 @@ In the context of futures trading, algorithms are utilized to:
 1. **[Trend Following](../t/trend_following.md)**: This strategy involves creating algorithms that identify and follow market trends. The idea is to buy [futures contracts](../f/futures_contracts.md) when prices are rising and sell them when prices are falling. Tools like moving averages, [momentum indicators](../m/momentum_indicators.md), and breakout signals are commonly used.
 2. **[Arbitrage](../a/arbitrage.md)**: [Arbitrage](../a/arbitrage.md) strategies exploit price discrepancies between different markets or instruments. An example is index [arbitrage](../a/arbitrage.md), where an algorithm might buy constituent stocks and sell futures of a corresponding index simultaneously.
 3. **Market Making**: Market-making algorithms place buy and sell orders simultaneously to profit from the [bid-ask spread](../b/bid-ask_spread.md). These algorithms continuously update their quotes based on market conditions.
-4. **Statistical [Arbitrage](../a/arbitrage.md)**: This involves complex mathematical models to find price inefficiencies and statistical relationships between different instruments. Algorithms will simultaneously exploit these inefficiencies by taking opposing positions.
+4. **Statistical [Arbitrage](../a/arbitrage.md)**: This involves complex [mathematical models](../m/mathematical_models_in_trading.md) to find price inefficiencies and statistical relationships between different instruments. Algorithms will simultaneously exploit these inefficiencies by taking opposing positions.
 5. **High-Frequency Trading (HFT)**: These strategies involve executing thousands of trades per second to take advantage of minute price changes. HFT requires sophisticated infrastructure and low-latency execution capabilities.
 
 ### Key Technologies in Algorithmic Futures Trading
 
-1. **Machine Learning**: Machine learning algorithms can enhance [trading strategies](../t/trading_strategies.md) by learning from historical data and adapting to changing market conditions. Techniques like supervised learning, unsupervised learning, and reinforcement learning are employed.
-2. **Natural Language Processing (NLP)**: NLP algorithms process and analyze large volumes of unstructured data, such as news articles and social media posts, to gauge market sentiment and predict future price movements.
-3. **Cloud Computing**: The scalability and processing power of cloud computing enable traders to process large datasets, run complex algorithms, and store massive amounts of historical data cost-effectively.
-4. **Blockchain and Smart Contracts**: Blockchain technology ensures transparency and security in transaction settlement. Smart contracts can automate and enforce the conditions of [futures contracts](../f/futures_contracts.md), reducing the need for intermediaries.
+1. **Machine Learning**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can enhance [trading strategies](../t/trading_strategies.md) by learning from historical data and adapting to changing market conditions. Techniques like supervised learning, unsupervised learning, and reinforcement learning are employed.
+2. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: NLP algorithms process and analyze large volumes of unstructured data, such as news articles and social media posts, to gauge market sentiment and predict future price movements.
+3. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: The scalability and processing power of [cloud computing](../c/cloud_computing_in_trading.md) enable traders to process large datasets, run complex algorithms, and store massive amounts of historical data cost-effectively.
+4. **[Blockchain](../b/blockchain_in_trading.md) and [Smart Contracts](../s/smart_contracts_in_trading.md)**: [Blockchain](../b/blockchain_in_trading.md) technology ensures transparency and security in transaction settlement. [Smart contracts](../s/smart_contracts_in_trading.md) can automate and enforce the conditions of [futures contracts](../f/futures_contracts.md), reducing the need for intermediaries.
 
 ### Regulatory Environment
 
@@ -54,14 +54,14 @@ Algorithmic futures trading operates within a regulated framework that varies by
 
 ### Future Trends in Algorithmic Futures Trading
 
-1. **AI and Advanced Analytics**: The future of [algorithmic trading](../a/algorithmic_trading.md) will see increased integration of artificial intelligence, including deep learning to create more adaptive and accurate [trading models](../t/trading_models.md).
-2. **Quantum Computing**: Quantum computers have the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex optimization problems much faster than classical computers.
+1. **AI and Advanced Analytics**: The future of [algorithmic trading](../a/algorithmic_trading.md) will see increased integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md), including deep learning to create more adaptive and accurate [trading models](../t/trading_models.md).
+2. **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Quantum computers have the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex optimization problems much faster than classical computers.
 3. **Decentralized Finance (DeFi)**: As DeFi evolves, it may introduce novel financial instruments and trading opportunities, requiring traders to develop new algorithms and strategies.
 4. **Enhanced Cybersecurity**: With the increasing reliance on technology, robust cybersecurity measures will become imperative to protect [trading systems](../t/trading_systems.md) from cyber threats.
 
 ### Industry Examples
 
-- **Two Sigma**: A firm that leverages data science and advanced technology for its [trading strategies](../t/trading_strategies.md). More information can be found on their [website](https://www.twosigma.com).
+- **Two Sigma**: A firm that leverages [data science](../d/data_science_in_trading.md) and advanced technology for its [trading strategies](../t/trading_strategies.md). More information can be found on their [website](https://www.twosigma.com).
 - **Citadel Securities**: A leading global market maker that uses [algorithmic trading](../a/algorithmic_trading.md) to provide liquidity. Visit their [site](https://www.citadelsecurities.com).
 - **Virtu Financial**: Known for its [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) and market-making services. Details are available on their [website](https://www.virtu.com).
 

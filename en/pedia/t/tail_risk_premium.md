@@ -32,7 +32,7 @@ Investors who are willing to bear [tail risk](../t/tail_risk.md) can earn a prem
 Several firms are at the forefront of utilizing [algorithmic trading](../a/algorithmic_trading.md) to manage [tail risk](../t/tail_risk.md). Some of the notable ones include:
 
 1. **AQR Capital Management:** AQR employs sophisticated [quantitative models](../q/quantitative_models.md) to manage risk and capture [tail risk](../t/tail_risk.md) premiums. More information can be found on their website [AQR Capital Management](https://www.aqr.com/).
-2. **Man Group - Man AHL:** Man AHL, part of the Man Group, leverages [algorithmic trading](../a/algorithmic_trading.md) and quantitative strategies to manage tail risks and exploit [tail risk](../t/tail_risk.md) premiums. More details are available at [Man Group](https://www.man.com/ahl).
+2. **Man Group - Man AHL:** Man AHL, part of the Man Group, leverages [algorithmic trading](../a/algorithmic_trading.md) and [quantitative strategies](../q/quantitative_strategies_in_trading.md) to manage tail risks and exploit [tail risk](../t/tail_risk.md) premiums. More details are available at [Man Group](https://www.man.com/ahl).
 3. **Two Sigma Investments:** Two Sigma uses machine learning, AI, and [algorithmic trading](../a/algorithmic_trading.md) to identify and capture [tail risk](../t/tail_risk.md) premiums among other trading opportunities. Their website provides extensive information [Two Sigma](https://www.twosigma.com/).
 
 **Conclusion**

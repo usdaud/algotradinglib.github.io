@@ -48,7 +48,7 @@ Several companies and trading platforms are at the forefront of [algorithmic tra
 - **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). [Visit QuantConnect](https://www.quantconnect.com/)
 - **QuantInsti**: Provides professional training and certification in [algorithmic trading](../a/algorithmic_trading.md), empowering traders with the necessary skills to navigate weekly options trading. [Visit QuantInsti](https://www.quantinsti.com/)
 - **Two Sigma**: A highly respected quantitative hedge fund known for its advanced [algorithmic trading](../a/algorithmic_trading.md) strategies. [Visit Two Sigma](https://www.twosigma.com/)
-- **Interactive Brokers**: Offers extensive tools and platforms for [algorithmic trading](../a/algorithmic_trading.md), including options trading. [Visit Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers extensive tools and platforms for [algorithmic trading](../a/algorithmic_trading.md), including options trading. [Visit Interactive Brokers](https://www.interactivebrokers.com/)
 
 ## Risk Management in Weekly Options Trading
 

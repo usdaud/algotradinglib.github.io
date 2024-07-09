@@ -13,7 +13,7 @@ The [efficient frontier](../e/efficient_frontier.md) represents the set of portf
 
 ### Risk and Return
 - **Risk**: In finance, risk typically refers to the variability of returns from an investment. It can be measured using standard deviation or variance.
-- **Return**: Return is the gain or loss generated on an investment relative to the amount of money invested. It's often measured using metrics like expected return, historical return, and geometric mean return.
+- **Return**: Return is the gain or loss generated on an investment relative to the amount of money invested. It's often measured using metrics like expected return, historical return, and [geometric mean](../g/geometric_mean_in_trading.md) return.
 
 ## Portfolio Optimization Models
 
@@ -61,13 +61,13 @@ This approach focuses solely on minimizing risk, irrespective of the return. It 
 Quadratic programming is used extensively in [portfolio optimization](../p/portfolio_optimization.md) problems, particularly for solving [mean-variance optimization](../m/mean-variance_optimization.md) models.
 
 ### Genetic Algorithms
-Genetic Algorithms mimic the process of natural selection to optimize investment portfolios by iteratively selecting, combining, and mutating portfolios to find the optimal set of weights.
+[Genetic Algorithms](../g/genetic_algorithms_in_trading.md) mimic the process of natural selection to optimize investment portfolios by iteratively selecting, combining, and mutating portfolios to find the optimal set of weights.
 
 ### Monte Carlo Simulation
 [Monte Carlo Simulation](../m/monte_carlo_simulation.md) involves running numerous scenarios to understand the potential variability of portfolio returns and to optimize asset weights accordingly.
 
 ### Machine Learning
-Machine learning techniques are increasingly being applied to [portfolio optimization](../p/portfolio_optimization.md). Techniques like reinforcement learning, neural networks, and clustering are used to make better predictions of returns and risk.
+Machine learning techniques are increasingly being applied to [portfolio optimization](../p/portfolio_optimization.md). Techniques like reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and clustering are used to make better predictions of returns and risk.
 
 ## Applications
 
@@ -107,4 +107,4 @@ Transaction costs can erode portfolio returns, particularly in high-frequency [t
 Financial markets are dynamic, and historical data may not always be a reliable indicator of future performance. [Quantitative models](../q/quantitative_models.md) must be adaptive to changing market conditions.
 
 ## Conclusion
-Quantitative [portfolio optimization](../p/portfolio_optimization.md) is a powerful tool for constructing and managing investment portfolios. By leveraging mathematical models, algorithms, and computational techniques, investors can achieve a more informed and systematic approach to managing risk and maximizing returns. While there are challenges and limitations, advancements in technology and data analytics continue to enhance the effectiveness of these methods.
+Quantitative [portfolio optimization](../p/portfolio_optimization.md) is a powerful tool for constructing and managing investment portfolios. By leveraging [mathematical models](../m/mathematical_models_in_trading.md), algorithms, and computational techniques, investors can achieve a more informed and systematic approach to managing risk and maximizing returns. While there are challenges and limitations, advancements in technology and data analytics continue to enhance the effectiveness of these methods.

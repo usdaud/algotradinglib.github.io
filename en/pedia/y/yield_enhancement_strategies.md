@@ -8,7 +8,7 @@ Option writing involves selling options contracts, which can generate additional
 
 ### Covered Call Writing
 
-[Covered call writing](../c/covered_call_writing.md) involves holding a long position in an asset while simultaneously selling a call option on the same asset. The premium received from selling the call option provides additional returns, or "yield." The trade-off is that the investor’s upside potential is capped at the strike price of the sold call option.
+[Covered call writing](../c/covered_call_writing.md) involves holding a long position in an asset while simultaneously selling a call option on the same asset. The premium received from selling the call option provides additional returns, or "yield." The trade-off is that the investor’s [upside potential](../u/upside_potential_in_trading.md) is capped at the strike price of the sold call option.
 
 **Advantages:**
 - Generates additional income through premiums.
@@ -131,7 +131,7 @@ Leveraged yield products are financial instruments that provide amplified exposu
 
 **Risks:**
 - Amplified losses if the underlying asset moves unfavorably.
-- The requirement of continuous management due to daily rebalancing, which can lead to path dependency issues.
+- The requirement of continuous management due to daily rebalancing, which can lead to [path dependency](../p/path_dependency_in_trading.md) issues.
 
 ### Leveraged Bonds
 

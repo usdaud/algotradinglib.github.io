@@ -10,7 +10,7 @@ Low-priced stocks are usually defined as those that trade for less than $5 per s
 
 ### Exchange Listings
 
-Low-priced stocks are often found on over-the-counter (OTC) markets rather than major exchanges like the New York Stock Exchange (NYSE) or NASDAQ. OTC markets, such as the OTC Bulletin Board (OTCBB) and Pink Sheets, have fewer listing requirements, making it easier for smaller companies to be traded. However, some low-priced stocks do trade on major exchanges, especially if they meet the listing requirements.
+Low-priced stocks are often found on [over-the-counter (OTC) markets](../o/over-the-counter_markets.md) rather than major exchanges like the New York Stock Exchange (NYSE) or NASDAQ. OTC markets, such as the OTC Bulletin Board (OTCBB) and Pink Sheets, have fewer listing requirements, making it easier for smaller companies to be traded. However, some low-priced stocks do trade on major exchanges, especially if they meet the listing requirements.
 
 ### Volatility and Liquidity
 

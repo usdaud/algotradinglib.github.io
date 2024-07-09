@@ -29,7 +29,7 @@ Central to order-driven markets is the order book, which is a record of all buy 
 The matching engine is the core of an order-driven market. It is the algorithm that processes incoming orders, matches them according to price and time priority, and executes trades. The matching engine is responsible for ensuring that orders are matched fairly and efficiently. It employs various rules and mechanisms to determine the order of execution, including the following:
 
 - **Price-Time Priority:** Orders are matched based on the best price first. If multiple orders have the same price, the order entered first is matched first.
-- **[Order Matching Algorithms](../o/order_matching_algorithms.md):** Different markets may use different matching algorithms, such as FIFO (First In, First Out), Pro-rata, or a hybrid approach combining elements of both.
+- **[Order Matching Algorithms](../o/order_matching_algorithms.md):** Different markets may use different [matching algorithms](../m/matching_algorithms_in_trading.md), such as FIFO (First In, First Out), Pro-rata, or a hybrid approach combining elements of both.
 
 ### Market Participants
 
@@ -64,7 +64,7 @@ Volatility refers to the degree of variation in asset prices over time. Order-dr
 
 3. **Elimination of Intermediaries:** Direct matching of orders reduces the need for intermediaries, potentially lowering transaction costs.
 
-4. **Flexibility:** A wide range of order types and execution options allows traders to implement diverse strategies.
+4. **Flexibility:** A wide range of [order types](../o/order_types_in_trading.md) and execution options allows traders to implement diverse strategies.
 
 5. **Lower Market Manipulation Risks:** Transparency and efficient matching reduce the likelihood of market manipulation by individual participants.
 
@@ -76,7 +76,7 @@ Volatility refers to the degree of variation in asset prices over time. Order-dr
 
 3. **Higher Volatility:** The absence of market makers can lead to increased volatility, especially during periods of low liquidity.
 
-4. **Complexity:** The wide range of order types and execution mechanisms can be complex for less-experienced traders.
+4. **Complexity:** The wide range of [order types](../o/order_types_in_trading.md) and execution mechanisms can be complex for less-experienced traders.
 
 ## Examples of Order-Driven Markets
 

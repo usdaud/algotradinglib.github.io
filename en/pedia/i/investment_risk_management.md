@@ -43,13 +43,13 @@ Hedging reduces the potential for loss by taking an offsetting position in a rel
 ### Risk Assessment and Measurement Tools
 Several tools and methodologies are employed to quantify and manage risk, including:
 - **Value at Risk (VaR)**: Estimates the maximum potential loss in value of a portfolio over a defined period for a given confidence interval.
-- **Stress Testing**: Simulates extreme market conditions to evaluate the resilience of the financial system or portfolio.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulates extreme market conditions to evaluate the resilience of the financial system or portfolio.
 - **Scenario Analysis**: Examines the impact of different hypothetical scenarios on investments.
 
 ## Institutional Risk Management Frameworks
 
 ### The Basel Accords
-International regulatory frameworks, notably the Basel Accords (Basel I, II, and III), emphasize [risk management](../r/risk_management.md) in the banking sector. They set minimum requirements for capital adequacy, stress testing, and market [liquidity risk](../l/liquidity_risk.md).
+International regulatory frameworks, notably the Basel Accords (Basel I, II, and III), emphasize [risk management](../r/risk_management.md) in the banking sector. They set minimum requirements for capital adequacy, [stress testing](../s/stress_testing_in_trading.md), and market [liquidity risk](../l/liquidity_risk.md).
 
 ### Risk Management Departments
 Large financial institutions typically have dedicated [risk management](../r/risk_management.md) departments responsible for developing [risk management](../r/risk_management.md) policies, performing risk assessments, and ensuring compliance with regulations.
@@ -64,15 +64,15 @@ KRIs are metrics used by organizations to provide an early signal of increasing 
 Advancements in technology and data analytics have revolutionized investment [risk management](../r/risk_management.md). Innovations include:
 
 ### Machine Learning and AI
-Machine learning and artificial intelligence (AI) are increasingly used to improve risk prediction and management by:
+Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly used to improve risk prediction and management by:
 - **Analyzing large datasets**: Identifying patterns and correlations that are not apparent through traditional methods.
 - **[Predictive Modeling](../p/predictive_modeling.md)**: Forecasting potential risk events and market movements.
 
 ### Big Data Analytics
-Big data analytics enables risk managers to process and analyze vast amounts of data from diverse sources, providing deeper insights into risk factors and helping to make more informed investment decisions.
+[Big data analytics](../b/big_data_analytics_in_trading.md) enables risk managers to process and analyze vast amounts of data from diverse sources, providing deeper insights into [risk factors](../r/risk_factors_in_trading.md) and helping to make more informed investment decisions.
 
 ### Blockchain Technology
-Blockchain technology offers enhanced security and transparency in transaction processes, reducing operational and fraud risks.
+[Blockchain](../b/blockchain_in_trading.md) technology offers enhanced security and transparency in transaction processes, reducing operational and fraud risks.
 
 ### Algorithmic Trading
 [Algorithmic trading](../a/algorithmic_trading.md) uses computer algorithms to execute trades at speeds and frequencies that are beyond human capability. It can help manage risk by:
@@ -85,7 +85,7 @@ Blockchain technology offers enhanced security and transparency in transaction p
 BlackRock [website](https://www.blackrock.com) is one of the world's leading investment management firms, focusing heavily on [risk management](../r/risk_management.md) through its Aladdin platform, which provides [portfolio management](../p/portfolio_management.md), trading, and [risk analysis](../r/risk_analysis.md) tools.
 
 ### MSCI
-MSCI [website](https://www.msci.com) offers tools and services for managing risk and performance in investment portfolios. MSCI’s [risk management](../r/risk_management.md) solutions include [factor models](../f/factor_models.md), stress testing, and ESG analytics.
+MSCI [website](https://www.msci.com) offers tools and services for managing risk and performance in investment portfolios. MSCI’s [risk management](../r/risk_management.md) solutions include [factor models](../f/factor_models.md), [stress testing](../s/stress_testing_in_trading.md), and ESG analytics.
 
 ### Risk Management Association (RMA)
 RMA [website](https://www.rmahq.org) is a not-for-profit, member-driven professional association that offers research, education, and industry best practices for [risk management](../r/risk_management.md) in financial institutions.

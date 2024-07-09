@@ -26,7 +26,7 @@ Asset price bubbles typically follow a discernible pattern consisting of five st
 
 Several factors contribute to the formation of asset price bubbles:
 
-1. **Speculation and Herd Behavior**: When investors buy assets in the hope of selling them at higher prices, this speculative mindset can lead to a self-reinforcing loop of rising prices.
+1. **Speculation and [Herd Behavior](../h/herd_behavior_in_trading.md)**: When investors buy assets in the hope of selling them at higher prices, this speculative mindset can lead to a self-reinforcing loop of rising prices.
 2. **Leverage and Credit Availability**: Easy access to credit and leverage allows investors to buy more assets, magnifying the impact of speculative behavior.
 3. **Innovations and Technological Advances**: New technologies or breakthroughs can create excitement about future growth prospects, pushing valuations to unrealistic levels.
 4. **Monetary Policy and Low-interest Rates**: Loose monetary policies and low-interest rates can inflate asset prices as investors seek higher returns in riskier assets.

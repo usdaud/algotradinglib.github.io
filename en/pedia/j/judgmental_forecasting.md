@@ -1,6 +1,6 @@
 # Judgmental Forecasting
 
-Judgmental forecasting is a method of making predictions about future events based on the judgment and intuition of experts. Unlike statistical and algorithmic forecasting methods that rely on historical data and mathematical models, judgmental forecasting leverages the qualitative insights, experience, and intuition of experienced individuals. This technique is particularly useful in situations where historical data is scarce, unreliable, or irrelevant due to drastic changes in the environment or unforeseen events.
+Judgmental forecasting is a method of making predictions about future events based on the judgment and intuition of experts. Unlike statistical and algorithmic forecasting methods that rely on historical data and [mathematical models](../m/mathematical_models_in_trading.md), judgmental forecasting leverages the qualitative insights, experience, and intuition of experienced individuals. This technique is particularly useful in situations where historical data is scarce, unreliable, or irrelevant due to drastic changes in the environment or unforeseen events.
 
 ## Importance in Various Fields
 
@@ -75,7 +75,7 @@ During the COVID-19 pandemic, judgmental forecasting was widely used by health a
 Technology companies like Google and Apple employ judgmental forecasting for strategic planning and innovation. Experienced executives evaluate technological trends, market dynamics, and potential disruptions to guide the company's long-term strategy.
 
 ### Disaster Response and Management
-Organizations like the Federal Emergency Management Agency (FEMA) and Red Cross use judgmental forecasting to anticipate the impact of natural disasters and coordinate response efforts. Experts assess the situation, predict resource needs, and make critical decisions under uncertainty.
+Organizations like the Federal Emergency Management Agency (FEMA) and Red Cross use judgmental forecasting to anticipate the impact of natural disasters and coordinate response efforts. Experts assess the situation, predict resource needs, and make critical decisions under [uncertainty](../u/uncertainty_in_trading.md).
 
 ## Conclusion
 

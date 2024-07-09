@@ -13,7 +13,7 @@
 1. **Standardization**: [Futures contracts](../f/futures_contracts.md) are standardized in terms of contract size, expiration dates, and tick size. This standardization facilitates ease of trading and liquidity.
 2. **Margin Requirements**: Trading futures involves initial and maintenance margin requirements, aimed at mitigating [counterparty risk](../c/counterparty_risk.md).
 3. **Leverage**: [Futures contracts](../f/futures_contracts.md) offer significant leverage, allowing investors to control a large position with a relatively small amount of capital.
-4. **Settlement**: Futures can be settled either in cash or by physical delivery. Most [index futures](../i/index_futures.md) are settled in cash based on the index value at expiration.
+4. **Settlement**: Futures can be settled either in cash or by [physical delivery](../p/physical_delivery_in_trading.md). Most [index futures](../i/index_futures.md) are settled in cash based on the index value at expiration.
 
 ## Understanding Arbitrage in Index Futures
 

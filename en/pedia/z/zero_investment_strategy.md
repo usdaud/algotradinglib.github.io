@@ -56,7 +56,7 @@ Several financial institutions and [proprietary trading](../p/proprietary_tradin
 
 #### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is a hedge fund that is known for its expertise in [quantitative trading](../q/quantitative_trading.md) and zero investment strategies. The firm's flagship Medallion Fund uses complex mathematical models and algorithms to identify trading opportunities and execute trades across various markets. More information can be found on their [website](https://www.rentec.com).
+Renaissance Technologies, founded by Jim Simons, is a hedge fund that is known for its expertise in [quantitative trading](../q/quantitative_trading.md) and zero investment strategies. The firm's flagship Medallion Fund uses complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify trading opportunities and execute trades across various markets. More information can be found on their [website](https://www.rentec.com).
 
 #### D.E. Shaw & Co.
 
@@ -64,7 +64,7 @@ D.E. Shaw & Co. is another prominent hedge fund that employs sophisticated [algo
 
 #### Two Sigma Investments
 
-Two Sigma Investments is a quantitative hedge fund that leverages technology, data science, and artificial intelligence to design and implement [trading strategies](../t/trading_strategies.md), including zero investment strategies. The firm's focus on research and innovation enables it to capitalize on [arbitrage](../a/arbitrage.md) opportunities and market dislocations. Visit their [website](https://www.twosigma.com) for more details.
+Two Sigma Investments is a quantitative hedge fund that leverages technology, [data science](../d/data_science_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to design and implement [trading strategies](../t/trading_strategies.md), including zero investment strategies. The firm's focus on research and innovation enables it to capitalize on [arbitrage](../a/arbitrage.md) opportunities and market dislocations. Visit their [website](https://www.twosigma.com) for more details.
 
 ### Challenges and Limitations
 

@@ -12,11 +12,11 @@ Quantitative investment analysis is a discipline that applies mathematical and s
    - Raw data often needs to be processed before it can be used in [quantitative analysis](../q/quantitative_analysis.md). This step involves handling missing values, removing outliers, normalizing data, and converting it into a format that can be used by [quantitative models](../q/quantitative_models.md). Data preprocessing ensures that the models work with high-quality inputs.
 
 3. **Statistical Analysis**
-   - Statistical techniques such as [regression analysis](../r/regression_analysis.md), correlation, and [hypothesis testing](../h/hypothesis_testing.md) are commonly used to analyze and interpret the relationships within the data. This step helps in understanding patterns, trends, and dependencies which can be crucial for building predictive models.
+   - Statistical techniques such as [regression analysis](../r/regression_analysis.md), correlation, and [hypothesis testing](../h/hypothesis_testing.md) are commonly used to analyze and interpret the relationships within the data. This step helps in understanding patterns, trends, and dependencies which can be crucial for building [predictive models](../p/predictive_models_in_trading.md).
    - For example, [linear regression](../l/linear_regression.md) can be used to understand the relationship between a stock's returns and the returns of the market.
 
 4. **Model Development**
-   - This is one of the core components of quantitative investment analysis. It involves creating mathematical models to predict future price movements, assess risk, and identify potential investment opportunities. These models can be simple, such as moving averages, or complex, such as machine learning algorithms.
+   - This is one of the core components of quantitative investment analysis. It involves creating [mathematical models](../m/mathematical_models_in_trading.md) to predict future price movements, assess risk, and identify potential investment opportunities. These models can be simple, such as moving averages, or complex, such as machine [learning algorithms](../l/learning_algorithms_in_trading.md).
    - The development of models typically follows the stages of model selection, parameter estimation, and validation.
 
 5. **[Backtesting](../b/backtesting.md) and Validation**
@@ -49,7 +49,7 @@ Quantitative investment analysis is a discipline that applies mathematical and s
    - Programming languages like Python, R, and MATLAB are commonly used in quantitative investment analysis. Python, in particular, has gained popularity due to its extensive libraries like NumPy, pandas, and scikit-learn, which ease data manipulation and model development.
 
 2. **Statistical Software**
-   - Software tools like SAS, SPSS, and Stata are frequently used for statistical analysis and econometrics.
+   - [Software tools](../s/software_tools_for_trading.md) like SAS, SPSS, and Stata are frequently used for statistical analysis and [econometrics](../e/econometrics_in_trading.md).
 
 3. **Quantitative Platforms**
    - [QuantConnect](../q/quantconnect.md) ([link](https://www.quantconnect.com)) and [AlgoTrader](../a/algotrader.md) ([link](https://www.algotrader.com)) provide platforms for developing, [backtesting](../b/backtesting.md), and deploying [quantitative trading](../q/quantitative_trading.md) strategies.
@@ -69,10 +69,10 @@ Quantitative investment analysis is a discipline that applies mathematical and s
    - Overfitting occurs when a model captures noise rather than the underlying pattern. This can lead to poor performance when the model is applied to new data. Regularization and [out-of-sample testing](../o/out-of-sample_testing.md) are techniques used to mitigate overfitting.
 
 4. **Regulatory Considerations**
-   - Quantitative strategies must comply with regulatory requirements, which can vary across jurisdictions. Compliance with these regulations is crucial to avoid legal issues and penalties.
+   - [Quantitative strategies](../q/quantitative_strategies_in_trading.md) must comply with regulatory requirements, which can vary across jurisdictions. Compliance with these regulations is crucial to avoid legal issues and penalties.
 
 5. **Market Impact**
-   - The execution of large orders based on quantitative strategies can influence market prices, especially in less liquid markets. Strategies need to account for this to avoid significant market impact.
+   - The execution of large orders based on [quantitative strategies](../q/quantitative_strategies_in_trading.md) can influence market prices, especially in less liquid markets. Strategies need to account for this to avoid significant market impact.
 
 ### Conclusion
 
