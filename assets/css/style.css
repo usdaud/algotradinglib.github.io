@@ -494,6 +494,15 @@ footer a:hover .github-icon {
     text-align: center;
 }
 
+#mc_embed_signup {
+    background: #fff;
+    clear: left;
+    font: 14px Helvetica,Arial,sans-serif;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
 .subscribe-container h1 {
     margin-bottom: 20px;
 }
@@ -690,6 +699,10 @@ footer a:hover .github-icon {
 
     .subscribe-container {
         padding: 10px;
+    }
+
+    #mc_embed_signup {
+        width: 100% !important;
     }
 
     .form-container iframe {
