@@ -90,6 +90,8 @@ layout: base
 </div>
 
 <script>
+var section = '{{ page.section }}';
+
 document.addEventListener('DOMContentLoaded', function() {
   const filterButtons = document.querySelectorAll('.filter-btn, .filter-tag');
   const catalogItems = document.querySelectorAll('.catalog-item');
@@ -114,7 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
       searchParams.append('filter', Array.from(activeFilters).join(','));
     }
     if (activeItem) {
-      if (page.section === 'soft') {
+      if (section === 'soft') {
         if (urlParams.has('data-provider')) {
           searchParams.append('data-provider', activeItem);
         } else if (urlParams.has('broker')) {
@@ -158,7 +160,7 @@ document.addEventListener('DOMContentLoaded', function() {
       let itemCondition = !activeItem;
       if (activeItem) {
         const activeItemLower = activeItem.toLowerCase();
-        if (page.section === 'soft') {
+        if (section === 'soft') {
           itemCondition = supportedDataProviders.includes(activeItemLower) || 
                           supportedBrokers.includes(activeItemLower) ||
                           itemName === activeItemLower;
