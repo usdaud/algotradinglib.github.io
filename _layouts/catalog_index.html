@@ -84,11 +84,6 @@ layout: base
   {% endfor %}
 </div>
 
-<div id="debug-info" style="background-color: #f0f0f0; padding: 10px; margin-top: 20px; border: 1px solid #ccc;">
-  <h3>Debug Information</h3>
-  <pre id="debug-output"></pre>
-</div>
-
 <script>
 var section = '{{ page.section }}';
 
@@ -96,19 +91,10 @@ document.addEventListener('DOMContentLoaded', function() {
   const filterButtons = document.querySelectorAll('.filter-btn, .filter-tag');
   const catalogItems = document.querySelectorAll('.catalog-item');
   const searchInput = document.getElementById('catalog-search');
-  const debugOutput = document.getElementById('debug-output');
 
   let activeFilters = new Set();
   let activeItem = null;
   let searchTerm = '';
-
-  function updateDebugInfo(message) {
-    debugOutput.textContent += message + '\n';
-  }
-
-  function clearDebugInfo() {
-    debugOutput.textContent = '';
-  }
 
   function updateURL() {
     const searchParams = new URLSearchParams();
@@ -137,16 +123,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   function applyFilters() {
-    clearDebugInfo();
-    updateDebugInfo(`Active filters: ${Array.from(activeFilters).join(', ')}`);
-    updateDebugInfo(`Active item: ${activeItem}`);
-    updateDebugInfo(`Search term: ${searchTerm}`);
-
-    let totalItems = 0;
-    let displayedItems = 0;
-
     catalogItems.forEach(item => {
-      totalItems++;
       const itemFilters = item.dataset.filters.toLowerCase().split(',');
       const itemName = item.querySelector('h2').textContent.trim().toLowerCase();
       const supportedDataProviders = item.dataset.supportedDataProviders ? item.dataset.supportedDataProviders.toLowerCase().split(',') : [];
@@ -172,21 +149,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
       const searchCondition = searchTerm === '' || itemName.includes(searchTerm);
 
-      updateDebugInfo(`Item: ${itemName}, Filter: ${filterCondition}, Item: ${itemCondition}, Search: ${searchCondition}`);
-      updateDebugInfo(`Supported Data Providers: ${supportedDataProviders.join(', ')}`);
-      updateDebugInfo(`Supported Brokers: ${supportedBrokers.join(', ')}`);
-      updateDebugInfo(`Supported Software: ${supportedSoftware.join(', ')}`);
-
       if (filterCondition && itemCondition && searchCondition) {
         item.style.display = 'block';
-        displayedItems++;
       } else {
         item.style.display = 'none';
       }
     });
-
-    updateDebugInfo(`Total items: ${totalItems}`);
-    updateDebugInfo(`Displayed items: ${displayedItems}`);
   }
 
   filterButtons.forEach(button => {
@@ -224,12 +192,6 @@ document.addEventListener('DOMContentLoaded', function() {
   const urlBroker = urlParams.get('broker');
   const urlSoftware = urlParams.get('software');
   const urlSearch = urlParams.get('search');
-  
-  updateDebugInfo(`URL Filters: ${urlFilters.join(', ')}`);
-  updateDebugInfo(`URL Data Provider: ${urlDataProvider}`);
-  updateDebugInfo(`URL Broker: ${urlBroker}`);
-  updateDebugInfo(`URL Software: ${urlSoftware}`);
-  updateDebugInfo(`URL Search: ${urlSearch}`);
 
   if (urlFilters.length > 0 || urlDataProvider || urlBroker || urlSoftware || urlSearch) {
     urlFilters.forEach(filter => {
@@ -245,7 +207,6 @@ document.addEventListener('DOMContentLoaded', function() {
     
     if (urlDataProvider || urlBroker || urlSoftware) {
       activeItem = decodeURIComponent(urlDataProvider || urlBroker || urlSoftware);
-      updateDebugInfo(`Active item set to: ${activeItem}`);
     }
 
     if (urlSearch) {
