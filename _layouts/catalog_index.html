@@ -32,7 +32,11 @@ layout: base
 <div id="catalog-list">
   {% assign sorted_catalog = page.catalog | sort: 'name' %}
   {% for item in sorted_catalog %}
-    <div class="catalog-item" data-filters="{{ item.filters | join: ',' }}">
+    <div class="catalog-item" 
+        data-filters="{{ item.filters | join: ',' | downcase }}"
+        data-supported-data-providers="{{ item.supported_data_providers | join: ',' | downcase }}"
+        data-supported-brokers="{{ item.supported_brokers | join: ',' | downcase }}">
+
       <div class="item-header">
         <img src="{{ item.logo | relative_url }}" alt="{{ item.name }} logo">
         <div class="external-links">
@@ -143,24 +147,26 @@ document.addEventListener('DOMContentLoaded', function() {
       totalItems++;
       const itemFilters = item.dataset.filters.toLowerCase().split(',');
       const itemName = item.querySelector('h2').textContent.trim().toLowerCase();
-      
+      const supportedDataProviders = item.dataset.supportedDataProviders ? item.dataset.supportedDataProviders.toLowerCase().split(',') : [];
+      const supportedBrokers = item.dataset.supportedBrokers ? item.dataset.supportedBrokers.toLowerCase().split(',') : [];
+    
       const filterCondition = activeFilters.size === 0 || Array.from(activeFilters).every(filter => 
         itemFilters.includes(filter.toLowerCase())
       );
 
       let itemCondition = !activeItem;
       if (activeItem) {
-        const supportedDataProviders = item.dataset.supportedDataProviders ? item.dataset.supportedDataProviders.toLowerCase().split(',') : [];
-        const supportedBrokers = item.dataset.supportedBrokers ? item.dataset.supportedBrokers.toLowerCase().split(',') : [];
-        
-        itemCondition = supportedDataProviders.includes(activeItem.toLowerCase()) || 
-                        supportedBrokers.includes(activeItem.toLowerCase()) ||
-                        itemName === activeItem.toLowerCase();
+        const activeItemLower = activeItem.toLowerCase();
+        itemCondition = supportedDataProviders.includes(activeItemLower) || 
+                      supportedBrokers.includes(activeItemLower) ||
+                      itemName === activeItemLower;
       }
 
       const searchCondition = searchTerm === '' || itemName.includes(searchTerm);
 
       updateDebugInfo(`Item: ${itemName}, Filter: ${filterCondition}, Item: ${itemCondition}, Search: ${searchCondition}`);
+      updateDebugInfo(`Supported Data Providers: ${supportedDataProviders.join(', ')}`);
+      updateDebugInfo(`Supported Brokers: ${supportedBrokers.join(', ')}`);
 
       if (filterCondition && itemCondition && searchCondition) {
         item.style.display = 'block';
