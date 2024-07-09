@@ -148,9 +148,19 @@ document.addEventListener('DOMContentLoaded', function() {
         itemFilters.includes(filter.toLowerCase())
       );
 
-      const itemCondition = !activeItem || itemName === activeItem.toLowerCase();
+      let itemCondition = !activeItem;
+      if (activeItem) {
+        const supportedDataProviders = item.dataset.supportedDataProviders ? item.dataset.supportedDataProviders.toLowerCase().split(',') : [];
+        const supportedBrokers = item.dataset.supportedBrokers ? item.dataset.supportedBrokers.toLowerCase().split(',') : [];
+        
+        itemCondition = supportedDataProviders.includes(activeItem.toLowerCase()) || 
+                        supportedBrokers.includes(activeItem.toLowerCase()) ||
+                        itemName === activeItem.toLowerCase();
+      }
 
       const searchCondition = searchTerm === '' || itemName.includes(searchTerm);
+
+      updateDebugInfo(`Item: ${itemName}, Filter: ${filterCondition}, Item: ${itemCondition}, Search: ${searchCondition}`);
 
       if (filterCondition && itemCondition && searchCondition) {
         item.style.display = 'block';
