@@ -1,0 +1,223 @@
+﻿- name: Algoseek
+  description: 高质量金融和替代数据提供商
+  logo: /assets/images/logos/algoseek.png
+  website: https://www.algoseek.com/
+  pedia_link: /zh/pedia/a/algoseek.html
+  filters: [历史数据, 股票, 期货, 期权]
+
+- name: Barchart
+  description: 市场数据和信息提供商
+  logo: /assets/images/logos/barchart.png
+  website: https://www.barchart.com/
+  pedia_link: /zh/pedia/b/barchart.html
+  filters: [API, 实时数据, 历史数据, 股票, 期货, 期权, 外汇, 加密货币, 免费]
+
+- name: Bloomberg
+  description: 全球金融数据和新闻提供商
+  logo: /assets/images/logos/bloomberg.png
+  website: https://www.bloomberg.com/professional/
+  pedia_link: /zh/pedia/b/bloomberg.html
+  filters: [实时数据, 历史数据, 新闻, 股票, 期货, 期权, 外汇, 加密货币, 指数, 商品]
+
+- name: CQG
+  description: 全球金融数据和交易解决方案提供商
+  logo: /assets/images/logos/cqg.png
+  website: https://www.cqg.com/
+  pedia_link: /zh/pedia/c/cqg.html
+  filters: [API, 实时数据, 历史数据, 期货, 期权, 外汇]
+
+- name: DxFeed
+  description: 金融市场数据和服务提供商
+  logo: /assets/images/logos/dxfeed.png
+  website: https://www.dxfeed.com/
+  pedia_link: /zh/pedia/d/dxfeed.html
+  filters: [API, 实时数据, 股票, 期权, 期货, 外汇]
+
+- name: EODData
+  description: 收盘金融数据提供商
+  logo: /assets/images/logos/eoddata.png
+  website: https://eoddata.com/
+  pedia_link: /zh/pedia/e/eoddata.html
+  filters: [历史数据, API, 股票, 外汇, 免费]
+
+- name: Estimize
+  description: 众包金融预估平台
+  logo: /assets/images/logos/estimize.png
+  website: https://www.estimize.com/
+  pedia_link: /zh/pedia/e/estimize.html
+  filters: [股票]
+
+- name: Exchange Data International
+  description: 全球证券数据提供商
+  logo: /assets/images/logos/edi.png
+  website: https://www.exchange-data.com/
+  pedia_link: /zh/pedia/e/exchange_data_international.html
+  filters: [历史数据, 股票, 指数]
+
+- name: FactSet
+  description: 金融数据和软件公司
+  logo: /assets/images/logos/factset.png
+  website: https://www.factset.com/
+  pedia_link: /zh/pedia/f/factset.html
+  filters: [API, 实时数据, 历史数据, 股票, 期货, 期权, 外汇, 加密货币, 指数]
+
+- name: FINRA
+  description: 金融业监管局
+  logo: /assets/images/logos/finra.png
+  website: https://www.finra.org/
+  pedia_link: /zh/pedia/f/finra.html
+  filters: [历史数据, 股票, 债券]
+
+- name: FTSE Russell
+  description: 全球指数提供商
+  logo: /assets/images/logos/ftse_russell.png
+  website: https://www.ftserussell.com/
+  pedia_link: /zh/pedia/f/ftse_russell.html
+  filters: [指数, 历史数据]
+
+- name: IEX Cloud
+  description: 金融数据基础设施平台
+  logo: /assets/images/logos/iex.png
+  website: https://iexcloud.io/
+  pedia_link: /zh/pedia/i/iex_cloud.html
+  filters: [API, 实时数据, 历史数据, 股票, 外汇, 加密货币, 免费]
+
+- name: Infront
+  description: 市场数据和交易解决方案提供商
+  logo: /assets/images/logos/infront.png
+  website: https://www.infrontfinance.com/
+  pedia_link: /zh/pedia/i/infront.html
+  filters: [实时数据, 历史数据, 股票, 期货, 期权, 外汇]
+
+- name: Interactive Data Corporation
+  description: 金融市场数据提供商（现为洲际交易所的一部分）
+  logo: /assets/images/logos/ice.png
+  website: https://www.theice.com/market-data
+  pedia_link: /zh/pedia/i/idc.html
+  filters: [实时数据, 历史数据, 股票, 债券, 期货, 期权]
+
+- name: Intrinio
+  description: 金融数据市场
+  logo: /assets/images/logos/intrinio.png
+  website: https://intrinio.com/
+  pedia_link: /zh/pedia/i/intrinio.html
+  filters: [API, 实时数据, 历史数据, 股票, 期权, 外汇, 加密货币, 免费]
+
+- name: Iress
+  description: 金融软件公司
+  logo: /assets/images/logos/iress.png
+  website: https://www.iress.com/
+  pedia_link: /zh/pedia/i/iress.html
+  filters: [实时数据, 历史数据, 股票, 期货, 期权]
+
+- name: IQFeed
+  description: 流式市场数据源
+  logo: /assets/images/logos/iqfeed.png
+  website: http://www.iqfeed.net/
+  pedia_link: /zh/pedia/i/iqfeed.html
+  filters: [API, 实时数据, 历史数据, 股票, 期货, 外汇]
+
+- name: Kinetick
+  description: 专业级金融市场数据源
+  logo: /assets/images/logos/kinetick.png
+  website: https://www.kinetick.com/
+  pedia_link: /zh/pedia/k/kinetick.html
+  filters: [实时数据, 历史数据, 股票, 期货, 期权, 外汇]
+
+- name: MarketAxess
+  description: 固定收益证券电子交易平台
+  logo: /assets/images/logos/marketaxess.png
+  website: https://www.marketaxess.com/
+  pedia_link: /zh/pedia/m/marketaxess.html
+  filters: [债券, 实时数据, 历史数据]
+
+- name: Morningstar
+  description: 投资研究和管理公司
+  logo: /assets/images/logos/morningstar.png
+  website: https://www.morningstar.com/
+  pedia_link: /zh/pedia/m/morningstar.html
+  filters: [历史数据, 股票, 基金, ETF]
+
+- name: Polygon.io
+  description: 金融市场数据API提供商
+  logo: /assets/images/logos/polygonio.png
+  website: https://polygon.io/
+  pedia_link: /zh/pedia/p/polygonio.html
+  filters: [API, 实时数据, 历史数据, 股票, 期权, 外汇, 加密货币, 免费]
+
+- name: QuoteMedia
+  description: 金融市场数据解决方案提供商
+  logo: /assets/images/logos/quotemedia.png
+  website: https://www.quotemedia.com/
+  pedia_link: /zh/pedia/q/quotemedia.html
+  filters: [API, 实时数据, 历史数据, 股票, 期权, 外汇]
+
+- name: Quandl
+  description: 金融、经济和替代数据平台
+  logo: /assets/images/logos/quandl.png
+  website: https://www.quandl.com/
+  pedia_link: /zh/pedia/q/quandl.html
+  filters: [API, 历史数据, 股票, 期货, 外汇, 指数, 商品, 免费]
+
+- name: Reuters
+  description: 全球新闻和金融数据提供商
+  logo: /assets/images/logos/reuters.png
+  website: https://www.reuters.com/
+  pedia_link: /zh/pedia/r/reuters.html
+  filters: [实时数据, 新闻, 历史数据, 股票, 期货, 期权, 外汇, 加密货币, 指数, 商品]
+
+- name: RavenPack
+  description: 金融服务大数据分析提供商
+  logo: /assets/images/logos/ravenpack.png
+  website: https://www.ravenpack.com/
+  pedia_link: /zh/pedia/r/ravenpack.html
+  filters: [新闻]
+
+- name: Six Financial Information
+  description: 全球金融数据提供商
+  logo: /assets/images/logos/six.png
+  website: https://www.six-group.com/en/products-services/financial-information.html
+  pedia_link: /zh/pedia/s/six_financial_information.html
+  filters: [实时数据, 历史数据, 股票, 债券, 基金]
+
+- name: S&P Global Market Intelligence
+  description: 金融信息和分析提供商
+  logo: /assets/images/logos/spglobal.png
+  website: https://www.spglobal.com/marketintelligence/
+  pedia_link: /zh/pedia/s/snp_global_market_intelligence.html
+  filters: [历史数据, 股票, 债券, 商品]
+
+- name: Tiingo
+  description: 金融数据和研究平台
+  logo: /assets/images/logos/tiingo.png
+  website: https://www.tiingo.com/
+  pedia_link: /zh/pedia/t/tiingo.html
+  filters: [API, 历史数据, 股票, 加密货币, 新闻, 免费]
+
+- name: Trading Economics
+  description: 全球经济数据提供商
+  logo: /assets/images/logos/tradingeconomics.png
+  website: https://tradingeconomics.com/
+  pedia_link: /zh/pedia/t/trading_economics.html
+  filters: [历史数据, 免费]
+
+- name: Xignite
+  description: 基于云的金融市场数据提供商
+  logo: /assets/images/logos/xignite.png
+  website: https://www.xignite.com/
+  pedia_link: /zh/pedia/x/xignite.html
+  filters: [API, 实时数据, 历史数据, 股票, 期货, 期权, 外汇, 加密货币]
+
+- name: Yahoo Finance
+  description: 金融新闻和数据提供商
+  logo: /assets/images/logos/yahoo_finance.png
+  website: https://finance.yahoo.com/
+  pedia_link: /zh/pedia/y/yahoo_finance.html
+  filters: [API, 历史数据, 新闻, 股票, 期权, 加密货币, 外汇, 指数, 免费]
+
+- name: CoinGecko
+  description: 加密货币数据聚合和分析平台
+  logo: /assets/images/logos/coingecko.png
+  website: https://www.coingecko.com/
+  pedia_link: /zh/pedia/c/coingecko.html
+  filters: [加密货币]

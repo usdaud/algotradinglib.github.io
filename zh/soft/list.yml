@@ -1,0 +1,404 @@
+- name: Amibroker
+  description: 技术分析和回测工具
+  logo: /assets/images/logos/amibroker.png
+  website: https://www.amibroker.com/
+  pedia_link: /zh/pedia/a/amibroker.html
+  filters: [回测, 图表绘制, 股票, 历史数据, 自定义脚本]
+  supported_data_providers: [eSignal, IQFeed, Interactive Brokers, Quandl, Yahoo Finance, Google Finance, Tiingo, Alpha Vantage]
+  supported_brokers: [Interactive Brokers]
+
+- name: ATAS
+  description: 高级交易和分析平台
+  logo: /assets/images/logos/atas.png
+  website: https://atas.net/
+  pedia_link: /zh/pedia/a/atas.html
+  filters: [图表绘制, 实时交易, 实时数据, C#]
+  supported_data_providers: [CQG, IQFeed, Interactive Brokers, Rithmic]
+  supported_brokers: [Interactive Brokers, CQG, Rithmic, AMP, LMAX, Binance]
+
+- name: Backtrader
+  description: 用于回测交易策略的Python框架
+  logo: /assets/images/logos/backtrader.png
+  website: https://www.backtrader.com/
+  pedia_link: /zh/pedia/b/backtrader.html
+  github: https://github.com/mementum/backtrader
+  filters: [免费, 回测, 模拟交易, 开源, Python]
+  supported_data_providers: [Yahoo Finance, Interactive Brokers, Oanda, Quandl]
+  supported_brokers: [Interactive Brokers, Oanda]
+
+- name: BlueShift
+  description: Blueshift Asset Management的算法交易平台
+  logo: /assets/images/logos/blueshift.png
+  website: https://blueshift.com/
+  pedia_link: /zh/pedia/b/blueshift.html
+  filters: [API, 回测, 实时交易, Python]
+  supported_data_providers: [Alpaca, IEX Cloud, Polygon.io]
+  supported_brokers: [Alpaca]
+
+- name: cTrader
+  description: 用于外汇和差价合约交易的高级交易平台
+  logo: /assets/images/logos/ctrader.png
+  website: https://www.ctrader.com/
+  pedia_link: /zh/pedia/c/ctrader.html
+  filters: [API, 实时交易, 模拟交易, C#]
+  supported_data_providers: []
+  supported_brokers: [IC Markets, Pepperstone, FxPro, Axiory, FXCM]
+
+- name: ChartIQ
+  description: HTML5图表和技术分析软件
+  logo: /assets/images/logos/chartiq.png
+  website: https://www.spglobal.com/marketintelligence/en/solutions/chartiq
+  pedia_link: /zh/pedia/c/chartiq.html
+  filters: [图表绘制, API, JavaScript]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: CQG
+  description: 专业的期货和期权交易平台
+  logo: /assets/images/logos/cqg.png
+  website: https://www.cqg.com/
+  pedia_link: /zh/pedia/c/cqg.html
+  filters: [实时交易, API, 实时数据]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Deltix
+  description: 量化研究和算法交易平台
+  logo: /assets/images/logos/deltix.png
+  website: https://www.deltixlab.com/
+  pedia_link: /zh/pedia/d/deltix.html
+  filters: [回测, 实时交易, API, Java]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: DXTrade
+  description: 多资产交易平台
+  logo: /assets/images/logos/dxtrade.png
+  website: https://dx.trade/
+  pedia_link: /zh/pedia/d/dxtrade.html
+  filters: [实时交易, API, 实时数据]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: eSignal
+  description: 实时市场数据和分析软件
+  logo: /assets/images/logos/esignal.png
+  website: https://www.esignal.com/
+  pedia_link: /zh/pedia/e/esignal.html
+  filters: [图表绘制, 实时数据, 历史数据]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Genesis
+  description: 金融市场的微服务和模块
+  logo: /assets/images/logos/genesis.png
+  website: https://genesis.global/
+  pedia_link: /zh/pedia/g/genesis.html
+  filters: [API, 实时交易]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: GoCharting
+  description: 基于网络的图表和技术分析平台
+  logo: /assets/images/logos/gocharting.png
+  website: https://gocharting.com/
+  pedia_link: /zh/pedia/g/gocharting.html
+  filters: [图表绘制, 股票, 加密货币]
+  supported_data_providers: [Yahoo Finance, Binance, CoinGecko]
+  supported_brokers: []
+
+- name: IBridgePy
+  description: 用于Interactive Brokers的Python交易框架
+  logo: /assets/images/logos/ibridgepy.png
+  website: https://ibridgepy.com/
+  pedia_link: /zh/pedia/i/ibridgepy.html
+  filters: [API, 实时交易, 模拟交易, 股票, Python]
+  supported_data_providers: [Interactive Brokers, Yahoo Finance, TD Ameritrade]
+  supported_brokers: [Interactive Brokers]
+
+- name: JForex
+  description: Dukascopy的基于Java的交易平台
+  logo: /assets/images/logos/jforex.png
+  website: https://www.dukascopy.com/europe/english/forex/jforex/
+  pedia_link: /zh/pedia/j/jforex.html
+  filters: [API, 实时交易, 回测, Java]
+  supported_data_providers: [Dukascopy]
+  supported_brokers: [Dukascopy]
+
+- name: Jigsaw Trading
+  description: 订单流交易软件
+  logo: /assets/images/logos/jigsaw.png
+  website: https://www.jigsawtrading.com/
+  pedia_link: /zh/pedia/j/jigsaw_trading.html
+  filters: [实时交易, 实时数据]
+  supported_data_providers: [CQG, Rithmic]
+  supported_brokers: [Interactive Brokers, AMP, Dorman Trading, Interactive Brokers, Optimus Futures, Wedbush]
+
+- name: Kite by Zerodha
+  description: Zerodha的现代交易平台
+  logo: /assets/images/logos/zerodha.png
+  website: https://kite.zerodha.com/
+  pedia_link: /zh/pedia/k/kite_zerodha.html
+  filters: [API, 实时交易, 股票]
+  supported_data_providers: [Zerodha]
+  supported_brokers: [Zerodha]
+
+- name: Lightweight Charts
+  description: 轻量级金融图表库
+  logo: /assets/images/logos/tradingview.png
+  website: https://www.tradingview.com/lightweight-charts/
+  pedia_link: /zh/pedia/l/lightweight_charts.html
+  github: https://github.com/tradingview/lightweight-charts
+  filters: [图表绘制, JavaScript, 开源]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Livevol
+  description: 期权分析和交易平台
+  logo: /assets/images/logos/livevol.png
+  website: https://www.livevol.com/
+  pedia_link: /zh/pedia/l/livevol.html
+  filters: [实时交易, 实时数据, 股票]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Marketcetera
+  description: 开源交易平台
+  logo: /assets/images/logos/marketcetera.png
+  website: https://www.marketcetera.com/
+  pedia_link: /zh/pedia/m/marketcetera.html
+  github: https://github.com/marketcetera/marketcetera
+  filters: [开源, Java, 实时交易, API]
+  supported_data_providers: []
+  supported_brokers: [Interactive Brokers]
+
+- name: MetaTrader 4
+  description: 流行的外汇和差价合约交易平台
+  logo: /assets/images/logos/metatrader.png
+  website: https://www.metatrader4.com/
+  pedia_link: /zh/pedia/m/metatrader4.html
+  filters: [实时交易, 回测, 自定义脚本]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: MetaTrader 5
+  description: 多资产交易平台
+  logo: /assets/images/logos/metatrader.png
+  website: https://www.metatrader5.com/
+  pedia_link: /zh/pedia/m/metatrader5.html
+  filters: [实时交易, 回测, 自定义脚本]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: MotiveWave
+  description: 专业的图表和交易软件
+  logo: /assets/images/logos/motivewave.png
+  website: https://www.motivewave.com/
+  pedia_link: /zh/pedia/m/motivewave.html
+  filters: [图表绘制, 实时交易, 回测, Java]
+  supported_data_providers: [CQG, IQFeed, Interactive Brokers, TradeStation, eSignal, Rithmic]
+  supported_brokers: [Interactive Brokers, TradeStation, CQG, Rithmic, FXCM]
+
+- name: MultiCharts
+  description: 用于技术分析和自动化交易的专业交易平台
+  logo: /assets/images/logos/multicharts.png
+  website: https://www.multicharts.com/
+  pedia_link: /zh/pedia/m/multicharts.html
+  filters: [图表绘制, 实时交易, 回测, C#]
+  supported_data_providers: [Interactive Brokers, IQFeed, CQG, eSignal, Rithmic, Bloomberg]
+  supported_brokers: [Interactive Brokers, TradeStation, Rithmic, CQG, TD Ameritrade]
+
+- name: NinjaTrader
+  description: 为活跃交易者提供的交易和图表软件
+  logo: /assets/images/logos/ninjatrader.png
+  website: https://ninjatrader.com/
+  pedia_link: /zh/pedia/n/ninjatrader.html
+  filters: [实时交易, 回测, 图表绘制, C#]
+  supported_data_providers: [CQG, Kinetick, Rithmic]
+  supported_brokers: [NinjaTrader Brokerage, CQG, Rithmic, Interactive Brokers, TD Ameritrade]
+
+- name: NautilusTrader
+  description: 高性能算法交易框架
+  logo: /assets/images/logos/nautilustrader.png
+  website: https://nautilustrader.io/
+  pedia_link: /zh/pedia/n/nautilustrader.html
+  github: https://github.com/nautechsystems/nautilus_trader
+  filters: [Python, 回测, 实时交易, 开源]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: NeuroShell
+  description: 用于金融预测和交易的神经网络软件
+  logo: /assets/images/logos/ward_systems.png
+  website: https://www.ward.net/
+  pedia_link: /zh/pedia/n/neuroshell.html
+  filters: [回测]
+  supported_data_providers: [MetaStock, eSignal]
+  supported_brokers: []
+
+- name: Optuma
+  description: 专业技术分析软件
+  logo: /assets/images/logos/optuma.png
+  website: https://www.optuma.com/
+  pedia_link: /zh/pedia/o/optuma.html
+  filters: [图表绘制, 回测, 历史数据]
+  supported_data_providers: [Bloomberg, Morningstar, Reuters, Iress, MetaStock]
+  supported_brokers: []
+
+- name: QuantConnect
+  description: 开源算法交易平台
+  logo: /assets/images/logos/quantconnect.png
+  website: https://www.quantconnect.com/
+  pedia_link: /zh/pedia/q/quantconnect.html
+  github: https://github.com/QuantConnect/Lean
+  filters: [回测, 实时交易, 历史数据, API, 开源, Python, C#]
+  supported_data_providers: []
+  supported_brokers: [Interactive Brokers, OANDA, Bitfinex, Coinbase, Alpaca]
+
+- name: QuantHouse
+  description: 市场数据和交易基础设施提供商
+  logo: /assets/images/logos/quanthouse.png
+  website: https://www.quanthouse.com/
+  pedia_link: /zh/pedia/q/quanthouse.html
+  filters: [市场数据, 历史数据, API, 股票]
+  supported_data_providers: [Iress]
+  supported_brokers: []
+
+- name: Quantlib
+  description: 量化金融库
+  logo: /assets/images/logos/quantlib.png
+  website: https://www.quantlib.org/
+  pedia_link: /zh/pedia/q/quantlib.html
+  github: https://github.com/lballabio/QuantLib
+  filters: [开源, C++]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: QuantRocket
+  description: 量化交易平台
+  logo: /assets/images/logos/quantrocket.png
+  website: https://www.quantrocket.com/
+  pedia_link: /zh/pedia/q/quantrocket.html
+  filters: [回测, 实时交易, API, Python]
+  supported_data_providers: [Interactive Brokers, IEX Cloud, Alpaca]
+  supported_brokers: [Interactive Brokers]
+
+- name: QuantShare
+  description: 回测和自动化交易软件
+  logo: /assets/images/logos/quantshare.png
+  website: https://www.quantshare.com/
+  pedia_link: /zh/pedia/q/quantshare.html
+  filters: [回测, 实时交易, C#]
+  supported_data_providers: [Yahoo Finance, Google Finance, Quandl, AlphaVantage, IEX Cloud]
+  supported_brokers: [Interactive Brokers]
+
+- name: Rithmic
+  description: 交易和市场数据平台
+  logo: /assets/images/logos/rithmic.png
+  website: https://www.rithmic.com/
+  pedia_link: /zh/pedia/r/rithmic.html
+  filters: [实时交易, API, 实时数据]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Sierra Chart
+  description: 专业图表和交易软件
+  logo: /assets/images/logos/sierra_chart.png
+  website: https://www.sierrachart.com/
+  pedia_link: /zh/pedia/s/sierra_chart.html
+  filters: [图表绘制, 实时交易, 回测, C++]
+  supported_data_providers: [CQG, Rithmic, IQFeed, Interactive Brokers, Kinetick]
+  supported_brokers: [Interactive Brokers, AMP Futures, Dorman Trading]
+
+- name: Sterling Trader
+  description: 专业直接访问交易平台
+  logo: /assets/images/logos/sterling_trader.png
+  website: https://www.sterlingtradingtech.com/
+  pedia_link: /zh/pedia/s/sterling_trader.html
+  filters: [实时交易]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: StockSharp
+  description: 用于算法交易的开源交易平台
+  logo: /assets/images/logos/stocksharp.png
+  website: https://stocksharp.com/
+  pedia_link: /zh/pedia/s/stocksharp.html
+  github: https://github.com/StockSharp/StockSharp
+  filters: [开源, 免费, 历史数据, API, 回测, 实时交易, C#]
+  supported_data_providers: [IQFeed, IEX, Quandl, Yahoo Finance, Finam]
+  supported_brokers: [Interactive Brokers, FXCM, OANDA, Binance, LMAX]
+
+- name: ThinkOrSwim
+  description: TD Ameritrade的高级交易平台
+  logo: /assets/images/logos/thinkorswim.png
+  website: https://www.schwab.com/trading/thinkorswim
+  pedia_link: /zh/pedia/t/thinkorswim.html
+  filters: [实时交易, 回测, 图表绘制]
+  supported_data_providers: []
+  supported_brokers: [Ameritrade]
+
+- name: TradeStation
+  description: 面向金融市场交易者的电子交易平台
+  logo: /assets/images/logos/tradestation.png
+  website: https://www.tradestation.com/
+  pedia_link: /zh/pedia/t/tradestation.html
+  filters: [实时交易, 回测, 自定义脚本]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Trading Technologies
+  description: 专业衍生品交易软件
+  logo: /assets/images/logos/trading_technologies.png
+  website: https://www.tradingtechnologies.com/
+  pedia_link: /zh/pedia/t/trading_technologies.html
+  filters: [实时交易, API]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: TradingView
+  description: 面向交易者和投资者的基于Web的图表和社交网络平台
+  logo: /assets/images/logos/tradingview.png
+  website: https://www.tradingview.com/
+  pedia_link: /zh/pedia/t/tradingview.html
+  filters: [图表绘制, 回测, 自定义脚本]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Volfix
+  description: 分析和交易平台
+  logo: /assets/images/logos/volfix.png
+  website: https://volfix.net/
+  pedia_link: /zh/pedia/v/volfix.html
+  filters: [实时交易, 股票]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Wyden
+  description: 专业算法交易平台
+  logo: /assets/images/logos/wyden.png
+  website: https://www.wyden.io/
+  pedia_link: /zh/pedia/w/wyden.html
+  filters: [回测, 实时交易, 股票, 加密货币, Java]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: MetaStock
+  description: 为交易者提供的图表和技术分析软件
+  logo: /assets/images/logos/metastock.png
+  website: https://www.metastock.com/
+  pedia_link: /zh/pedia/m/metastock.html
+  github: null
+  filters: [图表绘制, 回测, 实时数据]
+  supported_data_providers: [eSignal]
+  supported_brokers: [Interactive Brokers, Ameritrade, TradeStation]
+
+- name: SciChart
+  description: 高性能图表和科学可视化库
+  logo: /assets/images/logos/scichart.png
+  website: https://www.scichart.com/
+  pedia_link: /zh/pedia/s/scichart.html
+  github: https://github.com/ABTSoftware/
+  filters: [图表绘制, JavaScript]
+  supported_data_providers: []
+  supported_brokers: []
