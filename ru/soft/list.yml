@@ -3,7 +3,7 @@
   logo: /assets/images/logos/amibroker.png
   website: https://www.amibroker.com/
   pedia_link: /ru/pedia/a/amibroker.html
-  filters: [Бэктестинг, Чартинг, Акции, История, Пользовательские скрипты]
+  filters: [Бэктестинг, Чартинг, Акции, История, Свой язык]
   supported_data_providers: [eSignal, IQFeed, Interactive Brokers, Quandl, Yahoo Finance, Google Finance, Tiingo, Alpha Vantage]
   supported_brokers: [Interactive Brokers]
 
@@ -12,7 +12,7 @@
   logo: /assets/images/logos/atas.png
   website: https://atas.net/
   pedia_link: /ru/pedia/a/atas.html
-  filters: [Чартинг, Реал торги, Реал-тайм данные, C#]
+  filters: [Чартинг, Реал торги, Реал-тайм, C#]
   supported_data_providers: [CQG, IQFeed, Interactive Brokers, Rithmic]
   supported_brokers: [Interactive Brokers, CQG, Rithmic, AMP, LMAX, Binance]
 
@@ -22,7 +22,7 @@
   website: https://www.backtrader.com/
   pedia_link: /ru/pedia/b/backtrader.html
   github: https://github.com/mementum/backtrader
-  filters: [Бесплатно, Бэктестинг, Демо торги, Открытые исходники, Python]
+  filters: [Бесплатно, Бэктестинг, Демо торги, Исходные коды, Python]
   supported_data_providers: [Yahoo Finance, Interactive Brokers, Oanda, Quandl]
   supported_brokers: [Interactive Brokers, Oanda]
 
@@ -58,7 +58,7 @@
   logo: /assets/images/logos/cqg.png
   website: https://www.cqg.com/
   pedia_link: /ru/pedia/c/cqg.html
-  filters: [Реал торги, API, Реал-тайм данные]
+  filters: [Реал торги, API, Реал-тайм]
   supported_data_providers: []
   supported_brokers: []
 
@@ -76,7 +76,7 @@
   logo: /assets/images/logos/dxtrade.png
   website: https://dx.trade/
   pedia_link: /ru/pedia/d/dxtrade.html
-  filters: [Реал торги, API, Реал-тайм данные]
+  filters: [Реал торги, API, Реал-тайм]
   supported_data_providers: []
   supported_brokers: []
 
@@ -85,7 +85,7 @@
   logo: /assets/images/logos/esignal.png
   website: https://www.esignal.com/
   pedia_link: /ru/pedia/e/esignal.html
-  filters: [Чартинг, Реал-тайм данные, История]
+  filters: [Чартинг, Реал-тайм, История]
   supported_data_providers: []
   supported_brokers: []
 
@@ -130,7 +130,7 @@
   logo: /assets/images/logos/jigsaw.png
   website: https://www.jigsawtrading.com/
   pedia_link: /ru/pedia/j/jigsaw_trading.html
-  filters: [Реал торги, Реал-тайм данные]
+  filters: [Реал торги, Реал-тайм]
   supported_data_providers: [CQG, Rithmic]
   supported_brokers: [Interactive Brokers, AMP, Dorman Trading, Interactive Brokers, Optimus Futures, Wedbush]
 
@@ -149,7 +149,7 @@
   website: https://www.tradingview.com/lightweight-charts/
   pedia_link: /ru/pedia/l/lightweight_charts.html
   github: https://github.com/tradingview/lightweight-charts
-  filters: [Чартинг, JavaScript, Открытые исходники]
+  filters: [Чартинг, JavaScript, Исходные коды]
   supported_data_providers: []
   supported_brokers: []
 
@@ -158,7 +158,7 @@
   logo: /assets/images/logos/livevol.png
   website: https://www.livevol.com/
   pedia_link: /ru/pedia/l/livevol.html
-  filters: [Реал торги, Реал-тайм данные, Акции]
+  filters: [Реал торги, Реал-тайм, Акции]
   supported_data_providers: []
   supported_brokers: []
 
@@ -168,7 +168,7 @@
   website: https://www.marketcetera.com/
   pedia_link: /ru/pedia/m/marketcetera.html
   github: https://github.com/marketcetera/marketcetera
-  filters: [Открытые исходники, Java, Реал торги, API]
+  filters: [Исходные коды, Java, Реал торги, API]
   supported_data_providers: []
   supported_brokers: [Interactive Brokers]
 
@@ -177,7 +177,7 @@
   logo: /assets/images/logos/metatrader.png
   website: https://www.metatrader4.com/
   pedia_link: /ru/pedia/m/metatrader4.html
-  filters: [Реал торги, Бэктестинг, Пользовательские скрипты]
+  filters: [Реал торги, Бэктестинг, Свой язык]
   supported_data_providers: []
   supported_brokers: []
 
@@ -186,7 +186,7 @@
   logo: /assets/images/logos/metatrader.png
   website: https://www.metatrader5.com/
   pedia_link: /ru/pedia/m/metatrader5.html
-  filters: [Реал торги, Бэктестинг, Пользовательские скрипты]
+  filters: [Реал торги, Бэктестинг, Свой язык]
   supported_data_providers: []
   supported_brokers: []
 
@@ -223,7 +223,7 @@
   website: https://nautilustrader.io/
   pedia_link: /ru/pedia/n/nautilustrader.html
   github: https://github.com/nautechsystems/nautilus_trader
-  filters: [Python, Бэктестинг, Реал торги, Открытые исходники]
+  filters: [Python, Бэктестинг, Реал торги, Исходные коды]
   supported_data_providers: []
   supported_brokers: []
 
@@ -251,7 +251,7 @@
   website: https://www.quantconnect.com/
   pedia_link: /ru/pedia/q/quantconnect.html
   github: https://github.com/QuantConnect/Lean
-  filters: [Бэктестинг, Реал торги, История, API, Открытые исходники, Python, C#]
+  filters: [Бэктестинг, Реал торги, История, API, Исходные коды, Python, C#]
   supported_data_providers: []
   supported_brokers: [Interactive Brokers, OANDA, Bitfinex, Coinbase, Alpaca]
 
@@ -270,7 +270,7 @@
   website: https://www.quantlib.org/
   pedia_link: /ru/pedia/q/quantlib.html
   github: https://github.com/lballabio/QuantLib
-  filters: [Открытые исходники, C++]
+  filters: [Исходные коды, C++]
   supported_data_providers: []
   supported_brokers: []
 
@@ -297,7 +297,7 @@
   logo: /assets/images/logos/rithmic.png
   website: https://www.rithmic.com/
   pedia_link: /ru/pedia/r/rithmic.html
-  filters: [Реал торги, API, Реал-тайм данные]
+  filters: [Реал торги, API, Реал-тайм]
   supported_data_providers: []
   supported_brokers: []
 
@@ -325,7 +325,7 @@
   website: https://stocksharp.com/
   pedia_link: /ru/pedia/s/stocksharp.html
   github: https://github.com/StockSharp/StockSharp
-  filters: [Открытые исходники, Бесплатно, История, API, Бэктестинг, Реал торги, C#]
+  filters: [Исходные коды, Бесплатно, История, API, Бэктестинг, Реал торги, C#]
   supported_data_providers: [IQFeed, IEX, Quandl, Yahoo Finance, Finam]
   supported_brokers: [Interactive Brokers, FXCM, OANDA, Binance, LMAX]
 
@@ -343,7 +343,7 @@
   logo: /assets/images/logos/tradestation.png
   website: https://www.tradestation.com/
   pedia_link: /ru/pedia/t/tradestation.html
-  filters: [Реал торги, Бэктестинг, Пользовательские скрипты]
+  filters: [Реал торги, Бэктестинг, Свой язык]
   supported_data_providers: []
   supported_brokers: []
 
@@ -361,7 +361,7 @@
   logo: /assets/images/logos/tradingview.png
   website: https://www.tradingview.com/
   pedia_link: /ru/pedia/t/tradingview.html
-  filters: [Чартинг, Бэктестинг, Пользовательские скрипты]
+  filters: [Чартинг, Бэктестинг, Свой язык]
   supported_data_providers: []
   supported_brokers: []
 
@@ -389,7 +389,7 @@
   website: https://www.metastock.com/
   pedia_link: /ru/pedia/m/metastock.html
   github: null
-  filters: [Чартинг, Бэктестинг, Реал-тайм данные]
+  filters: [Чартинг, Бэктестинг, Реал-тайм]
   supported_data_providers: [eSignal]
   supported_brokers: [Interactive Brokers, Ameritrade, TradeStation]
 
