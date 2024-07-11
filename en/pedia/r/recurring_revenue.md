@@ -1,4 +1,4 @@
- # Recurring Revenue
+# Recurring Revenue
 
 Recurring revenue is a financial concept that refers to the portion of a company's revenue that is expected to continue in the future. This type of revenue is predictable, stable, and can be counted on to occur at regular intervals, typically monthly or annually. Companies that rely heavily on recurring revenue are often seen as more stable and potentially more valuable than those whose revenues are more erratic or one-time in nature.
 

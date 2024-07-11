@@ -1,4 +1,4 @@
-# Vanguard Exchange-Traded Funds: How it Works, Types
+# Vanguard Exchange-Traded Funds
 
 Vanguard Exchange-Traded Funds (ETFs) are a popular investment vehicle that combines the diversification benefits of mutual funds with the trading flexibility of stocks. Founded by John C. Bogle in 1975, Vanguard is a leading asset management firm known for its low-cost investment products. The firm's ETFs offer a range of investment opportunities across different asset classes, industries, and geographic regions, thus catering to both retail and institutional investors. The purpose of this document is to provide a comprehensive analysis of Vanguard ETFs, including their structure, functionality, types, and the benefits they offer to investors.
 

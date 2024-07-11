@@ -1,4 +1,4 @@
-# Independent Contractor: Definition, How Taxes Work, and Example
+# Independent Contractor
 
 An independent contractor is a self-employed individual or entity contracted to perform work or provide services to another entity as a non-employee. As a result, independent contractors must pay their own Social Security and Medicare taxes. This status has specific tax implications and responsibilities that differ from those of regular employees.
 

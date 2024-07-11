@@ -1,4 +1,4 @@
-# The Working Class in the Context of Economic Systems
+# Working Class
 
 The "working class" is a socio-economic term that refers to people employed in various types of manual labor or who occupy industrial jobs, both in white-collar and blue-collar sectors. The term is closely connected to the histories of industrialization, capitalism, and labor movements. This article intends to provide a comprehensive understanding of the working class, delving into its history, characteristics, and the modern-day implications in financial systems, particularly focusing on fintech and algorithmic trading.
 

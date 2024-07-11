@@ -1,4 +1,4 @@
-# Ledger Wallet: Examples of How Crypto Wallets Work
+# Ledger Wallet
 
 ## Introduction to Crypto Wallets
 Cryptocurrency wallets are essential tools for managing digital assets. They allow users to store, send, and receive digital currencies like Bitcoin, Ethereum, and many others. Among the different types of crypto wallets, hardware wallets are renowned for offering the highest level of security. Ledger is one of the leading companies that manufacture hardware wallets. In this comprehensive guide, we will delve deep into how Ledger wallets work, providing substantial examples and scenarios to elucidate their functionality.

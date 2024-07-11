@@ -1,4 +1,4 @@
-# Petty Cash: What It Is, How It's Used and Accounted For, Examples
+# Petty Cash
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Noncumulative Dividends: A Comprehensive Guide
+# Noncumulative Dividends
 
 ## Introduction
 

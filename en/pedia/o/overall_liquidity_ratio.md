@@ -1,4 +1,4 @@
-# Overall Liquidity Ratio: What It Is, How It Works
+# Overall Liquidity Ratio
 
 The overall liquidity ratio is a financial metric used to evaluate a company's ability to meet its short-term obligations. This ratio is crucial for stakeholders, including investors, creditors, and management, as it provides insights into the financial stability and efficiency of the business. By understanding the overall liquidity ratio, stakeholders can make informed decisions related to investments, creditworthiness, and operational strategies.
 

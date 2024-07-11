@@ -1,4 +1,4 @@
-# William J. O'Neil: A Titan in the World of Investing and Trading
+# William J. O'Neil
 
 William J. O'Neil, born on March 25, 1933, is an American entrepreneur, stockbroker, and author, best known for founding the stock brokerage and financial research firm, William O'Neil & Co. Incorporated, and for developing the CAN SLIM investment strategy. Over several decades, O'Neil has significantly influenced retail and institutional investing, particularly through his publications and educational efforts.
 

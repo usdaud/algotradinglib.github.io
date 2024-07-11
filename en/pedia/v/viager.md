@@ -1,4 +1,4 @@
-# Viager: A Unique Real Estate Investment Strategy
+# Viager
 
 Viager is an innovative and unique form of real estate transaction predominantly used in France, though it exists in other European countries and is recognized globally. The term "viager" refers to a financial arrangement where a property is sold on the basis of a life annuity. This method of selling property has historical roots and offers a range of benefits and challenges both for the buyer and the seller. The transaction can be attractive as a form of investment and is often used for retirement planning and estate management purposes.
 

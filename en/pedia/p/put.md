@@ -1,4 +1,4 @@
-# Put Option: An In-Depth Analysis
+# Put Option
 
 A put option is a financial contract that grants the option holder the right to sell a specified quantity of an underlying asset at a predetermined price before or at the expiration date. This financial instrument is a key component of options trading strategies and is utilized by investors for hedging risks, speculating on price declines, or generating income.
 

@@ -1,4 +1,4 @@
-# The U.S.-Mexico Trade Agreement
+# U.S.-Mexico Trade Agreement
 
 The U.S.-Mexico Trade Agreement signifies a critical economic alliance between the United States and Mexico, designed to bolster trade and investment between the two neighboring nations. This agreement aims to modernize and optimize the trading relationship initially established under the North American Free Trade Agreement (NAFTA), which came into effect in 1994. The U.S.-Mexico Trade Agreement, updated and renamed as part of the United States-Mexico-Canada Agreement (USMCA) in 2020, encapsulates wide-ranging economic policies, tariff regulations, and trade facilitation measures that affect multiple industries, including automotive, agriculture, textiles, technology, and more. This document delves into the intricate particulars of the U.S.-Mexico Trade Agreement, its historical context, core elements, economic impact, controversies, and future outlook.
 

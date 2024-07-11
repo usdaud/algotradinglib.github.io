@@ -1,4 +1,4 @@
-# Series 9/10: General Securities Sales Supervisor Examination 
+# Series 9/10
 
 The Series 9/10 examination, also known as the General Securities Sales Supervisor Qualification Examination, is administered by the Financial Industry Regulatory Authority (FINRA). This exam is designed to ensure that individuals seeking to become supervisory personnel in the securities industry have the necessary knowledge and skills to oversee and manage the activities of securities representatives effectively.
 

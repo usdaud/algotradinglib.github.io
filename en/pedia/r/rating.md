@@ -1,4 +1,4 @@
-# Credit Rating
+# Rating
 
 Credit rating is a quantified assessment of the creditworthiness of a borrower in general terms or with respect to a particular debt or financial obligation. It is an evaluation made by credit rating agencies of a potential debtor's ability to repay the debt, and an implicit forecast of the likelihood of the debtor defaulting. A credit rating can be assigned to any entity that seeks to borrow money—an individual, corporation, state or provincial authority, or sovereign government.
 

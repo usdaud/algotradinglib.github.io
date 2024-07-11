@@ -1,4 +1,4 @@
-# Unfunded Pension Plan: What it is, How it Works
+# Unfunded Pension Plan
 
 An unfunded pension plan is a retirement plan where no funds are set aside in advance by the employer or sponsoring entity to meet future pension obligations. Under this type of plan, the pension benefits are paid directly out of the current revenue or general assets of the employer as they become due. This approach contrasts with funded pension plans, where assets are accumulated in advance to cover future pension liabilities.
 

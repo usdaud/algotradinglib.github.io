@@ -1,4 +1,3 @@
-```
 # Working Capital (NWC)
 
 ## Definition and Importance
@@ -125,4 +124,3 @@ For a deeper dive into their financial practices, you can visit [Amazon's Invest
 ## Conclusion
 
 Working capital is a critical financial metric to gauge a company's short-term health and operational effectiveness. Proper management ensures liquidity, enhances operational efficiency, and supports overall financial stability. By understanding and optimizing working capital, businesses can improve their financial performance and investor appeal.
-```

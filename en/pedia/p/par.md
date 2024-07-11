@@ -1,4 +1,4 @@
-# Portfolio Management in Algorithmic Trading
+# Portfolio Management
 
 Portfolio management is a cornerstone concept in finance and involves the art and science of making decisions about investment mix and policy, matching investments to objectives, asset allocation for individuals and institutions, and balancing risk against performance. Specifically, portfolio management is critical in the domain of algorithmic trading, where advanced computational strategies are employed to manage and optimize the portfolio more effectively.
 

@@ -1,4 +1,4 @@
-# Indicative Net Asset Value (iNAV): What it is, How it Works
+# Indicative Net Asset Value (iNAV)
 
 The Indicative Net Asset Value (iNAV), also known as Intraday Net Asset Value (iNAV), is a crucial financial metric in the realm of ETF (Exchange-Traded Fund) trading. Unlike traditional mutual funds that calculate their Net Asset Value (NAV) only once at the end of the trading day, ETFs need to provide a real-time approximation of their intrinsic value during market hours. This is where iNAV comes into play. It offers a real-time estimate of an ETF's per-share value, giving investors an up-to-the-minute snapshot of the fund's worth. 
 

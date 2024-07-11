@@ -1,4 +1,4 @@
-# Purchase Price In Finance: Effect on Capital Gains
+# Purchase Price In Finance
 
 In the realm of finance, particularly when dealing with investments, the concept of the Purchase Price is of paramount importance. The purchase price is the amount paid by an investor to acquire a financial asset such as a stock, bond, real estate, or any other investment vehicle. This initial cost is critical in determining the profitability of the investment when it is sold. In this detailed examination, we will explore the effect of the purchase price on capital gains and the implications of these capital gains on overall investment strategy and tax obligations.
 

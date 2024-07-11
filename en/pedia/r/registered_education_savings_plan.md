@@ -1,4 +1,4 @@
-# Registered Education Savings Plan: What it is, How it Works
+# Registered Education Savings Plan
 
 A Registered Education Savings Plan (RESP) is a tax-advantaged investment vehicle designed to encourage saving for post-secondary education in Canada. RESPs offer various benefits and features that make them an attractive option for parents and guardians looking to fund their children's higher education.
 

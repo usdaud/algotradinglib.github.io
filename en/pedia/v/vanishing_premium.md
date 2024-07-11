@@ -1,4 +1,4 @@
-# Vanishing Premium: What It Is, How It Works, Example
+# Vanishing Premium
 
 ## Introduction
 

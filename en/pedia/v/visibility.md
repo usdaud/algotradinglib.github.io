@@ -1,4 +1,4 @@
-# Market Visibility in Up-Down Trading
+# Visibility
 
 ## Introduction to Market Visibility
 

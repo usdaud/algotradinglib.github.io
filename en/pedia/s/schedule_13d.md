@@ -1,4 +1,4 @@
-# Schedule 13D: What It Is, How to File, Requirements, Example
+# Schedule 13D
 
 A Schedule 13D is a form that must be filed with the Securities and Exchange Commission (SEC) when an individual or group acquires more than 5% of a company's equity securities. This filing provides important information to the public, especially other shareholders and potential investors, about who holds significant stakes in a company and their intentions regarding that investment. This document, also known as the "beneficial ownership report," is crucial for ensuring transparency in the financial markets.
 

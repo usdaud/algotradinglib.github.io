@@ -1,4 +1,4 @@
-# Internationalization in Algorithmic Trading
+# Internationalization
 
 Internationalization (often abbreviated as i18n) refers to the process of designing software applications and trading algorithms so that they can be easily adapted to various languages, regions, and local cultures without requiring engineering changes. This topic is highly relevant in the world of algorithmic trading (algotrading), where the ability to operate across different markets and regulatory environments can have significant strategic advantages.
 

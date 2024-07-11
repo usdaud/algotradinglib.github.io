@@ -1,4 +1,4 @@
-# The Lorenz Curve
+# Lorenz Curve
 
 The Lorenz curve is a graphical representation of the distribution of income or wealth within a population. It was developed by Max O. Lorenz in 1905 for representing the inequality of the wealth distribution. The curve illustrates the proportion of the total income or wealth assumed by the bottom x% of the population.
 

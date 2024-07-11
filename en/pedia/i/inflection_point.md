@@ -1,4 +1,4 @@
-# Inflection Point in Algorithmic Trading
+# Inflection Point
 
 An inflection point is a fundamental concept in mathematics, particularly in the study of calculus, where it refers to a point on a curve at which the curve changes concavity. In the context of financial markets and algorithmic trading, an inflection point is a crucial moment that signals a shift in market dynamics which can affect trading strategies and outcomes significantly. Understanding and identifying inflection points can help algorithmic traders to make more informed decisions and optimize their trading algorithms.
 

@@ -1,4 +1,4 @@
-# The Joseph Effect
+# Joseph Effect
 
 The Joseph Effect, named after the biblical story of Joseph, who interpreted Pharaoh's dreams to predict seven years of plenty followed by seven years of famine, is a statistical phenomenon that relates to long-range dependence and self-similarity in time series data. This term is often used in the context of financial markets and is crucial for algorithmic trading strategies because it affects the predictability and risk assessment of financial instruments.
 

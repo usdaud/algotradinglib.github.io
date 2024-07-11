@@ -1,4 +1,4 @@
-# Validation Code in Algorithmic Trading
+# Validation Code
 
 Validation is an essential process in algorithmic trading, aimed at ensuring that trading strategies perform well not only on historical data but also on unseen market conditions. The validation phase helps in mitigating the risks of overfitting and underfitting, providing a more reliable indication of how the algorithm would behave in live trading. This document will deeply explore various aspects and methodologies of validation code in algorithmic trading.
 

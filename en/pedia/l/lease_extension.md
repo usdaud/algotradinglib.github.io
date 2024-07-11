@@ -1,4 +1,4 @@
-# Lease Extension: What it Means, How it Works, Examples
+# Lease Extension
 
 A lease extension is a formal agreement between a landlord and a tenant to extend the term of an existing lease. This process can involve various legal and financial considerations, as well as specific procedures that differ depending on the jurisdiction and the type of property involved. Lease extensions are common in both residential and commercial real estate and can provide benefits for both parties involved.
 

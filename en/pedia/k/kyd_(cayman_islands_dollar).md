@@ -1,4 +1,4 @@
-# Cayman Islands Dollar (KYD)
+# KYD Cayman Islands Dollar
 
 The Cayman Islands Dollar (KYD) is the official currency of the Cayman Islands, a British Overseas Territory located in the Caribbean. The Cayman Islands Dollar is abbreviated as "KYD" and is denoted by the symbol "$", where it is often distinguished from other dollar-denominated currencies by specifying "CI$". This currency plays a crucial role in the economy of the Cayman Islands, which is known for its robust financial services industry, offshore banking, and tourism sector.
 

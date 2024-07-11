@@ -1,4 +1,4 @@
-# Upstream: The Backbone of the Oil and Gas Industry
+# Upstream
 
 The term "upstream" in the context of the oil and gas industry refers to the exploration and production phases of the sector. This segment is primarily concerned with the search for crude oil and natural gas fields, the drilling of exploratory wells, and the extraction of oil and gas from underground reservoirs. It is a critical component of the oil and gas supply chain, and this article delves deeply into its various subcomponents, processes, technologies, and players.
 

@@ -1,4 +1,4 @@
-# Introduction to Uphold: A Fintech and Trading Platform
+# Uphold
 
 Uphold is a financial platform that bridges traditional and digital finance, enabling users to trade across various asset classes, including cryptocurrencies, precious metals, fiat currencies, and U.S. equities. With its intuitive interface and broad functionality, Uphold has become a significant player in the fintech and trading landscape since its inception.
 

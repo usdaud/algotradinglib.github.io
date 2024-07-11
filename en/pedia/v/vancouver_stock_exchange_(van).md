@@ -1,4 +1,4 @@
-# Vancouver Stock Exchange (Van): What It Is, How It Works
+# Vancouver Stock Exchange (Van)
 
 ## Introduction
 

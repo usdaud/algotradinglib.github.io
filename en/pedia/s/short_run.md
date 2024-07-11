@@ -1,4 +1,4 @@
-# The Short Run in Economics and Finance
+# Short Run
 
 The concept of the "short run" in economics and finance is a time period wherein certain factors or inputs influencing production and financial outcomes are fixed or variable only to a limited extent. This is in contrast to the "long run," wherein all factors can be adjusted. Understanding the short run is crucial for economic analyses, financial strategies, and investment decision-making. This discussion delves deep into the components, implications, and applications of the short run in various contexts, especially in trading, financial markets, and economic theory.
 

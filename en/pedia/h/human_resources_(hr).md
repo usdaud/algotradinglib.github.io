@@ -1,4 +1,4 @@
-# Understanding Human Resources (HR)
+# Human Resources (HR)
 
 Human Resources (HR) refers to the department or organization within a company that is responsible for identifying, screening, recruiting, and training job applicants, as well as administering employee-benefit programs. It plays a critical role in managing a company's most valuable assets – its employees. This department's primary role is to recognize the need for manpower, oversee the hiring process, ensure compliance with labor laws, manage employee relations, and drive performance management, among other responsibilities.
 

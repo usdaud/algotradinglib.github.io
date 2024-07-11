@@ -1,4 +1,4 @@
-# Inside Day in Algorithmic Trading
+# Inside Day
 
 In the realm of algorithmic trading, the concept of an "Inside Day" plays a crucial role in the analysis and prediction of market movements. Understanding an Inside Day and its implications in the context of algorithmic trading can greatly enhance trading strategies and improve the precision of market predictions.
 

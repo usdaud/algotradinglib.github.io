@@ -1,4 +1,4 @@
-# Variable Annuitization: What It is, How it Works
+# Variable Annuitization
 
 Variable annuitization is a financial strategy that combines elements of investment and retirement planning, allowing individuals to receive regular payments while still participating in the performance of an investment portfolio. This approach allows retirees to potentially benefit from market upswings, thus reducing the risk of outliving their savings.
 

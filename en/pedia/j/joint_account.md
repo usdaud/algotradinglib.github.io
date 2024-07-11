@@ -1,4 +1,4 @@
-# Joint Account in Algorithmic Trading
+# Joint Account
 
 A joint account is a financial account shared by two or more individuals. These accounts are common in various financial contexts, particularly in banking and investment. In the realm of algorithmic trading, a joint account can be quite useful and presents unique considerations for traders and investors. This detailed exploration covers significant aspects of joint accounts in algorithmic trading, including their purpose, benefits, types, legal implications, and practical considerations.
 

@@ -1,4 +1,4 @@
-# The Y2K Problem: Understanding its Impact on Finance and Trading
+# Y2K Problem
 
 ## Introduction
 The Y2K problem, also known as the "Millennium Bug" or "Year 2000 problem," was a significant computer bug related to the formatting and storage of calendar data for dates beginning in the year 2000. This issue stemmed from the practice of representing the year with only the final two digits in many computer systems—'98' instead of '1998', for instance. This practice created a significant issue as the year 2000 approached, with fears that computer systems might interpret the year '00' as '1900', leading to errors in calculations, data handling, and potential system failures.

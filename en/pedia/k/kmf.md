@@ -1,4 +1,4 @@
-# Key Mean Reversion Framework (KMF) in Algorithmic Trading
+# Key Mean Reversion Framework (KMF)
 
 ## Introduction to Mean Reversion
 

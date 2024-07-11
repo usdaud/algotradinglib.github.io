@@ -1,4 +1,4 @@
-# The Wilcoxon Test
+# Wilcoxon Test
 
 The Wilcoxon Test is a non-parametric statistical test used to compare two paired groups. Unlike parametric tests such as the t-test, non-parametric tests do not make any assumptions about the underlying distribution of the data. This makes the Wilcoxon Test particularly useful in situations where the data does not meet the normality assumption or when dealing with ordinal data or ranks. The test is named after Frank Wilcoxon, who developed it in the 1940s.
 

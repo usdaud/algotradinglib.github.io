@@ -1,4 +1,4 @@
-# The Sherman Antitrust Act
+# Sherman Antitrust Act
 
 The Sherman Antitrust Act, enacted in 1890, is a foundational statute in United States antitrust law, or competition law. Passed by Congress under the presidency of Benjamin Harrison, the Sherman Act serves as a critical regulatory framework aimed at preserving fair competition in the market by prohibiting monopolistic behaviors and conspiracies that restrain trade. This law has far-reaching implications not only in traditional trade and commerce but also in modern financial markets, affecting companies and trading strategies alike.
 

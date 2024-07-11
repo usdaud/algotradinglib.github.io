@@ -1,4 +1,4 @@
-# W-2 Form: An Essential Document for Employees and Employers
+# W-2 Form
 
 The W-2 form, officially known as the "Wage and Tax Statement," is a crucial document in the United States for both employees and employers. It is issued by an employer to their employees and the Internal Revenue Service (IRS) at the end of each year. The form details the employee's earnings and the taxes withheld from their paycheck over the course of the year. 
 

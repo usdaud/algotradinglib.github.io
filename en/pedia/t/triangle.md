@@ -1,4 +1,4 @@
-# Triangle in Trading
+# Triangle
 
 The triangle is one of the classic chart patterns used in technical analysis within the realm of trading and finance. This pattern represents a period of consolidation in a trending market followed by a breakout, which traders seek to capitalize on. Triangles are classified into three main types: ascending triangles, descending triangles, and symmetrical triangles. Each type has its unique implications for traders and requires specific trading strategies for effective utilization.
 

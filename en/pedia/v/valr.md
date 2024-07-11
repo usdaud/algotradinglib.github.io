@@ -1,4 +1,4 @@
-# VALR: Bridging the Gap in Cryptocurrency Trading
+# VALR
 
 VALR is a South African-based cryptocurrency exchange that has quickly gained traction in the rapidly evolving digital assets market. Launched in June 2019, VALR aims to provide a seamless and efficient trading platform for both beginners and seasoned traders. The company has carved out a niche for itself by focusing on user experience, robust security measures, and an extensive range of supported cryptocurrencies.
 

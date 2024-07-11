@@ -1,4 +1,4 @@
-# The New Deal: Transformative Economic Policies in Response to the Great Depression
+# New Deal
 
 The New Deal was a series of programs, public work projects, financial reforms, and regulations enacted by President Franklin D. Roosevelt in the United States between 1933 and 1939. The purpose of the New Deal was to address the devastating consequences of the Great Depression by providing immediate economic relief, implementing reforms in various sectors, and encouraging economic recovery. The New Deal fundamentally transformed the American economy, established significant precedents for federal government intervention, and laid the groundwork for future economic policies.
 

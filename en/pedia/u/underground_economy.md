@@ -1,4 +1,4 @@
-# The Underground Economy
+# Underground Economy
 
 The underground economy, also known as the shadow or black market economy, refers to economic activities that occur outside of government-sanctioned and regulated channels. Transactions in the underground economy are usually not reported to the taxing authorities and often involve illegal goods and services. This vast and complex part of global commerce encompasses a variety of sectors, ranging from illicit drug trafficking to unreported employment, counterfeit goods, and even cybercrime.
 

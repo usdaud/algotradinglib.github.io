@@ -1,4 +1,4 @@
-# Introduction to Visa Card
+# Visa Card
 
 Visa card stands as one of the most recognized and widely used financial products globally. Offered by the multinational financial services corporation, Visa Inc., these cards facilitate electronic funds transfers across the world. Visa cards can be credit cards, debit cards, or prepaid cards, and they provide users with the ease and convenience of cashless transactions. 
 

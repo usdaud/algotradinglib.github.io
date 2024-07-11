@@ -1,4 +1,4 @@
-# New Issue: Definition, How It Works in Offerings, and Example
+# New Issue
 
 A "new issue" refers to a security that is being sold to the public for the first time. This process typically occurs through an initial public offering (IPO) but can also involve the issuance of new securities by companies that are already publicly traded. In both cases, new issues play a vital role in the fundraising activities of companies and provide investors with opportunities to buy securities directly from the issuing entity.
 

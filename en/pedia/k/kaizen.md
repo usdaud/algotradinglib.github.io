@@ -1,4 +1,4 @@
-# Kaizen in Algorithmic Trading
+# Kaizen
 
 ## What is Kaizen?
 

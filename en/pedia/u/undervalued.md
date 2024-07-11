@@ -1,4 +1,4 @@
-# Undervalued: Understanding the Concept, Its Significance, and Application in Trading and Investment
+# Undervalued
 
 ## What Does "Undervalued" Mean?
 

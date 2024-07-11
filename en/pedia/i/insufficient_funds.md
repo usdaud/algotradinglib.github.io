@@ -1,4 +1,4 @@
-# Insufficient Funds in Algorithmic Trading
+# Insufficient Funds
 
 Algorithmic trading, or "algo trading", involves the use of algorithms to manage trading decisions, often aiming for speed, efficiency, and accuracy unattainable by human traders alone. One major operational challenge in this domain is dealing with "insufficient funds." This issue can disrupt trading strategies and lead to significant financial and operational risks. The concept of insufficient funds can be broken down into several aspects including margin requirements, capital allocation, real-time funding checks, and more. This comprehensive guide will explore these elements in detail.
 

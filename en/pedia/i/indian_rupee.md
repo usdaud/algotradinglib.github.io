@@ -1,4 +1,4 @@
-# The Indian Rupee (INR)
+# Indian Rupee (INR)
 
 The Indian Rupee, symbolized as ₹ and often abbreviated as INR, is the official currency of the Republic of India. It is controlled by the Reserve Bank of India (RBI) and is one of the most widely held and traded currencies in the world. This article provides a comprehensive understanding of the Indian Rupee, its history, valuation mechanisms, factors influencing its value, and its significance in global and domestic contexts.
 

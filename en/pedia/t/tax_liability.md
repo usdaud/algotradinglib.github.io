@@ -1,4 +1,4 @@
-# Understanding Tax Liability
+# Tax Liability
 
 Tax liability represents the total amount of tax that an individual, corporation, or other entity is legally obligated to pay to a taxing authority, such as the federal government, a state government, or a local government. This comprehensive guide delves into what tax liability is, how it is calculated, different types it can include, how to manage and reduce it, as well as its implications for personal finance and businesses. 
 

@@ -1,4 +1,4 @@
-# Introduction to Inflation in Algo Trading
+# Inflation
 
 In the context of economic theory and financial markets, inflation represents the rate at which the general level of prices for goods and services is rising and subsequently eroding purchasing power. Central banks attempt to limit inflation—and avoid deflation—in order to keep the economy running smoothly.
 

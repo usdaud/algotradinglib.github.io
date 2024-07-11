@@ -1,4 +1,4 @@
-# Understanding Quotas in Finance and Trading
+# Quotas
 
 ## Introduction
 

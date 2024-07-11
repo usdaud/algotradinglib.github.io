@@ -1,4 +1,4 @@
-# Uneconomic Growth: What It Is, How It Works
+# Uneconomic Growth
 
 ## Introduction to Uneconomic Growth
 

@@ -1,4 +1,4 @@
-# The Willie Sutton Rule
+# Willie Sutton Rule
 
 The Willie Sutton Rule, named after the infamous American bank robber Willie Sutton, is a principle frequently cited in the fields of finance and economics to guide decision-making about where to allocate resources, attention, and efforts. The rule is derived from a purported comment made by Sutton. When asked why he robbed banks, Sutton allegedly replied, "Because that's where the money is." Though the exact quote is disputed and may be apocryphal, the rule has nonetheless become an enduring metaphor in financial contexts.
 

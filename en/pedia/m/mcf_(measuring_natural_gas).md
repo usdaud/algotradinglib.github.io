@@ -1,4 +1,4 @@
-# Measuring Natural Gas: The Concept of MCF
+# Measuring Natural Gas
 
 ## Introduction to Natural Gas Measurement
 

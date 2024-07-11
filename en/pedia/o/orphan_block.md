@@ -1,4 +1,4 @@
-# Orphan Block: What it is, How it Works, FAQ
+# Orphan Block
 
 In the context of blockchain and cryptocurrency, an orphan block refers to a block that is not part of the main blockchain and has been discarded from the chain. This situation occurs due to the decentralized nature of the blockchain network where multiple participants (miners) are independently working on solving a cryptographic puzzle to add the next block to the chain. Due to the network's latency, it is possible that two or more miners solve the puzzle nearly simultaneously, creating multiple versions of the blockchain. The network then selects the version of the blockchain with the longest chain (i.e., the highest amount of work invested). Blocks that are left out during this resolution are known as orphan blocks.
 

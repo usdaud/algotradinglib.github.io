@@ -1,4 +1,4 @@
-# War Risk Insurance: What it is, How it Works
+# War Risk Insurance
 
 War risk insurance is a specialized insurance product designed to protect against losses associated with war and related perils. This type of insurance is primarily utilized by businesses and individuals involved in international trade, shipping, aviation, and other industries where there's a significant risk of losses due to geopolitical instability and military conflicts.
 

@@ -1,4 +1,4 @@
-# Valued Marine Policy: What It Is, How It Works
+# Valued Marine Policy
 
 In the maritime world, the marine insurance sector plays a pivotal role in safeguarding against potential losses arising from diverse perils encountered in maritime activities. One specialized form of marine insurance that has gained notable attention due to its unique attributes is the "Valued Marine Policy." This comprehensive guide aims to delve deeply into the concept, mechanics, and applications of Valued Marine Policies.
 

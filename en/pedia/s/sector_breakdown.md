@@ -1,4 +1,4 @@
-# Sector Breakdown: What It Is and How It's Used
+# Sector Breakdown
 
 Sector breakdown is a vital concept in finance and trading, particularly for investors and analysts who seek to diversify their portfolios and manage risk. Understanding the sector breakdown involves dividing the market into various sectors and then examining the performance, risks, and opportunities within each sector. This detailed guide breaks down what the term means, how it is used, its importance, and the tools and methodologies commonly employed in conducting a sector breakdown.
 

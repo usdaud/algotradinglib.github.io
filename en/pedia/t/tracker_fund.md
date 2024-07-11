@@ -1,4 +1,4 @@
-# Tracker Fund: What it is, How it Works, Examples
+# Tracker Fund
 
 A tracker fund, also known as an index fund, is a type of mutual fund or exchange-traded fund (ETF) designed to replicate the performance of a specific index. These funds are constructed to track the components of a market index, such as the S&P 500, FTSE 100, or other recognized benchmarks, with the objective of matching their returns as closely as possible.
 

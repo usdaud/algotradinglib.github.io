@@ -1,4 +1,4 @@
-# Technical Analysis in Algorithmic Trading
+# New Indications
 
 Technical analysis is a method used in the realm of finance and trading to forecast the direction of prices by analyzing historical market data, primarily price and volume. It is a fundamental discipline within the broader field of trading and has a significant role in algorithmic trading. This comprehensive guide explores the principles, tools, and strategies associated with technical analysis, particularly focusing on its application in algorithmic trading.
 

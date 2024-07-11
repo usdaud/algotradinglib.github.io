@@ -1,4 +1,4 @@
-# Understanding Working Control in Finance and Trading
+# Working Control
 
 In the realms of finance and trading, working control refers to the ability to influence, direct, or manage the operations, policies, and decisions of a corporation without necessarily holding a majority stake or absolute ownership. This concept is crucial for understanding corporate governance, shareholder rights, and the methods by which investors or entities can exert significant influence over a company's strategic direction.
 

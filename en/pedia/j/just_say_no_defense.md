@@ -1,4 +1,4 @@
-# The Just Say No Defense in Corporate Takeovers
+# Just Say No Defense
 
 In the realm of corporate takeovers, there exist numerous strategies that companies employ to protect themselves from hostile takeovers. One critical and often discussed defense mechanism is the "Just Say No" defense. This strategy involves the board of directors of a target company simply refusing to negotiate or agree to any terms with a potential acquirer. This method is relatively straightforward from a conceptual standpoint, but its implementation and effectiveness can be quite complex.
 

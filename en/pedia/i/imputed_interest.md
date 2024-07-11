@@ -1,4 +1,4 @@
-# Imputed Interest: What It Is, How to Calculate, FAQs
+# Imputed Interest
 
 ## Understanding Imputed Interest
 

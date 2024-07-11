@@ -1,4 +1,4 @@
-# The Welfare State
+# Welfare State
 
 The welfare state refers to a social system in which the government assumes primary responsibility for the welfare of its citizens by providing various social services and benefits. This model aims to ensure a minimum level of income, mitigate social inequities, and provide access to essential services like healthcare, education, and housing. The concept of the welfare state has evolved through time and varies significantly across countries, but its core ideals remain focused on reducing poverty, increasing equality, and securing social well-being.
 
