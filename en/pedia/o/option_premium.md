@@ -10,11 +10,11 @@ The intrinsic value of an option is the immediate benefit of exercising the opti
 
 ### Call Option Intrinsic Value
 
-\[ \text{Call Option Intrinsic Value} = \max(0, \text{Underlying Price} - \text{Strike Price}) \]
+\\[ \text{Call Option Intrinsic Value} = \max(0, \text{Underlying Price} - \text{Strike Price}) \\]
 
 ### Put Option Intrinsic Value
 
-\[ \text{Put Option Intrinsic Value} = \max(0, \text{Strike Price} - \text{Underlying Price}) \]
+\\[ \text{Put Option Intrinsic Value} = \max(0, \text{Strike Price} - \text{Underlying Price}) \\]
 
 If the intrinsic value is zero or negative, the option is said to be "out of the money" (OTM). If it is positive, the option is either "at the money" (ATM) or "in the money" (ITM).
 
@@ -42,26 +42,26 @@ One of the most widely used methods for estimating the fair value of an option p
 
 ### Black-Scholes Formula for Call Options:
 
-\[ C = S_0 N(d_1) - X e^{-rT} N(d_2) \]
+\\[ C = S_0 N(d_1) - X e^{-rT} N(d_2) \\]
 
 ### Black-Scholes Formula for Put Options:
 
-\[ P = X e^{-rT} N(-d_2) - S_0 N(-d_1) \]
+\\[ P = X e^{-rT} N(-d_2) - S_0 N(-d_1) \\]
 
 Where:
-- \( C \) and \( P \) are the call and put option premiums.
-- \( S_0 \) is the current price of the underlying asset.
-- \( X \) is the strike price.
-- \( r \) is the risk-free interest rate.
-- \( T \) is the time to expiration.
-- \( N(d) \) represents the cumulative distribution function of the standard normal distribution.
-- \( d_1 \) and \( d_2 \) are calculated as follows:
+- \\( C \\) and \\( P \\) are the call and put option premiums.
+- \\( S_0 \\) is the current price of the underlying asset.
+- \\( X \\) is the strike price.
+- \\( r \\) is the risk-free interest rate.
+- \\( T \\) is the time to expiration.
+- \\( N(d) \\) represents the cumulative distribution function of the standard normal distribution.
+- \\( d_1 \\) and \\( d_2 \\) are calculated as follows:
 
-\[ d_1 = \frac{{\ln(S_0 / X) + (r + \sigma^2 / 2)T}}{\sigma \sqrt{T}} \]
+\\[ d_1 = \frac{{\\ln(S_0 / X) + (r + \\sigma^2 / 2)T}}{\\sigma \sqrt{T}} \\]
 
-\[ d_2 = d_1 - \sigma \sqrt{T} \]
+\\[ d_2 = d_1 - \\sigma \sqrt{T} \\]
 
-Here, \(\sigma\) represents the volatility of the underlying asset.
+Here, \\(\\sigma\\) represents the volatility of the underlying asset.
 
 ## Greeks
 

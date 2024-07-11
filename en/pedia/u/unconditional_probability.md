@@ -1,4 +1,4 @@
-# Unconditional Probability: Overview and Examples
+# Unconditional Probability
 
 Unconditional probability, also known as marginal probability, is the likelihood of an event occurring without any conditions or restrictions being imposed on it. In the realm of mathematics and statistics, unconditional probability serves as a foundational concept that is critical for understanding how events relate to one another and for making predictions based on known data.
 
