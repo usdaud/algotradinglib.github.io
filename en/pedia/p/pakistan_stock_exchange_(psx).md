@@ -1,4 +1,3 @@
-```md
 # Pakistan Stock Exchange (PSX)
 
 The Pakistan Stock Exchange (PSX) is the principal stock exchange of Pakistan, and it plays a crucial role in the country's financial and economic activities. Established in 1949 as the Karachi Stock Exchange (KSE), it was rebranded as PSX after the merger of KSE, Lahore Stock Exchange (LSE), and Islamabad Stock Exchange (ISE) in 2016. PSX operates under the regulatory oversight of the Securities and Exchange Commission of Pakistan (SECP).
@@ -125,4 +124,3 @@ To ensure fair and orderly markets, PSX and SECP have laid down rules for algori
 ## Conclusion
 
 The Pakistan Stock Exchange plays a pivotal role in Pakistan’s capital markets, providing a platform for mobilizing investment and fostering economic growth. With a strong regulatory framework, technological advancements, and an array of listed securities, PSX continues to serve as the cornerstone of Pakistan's financial system. The exchange’s ongoing initiatives aim at further enhancing market efficiency, transparency, and investor protection.
-```

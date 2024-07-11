@@ -1,4 +1,3 @@
-```md
 # Quanto Swap
 
 A **quanto swap** is a type of derivative financial instrument, primarily used in the context of foreign exchange or interest rates. The term 'quanto' is a contraction of 'quantity-adjusted option,' reflecting a product that adjusts for currency or interest rate differentials. Quanto swaps allow the investor to have exposure to the performance of a foreign asset without worrying about the associated exchange rate risk. This derivative smoothes out the complexities of investing across different currencies by locking in a certain rate at the time of the contract and thereby eliminates buying power imbalances.
@@ -68,4 +67,3 @@ Several financial institutions offer quanto swaps, generally tailored to meet th
 Quanto swaps are sophisticated financial instruments designed to balance the advantages of exposure to foreign financial metrics with the stability of domestic currency settlement. Though they involve complex calculation and valuation methods, their capability to eliminate currency risk while providing access to international markets makes them valuable for globally diversified portfolios and strategic hedging.
 
 While advantageous, they come with their own set of risks and complexities, and a deep understanding of underlying principles and market forces is crucial for effectively leveraging these instruments.
-```

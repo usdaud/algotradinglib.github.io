@@ -1,4 +1,4 @@
-# Deed of Release in Automated Trading (Algo Trading)
+# Deed of Release
 
 A Deed of Release in the context of automated trading is a legally binding document that relinquishes or surrenders certain rights, claims, or obligations. In algo trading, this may involve various scenarios such as releasing proprietary algorithms, releasing claims over intellectual property, or dissolving contractual obligations between parties involved in trading operations.
 

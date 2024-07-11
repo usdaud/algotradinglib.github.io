@@ -1,4 +1,3 @@
-```md
 # Dubai Financial Market (DFM)
 
 The Dubai Financial Market (DFM) is one of the leading financial markets in the Middle East, specifically based in Dubai, United Arab Emirates. Established on March 26, 2000, DFM operates as a secondary market for trading securities issued by public joint stock companies, bonds issued by the federal government or any of the local governments and public sector institutions in the country, investment units issued by local investment funds, and any other financial instruments, local or foreign, which are accepted by the market.
@@ -106,5 +105,3 @@ The future outlook for DFM appears promising with the continuous influx of capit
 3. **Financial Reports**: DFM publishes annual and quarterly financial reports that provide in-depth analysis and a transparent view of its operations, available on their official website.
 
 For more detailed and up-to-date information, you can visit the official Dubai Financial Market website: [Dubai Financial Market](https://www.dfm.ae).
-
-```

@@ -1,4 +1,3 @@
-```md
 # Coincheck
 
 ## Overview
@@ -61,4 +60,3 @@ Coincheck boasts a significant user base and high trading volumes. As of 2023, t
 ## Web Links
 - [Coincheck Official Website](https://coincheck.com/)
 - [Coincheck API Documentation](https://coincheck.com/en/documents/exchange/api)
-```

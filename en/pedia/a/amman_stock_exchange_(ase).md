@@ -1,4 +1,3 @@
-```md
 # Amman Stock Exchange (ASE)
 
 The Amman Stock Exchange (ASE) is the sole stock exchange in Jordan. Established in 1999, the ASE plays a pivotal role in Jordan's economy as a platform for trading securities, thereby supporting economic investment and growth. The ASE operates under international standards with a transparent and secure trading environment, ensuring the integrity and efficiency of financial markets in Jordan.
@@ -115,4 +114,3 @@ The ASE is continually evolving, with future prospects focused on enhancing mark
 The Amman Stock Exchange (ASE) is a cornerstone of Jordan's financial landscape, providing a dynamic and transparent platform for trading securities. With a strong regulatory framework, advanced technology, and a commitment to market integrity, the ASE continues to attract local and international investors, contributing to the growth and stability of Jordan's economy.
 
 For more information, visit the [Amman Stock Exchange website](http://www.exchange.jo/en).
-```

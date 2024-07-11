@@ -1,4 +1,3 @@
-```md
 # Brazilian Stock Exchange (B3)
 
 ## Introduction
@@ -91,5 +90,3 @@ B3 has established numerous partnerships and collaborations with international e
 
 ## Conclusion
 B3 stands as a pivotal institution in Brazil’s financial landscape, offering a diverse range of financial products and services. Its comprehensive market infrastructure, regulatory adherence, and commitment to innovation make it a cornerstone for investors, traders, and financial professionals. For more information about B3 and its offerings, you can visit their official website [here](https://www.bmfbovespa.com.br).
-
-```

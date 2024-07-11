@@ -1,4 +1,3 @@
-```md
 # Order Protection Rule
 
 The Order Protection Rule, also known as Rule 611, is a mandate under the Regulation National Market System (Reg NMS), which was enacted by the U.S. Securities and Exchange Commission (SEC) in 2005. The rule was designed to ensure that investors receive the most favorable price when their orders are executed by preventing trade-throughs—trades that are executed at prices worse than the best available prices across different trading venues.
@@ -62,4 +61,3 @@ The financial markets are dynamic, and regulatory frameworks must continually ev
 ## Conclusion
 
 The Order Protection Rule is a foundational element of modern securities trading. It plays a crucial role in providing price protection to investors, fostering competitive marketplaces, and enhancing market transparency. While challenges exist, ongoing technological advancements and regulatory oversight will continue to uphold the integrity of this rule and its implementation in the fast-evolving trading landscape.
-```

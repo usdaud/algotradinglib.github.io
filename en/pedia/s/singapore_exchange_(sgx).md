@@ -1,4 +1,3 @@
-```md
 # Singapore Exchange (SGX)
 
 **Singapore Exchange Limited (SGX)** is a prominent and vital financial services provider headquartered in Singapore. Recognized globally as a multi-asset exchange, SGX provides listing, trading, clearing, settlement, depository, and data services. It is one of Asia’s leading exchange networks, actively facilitating the trading of equities, fixed income, derivatives, and commodities. The exchange plays a crucial role in driving increased market transparency, providing a comprehensive platform for investors and corporations alike. For more information, you can visit their [official website](https://www.sgx.com/).
@@ -92,4 +91,3 @@ SGX’s initiatives have also aimed at enhancing financial inclusion, promoting 
 Singapore Exchange (SGX) remains a pivotal institution within the global and regional financial markets. Through continuous innovation, stringent regulatory adherence, and comprehensive product offerings, SGX facilitates robust trading activities, supporting both economic development and investor interests across the globe.
 
 For more up-to-date information and to explore SGX’s services and offerings, please visit their [official website](https://www.sgx.com/).
-```

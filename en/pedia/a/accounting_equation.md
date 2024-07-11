@@ -1,4 +1,4 @@
-# The Accounting Equation
+# Accounting Equation
 
 The accounting equation is the fundamental principle of double-entry bookkeeping that serves as the foundation for all accounting practices. The equation shows that a company's assets are financed through either equity or liabilities. This fundamental relation defines the structure of the balance sheet and forms the core concept for understanding a company's financial health.
 

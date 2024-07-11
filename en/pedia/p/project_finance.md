@@ -1,4 +1,3 @@
-```md
 # Project Finance
 
 Project finance is a specialized branch of finance that centers around funding infrastructure and industrial projects based on the projected cash flows of the project rather than the balance sheets of the project sponsors. This method of financing is particularly tailored for large-scale, capital-intensive developments such as power plants, oil and gas pipelines, transportation infrastructure, and telecommunication networks.
@@ -81,5 +80,3 @@ Project finance is a sophisticated financial tool that facilitates the developme
 
 - [Qatargas Official Website](https://www.qatargas.com)
 - [Eurotunnel Official Website](https://www.eurotunnel.com)
-
-```

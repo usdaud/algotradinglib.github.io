@@ -1,4 +1,3 @@
-```md
 # Oslo Stock Exchange (OSE)
 
 The Oslo Stock Exchange (OSE) is the primary exchange for securities in Norway. It was founded in 1819, making it one of the oldest stock exchanges in the world. OSE operates under the umbrella of Euronext, a pan-European stock exchange, providing a robust platform for trading in Norwegian equities, bonds, and derivatives. The exchange has a long history of adapting to the needs of investors and companies, and today it serves as a modern, technologically advanced marketplace.
@@ -114,4 +113,3 @@ For algorithmic traders, OSE provides historical data that can be used for backt
 - **Volatility Metrics**: Moderate to high volatility, providing opportunities for both day trading and long-term investments.
 
 By leveraging these resources, traders can develop sophisticated algorithms to navigate the OSE marketplace effectively.
-```

@@ -1,4 +1,3 @@
-```md
 # Title Insurance
 
 Title insurance is a form of indemnity insurance predominantly found in the United States, which insures against financial loss from defects in title to real property and from the invalidity or unenforceability of mortgage loans. The primary purpose of title insurance is to protect an owner's or a lender's financial interest in real property against losses due to title defects, liens, or other issues with the property title.
@@ -112,4 +111,3 @@ For more information, visit the websites of leading title insurance providers:
 - [Fidelity National Title](https://www.fntg.com/)
 - [Old Republic Title](https://www.oldrepublictitle.com/)
 - [Stewart Title](https://www.stewart.com/)
-```

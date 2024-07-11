@@ -1,4 +1,3 @@
-```md
 # Tonga Stock Exchange (TSE)
 
 The Tonga Stock Exchange (TSE) is a small but significant platform for trading securities in the Kingdom of Tonga. It serves as a marketplace for the buying and selling of stocks, bonds, and other securities, helping companies raise capital and providing investors with opportunities to invest in the Tongan economy. The TSE is an essential component of Tonga's financial system, contributing to the economic development and diversification of the country.
@@ -97,4 +96,3 @@ With a growing global emphasis on sustainability, the TSE can promote Green Bond
 ## Conclusion
 
 The Tonga Stock Exchange, while small, plays a pivotal role in the economic landscape of Tonga. It provides a platform for capital formation, investment, and economic diversification. Despite facing challenges such as market size and liquidity, the TSE has significant opportunities for growth through technological advancements, regional integration, and expanding product offerings. Its development and success are crucial for the continued economic development and financial stability of Tonga.
-```

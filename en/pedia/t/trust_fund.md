@@ -1,4 +1,3 @@
-```md
 # Trust Fund
 
 A trust fund is a financial entity that holds and manages assets on behalf of another party. Trust funds can include a combination of cash, stocks, bonds, property, or other types of investments. The person who creates the trust is called the trustor or settlor, while the entity that manages the trust is known as the trustee. The beneficiaries are the individuals or organizations for whom the trust is set up. Trust funds are a versatile tool in estate planning, wealth transfer, and financial management.
@@ -77,4 +76,3 @@ Blockchain technology and smart contracts are emerging as potential tools for ma
 ## Conclusion
 
 Trust funds are powerful tools for managing and safeguarding assets, offering various benefits such as asset protection, tax advantages, and control over asset distribution. Despite their complexities and costs, trust funds remain a cornerstone of effective estate planning and wealth management strategies. With advancements in financial technology, the future of trust funds looks promising, offering greater accessibility and efficiency for individuals and their beneficiaries.
-```

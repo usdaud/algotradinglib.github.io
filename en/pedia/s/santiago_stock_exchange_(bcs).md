@@ -1,4 +1,3 @@
-```md
 # Santiago Stock Exchange (BCS)
 
 The Santiago Stock Exchange, also known as Bolsa de Comercio de Santiago (BCS), is the primary stock exchange of Chile, playing a crucial role in the financial landscape of the country and the wider Latin American region. Established in 1893, BCS is headquartered in Santiago, Chile, and has developed into a modern and dynamic financial hub, facilitating diverse financial instruments and services, including equities, fixed income securities, and derivatives.
@@ -74,5 +73,3 @@ The rise of fintech presents both opportunities and challenges for the Santiago 
 The Santiago Stock Exchange remains a pivotal institution in Chile's financial sector, providing essential services that facilitate capital formation and economic growth. Through continuous innovation, robust regulation, and international collaboration, BCS is well-positioned to navigate the evolving landscape of global finance.
 
 For more detailed information, you can visit the official Santiago Stock Exchange website at [BCS](https://www.bolsadesantiago.com/).
-
-```

@@ -1,4 +1,3 @@
-```md
 # Kyrgyz Stock Exchange (KSE)
 
 The Kyrgyz Stock Exchange (KSE) is the principal securities exchange in the Kyrgyz Republic, officially established in 1995. Initially a joint-stock company formed as a public-private partnership, KSE has evolved into a critical infrastructure component of the Kyrgyzstan financial market. It provides a structured marketplace for the buying, selling, and issuing of various financial instruments, including stocks, bonds, and other securities.
@@ -104,4 +103,3 @@ Ongoing regulatory reforms are anticipated to further align KSE with internation
 The Kyrgyz Stock Exchange is a cornerstone of the Kyrgyz Republic's financial market, providing a platform for capital formation and investment. While it faces several challenges, including limited market depth and liquidity, ongoing developments in technology, regulation, and market participation hold promise for a vibrant and dynamic future. The exchange continues to play a pivotal role in the economic development of Kyrgyzstan, fostering growth and innovation in the financial sector.
 
 For more information, you can visit the official website of the Kyrgyz Stock Exchange: [Kyrgyz Stock Exchange](http://kse.kg/).
-```

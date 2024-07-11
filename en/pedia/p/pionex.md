@@ -1,4 +1,3 @@
-```md
 # Pionex
 
 Pionex is a cryptocurrency exchange that is known for its built-in trading bots, providing a range of tools that automate trading for users. Unlike traditional exchanges that require third-party software or manual trading strategies, Pionex integrates various trading bots directly into its platform to make automated trading more accessible. The platform's ease of use and diverse selection of bots make it an appealing choice for both novice and experienced traders. 
@@ -61,5 +60,3 @@ Activating a trading bot on Pionex is designed to be a simple process:
 Pionex stands out in the crowded cryptocurrency exchange landscape by offering a unique proposition: built-in trading bots that automate various trading strategies. Its low fees, aggregated liquidity, and strong security make it an attractive choice for both novice and seasoned traders. By providing an array of powerful tools in a user-friendly package, Pionex enables traders to focus more on strategy and less on execution, potentially leading to more consistent and profitable outcomes.
 
 For more information, visit the official website: [Pionex](https://www.pionex.com)
-
-```

@@ -1,4 +1,3 @@
-```md
 # Shooting Star
 
 In the realm of technical analysis and trading, the "Shooting Star" is one of the pivotal single-candle patterns used to determine potential reversals in the market. As a candlestick pattern, it is essential for traders to understand its formation, implications, and the strategic response necessary when encountering it on a price chart.
@@ -71,4 +70,3 @@ To learn more about Shooting Stars and their application:
 - [MetaTrader 4](https://www.metatrader4.com)
 
 Understanding the Shooting Star pattern and its implications equips traders with the knowledge to make informed decisions, enhancing their ability to navigate market complexities effectively.
-```
