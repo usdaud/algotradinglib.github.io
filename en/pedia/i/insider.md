@@ -1,4 +1,4 @@
-# Insider Trading in Algorithmic Trading
+# Insider Trading
 
 Insider trading refers to buying or selling a security, in breach of a fiduciary duty or other relationship of trust and confidence, while in possession of material, non-public information about the security. This practice is illegal and unethical because it undermines the integrity of financial markets and harms the interests of investors who operate based on publicly available information.
 

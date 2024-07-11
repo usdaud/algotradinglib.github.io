@@ -1,4 +1,4 @@
-# The Transportation Sector
+# Transportation Sector
 
 The transportation sector plays a crucial role in the global economy, encompassing activities and infrastructure that enable the movement of goods and people. This sector includes various modes of transport such as road, rail, air, and maritime, each with its own set of industries, stakeholders, and economic implications. Understanding the transportation sector requires a comprehensive look at its components, key players, economic impact, challenges, and the future outlook, especially in the context of technological advancements like autonomous vehicles and sustainable transportation solutions.
 

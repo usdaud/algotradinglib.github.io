@@ -1,4 +1,4 @@
-# The Jones Act and Its Implications
+# Jones Act
 
 The Jones Act, formally known as the Merchant Marine Act of 1920, is a federal statute that regulates maritime commerce in the United States. This law was enacted to promote and maintain the American merchant marine industry, ensuring that domestic waterborne shipping remains within the control of U.S. citizens and U.S. flagged vessels. This comprehensive piece of legislation has far-reaching implications for the shipping, logistics, and maritime sectors, affecting both the economy and national security.
 

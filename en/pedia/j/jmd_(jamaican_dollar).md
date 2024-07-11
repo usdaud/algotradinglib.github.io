@@ -1,4 +1,4 @@
-# Jamaican Dollar in Algorithmic Trading
+# Jamaican Dollar
 
 ## Introduction to the Jamaican Dollar (JMD)
 

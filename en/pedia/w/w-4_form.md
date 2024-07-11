@@ -1,4 +1,4 @@
-# What is the W-4 Form?
+# W-4 Form
 
 The W-4 Form, officially titled "Employee's Withholding Certificate," is a critical document used in the United States tax system. This form is required by the Internal Revenue Service (IRS) and is filled out by employees to indicate their tax situation to their employer. The information provided on the W-4 Form allows employers to calculate the correct amount of federal income tax to withhold from the employee's paycheck. The amount withheld is then sent to the IRS throughout the year as a part of the taxpayer's obligation.
 

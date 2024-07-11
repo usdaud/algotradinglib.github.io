@@ -1,4 +1,4 @@
-# Trial Balance: Definition, How It Works, Purpose, and Requirements
+# Trial Balance
 
 A trial balance is a fundamental aspect of the double-entry bookkeeping system. It serves as a financial statement that lists the balances of all ledgers to ensure that debits and credits are balanced. This verification step is crucial in the accounting cycle and helps to identify errors in the ledger before the creation of final financial statements. To understand the purpose, format, and importance of the trial balance, we'll delve into its definition, functionality, objectives, and requirements.
 

@@ -1,4 +1,4 @@
-# Plunge Protection Team (PPT): Definition and How It Works
+# Plunge Protection Team (PPT)
 
 The Plunge Protection Team (PPT) is a colloquial term used to refer to the Working Group on Financial Markets (WGFM). This group's establishment was authorized by Executive Order 12631, signed by President Ronald Reagan on March 18, 1988. The mandate of the PPT is to enhance the integrity, efficiency, orderliness, and competitiveness of the financial markets while maintaining investor confidence. Despite its relatively low profile, the PPT has become a point of interest for market analysts, journalists, and conspiracy theorists alike, especially in times of financial stress or market instability.
 

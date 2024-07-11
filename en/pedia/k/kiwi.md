@@ -1,4 +1,4 @@
-# Kiwi: Transforming Algorithmic Trading through Innovation
+# Kiwi
 
 Kiwi, a notable player in the algorithmic trading space, has emerged as a significant influencer through its innovative approaches in automating financial transactions. Combining advanced machine learning techniques with high-frequency trading (HFT) mechanisms, Kiwi revolutionizes the trading landscape by leveraging cutting-edge technology to execute trades with speed and precision. This extensive exploration delves into various facets of Kiwi’s impact on algorithmic trading.
 

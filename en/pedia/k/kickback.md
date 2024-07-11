@@ -1,4 +1,4 @@
-# Kickback in Algorithmic Trading
+# Kickback
 
 ## Introduction
 

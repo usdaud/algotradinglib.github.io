@@ -1,4 +1,4 @@
-# The Phillips Curve
+# Phillips Curve
 
 The Phillips Curve is a concept in macroeconomics that describes an empirical inverse relationship between the level of unemployment and the rate of inflation within an economy. The curve suggests that with economic growth comes inflation, which in turn should lead to lower unemployment. The concept emerged from the work of economist A.W. Phillips, who, in 1958, published an influential study examining wage inflation and unemployment rates in the United Kingdom from 1861 to 1957.
 

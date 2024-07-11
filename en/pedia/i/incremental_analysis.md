@@ -1,4 +1,4 @@
-# Incremental Analysis: A Deep Dive into Algorithmic Trading
+# Incremental Analysis
 
 Incremental analysis, also known as marginal or differential analysis, is a decision-making tool in the field of accounting and finance. It is used to assess various business scenarios by comparing the additional or incremental benefits and costs associated with each option. In the context of algorithmic trading, incremental analysis can be crucial for optimizing trading strategies, determining transaction costs, and evaluating the profitability of various trading actions.
 

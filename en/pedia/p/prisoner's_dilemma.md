@@ -1,4 +1,4 @@
-# The Prisoner's Dilemma
+# Prisoner's Dilemma
 
 The Prisoner's Dilemma is a fundamental concept in game theory that serves as a critical framework for understanding strategic interactions in economics, political science, and evolutionary biology. It models a situation where two individuals, acting in their own self-interest, do not produce the optimal outcome.
 

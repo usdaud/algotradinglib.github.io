@@ -1,4 +1,4 @@
-# The Sarbanes-Oxley Act of 2002
+# Sarbanes-Oxley Act of 2002
 
 The Sarbanes-Oxley Act of 2002, also known as SOX or Sarbox, is a federal law that was enacted on July 30, 2002, in response to a number of major corporate and accounting scandals, including those affecting Enron, Tyco International, and WorldCom. These scandals, which involved fraudulent financial reporting, led to a dramatic decline in investor confidence in the securities markets. The SOX Act established stringent rules for financial practice and corporate governance with the aim of improving accountability and transparency in the business environment.
 

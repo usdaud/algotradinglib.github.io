@@ -1,4 +1,4 @@
-# The Johnson School at Cornell University
+# Johnson School at Cornell University
 
 The Samuel Curtis Johnson Graduate School of Management, commonly known as the Johnson School, is the graduate business school of Cornell University, a member of the Ivy League. Situated in Ithaca, New York, the school offers a range of business programs, catering to individuals seeking advanced academic knowledge and strategic managerial skills. One distinguishing factor of the Johnson School is its emphasis on leadership, innovation, and sustainability, aligning with Cornell University’s broader mission of public engagement and societal impact.
 

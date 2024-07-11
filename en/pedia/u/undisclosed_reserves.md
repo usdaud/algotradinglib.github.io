@@ -1,4 +1,4 @@
-# Undisclosed Reserves: What It Is, How It Works
+# Undisclosed Reserves
 
 Undisclosed reserves, also known as hidden reserves or secret reserves, refer to amounts that a company holds but does not report on its public financial statements. These reserves can be created intentionally or may arise due to conservative accounting practices. The practice of creating undisclosed reserves often aims to provide a financial cushion for the company, which can then be used in times of financial distress or to smooth earnings over time. While the strategy may offer some benefits, it also has ethical and regulatory implications.
 

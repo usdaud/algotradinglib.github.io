@@ -1,4 +1,4 @@
-# Unemployment Insurance (UI): How It Works, Requirements, and Funding
+# Unemployment Insurance (UI)
 
 **Unemployment Insurance (UI)** is a vital social safety net designed to provide temporary financial assistance to workers who have lost their jobs through no fault of their own. It is a key economic stabilizer that traces its origins to the Social Security Act of 1935 in the United States. The primary purpose of UI is to cushion the financial blow of unemployment, reducing the economic strain on individuals and families, while also stabilizing the economy during periods of downturn by maintaining consumer spending levels. This document provides an in-depth exploration of UI, including how it works, eligibility requirements, funding mechanisms, and its economic implications.
 

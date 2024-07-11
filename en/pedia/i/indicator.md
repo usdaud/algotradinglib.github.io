@@ -1,4 +1,4 @@
-# Indicator in Algorithmic Trading
+# Indicator
 
 An indicator in algorithmic trading is a mathematical calculation based on historical price, volume, or open interest information that aims to predict future market movements. Indicators are essential tools for technical analysis, and they help traders make more informed decisions by identifying trends, volatility, momentum, and other market characteristics. There are several categories and types of indicators, each serving a specific purpose. This article aims to provide a comprehensive understanding of various indicators and their applications in algorithmic trading.
 

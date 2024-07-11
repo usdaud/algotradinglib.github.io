@@ -1,4 +1,4 @@
-# Venture Philanthropy: What it Means, How it Works, Origins
+# Venture Philanthropy
 
 Venture philanthropy is an innovative approach to giving where philanthropic organizations, individual donors, or social investors apply venture capital techniques to achieve philanthropic goals. Unlike traditional philanthropy, which often focuses solely on providing grants, venture philanthropy supports organizations with a combination of funding, expert advice, and performance measurement to achieve lasting, scalable social impact.
 

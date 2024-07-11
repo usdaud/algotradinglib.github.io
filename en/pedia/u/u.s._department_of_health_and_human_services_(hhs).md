@@ -1,4 +1,4 @@
-# The U.S. Department of Health and Human Services (HHS)
+# U.S. Department of Health and Human Services (HHS)
 
 The United States Department of Health and Human Services (HHS) is a federal department of the U.S. government with the mission to enhance and protect the health and well-being of all Americans. This department fulfills its mission by providing for effective health and human services and fostering advances in medicine, public health, and social services. 
 

@@ -1,4 +1,4 @@
-# Monetarism: A Deep Dive into the Economic Theory
+# Monetarism
 
 Monetarism is a school of thought in economic theory that emphasizes the role of governments in controlling the amount of money in circulation. It is closely associated with the work of economist Milton Friedman and the University of Chicago, where many of its key principles were formulated and debated.
 

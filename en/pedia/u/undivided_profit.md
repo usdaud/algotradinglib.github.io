@@ -1,4 +1,4 @@
-# Undivided Profit: What It is, How It Works, Example
+# Undivided Profit
 
 Undivided profit, often referred to as retained earnings, represents the portion of a company's net income that is not distributed as dividends to shareholders but is retained by the company for reinvestment in its operations, repayment of debt, or to save for future use. Understanding undivided profit is crucial for investors, analysts, and finance professionals as it provides insights into a company’s reinvestment strategy and financial health.
 

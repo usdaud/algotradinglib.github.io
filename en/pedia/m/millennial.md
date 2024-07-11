@@ -1,4 +1,4 @@
-# Millennial Investor Behavior: Market Impacts and Strategies
+# Millennial Investor Behavior
 
 Millennials, commonly defined as individuals born between 1981 and 1996, are increasingly becoming a significant segment of the investment landscape. As they accumulate wealth, enter their prime earning years, and become more financially literate, their investment behavior and preferences have profound implications for financial markets. This article delves into the characteristics of millennial investors, their market impact, and the evolving strategies employed by financial advisors and institutions to cater to this demographic.
 

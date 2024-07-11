@@ -1,4 +1,4 @@
-# The Old Lady of Threadneedle Street
+# Old Lady of Threadneedle Street
 
 The term "The Old Lady of Threadneedle Street" is a colloquial nickname for the Bank of England, which is the central bank of the United Kingdom, responsible for maintaining monetary stability and overseeing the financial system in the UK. It was established in 1694 by an act of the Parliament during the reign of King William III and Queen Mary II to act as the government's banker and debt manager. The nickname references not only its age but also its location – the institution has been based at the same address in the City of London since 1734.
 

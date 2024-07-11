@@ -1,4 +1,4 @@
-# P2B: Understanding Peer-to-Business
+# Peer-to-Business
 
 Peer-to-Business (P2B), also known as B2P (Business-to-Peer), is a financial model that bridges the gap between individual investors and business entities. Unlike traditional banking and investment channels, P2B platforms leverage the power of internet technology to facilitate direct transactions, optimizing capital flow, reducing overhead costs, and potentially offering higher returns on investments.
 

@@ -1,4 +1,4 @@
-# Introduction to Vintage: A Comprehensive Guide to Financial Terminology
+# Vintage
 
 Vintage, in financial context, particularly in the arena of asset-backed securities (ABS) and private equity, denotes the year in which the asset was originated or the investment was made. Understanding the concept of vintage is paramount for investors, fund managers, and financial analysts, as it significantly impacts investment strategies, risk evaluation, portfolio management, and performance assessment.
 
