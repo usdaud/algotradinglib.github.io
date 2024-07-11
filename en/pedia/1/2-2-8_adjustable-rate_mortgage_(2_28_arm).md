@@ -1,4 +1,4 @@
-# 2-2-8 Adjustable-Rate Mortgage (2/28 ARM): Meaning, How It Works
+# 2-2-8 Adjustable-Rate Mortgage (2/28 ARM)
 
 A 2-2-8 Adjustable-Rate Mortgage (ARM), often known as a 2/28 ARM, is a type of mortgage that combines aspects of both fixed-rate and adjustable-rate mortgages. It is structured in a way that provides initial interest rate stability followed by periodic adjustments that reflect prevailing market conditions. This mortgage product is appealing for certain types of borrowers who expect to either sell the property or refinance before the adjustable rate period begins. To fully understand how a 2/28 ARM works, it's essential to dive into the specifics of its structure, benefits, risks, and scenarios where it might be advantageous or disadvantageous for borrowers.
 

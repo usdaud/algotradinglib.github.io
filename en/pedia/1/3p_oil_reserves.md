@@ -1,4 +1,4 @@
-# 3P Oil Reserves: What it Means, How it Works
+# 3P Oil Reserves
 
 Oil reserves are a critical component for understanding the potential future supply of fossil fuels and how companies and nations plan their production and financial strategies. Among these reserves, "3P Oil Reserves" stand as a significant category for categorizing and forecasting potential oil production. This documentation will provide a detailed exploration of what 3P Oil Reserves are, how they are classified, specifically how they function within the broader context of oil exploration and production, and the implications for the industry.
 

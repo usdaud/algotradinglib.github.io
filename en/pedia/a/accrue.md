@@ -1,4 +1,4 @@
-# Accrue: Definition, How It Works, and 2 Main Types of Accruals
+# Accrue
 
 Accrue is a financial and accounting term that refers to the process of recording revenues and expenses when they are incurred, regardless of when the actual cash transaction occurs. This concept is fundamental to the accrual basis of accounting, which is one of the two primary accounting methods, the other being the cash basis.
 

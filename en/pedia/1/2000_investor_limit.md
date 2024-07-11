@@ -1,4 +1,4 @@
-# 2000 Investor Limit: What It is, How It Works, Example
+# 2000 Investor Limit
 
 ## Introduction
 The "2000 Investor Limit" is a regulatory threshold set by the United States Securities and Exchange Commission (SEC) under the Securities Exchange Act of 1934. This rule states that privately-held companies must register with the SEC and adhere to public reporting requirements if they have more than 2,000 investors or more than 500 non-accredited investors. This rule is significant for private companies as it determines whether they need to transition from private to public status. Understanding this limit is crucial for company executives, investors, and financial advisors who need to navigate the regulatory landscape of securities law.

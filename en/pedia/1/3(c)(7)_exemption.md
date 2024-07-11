@@ -1,4 +1,4 @@
-# 3(c)(7) Exemption: What It Is and How It Works
+# 3(c)(7) Exemption
 
 The 3(c)(7) exemption is a provision under the Investment Company Act of 1940, which allows certain investment funds to be exempt from registering with the Securities and Exchange Commission (SEC). Specifically, it pertains to investment funds that are exclusively offered to “qualified purchasers.” This exemption is a crucial tool for hedge funds, private equity funds, and other private funds as it allows them to avoid the rigorous regulatory and reporting requirements applied to public funds. 
 
