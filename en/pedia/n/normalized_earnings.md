@@ -1,67 +1,73 @@
 # Normalized Earnings
 
-Normalized earnings, also known as regularized or adjusted earnings, are an important financial metric that adjusts earnings to remove the effects of non-recurring or one-time items, providing a clearer, more consistent view of a company's long-term financial performance. The goal is to present earnings that reflect a company's usual trajectory without the influence of atypical events. This allows investors, analysts, and other stakeholders to make better comparisons between different time periods and companies by neutralizing the financial statement irregularities.
+Normalized earnings refer to a company’s earnings that have been adjusted to remove the effects of non-recurring events, anomalies, or irregularities that do not reflect the company’s typical financial performance. The primary goal of normalizing earnings is to provide a clearer and more consistent picture of the company's ongoing operational performance, which can be useful for analysts, investors, and other stakeholders.
 
-### Understanding Normalized Earnings
+## Definition of Normalized Earnings
 
-To understand normalized earnings, one must first grasp the concept of GAAP (Generally Accepted Accounting Principles) earnings. These earnings represent the net income of a company reported according to these accounting principles. However, GAAP earnings can often include extraordinary items, non-recurring events, or discretionary decisions made by management that can significantly impact the reported profit for a particular period.
+Normalized earnings are calculated by adjusting the net income reported on the income statement to exclude one-time events that are not part of the normal course of business. These adjustments can include, but are not limited to, the following:
 
-#### Components Removed for Normalization:
+- **One-time items:** These are unusual, infrequent, or non-recurring items such as natural disaster expenses, gains or losses from the sale of assets, restructuring charges, or litigation settlements.
+- **Accounting anomalies:** These include changes in accounting policies, such as the adoption of new accounting standards, that can skew the financial results.
+- **Extraordinary items:** These events are both unusual and infrequent, such as the impact of a political event or a significant tax law change.
+- **Non-operating items:** These include revenue or expenses from non-core business activities, such as investment gains or losses, interest income, or foreign exchange gains or losses.
 
-1. **One-time Gains and Losses:** These can include items such as the sale of a subsidiary, legal settlements, or restructuring charges. For instance, if a company sells a large piece of real estate and realizes a substantial gain, this would typically be excluded to normalize earnings.
-2. **Unusual or Infrequent Items:** These items do not occur regularly as part of the company's operations. Examples include the impact of natural disasters or a one-time tax benefit.
-3. **Non-Cash Charges:** Such as impairments and stock-based compensation. These items can be significant but do not impact the cash flow directly and may be normalized.
-4. **Changes in Accounting Estimates:** Adjustments due to changes in accounting policy can affect earnings for one period and not necessarily reflect the ongoing business performance.
+## Purpose of Normalized Earnings
 
-### Calculating Normalized Earnings
+The purpose of normalizing earnings is to create a more accurate representation of a company's true financial health and performance. This is particularly important for several reasons:
 
-1. **Identify Non-Recurring Items:** Carefully examine the income statement and footnotes to identify any non-recurring items included in the net income for the period.
-2. **Adjust for Core Operations:** Add back any losses or deduct any gains recognized due to these items to regularize the earnings.
-3. **Recalculate Earnings:** After making these adjustments, compute the normalized earnings, which should now reflect the company's recurring operational performance.
-   
-### Importance of Normalized Earnings
+1. **Comparative Analysis:** Normalized earnings make it easier to compare the financial performance of different companies within the same industry or sector. It strips away the noise and focuses on the core operational results.
+2. **Trend Analysis:** Analysts and investors can better observe trends in a company's performance over time by removing the impact of irregular items.
+3. **Investment Decisions:** Investors use normalized earnings to make more informed decisions. A company that appears highly profitable due to one-time gains might not be as appealing if those gains are excluded.
+4. **Valuation:** Normalized earnings are crucial for more accurate valuation. Valuation models, such as the price-to-earnings (P/E) ratio, rely on normalized earnings to ensure the metrics reflect the ongoing profitability of the company.
+5. **Performance Metrics:** Business managers also use normalized earnings to evaluate their own performance and to set realistic financial goals and benchmarks.
 
-Normalized earnings are critical for several reasons:
- 
-- **Comparability:** They allow for meaningful comparisons between different periods and with other companies, helping in stock valuation and performance analysis.
-- **[Trend Analysis](../t/trend_analysis.md):** Investors can better understand the true performance trajectory by removing the noise from earnings caused by irregular events.
-- **[Valuation Models](../v/valuation_models.md):** Valuations based on normalized earnings, such as price-to-earnings (P/E) ratios, provide more reliable insights.
+## Benefits of Normalized Earnings
 
-### Practical Example
+Normalized earnings provide several benefits to stakeholders:
 
-Consider a company named NanoTech Innovations, Inc., which reported GAAP earnings of $50 million for the fiscal year. Included in this figure is a $10 million gain from the sale of a subsidiary and a $5 million loss due to an unusual legal settlement. 
+- **Transparency:** By removing irregular and non-recurring items, normalized earnings offer a clearer view of a company's financial health, enhancing transparency.
+- **Consistency:** Normalized earnings enable consistent comparisons across different periods and between different companies, facilitating better benchmarking and competitive analysis.
+- **Enhanced Valuation Accuracy:** By focusing on ongoing operations, normalized earnings help in generating more reliable valuation metrics, aiding in better decision-making for investors and analysts.
+- **Informed Decision Making:** For shareholders and potential investors, normalized earnings offer a more reliable basis for making investment decisions, reducing the risk of being misled by anomalous one-time events.
 
-To calculate normalized earnings:
+## Examples of Normalized Earnings
 
-1. **Identify and Adjust for Non-recurring items:**
-   - Gain from sale of subsidiary: $10 million
-   - Loss due to legal settlement: $5 million
+### Example 1: ABC Corporation
 
-2. **Recalculate Normalized Earnings:**
-   - Initial GAAP earnings: $50 million
-   - Subtract gain: $50 million - $10 million = $40 million
-   - Add back legal settlement loss: $40 million + $5 million = $45 million
+ABC Corporation reports a net income of $5 million in its latest financial year. However, this includes a $2 million one-time gain from the sale of a piece of real estate. To normalize the earnings, we would remove this $2 million gain to focus on the recurring income from operations:
 
-So, the normalized earnings for NanoTech Innovations, Inc. would be $45 million.
+```
+Normalized Earnings = Net Income - One-time Gain
+                    = $5 million - $2 million
+                    = $3 million
+```
 
-### Real-World Application
+So, the normalized earnings for ABC Corporation would be $3 million.
 
-Many top financial information and analytics companies provide specific data and tools for normalized earnings:
+### Example 2: XYZ Inc.
 
-- **S&P Capital IQ:** Offers detailed financial analysis tools that provide normalized earnings data. https://www.spglobal.com/marketintelligence/en
+XYZ Inc. had a net income of $7 million for the fiscal year, but this figure includes a $1.5 million expense related to a lawsuit settlement. Additionally, the company incurred $500,000 in restructuring costs. To normalize the earnings, we would add back these one-time expenses:
 
-- **[Bloomberg](../b/bloomberg.md) Terminal:** Provides comprehensive normalized earnings figures and tools to analyze the financial health of companies. https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/
+```
+Normalized Earnings = Net Income + Lawsuit Settlement Expense + Restructuring Costs
+                    = $7 million + $1.5 million + $500,000
+                    = $9 million
+```
 
-- **[Morningstar](../m/morningstar.md):** Includes normalized earnings in its [equity research](../e/equity_research.md) and analysis platform to help investors. https://www.[morningstar](../m/morningstar.md).com/
+Thus, the normalized earnings for XYZ Inc. would be $9 million.
 
-### Limitations and Considerations
+### Example 3: DEF Technologies
 
-While normalized earnings provide a more accurate picture of a company's ongoing performance, there are some caveats:
+DEF Technologies reported a net income of $8 million, which included a $3 million loss from a natural disaster and a $2 million gain from selling obsolete machinery. To normalize these earnings, we would exclude both the natural disaster loss and the gain from selling machinery:
 
-- **Subjectivity:** The process involves subjective judgment calls about what constitutes a non-recurring item.
-- **Management Discretion:** Companies might sometimes mask poor underlying performance by frequent normalization adjustments.
-- **Comparability across Industries:** Different industries have different norms for recurring and non-recurring items, making cross-sector comparison challenging.
+```
+Normalized Earnings = Net Income + Loss from Natural Disaster - Gain from Sale of Machinery
+                    = $8 million + $3 million - $2 million
+                    = $9 million
+```
 
-### Conclusion
+Therefore, the normalized earnings for DEF Technologies would be $9 million.
 
-Normalized earnings play a vital role in the proper evaluation of a company's financial health and performance. By removing irregularities and focusing on consistent earnings power, stakeholders can make more informed decisions based on a company's core operational strength and sustainability. However, it's essential to critically evaluate the normalization process and consider the broader context within which these adjustments are made.
+## Final Thoughts
+
+Normalized earnings are an essential tool for analysts, investors, and corporate management, providing a more consistent and transparent picture of a company's ongoing profitability and financial health. By removing the influence of non-recurring and irregular items, normalized earnings enable better comparison across different periods and between different companies, facilitating improved valuation accuracy and more informed decision-making.

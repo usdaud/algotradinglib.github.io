@@ -1,4 +1,4 @@
-# 341 Meeting: What It Is, How It Works, Example
+# 341 Meeting
 
 A 341 meeting, also known as the meeting of creditors, is an essential aspect of the bankruptcy process in the United States. Governed under Section 341 of the Bankruptcy Code, this meeting provides an opportunity for the bankruptcy trustee and creditors to question the debtor about their financial affairs and bankruptcy case. This meeting is a pivotal step in both Chapter 7 and Chapter 13 bankruptcies, ensuring transparency and allowing creditors to voice any concerns regarding the debtor's financial situation and the proposed repayment plan.
 

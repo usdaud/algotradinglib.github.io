@@ -1,4 +1,4 @@
-# 10-K Wrap: What It Is, How It Works, Elements
+# 10-K Wrap
 
 In the world of finance, transparency and information are key factors that drive investor decisions. One significant document that provides in-depth insights into a company's financial health and operations is the 10-K wrap. This document is vital for analysts, investors, and financial professionals who need a comprehensive understanding of a company's financial status. This article delves into the intricacies of the 10-K wrap, explaining what it is, how it works, and the key elements it includes.
 

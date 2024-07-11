@@ -1,4 +1,4 @@
-# 408(k) Plan: What it is, How it Works, Compared to 401(k)
+# 408(k) Plan
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# 529 Plans: A Comprehensive Guide
+# 529 Plans
 
 A 529 plan, named after Section 529 of the Internal Revenue Code, is a tax-advantaged savings plan designed to encourage saving for future education costs. These plans are legally known as "qualified tuition plans" and are sponsored by states, state agencies, or educational institutions. There are two types of 529 plans: prepaid tuition plans and education savings plans. This guide explores the operational mechanics, benefits, considerations, and criticisms of 529 plans.
 

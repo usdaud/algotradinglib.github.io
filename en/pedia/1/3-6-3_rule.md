@@ -1,4 +1,4 @@
-# 3-6-3 Rule: Slang Term for How Banks Used to Operate
+# 3-6-3 Rule
 
 In the mid-20th century era of banking, the term "3-6-3 rule" was coined as a colloquial explanation of how traditional banks operated. This rule encapsulated the simplicity and perceived profitability of banking during a time when the industry was less competitive and more regulated. Specifically, the 3-6-3 rule implied the following: banks would offer depositors an interest rate of 3%, loan out money at an interest rate of 6%, and the bankers would be on the golf course by 3 PM. Although said humorously, this rule highlighted the straightforward nature of banking at the time, focusing on wide interest margins and the lack of financial innovation and aggressive competition that characterize the modern banking landscape.
 
