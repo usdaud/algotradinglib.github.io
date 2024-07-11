@@ -12,7 +12,7 @@ For instance, if an investor is in a higher tax bracket, the tax-exempt yield on
 
 To calculate TEY, you need the yield of the tax-exempt investment and the marginal tax rate of the investor. The formula is:
 
-\[ TEY = \frac{{Tax-Exempt Yield}}{{1 - Marginal Tax Rate}} \]
+\[ TEY = \frac{Tax-Exempt Yield}{1 - Marginal Tax Rate} \]
 
 This formula can be further adjusted to consider state and local taxes if applicable.
 
@@ -20,7 +20,7 @@ This formula can be further adjusted to consider state and local taxes if applic
 
 Suppose you have a municipal bond that offers a yield of 3%, and your marginal federal tax rate is 32%. The Tax-Equivalent Yield would be calculated as follows:
 
-\[ TEY = \frac{{0.03}}{{1 - 0.32}} = \frac{{0.03}}{{0.68}} = 0.0441 \text{ or } 4.41\% \]
+\[ TEY = \frac{0.03}{1 - 0.32} = \frac{0.03}{0.68} = 0.0441 \text{ or } 4.41\% \]
 
 This means you would need a taxable investment that yields approximately 4.41% to match the tax benefits provided by the 3% yield of the municipal bond.
 
@@ -28,13 +28,13 @@ This means you would need a taxable investment that yields approximately 4.41% t
 
 ### State and Local Taxes
 
-In some cases, state and local taxes can also impact the TEY. For instance, if the municipal bond is also exempt from state and local taxes, the investor’s effective tax rate might be higher. In such cases, the formula for TEY can be adjusted accordingly:
+In some cases, state and local taxes can also impact the TEY. For instance, if the municipal bond is also exempt from state and local taxes, the investor's effective tax rate might be higher. In such cases, the formula for TEY can be adjusted accordingly:
 
-\[ TEY = \frac{{Tax-Exempt Yield}}{{1 - (Federal Tax Rate + State Tax Rate + Local Tax Rate)}} \]
+\[ TEY = \frac{Tax-Exempt Yield}{1 - (Federal Tax Rate + State Tax Rate + Local Tax Rate)} \]
 
 For example, if the state tax rate is 5% and the local tax rate is 3%, along with the federal tax rate of 32%, the total effective tax rate would be 32% + 5% + 3% = 40%. Therefore, the TEY calculation would be:
 
-\[ TEY = \frac{{0.03}}{{1 - 0.40}} = \frac{{0.03}}{{0.60}} = 0.05 \text{ or } 5\% \]
+\[ TEY = \frac{0.03}{1 - 0.40} = \frac{0.03}{0.60} = 0.05 \text{ or } 5\% \]
 
 In this case, you would need a taxable investment yielding 5% to equate to the 3% tax-exempt yield of the municipal bond.
 
@@ -60,7 +60,7 @@ While TEY provides a useful comparison, it does have its limitations:
 
 ### Federal vs. State-Only Tax Exemptions
 
-Not all municipal bonds are tax-exempt at both federal and state levels. For example, municipal bonds issued within an investor’s state often carry state tax exemption but might be subject to federal taxes. Such nuances should be accurately modeled in TEY calculations.
+Not all municipal bonds are tax-exempt at both federal and state levels. For example, municipal bonds issued within an investor's state often carry state tax exemption but might be subject to federal taxes. Such nuances should be accurately modeled in TEY calculations.
 
 ### Real-Time Calculations in Algotrading
 
