@@ -1,4 +1,4 @@
-# Barter in Algorithmic Trading
+# Barter
 
 Barter is a method of exchange wherein goods or services are directly traded for other goods or services without using a medium of exchange such as money. While traditionally barter involves the physical exchange of items or services, in the context of algorithmic trading, the concept can take on new and innovative forms. Here, we will explore how barter systems can be applied to algorithmic trading and their various implications.
 

@@ -1,4 +1,4 @@
-# Gaps in Algorithmic Trading
+# Gaps
 
 ## Introduction
 In the world of financial markets, price gaps play a crucial role in the decision-making process of traders and automated trading systems alike. A gap in trading occurs when a financial instrument opens at a price significantly higher or lower than its closing price on the previous day. These gaps represent shifts in market sentiment and often herald substantial price movement potential. Understanding the mechanics, causes, types, and strategies to exploit gaps is vital for algorithmic traders who aim to optimize their trading strategies.

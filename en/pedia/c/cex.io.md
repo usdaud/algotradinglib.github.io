@@ -1,4 +1,4 @@
-# Overview of CEX.IO
+# CEX.IO
 
 CEX.IO is a prominent cryptocurrency exchange platform that offers a wide range of services to both individual and institutional traders. Established in 2013 in London, CEX.IO has become a trusted name in the cryptocurrency industry. Initially, the platform started as a cloud mining provider, but it quickly evolved into a multifaceted exchange that supports a variety of trading activities, including spot trading, margin trading, staking, and lending. This article will provide a detailed overview of CEX.IO, its history, services, features, and the technology that underpins its trading capabilities.
 

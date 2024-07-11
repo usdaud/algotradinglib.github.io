@@ -1,4 +1,4 @@
-# Gray List in Algorithmic Trading
+# Gray List
 
 ## Introduction
 

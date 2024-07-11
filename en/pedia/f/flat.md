@@ -1,4 +1,4 @@
-# Flat Market in Algorithmic Trading
+# Flat Market
 
 ## Introduction
 In the context of trading and financial markets, a "flat" market refers to a period when there is little or no movement in the prices of securities. This term can be applied to various asset classes including stocks, commodities, currencies, and indices. A flat market is characterized by low volatility and a sideways trading pattern, meaning prices are not trending significantly upward or downward. This can create unique challenges and opportunities for traders, particularly those utilizing algorithmic strategies.

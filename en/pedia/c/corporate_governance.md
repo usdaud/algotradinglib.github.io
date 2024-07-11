@@ -1,4 +1,4 @@
-# Introduction to Corporate Governance
+# Corporate Governance
 
 Corporate governance refers to the system by which corporations are directed and controlled. It encompasses the mechanisms, processes, and relations used by various parties like shareholders, board of directors, and management to ensure accountability, fairness, and transparency in a company's relationship with its stakeholders (which includes investors, employees, customers, suppliers, and the community at large). Good corporate governance helps foster a culture of integrity and leads to higher performance, ultimately contributing to economic development.
 

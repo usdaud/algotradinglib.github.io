@@ -1,4 +1,4 @@
-# The Four Ps of Algorithmic Trading
+# Four Ps
 
 ## Introduction
 Algorithmic trading, often referred to as algo-trading, leverages computer programs to execute trading strategies at speeds and frequencies beyond human capability. The purpose is to capitalize on market inefficiencies, optimize trade execution, or both. Within the realm of algorithmic trading, there are strategic principles known as the "Four Ps," which stand for Program, Position Management, Performance Analysis, and Perception. These principles guide traders and firms in developing, executing, and refining their trading algorithms.

@@ -1,4 +1,4 @@
-# Bell Curve in Algorithmic Trading
+# Bell Curve
 
 The Bell Curve, also known as the Gaussian distribution or normal distribution, is a fundamental concept in statistics and probability theory, and it plays a significant role in algorithmic trading. In this document, we'll explore what the Bell Curve is, its properties, its application in the realm of financial trading, and how it is used by algorithmic traders to develop, test, and optimize trading strategies.
 

@@ -1,4 +1,4 @@
-# Gharar in Algorithmic Trading
+# Gharar
 
 **Gharar** is an Arabic term that can be translated as "risk", "uncertainty", or "hazard" and is prominently featured in Islamic finance. It represents excessive uncertainty and ambiguity in the terms and conditions of a contract or transaction, which is considered forbidden in Islamic law (Sharia). In this comprehensive overview, we will explore the concept of gharar, its implications in financial markets, and particularly how it intersects with the sophisticated realm of algorithmic trading.
 

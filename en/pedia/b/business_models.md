@@ -1,4 +1,4 @@
-# Introduction to Business Models in Algorithmic Trading
+# Business Models
 
 Algorithmic trading, also known as algo-trading or black-box trading, uses computer algorithms to automate trading decisions. These algorithms execute orders based on a predetermined set of rules and market conditions. Algo-trading can be applied across various asset classes including stocks, bonds, and derivatives. This document will delve into the various business models within the algo-trading ecosystem, highlighting their key characteristics, strategies, and notable players.
 

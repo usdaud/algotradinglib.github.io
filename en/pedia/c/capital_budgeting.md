@@ -1,4 +1,4 @@
-# Introduction to Capital Budgeting
+# Capital Budgeting
 
 Capital budgeting is a fundamental financial management tool that companies and organizations use to evaluate potential major investment projects or expenditures. Typical projects that require capital budgeting include new equipment, R&D, acquisitions, new plants, and other significant capital expenditures. Its principal aim is to assure that an entity's investments yield the highest possible returns. Capital budgeting helps in both strategic positioning and long-term financial planning for a business.
 

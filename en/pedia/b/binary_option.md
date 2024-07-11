@@ -1,4 +1,4 @@
-# Binary Option: Definition, How They Trade, and Example
+# Binary Option
 
 Binary options are a type of option contract in which the payout depends entirely on the outcome of a yes/no proposition. Typically, this proposition will be whether an underlying asset will be above or below a specified price at a specified time. Unlike traditional options, binary options offer a fixed payout or nothing at all, which makes them also known as "all-or-nothing options" or "digital options."
 

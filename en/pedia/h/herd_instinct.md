@@ -1,4 +1,4 @@
-# Herd Instinct in Algorithmic Trading
+# Herd Instinct
 
 ## Introduction
 

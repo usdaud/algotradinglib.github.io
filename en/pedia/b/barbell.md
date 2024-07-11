@@ -1,4 +1,4 @@
-# The Barbell Strategy in Algorithmic Trading
+# Barbell
 
 ## Introduction
 

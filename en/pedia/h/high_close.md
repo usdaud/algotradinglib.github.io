@@ -1,4 +1,4 @@
-# High Close in Algorithmic Trading
+# High Close
 
 The concept of "High Close" in the context of financial markets and algorithmic trading refers to a strategical trading pattern based on the closing price of an asset being near its highest price within a specific timeframe. This metric is often used by traders and algorithmic systems to identify potential bullish trends and make informed trading decisions.
 

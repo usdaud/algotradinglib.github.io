@@ -1,4 +1,4 @@
-# Introduction to Financial Technology (Fintech)
+# Financial Technology (Fintech)
 
 Financial Technology, commonly known as fintech, represents a broad category of innovation in the intersection of finance and technology. Over the past decade, fintech has transformed the financial services industry by introducing new methods of financial transactions, investing, lending, and more. This detailed examination delves into the key components, advancements, impact, and future potential of fintech.
 

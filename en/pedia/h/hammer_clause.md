@@ -1,4 +1,4 @@
-# Hammer Clause: What it Means, How it Works, Example
+# Hammer Clause
 
 When delving into the world of professional liability insurance, especially during litigations and settlements, one often encounters various clauses that can significantly influence the financial impact and decision-making for the insured. One critical clause among these is the "Hammer Clause". This guideline provides an in-depth understanding of what a Hammer Clause is, how it operates, and explores real-world examples to demonstrate its practical implications.
 

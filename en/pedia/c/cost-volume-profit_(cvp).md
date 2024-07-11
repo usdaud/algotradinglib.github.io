@@ -1,4 +1,4 @@
-# Introduction to Cost-Volume-Profit (CVP) Analysis
+# Cost-Volume-Profit (CVP) Analysis
 
 Cost-Volume-Profit (CVP) analysis is a powerful tool used by businesses to understand the relationships between costs, volume, and profits. By examining how changes in costs and volume affect a company's profit, CVP analysis helps in decision-making processes related to pricing, product mix, and production volumes. This technique is vital for managers seeking to optimize their operations and ensure sustainability and growth.
 

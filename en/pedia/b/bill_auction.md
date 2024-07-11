@@ -1,4 +1,4 @@
-# Bill Auction: Definition, How It Works & How to Participate
+# Bill Auction
 
 ## Introduction
 Bill auctions are a fundamental mechanism for the issuance and distribution of short-term government debt securities known as Treasury bills (T-bills). Understanding how these auctions operate, their significance, and the participation process is crucial for investors and financial institutions. This document will provide a comprehensive overview of bill auctions, detailing each step of the process, the types of participants, and strategies for successful participation.

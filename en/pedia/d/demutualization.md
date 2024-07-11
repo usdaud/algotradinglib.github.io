@@ -1,4 +1,4 @@
-# Demutualization in Algorithmic Trading
+# Demutualization
 
 Demutualization refers to the process by which a member-owned organization, such as a stock exchange or a cooperative, converts into a shareholder-owned company. This transition involves changing the legal structure, governance, and ownership model, often with the aim of improving efficiency, competitiveness, and access to capital. Demutualization is particularly relevant to the financial services industry and has significant implications for algorithmic trading.
 

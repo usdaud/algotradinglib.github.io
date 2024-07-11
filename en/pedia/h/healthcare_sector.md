@@ -1,6 +1,4 @@
-# Introduction to Algorithmic Trading in the Healthcare Sector
-
-Algorithmic trading, also known as algo trading, refers to the use of computer algorithms to automate the process of buying and selling financial instruments. The healthcare sector stands as one of the most dynamic and crucial industries for investment due to its impact on global well-being and economic stability. The intersection of algorithmic trading and the healthcare sector offers promising opportunities for investors to capitalize on market movements with precision.
+# Healthcare Sector
 
 # Overview of the Healthcare Sector
 

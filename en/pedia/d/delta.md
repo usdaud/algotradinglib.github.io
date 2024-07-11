@@ -1,4 +1,4 @@
-# Delta in Algorithmic Trading
+# Delta
 
 Delta is a crucial concept in the realm of options trading, portfolio management, and particularly within the sophisticated world of algorithmic trading. It measures the sensitivity of an option's price to changes in the price of the underlying asset, often a stock. Delta is a part of the greater group known as the "Greeks," which provide traders with various ways to understand options risk and potential profits. Here, we will explore delta across multiple aspects, including its definition, calculation, practical uses, and integration into algorithmic strategies.
 

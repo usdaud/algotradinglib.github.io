@@ -1,4 +1,4 @@
-# Understanding Grace Periods in Algorithmic Trading
+# Grace Periods
 
 A **grace period** in the context of finance and algorithmic trading refers to a set period after a payment due date during which a trader or investor can make the required payment without incurring any penalties or fees. This concept, though more frequently encountered in the realm of credit and loans, has significant implications and applications in algorithmic trading. Below, we delve into the nuanced understanding of grace periods, their impact on trading strategies, risk management, and associated algorithmic implementations.
 

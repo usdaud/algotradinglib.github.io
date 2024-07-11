@@ -1,4 +1,4 @@
-# Introduction to Fiscal Policy
+# Fiscal Policy
 
 Fiscal policy refers to the use of government spending and taxation to influence a country's economy. This policy is a powerful tool that can be used to manage economic performance, targeting various economic indicators such as inflation, unemployment, and growth in the national economy. Fiscal policy is primarily concerned with changes in the level and composition of government spending and taxation.
 

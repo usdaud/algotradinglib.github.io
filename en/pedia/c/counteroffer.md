@@ -1,4 +1,4 @@
-# Counteroffer in Algorithmic Trading
+# Counteroffer
 
 A counteroffer, in the context of trading, is an offer made in response to an offer that wasn’t acceptable. It’s a critical concept that traders, especially those involved in algorithmic trading, need to understand thoroughly. Algorithmic trading utilizes automated, pre-programmed trading instructions to execute orders at the best possible prices. In this setting, counteroffers play a significant role.
 

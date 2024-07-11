@@ -1,4 +1,4 @@
-# Understanding Fraud in Algorithmic Trading
+# Fraud
 
 Fraud in algorithmic trading represents one of the many risks associated with high-frequency trading (HFT) and other forms of automated trading. Algorithmic trading, which involves the use of computer algorithms to execute trading strategies, has grown exponentially over the past decade due to advancements in technology and the increasing sophistication of financial markets. However, this sophistication has also provided new avenues for fraudulent activities. This article delves into the various types of fraud associated with algorithmic trading, methods to detect and prevent fraud, and the role of regulatory bodies in mitigating these risks.
 

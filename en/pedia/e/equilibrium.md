@@ -1,4 +1,4 @@
-# Equilibrium in Algorithmic Trading
+# Equilibrium
 
 ## Introduction
 Equilibrium in the context of algorithmic trading is a significant concept that can relate to various aspects such as price stability, optimal trade execution, and market efficiency. It portrays a state where demand and supply are balanced, and no participant has an incentive to deviate from their current position. This equilibrium is anchored in economic theories but also translated into practical strategies in algorithmic trading.

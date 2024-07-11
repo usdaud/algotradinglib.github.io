@@ -1,4 +1,4 @@
-# Understanding Finance Charges
+# Finance Charges
 
 Finance charges are fees that represent the cost of credit or the cost of borrowing. These charges are typically applicable in various financial transactions including credit card purchases, loans, and investment activities. Finance charges can include interest fees, transaction fees, servicing fees, and other types of charges that lenders impose to compensate for the risk of lending and for providing credit services. Understanding the structure and implications of finance charges is paramount to effective personal and institutional financial management.
 

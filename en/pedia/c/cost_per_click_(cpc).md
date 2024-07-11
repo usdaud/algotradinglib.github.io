@@ -1,4 +1,4 @@
-# Cost Per Click (CPC) in Algorithmic Trading
+# Cost Per Click (CPC)
 
 **Cost Per Click (CPC)**, commonly referred to as pay-per-click (PPC), is an online advertising model used to direct traffic to websites, where advertisers pay the hosting service (typically a search engine or social media site) when their ad is clicked. In the world of algorithmic trading, CPC can play a crucial role in the marketing strategies of trading platforms and financial entities.
 

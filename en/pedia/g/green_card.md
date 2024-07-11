@@ -1,4 +1,4 @@
-# The U.S. Green Card: Pathway to Permanent Residency
+# Green Card
 
 The U.S. Green Card, officially known as the Permanent Resident Card, is a highly sought-after document that grants foreign nationals the right to live and work permanently in the United States. This legal status is a significant milestone for many immigrants seeking better opportunities and a chance to build a life in the U.S. Below, we dive deeply into what a Green Card is, the various ways to obtain one, the benefits and responsibilities it brings, and the overall impact it has on the lives of recipients.
 

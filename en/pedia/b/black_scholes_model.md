@@ -1,4 +1,4 @@
-# The Black-Scholes Model
+# Black-Scholes Model
 
 The Black-Scholes model, also known as the Black-Scholes-Merton model, is a mathematical framework for pricing options and other derivative securities. The model was developed by Fischer Black, Myron Scholes, and Robert Merton in the early 1970s. Myron Scholes and Robert Merton were awarded the 1997 Nobel Prize in Economic Sciences for their work, while Fischer Black was ineligible for the prize due to his death in 1995. The Black-Scholes model laid the foundation for modern financial theory and is considered one of the most significant breakthroughs in financial economics.
 

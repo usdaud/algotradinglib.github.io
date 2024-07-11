@@ -1,4 +1,4 @@
-# Hysteresis in Algorithmic Trading
+# Hysteresis
 
 Hysteresis is a concept borrowed from physics and engineering that deals with systems that react differently to increases and decreases in stimuli due to their history. In simpler terms, it refers to systems that have memory of past inputs, which means that the current output depends not just on the current input but also on past inputs. In algorithmic trading, the concept of hysteresis can be applied to understand how trading strategies can be informed by past market conditions and behaviors, influencing future trading decisions and outcomes.
 

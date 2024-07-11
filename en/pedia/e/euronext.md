@@ -1,4 +1,4 @@
-# Euronext: An In-depth Exploration
+# Euronext
 
 ## Introduction
 Euronext is one of the leading and largest stock exchange operators in Europe. It provides market participants with various trading platforms for equities, bonds, derivatives, commodities, and various other securities. This article delves into the structure, history, function, and significance of Euronext in the global financial landscape.

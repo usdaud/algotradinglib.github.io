@@ -1,4 +1,4 @@
-# Introduction to Algorithmic Trading: The Hawk Strategy
+# Hawk Strategy
 
 Algorithmic trading, at its core, is the process of using computer algorithms to automatically and systematically trade financial securities. Algorithms are rules-based sequences of instructions that a computer can execute. These instructions can be as simple as buying a stock when its price drops below a certain threshold or as complex as dynamically adjusting a portfolio based on a wide array of factors.
 

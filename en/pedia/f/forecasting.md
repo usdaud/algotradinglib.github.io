@@ -1,4 +1,4 @@
-# Introduction to Forecasting in Algorithmic Trading
+# Forecasting
 
 Forecasting is the process of making predictions about future events based on historical data and statistical techniques. In the context of algorithmic trading, forecasting is used to predict the future prices of assets, identify profitable trades, and manage risk. Algorithmic trading relies heavily on sophisticated mathematical models and machine learning algorithms to analyze large data sets and make well-informed trading decisions. This document explores the fundamentals of forecasting, its importance in algorithmic trading, popular forecasting models, machine learning applications, and the key challenges and future directions of this field.
 

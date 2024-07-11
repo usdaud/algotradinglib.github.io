@@ -1,4 +1,4 @@
-# Anomaly in Algorithmic Trading
+# Anomaly
 
 Anomalies in financial markets refer to instances where securities deviate from their expected behavior or values predicted by financial models. These anomalies pose both challenges and opportunities, especially in the realm of algorithmic trading. In algorithmic trading, computer algorithms are used to trade large volumes of securities at high speeds and with minimal human intervention. Recognizing and exploiting anomalies are central to developing effective trading strategies.
 

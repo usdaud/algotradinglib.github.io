@@ -1,4 +1,4 @@
-# Distribution Waterfall in Algorithmic Trading
+# Distribution Waterfall
 
 In the world of finance and investment, particularly in private equity and real estate ventures, the distribution waterfall is a complex and detailed financial structure used to outline the specific method by which profits are distributed to various stakeholders. In the context of algorithmic trading, understanding the distribution waterfall can provide critical insights into how returns from investments are allocated and the order in which different investors are paid. This comprehensive analysis delves deep into the concept of the distribution waterfall, its components, its application in algorithmic trading, and its broader implications.
 

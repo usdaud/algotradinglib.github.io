@@ -1,4 +1,4 @@
-# Introduction to Genetically Modified Food (GMF)
+# Genetically Modified Food (GMF)
 
 Genetically Modified Food (GMF) refers to any food product that has been altered at the genetic level using biotechnology to exhibit certain desirable traits. These alterations can result in increased resistance to pests, enhanced nutritional content, improved yield, and greater resistance to environmental stressors. The technology behind GMFs involves the manipulation of an organism's DNA to include specific genes from other plants, animals, or bacteria, to enhance desired characteristics. This practice promises significant advancements in food production, sustainability, and security, yet remains a subject of public and scientific debate.
 

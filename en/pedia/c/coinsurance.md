@@ -1,4 +1,4 @@
-# Understanding Co-Insurance in Algorithmic Trading
+# Co-Insurance
 
 Co-insurance is a crucial concept in the realm of financial markets that extends beyond the traditional insurance industry and into the innovative field of algorithmic trading. In essence, co-insurance refers to the distribution of risk between multiple parties, which can mitigate loss and implement diversified trading strategies. Co-insurance in algorithmic trading involves various aspects, from risk management and portfolio optimization to the use of sophisticated algorithms that can adapt to market changes.
 

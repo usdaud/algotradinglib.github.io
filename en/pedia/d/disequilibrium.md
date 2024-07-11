@@ -1,4 +1,4 @@
-# Disequilibrium in Algorithmic Trading
+# Disequilibrium
 
 **Disequilibrium** refers to a state in a market where supply and demand are not balanced, leading to inefficiencies and opportunities for traders, especially those employing algorithmic trading techniques. This imbalance can be a result of various factors including news events, changes in market sentiment, or discrepancies in asset prices across different exchanges. Algorithmic trading aims to exploit these inefficiencies to generate profits.
 

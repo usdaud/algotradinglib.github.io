@@ -1,4 +1,4 @@
-# Introduction
+# Accounting Theory
 
 Accounting theory is the conceptual framework, or bedrock, that forms the basis for the evolution and application of accounting principles and practices. It encompasses the principles, assumptions, and methodologies used to understand, explain, and predict accounting phenomena.
 

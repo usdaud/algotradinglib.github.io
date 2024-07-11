@@ -1,4 +1,4 @@
-# Hoarding in Algorithmic Trading
+# Hoarding
 
 Hoarding, in the context of algorithmic trading and financial markets, refers to the practice of accumulating large positions in a particular security or set of securities, often with the intent to influence their market price. This phenomenon can be observed across various asset classes, including stocks, bonds, commodities, and even cryptocurrencies. It is distinct from other forms of market manipulation due to its focus on accumulation rather than the execution of trades to create false impressions of market activity.
 

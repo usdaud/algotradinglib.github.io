@@ -1,4 +1,4 @@
-# Introduction
+# Consumer Price Index (CPI)
 
 The Consumer Price Index (CPI) is a crucial metric used to gauge inflation and the overall health of an economy. By measuring the average change in prices paid by consumers for a basket of goods and services over time, the CPI provides valuable insights into the purchasing power of consumers and trends in inflation. This detailed exploration of the CPI will cover its definition, history, methodology, uses, criticisms, and its implications for both macroeconomic policy and personal finance.
 

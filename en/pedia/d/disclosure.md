@@ -1,4 +1,4 @@
-# Disclosure in Algorithmic Trading
+# Disclosure
 
 Disclosure in algorithmic trading refers to the act of making certain information publicly available or ensuring that all relevant parties are informed about key aspects of trading operations, practices, and strategies. Effective disclosure is fundamental to maintaining transparency, regulatory compliance, and trust between market participants, regulators, and the public. This topic is essential for understanding the ethical, legal, and practical aspects of algorithmic trading in modern financial markets.
 

@@ -1,4 +1,4 @@
-# Introduction to Health Maintenance Organizations (HMOs)
+# Health Maintenance Organizations (HMOs)
 
 Health Maintenance Organizations, commonly referred to as HMOs, are a type of managed healthcare system that provides health services for a fixed annual fee. HMOs aim to offer an affordable way to obtain healthcare by contracting with doctors, hospitals, and other healthcare providers to create a network of providers that deliver care to their members. This model emphasizes preventive care and integrated services to promote overall health and well-being.
 

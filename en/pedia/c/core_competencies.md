@@ -1,4 +1,4 @@
-# Core Competencies in Algorithmic Trading
+# Core Competencies
 
 Algorithmic trading, or algo-trading, integrates quantitative finance, computational data analytics, and cutting-edge technology to facilitate trading strategies in financial markets. To be effective in this domain, certain core competencies are essential, involving a blend of finance, mathematics, programming, and risk management skills.
 

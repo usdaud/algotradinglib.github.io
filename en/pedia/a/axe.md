@@ -1,4 +1,4 @@
-# Axe in Algorithmic Trading
+# Axe
 
 The term “axe” in the context of algorithmic trading refers to a strong desire or intent to buy or sell a particular security. This concept is crucial in both traditional and quantitative finance realms, as discerning an axe can provide important insights into market conditions and potential price movements. An understanding of an axe is essential for traders and investors to gauge market sentiment and to align their strategies accordingly. This document aims to delve deeply into the nuances surrounding the concept of an axe in algorithmic trading by exploring its definition, significance, applications, and the tools used to identify and leverage it.
 

@@ -1,4 +1,4 @@
-# Understanding Financing in Algorithmic Trading
+# Financing
 
 Financing in the context of algorithmic trading pertains to the ways in which trading activities are funded and the mechanisms through which capital is managed to facilitate the execution of algorithm-based strategies in financial markets. Algorithmic trading, often referred to as algo trading, relies on automated systems to execute financial transactions at high speeds and volumes. This level of activity necessitates robust financing solutions to ensure liquidity, manage risk, and achieve optimal performance. This article delves into the various aspects of financing in algorithmic trading, including the sources of financing, the role of leverage, risk management strategies, and the financial technologies that support this sophisticated trading approach.
 

@@ -1,4 +1,4 @@
-# Gatekeeper in Algorithmic Trading
+# Gatekeeper
 
 Gatekeeper is a term often used in the context of algorithmic trading. In this environment, a Gatekeeper refers to systems, protocols, or mechanisms that oversee and control access, transactions, or operations. This can involve a wide array of functions such as risk management, compliance, data verification, and more, to ensure that the trading algorithms perform as intended and within the boundaries set by regulatory and internal standards.
 
