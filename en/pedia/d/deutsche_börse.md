@@ -1,4 +1,3 @@
-```md
 # Deutsche Börse
 
 Deutsche Börse Group is one of the largest exchange organizations worldwide, offering a broad range of products, services, and technologies that help to maximize the efficiency of capital markets. Established in 1992 and headquartered in Frankfurt, Germany, Deutsche Börse has grown into a global powerhouse in the financial market infrastructure sector.
@@ -67,4 +66,3 @@ Deutsche Börse is emphasizing environmental, social, and governance (ESG) crite
 Strategic partnerships and acquisitions are helping Deutsche Börse to expand its footprint in the Asia-Pacific region. This includes collaborations with local exchanges and fintech companies to tap into new markets.
 
 For more details, visit the official [Deutsche Börse website](https://www.deutsche-boerse.com/dbg-en/).
-```

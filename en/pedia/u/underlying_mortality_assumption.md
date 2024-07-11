@@ -1,4 +1,3 @@
-```md
 # Underlying Mortality Assumption
 
 The concept of the "Underlying Mortality Assumption" is a crucial component in the realms of actuarial science, life insurance, and pensions planning. It refers to the assumptions and statistical estimates made regarding the life expectancy of individuals within a certain demographic cohort. This assumption plays a pivotal role in pricing insurance products, calculating pension liabilities, and determining annuity payouts.
@@ -100,4 +99,3 @@ By understanding the factors influencing mortality assumptions and staying abrea
 
 For more information on actuarial standards and guidelines, you can visit the following link:
 [American Society of Actuaries](https://www.soa.org/)
-```

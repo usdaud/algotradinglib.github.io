@@ -1,4 +1,4 @@
-# Adjudication in Algorithmic Trading
+# Adjudication
 
 Algorithmic trading, often referred to as algo trading, leverages computer algorithms to execute trades on financial markets at speeds and frequencies that human traders cannot match. Adjudication, within the context of algorithmic trading, pertains to the processes and protocols for analyzing, resolving, and finalizing disputes or decisions arising from algorithmic transactions and operations.
 

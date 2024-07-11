@@ -1,4 +1,3 @@
-```md
 # Medium of Exchange
 
 A medium of exchange is an intermediary instrument used to facilitate the sale, purchase, or trade of goods between parties. It is a key concept in economics and commerce that plays a vital role in the functioning of markets and the economy at large. Essentially, it is anything that is widely accepted as a method for exchanging goods and services. Historically, various items have served as mediums of exchange, from barter systems that used grains or livestock, to modern-day fiat currencies like the US dollar.
@@ -104,4 +103,3 @@ As technology continues to advance, the mediums of exchange will likely continue
 ---
 
 This detailed exploration provides an in-depth look at the various aspects of mediums of exchange and their significance in the economy. For further reading and more technical details on contemporary financial institutions and digital currencies, it's recommended to consult specialized financial databases and central bank publications.
-```

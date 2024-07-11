@@ -1,4 +1,3 @@
-```md
 # Zaif
 
 Zaif is a cryptocurrency exchange platform based in Japan, which originally launched in 2015. It offers a range of services including cryptocurrency trading, margin trading, and token issuance. The platform is well-known for its unique features and regulatory compliance, making it a significant player in the Japanese cryptocurrency market.
@@ -99,4 +98,3 @@ Zaif provides detailed API documentation, enabling developers to integrate their
 Zaif stands out in the crowded cryptocurrency exchange market due to its regulatory compliance, robust security features, and a wide range of supported services. While it has faced challenges in the past, the platform continues to evolve and adapt, making it a reliable and versatile option for both individual traders and businesses looking to venture into the cryptocurrency space.
 
 For more detailed information, you can visit their official website: [Zaif](https://zaif.jp/).
-```

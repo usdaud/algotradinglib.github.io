@@ -1,4 +1,3 @@
-```md
 # BingX
 
 BingX is a global digital asset, spot, and derivatives trading platform. It provides a wide range of trading services that cater to both novice and professional traders. The platform is renowned for its user-friendly interface, innovative social trading features, and a variety of tools designed to enhance the trading experience. This document aims to describe BingX in detail, from its core functionalities to the additional features that make it a standout in the cryptocurrency trading industry.
@@ -97,4 +96,3 @@ BingX maintains an active community presence across various platforms, offering 
 BingX stands out in the crowded cryptocurrency trading space with its comprehensive set of tools and features geared towards both novice and professional traders. Its emphasis on social trading sets it apart, providing an opportunity for less experienced traders to learn and earn from seasoned professionals. A strong focus on user experience, coupled with robust security measures and educational resources, makes BingX a noteworthy platform for anyone interested in cryptocurrency trading.
 
 For more information, visit the official [BingX website](https://www.bingx.com).
-```

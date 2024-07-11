@@ -1,4 +1,3 @@
-```md
 # Solomon Islands Stock Exchange (SISE)
 
 ## Introduction
@@ -57,4 +56,3 @@ SISE aims to expand its operations by:
 The Solomon Islands Stock Exchange, though a nascent financial institution, represents a vital component of the country's economic infrastructure. Continued development and regulatory support will be critical to its success in fostering economic growth and investment.
 
 For more information, you can visit [SISE's official webpage](https://cbsi.com.sb/financial-system/sisee/).
-```

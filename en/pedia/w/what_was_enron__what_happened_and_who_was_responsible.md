@@ -1,4 +1,4 @@
-# Enron: A Detailed Examination of Its Rise and Fall
+# Rise and Fall
 
 Enron Corporation was an American energy, commodities, and services company based in Houston, Texas. It was founded by Kenneth Lay in 1985 as a merger between Lay's Houston Natural Gas and another company named InterNorth. Before its scandalous fall in 2001, Enron was one of the world's major electricity, natural gas, communications, and pulp and paper companies, claiming revenues of nearly $101 billion in 2000.
 

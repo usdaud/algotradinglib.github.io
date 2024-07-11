@@ -1,4 +1,3 @@
-```md
 # Bithumb
 
 ## Introduction
@@ -77,4 +76,3 @@ Despite its success, Bithumb has faced several challenges and controversies:
 Bithumb remains a significant player in the global cryptocurrency market, particularly in Asia. Its expansive array of cryptocurrencies, advanced trading features, and commitment to enhancing security and regulatory compliance make it a preferred platform for many traders. However, ongoing challenges, such as security concerns and regulatory scrutiny, continue to test its resilience in the rapidly evolving digital asset landscape.
 
 For more details, visit [Bithumb](https://www.bithumb.com).
-```

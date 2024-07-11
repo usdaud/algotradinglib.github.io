@@ -1,4 +1,3 @@
-```md
 # CoinBene
 
 CoinBene is a global cryptocurrency trading platform that offers a wide range of digital assets and trading services to users around the world. Established to provide a secure, efficient, and user-friendly environment, CoinBene has grown significantly since its inception, becoming one of the most recognized cryptocurrency exchanges in the market. Its user base ranges from novice investors to experienced traders, catering to various levels of trading expertise and investment strategies.
@@ -63,4 +62,3 @@ CoinBene operates under strict regulatory guidelines to ensure compliance with i
 CoinBene stands out as a versatile and secure cryptocurrency exchange with a strong emphasis on providing a comprehensive trading environment. With robust security measures, advanced trading tools, and a commitment to user experience, CoinBene continues to attract a diverse user base and maintain a significant presence in the cryptocurrency market.
 
 Investors and traders looking for a reliable and feature-rich trading platform may find CoinBene to be a suitable choice, particularly if they value high liquidity, a wide range of supported assets, and cutting-edge trading functionalities.
-```

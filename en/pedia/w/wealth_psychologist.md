@@ -1,4 +1,3 @@
-```md
 # Wealth Psychologist
 
 Wealth psychology is a relatively new and burgeoning field that intersects finance, psychology, and personal development. Wealth psychologists specialize in helping individuals navigate the emotional and psychological complexities that come with financial wealth. These professionals are particularly vital for high-net-worth individuals (HNWIs) facing unique psychological challenges related to their wealth. This document aims to delve into the details of wealth psychology, its significance, methodologies, and its applications in modern finance.
@@ -80,4 +79,3 @@ For more information about some leading practitioners and organizations in the f
 - [James Grubman, Ph.D.](https://jamesgrubman.com/)
 - [The Sudden Wealth Institute](https://www.suddenwealthinstitute.com/)
 - [Wealth Legacy Group](https://wealthlegacygroup.com/)
-```

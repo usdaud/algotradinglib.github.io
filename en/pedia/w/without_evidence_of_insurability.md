@@ -1,4 +1,3 @@
-```md
 # Without Evidence of Insurability (EOI)
 
 ## Introduction
@@ -136,4 +135,3 @@ For more information on company-specific WEoI policies and guidelines, you can e
 - [MetLife](https://www.metlife.com)
 - [Prudential](https://www.prudential.com)
 - [Cigna](https://www.cigna.com)
-```

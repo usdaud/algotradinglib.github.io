@@ -1,4 +1,3 @@
-```md
 # Tashkent Stock Exchange (TSE)
 
 The Tashkent Stock Exchange (TSE) is the principal stock exchange of Uzbekistan, located in the nation's capital, Tashkent. It provides a platform for the trading of securities, including shares, bonds, and derivatives. Established to facilitate capital formation and foster economic growth, the TSE plays a critical role in the financial sector of Uzbekistan.
@@ -91,4 +90,3 @@ The TSE has several initiatives aimed at addressing these challenges:
 ## Conclusion
 
 The Tashkent Stock Exchange is a vital component of Uzbekistan's financial system. It provides a platform for capital formation, investment, and economic growth. While it faces several challenges, ongoing reforms and investments in market infrastructure hold promise for its future development. By fostering a more robust and transparent market, the TSE aims to attract greater participation from both domestic and international investors, thereby contributing to the overall economic advancement of Uzbekistan.
-```

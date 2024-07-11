@@ -1,4 +1,3 @@
-```md
 # Trade Deficit
 
 A trade deficit, also known as a net export deficit, occurs when a country's imports of goods and services exceed its exports. It is an essential economic indicator, reflecting a nation’s financial health and its position within the global economy. Trade deficits can have significant implications for a country's economic policies and overall economic stability.
@@ -52,5 +51,3 @@ Countries can adopt several strategies to address trade deficits:
 A trade deficit is a critical economic indicator that reflects a country's economic interactions with the global market. While it has potential benefits, such as access to a variety of goods and services, it also carries risks, including increased foreign debt and potential vulnerabilities. Policymakers must weigh these factors when developing strategies to manage trade deficits and ensure long-term economic stability.
 
 For more information on trade deficits and related economic policies, you can visit the official website of the [U.S. Bureau of Economic Analysis](https://www.bea.gov/).
-
-```

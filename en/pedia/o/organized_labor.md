@@ -1,4 +1,3 @@
-```md
 # Organized Labor
 
 Organized labor, also known as labor unions or trade unions, refers to groups of workers who unite to negotiate collectively with their employers regarding various aspects of their work, including wages, working conditions, benefits, and other employment terms. These labor unions aim to protect and advance the interests of workers through collective bargaining, strikes, and other forms of collective action.
@@ -110,5 +109,3 @@ Website: [SEIU](http://www.seiu.org)
 ## Conclusion
 
 Organized labor plays a crucial role in advocating for the rights and interests of workers. Despite facing numerous challenges, labor unions continue to influence wages, working conditions, and labor policies positively. As the labor market evolves with technological advancements and changing economic landscapes, unions must adapt to remain relevant and effective in their advocacy efforts.
-
-```

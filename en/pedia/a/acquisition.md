@@ -1,4 +1,4 @@
-# Acquisition in Algo Trading
+# Acquisition
 
 Acquisition in the context of algorithmic trading refers to the various means and strategies employed by trading firms, hedge funds, and other financial institutions to acquire the necessary resources, data, technology, and talent needed to engage in algorithmic trading. This broad concept encompasses multiple facets, ranging from the acquisition of data feeds and trading platforms to the acquisition of fintech startups and specialized personnel.
 

@@ -1,4 +1,3 @@
-```md
 # Binance TR
 
 Binance TR is a localized version of the globally renowned cryptocurrency exchange platform Binance, specifically tailored for the Turkish market. Launched to cater to the unique needs of Turkish users, Binance TR brings the robust and versatile features of the main Binance platform to a more region-focused audience, providing services in compliance with local regulations and offering support for the Turkish Lira (TRY).
@@ -101,4 +100,3 @@ Direct integration with Turkish banks facilitates easy deposits and withdrawals 
 Binance TR is a robust, secure, and compliant cryptocurrency trading platform designed to meet the needs of the Turkish market. With features like fiat support, high security measures, a user-friendly interface, and competitive fees, it positions itself as a leading choice for cryptocurrency traders and investors in Turkey.
 
 For more detailed information, visit the official [Binance TR website](https://www.trbinance.com/).
-```

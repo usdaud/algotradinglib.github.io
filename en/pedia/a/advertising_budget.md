@@ -1,4 +1,4 @@
-# Advertising Budget in Algo Trading
+# Advertising Budget
 
 ## Introduction
 
