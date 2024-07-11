@@ -1,4 +1,4 @@
-# Drawdown: An In-Depth Analysis
+# Drawdown
 
 Drawdown is a critical concept in the world of trading and investment management. It refers to the peak-to-trough decline during a specific recorded period of an investment, trading account, or fund. It is usually quoted as the percentage between the peak and the trough. Understanding drawdown is essential for both individual investors and institutional traders, as it helps gauge risk and the potential for loss in any given strategy or portfolio.
 

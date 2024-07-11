@@ -1,4 +1,4 @@
-# Embargo in Algorithmic Trading
+# Embargo
 
 In Algorithmic Trading, the term "embargo" refers to a temporary period during which trading activity is restricted or prohibited. This concept is crucial for ensuring the stability, integrity, and fairness of the financial markets. Embargoes can be imposed by regulatory authorities, exchanges, or even internally within trading firms. The main reasons for enforcing an embargo include preventing abuse of insider information, ensuring fair disclosure, stabilizing markets during volatile periods, and mitigating the risk associated with high-frequency trading (HFT). This detailed examination will cover various aspects of embargoes in the context of algorithmic trading, their types, implementation strategies, and regulatory implications.
 

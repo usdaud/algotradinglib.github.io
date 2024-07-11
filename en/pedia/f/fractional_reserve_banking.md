@@ -1,4 +1,4 @@
-# Fractional Reserve Banking: What It Is and How It Works
+# Fractional Reserve Banking
 
 ## Introduction to Fractional Reserve Banking
 

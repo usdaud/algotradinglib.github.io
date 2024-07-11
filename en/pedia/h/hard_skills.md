@@ -1,4 +1,4 @@
-# Hard Skills in Algorithmic Trading
+# Hard Skills
 
 Algorithmic trading, also known as algo trading or black-box trading, is the process of using computers programmed to follow a defined set of instructions (an algorithm) for placing a trade in order to generate profits at a speed and frequency that is impossible for a human trader. The defined sets of instructions are based on timing, price, quantity, or any mathematical model. Apart from the obvious benefits, some crucial hard skills are vital for anyone aiming to succeed in algorithmic trading.
 

@@ -1,4 +1,4 @@
-# Understanding Form 144 in Algorithmic Trading
+# Form 144
 
 Form 144 is a critical document used in the algorithmic trading landscape, specifically in the context of insider trading and regulatory compliance. It is mandated by the U.S. Securities and Exchange Commission (SEC) and serves a significant role in maintaining market fairness and transparency. This comprehensive guide will delve into the intricacies of Form 144, its relevance in algorithmic trading, the filing requirements, and its impact on trading strategies and market operations.
 

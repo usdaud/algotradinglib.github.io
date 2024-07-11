@@ -1,4 +1,4 @@
-# The Expanded Accounting Equation
+# Expanded Accounting Equation
 
 The Expanded Accounting Equation is a fundamental concept in accounting that extends the basic accounting equation (Assets = Liabilities + Owner's Equity) to provide greater detail and insight into the components of owner's equity. This equation serves as the foundational framework for double-entry bookkeeping and offers a comprehensive view of a company's financial position.
 

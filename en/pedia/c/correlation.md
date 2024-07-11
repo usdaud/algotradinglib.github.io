@@ -1,4 +1,4 @@
-# Understanding Correlation in Algo Trading
+# Correlation
 
 Correlation is a statistical measure that indicates the extent to which two or more variables fluctuate in relation to each other. In the context of algorithmic trading (algo trading), understanding correlation is vital for creating strategies that can effectively manage risk, diversify portfolios, and enhance returns. This comprehensive explanation aims to delve into the concept of correlation, its significance in algo trading, methods of calculation, interpreting correlation coefficients, and practical applications in trading strategies.
 

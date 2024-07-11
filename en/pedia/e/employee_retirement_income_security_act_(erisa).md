@@ -1,4 +1,4 @@
-# The Employee Retirement Income Security Act (ERISA)
+# Employee Retirement Income Security Act (ERISA)
 
 The Employee Retirement Income Security Act (ERISA) is a federal U.S. law that sets minimum standards for most voluntarily established pension and health plans in private industry to provide protection for individuals in these plans. Enacted in 1974, ERISA is crucial for safeguarding the retirement assets of Americans by implementing rules that qualified plans must follow to ensure plan fiduciaries do not misuse plan assets.
 

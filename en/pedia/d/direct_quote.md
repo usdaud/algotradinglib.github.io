@@ -1,4 +1,4 @@
-# Direct Quote in Algorithmic Trading
+# Direct Quote
 
 In the realm of financial markets and trading, a direct quote refers to a quotation convention in which the currency being quoted is expressed in terms of units of the domestic currency. Essentially, in a direct quote, it's the foreign currency price of one unit of the domestic currency. For example, if you are in the United States, a direct quote might show how many U.S. dollars (USD) are needed to purchase one unit of a foreign currency like the Euro (EUR). Hence, a direct currency quote can often be represented in the format: domestic currency / foreign currency.
 

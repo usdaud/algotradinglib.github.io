@@ -1,4 +1,4 @@
-# Introduction to Human-Life Approach in Algo Trading
+# Human-Life Approach
 
 In the fast-evolving landscape of finance, algorithmic trading has fundamentally transformed how trades are executed. As more traders and financial institutions turn to algorithms to automate and optimize their trading strategies, a fresh perspective known as the "human-life approach" has started gaining traction. This novel approach aims to humanize the trading algorithms by embedding principles that mirror human decision-making and ethical considerations.
 

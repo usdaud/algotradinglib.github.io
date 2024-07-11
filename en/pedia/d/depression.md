@@ -1,4 +1,4 @@
-# Depression: Understanding and Managing a Common Mental Health Disorder
+# Depression
 
 Depression is one of the most common mental health disorders, affecting millions of people worldwide. It's a mood disorder that causes a persistent feeling of sadness and loss of interest. It can interfere with a person's daily functioning and lead to a variety of emotional and physical problems. In this article, we will explore what depression is, its symptoms, causes, diagnosis, treatment options, and ways to cope.
 

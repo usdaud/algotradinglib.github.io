@@ -1,4 +1,3 @@
-```markdown
 # C-Patex
 
 ## Overview
@@ -99,4 +98,3 @@ C-Patex has shown promising growth through strategic partnerships and continuous
 C-Patex is carving out its niche in the crowded cryptocurrency exchange market by focusing on security, user experience, and innovation. As the digital assets ecosystem continues to evolve, C-Patex is well-positioned to adapt and grow, offering traders a reliable and feature-rich platform.
 
 For more information, visit the official C-Patex website: [C-Patex](https://www.c-patex.com)
-```

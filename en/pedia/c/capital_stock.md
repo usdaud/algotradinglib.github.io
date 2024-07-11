@@ -1,4 +1,4 @@
-# Introduction to Capital Stock
+# Capital Stock
 
 Capital stock represents the shares of ownership that have been issued by a corporation, which can be classified into two primary types: common stock and preferred stock. These stocks constitute a substantial part of a company's equity, reflecting the ownership and the proportionate claim on a company's earnings and assets.
 

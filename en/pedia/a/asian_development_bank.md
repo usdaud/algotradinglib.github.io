@@ -1,4 +1,4 @@
-# The Asian Development Bank in Algorithmic Trading
+# Asian Development Bank
 
 ## Introduction
 

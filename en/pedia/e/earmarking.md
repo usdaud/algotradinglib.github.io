@@ -1,4 +1,4 @@
-# Earmarking in Algorithmic Trading
+# Earmarking
 
 Earmarking is a financial term that involves setting aside funds or resources for a specific purpose. In the context of algorithmic trading, earmarking refers to the practice of allocating specific portions of capital to various trading strategies, instruments, or market segments. This enables traders and fund managers to manage risk better, optimize performance, and maintain a structured approach to capital deployment. The concept is analogous to earmarking in budgetary and accounting contexts, where funds are reserved for specific goals or projects.
 

@@ -1,4 +1,4 @@
-# Attrition in Algorithmic Trading
+# Attrition
 
 Attrition, in the context of the workforce, refers to the natural reduction in the number of employees due to retirement, resignation, or death. However, within the realm of algorithmic trading, attrition takes on a different, more technical meaning. It can refer to the gradual loss in value of a trading strategy over time due to market changes, decreased effectiveness, or increased competition. Understanding and managing attrition is crucial for the longevity and profitability of trading algorithms.
 

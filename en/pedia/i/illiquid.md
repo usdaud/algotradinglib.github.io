@@ -1,4 +1,4 @@
-# Understanding Illiquidity in Algorithmic Trading
+# Illiquidity
 
 ## Introduction to Illiquidity
 

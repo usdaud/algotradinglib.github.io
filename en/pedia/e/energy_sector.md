@@ -1,4 +1,4 @@
-# Introduction
+# Energy Sector
 
 The energy sector encompasses a broad array of companies that produce or supply energy, including those involved in the extraction, refinement, and distribution of oil and natural gas, as well as companies involved in renewable energy sources such as wind, solar, and biofuels. The energy sector is essential to the functioning of the modern global economy, powering everything from homes and businesses to transportation systems. This sector is heavily influenced by geopolitical events, technological advancements, market demand and supply dynamics, and environmental regulations. 
 

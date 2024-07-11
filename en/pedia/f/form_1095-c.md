@@ -1,4 +1,4 @@
-# Understanding Form 1095-C in the Context of Algo Trading
+# Form 1095-C
 
 ## Introduction to Form 1095-C
 

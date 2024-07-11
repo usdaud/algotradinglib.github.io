@@ -1,4 +1,4 @@
-# Introduction to Consumer Discretionary Sector
+# Consumer Discretionary Sector
 
 The consumer discretionary sector is a broad category of companies offering goods and services that are non-essential but desirable when consumers have sufficient income. This category is highly sensitive to economic cycles. When the economy prospers, consumers are more willing to spend on luxury items, entertainment, and other non-essential products. However, during economic downturns, spending on these items tends to decline as consumers prioritize essential needs.
 

@@ -1,6 +1,4 @@
-# Guarantor in Algorithmic Trading
-
-Algorithmic trading, or algo trading, is a complex field of finance where sophisticated algorithms and computer programs are used to execute trades at speeds and frequencies that are impossible for human traders to achieve. One of the key roles in this environment is the guarantor, a vital component in ensuring the stability, security, and efficiency of trading activities. In this comprehensive document, we will delve deeply into the concept of a guarantor, its significance in algorithmic trading, functions, and how it interacts with various elements within the trading ecosystem.
+# Guarantor
 
 ## The Role of a Guarantor
 

@@ -1,4 +1,4 @@
-# Divergence in Algorithmic Trading
+# Divergence
 
 Divergence is a fundamental concept in technical analysis that refers to a situation where the price of an asset is moving in the opposite direction of an indicator. This phenomenon is often interpreted as a signal that the current price trend may be weakening or reversing. Divergence can be used to predict potential reversals in price direction, and thus it is a critical tool in the arsenal of algorithmic traders.
 

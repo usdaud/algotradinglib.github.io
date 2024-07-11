@@ -1,4 +1,4 @@
-# Introduction to Corporate Social Responsibility (CSR)
+# Corporate Social Responsibility (CSR)
 
 Corporate Social Responsibility (CSR) is a business model in which companies integrate social and environmental concerns in their operations and interactions with stakeholders. The concept goes beyond the primary goal of profit generation to encompass a broader commitment to ethical behavior, sustainability, and positive societal impact.
 

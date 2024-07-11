@@ -1,4 +1,4 @@
-# Disruptive Technology in Algorithmic Trading
+# Disruptive Technology
 
 ## Introduction
 Disruptive technology refers to innovations that significantly alter or even replace existing technologies, industry practices, or markets. These technologies create new value networks and often displace established market leaders and products. In the realm of financial markets and specifically algorithmic trading, disruptive technologies have fundamentally changed how trading operates, providing new tools and creating more efficient ways to trade.

@@ -1,4 +1,4 @@
-# Collar in Algorithmic Trading
+# Collar
 
 ## Overview
 A collar, also known as a hedge wrapper, is an options trading strategy that involves holding the underlying security while simultaneously buying an out-of-the-money put option and selling an out-of-the-money call option. This strategy is designed to provide downside protection while giving up some upside potential in exchange. Collars are commonly used to hedge against volatile market conditions and to lock in profits.

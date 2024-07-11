@@ -1,4 +1,4 @@
-# Contingency in Algorithmic Trading
+# Contingency
 
 ## Introduction to Algorithmic Trading
 Algorithmic trading, often referred to as algo trading, involves using pre-programmed instructions to execute trades at speeds and frequencies that human traders cannot match. These instructions are based on a variety of factors, including timing, price, and quantity, as well as complex mathematical models. The goal of algorithmic trading is to generate profits at a pace and volume that would be hard to achieve manually.

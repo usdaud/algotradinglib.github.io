@@ -1,4 +1,4 @@
-# Gray Box Trading in Algorithmic Trading
+# Gray Box Trading
 
 Gray box trading represents an intermediate category between the more transparent white box trading and the opaque black box trading in algorithmic trading. It aims to combine the advantages of both, offering some insight into the trading logic while maintaining a degree of proprietary secrecy.
 

@@ -1,4 +1,4 @@
-# DAGMAR: A Detailed Analysis in Algorithmic Trading
+# DAGMAR
 
 ## Introduction to DAGMAR
 

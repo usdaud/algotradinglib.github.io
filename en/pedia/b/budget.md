@@ -1,4 +1,4 @@
-# Budget in Algorithmic Trading
+# Budget
 
 Algorithmic trading, often referred to as "algo trading," utilizes complex algorithms to make high-speed trading decisions. This trading approach requires substantial investments in technology, data, and skilled personnel. The formulation and adherence to a budget are crucial for the effectiveness and sustainability of an algorithmic trading operation. This document delves into various aspects of budgeting in algorithmic trading, including the costs involved, the importance of financial planning, risk management, and a look at related organizations and resources.
 

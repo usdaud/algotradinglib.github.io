@@ -1,4 +1,4 @@
-# Best Endeavors in Algorithmic Trading
+# Best Endeavors
 
 Algorithmic trading, often referred to as "algo-trading" or "black-box trading," is a revolutionary approach in the financial markets where computer algorithms are used to execute trading strategies at speeds and frequencies that are unimaginable to human traders. The algorithms are designed to solve complex problems and make quick trading decisions based on mathematical models and statistical analysis. Several key endeavors in the realm of algorithmic trading have pushed the boundaries of what's possible.
 

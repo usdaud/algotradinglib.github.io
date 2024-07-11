@@ -1,4 +1,4 @@
-# Introduction to Business Intelligence (BI)
+# Business Intelligence (BI)
 
 Business Intelligence (BI) refers to the technologies, practices, and tools used to collect, integrate, analyze, and present business data. The goal of BI is to support better business decision-making. Essentially, BI is a technology-driven process for analyzing data and delivering actionable information that helps executives, managers, and workers make informed business decisions.
 

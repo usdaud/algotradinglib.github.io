@@ -1,4 +1,4 @@
-# The Evolution and Impact of Historical Structures in Algorithmic Trading
+# Historical Structures
 
 Algorithmic trading, often referred to as algo trading, has seen significant advances since its inception. This method uses computer algorithms to automate trading processes, enabling faster and often more accurate market predictions and transactions than traditional methods. Historically, the evolution of algorithmic trading can be divided into several stages, marked by both technological advancements and regulatory changes. This deep dive into the historic structure of algorithmic trading illustrates how it has grown from rudimentary beginnings into a cornerstone of modern finance.
 

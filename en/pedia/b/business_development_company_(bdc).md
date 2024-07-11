@@ -1,4 +1,4 @@
-# Business Development Company (BDC): Definition and How to Invest
+# Business Development Company (BDC)
 
 ## What is a Business Development Company (BDC)?
 

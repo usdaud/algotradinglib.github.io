@@ -1,4 +1,4 @@
-# Honorarium in Algorithmic Trading
+# Honorarium
 
 An "honorarium" in general refers to a payment given for professional services that are rendered nominally without charge. However, in the context of algorithmic trading, the term might be less commonly used. Instead, the topic can be explored by considering various types of compensation, incentives, and payments prevalent in the high-tech world of algorithmic trading. These might include performance bonuses, fee structures for trading strategies, and salaries for quantitative researchers and developers.
 

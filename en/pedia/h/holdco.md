@@ -1,4 +1,4 @@
-# Understanding Holdco in Algorithmic Trading
+# Holdco
 
 Holdco, short for holding company, is a corporate entity that owns a controlling interest in other companies, known as subsidiaries. Unlike operational companies, holdcos typically do not produce goods or services themselves. Instead, their primary function is to manage and oversee the companies they own, providing strategic direction and financial support. Holdcos are particularly relevant in the context of algorithmic trading for several reasons, including risk management, regulatory compliance, and operational efficiency.
 

@@ -1,4 +1,4 @@
-# Hidden Values in Algorithmic Trading
+# Hidden Values
 
 Algorithmic trading, often termed "algo trading," involves using computer algorithms to execute trades based on predetermined criteria without human intervention. This technique leverages mathematical models and vast data resources to identify trading opportunities faster and more accurately than a human trader could. One of the major challenges and opportunities in algorithmic trading is uncovering "hidden values," which are the underlying intrinsic values and inefficiencies within the market that are not readily apparent. These hidden values often represent untapped potential for profit and competitive advantage.
 

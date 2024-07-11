@@ -1,4 +1,4 @@
-# Empirical Rule: Definition, Formula, Example, How It's Used
+# Empirical Rule
 
 The empirical rule, also known as the 68-95-99.7 rule or the three-sigma rule, is a statistical principle that states that for a normal distribution:
 

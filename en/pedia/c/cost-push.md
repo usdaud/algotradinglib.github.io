@@ -1,4 +1,4 @@
-# Cost-Push Inflation in Algorithmic Trading
+# Cost-Push Inflation
 
 Cost-push inflation is a type of inflation caused by substantial increases in the cost of essential goods or services, where no suitable alternative is available. This kind of inflation often originates from a supply shock or an increase in the cost of production, including labor and raw materials.
 

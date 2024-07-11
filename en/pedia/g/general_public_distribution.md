@@ -1,4 +1,4 @@
-# General Public Distribution: What It is, How It Works, Example
+# General Public Distribution
 
 ## What is General Public Distribution in Algorithmic Trading?
 

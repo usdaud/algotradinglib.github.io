@@ -1,4 +1,4 @@
-# Consolidation in Algorithmic Trading
+# Consolidation
 
 Consolidation is a critical concept in trading, including algorithmic trading, that represents a phase in the financial markets where the price of an asset moves within a limited range, often considered a sideway trend. This phase indicates indecision in the market, where neither bulls nor bears have control over the market direction. Traders, including those using algorithms, pay close attention to consolidation phases as they often precede significant price movements or trend reversals.
 

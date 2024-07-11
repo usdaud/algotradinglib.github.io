@@ -1,4 +1,4 @@
-# Introduction
+# Downtrend
 
 A downtrend, also known as a bearish trend, is a pattern of price movement in financial markets that indicates a decrease in the value of a security over time. This pattern is characterized by lower lows and lower highs, with the price consistently declining. For traders and investors, recognizing a downtrend is critical for making informed decisions about when to buy, sell, or hold assets.
 

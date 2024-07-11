@@ -1,4 +1,4 @@
-# Guanxi in Algorithmic Trading
+# Guanxi
 
 Guanxi (关系) is a term rooted deeply in Chinese culture, referring to the intricate and vital system of social networks and relationships that facilitate business and other interactions. In the context of algorithmic trading, guanxi carries significant weight as it encompasses strategic partnerships, networking with key market players, and establishing trust within financial systems, which is essential in markets where personal connections can influence trading opportunities.
 

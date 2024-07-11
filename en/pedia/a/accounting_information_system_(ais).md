@@ -1,4 +1,4 @@
-# Introduction to Accounting Information Systems (AIS)
+# Accounting Information Systems (AIS)
 
 An Accounting Information System (AIS) is a structured mechanism consisting of both technological and human elements designed to gather, organize, analyze, and retrieve financial information. This system plays a crucial role in the field of financial accounting by ensuring that data related to business transactions is systematically captured and can be accessed easily by internal and external stakeholders.
 

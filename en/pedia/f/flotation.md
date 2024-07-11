@@ -1,4 +1,4 @@
-# Flotation in Algorithmic Trading
+# Flotation
 
 Flotation, in the context of finance and algorithmic trading, refers to the process by which a company goes public by issuing shares to the public through an initial public offering (IPO). This financial mechanism allows a private company to raise capital by selling ownership stakes in the form of equity to institutional and retail investors. The shares are then traded on public stock exchanges, such as the New York Stock Exchange (NYSE) or NASDAQ, creating liquidity and an opportunity for the shares to appreciate in value based on market demand.
 

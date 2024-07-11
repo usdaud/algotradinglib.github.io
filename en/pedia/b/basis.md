@@ -1,4 +1,4 @@
-# Basis in Algorithmic Trading
+# Basis
 
 ## Introduction
 

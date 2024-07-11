@@ -1,4 +1,4 @@
-# Hubris in Algorithmic Trading
+# Hubris
 
 Algorithmic trading, often referred to as algo trading, employs complex mathematical models and high-speed computer programs to make high-frequency and highly sophisticated trades. While this form of trading has become increasingly prevalent due to its efficiency and capability for large-scale market analysis, it also carries inherent risks. One of the more insidious risks associated with algorithmic trading is hubris. This term refers to excessive pride or self-confidence, which can be particularly dangerous in the context of financial markets.
 

@@ -1,4 +1,4 @@
-# The Equity Method in Algorithmic Trading
+# Equity Method
 
 The equity method is an accounting technique used by firms to assess the profits earned by their investments in other companies. Specifically, it applies to situations where the investor holds significant influence over the investee, typically evidenced by an ownership stake of 20% to 50%. Although the equity method is often discussed within the context of financial accounting, it also holds significant importance in the realm of algorithmic trading.
 

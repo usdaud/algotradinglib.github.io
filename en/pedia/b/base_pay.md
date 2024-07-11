@@ -1,4 +1,4 @@
-# Base Pay: Definition as Income, and Comparison to Annual Pay
+# Base Pay
 
 In the complex world of employment compensation, concepts like base pay (or base salary) and annual pay are fundamental yet often misunderstood. By understanding these concepts, both employers and employees can better negotiate salaries and benefits. This article delves into the definitions, implications, components, and comparisons of base pay and annual pay.
 

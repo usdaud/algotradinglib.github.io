@@ -1,4 +1,4 @@
-# Factor in Algorithmic Trading
+# Factor
 
 In the context of algorithmic trading, a factor is a specific, quantifiable characteristic of an asset that can drive its expected returns. Factors are fundamental building blocks in quantitative finance and are used to create factor models, which are mathematical representations of the behavior and performance of investment portfolios. These factors can be used to identify patterns in asset pricing, build trading strategies, and manage risk.
 

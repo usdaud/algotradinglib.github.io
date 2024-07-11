@@ -1,4 +1,4 @@
-# Baseline in Algorithmic Trading
+# Baseline
 
 In the context of algorithmic trading, the term "Baseline" refers to a reference point against which the performance of algorithms or trades can be measured and compared. This reference point provides traders and analysts with a standard to gauge how well their trading strategies perform relative to a predefined set of criteria or market benchmarks.
 

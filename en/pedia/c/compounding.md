@@ -1,4 +1,4 @@
-# Compounding in Algorithmic Trading
+# Compounding
 
 Compounding, also known as compound interest or compounding returns, is a fundamental financial concept where returns on an investment are reinvested to generate additional earnings over time. Essentially, compounding refers to the process of earning interest on both the initial principal and the accumulated interest from previous periods. This principle can significantly enhance investment growth over time due to the exponential increase in returns. 
 

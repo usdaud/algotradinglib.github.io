@@ -1,4 +1,4 @@
-# Introduction to EdTech
+# EdTech
 
 EdTech, or Educational Technology, refers to an area of technological integration specifically focused on enhancing and advancing education. This includes a wide array of tools, products, platforms, and innovative methods designed to facilitate and improve learning outcomes for students of all ages. EdTech encompasses everything from simple digital classroom aids to more complex systems like automated tutor software and artificial intelligence-driven learning analytics.
 

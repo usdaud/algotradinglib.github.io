@@ -1,4 +1,4 @@
-# Understanding Antitrust in Algorithmic Trading
+# Antitrust
 
 ## Introduction to Antitrust Laws
 

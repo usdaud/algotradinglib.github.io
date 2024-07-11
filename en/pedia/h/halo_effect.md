@@ -1,4 +1,4 @@
-# The Halo Effect in Algorithmic Trading
+# Halo Effect
 
 The "Halo Effect" is a term originally coined by psychologist Edward Thorndike to describe a cognitive bias where one's overall impression of a person or an entity influences feelings and thoughts about that entity's character or attributes. In the realm of algorithmic trading, the Halo Effect manifests as a tendency for traders and investors to place undue trust in trading strategies, algorithms, or systems that have shown strong performance in certain aspects or periods, potentially overlooking other critical factors and risks. This phenomenon can significantly impact trading decisions, strategy development, and risk management practices.
 

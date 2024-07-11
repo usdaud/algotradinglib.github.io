@@ -1,4 +1,4 @@
-# Fees in Algorithmic Trading
+# Fee
 
 In the realm of financial markets, algorithmic trading—often abbreviated as algo-trading—involves the use of computer algorithms to automate trading processes. These algorithms can execute trades at speeds and frequencies that are impossible for a human trader, leveraging mathematical models and the computational power of modern computers. Fundamental to understanding any trading strategy, including algorithmic trading, is the concept of fees.
 

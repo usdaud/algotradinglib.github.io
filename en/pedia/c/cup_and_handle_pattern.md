@@ -1,4 +1,4 @@
-# Cup and Handle Pattern: How to Trade and Target with an Example
+# Cup and Handle Pattern
 
 The `Cup and Handle` pattern is a widely recognized chart pattern in technical analysis, primarily used in stock trading but applicable across various markets. It was popularized by William J. O'Neil, founder of Investor's Business Daily, who detailed it in his book, "How to Make Money in Stocks." This pattern is seen as a bullish continuation pattern and is often used by traders to identify potential buying opportunities.
 

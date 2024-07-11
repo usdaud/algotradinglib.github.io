@@ -1,4 +1,4 @@
-# The Group of Seven (G-7)
+# Group of Seven (G-7)
 
 The Group of Seven (G-7) is an international intergovernmental economic organization consisting of seven major advanced economies: Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States. Formed in the 1970s, the G-7 was established to discuss and coordinate economic policy among its member nations. Meetings of the G-7 often include discussions on a wide range of global issues, including economic policy, trade, climate change, and security. This group is fundamental in shaping global economic policies and has had a significant impact on the international financial system.
 

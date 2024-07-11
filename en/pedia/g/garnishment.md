@@ -1,4 +1,4 @@
-# Garnishment in Algorithmic Trading
+# Garnishment
 
 Garnishment is a legal procedure through which a creditor can collect what a debtor owes by reaching the debtor's money, wages, bank accounts, or other assets. While garnishment is primarily applicable in the realm of personal finance and legal disputes, its conceptual principles can provide useful insights when applied to algorithmic trading, especially regarding managing risks and ensuring that trading strategies perform optimally. Here's an in-depth look at how garnishment principles are applied in the context of algorithmic trading.
 

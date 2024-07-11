@@ -1,4 +1,4 @@
-# The Great Leap Forward
+# Great Leap Forward
 
 The Great Leap Forward was an economic and social campaign initiated by the Chinese Communist Party (CCP) led by Mao Zedong in the late 1950s. It aimed to rapidly transform China from an agrarian society into a socialist society through rapid industrialization and collectivization. Despite its ambitious goals, the campaign is widely regarded as a major catastrophe, leading to widespread famine and the deaths of millions. This extensive overview will delve into the various aspects of the Great Leap Forward, including its objectives, implementation, consequences, and historical interpretations.
 

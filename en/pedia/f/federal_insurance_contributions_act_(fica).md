@@ -1,4 +1,4 @@
-# Understanding the Federal Insurance Contributions Act (FICA)
+# Federal Insurance Contributions Act (FICA)
 
 The Federal Insurance Contributions Act (FICA) is a United States federal payroll (or employment) tax imposed on both employees and employers to fund Social Security and Medicare programs. These programs provide benefits for retirees, disabled individuals, and children of deceased workers. The main components of FICA are the Social Security tax and the Medicare tax, and in this detailed exploration, we will discuss the structure, implications, and significance of FICA in the U.S. economy.
 

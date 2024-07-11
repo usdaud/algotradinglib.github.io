@@ -1,4 +1,4 @@
-# The Hot Hand
+# Hot Hand
 
 The concept of the "hot hand" refers to the belief that success breeds further success, and conversely for failure. This phenomenon is often discussed in the realms of psychology, sports, and finance, particularly in the context of algorithmic trading (also known as algo-trading). Algo-trading leverages computational power to execute trading strategies based on predefined criteria, and the idea of the hot hand may influence the development and perception of these strategies.
 

@@ -1,4 +1,4 @@
-# Double Entry Accounting: An Essential System for Algorithmic Trading
+# Double Entry Accounting
 
 Double-entry accounting is a crucial concept not only in traditional finance but also in modern algorithmic trading. This centuries-old system ensures the accuracy and reliability of financial records by requiring that every financial transaction has equal and opposite effects in at least two different accounts. This comprehensive documentation explains the principles of double-entry accounting and its application in algorithmic trading.
 

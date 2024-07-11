@@ -1,4 +1,4 @@
-# The Fair Credit Billing Act (FCBA)
+# Fair Credit Billing Act (FCBA)
 
 ## Introduction
 The Fair Credit Billing Act (FCBA) is a federal law enacted in 1974 as an amendment to the Truth in Lending Act (TILA). The purpose of the FCBA is to protect consumers from unfair billing practices and to provide a mechanism for addressing billing errors on credit card accounts. This law is instrumental in ensuring that consumers have the means to dispute inaccurate or fraudulent charges and to be informed about their rights concerning credit billing.

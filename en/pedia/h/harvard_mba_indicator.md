@@ -1,4 +1,4 @@
-# The Harvard MBA Indicator
+# Harvard MBA Indicator
 
 The Harvard MBA Indicator is an unconventional economic indicator that has been used by investors to gauge the stock market's performance. Despite its informal nature, it has garnered significant interest due to its sometimes surprisingly accurate reflections of market trends. This indicator is based on the career choices of Harvard Business School (HBS) graduates, which are then analyzed to provide insights into broader economic conditions and market sentiment.
 

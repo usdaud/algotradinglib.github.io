@@ -1,4 +1,4 @@
-# Gamification in Algorithmic Trading
+# Gamification
 
 ## Introduction
 

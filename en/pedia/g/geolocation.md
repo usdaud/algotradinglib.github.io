@@ -1,4 +1,4 @@
-# Geolocation in Algorithmic Trading
+# Geolocation
 
 Geolocation is the identification or estimation of the real-world geographic location of an object, such as a radar source, mobile phone, or an internet-connected computer. Specifically in the context of algorithmic trading, geolocation plays an integral role by providing crucial data that can be used to make more informed trading decisions. In this detailed explanation, we will explore various aspects of geolocation in algorithmic trading, including its definition, technologies, applications, benefits, challenges, and future developments.
 

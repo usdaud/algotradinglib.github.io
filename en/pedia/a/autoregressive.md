@@ -1,4 +1,4 @@
-# Autoregressive Models in Algorithmic Trading
+# Autoregressive Models
 
 Autoregressive (AR) models are a significant concept within the realm of statistical models, and they have considerable applications in various fields such as economics, finance, engineering, and more. In algorithmic trading, AR models are used to predict future points in time series data based on past values. This predictive capability is pivotal for making informed trading decisions. This comprehensive exploration delves into the theoretical underpinnings, implementation, and applications of AR models specifically in algorithmic trading.
 

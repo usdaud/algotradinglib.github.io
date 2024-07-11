@@ -1,4 +1,4 @@
-# The Federal Communications Commission (FCC)
+# Federal Communications Commission (FCC)
 
 The Federal Communications Commission (FCC) is an independent agency of the United States government responsible for regulating and overseeing interstate and international communications by radio, television, wire, satellite, and cable. The FCC was created to ensure the rapid and efficient deployment of robust, reliable communications infrastructure to meet the needs of the American public. This text delves into the distinct aspects of the FCC's mandate, its historical background, organizational structure, regulatory powers, and its impact on various communication industries.
 

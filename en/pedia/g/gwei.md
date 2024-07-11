@@ -1,4 +1,4 @@
-# Understanding Gwei in Ethereum Network
+# Gwei in Ethereum Network
 
 ## Introduction
 In the realm of blockchain and cryptocurrency, transaction fees are a fundamental component. On Ethereum, one of the most critical elements related to transaction fees is Gwei. This unit of measurement is crucial for understanding how much it costs to execute transactions or run smart contracts on the Ethereum network. Let's delve into the details of Gwei, its function, and its significance.

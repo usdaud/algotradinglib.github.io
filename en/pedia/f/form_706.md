@@ -1,4 +1,4 @@
-# Form 706: United States Estate (and Generation-Skipping Transfer) Tax Return
+# Form 706
 
 Form 706, the United States Estate (and Generation-Skipping Transfer) Tax Return, is a tax form used by the Internal Revenue Service (IRS) to assess the estate tax on the transfer of assets upon the death of a person. The form is also applicable to the generation-skipping transfer (GST) tax, which is a tax on the transfer of assets to a beneficiary at least two generations younger than the decedent, such as a grandchild.
 

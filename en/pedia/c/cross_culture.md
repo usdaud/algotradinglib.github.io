@@ -1,4 +1,4 @@
-# Introduction to Cross Culture in Algorithmic Trading
+# Cross Culture
 
 Cross-culture in the context of algorithmic trading refers to the interaction and integration between different cultural perspectives, belief systems, and practices within the global financial markets and the technological domain that drives algorithmic trading. This concept highlights the importance of understanding and navigating cultural differences in trading practices, decision-making processes, and the development and implementation of trading algorithms.
 

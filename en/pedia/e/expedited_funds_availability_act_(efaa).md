@@ -1,4 +1,4 @@
-# Expedited Funds Availability Act (EFAA): What it is, How it Works
+# Expedited Funds Availability Act (EFAA)
 
 The Expedited Funds Availability Act (EFAA) is a U.S. federal law established to regulate the availability of funds deposited into checking accounts. Enacted in 1987 and enforced beginning in 1988, this legislation provides specific guidelines and timelines for financial institutions to make deposited funds accessible to the account holder. Here, we will explore the key aspects, implications, and operational mechanics of the EFAA, shedding light on its importance in the banking industry and its impact on consumers.
 

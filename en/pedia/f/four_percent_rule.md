@@ -1,4 +1,4 @@
-# The Four Percent Rule
+# Four Percent Rule
 
 The Four Percent Rule is a financial guideline often used for retirement planning that suggests retirees can withdraw 4% of their retirement savings annually without running out of money over a 30-year retirement. This rule is predicated on historical data and serves as a rough estimate for determining how much retirees can safely withdraw each year. The rule was developed following the Trinity Study, conducted in the mid-1990s, and has since become a fundamental concept in personal finance literature.
 

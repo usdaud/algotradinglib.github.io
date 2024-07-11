@@ -1,4 +1,4 @@
-# Form 4: Statement of Changes in Beneficial Ownership
+# Form 4
 
 Form 4, officially known as the "Statement of Changes in Beneficial Ownership," is a document that corporate insiders must file with the U.S. Securities and Exchange Commission (SEC) whenever they buy or sell company stock. It is a critical component for monitoring insider trading activities and is part of the legislative framework designed to promote transparency in the securities markets.
 

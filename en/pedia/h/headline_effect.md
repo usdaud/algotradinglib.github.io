@@ -1,4 +1,4 @@
-# Headline Effect: What It Is, How It Works, Example
+# Headline Effect
 
 The headline effect is a concept often referenced in the field of finance, particularly in relation to markets and trading. This effect describes the phenomenon whereby significant news headlines impact market prices and investor behavior. In algorithmic trading, which relies extensively on automated systems and pre-set rules to execute trades, understanding the headline effect is critical for developing strategies that can predict or react to market movements influenced by news events.
 

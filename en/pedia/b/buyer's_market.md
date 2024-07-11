@@ -1,4 +1,4 @@
-# Buyer's Market in Algorithmic Trading
+# Buyer's Market
 
 A buyer's market is a market condition characterized by an abundance of goods or securities, where the supply exceeds demand, thus giving buyers the upper hand in negotiations. In the context of algorithmic trading, understanding a buyer's market is essential for deploying trading strategies that capitalize on the prevailing market conditions.
 

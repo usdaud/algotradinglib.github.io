@@ -1,4 +1,4 @@
-# The Concept of Market Bubbles in Algorithmic Trading
+# Bubbles
 
 ## Introduction to Market Bubbles
 A **market bubble** refers to a situation where the prices of assets inflate rapidly to levels far beyond their intrinsic value, only to crash suddenly, causing a significant loss in value. Bubbles can occur in virtually any kind of asset class, including stocks, real estate, commodities, and even cryptocurrencies. 

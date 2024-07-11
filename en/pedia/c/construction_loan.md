@@ -1,4 +1,4 @@
-# Construction Loan: Definition, How It Works, and Example
+# Construction Loan
 
 A construction loan is a short-term, high-interest loan that provides the funds required to build a residential or commercial property. Unlike traditional mortgages, which are generally made available in a lump sum, construction loans are paid out in stages, known as draws, as the building progresses. The lender has a greater say in the disbursement of these funds, often requiring inspections at different phases of the construction project. This detailed examination ensures that the project is progressing as planned and reduces the lender's risk. In this article, we'll dive deeply into the mechanics of construction loans, their various types, and through an example, we'll provide a clear picture of how they function.
 

@@ -1,4 +1,4 @@
-# Good This Week (GTW) in Algorithmic Trading
+# Good This Week (GTW)
 
 ## Introduction
 "Good This Week" (GTW) is a type of order used in financial markets and is integral to the world of algorithmic trading. It is particularly relevant for traders who wish to maintain an order for a specific instrument over a week’s trading period. Understanding the mechanics and applications of GTW orders is essential for both algorithmic and manual traders to optimize their trading strategies and achieve their financial goals.

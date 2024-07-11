@@ -1,4 +1,4 @@
-# Bayes' Theorem in Algorithmic Trading
+# Bayes' Theorem
 
 Bayes’ Theorem, a fundamental concept in the field of probability and statistics, plays a crucial role in various domains, including algorithmic trading. Named after the Reverend Thomas Bayes, this theorem provides a way to update the probability of a hypothesis based on new evidence. Before diving in-depth into its application in algorithmic trading, it's essential to understand the theorem itself and its mathematical foundation.
 

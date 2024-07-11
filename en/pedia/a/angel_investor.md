@@ -1,4 +1,4 @@
-# Angel Investor: Definition and How It Works
+# Angel Investor
 
 Angel investors, often referred to as seed investors or private investors, are affluent individuals who provide capital to startups or early-stage companies in exchange for equity ownership or convertible debt. These investors are crucial for businesses that have exhausted other financing avenues, such as personal savings, loans from friends and family, or traditional bank loans, but are yet to access venture capital or other institutional funding.
 

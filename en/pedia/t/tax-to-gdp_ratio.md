@@ -1,4 +1,3 @@
-```markdown
 # Tax-to-GDP Ratio
 
 The Tax-to-GDP ratio is a critical fiscal metric that gauges the proportion of a country's tax revenue relative to its Gross Domestic Product (GDP). By showing the relationship between a nation's total tax revenue and its economic output, this ratio provides valuable insights into the efficiency and effectiveness of a country's tax system and fiscal policies. It helps policymakers, economists, and analysts understand the sustainability of public finances, compare tax burdens across countries, and deduce the potential for future fiscal adjustments.
@@ -120,4 +119,3 @@ International initiatives like the OECD's Base Erosion and Profit Shifting (BEPS
 ## Conclusion
 
 The Tax-to-GDP ratio remains a pivotal metric for assessing the health and sustainability of a country's fiscal policy. By understanding and addressing the multifaceted factors influencing this ratio, countries can enhance their tax systems, ensuring sufficient public resources for economic development and social welfare. Continuous adaptation to evolving economic, technological, and social landscapes will be crucial in maintaining and potentially improving the Tax-to-GDP ratios globally.
-```

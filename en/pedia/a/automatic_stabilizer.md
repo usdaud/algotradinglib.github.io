@@ -1,4 +1,4 @@
-# Automatic Stabilizers in Economic Policy and Their Role in Algorithmic Trading
+# Automatic Stabilizers
 
 ## Introduction to Automatic Stabilizers
 

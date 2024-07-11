@@ -1,4 +1,4 @@
-# Controllers in Algorithmic Trading
+# Controllers
 
 Algorithmic trading, often referred to as algo-trading, is a method of executing orders using automated and pre-programmed trading instructions to account for variables such as time, price, and volume. This complex domain combines various components such as algorithms, data feeds, execution strategies, risk management, and, critically, controllers. Controllers in algorithmic trading play a crucial role in ensuring that trading systems operate efficiently and effectively. This detailed exploration delves into the different types of controllers, their functions, and how they integrate with other components within the trading ecosystem.
 

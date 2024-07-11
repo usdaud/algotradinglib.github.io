@@ -1,4 +1,4 @@
-# Autarky in Algorithmic Trading
+# Autarky
 
 Autarky in the context of algorithmic trading refers to the concept of creating self-sustained, self-governing trading strategies that operate independently of external information sources or influences. In this detailed exploration, we'll uncover the underlying principles, technologies, and methodologies that embody autarky in algorithmic trading.
 

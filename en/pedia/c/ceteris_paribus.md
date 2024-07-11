@@ -1,4 +1,4 @@
-# Ceteris Paribus in Algorithmic Trading
+# Ceteris Paribus
 
 ## Introduction
 Ceteris Paribus, a Latin phrase meaning "all other things being equal," is a fundamental concept in economic and financial analysis. It is used to isolate the effect of one variable while holding others constant. In the context of algorithmic trading, this principle is crucial for understanding how specific variables impact trading strategies and for developing robust, dependable algorithms.

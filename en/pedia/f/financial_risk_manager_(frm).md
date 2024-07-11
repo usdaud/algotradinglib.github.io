@@ -1,4 +1,4 @@
-# Introduction to Financial Risk Manager (FRM)
+# Financial Risk Manager (FRM)
 
 A Financial Risk Manager (FRM) is a professional designation granted by the Global Association of Risk Professionals (GARP) to individuals who demonstrate competence in managing financial risks. The FRM designation is globally recognized and respected in the finance and risk management sectors. This certification is specifically designed to provide a comprehensive understanding of financial risk management, including market risk, credit risk, operational risk, and risk management within investment management.
 
