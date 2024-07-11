@@ -1,4 +1,4 @@
-# Vacation Home Investments: A Comprehensive Guide
+# Vacation Home Investments
 
 ## Introduction to Vacation Home Investments
 
