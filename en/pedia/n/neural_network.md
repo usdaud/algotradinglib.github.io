@@ -1,4 +1,4 @@
-# Introduction to Neural Networks in Finance and Trading
+# Neural Networks in Finance and Trading
 
 ## Overview
 

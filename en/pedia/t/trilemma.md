@@ -1,4 +1,4 @@
-# The Trilemma in Trade, Economics, and Finance
+# Trilemma
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Proof of Funds (POF): Definition, What Qualifies, and How to Get
+# Proof of Funds (POF)
 
 Proof of Funds (POF) is a critical concept in the domains of finance, real estate, and trading. It refers to the documentation or evidence that an individual or entity has the financial means to complete a specific transaction. This term is particularly relevant in large-scale financial dealings such as buying real estate, applying for a loan, or entering into high-value investment opportunities.
 

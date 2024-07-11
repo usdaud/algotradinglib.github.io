@@ -1,4 +1,4 @@
-# Internal Controls in Algorithmic Trading
+# Internal Controls
 
 ## Introduction
 

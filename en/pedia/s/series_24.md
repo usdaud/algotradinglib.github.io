@@ -1,4 +1,4 @@
-# Series 24: The General Securities Principal Qualification Examination
+# Series 24
 
 The Series 24, also known as the General Securities Principal Qualification Examination, is a license and exam administered by the Financial Industry Regulatory Authority (FINRA) in the United States. The Series 24 examination evaluates the competency of candidates aiming to become principals in the securities industry. Successfully passing the Series 24 exam authorizes the candidate to manage or supervise the investment banking or securities business of a broker-dealer.
 

@@ -1,4 +1,4 @@
-# The Pareto Principle
+# Pareto Principle
 
 The Pareto Principle, also known as the 80/20 Rule or the Law of the Vital Few, is a principle that asserts that roughly 80% of the effects come from 20% of the causes. Originating from the field of economics, it has widespread applications across various sectors including business, finance, and trading. Named after the Italian economist Vilfredo Pareto, who observed in 1896 that approximately 80% of the land in Italy was owned by 20% of the population, the principle has since been generalized to almost every field of study.
 

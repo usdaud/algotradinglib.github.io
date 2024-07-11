@@ -1,4 +1,4 @@
-# Understanding Investment Banks in Algorithmic Trading
+# Investment Banks
 
 Investment banks play a crucial role in the global financial system, offering a wide range of services that include underwriting, facilitating mergers and acquisitions (M&A), selling securities, and providing investment management. These institutions have become significant players in the realm of algorithmic trading due to their vast resources, advanced technological infrastructure, and expertise in financial markets.
 

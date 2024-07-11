@@ -1,4 +1,4 @@
-# Understanding Stocks: The Backbone of Financial Markets
+# Stocks
 
 Stock, also known as equity, represents ownership in a corporation and constitutes a claim on part of the company's assets and earnings. Simply put, when you own stock in a company, you own a piece of that company. Stock ownership allows investors to grow their wealth through price appreciation and earn income through dividends. Here, we will delve deeply into various facets of stocks, exploring their types, benefits, risks, valuation methods, trading strategies, and the role they play in modern financial markets.
 

@@ -1,4 +1,4 @@
-# Vanilla Strategy: What it is, How it Works, Example
+# Vanilla Strategy
 
 In the financial and trading sectors, strategies and instruments come in various complexities, from the simple to the highly intricate. Among these myriad approaches stands the "vanilla strategy," which, despite its straightforward nature, remains a preferred method for many traders. This article will delve into the vanilla strategy, discussing what it is, how it works, and providing a practical example to illustrate its application.
 

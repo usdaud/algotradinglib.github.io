@@ -1,4 +1,4 @@
-# Undivided Account: What It is, How it Works
+# Undivided Account
 
 An undivided account, commonly referred to as a "joint account" or a "shared account," is a type of financial account that is shared by two or more individuals or entities. This kind of arrangement is often found in banking, investment, and real estate arenas. The primary characteristic of an undivided account is that all parties involved have joint ownership and equal access to the funds or assets within the account. This means that each owner has the right to withdraw, deposit, and manage the resources within the account as if they were the sole owner.
 

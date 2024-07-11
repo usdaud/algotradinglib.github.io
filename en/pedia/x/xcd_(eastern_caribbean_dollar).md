@@ -1,4 +1,4 @@
-# Eastern Caribbean Dollar (XCD)
+# XCD Eastern Caribbean Dollar
 
 The Eastern Caribbean Dollar (XCD) is the official currency of eight of the nine members of the Organisation of Eastern Caribbean States (OECS), a regional intergovernmental organization. The currency is abbreviated as EC$ and symbolized as XCD in the international currency markets. It is pegged to the United States Dollar (USD) at a fixed rate of 2.70 XCD to 1 USD.
 

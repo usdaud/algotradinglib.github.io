@@ -1,4 +1,4 @@
-# Kiting in Algorithmic Trading
+# Kiting
 
 ## Introduction to Kiting
 

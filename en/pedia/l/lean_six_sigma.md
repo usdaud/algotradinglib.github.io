@@ -1,4 +1,4 @@
-# Introduction to Lean Six Sigma
+# Lean Six Sigma
 
 Lean Six Sigma is a powerful, synergistic approach that blends the lean manufacturing principles of reducing waste with Six Sigma's focus on improving quality and process efficiency. This methodology aims at enhancing performance by systematically removing waste, reducing variation, and optimizing processes. Lean Six Sigma can be applied to various sectors, including manufacturing, healthcare, finance, and service industries, making it a versatile tool for achieving operational excellence.
 

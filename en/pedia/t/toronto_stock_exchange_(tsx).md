@@ -1,4 +1,4 @@
-# Toronto Stock Exchange (TSX): What it is, How it Works
+# Toronto Stock Exchange (TSX)
 
 The Toronto Stock Exchange (TSX) is one of the largest and most prominent stock exchanges in the world, and it plays a crucial role in the Canadian financial markets. In this comprehensive guide, we'll explore the history of the TSX, how it functions, its structure, types of securities traded, key indices, trading mechanisms, regulatory environment, and its relevance in the global market.
 

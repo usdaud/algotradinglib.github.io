@@ -1,4 +1,4 @@
-# Zvi Griliches: Contributions to Economic Measurement and Econometrics
+# Zvi Griliches
 
 Zvi Griliches was a prominent economist, best known for his influential work in the fields of economic measurement, econometrics, and the economics of technological change. Griliches made substantial contributions to the understanding of how economic data is collected, interpreted, and utilized in empirical research. His innovative approaches to modeling and measuring economic phenomena have left a lasting impact on economic analysis and policy-making.
 

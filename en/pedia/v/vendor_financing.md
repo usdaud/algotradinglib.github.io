@@ -1,4 +1,4 @@
-# Vendor Financing: Definition, How It Works, Pros, and Cons
+# Vendor Financing
 
 ## Definition of Vendor Financing
 

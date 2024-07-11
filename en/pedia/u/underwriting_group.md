@@ -1,4 +1,4 @@
-# Underwriting Group: What It Is, How It Works
+# Underwriting Group
 
 Underwriting is a critical function within the financial sector, primarily undertaken by specialized entities known as underwriting groups. This comprehensive examination delves into the essence of underwriting groups, their operational mechanisms, principal roles in various financial transactions, risk assessment techniques, and the overall impact on market fluidity and economic growth.
 

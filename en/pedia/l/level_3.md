@@ -1,4 +1,4 @@
-# Market Microstructure: An In-depth Analysis
+# Level 3 Market Microstructure
 
 Market microstructure is the study of the processes and mechanisms by which securities and other financial instruments are traded. It encompasses the analysis of the formation and behavior of prices, the dynamics of trading volume, the strategies employed by market participants, and the design of trading mechanisms and market institutions.
 

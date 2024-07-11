@@ -1,4 +1,4 @@
-# RegTech: The Intersection of Regulation and Technology
+# RegTech
 
 Regulatory Technology, commonly known as RegTech, refers to the utilization of innovative information technology to enhance regulatory processes. This includes monitoring, reporting, and compliance, with the emphasis on streamlining these processes in the financial sector. RegTech focuses on making regulatory compliance more efficient and cost-effective through automation, machine learning, artificial intelligence, and big data.
 

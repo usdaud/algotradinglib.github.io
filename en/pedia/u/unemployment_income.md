@@ -1,4 +1,4 @@
-# Unemployment Income: What It Is, How It Works
+# Unemployment Income
 
 Unemployment income, often referred to as unemployment benefits or unemployment compensation, is a government-provided financial assistance given to individuals who have lost their job through no fault of their own. This financial aid is designed to provide temporary support until the individual can find new employment. This article delves into the intricacies of unemployment income, including its definition, eligibility criteria, application process, and its economic implications.
 

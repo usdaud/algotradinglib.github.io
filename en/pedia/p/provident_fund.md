@@ -1,4 +1,4 @@
-# Provident Fund: Definition, How It Works for Retirement
+# Provident Fund
 
 A Provident Fund (PF) is a type of retirement savings scheme designed to provide financial security to employees following their retirement. It is a compulsory, government-managed fund, where both the employer and the employee contribute a stipulated percentage of the employee's salary. Provident Funds are popular in various countries, particularly in Asia and Africa, and often come with specific tax benefits to encourage savings.
 

@@ -1,4 +1,4 @@
-# IRS Publication 525: Taxable and Nontaxable Income
+# IRS Publication 525
 
 ## Overview
 

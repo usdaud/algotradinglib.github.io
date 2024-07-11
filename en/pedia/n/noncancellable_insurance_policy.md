@@ -1,4 +1,4 @@
-# Noncancellable Insurance Policy: What it Means, How it Works
+# Noncancellable Insurance Policy
 
 A noncancellable insurance policy is a type of insurance contract that provides a guaranteed premium rate for the insured, under the condition that the policyholder continues to pay the premiums on time. This type of policy assures coverage for a specified term or a lifetime without any increase in premiums or changes in terms. Noncancellable policies are primarily seen in health and disability insurance markets. They are highly favored by policyholders due to the security and predictability they offer.
 

@@ -1,4 +1,4 @@
-# SEC Form S-1: What It Is, How to File It or Amend It
+# SEC Form S-1
 
 SEC Form S-1 is an essential document used by companies planning to go public in the United States. The "S-1" stands for "Securities Registration Statement," and it is the initial filing required under the Securities Act of 1933. This form gives the U.S. Securities and Exchange Commission (SEC) and potential investors comprehensive information about the financial health and business operations of the company, thus ensuring transparency and informed decision-making. 
 

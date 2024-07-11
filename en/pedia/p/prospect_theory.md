@@ -1,4 +1,4 @@
-# Prospect Theory: What It Is and How It Works, With Examples
+# Prospect Theory
 
 Prospect Theory is a behavioral economic theory developed by Daniel Kahneman and Amos Tversky in 1979. It describes how individuals assess their potential losses and gains when making decisions under uncertainty. Unlike traditional economic theories that assume rational behavior, Prospect Theory accounts for the psychological nuances involved in decision-making. This makes it particularly relevant to fields like finance, trading, and investing, where real-world decisions often deviate from purely rational models.
 

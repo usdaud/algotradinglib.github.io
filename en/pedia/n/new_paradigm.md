@@ -1,4 +1,4 @@
-# New Paradigm in Trading and Finance: Algorithmic Trading and FinTech Innovations
+# New Paradigm in Trading and Finance
 
 ## Overview
 

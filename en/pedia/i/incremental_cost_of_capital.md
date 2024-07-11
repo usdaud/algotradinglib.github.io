@@ -1,4 +1,4 @@
-# Incremental Cost of Capital: What It is, How It Works
+# Incremental Cost of Capital
 
 ## Introduction
 The incremental cost of capital (ICC) is a financial metric used to measure the cost of obtaining additional capital. This metric is crucial for businesses as it helps in decision-making regarding financing options for new projects or expansions. Understanding ICC involves delving into various financial concepts like capital structure, cost of equity, cost of debt, and the weighted average cost of capital (WACC).

@@ -1,4 +1,4 @@
-# IRS Publication 972: Child Tax Credit
+# IRS Publication 972
 
 **IRS Publication 972, Child Tax Credit,** is a document provided by the Internal Revenue Service (IRS) of the United States that guides taxpayers through the process of claiming the Child Tax Credit (CTC) and the Additional Child Tax Credit (ACTC) on their tax returns. The CTC is a tax credit that helps families with qualifying children receive a tax break, and the ACTC is a refundable credit for taxpayers who do not qualify for the full amount of the CTC.
 

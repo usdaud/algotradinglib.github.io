@@ -1,4 +1,4 @@
-# Unissued Stock: What it is, How it Works
+# Unissued Stock
 
 Unissued stock is a term used in the world of finance and trading to describe authorized shares of a company's stock that have not yet been issued to shareholders. Companies that are publicly traded have a certain number of shares that they are authorized to issue, known as authorized shares. However, not all of these shares are always issued at once. The portion of authorized shares that has not yet been offered to investors is referred to as unissued stock. This concept is crucial for understanding corporate equity structures, stock offerings, and potential future dilutions of equity. In this comprehensive article, we'll delve into the intricacies of unissued stock, its implications, and how it operates within the corporate world.
 

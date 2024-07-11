@@ -1,4 +1,4 @@
-# The Peter Principle
+# Peter Principle
 
 The Peter Principle is a concept in management theory formulated by Dr. Laurence J. Peter, which observes that people in a hierarchy tend to rise to their "level of incompetence." This principle is grounded in the understanding that employees are often promoted based on their performance in their current roles rather than on the abilities relevant to the intended new roles. Consequently, employees are promoted until they reach a position at which they are no longer competent. Once an employee attains this level of incompetence, they often remain in that position, thereby reducing systemic efficiency and overall productivity.
 

@@ -1,4 +1,4 @@
-# Wallflower: Navigating the Financial World of Trading and Investment
+# Wallflower
 
 The term "Wallflower" in the context of finance and trading generally refers to investors or market participants who are hesitant, shy, or unwilling to take active roles in the market. These individuals may prefer to remain on the sidelines, observing market movements rather than actively participating. The term, drawing from social situations where a "wallflower" might be someone who stands by the wall during a dance or event rather than engaging, captures the essence of risk aversion and caution in the financial landscape.
 

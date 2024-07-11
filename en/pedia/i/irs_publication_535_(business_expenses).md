@@ -1,4 +1,4 @@
-# IRS Publication 535 (Business Expenses)
+# IRS Publication 535
 
 ## Introduction
 IRS Publication 535, entitled "Business Expenses," is a comprehensive document provided by the Internal Revenue Service that guides business owners, self-employed individuals, and other taxpayers through the complex landscape of business-related expenditures that can be deducted from gross income to reduce the taxable income of a business. The publication is a pivotal resource, covering various types of expenses that can be deductible, the limitations on these deductions, and the necessary record-keeping practices required to substantiate claims.

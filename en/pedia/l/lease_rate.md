@@ -1,4 +1,4 @@
-# Lease Rate: What it is, How it Works, Types
+# Lease Rate
 
 ## Introduction
 

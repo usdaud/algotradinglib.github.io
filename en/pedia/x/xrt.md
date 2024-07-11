@@ -1,4 +1,4 @@
-# XRT: The SPDR S&P Retail ETF
+# XRT
 
 ## Introduction
 The SPDR S&P Retail ETF (XRT) is one of the more widely followed and traded exchange-traded funds (ETFs) in the financial markets. This ETF offers investors exposure to the retail sector by focusing on companies listed in the S&P Retail Select Industry Index, which is designed to measure the performance of the retail sub-industry of the S&P Total Market Index. This document will offer an in-depth look at XRT by exploring its defining characteristics, historical performance, how it fits into the broader financial landscape, and its importance for traders and investors, particularly those involved in algorithmic trading or fintech.

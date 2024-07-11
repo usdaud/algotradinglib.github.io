@@ -1,4 +1,4 @@
-# J-Curve in Algorithmic Trading
+# J-Curve
 
 The concept of the J-Curve is a graphical representation commonly used in various fields including economics, finance, and algorithmic trading to describe the initial decline followed by a significant rise in performance, profitability, or other metrics over time. In the context of algorithmic trading, the J-Curve can illustrate the lifecycle of a new trading strategy, encompassing its early pitfalls and eventual profitability.
 

@@ -1,4 +1,4 @@
-# Series 66: Uniform Combined State Law Examination
+# Series 66
 
 The Series 66 exam, officially known as the Uniform Combined State Law Examination, is a crucial credential for investment professionals operating in the United States. Administered by the North American Securities Administrators Association (NASAA) and designed in conjunction with the Financial Industry Regulatory Authority (FINRA), the Series 66 license combines elements of the Series 63 and Series 65 exams. Primarily aimed at individuals who wish to become both securities agents and investment adviser representatives, this examination tests proficiency in state security regulations and ethical business practices.
 
