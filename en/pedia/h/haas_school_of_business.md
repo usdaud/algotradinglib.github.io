@@ -1,4 +1,4 @@
-# Haas School of Business: A Hub for Algorithmic Trading and Financial Economics
+# Haas School of Business
 
 The Haas School of Business, also known simply as Berkeley Haas, is the business school of the University of California, Berkeley. Located in Berkeley, California, it is one of the leading institutions for business education around the globe. Established in 1898, Haas is the second-oldest business school in the United States. The school is renowned for its rigorous academic programs, leading-edge research initiatives, and strong connections to Silicon Valley and the broader financial industry. One of the areas where Haas excels is in training students for careers in algorithmic trading and financial economics. This document delves into what makes Haas School of Business a pivotal institution in this field.
 

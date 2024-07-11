@@ -1,4 +1,4 @@
-# The Gartley Pattern
+# Gartley Pattern
 
 The Gartley pattern is a prominent formation within the realm of harmonic trading, a technique that leverages Fibonacci levels to identify potential reversal points in the financial markets. Named after H.M. Gartley, who introduced this pattern in his 1935 book "Profits in the Stock Market," the Gartley pattern is highly revered for its precision and comprehensive structure.
 

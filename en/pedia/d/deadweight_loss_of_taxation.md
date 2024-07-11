@@ -1,4 +1,4 @@
-# Deadweight Loss of Taxation: Definition, How It Works, and Example
+# Deadweight Loss of Taxation
 
 ## Definition of Deadweight Loss of Taxation
 

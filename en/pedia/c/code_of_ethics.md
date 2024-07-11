@@ -1,4 +1,4 @@
-# Code of Ethics in Algorithmic Trading
+# Code of Ethics
 
 Algorithmic trading (also known as automated trading or algo trading) involves the use of algorithms—predefined sets of rules and instructions programmed into computer software—to execute trading strategies in financial markets. Given the complexity and speed at which these algorithms operate, ethical considerations are paramount. This document delves deeply into various aspects of the Code of Ethics in algorithmic trading, covering the principles, challenges, and frameworks that govern ethical practices in this field.
 

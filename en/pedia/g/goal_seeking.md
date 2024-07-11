@@ -1,4 +1,4 @@
-# Goal Seeking in Algorithmic Trading
+# Goal Seeking
 
 ## Introduction
 Goal seeking is a computational technique used in various fields, including finance and algorithmic trading. It refers to the process of finding an unknown input value that produces a desired result or 'goal'. In algorithmic trading and quantitative finance, goal-seeking algorithms are employed to optimize trading strategies, manage risks, identify market opportunities, and achieve desired financial outcomes. This comprehensive guide will delve into various aspects of goal seeking in the context of algorithmic trading.

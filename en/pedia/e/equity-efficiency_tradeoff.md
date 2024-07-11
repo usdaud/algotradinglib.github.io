@@ -1,4 +1,4 @@
-# Understanding the Equity-Efficiency Tradeoff in Algorithmic Trading
+# Equity-Efficiency Tradeoff
 
 Algorithmic trading represents a paradigm where financial transactions are executed using automated and pre-programmed trading instructions. The efficiency of these algorithms has been significantly improving over the last few decades due to advancements in computing power, availability of data, and sophisticated financial models. However, with the rapid progress in this field, there arises an important consideration: the equity-efficiency tradeoff. This topic addresses the balancing act between achieving equity (fairness) in market access and efficiency (optimal allocation of resources and outcomes).
 

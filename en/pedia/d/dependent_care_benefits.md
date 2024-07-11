@@ -1,4 +1,4 @@
-# Dependent Care Benefits: Meaning, How it Works
+# Dependent Care Benefits
 
 Dependent Care Benefits, also referred to as Dependent Care Assistance Programs (DCAP), are employer-sponsored benefits that provide financial assistance to employees with dependent care expenses. These benefits help employees cover costs associated with the care of dependents, typically children under 13 years of age or adults who are incapable of self-care. The primary goal of Dependent Care Benefits is to support employees in balancing their work and personal responsibilities by alleviating some of the financial burdens related to dependent care.
 

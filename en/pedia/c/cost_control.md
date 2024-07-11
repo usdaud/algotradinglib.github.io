@@ -1,4 +1,4 @@
-# Cost Control in Algorithmic Trading
+# Cost Control
 
 Cost control in algorithmic trading is a critical aspect that ensures the strategies employed by traders and financial institutions are not only profitable but also sustainable. In the realm of algorithmic trading, cost control involves managing and optimizing various expenses and resource utilizations without impacting the efficiency and accuracy of trading algorithms. Below, we delve deeper into the multiple components and strategies used to effectively manage costs in algorithmic trading.
 

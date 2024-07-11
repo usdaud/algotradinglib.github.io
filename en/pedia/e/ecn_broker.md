@@ -1,4 +1,4 @@
-# ECN Broker: Definition, How It Works, Benefits, and Downsides
+# ECN Broker
 
 ## Introduction
 

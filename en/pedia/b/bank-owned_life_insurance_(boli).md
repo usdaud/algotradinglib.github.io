@@ -1,4 +1,4 @@
-# Understanding Bank-Owned Life Insurance (BOLI)
+# Bank-Owned Life Insurance (BOLI)
 
 Bank-Owned Life Insurance (BOLI) is a form of life insurance policy that banks purchase on their executives, employees, and directors. Unlike personal life insurance policies, where individuals are beneficiaries, in BOLI, the bank itself is the beneficiary. This unique structure allows banks to manage costs associated with employee benefits, retirement plans, and executive compensation while benefiting from several financial advantages.
 

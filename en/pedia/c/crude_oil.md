@@ -1,4 +1,4 @@
-# Crude Oil in Algorithmic Trading
+# Crude Oil
 
 Crude oil, also known as "black gold," is one of the most traded commodities in the world. Its price volatility and global economic impact make it an attractive asset for traders, including those using algorithmic trading. Algorithmic trading, or algo-trading, involves the use of computer algorithms to execute trades based on predefined criteria. In this detailed exposition, we will explore the intricacies of crude oil trading, the role of algo-trading, key strategies, market participants, and the potential risks and opportunities.
 

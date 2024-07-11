@@ -1,4 +1,4 @@
-# Corporate Culture in Algorithmic Trading
+# Corporate Culture
 
 Corporate culture refers to the shared values, beliefs, and norms that influence the way employees within an organization interact with each other and approach their work. It plays a significant role in shaping the behavior of employees and ultimately contributes to the overall success of an organization. In the context of algorithmic trading, the corporate culture can profoundly impact the efficiency and profitability of trading operations.
 

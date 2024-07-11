@@ -1,4 +1,4 @@
-# Algorithmic Trading and Its Impact on the Globex Trading System
+# Globex Trading System
 
 Algorithmic trading, often referred to as algo trading, involves using computer algorithms to automate trading decisions and execute trades at high speed and volume. The adoption of algorithmic trading has brought significant transformation to financial markets, notably influencing the operation and efficiency of trading platforms worldwide. One such platform that has been profoundly impacted by algorithmic trading is the Globex electronic trading system.
 

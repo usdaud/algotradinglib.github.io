@@ -1,4 +1,4 @@
-# The Hawthorne Effect in Trading
+# Hawthorne Effect
 
 ## Introduction
 The Hawthorne Effect refers to a phenomenon where individuals modify their behavior in response to being observed. Named after a series of studies conducted at the Western Electric Hawthorne Works in Illinois, this effect has far-reaching implications across various domains, from organizational behavior to experimental research. 

@@ -1,4 +1,4 @@
-# The Boom and Bust Cycle in Financial Markets
+# Boom and Bust Cycle
 
 The boom and bust cycle is a key concept in economics and financial markets, referring to a process of economic expansion and contraction that occurs repeatedly over time. This phenomenon is characterized by periods of rapid economic growth (booms) followed by periods of economic decline (busts). Understanding the intricacies of this cycle is crucial for investors, policymakers, and analysts as it impacts financial markets, investment strategies, and economic policies.
 

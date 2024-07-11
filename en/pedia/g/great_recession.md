@@ -1,4 +1,4 @@
-# The Great Recession
+# Great Recession
 
 The Great Recession was a severe global economic downturn that took place during the late 2000s and early 2010s. It was the most significant downturn since the Great Depression of the 1930s. The recession was triggered by the collapse of the United States housing bubble and subsequently escalated into an international banking crisis. This topic covers the causes, events, and consequences of the Great Recession, focusing on the United States while also considering its global impact.
 

@@ -1,4 +1,4 @@
-# Exempt Transactions in Algorithmic Trading
+# Exempt Transactions
 
 Exempt transactions are trades that are not subject to the usual trading rules and regulations imposed by financial regulatory bodies. These exemptions can arise for various reasons and apply to specific participants or under certain conditions. In the domain of algorithmic trading, understanding exempt transactions is crucial for compliance, strategy development, and risk management. This detailed examination will cover what constitutes exempt transactions, types of exemptions, regulatory frameworks, the impact on algorithmic trading, and notable case studies.
 

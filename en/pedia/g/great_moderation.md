@@ -1,4 +1,4 @@
-# The Great Moderation
+# Great Moderation
 
 The Great Moderation refers to a significant period of economic stability experienced in the United States and other advanced economies from the mid-1980s to the onset of the global financial crisis in 2007-2008. This era is characterized by reduced macroeconomic volatility, moderation in the growth rate of output and inflation, and sustained economic growth. Here's an in-depth examination of its key elements:
 

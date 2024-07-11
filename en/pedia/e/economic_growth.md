@@ -1,4 +1,4 @@
-# Understanding and Analyzing Economic Growth in the Context of Algorithmic Trading
+# Economic Growth
 
 Economic growth is a crucial metric for assessing the health and dynamism of economies around the world. It is generally understood as the increase in the market value of the goods and services produced by an economy over time. This growth is typically measured as the percentage increase in real Gross Domestic Product (GDP).
 

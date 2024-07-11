@@ -1,4 +1,4 @@
-# Global Fund: What it Means, How it Works, Investing
+# Global Fund
 
 In the world of investment, a global fund is a crucial concept aimed at providing investors with broader exposure across countries and industries. A global fund is a type of investment fund that encompasses a diversified portfolio consisting of securities from multiple countries, including both developed and emerging markets. This fund aims to capitalize on opportunities from around the world, as opposed to being restricted to a specific country or region.
 

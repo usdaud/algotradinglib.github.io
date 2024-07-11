@@ -1,4 +1,4 @@
-# Form 1099-Q: Payments from Qualified Education Programs
+# Form 1099-Q
 
 Form 1099-Q, titled "Payments from Qualified Education Programs," is a form used in the United States to report distributions from qualified education savings accounts. These accounts include the Coverdell Education Savings Account (ESA) and 529 College Savings Plans. The form includes information about the beneficiary, the gross distribution, and the type of accounts from which funds were distributed.
 

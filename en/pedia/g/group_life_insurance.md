@@ -1,4 +1,4 @@
-# Group Life Insurance: How It Works, Types, Pros & Cons
+# Group Life Insurance
 
 Group life insurance is a policy that provides life insurance coverage to a group of people, typically employees of a company or members of an organization. It is a popular employee benefit offered by employers as part of their comprehensive benefits package. Understanding group life insurance involves exploring its workings, types, advantages, and disadvantages.
 

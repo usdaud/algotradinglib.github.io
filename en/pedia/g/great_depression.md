@@ -1,4 +1,4 @@
-# The Great Depression
+# Great Depression
 
 The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. The timing of the Great Depression varied across nations; in most countries, it started in 1929 and continued for approximately a decade. It was the longest, deepest, and most widespread depression of the 20th century. The Great Depression is commonly used as a benchmark for how far the global economy can decline.
 

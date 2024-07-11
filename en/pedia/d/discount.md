@@ -1,4 +1,4 @@
-# Discount in Algorithmic Trading
+# Discount
 
 In the realm of finance, particularly in algorithmic trading, the concept of "discount" holds vital importance. Algorithmic trading, often referred to as "algo trading," involves using computer programs and algorithms to execute trades at high speeds and with precision. Discounts, when aptly utilized in strategy development, can significantly impact the profitability and effectiveness of these algorithms.
 

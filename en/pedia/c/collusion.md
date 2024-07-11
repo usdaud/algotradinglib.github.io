@@ -1,4 +1,4 @@
-# Collusion in Algorithmic Trading
+# Collusion
 
 Algorithmic trading, frequently referred to as algo trading, involves the use of complex algorithms to make trading decisions in financial markets. These algorithms can execute orders, manage risk, and analyze market data at speeds and frequencies impractical for human traders. With the increased reliance on such technology, however, comes a dark side—collusion. Collusion in algorithmic trading refers to the illicit cooperation between market participants to manipulate the market to their advantage. This practice is illegal and can have dire consequences for market integrity, investor trust, and the overall stability of financial markets.
 

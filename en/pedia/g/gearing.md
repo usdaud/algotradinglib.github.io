@@ -1,4 +1,4 @@
-# Gearing: A Comprehensive Analysis
+# Gearing
 
 In the financial world, the term "gearing" refers to the level of a company's debt related to its equity capital, usually indicated as a ratio or percentage. This concept holds significant weight for investors and corporate managers alike, as it impacts everything from a company's risk profile to its potential for growth and profitability. This in-depth guide aims to provide a thorough understanding of gearing, exploring its types, implications, calculation methods, and applications in various financial contexts.
 

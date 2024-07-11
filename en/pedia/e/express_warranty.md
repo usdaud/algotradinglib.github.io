@@ -1,4 +1,4 @@
-# Understanding Express Warranty in Algorithmic Trading
+# Express Warranty
 
 ## Introduction
 

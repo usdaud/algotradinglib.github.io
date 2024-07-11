@@ -1,4 +1,4 @@
-# Introduction to Conditional Probability in Algorithmic Trading
+# Conditional Probability
 
 Conditional probability is a fundamental concept in probability theory that measures the likelihood of an event occurring given that another event has already occurred. In the realm of algorithmic trading, understanding and applying conditional probability can significantly enhance the performance of trading strategies by aiding in the modeling and prediction of market behaviors.
 

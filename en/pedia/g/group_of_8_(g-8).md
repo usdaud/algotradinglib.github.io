@@ -1,4 +1,4 @@
-# Introduction to the G-8
+# G-8
 
 The Group of Eight, often abbreviated as G-8, is an intergovernmental political forum that originated in 1975. It comprises eight of the world's major economies and was initially formed to discuss and manage global economic policies. Over the years, the G-8 has taken on broader responsibilities, discussing a range of issues from economic management to international security and climate change.
 

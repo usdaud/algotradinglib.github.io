@@ -1,4 +1,4 @@
-# Empire Building in Algorithmic Trading
+# Empire Building
 
 Empire building, a concept originating from corporate finance and management, involves managers seeking to increase the size and scope of their company primarily for the power, prestige, or financial rewards that come with controlling a larger enterprise, rather than focusing on maximizing shareholder value. In the context of algorithmic trading, empire building can have unique implications and manifestations, from the expansion of trading desks, technology investments, to the leveraging of data and talent acquisition.
 

@@ -1,4 +1,4 @@
-# Competitive Advantage in Algorithmic Trading
+# Competitive Advantage
 
 In the domain of finance and trading, achieving a Competitive Advantage (CA) is paramount. A competitive advantage allows a trading firm or individual to outperform their competitors consistently and sustainably. This concept is especially critical in algorithmic trading, where the landscape is intensely competitive, and the margins for error are minuscule. 
 

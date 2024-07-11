@@ -1,4 +1,4 @@
-# Fund Flow: Definition, Example, and How To Interpret
+# Fund Flow
 
 In the world of financial markets and investment, the concept of 'Fund Flow' is a crucial metric that investors and analysts track. Fund flow refers to the movement of capital into and out of various investment vehicles, be it mutual funds, exchange-traded funds (ETFs), or specific asset classes like equities and bonds. This flow of funds can serve as a barometer for investor sentiment, guiding both individual and institutional investors in their decision-making processes.
 

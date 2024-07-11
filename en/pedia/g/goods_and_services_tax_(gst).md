@@ -1,4 +1,4 @@
-# Understanding Goods and Services Tax (GST)
+# Goods and Services Tax (GST)
 
 ## Introduction to GST
 

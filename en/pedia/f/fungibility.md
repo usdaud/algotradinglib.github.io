@@ -1,4 +1,4 @@
-# Fungibility in Algorithmic Trading
+# Fungibility
 
 Fungibility is a fundamental concept in finance and economics, referring to the property of a good or asset whereby its individual units are interchangeable and indistinguishable from each other. This characteristic is crucial for the smooth functioning of markets and for the concept of liquidity. In algorithmic trading, fungibility plays an essential role as it ensures that the assets being traded can be easily bought and sold without affecting their perceived value or causing large price discrepancies.
 

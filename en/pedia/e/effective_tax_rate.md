@@ -1,4 +1,4 @@
-# Effective Tax Rate: How It's Calculated and How It Works
+# Effective Tax Rate
 
 In finance and economics, understanding the effective tax rate (ETR) is fundamental for investors, corporations, and policy-makers. This metric provides insights into the actual tax burden on an entity relative to its income. It is distinct from statutory tax rates, which are the legislated rates set by law. The ETR offers a clearer picture of what individuals or corporations truly pay in taxes, factoring in the multitude of deductions, exemptions, and tax incentives that can apply.
 

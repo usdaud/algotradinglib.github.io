@@ -1,4 +1,4 @@
-# Introduction to the Bond Market
+# Bond Market
 
 ## Definition and Overview of Bonds
 A bond is a fixed-income instrument that represents a loan made by an investor to a borrower, typically corporate or governmental. Bonds are used by these entities to finance projects and activities. Companies, municipalities, states, and sovereign governments all use bonds to raise money. Owners of bonds are debtholders, or creditors, of the issuer.

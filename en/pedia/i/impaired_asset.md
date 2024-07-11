@@ -1,4 +1,4 @@
-# Impaired Asset: Meaning, Causes, How To Test, and How To Record
+# Impaired Asset
 
 ## Introduction to Impaired Assets
 

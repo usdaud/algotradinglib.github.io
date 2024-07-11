@@ -1,4 +1,4 @@
-# Extraordinary Items in Algo Trading
+# Extraordinary Items
 
 ## Overview
 

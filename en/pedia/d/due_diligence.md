@@ -1,4 +1,4 @@
-# Due Diligence in Algorithmic Trading
+# Due Diligence
 
 Due diligence is a critical process in the world of investments, and it holds particular importance in the domain of algorithmic trading. It refers to the comprehensive appraisal of a business or investment opportunity performed by a prospective buyer or investor, which involves thorough investigation and analysis to confirm all facts, such as reviewing financial records, evaluating risks, assessing compliance with regulations, and examining any other material information.
 

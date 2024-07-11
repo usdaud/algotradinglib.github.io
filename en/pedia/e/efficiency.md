@@ -1,4 +1,4 @@
-# Efficiency in Algorithmic Trading
+# Efficiency
 
 Efficiency in algorithmic trading refers to the effective and optimal use of computational resources and strategies to execute trades with minimal delay and costs while maximizing returns. Algorithmic trading leverages mathematical models and big data analytics to automate trading processes, which require substantial efficiency to ensure economic viability and competitive advantage.
 

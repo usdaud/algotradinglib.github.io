@@ -1,4 +1,4 @@
-# The Hospital Insurance Trust Fund
+# Hospital Insurance Trust Fund
 
 The Hospital Insurance (HI) Trust Fund, also known as Medicare Part A, is one of the two trust funds established by the U.S. federal government to finance the Medicare program, which provides health insurance primarily to individuals aged 65 and older, as well as to some younger people with certain disabilities or conditions. The Medicare program consists of four parts: Part A (Hospital Insurance), Part B (Medical Insurance), Part C (Medicare Advantage), and Part D (Prescription Drug Coverage). The HI Trust Fund specifically finances the hospital insurance benefits under Medicare Part A.
 

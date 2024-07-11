@@ -1,4 +1,4 @@
-# Demand in Algorithmic Trading
+# Demand
 
 In algorithmic trading, demand is a crucial concept related to the buying interest and the power behind stock price movements. Demand, in general, refers to the quantity of a financial asset that traders are willing to purchase at various price levels within a specific timeframe. This principle is fundamental in understanding market dynamics and is analyzed using different algorithms to make trading decisions. Here, we'll explore the complexities of demand in the context of algorithmic trading and discuss various related topics.
 

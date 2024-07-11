@@ -1,4 +1,4 @@
-# Introduction to Financial Plan
+# Financial Plan
 
 A financial plan is a comprehensive evaluation of an individual's current and future financial state by using currently known variables to predict future cash flows, asset values, and withdrawal plans. It often involves creating a budget, understanding savings, retirement planning, and tax strategy. Financial planning is an essential practice for managing personal finances and can also apply to corporate financial planning.
 
