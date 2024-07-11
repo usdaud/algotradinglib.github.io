@@ -1,4 +1,4 @@
-# Introduction to Wave in Trading and Finance
+# Wave Theory
 
 Wave theory in trading and finance is often associated with the Elliott Wave Theory, a principle developed by Ralph Nelson Elliott in the 1930s. This principle is based on the idea that financial markets move in predictable patterns or "waves" due to collective investor psychology or crowd behavior. Understanding wave theory and its applications can be a powerful tool for both manual and algorithmic trading. This article will delve into the core concepts of wave theory, its practical applications, and advanced considerations, particularly in the context of algorithmic trading and fintech.
 
