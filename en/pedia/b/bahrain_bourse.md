@@ -1,4 +1,3 @@
-```md
 # Bahrain Bourse
 
 Bahrain Bourse (BHB) is the principal stock exchange of Bahrain. Officially established in 1987 under the name Bahrain Stock Exchange (BSE), it was rebranded as Bahrain Bourse in 2010. The exchange serves as a vital financial hub in the Middle East and North Africa (MENA) region, offering a platform for trading equities, debt securities, mutual funds, and derivatives. The Bahrain Bourse aims to provide a transparent, efficient, and liquid market to attract local, regional, and international investors.
@@ -136,4 +135,3 @@ The Bahrain Bourse is poised for continued growth. With its strategic location i
 ## Contact Information
 
 For more detailed information, visit the official Bahrain Bourse website: [Bahrain Bourse](https://www.bahrainbourse.com/).
-```

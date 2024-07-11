@@ -1,4 +1,4 @@
-# The 1040A Form
+# 1040A Form
 
 The 1040A form, historically known as the "short form," was a simplified version of the standard 1040 tax form used by U.S. taxpayers to file their annual income tax returns. While it was discontinued after the 2017 tax year in favor of a consolidated Form 1040, understanding its structure, requirements, and uses provides valuable insights into the U.S. tax filing system and its evolution.
 

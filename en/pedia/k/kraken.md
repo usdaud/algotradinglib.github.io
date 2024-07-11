@@ -1,4 +1,3 @@
-```md
 # Kraken
 
 Kraken is a prominent cryptocurrency exchange that allows users to trade a variety of digital assets. Founded in 2011 by Jesse Powell, Kraken has established itself as one of the most reliable and secure platforms in the cryptocurrency space. Its headquarters are in San Francisco, California, and it is known for offering a broad range of services, including spot trading, futures trading, staking, and margin trading.
@@ -103,5 +102,3 @@ Kraken continues to innovate and expand its offerings. Some of its planned initi
 Kraken has positioned itself as a trustworthy and comprehensive cryptocurrency exchange, offering a wide array of services to meet the needs of different traders. Its focus on security, regulatory compliance, and customer satisfaction has earned it a reputable status in the industry.
 
 For more information, you can visit [Kraken's official website](https://www.kraken.com/).
-
-```

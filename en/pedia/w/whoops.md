@@ -1,4 +1,3 @@
-```md
 # Automated Trading Systems (ATS)
 
 Automated Trading Systems (ATS) have revolutionized the financial markets by utilizing computer algorithms to automate trading decisions. These systems can execute orders in the market with high speed and precision, significantly reducing the latency caused by human intervention. This intricate combination of finance and technology is commonly termed "algorithmic trading" or "algo trading." 
@@ -92,5 +91,3 @@ Known for its prowess in market-making and HFT activities, Citadel Securities em
 ## Final Thoughts
 
 The fusion of finance and technology through Automated Trading Systems has fundamentally reshaped trading methodologies, leading to more efficient, accurate, and cost-effective market operations. However, as with any technological advancement, thorough consideration of potential risks and ongoing advancements are necessary to harness its full potential.
-
-```

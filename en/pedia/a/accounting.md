@@ -1,4 +1,4 @@
-# Accounting in Algorithmic Trading
+# Accounting
 
 Accounting in algorithmic trading is a multifaceted subject that integrates principles of financial accounting, cost accounting, and management accounting to quantify the performance and state of algorithmic trading portfolios. This discipline ensures the accurate recording, summarization, analysis, and reporting of financial transactions derived from trading activities. Concurrenly, regulatory compliance and profitability analysis are crucial components.
 

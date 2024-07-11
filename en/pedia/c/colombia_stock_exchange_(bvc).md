@@ -1,4 +1,3 @@
-```md
 # Colombia Stock Exchange (BVC)
 
 The Colombia Stock Exchange, known as Bolsa de Valores de Colombia (BVC), is the main platform for the trading of securities and other financial instruments in Colombia. BVC plays a crucial role in the financial market of Colombia, providing a regulated and transparent marketplace for the exchange of equity, fixed income instruments, derivatives, and other investment vehicles.
@@ -56,4 +55,3 @@ The BVC is continually evolving, with initiatives to modernize its trading infra
 ## Conclusion
 
 The Colombia Stock Exchange serves as the backbone of Colombia's capital markets, playing a pivotal role in the economic development of the country. Through its comprehensive range of financial instruments, advanced trading systems, and stringent regulatory framework, the BVC ensures a dynamic, transparent, and robust marketplace. Investors, both domestic and international, leverage the BVC to diversify their portfolios, hedge against risks, and capitalize on growth opportunities within the Colombian economy.
-```

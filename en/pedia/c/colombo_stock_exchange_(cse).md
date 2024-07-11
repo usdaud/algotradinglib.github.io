@@ -1,4 +1,3 @@
-```md
 # Colombo Stock Exchange (CSE)
 
 The Colombo Stock Exchange (CSE) is the primary stock exchange in Sri Lanka. It was established in 1985 and has since become one of the key financial institutions in the country. The exchange plays a crucial role in the economic development of Sri Lanka by providing a platform for the trading of securities, including stocks, bonds, and other financial instruments. The CSE is regulated by the Securities and Exchange Commission of Sri Lanka (SEC).
@@ -117,4 +116,3 @@ The Colombo Stock Exchange (CSE) is a vital component of Sri Lanka's financial s
 
 For more information, you can visit the official website of the Colombo Stock Exchange:
 [https://www.cse.lk/](https://www.cse.lk/)
-```

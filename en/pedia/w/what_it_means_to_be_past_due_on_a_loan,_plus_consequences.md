@@ -1,4 +1,4 @@
-# What It Means to Be Past Due on a Loan, Plus Consequences
+# Past Due on a Loan
 
 When a borrower misses the due date for a loan payment, the account becomes past due. Being past due is a financial situation in which a borrower has not made a scheduled payment by the due date specified in the loan or credit agreement. This can apply to different types of loans, including personal loans, credit cards, mortgages, auto loans, and other lines of credit. Understanding the ramifications of being past due is crucial for borrowers to avoid serious financial repercussions. This comprehensive guide details what it means to be past due on a loan, the potential consequences, and actionable steps to rectify the situation.
 

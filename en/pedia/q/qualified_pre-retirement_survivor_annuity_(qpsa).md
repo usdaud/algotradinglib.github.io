@@ -1,4 +1,3 @@
-```md
 # Qualified Pre-Retirement Survivor Annuity (QPSA)
 
 A Qualified Pre-Retirement Survivor Annuity (QPSA) is a feature included in certain retirement plans, specifically defined benefit plans and some defined contribution plans such as 401(k) plans, to provide financial protection for the surviving spouse of a plan participant who dies before retirement. The QPSA ensures that the spouse receives an annuity, thereby offering a continuous income stream, replacing the income that the deceased would have provided during retirement.
@@ -53,4 +52,3 @@ Effective communication regarding the benefits, options, and procedures associat
 ## Conclusion
 
 Qualified Pre-Retirement Survivor Annuities serve an important function in retirement planning by safeguarding the financial interests of surviving spouses. While they come with their own set of advantages and limitations, understanding their role can help participants, spouses, and plan sponsors navigate the complexities of retirement benefits. Adhering to federal regulations and ensuring meticulous administration are key to maximizing the benefits of QPSA for all parties involved.
-```

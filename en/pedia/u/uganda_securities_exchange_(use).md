@@ -1,4 +1,3 @@
-```md
 # Uganda Securities Exchange (USE)
 
 The Uganda Securities Exchange (USE) is the principal stock exchange of Uganda. It was founded in 1997 and is licensed under the Capital Markets Authority Act, which regulates the securities industry in Uganda. It acts as a platform for trading shares, bonds, and other financial instruments. The USE also provides a mechanism for companies to raise capital through Initial Public Offerings (IPOs).
@@ -85,4 +84,3 @@ Further adoption of digital and mobile technologies can also boost market partic
 The Uganda Securities Exchange plays a pivotal role in the financial ecosystem of Uganda. While it faces several challenges, the potential for growth and development remains significant. Through regulatory support, technological advancements, and increased public awareness, the USE aims to become a more dynamic and influential player in the East African financial markets.
 
 For more information, please visit the [Uganda Securities Exchange official website](https://www.use.or.ug).
-```

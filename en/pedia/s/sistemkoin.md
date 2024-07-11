@@ -1,4 +1,3 @@
-```md
 # Sistemkoin
 
 ## Introduction
@@ -63,4 +62,3 @@ Sistemkoin has positioned itself as a reliable and user-friendly exchange within
 Sistemkoin is a cryptocurrency exchange platform that provides users with a secure, efficient, and user-friendly environment for trading digital assets. With its extensive range of supported cryptocurrencies, advanced trading tools, high-security measures, and responsive customer support, Sistemkoin has established itself as a go-to platform for traders of all levels. By continually enhancing its services and staying attuned to market trends, Sistemkoin aims to remain at the forefront of the cryptocurrency trading industry.
 
 For more information, visit the official Sistemkoin website: [Sistemkoin](https://www.sistemkoin.com)
-```

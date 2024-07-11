@@ -1,4 +1,3 @@
-```md
 # XT.COM
 
 XT.COM is a digital cryptocurrency exchange platform designed to provide users with a safe, efficient, and transparent trading environment. Launched in 2018, the exchange has established itself as a robust platform with a broad range of services catering to various types of investors and traders. XT.COM combines a user-friendly interface, advanced security features, and an extensive selection of digital assets, making it a prominent player in the cryptocurrency trading ecosystem.
@@ -69,4 +68,3 @@ XT.COM provides robust API support for users interested in algorithmic trading. 
 XT.COM has established itself as a reliable and innovative cryptocurrency exchange, catering to a wide range of traders and investors. With its commitment to security, a diverse array of trading options, and continuous community engagement, XT.COM is well-positioned to maintain its growth and remain a key player in the cryptocurrency trading landscape.
 
 For more details, visit the official website: [XT.COM](https://www.xt.com/)
-```

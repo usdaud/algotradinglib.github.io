@@ -1,4 +1,3 @@
-```md
 # Underweight
 
 In the financial context, the term "underweight" refers to a lower level of investment in a particular asset relative to a benchmark index or market. This strategy is often employed by portfolio managers and investment analysts to signify that they believe an asset, such as a specific stock, bond, or sector, is expected to underperform the market or its peers. Being underweight means that the investment holds a smaller allocation than what is typically found in a benchmark index.
@@ -81,4 +80,3 @@ For more detailed information on investment strategies and portfolio management,
 - [Vanguard](https://investor.vanguard.com/)
 - [Morningstar](https://www.morningstar.com/)
 - [Fidelity Investments](https://www.fidelity.com/)
-```

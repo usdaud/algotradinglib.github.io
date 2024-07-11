@@ -1,4 +1,4 @@
-# What Was FTX US Derivatives?
+# FTX US Derivatives
 
 FTX US Derivatives was a regulated cryptocurrency exchange platform that specialized in offering a range of derivative products in the digital asset space. Derivatives are financial contracts whose value is derived from an underlying asset, such as a cryptocurrency. The platform aimed to provide institutional and retail investors with a secure and efficient venue for trading bespoke derivative products. This comprehensive examination delves into the intricacies of FTX US Derivatives, exploring its offerings, regulatory framework, technological stack, market impact, and future prospects.
 

@@ -1,4 +1,3 @@
-```md
 # BigONE
 
 BigONE is a global cryptocurrency exchange platform founded in 2017. It aims to provide secure, reliable, and fast cryptocurrency trading services to users worldwide. The platform supports a wide range of cryptocurrencies, such as Bitcoin (BTC), Ethereum (ETH), and many altcoins. BigONE provides services through its website [big.one](https://big.one).
@@ -58,4 +57,3 @@ The platform adheres to regulatory standards and KYC (Know Your Customer) proced
 BigONE is a comprehensive cryptocurrency exchange platform that caters to a wide range of users, from beginners to experienced traders. With its focus on security, diverse trading options, and advanced features, it stands as a robust option for those looking to participate in the cryptocurrency market. Whether you're interested in spot trading, leveraging positions through margin trading, or staking assets for passive income, BigONE offers the tools and services to support your trading goals.
 
 For more details and to access their services, visit the official website [big.one](https://big.one).
-```

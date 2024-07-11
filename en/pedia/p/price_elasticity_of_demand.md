@@ -1,4 +1,3 @@
-```md
 # Price Elasticity of Demand
 
 Price Elasticity of Demand (PED) is a measure used in economics to show the responsiveness, or elasticity, of the quantity demanded of a good or service to a change in its price. It quantitatively expresses the sensitivity of consumers' demand for a product to changes in price, providing insights into how price adjustments could impact revenue.
@@ -76,4 +75,3 @@ Price Elasticity of Demand is a fundamental concept in economics that has far-re
 
 Further advancements in technology, particularly in data analytics and machine learning, continue to refine our ability to understand and utilize PED, making it an ever-more critical tool in the modern economic landscape.
 
-```

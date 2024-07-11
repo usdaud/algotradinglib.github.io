@@ -1,4 +1,3 @@
-```md
 # Fiji Stock Exchange (SPSE)
 
 The Fiji Stock Exchange (SPSE) is a central platform for the trading of securities in the Republic of Fiji. As a smaller and more niche market compared to major global stock exchanges, the SPSE plays a crucial role in the local economy by facilitating the raising of capital and providing investment opportunities.
@@ -86,4 +85,3 @@ To foster further growth and sustainability, the SPSE has initiated several stra
 The Fiji Stock Exchange, while small, is a vital component of the Fijian financial landscape. Its structured governance, innovative initiatives, and commitment to market integrity make it an attractive platform for both local and international investors. With ongoing technological advancements and strategic efforts to increase market participation, the SPSE is poised to continue its trajectory of growth and economic contribution.
 
 To learn more about SPSE, visit their official website: [SPSE](https://www.spse.com.fj).
-```

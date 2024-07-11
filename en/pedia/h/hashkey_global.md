@@ -1,4 +1,3 @@
-```md
 # HashKey Global
 
 ## Introduction
@@ -88,4 +87,3 @@ HashKey is actively involved in the blockchain community, participating in indus
 ## Conclusion
 
 HashKey Global is a comprehensive digital asset management and blockchain solutions provider, offering a wide range of products and services that cater to both institutional and retail clients. Through their dedication to innovation, security, and regulatory compliance, HashKey is playing a pivotal role in shaping the future of the digital economy. For more information about HashKey Global and their offerings, visit their [official website](https://www.hashkey.com/).
-```

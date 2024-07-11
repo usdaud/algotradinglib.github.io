@@ -1,4 +1,3 @@
-```md
 # Scalping
 
 ## Introduction
@@ -94,4 +93,3 @@ Scalping is a demanding but potentially lucrative trading strategy that requires
 For further reading on scalping techniques and tools, you may explore specialized trading platforms and resources. This comprehensive understanding will help in mastering the art of scalping and making informed trading decisions.
 
 [Explore advanced trading strategies and tools for scalping.](https://www.tradingview.com)
-```

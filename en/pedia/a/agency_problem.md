@@ -1,4 +1,4 @@
-# The Agency Problem in Algorithmic Trading
+# Agency Problem
 
 The agency problem is a fundamental issue in corporate governance and finance, where conflicts of interest arise between principals (owners or shareholders) and agents (managers or executives). This problem is deeply relevant in various sectors, including algorithmic trading, where it manifests in distinct and impactful ways due to the complexity and rapidity of automated financial systems.
 

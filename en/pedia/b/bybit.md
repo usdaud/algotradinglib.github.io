@@ -1,4 +1,3 @@
-```md
 # Bybit
 
 ## Introduction
@@ -94,5 +93,3 @@ Bybit continues to differentiate itself by prioritizing user experience, high le
 Bybit is an excellent choice for both novice and experienced traders interested in crypto derivatives. It offers a wide range of trading pairs, advanced order types, and high leverage, all while maintaining strict security measures and regulatory compliance. Its user-friendly interface, robust API support, and continuous innovation make it a compelling option for serious traders.
 
 For more information, visit the official [Bybit website](https://www.bybit.com/).
-
-```

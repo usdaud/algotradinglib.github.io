@@ -1,4 +1,3 @@
-```md
 # Bitso
 
 ## Introduction
@@ -75,4 +74,3 @@ Bitso aims to expand its user base by offering more localized services and enter
 Bitso has emerged as a key player in the cryptocurrency ecosystem, particularly in Latin America. With its comprehensive service offerings, stringent security protocols, and commitment to regulatory compliance, Bitso provides a reliable and user-friendly platform for trading and managing cryptocurrencies. The company's ongoing innovation and strategic partnerships position it for continued growth and success in the global cryptocurrency market.
 
 For more information, visit [Bitso's official website](https://bitso.com/).
-```

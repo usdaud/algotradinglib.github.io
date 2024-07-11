@@ -1,4 +1,3 @@
-```md
 # Taiwan Stock Exchange (TWSE)
 
 The Taiwan Stock Exchange (TWSE) is a financial institution located in Taipei, Taiwan. It functions as the primary stock exchange in Taiwan and plays a central role in the operation of the Taiwanese capital market. Established on October 23, 1961, TWSE began trading on February 9, 1962, and has since grown into a modern exchange with diverse financial products and a robust trading platform.
@@ -146,4 +145,3 @@ The TWSE faces several challenges but also numerous opportunities for growth:
 The Taiwan Stock Exchange plays a vital role in Taiwan's economic development and is a critical component of the global financial market. With its robust infrastructure, transparent regulatory environment, and commitment to innovation, the TWSE is poised to continue its growth and prominence on the world stage.
 
 For more information, visit the [Taiwan Stock Exchange Official Website](https://www.twse.com.tw/en/).
-```

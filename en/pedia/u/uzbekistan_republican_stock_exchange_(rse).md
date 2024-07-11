@@ -1,4 +1,3 @@
-```md
 # Uzbekistan Republican Stock Exchange (RSE)
 
 The Uzbekistan Republican Stock Exchange (RSE), commonly referred to as the Tashkent Stock Exchange, is the primary securities exchange in Uzbekistan. It is a pivotal component of the country’s financial infrastructure, playing a crucial role in the development of capital markets in Uzbekistan. The RSE provides a platform for the trading of various financial instruments, including equities, bonds, and other securities.
@@ -128,4 +127,3 @@ To attract and retain investors, the RSE is focusing on investor education and o
 ## Conclusion
 
 The Uzbekistan Republican Stock Exchange (RSE) has established itself as a key player in the country's financial ecosystem, providing a robust platform for trading a diverse range of financial instruments. With ongoing reforms, technological advancements, and a focus on market development, the RSE is well-positioned to drive economic growth and attract both domestic and foreign investment in the years to come. For more information, visit the official website of the Uzbekistan Republican Stock Exchange at [http://rse.uz/](http://rse.uz/).
-```

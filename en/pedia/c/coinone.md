@@ -1,4 +1,3 @@
-```md
 # Coinone
 
 ## Overview
@@ -69,5 +68,3 @@ Coinone supports a wide range of market pairs, with BTC/KRW, ETH/KRW, and XRP/KR
 
 ## Conclusion
 Coinone is a comprehensive cryptocurrency exchange platform that caters to different types of traders, from beginners to advanced algorithmic traders. Its robust security measures, regulatory compliance, and extensive feature set make it a reliable choice for trading digital assets. For more detailed information, you can visit their official website: [Coinone](https://coinone.co.kr).
-
-```

@@ -1,4 +1,3 @@
-```md
 # AAX
 
 AAX, short for Atom Asset Exchange, is a cryptocurrency exchange platform that offers various financial services including spot trading, futures trading, savings products, and more. The platform is known for its efficiency, security, and adoption of high-frequency trading technologies.
@@ -70,4 +69,3 @@ In recent times, AAX has expanded its product offerings and added new features t
 AAX has carved out a significant niche in the cryptocurrency exchange market by offering a comprehensive range of services powered by robust technology. Its collaboration with LSEG, along with user-centric features, advanced trading tools, and stringent security measures, positions it as a leading player in the industry.
 
 For more detailed information, you can visit the official AAX website: [AAX](https://www.aax.com/)
-```

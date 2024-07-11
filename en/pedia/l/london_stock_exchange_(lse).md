@@ -1,4 +1,3 @@
-```md
 # London Stock Exchange (LSE)
 
 The London Stock Exchange (LSE) is one of the largest and most prominent stock exchanges in the world. Founded in 1698, it is situated in the City of London, the financial heart of the United Kingdom. The LSE provides a platform for companies to raise capital by issuing shares to the public and facilitates trading of those shares among financial institutions and individual investors.
@@ -120,4 +119,3 @@ For more detailed information, please visit the official [London Stock Exchange 
 ## Conclusion
 
 The London Stock Exchange stands as a cornerstone of the global financial system, facilitating capital raising, trading, and investment. Its rich history, robust regulatory framework, diverse market segments, and innovative technological initiatives make it a dynamic and vital component of the world's financial landscape. Whether you are an investor, a listed company, or a market participant, the LSE offers a range of opportunities and resources to meet your needs in a complex and evolving financial environment.
-```

@@ -1,4 +1,4 @@
-# Aggregation in Algorithmic Trading
+# Aggregation
 
 ## Introduction to Aggregation
 

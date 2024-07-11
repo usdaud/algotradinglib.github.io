@@ -1,4 +1,3 @@
-```md
 # BME Spanish Exchanges (BME)
 
 ## Overview
@@ -97,4 +96,3 @@ BME continuously seeks to innovate and adapt to the evolving financial landscape
 BME Spanish Exchanges plays a pivotal role in Spain's financial markets, offering a comprehensive range of trading and financial services. With its robust technological infrastructure, diverse product offerings, and strong regulatory compliance, BME continues to evolve as a leading exchange in Europe. Investors and market participants benefit from BME's efficient and transparent market operations, contributing to the overall health and growth of Spain's economy.
 
 For more details, please visit their [official website](https://www.bolsasymercados.es).
-```

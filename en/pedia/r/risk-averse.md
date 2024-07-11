@@ -1,4 +1,3 @@
-```md
 # Risk-Averse
 
 **Risk aversion** is a concept in economics, finance, and psychology that describes the preference of individuals or institutions to avoid uncertain outcomes. A risk-averse individual prioritizes certainty and less variable outcomes over those that are uncertain, even if the uncertain outcomes could potentially offer higher rewards. This concept is critical in understanding market behavior, portfolio management, and economic decision-making.
@@ -100,4 +99,3 @@ Risk aversion is a foundational concept in economics and finance, affecting indi
 ---
 
 For more information on risk aversion and its applications, you can visit [Capital Asset Pricing Model (CAPM) - Investopedia](https://www.investopedia.com/terms/c/capm.asp) or the London School of Economics page on [Behavioral Finance](https://www.lse.ac.uk/finance/research/behavioral-finance).
-```

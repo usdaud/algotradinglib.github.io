@@ -1,4 +1,3 @@
-```md
 # Nairobi Securities Exchange (NSE)
 
 The Nairobi Securities Exchange (NSE) is a leading African exchange, based in Nairobi, Kenya. It plays a crucial role in the development of the Kenyan capital market by providing a platform for trading of equities, debt instruments, and other related securities. The NSE is instrumental in mobilizing domestic and international capital for local enterprises, thus contributing to economic growth. 

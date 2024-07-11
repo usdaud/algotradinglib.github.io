@@ -1,4 +1,3 @@
-```md
 # Portfolio Runoff
 
 ## Introduction
@@ -90,4 +89,3 @@ Funds that invest in MBS, like DEF MBS Fund, face high prepayment risk. DEF MBS 
 Portfolio runoff is an essential concept in financial management, particularly for fixed-income portfolios. Understanding the causes and impacts of runoff allows investors to develop effective strategies to manage risks and maintain portfolio stability. Through a combination of investment strategies, advanced technology, and robust risk management practices, investors can effectively navigate the challenges of portfolio runoff and achieve their financial objectives.
 
 Effective portfolio management requires continuous monitoring and adjustment. As market conditions evolve, staying informed about the latest tools and strategies is crucial to managing portfolio runoff successfully. The integration of technology and data-driven approaches significantly enhances the ability to manage runoff and optimize portfolio performance.
-```

@@ -1,4 +1,3 @@
-```md
 # Korea Exchange (KRX)
 
 The Korea Exchange (KRX) is the sole securities exchange operator in South Korea, providing a comprehensive range of products and services to domestic and international investors. The KRX was established in 2005 through the merger of the Korea Stock Exchange, Korea Futures Exchange, and KOSDAQ Stock Market. This historic merger aimed to enhance market efficiency and investor accessibility while fostering global competitiveness.
@@ -81,4 +80,3 @@ KRX is committed to promoting Environmental, Social, and Governance (ESG) princi
 The Korea Exchange (KRX) stands as a pivotal institution in South Korea's financial ecosystem. With its multi-faceted markets, stringent regulations, and technological advancements, KRX provides a robust platform for both domestic and international investors. As South Korea continues to emerge as a global economic power, the importance of KRX in facilitating capital flows and economic growth cannot be overstated.
 
 For more information, you can visit the official website of the Korea Exchange: [Korea Exchange](https://global.krx.co.kr/main/main.html).
-```

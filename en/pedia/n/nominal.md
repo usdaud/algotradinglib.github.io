@@ -1,4 +1,3 @@
-```md
 # Nominal
 
 In finance and economics, the term "nominal" refers to values that are not adjusted for inflation, making them different from "real" values, which are inflation-adjusted. The word "nominal" can be applied to various financial instruments, metrics, rates, or prices to describe their current or face value without considering changes in the price level over time. In essence, nominal figures represent actual monetary values at a specific point in time.
@@ -55,4 +54,3 @@ Many FinTech platforms now include features to adjust for nominal and real value
 The term "nominal" plays a crucial role in the world of finance and economics, representing unadjusted values that are vital for various calculations and comparisons. However, for a more accurate and informed analysis, it is often necessary to convert these nominal values into real terms by accounting for inflation. Whether in the context of interest rates, GDP, bond values, or exchange rates, understanding the difference between nominal and real values is fundamental for sound financial decision-making and effective economic analysis.
 
 For additional information, you may refer to financial institutions' websites such as the [World Bank](https://www.worldbank.org) or [Federal Reserve](https://www.federalreserve.gov) for comprehensive data and reports that often distinguish between nominal and real metrics. Additionally, for practical applications in algorithmic trading and FinTech, companies like [Aladdin by BlackRock](https://www.blackrock.com/aladdin/home) offer platforms that incorporate these distinctions to deliver more accurate and effective financial solutions.
-```

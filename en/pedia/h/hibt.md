@@ -1,4 +1,3 @@
-```md
 # High-Intensity Interval Training (HIIT)
 
 High-Intensity Interval Training, commonly known as HIIT, is a form of cardiovascular exercise strategy alternating short periods of intense anaerobic exercise with less intense recovery periods. These intense workouts typically last under 30 minutes, though they can vary in duration depending on the participant's fitness level and the intensity of the exercise.
@@ -80,5 +79,3 @@ As with any high-intensity exercise program, there are safety considerations to 
 High-Intensity Interval Training (HIIT) provides a multitude of fitness benefits condensed into short workout durations. Its adaptability, efficiency, and the broad spectrum of health improvements make it a suitable workout regime for people across various fitness levels and lifestyles. HIIT continues to gain popularity globally, supported by robust scientific research validating its effectiveness in enhancing cardiovascular health, encouraging fat loss, and increasing overall physical fitness.
 
 For further information and bespoke HIIT workout plans, consider exploring resources from [HIIT Central](https://www.hiitcentral.com) or visiting [American College of Sports Medicine](https://www.acsm.org).
-
-```

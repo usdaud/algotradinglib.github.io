@@ -1,4 +1,3 @@
-```md
 # Johannesburg Stock Exchange (JSE)
 
 ## Introduction
@@ -120,4 +119,3 @@ Algorithmic trading has become increasingly prominent on the JSE, driven by adva
 The Johannesburg Stock Exchange is a cornerstone of the South African financial landscape, providing a robust platform for securities trading and capital raising. Its continuous evolution and adoption of advanced trading technologies position it as a leading exchange not only in Africa but also on the global stage. The JSE's commitment to transparency, regulatory compliance, and technological innovation ensures its sustained relevance and growth in the rapidly changing world of finance.
 
 For more information, you can visit the official [JSE website](https://www.jse.co.za).
-```

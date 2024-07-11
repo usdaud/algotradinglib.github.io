@@ -1,4 +1,3 @@
-```md
 # KuCoin
 
 ## Introduction
@@ -95,4 +94,3 @@ KuCoin Labs is an investment and research arm of the exchange that focuses on id
 KuCoin has established itself as a leading cryptocurrency exchange by offering a comprehensive suite of features, a user-friendly platform, and robust security measures. With its wide range of supported cryptocurrencies, advanced trading tools, and commitment to innovation, KuCoin continues to attract traders from around the world. Whether you are a beginner looking to enter the world of cryptocurrency trading or an experienced trader seeking advanced features, KuCoin offers a platform that caters to your needs.
 
 For further details and to start trading, visit the [KuCoin Official Website](https://www.kucoin.com).
-```

@@ -1,4 +1,3 @@
-```md
 # Qatar Stock Exchange (QSE)
 
 The Qatar Stock Exchange (QSE), previously known as the Doha Securities Market (DSM), is the principal stock exchange in the State of Qatar. Officially established in 1995, the exchange has grown to become a key financial hub in the Middle East. With its strategic location, rapid economic growth, and substantial wealth driven largely by natural gas and oil reserves, the QSE has risen to prominence in the global financial markets.
@@ -98,4 +97,3 @@ The QSE supports the issuance of green bonds, which finance environmentally-frie
 The Qatar Stock Exchange has established itself as a key player in the Middle East’s financial landscape. With a robust regulatory framework, technological advancements, and initiatives to attract foreign investment, the QSE is well-positioned for future growth. As Qatar continues to diversify its economy and emphasize sustainable development, the QSE will play a crucial role in facilitating capital flows and supporting economic progress.
 
 Official Website: [Qatar Stock Exchange](https://www.qe.com.qa/)
-```

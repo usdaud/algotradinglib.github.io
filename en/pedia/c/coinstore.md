@@ -1,4 +1,3 @@
-```md
 # Coinstore
 
 Coinstore is a cryptocurrency exchange platform that provides a trading environment for various digital currencies. It has quickly risen to become a critical player in the crypto trading world by offering a user-friendly interface, robust security measures, and a wide array of digital assets for trading. This comprehensive guide aims to delve into the various facets of Coinstore, exploring its key features, security measures, trading tools, and much more.
@@ -101,4 +100,3 @@ Coinstore is continuously evolving, with several advancements and features in th
 Coinstore represents a comprehensive platform for cryptocurrency trading, offering a wide array of features tailored to both novice and professional traders. With its user-friendly interface, robust security measures, and extensive range of supported cryptocurrencies, Coinstore is well-positioned to remain a prominent player in the crypto exchange ecosystem.
 
 For more information, you can visit their official website: [Coinstore](https://www.coinstore.com)
-```

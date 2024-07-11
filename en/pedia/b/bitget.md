@@ -1,4 +1,3 @@
-```md
 # Bitget
 
 Bitget is a global digital asset trading platform that provides various financial products and services, with a focus on futures trading. Founded in 2018 and headquartered in Singapore, Bitget has grown rapidly to serve millions of users worldwide. The platform’s core mission is to simplify crypto trading and provide a secure and efficient trading environment. Bitget offers a range of trading solutions, including spot trading, futures trading, copy trading, staking, and other financial derivatives.
@@ -92,4 +91,3 @@ Bitget has a global user base and actively engages with its community to foster 
 Bitget has established itself as a comprehensive and reliable platform in the cryptocurrency trading space. With an array of advanced trading products, robust security measures, user-centric features, and a commitment to regulatory compliance, Bitget continues to attract and retain a growing global user base. Whether you're a novice trader or an experienced professional, Bitget provides the tools and resources to enhance your trading experience and achieve your financial goals.
 
 For more information, visit the official website: [Bitget](https://www.bitget.com)
-```
