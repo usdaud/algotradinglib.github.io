@@ -1,4 +1,4 @@
-# The American Dream
+# American Dream
 
 The concept of the American Dream is deeply embedded in the cultural and historical fabric of the United States. It represents the belief that anyone, regardless of where they were born or what class they were born into, can attain their own version of success in a society where upward mobility is possible for everyone. The American Dream is rooted in the Declaration of Independence, which proclaims that "all men are created equal" with the right to "life, liberty, and the pursuit of happiness." Over time, this idea has evolved and taken on various forms, impacting the nation’s ethos in numerous ways.
 

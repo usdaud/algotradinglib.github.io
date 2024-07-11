@@ -1,4 +1,4 @@
-# 30-Year Treasury: Meaning, History, Examples
+# 30-Year Treasury
 
 The 30-Year Treasury bond, often referred to as the "long bond," is a debt obligation issued by the United States Department of the Treasury that has a maturity of 30 years from its issue date. These bonds are considered one of the safest investments since they are backed by the full faith and credit of the U.S. government, making them relatively low risk compared to other forms of investments. In this comprehensive guide, we will delve into the meaning, history, and examples of 30-Year Treasury bonds. 
 

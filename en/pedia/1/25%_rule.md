@@ -1,4 +1,4 @@
-# 25% Rule: What it Means, How it Works, Rules
+# 25% Rule
 
 ## Introduction
 The 25% Rule in algorithmic trading refers to a risk management strategy that stipulates no more than 25% of available capital should be exposed to any single asset or trading strategy at any given time. This rule is designed to mitigate risk by ensuring that a trader is not overly exposed to any one source of potential volatility. This framework can be instrumental in preserving capital and increasing the probability of long-term trading success.
