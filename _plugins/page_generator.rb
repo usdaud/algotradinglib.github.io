@@ -1,12 +1,12 @@
 module Jekyll
-  class LetterPageGenerator < Generator
+  class AlgoTradingPageGenerator < Generator
     safe true
 
     SECTIONS = ['pedia', 'soft', 'brokers', 'market-data', 'community']
     LANGUAGES = ['en', 'ru', 'zh']
 
     def generate(site)
-      Jekyll.logger.info "LetterPageGenerator:", "Total pages: #{site.pages.size}"
+      Jekyll.logger.info "PageGenerator:", "Total pages: #{site.pages.size}"
 
       @page_cache = {}
       @processed_pages = Set.new
@@ -23,7 +23,7 @@ module Jekyll
           if Dir.exist?(section_path)
             process_section(site, lang, section, section_path, locale, base_url)
           else
-            Jekyll.logger.warn "LetterPageGenerator:", "Directory not found: #{section_path}"
+            Jekyll.logger.warn "PageGenerator:", "Directory not found: #{section_path}"
           end
         end
       end
@@ -34,7 +34,7 @@ module Jekyll
       if File.exist?(locale_file)
         YAML.load_file(locale_file)
       else
-        Jekyll.logger.warn "LetterPageGenerator:", "Locale file not found: #{locale_file}"
+        Jekyll.logger.warn "PageGenerator:", "Locale file not found: #{locale_file}"
         {}
       end
     end
@@ -60,7 +60,7 @@ module Jekyll
         page.data['hreflang_urls'] = generate_hreflang_urls(base_url, "/")
         site.pages << page
       else
-        Jekyll.logger.warn "LetterPageGenerator:", "Root page not found for language: #{lang}"
+        Jekyll.logger.warn "PageGenerator:", "Root page not found for language: #{lang}"
       end
     end
 
@@ -117,7 +117,7 @@ module Jekyll
       if File.exist?(yaml_file)
         YAML.load_file(yaml_file)
       else
-        Jekyll.logger.warn "LetterPageGenerator:", "Catalog YAML file not found: #{yaml_file}"
+        Jekyll.logger.warn "PageGenerator:", "Catalog YAML file not found: #{yaml_file}"
         []
       end
     end
@@ -134,10 +134,10 @@ module Jekyll
 
       letters = letters.sort.to_h
 
-      Jekyll.logger.info "LetterPageGenerator:", "Letters and counts: #{letters}"
+      Jekyll.logger.info "PageGenerator:", "Letters and counts: #{letters}"
 
       letters.each do |letter, count|
-        Jekyll.logger.info "LetterPageGenerator:", "Creating page for #{lang}/#{section}/#{letter} with #{count} posts"
+        Jekyll.logger.info "PageGenerator:", "Creating page for #{lang}/#{section}/#{letter} with #{count} posts"
         site.pages << LetterPage.new(site, site.source, lang, section, letter, locale, base_url)
     
         Dir.glob(File.join(section_path, letter, '*.md')).each do |file|
@@ -163,7 +163,7 @@ module Jekyll
       site.pages << page
       @processed_pages.add(file)
     rescue => e
-      Jekyll.logger.error "LetterPageGenerator:", "Error processing file #{file}: #{e.message}"
+      Jekyll.logger.error "PageGenerator:", "Error processing file #{file}: #{e.message}"
     end
 
     def extract_title_from_content(content)
@@ -178,7 +178,7 @@ module Jekyll
       count = Dir.glob(File.join(letter_path, '*.md')).count { |file| File.basename(file) != 'index.md' }
 
       @page_cache[cache_key] = count
-      Jekyll.logger.info "LetterPageGenerator:", "Counting posts for #{cache_key}: #{count}"
+      Jekyll.logger.info "PageGenerator:", "Counting posts for #{cache_key}: #{count}"
       count
     end
   end
@@ -196,7 +196,7 @@ module Jekyll
       if File.exist?(layout_file)
         self.read_yaml(File.dirname(layout_file), File.basename(layout_file))
       else
-          Jekyll.logger.warn "LetterPageGenerator:", "Layout file 'letter_index.html' not found"
+          Jekyll.logger.warn "PageGenerator:", "Layout file 'letter_index.html' not found"
           self.data = {}
       end
 
@@ -208,7 +208,7 @@ module Jekyll
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/#{letter}/"
       self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
-      self.data['hreflang_urls'] = LetterPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'])
+      self.data['hreflang_urls'] = AlgoTradingPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'])
     end
   end
 
@@ -224,7 +224,7 @@ module Jekyll
       if File.exist?(layout_file)
         self.read_yaml(File.dirname(layout_file), File.basename(layout_file))
       else
-        Jekyll.logger.warn "LetterPageGenerator:", "Layout file 'section_index.html' not found"
+        Jekyll.logger.warn "PageGenerator:", "Layout file 'section_index.html' not found"
         self.data = {}
       end
       self.data['layout'] = 'section_index'
@@ -239,7 +239,7 @@ module Jekyll
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/"
       self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
-      self.data['hreflang_urls'] = LetterPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'])
+      self.data['hreflang_urls'] = AlgoTradingPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'])
     end
   end
 
@@ -255,7 +255,7 @@ module Jekyll
       if File.exist?(layout_file)
         self.read_yaml(File.dirname(layout_file), File.basename(layout_file))
       else
-        Jekyll.logger.warn "LetterPageGenerator:", "Layout file 'catalog_index.html' not found"
+        Jekyll.logger.warn "PageGenerator:", "Layout file 'catalog_index.html' not found"
         self.data = {}
       end
       self.data['layout'] = 'catalog_index'
@@ -291,7 +291,7 @@ module Jekyll
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/"
       self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
-      self.data['hreflang_urls'] = LetterPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'])
+      self.data['hreflang_urls'] = AlgoTradingPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'])
 
       special_filters_file = File.join(base, lang, section, 'special_filters.yml')
       if File.exist?(special_filters_file)
