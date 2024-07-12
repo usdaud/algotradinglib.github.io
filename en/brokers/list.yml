@@ -688,14 +688,14 @@
   description: Cryptocurrency exchange platform
   logo: /assets/images/logos/dex_trade.png
   website: https://dex-trade.com/
-  pedia_link: /en/pedia/d/dex_trade.html
+  pedia_link: /en/pedia/d/dex-trade.html
   filters: [Crypto]
 
 - name: C-Patex
   description: Cryptocurrency exchange platform
   logo: /assets/images/logos/c_patex.png
   website: https://c-patex.com/
-  pedia_link: /en/pedia/c/c_patex.html
+  pedia_link: /en/pedia/c/c-patex.html
   filters: [Crypto]
 
 - name: Bitso
@@ -796,13 +796,6 @@
   pedia_link: /en/pedia/c/coinmetro.html
   filters: [Crypto]
 
-- name: CoinTiger
-  description: Singapore-based cryptocurrency exchange
-  logo: /assets/images/logos/cointiger.png
-  website: https://www.cointiger.com/
-  pedia_link: /en/pedia/c/cointiger.html
-  filters: [Crypto]
-
 - name: CoinBene
   description: Global cryptocurrency exchange
   logo: /assets/images/logos/coinbene.png
@@ -821,14 +814,7 @@
   description: Global cryptocurrency exchange
   logo: /assets/images/logos/btc_alpha.png
   website: https://btc-alpha.com/
-  pedia_link: /en/pedia/b/btc_alpha.html
-  filters: [Crypto]
-
-- name: ItBit
-  description: US-based cryptocurrency exchange
-  logo: /assets/images/logos/itbit.png
-  website: https://www.itbit.com/
-  pedia_link: /en/pedia/i/itbit.html
+  pedia_link: /en/pedia/b/btc-alpha.html
   filters: [Crypto]
 
 - name: LocalBitcoins
@@ -859,13 +845,6 @@
   pedia_link: /en/pedia/w/woo_network.html
   filters: [Crypto]
 
-- name: AAX
-  description: Cryptocurrency derivatives exchange
-  logo: /assets/images/logos/aax.png
-  website: https://www.aax.com/
-  pedia_link: /en/pedia/a/aax.html
-  filters: [Crypto]
-
 - name: BTCC
   description: Global cryptocurrency exchange
   logo: /assets/images/logos/btcc.png
@@ -878,13 +857,6 @@
   logo: /assets/images/logos/bitpanda.png
   website: https://www.bitpanda.com/en/pro
   pedia_link: /en/pedia/b/bitpanda_pro.html
-  filters: [Crypto]
-
-- name: ZBG
-  description: Global digital asset trading platform
-  logo: /assets/images/logos/zbg.png
-  website: https://www.zbg.com/
-  pedia_link: /en/pedia/z/zbg.html
   filters: [Crypto]
 
 - name: Paribu
