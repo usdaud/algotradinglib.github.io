@@ -1,4 +1,4 @@
-# BtcTurk | Pro
+# BtcTurk
 
 BtcTurk | Pro is a professional cryptocurrency trading platform that serves as an advanced, feature-rich extension of BtcTurk, one of Turkey's oldest and most recognized cryptocurrency exchanges. Tailored to meet the needs of seasoned traders and investors, BtcTurk | Pro offers a comprehensive suite of tools and functionalities designed to provide a seamless and efficient trading experience.
 
