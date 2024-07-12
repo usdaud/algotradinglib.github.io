@@ -3,6 +3,7 @@ module Jekyll
     safe true
 
     SECTIONS = ['pedia', 'soft', 'brokers', 'market-data', 'community']
+    LANGUAGES = ['en', 'ru', 'zh']
 
     def generate(site)
       Jekyll.logger.info "LetterPageGenerator:", "Total pages: #{site.pages.size}"
@@ -11,9 +12,7 @@ module Jekyll
       @processed_pages = Set.new
       base_url = site.config['url'] || ''
 
-      languages = ['en', 'ru', 'zh']
-      
-      languages.each do |lang|
+      LANGUAGES.each do |lang|
         locale = load_locale(site, lang)
 
         process_root_page(site, lang, locale, base_url)
@@ -40,6 +39,15 @@ module Jekyll
       end
     end
 
+    def generate_hreflang_urls(base_url, path)
+      LANGUAGES.map do |lang|
+        {
+          'lang' => lang,
+          'url' => "#{base_url}/#{lang}#{path}"
+        }
+      end
+    end
+
     def process_root_page(site, lang, locale, base_url)
       root_file = File.join(site.source, lang, 'index.md')
       if File.exist?(root_file)
@@ -49,6 +57,7 @@ module Jekyll
         page.data['lang'] = lang
         page.data['locale'] = locale
         page.data['canonical_url'] = "#{base_url}/#{lang}/"
+        page.data['hreflang_urls'] = generate_hreflang_urls(base_url, "/")
         site.pages << page
       else
         Jekyll.logger.warn "LetterPageGenerator:", "Root page not found for language: #{lang}"
@@ -67,6 +76,7 @@ module Jekyll
       page.data['locale'] = locale
       page.data['permalink'] = "/#{lang}/subscribe/"
       page.data['canonical_url'] = "#{base_url}#{page.data['permalink']}"
+      page.data['hreflang_urls'] = generate_hreflang_urls(base_url, "/subscribe/")
       site.pages << page
     end
 
@@ -146,13 +156,10 @@ module Jekyll
       page = Jekyll::Page.new(site, site.source, File.dirname(file), File.basename(file))
       page.data['layout'] = 'base'
       page.data['title'] = title if title
-  
       page.data['lang'] = lang
       page.data['locale'] = locale
-
       page.data['permalink'] = "/#{file.sub(site.source + '/', '').sub('.md', '.html')}"
-      page.data['canonical_url'] = "#{base_url}#{page.data['permalink']}"
-  
+
       site.pages << page
       @processed_pages.add(file)
     rescue => e
@@ -201,6 +208,7 @@ module Jekyll
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/#{letter}/"
       self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
+      self.data['hreflang_urls'] = LetterPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'])
     end
   end
 
@@ -231,6 +239,7 @@ module Jekyll
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/"
       self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
+      self.data['hreflang_urls'] = LetterPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'])
     end
   end
 
@@ -282,6 +291,7 @@ module Jekyll
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/"
       self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
+      self.data['hreflang_urls'] = LetterPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'])
 
       special_filters_file = File.join(base, lang, section, 'special_filters.yml')
       if File.exist?(special_filters_file)
