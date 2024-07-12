@@ -13,8 +13,8 @@
   website: https://atas.net/
   pedia_link: /en/pedia/a/atas.html
   filters: [Charting, Live trading, Realtime data, C#]
-  supported_data_providers: [CQG, IQFeed, Interactive Brokers, Rithmic]
-  supported_brokers: [Interactive Brokers, CQG, Rithmic, AMP, LMAX, Binance]
+  supported_data_providers: [CQG, IQFeed, Interactive Brokers, Rithmic, DxFeed]
+  supported_brokers: [Interactive Brokers, CQG, Rithmic, Binance, Bitmex, ByBit, Exante]
 
 - name: Backtrader
   description: Python framework for backtesting trading strategies
@@ -23,8 +23,8 @@
   pedia_link: /en/pedia/b/backtrader.html
   github: https://github.com/mementum/backtrader
   filters: [Free, Backtesting, Paper Trading, OpenSource, Python]
-  supported_data_providers: [Yahoo Finance, Interactive Brokers, Oanda, Quandl]
-  supported_brokers: [Interactive Brokers, Oanda]
+  supported_data_providers: [Yahoo Finance, Quandl]
+  supported_brokers: [Interactive Brokers]
 
 - name: BlueShift
   description: Algorithmic trading platform by Blueshift Asset Management
@@ -32,8 +32,8 @@
   website: https://blueshift.com/
   pedia_link: /en/pedia/b/blueshift.html
   filters: [API, Backtesting, Live trading, Python]
-  supported_data_providers: [Alpaca, IEX Cloud, Polygon.io]
-  supported_brokers: [Alpaca]
+  supported_data_providers: [IEX Cloud, Polygon.io]
+  supported_brokers: []
 
 - name: cTrader
   description: Advanced trading platform for forex and CFD trading
@@ -42,7 +42,7 @@
   pedia_link: /en/pedia/c/ctrader.html
   filters: [API, Live trading, Paper Trading, C#]
   supported_data_providers: []
-  supported_brokers: [IC Markets, Pepperstone, FxPro, Axiory, FXCM]
+  supported_brokers: []
 
 - name: ChartIQ
   description: HTML5 charting and technical analysis software
@@ -113,7 +113,7 @@
   website: https://ibridgepy.com/
   pedia_link: /en/pedia/i/ibridgepy.html
   filters: [API, Live trading, Paper Trading, Stock, Python]
-  supported_data_providers: [Interactive Brokers, Yahoo Finance, TD Ameritrade]
+  supported_data_providers: []
   supported_brokers: [Interactive Brokers]
 
 - name: JForex
@@ -122,7 +122,7 @@
   website: https://www.dukascopy.com/europe/english/forex/jforex/
   pedia_link: /en/pedia/j/jforex.html
   filters: [API, Live trading, Backtesting, Java]
-  supported_data_providers: [Dukascopy]
+  supported_data_providers: []
   supported_brokers: [Dukascopy]
 
 - name: Jigsaw Trading
@@ -131,7 +131,7 @@
   website: https://www.jigsawtrading.com/
   pedia_link: /en/pedia/j/jigsaw_trading.html
   filters: [Live trading, Realtime data]
-  supported_data_providers: [CQG, Rithmic]
+  supported_data_providers: [CQG]
   supported_brokers: [Interactive Brokers, AMP, Dorman Trading, Interactive Brokers, Optimus Futures, Wedbush]
 
 - name: Kite by Zerodha
@@ -140,7 +140,7 @@
   website: https://kite.zerodha.com/
   pedia_link: /en/pedia/k/kite_zerodha.html
   filters: [API, Live trading, Stock]
-  supported_data_providers: [Zerodha]
+  supported_data_providers: []
   supported_brokers: [Zerodha]
 
 - name: Lightweight Charts
@@ -170,7 +170,7 @@
   github: https://github.com/marketcetera/marketcetera
   filters: [OpenSource, Java, Live trading, API]
   supported_data_providers: []
-  supported_brokers: [Interactive Brokers]
+  supported_brokers: []
 
 - name: MetaTrader 4
   description: Popular forex and CFD trading platform
@@ -196,8 +196,8 @@
   website: https://www.motivewave.com/
   pedia_link: /en/pedia/m/motivewave.html
   filters: [Charting, Live trading, Backtesting, Java]
-  supported_data_providers: [CQG, IQFeed, Interactive Brokers, TradeStation, eSignal, Rithmic]
-  supported_brokers: [Interactive Brokers, TradeStation, CQG, Rithmic, FXCM]
+  supported_data_providers: [CQG, IQFeed]
+  supported_brokers: [Interactive Brokers, TradeStation, CQG, Rithmic, FXCM, Binance, BitStamp, Rithmic]
 
 - name: MultiCharts
   description: Professional trading platform for technical analysis and automated trading
@@ -205,8 +205,8 @@
   website: https://www.multicharts.com/
   pedia_link: /en/pedia/m/multicharts.html
   filters: [Charting, Live trading, Backtesting, C#]
-  supported_data_providers: [Interactive Brokers, IQFeed, CQG, eSignal, Rithmic, Bloomberg]
-  supported_brokers: [Interactive Brokers, TradeStation, Rithmic, CQG, TD Ameritrade]
+  supported_data_providers: [IQFeed, CQG, eSignal, Bloomberg]
+  supported_brokers: [Interactive Brokers, TradeStation, Rithmic, CQG, Ameritrade]
 
 - name: NinjaTrader
   description: Trading and charting software for active traders
@@ -214,8 +214,8 @@
   website: https://ninjatrader.com/
   pedia_link: /en/pedia/n/ninjatrader.html
   filters: [Live trading, Backtesting, Charting, C#]
-  supported_data_providers: [CQG, Kinetick, Rithmic]
-  supported_brokers: [NinjaTrader Brokerage, CQG, Rithmic, Interactive Brokers, TD Ameritrade]
+  supported_data_providers: [CQG, Kinetick]
+  supported_brokers: [NinjaTrader Brokerage, CQG, Rithmic, Interactive Brokers, Ameritrade]
 
 - name: NautilusTrader
   description: High-performance algorithmic trading framework
@@ -252,8 +252,8 @@
   pedia_link: /en/pedia/q/quantconnect.html
   github: https://github.com/QuantConnect/Lean
   filters: [Backtesting, Live trading, Historical Data, API, OpenSource, Python, C#]
-  supported_data_providers: []
-  supported_brokers: [Interactive Brokers, OANDA, Bitfinex, Coinbase, Alpaca]
+  supported_data_providers: [Polygon.io, IQFeed, IEX Cloud]
+  supported_brokers: [Interactive Brokers, OANDA, Bitfinex, Binance, Coinbase, Alpaca, ByBit, Kraken, Samco, Zerodha, Tradier]
 
 - name: QuantHouse
   description: Market data and trading infrastructure provider
@@ -280,8 +280,8 @@
   website: https://www.quantrocket.com/
   pedia_link: /en/pedia/q/quantrocket.html
   filters: [Backtesting, Live trading, API, Python]
-  supported_data_providers: [Interactive Brokers, IEX Cloud, Alpaca]
-  supported_brokers: [Interactive Brokers]
+  supported_data_providers: [IEX Cloud]
+  supported_brokers: [Interactive Brokers, Alpaca]
 
 - name: QuantShare
   description: Backtesting and automated trading software
@@ -307,8 +307,8 @@
   website: https://www.sierrachart.com/
   pedia_link: /en/pedia/s/sierra_chart.html
   filters: [Charting, Live trading, Backtesting, C++]
-  supported_data_providers: [CQG, Rithmic, IQFeed, Interactive Brokers, Kinetick]
-  supported_brokers: [Interactive Brokers, AMP Futures, Dorman Trading]
+  supported_data_providers: [CQG, IQFeed, Kinetick]
+  supported_brokers: [Interactive Brokers, AMP Futures, Dorman Trading, Rithmic]
 
 - name: Sterling Trader
   description: Professional direct access trading platform
@@ -326,8 +326,8 @@
   pedia_link: /en/pedia/s/stocksharp.html
   github: https://github.com/StockSharp/StockSharp
   filters: [OpenSource, Free, Historical Data, API, Backtesting, Live trading, C#]
-  supported_data_providers: [IQFeed, IEX, Quandl, Yahoo Finance, Finam]
-  supported_brokers: [Interactive Brokers, FXCM, OANDA, Binance, LMAX]
+  supported_data_providers: [IQFeed, Yahoo Finance, Finam, Polygon.io, Barchart, DxFeed]
+  supported_brokers: [Interactive Brokers, OANDA, Binance, LMAX, Rithmic, Alor, Tinkoff, Alpaca, Exante, Bitmex, ByBit, OKX, Bithumb, BitMart, Upbit, Tradier, Coinbase, Kraken, Bitfinex, KuCoin, LBank, DigiFinex, LATOKEN, Coincheck, Bitbank, ZB.COM, CoinEx, Exmo, CoinBene, Zaif]
 
 - name: ThinkOrSwim
   description: Advanced trading platform by TD Ameritrade
