@@ -6,7 +6,7 @@ In the realms of trading and finance, the Z-Score stands as a fundamental statis
 
 The Z-Score is calculated using the formula:
 
-\[ Z = \frac{{X - \mu}}{{\sigma}} \]
+\[ Z = \frac{X - \mu}{\sigma} \]
 
 where:
 - \( Z \) is the Z-Score,
@@ -71,7 +71,7 @@ High-frequency trading firms utilize Z-Scores for rapid decision-making processe
 
 ### Credit Scoring and Risk Management
 
-Fintech companies such as credit scoring firms (e.g., FICO), employ Z-Scores to measure the relative risk of individual clients. By evaluating how a clientâ€™s credit characteristics deviate from the mean profile of other clients, firms can make more informed lending decisions.
+Fintech companies such as credit scoring firms (e.g., FICO), employ Z-Scores to measure the relative risk of individual clients. By evaluating how a client’s credit characteristics deviate from the mean profile of other clients, firms can make more informed lending decisions.
 
 For further details on companies employing such technologies, visit:
 [https://www.fico.com](https://www.fico.com)
