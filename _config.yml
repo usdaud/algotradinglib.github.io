@@ -27,4 +27,4 @@ include:
   - "*/locales.yml"
 
 generators:
-  - LetterPageGenerator
+  - AlgoTradingPageGenerator
