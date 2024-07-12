@@ -1,4 +1,4 @@
-# Understanding the 2-1 Buydown in Mortgage Financing
+# 2-1 Buydown
 
 In the world of mortgage financing, various strategies and product features are designed to make home buying more accessible and affordable for different types of borrowers. One such product is the 2-1 Buydown, a mortgage financing technique that seeks to ease homeowners into their mortgage payments gradually. This approach has gained recognition for its ability to help borrowers manage their finances effectively during the initial years of homeownership.
 
