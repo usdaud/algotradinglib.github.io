@@ -128,16 +128,16 @@ module Jekyll
 
       letters.each do |letter, count|
         Jekyll.logger.info "LetterPageGenerator:", "Creating page for #{lang}/#{section}/#{letter} with #{count} posts"
-        site.pages << LetterPage.new(site, site.source, lang, section, letter, locale)
+        site.pages << LetterPage.new(site, site.source, lang, section, letter, locale, base_url)
     
         Dir.glob(File.join(section_path, letter, '*.md')).each do |file|
-          process_markdown_file(site, file, lang, locale)
+          process_markdown_file(site, file, lang, locale, base_url)
         end
       end
       site.pages << PediaIndexPage.new(site, site.source, lang, section, letters, locale, base_url)
     end
 
-    def process_markdown_file(site, file, lang, locale)
+    def process_markdown_file(site, file, lang, locale, base_url)
       return if @processed_pages.include?(file)
       
       content = File.read(file, encoding: 'utf-8')
@@ -151,6 +151,7 @@ module Jekyll
       page.data['locale'] = locale
 
       page.data['permalink'] = "/#{file.sub(site.source + '/', '').sub('.md', '.html')}"
+      page.data['canonical_url'] = "#{base_url}#{page.data['permalink']}"
   
       site.pages << page
       @processed_pages.add(file)
@@ -176,7 +177,7 @@ module Jekyll
   end
 
   class LetterPage < Page
-    def initialize(site, base, lang, section, letter, locale)
+    def initialize(site, base, lang, section, letter, locale, base_url)
       @site = site
       @base = base
       @dir  = File.join(lang, section, letter)
@@ -199,6 +200,7 @@ module Jekyll
       self.data['locale'] = locale
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/#{letter}/index.html"
+      self.data['canonical_url'] = "#{base_url}/#{lang}/#{section}/#{letter}/"
     end
   end
 
