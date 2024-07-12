@@ -74,7 +74,7 @@ module Jekyll
       if ['soft', 'market-data', 'brokers', 'community'].include?(section)
         process_catalog_section(site, lang, section, section_path, locale, base_url)
       else
-        process_regular_section(site, lang, section, section_path, locale, base_url)
+        process_pedia_section(site, lang, section, section_path, locale, base_url)
       end
     end
 
@@ -112,7 +112,7 @@ module Jekyll
       end
     end
 
-    def process_regular_section(site, lang, section, section_path, locale, base_url)
+    def process_pedia_section(site, lang, section, section_path, locale, base_url)
       letters = {}
       Dir.glob(File.join(section_path, '*')).each do |letter_path|
         if File.directory?(letter_path)
@@ -134,7 +134,7 @@ module Jekyll
           process_markdown_file(site, file, lang, locale)
         end
       end
-      site.pages << SectionIndexPage.new(site, site.source, lang, section, letters, locale, base_url)
+      site.pages << PediaIndexPage.new(site, site.source, lang, section, letters, locale, base_url)
     end
 
     def process_markdown_file(site, file, lang, locale)
@@ -202,7 +202,7 @@ module Jekyll
     end
   end
 
-  class SectionIndexPage < Page
+  class PediaIndexPage < Page
     def initialize(site, base, lang, section, letters, locale, base_url)
       @site = site
       @base = base
