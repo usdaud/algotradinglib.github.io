@@ -39,8 +39,8 @@ module Jekyll
       end
     end
 
-    def generate_hreflang_urls(base_url, path)
-      LANGUAGES.map do |lang|
+    def generate_hreflang_urls(base_url, path, current_lang)
+      LANGUAGES.reject { |lang| lang == current_lang }.map do |lang|
         {
           'lang' => lang,
           'url' => "#{base_url}/#{lang}#{path}"
@@ -57,7 +57,7 @@ module Jekyll
         page.data['lang'] = lang
         page.data['locale'] = locale
         page.data['canonical_url'] = "#{base_url}/#{lang}/"
-        page.data['hreflang_urls'] = generate_hreflang_urls(base_url, "/")
+        page.data['hreflang_urls'] = generate_hreflang_urls(base_url, "/", lang)
         site.pages << page
       else
         Jekyll.logger.warn "PageGenerator:", "Root page not found for language: #{lang}"
@@ -76,7 +76,7 @@ module Jekyll
       page.data['locale'] = locale
       page.data['permalink'] = "/#{lang}/subscribe/"
       page.data['canonical_url'] = "#{base_url}#{page.data['permalink']}"
-      page.data['hreflang_urls'] = generate_hreflang_urls(base_url, "/subscribe/")
+      page.data['hreflang_urls'] = generate_hreflang_urls(base_url, "/subscribe/", lang)
       site.pages << page
     end
 
@@ -238,7 +238,7 @@ module Jekyll
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/"
       self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
-      self.data['hreflang_urls'] = AlgoTradingPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'])
+      self.data['hreflang_urls'] = AlgoTradingPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'], lang)
     end
   end
 
@@ -290,7 +290,7 @@ module Jekyll
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/"
       self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
-      self.data['hreflang_urls'] = AlgoTradingPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'])
+      self.data['hreflang_urls'] = AlgoTradingPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'], lang)
 
       special_filters_file = File.join(base, lang, section, 'special_filters.yml')
       if File.exist?(special_filters_file)
