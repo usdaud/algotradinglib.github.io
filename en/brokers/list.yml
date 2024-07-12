@@ -354,3 +354,556 @@
   website: https://www.finam.ru/
   pedia_link: /en/pedia/f/finam.html
   filters: [Stock, Forex, Futures]
+
+- name: OKX
+  description: Seychelles-based cryptocurrency exchange
+  logo: /assets/images/logos/okx.png
+  website: https://www.okx.com/
+  pedia_link: /en/pedia/o/okx.html
+  filters: [Crypto]
+
+- name: Bybit
+  description: Cryptocurrency derivatives exchange
+  logo: /assets/images/logos/bybit.png
+  website: https://www.bybit.com/
+  pedia_link: /en/pedia/b/bybit.html
+  filters: [Crypto]
+
+- name: Upbit
+  description: South Korean cryptocurrency exchange
+  logo: /assets/images/logos/upbit.png
+  website: https://upbit.com/
+  pedia_link: /en/pedia/u/upbit.html
+  filters: [Crypto]
+
+- name: Kraken
+  description: US-based cryptocurrency exchange and bank
+  logo: /assets/images/logos/kraken.png
+  website: https://www.kraken.com/
+  pedia_link: /en/pedia/k/kraken.html
+  filters: [Crypto]
+
+- name: Gate.io
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/gate_io.png
+  website: https://www.gate.io/
+  pedia_link: /en/pedia/g/gate_io.html
+  filters: [Crypto]
+
+- name: HTX
+  description: Global digital asset exchange
+  logo: /assets/images/logos/htx.png
+  website: https://www.htx.com/
+  pedia_link: /en/pedia/h/htx.html
+  filters: [Crypto]
+
+- name: Bitfinex
+  description: Hong Kong-based cryptocurrency exchange
+  logo: /assets/images/logos/bitfinex.png
+  website: https://www.bitfinex.com/
+  pedia_link: /en/pedia/b/bitfinex.html
+  filters: [Crypto]
+
+- name: KuCoin
+  description: Seychelles-based cryptocurrency exchange
+  logo: /assets/images/logos/kucoin.png
+  website: https://www.kucoin.com/
+  pedia_link: /en/pedia/k/kucoin.html
+  filters: [Crypto]
+
+- name: MEXC
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/mexc.png
+  website: https://www.mexc.com/
+  pedia_link: /en/pedia/m/mexc.html
+  filters: [Crypto]
+
+- name: Bitget
+  description: Singapore-based cryptocurrency exchange
+  logo: /assets/images/logos/bitget.png
+  website: https://www.bitget.com/
+  pedia_link: /en/pedia/b/bitget.html
+  filters: [Crypto]
+
+- name: Crypto.com Exchange
+  description: Cryptocurrency exchange platform by Crypto.com
+  logo: /assets/images/logos/crypto_com.png
+  website: https://crypto.com/exchange
+  pedia_link: /en/pedia/c/crypto_com_exchange.html
+  filters: [Crypto]
+
+- name: BingX
+  description: Global digital asset exchange
+  logo: /assets/images/logos/bingx.png
+  website: https://www.bingx.com/
+  pedia_link: /en/pedia/b/bingx.html
+  filters: [Crypto]
+
+- name: Bitstamp
+  description: Luxembourg-based cryptocurrency exchange
+  logo: /assets/images/logos/bitstamp.png
+  website: https://www.bitstamp.net/
+  pedia_link: /en/pedia/b/bitstamp.html
+  filters: [Crypto]
+
+- name: LBank
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/lbank.png
+  website: https://www.lbank.info/
+  pedia_link: /en/pedia/l/lbank.html
+  filters: [Crypto]
+
+- name: BitMart
+  description: Global cryptocurrency trading platform
+  logo: /assets/images/logos/bitmart.png
+  website: https://www.bitmart.com/
+  pedia_link: /en/pedia/b/bitmart.html
+  filters: [Crypto]
+
+- name: Bithumb
+  description: South Korean cryptocurrency exchange
+  logo: /assets/images/logos/bithumb.png
+  website: https://www.bithumb.com/
+  pedia_link: /en/pedia/b/bithumb.html
+  filters: [Crypto]
+
+- name: Gemini
+  description: US-based cryptocurrency exchange and custodian
+  logo: /assets/images/logos/gemini.png
+  website: https://www.gemini.com/
+  pedia_link: /en/pedia/g/gemini.html
+  filters: [Crypto]
+
+- name: Tokocrypto
+  description: Indonesian cryptocurrency exchange
+  logo: /assets/images/logos/tokocrypto.png
+  website: https://www.tokocrypto.com/
+  pedia_link: /en/pedia/t/tokocrypto.html
+  filters: [Crypto]
+
+- name: bitFlyer
+  description: Japanese cryptocurrency exchange
+  logo: /assets/images/logos/bitflyer.png
+  website: https://bitflyer.com/
+  pedia_link: /en/pedia/b/bitflyer.html
+  filters: [Crypto]
+
+- name: XT.COM
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/xt_com.png
+  website: https://www.xt.com/
+  pedia_link: /en/pedia/x/xt_com.html
+  filters: [Crypto]
+
+- name: Deepcoin
+  description: Cryptocurrency derivatives exchange
+  logo: /assets/images/logos/deepcoin.png
+  website: https://www.deepcoin.com/
+  pedia_link: /en/pedia/d/deepcoin.html
+  filters: [Crypto]
+
+- name: DigiFinex
+  description: Singapore-based cryptocurrency exchange
+  logo: /assets/images/logos/digifinex.png
+  website: https://www.digifinex.com/
+  pedia_link: /en/pedia/d/digifinex.html
+  filters: [Crypto]
+
+- name: ProBit Global
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/probit.png
+  website: https://www.probit.com/
+  pedia_link: /en/pedia/p/probit_global.html
+  filters: [Crypto]
+
+- name: HashKey Global
+  description: Digital asset financial services group
+  logo: /assets/images/logos/hashkey.png
+  website: https://www.hashkey.com/
+  pedia_link: /en/pedia/h/hashkey_global.html
+  filters: [Crypto]
+
+- name: AscendEX (BitMax)
+  description: Singapore-based cryptocurrency exchange
+  logo: /assets/images/logos/ascendex.png
+  website: https://ascendex.com/
+  pedia_link: /en/pedia/a/ascendex.html
+  filters: [Crypto]
+
+- name: Bitvavo
+  description: Dutch cryptocurrency exchange
+  logo: /assets/images/logos/bitvavo.png
+  website: https://bitvavo.com/
+  pedia_link: /en/pedia/b/bitvavo.html
+  filters: [Crypto]
+
+- name: P2B
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/p2b.png
+  website: https://p2pb2b.io/
+  pedia_link: /en/pedia/p/p2b.html
+  filters: [Crypto]
+
+- name: BitVenus
+  description: Cryptocurrency exchange platform
+  logo: /assets/images/logos/bitvenus.png
+  website: https://www.bitvenus.me/
+  pedia_link: /en/pedia/b/bitvenus.html
+  filters: [Crypto]
+
+- name: CoinW
+  description: Global digital asset trading platform
+  logo: /assets/images/logos/coinw.png
+  website: https://www.coinw.com/
+  pedia_link: /en/pedia/c/coinw.html
+  filters: [Crypto]
+
+- name: LATOKEN
+  description: Cryptocurrency exchange and IEO platform
+  logo: /assets/images/logos/latoken.png
+  website: https://latoken.com/
+  pedia_link: /en/pedia/l/latoken.html
+  filters: [Crypto]
+
+- name: KCEX
+  description: Korean cryptocurrency exchange
+  logo: /assets/images/logos/kcex.png
+  website: https://www.kcex.com/
+  pedia_link: /en/pedia/k/kcex.html
+  filters: [Crypto]
+
+- name: OrangeX
+  description: Cryptocurrency exchange platform
+  logo: /assets/images/logos/orangex.png
+  website: https://orangex.com/
+  pedia_link: /en/pedia/o/orangex.html
+  filters: [Crypto]
+
+- name: Toobit
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/toobit.png
+  website: https://www.toobit.com/
+  pedia_link: /en/pedia/t/toobit.html
+  filters: [Crypto]
+
+- name: WhiteBIT
+  description: European cryptocurrency exchange
+  logo: /assets/images/logos/whitebit.png
+  website: https://whitebit.com/
+  pedia_link: /en/pedia/w/whitebit.html
+  filters: [Crypto]
+
+- name: Biconomy Exchange
+  description: Cryptocurrency exchange platform
+  logo: /assets/images/logos/biconomy.png
+  website: https://www.biconomy.com/
+  pedia_link: /en/pedia/b/biconomy_exchange.html
+  filters: [Crypto]
+
+- name: FameEX
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/fameex.png
+  website: https://www.fameex.com/
+  pedia_link: /en/pedia/f/fameex.html
+  filters: [Crypto]
+
+- name: Hotcoin
+  description: Global digital asset exchange
+  logo: /assets/images/logos/hotcoin.png
+  website: https://www.hotcoin.com/
+  pedia_link: /en/pedia/h/hotcoin.html
+  filters: [Crypto]
+
+- name: CITEX
+  description: Cryptocurrency exchange platform
+  logo: /assets/images/logos/citex.png
+  website: https://www.citex.io/
+  pedia_link: /en/pedia/c/citex.html
+  filters: [Crypto]
+
+- name: Bitrue
+  description: Singapore-based cryptocurrency exchange
+  logo: /assets/images/logos/bitrue.png
+  website: https://www.bitrue.com/
+  pedia_link: /en/pedia/b/bitrue.html
+  filters: [Crypto]
+
+- name: Tapbit
+  description: Cryptocurrency derivatives exchange
+  logo: /assets/images/logos/tapbit.png
+  website: https://www.tapbit.com/
+  pedia_link: /en/pedia/t/tapbit.html
+  filters: [Crypto]
+
+- name: Pionex
+  description: Cryptocurrency exchange with built-in trading bots
+  logo: /assets/images/logos/pionex.png
+  website: https://www.pionex.com/
+  pedia_link: /en/pedia/p/pionex.html
+  filters: [Crypto]
+
+- name: WEEX
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/weex.png
+  website: https://weex.com/
+  pedia_link: /en/pedia/w/weex.html
+  filters: [Crypto]
+
+- name: Coincheck
+  description: Japanese cryptocurrency exchange
+  logo: /assets/images/logos/coincheck.png
+  website: https://coincheck.com/
+  pedia_link: /en/pedia/c/coincheck.html
+  filters: [Crypto]
+
+- name: Coinone
+  description: South Korean cryptocurrency exchange
+  logo: /assets/images/logos/coinone.png
+  website: https://coinone.co.kr/
+  pedia_link: /en/pedia/c/coinone.html
+  filters: [Crypto]
+
+- name: BitMEX
+  description: Cryptocurrency derivatives exchange
+  logo: /assets/images/logos/bitmex.png
+  website: https://www.bitmex.com/
+  pedia_link: /en/pedia/b/bitmex.html
+  filters: [Crypto]
+
+- name: Phemex
+  description: Cryptocurrency derivatives exchange
+  logo: /assets/images/logos/phemex.png
+  website: https://phemex.com/
+  pedia_link: /en/pedia/p/phemex.html
+  filters: [Crypto]
+
+- name: Coinstore
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/coinstore.png
+  website: https://www.coinstore.com/
+  pedia_link: /en/pedia/c/coinstore.html
+  filters: [Crypto]
+
+- name: Dex-Trade
+  description: Cryptocurrency exchange platform
+  logo: /assets/images/logos/dex_trade.png
+  website: https://dex-trade.com/
+  pedia_link: /en/pedia/d/dex_trade.html
+  filters: [Crypto]
+
+- name: C-Patex
+  description: Cryptocurrency exchange platform
+  logo: /assets/images/logos/c_patex.png
+  website: https://c-patex.com/
+  pedia_link: /en/pedia/c/c_patex.html
+  filters: [Crypto]
+
+- name: Bitso
+  description: Latin American cryptocurrency exchange
+  logo: /assets/images/logos/bitso.png
+  website: https://bitso.com/
+  pedia_link: /en/pedia/b/bitso.html
+  filters: [Crypto]
+
+- name: Currency.com
+  description: Regulated tokenized securities exchange
+  logo: /assets/images/logos/currency_com.png
+  website: https://currency.com/
+  pedia_link: /en/pedia/c/currency_com.html
+  filters: [Crypto]
+
+- name: PointPay
+  description: Blockchain-based banking platform
+  logo: /assets/images/logos/pointpay.png
+  website: https://pointpay.io/
+  pedia_link: /en/pedia/p/pointpay.html
+  filters: [Crypto]
+
+- name: Bitbank
+  description: Japanese cryptocurrency exchange
+  logo: /assets/images/logos/bitbank.png
+  website: https://bitbank.cc/
+  pedia_link: /en/pedia/b/bitbank.html
+  filters: [Crypto]
+
+- name: Indodax
+  description: Indonesian cryptocurrency exchange
+  logo: /assets/images/logos/indodax.png
+  website: https://indodax.com/
+  pedia_link: /en/pedia/i/indodax.html
+  filters: [Crypto]
+
+- name: ZB.COM
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/zb_com.png
+  website: https://www.zb.com/
+  pedia_link: /en/pedia/z/zb_com.html
+  filters: [Crypto]
+
+- name: BtcTurk
+  description: Turkish cryptocurrency exchange
+  logo: /assets/images/logos/btcturk.png
+  website: https://pro.btcturk.com/
+  pedia_link: /en/pedia/b/btcturk_pro.html
+  filters: [Crypto]
+
+- name: Bitkub
+  description: Thai cryptocurrency exchange
+  logo: /assets/images/logos/bitkub.png
+  website: https://www.bitkub.com/
+  pedia_link: /en/pedia/b/bitkub.html
+  filters: [Crypto]
+
+- name: WazirX
+  description: Indian cryptocurrency exchange
+  logo: /assets/images/logos/wazirx.png
+  website: https://wazirx.com/
+  pedia_link: /en/pedia/w/wazirx.html
+  filters: [Crypto]
+
+- name: CoinEx
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/coinex.png
+  website: https://www.coinex.com/
+  pedia_link: /en/pedia/c/coinex.html
+  filters: [Crypto]
+
+- name: Luno
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/luno.png
+  website: https://www.luno.com/
+  pedia_link: /en/pedia/l/luno.html
+  filters: [Crypto]
+
+- name: NovaDAX
+  description: Brazilian cryptocurrency exchange
+  logo: /assets/images/logos/novadax.png
+  website: https://www.novadax.com/
+  pedia_link: /en/pedia/n/novadax.html
+  filters: [Crypto]
+
+- name: Exmo
+  description: European cryptocurrency exchange
+  logo: /assets/images/logos/exmo.png
+  website: https://exmo.com/
+  pedia_link: /en/pedia/e/exmo.html
+  filters: [Crypto]
+
+- name: CoinMetro
+  description: European cryptocurrency exchange
+  logo: /assets/images/logos/coinmetro.png
+  website: https://coinmetro.com/
+  pedia_link: /en/pedia/c/coinmetro.html
+  filters: [Crypto]
+
+- name: CoinTiger
+  description: Singapore-based cryptocurrency exchange
+  logo: /assets/images/logos/cointiger.png
+  website: https://www.cointiger.com/
+  pedia_link: /en/pedia/c/cointiger.html
+  filters: [Crypto]
+
+- name: CoinBene
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/coinbene.png
+  website: https://www.coinbene.com/
+  pedia_link: /en/pedia/c/coinbene.html
+  filters: [Crypto]
+
+- name: BtcMarkets
+  description: Australian cryptocurrency exchange
+  logo: /assets/images/logos/btcmarkets.png
+  website: https://www.btcmarkets.net/
+  pedia_link: /en/pedia/b/btcmarkets.html
+  filters: [Crypto]
+
+- name: BTC-Alpha
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/btc_alpha.png
+  website: https://btc-alpha.com/
+  pedia_link: /en/pedia/b/btc_alpha.html
+  filters: [Crypto]
+
+- name: ItBit
+  description: US-based cryptocurrency exchange
+  logo: /assets/images/logos/itbit.png
+  website: https://www.itbit.com/
+  pedia_link: /en/pedia/i/itbit.html
+  filters: [Crypto]
+
+- name: LocalBitcoins
+  description: Peer-to-peer Bitcoin marketplace
+  logo: /assets/images/logos/localbitcoins.png
+  website: https://localbitcoins.com/
+  pedia_link: /en/pedia/l/localbitcoins.html
+  filters: [Crypto]
+
+- name: Liquid
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/liquid.png
+  website: https://www.liquid.com/
+  pedia_link: /en/pedia/l/liquid.html
+  filters: [Crypto]
+
+- name: Zaif
+  description: Japanese cryptocurrency exchange
+  logo: /assets/images/logos/zaif.png
+  website: https://zaif.jp/
+  pedia_link: /en/pedia/z/zaif.html
+  filters: [Crypto]
+
+- name: WOO Network
+  description: Decentralized trading network
+  logo: /assets/images/logos/woo_network.png
+  website: https://woo.org/
+  pedia_link: /en/pedia/w/woo_network.html
+  filters: [Crypto]
+
+- name: AAX
+  description: Cryptocurrency derivatives exchange
+  logo: /assets/images/logos/aax.png
+  website: https://www.aax.com/
+  pedia_link: /en/pedia/a/aax.html
+  filters: [Crypto]
+
+- name: BTCC
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/btcc.png
+  website: https://www.btcc.com/
+  pedia_link: /en/pedia/b/btcc.html
+  filters: [Crypto]
+
+- name: Bitpanda Pro
+  description: European cryptocurrency exchange
+  logo: /assets/images/logos/bitpanda.png
+  website: https://www.bitpanda.com/en/pro
+  pedia_link: /en/pedia/b/bitpanda_pro.html
+  filters: [Crypto]
+
+- name: ZBG
+  description: Global digital asset trading platform
+  logo: /assets/images/logos/zbg.png
+  website: https://www.zbg.com/
+  pedia_link: /en/pedia/z/zbg.html
+  filters: [Crypto]
+
+- name: Paribu
+  description: Turkish cryptocurrency exchange
+  logo: /assets/images/logos/paribu.png
+  website: https://www.paribu.com/
+  pedia_link: /en/pedia/p/paribu.html
+  filters: [Crypto]
+
+- name: Bitforex
+  description: Global cryptocurrency exchange
+  logo: /assets/images/logos/bitforex.png
+  website: https://www.bitforex.com/
+  pedia_link: /en/pedia/b/bitforex.html
+  filters: [Crypto]
+
+- name: Valr
+  description: South African cryptocurrency exchange
+  logo: /assets/images/logos/valr.png
+  website: https://www.valr.com/
+  pedia_link: /en/pedia/v/valr.html
+  filters: [Crypto]
