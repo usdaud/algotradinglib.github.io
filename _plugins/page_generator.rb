@@ -208,7 +208,6 @@ module Jekyll
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/#{letter}/"
       self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
-      self.data['hreflang_urls'] = AlgoTradingPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'])
     end
   end
 
