@@ -16,7 +16,7 @@ The main components for calculating TVM are:
 
 Present Value is the current worth of a future sum of money or stream of cash flows given a specified rate of return. The present value formula is as follows:
 
-\[ PV = \frac{FV}{{(1 + r)^n}} \]
+\[ PV = \frac{FV}{(1 + r)^n} \]
 
 Where:
 - \( PV \) = Present Value
