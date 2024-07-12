@@ -9,19 +9,20 @@ module Jekyll
 
       @page_cache = {}
       @processed_pages = Set.new
+      base_url = site.config['url'] || ''
 
       languages = ['en', 'ru', 'zh']
       
       languages.each do |lang|
         locale = load_locale(site, lang)
 
-        process_root_page(site, lang, locale)
-        process_subscribe_page(site, lang, locale)
+        process_root_page(site, lang, locale, base_url)
+        process_subscribe_page(site, lang, locale, base_url)
         
         SECTIONS.each do |section|
           section_path = File.join(site.source, lang, section)
           if Dir.exist?(section_path)
-            process_section(site, lang, section, section_path, locale)
+            process_section(site, lang, section, section_path, locale, base_url)
           else
             Jekyll.logger.warn "LetterPageGenerator:", "Directory not found: #{section_path}"
           end
@@ -39,7 +40,7 @@ module Jekyll
       end
     end
 
-    def process_root_page(site, lang, locale)
+    def process_root_page(site, lang, locale, base_url)
       root_file = File.join(site.source, lang, 'index.md')
       if File.exist?(root_file)
         content = File.read(root_file, encoding: 'utf-8')
@@ -47,13 +48,14 @@ module Jekyll
         page.content = content
         page.data['lang'] = lang
         page.data['locale'] = locale
+        page.data['canonical_url'] = "#{base_url}/#{lang}/"
         site.pages << page
       else
         Jekyll.logger.warn "LetterPageGenerator:", "Root page not found for language: #{lang}"
       end
     end
 
-    def process_subscribe_page(site, lang, locale)
+    def process_subscribe_page(site, lang, locale, base_url)
       subscribe_file = File.join(site.source, lang, 'subscribe.md')
       unless File.exist?(subscribe_file)
         content = "---\nlayout: subscribe\ntitle: #{locale['subscribe']}\n---\n"
@@ -64,18 +66,19 @@ module Jekyll
       page.data['lang'] = lang
       page.data['locale'] = locale
       page.data['permalink'] = "/#{lang}/subscribe/"
+      page.data['canonical_url'] = "#{base_url}/#{lang}/subscribe/"
       site.pages << page
     end
 
-    def process_section(site, lang, section, section_path, locale)
+    def process_section(site, lang, section, section_path, locale, base_url)
       if ['soft', 'market-data', 'brokers', 'community'].include?(section)
-        process_catalog_section(site, lang, section, section_path, locale)
+        process_catalog_section(site, lang, section, section_path, locale, base_url)
       else
-        process_regular_section(site, lang, section, section_path, locale)
+        process_regular_section(site, lang, section, section_path, locale, base_url)
       end
     end
 
-    def process_catalog_section(site, lang, section, section_path, locale)
+    def process_catalog_section(site, lang, section, section_path, locale, base_url)
       catalog_data = load_catalog_data(site, section_path)
       
       if ['market-data', 'brokers'].include?(section)
@@ -96,7 +99,7 @@ module Jekyll
         end
       end
 
-      site.pages << CatalogIndexPage.new(site, site.source, lang, section, catalog_data, locale)
+      site.pages << CatalogIndexPage.new(site, site.source, lang, section, catalog_data, locale, base_url)
     end
 
     def load_catalog_data(site, section_path)
@@ -109,7 +112,7 @@ module Jekyll
       end
     end
 
-    def process_regular_section(site, lang, section, section_path, locale)
+    def process_regular_section(site, lang, section, section_path, locale, base_url)
       letters = {}
       Dir.glob(File.join(section_path, '*')).each do |letter_path|
         if File.directory?(letter_path)
@@ -131,7 +134,7 @@ module Jekyll
           process_markdown_file(site, file, lang, locale)
         end
       end
-      site.pages << SectionIndexPage.new(site, site.source, lang, section, letters, locale)
+      site.pages << SectionIndexPage.new(site, site.source, lang, section, letters, locale, base_url)
     end
 
     def process_markdown_file(site, file, lang, locale)
@@ -200,7 +203,7 @@ module Jekyll
   end
 
   class SectionIndexPage < Page
-    def initialize(site, base, lang, section, letters, locale)
+    def initialize(site, base, lang, section, letters, locale, base_url)
       @site = site
       @base = base
       @dir  = File.join(lang, section)
@@ -224,11 +227,12 @@ module Jekyll
       self.data['lang'] = lang
       self.data['locale'] = locale
       self.data['section'] = section
+      self.data['canonical_url'] = "#{base_url}/#{lang}/#{section}/"
     end
   end
 
   class CatalogIndexPage < Page
-    def initialize(site, base, lang, section, catalog_data, locale)
+    def initialize(site, base, lang, section, catalog_data, locale, base_url)
       @site = site
       @base = base
       @dir  = File.join(lang, section)
@@ -274,6 +278,7 @@ module Jekyll
       self.data['locale'] = locale
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/index.html"
+      self.data['canonical_url'] = "#{base_url}/#{lang}/#{section}/"
 
       special_filters_file = File.join(base, lang, section, 'special_filters.yml')
       if File.exist?(special_filters_file)
