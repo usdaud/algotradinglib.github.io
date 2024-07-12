@@ -66,7 +66,7 @@ module Jekyll
       page.data['lang'] = lang
       page.data['locale'] = locale
       page.data['permalink'] = "/#{lang}/subscribe/"
-      page.data['canonical_url'] = "#{base_url}/#{lang}/subscribe/"
+      page.data['canonical_url'] = "#{base_url}#{page.data['permalink']}"
       site.pages << page
     end
 
@@ -199,8 +199,8 @@ module Jekyll
       self.data['lang'] = lang
       self.data['locale'] = locale
       self.data['section'] = section
-      self.data['permalink'] = "/#{lang}/#{section}/#{letter}/index.html"
-      self.data['canonical_url'] = "#{base_url}/#{lang}/#{section}/#{letter}/"
+      self.data['permalink'] = "/#{lang}/#{section}/#{letter}/"
+      self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
     end
   end
 
@@ -229,7 +229,8 @@ module Jekyll
       self.data['lang'] = lang
       self.data['locale'] = locale
       self.data['section'] = section
-      self.data['canonical_url'] = "#{base_url}/#{lang}/#{section}/"
+      self.data['permalink'] = "/#{lang}/#{section}/"
+      self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
     end
   end
 
@@ -279,8 +280,8 @@ module Jekyll
       self.data['lang'] = lang
       self.data['locale'] = locale
       self.data['section'] = section
-      self.data['permalink'] = "/#{lang}/#{section}/index.html"
-      self.data['canonical_url'] = "#{base_url}/#{lang}/#{section}/"
+      self.data['permalink'] = "/#{lang}/#{section}/"
+      self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
 
       special_filters_file = File.join(base, lang, section, 'special_filters.yml')
       if File.exist?(special_filters_file)
