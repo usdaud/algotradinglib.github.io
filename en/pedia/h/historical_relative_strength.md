@@ -1,6 +1,6 @@
 # Historical Relative Strength
 
-[Relative Strength](../r/relative_strength.md) (RS) is a classic [technical analysis](../t/technical_analysis.md) metric which compares the performance of a stock or other [financial instrument](../f/financial_instrument.md) against a [benchmark](../b/benchmark.md) or [index](../i/index.md), typically over a specified time period, to determine how it is performing relative to other assets. In the context of historical [relative strength](../r/relative_strength.md), we are specifically focused on examining this performance metric over historical periods to identify patterns, trends, and potentially predictive signals that can be utilized in [algorithmic trading](../a/algorithmic_trading.md).
+[Relative Strength](../r/relative_strength.md) (RS) is a classic [technical analysis](../t/technical_analysis.md) metric which compares the performance of a stock or other [financial instrument](../f/financial_instrument.md) against a [benchmark](../b/benchmark.md) or [index](../i/index_instrument.md), typically over a specified time period, to determine how it is performing relative to other assets. In the context of historical [relative strength](../r/relative_strength.md), we are specifically focused on examining this performance metric over historical periods to identify patterns, trends, and potentially predictive signals that can be utilized in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## What Is Relative Strength?
 
@@ -8,7 +8,7 @@
 
 \[ \text{[Relative Strength](../r/relative_strength.md)} = \frac{\text{Stock Price Performance}}{\text{[Benchmark](../b/benchmark.md) Performance}} \]
 
-This ratio is often converted into a [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) [value](../v/value.md) that ranges from 0 to 100, to simplify analysis. An RSI [value](../v/value.md) above 70 typically indicates that a stock might be [overbought](../o/overbought.md), while a [value](../v/value.md) below 30 suggests it might be [oversold](../o/oversold.md).
+This ratio is often converted into a [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) [value](../v/value.md) that ranges from 0 to 100, to simplify analysis. An RSI [value](../v/value.md) above 70 typically indicates that a stock might be [overbought](../o/overbought.md), while a [value](../v/value.md) below 30 suggests it might be [oversold](../o/oversold.md).
 
 ## Historical Analysis
 

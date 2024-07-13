@@ -14,7 +14,7 @@ The primary purpose of [Yield Matching](../y/yield_matching.md) Strategies is to
 
 1. **Benchmarks and Objectives**:
    - **Benchmarks**: Commonly used benchmarks include [market](../m/market.md) indices like the S&P 500, [bond](../b/bond.md) indices, or custom benchmarks tailored to specific investment strategies.
-   - **Objectives**: These can be [absolute return](../a/absolute_return.md) targets (e.g., 5% annual [yield](../y/yield.md)) or relative targets (e.g., outperforming a specific [index](../i/index.md) by 2%).
+   - **Objectives**: These can be [absolute return](../a/absolute_return.md) targets (e.g., 5% annual [yield](../y/yield.md)) or relative targets (e.g., outperforming a specific [index](../i/index_instrument.md) by 2%).
 
 2. **Algorithmic Models**:
    - **[Mean-Variance Optimization](../m/mean-variance_optimization.md)**: This involves balancing the [trade](../t/trade.md)-off between [risk](../r/risk.md) and [return](../r/return.md) to construct a portfolio that meets the [yield](../y/yield.md) objective.

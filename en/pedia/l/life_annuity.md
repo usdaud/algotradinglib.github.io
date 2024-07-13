@@ -34,7 +34,7 @@ Payments are made until both annuitants (usually spouses) have passed away. Paym
 Guarantees payments for life but also ensures that if the [annuitant](../a/annuitant.md) dies within a specified period, payments continue to a [beneficiary](../b/beneficiary.md) for the remainder of the period.
 
 ### Inflated-Indexed Annuity
-Payments increase based on a specified [inflation](../i/inflation.md) [index](../i/index.md) to protect the [purchasing power](../p/purchasing_power.md) of the [annuitant](../a/annuitant.md)’s [income](../i/income.md).
+Payments increase based on a specified [inflation](../i/inflation.md) [index](../i/index_instrument.md) to protect the [purchasing power](../p/purchasing_power.md) of the [annuitant](../a/annuitant.md)’s [income](../i/income.md).
 
 ## Benefits of Life Annuities
 

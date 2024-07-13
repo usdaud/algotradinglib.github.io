@@ -79,7 +79,7 @@ To gauge the performance and significance of [Euronext](../e/euronext.md) Brusse
 1. **[Market Capitalization](../m/market_capitalization.md)**: As of the latest data, [Euronext](../e/euronext.md) Brussels has a [market capitalization](../m/market_capitalization.md) of over €300 billion.
 2. **Trading [Volume](../v/volume.md)**: The average daily trading [volume](../v/volume.md) on [Euronext](../e/euronext.md) Brussels stands at approximately €1 billion.
 3. **Number of [Listed](../l/listed.md) Companies**: Over 200 companies are [listed](../l/listed.md) on [Euronext](../e/euronext.md) Brussels, spanning various sectors including [finance](../f/finance.md), technology, healthcare, and [consumer goods](../c/consumer_goods.md).
-4. **[Index](../i/index.md) Performance**: The BEL 20 [index](../i/index.md), the [benchmark](../b/benchmark.md) [index](../i/index.md) of [Euronext](../e/euronext.md) Brussels, tracks the performance of the top 20 companies by [market capitalization](../m/market_capitalization.md).
+4. **[Index](../i/index_instrument.md) Performance**: The BEL 20 [index](../i/index_instrument.md), the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) of [Euronext](../e/euronext.md) Brussels, tracks the performance of the top 20 companies by [market capitalization](../m/market_capitalization.md).
 
 ## Protocols for Algorithmic Trading
 

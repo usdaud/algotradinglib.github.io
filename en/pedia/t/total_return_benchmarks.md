@@ -24,8 +24,8 @@ The [Total Return](../t/total_return.md) perspective is critical because it prov
 
 Several indices are commonly used as [Total Return](../t/total_return.md) Benchmarks. Some of the most notable include:
 - **S&P 500 [Total Return Index](../t/total_return_index.md) (SPTR)**: This includes 500 of the largest U.S. companies, factoring in [capital](../c/capital.md) gains as well as reinvested dividends.
-- **MSCI All Country World [Index](../i/index.md) [Total Return](../t/total_return.md) (MSCI ACWI TR)**: This measures the performance of [stocks](../s/stock.md) across developed and emerging markets, inclusive of dividends.
-- **Barclays [Capital](../c/capital.md) U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index.md) (AGG TR)**: A broad-based [index](../i/index.md) measuring the U.S. [bond market](../b/bond_market.md)’s performance, including [interest](../i/interest.md) payments.
+- **MSCI All Country World [Index](../i/index_instrument.md) [Total Return](../t/total_return.md) (MSCI ACWI TR)**: This measures the performance of [stocks](../s/stock.md) across developed and emerging markets, inclusive of dividends.
+- **Barclays [Capital](../c/capital.md) U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md) (AGG TR)**: A broad-based [index](../i/index_instrument.md) measuring the U.S. [bond market](../b/bond_market.md)’s performance, including [interest](../i/interest.md) payments.
 
 ### Utilization in Algorithmic Trading
 

@@ -51,7 +51,7 @@ There are several agencies and indices dedicated to evaluating and ranking compa
 [Sustainalytics](https://www.sustainalytics.com/esg-ratings) specializes in ESG and [corporate governance](../c/corporate_governance.md) research, ratings, and analytics. The [firm](../f/firm.md)'s ESG [Risk](../r/risk.md) Ratings assess the degree to which a company's enterprise [value](../v/value.md) is at [risk](../r/risk.md) driven by ESG factors and how well a company is managing those risks.
 
 ##### 3.3 FTSE4Good Index Series
-[FTSE4Good](https://www.ftserussell.com/products/indices/ftse4good) [Index](../i/index.md) Series is designed to measure the performance of companies demonstrating strong ESG practices. These indices can be used by a [range](../r/range.md) of [market](../m/market.md) participants when creating or assessing responsible investment products.
+[FTSE4Good](https://www.ftserussell.com/products/indices/ftse4good) [Index](../i/index_instrument.md) Series is designed to measure the performance of companies demonstrating strong ESG practices. These indices can be used by a [range](../r/range.md) of [market](../m/market.md) participants when creating or assessing responsible investment products.
 
 ##### 3.4 Bloomberg ESG Data Services
 [Bloomberg](https://www.bloomberg.com/professional/solution/esg-data/) offers extensive ESG data sets, including proprietary ESG scores and ratings. This data supports ESG analysis and helps integrate ESG into the investment process.

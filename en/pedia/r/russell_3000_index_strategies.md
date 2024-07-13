@@ -1,10 +1,10 @@
 # Russell 3000 Index Strategies
 
-The [Russell 3000 Index](../r/russell_3000_index.md) is a key [benchmark](../b/benchmark.md) of the performance of the 3,000 largest U.S.-traded [stocks](../s/stock.md), representing approximately 98% of all U.S.-incorporated [equity](../e/equity.md) securities. The [index](../i/index.md) serves as a critical tool for investors and [fund](../f/fund.md) managers, as it provides a broad perspective on the U.S. [stock market](../s/stock_market.md). This document delves into various [algorithmic trading](../a/algorithmic_trading.md) strategies specifically tailored for the [Russell 3000 Index](../r/russell_3000_index.md).
+The [Russell 3000 Index](../r/russell_3000_index.md) is a key [benchmark](../b/benchmark.md) of the performance of the 3,000 largest U.S.-traded [stocks](../s/stock.md), representing approximately 98% of all U.S.-incorporated [equity](../e/equity.md) securities. The [index](../i/index_instrument.md) serves as a critical tool for investors and [fund](../f/fund.md) managers, as it provides a broad perspective on the U.S. [stock market](../s/stock_market.md). This document delves into various [algorithmic trading](../a/algorithmic_trading.md) strategies specifically tailored for the [Russell 3000 Index](../r/russell_3000_index.md).
 
 ## Understanding the Russell 3000 Index
 
-The [Russell 3000 Index](../r/russell_3000_index.md) includes companies from diverse sectors and [market](../m/market.md) capitalizations. The [range](../r/range.md) covers [large-cap stocks](../l/large_cap_stocks.md), [mid-cap stocks](../m/mid-cap_stocks.md), and small-cap [stocks](../s/stock.md), providing a comprehensive overview of the [market](../m/market.md). These [stocks](../s/stock.md) are also a subset of the Russell 3000E [Index](../i/index.md), the broadest engineering [index](../i/index.md) for U.S. [stocks](../s/stock.md).
+The [Russell 3000 Index](../r/russell_3000_index.md) includes companies from diverse sectors and [market](../m/market.md) capitalizations. The [range](../r/range.md) covers [large-cap stocks](../l/large_cap_stocks.md), [mid-cap stocks](../m/mid-cap_stocks.md), and small-cap [stocks](../s/stock.md), providing a comprehensive overview of the [market](../m/market.md). These [stocks](../s/stock.md) are also a subset of the Russell 3000E [Index](../i/index_instrument.md), the broadest engineering [index](../i/index_instrument.md) for U.S. [stocks](../s/stock.md).
 
 ## Components of the Russell 3000 Index
 
@@ -14,10 +14,10 @@ The [Russell 3000 Index](../r/russell_3000_index.md) includes companies from div
 
 ## Importance for Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) strategies can be particularly effective when applied to an [index](../i/index.md) like the Russell 3000 due to its diverse components and broad representation of the [market](../m/market.md). Here’s why it’s important:
+[Algorithmic trading](../a/algorithmic_trading.md) strategies can be particularly effective when applied to an [index](../i/index_instrument.md) like the Russell 3000 due to its diverse components and broad representation of the [market](../m/market.md). Here’s why it’s important:
 1. **[Liquidity](../l/liquidity.md):** [Stocks](../s/stock.md) in the Russell 3000 are generally highly [liquid](../l/liquid.md), allowing for efficient [trade](../t/trade.md) [execution](../e/execution.md).
-2. **[Diversification](../d/diversification.md):** The diversity of the [index](../i/index.md) helps in spreading [risk](../r/risk.md) across different sectors and [market](../m/market.md) caps.
-3. **[Market](../m/market.md) Representation:** The [index](../i/index.md)’s broad [market](../m/market.md) representation makes it a suitable [proxy](../p/proxy.md) for the U.S. [stock market](../s/stock_market.md).
+2. **[Diversification](../d/diversification.md):** The diversity of the [index](../i/index_instrument.md) helps in spreading [risk](../r/risk.md) across different sectors and [market](../m/market.md) caps.
+3. **[Market](../m/market.md) Representation:** The [index](../i/index_instrument.md)’s broad [market](../m/market.md) representation makes it a suitable [proxy](../p/proxy.md) for the U.S. [stock market](../s/stock_market.md).
 
 Let's explore some [algorithmic trading](../a/algorithmic_trading.md) strategies specifically tailored for the [Russell 3000 Index](../r/russell_3000_index.md).
 
@@ -148,4 +148,4 @@ print(strategy_performance)
 
 ## Conclusion
 
-The [Russell 3000 Index](../r/russell_3000_index.md) offers a fertile ground for various [algorithmic trading](../a/algorithmic_trading.md) strategies. From [momentum](../m/momentum.md) and mean-reversion to [arbitrage](../a/arbitrage.md) strategies, numerous approaches can be tailored to benefit from this richly diversified [index](../i/index.md). Combining these strategies with [robust](../r/robust.md) [risk management](../r/risk_management.md) techniques and leveraging advanced computational tools can significantly enhance the [trading performance](../t/trading_performance.md) on this broad [market](../m/market.md) gauge.
+The [Russell 3000 Index](../r/russell_3000_index.md) offers a fertile ground for various [algorithmic trading](../a/algorithmic_trading.md) strategies. From [momentum](../m/momentum.md) and mean-reversion to [arbitrage](../a/arbitrage.md) strategies, numerous approaches can be tailored to benefit from this richly diversified [index](../i/index_instrument.md). Combining these strategies with [robust](../r/robust.md) [risk management](../r/risk_management.md) techniques and leveraging advanced computational tools can significantly enhance the [trading performance](../t/trading_performance.md) on this broad [market](../m/market.md) gauge.

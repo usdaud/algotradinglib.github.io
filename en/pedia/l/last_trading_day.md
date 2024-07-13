@@ -25,7 +25,7 @@ These involve physical assets such as oil, gold, or agricultural products. For [
 #### Financial Futures
 
 These involve financial instruments such as currencies, bonds, or indices. For financial [futures](../f/futures.md):
-- **Cash Settlement**: Predominantly, financial [futures](../f/futures.md) are settled in cash. For example, [index futures](../i/index_futures.md) are settled based on the [value](../v/value.md) of the [underlying](../u/underlying.md) [index](../i/index.md) on LTD.
+- **Cash Settlement**: Predominantly, financial [futures](../f/futures.md) are settled in cash. For example, [index futures](../i/index_futures.md) are settled based on the [value](../v/value.md) of the [underlying](../u/underlying.md) [index](../i/index_instrument.md) on LTD.
 
 ### Options Contracts
 

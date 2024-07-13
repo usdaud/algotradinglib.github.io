@@ -61,7 +61,7 @@ To enhance the reliability of Doji patterns, many traders seek confirmation from
 
 ### Integrating Technical Indicators
 
-Combining Doji patterns with other [technical indicators](../t/technical_indicator.md) can improve trading decisions. Indicators such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), or the Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can provide additional evidence supporting the potential direction indicated by the Doji.
+Combining Doji patterns with other [technical indicators](../t/technical_indicator.md) can improve trading decisions. Indicators such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), or the Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can provide additional evidence supporting the potential direction indicated by the Doji.
 
 ### Risk Management
 

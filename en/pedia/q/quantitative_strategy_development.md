@@ -28,7 +28,7 @@ Effective [risk management](../r/risk_management.md) strategies ensure that the 
 
 ### Technical Analysis
 
-[Technical analysis](../t/technical_analysis.md) involves studying historical price and [volume](../v/volume.md) charts to predict future price movements. [Quantitative strategies](../q/quantitative_strategies_in_trading.md) use [technical indicators](../t/technical_indicators.md) such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and [Bollinger Bands](../b/bollinger_bands.md) to generate [trading signals](../t/trading_signals.md).
+[Technical analysis](../t/technical_analysis.md) involves studying historical price and [volume](../v/volume.md) charts to predict future price movements. [Quantitative strategies](../q/quantitative_strategies_in_trading.md) use [technical indicators](../t/technical_indicators.md) such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and [Bollinger Bands](../b/bollinger_bands.md) to generate [trading signals](../t/trading_signals.md).
 
 ### Statistical Arbitrage
 

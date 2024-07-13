@@ -48,7 +48,7 @@ As the [market](../m/market.md) reaches its lowest point, signals indicating a p
 - **Economic Data**: GDP reports, employment [statistics](../s/statistics.md), [inflation](../i/inflation.md) rates.
 - **[Market](../m/market.md) Data**: Stock prices, trading volumes, [order](../o/order.md) books.
 - **[Sentiment Analysis](../s/sentiment_analysis.md)**: News sentiment, [social media](../s/social_media.md) trends, [earnings](../e/earnings.md) reports.
-- **[Technical Indicators](../t/technical_indicators.md)**: Moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md).
+- **[Technical Indicators](../t/technical_indicators.md)**: Moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md).
 
 ## Machine Learning and AI in Investment Cycles
 

@@ -25,7 +25,7 @@ Traders seeking to [profit](../p/profit.md) from their views on future [volatili
 
 #### 4. Dispersion Trading
 
-[Dispersion](../d/dispersion.md) trading involves taking positions in the [volatility](../v/volatility.md) of an [index](../i/index.md) and its constituent components. The strategy involves buying (selling) [index](../i/index.md) [volatility](../v/volatility.md) while selling (buying) the [volatility](../v/volatility.md) of the individual [stocks](../s/stock.md) in the [index](../i/index.md). This strategy bets on the [correlation](../c/correlation.md) between the individual [stocks](../s/stock.md)’ volatilities and the [index](../i/index.md) [volatility](../v/volatility.md).
+[Dispersion](../d/dispersion.md) trading involves taking positions in the [volatility](../v/volatility.md) of an [index](../i/index_instrument.md) and its constituent components. The strategy involves buying (selling) [index](../i/index_instrument.md) [volatility](../v/volatility.md) while selling (buying) the [volatility](../v/volatility.md) of the individual [stocks](../s/stock.md) in the [index](../i/index_instrument.md). This strategy bets on the [correlation](../c/correlation.md) between the individual [stocks](../s/stock.md)’ volatilities and the [index](../i/index_instrument.md) [volatility](../v/volatility.md).
 
 #### 5. Market Neutral Strategies
 

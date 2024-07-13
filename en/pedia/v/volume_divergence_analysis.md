@@ -34,7 +34,7 @@ To identify [volume divergence](../v/volume_divergence.md), traders typically us
 
 ### Confirming Divergence
 
-[Volume Divergence](../v/volume_divergence.md) should not be used in isolation. Confirmation from other [technical indicators](../t/technical_indicators.md), patterns, or [trend analysis](../t/trend_analysis.md) is vital for increased reliability. Many traders use [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or other [momentum indicators](../m/momentum_indicators.md) in conjunction with [volume analysis](../v/volume_analysis.md) to confirm potential [divergence](../d/divergence.md).
+[Volume Divergence](../v/volume_divergence.md) should not be used in isolation. Confirmation from other [technical indicators](../t/technical_indicators.md), patterns, or [trend analysis](../t/trend_analysis.md) is vital for increased reliability. Many traders use [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or other [momentum indicators](../m/momentum_indicators.md) in conjunction with [volume analysis](../v/volume_analysis.md) to confirm potential [divergence](../d/divergence.md).
 
 ### Practical Application of Volume Divergence
 

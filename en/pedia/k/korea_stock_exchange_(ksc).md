@@ -72,8 +72,8 @@ The KSE has had a profound impact on the South Korean [economy](../e/economy.md)
 
 Key indices provide vital insights into the performance of the South Korean [economy](../e/economy.md):
 
-- **KOSPI (Korea Composite Stock Price [Index](../i/index.md))**: A key [benchmark](../b/benchmark.md) reflecting the performance of all [listed](../l/listed.md) companies on the KSE.
-- **KOSDAQ [Index](../i/index.md)**: Represents the performance of companies [listed](../l/listed.md) on the KOSDAQ [market](../m/market.md), often focused on technology and growth sectors.
+- **KOSPI (Korea Composite Stock Price [Index](../i/index_instrument.md))**: A key [benchmark](../b/benchmark.md) reflecting the performance of all [listed](../l/listed.md) companies on the KSE.
+- **KOSDAQ [Index](../i/index_instrument.md)**: Represents the performance of companies [listed](../l/listed.md) on the KOSDAQ [market](../m/market.md), often focused on technology and growth sectors.
 
 ## Challenges and Future Outlook
 

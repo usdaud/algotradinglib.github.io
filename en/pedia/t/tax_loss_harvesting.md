@@ -62,7 +62,7 @@ An [investor](../i/investor.md) experiences a $15,000 loss from selling stock C 
 
 ### Example 3: Sector Rotation
 
-Assume an [investor](../i/investor.md) holds an [energy sector](../e/energy_sector.md) ETF that has incurred a loss. To harvest the tax loss without leaving the [energy sector](../e/energy_sector.md) exposure, the [investor](../i/investor.md) sells the ETF and purchases another [energy sector](../e/energy_sector.md) ETF that tracks a different [index](../i/index.md), thus avoiding the [wash-sale rule](../w/wash-sale_rule.md).
+Assume an [investor](../i/investor.md) holds an [energy sector](../e/energy_sector.md) ETF that has incurred a loss. To harvest the tax loss without leaving the [energy sector](../e/energy_sector.md) exposure, the [investor](../i/investor.md) sells the ETF and purchases another [energy sector](../e/energy_sector.md) ETF that tracks a different [index](../i/index_instrument.md), thus avoiding the [wash-sale rule](../w/wash-sale_rule.md).
 
 ## Technology and Tax Loss Harvesting
 

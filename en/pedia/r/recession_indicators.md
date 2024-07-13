@@ -22,7 +22,7 @@ The [unemployment rate](../u/unemployment_rate.md) is the percentage of the labo
 
 ### 3. Manufacturing Index (PMI)
 
-The Purchasing Managers' [Index](../i/index.md) (PMI) is an [indicator](../i/indicator.md) of the economic health of the [manufacturing](../m/manufacturing.md) sector. It is based on surveys of [private sector](../p/private_sector.md) companies, covering metrics such as new orders, [inventory](../i/inventory.md) levels, production, [supply](../s/supply.md) deliveries, and employment.
+The Purchasing Managers' [Index](../i/index_instrument.md) (PMI) is an [indicator](../i/indicator.md) of the economic health of the [manufacturing](../m/manufacturing.md) sector. It is based on surveys of [private sector](../p/private_sector.md) companies, covering metrics such as new orders, [inventory](../i/inventory.md) levels, production, [supply](../s/supply.md) deliveries, and employment.
 
 - **Significance**: A PMI below 50 generally indicates contraction in the [manufacturing](../m/manufacturing.md) sector, which can signal a broader economic downturn.
 - **Measurement**: PMI is reported monthly by institutions like the Institute for [Supply](../s/supply.md) Management (ISM) in the United States and IHS Markit for global data.
@@ -30,7 +30,7 @@ The Purchasing Managers' [Index](../i/index.md) (PMI) is an [indicator](../i/ind
 
 ### 4. Consumer Confidence Index (CCI)
 
-The Consumer Confidence [Index](../i/index.md) (CCI) measures the degree of optimism that consumers feel about the overall state of the [economy](../e/economy.md) and their personal financial situation. A drop in consumer confidence can lead to reduced spending, which in turn can signal an impending [recession](../r/recession.md).
+The Consumer Confidence [Index](../i/index_instrument.md) (CCI) measures the degree of optimism that consumers feel about the overall state of the [economy](../e/economy.md) and their personal financial situation. A drop in consumer confidence can lead to reduced spending, which in turn can signal an impending [recession](../r/recession.md).
 
 - **Significance**: Since consumer spending drives a substantial portion of economic activity, reduced confidence can dramatically slow [economic growth](../e/economic_growth.md).
 - **Measurement**: The Conference Board in the United States regularly publishes the CCI, derived from surveys of households.

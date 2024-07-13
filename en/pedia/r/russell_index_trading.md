@@ -1,11 +1,11 @@
 # Russell Index Trading
 
-The Russell [Index](../i/index.md) refers to the family of [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) stock indices managed by [FTSE Russell](../f/ftse_russell.md), a subsidiary of the London Stock [Exchange](../e/exchange.md) Group. These indices are designed to provide a comprehensive measure of the U.S. [equity market](../e/equity_market.md) and serve as benchmarks for investment strategies and performance measurement. Among the most well-known indices within the family are the Russell 1000, Russell 2000, and Russell 3000 indices. Each of these indices serves a distinct segment of the [market](../m/market.md), [offering](../o/offering.md) unique opportunities for traders and investors.
+The Russell [Index](../i/index_instrument.md) refers to the family of [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) stock indices managed by [FTSE Russell](../f/ftse_russell.md), a subsidiary of the London Stock [Exchange](../e/exchange.md) Group. These indices are designed to provide a comprehensive measure of the U.S. [equity market](../e/equity_market.md) and serve as benchmarks for investment strategies and performance measurement. Among the most well-known indices within the family are the Russell 1000, Russell 2000, and Russell 3000 indices. Each of these indices serves a distinct segment of the [market](../m/market.md), [offering](../o/offering.md) unique opportunities for traders and investors.
 
 ## 1. Overview of the Russell Index Family
 
 ### Russell 1000 Index
-The [Russell 1000 Index](../r/russell_1000_index.md) is a [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md) representing the largest 1,000 U.S. publicly traded companies. It accounts for approximately 92% of the total [market capitalization](../m/market_capitalization.md) of the U.S. [equity market](../e/equity_market.md). This [index](../i/index.md) is often used as a [benchmark](../b/benchmark.md) for [large-cap stocks](../l/large_cap_stocks.md), providing insights into the performance of major [industry](../i/industry.md) leaders.
+The [Russell 1000 Index](../r/russell_1000_index.md) is a [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md) representing the largest 1,000 U.S. publicly traded companies. It accounts for approximately 92% of the total [market capitalization](../m/market_capitalization.md) of the U.S. [equity market](../e/equity_market.md). This [index](../i/index_instrument.md) is often used as a [benchmark](../b/benchmark.md) for [large-cap stocks](../l/large_cap_stocks.md), providing insights into the performance of major [industry](../i/industry.md) leaders.
 
 ### Russell 2000 Index
 The [Russell 2000 Index](../r/russell_2000_index.md), on the other hand, focuses on the 2,000 smallest [stocks](../s/stock.md) in the [Russell 3000 Index](../r/russell_3000_index.md). It serves as a [benchmark](../b/benchmark.md) for small-cap [stocks](../s/stock.md) and is widely regarded as a key [indicator](../i/indicator.md) of the performance of smaller U.S. companies. Due to the higher growth potential and [risk](../r/risk.md) associated with small-cap [stocks](../s/stock.md), the [Russell 2000 Index](../r/russell_2000_index.md) is closely watched by traders and investors seeking to capture investment opportunities in this segment of the [market](../m/market.md).
@@ -15,10 +15,10 @@ The [Russell 3000 Index](../r/russell_3000_index.md) encompasses the largest 3,0
 
 ## 2. Russell Index Methodology
 
-The [FTSE Russell](../f/ftse_russell.md) [index](../i/index.md) methodology involves a systematic and transparent process for selecting and maintaining the indices. Below are key components of the methodology:
+The [FTSE Russell](../f/ftse_russell.md) [index](../i/index_instrument.md) methodology involves a systematic and transparent process for selecting and maintaining the indices. Below are key components of the methodology:
 
 ### Market Capitalization
-All Russell indices are [weighted](../w/weighted.md) by [market capitalization](../m/market_capitalization.md), meaning each stock's weight in the [index](../i/index.md) is proportional to its total [market value](../m/market_value.md). This method ensures that larger companies have a greater impact on the [index](../i/index.md)'s performance.
+All Russell indices are [weighted](../w/weighted.md) by [market capitalization](../m/market_capitalization.md), meaning each stock's weight in the [index](../i/index_instrument.md) is proportional to its total [market value](../m/market_value.md). This method ensures that larger companies have a greater impact on the [index](../i/index_instrument.md)'s performance.
 
 ### Reconstitution
 Russell indices undergo an annual reconstitution process, during which the composition of the indices is reviewed and updated to ensure they accurately reflect the [market](../m/market.md). Reconstitution typically involves adding new companies that have grown in [market value](../m/market_value.md) and removing companies that no longer meet the criteria.
@@ -50,7 +50,7 @@ ETFs that track Russell indices, such as the [iShares](../i/ishares.md) Russell 
 ## 5. Strategies for Trading Russell Indices
 
 ### Index Arbitrage
-[Index](../i/index.md) [arbitrage](../a/arbitrage.md) involves taking advantage of price discrepancies between the stock components of the [index](../i/index.md) and the [index futures](../i/index_futures.md) or ETFs. Traders seek to [profit](../p/profit.md) from the price convergence between these related instruments.
+[Index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md) involves taking advantage of price discrepancies between the stock components of the [index](../i/index_instrument.md) and the [index futures](../i/index_futures.md) or ETFs. Traders seek to [profit](../p/profit.md) from the price convergence between these related instruments.
 
 ### Sector Rotation
 Given the diverse sector composition of the Russell indices, [sector rotation](../s/sector_rotation.md) strategies can be employed. This involves shifting investments among different sectors based on macroeconomic trends, [sector performance](../s/sector_performance.md), and [market](../m/market.md) conditions.
@@ -71,4 +71,4 @@ While the [Russell 1000 Index](../r/russell_1000_index.md) constituents are gene
 
 ## 7. Conclusion
 
-Russell [index](../i/index.md) trading offers a [range](../r/range.md) of opportunities for both investors and traders, from gaining broad [market exposure](../m/market_exposure.md) to engaging in sophisticated [trading strategies](../t/trading_strategies.md). The indices' comprehensive coverage of the U.S. [equity market](../e/equity_market.md), combined with the availability of various financial products, make them valuable tools in the [financial markets](../f/financial_market.md). However, it is important to be aware of the risks and challenges associated with trading these indices and to employ appropriate [risk management](../r/risk_management.md) techniques. For more information on Russell indices, visit the [FTSE Russell](../f/ftse_russell.md) [website](https://www.ftserussell.com/).
+Russell [index](../i/index_instrument.md) trading offers a [range](../r/range.md) of opportunities for both investors and traders, from gaining broad [market exposure](../m/market_exposure.md) to engaging in sophisticated [trading strategies](../t/trading_strategies.md). The indices' comprehensive coverage of the U.S. [equity market](../e/equity_market.md), combined with the availability of various financial products, make them valuable tools in the [financial markets](../f/financial_market.md). However, it is important to be aware of the risks and challenges associated with trading these indices and to employ appropriate [risk management](../r/risk_management.md) techniques. For more information on Russell indices, visit the [FTSE Russell](../f/ftse_russell.md) [website](https://www.ftserussell.com/).

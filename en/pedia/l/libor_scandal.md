@@ -52,7 +52,7 @@ The scandal also prompted significant reforms in how financial [benchmark](../b/
 One of the most impactful outcomes of the scandal has been the decision to gradually phase out LIBOR entirely. Recognizing the intrinsic issues related to the self-reporting mechanism, regulators globally agreed to transition to alternative reference rates. For instance:
 
 - **SOFR (Secured Overnight [Financing](../f/financing.md) Rate)**: The preferred alternative in the U.S. for USD LIBOR.
-- **SONIA (Sterling Overnight [Index](../i/index.md) Average)**: The replacement for GBP LIBOR.
+- **SONIA (Sterling Overnight [Index](../i/index_instrument.md) Average)**: The replacement for GBP LIBOR.
 - **ESTER ([Euro](../e/euro.md) Short-Term Rate)**: Used to replace EUR LIBOR.
 
 These new benchmarks are based on actual [transaction](../t/transaction.md) data rather than self-reported rates, aimed at preventing future manipulations and ensuring greater integrity in the [financial markets](../f/financial_market.md).

@@ -40,7 +40,7 @@ Tactical [asset allocation](../a/asset_allocation.md) allows for short-term adju
 This strategy involves continuously adjusting the [asset allocation](../a/asset_allocation.md) based on [market](../m/market.md) trends, economic changes, and other factors. It’s more flexible and allows for rapid response to changes in the investment landscape.
 
 ### Core-Satellite Approach
-The core-satellite approach combines a core portfolio of passive investments (like [index](../i/index.md) funds) with satellite portfolios of active investments. This strategy aims to keep costs low while seeking higher returns through [active management](../a/active_management.md) in satellite investments.
+The core-satellite approach combines a core portfolio of passive investments (like [index](../i/index_instrument.md) funds) with satellite portfolios of active investments. This strategy aims to keep costs low while seeking higher returns through [active management](../a/active_management.md) in satellite investments.
 
 ## Benefits of Multi-Asset Class Investing
 

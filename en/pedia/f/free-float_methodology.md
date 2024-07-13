@@ -20,7 +20,7 @@ To calculate the free-[float](../f/float.md) [market capitalization](../m/market
 
 1. **[Liquidity](../l/liquidity.md)**: It reflects the [liquidity](../l/liquidity.md) of the [shares](../s/shares.md) in the [market](../m/market.md), providing a more accurate measure for investors.
 2. **[Market Dynamics](../m/market_dynamics.md)**: It considers the actual [market dynamics](../m/market_dynamics.md) by focusing on [shares](../s/shares.md) available for trading.
-3. **[Index](../i/index.md) Representation**: Indices that use free-[float](../f/float.md) methodology are considered more reflective of active [market](../m/market.md) conditions.
+3. **[Index](../i/index_instrument.md) Representation**: Indices that use free-[float](../f/float.md) methodology are considered more reflective of active [market](../m/market.md) conditions.
 
 ## Free-Float Percentage
 
@@ -32,13 +32,13 @@ This metric is crucial for investors and financial analysts in assessing the tra
 
 ## Application in Indices
 
-Many global stock indices use the free-[float](../f/float.md) methodology to determine the weight of individual [stocks](../s/stock.md) within the [index](../i/index.md). This approach enhances the [index](../i/index.md)'s representation of the [market](../m/market.md) by focusing on the actively tradable [shares](../s/shares.md). Major indices that use free-[float](../f/float.md) methodology include:
+Many global stock indices use the free-[float](../f/float.md) methodology to determine the weight of individual [stocks](../s/stock.md) within the [index](../i/index_instrument.md). This approach enhances the [index](../i/index_instrument.md)'s representation of the [market](../m/market.md) by focusing on the actively tradable [shares](../s/shares.md). Major indices that use free-[float](../f/float.md) methodology include:
 
 1. **S&P 500**: Managed by S&P Dow Jones Indices, which uses free-[float](../f/float.md) adjustment in its calculations.
    - [S&P 500 Methodology](https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview)
 2. **MSCI Indices**: MSCI employs free-[float](../f/float.md) adjusted [market capitalization](../m/market_capitalization.md) for its global indices.
    - [MSCI Index Methodology](https://www.msci.com/index-methodology)
-3. **FTSE 100**: [FTSE Russell](../f/ftse_russell.md) uses free-[float](../f/float.md) methodology to calculate the [market](../m/market.md) cap-[weighted](../w/weighted.md) [index](../i/index.md).
+3. **FTSE 100**: [FTSE Russell](../f/ftse_russell.md) uses free-[float](../f/float.md) methodology to calculate the [market](../m/market.md) cap-[weighted](../w/weighted.md) [index](../i/index_instrument.md).
    - [FTSE Russell Methodology](https://www.ftserussell.com/products/indices/uk)
 
 ## Benefits of Free-Float Methodology
@@ -63,7 +63,7 @@ Corporate actions such as stock splits, rights issues, and [share buybacks](../s
 
 ### Case Study: Apple Inc.
 
-Apple Inc. (AAPL) is a prime example of how free-[float](../f/float.md) methodology can impact [market capitalization](../m/market_capitalization.md) and [index](../i/index.md) weighting. Being a high-profile company with significant insider [holdings](../h/holdings.md), the free-[float](../f/float.md) adjustment provides a more accurate [market value](../m/market_value.md) for inclusion in indices like the S&P 500 and [Nasdaq](../n/nasdaq.md).
+Apple Inc. (AAPL) is a prime example of how free-[float](../f/float.md) methodology can impact [market capitalization](../m/market_capitalization.md) and [index](../i/index_instrument.md) weighting. Being a high-profile company with significant insider [holdings](../h/holdings.md), the free-[float](../f/float.md) adjustment provides a more accurate [market value](../m/market_value.md) for inclusion in indices like the S&P 500 and [Nasdaq](../n/nasdaq.md).
 
 ### Example: Saudi Aramco IPO
 

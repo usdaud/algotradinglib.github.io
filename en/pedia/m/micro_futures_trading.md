@@ -12,7 +12,7 @@ Micro [futures contracts](../f/futures_contracts.md) have emerged as a popular a
 
 ### Equity Index Micro Futures
 
-[Equity](../e/equity.md) [index](../i/index.md) micro [futures](../f/futures.md) are based on [market](../m/market.md) indexes like the S&P 500, Dow Jones Industrial Average, and the [NASDAQ](../n/nasdaq.md)-100. For instance, the CME Group offers Micro [E-mini](../e/e-mini.md) [futures](../f/futures.md) on the S&P 500 (MES), [NASDAQ](../n/nasdaq.md)-100 (MNQ), Dow Jones Industrial Average (MYM), and Russell 2000 (M2K). These contracts allow traders to [hedge](../h/hedge.md) portfolio risks or speculate on the direction of [equity](../e/equity.md) markets with a smaller [capital](../c/capital.md) outlay.
+[Equity](../e/equity.md) [index](../i/index_instrument.md) micro [futures](../f/futures.md) are based on [market](../m/market.md) indexes like the S&P 500, Dow Jones Industrial Average, and the [NASDAQ](../n/nasdaq.md)-100. For instance, the CME Group offers Micro [E-mini](../e/e-mini.md) [futures](../f/futures.md) on the S&P 500 (MES), [NASDAQ](../n/nasdaq.md)-100 (MNQ), Dow Jones Industrial Average (MYM), and Russell 2000 (M2K). These contracts allow traders to [hedge](../h/hedge.md) portfolio risks or speculate on the direction of [equity](../e/equity.md) markets with a smaller [capital](../c/capital.md) outlay.
 
 ### Commodity Micro Futures
 
@@ -40,7 +40,7 @@ CME Group (https://www.cmegroup.com/) is the leading marketplace for micro [futu
 
 ### ICE (Intercontinental Exchange)
 
-ICE (https://www.theice.com/) is another major player [offering](../o/offering.md) micro [futures contracts](../f/futures_contracts.md). They provide trading platforms for a [range](../r/range.md) of commodities, financials, and [equity](../e/equity.md) [index](../i/index.md) contracts. Their micro contracts are designed to [offer](../o/offer.md) institutional-grade access to retail traders.
+ICE (https://www.theice.com/) is another major player [offering](../o/offering.md) micro [futures contracts](../f/futures_contracts.md). They provide trading platforms for a [range](../r/range.md) of commodities, financials, and [equity](../e/equity.md) [index](../i/index_instrument.md) contracts. Their micro contracts are designed to [offer](../o/offer.md) institutional-grade access to retail traders.
 
 ### Eurex
 

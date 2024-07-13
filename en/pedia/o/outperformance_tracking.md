@@ -1,6 +1,6 @@
 # Outperformance Tracking
 
-Outperformance tracking is an intricate and critical function in [algorithmic trading](../a/algorithmic_trading.md) aimed at gauging the effectiveness of [trading strategies](../t/trading_strategies.md). The primary goal is to exceed a predefined [benchmark](../b/benchmark.md) or [market index](../m/market_index.md). This extensive process involves various methods, technologies, and tools to track and analyze the performance of investments relative to predefined benchmarks. Outperformance tracking hinges on numerous metrics, analytics, and assessment techniques to identify whether a given [trading strategy](../t/trading_strategy.md) surpasses the [market](../m/market.md) or selected [index](../i/index.md).
+Outperformance tracking is an intricate and critical function in [algorithmic trading](../a/algorithmic_trading.md) aimed at gauging the effectiveness of [trading strategies](../t/trading_strategies.md). The primary goal is to exceed a predefined [benchmark](../b/benchmark.md) or [market index](../m/market_index.md). This extensive process involves various methods, technologies, and tools to track and analyze the performance of investments relative to predefined benchmarks. Outperformance tracking hinges on numerous metrics, analytics, and assessment techniques to identify whether a given [trading strategy](../t/trading_strategy.md) surpasses the [market](../m/market.md) or selected [index](../i/index_instrument.md).
 
 ## Essentials of Outperformance Tracking
 
@@ -31,7 +31,7 @@ At its core, outperformance tracking measures the ability of a [trading strategy
 5. **[Tracking Error](../t/tracking_error.md)**
    This metric indicates the [divergence](../d/divergence.md) between the [trading strategy](../t/trading_strategy.md) and the [benchmark](../b/benchmark.md). Low [tracking error](../t/tracking_error.md) generally signifies that the strategy closely follows the [benchmark](../b/benchmark.md).
    - **Formula**: [Tracking Error](../t/tracking_error.md) = [Standard Deviation](../s/standard_deviation.md) (Portfolio [Return](../r/return.md) - [Benchmark](../b/benchmark.md) [Return](../r/return.md))
-   - Utilized for strategies like [index](../i/index.md) funds that aim to track a [benchmark](../b/benchmark.md) closely.
+   - Utilized for strategies like [index](../i/index_instrument.md) funds that aim to track a [benchmark](../b/benchmark.md) closely.
 
 ### Approaches to Outperformance Tracking
 

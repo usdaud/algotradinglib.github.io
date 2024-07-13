@@ -143,8 +143,8 @@ future_time = np.arange(len(data), len(data) + 30).reshape(-1, 1)
 predicted_prices = model.predict(future_time)
 
 # Plot results
-plt.plot(data.[index](../i/index.md), data['Close'], label='Historical Prices')
-plt.plot(pd.date_range(start=data.[index](../i/index.md)[-1], periods=31, freq='D')[1:], predicted_prices, label='Predicted Prices')
+plt.plot(data.[index](../i/index_instrument.md), data['Close'], label='Historical Prices')
+plt.plot(pd.date_range(start=data.[index](../i/index_instrument.md)[-1], periods=31, freq='D')[1:], predicted_prices, label='Predicted Prices')
 plt.legend()
 plt.show()
 ```

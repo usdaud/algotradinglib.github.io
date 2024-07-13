@@ -4,7 +4,7 @@ Beta is a statistical measure that compares the [volatility](../v/volatility.md)
 
 ## Understanding Beta
 
-Beta is a dimensionless number that signifies the [correlation](../c/correlation.md) between the performance of an individual [asset](../a/asset.md) and a [benchmark](../b/benchmark.md) [index](../i/index.md) (like the S&P 500). Here’s a quick guide to interpreting beta values:
+Beta is a dimensionless number that signifies the [correlation](../c/correlation.md) between the performance of an individual [asset](../a/asset.md) and a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) (like the S&P 500). Here’s a quick guide to interpreting beta values:
 
 - **Beta < 1:** The [security](../s/security.md) is less volatile than the [market](../m/market.md). For example, a beta of 0.8 suggests the [security](../s/security.md) is expected to be 20% less volatile than the [market](../m/market.md).
 - **Beta = 1:** The [security](../s/security.md)’s price [will](../w/will.md) move with the [market](../m/market.md). If the [market](../m/market.md) goes up by 1%, the [security](../s/security.md) is also expected to move up by 1%.

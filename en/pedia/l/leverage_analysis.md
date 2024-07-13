@@ -30,7 +30,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), we primarily focus on fin
 [Derivatives](../d/derivatives.md) like [options](../o/options.md) and [futures](../f/futures.md) also [offer](../o/offer.md) [leverage](../l/leverage.md). These are financial contracts whose [value](../v/value.md) is derived from the performance of [underlying](../u/underlying.md) assets. Traders can enter large positions with a relatively small amount of [capital](../c/capital.md).
 
 #### Leveraged ETFs
-Leveraged [Exchange](../e/exchange.md)-Traded Funds (ETFs) use financial [derivatives](../d/derivatives.md) and [debt](../d/debt.md) to amplify the returns of an [underlying](../u/underlying.md) [index](../i/index.md). These are commonly used by traders aiming to exploit short-term [market](../m/market.md) movements.
+Leveraged [Exchange](../e/exchange.md)-Traded Funds (ETFs) use financial [derivatives](../d/derivatives.md) and [debt](../d/debt.md) to amplify the returns of an [underlying](../u/underlying.md) [index](../i/index_instrument.md). These are commonly used by traders aiming to exploit short-term [market](../m/market.md) movements.
 
 ### Leverage in Algorithmic Trading
 

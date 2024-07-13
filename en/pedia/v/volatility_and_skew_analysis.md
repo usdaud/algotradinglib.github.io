@@ -112,7 +112,7 @@
 
 ### Case Studies
 
-1. **The 2008 [Financial Crisis](../f/financial_crisis.md)**: [Volatility](../v/volatility.md) and skew [index](../i/index.md) models anticipated extreme [market](../m/market.md) moves, and those insights provided profitable trades and [risk](../r/risk.md) mitigation opportunities for algorithms designed to [capitalize](../c/capitalize.md) on [market](../m/market.md) dislocations.
+1. **The 2008 [Financial Crisis](../f/financial_crisis.md)**: [Volatility](../v/volatility.md) and skew [index](../i/index_instrument.md) models anticipated extreme [market](../m/market.md) moves, and those insights provided profitable trades and [risk](../r/risk.md) mitigation opportunities for algorithms designed to [capitalize](../c/capitalize.md) on [market](../m/market.md) dislocations.
 
 2. **COVID-19 [Market](../m/market.md) Impact**: Algorithms that leveraged rapidly changing [volatility](../v/volatility.md) and skew during the early months of the pandemic were well-positioned to navigate the unprecedented [market](../m/market.md) conditions.
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. RSI oscillates between zero and 100 and traditionally is considered [overbought](../o/overbought.md) when above 70 and [oversold](../o/oversold.md) when below 30. Developed by J. Welles Wilder, RSI is a widely used [momentum](../m/momentum.md) [indicator](../i/indicator.md) that has stood the test of time. One of its popular variations is the 10-period RSI.
+[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. RSI oscillates between zero and 100 and traditionally is considered [overbought](../o/overbought.md) when above 70 and [oversold](../o/oversold.md) when below 30. Developed by J. Welles Wilder, RSI is a widely used [momentum](../m/momentum.md) [indicator](../i/indicator.md) that has stood the test of time. One of its popular variations is the 10-period RSI.
 
 ## What is 10-Period RSI?
 

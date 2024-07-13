@@ -178,7 +178,7 @@ Moving averages smooth out price data to identify trends:
 ### Momentum Strategies
 
 [Momentum](../m/momentum.md) strategies exploit the tendency of assets to continue moving in the same direction:
-- Calculating [momentum indicators](../m/momentum_indicators.md) like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) over specific windows to enter trades.
+- Calculating [momentum indicators](../m/momentum_indicators.md) like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) over specific windows to enter trades.
 
 ## Tools and Platforms
 

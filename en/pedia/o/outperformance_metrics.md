@@ -4,7 +4,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), the ability 
 
 ## 1. Alpha
 
-[Alpha](../a/alpha.md) is a measure of an investment's performance compared to a [market index](../m/market_index.md) or [benchmark](../b/benchmark.md) that represents the [market](../m/market.md)'s broad movement. Essentially, [alpha](../a/alpha.md) indicates the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md).
+[Alpha](../a/alpha.md) is a measure of an investment's performance compared to a [market index](../m/market_index.md) or [benchmark](../b/benchmark.md) that represents the [market](../m/market.md)'s broad movement. Essentially, [alpha](../a/alpha.md) indicates the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 
 ### Calculation
 [Alpha](../a/alpha.md) can be calculated using the following formula:
@@ -126,7 +126,7 @@ where:
 
 ## 9. Kappa Index
 
-The [Kappa](../k/kappa.md) [index](../i/index.md) is an extension of the [Sortino Ratio](../s/sortino_ratio.md), where the [Kappa](../k/kappa.md) \(3\) or [Kappa](../k/kappa.md) \(4\) ratios are used to measure [risk](../r/risk.md)-adjusted returns based on higher-[order](../o/order.md) Lower Partial Moment [statistics](../s/statistics.md).
+The [Kappa](../k/kappa.md) [index](../i/index_instrument.md) is an extension of the [Sortino Ratio](../s/sortino_ratio.md), where the [Kappa](../k/kappa.md) \(3\) or [Kappa](../k/kappa.md) \(4\) ratios are used to measure [risk](../r/risk.md)-adjusted returns based on higher-[order](../o/order.md) Lower Partial Moment [statistics](../s/statistics.md).
 
 ### Calculation
 \[ \text{Kappa} (\[lambda](../l/lambda.md)) = \frac{R_p - R_f}{LPM_{\[lambda](../l/lambda.md)}} \]

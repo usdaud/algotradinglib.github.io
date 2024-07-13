@@ -1,10 +1,10 @@
 # Arms Index (TRIN)
 
-The Arms [Index](../i/index.md), also known as the TRIN (short for Trading [Index](../i/index.md)), is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) that measures the relationship between advancing and declining [stocks](../s/stock.md) and their respective [volume](../v/volume.md) levels on a given trading day. It was invented by Richard Arms in 1967 and is used predominantly to detect [market sentiment](../m/market_sentiment.md) and flow of funds in the [stock market](../s/stock_market.md). The TRIN is often considered a contrarian [indicator](../i/indicator.md), meaning that extreme values can signal potential [market](../m/market.md) reversals.
+The Arms [Index](../i/index_instrument.md), also known as the TRIN (short for Trading [Index](../i/index_instrument.md)), is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) that measures the relationship between advancing and declining [stocks](../s/stock.md) and their respective [volume](../v/volume.md) levels on a given trading day. It was invented by Richard Arms in 1967 and is used predominantly to detect [market sentiment](../m/market_sentiment.md) and flow of funds in the [stock market](../s/stock_market.md). The TRIN is often considered a contrarian [indicator](../i/indicator.md), meaning that extreme values can signal potential [market](../m/market.md) reversals.
 
 ## Calculation of the Arms Index
 
-The formula for calculating the Arms [Index](../i/index.md) is relatively straightforward:
+The formula for calculating the Arms [Index](../i/index_instrument.md) is relatively straightforward:
 
 \[ \text{TRIN} = \frac{(\text{Advancing Issues} / \text{Declining Issues})}{(\text{Advancing [Volume](../v/volume.md)} / \text{Declining [Volume](../v/volume.md)})} \]
 
@@ -30,7 +30,7 @@ Extremes in the TRIN [value](../v/value.md) often imply potential reversals in [
 
 ## TRIN in Practice
 
-The Arms [Index](../i/index.md) is used by traders to gauge the overall [market](../m/market.md) environment. It is particularly useful in conjunction with other indicators and [market](../m/market.md) analyses. TRIN's unique ability to incorporate both price movement and trading [volume](../v/volume.md) gives it an edge in providing a comprehensive view of [market sentiment](../m/market_sentiment.md).
+The Arms [Index](../i/index_instrument.md) is used by traders to gauge the overall [market](../m/market.md) environment. It is particularly useful in conjunction with other indicators and [market](../m/market.md) analyses. TRIN's unique ability to incorporate both price movement and trading [volume](../v/volume.md) gives it an edge in providing a comprehensive view of [market sentiment](../m/market_sentiment.md).
 
 ### Example Calculation
 
@@ -49,7 +49,7 @@ In this scenario, the TRIN [value](../v/value.md) of 1.0 suggests a balanced sen
 
 ## Historical Context and Effectiveness
 
-Richard W. Arms Jr. developed the Arms [Index](../i/index.md) in 1967. Over time, it has gained acceptance as a useful tool for understanding [market internals](../m/market_internals.md). While its creation predated the advent of modern computing in trading, the simplicity of its formula and the depth of insight it provides have allowed it to remain relevant.
+Richard W. Arms Jr. developed the Arms [Index](../i/index_instrument.md) in 1967. Over time, it has gained acceptance as a useful tool for understanding [market internals](../m/market_internals.md). While its creation predated the advent of modern computing in trading, the simplicity of its formula and the depth of insight it provides have allowed it to remain relevant.
 
 ### Advantages
 
@@ -76,4 +76,4 @@ Several trading platforms and financial services include TRIN indicators as part
 
 ## Conclusion
 
-The Arms [Index](../i/index.md) remains a valuable tool for traders interested in [market sentiment](../m/market_sentiment.md) and [volume analysis](../v/volume_analysis.md). Its ability to combine advancing and declining issues with their corresponding volumes provides a unique and actionable insight into [market](../m/market.md) conditions. While it is not without limitations, its simplicity and effectiveness have cemented its place in the toolbox of technical analysts and traders alike.
+The Arms [Index](../i/index_instrument.md) remains a valuable tool for traders interested in [market sentiment](../m/market_sentiment.md) and [volume analysis](../v/volume_analysis.md). Its ability to combine advancing and declining issues with their corresponding volumes provides a unique and actionable insight into [market](../m/market.md) conditions. While it is not without limitations, its simplicity and effectiveness have cemented its place in the toolbox of technical analysts and traders alike.

@@ -18,7 +18,7 @@ The CME was originally established in 1898 as the Chicago Butter and Egg Board. 
 
 Throughout the 20th century, the CME expanded its product offerings. In 1961, it introduced the first financial [futures contract](../f/futures_contract.md)—the International Monetary [Market](../m/market.md) (IMM)—which allowed participants to [hedge](../h/hedge.md) against [foreign exchange risk](../f/foreign_exchange_risk.md). This innovation marked the beginning of [financial derivatives](../f/financial_derivatives.md) trading.
 
-The 1970s saw further innovation with the introduction of [interest rate futures](../i/interest_rate_futures.md). In 1982, the CME launched [equity](../e/equity.md) [index futures](../i/index_futures.md), with the debut of the S&P 500 [futures contract](../f/futures_contract.md). This was followed by various other [equity](../e/equity.md) [index](../i/index.md) products, solidifying the CME’s role as a key player in the [financial markets](../f/financial_market.md).
+The 1970s saw further innovation with the introduction of [interest rate futures](../i/interest_rate_futures.md). In 1982, the CME launched [equity](../e/equity.md) [index futures](../i/index_futures.md), with the debut of the S&P 500 [futures contract](../f/futures_contract.md). This was followed by various other [equity](../e/equity.md) [index](../i/index_instrument.md) products, solidifying the CME’s role as a key player in the [financial markets](../f/financial_market.md).
 
 ### Technological Advancements
 

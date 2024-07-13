@@ -12,7 +12,7 @@ Learn more about LIBOR from [ICE Benchmark Administration](https://www.theice.co
 
 ## What is OIS?
 
-The Overnight Indexed [Swap](../s/swap.md) (OIS) is an [interest rate swap](../i/interest_rate_swap.md) agreement where one party agrees to pay a [fixed interest rate](../f/fixed_interest_rate.md) in [exchange](../e/exchange.md) for receiving a floating rate pegged to an overnight [index](../i/index.md), such as the [Federal Funds Rate](../f/federal_funds_rate.md) in the United States or EONIA ([Euro](../e/euro.md) Overnight [Index](../i/index.md) Average) in the [Eurozone](../e/eurozone.md). OIS rates are considered low-[risk](../r/risk.md) because they are based on the overnight repo rate, which is typically low and stable.
+The Overnight Indexed [Swap](../s/swap.md) (OIS) is an [interest rate swap](../i/interest_rate_swap.md) agreement where one party agrees to pay a [fixed interest rate](../f/fixed_interest_rate.md) in [exchange](../e/exchange.md) for receiving a floating rate pegged to an overnight [index](../i/index_instrument.md), such as the [Federal Funds Rate](../f/federal_funds_rate.md) in the United States or EONIA ([Euro](../e/euro.md) Overnight [Index](../i/index_instrument.md) Average) in the [Eurozone](../e/eurozone.md). OIS rates are considered low-[risk](../r/risk.md) because they are based on the overnight repo rate, which is typically low and stable.
 
 OIS contracts are particularly useful for [hedging interest rate risk](../h/hedging_interest_rate_risk.md) and for [monetary policy](../m/monetary_policy.md) signaling. They also serve as a [liquidity](../l/liquidity.md) [indicator](../i/indicator.md) and a [proxy](../p/proxy.md) for the true [risk](../r/risk.md)-free rate.
 

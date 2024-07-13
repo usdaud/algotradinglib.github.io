@@ -31,7 +31,7 @@ Algorithmic traders use the 20-week cycle to develop automated [trading strategi
 Algorithms identify the peaks and troughs of the 20-week cycle for optimal entry and exit points. For instance, entering a long position at the [trough](../t/trough.md) and exiting at the peak.
 
 ### Position Sizing
-Combining the 20-week cycle with other [technical indicators](../t/technical_indicators.md) such as [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can help in optimal [position sizing](../p/position_sizing.md).
+Combining the 20-week cycle with other [technical indicators](../t/technical_indicators.md) such as [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can help in optimal [position sizing](../p/position_sizing.md).
 
 ### Risk Management
 Implementing stop-loss and take-[profit](../p/profit.md) levels based on the 20-week cycle can enhance [risk management](../r/risk_management.md).

@@ -26,7 +26,7 @@ MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicat
 
 ### Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in [asset](../a/asset.md) prices.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in [asset](../a/asset.md) prices.
 
 **Formula:**
 \[ RSI = 100 - \frac{100}{1 + RS} \]

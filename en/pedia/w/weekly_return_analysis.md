@@ -60,7 +60,7 @@ Using adjusted closing prices, calculate the weekly returns:
 
 ### Strategy Development
 
-1. **[Regression Analysis](../r/regression_analysis.md):** Model weekly returns based on predictor variables like moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), or other [technical indicators](../t/technical_indicators.md).
+1. **[Regression Analysis](../r/regression_analysis.md):** Model weekly returns based on predictor variables like moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), or other [technical indicators](../t/technical_indicators.md).
 2. **Machine Learning Models:** Train models to predict next week's returns using past weekly returns and other features.
 3. **[Backtesting](../b/backtesting.md):** Simulate the performance of [trading strategies](../t/trading_strategies.md) using historical weekly returns to validate the algorithm.
 

@@ -1,6 +1,6 @@
 # Nominal Effective Exchange Rate (NEER)
 
-The [Nominal](../n/nominal.md) Effective [Exchange Rate](../e/exchange_rate.md) (NEER) is an [index](../i/index.md) that provides a summary measure of the [value](../v/value.md) of a [currency](../c/currency.md) against a basket of other currencies. Unlike a bilateral [exchange rate](../e/exchange_rate.md), which compares the [value](../v/value.md) of one [currency](../c/currency.md) to another, NEER assesses a country's [currency](../c/currency.md) [value](../v/value.md) in a generalized, multilateral context. This is particularly valuable for understanding the overall competitiveness of a country's goods and services.
+The [Nominal](../n/nominal.md) Effective [Exchange Rate](../e/exchange_rate.md) (NEER) is an [index](../i/index_instrument.md) that provides a summary measure of the [value](../v/value.md) of a [currency](../c/currency.md) against a basket of other currencies. Unlike a bilateral [exchange rate](../e/exchange_rate.md), which compares the [value](../v/value.md) of one [currency](../c/currency.md) to another, NEER assesses a country's [currency](../c/currency.md) [value](../v/value.md) in a generalized, multilateral context. This is particularly valuable for understanding the overall competitiveness of a country's goods and services.
 
 ## Definition and Calculation
 
@@ -49,7 +49,7 @@ Several institutions provide NEER data:
 
 ### Calculation Methodologies
 
-Different institutions may use different basket compositions, weightings, and methodologies to calculate NEER. Generally, weights are derived from [trade](../t/trade.md) [shares](../s/shares.md), often adjusted for factors like [trade](../t/trade.md) policies and sectoral differences. The choice of [base year](../b/base_year.md) ([benchmark](../b/benchmark.md) year for [index](../i/index.md) values) can also vary, impacting the interpretation of NEER trends.
+Different institutions may use different basket compositions, weightings, and methodologies to calculate NEER. Generally, weights are derived from [trade](../t/trade.md) [shares](../s/shares.md), often adjusted for factors like [trade](../t/trade.md) policies and sectoral differences. The choice of [base year](../b/base_year.md) ([benchmark](../b/benchmark.md) year for [index](../i/index_instrument.md) values) can also vary, impacting the interpretation of NEER trends.
 
 ## Limitations and Considerations
 

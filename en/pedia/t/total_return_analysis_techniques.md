@@ -78,7 +78,7 @@ The [Sharpe Ratio](../s/sharpe_ratio.md) measures the performance of an investme
 
 ### c. Alpha and Beta
 
-[Alpha](../a/alpha.md) and [Beta](../b/beta.md) are used to compare the performance of a portfolio against a [benchmark](../b/benchmark.md) [index](../i/index.md).
+[Alpha](../a/alpha.md) and [Beta](../b/beta.md) are used to compare the performance of a portfolio against a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 
 - **[Alpha](../a/alpha.md)**: Measures the [active return](../a/active_return.md) on an investment compared to a [market index](../m/market_index.md).
   - **Formula**:
@@ -136,7 +136,7 @@ Understanding total returns helps traders manage risks better by analyzing how d
 
 For [fund](../f/fund.md) managers and investors, benchmarking total returns against [market](../m/market.md) indices can provide valuable insights into performance relative to broader markets.
 
-- **Example**: Using S&P 500 [index](../i/index.md) as a [benchmark](../b/benchmark.md) to compare total returns of a diversified [equity](../e/equity.md) portfolio.
+- **Example**: Using S&P 500 [index](../i/index_instrument.md) as a [benchmark](../b/benchmark.md) to compare total returns of a diversified [equity](../e/equity.md) portfolio.
 
 ## 7. Advanced Techniques and Models
 

@@ -1,6 +1,6 @@
 # Floor Area Ratio (FAR)
 
-Floor Area Ratio (FAR), also referred to as Floor Space [Index](../i/index.md) (FSI) in some regions, is a crucial metric used in urban planning and [real estate](../r/real_estate.md) development to define the intensity of land use. It is a ratio of a building's total floor area to the size of the piece of land upon which it is built. FAR is employed by municipalities to control the density of development, promote efficient land use, and shape the urban form, hence making it an essential [factor](../f/factor.md) in urban design, [real estate](../r/real_estate.md) [economics](../e/economics.md), and [zoning](../z/zoning.md) regulations. 
+Floor Area Ratio (FAR), also referred to as Floor Space [Index](../i/index_instrument.md) (FSI) in some regions, is a crucial metric used in urban planning and [real estate](../r/real_estate.md) development to define the intensity of land use. It is a ratio of a building's total floor area to the size of the piece of land upon which it is built. FAR is employed by municipalities to control the density of development, promote efficient land use, and shape the urban form, hence making it an essential [factor](../f/factor.md) in urban design, [real estate](../r/real_estate.md) [economics](../e/economics.md), and [zoning](../z/zoning.md) regulations. 
 
 ## Definition and Calculation
 

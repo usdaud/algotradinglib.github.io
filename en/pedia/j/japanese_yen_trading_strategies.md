@@ -35,7 +35,7 @@ The Japanese Yen (JPY) is one of the most traded currencies in the world, playin
 
 1. **[Moving Average Crossovers](../m/moving_average_crossovers.md)**: Using different timeframes of moving averages (e.g., 50-day and 200-day) to signal buy/sell decisions. An algorithm continuously monitors these moving averages and generates [trading signals](../t/trading_signals.md) when they cross.
 
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) measuring the speed and change of price movements. A high RSI might signal an [overbought](../o/overbought.md) condition, while a low RSI might indicate an [oversold](../o/oversold.md) condition. Algorithms can be programmed to [trade](../t/trade.md) based on these RSI levels.
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) measuring the speed and change of price movements. A high RSI might signal an [overbought](../o/overbought.md) condition, while a low RSI might indicate an [oversold](../o/oversold.md) condition. Algorithms can be programmed to [trade](../t/trade.md) based on these RSI levels.
 
 ### Mean Reversion Strategies
 

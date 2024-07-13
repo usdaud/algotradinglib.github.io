@@ -36,7 +36,7 @@ Run-[Pullback](../p/pullback.md) Strategies, also known as [Trend](../t/trend.md
 3. **[Trend](../t/trend.md) Lines:**
    Drawing [trend](../t/trend.md) lines helps identify the overall direction of the [trend](../t/trend.md) and potential entry points during a [pullback](../p/pullback.md).
 
-4. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):**
+4. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):**
    RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It can indicate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions during a [pullback](../p/pullback.md).
 
 5. **Moving Average Convergence [Divergence](../d/divergence.md) (MACD):**

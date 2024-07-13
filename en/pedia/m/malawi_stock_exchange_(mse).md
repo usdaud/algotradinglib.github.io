@@ -52,8 +52,8 @@ The Malawi Stock [Exchange](../e/exchange.md) offers various financial products,
 
 The performance of the Malawi Stock [Exchange](../e/exchange.md) is measured by various [market](../m/market.md) indices, including:
 
-- **Malawi All Share [Index](../i/index.md) (MASI)**: The main [index](../i/index.md) that tracks the performance of all [listed](../l/listed.md) companies on the MSE.
-- **Domestic Share [Index](../i/index.md) (DSI)**: Tracks the performance of domestic companies [listed](../l/listed.md) on the MSE.
+- **Malawi All Share [Index](../i/index_instrument.md) (MASI)**: The main [index](../i/index_instrument.md) that tracks the performance of all [listed](../l/listed.md) companies on the MSE.
+- **Domestic Share [Index](../i/index_instrument.md) (DSI)**: Tracks the performance of domestic companies [listed](../l/listed.md) on the MSE.
 
 ## Challenges and Opportunities
 

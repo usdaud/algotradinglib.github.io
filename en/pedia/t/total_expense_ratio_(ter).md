@@ -62,7 +62,7 @@ These investment vehicles may have even higher TERs due to the complex strategie
 
 ### Index Funds
 
-[Index](../i/index.md) funds, which aim to replicate the performance of a specific [index](../i/index.md), generally have low TERs because they require minimal [active management](../a/active_management.md). This makes them a popular choice for investors seeking cost-effective, diversified, and passive investment [options](../o/options.md).
+[Index](../i/index_instrument.md) funds, which aim to replicate the performance of a specific [index](../i/index_instrument.md), generally have low TERs because they require minimal [active management](../a/active_management.md). This makes them a popular choice for investors seeking cost-effective, diversified, and passive investment [options](../o/options.md).
 
 ## TER vs. Other Cost Metrics
 

@@ -24,7 +24,7 @@ Variable annuities provide payments that can vary based on the performance of th
 
 ### Indexed Annuities
 
-Indexed annuities are linked to a [market index](../m/market_index.md), such as the S&P 500. Payments and account [value](../v/value.md) can increase based on the [index](../i/index.md)'s performance, [offering](../o/offering.md) a balance between growth potential and [risk](../r/risk.md).
+Indexed annuities are linked to a [market index](../m/market_index.md), such as the S&P 500. Payments and account [value](../v/value.md) can increase based on the [index](../i/index_instrument.md)'s performance, [offering](../o/offering.md) a balance between growth potential and [risk](../r/risk.md).
 
 ### Life Annuities
 

@@ -33,7 +33,7 @@ Several types of qualifying annuities cater to different retirement goals and [r
    
 2. **Variable Annuities**: Allow investment in a [range](../r/range.md) of securities, enabling the potential for higher returns, but also introducing [market risk](../m/market_risk.md). Returns vary based on the performance of the [underlying](../u/underlying.md) investments.
 
-3. **Indexed Annuities**: Tied to a specific financial [index](../i/index.md), such as the S&P 500, these annuities [offer](../o/offer.md) potential for higher returns than fixed annuities while protecting the [principal](../p/principal.md) against significant losses.
+3. **Indexed Annuities**: Tied to a specific financial [index](../i/index_instrument.md), such as the S&P 500, these annuities [offer](../o/offer.md) potential for higher returns than fixed annuities while protecting the [principal](../p/principal.md) against significant losses.
 
 4. **Immediate Annuities**: Begin payouts almost immediately after a [lump-sum payment](../l/lump-sum_payment.md) is made, suitable for those needing current [income](../i/income.md).
 

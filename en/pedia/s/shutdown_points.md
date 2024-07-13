@@ -15,7 +15,7 @@ A shutdown point is a pre-determined threshold at which trading is automatically
 ### 1. Circuit Breakers
 Circuit breakers are regulatory measures that halt trading temporarily during substantial declines or rises in the broader [market](../m/market.md). They come in various levels, typically categorized as:
 
-- **Level 1 Circuit Breaker**: A 7% decline in the S&P 500 [Index](../i/index.md) [will](../w/will.md) result in a 15-minute [trading halt](../t/trading_halt.md) if it occurs before 3:25 PM Eastern Time.
+- **Level 1 Circuit Breaker**: A 7% decline in the S&P 500 [Index](../i/index_instrument.md) [will](../w/will.md) result in a 15-minute [trading halt](../t/trading_halt.md) if it occurs before 3:25 PM Eastern Time.
 - **Level 2 Circuit Breaker**: A 13% decline [will](../w/will.md) trigger a similar halt under the same time constraints.
 - **Level 3 Circuit Breaker**: A 20% decline [will](../w/will.md) stop trading for the remainder of the trading day, regardless of the time.
 

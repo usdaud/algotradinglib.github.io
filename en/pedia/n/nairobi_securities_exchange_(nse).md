@@ -16,7 +16,7 @@ The NSE supports [multiple](../m/multiple.md) trading platforms, including:
 
 - **Automated Trading System (ATS)**: Introduced in 2006, it replaced the former [open outcry](../o/open_outcry.md) system. ATS facilitates real-time trading and enhances [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md). 
 - **Bonds Automated Trading System (BATS)**: Launched in 2009, BATS allows trading of government and corporate bonds electronically. 
-- **[Derivatives](../d/derivatives.md) [Market](../m/market.md) (NEXT)**: Started in 2019, NEXT offers [futures contracts](../f/futures_contracts.md) on selected NSE 25 [Index](../i/index.md) constituents and single stock [futures](../f/futures.md), allowing investors to [hedge](../h/hedge.md) and [leverage](../l/leverage.md). 
+- **[Derivatives](../d/derivatives.md) [Market](../m/market.md) (NEXT)**: Started in 2019, NEXT offers [futures contracts](../f/futures_contracts.md) on selected NSE 25 [Index](../i/index_instrument.md) constituents and single stock [futures](../f/futures.md), allowing investors to [hedge](../h/hedge.md) and [leverage](../l/leverage.md). 
 
 ### Market Segments
 
@@ -33,9 +33,9 @@ To list on the NSE, companies must adhere to specific requirements that vary acr
 
 The NSE is [home](../h/home.md) to some of East Africa's most significant companies, like Safaricom, [Equity](../e/equity.md) Group [Holdings](../h/holdings.md), and KCB Group. It tracks performance through various indices, including:
 
-- **NSE 20 Share [Index](../i/index.md)**: Measures the top 20 best performing companies by [market capitalization](../m/market_capitalization.md).
-- **NSE All Share [Index](../i/index.md) (NASI)**: Inclusive of all [listed](../l/listed.md) companies, it offers a comprehensive outlook of the [market](../m/market.md).
-- **NSE 25 Share [Index](../i/index.md)**: Consists of 25 top [listed](../l/listed.md) companies, providing a more expanded snapshot than the NSE 20.
+- **NSE 20 Share [Index](../i/index_instrument.md)**: Measures the top 20 best performing companies by [market capitalization](../m/market_capitalization.md).
+- **NSE All Share [Index](../i/index_instrument.md) (NASI)**: Inclusive of all [listed](../l/listed.md) companies, it offers a comprehensive outlook of the [market](../m/market.md).
+- **NSE 25 Share [Index](../i/index_instrument.md)**: Consists of 25 top [listed](../l/listed.md) companies, providing a more expanded snapshot than the NSE 20.
 
 ## Investment Opportunities and Products
 

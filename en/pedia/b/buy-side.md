@@ -24,7 +24,7 @@ Example: California Public Employees' Retirement System (CalPERS) ([calpers.ca.g
 #### Mutual Funds
 Mutual funds pool [money](../m/money.md) from [multiple](../m/multiple.md) investors to purchase a diversified portfolio of securities. Each [investor](../i/investor.md) owns [shares](../s/shares.md) in the [mutual fund](../m/mutual_fund.md), which represent a part of these [holdings](../h/holdings.md). Mutual funds are managed by professional portfolio managers who make investment decisions in line with the [fund](../f/fund.md)'s stated objectives.
 
-Example: Vanguard Group ([vanguard.com](https://www.vanguard.com)) is one of the largest [mutual fund](../m/mutual_fund.md) companies globally, known for its low-cost [index](../i/index.md) funds and retirement accounts.
+Example: Vanguard Group ([vanguard.com](https://www.vanguard.com)) is one of the largest [mutual fund](../m/mutual_fund.md) companies globally, known for its low-cost [index](../i/index_instrument.md) funds and retirement accounts.
 
 #### Sovereign Wealth Funds
 Sovereign [wealth](../w/wealth.md) funds are state-owned investment funds or entities that manage a country's reserves. These funds invest in various [asset](../a/asset.md) classes to achieve economic and financial objectives, such as stabilizing the [economy](../e/economy.md) and accumulating savings for future generations.
@@ -71,7 +71,7 @@ Compliance teams within buy-side firms monitor adherence to regulatory requireme
 
 ### Challenges and Future Trends
 
-Buy-side firms face a variety of challenges, including [market](../m/market.md) [volatility](../v/volatility.md), increased competition, and evolving regulatory requirements. Additionally, the rise of [passive investment strategies](../p/passive_investment_strategies.md), such as [index](../i/index.md) funds, is creating pressure on traditional [active management](../a/active_management.md) approaches.
+Buy-side firms face a variety of challenges, including [market](../m/market.md) [volatility](../v/volatility.md), increased competition, and evolving regulatory requirements. Additionally, the rise of [passive investment strategies](../p/passive_investment_strategies.md), such as [index](../i/index_instrument.md) funds, is creating pressure on traditional [active management](../a/active_management.md) approaches.
 
 Future trends in the buy-side [industry](../i/industry.md) include the increasing use of ESG (Environmental, Social, and Governance) criteria in investment decisions, the growth of alternative investments, and advancements in fintech that may further transform trading and [asset management](../a/asset_management.md).
 

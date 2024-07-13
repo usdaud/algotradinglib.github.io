@@ -10,7 +10,7 @@ In the context of [financial markets](../f/financial_market.md), the terms "[ove
 ### Indicators to Identify Oversold and Overbought Conditions
 
 #### Relative Strength Index (RSI)
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is one of the most commonly used [momentum oscillators](../m/momentum_oscillators.md) for identifying [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions. Developed by J. Welles Wilder Jr., RSI ranges from 0 to 100, with levels generally interpreted as follows:
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is one of the most commonly used [momentum oscillators](../m/momentum_oscillators.md) for identifying [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions. Developed by J. Welles Wilder Jr., RSI ranges from 0 to 100, with levels generally interpreted as follows:
 - RSI above 70: [Overbought](../o/overbought.md)
 - RSI below 30: [Oversold](../o/oversold.md)
 

@@ -26,7 +26,7 @@ Machine learning and AI can enhance ACPR by developing models trained on vast da
 
 ### Technical Indicators
 
-[Technical indicators](../t/technical_indicators.md) such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) are used alongside [pattern recognition](../p/pattern_recognition.md) to validate signals and improve [trading strategies](../t/trading_strategies.md).
+[Technical indicators](../t/technical_indicators.md) such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) are used alongside [pattern recognition](../p/pattern_recognition.md) to validate signals and improve [trading strategies](../t/trading_strategies.md).
 
 ## Techniques
 

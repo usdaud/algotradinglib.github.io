@@ -83,7 +83,7 @@ Machine learning and [artificial intelligence](../a/artificial_intelligence_in_t
 
 ### Integration with Other Indicators
 
-Chart patterns are more effective when combined with other [technical indicators](../t/technical_indicators.md) like moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and [Bollinger Bands](../b/bollinger_bands.md). This multi-faceted approach can [yield](../y/yield.md) more [robust](../r/robust.md) [trading signals](../t/trading_signals.md).
+Chart patterns are more effective when combined with other [technical indicators](../t/technical_indicators.md) like moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and [Bollinger Bands](../b/bollinger_bands.md). This multi-faceted approach can [yield](../y/yield.md) more [robust](../r/robust.md) [trading signals](../t/trading_signals.md).
 
 ### Examples from Industry
 

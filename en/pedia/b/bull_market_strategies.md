@@ -32,9 +32,9 @@ Even in a [bull market](../b/bull_market.md), [value investing](../v/value_inves
 
 ## Leveraged and Inverse ETFs
 
-[Leveraged ETFs](../l/leveraged_etfs.md) aim to amplify the returns of an [underlying](../u/underlying.md) [index](../i/index.md) using financial [derivatives](../d/derivatives.md) and [debt](../d/debt.md). These can be used to [capitalize](../c/capitalize.md) on short-term trends within a [bull market](../b/bull_market.md). However, they come with higher [risk](../r/risk.md) and are generally not recommended for long-term holding.
+[Leveraged ETFs](../l/leveraged_etfs.md) aim to amplify the returns of an [underlying](../u/underlying.md) [index](../i/index_instrument.md) using financial [derivatives](../d/derivatives.md) and [debt](../d/debt.md). These can be used to [capitalize](../c/capitalize.md) on short-term trends within a [bull market](../b/bull_market.md). However, they come with higher [risk](../r/risk.md) and are generally not recommended for long-term holding.
 
-1. **2x or 3x [Bull](../b/bull.md) ETFs**: These funds seek to deliver double or triple the daily performance of an [index](../i/index.md). Examples include the ProShares Ultra S&P500 (SSO) and Direxion Daily S&P 500 [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (SPXL).
+1. **2x or 3x [Bull](../b/bull.md) ETFs**: These funds seek to deliver double or triple the daily performance of an [index](../i/index_instrument.md). Examples include the ProShares Ultra S&P500 (SSO) and Direxion Daily S&P 500 [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (SPXL).
 2. **[Inverse ETFs](../i/inverse_etfs.md) for Hedging**: While [leveraged ETFs](../l/leveraged_etfs.md) aim for amplified gains, [inverse ETFs](../i/inverse_etfs.md) can be used to [hedge](../h/hedge.md) positions by shorting. These are valuable for mitigating risks when a [market](../m/market.md) [correction](../c/correction.md) is anticipated.
 
 ## IPO Investing

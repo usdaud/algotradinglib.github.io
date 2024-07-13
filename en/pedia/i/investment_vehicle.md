@@ -30,7 +30,7 @@ Mutual funds pool [money](../m/money.md) from [multiple](../m/multiple.md) inves
 - **[Diversification](../d/diversification.md):** By [investing](../i/investing.md) in a mix of assets, mutual funds reduce investment [risk](../r/risk.md).
 - **Professional Management:** Funds are managed by expert [fund](../f/fund.md) managers.
 - **[Fee](../f/fee.md) Structure:** May include management fees and other expenses.
-- **Types:** Include [equity](../e/equity.md) funds, [bond](../b/bond.md) funds, [index](../i/index.md) funds, etc.
+- **Types:** Include [equity](../e/equity.md) funds, [bond](../b/bond.md) funds, [index](../i/index_instrument.md) funds, etc.
 
 ## Exchange-Traded Funds (ETF)
 

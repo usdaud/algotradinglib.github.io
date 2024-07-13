@@ -29,7 +29,7 @@ Short-term trading refers to the strategies and actions that involve buying and 
 
 * **Popular Tools:**
   * Moving Averages
-  * [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)
+  * [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
   * [Bollinger Bands](../b/bollinger_bands.md)
   * MACD (Moving Average Convergence [Divergence](../d/divergence.md))
 

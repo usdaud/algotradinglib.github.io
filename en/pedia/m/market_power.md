@@ -16,10 +16,10 @@ An [oligopoly](../o/oligopoly.md) exists when a few firms dominate the [market](
 ## Measurement of Market Power
 
 ### Lerner Index
-The Lerner [Index](../i/index.md) measures a [firm](../f/firm.md)'s price-setting power, calculated as (P - MC) / P, where P is the price of the good and MC is the marginal cost. An [index](../i/index.md) close to 1 implies a high degree of [market](../m/market.md) power, as the [firm](../f/firm.md) can set prices significantly above marginal cost.
+The Lerner [Index](../i/index_instrument.md) measures a [firm](../f/firm.md)'s price-setting power, calculated as (P - MC) / P, where P is the price of the good and MC is the marginal cost. An [index](../i/index_instrument.md) close to 1 implies a high degree of [market](../m/market.md) power, as the [firm](../f/firm.md) can set prices significantly above marginal cost.
 
 ### Herfindahl-Hirschman Index (HHI)
-The Herfindahl-Hirschman [Index](../i/index.md) measures [market](../m/market.md) concentration by summing the squares of the [market](../m/market.md) [shares](../s/shares.md) of all firms within the [industry](../i/industry.md). An HHI below 1,500 indicates a competitive [market](../m/market.md), while above 2,500 suggests high concentration and possible [market](../m/market.md) power abuse.
+The Herfindahl-Hirschman [Index](../i/index_instrument.md) measures [market](../m/market.md) concentration by summing the squares of the [market](../m/market.md) [shares](../s/shares.md) of all firms within the [industry](../i/industry.md). An HHI below 1,500 indicates a competitive [market](../m/market.md), while above 2,500 suggests high concentration and possible [market](../m/market.md) power abuse.
 
 ### Market Share
 A simple measure of [market](../m/market.md) power, [market share](../m/market_share.md) indicates the proportion of total sales in the [market](../m/market.md) attributed to a particular [firm](../f/firm.md). While not the most comprehensive measure, it serves as an initial [indicator](../i/indicator.md) of competitive influence.

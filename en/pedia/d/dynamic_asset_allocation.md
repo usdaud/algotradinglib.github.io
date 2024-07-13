@@ -46,7 +46,7 @@ Dynamic [Asset Allocation](../a/asset_allocation.md) (DAA) is an [investment str
 4. **Core-Satellite Approach**:
     - **Stable Core**: Maintains a stable, long-term investment in core [asset](../a/asset.md) classes.
     - **Active Satellite**: Uses a smaller portion of the portfolio for [active management](../a/active_management.md) and higher-[risk](../r/risk.md) investments.
-    - **Example**: Maintaining a core investment in [index](../i/index.md) funds while actively managing a smaller portion in [stocks](../s/stock.md).
+    - **Example**: Maintaining a core investment in [index](../i/index_instrument.md) funds while actively managing a smaller portion in [stocks](../s/stock.md).
 
 ### Example Companies Implementing Dynamic Asset Allocation
 
@@ -55,7 +55,7 @@ Dynamic [Asset Allocation](../a/asset_allocation.md) (DAA) is an [investment str
     - **Link**: [BlackRock](https://www.blackrock.com)
 
 2. **Vanguard**:
-    - **Description**: Vanguard is a major [investment management](../i/investment_management.md) company known for its [index](../i/index.md) funds and ETFs, also providing dynamic [asset allocation](../a/asset_allocation.md) strategies through its actively managed funds.
+    - **Description**: Vanguard is a major [investment management](../i/investment_management.md) company known for its [index](../i/index_instrument.md) funds and ETFs, also providing dynamic [asset allocation](../a/asset_allocation.md) strategies through its actively managed funds.
     - **Link**: [Vanguard](https://www.vanguard.com)
 
 3. **State Street Global Advisors**:

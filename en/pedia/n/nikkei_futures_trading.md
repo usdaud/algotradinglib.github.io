@@ -4,7 +4,7 @@
 
 ## What are Nikkei Futures?
 
-[Nikkei](../n/nikkei.md) [futures](../f/futures.md) are financial contracts that obligate the buyer to purchase, or the seller to sell, the [Nikkei](../n/nikkei.md) 225 [index](../i/index.md) at a predetermined future date and price. The [Nikkei](../n/nikkei.md) 225, often referred to simply as the [Nikkei](../n/nikkei.md), is Japan's premier stock [market index](../m/market_index.md). It comprises 225 large, publicly traded companies [listed](../l/listed.md) on the Tokyo Stock [Exchange](../e/exchange.md), spanning various sectors from technology to [finance](../f/finance.md) and retail.
+[Nikkei](../n/nikkei.md) [futures](../f/futures.md) are financial contracts that obligate the buyer to purchase, or the seller to sell, the [Nikkei](../n/nikkei.md) 225 [index](../i/index_instrument.md) at a predetermined future date and price. The [Nikkei](../n/nikkei.md) 225, often referred to simply as the [Nikkei](../n/nikkei.md), is Japan's premier stock [market index](../m/market_index.md). It comprises 225 large, publicly traded companies [listed](../l/listed.md) on the Tokyo Stock [Exchange](../e/exchange.md), spanning various sectors from technology to [finance](../f/finance.md) and retail.
 
 The primary reason for trading [futures](../f/futures.md) is to [hedge](../h/hedge.md) against [risk](../r/risk.md) or to speculate on the future direction of the [market](../m/market.md).
 
@@ -39,7 +39,7 @@ Each [Nikkei](../n/nikkei.md) [futures contract](../f/futures_contract.md) speci
 
 1. **Hedging**: Corporations and institutional investors use [Nikkei](../n/nikkei.md) [futures](../f/futures.md) to [hedge](../h/hedge.md) their portfolios against potential declines in the Japanese [stock market](../s/stock_market.md).
    
-2. **[Speculation](../s/speculation.md)**: Traders take positions in [Nikkei](../n/nikkei.md) [futures](../f/futures.md) to [profit](../p/profit.md) from expected price movements in the [underlying](../u/underlying.md) [index](../i/index.md). This can be based on [technical analysis](../t/technical_analysis.md), fundamental research, or a combination of both.
+2. **[Speculation](../s/speculation.md)**: Traders take positions in [Nikkei](../n/nikkei.md) [futures](../f/futures.md) to [profit](../p/profit.md) from expected price movements in the [underlying](../u/underlying.md) [index](../i/index_instrument.md). This can be based on [technical analysis](../t/technical_analysis.md), fundamental research, or a combination of both.
     
 3. **[Arbitrage](../a/arbitrage.md)**: Traders may exploit price discrepancies between the [Nikkei](../n/nikkei.md) [futures](../f/futures.md) on different exchanges or between [futures](../f/futures.md) and the [underlying](../u/underlying.md) cash [market](../m/market.md).
 
@@ -59,7 +59,7 @@ Trading [futures](../f/futures.md) involves the following risks:
    
 2. **[Liquidity](../l/liquidity.md)**: [Nikkei](../n/nikkei.md) [futures](../f/futures.md) are highly [liquid](../l/liquid.md), which means that traders can enter and exit positions with ease.
    
-3. **Hedging Potential**: Investors can [hedge](../h/hedge.md) against adverse movements in the [underlying](../u/underlying.md) [index](../i/index.md), protecting their portfolios from significant losses.
+3. **Hedging Potential**: Investors can [hedge](../h/hedge.md) against adverse movements in the [underlying](../u/underlying.md) [index](../i/index_instrument.md), protecting their portfolios from significant losses.
     
 4. **[Market](../m/market.md) Access**: Provides international investors with direct access to the Japanese [stock market](../s/stock_market.md).
 
@@ -67,7 +67,7 @@ Trading [futures](../f/futures.md) involves the following risks:
 
 1. **Institutional Investors**: Banks, mutual funds, pension funds, and [insurance](../i/insurance.md) companies use [futures](../f/futures.md) to [hedge](../h/hedge.md) investments and speculative purposes.
    
-2. **Retail Traders**: Individual traders who speculate on the [index](../i/index.md)'s price movements or use [futures](../f/futures.md) for hedging purposes.
+2. **Retail Traders**: Individual traders who speculate on the [index](../i/index_instrument.md)'s price movements or use [futures](../f/futures.md) for hedging purposes.
     
 3. **[Market](../m/market.md) Makers**: Firms that provide [liquidity](../l/liquidity.md) by buying and selling [futures contracts](../f/futures_contracts.md), ensuring smooth [market](../m/market.md) operations.
    

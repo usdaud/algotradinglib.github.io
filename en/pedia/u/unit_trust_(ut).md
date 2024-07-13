@@ -40,7 +40,7 @@ Balanced [Unit Trusts](../u/unit_trusts.md) invest in a mix of equities, fixed-[
 
 ### Index Unit Trusts
 
-[Index](../i/index.md) [Unit Trusts](../u/unit_trusts.md) aim to replicate the performance of a specific [market index](../m/market_index.md), such as the S&P 500 or FTSE 100. These trusts use a passive [investment strategy](../i/investment_strategy.md), buying securities in the same proportion as the [index](../i/index.md) they track. The goal is to match the [index](../i/index.md) performance rather than [outperform](../o/outperform.md) it.
+[Index](../i/index_instrument.md) [Unit Trusts](../u/unit_trusts.md) aim to replicate the performance of a specific [market index](../m/market_index.md), such as the S&P 500 or FTSE 100. These trusts use a passive [investment strategy](../i/investment_strategy.md), buying securities in the same proportion as the [index](../i/index_instrument.md) they track. The goal is to match the [index](../i/index_instrument.md) performance rather than [outperform](../o/outperform.md) it.
 
 ## Advantages of Unit Trusts
 

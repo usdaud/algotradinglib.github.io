@@ -21,7 +21,7 @@ There are several types of signals that traders rely on:
 #### Technical Indicators
 [Technical indicators](../t/technical_indicators.md) are mathematical calculations based on historical prices, volumes, or [open interest](../o/open_interest.md). Common [technical indicators](../t/technical_indicators.md) include:
 - **Moving Averages (MA)**: Calculating the average price over a specific period.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measuring the speed and change of price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measuring the speed and change of price movements.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: A [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md).
 
 #### Statistical Models

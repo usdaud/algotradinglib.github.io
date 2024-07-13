@@ -102,7 +102,7 @@ In some cases, especially with Over-The-Counter (OTC) [options](../o/options.md)
 
 ### Portfolio Management
 
-A [hedge fund](../h/hedge_fund.md) that has a significant exposure to tech [stocks](../s/stock.md) might purchase [put options](../p/put_options.md) on a tech-heavy [index](../i/index.md) like the [NASDAQ](../n/nasdaq.md). This way, if the tech sector experiences a downturn, the losses in the portfolio would be [offset](../o/offset.md) by gains from the [put options](../p/put_options.md).
+A [hedge fund](../h/hedge_fund.md) that has a significant exposure to tech [stocks](../s/stock.md) might purchase [put options](../p/put_options.md) on a tech-heavy [index](../i/index_instrument.md) like the [NASDAQ](../n/nasdaq.md). This way, if the tech sector experiences a downturn, the losses in the portfolio would be [offset](../o/offset.md) by gains from the [put options](../p/put_options.md).
 
 ### Corporate Finance
 

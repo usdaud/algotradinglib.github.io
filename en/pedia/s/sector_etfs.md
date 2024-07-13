@@ -3,7 +3,7 @@
 ## Introduction to Sector ETFs
 
 ### Definition and Purpose
-Sector [Exchange](../e/exchange.md)-Traded Funds (ETFs) are investment funds that are traded on stock exchanges, much like individual [stocks](../s/stock.md). These funds focus their investments on [stocks](../s/stock.md) within a particular sector of the [economy](../e/economy.md), such as technology, healthcare, or energy. By concentrating investments in specific sectors, sector ETFs allow investors to [gain](../g/gain.md) targeted exposure to different segments of the [market](../m/market.md), which can be beneficial for both growth and [diversification strategies](../d/diversification_strategies.md). Sector ETFs typically replicate the performance of a specific [index](../i/index.md) that tracks companies within the chosen sector.
+Sector [Exchange](../e/exchange.md)-Traded Funds (ETFs) are investment funds that are traded on stock exchanges, much like individual [stocks](../s/stock.md). These funds focus their investments on [stocks](../s/stock.md) within a particular sector of the [economy](../e/economy.md), such as technology, healthcare, or energy. By concentrating investments in specific sectors, sector ETFs allow investors to [gain](../g/gain.md) targeted exposure to different segments of the [market](../m/market.md), which can be beneficial for both growth and [diversification strategies](../d/diversification_strategies.md). Sector ETFs typically replicate the performance of a specific [index](../i/index_instrument.md) that tracks companies within the chosen sector.
 
 ### Benefits of Sector ETFs
 
@@ -79,7 +79,7 @@ Materials Sector ETFs focus on companies involved in the production of [raw mate
 ## Key Players in the Sector ETF Market
 
 ### State Street Global Advisors (SPDR ETFs)
-State Street Global Advisors (SSGA) is a leading provider of ETFs. The SPDR (Standard & Poor's [Depository](../d/depository.md) [Receipts](../r/receipt.md)) ETFs are among the most well-known and widely traded ETFs. SSGA offers a comprehensive suite of sector ETFs that track the performance of various sectors represented in the S&P 500 [Index](../i/index.md).
+State Street Global Advisors (SSGA) is a leading provider of ETFs. The SPDR (Standard & Poor's [Depository](../d/depository.md) [Receipts](../r/receipt.md)) ETFs are among the most well-known and widely traded ETFs. SSGA offers a comprehensive suite of sector ETFs that track the performance of various sectors represented in the S&P 500 [Index](../i/index_instrument.md).
 
 - [Website](https://www.ssga.com/)
 
@@ -105,12 +105,12 @@ Investors use sector ETFs for tactical [asset allocation](../a/asset_allocation.
 Sector ETFs can be used to [hedge](../h/hedge.md) against specific risks in an investment portfolio. For instance, an [investor](../i/investor.md) heavily invested in the [technology sector](../t/technology_sector.md) may use [consumer staples](../c/consumer_staples.md) ETFs to [offset](../o/offset.md) potential [volatility](../v/volatility.md) in the tech sector.
 
 ### Core-Satellite Approach
-The core-satellite [investment strategy](../i/investment_strategy.md) involves building a core portfolio of broad-[market](../m/market.md) ETFs or [index](../i/index.md) funds and complementing it with satellite investments in sector ETFs to achieve higher returns or additional [diversification](../d/diversification.md).
+The core-satellite [investment strategy](../i/investment_strategy.md) involves building a core portfolio of broad-[market](../m/market.md) ETFs or [index](../i/index_instrument.md) funds and complementing it with satellite investments in sector ETFs to achieve higher returns or additional [diversification](../d/diversification.md).
 
 ## Performance Metrics and Analysis
 
 ### Tracking Error
-[Tracking error](../t/tracking_error.md) measures the difference between the performance of the sector ETF and its [underlying](../u/underlying.md) [index](../i/index.md). A low [tracking error](../t/tracking_error.md) indicates that the ETF closely replicates the performance of its [index](../i/index.md).
+[Tracking error](../t/tracking_error.md) measures the difference between the performance of the sector ETF and its [underlying](../u/underlying.md) [index](../i/index_instrument.md). A low [tracking error](../t/tracking_error.md) indicates that the ETF closely replicates the performance of its [index](../i/index_instrument.md).
 
 ### Expense Ratio
 The [expense ratio](../e/expense_ratio.md) represents the annual [fee](../f/fee.md) expressed as a percentage of the [fund](../f/fund.md)'s average assets under management (AUM). Lower [expense](../e/expense.md) ratios are generally preferred as they indicate lower costs for investors.

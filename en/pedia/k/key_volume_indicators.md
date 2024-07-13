@@ -14,11 +14,11 @@ There are several popular [volume indicators](../v/volume_indicators.md), each s
 3. **Chaikin [Money Flow](../m/money_flow.md) (CMF)**
 4. **[Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price (VWAP)**
 5. **Accumulation/[Distribution](../d/distribution.md) Line (A/D Line)**
-6. **[Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI)**
+6. **[Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI)**
 7. **[Klinger Oscillator](../k/klinger_oscillator.md)**
 8. **Ease of Movement (EOM)**
 9. **[Volume Oscillator](../v/volume_oscillator.md) (VO)**
-10. **Intraday Intensity [Index](../i/index.md) (III)**
+10. **Intraday Intensity [Index](../i/index_instrument.md) (III)**
 
 ### Volume Moving Average (VMA)
 The [Volume](../v/volume.md) Moving Average smoothes out daily [volume](../v/volume.md) data to provide a clearer picture of whether trading [volume](../v/volume.md) is increasing or decreasing over time. Traders often use a short-term moving average of [volume](../v/volume.md) (e.g., 10 days) and compare it with a longer-term moving average (e.g., 50 days) to identify potential upward or downward trends.
@@ -36,7 +36,7 @@ VWAP is a trading [benchmark](../b/benchmark.md) that gives the average price a 
 The Accumulation/[Distribution](../d/distribution.md) Line is derived from the cumulative sum of the [Money Flow](../m/money_flow.md) [Volume](../v/volume.md) over a period. It helps gauge whether a stock is being accumulated (bought) or distributed (sold). A rising line indicates accumulation, while a falling line indicates [distribution](../d/distribution.md).
 
 ### Money Flow Index (MFI)
-The [Money Flow](../m/money_flow.md) [Index](../i/index.md) is a [momentum](../m/momentum.md) [indicator](../i/indicator.md) that uses price and [volume](../v/volume.md) data to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md). It compares the price movements with [volume](../v/volume.md), generating readings that help predict potential price reversals.
+The [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) is a [momentum](../m/momentum.md) [indicator](../i/indicator.md) that uses price and [volume](../v/volume.md) data to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md). It compares the price movements with [volume](../v/volume.md), generating readings that help predict potential price reversals.
 
 ### Klinger Oscillator
 The [Klinger Oscillator](../k/klinger_oscillator.md) combines price movement and [volume](../v/volume.md) to predict potential price reversals in the [market](../m/market.md). It oscillates above and below a zero line, providing buy or sell signals based on the direction of the [oscillator](../o/oscillator.md).
@@ -48,7 +48,7 @@ The Ease of Movement [indicator](../i/indicator.md) attempts to quantify the rel
 The [Volume Oscillator](../v/volume_oscillator.md) measures the difference between two [volume](../v/volume.md) moving averages to identify changes in [volume](../v/volume.md) strength. It helps traders determine whether the [volume](../v/volume.md) is expanding or contracting over time.
 
 ### Intraday Intensity Index (III)
-The Intraday Intensity [Index](../i/index.md) analyzes the relationship between [volume](../v/volume.md) and price, attempting to identify the flow of funds in and out of a [security](../s/security.md). It helps spot buying and selling pressure and often highlights bullish or bearish divergences.
+The Intraday Intensity [Index](../i/index_instrument.md) analyzes the relationship between [volume](../v/volume.md) and price, attempting to identify the flow of funds in and out of a [security](../s/security.md). It helps spot buying and selling pressure and often highlights bullish or bearish divergences.
 
 ### Applying Volume Indicators in Algorithmic Trading
 In [algorithmic trading](../a/algorithmic_trading.md), [volume indicators](../v/volume_indicators.md) can be integrated into various [trading strategies](../t/trading_strategies.md) to enhance their accuracy and effectiveness. These indicators can be used to validate [trade](../t/trade.md) signals, confirm trends, and identify potential reversals or [breakout](../b/breakout.md) points. Here are some typical applications:

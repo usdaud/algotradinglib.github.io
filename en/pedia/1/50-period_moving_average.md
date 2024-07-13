@@ -20,7 +20,7 @@ The 50-period moving average can act as a dynamic support or resistance level. I
 
 ### Momentum Indicator
 
-Integrating the 50-period moving average with other [momentum indicators](../m/momentum_indicators.md), such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD), can enhance the accuracy of [trading signals](../t/trading_signals.md). When the 50-period MA aligns with these indicators' signals, it reinforces the probability of a significant price move.
+Integrating the 50-period moving average with other [momentum indicators](../m/momentum_indicators.md), such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD), can enhance the accuracy of [trading signals](../t/trading_signals.md). When the 50-period MA aligns with these indicators' signals, it reinforces the probability of a significant price move.
 
 ### Risk Management
 

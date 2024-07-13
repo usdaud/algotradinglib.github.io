@@ -45,9 +45,9 @@ The DSE offers various [market](../m/market.md) segments to cater to different t
 
 The DSE has several indices that provide a snapshot of [market](../m/market.md) performance. The primary indices are:
 
-- **DSEX:** The main [index](../i/index.md) that includes all [listed](../l/listed.md) companies.
+- **DSEX:** The main [index](../i/index_instrument.md) that includes all [listed](../l/listed.md) companies.
 - **DS30:** Comprises the 30 most significant and [liquid](../l/liquid.md) companies.
-- **DSES:** The Shariah-compliant [index](../i/index.md) featuring companies adhering to Islamic principles.
+- **DSES:** The Shariah-compliant [index](../i/index_instrument.md) featuring companies adhering to Islamic principles.
 
 These indices are used by investors to gauge [market](../m/market.md) performance and make informed investment decisions.
 

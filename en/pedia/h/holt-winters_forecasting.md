@@ -97,8 +97,8 @@ data = [112, 118, 132, 129, 121, 135, 148, 148, 136, 119, 104, 118, 115, 126,
         548, 559, 463, 407, 362, 405, 417, 391, 419, 461, 472, 535, 622, 606, 
         508, 461, 390, 432]
 
-[index](../i/index.md) = pd.date_range(start='1949', periods=len(data), freq='M')
-ts_data = pd.Series(data, [index](../i/index.md)=[index](../i/index.md))
+[index](../i/index_instrument.md) = pd.date_range(start='1949', periods=len(data), freq='M')
+ts_data = pd.Series(data, [index](../i/index_instrument.md)=[index](../i/index_instrument.md))
 
 # Holt-Winters model
 model = ExponentialSmoothing(ts_data, seasonal='add', seasonal_periods=12)

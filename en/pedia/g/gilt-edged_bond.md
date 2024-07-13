@@ -8,7 +8,7 @@ Gilt-edged bonds, commonly referred to simply as "[gilts](../g/gilts.md)," are h
 
 1. **Conventional [Gilts](../g/gilts.md)**: These are the most straightforward, paying a fixed semi-annual [interest](../i/interest.md) and repaying the [principal](../p/principal.md) at [maturity](../m/maturity.md).
 
-2. **[Index](../i/index.md)-Linked [Gilts](../g/gilts.md)**: The [principal](../p/principal.md) and [interest](../i/interest.md) payments vary according to an [inflation](../i/inflation.md) [index](../i/index.md), typically the UK Retail Prices [Index](../i/index.md) (RPI). These are designed to protect investors from [inflation](../i/inflation.md) [risk](../r/risk.md).
+2. **[Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md)**: The [principal](../p/principal.md) and [interest](../i/interest.md) payments vary according to an [inflation](../i/inflation.md) [index](../i/index_instrument.md), typically the UK Retail Prices [Index](../i/index_instrument.md) (RPI). These are designed to protect investors from [inflation](../i/inflation.md) [risk](../r/risk.md).
 
 3. **Dual-Dated [Gilts](../g/gilts.md)**: These [gilts](../g/gilts.md) have a [range](../r/range.md) of [maturity](../m/maturity.md) dates, [offering](../o/offering.md) the government flexibility on the actual date of [repayment](../r/repayment.md). However, these have become less common.
 
@@ -22,7 +22,7 @@ The most salient feature of gilt-edged bonds is their low [risk](../r/risk.md). 
 
 ### Predictable Returns
 
-The fixed [interest](../i/interest.md) payments make conventional [gilts](../g/gilts.md) attractive for investors seeking predictable [income](../i/income.md) streams. [Index](../i/index.md)-linked [gilts](../g/gilts.md) add the benefit of [inflation](../i/inflation.md) protection, making them particularly appealing in periods of high [inflation](../i/inflation.md).
+The fixed [interest](../i/interest.md) payments make conventional [gilts](../g/gilts.md) attractive for investors seeking predictable [income](../i/income.md) streams. [Index](../i/index_instrument.md)-linked [gilts](../g/gilts.md) add the benefit of [inflation](../i/inflation.md) protection, making them particularly appealing in periods of high [inflation](../i/inflation.md).
 
 ### Liquidity
 
@@ -66,7 +66,7 @@ Even for more aggressive portfolios, allocating a portion to [gilts](../g/gilts.
 
 ### Hedging Against Inflation
 
-[Index](../i/index.md)-linked [gilts](../g/gilts.md), in particular, [offer](../o/offer.md) a [hedge](../h/hedge.md) against [inflation](../i/inflation.md), as their payments adjust according to [inflation](../i/inflation.md) indices. This can protect the [purchasing power](../p/purchasing_power.md) of retirees and others relying on fixed incomes.
+[Index](../i/index_instrument.md)-linked [gilts](../g/gilts.md), in particular, [offer](../o/offer.md) a [hedge](../h/hedge.md) against [inflation](../i/inflation.md), as their payments adjust according to [inflation](../i/inflation.md) indices. This can protect the [purchasing power](../p/purchasing_power.md) of retirees and others relying on fixed incomes.
 
 ## Major Players in the Gilt Market
 

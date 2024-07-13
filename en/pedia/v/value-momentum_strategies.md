@@ -17,7 +17,7 @@
 
 [Momentum investing](../m/momentum_investing.md) involves capitalizing on [market](../m/market.md) trends by buying securities that are trending upward and selling those that are trending downward. This strategy is based on the premise that securities that have outperformed in the past [will](../w/will.md) continue to do so. Key metrics employed in [momentum investing](../m/momentum_investing.md) include:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **12-Month Price [Return](../r/return.md)**: [Stocks](../s/stock.md) with high past returns over 12 months are considered to have strong [momentum](../m/momentum.md).
 - **Moving Averages**: Used to identify trends; for example, a [50-day moving average](../1/50-day_moving_average.md) crossing above a [200-day moving average](../1/200-day_moving_average.md) is a bullish signal.
 

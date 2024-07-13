@@ -89,7 +89,7 @@ Machine learning models can identify complex patterns in historical data that tr
 [Technical analysis](../t/technical_analysis.md) involves using historical price and [volume](../v/volume.md) data to forecast future price movements. Common tools and indicators in [technical analysis](../t/technical_analysis.md) include:
 
 - **Moving Averages**: Simple, exponential moving averages.
-- **[Momentum Indicators](../m/momentum_indicators.md)**: [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), MACD.
+- **[Momentum Indicators](../m/momentum_indicators.md)**: [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), MACD.
 - **[Volume Indicators](../v/volume_indicators.md)**: On-balance [volume](../v/volume.md) (OBV), [Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price (VWAP).
 
 ## Real-World Applications

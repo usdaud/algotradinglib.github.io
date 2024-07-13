@@ -44,11 +44,11 @@ In the [financial markets](../f/financial_market.md), "Vest Fleece" could be uti
 
 ### Financial Instruments
 
-1. **[Derivatives](../d/derivatives.md)**: Financial contracts whose [value](../v/value.md) is derived from the performance of an [underlying asset](../u/underlying_asset.md), [index](../i/index.md), or rate.
+1. **[Derivatives](../d/derivatives.md)**: Financial contracts whose [value](../v/value.md) is derived from the performance of an [underlying asset](../u/underlying_asset.md), [index](../i/index_instrument.md), or rate.
    - Example: [Options](../o/options.md) and [futures contracts](../f/futures_contracts.md) used to [hedge](../h/hedge.md) or speculate on the price of an [asset](../a/asset.md).
 
 2. **Mutual Funds**: Investment vehicles consisting of a diversified portfolio of [stocks](../s/stock.md), bonds, or other securities, managed by professional [fund](../f/fund.md) managers.
-   - Example: [Index](../i/index.md) funds that aim to replicate the performance of a specific [index](../i/index.md) like the S&P 500.
+   - Example: [Index](../i/index_instrument.md) funds that aim to replicate the performance of a specific [index](../i/index_instrument.md) like the S&P 500.
 
 3. **[Insurance](../i/insurance.md)**: Financial products designed to provide protection against financial loss.
    - Example: [Life insurance](../l/life_insurance.md) policies that [offer](../o/offer.md) a [death benefit](../d/death_benefit.md) to beneficiaries.

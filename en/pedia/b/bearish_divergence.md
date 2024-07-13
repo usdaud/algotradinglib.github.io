@@ -20,7 +20,7 @@ Bearish [divergence](../d/divergence.md) is typically categorized into two types
 
 Several [technical indicators](../t/technical_indicators.md) can be employed to spot bearish [divergence](../d/divergence.md). Some of the most commonly used are:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements on a scale of 0 to 100. Bearish [divergence](../d/divergence.md) occurs when RSI makes lower highs while the price makes higher highs.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements on a scale of 0 to 100. Bearish [divergence](../d/divergence.md) occurs when RSI makes lower highs while the price makes higher highs.
 
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: Consists of two moving averages and a [histogram](../h/histogram.md). Bearish [divergence](../d/divergence.md) is identified when the price makes higher highs, but MACD line records lower highs.
 

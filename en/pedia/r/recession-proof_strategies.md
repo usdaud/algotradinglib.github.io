@@ -47,7 +47,7 @@ A [market](../m/market.md)-[neutral](../n/neutral.md) strategy seeks to exploit 
 
 #### Process of Implementation:
 - **[Z-Score Analysis](../z/z-score_analysis.md)**: Identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions based on the [Z-score](../z/z-score.md) of [asset](../a/asset.md) prices.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Employing RSI to detect buy and sell opportunities when prices deviate significantly from their historical average.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Employing RSI to detect buy and sell opportunities when prices deviate significantly from their historical average.
 
 ### 6. Defensive Assets and Hedging
 Utilizing defensive assets like gold, [utility](../u/utility.md) [stocks](../s/stock.md), and government bonds can provide stability during [market](../m/market.md) downturns. Hedging can protect a portfolio from adverse price movements.

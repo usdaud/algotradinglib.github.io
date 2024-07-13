@@ -46,7 +46,7 @@ Shakeout bars, or spring bars, show a sudden price drop followed by a sharp reco
 
 ## VSA and Technical Indicators
 
-While VSA primarily relies on price, [volume](../v/volume.md), and spread, traders often combine it with [technical indicators](../t/technical_indicators.md) to enhance their analysis and decision-making processes. Examples of such indicators include moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md).
+While VSA primarily relies on price, [volume](../v/volume.md), and spread, traders often combine it with [technical indicators](../t/technical_indicators.md) to enhance their analysis and decision-making processes. Examples of such indicators include moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md).
 
 ### Moving Averages
 Moving averages smooth out price data to identify trends and reversals. In VSA, moving averages can help confirm the [trend](../t/trend.md) direction during mark-up and mark-down phases.

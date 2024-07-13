@@ -26,19 +26,19 @@ Inverse [market](../m/market.md) strategies involve financial trading techniques
 
 ### Definition and Mechanics
 
-[Inverse ETFs](../i/inverse_etfs.md) are designed to provide gains corresponding to the inverse performance of a specific [index](../i/index.md) or [benchmark](../b/benchmark.md). For example, if the S&P 500 [index](../i/index.md) decreases by 2%, an inverse S&P 500 ETF aims to increase by approximately 2%.
+[Inverse ETFs](../i/inverse_etfs.md) are designed to provide gains corresponding to the inverse performance of a specific [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md). For example, if the S&P 500 [index](../i/index_instrument.md) decreases by 2%, an inverse S&P 500 ETF aims to increase by approximately 2%.
 
 ### Example and Process
 
 1. A [trader](../t/trader.md) purchases [shares](../s/shares.md) of an [inverse ETF](../i/inverse_etf.md) of the S&P 500.
-2. The S&P 500 [index](../i/index.md) declines by 3%.
+2. The S&P 500 [index](../i/index_instrument.md) declines by 3%.
 3. The [value](../v/value.md) of the [inverse ETF](../i/inverse_etf.md) increases by approximately 3%.
 
 ### Risks
 
 - **[Leverage](../l/leverage.md)**: Some [inverse ETFs](../i/inverse_etfs.md) use [leverage](../l/leverage.md), which can amplify both gains and losses.
 - **Daily Reset**: Most [inverse ETFs](../i/inverse_etfs.md) reset daily, meaning their performance is optimized for [short-term trading](../s/short-term_trading.md) rather than long-term holding.
-- **Tracking Errors**: Discrepancies between the performance of the [inverse ETF](../i/inverse_etf.md) and the [underlying](../u/underlying.md) [index](../i/index.md) due to fees and other operational factors.
+- **Tracking Errors**: Discrepancies between the performance of the [inverse ETF](../i/inverse_etf.md) and the [underlying](../u/underlying.md) [index](../i/index_instrument.md) due to fees and other operational factors.
 
 **Example Companies**:
 - [ProShares](https://www.proshares.com/) offers a variety of [inverse ETFs](../i/inverse_etfs.md).
@@ -70,7 +70,7 @@ Inverse [market](../m/market.md) strategies involve financial trading techniques
 
 ### Example and Process
 
-1. A trading algorithm is designed to identify [overbought](../o/overbought.md) conditions in a stock using [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI).
+1. A trading algorithm is designed to identify [overbought](../o/overbought.md) conditions in a stock using [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 2. Upon detecting such conditions, the algorithm triggers a [short sale](../s/short_sale.md).
 3. As the stock price declines, the algorithm automatically closes the position, securing a [profit](../p/profit.md).
 
@@ -93,8 +93,8 @@ Hedging involves taking an opposing position in a related [security](../s/securi
 ### Example and Process
 
 1. An [investor](../i/investor.md) holds a portfolio of tech [stocks](../s/stock.md).
-2. To [hedge](../h/hedge.md) against potential declines, the [investor](../i/investor.md) buys [put options](../p/put_options.md) on a tech stock [index](../i/index.md).
-3. If the tech stock [index](../i/index.md) decreases, the gains from the [put options](../p/put_options.md) [offset](../o/offset.md) the losses in the actual stock [holdings](../h/holdings.md).
+2. To [hedge](../h/hedge.md) against potential declines, the [investor](../i/investor.md) buys [put options](../p/put_options.md) on a tech stock [index](../i/index_instrument.md).
+3. If the tech stock [index](../i/index_instrument.md) decreases, the gains from the [put options](../p/put_options.md) [offset](../o/offset.md) the losses in the actual stock [holdings](../h/holdings.md).
 
 ### Risks
 

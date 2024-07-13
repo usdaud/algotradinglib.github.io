@@ -36,7 +36,7 @@ Where:
 - \( \sigma_d \) = [standard deviation](../s/standard_deviation.md) of the [downside risk](../d/downside_risk.md)
 
 ### 6. Information Ratio
-The [Information Ratio](../i/information_ratio.md) evaluates the performance of a [trading strategy](../t/trading_strategy.md) relative to a [benchmark](../b/benchmark.md) [index](../i/index.md), focusing on [excess return](../e/excess_return.md) per unit of [risk](../r/risk.md).
+The [Information Ratio](../i/information_ratio.md) evaluates the performance of a [trading strategy](../t/trading_strategy.md) relative to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), focusing on [excess return](../e/excess_return.md) per unit of [risk](../r/risk.md).
 
 ## Evaluation Methodologies
 

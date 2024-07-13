@@ -28,7 +28,7 @@ Heikin-Ashi charts modify the traditional [candlestick](../c/candlestick.md) cha
 
 ## Indicators and Overlays
 
-Indicators and overlays are mathematical calculations based on price, [volume](../v/volume.md), and/or [open interest](../o/open_interest.md) that are pasted on the price chart or displayed separately. Some of the popular indicators are Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md).
+Indicators and overlays are mathematical calculations based on price, [volume](../v/volume.md), and/or [open interest](../o/open_interest.md) that are pasted on the price chart or displayed separately. Some of the popular indicators are Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md).
 
 ### Moving Averages
 

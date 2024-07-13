@@ -14,7 +14,7 @@ Mathematically, for a [time series](../t/time_series.md) \(Y_t\), the lagged [va
 
 2. **[Autoregressive Models](../a/autoregressive.md)**: Models such as ARIMA (AutoRegressive Integrated Moving Average) use lagged variables to predict future prices based on historical data. These models are crucial in [forecasting](../f/forecasting.md) [financial time series](../f/financial_time_series.md).
 
-3. **[Indicator](../i/indicator.md) Development**: Many [technical indicators](../t/technical_indicators.md), such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and MACD (Moving Average Convergence [Divergence](../d/divergence.md)), are derived from lagged variables. These indicators help traders make decisions based on historical price movements and [momentum](../m/momentum.md).
+3. **[Indicator](../i/indicator.md) Development**: Many [technical indicators](../t/technical_indicators.md), such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and MACD (Moving Average Convergence [Divergence](../d/divergence.md)), are derived from lagged variables. These indicators help traders make decisions based on historical price movements and [momentum](../m/momentum.md).
 
 4. **[Risk Management](../r/risk_management.md)**: Lagged variables can also be used in [risk management](../r/risk_management.md) strategies. For instance, historical volatilities calculated from lagged returns are used to estimate future [risk](../r/risk.md) and adjust position sizes accordingly.
 

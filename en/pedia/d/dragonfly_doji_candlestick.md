@@ -47,7 +47,7 @@ Consider a scenario in which an algorithm is designed to [trade](../t/trade.md) 
 
 1. **Data Collection**: Gather historical price data for the [asset](../a/asset.md) in question.
 2. **[Pattern Recognition](../p/pattern_recognition.md)**: Identify any occurrences of the Dragonfly [Doji](../d/doji.md) pattern within the data.
-3. **Confirmation**: [Check](../c/check.md) for subsequent bullish candlesticks or additional [technical indicators](../t/technical_indicator.md) like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) signaling [oversold](../o/oversold.md) conditions.
+3. **Confirmation**: [Check](../c/check.md) for subsequent bullish candlesticks or additional [technical indicators](../t/technical_indicator.md) like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) signaling [oversold](../o/oversold.md) conditions.
 4. **[Execution](../e/execution.md)**: Place a buy [order](../o/order.md) if the pattern and confirmation criteria are met.
 5. **[Risk Management](../r/risk_management.md)**: Set a [stop-loss order](../s/stop-loss_order.md) at the lowest point of the Dragonfly's shadow and a take-[profit](../p/profit.md) [order](../o/order.md) based on a predefined ratio.
 

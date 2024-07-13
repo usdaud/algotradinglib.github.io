@@ -9,7 +9,7 @@
 - **Gini Coefficient**: A measure that represents [income](../i/income.md) [distribution](../d/distribution.md) across a population. The coefficient ranges from 0 (perfect equality) to 1 (perfect inequality).
 - **[Lorenz Curve](../l/lorenz_curve.md)**: A graphical representation of the [distribution](../d/distribution.md) of [income](../i/income.md) or [wealth](../w/wealth.md) within a society. The further the curve is from the 45-degree line of equality, the greater the inequality.
 
-Other methods include the Theil [index](../i/index.md), the Atkinson [index](../i/index.md), and various percentile ratios like the 90th/10th percentile ratio.
+Other methods include the Theil [index](../i/index_instrument.md), the Atkinson [index](../i/index_instrument.md), and various percentile ratios like the 90th/10th percentile ratio.
 
 ## Historical Context
 

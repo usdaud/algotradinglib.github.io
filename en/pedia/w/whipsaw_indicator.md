@@ -19,7 +19,7 @@ The term **[whipsaw](../w/whipsaw.md)** is derived from a type of handsaw used i
 ### Technical Indicators
 
 1. **Moving Averages**: One way to identify potential whipsaws is by looking at moving averages. Crossovers between short-term and long-term moving averages can sometimes result in [false signals](../f/false_signals_in_trading.md) or [whipsaw](../w/whipsaw.md) conditions.
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI can signal [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. Extreme RSI values might indicate potential whipsaws, especially when followed by rapid reversals.
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI can signal [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. Extreme RSI values might indicate potential whipsaws, especially when followed by rapid reversals.
 3. **[Bollinger Bands](../b/bollinger_bands.md)**: When the price moves close to the upper or lower band, a [reversal](../r/reversal.md) may be imminent, indicating a possible [whipsaw](../w/whipsaw.md).
 4. **[Volume Analysis](../v/volume_analysis.md)**: Sharp reversals accompanied by low trading [volume](../v/volume.md) can often signal a [whipsaw](../w/whipsaw.md).
 5. **ATR ([Average True Range](../a/average_true_range_(atr).md))**: High ATR values indicate high [volatility](../v/volatility.md), which could lead to [whipsaw](../w/whipsaw.md) movements.

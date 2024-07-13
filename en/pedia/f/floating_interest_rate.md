@@ -1,10 +1,10 @@
 # Floating Interest Rate
 
-Floating [interest](../i/interest.md) rates, also known as adjustable or variable [interest](../i/interest.md) rates, are an essential concept in the realm of [finance](../f/finance.md), including [algorithmic trading](../a/accountability.md) (algotrading). They contrast with fixed [interest](../i/interest.md) rates by varying over time based on changes in an [underlying](../u/underlying.md) [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) or [index](../i/index.md). This rate adjustment mechanism influences various financial instruments, including loans, mortgages, bonds, and [derivatives](../d/derivatives.md).
+Floating [interest](../i/interest.md) rates, also known as adjustable or variable [interest](../i/interest.md) rates, are an essential concept in the realm of [finance](../f/finance.md), including [algorithmic trading](../a/accountability.md) (algotrading). They contrast with fixed [interest](../i/interest.md) rates by varying over time based on changes in an [underlying](../u/underlying.md) [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) or [index](../i/index_instrument.md). This rate adjustment mechanism influences various financial instruments, including loans, mortgages, bonds, and [derivatives](../d/derivatives.md).
 
 ## Definition and Mechanism
 
-A floating [interest rate](../i/interest_rate.md) changes periodically, typically in [correlation](../c/correlation.md) with a standard [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) [index](../i/index.md). Common benchmarks include:
+A floating [interest rate](../i/interest_rate.md) changes periodically, typically in [correlation](../c/correlation.md) with a standard [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) [index](../i/index_instrument.md). Common benchmarks include:
 
 - **LIBOR (London Interbank Offered Rate)**: An average [interest rate](../i/interest_rate.md) estimated by leading banks in London which they would charge to borrow from other banks.
 - **SOFR (Secured Overnight [Financing](../f/financing.md) Rate)**: A broad measure of the cost of borrowing cash overnight collateralized by Treasury securities.
@@ -17,7 +17,7 @@ Floating [interest](../i/interest.md) rates adjust at specified intervals, such 
 ### Components
 
 A floating [interest rate](../i/interest_rate.md) typically consists of:
-- **[Index](../i/index.md) or [Benchmark](../b/benchmark.md) Rate**: The base rate that fluctuates over time.
+- **[Index](../i/index_instrument.md) or [Benchmark](../b/benchmark.md) Rate**: The base rate that fluctuates over time.
 - **Spread or [Margin](../m/margin.md)**: An additional fixed percentage added to the [benchmark](../b/benchmark.md) rate. This spread represents the [lender](../l/lender.md)'s [profit margin](../p/profit_margin.md) and compensates for various risks.
 
 For example, a floating rate [mortgage](../m/mortgage.md) might be expressed as LIBOR + 2%. If the current LIBOR is 1.5%, the [interest](../i/interest.md) for that period would be 3.5%.

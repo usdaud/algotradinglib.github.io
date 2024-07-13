@@ -40,7 +40,7 @@ Other costs such as clothing, personal care items, and household cleaning suppli
 
 ### Consumer Price Index (CPI)
 
-The Consumer Price [Index](../i/index.md) (CPI) is one of the most widely used measures to calculate the cost of living. It tracks the prices of a [basket of goods](../b/basket_of_goods.md) and services over time to measure [inflation](../i/inflation.md). Different countries have their own CPI calculations based on the most relevant items for their populations.
+The Consumer Price [Index](../i/index_instrument.md) (CPI) is one of the most widely used measures to calculate the cost of living. It tracks the prices of a [basket of goods](../b/basket_of_goods.md) and services over time to measure [inflation](../i/inflation.md). Different countries have their own CPI calculations based on the most relevant items for their populations.
 
 ### Purchasing Power Parity (PPP)
 
@@ -48,7 +48,7 @@ The Consumer Price [Index](../i/index.md) (CPI) is one of the most widely used m
 
 ### Cost of Living Index
 
-The Cost of Living [Index](../i/index.md) compares the relative cost of living between different locations. It typically includes various components such as housing, food, healthcare, and transportation, giving a comprehensive overview.
+The Cost of Living [Index](../i/index_instrument.md) compares the relative cost of living between different locations. It typically includes various components such as housing, food, healthcare, and transportation, giving a comprehensive overview.
 
 ## Cost of Living Adjustments (COLAs)
 

@@ -6,7 +6,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), the concept 
 
 **Outperformance** is the degree to which a [trading strategy](../t/trading_strategy.md) or investment portfolio exceeds the performance of a specified [benchmark](../b/benchmark.md). Essentially, it’s a metric that shows how well an investment has done relative to a particular standard.
 
-**[Benchmark](../b/benchmark.md)** in [financial markets](../f/financial_market.md) refers to a standard or a point of reference against which the performance of a strategy or investment portfolio can be measured. Commonly used benchmarks include indices like the S&P 500, MSCI World [Index](../i/index.md), or sector-specific indices. 
+**[Benchmark](../b/benchmark.md)** in [financial markets](../f/financial_market.md) refers to a standard or a point of reference against which the performance of a strategy or investment portfolio can be measured. Commonly used benchmarks include indices like the S&P 500, MSCI World [Index](../i/index_instrument.md), or sector-specific indices. 
 
 ### Importance of Benchmarks
 

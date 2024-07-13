@@ -127,7 +127,7 @@ print(signal)
 
 #### Combining Williams %R with Other Indicators
 
-While Williams %R provides valuable insights, combining it with other indicators such as Moving Averages (MAs), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), or [Bollinger Bands](../b/bollinger_bands.md) can enhance the reliability of [trading signals](../t/trading_signals.md).
+While Williams %R provides valuable insights, combining it with other indicators such as Moving Averages (MAs), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), or [Bollinger Bands](../b/bollinger_bands.md) can enhance the reliability of [trading signals](../t/trading_signals.md).
 
 For example, an algo-[trader](../t/trader.md) could use Williams %R in conjunction with a Moving Average to filter out [noise](../n/noise.md) and confirm true signals:
 

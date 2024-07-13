@@ -54,7 +54,7 @@ Algorithms leveraging machine learning can adapt to changing [market](../m/marke
 
 ### Statistical Techniques
 
-Methods like [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) and Maximum Diversification [Index](../i/index.md) (MDI) help isolate uncorrelated investment opportunities. They can decompose complex [market](../m/market.md) phenomena into simpler, uncorrelated factors that algorithms can then exploit for diversified investments.
+Methods like [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) and Maximum Diversification [Index](../i/index_instrument.md) (MDI) help isolate uncorrelated investment opportunities. They can decompose complex [market](../m/market.md) phenomena into simpler, uncorrelated factors that algorithms can then exploit for diversified investments.
 
 ### Scenario Analysis and Stress Testing
 

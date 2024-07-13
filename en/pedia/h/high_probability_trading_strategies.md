@@ -15,7 +15,7 @@ Successful high probability [trading strategies](../t/trading_strategies.md) rel
 - **[Downtrend](../d/downtrend.md)**: Characterized by lower lows and lower highs.
 - **Sideways [Trend](../t/trend.md)**: Occurs when the [market](../m/market.md) shows little directional movement.
  
-[Technical indicators](../t/technical_indicators.md) like moving averages (MA), the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) are often used to identify and confirm trends.
+[Technical indicators](../t/technical_indicators.md) like moving averages (MA), the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) are often used to identify and confirm trends.
 
 **[Momentum](../m/momentum.md)**
 
@@ -26,7 +26,7 @@ Successful high probability [trading strategies](../t/trading_strategies.md) rel
 
 **[Volatility](../v/volatility.md)**
 
-[Volatility](../v/volatility.md) indicates the extent of price fluctuations in the [market](../m/market.md). Higher [volatility](../v/volatility.md) generally increases trading opportunities, though it also entails higher [risk](../r/risk.md). Indicators such as [Bollinger Bands](../b/bollinger_bands.md), [Average True Range](../a/average_true_range_(atr).md) (ATR), and the [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX) help quantify [volatility](../v/volatility.md).
+[Volatility](../v/volatility.md) indicates the extent of price fluctuations in the [market](../m/market.md). Higher [volatility](../v/volatility.md) generally increases trading opportunities, though it also entails higher [risk](../r/risk.md). Indicators such as [Bollinger Bands](../b/bollinger_bands.md), [Average True Range](../a/average_true_range_(atr).md) (ATR), and the [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX) help quantify [volatility](../v/volatility.md).
 
 **[Risk Management](../r/risk_management.md)**
 

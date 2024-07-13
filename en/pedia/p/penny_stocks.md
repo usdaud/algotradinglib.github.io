@@ -39,7 +39,7 @@ Penny [stocks](../s/stock.md) generally refer to the [shares](../s/shares.md) of
 1. **[Market](../m/market.md) Data**: [Tick](../t/tick.md)-by-[tick](../t/tick.md) data from exchanges and OTC markets.
 2. **Financial Reports**: Quarterly [earnings](../e/earnings.md), SEC filings, etc.
 3. **News and [Social Media](../s/social_media.md)**: Sources like Twitter, Reddit (r/WallStreetBets), and financial news portals.
-4. **[Technical Indicators](../t/technical_indicators.md)**: Moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), etc.
+4. **[Technical Indicators](../t/technical_indicators.md)**: Moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), etc.
 
 ### Backtesting and Simulations
 1. **Historical Data**: Ensuring algorithms are tested across various [market](../m/market.md) conditions.

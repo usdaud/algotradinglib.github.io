@@ -10,7 +10,7 @@ A "relief [rally](../r/rally.md)" is a term used in the [financial markets](../f
 
 3. **Low [Volume](../v/volume.md)**: Often accompanied by low trading volumes compared to a sustained [market](../m/market.md) [uptrend](../u/uptrend.md), indicating that not all [market](../m/market.md) participants are convinced of a lasting recovery.
 
-4. **[Technical Indicators](../t/technical_indicator.md)**: [Technical analysis](../t/technical_analysis.md) can play a significant role in identifying relief rallies. Traders often look at [oversold](../o/oversold.md) conditions indicated by metrics like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) or [support levels](../s/support_levels.md) to gauge potential relief [rally](../r/rally.md) points.
+4. **[Technical Indicators](../t/technical_indicator.md)**: [Technical analysis](../t/technical_analysis.md) can play a significant role in identifying relief rallies. Traders often look at [oversold](../o/oversold.md) conditions indicated by metrics like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) or [support levels](../s/support_levels.md) to gauge potential relief [rally](../r/rally.md) points.
 
 ## Causes of a Relief Rally
 
@@ -34,7 +34,7 @@ A "relief [rally](../r/rally.md)" is a term used in the [financial markets](../f
 
 ### Technical Analysis
 
-- **RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md))**: An RSI below 30 is typically considered [oversold](../o/oversold.md), which might indicate a potential for a relief [rally](../r/rally.md).
+- **RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md))**: An RSI below 30 is typically considered [oversold](../o/oversold.md), which might indicate a potential for a relief [rally](../r/rally.md).
 - **[Support and Resistance](../s/support_and_resistance.md) Levels**: Identifying these levels can help traders predict points at which a relief [rally](../r/rally.md) might occur.
 - **[Volume Analysis](../v/volume_analysis.md)**: Low [volume](../v/volume.md) rallies may indicate a lack of strong conviction behind the price movement, signaling that it might be a temporary relief [rally](../r/rally.md) rather than a sustained [uptrend](../u/uptrend.md).
 

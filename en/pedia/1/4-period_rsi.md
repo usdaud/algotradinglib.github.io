@@ -1,6 +1,6 @@
 # 4-Period RSI
 
-The 4-Period [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements over a specified period, in this case, four periods. The RSI oscillates between zero and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md) for a given [security](../s/security.md).
+The 4-Period [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements over a specified period, in this case, four periods. The RSI oscillates between zero and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md) for a given [security](../s/security.md).
 
 ## Calculation of RSI
 The RSI is calculated using the following formula:

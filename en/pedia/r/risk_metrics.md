@@ -20,7 +20,7 @@ Conditional [Value](../v/value.md) at [Risk](../r/risk.md) (CVaR), also known as
 - **[Unsystematic Risk](../u/unsystematic_risk.md)**: [Risk](../r/risk.md) that is unique to a particular stock or [industry](../i/industry.md).
 
 ### 4. Alpha (α)
-[Alpha](../a/alpha.md) is a metric that quantifies the [excess return](../e/excess_return.md) of a portfolio relative to its [risk](../r/risk.md)-adjusted [benchmark](../b/benchmark.md) [index](../i/index.md). Positive [alpha](../a/alpha.md) indicates that the portfolio has outperformed its [benchmark](../b/benchmark.md), while negative [alpha](../a/alpha.md) signifies underperformance.
+[Alpha](../a/alpha.md) is a metric that quantifies the [excess return](../e/excess_return.md) of a portfolio relative to its [risk](../r/risk.md)-adjusted [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). Positive [alpha](../a/alpha.md) indicates that the portfolio has outperformed its [benchmark](../b/benchmark.md), while negative [alpha](../a/alpha.md) signifies underperformance.
 
 ### 5. Sharpe Ratio
 The [Sharpe Ratio](../s/sharpe_ratio.md) measures the [risk-adjusted return](../r/risk-adjusted_return.md) of a portfolio. It is calculated by subtracting the [risk](../r/risk.md)-free rate from the portfolio’s [return](../r/return.md) and then dividing this amount by the portfolio’s [standard deviation](../s/standard_deviation.md). A higher [Sharpe Ratio](../s/sharpe_ratio.md) indicates better [risk](../r/risk.md)-adjusted returns.

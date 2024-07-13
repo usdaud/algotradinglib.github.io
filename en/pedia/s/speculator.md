@@ -48,7 +48,7 @@ Economic reports, corporate [earnings announcements](../e/earnings_announcements
 
 ### Technical Analysis
 
-[Technical analysis](../t/technical_analysis.md) involves studying historical price charts and trading volumes to identify patterns, trends, and potential [market](../m/market.md) reversals. Common tools used in [technical analysis](../t/technical_analysis.md) include moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [Fibonacci retracement](../f/fibonacci_retracement.md) levels.
+[Technical analysis](../t/technical_analysis.md) involves studying historical price charts and trading volumes to identify patterns, trends, and potential [market](../m/market.md) reversals. Common tools used in [technical analysis](../t/technical_analysis.md) include moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Fibonacci retracement](../f/fibonacci_retracement.md) levels.
 
 ### Fundamental Analysis
 

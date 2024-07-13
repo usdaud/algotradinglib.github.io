@@ -53,7 +53,7 @@ An aggressive [investment strategy](../i/investment_strategy.md) is not without 
    Cryptocurrencies like [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/ethereum_.md) have shown substantial growth but are also known for their extreme [volatility](../v/volatility.md). Aggressive investors might allocate part of their portfolio to these digital assets.
 
 ### 4. **Leveraged ETFs**
-   [Leveraged ETFs](../l/leveraged_etfs.md) use [financial derivatives](../f/financial_derivatives.md) and [debt](../d/debt.md) to amplify the returns of an [underlying](../u/underlying.md) [index](../i/index.md). While they can provide substantial gains, they also come with higher [risk](../r/risk.md) compared to non-[leveraged ETFs](../l/leveraged_etfs.md).
+   [Leveraged ETFs](../l/leveraged_etfs.md) use [financial derivatives](../f/financial_derivatives.md) and [debt](../d/debt.md) to amplify the returns of an [underlying](../u/underlying.md) [index](../i/index_instrument.md). While they can provide substantial gains, they also come with higher [risk](../r/risk.md) compared to non-[leveraged ETFs](../l/leveraged_etfs.md).
 
 ## Managing an Aggressive Investment Portfolio
 

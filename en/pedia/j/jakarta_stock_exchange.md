@@ -66,14 +66,14 @@ Traders have the flexibility to use [market](../m/market.md) orders for immediat
 
 ### Jakarta Composite Index (JCI)
 
-The JCI, or IDX Composite, is the [benchmark](../b/benchmark.md) [index](../i/index.md) representing all [listed](../l/listed.md) companies on the IDX. It reflects overall [market](../m/market.md) performance and is a crucial reference for algorithmic traders. The JCI aids in:
+The JCI, or IDX Composite, is the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) representing all [listed](../l/listed.md) companies on the IDX. It reflects overall [market](../m/market.md) performance and is a crucial reference for algorithmic traders. The JCI aids in:
 
 - **[Market Sentiment Analysis](../m/market_sentiment_analysis.md):** Gauges [investor](../i/investor.md) sentiment and [market](../m/market.md) trends, aiding in the formulation of [trading strategies](../t/trading_strategies.md).
 - **Portfolio Benchmarking:** Provides a comparative measure for [portfolio performance](../p/portfolio_performance.md) evaluation.
 
 ### LQ45 Index
 
-The LQ45 [Index](../i/index.md) comprises the top 45 most [liquid](../l/liquid.md) and fundamentally strong [stocks](../s/stock.md). It serves as a vital tool for [algorithmic trading](../a/accountability.md) due to its attributes:
+The LQ45 [Index](../i/index_instrument.md) comprises the top 45 most [liquid](../l/liquid.md) and fundamentally strong [stocks](../s/stock.md). It serves as a vital tool for [algorithmic trading](../a/accountability.md) due to its attributes:
 
 - **[Liquidity](../l/liquidity.md):** High [liquidity](../l/liquidity.md) ensures seamless [trade](../t/trade.md) [execution](../e/execution.md) for algorithmic strategies.
 - **[Volatility](../v/volatility.md):** Intraday price movements [offer](../o/offer.md) opportunities for [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md).

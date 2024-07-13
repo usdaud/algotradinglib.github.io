@@ -31,7 +31,7 @@ Unitized funds come in various forms, depending on the types of assets they inve
 3. **Balanced Funds**: Invest in a mix of equities and bonds, aiming to balance [risk](../r/risk.md) and [return](../r/return.md).
 4. **[Money Market](../m/money_market.md) Funds**: Invest in short-term, high-quality [debt](../d/debt.md) instruments, aiming for [capital preservation](../c/capital_preservation.md) and [liquidity](../l/liquidity.md).
 5. **[Real Estate](../r/real_estate.md) Funds**: Invest in [real estate](../r/real_estate.md) properties or [real estate](../r/real_estate.md) investment trusts (REITs), providing exposure to the [real estate](../r/real_estate.md) [market](../m/market.md).
-6. **[Index](../i/index.md) Funds**: Track a specific [index](../i/index.md), such as the S&P 500, aiming to replicate the performance of the [benchmark](../b/benchmark.md) [index](../i/index.md).
+6. **[Index](../i/index_instrument.md) Funds**: Track a specific [index](../i/index_instrument.md), such as the S&P 500, aiming to replicate the performance of the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 7. **Sector Funds**: Focus on specific sectors like technology, healthcare, or energy, allowing investors to target specific industries.
 8. **Global or International Funds**: Invest in assets globally, providing exposure to international markets.
 
@@ -67,7 +67,7 @@ While unitized funds and mutual funds share similarities, such as pooling invest
 
 Several financial institutions and [asset management](../a/asset_management.md) companies [offer](../o/offer.md) unitized funds. Some notable providers include:
 
-- **Vanguard**: Known for its low-cost [index](../i/index.md) funds and wide [range](../r/range.md) of investment [options](../o/options.md).
+- **Vanguard**: Known for its low-cost [index](../i/index_instrument.md) funds and wide [range](../r/range.md) of investment [options](../o/options.md).
   [Vanguard](https://www.vanguard.com/)
 
 - **[Fidelity Investments](../f/fidelity_investments.md)**: Offers a broad spectrum of unitized funds, covering various [asset](../a/asset.md) classes and investment strategies.

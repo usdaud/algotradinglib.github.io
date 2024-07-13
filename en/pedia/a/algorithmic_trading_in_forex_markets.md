@@ -39,7 +39,7 @@ Forex [algorithmic trading](../a/algorithmic_trading.md) involves the use of com
 3. **[Market](../m/market.md) Making**: Provides [liquidity](../l/liquidity.md) by placing buy and sell orders and profiting from the spread.
 4. **[Mean Reversion](../m/mean_reversion.md)**: Assumes that prices [will](../w/will.md) revert to their historical averages.
    - [Bollinger Bands](../b/bollinger_bands.md)
-   - [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)
+   - [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
 5. **High-Frequency Trading (HFT)**: Executes a large number of orders within very short time frames to exploit small price discrepancies.
 6. **News-Based Trading**: Uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze and react to news events.
 

@@ -17,7 +17,7 @@ Often referred to as the "Japanese Economic Miracle," this era saw unprecedented
 - Investment in education and research and development.
 - Growth of major corporations such as Toyota, Sony, and Mitsubishi.
 
-The [stock market](../s/stock_market.md) flourished during this period, with the [Nikkei](../n/nikkei.md) 225 [index](../i/index.md), a major stock [market index](../m/market_index.md) for the Tokyo Stock [Exchange](../e/exchange.md), experiencing substantial gains.
+The [stock market](../s/stock_market.md) flourished during this period, with the [Nikkei](../n/nikkei.md) 225 [index](../i/index_instrument.md), a major stock [market index](../m/market_index.md) for the Tokyo Stock [Exchange](../e/exchange.md), experiencing substantial gains.
 
 ### The Bubble Economy (1986-1991)
 One of the most notable cycles in the Japanese [stock market](../s/stock_market.md) was the bubble [economy](../e/economy.md) of the late 1980s. This period was characterized by:
@@ -35,7 +35,7 @@ Following the collapse of the bubble [economy](../e/economy.md), Japan entered a
 - A banking crisis due to non-performing loans.
 - Slow [economic growth](../e/economic_growth.md) and persistent [deflation](../d/deflation.md).
 
-The [Nikkei](../n/nikkei.md) 225 [index](../i/index.md) plummeted to below 15,000 points by the late 1990s. The government's efforts to stimulate the [economy](../e/economy.md) through various fiscal and monetary policies had limited success during this period.
+The [Nikkei](../n/nikkei.md) 225 [index](../i/index_instrument.md) plummeted to below 15,000 points by the late 1990s. The government's efforts to stimulate the [economy](../e/economy.md) through various fiscal and monetary policies had limited success during this period.
 
 ## The Recovery and Abenomics (2000-present)
 ### Early 2000s Recovery

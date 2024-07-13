@@ -41,7 +41,7 @@ Machine learning models are increasingly used in QTA due to their ability to ide
 ## Momentum Strategies
 [Momentum](../m/momentum.md) strategies involve buying securities that have shown an upward price [trend](../t/trend.md) and selling those that have shown a downward [trend](../t/trend.md). Key concepts include:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: Analyzes the relationship between two moving averages to identify [momentum](../m/momentum.md) changes.
 
 ## Mean Reversion Strategies

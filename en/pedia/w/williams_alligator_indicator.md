@@ -75,7 +75,7 @@ Traders can exit their positions when the Lips cross into the Teeth and Jaw, ind
 In a typical Forex pair, say EUR/USD, the Alligator [indicator](../i/indicator.md) helps identify a significant upward [trend](../t/trend.md) when a strong [divergence](../d/divergence.md) between the Lips, Teeth, and Jaw is observed. 
 
 ### Example 2: Stock Market
-For equities like the S&P 500 [index](../i/index.md), the Alligator [indicator](../i/indicator.md) is beneficial during periods of strong directional movement, providing reliable buy or sell signals.
+For equities like the S&P 500 [index](../i/index_instrument.md), the Alligator [indicator](../i/indicator.md) is beneficial during periods of strong directional movement, providing reliable buy or sell signals.
 
 ## Conclusion
 

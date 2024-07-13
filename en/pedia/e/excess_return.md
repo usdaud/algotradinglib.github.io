@@ -10,7 +10,7 @@ Excess [return](../r/return.md) can be formally defined as follows:
 
 where \( R_i \) is the [return](../r/return.md) of the investment or portfolio, and \( R_b \) is the [return](../r/return.md) of the [benchmark](../b/benchmark.md) or [risk](../r/risk.md)-free rate.
 
-In most practical scenarios, the [benchmark](../b/benchmark.md) is typically an [index](../i/index.md) that represents the [market](../m/market.md) or a specific segment of it, such as the S&P 500 or a sectoral [index](../i/index.md). The [risk](../r/risk.md)-free rate often used in calculations is the [yield](../y/yield.md) on government securities, like [U.S. Treasury](../u/u.s._treasury.md) bonds.
+In most practical scenarios, the [benchmark](../b/benchmark.md) is typically an [index](../i/index_instrument.md) that represents the [market](../m/market.md) or a specific segment of it, such as the S&P 500 or a sectoral [index](../i/index_instrument.md). The [risk](../r/risk.md)-free rate often used in calculations is the [yield](../y/yield.md) on government securities, like [U.S. Treasury](../u/u.s._treasury.md) bonds.
 
 ## Importance
 

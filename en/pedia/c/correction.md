@@ -1,7 +1,7 @@
 # Correction
 
 ## Definition
-A **Correction** refers to a short-term decline in the price of a stock, [bond](../b/bond.md), [commodity](../c/commodity.md), or [index](../i/index.md), usually following a sustained increase. Corrections are generally seen as a normal part of [market cycles](../m/market_cycles.md) and occur when prices fall by 10% or more from their recent peak.
+A **Correction** refers to a short-term decline in the price of a stock, [bond](../b/bond.md), [commodity](../c/commodity.md), or [index](../i/index_instrument.md), usually following a sustained increase. Corrections are generally seen as a normal part of [market cycles](../m/market_cycles.md) and occur when prices fall by 10% or more from their recent peak.
 
 ## Key Components
 1. **Short-Term Decline**: Corrections typically involve a temporary drop in prices rather than a prolonged downturn.
@@ -22,10 +22,10 @@ A **Correction** refers to a short-term decline in the price of a stock, [bond](
 
 ## Example Scenario
 ### Stock Market Correction
-- **Recent Peak**: A major stock [index](../i/index.md), such as the S&P 500, reaches a new high of 4,500 points.
+- **Recent Peak**: A major stock [index](../i/index_instrument.md), such as the S&P 500, reaches a new high of 4,500 points.
 - **Correction Trigger**: Negative economic news, such as lower-than-expected corporate [earnings](../e/earnings.md) reports, causes [investor](../i/investor.md) concern.
-- **Price Decline**: Over a few weeks, the [index](../i/index.md) falls by 10% to 4,050 points.
-- **Recovery**: After the correction, [market](../m/market.md) conditions stabilize, and the [index](../i/index.md) begins to recover, moving back toward previous highs.
+- **Price Decline**: Over a few weeks, the [index](../i/index_instrument.md) falls by 10% to 4,050 points.
+- **Recovery**: After the correction, [market](../m/market.md) conditions stabilize, and the [index](../i/index_instrument.md) begins to recover, moving back toward previous highs.
 
 ## Differences Between Corrections and Bear Markets
 1. **[Duration](../d/duration.md)**: Corrections are typically short-term, lasting a few weeks to a few months. Bear markets are prolonged periods of declining prices, lasting months to years.

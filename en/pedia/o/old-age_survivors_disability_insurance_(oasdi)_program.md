@@ -41,7 +41,7 @@ For example, in 2023:
 
 ### Cost-of-Living Adjustments (COLA)
 
-OASDI benefits are adjusted annually based on changes in the Consumer Price [Index](../i/index.md) for Urban Wage Earners and Clerical Workers (CPI-W) to ensure that the [purchasing power](../p/purchasing_power.md) of benefits is maintained over time.
+OASDI benefits are adjusted annually based on changes in the Consumer Price [Index](../i/index_instrument.md) for Urban Wage Earners and Clerical Workers (CPI-W) to ensure that the [purchasing power](../p/purchasing_power.md) of benefits is maintained over time.
 
 ## Claiming Strategies
 

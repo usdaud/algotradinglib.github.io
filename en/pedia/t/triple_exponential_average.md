@@ -61,7 +61,7 @@ TRIX_t = \frac {EMA3_t - EMA3_{t-1}} {EMA3_{t-1}} \times 100
 
 Many traders use TRIX in combination with other [technical indicators](../t/technical_indicators.md) to confirm signals and trends. Common complementary indicators include:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Helps to identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Helps to identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD):** Offers insights into [trend](../t/trend.md) direction and [momentum](../m/momentum.md).
 - **[Volume Indicators](../v/volume_indicators.md):** Showing the strength behind price movements.
 

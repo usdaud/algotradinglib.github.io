@@ -1,12 +1,12 @@
 # Wilder's DMI (ADX)
 
-Wilder's Directional Movement [Index](../i/index.md) (DMI), often known simply as ADX ([Average Directional Index](../a/average_directional_index_(adx).md)), is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) designed by J. Welles Wilder. It is primarily used to quantify the strength of a [trend](../t/trend.md) in a financial [market](../m/market.md), be it an upward (bullish) or downward (bearish) [trend](../t/trend.md). Traders and analysts use ADX extensively because of its ability to reflect the dynamism or stability of trading patterns in diverse financial instruments, including [stocks](../s/stock.md), commodities, forex, and more.
+Wilder's Directional Movement [Index](../i/index_instrument.md) (DMI), often known simply as ADX ([Average Directional Index](../a/average_directional_index_(adx).md)), is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) designed by J. Welles Wilder. It is primarily used to quantify the strength of a [trend](../t/trend.md) in a financial [market](../m/market.md), be it an upward (bullish) or downward (bearish) [trend](../t/trend.md). Traders and analysts use ADX extensively because of its ability to reflect the dynamism or stability of trading patterns in diverse financial instruments, including [stocks](../s/stock.md), commodities, forex, and more.
 
-The ADX forms part of a comprehensive set of indicators introduced by Wilder in his seminal book, "New Concepts in Technical [Trading Systems](../t/trading_systems.md)," published in 1978. Besides ADX, Wilder also introduced the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), [Parabolic SAR](../p/parabolic_sar.md), and more, which have become indispensable tools in modern [technical analysis](../t/technical_analysis.md).
+The ADX forms part of a comprehensive set of indicators introduced by Wilder in his seminal book, "New Concepts in Technical [Trading Systems](../t/trading_systems.md)," published in 1978. Besides ADX, Wilder also introduced the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [Parabolic SAR](../p/parabolic_sar.md), and more, which have become indispensable tools in modern [technical analysis](../t/technical_analysis.md).
 
 ## Components of the DMI
 
-The Directional Movement [Index](../i/index.md) is comprised of three lines:
+The Directional Movement [Index](../i/index_instrument.md) is comprised of three lines:
 
 1. **Plus Directional [Indicator](../i/indicator.md) (+DI)** - Represents positive directional movement.
 2. **Minus Directional [Indicator](../i/indicator.md) (-DI)** - Represents negative directional movement.

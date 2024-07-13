@@ -28,7 +28,7 @@ UCITS can take various legal forms, including contractual funds, [open](../o/ope
 2. **[Bond](../b/bond.md) Funds**: Focus on fixed-[income](../i/income.md) securities such as government and corporate bonds.
 3. **[Money Market](../m/money_market.md) Funds**: Invest in short-term, low-[risk](../r/risk.md) instruments to provide [liquidity](../l/liquidity.md) and [preservation of capital](../p/preservation_of_capital.md).
 4. **Mixed Funds**: Combine equities and fixed-[income](../i/income.md) securities to balance [risk](../r/risk.md) and [return](../r/return.md).
-5. **[Index](../i/index.md) Funds**: Track specific [market](../m/market.md) indices and [offer](../o/offer.md) [passive investment strategies](../p/passive_investment_strategies.md).
+5. **[Index](../i/index_instrument.md) Funds**: Track specific [market](../m/market.md) indices and [offer](../o/offer.md) [passive investment strategies](../p/passive_investment_strategies.md).
 6. **[Fund](../f/fund.md) of Funds**: Invest in other UCITS funds to achieve [diversification](../d/diversification.md).
 
 ## UCITS Regulation History

@@ -38,13 +38,13 @@ Wedges can be tricky to interpret because they appear as both continuation and [
 
 ### Confirmation Indicators
 - **[Volume](../v/volume.md):** An increase in [volume](../v/volume.md) at the point of [breakout](../b/breakout.md) helps confirm the authenticity of the move.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** RSI [divergence](../d/divergence.md) can indicate the strength or weakness behind the move.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** RSI [divergence](../d/divergence.md) can indicate the strength or weakness behind the move.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD):** The alignment of moving averages can provide further insights into the direction of the [breakout](../b/breakout.md).
 
 ## Real-world Examples and Applications
 
 ### Equities
-In the [stock market](../s/stock_market.md), wedges often appear in individual stock charts and broader indices. For example, a rising wedge in an [equity](../e/equity.md) [index](../i/index.md) like the S&P 500 might signal an impending [market](../m/market.md) [correction](../c/correction.md).
+In the [stock market](../s/stock_market.md), wedges often appear in individual stock charts and broader indices. For example, a rising wedge in an [equity](../e/equity.md) [index](../i/index_instrument.md) like the S&P 500 might signal an impending [market](../m/market.md) [correction](../c/correction.md).
 
 ### Forex
 [Currency](../c/currency.md) pairs also exhibit [wedge patterns](../w/wedge_patterns.md). For instance, a falling wedge in EUR/USD might signal an upcoming bullish [trend](../t/trend.md), indicating a potential [reversal](../r/reversal.md) from a [downtrend](../d/downtrend.md).

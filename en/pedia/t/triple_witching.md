@@ -7,7 +7,7 @@ Triple witching refers to the simultaneous expiration of stock [options](../o/op
 The term "triple witching" comes from the old belief in witches' power becoming particularly strong at certain times. In [financial markets](../f/financial_market.md), it marks a moment when the confluence of expiring [derivative](../d/derivative.md) contracts can wreak havoc, akin to the chaos one might expect from a gathering of witches. The three main types of contracts expiring simultaneously are:
 
 1. **Stock [Options](../o/options.md)**: Contracts that give the holder the right, but not the obligation, to buy or sell a particular stock at a set price before the contract expires.
-2. **Stock [Index Futures](../i/index_futures.md)**: Contracts obligating the buyer to purchase, or the seller to sell, the [value](../v/value.md) of a particular stock [index](../i/index.md) (e.g., the S&P 500) at a future date.
+2. **Stock [Index Futures](../i/index_futures.md)**: Contracts obligating the buyer to purchase, or the seller to sell, the [value](../v/value.md) of a particular stock [index](../i/index_instrument.md) (e.g., the S&P 500) at a future date.
 3. **Stock [Index Options](../i/index_options.md)**: [Options](../o/options.md) on entire stock indices that give the right to buy or sell these indices at a predetermined price.
 
 ## Market Impact

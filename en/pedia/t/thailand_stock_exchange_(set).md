@@ -26,10 +26,10 @@ Key trading [statistics](../s/statistics.md) like price, [volume](../v/volume.md
 
 Several indices provide comprehensive insights into the performance of the overarching [market](../m/market.md), including but not limited to:
 
-1. **SET [Index](../i/index.md)**: The flagship [index](../i/index.md) that measures the price movements of common [stocks](../s/stock.md) [listed](../l/listed.md) on SET.
+1. **SET [Index](../i/index_instrument.md)**: The flagship [index](../i/index_instrument.md) that measures the price movements of common [stocks](../s/stock.md) [listed](../l/listed.md) on SET.
 2. **SET50**: Represents the 50 largest companies by [market](../m/market.md) cap.
 3. **SET100**: Similar to SET50 but includes the top 100 companies.
-4. **sSET [Index](../i/index.md)**: Inclusion of smaller [listed](../l/listed.md) companies, complementing the larger indices.
+4. **sSET [Index](../i/index_instrument.md)**: Inclusion of smaller [listed](../l/listed.md) companies, complementing the larger indices.
 5. **SETCLMV**: Stands for Cambodia, Laos, Myanmar, and Vietnam, focusing on companies with significant [business](../b/business.md) operations in these countries.
 
 ## Trading Systems and Technology

@@ -49,7 +49,7 @@ Systematic [hedge](../h/hedge.md) funds use various strategies differing in comp
 [Trend following](../t/trend_following.md) strategies aim to [capitalize](../c/capitalize.md) on [market](../m/market.md) trends by entering positions in the direction of the [trend](../t/trend.md). These strategies often use [technical indicators](../t/technical_indicators.md) such as moving averages and breakouts.
 
 1. **[Moving Average Crossovers](../m/moving_average_crossovers.md)**: Entering a [trade](../t/trade.md) when a short-term moving average crosses above a long-term moving average.
-2. **[Momentum Indicators](../m/momentum_indicators.md)**: Utilizing indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) to identify potential entry points.
+2. **[Momentum Indicators](../m/momentum_indicators.md)**: Utilizing indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) to identify potential entry points.
 3. **Breakouts**: Buying or selling when the price breaks through a predefined level of support or resistance.
 
 #### Mean Reversion

@@ -10,11 +10,11 @@ In [finance](../f/finance.md), [asset](../a/asset.md) management primarily invol
 
 #### Active Management
 
-[Active management](../a/active_management.md) is an approach where the [asset](../a/asset.md) manager makes specific investments with the goal of outperforming an investment [benchmark](../b/benchmark.md) [index](../i/index.md). This strategy involves continuous monitoring of the [market](../m/market.md), in-depth research, and a high level of involvement in [order](../o/order.md) to make buy, [hold](../h/hold.md), and sell decisions. [Fund](../f/fund.md) managers employing this strategy often use a variety of tools and techniques, including [fundamental analysis](../f/fundamental_analysis.md), [technical analysis](../t/technical_analysis.md), and macroeconomic analysis. Despite the potential for high returns, [active management](../a/active_management.md) usually comes with higher fees and may also involve higher levels of [risk](../r/risk.md).
+[Active management](../a/active_management.md) is an approach where the [asset](../a/asset.md) manager makes specific investments with the goal of outperforming an investment [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). This strategy involves continuous monitoring of the [market](../m/market.md), in-depth research, and a high level of involvement in [order](../o/order.md) to make buy, [hold](../h/hold.md), and sell decisions. [Fund](../f/fund.md) managers employing this strategy often use a variety of tools and techniques, including [fundamental analysis](../f/fundamental_analysis.md), [technical analysis](../t/technical_analysis.md), and macroeconomic analysis. Despite the potential for high returns, [active management](../a/active_management.md) usually comes with higher fees and may also involve higher levels of [risk](../r/risk.md).
 
 #### Passive Management
 
-Passive management involves creating a portfolio designed to mirror the performance of a specific [index](../i/index.md), such as the S&P 500 or the FTSE 100. This approach is based on the [efficient market hypothesis](../e/efficient_market_hypothesis.md), which suggests that it is difficult to consistently [outperform](../o/outperform.md) the [market](../m/market.md) due to its inherent [efficiency](../e/efficiency.md). Passive management typically involves lower fees and lower [transaction costs](../t/transaction_costs.md) because it requires fewer trades. [Exchange](../e/exchange.md)-traded funds (ETFs) and [index](../i/index.md) funds are examples of investment vehicles commonly used in passive management strategies.
+Passive management involves creating a portfolio designed to mirror the performance of a specific [index](../i/index_instrument.md), such as the S&P 500 or the FTSE 100. This approach is based on the [efficient market hypothesis](../e/efficient_market_hypothesis.md), which suggests that it is difficult to consistently [outperform](../o/outperform.md) the [market](../m/market.md) due to its inherent [efficiency](../e/efficiency.md). Passive management typically involves lower fees and lower [transaction costs](../t/transaction_costs.md) because it requires fewer trades. [Exchange](../e/exchange.md)-traded funds (ETFs) and [index](../i/index_instrument.md) funds are examples of investment vehicles commonly used in passive management strategies.
 
 #### Hybrid Strategies
 
@@ -67,7 +67,7 @@ Website: [BlackRock](https://www.blackrock.com/)
 
 ### Vanguard Group
 
-Vanguard is known for its low-cost [index](../i/index.md) funds and ETFs. As one of the largest [asset](../a/asset.md) management firms globally, Vanguard manages over $7 trillion in AUM.
+Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and ETFs. As one of the largest [asset](../a/asset.md) management firms globally, Vanguard manages over $7 trillion in AUM.
 
 Website: [Vanguard](https://www.vanguard.com/)
 

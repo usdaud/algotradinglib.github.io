@@ -39,7 +39,7 @@ The Jamaican Dollar is traded in the global [foreign exchange](../f/foreign_exch
 
 1. **[Historical Data Analysis](../h/historical_data_analysis.md)**: Historical price data of JMD is crucial for [backtesting](../b/backtesting.md) and validating [trading strategies](../t/trading_strategies.md).
 2. **[Economic Indicators](../e/economic_indicators.md)**: [Key economic indicators](../k/key_economic_indicators.md) like [interest](../i/interest.md) rates, [inflation](../i/inflation.md), GDP growth, and [trade](../t/trade.md) balance reports of Jamaica significantly impact JMD's [value](../v/value.md).
-3. **[Technical Indicators](../t/technical_indicator.md)**: Utilizing [technical indicators](../t/technical_indicator.md) like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md) to identify [trading signals](../t/trading_signals.md).
+3. **[Technical Indicators](../t/technical_indicator.md)**: Utilizing [technical indicators](../t/technical_indicator.md) like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md) to identify [trading signals](../t/trading_signals.md).
 
 ## Tools and Technologies for Trading JMD
 

@@ -1,6 +1,6 @@
 # Wilshire 5000 Total Market Index (TMWX)
 
-The Wilshire 5000 Total [Market Index](../m/market_index.md), commonly referred to simply as the Wilshire 5000, is a [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md) that aims to measure the performance of all U.S.-headquartered [equity](../e/equity.md) securities with readily available price data. It is named after the Wilshire Associates, the [investment management](../i/investment_management.md), consulting, and technology [firm](../f/firm.md) that created it. Established in 1974, the Wilshire 5000 is often used as a [benchmark](../b/benchmark.md) to represent the entirety of the U.S. [stock market](../s/stock_market.md).
+The Wilshire 5000 Total [Market Index](../m/market_index.md), commonly referred to simply as the Wilshire 5000, is a [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md) that aims to measure the performance of all U.S.-headquartered [equity](../e/equity.md) securities with readily available price data. It is named after the Wilshire Associates, the [investment management](../i/investment_management.md), consulting, and technology [firm](../f/firm.md) that created it. Established in 1974, the Wilshire 5000 is often used as a [benchmark](../b/benchmark.md) to represent the entirety of the U.S. [stock market](../s/stock_market.md).
 
 ## Background and Creation
 
@@ -17,15 +17,15 @@ The Wilshire 5000 includes any publicly traded company that meets the following 
 
 ### Calculation
 
-The Wilshire 5000 is a [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md). This means that each stock’s influence on the [index](../i/index.md) is proportional to its [market value](../m/market_value.md). The formula for calculating the [market](../m/market.md) cap of a company is:
+The Wilshire 5000 is a [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md). This means that each stock’s influence on the [index](../i/index_instrument.md) is proportional to its [market value](../m/market_value.md). The formula for calculating the [market](../m/market.md) cap of a company is:
 
 \[ \text{[Market](../m/market.md) Cap} = \text{Share Price} \times \text{Number of Outstanding [Shares](../s/shares.md)} \]
 
-The [index](../i/index.md) [value](../v/value.md) is then calculated by summing up the [market capitalization](../m/market_capitalization.md) of all included [stocks](../s/stock.md) and dividing by a divisor, which normalizes the [index](../i/index.md) [value](../v/value.md).
+The [index](../i/index_instrument.md) [value](../v/value.md) is then calculated by summing up the [market capitalization](../m/market_capitalization.md) of all included [stocks](../s/stock.md) and dividing by a divisor, which normalizes the [index](../i/index_instrument.md) [value](../v/value.md).
 
 ### Rebalancing
 
-The [index](../i/index.md) is rebalanced monthly to account for new listings, delistings, and corporate actions such as mergers and acquisitions. This ensures that the [index](../i/index.md) remains up-to-date and accurately reflects the current state of the [market](../m/market.md).
+The [index](../i/index_instrument.md) is rebalanced monthly to account for new listings, delistings, and corporate actions such as mergers and acquisitions. This ensures that the [index](../i/index_instrument.md) remains up-to-date and accurately reflects the current state of the [market](../m/market.md).
 
 ## Components of the Wilshire 5000
 
@@ -65,7 +65,7 @@ Various mutual funds and [exchange](../e/exchange.md)-traded funds (ETFs) aim to
 
 ### Macroeconomic Analysis
 
-Economists and policymakers may look at the Wilshire 5000 to gauge the health of the U.S. [economy](../e/economy.md). Because the [index](../i/index.md) includes companies from various sectors, it can provide insights into the performance of different economic segments.
+Economists and policymakers may look at the Wilshire 5000 to gauge the health of the U.S. [economy](../e/economy.md). Because the [index](../i/index_instrument.md) includes companies from various sectors, it can provide insights into the performance of different economic segments.
 
 ## Performance
 
@@ -79,7 +79,7 @@ During the 1980s and 1990s, the Wilshire 5000 saw substantial growth due to econ
 
 #### Dot-com Bubble and Burst (2000-2002)
 
-In the early 2000s, the [index](../i/index.md) experienced a significant decline during the dot-com bubble burst, reflecting the losses in technology [stocks](../s/stock.md).
+In the early 2000s, the [index](../i/index_instrument.md) experienced a significant decline during the dot-com bubble burst, reflecting the losses in technology [stocks](../s/stock.md).
 
 #### Global Financial Crisis (2007-2009)
 
@@ -87,25 +87,25 @@ The Wilshire 5000 experienced another sharp decline during the global [financial
 
 #### Post-crisis Recovery and Growth (2010-2020)
 
-The [index](../i/index.md) saw one of its most [robust](../r/robust.md) periods of growth following the [financial crisis](../f/financial_crisis.md), driven by an extended [bull market](../b/bull_market.md), technological advancements, and strong corporate [earnings](../e/earnings.md).
+The [index](../i/index_instrument.md) saw one of its most [robust](../r/robust.md) periods of growth following the [financial crisis](../f/financial_crisis.md), driven by an extended [bull market](../b/bull_market.md), technological advancements, and strong corporate [earnings](../e/earnings.md).
 
 ## Criticisms and Limitations
 
 ### Over-representation of Large Companies
 
-One criticism of the Wilshire 5000 is that it becomes very top-heavy due to its [market](../m/market.md)-cap-[weighted](../w/weighted.md) nature. Large companies like Apple and Microsoft have disproportionately large influence on the [index](../i/index.md).
+One criticism of the Wilshire 5000 is that it becomes very top-heavy due to its [market](../m/market.md)-cap-[weighted](../w/weighted.md) nature. Large companies like Apple and Microsoft have disproportionately large influence on the [index](../i/index_instrument.md).
 
 ### Inclusion Criteria
 
-The requirement that companies be headquartered and [listed](../l/listed.md) in the U.S. excludes some globally significant [stocks](../s/stock.md), which can limit the [index](../i/index.md)’s comprehensiveness.
+The requirement that companies be headquartered and [listed](../l/listed.md) in the U.S. excludes some globally significant [stocks](../s/stock.md), which can limit the [index](../i/index_instrument.md)’s comprehensiveness.
 
 ### Maintenance and Rebalancing
 
-Constant maintenance, including monthly [rebalancing](../r/rebalancing.md), ensures the [index](../i/index.md) stays current, but it also means it may not fully capture short-term [market](../m/market.md) movements and inefficiencies.
+Constant maintenance, including monthly [rebalancing](../r/rebalancing.md), ensures the [index](../i/index_instrument.md) stays current, but it also means it may not fully capture short-term [market](../m/market.md) movements and inefficiencies.
 
 ## Real-time Tracking and Data Access
 
-The Wilshire 5000 can be tracked in real-time via various financial news platforms and [stock market](../s/stock_market.md) websites. Investors and analysts who wish to follow the [index](../i/index.md) closely can rely on reputable data providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and Wilshire Associates themselves.
+The Wilshire 5000 can be tracked in real-time via various financial news platforms and [stock market](../s/stock_market.md) websites. Investors and analysts who wish to follow the [index](../i/index_instrument.md) closely can rely on reputable data providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and Wilshire Associates themselves.
 
 ### Official Website
 For more detailed information on the Wilshire 5000, you can visit the official Wilshire Associates website at [Wilshire Associates](https://www.wilshire.com/indexes).

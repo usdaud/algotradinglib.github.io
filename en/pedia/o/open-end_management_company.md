@@ -18,7 +18,7 @@ An [open](../o/open.md)-end management company, commonly referred to as a [mutua
 2. **[Bond](../b/bond.md) Funds**: Focus on fixed-[income](../i/income.md) securities, seeking regular [interest](../i/interest.md) [income](../i/income.md).
 3. **[Money Market](../m/money_market.md) Funds**: Invest in short-term, high-quality investments and aim to maintain a stable NAV of $1 per share.
 4. **Balanced Funds**: Combine [stocks](../s/stock.md) and bonds to balance [risk](../r/risk.md) and [return](../r/return.md).
-5. **[Index](../i/index.md) Funds**: Track a specific [market index](../m/market_index.md), such as the S&P 500.
+5. **[Index](../i/index_instrument.md) Funds**: Track a specific [market index](../m/market_index.md), such as the S&P 500.
 6. **Sector Funds**: Focus on a specific [industry](../i/industry.md) or sector, such as technology or healthcare.
 
 ### Investment Process
@@ -53,7 +53,7 @@ In the United States, [open](../o/open.md)-end management companies are regulate
 ### Leading Companies
 
 Some of the largest and most well-known [open](../o/open.md)-end management companies include:
-- **Vanguard Group**: Known for its low-cost [index](../i/index.md) funds [Vanguard](https://www.vanguard.com/)
+- **Vanguard Group**: Known for its low-cost [index](../i/index_instrument.md) funds [Vanguard](https://www.vanguard.com/)
 - **[Fidelity Investments](../f/fidelity_investments.md)**: Offers a wide [range](../r/range.md) of funds and investment services [Fidelity Investments](https://www.fidelity.com/)
 - **BlackRock**: Manages a variety of mutual funds and ETFs under its [iShares](../i/ishares.md) brand [BlackRock](https://www.blackrock.com/)
 - **T. Rowe Price**: Offers a selection of actively managed funds [T. Rowe Price](https://www.troweprice.com/)

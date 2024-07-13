@@ -1,6 +1,6 @@
 # VIX Options
 
-VIX [options](../o/options.md) are financial instruments that derive their [value](../v/value.md) from the [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX), often referred to as the "fear gauge" or "fear [index](../i/index.md)." The VIX measures the [market](../m/market.md)'s expectation of [volatility](../v/volatility.md) over the next 30 days, based on S&P 500 [index options](../i/index_options.md). By trading VIX [options](../o/options.md), investors can [gain](../g/gain.md) exposure to [volatility](../v/volatility.md) without needing to own any portfolio of [stocks](../s/stock.md) or other assets directly. 
+VIX [options](../o/options.md) are financial instruments that derive their [value](../v/value.md) from the [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX), often referred to as the "fear gauge" or "fear [index](../i/index_instrument.md)." The VIX measures the [market](../m/market.md)'s expectation of [volatility](../v/volatility.md) over the next 30 days, based on S&P 500 [index options](../i/index_options.md). By trading VIX [options](../o/options.md), investors can [gain](../g/gain.md) exposure to [volatility](../v/volatility.md) without needing to own any portfolio of [stocks](../s/stock.md) or other assets directly. 
 
 ## Introduction to VIX Options
 
@@ -30,7 +30,7 @@ VIX [options](../o/options.md) settle in cash rather than through the delivery o
 
 ### Options on Futures
 
-VIX [options](../o/options.md) are often traded on VIX [futures](../f/futures.md) rather than directly on the VIX [index](../i/index.md). VIX [futures](../f/futures.md) themselves provide exposure to expected future levels of [volatility](../v/volatility.md), and their prices can vary based on [market](../m/market.md) conditions, such as [contango](../c/contango.md) or [backwardation](../b/backwardation.md).
+VIX [options](../o/options.md) are often traded on VIX [futures](../f/futures.md) rather than directly on the VIX [index](../i/index_instrument.md). VIX [futures](../f/futures.md) themselves provide exposure to expected future levels of [volatility](../v/volatility.md), and their prices can vary based on [market](../m/market.md) conditions, such as [contango](../c/contango.md) or [backwardation](../b/backwardation.md).
 
 ## Strategies for Trading VIX Options
 
@@ -58,7 +58,7 @@ Various spread strategies can be employed with VIX [options](../o/options.md), s
 
 ### Complexity
 
-VIX [options](../o/options.md) are complex financial instruments; they require a deep understanding of the VIX [index](../i/index.md), option pricing, and [market](../m/market.md) [volatility](../v/volatility.md). Misjudgments can lead to significant losses.
+VIX [options](../o/options.md) are complex financial instruments; they require a deep understanding of the VIX [index](../i/index_instrument.md), option pricing, and [market](../m/market.md) [volatility](../v/volatility.md). Misjudgments can lead to significant losses.
 
 ### Market Conditions
 
@@ -72,7 +72,7 @@ The VIX represents the [volatility](../v/volatility.md) of the [market](../m/mar
 
 Several brokers and trading platforms [offer](../o/offer.md) VIX [options](../o/options.md) to investors. Here are a few notable ones:
 
-- **Cboe Global Markets:** [Home](../h/home.md) to the VIX [index](../i/index.md) and primary marketplace for VIX [options](../o/options.md) trading. More information can be found [here](https://www.cboe.com/).
+- **Cboe Global Markets:** [Home](../h/home.md) to the VIX [index](../i/index_instrument.md) and primary marketplace for VIX [options](../o/options.md) trading. More information can be found [here](https://www.cboe.com/).
 - **[Interactive Brokers](../i/interactive_brokers.md):** Provides access to VIX [options](../o/options.md) among various other complex [derivatives](../d/derivatives.md). More details are available at [Interactive Brokers](https://www.interactivebrokers.com/).
 - **TD [Ameritrade](../a/ameritrade.md):** Offers educational resources and trading access to VIX [options](../o/options.md). Visit their site at [TD Ameritrade](https://www.tdameritrade.com/).
 

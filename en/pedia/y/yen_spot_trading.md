@@ -18,7 +18,7 @@ When traders engage in yen spot trading, they are speculating on the future move
 
 1. **Gross Domestic Product (GDP)**: The overall economic performance of Japan has a direct impact on the yen’s [value](../v/value.md). A growing GDP generally strengthens the yen.
    
-2. **[Inflation](../i/inflation.md) Rates**: Japan’s Consumer Price [Index](../i/index.md) (CPI) and Producer Price [Index](../i/index.md) (PPI) are crucial indicators. Higher [inflation](../i/inflation.md) generally weakens a [currency](../c/currency.md) because it reduces [purchasing power](../p/purchasing_power.md).
+2. **[Inflation](../i/inflation.md) Rates**: Japan’s Consumer Price [Index](../i/index_instrument.md) (CPI) and Producer Price [Index](../i/index_instrument.md) (PPI) are crucial indicators. Higher [inflation](../i/inflation.md) generally weakens a [currency](../c/currency.md) because it reduces [purchasing power](../p/purchasing_power.md).
    
 3. **[Interest](../i/interest.md) Rates**: The [Bank](../b/bank.md) of Japan (BoJ) controls the [interest](../i/interest.md) rates, which in turn influences the yen’s [value](../v/value.md). Higher [interest](../i/interest.md) rates attract foreign [capital](../c/capital.md), leading to a stronger yen.
    
@@ -61,7 +61,7 @@ When traders engage in yen spot trading, they are speculating on the future move
 [Technical analysis](../t/technical_analysis.md) relies on historical price data and statistical indicators to forecast future price movements. Popular technical strategies include:
 
 - **Moving Averages**: Traders use various types of moving averages (simple, exponential) to smooth out price data and identify trends.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: This [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) measures the speed and change of price movements to predict [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: This [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) measures the speed and change of price movements to predict [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Fibonacci Retracement](../f/fibonacci_retracement.md) Levels**: These are used to predict potential [support and resistance](../s/support_and_resistance.md) levels based on past price movements.
 
 ## Risk Management in Yen Spot Trading

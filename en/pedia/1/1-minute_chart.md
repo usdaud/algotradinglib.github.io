@@ -22,7 +22,7 @@ Moving averages are widely used in 1-minute charts to smooth out [price action](
 
 #### Indicators and Oscillators
 
-Various [technical indicators](../t/technical_indicators.md) and oscillators can be superimposed on 1-minute charts to enhance signal accuracy. Commonly used indicators include the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md). These indicators help in identifying [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions, convergence and [divergence](../d/divergence.md), and [volatility](../v/volatility.md) bands.
+Various [technical indicators](../t/technical_indicators.md) and oscillators can be superimposed on 1-minute charts to enhance signal accuracy. Commonly used indicators include the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md). These indicators help in identifying [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions, convergence and [divergence](../d/divergence.md), and [volatility](../v/volatility.md) bands.
 
 ## Advantages of Using 1-Minute Charts in Algotrading
 

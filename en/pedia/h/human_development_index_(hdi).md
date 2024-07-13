@@ -1,6 +1,6 @@
 # Human Development Index (HDI)
 
-The Human Development [Index](../i/index.md) (HDI) is a composite statistic that assesses the social and economic development levels of countries around the world. Developed by the United Nations Development Programme (UNDP), the HDI aims to provide a broader measure of development than solely [economic indicators](../e/economic_indicators.md) such as Gross Domestic Product (GDP). By incorporating indicators related to health, education, and [standard of living](../s/standard_of_living.md), the HDI offers a multidimensional perspective on human well-being and social progress.
+The Human Development [Index](../i/index_instrument.md) (HDI) is a composite statistic that assesses the social and economic development levels of countries around the world. Developed by the United Nations Development Programme (UNDP), the HDI aims to provide a broader measure of development than solely [economic indicators](../e/economic_indicators.md) such as Gross Domestic Product (GDP). By incorporating indicators related to health, education, and [standard of living](../s/standard_of_living.md), the HDI offers a multidimensional perspective on human well-being and social progress.
 
 ## Components of HDI
 
@@ -30,13 +30,13 @@ Normalization of the indicators involves setting minimum and maximum values for 
 
 The formula for normalization is:
 
-\[ \text{Dimension [Index](../i/index.md)} = \frac{\text{Actual [Value](../v/value.md)} - \text{Minimum [Value](../v/value.md)}}{\text{Maximum [Value](../v/value.md)} - \text{Minimum [Value](../v/value.md)}} \]
+\[ \text{Dimension [Index](../i/index_instrument.md)} = \frac{\text{Actual [Value](../v/value.md)} - \text{Minimum [Value](../v/value.md)}}{\text{Maximum [Value](../v/value.md)} - \text{Minimum [Value](../v/value.md)}} \]
 
 ### Aggregation
 
 Once the dimension indices are computed, the HDI is calculated by taking the [geometric mean](../g/geometric_mean_in_trading.md) of these indices:
 
-\[ \text{HDI} = \left(\text{Health Index} \times \text{Education Index} \times \text{[Income](../i/income.md) [Index](../i/index.md)}\right)^{\frac{1}{3}} \]
+\[ \text{HDI} = \left(\text{Health Index} \times \text{Education Index} \times \text{[Income](../i/income.md) [Index](../i/index_instrument.md)}\right)^{\frac{1}{3}} \]
 
 This method ensures that no single dimension dominates the overall HDI score, promoting a balanced evaluation of development.
 
@@ -69,16 +69,16 @@ While the HDI is a valuable tool for assessing human development, it has faced s
 
 Several alternative measures and indices have been proposed to address some of the HDI's limitations:
 
-1. **Inequality-adjusted Human Development [Index](../i/index.md) (IHDI)**: The IHDI adjusts the HDI for inequality in each dimension, providing a more nuanced view of human development.
+1. **Inequality-adjusted Human Development [Index](../i/index_instrument.md) (IHDI)**: The IHDI adjusts the HDI for inequality in each dimension, providing a more nuanced view of human development.
   
-2. **Gender Development [Index](../i/index.md) (GDI)**: The GDI measures gender [gaps](../g/gap.md) in human development achievements by [accounting](../a/accounting.md) for disparities between men and women.
+2. **Gender Development [Index](../i/index_instrument.md) (GDI)**: The GDI measures gender [gaps](../g/gap.md) in human development achievements by [accounting](../a/accounting.md) for disparities between men and women.
 
-3. **Gender Inequality [Index](../i/index.md) (GII)**: The GII focuses on gender-based inequalities in reproductive health, empowerment, and economic activity.
+3. **Gender Inequality [Index](../i/index_instrument.md) (GII)**: The GII focuses on gender-based inequalities in reproductive health, empowerment, and economic activity.
 
-4. **Multidimensional [Poverty](../p/poverty.md) [Index](../i/index.md) (MPI)**: The MPI assesses [poverty](../p/poverty.md) by considering [multiple](../m/multiple.md) deprivations across health, education, and living standards.
+4. **Multidimensional [Poverty](../p/poverty.md) [Index](../i/index_instrument.md) (MPI)**: The MPI assesses [poverty](../p/poverty.md) by considering [multiple](../m/multiple.md) deprivations across health, education, and living standards.
 
 ## Conclusion
 
-The Human Development [Index](../i/index.md) remains a vital tool for understanding and comparing the overall development levels of countries. It encourages a more holistic view of progress, extending beyond mere economic metrics. Although it has its limitations, the HDI continues to inspire dialogue and innovation in measuring human well-being. Exploring alternative and complementary indices can help address its shortcomings and provide a richer picture of global human development.
+The Human Development [Index](../i/index_instrument.md) remains a vital tool for understanding and comparing the overall development levels of countries. It encourages a more holistic view of progress, extending beyond mere economic metrics. Although it has its limitations, the HDI continues to inspire dialogue and innovation in measuring human well-being. Exploring alternative and complementary indices can help address its shortcomings and provide a richer picture of global human development.
 
 For more information, visit the official [UNDP Human Development Reports](http://hdr.undp.org/en).

@@ -64,7 +64,7 @@ Several trading platforms provide the [infrastructure](../i/infrastructure.md) f
 
 Many brokers and exchanges [offer](../o/offer.md) APIs (Application Programming Interfaces) that allow algorithmic traders to interact with their [trading systems](../t/trading_systems.md) programmatically. Examples include:
 
-- [Interactive Brokers](../i/interactive_brokers.md) API (https://www.interactivebrokers.com/en/[index](../i/index.md).php?f=5041)
+- [Interactive Brokers](../i/interactive_brokers.md) API (https://www.interactivebrokers.com/en/[index](../i/index_instrument.md).php?f=5041)
 - [Alpaca](../a/alpaca.md) API (https://[alpaca](../a/alpaca.md).markets/docs/api-documentation/)
 
 ### 4. Data Providers

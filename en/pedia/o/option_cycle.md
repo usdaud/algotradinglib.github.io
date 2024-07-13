@@ -1,6 +1,6 @@
 # Option Cycle
 
-[Options](../o/options.md) are financial instruments that give the buyer the right, but not the obligation, to buy or sell an [underlying asset](../u/underlying_asset.md) at a predetermined price within a specified time period. An essential concept within the realm of [options](../o/options.md) trading is the "Option Cycle," which refers to the standardized set of expiration dates available for [options](../o/options.md) on a given stock or [index](../i/index.md). Understanding the option cycle is crucial for traders and investors as it significantly affects the strategy selection, [premium](../p/premium.md) calculation, and [risk management](../r/risk_management.md).
+[Options](../o/options.md) are financial instruments that give the buyer the right, but not the obligation, to buy or sell an [underlying asset](../u/underlying_asset.md) at a predetermined price within a specified time period. An essential concept within the realm of [options](../o/options.md) trading is the "Option Cycle," which refers to the standardized set of expiration dates available for [options](../o/options.md) on a given stock or [index](../i/index_instrument.md). Understanding the option cycle is crucial for traders and investors as it significantly affects the strategy selection, [premium](../p/premium.md) calculation, and [risk management](../r/risk_management.md).
 
 ## Types of Option Cycles
 

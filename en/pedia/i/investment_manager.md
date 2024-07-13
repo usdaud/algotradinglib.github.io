@@ -62,7 +62,7 @@ The role demands a unique combination of [technical skills](../t/technical_skill
 ### Active vs. Passive Management
 
 - **Active Managers**: Aim to [outperform](../o/outperform.md) [market](../m/market.md) indices through buying and selling decisions based on research. They frequently use strategies involving timing, stock selection, and [market](../m/market.md) predictions.
-- **Passive Managers**: Focus on tracking [market](../m/market.md) indices, aiming to replicate performance with minimal buying and selling. This is commonly seen in [index](../i/index.md) funds and ETFs.
+- **Passive Managers**: Focus on tracking [market](../m/market.md) indices, aiming to replicate performance with minimal buying and selling. This is commonly seen in [index](../i/index_instrument.md) funds and ETFs.
 
 ### Institutional vs. Retail Managers
 
@@ -73,7 +73,7 @@ The role demands a unique combination of [technical skills](../t/technical_skill
 
 ### Vanguard Group
 
-Vanguard is one of the largest and most respected [investment management](../i/investment_management.md) companies globally, known for its pioneering approach to low-cost [index](../i/index.md) funds and ETFs.
+Vanguard is one of the largest and most respected [investment management](../i/investment_management.md) companies globally, known for its pioneering approach to low-cost [index](../i/index_instrument.md) funds and ETFs.
 
 - [Vanguard Website](https://investor.vanguard.com/)
 
@@ -139,7 +139,7 @@ This widely used performance measure calculates the [gain](../g/gain.md) or loss
 
 ### Alpha and Beta
 
-- **[Alpha](../a/alpha.md)**: Represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md).
+- **[Alpha](../a/alpha.md)**: Represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 - **[Beta](../b/beta.md)**: Measures the [volatility](../v/volatility.md) or [systematic risk](../s/systematic_risk.md) of an investment compared to the [market](../m/market.md) as a whole.
 
 ### Standard Deviation

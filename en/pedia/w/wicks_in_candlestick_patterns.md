@@ -56,7 +56,7 @@ The length and position of wicks provide insights into [market sentiment](../m/m
 
 ### Using Wicks with Other Technical Indicators
 
-While wicks can be powerful signals on their own, their effectiveness is often enhanced when used in conjunction with other [technical indicators](../t/technical_indicators.md) such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), or [Bollinger Bands](../b/bollinger_bands.md).
+While wicks can be powerful signals on their own, their effectiveness is often enhanced when used in conjunction with other [technical indicators](../t/technical_indicators.md) such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), or [Bollinger Bands](../b/bollinger_bands.md).
 
 #### Moving Averages
 
@@ -64,7 +64,7 @@ Combining wick analysis with moving averages can help confirm trends and potenti
 
 #### RSI
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) can be used to find [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. If a [candlestick](../c/candlestick.md) with a long upper wick forms while the RSI is above 70, it could indicate an [overbought](../o/overbought.md) condition and potential [reversal](../r/reversal.md).
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) can be used to find [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. If a [candlestick](../c/candlestick.md) with a long upper wick forms while the RSI is above 70, it could indicate an [overbought](../o/overbought.md) condition and potential [reversal](../r/reversal.md).
 
 #### Bollinger Bands
 

@@ -12,7 +12,7 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), OBS items a
 
 ### 1. Derivatives
 
-[Derivatives](../d/derivatives.md) are financial contracts whose [value](../v/value.md) is derived from an [underlying asset](../u/underlying_asset.md), [index](../i/index.md), or [interest rate](../i/interest_rate.md). Common types include [futures](../f/futures.md), [options](../o/options.md), and swaps. Given the speculative nature and high leveraged positions, they often stay off the [balance sheet](../b/balance_sheet.md) to limit the perception of [risk](../r/risk.md).
+[Derivatives](../d/derivatives.md) are financial contracts whose [value](../v/value.md) is derived from an [underlying asset](../u/underlying_asset.md), [index](../i/index_instrument.md), or [interest rate](../i/interest_rate.md). Common types include [futures](../f/futures.md), [options](../o/options.md), and swaps. Given the speculative nature and high leveraged positions, they often stay off the [balance sheet](../b/balance_sheet.md) to limit the perception of [risk](../r/risk.md).
 
 #### Example: J.P. Morgan Chase & Co.
 Visit: [J.P. Morgan](https://www.jpmorganchase.com/)

@@ -44,10 +44,10 @@ Conducting a sector-specific analysis to understand which sectors are currently 
 ### 2. Identifying Leading and Lagging Sectors
 
 **[Relative Strength Analysis](../r/relative_strength_analysis.md):**
-One popular method is [relative strength analysis](../r/relative_strength_analysis.md), where investors compare the performance of different sectors against a [benchmark](../b/benchmark.md) [index](../i/index.md). Sectors outperforming the [benchmark](../b/benchmark.md) are considered leading, while those underperforming are lagging.
+One popular method is [relative strength analysis](../r/relative_strength_analysis.md), where investors compare the performance of different sectors against a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). Sectors outperforming the [benchmark](../b/benchmark.md) are considered leading, while those underperforming are lagging.
 
 **[Technical Analysis](../t/technical_analysis.md):**
-[Technical indicators](../t/technical_indicators.md), such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)), help spot trends and potential turning points in [sector performance](../s/sector_performance.md).
+[Technical indicators](../t/technical_indicators.md), such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)), help spot trends and potential turning points in [sector performance](../s/sector_performance.md).
 
 **[Fundamental Analysis](../f/fundamental_analysis.md):**
 Evaluating the fundamentals of companies within a sector, including [earnings](../e/earnings.md) growth, [debt](../d/debt.md) levels, and [market](../m/market.md) position, provides insight into the sector’s health and potential for future performance.

@@ -61,7 +61,7 @@ The Put-Call Ratio is a powerful tool for [sentiment analysis](../s/sentiment_an
 Some traders use the PCR to time their entry and exit points. For example, when the PCR hits an extreme level (either high or low), it may indicate a potential [inflection point](../i/inflection_point.md) where the [market sentiment](../m/market_sentiment.md) could reverse.
 
 ### Combining with Other Indicators
-The Put-Call Ratio is often used in conjunction with other [technical analysis](../t/technical_analysis.md) indicators, such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md), to confirm signals and improve the accuracy of trading decisions.
+The Put-Call Ratio is often used in conjunction with other [technical analysis](../t/technical_analysis.md) indicators, such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md), to confirm signals and improve the accuracy of trading decisions.
 
 ### Hedging Strategies
 For institutional investors and large funds, the PCR can help inform [hedging strategies](../h/hedging_strategies.md). By understanding the prevailing [market sentiment](../m/market_sentiment.md), these investors can better align their hedging activities to protect against adverse [market](../m/market.md) movements.

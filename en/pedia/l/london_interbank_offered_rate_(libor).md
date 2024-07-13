@@ -40,7 +40,7 @@ In 2012, a major scandal erupted when it was revealed that [multiple](../m/multi
 
 ## Transition Away from LIBOR
 
-Due to its vulnerabilities and the scandal, financial regulators have sought to transition away from LIBOR to more reliable, [transaction](../t/transaction.md)-based benchmarks. For example, in the United States, the Alternative Reference Rates Committee (ARRC) selected the Secured Overnight [Financing](../f/financing.md) Rate (SOFR) as the preferred replacement for USD LIBOR. Similarly, the Financial Conduct Authority (FCA) in the UK has endorsed SONIA (Sterling Overnight [Index](../i/index.md) Average) as an alternative to GBP LIBOR.
+Due to its vulnerabilities and the scandal, financial regulators have sought to transition away from LIBOR to more reliable, [transaction](../t/transaction.md)-based benchmarks. For example, in the United States, the Alternative Reference Rates Committee (ARRC) selected the Secured Overnight [Financing](../f/financing.md) Rate (SOFR) as the preferred replacement for USD LIBOR. Similarly, the Financial Conduct Authority (FCA) in the UK has endorsed SONIA (Sterling Overnight [Index](../i/index_instrument.md) Average) as an alternative to GBP LIBOR.
 
 The transition away from LIBOR involves several steps, including:
 

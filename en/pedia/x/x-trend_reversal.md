@@ -10,7 +10,7 @@ The X-[Trend Reversal](../t/trend_reversal.md) is an advanced trading technique 
 
 1. **[Reversal Indicators](../r/reversal_indicators.md)**: The foundation of X-[Trend Reversal](../t/trend_reversal.md) lies in recognizing various [technical indicators](../t/technical_indicators.md) that signal a potential change in [trend](../t/trend.md). Common indicators include:
    - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: A popular [indicator](../i/indicator.md) that helps detect changes in the strength, direction, [momentum](../m/momentum.md), and [duration](../d/duration.md) of a [trend](../t/trend.md).
-   - **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements and is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+   - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements and is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
    - **[Bollinger Bands](../b/bollinger_bands.md)**: Provide a relative definition of high and low prices of a [market](../m/market.md), and their contraction and [expansion](../e/expansion.md) can indicate potential reversals.
 
 2. **[Pattern Recognition](../p/pattern_recognition.md)**: [Pattern recognition](../p/pattern_recognition.md) algorithms identify specific price formations like head and shoulders, double tops/bottoms, and wedges that typically precede price reversals.

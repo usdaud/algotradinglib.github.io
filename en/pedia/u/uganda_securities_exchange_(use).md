@@ -36,7 +36,7 @@ Equities are the primary type of [security](../s/security.md) traded on the USE.
 The [exchange](../e/exchange.md) also provides a platform for trading government and corporate bonds. These are [debt](../d/debt.md) securities that pay periodic [interest](../i/interest.md) and [return](../r/return.md) the [principal](../p/principal.md) at [maturity](../m/maturity.md). Bonds are generally considered safer investments compared to equities.
 
 ### Index
-The Uganda Securities [Exchange](../e/exchange.md) has developed indices to reflect the performance of the [listed](../l/listed.md) securities. One such [index](../i/index.md) is the USE All Share [Index](../i/index.md) (ALSI), which tracks the [market](../m/market.md) capitalisation of all [listed](../l/listed.md) companies.
+The Uganda Securities [Exchange](../e/exchange.md) has developed indices to reflect the performance of the [listed](../l/listed.md) securities. One such [index](../i/index_instrument.md) is the USE All Share [Index](../i/index_instrument.md) (ALSI), which tracks the [market](../m/market.md) capitalisation of all [listed](../l/listed.md) companies.
 
 ### Derivatives
 As of now, the USE does not [offer](../o/offer.md) [derivative](../d/derivative.md) products like [futures](../f/futures.md) or [options](../o/options.md). However, plans are in place to integrate these products as the [market](../m/market.md) matures.

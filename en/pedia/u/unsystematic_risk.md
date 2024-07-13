@@ -24,7 +24,7 @@ Unsystematic [risk](../r/risk.md) can be measured using various financial metric
    
 2. **[Beta](../b/beta.md)**: While [beta](../b/beta.md) is typically used to measure [systematic risk](../s/systematic_risk.md), it can also inform about a stock’s [risk](../r/risk.md) relative to the [market](../m/market.md). A lower [beta](../b/beta.md) indicates that a stock has lower [market risk](../m/market_risk.md) but could have higher unsystematic [risk](../r/risk.md).
    
-3. **[Alpha](../a/alpha.md)**: This measures the [excess return](../e/excess_return.md) on an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md). A high [alpha](../a/alpha.md) can indicate higher unsystematic [risk](../r/risk.md) due to reliance on unique factors.
+3. **[Alpha](../a/alpha.md)**: This measures the [excess return](../e/excess_return.md) on an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). A high [alpha](../a/alpha.md) can indicate higher unsystematic [risk](../r/risk.md) due to reliance on unique factors.
 
 4. **[Sharpe Ratio](../s/sharpe_ratio.md)**: While it primarily measures [risk](../r/risk.md)-adjusted returns, a lower [Sharpe ratio](../s/sharpe_ratio.md) may signal the presence of higher unsystematic [risk](../r/risk.md).
 

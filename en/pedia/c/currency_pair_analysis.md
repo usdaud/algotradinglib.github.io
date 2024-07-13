@@ -11,7 +11,7 @@
 
 2. **[Technical Analysis](../t/technical_analysis.md)**:
    - **[Chart Patterns](../c/chart_patterns.md)**: Traders use [chart patterns](../c/chart_patterns.md) to predict future [market](../m/market.md) movements. Patterns like Head and Shoulders, Flags, and Triangles can indicate potential reversals or continuations in [trend](../t/trend.md).
-   - **Indicators and Oscillators**: Common [technical indicators](../t/technical_indicators.md) include Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md), and MACD. These tools help traders identify trends, [overbought](../o/overbought.md)/[oversold](../o/oversold.md) conditions, and [momentum](../m/momentum.md).
+   - **Indicators and Oscillators**: Common [technical indicators](../t/technical_indicators.md) include Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md), and MACD. These tools help traders identify trends, [overbought](../o/overbought.md)/[oversold](../o/oversold.md) conditions, and [momentum](../m/momentum.md).
    - **[Support and Resistance](../s/support_and_resistance.md) Levels**: Support is a [price level](../p/price_level.md) where a [currency](../c/currency.md) pair tends to find buying [interest](../i/interest.md), preventing further decline. Resistance is a [price level](../p/price_level.md) where selling [interest](../i/interest.md) prevents the price from rising higher. Identifying these levels helps traders make buy/sell decisions.
 
 3. **[Quantitative Analysis](../q/quantitative_analysis.md)**:

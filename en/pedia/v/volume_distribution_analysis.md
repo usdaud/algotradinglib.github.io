@@ -33,7 +33,7 @@
    Integrating [volume](../v/volume.md) [distribution](../d/distribution.md) analysis with other [technical indicators](../t/technical_indicators.md) can increase the robustness of [trading strategies](../t/trading_strategies.md). For example, aligning [moving average crossovers](../m/moving_average_crossovers.md) with high [volume](../v/volume.md) areas can provide stronger confirmation for [trade](../t/trade.md) entries and exits.
 
 3. **[Volume](../v/volume.md)-Based Indicators in [Algorithmic Trading](../a/algorithmic_trading.md)**:
-   [Algorithmic trading](../a/algorithmic_trading.md) systems can incorporate [volume](../v/volume.md)-based indicators such as VWAP, On-Balance [Volume](../v/volume.md) (OBV), and [Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI) to refine their strategies. These indicators can serve both as primary signals or filters to improve the accuracy of other signals.
+   [Algorithmic trading](../a/algorithmic_trading.md) systems can incorporate [volume](../v/volume.md)-based indicators such as VWAP, On-Balance [Volume](../v/volume.md) (OBV), and [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI) to refine their strategies. These indicators can serve both as primary signals or filters to improve the accuracy of other signals.
 
 4. **[Intraday Trading](../i/intraday_trading.md)**:
    For intraday traders, [volume](../v/volume.md) [distribution](../d/distribution.md) analysis can [offer](../o/offer.md) granular insights into intraday price movements. Tools like the [Market](../m/market.md) Profile allow traders to see the dominant price ranges and time segments where the most [volume](../v/volume.md) is trading, aiding in short-term decision-making.

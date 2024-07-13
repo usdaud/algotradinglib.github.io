@@ -17,7 +17,7 @@ Several metrics and models are used to measure [volatility](../v/volatility.md) 
 - **[Standard Deviation](../s/standard_deviation.md):** A statistical measure of the [dispersion](../d/dispersion.md) of [asset](../a/asset.md) returns.
 - **[Beta](../b/beta.md):** Measures the sensitivity of an [asset](../a/asset.md)'s returns to the returns of the broader [market](../m/market.md).
 - **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR):** Estimates the potential loss in [value](../v/value.md) of a portfolio under normal [market](../m/market.md) conditions over a set time period.
-- **VIX ([Volatility](../v/volatility.md) [Index](../i/index.md)):** Often referred to as the "fear gauge," this [index](../i/index.md) represents [market](../m/market.md) expectations of near-term [volatility](../v/volatility.md) conveyed by S&P 500 stock [index option](../i/index_option.md) prices.
+- **VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md)):** Often referred to as the "fear gauge," this [index](../i/index_instrument.md) represents [market](../m/market.md) expectations of near-term [volatility](../v/volatility.md) conveyed by S&P 500 stock [index option](../i/index_option.md) prices.
 
 ## Volatility Models
 

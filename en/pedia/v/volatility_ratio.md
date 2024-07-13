@@ -64,7 +64,7 @@ HFT firms, such as Renaissance Technologies or Citadel, use high-speed computati
 
 ## Real-World Examples
 
-- **CBOE [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX)**: Often referred to as the [market](../m/market.md)'s "fear gauge," the VIX measures the [market](../m/market.md)'s expectations of 30-day [volatility](../v/volatility.md). While it is not the same as the [Volatility](../v/volatility.md) Ratio, it serves a similar purpose in gauging [market sentiment](../m/market_sentiment.md).
+- **CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX)**: Often referred to as the [market](../m/market.md)'s "fear gauge," the VIX measures the [market](../m/market.md)'s expectations of 30-day [volatility](../v/volatility.md). While it is not the same as the [Volatility](../v/volatility.md) Ratio, it serves a similar purpose in gauging [market sentiment](../m/market_sentiment.md).
 - [**Bridgewater Associates**](https://www.bridgewater.com/): The world's largest [hedge fund](../h/hedge_fund.md), Bridgewater uses sophisticated [risk parity](../r/risk_parity.md) strategies that heavily rely on [volatility](../v/volatility.md) measures to balance [risk](../r/risk.md) across various [asset](../a/asset.md) classes.
 
 ## Limitations of Volatility Ratio

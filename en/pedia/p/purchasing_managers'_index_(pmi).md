@@ -1,6 +1,6 @@
 # Purchasing Managers' Index (PMI)
 
-The Purchasing Managers' [Index](../i/index.md) (PMI) is an [economic indicator](../e/economic_indicator.md) derived from monthly surveys of [private sector](../p/private_sector.md) companies. The PMI aims to provide a snapshot of the health of the [manufacturing](../m/manufacturing.md) and service sectors, [offering](../o/offering.md) insights into economic trends and potential future changes in [business](../b/business.md) conditions. It is widely used by financial [market](../m/market.md) participants, policymakers, and economic analysts.
+The Purchasing Managers' [Index](../i/index_instrument.md) (PMI) is an [economic indicator](../e/economic_indicator.md) derived from monthly surveys of [private sector](../p/private_sector.md) companies. The PMI aims to provide a snapshot of the health of the [manufacturing](../m/manufacturing.md) and service sectors, [offering](../o/offering.md) insights into economic trends and potential future changes in [business](../b/business.md) conditions. It is widely used by financial [market](../m/market.md) participants, policymakers, and economic analysts.
 
 ### Understanding the PMI
 
@@ -12,7 +12,7 @@ The PMI is primarily based on five major indicators:
 4. **Supplier Deliveries**: This evaluates the speed and timeliness of suppliers in delivering ordered goods or services.
 5. **Employment Levels**: This assesses the current level of employment within companies, indicating hiring or [layoff](../l/layoff.md) trends.
 
-Each of these components has a specific weight in the PMI calculation, and they contribute to the overall [index](../i/index.md) in varying degrees. The PMI ranges from 0 to 100, where:
+Each of these components has a specific weight in the PMI calculation, and they contribute to the overall [index](../i/index_instrument.md) in varying degrees. The PMI ranges from 0 to 100, where:
 
 - A PMI above 50 indicates an [expansion](../e/expansion.md) compared to the previous month.
 - A PMI below 50 indicates a contraction compared to the previous month.
@@ -85,4 +85,4 @@ While PMI is a valuable tool, it has limitations:
 
 ### Conclusion
 
-The Purchasing Managers' [Index](../i/index.md) (PMI) provides crucial insights into the health of the [economy](../e/economy.md) by capturing the sentiments of those on the front lines of [business](../b/business.md) operations. Despite some limitations, its role in [economic forecasting](../e/economic_forecasting.md), investment decision-making, policy formulation, and [business](../b/business.md) planning is invaluable. By [offering](../o/offering.md) a real-time snapshot of [business](../b/business.md) conditions, the PMI helps stakeholders navigate the complexities of economic trends and [business](../b/business.md) cycles.
+The Purchasing Managers' [Index](../i/index_instrument.md) (PMI) provides crucial insights into the health of the [economy](../e/economy.md) by capturing the sentiments of those on the front lines of [business](../b/business.md) operations. Despite some limitations, its role in [economic forecasting](../e/economic_forecasting.md), investment decision-making, policy formulation, and [business](../b/business.md) planning is invaluable. By [offering](../o/offering.md) a real-time snapshot of [business](../b/business.md) conditions, the PMI helps stakeholders navigate the complexities of economic trends and [business](../b/business.md) cycles.

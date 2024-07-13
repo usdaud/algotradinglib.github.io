@@ -6,14 +6,14 @@
 
 ### What are Index Futures?
 
-[Index futures](../i/index_futures.md) are financial [derivatives](../d/derivatives.md) whose [value](../v/value.md) is based on an [underlying](../u/underlying.md) stock [index](../i/index.md), such as the S&P 500, [Nasdaq](../n/nasdaq.md) 100, or Dow Jones Industrial Average. These [futures contracts](../f/futures_contracts.md) allow investors to buy or sell a specific quantity of an [index](../i/index.md) at a predetermined price on a future date. [Index futures](../i/index_futures.md) are widely used by investors and traders for hedging, [speculation](../s/speculation.md), and [arbitrage](../a/arbitrage.md) purposes.
+[Index futures](../i/index_futures.md) are financial [derivatives](../d/derivatives.md) whose [value](../v/value.md) is based on an [underlying](../u/underlying.md) stock [index](../i/index_instrument.md), such as the S&P 500, [Nasdaq](../n/nasdaq.md) 100, or Dow Jones Industrial Average. These [futures contracts](../f/futures_contracts.md) allow investors to buy or sell a specific quantity of an [index](../i/index_instrument.md) at a predetermined price on a future date. [Index futures](../i/index_futures.md) are widely used by investors and traders for hedging, [speculation](../s/speculation.md), and [arbitrage](../a/arbitrage.md) purposes.
 
 ### Key Features of Index Futures
 
 1. **Standardization**: [Futures contracts](../f/futures_contracts.md) are standardized in terms of contract size, expiration dates, and [tick size](../t/tick_size.md). This standardization facilitates ease of trading and [liquidity](../l/liquidity.md).
 2. **[Margin](../m/margin.md) Requirements**: Trading [futures](../f/futures.md) involves initial and [maintenance margin](../m/maintenance_margin.md) requirements, aimed at mitigating [counterparty risk](../c/counterparty_risk.md).
 3. **[Leverage](../l/leverage.md)**: [Futures contracts](../f/futures_contracts.md) [offer](../o/offer.md) significant [leverage](../l/leverage.md), allowing investors to control a large position with a relatively small amount of [capital](../c/capital.md).
-4. **Settlement**: [Futures](../f/futures.md) can be settled either in cash or by [physical delivery](../p/physical_delivery_in_trading.md). Most [index futures](../i/index_futures.md) are settled in cash based on the [index](../i/index.md) [value](../v/value.md) at expiration.
+4. **Settlement**: [Futures](../f/futures.md) can be settled either in cash or by [physical delivery](../p/physical_delivery_in_trading.md). Most [index futures](../i/index_futures.md) are settled in cash based on the [index](../i/index_instrument.md) [value](../v/value.md) at expiration.
 
 ## Understanding Arbitrage in Index Futures
 
@@ -21,28 +21,28 @@
 
 ### Types of Arbitrage in Index Futures
 
-1. **Cash-and-Carry [Arbitrage](../a/arbitrage.md)**: This strategy involves buying the [underlying](../u/underlying.md) [index](../i/index.md) [stocks](../s/stock.md) and selling the equivalent [index](../i/index.md) [futures contracts](../f/futures_contracts.md). The [arbitrageur](../a/arbitrageur.md) holds the [stocks](../s/stock.md) until the [futures contract](../f/futures_contract.md) expires, hedging the position by carrying the [stocks](../s/stock.md).
-2. **Reverse Cash-and-Carry [Arbitrage](../a/arbitrage.md)**: This is the opposite of cash-and-carry [arbitrage](../a/arbitrage.md). It involves selling the [underlying](../u/underlying.md) [index](../i/index.md) [stocks](../s/stock.md) and buying the equivalent [index](../i/index.md) [futures contracts](../f/futures_contracts.md), with the intention to deliver the [stocks](../s/stock.md) when the [futures contracts](../f/futures_contracts.md) expire.
-3. **Basket Trading [Arbitrage](../a/arbitrage.md)**: This involves creating a portfolio (basket) of [stocks](../s/stock.md) that mimics the [index](../i/index.md) and trading it against the [index futures](../i/index_futures.md) to exploit price differences.
+1. **Cash-and-Carry [Arbitrage](../a/arbitrage.md)**: This strategy involves buying the [underlying](../u/underlying.md) [index](../i/index_instrument.md) [stocks](../s/stock.md) and selling the equivalent [index](../i/index_instrument.md) [futures contracts](../f/futures_contracts.md). The [arbitrageur](../a/arbitrageur.md) holds the [stocks](../s/stock.md) until the [futures contract](../f/futures_contract.md) expires, hedging the position by carrying the [stocks](../s/stock.md).
+2. **Reverse Cash-and-Carry [Arbitrage](../a/arbitrage.md)**: This is the opposite of cash-and-carry [arbitrage](../a/arbitrage.md). It involves selling the [underlying](../u/underlying.md) [index](../i/index_instrument.md) [stocks](../s/stock.md) and buying the equivalent [index](../i/index_instrument.md) [futures contracts](../f/futures_contracts.md), with the intention to deliver the [stocks](../s/stock.md) when the [futures contracts](../f/futures_contracts.md) expire.
+3. **Basket Trading [Arbitrage](../a/arbitrage.md)**: This involves creating a portfolio (basket) of [stocks](../s/stock.md) that mimics the [index](../i/index_instrument.md) and trading it against the [index futures](../i/index_futures.md) to exploit price differences.
 4. **Statistical [Arbitrage](../a/arbitrage.md)**: This strategy relies on statistical models to identify and exploit price discrepancies within a basket of [stocks](../s/stock.md) and corresponding [futures contracts](../f/futures_contracts.md).
 
 ## Key Components of Arbitrage in Index Futures
 
 ### Theoretical Fair Value
 
-The theoretical [fair value](../f/fair_value.md) of an [index](../i/index.md) future is derived using the cost-of-carry model, which considers the [present value](../p/present_value.md) of the [index](../i/index.md) and the cost of holding the [index](../i/index.md) components. The formula for calculating the [fair value](../f/fair_value.md) (FV) is:
+The theoretical [fair value](../f/fair_value.md) of an [index](../i/index_instrument.md) future is derived using the cost-of-carry model, which considers the [present value](../p/present_value.md) of the [index](../i/index_instrument.md) and the cost of holding the [index](../i/index_instrument.md) components. The formula for calculating the [fair value](../f/fair_value.md) (FV) is:
 
 \[ FV = S + (S \times R \times T) - D \]
 
 where:
-- **S**: Current [index](../i/index.md) level
+- **S**: Current [index](../i/index_instrument.md) level
 - **R**: [Risk](../r/risk.md)-free [interest rate](../i/interest_rate.md)
 - **T**: Time to [maturity](../m/maturity.md)
 - **D**: Dividends to be received
 
 ### Basis
 
-The [basis](../b/basis.md) is the difference between the [futures](../f/futures.md) price and the [spot price](../s/spot_price.md) of the [underlying](../u/underlying.md) [index](../i/index.md). It can be expressed as:
+The [basis](../b/basis.md) is the difference between the [futures](../f/futures.md) price and the [spot price](../s/spot_price.md) of the [underlying](../u/underlying.md) [index](../i/index_instrument.md). It can be expressed as:
 
 \[ \text{[Basis](../b/basis.md)} = F - S \]
 
@@ -56,12 +56,12 @@ The [basis](../b/basis.md) can be positive or negative, indicating whether the [
 
 ### Cash-and-Carry Arbitrage Example
 
-Consider an [index](../i/index.md) currently trading at 1,000 points. The [risk](../r/risk.md)-free [interest rate](../i/interest_rate.md) is 5% per annum, and the [index](../i/index.md) is expected to pay dividends of 2% over the next three months. The [fair value](../f/fair_value.md) of a three-month [index](../i/index.md) future can be calculated as:
+Consider an [index](../i/index_instrument.md) currently trading at 1,000 points. The [risk](../r/risk.md)-free [interest rate](../i/interest_rate.md) is 5% per annum, and the [index](../i/index_instrument.md) is expected to pay dividends of 2% over the next three months. The [fair value](../f/fair_value.md) of a three-month [index](../i/index_instrument.md) future can be calculated as:
 
 \[ FV = 1000 + (1000 \times \frac{0.05}{4}) - (1000 \times \frac{0.02}{4}) = 1000 + 12.5 - 5 = 1007.5 \]
 
 If the actual [futures](../f/futures.md) price is 1015, there is an [arbitrage](../a/arbitrage.md) opportunity. The [arbitrageur](../a/arbitrageur.md) can:
-1. Buy the [underlying](../u/underlying.md) [index](../i/index.md) [stocks](../s/stock.md) at 1,000.
+1. Buy the [underlying](../u/underlying.md) [index](../i/index_instrument.md) [stocks](../s/stock.md) at 1,000.
 2. Sell the [index futures](../i/index_futures.md) at 1015.
 3. [Hold](../h/hold.md) the [stocks](../s/stock.md) for three months, receiving dividends.
 4. At expiration, deliver the [stocks](../s/stock.md) to settle the [futures contract](../f/futures_contract.md).
@@ -75,7 +75,7 @@ Minus [transaction costs](../t/transaction_costs.md) and any other fees involved
 ### Reverse Cash-and-Carry Arbitrage Example
 
 If the actual [futures](../f/futures.md) price is 995, an [arbitrageur](../a/arbitrageur.md) can:
-1. Sell the [underlying](../u/underlying.md) [index](../i/index.md) [stocks](../s/stock.md) at 1,000.
+1. Sell the [underlying](../u/underlying.md) [index](../i/index_instrument.md) [stocks](../s/stock.md) at 1,000.
 2. Buy the [index futures](../i/index_futures.md) at 995.
 3. At expiration, buy back the [stocks](../s/stock.md) from the [market](../m/market.md) and deliver them to settle the [futures contract](../f/futures_contract.md).
 

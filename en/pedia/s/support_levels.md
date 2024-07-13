@@ -68,7 +68,7 @@ In a [breakout](../b/breakout.md) strategy, an algorithm looks for scenarios whe
 
 ### Combining with Other Indicators
 
-Algorithms often combine support levels with other [technical indicators](../t/technical_indicators.md), such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD), to enhance decision-making. For instance, if the RSI approaches an [oversold](../o/oversold.md) condition near a support level, the algorithm might trigger a buy signal.
+Algorithms often combine support levels with other [technical indicators](../t/technical_indicators.md), such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD), to enhance decision-making. For instance, if the RSI approaches an [oversold](../o/oversold.md) condition near a support level, the algorithm might trigger a buy signal.
 
 ## Challenges Associated with Support Levels
 

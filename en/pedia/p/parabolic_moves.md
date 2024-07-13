@@ -14,7 +14,7 @@ During parabolic moves, trading volumes typically spike significantly. High [vol
 Assets in parabolic moves exhibit increased [volatility](../v/volatility.md). Intraday price swings become more pronounced, making it challenging to predict short-term movements accurately.
 
 ### Overextension
-When an [asset](../a/asset.md)'s price moves too far too quickly, it tends to become overextended. Indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or [Bollinger Bands](../b/bollinger_bands.md) can highlight [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+When an [asset](../a/asset.md)'s price moves too far too quickly, it tends to become overextended. Indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or [Bollinger Bands](../b/bollinger_bands.md) can highlight [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ### Reversals
 Parabolic moves often end abruptly. Once the price reaches an unsustainable level, a sharp [reversal](../r/reversal.md) is likely, leading to a rapid [correction](../c/correction.md). This sudden change often traps late entrants who entered the [market](../m/market.md) during the final stages of the parabolic move.
@@ -77,7 +77,7 @@ The late 1990s tech boom is a historical example of parabolic moves, where stock
 [Bitcoin](../b/bitcoin.md) has experienced several parabolic moves, notably in 2017 and again in 2020-2021. Each move saw rapid price increases followed by significant corrections.
 
 ### Nasdaq 2020-2021
-The [Nasdaq](../n/nasdaq.md) [index](../i/index.md) exhibited a parabolic move during the COVID-19 pandemic recovery phase, driven by [investor](../i/investor.md) optimism around technology and [growth stocks](../g/growth_stocks.md).
+The [Nasdaq](../n/nasdaq.md) [index](../i/index_instrument.md) exhibited a parabolic move during the COVID-19 pandemic recovery phase, driven by [investor](../i/investor.md) optimism around technology and [growth stocks](../g/growth_stocks.md).
 
 ## Risks and Challenges
 

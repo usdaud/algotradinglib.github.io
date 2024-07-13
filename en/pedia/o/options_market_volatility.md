@@ -40,7 +40,7 @@ An extension of the ARCH model, GARCH incorporates more past periods (lags) in t
 
 ### 2.5 Implied Volatility Index (VIX)
 
-Often termed the "fear [index](../i/index.md)," the VIX measures implied [volatility](../v/volatility.md) on the S&P 500 [index options](../i/index_options.md). It provides a gauge of [market sentiment](../m/market_sentiment.md) and expected price fluctuations for the [index](../i/index.md).
+Often termed the "fear [index](../i/index_instrument.md)," the VIX measures implied [volatility](../v/volatility.md) on the S&P 500 [index options](../i/index_options.md). It provides a gauge of [market sentiment](../m/market_sentiment.md) and expected price fluctuations for the [index](../i/index_instrument.md).
 
 ## 3. Practical Implications in Options Trading
 

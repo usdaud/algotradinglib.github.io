@@ -1,6 +1,6 @@
 # 1-Year Moving Average
 
-The 1-year moving average (1Y MA) is a statistical metric used primarily in [financial markets](../f/financial_market.md) to analyze and smooth price data over a one-year period. This tool helps traders and investors to eliminate short-term [volatility](../v/volatility.md) and get a clearer picture of the overall [trend](../t/trend.md) of a [security](../s/security.md), [index](../i/index.md), or other [financial instrument](../f/financial_instrument.md). By averaging the data points of the past year, the 1Y MA can provide critical insights for making informed trading decisions.
+The 1-year moving average (1Y MA) is a statistical metric used primarily in [financial markets](../f/financial_market.md) to analyze and smooth price data over a one-year period. This tool helps traders and investors to eliminate short-term [volatility](../v/volatility.md) and get a clearer picture of the overall [trend](../t/trend.md) of a [security](../s/security.md), [index](../i/index_instrument.md), or other [financial instrument](../f/financial_instrument.md). By averaging the data points of the past year, the 1Y MA can provide critical insights for making informed trading decisions.
 
 ## Definition and Calculation
 

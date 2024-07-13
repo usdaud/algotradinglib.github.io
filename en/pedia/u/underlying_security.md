@@ -53,9 +53,9 @@ A [stock option](../s/stock_option.md) provides the holder the right, but not th
 **Example:** A [futures contract](../f/futures_contract.md) for gold involves agreeing to buy or sell gold at a specified price on a specified future date. The price of gold in the [market](../m/market.md) is the [underlying](../u/underlying.md) [security](../s/security.md).
 
 ### 3. **Index Options**
-[Index options](../i/index_options.md) provide the right to [trade](../t/trade.md) a stock [index](../i/index.md) at a specified level.
+[Index options](../i/index_options.md) provide the right to [trade](../t/trade.md) a stock [index](../i/index_instrument.md) at a specified level.
 
-**Example:** An S&P 500 [index option](../i/index_option.md) gives the holder the right to buy or sell the S&P 500 [index](../i/index.md) at a predefined level before the option expires. The S&P 500 [index](../i/index.md) is the [underlying](../u/underlying.md) [security](../s/security.md).
+**Example:** An S&P 500 [index option](../i/index_option.md) gives the holder the right to buy or sell the S&P 500 [index](../i/index_instrument.md) at a predefined level before the option expires. The S&P 500 [index](../i/index_instrument.md) is the [underlying](../u/underlying.md) [security](../s/security.md).
 
 ### 4. **Forex Options**
 A forex option provides the right to [exchange](../e/exchange.md) a specified amount of one [currency](../c/currency.md) for another at a specified [exchange rate](../e/exchange_rate.md) on a specified date.

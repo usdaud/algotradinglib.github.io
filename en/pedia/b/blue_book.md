@@ -111,8 +111,8 @@ def plot_trading_signals(stock_data, buy_signals, sell_signals):
     plt.plot(stock_data, label='Stock Price')
     plt.plot(stock_data.rolling(window=10).mean(), label='Rolling Mean', linestyle='--')
     
-    plt.scatter(stock_data.[index](../i/index.md)[buy_signals], stock_data[buy_signals], marker='^', color='g', label='Buy Signal', [alpha](../a/alpha.md)=1)
-    plt.scatter(stock_data.[index](../i/index.md)[sell_signals], stock_data[sell_signals], marker='v', color='r', label='Sell Signal', [alpha](../a/alpha.md)=1)
+    plt.scatter(stock_data.[index](../i/index_instrument.md)[buy_signals], stock_data[buy_signals], marker='^', color='g', label='Buy Signal', [alpha](../a/alpha.md)=1)
+    plt.scatter(stock_data.[index](../i/index_instrument.md)[sell_signals], stock_data[sell_signals], marker='v', color='r', label='Sell Signal', [alpha](../a/alpha.md)=1)
     
     plt.title('[Mean Reversion](../m/mean_reversion.md) Strategy - [Trading Signals](../t/trading_signals.md)')
     plt.xlabel('Date')

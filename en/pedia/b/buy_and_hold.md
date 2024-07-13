@@ -7,7 +7,7 @@
 ## Historical Context
 
 - **Origins**: The concept of "Buy and [Hold](../h/hold.md)" has been around for decades but was popularized by renowned investors like Warren Buffett and [Benjamin Graham](../b/benjamin_graham.md). Warren Buffett's investment philosophy is largely grounded in the principles of [value investing](../v/value_investing.md) introduced by [Benjamin Graham](../b/benjamin_graham.md).
-- **Empirical Evidence**: Historical data often supports the efficacy of the "Buy and [Hold](../h/hold.md)" strategy. For instance, the S&P 500 [index](../i/index.md), which represents a broad cross-section of the U.S. equities [market](../m/market.md), has shown a long-term average [annual return](../a/annual_return.md) of about 7% to 10%. 
+- **Empirical Evidence**: Historical data often supports the efficacy of the "Buy and [Hold](../h/hold.md)" strategy. For instance, the S&P 500 [index](../i/index_instrument.md), which represents a broad cross-section of the U.S. equities [market](../m/market.md), has shown a long-term average [annual return](../a/annual_return.md) of about 7% to 10%. 
 
 ## Underlying Principles
 
@@ -65,7 +65,7 @@ Individual companies could face issues such as poor management decisions, operat
 Warren Buffett is often cited as one of the most successful proponents of the "Buy and [Hold](../h/hold.md)" strategy. His [holding company](../h/holding_company.md), [Berkshire Hathaway](../b/berkshire_hathaway.md), invests in companies with strong fundamentals and favorable long-term prospects. Buffett's philosophy centers on buying quality companies at reasonable prices and holding them indefinitely.
 
 ### **John Bogle and Vanguard**
-[John Bogle](../j/john_bogle.md), the founder of Vanguard Group, is another pioneer of the "Buy and [Hold](../h/hold.md)" strategy. He advocated for low-cost [index](../i/index.md) funds as the best vehicle for individual investors to achieve [market](../m/market.md) returns. Vanguard's [index](../i/index.md) funds, which are passively managed, have performed well over long periods, serving as another testament to the efficacy of "Buy and [Hold](../h/hold.md)."
+[John Bogle](../j/john_bogle.md), the founder of Vanguard Group, is another pioneer of the "Buy and [Hold](../h/hold.md)" strategy. He advocated for low-cost [index](../i/index_instrument.md) funds as the best vehicle for individual investors to achieve [market](../m/market.md) returns. Vanguard's [index](../i/index_instrument.md) funds, which are passively managed, have performed well over long periods, serving as another testament to the efficacy of "Buy and [Hold](../h/hold.md)."
 
 - [Berkshire Hathaway](https://www.berkshirehathaway.com/).
 - [Vanguard](https://www.vanguard.com/).

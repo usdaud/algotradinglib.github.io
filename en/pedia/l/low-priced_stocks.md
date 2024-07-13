@@ -50,7 +50,7 @@ Though less common, some low-priced [stocks](../s/stock.md) do [trade](../t/trad
 
 ### Technical Analysis
 
-[Technical analysis](../t/technical_analysis.md) focuses on statistical trends derived from trading activity, such as price movement and [volume](../v/volume.md). Traders use charts and [technical indicators](../t/technical_indicators.md) (e.g., moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md)) to identify patterns and make predictions about future price movements.
+[Technical analysis](../t/technical_analysis.md) focuses on statistical trends derived from trading activity, such as price movement and [volume](../v/volume.md). Traders use charts and [technical indicators](../t/technical_indicators.md) (e.g., moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md)) to identify patterns and make predictions about future price movements.
 
 ### Sentiment Analysis
 

@@ -49,7 +49,7 @@ There are various ways to gauge [market sentiment](../m/market_sentiment.md), an
 
 ### 3. **Sentiment Indices**
    - **Description**: These indices aggregate sentiment scores from [multiple](../m/multiple.md) sources to provide a holistic view of [market sentiment](../m/market_sentiment.md).
-   - **Example**: The VIX [Index](../i/index.md), although not sentiment-based, is often considered a "fear gauge" for the [market](../m/market.md).
+   - **Example**: The VIX [Index](../i/index_instrument.md), although not sentiment-based, is often considered a "fear gauge" for the [market](../m/market.md).
 
 ## Implementation of Sentiment Trading Strategies
 

@@ -42,7 +42,7 @@ Several tools and platforms are available to assist traders in benchmarking thei
 
 ### 1. Define the Benchmark
 
-Selecting an appropriate [benchmark](../b/benchmark.md) is crucial. The chosen [benchmark](../b/benchmark.md) should be relevant to the [trading strategy](../t/trading_strategy.md)'s objectives and [asset](../a/asset.md) classes. For instance, a technology-focused [trading strategy](../t/trading_strategy.md) should be benchmarked against a tech [index](../i/index.md) rather than the general [market](../m/market.md).
+Selecting an appropriate [benchmark](../b/benchmark.md) is crucial. The chosen [benchmark](../b/benchmark.md) should be relevant to the [trading strategy](../t/trading_strategy.md)'s objectives and [asset](../a/asset.md) classes. For instance, a technology-focused [trading strategy](../t/trading_strategy.md) should be benchmarked against a tech [index](../i/index_instrument.md) rather than the general [market](../m/market.md).
 
 ### 2. Collect Data
 
@@ -86,7 +86,7 @@ Factors like regulatory changes, [geopolitical events](../g/geopolitical_events.
 
 1. **JP Morgan's LOXM AI Trading Program**: JP Morgan's AI-based trading program, LOXM, was benchmarked against traditional human traders. The AI demonstrated superior [execution](../e/execution.md) quality, reducing [trading costs](../t/trading_costs.md) and improving net performance. More details can be found on JP Morgan's official page. [JP Morgan](https://www.jpmorgan.com)
    
-2. **Goldman Sachs' Automated Trading System**: Goldman Sachs implemented [automated trading systems](../a/automated_trading_systems.md) benchmarked against [market](../m/market.md) indexes like the S&P 500. The system was evaluated based on its ability to [outperform](../o/outperform.md) the [index](../i/index.md) while managing [risk](../r/risk.md) effectively. Details are available in their financial reports. [Goldman Sachs](https://www.goldmansachs.com)
+2. **Goldman Sachs' Automated Trading System**: Goldman Sachs implemented [automated trading systems](../a/automated_trading_systems.md) benchmarked against [market](../m/market.md) indexes like the S&P 500. The system was evaluated based on its ability to [outperform](../o/outperform.md) the [index](../i/index_instrument.md) while managing [risk](../r/risk.md) effectively. Details are available in their financial reports. [Goldman Sachs](https://www.goldmansachs.com)
 
 ## Conclusion
 

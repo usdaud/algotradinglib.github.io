@@ -45,7 +45,7 @@ Securities borrowing also facilitates [arbitrage](../a/arbitrage.md) opportuniti
 
 - **Convertible [Arbitrage](../a/arbitrage.md)**: Involves buying convertible bonds (which can be converted into [equity](../e/equity.md)) and [short selling](../s/short_selling.md) the [underlying](../u/underlying.md) stock to exploit pricing inefficiencies.
 - **[Merger](../m/merger.md) [Arbitrage](../a/arbitrage.md)**: Involves buying [shares](../s/shares.md) of a target company and [short selling](../s/short_selling.md) [shares](../s/shares.md) of the acquiring company to [profit](../p/profit.md) from the spread between the current [market price](../m/market_price.md) and the [transaction](../t/transaction.md) price.
-- **[Index](../i/index.md) [Arbitrage](../a/arbitrage.md)**: Involves [short selling](../s/short_selling.md) constituent [stocks](../s/stock.md) of an [index](../i/index.md) while simultaneously buying [futures contracts](../f/futures_contracts.md) on the [index](../i/index.md).
+- **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md)**: Involves [short selling](../s/short_selling.md) constituent [stocks](../s/stock.md) of an [index](../i/index_instrument.md) while simultaneously buying [futures contracts](../f/futures_contracts.md) on the [index](../i/index_instrument.md).
 
 ## Risks and Mitigation
 

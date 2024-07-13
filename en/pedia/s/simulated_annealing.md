@@ -38,7 +38,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), simulated annealing can o
 
 ### 1. Parameter Optimization
 
-[Trading strategies](../t/trading_strategies.md) often involve [multiple](../m/multiple.md) parameters like moving average periods, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI) thresholds, and stop-loss levels. Simulated annealing can find the optimal combination of these parameters to maximize returns or minimize [risk](../r/risk.md).
+[Trading strategies](../t/trading_strategies.md) often involve [multiple](../m/multiple.md) parameters like moving average periods, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI) thresholds, and stop-loss levels. Simulated annealing can find the optimal combination of these parameters to maximize returns or minimize [risk](../r/risk.md).
 
 ### 2. Portfolio Optimization
 
@@ -71,7 +71,7 @@ def calculate_return(params, data):
     data['signal'][short_window:] = np.where(data['short_mavg'][short_window:] > data['long_mavg'][short_window:], 1.0, 0.0)
     data['positions'] = data['signal'].diff()
     initial_capital = [float](../f/float.md)(100000.0)
-    positions = pd.DataFrame([index](../i/index.md)=data.[index](../i/index.md)).fillna(0.0)
+    positions = pd.DataFrame([index](../i/index_instrument.md)=data.[index](../i/index_instrument.md)).fillna(0.0)
     positions['AAPL'] = data['signal']
     portfolio = positions.multiply(data['Close'], axis=0)
     pos_diff = positions.diff()

@@ -14,7 +14,7 @@ Search Engine [Optimization](../o/optimization.md) (SEO) is the process of optim
 
 **2. Off-Page SEO**: This focuses on increasing the authority of your domain through content creation and earning backlinks from other websites. Backlinks are a critical component of SEO as they signal to search engines that your content is valuable and credible.
 
-**3. Technical SEO**: This involves optimizing a website’s [infrastructure](../i/infrastructure.md) so that search engines can crawl and [index](../i/index.md) it effectively. Technical SEO practices include optimizing site speed, ensuring mobile-friendliness, and improving site architecture.
+**3. Technical SEO**: This involves optimizing a website’s [infrastructure](../i/infrastructure.md) so that search engines can crawl and [index](../i/index_instrument.md) it effectively. Technical SEO practices include optimizing site speed, ensuring mobile-friendliness, and improving site architecture.
 
 ### SEO Tools
 

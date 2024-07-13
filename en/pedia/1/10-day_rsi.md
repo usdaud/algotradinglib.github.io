@@ -1,6 +1,6 @@
 # 10-Day RSI
 
-The 10-Day [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements over a 10-day period. Developed by J. Welles Wilder Jr., RSI is one of the most widely used [technical indicators](../t/technical_indicators.md) in trading. The RSI provides signals indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md), helping traders make entry and exit decisions.
+The 10-Day [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements over a 10-day period. Developed by J. Welles Wilder Jr., RSI is one of the most widely used [technical indicators](../t/technical_indicators.md) in trading. The RSI provides signals indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md), helping traders make entry and exit decisions.
 
 ## Calculation of 10-Day RSI
 

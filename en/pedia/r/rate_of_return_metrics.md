@@ -61,7 +61,7 @@ where:
 The [Sortino Ratio](../s/sortino_ratio.md) is highly beneficial in [algorithmic trading](../a/algorithmic_trading.md) strategies where minimizing [downside risk](../d/downside_risk.md) is crucial, such as in strategies designed to protect from [market](../m/market.md) downturns.
 
 ## Alpha
-[Alpha](../a/alpha.md) measures an investment's performance relative to a [benchmark](../b/benchmark.md) [index](../i/index.md). An [alpha](../a/alpha.md) greater than 0 suggests that the investment has outperformed the [market](../m/market.md), while an [alpha](../a/alpha.md) less than 0 indicates underperformance.
+[Alpha](../a/alpha.md) measures an investment's performance relative to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). An [alpha](../a/alpha.md) greater than 0 suggests that the investment has outperformed the [market](../m/market.md), while an [alpha](../a/alpha.md) less than 0 indicates underperformance.
 
 ### Formula
 [Alpha](../a/alpha.md) is calculated as:
@@ -100,7 +100,7 @@ Maximum [Drawdown](../d/drawdown.md) represents the peak-to-[trough](../t/trough
 MDD is a critical metric in [algorithmic trading](../a/algorithmic_trading.md), allowing traders to assess the resilience of their strategies during adverse [market](../m/market.md) conditions. 
 
 ## Information Ratio
-[Information Ratio](../i/information_ratio.md) measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment portfolio compared to a [benchmark](../b/benchmark.md) [index](../i/index.md), considering the [tracking error](../t/tracking_error.md).
+[Information Ratio](../i/information_ratio.md) measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment portfolio compared to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), considering the [tracking error](../t/tracking_error.md).
 
 ### Formula
 \[ IR = \frac{R_p - R_b}{\sigma_{R_p - R_b}} \]

@@ -54,7 +54,7 @@ The FOMC's role and the methods it uses have evolved over time in response to ch
 1. **Event-Driven Strategies**: Algorithms may incorporate economic calendars and alert systems to [handle](../h/handle.md) FOMC announcements. These strategies might involve adjusting positions just before or after announcements to exploit expected [market](../m/market.md) movements.
 2. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Some algorithms analyze the language used in FOMC statements and minutes to quantify sentiment and predict [market](../m/market.md) reactions. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques can be used for this purpose.
 3. **[Trend Following](../t/trend_following.md)**: Post-announcement trends can be [robust](../r/robust.md) due to the high [volume](../v/volume.md) of [market](../m/market.md) participants reacting to new information. Algorithms can deploy [trend](../t/trend.md)-following techniques to [capitalize](../c/capitalize.md) on these movements.
-4. **Policy [Uncertainty](../u/uncertainty_in_trading.md) [Index](../i/index.md)**: Models might include indices that measure policy [uncertainty](../u/uncertainty_in_trading.md), like those based at [Economic Policy Uncertainty Index](http://www.policyuncertainty.com), to adjust their trading parameters around FOMC meetings.
+4. **Policy [Uncertainty](../u/uncertainty_in_trading.md) [Index](../i/index_instrument.md)**: Models might include indices that measure policy [uncertainty](../u/uncertainty_in_trading.md), like those based at [Economic Policy Uncertainty Index](http://www.policyuncertainty.com), to adjust their trading parameters around FOMC meetings.
 
 ## Major Companies and Platforms
 

@@ -11,7 +11,7 @@ Data is the cornerstone of [Market](../m/market.md) Mapping. Traders and analyst
 - **[Market](../m/market.md) Data**: Includes historical prices, volumes, [order book](../o/order_book.md) data, and [trade](../t/trade.md) [tick](../t/tick.md) data.
 - **Fundamental Data**: [Financial statements](../f/financial_statements.md), [earnings](../e/earnings.md) reports, [economic indicators](../e/economic_indicators.md), and macroeconomic data.
 - **[Alternative Data](../a/alternative_data.md)**: [Social media sentiment](../s/social_media_sentiment.md), news feeds, web scraping data, satellite imagery, and [transaction](../t/transaction.md) data.
-- **[Technical Indicators](../t/technical_indicators.md)**: Moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md), and other technical tools.
+- **[Technical Indicators](../t/technical_indicators.md)**: Moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md), and other technical tools.
 
 ### Data Organization
 

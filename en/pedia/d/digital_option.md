@@ -24,7 +24,7 @@ The [risk](../r/risk.md) involved in trading digital [options](../o/options.md) 
 
 ### Selection of Underlying Asset
 
-First, the [trader](../t/trader.md) selects an [underlying asset](../u/underlying_asset.md) to [trade](../t/trade.md). This could be a stock, [commodity](../c/commodity.md), [currency](../c/currency.md) pair, or [index](../i/index.md). Digital [options](../o/options.md) often cover a broad [range](../r/range.md) of assets, [offering](../o/offering.md) diversified trading opportunities.
+First, the [trader](../t/trader.md) selects an [underlying asset](../u/underlying_asset.md) to [trade](../t/trade.md). This could be a stock, [commodity](../c/commodity.md), [currency](../c/currency.md) pair, or [index](../i/index_instrument.md). Digital [options](../o/options.md) often cover a broad [range](../r/range.md) of assets, [offering](../o/offering.md) diversified trading opportunities.
 
 ### Prediction
 

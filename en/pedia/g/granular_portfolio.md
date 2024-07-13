@@ -27,7 +27,7 @@ Granular [portfolio management](../p/par.md) places a significant emphasis on [r
 ### Performance Metrics
 To evaluate the performance of a granular portfolio, several metrics are used:
 - **[Sharpe Ratio](../s/sharpe_ratio.md):** Measures the [risk-adjusted return](../r/risk-adjusted_return.md) of the portfolio.
-- **[Alpha](../a/alpha.md):** Indicates the [excess return](../e/excess_return.md) of the portfolio relative to a [benchmark](../b/benchmark.md) [index](../i/index.md).
+- **[Alpha](../a/alpha.md):** Indicates the [excess return](../e/excess_return.md) of the portfolio relative to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 - **[Beta](../b/beta.md):** Measures the sensitivity of the portfolio’s returns to [market](../m/market.md) movements.
 - **[Standard Deviation](../s/standard_deviation.md):** Represents the total [risk](../r/risk.md) or [volatility](../v/volatility.md) of the portfolio’s returns.
 

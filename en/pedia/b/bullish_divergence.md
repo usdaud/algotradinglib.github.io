@@ -4,7 +4,7 @@ Bullish [divergence](../d/divergence.md) is a popular concept in [technical anal
 
 ## Introduction to Bullish Divergence
 
-Bullish [divergence](../d/divergence.md) occurs when the price of an [asset](../a/asset.md) is in a [downtrend](../d/downtrend.md), making lower lows, while a technical [indicator](../i/indicator.md), such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD), is making higher lows. This [divergence](../d/divergence.md) suggests that the bearish [momentum](../m/momentum.md) is weakening, and a [reversal](../r/reversal.md) or upward movement may be imminent.
+Bullish [divergence](../d/divergence.md) occurs when the price of an [asset](../a/asset.md) is in a [downtrend](../d/downtrend.md), making lower lows, while a technical [indicator](../i/indicator.md), such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD), is making higher lows. This [divergence](../d/divergence.md) suggests that the bearish [momentum](../m/momentum.md) is weakening, and a [reversal](../r/reversal.md) or upward movement may be imminent.
 
 ## Types of Indicators Used for Bullish Divergence
 

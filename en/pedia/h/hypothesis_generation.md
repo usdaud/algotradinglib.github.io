@@ -50,7 +50,7 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be ext
 
 ### 3.3 Technical Indicators
 
-[Technical indicators](../t/technical_indicators.md) are a common method of generating hypotheses in trading. Indicators such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) provide quantitative signals that can form the [basis](../b/basis.md) of a trading hypothesis.
+[Technical indicators](../t/technical_indicators.md) are a common method of generating hypotheses in trading. Indicators such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) provide quantitative signals that can form the [basis](../b/basis.md) of a trading hypothesis.
 
 ### 3.4 Backtesting
 

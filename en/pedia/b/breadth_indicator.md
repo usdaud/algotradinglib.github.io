@@ -16,7 +16,7 @@ The [McClellan Oscillator](../m/mcclellan_oscillator.md) is a [momentum](../m/mo
 
 ### McClellan Summation Index
 
-The McClellan Summation [Index](../i/index.md) is a longer-term version of the [McClellan Oscillator](../m/mcclellan_oscillator.md). It is calculated by summing the daily [McClellan Oscillator](../m/mcclellan_oscillator.md) values. The Summation [Index](../i/index.md) provides a broader view of [market](../m/market.md) trends, helping to confirm longer-term trends and identify major [market](../m/market.md) turning points. A rising Summation [Index](../i/index.md) suggests a bullish [market](../m/market.md) environment, while a falling Summation [Index](../i/index.md) indicates bearish conditions.
+The McClellan Summation [Index](../i/index_instrument.md) is a longer-term version of the [McClellan Oscillator](../m/mcclellan_oscillator.md). It is calculated by summing the daily [McClellan Oscillator](../m/mcclellan_oscillator.md) values. The Summation [Index](../i/index_instrument.md) provides a broader view of [market](../m/market.md) trends, helping to confirm longer-term trends and identify major [market](../m/market.md) turning points. A rising Summation [Index](../i/index_instrument.md) suggests a bullish [market](../m/market.md) environment, while a falling Summation [Index](../i/index_instrument.md) indicates bearish conditions.
 
 ### New Highs/New Lows
 
@@ -24,7 +24,7 @@ The New Highs/New Lows [indicator](../i/indicator.md) tracks the number of [stoc
 
 ### TRIN (Arms Index)
 
-The TRIN, also known as the Arms [Index](../i/index.md), is a [volume](../v/volume.md)-based breadth [indicator](../i/indicator.md) that compares the ratio of advancing to declining [stocks](../s/stock.md) with the ratio of advancing [volume](../v/volume.md) to declining [volume](../v/volume.md). Values above 1 suggest that more [volume](../v/volume.md) is going into declining [stocks](../s/stock.md), indicating bearish sentiment. Conversely, values below 1 indicate that more [volume](../v/volume.md) is going into advancing [stocks](../s/stock.md), suggesting bullish sentiment.
+The TRIN, also known as the Arms [Index](../i/index_instrument.md), is a [volume](../v/volume.md)-based breadth [indicator](../i/indicator.md) that compares the ratio of advancing to declining [stocks](../s/stock.md) with the ratio of advancing [volume](../v/volume.md) to declining [volume](../v/volume.md). Values above 1 suggest that more [volume](../v/volume.md) is going into declining [stocks](../s/stock.md), indicating bearish sentiment. Conversely, values below 1 indicate that more [volume](../v/volume.md) is going into advancing [stocks](../s/stock.md), suggesting bullish sentiment.
 
 ## Importance of Breadth Indicators
 

@@ -32,7 +32,7 @@ Understanding key [economic indicators](../e/economic_indicators.md) through a K
 1. **Gross Domestic Product (GDP)**: Measures the total [value](../v/value.md) of goods and services produced in a country. An increasing GDP indicates [economic growth](../e/economic_growth.md), which can be bullish for markets.
 2. **[Unemployment Rate](../u/unemployment_rate.md)**: High [unemployment](../u/unemployment.md) usually signals economic distress and can be bearish.
 3. **[Inflation](../i/inflation.md) Rate**: Moderate [inflation](../i/inflation.md) reflects healthy economic [demand](../d/demand.md); [hyperinflation](../h/hyperinflation.md) or [deflation](../d/deflation.md) can be detrimental.
-4. **Consumer Confidence [Index](../i/index.md) (CCI)**: Reflects consumer sentiment and can be predictive of consumer spending patterns.
+4. **Consumer Confidence [Index](../i/index_instrument.md) (CCI)**: Reflects consumer sentiment and can be predictive of consumer spending patterns.
 
 ## Application in Trading Strategies
 

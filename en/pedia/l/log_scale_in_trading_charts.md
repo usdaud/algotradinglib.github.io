@@ -34,7 +34,7 @@ Most modern trading platforms provide the option to switch between linear and lo
 
 ### Example 1: Stock Market Index
 
-Consider the historical price chart of the S&P 500 [index](../i/index.md). Over the past few decades, the [index](../i/index.md) has grown from a few hundred to several thousand points. A linear scale would heavily compress the earlier years' data, making it difficult to see patterns or trends. A log scale, however, would provide a clearer picture of percentage changes, allowing analysts to easily identify significant growth periods.
+Consider the historical price chart of the S&P 500 [index](../i/index_instrument.md). Over the past few decades, the [index](../i/index_instrument.md) has grown from a few hundred to several thousand points. A linear scale would heavily compress the earlier years' data, making it difficult to see patterns or trends. A log scale, however, would provide a clearer picture of percentage changes, allowing analysts to easily identify significant growth periods.
 
 ### Example 2: Cryptocurrency Prices
 

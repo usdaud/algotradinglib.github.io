@@ -27,7 +27,7 @@ X-Y plots are extensively used in algotrading to analyze the [correlation](../c/
 Regression lines can be drawn on X-Y plots to model the relationship between variables. This is particularly useful in [predictive modeling](../p/predictive_modeling.md) where historical data is used to forecast future trends.
 
 ### Visualizing Technical Indicators
-[Technical indicators](../t/technical_indicators.md) such as the Moving Average Convergence [Divergence](../d/divergence.md) (MACD) or [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) can be plotted against price data to identify potential buy or sell signals.
+[Technical indicators](../t/technical_indicators.md) such as the Moving Average Convergence [Divergence](../d/divergence.md) (MACD) or [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) can be plotted against price data to identify potential buy or sell signals.
 
 ### Anomaly Detection
 Outliers in trading data can signify important events like sudden [market](../m/market.md) movements or errors in data feeds. X-Y plots help in visualizing these anomalies quickly and effectively.

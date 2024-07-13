@@ -89,7 +89,7 @@ Due to its limitations, the Payback Period is often used alongside other financi
 
 - **Net [Present Value](../p/present_value.md) (NPV)**: Considers the [time value](../t/time_value.md) of [money](../m/money.md) by [discounting](../d/discounting.md) future cash flows and provides a direct measure of the investment's added [value](../v/value.md).
 - **Internal [Rate of Return](../r/rate_of_return.md) (IRR)**: Estimates the investment's [return](../r/return.md) rate, equating the [present value](../p/present_value.md) of cash inflows and outflows.
-- **Profitability [Index](../i/index.md) (PI)**: Measures the ratio of the [present value](../p/present_value.md) of future cash flows to the initial investment, indicating the [value](../v/value.md) generated per dollar invested.
+- **Profitability [Index](../i/index_instrument.md) (PI)**: Measures the ratio of the [present value](../p/present_value.md) of future cash flows to the initial investment, indicating the [value](../v/value.md) generated per dollar invested.
 
 ## Conclusion
 

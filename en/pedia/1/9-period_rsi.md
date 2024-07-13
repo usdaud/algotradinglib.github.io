@@ -1,6 +1,6 @@
 # 9-Period RSI
 
-The 9-period [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a popular [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) used to measure the strength and [momentum](../m/momentum.md) of price movements in [financial markets](../f/financial_market.md). RSI was created by J. Welles Wilder Jr. and introduced in his book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)" in 1978. While the traditional RSI calculation uses a 14-period [default](../d/default.md), the 9-period RSI is a shorter-term variation that some traders prefer for quicker signals and increased sensitivity to price changes.
+The 9-period [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a popular [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) used to measure the strength and [momentum](../m/momentum.md) of price movements in [financial markets](../f/financial_market.md). RSI was created by J. Welles Wilder Jr. and introduced in his book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)" in 1978. While the traditional RSI calculation uses a 14-period [default](../d/default.md), the 9-period RSI is a shorter-term variation that some traders prefer for quicker signals and increased sensitivity to price changes.
 
 ## How RSI is Calculated
 

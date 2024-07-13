@@ -81,7 +81,7 @@ Platforms such as [Bloomberg](../b/bloomberg.md) Terminal and [Reuters](../r/reu
 [Momentum trading](../m/momentum_trading.md) involves buying or selling an [asset](../a/asset.md) when it's demonstrating strong price movement in a particular direction.
 
 ### Methodology
-1. **[Technical Indicators](../t/technical_indicators.md)**: Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [volume indicators](../v/volume_indicators.md) are widely used.
+1. **[Technical Indicators](../t/technical_indicators.md)**: Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [volume indicators](../v/volume_indicators.md) are widely used.
 2. **[Trend](../t/trend.md) Confirmation**: [Momentum](../m/momentum.md) traders look for confirmation of trends before entering trades.
 3. **Position Scaling**: Positions may be scaled in and out based on the strength of the [trend](../t/trend.md).
 

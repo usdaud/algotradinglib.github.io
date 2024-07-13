@@ -50,7 +50,7 @@ where \(\[kappa](../k/kappa.md)\), \(\[theta](../t/theta.md)\), and \(\xi\) are 
 
 ### 5. **Volatility Indexes**
 
-[Volatility](../v/volatility.md) indexes, such as the CBOE [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX), represent [market](../m/market.md) expectations of future [volatility](../v/volatility.md). The VIX, for example, is derived from the implied volatilities of S&P 500 [index options](../i/index_options.md).
+[Volatility](../v/volatility.md) indexes, such as the CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX), represent [market](../m/market.md) expectations of future [volatility](../v/volatility.md). The VIX, for example, is derived from the implied volatilities of S&P 500 [index options](../i/index_options.md).
 
 ## Practical Applications in Algorithmic Trading
 

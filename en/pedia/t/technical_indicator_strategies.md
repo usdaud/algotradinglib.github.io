@@ -120,7 +120,7 @@ data['Signal'] = np.where(data['SMA_20'] > data['SMA_50'], 1, 0)
 
 # Trade Implementation
 def generate_signals(data):
-    signals = pd.DataFrame([index](../i/index.md)=data.[index](../i/index.md))
+    signals = pd.DataFrame([index](../i/index_instrument.md)=data.[index](../i/index_instrument.md))
     signals['Signal'] = 0.0
     signals['Signal'] = np.where(data['SMA_20'] > data['SMA_50'], 1.0, 0.0)
     signals['Positions'] = signals['Signal'].diff()

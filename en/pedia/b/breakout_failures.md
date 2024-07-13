@@ -35,7 +35,7 @@ Recognizing the signs of a potential [breakout](../b/breakout.md) failure can he
 
 1. **[Volume Analysis](../v/volume_analysis.md)**: A [breakout](../b/breakout.md) should ideally be accompanied by a surge in [volume](../v/volume.md). If not, the [breakout](../b/breakout.md) may lack the strength needed for continuation.
 2. **[Price Action](../p/price_action.md)**: Quick retractions after a [breakout](../b/breakout.md), especially on high [volume](../v/volume.md), indicate a failure.
-3. **[Technical Indicators](../t/technical_indicators.md)**: Tools like the RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) or MACD (Moving Average Convergence [Divergence](../d/divergence.md)) can signal [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, hinting at potential reversals.
+3. **[Technical Indicators](../t/technical_indicators.md)**: Tools like the RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) or MACD (Moving Average Convergence [Divergence](../d/divergence.md)) can signal [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, hinting at potential reversals.
 
 ### Practical Examples
 

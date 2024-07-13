@@ -32,7 +32,7 @@ The p-[value](../v/value.md) is the probability that the observed data would occ
 In [financial markets](../f/financial_market.md), analysts often compare the prices of a stock at different times to determine if there has been a significant change. 
 
 ### 2. Portfolio Performance
-Z-Tests can be used to compare the performance of different portfolios against a [benchmark](../b/benchmark.md) [index](../i/index.md) to assess if a [portfolio manager](../p/portfolio_manager.md) has added significant [value](../v/value.md).
+Z-Tests can be used to compare the performance of different portfolios against a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) to assess if a [portfolio manager](../p/portfolio_manager.md) has added significant [value](../v/value.md).
 
 ### 3. Economic Indicators
 Financial analysts often use Z-Tests to compare [economic indicators](../e/economic_indicators.md) (e.g., GDP [growth rates](../g/growth_rates_in_trading.md)) between different countries or different time periods.

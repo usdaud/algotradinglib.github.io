@@ -33,7 +33,7 @@ This method evaluates how much it would cost to replace the [asset](../a/asset.m
 Sometimes, assets are unique or require specialized knowledge for [valuation](../v/valuation.md). In such cases, professional appraisers are employed to estimate the current [value](../v/value.md) of the assets.
 
 ### Indexation
-[Indexation](../i/indexation.md) involves adjusting the [asset](../a/asset.md) [value](../v/value.md) based on a specific [index](../i/index.md), such as an [inflation](../i/inflation.md) [index](../i/index.md). This can be more straightforward and is used primarily when wider [economic conditions](../e/economic_conditions.md), such as [inflation](../i/inflation.md), are the primary [factor](../f/factor.md) for revaluation.
+[Indexation](../i/indexation.md) involves adjusting the [asset](../a/asset.md) [value](../v/value.md) based on a specific [index](../i/index_instrument.md), such as an [inflation](../i/inflation.md) [index](../i/index_instrument.md). This can be more straightforward and is used primarily when wider [economic conditions](../e/economic_conditions.md), such as [inflation](../i/inflation.md), are the primary [factor](../f/factor.md) for revaluation.
 
 ## Implications of Revaluation
 

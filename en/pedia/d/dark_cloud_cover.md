@@ -37,7 +37,7 @@ def is_dark_cloud_cover(df):
     Returns:
     pd.DataFrame: DataFrame with Dark Cloud Cover signals.
     """
-    signals = pd.DataFrame([index](../i/index.md)=df.[index](../i/index.md))
+    signals = pd.DataFrame([index](../i/index_instrument.md)=df.[index](../i/index_instrument.md))
     signals['DarkCloudCover'] = False
     
     for i in [range](../r/range.md)(1, len(df)):
@@ -63,7 +63,7 @@ def is_dark_cloud_cover(df):
 
 ### Strategy 1: Trend Reversal Indicators
 
-The Dark Cloud Cover can be utilized alongside other [technical indicators](../t/technical_indicator.md) to form a [robust](../r/robust.md) [trend reversal](../t/trend_reversal.md) strategy. For example, Combining it with [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can enhance signal reliability.
+The Dark Cloud Cover can be utilized alongside other [technical indicators](../t/technical_indicator.md) to form a [robust](../r/robust.md) [trend reversal](../t/trend_reversal.md) strategy. For example, Combining it with [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can enhance signal reliability.
 
 ### Strategy 2: Confirmation with Volume
 

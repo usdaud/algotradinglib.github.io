@@ -1,10 +1,10 @@
 # Profitability Index (PI)
 
-The Profitability [Index](../i/index.md) (PI), also referred to as the [Profit](../p/profit.md) Investment Ratio (PIR) or the [Value](../v/value.md) Investment Ratio (VIR), is a financial metric used to assess the attractiveness of an investment or project. PI is calculated by dividing the [present value](../p/present_value.md) of future expected cash flows by the initial investment cost. It is a useful tool in [capital budgeting](../c/capital_budgeting.md) that helps in comparing and ranking projects for decision-making.
+The Profitability [Index](../i/index_instrument.md) (PI), also referred to as the [Profit](../p/profit.md) Investment Ratio (PIR) or the [Value](../v/value.md) Investment Ratio (VIR), is a financial metric used to assess the attractiveness of an investment or project. PI is calculated by dividing the [present value](../p/present_value.md) of future expected cash flows by the initial investment cost. It is a useful tool in [capital budgeting](../c/capital_budgeting.md) that helps in comparing and ranking projects for decision-making.
 
 ## Definition
 
-The Profitability [Index](../i/index.md) is a ratio that measures the profitability of a potential investment by comparing the [present value](../p/present_value.md) of its future expected cash flows to the initial amount of investment needed. This ratio helps investors and company decision-makers identify which projects [will](../w/will.md) [yield](../y/yield.md) the highest returns relative to their costs. A PI greater than 1 indicates that the project's net [present value](../p/present_value.md) (NPV) is positive, meaning it is expected to generate more cash than what it costs. Conversely, a PI less than 1 suggests that the project's NPV is negative, indicating that it is likely to be unprofitable.
+The Profitability [Index](../i/index_instrument.md) is a ratio that measures the profitability of a potential investment by comparing the [present value](../p/present_value.md) of its future expected cash flows to the initial amount of investment needed. This ratio helps investors and company decision-makers identify which projects [will](../w/will.md) [yield](../y/yield.md) the highest returns relative to their costs. A PI greater than 1 indicates that the project's net [present value](../p/present_value.md) (NPV) is positive, meaning it is expected to generate more cash than what it costs. Conversely, a PI less than 1 suggests that the project's NPV is negative, indicating that it is likely to be unprofitable.
 
 ## Components
 
@@ -21,12 +21,12 @@ The Profitability [Index](../i/index.md) is a ratio that measures the profitabil
 
 ## Formula
 
-The Profitability [Index](../i/index.md) is calculated using the following formula:
+The Profitability [Index](../i/index_instrument.md) is calculated using the following formula:
 
 \[ PI = \frac{PVCF}{IIC} \]
 
 Where:
-- \( PI \) = Profitability [Index](../i/index.md)
+- \( PI \) = Profitability [Index](../i/index_instrument.md)
 - \( PVCF \) = [Present Value](../p/present_value.md) of Cash Flows
 - \( IIC \) = Initial Investment Cost
 
@@ -51,7 +51,7 @@ Since the PI is greater than 1, this project is considered profitable and worthw
 
 ## Application in Capital Budgeting
 
-In [capital budgeting](../c/capital_budgeting.md), the Profitability [Index](../i/index.md) is often used to evaluate [multiple](../m/multiple.md) investment opportunities. It helps in ranking projects based on their relative profitability. The PI is particularly useful when the available [capital](../c/capital.md) is limited, and there is a need to choose between several competing projects.
+In [capital budgeting](../c/capital_budgeting.md), the Profitability [Index](../i/index_instrument.md) is often used to evaluate [multiple](../m/multiple.md) investment opportunities. It helps in ranking projects based on their relative profitability. The PI is particularly useful when the available [capital](../c/capital.md) is limited, and there is a need to choose between several competing projects.
 
 1. **Ranking Projects:**
    - Projects with a PI greater than 1 are considered for investment.
@@ -64,7 +64,7 @@ In [capital budgeting](../c/capital_budgeting.md), the Profitability [Index](../
 
 3. **Decision-Making Under [Capital](../c/capital.md) Rationing:**
    - When a [firm](../f/firm.md) has limited funds, PI helps in allocating resources to projects that maximize the overall [value](../v/value.md).
-   - Decision-makers can identify the combination of projects that together [yield](../y/yield.md) the highest total profitability [index](../i/index.md) while staying within [budget](../b/budget.md) constraints.
+   - Decision-makers can identify the combination of projects that together [yield](../y/yield.md) the highest total profitability [index](../i/index_instrument.md) while staying within [budget](../b/budget.md) constraints.
 
 ## Advantages and Disadvantages
 
@@ -92,4 +92,4 @@ In [capital budgeting](../c/capital_budgeting.md), the Profitability [Index](../
 
 ## Conclusion
 
-The Profitability [Index](../i/index.md) is a valuable tool in the arsenal of financial analysts and decision-makers. It helps in assessing the feasibility and profitability of investments and projects, ensuring that [capital](../c/capital.md) is allocated to the most worthwhile endeavors. By understanding and applying the PI metric, organizations can make informed decisions that maximize their returns and enhance their [financial performance](../f/financial_performance.md). Whether used alone or in conjunction with other financial metrics, the PI remains a cornerstone of sound [financial planning](../f/financial_planning.md) and [investment analysis](../i/investment_analysis.md).
+The Profitability [Index](../i/index_instrument.md) is a valuable tool in the arsenal of financial analysts and decision-makers. It helps in assessing the feasibility and profitability of investments and projects, ensuring that [capital](../c/capital.md) is allocated to the most worthwhile endeavors. By understanding and applying the PI metric, organizations can make informed decisions that maximize their returns and enhance their [financial performance](../f/financial_performance.md). Whether used alone or in conjunction with other financial metrics, the PI remains a cornerstone of sound [financial planning](../f/financial_planning.md) and [investment analysis](../i/investment_analysis.md).

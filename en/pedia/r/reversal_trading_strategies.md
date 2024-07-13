@@ -24,7 +24,7 @@ There are primarily two types of [market](../m/market.md) reversals:
 
 [Technical indicators](../t/technical_indicators.md) are essential tools in identifying potential reversals. Some commonly used indicators include:
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD):** This [indicator](../i/indicator.md) helps identify changes in the strength, direction, and [momentum](../m/momentum.md) of a [trend](../t/trend.md).
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** RSI measures the speed and change of price movements and identifies [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** RSI measures the speed and change of price movements and identifies [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Bollinger Bands](../b/bollinger_bands.md):** These bands measure [volatility](../v/volatility.md) and identify extreme price levels, signaling potential [reversal](../r/reversal.md) points.
 - **[Stochastic Oscillator](../s/stochastic_oscillator.md):** This [indicator](../i/indicator.md) compares a [security](../s/security.md)'s closing price to its price [range](../r/range.md) over a specific period, helping to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 

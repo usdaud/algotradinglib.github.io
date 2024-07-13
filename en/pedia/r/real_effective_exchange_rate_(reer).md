@@ -22,15 +22,15 @@ The calculation of REER involves several steps, integrating the components menti
 
 1. **Obtain [Nominal](../n/nominal.md) [Exchange](../e/exchange.md) Rates**: Gather the [nominal](../n/nominal.md) [exchange](../e/exchange.md) rates for the [home](../h/home.md) [currency](../c/currency.md) against each [currency](../c/currency.md) in the basket.
 2. **Apply [Trade](../t/trade.md) Weights**: Assign [trade](../t/trade.md) weights to each [currency](../c/currency.md) based on the proportion of [bilateral trade](../b/bilateral_trade.md).
-3. **Adjust for [Inflation](../i/inflation.md)**: Adjust the [nominal](../n/nominal.md) [exchange](../e/exchange.md) rates with relative price levels (usually using Consumer Price [Index](../i/index.md) (CPI) or Producer Price [Index](../i/index.md) (PPI)).
+3. **Adjust for [Inflation](../i/inflation.md)**: Adjust the [nominal](../n/nominal.md) [exchange](../e/exchange.md) rates with relative price levels (usually using Consumer Price [Index](../i/index_instrument.md) (CPI) or Producer Price [Index](../i/index_instrument.md) (PPI)).
 4. **Calculate the [Weighted Average](../w/weighted_average.md)**: Calculate the [weighted average](../w/weighted_average.md) of the adjusted [exchange](../e/exchange.md) rates to derive the REER.
 
 ### Formula
 \[ \text{REER} = \text{NER} \times \left(\frac{\text{CPI}_{\text{domestic}}}{\text{CPI}_{\text{foreign}}}\right) \times \text{[Trade](../t/trade.md) Weight} \]
 Where:
 - \( \text{NER} \) is the [nominal](../n/nominal.md) [exchange rate](../e/exchange_rate.md).
-- \( \text{CPI}_{\text{domestic}} \) is the Consumer Price [Index](../i/index.md) of the [home](../h/home.md) country.
-- \( \text{CPI}_{\text{foreign}} \) is the Consumer Price [Index](../i/index.md) of the foreign country.
+- \( \text{CPI}_{\text{domestic}} \) is the Consumer Price [Index](../i/index_instrument.md) of the [home](../h/home.md) country.
+- \( \text{CPI}_{\text{foreign}} \) is the Consumer Price [Index](../i/index_instrument.md) of the foreign country.
 - [Trade](../t/trade.md) Weight reflects the significance of [trade](../t/trade.md) with the foreign country.
 
 ## Importance of REER

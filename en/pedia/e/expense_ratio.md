@@ -14,7 +14,7 @@ The [expense](../e/expense.md) ratio is expressed as a percentage of the [fund](
 
 ## Importance in Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), [expense](../e/expense.md) ratios can have a pronounced impact on net returns, particularly for traders involved in high-frequency trading or those who invest in [index](../i/index.md) funds or ETFs as part of their [trading strategy](../t/trading_strategy.md). This is because even small differences in [expense](../e/expense.md) ratios can lead to significant variance in the returns of [high-volume trading strategies](../h/high-volume_trading_strategies.md) over time.
+In the realm of [algorithmic trading](../a/accountability.md), [expense](../e/expense.md) ratios can have a pronounced impact on net returns, particularly for traders involved in high-frequency trading or those who invest in [index](../i/index_instrument.md) funds or ETFs as part of their [trading strategy](../t/trading_strategy.md). This is because even small differences in [expense](../e/expense.md) ratios can lead to significant variance in the returns of [high-volume trading strategies](../h/high-volume_trading_strategies.md) over time.
 
 ## Calculating the Expense Ratio
 
@@ -65,8 +65,8 @@ Traders engaged in [algorithmic trading](../a/accountability.md) often seek ways
 
 1. **[Expense](../e/expense.md) Monitoring**: Regularly reviewing and comparing the [expense](../e/expense.md) ratios of funds.
 2. **[Optimization](../o/optimization.md) Algorithms**: Implementing algorithms that [factor](../f/factor.md) in [expense](../e/expense.md) ratios when selecting funds or ETFs.
-3. **Switching to Lower-Cost Alternatives**: Transitioning from high-cost mutual funds to lower-cost ETFs or [index](../i/index.md) funds.
-4. **Direct [Indexing](../i/indexing.md)**: Skipping the [fund](../f/fund.md) structure entirely and directly purchasing a portfolio of [stocks](../s/stock.md) to mimic an [index](../i/index.md).
+3. **Switching to Lower-Cost Alternatives**: Transitioning from high-cost mutual funds to lower-cost ETFs or [index](../i/index_instrument.md) funds.
+4. **Direct [Indexing](../i/indexing.md)**: Skipping the [fund](../f/fund.md) structure entirely and directly purchasing a portfolio of [stocks](../s/stock.md) to mimic an [index](../i/index_instrument.md).
 
 ## Historical Trends and Future Outlook
 
@@ -76,7 +76,7 @@ Over the past few decades, a [trend](../t/trend.md) towards lower [expense](../e
 
 [Fidelity](https://www.fidelity.com)
 
-In response to [market](../m/market.md) [demand](../d/demand.md) for low-cost investment [options](../o/options.md), Fidelity introduced their Zero-[Fee](../f/fee.md) [Index](../i/index.md) Funds, which aim to attract investors by eliminating [expense](../e/expense.md) ratios altogether. These funds are remarkable in the context of algotrading, as they can significantly reduce operational costs for high-frequency and algorithm-driven [trading strategies](../t/trading_strategies.md).
+In response to [market](../m/market.md) [demand](../d/demand.md) for low-cost investment [options](../o/options.md), Fidelity introduced their Zero-[Fee](../f/fee.md) [Index](../i/index_instrument.md) Funds, which aim to attract investors by eliminating [expense](../e/expense.md) ratios altogether. These funds are remarkable in the context of algotrading, as they can significantly reduce operational costs for high-frequency and algorithm-driven [trading strategies](../t/trading_strategies.md).
 
 ## Regulatory Aspects
 

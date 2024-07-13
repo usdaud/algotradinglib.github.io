@@ -24,7 +24,7 @@ The production approach calculates GDP by adding the [value added](../v/value_ad
 
 ## Adjusting for Inflation: The GDP Deflator
 
-To convert [nominal](../n/nominal.md) GDP into real GDP, economists use the GDP deflator, a price [index](../i/index.md) that measures the change in prices of all new, domestically produced, final goods and services in an [economy](../e/economy.md). The formula is:
+To convert [nominal](../n/nominal.md) GDP into real GDP, economists use the GDP deflator, a price [index](../i/index_instrument.md) that measures the change in prices of all new, domestically produced, final goods and services in an [economy](../e/economy.md). The formula is:
 \[ \text{Real GDP} = \frac{\text{[Nominal](../n/nominal.md) GDP}}{\text{GDP Deflator}} \times 100 \]
 
 ## Importance of Real GDP

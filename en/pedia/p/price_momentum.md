@@ -25,7 +25,7 @@ The principle of price [momentum](../m/momentum.md) can be traced back to the ea
 - **Moving Averages**: Simple and exponential moving averages (SMA and EMA) are used to smooth out price data and generate [trading signals](../t/trading_signals.md).
   - *Example*: A typical crossover strategy might buy [stocks](../s/stock.md) when the short-term moving average crosses above the long-term moving average and sell when the opposite occurs.
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Developed by J. Welles Wilder, RSI measures the speed and change of price movements. A stock is considered [overbought](../o/overbought.md) when the RSI is above 70 and [oversold](../o/oversold.md) when below 30.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Developed by J. Welles Wilder, RSI measures the speed and change of price movements. A stock is considered [overbought](../o/overbought.md) when the RSI is above 70 and [oversold](../o/oversold.md) when below 30.
   - *Application*: Traders might look for [divergence](../d/divergence.md) between the RSI and price to anticipate reversals.
 
 - **[Momentum Indicators](../m/momentum_indicators.md)**: These include rate of change (ROC), MOM ([momentum](../m/momentum.md)), and others that measure the velocity of price changes.

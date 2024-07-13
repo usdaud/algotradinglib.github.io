@@ -35,7 +35,7 @@
 
 ### 4. Applications in Algorithmic Trading
 - **[Risk Management](../r/risk_management.md):** [Algorithmic trading](../a/algorithmic_trading.md) systems use [return](../r/return.md) [dispersion](../d/dispersion.md) to gauge the riskiness of portfolios and adjust positions to maintain desired [risk](../r/risk.md) levels.
-- **[Performance Benchmarking](../p/performance_benchmarking.md):** [Dispersion](../d/dispersion.md) analysis helps in benchmarking performance against an [index](../i/index.md) or another portfolio.
+- **[Performance Benchmarking](../p/performance_benchmarking.md):** [Dispersion](../d/dispersion.md) analysis helps in benchmarking performance against an [index](../i/index_instrument.md) or another portfolio.
 - **[Portfolio Optimization](../p/portfolio_optimization.md):** Algorithms can optimize portfolio allocations by minimizing [return](../r/return.md) [dispersion](../d/dispersion.md) to achieve a more stable [return](../r/return.md) profile.
 
 ## Practical Example

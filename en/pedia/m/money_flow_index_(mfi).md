@@ -1,6 +1,6 @@
 # Money Flow Index (MFI)
 
-The [Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI) is a [momentum](../m/momentum.md) [indicator](../i/indicator.md) that uses both price and [volume](../v/volume.md) data to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in an [asset](../a/asset.md). It is similar to the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) but includes [volume](../v/volume.md), whereas the RSI considers only price. The MFI is a useful tool for traders and investors to gauge [market sentiment](../m/market_sentiment.md) and potential [reversal](../r/reversal.md) points in the [market](../m/market.md).
+The [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI) is a [momentum](../m/momentum.md) [indicator](../i/indicator.md) that uses both price and [volume](../v/volume.md) data to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in an [asset](../a/asset.md). It is similar to the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) but includes [volume](../v/volume.md), whereas the RSI considers only price. The MFI is a useful tool for traders and investors to gauge [market sentiment](../m/market_sentiment.md) and potential [reversal](../r/reversal.md) points in the [market](../m/market.md).
 
 ### Calculation of MFI
 
@@ -25,7 +25,7 @@ The MFI is calculated through a multi-step process that involves the use of typi
    MFR = \frac{\text{Positive [Money Flow](../m/money_flow.md) (over 14 periods)}}{\text{Negative [Money Flow](../m/money_flow.md) (over 14 periods)}}
    \]
 
-5. **[Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI):**
+5. **[Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI):**
    \[
    MFI = 100 - \frac{100}{1 + MFR}
    \]
@@ -89,7 +89,7 @@ Assume the following data points (for simplicity):
    MFR = \frac{50000000}{30000000} = 1.67
    \]
 
-5. **[Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI):**
+5. **[Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI):**
    \[
    MFI = 100 - \frac{100}{1 + 1.67} \approx 62.5
    \]
@@ -136,4 +136,4 @@ Several trading platforms and tools [offer](../o/offer.md) built-in MFI indicato
 
 ### Conclusion
 
-The [Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI) is a compelling tool that blends price and [volume](../v/volume.md) to give traders insights into the strength of [market](../m/market.md) movements. Its application in identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, along with potential divergences, makes it a valuable addition to any [trader](../t/trader.md)’s toolkit. Be it for manual or [algorithmic trading](../a/algorithmic_trading.md), understanding and utilizing the MFI can help in making more informed and potentially profitable trading decisions.
+The [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI) is a compelling tool that blends price and [volume](../v/volume.md) to give traders insights into the strength of [market](../m/market.md) movements. Its application in identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, along with potential divergences, makes it a valuable addition to any [trader](../t/trader.md)’s toolkit. Be it for manual or [algorithmic trading](../a/algorithmic_trading.md), understanding and utilizing the MFI can help in making more informed and potentially profitable trading decisions.

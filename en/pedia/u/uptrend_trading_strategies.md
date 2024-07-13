@@ -17,7 +17,7 @@ An [uptrend](../u/uptrend.md) is characterized by a series of higher highs and h
    - Signal Line
    - [Histogram](../h/histogram.md)
    
-3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):**
+3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):**
    - Measures the speed and change of price movements
    
 4. **Trendlines:**

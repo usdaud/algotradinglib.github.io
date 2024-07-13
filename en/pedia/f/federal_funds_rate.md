@@ -57,7 +57,7 @@ Conversely, to increase the rate, the Fed sells government securities, removing 
 The FOMC relies on a [range](../r/range.md) of economic data to guide their decisions regarding the [Federal Funds](../f/federal_funds.md) Rate. Some key indicators include:
 
 - **Gross Domestic Product (GDP):** Measures the total economic output and provides a broad view of economic health.
-- **[Inflation](../i/inflation.md) Rates:** Indicated by measures such as the Consumer Price [Index](../i/index.md) (CPI) and Producer Price [Index](../i/index.md) (PPI).
+- **[Inflation](../i/inflation.md) Rates:** Indicated by measures such as the Consumer Price [Index](../i/index_instrument.md) (CPI) and Producer Price [Index](../i/index_instrument.md) (PPI).
 - **Employment Data:** [Unemployment](../u/unemployment.md) rates and job creation figures are critical indicators of economic activity and [labor market](../l/labor_market.md) health.
 
 ## Effects of Changes in the Federal Funds Rate

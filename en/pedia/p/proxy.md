@@ -42,7 +42,7 @@ Proxy statements are vital for maintaining [corporate governance](../c/corporate
 
 In the context of [algorithmic trading](../a/accountability.md), proxies can refer to various elements such as proxy indicators or proxy servers used to improve [trading strategies](../t/trading_strategies.md) or maintain anonymity. 
 
-- **Proxy Indicators:** These are variables or indicators used as substitutes for direct measurement of trading conditions. For example, the VIX ([Volatility](../v/volatility.md) [Index](../i/index.md)) can serve as a proxy for [market](../m/market.md) [uncertainty](../u/uncertainty_in_trading.md).
+- **Proxy Indicators:** These are variables or indicators used as substitutes for direct measurement of trading conditions. For example, the VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md)) can serve as a proxy for [market](../m/market.md) [uncertainty](../u/uncertainty_in_trading.md).
 - **Proxy Servers:** Proxy servers can be used to anonymize trading activities or to route orders through specific servers to reduce latency. 
 
 ### Applications and Benefits

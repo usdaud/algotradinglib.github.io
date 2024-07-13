@@ -10,7 +10,7 @@ Historical data is a crucial component in developing and testing [algorithmic tr
 
 1. **Price Data:** Includes [open](../o/open.md), high, low, close (OHLC) prices.
 2. **[Volume](../v/volume.md) Data:** Measures the amount of an [asset](../a/asset.md) traded during a specific period.
-3. **[Technical Indicators](../t/technical_indicators.md):** Derived from price and [volume](../v/volume.md) data, e.g., Moving Averages (MA), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI).
+3. **[Technical Indicators](../t/technical_indicators.md):** Derived from price and [volume](../v/volume.md) data, e.g., Moving Averages (MA), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 
 ### Techniques
 
@@ -55,7 +55,7 @@ Machine learning (ML) algorithms allow traders to build models that can learn fr
 ### Techniques
 
 - **[Chart Patterns](../c/chart_patterns.md):** Recognizing formations like double tops, head and shoulders, and triangles.
-- **Indicators:** Applying tools like Moving Averages, [Bollinger Bands](../b/bollinger_bands.md), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)).
+- **Indicators:** Applying tools like Moving Averages, [Bollinger Bands](../b/bollinger_bands.md), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)).
 - **[Volume Analysis](../v/volume_analysis.md):** Assessing price movements in conjunction with [volume](../v/volume.md) to validate trends.
 
 ## 6. Fundamental Analysis

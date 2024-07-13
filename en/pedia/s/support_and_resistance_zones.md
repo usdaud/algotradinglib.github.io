@@ -38,7 +38,7 @@ Breakouts occur when the price moves beyond a support or resistance level, signa
 ## Case Studies and Examples
 
 ### Example: S&P 500 Index
-Let’s consider the S&P 500 [Index](../i/index.md). Historical data shows that the [index](../i/index.md) often finds support at key [psychological levels](../p/psychological_levels_in_trading.md), such as 3000 or 3500. Additionally, moving averages such as the 50-day or [200-day moving average](../1/200-day_moving_average.md) often act as dynamic support or resistance, providing valuable signals for traders.
+Let’s consider the S&P 500 [Index](../i/index_instrument.md). Historical data shows that the [index](../i/index_instrument.md) often finds support at key [psychological levels](../p/psychological_levels_in_trading.md), such as 3000 or 3500. Additionally, moving averages such as the 50-day or [200-day moving average](../1/200-day_moving_average.md) often act as dynamic support or resistance, providing valuable signals for traders.
 
 ### Example: Forex Market
 In the forex [market](../m/market.md), major [currency](../c/currency.md) pairs often show respect for [support and resistance](../s/support_and_resistance.md) levels. For instance, the EUR/USD pair may find significant support at levels like 1.1000 or 1.2000, which are round numbers and psychological price points.

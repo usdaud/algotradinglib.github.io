@@ -94,7 +94,7 @@ This involves evaluating [economic indicators](../e/economic_indicators.md), new
 This involves using historical price data and [chart patterns](../c/chart_patterns.md) to forecast future price movements. Key tools and concepts include:
 
 - **Moving Averages:** MA, EMA, and SMA help identify trends.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the speed and change of price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the speed and change of price movements.
 - **[Fibonacci Retracement](../f/fibonacci_retracement.md):** Used to identify potential [support and resistance](../s/support_and_resistance.md) levels.
 - **[Candlestick Patterns](../c/candlestick_patterns.md):** Provide visual cues about [market sentiment](../m/market_sentiment.md).
 

@@ -24,7 +24,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies involve identifying price 
 
 ## 4. Momentum Trading
 
-[Momentum](../m/momentum.md) [trading strategies](../t/trading_strategies.md) aim to [capitalize](../c/capitalize.md) on the continuation of existing [market](../m/market.md) trends. Traders using this approach buy assets that have shown an upward price [trend](../t/trend.md) and sell assets that have shown a downward [trend](../t/trend.md). [Momentum](../m/momentum.md) algorithms rely on [technical indicators](../t/technical_indicator.md) such as moving averages and [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI) to identify potential trades.
+[Momentum](../m/momentum.md) [trading strategies](../t/trading_strategies.md) aim to [capitalize](../c/capitalize.md) on the continuation of existing [market](../m/market.md) trends. Traders using this approach buy assets that have shown an upward price [trend](../t/trend.md) and sell assets that have shown a downward [trend](../t/trend.md). [Momentum](../m/momentum.md) algorithms rely on [technical indicators](../t/technical_indicator.md) such as moving averages and [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI) to identify potential trades.
 
 ## 5. Mean Reversion
 

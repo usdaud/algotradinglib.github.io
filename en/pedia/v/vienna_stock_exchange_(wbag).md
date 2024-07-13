@@ -25,7 +25,7 @@ The WBAG provides a comprehensive [bond market](../b/bond_market.md) where both 
 The [exchange](../e/exchange.md) also offers a [range](../r/range.md) of [derivative](../d/derivative.md) products, including [options](../o/options.md) and [futures](../f/futures.md). These products allow investors to [hedge](../h/hedge.md) risks and optimize their investment strategies.
 
 ### Indices
-The Vienna Stock [Exchange](../e/exchange.md) maintains several indices that measure the performance of various segments of the [market](../m/market.md). The most prominent of these is the ATX (Austrian Traded [Index](../i/index.md)), which is a [benchmark](../b/benchmark.md) [index](../i/index.md) of the top 20 blue-chip [stocks](../s/stock.md) [listed](../l/listed.md) on the [exchange](../e/exchange.md).
+The Vienna Stock [Exchange](../e/exchange.md) maintains several indices that measure the performance of various segments of the [market](../m/market.md). The most prominent of these is the ATX (Austrian Traded [Index](../i/index_instrument.md)), which is a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) of the top 20 blue-chip [stocks](../s/stock.md) [listed](../l/listed.md) on the [exchange](../e/exchange.md).
 
 ## Market Structure
 

@@ -54,7 +54,7 @@ Rule [mining](../m/mining.md) in trading has several practical applications, inc
 
 ### Technical Analysis
 
-Technical analysts use rule [mining](../m/mining.md) to discover patterns and signals from historical price and [volume](../v/volume.md) data. These rules help in identifying trading opportunities based on [technical indicators](../t/technical_indicators.md) such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md).
+Technical analysts use rule [mining](../m/mining.md) to discover patterns and signals from historical price and [volume](../v/volume.md) data. These rules help in identifying trading opportunities based on [technical indicators](../t/technical_indicators.md) such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md).
 
 ### Algorithmic Trading
 

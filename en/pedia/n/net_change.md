@@ -48,7 +48,7 @@ Net change is an essential metric in trading and investment because it immediate
 
 ### Relation to Other Metrics
 
-While net change is a standalone metric, it is often analyzed in conjunction with other indicators, such as the [volume](../v/volume.md) of trades, moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), etc., to provide a more comprehensive view of [market](../m/market.md) conditions and [security](../s/security.md) performance.
+While net change is a standalone metric, it is often analyzed in conjunction with other indicators, such as the [volume](../v/volume.md) of trades, moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), etc., to provide a more comprehensive view of [market](../m/market.md) conditions and [security](../s/security.md) performance.
 
 ## Use Cases in Financial Technologies
 

@@ -21,7 +21,7 @@ These include all real-time and historical data related to trading activities, s
 
 [Technical indicators](../t/technical_indicators.md) are derived from the historical price and [volume](../v/volume.md) data and are used to identify patterns or trends in the [market](../m/market.md). Some popular [technical indicators](../t/technical_indicators.md) include:
 - **Moving Averages**: Simple Moving Average (SMA), Exponential Moving Average (EMA)
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**
 - **[Bollinger Bands](../b/bollinger_bands.md)**
 

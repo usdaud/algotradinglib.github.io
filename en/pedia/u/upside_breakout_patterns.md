@@ -50,7 +50,7 @@ Successful implementation starts with accurate data collection, ensuring high-qu
 Algorithms can [leverage](../l/leverage.md) [technical indicators](../t/technical_indicators.md) to identify potential [breakout](../b/breakout.md) patterns and confirm breakouts.
 
 1. **Moving Averages**: Used to smooth price data and identify trends.
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements, indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements, indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 3. **[Volume Analysis](../v/volume_analysis.md)**: Confirms the strength of breakouts with increased trading [volume](../v/volume.md).
 
 ### Developing Trading Strategies

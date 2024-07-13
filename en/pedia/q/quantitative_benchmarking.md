@@ -4,7 +4,7 @@ Quantitative benchmarking is an essential process in the field of [algorithmic t
 
 ### Definition and Importance of Quantitative Benchmarking
 
-Quantitative benchmarking refers to the practice of using [quantitative analysis](../q/quantitative_analysis.md) techniques to measure and compare the performance of different [trading algorithms](../t/trading_algorithms.md) or strategies against a [benchmark](../b/benchmark.md). This [benchmark](../b/benchmark.md) could be a traditional stock [index](../i/index.md), a custom [index](../i/index.md) tailored to specific objectives, or any other relevant financial metric.
+Quantitative benchmarking refers to the practice of using [quantitative analysis](../q/quantitative_analysis.md) techniques to measure and compare the performance of different [trading algorithms](../t/trading_algorithms.md) or strategies against a [benchmark](../b/benchmark.md). This [benchmark](../b/benchmark.md) could be a traditional stock [index](../i/index_instrument.md), a custom [index](../i/index_instrument.md) tailored to specific objectives, or any other relevant financial metric.
 
 The primary goals of quantitative benchmarking are to:
 - **Evaluate Performance**: It provides a clear measure of how well a [trading strategy](../t/trading_strategy.md) is performing relative to a [benchmark](../b/benchmark.md).
@@ -27,7 +27,7 @@ The primary goals of quantitative benchmarking are to:
 
 1. **Absolute Benchmarks**: These benchmarks are absolute performance targets such as a fixed percentage [return](../r/return.md) annually. For example, a [hedge fund](../h/hedge_fund.md) might set an absolute [benchmark](../b/benchmark.md) of achieving a 10% [annual return](../a/annual_return.md).
 
-2. **Relative Benchmarks**: These are more common and involve comparing performance against a [market index](../m/market_index.md) or a [peer group](../p/peer_group.md). For instance, a [portfolio manager](../p/portfolio_manager.md) might be compared against the S&P 500 [index](../i/index.md) to evaluate relative performance.
+2. **Relative Benchmarks**: These are more common and involve comparing performance against a [market index](../m/market_index.md) or a [peer group](../p/peer_group.md). For instance, a [portfolio manager](../p/portfolio_manager.md) might be compared against the S&P 500 [index](../i/index_instrument.md) to evaluate relative performance.
 
 3. **[Risk](../r/risk.md)-Adjusted Benchmarks**: These benchmarks take into account not only the [return](../r/return.md) but also the [risk](../r/risk.md) taken to achieve that [return](../r/return.md). Metrics like the [Sharpe ratio](../s/sharpe_ratio.md) are often used in this context.
 

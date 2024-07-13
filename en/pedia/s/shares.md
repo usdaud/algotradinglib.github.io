@@ -112,7 +112,7 @@ Rights issues allow existing shareholders to purchase additional shares at a dis
 
 ### Technical Analysis
 
-[Technical analysis](../t/technical_analysis.md) uses historical price and [volume](../v/volume.md) data to predict future price movements. Traders employing this method utilize charts and various indicators like moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and MACD.
+[Technical analysis](../t/technical_analysis.md) uses historical price and [volume](../v/volume.md) data to predict future price movements. Traders employing this method utilize charts and various indicators like moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and MACD.
 
 ### Quantitative Analysis
 

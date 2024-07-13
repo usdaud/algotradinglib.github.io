@@ -15,7 +15,7 @@ Monitoring sector performance is essential for several reasons:
 
 Several metrics are instrumental in analyzing sector performance:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI measures the speed and change of price movements. Traders use RSI to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a sector.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI measures the speed and change of price movements. Traders use RSI to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a sector.
 - **Sector [Beta](../b/beta.md)**: [Beta](../b/beta.md) measures a sector's [volatility](../v/volatility.md) relative to the broader [market](../m/market.md). A [beta](../b/beta.md) greater than 1 indicates higher [volatility](../v/volatility.md), while a [beta](../b/beta.md) less than 1 indicates less [volatility](../v/volatility.md).
 - **Price-to-[Earnings](../e/earnings.md) (P/E) Ratio**: This ratio measures a sector's current share price relative to its per-share [earnings](../e/earnings.md). It is helpful for comparing [valuation](../v/valuation.md) levels across different sectors.
 - **[Earnings](../e/earnings.md) Growth Rate**: This metric indicates the pace at which a sector's [earnings](../e/earnings.md) are growing. Higher [growth rates](../g/growth_rates_in_trading.md) can signal strong sectoral performance.

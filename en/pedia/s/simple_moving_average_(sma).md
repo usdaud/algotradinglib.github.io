@@ -54,7 +54,7 @@ SMAs also play a crucial role in [mean reversion](../m/mean_reversion.md) strate
 
 ### Filtering Signals
 
-SMAs can be employed to filter signals from other [technical analysis](../t/technical_analysis.md) tools. For example, traders might combine SMA with RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) to validate signals, improving [trade](../t/trade.md) accuracy.
+SMAs can be employed to filter signals from other [technical analysis](../t/technical_analysis.md) tools. For example, traders might combine SMA with RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) to validate signals, improving [trade](../t/trade.md) accuracy.
 
 ## Advantages of SMA
 

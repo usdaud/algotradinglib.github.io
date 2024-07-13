@@ -2,7 +2,7 @@
 
 ## Introduction to the Short Put Strategy
 
-In the world of trading and [finance](../f/finance.md), especially within [options](../o/options.md) trading, the "Short Put" is a widely used strategy. This strategy involves selling [put options](../p/put_options.md) on a [security](../s/security.md) or an [index](../i/index.md) with the expectation that the price of the [underlying asset](../u/underlying_asset.md) [will](../w/will.md) remain stable or increase. By doing so, the [trader](../t/trader.md) seeks to generate [income](../i/income.md) from the [premium](../p/premium.md) received from selling the [put options](../p/put_options.md).
+In the world of trading and [finance](../f/finance.md), especially within [options](../o/options.md) trading, the "Short Put" is a widely used strategy. This strategy involves selling [put options](../p/put_options.md) on a [security](../s/security.md) or an [index](../i/index_instrument.md) with the expectation that the price of the [underlying asset](../u/underlying_asset.md) [will](../w/will.md) remain stable or increase. By doing so, the [trader](../t/trader.md) seeks to generate [income](../i/income.md) from the [premium](../p/premium.md) received from selling the [put options](../p/put_options.md).
 
 ## Understanding Put Options
 

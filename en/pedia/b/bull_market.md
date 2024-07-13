@@ -40,7 +40,7 @@ Recognizing a [bull](../b/bull.md) [market](../m/market.md) early can be profita
 
 ### Technical Indicators
 
-[Technical analysis](../t/technical_analysis.md) involves studying past [market](../m/market.md) data to predict future price movements. Common indicators include moving averages, the [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and the moving average convergence [divergence](../d/divergence.md) (MACD).
+[Technical analysis](../t/technical_analysis.md) involves studying past [market](../m/market.md) data to predict future price movements. Common indicators include moving averages, the [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and the moving average convergence [divergence](../d/divergence.md) (MACD).
 
 ### Fundamental Analysis
 

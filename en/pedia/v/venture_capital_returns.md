@@ -52,7 +52,7 @@ Returns in [venture capital](../v/venture_capital.md) are determined mainly thro
 
 Benchmarking [venture capital](../v/venture_capital.md) returns is challenging due to the [variability](../v/variability.md) in investments, stages, and sectors. Nevertheless, there are some commonly referenced indices:
 
-1. **Cambridge Associates’ US [Venture Capital](../v/venture_capital.md) [Index](../i/index.md)**:
+1. **Cambridge Associates’ US [Venture Capital](../v/venture_capital.md) [Index](../i/index_instrument.md)**:
    - Provides comprehensive data and analysis on the average performance of [venture capital](../v/venture_capital.md)-backed investments.
 
 2. **[PitchBook](../p/pitchbook.md) Benchmarks**:

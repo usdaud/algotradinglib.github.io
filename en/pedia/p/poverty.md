@@ -52,8 +52,8 @@ Measuring poverty is complex due to its multifaceted nature. Several methods are
 
 ### Multidimensional Measures
 
-1. **Multidimensional Poverty [Index](../i/index.md) (MPI)**: Developed by the Oxford Poverty and Human Development Initiative (OPHI) and the United Nations, MPI takes into account various factors such as health, education, and living standards to provide a more comprehensive measure of poverty.
-2. **Human Development [Index](../i/index.md) (HDI)**: This [index](../i/index.md) combines data on [life expectancy](../l/life_expectancy.md), education, and [per capita](../p/per_capita.md) [income](../i/income.md) to measure the overall development and well-being of a population. Though not a direct measure of poverty, it provides valuable insights into the [quality of life](../q/quality_of_life.md).
+1. **Multidimensional Poverty [Index](../i/index_instrument.md) (MPI)**: Developed by the Oxford Poverty and Human Development Initiative (OPHI) and the United Nations, MPI takes into account various factors such as health, education, and living standards to provide a more comprehensive measure of poverty.
+2. **Human Development [Index](../i/index_instrument.md) (HDI)**: This [index](../i/index_instrument.md) combines data on [life expectancy](../l/life_expectancy.md), education, and [per capita](../p/per_capita.md) [income](../i/income.md) to measure the overall development and well-being of a population. Though not a direct measure of poverty, it provides valuable insights into the [quality of life](../q/quality_of_life.md).
 
 ### Social and Economic Indicators
 

@@ -52,7 +52,7 @@ Analyzing economic data requires [robust](../r/robust.md) statistical techniques
 
 ### 5. Real-Time Data and High-Frequency Trading (HFT)
 
-The availability of real-time economic data has given rise to High-Frequency Trading (HFT), where algorithms execute numerous trades within milliseconds based on newly released data. Traders utilize economic releases, such as non-farm payrolls or consumer price [index](../i/index.md) (CPI) reports, to make split-second decisions.
+The availability of real-time economic data has given rise to High-Frequency Trading (HFT), where algorithms execute numerous trades within milliseconds based on newly released data. Traders utilize economic releases, such as non-farm payrolls or consumer price [index](../i/index_instrument.md) (CPI) reports, to make split-second decisions.
 
 ### 6. Challenges in Economic Data Analysis
 

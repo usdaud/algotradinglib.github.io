@@ -38,7 +38,7 @@ Advanced [pattern recognition](../p/pattern_recognition.md) algorithms use machi
 
 ### Indicator Integration
 
-[Technical indicators](../t/technical_indicators.md) such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) can be integrated into algorithms to enhance the accuracy of J-Chart pattern detection. For example, a J-Shaped [Rally](../r/rally.md) might be confirmed by a bullish crossover in moving averages or an increase in RSI.
+[Technical indicators](../t/technical_indicators.md) such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) can be integrated into algorithms to enhance the accuracy of J-Chart pattern detection. For example, a J-Shaped [Rally](../r/rally.md) might be confirmed by a bullish crossover in moving averages or an increase in RSI.
 
 ### Backtesting and Optimization
 

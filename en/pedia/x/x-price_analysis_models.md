@@ -130,11 +130,11 @@ Statistical [arbitrage](../a/arbitrage.md) involves trading securities based on 
 
 ### 5.2 Index Arbitrage
 
-[Index](../i/index.md) [arbitrage](../a/arbitrage.md) takes advantage of price differences between the [index futures](../i/index_futures.md) and the [underlying](../u/underlying.md) [stocks](../s/stock.md) within the [index](../i/index.md). Traders buy [undervalued](../u/undervalued.md) assets and sell [overvalued](../o/overvalued.md) ones.
+[Index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md) takes advantage of price differences between the [index futures](../i/index_futures.md) and the [underlying](../u/underlying.md) [stocks](../s/stock.md) within the [index](../i/index_instrument.md). Traders buy [undervalued](../u/undervalued.md) assets and sell [overvalued](../o/overvalued.md) ones.
 
 ### Example: [Jane Street](https://www.janestreet.com/)
 
-Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) widely known for its expertise in [arbitrage](../a/arbitrage.md) strategies, leveraging statistical and [index](../i/index.md) [arbitrage](../a/arbitrage.md) models to generate consistent returns.
+Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) widely known for its expertise in [arbitrage](../a/arbitrage.md) strategies, leveraging statistical and [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md) models to generate consistent returns.
 
 ## 6. High-Frequency Trading (HFT) Models
 

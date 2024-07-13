@@ -14,7 +14,7 @@ In the trading realm, line charts are employed to depict price movements of secu
 
 3. **Time Interval Customization**: Traders can customize the time interval on a line chart to view data in hourly, daily, weekly, or monthly formats.
 
-4. **Integration with Indicators**: Line charts can be integrated with various [technical indicators](../t/technical_indicator.md), like moving averages (MA), [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md), to enhance analysis accuracy.
+4. **Integration with Indicators**: Line charts can be integrated with various [technical indicators](../t/technical_indicator.md), like moving averages (MA), [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md), to enhance analysis accuracy.
 
 ## Structure of Line Charts
 

@@ -37,7 +37,7 @@ One primary use of moving averages is to identify trends. When the price is abov
 
 ### Signal Generation
 
-Moving averages are integral in generating [trading signals](../t/trading_signals.md). When combined with other indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or [Bollinger Bands](../b/bollinger_bands.md), they form [robust](../r/robust.md) strategies for entering and exiting trades. For instance, a common algorithmic strategy is the "Moving Average Crossover," where a short-term MA crosses above a long-term MA, signaling a buying opportunity and vice versa for selling.
+Moving averages are integral in generating [trading signals](../t/trading_signals.md). When combined with other indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or [Bollinger Bands](../b/bollinger_bands.md), they form [robust](../r/robust.md) strategies for entering and exiting trades. For instance, a common algorithmic strategy is the "Moving Average Crossover," where a short-term MA crosses above a long-term MA, signaling a buying opportunity and vice versa for selling.
 
 ### Risk Management
 

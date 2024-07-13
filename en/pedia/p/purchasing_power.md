@@ -27,7 +27,7 @@ Venezuela has faced [hyperinflation](../h/hyperinflation.md) since the mid-2010s
 
 ## 4. Measurement of Purchasing Power
 ### 4.1. Consumer Price Index (CPI)
-The Consumer Price [Index](../i/index.md) (CPI) measures changes in the [price level](../p/price_level.md) of a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services purchased by households. It is a key [indicator](../i/indicator.md) used to evaluate purchasing power.
+The Consumer Price [Index](../i/index_instrument.md) (CPI) measures changes in the [price level](../p/price_level.md) of a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services purchased by households. It is a key [indicator](../i/indicator.md) used to evaluate purchasing power.
 
 ### 4.2. Purchasing Power Parity (PPP)
 Purchasing Power [Parity](../p/parity.md) (PPP) is an economic theory that allows the comparison of the purchasing power of various world currencies to one another. PPP suggests that [exchange](../e/exchange.md) rates between currencies should adjust so that a [basket of goods](../b/basket_of_goods.md) costs the same in both currencies, [accounting](../a/accounting.md) for their respective purchasing power.

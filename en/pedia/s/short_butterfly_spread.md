@@ -8,7 +8,7 @@ A Short [Butterfly Spread](../b/butterfly_spread.md) is an [options](../o/option
 
 ### Key Elements:
 
-1. **[Underlying Asset](../u/underlying_asset.md)**: The [financial instrument](../f/financial_instrument.md) on which [options](../o/options.md) are written, such as a stock, [index](../i/index.md), or [commodity](../c/commodity.md).
+1. **[Underlying Asset](../u/underlying_asset.md)**: The [financial instrument](../f/financial_instrument.md) on which [options](../o/options.md) are written, such as a stock, [index](../i/index_instrument.md), or [commodity](../c/commodity.md).
 2. **[Options](../o/options.md)**: Financial [derivatives](../d/derivatives.md) that provide the buyer with the right, but not the obligation, to buy or sell the [underlying asset](../u/underlying_asset.md) at a predetermined price before or on a specific date.
 3. **Strike Prices**: Prices at which [options](../o/options.md) may be exercised.
 4. **[Expiration Date](../e/expiration_date.md)**: The date on which the option expires.

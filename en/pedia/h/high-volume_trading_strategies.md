@@ -28,7 +28,7 @@ Statistical [Arbitrage](../a/arbitrage.md) takes advantage of statistical mispri
 
 - **[Order Book Analysis](../o/order_book_analysis.md)**
 - **[Volume Analysis](../v/volume_analysis.md)**
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**
 
 ### Order Book Analysis
 
@@ -40,7 +40,7 @@ Statistical [Arbitrage](../a/arbitrage.md) takes advantage of statistical mispri
 
 ### Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. Scalpers use RSI to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, aiding in making quick buy or sell decisions.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. Scalpers use RSI to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, aiding in making quick buy or sell decisions.
 
 ## Momentum Trading
 
@@ -48,7 +48,7 @@ The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) 
 
 - **Moving Averages**: Calculating the average price over a given period to identify trends.
 - **[Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price (VWAP)**: A trading [benchmark](../b/benchmark.md) that gives the average price a [security](../s/security.md) has traded at throughout the day, based on both [volume](../v/volume.md) and price.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Used to identify the strength of a [security](../s/security.md)'s [momentum](../m/momentum.md).
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Used to identify the strength of a [security](../s/security.md)'s [momentum](../m/momentum.md).
 
 ### Moving Averages
 

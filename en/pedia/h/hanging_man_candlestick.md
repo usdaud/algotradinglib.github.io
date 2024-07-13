@@ -22,7 +22,7 @@ The hanging man [candlestick](../c/candlestick.md) is a [technical analysis](../
 While the hanging man itself indicates a possible [trend reversal](../t/trend_reversal.md), it is generally advised to confirm this signal with subsequent [price action](../p/price_action.md) before making trading decisions. Confirmation can involve:
 - **Subsequent bearish [candlestick](../c/candlestick.md)**: A follow-up [candlestick](../c/candlestick.md) closing below the hanging man's real body reinforces the bearish signal.
 - **[Volume analysis](../v/volume_analysis.md)**: Higher trading [volume](../v/volume.md) on or after the hanging man formation can strengthen the validity of the pattern.
-- **Other [technical indicators](../t/technical_indicator.md)**: Using additional indicators like the [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), moving average convergence [divergence](../d/divergence.md) (MACD), or [trend](../t/trend.md) lines can help confirm the signal.
+- **Other [technical indicators](../t/technical_indicator.md)**: Using additional indicators like the [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), moving average convergence [divergence](../d/divergence.md) (MACD), or [trend](../t/trend.md) lines can help confirm the signal.
 
 ## Trading Strategies Involving the Hanging Man
 

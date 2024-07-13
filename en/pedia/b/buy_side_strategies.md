@@ -10,7 +10,7 @@ Buy side firms manage large pools of [capital](../c/capital.md) and aim to gener
 BlackRock is one of the largest [investment management](../i/investment_management.md) firms globally, managing assets worth trillions of dollars. They provide a broad [range](../r/range.md) of investment services and solutions to institutional and retail clients. More information can be found on their [official website](https://www.blackrock.com).
 
 ### Vanguard Group
-Vanguard is known for its innovative approach to [investment management](../i/investment_management.md), particularly with [index](../i/index.md) funds and ETFs. They focus on providing low-cost investment solutions to their clients. For more details, visit their [official website](https://www.vanguard.com).
+Vanguard is known for its innovative approach to [investment management](../i/investment_management.md), particularly with [index](../i/index_instrument.md) funds and ETFs. They focus on providing low-cost investment solutions to their clients. For more details, visit their [official website](https://www.vanguard.com).
 
 ### Fidelity Investments
 Fidelity is a diversified financial services company [offering](../o/offering.md) a [range](../r/range.md) of services, including [investment management](../i/investment_management.md), [retirement planning](../r/retirement_planning.md), and [brokerage services](../b/brokerage_services.md). Learn more on their [official website](https://www.fidelity.com).

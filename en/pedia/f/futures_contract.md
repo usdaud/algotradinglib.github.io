@@ -22,7 +22,7 @@ These contracts are based on physical goods such as agricultural products (corn,
 These include contracts based on financial instruments like currencies (EUR/USD), [interest](../i/interest.md) rates ([U.S. Treasury](../u/u.s._treasury.md) bills), and stock indices (S&P 500, [NASDAQ](../n/nasdaq.md)).
 
 ### Index Futures
-[Index futures](../i/index_futures.md) allow traders to bet on the movement of a stock [index](../i/index.md) rather than individual [stocks](../s/stock.md), [offering](../o/offering.md) a way to [hedge](../h/hedge.md) or speculate on broader [market](../m/market.md) movements.
+[Index futures](../i/index_futures.md) allow traders to bet on the movement of a stock [index](../i/index_instrument.md) rather than individual [stocks](../s/stock.md), [offering](../o/offering.md) a way to [hedge](../h/hedge.md) or speculate on broader [market](../m/market.md) movements.
 
 ## Applications and Uses
 

@@ -4,7 +4,7 @@ The Pakistan Stock [Exchange](../e/exchange.md) (PSX) is the [principal](../p/pr
 
 ## Overview
 
-PSX offers a platform for trading [shares](../s/shares.md), bonds, and other securities, and it is pivotal in mobilizing [capital](../c/capital.md) for fostering [economic growth](../e/economic_growth.md). PSX provides a transparent and efficient [market](../m/market.md), ensuring a secure environment for investors. The major [index](../i/index.md) of PSX is the KSE-100, which benchmarks the performance of the top 100 companies [listed](../l/listed.md) on the [exchange](../e/exchange.md).
+PSX offers a platform for trading [shares](../s/shares.md), bonds, and other securities, and it is pivotal in mobilizing [capital](../c/capital.md) for fostering [economic growth](../e/economic_growth.md). PSX provides a transparent and efficient [market](../m/market.md), ensuring a secure environment for investors. The major [index](../i/index_instrument.md) of PSX is the KSE-100, which benchmarks the performance of the top 100 companies [listed](../l/listed.md) on the [exchange](../e/exchange.md).
 
 ## History
 
@@ -76,9 +76,9 @@ PSX operates under the jurisdiction of the SECP, which ensures adherence to regu
 
 PSX tracks several indexes, with KSE-100 being the most prominent:
 
-- **KSE-100 [Index](../i/index.md):** Tracks the performance of the top 100 companies based on [market capitalization](../m/market_capitalization.md).
-- **KSE-30 [Index](../i/index.md):** Tracks the performance of the top 30 companies.
-- **All [Shares](../s/shares.md) [Index](../i/index.md):** Includes all [listed](../l/listed.md) companies on PSX.
+- **KSE-100 [Index](../i/index_instrument.md):** Tracks the performance of the top 100 companies based on [market capitalization](../m/market_capitalization.md).
+- **KSE-30 [Index](../i/index_instrument.md):** Tracks the performance of the top 30 companies.
+- **All [Shares](../s/shares.md) [Index](../i/index_instrument.md):** Includes all [listed](../l/listed.md) companies on PSX.
 - **Sectoral Indexes:** Tracks performance by [industry](../i/industry.md) sectors (e.g., Oil & Gas, Banks).
 
 ## Performance and Statistics

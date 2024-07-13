@@ -118,7 +118,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves using statistical models to 
 
 ### Indicators:
 - **Moving Averages:** Help identify the [market](../m/market.md) direction.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the speed and change of price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the speed and change of price movements.
 
 ## 5. **Mean Reversion**
 

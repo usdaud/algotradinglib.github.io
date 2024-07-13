@@ -28,7 +28,7 @@ Several factors can contribute to the formation of [whipsaw](../w/whipsaw.md) pa
 ### Identifying Whipsaw Patterns
 
 Identifying potential [whipsaw](../w/whipsaw.md) patterns is essential for mitigating their impact. Common techniques include:
-- **[Technical Indicators](../t/technical_indicators.md):** Using [technical indicators](../t/technical_indicators.md) like moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Technical Indicators](../t/technical_indicators.md):** Using [technical indicators](../t/technical_indicators.md) like moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Volume Analysis](../v/volume_analysis.md):** Analyzing trading [volume](../v/volume.md) to differentiate between genuine price movements and [whipsaw](../w/whipsaw.md) activity.
 - **[Pattern Recognition](../p/pattern_recognition.md):** Employing [pattern recognition](../p/pattern_recognition.md) algorithms to detect historical [whipsaw](../w/whipsaw.md) patterns and predict future occurrences.
 

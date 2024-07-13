@@ -86,7 +86,7 @@ Despite the potential benefits, trading during consolidation phases presents cer
 Consider an algorithm designed to [trade](../t/trade.md) an [asset](../a/asset.md) like the S&P 500 ETF (SPY) during consolidation phases:
 
 1. **Data Period**: Use daily price data for the past five years.
-2. **Indicators**: Apply [Bollinger Bands](../b/bollinger_band.md) with a [20-day moving average](../1/20-day_moving_average.md) and 2 standard deviations. Use a 14-day [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI) to confirm [overbought](../o/overbought.md)/[oversold](../o/oversold.md) conditions.
+2. **Indicators**: Apply [Bollinger Bands](../b/bollinger_band.md) with a [20-day moving average](../1/20-day_moving_average.md) and 2 standard deviations. Use a 14-day [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI) to confirm [overbought](../o/overbought.md)/[oversold](../o/oversold.md) conditions.
 3. **Consolidation Detection**: Identify periods where [Bollinger Bands](../b/bollinger_band.md) contract and the price trades within 1 [standard deviation](../s/standard_deviation.md) of the moving average.
 4. **[Trade](../t/trade.md) [Execution](../e/execution.md)**:
    - **[Range Trading](../r/range_trading.md)**: Buy when the price is near the lower Bollinger Band and RSI < 30. Sell when the price is near the upper Bollinger Band and RSI > 70.

@@ -64,10 +64,10 @@ The DSE offers a [range](../r/range.md) of financial instruments for trading, in
 
 The performance of the DSE is tracked by several [market](../m/market.md) indices, which provide a snapshot of the [market](../m/market.md)'s overall health and trends. Key indices include:
 
-- **DSE All Share [Index](../i/index.md) (DSEI)**: Measures the performance of all [listed](../l/listed.md) companies on the [exchange](../e/exchange.md).
-- **Tanzania Share [Index](../i/index.md) (TSI)**: Focuses on domestic companies only.
-- **Industrial & Allied [Index](../i/index.md)**: Tracks the performance of companies in the industrial and allied sectors.
-- **Banking, [Finance](../f/finance.md) & Investment [Index](../i/index.md)**: Tracks the performance of companies in the banking, [finance](../f/finance.md), and investment sectors.
+- **DSE All Share [Index](../i/index_instrument.md) (DSEI)**: Measures the performance of all [listed](../l/listed.md) companies on the [exchange](../e/exchange.md).
+- **Tanzania Share [Index](../i/index_instrument.md) (TSI)**: Focuses on domestic companies only.
+- **Industrial & Allied [Index](../i/index_instrument.md)**: Tracks the performance of companies in the industrial and allied sectors.
+- **Banking, [Finance](../f/finance.md) & Investment [Index](../i/index_instrument.md)**: Tracks the performance of companies in the banking, [finance](../f/finance.md), and investment sectors.
 
 ## Major Listed Companies
 

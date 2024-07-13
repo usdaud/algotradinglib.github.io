@@ -22,7 +22,7 @@ Triggering events can be broadly categorized into several types based on their n
    - Data such as non-farm payrolls, [unemployment](../u/unemployment.md) rates, and [jobless claims](../j/jobless_claims.md) can significantly move markets and trigger trading actions.
 
 2. **[Inflation](../i/inflation.md) Data**:
-   - Consumer Price [Index](../i/index.md) (CPI), Producer Price [Index](../i/index.md) (PPI), and other measures of [inflation](../i/inflation.md) can trigger trading decisions based on anticipated [monetary policy](../m/monetary_policy.md) adjustments.
+   - Consumer Price [Index](../i/index_instrument.md) (CPI), Producer Price [Index](../i/index_instrument.md) (PPI), and other measures of [inflation](../i/inflation.md) can trigger trading decisions based on anticipated [monetary policy](../m/monetary_policy.md) adjustments.
 
 3. **GDP Reports**:
    - Gross Domestic Product (GDP) reports reflect the economic health of a country and can trigger broad [market](../m/market.md) movements.

@@ -29,7 +29,7 @@
 #### Quantitative Analysis
 [Quantitative analysis](../q/quantitative_analysis.md) involves using [mathematical models](../m/mathematical_models_in_trading.md), historical data, and algorithms to identify patterns and forecast future [market](../m/market.md) trends. Some common methods include:
 
-1. **[Momentum Indicators](../m/momentum_indicators.md)**: Tools like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) help gauge the strength and direction of [market](../m/market.md) movements.
+1. **[Momentum Indicators](../m/momentum_indicators.md)**: Tools like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) help gauge the strength and direction of [market](../m/market.md) movements.
 2. **Statistical Measures**: Analysis of [historical volatility](../h/historical_volatility.md), [mean reversion](../m/mean_reversion.md), and [correlation](../c/correlation.md) across sectors to predict future performance.
 3. **Machine Learning**: Use of advanced algorithms and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to detect hidden patterns in vast datasets that may be indicative of future [sector performance](../s/sector_performance.md).
 

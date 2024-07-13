@@ -62,7 +62,7 @@ ETFs, such as those offered by **BlackRock's [iShares](../i/ishares.md)** and **
 
 ### Case Study: Vanguard
 
-Vanguard is renowned for its low-cost investment [options](../o/options.md). The company's website ([Vanguard](https://investor.vanguard.com/)) provides extensive information on the GER for each of its funds. For instance, the Vanguard S&P 500 ETF (VOO) has a GER of just 0.03%, making it one of the most cost-effective [options](../o/options.md) for investors seeking exposure to the S&P 500 [index](../i/index.md).
+Vanguard is renowned for its low-cost investment [options](../o/options.md). The company's website ([Vanguard](https://investor.vanguard.com/)) provides extensive information on the GER for each of its funds. For instance, the Vanguard S&P 500 ETF (VOO) has a GER of just 0.03%, making it one of the most cost-effective [options](../o/options.md) for investors seeking exposure to the S&P 500 [index](../i/index_instrument.md).
 
 ### Case Study: BlackRock's iShares
 

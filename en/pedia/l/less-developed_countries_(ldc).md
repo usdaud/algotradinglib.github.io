@@ -7,8 +7,8 @@ Less-Developed Countries (LDCs) represent a category of nations that exhibit the
 LDCs are characterized by their low gross national [income](../i/income.md) (GNI) [per capita](../p/per_capita.md), weak human assets, and high economic vulnerability. The United Nations (UN) employs specific criteria to designate a country as an LDC, including:
 
 - **[Income](../i/income.md) Criterion**: A three-year average estimate of GNI [per capita](../p/per_capita.md) is used. Countries with a GNI [per capita](../p/per_capita.md) below a certain threshold (e.g., $1,046 for inclusion) are considered for this category.
-- **Human Assets [Index](../i/index.md) (HAI)**: This [index](../i/index.md) assesses the level of development in terms of health, education, and nutrition indicators.
-- **Economic Vulnerability [Index](../i/index.md) (EVI)**: This [index](../i/index.md) measures the structural vulnerability of countries to economic and environmental shocks.
+- **Human Assets [Index](../i/index_instrument.md) (HAI)**: This [index](../i/index_instrument.md) assesses the level of development in terms of health, education, and nutrition indicators.
+- **Economic Vulnerability [Index](../i/index_instrument.md) (EVI)**: This [index](../i/index_instrument.md) measures the structural vulnerability of countries to economic and environmental shocks.
 
 As of 2021, there are 46 countries classified as LDCs, predominantly located in Africa and Asia.
 

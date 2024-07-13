@@ -58,7 +58,7 @@ While the B/M ratio is a helpful metric, it has significant limitations:
 ## Real-World Application
 
 Several financial institutions use the B/M ratio as part of their stock-picking strategies. For example:
-- **The Vanguard Group** employs [value](../v/value.md)-oriented strategies focusing on [stocks](../s/stock.md) with high B/M ratios within some of their [index](../i/index.md) funds. [The Vanguard Group](https://investor.vanguard.com)
+- **The Vanguard Group** employs [value](../v/value.md)-oriented strategies focusing on [stocks](../s/stock.md) with high B/M ratios within some of their [index](../i/index_instrument.md) funds. [The Vanguard Group](https://investor.vanguard.com)
 - **T. Rowe Price** uses the B/M ratio in conjunction with other financial metrics to identify [undervalued](../u/undervalued.md) [stocks](../s/stock.md) in its mutual funds. [T. Rowe Price](https://www.troweprice.com)
 - **Dimensional [Fund](../f/fund.md) Advisors** integrates the B/M ratio in their multi-[factor](../f/factor.md) investment models to capture [value](../v/value.md) premiums. [Dimensional Fund Advisors](https://us.dimensional.com)
 

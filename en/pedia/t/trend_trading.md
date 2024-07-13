@@ -38,7 +38,7 @@ Confirming trends can reduce the likelihood of [false signals](../f/false_signal
 
 - **[Volume Analysis](../v/volume_analysis.md)**: A [trend](../t/trend.md) accompanied by high trading [volume](../v/volume.md) is generally considered more reliable than one with low [volume](../v/volume.md).
   
-- **Oscillators**: Tools like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can help confirm whether an [asset](../a/asset.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md), potentially signaling [trend](../t/trend.md) continuation or [reversal](../r/reversal.md).
+- **Oscillators**: Tools like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can help confirm whether an [asset](../a/asset.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md), potentially signaling [trend](../t/trend.md) continuation or [reversal](../r/reversal.md).
 
 ## Advantages of Trend Trading
 

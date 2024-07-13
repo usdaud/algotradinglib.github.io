@@ -40,14 +40,14 @@ The Muscat Securities [Market](../m/market.md) operates under the regulatory ove
 ## Market Indices
 
 ### MSM 30 Index
-The flagship [index](../i/index.md) of MSM, the MSM 30, tracks the performance of the top 30 companies [listed](../l/listed.md) on the [exchange](../e/exchange.md). This [index](../i/index.md) is a vital [indicator](../i/indicator.md) of [market](../m/market.md) health and [investor](../i/investor.md) sentiment, encompassing diverse sectors.
+The flagship [index](../i/index_instrument.md) of MSM, the MSM 30, tracks the performance of the top 30 companies [listed](../l/listed.md) on the [exchange](../e/exchange.md). This [index](../i/index_instrument.md) is a vital [indicator](../i/indicator.md) of [market](../m/market.md) health and [investor](../i/investor.md) sentiment, encompassing diverse sectors.
 
 ### Sector Indices
 Sector-specific indices give a segmented view of [market](../m/market.md) performance, aiding investors in analyzing sectoral trends and making informed decisions. Prominent [sector indices](../s/sector_indices.md) include:
 
-- **[Financial Sector](../f/financial_sector.md) [Index](../i/index.md)**
-- **Industrial Sector [Index](../i/index.md)**
-- **Services Sector [Index](../i/index.md)**
+- **[Financial Sector](../f/financial_sector.md) [Index](../i/index_instrument.md)**
+- **Industrial Sector [Index](../i/index_instrument.md)**
+- **Services Sector [Index](../i/index_instrument.md)**
 
 ## Technological Infrastructure
 
@@ -71,7 +71,7 @@ Mutual funds on MSM cater to different investment strategies, [risk](../r/risk.m
 ## Market Trends and Statistics
 
 ### Performance Metrics
-Over the recent years, MSM has shown steady growth, reflecting the increasing [investor](../i/investor.md) confidence in Oman's economic prospects. [Performance metrics](../p/performance_metrics.md) such as trading [volume](../v/volume.md), [market capitalization](../m/market_capitalization.md), and [index](../i/index.md) movements are regularly published to keep investors informed.
+Over the recent years, MSM has shown steady growth, reflecting the increasing [investor](../i/investor.md) confidence in Oman's economic prospects. [Performance metrics](../p/performance_metrics.md) such as trading [volume](../v/volume.md), [market capitalization](../m/market_capitalization.md), and [index](../i/index_instrument.md) movements are regularly published to keep investors informed.
 
 ### Key Data
 - **Trading [Volume](../v/volume.md):** Reflects the total number of [shares](../s/shares.md) exchanged over a specified period.

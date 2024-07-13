@@ -24,7 +24,7 @@ The buy-and-[hold](../h/hold.md) strategy involves purchasing an [asset](../a/as
 
 ### Trend Following
 
-[Trend](../t/trend.md)-following strategies aim to [capitalize](../c/capitalize.md) on the continuation of existing [market](../m/market.md) trends. Traders use [technical indicators](../t/technical_indicators.md) like moving averages, MACD, and the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) to identify and follow trends. This approach can be applied to various time frames and [asset](../a/asset.md) classes.
+[Trend](../t/trend.md)-following strategies aim to [capitalize](../c/capitalize.md) on the continuation of existing [market](../m/market.md) trends. Traders use [technical indicators](../t/technical_indicators.md) like moving averages, MACD, and the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) to identify and follow trends. This approach can be applied to various time frames and [asset](../a/asset.md) classes.
 
 ### Value Investing
 

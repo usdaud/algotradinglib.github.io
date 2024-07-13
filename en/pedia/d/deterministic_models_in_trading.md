@@ -29,7 +29,7 @@ Accurate deterministic models require extensive and precise historical data. Thi
 **2. [Technical Analysis](../t/technical_analysis.md)**
 [Technical analysis](../t/technical_analysis.md) involves analyzing statistical trends from trading activity, such as price movement and [volume](../v/volume.md). Deterministic models form the backbone of many [technical indicators](../t/technical_indicators.md) and oscillators, such as:
 - Moving Averages (MA)
-- [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)
+- [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
 - Moving Average Convergence [Divergence](../d/divergence.md) (MACD)
 
 **3. [Risk Management](../r/risk_management.md)**

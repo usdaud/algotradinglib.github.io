@@ -11,7 +11,7 @@ An economic [indicator](../i/indicator.md) is a statistic about economic activit
   
 - **Building Permits:** An increase in the number of building permits issued is a sign of future construction growth, which in turn signals economic [expansion](../e/expansion.md).
   
-- **Consumer Sentiment [Index](../i/index.md):** Measures the confidence of consumers in the economic situation of the country. An increase in consumer confidence typically indicates more spending and investment.
+- **Consumer Sentiment [Index](../i/index_instrument.md):** Measures the confidence of consumers in the economic situation of the country. An increase in consumer confidence typically indicates more spending and investment.
 
 ### Lagging Indicators
 [Lagging indicators](../l/lagging_indicators.md), as the name suggests, follow an economic event. They typically become apparent only after an economic [trend](../t/trend.md) or pattern has already been established. These indicators confirm long-term trends:

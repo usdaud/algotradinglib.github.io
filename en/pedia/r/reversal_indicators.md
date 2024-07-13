@@ -9,7 +9,7 @@ In the intricate world of trading, particularly [algorithmic trading](../a/algor
     - The 9-day EMA of the MACD, called the "signal line," is then plotted on top of the MACD line, which can function as a trigger for buy or sell signals.
     - The MACD is primarily used to spot changes in the strength, direction, [momentum](../m/momentum.md), and [duration](../d/duration.md) of a [trend](../t/trend.md).
 
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**
     - The RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. RSI oscillates between zero and 100. Traditionally, the RSI is considered [overbought](../o/overbought.md) when above 70 and [oversold](../o/oversold.md) when below 30.
     - The RSI can be used to identify general [market](../m/market.md) conditions as well as potential turning points. This [oscillator](../o/oscillator.md) can show [divergence](../d/divergence.md), [failure swings](../f/failure_swings.md), and centerline crossovers which can signal reversals and provide important [trading signals](../t/trading_signals.md).
 

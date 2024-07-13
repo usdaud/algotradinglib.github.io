@@ -30,7 +30,7 @@ A [trendline](../t/trendline.md) that connects successively higher lows is an [u
 
 ## Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) measures the speed and change of price movements. It oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions:
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) measures the speed and change of price movements. It oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions:
 
 \[ \text{RSI} = 100 - \left(\frac{100}{1 + RS}\right) \]
 

@@ -30,7 +30,7 @@ Raw financial data is collected from reliable data providers such as [Bloomberg]
 
 Traders select relevant [technical indicators](../t/technical_indicators.md) and metrics that rely on the lookback period. Common indicators include:
    - **Moving Averages**: Simple Moving Average (SMA), Exponential Moving Average (EMA)
-   - **Oscillators**: [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), [Stochastic Oscillator](../s/stochastic_oscillator.md)
+   - **Oscillators**: [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [Stochastic Oscillator](../s/stochastic_oscillator.md)
    - **[Volatility](../v/volatility.md) Measures**: [Bollinger Bands](../b/bollinger_bands.md), [Average True Range](../a/average_true_range_(atr).md) (ATR)
    
 ### 3. Parameter Optimization

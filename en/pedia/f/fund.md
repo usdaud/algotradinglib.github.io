@@ -8,7 +8,7 @@ A **Fund** is a pool of [money](../m/money.md) collected from [multiple](../m/mu
 2. **[Exchange](../e/exchange.md)-Traded Funds (ETFs)**: Similar to mutual funds but traded on stock exchanges like individual [stocks](../s/stock.md). ETFs [offer](../o/offer.md) flexibility, lower costs, and tax [efficiency](../e/efficiency.md).
 3. **[Hedge](../h/hedge.md) Funds**: Private investment funds that employ various strategies to earn active returns for their investors. These strategies can include leveraging, [derivatives](../d/derivatives.md), and [short selling](../s/short_selling.md). [Hedge](../h/hedge.md) funds are typically [open](../o/open.md) only to accredited investors.
 4. **Pension Funds**: Investment pools that collect and invest funds set aside for retirement benefits. Managed by professional fund managers, these funds aim to generate stable returns to meet future pension [obligations](../o/obligation.md).
-5. **[Index](../i/index.md) Funds**: Mutual funds or ETFs designed to replicate the performance of a specific [index](../i/index.md), such as the S&P 500. They [offer](../o/offer.md) broad [market exposure](../m/market_exposure.md) and typically have lower fees due to passive management.
+5. **[Index](../i/index_instrument.md) Funds**: Mutual funds or ETFs designed to replicate the performance of a specific [index](../i/index_instrument.md), such as the S&P 500. They [offer](../o/offer.md) broad [market exposure](../m/market_exposure.md) and typically have lower fees due to passive management.
 6. **[Money Market](../m/money_market.md) Funds**: Mutual funds that invest in short-term, high-quality [debt](../d/debt.md) securities. These funds [offer](../o/offer.md) high [liquidity](../l/liquidity.md) and low [risk](../r/risk.md), making them suitable for short-term investment goals.
 7. **[Real Estate](../r/real_estate.md) Investment Trusts (REITs)**: Funds that invest in [income](../i/income.md)-generating [real estate](../r/real_estate.md) properties. REITs provide investors with exposure to [real estate](../r/real_estate.md) markets without the need to directly own properties.
 
@@ -26,7 +26,7 @@ A **Fund** is a pool of [money](../m/money.md) collected from [multiple](../m/mu
 
 ## Examples
 1. **Vanguard Total Stock [Market Index](../m/market_index.md) Fund**: A [mutual fund](../m/mutual_fund.md) that aims to replicate the performance of the entire U.S. [stock market](../s/stock_market.md).
-2. **SPDR S&P 500 ETF (SPY)**: An ETF that tracks the S&P 500 [index](../i/index.md), providing investors with exposure to 500 of the largest U.S. companies.
+2. **SPDR S&P 500 ETF (SPY)**: An ETF that tracks the S&P 500 [index](../i/index_instrument.md), providing investors with exposure to 500 of the largest U.S. companies.
 3. **Bridgewater Pure [Alpha](../a/alpha.md) Fund**: A [hedge fund](../h/hedge_fund.md) known for its macroeconomic investment strategies and strong historical performance.
 4. **California Public Employees' Retirement System (CalPERS)**: One of the largest pension funds in the U.S., managing retirement benefits for California's public employees.
 5. **T. Rowe Price [Growth Stock](../g/growth_stock.md) Fund**: A [mutual fund](../m/mutual_fund.md) focusing on [growth stocks](../g/growth_stocks.md) with the potential for [capital](../c/capital.md) appreciation.

@@ -26,7 +26,7 @@ Financial [market indicators](../m/market_indicators.md) are quantitative measur
 1. **Moving Averages (MA)**
    Moving averages smooth out price data to identify trends. There are several types of moving averages, including simple moving averages (SMA) and exponential moving averages (EMA).
 
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**
    The RSI measures the speed and change of price movements, indicating whether a stock is [overbought](../o/overbought.md) or [oversold](../o/oversold.md). An RSI above 70 suggests [overbought](../o/overbought.md) conditions, while an RSI below 30 indicates [oversold](../o/oversold.md) conditions.
 
 3. **[Bollinger Bands](../b/bollinger_bands.md)**
@@ -36,13 +36,13 @@ Financial [market indicators](../m/market_indicators.md) are quantitative measur
 
 [Sentiment indicators](../s/sentiment_indicators.md) gauge the overall mood or psychology of [market](../m/market.md) participants. These indicators can provide insights into [market sentiment](../m/market_sentiment.md), often acting as contrarian signals.
 
-1. **[Volatility](../v/volatility.md) [Index](../i/index.md) (VIX)**
-   The VIX, also known as the "fear [index](../i/index.md)," measures [market](../m/market.md) [volatility](../v/volatility.md) and [investor](../i/investor.md) sentiment. A high VIX indicates increased [market](../m/market.md) fear and potential for a sharp decline, while a low VIX suggests complacency and stability.
+1. **[Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX)**
+   The VIX, also known as the "fear [index](../i/index_instrument.md)," measures [market](../m/market.md) [volatility](../v/volatility.md) and [investor](../i/investor.md) sentiment. A high VIX indicates increased [market](../m/market.md) fear and potential for a sharp decline, while a low VIX suggests complacency and stability.
 
 2. **Put/Call Ratio**
    The put/call ratio compares the trading [volume](../v/volume.md) of [put options](../p/put_options.md) to call [options](../o/options.md). A high ratio indicates bearish sentiment, while a low ratio suggests bullish sentiment.
 
-3. **Consumer Confidence [Index](../i/index.md) (CCI)**
+3. **Consumer Confidence [Index](../i/index_instrument.md) (CCI)**
    The CCI measures the confidence of consumers in the [economy](../e/economy.md). High consumer confidence can lead to increased spending and [economic growth](../e/economic_growth.md), while low confidence can result in reduced spending and economic contraction.
 
 ## Key Companies and Tools for Financial Market Indicators

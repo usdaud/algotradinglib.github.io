@@ -79,7 +79,7 @@ Investments like Treasury [Inflation-Protected Securities](../i/inflation-protec
 [Investing](../i/investing.md) in international markets may [offer](../o/offer.md) tax advantages and [hedge](../h/hedge.md) against domestic [inflation](../i/inflation.md), potentially improving the after-tax [real rate of return](../r/real_rate_of_return.md).
 
 ### Managing Investment Costs
-Keeping investment costs low through [passive investing](../p/passive_investing.md) or using low-cost [index](../i/index.md) funds can enhance the after-tax [real rate of return](../r/real_rate_of_return.md) by reducing the impact of fees and expenses.
+Keeping investment costs low through [passive investing](../p/passive_investing.md) or using low-cost [index](../i/index_instrument.md) funds can enhance the after-tax [real rate of return](../r/real_rate_of_return.md) by reducing the impact of fees and expenses.
 
 ## Conclusion
 

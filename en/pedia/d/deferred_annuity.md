@@ -24,7 +24,7 @@ These annuities [offer](../o/offer.md) a guaranteed [interest rate](../i/interes
 Variable annuities allow the [annuitant](../a/annuitant.md) to invest in various sub-accounts, which can include [stocks](../s/stock.md), bonds, and [money market](../m/money_market.md) instruments. The [value](../v/value.md) of the annuity and subsequent payouts depends on the performance of these investments, thus [offering](../o/offering.md) potential for higher returns, but also exposing the [investor](../i/investor.md) to [market risk](../m/market_risk.md).
 
 ### Indexed Deferred Annuities
-Indexed annuities provide returns based on a specific [equity](../e/equity.md) [index](../i/index.md), such as the S&P 500. They [offer](../o/offer.md) a balance between [risk](../r/risk.md) and reward by [offering](../o/offering.md) a portion of the gains in the [market](../m/market.md) while providing some level of protection against losses.
+Indexed annuities provide returns based on a specific [equity](../e/equity.md) [index](../i/index_instrument.md), such as the S&P 500. They [offer](../o/offer.md) a balance between [risk](../r/risk.md) and reward by [offering](../o/offering.md) a portion of the gains in the [market](../m/market.md) while providing some level of protection against losses.
 
 ## Benefits of Deferred Annuities
 

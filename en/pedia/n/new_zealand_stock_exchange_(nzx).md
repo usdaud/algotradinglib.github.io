@@ -10,7 +10,7 @@ The NZX traces its origins back to the Gold Rush era of the 1860s, when informal
 
 ### Equities
 
-NZX offers a comprehensive platform for trading [shares](../s/shares.md) of publicly [listed](../l/listed.md) companies. The [exchange](../e/exchange.md) lists a diverse array of firms spanning various sectors, including [finance](../f/finance.md), telecommunications, [real estate](../r/real_estate.md), and agriculture. The main benchmarks for [equity](../e/equity.md) performance on NZX are the NZX 50 [Index](../i/index.md), which includes the top 50 companies by [market capitalization](../m/market_capitalization.md), and the NZX All [Index](../i/index.md).
+NZX offers a comprehensive platform for trading [shares](../s/shares.md) of publicly [listed](../l/listed.md) companies. The [exchange](../e/exchange.md) lists a diverse array of firms spanning various sectors, including [finance](../f/finance.md), telecommunications, [real estate](../r/real_estate.md), and agriculture. The main benchmarks for [equity](../e/equity.md) performance on NZX are the NZX 50 [Index](../i/index_instrument.md), which includes the top 50 companies by [market capitalization](../m/market_capitalization.md), and the NZX All [Index](../i/index_instrument.md).
 
 ### Debt Securities
 

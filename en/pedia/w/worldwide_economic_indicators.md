@@ -22,7 +22,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), GDP data can be used in s
 
 ### Definition and Importance
 
-The Consumer Price [Index](../i/index.md) (CPI) measures the average change in prices over time that consumers pay for a [basket of goods](../b/basket_of_goods.md) and services. It's a key [indicator](../i/indicator.md) of [inflation](../i/inflation.md).
+The Consumer Price [Index](../i/index_instrument.md) (CPI) measures the average change in prices over time that consumers pay for a [basket of goods](../b/basket_of_goods.md) and services. It's a key [indicator](../i/indicator.md) of [inflation](../i/inflation.md).
 
 1. **Headline CPI**: Includes all items.
 2. **Core CPI**: Excludes volatile items like food and energy to provide a clearer view of long-term [inflation](../i/inflation.md) trends.
@@ -94,7 +94,7 @@ The balance of [trade](../t/trade.md) is the difference between a country's impo
 
 ### Definition and Importance
 
-The Purchasing Managers' [Index](../i/index.md) (PMI) is a survey-based measure that gauges the economic health of the [manufacturing](../m/manufacturing.md) and service sectors. A PMI above 50 indicates [expansion](../e/expansion.md), while below 50 indicates contraction.
+The Purchasing Managers' [Index](../i/index_instrument.md) (PMI) is a survey-based measure that gauges the economic health of the [manufacturing](../m/manufacturing.md) and service sectors. A PMI above 50 indicates [expansion](../e/expansion.md), while below 50 indicates contraction.
 
 ### Utilization in Algorithmic Trading
 
@@ -105,7 +105,7 @@ The Purchasing Managers' [Index](../i/index.md) (PMI) is a survey-based measure 
 
 ### Definition and Importance
 
-The Producer Price [Index](../i/index.md) (PPI) measures the average changes in selling prices received by domestic producers for their output. It’s an [indicator](../i/indicator.md) of [inflation](../i/inflation.md) at the wholesale level.
+The Producer Price [Index](../i/index_instrument.md) (PPI) measures the average changes in selling prices received by domestic producers for their output. It’s an [indicator](../i/indicator.md) of [inflation](../i/inflation.md) at the wholesale level.
 
 ### Utilization in Algorithmic Trading
 
@@ -116,7 +116,7 @@ The Producer Price [Index](../i/index.md) (PPI) measures the average changes in 
 
 ### Definition and Importance
 
-Leading [Economic Indicators](../e/economic_indicators.md) (LEIs) are a composite [index](../i/index.md), often published by economic research institutions, intended to predict future economic activity. These can include metrics like [stock market](../s/stock_market.md) returns, building permits, and new orders for manufactured goods.
+Leading [Economic Indicators](../e/economic_indicators.md) (LEIs) are a composite [index](../i/index_instrument.md), often published by economic research institutions, intended to predict future economic activity. These can include metrics like [stock market](../s/stock_market.md) returns, building permits, and new orders for manufactured goods.
 
 ### Utilization in Algorithmic Trading
 

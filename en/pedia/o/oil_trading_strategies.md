@@ -27,7 +27,7 @@ Oil trading is a complex and multifaceted endeavor that involves the buying and 
 
 - **Price Charts**: Line, bar, and [candlestick](../c/candlestick.md) charts visualize oil price movements over different timeframes.
 - **Moving Averages**: These smooth out price data to help identify the direction of the [trend](../t/trend.md). Common types include Simple Moving Average (SMA) and Exponential Moving Average (EMA).
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements, indicating whether an [asset](../a/asset.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md).
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements, indicating whether an [asset](../a/asset.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md).
 - **[Bollinger Bands](../b/bollinger_bands.md)**: These consist of a middle band (SMA) and two outer bands, which can indicate [volatility](../v/volatility.md) and potential price reversals.
 - **[Fibonacci Retracement](../f/fibonacci_retracement.md) Levels**: Used to identify potential [support and resistance](../s/support_and_resistance.md) levels based on the Fibonacci sequence.
 

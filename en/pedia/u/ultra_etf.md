@@ -1,12 +1,12 @@
 # Ultra ETF
 
-[Exchange](../e/exchange.md)-Traded Funds (ETFs) have revolutionized the world of [investing](../i/investing.md), [offering](../o/offering.md) a diverse [range](../r/range.md) of benefits including [diversification](../d/diversification.md), [liquidity](../l/liquidity.md), and lower fees. Among the myriad of ETF varieties that exist today, the Ultra ETFs stand out due to their [leverage](../l/leverage.md) mechanisms which aim for magnified returns relative to the performance of a specific [underlying](../u/underlying.md) [index](../i/index.md), [commodity](../c/commodity.md), or [asset class](../a/asset_class.md).
+[Exchange](../e/exchange.md)-Traded Funds (ETFs) have revolutionized the world of [investing](../i/investing.md), [offering](../o/offering.md) a diverse [range](../r/range.md) of benefits including [diversification](../d/diversification.md), [liquidity](../l/liquidity.md), and lower fees. Among the myriad of ETF varieties that exist today, the Ultra ETFs stand out due to their [leverage](../l/leverage.md) mechanisms which aim for magnified returns relative to the performance of a specific [underlying](../u/underlying.md) [index](../i/index_instrument.md), [commodity](../c/commodity.md), or [asset class](../a/asset_class.md).
 
 ## What Are Ultra ETFs?
 
-Ultra ETFs are a subclass of [leveraged ETFs](../l/leveraged_etfs.md). Unlike conventional ETFs, which aim to replicate the performance of an [underlying](../u/underlying.md) [index](../i/index.md), Ultra ETFs use [financial derivatives](../f/financial_derivatives.md) and [debt](../d/debt.md) to amplify the returns of that [index](../i/index.md). Typically, these funds aim to deliver two or three times (2x or 3x) the daily or monthly performance of their respective benchmarks.
+Ultra ETFs are a subclass of [leveraged ETFs](../l/leveraged_etfs.md). Unlike conventional ETFs, which aim to replicate the performance of an [underlying](../u/underlying.md) [index](../i/index_instrument.md), Ultra ETFs use [financial derivatives](../f/financial_derivatives.md) and [debt](../d/debt.md) to amplify the returns of that [index](../i/index_instrument.md). Typically, these funds aim to deliver two or three times (2x or 3x) the daily or monthly performance of their respective benchmarks.
 
-For example, if the S&P 500 [index](../i/index.md) rises by 1% in a day, a 2x Ultra S&P 500 ETF would aim to increase by 2%, and a 3x Ultra S&P 500 ETF would aim to increase by 3%.
+For example, if the S&P 500 [index](../i/index_instrument.md) rises by 1% in a day, a 2x Ultra S&P 500 ETF would aim to increase by 2%, and a 3x Ultra S&P 500 ETF would aim to increase by 3%.
 
 ## Structure and Mechanism
 
@@ -18,7 +18,7 @@ For example, if the S&P 500 [index](../i/index.md) rises by 1% in a day, a 2x Ul
 - **[Options](../o/options.md):** Contracts giving the right, but not the obligation, to buy or sell an [asset](../a/asset.md) at a predetermined price and date.
 - **[Futures Contracts](../f/futures_contracts.md):** Agreements to buy or sell an [asset](../a/asset.md) at a future date and price.
 
-By employing these instruments, Ultra ETFs can multiply the exposure to their reference [index](../i/index.md) with an aim of achieving magnified returns.
+By employing these instruments, Ultra ETFs can multiply the exposure to their reference [index](../i/index_instrument.md) with an aim of achieving magnified returns.
 
 ### Daily Reset
 
@@ -50,7 +50,7 @@ The amplified returns that can benefit investors during bullish phases can equal
 
 ### Compounding Risk
 
-Due to daily [rebalancing](../r/rebalancing.md), the [compounding](../c/compounding.md) effect can result in returns that differ significantly from the target [index](../i/index.md) over an extended period. This can be particularly detrimental in volatile markets where the direction of the portfolio can swing dramatically.
+Due to daily [rebalancing](../r/rebalancing.md), the [compounding](../c/compounding.md) effect can result in returns that differ significantly from the target [index](../i/index_instrument.md) over an extended period. This can be particularly detrimental in volatile markets where the direction of the portfolio can swing dramatically.
 
 ### Costs
 
@@ -67,15 +67,15 @@ The complexity and frequent trading activity required to maintain [leverage](../
    - [ProShares](https://www.proshares.com/)
 
 2. **Direxion Daily Financial [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (FAS)**:
-   - This ETF aims to provide 3x the daily performance of the Russell 1000 Financial Services [Index](../i/index.md).
+   - This ETF aims to provide 3x the daily performance of the Russell 1000 Financial Services [Index](../i/index_instrument.md).
    - [Direxion](https://www.direxion.com/)
 
 3. **ProShares Ultra QQQ (QLD)**:
-   - This ETF seeks to deliver 2x the daily performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md).
+   - This ETF seeks to deliver 2x the daily performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md).
    - [ProShares](https://www.proshares.com/)
 
-4. **Direxion Daily Gold Miners [Index](../i/index.md) [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (NUGT)**:
-   - This ETF seeks to provide 3x the daily performance of the [NYSE Arca](../n/nyse_arca.md) Gold Miners [Index](../i/index.md).
+4. **Direxion Daily Gold Miners [Index](../i/index_instrument.md) [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (NUGT)**:
+   - This ETF seeks to provide 3x the daily performance of the [NYSE Arca](../n/nyse_arca.md) Gold Miners [Index](../i/index_instrument.md).
    - [Direxion](https://www.direxion.com/)
 
 ## Regulatory and Ethical Considerations

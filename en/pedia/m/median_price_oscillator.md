@@ -79,7 +79,7 @@ While MPO is a powerful tool, it is important to consider certain limitations an
 
 - **[False Signals](../f/false_signals_in_trading.md):** Like any technical [indicator](../i/indicator.md), MPO can produce [false signals](../f/false_signals_in_trading.md), especially in choppy or sideways [market](../m/market.md) conditions. Algorithms need [robust](../r/robust.md) filtering mechanisms to minimize such occurrences.
 - **Parameter Sensitivity:** The choice of the period for the EMA can significantly affect the MPO’s responsiveness. Traders need to optimize these parameters based on historical data and trading goals.
-- **Complementary Indicators:** Using additional indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or [Volume](../v/volume.md) can provide a more comprehensive analysis, reducing the [risk](../r/risk.md) of reliance on a single [indicator](../i/indicator.md).
+- **Complementary Indicators:** Using additional indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or [Volume](../v/volume.md) can provide a more comprehensive analysis, reducing the [risk](../r/risk.md) of reliance on a single [indicator](../i/indicator.md).
 
 ## Software Tools and Platforms
 

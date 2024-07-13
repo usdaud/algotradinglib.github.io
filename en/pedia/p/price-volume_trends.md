@@ -60,7 +60,7 @@ Algorithms can be designed to enter long positions when both the price and the P
 Automated systems can be set up to detect bullish or bearish divergences between the price and PVT values, generating buy or sell signals accordingly.
 
 ### Integration with Other Indicators
-PVT can be combined with other [technical indicators](../t/technical_indicators.md), such as Moving Averages or the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), to develop more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md).
+PVT can be combined with other [technical indicators](../t/technical_indicators.md), such as Moving Averages or the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), to develop more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md).
 
 ### Example Implementation in Python
 

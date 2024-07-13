@@ -10,7 +10,7 @@ A 5-6 Hybrid Adjustable-Rate [Mortgage](../m/mortgage.md) (ARM) is a specialized
 
 2. **Adjustment Period:** After the initial fixed-rate period, the [interest rate](../i/interest_rate.md) adjusts every six months. The adjustment frequency is denoted by the '6' in the 5-6 ARM.
 
-3. **[Index](../i/index.md) and [Margin](../m/margin.md):** The [interest rate](../i/interest_rate.md) adjustments are usually tied to a specific financial [index](../i/index.md), such as the London Interbank Offered Rate (LIBOR) or the [U.S. Treasury](../u/u.s._treasury.md) Securities. A [margin](../m/margin.md), which is a fixed percentage point set by the [lender](../l/lender.md), is added to the [index](../i/index.md) to determine the new [interest rate](../i/interest_rate.md).
+3. **[Index](../i/index_instrument.md) and [Margin](../m/margin.md):** The [interest rate](../i/interest_rate.md) adjustments are usually tied to a specific financial [index](../i/index_instrument.md), such as the London Interbank Offered Rate (LIBOR) or the [U.S. Treasury](../u/u.s._treasury.md) Securities. A [margin](../m/margin.md), which is a fixed percentage point set by the [lender](../l/lender.md), is added to the [index](../i/index_instrument.md) to determine the new [interest rate](../i/interest_rate.md).
 
 4. **Caps:** There are usually caps in place to limit how much the [interest rate](../i/interest_rate.md) can change during each adjustment period and over the life of the [loan](../l/loan.md). These caps provide some level of protection against extreme fluctuations in [interest](../i/interest.md) rates.
 

@@ -26,7 +26,7 @@ Retail sales encompass a broad [range](../r/range.md) of categories, such as:
 Each category can provide insights into specific economic sectors and consumer preferences.
 
 ## Economic Indicators and Analysis
-Retail sales are a key component of [economic indicators](../e/economic_indicators.md) including Gross Domestic Product (GDP), Consumer Confidence [Index](../i/index.md), and the Consumer Price [Index](../i/index.md) (CPI). Analysts and economists use retail sales data in various models to predict economic performance and potential [market](../m/market.md) trends.
+Retail sales are a key component of [economic indicators](../e/economic_indicators.md) including Gross Domestic Product (GDP), Consumer Confidence [Index](../i/index_instrument.md), and the Consumer Price [Index](../i/index_instrument.md) (CPI). Analysts and economists use retail sales data in various models to predict economic performance and potential [market](../m/market.md) trends.
 
 1. **GDP Contribution:** Consumer spending, as reflected in retail sales, contributes significantly to GDP. An increase in retail sales generally leads to GDP growth.
   

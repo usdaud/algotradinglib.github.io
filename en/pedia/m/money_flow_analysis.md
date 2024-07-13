@@ -25,9 +25,9 @@ The [Money Flow](../m/money_flow.md) Ratio is calculated by dividing the sum of 
 \[ \text{[Money Flow](../m/money_flow.md) Ratio} = \frac{\text{Positive [Money Flow](../m/money_flow.md)}}{\text{Negative [Money Flow](../m/money_flow.md)}} \]
 
 ### 4. Money Flow Index (MFI)
-The [Money Flow](../m/money_flow.md) [Index](../i/index.md) is a [momentum](../m/momentum.md) [indicator](../i/indicator.md) that uses both price and [volume](../v/volume.md) data to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in an [asset](../a/asset.md). The MFI can be calculated using the [Money Flow](../m/money_flow.md) Ratio as follows:
+The [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) is a [momentum](../m/momentum.md) [indicator](../i/indicator.md) that uses both price and [volume](../v/volume.md) data to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in an [asset](../a/asset.md). The MFI can be calculated using the [Money Flow](../m/money_flow.md) Ratio as follows:
 
-\[ \text{[Money Flow](../m/money_flow.md) [Index](../i/index.md)} = 100 - \left( \frac{100}{1 + \text{[Money Flow](../m/money_flow.md) Ratio}} \right) \]
+\[ \text{[Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md)} = 100 - \left( \frac{100}{1 + \text{[Money Flow](../m/money_flow.md) Ratio}} \right) \]
 
 ## Applications of Money Flow Analysis
 
@@ -35,10 +35,10 @@ The [Money Flow](../m/money_flow.md) [Index](../i/index.md) is a [momentum](../m
 Traders use [Money Flow](../m/money_flow.md) Analysis to identify trends in [market sentiment](../m/market_sentiment.md). A high positive [money flow](../m/money_flow.md) generally indicates that a [security](../s/security.md) is experiencing buying pressure, leading to potential price increases. Conversely, high negative [money flow](../m/money_flow.md) can indicate selling pressure and potential price declines.
 
 ### Overbought and Oversold Conditions
-The [Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI) is particularly useful for identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. An MFI [value](../v/value.md) above 80 typically indicates that a [security](../s/security.md) may be [overbought](../o/overbought.md) and due for a price [correction](../c/correction.md). Conversely, an MFI [value](../v/value.md) below 20 may indicate that a [security](../s/security.md) is [oversold](../o/oversold.md) and could be due for a price increase.
+The [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI) is particularly useful for identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. An MFI [value](../v/value.md) above 80 typically indicates that a [security](../s/security.md) may be [overbought](../o/overbought.md) and due for a price [correction](../c/correction.md). Conversely, an MFI [value](../v/value.md) below 20 may indicate that a [security](../s/security.md) is [oversold](../o/oversold.md) and could be due for a price increase.
 
 ### Divergence Analysis
-Analyzing divergences between the [Money Flow](../m/money_flow.md) [Index](../i/index.md) and the price of a [security](../s/security.md) can be a powerful tool. For example, if the price of a [security](../s/security.md) is making new highs while the MFI is making lower highs, this could indicate weakening buying pressure and potentially a nearing price [reversal](../r/reversal.md).
+Analyzing divergences between the [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) and the price of a [security](../s/security.md) can be a powerful tool. For example, if the price of a [security](../s/security.md) is making new highs while the MFI is making lower highs, this could indicate weakening buying pressure and potentially a nearing price [reversal](../r/reversal.md).
 
 ### Volume Analysis
 Since MFA integrates trading [volume](../v/volume.md) into its calculations, it provides a more nuanced view compared to price-only indicators. [Volume](../v/volume.md) tends to precede price movements, giving traders an early signal of potential [market](../m/market.md) shifts.
@@ -50,7 +50,7 @@ Several trading platforms and financial software [offer](../o/offer.md) tools to
 - **MetaTrader 4/5**: Popular trading platforms that [offer](../o/offer.md) built-in tools for [money flow](../m/money_flow.md) analysis and [technical indicators](../t/technical_indicators.md).
 - **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A professional [trading platform](../t/trading_platform.md) with advanced charting tools for [Money Flow](../m/money_flow.md) Analysis.
 - **[MetaStock](../m/metastock.md)**: Advanced software for traders that include [money flow](../m/money_flow.md) indicators.
-- **[TradingView](../t/tradingview.md)**: An online charting platform that offers [Money Flow](../m/money_flow.md) [Index](../i/index.md) and other related indicators. [Visit TradingView](https://www.tradingview.com)
+- **[TradingView](../t/tradingview.md)**: An online charting platform that offers [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) and other related indicators. [Visit TradingView](https://www.tradingview.com)
 
 ## Real-world Examples of Money Flow Analysis
 

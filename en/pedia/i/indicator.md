@@ -27,7 +27,7 @@ def calculate_ema(prices, period):
 ## Oscillators
 
 ### Relative Strength Index (RSI)
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. The RSI oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. The RSI oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ```python
 def calculate_rsi(prices, period=14):

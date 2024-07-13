@@ -11,7 +11,7 @@
 - Moving Averages (MA)
 - Exponential Moving Averages (EMA)
 - Moving Average Convergence [Divergence](../d/divergence.md) (MACD)
-- [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)
+- [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
   
 [Trend following](../t/trend_following.md) strategies are typically long-term and require less frequent adjustment compared to other strategies. 
 

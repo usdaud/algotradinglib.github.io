@@ -78,7 +78,7 @@ For traders who prefer custom analysis, Python offers several libraries such as 
 
 Let's consider a case study involving a fictional [hedge fund](../h/hedge_fund.md), "[Alpha](../a/alpha.md) [Capital](../c/capital.md)." [Alpha](../a/alpha.md) [Capital](../c/capital.md) employs an [algorithmic trading](../a/algorithmic_trading.md) strategy focusing on [equity](../e/equity.md) markets. At the beginning of the year, the [fund](../f/fund.md) allocated \$10 million across a diversified portfolio of 50 [stocks](../s/stock.md).
 
-Throughout the year, the [fund](../f/fund.md)'s algorithm executes trades based on certain [market](../m/market.md) signals. By mid-year, [Alpha](../a/alpha.md) [Capital](../c/capital.md)'s [YTD return](../y/ytd_return_calculation.md) is 8%. However, the [benchmark](../b/benchmark.md) [index](../i/index.md) (e.g., the S&P 500) has achieved a [YTD return](../y/ytd_return_calculation.md) of 12%.
+Throughout the year, the [fund](../f/fund.md)'s algorithm executes trades based on certain [market](../m/market.md) signals. By mid-year, [Alpha](../a/alpha.md) [Capital](../c/capital.md)'s [YTD return](../y/ytd_return_calculation.md) is 8%. However, the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) (e.g., the S&P 500) has achieved a [YTD return](../y/ytd_return_calculation.md) of 12%.
 
 ### Analysis and Actions
 The portfolio managers at [Alpha](../a/alpha.md) [Capital](../c/capital.md) analyze the [YTD return](../y/ytd_return_calculation.md) in comparison to the [benchmark](../b/benchmark.md). The underperformance prompts them to review individual stock performances, sector allocations, and the algorithm's [trading signals](../t/trading_signals.md).

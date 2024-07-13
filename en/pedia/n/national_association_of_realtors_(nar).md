@@ -29,7 +29,7 @@ NAR provides extensive [market research](../m/market_research.md) and economic d
 
 - Monthly reports such as the Existing-[Home](../h/home.md) Sales report.
 - Annual surveys like the Profile of [Home](../h/home.md) Buyers and Sellers.
-- The REALTORS Confidence [Index](../i/index.md).
+- The REALTORS Confidence [Index](../i/index_instrument.md).
 - [Commercial real estate](../c/commercial_real_estate.md) [market](../m/market.md) reports.
 
 These resources help [real estate](../r/real_estate.md) professionals make informed decisions based on current [market](../m/market.md) conditions and trends.

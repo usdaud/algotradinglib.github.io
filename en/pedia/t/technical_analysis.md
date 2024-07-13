@@ -24,7 +24,7 @@ Charts serve as the backbone of technical analysis. Commonly used types include:
 ### Indicators and Oscillators
 Indicators are mathematical calculations used to forecast price direction and identify trends. Popular indicators include:
 - Moving Averages: Show the average price of a [security](../s/security.md) over a set period and help identify trends.
-- [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI): Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI): Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - Moving Average Convergence [Divergence](../d/divergence.md) (MACD): Shows the relationship between two moving averages of a [security](../s/security.md)'s price.
 
 ### Support and Resistance Levels

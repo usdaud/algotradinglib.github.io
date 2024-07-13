@@ -43,7 +43,7 @@ Certain [candlestick patterns](../c/candlestick_patterns.md) can indicate the st
 Numerous [technical indicators](../t/technical_indicators.md) assist traders in confirming breakouts:
 
 - **Moving Averages**: Breakouts above or below moving averages (like the 50-day or [200-day moving average](../1/200-day_moving_average.md)) are often seen as significant.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: An RSI moving above 70 or below 30 can confirm [momentum](../m/momentum.md) in [breakout](../b/breakout.md) directions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: An RSI moving above 70 or below 30 can confirm [momentum](../m/momentum.md) in [breakout](../b/breakout.md) directions.
 - **[Bollinger Bands](../b/bollinger_bands.md)**: Breakouts outside [Bollinger Bands](../b/bollinger_bands.md) can indicate strong price movements.
 - **MACD (Moving Average Convergence [Divergence](../d/divergence.md))**: A MACD crossover can confirm [breakout](../b/breakout.md) trends.
 

@@ -28,7 +28,7 @@ On the evening of October 31, 2006, Canadian [Finance](../f/finance.md) Minister
 
 ## Market Reaction
 
-The immediate fallout from the announcement was intense and dubbed the "Halloween Massacre" by the media and financial community. The [stock market](../s/stock_market.md) reacted violently, with the S&P/TSX [Income](../i/income.md) [Trust](../t/trust.md) [Index](../i/index.md) plummeting more than 12% in a single day. Billions of dollars in [market capitalization](../m/market_capitalization.md) were wiped out overnight.
+The immediate fallout from the announcement was intense and dubbed the "Halloween Massacre" by the media and financial community. The [stock market](../s/stock_market.md) reacted violently, with the S&P/TSX [Income](../i/income.md) [Trust](../t/trust.md) [Index](../i/index_instrument.md) plummeting more than 12% in a single day. Billions of dollars in [market capitalization](../m/market_capitalization.md) were wiped out overnight.
 
 ### Investor Sentiment:
 

@@ -14,7 +14,7 @@ Bonds are fixed-[income](../i/income.md) securities where an [investor](../i/inv
 
 ### Mutual Funds and ETFs
 
-Mutual funds and [Exchange](../e/exchange.md)-Traded Funds (ETFs) are pooled investment vehicles that allow investors to buy a diversified portfolio of [stocks](../s/stock.md), bonds, or other securities. These can be actively managed or passively track an [index](../i/index.md), [offering](../o/offering.md) a way to diversify investments and reduce [risk](../r/risk.md) over the long term.
+Mutual funds and [Exchange](../e/exchange.md)-Traded Funds (ETFs) are pooled investment vehicles that allow investors to buy a diversified portfolio of [stocks](../s/stock.md), bonds, or other securities. These can be actively managed or passively track an [index](../i/index_instrument.md), [offering](../o/offering.md) a way to diversify investments and reduce [risk](../r/risk.md) over the long term.
 
 ### Real Estate
 

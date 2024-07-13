@@ -42,7 +42,7 @@ Incorporating outside reversals into advanced [trading strategies](../t/trading_
 
 To improve the reliability of outside [reversal patterns](../r/reversal_patterns.md), traders often combine them with other [technical indicators](../t/technical_indicator.md) such as:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the speed and change of price movements, helping confirm [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the speed and change of price movements, helping confirm [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **Moving Averages:** [Offer](../o/offer.md) a smoothed [trend](../t/trend.md)-following approach to identifying [support and resistance](../s/support_and_resistance.md) levels.
 - **[Volume Analysis](../v/volume_analysis.md):** High volumes accompanying an outside [reversal](../r/reversal.md) can strengthen the reliability of the pattern.
 

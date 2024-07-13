@@ -45,7 +45,7 @@ Tactical [asset](../a/asset.md) allocation allows for short-term deviations from
 [Dynamic asset allocation](../d/dynamic_asset_allocation.md) involves ongoing adjustments to the portfolio based on [market](../m/market.md) conditions and [economic indicators](../e/economic_indicators.md). This approach uses algorithms to continually reassess and reallocate assets.
 
 ### Core-Satellite Approach
-The core-satellite approach combines a stable core portfolio with a mix of satellite investments. The core [holdings](../h/holdings.md) are usually broad, low-cost [index](../i/index.md) funds, while the satellites are active strategies aimed at exploiting [market](../m/market.md) inefficiencies.
+The core-satellite approach combines a stable core portfolio with a mix of satellite investments. The core [holdings](../h/holdings.md) are usually broad, low-cost [index](../i/index_instrument.md) funds, while the satellites are active strategies aimed at exploiting [market](../m/market.md) inefficiencies.
 
 ## Algorithms and Techniques
 

@@ -7,7 +7,7 @@ This approach is based on the assumption that prices [will](../w/will.md) contin
 #### Key Components of Momentum Trading
 
 1. **[Trend Analysis](../t/trend_analysis.md):**
-   [Momentum](../m/momentum.md) traders emphasize the importance of identifying trends. There are several methods to analyze trends, including moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and [price action analysis](../p/price_action_analysis.md).
+   [Momentum](../m/momentum.md) traders emphasize the importance of identifying trends. There are several methods to analyze trends, including moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and [price action analysis](../p/price_action_analysis.md).
 
 2. **[Relative Strength](../r/relative_strength.md):**
    The concept of [relative strength](../r/relative_strength.md) measures how an [asset](../a/asset.md) is performing in relation to the [market](../m/market.md) or its [peer group](../p/peer_group.md). Traders use this to pinpoint strong-performing securities.
@@ -27,7 +27,7 @@ This approach is based on the assumption that prices [will](../w/will.md) contin
    - **Simple Moving Average (SMA):** The average of a [security](../s/security.md)'s price over a specific time period.
    - **Exponential Moving Average (EMA):** Gives more weight to recent prices and reacts faster to price changes.
 
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):**
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):**
    - Measures the speed and change of price movements. RSI values above 70 indicate that a [security](../s/security.md) may be [overbought](../o/overbought.md), while values below 30 suggest it may be [oversold](../o/oversold.md).
 
 3. **MACD:**

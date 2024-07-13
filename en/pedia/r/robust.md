@@ -122,7 +122,7 @@ Apart from [trading systems](../t/trading_systems.md) and financial models, the 
 
 ### Financial Modeling - MSCI
 
-MSCI Inc. (https://www.msci.com/) offers robust financial models and [index](../i/index.md) calculations that are widely used for [risk management](../r/risk_management.md) and investment decision-making. Their models incorporate vast amounts of data and stress-testing techniques to ensure their accuracy and reliability across different [market](../m/market.md) conditions.
+MSCI Inc. (https://www.msci.com/) offers robust financial models and [index](../i/index_instrument.md) calculations that are widely used for [risk management](../r/risk_management.md) and investment decision-making. Their models incorporate vast amounts of data and stress-testing techniques to ensure their accuracy and reliability across different [market](../m/market.md) conditions.
 
 ## Conclusion
 

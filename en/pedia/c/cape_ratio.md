@@ -12,7 +12,7 @@ The CAPE ratio is calculated using the following formula:
 
 \[ \text{CAPE Ratio} = \frac{\text{Current Price of the S&P 500 Index}}{\text{average real [earnings](../e/earnings.md) of the S&P 500 companies over the past 10 years}} \]
 
-Here, "real [earnings](../e/earnings.md)" refer to [earnings](../e/earnings.md) adjusted for [inflation](../i/inflation.md), typically using the Consumer Price [Index](../i/index.md) (CPI).
+Here, "real [earnings](../e/earnings.md)" refer to [earnings](../e/earnings.md) adjusted for [inflation](../i/inflation.md), typically using the Consumer Price [Index](../i/index_instrument.md) (CPI).
 
 ### Steps to Calculate CAPE Ratio
 

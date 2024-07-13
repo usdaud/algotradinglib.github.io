@@ -35,7 +35,7 @@ One crucial aspect of digital [currency trading](../c/currency_trading_strategie
 
 - **[Candlestick Patterns](../c/candlestick_patterns.md)**: Visual representations of price movements within a specified time frame.
 - **Moving Averages**: Indicators that smooth out price data to identify trends.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Fibonacci Retracement](../f/fibonacci_retracement.md)**: A tool used to identify potential [support and resistance](../s/support_and_resistance.md) levels.
 
 ### Risk Management

@@ -34,7 +34,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies involve trading commoditie
 [Trend following](../t/trend_following.md) strategies [capitalize](../c/capitalize.md) on the [momentum](../m/momentum.md) of [commodity](../c/commodity.md) prices. Algorithms are designed to detect trends and execute trades in the direction of the [trend](../t/trend.md). Common indicators used in [trend](../t/trend.md)-following include:
 
 1. **Moving Averages**: Simple Moving Averages (SMA) and Exponential Moving Averages (EMA) are used to identify the direction of the [trend](../t/trend.md).
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: An [oscillator](../o/oscillator.md) that measures the speed and change of price movements.
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: An [oscillator](../o/oscillator.md) that measures the speed and change of price movements.
 
 ### Market Making
 

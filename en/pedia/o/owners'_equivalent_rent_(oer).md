@@ -4,7 +4,7 @@ Owners' Equivalent Rent (OER) is a critical measure within the realm of [economi
 
 ## Definition and Importance
 
-**Owners' Equivalent Rent** is part of the Consumer Price [Index](../i/index.md) (CPI) and represents about 24% of the overall CPI and roughly one-third of the core CPI, which excludes volatile food and energy prices. The OER is designed to measure the implicit rent that a homeowner would have to pay if they were renting their [home](../h/home.md). Essentially, it estimates the rental [value](../v/value.md) of a property that is currently being used as a primary residence by its owner.
+**Owners' Equivalent Rent** is part of the Consumer Price [Index](../i/index_instrument.md) (CPI) and represents about 24% of the overall CPI and roughly one-third of the core CPI, which excludes volatile food and energy prices. The OER is designed to measure the implicit rent that a homeowner would have to pay if they were renting their [home](../h/home.md). Essentially, it estimates the rental [value](../v/value.md) of a property that is currently being used as a primary residence by its owner.
 
 Understanding OER is crucial for several reasons:
 

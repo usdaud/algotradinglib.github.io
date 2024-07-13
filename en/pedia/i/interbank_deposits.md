@@ -50,7 +50,7 @@ The [interest](../i/interest.md) rates at which interbank deposits are traded ar
 
 - **SOFR (Secured Overnight [Financing](../f/financing.md) Rate)**: In the United States, SOFR is becoming the preferred [benchmark](../b/benchmark.md), providing a more reliable measure of overnight borrowing costs in the Treasury repo [market](../m/market.md).
 
-- **EONIA ([Euro](../e/euro.md) Overnight [Index](../i/index.md) Average)**: EONIA is the [benchmark](../b/benchmark.md) rate for [Euro](../e/euro.md)-denominated overnight interbank lending. It is calculated based on the [weighted average](../w/weighted_average.md) of overnight unsecured lending transactions.
+- **EONIA ([Euro](../e/euro.md) Overnight [Index](../i/index_instrument.md) Average)**: EONIA is the [benchmark](../b/benchmark.md) rate for [Euro](../e/euro.md)-denominated overnight interbank lending. It is calculated based on the [weighted average](../w/weighted_average.md) of overnight unsecured lending transactions.
 
 ## Risk Management
 

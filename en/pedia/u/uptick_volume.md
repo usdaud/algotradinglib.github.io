@@ -51,7 +51,7 @@ In [momentum trading](../m/momentum_trading.md), traders focus on [stocks](../s/
 
 ### Indicator Development
 
-Technical analysts often employ indicators that incorporate [uptick](../u/uptick.md) [volume](../v/volume.md). One popular example is the [Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI), which uses both price and [volume](../v/volume.md) data—including [uptick](../u/uptick.md) [volume](../v/volume.md)—to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+Technical analysts often employ indicators that incorporate [uptick](../u/uptick.md) [volume](../v/volume.md). One popular example is the [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI), which uses both price and [volume](../v/volume.md) data—including [uptick](../u/uptick.md) [volume](../v/volume.md)—to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ### Risk Management
 

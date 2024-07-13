@@ -1,6 +1,6 @@
 # Retail Price Index (RPI)
 
-The Retail Price [Index](../i/index.md) (RPI) is a measure of [inflation](../i/inflation.md) that tracks the change in the cost of a fixed basket of retail goods and services over time. It is used to adjust various [income](../i/income.md) payments (e.g., pensions and salaries) and to measure the changes in the [cost of living](../c/cost_of_living.md). The RPI is a significant [economic indicator](../e/economic_indicator.md) and is utilized in various financial and economic analyses.
+The Retail Price [Index](../i/index_instrument.md) (RPI) is a measure of [inflation](../i/inflation.md) that tracks the change in the cost of a fixed basket of retail goods and services over time. It is used to adjust various [income](../i/income.md) payments (e.g., pensions and salaries) and to measure the changes in the [cost of living](../c/cost_of_living.md). The RPI is a significant [economic indicator](../e/economic_indicator.md) and is utilized in various financial and economic analyses.
 
 ## Components of the Retail Price Index
 
@@ -16,7 +16,7 @@ The RPI is composed of several components, each representing a different categor
 - **Communication**: Costs related to postal services, telephone, internet services.
 - **Miscellaneous Goods and Services**: Includes [insurance](../i/insurance.md), personal care, and other expenses.
 
-Each of these categories is assigned a weight based on their average proportion of a consumer's expenditure, ensuring the [index](../i/index.md) accurately reflects changes in the [cost of living](../c/cost_of_living.md).
+Each of these categories is assigned a weight based on their average proportion of a consumer's expenditure, ensuring the [index](../i/index_instrument.md) accurately reflects changes in the [cost of living](../c/cost_of_living.md).
 
 ## Calculation Methodology
 
@@ -25,7 +25,7 @@ The RPI is calculated through the following steps:
 1. **Collection of Prices**: A large sample of prices for a diverse [range](../r/range.md) of goods and services is collected from different retail outlets.
 2. **Basket Composition**: The [basket of goods](../b/basket_of_goods.md) and services remains fixed over the specific period for comparison purposes.
 3. **Weight Assignation**: Each item in the basket is assigned a weight based on its relative importance or proportion of total consumer expenditure.
-4. **Price [Index](../i/index.md) Calculation**: Using a [base year](../b/base_year.md) for comparison, price indices for each category are calculated.
+4. **Price [Index](../i/index_instrument.md) Calculation**: Using a [base year](../b/base_year.md) for comparison, price indices for each category are calculated.
 5. **[Aggregation](../a/aggregation.md)**: The price indices are aggregated, taking the assigned weights into account, to produce the overall RPI.
 
 The formula for the RPI calculation is as follows:
@@ -41,7 +41,7 @@ The RPI has a long history, having been first introduced in the United Kingdom i
 
 ## RPI vs. CPI
 
-The RPI is often compared with the Consumer Price [Index](../i/index.md) (CPI), another measure of [inflation](../i/inflation.md). Although both indices aim to track changes in prices over time, they differ in several key aspects:
+The RPI is often compared with the Consumer Price [Index](../i/index_instrument.md) (CPI), another measure of [inflation](../i/inflation.md). Although both indices aim to track changes in prices over time, they differ in several key aspects:
 
 - **Coverage**: The RPI includes housing costs such as [mortgage](../m/mortgage.md) [interest](../i/interest.md) payments, whereas the CPI does not.
 - **Population Base**: The RPI covers private households only, while the CPI encompasses all households including institutionalized population and foreign visitors.
@@ -70,7 +70,7 @@ In response to these criticisms, several reforms have been suggested, including 
 
 ## Conclusion
 
-The Retail Price [Index](../i/index.md) (RPI) remains a cornerstone in understanding [inflation](../i/inflation.md) and economic shifts. Despite its drawbacks and criticisms, it continues to be an essential tool for economic analysis, policy-making, and personal [financial planning](../f/financial_planning.md). Continuous updates and methodological improvements ensure that it remains relevant in capturing the changing economic landscape.
+The Retail Price [Index](../i/index_instrument.md) (RPI) remains a cornerstone in understanding [inflation](../i/inflation.md) and economic shifts. Despite its drawbacks and criticisms, it continues to be an essential tool for economic analysis, policy-making, and personal [financial planning](../f/financial_planning.md). Continuous updates and methodological improvements ensure that it remains relevant in capturing the changing economic landscape.
 
-For more information on the Retail Price [Index](../i/index.md) or related data, visit the [Office for National Statistics](https://www.ons.gov.uk).
+For more information on the Retail Price [Index](../i/index_instrument.md) or related data, visit the [Office for National Statistics](https://www.ons.gov.uk).
 

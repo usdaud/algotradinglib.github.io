@@ -31,7 +31,7 @@ Several [technical indicators](../t/technical_indicators.md) can be used to iden
 - **Moving Averages:** Help in identifying the direction of the [trend](../t/trend.md) and potential support/resistance levels.
 - **[Bollinger Bands](../b/bollinger_bands.md):** Measure [market](../m/market.md) [volatility](../v/volatility.md) and can help in identifying breakouts.
 - **MACD (Moving Average Convergence [Divergence](../d/divergence.md)):** Helps in identifying [momentum](../m/momentum.md) and directional changes.
-- **RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)):** Can indicate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)):** Can indicate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ## Executing Upside Breakout Strategies
 

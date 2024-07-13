@@ -44,7 +44,7 @@ The concept of disinflation is best understood by examining the mechanisms and d
 ### Measuring Disinflation
 
 1. **[Inflation](../i/inflation.md) Rate**:
-    - The most direct measure is the rate of [inflation](../i/inflation.md) itself, typically calculated using indices like the Consumer Price [Index](../i/index.md) (CPI) or the Producer Price [Index](../i/index.md) (PPI).
+    - The most direct measure is the rate of [inflation](../i/inflation.md) itself, typically calculated using indices like the Consumer Price [Index](../i/index_instrument.md) (CPI) or the Producer Price [Index](../i/index_instrument.md) (PPI).
     - Disinflation is identified when these indices show a declining [trend](../t/trend.md) in the [inflation](../i/inflation.md) rate over a period.
 
 2. **[Economic Indicators](../e/economic_indicators.md)**:

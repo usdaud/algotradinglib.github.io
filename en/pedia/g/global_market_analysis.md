@@ -26,7 +26,7 @@ Changes in the [unemployment rate](../u/unemployment_rate.md) can influence [mar
 
 ### Consumer Confidence Index (CCI)
 
-The Consumer Confidence [Index](../i/index.md) (CCI) measures the degree of confidence that consumers feel about the overall state of the [economy](../e/economy.md) and their personal financial situation. Higher consumer confidence typically leads to increased consumer spending, which drives [economic growth](../e/economic_growth.md).
+The Consumer Confidence [Index](../i/index_instrument.md) (CCI) measures the degree of confidence that consumers feel about the overall state of the [economy](../e/economy.md) and their personal financial situation. Higher consumer confidence typically leads to increased consumer spending, which drives [economic growth](../e/economic_growth.md).
 
 For algo traders, the CCI can be a valuable sentiment [indicator](../i/indicator.md). An increase in consumer confidence might lead to higher sales for consumer-focused companies, which could be a bullish signal for their [stocks](../s/stock.md).
 

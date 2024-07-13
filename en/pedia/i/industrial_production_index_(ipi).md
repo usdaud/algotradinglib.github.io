@@ -1,17 +1,17 @@
 # Industrial Production Index (IPI)
 
-The Industrial Production [Index](../i/index.md) (IPI) is a key [economic indicator](../e/economic_indicator.md) that quantifies the real output of the [manufacturing](../m/manufacturing.md), [mining](../m/mining.md), and utilities sectors of an [economy](../e/economy.md). It reflects the [volume](../v/volume.md) of goods produced excluding [inflation](../i/inflation.md) adjustments and provides vital insights into the industrial sector's health, [efficiency](../e/efficiency.md), and growth potential. Understanding the IPI's methodology, significance, and its roles in economic analysis can [offer](../o/offer.md) valuable insights for businesses, investors, policymakers, and economic researchers.
+The Industrial Production [Index](../i/index_instrument.md) (IPI) is a key [economic indicator](../e/economic_indicator.md) that quantifies the real output of the [manufacturing](../m/manufacturing.md), [mining](../m/mining.md), and utilities sectors of an [economy](../e/economy.md). It reflects the [volume](../v/volume.md) of goods produced excluding [inflation](../i/inflation.md) adjustments and provides vital insights into the industrial sector's health, [efficiency](../e/efficiency.md), and growth potential. Understanding the IPI's methodology, significance, and its roles in economic analysis can [offer](../o/offer.md) valuable insights for businesses, investors, policymakers, and economic researchers.
 
 ## 1. Definition and Scope
 
 ### Definition
 
-The Industrial Production [Index](../i/index.md) (IPI) measures the output of the industrial sector, typically capturing the performance of three main industries:
+The Industrial Production [Index](../i/index_instrument.md) (IPI) measures the output of the industrial sector, typically capturing the performance of three main industries:
 1. **[Manufacturing](../m/manufacturing.md)**: This includes the production of goods ranging from automobiles, electronics, chemicals, and textiles.
 2. **[Mining](../m/mining.md)**: This includes extraction activities like coal [mining](../m/mining.md), oil extraction, and various mineral extractions.
 3. **Utilities**: This covers electricity, gas, and water [supply](../s/supply.md).
 
-The IPI is expressed as a percentage relative to a [base year](../b/base_year.md) level which is assigned an [index](../i/index.md) [value](../v/value.md) of 100. Changes in this [index](../i/index.md) over time reflect changes in the raw [volume](../v/volume.md) of production without inflationary adjustments.
+The IPI is expressed as a percentage relative to a [base year](../b/base_year.md) level which is assigned an [index](../i/index_instrument.md) [value](../v/value.md) of 100. Changes in this [index](../i/index_instrument.md) over time reflect changes in the raw [volume](../v/volume.md) of production without inflationary adjustments.
 
 ### Scope
 
@@ -21,7 +21,7 @@ The IPI typically does not include the construction and services sectors, focusi
 
 ### Base Year
 
-The choice of a [base year](../b/base_year.md) is crucial for calculating the [index](../i/index.md). The [base year](../b/base_year.md) is a normal year against which other years’ production levels are compared. It is periodically updated to reflect structural changes in the [economy](../e/economy.md).
+The choice of a [base year](../b/base_year.md) is crucial for calculating the [index](../i/index_instrument.md). The [base year](../b/base_year.md) is a normal year against which other years’ production levels are compared. It is periodically updated to reflect structural changes in the [economy](../e/economy.md).
 
 ### Data Collection
 
@@ -59,7 +59,7 @@ Industrial production levels can help predict inflationary pressures in the [eco
 
 ### United States
 
-The IPI for the United States is published by the Federal Reserve Board. It’s one of the major components of the [Index](../i/index.md) of Leading [Economic Indicators](../e/economic_indicators.md) and offers insights into the U.S. economic health.
+The IPI for the United States is published by the Federal Reserve Board. It’s one of the major components of the [Index](../i/index_instrument.md) of Leading [Economic Indicators](../e/economic_indicators.md) and offers insights into the U.S. economic health.
 
 [More about the U.S. IPI](https://www.federalreserve.gov/releases/G17/)
 
@@ -97,7 +97,7 @@ As a [lagging indicator](../l/lagging_indicator.md), the IPI often reflects past
 
 ### Outdated Base Year
 
-Periodic updates to the [base year](../b/base_year.md) are necessary to keep the [index](../i/index.md) relevant. Delay in such updates can result in outdated indices that may not reflect the structural shifts in the [economy](../e/economy.md).
+Periodic updates to the [base year](../b/base_year.md) are necessary to keep the [index](../i/index_instrument.md) relevant. Delay in such updates can result in outdated indices that may not reflect the structural shifts in the [economy](../e/economy.md).
 
 ## 6. Case Studies and Applications
 
@@ -115,4 +115,4 @@ The IPI’s sectoral data can help in understanding which industries are driving
 
 ## Conclusion
 
-The Industrial Production [Index](../i/index.md) (IPI) plays a pivotal role in economic analysis, [offering](../o/offering.md) a window into the industrial sector's performance. By tracking this [index](../i/index.md), stakeholders can make informed decisions, analyze economic health, and understand [underlying](../u/underlying.md) production trends. While it has its limitations, its [value](../v/value.md) in economic planning, investment strategies, and policy-making is undeniable, making it an indispensable tool for comprehending industrial dynamics.
+The Industrial Production [Index](../i/index_instrument.md) (IPI) plays a pivotal role in economic analysis, [offering](../o/offering.md) a window into the industrial sector's performance. By tracking this [index](../i/index_instrument.md), stakeholders can make informed decisions, analyze economic health, and understand [underlying](../u/underlying.md) production trends. While it has its limitations, its [value](../v/value.md) in economic planning, investment strategies, and policy-making is undeniable, making it an indispensable tool for comprehending industrial dynamics.

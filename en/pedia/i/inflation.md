@@ -26,10 +26,10 @@ Several factors can cause inflation, including:
 
 # Measuring Inflation
 
-There are several key indicators for measuring inflation, the most commonly known being the Consumer Price [Index](../i/index.md) (CPI) and the Producer Price [Index](../i/index.md) (PPI).
+There are several key indicators for measuring inflation, the most commonly known being the Consumer Price [Index](../i/index_instrument.md) (CPI) and the Producer Price [Index](../i/index_instrument.md) (PPI).
 
-1. **CPI (Consumer Price [Index](../i/index.md))**: This measures the average change over time in the prices paid by consumers for a [basket of goods](../b/basket_of_goods.md) and services.
-2. **PPI (Producer Price [Index](../i/index.md))**: This measures the average change over time in the selling prices received by domestic producers for their output.
+1. **CPI (Consumer Price [Index](../i/index_instrument.md))**: This measures the average change over time in the prices paid by consumers for a [basket of goods](../b/basket_of_goods.md) and services.
+2. **PPI (Producer Price [Index](../i/index_instrument.md))**: This measures the average change over time in the selling prices received by domestic producers for their output.
 
 # Inflation Impact on Financial Markets
 

@@ -8,7 +8,7 @@
 2. **High Standards of Living**: Citizens of First World countries enjoy high standards of living, including access to quality healthcare, education, and social services.
 3. **Technological Advancement**: These countries possess advanced technological [infrastructure](../i/infrastructure.md) and innovation capabilities.
 4. **Stable Political Systems**: First World nations typically have stable, democratic political systems and strong institutions.
-5. **High Human Development [Index](../i/index.md) (HDI)**: They score high on the Human Development [Index](../i/index.md), which measures [life expectancy](../l/life_expectancy.md), education, and [per capita](../p/per_capita.md) [income](../i/income.md).
+5. **High Human Development [Index](../i/index_instrument.md) (HDI)**: They score high on the Human Development [Index](../i/index_instrument.md), which measures [life expectancy](../l/life_expectancy.md), education, and [per capita](../p/per_capita.md) [income](../i/income.md).
 
 ## Historical Context
 1. **Cold War Era**: The term "First World" emerged during the Cold War to differentiate the Western bloc (NATO and allies) from the Eastern bloc (Soviet Union and allies) and the non-aligned or developing countries ([Third World](../t/third_world.md)).

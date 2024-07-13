@@ -27,7 +27,7 @@ For algorithmic traders, identifying a runaway gap involves a combination of [te
 Algorithms can utilize various [technical indicators](../t/technical_indicators.md) to identify and confirm runaway [gaps](../g/gap.md):
 
 - **Moving Averages**: A moving average crossover (e.g., the 50-day crossing above the [200-day moving average](../1/200-day_moving_average.md)) can strengthen the continuation signal.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: An RSI can help determine [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. A runaway gap in an [uptrend](../u/uptrend.md) with an RSI that is not [overbought](../o/overbought.md) could be a strong continuation signal.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: An RSI can help determine [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. A runaway gap in an [uptrend](../u/uptrend.md) with an RSI that is not [overbought](../o/overbought.md) could be a strong continuation signal.
 - **[Volume Indicators](../v/volume_indicators.md)**: High trading [volume](../v/volume.md) confirms the validity of the gap. Indicators like On-Balance [Volume](../v/volume.md) (OBV) or the [Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price (VWAP) are helpful.
 
 #### Algorithmic Trading Strategies

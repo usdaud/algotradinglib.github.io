@@ -25,7 +25,7 @@ A wide [range](../r/range.md) of [economic indicators](../e/economic_indicators.
 [Technical analysis](../t/technical_analysis.md) relies on historical price data and trading volumes to predict future price movements. Common tools used in [technical analysis](../t/technical_analysis.md) of the USD/JPY pair include:
 
 - **Moving Averages**: These smooth out price data to create a single flowing line, making it easier to identify trends.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: This [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) measures the speed and change of price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: This [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) measures the speed and change of price movements.
 - **[Fibonacci Retracement](../f/fibonacci_retracement.md) Levels**: These horizontal lines indicate areas of support or resistance at the key Fibonacci levels before the price continues in the original direction.
 
 ### Algorithmic Trading

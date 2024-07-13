@@ -10,7 +10,7 @@ A mortgage is a type of [loan](../l/loan.md) specifically used to purchase resid
     - Predictability of monthly payments makes budgeting easier for homeowners.
 
 2. **Adjustable-Rate Mortgages (ARMs)**
-    - [Interest](../i/interest.md) rates are fixed for an initial period, then adjust periodically based on an [index](../i/index.md) which reflects the cost to the [lender](../l/lender.md) of borrowing on the [credit](../c/credit.md) markets.
+    - [Interest](../i/interest.md) rates are fixed for an initial period, then adjust periodically based on an [index](../i/index_instrument.md) which reflects the cost to the [lender](../l/lender.md) of borrowing on the [credit](../c/credit.md) markets.
     - Common initial fixed-rate periods are 3, 5, 7, or 10 years.
     - Generally, ARMs [offer](../o/offer.md) lower initial [interest](../i/interest.md) rates than fixed-rate mortgages.
 

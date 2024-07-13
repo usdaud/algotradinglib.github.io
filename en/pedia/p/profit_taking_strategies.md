@@ -22,7 +22,7 @@ Scale-out strategy involves selling portions of a position at different price le
 
 ### 5. Using Technical Indicators
 
-Certain [technical indicators](../t/technical_indicators.md) can guide [profit](../p/profit.md)-taking decisions. Indicators such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md) can signal [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, suggesting optimal points to exit a [trade](../t/trade.md).
+Certain [technical indicators](../t/technical_indicators.md) can guide [profit](../p/profit.md)-taking decisions. Indicators such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md) can signal [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, suggesting optimal points to exit a [trade](../t/trade.md).
 
 ### 6. Volatility-Based Exit
 

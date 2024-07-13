@@ -25,7 +25,7 @@ CUSIP numbers play a crucial role in improving the [transparency](../t/transpare
 Regulatory bodies, such as the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) in the United States, require the use of CUSIP numbers for filing and monitoring purposes. These identifications ensure that the securities transactions are compliant with regulatory requirements and help regulatory bodies track ownership changes and [trade](../t/trade.md) activities.
 
 ### Risk Management
-CUSIP numbers also facilitate [risk management](../r/risk_management.md) by allowing financial institutions to track and categorize their [asset](../a/asset.md) [holdings](../h/holdings.md) accurately. [Index](../i/index.md) compositions, portfolios, and [risk](../r/risk.md) assessments rely heavily on precise [security](../s/security.md) identification provided by CUSIP numbers.
+CUSIP numbers also facilitate [risk management](../r/risk_management.md) by allowing financial institutions to track and categorize their [asset](../a/asset.md) [holdings](../h/holdings.md) accurately. [Index](../i/index_instrument.md) compositions, portfolios, and [risk](../r/risk.md) assessments rely heavily on precise [security](../s/security.md) identification provided by CUSIP numbers.
 
 ## How to Obtain a CUSIP Number?
 

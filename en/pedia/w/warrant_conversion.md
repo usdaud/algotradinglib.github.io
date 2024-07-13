@@ -10,7 +10,7 @@
    [Equity](../e/equity.md) [warrants](../w/warrants_in_trading.md) allow the holder to buy [common stock](../c/common_stock.md) at a specific price within a certain timeframe. These are the most commonly issued [warrants](../w/warrants_in_trading.md) and carry a high degree of [leverage](../l/leverage.md), making them attractive to investors looking for significant stock appreciation.
 
 2. **[Equity](../e/equity.md)-Linked [Warrants](../w/warrants_in_trading.md):**
-   [Equity](../e/equity.md)-linked [warrants](../w/warrants_in_trading.md) are tied to an [index](../i/index.md) or a basket of [stocks](../s/stock.md). The [value](../v/value.md) of these [warrants](../w/warrants_in_trading.md) fluctuates with the [underlying](../u/underlying.md) [equity](../e/equity.md)’s performance. These [warrants](../w/warrants_in_trading.md) can be used for hedging or investment purposes.
+   [Equity](../e/equity.md)-linked [warrants](../w/warrants_in_trading.md) are tied to an [index](../i/index_instrument.md) or a basket of [stocks](../s/stock.md). The [value](../v/value.md) of these [warrants](../w/warrants_in_trading.md) fluctuates with the [underlying](../u/underlying.md) [equity](../e/equity.md)’s performance. These [warrants](../w/warrants_in_trading.md) can be used for hedging or investment purposes.
 
 3. **Covered [Warrants](../w/warrants_in_trading.md):**
    Covered [warrants](../w/warrants_in_trading.md) are issued by financial institutions rather than companies. They are generally [listed](../l/listed.md) on stock exchanges and cover a variety of [asset](../a/asset.md) classes, including [shares](../s/shares.md), indices, commodities, and currencies.

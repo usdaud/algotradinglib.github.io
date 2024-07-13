@@ -39,7 +39,7 @@ While the GGR is a useful metric, it is often used in conjunction with other fin
 
 - **Net [Rate of Return](../r/rate_of_return.md)**: This metric considers all expenses, [taxes](../t/taxes.md), and fees associated with an investment, providing a more realistic view of profitability.
 - **[Sharpe Ratio](../s/sharpe_ratio.md)**: Measures the [risk-adjusted return](../r/risk-adjusted_return.md), indicating how much [excess return](../e/excess_return.md) is received per unit of [risk](../r/risk.md).
-- **[Alpha](../a/alpha.md)**: Represents excess returns of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md).
+- **[Alpha](../a/alpha.md)**: Represents excess returns of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 - **[Beta](../b/beta.md)**: Measures the [volatility](../v/volatility.md) or [systemic risk](../s/systemic_risk.md) of a [security](../s/security.md) or portfolio in comparison to the [market](../m/market.md) as a whole.
 
 ## Calculating GGR in Different Market Conditions

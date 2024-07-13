@@ -22,7 +22,7 @@ No-[load](../l/load.md) funds provide a cost-efficient investment option as they
 Given that no-[load](../l/load.md) funds are most often purchased directly from the issuing company at the net [asset](../a/asset.md) [value](../v/value.md) (NAV), they [offer](../o/offer.md) a high level of [transparency](../t/transparency.md) and ease of access for investors. This direct relationship can be beneficial for managing the investment portfolio.
 
 ### Flexibility and Diverse Options
-No-[load](../l/load.md) funds come in various types, including [equity](../e/equity.md) funds, [bond](../b/bond.md) funds, [index](../i/index.md) funds, and sector funds. This diversity allows investors to tailor their portfolios according to their [risk tolerance](../r/risk_tolerance.md) and investment objectives.
+No-[load](../l/load.md) funds come in various types, including [equity](../e/equity.md) funds, [bond](../b/bond.md) funds, [index](../i/index_instrument.md) funds, and sector funds. This diversity allows investors to tailor their portfolios according to their [risk tolerance](../r/risk_tolerance.md) and investment objectives.
 
 ## Drawbacks of No-Load Funds
 
@@ -38,7 +38,7 @@ Some critics argue that the performance incentives for [fund](../f/fund.md) mana
 ## Types of No-Load Funds
 
 ### Index Funds
-[Index](../i/index.md) funds are a popular type of no-[load fund](../l/load_fund.md) that aims to replicate the performance of a specific [market index](../m/market_index.md), like the S&P 500. These funds typically have lower [expense](../e/expense.md) ratios, as they follow a passive management strategy. **Example:** [Vanguard 500 Index Fund](https://investor.vanguard.com/mutual-funds/profile/overview/vfiax).
+[Index](../i/index_instrument.md) funds are a popular type of no-[load fund](../l/load_fund.md) that aims to replicate the performance of a specific [market index](../m/market_index.md), like the S&P 500. These funds typically have lower [expense](../e/expense.md) ratios, as they follow a passive management strategy. **Example:** [Vanguard 500 Index Fund](https://investor.vanguard.com/mutual-funds/profile/overview/vfiax).
 
 ### Money Market Funds
 [Money market](../m/money_market.md) no-[load](../l/load.md) funds invest in short-term, high-quality [debt](../d/debt.md) instruments. They [offer](../o/offer.md) [liquidity](../l/liquidity.md) and a higher level of safety, suitable for conservative investors. **Example:** [Fidelity Government Cash Reserves](https://fundresearch.fidelity.com/mutual-funds/summary/31617H102).
@@ -63,7 +63,7 @@ These funds focus on specific sectors such as technology, healthcare, or energy.
 ## Case Studies and Examples
 
 ### Case Study 1: Growth of Index No-Load Funds
-One of the most successful stories in the no-[load fund](../l/load_fund.md) category is the growth of [index](../i/index.md) funds, particularly those managed by Vanguard. Vanguard’s [index](../i/index.md) funds, such as the Vanguard 500 [Index Fund](../i/index_fund.md), have attracted a significant following due to their low costs, [transparency](../t/transparency.md), and alignment of incentives between investors and managers. These [index](../i/index.md) funds have demonstrated the ability to [outperform](../o/outperform.md) a significant portion of actively managed funds over long periods.
+One of the most successful stories in the no-[load fund](../l/load_fund.md) category is the growth of [index](../i/index_instrument.md) funds, particularly those managed by Vanguard. Vanguard’s [index](../i/index_instrument.md) funds, such as the Vanguard 500 [Index Fund](../i/index_fund.md), have attracted a significant following due to their low costs, [transparency](../t/transparency.md), and alignment of incentives between investors and managers. These [index](../i/index_instrument.md) funds have demonstrated the ability to [outperform](../o/outperform.md) a significant portion of actively managed funds over long periods.
 
 ### Case Study 2: No-Load Capital Appreciation Fund
 Fidelity Magellan [Fund](../f/fund.md) is a well-known example in this category. Managed by famous investors like Peter Lynch, Magellan provided superior returns in the 70s and 80s without charging [load](../l/load.md) fees. Investors who bought into this no-[load fund](../l/load_fund.md) benefited from exceptional [capital](../c/capital.md) appreciation without the added cost of sales charges. 
@@ -82,7 +82,7 @@ The Financial [Industry](../i/industry.md) Regulatory Authority (FINRA) establis
 Financial advisors employing Modern Portfolio Theory (MPT) might favor no-[load](../l/load.md) funds to maximize the [capital](../c/capital.md) availability for investment [diversification](../d/diversification.md). By reducing [fee](../f/fee.md) drag, advisors can allocate more resources to [stocks](../s/stock.md) and bonds that align with their clients' [risk profiles](../r/risk_profiles.md) and [return](../r/return.md) expectations.
 
 ### Optimization Using Financial Technologies
-With the advent of fintech, tools like automated portfolio construction and robo-advisors have popularized no-[load](../l/load.md) funds. Many robo-advisors, such as Betterment and Wealthfront, use no-[load](../l/load.md) funds, particularly [index](../i/index.md) funds, to achieve low-cost, diversified portfolios.
+With the advent of fintech, tools like automated portfolio construction and robo-advisors have popularized no-[load](../l/load.md) funds. Many robo-advisors, such as Betterment and Wealthfront, use no-[load](../l/load.md) funds, particularly [index](../i/index_instrument.md) funds, to achieve low-cost, diversified portfolios.
 
 ### Algorithmic Trading and No-Load Funds
 [Algorithmic trading](../a/accountability.md) generally focuses on securities and may not be directly applicable to mutual funds. However, the [underlying](../u/underlying.md) assets within these funds could be impacted by algorithmic strategies. Traders using algorithmic methods might indirectly influence the performance of the no-[load](../l/load.md) funds by affecting the prices of the [stocks](../s/stock.md) and bonds within these funds.
@@ -91,7 +91,7 @@ With the advent of fintech, tools like automated portfolio construction and robo
 
 1. **Cost [Efficiency](../e/efficiency.md):** No-[load](../l/load.md) funds eliminate sales charges, [offering](../o/offering.md) a cost-efficient investment solution that ensures more [capital](../c/capital.md) is allocated to investment rather than fees.
 2. **[Transparency](../t/transparency.md):** By purchasing directly from [fund](../f/fund.md) companies, investors enjoy higher [transparency](../t/transparency.md) and potentially better [customer service](../c/customer_service.md).
-3. **Diverse [Options](../o/options.md):** Available in various forms such as [index](../i/index.md), stock, [bond](../b/bond.md), and sector funds, no-[load](../l/load.md) funds provide flexible investment avenues.
+3. **Diverse [Options](../o/options.md):** Available in various forms such as [index](../i/index_instrument.md), stock, [bond](../b/bond.md), and sector funds, no-[load](../l/load.md) funds provide flexible investment avenues.
 4. **Reduced Advice:** While eliminating commissions, investors may miss out on professional financial advice, posing a challenge for those less experienced.
 5. **Regulatory Oversight:** SEC and FINRA regulations ensure that no-[load](../l/load.md) funds adhere to [transparency](../t/transparency.md) and fair practice standards, providing an added layer of [security](../s/security.md) for investors.
 

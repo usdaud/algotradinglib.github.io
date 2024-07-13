@@ -18,9 +18,9 @@ The Mongolian Stock [Exchange](../e/exchange.md) operates through a fully electr
 
 Several indices are tracked on the MSE. The most prominent are:
 
-1. **MSE Top 20 [Index](../i/index.md)**: It tracks the performance of the top 20 most [liquid](../l/liquid.md) [stocks](../s/stock.md) on the [exchange](../e/exchange.md).
-2. **MSE A [Index](../i/index.md)**: It includes companies with strict [corporate governance](../c/corporate_governance.md) and [disclosure](../d/disclosure.md) standards.
-3. **MSE B [Index](../i/index.md)**: It comprises companies that have slightly relaxed standards compared to those in the MSE A [Index](../i/index.md).
+1. **MSE Top 20 [Index](../i/index_instrument.md)**: It tracks the performance of the top 20 most [liquid](../l/liquid.md) [stocks](../s/stock.md) on the [exchange](../e/exchange.md).
+2. **MSE A [Index](../i/index_instrument.md)**: It includes companies with strict [corporate governance](../c/corporate_governance.md) and [disclosure](../d/disclosure.md) standards.
+3. **MSE B [Index](../i/index_instrument.md)**: It comprises companies that have slightly relaxed standards compared to those in the MSE A [Index](../i/index_instrument.md).
 
 ### Securities
 

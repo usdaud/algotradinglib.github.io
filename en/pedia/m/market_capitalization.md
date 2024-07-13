@@ -67,7 +67,7 @@ Small-cap [stocks](../s/stock.md) have a [market](../m/market.md) [capitalizatio
 
 ### Index Composition
 
-[Market](../m/market.md) cap is a key determinant in the composition of [market](../m/market.md) indices like the S&P 500, Dow Jones Industrial Average, and [Nasdaq](../n/nasdaq.md) 100. Companies with larger [market](../m/market.md) caps have a more significant influence on [index](../i/index.md) movements.
+[Market](../m/market.md) cap is a key determinant in the composition of [market](../m/market.md) indices like the S&P 500, Dow Jones Industrial Average, and [Nasdaq](../n/nasdaq.md) 100. Companies with larger [market](../m/market.md) caps have a more significant influence on [index](../i/index_instrument.md) movements.
 
 ### Financial Ratios
 

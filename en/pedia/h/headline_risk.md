@@ -28,7 +28,7 @@ Quantifying headline [risk](../r/risk.md) can be challenging, as it involves bot
 
 2. **Event Studies:** Examining historical price movements of [stocks](../s/stock.md) or assets in response to specific news events can provide insights into how similar headlines might impact the [market](../m/market.md) in the future.
 
-3. **[Volatility](../v/volatility.md) Indexes:** [Volatility](../v/volatility.md) measures, such as the CBOE [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX), can indicate [market](../m/market.md) expectations for future [volatility](../v/volatility.md). High VIX levels often correspond to increased headline [risk](../r/risk.md).
+3. **[Volatility](../v/volatility.md) Indexes:** [Volatility](../v/volatility.md) measures, such as the CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX), can indicate [market](../m/market.md) expectations for future [volatility](../v/volatility.md). High VIX levels often correspond to increased headline [risk](../r/risk.md).
 
 4. **[Market](../m/market.md) Reaction Models:** Econometric models can be designed to estimate the impact of news events on [asset](../a/asset.md) prices. These models take into account factors such as the timing, nature, and context of the news.
 

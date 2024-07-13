@@ -21,7 +21,7 @@ Traders and [algorithmic trading](../a/algorithmic_trading.md) systems use the 6
 1. **Responsiveness**: The 6-period EMA reacts quickly to recent price changes, making it suitable for [short-term trading](../s/short-term_trading.md) strategies.
 2. **[Trend](../t/trend.md) Identification**: It helps in identifying the immediate [trend](../t/trend.md) direction, which is valuable for making quick trading decisions.
 3. **[Support and Resistance](../s/support_and_resistance.md) Levels**: The 6-period EMA can act as a dynamic support or resistance level.
-4. **Combining with Other Indicators**: It works well when combined with other [technical indicators](../t/technical_indicators.md) such as the MACD (Moving Average Convergence [Divergence](../d/divergence.md)) or RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)).
+4. **Combining with Other Indicators**: It works well when combined with other [technical indicators](../t/technical_indicators.md) such as the MACD (Moving Average Convergence [Divergence](../d/divergence.md)) or RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)).
 
 ### Calculation Example
 

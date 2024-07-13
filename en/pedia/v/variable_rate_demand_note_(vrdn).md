@@ -5,7 +5,7 @@ A Variable Rate [Demand](../d/demand.md) [Note](../n/note.md) (VRDN) is a type o
 ## Characteristics of VRDNs
 
 ### Variable Interest Rate
-The [interest rate](../i/interest_rate.md) on VRDNs is reset at regular intervals, such as daily, weekly, or monthly, which aligns the [yield](../y/yield.md) closely with current [market](../m/market.md) conditions. The rate is typically pegged to a [benchmark](../b/benchmark.md), such as the SIFMA Municipal [Swap](../s/swap.md) [Index](../i/index.md) or another similar short-term [interest rate](../i/interest_rate.md) [index](../i/index.md).
+The [interest rate](../i/interest_rate.md) on VRDNs is reset at regular intervals, such as daily, weekly, or monthly, which aligns the [yield](../y/yield.md) closely with current [market](../m/market.md) conditions. The rate is typically pegged to a [benchmark](../b/benchmark.md), such as the SIFMA Municipal [Swap](../s/swap.md) [Index](../i/index_instrument.md) or another similar short-term [interest rate](../i/interest_rate.md) [index](../i/index_instrument.md).
 
 ### Demand (Put) Feature
 VRDNs include a [put option](../p/put.md) that allows the holder to [demand](../d/demand.md) [repayment](../r/repayment.md) of the [principal](../p/principal.md) at [par value](../p/par_value.md) on short notice, which can be as short as one day. This feature significantly reduces [interest rate risk](../i/interest_rate_risk.md) for investors since they can exit the investment if rates rise.

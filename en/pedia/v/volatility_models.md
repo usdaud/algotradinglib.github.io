@@ -43,7 +43,7 @@ where \( S_t \) is the [asset](../a/asset.md) price, \( v_t \) is the variance, 
 
 5. **[Volatility](../v/volatility.md) Indexes (VIX)**
 --------------------------------
-The [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX) measures the [market](../m/market.md)'s expectation of 30-day forward-looking [volatility](../v/volatility.md), derived from the S&P 500 [index options](../i/index_options.md). Often referred to as the "fear gauge," the VIX is a key [indicator](../i/indicator.md) of [market sentiment](../m/market_sentiment.md) and investors' [risk](../r/risk.md) appetite.
+The [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX) measures the [market](../m/market.md)'s expectation of 30-day forward-looking [volatility](../v/volatility.md), derived from the S&P 500 [index options](../i/index_options.md). Often referred to as the "fear gauge," the VIX is a key [indicator](../i/indicator.md) of [market sentiment](../m/market_sentiment.md) and investors' [risk](../r/risk.md) appetite.
 
 The VIX calculation involves a complex formula that incorporates the [weighted average](../w/weighted_average.md) of the implied volatilities from a wide [range](../r/range.md) of [options](../o/options.md) with different strike prices and maturities.
 

@@ -30,7 +30,7 @@ Several [technical indicators](../t/technical_indicators.md) are commonly used i
 
 3. **[Bollinger Bands](../b/bollinger_bands.md)**: These are used to measure [market](../m/market.md) [volatility](../v/volatility.md) and identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. They consist of a middle band representing a moving average, an upper band, and a lower band.
 
-4. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI measures the speed and change of price movements and can indicate whether a [security](../s/security.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md).
+4. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI measures the speed and change of price movements and can indicate whether a [security](../s/security.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md).
 
 ## Implementation of Trend Following Strategies
 The implementation of [trend following](../t/trend_following.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) involves several steps, including data collection, [indicator](../i/indicator.md) calculation, signal generation, [risk management](../r/risk_management.md), and [execution](../e/execution.md).

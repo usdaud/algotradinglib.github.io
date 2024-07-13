@@ -27,7 +27,7 @@ Based on the assumption that prices fluctuate around a mean [value](../v/value.m
 
 ### 2.3 Arbitrage Strategies
 
-[Arbitrage](../a/arbitrage.md) involves taking advantage of price discrepancies between different markets or instruments. Examples include statistical [arbitrage](../a/arbitrage.md), [index](../i/index.md) [arbitrage](../a/arbitrage.md), and [futures](../f/futures.md) [arbitrage](../a/arbitrage.md).
+[Arbitrage](../a/arbitrage.md) involves taking advantage of price discrepancies between different markets or instruments. Examples include statistical [arbitrage](../a/arbitrage.md), [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md), and [futures](../f/futures.md) [arbitrage](../a/arbitrage.md).
 
 ### 2.4 High-Frequency Trading (HFT)
 
@@ -45,7 +45,7 @@ Similar to the [Sharpe ratio](../s/sharpe_ratio.md), but focuses on [downside ri
 
 ### 3.3 Alpha
 
-Represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md).
+Represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 
 ### 3.4 Beta
 

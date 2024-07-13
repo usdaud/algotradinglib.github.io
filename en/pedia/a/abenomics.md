@@ -34,7 +34,7 @@ The third arrow focused on long-term structural reforms aimed at increasing [pro
 
 Initially, Abenomics had a significant impact on the Japanese [economy](../e/economy.md):
 
-- **[Stock Market](../s/stock_market.md) [Rally](../r/rally.md)**: The [Nikkei](../n/nikkei.md) 225 [index](../i/index.md) surged in response to Abenomics, reflecting increased [investor](../i/investor.md) confidence and expectations of higher corporate profits.
+- **[Stock Market](../s/stock_market.md) [Rally](../r/rally.md)**: The [Nikkei](../n/nikkei.md) 225 [index](../i/index_instrument.md) surged in response to Abenomics, reflecting increased [investor](../i/investor.md) confidence and expectations of higher corporate profits.
 - **[Currency](../c/currency.md) [Depreciation](../d/depreciation.md)**: The yen depreciated significantly against other major currencies, benefiting Japan's [export](../e/export.md)-oriented industries.
 - **[Inflation](../i/inflation.md)**: [Inflation](../i/inflation.md) showed signs of picking up, and consumer confidence improved, leading to increased spending.
 

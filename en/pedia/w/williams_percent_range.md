@@ -33,7 +33,7 @@ This simple strategy involves selling when the [Williams %R](../w/williams_%r.md
 Traders can also use [Williams %R](../w/williams_%r.md) to identify potential [trend](../t/trend.md) reversals. For instance, a move from [overbought](../o/overbought.md) territory to below -20 can signal the beginning of a [downtrend](../d/downtrend.md). Similarly, a move from [oversold](../o/oversold.md) territory to above -80 can signal the beginning of an [uptrend](../u/uptrend.md).
 
 #### 3. Confirming Signals
-[Williams %R](../w/williams_%r.md) is often used in conjunction with other indicators to confirm signals. For example, traders may look for alignment between [Williams %R](../w/williams_%r.md) and other [technical indicators](../t/technical_indicators.md) like Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), or MACD (Moving Average Convergence [Divergence](../d/divergence.md)) to confirm [trade](../t/trade.md) signals.
+[Williams %R](../w/williams_%r.md) is often used in conjunction with other indicators to confirm signals. For example, traders may look for alignment between [Williams %R](../w/williams_%r.md) and other [technical indicators](../t/technical_indicators.md) like Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), or MACD (Moving Average Convergence [Divergence](../d/divergence.md)) to confirm [trade](../t/trade.md) signals.
 
 ### Advantages of Williams %R
 - **Speed**: [Williams %R](../w/williams_%r.md) is responsive and captures short-term price movements effectively.

@@ -11,7 +11,7 @@ Data collection is the first step in [yield](../y/yield.md) [forecasting](../f/f
 - **Financial [Market](../m/market.md) Data:** Prices, volumes, and other trading data.
 - **[Economic Indicators](../e/economic_indicators.md):** GDP, [unemployment](../u/unemployment.md) rates, [inflation](../i/inflation.md), [interest](../i/interest.md) rates.
 - **[Sentiment Analysis](../s/sentiment_analysis.md) Data:** [Market sentiment](../m/market_sentiment.md), news, [social media](../s/social_media.md) trends.
-- **Other Factors:** [Technical indicators](../t/technical_indicators.md) such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)).
+- **Other Factors:** [Technical indicators](../t/technical_indicators.md) such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)).
 
 **Data Preprocessing:**
 - **Cleaning:** Handling missing values, removing outliers.

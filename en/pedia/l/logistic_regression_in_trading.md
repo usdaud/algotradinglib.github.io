@@ -28,14 +28,14 @@ Traders can use logistic regression to predict the probability that a [market](.
 
 ### Example
 
-Suppose a [trader](../t/trader.md) wants to predict whether the S&P 500 [index](../i/index.md) [will](../w/will.md) go up or down the next day. They can collect historical data on various factors such as:
+Suppose a [trader](../t/trader.md) wants to predict whether the S&P 500 [index](../i/index_instrument.md) [will](../w/will.md) go up or down the next day. They can collect historical data on various factors such as:
 
 - The previous closing price.
 - The trading [volume](../v/volume.md).
 - The [opening price](../o/opening_price.md).
 - [Economic indicators](../e/economic_indicators.md).
 
-Using these features, a logistic regression model can be trained to predict the probability that the [index](../i/index.md) [will](../w/will.md) go up or down.
+Using these features, a logistic regression model can be trained to predict the probability that the [index](../i/index_instrument.md) [will](../w/will.md) go up or down.
 
 ### Determining Trade Success Probability
 

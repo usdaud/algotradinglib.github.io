@@ -41,8 +41,8 @@ Evaluating returns in isolation can be misleading if risks are not taken into ac
 Comparing a strategy's performance against relevant benchmarks helps traders understand the relative performance. Common benchmarks include:
 
 - **S&P 500 or DJIA** for U.S. [equity](../e/equity.md) portfolios.
-- **MSCI World [Index](../i/index.md)** for global [equity](../e/equity.md) portfolios.
-- **Barclays Aggregate [Bond](../b/bond.md) [Index](../i/index.md)** for [bond](../b/bond.md) portfolios.
+- **MSCI World [Index](../i/index_instrument.md)** for global [equity](../e/equity.md) portfolios.
+- **Barclays Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md)** for [bond](../b/bond.md) portfolios.
 
 Ensuring that a chosen [benchmark](../b/benchmark.md) accurately represents the [trading strategy](../t/trading_strategy.md)’s [scope](../s/scope.md) and [asset allocation](../a/asset_allocation.md) is crucial.
 

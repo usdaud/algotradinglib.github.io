@@ -51,7 +51,7 @@ Valuing [underlying](../u/underlying.md) assets accurately is fundamental for th
 - **[Interest Rate Parity](../i/interest_rate_parity.md)**: This principle reflects the relationship between [interest](../i/interest.md) rates and [exchange](../e/exchange.md) rates of two countries.
 
 ### 5. **Index Valuation**
-- **[Weighted Average](../w/weighted_average.md)**: [Index](../i/index.md) values are typically calculated based on the [weighted average](../w/weighted_average.md) of the prices of the constituent [stocks](../s/stock.md).
+- **[Weighted Average](../w/weighted_average.md)**: [Index](../i/index_instrument.md) values are typically calculated based on the [weighted average](../w/weighted_average.md) of the prices of the constituent [stocks](../s/stock.md).
 
 ## Role of Underlying Assets in Algorithmic Trading
 

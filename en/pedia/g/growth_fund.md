@@ -46,7 +46,7 @@ Managed by Fidelity and well-regarded for its performance, this growth [fund](..
 [Visit Fidelity Contrafund](https://fundresearch.fidelity.com/mutual-funds/summary/316071109)
 
 ### Vanguard Growth Index Fund (VIGAX)
-This [fund](../f/fund.md) aims to closely track the performance of the CRSP US Large Cap Growth [Index](../i/index.md). Vanguard Growth [Index Fund](../i/index_fund.md) invests in [stocks](../s/stock.md) of large U.S. companies characterized by their growth potential.
+This [fund](../f/fund.md) aims to closely track the performance of the CRSP US Large Cap Growth [Index](../i/index_instrument.md). Vanguard Growth [Index Fund](../i/index_fund.md) invests in [stocks](../s/stock.md) of large U.S. companies characterized by their growth potential.
 
 [Visit Vanguard Growth Index Fund](https://investor.vanguard.com/mutual-funds/profile/VIGAX)
 

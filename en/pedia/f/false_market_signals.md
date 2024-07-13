@@ -4,7 +4,7 @@ False [market](../m/market.md) signals, or [false signals](../f/false_signals_in
 
 #### Types of Market Signals
 
-1. **[Technical Indicators](../t/technical_indicators.md)**: Utilize past [market](../m/market.md) data, such as price and [volume](../v/volume.md), to forecast future price movements. Common indicators include Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and MACD.
+1. **[Technical Indicators](../t/technical_indicators.md)**: Utilize past [market](../m/market.md) data, such as price and [volume](../v/volume.md), to forecast future price movements. Common indicators include Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and MACD.
 2. **[Fundamental Analysis](../f/fundamental_analysis.md)**: Relies on [economic indicators](../e/economic_indicators.md), [financial statements](../f/financial_statements.md), and other qualitative data to evaluate an [asset](../a/asset.md)'s [intrinsic value](../i/intrinsic_value.md).
 3. **[Quantitative Analysis](../q/quantitative_analysis.md)**: Involves mathematical and statistical models to identify trading opportunities. Algorithms and high-frequency trading (HFT) systems often fall into this category.
 

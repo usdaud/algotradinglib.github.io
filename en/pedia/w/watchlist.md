@@ -31,7 +31,7 @@ Criteria for selecting securities for your watchlist might include:
 - Price-to-[Earnings](../e/earnings.md) Ratio (P/E Ratio)
 - [Dividend Yield](../d/dividend_yield.md)
 - Recent News
-- [Technical Indicators](../t/technical_indicator.md) (e.g., Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md))
+- [Technical Indicators](../t/technical_indicator.md) (e.g., Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md))
 
 ### 4. Filter Tools
 

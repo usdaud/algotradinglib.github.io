@@ -8,9 +8,9 @@ Portfolio management refers to the process of selecting, prioritizing, and overs
 
 ### Types of Portfolio Management
 
-1. **[Active Portfolio Management](../a/active_portfolio_management.md)**: Active portfolio managers make decisions on buying and selling securities based on research, [market](../m/market.md) forecasts, and their [judgment](../j/judgment.md). They aim to [outperform](../o/outperform.md) a specific [benchmark](../b/benchmark.md) [index](../i/index.md).
+1. **[Active Portfolio Management](../a/active_portfolio_management.md)**: Active portfolio managers make decisions on buying and selling securities based on research, [market](../m/market.md) forecasts, and their [judgment](../j/judgment.md). They aim to [outperform](../o/outperform.md) a specific [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 
-2. **Passive Portfolio Management**: Passive managers implement a fixed strategy that mirrors a [market index](../m/market_index.md). The goal is to replicate the performance of the [index](../i/index.md) over time, usually resulting in lower [transaction costs](../t/transaction_costs.md) and fees.
+2. **Passive Portfolio Management**: Passive managers implement a fixed strategy that mirrors a [market index](../m/market_index.md). The goal is to replicate the performance of the [index](../i/index_instrument.md) over time, usually resulting in lower [transaction costs](../t/transaction_costs.md) and fees.
 
 3. **[Quantitative Portfolio Management](../q/quantitative_portfolio_management.md)**: Uses [mathematical models](../m/mathematical_models_in_trading.md) and [quantitative analysis](../q/quantitative_analysis.md) to identify investment opportunities and manage [risk](../r/risk.md). This is particularly prevalent in [algorithmic trading](../a/accountability.md).
 

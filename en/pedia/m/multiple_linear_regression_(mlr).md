@@ -167,7 +167,7 @@ predictions = model.predict(X)
 data['Predicted_Close'] = predictions
 
 # Save the predictions to a new CSV file
-data.to_csv('predicted_stock_prices.csv', [index](../i/index.md)=False)
+data.to_csv('predicted_stock_prices.csv', [index](../i/index_instrument.md)=False)
 ```
 
 ## Conclusion

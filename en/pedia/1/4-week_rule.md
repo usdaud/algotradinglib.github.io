@@ -38,7 +38,7 @@ def four_week_rule(data):
     Implement the 4 Week Rule for [breakout trading](../b/breakout_trading.md).
     
     Params:
-    data - A pandas DataFrame containing 'Close' prices with a datetime [index](../i/index.md).
+    data - A pandas DataFrame containing 'Close' prices with a datetime [index](../i/index_instrument.md).
     
     Returns:
     buy_signals, sell_signals - Boolean Series indicating buy and sell signals.

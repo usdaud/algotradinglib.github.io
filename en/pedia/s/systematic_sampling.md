@@ -40,7 +40,7 @@ You randomly select a number between 1 and 10, say 7. You then select the 7th in
 
 ### Portfolio Management
 
-In [finance](../f/finance.md), systematic [sampling](../s/sampling.md) can be used to create representative portfolios. [Fund](../f/fund.md) managers might apply this method to select a subset of [stocks](../s/stock.md) that mirror the performance of a larger stock [index](../i/index.md).
+In [finance](../f/finance.md), systematic [sampling](../s/sampling.md) can be used to create representative portfolios. [Fund](../f/fund.md) managers might apply this method to select a subset of [stocks](../s/stock.md) that mirror the performance of a larger stock [index](../i/index_instrument.md).
 
 ### Risk Management
 

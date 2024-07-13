@@ -6,7 +6,7 @@ The concept of a zero-[inflation](../i/inflation.md) strategy in the context of 
 
 ### Understanding Inflation
 
-[Inflation](../i/inflation.md) is the rate at which the general level of prices for goods and services rises, thereby eroding [purchasing power](../p/purchasing_power.md). Central banks attempt to limit [inflation](../i/inflation.md)—and avoid [deflation](../d/deflation.md)—in [order](../o/order.md) to keep the [economy](../e/economy.md) running smoothly. [Inflation](../i/inflation.md) has a direct impact on every aspect of the [economy](../e/economy.md), including trading and investment decisions. The Consumer Price [Index](../i/index.md) (CPI) is often used as a [benchmark](../b/benchmark.md) for measuring [inflation](../i/inflation.md).
+[Inflation](../i/inflation.md) is the rate at which the general level of prices for goods and services rises, thereby eroding [purchasing power](../p/purchasing_power.md). Central banks attempt to limit [inflation](../i/inflation.md)—and avoid [deflation](../d/deflation.md)—in [order](../o/order.md) to keep the [economy](../e/economy.md) running smoothly. [Inflation](../i/inflation.md) has a direct impact on every aspect of the [economy](../e/economy.md), including trading and investment decisions. The Consumer Price [Index](../i/index_instrument.md) (CPI) is often used as a [benchmark](../b/benchmark.md) for measuring [inflation](../i/inflation.md).
 
 ### The Role of Central Banks
 
@@ -41,7 +41,7 @@ Dynamic [asset allocation](../a/asset_allocation.md) is a strategy that adjusts 
 
 #### Inflation Indicators and Forecasting
 
-Sophisticated algorithms integrate various [inflation](../i/inflation.md) indicators such as CPI data, producer price [index](../i/index.md) (PPI), [commodity](../c/commodity.md) prices, and central [bank](../b/bank.md) policies. [Predictive modeling](../p/predictive_modeling.md) using machine learning can forecast potential inflationary trends, enabling preemptive adjustments to [trading strategies](../t/trading_strategies.md).
+Sophisticated algorithms integrate various [inflation](../i/inflation.md) indicators such as CPI data, producer price [index](../i/index_instrument.md) (PPI), [commodity](../c/commodity.md) prices, and central [bank](../b/bank.md) policies. [Predictive modeling](../p/predictive_modeling.md) using machine learning can forecast potential inflationary trends, enabling preemptive adjustments to [trading strategies](../t/trading_strategies.md).
 
 ### Example: Algorithmic Framework for Zero Inflation Strategy
 

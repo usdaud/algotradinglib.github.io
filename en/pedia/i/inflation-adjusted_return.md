@@ -4,7 +4,7 @@
 
 ## Understanding Inflation
 
-[Inflation](../i/inflation.md) refers to the general rise in the prices of goods and services in an [economy](../e/economy.md) over a period. It is measured by various indices, most commonly the Consumer Price [Index](../i/index.md) (CPI) and the Producer Price [Index](../i/index.md) (PPI). [Inflation](../i/inflation.md) can erode the [value](../v/value.md) of [money](../m/money.md), meaning that a unit of [currency](../c/currency.md) [will](../w/will.md) buy fewer goods and services in the future than it does today. Understanding [inflation](../i/inflation.md) is crucial for investors as it affects the real [value](../v/value.md) of their investments.
+[Inflation](../i/inflation.md) refers to the general rise in the prices of goods and services in an [economy](../e/economy.md) over a period. It is measured by various indices, most commonly the Consumer Price [Index](../i/index_instrument.md) (CPI) and the Producer Price [Index](../i/index_instrument.md) (PPI). [Inflation](../i/inflation.md) can erode the [value](../v/value.md) of [money](../m/money.md), meaning that a unit of [currency](../c/currency.md) [will](../w/will.md) buy fewer goods and services in the future than it does today. Understanding [inflation](../i/inflation.md) is crucial for investors as it affects the real [value](../v/value.md) of their investments.
 
 ## Importance of Inflation-Adjusted Return
 

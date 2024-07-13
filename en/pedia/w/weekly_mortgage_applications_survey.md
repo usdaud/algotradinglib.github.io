@@ -36,11 +36,11 @@ The survey employs a [robust](../r/robust.md) methodology to ensure accuracy and
 
 ### 1. Mortgage Application Volume Index
 
-The [Mortgage](../m/mortgage.md) Application [Volume](../v/volume.md) [Index](../i/index.md) is a key component of the survey. It includes several sub-indices that measure different aspects of application activity:
+The [Mortgage](../m/mortgage.md) Application [Volume](../v/volume.md) [Index](../i/index_instrument.md) is a key component of the survey. It includes several sub-indices that measure different aspects of application activity:
 
-- **[Market](../m/market.md) Composite [Index](../i/index.md)**: Measures the overall [volume](../v/volume.md) of [mortgage](../m/mortgage.md) applications.
-- **[Refinance](../r/refinance.md) [Index](../i/index.md)**: Tracks the [volume](../v/volume.md) of refinancing applications. This is critical as it provides insights into homeowner behavior in response to [interest rate](../i/interest_rate.md) changes.
-- **Purchase [Index](../i/index.md)**: Measures the [volume](../v/volume.md) of applications for [home](../h/home.md) purchases, indicating the level of [demand](../d/demand.md) in the housing [market](../m/market.md).
+- **[Market](../m/market.md) Composite [Index](../i/index_instrument.md)**: Measures the overall [volume](../v/volume.md) of [mortgage](../m/mortgage.md) applications.
+- **[Refinance](../r/refinance.md) [Index](../i/index_instrument.md)**: Tracks the [volume](../v/volume.md) of refinancing applications. This is critical as it provides insights into homeowner behavior in response to [interest rate](../i/interest_rate.md) changes.
+- **Purchase [Index](../i/index_instrument.md)**: Measures the [volume](../v/volume.md) of applications for [home](../h/home.md) purchases, indicating the level of [demand](../d/demand.md) in the housing [market](../m/market.md).
 
 ### 2. Mortgage Rates and Terms
 

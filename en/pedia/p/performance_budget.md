@@ -48,7 +48,7 @@ When setting a performance [budget](../b/budget.md), it is essential to focus on
 
 ### Step 1: Identify Key Metrics
 
-Determine which [performance metrics](../p/performance_metrics.md) are most crucial for your website or application. This should be based on your specific needs, target audience, and [business](../b/business.md) goals. Common metrics include [Load](../l/load.md) Time, TTFB, TTI, FCP, Speed [Index](../i/index.md), and Total Page Size.
+Determine which [performance metrics](../p/performance_metrics.md) are most crucial for your website or application. This should be based on your specific needs, target audience, and [business](../b/business.md) goals. Common metrics include [Load](../l/load.md) Time, TTFB, TTI, FCP, Speed [Index](../i/index_instrument.md), and Total Page Size.
 
 ### Step 2: Gather Baseline Data
 

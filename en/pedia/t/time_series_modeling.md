@@ -83,7 +83,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves trading a portfolio of secur
 
 ### Momentum Trading
 
-[Momentum trading](../m/momentum_trading.md) strategies [capitalize](../c/capitalize.md) on persistent trends in [time series](../t/time_series.md) data. [Momentum indicators](../m/momentum_indicators.md) like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and On-Balance [Volume](../v/volume.md) (OBV) rely on [time series analysis](../t/time_series_analysis.md).
+[Momentum trading](../m/momentum_trading.md) strategies [capitalize](../c/capitalize.md) on persistent trends in [time series](../t/time_series.md) data. [Momentum indicators](../m/momentum_indicators.md) like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and On-Balance [Volume](../v/volume.md) (OBV) rely on [time series analysis](../t/time_series_analysis.md).
 
 ### Market Microstructure Analysis
 

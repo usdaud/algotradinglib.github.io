@@ -1,6 +1,6 @@
 # 1-Day RSI (Relative Strength Index)
 
-The 1-Day [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) developed by J. Welles Wilder Jr. in 1978, which measures the speed and change of price movements. The RSI oscillates between zero and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md). The "1-Day" RSI specifically refers to the calculation of RSI over a one-day period, which provides a short-term view of [market](../m/market.md) [momentum](../m/momentum.md) and potential price reversals.
+The 1-Day [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) developed by J. Welles Wilder Jr. in 1978, which measures the speed and change of price movements. The RSI oscillates between zero and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md). The "1-Day" RSI specifically refers to the calculation of RSI over a one-day period, which provides a short-term view of [market](../m/market.md) [momentum](../m/momentum.md) and potential price reversals.
 
 ## Calculation of 1-Day RSI
 

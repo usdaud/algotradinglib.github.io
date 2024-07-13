@@ -37,7 +37,7 @@ Many jobbers utilize [algorithmic trading](../a/accountability.md) to [handle](.
 Jobbers often rely on a suite of [technical indicators](../t/technical_indicator.md) to guide their trades. Some commonly used indicators include:
 - **Moving Averages**: Helps in identifying trending markets or mean-reversion opportunities.
 - **[Bollinger Bands](../b/bollinger_band.md)**: Assists in spotting [volatility](../v/volatility.md) and [overbought](../o/overbought.md)/[oversold](../o/oversold.md) conditions.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements.
 
 ### Market Research
 

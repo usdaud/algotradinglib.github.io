@@ -51,7 +51,7 @@ Machine learning provides advanced tools for [pattern recognition](../p/pattern_
 ### 3. Technical Indicators
 [Technical indicators](../t/technical_indicators.md) are mathematical calculations based on historical price and [volume](../v/volume.md) data:
 - **Moving Averages**: Simple Moving Average (SMA), Exponential Moving Average (EMA) used to smooth out price data.
-- **Oscillators**: [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), [Stochastic Oscillator](../s/stochastic_oscillator.md) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **Oscillators**: [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [Stochastic Oscillator](../s/stochastic_oscillator.md) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Volume](../v/volume.md)-Based Indicators**: On-Balance [Volume](../v/volume.md) (OBV), Accumulation/[Distribution](../d/distribution.md) Line to confirm price trends through [volume analysis](../v/volume_analysis.md).
 
 ## Examples of Application

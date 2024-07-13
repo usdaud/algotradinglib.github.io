@@ -8,7 +8,7 @@ Futures are standardized financial contracts that obligate the buyer to purchase
 
 The key components of a [futures contract](../f/futures_contract.md) include:
 
-1. **[Underlying Asset](../u/underlying_asset.md)**: The specific [commodity](../c/commodity.md), [financial instrument](../f/financial_instrument.md), or [index](../i/index.md) that the [futures contract](../f/futures_contract.md) represents.
+1. **[Underlying Asset](../u/underlying_asset.md)**: The specific [commodity](../c/commodity.md), [financial instrument](../f/financial_instrument.md), or [index](../i/index_instrument.md) that the [futures contract](../f/futures_contract.md) represents.
 2. **Contract Size**: The quantity of the [underlying asset](../u/underlying_asset.md) that the contract represents.
 3. **[Expiration Date](../e/expiration_date.md)**: The date on which the contract is settled.
 4. **Settlement**: The process of fulfilling the terms of the contract, either through [physical delivery](../p/physical_delivery_in_trading.md) of the [asset](../a/asset.md) or through cash settlement.
@@ -26,7 +26,7 @@ These contracts cover financial instruments or indices rather than physical comm
 
 ### Stock Index Futures
 
-These are [futures contracts](../f/futures_contracts.md) based on a stock [index](../i/index.md), such as the S&P 500 or the [NASDAQ](../n/nasdaq.md)-100. Rather than delivering [stocks](../s/stock.md), these contracts are usually settled in cash.
+These are [futures contracts](../f/futures_contracts.md) based on a stock [index](../i/index_instrument.md), such as the S&P 500 or the [NASDAQ](../n/nasdaq.md)-100. Rather than delivering [stocks](../s/stock.md), these contracts are usually settled in cash.
 
 ### Currency Futures
 

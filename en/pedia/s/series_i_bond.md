@@ -13,7 +13,7 @@ The [U.S. Treasury](../u/u.s._treasury.md) introduced I Bonds to provide America
 The [interest rate](../i/interest_rate.md) on an I [Bond](../b/bond.md) consists of two parts: a fixed rate and an [inflation](../i/inflation.md) rate.
 
 - **Fixed Rate**: The fixed rate remains the same for the life of the [bond](../b/bond.md). It is determined at the time of purchase and is influenced by prevailing [interest](../i/interest.md) rates and [economic conditions](../e/economic_conditions.md).
-- **[Inflation](../i/inflation.md) Rate**: The [inflation](../i/inflation.md) rate is adjusted semi-annually (every May and November) based on changes in the Consumer Price [Index](../i/index.md) for All Urban Consumers (CPI-U). This rate helps to ensure the [bond](../b/bond.md)’s [value](../v/value.md) keeps up with [inflation](../i/inflation.md).
+- **[Inflation](../i/inflation.md) Rate**: The [inflation](../i/inflation.md) rate is adjusted semi-annually (every May and November) based on changes in the Consumer Price [Index](../i/index_instrument.md) for All Urban Consumers (CPI-U). This rate helps to ensure the [bond](../b/bond.md)’s [value](../v/value.md) keeps up with [inflation](../i/inflation.md).
 
 The composite rate combines these two rates and is calculated using the following formula:
 \[ \text{Composite Rate} = \text{Fixed Rate} + (2 \times \text{[Inflation](../i/inflation.md) Rate}) + (\text{Fixed Rate} \times \text{[Inflation](../i/inflation.md) Rate}) \]

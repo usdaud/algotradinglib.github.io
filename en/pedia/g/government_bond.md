@@ -22,7 +22,7 @@ Zero-coupon bonds are government bonds that do not pay periodic [interest](../i/
 
 ### Inflation-Indexed Bonds (TIPS)
 
-Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) are government bonds designed to protect investors from [inflation](../i/inflation.md). The [principal](../p/principal.md) [value](../v/value.md) of TIPS is adjusted based on changes in the Consumer Price [Index](../i/index.md) (CPI). TIPS provide semi-annual [interest](../i/interest.md) payments, which are calculated based on the adjusted [principal](../p/principal.md). This means that both the [principal](../p/principal.md) and [interest](../i/interest.md) payments of TIPS increase with [inflation](../i/inflation.md) and decrease with [deflation](../d/deflation.md).
+Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) are government bonds designed to protect investors from [inflation](../i/inflation.md). The [principal](../p/principal.md) [value](../v/value.md) of TIPS is adjusted based on changes in the Consumer Price [Index](../i/index_instrument.md) (CPI). TIPS provide semi-annual [interest](../i/interest.md) payments, which are calculated based on the adjusted [principal](../p/principal.md). This means that both the [principal](../p/principal.md) and [interest](../i/interest.md) payments of TIPS increase with [inflation](../i/inflation.md) and decrease with [deflation](../d/deflation.md).
 
 ## Features and Characteristics
 

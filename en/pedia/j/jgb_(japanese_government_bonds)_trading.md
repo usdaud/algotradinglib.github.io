@@ -18,7 +18,7 @@ Long-term JGBs have maturities of more than ten years, with some reaching up to 
 
 ##### 4. Inflation-Indexed JGBs
 
-[Inflation](../i/inflation.md)-indexed JGBs, also known as JGBi, are designed to protect investors from [inflation](../i/inflation.md). The [principal](../p/principal.md) and [interest](../i/interest.md) payments on these bonds are adjusted based on changes in the Consumer Price [Index](../i/index.md) (CPI). This feature makes them an attractive option for investors concerned about [inflation](../i/inflation.md) eroding the [purchasing power](../p/purchasing_power.md) of their investments.
+[Inflation](../i/inflation.md)-indexed JGBs, also known as JGBi, are designed to protect investors from [inflation](../i/inflation.md). The [principal](../p/principal.md) and [interest](../i/interest.md) payments on these bonds are adjusted based on changes in the Consumer Price [Index](../i/index_instrument.md) (CPI). This feature makes them an attractive option for investors concerned about [inflation](../i/inflation.md) eroding the [purchasing power](../p/purchasing_power.md) of their investments.
 
 #### Market Dynamics
 

@@ -56,7 +56,7 @@ Divergences between price and the VO can be powerful signals. A [bullish diverge
 The VO is rarely used in isolation. To improve the accuracy of its signals, it can be combined with other [technical indicators](../t/technical_indicators.md), such as:
 
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD):** To confirm [trend](../t/trend.md) strength and potential reversals.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** To gauge [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** To gauge [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Bollinger Bands](../b/bollinger_bands.md):** For identifying [breakout](../b/breakout.md) points when combined with [volume](../v/volume.md) integration from VO.
 
 ## Example: Real-World Application in Algorithmic Trading

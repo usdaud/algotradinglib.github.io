@@ -18,7 +18,7 @@ A [fixed-rate mortgage](../f/fixed-rate_mortgage.md) is characterized by an [int
 
 ### Adjustable-Rate Mortgage (ARM)
 
-An adjustable-rate [mortgage](../m/mortgage.md) has an [interest rate](../i/interest_rate.md) that changes periodically based on [market](../m/market.md) conditions. ARMs typically [offer](../o/offer.md) a lower initial [interest rate](../i/interest_rate.md) compared to fixed-rate mortgages. The rate adjustment is based on a specific [index](../i/index.md) or [benchmark](../b/benchmark.md) plus a set [margin](../m/margin.md).
+An adjustable-rate [mortgage](../m/mortgage.md) has an [interest rate](../i/interest_rate.md) that changes periodically based on [market](../m/market.md) conditions. ARMs typically [offer](../o/offer.md) a lower initial [interest rate](../i/interest_rate.md) compared to fixed-rate mortgages. The rate adjustment is based on a specific [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md) plus a set [margin](../m/margin.md).
 
 #### Types of ARMs
 - **Hybrid ARMs**: These have a fixed period followed by an adjustable period (e.g., 5/1 ARM means a fixed rate for five years, then adjusting annually).

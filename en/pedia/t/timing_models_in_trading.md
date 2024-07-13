@@ -8,7 +8,7 @@ In the world of [finance](../f/finance.md), where fortunes are made and lost in 
 
 ## Key Components of Timing Models
 
-1. **[Market Indicators](../m/market_indicators.md)**: [Timing models](../t/timing_models.md) often rely on a set of [market indicators](../m/market_indicators.md) that gauge the overall [market sentiment](../m/market_sentiment.md) and [momentum](../m/momentum.md). These indicators include moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md), among others. Each [indicator](../i/indicator.md) provides unique insights into price trends and [volatility](../v/volatility.md).
+1. **[Market Indicators](../m/market_indicators.md)**: [Timing models](../t/timing_models.md) often rely on a set of [market indicators](../m/market_indicators.md) that gauge the overall [market sentiment](../m/market_sentiment.md) and [momentum](../m/momentum.md). These indicators include moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md), among others. Each [indicator](../i/indicator.md) provides unique insights into price trends and [volatility](../v/volatility.md).
 
 2. **Signal Generation**: At the heart of [timing models](../t/timing_models.md) is the generation of buy or sell signals based on predefined criteria. These signals are derived from the analysis of [market indicators](../m/market_indicators.md) and other data inputs. Signal generation can be rule-based, where specific thresholds trigger trades, or model-based, involving more complex algorithms.
 

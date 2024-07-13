@@ -14,7 +14,7 @@ Ownership of units in a unit [trust](../t/trust.md) gives the unitholder a propo
   
 - **Balanced Funds**: These funds diversify their investments across both [equity](../e/equity.md) and fixed-[income](../i/income.md) securities, aiming for a balance of [capital](../c/capital.md) growth and [income](../i/income.md) generation.
   
-- **[Index](../i/index.md) Funds**: These funds aim to replicate the performance of a specific stock [market index](../m/market_index.md), such as the S&P 500 or the FTSE 100, by holding a similar portfolio of assets as the [index](../i/index.md).
+- **[Index](../i/index_instrument.md) Funds**: These funds aim to replicate the performance of a specific stock [market index](../m/market_index.md), such as the S&P 500 or the FTSE 100, by holding a similar portfolio of assets as the [index](../i/index_instrument.md).
   
 - **[Real Estate](../r/real_estate.md) Investment Trusts (REITs)**: These funds invest in [real estate](../r/real_estate.md) properties, aiming to generate both rental [income](../i/income.md) and [capital](../c/capital.md) appreciation from the properties in their portfolio.
 
@@ -116,7 +116,7 @@ Regulatory bodies often have mechanisms in place to protect investors in case of
 
 Several well-known financial institutions [offer](../o/offer.md) [unit trusts](../u/unit_trusts.md), each with its own [investment strategy](../i/investment_strategy.md) and focus. Some examples include:
 
-- **Vanguard Group**: Vanguard offers a wide [range](../r/range.md) of [unit trusts](../u/unit_trusts.md) and mutual funds, focusing on low-cost [index](../i/index.md) funds and actively managed funds. More information can be found on their official website: [Vanguard Group](https://www.vanguard.com)
+- **Vanguard Group**: Vanguard offers a wide [range](../r/range.md) of [unit trusts](../u/unit_trusts.md) and mutual funds, focusing on low-cost [index](../i/index_instrument.md) funds and actively managed funds. More information can be found on their official website: [Vanguard Group](https://www.vanguard.com)
   
 - **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity provides a variety of [unit trusts](../u/unit_trusts.md), including [equity](../e/equity.md), [bond](../b/bond.md), and balanced funds. Fidelity is known for its extensive research and [fund](../f/fund.md) management expertise. More information can be found on their official website: [Fidelity Investments](https://www.fidelity.com)
   

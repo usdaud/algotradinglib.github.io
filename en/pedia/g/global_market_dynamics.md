@@ -5,12 +5,12 @@ Global [market dynamics](../m/market_dynamics.md) refer to the patterns, activit
 ## Components of Global Market Dynamics
 
 ### 1. Macroeconomic Indicators
-Macroeconomic indicators are [statistics](../s/statistics.md) that indicate the current status of the [economy](../e/economy.md) of a state according to a particular area of the [economy](../e/economy.md) (https://www.imf.org/external/[index](../i/index.md).htm). These include:
+Macroeconomic indicators are [statistics](../s/statistics.md) that indicate the current status of the [economy](../e/economy.md) of a state according to a particular area of the [economy](../e/economy.md) (https://www.imf.org/external/[index](../i/index_instrument.md).htm). These include:
 - **Gross Domestic Product (GDP)**
 - **[Unemployment](../u/unemployment.md) Rates**
 - **[Inflation](../i/inflation.md) Rates**
 - **[Interest](../i/interest.md) Rates**
-- **Consumer Confidence [Index](../i/index.md) (CCI)**
+- **Consumer Confidence [Index](../i/index_instrument.md) (CCI)**
 
 These indicators provide insights into the economic health and are often used by traders to predict [market](../m/market.md) movements.
 

@@ -10,9 +10,9 @@ The primary objective of a Cost-of-Living Adjustment is to preserve the recipien
 
 [Inflation](../i/inflation.md) refers to the general increase in prices and fall in the [purchasing power](../p/purchasing_power.md) of [currency](../c/currency.md). It is quantified using various indices:
 
-- **Consumer Price [Index](../i/index.md) (CPI)**: Reflects the average change over time in the prices paid by urban consumers for a [basket of goods](../b/basket_of_goods.md) and services.
-- **Producer Price [Index](../i/index.md) (PPI)**: Measures the average change over time in the selling prices received by domestic producers for their output.
-- **Personal Consumption Expenditures Price [Index](../i/index.md) (PCE)**: Considers changes in the prices of goods and services consumed by individuals.
+- **Consumer Price [Index](../i/index_instrument.md) (CPI)**: Reflects the average change over time in the prices paid by urban consumers for a [basket of goods](../b/basket_of_goods.md) and services.
+- **Producer Price [Index](../i/index_instrument.md) (PPI)**: Measures the average change over time in the selling prices received by domestic producers for their output.
+- **Personal Consumption Expenditures Price [Index](../i/index_instrument.md) (PCE)**: Considers changes in the prices of goods and services consumed by individuals.
 
 ## Applications of COLA
 
@@ -38,7 +38,7 @@ Some investment products, such as [inflation](../i/inflation.md)-indexed bonds (
 
 ### Determining the Index
 
-The choice of [inflation](../i/inflation.md) [index](../i/index.md) significantly influences COLA. For example, the U.S. [Social Security](../s/social_security.md) Administration uses the CPI-W (Consumer Price [Index](../i/index.md) for Urban Wage Earners and Clerical Workers) to determine annual COLA adjustments.
+The choice of [inflation](../i/inflation.md) [index](../i/index_instrument.md) significantly influences COLA. For example, the U.S. [Social Security](../s/social_security.md) Administration uses the CPI-W (Consumer Price [Index](../i/index_instrument.md) for Urban Wage Earners and Clerical Workers) to determine annual COLA adjustments.
 
 ### Formula for COLA
 
@@ -49,8 +49,8 @@ COLA = (Current CPI - Previous CPI) / Previous CPI * 100
 ```
 
 Where:
-- Current CPI is the Consumer Price [Index](../i/index.md) at the time of adjustment.
-- Previous CPI is the Consumer Price [Index](../i/index.md) during the previous evaluation period.
+- Current CPI is the Consumer Price [Index](../i/index_instrument.md) at the time of adjustment.
+- Previous CPI is the Consumer Price [Index](../i/index_instrument.md) during the previous evaluation period.
 
 For a more detailed methodology on calculating COLA, refer to resources like [Bureau of Labor Statistics](https://www.bls.gov/).
 

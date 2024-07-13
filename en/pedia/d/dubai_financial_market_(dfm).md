@@ -42,11 +42,11 @@ The Dubai Financial [Market](../m/market.md) operates under the regulatory overs
 
 DFM also maintains several indices as benchmarks for [market](../m/market.md) performance:
 
-1. **DFM General [Index](../i/index.md) (DFMGI)**: The primary [index](../i/index.md) that tracks the performance of companies [listed](../l/listed.md) on the DFM.
+1. **DFM General [Index](../i/index_instrument.md) (DFMGI)**: The primary [index](../i/index_instrument.md) that tracks the performance of companies [listed](../l/listed.md) on the DFM.
    
 2. **Sectoral Indices**: Various sectors such as banking, [real estate](../r/real_estate.md), etc., have their own indices to track performance within those particular spheres.
    
-3. **Shariah [Index](../i/index.md)**: This [index](../i/index.md) measures the performance of companies compliant with Islamic Shariah law.
+3. **Shariah [Index](../i/index_instrument.md)**: This [index](../i/index_instrument.md) measures the performance of companies compliant with Islamic Shariah law.
 
 ## Technological and Digital Initiatives
 
@@ -78,7 +78,7 @@ DFM lists several [Exchange](../e/exchange.md)-Traded Funds (ETFs) and mutual fu
 
 ### Technical Analysis for Trading
 
-For [algorithmic trading](../a/accountability.md) enthusiasts, DFM offers comprehensive, real-time data feeds that are crucial for developing and running [trading algorithms](../t/trading_algorithms.md). [Technical indicators](../t/technical_indicator.md) like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), [Bollinger Bands](../b/bollinger_band.md), and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) are some common tools used by traders to make data-driven decisions.
+For [algorithmic trading](../a/accountability.md) enthusiasts, DFM offers comprehensive, real-time data feeds that are crucial for developing and running [trading algorithms](../t/trading_algorithms.md). [Technical indicators](../t/technical_indicator.md) like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [Bollinger Bands](../b/bollinger_band.md), and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) are some common tools used by traders to make data-driven decisions.
 
 ## Corporate Governance and Ethical Trading
 

@@ -32,7 +32,7 @@ In actively managed [bond](../b/bond.md) funds, portfolio managers actively buy 
 
 #### Passive Management
 
-Passive [bond](../b/bond.md) funds, or [index](../i/index.md) funds, aim to replicate the performance of a specific [bond](../b/bond.md) [index](../i/index.md) by holding a similar portfolio of bonds. These funds typically have lower fees but may not [outperform](../o/outperform.md) actively managed funds.
+Passive [bond](../b/bond.md) funds, or [index](../i/index_instrument.md) funds, aim to replicate the performance of a specific [bond](../b/bond.md) [index](../i/index_instrument.md) by holding a similar portfolio of bonds. These funds typically have lower fees but may not [outperform](../o/outperform.md) actively managed funds.
 
 ### Benefits of Bond Funds
 
@@ -50,7 +50,7 @@ Passive [bond](../b/bond.md) funds, or [index](../i/index.md) funds, aim to repl
 
 ### Notable Bond Fund Companies
 
-1. **Vanguard:** Known for a wide [range](../r/range.md) of [bond](../b/bond.md) funds, including [index](../i/index.md) and actively managed [options](../o/options.md). [Vanguard Bond Funds](https://investor.vanguard.com/mutual-funds/bond/#/)
+1. **Vanguard:** Known for a wide [range](../r/range.md) of [bond](../b/bond.md) funds, including [index](../i/index_instrument.md) and actively managed [options](../o/options.md). [Vanguard Bond Funds](https://investor.vanguard.com/mutual-funds/bond/#/)
 2. **BlackRock:** Offers a variety of [bond](../b/bond.md) funds through its [iShares](../i/ishares.md) brand, encompassing government, corporate, and [municipal bonds](../m/municipal_bonds.md). [BlackRock Bond Funds](https://www.blackrock.com/us/individual/products/etf-investments#!type=ishares&style=ishares&view=keyFacts&categoryId=431791)
 3. **Fidelity:** Provides a broad array of [bond](../b/bond.md) mutual funds, focusing on various [bond](../b/bond.md) sectors and [credit](../c/credit.md) qualities. [Fidelity Bond Funds](https://www.fidelity.com/mutual-funds/bond-funds/overview)
 4. **PIMCO:** A leading global [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in active fixed-[income](../i/income.md) management. [PIMCO Bond Funds](https://www.pimco.com/en-us/investments/mutual-funds)

@@ -59,7 +59,7 @@ The steps to calculate [realized volatility](../r/realized_volatility.md) are:
 
 #### Volatility Index (VIX)
 
-The VIX, or the [Volatility](../v/volatility.md) [Index](../i/index.md), is commonly referred to as the “fear gauge” of the [market](../m/market.md). It represents the [market](../m/market.md)'s expectation of 30-day forward-looking [volatility](../v/volatility.md), as derived from S&P 500 [index options](../i/index_options.md). The VIX is calculated by the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE).
+The VIX, or the [Volatility](../v/volatility.md) [Index](../i/index_instrument.md), is commonly referred to as the “fear gauge” of the [market](../m/market.md). It represents the [market](../m/market.md)'s expectation of 30-day forward-looking [volatility](../v/volatility.md), as derived from S&P 500 [index options](../i/index_options.md). The VIX is calculated by the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE).
 
 To calculate the VIX:
 1. **Option Prices**: Collect S&P 500 [index option](../i/index_option.md) prices with varying strike prices.

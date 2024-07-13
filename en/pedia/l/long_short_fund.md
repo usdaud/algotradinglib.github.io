@@ -35,7 +35,7 @@ While [leverage](../l/leverage.md) can amplify returns, it also increases the [r
 ## Performance Metrics
 
 ### Absolute Returns
-Unlike mutual funds that often aim to beat a specific [benchmark](../b/benchmark.md) [index](../i/index.md), Long/Short Funds focus on generating positive returns in any [market](../m/market.md) condition. Performance is measured by absolute returns rather than relative performance.
+Unlike mutual funds that often aim to beat a specific [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), Long/Short Funds focus on generating positive returns in any [market](../m/market.md) condition. Performance is measured by absolute returns rather than relative performance.
 
 ### Alpha and Beta
 - **[Alpha](../a/alpha.md):** Represents the [fund](../f/fund.md)’s performance relative to its [expected return](../e/expected_return.md) based on [market](../m/market.md) movements. A positive [alpha](../a/alpha.md) indicates that the [fund](../f/fund.md) has outperformed what was expected given its [market exposure](../m/market_exposure.md).

@@ -63,7 +63,7 @@ Large financial institutions also engage in carry trades, often as part of their
 ### Identifying Opportunities
 
 - **[Interest Rate](../i/interest_rate.md) Differentials**: The foundation of identifying [carry trade](../c/carry_trade.md) opportunities is through differential analysis. Automated tools and algorithms can scan the global [market](../m/market.md) to highlight potential trades.
-- **[Trend Analysis](../t/trend_analysis.md)**: [Technical analysis](../t/technical_analysis.md), including the use of moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and other indicators, helps identify favorable [currency](../c/currency.md) trends.
+- **[Trend Analysis](../t/trend_analysis.md)**: [Technical analysis](../t/technical_analysis.md), including the use of moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and other indicators, helps identify favorable [currency](../c/currency.md) trends.
 - **Macro-[economic Indicators](../e/economic_indicators.md)**: Economic data such as GDP growth, [inflation](../i/inflation.md) rates, and employment [statistics](../s/statistics.md) are crucial for determining future [interest rate](../i/interest_rate.md) changes.
 
 ### Risk Management

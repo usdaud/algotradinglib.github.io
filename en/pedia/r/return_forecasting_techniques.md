@@ -44,7 +44,7 @@
 
    - **Moving Averages**: Techniques like Simple Moving Averages (SMA) and Exponential Moving Averages (EMA) are used to smooth out price data to identify trends.
    
-   - **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+   - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 7. **Hybrid Models**
    Hybrid models combine [multiple](../m/multiple.md) [forecasting](../f/forecasting.md) techniques to enhance prediction accuracy.

@@ -30,7 +30,7 @@ The term "cross-[asset](../a/asset.md)" refers to the trading and analysis of mo
 
 4. **FX-[Equity](../e/equity.md) [Arbitrage](../a/arbitrage.md)**: This method employs strategies based on the [currency](../c/currency.md) movements relative to a country's [equity](../e/equity.md) markets. For example, if the [Euro](../e/euro.md) strengthens against the dollar, European [stocks](../s/stock.md) might rise.
 
-5. **[Index](../i/index.md) [Arbitrage](../a/arbitrage.md)**: This involves taking advantage of price discrepancies between individual [stocks](../s/stock.md) and the stock indices [futures contracts](../f/futures_contracts.md).
+5. **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md)**: This involves taking advantage of price discrepancies between individual [stocks](../s/stock.md) and the stock indices [futures contracts](../f/futures_contracts.md).
 
 ## Challenges and Risks
 

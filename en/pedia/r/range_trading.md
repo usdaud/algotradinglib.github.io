@@ -16,7 +16,7 @@ Resistance, conversely, is a [price level](../p/price_level.md) where a [securit
 
 ### Identifying the Range
 
-The first step in [range](../r/range.md) trading is to identify securities that are trading within a [range](../r/range.md). This can be observed through price charts, where prices fluctuate between [support and resistance](../s/support_and_resistance.md) levels over a period of time. Traders utilize various [technical analysis](../t/technical_analysis.md) tools, such as trendlines, moving averages, [Bollinger Bands](../b/bollinger_bands.md), and the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), to identify these ranges.
+The first step in [range](../r/range.md) trading is to identify securities that are trading within a [range](../r/range.md). This can be observed through price charts, where prices fluctuate between [support and resistance](../s/support_and_resistance.md) levels over a period of time. Traders utilize various [technical analysis](../t/technical_analysis.md) tools, such as trendlines, moving averages, [Bollinger Bands](../b/bollinger_bands.md), and the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), to identify these ranges.
 
 ### Trading the Range
 

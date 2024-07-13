@@ -74,9 +74,9 @@ Various tools and software can be used to create line graphs, ranging from simpl
 
 ## Case Study
 
-Consider a trading [firm](../f/firm.md) analyzing the performance of the S&P 500 [index](../i/index.md).
+Consider a trading [firm](../f/firm.md) analyzing the performance of the S&P 500 [index](../i/index_instrument.md).
 
-1. **Data Collection**: Historical closing prices of the S&P 500 [index](../i/index.md) are collected over the past decade.
+1. **Data Collection**: Historical closing prices of the S&P 500 [index](../i/index_instrument.md) are collected over the past decade.
 2. **Creating the Line Graph**: Using Python’s Pandas and Matplotlib libraries, a line graph is created. 
     ```python
     [import](../i/import.md) pandas as pd
@@ -89,7 +89,7 @@ Consider a trading [firm](../f/firm.md) analyzing the performance of the S&P 500
     # Plotting the line graph
     plt.figure(figsize=(12, 6))
     plt.plot(close_prices)
-    plt.title('S&P 500 [Index](../i/index.md) Closing Prices Over the Last Decade')
+    plt.title('S&P 500 [Index](../i/index_instrument.md) Closing Prices Over the Last Decade')
     plt.xlabel('Date')
     plt.ylabel('Closing Price')
     plt.grid()

@@ -12,7 +12,7 @@ There are several types of permanent [life insurance](../l/life_insurance.md), e
 
 ### Universal Life Insurance
 
-[Universal life insurance](../u/universal_life_insurance.md) adds flexibility to the traditional [whole life insurance](../w/whole_life_insurance.md) model. It allows policyholders to adjust their [premium](../p/premium.md) payments and [death benefit](../d/death_benefit.md) amounts, given that there are sufficient funds in the policy's cash [value](../v/value.md) account. [Universal life insurance](../u/universal_life_insurance.md) policies also [accrue](../a/accrue.md) cash [value](../v/value.md), but the [interest rate](../i/interest_rate.md) is often variable, based on prevailing [market](../m/market.md) rates or an [index](../i/index.md).
+[Universal life insurance](../u/universal_life_insurance.md) adds flexibility to the traditional [whole life insurance](../w/whole_life_insurance.md) model. It allows policyholders to adjust their [premium](../p/premium.md) payments and [death benefit](../d/death_benefit.md) amounts, given that there are sufficient funds in the policy's cash [value](../v/value.md) account. [Universal life insurance](../u/universal_life_insurance.md) policies also [accrue](../a/accrue.md) cash [value](../v/value.md), but the [interest rate](../i/interest_rate.md) is often variable, based on prevailing [market](../m/market.md) rates or an [index](../i/index_instrument.md).
 
 ### Variable Life Insurance
 

@@ -20,7 +20,7 @@
 [Technical analysis](../t/technical_analysis.md) involves the study of past [market](../m/market.md) data, primarily price and [volume](../v/volume.md), to forecast future price movements. Key tools and concepts include:
 
 - **[Chart Patterns](../c/chart_patterns.md):** Identifying patterns such as head and shoulders, double tops and bottoms, and triangles to predict future movements.
-- **Indicators and Oscillators:** Utilizing tools like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to identify trends and [momentum](../m/momentum.md).
+- **Indicators and Oscillators:** Utilizing tools like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to identify trends and [momentum](../m/momentum.md).
 - **[Support and Resistance](../s/support_and_resistance.md) Levels:** Determining price levels at which a [security](../s/security.md) tends to stop and reverse.
 
 #### Quantitative Analysis

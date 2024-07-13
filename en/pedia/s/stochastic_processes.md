@@ -12,7 +12,7 @@ A stochastic process is a collection of [random variables](../r/random_variables
 The two primary types of stochastic processes commonly used in [finance](../f/finance.md) are discrete-time and continuous-time processes.
 
 #### Discrete-Time Process
-A discrete-time stochastic process is indexed by a discrete set of times, for example, daily stock prices. The process is defined by `{X_n}`, where `n` represents the time [index](../i/index.md).
+A discrete-time stochastic process is indexed by a discrete set of times, for example, daily stock prices. The process is defined by `{X_n}`, where `n` represents the time [index](../i/index_instrument.md).
 
 #### Continuous-Time Process
 A continuous-time stochastic process is indexed by a continuous variable, often time. An example is the Wiener process (or Brownian motion) `{W(t)}`, which is used to model the continuous and random movement of stock prices over time.

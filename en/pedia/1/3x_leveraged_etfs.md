@@ -1,18 +1,18 @@
 # 3X Leveraged ETFs
 
 ### Introduction
-A 3X leveraged [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) aims to amplify the returns of its [benchmark](../b/benchmark.md) [index](../i/index.md) by three times each day. These financial instruments are designed to deliver triple the daily performance, whether positive or negative, of the [index](../i/index.md) or [asset](../a/asset.md) they are tracking. Leveraged 3X ETFs are particularly popular among traders who seek high-[risk](../r/risk.md), high-reward strategies over short time horizons.
+A 3X leveraged [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) aims to amplify the returns of its [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) by three times each day. These financial instruments are designed to deliver triple the daily performance, whether positive or negative, of the [index](../i/index_instrument.md) or [asset](../a/asset.md) they are tracking. Leveraged 3X ETFs are particularly popular among traders who seek high-[risk](../r/risk.md), high-reward strategies over short time horizons.
 
 ### Mechanics of 3X Leveraged ETFs
 [Leveraged ETFs](../l/leveraged_etfs.md) are complex financial instruments that rely on [derivatives](../d/derivatives.md), such as [options](../o/options.md), [futures contracts](../f/futures_contracts.md), and swaps, to achieve their stated objectives. The key mechanisms that enable [leveraged ETFs](../l/leveraged_etfs.md) to achieve their multiplied returns include:
 
 1. **Daily [Rebalancing](../r/rebalancing.md)**: 
     - [Leveraged ETFs](../l/leveraged_etfs.md) rebalance their portfolios daily to maintain a constant [leverage ratio](../l/leverage_ratio.md). This means that the [fund](../f/fund.md) adjusts its [holdings](../h/holdings.md) at the end of each trading day to ensure it meets its 3X [leverage](../l/leverage.md) target.
-    - Example: If the [benchmark](../b/benchmark.md) [index](../i/index.md) gains 1%, a 3X [leveraged ETF](../l/leveraged_etf.md) would aim to [gain](../g/gain.md) 3% for that day. Conversely, if the [index](../i/index.md) loses 1%, the ETF would aim to lose 3%.
+    - Example: If the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) gains 1%, a 3X [leveraged ETF](../l/leveraged_etf.md) would aim to [gain](../g/gain.md) 3% for that day. Conversely, if the [index](../i/index_instrument.md) loses 1%, the ETF would aim to lose 3%.
   
 2. **Use of [Derivatives](../d/derivatives.md)**: 
     - To amplify returns, 3X [leveraged ETFs](../l/leveraged_etfs.md) extensively use financial [derivatives](../d/derivatives.md) such as [futures](../f/futures.md) and swaps.
-    - These [derivatives](../d/derivatives.md) provide exposure to the [underlying](../u/underlying.md) [index](../i/index.md) while allowing for the [leverage effect](../l/leverage_effect_in_trading.md).
+    - These [derivatives](../d/derivatives.md) provide exposure to the [underlying](../u/underlying.md) [index](../i/index_instrument.md) while allowing for the [leverage effect](../l/leverage_effect_in_trading.md).
 
 3. **[Compounding](../c/compounding.md) Effect**: 
     - The daily reset mechanism leads to [compounding](../c/compounding.md) of returns, which can greatly amplify gains during uptrends and losses during downtrends, especially over [multiple](../m/multiple.md) trading sessions. 
@@ -22,31 +22,31 @@ A 3X leveraged [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) ai
 Several 3X [leveraged ETFs](../l/leveraged_etfs.md) cater to different [market](../m/market.md) segments and [asset](../a/asset.md) classes. Some popular [options](../o/options.md) include:
 
 - **Direxion Daily S&P 500 [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (SPXL)**: 
-  - Tracks the performance of the S&P 500 [Index](../i/index.md) with three times the daily returns.
+  - Tracks the performance of the S&P 500 [Index](../i/index_instrument.md) with three times the daily returns.
   - [Direxion SPXL](https://www.direxion.com/product/direxion-daily-sp-500-bull-3x-shares)
 
 - **ProShares UltraPro QQQ (TQQQ)**: 
-  - Offers three times the daily performance of the [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index.md).
+  - Offers three times the daily performance of the [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index_instrument.md).
   - [ProShares TQQQ](https://www.proshares.com/our-etfs/leveraged-and-inverse/tqqq)
 
 - **Direxion Daily Financial [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (FAS)**: 
-  - Amplifies the returns of the Russell 1000 Financial Services [Index](../i/index.md) by 300%.
+  - Amplifies the returns of the Russell 1000 Financial Services [Index](../i/index_instrument.md) by 300%.
   - [Direxion FAS](https://www.direxion.com/product/direxion-daily-financial-bull-3x-shares)
 
 - **ProShares UltraPro Short S&P 500 (SPXU)**: 
-  - Designed to provide three times the inverse daily [return](../r/return.md) of the S&P 500 [Index](../i/index.md).
+  - Designed to provide three times the inverse daily [return](../r/return.md) of the S&P 500 [Index](../i/index_instrument.md).
   - [ProShares SPXU](https://www.proshares.com/our-etfs/leveraged-and-inverse/spxu)
 
 ### Risk and Considerations
 [Investing](../i/investing.md) in 3X [leveraged ETFs](../l/leveraged_etfs.md) is not without significant risks. Understanding these risks is crucial for any potential [investor](../i/investor.md):
 
 1. **Magnified Losses**: 
-    - Just as gains are amplified, so too are losses. A 3X [leveraged ETF](../l/leveraged_etf.md) [will](../w/will.md) lose [value](../v/value.md) three times as quickly as the [benchmark](../b/benchmark.md) [index](../i/index.md) during [market](../m/market.md) downturns.
-    - Example: A 1% decline in the [index](../i/index.md) results in a 3% decline in the ETF.
+    - Just as gains are amplified, so too are losses. A 3X [leveraged ETF](../l/leveraged_etf.md) [will](../w/will.md) lose [value](../v/value.md) three times as quickly as the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) during [market](../m/market.md) downturns.
+    - Example: A 1% decline in the [index](../i/index_instrument.md) results in a 3% decline in the ETF.
 
 2. **Decay Over Time**: 
     - The daily [rebalancing](../r/rebalancing.md) and [compounding](../c/compounding.md) effect can cause [leveraged ETFs](../l/leveraged_etfs.md) to suffer from [value](../v/value.md) decay over time, especially in volatile markets.
-    - Example: In a choppy [market](../m/market.md), even if the [index](../i/index.md) returns to its original level, the [leveraged ETF](../l/leveraged_etf.md) may end up with a loss due to the cumulative effect of the daily resets.
+    - Example: In a choppy [market](../m/market.md), even if the [index](../i/index_instrument.md) returns to its original level, the [leveraged ETF](../l/leveraged_etf.md) may end up with a loss due to the cumulative effect of the daily resets.
 
 3. **High [Expense](../e/expense.md) Ratios**: 
     - [Leveraged ETFs](../l/leveraged_etfs.md) typically have higher [expense](../e/expense.md) ratios compared to traditional ETFs due to the costs associated with using [derivatives](../d/derivatives.md) and daily [rebalancing](../r/rebalancing.md).

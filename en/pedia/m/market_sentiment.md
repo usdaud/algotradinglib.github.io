@@ -16,7 +16,7 @@ Conversely, bearish sentiment occurs when investors are pessimistic about future
 
 ### Market Indexes
 
-[Market](../m/market.md) indexes, such as the S&P 500, Dow Jones Industrial Average, or [Nasdaq](../n/nasdaq.md) Composite, often serve as broad indicators of [market](../m/market.md) sentiment. A rising [index](../i/index.md) generally indicates bullish sentiment, while a falling [index](../i/index.md) suggests bearish sentiment.
+[Market](../m/market.md) indexes, such as the S&P 500, Dow Jones Industrial Average, or [Nasdaq](../n/nasdaq.md) Composite, often serve as broad indicators of [market](../m/market.md) sentiment. A rising [index](../i/index_instrument.md) generally indicates bullish sentiment, while a falling [index](../i/index_instrument.md) suggests bearish sentiment.
 
 ### Sentiment Surveys
 

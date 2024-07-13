@@ -1,6 +1,6 @@
 # Directional Movement Index (DMI)
 
-The Directional Movement [Index](../i/index.md) (DMI) is a technical [indicator](../i/indicator.md) developed by J. Welles Wilder as part of his book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)," published in 1978. The DMI assesses the strength of a price [trend](../t/trend.md) and helps traders distinguish between trending and non-trending conditions. It serves as a tool for both [trend](../t/trend.md)-following and filtering out [market](../m/market.md) [noise](../n/noise.md), thus aiding in more informed decision-making in [financial markets](../f/financial_market.md).
+The Directional Movement [Index](../i/index_instrument.md) (DMI) is a technical [indicator](../i/indicator.md) developed by J. Welles Wilder as part of his book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)," published in 1978. The DMI assesses the strength of a price [trend](../t/trend.md) and helps traders distinguish between trending and non-trending conditions. It serves as a tool for both [trend](../t/trend.md)-following and filtering out [market](../m/market.md) [noise](../n/noise.md), thus aiding in more informed decision-making in [financial markets](../f/financial_market.md).
 
 ### Components of DMI
 
@@ -26,7 +26,7 @@ The smoothed averages of +DM and -DM over a specified period (commonly 14 days) 
    - \( +DI = \left( \frac{SMMA(+DM)}{TR} \right) \times 100 \)
    - \( -DI = \left( \frac{SMMA(-DM)}{TR} \right) \times 100 \)
 
-Where SMMA refers to the smoothed moving average. The ADX is then computed as the smoothed average of the Directional Movement [Index](../i/index.md) (DX):
+Where SMMA refers to the smoothed moving average. The ADX is then computed as the smoothed average of the Directional Movement [Index](../i/index_instrument.md) (DX):
    - \( DX = \left( \frac{| +DI - -DI |}{+DI + -DI } \right) \times 100 \)
    - \( ADX = SMMA(DX) \)
 
@@ -53,9 +53,9 @@ Crossover points between +DI and -DI are particularly significant:
 
 ### DMI in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems often incorporate DMI as part of complex [trading algorithms](../t/trading_algorithms.md). DMI offers clear quantitative criteria, enabling [trading systems](../t/trading_systems.md) to automatically generate buy or sell signals. By integrating DMI with other indicators like Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), or [Bollinger Bands](../b/bollinger_bands.md), algorithms can enhance decision-making accuracy and potentially improve profitability.
+[Algorithmic trading](../a/algorithmic_trading.md) systems often incorporate DMI as part of complex [trading algorithms](../t/trading_algorithms.md). DMI offers clear quantitative criteria, enabling [trading systems](../t/trading_systems.md) to automatically generate buy or sell signals. By integrating DMI with other indicators like Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), or [Bollinger Bands](../b/bollinger_bands.md), algorithms can enhance decision-making accuracy and potentially improve profitability.
 
-Here are a couple of use cases of the Directional Movement [Index](../i/index.md) in [algorithmic trading](../a/algorithmic_trading.md):
+Here are a couple of use cases of the Directional Movement [Index](../i/index_instrument.md) in [algorithmic trading](../a/algorithmic_trading.md):
 
 #### Use Case 1: Trend Following Systems
 
@@ -80,5 +80,5 @@ Several [algorithmic trading](../a/algorithmic_trading.md) platforms and provide
 
 ### Conclusion
 
-The Directional Movement [Index](../i/index.md) (DMI) is a powerful tool in the arsenal of both manual and algorithmic traders. Its ability to quantify [trend](../t/trend.md) strength and deliver clear buy and sell signals makes it invaluable for crafting sophisticated [trading strategies](../t/trading_strategies.md). When used in conjunction with other [technical indicators](../t/technical_indicators.md), DMI offers enriched insights and [robust](../r/robust.md) trading opportunities, further emphasizing its enduring significance in the world of [financial markets](../f/financial_market.md).
+The Directional Movement [Index](../i/index_instrument.md) (DMI) is a powerful tool in the arsenal of both manual and algorithmic traders. Its ability to quantify [trend](../t/trend.md) strength and deliver clear buy and sell signals makes it invaluable for crafting sophisticated [trading strategies](../t/trading_strategies.md). When used in conjunction with other [technical indicators](../t/technical_indicators.md), DMI offers enriched insights and [robust](../r/robust.md) trading opportunities, further emphasizing its enduring significance in the world of [financial markets](../f/financial_market.md).
 

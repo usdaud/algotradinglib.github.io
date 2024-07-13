@@ -100,7 +100,7 @@ Several platforms and tools facilitate the calculation and analysis of historica
 
 ### Volatility Indices
 
-1. **VIX (CBOE [Volatility](../v/volatility.md) [Index](../i/index.md)):** A measure of the [market](../m/market.md)'s expectation of [volatility](../v/volatility.md) over the next 30 days, based on S&P 500 [index options](../i/index_options.md). While VIX represents future [volatility](../v/volatility.md), it serves as a [benchmark](../b/benchmark.md) for [historical volatility](../h/historical_volatility.md) analysis.
+1. **VIX (CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md)):** A measure of the [market](../m/market.md)'s expectation of [volatility](../v/volatility.md) over the next 30 days, based on S&P 500 [index options](../i/index_options.md). While VIX represents future [volatility](../v/volatility.md), it serves as a [benchmark](../b/benchmark.md) for [historical volatility](../h/historical_volatility.md) analysis.
    - [CBOE VIX](http://www.cboe.com/vix)
 
 ### Quantitative Finance Models

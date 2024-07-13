@@ -1,12 +1,12 @@
 # Headline Inflation
 
 ## Introduction
-[Inflation](../i/inflation.md) is a key [economic indicator](../e/economic_indicator.md) that highlights the rate at which the general level of prices for goods and services is rising and subsequently eroding [purchasing power](../p/purchasing_power.md). One of the most commonly cited metrics to gauge [inflation](../i/inflation.md) is the Consumer Price [Index](../i/index.md) (CPI). Within the realm of CPI, headline [inflation](../i/inflation.md) represents the total [inflation](../i/inflation.md) within an [economy](../e/economy.md), encompassing all goods and services, including those with highly volatile prices such as food and energy.
+[Inflation](../i/inflation.md) is a key [economic indicator](../e/economic_indicator.md) that highlights the rate at which the general level of prices for goods and services is rising and subsequently eroding [purchasing power](../p/purchasing_power.md). One of the most commonly cited metrics to gauge [inflation](../i/inflation.md) is the Consumer Price [Index](../i/index_instrument.md) (CPI). Within the realm of CPI, headline [inflation](../i/inflation.md) represents the total [inflation](../i/inflation.md) within an [economy](../e/economy.md), encompassing all goods and services, including those with highly volatile prices such as food and energy.
 
 ## Consumer Price Index (CPI)
 
 ### Definition
-The Consumer Price [Index](../i/index.md) (CPI) measures the average change over time in the prices paid by urban consumers for a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services. It is a [principal](../p/principal.md) measure of [inflation](../i/inflation.md), providing critical insights for policymakers, businesses, and the general public.
+The Consumer Price [Index](../i/index_instrument.md) (CPI) measures the average change over time in the prices paid by urban consumers for a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services. It is a [principal](../p/principal.md) measure of [inflation](../i/inflation.md), providing critical insights for policymakers, businesses, and the general public.
 
 ### Components of CPI
 CPI is composed of various categories, reflecting goods and services that urban consumers are likely to purchase. Major components include:
@@ -20,7 +20,7 @@ CPI is composed of various categories, reflecting goods and services that urban 
 8. Other Goods and Services
 
 ### Calculation Methodology
-The CPI is calculated by taking price changes for each item in the predetermined [basket of goods](../b/basket_of_goods.md) and averaging them. The goods are [weighted](../w/weighted.md) based on their importance to the average consumer. The [base year](../b/base_year.md)’s price [index](../i/index.md) is usually set to 100, and current CPI can be compared against this base to understand price changes over time.
+The CPI is calculated by taking price changes for each item in the predetermined [basket of goods](../b/basket_of_goods.md) and averaging them. The goods are [weighted](../w/weighted.md) based on their importance to the average consumer. The [base year](../b/base_year.md)’s price [index](../i/index_instrument.md) is usually set to 100, and current CPI can be compared against this base to understand price changes over time.
 
 ## Headline Inflation
 
@@ -71,8 +71,8 @@ In the recent past, headline [inflation](../i/inflation.md) rates have shown sig
 Analysts interpret headline [inflation](../i/inflation.md) data by comparing it against historical trends, economic forecasts, and core [inflation](../i/inflation.md) figures to understand whether observed changes are transient or indicative of longer-term trends.
 
 ## Conclusion
-Headline [inflation](../i/inflation.md), reported in the Consumer Price [Index](../i/index.md), provides a comprehensive view of inflationary pressures in the [economy](../e/economy.md) by including all items in the consumer basket. While it offers an immediate snapshot of price changes affecting consumers, its [volatility](../v/volatility.md) necessitates complementary analysis with core [inflation](../i/inflation.md) to guide policy decisions. Regular monitoring and interpretation of headline [inflation](../i/inflation.md) are crucial for economic planning, [business](../b/business.md) strategy, and informed investment decisions. For more detailed information, you can refer directly to the Bureau of Labor [Statistics](../s/statistics.md) website at [BLS CPI Overview](https://www.bls.gov/cpi/).
+Headline [inflation](../i/inflation.md), reported in the Consumer Price [Index](../i/index_instrument.md), provides a comprehensive view of inflationary pressures in the [economy](../e/economy.md) by including all items in the consumer basket. While it offers an immediate snapshot of price changes affecting consumers, its [volatility](../v/volatility.md) necessitates complementary analysis with core [inflation](../i/inflation.md) to guide policy decisions. Regular monitoring and interpretation of headline [inflation](../i/inflation.md) are crucial for economic planning, [business](../b/business.md) strategy, and informed investment decisions. For more detailed information, you can refer directly to the Bureau of Labor [Statistics](../s/statistics.md) website at [BLS CPI Overview](https://www.bls.gov/cpi/).
 
 ## References
-- U.S. Bureau of Labor [Statistics](../s/statistics.md) (BLS). Consumer Price [Index](../i/index.md) (CPI) Overview. [BLS CPI Overview](https://www.bls.gov/cpi/)
+- U.S. Bureau of Labor [Statistics](../s/statistics.md) (BLS). Consumer Price [Index](../i/index_instrument.md) (CPI) Overview. [BLS CPI Overview](https://www.bls.gov/cpi/)
 - Investopedia. Headline [Inflation](../i/inflation.md) Definition. [Investopedia Headline Inflation](https://www.investopedia.com/terms/h/headline-inflation.asp)

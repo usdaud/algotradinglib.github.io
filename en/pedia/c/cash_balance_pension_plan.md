@@ -4,12 +4,12 @@ A Cash Balance [Pension Plan](../p/pension_plan.md) is a type of retirement plan
 
 ## Understanding Cash Balance Pension Plans
 
-A Cash Balance [Pension Plan](../p/pension_plan.md) defines the benefit in terms of a stated [account balance](../a/account_balance.md). Each participant has an account, which is credited annually with a "pay [credit](../c/credit.md)" (such as a percentage of compensation) and an "[interest](../i/interest.md) [credit](../c/credit.md)" (either a fixed rate or a variable rate that is linked to an [index](../i/index.md)). These credits accumulate over time, thereby increasing the participant's cash balance.
+A Cash Balance [Pension Plan](../p/pension_plan.md) defines the benefit in terms of a stated [account balance](../a/account_balance.md). Each participant has an account, which is credited annually with a "pay [credit](../c/credit.md)" (such as a percentage of compensation) and an "[interest](../i/interest.md) [credit](../c/credit.md)" (either a fixed rate or a variable rate that is linked to an [index](../i/index_instrument.md)). These credits accumulate over time, thereby increasing the participant's cash balance.
 
 ### Key Features
 
 1. **Employer Contributions:** Unlike traditional pension plans where benefits are based on years of service and salary history, Cash Balance Plans are determined by contributions from the employer. 
-2. **[Interest](../i/interest.md) Credits:** The [account balance](../a/account_balance.md) also grows by applying annual [interest](../i/interest.md) credits. Employers typically decide on the [interest](../i/interest.md)-crediting rate, which can [range](../r/range.md) from a [fixed interest rate](../f/fixed_interest_rate.md) or a variable rate pegged to an [index](../i/index.md) like the [U.S. Treasury](../u/u.s._treasury.md) rates.
+2. **[Interest](../i/interest.md) Credits:** The [account balance](../a/account_balance.md) also grows by applying annual [interest](../i/interest.md) credits. Employers typically decide on the [interest](../i/interest.md)-crediting rate, which can [range](../r/range.md) from a [fixed interest rate](../f/fixed_interest_rate.md) or a variable rate pegged to an [index](../i/index_instrument.md) like the [U.S. Treasury](../u/u.s._treasury.md) rates.
 3. **Portability:** One significant feature of a Cash Balance Plan is that it provides employees with an easier to understand, individual [account balance](../a/account_balance.md) which can be rolled over to another retirement account if the employee leaves the company.
 4. **[Vesting](../v/vesting.md):** Similar to other pension plans, Cash Balance Plans have [vesting](../v/vesting.md) schedules. Full [vesting](../v/vesting.md) can be immediate or can occur over a period of time, usually not exceeding 3 years.
 5. **Predictability:** From an employer's perspective, these plans provide more predictable contribution rates compared to traditional defined benefit plans.
