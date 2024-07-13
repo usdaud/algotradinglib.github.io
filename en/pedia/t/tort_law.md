@@ -1,10 +1,10 @@
 # Tort Law
 
-Tort law is a branch of civil law that aims to provide relief to individuals who have suffered harm due to the wrongful acts of others. It establishes a legal framework for determining liability and compensating victims. Unlike criminal law, which deals with offenses against the state, tort law is concerned with private wrongs and disputes between individuals or entities.
+Tort law is a branch of civil law that aims to provide relief to individuals who have suffered harm due to the wrongful acts of others. It establishes a legal framework for determining [liability](../l/liability.md) and compensating victims. Unlike criminal law, which deals with offenses against the state, tort law is concerned with private wrongs and disputes between individuals or entities.
 
 ## Categories of Torts
 
-Torts can be generally classified into three major categories: intentional torts, negligence, and strict liability torts.
+Torts can be generally classified into three major categories: intentional torts, negligence, and strict [liability](../l/liability.md) torts.
 
 ### Intentional Torts
 
@@ -15,18 +15,18 @@ Intentional torts occur when an individual intentionally acts in a way that caus
 - **Battery**: The actual physical impact on another person. 
 
 #### False Imprisonment
-- The unlawful restraint of a person against their will by someone without legal authority or justification.
+- The unlawful restraint of a person against their [will](../w/will.md) by someone without legal authority or justification.
 
 #### Trespass
 - **Trespass to Land**: Unauthorized entry onto another's land.
-- **Trespass to Chattels**: Intentional interference with another person's lawful possession of personal property.
+- **Trespass to Chattels**: Intentional interference with another person's lawful possession of [personal property](../p/personal_property.md).
 
 #### Intentional Infliction of Emotional Distress
 - Extreme and outrageous conduct that intentionally or recklessly causes severe emotional distress to another.
 
 ### Negligence
 
-Negligence occurs when an individual's failure to exercise reasonable care causes harm. The elements required to establish negligence are:
+Negligence occurs when an individual's failure to [exercise](../e/exercise.md) reasonable care causes harm. The elements required to establish negligence are:
 
 #### Duty of Care
 - The obligation to avoid acts or omissions that could foreseeably harm others.
@@ -42,7 +42,7 @@ Negligence occurs when an individual's failure to exercise reasonable care cause
 
 ### Strict Liability Torts
 
-Strict liability torts impose liability without fault. This is typically applied in situations where activities are considered inherently hazardous, and the responsible party is held liable regardless of negligence or intent. Examples include:
+Strict [liability](../l/liability.md) torts impose [liability](../l/liability.md) without fault. This is typically applied in situations where activities are considered inherently hazardous, and the responsible party is held liable regardless of negligence or intent. Examples include:
 
 #### Product Liability
 - Manufacturers and sellers can be held strictly liable for defective products that cause injury, even if they took all possible precautions.
@@ -52,13 +52,13 @@ Strict liability torts impose liability without fault. This is typically applied
 
 ## Defenses in Tort Law
 
-Several defenses can be raised to mitigate or avoid liability in tort cases:
+Several defenses can be raised to mitigate or avoid [liability](../l/liability.md) in tort cases:
 
 ### Consent
 - A defendant may argue that the plaintiff consented to the act that led to harm.
 
 ### Comparative Negligence
-- The plaintiff's own negligence contributed to the harm, which can reduce the liability of the defendant proportionately.
+- The plaintiff's own negligence contributed to the harm, which can reduce the [liability](../l/liability.md) of the defendant proportionately.
 
 ### Contributory Negligence
 - If the plaintiff is found to have contributed to their own harm in certain jurisdictions, they may be barred from recovery altogether.
@@ -90,7 +90,7 @@ Several landmark cases have shaped the understanding and application of tort law
 - Set the precedent for proximate cause in negligence cases in the U.S.
 
 ### Liebeck v. McDonald's Restaurants, P.T.S., Inc., 1994 WL 360309
-- A notable product liability case involving a hot coffee spill, demonstrating the extent of damages that can be awarded.
+- A notable product [liability](../l/liability.md) case involving a hot coffee spill, demonstrating the extent of damages that can be awarded.
 
 ## Modern Developments in Tort Law
 
@@ -120,4 +120,4 @@ Efforts to reform tort law aim to address perceived inefficiencies and inequitie
 
 ## Conclusion
 
-Tort law is a fundamental aspect of the legal system that provides mechanisms for victims to seek redress for harm caused by others. As society and technology evolve, so too will the complexities and applications of tort law, challenging courts and lawmakers to balance the interests of justice, fairness, and economic efficiency.
+Tort law is a fundamental aspect of the legal system that provides mechanisms for victims to seek redress for harm caused by others. As society and technology evolve, so too [will](../w/will.md) the complexities and applications of tort law, challenging courts and lawmakers to balance the interests of justice, fairness, and [economic efficiency](../e/economic_efficiency.md).

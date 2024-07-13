@@ -1,19 +1,19 @@
 # Backtesting with Java
 
-[Backtesting](../b/backtesting.md) is a crucial process in [algorithmic trading](../a/algorithmic_trading.md) where a trading strategy is tested on historical data to verify its viability before applying it in live trading. Essentially, it allows a trader to simulate a trading strategy using past data to gauge how it would have performed. This document delves into [backtesting](../b/backtesting.md) with Java, providing a comprehensive guide on how to implement and utilize [backtesting](../b/backtesting.md) frameworks, and addressing key considerations to ensure accurate and actionable results.
+[Backtesting](../b/backtesting.md) is a crucial process in [algorithmic trading](../a/algorithmic_trading.md) where a [trading strategy](../t/trading_strategy.md) is tested on historical data to verify its viability before applying it in live trading. Essentially, it allows a [trader](../t/trader.md) to simulate a [trading strategy](../t/trading_strategy.md) using past data to gauge how it would have performed. This document delves into [backtesting](../b/backtesting.md) with Java, providing a comprehensive guide on how to implement and utilize [backtesting](../b/backtesting.md) frameworks, and addressing key considerations to ensure accurate and actionable results.
 
 ### Overview of Backtesting
 
-[Backtesting](../b/backtesting.md) involves running a trading strategy against historical market data to see how the strategy would have performed over a specific period. Key components of [backtesting](../b/backtesting.md) include:
+[Backtesting](../b/backtesting.md) involves running a [trading strategy](../t/trading_strategy.md) against historical [market](../m/market.md) data to see how the strategy would have performed over a specific period. Key components of [backtesting](../b/backtesting.md) include:
 
-1. **Historical Data**: Accurate and comprehensive historical market data is essential for reliable [backtesting](../b/backtesting.md) results.
-2. **Trading Strategy**: The algorithm or set of rules that define the trading strategy being tested.
-3. **[Backtesting](../b/backtesting.md) Engine**: Software that executes the trading strategy on the historical data.
-4. **[Performance Metrics](../p/performance_metrics.md)**: Metrics like return, volatility, drawdown, and [Sharpe ratio](../s/sharpe_ratio.md) used to evaluate the strategy's performance.
+1. **Historical Data**: Accurate and comprehensive historical [market](../m/market.md) data is essential for reliable [backtesting](../b/backtesting.md) results.
+2. **[Trading Strategy](../t/trading_strategy.md)**: The algorithm or set of rules that define the [trading strategy](../t/trading_strategy.md) being tested.
+3. **[Backtesting](../b/backtesting.md) Engine**: Software that executes the [trading strategy](../t/trading_strategy.md) on the historical data.
+4. **[Performance Metrics](../p/performance_metrics.md)**: Metrics like [return](../r/return.md), [volatility](../v/volatility.md), [drawdown](../d/drawdown.md), and [Sharpe ratio](../s/sharpe_ratio.md) used to evaluate the strategy's performance.
 
 ### Why Use Java for Backtesting?
 
-Java is a robust, high-performance, and widely-used programming language with several advantages for [backtesting](../b/backtesting.md):
+Java is a [robust](../r/robust.md), high-performance, and widely-used programming language with several advantages for [backtesting](../b/backtesting.md):
 
 - **Performance**: Java's Just-In-Time (JIT) compilation and efficient memory management make it suitable for processing large datasets.
 - **Libraries and Frameworks**: Java has a rich ecosystem of libraries and frameworks that facilitate various aspects of [backtesting](../b/backtesting.md).
@@ -24,16 +24,16 @@ Java is a robust, high-performance, and widely-used programming language with se
 
 1. **Apache Commons Math**: A library providing machine learning and statistical analysis tools. (Website: [Apache Commons Math](http://commons.apache.org/proper/commons-math/))
 2. **JFreeChart**: A free Java chart library that makes it easy to display charts and data visualizations. (Website: [JFreeChart](http://www.jfree.org/jfreechart/))
-3. **TA-Lib**: [Technical Analysis](../t/technical_analysis.md) Library for Java providing a wide variety of [technical analysis](../t/technical_analysis.md) functions. (Website: [TA-Lib](http://ta-lib.org/))
-4. **Market Data Providers**: Various APIs like Alpha Vantage and [Quandl](../q/quandl.md) provide historical market data. (Website: [Alpha Vantage](https://www.alphavantage.co/), [Quandl](https://www.quandl.com/))
+3. **TA-Lib**: [Technical Analysis](../t/technical_analysis.md) Library for Java providing a [wide variety](../w/wide_variety.md) of [technical analysis](../t/technical_analysis.md) functions. (Website: [TA-Lib](http://ta-lib.org/))
+4. **[Market](../m/market.md) Data Providers**: Various APIs like [Alpha](../a/alpha.md) Vantage and [Quandl](../q/quandl.md) provide historical [market](../m/market.md) data. (Website: [Alpha Vantage](https://www.alphavantage.co/), [Quandl](https://www.quandl.com/))
 
 ### Implementing a Backtesting Framework in Java
 
 A straightforward [backtesting](../b/backtesting.md) framework involves the following steps:
 
 1. **Setting Up the Environment**: Install and configure the necessary Java libraries and tools.
-2. **Loading Historical Data**: Fetch historical data from market data providers or local files.
-3. **Coding the Trading Strategy**: Define the trading strategy, including the rules for entering and exiting trades.
+2. **Loading Historical Data**: Fetch historical data from [market](../m/market.md) data providers or local files.
+3. **Coding the [Trading Strategy](../t/trading_strategy.md)**: Define the [trading strategy](../t/trading_strategy.md), including the rules for entering and exiting trades.
 4. **Running the Backtest**: Execute the strategy against the historical data using a [backtesting](../b/backtesting.md) engine.
 5. **Analyzing Results**: Evaluate the performance of the strategy using various metrics.
 
@@ -42,9 +42,9 @@ A straightforward [backtesting](../b/backtesting.md) framework involves the foll
 To get started with Java, you need the Java Development Kit (JDK). Install the JDK from [Oracle's website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html). Additionally, setup an IDE like IntelliJ IDEA or Eclipse to write and manage your Java code efficiently.
 
 ```java
-import java.io.*;
-import java.util.*;
-import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
+[import](../i/import.md) java.io.*;
+[import](../i/import.md) java.util.*;
+[import](../i/import.md) org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 
 public class Backtester {
     // Initialize variables and libraries
@@ -70,25 +70,25 @@ public class DataLoader {
                                         Double.parseDouble(values[3]), Double.parseDouble(values[4]), Long.parseLong(values[5])));
         }
         br.close();
-        return data;
+        [return](../r/return.md) data;
     }
 }
 
 class HistoricalData {
     private String date;
-    private double open;
+    private double [open](../o/open.md);
     private double high;
     private double low;
     private double close;
-    private long volume;
+    private long [volume](../v/volume.md);
 
-    public HistoricalData(String date, double open, double high, double low, double close, long volume) {
+    public HistoricalData(String date, double [open](../o/open.md), double high, double low, double close, long [volume](../v/volume.md)) {
         this.date = date;
-        this.open = open;
+        this.[open](../o/open.md) = [open](../o/open.md);
         this.high = high;
         this.low = low;
         this.close = close;
-        this.volume = volume;
+        this.[volume](../v/volume.md) = [volume](../v/volume.md);
     }
 
     // Getters and setters
@@ -101,8 +101,8 @@ An example moving average crossover strategy:
 
 ```java
 public class MovingAverageStrategy {
-    public List<Trade> generateSignals(List<HistoricalData> data, int shortWindow, int longWindow) {
-        List<Trade> signals = new ArrayList<>();
+    public List<[Trade](../t/trade.md)> generateSignals(List<HistoricalData> data, int shortWindow, int longWindow) {
+        List<[Trade](../t/trade.md)> signals = new ArrayList<>();
         DescriptiveStatistics shortMA = new DescriptiveStatistics(shortWindow);
         DescriptiveStatistics longMA = new DescriptiveStatistics(longWindow);
 
@@ -113,21 +113,21 @@ public class MovingAverageStrategy {
 
             if (i >= longWindow - 1) {
                 if (shortMA.getMean() > longMA.getMean() && signals.isEmpty()) {
-                    signals.add(new Trade(currentData.getDate(), "BUY"));
+                    signals.add(new [Trade](../t/trade.md)(currentData.getDate(), "BUY"));
                 } else if (shortMA.getMean() < longMA.getMean() && signals.get(signals.size() - 1).getType().equals("BUY")) {
-                    signals.add(new Trade(currentData.getDate(), "SELL"));
+                    signals.add(new [Trade](../t/trade.md)(currentData.getDate(), "SELL"));
                 }
             }
         }
-        return signals;
+        [return](../r/return.md) signals;
     }
 }
 
-class Trade {
+class [Trade](../t/trade.md) {
     private String date;
     private String type;
 
-    public Trade(String date, String type) {
+    public [Trade](../t/trade.md)(String date, String type) {
         this.date = date;
         this.type = type;
     }
@@ -147,48 +147,48 @@ public class BacktestEngine {
         List<HistoricalData> marketData = dataLoader.loadData("path_to_your_csv_file.csv");
 
         MovingAverageStrategy strategy = new MovingAverageStrategy();
-        List<Trade> trades = strategy.generateSignals(marketData, 50, 200);
+        List<[Trade](../t/trade.md)> trades = strategy.generateSignals(marketData, 50, 200);
 
         // Process trades to calculate profits and other metrics
         double totalProfit = processTrades(trades, marketData);
-        System.out.println("Total Profit: " + totalProfit);
+        System.out.println("Total [Profit](../p/profit.md): " + totalProfit);
     }
 
-    public static double processTrades(List<Trade> trades, List<HistoricalData> data) {
+    public static double processTrades(List<[Trade](../t/trade.md)> trades, List<HistoricalData> data) {
         double totalProfit = 0.0;
         double buyPrice = 0.0;
-        for (Trade trade : trades) {
+        for ([Trade](../t/trade.md) [trade](../t/trade.md) : trades) {
             for (HistoricalData d : data) {
-                if (d.getDate().equals(trade.getDate())) {
-                    if (trade.getType().equals("BUY")) {
+                if (d.getDate().equals([trade](../t/trade.md).getDate())) {
+                    if ([trade](../t/trade.md).getType().equals("BUY")) {
                         buyPrice = d.getClose();
-                    } else if (trade.getType().equals("SELL")) {
+                    } else if ([trade](../t/trade.md).getType().equals("SELL")) {
                         totalProfit += (d.getClose() - buyPrice);
                     }
                     break;
                 }
             }
         }
-        return totalProfit;
+        [return](../r/return.md) totalProfit;
     }
 }
 ```
 
 #### Step 5: Analyzing Results
 
-After running the backtest, analyze the results using various [performance metrics](../p/performance_metrics.md). Implement or use libraries for metrics like [Sharpe ratio](../s/sharpe_ratio.md), [Sortino ratio](../s/sortino_ratio.md), maximum drawdown, etc.
+After running the backtest, analyze the results using various [performance metrics](../p/performance_metrics.md). Implement or use libraries for metrics like [Sharpe ratio](../s/sharpe_ratio.md), [Sortino ratio](../s/sortino_ratio.md), maximum [drawdown](../d/drawdown.md), etc.
 
 ### Challenges and Considerations
 
 - **Data Quality**: Ensure the historical data is accurate and clean. Incorrect data can lead to misleading backtest results.
-- **Overfitting**: Avoid overfitting the strategy to historical data, which can lead to poor performance in live trading.
-- **Transaction Costs**: Include transaction costs in the backtest to get a realistic view of the strategy's performance.
-- **Market Conditions**: Consider different market conditions (bullish, bearish, and sideways) to evaluate how the strategy performs under various scenarios.
-- **Slippage and Latency**: Factor in slippage and latency to simulate real trading conditions as closely as possible.
+- **[Overfitting](../o/overfitting.md)**: Avoid [overfitting](../o/overfitting.md) the strategy to historical data, which can lead to poor performance in live trading.
+- **[Transaction Costs](../t/transaction_costs.md)**: Include [transaction costs](../t/transaction_costs.md) in the backtest to get a realistic view of the strategy's performance.
+- **[Market](../m/market.md) Conditions**: Consider different [market](../m/market.md) conditions (bullish, bearish, and sideways) to evaluate how the strategy performs under various scenarios.
+- **[Slippage](../s/slippage.md) and Latency**: [Factor](../f/factor.md) in [slippage](../s/slippage.md) and latency to simulate real trading conditions as closely as possible.
 
 ### Conclusion
 
-[Backtesting](../b/backtesting.md) is an essential part of developing an [algorithmic trading](../a/algorithmic_trading.md) strategy, allowing traders to validate their strategies against historical data. Java provides a robust ecosystem for [backtesting](../b/backtesting.md), offering high performance, extensive libraries, and cross-platform compatibility. By following a structured approach and addressing key considerations, traders can develop and test strategies capable of performing well in live markets.
+[Backtesting](../b/backtesting.md) is an essential part of developing an [algorithmic trading](../a/algorithmic_trading.md) strategy, allowing traders to validate their strategies against historical data. Java provides a [robust](../r/robust.md) ecosystem for [backtesting](../b/backtesting.md), [offering](../o/offering.md) high performance, extensive libraries, and cross-platform compatibility. By following a structured approach and addressing key considerations, traders can develop and test strategies capable of performing well in live markets.
 
 ### Further Reading and Resources
 

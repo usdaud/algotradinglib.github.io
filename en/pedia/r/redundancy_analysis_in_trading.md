@@ -1,14 +1,14 @@
 # Redundancy Analysis
 
-Redundancy analysis in trading refers to identifying and managing redundancy within [trading systems](../t/trading_systems.md). Redundancy can have both positive and negative implications, depending on how it is handled. In this context, redundancy pertains to duplicate or overlapping parts within a trading strategy, algorithm, or infrastructure that may not contribute additional value or might even detract from performance.
+Redundancy analysis in trading refers to identifying and managing redundancy within [trading systems](../t/trading_systems.md). Redundancy can have both positive and negative implications, depending on how it is handled. In this context, redundancy pertains to duplicate or overlapping parts within a [trading strategy](../t/trading_strategy.md), algorithm, or [infrastructure](../i/infrastructure.md) that may not contribute additional [value](../v/value.md) or might even detract from performance.
 
 #### Types of Redundancy
 
 1. **Data Redundancy**:
-    - **Definition**: Occurs when the same data is stored in multiple places in the data storage system. 
+    - **Definition**: Occurs when the same data is stored in [multiple](../m/multiple.md) places in the data storage system. 
     - **Examples**: 
-        - Storing the same historical price data in multiple databases.
-        - Collecting the same market feed from different providers without additional benefits.
+        - Storing the same historical price data in [multiple](../m/multiple.md) databases.
+        - Collecting the same [market](../m/market.md) feed from different providers without additional benefits.
     - **Implications**:
         - **Positive**: Ensures data availability in case one source fails.
         - **Negative**: Leads to data management complexity and higher storage costs.
@@ -16,7 +16,7 @@ Redundancy analysis in trading refers to identifying and managing redundancy wit
 2. **Functional Redundancy**:
     - **Definition**: Happens when different components perform the same function within a trading system. 
     - **Examples**:
-        - Multiple algorithms executing the same strategy but on different platforms.
+        - [Multiple](../m/multiple.md) algorithms executing the same strategy but on different platforms.
     - **Implications**:
         - **Positive**: Provides a backup in case of a failure.
         - **Negative**: Results in inefficient resource utilization.
@@ -26,12 +26,12 @@ Redundancy analysis in trading refers to identifying and managing redundancy wit
     - **Examples**:
         - Two moving average crossover strategies operating on similar timeframes.
     - **Implications**:
-        - **Positive**: Potentially reducing risk through diversification.
-        - **Negative**: Could lead to overfitting and unnecessary complexity.
+        - **Positive**: Potentially reducing [risk](../r/risk.md) through [diversification](../d/diversification.md).
+        - **Negative**: Could lead to [overfitting](../o/overfitting.md) and unnecessary complexity.
 
 #### Analyzing Redundancy
 
-Effective redundancy analysis aims to balance the need for backup systems with the efficiency of operations. 
+Effective redundancy analysis aims to balance the need for backup systems with the [efficiency](../e/efficiency.md) of operations. 
 
 1. **[Data Quality Management](../d/data_quality_management.md)**:
     - **Approach**: Ensuring that the data used by [trading algorithms](../t/trading_algorithms.md) is accurate and current.
@@ -45,7 +45,7 @@ Effective redundancy analysis aims to balance the need for backup systems with t
     - **Approach**: Testing [trading algorithms](../t/trading_algorithms.md) on historical data to ensure their effectiveness.
     - **Techniques**:
         - **Cross-Validation**: Splitting data into training and testing sets to evaluate algorithm performance.
-        - **Walk-Forward Analysis**: Continually testing the algorithm with new data to ensure it adapts well to market changes.
+        - **Walk-Forward Analysis**: Continually testing the algorithm with new data to ensure it adapts well to [market](../m/market.md) changes.
     - **Tools**:
         - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides a platform for algo traders to backtest and deploy strategies.
         - **MetaTrader**: Offers [backtesting](../b/backtesting.md) capabilities through its Strategy Tester tool.
@@ -53,7 +53,7 @@ Effective redundancy analysis aims to balance the need for backup systems with t
 3. **System Redundancy Planning**:
     - **Approach**: Ensuring system resilience through careful planning.
     - **Techniques**:
-        - **Load Balancing**: Distributing workloads across multiple systems to prevent overload.
+        - **[Load](../l/load.md) Balancing**: Distributing workloads across [multiple](../m/multiple.md) systems to prevent overload.
         - **Failover Systems**: Implementing backup systems that take over in case of primary system failure.
     - **Tools**:
         - **Amazon Web Services (AWS)**: Provides extensive tools for creating redundant, scalable infrastructures.
@@ -64,13 +64,13 @@ Effective redundancy analysis aims to balance the need for backup systems with t
 To optimize [trading performance](../t/trading_performance.md), managing redundancy involves both elimination of unnecessary duplications and strategic implementation of necessary backups.
 
 1. **[Cost-Benefit Analysis](../c/cost-benefit_analysis_in_trading.md)**:
-    - Examining the costs associated with redundancy versus the benefits in terms of reduced risk and increased reliability.
+    - Examining the costs associated with redundancy versus the benefits in terms of reduced [risk](../r/risk.md) and increased reliability.
     
 2. **Monitoring and Maintenance**:
-    - Regularly monitoring systems for redundancy issues and maintaining a balance between redundancy and efficiency.
+    - Regularly monitoring systems for redundancy issues and maintaining a balance between redundancy and [efficiency](../e/efficiency.md).
 
 3. **Strategic Redundancy**:
-    - Deliberately incorporating redundancy in critical areas of the trading system such as data feeds or order execution to ensure uninterrupted operations.
+    - Deliberately incorporating redundancy in critical areas of the trading system such as data feeds or [order](../o/order.md) [execution](../e/execution.md) to ensure uninterrupted operations.
 
 #### Conclusion
 

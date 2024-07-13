@@ -1,30 +1,30 @@
 # Hyperledger Iroha
 
-Hyperledger Iroha is a distributed ledger platform that is part of the broader Hyperledger project, which is an umbrella for various open-source blockchain applications and libraries. Hyperledger Iroha stands out for its emphasis on becoming a secure and highly maintainable system for the management of digital assets and identity. Initially contributed by Soramitsu, a Japanese technology firm, Hyperledger Iroha aims to provide a modular and flexible blockchain framework that can be seamlessly integrated into existing and new infrastructural components.
+[Hyperledger](../h/hyperledger.md) Iroha is a distributed ledger platform that is part of the broader [Hyperledger](../h/hyperledger.md) project, which is an umbrella for various [open](../o/open.md)-source [blockchain](../b/blockchain_in_trading.md) applications and libraries. [Hyperledger](../h/hyperledger.md) Iroha stands out for its emphasis on becoming a secure and highly maintainable system for the management of digital assets and identity. Initially contributed by Soramitsu, a Japanese technology [firm](../f/firm.md), [Hyperledger](../h/hyperledger.md) Iroha aims to provide a modular and flexible [blockchain](../b/blockchain_in_trading.md) framework that can be seamlessly integrated into existing and new infrastructural components.
 
 ## Features of Hyperledger Iroha
 
-Hyperledger Iroha comes with a range of innovative features designed to foster ease of use and robust performance:
+[Hyperledger](../h/hyperledger.md) Iroha comes with a [range](../r/range.md) of innovative features designed to foster ease of use and [robust](../r/robust.md) performance:
 
 ### Simple Domain-Driven Design
 
-Hyperledger Iroha employs a domain-driven design approach, making it easy for businesses and software developers to model and manage digital assets and identities. This is particularly beneficial in creating blockchain-based applications that align closely with business requirements.
+[Hyperledger](../h/hyperledger.md) Iroha employs a domain-driven design approach, making it easy for businesses and software developers to model and manage digital assets and identities. This is particularly beneficial in creating [blockchain](../b/blockchain_in_trading.md)-based applications that align closely with [business](../b/business.md) requirements.
 
 ### User-Friendly Commands and Queries
 
-Hyperledger Iroha offers user-friendly interfaces for executing commands and queries. This simplicity helps lower the entry barrier for developers and end-users alike, making blockchain technology more accessible.
+[Hyperledger](../h/hyperledger.md) Iroha offers user-friendly interfaces for executing commands and queries. This simplicity helps lower the entry barrier for developers and end-users alike, making [blockchain](../b/blockchain_in_trading.md) technology more accessible.
 
 ### Byzantine Fault Tolerant Consensus Algorithm
 
-At the core of its consensus mechanism is the Byzantine Fault Tolerant (BFT) algorithm, specifically the YAC (Yet Another Consensus) algorithm. This ensures that Hyperledger Iroha can achieve consensus even if some of the nodes are compromised or malfunctioning.
+At the core of its consensus mechanism is the Byzantine Fault Tolerant (BFT) algorithm, specifically the YAC (Yet Another Consensus) algorithm. This ensures that [Hyperledger](../h/hyperledger.md) Iroha can achieve consensus even if some of the nodes are compromised or malfunctioning.
 
 ### Multi-Signature and Role-Based Permissions
 
-The platform includes built-in support for multi-signature transactions, improving the security and governance of digital assets. Role-based permissioning allows for fine-grained control over who can do what on the network.
+The platform includes built-in support for multi-signature transactions, improving the [security](../s/security.md) and governance of digital assets. Role-based permissioning allows for fine-grained control over who can do what on the network.
 
 ### High Performance and Scalability
 
-Hyperledger Iroha is engineered for high performance and scalability, making it suitable for both small-scale and large-scale deployments.
+[Hyperledger](../h/hyperledger.md) Iroha is engineered for high performance and [scalability](../s/scalability.md), making it suitable for both small-scale and large-scale deployments.
 
 ### Flexible Deployment Options
 
@@ -32,58 +32,58 @@ The platform supports a variety of deployment scenarios, from single-node setups
 
 ## Use Cases of Hyperledger Iroha
 
-Hyperledger Iroha can be employed in various sectors to address different needs:
+[Hyperledger](../h/hyperledger.md) Iroha can be employed in various sectors to address different needs:
 
 ### Financial Services
 
-Banks and financial institutions can use Hyperledger Iroha for asset management, whether it's traditional fiat money, cryptocurrencies, or digital assets like tokens. This can streamline processes such as payments, remittances, and asset transfers.
+Banks and financial institutions can use [Hyperledger](../h/hyperledger.md) Iroha for [asset management](../a/asset_management.md), whether it's traditional [fiat money](../f/fiat_money.md), cryptocurrencies, or digital assets like tokens. This can streamline processes such as payments, remittances, and [asset](../a/asset.md) transfers.
 
 ### Supply Chain Management
 
-With its transparent and immutable ledger, Hyperledger Iroha can be used to track the provenance of goods. This is particularly useful in industries like agriculture, pharmaceuticals, and luxury goods where the authenticity and quality of products are critical.
+With its transparent and immutable ledger, [Hyperledger](../h/hyperledger.md) Iroha can be used to track the provenance of goods. This is particularly useful in industries like agriculture, pharmaceuticals, and luxury goods where the authenticity and quality of products are critical.
 
 ### Healthcare
 
-In the healthcare sector, Hyperledger Iroha can enhance the security and accessibility of patient records. It can ensure that all parties involved, from doctors to patients and insurers, have the appropriate level of access while maintaining the integrity of records.
+In the [healthcare sector](../h/healthcare_sector.md), [Hyperledger](../h/hyperledger.md) Iroha can enhance the [security](../s/security.md) and accessibility of patient records. It can ensure that all parties involved, from doctors to patients and insurers, have the appropriate level of access while maintaining the integrity of records.
 
 ### Government and Public Sector
 
-Hyperledger Iroha can facilitate transparent and secure voting systems, land registries, and other governmental services requiring a trustworthy record-keeping mechanism.
+[Hyperledger](../h/hyperledger.md) Iroha can facilitate transparent and secure voting systems, land registries, and other governmental services requiring a trustworthy record-keeping mechanism.
 
 ### Autonomous Internet of Things (IoT)
 
-Incorporating Iroha with IoT devices can lead to new levels of automation and security. From smart homes to industrial implementations, Hyperledger Iroha can record and verify the data generated by IoT devices.
+Incorporating Iroha with IoT devices can lead to new levels of automation and [security](../s/security.md). From smart homes to industrial implementations, [Hyperledger](../h/hyperledger.md) Iroha can record and verify the data generated by IoT devices.
 
 ## Technical Architecture of Hyperledger Iroha
 
-Understanding the technical architecture of Hyperledger Iroha is essential for anyone looking to leverage its capabilities:
+Understanding the technical architecture of [Hyperledger](../h/hyperledger.md) Iroha is essential for anyone looking to [leverage](../l/leverage.md) its capabilities:
 
 ### Peer-to-Peer Network
 
-Hyperledger Iroha operates on a peer-to-peer (P2P) network where each node (peer) communicates with other nodes to maintain the ledger. This decentralized approach helps in achieving high levels of fault tolerance and security.
+[Hyperledger](../h/hyperledger.md) Iroha operates on a peer-to-peer (P2P) network where each node (peer) communicates with other nodes to maintain the ledger. This decentralized approach helps in achieving high levels of fault tolerance and [security](../s/security.md).
 
 ### Command Query Responsibility Segregation (CQRS)
 
-The architecture follows the CQRS principle, where commands and queries are processed on different paths. Commands trigger state changes whereas queries retrieve data. This separation enhances scalability and performance.
+The architecture follows the CQRS principle, where commands and queries are processed on different paths. Commands trigger state changes whereas queries retrieve data. This separation enhances [scalability](../s/scalability.md) and performance.
 
 ### Blocks and Transactions
 
-Transactions in Iroha are bundled into blocks, and each block is immutably linked to the previous one, forming a chain. Each transaction has to be validated by the consensus mechanism before being appended to a block.
+Transactions in Iroha are bundled into blocks, and each block is immutably linked to the previous one, forming a chain. Each [transaction](../t/transaction.md) has to be validated by the consensus mechanism before being appended to a block.
 
 ### Smart Contracts
 
-Smart contracts in Hyperledger Iroha are referred to as "chaincode." They can be implemented in various programming languages, enabling automated execution of business logic. However, Hyperledger Iroha takes a more conservative approach to smart contracts compared to other blockchain platforms like Ethereum.
+[Smart contracts](../s/smart_contracts_in_trading.md) in [Hyperledger](../h/hyperledger.md) Iroha are referred to as "chaincode." They can be implemented in various programming languages, enabling automated [execution](../e/execution.md) of [business](../b/business.md) logic. However, [Hyperledger](../h/hyperledger.md) Iroha takes a more conservative approach to [smart contracts](../s/smart_contracts_in_trading.md) compared to other [blockchain](../b/blockchain_in_trading.md) platforms like [Ethereum](../e/ethereum_.md).
 
 ### APIs
 
-Hyperledger Iroha offers rich APIs for interacting with the blockchain. RESTful APIs as well as libraries in various programming languages make the integration process simple and straightforward.
+[Hyperledger](../h/hyperledger.md) Iroha offers rich APIs for interacting with the [blockchain](../b/blockchain_in_trading.md). RESTful APIs as well as libraries in various programming languages make the integration process simple and straightforward.
 
 ## Installation and Setup
 
-Setting up Hyperledger Iroha involves several steps. Here's a high-level overview:
+Setting up [Hyperledger](../h/hyperledger.md) Iroha involves several steps. Here's a high-level overview:
 
 1. **System Requirements**: Ensure your environment meets the minimum requirements.
-2. **Clone Repository**: Clone the Hyperledger Iroha repository from its official source.
+2. **Clone Repository**: Clone the [Hyperledger](../h/hyperledger.md) Iroha repository from its official source.
 3. **Dependencies**: Install necessary dependencies like Docker, PostgreSQL, etc.
 4. **Configuration**: Configure the network settings, nodes, and other parameters.
 5. **Build and Run**: Compile the source code and run the nodes.
@@ -91,7 +91,7 @@ Setting up Hyperledger Iroha involves several steps. Here's a high-level overvie
 
 ## Security Aspects
 
-Hyperledger Iroha places a strong emphasis on security, incorporating multiple layers of protection:
+[Hyperledger](../h/hyperledger.md) Iroha places a strong emphasis on [security](../s/security.md), incorporating [multiple](../m/multiple.md) layers of protection:
 
 ### Cryptographic Algorithms
 
@@ -99,7 +99,7 @@ The platform uses advanced cryptographic algorithms for securing data at rest an
 
 ### Robust Access Controls
 
-Role-based access controls and multi-signature mechanisms add an extra layer of security, preventing unauthorized access and actions.
+Role-based access controls and multi-signature mechanisms add an extra layer of [security](../s/security.md), preventing unauthorized access and actions.
 
 ### Consensus Security
 
@@ -107,22 +107,22 @@ The BFT consensus algorithm is designed to be resilient against malicious nodes 
 
 ## Community and Governance
 
-Hyperledger Iroha is governed by the Hyperledger Foundation, which itself is a part of The Linux Foundation. The community is comprised of developers, researchers, and enterprises around the globe. Contributions are governed by merit, and various channels exist for collaboration, including official forums, GitHub, and project-specific communication tools.
+[Hyperledger](../h/hyperledger.md) Iroha is governed by the [Hyperledger](../h/hyperledger.md) Foundation, which itself is a part of The Linux Foundation. The community is comprised of developers, researchers, and enterprises around the globe. Contributions are governed by merit, and various channels exist for collaboration, including official forums, GitHub, and project-specific communication tools.
 
 ## Examples of Real-World Implementations
 
-Several organizations are already leveraging Hyperledger Iroha in their operations:
+Several organizations are already leveraging [Hyperledger](../h/hyperledger.md) Iroha in their operations:
 
 ### SORA Platform
 
-Sora is an economic system that uses Hyperledger Iroha for managing its digital assets and identity solutions. Soramitsu, the company behind Hyperledger Iroha, has played a crucial role in this implementation. More information can be found [here](https://soramitsu.co.jp/sora).
+Sora is an economic system that uses [Hyperledger](../h/hyperledger.md) Iroha for managing its digital assets and identity solutions. Soramitsu, the company behind [Hyperledger](../h/hyperledger.md) Iroha, has played a crucial role in this implementation. More information can be found [here](https://soramitsu.co.jp/sora).
 
 ### Bakong
 
-Bakong is Cambodia’s national payment system, developed by the National Bank of Cambodia in collaboration with Soramitsu. It uses Hyperledger Iroha to enable secure and fast transactions. More details are available [here](https://www.nbc.org.kh).
+Bakong is Cambodia’s national [payment](../p/payment.md) system, developed by the [National Bank](../n/national_bank.md) of Cambodia in collaboration with Soramitsu. It uses [Hyperledger](../h/hyperledger.md) Iroha to enable secure and fast transactions. More details are available [here](https://www.nbc.org.kh).
 
 ## Conclusion
 
-Hyperledger Iroha is a versatile and robust platform for building and deploying distributed ledger applications. From its user-friendly design to its advanced security features, it offers a comprehensive framework for managing digital assets and identities in a decentralized manner. The platform's flexibility and modularity make it suitable for a wide range of applications, from financial services and supply chain management to healthcare and IoT.
+[Hyperledger](../h/hyperledger.md) Iroha is a versatile and [robust](../r/robust.md) platform for building and deploying distributed ledger applications. From its user-friendly design to its advanced [security](../s/security.md) features, it offers a comprehensive framework for managing digital assets and identities in a decentralized manner. The platform's flexibility and modularity make it suitable for a wide [range](../r/range.md) of applications, from financial services and [supply chain](../s/supply_chain.md) management to healthcare and IoT.
 
-For those looking to adopt blockchain technology, Hyperledger Iroha presents a mature, secure, and scalable option supported by a vibrant community and a solid governance framework. This makes it an excellent choice for enterprises and developers alike.
+For those looking to adopt [blockchain](../b/blockchain_in_trading.md) technology, [Hyperledger](../h/hyperledger.md) Iroha presents a mature, secure, and scalable option supported by a vibrant community and a solid governance framework. This makes it an excellent choice for enterprises and developers alike.

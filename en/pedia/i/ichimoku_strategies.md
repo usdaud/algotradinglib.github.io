@@ -1,10 +1,10 @@
 # Ichimoku Strategies
 
-Ichimoku Kinko Hyo, often referred to as Ichimoku or [Ichimoku Cloud](../i/ichimoku_cloud.md), is a comprehensive trading indicator that identifies [support and resistance](../s/support_and_resistance.md) levels, momentum, and trend direction. Created by Goichi Hosoda in the late 1930s, this tool has become an essential part of the toolkit for many traders, especially in [algorithmic trading](../a/algorithmic_trading.md). It is not just a combination of indicators but a robust system that helps make informed trading decisions.
+Ichimoku Kinko Hyo, often referred to as Ichimoku or [Ichimoku Cloud](../i/ichimoku_cloud.md), is a comprehensive trading [indicator](../i/indicator.md) that identifies [support and resistance](../s/support_and_resistance.md) levels, [momentum](../m/momentum.md), and [trend](../t/trend.md) direction. Created by Goichi Hosoda in the late 1930s, this tool has become an essential part of the toolkit for many traders, especially in [algorithmic trading](../a/algorithmic_trading.md). It is not just a combination of indicators but a [robust](../r/robust.md) system that helps make informed trading decisions.
 
 ## Components of Ichimoku
 
-The Ichimoku system comprises five main components. Each of these lines provides different insights into market conditions. By understanding these components and how they interact, traders can develop sophisticated strategies.
+The Ichimoku system comprises five main components. Each of these lines provides different insights into [market](../m/market.md) conditions. By understanding these components and how they interact, traders can develop sophisticated strategies.
 
 ### 1. Tenkan-sen (Conversion Line)
 
@@ -52,12 +52,12 @@ The space between Senkou Span A and B forms the Kumo or cloud. This acts as a dy
 ### C. Cloud Breakout
 
 A powerful signal occurs when the price breaks above or below the cloud.
-- **Bullish Breakout**: Price moves above the cloud.
-- **Bearish Breakout**: Price moves below the cloud.
+- **Bullish [Breakout](../b/breakout.md)**: Price moves above the cloud.
+- **Bearish [Breakout](../b/breakout.md)**: Price moves below the cloud.
 
 ### D. Chikou Span Confirmation
 
-Chikou Span provides confirmation by assessing how the current price behaves relative to its position 26 periods ago. When the Chikou Span crosses above/below the historical price action, it serves as additional validation for entry/exit.
+Chikou Span provides confirmation by assessing how the current price behaves relative to its position 26 periods ago. When the Chikou Span crosses above/below the historical [price action](../p/price_action.md), it serves as additional validation for entry/exit.
 
 ## Algorithmic Implementation
 
@@ -66,8 +66,8 @@ Chikou Span provides confirmation by assessing how the current price behaves rel
 Building the Ichimoku indicators in a trading algorithm involves calculating the five components based on historical price data and implementing logic to interpret the signals accordingly. Python and platforms such as [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets/) provide APIs to help build and simulate these strategies.
 
 ```python
-import numpy as np
-import pandas as pd
+[import](../i/import.md) numpy as np
+[import](../i/import.md) pandas as pd
 
 def ichimoku_cloud(df):
     high_9 = df['High'].rolling(9).max()
@@ -86,10 +86,10 @@ def ichimoku_cloud(df):
     df['Chikou_Span'] = df['Close'].shift(-26)
 
     df.dropna(inplace=True)
-    return df
+    [return](../r/return.md) df
 ```
 
-The code above initializes the [Ichimoku cloud](../i/ichimoku_cloud.md) indicator on a pandas dataframe `df` containing high, low, and close prices. Each line is computed and added to the dataframe for further processing.
+The code above initializes the [Ichimoku cloud](../i/ichimoku_cloud.md) [indicator](../i/indicator.md) on a pandas dataframe `df` containing high, low, and close prices. Each line is computed and added to the dataframe for further processing.
 
 ### Strategy Development
 
@@ -103,12 +103,12 @@ def crossover_strategy(df):
     df.loc[df['Tenkan_sen'] > df['Kijun_sen'], 'Signal'] = 1
     df.loc[df['Tenkan_sen'] < df['Kijun_sen'], 'Signal'] = -1
     df['Position'] = df['Signal'].shift()
-    return df
+    [return](../r/return.md) df
 ```
 
 #### 2. Cloud Breakout Strategy
 
-A cloud breakout strategy implements trades based on price crossing the [Ichimoku cloud](../i/ichimoku_cloud.md).
+A cloud [breakout](../b/breakout.md) strategy implements trades based on price crossing the [Ichimoku cloud](../i/ichimoku_cloud.md).
 
 ```python
 def cloud_breakout_strategy(df):
@@ -116,7 +116,7 @@ def cloud_breakout_strategy(df):
     df.loc[df['Close'] > df['Senkou_Span_A'], 'Signal'] = 1
     df.loc[df['Close'] < df['Senkou_Span_B'], 'Signal'] = -1
     df['Position'] = df['Signal'].shift()
-    return df
+    [return](../r/return.md) df
 ```
 
 ### Backtesting
@@ -124,7 +124,7 @@ def cloud_breakout_strategy(df):
 After creating the strategy, it's crucial to backtest it on historical data to understand its performance.
 
 ```python
-import [backtrader](../b/backtrader.md) as bt
+[import](../i/import.md) [backtrader](../b/backtrader.md) as bt
 
 class IchimokuStrategy(bt.Strategy):
     def __init__(self):
@@ -148,17 +148,17 @@ In this example, the `[backtrader](../b/backtrader.md)` library is used to backt
 
 ## Advantages of Ichimoku in Algorithmic Trading
 
-1. **Comprehensive Analysis**: The Ichimoku system is an all-in-one indicator, providing multiple signals for trend direction, momentum, support, and resistance.
-2. **Versatility**: Suitable for different types of [trading strategies](../t/trading_strategies.md) like trend-following, [swing trading](../s/swing_trading.md), and longer-term investing.
-3. **Automation**: Ideal for [algorithmic trading](../a/algorithmic_trading.md), where complex calculations and [signal analysis](../s/signal_analysis.md) can be automated for timely trade execution.
+1. **Comprehensive Analysis**: The Ichimoku system is an all-in-one [indicator](../i/indicator.md), providing [multiple](../m/multiple.md) signals for [trend](../t/trend.md) direction, [momentum](../m/momentum.md), support, and resistance.
+2. **Versatility**: Suitable for different types of [trading strategies](../t/trading_strategies.md) like [trend](../t/trend.md)-following, [swing trading](../s/swing_trading.md), and longer-term [investing](../i/investing.md).
+3. **Automation**: Ideal for [algorithmic trading](../a/algorithmic_trading.md), where complex calculations and [signal analysis](../s/signal_analysis.md) can be automated for timely [trade](../t/trade.md) [execution](../e/execution.md).
 
 ## Challenges and Considerations
 
-1. **Overfitting**: Like any strategy, over-optimization during [backtesting](../b/backtesting.md) can lead to poor performance in live trading.
-2. **Market Conditions**: The efficacy of Ichimoku strategies can vary across different market conditions. Stable trends yield better results than choppy, sideways markets.
+1. **[Overfitting](../o/overfitting.md)**: Like any strategy, over-[optimization](../o/optimization.md) during [backtesting](../b/backtesting.md) can lead to poor performance in live trading.
+2. **[Market](../m/market.md) Conditions**: The efficacy of Ichimoku strategies can vary across different [market](../m/market.md) conditions. Stable trends [yield](../y/yield.md) better results than choppy, sideways markets.
 3. **Parameter Adaptation**: The standard periods (9, 26, 52) may not be suitable for all assets or timeframes, requiring adjustment.
 
 ## Conclusion
 
-Ichimoku strategies offer a robust and versatile toolset for traders, especially when automated. By understanding the components and properly implementing them in algorithmic strategies, traders can enhance their insights and potentially improve their [trading performance](../t/trading_performance.md). The attractive balance between simplicity and depth makes Ichimoku an excellent choice for both novice and experienced algorithmic traders.
+Ichimoku strategies [offer](../o/offer.md) a [robust](../r/robust.md) and versatile toolset for traders, especially when automated. By understanding the components and properly implementing them in algorithmic strategies, traders can enhance their insights and potentially improve their [trading performance](../t/trading_performance.md). The attractive balance between simplicity and depth makes Ichimoku an excellent choice for both novice and experienced algorithmic traders.
 

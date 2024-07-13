@@ -1,44 +1,44 @@
 # Amortized Loan
 
-An amortized loan is a type of loan where the principal of the loan is paid down over the life of the loan (that is, amortized) according to an amortization schedule, typically through equal payments. This includes both interest and an allocated portion of the principal in each payment until the loan is paid off at the end of its term.
+An amortized [loan](../l/loan.md) is a type of [loan](../l/loan.md) where the [principal](../p/principal.md) of the [loan](../l/loan.md) is paid down over the life of the [loan](../l/loan.md) (that is, amortized) according to an [amortization schedule](../a/amortization.md), typically through equal payments. This includes both [interest](../i/interest.md) and an allocated portion of the [principal](../p/principal.md) in each [payment](../p/payment.md) until the [loan](../l/loan.md) is paid off at the end of its term.
 
 ## Structure and Mechanics of Amortized Loans
 
 ### 1. Principal and Interest
-The principal is the amount of money borrowed initially. The interest is the cost attributed to borrowing that principal. In amortized loans, each payment includes both interest and principal repayment in a balanced way across the loan term.
+The [principal](../p/principal.md) is the amount of [money](../m/money.md) borrowed initially. The [interest](../i/interest.md) is the cost attributed to borrowing that [principal](../p/principal.md). In amortized loans, each [payment](../p/payment.md) includes both [interest](../i/interest.md) and [principal](../p/principal.md) [repayment](../r/repayment.md) in a balanced way across the [loan](../l/loan.md) term.
 
 ### 2. Amortization Schedule
-Amortization schedules detail each periodic payment broken down by the amount applied towards interest and the amount applied towards the principal. The goal is to repay the principal gradually and reduce the interest over time. In the early stages of the loan, a larger portion of each payment is allocated to interest. With each successive payment, the portion going towards the principal increases.
+Amortization schedules detail each periodic [payment](../p/payment.md) broken down by the amount applied towards [interest](../i/interest.md) and the amount applied towards the [principal](../p/principal.md). The goal is to repay the [principal](../p/principal.md) gradually and reduce the [interest](../i/interest.md) over time. In the early stages of the [loan](../l/loan.md), a larger portion of each [payment](../p/payment.md) is allocated to [interest](../i/interest.md). With each successive [payment](../p/payment.md), the portion going towards the [principal](../p/principal.md) increases.
 
 ### 3. Term
-The term of the loan is the period over which the loan will be paid off. Common terms include 15, 20, or 30 years for mortgages, but other loans can have different terms based on type and agreement between borrower and lender.
+The term of the [loan](../l/loan.md) is the period over which the [loan](../l/loan.md) [will](../w/will.md) be paid off. Common terms include 15, 20, or 30 years for mortgages, but other loans can have different terms based on type and agreement between borrower and [lender](../l/lender.md).
 
 ## Types of Amortized Loans
 
 ### Fixed Rate Mortgages
-Fixed rate mortgages are typical examples of amortized loans. The interest rate remains the same throughout the period of the loan, leading to predictable monthly payments which simplify budgeting for homeowners.
+Fixed rate mortgages are typical examples of amortized loans. The [interest rate](../i/interest_rate.md) remains the same throughout the period of the [loan](../l/loan.md), leading to predictable monthly payments which simplify budgeting for homeowners.
 
 ### Auto Loans
-Auto loans are often amortized loans with terms typically ranging from 3 to 7 years. These loans allow buyers to purchase vehicles by spreading the cost plus interest over a fixed period.
+Auto loans are often amortized loans with terms typically ranging from 3 to 7 years. These loans allow buyers to purchase vehicles by spreading the cost plus [interest](../i/interest.md) over a fixed period.
 
 ### Personal Loans
-Personal loans which might be used for debt consolidation, home improvement, or other large expenses are often structured as amortized loans.
+Personal loans which might be used for [debt consolidation](../d/debt_consolidation.md), [home](../h/home.md) improvement, or other large expenses are often structured as amortized loans.
 
 ## Mathematics of Amortized Loans
 
 ### Calculating Monthly Payments
-The fixed monthly payment for an amortized loan is calculated using the formula:
+The fixed monthly [payment](../p/payment.md) for an amortized [loan](../l/loan.md) is calculated using the formula:
 
 \[ M = \frac{P[r(1+r)^n]}{[(1+r)^n - 1]} \]
 
 Where:
-- \( M \) is the total monthly mortgage payment.
-- \( P \) is the loan principal.
-- \( r \) is the monthly interest rate. (Annual rate divided by 12)
-- \( n \) is the number of payments (loan term in years multiplied by 12).
+- \( M \) is the total monthly [mortgage](../m/mortgage.md) [payment](../p/payment.md).
+- \( P \) is the [loan](../l/loan.md) [principal](../p/principal.md).
+- \( r \) is the monthly [interest rate](../i/interest_rate.md). (Annual rate divided by 12)
+- \( n \) is the number of payments ([loan](../l/loan.md) term in years multiplied by 12).
 
 ### Example Calculation
-Assume you have a 30-year mortgage of $200,000 with an annual interest rate of 5%.
+Assume you have a 30-year [mortgage](../m/mortgage.md) of $200,000 with an annual [interest rate](../i/interest_rate.md) of 5%.
 
 1. Convert the annual rate to a monthly rate:
 \[ r = \frac{5\%}{12} = 0.004167 \]
@@ -53,44 +53,44 @@ Assume you have a 30-year mortgage of $200,000 with an annual interest rate of 5
 \[ M = \frac{3720}{3.4674} \approx 1073.64 \text{ dollars} \]
 
 ### Amortization Schedule Example
-Using Excel or other financial calculators, you can build an amortization schedule table, which will show how each payment is split between interest and principal, the remaining balance after each payment, and the cumulative interest paid.
+Using Excel or other financial calculators, you can build an [amortization schedule](../a/amortization.md) table, which [will](../w/will.md) show how each [payment](../p/payment.md) is split between [interest](../i/interest.md) and [principal](../p/principal.md), the remaining balance after each [payment](../p/payment.md), and the cumulative [interest](../i/interest.md) paid.
 
 ## Benefits of Amortized Loans
 
 1. **Predictability**: The regular, fixed payments make budgeting easier for individuals and organizations.
-2. **Building Equity**: For mortgages, as more of each payment goes towards the principal over time, borrowers build equity.
-3. **Decreased Interest Over Time**: As the principal is paid down, the amount of interest paid decreases (since interest is often calculated on the remaining balance).
+2. **Building [Equity](../e/equity.md)**: For mortgages, as more of each [payment](../p/payment.md) goes towards the [principal](../p/principal.md) over time, borrowers build [equity](../e/equity.md).
+3. **Decreased [Interest](../i/interest.md) Over Time**: As the [principal](../p/principal.md) is paid down, the amount of [interest](../i/interest.md) paid decreases (since [interest](../i/interest.md) is often calculated on the remaining balance).
 
 ## Drawbacks of Amortized Loans
 
-1. **Interest Costs**: Early payments are heavily skewed towards interest, meaning that less principal is paid off early.
+1. **[Interest](../i/interest.md) Costs**: Early payments are heavily skewed towards [interest](../i/interest.md), meaning that less [principal](../p/principal.md) is paid off early.
 2. **Fixed Terms**: Predictability comes with lack of flexibility; borrowers may feel constrained by the structure and inability to adjust payments without refinancing.
-3. **Total Interest Paid**: Over the full term, a borrower might pay a large amount in interest, making these loans potentially expensive over time.
+3. **Total [Interest](../i/interest.md) Paid**: Over the full term, a borrower might pay a large amount in [interest](../i/interest.md), making these loans potentially expensive over time.
 
 ## Options and Variants
 
 ### Refinancing
-Borrowers may opt to refinance an existing amortized loan—taking out a new loan to pay off the old one. Refinancing is often done to take advantage of lower interest rates, reduce monthly payments, or alter the loan's term.
+Borrowers may opt to [refinance](../r/refinance.md) an existing amortized [loan](../l/loan.md)—taking out a new [loan](../l/loan.md) to pay off the old one. Refinancing is often done to take advantage of lower [interest](../i/interest.md) rates, reduce monthly payments, or alter the [loan](../l/loan.md)'s term.
 
 ### Extra Payments
-Making extra payments towards the principal can reduce the overall interest paid and shorten the term of the loan. Lenders may allow these extra payments without penalties, but it’s important to understand the loan’s specific terms.
+Making extra payments towards the [principal](../p/principal.md) can reduce the overall [interest](../i/interest.md) paid and shorten the term of the [loan](../l/loan.md). Lenders may allow these extra payments without penalties, but it’s important to understand the [loan](../l/loan.md)’s specific terms.
 
 ### Adjustable-Rate Mortgages (ARMs)
 While not traditionally amortized in the same way as fixed-rate mortgages, ARMs can feature periods of fixed rates followed by adjustable periods. Payments could become unpredictable after the initial fixed-rate period.
 
 ### Bi-Weekly Payments
-Some lenders offer bi-weekly payment arrangements rather than traditional monthly payments. Over the course of a year, this results in making the equivalent of 13 monthly payments (rather than 12), potentially reducing the loan term and saving on interest.
+Some lenders [offer](../o/offer.md) bi-weekly [payment](../p/payment.md) arrangements rather than traditional monthly payments. Over the course of a year, this results in making the equivalent of 13 monthly payments (rather than 12), potentially reducing the [loan](../l/loan.md) term and saving on [interest](../i/interest.md).
 
 ## Notable Companies and Financial Tools
 
 ### Mortgage Calculators
-Many finance websites offer mortgage and loan calculators which allow potential borrowers to input their loan amount, interest rate, and term to compute monthly payments and visualize amortization schedules. Examples include:
+Many [finance](../f/finance.md) websites [offer](../o/offer.md) [mortgage](../m/mortgage.md) and [loan](../l/loan.md) calculators which allow potential borrowers to input their [loan](../l/loan.md) amount, [interest rate](../i/interest_rate.md), and term to compute monthly payments and visualize amortization schedules. Examples include:
 
 - [Bankrate’s Mortgage Calculator](https://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx)
 - [NerdWallet’s Loan Calculator](https://www.nerdwallet.com/mortgages/mortgage-calculator)
 
 ### Financial Institutions
-These institutions provide a range of amortized loan products for consumers:
+These institutions provide a [range](../r/range.md) of amortized [loan](../l/loan.md) products for consumers:
 
 - [Quicken Loans - Rocket Mortgage](https://www.rocketmortgage.com/)
 - [Wells Fargo Home Mortgage](https://www.wellsfargo.com/mortgage/)
@@ -98,4 +98,4 @@ These institutions provide a range of amortized loan products for consumers:
 
 ## Conclusion
 
-Amortized loans, primarily seen in mortgages, auto loans, and personal loans, offer a structured, predictable means to borrow money. Their core advantage lies in the regular payment schedule, but understanding how interest and principal are calculated and applied over the life of the loan can help borrowers optimize their money management strategies. Financial literacy in this area is crucial for making informed borrowing decisions and reducing total loan costs through smart financial planning and extra payments.
+Amortized loans, primarily seen in mortgages, auto loans, and personal loans, [offer](../o/offer.md) a structured, predictable means to borrow [money](../m/money.md). Their core advantage lies in the regular [payment](../p/payment.md) schedule, but understanding how [interest](../i/interest.md) and [principal](../p/principal.md) are calculated and applied over the life of the [loan](../l/loan.md) can help borrowers optimize their [money management strategies](../m/money_management_strategies.md). [Financial literacy](../f/financial_literacy.md) in this area is crucial for making informed borrowing decisions and reducing total [loan](../l/loan.md) costs through smart [financial planning](../f/financial_planning.md) and extra payments.

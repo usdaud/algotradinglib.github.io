@@ -1,10 +1,10 @@
 # Troy Ounce
 
-The troy ounce is a unit of measure commonly used to quantify the weight of precious metals such as gold, silver, platinum, and palladium. Unlike the more common avoirdupois ounce, which is standard in the United States for most other weight measurements, the troy ounce has its own historical significance and practical applications in the world of finance, particularly in commodities trading.
+The troy ounce is a unit of measure commonly used to quantify the weight of precious metals such as gold, silver, [platinum](../p/platinum.md), and palladium. Unlike the more common avoirdupois ounce, which is standard in the United States for most other weight measurements, the troy ounce has its own historical significance and practical applications in the world of [finance](../f/finance.md), particularly in [commodities trading](../c/commodities_trading.md).
 
 ## Definition
 
-A troy ounce, abbreviated as "oz t" or "ozt," is defined as precisely 31.1034768 grams. This is approximately 10% heavier than the more familiar avoirdupois ounce, which weighs 28.3495231 grams. Through centuries of established usage, the troy ounce remains the standard measurement in the precious metals industry, from mining and refining to trading and investment.
+A troy ounce, abbreviated as "oz t" or "ozt," is defined as precisely 31.1034768 grams. This is approximately 10% heavier than the more familiar avoirdupois ounce, which weighs 28.3495231 grams. Through centuries of established usage, the troy ounce remains the standard measurement in the precious metals [industry](../i/industry.md), from [mining](../m/mining.md) and refining to trading and investment.
 
 ![Troy Ounce](https://www.usmint.gov/wordpress/wp-content/uploads/2017/06/american-eagle-silver-one-ounce-bullion-coin-obverse.jpg)
 
@@ -12,7 +12,7 @@ A troy ounce, abbreviated as "oz t" or "ozt," is defined as precisely 31.1034768
 
 ### Origins
 
-The term "troy ounce" originated from the Roman monetary system, and its name is derived from the medieval city of Troyes in France, an important trading hub in the Middle Ages. Over time, various regions and cultures adapted their own weight measures, but the troy weight system was standardised in England in the 1400s, largely due to its crucial role in the trade of precious metals.
+The term "troy ounce" originated from the Roman monetary system, and its name is derived from the medieval city of Troyes in France, an important trading hub in the Middle Ages. Over time, various regions and cultures adapted their own weight measures, but the troy weight system was standardised in England in the 1400s, largely due to its crucial role in the [trade](../t/trade.md) of precious metals.
 
 ### Adoption in the U.S.
 
@@ -37,22 +37,22 @@ Here’s a quick conversion table for reference:
 
 ## Practical Applications
 
-Understanding the troy ounce is essential for various industry stakeholders, from miners and refiners to traders and investors. Here are a few key applications:
+Understanding the troy ounce is essential for various [industry](../i/industry.md) stakeholders, from miners and refiners to traders and investors. Here are a few key applications:
 
 ### Mining
 
-In mining industries, the level of precious metal content in ore is often measured in troy ounces per ton (oz/t). This quantification assists in determining the viability and profitability of mining operations.
+In [mining](../m/mining.md) industries, the level of precious metal content in ore is often measured in troy ounces per ton (oz/t). This quantification assists in determining the viability and profitability of [mining](../m/mining.md) operations.
 
 ### Trading and Investments
 
-Most financial instruments that trade precious metals use the troy ounce as the standard unit. This includes:
+Most financial instruments that [trade](../t/trade.md) precious metals use the troy ounce as the standard unit. This includes:
 
 - **Bullion Coins**: Such as the American Gold Eagle and Canadian Gold Maple Leaf, which are sold and traded based on their weight in troy ounces.
-- **Futures Contracts**: Typically listed on commodities exchanges like COMEX, which measure contracts in troy ounces.
+- **[Futures Contracts](../f/futures_contracts.md)**: Typically [listed](../l/listed.md) on commodities exchanges like COMEX, which measure contracts in troy ounces.
 
 ### Jewelry
 
-While jewelers may weigh raw materials in grams or carats, the final sale price of the precious metals component often relates back to the price per troy ounce.
+While jewelers may weigh [raw materials](../r/raw_materials.md) in grams or carats, the final [sale](../s/sale.md) price of the precious metals component often relates back to the price per troy ounce.
 
 ## Conversion Tools
 
@@ -61,8 +61,8 @@ For those in need of precision when converting between troy ounces and other uni
 - **[Goldprice.org](https://www.goldprice.org/gold-price-converter.html)**
 - **[Kitco](https://www.kitco.com)**
 
-These tools provide real-time conversions and market prices, enabling more accurate trading decisions.
+These tools provide real-time conversions and [market](../m/market.md) prices, enabling more accurate trading decisions.
 
 ## Conclusion
 
-The troy ounce remains an indispensable unit within the realm of precious metals, bridging history with modern financial practices. Whether involved in mining, trading, or simply investing in gold or silver bullion, understanding the specific weights, conversions, and applications of the troy ounce is essential for accurate transactions and valuations. The continued usage of this ancient measure underscores its importance in maintaining standardized and fair trading practices globally.
+The troy ounce remains an indispensable unit within the realm of precious metals, bridging history with modern financial practices. Whether involved in [mining](../m/mining.md), trading, or simply [investing](../i/investing.md) in gold or silver bullion, understanding the specific weights, conversions, and applications of the troy ounce is essential for accurate transactions and valuations. The continued usage of this ancient measure underscores its importance in maintaining standardized and fair trading practices globally.

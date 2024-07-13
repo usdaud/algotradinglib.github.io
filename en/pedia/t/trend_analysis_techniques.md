@@ -1,11 +1,11 @@
 # Trend Analysis Techniques
 
-[Trend analysis](../t/trend_analysis.md) is a critical technique in [algorithmic trading](../a/algorithmic_trading.md), used to identify and predict the direction of market movements. Through various methods, traders and data scientists can gain insights into market trends to make informed decisions. Here, we delve into some of the most prominent [trend analysis](../t/trend_analysis.md) techniques used in the domain.
+[Trend analysis](../t/trend_analysis.md) is a critical technique in [algorithmic trading](../a/algorithmic_trading.md), used to identify and predict the direction of [market](../m/market.md) movements. Through various methods, traders and data scientists can [gain](../g/gain.md) insights into [market](../m/market.md) trends to make informed decisions. Here, we delve into some of the most prominent [trend analysis](../t/trend_analysis.md) techniques used in the domain.
 
 ## Moving Averages
 
 ### Simple Moving Average (SMA)
-A Simple Moving Average calculates the average of a selected range of prices, usually closing prices, by the number of periods in that range. SMA is calculated by adding the closing prices of a given number of periods and then dividing this total by the number of periods.
+A Simple Moving Average calculates the average of a selected [range](../r/range.md) of prices, usually closing prices, by the number of periods in that [range](../r/range.md). SMA is calculated by adding the closing prices of a given number of periods and then dividing this total by the number of periods.
 
 ```plaintext
 SMA = (P1 + P2 + ... + Pn) / n
@@ -16,7 +16,7 @@ In this formula:
 - **n** represents the number of periods.
 
 ### Exponential Moving Average (EMA)
-Exponential Moving Average is a weighted form of the simple moving average that gives greater importance to the most recent data points.
+Exponential Moving Average is a [weighted](../w/weighted.md) form of the simple moving average that gives greater importance to the most recent data points.
 
 ```plaintext
 EMA = [P(t) * (2 / (n + 1))] + EMA(y) * [1 - (2 / (n + 1))]
@@ -25,23 +25,23 @@ EMA = [P(t) * (2 / (n + 1))] + EMA(y) * [1 - (2 / (n + 1))]
 In this formula:
 - **P(t)** is the price at time t.
 - **EMA(y)** is the EMA of the previous day.
-- **n** is the smoothing factor.
+- **n** is the smoothing [factor](../f/factor.md).
 
 ## Relative Strength Index (RSI)
 
-The Relative Strength Index (RSI) is a momentum oscillator that measures the speed and change of price movements. RSI oscillates between 0 and 100 and is typically used to identify overbought or oversold conditions in a market.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. RSI oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
 
 ```plaintext
 RSI = 100 - [100 / (1 + RS)]
-RS = Average Gain / Average Loss
+RS = Average [Gain](../g/gain.md) / Average Loss
 ```
 
 In this formula:
-- **RS** is the average gain of up periods during a specified time frame divided by the average loss of down periods.
+- **RS** is the average [gain](../g/gain.md) of up periods during a specified time frame divided by the average loss of down periods.
 
 ## Moving Average Convergence Divergence (MACD)
 
-MACD is a trend-following momentum indicator that shows the relationship between two moving averages of a security’s price. The MACD is calculated by subtracting the 26-period EMA from the 12-period EMA. The result of this calculation is the MACD line.
+MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages of a [security](../s/security.md)’s price. The MACD is calculated by subtracting the 26-period EMA from the 12-period EMA. The result of this calculation is the MACD line.
 
 ```plaintext
 MACD Line = 12-period EMA - 26-period EMA
@@ -52,37 +52,37 @@ A nine-day EMA of the MACD line, called the "signal line," is then plotted on to
 
 ## Bollinger Bands
 
-[Bollinger Bands](../b/bollinger_bands.md) are a type of price envelope developed by John Bollinger. The concept behind [Bollinger Bands](../b/bollinger_bands.md) is to depict volatility and indicate overbought or oversold conditions.
+[Bollinger Bands](../b/bollinger_bands.md) are a type of price [envelope](../e/envelope.md) developed by John Bollinger. The concept behind [Bollinger Bands](../b/bollinger_bands.md) is to depict [volatility](../v/volatility.md) and indicate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 - A middle band being an N-period simple moving average (MA)
-- An upper band at K times an N-period standard deviation above the middle band (MA + Kσ)
-- A lower band at K times an N-period standard deviation below the middle band (MA - Kσ)
+- An upper band at K times an N-period [standard deviation](../s/standard_deviation.md) above the middle band (MA + Kσ)
+- A lower band at K times an N-period [standard deviation](../s/standard_deviation.md) below the middle band (MA - Kσ)
 
 ```plaintext
-Upper Band = SMA + (Standard Deviation * 2)
-Lower Band = SMA - (Standard Deviation * 2)
+Upper Band = SMA + ([Standard Deviation](../s/standard_deviation.md) * 2)
+Lower Band = SMA - ([Standard Deviation](../s/standard_deviation.md) * 2)
 ```
 
 ## Fibonacci Retracement
 
-Fibonacci retracement levels are horizontal lines that indicate where [support and resistance](../s/support_and_resistance.md) are likely to occur based on the Fibonacci sequence. The commonly used ratios are 23.6%, 38.2%, 50%, 61.8%, and 100%.
+[Fibonacci retracement](../f/fibonacci_retracement.md) levels are horizontal lines that indicate where [support and resistance](../s/support_and_resistance.md) are likely to occur based on the Fibonacci sequence. The commonly used ratios are 23.6%, 38.2%, 50%, 61.8%, and 100%.
 
-Calculating Fibonacci retracement involves taking two extreme points (usually a major peak and trough) on a stock chart and dividing the vertical distance by the key Fibonacci ratios to create the levels.
+Calculating [Fibonacci retracement](../f/fibonacci_retracement.md) involves taking two extreme points (usually a major peak and [trough](../t/trough.md)) on a stock chart and dividing the vertical distance by the key Fibonacci ratios to create the levels.
 
 ## Dow Theory
 
-[Dow Theory](../d/dow_theory.md) is a method of understanding market movements based on the writings of Charles Dow. It essentially involves analyzing market trends from six perspectives:
+[Dow Theory](../d/dow_theory.md) is a method of understanding [market](../m/market.md) movements based on the writings of Charles Dow. It essentially involves analyzing [market](../m/market.md) trends from six perspectives:
 
-1. The market discounts everything.
-2. The market has three trends: Primary (long-term), secondary (medium-term), and minor trends.
-3. Primary trends have three phases: Accumulation, public participation, and distribution.
-4. Stock market averages must confirm each other.
-5. Volume must confirm the trend.
-6. Trends persist until a clear reversal occurs.
+1. The [market](../m/market.md) discounts everything.
+2. The [market](../m/market.md) has three trends: Primary (long-term), secondary (medium-term), and minor trends.
+3. Primary trends have three phases: Accumulation, public participation, and [distribution](../d/distribution.md).
+4. [Stock market](../s/stock_market.md) averages must confirm each other.
+5. [Volume](../v/volume.md) must confirm the [trend](../t/trend.md).
+6. Trends persist until a clear [reversal](../r/reversal.md) occurs.
 
 ## Ichimoku Cloud
 
-The [Ichimoku Cloud](../i/ichimoku_cloud.md), also known as Ichimoku Kinko Hyo, is a versatile indicator that defines support, resistance, trend direction, and momentum. It has five main components:
+The [Ichimoku Cloud](../i/ichimoku_cloud.md), also known as Ichimoku Kinko Hyo, is a versatile [indicator](../i/indicator.md) that defines support, resistance, [trend](../t/trend.md) direction, and [momentum](../m/momentum.md). It has five main components:
 
 - **Tenkan-sen (conversion line)**: Average of the highest high and the lowest low over the last 9 periods.
 - **Kijun-sen (base line)**: Average of the highest high and lowest low over the last 26 periods.
@@ -107,8 +107,8 @@ Machine learning and [artificial intelligence](../a/artificial_intelligence_in_t
 In supervised learning, algorithms are trained on a labeled dataset, meaning the input data is paired with output labels. Common algorithms used in [trend analysis](../t/trend_analysis.md) include:
 
 - **[Linear Regression](../l/linear_regression.md)**: Used for predicting numerical values based on linear relationships between variables.
-- **Random Forest**: An ensemble method using multiple [decision trees](../d/decision_trees.md) for classification and regression.
-- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Used for classification tasks, useful in separating one trend from another.
+- **Random Forest**: An ensemble method using [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md) for classification and regression.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Used for classification tasks, useful in separating one [trend](../t/trend.md) from another.
 
 ### Unsupervised Learning
 
@@ -121,20 +121,20 @@ Unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) work 
 
 In reinforcement learning, an agent learns to make decisions by taking actions in an environment to maximize some notion of cumulative reward.
 
-- **[Deep Q-Learning](../d/deep_q-learning.md)**: Uses deep learning techniques to approximate the Q-value function, which predicts the reward of actions in given states.
+- **[Deep Q-Learning](../d/deep_q-learning.md)**: Uses [deep learning](../d/deep_learning.md) techniques to approximate the Q-[value](../v/value.md) function, which predicts the reward of actions in given states.
 - **Policy Gradients**: Directly optimizes the policy function that maps states to actions, used in more complex decision-making problems.
 
 ## Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) involves analyzing text data from news articles, social media, and other sources to gauge market sentiment. [Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques are commonly used to extract sentiment scores, which can then be incorporated into [trading algorithms](../t/trading_algorithms.md).
+[Sentiment analysis](../s/sentiment_analysis.md) involves analyzing text data from news articles, [social media](../s/social_media.md), and other sources to gauge [market sentiment](../m/market_sentiment.md). [Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques are commonly used to extract sentiment scores, which can then be incorporated into [trading algorithms](../t/trading_algorithms.md).
 
-- **Text Classification**: Using machine [learning algorithms](../l/learning_algorithms_in_trading.md) to classify text data into sentiment categories (positive, negative, neutral).
+- **Text Classification**: Using machine [learning algorithms](../l/learning_algorithms_in_trading.md) to classify text data into sentiment categories (positive, negative, [neutral](../n/neutral.md)).
 - **Named Entity Recognition (NER)**: Identifies and categorizes key information (entities) in text.
-- **[Sentiment Indicators](../s/sentiment_indicators.md)**: Aggregates sentiment scores to create indicators reflecting market sentiment.
+- **[Sentiment Indicators](../s/sentiment_indicators.md)**: Aggregates sentiment scores to create indicators reflecting [market sentiment](../m/market_sentiment.md).
 
 ## Conclusion
 
-[Trend analysis](../t/trend_analysis.md) techniques are indispensable tools in the arsenal of algorithmic traders. By employing moving averages, RSI, MACD, [Bollinger Bands](../b/bollinger_bands.md), Fibonacci retracement, [Dow Theory](../d/dow_theory.md), [Ichimoku Cloud](../i/ichimoku_cloud.md), and advanced methods like machine learning and [sentiment analysis](../s/sentiment_analysis.md), traders can better understand and predict market movements. As the trading landscape evolves, the continuous advancement and integration of these techniques will remain pivotal in achieving trading success.
+[Trend analysis](../t/trend_analysis.md) techniques are indispensable tools in the arsenal of algorithmic traders. By employing moving averages, RSI, MACD, [Bollinger Bands](../b/bollinger_bands.md), [Fibonacci retracement](../f/fibonacci_retracement.md), [Dow Theory](../d/dow_theory.md), [Ichimoku Cloud](../i/ichimoku_cloud.md), and advanced methods like machine learning and [sentiment analysis](../s/sentiment_analysis.md), traders can better understand and predict [market](../m/market.md) movements. As the trading landscape evolves, the continuous advancement and integration of these techniques [will](../w/will.md) remain pivotal in achieving trading success.
 
 ---
 

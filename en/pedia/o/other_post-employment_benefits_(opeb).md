@@ -1,6 +1,6 @@
 # Other Post-Employment Benefits (OPEB)
 
-Other Post-Employment Benefits (OPEB) are benefits, other than pensions, that U.S. state and local governments provide to their retired employees. These benefits are crucial to public sector employees and include healthcare and various forms of insurance. The main focus of this discussion will be on understanding the nature of OPEB, the accounting and financial considerations involved, and the implications of OPEB liabilities on government fiscal health and public policy.
+Other Post-Employment Benefits (OPEB) are benefits, other than pensions, that U.S. state and local governments provide to their retired employees. These benefits are crucial to public sector employees and include healthcare and various forms of [insurance](../i/insurance.md). The main focus of this discussion [will](../w/will.md) be on understanding the nature of OPEB, the [accounting](../a/accounting.md) and financial considerations involved, and the implications of OPEB liabilities on government fiscal health and public policy.
 
 ## Understanding OPEB
 
@@ -8,38 +8,38 @@ Other Post-Employment Benefits (OPEB) are benefits, other than pensions, that U.
 
 OPEB typically encompasses the following benefits provided after retirement:
 
-- **Healthcare Insurance**: The most common type of OPEB, this includes medical, dental, vision, and other health-related insurance benefits.
-- **Life Insurance**: Policies that cover retired employees, continuing into their post-employment period.
+- **Healthcare [Insurance](../i/insurance.md)**: The most common type of OPEB, this includes medical, dental, vision, and other health-related [insurance](../i/insurance.md) benefits.
+- **[Life Insurance](../l/life_insurance.md)**: Policies that cover retired employees, continuing into their post-employment period.
 - **Disability Benefits**: Financial support in case of long-term disability.
 - **Legal Services**: Assistance with legal matters post-retirement.
-- **Other Benefits**: This can include various other benefits such as tuition reimbursement for retirees' children or healthcare for dependents.
+- **Other Benefits**: This can include various other benefits such as tuition [reimbursement](../r/reimbursement.md) for retirees' children or healthcare for dependents.
 
 ### Importance of OPEB
 
-Providing OPEB plays a significant role in attracting and retaining skilled employees in the public sector. The promise of comprehensive post-employment benefits can be a decisive factor for employees when considering long-term employment with a government.
+Providing OPEB plays a significant role in attracting and retaining skilled employees in the public sector. The promise of comprehensive post-employment benefits can be a decisive [factor](../f/factor.md) for employees when considering long-term employment with a government.
 
 ## Accounting for OPEB
 
 ### Governmental Accounting Standards Board (GASB) Statements
 
-The GASB has issued several statements to guide the accounting and reporting of OPEB:
+The GASB has issued several statements to guide the [accounting](../a/accounting.md) and reporting of OPEB:
 
-- **GASB Statement No. 45**: Prior to 2015, this statement required the measurement and disclosure of OPEB responsibilities but did not require the recognition of a full liability on the balance sheet.
-- **GASB Statement No. 75**: Effective from mid-2017, this updated standard requires governments to recognize the full OPEB liability on their balance sheets. This ensures greater transparency and accountability regarding the promises made to employees.
+- **GASB Statement No. 45**: Prior to 2015, this statement required the measurement and [disclosure](../d/disclosure.md) of OPEB responsibilities but did not require the recognition of a full [liability](../l/liability.md) on the [balance sheet](../b/balance_sheet.md).
+- **GASB Statement No. 75**: Effective from mid-2017, this updated standard requires governments to recognize the full OPEB [liability](../l/liability.md) on their balance sheets. This ensures greater [transparency](../t/transparency.md) and accountability regarding the promises made to employees.
 
 ### OPEB Trusts
 
-To manage and mitigate the financial impact of OPEB liabilities, many governments establish OPEB trusts. These are irrevocable funds set aside specifically to meet future OPEB obligations. Contributions to these trusts can help reduce the unfunded liability and provide a buffer against future cost increases.
+To manage and mitigate the financial impact of OPEB liabilities, many governments establish OPEB trusts. These are irrevocable funds set aside specifically to meet future OPEB [obligations](../o/obligation.md). Contributions to these trusts can help reduce the unfunded [liability](../l/liability.md) and provide a buffer against future cost increases.
 
 ## Financial Considerations
 
 ### Funding Status
 
-The funding status of OPEB plans can significantly impact a government's financial health. A fully funded OPEB plan signifies that sufficient assets have been set aside to meet future obligations, whereas an underfunded plan indicates a looming financial burden.
+The funding status of OPEB plans can significantly impact a government's [financial health](../f/financial_health.md). A fully funded OPEB plan signifies that sufficient assets have been set aside to meet future [obligations](../o/obligation.md), whereas an underfunded plan indicates a looming financial burden.
 
 ### Actuarial Valuations
 
-Regular actuarial valuations are essential for assessing the financial health of OPEB plans. These valuations consider various factors such as employee demographics, salary growth, healthcare cost trends, and investment returns.
+Regular actuarial valuations are essential for assessing the [financial health](../f/financial_health.md) of OPEB plans. These valuations consider various factors such as employee [demographics](../d/demographics.md), salary growth, healthcare cost trends, and investment returns.
 
 ### Amortization of Unfunded Liabilities
 
@@ -49,7 +49,7 @@ Unfunded OPEB liabilities must be amortized over a period not exceeding the aver
 
 ### Fiscal Health
 
-Unfunded OPEB liabilities are a significant concern for many state and local governments. Large OPEB liabilities can affect a government's credit rating, borrowing costs, and fiscal sustainability.
+Unfunded OPEB liabilities are a significant concern for many state and local governments. Large OPEB liabilities can affect a government's [credit rating](../c/credit_rating.md), borrowing costs, and fiscal sustainability.
 
 ### Budgetary Pressure
 
@@ -71,12 +71,12 @@ Governments must navigate legal constraints and ethical considerations when alte
 
 ### City of Chicago
 
-The City of Chicago has faced significant OPEB challenges, with billions of dollars in unfunded liabilities. In recent years, Chicago has made efforts to address these issues through a combination of benefit restructuring, increased contributions, and seeking legislative changes to provide more flexibility in managing OPEB costs.
+The City of Chicago has faced significant OPEB challenges, with billions of dollars in unfunded liabilities. In recent years, Chicago has made efforts to address these issues through a combination of benefit [restructuring](../r/restructuring.md), increased contributions, and seeking legislative changes to provide more flexibility in managing OPEB costs.
 
 ### State of California
 
-California's CalPERS system administers OPEB benefits for many state employees. The state has implemented prefunding strategies, including establishing a dedicated trust fund and requiring higher employee contributions. These measures have helped to stabilize California's OPEB liabilities but challenges remain due to rising healthcare costs.
+California's CalPERS system administers OPEB benefits for many state employees. The state has implemented prefunding strategies, including establishing a dedicated [trust fund](../t/trust_fund.md) and requiring higher employee contributions. These measures have helped to stabilize California's OPEB liabilities but challenges remain due to rising healthcare costs.
 
 ## Conclusion
 
-Other Post-Employment Benefits (OPEB) are a critical component of public sector employee compensation in the United States. Proper accounting, funding, and management of OPEB obligations are essential to ensure the fiscal health of state and local governments. As healthcare costs continue to rise, addressing OPEB liabilities will remain a complex and ongoing challenge requiring thoughtful policy solutions and proactive fiscal management.
+Other Post-Employment Benefits (OPEB) are a critical component of public sector employee compensation in the United States. Proper [accounting](../a/accounting.md), funding, and management of OPEB [obligations](../o/obligation.md) are essential to ensure the fiscal health of state and local governments. As healthcare costs continue to rise, addressing OPEB liabilities [will](../w/will.md) remain a complex and ongoing challenge requiring thoughtful policy solutions and proactive fiscal management.

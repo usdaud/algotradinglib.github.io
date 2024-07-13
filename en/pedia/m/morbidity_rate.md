@@ -18,17 +18,17 @@ For example, a morbidity rate of 50 per 10,000 per year means that out of every 
 
 ### Incidence Rate
 
-The incidence rate is a measure of the number of new cases of a disease that occur in a defined population over a specific period. This rate helps in understanding the risk of developing the disease and is often utilized in predictive modeling and epidemiology studies.
+The [incidence rate](../i/incidence_rate.md) is a measure of the number of new cases of a disease that occur in a defined population over a specific period. This rate helps in understanding the [risk](../r/risk.md) of developing the disease and is often utilized in [predictive modeling](../p/predictive_modeling.md) and epidemiology studies.
 
 Formula: 
-\[ \text{Incidence Rate} = \frac{\text{Number of New Cases}}{\text{Population at Risk} \times \text{Period of Time}} \times \text{Multiplier (e.g. 1,000 or 100,000)} \]
+\[ \text{[Incidence Rate](../i/incidence_rate.md)} = \frac{\text{Number of New Cases}}{\text{Population at [Risk](../r/risk.md)} \times \text{Period of Time}} \times \text{[Multiplier](../m/multiplier.md) (e.g. 1,000 or 100,000)} \]
 
 ### Prevalence Rate
 
 The prevalence rate is a measure that describes the number of cases (new and existing) present in a population at a given point in time or over a specified period. This measure is useful for assessing the overall burden of a disease within a population.
 
 Formula: 
-\[ \text{Prevalence Rate} = \frac{\text{Number of Total Cases}}{\text{Total Population}} \times \text{Multiplier (e.g. 1,000 or 100,000)} \]
+\[ \text{Prevalence Rate} = \frac{\text{Number of Total Cases}}{\text{Total Population}} \times \text{[Multiplier](../m/multiplier.md) (e.g. 1,000 or 100,000)} \]
 
 ### Point Prevalence and Period Prevalence
 
@@ -38,7 +38,7 @@ Formula:
 
 ## Data Collection Methods
 
-Accurate measurement of morbidity rates relies on robust data collection methodologies. The following are common methods used in gathering data:
+Accurate measurement of morbidity rates relies on [robust](../r/robust.md) data collection methodologies. The following are common methods used in gathering data:
 
 ### Surveys
 
@@ -47,15 +47,15 @@ Accurate measurement of morbidity rates relies on robust data collection methodo
 
 ### Administrative Data
 
-Healthcare facilities and insurance databases often maintain administrative data. This data can include hospital admissions, medical records, and insurance claims. While it provides vast amounts of information, it requires careful handling to ensure patient privacy and data quality.
+Healthcare facilities and [insurance](../i/insurance.md) databases often maintain administrative data. This data can include hospital admissions, medical records, and [insurance](../i/insurance.md) claims. While it provides vast amounts of information, it requires careful handling to ensure patient privacy and data quality.
 
 ### Sentinel Surveillance
 
-This involves monitoring specific health care providers or facilities that serve as "sentinels" or early warning systems for disease trends and outbreaks. It is often used for diseases of special interest to public health authorities.
+This involves monitoring specific health care providers or facilities that serve as "sentinels" or early warning systems for disease trends and outbreaks. It is often used for diseases of special [interest](../i/interest.md) to public health authorities.
 
 ## Factors Influencing Morbidity Rates
 
-There are multiple factors that can influence morbidity rates, including:
+There are [multiple](../m/multiple.md) factors that can influence morbidity rates, including:
 
 ### Healthcare Access
 
@@ -63,7 +63,7 @@ The level of accessibility to quality healthcare services can significantly impa
 
 ### Socioeconomic Status
 
-Lower socioeconomic status often correlates with higher morbidity rates. Factors such as poor living conditions, limited education, and unemployment contribute to increased vulnerability to diseases.
+Lower socioeconomic status often correlates with higher morbidity rates. Factors such as poor living conditions, limited education, and [unemployment](../u/unemployment.md) contribute to increased vulnerability to diseases.
 
 ### Environmental Factors
 
@@ -79,11 +79,11 @@ Genetics and biological characteristics, including age, sex, and family history,
 
 ### Public Health Interventions
 
-Programs aimed at vaccination, disease prevention, and health promotion can reduce morbidity by controlling the spread of infectious diseases and managing risk factors for chronic diseases.
+Programs aimed at vaccination, disease prevention, and health promotion can reduce morbidity by controlling the spread of infectious diseases and managing [risk factors](../r/risk_factors_in_trading.md) for chronic diseases.
 
 ## Applications in Public Health and Policy
 
-Morbidity rates are invaluable for a wide range of public health and policy applications:
+Morbidity rates are invaluable for a wide [range](../r/range.md) of public health and policy applications:
 
 ### Health Surveillance
 
@@ -91,11 +91,11 @@ Regular monitoring of morbidity rates helps detect trends and potential outbreak
 
 ### Resource Allocation
 
-Understanding morbidity patterns aids in efficient distribution of medical supplies, healthcare personnel, and funding to areas with higher disease burden.
+Understanding morbidity patterns aids in efficient [distribution](../d/distribution.md) of medical supplies, healthcare personnel, and funding to areas with higher disease burden.
 
 ### Program Planning and Evaluation
 
-Morbidity data is used to design and evaluate healthcare programs. For instance, the success of a vaccination campaign can be assessed by observing changes in the incidence rate of the targeted diseases.
+Morbidity data is used to design and evaluate healthcare programs. For instance, the success of a vaccination campaign can be assessed by observing changes in the [incidence rate](../i/incidence_rate.md) of the targeted diseases.
 
 ### Health Policy Formulation
 
@@ -105,7 +105,7 @@ Accurate morbidity rates provide evidence to support the development of health p
 
 ### Diabetes Prevalence
 
-The Centers for Disease Control and Prevention (CDC) provide comprehensive data on the prevalence of diabetes in the United States. According to CDC data, the age-adjusted prevalence of diagnosed diabetes increased among adults from 4.4% in 1994 to 7.4% in 2015. This data helps identify high-risk populations and craft targeted interventions.
+The Centers for Disease Control and Prevention (CDC) provide comprehensive data on the prevalence of diabetes in the United States. According to CDC data, the age-adjusted prevalence of diagnosed diabetes increased among adults from 4.4% in 1994 to 7.4% in 2015. This data helps identify high-[risk](../r/risk.md) populations and craft targeted interventions.
 
 Source: [CDC Diabetes Statistics](https://www.cdc.gov/diabetes/data/statistics-report/index.html)
 

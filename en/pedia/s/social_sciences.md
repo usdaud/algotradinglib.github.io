@@ -14,8 +14,8 @@ Social sciences are a group of academic disciplines that examine society and the
 - Includes subfields like clinical, cognitive, and social psychology
 
 ### 3. Economics
-- Analyzes production, distribution, and consumption of goods and services
-- Includes microeconomics and macroeconomics
+- Analyzes production, [distribution](../d/distribution.md), and consumption of goods and services
+- Includes [microeconomics](../m/microeconomics.md) and [macroeconomics](../m/macroeconomics.md)
 
 ### 4. Political Science
 - Studies governance, political behavior, and power relations
@@ -62,7 +62,7 @@ Social sciences are a group of academic disciplines that examine society and the
 1. **Policy Making**
    - Informing government decisions and public policy
 
-2. **Business and Management**
+2. **[Business](../b/business.md) and Management**
    - Understanding consumer behavior and organizational dynamics
 
 3. **Education**
@@ -89,7 +89,7 @@ Social sciences are a group of academic disciplines that examine society and the
    - Addressing issues of reproducibility in research findings
 
 4. **Interdisciplinary Integration**
-   - Bridging gaps between different social science disciplines
+   - Bridging [gaps](../g/gap.md) between different social science disciplines
 
 5. **Cultural Bias**
    - Recognizing and mitigating cultural biases in research
@@ -103,7 +103,7 @@ Social sciences are a group of academic disciplines that examine society and the
 
 ## Future Directions
 
-1. Big data analysis in social research
+1. [Big data](../b/big_data_in_trading.md) analysis in social research
 2. Integration of neuroscience and social sciences
 3. Addressing global challenges (e.g., climate change, inequality)
 4. Advancing computational social science

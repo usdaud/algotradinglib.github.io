@@ -1,65 +1,65 @@
 # Index Options
 
 ### Introduction
-Index options are financial [derivatives](../d/derivatives.md) that give the holder the right, but not the obligation, to buy or sell a basket of stocks represented by a specific index at a predetermined price before or on a specified expiration date. Unlike stock options which are based on individual assets, index options are based on an entire index such as the S&P 500, NASDAQ-100, or the Dow Jones Industrial Average. These instruments are widely used for hedging, speculation, and [portfolio management](../p/portfolio_management.md).
+[Index](../i/index.md) [options](../o/options.md) are financial [derivatives](../d/derivatives.md) that give the holder the right, but not the obligation, to buy or sell a basket of [stocks](../s/stock.md) represented by a specific [index](../i/index.md) at a predetermined price before or on a specified [expiration date](../e/expiration_date.md). Unlike stock [options](../o/options.md) which are based on individual assets, [index](../i/index.md) [options](../o/options.md) are based on an entire [index](../i/index.md) such as the S&P 500, [NASDAQ](../n/nasdaq.md)-100, or the Dow Jones Industrial Average. These instruments are widely used for hedging, [speculation](../s/speculation.md), and [portfolio management](../p/portfolio_management.md).
 
 ### Types of Index Options
-There are two primary types of index options:
+There are two primary types of [index](../i/index.md) [options](../o/options.md):
 
-1. **Call Options:** These give the holder the right to buy the index at a specified strike price.
-2. **[Put Options](../p/put_options.md):** These give the holder the right to sell the index at a specified strike price.
+1. **Call [Options](../o/options.md):** These give the holder the right to buy the [index](../i/index.md) at a specified [strike price](../s/strike_price.md).
+2. **[Put Options](../p/put_options.md):** These give the holder the right to sell the [index](../i/index.md) at a specified [strike price](../s/strike_price.md).
 
 ### Major Index Options
-Here are some of the most commonly traded index options:
+Here are some of the most commonly traded [index](../i/index.md) [options](../o/options.md):
 
-1. **S&P 500 Index Options (SPX):** These options are based on the S&P 500 index, which consists of 500 of the largest publicly traded companies in the U.S.
-2. **NASDAQ-100 Index Options (NDX):** These options are based on the NASDAQ-100 index, which includes 100 of the largest non-financial companies listed on the NASDAQ stock exchange.
-3. **Dow Jones Industrial Average (DJIA) Options (DJX):** These are options on the DJIA, an index representing 30 large, publicly-owned companies based in the U.S.
+1. **S&P 500 [Index](../i/index.md) [Options](../o/options.md) (SPX):** These [options](../o/options.md) are based on the S&P 500 [index](../i/index.md), which consists of 500 of the largest publicly traded companies in the U.S.
+2. **[NASDAQ](../n/nasdaq.md)-100 [Index](../i/index.md) [Options](../o/options.md) (NDX):** These [options](../o/options.md) are based on the [NASDAQ](../n/nasdaq.md)-100 [index](../i/index.md), which includes 100 of the largest non-financial companies [listed](../l/listed.md) on the [NASDAQ](../n/nasdaq.md) stock [exchange](../e/exchange.md).
+3. **Dow Jones Industrial Average (DJIA) [Options](../o/options.md) (DJX):** These are [options](../o/options.md) on the DJIA, an [index](../i/index.md) representing 30 large, publicly-owned companies based in the U.S.
 
-SPX options can be explored more [here](https://www.cboe.com/tradable_products/sp_500).
+SPX [options](../o/options.md) can be explored more [here](https://www.cboe.com/tradable_products/sp_500).
 
 ### Pricing and Valuation
-The valuation of index options is driven by several factors, primarily:
+The [valuation](../v/valuation.md) of [index](../i/index.md) [options](../o/options.md) is driven by several factors, primarily:
 
-1. **Spot Index Level:** The current level of the index.
-2. **Strike Price:** The price at which the option can be exercised.
-3. **Time to Expiration:** The remaining time until the expiration date.
-4. **Volatility:** The expected volatility of the index prices.
-5. **Risk-Free Interest Rate:** The current risk-free interest rate, typically the yield on government bonds.
-6. **Dividends:** Expected dividends from the index components.
+1. **Spot [Index](../i/index.md) Level:** The current level of the [index](../i/index.md).
+2. **[Strike Price](../s/strike_price.md):** The price at which the option can be exercised.
+3. **Time to Expiration:** The remaining time until the [expiration date](../e/expiration_date.md).
+4. **[Volatility](../v/volatility.md):** The expected [volatility](../v/volatility.md) of the [index](../i/index.md) prices.
+5. **[Risk](../r/risk.md)-Free [Interest Rate](../i/interest_rate.md):** The current [risk](../r/risk.md)-free [interest rate](../i/interest_rate.md), typically the [yield](../y/yield.md) on government bonds.
+6. **Dividends:** Expected dividends from the [index](../i/index.md) components.
 
-The [Black-Scholes model](../b/black-scholes_model.md) and the Binomial model are commonly used to price index options.
+The [Black-Scholes model](../b/black-scholes_model.md) and the Binomial model are commonly used to price [index](../i/index.md) [options](../o/options.md).
 
 ### Settlement of Index Options
-Index options are typically cash-settled, which means that upon expiration, the difference between the index price and the strike price is paid in cash. The settlement can be:
+[Index](../i/index.md) [options](../o/options.md) are typically cash-settled, which means that upon expiration, the difference between the [index](../i/index.md) price and the [strike price](../s/strike_price.md) is paid in cash. The settlement can be:
 
 1. **European-style:** Exercisable only at expiration.
 2. **American-style:** Exercisable at any point before expiration.
 
 ### Popular Strategies
-Traders use various strategies to profit from or hedge using index options, including:
+Traders use various strategies to [profit](../p/profit.md) from or [hedge](../h/hedge.md) using [index](../i/index.md) [options](../o/options.md), including:
 
-1. **Covered Calls:** Holding the underlying asset and selling a call option.
-2. **Protective Puts:** Holding the underlying asset and buying a put option.
-3. **Straddles:** Buying both a call and a put at the same strike price and expiration.
-4. **Spreads:** Simultaneously buying and selling options of the same type with different strike prices or expiration dates.
+1. **Covered Calls:** Holding the [underlying asset](../u/underlying_asset.md) and selling a [call option](../c/call_option.md).
+2. **Protective Puts:** Holding the [underlying asset](../u/underlying_asset.md) and buying a [put option](../p/put.md).
+3. **Straddles:** Buying both a call and a put at the same [strike price](../s/strike_price.md) and expiration.
+4. **[Spreads](../s/spreads.md):** Simultaneously buying and selling [options](../o/options.md) of the same type with different strike prices or expiration dates.
 
 ### Risks and Benefits
 
 #### Benefits:
-1. **Hedging:** Index options can be used as a [risk management](../r/risk_management.md) tool to protect against market downturns.
-2. **Leverage:** Allows for greater exposure with less capital outlay.
-3. **Diversification:** Exposure to a broad market index can reduce individual stock risk.
+1. **Hedging:** [Index](../i/index.md) [options](../o/options.md) can be used as a [risk management](../r/risk_management.md) tool to protect against [market](../m/market.md) downturns.
+2. **[Leverage](../l/leverage.md):** Allows for greater exposure with less [capital](../c/capital.md) outlay.
+3. **[Diversification](../d/diversification.md):** Exposure to a broad [market index](../m/market_index.md) can reduce individual stock [risk](../r/risk.md).
 
 #### Risks:
-1. **Complexity:** Understanding and managing index options can be complex.
-2. **Volatility:** The high volatility of options can lead to significant price swings.
-3. **Losses:** Potential for substantial losses, especially for writers of options.
+1. **Complexity:** Understanding and managing [index](../i/index.md) [options](../o/options.md) can be complex.
+2. **[Volatility](../v/volatility.md):** The high [volatility](../v/volatility.md) of [options](../o/options.md) can lead to significant price swings.
+3. **Losses:** Potential for substantial losses, especially for writers of [options](../o/options.md).
 
 ### Regulatory Aspects
-Index options trading is regulated by various financial authorities, including the Securities and Exchange Commission (SEC) in the United States and the Financial Conduct Authority (FCA) in the UK. These authorities set rules to protect investors and ensure fair trading practices.
+[Index](../i/index.md) [options](../o/options.md) trading is regulated by various financial authorities, including the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) in the United States and the Financial Conduct Authority (FCA) in the UK. These authorities set rules to protect investors and ensure fair trading practices.
 
 ### Conclusion
-Index options are a versatile financial instrument used widely in the market for a range of purposes from hedging to speculation. Understanding their characteristics, pricing, and risks is critical for anyone looking to utilize them in their trading or investment strategy.
+[Index](../i/index.md) [options](../o/options.md) are a versatile [financial instrument](../f/financial_instrument.md) used widely in the [market](../m/market.md) for a [range](../r/range.md) of purposes from hedging to [speculation](../s/speculation.md). Understanding their characteristics, pricing, and risks is critical for anyone looking to utilize them in their trading or [investment strategy](../i/investment_strategy.md).
 
-For further reading on SPX options, you can visit the Chicago Board Options Exchange (CBOE) [website](https://www.cboe.com/tradable_products/sp_500).
+For further reading on SPX [options](../o/options.md), you can visit the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE) [website](https://www.cboe.com/tradable_products/sp_500).

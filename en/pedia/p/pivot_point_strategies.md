@@ -1,12 +1,12 @@
 # Pivot Point Strategies
 
-Pivot Point strategies are a widely used approach in [algorithmic trading](../a/algorithmic_trading.md) to identify potential [support and resistance](../s/support_and_resistance.md) levels in the market. These strategies revolve around the calculation and use of [Pivot Points](../p/pivot_points.md), which are derived from the previous trading day's high, low, and closing prices. [Pivot Points](../p/pivot_points.md) provide traders with potential entry and exit points for their trades and are especially popular among day traders and scalpers. Below is an in-depth exploration of Pivot Point strategies, their calculation, implementation, and application in [algorithmic trading](../a/algorithmic_trading.md).
+[Pivot Point](../p/pivot_point.md) strategies are a widely used approach in [algorithmic trading](../a/algorithmic_trading.md) to identify potential [support and resistance](../s/support_and_resistance.md) levels in the [market](../m/market.md). These strategies revolve around the calculation and use of [Pivot Points](../p/pivot_points.md), which are derived from the previous trading day's high, low, and closing prices. [Pivot Points](../p/pivot_points.md) provide traders with potential entry and exit points for their trades and are especially popular among day traders and scalpers. Below is an in-depth exploration of [Pivot Point](../p/pivot_point.md) strategies, their calculation, implementation, and application in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Calculation of Pivot Points
 
 ### Basic Pivot Point (P)
 
-The central Pivot Point (P) is calculated using the following formula:
+The central [Pivot Point](../p/pivot_point.md) (P) is calculated using the following formula:
 
 \[ P = \frac{(High_{previous} + Low_{previous} + Close_{previous})}{3} \]
 
@@ -17,7 +17,7 @@ Where:
 
 ### Support and Resistance Levels
 
-Once the central Pivot Point (P) is determined, additional [support and resistance](../s/support_and_resistance.md) levels can be calculated as follows:
+Once the central [Pivot Point](../p/pivot_point.md) (P) is determined, additional [support and resistance](../s/support_and_resistance.md) levels can be calculated as follows:
 
 #### First Level of Resistance (R1) and Support (S1)
 
@@ -40,7 +40,7 @@ Once the central Pivot Point (P) is determined, additional [support and resistan
 Standard [Pivot Points](../p/pivot_points.md), as described above, use the previous trading day's high, low, and close values. They are the most commonly used type of [Pivot Points](../p/pivot_points.md).
 
 ### Fibonacci Pivot Points
-Fibonacci [Pivot Points](../p/pivot_points.md) incorporate Fibonacci retracement and extension levels into the calculation of [support and resistance](../s/support_and_resistance.md) levels:
+Fibonacci [Pivot Points](../p/pivot_points.md) incorporate [Fibonacci retracement](../f/fibonacci_retracement.md) and extension levels into the calculation of [support and resistance](../s/support_and_resistance.md) levels:
 
 #### Pivot Point (P)
 
@@ -108,40 +108,40 @@ High_{previous} + 2 \times Low_{previous} + Close_{previous}, & \text{if Close_{
 
 ### Reversal Trading Strategy
 
-One of the most common strategies using [Pivot Points](../p/pivot_points.md) is the Reversal Trading Strategy. This strategy involves taking buy or sell positions when the price reverses at key Pivot Point levels.
+One of the most common strategies using [Pivot Points](../p/pivot_points.md) is the [Reversal](../r/reversal.md) [Trading Strategy](../t/trading_strategy.md). This strategy involves taking buy or sell positions when the price reverses at key [Pivot Point](../p/pivot_point.md) levels.
 
 - **Buy Signal**: When the price falls to a support level (S1, S2, or S3) and shows signs of reversing, a buy signal is generated.
 - **Sell Signal**: When the price rises to a resistance level (R1, R2, or R3) and shows signs of reversing, a sell signal is generated.
 
 ### Breakout Trading Strategy
 
-In a [Breakout Trading](../b/breakout_trading.md) Strategy, traders look for prices to break through key Pivot Point levels with substantial volume, indicating the potential for a continued move in the breakout direction.
+In a [Breakout Trading](../b/breakout_trading.md) Strategy, traders look for prices to break through key [Pivot Point](../p/pivot_point.md) levels with substantial [volume](../v/volume.md), indicating the potential for a continued move in the [breakout](../b/breakout.md) direction.
 
-- **Buy Signal**: When the price breaks through a resistance level (R1, R2, or R3) with increased volume, a buy signal is generated.
-- **Sell Signal**: When the price breaks through a support level (S1, S2, or S3) with increased volume, a sell signal is generated.
+- **Buy Signal**: When the price breaks through a resistance level (R1, R2, or R3) with increased [volume](../v/volume.md), a buy signal is generated.
+- **Sell Signal**: When the price breaks through a support level (S1, S2, or S3) with increased [volume](../v/volume.md), a sell signal is generated.
 
 ### Range-Bound Trading Strategy
 
-For markets that tend to trade within tight ranges, the Range-Bound Trading Strategy involves buying at [support levels](../s/support_levels.md) and selling at resistance levels.
+For markets that tend to [trade](../t/trade.md) within tight ranges, the [Range](../r/range.md)-Bound [Trading Strategy](../t/trading_strategy.md) involves buying at [support levels](../s/support_levels.md) and selling at resistance levels.
 
-- **Buy Signal**: When the price reaches a support level and moves sideways, potential for a range-bound trade.
-- **Sell Signal**: When the price reaches a resistance level and moves sideways, potential for a range-bound trade.
+- **Buy Signal**: When the price reaches a support level and moves sideways, potential for a [range](../r/range.md)-bound [trade](../t/trade.md).
+- **Sell Signal**: When the price reaches a resistance level and moves sideways, potential for a [range](../r/range.md)-bound [trade](../t/trade.md).
 
 ### Combining Pivot Points with Other Indicators
 
 Combining [Pivot Points](../p/pivot_points.md) with other [technical indicators](../t/technical_indicators.md) can enhance the effectiveness of [trading strategies](../t/trading_strategies.md). Commonly combined indicators include:
 
-- **Moving Averages**: To confirm the trend direction when a Pivot Point level is reached.
-- **Relative Strength Index (RSI)**: To identify overbought or oversold conditions at Pivot Point levels.
-- **MACD (Moving Average Convergence Divergence)**: To validate momentum at Pivot Point levels.
+- **Moving Averages**: To confirm the [trend](../t/trend.md) direction when a [Pivot Point](../p/pivot_point.md) level is reached.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: To identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions at [Pivot Point](../p/pivot_point.md) levels.
+- **MACD (Moving Average Convergence [Divergence](../d/divergence.md))**: To validate [momentum](../m/momentum.md) at [Pivot Point](../p/pivot_point.md) levels.
 
 ## Example of an Algorithm Using Pivot Points
 
 Below is a basic example of a Python algorithm using [Pivot Points](../p/pivot_points.md) and the `pandas` and `numpy` libraries:
 
 ```python
-import pandas as pd
-import numpy as np
+[import](../i/import.md) pandas as pd
+[import](../i/import.md) numpy as np
 
 def calculate_pivot_points(df):
     df['P'] = (df['High'] + df['Low'] + df['Close']) / 3
@@ -151,7 +151,7 @@ def calculate_pivot_points(df):
     df['S2'] = df['P'] - (df['High'] - df['Low'])
     df['R3'] = df['High'] + 2 * (df['P'] - df['Low'])
     df['S3'] = df['Low'] - 2 * (df['High'] - df['P'])
-    return df
+    [return](../r/return.md) df
 
 def trading_signal(df):
     conditions = [
@@ -159,8 +159,8 @@ def trading_signal(df):
         (df['Close'] > df['R1'])
     ]
     choices = ['Sell', 'Buy']
-    df['Signal'] = np.select(conditions, choices, default='Hold')
-    return df
+    df['Signal'] = np.select(conditions, choices, [default](../d/default.md)='[Hold](../h/hold.md)')
+    [return](../r/return.md) df
 
 # Sample DataFrame
 data = {
@@ -180,12 +180,12 @@ print(df)
 
 Many trading platforms and tools provide built-in capabilities to calculate and use [Pivot Points](../p/pivot_points.md) in [trading strategies](../t/trading_strategies.md). Some of these platforms include:
 
-- **MetaTrader 4 and 5 (MT4/MT5)**: Widely used trading platforms that feature Pivot Point indicators and allow for the development of custom algorithms using MetaQuotes Language (MQL4/MQL5).
-- **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced charting and [backtesting](../b/backtesting.md) capabilities, including Pivot Point indicators. [NinjaTrader Website](https://ninjatrader.com/)
-- **[TradingView](../t/tradingview.md)**: Provides charting tools with Pivot Point indicators and supports custom script creation using Pine Script. [TradingView Website](https://www.tradingview.com/)
+- **MetaTrader 4 and 5 (MT4/MT5)**: Widely used trading platforms that feature [Pivot Point](../p/pivot_point.md) indicators and allow for the development of custom algorithms using MetaQuotes Language (MQL4/MQL5).
+- **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced charting and [backtesting](../b/backtesting.md) capabilities, including [Pivot Point](../p/pivot_point.md) indicators. [NinjaTrader Website](https://ninjatrader.com/)
+- **[TradingView](../t/tradingview.md)**: Provides charting tools with [Pivot Point](../p/pivot_point.md) indicators and supports custom script creation using Pine Script. [TradingView Website](https://www.tradingview.com/)
 - **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows you to develop, backtest, and deploy [trading strategies](../t/trading_strategies.md) using Python and C#. [QuantConnect Website](https://www.quantconnect.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR)**: Offers Trader Workstation (TWS) which includes Pivot Point analysis tools and APIs for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers Website](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md) (IBKR)**: Offers [Trader](../t/trader.md) Workstation (TWS) which includes [Pivot Point](../p/pivot_point.md) analysis tools and APIs for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers Website](https://www.interactivebrokers.com/)
 
 ## Conclusion
 
-Pivot Point strategies are an essential part of the toolkit for both manual and algorithmic traders. These strategies leverage historical price data to identify key levels where the market sentiment may shift. Implementing Pivot Point strategies in [algorithmic trading](../a/algorithmic_trading.md) involves calculating [Pivot Points](../p/pivot_points.md), determining [support and resistance](../s/support_and_resistance.md) levels, and developing algorithms that generate [trading signals](../t/trading_signals.md) based on these levels. When combined with other [technical indicators](../t/technical_indicators.md) and tools, Pivot Point strategies can become a powerful component of a trader’s overall strategy. The adoption of platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), [TradingView](../t/tradingview.md), [QuantConnect](../q/quantconnect.md), and [Interactive Brokers](../i/interactive_brokers.md) can facilitate the development and execution of Pivot Point-based algorithms.
+[Pivot Point](../p/pivot_point.md) strategies are an essential part of the toolkit for both manual and algorithmic traders. These strategies [leverage](../l/leverage.md) historical price data to identify key levels where the [market sentiment](../m/market_sentiment.md) may shift. Implementing [Pivot Point](../p/pivot_point.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) involves calculating [Pivot Points](../p/pivot_points.md), determining [support and resistance](../s/support_and_resistance.md) levels, and developing algorithms that generate [trading signals](../t/trading_signals.md) based on these levels. When combined with other [technical indicators](../t/technical_indicators.md) and tools, [Pivot Point](../p/pivot_point.md) strategies can become a powerful component of a [trader](../t/trader.md)’s overall strategy. The adoption of platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), [TradingView](../t/tradingview.md), [QuantConnect](../q/quantconnect.md), and [Interactive Brokers](../i/interactive_brokers.md) can facilitate the development and [execution](../e/execution.md) of [Pivot Point](../p/pivot_point.md)-based algorithms.

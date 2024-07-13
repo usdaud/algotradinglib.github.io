@@ -1,11 +1,11 @@
 # Highly Compensated Employee (HCE)
 
 ## Definition
-A **Highly Compensated Employee (HCE)** is a classification used in the context of employee benefit plans, particularly retirement plans, to identify employees who are among the higher earners within an organization. This designation is important for ensuring compliance with non-discrimination rules set by the Internal Revenue Service (IRS) and the Department of Labor (DOL) in the United States.
+A **Highly Compensated Employee (HCE)** is a classification used in the context of employee benefit plans, particularly retirement plans, to identify employees who are among the higher earners within an organization. This designation is important for ensuring compliance with non-discrimination rules set by the Internal [Revenue](../r/revenue.md) Service (IRS) and the Department of Labor (DOL) in the United States.
 
 ## Key Components
-1. **Compensation Threshold**: The IRS sets a specific compensation threshold that determines whether an employee is considered highly compensated. This threshold can change annually based on inflation adjustments.
-2. **Ownership Interest**: An employee who owns more than 5% of the company at any time during the year or the preceding year is considered an HCE, regardless of their compensation level.
+1. **Compensation Threshold**: The IRS sets a specific compensation threshold that determines whether an employee is considered highly compensated. This threshold can change annually based on [inflation](../i/inflation.md) adjustments.
+2. **Ownership [Interest](../i/interest.md)**: An employee who owns more than 5% of the company at any time during the year or the preceding year is considered an HCE, regardless of their compensation level.
 3. **Top-Paid Group**: Employees who are in the top 20% of earners within the company may also be classified as HCEs, depending on the employer's election to apply this rule.
 
 ## Importance in Retirement Plans

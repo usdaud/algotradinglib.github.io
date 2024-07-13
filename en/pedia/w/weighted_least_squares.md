@@ -1,6 +1,6 @@
 # Weighted Least Squares (WLS)
 
-Weighted Least Squares (WLS) is an important statistical method used to perform [linear regression](../l/linear_regression.md) when the standard assumptions of ordinary least squares (OLS) are not met. Specifically, WLS addresses situations where heteroscedasticity is present, that is, when the variance of the errors varies across observations. It assigns different weights to different data points based on the certainty of the measurements, thereby improving the accuracy and reliability of the regression model.
+[Weighted](../w/weighted.md) Least Squares (WLS) is an important statistical method used to perform [linear regression](../l/linear_regression.md) when the standard assumptions of ordinary least squares (OLS) are not met. Specifically, WLS addresses situations where heteroscedasticity is present, that is, when the variance of the errors varies across observations. It assigns different weights to different data points based on the certainty of the measurements, thereby improving the accuracy and reliability of the regression model.
 
 ## Introduction to Regression Analysis
 
@@ -15,7 +15,7 @@ Where:
 - \(Y\) is the dependent variable,
 - \(\beta_0, \beta_1, \ldots, \beta_p\) are the coefficients,
 - \(X_1, X_2, \ldots, X_p\) are the independent variables,
-- and \(\epsilon\) represents the error term.
+- and \(\epsilon\) represents the [error term](../e/error_term.md).
 
 The OLS method minimizes the sum of the squared differences between the observed and predicted values:
 \[ \min \sum_{i=1}^{n} (Y_i - \hat{Y_i})^2 \]
@@ -43,20 +43,20 @@ Heteroscedasticity can be identified through:
 Unlike OLS, which treats all data points equally, WLS assigns weights to each data point according to the inverse of their variance:
 \[ \mathbf{W} = \text{diag}\left(\frac{1}{\sigma_1^2}, \frac{1}{\sigma_2^2}, \ldots, \frac{1}{\sigma_n^2}\right) \]
 
-The WLS estimation minimizes the weighted sum of squared residuals:
+The WLS estimation minimizes the [weighted](../w/weighted.md) sum of squared residuals:
 \[ \min \sum_{i=1}^{n} w_i (Y_i - \hat{Y_i})^2 \]
 
-Where each weight \( w_i \) is typically \( \frac{1}{\sigma_i^2} \), with \( \sigma_i^2 \) being the variance of the \( i \)-th observation's error term.
+Where each weight \( w_i \) is typically \( \frac{1}{\sigma_i^2} \), with \( \sigma_i^2 \) being the variance of the \( i \)-th observation's [error term](../e/error_term.md).
 
 ## Mathematical Formulation of WLS
 
 Consider the [linear regression](../l/linear_regression.md) model:
-\[ \mathbf{Y} = \mathbf{X} \boldsymbol{\beta} + \boldsymbol{\epsilon} \]
+\[ \mathbf{Y} = \mathbf{X} \boldsymbol{\[beta](../b/beta.md)} + \boldsymbol{\epsilon} \]
 
-With \( \mathbf{Y} \) being the vector of observed values, \( \mathbf{X} \) the matrix of independent variables, \( \boldsymbol{\beta} \) the vector of regression coefficients, and \( \boldsymbol{\epsilon} \) the error terms.
+With \( \mathbf{Y} \) being the vector of observed values, \( \mathbf{X} \) the matrix of independent variables, \( \boldsymbol{\[beta](../b/beta.md)} \) the vector of regression coefficients, and \( \boldsymbol{\epsilon} \) the error terms.
 
-The WLS estimates \( \boldsymbol{\beta} \) by solving:
-\[ \left( \mathbf{X}^\top \mathbf{W} \mathbf{X} \right) \boldsymbol{\beta} = \mathbf{X}^\top \mathbf{W} \mathbf{Y} \]
+The WLS estimates \( \boldsymbol{\[beta](../b/beta.md)} \) by solving:
+\[ \left( \mathbf{X}^\top \mathbf{W} \mathbf{X} \right) \boldsymbol{\[beta](../b/beta.md)} = \mathbf{X}^\top \mathbf{W} \mathbf{Y} \]
 
 Where \( \mathbf{W} \) is the diagonal weight matrix.
 
@@ -65,8 +65,8 @@ Where \( \mathbf{W} \) is the diagonal weight matrix.
 1. **Diagnose Heteroscedasticity**: Using residual plots or formal tests.
 2. **Determine Weights**: Based on the inverse of variances of error terms.
 3. **Transform the Data**: Adjust the observations according to the determined weights.
-4. **Fit the Model**: Using the weighted data, estimate the coefficients.
-5. **Evaluate the Model**: Check residuals and other diagnostics to ensure the model’s validity.
+4. **Fit the Model**: Using the [weighted](../w/weighted.md) data, estimate the coefficients.
+5. **Evaluate the Model**: [Check](../c/check.md) residuals and other diagnostics to ensure the model’s validity.
 
 ## Application in Algo Trading
 
@@ -74,13 +74,13 @@ Algo trading, or [algorithmic trading](../a/algorithmic_trading.md), involves us
 
 ### Use of WLS in Algo Trading
 
-1. **Address Heteroscedasticity**: Financial data often exhibits heteroscedasticity due to varying market volatility. WLS helps in creating more reliable models.
+1. **Address Heteroscedasticity**: Financial data often exhibits heteroscedasticity due to varying [market](../m/market.md) [volatility](../v/volatility.md). WLS helps in creating more reliable models.
 2. **Improve Model Accuracy**: By assigning appropriate weights, WLS improves the precision of the [predictive models](../p/predictive_models_in_trading.md) used in [trading algorithms](../t/trading_algorithms.md).
 3. **Enhance [Risk Management](../r/risk_management.md)**: Better model accuracy translates to more effective [risk management](../r/risk_management.md) strategies in trading.
 
 ## Practical Example
 
-Consider a financial analyst using WLS to model the relationship between a stock’s return (dependent variable) and various financial indicators (independent variables). Assume heteroscedasticity is detected in the residuals.
+Consider a financial analyst using WLS to model the relationship between a stock’s [return](../r/return.md) (dependent variable) and various financial indicators (independent variables). Assume heteroscedasticity is detected in the residuals.
 
 ### Steps Followed
 
@@ -90,10 +90,10 @@ Consider a financial analyst using WLS to model the relationship between a stock
 4. **Fit WLS Model**: The WLS regression is performed to estimate the relationship accurately.
 5. **Validate Model**: Residuals are checked to ensure heteroscedasticity is adequately addressed.
 
-By incorporating WLS, the analyst achieves a model that better adjusts to varying volatility, enhancing the trading strategy's reliability.
+By incorporating WLS, the analyst achieves a model that better adjusts to varying [volatility](../v/volatility.md), enhancing the [trading strategy](../t/trading_strategy.md)'s reliability.
 
 ## Conclusion
 
-Weighted Least Squares is a powerful extension of ordinary least squares, providing robustness to heteroscedasticity and improving model accuracy. Its application is particularly valuable in fields like [algorithmic trading](../a/algorithmic_trading.md), where precision and reliability are paramount. Understanding and applying WLS equips analysts and traders with the tools to address real-world data complexities, leading to more informed and effective decision-making.
+[Weighted](../w/weighted.md) Least Squares is a powerful extension of ordinary least squares, providing robustness to heteroscedasticity and improving model accuracy. Its application is particularly valuable in fields like [algorithmic trading](../a/algorithmic_trading.md), where precision and reliability are paramount. Understanding and applying WLS equips analysts and traders with the tools to address real-world data complexities, leading to more informed and effective decision-making.
 
 For further information or in-depth examples, consulting specialized statistical texts or comprehensive resources such as [econometrics](../e/econometrics_in_trading.md) literature is recommended.

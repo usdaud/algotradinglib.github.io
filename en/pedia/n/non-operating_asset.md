@@ -1,93 +1,93 @@
 # Non-Operating Asset
 
-A non-operating asset is an asset that is not essential to the day-to-day functioning and core operations of a company. These assets may still generate income or have potential future value, but their primary role is not directly contributing to the company's main business activities. Non-operating assets can be diverse, encompassing various forms such as investments, real estate, and intellectual property. Understanding non-operating assets is crucial for accurately valuing a company, making informed financial decisions, and developing long-term strategic plans.
+A non-operating [asset](../a/asset.md) is an [asset](../a/asset.md) that is not essential to the day-to-day functioning and core operations of a company. These assets may still generate [income](../i/income.md) or have potential future [value](../v/value.md), but their primary role is not directly contributing to the company's main [business activities](../b/business_activities.md). Non-operating assets can be diverse, encompassing various forms such as investments, [real estate](../r/real_estate.md), and intellectual property. Understanding non-operating assets is crucial for accurately valuing a company, making informed financial decisions, and developing long-term strategic plans.
 
 ## Characteristics of Non-Operating Assets
 
 ### Non-Essential to Core Operations
 
-Non-operating assets do not play a direct role in the fundamental activities that define the business. For example, a manufacturing company's primary operations may include the production and sale of goods, while its non-operating assets could include properties that are rented out to others, marketable securities, or unused patents.
+Non-operating assets do not play a direct role in the fundamental activities that define the [business](../b/business.md). For example, a [manufacturing](../m/manufacturing.md) company's primary operations may include the production and [sale](../s/sale.md) of goods, while its non-operating assets could include properties that are rented out to others, [marketable securities](../m/marketable_securities.md), or unused patents.
 
 ### Income Generation
 
-While not integral to core operations, non-operating assets can still provide income. This income might come from rental or leasing properties, dividends from investments, interest from financial securities, or royalties from intellectual property.
+While not integral to core operations, non-operating assets can still provide [income](../i/income.md). This [income](../i/income.md) might come from rental or leasing properties, dividends from investments, [interest](../i/interest.md) from financial securities, or royalties from intellectual property.
 
 ### Liquidity
 
-Non-operating assets are often more liquid than operating assets. For instance, marketable securities can be sold more quickly than machinery used in production. This liquidity can be advantageous when a company needs rapid access to cash.
+Non-operating assets are often more [liquid](../l/liquid.md) than operating assets. For instance, [marketable securities](../m/marketable_securities.md) can be sold more quickly than machinery used in production. This [liquidity](../l/liquidity.md) can be advantageous when a company needs rapid access to cash.
 
 ### Valuation Impacts
 
-Investors and analysts often segregate non-operating assets from operating ones to gain a clearer picture of a company's operational efficiency and true market value. The valuation of these assets can be significant, sometimes providing a company with a financial cushion during downturns.
+Investors and analysts often segregate non-operating assets from operating ones to [gain](../g/gain.md) a clearer picture of a company's [operational efficiency](../o/operational_efficiency_in_trading.md) and true [market value](../m/market_value.md). The [valuation](../v/valuation.md) of these assets can be significant, sometimes providing a company with a financial cushion during downturns.
 
 ### Strategic Reserves
 
-Companies sometimes hold non-operating assets as strategic reserves. These can be monetized in times of need, providing a buffer during economic slowdowns or to fund expansion plans.
+Companies sometimes [hold](../h/hold.md) non-operating assets as strategic reserves. These can be monetized in times of need, providing a buffer during economic slowdowns or to [fund](../f/fund.md) [expansion](../e/expansion.md) plans.
 
 ## Types of Non-Operating Assets
 
 ### Cash and Cash Equivalents
 
-These are highly liquid assets such as currency, demand deposits, and short-term, highly liquid investments that are readily convertible to known amounts of cash.
+These are highly [liquid](../l/liquid.md) assets such as [currency](../c/currency.md), [demand](../d/demand.md) deposits, and short-term, highly [liquid](../l/liquid.md) investments that are readily convertible to known amounts of cash.
 
 ### Marketable Securities
 
-These include stocks, bonds, or other securities that are bought and sold on public exchanges. They provide a source of additional income via dividends or interest and potential capital gains.
+These include [stocks](../s/stock.md), bonds, or other securities that are bought and sold on public exchanges. They provide a source of additional [income](../i/income.md) via dividends or [interest](../i/interest.md) and potential [capital](../c/capital.md) gains.
 
 ### Real Estate
 
-Properties not used in primary business operations, such as investment properties or surplus office space. These can generate rental income or be sold for a profit.
+Properties not used in primary [business](../b/business.md) operations, such as investment properties or [surplus](../s/surplus.md) office space. These can generate rental [income](../i/income.md) or be sold for a [profit](../p/profit.md).
 
 ### Investments in Other Companies
 
-Equity stakes in other businesses can provide dividends and potential growth income but are not tied to the core activities of the holding company.
+[Equity](../e/equity.md) stakes in other businesses can provide dividends and potential growth [income](../i/income.md) but are not tied to the core activities of the [holding company](../h/holding_company.md).
 
 ### Intellectual Property
 
-Patents, trademarks, and copyrights that are not currently utilized in the company's production or service offerings but might generate future income or royalties.
+Patents, trademarks, and copyrights that are not currently utilized in the company's production or service offerings but might generate future [income](../i/income.md) or royalties.
 
 ## Accounting for Non-Operating Assets
 
 ### Balance Sheet Presentation
 
-Non-operating assets are typically listed separately from operating assets on the balance sheet. This separation helps stakeholders understand the proportion of assets tied to core operations versus those that are peripheral.
+Non-operating assets are typically [listed](../l/listed.md) separately from operating assets on the [balance sheet](../b/balance_sheet.md). This separation helps stakeholders understand the proportion of assets tied to core operations versus those that are peripheral.
 
 ### Income Statement Effects
 
-The income generated from non-operating assets is usually reported separately from revenue generated by core operations. This separation can help better assess the company's operating performance.
+The [income](../i/income.md) generated from non-operating assets is usually reported separately from [revenue](../r/revenue.md) generated by core operations. This separation can help better assess the company's operating performance.
 
 ### Valuation Challenges
 
-Valuing non-operating assets can be complex. Marketable securities are relatively straightforward, but real estate and intellectual property may require professional appraisals or estimates of future cash flows.
+Valuing non-operating assets can be complex. [Marketable securities](../m/marketable_securities.md) are relatively straightforward, but [real estate](../r/real_estate.md) and intellectual property may require professional appraisals or estimates of future cash flows.
 
 ## Strategic Management of Non-Operating Assets
 
 ### Diversification
 
-Holding non-operating assets provides diversification, reducing the company's exposure to risks associated with its core operations.
+Holding non-operating assets provides [diversification](../d/diversification.md), reducing the company's exposure to risks associated with its core operations.
 
 ### Financing and Liquidity
 
-Non-operating assets can be used as collateral for loans or sold to raise capital without disrupting core operations, thus providing financial flexibility.
+Non-operating assets can be used as [collateral](../c/collateral.md) for loans or sold to raise [capital](../c/capital.md) without disrupting core operations, thus providing financial flexibility.
 
 ### Strategic Sales
 
-At times, companies may choose to sell non-operating assets to focus more on their core business. This can be particularly relevant during strategic realignments or to capitalize on favorable market conditions.
+At times, companies may choose to sell non-operating assets to focus more on their core [business](../b/business.md). This can be particularly relevant during strategic realignments or to [capitalize](../c/capitalize.md) on favorable [market](../m/market.md) conditions.
 
 ## Examples of Companies and Their Non-Operating Assets
 
 ### Berkshire Hathaway
 
-Berkshire Hathaway, led by Warren Buffett, is renowned for its portfolio of non-operating assets. The company holds substantial equity positions in major corporations like Coca-Cola, Apple, and American Express, representing a significant portion of its income from dividends and capital appreciation. [Berkshire Hathaway](https://www.berkshirehathaway.com/)
+[Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, is renowned for its portfolio of non-operating assets. The company holds substantial [equity](../e/equity.md) positions in major corporations like Coca-Cola, Apple, and American Express, representing a significant portion of its [income](../i/income.md) from dividends and [capital](../c/capital.md) appreciation. [Berkshire Hathaway](https://www.berkshirehathaway.com/)
 
 ### Google (Alphabet Inc.)
 
-Google's parent company, Alphabet Inc., has diverse non-operating assets, including its capital venture segments and real estate holdings beyond its operational headquarters. [Alphabet Inc.](https://abc.xyz/)
+Google's [parent company](../p/parent_company.md), Alphabet Inc., has diverse non-operating assets, including its [capital](../c/capital.md) venture segments and [real estate](../r/real_estate.md) [holdings](../h/holdings.md) beyond its operational headquarters. [Alphabet Inc.](https://abc.xyz/)
 
 ### Amazon
 
-Amazon holds non-operating assets in the form of marketable securities and various real estate investments, including warehouses and land holdings not directly linked to its everyday operations. [Amazon](https://www.amazon.com/)
+Amazon holds non-operating assets in the form of [marketable securities](../m/marketable_securities.md) and various [real estate](../r/real_estate.md) investments, including warehouses and land [holdings](../h/holdings.md) not directly linked to its everyday operations. [Amazon](https://www.amazon.com/)
 
 ## Conclusion
 
-Non-operating assets, while not directly contributing to a company's primary activities, hold critical value in providing financial stability, income diversification, and strategic flexibility. Investors and financial analysts consider these assets when evaluating a company's overall financial health and strategic positioning. Properly managing and valuing non-operating assets can significantly influence a company's financial success and long-term sustainability.
+Non-operating assets, while not directly contributing to a company's primary activities, [hold](../h/hold.md) critical [value](../v/value.md) in providing financial stability, [income](../i/income.md) [diversification](../d/diversification.md), and strategic flexibility. Investors and financial analysts consider these assets when evaluating a company's overall [financial health](../f/financial_health.md) and strategic positioning. Properly managing and valuing non-operating assets can significantly influence a company's financial success and long-term sustainability.

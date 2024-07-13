@@ -1,16 +1,16 @@
 # Impeachment
 
-Impeachment is a formal process in which an official is accused of unlawful activity, the outcome of which may include the removal of that official from office as well as other forms of punishment. In the context of democratic systems where the rule of law is paramount, impeachment serves as an important check against potential abuses of power by high-ranking officials. This detailed exploration will delve into the meaning, historical overview, and examples of impeachment processes in various countries, with a focus on the United States, where the procedural intricacies and historical instances offer a nuanced understanding of this critical mechanism of accountability.
+Impeachment is a formal process in which an official is accused of unlawful activity, the outcome of which may include the removal of that official from office as well as other forms of punishment. In the context of democratic systems where the rule of law is paramount, impeachment serves as an important [check](../c/check.md) against potential abuses of power by high-ranking officials. This detailed exploration [will](../w/will.md) delve into the meaning, historical overview, and examples of impeachment processes in various countries, with a focus on the United States, where the procedural intricacies and historical instances [offer](../o/offer.md) a nuanced understanding of this critical mechanism of accountability.
 
 ## Meaning of Impeachment
 
-Impeachment primarily refers to the process undertaken by a legislative body to bring charges against a government officer to ascertain whether they have committed actions warranting removal from office. Although it is often associated with criminal proceedings, impeachment is largely a political process. It builds upon the principles of separation of powers and checks and balances that are foundational to democratic governance and the rule of law.
+Impeachment primarily refers to the process undertaken by a legislative body to bring charges against a government officer to ascertain whether they have committed actions warranting removal from office. Although it is often associated with criminal proceedings, impeachment is largely a political process. It builds upon the principles of separation of powers and [checks and balances](../c/checks_and_balances.md) that are foundational to democratic governance and the rule of law.
 
 In the United States, impeachment is enshrined in the Constitution under Article I, Sections 2 and 3, which grants the House of Representatives the "sole Power of Impeachment" and the Senate the "sole Power to try all Impeachments."
 
 ## Historical Overview
 
-The concept of impeachment has its roots in English parliamentary traditions, evolved in the 14th century as a means for Parliament to hold the king's ministers accountable. The framers of the U.S. Constitution imported this concept into their fledgling republic, recognizing the necessity of mechanisms for curbing abuses of power while maintaining a balanced and fair system.
+The concept of impeachment has its roots in English parliamentary traditions, evolved in the 14th century as a means for Parliament to [hold](../h/hold.md) the king's ministers accountable. The framers of the U.S. Constitution imported this concept into their fledgling republic, recognizing the necessity of mechanisms for curbing abuses of power while maintaining a balanced and fair system.
 
 ### Impeachment in the United States
 
@@ -20,7 +20,7 @@ The U.S. Constitution delineates the grounds and procedures for impeachment. Art
 ### Grounds for Impeachment
 
 - **Treason**: Engaging in acts that betray one's country.
-- **Bribery**: Accepting or offering of gifts, services, or money in exchange for actions influencing official duties.
+- **Bribery**: Accepting or [offering](../o/offering.md) of gifts, services, or [money](../m/money.md) in [exchange](../e/exchange.md) for actions influencing official duties.
 - **High Crimes and Misdemeanors**: A phrase subject to interpretation, typically encompassing serious abuses of power, corruption, and other actions incompatible with the duties of the office held.
 
 ### Impeachment Process
@@ -78,7 +78,7 @@ The impeachment process, though particularly detailed in the U.S. context, exist
 
 #### Dilma Rousseff (2016)
 
-Brazilian President Dilma Rousseff was impeached on charges of fiscal mismanagement and manipulating the federal budget. The proceedings resulted in her removal from office. While supporters decried the impeachment as politically motivated, it followed Brazil's constitutional framework for handling high-level government misconduct.
+Brazilian President Dilma Rousseff was impeached on charges of fiscal mismanagement and manipulating the federal [budget](../b/budget.md). The proceedings resulted in her removal from office. While supporters decried the impeachment as politically motivated, it followed Brazil's constitutional framework for handling high-level government misconduct.
 
 ### South Korea
 
@@ -92,4 +92,4 @@ Countries with impeachment provisions often reflect their unique legal and polit
 
 ## Conclusion
 
-Impeachment remains a cornerstone of democratic accountability, providing a structured method to address and rectify potential misconduct by high-ranking officials. Despite its inherently political nature, impeachment processes, when conducted with due diligence and within the boundaries of constitutional law, fortify the integrity of governmental institutions. Through its historical precedents and contemporary applications, impeachment underscores the enduring principle that those entrusted with public power must exercise it responsibly and are subject to the rule of law.
+Impeachment remains a cornerstone of democratic accountability, providing a structured method to address and rectify potential misconduct by high-ranking officials. Despite its inherently political nature, impeachment processes, when conducted with [due diligence](../d/due_diligence.md) and within the boundaries of constitutional law, fortify the integrity of governmental institutions. Through its historical precedents and contemporary applications, impeachment underscores the enduring principle that those entrusted with public power must [exercise](../e/exercise.md) it responsibly and are subject to the rule of law.

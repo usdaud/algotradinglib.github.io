@@ -16,9 +16,9 @@
 4. **Expandable Banner Ads**: Start as a small banner and expand to a larger size when the user interacts with it.
 
 ## Importance
-1. **Brand Awareness**: Helps increase brand visibility and recognition by placing the brand in front of a large audience.
+1. **[Brand Awareness](../b/brand_awareness.md)**: Helps increase brand [visibility](../v/visibility.md) and recognition by placing the brand in front of a large audience.
 2. **Traffic Generation**: Drives traffic to the advertiser’s website by encouraging clicks.
-3. **Targeted Advertising**: Allows advertisers to target specific demographics, interests, and behaviors, increasing the relevance of the ads to the audience.
+3. **Targeted Advertising**: Allows advertisers to target specific [demographics](../d/demographics.md), interests, and behaviors, increasing the relevance of the ads to the audience.
 4. **Measurable Results**: Provides detailed analytics on ad performance, including impressions, clicks, and conversions.
 
 ## Design Best Practices
@@ -30,10 +30,10 @@
 
 ## Example Scenarios
 ### E-commerce
-- **Product Promotion**: An online retailer uses banner ads to promote a sale on their latest collection. The ad includes an image of the products, a discount offer, and a “Shop Now” button that links to the sale page.
+- **Product Promotion**: An online retailer uses banner ads to promote a [sale](../s/sale.md) on their latest collection. The ad includes an image of the products, a [discount](../d/discount.md) [offer](../o/offer.md), and a “Shop Now” button that links to the [sale](../s/sale.md) page.
 
 ### Service Industry
-- **Service Offering**: A digital marketing agency runs banner ads showcasing their SEO services. The ad includes a brief description of the service, a client testimonial, and a “Get a Free Quote” button linking to a contact form.
+- **Service [Offering](../o/offering.md)**: A [digital marketing](../d/digital_marketing.md) agency runs banner ads showcasing their SEO services. The ad includes a brief description of the service, a client testimonial, and a “Get a Free [Quote](../q/quote.md)” button linking to a contact form.
 
 ### Brand Awareness
 - **New Brand Launch**: A new beverage brand launches a banner ad campaign to introduce their product. The ad features the product image, the brand logo, and a “Discover More” button leading to the brand's story page.
@@ -44,8 +44,8 @@
 3. **Click-Through Rate (CTR)**: The ratio of clicks to impressions, indicating the effectiveness of the ad.
 4. **Conversions**: The number of desired actions taken by users after clicking the ad, such as making a purchase or filling out a form.
 5. **Cost Per Click (CPC)**: The amount paid by the advertiser for each click on the banner ad.
-6. **Return on Investment (ROI)**: The overall effectiveness of the banner ad campaign in terms of revenue generated versus the cost of the campaign.
+6. **[Return](../r/return.md) on Investment (ROI)**: The overall effectiveness of the banner ad campaign in terms of [revenue](../r/revenue.md) generated versus the cost of the campaign.
 
 ## Conclusion
-Banner advertising is a powerful tool for online marketing, providing a visual and interactive way to reach and engage with potential customers. By following design best practices and effectively measuring performance metrics, advertisers can create impactful banner ads that drive traffic, increase brand awareness, and generate conversions.
+Banner advertising is a powerful tool for online [marketing](../m/marketing.md), providing a visual and interactive way to reach and engage with potential customers. By following design [best practices](../b/best_practices.md) and effectively measuring [performance metrics](../p/performance_metrics.md), advertisers can create impactful banner ads that drive traffic, increase [brand awareness](../b/brand_awareness.md), and generate conversions.
 

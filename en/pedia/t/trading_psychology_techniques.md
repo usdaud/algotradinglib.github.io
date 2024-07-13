@@ -6,20 +6,20 @@
 
 Effective [trading psychology](../t/trading_psychology.md) helps traders:
 
-1. **Maintain Discipline**: Stick to a trading strategy and avoid impulsive decisions.
+1. **Maintain Discipline**: Stick to a [trading strategy](../t/trading_strategy.md) and avoid impulsive decisions.
 2. **Manage Emotions**: Control fear, greed, and other emotions that sabotage success.
-3. **Develop Patience**: Wait for the right trade opportunities.
-4. **Build Confidence**: Trust in their analysis and strategy.
+3. **Develop Patience**: Wait for the right [trade](../t/trade.md) opportunities.
+4. **Build Confidence**: [Trust](../t/trust.md) in their analysis and strategy.
 
 #### Common Psychological Challenges in Trading
 
-1. **Fear and Greed**: These are the two primary emotions that influence trading decisions. Fear can prevent traders from taking advantage of opportunities, while greed can lead to overtrading.
+1. **Fear and Greed**: These are the two primary emotions that influence trading decisions. Fear can prevent traders from taking advantage of opportunities, while greed can lead to [overtrading](../o/overtrading.md).
    
-2. **Overconfidence**: Traders making a series of successful trades may become overconfident, leading to excessive risk-taking.
+2. **Overconfidence**: Traders making a series of successful trades may become overconfident, leading to excessive [risk](../r/risk.md)-taking.
 
 3. **Impatience**: The desire for quick profits can lead to premature actions.
 
-4. **Regret and Emotional Trauma**: Traders might hold onto losing trades to avoid the regret of a loss, or may be emotionally scarred from previous mistakes.
+4. **Regret and Emotional Trauma**: Traders might [hold](../h/hold.md) onto losing trades to avoid the regret of a loss, or may be emotionally scarred from previous mistakes.
 
 5. **[Loss Aversion](../l/loss_aversion.md)**: The tendency to prefer avoiding losses over acquiring equivalent gains can result in holding losing positions too long and exiting winning positions too early.
 
@@ -27,9 +27,9 @@ Effective [trading psychology](../t/trading_psychology.md) helps traders:
 
 1. **Develop a Trading Plan**: A well-structured trading plan helps in building the discipline required to follow a systematic approach.
 
-2. **Keep a Trading Journal**: Recording trades, emotions, and reasons for decisions helps in analyzing and learning from past actions.
+2. **Keep a Trading [Journal](../j/journal.md)**: Recording trades, emotions, and reasons for decisions helps in analyzing and learning from past actions.
 
-3. **Practice [Risk Management](../r/risk_management.md)**: Set predefined risk levels per trade to avoid significant losses.
+3. **Practice [Risk Management](../r/risk_management.md)**: Set predefined [risk](../r/risk.md) levels per [trade](../t/trade.md) to avoid significant losses.
 
 4. **Set Realistic Goals**: Having achievable targets prevents frustration and encourages consistent performance.
 
@@ -37,7 +37,7 @@ Effective [trading psychology](../t/trading_psychology.md) helps traders:
 
 6. **Mindfulness and Meditation**: Techniques like mindfulness and meditation can help in staying calm and focused during trading.
 
-7. **Avoid Overtrading**: Sticking to the plan and avoiding unnecessary trades can prevent the havoc caused by emotional decisions.
+7. **Avoid [Overtrading](../o/overtrading.md)**: Sticking to the plan and avoiding unnecessary trades can prevent the havoc caused by emotional decisions.
 
 8. **Professional Support**: Consulting trading psychologists or coaches can provide personalized strategies for improving [trading psychology](../t/trading_psychology.md).
 
@@ -45,7 +45,7 @@ Effective [trading psychology](../t/trading_psychology.md) helps traders:
 
 - **Van Tharp Institute**: Dr. Van Tharp is known for his work on developing psychological techniques for traders. His institute offers various courses, workshops, and books on [trading psychology](../t/trading_psychology.md). More details can be found on their [official site](https://www.vantharp.com/).
 
-- **SMB Capital**: An innovative prop trading firm providing education and training on mental resilience and [trading psychology](../t/trading_psychology.md) as part of their mentoring. Additional information is available on their [website](https://www.smbcapital.com/).
+- **SMB [Capital](../c/capital.md)**: An innovative prop trading [firm](../f/firm.md) providing education and training on mental resilience and [trading psychology](../t/trading_psychology.md) as part of their mentoring. Additional information is available on their [website](https://www.smbcapital.com/).
 
 - **Brett N. Steenbarger**: An authority in the field, known for his books and blogs about [trading psychology](../t/trading_psychology.md). Details can be found on his [blog page](https://traderfeed.blogspot.com/).
 
@@ -55,9 +55,9 @@ Effective [trading psychology](../t/trading_psychology.md) helps traders:
 
 1. **"Trading in the Zone" by Mark Douglas**: A must-read for traders, focusing on developing the right mindset.
 2. **"The Psychology of Trading" by Brett N. Steenbarger**: Offers practical strategies based on psychological principles.
-3. **"Enhancing Trader Performance" by Brett N. Steenbarger**: Guides on building skills and developing a winning trading mindset.
-4. **"Super Trader" by Van K. Tharp**: Discusses steps to trading success, including psychological conditioning.
+3. **"Enhancing [Trader](../t/trader.md) Performance" by Brett N. Steenbarger**: Guides on building skills and developing a winning trading mindset.
+4. **"Super [Trader](../t/trader.md)" by Van K. Tharp**: Discusses steps to trading success, including psychological conditioning.
 
 #### Final Thoughts
 
-[Trading psychology](../t/trading_psychology.md) plays an integral role in a trader's success. Training the mind to handle the pressures and emotions associated with trading can significantly affect outcomes. Utilizing the techniques mentioned and seeking resources from reputable sources can help traders enhance their psychological resilience, leading to more disciplined and rational trading decisions.
+[Trading psychology](../t/trading_psychology.md) plays an integral role in a [trader](../t/trader.md)'s success. Training the mind to [handle](../h/handle.md) the pressures and emotions associated with trading can significantly affect outcomes. Utilizing the techniques mentioned and seeking resources from reputable sources can help traders enhance their psychological resilience, leading to more disciplined and rational trading decisions.

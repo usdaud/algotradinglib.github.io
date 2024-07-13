@@ -1,79 +1,79 @@
 # Held-to-Maturity (HTM)
 
-Held-to-Maturity (HTM) securities are a category of debt instruments that a company or an investor has the intent and ability to hold until they mature. Unlike trading securities or available-for-sale securities, which can be bought or sold at any time depending on market conditions and the holder's strategy, HTM securities are intended to be kept until the date of their maturity, regardless of fluctuations in market value.
+Held-to-[Maturity](../m/maturity.md) (HTM) securities are a category of [debt](../d/debt.md) instruments that a company or an [investor](../i/investor.md) has the intent and ability to [hold](../h/hold.md) until they mature. Unlike trading securities or available-for-[sale](../s/sale.md) securities, which can be bought or sold at any time depending on [market](../m/market.md) conditions and the holder's strategy, HTM securities are intended to be kept until the date of their [maturity](../m/maturity.md), regardless of fluctuations in [market value](../m/market_value.md).
 
 ## Characteristics of HTM Securities
 
-1. **Debt Instruments**: HTM securities are typically bonds or other forms of debt that provide regular interest payments known as coupon payments and return the principal at maturity.
+1. **[Debt](../d/debt.md) Instruments**: HTM securities are typically bonds or other forms of [debt](../d/debt.md) that provide regular [interest](../i/interest.md) payments known as coupon payments and [return](../r/return.md) the [principal](../p/principal.md) at [maturity](../m/maturity.md).
    
-2. **Intent and Ability**: The holder must have both the intention and the ability to hold these securities to maturity. This is a critical condition that distinguishes HTM from other categories.
+2. **Intent and Ability**: The holder must have both the intention and the ability to [hold](../h/hold.md) these securities to [maturity](../m/maturity.md). This is a critical condition that distinguishes HTM from other categories.
 
-3. **Amortized Cost**: The accounting treatment for HTM securities is different from other securities. They are recorded at amortized cost rather than fair market value, meaning that the value on the balance sheet is adjusted for the purchase price, plus any amortization of a premium or accretion of a discount over the life of the bond.
+3. **Amortized Cost**: The [accounting](../a/accounting.md) treatment for HTM securities is different from other securities. They are recorded at amortized cost rather than fair [market value](../m/market_value.md), meaning that the [value](../v/value.md) on the [balance sheet](../b/balance_sheet.md) is adjusted for the purchase price, plus any amortization of a [premium](../p/premium.md) or [accretion](../a/accretion.md) of a [discount](../d/discount.md) over the life of the [bond](../b/bond.md).
 
-4. **Impairment Testing**: Although HTM securities are not marked to market, they must still be tested for impairment. If the market value of an HTM security falls below its amortized cost and the drop is considered not to be recoverable, an impairment loss must be recognized in the financial statements.
+4. **[Impairment](../i/impairment.md) Testing**: Although HTM securities are not marked to [market](../m/market.md), they must still be tested for [impairment](../i/impairment.md). If the [market value](../m/market_value.md) of an HTM [security](../s/security.md) falls below its amortized cost and the drop is considered not to be recoverable, an [impairment](../i/impairment.md) loss must be recognized in the [financial statements](../f/financial_statements.md).
 
-5. **Income Recognition**: Interest income from HTM securities is recognized through the effective interest method, which spreads the interest income over the life of the security. This ensures that the interest revenue reflects the yield over the entire period.
+5. **[Income](../i/income.md) Recognition**: [Interest](../i/interest.md) [income](../i/income.md) from HTM securities is recognized through the effective [interest](../i/interest.md) method, which [spreads](../s/spreads.md) the [interest](../i/interest.md) [income](../i/income.md) over the life of the [security](../s/security.md). This ensures that the [interest](../i/interest.md) [revenue](../r/revenue.md) reflects the [yield](../y/yield.md) over the entire period.
 
 ## HTM Securities in Financial Statements
 
 ### Balance Sheet
 
-HTM securities are reported on the balance sheet under non-current assets unless they are maturing within one year, in which case they are shown as current assets. They are listed at their amortized cost, not at their fair value.
+HTM securities are reported on the [balance sheet](../b/balance_sheet.md) under non-[current assets](../c/current_assets.md) unless they are maturing within one year, in which case they are shown as [current assets](../c/current_assets.md). They are [listed](../l/listed.md) at their amortized cost, not at their [fair value](../f/fair_value.md).
 
 ### Income Statement
 
-The income generated by HTM securities, primarily in the form of interest income, is reported on the income statement. This income is calculated using the effective interest method, which considers the investment carrying amount multiplied by the applicable annual interest rate, adjusted for any premium amortization or discount accretion.
+The [income](../i/income.md) generated by HTM securities, primarily in the form of [interest](../i/interest.md) [income](../i/income.md), is reported on the [income statement](../i/income_statement.md). This [income](../i/income.md) is calculated using the effective [interest](../i/interest.md) method, which considers the investment carrying amount multiplied by the applicable annual [interest rate](../i/interest_rate.md), adjusted for any [premium](../p/premium.md) amortization or [discount](../d/discount.md) [accretion](../a/accretion.md).
 
 ### Cash Flow Statement
 
-The purchase of HTM securities is recorded as an investing activity outflow on the cash flow statement, while the receipt of interest payments and principal repayment at maturity are recorded as investing activity inflows.
+The purchase of HTM securities is recorded as an [investing](../i/investing.md) activity outflow on the [cash flow statement](../c/cash_flow_statement.md), while the receipt of [interest](../i/interest.md) payments and [principal](../p/principal.md) [repayment](../r/repayment.md) at [maturity](../m/maturity.md) are recorded as [investing](../i/investing.md) activity inflows.
 
 ### Example:
 
-A company buys a bond for $900 (a discount) that will be worth $1,000 at maturity in 5 years, and pays a coupon rate of 5% annually.
+A company buys a [bond](../b/bond.md) for $900 (a [discount](../d/discount.md)) that [will](../w/will.md) be worth $1,000 at [maturity](../m/maturity.md) in 5 years, and pays a [coupon rate](../c/coupon_rate.md) of 5% annually.
 
-- **Year-end 1**: Recognize interest income based on the effective interest rate that considers the amortized cost. For simplicity, let's use an effective rate of 6%.
-  - Interest income = $900 * 6% = $54.
+- **Year-end 1**: Recognize [interest](../i/interest.md) [income](../i/income.md) based on the effective [interest rate](../i/interest_rate.md) that considers the amortized cost. For simplicity, let's use an effective rate of 6%.
+  - [Interest](../i/interest.md) [income](../i/income.md) = $900 * 6% = $54.
   - Adjusted carrying amount = $900 + ($54 - $50) = $904.
 
-This process will continue annually, progressively “accreting” the discount until the bond reaches its par value of $1,000 at maturity.
+This process [will](../w/will.md) continue annually, progressively “accreting” the [discount](../d/discount.md) until the [bond](../b/bond.md) reaches its [par value](../p/par_value.md) of $1,000 at [maturity](../m/maturity.md).
 
 ## Regulations and Standards
 
 ### US GAAP
 
-Under US Generally Accepted Accounting Principles (GAAP), especially defined in ASC 320 (Investments—Debt Securities) and ASC 825 (Financial Instruments), the classification of a security as HTM requires management’s positive intent and ability to hold the securities to maturity. Divergence from the HTM classification without rationale can lead to exposure and potential questioning by auditors and regulatory bodies.
+Under US Generally Accepted [Accounting Principles](../a/accounting_principles.md) (GAAP), especially defined in ASC 320 (Investments—[Debt](../d/debt.md) Securities) and ASC 825 (Financial Instruments), the classification of a [security](../s/security.md) as HTM requires management’s positive intent and ability to [hold](../h/hold.md) the securities to [maturity](../m/maturity.md). [Divergence](../d/divergence.md) from the HTM classification without rationale can lead to exposure and potential questioning by auditors and regulatory bodies.
 
 ### IFRS
 
-According to International Financial Reporting Standards (IFRS), particularly IFRS 9 (Financial Instruments), securities that the company has the intention and ability to hold to maturity could be classified in the "held to collect" category, evaluated through an amortized cost model.
+According to International Financial Reporting Standards (IFRS), particularly IFRS 9 (Financial Instruments), securities that the company has the intention and ability to [hold](../h/hold.md) to [maturity](../m/maturity.md) could be classified in the "held to collect" category, evaluated through an amortized cost model.
 
 ## Advantages of HTM Securities
 
-1. **Predictability**: Given that these instruments are held to maturity, there is predictability in cash flows related to coupon payments and principal repayment.
+1. **Predictability**: Given that these instruments are held to [maturity](../m/maturity.md), there is predictability in cash flows related to coupon payments and [principal](../p/principal.md) [repayment](../r/repayment.md).
    
-2. **Financial Stability**: As HTM securities are not affected by market volatility in the financial statements, they provide a semblance of stability and reduce perceived risk in the balance sheet.
+2. **Financial Stability**: As HTM securities are not affected by [market](../m/market.md) [volatility](../v/volatility.md) in the [financial statements](../f/financial_statements.md), they provide a semblance of stability and reduce perceived [risk](../r/risk.md) in the [balance sheet](../b/balance_sheet.md).
 
-3. **Interest Rate Risk Management**: By holding these instruments to maturity, entities mitigate the risk associated with interest rate volatility affecting their principal investment.
+3. **[Interest Rate Risk Management](../i/interest_rate_risk_management.md)**: By holding these instruments to [maturity](../m/maturity.md), entities mitigate the [risk](../r/risk.md) associated with [interest rate](../i/interest_rate.md) [volatility](../v/volatility.md) affecting their [principal](../p/principal.md) investment.
 
 ## Disadvantages of HTM Securities
 
-1. **Inflexibility**: The requirement to hold the securities to maturity can limit the ability to reallocate resources or respond to changing market conditions.
+1. **Inflexibility**: The requirement to [hold](../h/hold.md) the securities to [maturity](../m/maturity.md) can limit the ability to reallocate resources or respond to changing [market](../m/market.md) conditions.
 
-2. **Interest Rate Risk**: There is still underlying risk if the interest rates rise significantly, which can reduce the opportunity cost of holding lower-yielding securities.
+2. **[Interest Rate Risk](../i/interest_rate_risk.md)**: There is still [underlying](../u/underlying.md) [risk](../r/risk.md) if the [interest](../i/interest.md) rates rise significantly, which can reduce the [opportunity cost](../o/opportunity_cost.md) of holding lower-yielding securities.
 
-3. **Regulatory and Compliance Risk**: Misclassification or breaking the intent to hold until maturity could have regulatory consequences and call into question the management's judgment and reliability.
+3. **Regulatory and Compliance [Risk](../r/risk.md)**: Misclassification or breaking the intent to [hold](../h/hold.md) until [maturity](../m/maturity.md) could have regulatory consequences and call into question the management's [judgment](../j/judgment.md) and reliability.
 
 ## Key Considerations for Companies
 
-1. **Strategic Planning**: Companies must evaluate their liquidity needs and long-term strategic financial planning to ensure they can uphold the HTM classification without disruption.
+1. **Strategic Planning**: Companies must evaluate their [liquidity](../l/liquidity.md) needs and long-term strategic [financial planning](../f/financial_planning.md) to ensure they can [uphold](../u/uphold.md) the HTM classification without disruption.
 
-2. **Regulatory Adherence**: Continuous compliance with applicable accounting standards and effective internal control systems is necessary to ensure the appropriate custody and reporting of HTM securities.
+2. **Regulatory Adherence**: Continuous compliance with applicable [accounting](../a/accounting.md) standards and effective internal control systems is necessary to ensure the appropriate custody and reporting of HTM securities.
 
-3. **Market Analysis**: Sustained analysis of market conditions and interest rate movements is crucial, even if the intention is to hold securities to maturity, to identify potential impairment triggers or changes in strategic intent.
+3. **[Market](../m/market.md) Analysis**: Sustained analysis of [market](../m/market.md) conditions and [interest rate](../i/interest_rate.md) movements is crucial, even if the intention is to [hold](../h/hold.md) securities to [maturity](../m/maturity.md), to identify potential [impairment](../i/impairment.md) triggers or changes in strategic intent.
 
 ## Conclusion
 
-Held-to-Maturity (HTM) securities allow companies and investors to maintain a stable and predictable investment while mitigating the effect of market volatility on the balance sheet. However, they require stringent adherence to both intent and ability to hold these securities to maturity, as well as careful management of interest rate and regulatory risks.
+Held-to-[Maturity](../m/maturity.md) (HTM) securities allow companies and investors to maintain a stable and predictable investment while mitigating the effect of [market](../m/market.md) [volatility](../v/volatility.md) on the [balance sheet](../b/balance_sheet.md). However, they require stringent adherence to both intent and ability to [hold](../h/hold.md) these securities to [maturity](../m/maturity.md), as well as careful management of [interest rate](../i/interest_rate.md) and regulatory risks.
 
-Understanding and effectively managing HTM securities involve a comprehensive grasp of both accounting principles and strategic financial planning, ensuring that the intended benefits of predictability and stability are fully realized without compromising the flexibility or regulatory compliance needs of the organization.
+Understanding and effectively managing HTM securities involve a comprehensive grasp of both [accounting principles](../a/accounting_principles.md) and strategic [financial planning](../f/financial_planning.md), ensuring that the intended benefits of predictability and stability are fully realized without compromising the flexibility or regulatory compliance needs of the organization.

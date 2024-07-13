@@ -1,6 +1,6 @@
 # Algorithmic trading Wuth Genetic Algorithms
 
-[Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo-trading, employs algorithms to execute [trading strategies](../t/trading_strategies.md) at high speed and volume. One sophisticated approach within this domain is the application of [genetic algorithms](../g/genetic_algorithms_in_trading.md) (GAs). [Genetic algorithms](../g/genetic_algorithms_in_trading.md) are optimization techniques inspired by the process of natural selection, which belong to the broader class of evolutionary algorithms. 
+[Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo-trading, employs algorithms to execute [trading strategies](../t/trading_strategies.md) at high speed and [volume](../v/volume.md). One sophisticated approach within this domain is the application of [genetic algorithms](../g/genetic_algorithms_in_trading.md) (GAs). [Genetic algorithms](../g/genetic_algorithms_in_trading.md) are [optimization](../o/optimization.md) techniques inspired by the process of natural selection, which belong to the broader class of evolutionary algorithms. 
 
 **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md)**:
 
@@ -30,7 +30,7 @@ A genetic algorithm mimics the process of natural selection by considering a pop
 
 2. **Initialization**: A population of random [trading strategies](../t/trading_strategies.md) is created. Each strategy is backtested on historical data, and its performance is recorded.
 
-3. **Fitness Evaluation**: Strategies are evaluated based on predefined criteria such as profitability, [Sharpe ratio](../s/sharpe_ratio.md), or drawdown. The fitness function might include multiple objectives to balance risk and return.
+3. **Fitness Evaluation**: Strategies are evaluated based on predefined criteria such as profitability, [Sharpe ratio](../s/sharpe_ratio.md), or [drawdown](../d/drawdown.md). The fitness function might include [multiple](../m/multiple.md) objectives to balance [risk](../r/risk.md) and [return](../r/return.md).
 
 4. **Selection**: Strategies with higher fitness scores are more likely to be selected as parents for the next generation. This process ensures that better-performing strategies have a higher chance of passing on their traits.
 
@@ -38,30 +38,30 @@ A genetic algorithm mimics the process of natural selection by considering a pop
 
 6. **Iteration**: The process of evaluation, selection, crossover, and mutation is repeated for several generations. Over time, the population should converge towards more effective [trading strategies](../t/trading_strategies.md).
 
-7. **Deployment**: Once the genetic algorithm has evolved a sufficiently robust strategy, it can be deployed in live trading. Continuous monitoring and re-optimization may be necessary to adapt to changing market conditions.
+7. **Deployment**: Once the genetic algorithm has evolved a sufficiently [robust](../r/robust.md) strategy, it can be deployed in live trading. Continuous monitoring and re-[optimization](../o/optimization.md) may be necessary to adapt to changing [market](../m/market.md) conditions.
 
 **Advantages**:
 
-1. **Adaptability**: [Genetic algorithms](../g/genetic_algorithms_in_trading.md) can adapt to changing market conditions by continually evolving [trading strategies](../t/trading_strategies.md).
-2. **Parallelism**: The population-based approach allows for natural parallel processing, speeding up the optimization process.
+1. **Adaptability**: [Genetic algorithms](../g/genetic_algorithms_in_trading.md) can adapt to changing [market](../m/market.md) conditions by continually evolving [trading strategies](../t/trading_strategies.md).
+2. **Parallelism**: The population-based approach allows for natural parallel processing, speeding up the [optimization](../o/optimization.md) process.
 3. **Exploration**: [Genetic algorithms](../g/genetic_algorithms_in_trading.md) explore a wide search space, which helps discover novel and potentially profitable strategies.
-4. **Multi-objective Optimization**: They can handle multiple objectives, balancing factors like profitability, risk, and trading frequency.
+4. **Multi-objective [Optimization](../o/optimization.md)**: They can [handle](../h/handle.md) [multiple](../m/multiple.md) objectives, balancing factors like profitability, [risk](../r/risk.md), and trading frequency.
 
 **Challenges**:
 
 1. **Complexity**: Designing and implementing [genetic algorithms](../g/genetic_algorithms_in_trading.md) can be complex and computationally intensive.
-2. **Overfitting**: There's a risk of overfitting to historical data, which might lead to poor performance in live trading. Proper validation techniques, such as walk-forward analysis, are essential.
+2. **[Overfitting](../o/overfitting.md)**: There's a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) to historical data, which might lead to poor performance in live trading. Proper validation techniques, such as walk-forward analysis, are essential.
 3. **Parameter Sensitivity**: The performance of [genetic algorithms](../g/genetic_algorithms_in_trading.md) can be sensitive to parameter settings, such as population size, mutation rate, and crossover rate. These parameters often require careful tuning.
 
 **Case Study and Examples**:
 
-Numerous financial firms and academic institutions have explored the use of [genetic algorithms in trading](../g/genetic_algorithms_in_trading.md). One example is the work conducted by Michael J. Stutzer at the University of Colorado. His research demonstrated the effectiveness of genetic programming in evolving [trading rules](../t/trading_rules.md) that could outperform traditional approaches.
+Numerous financial firms and academic institutions have explored the use of [genetic algorithms in trading](../g/genetic_algorithms_in_trading.md). One example is the work conducted by Michael J. Stutzer at the University of Colorado. His research demonstrated the effectiveness of genetic programming in evolving [trading rules](../t/trading_rules.md) that could [outperform](../o/outperform.md) traditional approaches.
 
-Another notable application is by QTS Capital Management, who employ advanced evolutionary algorithms, including [genetic algorithms](../g/genetic_algorithms_in_trading.md), as part of their trading strategy development process. Their use of high-frequency data and sophisticated modeling has yielded significant performance in various market conditions.
+Another notable application is by QTS [Capital](../c/capital.md) Management, who employ advanced evolutionary algorithms, including [genetic algorithms](../g/genetic_algorithms_in_trading.md), as part of their [trading strategy](../t/trading_strategy.md) development process. Their use of high-frequency data and sophisticated modeling has yielded significant performance in various [market](../m/market.md) conditions.
 
-For those interested in further exploration, there are several open-source libraries available that provide tools to implement [genetic algorithms](../g/genetic_algorithms_in_trading.md) for trading:
+For those interested in further exploration, there are several [open](../o/open.md)-source libraries available that provide tools to implement [genetic algorithms](../g/genetic_algorithms_in_trading.md) for trading:
 
-1. **DEAP (Distributed Evolutionary Algorithms in Python)**: It is a library for creating evolutionary algorithms that can be easily adapted for trading strategy optimization.
+1. **DEAP (Distributed Evolutionary Algorithms in Python)**: It is a library for creating evolutionary algorithms that can be easily adapted for [trading strategy](../t/trading_strategy.md) [optimization](../o/optimization.md).
    - [DEAP](https://deap.readthedocs.io/)
 
 2. **PyGAD**: PyGAD is a Python library for building [genetic algorithms](../g/genetic_algorithms_in_trading.md) and training machine [learning algorithms](../l/learning_algorithms_in_trading.md).
@@ -72,4 +72,4 @@ For those interested in further exploration, there are several open-source libra
 
 **Conclusion**:
 
-[Genetic algorithms](../g/genetic_algorithms_in_trading.md) represent a powerful tool in the arsenal of algorithmic traders. By leveraging principles of evolution and natural selection, they can discover, optimize, and adapt [trading strategies](../t/trading_strategies.md) that deliver superior performance. Despite the challenges, the adaptability and robustness of [genetic algorithms](../g/genetic_algorithms_in_trading.md) make them a captivating area of research and application in financial markets.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) represent a powerful tool in the arsenal of algorithmic traders. By leveraging principles of evolution and natural selection, they can discover, optimize, and adapt [trading strategies](../t/trading_strategies.md) that deliver superior performance. Despite the challenges, the adaptability and robustness of [genetic algorithms](../g/genetic_algorithms_in_trading.md) make them a captivating area of research and application in [financial markets](../f/financial_market.md).

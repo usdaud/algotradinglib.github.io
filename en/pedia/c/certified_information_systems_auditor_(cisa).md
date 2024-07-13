@@ -2,13 +2,13 @@
 
 ## Overview of CISA
 
-The Certified Information Systems Auditor (CISA) is a globally recognized certification for professionals who audit, control, monitor, and assess an organization’s information technology and business systems. Established by the Information Systems Audit and Control Association (ISACA), the CISA credential signifies expertise in the areas of IS/IT auditing, control, and security. CISA certification is highly valued by organizations seeking to ensure their IT and business systems' integrity, availability, and confidentiality.
+The Certified Information Systems Auditor (CISA) is a globally recognized certification for professionals who audit, control, monitor, and assess an organization’s information technology and [business](../b/business.md) systems. Established by the Information Systems Audit and Control Association (ISACA), the CISA credential signifies expertise in the areas of IS/IT auditing, control, and [security](../s/security.md). CISA certification is highly valued by organizations seeking to ensure their IT and [business](../b/business.md) systems' integrity, availability, and confidentiality.
 
 ## Importance and Benefits
 
 ### Professional Recognition
 
-Earning the CISA designation is a testament to an individual’s knowledge and skills in auditing, control, and security of information systems. It is recognized by various organizations worldwide, making it a valuable credential for professionals in the IT audit sector.
+Earning the CISA designation is a testament to an individual’s knowledge and skills in auditing, control, and [security](../s/security.md) of information systems. It is recognized by various organizations worldwide, making it a valuable credential for professionals in the IT audit sector.
 
 ### Career Advancement
 
@@ -22,15 +22,15 @@ The CISA certification is based on a globally accepted framework provided by ISA
 
 ### Work Experience
 
-To qualify for the CISA certification, candidates must have at least five years of professional work experience in information systems auditing, control, or security. However, waivers are available for a maximum of three years based on educational qualifications or other certifications.
+To qualify for the CISA certification, candidates must have at least five years of professional work experience in information systems auditing, control, or [security](../s/security.md). However, waivers are available for a maximum of three years based on educational qualifications or other certifications.
 
 ### Examination
 
-Candidates must pass the CISA exam, which is a comprehensive test comprising 150 multiple-choice questions. The exam covers five domains, each reflecting a critical area of information systems auditing:
+Candidates must pass the CISA exam, which is a comprehensive test comprising 150 [multiple](../m/multiple.md)-choice questions. The exam covers five domains, each reflecting a critical area of information systems auditing:
 
 1. **Information System Auditing Process**
 2. **Governance and Management of IT**
-3. **Information Systems Acquisition, Development, and Implementation**
+3. **Information Systems [Acquisition](../a/acquisition.md), Development, and Implementation**
 4. **Information Systems Operations, Maintenance and Service Management**
 5. **Protection of Information Assets**
 
@@ -45,7 +45,7 @@ Certification is not a one-time process; CISA holders are required to earn Conti
 #### Objectives
 
 - Provide audit services in accordance with standards
-- Implement risk-based IS audit strategy
+- Implement [risk](../r/risk.md)-based IS audit strategy
 
 #### Key Activities
 
@@ -76,8 +76,8 @@ Certification is not a one-time process; CISA holders are required to earn Conti
 
 #### Key Activities
 
-- Reviewing business case documentation
-- Assessing project management practices
+- Reviewing [business](../b/business.md) case documentation
+- Assessing [project management](../p/project_management.md) practices
 - Evaluating system controls
 
 ### Information Systems Operations, Maintenance and Service Management
@@ -85,7 +85,7 @@ Certification is not a one-time process; CISA holders are required to earn Conti
 #### Objectives
 
 - Ensure IS operations align with enterprise strategies
-- Maintenance practices support business objectives
+- Maintenance practices support [business](../b/business.md) objectives
 
 #### Key Activities
 
@@ -101,7 +101,7 @@ Certification is not a one-time process; CISA holders are required to earn Conti
 
 #### Key Activities
 
-- Implementing information security governance
+- Implementing information [security](../s/security.md) governance
 - Managing and monitoring information assets
 - Ensuring compliance with policies
 
@@ -113,7 +113,7 @@ ISACA provides a variety of study materials, including the official CISA Review 
 
 ### Training Providers
 
-Several educational institutions and training organizations offer CISA preparatory courses. These courses can be in-person or online and are designed to provide a comprehensive understanding of the exam content.
+Several educational institutions and training organizations [offer](../o/offer.md) CISA preparatory courses. These courses can be in-person or online and are designed to provide a comprehensive understanding of the exam content.
 
 ### Practice Exams
 
@@ -131,17 +131,17 @@ CISA certification holders must adhere to ISACA’s Code of Professional Ethics,
 
 ### Annual Maintenance Fee
 
-A small annual maintenance fee is required to keep the certification active. This fee helps support ISACA’s ongoing efforts to provide top-quality resources and updates to its members.
+A small annual maintenance [fee](../f/fee.md) is required to keep the certification active. This [fee](../f/fee.md) helps support ISACA’s ongoing efforts to provide top-quality resources and updates to its members.
 
 ## Employment Sectors for CISA-certified Professionals
 
 ### Public Accounting Firms
 
-Many CISA-certified professionals work for public accounting firms, performing IT audits and ensuring compliance with financial regulations.
+Many CISA-certified professionals work for public [accounting](../a/accounting.md) firms, performing IT audits and ensuring compliance with financial regulations.
 
 ### Financial Institutions
 
-Banks, credit unions, and other financial institutions employ CISAs to manage and secure information systems and ensure data integrity.
+Banks, [credit](../c/credit.md) unions, and other financial institutions employ CISAs to manage and secure information systems and ensure data integrity.
 
 ### Government Agencies
 
@@ -149,8 +149,8 @@ Government departments and agencies often require CISA-certified individuals to 
 
 ### Private Corporations
 
-Large corporations across various industries seek CISA-certified professionals to oversee their IT governance, risk management, and compliance efforts.
+Large corporations across various industries seek CISA-certified professionals to oversee their IT governance, [risk management](../r/risk_management.md), and compliance efforts.
 
 ## Conclusion
 
-The Certified Information Systems Auditor (CISA) certification is essential for professionals aiming to excel in the fields of IT auditing, control, and security. With its stringent requirements and globally recognized framework, CISA provides a solid foundation for a successful career in safeguarding an organization's information assets. Earning the CISA certification not only boosts credibility and career prospects but also ensures that professionals stay current with industry practices and advancements.
+The Certified Information Systems Auditor (CISA) certification is essential for professionals aiming to excel in the fields of IT auditing, control, and [security](../s/security.md). With its stringent requirements and globally recognized framework, CISA provides a solid foundation for a successful career in safeguarding an organization's information assets. Earning the CISA certification not only boosts credibility and career prospects but also ensures that professionals stay current with [industry](../i/industry.md) practices and advancements.

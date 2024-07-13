@@ -1,94 +1,94 @@
 # Unamortized Bond Discount
 
-In the field of accounting and finance, particularly in the context of fixed-income securities like bonds, the term "unamortized bond discount" represents an important concept. It is vital for investors, accountants, and financial analysts to grasp this term as it influences the valuation and financial reporting of bonds on financial statements.
+In the field of [accounting](../a/accounting.md) and [finance](../f/finance.md), particularly in the context of fixed-[income](../i/income.md) securities like bonds, the term "unamortized [bond discount](../b/bond_discount.md)" represents an important concept. It is vital for investors, accountants, and financial analysts to grasp this term as it influences the [valuation](../v/valuation.md) and financial reporting of bonds on [financial statements](../f/financial_statements.md).
 
 ## What is Bond Discount?
 
-A bond discount occurs when a bond's selling price is less than its face (or par) value. This can happen due to several factors such as rising interest rates, changes in a bond issuer's creditworthiness, or general market conditions. For example, suppose a bond has a face value of $1,000 but is sold for $950; the $50 difference is the bond discount.
+A [bond discount](../b/bond_discount.md) occurs when a [bond](../b/bond.md)'s selling price is less than its face (or par) [value](../v/value.md). This can happen due to several factors such as rising [interest](../i/interest.md) rates, changes in a [bond](../b/bond.md) [issuer](../i/issuer.md)'s [creditworthiness](../c/creditworthiness.md), or general [market](../m/market.md) conditions. For example, suppose a [bond](../b/bond.md) has a [face value](../f/face_value.md) of $1,000 but is sold for $950; the $50 difference is the [bond discount](../b/bond_discount.md).
 
-Bond discount reflects the additional yield investors demand for taking on the risk of holding the bond until maturity, especially when the bond's coupon rate (the interest it pays) is lower than the prevailing market rates.
+[Bond discount](../b/bond_discount.md) reflects the additional [yield](../y/yield.md) investors [demand](../d/demand.md) for taking on the [risk](../r/risk.md) of holding the [bond](../b/bond.md) until [maturity](../m/maturity.md), especially when the [bond](../b/bond.md)'s [coupon rate](../c/coupon_rate.md) (the [interest](../i/interest.md) it pays) is lower than the prevailing [market](../m/market.md) rates.
 
 ## Unamortized Bond Discount Explained
 
-The unamortized bond discount refers to the portion of the bond discount that has not yet been expensed over the bond's life. When a company issues bonds at a discount, the discount amount does not appear as an expense immediately. Instead, it is amortized over the life of the bond.
+The unamortized [bond discount](../b/bond_discount.md) refers to the portion of the [bond discount](../b/bond_discount.md) that has not yet been expensed over the [bond](../b/bond.md)'s life. When a company issues bonds at a [discount](../d/discount.md), the [discount](../d/discount.md) amount does not appear as an [expense](../e/expense.md) immediately. Instead, it is amortized over the life of the [bond](../b/bond.md).
 
-This process matches expenses with the periods in which they are incurred and helps in providing a clearer picture of a company's financial health. The unamortized portion is a liability on the issuer's balance sheet and will decrease over time as the discount is amortized.
+This process matches expenses with the periods in which they are incurred and helps in providing a clearer picture of a company's [financial health](../f/financial_health.md). The unamortized portion is a [liability](../l/liability.md) on the [issuer](../i/issuer.md)'s [balance sheet](../b/balance_sheet.md) and [will](../w/will.md) decrease over time as the [discount](../d/discount.md) is amortized.
 
 ## Amortization of Bond Discount
 
 ### Straight-Line Method
 
-The most straightforward way to amortize a bond discount is the straight-line method. This method involves expensing an equal amount of the bond discount in each period over the bond's life. The annual amortization expense is calculated by dividing the total bond discount by the number of periods in the bond's life.
+The most straightforward way to amortize a [bond discount](../b/bond_discount.md) is the straight-line method. This method involves expensing an equal amount of the [bond discount](../b/bond_discount.md) in each period over the [bond](../b/bond.md)'s life. The annual amortization [expense](../e/expense.md) is calculated by dividing the total [bond discount](../b/bond_discount.md) by the number of periods in the [bond](../b/bond.md)'s life.
 
-For example, if a bond has a discount of $5,000 and a life of 10 years, the annual amortization expense would be $500 ($5,000 / 10).
+For example, if a [bond](../b/bond.md) has a [discount](../d/discount.md) of $5,000 and a life of 10 years, the annual amortization [expense](../e/expense.md) would be $500 ($5,000 / 10).
 
 ### Effective Interest Rate Method
 
-The effective interest rate method is a more precise method of amortization. Under this method, the bond discount amortized in each period is based on the bond's carrying value and the market interest rate at issuance.
+The [effective interest rate method](../e/effective_interest_rate_method.md) is a more precise method of amortization. Under this method, the [bond discount](../b/bond_discount.md) amortized in each period is based on the [bond](../b/bond.md)'s carrying [value](../v/value.md) and the [market](../m/market.md) [interest rate](../i/interest_rate.md) at issuance.
 
-To calculate the amortization using the effective interest rate method:
+To calculate the amortization using the [effective interest rate method](../e/effective_interest_rate_method.md):
 
-1. **Calculate the bond's carrying amount:** Initially, it is the bond's issue price. 
-2. **Multiply the carrying amount by the market rate:** This gives the interest expense for the period.
-3. **Subtract the bond's cash interest payment from the interest expense:** This gives the amortization amount.
-4. **Add the amortization amount to the carrying value of the bond.**
+1. **Calculate the [bond](../b/bond.md)'s carrying amount:** Initially, it is the [bond](../b/bond.md)'s [issue](../i/issue.md) price. 
+2. **Multiply the carrying amount by the [market](../m/market.md) rate:** This gives the [interest expense](../i/interest_expense.md) for the period.
+3. **Subtract the [bond](../b/bond.md)'s cash [interest](../i/interest.md) [payment](../p/payment.md) from the [interest expense](../i/interest_expense.md):** This gives the amortization amount.
+4. **Add the amortization amount to the carrying [value](../v/value.md) of the [bond](../b/bond.md).**
 
-Over time, this method results in a lower unamortized bond discount than the straight-line method. The method is recognized by International Financial Reporting Standards (IFRS) and Generally Accepted Accounting Principles (GAAP) as providing a more accurate expense matching.
+Over time, this method results in a lower unamortized [bond discount](../b/bond_discount.md) than the straight-line method. The method is recognized by International Financial Reporting Standards (IFRS) and Generally Accepted [Accounting Principles](../a/accounting_principles.md) (GAAP) as providing a more accurate [expense](../e/expense.md) matching.
 
 ### Example Calculation
 
-Consider a bond with a face value of $1,000,000 issued for $950,000, a coupon rate of 5%, an annual interest payment, and a market interest rate of 6%.
+Consider a [bond](../b/bond.md) with a [face value](../f/face_value.md) of $1,000,000 issued for $950,000, a [coupon rate](../c/coupon_rate.md) of 5%, an annual [interest](../i/interest.md) [payment](../p/payment.md), and a [market](../m/market.md) [interest rate](../i/interest_rate.md) of 6%.
 
-1. Calculate the annual interest expense using the market rate: $950,000 * 6% = $57,000.
-2. Calculate the annual coupon payment: $1,000,000 * 5% = $50,000.
-3. The difference is the amortization of the discount: $57,000 - $50,000 = $7,000.
-4. Add the amortization to the bond's carrying amount: $950,000 + $7,000 = $957,000. 
+1. Calculate the annual [interest expense](../i/interest_expense.md) using the [market](../m/market.md) rate: $950,000 * 6% = $57,000.
+2. Calculate the annual coupon [payment](../p/payment.md): $1,000,000 * 5% = $50,000.
+3. The difference is the amortization of the [discount](../d/discount.md): $57,000 - $50,000 = $7,000.
+4. Add the amortization to the [bond](../b/bond.md)'s carrying amount: $950,000 + $7,000 = $957,000. 
 
-This process is repeated until the bond matures.
+This process is repeated until the [bond](../b/bond.md) matures.
 
 ## Accounting for Unamortized Bond Discount
 
-The accounting treatment of the unamortized bond discount influences the financial appearance of the issuer. Companies show the unamortized bond discount on the balance sheet as a deduction from the bond's face value:
+The [accounting](../a/accounting.md) treatment of the unamortized [bond discount](../b/bond_discount.md) influences the financial appearance of the [issuer](../i/issuer.md). Companies show the unamortized [bond discount](../b/bond_discount.md) on the [balance sheet](../b/balance_sheet.md) as a [deduction](../d/deduction.md) from the [bond](../b/bond.md)'s [face value](../f/face_value.md):
 
 ### Journal Entries
 
-When the bond is issued at a discount, the issuer records:
+When the [bond](../b/bond.md) is issued at a [discount](../d/discount.md), the [issuer](../i/issuer.md) records:
 
 ```
-Debit: Cash $950,000 
-Debit: Discount on Bonds Payable $50,000
-Credit: Bonds Payable $1,000,000
+[Debit](../d/debit.md): Cash $950,000 
+[Debit](../d/debit.md): [Discount](../d/discount.md) on Bonds Payable $50,000
+[Credit](../c/credit.md): Bonds Payable $1,000,000
 ```
 
-Each period, as the discount is amortized, the entry would be:
+Each period, as the [discount](../d/discount.md) is amortized, the entry would be:
 
 ```
-Debit: Interest Expense $7,000 (Effective Rate Method) / $5,000 (Straight-Line Method)
-Credit: Discount on Bonds Payable $7,000 (Effective Rate Method) / $5,000 (Straight-Line Method)
+[Debit](../d/debit.md): [Interest Expense](../i/interest_expense.md) $7,000 (Effective Rate Method) / $5,000 (Straight-Line Method)
+[Credit](../c/credit.md): [Discount](../d/discount.md) on Bonds Payable $7,000 (Effective Rate Method) / $5,000 (Straight-Line Method)
 ```
 
 ### Balance Sheet Presentation
 
-The bond would be presented as:
+The [bond](../b/bond.md) would be presented as:
 
 **Bonds Payable:** $1,000,000
 
-**Less: Unamortized Discount:** $50,000 (Initial)
+**Less: Unamortized [Discount](../d/discount.md):** $50,000 (Initial)
 
 **Carrying Amount of Bonds:** $950,000
 
-The unamortized bond discount will reduce progressively as it is amortized, impacting both the carrying amount of the bond and interest expense reported.
+The unamortized [bond discount](../b/bond_discount.md) [will](../w/will.md) reduce progressively as it is amortized, impacting both the carrying amount of the [bond](../b/bond.md) and [interest expense](../i/interest_expense.md) reported.
 
 ## Implications for Investors and Issuers
 
 ### For Investors
 
-Understanding unamortized bond discounts helps investors make informed decisions. A bond trading at a discount could mean higher yields compared to other investments. However, the reasons for the discount, such as credit issues with the issuer, must be carefully evaluated.
+Understanding unamortized [bond](../b/bond.md) discounts helps investors make informed decisions. A [bond](../b/bond.md) trading at a [discount](../d/discount.md) could mean higher yields compared to other investments. However, the reasons for the [discount](../d/discount.md), such as [credit](../c/credit.md) issues with the [issuer](../i/issuer.md), must be carefully evaluated.
 
 ### For Issuers
 
-For bond issuers, marketing bonds at a discount can be a strategy to attract investors, especially in a rising interest rate environment. The unamortized discount's impact on financial statements also requires careful management to ensure accurate economic representation and adherence to accounting standards.
+For [bond](../b/bond.md) issuers, [marketing](../m/marketing.md) bonds at a [discount](../d/discount.md) can be a strategy to attract investors, especially in a rising [interest rate](../i/interest_rate.md) environment. The unamortized [discount](../d/discount.md)'s impact on [financial statements](../f/financial_statements.md) also requires careful management to ensure accurate economic representation and adherence to [accounting](../a/accounting.md) standards.
 
 ## Conclusion
 
-The unamortized bond discount is a critical concept in bond accounting and financial management. Its proper accounting and amortization ensure transparent financial reporting and impact both issuers and investors. Whether you are an experienced accountant or an investor delving into fixed-income securities, understanding this concept is essential for navigating the complexities of bond markets and financial statements effectively.
+The unamortized [bond discount](../b/bond_discount.md) is a critical concept in [bond](../b/bond.md) [accounting](../a/accounting.md) and financial management. Its proper [accounting](../a/accounting.md) and amortization ensure transparent financial reporting and impact both issuers and investors. Whether you are an experienced [accountant](../a/accountant.md) or an [investor](../i/investor.md) delving into fixed-[income](../i/income.md) securities, understanding this concept is essential for navigating the complexities of [bond](../b/bond.md) markets and [financial statements](../f/financial_statements.md) effectively.

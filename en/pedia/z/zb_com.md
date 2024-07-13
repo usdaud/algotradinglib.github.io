@@ -2,27 +2,27 @@
 
 ### Introduction
 
-ZB.COM is a global cryptocurrency exchange platform that provides various services such as trading, borrowing, and lending of digital assets. Established in 2013, ZB.COM is headquartered in Zurich, Switzerland, with operational offices located in key financial hubs such as Hong Kong, Singapore, and Dubai. It aims to create a secure, efficient, and user-friendly environment for blockchain enthusiasts and investors.
+ZB.COM is a global cryptocurrency [exchange](../e/exchange.md) platform that provides various services such as trading, borrowing, and lending of digital assets. Established in 2013, ZB.COM is headquartered in Zurich, Switzerland, with operational offices located in key financial hubs such as Hong Kong, Singapore, and Dubai. It aims to create a secure, efficient, and user-friendly environment for [blockchain](../b/blockchain_in_trading.md) enthusiasts and investors.
 
 ### Services and Features
 
 #### 1. **Spot Trading**
-Spot trading is the most common form of trading on ZB.COM. Users can buy and sell a variety of cryptocurrencies such as Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), and many others. The trading interface offers real-time data, advanced charting tools, and various order types (limit, market, and stop orders) to cater to both novice and experienced traders.
+Spot trading is the most common form of trading on ZB.COM. Users can buy and sell a variety of cryptocurrencies such as [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), Litecoin (LTC), and many others. The trading interface offers real-time data, advanced charting tools, and various [order types](../o/order_types_in_trading.md) (limit, [market](../m/market.md), and stop orders) to cater to both novice and experienced traders.
 
 #### 2. **Margin Trading**
-Margin trading allows users to leverage their positions by borrowing funds to increase their potential returns. ZB.COM offers up to 10x leverage, allowing traders to amplify their gains (and losses) significantly. The platform provides risk management features such as stop-loss orders and real-time margin monitoring.
+[Margin trading](../m/margin_trading.md) allows users to [leverage](../l/leverage.md) their positions by borrowing funds to increase their potential returns. ZB.COM offers up to 10x [leverage](../l/leverage.md), allowing traders to amplify their gains (and losses) significantly. The platform provides [risk management](../r/risk_management.md) features such as [stop-loss orders](../s/stop-loss_orders.md) and real-time [margin](../m/margin.md) monitoring.
 
 #### 3. **Futures Trading**
-ZB.COM provides futures trading services where traders can speculate on the future price of cryptocurrencies without owning the underlying assets. This allows for both long (buying) and short (selling) positions. The platform offers perpetual contracts and traditional futures with a variety of leverage options.
+ZB.COM provides [futures](../f/futures.md) trading services where traders can speculate on the future price of cryptocurrencies without owning the [underlying](../u/underlying.md) assets. This allows for both long (buying) and short (selling) positions. The platform offers perpetual contracts and traditional [futures](../f/futures.md) with a variety of [leverage](../l/leverage.md) [options](../o/options.md).
 
 #### 4. **Lending and Borrowing**
-ZB.COM offers a lending feature where users can lend their idle assets to earn interest. Borrowers can take loans by collateralizing their crypto holdings. The interest rates are determined by the supply and demand dynamics on the platform.
+ZB.COM offers a lending feature where users can lend their idle assets to earn [interest](../i/interest.md). Borrowers can take loans by collateralizing their crypto [holdings](../h/holdings.md). The [interest](../i/interest.md) rates are determined by the [supply](../s/supply.md) and [demand](../d/demand.md) dynamics on the platform.
 
 #### 5. **Staking**
 Staking allows users to earn rewards by participating in the proof-of-stake (PoS) mechanisms of various blockchains. ZB.COM supports several staking programs where users can delegate their tokens to validators and earn a share of the block rewards.
 
 #### 6. **ZB Token (ZB)**
-ZB Token (ZB) is the native utility token of the platform, which provides various benefits such as discounted trading fees, access to exclusive features, and voting rights in project listings and governance decisions.
+ZB Token (ZB) is the native [utility](../u/utility.md) token of the platform, which provides various benefits such as discounted trading fees, access to exclusive features, and voting rights in project listings and governance decisions.
 
 #### 7. **Mobile App**
 The ZB.COM mobile app provides a seamless trading experience on the go. It includes all the features available on the desktop platform, ensuring users can manage their portfolios and execute trades anytime, anywhere.
@@ -30,32 +30,32 @@ The ZB.COM mobile app provides a seamless trading experience on the go. It inclu
 ### Security Measures
 
 #### 1. **Cold and Hot Wallets**
-ZB.COM implements a robust security framework that includes the use of cold and hot wallets. A significant portion of users' funds is stored in cold wallets, which are offline and hence, inaccessible to hackers. Hot wallets, used for daily operations, hold only a small fraction of the assets.
+ZB.COM implements a [robust](../r/robust.md) [security](../s/security.md) framework that includes the use of cold and hot wallets. A significant portion of users' funds is stored in cold wallets, which are offline and hence, inaccessible to hackers. Hot wallets, used for daily operations, [hold](../h/hold.md) only a small fraction of the assets.
 
 #### 2. **Two-Factor Authentication (2FA)**
-To enhance account security, ZB.COM requires users to enable two-factor authentication (2FA). This adds an extra layer of protection by requiring not only a password but also a one-time code generated by an authenticator app or SMS.
+To enhance account [security](../s/security.md), ZB.COM requires users to enable two-[factor](../f/factor.md) authentication (2FA). This adds an extra layer of protection by requiring not only a password but also a one-time code generated by an authenticator app or SMS.
 
 #### 3. **Security Audits**
-The platform undergoes regular security audits conducted by third-party cybersecurity firms. These audits help identify potential vulnerabilities and ensure compliance with the latest security protocols.
+The platform undergoes regular [security](../s/security.md) audits conducted by third-party cybersecurity firms. These audits help identify potential vulnerabilities and ensure compliance with the latest [security](../s/security.md) protocols.
 
 #### 4. **Insurance Fund**
-ZB.COM maintains an insurance fund to compensate users in the event of a security breach or other unforeseen incidents. This provides an additional layer of protection and assurance for users.
+ZB.COM maintains an [insurance](../i/insurance.md) [fund](../f/fund.md) to compensate users in the event of a [security](../s/security.md) breach or other unforeseen incidents. This provides an additional layer of protection and [assurance](../a/assurance.md) for users.
 
 ### Regulatory Compliance
 
-ZB.COM adheres to stringent regulatory requirements in various jurisdictions. The platform implements Know Your Customer (KYC) and Anti-Money Laundering (AML) procedures to ensure compliance with global financial regulations. It also collaborates with regulatory bodies to promote a transparent and secure trading environment.
+ZB.COM adheres to stringent regulatory requirements in various jurisdictions. The platform implements Know Your [Customer](../c/customer.md) (KYC) and Anti-[Money Laundering](../m/money_laundering.md) (AML) procedures to ensure compliance with global financial regulations. It also collaborates with regulatory bodies to promote a transparent and secure [trading environment](../t/trading_environment.md).
 
 ### User Support and Community Engagement
 
 #### 1. **Customer Support**
-ZB.COM offers 24/7 customer support through various channels including live chat, email, and a comprehensive help center. The support team is well-trained to handle queries ranging from basic account issues to complex trading problems.
+ZB.COM offers 24/7 [customer](../c/customer.md) support through various channels including live chat, email, and a comprehensive help center. The support team is well-trained to [handle](../h/handle.md) queries ranging from basic account issues to complex trading problems.
 
 #### 2. **Community Engagement**
-ZB.COM actively engages with its community through social media platforms, webinars, and local meetups. It also runs various promotional campaigns and trading competitions to keep the community engaged and rewarded.
+ZB.COM actively engages with its community through [social media](../s/social_media.md) platforms, webinars, and local meetups. It also runs various promotional campaigns and trading competitions to keep the community engaged and rewarded.
 
 ### Conclusion
 
-ZB.COM has established itself as a reliable and comprehensive cryptocurrency exchange platform. With a wide range of services, robust security measures, and a strong focus on regulatory compliance, it provides a safe and efficient trading environment for users worldwide. Whether you are a novice trader looking to buy your first Bitcoin or a seasoned investor seeking advanced trading options, ZB.COM caters to all your cryptocurrency needs.
+ZB.COM has established itself as a reliable and comprehensive cryptocurrency [exchange](../e/exchange.md) platform. With a wide [range](../r/range.md) of services, [robust](../r/robust.md) [security](../s/security.md) measures, and a strong focus on regulatory compliance, it provides a safe and efficient [trading environment](../t/trading_environment.md) for users worldwide. Whether you are a novice [trader](../t/trader.md) looking to buy your first [Bitcoin](../b/bitcoin.md) or a seasoned [investor](../i/investor.md) seeking advanced trading [options](../o/options.md), ZB.COM caters to all your cryptocurrency needs.
 
 For more information, you can visit their official website: [ZB.COM](https://zb.com)
 
@@ -63,23 +63,23 @@ For more information, you can visit their official website: [ZB.COM](https://zb.
 
 #### Algorithmic Trading
 
-Algorithmic trading on ZB.COM is facilitated through its API services, which allow users to integrate their trading bots and automated systems with the platform. The API supports RESTful and WebSocket protocols, providing real-time access to market data, account information, and order execution.
+[Algorithmic trading](../a/accountability.md) on ZB.COM is facilitated through its API services, which allow users to integrate their trading bots and automated systems with the platform. The API supports RESTful and WebSocket protocols, providing real-time access to [market](../m/market.md) data, account information, and [order](../o/order.md) [execution](../e/execution.md).
 
 ##### Key Features of ZB.COM API:
 
-- **Real-time Market Data:** Access to live price feeds, trading volumes, and market depth.
-- **Order Management:** Functions for placing, modifying, and canceling orders.
-- **Account Management:** Retrieve account balances, transaction history, and open positions.
-- **WebSocket Support:** Real-time order book updates and trade notifications.
+- **[Real-time Market Data](../r/real-time_market_data.md):** Access to live price feeds, trading volumes, and [market depth](../m/market_depth.md).
+- **[Order Management](../o/order_management_in_trading.md):** Functions for placing, modifying, and canceling orders.
+- **Account Management:** Retrieve account balances, [transaction](../t/transaction.md) history, and [open](../o/open.md) positions.
+- **WebSocket Support:** Real-time [order book](../o/order_book.md) updates and [trade](../t/trade.md) notifications.
 
 For detailed API documentation, you can visit [ZB.COM API Documentation](https://www.zb.com/api).
 
 ### Statistical Overview
 
 As of the latest available data:
-- **Daily Trading Volume:** $1.2 billion
-- **Number of Listed Cryptocurrencies:** 200+
+- **Daily Trading [Volume](../v/volume.md):** $1.2 billion
+- **Number of [Listed](../l/listed.md) Cryptocurrencies:** 200+
 - **Number of Registered Users:** 5 million+
 - **Supported Languages:** English, Chinese, Korean, Japanese, and more.
 
-These statistics highlight the platform's extensive reach and active user base, making it a significant player in the cryptocurrency exchange industry.
+These [statistics](../s/statistics.md) highlight the platform's extensive reach and active user base, making it a significant player in the cryptocurrency [exchange](../e/exchange.md) [industry](../i/industry.md).

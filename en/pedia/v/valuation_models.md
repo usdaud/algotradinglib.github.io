@@ -1,28 +1,28 @@
 # Valuation Models
 
-Valuation models are essential tools used in finance to determine the fair value of an asset, be it stocks, bonds, or any other financial instrument. These models are crucial for investors and traders to make informed decisions about buying, selling, or holding assets. In the context of [algorithmic trading](../a/algorithmic_trading.md), valuation models help automate the process of asset valuation, allowing traders to execute strategies with precision and speed. This document delves into various valuation models, their methodologies, and their applications within [algorithmic trading](../a/algorithmic_trading.md).
+[Valuation](../v/valuation.md) models are essential tools used in [finance](../f/finance.md) to determine the [fair value](../f/fair_value.md) of an [asset](../a/asset.md), be it [stocks](../s/stock.md), bonds, or any other [financial instrument](../f/financial_instrument.md). These models are crucial for investors and traders to make informed decisions about buying, selling, or holding assets. In the context of [algorithmic trading](../a/algorithmic_trading.md), [valuation](../v/valuation.md) models help automate the process of [asset valuation](../a/asset_valuation.md), allowing traders to execute strategies with precision and speed. This document delves into various [valuation](../v/valuation.md) models, their methodologies, and their applications within [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Discounted Cash Flow (DCF) Model
 
 ### Overview
-The DCF model values an asset based on the present value of its expected future cash flows. The principle behind DCF is that a dollar today is worth more than a dollar in the future due to the potential earning capacity. This model is widely used for valuing companies and is particularly useful in long-term investment analysis.
+The DCF model values an [asset](../a/asset.md) based on the [present value](../p/present_value.md) of its expected future cash flows. The principle behind DCF is that a dollar today is worth more than a dollar in the future due to the potential earning capacity. This model is widely used for valuing companies and is particularly useful in long-term [investment analysis](../i/investment_analysis.md).
 
 ### Components
-1. **Forecasted Cash Flows**: Estimate the future cash flows the asset will generate.
-2. **Discount Rate**: Determine the appropriate rate to discount future cash flows to their present value.
-3. **Terminal Value**: Calculate the value of the asset beyond the forecast period.
+1. **Forecasted Cash Flows**: Estimate the future cash flows the [asset](../a/asset.md) [will](../w/will.md) generate.
+2. **[Discount Rate](../d/discount_rate.md)**: Determine the appropriate rate to [discount](../d/discount.md) future cash flows to their [present value](../p/present_value.md).
+3. **Terminal [Value](../v/value.md)**: Calculate the [value](../v/value.md) of the [asset](../a/asset.md) beyond the forecast period.
 
 ### Mathematical Formula
-\[ \text{DCF Value} = \sum_{t=1}^{n} \frac{CF_t}{(1 + r)^t} + \frac{TV}{(1 + r)^n} \]
+\[ \text{DCF [Value](../v/value.md)} = \sum_{t=1}^{n} \frac{CF_t}{(1 + r)^t} + \frac{TV}{(1 + r)^n} \]
 
 Where:
-- \( CF_t \) = Cash flow in period \( t \)
-- \( r \) = Discount rate
+- \( CF_t \) = [Cash flow](../c/cash_flow.md) in period \( t \)
+- \( r \) = [Discount rate](../d/discount_rate.md)
 - \( n \) = Number of periods
-- \( TV \) = Terminal value
+- \( TV \) = Terminal [value](../v/value.md)
 
 ### Application in Algorithmic Trading
-In [algorithmic trading](../a/algorithmic_trading.md), DCF can be implemented to automate investment decisions. Algorithms can continuously update cash flow projections and discount rates based on real-time data, ensuring the valuation reflects current market conditions. Traders can use this to build strategies that identify undervalued or overvalued stocks.
+In [algorithmic trading](../a/algorithmic_trading.md), DCF can be implemented to automate investment decisions. Algorithms can continuously update [cash flow](../c/cash_flow.md) projections and [discount](../d/discount.md) rates based on real-time data, ensuring the [valuation](../v/valuation.md) reflects current [market](../m/market.md) conditions. Traders can use this to build strategies that identify [undervalued](../u/undervalued.md) or [overvalued](../o/overvalued.md) [stocks](../s/stock.md).
 
 ### Example
 - [QuantConnect](../q/quantconnect.md) offers DCF modeling as part of their [algorithmic trading](../a/algorithmic_trading.md) platform, providing tools to automate these valuations. More information can be found at [QuantConnect](https://www.quantconnect.com/).
@@ -30,40 +30,40 @@ In [algorithmic trading](../a/algorithmic_trading.md), DCF can be implemented to
 ## Comparable Company Analysis (CCA)
 
 ### Overview
-CCA values an asset by comparing it to similar entities based on multiples. Commonly used multiples include Price-to-Earnings (P/E), Enterprise Value-to-EBITDA (EV/EBITDA), and Price-to-Book (P/B).
+CCA values an [asset](../a/asset.md) by comparing it to similar entities based on multiples. Commonly used multiples include Price-to-[Earnings](../e/earnings.md) (P/E), Enterprise [Value](../v/value.md)-to-EBITDA (EV/EBITDA), and Price-to-Book (P/B).
 
 ### Process
-1. **Identify Comparable Companies**: Select companies within the same industry with similar size and business models.
+1. **Identify Comparable Companies**: Select companies within the same [industry](../i/industry.md) with similar size and [business models](../b/business_models.md).
 2. **Calculate Multiples**: Determine the relevant multiples for each comparable company.
-3. **Apply Multiples**: Use the multiples to estimate the value of the target asset.
+3. **Apply Multiples**: Use the multiples to estimate the [value](../v/value.md) of the target [asset](../a/asset.md).
 
 ### Application in Algorithmic Trading
-Automation of CCA involves collecting real-time data on comparable companies and their multiples. Algorithms can identify discrepancies between the valuation of the target asset and its peers, providing [trading signals](../t/trading_signals.md) for investment decisions.
+Automation of CCA involves collecting real-time data on comparable companies and their multiples. Algorithms can identify discrepancies between the [valuation](../v/valuation.md) of the target [asset](../a/asset.md) and its peers, providing [trading signals](../t/trading_signals.md) for investment decisions.
 
 ### Example
-- Alpha Vantage offers APIs that facilitate the execution of CCA by providing up-to-date market data and financial metrics. More information can be found at [Alpha Vantage](https://www.alphavantage.co/).
+- [Alpha](../a/alpha.md) Vantage offers APIs that facilitate the [execution](../e/execution.md) of CCA by providing up-to-date [market](../m/market.md) data and financial metrics. More information can be found at [Alpha Vantage](https://www.alphavantage.co/).
 
 ## Residual Income Model (RIM)
 
 ### Overview
-The RIM values an asset by considering the net income generated after accounting for a required return on equity. It is particularly useful for firms that do not pay dividends or have irregular dividend patterns.
+The RIM values an [asset](../a/asset.md) by considering the net [income](../i/income.md) generated after [accounting](../a/accounting.md) for a required [return](../r/return.md) on [equity](../e/equity.md). It is particularly useful for firms that do not pay dividends or have irregular [dividend](../d/dividend.md) patterns.
 
 ### Components
-1. **Book Value of Equity**: Initial equity capital invested in the company.
-2. **Net Income**: Income generated by the company.
-3. **Cost of Equity**: Required return by shareholders.
+1. **[Book Value](../b/book_value.md) of [Equity](../e/equity.md)**: Initial [equity](../e/equity.md) [capital](../c/capital.md) invested in the company.
+2. **Net [Income](../i/income.md)**: [Income](../i/income.md) generated by the company.
+3. **[Cost of Equity](../c/cost_of_equity.md)**: Required [return](../r/return.md) by shareholders.
 
 ### Mathematical Formula
-\[ \text{RIM Value} = BV + \sum_{t=1}^{n} \frac{RI_t}{(1 + r)^t} \]
+\[ \text{RIM [Value](../v/value.md)} = BV + \sum_{t=1}^{n} \frac{RI_t}{(1 + r)^t} \]
 
 Where:
-- \( BV \) = Book value of equity
-- \( RI_t \) = Residual income in period \( t \)
-- \( r \) = Cost of equity
+- \( BV \) = [Book value](../b/book_value.md) of [equity](../e/equity.md)
+- \( RI_t \) = [Residual income](../r/residual_income.md) in period \( t \)
+- \( r \) = [Cost of equity](../c/cost_of_equity.md)
 - \( n \) = Number of periods
 
 ### Application in Algorithmic Trading
-Algorithms can continuously update book values, net income, and cost of equity based on financial statements and market data. This dynamic updating process ensures the valuations remain timely and accurate.
+Algorithms can continuously update book values, net [income](../i/income.md), and [cost of equity](../c/cost_of_equity.md) based on [financial statements](../f/financial_statements.md) and [market](../m/market.md) data. This dynamic updating process ensures the valuations remain timely and accurate.
 
 ### Example
 - [FactSet](../f/factset.md) provides extensive financial data and tools, facilitating the implementation of RIM in [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found at [FactSet](https://www.factset.com/).
@@ -71,49 +71,49 @@ Algorithms can continuously update book values, net income, and cost of equity b
 ## Dividend Discount Model (DDM)
 
 ### Overview
-The DDM values a stock based on the present value of expected future dividends. It is widely used for valuing companies with stable and predictable dividend payments.
+The DDM values a stock based on the [present value](../p/present_value.md) of expected future dividends. It is widely used for valuing companies with stable and predictable [dividend](../d/dividend.md) payments.
 
 ### Types of DDM
-1. **Gordon Growth Model**: Assumes dividends grow at a constant rate.
+1. **[Gordon Growth Model](../g/gordon_growth_model.md)**: Assumes dividends grow at a constant rate.
 2. **Two-Stage Model**: Assumes an initial high-growth phase followed by stable growth.
-3. **Multi-Stage Model**: Accommodates multiple phases of growth.
+3. **Multi-Stage Model**: Accommodates [multiple](../m/multiple.md) phases of growth.
 
 ### Mathematical Formula (Gordon Growth Model)
-\[ \text{DDM Value} = \frac{D_1}{r - g} \]
+\[ \text{DDM [Value](../v/value.md)} = \frac{D_1}{r - g} \]
 
 Where:
-- \( D_1 \) = Dividend expected next year
-- \( r \) = Required rate of return
+- \( D_1 \) = [Dividend](../d/dividend.md) expected next year
+- \( r \) = Required [rate of return](../r/rate_of_return.md)
 - \( g \) = Growth rate of dividends
 
 ### Application in Algorithmic Trading
-Algorithms can automate the projection of future dividends and adjust for changes in [growth rates](../g/growth_rates_in_trading.md) and required returns, providing an efficient way to value dividend-paying stocks.
+Algorithms can automate the projection of future dividends and adjust for changes in [growth rates](../g/growth_rates_in_trading.md) and required returns, providing an efficient way to [value](../v/value.md) [dividend](../d/dividend.md)-paying [stocks](../s/stock.md).
 
 ### Example
-- [Bloomberg](../b/bloomberg.md) Terminal provides robust tools for dividend discount modeling, aiding in the creation of automated [trading strategies](../t/trading_strategies.md). More information can be found at [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+- [Bloomberg](../b/bloomberg.md) Terminal provides [robust](../r/robust.md) tools for [dividend](../d/dividend.md) [discount](../d/discount.md) modeling, aiding in the creation of automated [trading strategies](../t/trading_strategies.md). More information can be found at [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ## Earnings Power Value (EPV) Model
 
 ### Overview
-The EPV model values a company based on its ability to generate continued profits. Unlike other models, it does not rely on long-term growth projections but rather focuses on current operating earnings.
+The EPV model values a company based on its ability to generate continued profits. Unlike other models, it does not rely on long-term growth projections but rather focuses on current [operating earnings](../o/operating_earnings.md).
 
 ### Components
-1. **Sustainable Earnings**: Estimate the current earnings that can be maintained.
-2. **Cost of Capital**: Determine the appropriate rate of return.
+1. **Sustainable [Earnings](../e/earnings.md)**: Estimate the current [earnings](../e/earnings.md) that can be maintained.
+2. **[Cost of Capital](../c/cost_of_capital.md)**: Determine the appropriate [rate of return](../r/rate_of_return.md).
 
 ### Mathematical Formula
-\[ \text{EPV Value} = \frac{Sustainable Earnings}{WACC} \]
+\[ \text{EPV Value} = \frac{Sustainable [Earnings](../e/earnings.md)}{WACC} \]
 
 Where:
-- \( Sustainable Earnings \) = Current profitability level
-- \( WACC \) = Weighted Average Cost of Capital
+- \( Sustainable [Earnings](../e/earnings.md) \) = Current profitability level
+- \( WACC \) = [Weighted Average](../w/weighted_average.md) [Cost of Capital](../c/cost_of_capital.md)
 
 ### Application in Algorithmic Trading
-In [algorithmic trading](../a/algorithmic_trading.md), EPV can be used to quickly assess whether a stock is trading at, above, or below its intrinsic value based on current earnings. Real-time [data integration](../d/data_integration.md) ensures that the valuation is current and reflective of any significant market changes.
+In [algorithmic trading](../a/algorithmic_trading.md), EPV can be used to quickly assess whether a stock is trading at, above, or below its [intrinsic value](../i/intrinsic_value.md) based on current [earnings](../e/earnings.md). Real-time [data integration](../d/data_integration.md) ensures that the [valuation](../v/valuation.md) is current and reflective of any significant [market](../m/market.md) changes.
 
 ### Example
 - [Tradestation](../t/tradestation.md) offers platforms that support EPV calculations through real-time data and analysis tools. More information can be found at [Tradestation](https://www.tradestation.com/).
 
 ## Conclusion
 
-In the realm of [algorithmic trading](../a/algorithmic_trading.md), valuation models serve as the backbone for making informed and [systematic trading](../s/systematic_trading.md) decisions. By automating the process of asset valuation, traders can ensure they are always operating with the most up-to-date and accurate information. Whether it's through DCF, CCA, RIM, DDM, or EPV, each model offers unique insights and applications that can enhance [trading strategies](../t/trading_strategies.md) and potentially improve returns. With the aid of advanced trading platforms and APIs, integrating these valuation models into automated systems has never been easier.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), [valuation](../v/valuation.md) models serve as the backbone for making informed and [systematic trading](../s/systematic_trading.md) decisions. By automating the process of [asset valuation](../a/asset_valuation.md), traders can ensure they are always operating with the most up-to-date and accurate information. Whether it's through DCF, CCA, RIM, DDM, or EPV, each model offers unique insights and applications that can enhance [trading strategies](../t/trading_strategies.md) and potentially improve returns. With the aid of advanced trading platforms and APIs, integrating these [valuation](../v/valuation.md) models into automated systems has never been easier.

@@ -27,16 +27,16 @@ In [algorithmic trading](../a/algorithmic_trading.md), the accuracy of [trading 
 
 ### Hypothesis Testing
 
-[Algorithmic trading](../a/algorithmic_trading.md) strategies often start with a hypothesis about market behavior. Confirmation bias can significantly impact the [hypothesis testing](../h/hypothesis_testing.md) phase by:
+[Algorithmic trading](../a/algorithmic_trading.md) strategies often start with a hypothesis about [market](../m/market.md) behavior. Confirmation bias can significantly impact the [hypothesis testing](../h/hypothesis_testing.md) phase by:
 
-- **Subjective Validation:** Giving more weight to test results that align with the trader's expectations and downplaying those that don't.
+- **Subjective Validation:** Giving more weight to test results that align with the [trader](../t/trader.md)'s expectations and downplaying those that don't.
 - **Post-Hoc Rationalization:** Developing rationalizations or justifications for unexpected results that contradict the initial hypothesis.
 
 ### Impact on Strategy Development
 
 The development of [trading strategies](../t/trading_strategies.md) can be severely hampered by confirmation bias. Traders or developers may:
 
-- **Ignore [Risk Factors](../r/risk_factors_in_trading.md):** Underestimate potential risks or market conditions that could invalidate their strategies.
+- **Ignore [Risk Factors](../r/risk_factors_in_trading.md):** Underestimate potential risks or [market](../m/market.md) conditions that could invalidate their strategies.
 - **Reinforce Existing Beliefs:** Continually refine strategies to satisfy preconceived notions, leading to suboptimal [trading performance](../t/trading_performance.md).
 
 ## Mitigating Confirmation Bias
@@ -57,7 +57,7 @@ Incorporating structured decision-making processes can also help mitigate confir
 Engaging with a diverse set of viewpoints can counteract confirmation bias. Teams composed of individuals with varied backgrounds and perspectives are less likely to fall prey to collective confirmation bias, leading to:
 
 - **Critical Analysis:** Encouragement of critical scrutiny and challenging of prevailing beliefs within the team.
-- **Comprehensive Review:** Broader review of data and interpretations from multiple angles.
+- **Comprehensive Review:** Broader review of data and interpretations from [multiple](../m/multiple.md) angles.
 
 ### Algorithm Assurance
 
@@ -77,26 +77,26 @@ Establishing [feedback loops](../f/feedback_loops_in_trading.md) that include pe
 
 Leveraging technology and advanced analytics can also play a crucial role in mitigating confirmation bias:
 
-- **Automated Data Analysis:** Employing robust algorithms for data analysis that minimize human intervention can reduce the subjective influence on the outcomes.
-- **Machine Learning Models:** Using unsupervised learning techniques that identify patterns in data without preconceived labels, reducing the risk of enforcing preexisting biases.
+- **Automated Data Analysis:** Employing [robust](../r/robust.md) algorithms for data analysis that minimize human intervention can reduce the subjective influence on the outcomes.
+- **Machine Learning Models:** Using unsupervised learning techniques that identify patterns in data without preconceived labels, reducing the [risk](../r/risk.md) of enforcing preexisting biases.
 
 ### Case Studies
 
 #### Long-Term Capital Management (LTCM)
 
-Long-Term Capital Management (LTCM), a prominent hedge fund, serves as an illustrative case of how confirmation bias can lead to catastrophic failures. The fund's algorithm-driven strategies were initially highly successful. However, LTCM's models were heavily based on historical data that confirmed the fund managers' hypotheses. When market conditions deviated unexpectedly, the models failed spectacularly, resulting in substantial financial losses.
+Long-Term [Capital](../c/capital.md) Management (LTCM), a prominent [hedge fund](../h/hedge_fund.md), serves as an illustrative case of how confirmation bias can lead to catastrophic failures. The [fund](../f/fund.md)'s algorithm-driven strategies were initially highly successful. However, LTCM's models were heavily based on historical data that confirmed the [fund](../f/fund.md) managers' hypotheses. When [market](../m/market.md) conditions deviated unexpectedly, the models failed spectacularly, resulting in substantial financial losses.
 
 #### Melvin Capital
 
-Melvin Capital, a hedge fund involved in the GameStop [short squeeze](../s/short_squeeze.md) incident in 2021, also demonstrated the risks of confirmation bias. The firm held substantial short positions against GameStop, grounded in a firm belief that the company's stock was overvalued. The confirmation bias in maintaining those positions despite contradictory signals from the market played a role in the fund's eventual losses and required a significant bailout.
+Melvin [Capital](../c/capital.md), a [hedge fund](../h/hedge_fund.md) involved in the GameStop [short squeeze](../s/short_squeeze.md) incident in 2021, also demonstrated the risks of confirmation bias. The [firm](../f/firm.md) held substantial short positions against GameStop, grounded in a [firm](../f/firm.md) belief that the company's stock was [overvalued](../o/overvalued.md). The confirmation bias in maintaining those positions despite contradictory signals from the [market](../m/market.md) played a role in the [fund](../f/fund.md)'s eventual losses and required a significant [bailout](../b/bailout.md).
 
 ### Leading Companies Addressing Confirmation Bias
 
-Several companies offer solutions aimed at reducing confirmation bias in trading. These include:
+Several companies [offer](../o/offer.md) solutions aimed at reducing confirmation bias in trading. These include:
 
-- [Qlik](https://www.qlik.com): Qlik provides business intelligence and [data visualization](../d/data_visualization.md) tools that help traders uncover unbiased insights from their data.
+- [Qlik](https://www.qlik.com): Qlik provides [business](../b/business.md) intelligence and [data visualization](../d/data_visualization.md) tools that help traders uncover unbiased insights from their data.
 - [Kensho](https://www.kensho.com): Kensho offers advanced machine learning and analytics solutions to ensure objective data analysis and reduce [cognitive biases in trading](../c/cognitive_biases_in_trading.md) decisions.
-- [Aiera](https://www.aiera.com): Aiera specializes in providing real-time market analysis using AI to help traders make data-driven decisions without [cognitive biases](../c/cognitive_biases_in_trading.md).
+- [Aiera](https://www.aiera.com): Aiera specializes in providing real-time [market](../m/market.md) analysis using AI to help traders make data-driven decisions without [cognitive biases](../c/cognitive_biases_in_trading.md).
 
 ### Conclusion
 

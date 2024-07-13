@@ -18,7 +18,7 @@ Online algorithms often assume adversarial models where an adversary determines 
 
 ### Greedy Algorithms
 
-Greedy algorithms follow a problem-solving heuristic of making locally optimal choices at each stage with the goal of finding a global optimum. In many online algorithm scenarios, greedy algorithms are used due to their simplicity and efficiency.
+Greedy algorithms follow a problem-solving heuristic of making locally optimal choices at each stage with the goal of finding a global optimum. In many online algorithm scenarios, greedy algorithms are used due to their simplicity and [efficiency](../e/efficiency.md).
 
 ## Common Online Problems
 
@@ -43,17 +43,17 @@ Online bipartite matching involves a bipartite graph where one set of vertices (
 
 ### Ski Rental Problem
 
-The ski rental problem exemplifies the balance between renting and buying. Given the cost of renting skis per day and the cost of purchasing skis, the goal is to minimize the total cost without knowing ahead of time how many days skiing will occur. The 2-competitive algorithm rents skis until the cumulative rental cost reaches the purchase cost, then buys the skis.
+The ski rental problem exemplifies the balance between renting and buying. Given the cost of renting skis per day and the cost of purchasing skis, the goal is to minimize the total cost without knowing ahead of time how many days skiing [will](../w/will.md) occur. The 2-competitive algorithm rents skis until the cumulative rental cost reaches the purchase cost, then buys the skis.
 
 ## Applications in Real World
 
 ### Online Ad Allocation
 
-Online ad allocation involves assigning ad slots to advertisers in real-time as users load web pages. This problem is highly relevant in digital marketing, and online algorithms are used to balance immediate revenue versus long-term benefits. Companies like Google handle these situations using online algorithms ([Google Ads](https://ads.google.com)).
+Online ad allocation involves assigning ad slots to advertisers in real-time as users [load](../l/load.md) web pages. This problem is highly relevant in [digital marketing](../d/digital_marketing.md), and online algorithms are used to balance immediate [revenue](../r/revenue.md) versus long-term benefits. Companies like Google [handle](../h/handle.md) these situations using online algorithms ([Google Ads](https://ads.google.com)).
 
 ### Ride-Hailing Services
 
-Ride-hailing services such as Uber must match drivers to ride requests dynamically. The goal is to minimize the waiting time for passengers and idle time for drivers. Uber employs online algorithms to optimize this matching process ([Uber](https://www.uber.com)).
+Ride-hailing services such as Uber must match drivers to ride requests dynamically. The goal is to minimize the waiting time for passengers and [idle time](../i/idle_time.md) for drivers. Uber employs online algorithms to optimize this matching process ([Uber](https://www.uber.com)).
 
 ### Cloud Resource Management
 
@@ -61,7 +61,7 @@ In [cloud computing](../c/cloud_computing_in_trading.md), resource management in
 
 ### Stock Market Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) involves making transactions in financial markets using pre-programmed codes, where decisions must be made in real time in response to market movements. Companies such as Two Sigma and Renaissance Technologies utilize sophisticated online algorithms to manage portfolios and execute trades ([Two Sigma](https://www.twosigma.com), [Renaissance Technologies](https://www.rentec.com)).
+[Algorithmic trading](../a/algorithmic_trading.md) involves making transactions in [financial markets](../f/financial_market.md) using pre-programmed codes, where decisions must be made in real time in response to [market](../m/market.md) movements. Companies such as Two Sigma and Renaissance Technologies utilize sophisticated online algorithms to manage portfolios and execute trades ([Two Sigma](https://www.twosigma.com), [Renaissance Technologies](https://www.rentec.com)).
 
 ## Example Algorithms and Their Competitive Ratios
 
@@ -83,4 +83,4 @@ In [cloud computing](../c/cloud_computing_in_trading.md), resource management in
 
 ## Summary
 
-Online [algorithm design](../a/algorithm_design.md) plays a crucial role in situations where decisions must be made sequentially without complete knowledge of future events. By employing techniques like competitive analysis and considering various adversarial models, researchers and practitioners can develop online strategies that perform well compared to optimal offline solutions. These algorithms are essential in a wide range of applications today, from internet advertising to resource management in [cloud computing](../c/cloud_computing_in_trading.md) and financial trading.
+Online [algorithm design](../a/algorithm_design.md) plays a crucial role in situations where decisions must be made sequentially without complete knowledge of future events. By employing techniques like competitive analysis and considering various adversarial models, researchers and practitioners can develop online strategies that perform well compared to optimal offline solutions. These algorithms are essential in a wide [range](../r/range.md) of applications today, from internet advertising to resource management in [cloud computing](../c/cloud_computing_in_trading.md) and financial trading.

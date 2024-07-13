@@ -4,11 +4,11 @@ Health plans can be complex and vary widely in terms of coverage, costs, and ben
 
 ## Health Maintenance Organization (HMO) Plans
 
-**Health Maintenance Organizations (HMOs)** are a popular type of health insurance plan that provides a wide range of healthcare services through a network of doctors and hospitals. Here are the key features of HMO plans:
+**Health Maintenance Organizations (HMOs)** are a popular type of [health insurance](../h/health_insurance.md) plan that provides a wide [range](../r/range.md) of healthcare services through a network of doctors and hospitals. Here are the key features of HMO plans:
 
 ### Features
 
-- **Network of Providers**: You must choose a primary care physician (PCP) from within the HMO network. This PCP will manage your care and provide referrals to specialists within the network.
+- **Network of Providers**: You must choose a primary care physician (PCP) from within the HMO network. This PCP [will](../w/will.md) manage your care and provide referrals to specialists within the network.
 - **Referrals Required**: To see a specialist or get certain medical services, you typically need a referral from your PCP.
 - **Lower Premiums**: HMOs generally have lower premiums compared to other types of health plans.
 - **Limited Out-of-Network Coverage**: HMO plans usually do not cover out-of-network care, except in emergencies.
@@ -28,7 +28,7 @@ Health plans can be complex and vary widely in terms of coverage, costs, and ben
 
 ## Preferred Provider Organization (PPO) Plans
 
-**Preferred Provider Organizations (PPOs)** offer more flexibility in choosing healthcare providers and do not usually require referrals for specialists. Here are the key features of PPO plans:
+**Preferred Provider Organizations (PPOs)** [offer](../o/offer.md) more flexibility in choosing healthcare providers and do not usually require referrals for specialists. Here are the key features of PPO plans:
 
 ### Features
 
@@ -77,14 +77,14 @@ Health plans can be complex and vary widely in terms of coverage, costs, and ben
 
 ### Features
 
-- **PCP Requirement**: You need to choose a primary care physician (PCP) who will manage your care and provide referrals.
-- **Network and Out-of-Network Coverage**: POS plans offer more flexibility than HMOs with both in-network and out-of-network coverage.
+- **PCP Requirement**: You need to choose a primary care physician (PCP) who [will](../w/will.md) manage your care and provide referrals.
+- **Network and Out-of-Network Coverage**: POS plans [offer](../o/offer.md) more flexibility than HMOs with both in-network and out-of-network coverage.
 - **Referrals Needed**: Seeing specialists requires a referral from your PCP.
 
 ### Benefits
 
-- **Comprehensive Coverage**: Provides broader coverage options than HMOs.
-- **Coordinated and Flexible Care**: Combines the benefits of coordinated care with somewhat flexible out-of-network options.
+- **Comprehensive Coverage**: Provides broader coverage [options](../o/options.md) than HMOs.
+- **Coordinated and Flexible Care**: Combines the benefits of coordinated care with somewhat flexible out-of-network [options](../o/options.md).
 
 ### Drawbacks
 
@@ -100,20 +100,20 @@ Health plans can be complex and vary widely in terms of coverage, costs, and ben
 
 ### Features
 
-- **High Deductible**: Requires meeting a higher deductible before the insurance starts to pay.
+- **High Deductible**: Requires meeting a higher deductible before the [insurance](../i/insurance.md) starts to pay.
 - **Lower Premiums**: These plans generally have lower monthly premiums.
-- **HSA Eligibility**: Can be paired with a Health Savings Account (HSA) for tax-advantaged savings.
+- **HSA Eligibility**: Can be paired with a Health [Savings Account](../s/savings_account.md) (HSA) for [tax-advantaged](../t/tax-advantaged.md) savings.
 
 ### Benefits
 
 - **Cost Savings on Premiums**: Lower monthly premiums make it an affordable option.
-- **Tax Advantages**: HSAs offer tax-free savings for qualified medical expenses.
+- **Tax Advantages**: HSAs [offer](../o/offer.md) [tax-free](../t/tax_free.md) savings for qualified medical expenses.
 - **Control Over Healthcare Spending**: Greater control over spending with an HSA.
 
 ### Drawbacks
 
 - **High Out-of-Pocket Costs**: High deductible means paying more out-of-pocket before coverage kicks in.
-- **Financial Risk**: May pose financial risk if significant medical expenses arise.
+- **[Financial Risk](../f/financial_risk.md)**: May pose [financial risk](../f/financial_risk.md) if significant medical expenses arise.
 
 ### Example
 [UnitedHealthcare](https://www.uhc.com/)
@@ -143,37 +143,37 @@ Health plans can be complex and vary widely in terms of coverage, costs, and ben
 
 ## Medicaid and CHIP
 
-**Medicaid** is a state and federally funded program that provides health coverage to low-income individuals and families. **Children’s Health Insurance Program (CHIP)** provides health coverage to eligible children, through both Medicaid and separate CHIP programs. Here are the key features of Medicaid and CHIP:
+**[Medicaid](../m/medicaid.md)** is a state and federally funded program that provides health coverage to low-[income](../i/income.md) individuals and families. **Children’s [Health Insurance](../h/health_insurance.md) Program (CHIP)** provides health coverage to eligible children, through both [Medicaid](../m/medicaid.md) and separate CHIP programs. Here are the key features of [Medicaid](../m/medicaid.md) and CHIP:
 
 ### Features
 
-- **Income-Based Eligibility**: Coverage is based on income level and other criteria.
-- **Comprehensive Coverage**: Covers a wide range of healthcare services.
+- **[Income](../i/income.md)-Based Eligibility**: Coverage is based on [income](../i/income.md) level and other criteria.
+- **Comprehensive Coverage**: Covers a wide [range](../r/range.md) of healthcare services.
 - **Minimal Costs**: Low or no premiums and minimal co-payments.
 
 ### Benefits
 
-- **Accessibility**: Provides essential health coverage to low-income individuals and families.
+- **Accessibility**: Provides essential health coverage to low-[income](../i/income.md) individuals and families.
 - **Comprehensive Services**: Covers preventive care, hospital visits, mental health services, and more.
 - **Affordability**: Low costs make it accessible to those in need.
 
 ### Drawbacks
 
-- **Eligibility Restrictions**: Coverage is based on income and other eligibility criteria.
-- **Provider Limitations**: Some providers do not accept Medicaid patients.
+- **Eligibility Restrictions**: Coverage is based on [income](../i/income.md) and other eligibility criteria.
+- **Provider Limitations**: Some providers do not accept [Medicaid](../m/medicaid.md) patients.
 
 ### Example
 [Medicaid](https://www.medicaid.gov/)
 
 ## Medicare
 
-**Medicare** is a federal health insurance program primarily for individuals aged 65 and older, but it also covers certain younger individuals with disabilities or specific conditions. Here are the key features of Medicare:
+**Medicare** is a federal [health insurance](../h/health_insurance.md) program primarily for individuals aged 65 and older, but it also covers certain younger individuals with disabilities or specific conditions. Here are the key features of Medicare:
 
 ### Features
 
 - **Parts A, B, C, and D**: Different parts of Medicare cover different services. 
-  - Part A: Hospital insurance.
-  - Part B: Medical insurance.
+  - Part A: Hospital [insurance](../i/insurance.md).
+  - Part B: Medical [insurance](../i/insurance.md).
   - Part C (Medicare Advantage): Alternative to original Medicare offered by private companies.
   - Part D: Prescription drug coverage.
 - **Eligibility**: Generally for individuals aged 65 and older or younger individuals with specific conditions.
@@ -183,12 +183,12 @@ Health plans can be complex and vary widely in terms of coverage, costs, and ben
 
 - **Comprehensive Coverage**: Covers various healthcare needs from hospital stays to preventive care and prescription drugs.
 - **Nationwide Acceptance**: Widely accepted by healthcare providers across the country.
-- **Multiple Plan Options**: Flexibility to choose from different parts and plans based on individual needs.
+- **[Multiple](../m/multiple.md) Plan [Options](../o/options.md)**: Flexibility to choose from different parts and plans based on individual needs.
 
 ### Drawbacks
 
-- **Complexity**: Multiple parts and options can be confusing.
-- **Coverage Gaps**: Some services may not be fully covered, requiring supplemental plans.
+- **Complexity**: [Multiple](../m/multiple.md) parts and [options](../o/options.md) can be confusing.
+- **Coverage [Gaps](../g/gap.md)**: Some services may not be fully covered, requiring supplemental plans.
 
 ### Example
 [Medicare](https://www.medicare.gov/)
@@ -203,7 +203,7 @@ Choosing the right health plan requires understanding the different categories a
 - **POS**: Hybrid of HMO and PPO, coordinated and flexible care, requires referrals.
 - **HDHP**: High deductibles, lower premiums, can pair with HSAs.
 - **Catastrophic**: Very high deductibles, low premiums, limited routine coverage.
-- **Medicaid and CHIP**: For low-income individuals and families, comprehensive and affordable.
-- **Medicare**: For individuals 65+, comprehensive, multiple parts and plan options.
+- **[Medicaid](../m/medicaid.md) and CHIP**: For low-[income](../i/income.md) individuals and families, comprehensive and affordable.
+- **Medicare**: For individuals 65+, comprehensive, [multiple](../m/multiple.md) parts and plan [options](../o/options.md).
 
 Understanding these differences can help you make the best decision for your healthcare needs. Always consider your health history, financial situation, and specific needs when selecting a health plan.

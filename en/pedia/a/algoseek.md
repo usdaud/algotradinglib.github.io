@@ -1,44 +1,44 @@
 # AlgoSeek
 
-AlgoSeek is a leading provider of high-quality financial data and analytics solutions, specializing in [alternative data](../a/alternative_data.md) for [quantitative research](../q/quantitative_research.md) and [trading strategies](../t/trading_strategies.md). The company focuses on delivering granular, clean, and comprehensive datasets to financial institutions, hedge funds, and quantitative traders.
+AlgoSeek is a leading provider of high-quality financial data and analytics solutions, specializing in [alternative data](../a/alternative_data.md) for [quantitative research](../q/quantitative_research.md) and [trading strategies](../t/trading_strategies.md). The company focuses on delivering granular, clean, and comprehensive datasets to financial institutions, [hedge](../h/hedge.md) funds, and quantitative traders.
 
 ## Core Offerings
 
 ### 1. Historical Market Data
 
-- Tick-by-tick data for equities, options, and futures
-- Full depth-of-book market data
-- Reconstructed order book snapshots
-- Trade and quote data with microsecond precision
+- [Tick](../t/tick.md)-by-[tick](../t/tick.md) data for equities, [options](../o/options.md), and [futures](../f/futures.md)
+- Full depth-of-book [market](../m/market.md) data
+- Reconstructed [order book](../o/order_book.md) snapshots
+- [Trade](../t/trade.md) and [quote](../q/quote.md) data with microsecond precision
 
 ### 2. Alternative Data
 
 - Retail [trading signals](../t/trading_signals.md)
-- Options flow data
-- Short interest indicators
-- Social media [sentiment analysis](../s/sentiment_analysis.md)
+- [Options](../o/options.md) flow data
+- [Short interest](../s/short_interest.md) indicators
+- [Social media](../s/social_media.md) [sentiment analysis](../s/sentiment_analysis.md)
 - Web scraping data sets
 
 ### 3. Corporate Actions Data
 
 - Comprehensive corporate actions history
-- Dividend announcements and payments
+- [Dividend](../d/dividend.md) announcements and payments
 - Stock splits and mergers
 - Rights issues and spinoffs
 
 ### 4. Reference Data
 
-- Security master files
-- Corporate hierarchy information
-- Industry classification data
+- [Security](../s/security.md) master files
+- [Corporate hierarchy](../c/corporate_hierarchy.md) information
+- [Industry](../i/industry.md) classification data
 - Fundamental financial data
 
 ### 5. Analytics and Derived Data
 
-- Liquidity metrics
-- Volatility indicators
-- Trade classification (buyer/seller initiated)
-- Abnormal volume detection
+- [Liquidity](../l/liquidity.md) metrics
+- [Volatility](../v/volatility.md) indicators
+- [Trade](../t/trade.md) classification (buyer/seller initiated)
+- Abnormal [volume](../v/volume.md) detection
 
 ## Key Features
 
@@ -46,8 +46,8 @@ AlgoSeek is a leading provider of high-quality financial data and analytics solu
 
 - Rigorous [data cleaning](../d/data_cleaning.md) and normalization processes
 - Handling of corporate actions and ticker changes
-- Cross-validation with multiple sources
-- Consistent data formats across asset classes
+- Cross-validation with [multiple](../m/multiple.md) sources
+- Consistent data formats across [asset](../a/asset.md) classes
 
 ### Customization and Delivery
 
@@ -64,14 +64,14 @@ AlgoSeek is a leading provider of high-quality financial data and analytics solu
 
 ### Compliance and Security
 
-- Data sourced and distributed in compliance with exchange agreements
+- Data sourced and distributed in compliance with [exchange](../e/exchange.md) agreements
 - Secure data transmission and storage
 - Anonymization of sensitive information where required
 
 ## Technology Infrastructure
 
 - Cloud-based data storage and processing
-- Scalable architecture to handle large datasets
+- Scalable architecture to [handle](../h/handle.md) large datasets
 - Low-latency data delivery systems
 - Machine [learning algorithms](../l/learning_algorithms_in_trading.md) for data analysis and predictions
 
@@ -79,13 +79,13 @@ AlgoSeek is a leading provider of high-quality financial data and analytics solu
 
 - [Quantitative hedge funds](../q/quantitative_hedge_funds.md)
 - [Algorithmic trading](../a/algorithmic_trading.md) firms
-- Asset managers and investment banks
+- [Asset](../a/asset.md) managers and [investment banks](../i/investment_bank_(ib).md)
 - Academic researchers
 - FinTech companies and financial software developers
 
 ## Unique Selling Points
 
-1. Granularity of data (tick-level, microsecond precision)
+1. Granularity of data ([tick](../t/tick.md)-level, microsecond precision)
 2. Breadth of alternative datasets
 3. Rigorous [data cleaning](../d/data_cleaning.md) and normalization processes
 4. Customizable data solutions
@@ -95,19 +95,19 @@ AlgoSeek is a leading provider of high-quality financial data and analytics solu
 
 - Subscription-based pricing for data feeds
 - Custom pricing for bespoke data solutions
-- Volume-based discounts available
-- Flexible licensing options (seat-based, enterprise-wide)
+- [Volume](../v/volume.md)-based discounts available
+- Flexible licensing [options](../o/options.md) (seat-based, enterprise-wide)
 
 ## Support and Documentation
 
-- Dedicated customer support team
+- Dedicated [customer](../c/customer.md) support team
 - Comprehensive API documentation
 - Regular webinars and educational content
 - Sample datasets and integration guides
 
 ## Recent Developments
 
-- Expansion of [alternative data](../a/alternative_data.md) offerings
+- [Expansion](../e/expansion.md) of [alternative data](../a/alternative_data.md) offerings
 - Enhanced machine learning-driven analytics
 - Improved real-time data delivery capabilities
 - Integration with cloud-based [backtesting](../b/backtesting.md) platforms
@@ -124,6 +124,6 @@ AlgoSeek is a leading provider of high-quality financial data and analytics solu
 - [Quantitative research](../q/quantitative_research.md) and [backtesting](../b/backtesting.md)
 - [Risk management](../r/risk_management.md) and compliance
 - [Market microstructure](../m/market_microstructure.md) analysis
-- Academic research in financial markets
+- Academic research in [financial markets](../f/financial_market.md)
 
-AlgoSeek has positioned itself as a crucial data provider in the [quantitative trading](../q/quantitative_trading.md) and research space. Its focus on delivering high-quality, granular data with a particular emphasis on alternative datasets makes it valuable for firms and individuals looking to gain a competitive edge in algorithmic and [quantitative trading](../q/quantitative_trading.md) strategies. The company's commitment to data quality, customization, and support for advanced quantitative applications sets it apart in the financial data industry.
+AlgoSeek has positioned itself as a crucial data provider in the [quantitative trading](../q/quantitative_trading.md) and research space. Its focus on delivering high-quality, granular data with a particular emphasis on alternative datasets makes it valuable for firms and individuals looking to [gain](../g/gain.md) a competitive edge in algorithmic and [quantitative trading](../q/quantitative_trading.md) strategies. The company's commitment to data quality, customization, and support for advanced quantitative applications sets it apart in the financial data [industry](../i/industry.md).

@@ -1,45 +1,45 @@
 # Asset-Backed Security (ABS)
 
-An asset-backed security (ABS) is a type of financial investment that is collateralized by a pool of assets such as loans, leases, credit card debt, royalties, or receivables. Essentially, ABS allows investors to purchase a share in a diversified pool of assets rather than individual loans or receivables, thereby dispersing risk.
+An [asset](../a/asset.md)-backed [security](../s/security.md) (ABS) is a type of financial investment that is collateralized by a pool of assets such as loans, leases, [credit card](../c/credit_card.md) [debt](../d/debt.md), royalties, or receivables. Essentially, ABS allows investors to purchase a share in a diversified pool of assets rather than individual loans or receivables, thereby dispersing [risk](../r/risk.md).
 
 ## Structure and Components
 
 ### Assets
-The underlying assets in an ABS can be diverse, but they typically fall into a few categories:
+The [underlying](../u/underlying.md) assets in an ABS can be diverse, but they typically fall into a few categories:
 
 - **Auto Loans**: Loans given to consumers to purchase vehicles.
-- **Credit Card Receivables**: Debt owed by credit card holders.
-- **Home Equity Loans**: Loans where the borrows use their home equity as collateral.
+- **[Credit Card](../c/credit_card.md) Receivables**: [Debt](../d/debt.md) owed by [credit card](../c/credit_card.md) holders.
+- **[Home Equity](../h/home_equity.md) Loans**: Loans where the borrows use their [home equity](../h/home_equity.md) as [collateral](../c/collateral.md).
 - **Student Loans**: Loans provided to students to cover educational expenses.
-- **Small Business Loans**: Loans given to small businesses, often SBA guaranteed.
-- **Royalties**: Income from intellectual property or other licensing revenue streams.
+- **Small [Business](../b/business.md) Loans**: Loans given to small businesses, often SBA guaranteed.
+- **Royalties**: [Income](../i/income.md) from intellectual property or other licensing [revenue](../r/revenue.md) streams.
 
 ### Special Purpose Vehicle (SPV)
-An SPV is a separate legal entity created by a company to isolate financial risk. In the context of ABS, the SPV buys the assets from the original lender or originator and structures them into a security. The SPV then issues bonds backed by these assets, distributing different tranches with varying levels of priority and risk.
+An SPV is a separate legal entity created by a company to isolate [financial risk](../f/financial_risk.md). In the context of ABS, the SPV buys the assets from the original [lender](../l/lender.md) or originator and structures them into a [security](../s/security.md). The SPV then issues bonds backed by these assets, distributing different [tranches](../t/tranches.md) with varying levels of priority and [risk](../r/risk.md).
 
 ### Tranches
-ABS are often divided into segments called tranches, each representing a different level of risk and return. The tranches are typically termed as:
+ABS are often divided into segments called [tranches](../t/tranches.md), each representing a different level of [risk](../r/risk.md) and [return](../r/return.md). The [tranches](../t/tranches.md) are typically termed as:
 
-- **Senior Tranches**: These are the least risky and have the highest credit rating.
-- **Mezzanine Tranches**: These offer higher returns than senior tranches but come with higher risk.
-- **Equity Tranches**: These are the riskiest and have the highest potential returns.
+- **Senior [Tranches](../t/tranches.md)**: These are the least risky and have the highest [credit rating](../c/credit_rating.md).
+- **Mezzanine [Tranches](../t/tranches.md)**: These [offer](../o/offer.md) higher returns than senior [tranches](../t/tranches.md) but come with higher [risk](../r/risk.md).
+- **[Equity](../e/equity.md) [Tranches](../t/tranches.md)**: These are the riskiest and have the highest potential returns.
 
 ### Credit Enhancement
-To make ABS more attractive to investors, originators often implement credit enhancement techniques such as:
-- **Overcollateralization**: Involves issuing fewer securities than the value of the underlying assets.
-- **Reserve Funds**: A portion of the asset cash flows is set aside to cover defaults.
-- **Subordination**: Lower tranches absorb losses before higher tranches, providing a cushion for senior tranches.
+To make ABS more attractive to investors, originators often implement [credit](../c/credit.md) enhancement techniques such as:
+- **Overcollateralization**: Involves issuing fewer securities than the [value](../v/value.md) of the [underlying](../u/underlying.md) assets.
+- **Reserve Funds**: A portion of the [asset](../a/asset.md) cash flows is set aside to cover defaults.
+- **Subordination**: Lower [tranches](../t/tranches.md) absorb losses before higher [tranches](../t/tranches.md), providing a cushion for senior [tranches](../t/tranches.md).
 
 ## Process of Securitization
 
 ### Step 1: Asset Pooling
-The originator bundles together a pool of underlying assets. This diversification helps mitigate the risk associated with individual defaults.
+The originator bundles together a pool of [underlying](../u/underlying.md) assets. This [diversification](../d/diversification.md) helps mitigate the [risk](../r/risk.md) associated with individual defaults.
 
 ### Step 2: Transfer to SPV
-The pooled assets are transferred to an SPV. The SPV isolates these assets from the originator's balance sheet, protecting them from the originator's insolvency.
+The pooled assets are transferred to an SPV. The SPV isolates these assets from the originator's [balance sheet](../b/balance_sheet.md), protecting them from the originator's [insolvency](../i/insolvency.md).
 
 ### Step 3: Issuance of Securities
-The SPV issues ABS to investors. These securities entitle investors to a portion of the cash flow generated by the underlying assets.
+The SPV issues ABS to investors. These securities entitle investors to a portion of the [cash flow](../c/cash_flow.md) generated by the [underlying](../u/underlying.md) assets.
 
 ### Step 4: Servicing
 The originator often continues to service the loans—collecting payments, maintaining records, and handling delinquencies—but the cash flows are directed to the SPV, which then distributes payments to investors.
@@ -47,52 +47,52 @@ The originator often continues to service the loans—collecting payments, maint
 ## Benefits of ABS
 
 ### For Originators
-- **Capital Relief**: By selling assets to an SPV, originators can offload liabilities and free up capital for other lending activities.
-- **Risk Management**: Originators can manage and transfer risk associated with the loans to a broader base of investors.
+- **[Capital](../c/capital.md) Relief**: By selling assets to an SPV, originators can offload liabilities and free up [capital](../c/capital.md) for other lending activities.
+- **[Risk Management](../r/risk_management.md)**: Originators can manage and transfer [risk](../r/risk.md) associated with the loans to a broader base of investors.
 
 ### For Investors
-- **Diversification**: Investors gain exposure to a diversified pool of assets, reducing the impact of individual asset defaults.
-- **Regular Cash Flows**: ABS typically provide a steady stream of income from the underlying assets.
-- **Customizable Risk/Return Profile**: Through tranches, investors can choose the level of risk and return that matches their investment strategy.
+- **[Diversification](../d/diversification.md)**: Investors [gain](../g/gain.md) exposure to a diversified pool of assets, reducing the impact of individual [asset](../a/asset.md) defaults.
+- **Regular Cash Flows**: ABS typically provide a steady stream of [income](../i/income.md) from the [underlying](../u/underlying.md) assets.
+- **Customizable [Risk](../r/risk.md)/[Return](../r/return.md) Profile**: Through [tranches](../t/tranches.md), investors can choose the level of [risk](../r/risk.md) and [return](../r/return.md) that matches their [investment strategy](../i/investment_strategy.md).
 
 ## Risks of ABS
 
 ### Credit Risk
-This is the risk that the borrowers of the underlying loans will default. Various forms of credit enhancement are designed to mitigate this risk. 
+This is the [risk](../r/risk.md) that the borrowers of the [underlying](../u/underlying.md) loans [will](../w/will.md) [default](../d/default.md). Various forms of [credit](../c/credit.md) enhancement are designed to mitigate this [risk](../r/risk.md). 
 
 ### Prepayment Risk
-Especially relevant in mortgage-backed securities (a subset of ABS), prepayment occurs when borrowers pay off their loans early, affecting the expected cash flow to investors.
+Especially relevant in [mortgage](../m/mortgage.md)-backed securities (a subset of ABS), [prepayment](../p/prepayment.md) occurs when borrowers pay off their loans early, affecting the expected [cash flow](../c/cash_flow.md) to investors.
 
 ### Interest Rate Risk
-Changes in interest rates can affect the profitability of the ABS. A rise in rates can lead to a decline in the value of the security.
+Changes in [interest](../i/interest.md) rates can affect the profitability of the ABS. A rise in rates can lead to a decline in the [value](../v/value.md) of the [security](../s/security.md).
 
 ### Regulatory Risk
-Changes in regulation can affect the performance and legality of ABS. For instance, regulations post-2008 financial crisis significantly affected the issuance and structure of ABS.
+Changes in regulation can affect the performance and legality of ABS. For instance, regulations post-2008 [financial crisis](../f/financial_crisis.md) significantly affected the issuance and structure of ABS.
 
 ## ABS Market Development and Trends
 
-The ABS market has evolved significantly since its inception in the late 1980s. Initially driven by securitizations of auto loans, credit card receivables, and home equity loans, the asset-backed market today includes a much broader array of asset types.
+The ABS [market](../m/market.md) has evolved significantly since its inception in the late 1980s. Initially driven by securitizations of auto loans, [credit card](../c/credit_card.md) receivables, and [home equity](../h/home_equity.md) loans, the [asset](../a/asset.md)-backed [market](../m/market.md) today includes a much broader array of [asset](../a/asset.md) types.
 
 ### Notable Trends
 
-- **Expansion into Emerging Markets**: While ABS started in developed economies, there's now a growing market in emerging economies.
-- **Digital Transformation**: Technologies like blockchain are being explored to increase transparency and efficiency in ABS transactions.
+- **[Expansion](../e/expansion.md) into Emerging Markets**: While ABS started in developed economies, there's now a growing [market](../m/market.md) in emerging economies.
+- **Digital Transformation**: Technologies like [blockchain](../b/blockchain_in_trading.md) are being explored to increase [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in ABS transactions.
 - **Green ABS**: An emerging segment focusing on environmentally friendly projects, such as renewable energy assets.
 
 ### Key Players in the ABS Market
 
-- **Investment Banks**: Institutions like Goldman Sachs and JP Morgan often serve as underwriters in ABS transactions.
-- **Rating Agencies**: Companies like Moody's, S&P, and Fitch evaluate the credit risk of ABS.
-- **Servicers**: These are often the original lenders, responsible for servicing the underlying loans.
+- **[Investment Banks](../i/investment_bank_(ib).md)**: Institutions like Goldman Sachs and JP Morgan often serve as underwriters in ABS transactions.
+- **[Rating](../r/rating.md) Agencies**: Companies like Moody's, S&P, and Fitch evaluate the [credit risk](../c/credit_risk.md) of ABS.
+- **Servicers**: These are often the original lenders, responsible for servicing the [underlying](../u/underlying.md) loans.
 
 ## Regulations Governing ABS
 
-ABS markets are subject to regulation to ensure transparency and protect investors. Key regulatory frameworks include:
+ABS markets are subject to regulation to ensure [transparency](../t/transparency.md) and protect investors. Key regulatory frameworks include:
 
-- **U.S. Dodd-Frank Act**: Enacted in response to the 2008 financial crisis, it includes provisions to improve accountability and transparency.
-- **Basel III**: A global regulatory framework designed to strengthen bank capital requirements and risk management.
-- **European Market Infrastructure Regulation (EMIR)**: Focuses on increasing the stability of the OTC derivatives market, affecting synthetic ABS.
+- **U.S. Dodd-Frank Act**: Enacted in response to the 2008 [financial crisis](../f/financial_crisis.md), it includes provisions to improve accountability and [transparency](../t/transparency.md).
+- **[Basel III](../b/basel_iii.md)**: A global regulatory framework designed to strengthen [bank capital](../b/bank_capital.md) requirements and [risk management](../r/risk_management.md).
+- **European [Market](../m/market.md) [Infrastructure](../i/infrastructure.md) Regulation (EMIR)**: Focuses on increasing the stability of the OTC [derivatives](../d/derivatives.md) [market](../m/market.md), affecting synthetic ABS.
 
 ## Conclusion
 
-Asset-backed securities offer a means for financial institutions to manage risk and capital, while providing investors with diverse and customizable investment opportunities. Despite the complexity and risks involved, ABS remain a significant component of the global financial system. With ongoing developments in technology and regulation, the market for ABS continues to evolve, presenting new opportunities and challenges for market participants. As always, understanding the structure, risks, and rewards associated with these securities is critical for both issuers and investors.
+[Asset](../a/asset.md)-backed securities [offer](../o/offer.md) a means for financial institutions to manage [risk](../r/risk.md) and [capital](../c/capital.md), while providing investors with diverse and customizable investment opportunities. Despite the complexity and risks involved, ABS remain a significant component of the global [financial system](../f/financial_system.md). With ongoing developments in technology and regulation, the [market](../m/market.md) for ABS continues to evolve, presenting new opportunities and challenges for [market](../m/market.md) participants. As always, understanding the structure, risks, and rewards associated with these securities is critical for both issuers and investors.
