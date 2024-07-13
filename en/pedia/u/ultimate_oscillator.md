@@ -56,7 +56,7 @@ The calculation of the Ultimate [Oscillator](../o/oscillator.md) involves severa
 
 ### Interpretation of the Ultimate Oscillator
 
-The Ultimate [Oscillator](../o/oscillator.md) ranges between 0 and 100, similar to other oscillators like the RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)). It helps traders identify buying or selling pressure in a [security](../s/security.md).
+The Ultimate [Oscillator](../o/oscillator.md) ranges between 0 and 100, similar to other oscillators like the RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)). It helps traders identify buying or selling pressure in a [security](../s/security.md).
 
 - **[Overbought](../o/overbought.md) and [Oversold](../o/oversold.md) Conditions**: Generally, a [value](../v/value.md) above 70 is considered [overbought](../o/overbought.md), and a [value](../v/value.md) below 30 is considered [oversold](../o/oversold.md). These conditions usually indicate a potential [reversal](../r/reversal.md) in the price [trend](../t/trend.md).
 - **Bullish and Bearish Divengences**: [Divergence](../d/divergence.md) occurs when the price of an [asset](../a/asset.md) moves in the opposite direction of the Ultimate [Oscillator](../o/oscillator.md). 

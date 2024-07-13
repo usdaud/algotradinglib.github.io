@@ -50,7 +50,7 @@ One of the primary methods to identify zero-[beta](../b/beta.md) [stocks](../s/s
 
 ### Statistical Tools
 
-Tools such as [regression analysis](../r/regression_analysis.md) and scatter plots help in visualizing and calculating the [beta](../b/beta.md) of a stock. This involves plotting the returns of a stock against the returns of the [benchmark](../b/benchmark.md) [index](../i/index.md) and analyzing the slope of the regression line.
+Tools such as [regression analysis](../r/regression_analysis.md) and scatter plots help in visualizing and calculating the [beta](../b/beta.md) of a stock. This involves plotting the returns of a stock against the returns of the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) and analyzing the slope of the regression line.
 
 ### Screening Software
 

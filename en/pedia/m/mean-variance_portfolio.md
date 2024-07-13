@@ -44,7 +44,7 @@ Mean-variance portfolio theory, introduced by [Harry Markowitz](../h/harry_marko
 
    Where \( R_f \) is the [risk](../r/risk.md)-free rate, \( E(R_m) \) is the [expected return](../e/expected_return.md) of the [market portfolio](../m/market_portfolio.md), and \( \sigma_m \) is the [standard deviation](../s/standard_deviation.md) of the [market](../m/market.md) returns.
 
-6. **[Sharpe Ratio](../s/sharpe_ratio.md)**: An [index](../i/index.md) that measures the [excess return](../e/excess_return.md) per unit of [risk](../r/risk.md) of an investment. It is calculated as:
+6. **[Sharpe Ratio](../s/sharpe_ratio.md)**: An [index](../i/index_instrument.md) that measures the [excess return](../e/excess_return.md) per unit of [risk](../r/risk.md) of an investment. It is calculated as:
 
    \[
    \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{E(R_p) - R_f}{\sigma_p}
@@ -66,7 +66,7 @@ The process of [mean-variance optimization](../m/mean-variance_optimization.md) 
 
 2. **[Risk Management](../r/risk_management.md)**: Mean-[variance analysis](../v/variance_analysis.md) helps investors understand the [trade](../t/trade.md)-off between [risk](../r/risk.md) and [return](../r/return.md), allowing them to make better [risk management](../r/risk_management.md) decisions.
 
-3. **Passive vs. [Active Management](../a/active_management.md)**: MVT has implications in the debate between active and passive [portfolio management](../p/portfolio_management.md). It provides a foundation for the development of [index](../i/index.md) funds and [exchange](../e/exchange.md)-traded funds (ETFs).
+3. **Passive vs. [Active Management](../a/active_management.md)**: MVT has implications in the debate between active and passive [portfolio management](../p/portfolio_management.md). It provides a foundation for the development of [index](../i/index_instrument.md) funds and [exchange](../e/exchange.md)-traded funds (ETFs).
 
 #### Criticisms and Limitations
 

@@ -75,7 +75,7 @@ Combining Gartley patterns across different time frames can enhance the robustne
 
 ### Combining Indicators
 
-Using supplemental [technical indicators](../t/technical_indicator.md) such as Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and others can confirm the validity of the Gartley pattern and improve decision-making.
+Using supplemental [technical indicators](../t/technical_indicator.md) such as Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and others can confirm the validity of the Gartley pattern and improve decision-making.
 
 ### Pattern Confluence
 

@@ -1,12 +1,12 @@
 # Value Added Monthly Index (VAMI)
 
-The [Value Added](../v/value_added.md) Monthly [Index](../i/index.md) (VAMI) is a metric used in the financial and investment [industry](../i/industry.md) to track the performance of a hypothetical $1,000 investment over a specified period. This metric is widely employed by [hedge](../h/hedge.md) funds, mutual funds, [private equity](../p/private_equity.md) firms, and other investment vehicles to provide investors with a clear, graphical representation of the [fund](../f/fund.md)'s or investment's historical performance.
+The [Value Added](../v/value_added.md) Monthly [Index](../i/index_instrument.md) (VAMI) is a metric used in the financial and investment [industry](../i/industry.md) to track the performance of a hypothetical $1,000 investment over a specified period. This metric is widely employed by [hedge](../h/hedge.md) funds, mutual funds, [private equity](../p/private_equity.md) firms, and other investment vehicles to provide investors with a clear, graphical representation of the [fund](../f/fund.md)'s or investment's historical performance.
 
 ## Understanding VAMI
 
 ### Definition
 
-VAMI stands for [Value Added](../v/value_added.md) Monthly [Index](../i/index.md), and it effectively showcases the cumulative [return](../r/return.md) of an initial investment over time after [accounting](../a/accounting.md) for monthly profits and losses. It starts with an initial [value](../v/value.md) of a specific investment amount, typically $1,000, and adjusts this [value](../v/value.md) based on the monthly returns of the investment.
+VAMI stands for [Value Added](../v/value_added.md) Monthly [Index](../i/index_instrument.md), and it effectively showcases the cumulative [return](../r/return.md) of an initial investment over time after [accounting](../a/accounting.md) for monthly profits and losses. It starts with an initial [value](../v/value.md) of a specific investment amount, typically $1,000, and adjusts this [value](../v/value.md) based on the monthly returns of the investment.
 
 ### Calculation
 
@@ -119,4 +119,4 @@ Financial data providers, such as [Bloomberg](../b/bloomberg.md) and [Morningsta
 
 ## Conclusion
 
-The [Value Added](../v/value_added.md) Monthly [Index](../i/index.md) (VAMI) is a crucial metric for investors, [fund](../f/fund.md) managers, and analysts in the financial [industry](../i/industry.md). It provides a straightforward and transparent means to track the performance of an investment over time, calculate cumulative returns, and compare different funds or strategies. By understanding and utilizing VAMI, stakeholders can make more informed decisions and better interpret investment results.
+The [Value Added](../v/value_added.md) Monthly [Index](../i/index_instrument.md) (VAMI) is a crucial metric for investors, [fund](../f/fund.md) managers, and analysts in the financial [industry](../i/industry.md). It provides a straightforward and transparent means to track the performance of an investment over time, calculate cumulative returns, and compare different funds or strategies. By understanding and utilizing VAMI, stakeholders can make more informed decisions and better interpret investment results.

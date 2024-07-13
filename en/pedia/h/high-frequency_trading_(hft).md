@@ -42,7 +42,7 @@ HFT algorithms act as [market](../m/market.md) makers by providing [liquidity](.
 ### 3.2 Arbitrage
 
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Exploiting price differentials between correlated instruments using statistical models.
-- **[Index](../i/index.md) [Arbitrage](../a/arbitrage.md)**: Trading [index futures](../i/index_futures.md) and the [underlying](../u/underlying.md) stock components to [profit](../p/profit.md) from small pricing discrepancies.
+- **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md)**: Trading [index futures](../i/index_futures.md) and the [underlying](../u/underlying.md) stock components to [profit](../p/profit.md) from small pricing discrepancies.
 - **Cross-[Asset](../a/asset.md) [Arbitrage](../a/arbitrage.md)**: Taking advantage of price differences between various [asset](../a/asset.md) classes (e.g., [equity](../e/equity.md) and [debt](../d/debt.md)).
 
 ### 3.3 Momentum Ignition

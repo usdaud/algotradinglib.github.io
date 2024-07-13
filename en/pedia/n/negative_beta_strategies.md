@@ -32,7 +32,7 @@ A critical approach in [hedge](../h/hedge.md) funds where managers play on both 
 
 ### 3. Leveraging Inverse and Beta-Specific ETFs
 
-[Exchange](../e/exchange.md)-Traded Funds (ETFs) [offer](../o/offer.md) a practical way for traders to employ negative [beta](../b/beta.md) strategies. [Inverse ETFs](../i/inverse_etfs.md) are designed to move in the opposite direction of the [underlying](../u/underlying.md) [index](../i/index.md), thus providing negative [beta](../b/beta.md) exposure. Similarly, [beta](../b/beta.md)-specific ETFs can be used strategically within a portfolio to manage [beta](../b/beta.md) exposure actively.
+[Exchange](../e/exchange.md)-Traded Funds (ETFs) [offer](../o/offer.md) a practical way for traders to employ negative [beta](../b/beta.md) strategies. [Inverse ETFs](../i/inverse_etfs.md) are designed to move in the opposite direction of the [underlying](../u/underlying.md) [index](../i/index_instrument.md), thus providing negative [beta](../b/beta.md) exposure. Similarly, [beta](../b/beta.md)-specific ETFs can be used strategically within a portfolio to manage [beta](../b/beta.md) exposure actively.
 
 ### 4. Algorithmic Trading Models
 

@@ -8,11 +8,11 @@ A 2/28 ARM typically consists of two distinct phases:
 
 1. **Initial Fixed-Rate Period (2 years):** For the first two years of the [loan](../l/loan.md), the [interest rate](../i/interest_rate.md) is fixed. This means that the monthly payments remain constant regardless of changes in broader [interest](../i/interest.md) rates.
 
-2. **Adjustable-Rate Period (28 years):** Following the initial fixed period, the [loan](../l/loan.md) transitions into an adjustable-rate [mortgage](../m/mortgage.md) for the remaining 28 years. During this phase, the [interest rate](../i/interest_rate.md) can change periodically based on the terms specified in the [mortgage](../m/mortgage.md) agreement, usually aligning with a [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) [index](../i/index.md) plus a [margin](../m/margin.md).
+2. **Adjustable-Rate Period (28 years):** Following the initial fixed period, the [loan](../l/loan.md) transitions into an adjustable-rate [mortgage](../m/mortgage.md) for the remaining 28 years. During this phase, the [interest rate](../i/interest_rate.md) can change periodically based on the terms specified in the [mortgage](../m/mortgage.md) agreement, usually aligning with a [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) [index](../i/index_instrument.md) plus a [margin](../m/margin.md).
 
 ### Benchmark Index and Margin
 
-The adjustable-rate portion of the [mortgage](../m/mortgage.md) is typically indexed to a financial [benchmark](../b/benchmark.md), such as the London Interbank Offered Rate (LIBOR) or the 11th District Cost of Funds [Index](../i/index.md) (COFI). The specific rate the borrower pays is calculated as the [benchmark](../b/benchmark.md) rate plus a [margin](../m/margin.md). For example, if the agreed [margin](../m/margin.md) is 2% and the [benchmark](../b/benchmark.md) rate is currently at 3%, the borrower's new [interest rate](../i/interest_rate.md) for that period would be 5%.
+The adjustable-rate portion of the [mortgage](../m/mortgage.md) is typically indexed to a financial [benchmark](../b/benchmark.md), such as the London Interbank Offered Rate (LIBOR) or the 11th District Cost of Funds [Index](../i/index_instrument.md) (COFI). The specific rate the borrower pays is calculated as the [benchmark](../b/benchmark.md) rate plus a [margin](../m/margin.md). For example, if the agreed [margin](../m/margin.md) is 2% and the [benchmark](../b/benchmark.md) rate is currently at 3%, the borrower's new [interest rate](../i/interest_rate.md) for that period would be 5%.
 
 ## Mechanics of the Adjustment
 
@@ -20,11 +20,11 @@ The [interest rate](../i/interest_rate.md) adjustments usually occur annually, a
 
 ### Periodic Cap
 
-A periodic cap limits the amount the [interest rate](../i/interest_rate.md) can increase from one adjustment period to the next. For instance, if an ARM has a 2% periodic cap, and the current rate is 5%, the new rate cannot exceed 7% even if the [benchmark](../b/benchmark.md) [index](../i/index.md) rises sharply.
+A periodic cap limits the amount the [interest rate](../i/interest_rate.md) can increase from one adjustment period to the next. For instance, if an ARM has a 2% periodic cap, and the current rate is 5%, the new rate cannot exceed 7% even if the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) rises sharply.
 
 ### Lifetime Cap
 
-A lifetime cap limits the total increase over the life of the [loan](../l/loan.md). If a [loan](../l/loan.md) has a 5% lifetime cap starting from an initial rate of 4%, the [interest rate](../i/interest_rate.md) can never exceed 9%, regardless of how high the [benchmark](../b/benchmark.md) [index](../i/index.md) moves.
+A lifetime cap limits the total increase over the life of the [loan](../l/loan.md). If a [loan](../l/loan.md) has a 5% lifetime cap starting from an initial rate of 4%, the [interest rate](../i/interest_rate.md) can never exceed 9%, regardless of how high the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) moves.
 
 ## Benefits of a 2/28 ARM
 
@@ -81,4 +81,4 @@ The suitability of a 2/28 ARM depends largely on an individual’s financial sit
 
 ## Conclusion
 
-A 2/28 ARM can be a viable option for certain borrowers, particularly those who have clear, short-term plans for their homeownership or strong expectations of [income](../i/income.md) growth and refinancing opportunities. The lower initial [interest](../i/interest.md) rates make the [loan](../l/loan.md) more affordable in the short term, but the transition to adjustable rates introduces potential for significant [payment](../p/payment.md) increases. Therefore, it is crucial for borrowers to carefully assess their financial situation, future plans, and [risk tolerance](../r/risk_tolerance.md) before committing to a 2/28 ARM. Understanding the mechanics of the [loan](../l/loan.md), including the terms of adjustments, caps, and the [benchmark](../b/benchmark.md) [index](../i/index.md), is key to making an informed decision.
+A 2/28 ARM can be a viable option for certain borrowers, particularly those who have clear, short-term plans for their homeownership or strong expectations of [income](../i/income.md) growth and refinancing opportunities. The lower initial [interest](../i/interest.md) rates make the [loan](../l/loan.md) more affordable in the short term, but the transition to adjustable rates introduces potential for significant [payment](../p/payment.md) increases. Therefore, it is crucial for borrowers to carefully assess their financial situation, future plans, and [risk tolerance](../r/risk_tolerance.md) before committing to a 2/28 ARM. Understanding the mechanics of the [loan](../l/loan.md), including the terms of adjustments, caps, and the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), is key to making an informed decision.

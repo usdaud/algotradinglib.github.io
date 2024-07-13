@@ -99,7 +99,7 @@ Developed by Richard Dennis and William Eckhardt, this system employs [breakout]
 
 ## ADX + DI Strategy
 
-This strategy utilizes the [Average Directional Index](../a/average_directional_index_(adx).md) in combination with the Directional Movement [Index](../i/index.md) (DMI) to identify and [trade](../t/trade.md) based on the [trend](../t/trend.md)'s strength and direction.
+This strategy utilizes the [Average Directional Index](../a/average_directional_index_(adx).md) in combination with the Directional Movement [Index](../i/index_instrument.md) (DMI) to identify and [trade](../t/trade.md) based on the [trend](../t/trend.md)'s strength and direction.
 
 ### Trading Signals
 

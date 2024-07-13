@@ -52,7 +52,7 @@ Data analysis is critical in implementing relative [value](../v/value.md) strate
 
 ### Equity Markets
 
-In [equity](../e/equity.md) markets, relative [value](../v/value.md) strategies can involve [pairs trading](../p/pairs_trading.md), sector [arbitrage](../a/arbitrage.md), and [dispersion](../d/dispersion.md) trading. [Pairs trading](../p/pairs_trading.md), as mentioned earlier, involves taking long and short positions in two correlated [stocks](../s/stock.md). Sector [arbitrage](../a/arbitrage.md) focuses on exploiting price discrepancies within a sector, while [dispersion](../d/dispersion.md) trading involves taking positions based on the differences in [volatility](../v/volatility.md) among [stocks](../s/stock.md) in an [index](../i/index.md).
+In [equity](../e/equity.md) markets, relative [value](../v/value.md) strategies can involve [pairs trading](../p/pairs_trading.md), sector [arbitrage](../a/arbitrage.md), and [dispersion](../d/dispersion.md) trading. [Pairs trading](../p/pairs_trading.md), as mentioned earlier, involves taking long and short positions in two correlated [stocks](../s/stock.md). Sector [arbitrage](../a/arbitrage.md) focuses on exploiting price discrepancies within a sector, while [dispersion](../d/dispersion.md) trading involves taking positions based on the differences in [volatility](../v/volatility.md) among [stocks](../s/stock.md) in an [index](../i/index_instrument.md).
 
 ### Fixed Income
 

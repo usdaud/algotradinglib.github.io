@@ -34,7 +34,7 @@ Some investment funds specialize in [tail risk](../t/tail_risk.md) hedging by ac
 
 ### Volatility Swaps and VIX Futures
 
-[Volatility](../v/volatility.md) swaps and VIX ([Volatility](../v/volatility.md) [Index](../i/index.md)) [futures](../f/futures.md) are [derivatives](../d/derivatives.md) that allow investors to [trade](../t/trade.md) future [volatility](../v/volatility.md) expectations.
+[Volatility](../v/volatility.md) swaps and VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md)) [futures](../f/futures.md) are [derivatives](../d/derivatives.md) that allow investors to [trade](../t/trade.md) future [volatility](../v/volatility.md) expectations.
 
 #### Volatility Swaps
 
@@ -43,7 +43,7 @@ Some investment funds specialize in [tail risk](../t/tail_risk.md) hedging by ac
 
 #### VIX Futures
 
-- **Mechanism**: VIX [futures](../f/futures.md) are based on the VIX [index](../i/index.md), which measures the [market](../m/market.md)'s expectation of 30-day forward-looking [volatility](../v/volatility.md) derived from S&P 500 [index options](../i/index_options.md).
+- **Mechanism**: VIX [futures](../f/futures.md) are based on the VIX [index](../i/index_instrument.md), which measures the [market](../m/market.md)'s expectation of 30-day forward-looking [volatility](../v/volatility.md) derived from S&P 500 [index options](../i/index_options.md).
 - **Benefit**: VIX [futures](../f/futures.md) typically spike during [market](../m/market.md) downturns, [offering](../o/offering.md) a [hedge](../h/hedge.md) against extreme [market](../m/market.md) movements.
 
 ### Credit Default Swaps (CDS)

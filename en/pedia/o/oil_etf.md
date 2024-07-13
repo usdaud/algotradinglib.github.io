@@ -4,7 +4,7 @@ An Oil [Exchange](../e/exchange.md)-Traded [Fund](../f/fund.md) (ETF) is a type 
 
 ## What is an Oil ETF?
 
-An Oil ETF is an [investment vehicle](../i/investment_vehicle.md) that pools [money](../m/money.md) from [multiple](../m/multiple.md) investors to purchase oil assets. The objective is to mimic the [return](../r/return.md) of a particular oil-related [index](../i/index.md) or the price movements of [crude oil](../c/crude_oil.md). These ETFs [trade](../t/trade.md) on stock exchanges just like any regular stock, providing individual investors an easy avenue to [gain](../g/gain.md) exposure to the oil [market](../m/market.md).
+An Oil ETF is an [investment vehicle](../i/investment_vehicle.md) that pools [money](../m/money.md) from [multiple](../m/multiple.md) investors to purchase oil assets. The objective is to mimic the [return](../r/return.md) of a particular oil-related [index](../i/index_instrument.md) or the price movements of [crude oil](../c/crude_oil.md). These ETFs [trade](../t/trade.md) on stock exchanges just like any regular stock, providing individual investors an easy avenue to [gain](../g/gain.md) exposure to the oil [market](../m/market.md).
 
 ## Types of Oil ETFs
 
@@ -24,7 +24,7 @@ Equities-Based Oil ETFs invest in [stocks](../s/stock.md) of companies involved 
 
 ### Leveraged and Inverse Oil ETFs
 
-Leveraged Oil ETFs seek to deliver [multiple](../m/multiple.md) times the [return](../r/return.md) of the [underlying](../u/underlying.md) oil price or [index](../i/index.md). Inverse Oil ETFs aim to provide the opposite [return](../r/return.md). These types of ETFs are primarily used by traders looking to [capitalize](../c/capitalize.md) on short-term movements and are not suitable for long-term investment due to high [volatility](../v/volatility.md) and decay factors. Examples include ProShares Ultra [Bloomberg](../b/bloomberg.md) [Crude Oil](../c/crude_oil.md) (UCO) and ProShares UltraShort [Bloomberg](../b/bloomberg.md) [Crude Oil](../c/crude_oil.md) (SCO).
+Leveraged Oil ETFs seek to deliver [multiple](../m/multiple.md) times the [return](../r/return.md) of the [underlying](../u/underlying.md) oil price or [index](../i/index_instrument.md). Inverse Oil ETFs aim to provide the opposite [return](../r/return.md). These types of ETFs are primarily used by traders looking to [capitalize](../c/capitalize.md) on short-term movements and are not suitable for long-term investment due to high [volatility](../v/volatility.md) and decay factors. Examples include ProShares Ultra [Bloomberg](../b/bloomberg.md) [Crude Oil](../c/crude_oil.md) (UCO) and ProShares UltraShort [Bloomberg](../b/bloomberg.md) [Crude Oil](../c/crude_oil.md) (SCO).
 
 ## How to Invest in Oil ETFs
 
@@ -64,7 +64,7 @@ Oil [futures](../f/futures.md) ETFs are susceptible to [contango](../c/contango.
 
 ### Tracking Error
 
-ETFs may not perfectly track their [underlying](../u/underlying.md) [index](../i/index.md) or [commodity](../c/commodity.md) due to management fees, [transaction costs](../t/transaction_costs.md), and other factors, resulting in tracking errors.
+ETFs may not perfectly track their [underlying](../u/underlying.md) [index](../i/index_instrument.md) or [commodity](../c/commodity.md) due to management fees, [transaction costs](../t/transaction_costs.md), and other factors, resulting in tracking errors.
 
 ### Leverage Risks
 
@@ -86,13 +86,13 @@ More information can be found on their [official website](https://www.ssga.com/u
 
 ### ProShares Ultra Bloomberg Crude Oil (UCO)
 
-UCO seeks to provide daily returns that correspond to twice the daily performance of the [Bloomberg](../b/bloomberg.md) [Commodity](../c/commodity.md) Balanced WTI [Crude Oil](../c/crude_oil.md) [Index](../i/index.md). It’s a [leveraged ETF](../l/leveraged_etf.md) and is more suitable for [short-term trading](../s/short-term_trading.md).
+UCO seeks to provide daily returns that correspond to twice the daily performance of the [Bloomberg](../b/bloomberg.md) [Commodity](../c/commodity.md) Balanced WTI [Crude Oil](../c/crude_oil.md) [Index](../i/index_instrument.md). It’s a [leveraged ETF](../l/leveraged_etf.md) and is more suitable for [short-term trading](../s/short-term_trading.md).
 
 More information can be found on their [official website](https://www.proshares.com/etf/uco).
 
 ### Invesco DB Oil Fund (DBO)
 
-DBO tracks the DBIQ Optimum [Yield](../y/yield.md) [Crude Oil](../c/crude_oil.md) [Index](../i/index.md) [Excess Return](../e/excess_return.md)™, which is composed of [futures contracts](../f/futures_contracts.md) on light sweet [crude oil](../c/crude_oil.md) (WTI). It aims to provide exposure to [crude oil](../c/crude_oil.md) while minimizing the negative impact of [contango](../c/contango.md) conditions.
+DBO tracks the DBIQ Optimum [Yield](../y/yield.md) [Crude Oil](../c/crude_oil.md) [Index](../i/index_instrument.md) [Excess Return](../e/excess_return.md)™, which is composed of [futures contracts](../f/futures_contracts.md) on light sweet [crude oil](../c/crude_oil.md) (WTI). It aims to provide exposure to [crude oil](../c/crude_oil.md) while minimizing the negative impact of [contango](../c/contango.md) conditions.
 
 More information can be found on their [official website](https://www.invesco.com/portal/site/us/etfs/).
 

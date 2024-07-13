@@ -10,7 +10,7 @@ Bear traps are deceptive patterns in the [market](../m/market.md) designed to tr
 
 Key characteristics of bear traps include:
 1. **Temporary Breaks in [Support Levels](../s/support_levels.md)**: The price momentarily breaks below a key support level, giving the illusion of a continued downturn.
-2. **[False Signals](../f/false_signals_in_trading.md)**: Traditional [technical indicators](../t/technical_indicator.md) like moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and MACD might generate sell signals during a bear trap.
+2. **[False Signals](../f/false_signals_in_trading.md)**: Traditional [technical indicators](../t/technical_indicator.md) like moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and MACD might generate sell signals during a bear trap.
 3. **[Volume Analysis](../v/volume_analysis.md)**: Typically, the [volume](../v/volume.md) might spike during the initial break, followed by a [reversal](../r/reversal.md), indicating that bears got trapped.
 
 ## Identifying Bear Traps

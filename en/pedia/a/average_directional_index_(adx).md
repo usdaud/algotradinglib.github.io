@@ -1,13 +1,13 @@
 # Average Directional Index
 
-The Average Directional [Index](../i/index.md) (ADX) is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) developed by J. Welles Wilder Jr. in 1978. It is used to quantify the strength of a [trend](../t/trend.md) in a financial [market](../m/market.md), whether the [trend](../t/trend.md) is upward or downward. The ADX is part of the Directional Movement System and is typically plotted as a single line, which helps traders to distinguish between strong and weak trends.
+The Average Directional [Index](../i/index_instrument.md) (ADX) is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) developed by J. Welles Wilder Jr. in 1978. It is used to quantify the strength of a [trend](../t/trend.md) in a financial [market](../m/market.md), whether the [trend](../t/trend.md) is upward or downward. The ADX is part of the Directional Movement System and is typically plotted as a single line, which helps traders to distinguish between strong and weak trends.
 
 ## Components of ADX
 
 The ADX is calculated using the Moving Average of price [range](../r/range.md) [expansion](../e/expansion.md). The system it belongs to also involves two other indicators:
 
-1. **Positive Directional [Index](../i/index.md) (+DI)**: Measures the presence and strength of upward movement in the [market](../m/market.md).
-2. **Negative Directional [Index](../i/index.md) (-DI)**: Measures the presence and strength of downward movement in the [market](../m/market.md).
+1. **Positive Directional [Index](../i/index_instrument.md) (+DI)**: Measures the presence and strength of upward movement in the [market](../m/market.md).
+2. **Negative Directional [Index](../i/index_instrument.md) (-DI)**: Measures the presence and strength of downward movement in the [market](../m/market.md).
 
 When combined, the ADX, +DI, and -DI provide a comprehensive view of [market](../m/market.md) trends and their strengths.
 
@@ -26,7 +26,7 @@ When combined, the ADX, +DI, and -DI provide a comprehensive view of [market](..
 
 4. **Calculate the +DI and -DI** by dividing the smoothed +DM and -DM by the smoothed TR.
 
-5. **Calculate the Directional Movement [Index](../i/index.md) (DX)**:
+5. **Calculate the Directional Movement [Index](../i/index_instrument.md) (DX)**:
     - DX = ABS(+DI - -DI) / (+DI + -DI) * 100
 
 6. **Calculate the ADX** by smoothing the DX values, usually with a 14-bar Moving Average.
@@ -119,4 +119,4 @@ Each of these platforms provides customization features allowing traders to twea
 
 **[TradingView](../t/tradingview.md)**: [TradingView](https://www.tradingview.com/)
 
-In conclusion, the Average Directional [Index](../i/index.md) (ADX) is an essential tool in the arsenal of both manual and algorithmic traders. It provides a quantitative measure of [trend](../t/trend.md) strength, helping traders make informed decisions on [market](../m/market.md) entry and exit points. While it has its limitations, when used correctly, the ADX can significantly enhance the effectiveness of a [trading strategy](../t/trading_strategy.md).
+In conclusion, the Average Directional [Index](../i/index_instrument.md) (ADX) is an essential tool in the arsenal of both manual and algorithmic traders. It provides a quantitative measure of [trend](../t/trend.md) strength, helping traders make informed decisions on [market](../m/market.md) entry and exit points. While it has its limitations, when used correctly, the ADX can significantly enhance the effectiveness of a [trading strategy](../t/trading_strategy.md).

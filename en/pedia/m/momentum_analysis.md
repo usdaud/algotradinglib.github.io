@@ -17,7 +17,7 @@ Key Indicators and Measures
 
 [Momentum](../m/momentum.md) analysis relies on various indicators and [mathematical models](../m/mathematical_models_in_trading.md) to quantify a [security](../s/security.md)'s [momentum](../m/momentum.md). Some of the most frequently used indicators include:
 
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**:
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**:
    The RSI measures the speed and change of price movements. It compares the magnitude of recent gains to recent losses to determine [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. A stock is typically considered [overbought](../o/overbought.md) when RSI exceeds 70 and [oversold](../o/oversold.md) when it falls below 30.
 
 2. **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**:

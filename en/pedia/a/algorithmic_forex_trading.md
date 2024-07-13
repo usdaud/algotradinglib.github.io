@@ -27,7 +27,7 @@ These strategies aim to [capitalize](../c/capitalize.md) on the [market](../m/ma
 
 **Examples:**
 - Moving Average Crossover
-- [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)
+- [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
 
 ### Arbitrage Strategies
 

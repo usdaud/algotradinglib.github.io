@@ -1,6 +1,6 @@
 # Equal Weight
 
-In the world of [investing](../i/investing.md) and [finance](../f/finance.md), "equal weight" refers to a specific type of [investment strategy](../i/investment_strategy.md) or portfolio construction. An equal weight strategy entails assigning the same weight or [value](../v/value.md) to each [asset](../a/asset.md) within a portfolio or an [index](../i/index.md). This approach stands in contrast to other strategies where assets are [weighted](../w/weighted.md) based on certain criteria, such as [market capitalization](../m/market_capitalization.md), [earnings](../e/earnings.md), or other financial metrics. The equal weight strategy has gained prominence due to its simplicity and the unique advantages it offers to investors. Below, we delve deeper into the mechanisms, benefits, drawbacks, and practical applications of the equal weight strategy.
+In the world of [investing](../i/investing.md) and [finance](../f/finance.md), "equal weight" refers to a specific type of [investment strategy](../i/investment_strategy.md) or portfolio construction. An equal weight strategy entails assigning the same weight or [value](../v/value.md) to each [asset](../a/asset.md) within a portfolio or an [index](../i/index_instrument.md). This approach stands in contrast to other strategies where assets are [weighted](../w/weighted.md) based on certain criteria, such as [market capitalization](../m/market_capitalization.md), [earnings](../e/earnings.md), or other financial metrics. The equal weight strategy has gained prominence due to its simplicity and the unique advantages it offers to investors. Below, we delve deeper into the mechanisms, benefits, drawbacks, and practical applications of the equal weight strategy.
 
 ## Mechanisms of Equal Weight Strategy
 
@@ -14,7 +14,7 @@ At its core, the equal weight strategy is straightforward. Here’s how it works
 
 ### Example Scenario
 
-Consider an equal weight [index](../i/index.md) comprised of 5 [stocks](../s/stock.md): A, B, C, D, and E. At the start, each stock contributes 20% of the total investment:
+Consider an equal weight [index](../i/index_instrument.md) comprised of 5 [stocks](../s/stock.md): A, B, C, D, and E. At the start, each stock contributes 20% of the total investment:
 
 - A: 20%
 - B: 20%
@@ -74,12 +74,12 @@ The necessity of periodic [rebalancing](../r/rebalancing.md) demands continuous 
 
 ### Equal Weight Index Funds and ETFs
 
-Several financial products are designed to mimic the equal weight strategy. Equal weight [index](../i/index.md) funds and ETFs provide investors with a convenient way to [gain](../g/gain.md) exposure to this strategy without having to manage it themselves. Some notable examples include:
+Several financial products are designed to mimic the equal weight strategy. Equal weight [index](../i/index_instrument.md) funds and ETFs provide investors with a convenient way to [gain](../g/gain.md) exposure to this strategy without having to manage it themselves. Some notable examples include:
 
-- **Invesco S&P 500® Equal Weight ETF (RSP):** This ETF aims to [offer](../o/offer.md) the performance of the S&P 500 Equal Weight [Index](../i/index.md), providing equal exposure to S&P 500 constituents.
+- **Invesco S&P 500® Equal Weight ETF (RSP):** This ETF aims to [offer](../o/offer.md) the performance of the S&P 500 Equal Weight [Index](../i/index_instrument.md), providing equal exposure to S&P 500 constituents.
   - [Invesco S&P 500® Equal Weight ETF (RSP) - Invesco](https://www.invesco.com/us/financial-products/etfs/holdings?productId=RSP)
   
-- **Guggenheim S&P 500® Equal Weight ETF (EWRI):** Similar to Invesco's RSP, this ETF targets an equal weight replication of the S&P 500 [Index](../i/index.md).
+- **Guggenheim S&P 500® Equal Weight ETF (EWRI):** Similar to Invesco's RSP, this ETF targets an equal weight replication of the S&P 500 [Index](../i/index_instrument.md).
   - [Guggenheim S&P 500® Equal Weight ETF (EWRI) - Guggenheim Investments](https://www.guggenheiminvestments.com/products/etf/EWRI)
 
 ### Asset Allocation and Portfolio Management
@@ -94,7 +94,7 @@ Equal weight strategies are often employed in retirement accounts like IRAs and 
 
 ### Sector Equal Weighting
 
-Instead of applying equal weights to individual [stocks](../s/stock.md), some strategies use equal weighting across sectors. For example, an [index](../i/index.md) might assign equal weights to the technology, healthcare, financial, and energy sectors. This can balance sector-specific risks and opportunities within a portfolio.
+Instead of applying equal weights to individual [stocks](../s/stock.md), some strategies use equal weighting across sectors. For example, an [index](../i/index_instrument.md) might assign equal weights to the technology, healthcare, financial, and energy sectors. This can balance sector-specific risks and opportunities within a portfolio.
 
 ### International Equal Weighting
 
@@ -106,4 +106,4 @@ Equal weight is sometimes categorized as a form of "[smart beta](../s/smart_beta
 
 ## Conclusion
 
-Equal weight investment is a compelling strategy for individuals seeking [diversification](../d/diversification.md), balanced [risk](../r/risk.md), and potentially higher returns. While it does come with certain drawbacks, such as higher [trading costs](../t/trading_costs.md) and [tracking error](../t/tracking_error.md), its simplicity and effectiveness make it a viable option for many investors. Whether through [direct investment](../d/direct_investment.md), [index](../i/index.md) funds, or ETFs, equal weight strategies provide a structured yet straightforward approach to navigating the complexities of the [financial markets](../f/financial_market.md). By understanding and carefully implementing this strategy, investors can achieve a harmonious balance that aligns with their broader financial goals.
+Equal weight investment is a compelling strategy for individuals seeking [diversification](../d/diversification.md), balanced [risk](../r/risk.md), and potentially higher returns. While it does come with certain drawbacks, such as higher [trading costs](../t/trading_costs.md) and [tracking error](../t/tracking_error.md), its simplicity and effectiveness make it a viable option for many investors. Whether through [direct investment](../d/direct_investment.md), [index](../i/index_instrument.md) funds, or ETFs, equal weight strategies provide a structured yet straightforward approach to navigating the complexities of the [financial markets](../f/financial_market.md). By understanding and carefully implementing this strategy, investors can achieve a harmonious balance that aligns with their broader financial goals.

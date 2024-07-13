@@ -36,10 +36,10 @@ Micro cap [stocks](../s/stock.md) can be more sensitive to changes in the broade
 ## Popular Micro Cap Indices
 
 ### Russell Microcap Index
-The Russell Microcap [Index](../i/index.md) is a [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md) that measures the performance of the smallest 1,000 companies in the [Russell 2000 Index](../r/russell_2000_index.md), plus the next 1,000 smallest eligible companies by [market capitalization](../m/market_capitalization.md) in the [Russell 3000 Index](../r/russell_3000_index.md). The [index](../i/index.md) serves as a [benchmark](../b/benchmark.md) for micro cap [stocks](../s/stock.md) and provides insights into the performance of this segment of the [market](../m/market.md).
+The Russell Microcap [Index](../i/index_instrument.md) is a [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md) that measures the performance of the smallest 1,000 companies in the [Russell 2000 Index](../r/russell_2000_index.md), plus the next 1,000 smallest eligible companies by [market capitalization](../m/market_capitalization.md) in the [Russell 3000 Index](../r/russell_3000_index.md). The [index](../i/index_instrument.md) serves as a [benchmark](../b/benchmark.md) for micro cap [stocks](../s/stock.md) and provides insights into the performance of this segment of the [market](../m/market.md).
 
 ### S&P MicroCap 600 Index
-The S&P MicroCap 600 [Index](../i/index.md) is another widely used [benchmark](../b/benchmark.md) for micro cap [stocks](../s/stock.md). It includes 600 companies, selected based on [market](../m/market.md) cap, [liquidity](../l/liquidity.md), and financial viability. The [index](../i/index.md) aims to provide a comprehensive representation of the micro cap universe in the U.S. [equity market](../e/equity_market.md).
+The S&P MicroCap 600 [Index](../i/index_instrument.md) is another widely used [benchmark](../b/benchmark.md) for micro cap [stocks](../s/stock.md). It includes 600 companies, selected based on [market](../m/market.md) cap, [liquidity](../l/liquidity.md), and financial viability. The [index](../i/index_instrument.md) aims to provide a comprehensive representation of the micro cap universe in the U.S. [equity market](../e/equity_market.md).
 
 ## Prominent Examples of Micro Cap Companies
 

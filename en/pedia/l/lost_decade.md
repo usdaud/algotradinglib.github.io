@@ -10,7 +10,7 @@ Japan’s Lost Decade began in the early 1990s and extended well into the 2000s.
 
 #### Asset Bubble and Burst
 
-During the late 1980s, Japan experienced a dramatic rise in [asset](../a/asset.md) prices. The [Nikkei](../n/nikkei.md) stock [index](../i/index.md) quintupled, and [real estate](../r/real_estate.md) prices in Tokyo soared to an unsustainable level. This [asset](../a/asset.md) bubble was fuelled by:
+During the late 1980s, Japan experienced a dramatic rise in [asset](../a/asset.md) prices. The [Nikkei](../n/nikkei.md) stock [index](../i/index_instrument.md) quintupled, and [real estate](../r/real_estate.md) prices in Tokyo soared to an unsustainable level. This [asset](../a/asset.md) bubble was fuelled by:
 
 1. **Loose [Monetary Policy](../m/monetary_policy.md):** The [Bank](../b/bank.md) of Japan (BoJ) maintained low-[interest](../i/interest.md) rates, which led to an increase in borrowing and speculative investments.
 2. **Overconfidence:** Companies and investors believed Japan’s [economic growth](../e/economic_growth.md) would continue indefinitely, leading to reckless lending and investment.

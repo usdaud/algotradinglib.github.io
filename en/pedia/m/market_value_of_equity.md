@@ -37,7 +37,7 @@ Generally, companies with larger [market](../m/market.md) caps are considered to
 
 ### 3. **Index Composition**
 
-Many [stock market](../s/stock_market.md) indices, such as the S&P 500, are [weighted](../w/weighted.md) by [market](../m/market.md) cap, meaning the larger the company, the bigger the impact it has on the [index](../i/index.md)'s performance.
+Many [stock market](../s/stock_market.md) indices, such as the S&P 500, are [weighted](../w/weighted.md) by [market](../m/market.md) cap, meaning the larger the company, the bigger the impact it has on the [index](../i/index_instrument.md)'s performance.
 
 ### 4. **Corporate Actions and Valuation**
 

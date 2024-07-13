@@ -26,7 +26,7 @@ Several key indicators are used to identify and analyze different phases of econ
 
 - **[Inflation](../i/inflation.md) Rate**: The rate at which the general level of prices for goods and services is rising. Moderate [inflation](../i/inflation.md) is typical during [expansion](../e/expansion.md) phases, while very high or negative [inflation](../i/inflation.md) ([deflation](../d/deflation.md)) can indicate severe economic issues.
 
-- **Consumer Confidence [Index](../i/index.md)**: A measure of how optimistic consumers are about the [economy](../e/economy.md)'s future. High confidence levels usually precede higher spending and investment.
+- **Consumer Confidence [Index](../i/index_instrument.md)**: A measure of how optimistic consumers are about the [economy](../e/economy.md)'s future. High confidence levels usually precede higher spending and investment.
 
 - **[Interest](../i/interest.md) Rates**: Controlled by a country’s central [bank](../b/bank.md), they influence [economic growth](../e/economic_growth.md). Lower rates typically boost borrowing and spending, while higher rates may cool off an overheating [economy](../e/economy.md).
 

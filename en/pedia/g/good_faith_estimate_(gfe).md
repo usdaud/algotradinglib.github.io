@@ -55,7 +55,7 @@ Detailed estimates of the monthly [mortgage](../m/mortgage.md) [payment](../p/pa
 Other details that might be included are:
 
 - **Rate Lock Information:** Details on whether the [interest rate](../i/interest_rate.md) is locked or subject to change.
-- **Adjustable Rate [Mortgage](../m/mortgage.md) (ARM) Details:** If applicable, the initial rate period, adjustment period, [index](../i/index.md), and [margin](../m/margin.md) information.
+- **Adjustable Rate [Mortgage](../m/mortgage.md) (ARM) Details:** If applicable, the initial rate period, adjustment period, [index](../i/index_instrument.md), and [margin](../m/margin.md) information.
 - **[Prepayment](../p/prepayment.md) Penalties:** Information on whether there are penalties for paying the [mortgage](../m/mortgage.md) off early.
 
 ## Changes and the Loan Estimate

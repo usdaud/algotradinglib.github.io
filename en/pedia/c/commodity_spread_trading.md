@@ -45,7 +45,7 @@
 
 2. **[Technical Analysis](../t/technical_analysis.md)**
    
-   [Technical analysis](../t/technical_analysis.md) also plays a crucial role. Traders use various charting tools and indicators to identify trends, patterns, and anomalies in [spreads](../s/spreads.md). Common tools include moving averages, [Bollinger Bands](../b/bollinger_bands.md), and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI).
+   [Technical analysis](../t/technical_analysis.md) also plays a crucial role. Traders use various charting tools and indicators to identify trends, patterns, and anomalies in [spreads](../s/spreads.md). Common tools include moving averages, [Bollinger Bands](../b/bollinger_bands.md), and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 
 3. **Statistical Analysis**
    

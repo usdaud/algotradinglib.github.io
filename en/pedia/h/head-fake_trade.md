@@ -36,7 +36,7 @@ Although identifying head-fakes with certainty is challenging, several technique
 
 2. **[Pattern Recognition](../p/pattern_recognition.md)**: Certain technical patterns such as false breakouts, fake-outs in [chart patterns](../c/chart_patterns.md) like flags, pennants, and head-and-shoulders can serve as harbingers of head-fakes.
 
-3. **[Market Sentiment](../m/market_sentiment.md)**: Gauging the overall [market sentiment](../m/market_sentiment.md) using indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or [sentiment analysis tools](../s/sentiment_analysis_tools.md) can help in identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions that might precede head-fake movements.
+3. **[Market Sentiment](../m/market_sentiment.md)**: Gauging the overall [market sentiment](../m/market_sentiment.md) using indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or [sentiment analysis tools](../s/sentiment_analysis_tools.md) can help in identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions that might precede head-fake movements.
 
 4. **[Order Book Analysis](../o/order_book_analysis.md)**: Analyzing the [order book](../o/order_book.md) can reveal [hidden liquidity](../h/hidden_liquidity.md) and potential traps set by larger players intending to create head-fake scenarios.
 

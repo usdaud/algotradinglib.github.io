@@ -39,7 +39,7 @@ Despite generally low costs, management fees still apply to ETFs. These fees can
 ETFs are subject to [market](../m/market.md) risks, including [volatility](../v/volatility.md) and fluctuations in [commodity](../c/commodity.md) prices, geopolitical events, and changes in [supply](../s/supply.md) and [demand](../d/demand.md) dynamics.
 
 ### 4. Tracking Errors
-ETFs may not perfectly track the [underlying](../u/underlying.md) [index](../i/index.md) or [commodity](../c/commodity.md) they aim to replicate. This discrepancy, known as a [tracking error](../t/tracking_error.md), can result in underperformance relative to the targeted [benchmark](../b/benchmark.md).
+ETFs may not perfectly track the [underlying](../u/underlying.md) [index](../i/index_instrument.md) or [commodity](../c/commodity.md) they aim to replicate. This discrepancy, known as a [tracking error](../t/tracking_error.md), can result in underperformance relative to the targeted [benchmark](../b/benchmark.md).
 
 ## Key Players in the Market
 
@@ -54,7 +54,7 @@ ProShares Ultra [Bloomberg](../b/bloomberg.md) Natural Gas seeks to provide dail
 **Website:** [ProShares.com](https://www.proshares.com/)
 
 ### 3. First Trust Natural Gas ETF (FCG)
-The First [Trust](../t/trust.md) Natural Gas ETF seeks investment results that correspond generally to the price and [yield](../y/yield.md) of the ISE-Revere Natural Gas [Index](../i/index.md), which is designed to provide a [benchmark](../b/benchmark.md) for investors interested in tracking companies that derive a substantial portion of their revenues from the exploration and production of natural gas.
+The First [Trust](../t/trust.md) Natural Gas ETF seeks investment results that correspond generally to the price and [yield](../y/yield.md) of the ISE-Revere Natural Gas [Index](../i/index_instrument.md), which is designed to provide a [benchmark](../b/benchmark.md) for investors interested in tracking companies that derive a substantial portion of their revenues from the exploration and production of natural gas.
 
 **Website:** [FirstTrust.com](https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FCG)
 

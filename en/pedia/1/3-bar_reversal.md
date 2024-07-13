@@ -76,14 +76,14 @@ def identify_3_bar_reversal(data):
             second_bar['Close'] < first_bar['Close'] and
             third_bar['Close'] > third_bar['[Open](../o/open.md)'] and
             third_bar['Close'] > first_bar['High']):
-            signals.append((data.[index](../i/index.md)[i], "BUY"))
+            signals.append((data.[index](../i/index_instrument.md)[i], "BUY"))
 
         # [Check](../c/check.md) Bearish [Reversal](../r/reversal.md)
         elif (first_bar['Close'] > first_bar['[Open](../o/open.md)'] and
               second_bar['Close'] > first_bar['Close'] and
               third_bar['Close'] < third_bar['[Open](../o/open.md)'] and
               third_bar['Close'] < first_bar['Low']):
-            signals.append((data.[index](../i/index.md)[i], "SELL"))
+            signals.append((data.[index](../i/index_instrument.md)[i], "SELL"))
 
     [return](../r/return.md) signals
 
@@ -93,7 +93,7 @@ data = pd.DataFrame({
     'Close': [95, 92, 97, 105, 107, 102],
     'High': [101, 96, 98, 106, 108, 107],
     'Low': [94, 91, 92, 99, 103, 100]
-}, [index](../i/index.md)=pd.date_range(start='2023-01-01', periods=6))
+}, [index](../i/index_instrument.md)=pd.date_range(start='2023-01-01', periods=6))
 
 signals = identify_3_bar_reversal(data)
 print(signals)

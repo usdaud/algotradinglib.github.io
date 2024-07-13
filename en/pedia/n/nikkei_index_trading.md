@@ -1,14 +1,14 @@
 # Nikkei Index Trading
 
-The [Nikkei](../n/nikkei.md) 225, commonly known as the [Nikkei](../n/nikkei.md), is a stock [market index](../m/market_index.md) for the Tokyo Stock [Exchange](../e/exchange.md) (TSE). It has been calculated daily by the Nihon Keizai Shimbun (The [Nikkei](../n/nikkei.md)) newspaper since 1950 and is the oldest stock [index](../i/index.md) in Asia. It includes 225 blue-chip companies [listed](../l/listed.md) on the TSE and provides a snapshot of Japan's [financial health](../f/financial_health.md), making it a key [indicator](../i/indicator.md) used by traders worldwide. This detailed exploration [will](../w/will.md) delve into the various aspects of trading the [Nikkei](../n/nikkei.md) [Index](../i/index.md), including its composition, [trading strategies](../t/trading_strategies.md), [market](../m/market.md) hours, and the impact of [economic indicators](../e/economic_indicators.md).
+The [Nikkei](../n/nikkei.md) 225, commonly known as the [Nikkei](../n/nikkei.md), is a stock [market index](../m/market_index.md) for the Tokyo Stock [Exchange](../e/exchange.md) (TSE). It has been calculated daily by the Nihon Keizai Shimbun (The [Nikkei](../n/nikkei.md)) newspaper since 1950 and is the oldest stock [index](../i/index_instrument.md) in Asia. It includes 225 blue-chip companies [listed](../l/listed.md) on the TSE and provides a snapshot of Japan's [financial health](../f/financial_health.md), making it a key [indicator](../i/indicator.md) used by traders worldwide. This detailed exploration [will](../w/will.md) delve into the various aspects of trading the [Nikkei](../n/nikkei.md) [Index](../i/index_instrument.md), including its composition, [trading strategies](../t/trading_strategies.md), [market](../m/market.md) hours, and the impact of [economic indicators](../e/economic_indicators.md).
 
 ## Composition and Calculation
 
-The [Nikkei](../n/nikkei.md) 225 is a [price-weighted index](../p/price-weighted_index.md), which means that it considers the price of each stock rather than the [market capitalization](../m/market_capitalization.md). This contrasts with [market](../m/market.md)-cap-[weighted](../w/weighted.md) indices like the S&P 500. A higher-priced stock [will](../w/will.md) have more weight in the [Nikkei](../n/nikkei.md) 225, influencing the [index](../i/index.md) movement more significantly compared to lower-priced [stocks](../s/stock.md).
+The [Nikkei](../n/nikkei.md) 225 is a [price-weighted index](../p/price-weighted_index.md), which means that it considers the price of each stock rather than the [market capitalization](../m/market_capitalization.md). This contrasts with [market](../m/market.md)-cap-[weighted](../w/weighted.md) indices like the S&P 500. A higher-priced stock [will](../w/will.md) have more weight in the [Nikkei](../n/nikkei.md) 225, influencing the [index](../i/index_instrument.md) movement more significantly compared to lower-priced [stocks](../s/stock.md).
 
 ### Top Constituents
 
-The [index](../i/index.md) includes a wide [range](../r/range.md) of sectors such as technology, [consumer goods](../c/consumer_goods.md), and financial services. Some notable companies included in the [Nikkei](../n/nikkei.md) 225 [index](../i/index.md) are:
+The [index](../i/index_instrument.md) includes a wide [range](../r/range.md) of sectors such as technology, [consumer goods](../c/consumer_goods.md), and financial services. Some notable companies included in the [Nikkei](../n/nikkei.md) 225 [index](../i/index_instrument.md) are:
 
 - Toyota Motor [Corporation](../c/corporation.md)
 - Sony [Corporation](../c/corporation.md)
@@ -19,7 +19,7 @@ A complete list of the companies and their respective sectors can be found on th
 
 ## Trading Strategies
 
-Trading the [Nikkei](../n/nikkei.md) 225 requires a solid understanding of various strategies that traders employ. Here, we [will](../w/will.md) discuss a few key strategies suited for the [index](../i/index.md).
+Trading the [Nikkei](../n/nikkei.md) 225 requires a solid understanding of various strategies that traders employ. Here, we [will](../w/will.md) discuss a few key strategies suited for the [index](../i/index_instrument.md).
 
 ### Momentum Trading
 
@@ -31,7 +31,7 @@ Trading the [Nikkei](../n/nikkei.md) 225 requires a solid understanding of vario
 
 ### Hedging
 
-Investors use the [Nikkei](../n/nikkei.md) 225 to [hedge](../h/hedge.md) against potential losses in their Japanese stock portfolios. By shorting the [index](../i/index.md) or buying [put options](../p/put_options.md), investors can mitigate [risk](../r/risk.md).
+Investors use the [Nikkei](../n/nikkei.md) 225 to [hedge](../h/hedge.md) against potential losses in their Japanese stock portfolios. By shorting the [index](../i/index_instrument.md) or buying [put options](../p/put_options.md), investors can mitigate [risk](../r/risk.md).
 
 ### Statistical Arbitrage
 
@@ -56,15 +56,15 @@ Several [economic indicators](../e/economic_indicators.md) can significantly imp
 
 ### GDP Growth
 
-Japan's Gross Domestic Product (GDP) can influence the [Nikkei](../n/nikkei.md) 225 [index](../i/index.md). Rapid [economic growth](../e/economic_growth.md) may lead to higher corporate [earnings](../e/earnings.md), propelling the [index](../i/index.md) upwards, while a shrinking GDP might exert downward pressure on the [index](../i/index.md).
+Japan's Gross Domestic Product (GDP) can influence the [Nikkei](../n/nikkei.md) 225 [index](../i/index_instrument.md). Rapid [economic growth](../e/economic_growth.md) may lead to higher corporate [earnings](../e/earnings.md), propelling the [index](../i/index_instrument.md) upwards, while a shrinking GDP might exert downward pressure on the [index](../i/index_instrument.md).
 
 ### Unemployment Rate
 
-The [unemployment rate](../u/unemployment_rate.md) is another critical [indicator](../i/indicator.md). Lower [unemployment](../u/unemployment.md) rates generally point to a [robust](../r/robust.md) [economy](../e/economy.md), potentially driving the [Nikkei](../n/nikkei.md) 225 higher. Conversely, increasing [unemployment](../u/unemployment.md) can indicate economic distress, which might lead to a decline in the [index](../i/index.md).
+The [unemployment rate](../u/unemployment_rate.md) is another critical [indicator](../i/indicator.md). Lower [unemployment](../u/unemployment.md) rates generally point to a [robust](../r/robust.md) [economy](../e/economy.md), potentially driving the [Nikkei](../n/nikkei.md) 225 higher. Conversely, increasing [unemployment](../u/unemployment.md) can indicate economic distress, which might lead to a decline in the [index](../i/index_instrument.md).
 
 ### Inflation and Interest Rates
 
-[Inflation](../i/inflation.md) rates and central [bank](../b/bank.md) policies regarding [interest](../i/interest.md) rates also play a crucial role. High [inflation](../i/inflation.md) can erode [purchasing power](../p/purchasing_power.md), while [interest rate](../i/interest_rate.md) hikes can decrease consumer spending and corporate profits, influencing [market](../m/market.md) sentiments and the [index](../i/index.md).
+[Inflation](../i/inflation.md) rates and central [bank](../b/bank.md) policies regarding [interest](../i/interest.md) rates also play a crucial role. High [inflation](../i/inflation.md) can erode [purchasing power](../p/purchasing_power.md), while [interest rate](../i/interest_rate.md) hikes can decrease consumer spending and corporate profits, influencing [market](../m/market.md) sentiments and the [index](../i/index_instrument.md).
 
 ### Industrial Production
 
@@ -84,7 +84,7 @@ The US markets, particularly indices like the Dow Jones Industrial Average (DJIA
 
 ### Currency Exchange Rates
 
-The yen's [exchange rate](../e/exchange_rate.md) against other major currencies, especially the US dollar, can impact the [Nikkei](../n/nikkei.md) 225. A weaker yen generally makes Japanese exports more competitive, benefiting [export](../e/export.md)-oriented companies in the [index](../i/index.md).
+The yen's [exchange rate](../e/exchange_rate.md) against other major currencies, especially the US dollar, can impact the [Nikkei](../n/nikkei.md) 225. A weaker yen generally makes Japanese exports more competitive, benefiting [export](../e/export.md)-oriented companies in the [index](../i/index_instrument.md).
 
 ### Geopolitical Events
 
@@ -97,12 +97,12 @@ Successful trading of the [Nikkei](../n/nikkei.md) 225 often involves a combinat
 ### Technical Analysis
 
 - **[Candlestick](../c/candlestick.md) Charts**: Provide visual representation of price movements within specific time frames, helping to identify patterns and trends.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **Moving Averages**: Simplify price data to help identify the direction and strength of a [trend](../t/trend.md).
 
 ### Fundamental Analysis
 
-- **Company Financials**: Analyzing balance sheets, [income](../i/income.md) statements, and [cash flow](../c/cash_flow.md) statements of companies in the [index](../i/index.md).
+- **Company Financials**: Analyzing balance sheets, [income](../i/income.md) statements, and [cash flow](../c/cash_flow.md) statements of companies in the [index](../i/index_instrument.md).
 - **Economic Reports**: Keeping track of [economic indicators](../e/economic_indicators.md) such as GDP, [inflation](../i/inflation.md), and employment rates.
 - **News and Events**: Monitoring news for any announcements or events that could impact the [market](../m/market.md).
 

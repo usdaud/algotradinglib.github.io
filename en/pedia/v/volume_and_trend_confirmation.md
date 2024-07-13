@@ -36,7 +36,7 @@ A [trend](../t/trend.md) is the general direction of a [market](../m/market.md) 
 [Trend indicators](../t/trend_indicators.md) help traders identify and analyze trends. Commonly used ones include:
 1. **Moving Averages (MA)**: Averages the price over a specific period to smoothen out fluctuations. Common variations include Simple Moving Average (SMA) and Exponential Moving Average (EMA).
 2. **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: Shows the relationship between two moving averages of a [security](../s/security.md)’s price.
-3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ## Combining Volume and Trend Confirmation
 

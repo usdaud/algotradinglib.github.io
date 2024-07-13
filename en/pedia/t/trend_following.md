@@ -12,7 +12,7 @@ The fundamental idea behind [trend](../t/trend.md) following is that markets are
 
 ### 1. Identification of Trends
 
-The first step in [trend](../t/trend.md) following is to identify a [trend](../t/trend.md). This can be achieved using various [technical analysis](../t/technical_analysis.md) tools such as moving averages, trendlines, and indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or the Moving Average Convergence [Divergence](../d/divergence.md) (MACD). The goal is to determine whether an [asset](../a/asset.md) is trending upwards (bullish [trend](../t/trend.md)) or downwards (bearish [trend](../t/trend.md)).
+The first step in [trend](../t/trend.md) following is to identify a [trend](../t/trend.md). This can be achieved using various [technical analysis](../t/technical_analysis.md) tools such as moving averages, trendlines, and indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or the Moving Average Convergence [Divergence](../d/divergence.md) (MACD). The goal is to determine whether an [asset](../a/asset.md) is trending upwards (bullish [trend](../t/trend.md)) or downwards (bearish [trend](../t/trend.md)).
 
 ### 2. Entry and Exit Points
 
@@ -46,7 +46,7 @@ Trendlines and channels are visual tools used to identify and [trade](../t/trade
 
 ### Technical Indicators
 
-Various [technical indicators](../t/technical_indicators.md) are used in [trend](../t/trend.md)-following strategies to generate signals and confirm trends. Popular indicators include the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), the [Average Directional Index](../a/average_directional_index_(adx).md) (ADX), and the [Parabolic SAR](../p/parabolic_sar.md). These indicators help traders identify trends, measure their strength, and determine potential [reversal](../r/reversal.md) points.
+Various [technical indicators](../t/technical_indicators.md) are used in [trend](../t/trend.md)-following strategies to generate signals and confirm trends. Popular indicators include the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), the [Average Directional Index](../a/average_directional_index_(adx).md) (ADX), and the [Parabolic SAR](../p/parabolic_sar.md). These indicators help traders identify trends, measure their strength, and determine potential [reversal](../r/reversal.md) points.
 
 ## Advantages and Disadvantages
 

@@ -10,7 +10,7 @@ The measurement of positive [momentum](../m/momentum.md) often involves a look-b
 
 Several [technical indicators](../t/technical_indicators.md) are used to measure [momentum](../m/momentum.md) in trading, including:
 
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):**
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):**
    - RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. An RSI [value](../v/value.md) above 70 is typically considered [overbought](../o/overbought.md), while below 30 is considered [oversold](../o/oversold.md).
    - More on RSI: [Investopedia on RSI](https://www.investopedia.com/terms/r/rsi.asp).
 

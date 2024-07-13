@@ -63,7 +63,7 @@ Detecting irrational exuberance before a [market](../m/market.md) [correction](.
    - **[Volume](../v/volume.md) Spikes:** Unusual trading volumes can indicate speculative behavior.
 
 ### 4. **Technical Analysis**
-   - **[Technical Indicators](../t/technical_indicator.md):** Use of tools like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and Moving Averages to spot overextended [market](../m/market.md) conditions.
+   - **[Technical Indicators](../t/technical_indicator.md):** Use of tools like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and Moving Averages to spot overextended [market](../m/market.md) conditions.
    - **[Chart Patterns](../c/chart_patterns.md):** Identifying bubble-like patterns on price charts.
 
 ## Consequences of Irrational Exuberance

@@ -68,7 +68,7 @@ Algorithmic strategies often incorporate [multiple](../m/multiple.md) signals an
 
 ### Example in Algotrading
 
-Consider an [algorithmic trading](../a/accountability.md) strategy that monitors two independent signals to decide on a [trade](../t/trade.md). Let \( A \) be the signal from a moving average crossover strategy, and \( B \) be the signal from a [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI) [indicator](../i/indicator.md).
+Consider an [algorithmic trading](../a/accountability.md) strategy that monitors two independent signals to decide on a [trade](../t/trade.md). Let \( A \) be the signal from a moving average crossover strategy, and \( B \) be the signal from a [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI) [indicator](../i/indicator.md).
 
 - Event \( A \): Moving average crossover indicates a buy signal (\( P(A) = 0.3 \))
 - Event \( B \): RSI indicates a buy signal (\( P(B) = 0.4 \))

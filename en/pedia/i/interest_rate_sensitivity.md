@@ -38,7 +38,7 @@ While equities are not as directly influenced by [interest](../i/interest.md) ra
 ## Measuring Interest Rate Sensitivity
 
 ### Beta
-In equities, a stock's [beta](../b/beta.md) measures its sensitivity to the [market](../m/market.md), but in [fixed income](../f/fixed_income.md), the [beta](../b/beta.md) of a [bond](../b/bond.md) or [bond](../b/bond.md) portfolio against a [benchmark](../b/benchmark.md) [index](../i/index.md) can elucidate its [interest rate](../i/interest_rate.md) sensitivity.
+In equities, a stock's [beta](../b/beta.md) measures its sensitivity to the [market](../m/market.md), but in [fixed income](../f/fixed_income.md), the [beta](../b/beta.md) of a [bond](../b/bond.md) or [bond](../b/bond.md) portfolio against a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) can elucidate its [interest rate](../i/interest_rate.md) sensitivity.
 
 ### Key Rate Duration (KRD)
 KRD measures the sensitivity of bonds to [interest rate](../i/interest_rate.md) changes at specific [maturity](../m/maturity.md) points on the [yield curve](../y/yield_curve.md), allowing for pinpointing certain segments of the curve that might impact the [bond](../b/bond.md)'s price the most.

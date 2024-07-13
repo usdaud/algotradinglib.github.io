@@ -28,7 +28,7 @@ One of the most distinguishing features of managed accounts is the level of cust
 
 ### Active Management
 
-Managed accounts are actively managed, meaning that the [money manager](../m/money_manager.md) frequently buys and sells securities to achieve the client’s investment objectives. This stands in contrast to passively managed investments, like [index](../i/index.md) funds, which aim to replicate a [market index](../m/market_index.md).
+Managed accounts are actively managed, meaning that the [money manager](../m/money_manager.md) frequently buys and sells securities to achieve the client’s investment objectives. This stands in contrast to passively managed investments, like [index](../i/index_instrument.md) funds, which aim to replicate a [market index](../m/market_index.md).
 
 ### Transparency
 

@@ -50,7 +50,7 @@ In this more complex form, the [return](../r/return.md) is partly guaranteed and
 
 ### Equity-Linked Window GIC
 
-Here, the [return](../r/return.md) is linked to the performance of a specific [equity](../e/equity.md) [index](../i/index.md), such as the S&P 500. These GICs [offer](../o/offer.md) [upside potential](../u/upside_potential_in_trading.md) if the [market](../m/market.md) performs well but also guarantee the [principal](../p/principal.md) amount, thus limiting [downside risk](../d/downside_risk.md).
+Here, the [return](../r/return.md) is linked to the performance of a specific [equity](../e/equity.md) [index](../i/index_instrument.md), such as the S&P 500. These GICs [offer](../o/offer.md) [upside potential](../u/upside_potential_in_trading.md) if the [market](../m/market.md) performs well but also guarantee the [principal](../p/principal.md) amount, thus limiting [downside risk](../d/downside_risk.md).
 
 ## Processes Involved in Window GICs
 

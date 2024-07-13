@@ -8,15 +8,15 @@ The Philippine Stock [Exchange](../e/exchange.md) (PSE) is the primary stock [ex
 The roots of the PSE can be traced back to the Manila Stock [Exchange](../e/exchange.md), which was established on August 8, 1927. The Makati Stock [Exchange](../e/exchange.md) was established later on May 27, 1963. Both exchanges operated independently for many years, leading to inefficiencies and operational redundancies. To streamline operations and foster a more [robust](../r/robust.md) [capital](../c/capital.md) [market](../m/market.md), these two entities were merged to create the Philippine Stock [Exchange](../e/exchange.md) in 1992.
 
 ### Evolution
-In the years following its establishment, the PSE has undergone significant developments, including the introduction of automated trading in 1993, the launch of the PSE Composite [Index](../i/index.md) (PSEi), and its subsequent modernization efforts. Notably, the PSE made its own public [offering](../o/offering.md) in December 2003, further aligning its operations with international standards and [best practices](../b/best_practices.md).
+In the years following its establishment, the PSE has undergone significant developments, including the introduction of automated trading in 1993, the launch of the PSE Composite [Index](../i/index_instrument.md) (PSEi), and its subsequent modernization efforts. Notably, the PSE made its own public [offering](../o/offering.md) in December 2003, further aligning its operations with international standards and [best practices](../b/best_practices.md).
 
 ## Market Structure
 
 ### Indices
 The Philippine Stock [Exchange](../e/exchange.md) operates several indices to track the performance of the [market](../m/market.md):
 
-- **PSEi (PSE Composite [Index](../i/index.md))**: The premier stock [market index](../m/market_index.md) that tracks the performance of 30 of the largest and most actively traded [stocks](../s/stock.md) [listed](../l/listed.md) on the [exchange](../e/exchange.md).
-- **All [Shares](../s/shares.md) [Index](../i/index.md)**: A broader [index](../i/index.md) that includes all the companies [listed](../l/listed.md) on the PSE.
+- **PSEi (PSE Composite [Index](../i/index_instrument.md))**: The premier stock [market index](../m/market_index.md) that tracks the performance of 30 of the largest and most actively traded [stocks](../s/stock.md) [listed](../l/listed.md) on the [exchange](../e/exchange.md).
+- **All [Shares](../s/shares.md) [Index](../i/index_instrument.md)**: A broader [index](../i/index_instrument.md) that includes all the companies [listed](../l/listed.md) on the PSE.
 - **Sectoral Indices**: These include indices that focus on specific sectors such as Financials, Industrial, Holding Firms, Property, Services, and [Mining](../m/mining.md) and Oil.
 
 ### Trading Mechanism

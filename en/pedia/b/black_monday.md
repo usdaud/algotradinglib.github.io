@@ -5,7 +5,7 @@ Black Monday refers to the [stock market crash](../s/stock_market_crash.md) on O
 ## Background
 
 ### Preceding Trends
-The mid-1980s was a period of remarkable growth for global stock markets, notably in the United States. The Dow Jones Industrial Average (DJIA), a key [index](../i/index.md) often used as a [market](../m/market.md) barometer, had been on a substantial rise during this period. The [financial markets](../f/financial_market.md) were rife with [speculation](../s/speculation.md), driven by several factors:
+The mid-1980s was a period of remarkable growth for global stock markets, notably in the United States. The Dow Jones Industrial Average (DJIA), a key [index](../i/index_instrument.md) often used as a [market](../m/market.md) barometer, had been on a substantial rise during this period. The [financial markets](../f/financial_market.md) were rife with [speculation](../s/speculation.md), driven by several factors:
 
 1. **[Economic Growth](../e/economic_growth.md)**: The US [economy](../e/economy.md) was experiencing [robust](../r/robust.md) growth, stimulated by tax cuts and increased government spending.
 2. **Technological Advances**: The proliferation of personal computers and electronic [trading systems](../t/trading_systems.md) began making significant impacts.

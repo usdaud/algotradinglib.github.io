@@ -6,11 +6,11 @@ The purpose of Zacks Lifecycle Indexes is to [offer](../o/offer.md) a diversifie
 
 ## Structure of Zacks Lifecycle Indexes
 
-Zacks Lifecycle Indexes typically include various [asset](../a/asset.md) classes and are designed with specific target years in mind, which are reflected in their names (e.g., Zacks 2030 Lifecycle [Index](../i/index.md), Zacks 2040 Lifecycle [Index](../i/index.md)). Each [index](../i/index.md) comprises different types of ETFs, which may include [equity](../e/equity.md), fixed-[income](../i/income.md), and other [asset](../a/asset.md) classes, reflecting the diversified structure of a [target-date fund](../t/target-date_fund.md).
+Zacks Lifecycle Indexes typically include various [asset](../a/asset.md) classes and are designed with specific target years in mind, which are reflected in their names (e.g., Zacks 2030 Lifecycle [Index](../i/index_instrument.md), Zacks 2040 Lifecycle [Index](../i/index_instrument.md)). Each [index](../i/index_instrument.md) comprises different types of ETFs, which may include [equity](../e/equity.md), fixed-[income](../i/income.md), and other [asset](../a/asset.md) classes, reflecting the diversified structure of a [target-date fund](../t/target-date_fund.md).
 
 ### Equity Funds
 
-The [equity](../e/equity.md) portion of the lifecycle indexes is generally represented through ETFs that track a broad [range](../r/range.md) of [market](../m/market.md) sectors, including domestic large-cap, [mid-cap](../m/mid-cap.md), small-cap, and international equities. The [equity](../e/equity.md) allocation of the [index](../i/index.md) is typically higher for indexes with target dates that are further into the future.
+The [equity](../e/equity.md) portion of the lifecycle indexes is generally represented through ETFs that track a broad [range](../r/range.md) of [market](../m/market.md) sectors, including domestic large-cap, [mid-cap](../m/mid-cap.md), small-cap, and international equities. The [equity](../e/equity.md) allocation of the [index](../i/index_instrument.md) is typically higher for indexes with target dates that are further into the future.
 
 ### Fixed-Income Funds
 
@@ -22,7 +22,7 @@ To achieve further [diversification](../d/diversification.md), lifecycle indexes
 
 ## Rebalancing Mechanism
 
-A key feature of Zacks Lifecycle Indexes is the annual [rebalancing](../r/rebalancing.md) mechanism. This process involves adjusting the allocations within the [index](../i/index.md) to gradually shift from higher-[risk](../r/risk.md), high-[return](../r/return.md) investments (typically equities) to lower-[risk](../r/risk.md), lower-[return](../r/return.md) investments (typically bonds and [cash equivalents](../c/cash_equivalents.md)) as the [index](../i/index.md) approaches its target date. This transition is designed to reduce the portfolio's exposure to [market](../m/market.md) [volatility](../v/volatility.md) and protect the [investor](../i/investor.md)'s [capital](../c/capital.md).
+A key feature of Zacks Lifecycle Indexes is the annual [rebalancing](../r/rebalancing.md) mechanism. This process involves adjusting the allocations within the [index](../i/index_instrument.md) to gradually shift from higher-[risk](../r/risk.md), high-[return](../r/return.md) investments (typically equities) to lower-[risk](../r/risk.md), lower-[return](../r/return.md) investments (typically bonds and [cash equivalents](../c/cash_equivalents.md)) as the [index](../i/index_instrument.md) approaches its target date. This transition is designed to reduce the portfolio's exposure to [market](../m/market.md) [volatility](../v/volatility.md) and protect the [investor](../i/investor.md)'s [capital](../c/capital.md).
 
 ### Glide Path
 
@@ -58,7 +58,7 @@ Thanks to the [glide path](../g/glide_path.md) and annual [rebalancing](../r/reb
 
 ### Individual Investors
 
-Individual investors who prefer a hands-off approach to retirement savings can find Zacks Lifecycle Indexes a valuable tool. By selecting an [index](../i/index.md) appropriate for their expected retirement year, investors can ensure their portfolios are managed in accordance with their changing [risk tolerance](../r/risk_tolerance.md) over time.
+Individual investors who prefer a hands-off approach to retirement savings can find Zacks Lifecycle Indexes a valuable tool. By selecting an [index](../i/index_instrument.md) appropriate for their expected retirement year, investors can ensure their portfolios are managed in accordance with their changing [risk tolerance](../r/risk_tolerance.md) over time.
 
 ### Retirement Plans
 
@@ -72,6 +72,6 @@ Despite the competitive [market](../m/market.md), [Zacks Investment Research](..
 
 ## Conclusion
 
-Zacks Lifecycle Indexes [offer](../o/offer.md) a systematic, evidence-based approach to target-date [investing](../i/investing.md), aiming to balance growth and [risk](../r/risk.md) reduction as retirement nears. With their annual [rebalancing](../r/rebalancing.md) mechanism and diversified [asset](../a/asset.md) allocations, these indexes provide both simplicity and professional management for investors planning for future financial needs. By choosing an [index](../i/index.md) aligned with their retirement year, investors can benefit from a carefully managed portfolio that evolves over time to suit their changing [risk tolerance](../r/risk_tolerance.md) and [investment horizon](../i/investment_horizon.md).
+Zacks Lifecycle Indexes [offer](../o/offer.md) a systematic, evidence-based approach to target-date [investing](../i/investing.md), aiming to balance growth and [risk](../r/risk.md) reduction as retirement nears. With their annual [rebalancing](../r/rebalancing.md) mechanism and diversified [asset](../a/asset.md) allocations, these indexes provide both simplicity and professional management for investors planning for future financial needs. By choosing an [index](../i/index_instrument.md) aligned with their retirement year, investors can benefit from a carefully managed portfolio that evolves over time to suit their changing [risk tolerance](../r/risk_tolerance.md) and [investment horizon](../i/investment_horizon.md).
 
 For more details about Zacks Lifecycle Indexes, please visit the [Zacks Investment Research website](https://www.zacks.com/).

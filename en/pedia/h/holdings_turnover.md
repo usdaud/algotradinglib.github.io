@@ -37,7 +37,7 @@ High [holdings](../h/holdings.md) [turnover](../t/turnover.md) typically indicat
 A low [holdings](../h/holdings.md) [turnover ratio](../t/turnover_ratio.md) indicates a more passive investment approach, often linked with long-term investment strategies such as:
 
 - **Buy-and-[Hold](../h/hold.md) Strategy:** Focusing on long-term growth by [investing](../i/investing.md) in fundamentally sound entities and holding them over the long term.
-- **[Index](../i/index.md) Tracking Funds:** Mimicking the composition of a [market index](../m/market_index.md) and maintaining a low [turnover](../t/turnover.md).
+- **[Index](../i/index_instrument.md) Tracking Funds:** Mimicking the composition of a [market index](../m/market_index.md) and maintaining a low [turnover](../t/turnover.md).
 
 ##### Benefits of Low Turnover:
 1. **Lower [Transaction Costs](../t/transaction_costs.md):** Reduced fees due to fewer trades.

@@ -36,7 +36,7 @@ Incorporating alternative investments such as [hedge](../h/hedge.md) funds, comm
 
 ### Tail Risk Hedging
 
-Using financial instruments such as [options](../o/options.md) and [futures](../f/futures.md) can [hedge](../h/hedge.md) against [tail risk](../t/tail_risk.md). For instance, buying [put options](../p/put_options.md) on a portfolio or [index](../i/index.md) can provide a safety net against extreme negative returns. [Tail risk](../t/tail_risk.md) [hedging strategies](../h/hedging_strategies.md) are designed specifically to protect against the adverse impacts of high [kurtosis](../k/kurtosis.md).
+Using financial instruments such as [options](../o/options.md) and [futures](../f/futures.md) can [hedge](../h/hedge.md) against [tail risk](../t/tail_risk.md). For instance, buying [put options](../p/put_options.md) on a portfolio or [index](../i/index_instrument.md) can provide a safety net against extreme negative returns. [Tail risk](../t/tail_risk.md) [hedging strategies](../h/hedging_strategies.md) are designed specifically to protect against the adverse impacts of high [kurtosis](../k/kurtosis.md).
 
 ### Dynamic Risk Management
 

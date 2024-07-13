@@ -45,9 +45,9 @@ By inputting these values into the [Black-Scholes model](../b/black-scholes_mode
 
 ## Implied Volatility Indexes (VIX)
 
-The VIX, or [Volatility](../v/volatility.md) [Index](../i/index.md), often referred to as the "Fear [Index](../i/index.md)," is a measure of the [stock market](../s/stock_market.md)'s expected [volatility](../v/volatility.md) over the next 30 days, derived from S&P 500 [index options](../i/index_options.md). Introduced by the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE) in 1993, it is a key measure of [market sentiment](../m/market_sentiment.md).
+The VIX, or [Volatility](../v/volatility.md) [Index](../i/index_instrument.md), often referred to as the "Fear [Index](../i/index_instrument.md)," is a measure of the [stock market](../s/stock_market.md)'s expected [volatility](../v/volatility.md) over the next 30 days, derived from S&P 500 [index options](../i/index_options.md). Introduced by the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE) in 1993, it is a key measure of [market sentiment](../m/market_sentiment.md).
 
-The VIX is calculated using the implied volatilities of a wide [range](../r/range.md) of S&P 500 [index options](../i/index_options.md). Rather than relying on a single option or a single [strike price](../s/strike_price.md), it uses the IV of many puts and calls near the current [index](../i/index.md) level.
+The VIX is calculated using the implied volatilities of a wide [range](../r/range.md) of S&P 500 [index options](../i/index_options.md). Rather than relying on a single option or a single [strike price](../s/strike_price.md), it uses the IV of many puts and calls near the current [index](../i/index_instrument.md) level.
 
 Understanding the VIX can help traders:
 

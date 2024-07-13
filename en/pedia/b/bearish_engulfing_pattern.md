@@ -46,7 +46,7 @@ A [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) st
 
 ### Real-World Examples
 - **Apple Inc. (AAPL)**: A notable Bearish Engulfing Pattern appeared on AAPL stock on January 23, 2021. Following this pattern, the stock experienced a significant decline, affirming the reliability of the pattern.
-- **S&P 500 [Index](../i/index.md)**: During the 2008 [financial crisis](../f/financial_crisis.md), Bearish Engulfing Patterns were frequently observed, aligning with sharp downturns in the [market](../m/market.md).
+- **S&P 500 [Index](../i/index_instrument.md)**: During the 2008 [financial crisis](../f/financial_crisis.md), Bearish Engulfing Patterns were frequently observed, aligning with sharp downturns in the [market](../m/market.md).
 
 ### Case Studies
 - **Algorithmic Strategies by Quant Trading Firms**:
@@ -56,7 +56,7 @@ A [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) st
 ## Limitations
 
 ### False Signals
-Bearish Engulfing Patterns are not foolproof and can produce [false signals](../f/false_signals_in_trading.md), especially in volatile markets. It's essential to combine this pattern with other [technical indicators](../t/technical_indicators.md) such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), or [volume analysis](../v/volume_analysis.md) to filter out [false signals](../f/false_signals_in_trading.md).
+Bearish Engulfing Patterns are not foolproof and can produce [false signals](../f/false_signals_in_trading.md), especially in volatile markets. It's essential to combine this pattern with other [technical indicators](../t/technical_indicators.md) such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), or [volume analysis](../v/volume_analysis.md) to filter out [false signals](../f/false_signals_in_trading.md).
 
 ### Market Conditions
 They tend to be more reliable in specific [market](../m/market.md) conditions. For example, they are more effective in indicating reversals during a well-defined [uptrend](../u/uptrend.md), but may not be as reliable during a sideways or choppy [market](../m/market.md).

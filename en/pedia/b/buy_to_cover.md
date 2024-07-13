@@ -47,7 +47,7 @@ A [stop-loss order](../s/stop-loss_order.md) is a pre-determined instruction to 
 
 ### Timing the Market
 
-Some traders employ [technical analysis](../t/technical_analysis.md) and [market timing](../m/market_timing.md) to decide the optimal moment to buy to cover. Indicators such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) can signal potential reversals, suggesting it might be time to close the short position.
+Some traders employ [technical analysis](../t/technical_analysis.md) and [market timing](../m/market_timing.md) to decide the optimal moment to buy to cover. Indicators such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) can signal potential reversals, suggesting it might be time to close the short position.
 
 ### Partial Covering
 

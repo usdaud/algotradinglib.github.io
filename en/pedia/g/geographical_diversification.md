@@ -38,7 +38,7 @@ One approach to geographical [diversification](../d/diversification.md) is to de
 
 ### Regional ETFs and Index Funds
 
-[Exchange](../e/exchange.md)-traded funds (ETFs) and [index](../i/index.md) funds that focus on specific regions can simplify geographical [diversification](../d/diversification.md). For example, an ETF that tracks the performance of Asian markets can provide exposure to a broad [range](../r/range.md) of assets within that region. [Algorithmic trading](../a/accountability.md) systems can be designed to invest in these ETFs based on predefined criteria.
+[Exchange](../e/exchange.md)-traded funds (ETFs) and [index](../i/index_instrument.md) funds that focus on specific regions can simplify geographical [diversification](../d/diversification.md). For example, an ETF that tracks the performance of Asian markets can provide exposure to a broad [range](../r/range.md) of assets within that region. [Algorithmic trading](../a/accountability.md) systems can be designed to invest in these ETFs based on predefined criteria.
 
 ### Currency Hedging
 

@@ -102,7 +102,7 @@ Traders can use moving averages from [multiple](../m/multiple.md) time frames to
 
 ### Combining with Other Indicators
 
-Moving averages are often used in conjunction with other [technical indicators](../t/technical_indicator.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or [Bollinger Bands](../b/bollinger_band.md) to validate signals and improve trading accuracy.
+Moving averages are often used in conjunction with other [technical indicators](../t/technical_indicator.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or [Bollinger Bands](../b/bollinger_band.md) to validate signals and improve trading accuracy.
 
 ### Custom Moving Averages
 

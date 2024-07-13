@@ -15,7 +15,7 @@ Raw [Beta](../b/beta.md) specifically refers to the unadjusted [Beta](../b/beta.
 
 ## Calculation
 
-Raw [Beta](../b/beta.md) is typically calculated using [regression analysis](../r/regression_analysis.md), where the returns of an [asset](../a/asset.md) are regressed against the returns of a [benchmark](../b/benchmark.md) [index](../i/index.md) over a certain period. The common mathematical formula for [Beta](../b/beta.md) is:
+Raw [Beta](../b/beta.md) is typically calculated using [regression analysis](../r/regression_analysis.md), where the returns of an [asset](../a/asset.md) are regressed against the returns of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) over a certain period. The common mathematical formula for [Beta](../b/beta.md) is:
 
 \[ \[beta](../b/beta.md) = \frac{\text{Cov}(R_i, R_m)}{\text{Var}(R_m)} \]
 
@@ -66,7 +66,7 @@ Several companies [offer](../o/offer.md) advanced tools and platforms for Raw [B
 
 ## Case Study: A Simple Regression Analysis
 
-Let’s consider a simplified example of Raw [Beta](../b/beta.md) calculation through [regression analysis](../r/regression_analysis.md) using historical data for a hypothetical stock and the S&P 500 [index](../i/index.md).
+Let’s consider a simplified example of Raw [Beta](../b/beta.md) calculation through [regression analysis](../r/regression_analysis.md) using historical data for a hypothetical stock and the S&P 500 [index](../i/index_instrument.md).
 
 - Extract monthly returns for both the stock and the S&P 500 over a period of 5 years.
 - Perform a simple ordinary least square (OLS) regression where the dependent variable is the stock's returns and the independent variable is the S&P 500's returns.

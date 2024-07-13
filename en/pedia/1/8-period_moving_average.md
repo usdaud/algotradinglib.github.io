@@ -46,7 +46,7 @@ The 8-Period MA is primarily used to identify short-term trends. When the price 
 
 ### Confirming Other Indicators
 
-The 8-Period MA is often used in conjunction with other [technical indicators](../t/technical_indicators.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or [Bollinger Bands](../b/bollinger_bands.md). By confirming signals from these indicators, traders can improve the accuracy of their [trading strategies](../t/trading_strategies.md). For example, a [trader](../t/trader.md) might look for buy signals when the RSI shows an [oversold](../o/oversold.md) condition and the price moves above the 8-Period MA.
+The 8-Period MA is often used in conjunction with other [technical indicators](../t/technical_indicators.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or [Bollinger Bands](../b/bollinger_bands.md). By confirming signals from these indicators, traders can improve the accuracy of their [trading strategies](../t/trading_strategies.md). For example, a [trader](../t/trader.md) might look for buy signals when the RSI shows an [oversold](../o/oversold.md) condition and the price moves above the 8-Period MA.
 
 ### Support and Resistance
 

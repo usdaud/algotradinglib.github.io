@@ -70,7 +70,7 @@ The Forex [market](../m/market.md) operates 24 hours a day, five days a week, wi
 
 - **Charts**: [Candlestick](../c/candlestick.md), bar, and line charts to visualize price data.
   
-- **Indicators**: Moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), MACD, [Bollinger Bands](../b/bollinger_band.md).
+- **Indicators**: Moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), MACD, [Bollinger Bands](../b/bollinger_band.md).
 
 - **Patterns**: Head and shoulders, triangles, flags, and double tops/bottoms.
 

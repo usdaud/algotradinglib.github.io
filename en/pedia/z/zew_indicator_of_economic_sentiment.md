@@ -1,6 +1,6 @@
 # ZEW Indicator of Economic Sentiment
 
-The ZEW [Indicator](../i/indicator.md) of Economic Sentiment is a prominent financial [index](../i/index.md) that gauges economic expectations for Germany on a six-month outlook. It is widely used by investors, policymakers, and analysts to get an early sense of economic trends and potential turning points. The [indicator](../i/indicator.md) is derived from a survey of financial experts, making it a measure of professional sentiment rather than hard economic data.
+The ZEW [Indicator](../i/indicator.md) of Economic Sentiment is a prominent financial [index](../i/index_instrument.md) that gauges economic expectations for Germany on a six-month outlook. It is widely used by investors, policymakers, and analysts to get an early sense of economic trends and potential turning points. The [indicator](../i/indicator.md) is derived from a survey of financial experts, making it a measure of professional sentiment rather than hard economic data.
 
 ## Overview and Importance
 
@@ -64,9 +64,9 @@ Similarly, during the [Eurozone](../e/eurozone.md) [debt](../d/debt.md) crisis, 
 
 The ZEW [Indicator](../i/indicator.md) is often compared with other sentiment and confidence indicators, such as:
 
-- **IFO [Business](../b/business.md) Climate [Index](../i/index.md)**: Another leading [economic indicator](../e/economic_indicator.md) for Germany, it reflects the sentiments of companies rather than financial experts. The IFO [index](../i/index.md) is based on responses from firms regarding their current [business](../b/business.md) situation and expectations for the next six months.
+- **IFO [Business](../b/business.md) Climate [Index](../i/index_instrument.md)**: Another leading [economic indicator](../e/economic_indicator.md) for Germany, it reflects the sentiments of companies rather than financial experts. The IFO [index](../i/index_instrument.md) is based on responses from firms regarding their current [business](../b/business.md) situation and expectations for the next six months.
 
-- **Sentix Economic [Index](../i/index.md)**: This [indicator](../i/indicator.md) also captures sentiment but covers a broader [range](../r/range.md) of financial [market](../m/market.md) participants, including private and institutional investors across the [Eurozone](../e/eurozone.md).
+- **Sentix Economic [Index](../i/index_instrument.md)**: This [indicator](../i/indicator.md) also captures sentiment but covers a broader [range](../r/range.md) of financial [market](../m/market.md) participants, including private and institutional investors across the [Eurozone](../e/eurozone.md).
 
 - **Economic Sentiment [Indicator](../i/indicator.md) (ESI)**: Published by the European [Commission](../c/commission.md), the ESI aggregates sentiment from various sectors, including [industry](../i/industry.md), services, consumers, retail, and construction, providing a comprehensive view of economic confidence within the [European Union](../e/european_union_(eu).md).
 

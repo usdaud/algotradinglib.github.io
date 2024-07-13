@@ -92,7 +92,7 @@ NAICS is designed to be compatible with international [industry](../i/industry.m
 NAICS information is publicly accessible through various governmental websites. For instance:
 
 - The U.S. Census Bureau (https://www.census.gov/naics/) provides comprehensive NAICS resources, including current codes, proposed changes, and historical data.
-- [Statistics](../s/statistics.md) Canada (https://www.statcan.gc.ca/eng/subjects/standard/naics/2017/[index](../i/index.md)) offers Canadian [industry](../i/industry.md) classifications based on NAICS.
+- [Statistics](../s/statistics.md) Canada (https://www.statcan.gc.ca/eng/subjects/standard/naics/2017/[index](../i/index_instrument.md)) offers Canadian [industry](../i/industry.md) classifications based on NAICS.
 - INEGI (http://www.inegi.org.mx/) details the Mexican implementation and utilization of NAICS.
 
 These resources ensure that businesses, researchers, policymakers, and the general public can easily access and employ NAICS data for their respective needs.

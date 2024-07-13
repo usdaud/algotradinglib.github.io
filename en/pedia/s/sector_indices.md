@@ -10,7 +10,7 @@ Sector indices are subsets of the broader [market](../m/market.md) indices and a
 
 Some well-known sector indices include:
 
-- **S&P 500 Sectors**: The S&P 500 is divided into 11 sectors, including information technology, healthcare, financials, consumer discretionaries, and others. Each sector [index](../i/index.md) tracks the performance of companies within that sector. For more information, visit [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/).
+- **S&P 500 Sectors**: The S&P 500 is divided into 11 sectors, including information technology, healthcare, financials, consumer discretionaries, and others. Each sector [index](../i/index_instrument.md) tracks the performance of companies within that sector. For more information, visit [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/).
 
 - **MSCI ACWI Sector Indices**: These indices provide a global overview, tracking the performance of sectors across developed and emerging markets. Details can be found on the [MSCI website](https://www.msci.com/).
 
@@ -18,7 +18,7 @@ Some well-known sector indices include:
 
 ### Importance in Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), sector indices are used to develop strategies that exploit the [relative strength](../r/relative_strength.md) or weakness of particular sectors. Algorithms can be programmed to execute trades based on the [performance metrics](../p/performance_metrics.md) of these indices, such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and other [technical indicators](../t/technical_indicators.md).
+In [algorithmic trading](../a/algorithmic_trading.md), sector indices are used to develop strategies that exploit the [relative strength](../r/relative_strength.md) or weakness of particular sectors. Algorithms can be programmed to execute trades based on the [performance metrics](../p/performance_metrics.md) of these indices, such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and other [technical indicators](../t/technical_indicators.md).
 
 ## Construction of Sector Indices
 
@@ -41,14 +41,14 @@ These classification systems ensure consistent and transparent categorization, w
 The [technology sector](../t/technology_sector.md) is one of the most followed indices due to the rapid growth and innovation within this [industry](../i/industry.md). It includes companies involved in software, hardware, IT services, and electronics.
 
 #### Example: NASDAQ-100 Technology Sector Index
-This [index](../i/index.md) tracks the performance of the technology companies within the broader [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index.md). 
+This [index](../i/index_instrument.md) tracks the performance of the technology companies within the broader [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index_instrument.md). 
 
 ### Healthcare Sector
 
 The [healthcare sector](../h/healthcare_sector.md) comprises companies involved in pharmaceuticals, biotechnology, medical devices, and health services.
 
 #### Example: S&P 500 Healthcare Sector Index
-This [index](../i/index.md) provides exposure to large-cap U.S. companies in the healthcare [industry](../i/industry.md).
+This [index](../i/index_instrument.md) provides exposure to large-cap U.S. companies in the healthcare [industry](../i/industry.md).
 
 ### Energy Sector
 
@@ -62,7 +62,7 @@ It tracks the performance of energy companies from developed markets across the 
 The [financial sector](../f/financial_sector.md) encompasses a wide [range](../r/range.md) of financial services companies, including banks, investment funds, [insurance](../i/insurance.md) companies, and [real estate](../r/real_estate.md) firms.
 
 #### Example: FTSE All-World Financials Index
-This [index](../i/index.md) includes financial services companies from both developed and emerging markets globally.
+This [index](../i/index_instrument.md) includes financial services companies from both developed and emerging markets globally.
 
 ### Consumer Discretionary Sector
 

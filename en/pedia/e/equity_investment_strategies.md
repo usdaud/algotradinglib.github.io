@@ -42,7 +42,7 @@
 
 [Momentum investing](../m/momentum_investing.md) involves buying securities that have shown an upward price [trend](../t/trend.md), expecting that the [momentum](../m/momentum.md) [will](../w/will.md) continue. Conversely, it may also involve short-selling securities with downward trends.
 
-- **Key Indicators**: [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD).
+- **Key Indicators**: [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD).
 - **Notable Practitioners**: Richard Driehaus.
 - **Example**: Riding trends in sectors like technology or cryptocurrencies.
 
@@ -66,13 +66,13 @@
 
 [Index investing](../i/index_investing.md) aims to replicate the performance of a [market index](../m/market_index.md), like the S&P 500. This passive [investment strategy](../i/investment_strategy.md) relies on [diversification benefits](../d/diversification_benefits.md) and lower costs.
 
-- **Key Indicators**: [Index](../i/index.md) [performance metrics](../p/performance_metrics.md) like returns, [volatility](../v/volatility.md).
+- **Key Indicators**: [Index](../i/index_instrument.md) [performance metrics](../p/performance_metrics.md) like returns, [volatility](../v/volatility.md).
 - **Notable Practitioners**: [John Bogle](../j/john_bogle.md), founder of Vanguard Group (https://[investor](../i/investor.md).vanguard.com).
-- **Example**: [Investing](../i/investing.md) in the entire [market](../m/market.md) through [index](../i/index.md) mutual funds or ETFs.
+- **Example**: [Investing](../i/investing.md) in the entire [market](../m/market.md) through [index](../i/index_instrument.md) mutual funds or ETFs.
 
 ### Tools and Techniques
-- **[Benchmark](../b/benchmark.md) Tracking**: Measures [portfolio performance](../p/portfolio_performance.md) against the chosen [index](../i/index.md).
-- **Passive [Fund](../f/fund.md) Management**: Involves minimal trading to mimic [index](../i/index.md) performance.
+- **[Benchmark](../b/benchmark.md) Tracking**: Measures [portfolio performance](../p/portfolio_performance.md) against the chosen [index](../i/index_instrument.md).
+- **Passive [Fund](../f/fund.md) Management**: Involves minimal trading to mimic [index](../i/index_instrument.md) performance.
 
 ## 7. Sector Rotation
 

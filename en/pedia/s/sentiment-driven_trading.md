@@ -32,9 +32,9 @@ Various techniques are employed to analyze sentiment from textual data:
 
 Sentiment indexes and indicators are tools that summarize sentiment data into actionable metrics:
 
-1. **[Fear and Greed Index](../f/fear_and_greed_index.md)**: Developed by CNNMoney, this [index](../i/index.md) measures [market sentiment](../m/market_sentiment.md) on a scale from extreme fear to extreme greed, based on factors like [volatility](../v/volatility.md), stock price strength, and trading [volume](../v/volume.md).
-2. **VIX ([Volatility](../v/volatility.md) [Index](../i/index.md))**: Also known as the "fear gauge," the VIX measures implied [volatility](../v/volatility.md) and is often used as an [indicator](../i/indicator.md) of [market risk](../m/market_risk.md) and sentiment.
-3. **Sentix [Index](../i/index.md)**: This [index](../i/index.md) provides a comprehensive measure of [investor](../i/investor.md) sentiment across various [asset](../a/asset.md) classes like [stocks](../s/stock.md), bonds, and currencies.
+1. **[Fear and Greed Index](../f/fear_and_greed_index.md)**: Developed by CNNMoney, this [index](../i/index_instrument.md) measures [market sentiment](../m/market_sentiment.md) on a scale from extreme fear to extreme greed, based on factors like [volatility](../v/volatility.md), stock price strength, and trading [volume](../v/volume.md).
+2. **VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md))**: Also known as the "fear gauge," the VIX measures implied [volatility](../v/volatility.md) and is often used as an [indicator](../i/indicator.md) of [market risk](../m/market_risk.md) and sentiment.
+3. **Sentix [Index](../i/index_instrument.md)**: This [index](../i/index_instrument.md) provides a comprehensive measure of [investor](../i/investor.md) sentiment across various [asset](../a/asset.md) classes like [stocks](../s/stock.md), bonds, and currencies.
 
 ### Challenges in Sentiment-Driven Trading
 

@@ -70,7 +70,7 @@ Analyzing [market capitalization](../m/market_capitalization.md) involves a comb
 This methodology involves evaluating a company's [financial statements](../f/financial_statements.md), including [income](../i/income.md) statements, balance sheets, and [cash flow](../c/cash_flow.md) statements, to determine its [intrinsic value](../i/intrinsic_value.md). Key metrics analyzed include [earnings](../e/earnings.md) per share (EPS), price-to-[earnings](../e/earnings.md) (P/E) ratio, [revenue](../r/revenue.md) growth, and [profit margins](../p/profit_margins_in_trading.md).
 
 ### **Technical Analysis**
-[Technical analysis](../t/technical_analysis.md) focuses on [historical price patterns](../h/historical_price_patterns.md) and trading [volume](../v/volume.md) to predict future price movements. Tools such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [candlestick patterns](../c/candlestick_patterns.md) are employed to identify trends and potential entry/exit points.
+[Technical analysis](../t/technical_analysis.md) focuses on [historical price patterns](../h/historical_price_patterns.md) and trading [volume](../v/volume.md) to predict future price movements. Tools such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [candlestick patterns](../c/candlestick_patterns.md) are employed to identify trends and potential entry/exit points.
 
 ### **Comparative Analysis**
 This involves comparing a company's [market capitalization](../m/market_capitalization.md) with its peers within the same [industry](../i/industry.md). It helps in understanding the company's [market](../m/market.md) position and relative [valuation](../v/valuation.md).

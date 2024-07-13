@@ -12,7 +12,7 @@ Understanding the different types of returns is essential for investors and trad
 
 ### Relative Return
 
-Relative return measures the performance of an investment compared to a [benchmark](../b/benchmark.md) or [index](../i/index.md). For example, if an investment returns 10% while a [benchmark](../b/benchmark.md) [index](../i/index.md) returns 8%, the relative return is 2%. This type of return helps investors understand whether their investment outperformed or underperformed the [market](../m/market.md).
+Relative return measures the performance of an investment compared to a [benchmark](../b/benchmark.md) or [index](../i/index_instrument.md). For example, if an investment returns 10% while a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) returns 8%, the relative return is 2%. This type of return helps investors understand whether their investment outperformed or underperformed the [market](../m/market.md).
 
 ### Annualized Return
 

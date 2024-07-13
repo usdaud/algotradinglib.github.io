@@ -1,6 +1,6 @@
 # Equity Swap
 
-An [equity](../e/equity.md) [swap](../s/swap.md) is a financial [derivative](../d/derivative.md) contract in which two parties agree to [exchange](../e/exchange.md) a series of cash flows or returns over a specific period of time. These cash flows are determined by a [notional principal amount](../n/notional_principal_amount.md), but the [principal](../p/principal.md) itself is not exchanged. Instead, the exchanged payments are based on the performance of an [equity](../e/equity.md) [asset](../a/asset.md) or an [equity](../e/equity.md) [index](../i/index.md) and a specified fixed or [floating interest rate](../f/floating_interest_rate.md).
+An [equity](../e/equity.md) [swap](../s/swap.md) is a financial [derivative](../d/derivative.md) contract in which two parties agree to [exchange](../e/exchange.md) a series of cash flows or returns over a specific period of time. These cash flows are determined by a [notional principal amount](../n/notional_principal_amount.md), but the [principal](../p/principal.md) itself is not exchanged. Instead, the exchanged payments are based on the performance of an [equity](../e/equity.md) [asset](../a/asset.md) or an [equity](../e/equity.md) [index](../i/index_instrument.md) and a specified fixed or [floating interest rate](../f/floating_interest_rate.md).
 
 ## Structure of an Equity Swap
 
@@ -12,7 +12,7 @@ The notional [principal](../p/principal.md) is the theoretical amount on which t
 
 ### Leg 1: Equity Leg
 
-This [leg](../l/leg.md) is linked to the performance of an [equity](../e/equity.md) [asset](../a/asset.md) or [equity](../e/equity.md) [index](../i/index.md). The total returns from this [equity](../e/equity.md) [asset](../a/asset.md) or [index](../i/index.md), including both dividends and [capital](../c/capital.md) gains or losses, are paid by one party to the other. The [equity](../e/equity.md) [asset](../a/asset.md) can be specific [stocks](../s/stock.md), a basket of [stocks](../s/stock.md), or a broad-based [equity](../e/equity.md) [index](../i/index.md) like the S&P 500.
+This [leg](../l/leg.md) is linked to the performance of an [equity](../e/equity.md) [asset](../a/asset.md) or [equity](../e/equity.md) [index](../i/index_instrument.md). The total returns from this [equity](../e/equity.md) [asset](../a/asset.md) or [index](../i/index_instrument.md), including both dividends and [capital](../c/capital.md) gains or losses, are paid by one party to the other. The [equity](../e/equity.md) [asset](../a/asset.md) can be specific [stocks](../s/stock.md), a basket of [stocks](../s/stock.md), or a broad-based [equity](../e/equity.md) [index](../i/index_instrument.md) like the S&P 500.
 
 ### Leg 2: Interest Leg
 
@@ -32,15 +32,15 @@ There are several types of [equity](../e/equity.md) swaps, each catering to vari
 
 ### Total Return Swap
 
-In a [total return swap](../t/total_return_swap.md), one party agrees to pay the [total return](../t/total_return.md) of the [equity](../e/equity.md) [asset](../a/asset.md) or [index](../i/index.md), including any dividends and [capital](../c/capital.md) appreciation, to the [counterparty](../c/counterparty.md). In [return](../r/return.md), the [counterparty](../c/counterparty.md) makes periodic fixed or floating [interest](../i/interest.md) payments. This type of [swap](../s/swap.md) allows one party to [gain](../g/gain.md) exposure to the [equity](../e/equity.md) [asset](../a/asset.md)'s performance without actually owning it.
+In a [total return swap](../t/total_return_swap.md), one party agrees to pay the [total return](../t/total_return.md) of the [equity](../e/equity.md) [asset](../a/asset.md) or [index](../i/index_instrument.md), including any dividends and [capital](../c/capital.md) appreciation, to the [counterparty](../c/counterparty.md). In [return](../r/return.md), the [counterparty](../c/counterparty.md) makes periodic fixed or floating [interest](../i/interest.md) payments. This type of [swap](../s/swap.md) allows one party to [gain](../g/gain.md) exposure to the [equity](../e/equity.md) [asset](../a/asset.md)'s performance without actually owning it.
 
 ### Price Return Swap
 
-Similar to a [total return swap](../t/total_return_swap.md), but the [payment](../p/payment.md) from the [equity](../e/equity.md) [leg](../l/leg.md) is based only on the price movement ([capital gain](../c/capital_gain.md) or loss) of the [equity](../e/equity.md) [asset](../a/asset.md) or [index](../i/index.md). Dividends are not considered in this structure. This [swap](../s/swap.md) is beneficial for parties interested solely in the price performance of the [equity](../e/equity.md) [asset](../a/asset.md).
+Similar to a [total return swap](../t/total_return_swap.md), but the [payment](../p/payment.md) from the [equity](../e/equity.md) [leg](../l/leg.md) is based only on the price movement ([capital gain](../c/capital_gain.md) or loss) of the [equity](../e/equity.md) [asset](../a/asset.md) or [index](../i/index_instrument.md). Dividends are not considered in this structure. This [swap](../s/swap.md) is beneficial for parties interested solely in the price performance of the [equity](../e/equity.md) [asset](../a/asset.md).
 
 ### Dividend Swap
 
-In a [dividend](../d/dividend.md) [swap](../s/swap.md), the exchanged payments are based on the dividends paid by an [equity](../e/equity.md) [asset](../a/asset.md) or [index](../i/index.md). One party pays the other an amount equivalent to the dividends received from holding the [underlying](../u/underlying.md) [equity](../e/equity.md) instruments, and in [return](../r/return.md), the [counterparty](../c/counterparty.md) pays an [interest rate](../i/interest_rate.md) based on the notional [principal](../p/principal.md).
+In a [dividend](../d/dividend.md) [swap](../s/swap.md), the exchanged payments are based on the dividends paid by an [equity](../e/equity.md) [asset](../a/asset.md) or [index](../i/index_instrument.md). One party pays the other an amount equivalent to the dividends received from holding the [underlying](../u/underlying.md) [equity](../e/equity.md) instruments, and in [return](../r/return.md), the [counterparty](../c/counterparty.md) pays an [interest rate](../i/interest_rate.md) based on the notional [principal](../p/principal.md).
 
 ## Applications of Equity Swaps
 
@@ -72,7 +72,7 @@ Despite their advantages, [equity](../e/equity.md) swaps come with a set of risk
 
 ### Market Risk
 
-The [value](../v/value.md) of the [equity](../e/equity.md) [leg](../l/leg.md) in an [equity](../e/equity.md) [swap](../s/swap.md) is inherently tied to the performance of the [underlying](../u/underlying.md) [equity](../e/equity.md) [asset](../a/asset.md) or [index](../i/index.md). This exposure introduces [market risk](../m/market_risk.md), as unfavorable movements in the [equity market](../e/equity_market.md) can result in significant financial losses.
+The [value](../v/value.md) of the [equity](../e/equity.md) [leg](../l/leg.md) in an [equity](../e/equity.md) [swap](../s/swap.md) is inherently tied to the performance of the [underlying](../u/underlying.md) [equity](../e/equity.md) [asset](../a/asset.md) or [index](../i/index_instrument.md). This exposure introduces [market risk](../m/market_risk.md), as unfavorable movements in the [equity market](../e/equity_market.md) can result in significant financial losses.
 
 ### Liquidity Risk
 

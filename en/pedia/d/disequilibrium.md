@@ -21,7 +21,7 @@ Disequilibrium arises when the forces of [supply](../s/supply.md) and [demand](.
 
 1. **Statistical [Arbitrage](../a/arbitrage.md)**:
    - **Pair Trading**: Involves the simultaneous purchase and [sale](../s/sale.md) of two assets that are historically correlated but have diverged in price.
-   - **[Index Arbitrage](../i/index_arbitrage.md)**: Exploits price differences between an [index](../i/index.md) and its constituent [stocks](../s/stock.md).
+   - **[Index Arbitrage](../i/index_arbitrage.md)**: Exploits price differences between an [index](../i/index_instrument.md) and its constituent [stocks](../s/stock.md).
 
 2. **[Momentum](../m/momentum.md) Strategies**:
    - Buy or sell assets based on recent price trends. For example, if an [asset](../a/asset.md)'s price is rising, a [momentum](../m/momentum.md) algorithm may continue to buy in anticipation that the price [will](../w/will.md) keep going up.

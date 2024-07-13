@@ -12,7 +12,7 @@ A Variable Coupon Renewable [Note](../n/note.md) (VCR) is a type of [debt instru
 
 The core attribute of VCRs is their variable [interest](../i/interest.md) rates. Unlike fixed-rate bonds, which [offer](../o/offer.md) predictable but unchanging [interest](../i/interest.md) payments, VCRs have adjustable rates that can better align with relative [market](../m/market.md) conditions. The variation can be calculated by:
 
-* **[Benchmark](../b/benchmark.md) [Index](../i/index.md):** Such as LIBOR (London Interbank Offered Rate) or SOFR (Secured Overnight [Financing](../f/financing.md) Rate).
+* **[Benchmark](../b/benchmark.md) [Index](../i/index_instrument.md):** Such as LIBOR (London Interbank Offered Rate) or SOFR (Secured Overnight [Financing](../f/financing.md) Rate).
 * **[Economic Indicators](../e/economic_indicators.md):** [Inflation](../i/inflation.md) rates, central [bank](../b/bank.md) [interest](../i/interest.md) rates, or other economic metrics.
 * **[Issuer](../i/issuer.md) and [Investor](../i/investor.md) Agreement:** Custom criteria set forth by the [issuer](../i/issuer.md) and accepted by the investors.
 

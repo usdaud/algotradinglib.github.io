@@ -5,7 +5,7 @@ The Korea [Exchange](../e/exchange.md) (KRX) is the sole securities [exchange](.
 KRX operates under the oversight of the Financial Services [Commission](../c/commission.md) (FSC) of South Korea, playing a crucial role in the financial [infrastructure](../i/infrastructure.md) of the country. Its main office is located in Busan, South Korea's second-largest city, with additional offices in Seoul.
 
 Key Components of Korea [Exchange](../e/exchange.md):
-1. **KOSPI [Market](../m/market.md)**: This is the main board of the Korea [Exchange](../e/exchange.md), which includes major [listed](../l/listed.md) companies in South Korea. KOSPI stands for Korean Composite Stock Price [Index](../i/index.md), representing the overall performance of the [exchange](../e/exchange.md). The KOSPI [index](../i/index.md) is one of the key indicators of the South Korean [economy](../e/economy.md).
+1. **KOSPI [Market](../m/market.md)**: This is the main board of the Korea [Exchange](../e/exchange.md), which includes major [listed](../l/listed.md) companies in South Korea. KOSPI stands for Korean Composite Stock Price [Index](../i/index_instrument.md), representing the overall performance of the [exchange](../e/exchange.md). The KOSPI [index](../i/index_instrument.md) is one of the key indicators of the South Korean [economy](../e/economy.md).
 
 2. **KOSDAQ [Market](../m/market.md)**: Short for Korean Securities Dealers Automated Quotations, this [market](../m/market.md) is designed for small to medium-sized businesses and startups. It is often compared to the [NASDAQ](../n/nasdaq.md) in the United States and provides a platform for young, high-growth potential companies to raise [capital](../c/capital.md).
 
@@ -30,13 +30,13 @@ KRX operates on a standard trading schedule from 9:00 AM to 3:30 PM Korea Standa
 
 ### Indexes
 
-1. **KOSPI [Index](../i/index.md)**: The KOSPI [index](../i/index.md) is a [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md) of all common [stocks](../s/stock.md) [listed](../l/listed.md) on the Korea [Exchange](../e/exchange.md). It serves as the [benchmark](../b/benchmark.md) [index](../i/index.md) for the South Korean [stock market](../s/stock_market.md).
+1. **KOSPI [Index](../i/index_instrument.md)**: The KOSPI [index](../i/index_instrument.md) is a [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md) of all common [stocks](../s/stock.md) [listed](../l/listed.md) on the Korea [Exchange](../e/exchange.md). It serves as the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) for the South Korean [stock market](../s/stock_market.md).
 
-2. **KOSDAQ [Index](../i/index.md)**: This [index](../i/index.md) specifically tracks the performance of all companies [listed](../l/listed.md) on the KOSDAQ [market](../m/market.md).
+2. **KOSDAQ [Index](../i/index_instrument.md)**: This [index](../i/index_instrument.md) specifically tracks the performance of all companies [listed](../l/listed.md) on the KOSDAQ [market](../m/market.md).
 
-3. **KOSPI 200**: This is a [derivative](../d/derivative.md) [index](../i/index.md) based on the top 200 companies in the KOSPI [market](../m/market.md), representing the overall movement and [liquidity](../l/liquidity.md) of major [stocks](../s/stock.md).
+3. **KOSPI 200**: This is a [derivative](../d/derivative.md) [index](../i/index_instrument.md) based on the top 200 companies in the KOSPI [market](../m/market.md), representing the overall movement and [liquidity](../l/liquidity.md) of major [stocks](../s/stock.md).
 
-4. **KRX 100**: An [index](../i/index.md) that measures the performance of the top 100 blue-chip companies [listed](../l/listed.md) on both KOSPI and KOSDAQ.
+4. **KRX 100**: An [index](../i/index_instrument.md) that measures the performance of the top 100 blue-chip companies [listed](../l/listed.md) on both KOSPI and KOSDAQ.
 
 ## Regulations and Compliance
 
@@ -69,11 +69,11 @@ KRX offers various investment vehicles, catering to different [investor](../i/in
 [Algorithmic trading](../a/accountability.md) has become increasingly prevalent on the KRX, with high-frequency trading (HFT) gaining traction due to the deployment of state-of-the-art [trading systems](../t/trading_systems.md) like EXTURE+. Firms engage in various algorithmic strategies including [arbitrage](../a/arbitrage.md), [pairs trading](../p/pairs_trading.md), and [trend following](../t/trend_following.md). The [exchange](../e/exchange.md) provides ample [liquidity](../l/liquidity.md) and low-latency [infrastructure](../i/infrastructure.md) to support such activities.
 
 ### Statistical Data
-As of the recent period, the KOSPI [index](../i/index.md) encompasses over 800 companies with a collective [market capitalization](../m/market_capitalization.md) exceeding $1.5 trillion USD. The KOSDAQ [market](../m/market.md) supports over 1,200 companies, emphasizing its role in the growth of South Korea’s tech and biotech sectors.
+As of the recent period, the KOSPI [index](../i/index_instrument.md) encompasses over 800 companies with a collective [market capitalization](../m/market_capitalization.md) exceeding $1.5 trillion USD. The KOSDAQ [market](../m/market.md) supports over 1,200 companies, emphasizing its role in the growth of South Korea’s tech and biotech sectors.
 
 ## Sustainability and ESG
 
-KRX is committed to promoting Environmental, Social, and Governance (ESG) principles in corporate practices and [investor](../i/investor.md) selections. It has introduced various ESG reporting guidelines and indexes, such as the KRX ESG Leaders [index](../i/index.md), to facilitate sustainable investment.
+KRX is committed to promoting Environmental, Social, and Governance (ESG) principles in corporate practices and [investor](../i/investor.md) selections. It has introduced various ESG reporting guidelines and indexes, such as the KRX ESG Leaders [index](../i/index_instrument.md), to facilitate sustainable investment.
 
 ## Conclusion
 

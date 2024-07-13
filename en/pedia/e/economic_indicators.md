@@ -8,13 +8,13 @@ Economic indicators are vital [statistics](../s/statistics.md) about economic ac
 [Stock market](../s/stock_market.md) returns are often considered a [leading indicator](../l/leading_indicator.md) because declines in stock prices suggest future economic downturns, while increases are associated with economic improvement. Investors react to economic data, company performance, and global events, making [stock market](../s/stock_market.md) performance a useful early gauge of economic direction.
 
 **2. [Manufacturing](../m/manufacturing.md) Activity**
-The Purchasing Managers’ [Index](../i/index.md) (PMI) is a widely recognized [indicator](../i/indicator.md) that captures [manufacturing](../m/manufacturing.md) activity. An [index](../i/index.md) above 50 denotes [expansion](../e/expansion.md), while below 50 indicates contraction. [Manufacturing](../m/manufacturing.md) is a critical economic component, often linked closely to overall economic health.
+The Purchasing Managers’ [Index](../i/index_instrument.md) (PMI) is a widely recognized [indicator](../i/indicator.md) that captures [manufacturing](../m/manufacturing.md) activity. An [index](../i/index_instrument.md) above 50 denotes [expansion](../e/expansion.md), while below 50 indicates contraction. [Manufacturing](../m/manufacturing.md) is a critical economic component, often linked closely to overall economic health.
 
 **3. Building Permits**
 Building permits data reflect future construction activity. A higher number of permits suggests growth in the housing [market](../m/market.md) and, consequently, economic [expansion](../e/expansion.md). Conversely, a drop could indicate an economic slowdown.
 
-**4. Consumer Confidence [Index](../i/index.md)**
-The Consumer Confidence [Index](../i/index.md) (CCI) measures the level of consumer confidence in economic activities. High confidence suggests that consumers [will](../w/will.md) spend more, boosting economic activities, while low confidence indicates reduced spending and potential economic slowdown.
+**4. Consumer Confidence [Index](../i/index_instrument.md)**
+The Consumer Confidence [Index](../i/index_instrument.md) (CCI) measures the level of consumer confidence in economic activities. High confidence suggests that consumers [will](../w/will.md) spend more, boosting economic activities, while low confidence indicates reduced spending and potential economic slowdown.
 
 ### Coincident Indicators
 
@@ -32,7 +32,7 @@ Employment levels reflect the current state of the [labor market](../l/labor_mar
 **1. [Unemployment Rate](../u/unemployment_rate.md)**
 The [unemployment rate](../u/unemployment_rate.md) is often considered a [lagging indicator](../l/lagging_indicator.md) because it typically moves after the [economy](../e/economy.md) has already begun a [trend](../t/trend.md) of either improvement or decline. High [unemployment](../u/unemployment.md) rates usually persist even after [economic recovery](../e/economic_recovery.md) starts.
 
-**2. Consumer Price [Index](../i/index.md) (CPI)**
+**2. Consumer Price [Index](../i/index_instrument.md) (CPI)**
 The CPI measures changes in the [price level](../p/price_level.md) of a basket of [consumer goods](../c/consumer_goods.md) and services. It is used to assess [inflation](../i/inflation.md). [Inflation](../i/inflation.md) often lags other economic trends but is crucial for assessing economic health.
 
 **3. [Business](../b/business.md) Inventories**

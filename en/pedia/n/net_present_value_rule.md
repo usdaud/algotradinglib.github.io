@@ -81,7 +81,7 @@ While NPV is a powerful tool, it is not without limitations:
 1. **[Forecasting](../f/forecasting.md) Accuracy**: The reliability of NPV depends on the accuracy of future [cash flow](../c/cash_flow.md) projections, which can be challenging to predict.
 2. **[Discount Rate](../d/discount_rate.md) Selection**: Choosing an inappropriate [discount rate](../d/discount_rate.md) can lead to misleading NPV results.
 3. **Ignores Non-Financial Factors**: NPV focuses solely on financial metrics and may overlook qualitative factors such as strategic alignment or [market](../m/market.md) conditions.
-4. **[Capital](../c/capital.md) Rationing**: In situations where investment [capital](../c/capital.md) is limited, NPV may not always indicate which combination of projects [will](../w/will.md) maximize [value](../v/value.md). Alternative methods like the profitability [index](../i/index.md) (PI) may be required.
+4. **[Capital](../c/capital.md) Rationing**: In situations where investment [capital](../c/capital.md) is limited, NPV may not always indicate which combination of projects [will](../w/will.md) maximize [value](../v/value.md). Alternative methods like the profitability [index](../i/index_instrument.md) (PI) may be required.
 
 ## Conclusion
 

@@ -37,7 +37,7 @@ In fundamental [indexation](../i/indexation.md), [stocks](../s/stock.md) are sel
 
 ### Rebalancing
 
-Regular [rebalancing](../r/rebalancing.md) is a critical element of fundamental [indexation](../i/indexation.md). It involves adjusting the weights of the [index](../i/index.md) constituents to reflect current fundamental metrics. This process ensures that the [index](../i/index.md) can stay true to its goal of capturing the economic footprint of firms. [Rebalancing](../r/rebalancing.md) criteria and frequency can vary but typically occur annually or semi-annually.
+Regular [rebalancing](../r/rebalancing.md) is a critical element of fundamental [indexation](../i/indexation.md). It involves adjusting the weights of the [index](../i/index_instrument.md) constituents to reflect current fundamental metrics. This process ensures that the [index](../i/index_instrument.md) can stay true to its goal of capturing the economic footprint of firms. [Rebalancing](../r/rebalancing.md) criteria and frequency can vary but typically occur annually or semi-annually.
 
 ## Benefits of Fundamental Indexation
 
@@ -61,11 +61,11 @@ By focusing on [underlying](../u/underlying.md) [business](../b/business.md) fun
 
 ### Subjectivity in Metrics
 
-One criticism of fundamental [indexation](../i/indexation.md) is the subjectivity involved in selecting and weighing the fundamental metrics. Different methodologies can lead to varied [index](../i/index.md) compositions and performance. The process involves assumptions and [judgment](../j/judgment.md) calls that could affect the outcomes.
+One criticism of fundamental [indexation](../i/indexation.md) is the subjectivity involved in selecting and weighing the fundamental metrics. Different methodologies can lead to varied [index](../i/index_instrument.md) compositions and performance. The process involves assumptions and [judgment](../j/judgment.md) calls that could affect the outcomes.
 
 ### Accounting Practices
 
-Fundamental metrics are derived from [accounting](../a/accounting.md) data, which can differ significantly based on [accounting](../a/accounting.md) standards and practices. Discrepancies in how companies report [earnings](../e/earnings.md), [book value](../b/book_value.md), or other metrics can affect the consistency and reliability of the [index](../i/index.md).
+Fundamental metrics are derived from [accounting](../a/accounting.md) data, which can differ significantly based on [accounting](../a/accounting.md) standards and practices. Discrepancies in how companies report [earnings](../e/earnings.md), [book value](../b/book_value.md), or other metrics can affect the consistency and reliability of the [index](../i/index_instrument.md).
 
 ### Market Timing and Turnover
 
@@ -75,7 +75,7 @@ The need for periodic [rebalancing](../r/rebalancing.md) to reflect updated fund
 
 ### Research Affiliates
 
-One of the most prominent advocates of fundamental [indexation](../i/indexation.md) is Research Affiliates, founded by Rob Arnott. The company has been at the forefront of developing and promoting fundamentally [weighted](../w/weighted.md) indices. Research Affiliates' RAFI (Research Affiliates Fundamental [Index](../i/index.md)) series is a pioneering example of this approach, providing investors an alternative to traditional [market](../m/market.md)-cap [weighted](../w/weighted.md) indices.
+One of the most prominent advocates of fundamental [indexation](../i/indexation.md) is Research Affiliates, founded by Rob Arnott. The company has been at the forefront of developing and promoting fundamentally [weighted](../w/weighted.md) indices. Research Affiliates' RAFI (Research Affiliates Fundamental [Index](../i/index_instrument.md)) series is a pioneering example of this approach, providing investors an alternative to traditional [market](../m/market.md)-cap [weighted](../w/weighted.md) indices.
 
 [Research Affiliates](https://www.researchaffiliates.com)
 
@@ -87,7 +87,7 @@ WisdomTree is another notable name in the space, [offering](../o/offering.md) va
 
 ### Charles Schwab
 
-[Charles Schwab](../c/charles_schwab.md) offers fundamentally [weighted index funds](../w/weighted_index_funds.md) under their Fundamental [Index](../i/index.md) Funds series. These funds use fundamental metrics to determine the [index](../i/index.md) composition and weightings, providing investors with diversified exposure based on economic fundamentals.
+[Charles Schwab](../c/charles_schwab.md) offers fundamentally [weighted index funds](../w/weighted_index_funds.md) under their Fundamental [Index](../i/index_instrument.md) Funds series. These funds use fundamental metrics to determine the [index](../i/index_instrument.md) composition and weightings, providing investors with diversified exposure based on economic fundamentals.
 
 [Charles Schwab](https://www.schwab.com)
 
@@ -125,7 +125,7 @@ Advancements in [data analytics](../d/data_analytics.md) and financial technolog
 
 Environmental, Social, and Governance (ESG) considerations are increasingly being integrated into fundamental [indexation](../i/indexation.md). This [trend](../t/trend.md) is driven by the growing [demand](../d/demand.md) for sustainable [investing](../i/investing.md) and the recognition that ESG factors can have a material impact on long-term [financial performance](../f/financial_performance.md).
 
-By combining ESG metrics with traditional financial fundamentals, [index](../i/index.md) providers can [offer](../o/offer.md) products that align with both financial and ethical investment goals.
+By combining ESG metrics with traditional financial fundamentals, [index](../i/index_instrument.md) providers can [offer](../o/offer.md) products that align with both financial and ethical investment goals.
 
 ## Conclusion
 

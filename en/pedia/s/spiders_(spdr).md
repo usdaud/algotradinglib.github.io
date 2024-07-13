@@ -1,6 +1,6 @@
 # SPDRs (Spiders)
 
-SPDRs, also known as "Spiders," stand for Standard & Poor's Depositary [Receipts](../r/receipt.md). They are a type of [Exchange](../e/exchange.md) Traded [Fund](../f/fund.md) (ETF), which has become an indispensable tool for both retail and institutional investors. SPDRs were invented in 1993 by Nathan Most and Steven Bloom at the American Stock [Exchange](../e/exchange.md) as a way to [offer](../o/offer.md) investors a more convenient method of trading the entire S&P 500 [Index](../i/index.md). Let's delve into the various aspects of SPDRs, their importance, structure, benefits, and associated risks.
+SPDRs, also known as "Spiders," stand for Standard & Poor's Depositary [Receipts](../r/receipt.md). They are a type of [Exchange](../e/exchange.md) Traded [Fund](../f/fund.md) (ETF), which has become an indispensable tool for both retail and institutional investors. SPDRs were invented in 1993 by Nathan Most and Steven Bloom at the American Stock [Exchange](../e/exchange.md) as a way to [offer](../o/offer.md) investors a more convenient method of trading the entire S&P 500 [Index](../i/index_instrument.md). Let's delve into the various aspects of SPDRs, their importance, structure, benefits, and associated risks.
 
 ## Terminology and Definitions
 
@@ -15,16 +15,16 @@ Depositary [receipts](../r/receipt.md) are financial instruments issued by banks
 
 ## Structural Composition
 
-The [fund](../f/fund.md)'s structure is designed to mimic the S&P 500 [Index](../i/index.md) by holding all or most of the [stocks](../s/stock.md) that make up the [index](../i/index.md) in the same proportions. Here are some of the key components in understanding the structure of SPDRs:
+The [fund](../f/fund.md)'s structure is designed to mimic the S&P 500 [Index](../i/index_instrument.md) by holding all or most of the [stocks](../s/stock.md) that make up the [index](../i/index_instrument.md) in the same proportions. Here are some of the key components in understanding the structure of SPDRs:
 
 ### Units of Trade
-SPDRs are traded in units, with each unit representing a fraction of the [underlying](../u/underlying.md) [index](../i/index.md). This characteristic allows investors to [gain](../g/gain.md) exposure to a broad [market](../m/market.md) or sector without needing to buy individual [stocks](../s/stock.md).
+SPDRs are traded in units, with each unit representing a fraction of the [underlying](../u/underlying.md) [index](../i/index_instrument.md). This characteristic allows investors to [gain](../g/gain.md) exposure to a broad [market](../m/market.md) or sector without needing to buy individual [stocks](../s/stock.md).
 
 ### Creation and Redemption Process
 Authorized participants, usually large institutional entities, create or redeem units of SPDRs by providing the [underlying](../u/underlying.md) basket of [stocks](../s/stock.md) or cash equivalent in [exchange](../e/exchange.md) for units of the ETF. This process helps to maintain ETF prices in line with the [value](../v/value.md) of the [underlying](../u/underlying.md) assets.
 
 ### Management
-SPDRs are managed passively and typically have lower [expense](../e/expense.md) ratios compared to actively managed mutual funds. They aim to mirror the performance of the [index](../i/index.md) they represent.
+SPDRs are managed passively and typically have lower [expense](../e/expense.md) ratios compared to actively managed mutual funds. They aim to mirror the performance of the [index](../i/index_instrument.md) they represent.
 
 ### Ticker Symbol
 The primary SPDR ETF tracking the S&P 500 trades under the [ticker symbol](../t/ticker_symbol.md) SPY. It is one of the oldest and most traded ETFs globally.
@@ -52,7 +52,7 @@ Because SPDRs are diversified, they can help in [risk management](../r/risk_mana
 Like all investments in equities, SPDRs are subject to [market risk](../m/market_risk.md), meaning they can lose [value](../v/value.md) if the [market](../m/market.md) declines.
 
 ### Tracking Error
-Even though SPDRs aim to replicate the performance of the [underlying](../u/underlying.md) [index](../i/index.md), small discrepancies can arise. These discrepancies, known as tracking errors, can be due to various factors like management fees, timing, and operational inefficiencies.
+Even though SPDRs aim to replicate the performance of the [underlying](../u/underlying.md) [index](../i/index_instrument.md), small discrepancies can arise. These discrepancies, known as tracking errors, can be due to various factors like management fees, timing, and operational inefficiencies.
 
 ### Liquidity Risk
 Although generally highly [liquid](../l/liquid.md), there could be situations where the [market](../m/market.md) becomes less [liquid](../l/liquid.md), affecting the ease of trading SPDRs.

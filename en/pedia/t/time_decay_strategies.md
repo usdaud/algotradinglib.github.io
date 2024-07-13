@@ -88,7 +88,7 @@ A [trader](../t/trader.md) devises an [iron condor](../i/iron_condor.md) strateg
 - Buy a [call option](../c/call_option.md) at a [strike price](../s/strike_price.md) of 4000
 - Buy a [put option](../p/put.md) at a [strike price](../s/strike_price.md) of 3800
 
-Each option has a one-month expiry. The total [premium](../p/premium.md) collected is $1500. As time progresses, the [extrinsic value](../e/extrinsic_value.md) of the [options](../o/options.md) decreases, and if the S&P 500 [index](../i/index.md) remains within the 3850-3950 [range](../r/range.md), all [options](../o/options.md) expire worthless, allowing the [trader](../t/trader.md) to keep the full [premium](../p/premium.md) collected initially.
+Each option has a one-month expiry. The total [premium](../p/premium.md) collected is $1500. As time progresses, the [extrinsic value](../e/extrinsic_value.md) of the [options](../o/options.md) decreases, and if the S&P 500 [index](../i/index_instrument.md) remains within the 3850-3950 [range](../r/range.md), all [options](../o/options.md) expire worthless, allowing the [trader](../t/trader.md) to keep the full [premium](../p/premium.md) collected initially.
 
 ## Conclusion
 

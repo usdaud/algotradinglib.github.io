@@ -4,7 +4,7 @@ In the realm of [financial markets](../f/financial_market.md) and investment str
 
 ## Understanding Beta in Finance
 
-To grasp the nuances of a zero-[beta](../b/beta.md) portfolio, it's essential first to understand what [beta](../b/beta.md) denotes in [finance](../f/finance.md). [Beta](../b/beta.md) (`β`) is a measure of an investment's [volatility](../v/volatility.md) in relation to the broader [market](../m/market.md), typically represented by an [index](../i/index.md) like the S&P 500.
+To grasp the nuances of a zero-[beta](../b/beta.md) portfolio, it's essential first to understand what [beta](../b/beta.md) denotes in [finance](../f/finance.md). [Beta](../b/beta.md) (`β`) is a measure of an investment's [volatility](../v/volatility.md) in relation to the broader [market](../m/market.md), typically represented by an [index](../i/index_instrument.md) like the S&P 500.
 
 - **β > 1**: The [security](../s/security.md) is more volatile than the [market](../m/market.md).
 - **β < 1**: The [security](../s/security.md) is less volatile than the [market](../m/market.md).

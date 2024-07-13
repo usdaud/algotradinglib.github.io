@@ -20,7 +20,7 @@ K = 2 / (n + 1)
 
 ### Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. Oscillating between 0 and 100, RSI is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. Oscillating between 0 and 100, RSI is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
 ```markdown
 RSI = 100 - (100 / (1 + RS))
 RS = Average [Gain](../g/gain.md) / Average Loss

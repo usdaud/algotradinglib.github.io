@@ -8,25 +8,25 @@ The Korean Composite Stock Price Indexes (KOSPI) represent the [principal](../p/
 
 ### Origin and Development
 
-The KOSPI was first introduced on January 4, 1983, at a base [value](../v/value.md) of 100. It was created as a way to aggregate and reflect the changes in the stock prices of the [listed](../l/listed.md) companies in South Korea. This [index](../i/index.md) quickly became an important [economic indicator](../e/economic_indicator.md), used by policymakers, analysts, and investors to gauge the health and development of the national [economy](../e/economy.md).
+The KOSPI was first introduced on January 4, 1983, at a base [value](../v/value.md) of 100. It was created as a way to aggregate and reflect the changes in the stock prices of the [listed](../l/listed.md) companies in South Korea. This [index](../i/index_instrument.md) quickly became an important [economic indicator](../e/economic_indicator.md), used by policymakers, analysts, and investors to gauge the health and development of the national [economy](../e/economy.md).
 
 ### Major Milestones
 
 KOSPI has witnessed numerous milestones, reflective of South Korea's economic transformations:
-- **1987**: The [index](../i/index.md) closed above 1000 points for the first time.
+- **1987**: The [index](../i/index_instrument.md) closed above 1000 points for the first time.
 - **1997-1998**: Southeast [Asian financial crisis](../a/asian_financial_crisis.md) causes massive [volatility](../v/volatility.md).
-- **2008**: Global [financial crisis](../f/financial_crisis.md) impacts the [index](../i/index.md) significantly.
+- **2008**: Global [financial crisis](../f/financial_crisis.md) impacts the [index](../i/index_instrument.md) significantly.
 - **2021**: KOSPI reached a historical high.
 
 ## Composition and Calculation
 
 ### Constituents
 
-The KOSPI includes companies from a broad [range](../r/range.md) of industries such as technology, [finance](../f/finance.md), retail, and [manufacturing](../m/manufacturing.md), with key players like Samsung Electronics, Hyundai, and SK Hynix representing a substantial portion of the [index](../i/index.md)'s [market capitalization](../m/market_capitalization.md).
+The KOSPI includes companies from a broad [range](../r/range.md) of industries such as technology, [finance](../f/finance.md), retail, and [manufacturing](../m/manufacturing.md), with key players like Samsung Electronics, Hyundai, and SK Hynix representing a substantial portion of the [index](../i/index_instrument.md)'s [market capitalization](../m/market_capitalization.md).
 
 ### Methodology
 
-The KOSPI is a [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md). This means that each constituent stock is [weighted](../w/weighted.md) according to its [market capitalization](../m/market_capitalization.md), calculated by multiplying the share price by the number of outstanding [shares](../s/shares.md). The formula for calculating the [index](../i/index.md) [value](../v/value.md) is:
+The KOSPI is a [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md). This means that each constituent stock is [weighted](../w/weighted.md) according to its [market capitalization](../m/market_capitalization.md), calculated by multiplying the share price by the number of outstanding [shares](../s/shares.md). The formula for calculating the [index](../i/index_instrument.md) [value](../v/value.md) is:
 
 \[ \text{KOSPI} = \left( \frac{\sum (\text{Current [Market](../m/market.md) Cap of Constituents})}{\sum (\text{Base [Market](../m/market.md) Cap of Constituents})} \right) \times 100 \]
 
@@ -34,7 +34,7 @@ The KOSPI is a [market capitalization](../m/market_capitalization.md)-[weighted]
 
 ### KOSPI 200
 
-The KOSPI 200 is a sub-[index](../i/index.md) of the KOSPI, comprising 200 of the largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md). It is notably used as the [underlying](../u/underlying.md) [index](../i/index.md) for various [derivative](../d/derivative.md) products like [futures](../f/futures.md) and [options](../o/options.md). The KOSPI 200 serves as a leading [benchmark](../b/benchmark.md) and plays a critical role in the formulation of investment strategies.
+The KOSPI 200 is a sub-[index](../i/index_instrument.md) of the KOSPI, comprising 200 of the largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md). It is notably used as the [underlying](../u/underlying.md) [index](../i/index_instrument.md) for various [derivative](../d/derivative.md) products like [futures](../f/futures.md) and [options](../o/options.md). The KOSPI 200 serves as a leading [benchmark](../b/benchmark.md) and plays a critical role in the formulation of investment strategies.
 
 ### KOSPI 50, KOSPI 100
 
@@ -60,7 +60,7 @@ Significant participants in the trading activities surrounding KOSPI indices inc
 
 ### Korea Exchange (KRX)
 
-The Korea [Exchange](../e/exchange.md) operates the KOSPI and serves as the central marketplace for trading securities in South Korea. It provides various services to ensure [market](../m/market.md) integrity, including the regulation of trading activities and implementation of the KOSPI [index](../i/index.md).
+The Korea [Exchange](../e/exchange.md) operates the KOSPI and serves as the central marketplace for trading securities in South Korea. It provides various services to ensure [market](../m/market.md) integrity, including the regulation of trading activities and implementation of the KOSPI [index](../i/index_instrument.md).
 
 **Website**: [krx.co.kr](https://www.krx.co.kr)
 

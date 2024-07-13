@@ -33,7 +33,7 @@ The weights typically decrease linearly over time, ensuring that recent prices h
 WMAs are frequently used to identify trends by comparing short-term WMAs with long-term WMAs. For instance, a common [trend](../t/trend.md)-following strategy involves buying when a short-term WMA crosses above a long-term WMA and selling when the short-term WMA crosses below the long-term WMA.
 
 ### Signal Generation
-WMAs are used in various signal generation techniques. In conjunction with other indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD), WMAs can generate more [robust](../r/robust.md) [trading signals](../t/trading_signals.md).
+WMAs are used in various signal generation techniques. In conjunction with other indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD), WMAs can generate more [robust](../r/robust.md) [trading signals](../t/trading_signals.md).
 
 ### Smoothing Data
 In algo trading, WMAs are used to smooth data and reduce the [noise](../n/noise.md) in price charts. This is particularly helpful for algorithmic models that rely on clean, [trend](../t/trend.md)-following data to make predictions.

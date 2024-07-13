@@ -8,7 +8,7 @@ The concept of a High-Water Mark (HWM) is pivotal in the realm of trading, parti
 
 2. **[Investor](../i/investor.md) Protection**: By implementing a HWM, investors are protected from paying performance fees during periods of poor performance or recovery from losses. It aligns the interests of the [fund](../f/fund.md) managers with those of the investors, encouraging long-term performance over short-term gains.
 
-3. **Comparison with Other Benchmarks**: Unlike relative benchmarks that compare a [fund](../f/fund.md)'s performance against an external [index](../i/index.md), the HWM is an absolute [benchmark](../b/benchmark.md). It is solely concerned with the [fund](../f/fund.md)'s historical performance.
+3. **Comparison with Other Benchmarks**: Unlike relative benchmarks that compare a [fund](../f/fund.md)'s performance against an external [index](../i/index_instrument.md), the HWM is an absolute [benchmark](../b/benchmark.md). It is solely concerned with the [fund](../f/fund.md)'s historical performance.
 
 ### Calculation of High-Water Mark
 

@@ -62,7 +62,7 @@ Advanced [portfolio management](../p/portfolio_management.md) systems are essent
 
 ### Arbitrage
 
-[Arbitrage](../a/arbitrage.md) strategies exploit price differences between related instruments or markets. These can include statistical [arbitrage](../a/arbitrage.md), [pairs trading](../p/pairs_trading.md), or [index](../i/index.md) [arbitrage](../a/arbitrage.md). Effective position management in [arbitrage](../a/arbitrage.md) requires precise synchronization and calibration of positions to minimize [risk](../r/risk.md) and maximize profits.
+[Arbitrage](../a/arbitrage.md) strategies exploit price differences between related instruments or markets. These can include statistical [arbitrage](../a/arbitrage.md), [pairs trading](../p/pairs_trading.md), or [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md). Effective position management in [arbitrage](../a/arbitrage.md) requires precise synchronization and calibration of positions to minimize [risk](../r/risk.md) and maximize profits.
 
 ## Tools and Software for Position Management
 

@@ -24,7 +24,7 @@ The [central limit theorem](../c/central_limit_theorem_in_trading.md) states tha
 
 Algorithmic traders often need to verify whether their [trading strategies](../t/trading_strategies.md) [yield](../y/yield.md) statistically significant returns. By using the [Z-test](../z/z-test_in_trading.md), traders can determine if the backtested performance of their strategies is significantly different from a chosen [benchmark](../b/benchmark.md) or the [risk](../r/risk.md)-free rate.
 
-For instance, if a [trading strategy](../t/trading_strategy.md) is designed to [outperform](../o/outperform.md) the S&P 500 [index](../i/index.md), a [trader](../t/trader.md) can collect daily returns from both the [trading strategy](../t/trading_strategy.md) and the S&P 500 over a period. Using these returns, they can perform a [Z-test](../z/z-test_in_trading.md) to determine if the strategy's mean [return](../r/return.md) significantly exceeds the mean [return](../r/return.md) of the S&P 500.
+For instance, if a [trading strategy](../t/trading_strategy.md) is designed to [outperform](../o/outperform.md) the S&P 500 [index](../i/index_instrument.md), a [trader](../t/trader.md) can collect daily returns from both the [trading strategy](../t/trading_strategy.md) and the S&P 500 over a period. Using these returns, they can perform a [Z-test](../z/z-test_in_trading.md) to determine if the strategy's mean [return](../r/return.md) significantly exceeds the mean [return](../r/return.md) of the S&P 500.
 
 ### Event Studies
 

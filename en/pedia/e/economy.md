@@ -18,7 +18,7 @@ The **Economy** refers to the system by which goods and services are produced, d
 1. **Gross Domestic Product (GDP)**: The total [value](../v/value.md) of all goods and services produced within a country over a specific period. It is a key [indicator](../i/indicator.md) of economic performance.
 2. **[Inflation](../i/inflation.md)**: The rate at which the general level of prices for goods and services is rising, eroding [purchasing power](../p/purchasing_power.md).
 3. **[Unemployment Rate](../u/unemployment_rate.md)**: The percentage of the labor force that is jobless and actively seeking employment.
-4. **Consumer Price [Index](../i/index.md) (CPI)**: A measure that examines the average change over time in the prices paid by consumers for a [basket of goods](../b/basket_of_goods.md) and services.
+4. **Consumer Price [Index](../i/index_instrument.md) (CPI)**: A measure that examines the average change over time in the prices paid by consumers for a [basket of goods](../b/basket_of_goods.md) and services.
 
 ## Economic Theories
 1. **[Classical Economics](../c/classical_economics.md)**: Founded by Adam Smith, this theory emphasizes free markets, competition, and [limited government](../l/limited_government.md) intervention.

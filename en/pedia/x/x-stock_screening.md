@@ -10,7 +10,7 @@ Data is the foundation of any stock screening process. The accuracy, completenes
 
 - **Historical Price Data**: Information on past stock performance.
 - **Fundamental Data**: Metrics such as [earnings](../e/earnings.md), [revenue](../r/revenue.md), P/E ratio, and [market](../m/market.md) cap.
-- **[Technical Indicators](../t/technical_indicators.md)**: Measures derived from price and [volume](../v/volume.md) information, like moving averages and [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI).
+- **[Technical Indicators](../t/technical_indicators.md)**: Measures derived from price and [volume](../v/volume.md) information, like moving averages and [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI).
 - **[Alternative Data](../a/alternative_data.md)**: [Social media sentiment](../s/social_media_sentiment.md), news articles, and other non-traditional data points.
 
 For example, services like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and specialized platforms like Koyfin (https://www.koyfin.com) or [Alpha](../a/alpha.md) Vantage (https://www.alphavantage.co) provide extensive datasets that can be used for stock screening.

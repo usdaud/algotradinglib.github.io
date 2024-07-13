@@ -48,7 +48,7 @@ Traders often use additional [technical indicators](../t/technical_indicator.md)
 
 1. **[Volume Analysis](../v/volume_analysis.md):** A surge in [volume](../v/volume.md) during the [breakout](../b/breakout.md) indicates strong conviction among traders.
 2. **Moving Averages:** Moving averages can help confirm the direction of the [trend](../t/trend.md). If the price is below major moving averages (like the 50-day or 200-day), it adds to the bearish outlook.
-3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** RSI can help gauge whether the [security](../s/security.md) is [oversold](../o/oversold.md) or [overbought](../o/overbought.md), providing additional context for the [breakout](../b/breakout.md).
+3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** RSI can help gauge whether the [security](../s/security.md) is [oversold](../o/oversold.md) or [overbought](../o/overbought.md), providing additional context for the [breakout](../b/breakout.md).
 
 ## Reliability and Considerations
 

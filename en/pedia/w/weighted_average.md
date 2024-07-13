@@ -39,7 +39,7 @@ Therefore, the portfolio’s [weighted](../w/weighted.md) [average return](../a/
 
 ## Applications in Finance
 
-[Weighted averages](../w/weighted_averages_in_trading.md) find applications in various financial scenarios including [portfolio management](../p/par.md), calculation of averages, [index](../i/index.md) building, and [risk](../r/risk.md) assessment.
+[Weighted averages](../w/weighted_averages_in_trading.md) find applications in various financial scenarios including [portfolio management](../p/par.md), calculation of averages, [index](../i/index_instrument.md) building, and [risk](../r/risk.md) assessment.
 
 ### Portfolio Management
 
@@ -65,7 +65,7 @@ The [weighted](../w/weighted.md) average [expected return](../e/expected_return.
 
 #### Example
 
-The S&P 500 is a [market](../m/market.md)-[value](../v/value.md)-[weighted](../w/weighted.md) [index](../i/index.md). This means each stock’s weight in the [index](../i/index.md) is based on its [market capitalization](../m/market_capitalization.md). A company with a larger [market capitalization](../m/market_capitalization.md) [will](../w/will.md) have greater influence on the [index](../i/index.md)’s performance.
+The S&P 500 is a [market](../m/market.md)-[value](../v/value.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md). This means each stock’s weight in the [index](../i/index_instrument.md) is based on its [market capitalization](../m/market_capitalization.md). A company with a larger [market capitalization](../m/market_capitalization.md) [will](../w/will.md) have greater influence on the [index](../i/index_instrument.md)’s performance.
 
 ### Weighted Average Cost of Capital (WACC)
 
@@ -130,6 +130,6 @@ Where Cov(A, B) is the [covariance](../c/covariance.md) between the returns of a
 
 ## Conclusion
 
-[Weighted averages](../w/weighted_averages_in_trading.md) are a powerful statistical tool widely used in [finance](../f/finance.md), [economics](../e/economics.md), and many other fields. They provide a nuanced way to understand data by [accounting](../a/accounting.md) for the varying importance of different elements. Whether used in [portfolio management](../p/par.md), [index](../i/index.md) building, or [algorithmic trading](../a/accountability.md), [weighted averages](../w/weighted_averages_in_trading.md) [offer](../o/offer.md) a level of precision and relevance that simple averages cannot achieve. Understanding how to calculate and apply them effectively can significantly enhance analytical and decision-making capabilities in various financial contexts.
+[Weighted averages](../w/weighted_averages_in_trading.md) are a powerful statistical tool widely used in [finance](../f/finance.md), [economics](../e/economics.md), and many other fields. They provide a nuanced way to understand data by [accounting](../a/accounting.md) for the varying importance of different elements. Whether used in [portfolio management](../p/par.md), [index](../i/index_instrument.md) building, or [algorithmic trading](../a/accountability.md), [weighted averages](../w/weighted_averages_in_trading.md) [offer](../o/offer.md) a level of precision and relevance that simple averages cannot achieve. Understanding how to calculate and apply them effectively can significantly enhance analytical and decision-making capabilities in various financial contexts.
 
 For further details and practical tools, you can explore financial platforms like **[Bloomberg](https://www.bloomberg.com/)** and **[NYU Stern School of Business](https://www.stern.nyu.edu/faculty-research/centers-initiatives/volatility-institute)**. These resources provide a [wealth](../w/wealth.md) of information and [data analytics](../d/data_analytics.md) tools that incorporate [weighted averages](../w/weighted_averages_in_trading.md) across a wide [range](../r/range.md) of financial applications.

@@ -17,9 +17,9 @@ Several methods can be employed for [inflation](../i/inflation.md) [accounting](
 
 ### Current Purchasing Power (CPP) Method
 
-The Current [Purchasing Power](../p/purchasing_power.md) (CPP) method involves adjusting [financial statements](../f/financial_statements.md) to reflect changes in the general [price level](../p/price_level.md). This is achieved by converting historical costs into current prices using a price [index](../i/index.md). The key steps in this method include:
+The Current [Purchasing Power](../p/purchasing_power.md) (CPP) method involves adjusting [financial statements](../f/financial_statements.md) to reflect changes in the general [price level](../p/price_level.md). This is achieved by converting historical costs into current prices using a price [index](../i/index_instrument.md). The key steps in this method include:
 
-- **[Index](../i/index.md) Selection**: Choosing an appropriate price [index](../i/index.md) that reflects the average change in prices across the [economy](../e/economy.md).
+- **[Index](../i/index_instrument.md) Selection**: Choosing an appropriate price [index](../i/index_instrument.md) that reflects the average change in prices across the [economy](../e/economy.md).
 - **Adjustment of Items**: Adjusting various items on the [financial statements](../f/financial_statements.md), including revenues, expenses, assets, and liabilities, to reflect current [purchasing power](../p/purchasing_power.md).
 - **Statement Presentation**: Presenting the adjusted [financial statements](../f/financial_statements.md) in a format that is comparable to [historical cost](../h/historical_cost.md)-based statements.
 
@@ -40,7 +40,7 @@ The Modified [Historical Cost](../h/historical_cost.md) (MHC) method combines el
 
 ### General Price Level Adjusted (GPLA) Method
 
-The General [Price Level](../p/price_level.md) Adjusted (GPLA) method is similar to the CPP method but focuses more broadly on adjusting all financial statement items based on changes in the general [price level](../p/price_level.md). This method assumes a constant [purchasing power](../p/purchasing_power.md) and adjusts for [inflation](../i/inflation.md) using a general [price level](../p/price_level.md) [index](../i/index.md).
+The General [Price Level](../p/price_level.md) Adjusted (GPLA) method is similar to the CPP method but focuses more broadly on adjusting all financial statement items based on changes in the general [price level](../p/price_level.md). This method assumes a constant [purchasing power](../p/purchasing_power.md) and adjusts for [inflation](../i/inflation.md) using a general [price level](../p/price_level.md) [index](../i/index_instrument.md).
 
 ## Advantages and Disadvantages
 
@@ -66,7 +66,7 @@ Different countries and [accounting](../a/accounting.md) bodies have established
 
 The International Financial Reporting Standards (IFRS) provide guidelines for [inflation](../i/inflation.md) [accounting](../a/accounting.md) under IAS 29, Financial Reporting in Hyperinflationary Economies. This standard applies to entities whose [functional currency](../f/functional_currency.md) is that of a hyperinflationary [economy](../e/economy.md), defined as one in which the cumulative [inflation](../i/inflation.md) rate over three years approaches or exceeds 100%. The key requirements of IAS 29 include:
 
-- **[Restatement](../r/restatement.md) of [Financial Statements](../f/financial_statements.md)**: Entities must restate their [financial statements](../f/financial_statements.md) to account for [hyperinflation](../h/hyperinflation.md), using a general price [index](../i/index.md) to reflect changes in [purchasing power](../p/purchasing_power.md).
+- **[Restatement](../r/restatement.md) of [Financial Statements](../f/financial_statements.md)**: Entities must restate their [financial statements](../f/financial_statements.md) to account for [hyperinflation](../h/hyperinflation.md), using a general price [index](../i/index_instrument.md) to reflect changes in [purchasing power](../p/purchasing_power.md).
 - **[Balance Sheet](../b/balance_sheet.md) Adjustments**: Assets and liabilities are restated, and [equity](../e/equity.md) components are adjusted to maintain consistency with the restated [balance sheet](../b/balance_sheet.md) figures.
 - **[Income Statement](../i/income_statement.md) Adjustments**: Revenues and expenses are also restated to reflect changes in the general [price level](../p/price_level.md), ensuring that the presented [financial performance](../f/financial_performance.md) is not distorted by [hyperinflation](../h/hyperinflation.md).
 
@@ -86,7 +86,7 @@ Various countries have their own specific standards and guidelines for [inflatio
 
 Consider a hypothetical Company A operating in a hyperinflationary [economy](../e/economy.md), where the local [currency](../c/currency.md) has experienced an [inflation](../i/inflation.md) rate of 150% over the past three years. To provide a more accurate picture of its financial status, Company A adopts the guidelines of IAS 29. Key steps include:
 
-1. **Restating [Financial Statements](../f/financial_statements.md)**: The company restates its [balance sheet](../b/balance_sheet.md) and [income statement](../i/income_statement.md), adjusting all items using a general price [index](../i/index.md).
+1. **Restating [Financial Statements](../f/financial_statements.md)**: The company restates its [balance sheet](../b/balance_sheet.md) and [income statement](../i/income_statement.md), adjusting all items using a general price [index](../i/index_instrument.md).
 2. **[Asset](../a/asset.md) [Revaluation](../r/revaluation.md)**: Fixed assets, such as property and equipment, are revalued to reflect their current replacement costs.
 3. **[Depreciation](../d/depreciation.md) Adjustment**: [Depreciation](../d/depreciation.md) expenses are adjusted based on the revalued [asset](../a/asset.md) costs, resulting in higher [depreciation](../d/depreciation.md) expenses compared to historical [cost accounting](../c/cost_accounting.md).
 4. **[Inventory](../i/inventory.md) [Valuation](../v/valuation.md)**: [Inventory](../i/inventory.md) is revalued to its current cost, ensuring that cost of goods sold reflects current price levels.
@@ -96,8 +96,8 @@ Consider a hypothetical Company A operating in a hyperinflationary [economy](../
 
 Company B is analyzing its [financial performance](../f/financial_performance.md) over the past five years, during which the [economy](../e/economy.md) experienced varying levels of [inflation](../i/inflation.md). To ensure comparability, the company implements the Current [Purchasing Power](../p/purchasing_power.md) (CPP) method:
 
-1. **[Index](../i/index.md) Selection**: The company selects an appropriate CPI [index](../i/index.md) that reflects changes in the general [price level](../p/price_level.md) over the five-year period.
-2. **Adjustment Process**: [Financial statements](../f/financial_statements.md) for each year are adjusted using the selected [index](../i/index.md), converting historical costs to current [purchasing power](../p/purchasing_power.md) terms.
+1. **[Index](../i/index_instrument.md) Selection**: The company selects an appropriate CPI [index](../i/index_instrument.md) that reflects changes in the general [price level](../p/price_level.md) over the five-year period.
+2. **Adjustment Process**: [Financial statements](../f/financial_statements.md) for each year are adjusted using the selected [index](../i/index_instrument.md), converting historical costs to current [purchasing power](../p/purchasing_power.md) terms.
 3. **[Comparative Analysis](../c/comparative_analysis.md)**: The adjusted financial data allows for a more accurate comparison of [financial performance](../f/financial_performance.md) across different periods, highlighting trends and patterns that may have been obscured by [inflation](../i/inflation.md) under historical [cost accounting](../c/cost_accounting.md).
 
 ## Software and Tools for Inflation Accounting

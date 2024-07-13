@@ -20,9 +20,9 @@
 
 - **Selection**: Identify and select securities based on specific factors or criteria.
 - **Weighting**: Apply alternative weighting schemes (e.g., equal weighting, [factor](../f/factor.md) weighting) rather than traditional [market](../m/market.md)-cap weighting.
-- **[Rebalancing](../r/rebalancing.md)**: Periodically rebalance the [index](../i/index.md) to maintain desired [factor](../f/factor.md) exposures and weightings.
+- **[Rebalancing](../r/rebalancing.md)**: Periodically rebalance the [index](../i/index_instrument.md) to maintain desired [factor](../f/factor.md) exposures and weightings.
 
-For example, a [smart beta](../s/smart_beta.md) [index](../i/index.md) focusing on the [value factor](../v/value_factor.md) might select [stocks](../s/stock.md) with low price-to-[earnings](../e/earnings.md) ratios and weight them based on their [value](../v/value.md) scores rather than [market](../m/market.md) cap.
+For example, a [smart beta](../s/smart_beta.md) [index](../i/index_instrument.md) focusing on the [value factor](../v/value_factor.md) might select [stocks](../s/stock.md) with low price-to-[earnings](../e/earnings.md) ratios and weight them based on their [value](../v/value.md) scores rather than [market](../m/market.md) cap.
 
 #### 3. Advantages and Challenges
 
@@ -40,7 +40,7 @@ For example, a [smart beta](../s/smart_beta.md) [index](../i/index.md) focusing 
 
 ### Prominent Smart Beta Index Providers
 
-Several prominent financial institutions and [index](../i/index.md) providers [offer](../o/offer.md) a [range](../r/range.md) of [smart beta](../s/smart_beta.md) products:
+Several prominent financial institutions and [index](../i/index_instrument.md) providers [offer](../o/offer.md) a [range](../r/range.md) of [smart beta](../s/smart_beta.md) products:
 
 #### MSCI Inc.
 
@@ -48,7 +48,7 @@ MSCI Inc. (Morgan Stanley [Capital](../c/capital.md) International) is a leading
 
 #### FTSE Russell
 
-[FTSE Russell](../f/ftse_russell.md), a subsidiary of the London Stock [Exchange](../e/exchange.md) Group, provides a comprehensive suite of [smart beta](../s/smart_beta.md) indexes through its [FTSE Russell](../f/ftse_russell.md) [Smart Beta](../s/smart_beta.md) [Index](../i/index.md) Series. These indexes track specific factors such as quality, low [volatility](../v/volatility.md), and [yield](../y/yield.md). For more information, visit [FTSE Russell](https://www.ftserussell.com).
+[FTSE Russell](../f/ftse_russell.md), a subsidiary of the London Stock [Exchange](../e/exchange.md) Group, provides a comprehensive suite of [smart beta](../s/smart_beta.md) indexes through its [FTSE Russell](../f/ftse_russell.md) [Smart Beta](../s/smart_beta.md) [Index](../i/index_instrument.md) Series. These indexes track specific factors such as quality, low [volatility](../v/volatility.md), and [yield](../y/yield.md). For more information, visit [FTSE Russell](https://www.ftserussell.com).
 
 #### S&P Dow Jones Indices
 

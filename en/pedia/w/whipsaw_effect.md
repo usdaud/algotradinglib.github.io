@@ -55,7 +55,7 @@ To mitigate the effects of [whipsaw](../w/whipsaw.md), some [algorithmic trading
 
 ### Technical Analysis Tools
 
-Traders often use [technical analysis](../t/technical_analysis.md) tools to identify potential [whipsaw](../w/whipsaw.md) conditions. Moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) are commonly used indicators to gauge [market](../m/market.md) [volatility](../v/volatility.md) and potential reversals.
+Traders often use [technical analysis](../t/technical_analysis.md) tools to identify potential [whipsaw](../w/whipsaw.md) conditions. Moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) are commonly used indicators to gauge [market](../m/market.md) [volatility](../v/volatility.md) and potential reversals.
 
 ### Diversification
 

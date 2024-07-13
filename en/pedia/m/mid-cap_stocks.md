@@ -91,14 +91,14 @@
 
 #### Commonly Used Mid-Cap Indexes
 
-1. **S&P MidCap 400 [Index](../i/index.md):**
-    This [index](../i/index.md) measures the performance of 400 mid-sized companies in the United States, providing a broad representation of the middle segment of the [market](../m/market.md). [S&P MidCap 400 Index](https://www.spglobal.com/spdji/en/indices/equity/sp-400-midcap-index/)
+1. **S&P MidCap 400 [Index](../i/index_instrument.md):**
+    This [index](../i/index_instrument.md) measures the performance of 400 mid-sized companies in the United States, providing a broad representation of the middle segment of the [market](../m/market.md). [S&P MidCap 400 Index](https://www.spglobal.com/spdji/en/indices/equity/sp-400-midcap-index/)
 
-2. **Russell Midcap [Index](../i/index.md):**
-    Part of the broader [Russell 1000 Index](../r/russell_1000_index.md), the Russell Midcap [Index](../i/index.md) tracks the performance of approximately 800 US-based [mid-cap](../m/mid-cap.md) [stocks](../s/stock.md) and is widely used by investors for benchmarking [mid-cap](../m/mid-cap.md) performance. [Russell Midcap Index](https://www.ftserussell.com/products/indices/russell-us)
+2. **Russell Midcap [Index](../i/index_instrument.md):**
+    Part of the broader [Russell 1000 Index](../r/russell_1000_index.md), the Russell Midcap [Index](../i/index_instrument.md) tracks the performance of approximately 800 US-based [mid-cap](../m/mid-cap.md) [stocks](../s/stock.md) and is widely used by investors for benchmarking [mid-cap](../m/mid-cap.md) performance. [Russell Midcap Index](https://www.ftserussell.com/products/indices/russell-us)
 
-3. **[NASDAQ](../n/nasdaq.md) MidCap [Index](../i/index.md):**
-    This [index](../i/index.md) comprises [mid-cap](../m/mid-cap.md) companies [listed](../l/listed.md) on the [NASDAQ](../n/nasdaq.md) [exchange](../e/exchange.md), focusing on various industries and providing a balanced view of [mid-cap](../m/mid-cap.md) performance within the technology-heavy [NASDAQ](../n/nasdaq.md) [market](../m/market.md). [NASDAQ MidCap Index](https://indexes.nasdaq.com/)
+3. **[NASDAQ](../n/nasdaq.md) MidCap [Index](../i/index_instrument.md):**
+    This [index](../i/index_instrument.md) comprises [mid-cap](../m/mid-cap.md) companies [listed](../l/listed.md) on the [NASDAQ](../n/nasdaq.md) [exchange](../e/exchange.md), focusing on various industries and providing a balanced view of [mid-cap](../m/mid-cap.md) performance within the technology-heavy [NASDAQ](../n/nasdaq.md) [market](../m/market.md). [NASDAQ MidCap Index](https://indexes.nasdaq.com/)
 
 #### Conclusion
 

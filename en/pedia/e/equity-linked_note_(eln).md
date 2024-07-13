@@ -8,7 +8,7 @@ An [Equity](../e/equity.md)-Linked [Note](../n/note.md) (ELN) is a structured fi
 
 1. **[Principal](../p/principal.md) Amount**: This is the initial investment amount in the ELN, often referred to as the [face value](../f/face_value.md).
 2. **[Maturity Date](../m/maturity_date.md)**: The date on which the ELN matures and the [investor](../i/investor.md) is repaid the [principal](../p/principal.md) amount, subject to the performance of the linked [equity](../e/equity.md).
-3. **Linked [Equity](../e/equity.md)**: The specific stock, basket of [stocks](../s/stock.md), or [equity](../e/equity.md) [index](../i/index.md) to which the performance of the ELN is tied.
+3. **Linked [Equity](../e/equity.md)**: The specific stock, basket of [stocks](../s/stock.md), or [equity](../e/equity.md) [index](../i/index_instrument.md) to which the performance of the ELN is tied.
 4. **[Interest](../i/interest.md)/[Dividend](../d/dividend.md) Payments**: Some ELNs may [offer](../o/offer.md) periodic [interest](../i/interest.md) payments, which could be fixed or variable based on the performance of the linked [equity](../e/equity.md). 
 
 ### Types of ELNs

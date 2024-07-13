@@ -76,7 +76,7 @@ Incorporating [divergence](../d/divergence.md) into [trading strategies](../t/tr
 
 To mitigate some of its limitations, many traders use the MACD in conjunction with other [technical indicators](../t/technical_indicators.md) and analysis techniques to confirm signals and improve trading accuracy. Common complementary tools include:
 
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: The RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions. Combining MACD with RSI can help filter out [false signals](../f/false_signals_in_trading.md) and enhance trading decisions.
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: The RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions. Combining MACD with RSI can help filter out [false signals](../f/false_signals_in_trading.md) and enhance trading decisions.
 
 2. **Moving Averages**: Using longer-term moving averages alongside MACD can help confirm [trend](../t/trend.md) direction and add a layer of [trend analysis](../t/trend_analysis.md).
 

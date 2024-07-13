@@ -18,7 +18,7 @@ A false [breakout](../b/breakout.md) occurs when the price of a [financial instr
 
 1. **[Volume Analysis](../v/volume_analysis.md)**: Genuine breakouts are generally accompanied by a significant increase in trading [volume](../v/volume.md). Monitoring [volume](../v/volume.md) can help distinguish true breakouts from false ones.
 2. **[Price Action](../p/price_action.md) Confirmation**: Traders often look for confirmation through subsequent price bars or candlesticks. A lack of follow-through in [price action](../p/price_action.md) suggests a false [breakout](../b/breakout.md).
-3. **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md) can provide additional context to identify the sustainability of a [breakout](../b/breakout.md).
+3. **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md) can provide additional context to identify the sustainability of a [breakout](../b/breakout.md).
 4. **[Support and Resistance](../s/support_and_resistance.md) Re-Test**: A common technique is to wait for the price to break a level and then retest it as a new support or resistance before taking a position.
 
 ### Implications for Trading Strategies

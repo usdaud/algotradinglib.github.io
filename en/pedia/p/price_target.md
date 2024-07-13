@@ -25,7 +25,7 @@ Some common techniques used in [fundamental analysis](../f/fundamental_analysis.
 
 1. **Moving Averages**: These are used to smooth out price data to identify the direction of the [trend](../t/trend.md). Common moving averages include the 50-day and 200-day moving averages.
 
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: This [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) measures the speed and change of price movements. RSI values [range](../r/range.md) from 0 to 100 and are used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: This [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) measures the speed and change of price movements. RSI values [range](../r/range.md) from 0 to 100 and are used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 3. **[Support and Resistance](../s/support_and_resistance.md) Levels**: These are price levels at which a [security](../s/security.md) tends to stop and reverse. [Support levels](../s/support_levels.md) are where a [downtrend](../d/downtrend.md) can be expected to pause, while resistance levels are where an [uptrend](../u/uptrend.md) can pause.
 

@@ -14,7 +14,7 @@ A Stock [Exchange](../e/exchange.md)-Traded [Fund](../f/fund.md) (ETF) is an [in
 
 5. **International ETFs**: These ETFs provide exposure to non-domestic markets, including emerging markets and developed markets outside of the [investor](../i/investor.md)'s [home](../h/home.md) country.
 
-6. **Inverses and [Leveraged ETFs](../l/leveraged_etfs.md)**: These ETFs are designed to provide multiples of the performance or the inverse performance of an [index](../i/index.md). They are often used for [short-term trading](../s/short-term_trading.md) and hedging purposes.
+6. **Inverses and [Leveraged ETFs](../l/leveraged_etfs.md)**: These ETFs are designed to provide multiples of the performance or the inverse performance of an [index](../i/index_instrument.md). They are often used for [short-term trading](../s/short-term_trading.md) and hedging purposes.
 
 ## Advantages of ETFs
 
@@ -42,15 +42,15 @@ This process helps to maintain the price of the ETF close to the net [asset](../
 
 ## Popular ETFs
 
-1. **SPDR S&P 500 ETF (SPY)**: Tracks the S&P 500 [index](../i/index.md), providing exposure to 500 of the largest companies in the U.S.
+1. **SPDR S&P 500 ETF (SPY)**: Tracks the S&P 500 [index](../i/index_instrument.md), providing exposure to 500 of the largest companies in the U.S.
 
    [SPDR S&P 500 ETF (SPY)](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-sp-500-etf-trust-spy)
 
-2. **[iShares](../i/ishares.md) MSCI Emerging Markets ETF (EEM)**: Tracks the MSCI Emerging Markets [index](../i/index.md), providing exposure to emerging [market](../m/market.md) economies.
+2. **[iShares](../i/ishares.md) MSCI Emerging Markets ETF (EEM)**: Tracks the MSCI Emerging Markets [index](../i/index_instrument.md), providing exposure to emerging [market](../m/market.md) economies.
 
    [iShares MSCI Emerging Markets ETF (EEM)](https://www.ishares.com/us/products/239637/ishares-msci-emerging-markets-etf)
 
-3. **Invesco QQQ ETF (QQQ)**: Tracks the [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index.md), consisting of 100 of the largest non-financial companies [listed](../l/listed.md) on the [NASDAQ](../n/nasdaq.md) [stock market](../s/stock_market.md).
+3. **Invesco QQQ ETF (QQQ)**: Tracks the [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index_instrument.md), consisting of 100 of the largest non-financial companies [listed](../l/listed.md) on the [NASDAQ](../n/nasdaq.md) [stock market](../s/stock_market.md).
 
    [Invesco QQQ ETF (QQQ)](https://www.invesco.com/qqq-etf/)
 
@@ -58,7 +58,7 @@ This process helps to maintain the price of the ETF close to the net [asset](../
 
    [Vanguard Total Stock Market ETF (VTI)](https://investor.vanguard.com/etf/profile/VTI)
 
-5. **[iShares](../i/ishares.md) [U.S. Treasury](../u/u.s._treasury.md) [Bond ETF](../b/bond_etf.md) (GOVT)**: Tracks an [index](../i/index.md) of [U.S. Treasury](../u/u.s._treasury.md) bonds, providing exposure to the U.S. [government bond](../g/government_bond.md) [market](../m/market.md).
+5. **[iShares](../i/ishares.md) [U.S. Treasury](../u/u.s._treasury.md) [Bond ETF](../b/bond_etf.md) (GOVT)**: Tracks an [index](../i/index_instrument.md) of [U.S. Treasury](../u/u.s._treasury.md) bonds, providing exposure to the U.S. [government bond](../g/government_bond.md) [market](../m/market.md).
 
    [iShares U.S. Treasury Bond ETF (GOVT)](https://www.ishares.com/us/products/239458/ishares-us-treasury-bond-etf)
 
@@ -66,7 +66,7 @@ This process helps to maintain the price of the ETF close to the net [asset](../
 
 1. **[Market Risk](../m/market_risk.md)**: ETFs are subject to the same [market](../m/market.md) risks as their [underlying](../u/underlying.md) assets. If the [market](../m/market.md) declines, the [value](../v/value.md) of the ETF may also decline.
 
-2. **[Tracking Error](../t/tracking_error.md)**: Sometimes the ETF does not perfectly match the performance of its [underlying](../u/underlying.md) [index](../i/index.md) due to fees, expenses, and other factors.
+2. **[Tracking Error](../t/tracking_error.md)**: Sometimes the ETF does not perfectly match the performance of its [underlying](../u/underlying.md) [index](../i/index_instrument.md) due to fees, expenses, and other factors.
 
 3. **[Liquidity Risk](../l/liquidity_risk.md)**: Although ETFs are generally [liquid](../l/liquid.md), some ETFs that focus on niche markets or thinly traded assets may experience [liquidity](../l/liquidity.md) issues.
 

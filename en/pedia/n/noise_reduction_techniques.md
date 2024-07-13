@@ -62,7 +62,7 @@ def kalman_filter(data):
         state_estimate[t] = state_estimate[t] + kalman_gain * (data[t] - state_estimate[t])
         estimation_error[t] = (1 - kalman_gain) * estimation_error[t]
 
-    [return](../r/return.md) pd.Series(state_estimate, [index](../i/index.md)=data.[index](../i/index.md))
+    [return](../r/return.md) pd.Series(state_estimate, [index](../i/index_instrument.md)=data.[index](../i/index_instrument.md))
 ```
 
 ### 3. Fourier Transform
@@ -84,7 +84,7 @@ def fourier_transform(data):
 
     # Apply Inverse Fourier Transform
     filtered_data = np.fft.ifft(ft)
-    [return](../r/return.md) pd.Series(filtered_data, [index](../i/index.md)=data.[index](../i/index.md))
+    [return](../r/return.md) pd.Series(filtered_data, [index](../i/index_instrument.md)=data.[index](../i/index_instrument.md))
 ```
 
 ### 4. Savitzky-Golay Filter
@@ -96,7 +96,7 @@ from scipy.signal [import](../i/import.md) savgol_filter
 
 def savitzky_golay_filter(data, window_size, polyorder):
     filtered_data = savgol_filter(data, window_size, polyorder)
-    [return](../r/return.md) pd.Series(filtered_data, [index](../i/index.md)=data.[index](../i/index.md))
+    [return](../r/return.md) pd.Series(filtered_data, [index](../i/index_instrument.md)=data.[index](../i/index_instrument.md))
 ```
 
 ### 5. Wavelet Transform
@@ -111,7 +111,7 @@ def wavelet_transform(data, wavelet='db4', level=1):
     coeffs = pywt.wavedec(data, wavelet, level=level)
     coeffs[1:] = [np.zeros_like(i) for i in coeffs[1:]]
     reconstructed_data = pywt.waverec(coeffs, wavelet)
-    [return](../r/return.md) pd.Series(reconstructed_data, [index](../i/index.md)=data.[index](../i/index.md))
+    [return](../r/return.md) pd.Series(reconstructed_data, [index](../i/index_instrument.md)=data.[index](../i/index_instrument.md))
 ```
 
 ### 6. Hodrick-Prescott Filter
@@ -141,7 +141,7 @@ def bayesian_estimator(data):
         trace = pm.sample(1000, return_inferencedata=False)
 
     mu_estimated = np.mean(trace['mu'])
-    [return](../r/return.md) pd.Series([mu_estimated]*len(data), [index](../i/index.md)=data.[index](../i/index.md))
+    [return](../r/return.md) pd.Series([mu_estimated]*len(data), [index](../i/index_instrument.md)=data.[index](../i/index_instrument.md))
 ```
 
 ### 8. Robust Statistics

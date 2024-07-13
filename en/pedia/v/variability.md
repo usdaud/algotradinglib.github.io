@@ -60,7 +60,7 @@ Moving averages are commonly used in [technical analysis](../t/technical_analysi
 
 ### 3. Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) measures the speed and change of price movements, providing a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that compares the magnitude of recent gains to recent losses. The RSI can help identify whether an [asset](../a/asset.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md), which often corresponds with extreme variability levels.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) measures the speed and change of price movements, providing a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that compares the magnitude of recent gains to recent losses. The RSI can help identify whether an [asset](../a/asset.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md), which often corresponds with extreme variability levels.
 
 ### 4. Historical Volatility
 

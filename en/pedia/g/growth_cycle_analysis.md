@@ -47,7 +47,7 @@ Integrating growth [cycle analysis](../c/cycle_analysis.md) into an [algorithmic
 
 ### Signal Generation
 
-1. **[Indicator](../i/indicator.md)-Based Signals**: Develop indicators based on economic data. For example, creating a composite [index](../i/index.md) that combines GDP growth, [unemployment](../u/unemployment.md) rates, and [inflation](../i/inflation.md) to identify the current phase of the [economic cycle](../e/economic_cycle.md).
+1. **[Indicator](../i/indicator.md)-Based Signals**: Develop indicators based on economic data. For example, creating a composite [index](../i/index_instrument.md) that combines GDP growth, [unemployment](../u/unemployment.md) rates, and [inflation](../i/inflation.md) to identify the current phase of the [economic cycle](../e/economic_cycle.md).
    
 2. **[Pattern Recognition](../p/pattern_recognition.md)**: Utilize machine [learning algorithms](../l/learning_algorithms_in_trading.md) to recognize patterns that precede transitions between different phases. For instance, a combination of falling GDP and rising [unemployment](../u/unemployment.md) may signal an upcoming contraction.
 

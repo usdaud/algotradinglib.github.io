@@ -14,7 +14,7 @@ Here’s a step-by-step breakdown of how one can set up a reverse calendar sprea
 
 ### Key Components
 
-- **[Underlying Asset](../u/underlying_asset.md)**: The [security](../s/security.md) or [index](../i/index.md) that the [options](../o/options.md) are based on.
+- **[Underlying Asset](../u/underlying_asset.md)**: The [security](../s/security.md) or [index](../i/index_instrument.md) that the [options](../o/options.md) are based on.
 - **Expiration Dates**: The short-term option [will](../w/will.md) have a closer [expiration date](../e/expiration_date.md), whereas the long-term option [will](../w/will.md) have a farther [expiration date](../e/expiration_date.md).
 - **[Strike Price](../s/strike_price.md)**: Both [options](../o/options.md) [will](../w/will.md) share the same [strike price](../s/strike_price.md).
 

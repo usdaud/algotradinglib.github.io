@@ -49,9 +49,9 @@ Several methods are used to detect multicollinearity in a regression model:
    - Tolerance is the reciprocal of VIF and provides an indication of which variables contribute to multicollinearity.
    - Low tolerance values (below 0.1) suggest high multicollinearity.
 
-4. **Condition [Index](../i/index.md):**
+4. **Condition [Index](../i/index_instrument.md):**
    - This method involves looking at the condition indices calculated from the eigenvalues of the scaled, centered matrix \(X'X\).
-   - A condition [index](../i/index.md) above 30 indicates strong multicollinearity.
+   - A condition [index](../i/index_instrument.md) above 30 indicates strong multicollinearity.
 
 ### Addressing Multicollinearity
 

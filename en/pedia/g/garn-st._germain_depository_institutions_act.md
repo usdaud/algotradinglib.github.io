@@ -12,7 +12,7 @@ In the late 1970s and early 1980s, the savings and [loan](../l/loan.md) [industr
 
 ### Title I: Real Estate Lending and Related Regulatory Provisions
 
-- **Adjustable-Rate Mortgages (ARMs)**: One of the most significant provisions of the Garn-St. Germain Act was the authorization of adjustable-rate mortgages, providing more flexibility to savings and loans institutions. ARMs allow the [interest rate](../i/interest_rate.md) on a [mortgage](../m/mortgage.md) to fluctuate periodically based on a specified [index](../i/index.md), thereby aligning the [interest](../i/interest.md) [income](../i/income.md) on loans more closely with the [market](../m/market.md) rate.
+- **Adjustable-Rate Mortgages (ARMs)**: One of the most significant provisions of the Garn-St. Germain Act was the authorization of adjustable-rate mortgages, providing more flexibility to savings and loans institutions. ARMs allow the [interest rate](../i/interest_rate.md) on a [mortgage](../m/mortgage.md) to fluctuate periodically based on a specified [index](../i/index_instrument.md), thereby aligning the [interest](../i/interest.md) [income](../i/income.md) on loans more closely with the [market](../m/market.md) rate.
 
 - **Residential [Mortgage](../m/mortgage.md) Lending**: The Act allowed more lenient lending practices for residential mortgages, enabling institutions to extend terms and conditions that were previously restricted.
 

@@ -33,8 +33,8 @@ IADLs, on the other hand, are more complex skills necessary for independent livi
 
 Assessing ADLs is a critical part of evaluating a patient's functional status. Healthcare professionals use various standardized tools to measure a person's ability to perform ADLs. Some of the common assessment tools include:
 
-1. **Katz [Index](../i/index.md) of Independence in Activities of Daily Living**: Measures the ability to perform six basic functions.
-2. **Barthel [Index](../i/index.md)**: Assesses the degree of assistance required by an individual on ten different ADLs.
+1. **Katz [Index](../i/index_instrument.md) of Independence in Activities of Daily Living**: Measures the ability to perform six basic functions.
+2. **Barthel [Index](../i/index_instrument.md)**: Assesses the degree of assistance required by an individual on ten different ADLs.
 3. **Lawton Instrumental Activities of Daily Living Scale**: Evaluates IADLs and can help determine the level of care an individual may need.
 
 ## Applications in Healthcare

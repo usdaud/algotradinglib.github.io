@@ -44,7 +44,7 @@ Moving averages are among the most commonly used tools in [technical analysis](.
 
 ### Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) is an [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It ranges from 0 to 100 and helps identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) is an [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It ranges from 0 to 100 and helps identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ### Moving Average Convergence Divergence (MACD)
 

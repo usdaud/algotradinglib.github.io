@@ -1,6 +1,6 @@
 # 30-Day RSI
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. Considered one of the most popular [technical analysis](../t/technical_analysis.md) tools, it was developed by J. Welles Wilder. The RSI oscillates between 0 and 100. Traditionally, an RSI reading above 70 is considered [overbought](../o/overbought.md), while an RSI reading below 30 is considered [oversold](../o/oversold.md). The 30-Day RSI is a specific application of this [indicator](../i/indicator.md) where the calculation considers the past 30 days of data.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. Considered one of the most popular [technical analysis](../t/technical_analysis.md) tools, it was developed by J. Welles Wilder. The RSI oscillates between 0 and 100. Traditionally, an RSI reading above 70 is considered [overbought](../o/overbought.md), while an RSI reading below 30 is considered [oversold](../o/oversold.md). The 30-Day RSI is a specific application of this [indicator](../i/indicator.md) where the calculation considers the past 30 days of data.
 
 ## Formula and Calculation
 

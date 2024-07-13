@@ -38,7 +38,7 @@ Moving averages, such as the 50-day or [200-day moving average](../1/200-day_mov
 ## Breakout and Resistance
 
 ### Confirming a Breakout
-A [breakout](../b/breakout.md) occurs when the price moves above a resistance level, often accompanied by increased [volume](../v/volume.md). To confirm a [breakout](../b/breakout.md), traders look for sustained movement above the resistance level and may also use [technical indicators](../t/technical_indicator.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD).
+A [breakout](../b/breakout.md) occurs when the price moves above a resistance level, often accompanied by increased [volume](../v/volume.md). To confirm a [breakout](../b/breakout.md), traders look for sustained movement above the resistance level and may also use [technical indicators](../t/technical_indicator.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD).
 
 ### False Breakouts
 False breakouts happen when the price briefly moves above a resistance level but then falls back below it. These can trap traders who acted on the [breakout](../b/breakout.md) signal, leading to potential losses. It's important to use other indicators or wait for [multiple](../m/multiple.md) confirmations before acting on a [breakout](../b/breakout.md).

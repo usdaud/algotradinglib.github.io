@@ -47,10 +47,10 @@ However, certain empirical studies have also challenged the Random Walk Theory b
 ### Investment Strategies
 If the Random Walk Theory holds true, then no amount of analysis, whether it be fundamental or technical, [will](../w/will.md) [yield](../y/yield.md) consistent excess returns over the [market](../m/market.md). This implies that:
 - **[Active Management](../a/active_management.md)**
-  [Active management](../a/active_management.md) strategies, which rely on selecting [stocks](../s/stock.md) based on research and predictions, would be less likely to [outperform](../o/outperform.md) passive, [index](../i/index.md)-based strategies.
+  [Active management](../a/active_management.md) strategies, which rely on selecting [stocks](../s/stock.md) based on research and predictions, would be less likely to [outperform](../o/outperform.md) passive, [index](../i/index_instrument.md)-based strategies.
   
 - **Passive Management**
-  Investors might find more [value](../v/value.md) in passive management strategies like buying and holding a diversified portfolio or utilizing [index](../i/index.md) funds.
+  Investors might find more [value](../v/value.md) in passive management strategies like buying and holding a diversified portfolio or utilizing [index](../i/index_instrument.md) funds.
 
 ### Algorithmic Trading
 In the realm of [algorithmic trading](../a/accountability.md), the Random Walk Theory presents a significant challenge. Algorithms often rely on historical data and patterns to make trading decisions. If prices follow a truly random walk, algorithms based solely on historical data may not achieve consistent profitability.

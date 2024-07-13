@@ -76,7 +76,7 @@ Treasury Bills (T-Bills) are short-term government securities with maturities of
 
 ### Inflation-Indexed Bonds
 
-[Inflation](../i/inflation.md)-Indexed Bonds (IIBs) are designed to provide protection against [inflation](../i/inflation.md). The [principal](../p/principal.md) amount of these bonds is adjusted based on changes in the Consumer Price [Index](../i/index.md) (CPI), and they pay [interest](../i/interest.md) on the adjusted [principal](../p/principal.md). This means that both the [interest](../i/interest.md) payments and the [principal](../p/principal.md) amount keep pace with [inflation](../i/inflation.md), providing a [hedge](../h/hedge.md) against [inflation](../i/inflation.md) [risk](../r/risk.md).
+[Inflation](../i/inflation.md)-Indexed Bonds (IIBs) are designed to provide protection against [inflation](../i/inflation.md). The [principal](../p/principal.md) amount of these bonds is adjusted based on changes in the Consumer Price [Index](../i/index_instrument.md) (CPI), and they pay [interest](../i/interest.md) on the adjusted [principal](../p/principal.md). This means that both the [interest](../i/interest.md) payments and the [principal](../p/principal.md) amount keep pace with [inflation](../i/inflation.md), providing a [hedge](../h/hedge.md) against [inflation](../i/inflation.md) [risk](../r/risk.md).
 
 ### Conventional Government Bonds
 

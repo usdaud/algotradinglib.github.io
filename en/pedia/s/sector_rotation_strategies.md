@@ -25,8 +25,8 @@ Successful [sector rotation](../s/sector_rotation.md) relies heavily on interpre
 - **Employment Data**: Provides information on job creation, [unemployment](../u/unemployment.md) rates, and wage growth.
 - **[Inflation](../i/inflation.md) Rates**: Tracks the rate at which prices for goods and services rise.
 - **[Interest](../i/interest.md) Rates**: Central banks' [interest rate](../i/interest_rate.md) decisions affect borrowing costs and [economic growth](../e/economic_growth.md).
-- **Consumer Confidence [Index](../i/index.md)**: Measures the overall confidence of consumers in the [economy](../e/economy.md).
-- **[Business](../b/business.md) Confidence [Index](../i/index.md)**: Reflects the sentiments of [business](../b/business.md) leaders about the economic outlook.
+- **Consumer Confidence [Index](../i/index_instrument.md)**: Measures the overall confidence of consumers in the [economy](../e/economy.md).
+- **[Business](../b/business.md) Confidence [Index](../i/index_instrument.md)**: Reflects the sentiments of [business](../b/business.md) leaders about the economic outlook.
 
 ### Sector Analysis
 In addition to [economic indicators](../e/economic_indicators.md), [sector analysis](../s/sector_analysis.md) is critical. This involves evaluating factors such as:
@@ -82,7 +82,7 @@ Various investment platforms and tools assist in implementing [sector rotation](
 - **Overreliance on [Economic Indicators](../e/economic_indicators.md)**: [Economic indicators](../e/economic_indicators.md) are not always accurate, and relying too heavily on them can lead to incorrect predictions and investment decisions.
 
 ## Real-World Examples
-- **T. Rowe Price**: T. Rowe Price Diversified Sector Strategy focuses on tactical sector allocation, aiming to [outperform](../o/outperform.md) the S&P 500 [Index](../i/index.md) by actively managing sector exposures.
+- **T. Rowe Price**: T. Rowe Price Diversified Sector Strategy focuses on tactical sector allocation, aiming to [outperform](../o/outperform.md) the S&P 500 [Index](../i/index_instrument.md) by actively managing sector exposures.
   [T. Rowe Price](https://www.troweprice.com)
 
 - **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity offers [sector rotation](../s/sector_rotation.md) mutual funds and ETFs that use [top-down analysis](../t/top-down_analysis.md) and fundamental research to rotate between sectors.

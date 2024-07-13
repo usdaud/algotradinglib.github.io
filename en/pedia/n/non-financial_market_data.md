@@ -68,7 +68,7 @@ Integrating non-financial data into existing [trading systems](../t/trading_syst
 ## Case Studies and Applications
 
 ### Predicting Stock Movements with Social Media
-A well-known application of [social media](../s/social_media.md) data in [trade](../t/trade.md) involves analyzing Twitter sentiment to predict stock price movements. Academic studies and firms like T3 [index](../i/index.md) have demonstrated that sentiment data from Twitter can serve as a [proxy](../p/proxy.md) for public opinion and [market sentiment](../m/market_sentiment.md).
+A well-known application of [social media](../s/social_media.md) data in [trade](../t/trade.md) involves analyzing Twitter sentiment to predict stock price movements. Academic studies and firms like T3 [index](../i/index_instrument.md) have demonstrated that sentiment data from Twitter can serve as a [proxy](../p/proxy.md) for public opinion and [market sentiment](../m/market_sentiment.md).
 
 ### Commodity Trading with Weather Data
 Weather [derivatives](../d/derivatives.md) are financial instruments that firms use to [hedge](../h/hedge.md) against weather-related risks. [Algorithmic trading](../a/algorithmic_trading.md) strategies utilizing weather data have been developed to [trade](../t/trade.md) these [derivatives](../d/derivatives.md) and related commodities like oil and agricultural products.

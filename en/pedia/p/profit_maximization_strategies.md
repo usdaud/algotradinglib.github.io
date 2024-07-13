@@ -49,7 +49,7 @@ Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence
 ### Common Indicators:
 
 - **Moving Averages:** Smooth out price data to identify the [trend](../t/trend.md) direction.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the speed and change of price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the speed and change of price movements.
 - **MACD (Moving Average Convergence [Divergence](../d/divergence.md)):** Shows the relationship between two moving averages of prices.
 
 ## 6. Risk Management

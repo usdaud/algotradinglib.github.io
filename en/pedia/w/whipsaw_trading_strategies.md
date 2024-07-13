@@ -38,7 +38,7 @@ In a volatile [market](../m/market.md), adjusting the position size based on the
 
 #### Calculation Example:
 
-If the [volatility](../v/volatility.md) [index](../i/index.md) (VIX) is high, it signals higher expected [volatility](../v/volatility.md). The position size can be adjusted inversely proportional to the VIX.
+If the [volatility](../v/volatility.md) [index](../i/index_instrument.md) (VIX) is high, it signals higher expected [volatility](../v/volatility.md). The position size can be adjusted inversely proportional to the VIX.
 
 ```python
 def adjust_position_size(base_size, current_vix, avg_vix):
@@ -80,7 +80,7 @@ Avoid trading during the first and last 30 minutes of the trading day to prevent
 
 #### RSI-Based Mean Reversion
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. An RSI below 30 indicates an [oversold](../o/oversold.md) condition, while an RSI above 70 indicates an [overbought](../o/overbought.md) condition.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. An RSI below 30 indicates an [oversold](../o/oversold.md) condition, while an RSI above 70 indicates an [overbought](../o/overbought.md) condition.
 
 ```python
 def rsi_mean_reversion_strategy(data):

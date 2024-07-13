@@ -23,7 +23,7 @@ Timing the [market](../m/market.md) is a [trading strategy](../t/trading_strateg
 Effective [market timing](../m/market_timing.md) often involves the use of sophisticated tools and techniques, many of which are underpinned by the aforementioned theories. Some common ones include:
 
 - **Moving Averages**: Used to smooth out price data to identify trends. Popular moving averages include the 50-day and 200-day moving averages.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: A [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages of a [security](../s/security.md)’s price.
 - **[Fibonacci Retracement](../f/fibonacci_retracement.md)**: A method of [technical analysis](../t/technical_analysis.md) for determining [support and resistance](../s/support_and_resistance.md) levels.
 - **[Economic Indicators](../e/economic_indicators.md)**: Macroeconomic data such as GDP [growth rates](../g/growth_rates_in_trading.md), [inflation](../i/inflation.md) rates, and [unemployment](../u/unemployment.md) figures can also provide context for predicting [market](../m/market.md) movements.

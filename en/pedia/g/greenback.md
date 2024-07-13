@@ -20,7 +20,7 @@ Numerous financial instruments, including bonds, [stocks](../s/stock.md), and [d
 
 ### Data Feeds and Market Indicators
 
-In [algorithmic trading](../a/accountability.md), the quality and reliability of data feeds are paramount. The USD plays a significant role in the data feeds that traders use to develop and refine their algorithms. Indicators like the USD [Index](../i/index.md) (DXY), which measures the [value](../v/value.md) of the USD against a basket of other significant currencies, are commonly used in [trading algorithms](../t/trading_algorithms.md) to gauge [market sentiment](../m/market_sentiment.md) and make forecasts.
+In [algorithmic trading](../a/accountability.md), the quality and reliability of data feeds are paramount. The USD plays a significant role in the data feeds that traders use to develop and refine their algorithms. Indicators like the USD [Index](../i/index_instrument.md) (DXY), which measures the [value](../v/value.md) of the USD against a basket of other significant currencies, are commonly used in [trading algorithms](../t/trading_algorithms.md) to gauge [market sentiment](../m/market_sentiment.md) and make forecasts.
 
 ### Forex Trading
 
@@ -54,7 +54,7 @@ In [algorithmic trading](../a/accountability.md), the quality and reliability of
 
 ### Economic Indicators
 
-For algorithms trading USD-based assets, it's crucial to monitor [key economic indicators](../k/key_economic_indicators.md). These indicators can include the US GDP growth rate, employment figures, consumer confidence [index](../i/index.md), and [inflation](../i/inflation.md) rates. Traders often integrate real-time data on these indicators into their algorithms to improve the accuracy of their trades.
+For algorithms trading USD-based assets, it's crucial to monitor [key economic indicators](../k/key_economic_indicators.md). These indicators can include the US GDP growth rate, employment figures, consumer confidence [index](../i/index_instrument.md), and [inflation](../i/inflation.md) rates. Traders often integrate real-time data on these indicators into their algorithms to improve the accuracy of their trades.
 
 ### Interest Rates
 

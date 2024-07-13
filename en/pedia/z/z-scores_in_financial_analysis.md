@@ -62,7 +62,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), [Z-scores](../z/z-scores_
 
 #### Performance Benchmarking
 
-Portfolio managers deploy [Z-scores](../z/z-scores_in_trading.md) to [benchmark](../b/benchmark.md) the performance of a portfolio relative to an [index](../i/index.md) or [peer group](../p/peer_group.md). This helps in understanding whether a portfolio's performance is due to skill or [market](../m/market.md) conditions.
+Portfolio managers deploy [Z-scores](../z/z-scores_in_trading.md) to [benchmark](../b/benchmark.md) the performance of a portfolio relative to an [index](../i/index_instrument.md) or [peer group](../p/peer_group.md). This helps in understanding whether a portfolio's performance is due to skill or [market](../m/market.md) conditions.
 
 #### Credit Risk Analysis
 
@@ -77,7 +77,7 @@ Despite their [utility](../u/utility.md), [Z-scores](../z/z-scores_in_trading.md
 
 ### Practical Example
 
-Consider a scenario where an analyst is evaluating the performance of a stock against its [benchmark](../b/benchmark.md) [index](../i/index.md), the S&P 500. Suppose the stock has returned 15%, the mean [return](../r/return.md) of the S&P 500 is 10%, and the [standard deviation](../s/standard_deviation.md) of the S&P 500 returns is 5%. The [Z-score](../z/z-score.md) would be calculated as:
+Consider a scenario where an analyst is evaluating the performance of a stock against its [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), the S&P 500. Suppose the stock has returned 15%, the mean [return](../r/return.md) of the S&P 500 is 10%, and the [standard deviation](../s/standard_deviation.md) of the S&P 500 returns is 5%. The [Z-score](../z/z-score.md) would be calculated as:
 
 \[ Z = \frac{15\% - 10\%}{5\%} = 1 \]
 

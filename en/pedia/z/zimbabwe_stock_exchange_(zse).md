@@ -113,7 +113,7 @@ The average daily trading [volume](../v/volume.md) on the ZSE has seen consisten
 
 ### Index Performance
 
-The ZSE maintains various indices to track [market](../m/market.md) performance, the most notable being the Zimbabwe Industrial [Index](../i/index.md) (ZSE-IND) and Zimbabwe [Mining](../m/mining.md) [Index](../i/index.md) (ZSE-MIN). These indices [offer](../o/offer.md) insights into sectoral performance and [market](../m/market.md) trends.
+The ZSE maintains various indices to track [market](../m/market.md) performance, the most notable being the Zimbabwe Industrial [Index](../i/index_instrument.md) (ZSE-IND) and Zimbabwe [Mining](../m/mining.md) [Index](../i/index_instrument.md) (ZSE-MIN). These indices [offer](../o/offer.md) insights into sectoral performance and [market](../m/market.md) trends.
 
 ## Protocols for Algorithmic Trading
 

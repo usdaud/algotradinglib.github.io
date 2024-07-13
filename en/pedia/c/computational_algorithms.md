@@ -27,7 +27,7 @@
 **[Momentum Trading](../m/momentum_trading.md)** relies on the [momentum](../m/momentum.md) of any given [asset](../a/asset.md) price showing that price trends [will](../w/will.md) continue to move in the same direction for some period. This strategy attempts to capture gains by riding upward or downward trends in prices, presupposing that [stocks](../s/stock.md) which have performed well in the past [will](../w/will.md) continue to perform well in the future, and vice versa.
 
 **Implementation**:
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
     ```python
     def calculate_rsi(data, window):
         [delta](../d/delta.md) = data.diff()

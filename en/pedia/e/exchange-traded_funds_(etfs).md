@@ -2,12 +2,12 @@
 
 [Exchange](../e/exchange.md)-Traded Funds (ETFs) are investment funds that are traded on stock exchanges, much like [stocks](../s/stock.md). An ETF holds assets such as [stocks](../s/stock.md), commodities, or bonds and generally operates with an [arbitrage](../a/arbitrage.md) mechanism designed to keep it trading close to its net [asset](../a/asset.md) [value](../v/value.md), although deviations can occasionally occur.
 
-ETFs are a popular choice among investors due to their flexibility, [liquidity](../l/liquidity.md), and low costs. They are usually constructed to track an [index](../i/index.md), such as the S&P 500, and provide investors with a way to earn returns similar to the performance of the [index](../i/index.md) without having to buy each individual stock within the [index](../i/index.md).
+ETFs are a popular choice among investors due to their flexibility, [liquidity](../l/liquidity.md), and low costs. They are usually constructed to track an [index](../i/index_instrument.md), such as the S&P 500, and provide investors with a way to earn returns similar to the performance of the [index](../i/index_instrument.md) without having to buy each individual stock within the [index](../i/index_instrument.md).
 
 ## Structure and Types of ETFs
 
 ### Equity ETFs
-[Equity](../e/equity.md) ETFs track a specific [index](../i/index.md) or sector of the [market](../m/market.md), such as technology, healthcare, or energy. They can be broad [market](../m/market.md) ETFs or sector-specific. Examples include the SPDR S&P 500 ETF (SPY) and the Technology Select Sector SPDR [Fund](../f/fund.md) (XLK).
+[Equity](../e/equity.md) ETFs track a specific [index](../i/index_instrument.md) or sector of the [market](../m/market.md), such as technology, healthcare, or energy. They can be broad [market](../m/market.md) ETFs or sector-specific. Examples include the SPDR S&P 500 ETF (SPY) and the Technology Select Sector SPDR [Fund](../f/fund.md) (XLK).
 
 ### Fixed-Income ETFs
 Fixed-[income](../i/income.md) ETFs invest in bonds or other [debt](../d/debt.md) instruments. They can focus on government, municipal, corporate, or high-[yield](../y/yield.md) bonds. Examples include the [iShares](../i/ishares.md) [U.S. Treasury](../u/u.s._treasury.md) [Bond ETF](../b/bond_etf.md) (GOVT) and the Vanguard Total [Bond Market](../b/bond_market.md) ETF (BND).
@@ -16,7 +16,7 @@ Fixed-[income](../i/income.md) ETFs invest in bonds or other [debt](../d/debt.md
 [Commodity](../c/commodity.md) ETFs invest in physical commodities like gold, silver, oil, or agricultural products. Notable examples include the SPDR Gold [Shares](../s/shares.md) (GLD) and the United States Oil [Fund](../f/fund.md) (USO).
 
 ### Inverse and Leveraged ETFs
-[Inverse ETFs](../i/inverse_etfs.md) are designed to [profit](../p/profit.md) from a decline in the [value](../v/value.md) of the [underlying](../u/underlying.md) [index](../i/index.md) or [asset](../a/asset.md). [Leveraged ETFs](../l/leveraged_etfs.md) aim to deliver multiples of the performance of the [index](../i/index.md) they track, both on the [upside](../u/upside.md) and downside. Examples include the ProShares UltraPro Short S&P 500 ETF (SPXU) and the Direxion Daily Financial [Bull](../b/bull.md) 3x [Shares](../s/shares.md) (FAS).
+[Inverse ETFs](../i/inverse_etfs.md) are designed to [profit](../p/profit.md) from a decline in the [value](../v/value.md) of the [underlying](../u/underlying.md) [index](../i/index_instrument.md) or [asset](../a/asset.md). [Leveraged ETFs](../l/leveraged_etfs.md) aim to deliver multiples of the performance of the [index](../i/index_instrument.md) they track, both on the [upside](../u/upside.md) and downside. Examples include the ProShares UltraPro Short S&P 500 ETF (SPXU) and the Direxion Daily Financial [Bull](../b/bull.md) 3x [Shares](../s/shares.md) (FAS).
 
 ### International ETFs
 International ETFs provide exposure to foreign markets and can be segmented by region (e.g., Europe, Asia) or by country. Examples include the [iShares](../i/ishares.md) MSCI Emerging Markets ETF (EEM) and the Vanguard FTSE Europe ETF (VGK).
@@ -35,13 +35,13 @@ ETFs typically distribute dividends received from their [underlying](../u/underl
 ## Advantages of ETFs
 
 ### Diversification
-ETFs provide investors with access to a diversified portfolio of securities, which can help reduce [risk](../r/risk.md) compared to [investing](../i/investing.md) in individual [stocks](../s/stock.md) or bonds. By tracking an [index](../i/index.md), ETFs enable investors to [gain](../g/gain.md) exposure to a broader [market](../m/market.md) or specific sectors with a single investment.
+ETFs provide investors with access to a diversified portfolio of securities, which can help reduce [risk](../r/risk.md) compared to [investing](../i/investing.md) in individual [stocks](../s/stock.md) or bonds. By tracking an [index](../i/index_instrument.md), ETFs enable investors to [gain](../g/gain.md) exposure to a broader [market](../m/market.md) or specific sectors with a single investment.
 
 ### Liquidity
 ETFs [trade](../t/trade.md) on exchanges throughout the trading day at [market](../m/market.md) prices, providing investors with the ability to buy and sell [shares](../s/shares.md) with ease. This [liquidity](../l/liquidity.md) makes it simpler to enter and exit positions compared to mutual funds, which are priced only at the end of the trading day.
 
 ### Cost Efficiency
-ETFs typically have lower [expense](../e/expense.md) ratios compared to mutual funds because they are passively managed, tracking an [index](../i/index.md) rather than relying on [active management](../a/active_management.md). This cost-[efficiency](../e/efficiency.md) can result in higher net returns for investors over time.
+ETFs typically have lower [expense](../e/expense.md) ratios compared to mutual funds because they are passively managed, tracking an [index](../i/index_instrument.md) rather than relying on [active management](../a/active_management.md). This cost-[efficiency](../e/efficiency.md) can result in higher net returns for investors over time.
 
 ### Transparency
 ETFs are generally required to disclose their [holdings](../h/holdings.md) on a daily [basis](../b/basis.md), providing investors with a clear view of the [fund](../f/fund.md)'s investments. This [transparency](../t/transparency.md) can help investors make more informed decisions.
@@ -58,7 +58,7 @@ ETFs [offer](../o/offer.md) flexibility in terms of investment strategies. Inves
 Like all investments, ETFs are subject to [market risk](../m/market_risk.md). The [value](../v/value.md) of an ETF can fluctuate based on the performance of its [underlying](../u/underlying.md) assets. Investors should be prepared for potential losses, especially in volatile markets.
 
 ### Tracking Error
-[Tracking error](../t/tracking_error.md) refers to the discrepancy between the ETF's performance and the performance of the [index](../i/index.md) it aims to track. Factors contributing to [tracking error](../t/tracking_error.md) include management fees, [trading costs](../t/trading_costs.md), and imperfect replication of the [index](../i/index.md). 
+[Tracking error](../t/tracking_error.md) refers to the discrepancy between the ETF's performance and the performance of the [index](../i/index_instrument.md) it aims to track. Factors contributing to [tracking error](../t/tracking_error.md) include management fees, [trading costs](../t/trading_costs.md), and imperfect replication of the [index](../i/index_instrument.md). 
 
 ### Liquidity Risk
 While many ETFs are highly [liquid](../l/liquid.md), some ETFs, especially those that invest in less [liquid](../l/liquid.md) assets, can experience [liquidity risk](../l/liquidity_risk.md). This [risk](../r/risk.md) can manifest in wider [bid](../b/bid.md)-ask [spreads](../s/spreads.md) and increased [trading costs](../t/trading_costs.md) during periods of [market](../m/market.md) stress or [illiquidity](../i/illiquid.md).

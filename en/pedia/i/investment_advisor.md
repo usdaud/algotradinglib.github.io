@@ -75,7 +75,7 @@ The Australian Securities and Investments [Commission](../c/commission.md) (ASIC
 ## Leading Investment Advisory Firms
 
 ### Vanguard
-Vanguard is one of the world's largest [investment management](../i/investment_management.md) companies, known for its low-cost [index](../i/index.md) funds and ETFs. They [offer](../o/offer.md) comprehensive financial advisory services, including personalized investment advice and [portfolio management](../p/par.md).
+Vanguard is one of the world's largest [investment management](../i/investment_management.md) companies, known for its low-cost [index](../i/index_instrument.md) funds and ETFs. They [offer](../o/offer.md) comprehensive financial advisory services, including personalized investment advice and [portfolio management](../p/par.md).
 
 ### Charles Schwab
 [Charles Schwab](../c/charles_schwab.md) provides a wide [range](../r/range.md) of investment advisory services, from robo-advisors to personalized [financial planning](../f/financial_planning.md). Their Schwab Intelligent Portfolios offers automated, low-cost [investment management](../i/investment_management.md).

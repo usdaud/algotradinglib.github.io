@@ -29,7 +29,7 @@ The structure and form of a double top make it amenable to automated detection u
 
 ### Integration with Indicators
 
-Double tops can be integrated with other [technical indicators](../t/technical_indicator.md) to enhance the accuracy of [trade](../t/trade.md) signals. Algorithms often combine double tops with [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Averages, and [Volume indicators](../v/volume_indicators.md) to filter out [false signals](../f/false_signals_in_trading.md).
+Double tops can be integrated with other [technical indicators](../t/technical_indicator.md) to enhance the accuracy of [trade](../t/trade.md) signals. Algorithms often combine double tops with [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Averages, and [Volume indicators](../v/volume_indicators.md) to filter out [false signals](../f/false_signals_in_trading.md).
 
 ## Example of Algorithm Implementation
 
@@ -76,7 +76,7 @@ def detect_double_top(prices):
     
     if np.isclose(peak1, peak2, atol=0.01):
         if prices[trough_index] > prices[peaks[1][0]]:
-            [return](../r/return.md) "Double Top Detected at [index](../i/index.md)", peaks[1][0]
+            [return](../r/return.md) "Double Top Detected at [index](../i/index_instrument.md)", peaks[1][0]
     
     [return](../r/return.md) "No Double Top"
 

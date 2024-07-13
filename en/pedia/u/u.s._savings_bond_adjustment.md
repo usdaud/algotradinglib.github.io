@@ -14,7 +14,7 @@ Series EE Bonds are considered safe and reliable for investors looking for a pre
 
 ### Series I Savings Bonds
 
-Series I Bonds [offer](../o/offer.md) a unique combination of a [fixed interest rate](../f/fixed_interest_rate.md) and a variable [inflation](../i/inflation.md) rate. These bonds are designed to protect the [investor](../i/investor.md)’s [purchasing power](../p/purchasing_power.md) by adjusting the [interest rate](../i/interest_rate.md) semiannually based on changes in the Consumer Price [Index](../i/index.md) for All Urban Consumers (CPI-U). The fixed rate remains the same for the life of the [bond](../b/bond.md), while the [inflation](../i/inflation.md) rate can vary.
+Series I Bonds [offer](../o/offer.md) a unique combination of a [fixed interest rate](../f/fixed_interest_rate.md) and a variable [inflation](../i/inflation.md) rate. These bonds are designed to protect the [investor](../i/investor.md)’s [purchasing power](../p/purchasing_power.md) by adjusting the [interest rate](../i/interest_rate.md) semiannually based on changes in the Consumer Price [Index](../i/index_instrument.md) for All Urban Consumers (CPI-U). The fixed rate remains the same for the life of the [bond](../b/bond.md), while the [inflation](../i/inflation.md) rate can vary.
 
 ## Adjustment Mechanisms
 

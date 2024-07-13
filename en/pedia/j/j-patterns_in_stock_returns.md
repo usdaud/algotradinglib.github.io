@@ -32,7 +32,7 @@ The identification and exploitation of J-patterns [offer](../o/offer.md) valuabl
 
 ### Example of a J-Pattern Algorithm
 
-A simple J-pattern detection algorithm might use [technical indicators](../t/technical_indicators.md) such as [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to pinpoint potential buy signals at the bottom of the J-formation. The algorithm would look for:
+A simple J-pattern detection algorithm might use [technical indicators](../t/technical_indicators.md) such as [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to pinpoint potential buy signals at the bottom of the J-formation. The algorithm would look for:
 1. RSI values below 30 indicating [oversold](../o/oversold.md) conditions.
 2. A MACD crossover signifying a change in [momentum](../m/momentum.md).
 3. Confirmation through [volume](../v/volume.md) spikes suggesting the exhaustion of selling pressure.

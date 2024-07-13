@@ -23,7 +23,7 @@ These are short-term securities that mature in one year or less. They are sold a
 These are medium-term securities with maturities ranging from two to ten years. They pay [interest](../i/interest.md) every six months and [return](../r/return.md) the [principal](../p/principal.md) upon [maturity](../m/maturity.md).
 
 ### Treasury Inflation-Protected Securities (TIPS)
-Although less common in MMFs due to their longer maturities, some funds may [hold](../h/hold.md) TIPS. These are designed to protect against [inflation](../i/inflation.md) and derive their [principal](../p/principal.md) [value](../v/value.md) from the Consumer Price [Index](../i/index.md) (CPI).
+Although less common in MMFs due to their longer maturities, some funds may [hold](../h/hold.md) TIPS. These are designed to protect against [inflation](../i/inflation.md) and derive their [principal](../p/principal.md) [value](../v/value.md) from the Consumer Price [Index](../i/index_instrument.md) (CPI).
 
 ## How They Work
 

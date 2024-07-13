@@ -23,7 +23,7 @@ The behavior of weak longs can amplify [market](../m/market.md) movements and co
 
 Traders and analysts use various tools and indicators to identify the presence of weak longs in the [market](../m/market.md). Some of these methods include:
 
-1. **[Technical Analysis](../t/technical_analysis.md)**: Indicators such as [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Averages, and [Volume Analysis](../v/volume_analysis.md) can provide insights into [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, where weak longs are more likely to exit their positions.
+1. **[Technical Analysis](../t/technical_analysis.md)**: Indicators such as [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Averages, and [Volume Analysis](../v/volume_analysis.md) can provide insights into [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, where weak longs are more likely to exit their positions.
 2. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Monitoring [sentiment indicators](../s/sentiment_indicators.md), [social media](../s/social_media.md) chatter, and news sentiment can help gauge the proportion of [market](../m/market.md) participants who are more likely to be [weak hands](../w/weak_hands.md).
 3. **Historical Patterns**: Studying past price movements and trading [volume](../v/volume.md) can reveal patterns associated with the behavior of weak longs during similar [market](../m/market.md) conditions.
 

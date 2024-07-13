@@ -1,6 +1,6 @@
 # Bond ETF
 
-A [Bond](../b/bond.md) [Exchange](../e/exchange.md)-Traded [Fund](../f/fund.md) ([Bond](../b/bond.md) ETF) is a type of [investment fund](../i/investment_fund.md) that holds a portfolio of bonds and is traded on stock exchanges, similar to [stocks](../s/stock.md). [Bond](../b/bond.md) ETFs [offer](../o/offer.md) investors a convenient way to [gain](../g/gain.md) exposure to the [bond market](../b/bond_market.md) without having to buy individual bonds. These funds aim to replicate the performance of a specific [bond](../b/bond.md) [index](../i/index.md), understand the broader [bond market](../b/bond_market.md), or follow a particular [investment strategy](../i/investment_strategy.md).
+A [Bond](../b/bond.md) [Exchange](../e/exchange.md)-Traded [Fund](../f/fund.md) ([Bond](../b/bond.md) ETF) is a type of [investment fund](../i/investment_fund.md) that holds a portfolio of bonds and is traded on stock exchanges, similar to [stocks](../s/stock.md). [Bond](../b/bond.md) ETFs [offer](../o/offer.md) investors a convenient way to [gain](../g/gain.md) exposure to the [bond market](../b/bond_market.md) without having to buy individual bonds. These funds aim to replicate the performance of a specific [bond](../b/bond.md) [index](../i/index_instrument.md), understand the broader [bond market](../b/bond_market.md), or follow a particular [investment strategy](../i/investment_strategy.md).
 
 ## Basics of Bond ETFs
 
@@ -68,7 +68,7 @@ ETFs that invest in corporate or high-[yield](../y/yield.md) bonds are subject t
 
 ### Tracking Error
 
-There can be a disparity between the ETF's performance and the performance of the [underlying](../u/underlying.md) [index](../i/index.md) it aims to replicate. This difference, known as [tracking error](../t/tracking_error.md), can be due to management fees, [transaction costs](../t/transaction_costs.md), and other factors.
+There can be a disparity between the ETF's performance and the performance of the [underlying](../u/underlying.md) [index](../i/index_instrument.md) it aims to replicate. This difference, known as [tracking error](../t/tracking_error.md), can be due to management fees, [transaction costs](../t/transaction_costs.md), and other factors.
 
 ### Liquidity Risk
 
@@ -84,7 +84,7 @@ While [Bond](../b/bond.md) ETFs are generally [liquid](../l/liquid.md), there ma
 
 ### Vanguard
 
-Vanguard is known for its low-cost [index](../i/index.md) funds and ETFs. Vanguard offers several [bond](../b/bond.md) ETFs, including those focused on U.S. Treasuries, corporate bonds, and international bonds.
+Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and ETFs. Vanguard offers several [bond](../b/bond.md) ETFs, including those focused on U.S. Treasuries, corporate bonds, and international bonds.
 
 [Visit Vanguard](https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns)
 

@@ -18,7 +18,7 @@ The [market sentiment](../m/market_sentiment.md) becomes overwhelmingly negative
 
 ### 3. Oversold Conditions
 
-[Technical indicators](../t/technical_indicator.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) may show that the [market](../m/market.md) is in [oversold](../o/oversold.md) territory. An RSI below 30 is often taken as a sign that an [asset](../a/asset.md) is [oversold](../o/oversold.md), indicating potential for a rebound.
+[Technical indicators](../t/technical_indicator.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) may show that the [market](../m/market.md) is in [oversold](../o/oversold.md) territory. An RSI below 30 is often taken as a sign that an [asset](../a/asset.md) is [oversold](../o/oversold.md), indicating potential for a rebound.
 
 ### 4. Sharp Price Decline
 

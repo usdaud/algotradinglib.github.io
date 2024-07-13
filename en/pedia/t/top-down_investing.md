@@ -68,10 +68,10 @@ For further information, visit [Bridgewater Associates](https://www.bridgewater.
 
 ### 1. Economic Indicators
 Tools such as [economic indicators](../e/economic_indicators.md) provide critical insights into the health of an [economy](../e/economy.md). Important indicators include:
-- Industrial Production [Index](../i/index.md)
-- Consumer Confidence [Index](../i/index.md)
+- Industrial Production [Index](../i/index_instrument.md)
+- Consumer Confidence [Index](../i/index_instrument.md)
 - [Unemployment](../u/unemployment.md) Claims
-- Purchasing Managers' [Index](../i/index.md) (PMI)
+- Purchasing Managers' [Index](../i/index_instrument.md) (PMI)
 
 ### 2. Sector ETFs
 Sector-specific [exchange](../e/exchange.md)-traded funds (ETFs) can also be utilized to [gain](../g/gain.md) exposure to particular sectors without having to pick individual [stocks](../s/stock.md). Funds like the SPDR [Sector ETFs](../s/sector_etfs.md) enable investors to [capitalize](../c/capitalize.md) on sector trends.

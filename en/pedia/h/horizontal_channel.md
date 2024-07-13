@@ -42,7 +42,7 @@ Another effective strategy is [breakout trading](../b/breakout_trading.md), whic
 
 Traders often use [technical indicators](../t/technical_indicator.md) to confirm the signals provided by a horizontal channel. Some commonly used indicators include:
 
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: This [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) can help identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: This [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) can help identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
   
 2. **Moving Averages**: Simple moving averages (SMA) or exponential moving averages (EMA) can help determine [trend](../t/trend.md) direction and potential [reversal](../r/reversal.md) points.
   

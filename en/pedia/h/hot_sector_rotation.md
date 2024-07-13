@@ -39,7 +39,7 @@ Algo-[trading strategies](../t/trading_strategies.md) for hot [sector rotation](
 ### Quantitative Indicators and Analysis
 
 [Quantitative analysis](../q/quantitative_analysis.md) is integral to algo-[trading strategies](../t/trading_strategies.md). Commonly used indicators in [sector rotation](../s/sector_rotation.md) include:
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements, identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements, identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **Moving Averages**: Helps in smoothing out price data to identify trends and potential [reversal](../r/reversal.md) points.
 - **Sector [Momentum](../m/momentum.md)**: Analyzing the [momentum](../m/momentum.md) of a sector’s price movements relative to the broader [market](../m/market.md).
 - **[Correlation Analysis](../c/correlation_analysis.md)**: Studying the relationships between different sectors to forecast cross-sectoral performance impacts.

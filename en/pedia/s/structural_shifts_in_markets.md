@@ -50,7 +50,7 @@ Shifts in [investor](../i/investor.md) behavior can also result in significant s
 
 **1. Rise of [Passive Investing](../p/passive_investing.md)**
 
-Over the past few decades, there has been a substantial shift from active to [passive investing](../p/passive_investing.md). This [trend](../t/trend.md) is exemplified by the rise of [index](../i/index.md) funds and ETFs, managed by companies like Vanguard (https://www.vanguard.com/). This shift has implications for [market efficiency](../m/market_efficiency.md) and [volatility](../v/volatility.md), as passive funds tend to follow [market](../m/market.md) trends rather than exploit inefficiencies.
+Over the past few decades, there has been a substantial shift from active to [passive investing](../p/passive_investing.md). This [trend](../t/trend.md) is exemplified by the rise of [index](../i/index_instrument.md) funds and ETFs, managed by companies like Vanguard (https://www.vanguard.com/). This shift has implications for [market efficiency](../m/market_efficiency.md) and [volatility](../v/volatility.md), as passive funds tend to follow [market](../m/market.md) trends rather than exploit inefficiencies.
 
 **2. [ESG Investing](../e/esg_investing.md)**
 

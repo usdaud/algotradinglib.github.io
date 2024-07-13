@@ -62,7 +62,7 @@ Advanced trading platforms with low latency and high-speed [execution](../e/exec
 
 ### Technical Indicators
 
-[Technical indicators](../t/technical_indicator.md) such as moving averages, [Bollinger Bands](../b/bollinger_band.md), and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) are commonly used to identify entry and exit points. Scalpers often rely on short-term indicators to capture quick price movements.
+[Technical indicators](../t/technical_indicator.md) such as moving averages, [Bollinger Bands](../b/bollinger_band.md), and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) are commonly used to identify entry and exit points. Scalpers often rely on short-term indicators to capture quick price movements.
 
 ### Automated Trading Systems
 

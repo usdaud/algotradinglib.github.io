@@ -1,11 +1,11 @@
 # Zero Inflation Bond Valuation
 
 ### Introduction
-Zero [Inflation](../i/inflation.md) Bonds, also known as [Inflation](../i/inflation.md)-Indexed Bonds or [Inflation-Linked Bonds](../i/inflation-linked_bonds.md) (ILBs), are a type of [fixed-income security](../f/fixed-income_security.md) designed to protect investors from [inflation](../i/inflation.md). Unlike traditional bonds, which pay a fixed [nominal interest rate](../n/nominal_interest_rate.md), the [principal](../p/principal.md) and [interest](../i/interest.md) payments of Zero [Inflation](../i/inflation.md) Bonds are adjusted for [inflation](../i/inflation.md), typically linked to a widely recognized [inflation](../i/inflation.md) [index](../i/index.md) such as the Consumer Price [Index](../i/index.md) (CPI). This ensures that the [purchasing power](../p/purchasing_power.md) of the [bond](../b/bond.md)'s returns remains stable, regardless of inflationary pressures.
+Zero [Inflation](../i/inflation.md) Bonds, also known as [Inflation](../i/inflation.md)-Indexed Bonds or [Inflation-Linked Bonds](../i/inflation-linked_bonds.md) (ILBs), are a type of [fixed-income security](../f/fixed-income_security.md) designed to protect investors from [inflation](../i/inflation.md). Unlike traditional bonds, which pay a fixed [nominal interest rate](../n/nominal_interest_rate.md), the [principal](../p/principal.md) and [interest](../i/interest.md) payments of Zero [Inflation](../i/inflation.md) Bonds are adjusted for [inflation](../i/inflation.md), typically linked to a widely recognized [inflation](../i/inflation.md) [index](../i/index_instrument.md) such as the Consumer Price [Index](../i/index_instrument.md) (CPI). This ensures that the [purchasing power](../p/purchasing_power.md) of the [bond](../b/bond.md)'s returns remains stable, regardless of inflationary pressures.
 
 ### Characteristics of Zero Inflation Bonds
 Zero [Inflation](../i/inflation.md) Bonds have several distinctive characteristics:
-1. **[Principal](../p/principal.md) Adjustment**: The [bond](../b/bond.md)'s [principal](../p/principal.md) is adjusted periodically based on changes in the [inflation](../i/inflation.md) [index](../i/index.md).
+1. **[Principal](../p/principal.md) Adjustment**: The [bond](../b/bond.md)'s [principal](../p/principal.md) is adjusted periodically based on changes in the [inflation](../i/inflation.md) [index](../i/index_instrument.md).
 2. **Fixed Real [Coupon Rate](../c/coupon_rate.md)**: The [coupon rate](../c/coupon_rate.md) is fixed, but the [interest](../i/interest.md) [payment](../p/payment.md) is based on the [inflation](../i/inflation.md)-adjusted [principal](../p/principal.md).
 3. **[Inflation](../i/inflation.md) Compensation**: Investors receive compensation for [inflation](../i/inflation.md) through adjustments to both the [principal](../p/principal.md) and coupon payments.
 4. **[Deflation](../d/deflation.md) Protection**: Many Zero [Inflation](../i/inflation.md) Bonds provide a floor on the [principal](../p/principal.md), usually at the original amount, protecting against [deflation](../d/deflation.md).
@@ -41,7 +41,7 @@ Where:
 ### Factors Influencing Zero Inflation Bond Valuation
 Several factors can influence the [valuation](../v/valuation.md) of Zero [Inflation](../i/inflation.md) Bonds:
 
-1. **[Inflation](../i/inflation.md) [Index](../i/index.md)**: The choice of [inflation](../i/inflation.md) [index](../i/index.md) (e.g., CPI) influences the adjustment of the [principal](../p/principal.md) and [interest](../i/interest.md) payments.
+1. **[Inflation](../i/inflation.md) [Index](../i/index_instrument.md)**: The choice of [inflation](../i/inflation.md) [index](../i/index_instrument.md) (e.g., CPI) influences the adjustment of the [principal](../p/principal.md) and [interest](../i/interest.md) payments.
 2. **[Inflation](../i/inflation.md) Expectations**: Persistent deviations in [inflation](../i/inflation.md) expectations can significantly affect the [bond](../b/bond.md)'s [valuation](../v/valuation.md).
 3. **Real [Interest](../i/interest.md) Rates**: Changes in real [interest](../i/interest.md) rates directly impact the [discounting](../d/discounting.md) of future real cash flows.
 4. **[Economic Conditions](../e/economic_conditions.md)**: Macroeconomic variables such as [economic growth](../e/economic_growth.md), [monetary policy](../m/monetary_policy.md), and [fiscal policy](../f/fiscal_policy.md) can influence both [inflation](../i/inflation.md) expectations and real [interest](../i/interest.md) rates.
@@ -58,7 +58,7 @@ Zero [Inflation](../i/inflation.md) Bonds are utilized for various purposes:
 Zero [Inflation](../i/inflation.md) Bonds are primarily issued by sovereign governments, with the United States, United Kingdom, and certain [Eurozone](../e/eurozone.md) countries being notable issuers. Prominent examples include:
 
 - **[U.S. Treasury](../u/u.s._treasury.md) [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS)**: Issued by the U.S. Department of the Treasury (https://www.treasurydirect.gov/).
-- **UK [Index](../i/index.md)-Linked [Gilts](../g/gilts.md)**: Issued by the UK [Debt](../d/debt.md) Management Office (https://www.dmo.gov.uk/).
+- **UK [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md)**: Issued by the UK [Debt](../d/debt.md) Management Office (https://www.dmo.gov.uk/).
 - **[Eurozone](../e/eurozone.md) [Inflation-Linked Bonds](../i/inflation-linked_bonds.md)**: Issued by various countries within the [Eurozone](../e/eurozone.md).
 
 ### Conclusion

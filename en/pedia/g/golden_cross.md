@@ -67,7 +67,7 @@ Before relying on the Golden Cross signal, traders often backtest it using histo
 
 ### Combining with Other Indicators
 Traders often combine the Golden Cross with other [technical indicators](../t/technical_indicators.md) for more [robust](../r/robust.md) analysis:
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Helps confirm whether the [asset](../a/asset.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md).
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Helps confirm whether the [asset](../a/asset.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md).
 - **MACD (Moving Average Convergence [Divergence](../d/divergence.md))**: Can provide additional insight into the strength and direction of the [trend](../t/trend.md).
 
 ## Conclusion

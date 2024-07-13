@@ -47,7 +47,7 @@ Calmar Ratio = Average [Annual Return](../a/annual_return.md) / Maximum [Drawdow
 **Importance**: Provides a comprehensive measure by incorporating both [return](../r/return.md) and [risk](../r/risk.md).
 
 ## 6. **Alpha**
-[Alpha](../a/alpha.md) indicates the algorithm's performance relative to a [benchmark](../b/benchmark.md) [index](../i/index.md). A positive [alpha](../a/alpha.md) indicates outperformance, while a negative [alpha](../a/alpha.md) indicates underperformance.
+[Alpha](../a/alpha.md) indicates the algorithm's performance relative to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). A positive [alpha](../a/alpha.md) indicates outperformance, while a negative [alpha](../a/alpha.md) indicates underperformance.
 
 **Formula**:  
 ```

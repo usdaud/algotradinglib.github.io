@@ -14,7 +14,7 @@ The concept of managed [futures](../f/futures.md) dates back to the 1970s when t
 ### Trend Following
 [Trend](../t/trend.md)-following is one of the most popular and widely used strategies in managed [futures](../f/futures.md). It relies on the premise that markets often move in trends, which can be exploited by taking positions in the direction of the prevailing [market](../m/market.md) movement. [Trend](../t/trend.md)-following strategies typically involve:
 - **Moving Averages**: Utilizing [moving average crossovers](../m/moving_average_crossovers.md) to identify trends.
-- **[Momentum Indicators](../m/momentum_indicators.md)**: Tools like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to spot potential [trade](../t/trade.md) opportunities.
+- **[Momentum Indicators](../m/momentum_indicators.md)**: Tools like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to spot potential [trade](../t/trade.md) opportunities.
 
 ### Arbitrage
 [Arbitrage](../a/arbitrage.md) strategies in managed [futures](../f/futures.md) aim to exploit price discrepancies between related instruments or markets. These opportunities arise from inefficiencies in the markets and can involve:

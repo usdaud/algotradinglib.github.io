@@ -36,7 +36,7 @@ Share price analysis is a critical aspect of [financial markets](../f/financial_
 
 2. **Indicators**
     - **Moving Averages**: Smooth out price data to identify the direction of the [trend](../t/trend.md).
-    - **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements.
+    - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements.
     - **MACD (Moving Average Convergence [Divergence](../d/divergence.md))**: Shows the relationship between two moving averages.
 
 3. **Patterns**

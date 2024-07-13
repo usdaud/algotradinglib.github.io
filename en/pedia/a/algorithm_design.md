@@ -17,7 +17,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies [leverage](../l/leverage.m
 
 - **Pair Trading:** This involves identifying pairs of highly correlated [stocks](../s/stock.md) and placing simultaneous long and short positions. The strategy profits from the assumption that any [divergence](../d/divergence.md) in their prices [will](../w/will.md) revert to the mean.
 - **[Market Neutral](../m/market_neutral.md):** These strategies aim to remove [market risk](../m/market_risk.md) by taking both long and short positions in related assets, seeking to [profit](../p/profit.md) purely from the price differentials.
-- **[Index](../i/index.md) [Arbitrage](../a/arbitrage.md):** This type of strategy exploits discrepancies between the prices of [index futures](../i/index_futures.md) and the constituent [stocks](../s/stock.md) in the [underlying](../u/underlying.md) [index](../i/index.md).
+- **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md):** This type of strategy exploits discrepancies between the prices of [index futures](../i/index_futures.md) and the constituent [stocks](../s/stock.md) in the [underlying](../u/underlying.md) [index](../i/index_instrument.md).
 
 ### 3. **Machine Learning Algorithms**
 Machine [learning algorithms](../l/learning_algorithms_in_trading.md) have gained significant traction in [algorithmic trading](../a/algorithmic_trading.md) due to their ability to learn from and adapt to new data. Some approaches include:

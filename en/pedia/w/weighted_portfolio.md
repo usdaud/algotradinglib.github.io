@@ -16,7 +16,7 @@ In [finance](../f/finance.md), a portfolio refers to a collection of investments
 2. **[Market Capitalization](../m/market_capitalization.md) Weighting**:
     - Assets are [weighted](../w/weighted.md) based on their [market capitalization](../m/market_capitalization.md).
     - Larger companies receive a greater proportion of [capital](../c/capital.md).
-    - Commonly used in [index](../i/index.md) funds tracking major indices like the S&P 500.
+    - Commonly used in [index](../i/index_instrument.md) funds tracking major indices like the S&P 500.
 
 3. **Fundamental Weighting**:
     - Assets are [weighted](../w/weighted.md) based on fundamental factors like [revenue](../r/revenue.md), [earnings](../e/earnings.md), dividends, or [book value](../b/book_value.md).

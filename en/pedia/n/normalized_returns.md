@@ -34,7 +34,7 @@ There are [multiple](../m/multiple.md) ways to normalize returns, depending on t
    \]
    where \( R \) is the [return](../r/return.md) of the [asset](../a/asset.md), \( R_f \) is the [risk](../r/risk.md)-free rate, and \( \sigma \) is the [standard deviation](../s/standard_deviation.md) of the [asset](../a/asset.md)'s [excess return](../e/excess_return.md).
 
-4. **[Benchmark](../b/benchmark.md) Normalization**: This method involves comparing returns to an [index](../i/index.md) or [benchmark](../b/benchmark.md). The [return](../r/return.md) is divided by the [benchmark](../b/benchmark.md) [return](../r/return.md) to [yield](../y/yield.md) a normalized figure.
+4. **[Benchmark](../b/benchmark.md) Normalization**: This method involves comparing returns to an [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md). The [return](../r/return.md) is divided by the [benchmark](../b/benchmark.md) [return](../r/return.md) to [yield](../y/yield.md) a normalized figure.
 
 #### Application in Algorithmic Trading
 

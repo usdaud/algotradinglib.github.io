@@ -21,7 +21,7 @@ An [upside](../u/upside.md) [volume](../v/volume.md) [breakout](../b/breakout.md
 ## Identifying Upside Volume Breakouts
 
 1. **[Chart Patterns](../c/chart_patterns.md)**: Look for [chart patterns](../c/chart_patterns.md) that indicate pent-up buying pressure, such as ascending triangles, cup-and-[handle](../h/handle.md) formations, or other recognizable setups where resistance levels are identified.
-2. **[Technical Indicators](../t/technical_indicators.md)**: Utilize [technical indicators](../t/technical_indicators.md) like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and On Balance [Volume](../v/volume.md) (OBV) to help confirm breakouts.
+2. **[Technical Indicators](../t/technical_indicators.md)**: Utilize [technical indicators](../t/technical_indicators.md) like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and On Balance [Volume](../v/volume.md) (OBV) to help confirm breakouts.
 3. **[Volume Analysis](../v/volume_analysis.md)**: Compare the [volume](../v/volume.md) during the [breakout](../b/breakout.md) to average daily [volume](../v/volume.md). A significant increase in [volume](../v/volume.md) suggests the [breakout](../b/breakout.md) is genuine.
 
 ## Trading Strategies for Upside Volume Breakouts

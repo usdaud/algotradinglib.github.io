@@ -56,7 +56,7 @@ DSP techniques are integral to [algorithmic trading](../a/algorithmic_trading.md
 
 [Technical analysis](../t/technical_analysis.md) involves using historical price and [volume](../v/volume.md) data to predict future price movements. DSP enhances [technical analysis](../t/technical_analysis.md) by providing advanced tools for data processing.
 
-- **[Momentum Indicators](../m/momentum_indicators.md):** DSP can calculate [momentum indicators](../m/momentum_indicators.md) like Moving Average Convergence [Divergence](../d/divergence.md) (MACD) or [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), which are crucial for identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Momentum Indicators](../m/momentum_indicators.md):** DSP can calculate [momentum indicators](../m/momentum_indicators.md) like Moving Average Convergence [Divergence](../d/divergence.md) (MACD) or [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), which are crucial for identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Cycle Analysis](../c/cycle_analysis.md):** Through Fourier and wavelet transforms, traders can detect cycles in price data, allowing them to anticipate periodic [market](../m/market.md) movements.
 
 #### Quantitative Analysis

@@ -24,7 +24,7 @@ Various exogenous variables may impact trading decisions, ranging from macroecon
 
 1. **[Interest](../i/interest.md) Rates**: Central [bank](../b/bank.md) decisions on [interest](../i/interest.md) rates can impact [currency](../c/currency.md) values, [bond](../b/bond.md) prices, and [investor](../i/investor.md) sentiment. For instance, an unexpected rate hike by the Federal Reserve can cause significant [market](../m/market.md) movements.
    
-2. **[Inflation](../i/inflation.md) Rates**: Rising [inflation](../i/inflation.md) generally leads to tighter [monetary policy](../m/monetary_policy.md), which can affect [equity](../e/equity.md) and [bond](../b/bond.md) markets. For example, a high Consumer Price [Index](../i/index.md) (CPI) can lead traders to anticipate changes in [inflation](../i/inflation.md)-driven central [bank](../b/bank.md) policies.
+2. **[Inflation](../i/inflation.md) Rates**: Rising [inflation](../i/inflation.md) generally leads to tighter [monetary policy](../m/monetary_policy.md), which can affect [equity](../e/equity.md) and [bond](../b/bond.md) markets. For example, a high Consumer Price [Index](../i/index_instrument.md) (CPI) can lead traders to anticipate changes in [inflation](../i/inflation.md)-driven central [bank](../b/bank.md) policies.
 
 3. **GDP [Growth Rates](../g/growth_rates_in_trading.md)**: Strong GDP growth signals a healthy [economy](../e/economy.md), often leading to bullish sentiment in [equity](../e/equity.md) markets. Conversely, negative GDP growth or [recession indicators](../r/recession_indicators.md) can trigger bearish trends.
 

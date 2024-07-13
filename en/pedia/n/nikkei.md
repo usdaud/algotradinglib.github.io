@@ -4,7 +4,7 @@ The Nikkei 225, commonly referred to as the Nikkei, is a stock [market index](..
 
 ## History and Origin
 
-The Nikkei 225 was established on May 16, 1949, by Nihon Keizai Shimbun (Japan Economic Newspaper), which is also known as The Nikkei and is the largest financial newspaper in Japan. The [index](../i/index.md) was aimed at providing a comprehensive [indicator](../i/indicator.md) of the performance of the Japanese [market](../m/market.md) and has since become a key barometer for assessing economic and financial conditions in Japan.
+The Nikkei 225 was established on May 16, 1949, by Nihon Keizai Shimbun (Japan Economic Newspaper), which is also known as The Nikkei and is the largest financial newspaper in Japan. The [index](../i/index_instrument.md) was aimed at providing a comprehensive [indicator](../i/indicator.md) of the performance of the Japanese [market](../m/market.md) and has since become a key barometer for assessing economic and financial conditions in Japan.
 
 ## Calculation Method
 
@@ -12,11 +12,11 @@ Unlike [market](../m/market.md)-cap [weighted](../w/weighted.md) indexes such as
 
 \[ \text{Nikkei 225 Level} = \frac{\sum \text{Prices of 225 Constituents}}{\text{Divisor}} \]
 
-The divisor is adjusted periodically to reflect stock splits, dividends, and other corporate actions, ensuring the continuity and accuracy of the [index](../i/index.md) over time.
+The divisor is adjusted periodically to reflect stock splits, dividends, and other corporate actions, ensuring the continuity and accuracy of the [index](../i/index_instrument.md) over time.
 
 ## Constituents and Composition
 
-The Nikkei 225 comprises 225 companies selected from the TSE's First Section, which includes the largest and most stable companies traded on the [exchange](../e/exchange.md). The selection process involves considerations of sector balance and other qualitative factors. The [index](../i/index.md) covers a broad [range](../r/range.md) of industries including technology, [finance](../f/finance.md), [consumer goods](../c/consumer_goods.md), and healthcare. Notable companies in the Nikkei 225 include:
+The Nikkei 225 comprises 225 companies selected from the TSE's First Section, which includes the largest and most stable companies traded on the [exchange](../e/exchange.md). The selection process involves considerations of sector balance and other qualitative factors. The [index](../i/index_instrument.md) covers a broad [range](../r/range.md) of industries including technology, [finance](../f/finance.md), [consumer goods](../c/consumer_goods.md), and healthcare. Notable companies in the Nikkei 225 include:
 
 - **Toyota Motor [Corporation](../c/corporation.md) (7203.T)**
 - **SoftBank Group Corp. (9984.T)**
@@ -91,7 +91,7 @@ Setting [stop-loss orders](../s/stop-loss_orders.md) can help protect against si
 
 ## Conclusion
 
-The Nikkei 225 remains one of the most important and widely-followed [stock market](../s/stock_market.md) indexes globally. Its extensive history, diverse composition, and importance as an [economic indicator](../e/economic_indicator.md) make it essential for investors and economists. With advancements in [algorithmic trading](../a/accountability.md) and FinTech, the ways in which [market](../m/market.md) participants [trade](../t/trade.md) and interact with the Nikkei 225 continue to evolve. Understanding the intricacies of this [index](../i/index.md) is crucial for anyone involved in global [financial markets](../f/financial_market.md).
+The Nikkei 225 remains one of the most important and widely-followed [stock market](../s/stock_market.md) indexes globally. Its extensive history, diverse composition, and importance as an [economic indicator](../e/economic_indicator.md) make it essential for investors and economists. With advancements in [algorithmic trading](../a/accountability.md) and FinTech, the ways in which [market](../m/market.md) participants [trade](../t/trade.md) and interact with the Nikkei 225 continue to evolve. Understanding the intricacies of this [index](../i/index_instrument.md) is crucial for anyone involved in global [financial markets](../f/financial_market.md).
 
 For more information, you can visit the official Nikkei website: [Nikkei Asia](https://asia.nikkei.com/)
 

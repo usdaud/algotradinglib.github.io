@@ -41,11 +41,11 @@ As of recent reports, the SZSE hosts more than 2,300 [listed](../l/listed.md) co
 
 The Shenzhen Stock [Exchange](../e/exchange.md) offers numerous indices to track the performance of different segments of the [market](../m/market.md):
   
-- **SZSE Component [Index](../i/index.md) (深证成指):**
+- **SZSE Component [Index](../i/index_instrument.md) (深证成指):**
   - Tracks 500 representative [stocks](../s/stock.md) chosen from the Shenzhen Main Board and SME Board.
-- **ChiNext [Index](../i/index.md) (创业板指数):**
+- **ChiNext [Index](../i/index_instrument.md) (创业板指数):**
   - Follows the top 100 companies [listed](../l/listed.md) on the ChiNext [Market](../m/market.md).
-- **SME [Index](../i/index.md) (中小板指数):**
+- **SME [Index](../i/index_instrument.md) (中小板指数):**
   - Comprises 100 [stocks](../s/stock.md) from the SME Board.
 - **Sectoral Indices:**
   - Includes indices focusing on specific sectors like [finance](../f/finance.md), healthcare, technology, etc.

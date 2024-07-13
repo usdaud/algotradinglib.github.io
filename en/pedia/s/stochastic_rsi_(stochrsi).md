@@ -1,6 +1,6 @@
 # Stochastic RSI (StochRSI)
 
-The Stochastic RSI (StochRSI) is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) used to determine whether an [asset](../a/asset.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md) within a given period. It was developed by Tushar Chande and Stanley Kroll and introduced in their 1994 book, "The New Technical [Trader](../t/trader.md)." The StochRSI is derived from the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and applies the principles of the [Stochastic Oscillator](../s/stochastic_oscillator.md) to the RSI. This [indicator](../i/indicator.md) enhances traditional RSI by making it more sensitive and reactive to recent [market](../m/market.md) changes, allowing traders to identify potential [trend](../t/trend.md) reversals more swiftly.
+The Stochastic RSI (StochRSI) is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) used to determine whether an [asset](../a/asset.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md) within a given period. It was developed by Tushar Chande and Stanley Kroll and introduced in their 1994 book, "The New Technical [Trader](../t/trader.md)." The StochRSI is derived from the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and applies the principles of the [Stochastic Oscillator](../s/stochastic_oscillator.md) to the RSI. This [indicator](../i/indicator.md) enhances traditional RSI by making it more sensitive and reactive to recent [market](../m/market.md) changes, allowing traders to identify potential [trend](../t/trend.md) reversals more swiftly.
 
 ## Calculation of Stochastic RSI
 
@@ -9,7 +9,7 @@ The StochRSI is calculated using the following formula:
 \[ \text{StochRSI} = \frac{\text{RSI} - \text{Lowest RSI}}{\text{Highest RSI} - \text{Lowest RSI}} \]
 
 Where:
-- **RSI** is the current [value](../v/value.md) of the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md).
+- **RSI** is the current [value](../v/value.md) of the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md).
 - **Lowest RSI** is the lowest [value](../v/value.md) of RSI over the look-back period.
 - **Highest RSI** is the highest [value](../v/value.md) of RSI over the look-back period.
 

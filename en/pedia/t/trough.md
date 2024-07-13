@@ -32,12 +32,12 @@ Government bodies like the National Bureau of Economic Research (NBER) in the Un
 
 ### Market Cycles
 
-Similar to [economic cycles](../e/economic_cycles.md), [financial markets](../f/financial_market.md) also experience cyclical phases: bullish ([uptrend](../u/uptrend.md)) and bearish ([downtrend](../d/downtrend.md)). The trough in [financial markets](../f/financial_market.md) represents the lowest price point of an [asset](../a/asset.md), [index](../i/index.md), or the overall [market](../m/market.md) during a [downtrend](../d/downtrend.md) before prices begin to rise again.
+Similar to [economic cycles](../e/economic_cycles.md), [financial markets](../f/financial_market.md) also experience cyclical phases: bullish ([uptrend](../u/uptrend.md)) and bearish ([downtrend](../d/downtrend.md)). The trough in [financial markets](../f/financial_market.md) represents the lowest price point of an [asset](../a/asset.md), [index](../i/index_instrument.md), or the overall [market](../m/market.md) during a [downtrend](../d/downtrend.md) before prices begin to rise again.
 
 ### Identifying Market Troughs
 
 Identifying a trough in [financial markets](../f/financial_market.md) involves analyzing historical data and applying technical and [fundamental analysis](../f/fundamental_analysis.md):
-- **[Technical Analysis](../t/technical_analysis.md)**: Traders use [chart patterns](../c/chart_patterns.md), [trend](../t/trend.md) lines, moving averages, and oscillators (like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) to identify potential troughs. Key patterns include double bottoms and [inverse head and shoulders](../i/inverse_head_and_shoulders.md).
+- **[Technical Analysis](../t/technical_analysis.md)**: Traders use [chart patterns](../c/chart_patterns.md), [trend](../t/trend.md) lines, moving averages, and oscillators (like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) to identify potential troughs. Key patterns include double bottoms and [inverse head and shoulders](../i/inverse_head_and_shoulders.md).
 - **[Fundamental Analysis](../f/fundamental_analysis.md)**: Evaluating a company’s [financial health](../f/financial_health.md), [market](../m/market.md) conditions, and [economic indicators](../e/economic_indicators.md) can help identify [undervalued](../u/undervalued.md) assets poised for recovery.
   
 It's crucial to [note](../n/note.md) that predicting [market](../m/market.md) troughs is inherently risky and requires a combination of expertise and [market](../m/market.md) insight.

@@ -12,7 +12,7 @@ A-[shares](../s/shares.md) represent a substantial portion of the Chinese [equit
    
 2. **[Market Regulation](../m/market_regulation.md)**: The China Securities Regulatory [Commission](../c/commission.md) (CSRC) oversees the regulation of A-[shares](../s/shares.md), ensuring compliance with financial policies meant to protect investors and maintain [market](../m/market.md) stability.
 
-3. **[Index](../i/index.md) Inclusion**: Major global indices, like the MSCI Emerging Markets [Index](../i/index.md), have gradually started to include A-[shares](../s/shares.md), reflecting their growing importance in the global investment landscape.
+3. **[Index](../i/index_instrument.md) Inclusion**: Major global indices, like the MSCI Emerging Markets [Index](../i/index_instrument.md), have gradually started to include A-[shares](../s/shares.md), reflecting their growing importance in the global investment landscape.
 
 ## Historical Perspective
 
@@ -24,7 +24,7 @@ The inception of A-[shares](../s/shares.md) can be traced back to the late 1980s
 
 2. **Stock Connect Programs**: The Shanghai-Hong Kong Stock Connect (launched in 2014) and Shenzhen-Hong Kong Stock Connect (launched in 2016) further opened up the [market](../m/market.md), enabling international investors to [trade](../t/trade.md) A-[shares](../s/shares.md) directly through Hong Kong.
 
-3. **MSCI Inclusion**: In June 2018, MSCI began including A-[shares](../s/shares.md) in its widely tracked MSCI Emerging Markets [Index](../i/index.md). This inclusion has progressively increased, with significant implications for [global fund](../g/global_fund.md) allocations towards Chinese equities.
+3. **MSCI Inclusion**: In June 2018, MSCI began including A-[shares](../s/shares.md) in its widely tracked MSCI Emerging Markets [Index](../i/index_instrument.md). This inclusion has progressively increased, with significant implications for [global fund](../g/global_fund.md) allocations towards Chinese equities.
 
 ## Advantages of Investing in A-Shares
 

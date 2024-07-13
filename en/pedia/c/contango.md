@@ -49,7 +49,7 @@ In [financial markets](../f/financial_market.md), contango can apply to [interes
 
 ### Stock Indices
 
-Stock [index futures](../i/index_futures.md) can also exhibit contango. For example, if investors expect the [stock market](../s/stock_market.md) to rise in the future, the [futures](../f/futures.md) price of a stock [index](../i/index.md) might be higher than the current [spot price](../s/spot_price.md).
+Stock [index futures](../i/index_futures.md) can also exhibit contango. For example, if investors expect the [stock market](../s/stock_market.md) to rise in the future, the [futures](../f/futures.md) price of a stock [index](../i/index_instrument.md) might be higher than the current [spot price](../s/spot_price.md).
 
 ### Foreign Exchange Markets
 

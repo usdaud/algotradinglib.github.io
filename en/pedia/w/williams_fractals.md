@@ -1,6 +1,6 @@
 # Williams Fractals
 
-Williams Fractals is a [technical analysis](../t/technical_analysis.md) tool developed by the renowned [trader](../t/trader.md) and author Bill Williams. This trading [indicator](../i/indicator.md) is part of his comprehensive [trading strategy](../t/trading_strategy.md), which also includes tools like the Alligator, Awesome [Oscillator](../o/oscillator.md), and [Market](../m/market.md) Facilitation [Index](../i/index.md). Williams Fractals are used to identify potential [reversal](../r/reversal.md) points in the [market](../m/market.md) by spotting local highs and lows. Understanding this concept requires a detailed exploration of its components, application in [trading strategies](../t/trading_strategies.md), and its effectiveness in various [market](../m/market.md) conditions.
+Williams Fractals is a [technical analysis](../t/technical_analysis.md) tool developed by the renowned [trader](../t/trader.md) and author Bill Williams. This trading [indicator](../i/indicator.md) is part of his comprehensive [trading strategy](../t/trading_strategy.md), which also includes tools like the Alligator, Awesome [Oscillator](../o/oscillator.md), and [Market](../m/market.md) Facilitation [Index](../i/index_instrument.md). Williams Fractals are used to identify potential [reversal](../r/reversal.md) points in the [market](../m/market.md) by spotting local highs and lows. Understanding this concept requires a detailed exploration of its components, application in [trading strategies](../t/trading_strategies.md), and its effectiveness in various [market](../m/market.md) conditions.
 
 ### What are Williams Fractals?
 
@@ -49,7 +49,7 @@ While Williams Fractals are powerful on their own, combining them with other ind
 2. **Awesome [Oscillator](../o/oscillator.md)**:
    - This [momentum](../m/momentum.md) [indicator](../i/indicator.md), also created by Williams, can confirm fractal signals. A positive Awesome [Oscillator](../o/oscillator.md) reading can affirm an up fractal signal, while a negative reading can confirm a down fractal signal.
 
-3. **[Market](../m/market.md) Facilitation [Index](../i/index.md) (MFI)**:
+3. **[Market](../m/market.md) Facilitation [Index](../i/index_instrument.md) (MFI)**:
    - The MFI measures the [efficiency](../e/efficiency.md) of price movement. By combining MFI readings with fractals, traders can get an insight into the strength of the price move signaled by the fractal.
 
 ### Real-World Applications

@@ -72,7 +72,7 @@ For example, **Two Sigma** [two sigma](https://www.twosigma.com/) is a known qua
 
 #### Performance Analysis by Financial Analysts
 
-Financial analysts and portfolio managers make use of abnormal [return](../r/return.md) metrics to determine the efficacy of their investment strategies. An analyst may compare the actual returns of a portfolio to a [benchmark](../b/benchmark.md) [index](../i/index.md) to calculate the abnormal [return](../r/return.md) and subsequently refine strategies based on the insights gained.
+Financial analysts and portfolio managers make use of abnormal [return](../r/return.md) metrics to determine the efficacy of their investment strategies. An analyst may compare the actual returns of a portfolio to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) to calculate the abnormal [return](../r/return.md) and subsequently refine strategies based on the insights gained.
 
 ### Risk and Return Adjustments
 

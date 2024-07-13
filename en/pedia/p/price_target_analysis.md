@@ -52,7 +52,7 @@ Advanced machine learning models like [regression analysis](../r/regression_anal
 [Sentiment analysis](../s/sentiment_analysis.md), also known as opinion [mining](../m/mining.md), utilizes [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques to analyze public sentiment regarding a particular [security](../s/security.md). This analysis is based on [social media](../s/social_media.md), news articles, blogs, and other textual data sources. The sentiment score is then used to anticipate price movements.
 
 ### Sentiment Indicators
-[Sentiment indicators](../s/sentiment_indicators.md), such as the [Put-Call Ratio](../p/put-call_ratio.md) and Bullish Consensus [Index](../i/index.md), help in gauging [investor](../i/investor.md) sentiment and can be pivotal in [price target](../p/price_target.md) analysis.
+[Sentiment indicators](../s/sentiment_indicators.md), such as the [Put-Call Ratio](../p/put-call_ratio.md) and Bullish Consensus [Index](../i/index_instrument.md), help in gauging [investor](../i/investor.md) sentiment and can be pivotal in [price target](../p/price_target.md) analysis.
 
 ## Companies Specializing in Price Target Analysis
 

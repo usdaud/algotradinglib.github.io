@@ -7,7 +7,7 @@
 [Momentum trading](../m/momentum_trading.md) is based on the idea that assets that have been performing well [will](../w/will.md) continue to perform well in the [near term](../n/near_term.md). The concept relies on the inertia of an [asset](../a/asset.md)'s price movements.
 
 ### Key Concepts:
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It oscillates between 0 and 100.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It oscillates between 0 and 100.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD):** Shows the relationship between two moving averages of a [security](../s/security.md)’s price. The MACD is calculated by subtracting the 26-period Exponential Moving Average (EMA) from the 12-period EMA.
 - **Price [Volume](../v/volume.md) [Trend](../t/trend.md) (PVT):** Combines price and [volume](../v/volume.md) in a single [indicator](../i/indicator.md) that shows the amount of [money](../m/money.md) moving in and out of a [security](../s/security.md).
 
@@ -21,7 +21,7 @@ Algorithms identify [momentum](../m/momentum.md) by using indicators like RSI an
 ### Key Concepts:
 - **[Bollinger Bands](../b/bollinger_bands.md):** These are [volatility](../v/volatility.md) bands placed above and below a moving average. [Volatility](../v/volatility.md) is based on the [standard deviation](../s/standard_deviation.md), which changes as [volatility](../v/volatility.md) increases and decreases.
 - **[Z-Score](../z/z-score.md):** Measures the number of standard deviations an element is from the mean.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Indicates [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Indicates [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
 
 ### Algorithmic Approach:
 Algorithms compute the historical average and [standard deviation](../s/standard_deviation.md) of [asset](../a/asset.md) prices and identify instances when the price moves significantly away from this mean. Buy or sell signals are triggered when the price falls outside the bands for a specified number of standard deviations.

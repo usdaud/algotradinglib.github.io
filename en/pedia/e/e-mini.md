@@ -7,15 +7,15 @@ The E-Mini, also known as the E-Mini [futures contract](../f/futures_contract.md
 E-Mini [futures contracts](../f/futures_contracts.md) are standardized, meaning they have set specifications regarding their size, expiration dates, and [tick](../t/tick.md) values. Below are the primary characteristics of E-Mini [futures](../f/futures.md):
 
 - **Contract Size**: The E-Mini [futures contract](../f/futures_contract.md) is one-fifth the size of the standard S&P 500 [futures contract](../f/futures_contract.md). This smaller size makes it more accessible to a wider [range](../r/range.md) of traders.
-- **Ticker Symbols**: Various ticker symbols are used to represent E-Mini contracts, depending on the [index](../i/index.md). For example, the ticker "ES" represents the E-Mini S&P 500 [futures](../f/futures.md).
+- **Ticker Symbols**: Various ticker symbols are used to represent E-Mini contracts, depending on the [index](../i/index_instrument.md). For example, the ticker "ES" represents the E-Mini S&P 500 [futures](../f/futures.md).
 - **Expiration**: E-Mini contracts typically have quarterly expiration dates, falling on the third Friday of March, June, September, and December.
 - **[Leverage](../l/leverage.md)**: E-Mini contracts [offer](../o/offer.md) significant [leverage](../l/leverage.md), allowing traders to control a large position with a relatively small amount of [capital](../c/capital.md).
 - **[Margin](../m/margin.md) Requirements**: The [margin](../m/margin.md) requirements for E-Mini [futures](../f/futures.md) are lower compared to the standard S&P 500 [futures](../f/futures.md), making them more accessible for individual traders.
 
 ## Types of E-Mini Contracts
-Several types of E-Mini [futures contracts](../f/futures_contracts.md) are available for trading, each correlated to a specific [index](../i/index.md). The most commonly traded E-Mini [futures contracts](../f/futures_contracts.md) include:
+Several types of E-Mini [futures contracts](../f/futures_contracts.md) are available for trading, each correlated to a specific [index](../i/index_instrument.md). The most commonly traded E-Mini [futures contracts](../f/futures_contracts.md) include:
 
-- **E-Mini S&P 500 (ES)**: The most popular E-Mini contract, based on the S&P 500 [index](../i/index.md), which represents 500 of the largest publicly traded companies in the United States.
+- **E-Mini S&P 500 (ES)**: The most popular E-Mini contract, based on the S&P 500 [index](../i/index_instrument.md), which represents 500 of the largest publicly traded companies in the United States.
 - **E-Mini [NASDAQ](../n/nasdaq.md) 100 (NQ)**: This contract is based on the [NASDAQ 100 index](../n/nasdaq_100_index.md), which includes 100 of the largest non-financial companies [listed](../l/listed.md) on the [NASDAQ](../n/nasdaq.md) stock [exchange](../e/exchange.md).
 - **E-Mini Dow (YM)**: Based on the Dow Jones Industrial Average (DJIA), this contract represents 30 of the largest and most significant U.S. companies.
 - **E-Mini Russell 2000 (RTY)**: This contract is based on the [Russell 2000 index](../r/russell_2000_index.md), which represents 2000 small-cap [stocks](../s/stock.md) in the U.S. [equity market](../e/equity_market.md).

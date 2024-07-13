@@ -62,10 +62,10 @@ The JSE is known for its [robust](../r/robust.md) [derivatives](../d/derivatives
 The JSE features several key indices which provide benchmarks for the performance of different segments of the [market](../m/market.md).
 
 ### FTSE/JSE All Share Index (ALSI)
-The ALSI is the best-known [index](../i/index.md) of the JSE, representing the performance of the largest and most [liquid](../l/liquid.md) South African companies. It's widely used by investors as a gauge of the South African [equity market](../e/equity_market.md).
+The ALSI is the best-known [index](../i/index_instrument.md) of the JSE, representing the performance of the largest and most [liquid](../l/liquid.md) South African companies. It's widely used by investors as a gauge of the South African [equity market](../e/equity_market.md).
 
 ### FTSE/JSE Top 40 Index
-This [index](../i/index.md) includes the top 40 companies by [market capitalization](../m/market_capitalization.md). It provides a snapshot of the overall health and performance of the largest and most influential companies on the JSE.
+This [index](../i/index_instrument.md) includes the top 40 companies by [market capitalization](../m/market_capitalization.md). It provides a snapshot of the overall health and performance of the largest and most influential companies on the JSE.
 
 ### FTSE/JSE Industrial Index
 Includes companies primarily involved in industrial activities, providing insight into the industrial sector's performance.

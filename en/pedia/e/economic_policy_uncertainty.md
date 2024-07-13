@@ -16,9 +16,9 @@ Economic Policy [Uncertainty](../u/uncertainty_in_trading.md) (EPU) represents t
 
 Economic Policy [Uncertainty](../u/uncertainty_in_trading.md) can be quantified using various indices and models. Some of the most prominent approaches include:
 
-- **EPU [Index](../i/index.md)**: Developed by researchers from Stanford University, the University of Chicago, and Northwestern University, the EPU [Index](../i/index.md) uses newspaper coverage frequency to measure [uncertainty](../u/uncertainty_in_trading.md). It tracks the mentions of economic policy [uncertainty](../u/uncertainty_in_trading.md) in leading newspapers, providing a quantitative measure. [EPU Index](http://www.policyuncertainty.com/)
+- **EPU [Index](../i/index_instrument.md)**: Developed by researchers from Stanford University, the University of Chicago, and Northwestern University, the EPU [Index](../i/index_instrument.md) uses newspaper coverage frequency to measure [uncertainty](../u/uncertainty_in_trading.md). It tracks the mentions of economic policy [uncertainty](../u/uncertainty_in_trading.md) in leading newspapers, providing a quantitative measure. [EPU Index](http://www.policyuncertainty.com/)
 
-- **VIX ([Volatility](../v/volatility.md) [Index](../i/index.md))**: Often referred to as the "fear gauge," the VIX measures [market](../m/market.md) expectations of near-term [volatility](../v/volatility.md) based on S&P 500 [index options](../i/index_options.md). While not exclusively focused on policy [uncertainty](../u/uncertainty_in_trading.md), it reflects broader [market](../m/market.md) apprehensions, including those related to economic policies. [CBOE VIX](https://www.cboe.com/tradable_products/vix/)
+- **VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md))**: Often referred to as the "fear gauge," the VIX measures [market](../m/market.md) expectations of near-term [volatility](../v/volatility.md) based on S&P 500 [index options](../i/index_options.md). While not exclusively focused on policy [uncertainty](../u/uncertainty_in_trading.md), it reflects broader [market](../m/market.md) apprehensions, including those related to economic policies. [CBOE VIX](https://www.cboe.com/tradable_products/vix/)
 
 ### Impact of Economic Policy Uncertainty on Financial Markets
 
@@ -46,7 +46,7 @@ Economic Policy [Uncertainty](../u/uncertainty_in_trading.md) can be quantified 
 
 Several companies and platforms [offer](../o/offer.md) tools and services to help investors and businesses manage EPU:
 
-- **PolicyUncertainty.com**: This platform provides access to the EPU [Index](../i/index.md) and related research. It is an essential resource for economists and [market](../m/market.md) analysts looking to track policy [uncertainty](../u/uncertainty_in_trading.md) trends. [PolicyUncertainty](http://www.policyuncertainty.com/)
+- **PolicyUncertainty.com**: This platform provides access to the EPU [Index](../i/index_instrument.md) and related research. It is an essential resource for economists and [market](../m/market.md) analysts looking to track policy [uncertainty](../u/uncertainty_in_trading.md) trends. [PolicyUncertainty](http://www.policyuncertainty.com/)
 
 - **BlackRock**: As one of the world's largest [asset management](../a/asset_management.md) firms, BlackRock incorporates EPU measures into its [risk](../r/risk.md) assessment and investment strategies. BlackRock's tools help investors navigate uncertain economic climates. [BlackRock](https://www.blackrock.com/)
 

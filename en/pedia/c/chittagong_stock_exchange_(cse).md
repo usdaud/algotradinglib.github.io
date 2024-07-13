@@ -41,7 +41,7 @@ The CASPI is one of the primary indicators of the overall performance of the CSE
 
 ### CSE Selective Categories Index (CSCX)
 
-The CSCX is a [weighted](../w/weighted.md) [index](../i/index.md) that includes selected securities from various categories such as the [Manufacturing](../m/manufacturing.md) & Service, [Finance](../f/finance.md) & Leasing, [Insurance](../i/insurance.md), and Mutual Funds sectors. It is designed to reflect the performance of the top-tier companies on the [exchange](../e/exchange.md).
+The CSCX is a [weighted](../w/weighted.md) [index](../i/index_instrument.md) that includes selected securities from various categories such as the [Manufacturing](../m/manufacturing.md) & Service, [Finance](../f/finance.md) & Leasing, [Insurance](../i/insurance.md), and Mutual Funds sectors. It is designed to reflect the performance of the top-tier companies on the [exchange](../e/exchange.md).
 
 ## Technological Advancements
 

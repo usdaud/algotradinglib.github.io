@@ -32,7 +32,7 @@ YTD figures are essential for identifying trends. For example, if a company's [r
 
 ### Performance Comparison
 
-Investors and analysts use YTD data to compare the performance of different investments. For instance, they might compare the YTD returns of a stock to a sector average or an [index](../i/index.md) like the S&P 500.
+Investors and analysts use YTD data to compare the performance of different investments. For instance, they might compare the YTD returns of a stock to a sector average or an [index](../i/index_instrument.md) like the S&P 500.
 
 ### Forecasting
 

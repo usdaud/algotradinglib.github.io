@@ -57,7 +57,7 @@ Understanding these factors allows traders to predict and react to price movemen
 
 ### Index Options
 
-[Index options](../i/index_options.md) are based on [stock market](../s/stock_market.md) indices rather than individual [stocks](../s/stock.md). Examples include [options](../o/options.md) on the S&P 500 [Index](../i/index.md) (SPX) and the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md) (NDX).
+[Index options](../i/index_options.md) are based on [stock market](../s/stock_market.md) indices rather than individual [stocks](../s/stock.md). Examples include [options](../o/options.md) on the S&P 500 [Index](../i/index_instrument.md) (SPX) and the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md) (NDX).
 
 ### Commodity Options
 

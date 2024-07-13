@@ -29,7 +29,7 @@ One real-world example of a company employing X-[Sector Rotation](../s/sector_ro
 #### Key Metrics and Indicators
 
 - **[Economic Indicators](../e/economic_indicators.md):** Key economic metrics like GDP growth, [inflation](../i/inflation.md), and [interest](../i/interest.md) rates influence [sector performance](../s/sector_performance.md). For example, rising [interest](../i/interest.md) rates might benefit the [financial sector](../f/financial_sector.md) while hurting [interest](../i/interest.md)-rate-sensitive sectors like utilities.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** The RSI can be used to gauge the [momentum](../m/momentum.md) of different sectors, identifying those that are gaining strength and those that are weakening.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** The RSI can be used to gauge the [momentum](../m/momentum.md) of different sectors, identifying those that are gaining strength and those that are weakening.
 - **Sector-specific Metrics:** Each sector has unique [performance indicators](../p/performance_indicators.md); for instance, technology companies might be evaluated based on innovation indices, while energy [stocks](../s/stock.md) might be analyzed based on oil prices.
 
 #### Challenges and Limitations

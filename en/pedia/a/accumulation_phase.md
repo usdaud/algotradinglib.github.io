@@ -24,7 +24,7 @@ In the context of [financial markets](../f/financial_market.md), the accumulatio
 
 **Moving Averages:** One way to identify the accumulation phase is to look for moving averages flattening out after a [downtrend](../d/downtrend.md). The 50-day and 200-day moving averages are commonly used; when these lines start converging, it can indicate a beginning of a potential [turnaround](../t/turnaround.md).
 
-**[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** An RSI below 30 indicates [oversold](../o/oversold.md) conditions, which may suggest that an accumulation phase is near. However, investors should look for the RSI to start rising again before making the assumption.
+**[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** An RSI below 30 indicates [oversold](../o/oversold.md) conditions, which may suggest that an accumulation phase is near. However, investors should look for the RSI to start rising again before making the assumption.
 
 **On-Balance [Volume](../v/volume.md) (OBV):** The OBV [indicator](../i/indicator.md) adds [volume](../v/volume.md) on up days and subtracts [volume](../v/volume.md) on down days. A rising OBV during a period of price [consolidation](../c/consolidation.md) or slight decline may suggest that accumulation is occurring.
 

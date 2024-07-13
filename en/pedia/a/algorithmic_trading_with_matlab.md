@@ -42,7 +42,7 @@ MATLAB provides functions such as `readtable`, `readcsv`, and `fetch` to [import
 The development of [trading strategies](../t/trading_strategies.md) can be based on [multiple](../m/multiple.md) approaches such as:
 
 1. **Statistical Analysis**: Using [mean reversion](../m/mean_reversion.md), pair trading, and cointegration tests.
-2. **[Technical Analysis](../t/technical_analysis.md)**: Applying indicators like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md), etc.
+2. **[Technical Analysis](../t/technical_analysis.md)**: Applying indicators like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md), etc.
 3. **Machine Learning**: Implementing supervised and unsupervised learning models for predictive analysis and classification.
 
 MATLAB's comprehensive libraries and toolboxes such as [Statistics](../s/statistics.md) and Machine Learning Toolbox make it convenient to build and refine these strategies.

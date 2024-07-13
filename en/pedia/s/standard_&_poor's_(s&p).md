@@ -26,11 +26,11 @@ S&P is also renowned for its broad array of [market](../m/market.md) indices. On
 
 ### S&P 500
 
-The S&P 500 is a [benchmark](../b/benchmark.md) [index](../i/index.md) widely regarded as one of the best representations of the U.S. [stock market](../s/stock_market.md). It includes companies from [multiple](../m/multiple.md) sectors, which provides a comprehensive snapshot of [market](../m/market.md) trends and economic health.
+The S&P 500 is a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) widely regarded as one of the best representations of the U.S. [stock market](../s/stock_market.md). It includes companies from [multiple](../m/multiple.md) sectors, which provides a comprehensive snapshot of [market](../m/market.md) trends and economic health.
 
 ### Other Key Indices
 
-- **S&P Global 1200:** A comprehensive, seven-country [index](../i/index.md) that covers major global markets.
+- **S&P Global 1200:** A comprehensive, seven-country [index](../i/index_instrument.md) that covers major global markets.
 - **S&P MidCap 400:** Focuses on mid-sized companies.
 - **S&P SmallCap 600:** Targets smaller enterprises.
 

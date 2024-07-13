@@ -6,10 +6,10 @@ Industrial production analysis is a critical area of economic study that focuses
 
 ### 1. Industrial Production Index (IPI)
 
-The Industrial Production [Index](../i/index.md) (IPI) is one of the most significant indicators in industrial production analysis. It measures the real output of the [manufacturing](../m/manufacturing.md), [mining](../m/mining.md), and [utility](../u/utility.md) sectors over a specific period. The IPI is usually published monthly and is used to track changes in output and gauge economic performance.
+The Industrial Production [Index](../i/index_instrument.md) (IPI) is one of the most significant indicators in industrial production analysis. It measures the real output of the [manufacturing](../m/manufacturing.md), [mining](../m/mining.md), and [utility](../u/utility.md) sectors over a specific period. The IPI is usually published monthly and is used to track changes in output and gauge economic performance.
 
-* **Methodology**: The IPI is computed using data from various sources, including production reports, shipment records, and workforce [statistics](../s/statistics.md). The [index](../i/index.md) is typically seasonally adjusted to remove the effects of seasonal variations.
-* **Interpretation**: An increase in the IPI indicates growth in industrial activity, while a decrease suggests a contraction. This [index](../i/index.md) is essential for identifying trends and making economic forecasts.
+* **Methodology**: The IPI is computed using data from various sources, including production reports, shipment records, and workforce [statistics](../s/statistics.md). The [index](../i/index_instrument.md) is typically seasonally adjusted to remove the effects of seasonal variations.
+* **Interpretation**: An increase in the IPI indicates growth in industrial activity, while a decrease suggests a contraction. This [index](../i/index_instrument.md) is essential for identifying trends and making economic forecasts.
 
 ### 2. Capacity Utilization Rate
 

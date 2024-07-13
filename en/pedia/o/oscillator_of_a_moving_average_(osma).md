@@ -72,7 +72,7 @@ By analyzing the OsMA in conjunction with other indicators, traders can enhance 
 
 1. **Simplicity**: The OsMA is straightforward to understand and implement, making it accessible for novice traders.
 2. **Adaptability**: It can be applied to various financial instruments, including [stocks](../s/stock.md), forex, and commodities.
-3. **Combining Power**: When used with other indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or [Bollinger Bands](../b/bollinger_band.md), it can provide more comprehensive [market](../m/market.md) insights.
+3. **Combining Power**: When used with other indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or [Bollinger Bands](../b/bollinger_band.md), it can provide more comprehensive [market](../m/market.md) insights.
 
 ### Limitations
 

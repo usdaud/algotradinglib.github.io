@@ -61,7 +61,7 @@ Most trading platforms and charting software provide built-in tools to calculate
 
 #### 5-Day SMA in Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), the 5-Day SMA is often used as a fundamental component of more complex [trading strategies](../t/trading_strategies.md). Algorithms might incorporate [multiple](../m/multiple.md) moving averages or use the SMA in combination with other [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or [Bollinger Bands](../b/bollinger_bands.md) to design more [robust](../r/robust.md) [trading systems](../t/trading_systems.md). 
+In [algorithmic trading](../a/algorithmic_trading.md), the 5-Day SMA is often used as a fundamental component of more complex [trading strategies](../t/trading_strategies.md). Algorithms might incorporate [multiple](../m/multiple.md) moving averages or use the SMA in combination with other [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or [Bollinger Bands](../b/bollinger_bands.md) to design more [robust](../r/robust.md) [trading systems](../t/trading_systems.md). 
 
 [Algorithmic trading](../a/algorithmic_trading.md) platforms and libraries such as:
 

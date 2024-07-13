@@ -12,7 +12,7 @@ Quantitative signal generation involves various components that work in synergy 
 
 2. **Feature Engineering**
    - Extracting relevant features from raw data that can be used in [predictive models](../p/predictive_models_in_trading.md).
-   - Creating [technical indicators](../t/technical_indicators.md) like moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), etc.
+   - Creating [technical indicators](../t/technical_indicators.md) like moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), etc.
 
 3. **Model Selection**
    - Selecting appropriate models for signal generation, which may include [regression techniques](../r/regression_techniques.md), [time series](../t/time_series.md) models, [neural networks](../n/neural_networks_in_trading.md), or reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md).
@@ -68,7 +68,7 @@ Quantitative signals can broadly be classified into several categories based on 
    - Exponential Moving Average (EMA)
 
 2. **[Momentum Indicators](../m/momentum_indicators.md)**
-   - [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)
+   - [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
    - [Stochastic Oscillator](../s/stochastic_oscillator.md)
 
 3. **[Trend Indicators](../t/trend_indicators.md)**

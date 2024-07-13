@@ -40,7 +40,7 @@ Swaps involve exchanging cash flows or other financial instruments between two p
 
 ## Popular Hedging Strategies
 ### Portfolio Hedging with Index Options
-This strategy involves purchasing [index options](../i/index_options.md) to protect against downturns in the [market](../m/market.md). For instance, buying a [put option](../p/put.md) on an [equity](../e/equity.md) [index](../i/index.md) can [offset](../o/offset.md) losses in a stock portfolio.
+This strategy involves purchasing [index options](../i/index_options.md) to protect against downturns in the [market](../m/market.md). For instance, buying a [put option](../p/put.md) on an [equity](../e/equity.md) [index](../i/index_instrument.md) can [offset](../o/offset.md) losses in a stock portfolio.
 
 ### Fixed-Income Hedging
 Fixed-[income](../i/income.md) portfolios might use [interest rate futures](../i/interest_rate_futures.md) or swaps to [hedge](../h/hedge.md) against [interest rate risk](../i/interest_rate_risk.md). For example, entering into an [interest rate swap](../i/interest_rate_swap.md) where the portfolio receives a fixed rate and pays a floating rate can protect against rising rates.

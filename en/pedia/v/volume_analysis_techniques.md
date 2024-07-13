@@ -69,7 +69,7 @@ This [oscillator](../o/oscillator.md) helps identify changes in [volume](../v/vo
 
 ## 6. Market Facilitation Index (MFI)
 
-The [Market](../m/market.md) Facilitation [Index](../i/index.md) (MFI) is an [indicator](../i/indicator.md) developed by Bill Williams that assesses the [efficiency](../e/efficiency.md) of price movements using [volume](../v/volume.md). It measures the change in price relative to [volume](../v/volume.md) and helps determine the strength of [market](../m/market.md) moves.
+The [Market](../m/market.md) Facilitation [Index](../i/index_instrument.md) (MFI) is an [indicator](../i/indicator.md) developed by Bill Williams that assesses the [efficiency](../e/efficiency.md) of price movements using [volume](../v/volume.md). It measures the change in price relative to [volume](../v/volume.md) and helps determine the strength of [market](../m/market.md) moves.
 
 Formula:
 

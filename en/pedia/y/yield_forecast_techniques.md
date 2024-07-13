@@ -132,7 +132,7 @@ Disadvantages:
 ## 4. Remote Sensing and GIS Technology
 
 ### 4.1 Satellite Imagery
-Satellite imagery provides real-time monitoring of crop conditions. Using remote sensing data, models can predict crop yields based on vegetation indices such as NDVI (Normalized Difference Vegetation [Index](../i/index.md)):
+Satellite imagery provides real-time monitoring of crop conditions. Using remote sensing data, models can predict crop yields based on vegetation indices such as NDVI (Normalized Difference Vegetation [Index](../i/index_instrument.md)):
 
 Advantages:
 - Provides spatial coverage over large areas.

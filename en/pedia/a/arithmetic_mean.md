@@ -96,7 +96,7 @@ prices = data['Close']
 # Compute the short-term and long-term moving averages
 short_window = 40
 long_window = 100
-signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
+signals = pd.DataFrame([index](../i/index_instrument.md)=prices.[index](../i/index_instrument.md))
 signals['signal'] = 0.0
 signals['short_mavg'] = prices.rolling(window=short_window, min_periods=1, center=False).mean()
 signals['long_mavg'] = prices.rolling(window=long_window, min_periods=1, center=False).mean()
@@ -107,7 +107,7 @@ signals['positions'] = signals['signal'].diff()
 
 # Backtest Strategy
 initial_capital= [float](../f/float.md)(100000.0)
-positions = pd.DataFrame([index](../i/index.md)=signals.[index](../i/index.md)).fillna(0.0)
+positions = pd.DataFrame([index](../i/index_instrument.md)=signals.[index](../i/index_instrument.md)).fillna(0.0)
 positions['[Asset](../a/asset.md)'] = 100*signals['signal'] 
 portfolio = positions.multiply(prices, axis=0)
 pos_diff = positions.diff()

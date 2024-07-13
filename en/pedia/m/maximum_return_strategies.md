@@ -5,7 +5,7 @@
 #### Types of Maximum Return Strategies
 
 1. **[Momentum Trading](../m/momentum_trading.md) Strategies**:
-    [Momentum trading](../m/momentum_trading.md) is a strategy that aims to [capitalize](../c/capitalize.md) on the continuance of existing trends in the [market](../m/market.md). This can be done using algorithms that detect the beginning of a strong [trend](../t/trend.md) and then [trade](../t/trade.md) in the direction of that [trend](../t/trend.md). Key indicators used in [momentum trading](../m/momentum_trading.md) include the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and various other [momentum oscillators](../m/momentum_oscillators.md).
+    [Momentum trading](../m/momentum_trading.md) is a strategy that aims to [capitalize](../c/capitalize.md) on the continuance of existing trends in the [market](../m/market.md). This can be done using algorithms that detect the beginning of a strong [trend](../t/trend.md) and then [trade](../t/trade.md) in the direction of that [trend](../t/trend.md). Key indicators used in [momentum trading](../m/momentum_trading.md) include the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and various other [momentum oscillators](../m/momentum_oscillators.md).
 
     **Example Algorithm**:
     ```python
@@ -13,7 +13,7 @@
         short_window = 40
         long_window = 100
 
-        signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
+        signals = pd.DataFrame([index](../i/index_instrument.md)=prices.[index](../i/index_instrument.md))
         signals['signal'] = 0.0
 
         signals['short_mavg'] = prices['Close'].rolling(window=short_window, min_periods=1, center=False).mean()
@@ -37,7 +37,7 @@
 
         z_score = (prices - moving_avg) / moving_std
 
-        signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
+        signals = pd.DataFrame([index](../i/index_instrument.md)=prices.[index](../i/index_instrument.md))
         signals['signal'] = -z_score
 
         [return](../r/return.md) signals
@@ -52,7 +52,7 @@
         spread = exchange1_prices - exchange2_prices
         z_score = (spread - spread.mean()) / spread.std()
 
-        signals = pd.DataFrame([index](../i/index.md)=exchange1_prices.[index](../i/index.md))
+        signals = pd.DataFrame([index](../i/index_instrument.md)=exchange1_prices.[index](../i/index_instrument.md))
         signals['signal'] = np.where(z_score > 1, 1, np.where(z_score < -1, -1, 0))
 
         signals['positions'] = signals['signal'].diff()
@@ -83,7 +83,7 @@
         model.fit(X, y)
 
         predictions = model.predict(X)
-        signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
+        signals = pd.DataFrame([index](../i/index_instrument.md)=prices.[index](../i/index_instrument.md))
         signals['signal'] = np.where(predictions > 0, 1, -1)
 
         [return](../r/return.md) signals
@@ -98,7 +98,7 @@
         buy_threshold = -1
         sell_threshold = 1
 
-        signals = pd.DataFrame([index](../i/index.md)=market_data.[index](../i/index.md))
+        signals = pd.DataFrame([index](../i/index_instrument.md)=market_data.[index](../i/index_instrument.md))
         signals['signal'] = np.where(market_data['price_change'] <= buy_threshold, 1, np.where(market_data['price_change'] >= sell_threshold, -1, 0))
 
         [return](../r/return.md) signals

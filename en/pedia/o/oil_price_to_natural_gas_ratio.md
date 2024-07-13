@@ -67,7 +67,7 @@ Oil-to-Natural-Gas Ratio = Price of Oil per Barrel (USD) / Price of Natural Gas 
 
 ### Graphical Representation
 
-Analysts often represent this ratio graphically over time to identify trends, anomalies, and potential investment opportunities. Tools like Moving Averages, [Bollinger Bands](../b/bollinger_band.md), and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) can be applied to the ratio for in-depth [technical analysis](../t/technical_analysis.md).
+Analysts often represent this ratio graphically over time to identify trends, anomalies, and potential investment opportunities. Tools like Moving Averages, [Bollinger Bands](../b/bollinger_band.md), and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) can be applied to the ratio for in-depth [technical analysis](../t/technical_analysis.md).
 
 ### Case Studies
 

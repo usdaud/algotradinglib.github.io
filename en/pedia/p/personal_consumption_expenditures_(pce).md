@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Personal Consumption Expenditures (PCE) data presents insights into the economic well-being and spending patterns of individuals. The PCE [index](../i/index.md) is maintained and published by the Bureau of Economic Analysis (BEA), part of the U.S. Department of [Commerce](../c/commerce.md). This measure is instrumental for policymakers, economists, and financial analysts in understanding macroeconomic trends and [forecasting](../f/forecasting.md) future economic performance.
+Personal Consumption Expenditures (PCE) data presents insights into the economic well-being and spending patterns of individuals. The PCE [index](../i/index_instrument.md) is maintained and published by the Bureau of Economic Analysis (BEA), part of the U.S. Department of [Commerce](../c/commerce.md). This measure is instrumental for policymakers, economists, and financial analysts in understanding macroeconomic trends and [forecasting](../f/forecasting.md) future economic performance.
 
 ## Components of PCE
 
@@ -33,11 +33,11 @@ Services represent a significant portion of the PCE and cover a wide [range](../
 
 ## PCE Price Index
 
-The PCE Price [Index](../i/index.md) is a vital measure of [inflation](../i/inflation.md). It reflects the changes in the prices of goods and services included in the PCE. This [index](../i/index.md) is preferred by the Federal Reserve for setting [monetary policy](../m/monetary_policy.md) due to its broader coverage and ability to reflect consumer behavior changes.
+The PCE Price [Index](../i/index_instrument.md) is a vital measure of [inflation](../i/inflation.md). It reflects the changes in the prices of goods and services included in the PCE. This [index](../i/index_instrument.md) is preferred by the Federal Reserve for setting [monetary policy](../m/monetary_policy.md) due to its broader coverage and ability to reflect consumer behavior changes.
 
 ### Core PCE Price Index
 
-The Core PCE Price [Index](../i/index.md) excludes the volatile categories of food and energy to provide a clearer view of the [underlying](../u/underlying.md) [inflation](../i/inflation.md) trends. It's a critical [indicator](../i/indicator.md) for economic policymakers, particularly the Federal Reserve, in making decisions regarding [interest](../i/interest.md) rates and other [monetary policy](../m/monetary_policy.md) tools.
+The Core PCE Price [Index](../i/index_instrument.md) excludes the volatile categories of food and energy to provide a clearer view of the [underlying](../u/underlying.md) [inflation](../i/inflation.md) trends. It's a critical [indicator](../i/indicator.md) for economic policymakers, particularly the Federal Reserve, in making decisions regarding [interest](../i/interest.md) rates and other [monetary policy](../m/monetary_policy.md) tools.
 
 ## Importance of PCE
 

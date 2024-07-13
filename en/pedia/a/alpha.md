@@ -2,7 +2,7 @@
 
 ## Introduction to Alpha
 
-Alpha represents the [excess return](../e/excess_return.md) on an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md). It is a crucial concept in [financial markets](../f/financial_market.md) and investment performance analysis. In the context of [algorithmic trading](../a/accountability.md) (algotrading), alpha signifies strategies that can generate returns above the [market](../m/market.md) average through the application of sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques.
+Alpha represents the [excess return](../e/excess_return.md) on an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). It is a crucial concept in [financial markets](../f/financial_market.md) and investment performance analysis. In the context of [algorithmic trading](../a/accountability.md) (algotrading), alpha signifies strategies that can generate returns above the [market](../m/market.md) average through the application of sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques.
 
 ## Calculation of Alpha
 

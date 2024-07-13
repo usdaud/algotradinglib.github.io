@@ -16,9 +16,9 @@ The result can be positive or negative. A positive active [return](../r/return.m
 
 ### Calculation
 
-To calculate active [return](../r/return.md), one must first choose an appropriate [benchmark](../b/benchmark.md). Benchmarks are chosen based on the [investment strategy](../i/investment_strategy.md) and [asset class](../a/asset_class.md) of the portfolio. Common benchmarks include stock indices like the S&P 500, FTSE 100, or [bond](../b/bond.md) indices like the Barclays Aggregate [Bond](../b/bond.md) [Index](../i/index.md).
+To calculate active [return](../r/return.md), one must first choose an appropriate [benchmark](../b/benchmark.md). Benchmarks are chosen based on the [investment strategy](../i/investment_strategy.md) and [asset class](../a/asset_class.md) of the portfolio. Common benchmarks include stock indices like the S&P 500, FTSE 100, or [bond](../b/bond.md) indices like the Barclays Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md).
 
-Suppose a portfolio has an [annual return](../a/annual_return.md) of 10%, and the [benchmark](../b/benchmark.md) [index](../i/index.md) has an [annual return](../a/annual_return.md) of 7%. The active [return](../r/return.md) would be:
+Suppose a portfolio has an [annual return](../a/annual_return.md) of 10%, and the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) has an [annual return](../a/annual_return.md) of 7%. The active [return](../r/return.md) would be:
 
 \[ \text{Active [Return](../r/return.md)} = 10\% - 7\% = 3\% \]
 

@@ -27,7 +27,7 @@ Given its focus on technology and innovation, [NASDAQ](../n/nasdaq.md) is [home]
 #### Tools and Indicators for Day Trading
 
 - **Moving Averages:** Used to identify trends and reversals. Common types are the Simple Moving Average (SMA) and the Exponential Moving Average (EMA).
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Candlestick Patterns](../c/candlestick_patterns.md):** Patterns like [Doji](../d/doji.md), Hammer, and Engulfing help to predict potential reversals.
 
 ### 2. Scalping

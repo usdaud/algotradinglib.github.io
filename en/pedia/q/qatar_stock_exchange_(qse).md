@@ -27,7 +27,7 @@ As of 2023, the QSE hosts around 50 [listed](../l/listed.md) companies, spanning
 - Mesaieed Petrochemical [Holding Company](../h/holding_company.md) (MPHC)
 - Barwa [Real Estate](../r/real_estate.md)
 
-The QSE is [home](../h/home.md) to several indices, with the Qatar [Exchange](../e/exchange.md) [Index](../i/index.md) (QE [Index](../i/index.md)) being the primary [benchmark](../b/benchmark.md). The QE [Index](../i/index.md) comprises the top 20 most [liquid](../l/liquid.md) and significant [stocks](../s/stock.md) [listed](../l/listed.md) on the [market](../m/market.md). Additional indices include the QE Al Rayan Islamic [Index](../i/index.md), QE All Share [Index](../i/index.md), and several sector-specific indices.
+The QSE is [home](../h/home.md) to several indices, with the Qatar [Exchange](../e/exchange.md) [Index](../i/index_instrument.md) (QE [Index](../i/index_instrument.md)) being the primary [benchmark](../b/benchmark.md). The QE [Index](../i/index_instrument.md) comprises the top 20 most [liquid](../l/liquid.md) and significant [stocks](../s/stock.md) [listed](../l/listed.md) on the [market](../m/market.md). Additional indices include the QE Al Rayan Islamic [Index](../i/index_instrument.md), QE All Share [Index](../i/index_instrument.md), and several sector-specific indices.
 
 ## Trading Mechanism
 

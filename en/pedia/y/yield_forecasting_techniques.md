@@ -15,7 +15,7 @@
 [Technical analysis](../t/technical_analysis.md) involves the statistical analysis of [market](../m/market.md) activity. It uses past prices, [volume](../v/volume.md), and [open interest](../o/open_interest.md) to try to ascertain future price movements. Unlike [fundamental analysis](../f/fundamental_analysis.md), [technical analysis](../t/technical_analysis.md) primarily concerns itself with price and [volume](../v/volume.md), believing that all necessary information is reflected in these data points.
 
 - **Moving Averages:** Used to smooth out short-term fluctuations and highlight longer-term trends or cycles.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Bollinger Bands](../b/bollinger_bands.md):** Represent [volatility](../v/volatility.md) bands placed above and below a moving average.
 
 ## 3. Quantitative Analysis

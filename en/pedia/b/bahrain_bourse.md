@@ -97,7 +97,7 @@ The Bahrain Bourse reports [robust](../r/robust.md) trading volumes and values. 
 
 Bahrain Bourse provides several indices to track [market](../m/market.md) performance:
 
-- **Bahrain All Share [Index](../i/index.md) (BASI)**: Measures the performance of all [listed](../l/listed.md) companies on the [exchange](../e/exchange.md).
+- **Bahrain All Share [Index](../i/index_instrument.md) (BASI)**: Measures the performance of all [listed](../l/listed.md) companies on the [exchange](../e/exchange.md).
 - **Sectoral Indices**: Provide insights into the performance of specific sectors like banking, industrial, and services.
 
 ## Corporate Governance

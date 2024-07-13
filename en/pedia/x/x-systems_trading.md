@@ -19,7 +19,7 @@ X-Systems Trading encompasses a wide [range](../r/range.md) of [trading strategi
 
 ### Momentum-Based Strategies
 
-[Momentum](../m/momentum.md) strategies [capitalize](../c/capitalize.md) on the continuation of existing [market](../m/market.md) trends. Algorithms identify assets showing strong performance and predict that these trends [will](../w/will.md) persist in the short term. These strategies often incorporate various [technical indicators](../t/technical_indicators.md) like moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)).
+[Momentum](../m/momentum.md) strategies [capitalize](../c/capitalize.md) on the continuation of existing [market](../m/market.md) trends. Algorithms identify assets showing strong performance and predict that these trends [will](../w/will.md) persist in the short term. These strategies often incorporate various [technical indicators](../t/technical_indicators.md) like moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)).
 
 ### Mean Reversion Strategies
 

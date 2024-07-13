@@ -26,7 +26,7 @@ X-[Seasonality](../s/seasonality.md) Detection extends traditional [seasonality 
 ### Incorporating Macroeconomic Data
 Key [economic indicators](../e/economic_indicators.md) can be layered to refine seasonal models:
 - **GDP [Growth Rates](../g/growth_rates_in_trading.md)**: Annual or quarterly changes in GDP can indicate macroeconomic trends.
-- **[Inflation](../i/inflation.md) Data**: Consumer Price [Index](../i/index.md) (CPI) and Producer Price [Index](../i/index.md) (PPI) [offer](../o/offer.md) insights into inflationary pressures.
+- **[Inflation](../i/inflation.md) Data**: Consumer Price [Index](../i/index_instrument.md) (CPI) and Producer Price [Index](../i/index_instrument.md) (PPI) [offer](../o/offer.md) insights into inflationary pressures.
 - **Employment Data**: Non-Farm Payrolls (NFP) numbers can reflect broader economic health.
 
 ### Sentiment Analysis

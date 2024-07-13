@@ -39,7 +39,7 @@ Strategies to combat overfitting include both pre-processing techniques and mode
 
 ### Practical Example in Trading Algorithms
 
-Consider an example where a trading algorithm attempts to predict the price of a stock based on various indicators: moving average, [volume](../v/volume.md), [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), etc. If the model overfits, it might memorably use intricate patterns from the training period which do not [hold](../h/hold.md) in the future. 
+Consider an example where a trading algorithm attempts to predict the price of a stock based on various indicators: moving average, [volume](../v/volume.md), [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), etc. If the model overfits, it might memorably use intricate patterns from the training period which do not [hold](../h/hold.md) in the future. 
 
 ```python
 from sklearn.linear_model [import](../i/import.md) Lasso

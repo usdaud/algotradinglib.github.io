@@ -95,7 +95,7 @@ The [Sharpe Ratio](../s/sharpe_ratio.md) measures the [risk-adjusted return](../
 
 - **Analysis Tools**:
   - Python's SciPy and Statsmodels libraries.
-  - R's PerformanceAnalytics package (https://cran.r-project.org/web/packages/PerformanceAnalytics/[index](../i/index.md).html)
+  - R's PerformanceAnalytics package (https://cran.r-project.org/web/packages/PerformanceAnalytics/[index](../i/index_instrument.md).html)
   - Excel-based [financial analysis](../f/financial_analysis.md) tools.
 
 ## 6. Profitability Map (Heatmap) Analysis
@@ -135,7 +135,7 @@ A profitability map, also known as [heatmap](../h/heatmap.md) analysis, visualiz
 
 - **Tools**:
   - Python’s scikit-learn and Statsmodels libraries.
-  - R's FactorAnalytics package (https://cran.r-project.org/web/packages/FactorAnalytics/[index](../i/index.md).html)
+  - R's FactorAnalytics package (https://cran.r-project.org/web/packages/FactorAnalytics/[index](../i/index_instrument.md).html)
   - [Financial analysis](../f/financial_analysis.md) software such as EViews (http://www.eviews.com/)
 
 ## 8. Scenario Analysis
@@ -194,11 +194,11 @@ A profitability map, also known as [heatmap](../h/heatmap.md) analysis, visualiz
 - **Tools**:
   - Python's [Sensitivity Analysis](../s/sensitivity_analysis.md) libraries such as SALib.
   - MATLAB’s [Sensitivity Analysis](../s/sensitivity_analysis.md) toolkit (https://www.mathworks.com/discovery/sensitivity-analysis.html)
-  - R’s sensitivity package (https://cran.r-project.org/web/packages/sensitivity/[index](../i/index.md).html)
+  - R’s sensitivity package (https://cran.r-project.org/web/packages/sensitivity/[index](../i/index_instrument.md).html)
 
 ## 11. Alpha and Beta Analysis
 
-[Alpha](../a/alpha.md) measures the [excess return](../e/excess_return.md) of the strategy relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md), whereas [Beta](../b/beta.md) measures the sensitivity of the strategy’s returns to [market](../m/market.md) movements.
+[Alpha](../a/alpha.md) measures the [excess return](../e/excess_return.md) of the strategy relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), whereas [Beta](../b/beta.md) measures the sensitivity of the strategy’s returns to [market](../m/market.md) movements.
 
 - **Advantages**:
   - Distinguishes between [market](../m/market.md)-driven and strategy-specific returns.

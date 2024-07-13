@@ -40,7 +40,7 @@ High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_tra
 
 1. **Statistical [Arbitrage](../a/arbitrage.md)**: Uses statistical models to identify and exploit price inefficiencies.
 
-2. **[Index](../i/index.md) [Arbitrage](../a/arbitrage.md)**: Exploits price differences between an [index](../i/index.md) and its constituent securities.
+2. **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md)**: Exploits price differences between an [index](../i/index_instrument.md) and its constituent securities.
 
 3. **[Merger](../m/merger.md) [Arbitrage](../a/arbitrage.md)**: Involves buying and selling the [stocks](../s/stock.md) of companies involved in mergers or acquisitions to [profit](../p/profit.md) from expected changes in their prices.
 
@@ -58,7 +58,7 @@ High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_tra
 
 ### Basket Trading
 
-Basket trading involves executing trades on a group of securities simultaneously. This strategy is often used in [index](../i/index.md) replication, where an algorithm replicates the performance of an [index](../i/index.md) by trading its component [stocks](../s/stock.md) in the correct proportions.
+Basket trading involves executing trades on a group of securities simultaneously. This strategy is often used in [index](../i/index_instrument.md) replication, where an algorithm replicates the performance of an [index](../i/index_instrument.md) by trading its component [stocks](../s/stock.md) in the correct proportions.
 
 ## Regulatory Environment
 

@@ -1,6 +1,6 @@
 # 5-Day RSI
 
-The 5-Day RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements over a 5-day period. This tool was developed by J. Welles Wilder Jr. and is widely used in [technical analysis](../t/technical_analysis.md) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [security](../s/security.md). The RSI oscillates between 0 and 100 and typically, a [security](../s/security.md) is considered [overbought](../o/overbought.md) when the RSI is above 70 and [oversold](../o/oversold.md) when it is below 30. 
+The 5-Day RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements over a 5-day period. This tool was developed by J. Welles Wilder Jr. and is widely used in [technical analysis](../t/technical_analysis.md) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [security](../s/security.md). The RSI oscillates between 0 and 100 and typically, a [security](../s/security.md) is considered [overbought](../o/overbought.md) when the RSI is above 70 and [oversold](../o/oversold.md) when it is below 30. 
 
 #### Calculation of the 5-Day RSI
 

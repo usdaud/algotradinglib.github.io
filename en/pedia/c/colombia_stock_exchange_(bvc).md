@@ -46,7 +46,7 @@ BVC has established various partnerships and collaborations with international e
 
 ## Market Performance and Statistics
 
-The Colombian Stock [Exchange](../e/exchange.md) is represented by several key indices, with the COLCAP [Index](../i/index.md) being the most widely followed [indicator](../i/indicator.md) of [market](../m/market.md) performance. The COLCAP [Index](../i/index.md) comprises the top 20 most [liquid](../l/liquid.md) [stocks](../s/stock.md) on the BVC. Historical performance data of the COLCAP [Index](../i/index.md) and other [market](../m/market.md) [statistics](../s/statistics.md) are typically available on the BVC’s official website: [BVC Market Data](https://www.bvc.com.co/).
+The Colombian Stock [Exchange](../e/exchange.md) is represented by several key indices, with the COLCAP [Index](../i/index_instrument.md) being the most widely followed [indicator](../i/indicator.md) of [market](../m/market.md) performance. The COLCAP [Index](../i/index_instrument.md) comprises the top 20 most [liquid](../l/liquid.md) [stocks](../s/stock.md) on the BVC. Historical performance data of the COLCAP [Index](../i/index_instrument.md) and other [market](../m/market.md) [statistics](../s/statistics.md) are typically available on the BVC’s official website: [BVC Market Data](https://www.bvc.com.co/).
 
 ## Future Prospects and Innovations
 

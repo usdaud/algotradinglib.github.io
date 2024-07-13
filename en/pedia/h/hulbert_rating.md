@@ -19,7 +19,7 @@ Various [performance metrics](../p/performance_metrics.md) are utilized, includi
 
 1. **[Absolute Return](../a/absolute_return.md)**: Measures the [total return](../t/total_return.md) of an investment over a specified period.
 2. **[Risk-Adjusted Return](../r/risk-adjusted_return.md)**: Considers the [volatility](../v/volatility.md) of the returns, [offering](../o/offering.md) a more nuanced view by [accounting](../a/accounting.md) for [risk](../r/risk.md).
-3. **[Alpha](../a/alpha.md)**: Represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md).
+3. **[Alpha](../a/alpha.md)**: Represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 4. **[Beta](../b/beta.md)**: Gauges the sensitivity of an investment’s returns to [market](../m/market.md) movements.
 
 ### Time Frames

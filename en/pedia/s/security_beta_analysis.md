@@ -4,7 +4,7 @@ In the realm of [financial markets](../f/financial_market.md), understanding the
 
 ## Introduction to Beta
 
-[Beta](../b/beta.md) is a statistical measure that compares the [volatility](../v/volatility.md) of a [security](../s/security.md) or a portfolio to the overall [market](../m/market.md). The [market](../m/market.md), usually represented by a [benchmark](../b/benchmark.md) [index](../i/index.md) such as the S&P 500, is assigned a [Beta coefficient](../b/beta_coefficient.md) of 1. A [security](../s/security.md) with a [Beta](../b/beta.md) greater than 1 indicates that it is more volatile than the [market](../m/market.md), while a [Beta](../b/beta.md) less than 1 suggests it is less volatile.
+[Beta](../b/beta.md) is a statistical measure that compares the [volatility](../v/volatility.md) of a [security](../s/security.md) or a portfolio to the overall [market](../m/market.md). The [market](../m/market.md), usually represented by a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) such as the S&P 500, is assigned a [Beta coefficient](../b/beta_coefficient.md) of 1. A [security](../s/security.md) with a [Beta](../b/beta.md) greater than 1 indicates that it is more volatile than the [market](../m/market.md), while a [Beta](../b/beta.md) less than 1 suggests it is less volatile.
 
 ### Historical Context
 
@@ -33,7 +33,7 @@ To compute [Beta](../b/beta.md), you need:
 
 ### Steps in Calculation
 
-1. **Collect Data**: Obtain historical price or [return](../r/return.md) data for the [security](../s/security.md) and the [benchmark](../b/benchmark.md) [index](../i/index.md).
+1. **Collect Data**: Obtain historical price or [return](../r/return.md) data for the [security](../s/security.md) and the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 2. **Calculate Returns**: Convert price data to returns data by calculating periodic returns.
 3. **Compute [Covariance](../c/covariance.md) and Variance**: Using statistical methods, calculate the [covariance](../c/covariance.md) between the [security](../s/security.md)’s returns and the [market](../m/market.md)’s returns, as well as the variance of the [market](../m/market.md)’s returns.
 4. **Apply Formula**: Divide the [covariance](../c/covariance.md) by the variance of the [market](../m/market.md) to determine [Beta](../b/beta.md).
@@ -46,7 +46,7 @@ A [Beta](../b/beta.md) greater than 1 indicates that the [security](../s/securit
 
 ### Beta = 1
 
-A [Beta](../b/beta.md) of 1 implies that the [security](../s/security.md)’s price moves with the [market](../m/market.md). The [security](../s/security.md) is expected to have the same [volatility](../v/volatility.md) as the [market](../m/market.md). [Index](../i/index.md) funds and ETFs that track the [market](../m/market.md) often have a [Beta](../b/beta.md) close to 1.
+A [Beta](../b/beta.md) of 1 implies that the [security](../s/security.md)’s price moves with the [market](../m/market.md). The [security](../s/security.md) is expected to have the same [volatility](../v/volatility.md) as the [market](../m/market.md). [Index](../i/index_instrument.md) funds and ETFs that track the [market](../m/market.md) often have a [Beta](../b/beta.md) close to 1.
 
 ### Beta < 1
 

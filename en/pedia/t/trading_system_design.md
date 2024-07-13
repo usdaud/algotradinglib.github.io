@@ -9,7 +9,7 @@ The first step in trading system design is conceptualization. Here, the [trader]
 To develop a trading system, one must identify inefficiencies or patterns in the [market](../m/market.md). These opportunities can stem from:
 - **Price Anomalies:** Discrepancies between the current price and its [expected value](../e/expected_value.md).
 - **Statistical Patterns:** Recurring patterns that statistically suggest profitable trades.
-- **[Market Sentiment](../m/market_sentiment.md):** Using metrics such as the [volatility](../v/volatility.md) [index](../i/index.md) (VIX) to gauge [market sentiment](../m/market_sentiment.md).
+- **[Market Sentiment](../m/market_sentiment.md):** Using metrics such as the [volatility](../v/volatility.md) [index](../i/index_instrument.md) (VIX) to gauge [market sentiment](../m/market_sentiment.md).
 
 ### 1.2 Hypothesis Formulation
 Once opportunities are identified, the next step is to form a hypothesis. This involves defining:

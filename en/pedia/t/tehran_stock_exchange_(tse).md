@@ -35,8 +35,8 @@ The TSE provides a [range](../r/range.md) of trading and investment [options](..
 
 Several indices are used to measure [market](../m/market.md) performance on the TSE:
 
-- **TSE All-Share [Index](../i/index.md) (TEPIX):** The main [index](../i/index.md) that tracks the overall performance of all [listed](../l/listed.md) companies.
-- **Iran Farabourse [Index](../i/index.md) (IFB):** Tracks the performance of companies [listed](../l/listed.md) on the [over-the-counter market](../o/over-the-counter_market.md).
+- **TSE All-Share [Index](../i/index_instrument.md) (TEPIX):** The main [index](../i/index_instrument.md) that tracks the overall performance of all [listed](../l/listed.md) companies.
+- **Iran Farabourse [Index](../i/index_instrument.md) (IFB):** Tracks the performance of companies [listed](../l/listed.md) on the [over-the-counter market](../o/over-the-counter_market.md).
 
 ## Trading Mechanisms
 

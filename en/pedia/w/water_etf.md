@@ -6,7 +6,7 @@ In recent years, Water [Exchange](../e/exchange.md)-Traded Funds (ETFs) have gar
 
 Water ETFs are [exchange](../e/exchange.md)-traded funds that provide investors with exposure to a basket of companies involved in the water sector. This encompasses a wide [range](../r/range.md) of activities and industries, including water [utility](../u/utility.md) services, [infrastructure](../i/infrastructure.md), technology, and equipment related to water treatment, desalination, and purification projects.
 
-ETFs are designed to track the performance of a specific [index](../i/index.md) or sector. Water ETFs, in particular, track indices that focus on companies that derive significant revenues or profits from water-related operations.
+ETFs are designed to track the performance of a specific [index](../i/index_instrument.md) or sector. Water ETFs, in particular, track indices that focus on companies that derive significant revenues or profits from water-related operations.
 
 ## Significance of Water ETFs
 
@@ -47,29 +47,29 @@ This segment includes companies that develop and provide technology and equipmen
 
 ## Major Water ETFs
 
-Several ETFs [offer](../o/offer.md) investors exposure to the water sector. These funds vary in terms of their [index](../i/index.md) focus, geographical emphasis, and the types of companies they include. Some of the prominent Water ETFs include:
+Several ETFs [offer](../o/offer.md) investors exposure to the water sector. These funds vary in terms of their [index](../i/index_instrument.md) focus, geographical emphasis, and the types of companies they include. Some of the prominent Water ETFs include:
 
 ### Invesco Water Resources ETF (PHO)
 
-This ETF tracks the [NASDAQ](../n/nasdaq.md) OMX US Water [Index](../i/index.md), which comprises U.S.-[listed](../l/listed.md) companies focused on water conservation and purification, wastewater treatment, and supporting [infrastructure](../i/infrastructure.md).
+This ETF tracks the [NASDAQ](../n/nasdaq.md) OMX US Water [Index](../i/index_instrument.md), which comprises U.S.-[listed](../l/listed.md) companies focused on water conservation and purification, wastewater treatment, and supporting [infrastructure](../i/infrastructure.md).
 
 - [Invesco Water Resources ETF](https://www.invesco.com/us/financial-products/etfs/product-detail?productId=PHO)
 
 ### First Trust Water ETF (FIW)
 
-The First [Trust](../t/trust.md) Water ETF replicates the ISE Clean Edge Water [Index](../i/index.md), [investing](../i/investing.md) in companies involved in potable and wastewater treatment, storage and [distribution](../d/distribution.md), and other water-related industries.
+The First [Trust](../t/trust.md) Water ETF replicates the ISE Clean Edge Water [Index](../i/index_instrument.md), [investing](../i/investing.md) in companies involved in potable and wastewater treatment, storage and [distribution](../d/distribution.md), and other water-related industries.
 
 - [First Trust Water ETF](https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FIW)
 
 ### iShares Global Water UCITS ETF (IH2O)
 
-This ETF tracks the S&P Global Water [Index](../i/index.md) and provides global exposure, [investing](../i/investing.md) in companies across developed markets that are involved in water-related activities.
+This ETF tracks the S&P Global Water [Index](../i/index_instrument.md) and provides global exposure, [investing](../i/investing.md) in companies across developed markets that are involved in water-related activities.
 
 - [iShares Global Water UCITS ETF](https://www.ishares.com/uk/individual/en/products/251869/ishares-global-water-ucits-etf)
 
 ### Lyxor World Water UCITS ETF (WATU)
 
-The Lyxor World Water ETF aims to track the World Water [Index](../i/index.md) CW Net [Total Return Index](../t/total_return_index.md). It invests in international companies that are leaders in water utilities, [infrastructure](../i/infrastructure.md), equipment, and technology.
+The Lyxor World Water ETF aims to track the World Water [Index](../i/index_instrument.md) CW Net [Total Return Index](../t/total_return_index.md). It invests in international companies that are leaders in water utilities, [infrastructure](../i/infrastructure.md), equipment, and technology.
 
 - [Lyxor World Water UCITS ETF](https://www.lyxoretf.co.uk/en/instit/products/equity-etf/lyxor-world-water-ucits-etf-dist-lu1280394386/eur)
 
@@ -77,7 +77,7 @@ The Lyxor World Water ETF aims to track the World Water [Index](../i/index.md) C
 
 ### Underlying Index
 
-Investors should examine the [index](../i/index.md) that the ETF tracks to understand the selection criteria and weighting methodology. The [index](../i/index.md) determines the diversity, sector focus, and geographical [distribution](../d/distribution.md) of the investments.
+Investors should examine the [index](../i/index_instrument.md) that the ETF tracks to understand the selection criteria and weighting methodology. The [index](../i/index_instrument.md) determines the diversity, sector focus, and geographical [distribution](../d/distribution.md) of the investments.
 
 ### Expense Ratio
 

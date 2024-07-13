@@ -3,7 +3,7 @@
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), evaluating the performance of [trading algorithms](../t/trading_algorithms.md) is crucial. Relative [performance metrics](../p/performance_metrics.md) are a set of measures designed to assess how well a [trading strategy](../t/trading_strategy.md) performs compared to a [benchmark](../b/benchmark.md) or other strategies. These metrics are particularly useful for [fund](../f/fund.md) managers, individual investors, and traders to ensure that their [trading models](../t/trading_models.md) generate maximum returns while managing [risk](../r/risk.md) effectively. Below are some of the most widely used relative [performance metrics](../p/performance_metrics.md) in [algorithmic trading](../a/algorithmic_trading.md), their calculation methodologies, and their implications.
 
 #### 1. **Alpha**
-[Alpha](../a/alpha.md) measures the excess returns of a strategy relative to the returns of a [benchmark](../b/benchmark.md) [index](../i/index.md). It shows how much better or worse a [trading strategy](../t/trading_strategy.md) has performed compared to a standard [index](../i/index.md).
+[Alpha](../a/alpha.md) measures the excess returns of a strategy relative to the returns of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). It shows how much better or worse a [trading strategy](../t/trading_strategy.md) has performed compared to a standard [index](../i/index_instrument.md).
 
 **Formula:**
 \[ \[alpha](../a/alpha.md) = R_a - (R_f + \[beta](../b/beta.md) (R_m - R_f)) \]
@@ -68,7 +68,7 @@ Where:
 A higher [Treynor Ratio](../t/treynor_ratio.md) indicates a more favorable [risk-adjusted return](../r/risk-adjusted_return.md) given the [market risk](../m/market_risk.md) taken on.
 
 #### 6. **Information Ratio**
-The [Information Ratio](../i/information_ratio.md) compares the returns of a strategy to its [benchmark](../b/benchmark.md) [index](../i/index.md) by considering the relative performance per unit of [tracking error](../t/tracking_error.md).
+The [Information Ratio](../i/information_ratio.md) compares the returns of a strategy to its [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) by considering the relative performance per unit of [tracking error](../t/tracking_error.md).
 
 **Formula:**
 \[ \text{[Information Ratio](../i/information_ratio.md)} = \frac{R_a - R_b}{\sigma_{a-b}} \]

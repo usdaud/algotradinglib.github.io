@@ -1,6 +1,6 @@
 # Wilder's Directional Movement Index (DMI)
 
-The Directional Movement [Index](../i/index.md) (DMI), developed by J. Welles Wilder, is a technical [indicator](../i/indicator.md) that estimates the strength and direction of a [trend](../t/trend.md). It aids in identifying whether a [security](../s/security.md) is trending and how strong that [trend](../t/trend.md) is. Traders often use DMI to make trading decisions and to develop [trading strategies](../t/trading_strategies.md).
+The Directional Movement [Index](../i/index_instrument.md) (DMI), developed by J. Welles Wilder, is a technical [indicator](../i/indicator.md) that estimates the strength and direction of a [trend](../t/trend.md). It aids in identifying whether a [security](../s/security.md) is trending and how strong that [trend](../t/trend.md) is. Traders often use DMI to make trading decisions and to develop [trading strategies](../t/trading_strategies.md).
 
 ## Components of DMI
 
@@ -37,7 +37,7 @@ To calculate +DI and -DI, you must first determine the Directional Movement (DM)
 
 ### ADX Calculation
 
-1. **Calculate the Directional Movement [Index](../i/index.md) (DX)**:
+1. **Calculate the Directional Movement [Index](../i/index_instrument.md) (DX)**:
     - DX = (| +DI - -DI | / (+DI + -DI)) * 100
 
 2. **Calculate ADX**:
@@ -77,7 +77,7 @@ When ADX is below 20, it may be an indication of a [range](../r/range.md)-bound 
 
 ## Conclusion
 
-The Directional Movement [Index](../i/index.md) is a powerful and versatile tool for assessing [trend](../t/trend.md) strength and direction. While it has its limitations, when combined with other indicators and sound trading principles, it can significantly enhance trading decisions.
+The Directional Movement [Index](../i/index_instrument.md) is a powerful and versatile tool for assessing [trend](../t/trend.md) strength and direction. While it has its limitations, when combined with other indicators and sound trading principles, it can significantly enhance trading decisions.
 
 For more detailed information on [technical indicators](../t/technical_indicators.md) and [trading strategies](../t/trading_strategies.md), you can explore resources from financial institutions and trading platforms such as:
 - [Investopedia](https://www.investopedia.com)

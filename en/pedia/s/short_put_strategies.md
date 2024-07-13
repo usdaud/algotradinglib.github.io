@@ -15,7 +15,7 @@ When an [investor](../i/investor.md) sells a [put option](../p/put.md), they are
 1. **[Strike Price](../s/strike_price.md)**: The price at which the [underlying asset](../u/underlying_asset.md) can be bought if the option is exercised.
 2. **[Premium](../p/premium.md)**: The [income](../i/income.md) received from selling the [put option](../p/put.md).
 3. **[Expiration Date](../e/expiration_date.md)**: The date on which the option expires, and the obligation ceases if not exercised.
-4. **[Underlying Asset](../u/underlying_asset.md)**: The [financial instrument](../f/financial_instrument.md) (e.g., stock, [index](../i/index.md)) on which the [put option](../p/put.md) is written.
+4. **[Underlying Asset](../u/underlying_asset.md)**: The [financial instrument](../f/financial_instrument.md) (e.g., stock, [index](../i/index_instrument.md)) on which the [put option](../p/put.md) is written.
 
 ### Example Scenario
 

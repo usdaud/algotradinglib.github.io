@@ -10,7 +10,7 @@ Rent control can be broadly classified into two primary types:
     - This involves strict regulations that limit the rent amount at all times. An example could be a cap on rent increases or setting a maximum price that can never be exceeded.
 
 2. **Soft Rent Control**:
-    - These systems are more flexible, allowing for periodic rent increases but typically capping the amount by which rents can be raised annually. Often, these caps are tied to [inflation](../i/inflation.md) measures such as the Consumer Price [Index](../i/index.md) (CPI).
+    - These systems are more flexible, allowing for periodic rent increases but typically capping the amount by which rents can be raised annually. Often, these caps are tied to [inflation](../i/inflation.md) measures such as the Consumer Price [Index](../i/index_instrument.md) (CPI).
 
 ### Vacancy Decontrol
 

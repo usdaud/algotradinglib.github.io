@@ -12,7 +12,7 @@
 
 #### 1. Investment Strategy
 
-- **Passive vs Active**: Passive strategies, such as [Index](../i/index.md) Funds and ETFs, often rebalance less frequently (e.g., quarterly or annually) as they aim to replicate the performance of indices. Active strategies might rebalance more frequently to [capitalize](../c/capitalize.md) on shorter-term [market](../m/market.md) opportunities.
+- **Passive vs Active**: Passive strategies, such as [Index](../i/index_instrument.md) Funds and ETFs, often rebalance less frequently (e.g., quarterly or annually) as they aim to replicate the performance of indices. Active strategies might rebalance more frequently to [capitalize](../c/capitalize.md) on shorter-term [market](../m/market.md) opportunities.
 - **[Mean Reversion](../m/mean_reversion.md) vs [Momentum](../m/momentum.md)**: Strategies based on [mean reversion](../m/mean_reversion.md) may require more frequent [rebalancing](../r/rebalancing.md) to exploit short-term price corrections, whereas [momentum](../m/momentum.md) strategies might rebalance less frequently to let winners run.
 
 #### 2. Market Conditions

@@ -6,7 +6,7 @@ In the world of [finance](../f/finance.md) and trading, making decisions based o
 
 A representative sample is a subset of a population that accurately reflects the members of the entire population. A sample is considered representative if it exhibits the same characteristics and proportions as the population from which it is drawn. This is crucial because any analysis conducted on the sample can be generalized to the population as a whole. 
 
-In trading and [finance](../f/finance.md), this means that if you are analyzing the behavior of a particular stock, [index](../i/index.md), or [asset class](../a/asset_class.md), the sample data you use should accurately reflect the behavior of the entire dataset or the real-world [market](../m/market.md) conditions.
+In trading and [finance](../f/finance.md), this means that if you are analyzing the behavior of a particular stock, [index](../i/index_instrument.md), or [asset class](../a/asset_class.md), the sample data you use should accurately reflect the behavior of the entire dataset or the real-world [market](../m/market.md) conditions.
 
 ## Importance in Trading and Finance
 

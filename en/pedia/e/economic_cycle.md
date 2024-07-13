@@ -77,7 +77,7 @@ Various [economic indicators](../e/economic_indicators.md) are used to analyze a
 
 - **[Stock Market](../s/stock_market.md) Performance**: Often considered a predictor of future [economic conditions](../e/economic_conditions.md), as it reflects [investor](../i/investor.md) sentiment.
 - **[Manufacturing](../m/manufacturing.md) Orders**: An increase in new orders can indicate upcoming production growth.
-- **Consumer Confidence [Index](../i/index.md)**: Measures the overall confidence of consumers regarding the [economy](../e/economy.md) and their financial situation.
+- **Consumer Confidence [Index](../i/index_instrument.md)**: Measures the overall confidence of consumers regarding the [economy](../e/economy.md) and their financial situation.
 
 ### 2. Coincident Indicators
 

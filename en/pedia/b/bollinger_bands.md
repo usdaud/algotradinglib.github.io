@@ -69,7 +69,7 @@ This strategy can involve entering long or short positions based on the price mo
 ## Combining Bollinger Bands with Other Indicators
 
 To mitigate [false signals](../f/false_signals_in_trading.md) and improve the effectiveness of Bollinger Bands, they are often used in conjunction with other [technical indicators](../t/technical_indicators.md) such as:
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: To confirm [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions.
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: To confirm [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions.
 2. **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: To identify [trend](../t/trend.md) changes.
 3. **[Volume Indicators](../v/volume_indicators.md)**: To confirm the strength of price moves.
 

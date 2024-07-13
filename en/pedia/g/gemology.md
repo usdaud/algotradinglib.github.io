@@ -34,7 +34,7 @@ The microscope is indispensable in gemology for examining a gemstone's inclusion
 
 ### Refractometer
 
-A refractometer measures the refractive [index](../i/index.md) of a gemstone, which is a critical [factor](../f/factor.md) in its identification. By analyzing how light bends as it passes through the stone, gemologists can distinguish between different types of gemstones.
+A refractometer measures the refractive [index](../i/index_instrument.md) of a gemstone, which is a critical [factor](../f/factor.md) in its identification. By analyzing how light bends as it passes through the stone, gemologists can distinguish between different types of gemstones.
 
 ### Spectroscope
 

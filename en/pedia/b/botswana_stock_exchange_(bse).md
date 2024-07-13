@@ -44,9 +44,9 @@ The BSE is divided into several [market](../m/market.md) segments, including:
 ## Indices
 
 The BSE uses several indices to track [market](../m/market.md) performance. These include:
-- **Botswana Stock [Exchange](../e/exchange.md) Domestic Company [Index](../i/index.md) (BSE DCI)**: Tracks the performance of domestic companies [listed](../l/listed.md) on the BSE.
-- **Foreign Company [Index](../i/index.md) (FCI)**: Tracks the performance of foreign companies with listings on the BSE.
-- **Botswana [Bond](../b/bond.md) [Index](../i/index.md) (BBI)**: Tracks the performance of the [bond market](../b/bond_market.md).
+- **Botswana Stock [Exchange](../e/exchange.md) Domestic Company [Index](../i/index_instrument.md) (BSE DCI)**: Tracks the performance of domestic companies [listed](../l/listed.md) on the BSE.
+- **Foreign Company [Index](../i/index_instrument.md) (FCI)**: Tracks the performance of foreign companies with listings on the BSE.
+- **Botswana [Bond](../b/bond.md) [Index](../i/index_instrument.md) (BBI)**: Tracks the performance of the [bond market](../b/bond_market.md).
 
 ## Major Listed Companies
 

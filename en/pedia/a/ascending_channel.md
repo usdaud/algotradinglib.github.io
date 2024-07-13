@@ -55,7 +55,7 @@ Traders usually place [stop-loss orders](../s/stop-loss_orders.md) slightly belo
 
 ## Technical Indicators
 
-To enhance the reliability of the ascending channel, traders often use additional indicators such as Moving Averages, [Bollinger Bands](../b/bollinger_band.md), RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)).
+To enhance the reliability of the ascending channel, traders often use additional indicators such as Moving Averages, [Bollinger Bands](../b/bollinger_band.md), RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)).
 
 ## Applications and Examples
 

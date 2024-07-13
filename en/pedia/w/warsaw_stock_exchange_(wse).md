@@ -16,7 +16,7 @@ Throughout the 1990s and early 2000s, the WSE experienced rapid growth. The numb
 
 - **1994**: Introduction of the electronic trading system WARSET.
 - **1998**: Launch of the first [derivatives](../d/derivatives.md) [market](../m/market.md).
-- **2000**: Introduction of the WSE [Index](../i/index.md) (WIG), the main [market index](../m/market_index.md).
+- **2000**: Introduction of the WSE [Index](../i/index_instrument.md) (WIG), the main [market index](../m/market_index.md).
 
 The [expansion](../e/expansion.md) was also supported by Poland's accession to the [European Union](../e/european_union_(eu).md) in 2004, which brought about increased [investor](../i/investor.md) confidence and integration with European [financial markets](../f/financial_market.md).
 
@@ -94,27 +94,27 @@ Stock indices play a crucial role in the WSE, providing benchmarks for [market](
 
 ### WIG20
 
-The WIG20 is the flagship [index](../i/index.md) of the WSE, comprising the 20 largest and most [liquid](../l/liquid.md) companies [listed](../l/listed.md) on the Main [Market](../m/market.md). It serves as a [benchmark](../b/benchmark.md) for the overall performance of the Warsaw Stock [Exchange](../e/exchange.md) and is widely used by institutional investors and [fund](../f/fund.md) managers. Key characteristics of the WIG20 include:
+The WIG20 is the flagship [index](../i/index_instrument.md) of the WSE, comprising the 20 largest and most [liquid](../l/liquid.md) companies [listed](../l/listed.md) on the Main [Market](../m/market.md). It serves as a [benchmark](../b/benchmark.md) for the overall performance of the Warsaw Stock [Exchange](../e/exchange.md) and is widely used by institutional investors and [fund](../f/fund.md) managers. Key characteristics of the WIG20 include:
 
-- **Blue-Chip [Stocks](../s/stock.md)**: The [index](../i/index.md) includes the most prominent companies in Poland, representing various sectors of the [economy](../e/economy.md).
-- **[Market Capitalization](../m/market_capitalization.md)**: The WIG20 is a [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md), meaning that larger companies have a greater influence on its performance.
-- **[Liquidity](../l/liquidity.md)**: The inclusion of highly [liquid](../l/liquid.md) [stocks](../s/stock.md) ensures that the [index](../i/index.md) accurately reflects [market](../m/market.md) movements.
+- **Blue-Chip [Stocks](../s/stock.md)**: The [index](../i/index_instrument.md) includes the most prominent companies in Poland, representing various sectors of the [economy](../e/economy.md).
+- **[Market Capitalization](../m/market_capitalization.md)**: The WIG20 is a [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md), meaning that larger companies have a greater influence on its performance.
+- **[Liquidity](../l/liquidity.md)**: The inclusion of highly [liquid](../l/liquid.md) [stocks](../s/stock.md) ensures that the [index](../i/index_instrument.md) accurately reflects [market](../m/market.md) movements.
 
 ### mWIG40
 
-The mWIG40 [index](../i/index.md) represents [mid-cap](../m/mid-cap.md) companies [listed](../l/listed.md) on the WSE. It includes 40 companies that are larger than those in the sWIG80 [index](../i/index.md) but smaller than those in the WIG20. Key features of the mWIG40 include:
+The mWIG40 [index](../i/index_instrument.md) represents [mid-cap](../m/mid-cap.md) companies [listed](../l/listed.md) on the WSE. It includes 40 companies that are larger than those in the sWIG80 [index](../i/index_instrument.md) but smaller than those in the WIG20. Key features of the mWIG40 include:
 
-- **[Diversification](../d/diversification.md)**: The [index](../i/index.md) offers a diversified exposure to mid-sized companies across various sectors.
+- **[Diversification](../d/diversification.md)**: The [index](../i/index_instrument.md) offers a diversified exposure to mid-sized companies across various sectors.
 - **Growth Potential**: [Mid-cap](../m/mid-cap.md) companies often exhibit higher growth potential compared to large-cap counterparts.
 - **[Benchmark](../b/benchmark.md)**: The mWIG40 serves as a [benchmark](../b/benchmark.md) for [mid-cap](../m/mid-cap.md) performance and is used by investors seeking to invest in medium-sized enterprises.
 
 ### sWIG80
 
-The sWIG80 [index](../i/index.md) comprises small-cap companies [listed](../l/listed.md) on the WSE. It includes 80 companies that are smaller in [market capitalization](../m/market_capitalization.md) compared to those in the WIG20 and mWIG40. Key characteristics of the sWIG80 include:
+The sWIG80 [index](../i/index_instrument.md) comprises small-cap companies [listed](../l/listed.md) on the WSE. It includes 80 companies that are smaller in [market capitalization](../m/market_capitalization.md) compared to those in the WIG20 and mWIG40. Key characteristics of the sWIG80 include:
 
-- **Small-Cap Focus**: The [index](../i/index.md) provides exposure to smaller companies, which can [offer](../o/offer.md) unique investment opportunities and higher growth potential.
+- **Small-Cap Focus**: The [index](../i/index_instrument.md) provides exposure to smaller companies, which can [offer](../o/offer.md) unique investment opportunities and higher growth potential.
 - **Sector Representation**: The sWIG80 includes companies from a wide [range](../r/range.md) of sectors, ensuring diversified exposure.
-- **Investment Opportunities**: The [index](../i/index.md) is used by investors looking to invest in smaller, potentially high-growth companies.
+- **Investment Opportunities**: The [index](../i/index_instrument.md) is used by investors looking to invest in smaller, potentially high-growth companies.
 
 ## Role in Regional and Global Financial Landscape
 

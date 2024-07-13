@@ -132,7 +132,7 @@ For markets that tend to [trade](../t/trade.md) within tight ranges, the [Range]
 Combining [Pivot Points](../p/pivot_points.md) with other [technical indicators](../t/technical_indicators.md) can enhance the effectiveness of [trading strategies](../t/trading_strategies.md). Commonly combined indicators include:
 
 - **Moving Averages**: To confirm the [trend](../t/trend.md) direction when a [Pivot Point](../p/pivot_point.md) level is reached.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: To identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions at [Pivot Point](../p/pivot_point.md) levels.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: To identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions at [Pivot Point](../p/pivot_point.md) levels.
 - **MACD (Moving Average Convergence [Divergence](../d/divergence.md))**: To validate [momentum](../m/momentum.md) at [Pivot Point](../p/pivot_point.md) levels.
 
 ## Example of an Algorithm Using Pivot Points

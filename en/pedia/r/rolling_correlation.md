@@ -83,7 +83,7 @@ returns_b = np.random.randn(100)
 data = pd.DataFrame({
     'Stock_A': returns_a,
     'Stock_B': returns_b
-}, [index](../i/index.md)=dates)
+}, [index](../i/index_instrument.md)=dates)
 
 # Calculate rolling correlation with a 30-day window
 rolling_corr = data['Stock_A'].rolling(window=30).corr(data['Stock_B'])

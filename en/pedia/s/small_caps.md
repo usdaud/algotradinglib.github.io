@@ -60,7 +60,7 @@ Adopting a long-term [investment horizon](../i/investment_horizon.md) can help i
 Given the higher [risk](../r/risk.md) and potential rewards, [active management](../a/active_management.md) can be beneficial for small cap investments. Active managers can respond to [market](../m/market.md) changes and [leverage](../l/leverage.md) their expertise to identify promising opportunities.
 
 ### Leveraged ETFs and Index Funds
-For investors seeking exposure to small caps without individual stock selection, [leveraged ETFs](../l/leveraged_etfs.md) and [index](../i/index.md) funds focused on small cap [stocks](../s/stock.md) can be an appealing option. These investment vehicles [offer](../o/offer.md) diversified exposure to the sector with varying [risk](../r/risk.md) levels.
+For investors seeking exposure to small caps without individual stock selection, [leveraged ETFs](../l/leveraged_etfs.md) and [index](../i/index_instrument.md) funds focused on small cap [stocks](../s/stock.md) can be an appealing option. These investment vehicles [offer](../o/offer.md) diversified exposure to the sector with varying [risk](../r/risk.md) levels.
 
 ## Key Indicators for Analyzing Small Cap Stocks
 
@@ -82,10 +82,10 @@ High insider ownership can signal confidence in the company's future prospects. 
 The [Russell 2000 Index](../r/russell_2000_index.md) is one of the most widely recognized small cap benchmarks. It includes the smallest 2,000 securities in the [Russell 3000 Index](../r/russell_3000_index.md), representing a broad spectrum of small cap companies in the United States.
 
 ### S&P SmallCap 600
-The S&P SmallCap 600 [Index](../i/index.md) measures the performance of 600 small cap [stocks](../s/stock.md) in the U.S. It is designed to be an accurate representation of the small cap segment and includes [stocks](../s/stock.md) from various sectors.
+The S&P SmallCap 600 [Index](../i/index_instrument.md) measures the performance of 600 small cap [stocks](../s/stock.md) in the U.S. It is designed to be an accurate representation of the small cap segment and includes [stocks](../s/stock.md) from various sectors.
 
 ### MSCI World Small Cap Index
-The MSCI World Small Cap [Index](../i/index.md) provides global exposure, including small cap [stocks](../s/stock.md) from developed markets around the world. This [index](../i/index.md) offers [diversification](../d/diversification.md) beyond domestic small cap investments.
+The MSCI World Small Cap [Index](../i/index_instrument.md) provides global exposure, including small cap [stocks](../s/stock.md) from developed markets around the world. This [index](../i/index_instrument.md) offers [diversification](../d/diversification.md) beyond domestic small cap investments.
 
 ## Case Studies
 

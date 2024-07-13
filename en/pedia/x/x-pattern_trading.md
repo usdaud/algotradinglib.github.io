@@ -12,7 +12,7 @@ X-Pattern Trading is a sophisticated [algorithmic trading](../a/algorithmic_trad
 
 1. **[Trend](../t/trend.md) Lines**: These are diagonal lines drawn on charts to indicate the direction of the price. In [X-Patterns](../x/x-patterns_in_trading.md), [trend](../t/trend.md) lines often intersect, suggesting a critical point in the price movement.
   
-2. **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) frequently participate in forming [X-Patterns](../x/x-patterns_in_trading.md). 
+2. **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) frequently participate in forming [X-Patterns](../x/x-patterns_in_trading.md). 
 
 3. **[Volume](../v/volume.md)**: Trading [volume](../v/volume.md) is an essential element. Spikes in [volume](../v/volume.md) can often signify the [breakout](../b/breakout.md) or breakdown associated with an X-Pattern.
 

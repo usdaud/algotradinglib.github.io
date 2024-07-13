@@ -1,15 +1,15 @@
 # Variable Rate Mortgage
 
-A Variable Rate [Mortgage](../m/mortgage.md) (VRM), often referred to as an adjustable-rate [mortgage](../m/mortgage.md) (ARM) in the United States, is a type of [home](../h/home.md) [loan](../l/loan.md) where the [interest rate](../i/interest_rate.md) applied on the outstanding balance varies throughout the [loan](../l/loan.md)'s lifetime. These mortgages have [interest](../i/interest.md) rates that may change periodically, usually in relation to an [index](../i/index.md) or [benchmark](../b/benchmark.md), and they [offer](../o/offer.md) the potential for cost-saving if [interest](../i/interest.md) rates decline. However, they also carry the [risk](../r/risk.md) of higher payments if [interest](../i/interest.md) rates increase. This guide provides an in-depth exploration of Variable Rate Mortgages, covering their mechanisms, advantages, disadvantages, types, and comparisons with fixed-rate mortgages.
+A Variable Rate [Mortgage](../m/mortgage.md) (VRM), often referred to as an adjustable-rate [mortgage](../m/mortgage.md) (ARM) in the United States, is a type of [home](../h/home.md) [loan](../l/loan.md) where the [interest rate](../i/interest_rate.md) applied on the outstanding balance varies throughout the [loan](../l/loan.md)'s lifetime. These mortgages have [interest](../i/interest.md) rates that may change periodically, usually in relation to an [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md), and they [offer](../o/offer.md) the potential for cost-saving if [interest](../i/interest.md) rates decline. However, they also carry the [risk](../r/risk.md) of higher payments if [interest](../i/interest.md) rates increase. This guide provides an in-depth exploration of Variable Rate Mortgages, covering their mechanisms, advantages, disadvantages, types, and comparisons with fixed-rate mortgages.
 
 ## Mechanisms of Variable Rate Mortgages
 
 ### Interest Rate Adjustments
 
-In a VRM, the [interest rate](../i/interest_rate.md) is typically tied to a specific financial [index](../i/index.md), such as the London Interbank Offered Rate (LIBOR), the [Prime Rate](../p/prime_rate.md), or the Cost of Funds [Index](../i/index.md) (COFI). The [loan](../l/loan.md) agreement specifies the [margin](../m/margin.md) (a fixed amount over the [index](../i/index.md)) and the adjustment intervals. The formula for the new rate would be:
+In a VRM, the [interest rate](../i/interest_rate.md) is typically tied to a specific financial [index](../i/index_instrument.md), such as the London Interbank Offered Rate (LIBOR), the [Prime Rate](../p/prime_rate.md), or the Cost of Funds [Index](../i/index_instrument.md) (COFI). The [loan](../l/loan.md) agreement specifies the [margin](../m/margin.md) (a fixed amount over the [index](../i/index_instrument.md)) and the adjustment intervals. The formula for the new rate would be:
 
 ```
-New [Interest Rate](../i/interest_rate.md) = [Index](../i/index.md) Rate + [Margin](../m/margin.md)
+New [Interest Rate](../i/interest_rate.md) = [Index](../i/index_instrument.md) Rate + [Margin](../m/margin.md)
 ```
 
 ### Adjustment Periods

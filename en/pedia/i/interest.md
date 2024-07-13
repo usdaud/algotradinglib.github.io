@@ -17,7 +17,7 @@
    - **Example**: A $1,000 investment at a 5% annual [interest rate](../i/interest_rate.md), compounded annually for 3 years, would grow to $1,157.63.
 3. **Fixed Interest**: The [interest rate](../i/interest_rate.md) remains constant throughout the term of the [loan](../l/loan.md) or investment.
    - **Example**: A [mortgage](../m/mortgage.md) with a [fixed interest rate](../f/fixed_interest_rate.md) of 4% for 30 years.
-4. **Variable Interest**: The [interest rate](../i/interest_rate.md) can change over time, based on [market](../m/market.md) conditions or an [index](../i/index.md).
+4. **Variable Interest**: The [interest rate](../i/interest_rate.md) can change over time, based on [market](../m/market.md) conditions or an [index](../i/index_instrument.md).
    - **Example**: A [credit card](../c/credit_card.md) with an [interest rate](../i/interest_rate.md) that fluctuates with the [prime rate](../p/prime_rate.md).
 
 ## Importance

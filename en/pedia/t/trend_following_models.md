@@ -23,7 +23,7 @@ To effectively build and execute a [trend](../t/trend.md)-following strategy, ac
 Indicators are essential tools in identifying trends. Some popular indicators include:
 
 - Moving Averages (MA): Averages of price over a specified number of periods.
-- [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI): Measures the speed and change of price movements.
+- [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI): Measures the speed and change of price movements.
 - Moving Average Convergence [Divergence](../d/divergence.md) (MACD): Shows the relationship between two moving averages.
 
 ### Algorithms
@@ -43,7 +43,7 @@ def moving_average_crossover(prices, short_window, long_window):
     short_ma = prices.rolling(window=short_window, min_periods=1).mean()
     long_ma = prices.rolling(window=long_window, min_periods=1).mean()
 
-    signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
+    signals = pd.DataFrame([index](../i/index_instrument.md)=prices.[index](../i/index_instrument.md))
     signals['signal'] = 0.0
     signals['short_ma'] = short_ma
     signals['long_ma'] = long_ma
@@ -67,7 +67,7 @@ def bollinger_bands(prices, window, num_std_dev):
     upper_band = rolling_mean + (rolling_std * num_std_dev)
     lower_band = rolling_mean - (rolling_std * num_std_dev)
     
-    signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
+    signals = pd.DataFrame([index](../i/index_instrument.md)=prices.[index](../i/index_instrument.md))
     signals['price'] = prices
     signals['upper_band'] = upper_band
     signals['lower_band'] = lower_band
@@ -97,7 +97,7 @@ def relative_strength_index(prices, window):
     rs = avg_gain / avg_loss
     rsi = 100 - (100 / (1 + rs))
     
-    signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
+    signals = pd.DataFrame([index](../i/index_instrument.md)=prices.[index](../i/index_instrument.md))
     signals['price'] = prices
     signals['rsi'] = rsi
 

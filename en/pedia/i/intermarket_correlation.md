@@ -48,7 +48,7 @@ where $C$ is the number of concordant pairs, $D$ the number of discordant pairs,
 ### Strategy Development
 Algorithmic traders develop [trading strategies](../t/trading_strategies.md) based on intermarket correlations to:
 - **Identify [Arbitrage](../a/arbitrage.md) Opportunities:** Seek financial instruments that have deviated from their typical [correlation](../c/correlation.md) and [profit](../p/profit.md) from the reversion to the mean.
-- **Enhance [Predictive Models](../p/predictive_models_in_trading.md):** Use correlated assets to improve the accuracy of price predictions. For instance, a [trader](../t/trader.md) might predict the movement of a stock [index](../i/index.md) by analyzing the correlated performance of its top constituents.
+- **Enhance [Predictive Models](../p/predictive_models_in_trading.md):** Use correlated assets to improve the accuracy of price predictions. For instance, a [trader](../t/trader.md) might predict the movement of a stock [index](../i/index_instrument.md) by analyzing the correlated performance of its top constituents.
 
 ### Portfolio Diversification
 [Diversification](../d/diversification.md) is a [risk management](../r/risk_management.md) strategy that [spreads](../s/spreads.md) investments across various financial instruments, industries, and other categories to reduce exposure to any single [asset](../a/asset.md) or [risk](../r/risk.md). By understanding intermarket correlations, traders can construct portfolios with assets that have low or negative correlations, thereby reducing portfolio [volatility](../v/volatility.md).

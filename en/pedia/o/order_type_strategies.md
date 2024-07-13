@@ -95,10 +95,10 @@ An All or None [order](../o/order.md) stipulates that the [order](../o/order.md)
 
 #### 12. Pegged Orders
 
-Pegged orders automatically adjust to track an [index](../i/index.md), [benchmark](../b/benchmark.md), or specific [market price](../m/market_price.md). There are various types of pegged orders, such as primary peg orders and midpoint peg orders, each with distinct mechanisms for aligning prices.
+Pegged orders automatically adjust to track an [index](../i/index_instrument.md), [benchmark](../b/benchmark.md), or specific [market price](../m/market_price.md). There are various types of pegged orders, such as primary peg orders and midpoint peg orders, each with distinct mechanisms for aligning prices.
 
 **Strategic Use:**
-- **[Index](../i/index.md) Tracking:** Ideal for algorithmic strategies aiming to mimic the performance of an [index](../i/index.md) or [benchmark](../b/benchmark.md).
+- **[Index](../i/index_instrument.md) Tracking:** Ideal for algorithmic strategies aiming to mimic the performance of an [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md).
 - **Competitive Pricing:** Ensures that the [order](../o/order.md) price stays competitive in dynamic markets.
 
 #### 13. Auction Orders

@@ -28,7 +28,7 @@ The ADX measures the strength of a [trend](../t/trend.md), regardless of its dir
 - **40-60:** Strong [trend](../t/trend.md).
 - **Above 60:** Very strong [trend](../t/trend.md).
 
-**c. [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):**
+**c. [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):**
 
 RSI evaluates the magnitude of recent price changes to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. It is useful for spotting [trend](../t/trend.md) weakness.
 

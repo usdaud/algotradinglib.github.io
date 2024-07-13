@@ -37,7 +37,7 @@ Once the macroeconomic conditions, sectors, and geographies are determined, inve
 
 1. **[Valuation](../v/valuation.md) Metrics**: Important metrics include Price-to-[Earnings](../e/earnings.md) (P/E) ratios, Price-to-Book (P/B) ratios, and [Dividend Yield](../d/dividend_yield.md). These help assess whether a stock is over- or under-valued.
 2. **[Fundamental Analysis](../f/fundamental_analysis.md)**: Analyzing company-specific factors such as [financial health](../f/financial_health.md), management quality, competitive advantages, and growth prospects.
-3. **[Technical Analysis](../t/technical_analysis.md)**: Some investors also use [technical indicators](../t/technical_indicators.md) (e.g., moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) to time entries and exits.
+3. **[Technical Analysis](../t/technical_analysis.md)**: Some investors also use [technical indicators](../t/technical_indicators.md) (e.g., moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) to time entries and exits.
 4. **[Earnings](../e/earnings.md) Reports**: Regular examination of [quarterly earnings reports](../q/quarterly_earnings_reports.md) to track company performance against expectations.
 
 ### Risk Management

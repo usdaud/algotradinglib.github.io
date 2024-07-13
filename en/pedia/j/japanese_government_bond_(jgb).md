@@ -15,7 +15,7 @@ T-Bills are short-term [discount](../d/discount.md) instruments with maturities 
 Floating rate bonds have variable [interest](../i/interest.md) rates, which are adjusted periodically based on fixed intervals or indices such as the Tokyo Interbank Offered Rate (TIBOR). These bonds protect investors against [interest rate](../i/interest_rate.md) [volatility](../v/volatility.md).
 
 ### Inflation-Indexed Bonds
-[Inflation](../i/inflation.md)-indexed JGBs are designed to protect investors from [inflation](../i/inflation.md) [risk](../r/risk.md). The [principal](../p/principal.md) and [interest](../i/interest.md) payments are adjusted according to changes in the Consumer Price [Index](../i/index.md) (CPI), ensuring that the real [value](../v/value.md) of the investment remains stable.
+[Inflation](../i/inflation.md)-indexed JGBs are designed to protect investors from [inflation](../i/inflation.md) [risk](../r/risk.md). The [principal](../p/principal.md) and [interest](../i/interest.md) payments are adjusted according to changes in the Consumer Price [Index](../i/index_instrument.md) (CPI), ensuring that the real [value](../v/value.md) of the investment remains stable.
 
 ### Retail JGBs
 Retail JGBs are specifically tailored for individual investors. They come with various maturities and can include fixed or floating rates. These bonds are marketed through financial institutions and have features that appeal to retail investors, such as relatively low minimum investment amounts.

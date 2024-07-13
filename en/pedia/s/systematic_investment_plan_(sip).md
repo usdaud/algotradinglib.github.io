@@ -86,7 +86,7 @@ Hybrid mutual funds invest in a mix of [equity](../e/equity.md) and [debt](../d/
 
 ### 4. **Index Funds**
 
-[Index](../i/index.md) funds mimic the composition of a [market index](../m/market_index.md) like the S&P 500. SIPs in [index](../i/index.md) funds [offer](../o/offer.md) diversified exposure to the [market](../m/market.md), reducing the [risk](../r/risk.md) associated with individual stock performance.
+[Index](../i/index_instrument.md) funds mimic the composition of a [market index](../m/market_index.md) like the S&P 500. SIPs in [index](../i/index_instrument.md) funds [offer](../o/offer.md) diversified exposure to the [market](../m/market.md), reducing the [risk](../r/risk.md) associated with individual stock performance.
 
 ## Tax Implications
 

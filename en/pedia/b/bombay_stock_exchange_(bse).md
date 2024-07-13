@@ -8,7 +8,7 @@ The BSE was founded by Premchand Roychand, a prominent [stockbroker](../s/stockb
 
 ### Milestones in BSE History
 - **1995:** The BSE switched from an [open](../o/open.md) floor trading system to an electronic trading system, drastically improving [transaction](../t/transaction.md) speed and [efficiency](../e/efficiency.md).
-- **2005:** BSE introduced a free [float](../f/float.md) [index](../i/index.md) known as the BSE [SENSEX](../s/sensex.md), which tracks the performance of the top 30 companies [listed](../l/listed.md) on the [exchange](../e/exchange.md).
+- **2005:** BSE introduced a free [float](../f/float.md) [index](../i/index_instrument.md) known as the BSE [SENSEX](../s/sensex.md), which tracks the performance of the top 30 companies [listed](../l/listed.md) on the [exchange](../e/exchange.md).
 - **2010:** The BSE became the world's fastest stock [exchange](../e/exchange.md) with a trading speed of 200 microseconds.
 
 ## Structure and Functioning
@@ -25,7 +25,7 @@ Companies wishing to list their [shares](../s/shares.md) on the BSE must meet st
 ## Key Indices
 
 ### BSE SENSEX
-The BSE [SENSEX](../s/sensex.md) or Bombay Stock [Exchange](../e/exchange.md) Sensitive [Index](../i/index.md) is a free-[float](../f/float.md) [market](../m/market.md)-[weighted](../w/weighted.md) stock [market index](../m/market_index.md) of 30 well-established and financially sound companies [listed](../l/listed.md) on the BSE. It serves as a barometer for the Indian [stock market](../s/stock_market.md).
+The BSE [SENSEX](../s/sensex.md) or Bombay Stock [Exchange](../e/exchange.md) Sensitive [Index](../i/index_instrument.md) is a free-[float](../f/float.md) [market](../m/market.md)-[weighted](../w/weighted.md) stock [market index](../m/market_index.md) of 30 well-established and financially sound companies [listed](../l/listed.md) on the BSE. It serves as a barometer for the Indian [stock market](../s/stock_market.md).
 
 ### S&P BSE 500
 The S&P BSE 500 represents nearly 93% of the total [market capitalization](../m/market_capitalization.md) on the BSE. It includes companies from various sectors and is thus considered a broader [indicator](../i/indicator.md) of the Indian [market](../m/market.md).

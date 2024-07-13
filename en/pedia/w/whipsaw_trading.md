@@ -50,7 +50,7 @@ Tools and techniques to navigate [whipsaw](../w/whipsaw.md) trading effectively 
 
 1. **[Trend Following](../t/trend_following.md) Indicators**: Indicators like Moving Averages (MA), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and the [Average Directional Index](../a/average_directional_index_(adx).md) (ADX) help in identifying the primary [trend](../t/trend.md) and potential [whipsaw](../w/whipsaw.md) movements.
 
-2. **[Volatility](../v/volatility.md) Indicators**: Tools such as the [Bollinger Bands](../b/bollinger_bands.md), [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX), and the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) provide insights into [market](../m/market.md) [volatility](../v/volatility.md), aiding in [whipsaw](../w/whipsaw.md) [risk](../r/risk.md) assessment.
+2. **[Volatility](../v/volatility.md) Indicators**: Tools such as the [Bollinger Bands](../b/bollinger_bands.md), [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX), and the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) provide insights into [market](../m/market.md) [volatility](../v/volatility.md), aiding in [whipsaw](../w/whipsaw.md) [risk](../r/risk.md) assessment.
 
 3. **[Price Action Analysis](../p/price_action_analysis.md)**: Observing [price patterns](../p/price_patterns.md), [candlestick](../c/candlestick.md) formations, and support/resistance levels can help identify potential [whipsaw](../w/whipsaw.md) scenarios.
 

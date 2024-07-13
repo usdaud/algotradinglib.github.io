@@ -6,7 +6,7 @@
 
 ### 1. **Interest Rate Swaps (IRS)**
    
-[Interest Rate Swaps](../i/interest_rate_swaps.md) are among the most common types of IRDs. In an IRS, two parties agree to [exchange](../e/exchange.md) cash flows based on a [notional principal amount](../n/notional_principal_amount.md). Typically, one party pays a [fixed interest rate](../f/fixed_interest_rate.md), while the other pays a [floating interest rate](../f/floating_interest_rate.md), often tied to an [index](../i/index.md) like the LIBOR (London Interbank Offered Rate).
+[Interest Rate Swaps](../i/interest_rate_swaps.md) are among the most common types of IRDs. In an IRS, two parties agree to [exchange](../e/exchange.md) cash flows based on a [notional principal amount](../n/notional_principal_amount.md). Typically, one party pays a [fixed interest rate](../f/fixed_interest_rate.md), while the other pays a [floating interest rate](../f/floating_interest_rate.md), often tied to an [index](../i/index_instrument.md) like the LIBOR (London Interbank Offered Rate).
 
 #### **Example**
 - A [corporation](../c/corporation.md) may enter into an IRS to convert a fixed-rate [loan](../l/loan.md) into a floating-rate [loan](../l/loan.md) to take advantage of lower short-term [interest](../i/interest.md) rates.

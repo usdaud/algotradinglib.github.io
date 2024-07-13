@@ -11,8 +11,8 @@ Vanguard ETFs are similar to traditional mutual funds but [trade](../t/trade.md)
 1. **[Open](../o/open.md)-Ended Structure:**
    - Vanguard ETFs are [open](../o/open.md)-ended securities, meaning that they can create and redeem [shares](../s/shares.md) based on [demand](../d/demand.md). This capability helps in maintaining the price of the ETF close to its Net [Asset](../a/asset.md) [Value](../v/value.md) (NAV).
    
-2. **[Index](../i/index.md)-Based Management:**
-   - Most Vanguard ETFs aim to replicate the performance of a specific [index](../i/index.md), such as the S&P 500, [NASDAQ](../n/nasdaq.md) 100, or sector-specific indices. These funds use a passive management strategy, which helps in reducing the cost of management.
+2. **[Index](../i/index_instrument.md)-Based Management:**
+   - Most Vanguard ETFs aim to replicate the performance of a specific [index](../i/index_instrument.md), such as the S&P 500, [NASDAQ](../n/nasdaq.md) 100, or sector-specific indices. These funds use a passive management strategy, which helps in reducing the cost of management.
    
 3. **Share Creation and [Redemption](../r/redemption.md):**
    - Authorized participants (usually large financial institutions) facilitate the creation and [redemption](../r/redemption.md) of ETF [shares](../s/shares.md). They can create ETF [shares](../s/shares.md) by depositing a basket of securities that replicates the ETF's portfolio, and in [return](../r/return.md), they receive new ETF [shares](../s/shares.md). Conversely, they can redeem [shares](../s/shares.md) by returning ETF [shares](../s/shares.md) to the [issuer](../i/issuer.md) and receiving the [underlying](../u/underlying.md) securities.
@@ -49,47 +49,47 @@ Vanguard provides a wide array of ETFs, categorized based on various parameters:
    - Tracks the performance of the CRSP US Total [Market Index](../m/market_index.md), providing exposure to the entirety of the investable U.S. [stock market](../s/stock_market.md).
 
 2. **Vanguard Total International Stock ETF (VXUS):**
-   - Aims to track the performance of the FTSE Global All Cap ex US [Index](../i/index.md), covering both developed and emerging markets outside the U.S.
+   - Aims to track the performance of the FTSE Global All Cap ex US [Index](../i/index_instrument.md), covering both developed and emerging markets outside the U.S.
 
 ### Sector and Industry ETFs
 
 1. **Vanguard Information Technology ETF (VGT):**
-   - Focuses on the information [technology sector](../t/technology_sector.md) by tracking the MSCI US Investable [Market](../m/market.md) Information Technology 25/50 [Index](../i/index.md).
+   - Focuses on the information [technology sector](../t/technology_sector.md) by tracking the MSCI US Investable [Market](../m/market.md) Information Technology 25/50 [Index](../i/index_instrument.md).
 
 2. **Vanguard Health Care ETF (VHT):**
-   - Provides exposure to the [healthcare sector](../h/healthcare_sector.md) and tracks the performance of the MSCI US Investable [Market](../m/market.md) Health Care 25/50 [Index](../i/index.md).
+   - Provides exposure to the [healthcare sector](../h/healthcare_sector.md) and tracks the performance of the MSCI US Investable [Market](../m/market.md) Health Care 25/50 [Index](../i/index_instrument.md).
 
 ### Bond ETFs
 
 1. **Vanguard Total [Bond Market](../b/bond_market.md) ETF (BND):**
-   - Tracks the performance of the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Float](../f/float.md) Adjusted [Index](../i/index.md), representing a broad spectrum of public, investment-grade, taxable bonds in the U.S.
+   - Tracks the performance of the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Float](../f/float.md) Adjusted [Index](../i/index_instrument.md), representing a broad spectrum of public, investment-grade, taxable bonds in the U.S.
 
 2. **Vanguard Short-Term [Bond ETF](../b/bond_etf.md) (BSV):**
-   - Focuses on investment-grade bonds with maturities between one and five years, following the [Bloomberg](../b/bloomberg.md) Barclays U.S. 1-5 Year Government/[Credit](../c/credit.md) [Float](../f/float.md) Adjusted [Index](../i/index.md).
+   - Focuses on investment-grade bonds with maturities between one and five years, following the [Bloomberg](../b/bloomberg.md) Barclays U.S. 1-5 Year Government/[Credit](../c/credit.md) [Float](../f/float.md) Adjusted [Index](../i/index_instrument.md).
 
 ### International and Global ETFs
 
 1. **Vanguard FTSE All-World ex-US ETF (VEU):**
-   - Tracks the FTSE All-World ex US [Index](../i/index.md), covering a wide [range](../r/range.md) of international [stocks](../s/stock.md) from both developed and emerging markets.
+   - Tracks the FTSE All-World ex US [Index](../i/index_instrument.md), covering a wide [range](../r/range.md) of international [stocks](../s/stock.md) from both developed and emerging markets.
 
 2. **Vanguard Emerging Markets Stock ETF (VWO):**
-   - Aims to replicate the performance of the FTSE Emerging Markets All Cap China A Inclusion [Index](../i/index.md), focusing on [stocks](../s/stock.md) from emerging [market](../m/market.md) economies.
+   - Aims to replicate the performance of the FTSE Emerging Markets All Cap China A Inclusion [Index](../i/index_instrument.md), focusing on [stocks](../s/stock.md) from emerging [market](../m/market.md) economies.
 
 ### Factor-Based ETFs
 
 1. **Vanguard [Value](../v/value.md) ETF (VTV):**
-   - Designed to follow the CRSP US Large Cap [Value](../v/value.md) [Index](../i/index.md), targeting [stocks](../s/stock.md) that appear to be [undervalued](../u/undervalued.md) based on various financial metrics.
+   - Designed to follow the CRSP US Large Cap [Value](../v/value.md) [Index](../i/index_instrument.md), targeting [stocks](../s/stock.md) that appear to be [undervalued](../u/undervalued.md) based on various financial metrics.
 
 2. **Vanguard Growth ETF (VUG):**
-   - Tracks the performance of the CRSP US Large Cap Growth [Index](../i/index.md), focusing on companies with potential for above-average growth.
+   - Tracks the performance of the CRSP US Large Cap Growth [Index](../i/index_instrument.md), focusing on companies with potential for above-average growth.
 
 ### ESG (Environmental, Social, and Governance) ETFs
 
 1. **Vanguard ESG U.S. Stock ETF (ESGV):**
-   - Follows the FTSE US All Cap Choice [Index](../i/index.md), excluding companies involved in activities like firearms, tobacco, and nuclear power, thus aligning investments with ESG principles.
+   - Follows the FTSE US All Cap Choice [Index](../i/index_instrument.md), excluding companies involved in activities like firearms, tobacco, and nuclear power, thus aligning investments with ESG principles.
 
 2. **Vanguard ESG International Stock ETF (VSGX):**
-   - Aims to track the FTSE Global All Cap ex US Choice [Index](../i/index.md), focusing on international [stocks](../s/stock.md) that meet specific ESG criteria.
+   - Aims to track the FTSE Global All Cap ex US Choice [Index](../i/index_instrument.md), focusing on international [stocks](../s/stock.md) that meet specific ESG criteria.
 
 ## Benefits of Vanguard ETFs
 

@@ -58,7 +58,7 @@ For instance, in a [downtrend](../d/downtrend.md), if the price of an [asset](..
 
 [Trading algorithms](../t/trading_algorithms.md) incorporating Fibonacci analysis might:
 - Identify shifts in [trend](../t/trend.md) direction by detecting price bounces or breaks from Fibonacci levels.
-- Combine [multiple](../m/multiple.md) indicators such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), or MACD (Moving Average Convergence [Divergence](../d/divergence.md)) with Fibonacci levels to refine signals.
+- Combine [multiple](../m/multiple.md) indicators such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), or MACD (Moving Average Convergence [Divergence](../d/divergence.md)) with Fibonacci levels to refine signals.
 - Automate entry and exit points based on [Fibonacci retracement](../f/fibonacci_retracement.md) and extension levels.
 
 ## Example of Algorithmic Implementation

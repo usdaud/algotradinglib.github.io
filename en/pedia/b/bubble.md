@@ -12,7 +12,7 @@ Understanding the lifecycle of a bubble can be crucial for traders to develop an
 
 ## Historical Examples of Market Bubbles
 ### The Dot-com Bubble (1997-2000)
-One of the most famous examples is the dot-com bubble of the late 1990s. Internet-based companies saw exorbitant valuations despite having little to no profits. When the [market](../m/market.md) corrected in 2000, many companies failed, and the [NASDAQ](../n/nasdaq.md) [index](../i/index.md) lost nearly 80% of its [value](../v/value.md).
+One of the most famous examples is the dot-com bubble of the late 1990s. Internet-based companies saw exorbitant valuations despite having little to no profits. When the [market](../m/market.md) corrected in 2000, many companies failed, and the [NASDAQ](../n/nasdaq.md) [index](../i/index_instrument.md) lost nearly 80% of its [value](../v/value.md).
 
 ### The Housing Bubble (2007-2008)
 The [housing bubble](../h/housing_bubble.md) of the mid-2000s saw property prices soar, only to crash, leading to a global [financial crisis](../f/financial_crisis.md). Loose lending standards and speculative investment in [mortgage](../m/mortgage.md)-backed securities amplified the bubble's magnitude.

@@ -31,10 +31,10 @@ In this example, the loss realized from the [sale](../s/sale.md) on Day 0 cannot
 The concept of substantially identical securities can be somewhat subjective and nuanced, leading to various interpretations. Generally, the term includes the following scenarios:
 
 1. **Identical [Stocks](../s/stock.md)**: Buying the same stock or [options](../o/options.md) on the same stock.
-2. **Mutual Funds and ETFs**: Purchasing [shares](../s/shares.md) of a [mutual fund](../m/mutual_fund.md) or an [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) that tracks the same or a very similar [index](../i/index.md) as the [security](../s/security.md) sold.
+2. **Mutual Funds and ETFs**: Purchasing [shares](../s/shares.md) of a [mutual fund](../m/mutual_fund.md) or an [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) that tracks the same or a very similar [index](../i/index_instrument.md) as the [security](../s/security.md) sold.
 3. **Convertible Securities**: Swapping [common stock](../c/common_stock.md) for [preferred stock](../p/preferred_stock.md) or bonds convertible into [common stock](../c/common_stock.md).
 
-For example, if an [investor](../i/investor.md) sells [shares](../s/shares.md) of an ETF tracking the S&P 500 [Index](../i/index.md) at a loss and buys [shares](../s/shares.md) of another ETF that also tracks the S&P 500 within the [wash](../w/wash.md)-[sale](../s/sale.md) period, the securities would likely be considered substantially identical, triggering the [wash](../w/wash.md)-[sale](../s/sale.md) rule.
+For example, if an [investor](../i/investor.md) sells [shares](../s/shares.md) of an ETF tracking the S&P 500 [Index](../i/index_instrument.md) at a loss and buys [shares](../s/shares.md) of another ETF that also tracks the S&P 500 within the [wash](../w/wash.md)-[sale](../s/sale.md) period, the securities would likely be considered substantially identical, triggering the [wash](../w/wash.md)-[sale](../s/sale.md) rule.
 
 ### Disallowed Loss and Adjusted Cost Basis
 

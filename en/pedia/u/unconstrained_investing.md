@@ -1,10 +1,10 @@
 # Unconstrained Investing
 
-Unconstrained [investing](../i/investing.md) is a relatively modern [investment strategy](../i/investment_strategy.md) that breaks away from traditional, [benchmark](../b/benchmark.md)-linked [investing](../i/investing.md) methods. In essence, it provides [fund](../f/fund.md) managers the freedom to invest across a wide array of [asset](../a/asset.md) classes, sectors, and geographies without being tied to a specific [benchmark](../b/benchmark.md) [index](../i/index.md). The goal of unconstrained [investing](../i/investing.md) is to maximize total returns, regardless of [market](../m/market.md) conditions. 
+Unconstrained [investing](../i/investing.md) is a relatively modern [investment strategy](../i/investment_strategy.md) that breaks away from traditional, [benchmark](../b/benchmark.md)-linked [investing](../i/investing.md) methods. In essence, it provides [fund](../f/fund.md) managers the freedom to invest across a wide array of [asset](../a/asset.md) classes, sectors, and geographies without being tied to a specific [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). The goal of unconstrained [investing](../i/investing.md) is to maximize total returns, regardless of [market](../m/market.md) conditions. 
 
 ## Overview
 
-The traditional investment strategies tend to adhere to specific benchmarks or indices, which can limit the opportunities for portfolio managers to exploit [market](../m/market.md) inefficiencies. Unconstrained [investing](../i/investing.md), on the other hand, allows [fund](../f/fund.md) managers to utilize a variety of financial instruments and investment sectors to seek higher returns. This strategy involves a broad, flexible approach to [asset allocation](../a/asset_allocation.md) and portfolio construction, which means that managers are not compelled to [hold](../h/hold.md) a particular set of assets merely because they are part of an [index](../i/index.md).
+The traditional investment strategies tend to adhere to specific benchmarks or indices, which can limit the opportunities for portfolio managers to exploit [market](../m/market.md) inefficiencies. Unconstrained [investing](../i/investing.md), on the other hand, allows [fund](../f/fund.md) managers to utilize a variety of financial instruments and investment sectors to seek higher returns. This strategy involves a broad, flexible approach to [asset allocation](../a/asset_allocation.md) and portfolio construction, which means that managers are not compelled to [hold](../h/hold.md) a particular set of assets merely because they are part of an [index](../i/index_instrument.md).
 
 ## Key Characteristics of Unconstrained Investing
 
@@ -16,7 +16,7 @@ The traditional investment strategies tend to adhere to specific benchmarks or i
 
 4. **Long-term Focus:** The strategy often emphasizes long-term investment horizons over short-term gains, making it suitable for institutional investors, endowments, and pension funds looking to achieve sustainable returns over time.
 
-5. **[Active Management](../a/active_management.md):** Unlike [passive investment strategies](../p/passive_investment_strategies.md) that track an [index](../i/index.md), unconstrained [investing](../i/investing.md) relies heavily on [active portfolio management](../a/active_portfolio_management.md). This requires a highly skilled management team capable of identifying [market](../m/market.md) trends, pricing inefficiencies, and potential investment opportunities.
+5. **[Active Management](../a/active_management.md):** Unlike [passive investment strategies](../p/passive_investment_strategies.md) that track an [index](../i/index_instrument.md), unconstrained [investing](../i/investing.md) relies heavily on [active portfolio management](../a/active_portfolio_management.md). This requires a highly skilled management team capable of identifying [market](../m/market.md) trends, pricing inefficiencies, and potential investment opportunities.
 
 ## Benefits of Unconstrained Investing
 

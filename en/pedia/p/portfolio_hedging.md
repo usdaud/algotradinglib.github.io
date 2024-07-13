@@ -9,7 +9,7 @@
 Hedging entails taking a position in one [market](../m/market.md) to [offset](../o/offset.md) and balance the [risk](../r/risk.md) related to an opposite position in a different [market](../m/market.md). Essentially, it’s similar to taking out an [insurance](../i/insurance.md) policy to minimize the exposure from adverse price movements. The position taken to [hedge](../h/hedge.md) the portfolio could be in various forms, such as:
 
 1. **[Derivative](../d/derivative.md) Instruments**: [Options](../o/options.md), [futures](../f/futures.md), forwards, and swaps.
-2. **[Inverse ETFs](../i/inverse_etfs.md)**: [Exchange](../e/exchange.md)-traded funds that increase in [value](../v/value.md) as the [underlying](../u/underlying.md) [index](../i/index.md) declines.
+2. **[Inverse ETFs](../i/inverse_etfs.md)**: [Exchange](../e/exchange.md)-traded funds that increase in [value](../v/value.md) as the [underlying](../u/underlying.md) [index](../i/index_instrument.md) declines.
 3. **[Short Selling](../s/short_selling.md)**: Borrowing and selling assets with the aim to repurchase them later at a lower price.
 4. **[Diversification](../d/diversification.md)**: Holding various assets with low or [negative correlation](../n/negative_correlation.md).
 
@@ -35,7 +35,7 @@ Hedging plays a vital role in [portfolio management](../p/portfolio_management.m
 - **[Put Options](../p/put_options.md)**: Provide the right to sell an [asset](../a/asset.md).
 
 **Use Case Example:**
-To [hedge](../h/hedge.md) a stock portfolio, an [investor](../i/investor.md) can purchase [put options](../p/put_options.md) on individual [stocks](../s/stock.md) or a stock [index](../i/index.md). If the [market](../m/market.md) declines, the [value](../v/value.md) of the puts increases, offsetting the portfolio's loss.
+To [hedge](../h/hedge.md) a stock portfolio, an [investor](../i/investor.md) can purchase [put options](../p/put_options.md) on individual [stocks](../s/stock.md) or a stock [index](../i/index_instrument.md). If the [market](../m/market.md) declines, the [value](../v/value.md) of the puts increases, offsetting the portfolio's loss.
 
 #### Futures and Forwards
 
@@ -46,7 +46,7 @@ A [portfolio manager](../p/portfolio_manager.md) expecting a decline in the [val
 
 ### Inverse ETFs
 
-[Inverse ETFs](../i/inverse_etfs.md) are designed to move in the opposite direction of a specified [index](../i/index.md) or [benchmark](../b/benchmark.md). They are used to [profit](../p/profit.md) from a decline in the [value](../v/value.md) of the [underlying](../u/underlying.md) [index](../i/index.md) without the need for [short selling](../s/short_selling.md).
+[Inverse ETFs](../i/inverse_etfs.md) are designed to move in the opposite direction of a specified [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md). They are used to [profit](../p/profit.md) from a decline in the [value](../v/value.md) of the [underlying](../u/underlying.md) [index](../i/index_instrument.md) without the need for [short selling](../s/short_selling.md).
 
 **Use Case Example:**
 An [investor](../i/investor.md) could purchase an [inverse ETF](../i/inverse_etf.md) corresponding to the S&P 500 to [hedge](../h/hedge.md) against a potential downturn in the broader [stock market](../s/stock_market.md).
@@ -99,7 +99,7 @@ Hedging is not a one-time activity. Continuous monitoring and adjustments are ne
 An [equity](../e/equity.md) portfolio worth $10 million, heavily invested in technology [stocks](../s/stock.md), is at [risk](../r/risk.md) due to anticipated [market](../m/market.md) downturns.
 
 **Solution:**
-- Purchase [put options](../p/put_options.md) on the [NASDAQ](../n/nasdaq.md) [index](../i/index.md).
+- Purchase [put options](../p/put_options.md) on the [NASDAQ](../n/nasdaq.md) [index](../i/index_instrument.md).
 - [Options](../o/options.md) [premium](../p/premium.md) costs $200,000 for protection until the next quarter.
 - If the [NASDAQ](../n/nasdaq.md) falls by 10%, the portfolio [value](../v/value.md) declines to $9 million.
 - The [put options](../p/put_options.md), however, increase in [value](../v/value.md) by $1 million, offsetting the loss.

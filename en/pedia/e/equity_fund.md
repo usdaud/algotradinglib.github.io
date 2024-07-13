@@ -10,7 +10,7 @@ An [equity](../e/equity.md) [fund](../f/fund.md) is a type of [mutual fund](../m
 
 - **Diversified [Equity](../e/equity.md) Funds**: Invest broadly across different sectors and industries.
 - **Sector-Specific [Equity](../e/equity.md) Funds**: Focus on [stocks](../s/stock.md) within a specific sector, such as technology or healthcare.
-- **[Index](../i/index.md) Funds**: Aim to replicate the performance of a specific stock [market index](../m/market_index.md) like the S&P 500.
+- **[Index](../i/index_instrument.md) Funds**: Aim to replicate the performance of a specific stock [market index](../m/market_index.md) like the S&P 500.
 - **Growth Funds**: Target companies with high potential for future growth.
 - **[Value](../v/value.md) Funds**: Invest in [undervalued](../u/undervalued.md) [stocks](../s/stock.md) that are expected to appreciate in [value](../v/value.md).
 
@@ -30,7 +30,7 @@ Sector-specific [equity](../e/equity.md) funds concentrate their investments in 
 
 ### Index Funds
 
-[Index](../i/index.md) funds seek to replicate the performance of a specific stock [market index](../m/market_index.md) by holding the same [stocks](../s/stock.md) in the same proportions as the [index](../i/index.md). These funds are passively managed and often have lower fees compared to actively managed funds.
+[Index](../i/index_instrument.md) funds seek to replicate the performance of a specific stock [market index](../m/market_index.md) by holding the same [stocks](../s/stock.md) in the same proportions as the [index](../i/index_instrument.md). These funds are passively managed and often have lower fees compared to actively managed funds.
 
 - **Example**: Vanguard 500 [Index Fund](../i/index_fund.md) (VFIAX) - [Link](https://investor.vanguard.com/mutual-funds/profile/VFIAX)
 

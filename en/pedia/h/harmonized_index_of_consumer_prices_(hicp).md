@@ -1,6 +1,6 @@
 # Harmonized Index of Consumer Prices (HICP)
 
-The Harmonized [Index](../i/index.md) of Consumer Prices (HICP) is a specially designed measure of consumer price [inflation](../i/inflation.md) that is comparable across EU Member States. Developed and maintained by Eurostat, it allows economists, policymakers, and financial analysts to measure and compare the rate of [inflation](../i/inflation.md) among EU countries while providing a consistent [basis](../b/basis.md) for [inflation](../i/inflation.md) targeting and economic policy formulation.
+The Harmonized [Index](../i/index_instrument.md) of Consumer Prices (HICP) is a specially designed measure of consumer price [inflation](../i/inflation.md) that is comparable across EU Member States. Developed and maintained by Eurostat, it allows economists, policymakers, and financial analysts to measure and compare the rate of [inflation](../i/inflation.md) among EU countries while providing a consistent [basis](../b/basis.md) for [inflation](../i/inflation.md) targeting and economic policy formulation.
 
 ## Definition and Purpose
 
@@ -26,7 +26,7 @@ The HICP takes into account a broad spectrum of goods and services, categorized 
 
 ### Weighting Scheme
 
-HICP is constructed using a Laspeyres-type [index](../i/index.md), which uses weights derived from the Household [Budget](../b/budget.md) Surveys reflecting consumption patterns of the target population. These weights are periodically updated to ensure they reflect the most current and relevant spending behaviors. Concretely, each category's price change is [weighted](../w/weighted.md) by its importance in the total consumption expenditure of households.
+HICP is constructed using a Laspeyres-type [index](../i/index_instrument.md), which uses weights derived from the Household [Budget](../b/budget.md) Surveys reflecting consumption patterns of the target population. These weights are periodically updated to ensure they reflect the most current and relevant spending behaviors. Concretely, each category's price change is [weighted](../w/weighted.md) by its importance in the total consumption expenditure of households.
 
 ### Data Collection
 
@@ -73,4 +73,4 @@ Eurostat ensures that HICP data is readily accessible to the public, promoting [
 
 ## Conclusion
 
-The Harmonized [Index](../i/index.md) of Consumer Prices (HICP) is a vital statistical [indicator](../i/indicator.md) that supports economic policymaking, inter-country comparisons, and financial [market](../m/market.md) analysis within the [European Union](../e/european_union_(eu).md). By providing a consistent and harmonized measure of consumer price [inflation](../i/inflation.md), it enables more effective and coordinated economic strategies, hence supporting the stability and growth of the broader European [economy](../e/economy.md).
+The Harmonized [Index](../i/index_instrument.md) of Consumer Prices (HICP) is a vital statistical [indicator](../i/indicator.md) that supports economic policymaking, inter-country comparisons, and financial [market](../m/market.md) analysis within the [European Union](../e/european_union_(eu).md). By providing a consistent and harmonized measure of consumer price [inflation](../i/inflation.md), it enables more effective and coordinated economic strategies, hence supporting the stability and growth of the broader European [economy](../e/economy.md).

@@ -33,7 +33,7 @@ Day trading primarily involves short-term charts that [range](../r/range.md) fro
 Day traders rely on advanced trading platforms that provide comprehensive charting tools, real-time news, and fast [execution](../e/execution.md) speeds. Popular platforms include **MetaTrader**, **[Thinkorswim](../t/thinkorswim.md)** by TD [Ameritrade](../a/ameritrade.md), and **[Interactive Brokers](../i/interactive_brokers.md)**.
 
 ### 2. Technical Indicators
-[Technical indicators](../t/technical_indicators.md) are mathematical calculations based on historic price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) information. Commonly used indicators include moving averages, [Bollinger Bands](../b/bollinger_bands.md), MACD, and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI).
+[Technical indicators](../t/technical_indicators.md) are mathematical calculations based on historic price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) information. Commonly used indicators include moving averages, [Bollinger Bands](../b/bollinger_bands.md), MACD, and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 
 ### 3. News Feeds
 Day trading is often driven by the latest news. Economic announcements, [earnings](../e/earnings.md) reports, or [geopolitical events](../g/geopolitical_events.md) can significantly impact [market](../m/market.md) conditions. Services like **[Bloomberg](../b/bloomberg.md) Terminal** and **[Reuters](../r/reuters.md)** provide real-time news updates.

@@ -70,7 +70,7 @@ Investment strategies based on the Low [Volatility](../v/volatility.md) [Anomaly
 Many financial institutions [offer](../o/offer.md) products designed to exploit the Low [Volatility](../v/volatility.md) [Anomaly](../a/anomaly.md), including [Exchange](../e/exchange.md)-Traded Funds (ETFs) and mutual funds. Some notable examples include:
 
 - **[iShares](../i/ishares.md) Edge MSCI Minimum [Volatility](../v/volatility.md) USA ETF (USMV)**: This ETF aims to provide exposure to U.S. [stocks](../s/stock.md) with lower [volatility](../v/volatility.md) characteristics.
-- **Invesco S&P 500 Low [Volatility](../v/volatility.md) ETF (SPLV)**: This ETF focuses on the 100 least volatile [stocks](../s/stock.md) in the S&P 500 [Index](../i/index.md).
+- **Invesco S&P 500 Low [Volatility](../v/volatility.md) ETF (SPLV)**: This ETF focuses on the 100 least volatile [stocks](../s/stock.md) in the S&P 500 [Index](../i/index_instrument.md).
 - **PowerShares S&P International Developed Low [Volatility](../v/volatility.md) Portfolio (IDLV)**: This ETF targets low-[volatility](../v/volatility.md) [stocks](../s/stock.md) in developed markets outside the U.S.
 
 ### Performance and Drawbacks

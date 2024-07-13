@@ -31,7 +31,7 @@ GDP is the most comprehensive measure of overall economic activity. A consistent
 An increase in the [unemployment rate](../u/unemployment_rate.md) is a powerful [indicator](../i/indicator.md) of an economic downturn. During a recession, many businesses reduce their workforce to cut costs, resulting in higher [unemployment](../u/unemployment.md) rates.
 
 ### Consumer Confidence Index (CCI)
-The Consumer Confidence [Index](../i/index.md) measures the overall confidence of consumers in the economic environment. A low CCI indicates that consumers are pessimistic about their financial prospects, leading to decreased spending.
+The Consumer Confidence [Index](../i/index_instrument.md) measures the overall confidence of consumers in the economic environment. A low CCI indicates that consumers are pessimistic about their financial prospects, leading to decreased spending.
 
 ### Industrial Production
 Industrial production indexes track the output of the [manufacturing](../m/manufacturing.md), [mining](../m/mining.md), and utilities sectors. A sustained decline in industrial production is a key [indicator](../i/indicator.md) of economic weakness.

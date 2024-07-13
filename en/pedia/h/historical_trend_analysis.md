@@ -33,7 +33,7 @@ Once the data is prepared, the next step is to identify trends. Common methods i
   
 - **[Trend](../t/trend.md) Lines:** Drawing lines on a chart to connect a series of prices that show a continuing [trend](../t/trend.md).
 
-- **[Technical Indicators](../t/technical_indicators.md):** Using mathematical formulas to analyze price data, such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md).
+- **[Technical Indicators](../t/technical_indicators.md):** Using mathematical formulas to analyze price data, such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md).
 
 ### Modeling and Forecasting
 

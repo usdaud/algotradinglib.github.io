@@ -25,7 +25,7 @@ The scandal resulted in substantial fines for implicated banks and led to widesp
 ## Transition from LIBOR to Alternative Rates
 Due to the manipulation issues and the declining number of submissions, there has been a global push to transition away from LIBOR to alternative reference rates. Major economies have developed alternative rates:
 - **Secured Overnight [Financing](../f/financing.md) Rate (SOFR):** The preferred alternative in the United States, based on transactions in the Treasury repurchase [market](../m/market.md).
-- **Sterling Overnight [Index](../i/index.md) Average (SONIA):** The UK has adopted SONIA, which is based on actual overnight funding rates in the sterling [market](../m/market.md).
+- **Sterling Overnight [Index](../i/index_instrument.md) Average (SONIA):** The UK has adopted SONIA, which is based on actual overnight funding rates in the sterling [market](../m/market.md).
 - **[Euro](../e/euro.md) Short-Term Rate (€STR):** The European Central [Bank](../b/bank.md) has introduced €STR as the [eurozone](../e/eurozone.md) alternative.
 - **Swiss Average Rate Overnight (SARON):** For the Swiss franc, SARON has been introduced.
 - **Tokyo Overnight Average Rate (TONA):** In Japan, TONA is the preferred alternative.

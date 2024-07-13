@@ -6,7 +6,7 @@ In trading, particularly in the context of stock and cryptocurrency markets, a "
 
 A head fake typically involves the following sequence of events:
 
-1. **Initial Movement**: The price or [index](../i/index.md) breaks out of a trading [range](../r/range.md) or moves through a significant level, such as support or resistance.
+1. **Initial Movement**: The price or [index](../i/index_instrument.md) breaks out of a trading [range](../r/range.md) or moves through a significant level, such as support or resistance.
 2. **Convincing [Expansion](../e/expansion.md)**: The price extends its move, which can attract further buying or selling due to traders implementing [breakout](../b/breakout.md) strategies.
 3. **[Reversal](../r/reversal.md)**: After attracting enough participation, the price reverses direction sharply, often leading to [stop-loss orders](../s/stop-loss_orders.md) being triggered and traders being caught off guard.
 
@@ -40,7 +40,7 @@ Looking at [volume](../v/volume.md) can provide clues about the validity of a pr
 
 #### **Confirmation Indicators**
 
-Using [technical indicators](../t/technical_indicators.md) like the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), or Simple Moving Averages (SMA) for confirmation can help mitigate head fake risks. For example, if a bullish [breakout](../b/breakout.md) occurs but is not confirmed by the MACD, the [breakout](../b/breakout.md) might be a head fake.
+Using [technical indicators](../t/technical_indicators.md) like the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), or Simple Moving Averages (SMA) for confirmation can help mitigate head fake risks. For example, if a bullish [breakout](../b/breakout.md) occurs but is not confirmed by the MACD, the [breakout](../b/breakout.md) might be a head fake.
 
 #### **Support and Resistance Zones**
 

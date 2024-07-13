@@ -71,7 +71,7 @@ A higher [Treynor Ratio](../t/treynor_ratio.md) indicates that the investment ha
 
 ## Information Ratio
 
-The [Information Ratio](../i/information_ratio.md) measures portfolio returns beyond the returns of a [benchmark](../b/benchmark.md), usually an [index](../i/index.md), compared to the [volatility](../v/volatility.md) of those returns.
+The [Information Ratio](../i/information_ratio.md) measures portfolio returns beyond the returns of a [benchmark](../b/benchmark.md), usually an [index](../i/index_instrument.md), compared to the [volatility](../v/volatility.md) of those returns.
 
 ### Calculation
 

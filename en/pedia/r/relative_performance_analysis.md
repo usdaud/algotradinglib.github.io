@@ -41,14 +41,14 @@ RPA also plays a crucial role in investment research. Analysts use relative [per
 ## Case Studies and Examples
 
 ### Case Study 1: Hedge Fund Performance
-A [hedge fund manager](../h/hedge_fund_manager.md) compares the [fund](../f/fund.md)'s performance against the S&P 500 [index](../i/index.md) over a five-year period. Through RPA, they discover that:
-- The [fund](../f/fund.md) has consistently outperformed the [index](../i/index.md) in terms of [total return](../t/total_return.md).
+A [hedge fund manager](../h/hedge_fund_manager.md) compares the [fund](../f/fund.md)'s performance against the S&P 500 [index](../i/index_instrument.md) over a five-year period. Through RPA, they discover that:
+- The [fund](../f/fund.md) has consistently outperformed the [index](../i/index_instrument.md) in terms of [total return](../t/total_return.md).
 - [Alpha generation](../a/alpha_generation.md) has been positive, attributed mainly to superior stock selection strategies.
 - [Risk](../r/risk.md)-adjusted metrics like [Sharpe Ratio](../s/sharpe_ratio.md) also favor the [fund](../f/fund.md), suggesting effective [risk management](../r/risk_management.md).
 
 ### Case Study 2: Algorithmic Trading Strategy
 A team of quant traders develops a [momentum](../m/momentum.md)-based trading algorithm aimed at exploiting short-term price movements. Utilizing RPA, they compare the algorithm’s returns with a [market index](../m/market_index.md):
-- Initial [backtesting](../b/backtesting.md) shows the algorithm outperforming the [benchmark](../b/benchmark.md) [index](../i/index.md) by 15% annually.
+- Initial [backtesting](../b/backtesting.md) shows the algorithm outperforming the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) by 15% annually.
 - Further [simulation](../s/simulation_in_trading.md) reveals higher relative performance during periods of high [market](../m/market.md) [volatility](../v/volatility.md).
 - Adjustments to the algorithm based on RPA findings result in improved consistency and reduced drawdowns.
 

@@ -29,7 +29,7 @@ The 'Waterfall Decline' pattern occurs when an [asset](../a/asset.md) experience
 - Often followed by a short-term bounce or a steep decline continuation.
 
 ### Algorithmic Detection:
-Using Moving Averages and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), [trading algorithms](../t/trading_algorithms.md) can detect the sharp downward movements and trigger short-selling strategies. 
+Using Moving Averages and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [trading algorithms](../t/trading_algorithms.md) can detect the sharp downward movements and trigger short-selling strategies. 
 
 ## 3. **Diamond Top/Bottom Patterns**
 

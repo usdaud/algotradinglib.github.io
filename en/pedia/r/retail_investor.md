@@ -9,7 +9,7 @@ Retail investors exhibit a [range](../r/range.md) of characteristics that distin
 1. **Small [Capital](../c/capital.md) Base**: Retail investors generally have smaller amounts of [capital](../c/capital.md) to invest compared to institutional investors.
 2. **Individual Financial Goals**: Investments are often aligned with personal objectives, such as saving for retirement, education expenses, or major purchases.
 3. **[Market](../m/market.md) Access**: Retail investors access [financial markets](../f/financial_market.md) through brokerage accounts, including online platforms that [offer](../o/offer.md) varying degrees of service, from [discount](../d/discount.md) brokers to full-service brokers.
-4. **Investment Strategies**: Typically utilize simpler investment strategies, often focusing on buy-and-[hold](../h/hold.md) techniques, [index](../i/index.md) funds, or mutual funds.
+4. **Investment Strategies**: Typically utilize simpler investment strategies, often focusing on buy-and-[hold](../h/hold.md) techniques, [index](../i/index_instrument.md) funds, or mutual funds.
 5. **Information Sources**: Rely on publicly available information, financial news, investment literature, and retail brokerage resources for making investment decisions.
 
 ## Advantages and Disadvantages

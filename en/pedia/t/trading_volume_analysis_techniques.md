@@ -33,7 +33,7 @@ The Chaikin [Money Flow](../m/money_flow.md) [indicator](../i/indicator.md) is u
 The ADL measures the cumulative flow of [money](../m/money.md) into and out of a [security](../s/security.md). This [indicator](../i/indicator.md) takes into account the price and [volume](../v/volume.md) and attempts to measure [supply](../s/supply.md) and [demand](../d/demand.md) by analyzing whether investors are generally buying or selling a particular [security](../s/security.md).
 
 ### 2.6 Money Flow Index (MFI)
-The [Money Flow](../m/money_flow.md) [Index](../i/index.md) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that combines price and [volume](../v/volume.md) data to create a metric reflecting the buying and selling pressure. It ranges from 0 to 100 and is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+The [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that combines price and [volume](../v/volume.md) data to create a metric reflecting the buying and selling pressure. It ranges from 0 to 100 and is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ### 2.7 Volume by Price
 This chart overlays the [volume](../v/volume.md) data onto a price chart, displaying the [volume](../v/volume.md) associated with different price levels. This analysis helps identify significant price areas that have witnessed considerable trading activity, acting as potential support or resistance levels.
@@ -85,7 +85,7 @@ MetaTrader includes built-in indicators for [volume analysis](../v/volume_analys
 Analyzing trading [volume](../v/volume.md) for Apple Inc. (AAPL) over the past year and applying OBV, VWAP, and CMF indicators to determine trends and potential trading opportunities.
 
 ### 5.2 Case Study: S&P 500 Index
-Using [volume analysis](../v/volume_analysis.md) techniques to evaluate the overall [market](../m/market.md) [trend](../t/trend.md) by examining the trading [volume](../v/volume.md) of the S&P 500 [index](../i/index.md) components.
+Using [volume analysis](../v/volume_analysis.md) techniques to evaluate the overall [market](../m/market.md) [trend](../t/trend.md) by examining the trading [volume](../v/volume.md) of the S&P 500 [index](../i/index_instrument.md) components.
 
 ### 5.3 Algorithmic Trading Strategy
 Developing an algorithmic strategy based on trading [volume](../v/volume.md), including [backtesting](../b/backtesting.md) results, [performance metrics](../p/performance_metrics.md), and analysis of [market](../m/market.md) impact.

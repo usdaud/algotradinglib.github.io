@@ -11,7 +11,7 @@ The CSE was established in 1929 as the "Office de Compensation des Valeurs Mobil
 ### Milestones
 
 - **1997**: Implementation of an electronic trading system.
-- **2000**: Introduction of the MASI [index](../i/index.md).
+- **2000**: Introduction of the MASI [index](../i/index_instrument.md).
 - **2004**: Launch of new [market](../m/market.md) operations and trading platforms.
 - **2016**: Adoption of the NSC V900 [trading platform](../t/trading_platform.md) from [Euronext](../e/euronext.md).
 
@@ -35,8 +35,8 @@ This [market](../m/market.md) is designed for the trading of large volumes of [s
 
 The CSE operates a number of [market](../m/market.md) indices, with the most significant ones being:
 
-- **MASI (Moroccan All [Shares](../s/shares.md) [Index](../i/index.md))**: A comprehensive [index](../i/index.md) covering all [listed](../l/listed.md) companies.
-- **MADEX (Moroccan Most Active [Shares](../s/shares.md) [Index](../i/index.md))**: Includes the most actively traded [stocks](../s/stock.md).
+- **MASI (Moroccan All [Shares](../s/shares.md) [Index](../i/index_instrument.md))**: A comprehensive [index](../i/index_instrument.md) covering all [listed](../l/listed.md) companies.
+- **MADEX (Moroccan Most Active [Shares](../s/shares.md) [Index](../i/index_instrument.md))**: Includes the most actively traded [stocks](../s/stock.md).
 - **CFG 25**: Comprising 25 [stocks](../s/stock.md) selected by CFG Group.
   
 These indices provide benchmarks for [fund](../f/fund.md) managers and are used to gauge the overall [market](../m/market.md) performance.

@@ -28,7 +28,7 @@ Secured LOCs are backed by [collateral](../c/collateral.md) such as savings acco
 The [credit limit](../c/credit_limit.md) is the maximum amount a borrower can draw on a line of [credit](../c/credit.md). It is determined by the [lender](../l/lender.md) based on several factors, including [creditworthiness](../c/creditworthiness.md), [income](../i/income.md), and [collateral](../c/collateral.md) (if provided).
 
 ### Interest Rates
-[Interest](../i/interest.md) is usually charged only on the amount of [money](../m/money.md) borrowed—not the entire [credit limit](../c/credit_limit.md). Rates can be variable or fixed depending on the agreement with the [lender](../l/lender.md). Variable rates can change over time based on an [underlying](../u/underlying.md) [interest rate](../i/interest_rate.md) [index](../i/index.md).
+[Interest](../i/interest.md) is usually charged only on the amount of [money](../m/money.md) borrowed—not the entire [credit limit](../c/credit_limit.md). Rates can be variable or fixed depending on the agreement with the [lender](../l/lender.md). Variable rates can change over time based on an [underlying](../u/underlying.md) [interest rate](../i/interest_rate.md) [index](../i/index_instrument.md).
 
 ### Draw Period
 During the draw period, the borrower can access funds up to their [credit limit](../c/credit_limit.md). This period can last several years, and during this time the borrower is often required to make minimum payments on the [interest](../i/interest.md) and sometimes on the [principal](../p/principal.md).

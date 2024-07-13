@@ -1,6 +1,6 @@
 # Heating Degree Day (HDD)
 
-Heating Degree Days (HDD) are a quantitative [index](../i/index.md) used to reflect the [demand](../d/demand.md) for energy needed to heat a building. The [index](../i/index.md) is derived from daily temperature measurements and is a crucial concept in energy management, climatology, and [economic forecasting](../e/economic_forecasting.md). HDDs are especially relevant for utilities, energy traders, and weather-dependent businesses.
+Heating Degree Days (HDD) are a quantitative [index](../i/index_instrument.md) used to reflect the [demand](../d/demand.md) for energy needed to heat a building. The [index](../i/index_instrument.md) is derived from daily temperature measurements and is a crucial concept in energy management, climatology, and [economic forecasting](../e/economic_forecasting.md). HDDs are especially relevant for utilities, energy traders, and weather-dependent businesses.
 
 ## Definition
 

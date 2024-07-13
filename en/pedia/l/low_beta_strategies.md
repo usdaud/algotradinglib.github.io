@@ -12,7 +12,7 @@ where:
 - \( \text{Cov}(R_i, R_m) \) is the [covariance](../c/covariance.md) between the returns of the [security](../s/security.md) and the returns of the [market](../m/market.md).
 - \( \text{Var}(R_m) \) is the variance of the [market](../m/market.md) returns.
 
-The [market](../m/market.md) is typically represented as a broad [index](../i/index.md) like the S&P 500. [Beta](../b/beta.md) measures the expected move in a stock relative to movements in the [market](../m/market.md). For instance:
+The [market](../m/market.md) is typically represented as a broad [index](../i/index_instrument.md) like the S&P 500. [Beta](../b/beta.md) measures the expected move in a stock relative to movements in the [market](../m/market.md). For instance:
 - A [beta](../b/beta.md) of 1 indicates the stock [will](../w/will.md) move with the [market](../m/market.md).
 - A [beta](../b/beta.md) less than 1 means the stock is less volatile than the [market](../m/market.md).
 - A [beta](../b/beta.md) greater than 1 indicates the stock is more volatile than the [market](../m/market.md).

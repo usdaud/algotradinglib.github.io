@@ -20,7 +20,7 @@
 [Technical analysis](../t/technical_analysis.md) studies price movements and trading volumes to identify patterns and trends. Techniques include:
 
 - **[Chart Patterns](../c/chart_patterns.md)**: Recognizing formations like head and shoulders, double tops/bottoms, and triangles.
-- **Indicators**: Using tools like moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and moving average convergence [divergence](../d/divergence.md) (MACD) to make trading decisions.
+- **Indicators**: Using tools like moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and moving average convergence [divergence](../d/divergence.md) (MACD) to make trading decisions.
 - **[Volume Analysis](../v/volume_analysis.md)**: Examining trading [volume](../v/volume.md) to confirm the strength of price movements.
 
 ### Quantitative Analysis
@@ -45,7 +45,7 @@ Research-driven strategies may include:
 
 - **[Mean Reversion](../m/mean_reversion.md)**: Based on the assumption that stock prices [will](../w/will.md) revert to their historical mean over time. Algorithms buy underperforming [stocks](../s/stock.md) and sell outperforming ones.
 - **[Momentum](../m/momentum.md)**: Capitalizing on the continuation of existing trends. [Momentum](../m/momentum.md) strategies typically buy [stocks](../s/stock.md) that are on an upward trajectory and sell those on a downward [trend](../t/trend.md).
-- **[Arbitrage](../a/arbitrage.md)**: Exploiting price differences between related securities. This can be statistical [arbitrage](../a/arbitrage.md), [merger](../m/merger.md) [arbitrage](../a/arbitrage.md), or [index](../i/index.md) [arbitrage](../a/arbitrage.md).
+- **[Arbitrage](../a/arbitrage.md)**: Exploiting price differences between related securities. This can be statistical [arbitrage](../a/arbitrage.md), [merger](../m/merger.md) [arbitrage](../a/arbitrage.md), or [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md).
 
 ### Backtesting
 

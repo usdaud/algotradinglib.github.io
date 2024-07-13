@@ -54,7 +54,7 @@ Improvements in [efficiency](../e/efficiency.md) and alternative energy sources 
 [Technical analysis](../t/technical_analysis.md) uses historical price data and trading volumes to predict future price movements. [Chart patterns](../c/chart_patterns.md), indicators, and other tools are utilized.
 
 - **Moving Averages:** Simple Moving Average (SMA) and Exponential Moving Average (EMA) are commonly used to identify trends.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Used to assess whether a [commodity](../c/commodity.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md).
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Used to assess whether a [commodity](../c/commodity.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md).
 
 ### Quantitative Models
 

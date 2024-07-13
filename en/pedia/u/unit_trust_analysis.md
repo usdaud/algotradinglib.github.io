@@ -34,7 +34,7 @@ The [value](../v/value.md) of a unit in a Unit [Trust](../t/trust.md) is known a
 
 **4. [Money Market](../m/money_market.md) Funds**: These funds invest in [short-term debt](../s/short-term_debt.md) instruments such as treasury bills, certificates of [deposit](../d/deposit.md), and [commercial paper](../c/commercial_paper.md). They aim to provide high [liquidity](../l/liquidity.md) with low [risk](../r/risk.md) and are often used for parking [surplus](../s/surplus.md) funds for short durations.
 
-**5. [Index](../i/index.md) Funds**: These funds replicate the performance of a specific [market index](../m/market_index.md), such as the S&P 500. They [offer](../o/offer.md) broad [market exposure](../m/market_exposure.md), low operating expenses, and passively managed returns that mirror the [index](../i/index.md)’s performance.
+**5. [Index](../i/index_instrument.md) Funds**: These funds replicate the performance of a specific [market index](../m/market_index.md), such as the S&P 500. They [offer](../o/offer.md) broad [market exposure](../m/market_exposure.md), low operating expenses, and passively managed returns that mirror the [index](../i/index_instrument.md)’s performance.
 
 **6. Sector Funds**: These funds focus on specific sectors or industries, such as technology, healthcare, or energy. They carry higher [risk](../r/risk.md) due to their narrow focus but can [offer](../o/offer.md) substantial returns if the sector performs well.
 

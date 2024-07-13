@@ -19,7 +19,7 @@ A Long Calendar Spread is an [options](../o/options.md) [trading strategy](../t/
 
 ## Execution Steps
 
-1. **Select the [Underlying Asset](../u/underlying_asset.md):** Choose a stock or [index](../i/index.md) that you believe [will](../w/will.md) have low [volatility](../v/volatility.md).
+1. **Select the [Underlying Asset](../u/underlying_asset.md):** Choose a stock or [index](../i/index_instrument.md) that you believe [will](../w/will.md) have low [volatility](../v/volatility.md).
 2. **Select [Strike Price](../s/strike_price.md) and Expiry:** Determine the [strike price](../s/strike_price.md) and select two [options](../o/options.md) with different expiration dates.
 3. **Buy and Sell [Options](../o/options.md):** Place trades to buy the longer-term option and sell the shorter-term option.
 

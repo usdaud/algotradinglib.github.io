@@ -14,7 +14,7 @@ Bonds are [debt](../d/debt.md) securities issued by entities such as companies o
 A [mutual fund](../m/mutual_fund.md) pools [money](../m/money.md) from many investors to invest in a diversified portfolio of [stocks](../s/stock.md), bonds, or other securities. Mutual funds are managed by professional portfolio managers who make investment decisions on behalf of the investors. They [offer](../o/offer.md) a way to [gain](../g/gain.md) exposure to a broad array of assets without buying them individually.
 
 ### Exchange-Traded Funds (ETFs)
-ETFs are similar to mutual funds, but they [trade](../t/trade.md) on an [exchange](../e/exchange.md) like a stock. ETFs invest in a diversified portfolio of assets and [offer](../o/offer.md) investors a way to buy a broad exposure to a [market](../m/market.md) or [asset class](../a/asset_class.md). They are often passively managed and track a specific [index](../i/index.md).
+ETFs are similar to mutual funds, but they [trade](../t/trade.md) on an [exchange](../e/exchange.md) like a stock. ETFs invest in a diversified portfolio of assets and [offer](../o/offer.md) investors a way to buy a broad exposure to a [market](../m/market.md) or [asset class](../a/asset_class.md). They are often passively managed and track a specific [index](../i/index_instrument.md).
 
 ### Real Estate
 Investing in [real estate](../r/real_estate.md) involves purchasing property to earn a [return](../r/return.md) through rental [income](../i/income.md), future resale, or both. [Real estate](../r/real_estate.md) investments can include residential properties, commercial properties, and land.
@@ -37,7 +37,7 @@ Cryptocurrencies are digital or virtual currencies that use cryptography for [se
 [Dividend](../d/dividend.md) investing involves buying [stocks](../s/stock.md) of companies that regularly pay dividends. This strategy provides a steady [income](../i/income.md) stream and can be less risky than other forms of investing since dividends can cushion against [market](../m/market.md) downturns.
 
 ### Index Investing
-[Index investing](../i/index_investing.md) involves buying securities that replicate the performance of a [market index](../m/market_index.md). For instance, an S&P 500 [index fund](../i/index_fund.md) would aim to mirror the performance of the S&P 500 [index](../i/index.md). This strategy is often used by passive investors seeking to match [market](../m/market.md) returns.
+[Index investing](../i/index_investing.md) involves buying securities that replicate the performance of a [market index](../m/market_index.md). For instance, an S&P 500 [index fund](../i/index_fund.md) would aim to mirror the performance of the S&P 500 [index](../i/index_instrument.md). This strategy is often used by passive investors seeking to match [market](../m/market.md) returns.
 
 ### Asset Allocation
 [Asset allocation](../a/asset_allocation.md) is the process of distributing investments among different [asset](../a/asset.md) categories, such as [stocks](../s/stock.md), bonds, and [real estate](../r/real_estate.md), to balance [risk](../r/risk.md) and reward based on an [investor](../i/investor.md)'s goals, [risk tolerance](../r/risk_tolerance.md), and investment [time horizon](../t/time_horizon.md).
@@ -93,7 +93,7 @@ Fintech innovations are reshaping the investment landscape. Mobile trading apps,
 ## Key Players
 
 ### Vanguard
-Vanguard is known for its low-cost [index](../i/index.md) funds and ETFs. The company has been a pioneer in [passive investing](../p/passive_investing.md) and offers a wide [range](../r/range.md) of investment products aimed at helping investors achieve their long-term financial goals.
+Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and ETFs. The company has been a pioneer in [passive investing](../p/passive_investing.md) and offers a wide [range](../r/range.md) of investment products aimed at helping investors achieve their long-term financial goals.
 [Visit Vanguard](https://www.vanguard.com)
 
 ### BlackRock

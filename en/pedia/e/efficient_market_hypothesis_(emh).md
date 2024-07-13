@@ -39,7 +39,7 @@ Eugene Fama identified three forms of [market efficiency](../m/market_efficiency
 The implications of EMH for investment strategies are profound. If markets are truly efficient, then:
 
 - **[Active Management](../a/active_management.md)**: [Active management](../a/active_management.md), where [fund](../f/fund.md) managers attempt to [outperform](../o/outperform.md) the [market](../m/market.md) by picking winning [stocks](../s/stock.md), is largely ineffective since consistently picking [stocks](../s/stock.md) that [outperform](../o/outperform.md) the [market](../m/market.md) is impossible.
-- **Passive Management**: Passive management, which involves [investing](../i/investing.md) in [index](../i/index.md) funds that replicate [market](../m/market.md) performance, becomes a more attractive option since it minimizes [transaction costs](../t/transaction_costs.md) and often performs better than actively managed funds over the long term.
+- **Passive Management**: Passive management, which involves [investing](../i/investing.md) in [index](../i/index_instrument.md) funds that replicate [market](../m/market.md) performance, becomes a more attractive option since it minimizes [transaction costs](../t/transaction_costs.md) and often performs better than actively managed funds over the long term.
 
 ### Market Anomalies
 
@@ -75,7 +75,7 @@ The advent of high-frequency trading (HFT) and [algorithmic trading](../a/accoun
 
 ### Index Fund Investment
 
-The popularity of [index fund](../i/index_fund.md) [investing](../i/investing.md) can be attributed to the principles of EMH. Since EMH suggests that consistently outperforming the [market](../m/market.md) is unlikely, [investing](../i/investing.md) in a broad [market index](../m/market_index.md) [fund](../f/fund.md) is considered a prudent strategy. [Index](../i/index.md) funds aim to replicate the performance of a specific [market index](../m/market_index.md), providing [diversification](../d/diversification.md) and lower costs compared to actively managed funds.
+The popularity of [index fund](../i/index_fund.md) [investing](../i/investing.md) can be attributed to the principles of EMH. Since EMH suggests that consistently outperforming the [market](../m/market.md) is unlikely, [investing](../i/investing.md) in a broad [market index](../m/market_index.md) [fund](../f/fund.md) is considered a prudent strategy. [Index](../i/index_instrument.md) funds aim to replicate the performance of a specific [market index](../m/market_index.md), providing [diversification](../d/diversification.md) and lower costs compared to actively managed funds.
 
 ### Quantitative Trading Strategies
 

@@ -10,7 +10,7 @@ Weekly [trading strategies](../t/trading_strategies.md) refer to methods and app
 
 - **[Candlestick Patterns](../c/candlestick_patterns.md)**: Traders often use [candlestick patterns](../c/candlestick_patterns.md) to predict short-term price direction. Key patterns include Dojis, Engulfing patterns, and Morning Stars.
 - **Moving Averages**: Simple Moving Averages (SMA) and Exponential Moving Averages (EMA) help identify trends and potential [reversal](../r/reversal.md) points. For weekly traders, the 5-day and 10-day moving averages are particularly insightful.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: The RSI helps identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions, which might signal a [reversal](../r/reversal.md). An RSI reading above 70 indicates [overbought](../o/overbought.md) conditions, while below 30 signals [oversold](../o/oversold.md).
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: The RSI helps identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions, which might signal a [reversal](../r/reversal.md). An RSI reading above 70 indicates [overbought](../o/overbought.md) conditions, while below 30 signals [oversold](../o/oversold.md).
 
 ### 2. **Fundamental Analysis**
 

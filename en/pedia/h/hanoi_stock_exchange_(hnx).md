@@ -21,7 +21,7 @@ The Hanoi Stock [Exchange](../e/exchange.md), originally known as the Hanoi Secu
    - The [exchange](../e/exchange.md) also launched the UPCoM (Unlisted [Public Company](../p/public_company.md) [Market](../m/market.md)) to facilitate the trading of unlisted public companies.
 
 4. **Development of [Derivatives](../d/derivatives.md) [Market](../m/market.md)**:
-   - In 2017, HNX made a significant leap by establishing Vietnam's first [derivatives](../d/derivatives.md) [market](../m/market.md), starting with [futures contracts](../f/futures_contracts.md) on the VN30 [Index](../i/index.md) and government bonds.
+   - In 2017, HNX made a significant leap by establishing Vietnam's first [derivatives](../d/derivatives.md) [market](../m/market.md), starting with [futures contracts](../f/futures_contracts.md) on the VN30 [Index](../i/index_instrument.md) and government bonds.
 
 ## Structure and Operations
 
@@ -68,13 +68,13 @@ HNX has invested heavily in technological advancements to ensure smooth and effi
 
 HNX features several [market](../m/market.md) indices that serve as benchmarks for various segments. Notable indices include:
 
-1. **HNX [Index](../i/index.md)**:
-   - The HNX [Index](../i/index.md) is the primary [benchmark](../b/benchmark.md), reflecting the performance of all [listed](../l/listed.md) companies on the Hanoi Stock [Exchange](../e/exchange.md).
+1. **HNX [Index](../i/index_instrument.md)**:
+   - The HNX [Index](../i/index_instrument.md) is the primary [benchmark](../b/benchmark.md), reflecting the performance of all [listed](../l/listed.md) companies on the Hanoi Stock [Exchange](../e/exchange.md).
 
-2. **HNX30 [Index](../i/index.md)**:
-   - This [index](../i/index.md) includes the top 30 companies by [market capitalization](../m/market_capitalization.md) and [liquidity](../l/liquidity.md), providing a snapshot of the leading performers.
+2. **HNX30 [Index](../i/index_instrument.md)**:
+   - This [index](../i/index_instrument.md) includes the top 30 companies by [market capitalization](../m/market_capitalization.md) and [liquidity](../l/liquidity.md), providing a snapshot of the leading performers.
 
-3. **UPCoM [Index](../i/index.md)**:
+3. **UPCoM [Index](../i/index_instrument.md)**:
    - It tracks the performance of companies [listed](../l/listed.md) on the UPCoM, [offering](../o/offering.md) insights into this segment of the [market](../m/market.md).
 
 ## Market Participation

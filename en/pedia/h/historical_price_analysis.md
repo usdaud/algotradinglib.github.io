@@ -30,7 +30,7 @@ Moving averages smooth out price data by creating a constantly updated average p
 ### 3. Technical Indicators
 
 [Technical indicators](../t/technical_indicators.md) are calculations based on price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) data, aiming to forecast future price movements. Some widely used indicators include:
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: Shows the relationship between two moving averages of a [security](../s/security.md)’s price.
 - **[Bollinger Bands](../b/bollinger_bands.md)**: [Volatility](../v/volatility.md) bands placed above and below a moving average.
 

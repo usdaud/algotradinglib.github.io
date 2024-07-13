@@ -21,7 +21,7 @@ The effectiveness of X-Price modeling heavily depends on the quality and diversi
 - **Historical Price Data**: This is the backbone of X-Price modeling, as historical prices provide the raw material for analysis.
 - **[Volume](../v/volume.md) Data**: Trading [volume](../v/volume.md) data is crucial for understanding [market](../m/market.md) [liquidity](../l/liquidity.md) and the intensity of trades.
 - **Fundamental Data**: This includes [financial statements](../f/financial_statements.md), [earnings](../e/earnings.md) reports, and macroeconomic indicators.
-- **[Technical Indicators](../t/technical_indicators.md)**: Derived from historical price and [volume](../v/volume.md) data, these indicators include moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md).
+- **[Technical Indicators](../t/technical_indicators.md)**: Derived from historical price and [volume](../v/volume.md) data, these indicators include moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md).
 - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Data from news articles, [social media](../s/social_media.md) platforms, and other textual sources can provide insight into [market sentiment](../m/market_sentiment.md).
 
 Feature engineering is the process of converting these raw data sources into meaningful inputs for the models. This may involve creating new variables, normalizing data, or conducting [principal component analysis](../p/principal_component_analysis_(pca).md) (PCA) to reduce dimensionality.

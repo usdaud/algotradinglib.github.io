@@ -83,7 +83,7 @@ One of the challenges in trading [triangle](../t/triangle.md) patterns is dealin
 
 While [triangle](../t/triangle.md) patterns are powerful on their own, combining them with other [technical indicators](../t/technical_indicators.md) can enhance their reliability. Some popular indicators include:
 - **Moving Averages:** Moving averages can help identify the overall [trend](../t/trend.md) direction. A crossover of moving averages can provide additional confirmation for entering or exiting trades.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** RSI can indicate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, helping traders avoid entering trades just as a [trend](../t/trend.md) is about to reverse.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** RSI can indicate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, helping traders avoid entering trades just as a [trend](../t/trend.md) is about to reverse.
 - **MACD (Moving Average Convergence [Divergence](../d/divergence.md)):** MACD can provide insights into [momentum](../m/momentum.md) and potential [trend](../t/trend.md) reversals, complementing the signals from [triangle](../t/triangle.md) patterns.
 
 ### Practical Example: Trading a Symmetrical Triangle with Moving Averages

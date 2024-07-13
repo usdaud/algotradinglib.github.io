@@ -54,11 +54,11 @@ The trading volumes and price fluctuations on the BVC serve as indicators of dom
 
 ### Caracas Stock Exchange Index (IBC)
 
-The [principal](../p/principal.md) [index](../i/index.md) of the BVC, IBC tracks the performance of the most actively traded [stocks](../s/stock.md). It's a key [indicator](../i/indicator.md) used by investors to gauge overall [market sentiment](../m/market_sentiment.md).
+The [principal](../p/principal.md) [index](../i/index_instrument.md) of the BVC, IBC tracks the performance of the most actively traded [stocks](../s/stock.md). It's a key [indicator](../i/indicator.md) used by investors to gauge overall [market sentiment](../m/market_sentiment.md).
 
 ### Financial Sector Index (FSA)
 
-Focused on banking and financial institutions, the FSA [index](../i/index.md) tracks the sector's performance, important given the outsized role [finance](../f/finance.md) plays in Venezuela's [economy](../e/economy.md).
+Focused on banking and financial institutions, the FSA [index](../i/index_instrument.md) tracks the sector's performance, important given the outsized role [finance](../f/finance.md) plays in Venezuela's [economy](../e/economy.md).
 
 ## Technological Adaptations
 

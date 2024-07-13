@@ -29,7 +29,7 @@ Preparation lies at the heart of successful negotiation. This involves understan
 
 ### Anchoring
 
-[Anchoring](../a/anchoring.md) involves setting a reference point around which the negotiation [will](../w/will.md) revolve. In [financial markets](../f/financial_market.md), this could mean setting a [price target](../p/price_target.md) or a [benchmark](../b/benchmark.md) [index](../i/index.md). 
+[Anchoring](../a/anchoring.md) involves setting a reference point around which the negotiation [will](../w/will.md) revolve. In [financial markets](../f/financial_market.md), this could mean setting a [price target](../p/price_target.md) or a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). 
 
 ### Framing
 

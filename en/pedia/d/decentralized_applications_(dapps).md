@@ -18,7 +18,7 @@ The frontend of a dApp is similar to that of traditional applications. It includ
 
 ### Middleware
 
-Middleware facilitates interaction between the frontend and the [blockchain](../b/blockchain_in_trading.md). It helps in the integration of various services, such as data [indexing](../i/indexing.md) and storage. Middleware solutions like The Graph enable developers to efficiently [index](../i/index.md) [blockchain](../b/blockchain_in_trading.md) data and make it easily queryable via simple GraphQL APIs.
+Middleware facilitates interaction between the frontend and the [blockchain](../b/blockchain_in_trading.md). It helps in the integration of various services, such as data [indexing](../i/indexing.md) and storage. Middleware solutions like The Graph enable developers to efficiently [index](../i/index_instrument.md) [blockchain](../b/blockchain_in_trading.md) data and make it easily queryable via simple GraphQL APIs.
 
 ## Key Components of dApps
 

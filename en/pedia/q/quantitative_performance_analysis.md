@@ -41,7 +41,7 @@ Quantitative performance analysis is a critical aspect of [algorithmic trading](
 
 ### Benchmark Comparison
 
-[Benchmark comparison](../b/benchmark_comparison.md) involves comparing the performance of a [trading strategy](../t/trading_strategy.md) against a standard [benchmark](../b/benchmark.md) [index](../i/index.md) (such as the S&P 500) to evaluate its relative performance. This helps in understanding whether the strategy generates excess returns over the [benchmark](../b/benchmark.md).
+[Benchmark comparison](../b/benchmark_comparison.md) involves comparing the performance of a [trading strategy](../t/trading_strategy.md) against a standard [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) (such as the S&P 500) to evaluate its relative performance. This helps in understanding whether the strategy generates excess returns over the [benchmark](../b/benchmark.md).
 
 ### Transaction Cost Analysis (TCA)
 

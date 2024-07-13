@@ -30,7 +30,7 @@ Intraday NAV proxies are estimates of NAV that [fund](../f/fund.md) managers use
 ### 2. Basket Trading
 
 #### Description
-Basket trading involves trading a group (or "basket") of securities to mimic the performance of an [investment fund](../i/investment_fund.md) or [index](../i/index.md). This strategy is prevalent among ETFs that seek to replicate an [index](../i/index.md).
+Basket trading involves trading a group (or "basket") of securities to mimic the performance of an [investment fund](../i/investment_fund.md) or [index](../i/index_instrument.md). This strategy is prevalent among ETFs that seek to replicate an [index](../i/index_instrument.md).
 
 #### Methodology
 - **Creation and [Redemption](../r/redemption.md) Mechanism**: Authorized participants (APs) create or redeem ETF [shares](../s/shares.md) by exchanging a basket of [underlying](../u/underlying.md) securities.
@@ -40,11 +40,11 @@ Basket trading involves trading a group (or "basket") of securities to mimic the
 ### 3. Index Replication
 
 #### Description
-[Index](../i/index.md) replication involves building a portfolio that exactly or approximately matches the components of a [benchmark](../b/benchmark.md) [index](../i/index.md). This strategy is fundamental for [index](../i/index.md) funds and ETFs.
+[Index](../i/index_instrument.md) replication involves building a portfolio that exactly or approximately matches the components of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). This strategy is fundamental for [index](../i/index_instrument.md) funds and ETFs.
 
 #### Methodology
-- **Full Replication**: Holding all the securities in the same proportions as the [index](../i/index.md).
-- **[Sampling](../s/sampling.md)**: Holding a [representative sample](../r/representative_sample.md) of securities that match the [index](../i/index.md)’s [risk](../r/risk.md) and [return](../r/return.md) characteristics.
+- **Full Replication**: Holding all the securities in the same proportions as the [index](../i/index_instrument.md).
+- **[Sampling](../s/sampling.md)**: Holding a [representative sample](../r/representative_sample.md) of securities that match the [index](../i/index_instrument.md)’s [risk](../r/risk.md) and [return](../r/return.md) characteristics.
 - **[Optimization](../o/optimization.md) Models**: Using [quantitative models](../q/quantitative_models.md) to minimize tracking errors while managing [transaction costs](../t/transaction_costs.md).
 
 ### 4. Dynamic Hedging
@@ -100,7 +100,7 @@ BlackRock is a leading [investment management](../i/investment_management.md) co
 
 ### Vanguard
 
-Vanguard offers a [range](../r/range.md) of [index](../i/index.md) funds and ETFs, utilizing advanced [index](../i/index.md) replication and NAV tracking methodologies.
+Vanguard offers a [range](../r/range.md) of [index](../i/index_instrument.md) funds and ETFs, utilizing advanced [index](../i/index_instrument.md) replication and NAV tracking methodologies.
 [Vanguard](https://investor.vanguard.com/etf/)
 
 ### MSCI

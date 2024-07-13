@@ -55,7 +55,7 @@ Health assessments play a significant role in the structuring of these annuities
 Understanding the couple’s financial goals and overall retirement strategy is paramount. Couples should evaluate how the guaranteed payments fit into their broader [financial plan](../f/financial_plan.md), considering other sources of [income](../i/income.md) and investment strategies.
 
 ### Inflation Protection
-If [inflation](../i/inflation.md) is a concern, couples might consider an annuity with an [inflation](../i/inflation.md) [rider](../r/rider.md), which adjusts payments based on a specified [index](../i/index.md) or rate. While this can provide better [purchasing power](../p/purchasing_power.md) protection, it often comes with higher initial premiums and potentially lower initial payments.
+If [inflation](../i/inflation.md) is a concern, couples might consider an annuity with an [inflation](../i/inflation.md) [rider](../r/rider.md), which adjusts payments based on a specified [index](../i/index_instrument.md) or rate. While this can provide better [purchasing power](../p/purchasing_power.md) protection, it often comes with higher initial premiums and potentially lower initial payments.
 
 ## Leading Providers
 Several financial institutions [offer](../o/offer.md) [joint](../j/joint.md) life with last survivor annuities, each with unique features and [options](../o/options.md). Below are a few notable providers known for their comprehensive annuity products:

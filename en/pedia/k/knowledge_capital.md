@@ -72,7 +72,7 @@ The Balanced Scorecard is a [strategic management](../s/strategic_management.md)
 
 ### Intellectual Capital Index
 
-This [index](../i/index.md) evaluates the [intellectual capital](../i/intellectual_capital.md) of a company by assessing its human, structural, and relational [capital](../c/capital.md). The [Intellectual Capital](../i/intellectual_capital.md) [Index](../i/index.md) provides a comprehensive view of a company's stock of knowledge assets.
+This [index](../i/index_instrument.md) evaluates the [intellectual capital](../i/intellectual_capital.md) of a company by assessing its human, structural, and relational [capital](../c/capital.md). The [Intellectual Capital](../i/intellectual_capital.md) [Index](../i/index_instrument.md) provides a comprehensive view of a company's stock of knowledge assets.
 
 ### Knowledge Management Systems (KMS)
 

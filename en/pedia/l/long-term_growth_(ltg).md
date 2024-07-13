@@ -37,7 +37,7 @@ Bonds and other fixed-[income](../i/income.md) instruments [offer](../o/offer.md
 Mutual funds and [Exchange](../e/exchange.md)-Traded Funds (ETFs) [offer](../o/offer.md) diversified exposure to various [asset](../a/asset.md) classes and strategies. These instruments are managed by professionals and can focus on specific sectors, markets, or investment themes aligned with long-term growth principles.
 
 ##### Index Funds
-[Index](../i/index.md) funds, which track major [market](../m/market.md) indices like the S&P 500, provide broad [market exposure](../m/market_exposure.md) and come with the benefit of lower management fees. [Investing](../i/investing.md) in [index](../i/index.md) funds allows LTG investors to participate in the overall [economic growth](../e/economic_growth.md) of the selected indices.
+[Index](../i/index_instrument.md) funds, which track major [market](../m/market.md) indices like the S&P 500, provide broad [market exposure](../m/market_exposure.md) and come with the benefit of lower management fees. [Investing](../i/investing.md) in [index](../i/index_instrument.md) funds allows LTG investors to participate in the overall [economic growth](../e/economic_growth.md) of the selected indices.
 
 ### Risks and Considerations
 

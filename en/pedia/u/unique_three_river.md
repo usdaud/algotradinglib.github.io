@@ -28,7 +28,7 @@ While observing [candlestick patterns](../c/candlestick_patterns.md), certain co
 
 1. **Context in the [Downtrend](../d/downtrend.md)**: The pattern should form within a well-defined [downtrend](../d/downtrend.md).
 2. **[Volume Confirmation](../v/volume_confirmation.md)**: An increase in trading [volume](../v/volume.md) on the formation of the third [candlestick](../c/candlestick.md) can reinforce the pattern's validity.
-3. **Other Indicators**: The usefulness of using additional indicators such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Averages to confirm the potential [reversal](../r/reversal.md) can add further [assurance](../a/assurance.md).
+3. **Other Indicators**: The usefulness of using additional indicators such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Averages to confirm the potential [reversal](../r/reversal.md) can add further [assurance](../a/assurance.md).
 
 ## Practical Applications in Trading
 

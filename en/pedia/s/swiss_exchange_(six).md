@@ -32,7 +32,7 @@ The trading day on SIX is divided into several [market](../m/market.md) phases:
 
 SIX is renowned for its comprehensive [market](../m/market.md) data services, [offering](../o/offering.md) real-time and historical data to [market](../m/market.md) participants. The [exchange](../e/exchange.md) disseminates information on prices, volumes, and other relevant metrics, ensuring [transparency](../t/transparency.md) and informed decision-making.
 
-The [exchange](../e/exchange.md) also manages a suite of indices that serve as benchmarks for the Swiss financial [market](../m/market.md). The most notable among these is the Swiss [Market Index](../m/market_index.md) (SMI), which comprises the 20 largest and most [liquid](../l/liquid.md) companies [listed](../l/listed.md) on SIX. Other indices include the Swiss Performance [Index](../i/index.md) (SPI), which covers all Swiss [stocks](../s/stock.md), and sector-specific indices that cater to different [industry](../i/industry.md) segments.
+The [exchange](../e/exchange.md) also manages a suite of indices that serve as benchmarks for the Swiss financial [market](../m/market.md). The most notable among these is the Swiss [Market Index](../m/market_index.md) (SMI), which comprises the 20 largest and most [liquid](../l/liquid.md) companies [listed](../l/listed.md) on SIX. Other indices include the Swiss Performance [Index](../i/index_instrument.md) (SPI), which covers all Swiss [stocks](../s/stock.md), and sector-specific indices that cater to different [industry](../i/industry.md) segments.
 
 ## Listing Criteria
 

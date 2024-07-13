@@ -15,8 +15,8 @@ Contrarian trading is founded on the belief that [asset](../a/asset.md) prices r
 
 Contrarian [trading strategies](../t/trading_strategies.md) come in various forms. Below are some of the most commonly employed methods:
 
-1. **[Market Sentiment Analysis](../m/market_sentiment_analysis.md)**: This method involves gauging the overall mood of the [market](../m/market.md) using indicators such as the VIX ([Volatility](../v/volatility.md) [Index](../i/index.md)), put/call ratios, and [sentiment surveys](../s/sentiment_surveys.md).
-2. **[Technical Analysis](../t/technical_analysis.md)**: Contrarian traders often use [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+1. **[Market Sentiment Analysis](../m/market_sentiment_analysis.md)**: This method involves gauging the overall mood of the [market](../m/market.md) using indicators such as the VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md)), put/call ratios, and [sentiment surveys](../s/sentiment_surveys.md).
+2. **[Technical Analysis](../t/technical_analysis.md)**: Contrarian traders often use [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 3. **[Fundamental Analysis](../f/fundamental_analysis.md)**: Contrarian investors may study a company's fundamentals, such as [earnings](../e/earnings.md) reports, balance sheets, and [industry](../i/industry.md) trends, to identify [undervalued](../u/undervalued.md) or [overvalued](../o/overvalued.md) [stocks](../s/stock.md).
 4. **[Insider Trading](../i/insider.md) Activity**: Monitoring insider buying and selling can provide insights into a company's prospects. Contrarians often consider insider activity as a contrarian [indicator](../i/indicator.md).
 5. **Contrarian ETFs and Mutual Funds**: Some investment vehicles specifically cater to contrarian strategies. These funds often invest in assets that are out of favor with the general [market](../m/market.md).
@@ -34,11 +34,11 @@ Contrarian trading requires a specific psychological mindset, as it involves tak
 
 Contrarian traders use a variety of indicators to identify potential [trade](../t/trade.md) opportunities. Some of the key indicators include:
 
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: The RSI measures the speed and change of price movements. An RSI above 70 is considered [overbought](../o/overbought.md), and below 30 is considered [oversold](../o/oversold.md).
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: The RSI measures the speed and change of price movements. An RSI above 70 is considered [overbought](../o/overbought.md), and below 30 is considered [oversold](../o/oversold.md).
 2. **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages. [Divergence](../d/divergence.md) between MACD and [price action](../p/price_action.md) can signal potential reversals.
 3. **[Bollinger Bands](../b/bollinger_bands.md)**: These bands use [standard deviation](../s/standard_deviation.md) to establish high and low points around a moving average. Prices touching the upper band are often seen as [overbought](../o/overbought.md), while touching the lower band suggests [oversold](../o/oversold.md) conditions.
 4. **Put/Call Ratio**: This ratio measures the number of [put options](../p/put_options.md) traded relative to call [options](../o/options.md). A high ratio indicates bearish sentiment, while a low ratio suggests bullish sentiment.
-5. **[Volatility](../v/volatility.md) [Index](../i/index.md) (VIX)**: Often referred to as the "fear gauge," the VIX measures [market](../m/market.md) [volatility](../v/volatility.md). High VIX levels indicate fear and potential buying opportunities for contrarians.
+5. **[Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX)**: Often referred to as the "fear gauge," the VIX measures [market](../m/market.md) [volatility](../v/volatility.md). High VIX levels indicate fear and potential buying opportunities for contrarians.
 
 ### Notable Examples of Contrarian Traders
 

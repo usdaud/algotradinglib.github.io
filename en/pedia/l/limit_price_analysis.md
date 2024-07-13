@@ -18,7 +18,7 @@ Limit orders are fundamental in the realm of [algorithmic trading](../a/algorith
    Analyzing the [order book](../o/order_book.md), which lists all buy and sell orders for a particular [security](../s/security.md), can provide insights into [market sentiment](../m/market_sentiment.md) and help set effective limit prices. Key metrics include [bid-ask spread](../b/bid-ask_spread.md), [market depth](../m/market_depth.md), and [order flow imbalance](../o/order_flow_imbalance.md).
 
 3. **Historical Pricing Data**:  
-   By studying historical prices and volumes, traders can determine effective limit prices. [Technical indicators](../t/technical_indicators.md) like moving averages (MA), [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) can also aid in this analysis.
+   By studying historical prices and volumes, traders can determine effective limit prices. [Technical indicators](../t/technical_indicators.md) like moving averages (MA), [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) can also aid in this analysis.
 
 4. **[Volatility Analysis](../v/volatility_analysis.md)**:  
    Understanding [market](../m/market.md) [volatility](../v/volatility.md) is crucial in setting limit prices. Greater [volatility](../v/volatility.md) might necessitate wider price ranges for limit orders to ensure [execution](../e/execution.md).

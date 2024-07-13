@@ -1,6 +1,6 @@
 # Treasury Inflation-Protected Security (TIPS)
 
-Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) are a type of [U.S. Treasury](../u/u.s._treasury.md) [security](../s/security.md) specifically designed to protect investors from [inflation](../i/inflation.md). The [principal](../p/principal.md) [value](../v/value.md) of TIPS increases with [inflation](../i/inflation.md) and decreases with [deflation](../d/deflation.md), as measured by the Consumer Price [Index](../i/index.md) (CPI). Here, we [will](../w/will.md) delve into the fundamental aspects of TIPS, their benefits, how they work, and their significance in a diversified investment portfolio.
+Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) are a type of [U.S. Treasury](../u/u.s._treasury.md) [security](../s/security.md) specifically designed to protect investors from [inflation](../i/inflation.md). The [principal](../p/principal.md) [value](../v/value.md) of TIPS increases with [inflation](../i/inflation.md) and decreases with [deflation](../d/deflation.md), as measured by the Consumer Price [Index](../i/index_instrument.md) (CPI). Here, we [will](../w/will.md) delve into the fundamental aspects of TIPS, their benefits, how they work, and their significance in a diversified investment portfolio.
 
 ## What are TIPS?
 
@@ -8,7 +8,7 @@ Introduced by the U.S. Department of the Treasury in 1997, TIPS are government s
 
 ### Key Features of TIPS
 
-1. **[Inflation](../i/inflation.md)-[Indexing](../i/indexing.md)**: TIPS are uniquely indexed to the Consumer Price [Index](../i/index.md) (CPI). This means the [principal](../p/principal.md) [value](../v/value.md) of TIPS adjusts with [inflation](../i/inflation.md) or [deflation](../d/deflation.md).
+1. **[Inflation](../i/inflation.md)-[Indexing](../i/indexing.md)**: TIPS are uniquely indexed to the Consumer Price [Index](../i/index_instrument.md) (CPI). This means the [principal](../p/principal.md) [value](../v/value.md) of TIPS adjusts with [inflation](../i/inflation.md) or [deflation](../d/deflation.md).
 2. **[Fixed Interest Rate](../f/fixed_interest_rate.md)**: While the [interest rate](../i/interest_rate.md) remains constant, the amount paid in [interest](../i/interest.md) can vary because the [interest](../i/interest.md) is applied to the [inflation](../i/inflation.md)-adjusted [principal](../p/principal.md).
 3. **[Maturity](../m/maturity.md) Terms**: TIPS are available in terms of 5, 10, and 30 years.
 4. **Government-Backed**: Like other [U.S. Treasury](../u/u.s._treasury.md) securities, TIPS are considered one of the safest investments because they are backed by the full faith and [credit](../c/credit.md) of the U.S. government.

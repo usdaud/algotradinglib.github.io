@@ -14,7 +14,7 @@ Zero [Income](../i/income.md) Strategies in algo trading emphasize price movemen
    - **Parameter [Optimization](../o/optimization.md)**: Fine-tuning model parameters to maximize [performance metrics](../p/performance_metrics.md) like [Sharpe Ratio](../s/sharpe_ratio.md) or [Sortino Ratio](../s/sortino_ratio.md).
 
 2. **[Market](../m/market.md) Scanning and Signal Generation**
-   - **[Technical Indicators](../t/technical_indicators.md)**: Utilizing indicators such as Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and others.
+   - **[Technical Indicators](../t/technical_indicators.md)**: Utilizing indicators such as Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and others.
    - **[Pattern Recognition](../p/pattern_recognition.md)**: Algorithms identify trading opportunities based on [market](../m/market.md) patterns like head and shoulders, flag, and [pennant](../p/pennant.md) patterns.
 
 3. **[Execution](../e/execution.md) Strategies**

@@ -47,7 +47,7 @@ Profiting from a downtrend requires different strategies compared to a rising [m
 [Put options](../p/put_options.md) give the holder the right, but not the obligation, to sell a certain amount of an [underlying security](../u/underlying_security.md) at a specified price within a specified time. [Put options](../p/put_options.md) can be used as a [hedge](../h/hedge.md) or a speculative tool.
 
 ## Inverse ETFs
-Inverse [exchange](../e/exchange.md)-traded funds (ETFs) are designed to provide the opposite [return](../r/return.md) of an [index](../i/index.md) or [benchmark](../b/benchmark.md). They can be used to [profit](../p/profit.md) from a downtrend without the need for [short selling](../s/short_selling.md).
+Inverse [exchange](../e/exchange.md)-traded funds (ETFs) are designed to provide the opposite [return](../r/return.md) of an [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md). They can be used to [profit](../p/profit.md) from a downtrend without the need for [short selling](../s/short_selling.md).
 
 ## Stop-Loss Orders
 Placing [stop-loss orders](../s/stop-loss_orders.md) can help traders manage [risk](../r/risk.md) by automatically selling a [security](../s/security.md) when its price falls to a predetermined level.

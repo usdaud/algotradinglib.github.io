@@ -80,7 +80,7 @@ Traders can integrate the Keltner Channel into various [trading strategies](../t
    - **Exit**: Place [profit](../p/profit.md) targets within the channel or use a moving average cross as an exit signal.
 
 3. **Combination with Other Indicators**:
-   - Use [momentum indicators](../m/momentum_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) in conjunction with the Keltner Channel to confirm signals and enhance decision-making.
+   - Use [momentum indicators](../m/momentum_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) in conjunction with the Keltner Channel to confirm signals and enhance decision-making.
 
 ### Example in Algorithmic Trading
 

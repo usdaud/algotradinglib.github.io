@@ -64,7 +64,7 @@ In [commodity](../c/commodity.md) markets, [basis](../b/basis.md) [risk](../r/ri
 
 ### Equities
 
-When hedging [equity](../e/equity.md) positions using stock [index futures](../i/index_futures.md), [basis](../b/basis.md) [risk](../r/risk.md) can arise if the individual stock prices do not move in perfect [correlation](../c/correlation.md) with the [index](../i/index.md).
+When hedging [equity](../e/equity.md) positions using stock [index futures](../i/index_futures.md), [basis](../b/basis.md) [risk](../r/risk.md) can arise if the individual stock prices do not move in perfect [correlation](../c/correlation.md) with the [index](../i/index_instrument.md).
 
 ### Fixed Income
 

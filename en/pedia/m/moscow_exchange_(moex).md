@@ -14,8 +14,8 @@ MOEX operates several markets, including:
 
 The equities [market](../m/market.md) on MOEX deals with the trading of [shares](../s/shares.md) of public companies. It provides various indices that serve as benchmarks for the Russian [stock market](../s/stock_market.md), including:
 
-- **MOEX Russia [Index](../i/index.md)**: A [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md) of the most [liquid](../l/liquid.md) Russian [stocks](../s/stock.md).
-- **RTS [Index](../i/index.md)**: Measures the performance of the 50 most [liquid](../l/liquid.md) Russian [stocks](../s/stock.md) that [trade](../t/trade.md) on the [exchange](../e/exchange.md).
+- **MOEX Russia [Index](../i/index_instrument.md)**: A [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md) of the most [liquid](../l/liquid.md) Russian [stocks](../s/stock.md).
+- **RTS [Index](../i/index_instrument.md)**: Measures the performance of the 50 most [liquid](../l/liquid.md) Russian [stocks](../s/stock.md) that [trade](../t/trade.md) on the [exchange](../e/exchange.md).
 
 ### Bond Market
 
@@ -28,7 +28,7 @@ MOEX offers trading in both corporate and government bonds. The [bond market](..
 
 MOEX's [derivatives](../d/derivatives.md) [market](../m/market.md) allows trading of [futures](../f/futures.md) and [options](../o/options.md) on various [underlying](../u/underlying.md) assets, including:
 
-- **Stock indices**: [Futures](../f/futures.md) on MOEX Russia [Index](../i/index.md) and RTS [Index](../i/index.md).
+- **Stock indices**: [Futures](../f/futures.md) on MOEX Russia [Index](../i/index_instrument.md) and RTS [Index](../i/index_instrument.md).
 - **Individual [stocks](../s/stock.md)**: [Futures](../f/futures.md) and [options](../o/options.md) on [shares](../s/shares.md) of Russian companies.
 - **FX rates**: [Futures](../f/futures.md) and [options](../o/options.md) on [currency](../c/currency.md) pairs.
 - **Commodities**: [Futures](../f/futures.md) on [crude oil](../c/crude_oil.md), gold, and other commodities.

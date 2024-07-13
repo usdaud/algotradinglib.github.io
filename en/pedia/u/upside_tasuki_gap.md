@@ -33,7 +33,7 @@ To effectively use the [Upside](../u/upside.md) Tasuki Gap pattern in trading, o
 The reliability of the [Upside](../u/upside.md) Tasuki Gap can be enhanced by using it in conjunction with other [technical indicators](../t/technical_indicator.md) such as:
 - **Moving Averages**: To confirm the [trend](../t/trend.md) direction.
 - **[Volume Analysis](../v/volume_analysis.md)**: To gauge the strength behind the pattern. Higher volumes during the formation of the pattern add credibility.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: To assess [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: To assess [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ## Example Scenario
 

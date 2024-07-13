@@ -1,6 +1,6 @@
 # Emerging Markets Bond Index (EMBI)
 
-The Emerging Markets [Bond](../b/bond.md) [Index](../i/index.md) (EMBI) is a [benchmark](../b/benchmark.md) [index](../i/index.md) that measures the [total return](../t/total_return.md) performance of international government bonds issued by emerging [market](../m/market.md) countries, often denominated in hard currencies such as the US dollar, [euro](../e/euro.md), and yen. It is developed and maintained by J.P. Morgan, a global leader in financial services. 
+The Emerging Markets [Bond](../b/bond.md) [Index](../i/index_instrument.md) (EMBI) is a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) that measures the [total return](../t/total_return.md) performance of international government bonds issued by emerging [market](../m/market.md) countries, often denominated in hard currencies such as the US dollar, [euro](../e/euro.md), and yen. It is developed and maintained by J.P. Morgan, a global leader in financial services. 
 
 ## Overview
 
@@ -14,11 +14,11 @@ The EMBI includes various types of [debt](../d/debt.md) securities, predominantl
 
 ### Currency
 
-The EMBI mainly tracks bonds issued in hard currencies such as the US dollar. This focus on hard currencies helps mitigate [foreign exchange risk](../f/foreign_exchange_risk.md) for investors, making the [index](../i/index.md) an appealing choice for those looking to invest in emerging markets without the added complexity of dealing with [multiple](../m/multiple.md), often volatile, emerging [market](../m/market.md) currencies.
+The EMBI mainly tracks bonds issued in hard currencies such as the US dollar. This focus on hard currencies helps mitigate [foreign exchange risk](../f/foreign_exchange_risk.md) for investors, making the [index](../i/index_instrument.md) an appealing choice for those looking to invest in emerging markets without the added complexity of dealing with [multiple](../m/multiple.md), often volatile, emerging [market](../m/market.md) currencies.
 
 ### Duration and Yield
 
-The [duration](../d/duration.md) of the bonds in the EMBI can vary widely, but the [index](../i/index.md) typically includes a mix of short-term, medium-term, and [long-term debt](../l/long-term_debt.md) instruments. The [yield](../y/yield.md) on these bonds is influenced by factors such as [credit risk](../c/credit_risk.md), [interest rate](../i/interest_rate.md) environment, and overall [economic conditions](../e/economic_conditions.md) in the issuing countries.
+The [duration](../d/duration.md) of the bonds in the EMBI can vary widely, but the [index](../i/index_instrument.md) typically includes a mix of short-term, medium-term, and [long-term debt](../l/long-term_debt.md) instruments. The [yield](../y/yield.md) on these bonds is influenced by factors such as [credit risk](../c/credit_risk.md), [interest rate](../i/interest_rate.md) environment, and overall [economic conditions](../e/economic_conditions.md) in the issuing countries.
 
 ## Variants
 
@@ -28,9 +28,9 @@ There are several variants of the EMBI to cater to different investment needs an
    
 2. **EMBI+ (Plus)**: Focuses on a select group of more [liquid](../l/liquid.md) and creditworthy emerging [market](../m/market.md) bonds. It offers a more conservative investment option within the space.
 
-3. **GBI-EM ([Government Bond](../g/government_bond.md) [Index](../i/index.md) - Emerging Markets)**: Tracks local [currency](../c/currency.md) bonds of emerging [market](../m/market.md) governments, [offering](../o/offering.md) exposure to local [interest](../i/interest.md) rates and [currency](../c/currency.md) movements.
+3. **GBI-EM ([Government Bond](../g/government_bond.md) [Index](../i/index_instrument.md) - Emerging Markets)**: Tracks local [currency](../c/currency.md) bonds of emerging [market](../m/market.md) governments, [offering](../o/offering.md) exposure to local [interest](../i/interest.md) rates and [currency](../c/currency.md) movements.
 
-4. **CEMBI (Corporate Emerging Markets [Bond](../b/bond.md) [Index](../i/index.md))**: Tracks corporate bonds issued in emerging markets, allowing for an assessment of the corporate [debt](../d/debt.md) landscape in these regions. 
+4. **CEMBI (Corporate Emerging Markets [Bond](../b/bond.md) [Index](../i/index_instrument.md))**: Tracks corporate bonds issued in emerging markets, allowing for an assessment of the corporate [debt](../d/debt.md) landscape in these regions. 
 
 ## Methodology
 
@@ -44,7 +44,7 @@ J.P. Morgan applies several criteria to select the bonds included in the EMBI. T
 
 ### Weighting
 
-The bonds in the EMBI are [weighted](../w/weighted.md) by [market capitalization](../m/market_capitalization.md), meaning that larger issues have a greater influence on the [index](../i/index.md)’s performance. This approach helps to reflect the actual investment opportunities available in the [market](../m/market.md). 
+The bonds in the EMBI are [weighted](../w/weighted.md) by [market capitalization](../m/market_capitalization.md), meaning that larger issues have a greater influence on the [index](../i/index_instrument.md)’s performance. This approach helps to reflect the actual investment opportunities available in the [market](../m/market.md). 
 
 ## Benefits and Risks
 
@@ -64,7 +64,7 @@ The bonds in the EMBI are [weighted](../w/weighted.md) by [market capitalization
 
 ### Institutional Investors
 
-Large financial institutions such as pension funds, [insurance](../i/insurance.md) companies, and mutual funds use the EMBI as a [benchmark](../b/benchmark.md) to measure the performance of their emerging [market](../m/market.md) [debt](../d/debt.md) investments. These entities appreciate the [index](../i/index.md)'s comprehensive coverage and reliability.
+Large financial institutions such as pension funds, [insurance](../i/insurance.md) companies, and mutual funds use the EMBI as a [benchmark](../b/benchmark.md) to measure the performance of their emerging [market](../m/market.md) [debt](../d/debt.md) investments. These entities appreciate the [index](../i/index_instrument.md)'s comprehensive coverage and reliability.
 
 ### Fund Managers
 
@@ -76,12 +76,12 @@ Economic analysts and researchers use the EMBI to assess the health of emerging 
 
 ## Companies and Resources
 
-- [J.P. Morgan](https://www.jpmorgan.com/solutions/cib/markets/index-research/emerging-markets/embi): The primary provider of the EMBI, [offering](../o/offering.md) detailed information, research reports, and historical data on the [index](../i/index.md).
+- [J.P. Morgan](https://www.jpmorgan.com/solutions/cib/markets/index-research/emerging-markets/embi): The primary provider of the EMBI, [offering](../o/offering.md) detailed information, research reports, and historical data on the [index](../i/index_instrument.md).
 - [BlackRock](https://www.blackrock.com): Offers [multiple](../m/multiple.md) funds and ETFs that track the performance of the EMBI.
 - [iShares](https://www.ishares.com): A prominent ETF provider under BlackRock, with specific funds dedicated to the EMBI.
 
 ## Conclusion
 
-The Emerging Markets [Bond](../b/bond.md) [Index](../i/index.md) (EMBI) is an essential tool for investors seeking to [gain](../g/gain.md) exposure to emerging [market](../m/market.md) [debt](../d/debt.md). Managed by J.P. Morgan, it offers a comprehensive measure of the performance of sovereign and corporate bonds from a wide array of developing nations. Its variants cater to different [investor](../i/investor.md) needs, providing both broad and focused views of the emerging [market](../m/market.md) [debt](../d/debt.md) landscape.
+The Emerging Markets [Bond](../b/bond.md) [Index](../i/index_instrument.md) (EMBI) is an essential tool for investors seeking to [gain](../g/gain.md) exposure to emerging [market](../m/market.md) [debt](../d/debt.md). Managed by J.P. Morgan, it offers a comprehensive measure of the performance of sovereign and corporate bonds from a wide array of developing nations. Its variants cater to different [investor](../i/investor.md) needs, providing both broad and focused views of the emerging [market](../m/market.md) [debt](../d/debt.md) landscape.
 
 With its mix of higher yields and [diversification benefits](../d/diversification_benefits.md), along with the intrinsic risks associated with emerging markets, the EMBI continues to be a crucial [benchmark](../b/benchmark.md) in global [fixed income](../f/fixed_income.md) [investing](../i/investing.md). Whether used by institutional investors, [fund](../f/fund.md) managers, or economic analysts, the EMBI provides valuable insights and actionable data for understanding and navigating the complexities of emerging [market](../m/market.md) [debt](../d/debt.md).

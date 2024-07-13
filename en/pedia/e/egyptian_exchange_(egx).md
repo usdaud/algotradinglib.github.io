@@ -46,9 +46,9 @@ EGX offers a variety of financial instruments to cater to different investors:
 
 EGX features several indices to track [market](../m/market.md) performance:
 
-- **EGX 30**: The [benchmark](../b/benchmark.md) [index](../i/index.md), representing the top 30 companies by [market capitalization](../m/market_capitalization.md) and [liquidity](../l/liquidity.md).
+- **EGX 30**: The [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), representing the top 30 companies by [market capitalization](../m/market_capitalization.md) and [liquidity](../l/liquidity.md).
 - **EGX 70**: Tracks the performance of 70 medium and small-cap companies.
-- **EGX 100**: A broader [index](../i/index.md) combining the EGX 30 and EGX 70.
+- **EGX 100**: A broader [index](../i/index_instrument.md) combining the EGX 30 and EGX 70.
 
 ## Key Participants
 

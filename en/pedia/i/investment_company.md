@@ -43,7 +43,7 @@ Some examples of [closed-end fund](../c/closed-end_fund.md) providers include:
 - [Eaton Vance](https://funds.eatonvance.com/)
 
 ### 3. Exchange-Traded Funds (ETFs)
-[Exchange](../e/exchange.md)-traded funds (ETFs) are investment companies that [trade](../t/trade.md) on stock exchanges, much like individual [stocks](../s/stock.md). ETFs pool [money](../m/money.md) from investors to invest in a diversified portfolio of assets, typically tracking an [underlying](../u/underlying.md) [index](../i/index.md).
+[Exchange](../e/exchange.md)-traded funds (ETFs) are investment companies that [trade](../t/trade.md) on stock exchanges, much like individual [stocks](../s/stock.md). ETFs pool [money](../m/money.md) from investors to invest in a diversified portfolio of assets, typically tracking an [underlying](../u/underlying.md) [index](../i/index_instrument.md).
 
 #### Advantages of ETFs
 - **Trading Flexibility:** ETFs can be bought and sold throughout the trading day at [market](../m/market.md) prices, [offering](../o/offering.md) [intraday trading](../i/intraday_trading.md) flexibility.

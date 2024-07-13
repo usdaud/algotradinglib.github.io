@@ -58,9 +58,9 @@ Underwriters are financial institutions that help issuers bring their bonds to [
 ## Bond Market Indices
 [Bond](../b/bond.md) [market](../m/market.md) indices are tools used to measure and track the performance of various segments of the [bond](../b/bond.md) [market](../m/market.md).
 
-* **[Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index.md):** A broad-based flagship [benchmark](../b/benchmark.md) that measures the [investment grade](../i/investment_grade.md), U.S. dollar-denominated, fixed-rate taxable [bond](../b/bond.md) [market](../m/market.md).
-* **[Merrill Lynch](../m/merrill_lynch.md) U.S. High [Yield](../y/yield.md) Master II [Index](../i/index.md):** Tracks the performance of below investment-grade, U.S. dollar-denominated corporate bonds.
-* **S&P National AMT-Free [Municipal Bond](../m/municipal_bond.md) [Index](../i/index.md):** Measures U.S. [municipal bonds](../m/municipal_bonds.md) with high [credit](../c/credit.md) quality and tax exemptions.
+* **[Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md):** A broad-based flagship [benchmark](../b/benchmark.md) that measures the [investment grade](../i/investment_grade.md), U.S. dollar-denominated, fixed-rate taxable [bond](../b/bond.md) [market](../m/market.md).
+* **[Merrill Lynch](../m/merrill_lynch.md) U.S. High [Yield](../y/yield.md) Master II [Index](../i/index_instrument.md):** Tracks the performance of below investment-grade, U.S. dollar-denominated corporate bonds.
+* **S&P National AMT-Free [Municipal Bond](../m/municipal_bond.md) [Index](../i/index_instrument.md):** Measures U.S. [municipal bonds](../m/municipal_bonds.md) with high [credit](../c/credit.md) quality and tax exemptions.
 
 ## Yield Curve
 The [yield curve](../y/yard.md) graphically represents the relationship between [bond](../b/bond.md) yields and maturities. It shows the [yield](../y/yield.md) of bonds at different maturities. The typical [yield curve](../y/yard.md) is upward sloping, indicating that longer-term bonds have higher yields to compensate for increased [risk](../r/risk.md) over time.

@@ -8,7 +8,7 @@
 
 Technical signals are derived from historical price and [volume](../v/volume.md) data. Common methods for generating technical signals include:
 
-1. **Indicators**: These are mathematical computations based on price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) data. Common indicators include Moving Averages (MA), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md).
+1. **Indicators**: These are mathematical computations based on price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) data. Common indicators include Moving Averages (MA), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md).
 2. **[Chart Patterns](../c/chart_patterns.md)**: These involve the identification of patterns such as head and shoulders, triangles, and flags within the price charts.
 3. **[Candlestick Patterns](../c/candlestick_patterns.md)**: Specific formations like [Doji](../d/doji.md), Hammer, and Engulfing patterns that suggest potential price movements.
 

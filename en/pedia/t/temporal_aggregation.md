@@ -24,7 +24,7 @@ Temporal [aggregation](../a/aggregation.md) refers to the process of summarizing
 
 1. **[Trend Analysis](../t/trend_analysis.md)**: Aggregated data helps in identifying short-term and long-term trends, which are crucial for making buy or sell decisions.
 2. **[Volatility](../v/volatility.md) Measurement**: Aggregated data over longer intervals can be used to measure [market](../m/market.md) [volatility](../v/volatility.md), an essential [factor](../f/factor.md) in [risk management](../r/risk_management.md).
-3. **Strategy Development**: [Quantitative strategies](../q/quantitative_strategies_in_trading.md) often rely on aggregated indicators such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), and [Bollinger Bands](../b/bollinger_bands.md), which require aggregated data.
+3. **Strategy Development**: [Quantitative strategies](../q/quantitative_strategies_in_trading.md) often rely on aggregated indicators such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), and [Bollinger Bands](../b/bollinger_bands.md), which require aggregated data.
 4. **[Backtesting](../b/backtesting.md)**: Temporal [aggregation](../a/aggregation.md) allows for more efficient [backtesting](../b/backtesting.md) of [trading strategies](../t/trading_strategies.md) by reducing the data [volume](../v/volume.md) while preserving essential characteristics.
 5. **[Anomaly Detection](../a/anomaly_detection.md)**: Helps in identifying unusual patterns or outliers in the data, which could indicate significant [market](../m/market.md) events or errors in data collection.
 

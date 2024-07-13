@@ -37,7 +37,7 @@ By identifying significant peaks and troughs, the Zig Zag [indicator](../i/indic
 
 The Zig Zag [indicator](../i/indicator.md) can be used alongside other [technical indicators](../t/technical_indicator.md) to build more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). For example:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** When the Zig Zag line indicates a potential [reversal](../r/reversal.md), checking the RSI can confirm whether the [security](../s/security.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md).
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** When the Zig Zag line indicates a potential [reversal](../r/reversal.md), checking the RSI can confirm whether the [security](../s/security.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md).
 - **Moving Averages:** To get a clearer picture of the [trend](../t/trend.md), combining the Zig Zag [indicator](../i/indicator.md) with moving averages can [offer](../o/offer.md) precise entry and exit points.
 
 ### Automated Trading Systems (Algorithmic Trading)
@@ -81,7 +81,7 @@ Most trading platforms [offer](../o/offer.md) the Zig Zag [indicator](../i/indic
 
 ### Case Study 1: Trend Identification
 
-A [trader](../t/trader.md) using a 10% threshold Zig Zag [indicator](../i/indicator.md) identified a clear upward [trend](../t/trend.md) in the S&P 500 [index](../i/index.md) over a six-month period. The [indicator](../i/indicator.md) highlighted three prominent [retracement](../r/retracement.md) points, each aligning closely with 50% and 61.8% [Fibonacci retracement](../f/fibonacci_retracement.md) levels. Each [retracement](../r/retracement.md) provided a potential buying opportunity, which was confirmed by complementary indicators like the moving average convergence [divergence](../d/divergence.md) (MACD).
+A [trader](../t/trader.md) using a 10% threshold Zig Zag [indicator](../i/indicator.md) identified a clear upward [trend](../t/trend.md) in the S&P 500 [index](../i/index_instrument.md) over a six-month period. The [indicator](../i/indicator.md) highlighted three prominent [retracement](../r/retracement.md) points, each aligning closely with 50% and 61.8% [Fibonacci retracement](../f/fibonacci_retracement.md) levels. Each [retracement](../r/retracement.md) provided a potential buying opportunity, which was confirmed by complementary indicators like the moving average convergence [divergence](../d/divergence.md) (MACD).
 
 ### Case Study 2: Algorithmic Trading
 

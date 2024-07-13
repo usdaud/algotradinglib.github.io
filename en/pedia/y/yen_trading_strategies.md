@@ -21,7 +21,7 @@ One of the most prominent strategies involving the Yen is the "[carry trade](../
 For traders using [fundamental analysis](../f/fundamental_analysis.md), several [economic indicators](../e/economic_indicators.md) are crucial when trading the Yen. These include:
 
 - **Gross Domestic Product (GDP):** Measures the economic output and growth.
-- **[Inflation](../i/inflation.md) Rates:** Monitored through the Consumer Price [Index](../i/index.md) (CPI).
+- **[Inflation](../i/inflation.md) Rates:** Monitored through the Consumer Price [Index](../i/index_instrument.md) (CPI).
 - **Employment Data:** [Unemployment](../u/unemployment.md) rates and job creation numbers.
 - **[Monetary Policy](../m/monetary_policy.md):** [Bank](../b/bank.md) of Japan’s [interest](../i/interest.md) rates and [quantitative easing](../q/quantitative_easing.md) measures.
 - **[Trade](../t/trade.md) Balance:** Japan's exports vs. imports.
@@ -37,7 +37,7 @@ Geopolitical stability in the Asia-Pacific region, [trade](../t/trade.md) relati
 Technical analysts rely on historical price data to predict future movements. Common tools include:
 
 - **Moving Averages:** Simple and Exponential Moving Averages (SMA and EMA).
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the velocity and magnitude of directional price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the velocity and magnitude of directional price movements.
 - **[Bollinger Bands](../b/bollinger_bands.md):** Indicates [volatility](../v/volatility.md) and potential [breakout](../b/breakout.md) points.
 - **[Fibonacci Retracement](../f/fibonacci_retracement.md) Levels:** Used to identify potential [support and resistance](../s/support_and_resistance.md) levels.
 

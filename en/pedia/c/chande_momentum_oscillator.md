@@ -1,6 +1,6 @@
 # Chande Momentum Oscillator (CMO)
 
-The Chande [Momentum](../m/momentum.md) [Oscillator](../o/oscillator.md) (CMO) is a [technical analysis](../t/technical_analysis.md) tool developed by Tushar Chande. This [indicator](../i/indicator.md) is derived from the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and is used to identify the [momentum](../m/momentum.md) of a [financial asset](../f/financial_asset.md) by comparing the sum of all recent gains to the sum of all recent losses over a specified period. It oscillates between -100 and +100 and provides valuable insights into whether an [asset](../a/asset.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md), thus enabling traders to make informed decisions.
+The Chande [Momentum](../m/momentum.md) [Oscillator](../o/oscillator.md) (CMO) is a [technical analysis](../t/technical_analysis.md) tool developed by Tushar Chande. This [indicator](../i/indicator.md) is derived from the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and is used to identify the [momentum](../m/momentum.md) of a [financial asset](../f/financial_asset.md) by comparing the sum of all recent gains to the sum of all recent losses over a specified period. It oscillates between -100 and +100 and provides valuable insights into whether an [asset](../a/asset.md) is [overbought](../o/overbought.md) or [oversold](../o/oversold.md), thus enabling traders to make informed decisions.
 
 ## Origins and Development
 
@@ -49,7 +49,7 @@ The CMO can also be used to confirm the strength of a [trend](../t/trend.md). If
 
 ### Integration with Other Indicators
 
-To minimize the [risk](../r/risk.md) of [false signals](../f/false_signals_in_trading.md), traders often use the CMO in conjunction with other indicators such as Moving Averages, [Bollinger Bands](../b/bollinger_bands.md), or the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI).
+To minimize the [risk](../r/risk.md) of [false signals](../f/false_signals_in_trading.md), traders often use the CMO in conjunction with other indicators such as Moving Averages, [Bollinger Bands](../b/bollinger_bands.md), or the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 
 ### Buy and Sell Signals
 

@@ -6,7 +6,7 @@ Signal processing is a critical component of [algorithmic trading](../a/algorith
 
 In the realm of trading, signals can be broadly categorized as:
 
-1. **Technical Signals:** Derived from [technical analysis](../t/technical_analysis.md), these signals are based on historical price data, trading volumes, and other trading indicators. Common technical signals include moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md).
+1. **Technical Signals:** Derived from [technical analysis](../t/technical_analysis.md), these signals are based on historical price data, trading volumes, and other trading indicators. Common technical signals include moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md).
 
 2. **Fundamental Signals:** Based on [fundamental analysis](../f/fundamental_analysis.md), these signals consider [economic indicators](../e/economic_indicators.md), [financial statements](../f/financial_statements.md), [interest](../i/interest.md) rates, and other macroeconomic factors. They help in assessing an [asset](../a/asset.md)'s [intrinsic value](../i/intrinsic_value.md).
 

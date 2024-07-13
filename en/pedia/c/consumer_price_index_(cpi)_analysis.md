@@ -1,7 +1,7 @@
 # Consumer Price Index (CPI) Analysis
 
 ## Introduction
-The Consumer Price [Index](../i/index.md) (CPI) is a vital [economic indicator](../e/economic_indicator.md) that measures changes in the [price level](../p/price_level.md) of a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services purchased by households. Compiled and published by national statistical agencies, the CPI is a crucial tool for economists, policymakers, and investors. This comprehensive analysis [will](../w/will.md) delve into the intricacies of the CPI, its calculation methodology, significance, impact on various economic sectors, and its relevance to [algorithmic trading](../a/algorithmic_trading.md).
+The Consumer Price [Index](../i/index_instrument.md) (CPI) is a vital [economic indicator](../e/economic_indicator.md) that measures changes in the [price level](../p/price_level.md) of a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services purchased by households. Compiled and published by national statistical agencies, the CPI is a crucial tool for economists, policymakers, and investors. This comprehensive analysis [will](../w/will.md) delve into the intricacies of the CPI, its calculation methodology, significance, impact on various economic sectors, and its relevance to [algorithmic trading](../a/algorithmic_trading.md).
 
 ## What is CPI?
 The CPI tracks the changes in the price of a specified basket of [consumer goods](../c/consumer_goods.md) and services over time, representing the [cost of living](../c/cost_of_living.md). It reflects how the average price of goods and services changes from one period to the next, [offering](../o/offering.md) insights into inflationary trends within an [economy](../e/economy.md). By observing CPI data, analysts can gauge the [purchasing power](../p/purchasing_power.md) of a [currency](../c/currency.md) and make informed economic decisions.
@@ -11,7 +11,7 @@ The methodology of calculating CPI involves several key steps:
 1. **Selection of the [Basket of Goods](../b/basket_of_goods.md) and Services**: The basket is composed of items that are deemed representative of typical consumer spending. This basket includes categories like housing, transportation, food and beverages, clothing, medical care, recreation, and education.
 2. **Data Collection**: Prices are collected periodically from various retail outlets, service establishments, rental units, and hospitals.
 3. **Weight [Assignment](../a/assignment.md)**: Each item in the basket is assigned a weight reflecting its share in total consumer expenditure. This weight is derived from household spending surveys.
-4. **[Index](../i/index.md) Calculation**: The current price of each item is compared to a base period price, and a [weighted average](../w/weighted_average.md) is used to produce the overall [index](../i/index.md). The formula for CPI is typically:
+4. **[Index](../i/index_instrument.md) Calculation**: The current price of each item is compared to a base period price, and a [weighted average](../w/weighted_average.md) is used to produce the overall [index](../i/index_instrument.md). The formula for CPI is typically:
    \[ \text{CPI} = \left( \frac{\sum (P_n \times Q_0)}{\sum (P_0 \times Q_0)} \right) \times 100 \]
    Where:
    * \( P_n \) = Price of the item in the current period
@@ -20,8 +20,8 @@ The methodology of calculating CPI involves several key steps:
 
 ## Types of CPI
 Different types of CPI are used to focus on specific sectors or for different purposes:
-1. **CPI-U**: Consumer Price [Index](../i/index.md) for All Urban Consumers
-2. **CPI-W**: Consumer Price [Index](../i/index.md) for Urban Wage Earners and Clerical Workers
+1. **CPI-U**: Consumer Price [Index](../i/index_instrument.md) for All Urban Consumers
+2. **CPI-W**: Consumer Price [Index](../i/index_instrument.md) for Urban Wage Earners and Clerical Workers
 3. **Core CPI**: Excludes food and energy prices, which are typically volatile
 4. **Chained CPI**: Accounts for changes in consumer behavior and substitution between items when relative prices change
 
@@ -55,4 +55,4 @@ Consider a scenario where a [hedge fund](../h/hedge_fund.md) uses [algorithmic t
 3. **Renaissance Technologies**: Known for its pioneering work in [quantitative trading](../q/quantitative_trading.md), Renaissance Technologies integrates a variety of economic data points, including CPI, into its [trading algorithms](../t/trading_algorithms.md) to enhance predictive accuracy and [operational efficiency](../o/operational_efficiency_in_trading.md). [Renaissance Technologies](https://www.rentec.com)
 
 ## Conclusion
-The Consumer Price [Index](../i/index.md) is a critical [economic indicator](../e/economic_indicator.md) that provides valuable insights into [inflation](../i/inflation.md) and cost-of-living changes. Its comprehensive methodology ensures that it accurately reflects price changes across a broad spectrum of [consumer goods](../c/consumer_goods.md) and services. Understanding CPI's significance helps policymakers, businesses, and investors make informed decisions. In the realm of [algorithmic trading](../a/algorithmic_trading.md), CPI data plays a pivotal role in shaping [trading strategies](../t/trading_strategies.md), managing [risk](../r/risk.md), and predicting [market](../m/market.md) movements, demonstrating its far-reaching impact across the economic landscape.
+The Consumer Price [Index](../i/index_instrument.md) is a critical [economic indicator](../e/economic_indicator.md) that provides valuable insights into [inflation](../i/inflation.md) and cost-of-living changes. Its comprehensive methodology ensures that it accurately reflects price changes across a broad spectrum of [consumer goods](../c/consumer_goods.md) and services. Understanding CPI's significance helps policymakers, businesses, and investors make informed decisions. In the realm of [algorithmic trading](../a/algorithmic_trading.md), CPI data plays a pivotal role in shaping [trading strategies](../t/trading_strategies.md), managing [risk](../r/risk.md), and predicting [market](../m/market.md) movements, demonstrating its far-reaching impact across the economic landscape.

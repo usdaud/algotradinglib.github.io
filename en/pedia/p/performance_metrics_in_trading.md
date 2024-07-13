@@ -80,18 +80,18 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), [quantitati
 
 ### 7. R-squared (R²)
 
-**Definition**: [R-squared](../r/r-squared_in_trading.md) measures the percentage of an investment's movements that can be explained by movements in a [benchmark](../b/benchmark.md) [index](../i/index.md).
+**Definition**: [R-squared](../r/r-squared_in_trading.md) measures the percentage of an investment's movements that can be explained by movements in a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 
 **Calculation**:
-[R-squared](../r/r-squared_in_trading.md) values [range](../r/range.md) between 0 to 1, often expressed as percentages. An [R-squared](../r/r-squared_in_trading.md) of 100% means that all movements of a portfolio are completely explained by movements in the [index](../i/index.md).
+[R-squared](../r/r-squared_in_trading.md) values [range](../r/range.md) between 0 to 1, often expressed as percentages. An [R-squared](../r/r-squared_in_trading.md) of 100% means that all movements of a portfolio are completely explained by movements in the [index](../i/index_instrument.md).
 
 **Importance**:
 - Higher [R-squared](../r/r-squared_in_trading.md) values indicate better conformity to the [benchmark](../b/benchmark.md).
-- Useful for identifying how closely a strategy follows an [index](../i/index.md).
+- Useful for identifying how closely a strategy follows an [index](../i/index_instrument.md).
 
 ### 8. Alpha
 
-**Definition**: [Alpha](../a/alpha.md) indicates the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md).
+**Definition**: [Alpha](../a/alpha.md) indicates the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 
 **Calculation**:
 \[ \text{[Alpha](../a/alpha.md)} = R - R_B \]
@@ -121,7 +121,7 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), [quantitati
 
 ### 10. Information Ratio
 
-**Definition**: The [Information Ratio](../i/information_ratio.md) measures portfolio returns above the returns of a [benchmark](../b/benchmark.md), usually an [index](../i/index.md), relative to the [volatility](../v/volatility.md) of those returns.
+**Definition**: The [Information Ratio](../i/information_ratio.md) measures portfolio returns above the returns of a [benchmark](../b/benchmark.md), usually an [index](../i/index_instrument.md), relative to the [volatility](../v/volatility.md) of those returns.
 
 **Calculation**:
 \[ \text{[Information Ratio](../i/information_ratio.md)} = \frac{R_p - R_b}{\text{[Tracking Error](../t/tracking_error.md)}} \]

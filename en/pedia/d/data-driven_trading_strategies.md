@@ -19,7 +19,7 @@ The utilization of [big data](../b/big_data_in_trading.md)—massive datasets th
 Statistical [arbitrage](../a/arbitrage.md) (StatArb) is a popular data-driven strategy that involves exploiting price inefficiencies between related financial instruments. It typically includes [pairs trading](../p/pairs_trading.md), where two correlated assets are traded against each other.
 
 ### 2. **Momentum Trading**
-[Momentum trading](../m/momentum_trading.md) strategies identify securities that have shown a tendency to move in the same direction over a short to medium-term period. Traders using this strategy often rely on [technical indicators](../t/technical_indicators.md) like moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and MACD.
+[Momentum trading](../m/momentum_trading.md) strategies identify securities that have shown a tendency to move in the same direction over a short to medium-term period. Traders using this strategy often rely on [technical indicators](../t/technical_indicators.md) like moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and MACD.
 
 ### 3. **Mean Reversion**
 [Mean reversion](../m/mean_reversion.md) strategies are grounded in the statistical concept that [asset](../a/asset.md) prices [will](../w/will.md) revert to their historical mean or average level over time. This approach seeks to [capitalize](../c/capitalize.md) on price extremes by buying [undervalued](../u/undervalued.md) assets and selling [overvalued](../o/overvalued.md) ones.

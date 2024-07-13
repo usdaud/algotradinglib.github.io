@@ -151,7 +151,7 @@ For fixed-[income](../i/income.md) investments, real [interest](../i/interest.md
 
 ### Inflation Measurement
 
-Accurately measuring [inflation](../i/inflation.md) is challenging but essential for calculating real [interest](../i/interest.md) rates. [Variability](../v/variability.md) in [inflation](../i/inflation.md) indexes, such as the Consumer Price [Index](../i/index.md) (CPI), can lead to different real rate estimates.
+Accurately measuring [inflation](../i/inflation.md) is challenging but essential for calculating real [interest](../i/interest.md) rates. [Variability](../v/variability.md) in [inflation](../i/inflation.md) indexes, such as the Consumer Price [Index](../i/index_instrument.md) (CPI), can lead to different real rate estimates.
 
 ### Expectations versus Actuals
 

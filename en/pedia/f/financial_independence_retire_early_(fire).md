@@ -18,7 +18,7 @@ One of the most distinctive features of the FIRE movement is the emphasis on a h
 
 ### 2. Investing Wisely
 
-[Investing](../i/investing.md) plays a critical role in the FIRE strategy. The goal is to grow one's [wealth](../w/wealth.md) through investments that provide a solid [return](../r/return.md). This often includes a diversified portfolio of [stocks](../s/stock.md), bonds, and [real estate](../r/real_estate.md). Many in the FIRE community advocate for low-cost [index fund](../i/index_fund.md) [investing](../i/investing.md), as popularized by Vanguard founder [John Bogle](../j/john_bogle.md). The rationale is that low-cost [index](../i/index.md) funds [offer](../o/offer.md) broad [market exposure](../m/market_exposure.md), minimize fees, and typically [outperform](../o/outperform.md) actively managed funds over the long term.
+[Investing](../i/investing.md) plays a critical role in the FIRE strategy. The goal is to grow one's [wealth](../w/wealth.md) through investments that provide a solid [return](../r/return.md). This often includes a diversified portfolio of [stocks](../s/stock.md), bonds, and [real estate](../r/real_estate.md). Many in the FIRE community advocate for low-cost [index fund](../i/index_fund.md) [investing](../i/investing.md), as popularized by Vanguard founder [John Bogle](../j/john_bogle.md). The rationale is that low-cost [index](../i/index_instrument.md) funds [offer](../o/offer.md) broad [market exposure](../m/market_exposure.md), minimize fees, and typically [outperform](../o/outperform.md) actively managed funds over the long term.
 
 ### 3. Expense Tracking and Budgeting
 

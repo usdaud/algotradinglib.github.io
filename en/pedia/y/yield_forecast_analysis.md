@@ -115,7 +115,7 @@ from statsmodels.tsa.statespace.sarimax [import](../i/import.md) SARIMAX
 
 # Load historical data
 data = pd.read_csv('historical_data.csv')
-data.[index](../i/index.md) = pd.to_datetime(data['Date'])
+data.[index](../i/index_instrument.md) = pd.to_datetime(data['Date'])
 data = data['Close']
 
 # Split the data

@@ -1,10 +1,10 @@
 # Tracking Error
 
-Tracking error is a key metric in the world of [investment management](../i/investment_management.md), particularly within the [scope](../s/scope.md) of passive and [active portfolio management](../a/active_portfolio_management.md). It measures the deviation of the returns of an investment portfolio from its [benchmark](../b/benchmark.md) [index](../i/index.md). This deviation is crucial for investors seeking to understand how closely a portfolio tracks an [index](../i/index.md), and it has significant implications for the evaluation of [fund](../f/fund.md) performance and [risk management](../r/risk_management.md). This article delves deep into the concept of tracking error, its calculation, its importance, and its applications in [financial markets](../f/financial_market.md), particularly in [exchange](../e/exchange.md)-traded funds (ETFs) and mutual funds.
+Tracking error is a key metric in the world of [investment management](../i/investment_management.md), particularly within the [scope](../s/scope.md) of passive and [active portfolio management](../a/active_portfolio_management.md). It measures the deviation of the returns of an investment portfolio from its [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). This deviation is crucial for investors seeking to understand how closely a portfolio tracks an [index](../i/index_instrument.md), and it has significant implications for the evaluation of [fund](../f/fund.md) performance and [risk management](../r/risk_management.md). This article delves deep into the concept of tracking error, its calculation, its importance, and its applications in [financial markets](../f/financial_market.md), particularly in [exchange](../e/exchange.md)-traded funds (ETFs) and mutual funds.
 
 ## Definition and Concept
 
-Tracking error, in its simplest form, represents the [standard deviation](../s/standard_deviation.md) of the difference in returns between a portfolio and its [benchmark](../b/benchmark.md). In other words, it quantifies the consistency of a portfolio's returns relative to an [index](../i/index.md).
+Tracking error, in its simplest form, represents the [standard deviation](../s/standard_deviation.md) of the difference in returns between a portfolio and its [benchmark](../b/benchmark.md). In other words, it quantifies the consistency of a portfolio's returns relative to an [index](../i/index_instrument.md).
 
 Mathematically, tracking error can be defined as:
 
@@ -12,7 +12,7 @@ Mathematically, tracking error can be defined as:
 
 Where:
 - \( R_{p,t} \) = [Return](../r/return.md) of the portfolio at time t
-- \( R_{b,t} \) = [Return](../r/return.md) of the [benchmark](../b/benchmark.md) [index](../i/index.md) at time t
+- \( R_{b,t} \) = [Return](../r/return.md) of the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) at time t
 - \( \overline{R_{p} - R_{b}} \) = Average difference between the portfolio [return](../r/return.md) and the [benchmark](../b/benchmark.md) [return](../r/return.md) over the measurement period
 - n = Number of periods
 
@@ -34,7 +34,7 @@ Tracking error serves [multiple](../m/multiple.md) critical purposes in [portfol
 
 2. **[Risk Management](../r/risk_management.md)**: Tracking error is pivotal in understanding the risks associated with deviation from the [benchmark](../b/benchmark.md). It assists in assessing the [risk](../r/risk.md)-adjusted performance of a portfolio.
 
-3. **Portfolio Construction**: In constructing portfolios, especially [index](../i/index.md) funds, achieving a low tracking error is essential to ensure that the [fund](../f/fund.md) replicates the [benchmark](../b/benchmark.md)'s performance as closely as possible.
+3. **Portfolio Construction**: In constructing portfolios, especially [index](../i/index_instrument.md) funds, achieving a low tracking error is essential to ensure that the [fund](../f/fund.md) replicates the [benchmark](../b/benchmark.md)'s performance as closely as possible.
 
 4. **Regulatory Compliance**: In certain jurisdictions, regulatory bodies might stipulate acceptable levels of tracking error for specific types of funds to ensure [investor](../i/investor.md) protection and [transparency](../t/transparency.md).
 
@@ -42,7 +42,7 @@ Tracking error serves [multiple](../m/multiple.md) critical purposes in [portfol
 
 ### Exchange-Traded Funds (ETFs)
 
-ETFs are designed to replicate the performance of a specific [index](../i/index.md). The effectiveness of an ETF in achieving this goal is often measured by its tracking error. A higher tracking error in an ETF may indicate issues such as management inefficiencies, high [transaction costs](../t/transaction_costs.md), or [liquidity](../l/liquidity.md) constraints.
+ETFs are designed to replicate the performance of a specific [index](../i/index_instrument.md). The effectiveness of an ETF in achieving this goal is often measured by its tracking error. A higher tracking error in an ETF may indicate issues such as management inefficiencies, high [transaction costs](../t/transaction_costs.md), or [liquidity](../l/liquidity.md) constraints.
 
 ### Mutual Funds
 
@@ -127,7 +127,7 @@ In certain cases, customized benchmarks are created to better reflect the specif
 
 ### Algorithmic Trading and Tracking Error
 
-In the realm of [algorithmic trading](../a/accountability.md), minimizing tracking error is critical for strategies aimed at [index](../i/index.md) replication. Sophisticated algorithms are developed to manage [order](../o/order.md) [execution](../e/execution.md), minimize [market](../m/market.md) impact, and reduce [transaction costs](../t/transaction_costs.md), all contributing to lower tracking error.
+In the realm of [algorithmic trading](../a/accountability.md), minimizing tracking error is critical for strategies aimed at [index](../i/index_instrument.md) replication. Sophisticated algorithms are developed to manage [order](../o/order.md) [execution](../e/execution.md), minimize [market](../m/market.md) impact, and reduce [transaction costs](../t/transaction_costs.md), all contributing to lower tracking error.
 
 ## Conclusion
 

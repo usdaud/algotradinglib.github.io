@@ -27,7 +27,7 @@ A high [dividend](../d/dividend.md) [yield](../y/yield.md) can sometimes indicat
 
 ### Comparative Tool
 
-[Dividend](../d/dividend.md) [yield](../y/yield.md) provides a means to compare the [income](../i/income.md)-generating potential of different investments, whether these are individual [stocks](../s/stock.md), mutual funds, or other [income](../i/income.md)-generating assets. Investors might compare the [yield](../y/yield.md) of a stock with the [yield](../y/yield.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md), or with yields from other investment avenues like bonds or savings accounts.
+[Dividend](../d/dividend.md) [yield](../y/yield.md) provides a means to compare the [income](../i/income.md)-generating potential of different investments, whether these are individual [stocks](../s/stock.md), mutual funds, or other [income](../i/income.md)-generating assets. Investors might compare the [yield](../y/yield.md) of a stock with the [yield](../y/yield.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), or with yields from other investment avenues like bonds or savings accounts.
 
 ## Types of Companies with High Dividend Yield
 

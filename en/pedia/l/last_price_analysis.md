@@ -37,7 +37,7 @@ Analyzing the last price involves several techniques and methodologies, dependin
 Technical analysts heavily rely on the last price to make trading decisions by evaluating historical price movements. Key aspects include:
 
 1. **Price Charts**: [Candlestick](../c/candlestick.md), line, and bar charts visualize last price data over time.
-2. **Indicators and Oscillators**: Tools like Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) are derived from last price data.
+2. **Indicators and Oscillators**: Tools like Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) are derived from last price data.
 3. **[Chart Patterns](../c/chart_patterns.md)**: Patterns such as Head and Shoulders, Double Bottoms, and Flags are identified using last price trends.
 
 ### Quantitative Analysis

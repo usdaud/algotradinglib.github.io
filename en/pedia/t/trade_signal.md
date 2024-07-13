@@ -11,7 +11,7 @@ A [trade](../t/trade.md) signal is an indication or trigger that prompts traders
 
 - **Moving Averages**: Moving averages (MA) smooth out price data to identify the direction of the [trend](../t/trend.md). A common signal occurs when a short-term moving average crosses above a long-term moving average ([Golden Cross](../g/golden_cross.md)) as a buy signal or below it ([Death Cross](../d/death_cross.md)) as a sell signal.
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. Values above 70 indicate [overbought](../o/overbought.md) conditions (potential sell signal), while values below 30 signify [oversold](../o/oversold.md) conditions (potential buy signal).
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. Values above 70 indicate [overbought](../o/overbought.md) conditions (potential sell signal), while values below 30 signify [oversold](../o/oversold.md) conditions (potential buy signal).
 
 - **MACD (Moving Average Convergence [Divergence](../d/divergence.md))**: The MACD [indicator](../i/indicator.md) consists of the MACD line, signal line, and [histogram](../h/histogram.md). A common signal is when the MACD line crosses the signal line from below (bullish crossover) or above (bearish crossover).
 

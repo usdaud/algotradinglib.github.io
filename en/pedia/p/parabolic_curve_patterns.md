@@ -19,7 +19,7 @@ In mathematics, a parabola is defined by the equation \( y = ax^2 + bx + c \). O
 Identifying a parabolic curve pattern involves using several [technical analysis](../t/technical_analysis.md) tools and indicators. Here are some of the most common methods:
 
 1. **Price Charts**: Visual inspection of price charts is the most straightforward method. Look for a smooth, accelerating curve that resembles a parabola.
-2. **[Technical Indicators](../t/technical_indicators.md)**: Indicators like moving averages, the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) can help confirm the presence of a parabolic [trend](../t/trend.md).
+2. **[Technical Indicators](../t/technical_indicators.md)**: Indicators like moving averages, the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) can help confirm the presence of a parabolic [trend](../t/trend.md).
 3. **[Volume Analysis](../v/volume_analysis.md)**: Increasing [volume](../v/volume.md) during the formation of the curve confirms the strength of the [trend](../t/trend.md).
 
 ## Application in Algorithmic Trading

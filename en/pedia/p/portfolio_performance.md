@@ -31,7 +31,7 @@ Similar to the [Sharpe Ratio](../s/sharpe_ratio.md), the [Sortino Ratio](../s/so
 where \( \sigma_d \) is the [downside deviation](../d/downside_deviation.md).
 
 #### 5. **Alpha**
-[Alpha](../a/alpha.md) measures the [excess return](../e/excess_return.md) of a portfolio relative to a [benchmark](../b/benchmark.md) [index](../i/index.md), indicating the portfolio’s ability to beat the [market](../m/market.md).
+[Alpha](../a/alpha.md) measures the [excess return](../e/excess_return.md) of a portfolio relative to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), indicating the portfolio’s ability to beat the [market](../m/market.md).
 
 \[ \[alpha](../a/alpha.md) = R_p - (R_f + \[beta](../b/beta.md) (R_m - R_f)) \]
 

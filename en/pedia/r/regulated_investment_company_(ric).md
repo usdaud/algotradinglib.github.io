@@ -30,7 +30,7 @@ RICs enjoy a unique tax advantage known as "pass-through" [taxation](../t/taxati
 
 ## Detailed Example: Vanguard 500 Index Fund (VFINX)
 
-The Vanguard 500 [Index Fund](../i/index_fund.md) is a [mutual fund](../m/mutual_fund.md) that seeks to track the performance of the S&P 500 [Index](../i/index.md). It is structured as an RIC, adhering to the rules of Subchapter M to avoid [double taxation](../d/double_taxation.md). Here’s a closer look at how it operates under the RIC framework:
+The Vanguard 500 [Index Fund](../i/index_fund.md) is a [mutual fund](../m/mutual_fund.md) that seeks to track the performance of the S&P 500 [Index](../i/index_instrument.md). It is structured as an RIC, adhering to the rules of Subchapter M to avoid [double taxation](../d/double_taxation.md). Here’s a closer look at how it operates under the RIC framework:
 
 1. **Investment [Diversification](../d/diversification.md)**: VFINX invests in a diversified portfolio that includes [stocks](../s/stock.md) from all sectors represented in the S&P 500. This aligns with the [diversification](../d/diversification.md) requirement, ensuring that no single investment constitutes more than 5% of the [fund](../f/fund.md)’s assets.
 2. **[Income](../i/income.md) [Distribution](../d/distribution.md)**: The [fund](../f/fund.md) annually distributes [dividend](../d/dividend.md) [income](../i/income.md) and any [capital](../c/capital.md) gains to its shareholders. Under RIC regulation, at least 90% of this [income](../i/income.md) must be distributed to maintain tax-exempt status at the corporate level.

@@ -1,10 +1,10 @@
 # Advance/Decline Line (A/D)
 
-The Advance/Decline Line (A/D Line) is a [technical analysis](../t/technical_analysis.md) tool used to measure the breadth of the [stock market](../s/stock_market.md). It represents the cumulative difference between the number of advancing [stocks](../s/stock.md) and declining [stocks](../s/stock.md) within a given stock [index](../i/index.md). The A/D Line is particularly valuable for determining the general health of the [market](../m/market.md), helping traders and analysts identify bullish or bearish trends. This guide [will](../w/will.md) provide a thorough examination of the A/D Line, its calculation, interpretation, and use in [algorithmic trading](../a/accountability.md).
+The Advance/Decline Line (A/D Line) is a [technical analysis](../t/technical_analysis.md) tool used to measure the breadth of the [stock market](../s/stock_market.md). It represents the cumulative difference between the number of advancing [stocks](../s/stock.md) and declining [stocks](../s/stock.md) within a given stock [index](../i/index_instrument.md). The A/D Line is particularly valuable for determining the general health of the [market](../m/market.md), helping traders and analysts identify bullish or bearish trends. This guide [will](../w/will.md) provide a thorough examination of the A/D Line, its calculation, interpretation, and use in [algorithmic trading](../a/accountability.md).
 
 ## Definition and Calculation
 
-The A/D Line is calculated daily by taking the difference between the number of advancing (AD) and declining (DD) [stocks](../s/stock.md) in a stock [index](../i/index.md) and adding this [value](../v/value.md) to the previous day's cumulative total. Mathematically, it is expressed as follows:
+The A/D Line is calculated daily by taking the difference between the number of advancing (AD) and declining (DD) [stocks](../s/stock.md) in a stock [index](../i/index_instrument.md) and adding this [value](../v/value.md) to the previous day's cumulative total. Mathematically, it is expressed as follows:
 
 ```
 A/D Line Today = A/D Line Yesterday + (AD - DD)
@@ -21,12 +21,12 @@ The result is plotted on a chart to visually represent the cumulative breadth of
 The A/D Line is an essential [indicator](../i/indicator.md) for evaluating overall [market sentiment](../m/market_sentiment.md). There are several key interpretations:
 
 1. **Confirming Trends:**
-   - **Bullish [Market](../m/market.md):** If the stock [index](../i/index.md) is rising and the A/D Line is also rising, this indicates broad participation in the [rally](../r/rally.md), confirming a bullish [market sentiment](../m/market_sentiment.md).
-   - **Bearish [Market](../m/market.md):** If the stock [index](../i/index.md) is falling and the A/D Line is also falling, this suggests widespread participation in the sell-off, confirming a bearish [market sentiment](../m/market_sentiment.md).
+   - **Bullish [Market](../m/market.md):** If the stock [index](../i/index_instrument.md) is rising and the A/D Line is also rising, this indicates broad participation in the [rally](../r/rally.md), confirming a bullish [market sentiment](../m/market_sentiment.md).
+   - **Bearish [Market](../m/market.md):** If the stock [index](../i/index_instrument.md) is falling and the A/D Line is also falling, this suggests widespread participation in the sell-off, confirming a bearish [market sentiment](../m/market_sentiment.md).
 
 2. **[Divergence](../d/divergence.md):**
-   - **Positive [Divergence](../d/divergence.md):** Occurs when the stock [index](../i/index.md) is falling, but the A/D Line is rising, indicating that fewer [stocks](../s/stock.md) are declining, which may precede a [market](../m/market.md) [reversal](../r/reversal.md) to the [upside](../u/upside.md).
-   - **Negative [Divergence](../d/divergence.md):** Occurs when the stock [index](../i/index.md) is rising, but the A/D Line is falling, suggesting that fewer [stocks](../s/stock.md) are participating in the [rally](../r/rally.md), which could signal a potential [market](../m/market.md) [correction](../c/correction.md).
+   - **Positive [Divergence](../d/divergence.md):** Occurs when the stock [index](../i/index_instrument.md) is falling, but the A/D Line is rising, indicating that fewer [stocks](../s/stock.md) are declining, which may precede a [market](../m/market.md) [reversal](../r/reversal.md) to the [upside](../u/upside.md).
+   - **Negative [Divergence](../d/divergence.md):** Occurs when the stock [index](../i/index_instrument.md) is rising, but the A/D Line is falling, suggesting that fewer [stocks](../s/stock.md) are participating in the [rally](../r/rally.md), which could signal a potential [market](../m/market.md) [correction](../c/correction.md).
 
 3. **Breadth Thrust:**
    - This is a strong and rapid increase in the A/D Line, indicating a sudden increase in the number of advancing [stocks](../s/stock.md), which can be a sign of a [robust](../r/robust.md) bullish [market](../m/market.md).
@@ -43,7 +43,7 @@ Algorithms can use the A/D Line to identify broader [market](../m/market.md) tre
 
 ### Divergence Detection
 
-Algorithms can be programmed to detect divergences between the stock [index](../i/index.md) and the A/D Line. Advanced [pattern recognition](../p/pattern_recognition.md) techniques, such as machine learning models, can be employed to identify positive or negative divergences automatically and prompt [trade](../t/trade.md) executions based on these signals.
+Algorithms can be programmed to detect divergences between the stock [index](../i/index_instrument.md) and the A/D Line. Advanced [pattern recognition](../p/pattern_recognition.md) techniques, such as machine learning models, can be employed to identify positive or negative divergences automatically and prompt [trade](../t/trade.md) executions based on these signals.
 
 ### Sentiment Analysis
 
@@ -51,11 +51,11 @@ By analyzing changes in the A/D Line, algorithms can gauge [market sentiment](..
 
 ### Integration with Other Indicators
 
-The A/D Line can be integrated with other [technical indicators](../t/technical_indicator.md), such as [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Averages, or [Bollinger Bands](../b/bollinger_band.md), to create more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). For example, a crossover of a moving average of the A/D Line can be used as an additional signal to confirm [trade](../t/trade.md) entries or exits.
+The A/D Line can be integrated with other [technical indicators](../t/technical_indicator.md), such as [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Averages, or [Bollinger Bands](../b/bollinger_band.md), to create more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). For example, a crossover of a moving average of the A/D Line can be used as an additional signal to confirm [trade](../t/trade.md) entries or exits.
 
 ## Real-World Example
 
-Consider a scenario where an algorithm is programmed to [trade](../t/trade.md) the S&P 500 [index](../i/index.md). The algorithm tracks the A/D Line for the S&P 500:
+Consider a scenario where an algorithm is programmed to [trade](../t/trade.md) the S&P 500 [index](../i/index_instrument.md). The algorithm tracks the A/D Line for the S&P 500:
 - When the A/D Line rises above its [50-day moving average](../1/50-day_moving_average.md), the algorithm may initiate or increase long positions, assuming the broader [market](../m/market.md) is healthy.
 - Conversely, if the A/D Line falls below its [50-day moving average](../1/50-day_moving_average.md), the algorithm may scale back long positions, initiate short positions, or move to cash or defensive assets.
 

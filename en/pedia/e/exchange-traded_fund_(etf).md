@@ -42,7 +42,7 @@ The creation and [redemption](../r/redemption.md) process enables an [arbitrage]
 
 ### Inverse and Leveraged ETFs
 
-[Inverse ETFs](../i/inverse_etfs.md) are designed to [profit](../p/profit.md) from a decline in the [value](../v/value.md) of the [underlying](../u/underlying.md) [benchmark](../b/benchmark.md). [Leveraged ETFs](../l/leveraged_etfs.md) use [financial derivatives](../f/financial_derivatives.md) and [debt](../d/debt.md) to amplify the returns of the [underlying](../u/underlying.md) [index](../i/index.md) or [asset](../a/asset.md).
+[Inverse ETFs](../i/inverse_etfs.md) are designed to [profit](../p/profit.md) from a decline in the [value](../v/value.md) of the [underlying](../u/underlying.md) [benchmark](../b/benchmark.md). [Leveraged ETFs](../l/leveraged_etfs.md) use [financial derivatives](../f/financial_derivatives.md) and [debt](../d/debt.md) to amplify the returns of the [underlying](../u/underlying.md) [index](../i/index_instrument.md) or [asset](../a/asset.md).
 
 ## Advantages of ETFs
 
@@ -74,7 +74,7 @@ Some ETFs, particularly leveraged and [inverse ETFs](../i/inverse_etfs.md), can 
 
 ### Tracking Errors
 
-ETFs may not perfectly replicate the performance of the [underlying](../u/underlying.md) [index](../i/index.md), leading to tracking errors. This can result from factors such as management fees, [trading costs](../t/trading_costs.md), and imperfect replication strategies.
+ETFs may not perfectly replicate the performance of the [underlying](../u/underlying.md) [index](../i/index_instrument.md), leading to tracking errors. This can result from factors such as management fees, [trading costs](../t/trading_costs.md), and imperfect replication strategies.
 
 ## Popular ETF Providers
 
@@ -84,7 +84,7 @@ Managed by BlackRock, [iShares](../i/ishares.md) offers a wide [range](../r/rang
 
 ### Vanguard
 
-Vanguard is another major player in the ETF [market](../m/market.md), known for its low-cost [index](../i/index.md) funds and ETFs. Their ETFs cover a broad spectrum of [asset](../a/asset.md) classes and investment strategies. [Vanguard Website](https://www.vanguard.com)
+Vanguard is another major player in the ETF [market](../m/market.md), known for its low-cost [index](../i/index_instrument.md) funds and ETFs. Their ETFs cover a broad spectrum of [asset](../a/asset.md) classes and investment strategies. [Vanguard Website](https://www.vanguard.com)
 
 ### SPDR
 

@@ -1,6 +1,6 @@
 # National Average Wage Index (NAWI)
 
-The National Average Wage [Index](../i/index.md) (NAWI) is a statistical measure used predominantly in the United States to calculate adjustments in [social security](../s/social_security.md) benefits and other related financial figures based on changes in the average wages over time. Managed by the [Social Security](../s/social_security.md) Administration (SSA), this [index](../i/index.md) plays an essential role in reflecting the annual average wage levels of workers covered under [Social Security](../s/social_security.md). It serves as an [indicator](../i/indicator.md) of overall economic health and wage growth, allowing for adjustments that aim to maintain the [purchasing power](../p/purchasing_power.md) of [social security](../s/social_security.md) benefits.
+The National Average Wage [Index](../i/index_instrument.md) (NAWI) is a statistical measure used predominantly in the United States to calculate adjustments in [social security](../s/social_security.md) benefits and other related financial figures based on changes in the average wages over time. Managed by the [Social Security](../s/social_security.md) Administration (SSA), this [index](../i/index_instrument.md) plays an essential role in reflecting the annual average wage levels of workers covered under [Social Security](../s/social_security.md). It serves as an [indicator](../i/indicator.md) of overall economic health and wage growth, allowing for adjustments that aim to maintain the [purchasing power](../p/purchasing_power.md) of [social security](../s/social_security.md) benefits.
 
 ## Calculation and Methodology
 
@@ -10,7 +10,7 @@ The data for the NAWI is sourced from the wage reports submitted by employers to
 
 ### Calculating the Index
 
-The [index](../i/index.md) is calculated by dividing the total wages earned during the year by the number of employees who receive those wages. It's then adjusted to reflect changes year over year. Here’s a simplified version of the formula:
+The [index](../i/index_instrument.md) is calculated by dividing the total wages earned during the year by the number of employees who receive those wages. It's then adjusted to reflect changes year over year. Here’s a simplified version of the formula:
 
 ```
 NAWI_year = (Total [social security](../s/social_security.md)-covered wages for year) / (Number of employees during the year)
@@ -44,18 +44,18 @@ The NAWI is not just a tool for adjusting [social security](../s/social_security
 
 - **Economic Planning:** Government agencies and policymakers use NAWI data to make informed decisions regarding economic policies, [minimum wage](../m/minimum_wage.md) adjustments, and workforce development programs.
 - **[Financial Planning](../f/financial_planning.md):** Financial advisors and planners may incorporate NAWI trends in [retirement planning](../r/retirement_planning.md) and advisory services, ensuring that future retirees have a realistic understanding of potential benefits.
-- **[Labor Market](../l/labor_market.md) Analysis:** Economists and labor analysts utilize the [index](../i/index.md) to study wage [growth trends](../g/growth_trends_in_trading.md), [income](../i/income.md) [distribution](../d/distribution.md), and to make forecasts regarding [labor market](../l/labor_market.md) conditions.
+- **[Labor Market](../l/labor_market.md) Analysis:** Economists and labor analysts utilize the [index](../i/index_instrument.md) to study wage [growth trends](../g/growth_trends_in_trading.md), [income](../i/income.md) [distribution](../d/distribution.md), and to make forecasts regarding [labor market](../l/labor_market.md) conditions.
 
 ## Challenges and Limitations
 
 While the NAWI is a valuable tool, it also has some limitations and challenges:
 
-- **Lag in Data Availability:** The NAWI data is typically released with a lag, meaning the most recent [economic conditions](../e/economic_conditions.md) might not be immediately reflected in the [index](../i/index.md).
+- **Lag in Data Availability:** The NAWI data is typically released with a lag, meaning the most recent [economic conditions](../e/economic_conditions.md) might not be immediately reflected in the [index](../i/index_instrument.md).
 - **Coverage [Scope](../s/scope.md):** The NAWI only includes [earnings](../e/earnings.md) that are subject to [Social Security](../s/social_security.md) [taxes](../t/taxes.md), omitting [earnings](../e/earnings.md) from non-covered employment sectors.
-- **Wage Inequality:** The [index](../i/index.md) reflects average wages, which may mask significant wage disparities within different segments of the workforce.
+- **Wage Inequality:** The [index](../i/index_instrument.md) reflects average wages, which may mask significant wage disparities within different segments of the workforce.
 
 ## Conclusion
 
-The National Average Wage [Index](../i/index.md) is a cornerstone statistic in the United States financial landscape, [offering](../o/offering.md) critical insights into wage trends and providing a [basis](../b/basis.md) for adjustments in [social security](../s/social_security.md) benefits. By accurately reflecting changes in [earnings](../e/earnings.md) over time, it ensures that [social security](../s/social_security.md) recipients maintain a consistent [purchasing power](../p/purchasing_power.md). However, like any economic measure, it requires careful interpretation and supplementation with other data to provide a comprehensive view of economic health and wage distributions.
+The National Average Wage [Index](../i/index_instrument.md) is a cornerstone statistic in the United States financial landscape, [offering](../o/offering.md) critical insights into wage trends and providing a [basis](../b/basis.md) for adjustments in [social security](../s/social_security.md) benefits. By accurately reflecting changes in [earnings](../e/earnings.md) over time, it ensures that [social security](../s/social_security.md) recipients maintain a consistent [purchasing power](../p/purchasing_power.md). However, like any economic measure, it requires careful interpretation and supplementation with other data to provide a comprehensive view of economic health and wage distributions.
 
 For further details, you can explore the [Social Security Administration's official page on the NAWI](https://www.ssa.gov/OACT/COLA/AWI.html).

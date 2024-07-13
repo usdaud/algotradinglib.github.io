@@ -39,7 +39,7 @@ Blue-chip [stocks](../s/stock.md) are [stocks](../s/stock.md) of well-establishe
 
 ## Stock Market Indices
 
-Stock [market](../m/market.md) indices are statistical measures that show changes occurring in the stock [market](../m/market.md). An [index](../i/index.md) is composed of a selected group of [stocks](../s/stock.md), and the performance of this group is used to represent the [market](../m/market.md) as a whole. Some of the most prominent stock [market](../m/market.md) indices include:
+Stock [market](../m/market.md) indices are statistical measures that show changes occurring in the stock [market](../m/market.md). An [index](../i/index_instrument.md) is composed of a selected group of [stocks](../s/stock.md), and the performance of this group is used to represent the [market](../m/market.md) as a whole. Some of the most prominent stock [market](../m/market.md) indices include:
 
 - **Dow Jones Industrial Average (DJIA):** Comprises 30 significant companies [listed](../l/listed.md) on stock exchanges in the United States.
 - **S&P 500:** Tracks the [stocks](../s/stock.md) of 500 large-cap companies.

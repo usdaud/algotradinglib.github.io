@@ -68,7 +68,7 @@ Swing traders can use the Tenkan-Sen to:
 Given its straightforward calculation, the Tenkan-Sen is often incorporated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) to:
 - Define signal triggers based on its cross with other Ichimoku lines or price levels.
 - Implement mean-reversion strategies by taking trades when price deviates significantly from the Tenkan-Sen.
-- Develop hybrid models combining Ichimoku signals with other popular indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or MACD.
+- Develop hybrid models combining Ichimoku signals with other popular indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or MACD.
 
 ## Real-World Example
 

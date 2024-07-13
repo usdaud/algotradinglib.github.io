@@ -25,7 +25,7 @@
 
 ### Alpha Generation Overlays
 
-[Alpha generation](../a/alpha_generation.md) overlays are supplementary strategies aimed at identifying additional sources of [alpha](../a/alpha.md), or [excess return](../e/excess_return.md) relative to a [benchmark](../b/benchmark.md) [index](../i/index.md).
+[Alpha generation](../a/alpha_generation.md) overlays are supplementary strategies aimed at identifying additional sources of [alpha](../a/alpha.md), or [excess return](../e/excess_return.md) relative to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 
 #### Style Tilting
 

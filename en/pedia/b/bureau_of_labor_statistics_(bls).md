@@ -34,7 +34,7 @@ The JOLTS program provides job openings, hires, and separations data, which can 
 
 ### Inflation and Prices
 
-BLS’s price [statistics](../s/statistics.md) include the Consumer Price [Index](../i/index.md) (CPI) and the Producer Price [Index](../i/index.md) (PPI), which are essential for gauging [inflation](../i/inflation.md) and price changes in the [economy](../e/economy.md).
+BLS’s price [statistics](../s/statistics.md) include the Consumer Price [Index](../i/index_instrument.md) (CPI) and the Producer Price [Index](../i/index_instrument.md) (PPI), which are essential for gauging [inflation](../i/inflation.md) and price changes in the [economy](../e/economy.md).
 
 #### Consumer Price Index (CPI)
 

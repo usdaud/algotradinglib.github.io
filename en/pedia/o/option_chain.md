@@ -5,7 +5,7 @@ An Option Chain, also known as an Option Matrix, is a structured listing of all 
 ## Components of an Option Chain
 
 ### Underlying Asset
-The [underlying asset](../u/underlying_asset.md) is the [financial instrument](../f/financial_instrument.md), such as a stock, [index](../i/index.md), [commodity](../c/commodity.md), or [currency](../c/currency.md), on which the [options](../o/options.md) are based. For instance, if you are looking at an option chain for Apple Inc. (AAPL), then the [underlying asset](../u/underlying_asset.md) is Apple’s stock.
+The [underlying asset](../u/underlying_asset.md) is the [financial instrument](../f/financial_instrument.md), such as a stock, [index](../i/index_instrument.md), [commodity](../c/commodity.md), or [currency](../c/currency.md), on which the [options](../o/options.md) are based. For instance, if you are looking at an option chain for Apple Inc. (AAPL), then the [underlying asset](../u/underlying_asset.md) is Apple’s stock.
 
 ### Expiration Dates
 The [expiration date](../e/expiration_date.md) is the last date on which the option can be exercised. [Options](../o/options.md) can have various expiration intervals, such as daily, weekly, monthly, or even quarterly. The option chain typically lists different expiration dates, each containing [multiple](../m/multiple.md) contracts with different strike prices.

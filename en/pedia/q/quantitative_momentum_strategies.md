@@ -40,7 +40,7 @@ Several investment funds and ETFs incorporate [momentum](../m/momentum.md) strat
 
 - **AQR [Capital](../c/capital.md) Management:** AQR offers funds such as the AQR Large Cap [Momentum](../m/momentum.md) Style [Fund](../f/fund.md), focusing on [large-cap stocks](../l/large_cap_stocks.md) exhibiting strong [momentum](../m/momentum.md). More details can be found at [AQR Capital Management](https://www.aqr.com/).
 
-- **[iShares](../i/ishares.md) Edge MSCI USA [Momentum Factor](../m/momentum_factor.md) ETF (MTUM):** This ETF aims to track an [index](../i/index.md) that targets U.S. large- and mid-[capitalization](../c/capitalization.md) [stocks](../s/stock.md) with high [momentum](../m/momentum.md) characteristics. More information can be found on the [iShares website](https://www.ishares.com/us/products/239726/ishares-msci-usa-momentum-factor-etf).
+- **[iShares](../i/ishares.md) Edge MSCI USA [Momentum Factor](../m/momentum_factor.md) ETF (MTUM):** This ETF aims to track an [index](../i/index_instrument.md) that targets U.S. large- and mid-[capitalization](../c/capitalization.md) [stocks](../s/stock.md) with high [momentum](../m/momentum.md) characteristics. More information can be found on the [iShares website](https://www.ishares.com/us/products/239726/ishares-msci-usa-momentum-factor-etf).
 
 #### Quantitative Models
 

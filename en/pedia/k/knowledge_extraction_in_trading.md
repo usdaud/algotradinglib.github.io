@@ -12,7 +12,7 @@ The first step in knowledge extraction for trading is data collection. This invo
 
 1. Historical [Market](../m/market.md) Data: Price, [volume](../v/volume.md), and trading activity across various assets such as [stocks](../s/stock.md), bonds, commodities, and cryptocurrencies.
 2. [Real-Time Market Data](../r/real-time_market_data.md): Streaming data of live trading sessions.
-3. [Economic Indicators](../e/economic_indicators.md): Data related to GDP, [unemployment](../u/unemployment.md) rates, consumer price [index](../i/index.md), [interest](../i/interest.md) rates, etc.
+3. [Economic Indicators](../e/economic_indicators.md): Data related to GDP, [unemployment](../u/unemployment.md) rates, consumer price [index](../i/index_instrument.md), [interest](../i/interest.md) rates, etc.
 4. News and [Social Media](../s/social_media.md): Articles, blogs, tweets, and posts that can influence [market sentiment](../m/market_sentiment.md).
 5. Financial Reports: Quarterly and annual [earnings](../e/earnings.md) reports, balance sheets, [income](../i/income.md) statements.
 6. [Alternative Data](../a/alternative_data.md): Satellite images, shipping data, web traffic [statistics](../s/statistics.md), etc.

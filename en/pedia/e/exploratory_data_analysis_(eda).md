@@ -137,7 +137,7 @@ To illustrate the application of EDA in [algorithmic trading](../a/algorithmic_t
    ```
 
 7. **Feature Engineering:**
-   - Generate new features such as moving averages and RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)).
+   - Generate new features such as moving averages and RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)).
    ```python
    data['50_MA'] = data['Close'].rolling(window=50).mean()
    data['200_MA'] = data['Close'].rolling(window=200).mean()

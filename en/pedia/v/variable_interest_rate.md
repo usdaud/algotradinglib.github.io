@@ -1,10 +1,10 @@
 # Variable Interest Rate
 
-A variable [interest rate](../i/interest_rate.md), sometimes referred to as a floating or adjustable rate, is an [interest rate](../i/interest_rate.md) on a [loan](../l/loan.md) or [security](../s/security.md) that fluctuates over time based on an [underlying](../u/underlying.md) [benchmark](../b/benchmark.md) or [index](../i/index.md) that changes periodically. This adjustment allows the [interest rate](../i/interest_rate.md) to better reflect the current [market](../m/market.md) conditions. In contrast to fixed [interest](../i/interest.md) rates, which remain constant for the [duration](../d/duration.md) of the [loan](../l/loan.md) or investment, variable rates are inherently more dynamic and can [offer](../o/offer.md) the potential for lower initial rates or better alignment with changes in [inflation](../i/inflation.md) and other [economic indicators](../e/economic_indicators.md).
+A variable [interest rate](../i/interest_rate.md), sometimes referred to as a floating or adjustable rate, is an [interest rate](../i/interest_rate.md) on a [loan](../l/loan.md) or [security](../s/security.md) that fluctuates over time based on an [underlying](../u/underlying.md) [benchmark](../b/benchmark.md) or [index](../i/index_instrument.md) that changes periodically. This adjustment allows the [interest rate](../i/interest_rate.md) to better reflect the current [market](../m/market.md) conditions. In contrast to fixed [interest](../i/interest.md) rates, which remain constant for the [duration](../d/duration.md) of the [loan](../l/loan.md) or investment, variable rates are inherently more dynamic and can [offer](../o/offer.md) the potential for lower initial rates or better alignment with changes in [inflation](../i/inflation.md) and other [economic indicators](../e/economic_indicators.md).
 
 ## Definition and Mechanism
 
-At its core, a variable [interest rate](../i/interest_rate.md) is calculated as the sum of a base rate ([index](../i/index.md) rate) and a spread (or [margin](../m/margin.md)). The base rate is usually derived from a standard financial [index](../i/index.md), such as the London Interbank Offered Rate (LIBOR), the [Federal Funds Rate](../f/federal_funds_rate.md), or the [Prime Rate](../p/prime_rate.md). The spread is a percentage that is added to the base rate and remains relatively constant over the life of the [loan](../l/loan.md).
+At its core, a variable [interest rate](../i/interest_rate.md) is calculated as the sum of a base rate ([index](../i/index_instrument.md) rate) and a spread (or [margin](../m/margin.md)). The base rate is usually derived from a standard financial [index](../i/index_instrument.md), such as the London Interbank Offered Rate (LIBOR), the [Federal Funds Rate](../f/federal_funds_rate.md), or the [Prime Rate](../p/prime_rate.md). The spread is a percentage that is added to the base rate and remains relatively constant over the life of the [loan](../l/loan.md).
 
 ### Formula
 
@@ -33,8 +33,8 @@ Each of these indexes changes based on [supply](../s/supply.md) and [demand](../
 
 ### Disadvantages
 
-- **[Uncertainty](../u/uncertainty_in_trading.md):** The primary drawback is the unpredictability. Borrowers might face increased payments if the [index](../i/index.md) rate rises significantly.
-- **Complexity:** Understanding how the rates adjust can be complex for the average borrower, necessitating awareness of the [underlying](../u/underlying.md) [index](../i/index.md) trends and economic factors.
+- **[Uncertainty](../u/uncertainty_in_trading.md):** The primary drawback is the unpredictability. Borrowers might face increased payments if the [index](../i/index_instrument.md) rate rises significantly.
+- **Complexity:** Understanding how the rates adjust can be complex for the average borrower, necessitating awareness of the [underlying](../u/underlying.md) [index](../i/index_instrument.md) trends and economic factors.
 - **Potential for Increased Costs:** Rising [interest](../i/interest.md) rates can lead to higher [loan](../l/loan.md) [repayment](../r/repayment.md) amounts, affecting [financial planning](../f/financial_planning.md) and budgeting.
 
 ## Applications in Financial Products
@@ -53,7 +53,7 @@ Businesses may opt for variable rate loans for working [capital](../c/capital.md
 
 ### Bonds
 
-Certain bonds, known as floating rate bonds or floaters, feature [interest](../i/interest.md) rates that reset periodically based on an [index](../i/index.md). These can be attractive to investors during times of rising [interest](../i/interest.md) rates as they [offer](../o/offer.md) [interest](../i/interest.md) payments that keep pace with the [market](../m/market.md).
+Certain bonds, known as floating rate bonds or floaters, feature [interest](../i/interest.md) rates that reset periodically based on an [index](../i/index_instrument.md). These can be attractive to investors during times of rising [interest](../i/interest.md) rates as they [offer](../o/offer.md) [interest](../i/interest.md) payments that keep pace with the [market](../m/market.md).
 
 ## Risk Management
 
@@ -73,7 +73,7 @@ An [interest rate swap](../i/interest_rate_swap.md) might involve a [corporation
 
 The financial [industry](../i/industry.md) is highly regulated to ensure [transparency](../t/transparency.md) and protect consumers from unfair practices. Regulations surrounding variable [interest](../i/interest.md) rates include:
 
-- **[Disclosure](../d/disclosure.md) Requirements:** Creditors must clearly disclose how the variable rate is calculated, including the [index](../i/index.md) and [margin](../m/margin.md), and how often it [will](../w/will.md) adjust.
+- **[Disclosure](../d/disclosure.md) Requirements:** Creditors must clearly disclose how the variable rate is calculated, including the [index](../i/index_instrument.md) and [margin](../m/margin.md), and how often it [will](../w/will.md) adjust.
 - **Adjustable Rate [Mortgage](../m/mortgage.md) Rule:** Issued by the Consumer Financial Protection Bureau (CFPB), this rule mandates specific disclosures and [interest rate](../i/interest_rate.md) adjustment notices for ARMs.
 - **SOFR Transition:** With the phase-out of LIBOR, regulators have encouraged the adoption of alternative benchmarks like SOFR, requiring significant adjustments in financial contracts and reporting standards.
 

@@ -69,16 +69,16 @@ Statistical [arbitrage](../a/arbitrage.md) involves trading based on statistical
 
 ## Case Study: Dispersion Trading Strategy
 
-A dispersion [trading strategy](../t/trading_strategy.md) involves trading the [volatility](../v/volatility.md) of an [index](../i/index.md) versus the [volatility](../v/volatility.md) of its constituents. For instance, traders might [trade](../t/trade.md) the implied [volatility](../v/volatility.md) of an [equity](../e/equity.md) [index](../i/index.md) (like the S&P 500) against the implied volatilities of the [stocks](../s/stock.md) within that [index](../i/index.md). The idea is to [capitalize](../c/capitalize.md) on the difference (or dispersion) between the implied volatilities.
+A dispersion [trading strategy](../t/trading_strategy.md) involves trading the [volatility](../v/volatility.md) of an [index](../i/index_instrument.md) versus the [volatility](../v/volatility.md) of its constituents. For instance, traders might [trade](../t/trade.md) the implied [volatility](../v/volatility.md) of an [equity](../e/equity.md) [index](../i/index_instrument.md) (like the S&P 500) against the implied volatilities of the [stocks](../s/stock.md) within that [index](../i/index_instrument.md). The idea is to [capitalize](../c/capitalize.md) on the difference (or dispersion) between the implied volatilities.
 
 ### Example:
-A [trader](../t/trader.md) notices that the implied [volatility](../v/volatility.md) of the S&P 500 is low compared to the average implied volatilities of the individual [stocks](../s/stock.md) within the [index](../i/index.md). The [trader](../t/trader.md) can then:
-- Buy [options](../o/options.md) on the S&P 500 (betting on an increase in [index](../i/index.md) [volatility](../v/volatility.md)).
+A [trader](../t/trader.md) notices that the implied [volatility](../v/volatility.md) of the S&P 500 is low compared to the average implied volatilities of the individual [stocks](../s/stock.md) within the [index](../i/index_instrument.md). The [trader](../t/trader.md) can then:
+- Buy [options](../o/options.md) on the S&P 500 (betting on an increase in [index](../i/index_instrument.md) [volatility](../v/volatility.md)).
 - Sell [options](../o/options.md) on the individual [stocks](../s/stock.md) within the S&P 500 (betting on a decrease in the dispersion of individual stock volatilities).
 
 ### Key Considerations:
-1. **[Liquidity](../l/liquidity.md):** Ensure sufficient [liquidity](../l/liquidity.md) in both the [index](../i/index.md) and constituent [options](../o/options.md).
-2. **Correlations:** Analyze correlations between the [index](../i/index.md) and its constituents.
+1. **[Liquidity](../l/liquidity.md):** Ensure sufficient [liquidity](../l/liquidity.md) in both the [index](../i/index_instrument.md) and constituent [options](../o/options.md).
+2. **Correlations:** Analyze correlations between the [index](../i/index_instrument.md) and its constituents.
 3. **[Execution](../e/execution.md):** Efficient [execution](../e/execution.md) to manage [transaction costs](../t/transaction_costs.md).
 
 ## Companies and Tools for Dispersion Analysis

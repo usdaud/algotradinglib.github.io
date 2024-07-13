@@ -11,7 +11,7 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), one of the 
   - **Simple Moving Average (SMA)**: The [arithmetic mean](../a/arithmetic_mean.md) of a given set of prices.
   - **Exponential Moving Average (EMA)**: Gives more weight to the latest data points.
   
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements, useful for identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements, useful for identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
   
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: Shows the relationship between two moving averages of prices.
 

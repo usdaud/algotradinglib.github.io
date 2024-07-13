@@ -22,7 +22,7 @@
 
 To effectively analyze [uptick volume](../u/uptick_volume.md), traders often use a combination of mathematical calculations and algorithms. Here are some common techniques:
 
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. It includes [uptick volume](../u/uptick_volume.md) in its calculations.
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. It includes [uptick volume](../u/uptick_volume.md) in its calculations.
 2. **On-Balance [Volume](../v/volume.md) (OBV)**: OBV uses cumulative [volume](../v/volume.md) to predict price changes. It adds the day's [volume](../v/volume.md) to the cumulative total when the price closes higher and subtracts it when the price closes lower.
 3. **[Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price (VWAP)**: VWAP calculates the average price of a [security](../s/security.md), [weighted](../w/weighted.md) by [volume](../v/volume.md), throughout a [trading session](../t/trading_session.md). It helps assess the [efficiency](../e/efficiency.md) of buys and sells.
 

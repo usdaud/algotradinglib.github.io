@@ -72,7 +72,7 @@ While concentration ratios are useful for assessing [market](../m/market.md) str
 
 ### Herfindahl-Hirschman Index (HHI)
 
-The **Herfindahl-Hirschman [Index](../i/index.md)** (HHI) is another measure of [market](../m/market.md) concentration, which adds the squares of the [market](../m/market.md) [shares](../s/shares.md) of all firms in the [market](../m/market.md). Unlike the Concentration Ratio, HHI considers the [distribution](../d/distribution.md) of the entire [market](../m/market.md) and penalizes more unequal distributions of [market](../m/market.md) [shares](../s/shares.md).
+The **Herfindahl-Hirschman [Index](../i/index_instrument.md)** (HHI) is another measure of [market](../m/market.md) concentration, which adds the squares of the [market](../m/market.md) [shares](../s/shares.md) of all firms in the [market](../m/market.md). Unlike the Concentration Ratio, HHI considers the [distribution](../d/distribution.md) of the entire [market](../m/market.md) and penalizes more unequal distributions of [market](../m/market.md) [shares](../s/shares.md).
 
 \[ HHI = \sum_{i=1}^{N} s_i^2 \]
 

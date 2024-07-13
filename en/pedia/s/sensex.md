@@ -1,6 +1,6 @@
 # Sensex
 
-The Sensex, also known as the S&P BSE Sensex, is one of the most prominent barometers of the Indian [stock market](../s/stock_market.md). It represents the 30 most traded and financially [robust](../r/robust.md) companies [listed](../l/listed.md) on the Bombay Stock [Exchange](../e/exchange.md) (BSE). This term, often used interchangeably with "BSE 30," merges "sensitive" and "[index](../i/index.md)," reflecting its role in gauging [market sentiment](../m/market_sentiment.md) and trends. To understand its significance in [financial markets](../f/financial_market.md), especially in [algorithmic trading](../a/accountability.md) and fintech sectors, one must delve into its history, composition, calculation methods, and broader impact.
+The Sensex, also known as the S&P BSE Sensex, is one of the most prominent barometers of the Indian [stock market](../s/stock_market.md). It represents the 30 most traded and financially [robust](../r/robust.md) companies [listed](../l/listed.md) on the Bombay Stock [Exchange](../e/exchange.md) (BSE). This term, often used interchangeably with "BSE 30," merges "sensitive" and "[index](../i/index_instrument.md)," reflecting its role in gauging [market sentiment](../m/market_sentiment.md) and trends. To understand its significance in [financial markets](../f/financial_market.md), especially in [algorithmic trading](../a/accountability.md) and fintech sectors, one must delve into its history, composition, calculation methods, and broader impact.
 
 ## History of Sensex
 
@@ -15,7 +15,7 @@ The Sensex was introduced in 1986, making it the oldest stock [market index](../
 
 ## Composition of Sensex
 
-The Sensex consists of 30 companies across various sectors, including IT, [finance](../f/finance.md), [manufacturing](../m/manufacturing.md), and more. These companies are selected based on [multiple](../m/multiple.md) criteria such as [market capitalization](../m/market_capitalization.md), [liquidity](../l/liquidity.md), [revenue](../r/revenue.md), and continuity of listings. The [index](../i/index.md) aims to provide a well-rounded picture of the overall health of the [market](../m/market.md).
+The Sensex consists of 30 companies across various sectors, including IT, [finance](../f/finance.md), [manufacturing](../m/manufacturing.md), and more. These companies are selected based on [multiple](../m/multiple.md) criteria such as [market capitalization](../m/market_capitalization.md), [liquidity](../l/liquidity.md), [revenue](../r/revenue.md), and continuity of listings. The [index](../i/index_instrument.md) aims to provide a well-rounded picture of the overall health of the [market](../m/market.md).
 
 ### Sector Representation
 - **Information Technology**: TCS, Infosys
@@ -23,18 +23,18 @@ The Sensex consists of 30 companies across various sectors, including IT, [finan
 - **Energy**: Reliance Industries, ONGC
 - **[Manufacturing](../m/manufacturing.md)**: Tata Steel, Mahindra & Mahindra
 
-The list of companies is reviewed periodically to ensure they meet the eligibility criteria, ensuring the [index](../i/index.md) remains relevant.
+The list of companies is reviewed periodically to ensure they meet the eligibility criteria, ensuring the [index](../i/index_instrument.md) remains relevant.
 
 ## Calculation of Sensex
 
-The Sensex is calculated using a free-[float](../f/float.md) [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) methodology. This means each company's weight in the [index](../i/index.md) is proportional to its [market value](../m/market_value.md), adjusted for the number of [shares](../s/shares.md) available for trading.
+The Sensex is calculated using a free-[float](../f/float.md) [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) methodology. This means each company's weight in the [index](../i/index_instrument.md) is proportional to its [market value](../m/market_value.md), adjusted for the number of [shares](../s/shares.md) available for trading.
 
 ### Steps Involved
 1. **Free-[Float](../f/float.md) [Market Capitalization](../m/market_capitalization.md)**: Total [market](../m/market.md) cap of a company multiplied by its free-[float](../f/float.md) [factor](../f/factor.md).
 2. **[Market Capitalization](../m/market_capitalization.md)**: Sum of free-[float](../f/float.md) [market](../m/market.md) cap of all 30 companies.
-3. **[Index](../i/index.md) [Value](../v/value.md)**: (Current [Market](../m/market.md) Cap / Base [Market](../m/market.md) Cap) * Base [Index](../i/index.md) [Value](../v/value.md).
+3. **[Index](../i/index_instrument.md) [Value](../v/value.md)**: (Current [Market](../m/market.md) Cap / Base [Market](../m/market.md) Cap) * Base [Index](../i/index_instrument.md) [Value](../v/value.md).
 
-The [base year](../b/base_year.md) for calculating the Sensex is 1978–79, and the base [index](../i/index.md) [value](../v/value.md) is set to 100. The formula ensures that the Sensex reflects real [market](../m/market.md) movements and is not overly influenced by individual companies.
+The [base year](../b/base_year.md) for calculating the Sensex is 1978–79, and the base [index](../i/index_instrument.md) [value](../v/value.md) is set to 100. The formula ensures that the Sensex reflects real [market](../m/market.md) movements and is not overly influenced by individual companies.
 
 ## Significance in Financial Markets
 
@@ -42,7 +42,7 @@ The [base year](../b/base_year.md) for calculating the Sensex is 1978–79, and 
 The Sensex serves as a barometer for [investor](../i/investor.md) sentiment. A rising Sensex usually signifies economic confidence, whereas a falling Sensex could indicate [market](../m/market.md) pessimism.
 
 ### Benchmark for Funds
-Many mutual funds and [Exchange](../e/exchange.md)-Traded Funds (ETFs) use the Sensex as a [benchmark](../b/benchmark.md). The performance of these funds is often compared against the [index](../i/index.md) to evaluate their effectiveness.
+Many mutual funds and [Exchange](../e/exchange.md)-Traded Funds (ETFs) use the Sensex as a [benchmark](../b/benchmark.md). The performance of these funds is often compared against the [index](../i/index_instrument.md) to evaluate their effectiveness.
 
 ### Financial Instruments
 The Sensex is also the [basis](../b/basis.md) for various financial instruments such as [derivatives](../d/derivatives.md)—[futures](../f/futures.md) and [options](../o/options.md) contracts—allowing for hedging and speculative strategies.

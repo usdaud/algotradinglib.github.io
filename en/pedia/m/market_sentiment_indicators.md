@@ -14,9 +14,9 @@
 
 - **Put/Call Ratio**: The put/call ratio is derived from the [options](../o/options.md) [market](../m/market.md) and indicates the trading [volume](../v/volume.md) of [put options](../p/put_options.md) relative to call [options](../o/options.md). A higher put/call ratio suggests that more traders are purchasing [put options](../p/put_options.md), which generally indicates bearish sentiment. Conversely, a lower ratio indicates bullish sentiment.
 
-- **VIX ([Volatility](../v/volatility.md) [Index](../i/index.md))**: Often referred to as the "fear gauge," the VIX measures the [market](../m/market.md)'s expectation of future [volatility](../v/volatility.md) based on the prices of [options](../o/options.md) on the S&P 500 [index](../i/index.md). Higher VIX values indicate increased [investor](../i/investor.md) fear and pessimism, while lower values suggest complacency and optimism. More information can be found on the [CBOE (Chicago Board Options Exchange)](http://www.cboe.com/vix).
+- **VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md))**: Often referred to as the "fear gauge," the VIX measures the [market](../m/market.md)'s expectation of future [volatility](../v/volatility.md) based on the prices of [options](../o/options.md) on the S&P 500 [index](../i/index_instrument.md). Higher VIX values indicate increased [investor](../i/investor.md) fear and pessimism, while lower values suggest complacency and optimism. More information can be found on the [CBOE (Chicago Board Options Exchange)](http://www.cboe.com/vix).
 
-- **[High-Low Index](../h/high-low_index.md)**: This [index](../i/index.md) compares the number of [stocks](../s/stock.md) making new 52-week highs to those making new 52-week lows. A high [index](../i/index.md) [value](../v/value.md) suggests optimistic [market sentiment](../m/market_sentiment.md), as more [stocks](../s/stock.md) are achieving new highs, whereas a low [value](../v/value.md) indicates pessimism.
+- **[High-Low Index](../h/high-low_index.md)**: This [index](../i/index_instrument.md) compares the number of [stocks](../s/stock.md) making new 52-week highs to those making new 52-week lows. A high [index](../i/index_instrument.md) [value](../v/value.md) suggests optimistic [market sentiment](../m/market_sentiment.md), as more [stocks](../s/stock.md) are achieving new highs, whereas a low [value](../v/value.md) indicates pessimism.
 
 ### Social Media and News Sentiment
 
@@ -42,7 +42,7 @@ Understanding [market sentiment](../m/market_sentiment.md) allows traders to gau
 
 ### The Bullish Percent Index (BPI)
 
-The Bullish Percent [Index](../i/index.md) tracks the percentage of [stocks](../s/stock.md) within a particular [market](../m/market.md) that are trading with bullish [chart patterns](../c/chart_patterns.md) according to point-and-figure charting. It helps traders understand the percentage of [stocks](../s/stock.md) with upward trajectories within an [index](../i/index.md).
+The Bullish Percent [Index](../i/index_instrument.md) tracks the percentage of [stocks](../s/stock.md) within a particular [market](../m/market.md) that are trading with bullish [chart patterns](../c/chart_patterns.md) according to point-and-figure charting. It helps traders understand the percentage of [stocks](../s/stock.md) with upward trajectories within an [index](../i/index_instrument.md).
 
 ### The Commitment of Traders (COT) Report
 

@@ -119,11 +119,11 @@ Selling straddles or strangles involves selling call and [put options](../p/put_
 
 ## 6. Leveraged Yield Products
 
-Leveraged [yield](../y/yield.md) products are financial instruments that provide amplified exposure to the [underlying asset](../u/underlying_asset.md) or [index](../i/index.md).
+Leveraged [yield](../y/yield.md) products are financial instruments that provide amplified exposure to the [underlying asset](../u/underlying_asset.md) or [index](../i/index_instrument.md).
 
 ### Leveraged ETFs
 
-[Leveraged ETFs](../l/leveraged_etfs.md) aim to deliver multiples of the daily performance of the [underlying](../u/underlying.md) [index](../i/index.md), [commodity](../c/commodity.md), or [asset](../a/asset.md). These ETFs can be used to enhance [yield](../y/yield.md) through magnified exposure.
+[Leveraged ETFs](../l/leveraged_etfs.md) aim to deliver multiples of the daily performance of the [underlying](../u/underlying.md) [index](../i/index_instrument.md), [commodity](../c/commodity.md), or [asset](../a/asset.md). These ETFs can be used to enhance [yield](../y/yield.md) through magnified exposure.
 
 **Advantages:**
 - Potential for high returns if the [underlying asset](../u/underlying_asset.md) moves favorably.

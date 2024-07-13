@@ -22,7 +22,7 @@ To identify V-Shaped patterns effectively, traders often rely on a combination o
 
 ### Technical Indicators
 1. **Moving Averages**: Moving averages can help smooth out price data to detect sudden changes indicative of a V-Shape.
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI can identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions that often precede sharp price reversals.
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI can identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions that often precede sharp price reversals.
 3. **[Volume Indicators](../v/volume_indicators.md)**: Analyzing [volume](../v/volume.md) can help confirm the strength and validity of the price movement.
 
 ### Chart Patterns

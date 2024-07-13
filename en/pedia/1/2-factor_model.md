@@ -36,7 +36,7 @@ The choice of factors in the 2-[Factor](../f/factor.md) Model is crucial and typ
 ### Implementation Example
 
 Consider an [algorithmic trading](../a/algorithmic_trading.md) system designed to [trade](../t/trade.md) equities. The system uses the 2-[Factor](../f/factor.md) Model with the following factors:
-1. [Market Risk](../m/market_risk.md) (`MKT`): Measured using the S&P 500 [index](../i/index.md).
+1. [Market Risk](../m/market_risk.md) (`MKT`): Measured using the S&P 500 [index](../i/index_instrument.md).
 2. Size (`SMB`): Difference in returns between small-cap and large-cap companies.
 
 The trading algorithm processes these factors and accordingly adjusts the positions in various [stocks](../s/stock.md):

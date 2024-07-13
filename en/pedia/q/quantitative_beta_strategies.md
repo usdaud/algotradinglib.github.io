@@ -6,11 +6,11 @@ Quantitative [beta](../b/beta.md) strategies aim to optimize the returns generat
 
 ### 1. Systematic Beta Capture
 
-Systematic [beta](../b/beta.md) capture involves constructing portfolios that capture the returns of [market](../m/market.md) indices or specific [asset](../a/asset.md) classes systematically. This does not involve active stock picking or [market timing](../m/market_timing.md) but relies on rules-based approaches to track the performance of a [benchmark](../b/benchmark.md) [index](../i/index.md) closely. Examples include [index](../i/index.md) funds and [exchange](../e/exchange.md)-traded funds (ETFs) that replicate the performance of indices like the S&P 500 or MSCI World.
+Systematic [beta](../b/beta.md) capture involves constructing portfolios that capture the returns of [market](../m/market.md) indices or specific [asset](../a/asset.md) classes systematically. This does not involve active stock picking or [market timing](../m/market_timing.md) but relies on rules-based approaches to track the performance of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) closely. Examples include [index](../i/index_instrument.md) funds and [exchange](../e/exchange.md)-traded funds (ETFs) that replicate the performance of indices like the S&P 500 or MSCI World.
 
 #### Techniques Used
 
-1. **Replication Strategies**: These involve direct replication by holding the same securities as in the [benchmark](../b/benchmark.md) [index](../i/index.md) or synthetic replication using [derivatives](../d/derivatives.md) like [futures](../f/futures.md) and swaps to mimic the [index](../i/index.md) returns.
+1. **Replication Strategies**: These involve direct replication by holding the same securities as in the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) or synthetic replication using [derivatives](../d/derivatives.md) like [futures](../f/futures.md) and swaps to mimic the [index](../i/index_instrument.md) returns.
 
 2. **[Optimization](../o/optimization.md) Models**: Techniques like [mean-variance optimization](../m/mean-variance_optimization.md) are used to construct portfolios that achieve the desired [risk](../r/risk.md)-[return](../r/return.md) profile while closely tracking the [benchmark](../b/benchmark.md).
 
@@ -47,7 +47,7 @@ Systematic [beta](../b/beta.md) capture involves constructing portfolios that ca
 #### Types of Smart Beta Strategies
 
 1. **Fundamental Weighting**: Weighting [stocks](../s/stock.md) based on economic factors like sales, [cash flow](../c/cash_flow.md), [book value](../b/book_value.md), and dividends.
-2. **Equal Weighting**: Assigning equal weights to all constituents in an [index](../i/index.md), increasing exposure to smaller companies.
+2. **Equal Weighting**: Assigning equal weights to all constituents in an [index](../i/index_instrument.md), increasing exposure to smaller companies.
 3. **Minimum [Volatility](../v/volatility.md)**: Creating portfolios with lower overall [volatility](../v/volatility.md) through [covariance](../c/covariance.md) and variance [optimization](../o/optimization.md) techniques.
 4. **[Dividend](../d/dividend.md)-[Weighted](../w/weighted.md)**: Focusing on [stocks](../s/stock.md) with high [dividend](../d/dividend.md) yields.
 

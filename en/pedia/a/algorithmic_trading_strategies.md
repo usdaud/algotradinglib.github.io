@@ -8,7 +8,7 @@
 
 - **Channel Breakouts**: In this strategy, a buy [order](../o/order.md) is triggered when the price breaks above a predetermined resistance level, while a sell [order](../o/order.md) is flagged when it drops below a support level. The Donchian Channel is a quintessential example of this strategy.
 
-- **[Momentum Indicators](../m/momentum_indicators.md)**: These indicators measure the velocity of price movements. Popular ones include the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and the Moving Average Convergence [Divergence](../d/divergence.md) (MACD).
+- **[Momentum Indicators](../m/momentum_indicators.md)**: These indicators measure the velocity of price movements. Popular ones include the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and the Moving Average Convergence [Divergence](../d/divergence.md) (MACD).
 
 ## 2. Mean Reversion Strategies
 

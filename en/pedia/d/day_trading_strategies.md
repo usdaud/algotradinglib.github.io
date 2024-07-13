@@ -31,7 +31,7 @@ A [trader](../t/trader.md) identifies a stock with low [volatility](../v/volatil
 
 1. **[Trend Following](../t/trend_following.md)**: Looking for [stocks](../s/stock.md) that are trending strongly.
 2. **[Volume Analysis](../v/volume_analysis.md)**: Focus on [stocks](../s/stock.md) with significant [volume](../v/volume.md) changes.
-3. **Entry and Exit Signals**: Using [technical indicators](../t/technical_indicators.md) like Moving Average Convergence [Divergence](../d/divergence.md) (MACD) or [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI).
+3. **Entry and Exit Signals**: Using [technical indicators](../t/technical_indicators.md) like Moving Average Convergence [Divergence](../d/divergence.md) (MACD) or [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 
 ### Tools for Momentum Trading:
 

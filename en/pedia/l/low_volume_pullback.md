@@ -32,7 +32,7 @@ Several [technical analysis tools](../t/technical_analysis_tools.md) and indicat
 
 4. **[Stochastic Oscillator](../s/stochastic_oscillator.md)**: This [momentum](../m/momentum.md) [indicator](../i/indicator.md) can help identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions, which might coincide with pullbacks.
 
-5. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI can indicate the strength of the price movement and help traders determine whether a [pullback](../p/pullback.md) is a buying opportunity.
+5. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI can indicate the strength of the price movement and help traders determine whether a [pullback](../p/pullback.md) is a buying opportunity.
 
 ## Strategies for Trading Low Volume Pullbacks
 

@@ -58,7 +58,7 @@ Visit [Berkshire Hathaway](https://www.berkshirehathaway.com) to learn more.
 [Benjamin Graham](../b/benjamin_graham.md) is often considered the father of [value investing](../v/value_investing.md). His works, including "The Intelligent [Investor](../i/investor.md)" and "[Security Analysis](../s/security_analysis.md)," continue to be essential reading for [value](../v/value.md) investors. His emphasis on [margin of safety](../m/margin_of_safety.md) and [intrinsic value](../i/intrinsic_value.md) has shaped modern investment philosophies.
 
 ### 3. John Bogle
-[John Bogle](../j/john_bogle.md) was the founder of Vanguard Group and a key proponent of [index investing](../i/index_investing.md). He introduced the first [index](../i/index.md) [mutual fund](../m/mutual_fund.md) available to the general public and advocated for low-cost, [passive investment strategies](../p/passive_investment_strategies.md). His philosophy centers on buying and holding low-cost [index](../i/index.md) funds to match [market](../m/market.md) performance.
+[John Bogle](../j/john_bogle.md) was the founder of Vanguard Group and a key proponent of [index investing](../i/index_investing.md). He introduced the first [index](../i/index_instrument.md) [mutual fund](../m/mutual_fund.md) available to the general public and advocated for low-cost, [passive investment strategies](../p/passive_investment_strategies.md). His philosophy centers on buying and holding low-cost [index](../i/index_instrument.md) funds to match [market](../m/market.md) performance.
 
 Visit [Vanguard](https://www.vanguard.com) to learn more.
 

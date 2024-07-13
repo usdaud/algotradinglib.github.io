@@ -44,7 +44,7 @@ While variable-rate CDs present numerous benefits, they also carry inherent risk
 ### **Understanding Terms and Conditions**
 
 Before [investing](../i/investing.md), review the CD's [disclosure](../d/disclosure.md) statement carefully, which should outline:
-- The [index](../i/index.md) or [benchmark](../b/benchmark.md) the CD's rate is tied to.
+- The [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md) the CD's rate is tied to.
 - The frequency of rate adjustments.
 - Any rate caps or floors.
 - Early [withdrawal](../w/withdrawal.md) penalties.

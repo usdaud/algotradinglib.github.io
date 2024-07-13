@@ -1,6 +1,6 @@
 # Wilder's RSI
 
-Wilder's [Relative Strength](../r/relative_strength.md) [Index](../i/index.md), commonly referred to as RSI, is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) developed by J. Welles Wilder. It measures the speed and change of price movements and is primarily used in [technical analysis](../t/technical_analysis.md) of [financial markets](../f/financial_market.md). Initially introduced in Wilder's 1978 book, "New Concepts in Technical [Trading Systems](../t/trading_systems.md)," the RSI has since become a fundamental tool for traders and analysts across various [asset](../a/asset.md) markets, including [stocks](../s/stock.md), commodities, and forex.
+Wilder's [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md), commonly referred to as RSI, is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) developed by J. Welles Wilder. It measures the speed and change of price movements and is primarily used in [technical analysis](../t/technical_analysis.md) of [financial markets](../f/financial_market.md). Initially introduced in Wilder's 1978 book, "New Concepts in Technical [Trading Systems](../t/trading_systems.md)," the RSI has since become a fundamental tool for traders and analysts across various [asset](../a/asset.md) markets, including [stocks](../s/stock.md), commodities, and forex.
 
 ### Key Concepts of RSI
 

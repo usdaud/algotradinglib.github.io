@@ -65,7 +65,7 @@ Several tools and [software platforms](../s/software_platforms_for_trading.md) f
 
 - **RiskMetrics**: RiskMetrics provides comprehensive [risk](../r/risk.md) analytics tools, including CVaR calculation (https://www.msci.com/riskmetrics-analytics).
 - **MATLAB**: MATLAB offers various financial toolboxes that can calculate CVaR for different [asset](../a/asset.md) classes (https://www.mathworks.com/products/financial.html).
-- **R Programming**: The `PerformanceAnalytics` package in R can be used for [financial risk](../f/financial_risk.md) assessment, including CVaR computation (https://cran.r-project.org/web/packages/PerformanceAnalytics/[index](../i/index.md).html).
+- **R Programming**: The `PerformanceAnalytics` package in R can be used for [financial risk](../f/financial_risk.md) assessment, including CVaR computation (https://cran.r-project.org/web/packages/PerformanceAnalytics/[index](../i/index_instrument.md).html).
 
 ### Conclusion
 

@@ -27,7 +27,7 @@ For equities, [tick](../t/tick.md) size is typically $0.01 for [stocks](../s/sto
 
 #### Futures
 
-[Futures contracts](../f/futures_contracts.md) have [tick](../t/tick.md) sizes defined by the [exchange](../e/exchange.md). For example, the S&P 500 [E-mini](../e/e-mini.md) [futures contracts](../f/futures_contracts.md) traded on the Chicago Mercantile [Exchange](../e/exchange.md) (CME) have a [tick](../t/tick.md) size of 0.25 [index](../i/index.md) points.
+[Futures contracts](../f/futures_contracts.md) have [tick](../t/tick.md) sizes defined by the [exchange](../e/exchange.md). For example, the S&P 500 [E-mini](../e/e-mini.md) [futures contracts](../f/futures_contracts.md) traded on the Chicago Mercantile [Exchange](../e/exchange.md) (CME) have a [tick](../t/tick.md) size of 0.25 [index](../i/index_instrument.md) points.
 
 #### Options
 

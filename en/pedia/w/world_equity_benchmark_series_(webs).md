@@ -16,7 +16,7 @@ The first WEBS ETFs were [listed](../l/listed.md) on the American Stock [Exchang
 
 ### Structuring of WEBS ETFs
 
-WEBS ETFs are structured as [open](../o/open.md)-ended investment funds, meaning they can create new [shares](../s/shares.md) or redeem existing [shares](../s/shares.md) in response to [investor](../i/investor.md) [demand](../d/demand.md). This structure allows the ETFs to remain closely aligned with the [value](../v/value.md) of the [underlying](../u/underlying.md) assets, as the [supply](../s/supply.md) of [shares](../s/shares.md) can be adjusted based on inflows and outflows. Each WEBS ETF holds a diversified portfolio of securities that replicate the performance of the respective MSCI [index](../i/index.md) it tracks.
+WEBS ETFs are structured as [open](../o/open.md)-ended investment funds, meaning they can create new [shares](../s/shares.md) or redeem existing [shares](../s/shares.md) in response to [investor](../i/investor.md) [demand](../d/demand.md). This structure allows the ETFs to remain closely aligned with the [value](../v/value.md) of the [underlying](../u/underlying.md) assets, as the [supply](../s/supply.md) of [shares](../s/shares.md) can be adjusted based on inflows and outflows. Each WEBS ETF holds a diversified portfolio of securities that replicate the performance of the respective MSCI [index](../i/index_instrument.md) it tracks.
 
 ### Diversification and Market Exposure
 
@@ -66,13 +66,13 @@ By facilitating convenient and cost-effective access to international equities, 
 
 ### Encouragement of Index-Investment Approach
 
-The popularity of WEBS ETFs has spurred the growth of the [index](../i/index.md)-investment approach. Investors have increasingly recognized the advantages of [passive investment strategies](../p/passive_investment_strategies.md), including lower fees, broad [diversification](../d/diversification.md), and [transparency](../t/transparency.md). As a result, the assets under management (AUM) in [index](../i/index.md)-tracking ETFs have grown substantially.
+The popularity of WEBS ETFs has spurred the growth of the [index](../i/index_instrument.md)-investment approach. Investors have increasingly recognized the advantages of [passive investment strategies](../p/passive_investment_strategies.md), including lower fees, broad [diversification](../d/diversification.md), and [transparency](../t/transparency.md). As a result, the assets under management (AUM) in [index](../i/index_instrument.md)-tracking ETFs have grown substantially.
 
 ## Evolution and Rebranding
 
 ### Transition to iShares
 
-In 2000, Barclays Global Investors acquired the rights to the WEBS [product line](../p/product_line.md) and rebranded them as [iShares](../i/ishares.md) MSCI [Index](../i/index.md) Funds. This rebranding was a part of a broader strategy to create a comprehensive suite of ETF products under the [iShares](../i/ishares.md) banner, which has since become one of the most prominent names in the ETF [industry](../i/industry.md). In 2009, BlackRock acquired Barclays Global Investors, bringing the [iShares](../i/ishares.md) brand under its management.
+In 2000, Barclays Global Investors acquired the rights to the WEBS [product line](../p/product_line.md) and rebranded them as [iShares](../i/ishares.md) MSCI [Index](../i/index_instrument.md) Funds. This rebranding was a part of a broader strategy to create a comprehensive suite of ETF products under the [iShares](../i/ishares.md) banner, which has since become one of the most prominent names in the ETF [industry](../i/industry.md). In 2009, BlackRock acquired Barclays Global Investors, bringing the [iShares](../i/ishares.md) brand under its management.
 
 ### Expansion of Product Offerings
 

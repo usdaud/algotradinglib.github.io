@@ -12,7 +12,7 @@ For example, if the YMPE for a given year is CAD 61,600, any annual salary or wa
 
 The Government of Canada adjusts the YMPE each year according to the growth in average wages and salaries in the country. This ensures that the CPP contributions are in line with prevailing [economic conditions](../e/economic_conditions.md). The formula for determining YMPE takes into account:
 
-- The average wage [index](../i/index.md) (AWI)
+- The average wage [index](../i/index_instrument.md) (AWI)
 - Historical wage data 
 - Economic projections
 

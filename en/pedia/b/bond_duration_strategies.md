@@ -81,7 +81,7 @@ Active strategies aim to exploit expected changes in [interest](../i/interest.md
    
 2. **BlackRock**: BlackRock employs [duration](../d/duration.md)-based strategies to manage its extensive [bond](../b/bond.md) portfolios, focusing on both passive and [active management](../a/active_management.md) techniques to optimize [risk](../r/risk.md)-adjusted returns. [Website](https://www.blackrock.com)
 
-3. **Vanguard**: Vanguard relies on [duration](../d/duration.md) management as a core component of its [bond](../b/bond.md) [investment strategy](../i/investment_strategy.md), balancing passive [index](../i/index.md) tracking with active [duration](../d/duration.md) adjustments to enhance performance. [Website](https://www.vanguard.com)
+3. **Vanguard**: Vanguard relies on [duration](../d/duration.md) management as a core component of its [bond](../b/bond.md) [investment strategy](../i/investment_strategy.md), balancing passive [index](../i/index_instrument.md) tracking with active [duration](../d/duration.md) adjustments to enhance performance. [Website](https://www.vanguard.com)
 
 ## Conclusion
 

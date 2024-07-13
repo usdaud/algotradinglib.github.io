@@ -34,7 +34,7 @@ Dollar-cost averaging involves consistently [investing](../i/investing.md) a fix
 Conversely, [growth investing](../g/growth_investing.md) targets companies expected to grow at an above-average rate compared to other firms. These investments can be more volatile but [offer](../o/offer.md) potentially higher returns.
 
 ### Indexing
-[Indexing](../i/indexing.md) involves [investing](../i/investing.md) in [index](../i/index.md) funds or ETFs that replicate the performance of a particular [market index](../m/market_index.md). This passive [investment strategy](../i/investment_strategy.md) aims to achieve [market](../m/market.md)-average returns and is often associated with lower fees and expenses.
+[Indexing](../i/indexing.md) involves [investing](../i/investing.md) in [index](../i/index_instrument.md) funds or ETFs that replicate the performance of a particular [market index](../m/market_index.md). This passive [investment strategy](../i/investment_strategy.md) aims to achieve [market](../m/market.md)-average returns and is often associated with lower fees and expenses.
 
 ### Algorithmic Trading
 [Algorithmic trading](../a/accountability.md) uses computer algorithms to execute trades automatically based on predefined criteria. This strategy can be particularly effective in fast-paced markets, [offering](../o/offering.md) the potential for high-frequency trading and minimizing the impact of human error.

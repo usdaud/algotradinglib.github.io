@@ -30,7 +30,7 @@ Uncertainty is a fundamental aspect of [financial markets](../f/financial_market
 
 ## Measuring Uncertainty
 
-1. **[Volatility](../v/volatility.md)**: One of the primary metrics used to quantify uncertainty in trading. [Historical volatility](../h/historical_volatility.md) measures past [market](../m/market.md) movements, whereas implied [volatility](../v/volatility.md) gauges [market](../m/market.md) expectations of future [volatility](../v/volatility.md). Instruments like the VIX [index](../i/index.md) are often used to measure [market](../m/market.md) [volatility](../v/volatility.md).
+1. **[Volatility](../v/volatility.md)**: One of the primary metrics used to quantify uncertainty in trading. [Historical volatility](../h/historical_volatility.md) measures past [market](../m/market.md) movements, whereas implied [volatility](../v/volatility.md) gauges [market](../m/market.md) expectations of future [volatility](../v/volatility.md). Instruments like the VIX [index](../i/index_instrument.md) are often used to measure [market](../m/market.md) [volatility](../v/volatility.md).
 
 2. **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR)**: VaR estimates the potential loss in [value](../v/value.md) of a portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md). It is a widely used [risk](../r/risk.md) measure but has limitations, especially during extreme [market](../m/market.md) turmoil.
 

@@ -26,15 +26,15 @@ Different exchanges have varying rules for limit down mechanisms. Here are some 
 
 The NYSE uses a system called "Circuit Breakers" to manage extreme [volatility](../v/volatility.md). These are divided into three levels:
 
-1. **Level 1**: Triggered if the S&P 500 [Index](../i/index.md) drops by 7% from the previous day's close. Trading is halted for 15 minutes.
-2. **Level 2**: Triggered if the S&P 500 [Index](../i/index.md) drops by 13%. Similar to Level 1, trading halts for 15 minutes.
-3. **Level 3**: Triggered if the S&P 500 [Index](../i/index.md) drops by 20%. Trading halts for the remainder of the day.
+1. **Level 1**: Triggered if the S&P 500 [Index](../i/index_instrument.md) drops by 7% from the previous day's close. Trading is halted for 15 minutes.
+2. **Level 2**: Triggered if the S&P 500 [Index](../i/index_instrument.md) drops by 13%. Similar to Level 1, trading halts for 15 minutes.
+3. **Level 3**: Triggered if the S&P 500 [Index](../i/index_instrument.md) drops by 20%. Trading halts for the remainder of the day.
 
 ### Chicago Mercantile Exchange (CME)
 
 The CME has a complex system that depends on the specific [futures contract](../f/futures_contract.md). For example:
 
-1. **[Equity](../e/equity.md) [Index Futures](../i/index_futures.md)**: CME uses price limits based on the [percentage change](../p/percentage_change.md) of the [underlying](../u/underlying.md) [index](../i/index.md), similar to the NYSE system but tailored for [futures](../f/futures.md) trading.
+1. **[Equity](../e/equity.md) [Index Futures](../i/index_futures.md)**: CME uses price limits based on the [percentage change](../p/percentage_change.md) of the [underlying](../u/underlying.md) [index](../i/index_instrument.md), similar to the NYSE system but tailored for [futures](../f/futures.md) trading.
 2. **[Commodity Futures](../c/commodity_futures.md)**: Limits vary significantly. For example, corn [futures](../f/futures.md) might have a daily limit of 25 cents per bushel, whereas [crude oil](../c/crude_oil.md) [futures](../f/futures.md) have different thresholds.
 
 ## Impact on Trading Strategies

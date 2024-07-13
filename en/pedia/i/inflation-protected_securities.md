@@ -1,6 +1,6 @@
 # Inflation-Protected Securities
 
-[Inflation](../i/inflation.md)-protected securities (IPS) are a type of investment instrument designed to protect investors from the eroding effects of [inflation](../i/inflation.md). These securities are typically linked to an [underlying](../u/underlying.md) [inflation](../i/inflation.md) [index](../i/index.md), such as the Consumer Price [Index](../i/index.md) (CPI), ensuring that the [value](../v/value.md) of the investment adjusts in accordance with the rate of [inflation](../i/inflation.md). This intrinsic link to [inflation](../i/inflation.md) makes IPS a valuable tool for preserving [purchasing power](../p/purchasing_power.md) over time, especially in periods of rising prices.
+[Inflation](../i/inflation.md)-protected securities (IPS) are a type of investment instrument designed to protect investors from the eroding effects of [inflation](../i/inflation.md). These securities are typically linked to an [underlying](../u/underlying.md) [inflation](../i/inflation.md) [index](../i/index_instrument.md), such as the Consumer Price [Index](../i/index_instrument.md) (CPI), ensuring that the [value](../v/value.md) of the investment adjusts in accordance with the rate of [inflation](../i/inflation.md). This intrinsic link to [inflation](../i/inflation.md) makes IPS a valuable tool for preserving [purchasing power](../p/purchasing_power.md) over time, especially in periods of rising prices.
 
 ## Concepts and Mechanics
 
@@ -16,7 +16,7 @@ TIPS are U.S. government bonds specifically designed to protect investors from [
 Series I Bonds are [U.S. savings bonds](../u/u.s._savings_bonds.md) that also [offer](../o/offer.md) [inflation](../i/inflation.md) protection. They provide a [fixed interest rate](../f/fixed_interest_rate.md), plus an [inflation](../i/inflation.md)-adjusted rate that is reset twice a year based on changes in the CPI. Unlike TIPS, Series I Bonds are purchased at [face value](../f/face_value.md) and are redeemed at [maturity](../m/maturity.md).
 
 #### Other National Inflation-Indexed Bonds
-Many countries [issue](../i/issue.md) their own versions of [inflation](../i/inflation.md)-indexed bonds. For instance, the UK issues [Index](../i/index.md)-Linked [Gilts](../g/gilts.md), Germany has its [Inflation](../i/inflation.md)-Linked Federal Bonds (Bunds), and Canada offers Real [Return](../r/return.md) Bonds (RRBs). Each of these securities adjusts for [inflation](../i/inflation.md) based on their national consumer price indices.
+Many countries [issue](../i/issue.md) their own versions of [inflation](../i/inflation.md)-indexed bonds. For instance, the UK issues [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md), Germany has its [Inflation](../i/inflation.md)-Linked Federal Bonds (Bunds), and Canada offers Real [Return](../r/return.md) Bonds (RRBs). Each of these securities adjusts for [inflation](../i/inflation.md) based on their national consumer price indices.
 
 ## Advantages of Inflation-Protected Securities
 

@@ -10,7 +10,7 @@ World Funds are financial vehicles specifically designed to invest in a wide arr
 
 1. **Global Mutual Funds**: These are [open](../o/open.md)-end funds that pool [money](../m/money.md) from [multiple](../m/multiple.md) investors to purchase a diversified portfolio of international securities. Global mutual funds are actively managed, meaning [fund](../f/fund.md) managers make decisions on purchasing and selling assets to [outperform](../o/outperform.md) [benchmark](../b/benchmark.md) indices.
 
-2. **[Exchange](../e/exchange.md)-Traded Funds (ETFs)**: These funds [offer](../o/offer.md) a passive investment option, usually tracking an international [index](../i/index.md) like the MSCI World [Index](../i/index.md) or the FTSE All-World [Index](../i/index.md). ETFs [trade](../t/trade.md) on stock exchanges, allowing investors to buy and sell [shares](../s/shares.md) throughout the trading day.
+2. **[Exchange](../e/exchange.md)-Traded Funds (ETFs)**: These funds [offer](../o/offer.md) a passive investment option, usually tracking an international [index](../i/index_instrument.md) like the MSCI World [Index](../i/index_instrument.md) or the FTSE All-World [Index](../i/index_instrument.md). ETFs [trade](../t/trade.md) on stock exchanges, allowing investors to buy and sell [shares](../s/shares.md) throughout the trading day.
 
 3. **[Private Equity](../p/private_equity.md) Funds**: These funds invest in private companies around the world. They usually follow a longer-term [investment horizon](../i/investment_horizon.md) and may engage in [venture capital](../v/venture_capital.md), buyouts, and other strategies to achieve their objectives.
 

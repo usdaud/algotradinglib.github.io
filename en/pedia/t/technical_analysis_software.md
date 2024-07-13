@@ -5,7 +5,7 @@
 ## Key Features of Technical Analysis Software
 
 ### 1. **Technical Indicators**
-[Technical analysis](../t/technical_analysis.md) software offers a variety of [technical indicators](../t/technical_indicators.md), which are mathematical calculations based on historical price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) information. Common indicators include Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)).
+[Technical analysis](../t/technical_analysis.md) software offers a variety of [technical indicators](../t/technical_indicators.md), which are mathematical calculations based on historical price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) information. Common indicators include Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)).
 
 ### 2. **Charting Tools**
 Charting tools provide visual representations of [market](../m/market.md) data through different types of charts such as line, bar, and [candlestick](../c/candlestick.md) charts. These charts help traders to spot trends, reversals, and patterns.

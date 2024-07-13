@@ -1,6 +1,6 @@
 # Equity Derivative
 
-An [equity](../e/equity.md) [derivative](../d/derivative.md) is a [financial instrument](../f/financial_instrument.md) whose [value](../v/value.md) is based on the [equity](../e/equity.md) movements of the [underlying asset](../u/underlying_asset.md), typically a stock or a stock [index](../i/index.md). These [derivatives](../d/derivatives.md) are used for various purposes, including hedging risks, speculating on future movements, and leveraging positions. They come in many forms, including [options](../o/options.md), [futures](../f/futures.md), swaps, and structured products. 
+An [equity](../e/equity.md) [derivative](../d/derivative.md) is a [financial instrument](../f/financial_instrument.md) whose [value](../v/value.md) is based on the [equity](../e/equity.md) movements of the [underlying asset](../u/underlying_asset.md), typically a stock or a stock [index](../i/index_instrument.md). These [derivatives](../d/derivatives.md) are used for various purposes, including hedging risks, speculating on future movements, and leveraging positions. They come in many forms, including [options](../o/options.md), [futures](../f/futures.md), swaps, and structured products. 
 
 ## Types of Equity Derivatives
 
@@ -13,11 +13,11 @@ An [equity](../e/equity.md) [derivative](../d/derivative.md) is a [financial ins
 
 ### Futures
 
-[Equity](../e/equity.md) [futures](../f/futures.md) are contracts to buy or sell a specific quantity of a stock or a stock [index](../i/index.md) at a predetermined future date and price. Unlike [options](../o/options.md), [futures](../f/futures.md) obligate the holder to complete the [transaction](../t/transaction.md).
+[Equity](../e/equity.md) [futures](../f/futures.md) are contracts to buy or sell a specific quantity of a stock or a stock [index](../i/index_instrument.md) at a predetermined future date and price. Unlike [options](../o/options.md), [futures](../f/futures.md) obligate the holder to complete the [transaction](../t/transaction.md).
 
 ### Swaps
 
-[Equity](../e/equity.md) swaps involve the [exchange](../e/exchange.md) of future cash flows based on the [underlying](../u/underlying.md) [equity](../e/equity.md) [index](../i/index.md) or stock. The two parties agree to [swap](../s/swap.md) the returns of one [asset](../a/asset.md) for another, typically exchanging a [floating interest rate](../f/floating_interest_rate.md) for the performance of a stock or stock [index](../i/index.md).
+[Equity](../e/equity.md) swaps involve the [exchange](../e/exchange.md) of future cash flows based on the [underlying](../u/underlying.md) [equity](../e/equity.md) [index](../i/index_instrument.md) or stock. The two parties agree to [swap](../s/swap.md) the returns of one [asset](../a/asset.md) for another, typically exchanging a [floating interest rate](../f/floating_interest_rate.md) for the performance of a stock or stock [index](../i/index_instrument.md).
 
 ### Structured Products
 
@@ -45,7 +45,7 @@ Traders engage in [arbitrage](../a/arbitrage.md) by exploiting price differences
 
 ### Market Risk
 
-The [value](../v/value.md) of [equity derivatives](../e/equity_derivatives.md) is largely influenced by the price movements of the [underlying](../u/underlying.md) stock or [index](../i/index.md). [Volatility](../v/volatility.md) in the markets can lead to significant gains or losses. 
+The [value](../v/value.md) of [equity derivatives](../e/equity_derivatives.md) is largely influenced by the price movements of the [underlying](../u/underlying.md) stock or [index](../i/index_instrument.md). [Volatility](../v/volatility.md) in the markets can lead to significant gains or losses. 
 
 ### Credit Risk
 

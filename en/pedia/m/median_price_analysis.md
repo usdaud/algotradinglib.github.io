@@ -55,7 +55,7 @@ print(data)
 
 ### Advanced Usage
 
-For more advanced applications, traders can use the [median](../m/median.md) price in conjunction with other indicators such as [Bollinger Bands](../b/bollinger_bands.md), the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and Moving Averages to build sophisticated [trading models](../t/trading_models.md).
+For more advanced applications, traders can use the [median](../m/median.md) price in conjunction with other indicators such as [Bollinger Bands](../b/bollinger_bands.md), the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and Moving Averages to build sophisticated [trading models](../t/trading_models.md).
 
 ### Example 1: Bollinger Bands with Median Price
 

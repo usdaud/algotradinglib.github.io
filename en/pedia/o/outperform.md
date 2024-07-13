@@ -1,6 +1,6 @@
 # Outperform
 
-**Outperform** is a term used in [financial markets](../f/financial_market.md) to indicate that a particular [asset](../a/asset.md), investment, or [market segment](../m/market_segment.md) is expected to perform better than a [benchmark](../b/benchmark.md) [index](../i/index.md) or [market](../m/market.md) average. Financial analysts and investment firms often use this term to convey their expectations about a stock, [bond](../b/bond.md), or [mutual fund](../m/mutual_fund.md)'s future performance compared to a broader [market index](../m/market_index.md), such as the S&P 500 or the Russell 2000.
+**Outperform** is a term used in [financial markets](../f/financial_market.md) to indicate that a particular [asset](../a/asset.md), investment, or [market segment](../m/market_segment.md) is expected to perform better than a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) or [market](../m/market.md) average. Financial analysts and investment firms often use this term to convey their expectations about a stock, [bond](../b/bond.md), or [mutual fund](../m/mutual_fund.md)'s future performance compared to a broader [market index](../m/market_index.md), such as the S&P 500 or the Russell 2000.
 
 Outperform is also one of the several ratings that analysts use to give investment recommendations. Other common ratings include "[Underperform](../u/underperform.md)," "[Neutral](../n/neutral.md)," "Buy," and "Sell." The term is particularly relevant in the context of [equity research](../e/equity_research.md), [portfolio management](../p/par.md), and [financial analysis](../f/financial_analysis.md).
 
@@ -8,11 +8,11 @@ Outperform is also one of the several ratings that analysts use to give investme
 
 ### Benchmark Index
 
-A *[benchmark](../b/benchmark.md) [index](../i/index.md)* is a standard against which the performance of a [security](../s/security.md), [mutual fund](../m/mutual_fund.md), or [investment manager](../i/investment_manager.md) can be measured. Common [benchmark](../b/benchmark.md) indices include the S&P 500, Dow Jones Industrial Average, and [NASDAQ](../n/nasdaq.md) Composite for U.S. equities, as well as the MSCI World [Index](../i/index.md) for [global equities](../g/global_equities.md).
+A *[benchmark](../b/benchmark.md) [index](../i/index_instrument.md)* is a standard against which the performance of a [security](../s/security.md), [mutual fund](../m/mutual_fund.md), or [investment manager](../i/investment_manager.md) can be measured. Common [benchmark](../b/benchmark.md) indices include the S&P 500, Dow Jones Industrial Average, and [NASDAQ](../n/nasdaq.md) Composite for U.S. equities, as well as the MSCI World [Index](../i/index_instrument.md) for [global equities](../g/global_equities.md).
 
 ### Analyst Ratings
 
-Financial analysts provide ratings to help investors make informed decisions. These ratings often include terms like "Outperform," "[Underperform](../u/underperform.md)," and "[Neutral](../n/neutral.md)." An "Outperform" [rating](../r/rating.md) suggests that the analyst expects the stock to do better than the overall [market](../m/market.md) or a specific [index](../i/index.md).
+Financial analysts provide ratings to help investors make informed decisions. These ratings often include terms like "Outperform," "[Underperform](../u/underperform.md)," and "[Neutral](../n/neutral.md)." An "Outperform" [rating](../r/rating.md) suggests that the analyst expects the stock to do better than the overall [market](../m/market.md) or a specific [index](../i/index_instrument.md).
 
 ### Risk and Return
 
@@ -40,7 +40,7 @@ Tactical [asset allocation](../a/asset_allocation.md) involves adjusting a portf
 
 ### Alpha
 
-*[Alpha](../a/alpha.md)* is a measure of an investment's performance relative to a [benchmark](../b/benchmark.md) [index](../i/index.md). A positive [alpha](../a/alpha.md) indicates that the investment has outperformed the [index](../i/index.md), while a negative [alpha](../a/alpha.md) indicates underperformance. [Alpha](../a/alpha.md) is often used by [mutual fund](../m/mutual_fund.md) managers and [hedge](../h/hedge.md) funds to evaluate performance.
+*[Alpha](../a/alpha.md)* is a measure of an investment's performance relative to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). A positive [alpha](../a/alpha.md) indicates that the investment has outperformed the [index](../i/index_instrument.md), while a negative [alpha](../a/alpha.md) indicates underperformance. [Alpha](../a/alpha.md) is often used by [mutual fund](../m/mutual_fund.md) managers and [hedge](../h/hedge.md) funds to evaluate performance.
 
 ### Sharpe Ratio
 

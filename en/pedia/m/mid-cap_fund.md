@@ -19,7 +19,7 @@ While [mid-cap](../m/mid-cap.md) funds [offer](../o/offer.md) significant growth
 [Mid-cap](../m/mid-cap.md) funds achieve [diversification](../d/diversification.md) by [investing](../i/investing.md) in a wide [range](../r/range.md) of [mid-cap](../m/mid-cap.md) companies across various sectors. This helps to mitigate the risks associated with [investing](../i/investing.md) in a single company or [industry](../i/industry.md).
 
 ### Active vs. Passive Management
-[Mid-cap](../m/mid-cap.md) funds can be actively or passively managed. Actively managed funds have a team of professional [fund](../f/fund.md) managers who select [stocks](../s/stock.md) based on research and analysis to [outperform](../o/outperform.md) the [market](../m/market.md). Passively managed funds, such as [index](../i/index.md) funds or ETFs, aim to replicate the performance of a specific [mid-cap](../m/mid-cap.md) [index](../i/index.md), such as the S&P MidCap 400 [Index](../i/index.md).
+[Mid-cap](../m/mid-cap.md) funds can be actively or passively managed. Actively managed funds have a team of professional [fund](../f/fund.md) managers who select [stocks](../s/stock.md) based on research and analysis to [outperform](../o/outperform.md) the [market](../m/market.md). Passively managed funds, such as [index](../i/index_instrument.md) funds or ETFs, aim to replicate the performance of a specific [mid-cap](../m/mid-cap.md) [index](../i/index_instrument.md), such as the S&P MidCap 400 [Index](../i/index_instrument.md).
 
 ### Sector Allocation
 [Fund](../f/fund.md) managers often allocate investments across different sectors, such as technology, healthcare, and [consumer goods](../c/consumer_goods.md), to take advantage of growth opportunities and manage sector-specific risks.
@@ -71,13 +71,13 @@ Blend funds invest in a mix of large-cap, [mid-cap](../m/mid-cap.md), and small-
 ## Popular Mid-Cap Funds
 
 ### Vanguard Mid-Cap Index Fund (VIMAX)
-The Vanguard [Mid-Cap](../m/mid-cap.md) [Index Fund](../i/index_fund.md) seeks to track the performance of the CRSP US Mid Cap [Index](../i/index.md), [offering](../o/offering.md) broad exposure to [mid-cap stocks](../m/mid-cap_stocks.md) across various sectors. [More Info](https://investor.vanguard.com/mutual-funds/profile/VIMAX)
+The Vanguard [Mid-Cap](../m/mid-cap.md) [Index Fund](../i/index_fund.md) seeks to track the performance of the CRSP US Mid Cap [Index](../i/index_instrument.md), [offering](../o/offering.md) broad exposure to [mid-cap stocks](../m/mid-cap_stocks.md) across various sectors. [More Info](https://investor.vanguard.com/mutual-funds/profile/VIMAX)
 
 ### T. Rowe Price Mid-Cap Growth Fund (RPMGX)
 The T. Rowe Price [Mid-Cap](../m/mid-cap.md) [Growth Fund](../g/growth_fund.md) focuses on quality [mid-cap](../m/mid-cap.md) companies with strong growth prospects. The [fund](../f/fund.md) aims to achieve long-term [capital](../c/capital.md) appreciation. [More Info](https://www.troweprice.com/personal-investing/funds/rpgrx)
 
 ### Fidelity Mid Cap Enhanced Index Fund (FMEIX)
-The Fidelity Mid Cap Enhanced [Index Fund](../i/index_fund.md) seeks a higher [total return](../t/total_return.md) than that of the Russell Midcap [Index](../i/index.md) by [investing](../i/investing.md) in [mid-cap stocks](../m/mid-cap_stocks.md) with enhanced exposure to [value](../v/value.md) and growth factors. [More Info](https://fundresearch.fidelity.com/mutual-funds/summary/316146548)
+The Fidelity Mid Cap Enhanced [Index Fund](../i/index_fund.md) seeks a higher [total return](../t/total_return.md) than that of the Russell Midcap [Index](../i/index_instrument.md) by [investing](../i/investing.md) in [mid-cap stocks](../m/mid-cap_stocks.md) with enhanced exposure to [value](../v/value.md) and growth factors. [More Info](https://fundresearch.fidelity.com/mutual-funds/summary/316146548)
 
 ## Conclusion
 

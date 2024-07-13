@@ -20,7 +20,7 @@ X-[Trend Indicators](../t/trend_indicators.md) are designed to identify trends, 
 
 [Momentum indicators](../m/momentum_indicators.md) assess the speed or velocity of price movements. Popular [momentum indicators](../m/momentum_indicators.md) used in the X-[Trend](../t/trend.md) suite include:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the speed and change of price movements, indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the speed and change of price movements, indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Stochastic Oscillator](../s/stochastic_oscillator.md):** Compares a particular closing price of a [security](../s/security.md) to a [range](../r/range.md) of its prices over a certain period.
 
 ### 3. **Volume Indicators**
@@ -35,7 +35,7 @@ X-[Trend Indicators](../t/trend_indicators.md) are designed to identify trends, 
 These indicators measure the rate of price change over a given period. Commonly used [volatility](../v/volatility.md) indicators are:
 
 - **[Average True Range](../a/average_true_range_(atr).md) (ATR):** Provides signals to confirm the [volatility](../v/volatility.md) of a [market price](../m/market_price.md).
-- **[Volatility](../v/volatility.md) [Index](../i/index.md) (VIX):** Measures the [market](../m/market.md)'s expectation of near-term [volatility](../v/volatility.md).
+- **[Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX):** Measures the [market](../m/market.md)'s expectation of near-term [volatility](../v/volatility.md).
 
 ## Implementing X-Trend Indicators
 

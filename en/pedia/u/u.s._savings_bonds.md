@@ -27,7 +27,7 @@ Series I Bonds are designed to protect your savings from [inflation](../i/inflat
 
 #### Key Features
 
-- **[Inflation](../i/inflation.md) Protection**: The [inflation](../i/inflation.md) rate is linked to the Consumer Price [Index](../i/index.md) for All Urban Consumers (CPI-U).
+- **[Inflation](../i/inflation.md) Protection**: The [inflation](../i/inflation.md) rate is linked to the Consumer Price [Index](../i/index_instrument.md) for All Urban Consumers (CPI-U).
 - **Purchase Limits**: You can buy up to $10,000 worth of Series I bonds per calendar year.
 - **[Redemption](../r/redemption.md)**: They too can be redeemed any time after 12 months, with a penalty if redeemed before 5 years.
 - **Tax Considerations**: Similar to EE bonds, [interest](../i/interest.md) is subject to [federal income](../f/federal_income.md) tax but exempt from state and local [taxes](../t/taxes.md). They also qualify for possible education tax exclusions.

@@ -94,7 +94,7 @@ For investors looking to avoid the complexities of direct MLP investment, there 
 
 ### Alerian MLP ETF (AMLP)
 
-The Alerian MLP ETF is one of the largest and most well-known MLP ETFs. It seeks to track the performance of the Alerian MLP [Infrastructure](../i/infrastructure.md) [Index](../i/index.md) and provides a diversified portfolio of midstream energy [infrastructure](../i/infrastructure.md) MLPs.
+The Alerian MLP ETF is one of the largest and most well-known MLP ETFs. It seeks to track the performance of the Alerian MLP [Infrastructure](../i/infrastructure.md) [Index](../i/index_instrument.md) and provides a diversified portfolio of midstream energy [infrastructure](../i/infrastructure.md) MLPs.
 [Alerian MLP ETF](https://www.alerianmlp.com)
 
 ### Tortoise Energy Infrastructure Fund (TYG)

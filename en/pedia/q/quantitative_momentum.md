@@ -20,7 +20,7 @@ The core principles of Quantitative [Momentum investing](../m/momentum_investing
 
 Quantitative [Momentum](../m/momentum.md) relies on various data types and metrics:
 
-- **Price Data**: Historical price movements are the primary data source, with metrics like [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI) and moving averages being key indicators.
+- **Price Data**: Historical price movements are the primary data source, with metrics like [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI) and moving averages being key indicators.
 
 - **[Volume](../v/volume.md) Data**: Trading [volume](../v/volume.md) helps validate the strength of a price [trend](../t/trend.md).
 
@@ -34,7 +34,7 @@ Some standard indicators and metrics in Quantitative [Momentum](../m/momentum.md
   
 - **Moving Averages**: Particularly the 50-day and 200-day moving averages to assess medium- and long-term trends.
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) measuring the speed and change of price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) measuring the speed and change of price movements.
   
 - **[Volume](../v/volume.md) Strength**: Analyzing [volume](../v/volume.md) trends to confirm price movements.
 

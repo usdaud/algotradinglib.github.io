@@ -48,7 +48,7 @@ VAR models capture the dynamic interrelationships among [multiple](../m/multiple
 [Technical analysis](../t/technical_analysis.md) focuses on historical price and [volume](../v/volume.md) data to predict future [exchange rate](../e/exchange_rate.md) movements. Technical analysts use various tools and techniques, including:
 
 - **[Chart Patterns](../c/chart_patterns.md):** Identifying patterns such as head and shoulders, triangles, and flags to forecast price movements.
-- **[Technical Indicators](../t/technical_indicators.md):** Utilizing indicators like moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) to analyze [market](../m/market.md) trends and [momentum](../m/momentum.md).
+- **[Technical Indicators](../t/technical_indicators.md):** Utilizing indicators like moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) to analyze [market](../m/market.md) trends and [momentum](../m/momentum.md).
 - **[Trend Analysis](../t/trend_analysis.md):** Analyzing long-term trends and cycles in [exchange rate](../e/exchange_rate.md) data.
 
 ### Machine Learning Techniques

@@ -35,7 +35,7 @@ In [real estate](../r/real_estate.md) investment, the 1% rule states that the mo
 When considering refinancing your [mortgage](../m/mortgage.md), a common rule of thumb is to ensure you have at least 20% [equity](../e/equity.md) in your [home](../h/home.md). This rule helps avoid the costs and complications associated with private [mortgage insurance](../m/mortgage_insurance.md) (PMI).
 
 ### 10. The Coffeehouse Portfolio Rule
-The coffeehouse portfolio rule, popularized by Bill Schultheis's book "The Coffeehouse [Investor](../i/investor.md)," suggests a simple, diversified mix of seven [index](../i/index.md) funds:
+The coffeehouse portfolio rule, popularized by Bill Schultheis's book "The Coffeehouse [Investor](../i/investor.md)," suggests a simple, diversified mix of seven [index](../i/index_instrument.md) funds:
 - 40% in the total [bond](../b/bond.md) [market index](../m/market_index.md) [fund](../f/fund.md)
 - 10% in the S&P 500 [index fund](../i/index_fund.md)
 - 10% in large-cap [value](../v/value.md) [index fund](../i/index_fund.md)

@@ -1,14 +1,14 @@
 # Power Distance Index (PDI)
 
-Power Distance [Index](../i/index.md) (PDI) is a measure that expresses the degree to which less powerful members of a society accept and expect that power is distributed unequally. This concept was introduced by Dutch social psychologist Geert Hofstede, and it plays a significant role in understanding cultural dimensions and their impacts on organizational behavior, decision-making processes, and [leadership](../l/leadership.md) styles.
+Power Distance [Index](../i/index_instrument.md) (PDI) is a measure that expresses the degree to which less powerful members of a society accept and expect that power is distributed unequally. This concept was introduced by Dutch social psychologist Geert Hofstede, and it plays a significant role in understanding cultural dimensions and their impacts on organizational behavior, decision-making processes, and [leadership](../l/leadership.md) styles.
 
 ## Origin and Definition
 
-Geert Hofstede first introduced the concept of Power Distance [Index](../i/index.md) in his seminal work "Culture's Consequences: International Differences in Work-Related Values" published in 1980. PDI is one of the six dimensions of Hofstede's cultural dimensions theory, which also includes:
+Geert Hofstede first introduced the concept of Power Distance [Index](../i/index_instrument.md) in his seminal work "Culture's Consequences: International Differences in Work-Related Values" published in 1980. PDI is one of the six dimensions of Hofstede's cultural dimensions theory, which also includes:
 
 1. **Individualism versus Collectivism (IDV)**: The extent to which people feel independent, as opposed to being interdependent as members of larger wholes.
 2. **Masculinity versus Femininity (MAS)**: The [distribution](../d/distribution.md) of emotional roles between the genders.
-3. **[Uncertainty](../u/uncertainty_in_trading.md) Avoidance [Index](../i/index.md) (UAI)**: The extent to which members of a culture feel threatened by ambiguous situations.
+3. **[Uncertainty](../u/uncertainty_in_trading.md) Avoidance [Index](../i/index_instrument.md) (UAI)**: The extent to which members of a culture feel threatened by ambiguous situations.
 4. **Long-Term Orientation versus Short-Term Normative Orientation (LTO)**: The focus on future rewards rather than immediate gratification.
 5. **Indulgence versus Restraint (IVR)**: The extent to which people try to control their desires and impulses.
 
@@ -108,4 +108,4 @@ While PDI provides valuable insights into national and organizational cultures, 
 
 ## Conclusion
 
-The Power Distance [Index](../i/index.md) (PDI) is a critical tool for understanding the impact of hierarchical structures on national cultures and organizations. By examining PDI, businesses can better navigate cross-cultural interactions, tailor management strategies, and enhance organizational effectiveness. However, it is essential to approach PDI with a nuanced understanding, recognizing its limitations and the dynamic nature of cultural contexts.
+The Power Distance [Index](../i/index_instrument.md) (PDI) is a critical tool for understanding the impact of hierarchical structures on national cultures and organizations. By examining PDI, businesses can better navigate cross-cultural interactions, tailor management strategies, and enhance organizational effectiveness. However, it is essential to approach PDI with a nuanced understanding, recognizing its limitations and the dynamic nature of cultural contexts.

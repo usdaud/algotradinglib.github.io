@@ -60,7 +60,7 @@ Institutional traders and [hedge](../h/hedge.md) funds often use [derivatives](.
 
 ### Retail Investors
 
-Retail investors might encounter the concept of notional [value](../v/value.md) while trading [options](../o/options.md) and [futures](../f/futures.md). For example, a retail [trader](../t/trader.md) who buys 5 S&P 500 [futures contracts](../f/futures_contracts.md) at an [index](../i/index.md) price of 3,000 points (each point worth $50) would have a notional [value](../v/value.md) exposure of:
+Retail investors might encounter the concept of notional [value](../v/value.md) while trading [options](../o/options.md) and [futures](../f/futures.md). For example, a retail [trader](../t/trader.md) who buys 5 S&P 500 [futures contracts](../f/futures_contracts.md) at an [index](../i/index_instrument.md) price of 3,000 points (each point worth $50) would have a notional [value](../v/value.md) exposure of:
 
 \[ 5 \text{ contracts} \times 3,000 \text{ points} \times \$50/\text{point} = \$750,000 \]
 

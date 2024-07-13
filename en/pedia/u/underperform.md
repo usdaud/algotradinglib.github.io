@@ -1,6 +1,6 @@
 # Underperform
 
-"Underperform" is a term widely used in the [finance](../f/finance.md) and [investing](../i/investing.md) world to describe a scenario where an investment, [security](../s/security.md), portfolio, or [financial asset](../f/financial_asset.md) yields lower returns compared to a [benchmark](../b/benchmark.md) [index](../i/index.md), [market](../m/market.md) average, or peers over a certain period. This term is essential as it allows investors and analysts to gauge the [efficiency](../e/efficiency.md) and effectiveness of their investments relative to the broader [market](../m/market.md) or specific competitors.
+"Underperform" is a term widely used in the [finance](../f/finance.md) and [investing](../i/investing.md) world to describe a scenario where an investment, [security](../s/security.md), portfolio, or [financial asset](../f/financial_asset.md) yields lower returns compared to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), [market](../m/market.md) average, or peers over a certain period. This term is essential as it allows investors and analysts to gauge the [efficiency](../e/efficiency.md) and effectiveness of their investments relative to the broader [market](../m/market.md) or specific competitors.
 
 ## Understanding Underperformance
 
@@ -8,7 +8,7 @@ Underperformance can occur for various reasons including poor management decisio
 
 ### Metrics Used to Measure Underperformance
 
-1. **[Benchmark Comparison](../b/benchmark_comparison.md)**: One of the simplest ways to measure underperformance is by comparing the investment returns to a [benchmark](../b/benchmark.md) [index](../i/index.md) such as the S&P 500, [NASDAQ](../n/nasdaq.md), or the Dow Jones Industrial Average. 
+1. **[Benchmark Comparison](../b/benchmark_comparison.md)**: One of the simplest ways to measure underperformance is by comparing the investment returns to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) such as the S&P 500, [NASDAQ](../n/nasdaq.md), or the Dow Jones Industrial Average. 
 2. **Year-to-Date (YTD) Performance**: This metric helps in comparing the current year's performance with the previous years.
 3. **[Total Return](../t/total_return.md)**: It includes [interest](../i/interest.md), [capital](../c/capital.md) gains, dividends, and distributions realized over a given period.
 4. **[Alpha](../a/alpha.md)**: This measures the performance of an investment relative to a [market index](../m/market_index.md) or [benchmark](../b/benchmark.md), indicating whether the investment has outperformed or underperformed the [market](../m/market.md).
@@ -18,7 +18,7 @@ Underperformance can occur for various reasons including poor management decisio
 
 #### Relative Underperformance
 
-This occurs when the [return](../r/return.md) on an investment is less than the [return](../r/return.md) on a specific [benchmark](../b/benchmark.md). For instance, if a stock yields a [return](../r/return.md) of 5% while the S&P 500 [index](../i/index.md) yields 10%, the stock is said to be underperforming relative to the S&P 500.
+This occurs when the [return](../r/return.md) on an investment is less than the [return](../r/return.md) on a specific [benchmark](../b/benchmark.md). For instance, if a stock yields a [return](../r/return.md) of 5% while the S&P 500 [index](../i/index_instrument.md) yields 10%, the stock is said to be underperforming relative to the S&P 500.
 
 #### Absolute Underperformance
 

@@ -12,7 +12,7 @@ A Zero [Investment Strategy](../i/investment_strategy.md) primarily relies on th
 
 #### Hedging
 
-Hedging is a [risk management](../r/risk_management.md) strategy used to [offset](../o/offset.md) potential losses in one [security](../s/security.md) by taking an opposite position in a related [security](../s/security.md). In a zero [investment strategy](../i/investment_strategy.md), hedging helps in neutralizing [market exposure](../m/market_exposure.md). For example, if a [trader](../t/trader.md) is long on a stock, they might short a related [index](../i/index.md) or another stock in the same [industry](../i/industry.md) to mitigate [risk](../r/risk.md). This effectively results in a net zero investment while reducing the [risk](../r/risk.md) of adverse [market](../m/market.md) movements.
+Hedging is a [risk management](../r/risk_management.md) strategy used to [offset](../o/offset.md) potential losses in one [security](../s/security.md) by taking an opposite position in a related [security](../s/security.md). In a zero [investment strategy](../i/investment_strategy.md), hedging helps in neutralizing [market exposure](../m/market_exposure.md). For example, if a [trader](../t/trader.md) is long on a stock, they might short a related [index](../i/index_instrument.md) or another stock in the same [industry](../i/industry.md) to mitigate [risk](../r/risk.md). This effectively results in a net zero investment while reducing the [risk](../r/risk.md) of adverse [market](../m/market.md) movements.
 
 #### Market Neutral Strategy
 

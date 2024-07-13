@@ -39,7 +39,7 @@ By examining past price movements, traders can identify critical [support and re
 Increased trading [volume](../v/volume.md) at certain price levels can confirm the significance of those levels as key points of support or resistance.
 
 ### 4. Technical Indicators
-[Technical indicators](../t/technical_indicators.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Bollinger Bands](../b/bollinger_bands.md), etc., can help identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions that often occur near key levels.
+[Technical indicators](../t/technical_indicators.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Bollinger Bands](../b/bollinger_bands.md), etc., can help identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions that often occur near key levels.
 
 ## Significance of Key Levels in Trading
 

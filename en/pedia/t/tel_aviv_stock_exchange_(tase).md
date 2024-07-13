@@ -49,18 +49,18 @@ TASE provides a platform for various ETFs that track indices, sectors, or commod
 
 #### Derivatives
 
-The [derivatives](../d/derivatives.md) [market](../m/market.md) at TASE includes [options](../o/options.md) and [futures contracts](../f/futures_contracts.md) based on [equity](../e/equity.md) indices, individual [stocks](../s/stock.md), and foreign currencies. [Options](../o/options.md) on the TA-35 [Index](../i/index.md), for instance, are among the most actively traded [derivatives](../d/derivatives.md).
+The [derivatives](../d/derivatives.md) [market](../m/market.md) at TASE includes [options](../o/options.md) and [futures contracts](../f/futures_contracts.md) based on [equity](../e/equity.md) indices, individual [stocks](../s/stock.md), and foreign currencies. [Options](../o/options.md) on the TA-35 [Index](../i/index_instrument.md), for instance, are among the most actively traded [derivatives](../d/derivatives.md).
 
 ## Market Indices
 
 TASE offers several [market](../m/market.md) indices that reflect the performance of different segments of the [market](../m/market.md). Some of the key indices are:
 
-- **TA-35 [Index](../i/index.md):** Represents the top 35 companies by [market capitalization](../m/market_capitalization.md).
-- **TA-90 [Index](../i/index.md):** Represents the next 90 companies by [market capitalization](../m/market_capitalization.md).
-- **TA-125 [Index](../i/index.md):** Combines the TA-35 and TA-90 indices.
-- **TA-SME60 [Index](../i/index.md):** Covers 60 small and medium-sized enterprises.
+- **TA-35 [Index](../i/index_instrument.md):** Represents the top 35 companies by [market capitalization](../m/market_capitalization.md).
+- **TA-90 [Index](../i/index_instrument.md):** Represents the next 90 companies by [market capitalization](../m/market_capitalization.md).
+- **TA-125 [Index](../i/index_instrument.md):** Combines the TA-35 and TA-90 indices.
+- **TA-SME60 [Index](../i/index_instrument.md):** Covers 60 small and medium-sized enterprises.
 
-These indices provide benchmarks for investors and are often the [basis](../b/basis.md) for [index](../i/index.md) funds and ETFs.
+These indices provide benchmarks for investors and are often the [basis](../b/basis.md) for [index](../i/index_instrument.md) funds and ETFs.
 
 ## Listed Companies
 

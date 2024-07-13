@@ -40,9 +40,9 @@ HKEX operates under the regulatory framework governed by the Securities and [Fut
 ## Key Indices
 
 HKEX features several indices that are commonly used as benchmarks for the performance of the Hong Kong [market](../m/market.md):
-- **Hang Seng [Index](../i/index.md) (HSI)**: The premier [index](../i/index.md) covering the largest and most [liquid](../l/liquid.md) companies in Hong Kong.
-- **Hang Seng China Enterprises [Index](../i/index.md) (HSCEI)**: Monitors the performance of mainland China enterprises [listed](../l/listed.md) in Hong Kong.
-- **Hang Seng TECH [Index](../i/index.md)**: Tracks the 30 largest technology companies [listed](../l/listed.md) in Hong Kong.
+- **Hang Seng [Index](../i/index_instrument.md) (HSI)**: The premier [index](../i/index_instrument.md) covering the largest and most [liquid](../l/liquid.md) companies in Hong Kong.
+- **Hang Seng China Enterprises [Index](../i/index_instrument.md) (HSCEI)**: Monitors the performance of mainland China enterprises [listed](../l/listed.md) in Hong Kong.
+- **Hang Seng TECH [Index](../i/index_instrument.md)**: Tracks the 30 largest technology companies [listed](../l/listed.md) in Hong Kong.
 
 ## Mainland and Hong Kong Stock Connect
 

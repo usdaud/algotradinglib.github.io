@@ -4,7 +4,7 @@
 
 ### Understanding Non-Correlation Strategies
 
-Non-[correlation](../c/correlation.md) strategies seek to develop a portfolio of assets whose returns do not move in tandem with each other or with a primary [index](../i/index.md) or [benchmark](../b/benchmark.md). By focusing on relationships that exhibit low or negative correlations, these strategies aim to reduce overall portfolio [volatility](../v/volatility.md) and improve [risk](../r/risk.md)-adjusted returns, [offering](../o/offering.md) a buffer against systemic [market](../m/market.md) risks.
+Non-[correlation](../c/correlation.md) strategies seek to develop a portfolio of assets whose returns do not move in tandem with each other or with a primary [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md). By focusing on relationships that exhibit low or negative correlations, these strategies aim to reduce overall portfolio [volatility](../v/volatility.md) and improve [risk](../r/risk.md)-adjusted returns, [offering](../o/offering.md) a buffer against systemic [market](../m/market.md) risks.
 
 To grasp the concept, consider two assets. If [Asset](../a/asset.md) A tends to go up when [Asset](../a/asset.md) B goes down, and vice versa, their [correlation](../c/correlation.md) is negative, implying they respond differently to [market](../m/market.md) signals. By combining such assets, traders can create portfolios less susceptible to individual [market](../m/market.md) events.
 

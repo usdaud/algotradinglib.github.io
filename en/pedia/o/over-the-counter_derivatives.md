@@ -6,7 +6,7 @@ Over-The-Counter (OTC) [derivatives](../d/derivatives.md) represent a segment of
 
 ### Definition and Nature
 
-OTC [derivatives](../d/derivatives.md) are contracts that derive their [value](../v/value.md) from an [underlying asset](../u/underlying_asset.md), [index](../i/index.md), or rate, and are negotiated and traded directly between two parties without going through a centralized [exchange](../e/exchange.md). These [derivatives](../d/derivatives.md) include:
+OTC [derivatives](../d/derivatives.md) are contracts that derive their [value](../v/value.md) from an [underlying asset](../u/underlying_asset.md), [index](../i/index_instrument.md), or rate, and are negotiated and traded directly between two parties without going through a centralized [exchange](../e/exchange.md). These [derivatives](../d/derivatives.md) include:
 
 - **Swaps:** Contracts where two parties [exchange](../e/exchange.md) cash flows or other financial instruments. A common example is [interest rate swaps](../i/interest_rate_swaps.md) where fixed rate payments are exchanged for floating rate payments.
 - **Forwards:** Agreements to buy or sell an [asset](../a/asset.md) at a future date for a price specified today. Unlike [futures](../f/futures.md), forwards are not standardized and can be customized to the needs of the parties involved.

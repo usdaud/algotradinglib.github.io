@@ -6,7 +6,7 @@ A lagging [indicator](../i/indicator.md) is a quantitative or statistical measur
 
 [Lagging indicators](../l/lagging_indicators.md) are characterized by their confirmatory nature; they only change direction once a significant movement or [trend](../t/trend.md) in the financial [market](../m/market.md) has begun. This means that while they are valuable for confirming trends and avoiding [false signals](../f/false_signals_in_trading.md), they do not provide early warnings or timely signals. They are especially useful in identifying the robustness of long-term trends, which can be beneficial for more conservative [trading strategies](../t/trading_strategies.md) looking to minimize [risk](../r/risk.md). 
 
-The main types of [lagging indicators](../l/lagging_indicators.md) include moving averages, the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Bollinger Bands](../b/bollinger_band.md), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and others. Here is an in-depth look at some of these indicators:
+The main types of [lagging indicators](../l/lagging_indicators.md) include moving averages, the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Bollinger Bands](../b/bollinger_band.md), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and others. Here is an in-depth look at some of these indicators:
 
 ### Moving Averages
 
@@ -28,7 +28,7 @@ Traders use [Bollinger Bands](../b/bollinger_band.md) to identify [overbought](.
 
 ### Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. RSI oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md). An RSI [value](../v/value.md) above 70 is generally considered [overbought](../o/overbought.md), while an RSI [value](../v/value.md) below 30 is considered [oversold](../o/oversold.md). 
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. RSI oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md). An RSI [value](../v/value.md) above 70 is generally considered [overbought](../o/overbought.md), while an RSI [value](../v/value.md) below 30 is considered [oversold](../o/oversold.md). 
 
 ### Stochastic Oscillator
 

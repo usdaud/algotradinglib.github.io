@@ -29,7 +29,7 @@ These models are trained on vast amounts of historical trading data to forecast 
 Statistical [arbitrage](../a/arbitrage.md) strategies involve exploiting pricing inefficiencies between correlated securities. This is achieved by:
 
 - **Pair Trading**: Identifying pairs of [stocks](../s/stock.md) that historically move together and implementing [trading strategies](../t/trading_strategies.md) when they diverge.
-- **[Index](../i/index.md) [Arbitrage](../a/arbitrage.md)**: Exploiting price discrepancies between [index futures](../i/index_futures.md) and the [underlying](../u/underlying.md) [stocks](../s/stock.md) in the [index](../i/index.md).
+- **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md)**: Exploiting price discrepancies between [index futures](../i/index_futures.md) and the [underlying](../u/underlying.md) [stocks](../s/stock.md) in the [index](../i/index_instrument.md).
 - **Cointegration**: Utilizing statistical tests to find securities with a common stochastic drift, thus providing a [basis](../b/basis.md) for [mean reversion](../m/mean_reversion.md) strategies.
 
 #### Quantitative Strategies

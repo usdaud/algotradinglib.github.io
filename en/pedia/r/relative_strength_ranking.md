@@ -8,7 +8,7 @@ The calculation of [Relative Strength](../r/relative_strength.md) Ranking can be
 
 1. **Selecting the Time Frame:** The first step is to decide on the time frame over which the [relative strength](../r/relative_strength.md) [will](../w/will.md) be evaluated. Common time frames include 3 months, 6 months, 12 months, and 52 weeks.
 
-2. **Calculating [Relative Strength](../r/relative_strength.md):** For each stock, the [relative strength](../r/relative_strength.md) (RS) is calculated by dividing the stock's performance over the chosen time frame by the performance of a [benchmark](../b/benchmark.md) [index](../i/index.md) (like the S&P 500). Mathematically, this can be represented as:
+2. **Calculating [Relative Strength](../r/relative_strength.md):** For each stock, the [relative strength](../r/relative_strength.md) (RS) is calculated by dividing the stock's performance over the chosen time frame by the performance of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) (like the S&P 500). Mathematically, this can be represented as:
 
     \[
     \text{RS} = \frac{\text{Stock's Price Change}}{\text{[Benchmark](../b/benchmark.md)'s Price Change}}
@@ -73,8 +73,8 @@ def calculate_relative_strength(prices, [benchmark](../b/benchmark.md)):
     Calculate the [relative strength](../r/relative_strength.md) of [stocks](../s/stock.md) against a [benchmark](../b/benchmark.md).
 
     Parameters:
-    prices (pd.DataFrame): DataFrame containing stock prices with [stocks](../s/stock.md) as columns and dates as [index](../i/index.md).
-    [benchmark](../b/benchmark.md) (pd.Series): Series containing [benchmark](../b/benchmark.md) [index](../i/index.md) prices.
+    prices (pd.DataFrame): DataFrame containing stock prices with [stocks](../s/stock.md) as columns and dates as [index](../i/index_instrument.md).
+    [benchmark](../b/benchmark.md) (pd.Series): Series containing [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) prices.
 
     Returns:
     pd.Series: Series containing the [relative strength](../r/relative_strength.md) of each stock.
@@ -114,7 +114,7 @@ ranked_stocks = rs_rank.sort_values()
 print(ranked_stocks)
 ```
 
-In the above example, we [load](../l/load.md) stock prices and [benchmark](../b/benchmark.md) [index](../i/index.md) prices from CSV files, calculate the [relative strength](../r/relative_strength.md) over the previous 12 months, and then rank the [stocks](../s/stock.md) based on their [relative strength](../r/relative_strength.md). This script serves as a foundation for more sophisticated RSR-based [trading algorithms](../t/trading_algorithms.md).
+In the above example, we [load](../l/load.md) stock prices and [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) prices from CSV files, calculate the [relative strength](../r/relative_strength.md) over the previous 12 months, and then rank the [stocks](../s/stock.md) based on their [relative strength](../r/relative_strength.md). This script serves as a foundation for more sophisticated RSR-based [trading algorithms](../t/trading_algorithms.md).
 
 ## Real-World Examples
 

@@ -25,7 +25,7 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md), including
 These models evaluate financial instruments based on company fundamentals like [earnings](../e/earnings.md), [revenue](../r/revenue.md), and growth potential. The Discounted [Cash Flow](../c/cash_flow.md) (DCF) model is a prime example, where future cash flows are projected and discounted back to their [present value](../p/present_value.md).
 
 ### Technical Analysis Models
-[Technical analysis](../t/technical_analysis.md) models focus on statistical analysis of [market](../m/market.md) activity, such as price and [volume](../v/volume.md). Moving averages, [Bollinger Bands](../b/bollinger_bands.md), and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) are commonly used [technical indicators](../t/technical_indicators.md) in these models.
+[Technical analysis](../t/technical_analysis.md) models focus on statistical analysis of [market](../m/market.md) activity, such as price and [volume](../v/volume.md). Moving averages, [Bollinger Bands](../b/bollinger_bands.md), and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) are commonly used [technical indicators](../t/technical_indicators.md) in these models.
 
 ### Econometric Models
 Econometric models use statistical methods to test hypotheses and forecast future trends. These models are essential in macroeconomic assessments and policy modeling. They often use techniques like [multiple](../m/multiple.md) regression and [time series analysis](../t/time_series_analysis.md).

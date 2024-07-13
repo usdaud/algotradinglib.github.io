@@ -1,6 +1,6 @@
 # Zero Coupon Inflation Swap
 
-A Zero Coupon [Inflation Swap](../i/inflation_swap.md) (ZCIS) is a [financial instrument](../f/financial_instrument.md) used to manage [inflation](../i/inflation.md) [risk](../r/risk.md) and [hedge](../h/hedge.md) against its effects on future cash flows. It's a particular type of [derivative](../d/derivative.md) contract that allows investors to [exchange](../e/exchange.md) fixed [interest](../i/interest.md) payments for payments linked to an [inflation](../i/inflation.md) [index](../i/index.md). Unlike other swaps, ZCIS have only one [exchange](../e/exchange.md) of cash flows at [maturity](../m/maturity.md), hence the term "zero coupon."
+A Zero Coupon [Inflation Swap](../i/inflation_swap.md) (ZCIS) is a [financial instrument](../f/financial_instrument.md) used to manage [inflation](../i/inflation.md) [risk](../r/risk.md) and [hedge](../h/hedge.md) against its effects on future cash flows. It's a particular type of [derivative](../d/derivative.md) contract that allows investors to [exchange](../e/exchange.md) fixed [interest](../i/interest.md) payments for payments linked to an [inflation](../i/inflation.md) [index](../i/index_instrument.md). Unlike other swaps, ZCIS have only one [exchange](../e/exchange.md) of cash flows at [maturity](../m/maturity.md), hence the term "zero coupon."
 
 ## Overview
 Zero Coupon [Inflation](../i/inflation.md) Swaps are primarily used by institutional investors, such as pension funds and [insurance](../i/insurance.md) companies, who have significant [long-term liabilities](../l/long-term_liabilities.md) that are sensitive to [inflation](../i/inflation.md). By entering a ZCIS, these institutions can mitigate the [risk](../r/risk.md) that [inflation](../i/inflation.md) [will](../w/will.md) erode the [value](../v/value.md) of their assets.
@@ -9,12 +9,12 @@ Zero Coupon [Inflation](../i/inflation.md) Swaps are primarily used by instituti
 A ZCIS involves two parties: the *payer* and the *receiver*.
 
 - **Payer**: Pays a fixed rate agreed upon at the inception of the [swap](../s/swap.md).
-- **Receiver**: Pays an amount based on the [inflation](../i/inflation.md) [index](../i/index.md) level at the [swap](../s/swap.md)'s [maturity date](../m/maturity_date.md).
+- **Receiver**: Pays an amount based on the [inflation](../i/inflation.md) [index](../i/index_instrument.md) level at the [swap](../s/swap.md)'s [maturity date](../m/maturity_date.md).
 
 #### Key Terms and Components:
 - **Notional [Principal](../p/principal.md)**: The amount on which payments are based, though it is not exchanged.
 - **Fixed Rate**: The pre-agreed [interest rate](../i/interest_rate.md) that the payer provides at [maturity](../m/maturity.md).
-- **[Inflation](../i/inflation.md) [Index](../i/index.md)**: Usually a national Consumer Price [Index](../i/index.md) (CPI) or Retail Price [Index](../i/index.md) (RPI).
+- **[Inflation](../i/inflation.md) [Index](../i/index_instrument.md)**: Usually a national Consumer Price [Index](../i/index_instrument.md) (CPI) or Retail Price [Index](../i/index_instrument.md) (RPI).
 - **[Maturity Date](../m/maturity_date.md)**: The date when the final [payment](../p/payment.md) is made and the [swap](../s/swap.md) is settled.
 
 ### Example Transaction
@@ -22,7 +22,7 @@ Suppose two parties enter into a ZCIS with the following terms:
 
 - Notional [Principal](../p/principal.md): $100 million
 - Fixed Rate: 2%
-- [Inflation](../i/inflation.md) [Index](../i/index.md): CPI
+- [Inflation](../i/inflation.md) [Index](../i/index_instrument.md): CPI
 - [Maturity](../m/maturity.md): 5 years
 
 At [maturity](../m/maturity.md), the payer [will](../w/will.md) pay $100 million * 1.02^5 to the receiver, while the receiver [will](../w/will.md) pay the payer the $100 million * (CPI at [maturity](../m/maturity.md) / CPI at inception).
@@ -39,10 +39,10 @@ The [value](../v/value.md) of a Zero Coupon [Inflation Swap](../i/inflation_swap
 [Valuation](../v/valuation.md) often involves [discounting](../d/discounting.md) future cash flows using the appropriate [discount](../d/discount.md) [factor](../f/factor.md). For the fixed [leg](../l/leg.md), the [payment](../p/payment.md) is discounted using a [risk](../r/risk.md)-free rate. The [inflation](../i/inflation.md) [leg](../l/leg.md) may require [simulation](../s/simulation_in_trading.md) or projection of future [inflation](../i/inflation.md) rates, incorporating [market](../m/market.md) expectations gleaned from [inflation-linked bonds](../i/inflation-linked_bonds.md) or other instruments.
 
 ### Types of Inflation Indices
-- **CPI-U (Consumer Price [Index](../i/index.md) for All Urban Consumers)**
-- **CPI-W (Consumer Price [Index](../i/index.md) for Urban Wage Earners and Clerical Workers)**
-- **RPI (Retail Prices [Index](../i/index.md))**
-- **PCE (Personal Consumption Expenditures Price [Index](../i/index.md))**
+- **CPI-U (Consumer Price [Index](../i/index_instrument.md) for All Urban Consumers)**
+- **CPI-W (Consumer Price [Index](../i/index_instrument.md) for Urban Wage Earners and Clerical Workers)**
+- **RPI (Retail Prices [Index](../i/index_instrument.md))**
+- **PCE (Personal Consumption Expenditures Price [Index](../i/index_instrument.md))**
 
 ## Applications
 ### Hedging

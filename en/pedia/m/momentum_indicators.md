@@ -6,7 +6,7 @@
 
 ##### 1. Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is one of the most popular [momentum](../m/momentum.md) indicators. Developed by J. Welles Wilder, the RSI measures the speed and change of price movements. RSI values [range](../r/range.md) from 0 to 100 and are primarily used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is one of the most popular [momentum](../m/momentum.md) indicators. Developed by J. Welles Wilder, the RSI measures the speed and change of price movements. RSI values [range](../r/range.md) from 0 to 100 and are primarily used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 - **[Overbought](../o/overbought.md):** Typically, an RSI above 70 is considered [overbought](../o/overbought.md).
 - **[Oversold](../o/oversold.md):** An RSI below 30 is considered [oversold](../o/oversold.md).
@@ -59,7 +59,7 @@ Another line, known as \(\%D\), is the 3-day moving average of \(\%K\).
 
 ##### 4. Commodity Channel Index (CCI)
 
-The [Commodity](../c/commodity.md) Channel [Index](../i/index.md) (CCI) is another valuable [momentum](../m/momentum.md)-based [oscillator](../o/oscillator.md) used to spot deviations from the average price. It helps in identifying cyclical trends. The CCI calculation:
+The [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) (CCI) is another valuable [momentum](../m/momentum.md)-based [oscillator](../o/oscillator.md) used to spot deviations from the average price. It helps in identifying cyclical trends. The CCI calculation:
 
 \[ CCI = \frac{(\text{Typical Price} - \text{SMA})}{0.015 \times \text{Mean Deviation}} \]
 

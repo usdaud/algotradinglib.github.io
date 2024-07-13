@@ -1,6 +1,6 @@
 # High Beta Index
 
-The High [Beta](../b/beta.md) [Index](../i/index.md) is a type of stock [market index](../m/market_index.md) that is composed of [stocks](../s/stock.md) with high [beta](../b/beta.md) values. The term "[beta](../b/beta.md)" is a measure of a stock's [volatility](../v/volatility.md) in relation to the overall [market](../m/market.md). A [beta](../b/beta.md) higher than 1 indicates that the stock is more volatile than the [market](../m/market.md), and a [beta](../b/beta.md) lower than 1 means that the stock is less volatile. A high [beta](../b/beta.md) [index](../i/index.md), therefore, focuses on [stocks](../s/stock.md) that are generally more volatile than the average [market](../m/market.md) stock. These types of indices are particularly useful for investors who are looking to take on more [risk](../r/risk.md) in [exchange](../e/exchange.md) for the potential of higher returns.
+The High [Beta](../b/beta.md) [Index](../i/index_instrument.md) is a type of stock [market index](../m/market_index.md) that is composed of [stocks](../s/stock.md) with high [beta](../b/beta.md) values. The term "[beta](../b/beta.md)" is a measure of a stock's [volatility](../v/volatility.md) in relation to the overall [market](../m/market.md). A [beta](../b/beta.md) higher than 1 indicates that the stock is more volatile than the [market](../m/market.md), and a [beta](../b/beta.md) lower than 1 means that the stock is less volatile. A high [beta](../b/beta.md) [index](../i/index_instrument.md), therefore, focuses on [stocks](../s/stock.md) that are generally more volatile than the average [market](../m/market.md) stock. These types of indices are particularly useful for investors who are looking to take on more [risk](../r/risk.md) in [exchange](../e/exchange.md) for the potential of higher returns.
 
 ## Understanding Beta
 
@@ -25,7 +25,7 @@ If a stock has a [beta](../b/beta.md) of 1.3, it is expected to be 30% more vola
 
 ## Components of a High Beta Index
 
-The components of a high [beta](../b/beta.md) [index](../i/index.md) are chosen based on their [beta](../b/beta.md) values. Generally, the selection process involves identifying [stocks](../s/stock.md) with the highest [beta](../b/beta.md) in a given stock universe.
+The components of a high [beta](../b/beta.md) [index](../i/index_instrument.md) are chosen based on their [beta](../b/beta.md) values. Generally, the selection process involves identifying [stocks](../s/stock.md) with the highest [beta](../b/beta.md) in a given stock universe.
 
 ### Criteria for Inclusion
 
@@ -35,7 +35,7 @@ The components of a high [beta](../b/beta.md) [index](../i/index.md) are chosen 
 
 ### Examples
 
-1. **S&P 500 High [Beta](../b/beta.md) [Index](../i/index.md)**: Consists of 100 [stocks](../s/stock.md) from the S&P 500 with the highest [beta](../b/beta.md).
+1. **S&P 500 High [Beta](../b/beta.md) [Index](../i/index_instrument.md)**: Consists of 100 [stocks](../s/stock.md) from the S&P 500 with the highest [beta](../b/beta.md).
 2. **[NYSE Arca](../n/nyse_arca.md) High [Beta](../b/beta.md) ETF**: Focuses on high [beta](../b/beta.md) [stocks](../s/stock.md) [listed](../l/listed.md) on the NYSE.
 
 ## Construction of a High Beta Index
@@ -45,7 +45,7 @@ The components of a high [beta](../b/beta.md) [index](../i/index.md) are chosen 
 1. **Initial Screening**: [Stocks](../s/stock.md) are screened based on [market capitalization](../m/market_capitalization.md) and trading [volume](../v/volume.md).
 2. **[Beta](../b/beta.md) Calculation**: The [beta](../b/beta.md) for each stock is calculated over the chosen period.
 3. **Ranking**: [Stocks](../s/stock.md) are ranked based on their [beta](../b/beta.md) values.
-4. **Selection**: The top-ranked [stocks](../s/stock.md) by [beta](../b/beta.md) are included in the [index](../i/index.md).
+4. **Selection**: The top-ranked [stocks](../s/stock.md) by [beta](../b/beta.md) are included in the [index](../i/index_instrument.md).
 
 ### Weighting Methodologies
 
@@ -61,7 +61,7 @@ High [beta](../b/beta.md) [stocks](../s/stock.md) can provide significant [upsid
 
 ### Diversification
 
-Including a high [beta](../b/beta.md) [index](../i/index.md) in a portfolio can provide [diversification benefits](../d/diversification_benefits.md). While they are more volatile, they do not always move in lockstep with other investments.
+Including a high [beta](../b/beta.md) [index](../i/index_instrument.md) in a portfolio can provide [diversification benefits](../d/diversification_benefits.md). While they are more volatile, they do not always move in lockstep with other investments.
 
 ### Hedging
 
@@ -87,12 +87,12 @@ High [beta](../b/beta.md) indices might have high concentrations in particular s
 
 High [beta](../b/beta.md) indices are often tracked by ETFs. Examples include:
 
-- **Invesco S&P 500 High [Beta](../b/beta.md) ETF (Ticker: SPHB)**: Aims to track the performance of the S&P 500 High [Beta](../b/beta.md) [Index](../i/index.md).
+- **Invesco S&P 500 High [Beta](../b/beta.md) ETF (Ticker: SPHB)**: Aims to track the performance of the S&P 500 High [Beta](../b/beta.md) [Index](../i/index_instrument.md).
   [Invesco S&P 500 High Beta ETF](https://www.invesco.com/us/financial-products/etfs/product-detail?productId=SPHB)
 
 ### Leveraged ETFs
 
-[Leveraged ETFs](../l/leveraged_etfs.md) aim to provide returns that are a [multiple](../m/multiple.md) of the performance of the high [beta](../b/beta.md) [index](../i/index.md). For instance, a 2x leveraged high [beta](../b/beta.md) ETF would aim to [return](../r/return.md) 2% for every 1% move in the [index](../i/index.md).
+[Leveraged ETFs](../l/leveraged_etfs.md) aim to provide returns that are a [multiple](../m/multiple.md) of the performance of the high [beta](../b/beta.md) [index](../i/index_instrument.md). For instance, a 2x leveraged high [beta](../b/beta.md) ETF would aim to [return](../r/return.md) 2% for every 1% move in the [index](../i/index_instrument.md).
 
 ### Futures and Options
 
@@ -102,8 +102,8 @@ Trading [futures](../f/futures.md) and [options](../o/options.md) on high [beta]
 
 ### Contrast in Risk and Return
 
-- **High [Beta](../b/beta.md) [Index](../i/index.md)**: Higher potential returns, higher [risk](../r/risk.md).
-- **Low [Beta](../b/beta.md) [Index](../i/index.md)**: Lower potential returns, lower [risk](../r/risk.md).
+- **High [Beta](../b/beta.md) [Index](../i/index_instrument.md)**: Higher potential returns, higher [risk](../r/risk.md).
+- **Low [Beta](../b/beta.md) [Index](../i/index_instrument.md)**: Lower potential returns, lower [risk](../r/risk.md).
 
 ### Investment Strategies
 
@@ -112,15 +112,15 @@ Trading [futures](../f/futures.md) and [options](../o/options.md) on high [beta]
 
 ### Examples
 
-1. **S&P 500 Low [Volatility](../v/volatility.md) [Index](../i/index.md)**: Consists of [stocks](../s/stock.md) with the lowest [beta](../b/beta.md) values.
-2. **Invesco S&P 500 Low [Volatility](../v/volatility.md) ETF (Ticker: SPLV)**: Tracks the S&P 500 Low [Volatility](../v/volatility.md) [Index](../i/index.md).
+1. **S&P 500 Low [Volatility](../v/volatility.md) [Index](../i/index_instrument.md)**: Consists of [stocks](../s/stock.md) with the lowest [beta](../b/beta.md) values.
+2. **Invesco S&P 500 Low [Volatility](../v/volatility.md) ETF (Ticker: SPLV)**: Tracks the S&P 500 Low [Volatility](../v/volatility.md) [Index](../i/index_instrument.md).
    [Invesco S&P 500 Low Volatility ETF](https://www.invesco.com/us/financial-products/etfs/product-detail?productId=SPLV)
 
 ## Performance Metrics
 
 ### Alpha
 
-[Alpha](../a/alpha.md) measures the performance of an [index](../i/index.md) relative to a [benchmark](../b/benchmark.md) [market index](../m/market_index.md).
+[Alpha](../a/alpha.md) measures the performance of an [index](../i/index_instrument.md) relative to a [benchmark](../b/benchmark.md) [market index](../m/market_index.md).
 
 ### Sharpe Ratio
 
@@ -128,7 +128,7 @@ The [Sharpe Ratio](../s/sharpe_ratio.md) measures [risk-adjusted return](../r/ri
 
 ### Tracking Error
 
-[Tracking error](../t/tracking_error.md) quantifies how closely an ETF mirrors its [underlying](../u/underlying.md) high [beta](../b/beta.md) [index](../i/index.md).
+[Tracking error](../t/tracking_error.md) quantifies how closely an ETF mirrors its [underlying](../u/underlying.md) high [beta](../b/beta.md) [index](../i/index_instrument.md).
 
 ## Real-World Application and Examples
 

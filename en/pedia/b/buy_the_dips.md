@@ -30,14 +30,14 @@ Before diving deeper into the strategy, it's essential to understand why dips oc
 ### Components of an Algorithmic Dips Buying Strategy
 
 1. **[Market](../m/market.md) Scanning Algorithms**: These algorithms continuously scan the [market](../m/market.md) for assets that meet predefined criteria, such as specific percentage drops or deviations from moving averages.
-2. **Signal Generation**: Once a potential dip is identified, the algorithm generates a buy signal based on [technical indicators](../t/technical_indicator.md) like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), or [Bollinger Bands](../b/bollinger_band.md).
+2. **Signal Generation**: Once a potential dip is identified, the algorithm generates a buy signal based on [technical indicators](../t/technical_indicator.md) like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), or [Bollinger Bands](../b/bollinger_band.md).
 3. **[Execution Algorithms](../e/execution_algorithms.md)**: These algorithms execute buy orders at optimal prices, often using techniques like VWAP ([Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price) to minimize [market](../m/market.md) impact.
 4. **[Portfolio Management](../p/par.md)**: Managing the aggregate [risk](../r/risk.md) and [return](../r/return.md) profiles of the portfolio by dynamically adjusting allocations based on the strength or weakness of dip signals.
 5. **[Backtesting](../b/backtesting.md) and [Optimization](../o/optimization.md)**: Continuous testing of algorithms on historical data to ensure robustness and optimize parameters to improve future performance.
 
 ### Examples of Algorithmic Indicators for Dip Buying
 
-1. **RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md))**: An RSI below 30 is typically considered [oversold](../o/oversold.md), indicating a potential dip-buying opportunity.
+1. **RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md))**: An RSI below 30 is typically considered [oversold](../o/oversold.md), indicating a potential dip-buying opportunity.
 2. **[Bollinger Bands](../b/bollinger_band.md)**: Buy signals are generated when prices touch or fall below the lower Bollinger Band, suggesting that the [asset](../a/asset.md) is [oversold](../o/oversold.md).
 3. **Moving Averages**: Buying when an [asset](../a/asset.md)'s price moves below a significant moving average (e.g., [200-day moving average](../1/200-day_moving_average.md)), assuming the overall [trend](../t/trend.md) remains bullish.
 

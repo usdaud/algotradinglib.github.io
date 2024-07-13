@@ -6,7 +6,7 @@ Global [Trend Analysis](../t/trend_analysis.md) (GTA) in [algorithmic trading](.
 
 ### 1. **Trend Identification**
 
-Identifying trends is the cornerstone of Global [Trend Analysis](../t/trend_analysis.md). Traders and analysts use various [technical indicators](../t/technical_indicators.md), such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)), to determine the direction of the [market](../m/market.md). 
+Identifying trends is the cornerstone of Global [Trend Analysis](../t/trend_analysis.md). Traders and analysts use various [technical indicators](../t/technical_indicators.md), such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)), to determine the direction of the [market](../m/market.md). 
 
 - **Moving Averages**: Simple Moving Average (SMA) and Exponential Moving Average (EMA) smooth out price data to highlight the [underlying](../u/underlying.md) [trend](../t/trend.md).
 - **RSI**: Measures the magnitude of recent price changes to determine [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.

@@ -77,7 +77,7 @@ A [stop-loss order](../s/stop-loss_order.md) is an instruction to sell a [securi
 
 ### Hedging with Inverse ETFs
 
-[Inverse ETFs](../i/inverse_etfs.md) are designed to move in the opposite direction of a specific [index](../i/index.md) or [benchmark](../b/benchmark.md). By incorporating [inverse ETFs](../i/inverse_etfs.md) into a portfolio, investors can [hedge](../h/hedge.md) against [market](../m/market.md) downturns, effectively reducing downside [risk](../r/risk.md).
+[Inverse ETFs](../i/inverse_etfs.md) are designed to move in the opposite direction of a specific [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md). By incorporating [inverse ETFs](../i/inverse_etfs.md) into a portfolio, investors can [hedge](../h/hedge.md) against [market](../m/market.md) downturns, effectively reducing downside [risk](../r/risk.md).
 
 ## Downside Risk and Financial Regulations
 

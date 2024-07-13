@@ -15,7 +15,7 @@ Trading models play a crucial role in [algorithmic trading](../a/algorithmic_tra
 ## 2. Momentum Models
 
 **[Momentum trading](../m/momentum_trading.md)** leverages the tendency of prices to continue in the direction of a significant price move.
-- **Key Components**: Indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and rate-of-change (ROC).
+- **Key Components**: Indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and rate-of-change (ROC).
 - **Mechanics**: Buys securities that are rising and sells securities that are falling.
 - **Benefits**: Effective during strong trending periods.
 - **Limitations**: May incur significant losses during [market](../m/market.md) reversals.

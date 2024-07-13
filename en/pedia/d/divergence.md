@@ -8,7 +8,7 @@ Divergence comes in two main types: Regular Divergence and Hidden Divergence.
 
 ### Regular Divergence
 
-Regular Divergence is a situation where the price of an [asset](../a/asset.md) and a specific technical [indicator](../i/indicator.md), most commonly the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence Divergence (MACD), move in opposite directions. It can be either bullish or bearish.
+Regular Divergence is a situation where the price of an [asset](../a/asset.md) and a specific technical [indicator](../i/indicator.md), most commonly the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence Divergence (MACD), move in opposite directions. It can be either bullish or bearish.
 
 #### Bullish Regular Divergence
 
@@ -101,9 +101,9 @@ def find_divergence(prices, [indicator](../i/indicator.md)):
     divergences = []
     for i in [range](../r/range.md)(1, len(prices)):
         if prices[i] < prices[i-1] and [indicator](../i/indicator.md)[i] > [indicator](../i/indicator.md)[i-1]:
-            divergences.append(('[Bullish Divergence](../b/bullish_divergence.md)', prices.[index](../i/index.md)[i]))
+            divergences.append(('[Bullish Divergence](../b/bullish_divergence.md)', prices.[index](../i/index_instrument.md)[i]))
         elif prices[i] > prices[i-1] and [indicator](../i/indicator.md)[i] < [indicator](../i/indicator.md)[i-1]:
-            divergences.append(('[Bearish Divergence](../b/bearish_divergence.md)', prices.[index](../i/index.md)[i]))
+            divergences.append(('[Bearish Divergence](../b/bearish_divergence.md)', prices.[index](../i/index_instrument.md)[i]))
     [return](../r/return.md) divergences
 
 # Example usage with dummy data

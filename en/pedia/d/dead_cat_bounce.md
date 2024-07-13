@@ -33,7 +33,7 @@ Traders often use [technical analysis](../t/technical_analysis.md) to identify p
 - **[Volume](../v/volume.md)**: Dead cat bounces often occur on low trading volumes.
 - **Moving Averages**: Brief recoveries that [fail](../f/fail.md) to break above key moving averages (e.g., 50-day or 200-day) may indicate a false [rally](../r/rally.md).
 - **Resistance Levels**: Bounces that [fail](../f/fail.md) to penetrate established resistance levels are often considered suspect.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: An [overbought](../o/overbought.md) RSI level during a bounce can indicate that the bounce is likely to be short-lived.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: An [overbought](../o/overbought.md) RSI level during a bounce can indicate that the bounce is likely to be short-lived.
 
 ### Fundamental Analysis
 While [technical analysis](../t/technical_analysis.md) is more commonly used for identifying dead cat bounces, [fundamental analysis](../f/fundamental_analysis.md) should not be ignored. Key aspects to consider include:

@@ -70,7 +70,7 @@ Access to real-time data feeds is critical for managing jump [risk](../r/risk.md
 
 ## Regulatory Aspects
 
-Regulatory bodies have implemented various measures to address jump [risk](../r/risk.md) and ensure [market](../m/market.md) stability. For example, the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) has established circuit breakers that halt trading if an [index](../i/index.md) drops by a certain percentage within a short period. These measures aim to prevent panic selling and provide a cooling-off period for markets to stabilize.
+Regulatory bodies have implemented various measures to address jump [risk](../r/risk.md) and ensure [market](../m/market.md) stability. For example, the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) has established circuit breakers that halt trading if an [index](../i/index_instrument.md) drops by a certain percentage within a short period. These measures aim to prevent panic selling and provide a cooling-off period for markets to stabilize.
 
 ## Conclusion
 

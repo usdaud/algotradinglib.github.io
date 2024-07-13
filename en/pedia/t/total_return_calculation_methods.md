@@ -153,7 +153,7 @@ A [Total Return Index](../t/total_return_index.md) (TRI) calculates the [total r
 - \(\text{[Dividend Yield](../d/dividend_yield.md)}\): [Dividend yield](../d/dividend_yield.md) of [asset](../a/asset.md).
 
 **Example:**
-If an [index](../i/index.md) starts at 1000, with a price [return](../r/return.md) of 2% and a [dividend yield](../d/dividend_yield.md) of 1%, the TRI at the next period is:
+If an [index](../i/index_instrument.md) starts at 1000, with a price [return](../r/return.md) of 2% and a [dividend yield](../d/dividend_yield.md) of 1%, the TRI at the next period is:
 \[ 1000 \times \left( 1 + \frac{2}{100} + \frac{1}{100} \right) = 1030 \]
 
 **Pros:**

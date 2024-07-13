@@ -86,7 +86,7 @@ The CFTC regulates the U.S. [derivatives](../d/derivatives.md) markets, includin
 
 ### 1. Vanguard Group
 
-Vanguard is one of the world's largest investment companies, [offering](../o/offering.md) a wide [range](../r/range.md) of mutual funds, ETFs, and other investment products. They are known for their low-cost [index](../i/index.md) funds. Website: [Vanguard.com](https://www.vanguard.com/)
+Vanguard is one of the world's largest investment companies, [offering](../o/offering.md) a wide [range](../r/range.md) of mutual funds, ETFs, and other investment products. They are known for their low-cost [index](../i/index_instrument.md) funds. Website: [Vanguard.com](https://www.vanguard.com/)
 
 ### 2. BlackRock
 

@@ -40,7 +40,7 @@ These algorithms are predicated on the statistical concept of [mean reversion](.
 ### **3. Arbitrage Strategies**
 [Arbitrage](../a/arbitrage.md) algorithms exploit price inefficiencies between different markets or [asset](../a/asset.md) classes. Common types include 
 - **Statistical [Arbitrage](../a/arbitrage.md):** Involves simultaneous buying and selling of correlated assets when their price differential departs from statistical norms.
-- **[Index](../i/index.md) [Arbitrage](../a/arbitrage.md):** Profiting from discrepancies between the price of an [index](../i/index.md) and its constituent assets.
+- **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md):** Profiting from discrepancies between the price of an [index](../i/index_instrument.md) and its constituent assets.
 
 ### **4. Market Making**
 [Market](../m/market.md)-making algorithms provide [liquidity](../l/liquidity.md) to [financial markets](../f/financial_market.md). They place both buy and sell limit orders for a given [security](../s/security.md), profiting from the [bid-ask spread](../b/bid-ask_spread.md). These algorithms aim to be [market](../m/market.md)-[neutral](../n/neutral.md) by quickly offsetting [inventory](../i/inventory.md) positions.

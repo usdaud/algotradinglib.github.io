@@ -1,6 +1,6 @@
 # 1-Year Yield
 
-The 1-year [yield](../y/yield.md) is a financial metric that represents the [return](../r/return.md) on an investment over a one-year period, usually expressed as a percentage. It is commonly used to evaluate the performance of various financial instruments such as bonds, fixed deposits, and other investment vehicles. In the context of [algorithmic trading](../a/algorithmic_trading.md), the 1-year [yield](../y/yield.md) can serve as a [benchmark](../b/benchmark.md) [index](../i/index.md) to gauge the effectiveness of [trading strategies](../t/trading_strategies.md) over an annual period.
+The 1-year [yield](../y/yield.md) is a financial metric that represents the [return](../r/return.md) on an investment over a one-year period, usually expressed as a percentage. It is commonly used to evaluate the performance of various financial instruments such as bonds, fixed deposits, and other investment vehicles. In the context of [algorithmic trading](../a/algorithmic_trading.md), the 1-year [yield](../y/yield.md) can serve as a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) to gauge the effectiveness of [trading strategies](../t/trading_strategies.md) over an annual period.
 
 ## Importance in Algorithmic Trading
 

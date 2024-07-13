@@ -43,7 +43,7 @@ DPO can act as a [momentum](../m/momentum.md) [indicator](../i/indicator.md) by 
 
 ### Complementary Use with Other Indicators
 
-DPO is often used in conjunction with other [technical indicators](../t/technical_indicators.md), such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD), to confirm signals and enhance trading decisions.
+DPO is often used in conjunction with other [technical indicators](../t/technical_indicators.md), such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD), to confirm signals and enhance trading decisions.
 
 ## Practical Example
 

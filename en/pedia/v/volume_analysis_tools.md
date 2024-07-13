@@ -28,9 +28,9 @@
 
    The A/D Line is another [volume](../v/volume.md)-based [indicator](../i/indicator.md) that helps traders understand the cumulative flow of [money](../m/money.md) in and out of a [security](../s/security.md). It adds a portion of the daily [volume](../v/volume.md) based on the position of the close relative to the day’s high-low [range](../r/range.md). The A/D Line helps identify divergences between [volume](../v/volume.md) and price, signaling potential reversals.
 
-6. **[Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI)**
+6. **[Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI)**
 
-   The [Money Flow](../m/money_flow.md) [Index](../i/index.md) combines price and [volume](../v/volume.md) data to indicate the buying and selling pressure of a [security](../s/security.md). It is a [volume](../v/volume.md)-[weighted](../w/weighted.md) RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) that ranges from 0 to 100. An MFI above 80 suggests [overbought](../o/overbought.md) conditions, while an MFI below 20 indicates [oversold](../o/oversold.md) conditions.
+   The [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) combines price and [volume](../v/volume.md) data to indicate the buying and selling pressure of a [security](../s/security.md). It is a [volume](../v/volume.md)-[weighted](../w/weighted.md) RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) that ranges from 0 to 100. An MFI above 80 suggests [overbought](../o/overbought.md) conditions, while an MFI below 20 indicates [oversold](../o/oversold.md) conditions.
 
 7. **[Volume Oscillator](../v/volume_oscillator.md) (VO)**
 

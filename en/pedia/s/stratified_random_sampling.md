@@ -52,7 +52,7 @@ Financial institutions often use stratified [sampling](../s/sampling.md) in [mar
 
 ## Case Study: Vanguard Group
 
-[Vanguard Group](https://www.vanguard.com) is known for using stratified random [sampling](../s/sampling.md) techniques to manage its [index](../i/index.md) funds. By ensuring that each sector and [market segment](../m/market_segment.md) is appropriately represented, Vanguard can closely track the performance of the [underlying](../u/underlying.md) indexes, providing investors with returns that mirror the [market](../m/market.md).
+[Vanguard Group](https://www.vanguard.com) is known for using stratified random [sampling](../s/sampling.md) techniques to manage its [index](../i/index_instrument.md) funds. By ensuring that each sector and [market segment](../m/market_segment.md) is appropriately represented, Vanguard can closely track the performance of the [underlying](../u/underlying.md) indexes, providing investors with returns that mirror the [market](../m/market.md).
 
 ## Conclusion
 

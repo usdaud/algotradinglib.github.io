@@ -17,7 +17,7 @@ Various [technical indicators](../t/technical_indicators.md) and [chart patterns
    - **Simple Moving Average (SMA)**: Averages the price over a specified period.
    - **Exponential Moving Average (EMA)**: Gives more weight to recent prices.
 
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**:
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**:
    - Measures the speed and change of price movements.
    - Typically, an RSI above 70 indicates [overbought](../o/overbought.md) conditions, while below 30 suggests [oversold](../o/oversold.md) conditions.
 

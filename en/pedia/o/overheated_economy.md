@@ -35,7 +35,7 @@ Specific sectors like housing can experience booms that drive overall [economic 
 
 ### CPI and Inflation Rates
 
-The Consumer Price [Index](../i/index.md) (CPI) is a key [indicator](../i/indicator.md) used to measure [inflation](../i/inflation.md). When the CPI rises rapidly, it is a sign of increasing prices, often observed in an overheated [economy](../e/economy.md). High [inflation](../i/inflation.md) can have various adverse effects, including reduced consumer spending and increased costs for businesses.
+The Consumer Price [Index](../i/index_instrument.md) (CPI) is a key [indicator](../i/indicator.md) used to measure [inflation](../i/inflation.md). When the CPI rises rapidly, it is a sign of increasing prices, often observed in an overheated [economy](../e/economy.md). High [inflation](../i/inflation.md) can have various adverse effects, including reduced consumer spending and increased costs for businesses.
 
 ### GDP Growth Rate
 

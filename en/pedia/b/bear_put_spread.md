@@ -5,7 +5,7 @@ A Bear Put Spread is an [options](../o/options.md) [trading strategy](../t/tradi
 ## Key Components
 
 ### Underlying Asset
-The [underlying asset](../u/underlying_asset.md) can be a stock, an [index](../i/index.md), or any other [financial instrument](../f/financial_instrument.md) for which [options](../o/options.md) are available.
+The [underlying asset](../u/underlying_asset.md) can be a stock, an [index](../i/index_instrument.md), or any other [financial instrument](../f/financial_instrument.md) for which [options](../o/options.md) are available.
 
 ### Strike Prices
 In a Bear Put Spread, you choose two different strike prices. The [put option](../p/put.md) with the higher [strike price](../s/strike_price.md) (which you buy) and the [put option](../p/put.md) with the lower [strike price](../s/strike_price.md) (which you sell).

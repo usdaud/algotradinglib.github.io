@@ -36,7 +36,7 @@ Positive CMF values indicate accumulation (buying pressure), while negative valu
 
 ### 2. Money Flow Index (MFI)
 
-The [Money](../m/money.md) Flow [Index](../i/index.md) (MFI) is a [momentum](../m/momentum.md) [indicator](../i/indicator.md) that uses price and [volume](../v/volume.md) data to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. It ranges from 0 to 100 and is often referred to as the [volume](../v/volume.md)-[weighted](../w/weighted.md) [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI).
+The [Money](../m/money.md) Flow [Index](../i/index_instrument.md) (MFI) is a [momentum](../m/momentum.md) [indicator](../i/indicator.md) that uses price and [volume](../v/volume.md) data to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. It ranges from 0 to 100 and is often referred to as the [volume](../v/volume.md)-[weighted](../w/weighted.md) [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 
 #### Calculation of MFI:
 
@@ -123,7 +123,7 @@ Amazon, a global e-[commerce](../c/commerce.md) giant, has been the subject of e
 
 #### Example:
 
-In 2020, during the COVID-19 pandemic, Amazon experienced significant positive [money](../m/money.md) flow as investors anticipated increased e-[commerce](../c/commerce.md) activity. This was reflected in the rising Chaikin [Money](../m/money.md) Flow and [Money](../m/money.md) Flow [Index](../i/index.md), leading to a substantial increase in Amazon's stock price.
+In 2020, during the COVID-19 pandemic, Amazon experienced significant positive [money](../m/money.md) flow as investors anticipated increased e-[commerce](../c/commerce.md) activity. This was reflected in the rising Chaikin [Money](../m/money.md) Flow and [Money](../m/money.md) Flow [Index](../i/index_instrument.md), leading to a substantial increase in Amazon's stock price.
 
 ### Case Study 2: Tesla (TSLA)
 
@@ -131,7 +131,7 @@ Tesla, a leading electric vehicle manufacturer, has a highly volatile stock that
 
 #### Example:
 
-In early 2021, Tesla's stock price surged, accompanied by positive [money](../m/money.md) flow as indicated by the On-Balance [Volume](../v/volume.md) and [Money](../m/money.md) Flow [Index](../i/index.md). Traders who identified this positive [money](../m/money.md) flow [trend](../t/trend.md) were able to [capitalize](../c/capitalize.md) on the upward [price momentum](../p/price_momentum.md).
+In early 2021, Tesla's stock price surged, accompanied by positive [money](../m/money.md) flow as indicated by the On-Balance [Volume](../v/volume.md) and [Money](../m/money.md) Flow [Index](../i/index_instrument.md). Traders who identified this positive [money](../m/money.md) flow [trend](../t/trend.md) were able to [capitalize](../c/capitalize.md) on the upward [price momentum](../p/price_momentum.md).
 
 ## Tools and Platforms for Money Flow Analysis
 
@@ -163,4 +163,4 @@ Visit: [QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion
 
-[Money](../m/money.md) flow is a crucial concept in [finance](../f/finance.md) and trading, [offering](../o/offering.md) valuable insights into [market sentiment](../m/market_sentiment.md), price movements, and [investor](../i/investor.md) behavior. By understanding and utilizing [money](../m/money.md) flow indicators and advanced techniques, traders and investors can make more informed decisions and enhance their [trading strategies](../t/trading_strategies.md). Whether through traditional methods like the Chaikin [Money](../m/money.md) Flow and [Money](../m/money.md) Flow [Index](../i/index.md) or through cutting-edge technologies like machine learning and [blockchain](../b/blockchain_in_trading.md), [money flow analysis](../m/money_flow_analysis.md) remains an indispensable tool in the ever-evolving [financial markets](../f/financial_market.md).
+[Money](../m/money.md) flow is a crucial concept in [finance](../f/finance.md) and trading, [offering](../o/offering.md) valuable insights into [market sentiment](../m/market_sentiment.md), price movements, and [investor](../i/investor.md) behavior. By understanding and utilizing [money](../m/money.md) flow indicators and advanced techniques, traders and investors can make more informed decisions and enhance their [trading strategies](../t/trading_strategies.md). Whether through traditional methods like the Chaikin [Money](../m/money.md) Flow and [Money](../m/money.md) Flow [Index](../i/index_instrument.md) or through cutting-edge technologies like machine learning and [blockchain](../b/blockchain_in_trading.md), [money flow analysis](../m/money_flow_analysis.md) remains an indispensable tool in the ever-evolving [financial markets](../f/financial_market.md).

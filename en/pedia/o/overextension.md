@@ -10,7 +10,7 @@ Overextension occurs when the price of an [asset](../a/asset.md) moves significa
 
 Several indicators can help identify overextension, including:
 - **Moving Averages (MA):** When the price moves significantly above or below moving averages such as the 50-day or 200-day moving averages.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** An RSI reading above 70 indicates that the [asset](../a/asset.md) is [overbought](../o/overbought.md), while an RSI below 30 suggests it is [oversold](../o/oversold.md).
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** An RSI reading above 70 indicates that the [asset](../a/asset.md) is [overbought](../o/overbought.md), while an RSI below 30 suggests it is [oversold](../o/oversold.md).
 - **[Bollinger Bands](../b/bollinger_band.md):** When price consistently touches or crosses the upper or lower bands, it may indicate overextension.
 - **[Volume](../v/volume.md):** A sharp increase in [volume](../v/volume.md) without corresponding news or events can suggest overextended moves based on speculative trading.
 
@@ -57,7 +57,7 @@ Traders and investors use various strategies to manage overextended conditions:
 ### Using Contrarian Indicators
 
 Contrarian indicators involve taking positions contrary to prevailing [market sentiment](../m/market_sentiment.md), such as:
-- **VIX ([Volatility](../v/volatility.md) [Index](../i/index.md)):** High VIX values may indicate a selling climax, suggesting potential buying opportunities.
+- **VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md)):** High VIX values may indicate a selling climax, suggesting potential buying opportunities.
 - **[Sentiment Surveys](../s/sentiment_surveys.md):** Low sentiment readings could signal a [market](../m/market.md) bottom, while overly bullish sentiment might predict a top.
 
 ### Risk Management Techniques

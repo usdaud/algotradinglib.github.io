@@ -50,7 +50,7 @@
    This approach involves analyzing [financial statements](../f/financial_statements.md), [economic indicators](../e/economic_indicators.md), and other relevant qualitative and quantitative factors to forecast future returns. Models include the [Dividend](../d/dividend.md) [Discount](../d/discount.md) Model (DDM) and Discounted [Cash Flow](../c/cash_flow.md) (DCF) analysis.
 
 4. **[Technical Analysis](../t/technical_analysis.md):**
-   [Technical analysis](../t/technical_analysis.md) focuses on historical price and [volume](../v/volume.md) data to predict future price movements. It includes various [chart patterns](../c/chart_patterns.md), [technical indicators](../t/technical_indicators.md) (e.g., Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), and [trading signals](../t/trading_signals.md).
+   [Technical analysis](../t/technical_analysis.md) focuses on historical price and [volume](../v/volume.md) data to predict future price movements. It includes various [chart patterns](../c/chart_patterns.md), [technical indicators](../t/technical_indicators.md) (e.g., Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), and [trading signals](../t/trading_signals.md).
 
 5. **[Sentiment Analysis](../s/sentiment_analysis.md):**
    [Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning to gauge [market sentiment](../m/market_sentiment.md) based on news articles, [social media](../s/social_media.md), and other textual data sources. It provides insights into the prevailing [market](../m/market.md) mood, which can influence future returns.

@@ -5,18 +5,18 @@
 ## Types of Inflation-Linked Bonds
 
 ### Treasury Inflation-Protected Securities (TIPS)
-In the United States, the most well-known [inflation](../i/inflation.md)-linked bonds are Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS). TIPS are issued by the U.S. Department of the Treasury and are indexed to the Consumer Price [Index](../i/index.md) (CPI), which measures [inflation](../i/inflation.md). Full details of TIPS can be found on the [U.S. Treasury's website](https://www.treasurydirect.gov/indiv/research/indepth/tips/res_tips.htm).
+In the United States, the most well-known [inflation](../i/inflation.md)-linked bonds are Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS). TIPS are issued by the U.S. Department of the Treasury and are indexed to the Consumer Price [Index](../i/index_instrument.md) (CPI), which measures [inflation](../i/inflation.md). Full details of TIPS can be found on the [U.S. Treasury's website](https://www.treasurydirect.gov/indiv/research/indepth/tips/res_tips.htm).
 
 ### UK Index-Linked Gilts
-In the United Kingdom, [inflation](../i/inflation.md)-linked bonds are known as [Index](../i/index.md)-Linked [Gilts](../g/gilts.md). These bonds are issued by the UK [Debt](../d/debt.md) Management Office (DMO) and are linked to the Retail Price [Index](../i/index.md) (RPI). You can access more information about [Index](../i/index.md)-Linked [Gilts](../g/gilts.md) on the [UK DMO website](https://www.dmo.gov.uk/).
+In the United Kingdom, [inflation](../i/inflation.md)-linked bonds are known as [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md). These bonds are issued by the UK [Debt](../d/debt.md) Management Office (DMO) and are linked to the Retail Price [Index](../i/index_instrument.md) (RPI). You can access more information about [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md) on the [UK DMO website](https://www.dmo.gov.uk/).
 
 ### Euro Inflation-Linked Bonds
-Within the [Eurozone](../e/eurozone.md), numerous countries [issue](../i/issue.md) [inflation](../i/inflation.md)-linked bonds, and they are generally indexed to the Harmonized [Index](../i/index.md) of Consumer Prices (HICP). For example, the French government issues [Obligations](../o/obligation.md) Assimilables du Trésor (OATi), which can be explored further on the [Agence France Trésor website](https://www.aft.gouv.fr/en).
+Within the [Eurozone](../e/eurozone.md), numerous countries [issue](../i/issue.md) [inflation](../i/inflation.md)-linked bonds, and they are generally indexed to the Harmonized [Index](../i/index_instrument.md) of Consumer Prices (HICP). For example, the French government issues [Obligations](../o/obligation.md) Assimilables du Trésor (OATi), which can be explored further on the [Agence France Trésor website](https://www.aft.gouv.fr/en).
 
 ## Mechanics of Inflation-Linked Bonds
 
 ### Principal Adjustment
-The [principal](../p/principal.md) amount of an ILB is adjusted periodically to reflect changes in the price [index](../i/index.md) it is linked to. For instance, if the CPI or RPI increases, the [principal](../p/principal.md) amount of the [bond](../b/bond.md) [will](../w/will.md) increase proportionally. Conversely, if there is [deflation](../d/deflation.md), the [principal](../p/principal.md) amount [will](../w/will.md) decrease. However, many ILBs come with a [deflation](../d/deflation.md) floor ensuring that the [principal](../p/principal.md) does not fall below its original [value](../v/value.md).
+The [principal](../p/principal.md) amount of an ILB is adjusted periodically to reflect changes in the price [index](../i/index_instrument.md) it is linked to. For instance, if the CPI or RPI increases, the [principal](../p/principal.md) amount of the [bond](../b/bond.md) [will](../w/will.md) increase proportionally. Conversely, if there is [deflation](../d/deflation.md), the [principal](../p/principal.md) amount [will](../w/will.md) decrease. However, many ILBs come with a [deflation](../d/deflation.md) floor ensuring that the [principal](../p/principal.md) does not fall below its original [value](../v/value.md).
 
 ### Coupon Payments
 The coupon [payment](../p/payment.md) of an ILB is typically calculated based on the adjusted [principal](../p/principal.md). Therefore, as the [principal](../p/principal.md) increases with [inflation](../i/inflation.md), the [interest](../i/interest.md) payments also increase, providing a [hedge](../h/hedge.md) against [inflation](../i/inflation.md).
@@ -41,7 +41,7 @@ Most [inflation](../i/inflation.md)-linked bonds are issued by sovereign governm
 ILBs are not immune to [interest rate risk](../i/interest_rate_risk.md). Rising [interest](../i/interest.md) rates typically lead to falling [bond](../b/bond.md) prices. However, because the [principal](../p/principal.md) is adjusted for [inflation](../i/inflation.md), the price [volatility](../v/volatility.md) of ILBs may be lower compared to [nominal](../n/nominal.md) bonds.
 
 ### Inflation Risk
-Although ILBs are designed to protect against [inflation](../i/inflation.md), there is still a [risk](../r/risk.md) associated with the method of measuring [inflation](../i/inflation.md). If the [index](../i/index.md) used to adjust the ILB does not accurately reflect the [investor](../i/investor.md)'s experience of [inflation](../i/inflation.md), the protection might be inadequate.
+Although ILBs are designed to protect against [inflation](../i/inflation.md), there is still a [risk](../r/risk.md) associated with the method of measuring [inflation](../i/inflation.md). If the [index](../i/index_instrument.md) used to adjust the ILB does not accurately reflect the [investor](../i/investor.md)'s experience of [inflation](../i/inflation.md), the protection might be inadequate.
 
 ### Tax Considerations
 In some jurisdictions, the [inflation](../i/inflation.md) adjustments to the [principal](../p/principal.md) of an ILB can be taxable, even though the [investor](../i/investor.md) does not receive the adjustment amount until the [bond](../b/bond.md) matures. This can result in a higher tax burden compared to [nominal](../n/nominal.md) bonds.
@@ -52,7 +52,7 @@ In some jurisdictions, the [inflation](../i/inflation.md) adjustments to the [pr
 The U.S. Department of the Treasury is the primary [issuer](../i/issuer.md) of TIPS. Investors can buy TIPS directly from the Treasury through the [TreasuryDirect website](https://www.treasurydirect.gov/).
 
 ### UK Debt Management Office
-The UK DMO manages the issuance of [Index](../i/index.md)-Linked [Gilts](../g/gilts.md). Detailed information can be found on the [DMO website](https://www.dmo.gov.uk/).
+The UK DMO manages the issuance of [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md). Detailed information can be found on the [DMO website](https://www.dmo.gov.uk/).
 
 ### Agence France Trésor
 Agence France Trésor is responsible for the issuance of French [inflation](../i/inflation.md)-linked bonds, including OATi. Their resources are available on their official [website](https://www.aft.gouv.fr/).
@@ -74,7 +74,7 @@ Before [investing](../i/investing.md) in ILBs, investors should consider [inflat
 ## Tips for Investors
 
 ### Understand the Index
-It's crucial to understand the [index](../i/index.md) your ILB is linked to. Different countries use different indices (CPI, RPI, HICP), and the choice of [index](../i/index.md) can impact the [bond](../b/bond.md)'s performance.
+It's crucial to understand the [index](../i/index_instrument.md) your ILB is linked to. Different countries use different indices (CPI, RPI, HICP), and the choice of [index](../i/index_instrument.md) can impact the [bond](../b/bond.md)'s performance.
 
 ### Monitor Inflation Trends
 Keeping an eye on [inflation](../i/inflation.md) trends can help investors decide when to invest in ILBs. Rising [inflation](../i/inflation.md) rates make ILBs more valuable, while falling [inflation](../i/inflation.md) might decrease their attractiveness.

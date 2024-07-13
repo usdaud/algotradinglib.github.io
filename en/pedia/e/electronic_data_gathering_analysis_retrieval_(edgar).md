@@ -58,7 +58,7 @@ EDGAR can be accessed via the SEC's official website at [https://www.sec.gov/edg
 
 ### Search Features
 
-1. **Company Search**: Allows users to search for filings by company name or Central [Index](../i/index.md) Key (CIK).
+1. **Company Search**: Allows users to search for filings by company name or Central [Index](../i/index_instrument.md) Key (CIK).
 2. **Latest Filings**: Provides a chronological list of the most recent filings.
 3. **Full-Text Search**: Enables users to search the content of filings for specific terms.
 4. **Historical Archives**: Users can access filings dating back several decades.

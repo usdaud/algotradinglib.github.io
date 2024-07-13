@@ -19,7 +19,7 @@ The foundation of any TARN is its [underlying](../u/underlying.md) assets. These
 
 ### 2. **Coupon Payments**:
 
-TARNs typically [offer](../o/offer.md) periodic coupon payments to investors. These payments are often linked to the performance of the [underlying](../u/underlying.md) assets. For example, the coupons might be based on the difference between two [interest](../i/interest.md) rates or the performance of an [equity](../e/equity.md) [index](../i/index.md).
+TARNs typically [offer](../o/offer.md) periodic coupon payments to investors. These payments are often linked to the performance of the [underlying](../u/underlying.md) assets. For example, the coupons might be based on the difference between two [interest](../i/interest.md) rates or the performance of an [equity](../e/equity.md) [index](../i/index_instrument.md).
 
 ### 3. **Accrual Mechanism**:
 

@@ -8,9 +8,9 @@ Most economic discussions distinguish between [nominal](../n/nominal.md) [income
 
 The formula to calculate real [income](../i/income.md) is as follows:
 
-\[ \text{Real Income} = \frac{\text{Nominal Income}}{\text{[Price Level](../p/price_level.md) [Index](../i/index.md)}} \times 100 \]
+\[ \text{Real Income} = \frac{\text{Nominal Income}}{\text{[Price Level](../p/price_level.md) [Index](../i/index_instrument.md)}} \times 100 \]
 
-Here, the [Price Level](../p/price_level.md) [Index](../i/index.md) is typically derived from price indices like the Consumer Price [Index](../i/index.md) (CPI) or the GDP deflator, which measure the average change in prices over time for a [basket of goods](../b/basket_of_goods.md) and services.
+Here, the [Price Level](../p/price_level.md) [Index](../i/index_instrument.md) is typically derived from price indices like the Consumer Price [Index](../i/index_instrument.md) (CPI) or the GDP deflator, which measure the average change in prices over time for a [basket of goods](../b/basket_of_goods.md) and services.
 
 ### Example
 

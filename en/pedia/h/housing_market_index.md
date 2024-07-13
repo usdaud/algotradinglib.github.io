@@ -15,13 +15,13 @@ Each of these components is rated on a scale from 0 to 100. The overall HMI is c
 
 The HMI has been published since January 1985 and has evolved into a vital barometer for gauging the health of the U.S. housing [market](../m/market.md). Historically, it has shown correlations with other [economic indicators](../e/economic_indicators.md) such as GDP growth, employment rates, and consumer confidence. For instance, a high HMI often coincides with [robust](../r/robust.md) [economic growth](../e/economic_growth.md) and a strong [labor market](../l/labor_market.md), while a low HMI can signal economic downturns and rising [unemployment](../u/unemployment.md).
 
-During the mid-2000s housing boom, the HMI reached unprecedented highs, only to plummet during the [subprime mortgage](../s/subprime_mortgage.md) crisis and the subsequent [recession](../r/recession.md). This stark change underscored the [index](../i/index.md)'s effectiveness in reflecting [underlying](../u/underlying.md) [economic conditions](../e/economic_conditions.md) and its [utility](../u/utility.md) in alerting [market](../m/market.md) participants to impending shifts.
+During the mid-2000s housing boom, the HMI reached unprecedented highs, only to plummet during the [subprime mortgage](../s/subprime_mortgage.md) crisis and the subsequent [recession](../r/recession.md). This stark change underscored the [index](../i/index_instrument.md)'s effectiveness in reflecting [underlying](../u/underlying.md) [economic conditions](../e/economic_conditions.md) and its [utility](../u/utility.md) in alerting [market](../m/market.md) participants to impending shifts.
 
 ## Data Collection and Methodology
 
 The data for the HMI is collected through a monthly survey of roughly 300 [home](../h/home.md) builders. These builders are asked to rate [market](../m/market.md) conditions based on their experience and [business activities](../b/business_activities.md). Each survey question is designed to capture current [market dynamics](../m/market_dynamics.md) and future expectations. The responses are then averaged to produce the overall HMI and its subcomponents.
 
-The survey process ensures a broad geographical representation, [accounting](../a/accounting.md) for varying regional [market](../m/market.md) conditions across the United States. This geographic diversity helps in producing a comprehensive view of the [market](../m/market.md), ensuring that the [index](../i/index.md) is not skewed by localized events.
+The survey process ensures a broad geographical representation, [accounting](../a/accounting.md) for varying regional [market](../m/market.md) conditions across the United States. This geographic diversity helps in producing a comprehensive view of the [market](../m/market.md), ensuring that the [index](../i/index_instrument.md) is not skewed by localized events.
 
 ## Impact on Financial Markets
 

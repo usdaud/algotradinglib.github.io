@@ -67,7 +67,7 @@ df = pd.DataFrame(data)
 df['SMA_1'] = df['close']
 
 # Example decision using the 1-period SMA
-for [index](../i/index.md), row in df.iterrows():
+for [index](../i/index_instrument.md), row in df.iterrows():
     if row['close'] > row['SMA_1']:
         print(f"Buy Signal at {row['timestamp']}")
 

@@ -80,7 +80,7 @@ Annuities are financial products that provide a stream of [income](../i/income.m
 
 - **Fixed Annuities**: Provide guaranteed payments that do not change.
 - **Variable Annuities**: Payments fluctuate based on the performance of [underlying](../u/underlying.md) investments.
-- **Indexed Annuities**: Payments are linked to a specific [index](../i/index.md), such as the S&P 500.
+- **Indexed Annuities**: Payments are linked to a specific [index](../i/index_instrument.md), such as the S&P 500.
 
 ## Healthcare in Retirement
 

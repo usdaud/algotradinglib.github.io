@@ -16,9 +16,9 @@ Low-[risk](../r/risk.md) [investing](../i/investing.md), particularly in the con
    - **Description**: Statistical [arbitrage](../a/arbitrage.md) involves finding pricing inefficiencies between related financial instruments. These inefficiencies are typically temporary and can be exploited for [profit](../p/profit.md).
    - **Application**: By implementing [pairs trading](../p/pairs_trading.md) (buying one [asset](../a/asset.md) while shorting another), traders can [hedge](../h/hedge.md) [market risk](../m/market_risk.md), potentially lowering the overall [risk](../r/risk.md) profile.
    
-3. **[Index](../i/index.md) [Arbitrage](../a/arbitrage.md)**
-   - **Description**: This strategy takes advantage of discrepancies between the price of an [index](../i/index.md) and the sum of its constituent [stocks](../s/stock.md). 
-   - **Application**: [Algorithmic trading](../a/algorithmic_trading.md) systems buy [undervalued](../u/undervalued.md) [stocks](../s/stock.md) and short [overvalued](../o/overvalued.md) ones to balance the [index](../i/index.md), minimizing directional [market risk](../m/market_risk.md).
+3. **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md)**
+   - **Description**: This strategy takes advantage of discrepancies between the price of an [index](../i/index_instrument.md) and the sum of its constituent [stocks](../s/stock.md). 
+   - **Application**: [Algorithmic trading](../a/algorithmic_trading.md) systems buy [undervalued](../u/undervalued.md) [stocks](../s/stock.md) and short [overvalued](../o/overvalued.md) ones to balance the [index](../i/index_instrument.md), minimizing directional [market risk](../m/market_risk.md).
    
 4. **[Market](../m/market.md) Making**
    - **Description**: [Market](../m/market.md) making involves providing [liquidity](../l/liquidity.md) to the [market](../m/market.md) by placing both buy and sell orders for an [asset](../a/asset.md). The goal is to [profit](../p/profit.md) from the [bid-ask spread](../b/bid-ask_spread.md).

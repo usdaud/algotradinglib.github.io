@@ -18,7 +18,7 @@ The Lima Stock [Exchange](../e/exchange.md) was founded on December 31, 1860. It
 
 ### Indices
 
-The BVL offers several indices to gauge [market](../m/market.md) performance, the most prominent of which is the S&P/BVL Peru General [Index](../i/index.md) (SPBLPGPT). This [index](../i/index.md) includes the largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md) on the [exchange](../e/exchange.md). Other indices include the S&P/BVL Lima 25 and various sectoral indices.
+The BVL offers several indices to gauge [market](../m/market.md) performance, the most prominent of which is the S&P/BVL Peru General [Index](../i/index_instrument.md) (SPBLPGPT). This [index](../i/index_instrument.md) includes the largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md) on the [exchange](../e/exchange.md). Other indices include the S&P/BVL Lima 25 and various sectoral indices.
 
 ## Trading Mechanism
 
@@ -88,7 +88,7 @@ The BVL has invested in modern technology to enhance trading [efficiency](../e/e
 
 ### Historical Performance
 
-The BVL has shown significant growth over the years, driven largely by the [mining](../m/mining.md) sector and economic reforms. The S&P/BVL Peru General [Index](../i/index.md) has historically performed well during periods of high [commodity](../c/commodity.md) prices, reflecting the [exchange](../e/exchange.md)’s sensitivity to global [economic conditions](../e/economic_conditions.md).
+The BVL has shown significant growth over the years, driven largely by the [mining](../m/mining.md) sector and economic reforms. The S&P/BVL Peru General [Index](../i/index_instrument.md) has historically performed well during periods of high [commodity](../c/commodity.md) prices, reflecting the [exchange](../e/exchange.md)’s sensitivity to global [economic conditions](../e/economic_conditions.md).
 
 ### Recent Trends
 

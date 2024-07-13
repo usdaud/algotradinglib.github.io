@@ -4,14 +4,14 @@
 
 ## What are Fixed Income ETFs?
 
-[Fixed Income](../f/fixed_income.md) ETFs are a type of [exchange](../e/exchange.md)-traded [fund](../f/fund.md) that primarily invests in bonds or other fixed-[income](../i/income.md) securities. These ETFs aim to replicate the performance of a specific [bond](../b/bond.md) [index](../i/index.md), which can be based on various criteria, such as [bond](../b/bond.md) type, [maturity](../m/maturity.md), [issuer](../i/issuer.md), or [credit](../c/credit.md) quality.
+[Fixed Income](../f/fixed_income.md) ETFs are a type of [exchange](../e/exchange.md)-traded [fund](../f/fund.md) that primarily invests in bonds or other fixed-[income](../i/income.md) securities. These ETFs aim to replicate the performance of a specific [bond](../b/bond.md) [index](../i/index_instrument.md), which can be based on various criteria, such as [bond](../b/bond.md) type, [maturity](../m/maturity.md), [issuer](../i/issuer.md), or [credit](../c/credit.md) quality.
 
 ### Components and Structure
 
 1. **[Underlying](../u/underlying.md) Assets**: [Fixed Income](../f/fixed_income.md) ETFs [hold](../h/hold.md) a diversified portfolio of bonds, which can include government bonds, corporate bonds, [municipal bonds](../m/municipal_bonds.md), or international bonds. 
-2. **Tracking [Index](../i/index.md)**: These ETFs aim to mimic the performance of a specific [bond](../b/bond.md) [index](../i/index.md), such as the [Bloomberg](../b/bloomberg.md) Barclays US Aggregate [Bond](../b/bond.md) [Index](../i/index.md) or the ICE [U.S. Treasury](../u/u.s._treasury.md) Core [Bond](../b/bond.md) [Index](../i/index.md). 
+2. **Tracking [Index](../i/index_instrument.md)**: These ETFs aim to mimic the performance of a specific [bond](../b/bond.md) [index](../i/index_instrument.md), such as the [Bloomberg](../b/bloomberg.md) Barclays US Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md) or the ICE [U.S. Treasury](../u/u.s._treasury.md) Core [Bond](../b/bond.md) [Index](../i/index_instrument.md). 
 3. **[Liquidity](../l/liquidity.md)**: Unlike individual bonds, [Fixed Income](../f/fixed_income.md) ETFs can be traded on stock exchanges, providing [intraday liquidity](../i/intraday_liquidity.md) to investors.
-4. **Management**: [Fixed Income](../f/fixed_income.md) ETFs can be passively managed ([index](../i/index.md)-based) or actively managed, where the [fund manager](../f/fund_manager.md) selects bonds based on specific criteria.
+4. **Management**: [Fixed Income](../f/fixed_income.md) ETFs can be passively managed ([index](../i/index_instrument.md)-based) or actively managed, where the [fund manager](../f/fund_manager.md) selects bonds based on specific criteria.
 
 ## Advantages of Fixed Income ETFs
 
@@ -30,7 +30,7 @@ Despite the many advantages, [Fixed Income](../f/fixed_income.md) ETFs also have
 1. **[Interest Rate Risk](../i/interest_rate_risk.md)**: [Bond](../b/bond.md) prices and [interest](../i/interest.md) rates have an inverse relationship. When [interest](../i/interest.md) rates rise, [bond](../b/bond.md) prices typically fall, potentially leading to [capital](../c/capital.md) losses in the ETF.
 2. **[Credit Risk](../c/credit_risk.md)**: There's always the [risk](../r/risk.md) that issuers may [default](../d/default.md) on their payments, affecting the ETF's performance.
 3. **[Market Risk](../m/market_risk.md)**: [Fixed Income](../f/fixed_income.md) ETFs traded on exchanges are subject to [market](../m/market.md) fluctuations, which can impact the ETF's price.
-4. **[Tracking Error](../t/tracking_error.md)**: Some ETFs may not perfectly replicate the performance of their [underlying](../u/underlying.md) [index](../i/index.md) due to management fees, [trading costs](../t/trading_costs.md), or other factors.
+4. **[Tracking Error](../t/tracking_error.md)**: Some ETFs may not perfectly replicate the performance of their [underlying](../u/underlying.md) [index](../i/index_instrument.md) due to management fees, [trading costs](../t/trading_costs.md), or other factors.
 5. **[Liquidity Risk](../l/liquidity_risk.md)**: While [Fixed Income](../f/fixed_income.md) ETFs are generally [liquid](../l/liquid.md), those with lower trading volumes or specialized focuses may experience [liquidity](../l/liquidity.md) issues.
 
 ## Types of Fixed Income ETFs
@@ -60,7 +60,7 @@ When [investing](../i/investing.md) in [Fixed Income](../f/fixed_income.md) ETFs
 1. **[Expense](../e/expense.md) Ratios**: Compare the cost of different ETFs to ensure you're getting the best [value](../v/value.md). Lower [expense](../e/expense.md) ratios can significantly impact long-term returns.
 2. **[Yield](../y/yield.md) and [Duration](../d/duration.md)**: Analyze the ETF's [yield](../y/yield.md) to assess [income](../i/income.md) potential and [duration](../d/duration.md) to understand [interest rate sensitivity](../i/interest_rate_sensitivity.md).
 3. **[Credit](../c/credit.md) Quality**: Evaluate the [credit](../c/credit.md) quality of the [underlying](../u/underlying.md) bonds to assess [default risk](../d/default_risk.md).
-4. **[Index](../i/index.md) V. [Active Management](../a/active_management.md)**: Decide whether a passively managed [index fund](../i/index_fund.md) or an actively managed ETF better fits your [investment strategy](../i/investment_strategy.md).
+4. **[Index](../i/index_instrument.md) V. [Active Management](../a/active_management.md)**: Decide whether a passively managed [index fund](../i/index_fund.md) or an actively managed ETF better fits your [investment strategy](../i/investment_strategy.md).
 5. **Tax Considerations**: Consider the tax implications, especially with [municipal bonds](../m/municipal_bonds.md) that may [offer](../o/offer.md) tax-[exempt income](../e/exempt_income.md).
 
 ## Conclusion

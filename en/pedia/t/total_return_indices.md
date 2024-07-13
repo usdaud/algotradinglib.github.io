@@ -5,7 +5,7 @@
 ## Components and Calculation
 
 ### Price Change
-At the core of any financial [index](../i/index.md) is the measurement of price movements of the included assets. This component reflects the appreciation or [depreciation](../d/depreciation.md) in the [value](../v/value.md) of each [asset](../a/asset.md) over time. 
+At the core of any financial [index](../i/index_instrument.md) is the measurement of price movements of the included assets. This component reflects the appreciation or [depreciation](../d/depreciation.md) in the [value](../v/value.md) of each [asset](../a/asset.md) over time. 
 
 #### Calculation Formula
 For an individual [asset](../a/asset.md):
@@ -13,9 +13,9 @@ For an individual [asset](../a/asset.md):
 Price Change = (Price at End of Period - Price at Start of Period) / Price at Start of Period
 ```
 
-For an [index](../i/index.md) with [multiple](../m/multiple.md) assets:
+For an [index](../i/index_instrument.md) with [multiple](../m/multiple.md) assets:
 ```math
-[Index](../i/index.md) Price Change = Σ (Weight of [Asset](../a/asset.md) * Price Change of [Asset](../a/asset.md))
+[Index](../i/index_instrument.md) Price Change = Σ (Weight of [Asset](../a/asset.md) * Price Change of [Asset](../a/asset.md))
 ```
 
 ### Income (Dividends/Interest)
@@ -27,7 +27,7 @@ For [bond](../b/bond.md) indices, it is often calculated as:
 ```math
 [Income](../i/income.md) = Σ ([Interest](../i/interest.md) Payments or Coupon Payments received)
 ```
-This [income](../i/income.md) in TRI is assumed to be reinvested into the [index](../i/index.md).
+This [income](../i/income.md) in TRI is assumed to be reinvested into the [index](../i/index_instrument.md).
 
 ### Total Return Calculation
 The combination of price changes and [income](../i/income.md) yields the [total return](../t/total_return.md).
@@ -38,7 +38,7 @@ The combination of price changes and [income](../i/income.md) yields the [total 
 To track the performance continuously, daily [total return](../t/total_return.md) values can be used.
 
 ### Example: S&P 500 Total Return Index (SPXTR)
-One of the most cited TRIs is the S&P 500 [Total Return Index](../t/total_return_index.md). It incorporates dividends paid by the constituents of the S&P 500, assuming they are reinvested into the [index](../i/index.md).
+One of the most cited TRIs is the S&P 500 [Total Return Index](../t/total_return_index.md). It incorporates dividends paid by the constituents of the S&P 500, assuming they are reinvested into the [index](../i/index_instrument.md).
 
 More information: [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indices/equity/sp-500/)
 

@@ -124,7 +124,7 @@ There are several companies and resources available to help investors manage bea
 
 ### Vanguard
 
-Vanguard is known for its low-cost [index](../i/index.md) funds and ETFs, which can be an effective tool for [diversification](../d/diversification.md) during bear markets. For more information, visit [Vanguard's official website](https://www.vanguard.com/).
+Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and ETFs, which can be an effective tool for [diversification](../d/diversification.md) during bear markets. For more information, visit [Vanguard's official website](https://www.vanguard.com/).
 
 ### BlackRock
 

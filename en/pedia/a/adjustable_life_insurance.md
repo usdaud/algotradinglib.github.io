@@ -28,7 +28,7 @@ Many adjustable [life insurance](../l/life_insurance.md) policies come with conv
 Variable [universal life insurance](../u/universal_life_insurance.md) combines the flexible features of [universal life insurance](../u/universal_life_insurance.md) with an investment component. Policyholders can allocate a portion of their [premium](../p/premium.md) payments to a variety of investment [options](../o/options.md) such as [stocks](../s/stock.md), bonds, or mutual funds, allowing for the potential of higher cash [value](../v/value.md) growth.
 
 ### 3. Indexed Universal Life Insurance
-Indexed [universal life insurance](../u/universal_life_insurance.md) (IUL) policies [offer](../o/offer.md) [premium](../p/premium.md) and [death benefit](../d/death_benefit.md) flexibility, similar to [universal life insurance](../u/universal_life_insurance.md) but with cash [value](../v/value.md) growth linked to a specific [market index](../m/market_index.md). The [interest](../i/interest.md) credited to the cash [value](../v/value.md) depends on the performance of the chosen [index](../i/index.md), usually subject to certain caps and floors.
+Indexed [universal life insurance](../u/universal_life_insurance.md) (IUL) policies [offer](../o/offer.md) [premium](../p/premium.md) and [death benefit](../d/death_benefit.md) flexibility, similar to [universal life insurance](../u/universal_life_insurance.md) but with cash [value](../v/value.md) growth linked to a specific [market index](../m/market_index.md). The [interest](../i/interest.md) credited to the cash [value](../v/value.md) depends on the performance of the chosen [index](../i/index_instrument.md), usually subject to certain caps and floors.
 
 ## Benefits and Advantages
 

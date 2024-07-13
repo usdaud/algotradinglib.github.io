@@ -20,7 +20,7 @@ The Moving Average Convergence [Divergence](../d/divergence.md) (MACD) is a [mom
 
 ### Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) measures the speed and change of price movements on a scale of 0 to 100. RSI values above 70 suggest an [overbought](../o/overbought.md) condition, while values below 30 indicate an [oversold](../o/oversold.md) condition. It’s used for identifying potential [reversal](../r/reversal.md) points and confirming trends.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) measures the speed and change of price movements on a scale of 0 to 100. RSI values above 70 suggest an [overbought](../o/overbought.md) condition, while values below 30 indicate an [oversold](../o/oversold.md) condition. It’s used for identifying potential [reversal](../r/reversal.md) points and confirming trends.
 
 ### Stochastic Oscillator
 

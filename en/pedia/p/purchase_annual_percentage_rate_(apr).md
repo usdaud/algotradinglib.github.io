@@ -6,8 +6,8 @@ The Purchase Annual Percentage Rate (APR) is a critical concept in the realm of 
 
 The Purchase APR is the [interest rate](../i/interest_rate.md) applied to the purchases you make with a [credit card](../c/credit_card.md). It is expressed as an annual percentage and is one of the primary costs associated with borrowing [money](../m/money.md) through a [credit card](../c/credit_card.md). The APR can be fixed or variable:
 
-- **Fixed APR:** A fixed APR does not change in response to [index](../i/index.md) rate fluctuations. However, issuers might still alter the rate under specific conditions, such as not adhering to the [credit card](../c/credit_card.md)'s terms and conditions.
-- **Variable APR:** A variable APR fluctuates based on an [index](../i/index.md), such as the [prime rate](../p/prime_rate.md). The [issuer](../i/issuer.md) calculates the variable rate using the [index](../i/index.md) and adds a predetermined [margin](../m/margin.md).
+- **Fixed APR:** A fixed APR does not change in response to [index](../i/index_instrument.md) rate fluctuations. However, issuers might still alter the rate under specific conditions, such as not adhering to the [credit card](../c/credit_card.md)'s terms and conditions.
+- **Variable APR:** A variable APR fluctuates based on an [index](../i/index_instrument.md), such as the [prime rate](../p/prime_rate.md). The [issuer](../i/issuer.md) calculates the variable rate using the [index](../i/index_instrument.md) and adds a predetermined [margin](../m/margin.md).
 
 ## Calculation of APR
 

@@ -34,28 +34,28 @@ iShares offers a diverse lineup of ETFs catering to various investment strategie
 
 ### Equities
 
-- **iShares Core S&P 500 ETF (IVV)**: This ETF seeks to track the investment results of an [index](../i/index.md) composed of 500 of the largest U.S. companies.
-- **iShares MSCI Emerging Markets ETF (EEM)**: This ETF seeks to track the investment results of an [index](../i/index.md) composed of large and [mid-cap](../m/mid-cap.md) emerging [market](../m/market.md) equities.
+- **iShares Core S&P 500 ETF (IVV)**: This ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of 500 of the largest U.S. companies.
+- **iShares MSCI Emerging Markets ETF (EEM)**: This ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of large and [mid-cap](../m/mid-cap.md) emerging [market](../m/market.md) equities.
 
 ### Fixed Income
 
-- **iShares iBoxx $ [Investment Grade](../i/investment_grade.md) [Corporate Bond](../c/corporate_bond.md) ETF (LQD)**: This ETF seeks to track the investment results of an [index](../i/index.md) composed of U.S. dollar-denominated, investment-grade corporate bonds.
-- **iShares [U.S. Treasury](../u/u.s._treasury.md) [Bond ETF](../b/bond_etf.md) (GOVT)**: This ETF seeks to track the investment results of an [index](../i/index.md) composed of [U.S. Treasury](../u/u.s._treasury.md) bonds.
+- **iShares iBoxx $ [Investment Grade](../i/investment_grade.md) [Corporate Bond](../c/corporate_bond.md) ETF (LQD)**: This ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of U.S. dollar-denominated, investment-grade corporate bonds.
+- **iShares [U.S. Treasury](../u/u.s._treasury.md) [Bond ETF](../b/bond_etf.md) (GOVT)**: This ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of [U.S. Treasury](../u/u.s._treasury.md) bonds.
 
 ### Sector & Industry
 
-- **iShares Global Healthcare ETF (IXJ)**: This ETF seeks to track the investment results of an [index](../i/index.md) composed of [global equities](../g/global_equities.md) in the [healthcare sector](../h/healthcare_sector.md).
-- **iShares U.S. Technology ETF (IYW)**: This ETF seeks to track the investment results of an [index](../i/index.md) composed of U.S. equities in the [technology sector](../t/technology_sector.md).
+- **iShares Global Healthcare ETF (IXJ)**: This ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of [global equities](../g/global_equities.md) in the [healthcare sector](../h/healthcare_sector.md).
+- **iShares U.S. Technology ETF (IYW)**: This ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of U.S. equities in the [technology sector](../t/technology_sector.md).
 
 ### Thematic & Innovation
 
-- **iShares Global Clean Energy ETF (ICLN)**: This ETF seeks to track the investment results of an [index](../i/index.md) composed of [global equities](../g/global_equities.md) in the clean [energy sector](../e/energy_sector.md).
-- **iShares MSCI USA ESG Select ETF (SUSA)**: This ETF seeks to track the investment results of an [index](../i/index.md) composed of U.S. companies with high environmental, social, and governance (ESG) performance relative to their sector peers.
+- **iShares Global Clean Energy ETF (ICLN)**: This ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of [global equities](../g/global_equities.md) in the clean [energy sector](../e/energy_sector.md).
+- **iShares MSCI USA ESG Select ETF (SUSA)**: This ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of U.S. companies with high environmental, social, and governance (ESG) performance relative to their sector peers.
 
 ### Regional & International
 
-- **iShares MSCI ACWI ex U.S. ETF (ACWX)**: This ETF seeks to track the investment results of an [index](../i/index.md) composed of non-U.S. equities from both developed and emerging markets.
-- **iShares Europe ETF (IEV)**: This ETF seeks to track the investment results of an [index](../i/index.md) composed of European equities.
+- **iShares MSCI ACWI ex U.S. ETF (ACWX)**: This ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of non-U.S. equities from both developed and emerging markets.
+- **iShares Europe ETF (IEV)**: This ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of European equities.
 
 ## iShares in the Context of Market Trends
 

@@ -68,7 +68,7 @@ With the global push to phase out LIBOR due to manipulation concerns and transit
 
 ### Alternative Reference Rates
 
-As the financial [industry](../i/industry.md) transitions away from LIBOR, new benchmarks such as SOFR, SONIA (Sterling Overnight [Index](../i/index.md) Average), and €STR ([Euro](../e/euro.md) Short-Term Rate) are increasingly used in FRA contracts. This shift requires [market](../m/market.md) participants to adjust their [valuation models](../v/valuation_models.md) and [risk management](../r/risk_management.md) strategies accordingly.
+As the financial [industry](../i/industry.md) transitions away from LIBOR, new benchmarks such as SOFR, SONIA (Sterling Overnight [Index](../i/index_instrument.md) Average), and €STR ([Euro](../e/euro.md) Short-Term Rate) are increasingly used in FRA contracts. This shift requires [market](../m/market.md) participants to adjust their [valuation models](../v/valuation_models.md) and [risk management](../r/risk_management.md) strategies accordingly.
 
 ### Regulatory Changes
 

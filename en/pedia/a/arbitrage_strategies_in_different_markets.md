@@ -57,10 +57,10 @@ A stock traded on both the Tokyo and New York exchanges might be priced differen
 
 ### **Equity Markets**
 
-[Equity](../e/equity.md) [arbitrage](../a/arbitrage.md) involves exploiting price discrepancies of [stocks](../s/stock.md) on different exchanges or [derivative](../d/derivative.md) markets. This can include [index](../i/index.md) [arbitrage](../a/arbitrage.md), [pairs trading](../p/pairs_trading.md), and sector-based strategies.
+[Equity](../e/equity.md) [arbitrage](../a/arbitrage.md) involves exploiting price discrepancies of [stocks](../s/stock.md) on different exchanges or [derivative](../d/derivative.md) markets. This can include [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md), [pairs trading](../p/pairs_trading.md), and sector-based strategies.
 
 **Example:**
-[Index](../i/index.md) [arbitrage](../a/arbitrage.md) takes advantage of discrepancies between [index futures](../i/index_futures.md) and the [underlying](../u/underlying.md) [stocks](../s/stock.md) in the [index](../i/index.md). If the future is overpriced relative to the [index](../i/index.md) [value](../v/value.md), arbitragers may sell the future and buy the [underlying](../u/underlying.md) [stocks](../s/stock.md) and vice versa.
+[Index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md) takes advantage of discrepancies between [index futures](../i/index_futures.md) and the [underlying](../u/underlying.md) [stocks](../s/stock.md) in the [index](../i/index_instrument.md). If the future is overpriced relative to the [index](../i/index_instrument.md) [value](../v/value.md), arbitragers may sell the future and buy the [underlying](../u/underlying.md) [stocks](../s/stock.md) and vice versa.
 
 ### **Commodity Markets**
 

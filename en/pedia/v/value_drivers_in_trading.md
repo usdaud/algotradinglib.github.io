@@ -15,7 +15,7 @@ In the broad [scope](../s/scope.md) of [financial markets](../f/financial_market
    - High employment rates indicate economic strength, potentially boosting [investor](../i/investor.md) confidence.
 
 3. **[Inflation](../i/inflation.md) Rates**:
-   - Measured by indices like the Consumer Price [Index](../i/index.md) (CPI).
+   - Measured by indices like the Consumer Price [Index](../i/index_instrument.md) (CPI).
    - [Inflation](../i/inflation.md) impacts [purchasing power](../p/purchasing_power.md) and can influence central [bank](../b/bank.md) policies.
 
 4. **[Interest](../i/interest.md) Rates**:
@@ -26,7 +26,7 @@ In the broad [scope](../s/scope.md) of [financial markets](../f/financial_market
 
 [Market sentiment](../m/market_sentiment.md) is the overall attitude of investors towards a particular [security](../s/security.md) or financial [market](../m/market.md). This psychological aspect can be a powerful [value](../v/value.md) driver, often driving prices beyond fundamentals due to collective behavior patterns. Tools to measure [market sentiment](../m/market_sentiment.md) include:
 
-1. **[Volatility](../v/volatility.md) [Index](../i/index.md) (VIX)**:
+1. **[Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX)**:
    - Often referred to as the "fear gauge," it measures [market](../m/market.md) expectations of near-term [volatility](../v/volatility.md).
    - High VIX values can indicate high [uncertainty](../u/uncertainty_in_trading.md) and potential for sharp [market](../m/market.md) movements.
 

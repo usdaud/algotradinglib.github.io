@@ -42,8 +42,8 @@ Understanding sectors is crucial for several reasons:
 
 Sector indexes or indices track the performance of specific sectors. Examples include the S&P 500 [sector indices](../s/sector_indices.md), which provide a [benchmark](../b/benchmark.md) for each sector's performance as part of the S&P 500.
 
-- **S&P 500 Energy [Index](../i/index.md)**: Measures the performance of [energy sector](../e/energy_sector.md) companies.
-- **Dow Jones U.S. [Consumer Goods](../c/consumer_goods.md) [Index](../i/index.md)**: Tracks companies in the [consumer goods](../c/consumer_goods.md) sector.
+- **S&P 500 Energy [Index](../i/index_instrument.md)**: Measures the performance of [energy sector](../e/energy_sector.md) companies.
+- **Dow Jones U.S. [Consumer Goods](../c/consumer_goods.md) [Index](../i/index_instrument.md)**: Tracks companies in the [consumer goods](../c/consumer_goods.md) sector.
 - **[NASDAQ](../n/nasdaq.md)-100 [Technology Sector](../t/technology_sector.md)**: Focuses on the [technology sector](../t/technology_sector.md).
 
 These indices serve as benchmarks and tools for creating sector-specific ETFs ([Exchange](../e/exchange.md)-Traded Funds) or mutual funds, providing investors with exposure to particular sectors.

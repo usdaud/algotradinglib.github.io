@@ -31,7 +31,7 @@ One of the primary benefits of a long/short [equity](../e/equity.md) strategy is
 The strategy provides [diversification benefits](../d/diversification_benefits.md) by allowing exposure to both bullish and bearish [market](../m/market.md) scenarios. This can lead to more consistent returns over time.
 
 ### Absolute Returns
-Long/short [equity](../e/equity.md) aims to generate positive returns regardless of [market](../m/market.md) conditions, making it an attractive option for investors seeking absolute returns rather than relative performance compared to a [benchmark](../b/benchmark.md) [index](../i/index.md).
+Long/short [equity](../e/equity.md) aims to generate positive returns regardless of [market](../m/market.md) conditions, making it an attractive option for investors seeking absolute returns rather than relative performance compared to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 
 ### Risk Management
 By going both long and short, investors can manage [risk](../r/risk.md) more effectively. For example, if the overall [market](../m/market.md) declines, short positions can provide a [hedge](../h/hedge.md), reducing the impact of falling long positions.

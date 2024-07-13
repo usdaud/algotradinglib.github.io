@@ -14,9 +14,9 @@ In the realm of [finance](../f/finance.md), [investing](../i/investing.md) takes
 
 1. **Low Costs**: Passive investments typically have lower fees and expenses since they require minimal [transaction](../t/transaction.md) activity. There are fewer management fees and [trading costs](../t/trading_costs.md), making it cost-effective over time.
 
-2. **[Diversification](../d/diversification.md)**: Passive investors often use [index](../i/index.md) funds or ETFs, which inherently diversify [risk](../r/risk.md) across a wide array of assets. [Diversification](../d/diversification.md) reduces the impact of any single [security](../s/security.md)'s poor performance on the overall portfolio.
+2. **[Diversification](../d/diversification.md)**: Passive investors often use [index](../i/index_instrument.md) funds or ETFs, which inherently diversify [risk](../r/risk.md) across a wide array of assets. [Diversification](../d/diversification.md) reduces the impact of any single [security](../s/security.md)'s poor performance on the overall portfolio.
 
-3. **Predictable Returns**: Since [passive investing](../p/passive_investing.md) aims to mirror the performance of an [index](../i/index.md), investors can expect returns that are relatively predictable and in line with the [market](../m/market.md).
+3. **Predictable Returns**: Since [passive investing](../p/passive_investing.md) aims to mirror the performance of an [index](../i/index_instrument.md), investors can expect returns that are relatively predictable and in line with the [market](../m/market.md).
 
 4. **Long-Term Focus**: This strategy is designed for long-term growth, capitalizing on the general upward [trend](../t/trend.md) of markets over time, despite short-term fluctuations.
 
@@ -26,15 +26,15 @@ In the realm of [finance](../f/finance.md), [investing](../i/investing.md) takes
 
 #### Index Funds
 
-[Index](../i/index.md) funds are mutual funds or ETFs designed to track the performance of a specific [index](../i/index.md). They are managed passively by purchasing the same securities in the same proportions as the [index](../i/index.md) they follow. 
+[Index](../i/index_instrument.md) funds are mutual funds or ETFs designed to track the performance of a specific [index](../i/index_instrument.md). They are managed passively by purchasing the same securities in the same proportions as the [index](../i/index_instrument.md) they follow. 
 
-- **Vanguard 500 [Index Fund](../i/index_fund.md) (https://[investor](../i/investor.md).vanguard.com/mutual-funds/profile/VFINX)**: It tracks the S&P 500 [index](../i/index.md) and is one of the most popular [options](../o/options.md) among passive investors.
+- **Vanguard 500 [Index Fund](../i/index_fund.md) (https://[investor](../i/investor.md).vanguard.com/mutual-funds/profile/VFINX)**: It tracks the S&P 500 [index](../i/index_instrument.md) and is one of the most popular [options](../o/options.md) among passive investors.
 
 #### Exchange-Traded Funds (ETFs)
 
-ETFs operate similarly to [index](../i/index.md) funds but [trade](../t/trade.md) on an [exchange](../e/exchange.md) like a stock. They [offer](../o/offer.md) flexibility, [liquidity](../l/liquidity.md), and lower [expense](../e/expense.md) ratios.
+ETFs operate similarly to [index](../i/index_instrument.md) funds but [trade](../t/trade.md) on an [exchange](../e/exchange.md) like a stock. They [offer](../o/offer.md) flexibility, [liquidity](../l/liquidity.md), and lower [expense](../e/expense.md) ratios.
 
-- **SPDR S&P 500 ETF [Trust](../t/trust.md) (SPY) (https://www.ssga.com/us/en/institutional/etfs/funds/spdr-sp-500-etf-[trust](../t/trust.md)-spy)**: It is designed to provide investment results that correspond to the price and [yield](../y/yield.md) performance of the S&P 500 [Index](../i/index.md).
+- **SPDR S&P 500 ETF [Trust](../t/trust.md) (SPY) (https://www.ssga.com/us/en/institutional/etfs/funds/spdr-sp-500-etf-[trust](../t/trust.md)-spy)**: It is designed to provide investment results that correspond to the price and [yield](../y/yield.md) performance of the S&P 500 [Index](../i/index_instrument.md).
 
 ### Advantages
 
@@ -101,7 +101,7 @@ While active [investing](../i/investing.md) has the potential for higher returns
 
 ### Risk Management
 
-[Passive investing](../p/passive_investing.md) distributes [risk](../r/risk.md) across a broad [index](../i/index.md), reducing exposure to individual [security](../s/security.md) performance. Active [investing](../i/investing.md), while having the potential for high returns, can also concentrate [risk](../r/risk.md) in particular assets or strategies.
+[Passive investing](../p/passive_investing.md) distributes [risk](../r/risk.md) across a broad [index](../i/index_instrument.md), reducing exposure to individual [security](../s/security.md) performance. Active [investing](../i/investing.md), while having the potential for high returns, can also concentrate [risk](../r/risk.md) in particular assets or strategies.
 
 ### Investor Suitability
 

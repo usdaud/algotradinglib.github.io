@@ -59,8 +59,8 @@ For a company to be [listed](../l/listed.md) on the ASE, it must adhere to strin
 
 The ASE maintains several indices to measure [market](../m/market.md) performance. These indices serve as benchmarks for [market](../m/market.md) trends and [investor](../i/investor.md) sentiment:
 
-- **ASE General [Index](../i/index.md):** Reflects the overall [market](../m/market.md) performance, considering companies across all sectors.
-- **ASE20 [Index](../i/index.md):** Contains the top 20 companies by [market capitalization](../m/market_capitalization.md) and [liquidity](../l/liquidity.md).
+- **ASE General [Index](../i/index_instrument.md):** Reflects the overall [market](../m/market.md) performance, considering companies across all sectors.
+- **ASE20 [Index](../i/index_instrument.md):** Contains the top 20 companies by [market capitalization](../m/market_capitalization.md) and [liquidity](../l/liquidity.md).
 
 ## Technology and Innovation
 
@@ -84,7 +84,7 @@ The ASE has a diverse [range](../r/range.md) of companies across various sectors
 
 ## Market Performance
 
-The performance of the ASE reflects the [economic conditions](../e/economic_conditions.md) and [investor](../i/investor.md) sentiments within Jordan. [Market](../m/market.md) performance is regularly monitored through trading volumes, [market capitalization](../m/market_capitalization.md), and [index](../i/index.md) movements.
+The performance of the ASE reflects the [economic conditions](../e/economic_conditions.md) and [investor](../i/investor.md) sentiments within Jordan. [Market](../m/market.md) performance is regularly monitored through trading volumes, [market capitalization](../m/market_capitalization.md), and [index](../i/index_instrument.md) movements.
 
 ### Recent Statistics
 

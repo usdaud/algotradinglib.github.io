@@ -85,7 +85,7 @@ Treasury Bonds have longer maturities, typically ranging from 20 to 30 years. Th
 
 ### Treasury Inflation-Protected Securities (TIPS)
 
-TIPS are similar to [Treasury Notes](../t/treasury_notes.md) and Bonds but with an added feature: their [principal](../p/principal.md) [value](../v/value.md) adjusts based on changes in the Consumer Price [Index](../i/index.md) (CPI). This characteristic provides protection against [inflation](../i/inflation.md). TIPS are suitable for investors looking to maintain [purchasing power](../p/purchasing_power.md) in inflationary environments.
+TIPS are similar to [Treasury Notes](../t/treasury_notes.md) and Bonds but with an added feature: their [principal](../p/principal.md) [value](../v/value.md) adjusts based on changes in the Consumer Price [Index](../i/index_instrument.md) (CPI). This characteristic provides protection against [inflation](../i/inflation.md). TIPS are suitable for investors looking to maintain [purchasing power](../p/purchasing_power.md) in inflationary environments.
 
 ### Floating Rate Notes (FRNs)
 

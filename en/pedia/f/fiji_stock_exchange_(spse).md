@@ -66,12 +66,12 @@ The SPSE contributes significantly to the Fijian [economy](../e/economy.md) by e
 
 ## Current Performance and Statistics
 
-As of the latest data, the SPSE shows promising signs of growth. Key [performance indicators](../p/performance_indicators.md) include [market capitalization](../m/market_capitalization.md), trading volumes, and [index](../i/index.md) performance.
+As of the latest data, the SPSE shows promising signs of growth. Key [performance indicators](../p/performance_indicators.md) include [market capitalization](../m/market_capitalization.md), trading volumes, and [index](../i/index_instrument.md) performance.
 
 ### Example Statistics:
 - **[Market Capitalization](../m/market_capitalization.md)**: Approximately FJD 3 billion.
 - **Trading [Volume](../v/volume.md)**: Varies, with an average of millions of [shares](../s/shares.md) exchanged annually.
-- **[Index](../i/index.md) Performance**: The STRI has shown steady growth, reflecting [investor](../i/investor.md) confidence and [market](../m/market.md) resilience.
+- **[Index](../i/index_instrument.md) Performance**: The STRI has shown steady growth, reflecting [investor](../i/investor.md) confidence and [market](../m/market.md) resilience.
 
 ## Strategic Initiatives
 

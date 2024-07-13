@@ -7,17 +7,17 @@ The Russell Indexes are a family of U.S. [stock market](../s/stock_market.md) in
 ## Russell 3000 Index
 
 ### Overview
-The [Russell 3000 Index](../r/russell_3000_index.md) is a [market](../m/market.md)-[capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [equity](../e/equity.md) [index](../i/index.md) that encompasses the 3,000 largest U.S.-traded [stocks](../s/stock.md), representing approximately 98% of the investable U.S. [equity market](../e/equity_market.md). The [index](../i/index.md) aims to provide a comprehensive reflection of the broad [market](../m/market.md).
+The [Russell 3000 Index](../r/russell_3000_index.md) is a [market](../m/market.md)-[capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [equity](../e/equity.md) [index](../i/index_instrument.md) that encompasses the 3,000 largest U.S.-traded [stocks](../s/stock.md), representing approximately 98% of the investable U.S. [equity market](../e/equity_market.md). The [index](../i/index_instrument.md) aims to provide a comprehensive reflection of the broad [market](../m/market.md).
 
 ### Components and Weighting
 The Russell 3000 is subdivided into several sub-indices:
 1. **[Russell 1000 Index](../r/russell_1000_index.md):** Includes the largest 1,000 companies.
 2. **[Russell 2000 Index](../r/russell_2000_index.md):** Comprises the 2,000 smallest companies.
 
-Each stock in the [Russell 3000 Index](../r/russell_3000_index.md) is [weighted](../w/weighted.md) by its [market capitalization](../m/market_capitalization.md). Large-cap companies have a more significant impact on the [index](../i/index.md)'s overall [value](../v/value.md) compared to smaller-cap firms.
+Each stock in the [Russell 3000 Index](../r/russell_3000_index.md) is [weighted](../w/weighted.md) by its [market capitalization](../m/market_capitalization.md). Large-cap companies have a more significant impact on the [index](../i/index_instrument.md)'s overall [value](../v/value.md) compared to smaller-cap firms.
 
 ### Rebalancing
-The Russell indexes undergo an annual [rebalancing](../r/rebalancing.md) in June, called the "Russell Reconstitution." This process captures changes in the [market](../m/market.md) capitalizations of its constituents and maintains the relevance of the [index](../i/index.md).
+The Russell indexes undergo an annual [rebalancing](../r/rebalancing.md) in June, called the "Russell Reconstitution." This process captures changes in the [market](../m/market.md) capitalizations of its constituents and maintains the relevance of the [index](../i/index_instrument.md).
 
 ## Russell 1000 Index
 
@@ -32,12 +32,12 @@ The [Russell 1000 Index](../r/russell_1000_index.md) is diversified across [mult
 - Consumer Discretionary
 - Industrials
 
-[Large-cap stocks](../l/large_cap_stocks.md) like Apple, Microsoft, and Amazon are significant constituents of this [index](../i/index.md).
+[Large-cap stocks](../l/large_cap_stocks.md) like Apple, Microsoft, and Amazon are significant constituents of this [index](../i/index_instrument.md).
 
 ## Russell 2000 Index
 
 ### Overview
-The [Russell 2000 Index](../r/russell_2000_index.md) serves as a [benchmark](../b/benchmark.md) for small-cap [stocks](../s/stock.md). It includes the 2,000 smallest companies in the [Russell 3000 Index](../r/russell_3000_index.md). Given its composition, the Russell 2000 is a more volatile and growth-oriented [index](../i/index.md) than the Russell 1000.
+The [Russell 2000 Index](../r/russell_2000_index.md) serves as a [benchmark](../b/benchmark.md) for small-cap [stocks](../s/stock.md). It includes the 2,000 smallest companies in the [Russell 3000 Index](../r/russell_3000_index.md). Given its composition, the Russell 2000 is a more volatile and growth-oriented [index](../i/index_instrument.md) than the Russell 1000.
 
 ### Investment Applications
 The Russell 2000 is frequently used as a [benchmark](../b/benchmark.md) for small-cap mutual funds and ETFs. Investors often look at the performance of the Russell 2000 to gauge the economic health of smaller U.S. companies.
@@ -45,10 +45,10 @@ The Russell 2000 is frequently used as a [benchmark](../b/benchmark.md) for smal
 ## Russell Midcap Index
 
 ### Overview
-The Russell Midcap [Index](../i/index.md) includes the smallest 800 companies in the [Russell 1000 Index](../r/russell_1000_index.md). It represents about 26% of the total [market capitalization](../m/market_capitalization.md) of the Russell 1000. The Russell Midcap provides insights into the [mid-cap](../m/mid-cap.md) segment of the U.S. [equity market](../e/equity_market.md).
+The Russell Midcap [Index](../i/index_instrument.md) includes the smallest 800 companies in the [Russell 1000 Index](../r/russell_1000_index.md). It represents about 26% of the total [market capitalization](../m/market_capitalization.md) of the Russell 1000. The Russell Midcap provides insights into the [mid-cap](../m/mid-cap.md) segment of the U.S. [equity market](../e/equity_market.md).
 
 ### Market Characteristics
-[Mid-cap stocks](../m/mid-cap_stocks.md) are often considered to [offer](../o/offer.md) a balance between the stability of [large-cap stocks](../l/large_cap_stocks.md) and the growth potential of small-cap [stocks](../s/stock.md). Companies in this [index](../i/index.md) are usually established and have higher growth prospects than large-cap firms.
+[Mid-cap stocks](../m/mid-cap_stocks.md) are often considered to [offer](../o/offer.md) a balance between the stability of [large-cap stocks](../l/large_cap_stocks.md) and the growth potential of small-cap [stocks](../s/stock.md). Companies in this [index](../i/index_instrument.md) are usually established and have higher growth prospects than large-cap firms.
 
 ## Calculation Methodology
 
@@ -61,7 +61,7 @@ The [FTSE Russell](../f/ftse_russell.md) team employs strict criteria for inclus
 ## Investment Strategies
 
 ### Passive Investment
-Due to their broad [market exposure](../m/market_exposure.md), Russell indexes are frequently used in [passive investment strategies](../p/passive_investment_strategies.md), including [index](../i/index.md) mutual funds and ETFs. Major financial institutions [offer](../o/offer.md) Russell-[index](../i/index.md)-tracking products, allowing investors to [gain](../g/gain.md) diversified exposure to large-cap, [mid-cap](../m/mid-cap.md), and small-cap segments.
+Due to their broad [market exposure](../m/market_exposure.md), Russell indexes are frequently used in [passive investment strategies](../p/passive_investment_strategies.md), including [index](../i/index_instrument.md) mutual funds and ETFs. Major financial institutions [offer](../o/offer.md) Russell-[index](../i/index_instrument.md)-tracking products, allowing investors to [gain](../g/gain.md) diversified exposure to large-cap, [mid-cap](../m/mid-cap.md), and small-cap segments.
 
 ### Active Management
 While [passive investment strategies](../p/passive_investment_strategies.md) focus on replicating the performance of the Russell indexes, active managers may select securities based on [fundamental analysis](../f/fundamental_analysis.md) and [market](../m/market.md) conditions. The Russell 2000 is particularly popular among active managers due to its higher [volatility](../v/volatility.md) and potential for growth.

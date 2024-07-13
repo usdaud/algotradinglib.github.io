@@ -12,7 +12,7 @@ Examples of popular ETFs include:
 - [iShares MSCI Emerging Markets ETF (EEM)](https://www.ishares.com/us/products/239637/)
 
 ### Exchange Traded Notes (ETNs)
-ETNs are a type of unsecured, [unsubordinated debt](../u/unsubordinated_debt.md) [security](../s/security.md) that tracks an [underlying](../u/underlying.md) [index](../i/index.md) of securities and trades on a major [exchange](../e/exchange.md) like a stock. ETNs are different from ETFs in that they are a type of [bond](../b/bond.md) but [trade](../t/trade.md) like a stock. Investors in ETNs are subject to the [creditworthiness](../c/creditworthiness.md) of the [issuer](../i/issuer.md).
+ETNs are a type of unsecured, [unsubordinated debt](../u/unsubordinated_debt.md) [security](../s/security.md) that tracks an [underlying](../u/underlying.md) [index](../i/index_instrument.md) of securities and trades on a major [exchange](../e/exchange.md) like a stock. ETNs are different from ETFs in that they are a type of [bond](../b/bond.md) but [trade](../t/trade.md) like a stock. Investors in ETNs are subject to the [creditworthiness](../c/creditworthiness.md) of the [issuer](../i/issuer.md).
 
 Example of popular ETNs include:
 - [iPath Bloomberg Commodity Index Total Return ETN (DJP)](https://www.barclays.investmentbank.com/products-and-services/investment-solutions/ipath-etns/overview.html)
@@ -36,7 +36,7 @@ Examples of popular ETCs include:
 
 1. **[Market Risk](../m/market_risk.md)**: The [value](../v/value.md) of an ETP can fluctuate along with the performance of its [underlying](../u/underlying.md) assets. Investors in ETPs can face significant losses if the [market](../m/market.md) declines.
 2. **[Liquidity Risk](../l/liquidity_risk.md)**: While ETPs are generally [liquid](../l/liquid.md), certain ETPs that invest in less [liquid](../l/liquid.md) markets or assets may face [liquidity](../l/liquidity.md) constraints.
-3. **[Tracking Error](../t/tracking_error.md)**: The performance of an ETP might not perfectly replicate the performance of its [underlying](../u/underlying.md) [index](../i/index.md) or [asset](../a/asset.md) due to management fees, [market](../m/market.md) conditions, or other factors.
+3. **[Tracking Error](../t/tracking_error.md)**: The performance of an ETP might not perfectly replicate the performance of its [underlying](../u/underlying.md) [index](../i/index_instrument.md) or [asset](../a/asset.md) due to management fees, [market](../m/market.md) conditions, or other factors.
 4. **[Credit Risk](../c/credit_risk.md)**: ETNs are subject to the [credit risk](../c/credit_risk.md) of the [issuer](../i/issuer.md). If the [issuer](../i/issuer.md) faces financial difficulties, the [value](../v/value.md) of the ETN could be adversely affected.
 
 ## Use Cases for ETPs in Algorithimic Trading

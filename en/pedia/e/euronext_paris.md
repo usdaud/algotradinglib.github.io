@@ -22,7 +22,7 @@ In the late 20th century, the Paris Bourse underwent a significant [merger](../m
 
 The equities segment is the most prominent [market segment](../m/market_segment.md) within [Euronext](../e/euronext.md) Paris. Companies [listed](../l/listed.md) here [range](../r/range.md) from small and medium-sized enterprises (SMEs) to large multinational corporations. Notable indices in this segment include the CAC 40, which comprises 40 of the largest companies by [market capitalization](../m/market_capitalization.md) in France.
 
-The CAC 40 is often used as a bellwether for the French [economy](../e/economy.md) and is followed closely by investors and analysts. The [index](../i/index.md) covers a wide [range](../r/range.md) of sectors including technology, [finance](../f/finance.md), healthcare, and [consumer goods](../c/consumer_goods.md), providing a comprehensive overview of the French [business](../b/business.md) landscape.
+The CAC 40 is often used as a bellwether for the French [economy](../e/economy.md) and is followed closely by investors and analysts. The [index](../i/index_instrument.md) covers a wide [range](../r/range.md) of sectors including technology, [finance](../f/finance.md), healthcare, and [consumer goods](../c/consumer_goods.md), providing a comprehensive overview of the French [business](../b/business.md) landscape.
 
 #### Bonds
 

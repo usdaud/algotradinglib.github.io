@@ -16,7 +16,7 @@ X-Technical Model Analysis refers to the use of complex, algorithm-driven method
 [Technical indicators](../t/technical_indicators.md) are [statistics](../s/statistics.md) based on price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) data that aim to forecast future price changes. Common indicators include:
 
 1. **Moving Averages:** Both Simple (SMA) and Exponential (EMA) are used to smooth out price data.
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the speed and change of price movements.
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the speed and change of price movements.
 3. **MACD (Moving Average Convergence [Divergence](../d/divergence.md)):** Shows the relationship between two moving averages of prices.
 
 #### Backtesting

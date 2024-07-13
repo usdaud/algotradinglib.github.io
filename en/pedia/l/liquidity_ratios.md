@@ -90,7 +90,7 @@
        :[return](../r/return.md): List of [trade](../t/trade.md) signals.
        """
        signals = []
-       for [index](../i/index.md), row in stock_data.iterrows():
+       for [index](../i/index_instrument.md), row in stock_data.iterrows():
            if row['[Current Ratio](../c/current_ratio.md)'] > 2 and row['[Quick Ratio](../q/quick_ratio.md)'] > 1.5:
                signals.append((row['Stock Symbol'], 'BUY'))
            elif row['[Current Ratio](../c/current_ratio.md)'] < 1 and row['[Quick Ratio](../q/quick_ratio.md)'] < 0.8:

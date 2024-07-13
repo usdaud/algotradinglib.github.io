@@ -28,7 +28,7 @@ The BSE comprises several [market](../m/market.md) segments to cater to diverse 
   
 ## Key Indices
 
-To gauge the [market](../m/market.md) performance, the BSE uses several indices that reflect the general [trend](../t/trend.md) of the [market](../m/market.md). The most notable [index](../i/index.md) is the Baku Interbank Stock [Exchange](../e/exchange.md) (BISX) [index](../i/index.md), which tracks the performance of the most [liquid](../l/liquid.md) and prominent [stocks](../s/stock.md) [listed](../l/listed.md) on the [exchange](../e/exchange.md).
+To gauge the [market](../m/market.md) performance, the BSE uses several indices that reflect the general [trend](../t/trend.md) of the [market](../m/market.md). The most notable [index](../i/index_instrument.md) is the Baku Interbank Stock [Exchange](../e/exchange.md) (BISX) [index](../i/index_instrument.md), which tracks the performance of the most [liquid](../l/liquid.md) and prominent [stocks](../s/stock.md) [listed](../l/listed.md) on the [exchange](../e/exchange.md).
 
 ## Listing Requirements
 

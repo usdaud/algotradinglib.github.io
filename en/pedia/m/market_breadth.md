@@ -38,11 +38,11 @@ This [oscillator](../o/oscillator.md) helps traders identify the strength of [ma
 
 #### McClellan Summation Index
 
-Building on the [McClellan Oscillator](../m/mcclellan_oscillator.md), the McClellan Summation [Index](../i/index.md) is a cumulative measure that provides an overall view of [market](../m/market.md) breadth over a more extended period. It is calculated by summing the daily values of the [McClellan Oscillator](../m/mcclellan_oscillator.md).
+Building on the [McClellan Oscillator](../m/mcclellan_oscillator.md), the McClellan Summation [Index](../i/index_instrument.md) is a cumulative measure that provides an overall view of [market](../m/market.md) breadth over a more extended period. It is calculated by summing the daily values of the [McClellan Oscillator](../m/mcclellan_oscillator.md).
 
 #### TRIN (Arms Index)
 
-The TRIN, also known as the Arms [Index](../i/index.md), measures the flow of funds in and out of advancing and declining [stocks](../s/stock.md). It is calculated as:
+The TRIN, also known as the Arms [Index](../i/index_instrument.md), measures the flow of funds in and out of advancing and declining [stocks](../s/stock.md). It is calculated as:
 
 \[ \text{TRIN} = \frac{\frac{A}{D}}{\frac{\text{[Volume](../v/volume.md) of A}}{\text{[Volume](../v/volume.md) of D}}} \]
 
@@ -65,7 +65,7 @@ Just as with the A/D Ratio, a [Volume](../v/volume.md) Breadth Ratio above 1 sug
 
 ### Confirmation of Market Trends
 
-[Market breadth indicators](../m/market_breadth_indicators.md) can be used to confirm the strength of prevailing [market](../m/market.md) trends. For instance, if major indexes are making new highs while the A/D Line or McClellan Summation [Index](../i/index.md) also shows upward movement, this indicates broad [market](../m/market.md) participation and a healthier [market](../m/market.md).
+[Market breadth indicators](../m/market_breadth_indicators.md) can be used to confirm the strength of prevailing [market](../m/market.md) trends. For instance, if major indexes are making new highs while the A/D Line or McClellan Summation [Index](../i/index_instrument.md) also shows upward movement, this indicates broad [market](../m/market.md) participation and a healthier [market](../m/market.md).
 
 ### Divergences
 
@@ -92,7 +92,7 @@ An algo-[trade](../t/trade.md) strategy could use parameters from [market breadt
 
 ### Combining Breadth with Technical Indicators
 
-Algorithmic strategies often combine breadth indicators with other [technical indicators](../t/technical_indicator.md) like moving averages or [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) to enhance decision-making.
+Algorithmic strategies often combine breadth indicators with other [technical indicators](../t/technical_indicator.md) like moving averages or [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) to enhance decision-making.
 
 ### Backtesting Breadth-Based Strategies
 

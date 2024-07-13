@@ -34,7 +34,7 @@ ETFs are investment funds traded on stock exchanges, much like individual [stock
 REITs are companies that own, operate, or [finance](../f/finance.md) [income](../i/income.md)-producing [real estate](../r/real_estate.md). They [offer](../o/offer.md) an opportunity for investors to [gain](../g/gain.md) exposure to the [real estate](../r/real_estate.md) [market](../m/market.md) without having to own property directly.
 
 ### Islamic Products
-Malaysia, being a pioneer in Islamic [finance](../f/finance.md), offers a [range](../r/range.md) of Shariah-compliant products. The **FTSE Bursa Malaysia Hijrah Shariah [Index](../i/index.md)** and the **FTSE Bursa Malaysia EMAS Shariah [Index](../i/index.md)** are examples of indices that track the performance of Shariah-compliant companies.
+Malaysia, being a pioneer in Islamic [finance](../f/finance.md), offers a [range](../r/range.md) of Shariah-compliant products. The **FTSE Bursa Malaysia Hijrah Shariah [Index](../i/index_instrument.md)** and the **FTSE Bursa Malaysia EMAS Shariah [Index](../i/index_instrument.md)** are examples of indices that track the performance of Shariah-compliant companies.
 
 ## Trading Mechanisms and Technology
 
@@ -85,16 +85,16 @@ For [real-time market data](../r/real-time_market_data.md), Bursa Malaysia provi
 Bursa Malaysia offers a [range](../r/range.md) of [market](../m/market.md) indices to measure the performance of different [market](../m/market.md) segments. Key indices include:
 
 ### FTSE Bursa Malaysia KLCI (FBM KLCI)
-The FBM KLCI is the primary [benchmark](../b/benchmark.md) [index](../i/index.md), comprising the top 30 companies by [market capitalization](../m/market_capitalization.md) on the Main [Market](../m/market.md).
+The FBM KLCI is the primary [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), comprising the top 30 companies by [market capitalization](../m/market_capitalization.md) on the Main [Market](../m/market.md).
 
 ### FTSE Bursa Malaysia EMAS Index
-The EMAS [Index](../i/index.md) includes all the constituents of the FTSE Bursa Malaysia 100 [Index](../i/index.md) along with other qualifying companies [listed](../l/listed.md) on the Main and ACE Markets.
+The EMAS [Index](../i/index_instrument.md) includes all the constituents of the FTSE Bursa Malaysia 100 [Index](../i/index_instrument.md) along with other qualifying companies [listed](../l/listed.md) on the Main and ACE Markets.
 
 ### FTSE Bursa Malaysia Small Cap Index
-This [index](../i/index.md) tracks the performance of smaller companies that do not qualify for inclusion in the FBM KLCI or EMAS indices.
+This [index](../i/index_instrument.md) tracks the performance of smaller companies that do not qualify for inclusion in the FBM KLCI or EMAS indices.
 
 ### FTSE Bursa Malaysia Hijrah Shariah Index
-The Hijrah Shariah [Index](../i/index.md) tracks the performance of Shariah-compliant companies, providing a [benchmark](../b/benchmark.md) for Islamic investors.
+The Hijrah Shariah [Index](../i/index_instrument.md) tracks the performance of Shariah-compliant companies, providing a [benchmark](../b/benchmark.md) for Islamic investors.
 
 ## Corporate Governance
 

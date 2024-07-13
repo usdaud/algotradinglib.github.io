@@ -10,7 +10,7 @@
 - **Net [Asset](../a/asset.md) [Value](../v/value.md) (NAV)**: The total [value](../v/value.md) of the [fund](../f/fund.md)'s assets minus its liabilities.
 - **Returns**: This measures the performance over a specific period.
   - **Absolute Returns**: The raw percentage increase or decrease in the [fund](../f/fund.md)'s NAV.
-  - **Relative Returns**: The performance of the [fund](../f/fund.md) compared to a [benchmark](../b/benchmark.md) [index](../i/index.md).
+  - **Relative Returns**: The performance of the [fund](../f/fund.md) compared to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 - **[Sharpe Ratio](../s/sharpe_ratio.md)**: A measure of [risk-adjusted return](../r/risk-adjusted_return.md). It is calculated by dividing the [excess return](../e/excess_return.md) of the portfolio over the [risk](../r/risk.md)-free rate by its [standard deviation](../s/standard_deviation.md).
 - **[Alpha](../a/alpha.md)**: The [excess return](../e/excess_return.md) of the [fund](../f/fund.md) compared to the [benchmark](../b/benchmark.md), adjusting for [market risk](../m/market_risk.md).
 - **[Beta](../b/beta.md)**: The measure of the [fund](../f/fund.md)'s [volatility](../v/volatility.md) in relation to the [market](../m/market.md).

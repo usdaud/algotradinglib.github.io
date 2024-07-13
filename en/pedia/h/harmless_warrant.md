@@ -8,7 +8,7 @@ A "harmless [warrant](../w/warrant.md)" in the context of [algorithmic trading](
 [Equity](../e/equity.md) [warrants](../w/warrants_in_trading.md) give the holder the right to purchase company stock at a specified price within a certain time frame. Companies often [issue](../i/issue.md) these to raise [capital](../c/capital.md). [Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) involving [equity](../e/equity.md) [warrants](../w/warrants_in_trading.md) might focus on [arbitrage opportunities](../a/arbitrage_opportunities.md) or hedging positions against other [equity](../e/equity.md) [holdings](../h/holdings.md).
 
 ### Index Warrants
-These are tied to various stock indices like the S&P 500 or FTSE 100. [Trading algorithms](../t/trading_algorithms.md) may use [index](../i/index.md) [warrants](../w/warrants_in_trading.md) to effectively [hedge](../h/hedge.md) positions or to speculate on the future movement of the [index](../i/index.md).
+These are tied to various stock indices like the S&P 500 or FTSE 100. [Trading algorithms](../t/trading_algorithms.md) may use [index](../i/index_instrument.md) [warrants](../w/warrants_in_trading.md) to effectively [hedge](../h/hedge.md) positions or to speculate on the future movement of the [index](../i/index_instrument.md).
 
 ### Covered Warrants
 These are issued by financial institutions rather than the companies themselves and are backed by the [issuer](../i/issuer.md). They provide a more flexible and lower-[risk](../r/risk.md) method for speculative trading. These are often the focus of [algorithmic trading](../a/accountability.md) due to their structured nature.
@@ -51,7 +51,7 @@ This strategy involves complex [mathematical models](../m/mathematical_models_in
 ## Real-world Applications
 
 ### Financial Institutions
-Major financial institutions such as [Goldman Sachs](https://www.goldmansachs.com/) and [Morgan Stanley](https://www.morganstanley.com/) deploy advanced [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) to manage a diversified portfolio that includes [equity](../e/equity.md), [index](../i/index.md), and covered [warrants](../w/warrants_in_trading.md).
+Major financial institutions such as [Goldman Sachs](https://www.goldmansachs.com/) and [Morgan Stanley](https://www.morganstanley.com/) deploy advanced [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) to manage a diversified portfolio that includes [equity](../e/equity.md), [index](../i/index_instrument.md), and covered [warrants](../w/warrants_in_trading.md).
 
 ### Hedge Funds
 [Hedge](../h/hedge.md) funds like [Renaissance Technologies](https://www.rentec.com/home) are known for using highly sophisticated, AI-driven algorithms that can incorporate harmless [warrants](../w/warrants_in_trading.md) into broader [trading strategies](../t/trading_strategies.md) to maximize returns and minimize risks.

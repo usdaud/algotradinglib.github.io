@@ -76,7 +76,7 @@ Employment data, such as the U.S. Non-Farm Payrolls report, gives an overview of
 
 ### Inflation Data
 
-[Inflation](../i/inflation.md) indicators like the Consumer Price [Index](../i/index.md) (CPI) and Producer Price [Index](../i/index.md) (PPI) show the rate at which prices for goods and services are rising. High [inflation](../i/inflation.md) can lead to higher [interest](../i/interest.md) rates, affecting everything from [bond](../b/bond.md) prices to stock valuations.
+[Inflation](../i/inflation.md) indicators like the Consumer Price [Index](../i/index_instrument.md) (CPI) and Producer Price [Index](../i/index_instrument.md) (PPI) show the rate at which prices for goods and services are rising. High [inflation](../i/inflation.md) can lead to higher [interest](../i/interest.md) rates, affecting everything from [bond](../b/bond.md) prices to stock valuations.
 
 ### Central Bank Meetings
 

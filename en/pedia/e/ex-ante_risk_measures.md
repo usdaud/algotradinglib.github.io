@@ -34,7 +34,7 @@ Also known as Expected [Shortfall](../s/shortfall.md), CVaR addresses some of th
 
 #### 3. Tracking Error
 
-[Tracking Error](../t/tracking_error.md) measures the [standard deviation](../s/standard_deviation.md) of the differences in returns between a portfolio and a [benchmark](../b/benchmark.md) [index](../i/index.md). It is used to assess how well a portfolio follows the performance of its [benchmark](../b/benchmark.md).
+[Tracking Error](../t/tracking_error.md) measures the [standard deviation](../s/standard_deviation.md) of the differences in returns between a portfolio and a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). It is used to assess how well a portfolio follows the performance of its [benchmark](../b/benchmark.md).
 
 - **Formula:**
   \[

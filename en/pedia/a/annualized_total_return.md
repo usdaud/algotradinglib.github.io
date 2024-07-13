@@ -41,7 +41,7 @@ While the annualized [total return](../t/total_return.md) is particularly useful
 Several well-known financial institutions and [asset management](../a/asset_management.md) companies illustrate the application and reporting of annualized total returns:
 
 ### BlackRock
-[BlackRock](https://www.blackrock.com) is a premier global [investment management](../i/investment_management.md) [corporation](../c/corporation.md) often reporting annualized total returns for various funds, such as ETFs and [index](../i/index.md) funds, providing [transparency](../t/transparency.md) and performance consistency to their investors.
+[BlackRock](https://www.blackrock.com) is a premier global [investment management](../i/investment_management.md) [corporation](../c/corporation.md) often reporting annualized total returns for various funds, such as ETFs and [index](../i/index_instrument.md) funds, providing [transparency](../t/transparency.md) and performance consistency to their investors.
 
 ### Vanguard
 [Vanguard](https://investor.vanguard.com) frequently publishes annualized total returns for its wide array of mutual funds and ETFs, allowing investors to compare various funds' performance over standard periods, usually 1-year, 5-year, and 10-year timeframes.

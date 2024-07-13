@@ -39,10 +39,10 @@ The trading system uses a continuous auction method for [matching orders](../m/m
 ## Indexes
 
 Borsa Istanbul has several indexes that provide insights into the performance of the [market](../m/market.md). Some key indexes include:
-- **BIST 100 [Index](../i/index.md):** Comprising the top 100 [stocks](../s/stock.md) by [market capitalization](../m/market_capitalization.md) and [liquidity](../l/liquidity.md), it serves as the main [benchmark](../b/benchmark.md).
+- **BIST 100 [Index](../i/index_instrument.md):** Comprising the top 100 [stocks](../s/stock.md) by [market capitalization](../m/market_capitalization.md) and [liquidity](../l/liquidity.md), it serves as the main [benchmark](../b/benchmark.md).
 - **BIST 50 and BIST 30:** Subsets of the BIST 100, representing the top 50 and top 30 [stocks](../s/stock.md) respectively.
 - **Sector Indexes:** These measure the performance of [stocks](../s/stock.md) in specific sectors like banking, industrial, and services.
-- **[Corporate Governance](../c/corporate_governance.md) [Index](../i/index.md):** Tracks the performance of companies that adhere to good [corporate governance](../c/corporate_governance.md) practices.
+- **[Corporate Governance](../c/corporate_governance.md) [Index](../i/index_instrument.md):** Tracks the performance of companies that adhere to good [corporate governance](../c/corporate_governance.md) practices.
 
 ## Technological Infrastructure
 

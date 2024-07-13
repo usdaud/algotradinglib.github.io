@@ -9,7 +9,7 @@ Subprime mortgages emerged as a financial product in the late 20th century, prim
 ## Structure of Subprime Mortgages
 Subprime loans can have various structures, but they often come with adjustable [interest](../i/interest.md) rates, balloon payments, or [interest](../i/interest.md)-only [payment](../p/payment.md) [options](../o/options.md). These features initially make the monthly payments more affordable but can lead to significant increases later.
 
-- **Adjustable-Rate Mortgages (ARM)**: The [interest rate](../i/interest_rate.md) is fixed for an initial period and then adjusts periodically based on an [index](../i/index.md).
+- **Adjustable-Rate Mortgages (ARM)**: The [interest rate](../i/interest_rate.md) is fixed for an initial period and then adjusts periodically based on an [index](../i/index_instrument.md).
 - **Balloon Mortgages**: Borrowers pay small monthly installments for a specific period, followed by a large [balloon payment](../b/balloon_payment.md).
 - **[Interest](../i/interest.md)-Only Mortgages**: Borrowers pay only [interest](../i/interest.md) for a set period, with [principal](../p/principal.md) payments beginning later.
 

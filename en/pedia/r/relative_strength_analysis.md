@@ -6,7 +6,7 @@
 
 RSA can be divided into two primary types:
 
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements.
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements.
 2. **Relative Comparative Strength (RCS)**: This compares the performance of one [asset](../a/asset.md) against a group of similar assets.
 
 ### Relative Strength Index (RSI)
@@ -27,7 +27,7 @@ The RSI [value](../v/value.md) ranges from 0 to 100. Generally, an [asset](../a/
 
 ### Relative Comparative Strength (RCS)
 
-RCS, on the other hand, compares the price performance of an individual stock against the price performance of another stock or [benchmark](../b/benchmark.md) [index](../i/index.md). It is formulated by dividing the price performance of the stock by the performance of the [benchmark](../b/benchmark.md). The formula for RCS is:
+RCS, on the other hand, compares the price performance of an individual stock against the price performance of another stock or [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). It is formulated by dividing the price performance of the stock by the performance of the [benchmark](../b/benchmark.md). The formula for RCS is:
 
 \[ RCS = \frac{Price\ of\ Stock}{Price\ of\ [Benchmark](../b/benchmark.md)} \]
 

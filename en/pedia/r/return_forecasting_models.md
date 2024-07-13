@@ -49,7 +49,7 @@ Econometric models apply statistical methods to financial and economic data to f
 - **Moving Averages**: Simple Moving Average (SMA) and Exponential Moving Average (EMA) are fundamental tools in [technical analysis](../t/technical_analysis.md), smoothing price data to identify trends.
   - **Reference**: [Investopedia: Moving Averages](https://www.investopedia.com/articles/active-trading/052014/how-use-moving-average-buy-stocks.asp)
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in an [asset](../a/asset.md)'s price.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in an [asset](../a/asset.md)'s price.
   - **Reference**: [RSI, Forbes](https://www.forbes.com/advisor/investing/rsi-indicator/)
 
 #### 6. Sentiment Analysis Models

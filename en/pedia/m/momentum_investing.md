@@ -32,7 +32,7 @@ Investors often overreact to new information, causing prices to move excessively
 
 ## Investment Vehicles
 
-[Momentum](../m/momentum.md) [investing](../i/investing.md) can be applied across various [asset](../a/asset.md) classes and investment vehicles, including [stocks](../s/stock.md), ETFs, mutual funds, and bonds. Specialized [momentum](../m/momentum.md) ETFs and [index](../i/index.md) funds facilitate easier access to this strategy for individual investors.
+[Momentum](../m/momentum.md) [investing](../i/investing.md) can be applied across various [asset](../a/asset.md) classes and investment vehicles, including [stocks](../s/stock.md), ETFs, mutual funds, and bonds. Specialized [momentum](../m/momentum.md) ETFs and [index](../i/index_instrument.md) funds facilitate easier access to this strategy for individual investors.
 
 ### Momentum ETFs
 [Exchange](../e/exchange.md)-traded funds (ETFs) focused on [momentum](../m/momentum.md) strategies aim to replicate the performance of indexes designed around [momentum](../m/momentum.md) principles. For example, the [iShares](../i/ishares.md) MSCI USA [Momentum Factor](../m/momentum_factor.md) ETF (MTUM) selects [stocks](../s/stock.md) based on their performance-driven [momentum](../m/momentum.md).

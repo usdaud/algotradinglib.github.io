@@ -24,7 +24,7 @@ Mutual funds are professionally managed investment funds that pool [money](../m/
 
 ### Exchange-Traded Funds (ETFs)
 
-ETFs are investment funds that [trade](../t/trade.md) on stock exchanges and aim to track the performance of a specific [index](../i/index.md) or [asset class](../a/asset_class.md). ETFs generally have lower management fees compared to mutual funds, often ranging from 0.05% to 0.75% of AUM, due to their passive management and lower operating expenses.
+ETFs are investment funds that [trade](../t/trade.md) on stock exchanges and aim to track the performance of a specific [index](../i/index_instrument.md) or [asset class](../a/asset_class.md). ETFs generally have lower management fees compared to mutual funds, often ranging from 0.05% to 0.75% of AUM, due to their passive management and lower operating expenses.
 
 ### Private Equity Funds
 

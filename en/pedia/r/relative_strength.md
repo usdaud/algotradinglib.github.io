@@ -12,7 +12,7 @@ In this formula:
 - **Price of [Asset](../a/asset.md):** The current price of the [asset](../a/asset.md) you are analyzing.
 - **[Benchmark](../b/benchmark.md) Price:** The current price of the [benchmark](../b/benchmark.md) or another [asset](../a/asset.md) against which you are measuring the performance.
 
-For instance, if you want to measure the relative strength of a stock compared to a [market index](../m/market_index.md) like the S&P 500, you would divide the stock's price by the [index](../i/index.md)'s price. This ratio provides a clear comparison of the [asset](../a/asset.md)'s performance relative to the [benchmark](../b/benchmark.md).
+For instance, if you want to measure the relative strength of a stock compared to a [market index](../m/market_index.md) like the S&P 500, you would divide the stock's price by the [index](../i/index_instrument.md)'s price. This ratio provides a clear comparison of the [asset](../a/asset.md)'s performance relative to the [benchmark](../b/benchmark.md).
 
 ## Applications in Trading
 
@@ -39,7 +39,7 @@ Relative Strength can also guide [sector rotation strategies](../s/sector_rotati
 
 ### Relative Strength Index (RSI)
 
-Not to be confused with Relative Strength, the Relative Strength [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. The RSI is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in an [asset](../a/asset.md). Calculated based on the average of upward and downward price changes, RSI is bounded between 0 and 100:
+Not to be confused with Relative Strength, the Relative Strength [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. The RSI is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in an [asset](../a/asset.md). Calculated based on the average of upward and downward price changes, RSI is bounded between 0 and 100:
 - **[Overbought](../o/overbought.md):** RSI above 70 typically indicates [overbought](../o/overbought.md) conditions.
 - **[Oversold](../o/oversold.md):** RSI below 30 often suggests [oversold](../o/oversold.md) conditions.
 

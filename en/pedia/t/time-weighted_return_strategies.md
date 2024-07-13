@@ -21,7 +21,7 @@ This method ensures that the focus remains on the investment performance, indepe
 [Algorithmic trading](../a/algorithmic_trading.md), or algotrading, relies on automated [trading strategies](../t/trading_strategies.md) that execute orders based on pre-defined criteria. The performance of these strategies can be influenced by various [market](../m/market.md) conditions and [execution](../e/execution.md) factors. Using time-[weighted](../w/weighted.md) [return](../r/return.md) to measure the performance of algotrading strategies helps in several ways:
 
 1. **Consistency:** TWR provides a consistent [basis](../b/basis.md) for comparing different strategies, regardless of the [capital](../c/capital.md) inflows and outflows during the evaluation period.
-2. **Benchmarking:** By eliminating the [noise](../n/noise.md) created by cash flows, TWR allows for a fair comparison between the actual performance of an algorithmic strategy and a [benchmark](../b/benchmark.md) [index](../i/index.md) or another strategy.
+2. **Benchmarking:** By eliminating the [noise](../n/noise.md) created by cash flows, TWR allows for a fair comparison between the actual performance of an algorithmic strategy and a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) or another strategy.
 3. **Strategy Evaluation:** Traders and investors can isolate the impact of [market](../m/market.md) conditions and [execution](../e/execution.md) [efficiency](../e/efficiency.md) on the strategy's performance, leading to better insights and potential improvements.
 
 ### Implementing Time-Weighted Return Strategies

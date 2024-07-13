@@ -20,7 +20,7 @@ The most fundamental aspect of [market](../m/market.md) dynamics is the [law of 
 - **Gross Domestic Product (GDP)**: Measures the total [value](../v/value.md) of goods and services produced.
 - **[Unemployment](../u/unemployment.md) Rates**: Indicates the percentage of the workforce that is unemployed and actively seeking employment.
 - **[Inflation](../i/inflation.md) Rates**: Represents the rate at which the general level of prices for goods and services is rising.
-- **Consumer Confidence [Index](../i/index.md)**: Measures the degree of optimism that consumers feel about the overall state of the [economy](../e/economy.md) and their personal financial situation.
+- **Consumer Confidence [Index](../i/index_instrument.md)**: Measures the degree of optimism that consumers feel about the overall state of the [economy](../e/economy.md) and their personal financial situation.
 - **[Interest](../i/interest.md) Rates**: Set by central banks, influencing borrowing costs, consumer spending, and investment.
 
 ### 3. Investor Behavior and Psychology

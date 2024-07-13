@@ -52,7 +52,7 @@ Stock analysis is the process of evaluating and examining the [stock market](../
 
 1. **Moving Averages:** Smooth out price data to identify trends. Simple Moving Averages (SMA) and Exponential Moving Averages (EMA) are most common.
    
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 3. **Moving Average Convergence [Divergence](../d/divergence.md) (MACD):** A [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages of a stock’s price.
 

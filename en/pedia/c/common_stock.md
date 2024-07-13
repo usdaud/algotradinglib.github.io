@@ -70,7 +70,7 @@ Common stock plays a significant role in diversified investment portfolios. Due 
 
 3. **[Income](../i/income.md) [Investing](../i/investing.md)**: Targets [stocks](../s/stock.md) that provide a reliable stream of [dividend](../d/dividend.md) [income](../i/income.md). This is often suitable for retirees or those seeking steady [income](../i/income.md).
 
-4. **[Index Investing](../i/index_investing.md)**: Involves replicating the performance of a stock [index](../i/index.md), such as the S&P 500. This provides broad [market exposure](../m/market_exposure.md) and [diversification](../d/diversification.md), lowering [risk](../r/risk.md).
+4. **[Index Investing](../i/index_investing.md)**: Involves replicating the performance of a stock [index](../i/index_instrument.md), such as the S&P 500. This provides broad [market exposure](../m/market_exposure.md) and [diversification](../d/diversification.md), lowering [risk](../r/risk.md).
 
 ## Famous Companies Known for Common Stock
 

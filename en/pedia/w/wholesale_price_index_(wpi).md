@@ -1,6 +1,6 @@
 # Wholesale Price Index (WPI)
 
-The Wholesale Price [Index](../i/index.md) (WPI) is a critical economic metric that measures the average change in prices of goods at the wholesale level. Unlike the Consumer Price [Index](../i/index.md) (CPI), which tracks retail prices and the [cost of living](../c/cost_of_living.md) for consumers, the WPI focuses on the price movement in primary markets or stages of production. It is particularly significant for understanding inflationary trends and economic policies.
+The Wholesale Price [Index](../i/index_instrument.md) (WPI) is a critical economic metric that measures the average change in prices of goods at the wholesale level. Unlike the Consumer Price [Index](../i/index_instrument.md) (CPI), which tracks retail prices and the [cost of living](../c/cost_of_living.md) for consumers, the WPI focuses on the price movement in primary markets or stages of production. It is particularly significant for understanding inflationary trends and economic policies.
 
 ## Definition and Purpose
 
@@ -32,7 +32,7 @@ Where:
 - \(P_o\) = Price of the item in the base period
 - \(W\) = Weight assigned to the item
 
-The WPI is usually expressed as an [index](../i/index.md) number with a [base year](../b/base_year.md) (e.g., 2010-11=100).
+The WPI is usually expressed as an [index](../i/index_instrument.md) number with a [base year](../b/base_year.md) (e.g., 2010-11=100).
 
 ## Importance of WPI
 
@@ -41,7 +41,7 @@ Understanding the importance of WPI in economic planning and policy-making is cr
 1. **Inflationary Pressures**: WPI helps identify inflationary pressures in the [economy](../e/economy.md). Persistent increases in the WPI indicate rising [inflation](../i/inflation.md).
 2. **[Monetary Policy](../m/monetary_policy.md)**: Central Banks use WPI data to make decisions regarding [interest](../i/interest.md) rates and monetary policies.
 3. **[Fiscal Policy](../f/fiscal_policy.md)**: Governments can adjust their fiscal policies based on wholesale price trends.
-4. **Industrial Growth**: The [index](../i/index.md) reflects the health of various industries by tracking the price trends of manufactured goods.
+4. **Industrial Growth**: The [index](../i/index_instrument.md) reflects the health of various industries by tracking the price trends of manufactured goods.
 5. **International [Trade](../t/trade.md)**: WPI impacts the competitiveness of a country’s products in the global [market](../m/market.md).
 
 ## Differences Between WPI and CPI
@@ -56,9 +56,9 @@ While both WPI and CPI measure [inflation](../i/inflation.md), they differ signi
 
 Many countries maintain their own WPI metrics, tailored to their specific economic contexts. Examples include:
 
-- **United States**: The Producer Price [Index](../i/index.md) (PPI) is used, which is similar to WPI.
+- **United States**: The Producer Price [Index](../i/index_instrument.md) (PPI) is used, which is similar to WPI.
 - **India**: India's WPI is published by the Office of the Economic Adviser, Ministry of [Commerce](../c/commerce.md) and [Industry](../i/industry.md). The official website is [eaindustry.nic.in](https://eaindustry.nic.in/download_data_1112.asp).
-- **Japan**: Japan uses the Corporate Goods Price [Index](../i/index.md) (CGPI).
+- **Japan**: Japan uses the Corporate Goods Price [Index](../i/index_instrument.md) (CGPI).
 
 ## Historical Trends
 
@@ -75,7 +75,7 @@ The trends in WPI over the years provide insights into economic ups and downs, [
 
 Despite its widespread use, the WPI has faced criticisms:
 
-1. **Coverage**: The [index](../i/index.md) may not cover all the products in an [economy](../e/economy.md) comprehensively.
+1. **Coverage**: The [index](../i/index_instrument.md) may not cover all the products in an [economy](../e/economy.md) comprehensively.
 2. **Timeliness**: WPI data may not be as current and timely as necessary for real-time economic analysis.
 3. **Exclusions**: It often excludes services, which are a significant part of modern economies.
 4. **[Base Year](../b/base_year.md)**: The [base year](../b/base_year.md) updates may lag, leading to outdated weightages.
@@ -90,4 +90,4 @@ Technological advancements are transforming how WPI data is collected, processed
 
 ## Conclusion
 
-The Wholesale Price [Index](../i/index.md) (WPI) remains a fundamental [indicator](../i/indicator.md) in the landscape of economic metrics. By measuring wholesale price changes, it provides valuable insights into inflationary trends, economic health, and industrial performance. Despite criticisms and limitations, WPI continues to be a cornerstone for policymakers, businesses, and [financial markets](../f/financial_market.md) globally. With ongoing technological enhancements, the relevance and accuracy of the WPI are poised to improve further, [offering](../o/offering.md) a more detailed and real-time view of economic dynamics.
+The Wholesale Price [Index](../i/index_instrument.md) (WPI) remains a fundamental [indicator](../i/indicator.md) in the landscape of economic metrics. By measuring wholesale price changes, it provides valuable insights into inflationary trends, economic health, and industrial performance. Despite criticisms and limitations, WPI continues to be a cornerstone for policymakers, businesses, and [financial markets](../f/financial_market.md) globally. With ongoing technological enhancements, the relevance and accuracy of the WPI are poised to improve further, [offering](../o/offering.md) a more detailed and real-time view of economic dynamics.

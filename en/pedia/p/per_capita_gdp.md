@@ -56,7 +56,7 @@ Economic activities that increase GDP can also have negative environmental impac
 
 ### Quality of Life
 
-While higher [per capita](../p/per_capita.md) GDP is often associated with better living standards, it does not directly measure factors that contribute to [quality of life](../q/quality_of_life.md), such as health, education, [security](../s/security.md), and leisure. Other indices, like the Human Development [Index](../i/index.md) (HDI), may provide a more comprehensive assessment of well-being.
+While higher [per capita](../p/per_capita.md) GDP is often associated with better living standards, it does not directly measure factors that contribute to [quality of life](../q/quality_of_life.md), such as health, education, [security](../s/security.md), and leisure. Other indices, like the Human Development [Index](../i/index_instrument.md) (HDI), may provide a more comprehensive assessment of well-being.
 
 ## Alternative Measures
 
@@ -64,7 +64,7 @@ Given the limitations of [per capita](../p/per_capita.md) GDP, alternative measu
 
 ### Human Development Index (HDI)
 
-The Human Development [Index](../i/index.md) (HDI), developed by the United Nations Development Programme (UNDP), combines [per capita](../p/per_capita.md) [income](../i/income.md) with indicators of health ([life expectancy](../l/life_expectancy.md)) and education (mean years of schooling and expected years of schooling) to provide a more comprehensive measure of well-being.
+The Human Development [Index](../i/index_instrument.md) (HDI), developed by the United Nations Development Programme (UNDP), combines [per capita](../p/per_capita.md) [income](../i/income.md) with indicators of health ([life expectancy](../l/life_expectancy.md)) and education (mean years of schooling and expected years of schooling) to provide a more comprehensive measure of well-being.
 
 ### Gross National Happiness (GNH)
 

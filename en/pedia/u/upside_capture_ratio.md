@@ -67,7 +67,7 @@ Regular performance reports for funds usually include the UCR to provide a clear
 
 ## Real-World Example: BlackRock
 
-BlackRock offers various mutual funds and ETFs, many of which are benchmarked against major indices like the S&P 500 or the MSCI World [Index](../i/index.md). They use metrics like the [Upside](../u/upside.md) Capture Ratio in their performance reporting to highlight how well their funds perform compared to these benchmarks during periods of [market](../m/market.md) gains. More information can be found on their [website](https://www.blackrock.com).
+BlackRock offers various mutual funds and ETFs, many of which are benchmarked against major indices like the S&P 500 or the MSCI World [Index](../i/index_instrument.md). They use metrics like the [Upside](../u/upside.md) Capture Ratio in their performance reporting to highlight how well their funds perform compared to these benchmarks during periods of [market](../m/market.md) gains. More information can be found on their [website](https://www.blackrock.com).
 
 ## Conclusion
 

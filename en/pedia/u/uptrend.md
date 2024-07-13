@@ -26,7 +26,7 @@ Traders use various [technical indicators](../t/technical_indicator.md) to ident
    - **Simple Moving Average (SMA):** An SMA calculates the average price over a specific period and smooths out price data to identify the [trend](../t/trend.md) direction.
    - **Exponential Moving Average (EMA):** EMA gives more weight to recent prices, making it more responsive to new information and useful for detecting trends more quickly.
 
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):**
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):**
    - RSI measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. An RSI above 50 typically supports an uptrend.
    
 3. **MACD (Moving Average Convergence [Divergence](../d/divergence.md)):**
@@ -83,7 +83,7 @@ While trading in an uptrend can be [lucrative](../l/lucrative.md), it is not wit
 
 ## Real-World Example: S&P 500 Index
 
-The S&P 500 [index](../i/index.md) is a perfect example to illustrate a long-term uptrend. Over the past several decades, despite periods of [volatility](../v/volatility.md) and [market](../m/market.md) corrections, the S&P 500 has exhibited a long-term uptrend with higher highs and higher lows.
+The S&P 500 [index](../i/index_instrument.md) is a perfect example to illustrate a long-term uptrend. Over the past several decades, despite periods of [volatility](../v/volatility.md) and [market](../m/market.md) corrections, the S&P 500 has exhibited a long-term uptrend with higher highs and higher lows.
 
 Link to S&P Dow Jones Indices: [S&P Dow Jones](https://www.spglobal.com/spdji/)
 

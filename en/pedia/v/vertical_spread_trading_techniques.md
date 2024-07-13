@@ -8,14 +8,14 @@ Vertical [spreads](../s/spreads.md) are a type of [options](../o/options.md) [tr
 
 ### Bull Call Spread
 
-A [bull call spread](../b/bull_call_spread.md), or long call spread, is a [vertical spread](../v/vertical_spread.md) designed for a moderately bullish outlook on a stock or [index](../i/index.md). It involves buying a [call option](../c/call_option.md) at a lower [strike price](../s/strike_price.md) and simultaneously selling another [call option](../c/call_option.md) at a higher [strike price](../s/strike_price.md) but with the same [expiration date](../e/expiration_date.md).
+A [bull call spread](../b/bull_call_spread.md), or long call spread, is a [vertical spread](../v/vertical_spread.md) designed for a moderately bullish outlook on a stock or [index](../i/index_instrument.md). It involves buying a [call option](../c/call_option.md) at a lower [strike price](../s/strike_price.md) and simultaneously selling another [call option](../c/call_option.md) at a higher [strike price](../s/strike_price.md) but with the same [expiration date](../e/expiration_date.md).
 
 - **Maximum [Profit](../p/profit.md)**: Occurs if the [underlying asset](../u/underlying_asset.md)'s price is above the higher [strike price](../s/strike_price.md) at expiration.
 - **Maximum Loss**: The initial cost to enter the [trade](../t/trade.md), which is the [net premium](../n/net_premium.md) paid.
 
 ### Bear Put Spread
 
-A [bear put spread](../b/bear_put_spread.md), or [long put](../l/long_put.md) spread, is used when a [trader](../t/trader.md) has a moderately bearish expectation for a stock or [index](../i/index.md). It involves buying a [put option](../p/put.md) at a higher [strike price](../s/strike_price.md) and simultaneously selling another [put option](../p/put.md) at a lower [strike price](../s/strike_price.md), both with the same expiration.
+A [bear put spread](../b/bear_put_spread.md), or [long put](../l/long_put.md) spread, is used when a [trader](../t/trader.md) has a moderately bearish expectation for a stock or [index](../i/index_instrument.md). It involves buying a [put option](../p/put.md) at a higher [strike price](../s/strike_price.md) and simultaneously selling another [put option](../p/put.md) at a lower [strike price](../s/strike_price.md), both with the same expiration.
 
 - **Maximum [Profit](../p/profit.md)**: Achieved if the [underlying asset](../u/underlying_asset.md)'s price is below the lower [strike price](../s/strike_price.md) at expiration.
 - **Maximum Loss**: The initial cost to enter the [trade](../t/trade.md), which is the [net premium](../n/net_premium.md) paid.

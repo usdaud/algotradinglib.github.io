@@ -20,7 +20,7 @@ Evaluating the performance of investment funds is critical for investors, [fund]
    - **[Sortino Ratio](../s/sortino_ratio.md)**: Focuses on [downside risk](../d/downside_risk.md), helping to distinguish between harmful [volatility](../v/volatility.md) and overall [volatility](../v/volatility.md). Calculated as \(\frac{(R_p - R_f)}{\sigma_{d}}\), where \(\sigma_d\) is the [standard deviation](../s/standard_deviation.md) of downside [return](../r/return.md).
 
 ### 4. **Benchmark Comparison**
-   Funds are often compared to specific benchmarks to evaluate performance. Common benchmarks include stock indices like the S&P 500 or MSCI World [Index](../i/index.md) for [equity](../e/equity.md) funds. The performance is usually measured in terms of [excess return](../e/excess_return.md) or [alpha](../a/alpha.md), which indicates how much better (or worse) a [fund](../f/fund.md) has performed compared to the [benchmark](../b/benchmark.md).
+   Funds are often compared to specific benchmarks to evaluate performance. Common benchmarks include stock indices like the S&P 500 or MSCI World [Index](../i/index_instrument.md) for [equity](../e/equity.md) funds. The performance is usually measured in terms of [excess return](../e/excess_return.md) or [alpha](../a/alpha.md), which indicates how much better (or worse) a [fund](../f/fund.md) has performed compared to the [benchmark](../b/benchmark.md).
 
 ### 5. **Performance Attribution**
    [Performance attribution](../p/performance_attribution.md) analyzes the sources of a [fund](../f/fund.md)'s returns. This can be broken down into:
@@ -104,7 +104,7 @@ Several tools and [software platforms](../s/software_platforms_for_trading.md) c
    - Website: [Fidelity Contrafund](https://fundresearch.fidelity.com/mutual-funds/summary/316071109)
 
 ### 3. **iShares MSCI Emerging Markets ETF (EEM)**
-   This ETF seeks to replicate the performance of the MSCI Emerging Markets [index](../i/index.md). [Performance metrics](../p/performance_metrics.md) include [tracking error](../t/tracking_error.md), [expense](../e/expense.md) ratios, and [market risk](../m/market_risk.md) as indicated by its [beta](../b/beta.md).
+   This ETF seeks to replicate the performance of the MSCI Emerging Markets [index](../i/index_instrument.md). [Performance metrics](../p/performance_metrics.md) include [tracking error](../t/tracking_error.md), [expense](../e/expense.md) ratios, and [market risk](../m/market_risk.md) as indicated by its [beta](../b/beta.md).
 
    - Website: [iShares MSCI Emerging Markets ETF](https://www.ishares.com/us/products/239637/ishares-msci-emerging-markets-etf)
    

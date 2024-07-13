@@ -27,7 +27,7 @@ Moving Averages (MA) are used to smooth out price data and highlight trends over
 
 ### 5. Technical Indicators
 Several [technical indicators](../t/technical_indicators.md) are employed in [trend analysis](../t/trend_analysis.md):
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the speed and change of price movements, indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the speed and change of price movements, indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD):** Shows the relationship between two EMAs. When the MACD crosses above its signal line, it generates bullish signals, and vice versa.
 
 ## Examples of Simple Trend Analysis Strategies

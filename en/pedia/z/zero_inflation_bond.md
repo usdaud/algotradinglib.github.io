@@ -6,7 +6,7 @@ A Zero [Inflation](../i/inflation.md) [Bond](../b/bond.md), also known as a zero
 ### Characteristics of Zero Inflation Bonds
 Zero [Inflation](../i/inflation.md) Bonds exhibit several unique characteristics:
 
-1. **[Principal](../p/principal.md) Protection**: The [principal](../p/principal.md) amount of the [bond](../b/bond.md) is adjusted according to a measure of [inflation](../i/inflation.md), typically the Consumer Price [Index](../i/index.md) (CPI). This adjustment helps maintain the [purchasing power](../p/purchasing_power.md) of the investment.
+1. **[Principal](../p/principal.md) Protection**: The [principal](../p/principal.md) amount of the [bond](../b/bond.md) is adjusted according to a measure of [inflation](../i/inflation.md), typically the Consumer Price [Index](../i/index_instrument.md) (CPI). This adjustment helps maintain the [purchasing power](../p/purchasing_power.md) of the investment.
 
 2. **Single [Payment](../p/payment.md) at [Maturity](../m/maturity.md)**: Unlike traditional bonds that make periodic [interest](../i/interest.md) payments (coupons), zero [inflation](../i/inflation.md) bonds do not make intermediary payments. Instead, the [investor](../i/investor.md) receives a single [payment](../p/payment.md) at the [bond](../b/bond.md)'s [maturity](../m/maturity.md), which includes the adjusted [principal](../p/principal.md).
 
@@ -61,7 +61,7 @@ Zero [inflation](../i/inflation.md) bonds can be part of various investment stra
 Different types of zero [inflation](../i/inflation.md) bonds exist in the [market](../m/market.md), including government-issued securities and corporate bonds indexed to [inflation](../i/inflation.md). Examples include:
 
 1. **[U.S. Treasury](../u/u.s._treasury.md) [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS)**: These are the most common [inflation-protected securities](../i/inflation-protected_securities.md) in the United States.
-2. **UK [Index](../i/index.md)-Linked [Gilts](../g/gilts.md)**: Similar instruments issued by the UK government.
+2. **UK [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md)**: Similar instruments issued by the UK government.
 3. **Corporate [Inflation-Linked Bonds](../i/inflation-linked_bonds.md)**: Some corporations [issue](../i/issue.md) zero [inflation](../i/inflation.md) bonds to attract [inflation](../i/inflation.md)-conscious investors.
 
 ### Relevant Companies and Resources
@@ -76,7 +76,7 @@ Some financial institutions and companies [offering](../o/offering.md) [inflatio
 3. **BlackRock**: Offers ETFs and funds focused on [inflation](../i/inflation.md)-protected bonds.
    - [BlackRock](https://www.blackrock.com/)
    
-4. **UK [Debt](../d/debt.md) Management Office**: Provides details about UK [Index](../i/index.md)-Linked [Gilts](../g/gilts.md).
+4. **UK [Debt](../d/debt.md) Management Office**: Provides details about UK [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md).
    - [UK Debt Management Office](https://www.dmo.gov.uk/)
 
 ### Conclusion

@@ -10,7 +10,7 @@
 
 ### Equities
 
-Equities [listed](../l/listed.md) on [Euronext](../e/euronext.md) Lisbon include [shares](../s/shares.md) of Portugal's largest and most influential companies across various sectors such as banking, energy, telecommunications, and [consumer goods](../c/consumer_goods.md). One of the most notable indices tracking the performance of [listed](../l/listed.md) companies is the PSI 20 [Index](../i/index.md), which includes 20 of the most [liquid](../l/liquid.md) and largest [stocks](../s/stock.md) on the [exchange](../e/exchange.md).
+Equities [listed](../l/listed.md) on [Euronext](../e/euronext.md) Lisbon include [shares](../s/shares.md) of Portugal's largest and most influential companies across various sectors such as banking, energy, telecommunications, and [consumer goods](../c/consumer_goods.md). One of the most notable indices tracking the performance of [listed](../l/listed.md) companies is the PSI 20 [Index](../i/index_instrument.md), which includes 20 of the most [liquid](../l/liquid.md) and largest [stocks](../s/stock.md) on the [exchange](../e/exchange.md).
 
 ### Bonds
 

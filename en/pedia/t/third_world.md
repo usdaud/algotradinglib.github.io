@@ -1,6 +1,6 @@
 # Third World
 
-The term "Third World" was originally coined during the Cold War to describe countries that were neither aligned with NATO (the [First World](../f/first_world.md)) nor the Communist Bloc (the [Second World](../s/second_world.md)). However, its meaning has evolved over time to generally refer to developing countries with lower levels of [industrialization](../i/industrialization.md), lower living standards, and lower Human Development [Index](../i/index.md) (HDI) scores compared to more developed nations. Today, the term is often considered outdated and is gradually being replaced by more precise terms such as "developing countries" or "Global South."
+The term "Third World" was originally coined during the Cold War to describe countries that were neither aligned with NATO (the [First World](../f/first_world.md)) nor the Communist Bloc (the [Second World](../s/second_world.md)). However, its meaning has evolved over time to generally refer to developing countries with lower levels of [industrialization](../i/industrialization.md), lower living standards, and lower Human Development [Index](../i/index_instrument.md) (HDI) scores compared to more developed nations. Today, the term is often considered outdated and is gradually being replaced by more precise terms such as "developing countries" or "Global South."
 
 ## Historical Context
 
@@ -28,7 +28,7 @@ Over time, the term "Third World" came to be associated less with political alig
 
 - **Education**: Lower literacy rates and less access to quality education.
 - **Healthcare**: Poor healthcare [infrastructure](../i/infrastructure.md), high infant mortality rates, and lower [life expectancy](../l/life_expectancy.md).
-- **Living Standards**: Lower Human Development [Index](../i/index.md) (HDI) scores, indicating poorer [quality of life](../q/quality_of_life.md).
+- **Living Standards**: Lower Human Development [Index](../i/index_instrument.md) (HDI) scores, indicating poorer [quality of life](../q/quality_of_life.md).
 
 ### Political Indicators
 

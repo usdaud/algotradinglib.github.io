@@ -43,7 +43,7 @@ To maximize the effectiveness of spinning top patterns, traders and developers e
 
 #### Confirmatory Signals
 
-Relying on spinning tops exclusively can lead to [false signals](../f/false_signals_in_trading.md). Thus, combining them with other [technical indicators](../t/technical_indicators.md) and patterns, such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), or MACD (Moving Average Convergence [Divergence](../d/divergence.md)), can enhance signal accuracy.
+Relying on spinning tops exclusively can lead to [false signals](../f/false_signals_in_trading.md). Thus, combining them with other [technical indicators](../t/technical_indicators.md) and patterns, such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), or MACD (Moving Average Convergence [Divergence](../d/divergence.md)), can enhance signal accuracy.
 
 #### Machine Learning Integration
 

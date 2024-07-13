@@ -18,7 +18,7 @@
 
 **[Momentum trading](../m/momentum_trading.md)** focuses on harnessing price movements:
 - Identifying assets that are trending significantly in one direction with higher than average trading volumes.
-- Utilizing [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and moving averages to confirm the [momentum](../m/momentum.md) direction.
+- Utilizing [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and moving averages to confirm the [momentum](../m/momentum.md) direction.
   
 **Common [Momentum](../m/momentum.md) Strategies:**
 - **News-Based Trading:** Entering positions based on the impacts of breaking news or economic reports.

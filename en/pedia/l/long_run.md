@@ -45,7 +45,7 @@ Long-run analysis must account for technological advances that can disrupt indus
 ## Examples and Case Studies
 
 ### Index Fund Growth
-[Index](../i/index.md) funds, which aim to replicate the performance of a [market index](../m/market_index.md) (e.g., S&P 500), serve as a prime example of long-run performance. Historically, these funds have outperformed many actively managed funds over decades due to their lower fees and consistent [market exposure](../m/market_exposure.md).
+[Index](../i/index_instrument.md) funds, which aim to replicate the performance of a [market index](../m/market_index.md) (e.g., S&P 500), serve as a prime example of long-run performance. Historically, these funds have outperformed many actively managed funds over decades due to their lower fees and consistent [market exposure](../m/market_exposure.md).
 
 ### Warren Buffet’s Berkshire Hathaway
 Warren Buffett’s investment philosophy emphasizes holding investment for the long haul. His company, [Berkshire Hathaway](../b/berkshire_hathaway.md), has thrived by acquiring and holding [undervalued](../u/undervalued.md) securities and businesses over extended periods, allowing compound growth and the realization of [intrinsic value](../i/intrinsic_value.md) over time.

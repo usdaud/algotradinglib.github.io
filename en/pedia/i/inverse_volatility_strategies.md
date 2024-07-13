@@ -45,9 +45,9 @@ Managing [risk](../r/risk.md) is intrinsic to the success of inverse [volatility
 ### Exchange-Traded Products
 
 Several [exchange](../e/exchange.md)-traded products (ETPs) are designed to provide exposure to [volatility](../v/volatility.md) indices. These include:
-- **ProShares Short VIX Short-Term [Futures](../f/futures.md) ETF**: Designed to provide inverse exposure to the S&P 500 VIX Short-Term [Futures](../f/futures.md) [Index](../i/index.md).
+- **ProShares Short VIX Short-Term [Futures](../f/futures.md) ETF**: Designed to provide inverse exposure to the S&P 500 VIX Short-Term [Futures](../f/futures.md) [Index](../i/index_instrument.md).
   [ProShares](https://www.proshares.com/our-etfs/short-etfs/svxy.html)
-- **VelocityShares Daily Inverse VIX Short-Term ETN**: Provides short exposure to the S&P 500 VIX Short-Term [Futures](../f/futures.md) [Index](../i/index.md).
+- **VelocityShares Daily Inverse VIX Short-Term ETN**: Provides short exposure to the S&P 500 VIX Short-Term [Futures](../f/futures.md) [Index](../i/index_instrument.md).
   [VelocityShares](https://www.velocityshares.com/etns/product/vix/)
 
 ### Hedge Funds

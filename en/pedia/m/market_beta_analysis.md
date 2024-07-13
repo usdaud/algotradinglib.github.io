@@ -4,7 +4,7 @@
 
 ### Defining Beta
 
-[Beta](../b/beta.md) is a measure derived from [regression analysis](../r/regression_analysis.md), where the returns of an individual [security](../s/security.md) are regressed against the returns of a [benchmark](../b/benchmark.md) [index](../i/index.md). The formula for calculating [beta](../b/beta.md) is:
+[Beta](../b/beta.md) is a measure derived from [regression analysis](../r/regression_analysis.md), where the returns of an individual [security](../s/security.md) are regressed against the returns of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). The formula for calculating [beta](../b/beta.md) is:
 
 `[Beta](../b/beta.md) (β) = [Covariance](../c/covariance.md)([Return](../r/return.md) of the [security](../s/security.md), [Return](../r/return.md) of the [market](../m/market.md)) / Variance([Return](../r/return.md) of the [market](../m/market.md))`
 

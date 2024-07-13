@@ -58,7 +58,7 @@ In [portfolio optimization](../p/portfolio_optimization.md), GLMs can help in mo
 
 ### Example 1: Logistic Regression for Predicting Stock Price Direction
 
-Consider a scenario where a [trader](../t/trader.md) wants to predict whether the price of a stock [will](../w/will.md) go up or down based on historical price data and [technical indicators](../t/technical_indicators.md) (e.g., moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)). A [logistic regression](../l/logistic_regression_in_trading.md) model can be set up as follows:
+Consider a scenario where a [trader](../t/trader.md) wants to predict whether the price of a stock [will](../w/will.md) go up or down based on historical price data and [technical indicators](../t/technical_indicators.md) (e.g., moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)). A [logistic regression](../l/logistic_regression_in_trading.md) model can be set up as follows:
 
 1. **Prepare Data**: Collect historical price data and compute [technical indicators](../t/technical_indicators.md).
 2. **Define Response Variable**: Let the response variable \( Y \) be 1 if the price goes up and 0 if it goes down.

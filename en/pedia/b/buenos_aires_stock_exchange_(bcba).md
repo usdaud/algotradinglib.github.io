@@ -38,11 +38,11 @@ The BCBA's trading hours are generally from 11:00 AM to 5:00 PM local time (GMT-
 
 ### Merval Index
 
-The Merval [Index](../i/index.md) (Mercado de Valores) is the flagship [index](../i/index.md) of the BCBA. It tracks the performance of the 20 most heavily traded [stocks](../s/stock.md) on the [exchange](../e/exchange.md). The Merval [Index](../i/index.md) is often considered a [benchmark](../b/benchmark.md) for the Argentine [stock market](../s/stock_market.md).
+The Merval [Index](../i/index_instrument.md) (Mercado de Valores) is the flagship [index](../i/index_instrument.md) of the BCBA. It tracks the performance of the 20 most heavily traded [stocks](../s/stock.md) on the [exchange](../e/exchange.md). The Merval [Index](../i/index_instrument.md) is often considered a [benchmark](../b/benchmark.md) for the Argentine [stock market](../s/stock_market.md).
 
 ### M.AR Maturity Index
 
-The M.AR [Maturity](../m/maturity.md) [Index](../i/index.md) focuses on the performance of sovereign and corporate bonds. Its primary aim is to provide insights into the [fixed income](../f/fixed_income.md) [market](../m/market.md) in Argentina.
+The M.AR [Maturity](../m/maturity.md) [Index](../i/index_instrument.md) focuses on the performance of sovereign and corporate bonds. Its primary aim is to provide insights into the [fixed income](../f/fixed_income.md) [market](../m/market.md) in Argentina.
 
 ## Market Segmentation
 

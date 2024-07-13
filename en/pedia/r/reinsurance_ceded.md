@@ -93,7 +93,7 @@ The [reinsurance](../r/reinsurance.md) [market](../m/market.md) has witnessed in
 
 ### Parametric Insurance and Index-Based Reinsurance
 
-Parametric [insurance](../i/insurance.md) and [index](../i/index.md)-based [reinsurance](../r/reinsurance.md) products, which pay out on the occurrence of specific events based on predefined parameters (e.g., earthquake intensity or hurricane wind speed), are gaining traction. These products provide faster claims settlement and eliminate the need for loss adjustment processes.
+Parametric [insurance](../i/insurance.md) and [index](../i/index_instrument.md)-based [reinsurance](../r/reinsurance.md) products, which pay out on the occurrence of specific events based on predefined parameters (e.g., earthquake intensity or hurricane wind speed), are gaining traction. These products provide faster claims settlement and eliminate the need for loss adjustment processes.
 
 ### Technology and Data Analytics
 

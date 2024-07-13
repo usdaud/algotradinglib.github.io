@@ -76,7 +76,7 @@ HTC Vive has developed a series of high-performance VR headsets aimed at both co
 Sony has introduced VR to the console gaming world with the PlayStation VR. Compatible with the PlayStation 4 and PlayStation 5, it offers a [range](../r/range.md) of gaming experiences in a dedicated ecosystem (https://www.playstation.com/en-us/explore/playstation-vr/).
 
 ### 4. Valve Index
-Valve [Corporation](../c/corporation.md) offers the Valve [Index](../i/index.md), a high-end VR system known for its excellent display and exceptional tracking technology. Valve's Steam platform also provides a [robust](../r/robust.md) library of VR content, bolstering the appeal of their hardware (https://www.valvesoftware.com/en/[index](../i/index.md)).
+Valve [Corporation](../c/corporation.md) offers the Valve [Index](../i/index_instrument.md), a high-end VR system known for its excellent display and exceptional tracking technology. Valve's Steam platform also provides a [robust](../r/robust.md) library of VR content, bolstering the appeal of their hardware (https://www.valvesoftware.com/en/[index](../i/index_instrument.md)).
 
 ### 5. Microsoft HoloLens
 While primarily an AR device, Microsoft HoloLens also encompasses elements of VR. It is particularly focused on enterprise applications, enabling businesses to [leverage](../l/leverage.md) mixed reality for training, design, and more (https://www.microsoft.com/en-us/hololens).

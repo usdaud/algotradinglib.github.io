@@ -40,7 +40,7 @@ Curve [arbitrage](../a/arbitrage.md) involves exploiting anomalies in the term s
 
 ### Index Arbitrage
 
-[Index](../i/index.md) [arbitrage](../a/arbitrage.md) involves trading between CDS indices (like the Markit CDX or iTraxx) and their constituent single-name CDSs. Mispricings between the composite [index](../i/index.md) and the individual CDSs can provide [arbitrage](../a/arbitrage.md) opportunities.
+[Index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md) involves trading between CDS indices (like the Markit CDX or iTraxx) and their constituent single-name CDSs. Mispricings between the composite [index](../i/index_instrument.md) and the individual CDSs can provide [arbitrage](../a/arbitrage.md) opportunities.
 
 ### Capital Structure Arbitrage
 

@@ -5,7 +5,7 @@
 ## Advancers vs. Decliners
 
 ### Definition
-The Advancers vs. Decliners [indicator](../i/indicator.md) compares the number of [stocks](../s/stock.md) that have advanced in price to the number of [stocks](../s/stock.md) that have declined within a particular [index](../i/index.md) or [exchange](../e/exchange.md).
+The Advancers vs. Decliners [indicator](../i/indicator.md) compares the number of [stocks](../s/stock.md) that have advanced in price to the number of [stocks](../s/stock.md) that have declined within a particular [index](../i/index_instrument.md) or [exchange](../e/exchange.md).
 
 ### Calculation
 On a given trading day:
@@ -71,7 +71,7 @@ Traders can filter [stocks](../s/stock.md) hitting new highs or lows for [moment
 ## TRIN (Arms Index)
 
 ### Definition
-TRIN, also known as the Arms [Index](../i/index.md), measures the relationship between the number of advancing and declining [stocks](../s/stock.md) and their corresponding [volume](../v/volume.md).
+TRIN, also known as the Arms [Index](../i/index_instrument.md), measures the relationship between the number of advancing and declining [stocks](../s/stock.md) and their corresponding [volume](../v/volume.md).
 
 ### Calculation
 \[ \text{TRIN} = \left( \frac{\text{Number of Advancing [Stocks](../s/stock.md)}}{\text{Number of Declining [Stocks](../s/stock.md)}} \right) / \left( \frac{\text{[Volume](../v/volume.md) of Advancing [Stocks](../s/stock.md)}}{\text{[Volume](../v/volume.md) of Declining [Stocks](../s/stock.md)}} \right) \]
@@ -86,7 +86,7 @@ TRIN can be integrated into [trading algorithms](../t/trading_algorithms.md) to 
 ## Bullish Percent Index (BPI)
 
 ### Definition
-The Bullish Percent [Index](../i/index.md) (BPI) measures the percentage of [stocks](../s/stock.md) in a given [index](../i/index.md) or sector that are currently in a bullish technical pattern.
+The Bullish Percent [Index](../i/index_instrument.md) (BPI) measures the percentage of [stocks](../s/stock.md) in a given [index](../i/index_instrument.md) or sector that are currently in a bullish technical pattern.
 
 ### Calculation
 \[ \text{BPI} = \left( \frac{\text{Number of Bullish [Stocks](../s/stock.md) in P&F Chart}}{\text{Total Number of [Stocks](../s/stock.md)}} \right) \times 100 \]
@@ -116,7 +116,7 @@ This ratio helps gauge [market sentiment](../m/market_sentiment.md) and potentia
 ## Cumulative Volume Index (CVI)
 
 ### Definition
-The Cumulative [Volume](../v/volume.md) [Index](../i/index.md) (CVI) tracks the cumulative [volume](../v/volume.md) flows by comparing the [volume](../v/volume.md) of advancing [stocks](../s/stock.md) to the [volume](../v/volume.md) of declining [stocks](../s/stock.md).
+The Cumulative [Volume](../v/volume.md) [Index](../i/index_instrument.md) (CVI) tracks the cumulative [volume](../v/volume.md) flows by comparing the [volume](../v/volume.md) of advancing [stocks](../s/stock.md) to the [volume](../v/volume.md) of declining [stocks](../s/stock.md).
 
 ### Calculation
 \[ \text{CVI} = (\text{Previous CVI}) + (\text{Volume of Advancing [Stocks](../s/stock.md)} - \text{[Volume](../v/volume.md) of Declining [Stocks](../s/stock.md)}) \]
@@ -132,35 +132,35 @@ CVI is used to confirm the strength of a [trend](../t/trend.md) and validate ent
 
 ### S&P 500 Advance/Decline Line
 
-The S&P 500 A/D Line tracks the difference between the number of advancers and decliners within the S&P 500 [index](../i/index.md), serving as a barometer for the [market breadth](../m/market_breadth.md) specific to this major [index](../i/index.md).
+The S&P 500 A/D Line tracks the difference between the number of advancers and decliners within the S&P 500 [index](../i/index_instrument.md), serving as a barometer for the [market breadth](../m/market_breadth.md) specific to this major [index](../i/index_instrument.md).
 
 ### S&P 500 McClellan Oscillator
 
-This variation of the [McClellan Oscillator](../m/mcclellan_oscillator.md) is calculated specifically for the S&P 500, providing insights into the short-term internal strength or weakness of the [index](../i/index.md).
+This variation of the [McClellan Oscillator](../m/mcclellan_oscillator.md) is calculated specifically for the S&P 500, providing insights into the short-term internal strength or weakness of the [index](../i/index_instrument.md).
 
 ### S&P 500 TRIN
 
-The S&P 500 TRIN (Arms [Index](../i/index.md)) measures the ratio of the average [volume](../v/volume.md) of advancing issues to average [volume](../v/volume.md) of declining issues, providing insight into the [market breadth](../m/market_breadth.md) of the S&P 500.
+The S&P 500 TRIN (Arms [Index](../i/index_instrument.md)) measures the ratio of the average [volume](../v/volume.md) of advancing issues to average [volume](../v/volume.md) of declining issues, providing insight into the [market breadth](../m/market_breadth.md) of the S&P 500.
 
 ## NASDAQ Breadth Indicators
 
 ### NASDAQ Advance/Decline Line
 
-Similar to the S&P 500 A/D Line but specific to the [NASDAQ](../n/nasdaq.md) [index](../i/index.md), this [indicator](../i/indicator.md) tracks the net number of advancing minus declining [stocks](../s/stock.md) within [NASDAQ](../n/nasdaq.md).
+Similar to the S&P 500 A/D Line but specific to the [NASDAQ](../n/nasdaq.md) [index](../i/index_instrument.md), this [indicator](../i/indicator.md) tracks the net number of advancing minus declining [stocks](../s/stock.md) within [NASDAQ](../n/nasdaq.md).
 
 ### NASDAQ McClellan Oscillator
 
-This [oscillator](../o/oscillator.md) adapts the McClellan calculation for use with the [NASDAQ](../n/nasdaq.md) [index](../i/index.md), [offering](../o/offering.md) a measurement of the short-term [market](../m/market.md) [momentum](../m/momentum.md) of [NASDAQ](../n/nasdaq.md) components.
+This [oscillator](../o/oscillator.md) adapts the McClellan calculation for use with the [NASDAQ](../n/nasdaq.md) [index](../i/index_instrument.md), [offering](../o/offering.md) a measurement of the short-term [market](../m/market.md) [momentum](../m/momentum.md) of [NASDAQ](../n/nasdaq.md) components.
 
 ### NASDAQ TRIN
 
-The [NASDAQ](../n/nasdaq.md) TRIN measures the [market breadth](../m/market_breadth.md) of the [NASDAQ](../n/nasdaq.md) [index](../i/index.md), according to the ratio of average [volume](../v/volume.md) in advancing [stocks](../s/stock.md) versus declining [stocks](../s/stock.md).
+The [NASDAQ](../n/nasdaq.md) TRIN measures the [market breadth](../m/market_breadth.md) of the [NASDAQ](../n/nasdaq.md) [index](../i/index_instrument.md), according to the ratio of average [volume](../v/volume.md) in advancing [stocks](../s/stock.md) versus declining [stocks](../s/stock.md).
 
 ## NYSE Breadth Indicators
 
 ### NYSE Advance/Decline Line
 
-The NYSE A/D Line provides a cumulative measure of the number of advancing [stocks](../s/stock.md) minus declining [stocks](../s/stock.md) on the NYSE, useful for assessing the internal health of this broad-based [index](../i/index.md).
+The NYSE A/D Line provides a cumulative measure of the number of advancing [stocks](../s/stock.md) minus declining [stocks](../s/stock.md) on the NYSE, useful for assessing the internal health of this broad-based [index](../i/index_instrument.md).
 
 ### NYSE McClellan Oscillator
 

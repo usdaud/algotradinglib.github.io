@@ -20,8 +20,8 @@ Global equities represent [shares](../s/shares.md) in publicly [listed](../l/lis
 
 Several indices track the performance of global equities, [offering](../o/offering.md) benchmarks for investment performance. Key indices include:
 
-1. **MSCI World [Index](../i/index.md)**: Tracks large and [mid-cap](../m/mid-cap.md) stock performance across 23 developed [market](../m/market.md) countries (https://www.msci.com/world).
-2. **FTSE All-World [Index](../i/index.md)**: An [index](../i/index.md) that covers over 3,900 [stocks](../s/stock.md) in 47 countries, both developed and emerging markets (https://www.ftserussell.com/products/indices/geisac).
+1. **MSCI World [Index](../i/index_instrument.md)**: Tracks large and [mid-cap](../m/mid-cap.md) stock performance across 23 developed [market](../m/market.md) countries (https://www.msci.com/world).
+2. **FTSE All-World [Index](../i/index_instrument.md)**: An [index](../i/index_instrument.md) that covers over 3,900 [stocks](../s/stock.md) in 47 countries, both developed and emerging markets (https://www.ftserussell.com/products/indices/geisac).
 3. **S&P Global 1200**: Combines seven headline indices covering 31 markets, providing a broad measure of global [equity](../e/equity.md) performance (https://www.spglobal.com/spdji/en/indices/[equity](../e/equity.md)/sp-global-1200/).
 
 ## Algorithmic Trading in Global Equities
@@ -31,7 +31,7 @@ Several indices track the performance of global equities, [offering](../o/offeri
 ### Strategies
 
 1. **Statistical [Arbitrage](../a/arbitrage.md)**: This strategy identifies price inefficiencies between correlated [stocks](../s/stock.md). For example, if two tech [stocks](../s/stock.md) historically move together but one has recently diverged, the algorithm might short the over-performing stock and go long on the under-performing one, betting they [will](../w/will.md) converge.
-2. **[Index](../i/index.md) [Arbitrage](../a/arbitrage.md)**: This involves exploiting price differences between [index futures](../i/index_futures.md) and the [underlying](../u/underlying.md) [index](../i/index.md) components.
+2. **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md)**: This involves exploiting price differences between [index futures](../i/index_futures.md) and the [underlying](../u/underlying.md) [index](../i/index_instrument.md) components.
 3. **[Market](../m/market.md) Making**: Algorithms provide [liquidity](../l/liquidity.md) by placing buy and sell orders. They [profit](../p/profit.md) from the [bid-ask spread](../b/bid-ask_spread.md).
 4. **[Momentum Trading](../m/momentum_trading.md)**: Algorithms detect and [trade](../t/trade.md) on trending stock movements based on past price actions.
 5. **High-Frequency Trading (HFT)**: Ultra-fast executions to [capitalize](../c/capitalize.md) on very short-term [market](../m/market.md) movements and minor price discrepancies.

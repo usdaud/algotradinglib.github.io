@@ -63,7 +63,7 @@ In [algorithmic trading](../a/accountability.md), recognizing the Three Black Cr
 ### Implementation
 
 Algorithmic traders can integrate the Three Black Crows pattern into broader [trading systems](../t/trading_systems.md) by:
-- **Combining with [Technical Indicators](../t/technical_indicator.md):** Coupling with indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) for enhanced accuracy.
+- **Combining with [Technical Indicators](../t/technical_indicator.md):** Coupling with indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) for enhanced accuracy.
 - **[Automated Trading Systems](../a/automated_trading_systems.md):** Using the pattern as a trigger within [automated trading systems](../a/automated_trading_systems.md) to execute trades based on predefined criteria.
 
 ### Example

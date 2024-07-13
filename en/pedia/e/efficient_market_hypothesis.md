@@ -16,7 +16,7 @@ EMH is generally categorized into three forms, each varying by the level of info
 - **Strong Form EMH:** The most stringent form, claiming that all information, public and private (insider information), is fully reflected in [asset](../a/asset.md) prices. According to this form, even insiders cannot achieve superior returns consistently.
 
 ## Implications for Trading Strategies
-The implications of EMH for [trading strategies](../t/trading_strategies.md) are profound. If markets are truly efficient, actively managed funds are unlikely to consistently [outperform](../o/outperform.md) [passive investment strategies](../p/passive_investment_strategies.md). This leads many investors and [fund](../f/fund.md) managers to favor [index](../i/index.md) funds and other passive investment vehicles that aim to replicate [market](../m/market.md) performance at lower costs.
+The implications of EMH for [trading strategies](../t/trading_strategies.md) are profound. If markets are truly efficient, actively managed funds are unlikely to consistently [outperform](../o/outperform.md) [passive investment strategies](../p/passive_investment_strategies.md). This leads many investors and [fund](../f/fund.md) managers to favor [index](../i/index_instrument.md) funds and other passive investment vehicles that aim to replicate [market](../m/market.md) performance at lower costs.
 
 ### Active vs. Passive Management
 - **[Active Management](../a/active_management.md):** Involves selecting [stocks](../s/stock.md) or other securities in an attempt to [outperform](../o/outperform.md) the [market](../m/market.md). Given EMH, the likelihood of consistently achieving substantial returns through [active management](../a/active_management.md) is low.

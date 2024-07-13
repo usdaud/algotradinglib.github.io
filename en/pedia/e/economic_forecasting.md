@@ -12,7 +12,7 @@ One of the primary elements of economic [forecasting](../f/forecasting.md) is th
 - **[Inflation](../i/inflation.md) Rate:** Indicates the rate at which the general level of prices for goods and services is rising.
 - **[Unemployment Rate](../u/unemployment_rate.md):** The percentage of the labor force that is unemployed and actively seeking work.
 - **[Interest](../i/interest.md) Rates:** Central banks use these rates to control monetary [supply](../s/supply.md) and influence economic activity.
-- **Consumer Confidence [Index](../i/index.md) (CCI):** Measures the degree of optimism that consumers feel about the overall [economy](../e/economy.md) and their financial situation.
+- **Consumer Confidence [Index](../i/index_instrument.md) (CCI):** Measures the degree of optimism that consumers feel about the overall [economy](../e/economy.md) and their financial situation.
 - **[Retail Sales](../r/retail_sales.md) Data:** Provides insight into consumer spending patterns and overall economic activity.
 
 ### Economic Models

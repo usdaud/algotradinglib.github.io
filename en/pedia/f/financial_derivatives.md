@@ -1,6 +1,6 @@
 # Financial Derivatives
 
-Financial [derivatives](../d/derivatives.md) are complex financial instruments whose [value](../v/value.md) is derived from the [value](../v/value.md) of an [underlying asset](../u/underlying_asset.md), [index](../i/index.md), or rate. [Derivatives](../d/derivatives.md) are commonly used for hedging [risk](../r/risk.md) or for speculative purposes. This document [will](../w/will.md) explore the myriad aspects of financial [derivatives](../d/derivatives.md), diving into their types, uses, risks, history, and regulatory considerations.
+Financial [derivatives](../d/derivatives.md) are complex financial instruments whose [value](../v/value.md) is derived from the [value](../v/value.md) of an [underlying asset](../u/underlying_asset.md), [index](../i/index_instrument.md), or rate. [Derivatives](../d/derivatives.md) are commonly used for hedging [risk](../r/risk.md) or for speculative purposes. This document [will](../w/will.md) explore the myriad aspects of financial [derivatives](../d/derivatives.md), diving into their types, uses, risks, history, and regulatory considerations.
 
 ## Types of Financial Derivatives
 

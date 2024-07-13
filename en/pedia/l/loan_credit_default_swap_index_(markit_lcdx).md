@@ -1,6 +1,6 @@
 # Loan Credit Default Swap Index (Markit LCDX)
 
-The [Loan](../l/loan.md) [Credit](../c/credit.md) [Default](../d/default.md) [Swap](../s/swap.md) [Index](../i/index.md) (LCDX) is a specialized [financial instrument](../f/financial_instrument.md) that plays a fundamental role in the [credit](../c/credit.md) [derivatives](../d/derivatives.md) [market](../m/market.md). Developed by Markit (now part of IHS Markit), LCDX provides investors with a mechanism to [hedge](../h/hedge.md) or [gain](../g/gain.md) exposure to [risk](../r/risk.md) in the [syndicated loan](../s/syndicated_loan.md) [market](../m/market.md), particularly focusing on leveraged loans.
+The [Loan](../l/loan.md) [Credit](../c/credit.md) [Default](../d/default.md) [Swap](../s/swap.md) [Index](../i/index_instrument.md) (LCDX) is a specialized [financial instrument](../f/financial_instrument.md) that plays a fundamental role in the [credit](../c/credit.md) [derivatives](../d/derivatives.md) [market](../m/market.md). Developed by Markit (now part of IHS Markit), LCDX provides investors with a mechanism to [hedge](../h/hedge.md) or [gain](../g/gain.md) exposure to [risk](../r/risk.md) in the [syndicated loan](../s/syndicated_loan.md) [market](../m/market.md), particularly focusing on leveraged loans.
 
 ## What is a Credit Default Swap (CDS)?
 
@@ -12,31 +12,31 @@ Leveraged loans are loans extended to companies or individuals that already have
 
 ## Development of the LCDX
 
-The LCDX was first launched in May 2007 by Markit, in response to the growing need for a standardized benchmarking tool in the [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md). The development of the LCDX provided a new avenue for managing the [credit risk](../c/credit_risk.md) of a basket of leveraged loans. The [index](../i/index.md) is composed of a selection of the largest and most [liquid](../l/liquid.md) syndicated loans in the [market](../m/market.md).
+The LCDX was first launched in May 2007 by Markit, in response to the growing need for a standardized benchmarking tool in the [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md). The development of the LCDX provided a new avenue for managing the [credit risk](../c/credit_risk.md) of a basket of leveraged loans. The [index](../i/index_instrument.md) is composed of a selection of the largest and most [liquid](../l/liquid.md) syndicated loans in the [market](../m/market.md).
 
 For more details about Markit and other financial indices: [IHS Markit](https://ihsmarkit.com)
 
 ## Structure and Composition of LCDX
 
-The LCDX usually includes 100 of the most [liquid](../l/liquid.md) North American leveraged loans. These loans are indexed based on specific criteria, such as the [credit rating](../c/credit_rating.md) of the borrowing company, [liquidity](../l/liquidity.md), and the size of the [loan](../l/loan.md). The [index](../i/index.md) is updated periodically to reflect the changing dynamics of the [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md). 
+The LCDX usually includes 100 of the most [liquid](../l/liquid.md) North American leveraged loans. These loans are indexed based on specific criteria, such as the [credit rating](../c/credit_rating.md) of the borrowing company, [liquidity](../l/liquidity.md), and the size of the [loan](../l/loan.md). The [index](../i/index_instrument.md) is updated periodically to reflect the changing dynamics of the [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md). 
 
-Each entity within the LCDX has an equal weighting at inception, but this can change as [market](../m/market.md) values fluctuate. The constituents of the [index](../i/index.md) are reviewed regularly, and adjustments are made to include new loans and remove those that no longer meet the inclusion criteria.
+Each entity within the LCDX has an equal weighting at inception, but this can change as [market](../m/market.md) values fluctuate. The constituents of the [index](../i/index_instrument.md) are reviewed regularly, and adjustments are made to include new loans and remove those that no longer meet the inclusion criteria.
 
 ## How LCDX Works
 
 ### Hedging
 
-Institutional investors, such as banks and [hedge](../h/hedge.md) funds, use the LCDX to [hedge](../h/hedge.md) the [risk](../r/risk.md) of holding leveraged loans in their portfolios. For instance, if an institution holds a portfolio of leveraged loans, it can buy protection via the LCDX. Should any loans in the [index](../i/index.md) [default](../d/default.md), the institution would receive a [payout](../p/payout.md) to compensate for the losses.
+Institutional investors, such as banks and [hedge](../h/hedge.md) funds, use the LCDX to [hedge](../h/hedge.md) the [risk](../r/risk.md) of holding leveraged loans in their portfolios. For instance, if an institution holds a portfolio of leveraged loans, it can buy protection via the LCDX. Should any loans in the [index](../i/index_instrument.md) [default](../d/default.md), the institution would receive a [payout](../p/payout.md) to compensate for the losses.
 
 ### Speculation
 
-Investors also use the LCDX to speculate on the [creditworthiness](../c/creditworthiness.md) of the companies in the [index](../i/index.md). By taking long or short positions in the [index](../i/index.md), they can express their views on the direction of [credit](../c/credit.md) [spreads](../s/spreads.md) in the [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md).
+Investors also use the LCDX to speculate on the [creditworthiness](../c/creditworthiness.md) of the companies in the [index](../i/index_instrument.md). By taking long or short positions in the [index](../i/index_instrument.md), they can express their views on the direction of [credit](../c/credit.md) [spreads](../s/spreads.md) in the [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md).
 
 ## Valuation and Pricing
 
 ### Spreads
 
-The price of a CDS [index](../i/index.md), including the LCDX, is typically quoted in terms of its spread. The spread represents the annual cost (in [basis](../b/basis.md) points) that the buyer of protection must pay to the seller. For example, a 300 [basis](../b/basis.md) point spread means that the buyer must pay 3% of the notional amount per year to the seller.
+The price of a CDS [index](../i/index_instrument.md), including the LCDX, is typically quoted in terms of its spread. The spread represents the annual cost (in [basis](../b/basis.md) points) that the buyer of protection must pay to the seller. For example, a 300 [basis](../b/basis.md) point spread means that the buyer must pay 3% of the notional amount per year to the seller.
 
 ### Credit Events
 
@@ -86,4 +86,4 @@ The COVID-19 pandemic had a profound impact on the [leveraged loan](../l/leverag
 
 ## Conclusion
 
-The [Loan](../l/loan.md) [Credit](../c/credit.md) [Default](../d/default.md) [Swap](../s/swap.md) [Index](../i/index.md) (Markit LCDX) is a critical tool in the modern financial landscape, enabling investors to [hedge](../h/hedge.md) and manage [credit risk](../c/credit_risk.md) associated with leveraged loans. Its development and ongoing evolution reflect the dynamic nature of [financial markets](../f/financial_market.md) and the continual need for sophisticated [risk management](../r/risk_management.md) tools. As the [market](../m/market.md) for leveraged loans grows and evolves, the LCDX [will](../w/will.md) likely continue to play a pivotal role in shaping investment strategies and [risk management](../r/risk_management.md) practices. For those involved in the [credit](../c/credit.md) [derivatives](../d/derivatives.md) [market](../m/market.md), understanding the intricacies of the LCDX is essential for optimizing [portfolio performance](../p/portfolio_performance.md) and mitigating [risk](../r/risk.md) effectively.
+The [Loan](../l/loan.md) [Credit](../c/credit.md) [Default](../d/default.md) [Swap](../s/swap.md) [Index](../i/index_instrument.md) (Markit LCDX) is a critical tool in the modern financial landscape, enabling investors to [hedge](../h/hedge.md) and manage [credit risk](../c/credit_risk.md) associated with leveraged loans. Its development and ongoing evolution reflect the dynamic nature of [financial markets](../f/financial_market.md) and the continual need for sophisticated [risk management](../r/risk_management.md) tools. As the [market](../m/market.md) for leveraged loans grows and evolves, the LCDX [will](../w/will.md) likely continue to play a pivotal role in shaping investment strategies and [risk management](../r/risk_management.md) practices. For those involved in the [credit](../c/credit.md) [derivatives](../d/derivatives.md) [market](../m/market.md), understanding the intricacies of the LCDX is essential for optimizing [portfolio performance](../p/portfolio_performance.md) and mitigating [risk](../r/risk.md) effectively.

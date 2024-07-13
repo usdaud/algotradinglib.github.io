@@ -50,7 +50,7 @@ Stop-loss strategies are meant to limit losses by closing positions when the pri
 
 - **Moving Average Crossover**: Exiting a position when a short-term moving average crosses a long-term moving average indicating a [trend reversal](../t/trend_reversal.md).
   
-- **RSI Exit**: Using the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) to exit positions when the RSI indicates [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **RSI Exit**: Using the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) to exit positions when the RSI indicates [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ### 5. **Composite Strategies**
 

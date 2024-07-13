@@ -49,7 +49,7 @@ The [solvency](../s/solvency.md) of Social [Security](../s/security.md) is a top
 
 ## Social Security and Inflation
 
-Social [Security](../s/security.md) benefits are adjusted annually based on the Consumer Price [Index](../i/index.md) for Urban Wage Earners and Clerical Workers (CPI-W). These cost-of-living adjustments (COLAs) aim to preserve the [purchasing power](../p/purchasing_power.md) of beneficiaries in the face of [inflation](../i/inflation.md).
+Social [Security](../s/security.md) benefits are adjusted annually based on the Consumer Price [Index](../i/index_instrument.md) for Urban Wage Earners and Clerical Workers (CPI-W). These cost-of-living adjustments (COLAs) aim to preserve the [purchasing power](../p/purchasing_power.md) of beneficiaries in the face of [inflation](../i/inflation.md).
 
 ## Social Security and the Economy
 

@@ -34,7 +34,7 @@ Trend lines are straight lines drawn on a price chart. There are two main types:
 
 Several [technical indicators](../t/technical_indicator.md) help traders identify trends, including:
 
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements.
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements.
 2. **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: Shows the relationship between two moving averages.
 3. **[Average Directional Index](../a/average_directional_index_(adx).md) (ADX)**: Indicates the strength of a trend.
 

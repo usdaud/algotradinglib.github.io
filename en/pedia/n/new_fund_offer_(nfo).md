@@ -20,7 +20,7 @@ NFOs can be divided into different categories based on the type of [mutual fund]
 Balanced or hybrid funds invest in a mix of [equity](../e/equity.md) and [debt](../d/debt.md) instruments, aiming to provide a balance of [capital](../c/capital.md) appreciation and [income](../i/income.md) generation. These funds are designed to reduce the [volatility](../v/volatility.md) typically associated with pure [equity](../e/equity.md) funds.
 
 ### 4. Index Funds
-[Index](../i/index.md) funds aim to replicate the performance of a specific [index](../i/index.md) such as the S&P 500 or NSE [Nifty 50](../n/nifty_50.md). The [fund](../f/fund.md)'s portfolio consists of the same [stocks](../s/stock.md) and in the same proportions as the target [index](../i/index.md).
+[Index](../i/index_instrument.md) funds aim to replicate the performance of a specific [index](../i/index_instrument.md) such as the S&P 500 or NSE [Nifty 50](../n/nifty_50.md). The [fund](../f/fund.md)'s portfolio consists of the same [stocks](../s/stock.md) and in the same proportions as the target [index](../i/index_instrument.md).
 
 ### 5. Thematic/Sector Funds
 Thematic or sector funds invest in specific sectors of the [economy](../e/economy.md) like technology, healthcare, or energy. These funds can be particularly volatile and are prone to sector-specific risks.

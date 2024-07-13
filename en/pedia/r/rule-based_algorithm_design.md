@@ -19,7 +19,7 @@ Example:
 
 ### Source of Rules
 Rules can be derived from:
-- [Technical Analysis](../t/technical_analysis.md): Utilizing indicators like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), MACD.
+- [Technical Analysis](../t/technical_analysis.md): Utilizing indicators like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), MACD.
 - [Fundamental Analysis](../f/fundamental_analysis.md): Based on [financial health](../f/financial_health.md) indicators such as [earnings](../e/earnings.md) reports, P/E ratios.
 - [Quantitative Models](../q/quantitative_models.md): Using statistical measures and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to identify patterns.
 

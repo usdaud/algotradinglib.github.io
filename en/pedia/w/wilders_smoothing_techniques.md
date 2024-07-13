@@ -2,7 +2,7 @@
 
 Wilder’s smoothing techniques refer to the methods of smoothing and filtering financial data developed by J. Welles Wilder, an influential figure in [technical analysis](../t/technical_analysis.md). These techniques are used by algorithmic traders and technical analysts to smooth out price data, reduce the impact of short-term fluctuations, and reveal [underlying](../u/underlying.md) trends in [financial markets](../f/financial_market.md).
 
-J. Welles Wilder Jr. introduced several key indicators and methods in his seminal work, "New Concepts in Technical [Trading Systems](../t/trading_systems.md)" (1978). Among his contributions are popular indicators such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), [Average True Range](../a/average_true_range_(atr).md) (ATR), [Parabolic SAR](../p/parabolic_sar.md) (Stop and Reverse), and the Directional Movement [Index](../i/index.md) (DMI). Let’s dive into the specifics of some of these smoothing techniques and their applications in [algorithmic trading](../a/algorithmic_trading.md).
+J. Welles Wilder Jr. introduced several key indicators and methods in his seminal work, "New Concepts in Technical [Trading Systems](../t/trading_systems.md)" (1978). Among his contributions are popular indicators such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [Average True Range](../a/average_true_range_(atr).md) (ATR), [Parabolic SAR](../p/parabolic_sar.md) (Stop and Reverse), and the Directional Movement [Index](../i/index_instrument.md) (DMI). Let’s dive into the specifics of some of these smoothing techniques and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Relative Strength Index (RSI)
 

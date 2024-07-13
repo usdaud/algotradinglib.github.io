@@ -56,8 +56,8 @@ Several libraries and tools are available for implementing X-Peak Identification
     - `PyWavelets` (https://pywavelets.readthedocs.io/): A library for wavelet transforms, useful for multi-resolution analysis.
 
 2. **R Packages**:
-    - `TTR` (https://cran.r-project.org/web/packages/TTR/[index](../i/index.md).html): Provides technical [trading rules](../t/trading_rules.md) and indicators, including peak detection.
-    - `pracma` (https://cran.r-project.org/web/packages/pracma/[index](../i/index.md).html): Contains functions for numerical analysis, including [signal processing](../s/signal_processing_in_trading.md) and peak finding.
+    - `TTR` (https://cran.r-project.org/web/packages/TTR/[index](../i/index_instrument.md).html): Provides technical [trading rules](../t/trading_rules.md) and indicators, including peak detection.
+    - `pracma` (https://cran.r-project.org/web/packages/pracma/[index](../i/index_instrument.md).html): Contains functions for numerical analysis, including [signal processing](../s/signal_processing_in_trading.md) and peak finding.
 
 3. **MATLAB Toolboxes**:
     - `[Signal Processing](../s/signal_processing_in_trading.md) Toolbox` (https://www.mathworks.com/products/signal.html): Offers comprehensive tools for peak detection and analysis.

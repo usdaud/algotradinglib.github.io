@@ -42,7 +42,7 @@ Trading on LuSE is conducted through an electronic trading system, which matches
 
 ### Market Index
 
-The LuSE All Share [Index](../i/index.md) (LASI) is the [benchmark](../b/benchmark.md) [index](../i/index.md) of the Lusaka Stock [Exchange](../e/exchange.md). It tracks the performance of all [listed](../l/listed.md) companies and serves as a barometer of the overall [market](../m/market.md) performance. The LASI is a [market](../m/market.md)-[capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md), reflecting the [value](../v/value.md) of [listed](../l/listed.md) companies based on their [market](../m/market.md) caps.
+The LuSE All Share [Index](../i/index_instrument.md) (LASI) is the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) of the Lusaka Stock [Exchange](../e/exchange.md). It tracks the performance of all [listed](../l/listed.md) companies and serves as a barometer of the overall [market](../m/market.md) performance. The LASI is a [market](../m/market.md)-[capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md), reflecting the [value](../v/value.md) of [listed](../l/listed.md) companies based on their [market](../m/market.md) caps.
 
 ## Key Listings
 

@@ -47,7 +47,7 @@ Optimizing the uncovered put writing strategy involves fine-tuning various eleme
 
 ### Case Study: Application in a Hypothetical Algorithm
 
-**Objective:** Implement a strategy to write uncovered [put options](../p/put_options.md) on S&P 500 [index](../i/index.md) [stocks](../s/stock.md), aiming for monthly [premium](../p/premium.md) [income](../i/income.md).
+**Objective:** Implement a strategy to write uncovered [put options](../p/put_options.md) on S&P 500 [index](../i/index_instrument.md) [stocks](../s/stock.md), aiming for monthly [premium](../p/premium.md) [income](../i/income.md).
 
 #### Steps:
 1. **Data Gathering:** Collect historical price and [volatility](../v/volatility.md) data for S&P 500 [stocks](../s/stock.md) from a reliable data provider.

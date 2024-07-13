@@ -47,7 +47,7 @@ This method could reveal power-law behavior in the [return](../r/return.md) [dis
 
 ### Case Study: Market Index Analysis
 
-For long-term investment strategies, analyzing the historical performance of [market](../m/market.md) indices is crucial. A log-log plot of an [index](../i/index.md) like the S&P 500 over several decades can illustrate the compounded growth more clearly than a linear plot. Exponential [growth trends](../g/growth_trends_in_trading.md) appear linear, making it easier to identify phases of different [growth rates](../g/growth_rates_in_trading.md) and periods of [market](../m/market.md) [volatility](../v/volatility.md).
+For long-term investment strategies, analyzing the historical performance of [market](../m/market.md) indices is crucial. A log-log plot of an [index](../i/index_instrument.md) like the S&P 500 over several decades can illustrate the compounded growth more clearly than a linear plot. Exponential [growth trends](../g/growth_trends_in_trading.md) appear linear, making it easier to identify phases of different [growth rates](../g/growth_rates_in_trading.md) and periods of [market](../m/market.md) [volatility](../v/volatility.md).
 
 ## Implementing Log-Log Plots
 

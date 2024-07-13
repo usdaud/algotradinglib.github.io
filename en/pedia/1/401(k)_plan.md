@@ -70,7 +70,7 @@ Several companies specialize in [offering](../o/offering.md) 401(k) plans to emp
 Fidelity is one of the largest providers of 401(k) plans in the United States. They [offer](../o/offer.md) a wide [range](../r/range.md) of investment [options](../o/options.md), [robust](../r/robust.md) online tools, and educational resources to help participants optimize their retirement savings. [Fidelity](https://www.fidelity.com).
 
 ### Vanguard
-Vanguard is known for its low-cost [index](../i/index.md) funds and has a significant presence in the retirement plan [market](../m/market.md). They [offer](../o/offer.md) comprehensive 401(k) services, including plan administration and [investment management](../i/investment_management.md). [Vanguard](https://www.vanguard.com).
+Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and has a significant presence in the retirement plan [market](../m/market.md). They [offer](../o/offer.md) comprehensive 401(k) services, including plan administration and [investment management](../i/investment_management.md). [Vanguard](https://www.vanguard.com).
 
 ### Charles Schwab
 Schwab provides extensive 401(k) plan services, including a variety of investment [options](../o/options.md) and advisory services. Their platform is user-friendly and includes tools to help participants make informed decisions. [Charles Schwab](https://www.schwab.com).

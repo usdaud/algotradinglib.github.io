@@ -34,7 +34,7 @@ Performance [ratio analysis](../r/ratio_analysis.md) is an essential aspect of [
    \text{[Treynor Ratio](../t/treynor_ratio.md)} = \frac{\text{Portfolio [Return](../r/return.md)} - \text{[Risk](../r/risk.md)-Free Rate}}{\text{Portfolio [Beta](../b/beta.md)}}
    \]
    - **Significance**: Focuses on [systematic risk](../s/systematic_risk.md), assuming that the [investor](../i/investor.md) has a diversified portfolio.
-   - **Application**: Particularly useful for comparing the performance of diversified portfolios or [index](../i/index.md) funds with a similar level of [market risk](../m/market_risk.md).
+   - **Application**: Particularly useful for comparing the performance of diversified portfolios or [index](../i/index_instrument.md) funds with a similar level of [market risk](../m/market_risk.md).
 
 5. **[Information Ratio](../i/information_ratio.md)**  
    The [Information Ratio](../i/information_ratio.md) measures a [portfolio manager](../p/portfolio_manager.md)'s ability to generate excess returns relative to a [benchmark](../b/benchmark.md), adjusted for the [volatility](../v/volatility.md) of those returns. It is calculated as:

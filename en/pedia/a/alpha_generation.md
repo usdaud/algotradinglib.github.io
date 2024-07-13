@@ -4,7 +4,7 @@
 
 ## What is Alpha?
 
-[Alpha](../a/alpha.md), often symbolized by the Greek letter α, is a measure of an investment's performance on a [risk](../r/risk.md)-adjusted [basis](../b/basis.md). It represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md), such as the S&P 500. If an investment outperforms the [market](../m/market.md), it has a positive [alpha](../a/alpha.md); conversely, if it underperforms, it has a negative [alpha](../a/alpha.md).
+[Alpha](../a/alpha.md), often symbolized by the Greek letter α, is a measure of an investment's performance on a [risk](../r/risk.md)-adjusted [basis](../b/basis.md). It represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), such as the S&P 500. If an investment outperforms the [market](../m/market.md), it has a positive [alpha](../a/alpha.md); conversely, if it underperforms, it has a negative [alpha](../a/alpha.md).
 
 ## The Importance of Alpha in Algorithmic Trading
 

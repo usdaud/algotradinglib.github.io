@@ -8,7 +8,7 @@ In the constantly evolving landscape of [algorithmic trading](../a/algorithmic_t
 The concept of [market cycles](../m/market_cycles.md) is not new. Traders and [market](../m/market.md) analysts have long been aware of recurring patterns in stock prices, commodities, and forex markets. The 6-week cycle, however, gained more attention over recent years through extensive back-testing and statistical analysis. 
 
 ### Identifying the 6-Week Cycle
-To identify a 6-week cycle, traders employ various [technical analysis](../t/technical_analysis.md) tools such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and Fibonacci retracements. Statistical methods like Fourier Transform and [spectral analysis](../s/spectral_analysis.md) are also used to discern these cycles from random [market](../m/market.md) [noise](../n/noise.md). 
+To identify a 6-week cycle, traders employ various [technical analysis](../t/technical_analysis.md) tools such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and Fibonacci retracements. Statistical methods like Fourier Transform and [spectral analysis](../s/spectral_analysis.md) are also used to discern these cycles from random [market](../m/market.md) [noise](../n/noise.md). 
 
 ## Technical Foundations
 

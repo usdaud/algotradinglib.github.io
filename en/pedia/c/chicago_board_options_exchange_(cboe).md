@@ -10,7 +10,7 @@ The Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) was cr
 ### Milestones
 - **1977**: Introduction of call [options](../o/options.md) on stock indexes.
 - **1983**: Launch of the S&P 100 ([OEX](../o/oex.md)) and S&P 500 (SPX) [index options](../i/index_options.md).
-- **2004**: Introduction of the CBOE [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX), which has become a widely-followed measure of [market](../m/market.md) [volatility](../v/volatility.md).
+- **2004**: Introduction of the CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX), which has become a widely-followed measure of [market](../m/market.md) [volatility](../v/volatility.md).
 
 ## Structure and Governance
 
@@ -60,7 +60,7 @@ For [futures](../f/futures.md) products, CBOE must also comply with regulations 
 CBOE has made a significant impact on [financial markets](../f/financial_market.md) since its inception. It has introduced innovative products, advanced trading technologies, and contributed to [market](../m/market.md) stability and [efficiency](../e/efficiency.md).
 
 ### Innovation in Derivatives
-CBOE has been at the forefront of developing new [derivatives](../d/derivatives.md) products, particularly in the [options](../o/options.md) and [volatility](../v/volatility.md) space. The introduction of products like the VIX [index](../i/index.md) has provided traders with new tools to manage [risk](../r/risk.md) and express [market](../m/market.md) views.
+CBOE has been at the forefront of developing new [derivatives](../d/derivatives.md) products, particularly in the [options](../o/options.md) and [volatility](../v/volatility.md) space. The introduction of products like the VIX [index](../i/index_instrument.md) has provided traders with new tools to manage [risk](../r/risk.md) and express [market](../m/market.md) views.
 
 ### Market Liquidity and Depth
 By [offering](../o/offering.md) a variety of products and maintaining a [robust](../r/robust.md) trading [infrastructure](../i/infrastructure.md), CBOE enhances [market](../m/market.md) [liquidity](../l/liquidity.md) and depth. This allows for more efficient pricing and [execution](../e/execution.md) of trades, benefiting both retail and institutional investors.

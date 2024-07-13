@@ -1,16 +1,16 @@
 # QQQQ
 
-The stock ticker QQQQ originally referred to the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md) [Tracking Stock](../t/tracking_stock.md), an [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) that tracks the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md). This ETF is managed by Invesco and is now known under the [ticker symbol](../t/ticker_symbol.md) QQQ. QQQQ was a commonly used ticker prior to a rebranding effort that phased it out in favor of the simpler QQQ. Here is an in-depth look at the QQQ ETF, its composition, historical performance, and relevance in the modern [financial markets](../f/financial_market.md).
+The stock ticker QQQQ originally referred to the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md) [Tracking Stock](../t/tracking_stock.md), an [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) that tracks the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md). This ETF is managed by Invesco and is now known under the [ticker symbol](../t/ticker_symbol.md) QQQ. QQQQ was a commonly used ticker prior to a rebranding effort that phased it out in favor of the simpler QQQ. Here is an in-depth look at the QQQ ETF, its composition, historical performance, and relevance in the modern [financial markets](../f/financial_market.md).
 
 ## Overview
 
-QQQ, formerly known under the [ticker symbol](../t/ticker_symbol.md) QQQQ, represents the Invesco QQQ [Trust](../t/trust.md) ETF ([NASDAQ](../n/nasdaq.md): QQQ), which tracks the performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md). This [index](../i/index.md) includes 100 of the largest non-financial companies [listed](../l/listed.md) on the [Nasdaq](../n/nasdaq.md) [Stock Market](../s/stock_market.md) based on [market capitalization](../m/market_capitalization.md). It is a highly influential [index](../i/index.md) that offers a snapshot of the leading companies in technology, biotechnology, telecommunications, and other growth sectors.
+QQQ, formerly known under the [ticker symbol](../t/ticker_symbol.md) QQQQ, represents the Invesco QQQ [Trust](../t/trust.md) ETF ([NASDAQ](../n/nasdaq.md): QQQ), which tracks the performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md). This [index](../i/index_instrument.md) includes 100 of the largest non-financial companies [listed](../l/listed.md) on the [Nasdaq](../n/nasdaq.md) [Stock Market](../s/stock_market.md) based on [market capitalization](../m/market_capitalization.md). It is a highly influential [index](../i/index_instrument.md) that offers a snapshot of the leading companies in technology, biotechnology, telecommunications, and other growth sectors.
 
 The Invesco QQQ [Trust](../t/trust.md) has gained significant popularity due to its composition, attractive growth profile, and its status as a bellwether for [Nasdaq](../n/nasdaq.md)-[listed](../l/listed.md) [stocks](../s/stock.md). It's an important tool for both individual and institutional investors seeking exposure to top-tier [Nasdaq](../n/nasdaq.md) companies without having to undertake individual stock picking.
 
 ## Major Holdings and Sector Composition
 
-The [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md), tracked by QQQ, represents a diverse [range](../r/range.md) of industries with a strong bias towards innovative technology and growth-oriented companies. Below are some of the major [holdings](../h/holdings.md) and their respective sectors:
+The [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md), tracked by QQQ, represents a diverse [range](../r/range.md) of industries with a strong bias towards innovative technology and growth-oriented companies. Below are some of the major [holdings](../h/holdings.md) and their respective sectors:
 
 - **Apple Inc. (AAPL)** - Technology
 - **Microsoft [Corporation](../c/corporation.md) (MSFT)** - Technology
@@ -23,7 +23,7 @@ The [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md), tracked by QQQ, represe
 - **Intel [Corporation](../c/corporation.md) (INTC)** - Technology
 - **Comcast [Corporation](../c/corporation.md) (CMCSA)** - Communication Services
 
-The weighting of these [holdings](../h/holdings.md) can change due to factors such as [market](../m/market.md) performance and periodic [rebalancing](../r/rebalancing.md) of the [index](../i/index.md).
+The weighting of these [holdings](../h/holdings.md) can change due to factors such as [market](../m/market.md) performance and periodic [rebalancing](../r/rebalancing.md) of the [index](../i/index_instrument.md).
 
 ### Sector Breakdown
 
@@ -48,7 +48,7 @@ QQQ has demonstrated [robust](../r/robust.md) performance since its inception, l
 
 Given its high-tech and [growth stock](../g/growth_stock.md) concentration, QQQ is not immune to periods of [volatility](../v/volatility.md), especially during [market](../m/market.md) corrections that disproportionately impact high-valued [growth stocks](../g/growth_stocks.md). For example:
 
-- The Dot-com Bubble (2000-2002) had a severe impact on QQQ and the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md), both experiencing significant declines.
+- The Dot-com Bubble (2000-2002) had a severe impact on QQQ and the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md), both experiencing significant declines.
 - The [Financial Crisis](../f/financial_crisis.md) of 2008 also led to substantial drawdowns.
 
 Despite this, the ETF has consistently recovered and continued to deliver strong long-term performance, bolstered by the dominant [market](../m/market.md) positions and innovation pipelines of its constituent companies.
@@ -80,7 +80,7 @@ Invesco QQQ [Trust](../t/trust.md) is structured as a unit investment [trust](..
 
 ### Regulatory Updates
 
-As with all financial instruments, QQQ is subject to regulatory scrutiny and changes. Investors must stay updated with the latest regulatory changes that could impact the ETF’s operation or the broader [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md).
+As with all financial instruments, QQQ is subject to regulatory scrutiny and changes. Investors must stay updated with the latest regulatory changes that could impact the ETF’s operation or the broader [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md).
 
 ## Financial Instruments and Derivatives
 
@@ -90,11 +90,11 @@ Due to its [liquidity](../l/liquidity.md) and popularity, QQQ is also a popular 
 
 ### Leveraged and Inverse ETFs
 
-Several leveraged and [inverse ETFs](../i/inverse_etfs.md) track the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md), designed to amplify returns or provide inverse exposure. Examples include:
+Several leveraged and [inverse ETFs](../i/inverse_etfs.md) track the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md), designed to amplify returns or provide inverse exposure. Examples include:
 
-- **ProShares Ultra QQQ (QLD)**: Seeks daily investment results that correspond to twice (2x) the daily performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md).
-- **ProShares UltraPro QQQ (TQQQ)**: Seeks daily investment results that correspond to three times (3x) the daily performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md).
-- **ProShares Short QQQ (PSQ)**: Provides inverse exposure to the daily performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md).
+- **ProShares Ultra QQQ (QLD)**: Seeks daily investment results that correspond to twice (2x) the daily performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md).
+- **ProShares UltraPro QQQ (TQQQ)**: Seeks daily investment results that correspond to three times (3x) the daily performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md).
+- **ProShares Short QQQ (PSQ)**: Provides inverse exposure to the daily performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md).
 
 ### Risk Consideration
 
@@ -102,8 +102,8 @@ While leveraged and [inverse ETFs](../i/inverse_etfs.md) [offer](../o/offer.md) 
 
 ## Conclusion
 
-The Invesco QQQ [Trust](../t/trust.md) (previously known as QQQQ) remains one of the most widely recognized and traded ETFs globally. Its focus on the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md) makes it particularly appealing to investors interested in gaining exposure to leading technology and growth companies. Whether used as a core portfolio holding or as a tactical [asset](../a/asset.md), QQQ provides diversified exposure to sectors that are at the forefront of innovation and growth.
+The Invesco QQQ [Trust](../t/trust.md) (previously known as QQQQ) remains one of the most widely recognized and traded ETFs globally. Its focus on the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md) makes it particularly appealing to investors interested in gaining exposure to leading technology and growth companies. Whether used as a core portfolio holding or as a tactical [asset](../a/asset.md), QQQ provides diversified exposure to sectors that are at the forefront of innovation and growth.
 
 For more details on the Invesco QQQ ETF, please visit the official [Invesco QQQ Trust website](https://www.invesco.com/qqq-etf).
 
-Understanding the nuances of QQQ, its [underlying](../u/underlying.md) [index](../i/index.md), and its role in portfolio construction can help investors make more informed decisions and potentially capture the growth opportunities presented by the leading companies [listed](../l/listed.md) on the [Nasdaq](../n/nasdaq.md).
+Understanding the nuances of QQQ, its [underlying](../u/underlying.md) [index](../i/index_instrument.md), and its role in portfolio construction can help investors make more informed decisions and potentially capture the growth opportunities presented by the leading companies [listed](../l/listed.md) on the [Nasdaq](../n/nasdaq.md).

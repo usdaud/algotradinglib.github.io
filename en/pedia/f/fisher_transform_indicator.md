@@ -58,7 +58,7 @@ Fisher Transform can also be used in [divergence](../d/divergence.md) analysis t
 
 ### Combining with Other Indicators
 
-Traders often combine the Fisher Transform with other [technical indicators](../t/technical_indicator.md), such as Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) to validate the signals and enhance the robustness of their [trading strategy](../t/trading_strategy.md).
+Traders often combine the Fisher Transform with other [technical indicators](../t/technical_indicator.md), such as Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) to validate the signals and enhance the robustness of their [trading strategy](../t/trading_strategy.md).
 
 ## Advantages and Limitations
 

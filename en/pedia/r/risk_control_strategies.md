@@ -49,7 +49,7 @@ Hedging involves taking positions in financial instruments that are expected to 
 2. **[Futures Contracts](../f/futures_contracts.md)**: Entering into [futures contracts](../f/futures_contracts.md) to lock in prices and [hedge](../h/hedge.md) against adverse price movements.
 3. **[Pairs Trading](../p/pairs_trading.md)**: Simultaneously buying and selling two correlated securities to reduce [market risk](../m/market_risk.md).
 
-Example: An [investor](../i/investor.md) holds a portfolio of technology [stocks](../s/stock.md) may buy [put options](../p/put_options.md) on the [technology sector](../t/technology_sector.md) [index](../i/index.md) to [hedge](../h/hedge.md) against sector-wide declines.
+Example: An [investor](../i/investor.md) holds a portfolio of technology [stocks](../s/stock.md) may buy [put options](../p/put_options.md) on the [technology sector](../t/technology_sector.md) [index](../i/index_instrument.md) to [hedge](../h/hedge.md) against sector-wide declines.
 
 ## 6. Stress Testing
 

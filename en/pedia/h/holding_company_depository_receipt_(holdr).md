@@ -28,7 +28,7 @@ While both HOLDRs and ETFs allowed for diversified exposure to [industry](../i/i
 
 ### Flexibility
 
-ETFs typically have a dynamic composition that can be periodically rebalanced to reflect changes in the [underlying](../u/underlying.md) [index](../i/index.md) or [investment strategy](../i/investment_strategy.md). In contrast, the stock composition in HOLDRs was static, [offering](../o/offering.md) less flexibility in terms of adaptation to [market](../m/market.md) conditions.
+ETFs typically have a dynamic composition that can be periodically rebalanced to reflect changes in the [underlying](../u/underlying.md) [index](../i/index_instrument.md) or [investment strategy](../i/investment_strategy.md). In contrast, the stock composition in HOLDRs was static, [offering](../o/offering.md) less flexibility in terms of adaptation to [market](../m/market.md) conditions.
 
 ### Diversity
 

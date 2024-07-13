@@ -41,7 +41,7 @@ Gold has been a valuable [asset](../a/asset.md) for thousands of years, serving 
     - Simple Moving Average (SMA)
     - Exponential Moving Average (EMA)
 
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 3. **[Bollinger Bands](../b/bollinger_bands.md)**: A [volatility](../v/volatility.md) [indicator](../i/indicator.md) that uses moving averages and standard deviations to define a price channel.
 

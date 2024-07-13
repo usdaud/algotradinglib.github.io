@@ -1,10 +1,10 @@
 # True Strength Index (TSI)
 
-The True Strength [Index](../i/index.md) (TSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) developed by William Blau. It measures the strength of a [financial instrument](../f/financial_instrument.md) by using double smoothing to minimize long-term trends and provide a clearer indication of price changes and potential shifts in [market](../m/market.md) [momentum](../m/momentum.md).
+The True Strength [Index](../i/index_instrument.md) (TSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) developed by William Blau. It measures the strength of a [financial instrument](../f/financial_instrument.md) by using double smoothing to minimize long-term trends and provide a clearer indication of price changes and potential shifts in [market](../m/market.md) [momentum](../m/momentum.md).
 
 ## Understanding the True Strength Index
 
-The TSI takes into account the price difference between successive bars, often referred to as the price change or [delta](../d/delta.md), and smooths it using a pair of exponential moving averages (EMAs). This double EMA smoothing approach helps filter out the [noise](../n/noise.md) and identify more significant trends or shifts in [momentum](../m/momentum.md). The TSI oscillates between positive and negative values and can be interpreted in ways similar to other [momentum oscillators](../m/momentum_oscillators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI).
+The TSI takes into account the price difference between successive bars, often referred to as the price change or [delta](../d/delta.md), and smooths it using a pair of exponential moving averages (EMAs). This double EMA smoothing approach helps filter out the [noise](../n/noise.md) and identify more significant trends or shifts in [momentum](../m/momentum.md). The TSI oscillates between positive and negative values and can be interpreted in ways similar to other [momentum oscillators](../m/momentum_oscillators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 
 ## Formula
 
@@ -22,7 +22,7 @@ The TSI is calculated with the following formula:
 4. **Smoothed Absolute Price Change (`absDelta`)**:
     \( \text{Smoothed} abs\[Delta](../d/delta.md) = EMA(EMA(abs\[Delta](../d/delta.md), r), s) \)
 
-5. **True Strength [Index](../i/index.md)**:
+5. **True Strength [Index](../i/index_instrument.md)**:
     \( TSI = \frac{Smoothed \[Delta](../d/delta.md)}{Smoothed abs\[Delta](../d/delta.md)} \times 100 \)
 
 Where:
@@ -129,7 +129,7 @@ print(df)
 1. **Adding TSI [Indicator](../i/indicator.md)**:
     - [Open](../o/open.md) a chart in [TradingView](../t/tradingview.md).
     - Click on "Indicators" in the toolbar.
-    - Search for "True Strength [Index](../i/index.md)" and select it.
+    - Search for "True Strength [Index](../i/index_instrument.md)" and select it.
 2. **Customizing Parameters**:
     - Adjust the periods for the EMAs (`r` and `s`) as desired in the settings.
 3. **Interpreting Signals**:
@@ -140,4 +140,4 @@ You can explore TSI further on [TradingView](../t/tradingview.md)'s website: [Tr
 
 ## Conclusion
 
-The True Strength [Index](../i/index.md) is a valuable [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that provides insights into the strength and direction of [market](../m/market.md) trends. Its double smoothing technique reduces [noise](../n/noise.md) and makes it an effective tool for identifying potential entry and exit points in various [trading strategies](../t/trading_strategies.md). Whether used for manual [market](../m/market.md) analysis or integrated into more complex [algorithmic trading](../a/accountability.md) systems, TSI can significantly enhance a [trader](../t/trader.md)'s ability to navigate [financial markets](../f/financial_market.md).
+The True Strength [Index](../i/index_instrument.md) is a valuable [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that provides insights into the strength and direction of [market](../m/market.md) trends. Its double smoothing technique reduces [noise](../n/noise.md) and makes it an effective tool for identifying potential entry and exit points in various [trading strategies](../t/trading_strategies.md). Whether used for manual [market](../m/market.md) analysis or integrated into more complex [algorithmic trading](../a/accountability.md) systems, TSI can significantly enhance a [trader](../t/trader.md)'s ability to navigate [financial markets](../f/financial_market.md).

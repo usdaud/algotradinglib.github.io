@@ -31,7 +31,7 @@ MOC orders are typically entered during the trading day but are not executed unt
 ## Use Cases
 
 1. **End-of-Day Investment Strategies**: Portfolio managers and institutional investors may use MOC orders to align their [holdings](../h/holdings.md) with end-of-day benchmarks such as indexes, ensuring portfolio valuations reflect the final [market](../m/market.md) prices.
-2. **[Index](../i/index.md) Funds and ETFs**: [Fund](../f/fund.md) managers of [index](../i/index.md)-based investment vehicles often use MOC orders to rebalance portfolios in line with [index](../i/index.md) constituent changes.
+2. **[Index](../i/index_instrument.md) Funds and ETFs**: [Fund](../f/fund.md) managers of [index](../i/index_instrument.md)-based investment vehicles often use MOC orders to rebalance portfolios in line with [index](../i/index_instrument.md) constituent changes.
 3. **Corporate Actions**: Companies engaging in stock buybacks or other corporate actions may utilize MOC orders to carry out large transactions without significantly affecting intraday [market](../m/market.md) prices.
 4. **[Event-Driven Trading](../e/event-driven_trading.md)**: Traders focusing on [market](../m/market.md)-moving events (e.g., [earnings](../e/earnings.md) releases, economic data) may use MOC orders to [capitalize](../c/capitalize.md) on information released shortly before the close.
 

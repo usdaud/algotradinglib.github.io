@@ -47,7 +47,7 @@ Examining portfolio [turnover](../t/turnover.md) can also be a performance metri
 
 ### Real-World Examples
 
-1. **Vanguard Group**: Known for its passive management strategy, most of Vanguard's [index](../i/index.md) funds have low portfolio [turnover](../t/turnover.md), often below 10%. This makes them cost-efficient and tax-efficient. [Vanguard](https://www.vanguard.com)
+1. **Vanguard Group**: Known for its passive management strategy, most of Vanguard's [index](../i/index_instrument.md) funds have low portfolio [turnover](../t/turnover.md), often below 10%. This makes them cost-efficient and tax-efficient. [Vanguard](https://www.vanguard.com)
 
 2. **[Fidelity Investments](../f/fidelity_investments.md)**: Often exhibiting higher [turnover ratios](../t/turnover_ratios.md), as some of their actively-managed funds aim to [outperform](../o/outperform.md) the [market](../m/market.md) with frequent buying and selling. [Fidelity Investments](https://www.fidelity.com)
 

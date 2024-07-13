@@ -56,8 +56,8 @@ HOSE employs a trading mechanism that includes both periodic call auctions and c
 
 HOSE uses several indices to reflect the [market](../m/market.md) performance, the most notable being:
 
-- **VN-[Index](../i/index.md):** The primary [benchmark](../b/benchmark.md), comprising all the [stocks](../s/stock.md) [listed](../l/listed.md) on HOSE.
-- **VN30-[Index](../i/index.md):** Includes the 30 largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md).
+- **VN-[Index](../i/index_instrument.md):** The primary [benchmark](../b/benchmark.md), comprising all the [stocks](../s/stock.md) [listed](../l/listed.md) on HOSE.
+- **VN30-[Index](../i/index_instrument.md):** Includes the 30 largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md).
 - **Sectoral Indices:** Separate indices for various industries, such as the financial, industrial, and consumer sectors.
 
 ## Technology and Infrastructure

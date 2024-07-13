@@ -18,7 +18,7 @@ When constructed well, a Bayesian network can help in determining [joint](../j/j
 
 In the context of [algorithmic trading](../a/algorithmic_trading.md), nodes can represent:
 
-- **[Market indicators](../m/market_indicators.md)**: Such as moving averages, [Bollinger Bands](../b/bollinger_bands.md), or [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI).
+- **[Market indicators](../m/market_indicators.md)**: Such as moving averages, [Bollinger Bands](../b/bollinger_bands.md), or [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 - **Macroeconomic factors**: Including [unemployment](../u/unemployment.md) rates, [interest](../i/interest.md) rates, or GDP growth.
 - **[Asset](../a/asset.md) prices**: Prices of [stocks](../s/stock.md), commodities, or ETFs.
 - **Technical patterns**: [Chart patterns](../c/chart_patterns.md) like head and shoulders, double tops or bottoms.

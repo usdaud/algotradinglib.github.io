@@ -30,14 +30,14 @@ For example, if the same company mentioned above has 1 million [shares](../s/sha
 \[ \text{Float-Adjusted [Market Capitalization](../m/market_capitalization.md)} = 700,000 \times 50 = 35,000,000 \]
 
 ## Importance in Index Construction
-[Float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) is particularly crucial in the construction and maintenance of [stock market](../s/stock_market.md) indices. Major indices like the S&P 500, FTSE 100, and others use [float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) to ensure that the [index](../i/index.md) more accurately reflects the performance and [liquidity](../l/liquidity.md) of the included companies. 
+[Float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) is particularly crucial in the construction and maintenance of [stock market](../s/stock_market.md) indices. Major indices like the S&P 500, FTSE 100, and others use [float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) to ensure that the [index](../i/index_instrument.md) more accurately reflects the performance and [liquidity](../l/liquidity.md) of the included companies. 
 
-For example, the S&P 500 introduced [float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) methodology in 2005. This change aimed to provide a more realistic and investable [benchmark](../b/benchmark.md) for [index](../i/index.md) funds and institutional investors.
+For example, the S&P 500 introduced [float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) methodology in 2005. This change aimed to provide a more realistic and investable [benchmark](../b/benchmark.md) for [index](../i/index_instrument.md) funds and institutional investors.
 
 ## Impact on Investments
 [Float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) has several implications for both passive and active investment strategies:
 
-1. **[Index](../i/index.md) Funds:** Many [index](../i/index.md) funds use [float](../f/float.md)-adjusted weights to allocate investments. This makes the [index](../i/index.md) less susceptible to price manipulation since non-tradable [shares](../s/shares.md) are excluded.
+1. **[Index](../i/index_instrument.md) Funds:** Many [index](../i/index_instrument.md) funds use [float](../f/float.md)-adjusted weights to allocate investments. This makes the [index](../i/index_instrument.md) less susceptible to price manipulation since non-tradable [shares](../s/shares.md) are excluded.
 2. **[Liquidity](../l/liquidity.md) Assessment:** Investors can get a clearer picture of a stock's [liquidity risk](../l/liquidity_risk.md), as the calculation does not include [shares](../s/shares.md) that are unlikely to be traded.
 3. **[Valuation](../v/valuation.md) Accuracy:** A more accurate [valuation](../v/valuation.md) metric allows for better comparison between companies, especially in sectors where insider ownership can be substantial, like technology or pharmaceuticals.
 

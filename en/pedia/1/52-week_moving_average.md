@@ -74,7 +74,7 @@ By plotting the 52-week moving average on Apple's stock price, investors noticed
 
 ![S&P 500 52-Week Moving Average](https://example.com/sp500-chart)
 
-During early 2020, the S&P 500 [index](../i/index.md) fell significantly below its 52-week moving average. [Mean reversion](../m/mean_reversion.md) strategies would have identified this as an [oversold](../o/oversold.md) condition, prompting buy orders.
+During early 2020, the S&P 500 [index](../i/index_instrument.md) fell significantly below its 52-week moving average. [Mean reversion](../m/mean_reversion.md) strategies would have identified this as an [oversold](../o/oversold.md) condition, prompting buy orders.
 
 ## 8. Tools and Platforms for Utilizing Moving Averages in Trading
 

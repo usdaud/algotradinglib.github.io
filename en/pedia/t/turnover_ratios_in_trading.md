@@ -112,7 +112,7 @@ Vanguard, a prominent [investment management](../i/investment_management.md) com
 ### Investment Strategies
 
 Different investment strategies exhibit varying [turnover ratios](../t/turnover_ratios.md). For instance:
-- **Passive Strategies**: [Index](../i/index.md) funds and other passive strategies typically have low [turnover ratios](../t/turnover_ratios.md), reflecting their buy-and-[hold](../h/hold.md) approach.
+- **Passive Strategies**: [Index](../i/index_instrument.md) funds and other passive strategies typically have low [turnover ratios](../t/turnover_ratios.md), reflecting their buy-and-[hold](../h/hold.md) approach.
 - **Active Strategies**: Strategies that focus on [short-term trading](../s/short-term_trading.md), [technical analysis](../t/technical_analysis.md), or [market timing](../m/market_timing.md) tend to have higher [turnover ratios](../t/turnover_ratios.md).
 
 ### Institutional Investors

@@ -59,7 +59,7 @@ Several [technical indicators](../t/technical_indicator.md) assist in identifyin
   
 - **[Bollinger Bands](../b/bollinger_band.md)**: Highlight [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, helping identify potential [reversal](../r/reversal.md) points.
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Indicates whether a stock is [overbought](../o/overbought.md) or [oversold](../o/oversold.md), potentially identifying [support and resistance](../s/support_and_resistance.md) levels.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Indicates whether a stock is [overbought](../o/overbought.md) or [oversold](../o/oversold.md), potentially identifying [support and resistance](../s/support_and_resistance.md) levels.
 
 ### Trendlines
 

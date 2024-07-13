@@ -34,7 +34,7 @@ Numerous academic studies, including Fama and French's Three-[Factor](../f/facto
 ### Key Metrics
 
 1. **[Price Momentum](../p/price_momentum.md)**: Often measured over periods ranging from 3 to 12 months, this metric identifies [stocks](../s/stock.md) with the highest returns over the specified period.
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: A technical [indicator](../i/indicator.md) used to measure the magnitude of recent price changes. An RSI above 70 typically signals [overbought](../o/overbought.md) conditions, while an RSI below 30 indicates [oversold](../o/oversold.md) conditions.
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: A technical [indicator](../i/indicator.md) used to measure the magnitude of recent price changes. An RSI above 70 typically signals [overbought](../o/overbought.md) conditions, while an RSI below 30 indicates [oversold](../o/oversold.md) conditions.
 3. **Moving Averages**: [Stocks](../s/stock.md) trading above their moving averages (e.g., 50-day, 200-day) are considered in an upward [momentum](../m/momentum.md).
 
 ### Theoretical Background

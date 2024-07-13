@@ -55,10 +55,10 @@ High-frequency trading (HFT) takes [algorithmic trading](../a/accountability.md)
 The Ukrainian [Exchange](../e/exchange.md) is known for its key benchmarks, which serve as indicators of [market](../m/market.md) performance.
 
 ### UX Index
-The UX [Index](../i/index.md) is the flagship [index](../i/index.md) of the Ukrainian [Exchange](../e/exchange.md), comprising the top-performing [stocks](../s/stock.md) [listed](../l/listed.md) on the [exchange](../e/exchange.md). It serves as a barometer for the overall health of the Ukrainian [stock market](../s/stock_market.md).
+The UX [Index](../i/index_instrument.md) is the flagship [index](../i/index_instrument.md) of the Ukrainian [Exchange](../e/exchange.md), comprising the top-performing [stocks](../s/stock.md) [listed](../l/listed.md) on the [exchange](../e/exchange.md). It serves as a barometer for the overall health of the Ukrainian [stock market](../s/stock_market.md).
 
 ### Sectoral Indices
-In addition to the UX [Index](../i/index.md), the [exchange](../e/exchange.md) also features sectoral indices that track the performance of specific sectors, such as banking, [real estate](../r/real_estate.md), and energy.
+In addition to the UX [Index](../i/index_instrument.md), the [exchange](../e/exchange.md) also features sectoral indices that track the performance of specific sectors, such as banking, [real estate](../r/real_estate.md), and energy.
 
 ## Statistics and Market Performance
 The UX provides comprehensive statistical data and analytics that help investors make informed decisions. This includes historical data, trading volumes, and [market capitalization](../m/market_capitalization.md) of [listed](../l/listed.md) companies.

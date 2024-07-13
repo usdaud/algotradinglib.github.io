@@ -29,7 +29,7 @@ The ARIMA model combines autoregression, differencing (to make data stationary),
 [GARCH models](../g/garch_models.md) are used to estimate [volatility](../v/volatility.md) by considering past variances and returns within a rolling window. This helps in developing [risk](../r/risk.md)-adjusted [trading strategies](../t/trading_strategies.md) by [forecasting](../f/forecasting.md) future [market](../m/market.md) [volatility](../v/volatility.md).
 
 ### 8. Technical Indicators
-Many [technical indicators](../t/technical_indicators.md), such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and Stochastic Oscillators, incorporate windowed analysis to provide signals based on historical price movements.
+Many [technical indicators](../t/technical_indicators.md), such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and Stochastic Oscillators, incorporate windowed analysis to provide signals based on historical price movements.
 
 ## Application in Algorithmic Trading
 

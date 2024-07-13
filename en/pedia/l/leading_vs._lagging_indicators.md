@@ -10,19 +10,19 @@
 
 ### Types of Leading Indicators
 
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. An RSI above 70 typically indicates [overbought](../o/overbought.md) conditions, while an RSI below 30 indicates [oversold](../o/oversold.md) conditions.
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. An RSI above 70 typically indicates [overbought](../o/overbought.md) conditions, while an RSI below 30 indicates [oversold](../o/oversold.md) conditions.
    - Formula: RSI = 100 - [100 / (1 + RS)], where RS = Average [gain](../g/gain.md) of up periods during a specified time frame / Average loss of down periods during the specified time frame.
 
 2. **[Stochastic Oscillator](../s/stochastic_oscillator.md)**: This [indicator](../i/indicator.md) compares a particular closing price of a [security](../s/security.md) to a [range](../r/range.md) of its prices over a certain period. The [stochastic oscillator](../s/stochastic_oscillator.md) is used to generate [overbought](../o/overbought.md) and [oversold](../o/oversold.md) signals.
    - Formula: %K = (Current Close - Lowest Low) / (Highest High - Lowest Low) * 100
 
-3. **Consumer Confidence [Index](../i/index.md) (CCI)**: The CCI measures the degree of optimism that consumers feel about the overall state of the [economy](../e/economy.md) and their personal financial situations. Higher consumer confidence typically leads to increased consumer spending and investment.
+3. **Consumer Confidence [Index](../i/index_instrument.md) (CCI)**: The CCI measures the degree of optimism that consumers feel about the overall state of the [economy](../e/economy.md) and their personal financial situations. Higher consumer confidence typically leads to increased consumer spending and investment.
    - Source: [The Conference Board](https://www.conference-board.org/data/consumerconfidence.cfm)
 
 4. **[Economic Indicators](../e/economic_indicators.md)**: Various economic data points, like [Unemployment Rate](../u/unemployment_rate.md), Gross Domestic Product (GDP), and [Inflation](../i/inflation.md) Rate, can serve as [leading indicators](../l/leading_indicators.md). These indicators help predict economic trends that can affect [market](../m/market.md) performance.
    - Source: [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)
 
-5. **[Stock Market](../s/stock_market.md) Indexes**: Certain [stock market](../s/stock_market.md) indexes, such as the S&P 500 and Dow Jones Industrial Average, can act as [leading indicators](../l/leading_indicators.md) for the overall [market](../m/market.md) direction. A rising [index](../i/index.md) may indicate a bullish [market](../m/market.md), while a falling [index](../i/index.md) may indicate a bearish [market](../m/market.md).
+5. **[Stock Market](../s/stock_market.md) Indexes**: Certain [stock market](../s/stock_market.md) indexes, such as the S&P 500 and Dow Jones Industrial Average, can act as [leading indicators](../l/leading_indicators.md) for the overall [market](../m/market.md) direction. A rising [index](../i/index_instrument.md) may indicate a bullish [market](../m/market.md), while a falling [index](../i/index_instrument.md) may indicate a bearish [market](../m/market.md).
    - Source: [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/)
 
 ### Application of Leading Indicators

@@ -20,8 +20,8 @@ The [unemployment rate](../u/unemployment_rate.md) shows the percentage of the l
 [Inflation](../i/inflation.md) is the rate at which the general level of prices for goods and services is rising. Central banks closely monitor this [indicator](../i/indicator.md) to maintain economic stability.
 
 - **[European Union](../e/european_union_(eu).md)**: Eurostat publishes harmonized indices of consumer prices (HICP) monthly, making it easier to compare [inflation](../i/inflation.md) rates across EU countries. Visit [here](https://ec.europa.eu/eurostat).
-- **United States**: The BLS provides a Consumer Price [Index](../i/index.md) (CPI) monthly. The CPI measures the average change over time in the prices paid by urban consumers for a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services. More information is found [here](https://www.bls.gov/cpi/).
-- **Japan**: The [Statistics](../s/statistics.md) Bureau of Japan releases monthly data on the Consumer Price [Index](../i/index.md) (CPI). More details can be accessed [here](https://www.stat.go.jp/english/data/cpi/index.htm).
+- **United States**: The BLS provides a Consumer Price [Index](../i/index_instrument.md) (CPI) monthly. The CPI measures the average change over time in the prices paid by urban consumers for a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services. More information is found [here](https://www.bls.gov/cpi/).
+- **Japan**: The [Statistics](../s/statistics.md) Bureau of Japan releases monthly data on the Consumer Price [Index](../i/index_instrument.md) (CPI). More details can be accessed [here](https://www.stat.go.jp/english/data/cpi/index.htm).
 
 ### Interest Rates
 [Interest](../i/interest.md) rates are the rates at which [interest](../i/interest.md) is paid by borrowers for the use of [money](../m/money.md) that they borrow from a [lender](../l/lender.md). Central banks manipulate [interest](../i/interest.md) rates as a [monetary policy](../m/monetary_policy.md) tool to manage [inflation](../i/inflation.md) and [economic growth](../e/economic_growth.md).
@@ -40,16 +40,16 @@ The [trade](../t/trade.md) balance is the difference between a country's exports
 ### Consumer Confidence
 Consumer confidence measures how optimistic or pessimistic consumers are regarding their expected financial situation. It reflects overall economic health and consumer spending habits.
 
-- **United States**: The Conference Board publishes a monthly Consumer Confidence [Index](../i/index.md) (CCI). Visit [here](https://www.conference-board.org) for more information.
-- **United Kingdom**: The GfK Consumer Confidence [Index](../i/index.md) is a respected [indicator](../i/indicator.md) and is published monthly. Details can be found [here](https://www.gfk.com).
-- **Japan**: The Cabinet Office publishes a monthly Consumer Confidence [Index](../i/index.md). More information can be accessed [here](https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html).
+- **United States**: The Conference Board publishes a monthly Consumer Confidence [Index](../i/index_instrument.md) (CCI). Visit [here](https://www.conference-board.org) for more information.
+- **United Kingdom**: The GfK Consumer Confidence [Index](../i/index_instrument.md) is a respected [indicator](../i/indicator.md) and is published monthly. Details can be found [here](https://www.gfk.com).
+- **Japan**: The Cabinet Office publishes a monthly Consumer Confidence [Index](../i/index_instrument.md). More information can be accessed [here](https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html).
 
 ### Manufacturing Index
 [Manufacturing](../m/manufacturing.md) indices gauge the health of the [manufacturing](../m/manufacturing.md) sector, which is critical for understanding the industrial performance and future economic activity.
 
 - **United States**: The Institute for [Supply](../s/supply.md) Management (ISM) releases a monthly [Manufacturing](../m/manufacturing.md) PMI. Details can be found [here](https://www.ismworld.org).
-- **Germany**: The ifo Institute publishes the German Industrial Production [Index](../i/index.md). More information is available [here](https://www.ifo.de/en).
-- **Japan**: The Ministry of [Economy](../e/economy.md), [Trade](../t/trade.md) and [Industry](../i/industry.md) releases the Industrial Production [Index](../i/index.md) on a monthly [basis](../b/basis.md). More details can be accessed [here](https://www.meti.go.jp/english/statistics/index.html).
+- **Germany**: The ifo Institute publishes the German Industrial Production [Index](../i/index_instrument.md). More information is available [here](https://www.ifo.de/en).
+- **Japan**: The Ministry of [Economy](../e/economy.md), [Trade](../t/trade.md) and [Industry](../i/industry.md) releases the Industrial Production [Index](../i/index_instrument.md) on a monthly [basis](../b/basis.md). More details can be accessed [here](https://www.meti.go.jp/english/statistics/index.html).
 
 ### Retail Sales
 [Retail sales](../r/retail_sales.md) represent consumer spending on goods and services. It’s an essential [indicator](../i/indicator.md) of consumer behavior and economic health.
@@ -68,7 +68,7 @@ Housing [market indicators](../m/market_indicators.md) like [housing starts](../
 ### Business Confidence
 [Business](../b/business.md) confidence indicates the sentiment among businesses about the current economic situation and expectations for the future. It’s essential for understanding forthcoming [business activities](../b/business_activities.md) and investments.
 
-- **Germany**: The ifo [Business](../b/business.md) Climate [Index](../i/index.md) is a respected [indicator](../i/indicator.md) of [business](../b/business.md) confidence in Germany. More information can be found [here](https://www.ifo.de/en).
+- **Germany**: The ifo [Business](../b/business.md) Climate [Index](../i/index_instrument.md) is a respected [indicator](../i/indicator.md) of [business](../b/business.md) confidence in Germany. More information can be found [here](https://www.ifo.de/en).
 - **Japan**: The [Bank](../b/bank.md) of Japan publishes the Tankan survey, which measures [business](../b/business.md) sentiment in Japan. More details can be accessed [here](https://www.boj.or.jp/en).
 - **France**: INSEE provides the monthly [Business](../b/business.md) Climate [Indicator](../i/indicator.md) for France. Visit [here](https://www.insee.fr/en/statistiques) for more information.
 

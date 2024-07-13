@@ -19,7 +19,7 @@ To accurately interpret the Morning Star pattern, traders should follow these st
 1. **[Trend](../t/trend.md) Confirmation:** Prior to the appearance of the Morning Star, ensure that the [market](../m/market.md) is in a [downtrend](../d/downtrend.md). The Morning Star is only relevant when following a bearish [trend](../t/trend.md) as it indicates potential [reversal](../r/reversal.md) to bullishness.
 2. **Identify the Pattern:** Look for the three consecutive candlesticks as described above. The second candle should preferably have a small body, and its color can be either bullish or bearish.
 3. **[Volume Analysis](../v/volume_analysis.md):** Higher trading [volume](../v/volume.md) on the third candle strengthens the bullish [reversal](../r/reversal.md) signal. In the absence of [volume](../v/volume.md) data, the length and the gap of the third candle might be used as a [proxy](../p/proxy.md) for assessing the strength of the [reversal](../r/reversal.md).
-4. **Additional Confirmation:** For more conservative traders, additional confirmation can be sought using other [technical indicators](../t/technical_indicator.md) like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Averages (MA), or MACD (Moving Average Convergence [Divergence](../d/divergence.md)).
+4. **Additional Confirmation:** For more conservative traders, additional confirmation can be sought using other [technical indicators](../t/technical_indicator.md) like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Averages (MA), or MACD (Moving Average Convergence [Divergence](../d/divergence.md)).
 
 ## Application of the Morning Star Pattern in Trading
 
@@ -35,7 +35,7 @@ Once the Morning Star pattern is identified, traders can plan their trades accor
 
 While the Morning Star is a reliable pattern, its effectiveness can be enhanced through the use of other technical tools:
 
-- **RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)):** An RSI [value](../v/value.md) below 30 during the formation of the Morning Star indicates that the [market](../m/market.md) is in the [oversold](../o/oversold.md) region, thereby reinforcing the bullish [reversal](../r/reversal.md) indication.
+- **RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)):** An RSI [value](../v/value.md) below 30 during the formation of the Morning Star indicates that the [market](../m/market.md) is in the [oversold](../o/oversold.md) region, thereby reinforcing the bullish [reversal](../r/reversal.md) indication.
 - **Moving Averages:** When the Morning Star pattern appears above long-term moving averages (like the 50-day or 200-day MA), the signal is considered stronger.
 - **MACD (Moving Average Convergence [Divergence](../d/divergence.md)):** A bullish crossover in MACD (where the MACD line crosses above the signal line) concurrent with the formation of the Morning Star can serve as a confirmation.
 - **[Volume Indicators](../v/volume_indicators.md):** High trading [volume](../v/volume.md) on the third candle signifies strong bullish sentiment and solidifies the validity of the [reversal](../r/reversal.md) pattern.

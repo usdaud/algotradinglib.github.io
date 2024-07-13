@@ -30,7 +30,7 @@ Before attempting to solve multicollinearity, it is crucial to detect its presen
 
 2. **[Variance Inflation Factor](../v/variance_inflation_factor.md) (VIF)**: VIF quantifies how much the variance of a regression coefficient is inflated due to multicollinearity. A VIF [value](../v/value.md) greater than 10 typically indicates significant multicollinearity.
 
-3. **Condition [Index](../i/index.md)**: The condition [index](../i/index.md) measures the sensitivity of the regression coefficients to small changes in the data. A condition [index](../i/index.md) [value](../v/value.md) above 30 suggests potential multicollinearity.
+3. **Condition [Index](../i/index_instrument.md)**: The condition [index](../i/index_instrument.md) measures the sensitivity of the regression coefficients to small changes in the data. A condition [index](../i/index_instrument.md) [value](../v/value.md) above 30 suggests potential multicollinearity.
 
 4. **Eigenvalues**: Analyzing the eigenvalues of the [correlation](../c/correlation.md) matrix can help identify multicollinearity. Small eigenvalues (close to zero) indicate that the predictors are highly correlated.
 

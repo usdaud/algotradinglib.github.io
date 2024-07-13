@@ -1,12 +1,12 @@
 # Overweight
 
-In the context of [finance](../f/finance.md) and [investing](../i/investing.md), "overweight" is a term used to describe a condition in which an investment portfolio holds a larger proportion of a particular [security](../s/security.md) or [asset class](../a/asset_class.md) than is typically recommended or than is present in a [benchmark](../b/benchmark.md) [index](../i/index.md). This is usually indicative of a positive outlook for the [asset](../a/asset.md), suggesting that the [investor](../i/investor.md) expects it to perform better than other securities.
+In the context of [finance](../f/finance.md) and [investing](../i/investing.md), "overweight" is a term used to describe a condition in which an investment portfolio holds a larger proportion of a particular [security](../s/security.md) or [asset class](../a/asset_class.md) than is typically recommended or than is present in a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). This is usually indicative of a positive outlook for the [asset](../a/asset.md), suggesting that the [investor](../i/investor.md) expects it to perform better than other securities.
 
 ## Definition and Background
 
-"Overweight" can be applied to various contexts, including individual securities, sectors, and [asset](../a/asset.md) classes. It is used by portfolio managers and analysts to signify that they have allocated more resources or funds to a particular investment than its percentage within a relevant [index](../i/index.md) or [benchmark](../b/benchmark.md).
+"Overweight" can be applied to various contexts, including individual securities, sectors, and [asset](../a/asset.md) classes. It is used by portfolio managers and analysts to signify that they have allocated more resources or funds to a particular investment than its percentage within a relevant [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md).
 
-For example, if Technology [stocks](../s/stock.md) constitute 25% of the S&P 500 [index](../i/index.md), a portfolio that allocates 35% to Technology [stocks](../s/stock.md) would be considered overweight in that sector.
+For example, if Technology [stocks](../s/stock.md) constitute 25% of the S&P 500 [index](../i/index_instrument.md), a portfolio that allocates 35% to Technology [stocks](../s/stock.md) would be considered overweight in that sector.
 
 ## Factors Influencing Overweight Positions
 
@@ -30,7 +30,7 @@ While an overweight strategy could potentially [yield](../y/yield.md) higher ret
 To determine if an [asset](../a/asset.md) is overweight, calculate its percentage in your portfolio and compare it to its percentage in a relevant [benchmark](../b/benchmark.md). Here's a simplified example:
 
 - **[Asset Allocation](../a/asset_allocation.md) in Portfolio**: Technology [stocks](../s/stock.md) constitute $35,000 of a $100,000 portfolio, i.e., 35%.
-- **[Benchmark](../b/benchmark.md) Allocation**: Technology [stocks](../s/stock.md) constitute 25% of the S&P 500 [index](../i/index.md).
+- **[Benchmark](../b/benchmark.md) Allocation**: Technology [stocks](../s/stock.md) constitute 25% of the S&P 500 [index](../i/index_instrument.md).
 
 The portfolio is 10% overweight in Technology [stocks](../s/stock.md).
 

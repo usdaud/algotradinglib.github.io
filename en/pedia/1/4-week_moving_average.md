@@ -57,7 +57,7 @@ The effectiveness of the 4WMA can vary depending on [market](../m/market.md) con
 Traders often use the 4WMA as part of [trend](../t/trend.md)-following strategies. For example, a common strategy might involve buying an [asset](../a/asset.md) when its price crosses above the 4WMA and selling when the price falls below the 4WMA.
 
 ### Combination with Other Indicators
-The 4WMA can be used in conjunction with other [technical indicators](../t/technical_indicators.md) to build more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). For instance, traders might combine the 4WMA with [momentum indicators](../m/momentum_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to confirm trends and reduce [false signals](../f/false_signals_in_trading.md).
+The 4WMA can be used in conjunction with other [technical indicators](../t/technical_indicators.md) to build more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). For instance, traders might combine the 4WMA with [momentum indicators](../m/momentum_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to confirm trends and reduce [false signals](../f/false_signals_in_trading.md).
 
 ### Analyzing Market Cycles
 The 4WMA can also help in analyzing longer-term [market cycles](../m/market_cycles.md). By comparing the 4WMA with longer-period moving averages, traders can gauge the strength and [duration](../d/duration.md) of [market](../m/market.md) trends.

@@ -1,9 +1,9 @@
 # Active Management
 
-Active management is an [investment strategy](../i/investment_strategy.md) wherein the manager takes an active role in buying and selling securities with the objective of outperforming an investment [benchmark](../b/benchmark.md) [index](../i/index.md). Unlike passive management, where the investment portfolio is designed to replicate a specific [index](../i/index.md), active managers rely on their research, foresight, and [judgment](../j/judgment.md) to build a portfolio that [will](../w/will.md) achieve better returns.
+Active management is an [investment strategy](../i/investment_strategy.md) wherein the manager takes an active role in buying and selling securities with the objective of outperforming an investment [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). Unlike passive management, where the investment portfolio is designed to replicate a specific [index](../i/index_instrument.md), active managers rely on their research, foresight, and [judgment](../j/judgment.md) to build a portfolio that [will](../w/will.md) achieve better returns.
 
 ### Goals and Objectives
-The primary goal of active management is to achieve returns that exceed the performance of a [benchmark](../b/benchmark.md) [index](../i/index.md), such as the S&P 500 or the Dow Jones Industrial Average. Active managers aim to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies by identifying over-valued and under-valued securities. This requires a thorough analysis of individual companies, industries, and macroeconomic conditions to make informed investment decisions.
+The primary goal of active management is to achieve returns that exceed the performance of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), such as the S&P 500 or the Dow Jones Industrial Average. Active managers aim to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies by identifying over-valued and under-valued securities. This requires a thorough analysis of individual companies, industries, and macroeconomic conditions to make informed investment decisions.
 
 ### Strategies and Tactics
 
@@ -66,7 +66,7 @@ Many mutual funds are actively managed, with portfolio managers making decisions
 ### Performance Measurement
 
 #### Alpha
-[Alpha](../a/alpha.md) measures the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md). Positive [alpha](../a/alpha.md) indicates outperformance, while negative [alpha](../a/alpha.md) indicates underperformance.
+[Alpha](../a/alpha.md) measures the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). Positive [alpha](../a/alpha.md) indicates outperformance, while negative [alpha](../a/alpha.md) indicates underperformance.
 
 #### Sharpe Ratio
 The [Sharpe ratio](../s/sharpe_ratio.md) assesses the performance of an investment compared to a [risk-free asset](../r/risk-free_asset.md), after adjusting for its [risk](../r/risk.md). The higher the [Sharpe ratio](../s/sharpe_ratio.md), the better the [risk-adjusted return](../r/risk-adjusted_return.md).

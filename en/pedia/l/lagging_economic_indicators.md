@@ -9,7 +9,7 @@ Lagging [economic indicators](../e/economic_indicators.md) are quantitative metr
    - **Significance**: A high [unemployment rate](../u/unemployment_rate.md) might indicate a lagging [economy](../e/economy.md), whereas lower [unemployment](../u/unemployment.md) rates suggest [economic growth](../e/economic_growth.md).
    - **Example**: The U.S. Bureau of Labor [Statistics](../s/statistics.md) (BLS) reports monthly [unemployment](../u/unemployment.md) rates.
 
-2. **Consumer Price [Index](../i/index.md) (CPI)**
+2. **Consumer Price [Index](../i/index_instrument.md) (CPI)**
    - **Definition**: Measures changes in the [price level](../p/price_level.md) of a basket of [consumer goods](../c/consumer_goods.md) and services purchased by households.
    - **Significance**: CPI is vital for understanding inflationary trends and the [cost of living](../c/cost_of_living.md).
    - **Example**: Detailed CPI data is provided by the U.S. Bureau of Labor [Statistics](../s/statistics.md) (BLS).

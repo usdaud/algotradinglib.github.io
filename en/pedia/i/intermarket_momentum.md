@@ -25,7 +25,7 @@ One of the foundational aspects of intermarket [momentum](../m/momentum.md) is u
 
 Intermarket [momentum](../m/momentum.md) can be quantified and analyzed using various models and indicators. Some of the most popular include:
 
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: This measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: This measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 2. **Moving Averages**: Simple or exponential moving averages can help identify trends and reversals.
 3. **[Momentum Indicators](../m/momentum_indicators.md)**: Tools like the [Momentum](../m/momentum.md) [Indicator](../i/indicator.md) and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) are commonly used to gauge the strength of [market](../m/market.md) trends.
 4. **[Correlation](../c/correlation.md) Matrices**: These can be used to visually interpret the [correlation coefficient](../c/correlation_coefficient.md) between different [asset](../a/asset.md) classes.

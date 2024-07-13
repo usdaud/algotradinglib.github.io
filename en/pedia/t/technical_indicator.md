@@ -35,7 +35,7 @@ Where:
 
 #### Relative Strength Index (RSI)
 
-**Description:** The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) measures the speed and change of price movements. It oscillates between 0 and 100.
+**Description:** The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) measures the speed and change of price movements. It oscillates between 0 and 100.
 
 **Formula:**
 \[ \text{RSI} = 100 - \frac{100}{1 + RS} \]

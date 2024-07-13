@@ -1,18 +1,18 @@
 # Baltic Dry Index
 
-The Baltic Dry [Index](../i/index.md) (BDI) is a key [indicator](../i/indicator.md) of global economic activity and [trade](../t/trade.md), serving as a [proxy](../p/proxy.md) for the [demand](../d/demand.md) for [raw materials](../r/raw_materials.md) and the health of the maritime shipping [industry](../i/industry.md). Managed by the London-headquartered Baltic [Exchange](../e/exchange.md), the [index](../i/index.md) tracks the rates to transport dry bulk cargoes such as coal, iron ore, and grain along various sea routes. Because these [raw materials](../r/raw_materials.md) are essential for industrial processes, fluctuations in the BDI are closely monitored by investors, economists, and policymakers to assess the state of the global [economy](../e/economy.md).
+The Baltic Dry [Index](../i/index_instrument.md) (BDI) is a key [indicator](../i/indicator.md) of global economic activity and [trade](../t/trade.md), serving as a [proxy](../p/proxy.md) for the [demand](../d/demand.md) for [raw materials](../r/raw_materials.md) and the health of the maritime shipping [industry](../i/industry.md). Managed by the London-headquartered Baltic [Exchange](../e/exchange.md), the [index](../i/index_instrument.md) tracks the rates to transport dry bulk cargoes such as coal, iron ore, and grain along various sea routes. Because these [raw materials](../r/raw_materials.md) are essential for industrial processes, fluctuations in the BDI are closely monitored by investors, economists, and policymakers to assess the state of the global [economy](../e/economy.md).
 
 ## History and Evolution
 
-The Baltic Dry [Index](../i/index.md) was first introduced in 1985, although the origins of its components date back to earlier indices maintained by the Baltic [Exchange](../e/exchange.md). Named after the Baltic Sea, an important [trade](../t/trade.md) route historically, the [index](../i/index.md) has grown to encompass various global shipping routes. The Baltic [Exchange](../e/exchange.md) itself, founded in 1744, has long been a central institution for the maritime [industry](../i/industry.md), providing essential data and [market](../m/market.md) benchmarks.
+The Baltic Dry [Index](../i/index_instrument.md) was first introduced in 1985, although the origins of its components date back to earlier indices maintained by the Baltic [Exchange](../e/exchange.md). Named after the Baltic Sea, an important [trade](../t/trade.md) route historically, the [index](../i/index_instrument.md) has grown to encompass various global shipping routes. The Baltic [Exchange](../e/exchange.md) itself, founded in 1744, has long been a central institution for the maritime [industry](../i/industry.md), providing essential data and [market](../m/market.md) benchmarks.
 
 ## Calculation Methodology
 
 The BDI is computed daily and reflects the changing costs of shipping [raw materials](../r/raw_materials.md) in the dry bulk sector. It is an aggregate of the Baltic Capesize, Panamax, and Supramax indices, which represent different vessel sizes used in the [industry](../i/industry.md):
 
-1. **Capesize [Index](../i/index.md)**: Covers vessels with a capacity above 150,000 deadweight tonnage (DWT). These ships primarily transport iron ore and coal and usually traverse longer routes such as those around the Cape of Good Hope.
-2. **Panamax [Index](../i/index.md)**: Represents ships with a capacity ranging from 60,000 to 80,000 DWT. These vessels are named for their ability to pass through the Panama Canal and mainly transport coal, grain, and minor bulks.
-3. **Supramax [Index](../i/index.md)**: Includes ships with a capacity of 50,000 to 60,000 DWT. These vessels [handle](../h/handle.md) small to medium bulk cargoes and have greater flexibility in accessing minor ports.
+1. **Capesize [Index](../i/index_instrument.md)**: Covers vessels with a capacity above 150,000 deadweight tonnage (DWT). These ships primarily transport iron ore and coal and usually traverse longer routes such as those around the Cape of Good Hope.
+2. **Panamax [Index](../i/index_instrument.md)**: Represents ships with a capacity ranging from 60,000 to 80,000 DWT. These vessels are named for their ability to pass through the Panama Canal and mainly transport coal, grain, and minor bulks.
+3. **Supramax [Index](../i/index_instrument.md)**: Includes ships with a capacity of 50,000 to 60,000 DWT. These vessels [handle](../h/handle.md) small to medium bulk cargoes and have greater flexibility in accessing minor ports.
 
 Each of these indices collects data from leading shipbrokers worldwide, and the freight rates are averaged to produce the daily BDI [value](../v/value.md). The methodology has adapted over time to include more routes and to reflect changes in global [trade](../t/trade.md) patterns.
 
@@ -47,7 +47,7 @@ Conversely, the BDI can exhibit an inverse relationship with:
 
 Despite its widespread use, the BDI has certain limitations:
 
-1. **[Volatility](../v/volatility.md)**: The [index](../i/index.md) can be highly volatile due to short-term fluctuations in [supply](../s/supply.md) and [demand](../d/demand.md) for shipping.
+1. **[Volatility](../v/volatility.md)**: The [index](../i/index_instrument.md) can be highly volatile due to short-term fluctuations in [supply](../s/supply.md) and [demand](../d/demand.md) for shipping.
 2. **Exclusion of Container Ships**: The BDI focuses solely on dry bulk cargoes and does not account for container shipping, which is also a significant part of global [trade](../t/trade.md).
 3. **[Market Sentiment](../m/market_sentiment.md)**: While less susceptible to [speculation](../s/speculation.md) than [financial markets](../f/financial_market.md), shipping rates can still be influenced by [market sentiment](../m/market_sentiment.md) and geopolitical events.
 
@@ -55,6 +55,6 @@ Despite its widespread use, the BDI has certain limitations:
 
 In recent years, the BDI has experienced significant fluctuations due to factors such as the COVID-19 pandemic, which disrupted global [supply](../s/supply.md) chains and altered [trade](../t/trade.md) dynamics. As the world transitions toward recovery, the BDI [will](../w/will.md) continue to be a crucial measure of economic resilience and growth. Emerging trends such as sustainability and the decarbonization of shipping may also influence BDI calculations and the broader maritime [industry](../i/industry.md) in the future.
 
-For more information on the Baltic Dry [Index](../i/index.md) and related data, you can visit the official Baltic [Exchange](../e/exchange.md) website [here](https://www.balticexchange.com/en/index.html).
+For more information on the Baltic Dry [Index](../i/index_instrument.md) and related data, you can visit the official Baltic [Exchange](../e/exchange.md) website [here](https://www.balticexchange.com/en/index.html).
 
 Understanding the BDI provides invaluable insights into the complex interplay of global [trade](../t/trade.md), economic health, and the shipping [industry](../i/industry.md)'s dynamics. As a tool for informed decision-making and economic analysis, the BDI remains indispensable in today's interconnected world.

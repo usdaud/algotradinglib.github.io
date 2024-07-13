@@ -31,7 +31,7 @@ Growth investors target companies expected to grow at an above-average rate comp
 [Income](../i/income.md) [investing](../i/investing.md) strategy aims to generate returns through dividends or [interest](../i/interest.md) [income](../i/income.md). Investors focus on [stocks](../s/stock.md), bonds, or other financial instruments that consistently provide [income](../i/income.md), suitable for investors seeking regular [income](../i/income.md), such as retirees.
 
 ### 4. Index Investing
-[Index investing](../i/index_investing.md) involves replicating the performance of a specific [index](../i/index.md) (e.g., S&P 500, Dow Jones). [Exchange](../e/exchange.md)-Traded Funds (ETFs) and [Index](../i/index.md) Funds are popular vehicles for this strategy. Investors benefit from lower fees and broad [market exposure](../m/market_exposure.md), making it a passive [investment strategy](../i/investment_strategy.md).
+[Index investing](../i/index_investing.md) involves replicating the performance of a specific [index](../i/index_instrument.md) (e.g., S&P 500, Dow Jones). [Exchange](../e/exchange.md)-Traded Funds (ETFs) and [Index](../i/index_instrument.md) Funds are popular vehicles for this strategy. Investors benefit from lower fees and broad [market exposure](../m/market_exposure.md), making it a passive [investment strategy](../i/investment_strategy.md).
 
 ### 5. Sector and Industry Investing
 Sector [investing](../i/investing.md) focuses on particular sectors expected to [outperform](../o/outperform.md). Investors might concentrate on technology, healthcare, energy, or other sectors based on economic forecasts, [market](../m/market.md) conditions, or specific trends.

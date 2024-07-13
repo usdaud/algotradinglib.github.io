@@ -27,7 +27,7 @@ A common example of positive [correlation](../c/correlation.md) in [finance](../
 
 ### Index Funds
 
-Another example is the relationship between [index](../i/index.md) funds and the specific [index](../i/index.md) they track. For example, the SPDR S&P 500 ETF (SPY) exhibits a strong positive [correlation](../c/correlation.md) with the S&P 500 [index](../i/index.md) because the ETF is designed to replicate the performance of that [index](../i/index.md).
+Another example is the relationship between [index](../i/index_instrument.md) funds and the specific [index](../i/index_instrument.md) they track. For example, the SPDR S&P 500 ETF (SPY) exhibits a strong positive [correlation](../c/correlation.md) with the S&P 500 [index](../i/index_instrument.md) because the ETF is designed to replicate the performance of that [index](../i/index_instrument.md).
 
 ## Importance in Portfolio Management
 

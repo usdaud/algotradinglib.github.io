@@ -45,7 +45,7 @@ The ROC can be used to confirm the strength of a prevailing [trend](../t/trend.m
 
 ### Combination with Other Indicators
 
-The ROC is often used in conjunction with other [technical indicators](../t/technical_indicator.md) to improve its reliability. For example, combining the ROC with moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), or MACD can provide more [robust](../r/robust.md) [trading signals](../t/trading_signals.md). When [multiple](../m/multiple.md) indicators provide a confluence of signals, it increases the likelihood of a successful [trade](../t/trade.md).
+The ROC is often used in conjunction with other [technical indicators](../t/technical_indicator.md) to improve its reliability. For example, combining the ROC with moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), or MACD can provide more [robust](../r/robust.md) [trading signals](../t/trading_signals.md). When [multiple](../m/multiple.md) indicators provide a confluence of signals, it increases the likelihood of a successful [trade](../t/trade.md).
 
 ## Advantages and Disadvantages
 

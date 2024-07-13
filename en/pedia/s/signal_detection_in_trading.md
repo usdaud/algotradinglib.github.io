@@ -41,7 +41,7 @@ Different methods are used in signal detection, and these [range](../r/range.md)
 [Technical analysis](../t/technical_analysis.md) involves using historical price and [volume](../v/volume.md) data to identify patterns. Tools used include:
 
 - **Moving Averages**: Identifying trends in [market](../m/market.md) data.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Analyzing [momentum](../m/momentum.md).
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Analyzing [momentum](../m/momentum.md).
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: Identifying directional changes.
 - **[Bollinger Bands](../b/bollinger_bands.md)**: Identifying [volatility](../v/volatility.md).
 

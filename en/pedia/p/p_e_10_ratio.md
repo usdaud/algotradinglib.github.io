@@ -17,7 +17,7 @@ The formula for the P/E 10 ratio is fairly straightforward:
 To calculate the P/E 10 ratio, follow these steps:
 
 1. **Collect Historical [Earnings](../e/earnings.md) Data**: Obtain the company's [earnings](../e/earnings.md) data for the past ten years.
-2. **Adjust for [Inflation](../i/inflation.md)**: Adjust these [earnings](../e/earnings.md) figures for [inflation](../i/inflation.md) to ensure consistency. This is usually done using a measure like the Consumer Price [Index](../i/index.md) (CPI).
+2. **Adjust for [Inflation](../i/inflation.md)**: Adjust these [earnings](../e/earnings.md) figures for [inflation](../i/inflation.md) to ensure consistency. This is usually done using a measure like the Consumer Price [Index](../i/index_instrument.md) (CPI).
 3. **Calculate the Average**: Compute the average of the [inflation](../i/inflation.md)-adjusted [earnings](../e/earnings.md).
 4. **Determine Current Share Price**: Find the current share price of the company.
 5. **Divide Current Price by Average [Earnings](../e/earnings.md)**: Finally, divide the current share price by the 10-year average of [inflation](../i/inflation.md)-adjusted [earnings](../e/earnings.md).
@@ -33,14 +33,14 @@ The P/E 10 ratio is important for several reasons:
 
 ### Case Study: The S&P 500 and P/E 10 Ratio
 
-One prominent application of the P/E 10 ratio is its use in evaluating the [valuation](../v/valuation.md) of the S&P 500 [index](../i/index.md). Investors and analysts use the P/E 10 ratio to assess whether the U.S. [equity market](../e/equity_market.md) as a whole is [overvalued](../o/overvalued.md), [undervalued](../u/undervalued.md), or fairly valued. Historic data reveals that during periods of significant overvaluation, as indicated by a high P/E 10 ratio, the [market](../m/market.md) tends to experience corrections. Conversely, low P/E 10 ratios have historically preceded periods of [market](../m/market.md) growth.
+One prominent application of the P/E 10 ratio is its use in evaluating the [valuation](../v/valuation.md) of the S&P 500 [index](../i/index_instrument.md). Investors and analysts use the P/E 10 ratio to assess whether the U.S. [equity market](../e/equity_market.md) as a whole is [overvalued](../o/overvalued.md), [undervalued](../u/undervalued.md), or fairly valued. Historic data reveals that during periods of significant overvaluation, as indicated by a high P/E 10 ratio, the [market](../m/market.md) tends to experience corrections. Conversely, low P/E 10 ratios have historically preceded periods of [market](../m/market.md) growth.
 
 ### Limitations of the P/E 10 Ratio
 
 Despite its advantages, the P/E 10 ratio is not without its limitations:
 
 1. **Historical Data Dependence**: It relies on historical data, which may not fully capture future growth potential or changing [business](../b/business.md) conditions.
-2. **[Inflation](../i/inflation.md) Metrics**: The method of [inflation](../i/inflation.md) adjustment (using CPI or another [index](../i/index.md)) can introduce its own biases.
+2. **[Inflation](../i/inflation.md) Metrics**: The method of [inflation](../i/inflation.md) adjustment (using CPI or another [index](../i/index_instrument.md)) can introduce its own biases.
 3. **Sector Variations**: Different sectors have different average P/E 10 ratios due to variations in [growth rates](../g/growth_rates_in_trading.md), [capital](../c/capital.md) requirements, and other [industry](../i/industry.md)-specific factors.
 4. **Regulatory and [Market](../m/market.md) Changes**: Changes in regulations, technological advancements, and macroeconomic shifts can all affect a company's [earnings](../e/earnings.md) in ways not reflected by historical figures.
 

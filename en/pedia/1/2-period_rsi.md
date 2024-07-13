@@ -1,6 +1,6 @@
 # 2-Period RSI
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a well-known [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) developed by J. Welles Wilder, which measures the speed and change of price movements. The RSI oscillates between zero and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md). While the typical RSI calculation uses a 14-period lookback, the 2-period RSI is a variation designed for shorter time frames to provide more sensitive and frequent signals. This approach is particularly useful for active traders who engage in short-term trades.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a well-known [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) developed by J. Welles Wilder, which measures the speed and change of price movements. The RSI oscillates between zero and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md). While the typical RSI calculation uses a 14-period lookback, the 2-period RSI is a variation designed for shorter time frames to provide more sensitive and frequent signals. This approach is particularly useful for active traders who engage in short-term trades.
 
 ## Understanding RSI
 

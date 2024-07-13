@@ -23,7 +23,7 @@ Cryptocurrency [trading algorithms](../t/trading_algorithms.md) represent a corn
 These algorithms are based on the premise that assets which have been moving in a given direction [will](../w/will.md) continue to do so.
 
 #### Key Components:
-- **Indicators**: Usage of [technical indicators](../t/technical_indicators.md) like Moving Averages (MA), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)).
+- **Indicators**: Usage of [technical indicators](../t/technical_indicators.md) like Moving Averages (MA), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)).
 - **Signal Generation**: Generating buy or sell signals based on the indicators.
 - **[Execution](../e/execution.md)**: Placing trades according to the signals with predefined [risk management](../r/risk_management.md) rules like stop-loss and take-[profit](../p/profit.md) levels.
 

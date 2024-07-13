@@ -13,7 +13,7 @@ Gross Domestic Product (GDP) is perhaps the most comprehensive measure of an [ec
 - **GDP Growth Rate**: The rate at which a country’s GDP is growing or shrinking. High GDP [growth rates](../g/growth_rates_in_trading.md) are typically associated with prosperity, while negative rates indicate economic decline.
 
 ### Inflation
-[Inflation](../i/inflation.md) measures the rate at which the general level of prices for goods and services is rising, and subsequently, [purchasing power](../p/purchasing_power.md) is falling. It is usually measured by the Consumer Price [Index](../i/index.md) (CPI) or the Producer Price [Index](../i/index.md) (PPI).
+[Inflation](../i/inflation.md) measures the rate at which the general level of prices for goods and services is rising, and subsequently, [purchasing power](../p/purchasing_power.md) is falling. It is usually measured by the Consumer Price [Index](../i/index_instrument.md) (CPI) or the Producer Price [Index](../i/index_instrument.md) (PPI).
 
 - **CPI**: Monitors changes in the [price level](../p/price_level.md) of a basket of [consumer goods](../c/consumer_goods.md) and services purchased by households.
 - **PPI**: Measures the average change in selling prices received by domestic producers for their output.

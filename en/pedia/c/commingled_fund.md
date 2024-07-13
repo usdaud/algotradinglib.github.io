@@ -54,7 +54,7 @@ Commingled funds are subject to various levels of regulation, depending on their
 
 ### Vanguard Mutual Funds
 
-One of the most well-known providers of mutual funds is Vanguard. They [offer](../o/offer.md) a vast array of commingled funds aimed at different investment strategies, ranging from [index](../i/index.md) funds to actively managed funds. Investors can browse through their offerings on their [official site](https://investor.vanguard.com/mutual-funds/).
+One of the most well-known providers of mutual funds is Vanguard. They [offer](../o/offer.md) a vast array of commingled funds aimed at different investment strategies, ranging from [index](../i/index_instrument.md) funds to actively managed funds. Investors can browse through their offerings on their [official site](https://investor.vanguard.com/mutual-funds/).
 
 ### BlackRock Hedge Funds
 

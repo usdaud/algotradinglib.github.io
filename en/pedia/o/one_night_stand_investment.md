@@ -52,7 +52,7 @@ The [volatility](../v/volatility.md) and quick decision-making required for ONS 
 
 ### Technical Analysis
 
-[Technical analysis](../t/technical_analysis.md) is the backbone of ONS Investment strategies. Traders utilize various [technical indicators](../t/technical_indicator.md) such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), MACD, [Bollinger Bands](../b/bollinger_band.md), and [Fibonacci retracement](../f/fibonacci_retracement.md) levels to make informed decisions about entry and exit points.
+[Technical analysis](../t/technical_analysis.md) is the backbone of ONS Investment strategies. Traders utilize various [technical indicators](../t/technical_indicator.md) such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), MACD, [Bollinger Bands](../b/bollinger_band.md), and [Fibonacci retracement](../f/fibonacci_retracement.md) levels to make informed decisions about entry and exit points.
 
 ### Algorithmic Trading
 

@@ -62,7 +62,7 @@ By incorporating annualized returns, the [Sharpe Ratio](../s/sharpe_ratio.md) fa
 
 ### Performance Benchmarking
 
-For algorithmic traders, benchmarking their algorithms' performance against established indices or benchmarks, such as the S&P 500 or a specific sector [index](../i/index.md), is essential. Annualized returns of a [trading strategy](../t/trading_strategy.md) can be directly compared to those of benchmarks to determine relative performance. This comparison aids in identifying the efficacy and [efficiency](../e/efficiency.md) of the algorithmic models.
+For algorithmic traders, benchmarking their algorithms' performance against established indices or benchmarks, such as the S&P 500 or a specific sector [index](../i/index_instrument.md), is essential. Annualized returns of a [trading strategy](../t/trading_strategy.md) can be directly compared to those of benchmarks to determine relative performance. This comparison aids in identifying the efficacy and [efficiency](../e/efficiency.md) of the algorithmic models.
 
 ## Practical Applications of Annualized Rate of Return
 

@@ -20,7 +20,7 @@ BME is composed of several subsidiaries, each specializing in different areas of
 
 ### Equities Market
 
-Spain's equities [market](../m/market.md) provides a platform for trading [stocks](../s/stock.md) of publicly [listed](../l/listed.md) companies. The Spanish [stock market](../s/stock_market.md)'s main [index](../i/index.md) is the IBEX 35, which aggregates the 35 most [liquid](../l/liquid.md) [stocks](../s/stock.md) traded in Madrid. Equities [listed](../l/listed.md) in BME include:
+Spain's equities [market](../m/market.md) provides a platform for trading [stocks](../s/stock.md) of publicly [listed](../l/listed.md) companies. The Spanish [stock market](../s/stock_market.md)'s main [index](../i/index_instrument.md) is the IBEX 35, which aggregates the 35 most [liquid](../l/liquid.md) [stocks](../s/stock.md) traded in Madrid. Equities [listed](../l/listed.md) in BME include:
 
 - [Large-cap stocks](../l/large_cap_stocks.md) such as Banco Santander, Telefónica, and Iberdrola.
 - [Mid-cap](../m/mid-cap.md) and small-cap [stocks](../s/stock.md), providing broad exposure to various Spanish industries.
@@ -39,7 +39,7 @@ MEFF, the [derivatives](../d/derivatives.md) segment of BME, offers trading in [
 
 ### Exchange-Traded Funds (ETFs)
 
-BME offers trading in ETFs, which are investment funds traded on stock exchanges, much like [stocks](../s/stock.md). These funds typically track a specific [index](../i/index.md), [commodity](../c/commodity.md), bonds, or a basket of assets. Popular ETFs on the BME track indices like the IBEX 35 and other global benchmarks.
+BME offers trading in ETFs, which are investment funds traded on stock exchanges, much like [stocks](../s/stock.md). These funds typically track a specific [index](../i/index_instrument.md), [commodity](../c/commodity.md), bonds, or a basket of assets. Popular ETFs on the BME track indices like the IBEX 35 and other global benchmarks.
 
 ### Alternative Investment Markets
 

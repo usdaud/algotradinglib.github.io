@@ -24,7 +24,7 @@ Moving averages smooth out price data to create a single flow line that makes it
 ### 2. Moving Average Convergence Divergence (MACD)
 The MACD [indicator](../i/indicator.md) measures the difference between two EMAs (usually the 12-day and 26-day EMAs). A signal line (9-day EMA) is plotted on top to indicate buy or sell signals.
 
-3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**
+3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**
 The RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. Values above 70 generally indicate [overbought](../o/overbought.md) conditions, while values below 30 indicate [oversold](../o/oversold.md) conditions.
 
 ### 4. Average Directional Index (ADX)
@@ -48,7 +48,7 @@ The ADX measures the strength of a [trend](../t/trend.md) but does not indicate 
 #### Example Algorithm
 ```python
 def trend_following_strategy(prices, short_window=50, long_window=200):
-    signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
+    signals = pd.DataFrame([index](../i/index_instrument.md)=prices.[index](../i/index_instrument.md))
     signals['price'] = prices
     signals['short_moving_avg'] = prices.rolling(window=short_window, min_periods=1).mean()
     signals['long_moving_avg'] = prices.rolling(window=long_window, min_periods=1).mean()
@@ -68,7 +68,7 @@ Algorithms can detect price breakouts above resistance levels or significant pas
 #### Example Algorithm
 ```python
 def breakout_strategy(prices, window=20, threshold=1.02):
-    signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
+    signals = pd.DataFrame([index](../i/index_instrument.md)=prices.[index](../i/index_instrument.md))
     signals['price'] = prices
     signals['rolling_max'] = prices.rolling(window=window, min_periods=1).max()
     signals['signal'] = 0
@@ -83,7 +83,7 @@ This strategy uses two moving averages of different lengths. A buy signal is gen
 #### Example Algorithm
 ```python
 def moving_average_crossover_strategy(prices, short_window=40, long_window=100):
-    signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
+    signals = pd.DataFrame([index](../i/index_instrument.md)=prices.[index](../i/index_instrument.md))
     signals['price'] = prices
     signals['short_moving_avg'] = prices.rolling(window=short_window, min_periods=1).mean()
     signals['long_moving_avg'] = prices.rolling(window=long_window, min_periods=1).mean()

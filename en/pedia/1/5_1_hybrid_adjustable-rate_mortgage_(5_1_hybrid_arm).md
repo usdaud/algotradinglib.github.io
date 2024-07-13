@@ -10,13 +10,13 @@ During the first five years, the [interest rate](../i/interest_rate.md) on a 5/1
 
 ### Adjustable-Rate Period
 
-After the initial five-year fixed-rate period, the [interest rate](../i/interest_rate.md) adjusts annually. The new rate is typically based on an [index](../i/index.md) plus a [margin](../m/margin.md). Common indices include the LIBOR (London Interbank Offered Rate), the 11th District Cost of Funds [Index](../i/index.md) (COFI), and the one-year [U.S. Treasury](../u/u.s._treasury.md) [Index](../i/index.md). The [margin](../m/margin.md) is a fixed percentage added to that [index](../i/index.md) rate, and it remains constant over the life of the [loan](../l/loan.md).
+After the initial five-year fixed-rate period, the [interest rate](../i/interest_rate.md) adjusts annually. The new rate is typically based on an [index](../i/index_instrument.md) plus a [margin](../m/margin.md). Common indices include the LIBOR (London Interbank Offered Rate), the 11th District Cost of Funds [Index](../i/index_instrument.md) (COFI), and the one-year [U.S. Treasury](../u/u.s._treasury.md) [Index](../i/index_instrument.md). The [margin](../m/margin.md) is a fixed percentage added to that [index](../i/index_instrument.md) rate, and it remains constant over the life of the [loan](../l/loan.md).
 
 The amount by which the [interest rate](../i/interest_rate.md) can change each year, as well as over the life of the [loan](../l/loan.md), is usually capped. For example, a 5/1 ARM might have caps of 2/2/5—meaning the [interest rate](../i/interest_rate.md) can rise by a maximum of 2% per year after the first adjustment, with a lifetime cap of 5% above the initial rate.
 
 ### Example Calculation
 
-Suppose a borrower takes out a 5/1 [Hybrid ARM](../h/hybrid_arm.md) with an initial [interest rate](../i/interest_rate.md) of 3%. For the first five years, the borrower pays 3%. Starting in the sixth year, the [interest rate](../i/interest_rate.md) adjusts based on the selected [index](../i/index.md) plus a [margin](../m/margin.md). If the [index](../i/index.md) rate is 2% and the [margin](../m/margin.md) is 2.5%, the new [interest rate](../i/interest_rate.md) would be 4.5%. If there's a 2% annual cap, the [interest rate](../i/interest_rate.md) could not exceed 5% for that year regardless of the [index](../i/index.md) rate.
+Suppose a borrower takes out a 5/1 [Hybrid ARM](../h/hybrid_arm.md) with an initial [interest rate](../i/interest_rate.md) of 3%. For the first five years, the borrower pays 3%. Starting in the sixth year, the [interest rate](../i/interest_rate.md) adjusts based on the selected [index](../i/index_instrument.md) plus a [margin](../m/margin.md). If the [index](../i/index_instrument.md) rate is 2% and the [margin](../m/margin.md) is 2.5%, the new [interest rate](../i/interest_rate.md) would be 4.5%. If there's a 2% annual cap, the [interest rate](../i/interest_rate.md) could not exceed 5% for that year regardless of the [index](../i/index_instrument.md) rate.
 
 ## Advantages of a 5/1 Hybrid ARM
 

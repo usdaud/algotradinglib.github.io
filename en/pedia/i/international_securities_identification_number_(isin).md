@@ -44,7 +44,7 @@ Accurate identification of securities through ISIN codes supports better [risk m
 ### National Numbering Agencies (NNAs)
 
 ISIN codes are issued by National Numbering Agencies (NNAs). Each country has a designated NNA responsible for allocating ISINs to securities issued within its jurisdiction. For example:
-- **US**: The CUSIP Global Services (https://www.cusip.com/cusip/[index](../i/index.md).htm)
+- **US**: The CUSIP Global Services (https://www.cusip.com/cusip/[index](../i/index_instrument.md).htm)
 - **UK**: London Stock [Exchange](../e/exchange.md) (https://www.lseg.com)
 - **Germany**: Wertpapier-Mitteilungen (https://www.wmdaten.com)
 

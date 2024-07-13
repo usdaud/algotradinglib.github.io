@@ -6,10 +6,10 @@ Efficient [trading strategies](../t/trading_strategies.md) are fundamental for t
 
 ### 1. **Momentum Trading**
 
-[Momentum trading](../m/momentum_trading.md) is based on the premise that securities that have exhibited high returns in the past [will](../w/will.md) continue to do so in the future. Traders using this strategy [capitalize](../c/capitalize.md) on the [momentum](../m/momentum.md) of price movements. [Technical indicators](../t/technical_indicators.md) such as Moving Averages (MA) and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) are commonly used to identify and confirm [momentum](../m/momentum.md) trends.
+[Momentum trading](../m/momentum_trading.md) is based on the premise that securities that have exhibited high returns in the past [will](../w/will.md) continue to do so in the future. Traders using this strategy [capitalize](../c/capitalize.md) on the [momentum](../m/momentum.md) of price movements. [Technical indicators](../t/technical_indicators.md) such as Moving Averages (MA) and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) are commonly used to identify and confirm [momentum](../m/momentum.md) trends.
 
 - **Moving Averages (MA):** MAs smooth out price data to create a single flowing line, making it easier to identify trends. The most common types are Simple Moving Averages (SMA) and Exponential Moving Averages (EMA).
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** RSI measures the speed and change of price movements. It oscillates between 0 and 100, typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** RSI measures the speed and change of price movements. It oscillates between 0 and 100, typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ### 2. **Mean Reversion**
 

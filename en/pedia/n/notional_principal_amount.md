@@ -14,7 +14,7 @@ For example, in an [interest rate swap](../i/interest_rate_swap.md), two parties
 
 In an [interest rate swap](../i/interest_rate_swap.md), two parties [exchange](../e/exchange.md) [interest](../i/interest.md) payments based on a notional [principal](../p/principal.md) amount. The idea is to [hedge](../h/hedge.md) against [interest rate risk](../i/interest_rate_risk.md) or to speculate on changes in [interest](../i/interest.md) rates. Typically, one party [will](../w/will.md) pay a [fixed interest rate](../f/fixed_interest_rate.md) while the other pays a [floating interest rate](../f/floating_interest_rate.md).
 
-- **Fixed-for-floating swaps**: One party pays a fixed rate while the other pays a floating rate tied to an [index](../i/index.md) such as LIBOR (London Interbank Offered Rate).
+- **Fixed-for-floating swaps**: One party pays a fixed rate while the other pays a floating rate tied to an [index](../i/index_instrument.md) such as LIBOR (London Interbank Offered Rate).
 - **Floating-for-floating swaps**: Both parties pay floating rates, but based on different reference indices.
 
 These [interest](../i/interest.md) payments are determined by applying the respective [interest](../i/interest.md) rates to the notional [principal](../p/principal.md) amount.

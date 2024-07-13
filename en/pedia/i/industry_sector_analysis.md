@@ -36,7 +36,7 @@ Several companies specialize in providing comprehensive [market](../m/market.md)
 
 ### Economic Indicators
 
-[Economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), [unemployment](../u/unemployment.md) rates, and consumer price indices are pivotal in understanding the broader economic context that impacts various sectors. Government agencies and institutions like the U.S. Bureau of Economic Analysis (https://www.bea.gov/) and the European Central [Bank](../b/bank.md) (https://www.ecb.europa.eu/[home](../h/home.md)/html/[index](../i/index.md).en.html) provide these indicators.
+[Economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), [unemployment](../u/unemployment.md) rates, and consumer price indices are pivotal in understanding the broader economic context that impacts various sectors. Government agencies and institutions like the U.S. Bureau of Economic Analysis (https://www.bea.gov/) and the European Central [Bank](../b/bank.md) (https://www.ecb.europa.eu/[home](../h/home.md)/html/[index](../i/index_instrument.md).en.html) provide these indicators.
 
 ### Machine Learning and AI
 

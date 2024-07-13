@@ -32,7 +32,7 @@ The 10-month moving average would be:
 
 Here's a more serious example using historical data from a real stock:
 
-If we take the closing prices of the S&P 500 [index](../i/index.md) from the past ten months, which might look like this (hypothetical data):
+If we take the closing prices of the S&P 500 [index](../i/index_instrument.md) from the past ten months, which might look like this (hypothetical data):
 
 \[ 3800, 3900, 4000, 4100, 4050, 4200, 4300, 4400, 4500, 4550 \]
 

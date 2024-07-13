@@ -36,7 +36,7 @@ While primarily used for spotting reversals, the %R [indicator](../i/indicator.m
 ### Using Williams %R With Other Indicators
 To enhance its effectiveness, traders often use the [Williams %R](../w/williams_%r.md) [Indicator](../i/indicator.md) in conjunction with other indicators. Some common pairings include:
 - **Moving Averages**: Using moving averages to gauge [trend](../t/trend.md) direction while employing the %R for [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Combining %R with RSI can provide stronger confirmation of [market](../m/market.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Combining %R with RSI can provide stronger confirmation of [market](../m/market.md) conditions.
 - **MACD (Moving Average Convergence [Divergence](../d/divergence.md))**: Pairing %R with MACD can aid in identifying entry and exit points more accurately.
 
 ### Example

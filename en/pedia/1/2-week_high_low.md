@@ -85,7 +85,7 @@ While the basic 2-week high/low strategy is straightforward, traders often refin
    Utilization of [risk management](../r/risk_management.md) tools, including [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md) to mitigate potential losses.
 
 3. **Combining Indicators:**
-   Blending the 2-week high/low signals with other [technical indicators](../t/technical_indicators.md) like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) or MACD (Moving Average Convergence [Divergence](../d/divergence.md)) for more [robust](../r/robust.md) [trade](../t/trade.md) signals.
+   Blending the 2-week high/low signals with other [technical indicators](../t/technical_indicators.md) like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) or MACD (Moving Average Convergence [Divergence](../d/divergence.md)) for more [robust](../r/robust.md) [trade](../t/trade.md) signals.
 
 ### Tools and Platforms
 

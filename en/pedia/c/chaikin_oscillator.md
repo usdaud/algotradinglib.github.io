@@ -46,7 +46,7 @@ The most fundamental use of the Chaikin [Oscillator](../o/oscillator.md) in trad
 [Divergence](../d/divergence.md) analysis is another potent application. A [bullish divergence](../b/bullish_divergence.md) occurs when the price makes a new low, but the [oscillator](../o/oscillator.md) does not follow along, indicating possible accumulation. Conversely, a [bearish divergence](../b/bearish_divergence.md) occurs when the price makes a new high without the [oscillator](../o/oscillator.md) doing the same, suggesting [distribution](../d/distribution.md). Both forms of [divergence](../d/divergence.md) can help in identifying potential [reversal](../r/reversal.md) points.
 
 ### Integration with Other Indicators
-Traders often integrate the Chaikin [Oscillator](../o/oscillator.md) with other [technical indicators](../t/technical_indicators.md) like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to improve the accuracy of their [trading strategies](../t/trading_strategies.md). By confirming signals across [multiple](../m/multiple.md) indicators, traders can enhance their decision-making processes.
+Traders often integrate the Chaikin [Oscillator](../o/oscillator.md) with other [technical indicators](../t/technical_indicators.md) like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to improve the accuracy of their [trading strategies](../t/trading_strategies.md). By confirming signals across [multiple](../m/multiple.md) indicators, traders can enhance their decision-making processes.
 
 ## Advantages and Limitations
 
@@ -67,7 +67,7 @@ Let's consider a practical example involving the Chaikin [Oscillator](../o/oscil
 ### Setup
 - [Asset](../a/asset.md): XYZ [Corporation](../c/corporation.md) Stock
 - Timeframe: Daily Chart
-- Indicators: Chaikin [Oscillator](../o/oscillator.md), 50-day Simple Moving Average (SMA), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)
+- Indicators: Chaikin [Oscillator](../o/oscillator.md), 50-day Simple Moving Average (SMA), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
 
 ### Trading Rules
 1. **Buy Signal:**

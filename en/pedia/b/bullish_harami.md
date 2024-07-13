@@ -40,7 +40,7 @@ To confirm a Bullish Harami pattern and increase the reliability of the signal, 
 
 1. **[Volume](../v/volume.md):** A noticeable increase in [volume](../v/volume.md) during the formation of the second candle can indicate stronger buying [interest](../i/interest.md).
 2. **Subsequent Bullish Candles:** Further bullish candles following the Harami pattern signal that the [trend reversal](../t/trend_reversal.md) is more likely.
-3. **[Technical Indicators](../t/technical_indicator.md):** Complementary indicators, like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or other [momentum indicators](../m/momentum_indicators.md) showing [oversold](../o/oversold.md) conditions can add credence to the [reversal](../r/reversal.md) signal.
+3. **[Technical Indicators](../t/technical_indicator.md):** Complementary indicators, like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or other [momentum indicators](../m/momentum_indicators.md) showing [oversold](../o/oversold.md) conditions can add credence to the [reversal](../r/reversal.md) signal.
 
 ## Example of a Bullish Harami
 

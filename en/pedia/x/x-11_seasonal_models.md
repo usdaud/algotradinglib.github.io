@@ -53,7 +53,7 @@ The development of X-12-ARIMA and X-13-ARIMA-SEATS represents advancements of th
 
 Seasonal adjustments using the X-11 method are vital for a wide [range](../r/range.md) of [economic indicators](../e/economic_indicators.md), including:
 - **Gross Domestic Product (GDP)**
-- **Consumer Price [Index](../i/index.md) (CPI)**
+- **Consumer Price [Index](../i/index_instrument.md) (CPI)**
 - **[Unemployment](../u/unemployment.md) rates**
 
 ### Implementation and Software Tools

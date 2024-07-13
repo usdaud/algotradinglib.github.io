@@ -7,7 +7,7 @@ R-squared can help traders and investors understand how much of a portfolio's pe
 
 - **[Portfolio Management](../p/portfolio_management.md):** Helps portfolio managers determine the level of [diversification](../d/diversification.md) and [systemic risk](../s/systemic_risk.md) relative to [market](../m/market.md) performance.
 - **[Risk Management](../r/risk_management.md):** Assists in assessing the [risk](../r/risk.md) of different investment strategies and their [correlation](../c/correlation.md) with overall [market](../m/market.md) [volatility](../v/volatility.md).
-- **Performance Evaluation:** Enables the comparison of [multiple](../m/multiple.md) funds or [trading strategies](../t/trading_strategies.md) to understand which ones are better at tracking or outperforming a given [index](../i/index.md).
+- **Performance Evaluation:** Enables the comparison of [multiple](../m/multiple.md) funds or [trading strategies](../t/trading_strategies.md) to understand which ones are better at tracking or outperforming a given [index](../i/index_instrument.md).
 - **[Quantitative Analysis](../q/quantitative_analysis.md):** Utilized in various [quantitative models](../q/quantitative_models.md) to enhance predictive capabilities and refine [trading strategies](../t/trading_strategies.md) based on historical [performance metrics](../p/performance_metrics.md).
 
 ## Calculation of R-Squared
@@ -24,7 +24,7 @@ The higher the R-squared [value](../v/value.md), the more accurately the indepen
 ## Interpreting R-Squared Values in Trading
 A higher R-squared [value](../v/value.md) implies a model that closely fits the data, meaning the independent variables ([market](../m/market.md) indices, [economic indicators](../e/economic_indicators.md), etc.) effectively explain the variance in the dependent variable ([portfolio performance](../p/portfolio_performance.md)). For [trading strategies](../t/trading_strategies.md):
 
-- **High R-Squared (closer to 1):** Indicates that a large proportion of the portfolio’s movements can be explained by the [benchmark](../b/benchmark.md) [index](../i/index.md). This suggests less [alpha generation](../a/alpha_generation.md) and higher [systematic risk](../s/systematic_risk.md).
+- **High R-Squared (closer to 1):** Indicates that a large proportion of the portfolio’s movements can be explained by the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). This suggests less [alpha generation](../a/alpha_generation.md) and higher [systematic risk](../s/systematic_risk.md).
 - **Low R-Squared (closer to 0):** Suggests that the portfolio returns are largely independent of the [market](../m/market.md) performance, possibly indicating higher [alpha generation](../a/alpha_generation.md) and higher [idiosyncratic risk](../i/idiosyncratic_risk.md).
 
 ### Example: R-Squared in Hedge Funds
@@ -58,7 +58,7 @@ Link: [R Project for Statistical Computing](https://www.r-project.org/)
 ## Incorporating R-Squared in Trading Algorithms
 [Algorithmic trading](../a/algorithmic_trading.md) strategies often incorporate R-squared to enhance their robustness and predictive accuracy. Here are steps algorithms might follow:
 
-1. **Data Collection:** Gather historical price data for both the portfolio and the [benchmark](../b/benchmark.md) [index](../i/index.md).
+1. **Data Collection:** Gather historical price data for both the portfolio and the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 2. **[Regression Analysis](../r/regression_analysis.md):** Perform [linear regression](../l/linear_regression.md) to model the relationship between the [portfolio performance](../p/portfolio_performance.md) and the [benchmark](../b/benchmark.md).
 3. **Calculate R-Squared:** Use the regression output to calculate the R-squared [value](../v/value.md), assessing the goodness of fit.
 4. **Strategy Adjustment:** Adjust [trading strategies](../t/trading_strategies.md) based on the R-squared [value](../v/value.md). A low R-squared suggests potential for higher [alpha](../a/alpha.md) whereas a high R-squared indicates better tracking of the [benchmark](../b/benchmark.md).

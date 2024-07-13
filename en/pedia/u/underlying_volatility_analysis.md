@@ -36,7 +36,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), one of the m
 2. **[Average True Range](../a/average_true_range_(atr).md) (ATR):**
    ATR measures [market](../m/market.md) [volatility](../v/volatility.md) by decomposing the entire [range](../r/range.md) of an [asset](../a/asset.md) for that period. It is an [indicator](../i/indicator.md) that helps in determining the average [range](../r/range.md) of price moves, adjusted for [gaps](../g/gap.md).
 
-3. **[Volatility](../v/volatility.md) [Index](../i/index.md) (VIX):**
+3. **[Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX):**
    The VIX is a popular measure of implied [volatility](../v/volatility.md) of the S&P 500 [index options](../i/index_options.md). It is often termed the "fear gauge" because it represents [market sentiment](../m/market_sentiment.md).
 
 4. **[GARCH Models](../g/garch_models.md):**

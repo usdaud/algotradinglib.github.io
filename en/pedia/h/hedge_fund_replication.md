@@ -40,7 +40,7 @@ The bottom-up approach focuses on replicating the actual [trading strategies](..
 
 ### Cost-Effectiveness
 
-Traditional [hedge](../h/hedge.md) funds often charge high management fees (typically 2%) and performance fees (often 20% of profits). [Hedge fund](../h/hedge_fund.md) replication strategies, in contrast, [offer](../o/offer.md) similar returns at a fraction of the cost, with many [index](../i/index.md) funds and ETFs charging much lower fees.
+Traditional [hedge](../h/hedge.md) funds often charge high management fees (typically 2%) and performance fees (often 20% of profits). [Hedge fund](../h/hedge_fund.md) replication strategies, in contrast, [offer](../o/offer.md) similar returns at a fraction of the cost, with many [index](../i/index_instrument.md) funds and ETFs charging much lower fees.
 
 ### Liquidity
 

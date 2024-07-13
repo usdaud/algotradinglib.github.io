@@ -20,7 +20,7 @@ Warren Buffett is one of the most well-known proponents of [value investing](../
 [Momentum trading](../m/momentum_trading.md), on the other hand, is based on the belief that [stocks](../s/stock.md) that have performed well in the past [will](../w/will.md) continue to perform well in the future, and those that have performed poorly [will](../w/will.md) continue to perform poorly. This strategy relies heavily on [market](../m/market.md) psychology and involves buying [stocks](../s/stock.md) that are trending upwards and selling those that are trending downwards.
 
 **Key Metrics for [Momentum Trading](../m/momentum_trading.md):**
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** RSI measures the speed and change of price movements, generally to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** RSI measures the speed and change of price movements, generally to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 2. **Moving Averages:** Traders often use short, medium, and long-term moving averages to identify trends. Commonly used moving averages include the 50-day and 200-day moving averages.
 3. **Rate of Change (ROC):** This [momentum](../m/momentum.md) [indicator](../i/indicator.md) measures the [percentage change](../p/percentage_change.md) in price between the current price and the price a certain number of periods ago.
 4. **[Volume](../v/volume.md):** High trading volumes can confirm the strength of a [trend](../t/trend.md). 

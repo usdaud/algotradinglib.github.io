@@ -32,7 +32,7 @@ In [algorithmic trading](../a/accountability.md), integrating support zones can 
 - **Machine Learning Models**: Advanced models can be trained to identify support zones based on historical data and [market](../m/market.md) conditions, improving predictive capabilities.
 
 ### Real-World Example
-Consider the S&P 500 [index](../i/index.md), which has historically shown strong support at certain levels, such as the 2000-point [range](../r/range.md). During [market](../m/market.md) corrections, traders and algorithms alike monitor these zones closely for potential buy opportunities.
+Consider the S&P 500 [index](../i/index_instrument.md), which has historically shown strong support at certain levels, such as the 2000-point [range](../r/range.md). During [market](../m/market.md) corrections, traders and algorithms alike monitor these zones closely for potential buy opportunities.
 
 ## Tools and Resources
 

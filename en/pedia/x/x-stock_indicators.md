@@ -9,7 +9,7 @@ X-Stock Indicators are a subset of [technical indicators](../t/technical_indicat
 ## Types of X-Stock Indicators
 
 1. **[Momentum Indicators](../m/momentum_indicators.md)**
-   - **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**:
+   - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**:
      The RSI measures the speed and change of price movements. It is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md). 
    - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**:
      The MACD is an [indicator](../i/indicator.md) that follows the [trend](../t/trend.md) and shows the relationship between two moving averages of a [security](../s/security.md)’s price.

@@ -1,12 +1,12 @@
 # Tokyo Price Index (TOPIX)
 
-The Tokyo Price [Index](../i/index.md), commonly referred to as TOPIX, is one of Japan's premier [stock market](../s/stock_market.md) indices. It tracks all domestic companies [listed](../l/listed.md) on the Tokyo Stock [Exchange](../e/exchange.md)'s (TSE) First Section. Introduced in 1968, TOPIX is a free-[float](../f/float.md) adjusted [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md) that serves as a barometer for the Japanese [equity market](../e/equity_market.md) as well as an important gauge for investors and [fund](../f/fund.md) managers both within Japan and internationally. 
+The Tokyo Price [Index](../i/index_instrument.md), commonly referred to as TOPIX, is one of Japan's premier [stock market](../s/stock_market.md) indices. It tracks all domestic companies [listed](../l/listed.md) on the Tokyo Stock [Exchange](../e/exchange.md)'s (TSE) First Section. Introduced in 1968, TOPIX is a free-[float](../f/float.md) adjusted [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md) that serves as a barometer for the Japanese [equity market](../e/equity_market.md) as well as an important gauge for investors and [fund](../f/fund.md) managers both within Japan and internationally. 
 
 ## History and Development
 TOPIX was established on July 1, 1968. While the [Nikkei](../n/nikkei.md) 225, another well-known Japanese stock [market index](../m/market_index.md), is a [price-weighted index](../p/price-weighted_index.md) similar to the Dow Jones Industrial Average, TOPIX offers a broader and arguably more comprehensive overview of the Japanese [stock market](../s/stock_market.md) since it includes all companies [listed](../l/listed.md) in the TSE First Section. 
 
 ## Index Calculation
-TOPIX is a free-[float](../f/float.md) adjusted [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md). This means that the [index](../i/index.md) calculation takes into account only the readily available [shares](../s/shares.md) in the [market](../m/market.md), excluding those not available for trading such as [shares](../s/shares.md) held by governments, strategic investors, and closely held [shares](../s/shares.md). The formula for calculating TOPIX is as follows:
+TOPIX is a free-[float](../f/float.md) adjusted [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md). This means that the [index](../i/index_instrument.md) calculation takes into account only the readily available [shares](../s/shares.md) in the [market](../m/market.md), excluding those not available for trading such as [shares](../s/shares.md) held by governments, strategic investors, and closely held [shares](../s/shares.md). The formula for calculating TOPIX is as follows:
 
 ```
 TOPIX = (Current [Market Value](../m/market_value.md) of Constituents / Base [Market Value](../m/market_value.md)) × 100
@@ -27,7 +27,7 @@ TOPIX encompasses all companies in the TSE First Section, typically numbering ar
 [Sector indices](../s/sector_indices.md) are also available within TOPIX, [offering](../o/offering.md) investors a more granular look at [market](../m/market.md) performance across different industries.
 
 ## Index Reviews and Rebalancing
-Reviews and [rebalancing](../r/rebalancing.md) of TOPIX constituents occur periodically to ensure that the [index](../i/index.md) remains an accurate reflection of the [market](../m/market.md). The Tokyo Stock [Exchange](../e/exchange.md) conducts a review every April, recalibrating the list of companies to account for mergers, acquisitions, delistings, and other corporate actions.
+Reviews and [rebalancing](../r/rebalancing.md) of TOPIX constituents occur periodically to ensure that the [index](../i/index_instrument.md) remains an accurate reflection of the [market](../m/market.md). The Tokyo Stock [Exchange](../e/exchange.md) conducts a review every April, recalibrating the list of companies to account for mergers, acquisitions, delistings, and other corporate actions.
 
 ## Importance and Uses
 TOPIX serves [multiple](../m/multiple.md) purposes within the financial ecosystem:
@@ -39,10 +39,10 @@ TOPIX serves [multiple](../m/multiple.md) purposes within the financial ecosyste
    Given its wide coverage of Japanese companies, TOPIX is a significant [indicator](../i/indicator.md) of the health of Japan’s [economy](../e/economy.md).
 
 3. **Investment Products:**
-   TOPIX is utilized as a base for various financial products including [index](../i/index.md) funds, ETFs, and [derivatives](../d/derivatives.md) like [futures](../f/futures.md) and [options](../o/options.md).
+   TOPIX is utilized as a base for various financial products including [index](../i/index_instrument.md) funds, ETFs, and [derivatives](../d/derivatives.md) like [futures](../f/futures.md) and [options](../o/options.md).
 
 ## Performance and Volatility
-Over the decades, TOPIX has shown significant variance reflective of Japan's [economic conditions](../e/economic_conditions.md). Notably, the [index](../i/index.md) soared during Japan's [asset](../a/asset.md) price bubble in the late 1980s but plunged significantly during the [market](../m/market.md) crash of the early 1990s. It has since experienced [multiple](../m/multiple.md) periods of growth and decline, affected by both domestic and international economic factors.
+Over the decades, TOPIX has shown significant variance reflective of Japan's [economic conditions](../e/economic_conditions.md). Notably, the [index](../i/index_instrument.md) soared during Japan's [asset](../a/asset.md) price bubble in the late 1980s but plunged significantly during the [market](../m/market.md) crash of the early 1990s. It has since experienced [multiple](../m/multiple.md) periods of growth and decline, affected by both domestic and international economic factors.
 
 ## Comparison to Other Indices
 ### TOPIX vs. Nikkei 225
@@ -59,7 +59,7 @@ TOPIX often finds itself compared against other global indices, such as:
 These comparisons highlight TOPIX's role in [global investment strategies](../g/global_investment_strategies.md), [offering](../o/offering.md) exposure to the Japanese [market](../m/market.md).
 
 ## TOPIX Sub-Indices
-Beyond the headline [index](../i/index.md), TOPIX includes several sub-indices that cater to specific segments:
+Beyond the headline [index](../i/index_instrument.md), TOPIX includes several sub-indices that cater to specific segments:
 - **TOPIX Core30**: The 30 most significant [stocks](../s/stock.md).
 - **TOPIX 100**: The largest 100 companies.
 - **TOPIX Small**: Small-cap companies.

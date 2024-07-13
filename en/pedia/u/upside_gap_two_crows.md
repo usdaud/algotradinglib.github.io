@@ -50,7 +50,7 @@ The effectiveness of the [Upside](../u/upside.md) Gap Two Crows pattern can be i
 [Volume](../v/volume.md) can play a critical role in confirming the pattern. A decline in [volume](../v/volume.md) during the formation of the pattern might weaken the reliability of the signal. Conversely, a surge in [volume](../v/volume.md) typically enhances the pattern's credibility.
 
 ### Complementary Indicators
-It's often recommended to use the [Upside](../u/upside.md) Gap Two Crows pattern in conjunction with other [technical indicators](../t/technical_indicators.md) to improve the reliability of the signal. For instance, indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Averages, or MACD can provide additional context to the [price action](../p/price_action.md).
+It's often recommended to use the [Upside](../u/upside.md) Gap Two Crows pattern in conjunction with other [technical indicators](../t/technical_indicators.md) to improve the reliability of the signal. For instance, indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Averages, or MACD can provide additional context to the [price action](../p/price_action.md).
 
 ## Conclusion
 

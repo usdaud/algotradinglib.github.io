@@ -37,7 +37,7 @@ With advancements in [algorithmic trading](../a/accountability.md), the Death Cr
 
 Modern traders often combine the Death Cross with other [technical indicators](../t/technical_indicator.md) to improve accuracy. Some of the methods include:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: To measure the speed and change of price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: To measure the speed and change of price movements.
 - **MACD (Moving Average Convergence [Divergence](../d/divergence.md))**: To understand [trend](../t/trend.md) changes.
 - **[Volume Analysis](../v/volume_analysis.md)**: To confirm the strength behind the crossover.
 

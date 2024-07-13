@@ -20,7 +20,7 @@ Installment loans often follow an [amortization schedule](../a/amortization.md),
 ### Interest Rates
 The [interest rate](../i/interest_rate.md) on installment [debt](../d/debt.md) can be either fixed or variable:
 - **Fixed Rate**: The [interest rate](../i/interest_rate.md) remains the same throughout the life of the [loan](../l/loan.md), providing predictability in monthly payments.
-- **Variable Rate**: The [interest rate](../i/interest_rate.md) can change periodically based on an [index](../i/index.md) or [benchmark](../b/benchmark.md) rate, which can cause monthly payments to fluctuate.
+- **Variable Rate**: The [interest rate](../i/interest_rate.md) can change periodically based on an [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md) rate, which can cause monthly payments to fluctuate.
 
 ## Types of Installment Debt
 

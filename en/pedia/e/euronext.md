@@ -74,9 +74,9 @@ As a licensed [exchange](../e/exchange.md) operator, Euronext adheres to stringe
 ## Euronext Indices
 Euronext operates several key stock indices that serve as benchmarks for various [market](../m/market.md) segments:
 
-- **AEX (Amsterdam [Exchange](../e/exchange.md) [Index](../i/index.md)):** Tracks the performance of the 25 largest companies [listed](../l/listed.md) on [Euronext Amsterdam](../e/euronext_amsterdam.md).
+- **AEX (Amsterdam [Exchange](../e/exchange.md) [Index](../i/index_instrument.md)):** Tracks the performance of the 25 largest companies [listed](../l/listed.md) on [Euronext Amsterdam](../e/euronext_amsterdam.md).
 - **BEL 20:** Comprises the 20 largest companies [listed](../l/listed.md) on [Euronext Brussels](../e/euronext_brussels.md).
-- **CAC 40:** The flagship [index](../i/index.md) for [Euronext Paris](../e/euronext_paris.md), comprising 40 major companies.
+- **CAC 40:** The flagship [index](../i/index_instrument.md) for [Euronext Paris](../e/euronext_paris.md), comprising 40 major companies.
 - **ISEQ 20:** Monitor the performance of the top 20 Irish [stocks](../s/stock.md) on [Euronext Dublin](../e/euronext_dublin.md).
 
 ## Impact on the Global Financial Market

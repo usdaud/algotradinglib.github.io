@@ -17,7 +17,7 @@ Here's a breakdown of the components:
 2. **Total Trades:** The total number of trading days in the same period.
 3. **[Volatility](../v/volatility.md):** A measure of price fluctuations, typically using [standard deviation](../s/standard_deviation.md) or other statistical methods to gauge how much the price of [Bitcoin](../b/bitcoin.md) deviates from its average over the calculation period.
 
-The [index](../i/index.md) combines these elements to provide a single score, reflecting both the frequency of positive trading days and the level of price [volatility](../v/volatility.md).
+The [index](../i/index_instrument.md) combines these elements to provide a single score, reflecting both the frequency of positive trading days and the level of price [volatility](../v/volatility.md).
 
 ## Significance of BMI Scores
 - **0-27 (Misery):** Extremely bearish sentiment, indicative of panic-selling or extremely negative [investor](../i/investor.md) sentiment. Historically, these levels have signaled potential buying opportunities, as prices may be [oversold](../o/oversold.md).
@@ -30,7 +30,7 @@ The [index](../i/index.md) combines these elements to provide a single score, re
 The [Bitcoin](../b/bitcoin.md) [Misery Index](../m/misery_index.md) can be incorporated into various [trading strategies](../t/trading_strategies.md), particularly for those looking to time their [market](../m/market.md) entries and exits based on [sentiment analysis](../s/sentiment_analysis.md). Here are some examples of how traders might use the BMI:
 
 ### Contrarian Trading
-Contrarian investors may use the BMI to identify opportunities where [market sentiment](../m/market_sentiment.md) is excessively negative (low BMI scores), buying [Bitcoin](../b/bitcoin.md) when the [index](../i/index.md) suggests extreme misery, and selling when the [index](../i/index.md) indicates extreme euphoria. This approach aims to [capitalize](../c/capitalize.md) on [market](../m/market.md) overreactions driven by [investor](../i/investor.md) sentiment.
+Contrarian investors may use the BMI to identify opportunities where [market sentiment](../m/market_sentiment.md) is excessively negative (low BMI scores), buying [Bitcoin](../b/bitcoin.md) when the [index](../i/index_instrument.md) suggests extreme misery, and selling when the [index](../i/index_instrument.md) indicates extreme euphoria. This approach aims to [capitalize](../c/capitalize.md) on [market](../m/market.md) overreactions driven by [investor](../i/investor.md) sentiment.
 
 ### Sentiment Analysis
 [Sentiment analysis](../s/sentiment_analysis.md) traders focus on understanding the broader emotional landscape of the [market](../m/market.md). By incorporating the BMI into their analysis, they can gauge the prevailing sentiment and adjust their strategies accordingly. For example, in periods of high BMI scores, traders might adopt a more cautious approach, anticipating potential [market](../m/market.md) corrections.

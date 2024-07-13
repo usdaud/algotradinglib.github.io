@@ -47,7 +47,7 @@ Event-triggered algorithms can be employed for a variety of [trading strategies]
    Analyzing [social media sentiment](../s/social_media_sentiment.md) and trading accordingly. For example, if [sentiment analysis](../s/sentiment_analysis.md) indicates increased positivity around a stock, the algorithm could take a long position.
 
 3. **[Arbitrage](../a/arbitrage.md):**
-   Identifying and exploiting price discrepancies between related financial instruments triggered by events. For example, a geopolitical event might cause a temporary mismatch between [futures](../f/futures.md) prices and the [underlying](../u/underlying.md) [index](../i/index.md), presenting an [arbitrage](../a/arbitrage.md) opportunity.
+   Identifying and exploiting price discrepancies between related financial instruments triggered by events. For example, a geopolitical event might cause a temporary mismatch between [futures](../f/futures.md) prices and the [underlying](../u/underlying.md) [index](../i/index_instrument.md), presenting an [arbitrage](../a/arbitrage.md) opportunity.
 
 4. **[Risk Management](../r/risk_management.md):**
    [Hedging exposure](../h/hedging_exposure.md) based on potential risks identified through event-triggered algorithms. A sudden political event that increases [market](../m/market.md) [volatility](../v/volatility.md) might trigger defensive positions to protect the portfolio.

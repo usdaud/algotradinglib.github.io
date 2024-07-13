@@ -58,7 +58,7 @@ A key aspect of [weighted portfolio](../w/weighted_portfolio.md) returns is unde
 
 Some common metrics used to evaluate [portfolio performance](../p/portfolio_performance.md) include:
 - **[Sharpe Ratio](../s/sharpe_ratio.md)**: Measures the [excess return](../e/excess_return.md) per unit of [risk](../r/risk.md), helping compare portfolios with different [risk](../r/risk.md) levels.
-- **[Alpha](../a/alpha.md)**: Indicates the performance of a portfolio relative to a [benchmark](../b/benchmark.md) [index](../i/index.md), showing whether the [portfolio manager](../p/portfolio_manager.md)'s decisions have added [value](../v/value.md).
+- **[Alpha](../a/alpha.md)**: Indicates the performance of a portfolio relative to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), showing whether the [portfolio manager](../p/portfolio_manager.md)'s decisions have added [value](../v/value.md).
 - **[Beta](../b/beta.md)**: Measures the portfolio's [volatility](../v/volatility.md) relative to the [market](../m/market.md), helping assess its sensitivity to [market](../m/market.md) movements.
 
 ### Applications in Algorithmic Trading

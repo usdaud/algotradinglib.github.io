@@ -14,7 +14,7 @@ A [leading indicator](../l/leading_indicator.md) is a variable that changes befo
 
 1. **Moving Averages**: Simple Moving Averages (SMA) or Exponential Moving Averages (EMA) can act as [leading indicators](../l/leading_indicators.md) when used in conjunction with other metrics. For instance, a crossover of a shorter-term EMA above a longer-term EMA could signal a potential upward [trend](../t/trend.md).
   
-2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the price of an [asset](../a/asset.md). An RSI above 70 typically denotes [overbought](../o/overbought.md) conditions, while an RSI below 30 indicates [oversold](../o/oversold.md) conditions.
+2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the price of an [asset](../a/asset.md). An RSI above 70 typically denotes [overbought](../o/overbought.md) conditions, while an RSI below 30 indicates [oversold](../o/oversold.md) conditions.
 
 3. **[Stochastic Oscillator](../s/stochastic_oscillator.md)**: This compares the closing price of an [asset](../a/asset.md) to its price [range](../r/range.md) over a specific period. It's useful in determining entry and exit points in the [market](../m/market.md).
 

@@ -48,7 +48,7 @@ In the domain of algo-trading, the [Volatility Risk](../v/volatility_risk.md) [P
 
 ### 3. Dispersion Trading
 
-[Dispersion](../d/dispersion.md) trading involves a strategy where traders use [options](../o/options.md) to bet on the relative movement of individual [stocks](../s/stock.md) against their [index](../i/index.md). This strategy believes:
+[Dispersion](../d/dispersion.md) trading involves a strategy where traders use [options](../o/options.md) to bet on the relative movement of individual [stocks](../s/stock.md) against their [index](../i/index_instrument.md). This strategy believes:
 
 - If the VRP is high, the implied [correlation](../c/correlation.md) across [stocks](../s/stock.md) is typically low, meaning individual [stocks](../s/stock.md) are expected to move independently.
 - Conversely, a low VRP indicates a higher implied [correlation](../c/correlation.md).

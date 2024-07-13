@@ -19,7 +19,7 @@ An [income](../i/income.md) annuity, also known as a single [premium](../p/premi
 2. **Deferred [Income](../i/income.md) Annuities**: Payments start at a future date.
 3. **Fixed Annuities**: Provide a [fixed income](../f/fixed_income.md) stream.
 4. **Variable Annuities**: Payments can vary based on the performance of investment [options](../o/options.md).
-5. **Indexed Annuities**: Payments are linked to a financial [index](../i/index.md), such as the S&P 500.
+5. **Indexed Annuities**: Payments are linked to a financial [index](../i/index_instrument.md), such as the S&P 500.
 
 ### Payment Options
 
@@ -38,7 +38,7 @@ An [income](../i/income.md) annuity, also known as a single [premium](../p/premi
 ## Drawbacks of Income Annuities
 
 1. **[Liquidity](../l/liquidity.md) Concerns**: Once the lump sum is exchanged for the annuity, the investment is generally illiquid.
-2. **[Inflation](../i/inflation.md) [Risk](../r/risk.md)**: [Fixed income](../f/fixed_income.md) payments might not keep up with [inflation](../i/inflation.md) unless linked to an [index](../i/index.md).
+2. **[Inflation](../i/inflation.md) [Risk](../r/risk.md)**: [Fixed income](../f/fixed_income.md) payments might not keep up with [inflation](../i/inflation.md) unless linked to an [index](../i/index_instrument.md).
 3. **Complexity and Fees**: Some products might have complex features and associated fees.
 4. **[Opportunity Cost](../o/opportunity_cost.md)**: Potential higher returns from alternative investments are forfeited.
 

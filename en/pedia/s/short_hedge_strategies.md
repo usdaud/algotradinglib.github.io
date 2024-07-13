@@ -80,7 +80,7 @@ In the forex [market](../m/market.md), traders can [hedge](../h/hedge.md) agains
 
 ### 4.4. Index Futures
 
-Investors holding a diversified portfolio might use [index futures](../i/index_futures.md) to create a macro-[hedge](../h/hedge.md) against [market](../m/market.md)-wide declines. By shorting an [index](../i/index.md) future, they protect the overall [value](../v/value.md) of their diversified investments.
+Investors holding a diversified portfolio might use [index futures](../i/index_futures.md) to create a macro-[hedge](../h/hedge.md) against [market](../m/market.md)-wide declines. By shorting an [index](../i/index_instrument.md) future, they protect the overall [value](../v/value.md) of their diversified investments.
 
 ## 5. Key Considerations
 

@@ -32,7 +32,7 @@ An orderly [market](../m/market.md) refers to a financial [market](../m/market.m
 
 ## Examples of Regulatory Measures
 
-- **Circuit Breakers**: These are mechanisms that temporarily halt trading on an [exchange](../e/exchange.md) to prevent excessive [volatility](../v/volatility.md). For instance, the New York Stock [Exchange](../e/exchange.md) (NYSE) has set levels at which trading is paused for a cooling-off period once a significant [index](../i/index.md), like the S&P 500, drops by a certain percentage.
+- **Circuit Breakers**: These are mechanisms that temporarily halt trading on an [exchange](../e/exchange.md) to prevent excessive [volatility](../v/volatility.md). For instance, the New York Stock [Exchange](../e/exchange.md) (NYSE) has set levels at which trading is paused for a cooling-off period once a significant [index](../i/index_instrument.md), like the S&P 500, drops by a certain percentage.
 
 - **[Margin](../m/margin.md) Requirements**: Setting [margin](../m/margin.md) requirements helps prevent excessive [leverage](../l/leverage.md), which can lead to [market](../m/market.md) instability. For example, the Federal Reserve in the U.S. can alter [margin](../m/margin.md) requirements to control borrowing levels.
 

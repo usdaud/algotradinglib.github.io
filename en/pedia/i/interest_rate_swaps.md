@@ -19,7 +19,7 @@ The fixed rate in a [swap](../s/swap.md), known as the [swap rate](../s/swap_rat
 ### Types of Interest Rate Swaps
 
 #### Plain Vanilla Swap
-This is the simplest and most common type of [interest rate swap](../i/interest_rate_swap.md) where one party pays a fixed rate, and the other pays a floating rate based on an agreed [index](../i/index.md).
+This is the simplest and most common type of [interest rate swap](../i/interest_rate_swap.md) where one party pays a fixed rate, and the other pays a floating rate based on an agreed [index](../i/index_instrument.md).
 
 #### Basis Swap
 In a [basis](../b/basis.md) [swap](../s/swap.md), both parties [exchange](../e/exchange.md) floating rate payments but based on different reference rates. For example, one party could pay a rate based on 1-month LIBOR, and the other could pay a rate based on 6-month LIBOR.

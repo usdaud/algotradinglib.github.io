@@ -91,11 +91,11 @@ The Generalized Lorenz Curve extends the standard Lorenz Curve by scaling it wit
 
 ### Atkinson Index
 
-The Atkinson [Index](../i/index.md) is another measure of [income inequality](../i/income_inequality.md) that is adjusted for social [welfare](../w/welfare.md) considerations. It provides a sense of how inequality affects social [welfare](../w/welfare.md) and can be tailored to reflect different societal aversions to inequality.
+The Atkinson [Index](../i/index_instrument.md) is another measure of [income inequality](../i/income_inequality.md) that is adjusted for social [welfare](../w/welfare.md) considerations. It provides a sense of how inequality affects social [welfare](../w/welfare.md) and can be tailored to reflect different societal aversions to inequality.
 
 ### Theil Index
 
-The Theil [Index](../i/index.md) measures economic inequality by using the concept of entropy from information theory. It decomposes total inequality into within-group and between-group components, providing a more nuanced understanding of the sources of inequality.
+The Theil [Index](../i/index_instrument.md) measures economic inequality by using the concept of entropy from information theory. It decomposes total inequality into within-group and between-group components, providing a more nuanced understanding of the sources of inequality.
 
 ## Conclusion
 

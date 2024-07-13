@@ -1,6 +1,6 @@
 # Weighted
 
-In the context of trading and [finance](../f/finance.md), "weighted" often refers to the practice of assigning different levels of importance or weight to various components of a portfolio, [index](../i/index.md), or set of data points. Weighting is a crucial concept in numerous financial analyses and methodologies, as it allows traders, investors, and analysts to reflect the relative significance of different assets or data points more accurately.
+In the context of trading and [finance](../f/finance.md), "weighted" often refers to the practice of assigning different levels of importance or weight to various components of a portfolio, [index](../i/index_instrument.md), or set of data points. Weighting is a crucial concept in numerous financial analyses and methodologies, as it allows traders, investors, and analysts to reflect the relative significance of different assets or data points more accurately.
 
 ### Weighted Average
 
@@ -14,7 +14,7 @@ where \( w_i \) are the weights and \( x_i \) are the data points.
 
 1. **[Portfolio Management](../p/par.md)**: Investors often deal with weighted portfolios where different assets are assigned specific weights according to factors such as [risk tolerance](../r/risk_tolerance.md), investment goals, and [market](../m/market.md) conditions. For instance, a portfolio could be 60% [stocks](../s/stock.md), 30% bonds, and 10% commodities.
 
-2. **[Index Construction](../i/index_construction.md)**: Many financial indices, like the S&P 500, are weighted indices. The S&P 500, for example, is a [capitalization](../c/capitalization.md)-weighted [index](../i/index.md), meaning that companies with larger [market](../m/market.md) capitalizations have a greater influence on the [index](../i/index.md)'s performance.
+2. **[Index Construction](../i/index_construction.md)**: Many financial indices, like the S&P 500, are weighted indices. The S&P 500, for example, is a [capitalization](../c/capitalization.md)-weighted [index](../i/index_instrument.md), meaning that companies with larger [market](../m/market.md) capitalizations have a greater influence on the [index](../i/index_instrument.md)'s performance.
 
 3. **[Risk Management](../r/risk_management.md)**: In [risk management](../r/risk_management.md), particularly in [Value](../v/value.md)-at-[Risk](../r/risk.md) (VaR) models, different scenarios or factors may be weighted based on their likelihood or significance in [risk](../r/risk.md) modeling.
 
@@ -56,7 +56,7 @@ where \( w_i \) are the weights and \( s_i \) are the scores assigned to each cr
 
 Several tools and platforms provide functionalities for weighted calculations. Here are a few examples:
 
-1. **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Professional investors and analysts use [Bloomberg](../b/bloomberg.md) terminals for [weighted portfolio](../w/weighted_portfolio.md) and [index](../i/index.md) analyses.
+1. **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Professional investors and analysts use [Bloomberg](../b/bloomberg.md) terminals for [weighted portfolio](../w/weighted_portfolio.md) and [index](../i/index_instrument.md) analyses.
    
     [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 

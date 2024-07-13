@@ -47,7 +47,7 @@ ETFs are publicly traded funds that [hold](../h/hold.md) a basket of assets. The
 #### Characteristics:
 - **Trading**: Can be bought and sold throughout the trading day at [market](../m/market.md) prices.
 - **[Transparency](../t/transparency.md)**: [Holdings](../h/holdings.md) are typically disclosed on a daily [basis](../b/basis.md).
-- **[Index](../i/index.md) Tracking**: Many ETFs aim to replicate the performance of an [index](../i/index.md).
+- **[Index](../i/index_instrument.md) Tracking**: Many ETFs aim to replicate the performance of an [index](../i/index_instrument.md).
 
 #### Pros:
 - **Flexibility**: [Trade](../t/trade.md) throughout the day at [market](../m/market.md) prices.

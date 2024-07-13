@@ -63,7 +63,7 @@ Incorporating [volume analysis](../v/volume_analysis.md) enhances the reliabilit
 
 ### 3. Indicator Confirmation Strategy
 
-Using [technical indicators](../t/technical_indicators.md) in conjunction with the [Triple Bottom](../t/triple_bottom.md) pattern can provide additional layers of confirmation for the [trade](../t/trade.md). Indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Averages, or MACD can validate the [breakout](../b/breakout.md) and [underlying](../u/underlying.md) [momentum](../m/momentum.md).
+Using [technical indicators](../t/technical_indicators.md) in conjunction with the [Triple Bottom](../t/triple_bottom.md) pattern can provide additional layers of confirmation for the [trade](../t/trade.md). Indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Averages, or MACD can validate the [breakout](../b/breakout.md) and [underlying](../u/underlying.md) [momentum](../m/momentum.md).
 
 - **Entry**: Combine the resistance [breakout](../b/breakout.md) with confirmation from indicators such as RSI crossing above 50 or a bullish crossover in MACD.
 - **Stop Loss**: Stop placement below the third low.

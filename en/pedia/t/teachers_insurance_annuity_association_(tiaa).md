@@ -55,7 +55,7 @@ TIAA employs several strategic approaches to manage and grow its clients' invest
 TIAA employs both active and passive [investment management](../i/investment_management.md) strategies:
 
 - **[Active Management](../a/active_management.md):** This hands-on approach involves [fund](../f/fund.md) managers making informed decisions about which securities to buy and sell in [order](../o/order.md) to [outperform](../o/outperform.md) the [market](../m/market.md). TIAA's active managers use extensive research and [market](../m/market.md) analysis to guide their investment choices.
-- **Passive Management:** This approach seeks to replicate the performance of a specific [index](../i/index.md), such as the S&P 500. Passively managed funds typically have lower expenses and are designed to match the returns of the [index](../i/index.md) they track.
+- **Passive Management:** This approach seeks to replicate the performance of a specific [index](../i/index_instrument.md), such as the S&P 500. Passively managed funds typically have lower expenses and are designed to match the returns of the [index](../i/index_instrument.md) they track.
 
 ### Responsible Investing
 

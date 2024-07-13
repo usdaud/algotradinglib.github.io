@@ -28,7 +28,7 @@ The real [equilibrium](../e/equilibrium.md) [interest rate](../i/interest_rate.m
 
 ### Actual Inflation Rate (\( \pi_t \))
 
-The actual [inflation](../i/inflation.md) rate represents the observed increase in the general [price level](../p/price_level.md) of goods and services in an [economy](../e/economy.md) over a period of time. It is usually measured by indexes like the Consumer Price [Index](../i/index.md) (CPI) or the Personal Consumption Expenditures (PCE) Price [Index](../i/index.md).
+The actual [inflation](../i/inflation.md) rate represents the observed increase in the general [price level](../p/price_level.md) of goods and services in an [economy](../e/economy.md) over a period of time. It is usually measured by indexes like the Consumer Price [Index](../i/index_instrument.md) (CPI) or the Personal Consumption Expenditures (PCE) Price [Index](../i/index_instrument.md).
 
 ### Target Inflation Rate (\( \pi^* \))
 

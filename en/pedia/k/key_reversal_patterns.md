@@ -12,7 +12,7 @@ A Bullish Key [Reversal](../r/reversal.md) Pattern typically forms at the end of
 3. During the [trading session](../t/trading_session.md), the price rallies and closes above the previous day's high.
 
 #### Example
-Consider the S&P 500 [Index](../i/index.md), which displays a distinct Bullish Key [Reversal](../r/reversal.md) Pattern on a particular trading day. The [index](../i/index.md) opens significantly lower, but buying pressure leads to a [rally](../r/rally.md) that closes above the previous day's high, signaling a potential upward [reversal](../r/reversal.md).
+Consider the S&P 500 [Index](../i/index_instrument.md), which displays a distinct Bullish Key [Reversal](../r/reversal.md) Pattern on a particular trading day. The [index](../i/index_instrument.md) opens significantly lower, but buying pressure leads to a [rally](../r/rally.md) that closes above the previous day's high, signaling a potential upward [reversal](../r/reversal.md).
 
 ### Bearish Key Reversal
 Conversely, a Bearish Key [Reversal](../r/reversal.md) Pattern indicates a possible [reversal](../r/reversal.md) to the downside, typically appearing at the peak of an [uptrend](../u/uptrend.md). It is characterized by:
@@ -47,7 +47,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), automated systems use adv
 
 1. **Data Collection**: Gather historical price data for the [asset](../a/asset.md) in question.
 2. **Pattern Identification**: Use automated tools or machine learning models to scan for Key [Reversal Patterns](../r/reversal_patterns.md).
-3. **Signal Validation**: Confirm the identified pattern using additional [technical indicators](../t/technical_indicators.md) such as Moving Averages or [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI).
+3. **Signal Validation**: Confirm the identified pattern using additional [technical indicators](../t/technical_indicators.md) such as Moving Averages or [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 4. **[Execution](../e/execution.md) Strategy**: Define entry and exit points, stop-loss levels, and position sizes based on the identified pattern.
 5. **[Backtesting](../b/backtesting.md)**: Test the strategy on historical data to evaluate its performance and make necessary adjustments.
 

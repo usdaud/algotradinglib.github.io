@@ -73,11 +73,11 @@ Where:
 A higher [Omega](../o/omega.md) Ratio signifies that the [trading strategy](../t/trading_strategy.md) offers more favorable returns compared to losses.
 
 ## Ulcer Index
-The Ulcer [Index](../i/index.md) measures the depth and [duration](../d/duration.md) of drawdowns in a [trading strategy](../t/trading_strategy.md). It's useful for understanding the level of stress or "ulcer" a [trader](../t/trader.md) may experience.
+The Ulcer [Index](../i/index_instrument.md) measures the depth and [duration](../d/duration.md) of drawdowns in a [trading strategy](../t/trading_strategy.md). It's useful for understanding the level of stress or "ulcer" a [trader](../t/trader.md) may experience.
 
 \[ \text{Ulcer Index} = \sqrt{ \frac{1}{N} \sum_{t=1}^{N} \left( \frac{\text{[Drawdown](../d/drawdown.md)}_t}{\text{Max Price}} \right)^2 } \]
 
-The lower the Ulcer [Index](../i/index.md), the less severe and frequent the drawdowns, indicating a more stable [trading strategy](../t/trading_strategy.md).
+The lower the Ulcer [Index](../i/index_instrument.md), the less severe and frequent the drawdowns, indicating a more stable [trading strategy](../t/trading_strategy.md).
 
 ## Maximum Drawdown
 Maximum [Drawdown](../d/drawdown.md) (MDD) quantifies the largest peak-to-[trough](../t/trough.md) decline in the [value](../v/value.md) of a [trading strategy](../t/trading_strategy.md) or portfolio. It provides an indication of historical [risk](../r/risk.md).

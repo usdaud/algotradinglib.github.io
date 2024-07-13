@@ -57,7 +57,7 @@ Develop a [momentum](../m/momentum.md)-based trading algorithm that improves [yi
 
 1. **Data Collection**: Retrieve historical price data for a set of assets.
   
-2. **Feature Engineering**: Create [momentum indicators](../m/momentum_indicators.md) like Moving Average Convergence [Divergence](../d/divergence.md) (MACD) and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI).
+2. **Feature Engineering**: Create [momentum indicators](../m/momentum_indicators.md) like Moving Average Convergence [Divergence](../d/divergence.md) (MACD) and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 
 3. **Model Development**: Define the [trading rules](../t/trading_rules.md) based on [momentum indicators](../m/momentum_indicators.md), e.g., buy when MACD crosses above zero and sell when RSI exceeds 70.
 

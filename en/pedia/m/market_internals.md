@@ -38,7 +38,7 @@ The Put/Call Ratio compares the [volume](../v/volume.md) of [put options](../p/p
 
 ### VIX (Volatility Index)
 
-The VIX, often referred to as the "fear [index](../i/index.md)," measures [market](../m/market.md) expectations of near-term [volatility](../v/volatility.md) as implied by S&P 500 [index options](../i/index_options.md).
+The VIX, often referred to as the "fear [index](../i/index_instrument.md)," measures [market](../m/market.md) expectations of near-term [volatility](../v/volatility.md) as implied by S&P 500 [index options](../i/index_options.md).
 
 **Why It Matters:**
 - High VIX values indicate high [market](../m/market.md) [volatility](../v/volatility.md) and fear among investors, often preceding [market](../m/market.md) bottoms.
@@ -46,7 +46,7 @@ The VIX, often referred to as the "fear [index](../i/index.md)," measures [marke
 
 ### TRIN (Trader’s Index)
 
-The [Trader](../t/trader.md)’s [Index](../i/index.md) (TRIN), also known as the Arms [Index](../i/index.md), measures the ratio of advancing to declining [stocks](../s/stock.md) and the [volume](../v/volume.md) of advancing to declining [stocks](../s/stock.md).
+The [Trader](../t/trader.md)’s [Index](../i/index_instrument.md) (TRIN), also known as the Arms [Index](../i/index_instrument.md), measures the ratio of advancing to declining [stocks](../s/stock.md) and the [volume](../v/volume.md) of advancing to declining [stocks](../s/stock.md).
 
 **Why It Matters:**
 - A TRIN [value](../v/value.md) below 1 indicates that more [volume](../v/volume.md) is associated with advancing [stocks](../s/stock.md), suggesting bullish sentiment.

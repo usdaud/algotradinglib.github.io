@@ -1,10 +1,10 @@
 # Producer Price Index (PPI)
 
-The Producer Price [Index](../i/index.md) (PPI) is a critical [economic indicator](../e/economic_indicator.md) that measures the average changes in the selling prices received by domestic producers for their output over time. It is a key metric used by economists, policymakers, and financial analysts to gauge [inflation](../i/inflation.md) at the wholesale level, predict consumer price [inflation](../i/inflation.md), and make informed decisions about [monetary policy](../m/monetary_policy.md), investment strategies, and economic forecasts.
+The Producer Price [Index](../i/index_instrument.md) (PPI) is a critical [economic indicator](../e/economic_indicator.md) that measures the average changes in the selling prices received by domestic producers for their output over time. It is a key metric used by economists, policymakers, and financial analysts to gauge [inflation](../i/inflation.md) at the wholesale level, predict consumer price [inflation](../i/inflation.md), and make informed decisions about [monetary policy](../m/monetary_policy.md), investment strategies, and economic forecasts.
 
 ## Understanding the Producer Price Index
 
-The PPI represents the prices of goods and services sold by producers during the production process. Unlike the Consumer Price [Index](../i/index.md) (CPI), which measures retail-level price changes, the PPI tracks changes at the wholesale or producer level. It encompasses several indexes that measure price changes at different stages of production, including [raw materials](../r/raw_materials.md), intermediate goods, and finished products.
+The PPI represents the prices of goods and services sold by producers during the production process. Unlike the Consumer Price [Index](../i/index_instrument.md) (CPI), which measures retail-level price changes, the PPI tracks changes at the wholesale or producer level. It encompasses several indexes that measure price changes at different stages of production, including [raw materials](../r/raw_materials.md), intermediate goods, and finished products.
 
 ### Components of PPI
 
@@ -20,11 +20,11 @@ The PPI is composed of three main components, which collectively provide a compr
 
 The PPI is calculated using a [weighted average](../w/weighted_average.md) of price changes for a representative [basket of goods](../b/basket_of_goods.md) and services produced in the [economy](../e/economy.md). The calculation involves three primary steps:
 
-1. **Selection of Goods and Services**: A representative set of goods and services is chosen based on their significance in the production process. This selection ensures that the [index](../i/index.md) accurately reflects overall price changes in the [economy](../e/economy.md).
+1. **Selection of Goods and Services**: A representative set of goods and services is chosen based on their significance in the production process. This selection ensures that the [index](../i/index_instrument.md) accurately reflects overall price changes in the [economy](../e/economy.md).
 
 2. **Price Collection**: Prices for the selected goods and services are collected from a wide [range](../r/range.md) of sources, including surveys, [trade](../t/trade.md) publications, and [industry](../i/industry.md) reports. These prices are typically collected on a monthly [basis](../b/basis.md) to capture real-time changes.
 
-3. **[Index](../i/index.md) Calculation**: The collected prices are [weighted](../w/weighted.md) according to their importance in the production process. The [index](../i/index.md) is then calculated as a [weighted average](../w/weighted_average.md) of the price changes, providing a single figure that represents the overall change in producer prices.
+3. **[Index](../i/index_instrument.md) Calculation**: The collected prices are [weighted](../w/weighted.md) according to their importance in the production process. The [index](../i/index_instrument.md) is then calculated as a [weighted average](../w/weighted_average.md) of the price changes, providing a single figure that represents the overall change in producer prices.
 
 ### Uses of PPI
 
@@ -44,7 +44,7 @@ The PPI is published by national statistical agencies, such as the Bureau of Lab
 
 ### BLS PPI Program
 
-The BLS PPI program is one of the most comprehensive and widely used sources of producer price data. It covers a broad [range](../r/range.md) of industries and commodities, providing granular insights into price trends across the [economy](../e/economy.md). The program includes a variety of indexes, such as the All Commodities [Index](../i/index.md), the Finished Goods [Index](../i/index.md), and the Intermediate Goods [Index](../i/index.md).
+The BLS PPI program is one of the most comprehensive and widely used sources of producer price data. It covers a broad [range](../r/range.md) of industries and commodities, providing granular insights into price trends across the [economy](../e/economy.md). The program includes a variety of indexes, such as the All Commodities [Index](../i/index_instrument.md), the Finished Goods [Index](../i/index_instrument.md), and the Intermediate Goods [Index](../i/index_instrument.md).
 
 For more information about the BLS PPI program, visit their official website: [BLS PPI Program](https://www.bls.gov/ppi/).
 
@@ -80,4 +80,4 @@ Despite these limitations, the PPI remains a crucial tool for understanding [inf
 
 ## Conclusion
 
-The Producer Price [Index](../i/index.md) (PPI) is a vital [economic indicator](../e/economic_indicator.md) that measures changes in the selling prices received by producers for their goods and services. By tracking price changes at various stages of production, the PPI provides valuable insights into inflationary pressures, cost dynamics, and [economic conditions](../e/economic_conditions.md). It is extensively used by policymakers, businesses, and financial [market](../m/market.md) participants to monitor [inflation](../i/inflation.md), manage costs, adjust contracts, and forecast economic trends. While it has its limitations, the PPI's importance in the realm of economic analysis and decision-making cannot be overstated.
+The Producer Price [Index](../i/index_instrument.md) (PPI) is a vital [economic indicator](../e/economic_indicator.md) that measures changes in the selling prices received by producers for their goods and services. By tracking price changes at various stages of production, the PPI provides valuable insights into inflationary pressures, cost dynamics, and [economic conditions](../e/economic_conditions.md). It is extensively used by policymakers, businesses, and financial [market](../m/market.md) participants to monitor [inflation](../i/inflation.md), manage costs, adjust contracts, and forecast economic trends. While it has its limitations, the PPI's importance in the realm of economic analysis and decision-making cannot be overstated.

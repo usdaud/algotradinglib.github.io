@@ -56,7 +56,7 @@ The McClellan [Oscillator](../o/oscillator.md) oscillates around a zero line. A 
   
 2. **[Overbought](../o/overbought.md) and [Oversold](../o/oversold.md) Conditions**: Extreme positive readings suggest an [overbought](../o/overbought.md) condition, while extreme negative readings point to an [oversold](../o/oversold.md) [market](../m/market.md). Traders may use these extremes to anticipate reversals.
 
-3. **Divergences**: When prices of the [index](../i/index.md) hit new highs or lows, but the [oscillator](../o/oscillator.md) does not follow suit, it signals potential divergences, indicating a possible [reversal](../r/reversal.md).
+3. **Divergences**: When prices of the [index](../i/index_instrument.md) hit new highs or lows, but the [oscillator](../o/oscillator.md) does not follow suit, it signals potential divergences, indicating a possible [reversal](../r/reversal.md).
 
     - **[Bullish Divergence](../b/bullish_divergence.md)**: Occurs when prices are making new lows, but the [oscillator](../o/oscillator.md) is not. This can indicate the selling pressure is waning, and a [rally](../r/rally.md) might be near.
     
@@ -123,7 +123,7 @@ In [algorithmic trading](../a/accountability.md), automatic [trading algorithms]
 
     ```python
     def generate_signals([oscillator](../o/oscillator.md)):
-        signals = pd.DataFrame([index](../i/index.md)=[oscillator](../o/oscillator.md).[index](../i/index.md))
+        signals = pd.DataFrame([index](../i/index_instrument.md)=[oscillator](../o/oscillator.md).[index](../i/index_instrument.md))
         signals['signal'] = 0
 
         # Buy signal

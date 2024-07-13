@@ -28,7 +28,7 @@ The core of X-Price Analysis lies in sophisticated algorithms designed to predic
 
 - **Machine Learning Models**: Models such as [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [random forests](../r/random_forests_in_trading.md) which can process vast amounts of data to find patterns.
 - **Statistical Methods**: Techniques like [regression analysis](../r/regression_analysis.md), time-series analysis, and [Bayesian inference](../b/bayesian_inference.md).
-- **[Technical Indicators](../t/technical_indicators.md)**: Incorporating conventional indicators like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and [Bollinger Bands](../b/bollinger_bands.md).
+- **[Technical Indicators](../t/technical_indicators.md)**: Incorporating conventional indicators like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and [Bollinger Bands](../b/bollinger_bands.md).
 
 ### 4. **Risk Management**
 

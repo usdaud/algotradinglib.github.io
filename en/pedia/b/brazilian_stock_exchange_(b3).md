@@ -23,8 +23,8 @@ B3 is organized into various segments for trading and services:
 
 ## Major Indices
 B3 operates several significant [market](../m/market.md) indices, which serve as benchmarks for the performance of various [market](../m/market.md) segments:
-- **IBOVESPA (IBOV)**: The most well-known [index](../i/index.md) in Brazil that tracks the performance of the most traded [stocks](../s/stock.md) on B3.
-- **IBRX-50**: An [index](../i/index.md) composed of the 50 most [liquid](../l/liquid.md) [stocks](../s/stock.md).
+- **IBOVESPA (IBOV)**: The most well-known [index](../i/index_instrument.md) in Brazil that tracks the performance of the most traded [stocks](../s/stock.md) on B3.
+- **IBRX-50**: An [index](../i/index_instrument.md) composed of the 50 most [liquid](../l/liquid.md) [stocks](../s/stock.md).
 - **IBX**: Tracks a broader [range](../r/range.md) of [stocks](../s/stock.md) based on [liquidity](../l/liquidity.md) and trading [volume](../v/volume.md).
 - **SMAL11**: Focuses on smaller-cap companies.
 - **ICON**: Represents companies within the consumer sector.

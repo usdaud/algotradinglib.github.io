@@ -49,7 +49,7 @@ Effective [risk management](../r/risk_management.md) involves:
 
 To enhance the reliability of an Evening Star pattern, it is often used in conjunction with other [technical indicators](../t/technical_indicator.md):
 - **Moving Averages:** To observe the [trend](../t/trend.md) direction.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** To determine [overbought](../o/overbought.md) conditions that may precede a [reversal](../r/reversal.md).
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** To determine [overbought](../o/overbought.md) conditions that may precede a [reversal](../r/reversal.md).
 - **[Volume Analysis](../v/volume_analysis.md):** Increased [volume](../v/volume.md) on the third [candlestick](../c/candlestick.md) can confirm the strength of the [reversal](../r/reversal.md).
 
 ## Algorithmic Trading Applications
@@ -98,7 +98,7 @@ data = pd.read_csv('historical_price_data.csv')
 pattern_index = is_evening_star(data)
 
 if pattern_index != -1:
-    print(f"Evening Star pattern detected at [index](../i/index.md) {pattern_index}")
+    print(f"Evening Star pattern detected at [index](../i/index_instrument.md) {pattern_index}")
 ```
 
 ### Using Financial Market Data Providers

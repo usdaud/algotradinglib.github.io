@@ -82,7 +82,7 @@ Technological advancements have significantly transformed [futures](../f/futures
 
 The [futures market](../f/futures_market.md) is highly sensitive to global macroeconomic events, which can lead to significant [volatility](../v/volatility.md). For example:
 
-1. **Financial Crises**: During the 2008 [financial crisis](../f/financial_crisis.md), [futures](../f/futures.md) markets saw extreme [volatility](../v/volatility.md), particularly in stock [index](../i/index.md), [commodity](../c/commodity.md), and [interest rate futures](../i/interest_rate_futures.md).
+1. **Financial Crises**: During the 2008 [financial crisis](../f/financial_crisis.md), [futures](../f/futures.md) markets saw extreme [volatility](../v/volatility.md), particularly in stock [index](../i/index_instrument.md), [commodity](../c/commodity.md), and [interest rate futures](../i/interest_rate_futures.md).
    
 2. **[Geopolitical Events](../g/geopolitical_events.md)**: Events such as wars, [trade](../t/trade.md) wars, and political instability often lead to price spikes in oil and other commodities [futures](../f/futures.md).
    

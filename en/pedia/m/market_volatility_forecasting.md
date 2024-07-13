@@ -48,7 +48,7 @@ Bollerslev extended the ARCH model to GARCH, which incorporates lagged condition
 
 ### Implied Volatility Models
 
-Implied [volatility models](../v/volatility_models.md) use information embedded in [options](../o/options.md) prices to forecast future [volatility](../v/volatility.md). The VIX [index](../i/index.md), often called the “fear gauge”, is a popular example that uses S&P 500 [index options](../i/index_options.md) to measure [market](../m/market.md) expectations of near-term [volatility](../v/volatility.md).
+Implied [volatility models](../v/volatility_models.md) use information embedded in [options](../o/options.md) prices to forecast future [volatility](../v/volatility.md). The VIX [index](../i/index_instrument.md), often called the “fear gauge”, is a popular example that uses S&P 500 [index options](../i/index_options.md) to measure [market](../m/market.md) expectations of near-term [volatility](../v/volatility.md).
 
 ### Machine Learning and AI Techniques
 

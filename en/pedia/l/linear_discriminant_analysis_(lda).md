@@ -74,8 +74,8 @@ LDA can also be applied in [portfolio management](../p/portfolio_management.md) 
 
 ## Case Study: Applying LDA to S&P 500 Data
 
-As a practical example, let's consider applying LDA to classify the direction of daily returns of the S&P 500 [index](../i/index.md). The steps involved are:
-1. **Data Collection**: Collect historical daily prices for the S&P 500 [index](../i/index.md).
+As a practical example, let's consider applying LDA to classify the direction of daily returns of the S&P 500 [index](../i/index_instrument.md). The steps involved are:
+1. **Data Collection**: Collect historical daily prices for the S&P 500 [index](../i/index_instrument.md).
 2. **Feature Engineering**: Create features such as log returns, moving averages, [volume](../v/volume.md) changes, [volatility](../v/volatility.md) measures, and [technical indicators](../t/technical_indicators.md).
 3. **Class Labeling**: Define two classes based on the future daily [return](../r/return.md); "up" if the [return](../r/return.md) is positive, and "down" if the [return](../r/return.md) is negative.
 4. **Model Training**: Split the data into training and test sets. Train the LDA model using the training set.

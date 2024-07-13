@@ -4,7 +4,7 @@ A Horizontal Spread, also known as a Calendar Spread or Time Spread, is an [opti
 
 ## Key Components of Horizontal Spread
 
-1. **[Underlying Asset](../u/underlying_asset.md)**: The [financial instrument](../f/financial_instrument.md) (e.g., stock, [index](../i/index.md)) on which the [options](../o/options.md) are based.
+1. **[Underlying Asset](../u/underlying_asset.md)**: The [financial instrument](../f/financial_instrument.md) (e.g., stock, [index](../i/index_instrument.md)) on which the [options](../o/options.md) are based.
 2. **[Strike Price](../s/strike_price.md)**: The predetermined price at which the [underlying asset](../u/underlying_asset.md) can be bought or sold as per the [options contract](../o/options_contract.md).
 3. **[Expiration Date](../e/expiration_date.md)**: The date on which the [options contract](../o/options_contract.md) expires. Horizontal [spreads](../s/spreads.md) involve [options](../o/options.md) with different expiration dates.
 4. **[Premium](../p/premium.md)**: Cost associated with purchasing the option.

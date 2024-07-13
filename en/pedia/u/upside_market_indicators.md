@@ -15,7 +15,7 @@ Moving averages can signal [upside potential](../u/upside_potential_in_trading.m
 
 #### Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) measures the speed and change of price movements. The RSI oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) measures the speed and change of price movements. The RSI oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 **Calculation:**
 RSI = 100 - (100 / (1 + RS)), where RS ([Relative Strength](../r/relative_strength.md)) = Average [Gain](../g/gain.md) / Average Loss.

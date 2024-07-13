@@ -10,7 +10,7 @@ Base years are crucial in converting [nominal](../n/nominal.md) financial and ec
 A base year is selected to standardize economic data, meaning it normalizes data points to make meaningful comparisons over time possible. For instance, in GDP calculations, choosing a base year helps economists and analysts compare the economic output of different years by adjusting figures to a constant [price level](../p/price_level.md), thus isolating real growth from [inflation](../i/inflation.md).
 
 ### Inflation Adjustment
-[Inflation](../i/inflation.md) can distort [nominal](../n/nominal.md) economic figures, leading to a misunderstanding of real economic health. By using a base year, we can adjust for [inflation](../i/inflation.md) and understand the real changes in variables like GDP, [income](../i/income.md), and prices over time. The Consumer Price [Index](../i/index.md) (CPI) is often based on a [default](../d/default.md) year to track how prices change relative to this reference point.
+[Inflation](../i/inflation.md) can distort [nominal](../n/nominal.md) economic figures, leading to a misunderstanding of real economic health. By using a base year, we can adjust for [inflation](../i/inflation.md) and understand the real changes in variables like GDP, [income](../i/income.md), and prices over time. The Consumer Price [Index](../i/index_instrument.md) (CPI) is often based on a [default](../d/default.md) year to track how prices change relative to this reference point.
 
 ### Performance Measurement
 Financial analysts use base years to assess the performance of investments and portfolios over time. For example, stock indices like the S&P 500 use a base year to establish a starting point for tracking changes in stock prices. Investors can then evaluate [market](../m/market.md) performance by comparing current prices against the [baseline](../b/baseline.md).
@@ -35,12 +35,12 @@ In national accounts, GDP is often reported in both [nominal](../n/nominal.md) a
 - If [nominal](../n/nominal.md) GDP in 2020 is $20 trillion and the GDP deflator indicates a 20% price increase since 2010, the real GDP for 2020 would be $20 trillion / 1.20 = $16.67 trillion in 2010 dollars.
 
 ### Consumer Price Index (CPI)
-The CPI measures changes in the [price level](../p/price_level.md) of a basket of [consumer goods](../c/consumer_goods.md) and services. The base year [index](../i/index.md) is set to 100, and CPI values in subsequent years reflect changes from this [baseline](../b/baseline.md). For instance:
+The CPI measures changes in the [price level](../p/price_level.md) of a basket of [consumer goods](../c/consumer_goods.md) and services. The base year [index](../i/index_instrument.md) is set to 100, and CPI values in subsequent years reflect changes from this [baseline](../b/baseline.md). For instance:
 - If 2015 is the base year with a CPI of 100, and the CPI for 2025 is 120, prices have increased by 20% since 2015.
 
 ### Financial Market Indices
 Stock indices like the Dow Jones Industrial Average or S&P 500 use a base year to compare stock price changes over time. For instance:
-- If the base year is 1980, and the base [value](../v/value.md) is set to 100, a current [index](../i/index.md) [value](../v/value.md) of 2500 implies that stock prices have increased 25 times since 1980.
+- If the base year is 1980, and the base [value](../v/value.md) is set to 100, a current [index](../i/index_instrument.md) [value](../v/value.md) of 2500 implies that stock prices have increased 25 times since 1980.
 
 ### Example of a Base Year in Action
 Consider an [economy](../e/economy.md) where the government selects 2010 as the base year for its GDP calculations. Here's how the base year is used in various analyses:

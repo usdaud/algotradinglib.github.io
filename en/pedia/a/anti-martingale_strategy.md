@@ -36,7 +36,7 @@ Define the initial [capital allocation](../c/capital_allocation.md) and the base
 
 ### Step 2: Identifying Trend
 
-Utilizing [technical analysis](../t/technical_analysis.md) tools, such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), or the MACD, the [trader](../t/trader.md) identifies prevailing [market](../m/market.md) trends to decide whether to scale in or out of positions.
+Utilizing [technical analysis](../t/technical_analysis.md) tools, such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), or the MACD, the [trader](../t/trader.md) identifies prevailing [market](../m/market.md) trends to decide whether to scale in or out of positions.
 
 ### Step 3: Adjusting Position Sizes
 

@@ -1,15 +1,15 @@
 # Financial Times Stock Exchange Group (FTSE)
 
-The Financial Times Stock [Exchange](../e/exchange.md) Group (FTSE) is a British provider of [stock market](../s/stock_market.md) indices and associated data services, [offering](../o/offering.md) a [range](../r/range.md) of benchmarking, analytics, and data solutions for investors and financial professionals. Best known for its globally recognized FTSE 100 [Index](../i/index.md), the FTSE Group provides benchmarks that cover various sectors and regions, enabling investors to track performance, conduct [market](../m/market.md) analysis, and make informed investment decisions. This comprehensive guide [will](../w/will.md) delve into the history, products, services, and impact of the FTSE Group within the financial [industry](../i/industry.md).
+The Financial Times Stock [Exchange](../e/exchange.md) Group (FTSE) is a British provider of [stock market](../s/stock_market.md) indices and associated data services, [offering](../o/offering.md) a [range](../r/range.md) of benchmarking, analytics, and data solutions for investors and financial professionals. Best known for its globally recognized FTSE 100 [Index](../i/index_instrument.md), the FTSE Group provides benchmarks that cover various sectors and regions, enabling investors to track performance, conduct [market](../m/market.md) analysis, and make informed investment decisions. This comprehensive guide [will](../w/will.md) delve into the history, products, services, and impact of the FTSE Group within the financial [industry](../i/industry.md).
 
 ## History and Evolution of FTSE
 
-Founded in 1995 as a [joint](../j/joint.md) venture between the Financial Times and the London Stock [Exchange](../e/exchange.md), the FTSE Group has grown to become a leading global [index](../i/index.md) provider. Initially focused on the FTSE 100 [Index](../i/index.md), the Group has since expanded its offerings to include a wide array of indices covering different markets, sectors, and investment strategies.
+Founded in 1995 as a [joint](../j/joint.md) venture between the Financial Times and the London Stock [Exchange](../e/exchange.md), the FTSE Group has grown to become a leading global [index](../i/index_instrument.md) provider. Initially focused on the FTSE 100 [Index](../i/index_instrument.md), the Group has since expanded its offerings to include a wide array of indices covering different markets, sectors, and investment strategies.
 
 - **1995**: Establishment of the FTSE Group as a partnership between the Financial Times and the London Stock [Exchange](../e/exchange.md).
-- **2000s**: Launch of various indices, including the FTSE Global [Equity](../e/equity.md) [Index](../i/index.md) Series, FTSE4Good [Index](../i/index.md) Series, and FTSE All-World [Index](../i/index.md).
+- **2000s**: Launch of various indices, including the FTSE Global [Equity](../e/equity.md) [Index](../i/index_instrument.md) Series, FTSE4Good [Index](../i/index_instrument.md) Series, and FTSE All-World [Index](../i/index_instrument.md).
 - **2011**: [Acquisition](../a/acquisition.md) of the FTSE Group by the London Stock [Exchange](../e/exchange.md) Group (LSEG), resulting in further [expansion](../e/expansion.md) and integration of services.
-- **2017**: [Merger](../m/merger.md) with Russell Investments' [index](../i/index.md) [business](../b/business.md), creating [FTSE Russell](../f/ftse_russell.md), a comprehensive provider of indices and data solutions.
+- **2017**: [Merger](../m/merger.md) with Russell Investments' [index](../i/index_instrument.md) [business](../b/business.md), creating [FTSE Russell](../f/ftse_russell.md), a comprehensive provider of indices and data solutions.
 
 ## Key Products and Services
 
@@ -17,19 +17,19 @@ The FTSE Group's extensive [range](../r/range.md) of indices and data services c
 
 ### FTSE 100 Index
 
-The FTSE 100 [Index](../i/index.md) is one of the most widely recognized [stock market](../s/stock_market.md) indices globally, representing the performance of the top 100 companies [listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md) by [market capitalization](../m/market_capitalization.md). It serves as a barometer for the overall health and performance of the UK [stock market](../s/stock_market.md).
+The FTSE 100 [Index](../i/index_instrument.md) is one of the most widely recognized [stock market](../s/stock_market.md) indices globally, representing the performance of the top 100 companies [listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md) by [market capitalization](../m/market_capitalization.md). It serves as a barometer for the overall health and performance of the UK [stock market](../s/stock_market.md).
 
 ### FTSE All-World Index Series
 
-The FTSE All-World [Index](../i/index.md) Series provides a comprehensive measure of global [market](../m/market.md) performance, covering over 3,000 large- and [mid-cap stocks](../m/mid-cap_stocks.md) across 47 countries. This series enables investors to track global [equity](../e/equity.md) markets and allocate assets across various regions and sectors.
+The FTSE All-World [Index](../i/index_instrument.md) Series provides a comprehensive measure of global [market](../m/market.md) performance, covering over 3,000 large- and [mid-cap stocks](../m/mid-cap_stocks.md) across 47 countries. This series enables investors to track global [equity](../e/equity.md) markets and allocate assets across various regions and sectors.
 
 ### FTSE4Good Index Series
 
-The FTSE4Good [Index](../i/index.md) Series is designed to measure the performance of companies that meet globally recognized standards for environmental, social, and governance (ESG) practices. This series supports socially responsible [investing](../i/investing.md) (SRI) by identifying companies with strong ESG performance.
+The FTSE4Good [Index](../i/index_instrument.md) Series is designed to measure the performance of companies that meet globally recognized standards for environmental, social, and governance (ESG) practices. This series supports socially responsible [investing](../i/investing.md) (SRI) by identifying companies with strong ESG performance.
 
 ### FTSE NAREIT Real Estate Index Series
 
-The FTSE NAREIT [Real Estate](../r/real_estate.md) [Index](../i/index.md) Series provides a [benchmark](../b/benchmark.md) for [real estate](../r/real_estate.md) investment trusts (REITs) and other [real estate](../r/real_estate.md) securities across the United States and global markets. These indices help investors track the performance of the [real estate](../r/real_estate.md) sector and make informed investment decisions.
+The FTSE NAREIT [Real Estate](../r/real_estate.md) [Index](../i/index_instrument.md) Series provides a [benchmark](../b/benchmark.md) for [real estate](../r/real_estate.md) investment trusts (REITs) and other [real estate](../r/real_estate.md) securities across the United States and global markets. These indices help investors track the performance of the [real estate](../r/real_estate.md) sector and make informed investment decisions.
 
 ### FTSE EDHEC-Risk Efficient Indices
 
@@ -45,11 +45,11 @@ The FTSE Group also offers a [range](../r/range.md) of [fixed income](../f/fixed
 
 ## Methodology and Index Calculation
 
-FTSE indices are calculated using transparent, rules-based methodologies that ensure consistency, accuracy, and objectivity. Key components of the [index](../i/index.md) calculation process include:
+FTSE indices are calculated using transparent, rules-based methodologies that ensure consistency, accuracy, and objectivity. Key components of the [index](../i/index_instrument.md) calculation process include:
 
 ### Market Capitalization Weighting
 
-Most FTSE indices are [market](../m/market.md)-cap [weighted](../w/weighted.md), meaning constituent [stocks](../s/stock.md) are [weighted](../w/weighted.md) according to their [market capitalization](../m/market_capitalization.md). This approach reflects the relative size and importance of each company within the [index](../i/index.md), providing a realistic measure of [market](../m/market.md) performance.
+Most FTSE indices are [market](../m/market.md)-cap [weighted](../w/weighted.md), meaning constituent [stocks](../s/stock.md) are [weighted](../w/weighted.md) according to their [market capitalization](../m/market_capitalization.md). This approach reflects the relative size and importance of each company within the [index](../i/index_instrument.md), providing a realistic measure of [market](../m/market.md) performance.
 
 ### Free Float Adjustments
 
@@ -57,7 +57,7 @@ To ensure indices accurately represent investable opportunities, FTSE applies fr
 
 ### Regular Reviews and Rebalancing
 
-FTSE indices undergo regular reviews and [rebalancing](../r/rebalancing.md) to maintain accuracy and relevance. Quarterly and annual reviews assess constituent eligibility, reweight [stocks](../s/stock.md) based on [market capitalization](../m/market_capitalization.md) changes, and ensure compliance with [index](../i/index.md) rules. This process ensures that indices remain an accurate reflection of the [underlying](../u/underlying.md) [market](../m/market.md).
+FTSE indices undergo regular reviews and [rebalancing](../r/rebalancing.md) to maintain accuracy and relevance. Quarterly and annual reviews assess constituent eligibility, reweight [stocks](../s/stock.md) based on [market capitalization](../m/market_capitalization.md) changes, and ensure compliance with [index](../i/index_instrument.md) rules. This process ensures that indices remain an accurate reflection of the [underlying](../u/underlying.md) [market](../m/market.md).
 
 ### ESG Integration and Screening
 
@@ -73,7 +73,7 @@ Investors use FTSE indices as benchmarks to measure the performance of their por
 
 ### Passive Investing and Index Funds
 
-The rise of [passive investing](../p/passive_investing.md) has been fueled by the availability of FTSE indices, which serve as the [underlying](../u/underlying.md) benchmarks for [index](../i/index.md) funds and [exchange](../e/exchange.md)-traded funds (ETFs). These investment vehicles track the performance of FTSE indices, [offering](../o/offering.md) investors low-cost, diversified exposure to various markets and sectors.
+The rise of [passive investing](../p/passive_investing.md) has been fueled by the availability of FTSE indices, which serve as the [underlying](../u/underlying.md) benchmarks for [index](../i/index_instrument.md) funds and [exchange](../e/exchange.md)-traded funds (ETFs). These investment vehicles track the performance of FTSE indices, [offering](../o/offering.md) investors low-cost, diversified exposure to various markets and sectors.
 
 ### Development of Financial Products
 
@@ -93,7 +93,7 @@ FTSE Group collaborates with various financial institutions, research organizati
 
 ### London Stock Exchange Group (LSEG)
 
-Following its [acquisition](../a/acquisition.md) by LSEG in 2011, FTSE has integrated its services with the broader offerings of the London Stock [Exchange](../e/exchange.md), enhancing its global reach and capabilities. This partnership has strengthened FTSE’s position as a leading [index](../i/index.md) provider.
+Following its [acquisition](../a/acquisition.md) by LSEG in 2011, FTSE has integrated its services with the broader offerings of the London Stock [Exchange](../e/exchange.md), enhancing its global reach and capabilities. This partnership has strengthened FTSE’s position as a leading [index](../i/index_instrument.md) provider.
 
 ### EDHEC-Risk Institute
 
@@ -101,7 +101,7 @@ FTSE’s collaboration with the EDHEC-[Risk](../r/risk.md) Institute has led to 
 
 ### National Association of Real Estate Investment Trusts (NAREIT)
 
-FTSE’s partnership with NAREIT has resulted in the creation of the FTSE NAREIT [Real Estate](../r/real_estate.md) [Index](../i/index.md) Series, providing benchmarks for the performance of REITs and [real estate](../r/real_estate.md) securities. This collaboration supports the growth and development of the [real estate](../r/real_estate.md) investment sector.
+FTSE’s partnership with NAREIT has resulted in the creation of the FTSE NAREIT [Real Estate](../r/real_estate.md) [Index](../i/index_instrument.md) Series, providing benchmarks for the performance of REITs and [real estate](../r/real_estate.md) securities. This collaboration supports the growth and development of the [real estate](../r/real_estate.md) investment sector.
 
 ### Sustainable Investment Partners
 
@@ -117,7 +117,7 @@ FTSE is committed to enhancing its ESG integration capabilities, providing more 
 
 ### Advanced Analytics and Data Solutions
 
-FTSE is [investing](../i/investing.md) in advanced analytics and data solutions to provide deeper insights and actionable intelligence for investors. This includes the use of [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data](../b/big_data_in_trading.md) technologies to enhance [index](../i/index.md) calculation, performance analysis, and [risk management](../r/risk_management.md).
+FTSE is [investing](../i/investing.md) in advanced analytics and data solutions to provide deeper insights and actionable intelligence for investors. This includes the use of [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data](../b/big_data_in_trading.md) technologies to enhance [index](../i/index_instrument.md) calculation, performance analysis, and [risk management](../r/risk_management.md).
 
 ### Expansion of Fixed Income Indices
 
@@ -133,6 +133,6 @@ FTSE is focused on providing more tailored and customizable [indexing](../i/inde
 
 ## Conclusion
 
-The Financial Times Stock [Exchange](../e/exchange.md) Group (FTSE) has established itself as a leading global provider of [stock market](../s/stock_market.md) indices and data services. Through its innovative products, rigorous methodologies, and commitment to [transparency](../t/transparency.md), FTSE supports investors, [asset](../a/asset.md) managers, and financial institutions in making informed investment decisions. As the financial landscape continues to evolve, FTSE remains at the forefront of [index](../i/index.md) innovation, driving the development of new benchmarks and data solutions that enhance [market](../m/market.md) performance, sustainability, and resilience.
+The Financial Times Stock [Exchange](../e/exchange.md) Group (FTSE) has established itself as a leading global provider of [stock market](../s/stock_market.md) indices and data services. Through its innovative products, rigorous methodologies, and commitment to [transparency](../t/transparency.md), FTSE supports investors, [asset](../a/asset.md) managers, and financial institutions in making informed investment decisions. As the financial landscape continues to evolve, FTSE remains at the forefront of [index](../i/index_instrument.md) innovation, driving the development of new benchmarks and data solutions that enhance [market](../m/market.md) performance, sustainability, and resilience.
 
 For more information about FTSE, visit their official website: [FTSE Russell](https://www.ftserussell.com/)

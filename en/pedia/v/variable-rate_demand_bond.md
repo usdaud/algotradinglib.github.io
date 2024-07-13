@@ -4,7 +4,7 @@ Variable-Rate [Demand](../d/demand.md) Bonds (VRDBs), also known as Variable Rat
 
 ## Key Characteristics
 ### Interest Rate Adjustments
-The [interest rate](../i/interest_rate.md) on VRDBs is typically reset at regular intervals—daily, weekly, or monthly—based on a specified [benchmark](../b/benchmark.md) or [index](../i/index.md), such as the London Interbank Offered Rate (LIBOR) or the Securities [Industry](../i/industry.md) and [Financial Markets](../f/financial_market.md) Association (SIFMA) Municipal [Swap](../s/swap.md) [Index](../i/index.md).
+The [interest rate](../i/interest_rate.md) on VRDBs is typically reset at regular intervals—daily, weekly, or monthly—based on a specified [benchmark](../b/benchmark.md) or [index](../i/index_instrument.md), such as the London Interbank Offered Rate (LIBOR) or the Securities [Industry](../i/industry.md) and [Financial Markets](../f/financial_market.md) Association (SIFMA) Municipal [Swap](../s/swap.md) [Index](../i/index_instrument.md).
 
 ### Demand Feature
 One of the defining features of VRDBs is the "put" or "[demand](../d/demand.md)" option, which allows bondholders to sell the [bond](../b/bond.md) back to the [issuer](../i/issuer.md) (or a designated [third party](../t/third_party.md)) at [par value](../p/par_value.md) plus [accrued interest](../a/accrued_interest.md) at specified times—often on each [interest](../i/interest.md) reset date. This [demand](../d/demand.md) feature provides [liquidity](../l/liquidity.md) and makes VRDBs similar to [short-term investments](../s/short-term_investments.md) from an [investor](../i/investor.md)'s perspective, even though they can have long-term maturities.

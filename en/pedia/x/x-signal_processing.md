@@ -9,7 +9,7 @@ X-[Signal Processing](../s/signal_processing_in_trading.md) in the domain of [al
 1. **[Market](../m/market.md) Data Signals**: This includes price, [volume](../v/volume.md), and other trading data originating from exchanges. [Market](../m/market.md) data can be used for real-time trading decisions or [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 2. **News Sentiment Signals**: Text data from news articles, [social media](../s/social_media.md), [earnings](../e/earnings.md) reports, etc., which are processed using [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to extract sentiment and other meaningful signals.
 3. **[Alternative Data](../a/alternative_data.md) Signals**: This includes non-traditional datasets such as satellite imagery, mobile data, web traffic, etc., processed to derive [trading signals](../t/trading_signals.md).
-4. **[Technical Indicators](../t/technical_indicators.md)**: Derived from historical [market](../m/market.md) data, [technical indicators](../t/technical_indicators.md) such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), etc., can be customized and enhanced using advanced X-[signal processing](../s/signal_processing_in_trading.md) techniques.
+4. **[Technical Indicators](../t/technical_indicators.md)**: Derived from historical [market](../m/market.md) data, [technical indicators](../t/technical_indicators.md) such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), etc., can be customized and enhanced using advanced X-[signal processing](../s/signal_processing_in_trading.md) techniques.
 
 #### Core Techniques in X-Signal Processing
 

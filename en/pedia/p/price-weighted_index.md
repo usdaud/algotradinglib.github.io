@@ -1,49 +1,49 @@
 # Price-Weighted Index
 
-A price-[weighted](../w/weighted.md) [index](../i/index.md) is a type of stock [market index](../m/market_index.md) in which each stock influences the [index](../i/index.md) in proportion to its price per share. Unlike other types of indexes, such as [market](../m/market.md)-[capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) indexes, a price-[weighted](../w/weighted.md) [index](../i/index.md) computes the average of the prices of all the [stocks](../s/stock.md) included in it, and this average is then adjusted by a divisor to generate the [index](../i/index.md)'s [value](../v/value.md). This means that [stocks](../s/stock.md) with higher prices have a more significant impact on the [index](../i/index.md) movement than those with lower prices, regardless of the company's actual [market](../m/market.md) size.
+A price-[weighted](../w/weighted.md) [index](../i/index_instrument.md) is a type of stock [market index](../m/market_index.md) in which each stock influences the [index](../i/index_instrument.md) in proportion to its price per share. Unlike other types of indexes, such as [market](../m/market.md)-[capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) indexes, a price-[weighted](../w/weighted.md) [index](../i/index_instrument.md) computes the average of the prices of all the [stocks](../s/stock.md) included in it, and this average is then adjusted by a divisor to generate the [index](../i/index_instrument.md)'s [value](../v/value.md). This means that [stocks](../s/stock.md) with higher prices have a more significant impact on the [index](../i/index_instrument.md) movement than those with lower prices, regardless of the company's actual [market](../m/market.md) size.
 
 ## History and Examples
 
-The concept of a price-[weighted](../w/weighted.md) [index](../i/index.md) dates back to the late 19th and early 20th centuries. One of the oldest and most well-known examples of a price-[weighted](../w/weighted.md) [index](../i/index.md) is the Dow Jones Industrial Average (DJIA), which was created by Charles Dow and Edward Jones in 1896. Initially, the DJIA included 12 industrial companies, and it aimed to provide a clear snapshot of the industrial sector's performance. Today, the DJIA comprises 30 blue-chip companies and is still one of the most widely followed indices in the world.
+The concept of a price-[weighted](../w/weighted.md) [index](../i/index_instrument.md) dates back to the late 19th and early 20th centuries. One of the oldest and most well-known examples of a price-[weighted](../w/weighted.md) [index](../i/index_instrument.md) is the Dow Jones Industrial Average (DJIA), which was created by Charles Dow and Edward Jones in 1896. Initially, the DJIA included 12 industrial companies, and it aimed to provide a clear snapshot of the industrial sector's performance. Today, the DJIA comprises 30 blue-chip companies and is still one of the most widely followed indices in the world.
 
 ## Calculating a Price-Weighted Index
 
-To calculate a price-[weighted](../w/weighted.md) [index](../i/index.md), follow these steps:
+To calculate a price-[weighted](../w/weighted.md) [index](../i/index_instrument.md), follow these steps:
 
-1. **List all the stock prices:** Gather the current price per share for each stock in the [index](../i/index.md).
+1. **List all the stock prices:** Gather the current price per share for each stock in the [index](../i/index_instrument.md).
 2. **Sum the stock prices:** Add together the prices of all the [stocks](../s/stock.md).
-3. **Determine the divisor:** The initial divisor is typically the number of [stocks](../s/stock.md) in the [index](../i/index.md). However, this divisor is adjusted for stock splits, dividends, and additions or deletions of [stocks](../s/stock.md) from the [index](../i/index.md) to ensure continuity.
-4. **Calculate the [index](../i/index.md) [value](../v/value.md):** Divide the sum of the stock prices by the divisor to get the [index](../i/index.md) [value](../v/value.md).
+3. **Determine the divisor:** The initial divisor is typically the number of [stocks](../s/stock.md) in the [index](../i/index_instrument.md). However, this divisor is adjusted for stock splits, dividends, and additions or deletions of [stocks](../s/stock.md) from the [index](../i/index_instrument.md) to ensure continuity.
+4. **Calculate the [index](../i/index_instrument.md) [value](../v/value.md):** Divide the sum of the stock prices by the divisor to get the [index](../i/index_instrument.md) [value](../v/value.md).
 
 ### Example:
 
-Suppose an [index](../i/index.md) consists of three [stocks](../s/stock.md) with the following prices: Stock A: $10, Stock B: $50, Stock C: $100.
+Suppose an [index](../i/index_instrument.md) consists of three [stocks](../s/stock.md) with the following prices: Stock A: $10, Stock B: $50, Stock C: $100.
 
 1. Sum of stock prices: $10 + $50 + $100 = $160
 2. Initial divisor: 3 (since there are three [stocks](../s/stock.md))
-3. [Index](../i/index.md) [Value](../v/value.md): $160 / 3 ≈ 53.33
+3. [Index](../i/index_instrument.md) [Value](../v/value.md): $160 / 3 ≈ 53.33
 
-If Stock A undergoes a two-for-one split, its price [will](../w/will.md) reduce to $5. To ensure the [index](../i/index.md) remains consistent:
+If Stock A undergoes a two-for-one split, its price [will](../w/will.md) reduce to $5. To ensure the [index](../i/index_instrument.md) remains consistent:
 
 1. New Sum of stock prices: $5 + $50 + $100 = $155
 2. New Divisor must be adjusted: 155 / 53.33 ≈ 2.91
-3. Recalculated [Index](../i/index.md) [Value](../v/value.md) with new divisor: 155 / 2.91 ≈ 53.33
+3. Recalculated [Index](../i/index_instrument.md) [Value](../v/value.md) with new divisor: 155 / 2.91 ≈ 53.33
 
-This adjustment ensures the historical performance of the [index](../i/index.md) remains continuous even after stock splits or other corporate actions.
+This adjustment ensures the historical performance of the [index](../i/index_instrument.md) remains continuous even after stock splits or other corporate actions.
 
 ## Characteristics and Implications
 
 ### Performance Dependency on Stock Prices
 
-A significant characteristic of price-[weighted](../w/weighted.md) indices is that [stocks](../s/stock.md) with higher prices can disproportionately impact the [index](../i/index.md)'s performance, regardless of the companies' total [market value](../m/market_value.md). For example, if Stock X is trading at $500 while Stock Y is at $50, despite having significantly different [market](../m/market.md) capitalizations, Stock X [will](../w/will.md) have a ten times greater impact on the [index](../i/index.md)'s performance.
+A significant characteristic of price-[weighted](../w/weighted.md) indices is that [stocks](../s/stock.md) with higher prices can disproportionately impact the [index](../i/index_instrument.md)'s performance, regardless of the companies' total [market value](../m/market_value.md). For example, if Stock X is trading at $500 while Stock Y is at $50, despite having significantly different [market](../m/market.md) capitalizations, Stock X [will](../w/will.md) have a ten times greater impact on the [index](../i/index_instrument.md)'s performance.
 
 ### Volatility
 
-Due to the reliance on individual stock prices, a price-[weighted](../w/weighted.md) [index](../i/index.md) can exhibit heightened [volatility](../v/volatility.md) based on the price movements of high-priced [stocks](../s/stock.md). A substantial price fluctuation in a high-priced constituent can significantly sway the [index](../i/index.md), unlike in [market](../m/market.md)-cap-[weighted](../w/weighted.md) indexes where the impact would be moderated by the company's overall size.
+Due to the reliance on individual stock prices, a price-[weighted](../w/weighted.md) [index](../i/index_instrument.md) can exhibit heightened [volatility](../v/volatility.md) based on the price movements of high-priced [stocks](../s/stock.md). A substantial price fluctuation in a high-priced constituent can significantly sway the [index](../i/index_instrument.md), unlike in [market](../m/market.md)-cap-[weighted](../w/weighted.md) indexes where the impact would be moderated by the company's overall size.
 
 ### Frequency of Adjustments
 
-Price-[weighted](../w/weighted.md) indices may require frequent adjustments. Changes due to stock splits, dividends, or changes in the list of constituent [stocks](../s/stock.md) necessitate recalculating the divisor to maintain consistent [index](../i/index.md) [value](../v/value.md). This can lead to a more complex maintenance routine compared to other [index](../i/index.md) types.
+Price-[weighted](../w/weighted.md) indices may require frequent adjustments. Changes due to stock splits, dividends, or changes in the list of constituent [stocks](../s/stock.md) necessitate recalculating the divisor to maintain consistent [index](../i/index_instrument.md) [value](../v/value.md). This can lead to a more complex maintenance routine compared to other [index](../i/index_instrument.md) types.
 
 ### Historical Context
 
@@ -53,9 +53,9 @@ The creation of price-[weighted](../w/weighted.md) indices like the DJIA made se
 
 ### Definition
 
-- **Price-[Weighted](../w/weighted.md) [Index](../i/index.md):** [Index](../i/index.md) [value](../v/value.md) derived from the price per share of its constituent [stocks](../s/stock.md). Each stock affects the [index](../i/index.md) proportionally to its price.
+- **Price-[Weighted](../w/weighted.md) [Index](../i/index_instrument.md):** [Index](../i/index_instrument.md) [value](../v/value.md) derived from the price per share of its constituent [stocks](../s/stock.md). Each stock affects the [index](../i/index_instrument.md) proportionally to its price.
   
-- **[Market](../m/market.md)-Cap-[Weighted](../w/weighted.md) [Index](../i/index.md):** [Index](../i/index.md) [value](../v/value.md) derived from the [market capitalization](../m/market_capitalization.md) of its constituent [stocks](../s/stock.md). Each stock affects the [index](../i/index.md) proportionally to its total [market capitalization](../m/market_capitalization.md) (price per share * number of [shares](../s/shares.md) outstanding).
+- **[Market](../m/market.md)-Cap-[Weighted](../w/weighted.md) [Index](../i/index_instrument.md):** [Index](../i/index_instrument.md) [value](../v/value.md) derived from the [market capitalization](../m/market_capitalization.md) of its constituent [stocks](../s/stock.md). Each stock affects the [index](../i/index_instrument.md) proportionally to its total [market capitalization](../m/market_capitalization.md) (price per share * number of [shares](../s/shares.md) outstanding).
 
 ### Example Indices
 
@@ -64,7 +64,7 @@ The creation of price-[weighted](../w/weighted.md) indices like the DJIA made se
 
 ### Impact on Performance
 
-- In a price-[weighted](../w/weighted.md) [index](../i/index.md), a high-priced but smaller-cap stock can have a more substantial effect than a lower-priced but larger-cap stock. Conversely, in a [market](../m/market.md)-cap-[weighted](../w/weighted.md) [index](../i/index.md), [large-cap stocks](../l/large_cap_stocks.md) dominate the [index](../i/index.md) performance, providing a more comprehensive reflection of the overall [market](../m/market.md)'s performance.
+- In a price-[weighted](../w/weighted.md) [index](../i/index_instrument.md), a high-priced but smaller-cap stock can have a more substantial effect than a lower-priced but larger-cap stock. Conversely, in a [market](../m/market.md)-cap-[weighted](../w/weighted.md) [index](../i/index_instrument.md), [large-cap stocks](../l/large_cap_stocks.md) dominate the [index](../i/index_instrument.md) performance, providing a more comprehensive reflection of the overall [market](../m/market.md)'s performance.
   
 ### Adjustments Required
 
@@ -80,17 +80,17 @@ The creation of price-[weighted](../w/weighted.md) indices like the DJIA made se
 
 ### Dow Jones Industrial Average (DJIA)
 
-The DJIA is the iconic example of a price-[weighted](../w/weighted.md) [index](../i/index.md). Comprising 30 large publicly-traded companies, the [index](../i/index.md) is often seen as a barometer of the U.S. [economy](../e/economy.md). Companies within the DJIA are selected by the editors of The [Wall Street](../w/wall_street.md) [Journal](../j/journal.md) and represent a [range](../r/range.md) of sectors, except for transportation and utilities, which have their own specialized indices (e.g., Dow Jones Transportation Average).
+The DJIA is the iconic example of a price-[weighted](../w/weighted.md) [index](../i/index_instrument.md). Comprising 30 large publicly-traded companies, the [index](../i/index_instrument.md) is often seen as a barometer of the U.S. [economy](../e/economy.md). Companies within the DJIA are selected by the editors of The [Wall Street](../w/wall_street.md) [Journal](../j/journal.md) and represent a [range](../r/range.md) of sectors, except for transportation and utilities, which have their own specialized indices (e.g., Dow Jones Transportation Average).
 
 ### Nikkei 225
 
-Another well-known price-[weighted](../w/weighted.md) [index](../i/index.md) is the [Nikkei](../n/nikkei.md) 225, which tracks the performance of 225 large, publicly owned companies in Japan. Established in 1950 by the Nihon Keizai Shimbun (The [Nikkei](../n/nikkei.md)), it is one of Asia's most widely recognized stock indices.
+Another well-known price-[weighted](../w/weighted.md) [index](../i/index_instrument.md) is the [Nikkei](../n/nikkei.md) 225, which tracks the performance of 225 large, publicly owned companies in Japan. Established in 1950 by the Nihon Keizai Shimbun (The [Nikkei](../n/nikkei.md)), it is one of Asia's most widely recognized stock indices.
 
 ### Criticisms and Alternatives
 
 Despite their historical significance, price-[weighted](../w/weighted.md) indices have faced criticisms:
 
-1. **Disproportionate Influence:** [Stocks](../s/stock.md) with high prices can dominate [index](../i/index.md) movements, introducing bias.
+1. **Disproportionate Influence:** [Stocks](../s/stock.md) with high prices can dominate [index](../i/index_instrument.md) movements, introducing bias.
 2. **Not Reflective of Economic Reality:** They do not accurately reflect the economic size of companies because they ignore the number of [shares](../s/shares.md) outstanding.
 3. **Frequent Adjustments:** Requires more frequent [rebalancing](../r/rebalancing.md) and recalculation of the divisor.
 

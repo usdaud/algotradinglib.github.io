@@ -41,7 +41,7 @@ A weekly chart plots a [financial asset](../f/financial_asset.md)'s closing pric
 - **[Support and Resistance](../s/support_and_resistance.md) Lines**: Drawing trendlines on weekly charts can help in identifying long-term [support and resistance](../s/support_and_resistance.md) levels, which are crucial for making trading decisions.
 
 #### Indicators
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: These and other [technical indicators](../t/technical_indicator.md) can be applied to weekly charts to provide additional insights into the [asset](../a/asset.md)'s [momentum](../m/momentum.md), strength, and potential reversals.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: These and other [technical indicators](../t/technical_indicator.md) can be applied to weekly charts to provide additional insights into the [asset](../a/asset.md)'s [momentum](../m/momentum.md), strength, and potential reversals.
 
 ### Strategies Utilizing Weekly Charts
 

@@ -26,7 +26,7 @@ For most [equity](../e/equity.md) securities in the United States, the [tick siz
 
 ### Futures Contracts
 
-In [futures](../f/futures.md) markets, the [tick size](../t/tick_size.md) is often predetermined by the [exchange](../e/exchange.md) where the contract is traded. For instance, the [tick size](../t/tick_size.md) for an [E-mini](../e/e-mini.md) S&P 500 [futures contract](../f/futures_contract.md) on the Chicago Mercantile [Exchange](../e/exchange.md) (CME) is 0.25 [index](../i/index.md) points, which translates to $12.50 per contract. Different [futures contracts](../f/futures_contracts.md) [will](../w/will.md) have their unique tick sizes depending on the base [value](../v/value.md) of the [asset](../a/asset.md) being traded.
+In [futures](../f/futures.md) markets, the [tick size](../t/tick_size.md) is often predetermined by the [exchange](../e/exchange.md) where the contract is traded. For instance, the [tick size](../t/tick_size.md) for an [E-mini](../e/e-mini.md) S&P 500 [futures contract](../f/futures_contract.md) on the Chicago Mercantile [Exchange](../e/exchange.md) (CME) is 0.25 [index](../i/index_instrument.md) points, which translates to $12.50 per contract. Different [futures contracts](../f/futures_contracts.md) [will](../w/will.md) have their unique tick sizes depending on the base [value](../v/value.md) of the [asset](../a/asset.md) being traded.
 
 ### Forex
 

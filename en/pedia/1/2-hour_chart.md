@@ -56,7 +56,7 @@ While not as data-intensive as minute charts, 2-hour charts still require relati
 
 ### 2. Mean Reversion Strategies
 
-The 2-hour chart also serves well for [mean reversion](../m/mean_reversion.md) strategies, aiming to exploit deviations from an [asset](../a/asset.md)'s average price. Indicators such as [Bollinger Bands](../b/bollinger_bands.md), RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), or Stochastic Oscillators can be utilized on the 2-hour chart to signal [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+The 2-hour chart also serves well for [mean reversion](../m/mean_reversion.md) strategies, aiming to exploit deviations from an [asset](../a/asset.md)'s average price. Indicators such as [Bollinger Bands](../b/bollinger_bands.md), RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), or Stochastic Oscillators can be utilized on the 2-hour chart to signal [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ### 3. Support and Resistance Levels
 

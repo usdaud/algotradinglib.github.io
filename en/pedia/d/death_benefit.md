@@ -25,7 +25,7 @@ Certain pension plans include death benefits, which ensure that beneficiaries re
 Annuities are financial products that provide a stream of [income](../i/income.md), typically used for retirement. Certain types of annuities include death benefits:
 
 - **Variable Annuities**: May [offer](../o/offer.md) a [guaranteed death benefit](../g/guaranteed_death_benefit.md) to beneficiaries, usually at least the amount of the initial investment.
-- **Indexed Annuities**: Payments and benefits linked to the performance of a specified [index](../i/index.md), often including death benefits.
+- **Indexed Annuities**: Payments and benefits linked to the performance of a specified [index](../i/index_instrument.md), often including death benefits.
 - **Immediate Annuities**: Begin payments immediately after a lump sum is paid, sometimes including a death benefit [provision](../p/provision.md).
 
 ### Social Security

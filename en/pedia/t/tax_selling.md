@@ -77,7 +77,7 @@ Tax [alpha](../a/alpha.md) refers to the added [value](../v/value.md) achieved b
 
 ### Custom Indexing
 
-Fintech advancements have led to the evolution of custom [indexing](../i/indexing.md), where individual securities are selected to mimic an [index](../i/index.md) while optimizing for tax [efficiency](../e/efficiency.md). This approach allows for more precise tax-loss harvesting across a broader array of securities compared to traditional [index](../i/index.md) funds.
+Fintech advancements have led to the evolution of custom [indexing](../i/indexing.md), where individual securities are selected to mimic an [index](../i/index_instrument.md) while optimizing for tax [efficiency](../e/efficiency.md). This approach allows for more precise tax-loss harvesting across a broader array of securities compared to traditional [index](../i/index_instrument.md) funds.
 
 ### Algorithmic Optimization
 

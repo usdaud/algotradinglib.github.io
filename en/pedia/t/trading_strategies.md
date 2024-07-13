@@ -10,7 +10,7 @@ Trading strategies are systematic methodologies or plans designed to achieve pro
 
 - **Moving Averages**: Simple (SMA) and Exponential Moving Averages (EMA) are widely used to identify the direction of the [trend](../t/trend.md).
 - **Trendlines**: Drawing lines that connect significant price points helps to visualize the [trend](../t/trend.md).
-- **Indicators**: ADX, Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) are commonly used indicators.
+- **Indicators**: ADX, Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) are commonly used indicators.
 
 ### 2. Mean Reversion
 

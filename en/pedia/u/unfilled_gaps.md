@@ -100,7 +100,7 @@ Algorithmic systems should continuously monitor the [market](../m/market.md) for
 
 ### Integration with Other Indicators
 
-Enhance the reliability of gap [trading algorithms](../t/trading_algorithms.md) by integrating them with other [technical indicators](../t/technical_indicators.md), such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [volume analysis](../v/volume_analysis.md). This multi-faceted approach can improve the accuracy of [trading signals](../t/trading_signals.md).
+Enhance the reliability of gap [trading algorithms](../t/trading_algorithms.md) by integrating them with other [technical indicators](../t/technical_indicators.md), such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [volume analysis](../v/volume_analysis.md). This multi-faceted approach can improve the accuracy of [trading signals](../t/trading_signals.md).
 
 ## Conclusion
 
