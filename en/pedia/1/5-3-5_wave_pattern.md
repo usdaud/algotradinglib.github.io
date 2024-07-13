@@ -36,7 +36,7 @@ Identifying a 5-3-5 wave pattern requires a keen eye for recognizing emerging wa
 Key Indicators used alongside [Elliott Wave Theory](../e/elliott_wave_theory.md):
 - **Fibonacci Retracements**: These help identify potential [reversal](../r/reversal.md) levels within waves.
 - **Moving Averages**: Aid in confirming [trend](../t/trend.md) direction.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Indicates [momentum](../m/momentum.md) and [overbought](../o/overbought.md)/[oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Indicates [momentum](../m/momentum.md) and [overbought](../o/overbought.md)/[oversold](../o/oversold.md) conditions.
 
 #### Application in Trading
 
@@ -55,7 +55,7 @@ Consistency and practice are crucial for mastering the identification and tradin
 
 #### Market Sentiment and Behavioral Finance
 
-The effectiveness of the 5-3-5 wave pattern is also rooted in the principles of [behavioral finance](../b/behavioral_finance.md). Investors’ collective actions, driven by fear, greed, and other emotions, typically form the waves observed in [Elliott Wave Theory](../e/elliott_wave_theory.md). Therefore, analyzing [market sentiment](../m/market_sentiment.md) through tools like the CBOE [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX) or [social media](../s/social_media.md) [sentiment analysis](../s/sentiment_analysis.md) can [complement](../c/complement.md) [technical analysis](../t/technical_analysis.md).
+The effectiveness of the 5-3-5 wave pattern is also rooted in the principles of [behavioral finance](../b/behavioral_finance.md). Investors’ collective actions, driven by fear, greed, and other emotions, typically form the waves observed in [Elliott Wave Theory](../e/elliott_wave_theory.md). Therefore, analyzing [market sentiment](../m/market_sentiment.md) through tools like the CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX) or [social media](../s/social_media.md) [sentiment analysis](../s/sentiment_analysis.md) can [complement](../c/complement.md) [technical analysis](../t/technical_analysis.md).
 
 #### Useful Resources and Tools
 

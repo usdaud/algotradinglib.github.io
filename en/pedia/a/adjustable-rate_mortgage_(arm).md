@@ -1,6 +1,6 @@
 # Adjustable-Rate Mortgage (ARM)
 
-An adjustable-rate [mortgage](../m/mortgage.md) (ARM) is a type of [home](../h/home.md) [loan](../l/loan.md) where the [interest rate](../i/interest_rate.md) applied on the outstanding balance varies throughout the life of the [loan](../l/loan.md). This contrasts with a [fixed-rate mortgage](../f/fixed-rate_mortgage.md), where the [interest rate](../i/interest_rate.md) remains constant over the [loan](../l/loan.md) term. ARMs are characterized by an [interest rate](../i/interest_rate.md) that changes periodically—typically in relation to an [index](../i/index.md)—and payments that may go up or down accordingly. Because of this [variability](../v/variability.md), ARMs carry both potential benefits and risks for borrowers.
+An adjustable-rate [mortgage](../m/mortgage.md) (ARM) is a type of [home](../h/home.md) [loan](../l/loan.md) where the [interest rate](../i/interest_rate.md) applied on the outstanding balance varies throughout the life of the [loan](../l/loan.md). This contrasts with a [fixed-rate mortgage](../f/fixed-rate_mortgage.md), where the [interest rate](../i/interest_rate.md) remains constant over the [loan](../l/loan.md) term. ARMs are characterized by an [interest rate](../i/interest_rate.md) that changes periodically—typically in relation to an [index](../i/index_instrument.md)—and payments that may go up or down accordingly. Because of this [variability](../v/variability.md), ARMs carry both potential benefits and risks for borrowers.
 
 ## How Adjustable-Rate Mortgages Work
 
@@ -11,13 +11,13 @@ ARMs usually begin with an initial period during which the [interest rate](../i/
 After the initial fixed-rate period, the ARM enters the adjustment period. During this time, the [interest rate](../i/interest_rate.md) can change at regular intervals, such as every month, every six months, every year, or another specified period, depending on the [loan](../l/loan.md) terms. The adjustment period [will](../w/will.md) continue until the [loan](../l/loan.md) is paid off, sold, or refinanced.
 
 ### Index and Margin
-The new [interest rate](../i/interest_rate.md) during the adjustment period is determined by adding a [margin](../m/margin.md) to an [index](../i/index.md) rate. Common indices used for ARMs include:
+The new [interest rate](../i/interest_rate.md) during the adjustment period is determined by adding a [margin](../m/margin.md) to an [index](../i/index_instrument.md) rate. Common indices used for ARMs include:
 - **LIBOR (London Interbank Offered Rate)**
-- **COFI (Cost of Funds [Index](../i/index.md))**
+- **COFI (Cost of Funds [Index](../i/index_instrument.md))**
 - **CMT (Constant [Maturity](../m/maturity.md) Treasury)**
 - **SOFR (Secured Overnight [Financing](../f/financing.md) Rate)**
 
-The [margin](../m/margin.md) is a percentage added to the [index](../i/index.md) rate, which remains fixed for the life of the [loan](../l/loan.md).
+The [margin](../m/margin.md) is a percentage added to the [index](../i/index_instrument.md) rate, which remains fixed for the life of the [loan](../l/loan.md).
 
 ### Rate Caps
 Rate caps limit how much the [interest rate](../i/interest_rate.md) can change at any adjustment. Typical caps include:

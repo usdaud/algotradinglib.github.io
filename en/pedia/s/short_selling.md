@@ -40,7 +40,7 @@ However, if the price of XYZ Corp rises to $120 per share, the [investor](../i/i
 
 ### Hedging
 
-Short selling is often used as a hedging tool by investors to protect against potential losses in other investments. For example, if an [investor](../i/investor.md) holds a large portfolio of [stocks](../s/stock.md), they might short sell a correlated [index](../i/index.md) to mitigate the impact of [market](../m/market.md) downturns.
+Short selling is often used as a hedging tool by investors to protect against potential losses in other investments. For example, if an [investor](../i/investor.md) holds a large portfolio of [stocks](../s/stock.md), they might short sell a correlated [index](../i/index_instrument.md) to mitigate the impact of [market](../m/market.md) downturns.
 
 ### Speculation
 
@@ -140,7 +140,7 @@ Successful short selling requires a deep understanding of the [market](../m/mark
 
 Short sellers often use [technical analysis](../t/technical_analysis.md) to identify potential shorting opportunities. Key tools include:
 
-- **[Technical Indicators](../t/technical_indicators.md)**: Moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) can signal potential reversals or [overbought](../o/overbought.md) conditions.
+- **[Technical Indicators](../t/technical_indicators.md)**: Moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) can signal potential reversals or [overbought](../o/overbought.md) conditions.
 
 - **[Chart Patterns](../c/chart_patterns.md)**: Patterns such as head and shoulders, double tops, and bearish flags can indicate a potential price decline.
 

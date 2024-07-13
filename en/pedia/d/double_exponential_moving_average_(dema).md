@@ -93,7 +93,7 @@ The period length chosen for DEMA calculation significantly impacts its responsi
 
 While DEMA itself is a potent tool, its effectiveness can be enhanced by combining it with other [technical indicators](../t/technical_indicator.md). For example:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Can help confirm [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions indicated by DEMA.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Can help confirm [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions indicated by DEMA.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD):** Can provide additional confirmation for [trend](../t/trend.md) strength and direction.
 - **[Volume Indicators](../v/volume_indicators.md):** Can validate the strength of a [trend](../t/trend.md) by analyzing trading [volume](../v/volume.md) in conjunction with DEMA signals.
 

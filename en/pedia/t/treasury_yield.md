@@ -14,7 +14,7 @@ Treasury yields represent the [annualized rate of return](../a/annualized_rate_o
 
 3. **Treasury Bonds (T-Bonds):** These are long-term securities with maturities greater than ten years, up to 30 years. Like T-Notes, they pay semi-annual [interest](../i/interest.md) and [return](../r/return.md) the [principal](../p/principal.md) at [maturity](../m/maturity.md).
 
-4. **Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS):** These bonds are designed to protect investors from [inflation](../i/inflation.md). The [principal](../p/principal.md) [value](../v/value.md) of TIPS adjusts based on changes in the Consumer Price [Index](../i/index.md) (CPI), and they pay [interest](../i/interest.md) every six months on the adjusted [principal](../p/principal.md).
+4. **Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS):** These bonds are designed to protect investors from [inflation](../i/inflation.md). The [principal](../p/principal.md) [value](../v/value.md) of TIPS adjusts based on changes in the Consumer Price [Index](../i/index_instrument.md) (CPI), and they pay [interest](../i/interest.md) every six months on the adjusted [principal](../p/principal.md).
 
 ## How Treasury Yields are Determined
 

@@ -46,7 +46,7 @@ Total [fund](../f/fund.md) costs include management fees, administrative fees, o
 
 #### Real-World Examples and Company Applications
 
-- **Vanguard Group ([Vanguard](https://investor.vanguard.com))** is renowned for its low-cost [index](../i/index.md) funds and ETFs. Vanguard's emphasis on low [expense](../e/expense.md) ratios has made it a favorite among cost-conscious investors.
+- **Vanguard Group ([Vanguard](https://investor.vanguard.com))** is renowned for its low-cost [index](../i/index_instrument.md) funds and ETFs. Vanguard's emphasis on low [expense](../e/expense.md) ratios has made it a favorite among cost-conscious investors.
 
 - **BlackRock ([BlackRock](https://www.blackrock.com))**, through its [iShares](../i/ishares.md) [product line](../p/product_line.md), offers a wide array of ETFs, many of which have competitively low [expense](../e/expense.md) ratios, appealing to both retail and institutional investors.
 

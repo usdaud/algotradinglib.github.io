@@ -20,7 +20,7 @@ The Tankan survey, conducted by the [Bank](../b/bank.md) of Japan, is a quarterl
 
 ### Key Aspects:
 - **Short-term Economic Outlook**: Sums up [business](../b/business.md) conditions and future expectations.
-- **Diffusion [Index](../i/index.md) (DI)**: Calculated by subtracting the percentage of companies reporting unfavorable conditions from those reporting favorable conditions.
+- **Diffusion [Index](../i/index_instrument.md) (DI)**: Calculated by subtracting the percentage of companies reporting unfavorable conditions from those reporting favorable conditions.
 
 ### Importance in Japan:
 The Tankan Survey is a critical [indicator](../i/indicator.md) of the [business](../b/business.md) climate in Japan. It's closely watched by the [Bank](../b/bank.md) of Japan when setting [monetary policy](../m/monetary_policy.md) and by investors to gauge the economic environment.
@@ -43,7 +43,7 @@ Japan's [unemployment rate](../u/unemployment_rate.md) reveals the health of its
 The [inflation](../i/inflation.md) rate measures the rate at which the general level of prices for goods and services is rising, thereby eroding [purchasing power](../p/purchasing_power.md).
 
 ### Key Aspects:
-- **Consumer Price [Index](../i/index.md) (CPI)**: Measures changes in the [price level](../p/price_level.md) of a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services.
+- **Consumer Price [Index](../i/index_instrument.md) (CPI)**: Measures changes in the [price level](../p/price_level.md) of a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services.
 - **Core [Inflation](../i/inflation.md)**: Excludes certain items that face volatile price movement, typically food and energy.
 
 ### Importance in Japan:
@@ -68,7 +68,7 @@ Japan's current [account balance](../a/account_balance.md) is significant due to
 Industrial production measures the output of the industrial sector of the [economy](../e/economy.md), which includes [mining](../m/mining.md), [manufacturing](../m/manufacturing.md), and utilities.
 
 ### Key Aspects:
-- **Production [Index](../i/index.md)**: Tracks the real output of factories, mines, and utilities.
+- **Production [Index](../i/index_instrument.md)**: Tracks the real output of factories, mines, and utilities.
 - **Capacity Utilization**: Proportion of potential economic output that is actually realized.
 
 ### Importance in Japan:

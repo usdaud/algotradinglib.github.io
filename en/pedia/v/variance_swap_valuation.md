@@ -1,6 +1,6 @@
 # Variance Swap Valuation
 
-Variance swaps are one of the most popular [derivative](../d/derivative.md) instruments in modern [quantitative finance](../q/quantitative_finance.md), particularly in the domain of [volatility](../v/volatility.md) trading. They enable traders to take positions based on the anticipated variance (or [volatility](../v/volatility.md)) of an [underlying asset](../u/underlying_asset.md) such as a stock [index](../i/index.md), [commodity](../c/commodity.md), or [currency](../c/currency.md) pair. Understanding and valuing these instruments requires a deep dive into financial theory, mathematical modeling, and practical pricing strategies. This article provides an in-depth examination of [variance swap](../v/variance_swap.md) [valuation](../v/valuation.md) from the ground up, covering key concepts, mathematical formulations, [market](../m/market.md) practices, and computational techniques.
+Variance swaps are one of the most popular [derivative](../d/derivative.md) instruments in modern [quantitative finance](../q/quantitative_finance.md), particularly in the domain of [volatility](../v/volatility.md) trading. They enable traders to take positions based on the anticipated variance (or [volatility](../v/volatility.md)) of an [underlying asset](../u/underlying_asset.md) such as a stock [index](../i/index_instrument.md), [commodity](../c/commodity.md), or [currency](../c/currency.md) pair. Understanding and valuing these instruments requires a deep dive into financial theory, mathematical modeling, and practical pricing strategies. This article provides an in-depth examination of [variance swap](../v/variance_swap.md) [valuation](../v/valuation.md) from the ground up, covering key concepts, mathematical formulations, [market](../m/market.md) practices, and computational techniques.
 
 ## What is a Variance Swap?
 
@@ -8,7 +8,7 @@ A [variance swap](../v/variance_swap.md) is a financial [derivative](../d/deriva
 
 ### Key Characteristics
 
-1. **[Underlying Asset](../u/underlying_asset.md)**: This could be an [equity](../e/equity.md) [index](../i/index.md), single stock, [exchange rate](../e/exchange_rate.md), or [commodity](../c/commodity.md) price.
+1. **[Underlying Asset](../u/underlying_asset.md)**: This could be an [equity](../e/equity.md) [index](../i/index_instrument.md), single stock, [exchange rate](../e/exchange_rate.md), or [commodity](../c/commodity.md) price.
 2. **Variance Strike**: The agreed-upon variance level at the inception of the [swap](../s/swap.md).
 3. **Realized Variance**: The actual variance of the [underlying asset](../u/underlying_asset.md)’s returns over the life of the [swap](../s/swap.md).
 4. **[Payout](../p/payout.md)**: The [payout](../p/payout.md) at [maturity](../m/maturity.md) is typically the difference between the realized variance and the variance strike, multiplied by a notional amount.
@@ -72,7 +72,7 @@ Traders might use variance swaps to speculate on future changes in [market](../m
 
 ## Example of Variance Swap Valuation
 
-Consider an [investor](../i/investor.md) looking to enter a [variance swap](../v/variance_swap.md) on the S&P 500 [index](../i/index.md) with a 1-year [maturity](../m/maturity.md):
+Consider an [investor](../i/investor.md) looking to enter a [variance swap](../v/variance_swap.md) on the S&P 500 [index](../i/index_instrument.md) with a 1-year [maturity](../m/maturity.md):
 
 1. **Step 1**: Collect historical price data for the S&P 500 and calculate log returns.
 2. **Step 2**: Compute historical realized variance to establish a [benchmark](../b/benchmark.md).

@@ -4,7 +4,7 @@
 Variance swaps are financial [derivatives](../d/derivatives.md) that allow investors to [trade](../t/trade.md) future realized (or historical) [volatility](../v/volatility.md) against current implied [volatility](../v/volatility.md). A [variance swap](../v/variance_swap.md)'s payoff depends on the difference between the variance of the returns of the [underlying asset](../u/underlying_asset.md) and a pre-agreed variance level known as the strike.
 
 ## Understanding Variance Swaps
-A [variance swap](../v/variance_swap.md) is a [forward contract](../f/forward_contract.md) on the annualized variance of returns of an [asset](../a/asset.md), such as an [index](../i/index.md) or a stock. Variance swaps provide a more direct way for investors to [trade](../t/trade.md) [volatility](../v/volatility.md) than conventional [options](../o/options.md). 
+A [variance swap](../v/variance_swap.md) is a [forward contract](../f/forward_contract.md) on the annualized variance of returns of an [asset](../a/asset.md), such as an [index](../i/index_instrument.md) or a stock. Variance swaps provide a more direct way for investors to [trade](../t/trade.md) [volatility](../v/volatility.md) than conventional [options](../o/options.md). 
 
 ### Key Terms
 - **Variance (Var(X))**: Variance is a statistical measurement of the spread between numbers in a data set. It measures how far each number in the set is from the mean.

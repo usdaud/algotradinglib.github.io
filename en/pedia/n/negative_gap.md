@@ -85,7 +85,7 @@ With the rise of [artificial intelligence](../a/artificial_intelligence_in_tradi
 ## Case Studies
 
 ### **1. Tesla (TSLA)**
-In September 2020, Tesla's stock experienced a significant negative gap after the company announced a $5 billion [capital](../c/capital.md) raise and inclusion in the S&P 500 [Index](../i/index.md) was delayed. The stock opened significantly lower, reflecting [investor](../i/investor.md) reaction to the news.
+In September 2020, Tesla's stock experienced a significant negative gap after the company announced a $5 billion [capital](../c/capital.md) raise and inclusion in the S&P 500 [Index](../i/index_instrument.md) was delayed. The stock opened significantly lower, reflecting [investor](../i/investor.md) reaction to the news.
 
 ### **2. Facebook (now Meta Platforms, Inc.)**
 In July 2018, Facebook's stock gapped down by nearly 20% after the company issued a warning about slower growth and rising costs during an [earnings report](../e/earnings_report.md). This negative gap highlighted the importance of [earnings](../e/earnings.md) forecasts in stock price movements.

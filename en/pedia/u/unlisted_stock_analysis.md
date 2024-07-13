@@ -45,7 +45,7 @@ Unlisted [stock analysis](../s/stock_analysis.md) refers to the detailed examina
 **[Technical Analysis](../t/technical_analysis.md)** focuses on statistical analysis of price movement and trading [volume](../v/volume.md). It involves:
 
 1. **Price Charts**: Studying historical price charts to identify trends and patterns.
-2. **Indicators**: Utilizing [technical indicators](../t/technical_indicators.md) like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) to predict future price movements.
+2. **Indicators**: Utilizing [technical indicators](../t/technical_indicators.md) like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) to predict future price movements.
 3. **Trading [Volume](../v/volume.md)**: Investigating the [volume](../v/volume.md) of trades to gauge the strength of price movements.
 
 ### Quantitative Analysis

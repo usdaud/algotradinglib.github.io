@@ -24,7 +24,7 @@ Identifying [upside](../u/upside.md) [market](../m/market.md) potential in [algo
 #### Tools for Technical Analysis
 
 - **Moving Averages**: Identify long-term trends by smoothing out price data.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Bollinger Bands](../b/bollinger_bands.md)**: Provide a [range](../r/range.md) within which a [security](../s/security.md)'s price is likely to [trade](../t/trade.md).
 
 ### Sentiment Analysis
@@ -43,7 +43,7 @@ Identifying [upside](../u/upside.md) [market](../m/market.md) potential in [algo
 
 #### Types of Market Indicators
 
-- **[Leading Indicators](../l/leading_indicators.md)**: Predict future [market](../m/market.md) movements, e.g., Consumer Confidence [Index](../i/index.md).
+- **[Leading Indicators](../l/leading_indicators.md)**: Predict future [market](../m/market.md) movements, e.g., Consumer Confidence [Index](../i/index_instrument.md).
 - **[Lagging Indicators](../l/lagging_indicators.md)**: Follow [market](../m/market.md) trends, confirming what has already occurred, e.g., [Unemployment Rate](../u/unemployment_rate.md).
 - **Coincident Indicators**: Move concurrently with the [market](../m/market.md)'s overall direction, e.g., Gross Domestic Product (GDP).
 

@@ -49,7 +49,7 @@ Some 401(k) plans allow for mega back-door Roth contributions. This involves mak
 After-tax contributions, particularly to Roth accounts, can also play a vital role in [estate planning](../e/estate_planning.md). Beneficiaries inheriting Roth accounts can receive [tax-free](../t/tax_free.md) [income](../i/income.md), which can be a favorable [estate planning](../e/estate_planning.md) tool.
 
 ### Investment Choices
-When it comes to investment accounts funded with after-tax contributions like brokerage accounts, tax-efficient [fund](../f/fund.md) selection is critical. [Index](../i/index.md) funds and ETFs, which generally have lower [turnover](../t/turnover.md) and thus generate fewer taxable events, are often considered more tax-efficient.
+When it comes to investment accounts funded with after-tax contributions like brokerage accounts, tax-efficient [fund](../f/fund.md) selection is critical. [Index](../i/index_instrument.md) funds and ETFs, which generally have lower [turnover](../t/turnover.md) and thus generate fewer taxable events, are often considered more tax-efficient.
 
 ## Taxes and After-Tax Contributions
 

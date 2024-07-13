@@ -6,7 +6,7 @@
 
 ## Understanding Volatility
 
-[Volatility](../v/volatility.md) is a statistical measure of the [dispersion](../d/dispersion.md) of returns for a given [security](../s/security.md) or [market index](../m/market_index.md). Typically, the higher the [volatility](../v/volatility.md), the riskier the [security](../s/security.md). In the context of the [NASDAQ](../n/nasdaq.md), [market](../m/market.md) [volatility](../v/volatility.md) indicates how much the [NASDAQ](../n/nasdaq.md)-100 [index](../i/index.md) price is likely to differ from its current [value](../v/value.md) in the [near term](../n/near_term.md). Higher [volatility](../v/volatility.md) suggests prices could rise or fall significantly, presenting greater potential for [profit](../p/profit.md) or loss.
+[Volatility](../v/volatility.md) is a statistical measure of the [dispersion](../d/dispersion.md) of returns for a given [security](../s/security.md) or [market index](../m/market_index.md). Typically, the higher the [volatility](../v/volatility.md), the riskier the [security](../s/security.md). In the context of the [NASDAQ](../n/nasdaq.md), [market](../m/market.md) [volatility](../v/volatility.md) indicates how much the [NASDAQ](../n/nasdaq.md)-100 [index](../i/index_instrument.md) price is likely to differ from its current [value](../v/value.md) in the [near term](../n/near_term.md). Higher [volatility](../v/volatility.md) suggests prices could rise or fall significantly, presenting greater potential for [profit](../p/profit.md) or loss.
 
 ### Measures of Volatility
 
@@ -14,7 +14,7 @@ Several metrics and methods are used to quantify [volatility](../v/volatility.md
 
 - **[Historical Volatility](../h/historical_volatility.md) (HV)**: The [standard deviation](../s/standard_deviation.md) of returns over a specified period, providing an empirical measure based on past price movements.
 - **Implied [Volatility](../v/volatility.md) (IV)**: Derived from the price of [options](../o/options.md), it reflects the [market](../m/market.md)'s expectation of future [volatility](../v/volatility.md).
-- **[Beta](../b/beta.md)**: Measures the sensitivity of a stock's [return](../r/return.md) relative to the overall [market](../m/market.md), often compared against a broad [index](../i/index.md) like the S&P 500 or [NASDAQ](../n/nasdaq.md)-100.
+- **[Beta](../b/beta.md)**: Measures the sensitivity of a stock's [return](../r/return.md) relative to the overall [market](../m/market.md), often compared against a broad [index](../i/index_instrument.md) like the S&P 500 or [NASDAQ](../n/nasdaq.md)-100.
 
 ## Instruments for NASDAQ Volatility Trading
 
@@ -28,7 +28,7 @@ Several metrics and methods are used to quantify [volatility](../v/volatility.md
 
 ### Futures and ETFs
 
-- **[Volatility](../v/volatility.md) [Futures](../f/futures.md)**: These are [futures contracts](../f/futures_contracts.md) on [volatility](../v/volatility.md) indices like the CBOE [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX). Though the VIX tracks [volatility](../v/volatility.md) for the S&P 500, there are ETFs and ETPs pegged to this [index](../i/index.md) that traders might use to [gain](../g/gain.md) exposure to [NASDAQ](../n/nasdaq.md) [volatility](../v/volatility.md).
+- **[Volatility](../v/volatility.md) [Futures](../f/futures.md)**: These are [futures contracts](../f/futures_contracts.md) on [volatility](../v/volatility.md) indices like the CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX). Though the VIX tracks [volatility](../v/volatility.md) for the S&P 500, there are ETFs and ETPs pegged to this [index](../i/index_instrument.md) that traders might use to [gain](../g/gain.md) exposure to [NASDAQ](../n/nasdaq.md) [volatility](../v/volatility.md).
 - **[Volatility](../v/volatility.md) ETFs/ETNs**: [Exchange](../e/exchange.md)-Traded Funds (ETFs) and [Exchange](../e/exchange.md)-Traded Notes (ETNs) like ProShares' VIXY and UVXY provide direct access to [trade](../t/trade.md) [volatility](../v/volatility.md)-based products.
 
 ## Strategies in NASDAQ Volatility Trading

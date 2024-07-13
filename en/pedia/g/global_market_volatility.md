@@ -32,7 +32,7 @@ Financial crises, whether stemming from banking sector failures, [debt](../d/deb
 
 ### 2. Volatility Index (VIX)
 
-The VIX, or CBOE [Volatility](../v/volatility.md) [Index](../i/index.md), is a popular measure of implied [volatility](../v/volatility.md) based on S&P 500 [index options](../i/index_options.md). Often referred to as the "fear gauge," it reflects [market](../m/market.md) expectations for [volatility](../v/volatility.md) over the next 30 days.
+The VIX, or CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md), is a popular measure of implied [volatility](../v/volatility.md) based on S&P 500 [index options](../i/index_options.md). Often referred to as the "fear gauge," it reflects [market](../m/market.md) expectations for [volatility](../v/volatility.md) over the next 30 days.
 
 ### 3. Beta Coefficient
 
@@ -94,7 +94,7 @@ Goldman Sachs (https://www.goldmansachs.com) offers insights into [market](../m/
 
 ### 4. CBOE Global Markets
 
-CBOE Global Markets (https://www.cboe.com) is the creator of the VIX [Index](../i/index.md) and offers various [volatility](../v/volatility.md)-related financial products.
+CBOE Global Markets (https://www.cboe.com) is the creator of the VIX [Index](../i/index_instrument.md) and offers various [volatility](../v/volatility.md)-related financial products.
 
 ### 5. Bloomberg
 

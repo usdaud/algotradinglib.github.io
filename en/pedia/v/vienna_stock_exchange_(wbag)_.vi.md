@@ -19,9 +19,9 @@ Each segment is designed to cater to different types of investors and varying [r
 ## Market Indices
 
 The Vienna Stock [Exchange](../e/exchange.md) is known for several key indices that track the performance of [listed](../l/listed.md) securities:
-- **ATX (Austrian Traded [Index](../i/index.md))**: The premier [index](../i/index.md) that comprises the 20 largest and most traded [stocks](../s/stock.md).
+- **ATX (Austrian Traded [Index](../i/index_instrument.md))**: The premier [index](../i/index_instrument.md) that comprises the 20 largest and most traded [stocks](../s/stock.md).
 - **ATX Prime**: Encompasses a broader [range](../r/range.md) of companies and is used as a [benchmark](../b/benchmark.md).
-- **CECE [Index](../i/index.md)**: Tracks companies in Central, Eastern, and Southeastern Europe.
+- **CECE [Index](../i/index_instrument.md)**: Tracks companies in Central, Eastern, and Southeastern Europe.
 
 ## Trading Hours
 

@@ -11,7 +11,7 @@
 
 2. **[Trend Indicators](../t/trend_indicators.md)**:
     - **Moving Averages**: The simple moving average (SMA) and exponential moving average (EMA) are commonly used to smooth out price data and identify the direction of the [trend](../t/trend.md).
-    - **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements and can indicate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+    - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements and can indicate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
     - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: Shows the relationship between two moving averages of a [security](../s/security.md)’s price.
     - **Trendlines**: Straight lines drawn on price charts to connect historical price points, indicating the [trend](../t/trend.md) direction.
     - **[Bollinger Bands](../b/bollinger_bands.md)**: [Volatility](../v/volatility.md) bands placed above and below a moving average, showing the relative high and low of the price.

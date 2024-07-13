@@ -64,15 +64,15 @@ Although still in nascent stages, the SSE is expanding its [derivatives](../d/de
 
 ### SSE Composite Index
 
-The SSE Composite [Index](../i/index.md) is the most widely recognized [index](../i/index.md), representing all [listed](../l/listed.md) [stocks](../s/stock.md) on the SSE. It serves as a key [benchmark](../b/benchmark.md) for investors tracking the performance of the Shanghai [stock market](../s/stock_market.md).
+The SSE Composite [Index](../i/index_instrument.md) is the most widely recognized [index](../i/index_instrument.md), representing all [listed](../l/listed.md) [stocks](../s/stock.md) on the SSE. It serves as a key [benchmark](../b/benchmark.md) for investors tracking the performance of the Shanghai [stock market](../s/stock_market.md).
 
 ### SSE 50 Index
 
-The SSE 50 [Index](../i/index.md) includes the top 50 [stocks](../s/stock.md) by [market capitalization](../m/market_capitalization.md) and [liquidity](../l/liquidity.md), providing a snapshot of the performance of [large-cap stocks](../l/large_cap_stocks.md) on the [exchange](../e/exchange.md).
+The SSE 50 [Index](../i/index_instrument.md) includes the top 50 [stocks](../s/stock.md) by [market capitalization](../m/market_capitalization.md) and [liquidity](../l/liquidity.md), providing a snapshot of the performance of [large-cap stocks](../l/large_cap_stocks.md) on the [exchange](../e/exchange.md).
 
 ### STAR Market Indices
 
-The STAR [Market](../m/market.md) indices, such as the STAR 50 [Index](../i/index.md), focus on high-growth sectors, primarily technology and innovation-driven companies.
+The STAR [Market](../m/market.md) indices, such as the STAR 50 [Index](../i/index_instrument.md), focus on high-growth sectors, primarily technology and innovation-driven companies.
 
 ## Technological Infrastructure
 

@@ -10,7 +10,7 @@ A [fixed-rate mortgage](../f/fixed-rate_mortgage.md) maintains the same [interes
 
 ### Adjustable-Rate Mortgages (ARM)
 
-An adjustable-rate [mortgage](../m/mortgage.md) has an [interest rate](../i/interest_rate.md) that can change periodically based on changes in a corresponding financial [index](../i/index.md) that's associated with the [loan](../l/loan.md). Typically, the initial [interest rate](../i/interest_rate.md) is fixed for a period of time, after which it adjusts annually. An ARM might be expressed as a 5/1 ARM, meaning it has a fixed rate for five years and then adjusts annually thereafter.
+An adjustable-rate [mortgage](../m/mortgage.md) has an [interest rate](../i/interest_rate.md) that can change periodically based on changes in a corresponding financial [index](../i/index_instrument.md) that's associated with the [loan](../l/loan.md). Typically, the initial [interest rate](../i/interest_rate.md) is fixed for a period of time, after which it adjusts annually. An ARM might be expressed as a 5/1 ARM, meaning it has a fixed rate for five years and then adjusts annually thereafter.
 
 ### Interest-Only Mortgages
 

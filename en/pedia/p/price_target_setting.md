@@ -24,7 +24,7 @@ Setting price targets is also useful in validating [trading strategies](../t/tra
 - **[Trend](../t/trend.md) Lines**: Lines drawn to connect significant highs or lows to identify the direction of the [trend](../t/trend.md).
 - **[Support and Resistance](../s/support_and_resistance.md) Levels**: Horizontal lines indicating levels where the price has historically struggled to fall below (support) or rise above (resistance).
 - **Moving Averages**: Average price calculations over specified periods, used to smooth out price data and identify trends.
-- **Indicators and Oscillators**: Tools like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md) help traders analyze [market](../m/market.md) [momentum](../m/momentum.md) and [volatility](../v/volatility.md) to set precise price targets.
+- **Indicators and Oscillators**: Tools like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md) help traders analyze [market](../m/market.md) [momentum](../m/momentum.md) and [volatility](../v/volatility.md) to set precise price targets.
 
 ### Machine Learning Models
 With advancements in computing power, machine learning models have become increasingly popular for [price target](../p/price_target.md) setting in [algorithmic trading](../a/algorithmic_trading.md). These models can process vast amounts of data and identify complex patterns that traditional methods might miss. Common techniques include:

@@ -14,7 +14,7 @@ The Bollinger Band Squeeze strategy is designed to identify periods of low [vola
 
 1. **Identify a Squeeze**: Look for a period where the upper and lower [Bollinger Bands](../b/bollinger_bands.md) are converging or are closer together than usual.
 2. **Wait for a [Breakout](../b/breakout.md)**: Monitor the stock to identify a [breakout](../b/breakout.md). Breakouts occur when the price moves significantly above the upper band or below the lower band.
-3. **Confirm the Direction**: Use additional indicators (such as [volume](../v/volume.md), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), or Moving Average Convergence [Divergence](../d/divergence.md) (MACD)) to confirm the [breakout](../b/breakout.md) direction.
+3. **Confirm the Direction**: Use additional indicators (such as [volume](../v/volume.md), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), or Moving Average Convergence [Divergence](../d/divergence.md) (MACD)) to confirm the [breakout](../b/breakout.md) direction.
 4. **Enter the [Trade](../t/trade.md)**: Once confirmed, enter a long position if the [breakout](../b/breakout.md) is upward or a short position if the [breakout](../b/breakout.md) is downward.
 5. **Set Stop-Loss**: Set a [stop-loss order](../s/stop-loss_order.md) to minimize [risk](../r/risk.md). The stop-loss level can be placed at the middle Bollinger Band or just inside the opposite band.
 
@@ -64,7 +64,7 @@ The [Trend](../t/trend.md) [Trading strategy](../t/trading_strategy.md) with [Bo
 
 ### Overview
 
-Combining [Bollinger Bands](../b/bollinger_bands.md) with the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) can provide more reliable signals. The RSI measures the speed and change of price movements and is often used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+Combining [Bollinger Bands](../b/bollinger_bands.md) with the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) can provide more reliable signals. The RSI measures the speed and change of price movements and is often used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ### How to Implement
 

@@ -1,21 +1,21 @@
 # Hang Seng Index (HSI)
 
-The Hang Seng [Index](../i/index.md) (HSI) is a freefloat-adjusted [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) stock [market index](../m/market_index.md) in Hong Kong. It is the primary [indicator](../i/indicator.md) of the overall [market](../m/market.md) performance in the Hong Kong Stock [Exchange](../e/exchange.md) (HKEX). The HSI covers the largest and most [liquid](../l/liquid.md) companies [listed](../l/listed.md) in Hong Kong, representing the performance of these industries: [Commerce](../c/commerce.md) and [Industry](../i/industry.md), [Finance](../f/finance.md), Utilities, and Properties.
+The Hang Seng [Index](../i/index_instrument.md) (HSI) is a freefloat-adjusted [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) stock [market index](../m/market_index.md) in Hong Kong. It is the primary [indicator](../i/indicator.md) of the overall [market](../m/market.md) performance in the Hong Kong Stock [Exchange](../e/exchange.md) (HKEX). The HSI covers the largest and most [liquid](../l/liquid.md) companies [listed](../l/listed.md) in Hong Kong, representing the performance of these industries: [Commerce](../c/commerce.md) and [Industry](../i/industry.md), [Finance](../f/finance.md), Utilities, and Properties.
 
 ## Historical Background
-The Hang Seng [Index](../i/index.md) was launched by the Hang Seng [Bank](../b/bank.md) on November 24, 1969, in [order](../o/order.md) to provide a yardstick of the Hong Kong [stock market](../s/stock_market.md)'s performance. The base [value](../v/value.md) of the [index](../i/index.md) was set at 100 points on July 31, 1964. Since its inception, the [index](../i/index.md) has been adjusted periodically to include additional [stocks](../s/stock.md) or to adjust for stock splits and consolidations.
+The Hang Seng [Index](../i/index_instrument.md) was launched by the Hang Seng [Bank](../b/bank.md) on November 24, 1969, in [order](../o/order.md) to provide a yardstick of the Hong Kong [stock market](../s/stock_market.md)'s performance. The base [value](../v/value.md) of the [index](../i/index_instrument.md) was set at 100 points on July 31, 1964. Since its inception, the [index](../i/index_instrument.md) has been adjusted periodically to include additional [stocks](../s/stock.md) or to adjust for stock splits and consolidations.
 
 ## Calculation Methodology
 The HSI employs a freefloat-adjusted [market capitalization](../m/market_capitalization.md) weighting strategy. This means it takes into account only the [shares](../s/shares.md) readily available in the [market](../m/market.md) (free [float](../f/float.md)), ignoring those held by corporate insiders. The calculation formula can be outlined as follows:
 
-**HSI = (Sum of Adjusted [Market](../m/market.md) Cap of Constituent [Stocks](../s/stock.md) / Base [Market Capitalization](../m/market_capitalization.md)) x Base [Index](../i/index.md) [Value](../v/value.md)**
+**HSI = (Sum of Adjusted [Market](../m/market.md) Cap of Constituent [Stocks](../s/stock.md) / Base [Market Capitalization](../m/market_capitalization.md)) x Base [Index](../i/index_instrument.md) [Value](../v/value.md)**
 
 Where:
 - Adjusted [Market](../m/market.md) Cap is computed by multiplying the Share Price by the Freefloat-Adjusted Number of [Shares](../s/shares.md).
-- The Base [Market Capitalization](../m/market_capitalization.md) and Base [Index](../i/index.md) [Value](../v/value.md) are constants that were set when the [index](../i/index.md) was launched.
+- The Base [Market Capitalization](../m/market_capitalization.md) and Base [Index](../i/index_instrument.md) [Value](../v/value.md) are constants that were set when the [index](../i/index_instrument.md) was launched.
 
 ## Constituents and Weighting
-As of the latest revision, the Hang Seng [Index](../i/index.md) comprises 66 constituent companies, reflecting around 58% of the total [market capitalization](../m/market_capitalization.md) on the Hong Kong Stock [Exchange](../e/exchange.md). The constituents are selected based on 
+As of the latest revision, the Hang Seng [Index](../i/index_instrument.md) comprises 66 constituent companies, reflecting around 58% of the total [market capitalization](../m/market_capitalization.md) on the Hong Kong Stock [Exchange](../e/exchange.md). The constituents are selected based on 
 - [Market capitalization](../m/market_capitalization.md),
 - Sector representation,
 - [Turnover](../t/turnover.md),
@@ -32,7 +32,7 @@ The HSI categorizes its constituents into four primary sectors:
 4. **Properties**: Includes [real estate](../r/real_estate.md) developers and investment trusts.
 
 ## Performance and Significance
-The HSI is regarded as the heartbeat of the Hong Kong [stock market](../s/stock_market.md) and a barometer of the economic health of Hong Kong Special Administrative Region. [Hedge](../h/hedge.md) funds, mutual funds, and individual investors all closely follow the [index](../i/index.md). Its performance can be impacted by local economic data, regional and global [market](../m/market.md) trends, regulatory changes, and geopolitical events.
+The HSI is regarded as the heartbeat of the Hong Kong [stock market](../s/stock_market.md) and a barometer of the economic health of Hong Kong Special Administrative Region. [Hedge](../h/hedge.md) funds, mutual funds, and individual investors all closely follow the [index](../i/index_instrument.md). Its performance can be impacted by local economic data, regional and global [market](../m/market.md) trends, regulatory changes, and geopolitical events.
 
 ## Trading and Derivatives
 Various financial products derive their [value](../v/value.md) from the HSI. These include:
@@ -49,4 +49,4 @@ The Hong Kong Exchanges and [Clearing](../c/clearing.md) Limited (HKEX) facilita
 - **2019 Protests and COVID-19 Pandemic**: Both events tested the resilience of the HSI with considerable fluctuations in [market](../m/market.md) performance.
 
 ## Conclusion
-The Hang Seng [Index](../i/index.md) serves as a vital [indicator](../i/indicator.md) and financial tool representing the Hong Kong [stock market](../s/stock_market.md). Its highly diversified and freefloat-adjusted nature provides a comprehensive snapshot of [market](../m/market.md) trends, making it indispensable for both local and international investors. Given its historical significance and role in the financial landscape, the HSI [will](../w/will.md) likely continue to be a focal point for [market](../m/market.md) analysis and [trading strategies](../t/trading_strategies.md).
+The Hang Seng [Index](../i/index_instrument.md) serves as a vital [indicator](../i/indicator.md) and financial tool representing the Hong Kong [stock market](../s/stock_market.md). Its highly diversified and freefloat-adjusted nature provides a comprehensive snapshot of [market](../m/market.md) trends, making it indispensable for both local and international investors. Given its historical significance and role in the financial landscape, the HSI [will](../w/will.md) likely continue to be a focal point for [market](../m/market.md) analysis and [trading strategies](../t/trading_strategies.md).

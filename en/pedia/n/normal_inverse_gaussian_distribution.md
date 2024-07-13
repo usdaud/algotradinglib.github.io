@@ -8,7 +8,7 @@ A random variable \(X\) is said to follow a Normal Inverse [Gaussian distributio
 
 \[ f(x; \[alpha](../a/alpha.md), \[beta](../b/beta.md), \[delta](../d/delta.md), \mu) = \frac{\[alpha](../a/alpha.md) \[delta](../d/delta.md) K_1(\[alpha](../a/alpha.md) \sqrt{\[delta](../d/delta.md)^2 + (x - \mu)^2})}{\pi \sqrt{\[delta](../d/delta.md)^2 + (x - \mu)^2}} \exp(\[delta](../d/delta.md) \sqrt{\[alpha](../a/alpha.md)^2 - \[beta](../b/beta.md)^2} + \[beta](../b/beta.md) (x - \mu)), \]
 
-where \( K_1 \) is the modified Bessel function of the second kind with an [index](../i/index.md) of 1, and the parameters \(\[alpha](../a/alpha.md), \[beta](../b/beta.md), \[delta](../d/delta.md), \mu \) must satisfy the condition \( \[alpha](../a/alpha.md) > |\[beta](../b/beta.md)| \).
+where \( K_1 \) is the modified Bessel function of the second kind with an [index](../i/index_instrument.md) of 1, and the parameters \(\[alpha](../a/alpha.md), \[beta](../b/beta.md), \[delta](../d/delta.md), \mu \) must satisfy the condition \( \[alpha](../a/alpha.md) > |\[beta](../b/beta.md)| \).
 
 - \( \[alpha](../a/alpha.md) \): Shape parameter that determines the steepness and [kurtosis](../k/kurtosis.md) of the [distribution](../d/distribution.md).
 - \( \[beta](../b/beta.md) \): Asymmetry parameter; when \( \[beta](../b/beta.md) = 0 \), the [distribution](../d/distribution.md) is symmetric.

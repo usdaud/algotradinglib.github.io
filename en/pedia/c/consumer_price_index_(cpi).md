@@ -1,6 +1,6 @@
 # Consumer Price Index (CPI)
 
-The Consumer Price [Index](../i/index.md) (CPI) is a crucial metric used to gauge [inflation](../i/inflation.md) and the overall health of an [economy](../e/economy.md). By measuring the average change in prices paid by consumers for a [basket of goods](../b/basket_of_goods.md) and services over time, the CPI provides valuable insights into the [purchasing power](../p/purchasing_power.md) of consumers and trends in [inflation](../i/inflation.md). This detailed exploration of the CPI [will](../w/will.md) cover its definition, history, methodology, uses, criticisms, and its implications for both macroeconomic policy and [personal finance](../p/personal_finance_in_trading.md).
+The Consumer Price [Index](../i/index_instrument.md) (CPI) is a crucial metric used to gauge [inflation](../i/inflation.md) and the overall health of an [economy](../e/economy.md). By measuring the average change in prices paid by consumers for a [basket of goods](../b/basket_of_goods.md) and services over time, the CPI provides valuable insights into the [purchasing power](../p/purchasing_power.md) of consumers and trends in [inflation](../i/inflation.md). This detailed exploration of the CPI [will](../w/will.md) cover its definition, history, methodology, uses, criticisms, and its implications for both macroeconomic policy and [personal finance](../p/personal_finance_in_trading.md).
 
 # Definition
 
@@ -8,7 +8,7 @@ The CPI is a statistical estimate constructed using the prices of a sample of re
 
 # History
 
-The concept of the CPI began in the late 19th century. The modern CPI was developed after World War I, with more sophisticated and standardized methods being adopted over time. The Bureau of Labor [Statistics](../s/statistics.md) (BLS) in the United States, for instance, has been publishing the CPI since 1919. This [index](../i/index.md) has evolved in methodology and [scope](../s/scope.md), adjusting for changes in consumer habits, technologies, and economic environments.
+The concept of the CPI began in the late 19th century. The modern CPI was developed after World War I, with more sophisticated and standardized methods being adopted over time. The Bureau of Labor [Statistics](../s/statistics.md) (BLS) in the United States, for instance, has been publishing the CPI since 1919. This [index](../i/index_instrument.md) has evolved in methodology and [scope](../s/scope.md), adjusting for changes in consumer habits, technologies, and economic environments.
 
 # Methodology
 
@@ -31,11 +31,11 @@ The data for the CPI is collected through surveys and direct price measurements 
 
 ## Weighting
 
-The items within the basket are assigned weights based on their relative importance in the typical consumer's spending. This weighting process ensures that more significant consumer expenses have a greater impact on the [index](../i/index.md). 
+The items within the basket are assigned weights based on their relative importance in the typical consumer's spending. This weighting process ensures that more significant consumer expenses have a greater impact on the [index](../i/index_instrument.md). 
 
 ## Calculating the Index
 
-The formula used for calculating the CPI typically involves the Laspeyres [index](../i/index.md) formula:
+The formula used for calculating the CPI typically involves the Laspeyres [index](../i/index_instrument.md) formula:
 
 \[ CPI = \left( \frac{\sum (P_{current} \times Q_{base})}{\sum (P_{base} \times Q_{base})} \right) \times 100 \]
 

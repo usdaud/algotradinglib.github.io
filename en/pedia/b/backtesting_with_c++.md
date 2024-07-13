@@ -116,10 +116,10 @@ double calculateSMA(const std::vector<double>& prices, int period) {
 // Signal Generation
 enum Signal { NONE, BUY, SELL };
 
-Signal generateSignal(const std::vector<double>& shortMA, const std::vector<double>& longMA, size_t [index](../i/index.md)) {
-    if (shortMA[[index](../i/index.md)] > longMA[[index](../i/index.md)] && shortMA[[index](../i/index.md) - 1] <= longMA[[index](../i/index.md) - 1])
+Signal generateSignal(const std::vector<double>& shortMA, const std::vector<double>& longMA, size_t [index](../i/index_instrument.md)) {
+    if (shortMA[[index](../i/index_instrument.md)] > longMA[[index](../i/index_instrument.md)] && shortMA[[index](../i/index_instrument.md) - 1] <= longMA[[index](../i/index_instrument.md) - 1])
         [return](../r/return.md) BUY;
-    if (shortMA[[index](../i/index.md)] < longMA[[index](../i/index.md)] && shortMA[[index](../i/index.md) - 1] >= longMA[[index](../i/index.md) - 1])
+    if (shortMA[[index](../i/index_instrument.md)] < longMA[[index](../i/index_instrument.md)] && shortMA[[index](../i/index_instrument.md) - 1] >= longMA[[index](../i/index_instrument.md) - 1])
         [return](../r/return.md) SELL;
     [return](../r/return.md) NONE;
 }

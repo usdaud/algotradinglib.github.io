@@ -28,7 +28,7 @@ Where:
 
 ## Real-World Application
 
-In practice, while the true [market](../m/market.md) portfolio is undefinable due to the vast array of global assets and their constant evolution, proxies like broad [stock market](../s/stock_market.md) indices (e.g., S&P 500, MSCI World [Index](../i/index.md)) are often used. These indices are [weighted](../w/weighted.md) by [market capitalization](../m/market_capitalization.md) and serve as close approximations.
+In practice, while the true [market](../m/market.md) portfolio is undefinable due to the vast array of global assets and their constant evolution, proxies like broad [stock market](../s/stock_market.md) indices (e.g., S&P 500, MSCI World [Index](../i/index_instrument.md)) are often used. These indices are [weighted](../w/weighted.md) by [market capitalization](../m/market_capitalization.md) and serve as close approximations.
 
 For example:
 - **S&P Dow Jones Indices**: [www.spglobal.com/spdji/en/](https://www.spglobal.com/spdji/en/)
@@ -42,7 +42,7 @@ The [market](../m/market.md) portfolio exemplifies perfect [diversification](../
 
 For portfolio managers, the [market](../m/market.md) portfolio serves as:
 1. **Benchmarking Tool**: Helps in measuring the performance of actively managed funds.
-2. **Guide for Passive Management**: Strategies like [index](../i/index.md) funds aim to replicate the performance of the [market](../m/market.md) portfolio.
+2. **Guide for Passive Management**: Strategies like [index](../i/index_instrument.md) funds aim to replicate the performance of the [market](../m/market.md) portfolio.
 
 ## Efficient Frontier and Market Portfolio
 

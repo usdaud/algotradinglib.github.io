@@ -40,7 +40,7 @@ To ensure the reliability of an X-Statistical model, it must be trained on histo
 
 #### Momentum Models
 
-[Momentum](../m/momentum.md) models [capitalize](../c/capitalize.md) on the concept that assets which have performed well in the past are likely to continue performing well in the short-term future. These models use indicators such as Moving Average Convergence [Divergence](../d/divergence.md) (MACD) and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) to capture trends and make trading decisions.
+[Momentum](../m/momentum.md) models [capitalize](../c/capitalize.md) on the concept that assets which have performed well in the past are likely to continue performing well in the short-term future. These models use indicators such as Moving Average Convergence [Divergence](../d/divergence.md) (MACD) and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) to capture trends and make trading decisions.
 
 #### Arbitrage Models
 

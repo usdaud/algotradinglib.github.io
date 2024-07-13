@@ -63,8 +63,8 @@ Some prominent companies [listed](../l/listed.md) on PNGX include:
 
 The [exchange](../e/exchange.md) tracks [market](../m/market.md) performance through [benchmark](../b/benchmark.md) indices. The primary indices include:
 
-1. **PNGX [Index](../i/index.md)**: Measures overall [market](../m/market.md) performance.
-2. **PNGX All-Share [Index](../i/index.md)**: Includes all [listed](../l/listed.md) companies.
+1. **PNGX [Index](../i/index_instrument.md)**: Measures overall [market](../m/market.md) performance.
+2. **PNGX All-Share [Index](../i/index_instrument.md)**: Includes all [listed](../l/listed.md) companies.
 
 ## Challenges and Opportunities
 

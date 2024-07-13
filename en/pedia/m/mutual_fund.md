@@ -12,7 +12,7 @@ Mutual funds cater to a wide array of [investor](../i/investor.md) objectives:
 - **Growth Funds:** Aim for [capital](../c/capital.md) appreciation by focusing on [stocks](../s/stock.md) with potential for growth.
 - **Balanced Funds:** Combine both [income](../i/income.md) and growth strategies to provide a balanced approach.
 - **Sector Funds:** Focus on specific sectors, such as technology or healthcare.
-- **[Index](../i/index.md) Funds:** Track specific indices like the S&P 500, providing broad [market exposure](../m/market_exposure.md).
+- **[Index](../i/index_instrument.md) Funds:** Track specific indices like the S&P 500, providing broad [market exposure](../m/market_exposure.md).
 
 ### Types of Mutual Funds
 
@@ -91,7 +91,7 @@ Mutual [fund](../f/fund.md) performance can be evaluated using various [risk met
 
 ## Example of Major Mutual Fund Companies
 
-1. **Vanguard Group:** Known for its [index](../i/index.md) funds and low-cost investment [options](../o/options.md). (https://www.vanguard.com)
+1. **Vanguard Group:** Known for its [index](../i/index_instrument.md) funds and low-cost investment [options](../o/options.md). (https://www.vanguard.com)
 2. **[Fidelity Investments](../f/fidelity_investments.md):** Offers a wide [range](../r/range.md) of funds and investment services. (https://www.fidelity.com)
 3. **T. Rowe Price:** Provides [active management](../a/active_management.md) solutions tailored to specific investment objectives. (https://www.troweprice.com)
 4. **BlackRock:** A leading global [asset management](../a/asset_management.md) [firm](../f/firm.md). (https://www.blackrock.com)

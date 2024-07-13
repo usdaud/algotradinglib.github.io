@@ -21,7 +21,7 @@ In this detailed exploration of economic conditions, we [will](../w/will.md) cov
 [Lagging indicators](../l/lagging_indicators.md) are metrics that change only after the [economy](../e/economy.md) has begun to follow a particular pattern or [trend](../t/trend.md). These include:
 
 1. **[Unemployment Rate](../u/unemployment_rate.md)**: Changes in employment levels tend only to become apparent after the [economy](../e/economy.md) has shifted.
-2. **Consumer Price [Index](../i/index.md) (CPI)**: The CPI measures changes in the [price level](../p/price_level.md) of a basket of [consumer goods](../c/consumer_goods.md) and services and reflects [inflation](../i/inflation.md) trends after they have started.
+2. **Consumer Price [Index](../i/index_instrument.md) (CPI)**: The CPI measures changes in the [price level](../p/price_level.md) of a basket of [consumer goods](../c/consumer_goods.md) and services and reflects [inflation](../i/inflation.md) trends after they have started.
 3. **Gross Domestic Product (GDP)**: GDP measures the total [value](../v/value.md) of all goods and services produced and usually changes following alterations in the [economic growth rate](../e/economic_growth_rate.md).
 
 ### Coincident Indicators

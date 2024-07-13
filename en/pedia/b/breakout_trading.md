@@ -44,7 +44,7 @@ Effective exit strategies are crucial for managing [risk](../r/risk.md) and real
 
 ### Classic Breakout Strategy
 
-The classic [breakout](../b/breakout.md) strategy involves identifying [key support and resistance levels](../k/key_support_and_resistance_levels.md) on a price chart and entering trades when the price breaks through these levels. Traders often use [technical indicators](../t/technical_indicators.md) such as moving averages, [Bollinger Bands](../b/bollinger_bands.md), or the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) to confirm breakouts and filter [false signals](../f/false_signals_in_trading.md).
+The classic [breakout](../b/breakout.md) strategy involves identifying [key support and resistance levels](../k/key_support_and_resistance_levels.md) on a price chart and entering trades when the price breaks through these levels. Traders often use [technical indicators](../t/technical_indicators.md) such as moving averages, [Bollinger Bands](../b/bollinger_bands.md), or the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) to confirm breakouts and filter [false signals](../f/false_signals_in_trading.md).
 
 ### Range Breakout Strategy
 

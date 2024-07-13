@@ -23,13 +23,13 @@ Rule-based systems can include stringent [risk management](../r/risk_management.
 ## Algorithm Types in Rule-Based Trading
 
 ### Trend-Following Algorithms
-[Trend](../t/trend.md)-following strategies aim to [capitalize](../c/capitalize.md) on the direction of [market](../m/market.md) trends. These algorithms use indicators like moving averages (MA), moving average convergence [divergence](../d/divergence.md) (MACD), and [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI) to determine the [trend](../t/trend.md)'s direction and strength.
+[Trend](../t/trend.md)-following strategies aim to [capitalize](../c/capitalize.md) on the direction of [market](../m/market.md) trends. These algorithms use indicators like moving averages (MA), moving average convergence [divergence](../d/divergence.md) (MACD), and [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI) to determine the [trend](../t/trend.md)'s direction and strength.
 
 ### Mean Reversion Algorithms
 [Mean reversion](../m/mean_reversion.md) strategies are based on the statistical assumption that prices [will](../w/will.md) revert to their mean over time. Algorithms might use [Bollinger Bands](../b/bollinger_bands.md) or [z-scores](../z/z-scores_in_trading.md) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, signaling when to enter or exit trades.
 
 ### Arbitrage Algorithms
-[Arbitrage](../a/arbitrage.md) strategies exploit price discrepancies of the same or related financial instruments across different markets or platforms. Types of [arbitrage](../a/arbitrage.md) include statistical [arbitrage](../a/arbitrage.md), [index](../i/index.md) [arbitrage](../a/arbitrage.md), and [currency](../c/currency.md) [arbitrage](../a/arbitrage.md).
+[Arbitrage](../a/arbitrage.md) strategies exploit price discrepancies of the same or related financial instruments across different markets or platforms. Types of [arbitrage](../a/arbitrage.md) include statistical [arbitrage](../a/arbitrage.md), [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md), and [currency](../c/currency.md) [arbitrage](../a/arbitrage.md).
 
 ### High-Frequency Trading (HFT)
 High-Frequency Trading is a sub-category of [algorithmic trading](../a/algorithmic_trading.md) where algorithms execute a large number of orders at extremely high speeds. HFT strategies can involve [multiple](../m/multiple.md) algorithms to [capitalize](../c/capitalize.md) on micro-[market](../m/market.md) movements.

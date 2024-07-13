@@ -34,7 +34,7 @@ Technical analysts use various indicators and oscillators to [gain](../g/gain.md
 - **Moving Averages**: Smooth out price data to help identify trends.
   - Simple Moving Average (SMA)
   - Exponential Moving Average (EMA)
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: Shows the relationship between two moving averages to indicate [momentum](../m/momentum.md).
 - **[Bollinger Bands](../b/bollinger_band.md)**: Use [standard deviation](../s/standard_deviation.md) to define upper and lower price [range](../r/range.md) limits.
 

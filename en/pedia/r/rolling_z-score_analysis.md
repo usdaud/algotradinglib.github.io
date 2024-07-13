@@ -173,7 +173,7 @@ account = api.get_account()
 print(account)
 
 # Execute trades based on signals
-for [index](../i/index.md), row in data.iterrows():
+for [index](../i/index_instrument.md), row in data.iterrows():
     if row['signal'] == 1:
         api.submit_order(
             symbol=symbol,

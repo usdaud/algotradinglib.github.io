@@ -12,7 +12,7 @@ False signals typically manifest when a trading [indicator](../i/indicator.md) s
 
 Several sources can generate false signals in trading:
 
-1. **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) may sometimes give false buy or sell signals, especially in volatile or consolidating markets.
+1. **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) may sometimes give false buy or sell signals, especially in volatile or consolidating markets.
 
 2. **[Market](../m/market.md) [Noise](../n/noise.md)**: Short-term price fluctuations and random [market](../m/market.md) movements can generate misleading signals that do not correlate with long-term trends.
 

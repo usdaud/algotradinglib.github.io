@@ -92,9 +92,9 @@ APARCH models, introduced by Ding, Granger, and Engle, allow for both asymmetry 
 
 ### Case Study 1: S&P 500 Volatility Forecasting
 
-Consider a case where a quant team develops a [trading strategy](../t/trading_strategy.md) based on [volatility](../v/volatility.md) forecasts of the S&P 500 [index](../i/index.md). They use a GARCH(1,1) model to estimate the daily [volatility](../v/volatility.md) and derive [trading signals](../t/trading_signals.md) based on deviations from a two-week rolling average. The strategy involves taking long positions when [volatility](../v/volatility.md) is expected to rise and short positions when it is expected to fall.
+Consider a case where a quant team develops a [trading strategy](../t/trading_strategy.md) based on [volatility](../v/volatility.md) forecasts of the S&P 500 [index](../i/index_instrument.md). They use a GARCH(1,1) model to estimate the daily [volatility](../v/volatility.md) and derive [trading signals](../t/trading_signals.md) based on deviations from a two-week rolling average. The strategy involves taking long positions when [volatility](../v/volatility.md) is expected to rise and short positions when it is expected to fall.
 
-In this scenario, the team uses historical S&P 500 [index](../i/index.md) prices to estimate the parameters of the GARCH(1,1) model. They then generate one-step-ahead [volatility](../v/volatility.md) forecasts and back-test the [trading strategy](../t/trading_strategy.md) to evaluate its performance. 
+In this scenario, the team uses historical S&P 500 [index](../i/index_instrument.md) prices to estimate the parameters of the GARCH(1,1) model. They then generate one-step-ahead [volatility](../v/volatility.md) forecasts and back-test the [trading strategy](../t/trading_strategy.md) to evaluate its performance. 
 
 ### Case Study 2: FX Market Risk Management
 

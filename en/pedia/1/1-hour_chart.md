@@ -45,7 +45,7 @@ Moving averages (MA) are commonly applied to 1-hour charts to smooth out price d
 
 Various [technical indicators](../t/technical_indicators.md) are used on 1-hour charts to provide additional insights and [trading signals](../t/trading_signals.md). Some popular indicators include:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the speed and change of price movements, indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements, indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: Shows the relationship between two moving averages, assisting in identifying [momentum](../m/momentum.md).
 - **[Bollinger Bands](../b/bollinger_bands.md)**: Consist of a moving average with upper and lower bands that help identify [volatility](../v/volatility.md) and potential [reversal](../r/reversal.md) points.
 

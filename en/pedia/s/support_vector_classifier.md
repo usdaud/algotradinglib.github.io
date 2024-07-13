@@ -75,7 +75,7 @@ The first step is to gather historical data from reliable sources such as financ
 
 ### Feature Engineering
 
-Feature engineering involves creating new variables that represent the essential patterns in the data. For trading, these features may include [technical indicators](../t/technical_indicators.md) like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Bollinger Bands](../b/bollinger_bands.md), and more.
+Feature engineering involves creating new variables that represent the essential patterns in the data. For trading, these features may include [technical indicators](../t/technical_indicators.md) like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Bollinger Bands](../b/bollinger_bands.md), and more.
 
 ### Model Training
 

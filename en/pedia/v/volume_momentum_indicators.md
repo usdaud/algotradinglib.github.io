@@ -37,7 +37,7 @@ A positive CMF [value](../v/value.md) indicates buying pressure, while a negativ
 
 ### 4. Money Flow Index (MFI)
 
-The [Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI) is a [volume](../v/volume.md)-[weighted](../w/weighted.md) version of the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI). It ranges from 0 to 100 and is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the [market](../m/market.md).
+The [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI) is a [volume](../v/volume.md)-[weighted](../w/weighted.md) version of the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI). It ranges from 0 to 100 and is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the [market](../m/market.md).
 
 ##### Calculation:
 \[ \text{MFI} = 100 - \left( \frac{100}{1 + \text{[Money Flow](../m/money_flow.md) Ratio}} \right) \]
@@ -55,16 +55,16 @@ A positive [value](../v/value.md) indicates increasing [volume](../v/volume.md),
 
 ### 6. Force Index (FI)
 
-The Force [Index](../i/index.md) (FI) is an [indicator](../i/indicator.md) that uses price and [volume](../v/volume.md) to assess the power behind a price movement.
+The Force [Index](../i/index_instrument.md) (FI) is an [indicator](../i/indicator.md) that uses price and [volume](../v/volume.md) to assess the power behind a price movement.
 
 ##### Calculation:
 \[ \text{Force Index} = \text{[Volume](../v/volume.md)} \times (\text{Close} - \text{Previous Close}) \]
 
-A positive Force [Index](../i/index.md) suggests buying pressure, while a negative Force [Index](../i/index.md) indicates selling pressure.
+A positive Force [Index](../i/index_instrument.md) suggests buying pressure, while a negative Force [Index](../i/index_instrument.md) indicates selling pressure.
 
 ### 7. Negative Volume Index (NVI) and Positive Volume Index (PVI)
 
-The Negative [Volume](../v/volume.md) [Index](../i/index.md) (NVI) and Positive [Volume](../v/volume.md) [Index](../i/index.md) (PVI) are indicators that focus on [volume](../v/volume.md) changes. NVI increases when [volume](../v/volume.md) decreases, while PVI increases when [volume](../v/volume.md) increases.
+The Negative [Volume](../v/volume.md) [Index](../i/index_instrument.md) (NVI) and Positive [Volume](../v/volume.md) [Index](../i/index_instrument.md) (PVI) are indicators that focus on [volume](../v/volume.md) changes. NVI increases when [volume](../v/volume.md) decreases, while PVI increases when [volume](../v/volume.md) increases.
 
 #### NVI Calculation:
 - If today's [volume](../v/volume.md) is less than the previous day's [volume](../v/volume.md):

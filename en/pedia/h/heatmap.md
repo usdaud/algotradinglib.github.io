@@ -67,7 +67,7 @@ data = {
     'Stock_B': [0.5, 0.6, 0.7, 0.5, 0.3],
     'Stock_C': [0.2, 0.3, 0.4, 0.9, 0.7]
 }
-df = pd.DataFrame(data, [index](../i/index.md)=['Day_1', 'Day_2', 'Day_3', 'Day_4', 'Day_5'])
+df = pd.DataFrame(data, [index](../i/index_instrument.md)=['Day_1', 'Day_2', 'Day_3', 'Day_4', 'Day_5'])
 
 # Render the heatmap
 sns.heatmap(df, annot=True, cmap='coolwarm')

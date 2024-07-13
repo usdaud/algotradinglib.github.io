@@ -52,7 +52,7 @@ The [secondary market](../s/secondary_market.md) is where investors buy and sell
 Municipal [bond](../b/bond.md) funds pool funds from many investors to purchase a diversified portfolio of [municipal bonds](../m/municipal_bonds.md). They provide [diversification](../d/diversification.md) and professional management.
 
 ### Exchange-Traded Funds (ETFs)
-Municipal [bond](../b/bond.md) ETFs are a type of [investment fund](../i/investment_fund.md) traded on stock exchanges, much like [stocks](../s/stock.md). They aim to track the performance of an [index](../i/index.md) composed of [municipal bonds](../m/municipal_bonds.md).
+Municipal [bond](../b/bond.md) ETFs are a type of [investment fund](../i/investment_fund.md) traded on stock exchanges, much like [stocks](../s/stock.md). They aim to track the performance of an [index](../i/index_instrument.md) composed of [municipal bonds](../m/municipal_bonds.md).
 
 ### Electronic Trading Platforms
 Electronic trading platforms allow for the more accessible trading of [municipal bonds](../m/municipal_bonds.md). These platforms increase [transparency](../t/transparency.md) and provide real-time pricing. Examples include:

@@ -14,7 +14,7 @@ The [unemployment rate](../u/unemployment_rate.md) is another crucial [economic 
 
 ### Inflation and Price Indices
 
-[Inflation](../i/inflation.md) represents the rate at which the general level of prices for goods and services is rising, subsequently eroding [purchasing power](../p/purchasing_power.md). Economists measure [inflation](../i/inflation.md) using various price indices, such as the Consumer Price [Index](../i/index.md) (CPI) and the Producer Price [Index](../i/index.md) (PPI). [Inflation](../i/inflation.md) is an important [factor](../f/factor.md) in macroeconomics because it affects the [cost of living](../c/cost_of_living.md), savings, investment returns, and policy decisions.
+[Inflation](../i/inflation.md) represents the rate at which the general level of prices for goods and services is rising, subsequently eroding [purchasing power](../p/purchasing_power.md). Economists measure [inflation](../i/inflation.md) using various price indices, such as the Consumer Price [Index](../i/index_instrument.md) (CPI) and the Producer Price [Index](../i/index_instrument.md) (PPI). [Inflation](../i/inflation.md) is an important [factor](../f/factor.md) in macroeconomics because it affects the [cost of living](../c/cost_of_living.md), savings, investment returns, and policy decisions.
 
 ### National Income
 

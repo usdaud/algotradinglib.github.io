@@ -18,7 +18,7 @@ Where:
 ### Importance
 
 1. **Performance Measurement**: For traders and investors, particularly those deploying algorithmic strategies, AAR provides a clear, straightforward metric to measure the effectiveness of an [investment strategy](../i/investment_strategy.md).
-2. **[Benchmark Comparison](../b/benchmark_comparison.md)**: AAR facilitates the comparison of an investment or [trading strategy](../t/trading_strategy.md)'s performance against [market](../m/market.md) benchmarks like the S&P 500 [index](../i/index.md). 
+2. **[Benchmark Comparison](../b/benchmark_comparison.md)**: AAR facilitates the comparison of an investment or [trading strategy](../t/trading_strategy.md)'s performance against [market](../m/market.md) benchmarks like the S&P 500 [index](../i/index_instrument.md). 
 3. **[Risk](../r/risk.md) Assessment**: By evaluating AAR in conjunction with other metrics such as [standard deviation](../s/standard_deviation.md) and [Sharpe Ratio](../s/sharpe_ratio.md), traders can better understand the [risk](../r/risk.md)-[return](../r/return.md) profile of their strategies.
 4. **Decision Making**: It aids in making informed investment decisions, whether to continue, alter, or discontinue a particular [trading strategy](../t/trading_strategy.md) or investment.
 

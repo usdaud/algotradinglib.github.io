@@ -22,7 +22,7 @@ Conversely, [alpha](../a/alpha.md) is the portion of the [return](../r/return.md
 
 The primary application of [Alpha](../a/alpha.md)-[Beta](../b/beta.md) Separation involves decomposing a portfolio’s returns into [alpha](../a/alpha.md) and [beta](../b/beta.md) components. This method provides a clear understanding of the gains attributable to [market](../m/market.md) movements versus those achieved through [active management](../a/active_management.md). Algorithmic strategies can be tailored to either component:
 
-- **[Beta](../b/beta.md)-Focused Strategies**: These aim to capture broad [market](../m/market.md) returns efficiently. [Index](../i/index.md) funds and ETFs are typical [beta](../b/beta.md)-focused instruments.
+- **[Beta](../b/beta.md)-Focused Strategies**: These aim to capture broad [market](../m/market.md) returns efficiently. [Index](../i/index_instrument.md) funds and ETFs are typical [beta](../b/beta.md)-focused instruments.
 - **[Alpha](../a/alpha.md)-Focused Strategies**: These seek returns independent of [market](../m/market.md) movements through techniques such as [market timing](../m/market_timing.md), [security selection](../s/security_selection.md), or [arbitrage](../a/arbitrage.md).
 
 #### 2. Improved Risk Management

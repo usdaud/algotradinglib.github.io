@@ -64,7 +64,7 @@ For a two-sample [Z-test](../z/z-test_in_trading.md), the formula is slightly ad
 
 ### Strategy Validation
 
-Algorithmic traders use Z-tests to validate their [trading strategies](../t/trading_strategies.md) by comparing the returns of their algorithm against a [benchmark](../b/benchmark.md). For example, if a [trader](../t/trader.md) wants to ascertain whether their new high-frequency trading (HFT) algorithm produces significantly higher returns than the S&P 500 [index](../i/index.md), they can use a one-sample [Z-test](../z/z-test_in_trading.md).
+Algorithmic traders use Z-tests to validate their [trading strategies](../t/trading_strategies.md) by comparing the returns of their algorithm against a [benchmark](../b/benchmark.md). For example, if a [trader](../t/trader.md) wants to ascertain whether their new high-frequency trading (HFT) algorithm produces significantly higher returns than the S&P 500 [index](../i/index_instrument.md), they can use a one-sample [Z-test](../z/z-test_in_trading.md).
 
 ### Market Efficiency Testing
 

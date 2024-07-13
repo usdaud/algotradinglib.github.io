@@ -1,22 +1,22 @@
 # Index Construction
 
-[Index](../i/index.md) construction is a foundational element in [financial markets](../f/financial_market.md), serving as a tool for measuring [market](../m/market.md) performance, creating investment products like ETFs ([Exchange](../e/exchange.md)-Traded Funds), and benchmarking [portfolio management](../p/portfolio_management.md). Indices can be constructed for a variety of [asset](../a/asset.md) classes, including equities, [fixed income](../f/fixed_income.md), commodities, and even [derivatives](../d/derivatives.md). This in-depth guide explores the principles and methodologies behind [index](../i/index.md) construction.
+[Index](../i/index_instrument.md) construction is a foundational element in [financial markets](../f/financial_market.md), serving as a tool for measuring [market](../m/market.md) performance, creating investment products like ETFs ([Exchange](../e/exchange.md)-Traded Funds), and benchmarking [portfolio management](../p/portfolio_management.md). Indices can be constructed for a variety of [asset](../a/asset.md) classes, including equities, [fixed income](../f/fixed_income.md), commodities, and even [derivatives](../d/derivatives.md). This in-depth guide explores the principles and methodologies behind [index](../i/index_instrument.md) construction.
 
 ## Introduction to Index Construction
 
-An [index](../i/index.md) is a statistical measure that incorporates the performance of a group of assets, intended to represent a specific segment of a financial [market](../m/market.md). The purpose of an [index](../i/index.md) can include anything from tracking the [market](../m/market.md) as a whole to measuring the performance of specific sectors, regions, or investment strategies.
+An [index](../i/index_instrument.md) is a statistical measure that incorporates the performance of a group of assets, intended to represent a specific segment of a financial [market](../m/market.md). The purpose of an [index](../i/index_instrument.md) can include anything from tracking the [market](../m/market.md) as a whole to measuring the performance of specific sectors, regions, or investment strategies.
 
 ### Key Types of Indices
 
 1. **Broad [Market](../m/market.md) Indices**: These indices aim to represent the entire [market](../m/market.md) rather than a specific subset. Examples include the S&P 500, which represents large-cap U.S. [stocks](../s/stock.md), and the Russell 3000, which includes a broader [range](../r/range.md) of U.S. [stocks](../s/stock.md).
    
-2. **[Sector Indices](../s/sector_indices.md)**: These indices focus on specific sectors or industries like technology, healthcare, or utilities. Examples include the [NASDAQ](../n/nasdaq.md)-100 [Technology Sector](../t/technology_sector.md) [Index](../i/index.md) and the S&P 500 Financials [Index](../i/index.md).
+2. **[Sector Indices](../s/sector_indices.md)**: These indices focus on specific sectors or industries like technology, healthcare, or utilities. Examples include the [NASDAQ](../n/nasdaq.md)-100 [Technology Sector](../t/technology_sector.md) [Index](../i/index_instrument.md) and the S&P 500 Financials [Index](../i/index_instrument.md).
    
-3. **Thematic Indices**: These focus on specific investment themes such as ESG (Environmental, Social, Governance), [blockchain](../b/blockchain_in_trading.md), or [artificial intelligence](../a/artificial_intelligence_in_trading.md). An example is the MSCI ACWI ESG Leaders [Index](../i/index.md).
+3. **Thematic Indices**: These focus on specific investment themes such as ESG (Environmental, Social, Governance), [blockchain](../b/blockchain_in_trading.md), or [artificial intelligence](../a/artificial_intelligence_in_trading.md). An example is the MSCI ACWI ESG Leaders [Index](../i/index_instrument.md).
 
-4. **Style Indices**: These indices separate [stocks](../s/stock.md) into categories like growth or [value](../v/value.md), based on specific stock characteristics. Examples are the Russell 1000 Growth [Index](../i/index.md) and the Russell 1000 [Value](../v/value.md) [Index](../i/index.md).
+4. **Style Indices**: These indices separate [stocks](../s/stock.md) into categories like growth or [value](../v/value.md), based on specific stock characteristics. Examples are the Russell 1000 Growth [Index](../i/index_instrument.md) and the Russell 1000 [Value](../v/value.md) [Index](../i/index_instrument.md).
 
-5. **[Fixed Income](../f/fixed_income.md) Indices**: These indices track the performance of bonds. Examples include the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index.md) and the J.P. Morgan Emerging Markets [Bond](../b/bond.md) [Index](../i/index.md).
+5. **[Fixed Income](../f/fixed_income.md) Indices**: These indices track the performance of bonds. Examples include the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md) and the J.P. Morgan Emerging Markets [Bond](../b/bond.md) [Index](../i/index_instrument.md).
 
 ## Construction Methodologies
 
@@ -24,42 +24,42 @@ Indices are constructed through explicit methodologies that can generally be cla
 
 ### Price-Weighted Indices
 
-In price-[weighted](../w/weighted.md) indices, each component stock contributes to the [index](../i/index.md) in proportion to its price per share. Hence, higher-priced [stocks](../s/stock.md) have a greater impact on the [index](../i/index.md)'s performance. The Dow Jones Industrial Average (DJIA) is a prominent example of a [price-weighted index](../p/price-weighted_index.md).
+In price-[weighted](../w/weighted.md) indices, each component stock contributes to the [index](../i/index_instrument.md) in proportion to its price per share. Hence, higher-priced [stocks](../s/stock.md) have a greater impact on the [index](../i/index_instrument.md)'s performance. The Dow Jones Industrial Average (DJIA) is a prominent example of a [price-weighted index](../p/price-weighted_index.md).
 
 1. **Advantages**: Easy to compute and understand.
-2. **Disadvantages**: High-priced [stocks](../s/stock.md) disproportionately impact the [index](../i/index.md), which might not accurately represent [market](../m/market.md) trends.
+2. **Disadvantages**: High-priced [stocks](../s/stock.md) disproportionately impact the [index](../i/index_instrument.md), which might not accurately represent [market](../m/market.md) trends.
 
 ### Market-Cap-Weighted Indices
 
-[Market](../m/market.md)-cap-[weighted](../w/weighted.md) indices consider the [market capitalization](../m/market_capitalization.md) of constituent companies. The larger the [market](../m/market.md) cap, the more weight it has in the [index](../i/index.md). The S&P 500 and the MSCI World [Index](../i/index.md) are both examples of [market](../m/market.md)-cap-[weighted](../w/weighted.md) indices.
+[Market](../m/market.md)-cap-[weighted](../w/weighted.md) indices consider the [market capitalization](../m/market_capitalization.md) of constituent companies. The larger the [market](../m/market.md) cap, the more weight it has in the [index](../i/index_instrument.md). The S&P 500 and the MSCI World [Index](../i/index_instrument.md) are both examples of [market](../m/market.md)-cap-[weighted](../w/weighted.md) indices.
 
 1. **Advantages**: More representative of the overall [market](../m/market.md), as it takes into account the size of companies.
-2. **Disadvantages**: Can be heavily influenced by the largest companies, potentially skewing the [index](../i/index.md).
+2. **Disadvantages**: Can be heavily influenced by the largest companies, potentially skewing the [index](../i/index_instrument.md).
 
 ### Equal-Weighted Indices
 
-In equal-[weighted](../w/weighted.md) indices, every stock has the same weight regardless of its [market](../m/market.md) cap or price. The S&P [Equal Weight](../e/equal_weight.md) [Index](../i/index.md), a variation of the S&P 500, is an example.
+In equal-[weighted](../w/weighted.md) indices, every stock has the same weight regardless of its [market](../m/market.md) cap or price. The S&P [Equal Weight](../e/equal_weight.md) [Index](../i/index_instrument.md), a variation of the S&P 500, is an example.
 
 1. **Advantages**: Minimal bias towards larger [stocks](../s/stock.md), potentially reflecting broader [market](../m/market.md) movements.
 2. **Disadvantages**: Requires frequent [rebalancing](../r/rebalancing.md), higher [transaction costs](../t/transaction_costs.md).
 
 ### Factor-Based Indices
 
-These indices select and weigh constituents based on one or more investment factors such as size, [value](../v/value.md), [momentum](../m/momentum.md), quality, or [volatility](../v/volatility.md). Examples include the MSCI USA [Momentum](../m/momentum.md) [Index](../i/index.md) and the [FTSE Russell](../f/ftse_russell.md) Quality [Factor](../f/factor.md) [Index](../i/index.md).
+These indices select and weigh constituents based on one or more investment factors such as size, [value](../v/value.md), [momentum](../m/momentum.md), quality, or [volatility](../v/volatility.md). Examples include the MSCI USA [Momentum](../m/momentum.md) [Index](../i/index_instrument.md) and the [FTSE Russell](../f/ftse_russell.md) Quality [Factor](../f/factor.md) [Index](../i/index_instrument.md).
 
 1. **Advantages**: Can deliver enhanced returns and reduced [risk](../r/risk.md) based on academic research.
 2. **Disadvantages**: More complex and may not always perform as expected in all [market](../m/market.md) conditions.
 
 ### Composite Indices
 
-Composite indices combine various types of assets or strategies. An example is the [Bloomberg](../b/bloomberg.md) [Commodity](../c/commodity.md) [Index](../i/index.md), which tracks the performance of [multiple](../m/multiple.md) [commodity futures](../c/commodity_futures.md) contracts.
+Composite indices combine various types of assets or strategies. An example is the [Bloomberg](../b/bloomberg.md) [Commodity](../c/commodity.md) [Index](../i/index_instrument.md), which tracks the performance of [multiple](../m/multiple.md) [commodity futures](../c/commodity_futures.md) contracts.
 
 1. **Advantages**: Diversified [risk](../r/risk.md) and exposure to [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
 2. **Disadvantages**: Complexity in construction and maintenance.
 
 ## Selection of Constituents
 
-The selection of constituents is critical to constructing a meaningful [index](../i/index.md). The process involves qualitative and quantitative criteria.
+The selection of constituents is critical to constructing a meaningful [index](../i/index_instrument.md). The process involves qualitative and quantitative criteria.
 
 ### Qualitative Criteria
 
@@ -79,7 +79,7 @@ Indices are not static and require regular [rebalancing](../r/rebalancing.md) to
 
 ### Frequency of Rebalancing
 
-[Rebalancing](../r/rebalancing.md) can occur on a monthly, quarterly, or annual [basis](../b/basis.md). The frequency depends on the type of [index](../i/index.md) and its specific methodology.
+[Rebalancing](../r/rebalancing.md) can occur on a monthly, quarterly, or annual [basis](../b/basis.md). The frequency depends on the type of [index](../i/index_instrument.md) and its specific methodology.
 
 1. **Monthly [Rebalancing](../r/rebalancing.md)**: Common in high-[turnover strategies](../t/turnover_strategies.md), like equal-[weighted](../w/weighted.md) indices.
 2. **Quarterly and Annual [Rebalancing](../r/rebalancing.md)**: More common in broad [market](../m/market.md) indices and [factor](../f/factor.md)-based indices.
@@ -88,7 +88,7 @@ Indices are not static and require regular [rebalancing](../r/rebalancing.md) to
 
 1. **Review of Constituents**: Determine whether current constituents meet the criteria.
 2. **Additions and Deletions**: Add new constituents that meet the criteria, and remove those that no longer qualify.
-3. **Weight Adjustments**: Adjust weights as per the [index](../i/index.md) methodology.
+3. **Weight Adjustments**: Adjust weights as per the [index](../i/index_instrument.md) methodology.
 
 ## Index Governance
 
@@ -100,7 +100,7 @@ Most major indices have oversight committees consisting of [market](../m/market.
 
 ### Transparency and Documentation
 
-1. **[Index](../i/index.md) Methodology Guides**: Detailed documents explaining the construction and maintenance of the [index](../i/index.md).
+1. **[Index](../i/index_instrument.md) Methodology Guides**: Detailed documents explaining the construction and maintenance of the [index](../i/index_instrument.md).
 2. **Public Announcements**: [Rebalancing](../r/rebalancing.md) announcements and methodology changes are usually made publicly available.
 
 ## Practical Applications of Indices
@@ -113,7 +113,7 @@ Investment managers frequently use indices as benchmarks to measure the performa
 
 ### Creation of Investment Products
 
-ETFs, mutual funds, and [index](../i/index.md) funds often aim to replicate the performance of an [index](../i/index.md). Examples include the SPDR S&P 500 ETF (tracking the S&P 500) and the [iShares](../i/ishares.md) MSCI Emerging Markets ETF (tracking the MSCI Emerging Markets [Index](../i/index.md)).
+ETFs, mutual funds, and [index](../i/index_instrument.md) funds often aim to replicate the performance of an [index](../i/index_instrument.md). Examples include the SPDR S&P 500 ETF (tracking the S&P 500) and the [iShares](../i/ishares.md) MSCI Emerging Markets ETF (tracking the MSCI Emerging Markets [Index](../i/index_instrument.md)).
 
 Links to some major companies utilizing indices:
 - [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/)
@@ -124,7 +124,7 @@ Links to some major companies utilizing indices:
 
 ### Derivatives and Structured Products
 
-Indices are also the [underlying](../u/underlying.md) assets for a variety of [derivative](../d/derivative.md) contracts, including [futures](../f/futures.md), [options](../o/options.md), and swaps. Structured products like [index](../i/index.md)-linked notes also use indices as benchmarks.
+Indices are also the [underlying](../u/underlying.md) assets for a variety of [derivative](../d/derivative.md) contracts, including [futures](../f/futures.md), [options](../o/options.md), and swaps. Structured products like [index](../i/index_instrument.md)-linked notes also use indices as benchmarks.
 
 ### Research and Analysis
 
@@ -132,4 +132,4 @@ Indices provide valuable data for financial research and analysis. Scholars and 
 
 ## Conclusion
 
-[Index](../i/index.md) construction is a meticulous process that plays a vital role in [financial markets](../f/financial_market.md). From selecting the right methodology and criteria for constituent selection to regular [rebalancing](../r/rebalancing.md) and governance, several factors influence an [index](../i/index.md)'s effectiveness and reliability. Through its various applications, including benchmarking, creation of investment products, and research, indices serve as indispensable tools for investors, [fund](../f/fund.md) managers, and analysts globally.
+[Index](../i/index_instrument.md) construction is a meticulous process that plays a vital role in [financial markets](../f/financial_market.md). From selecting the right methodology and criteria for constituent selection to regular [rebalancing](../r/rebalancing.md) and governance, several factors influence an [index](../i/index_instrument.md)'s effectiveness and reliability. Through its various applications, including benchmarking, creation of investment products, and research, indices serve as indispensable tools for investors, [fund](../f/fund.md) managers, and analysts globally.

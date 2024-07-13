@@ -48,7 +48,7 @@ Window analysis is critical in trading for several reasons:
 2. **[Bollinger Bands](../b/bollinger_bands.md)**:
     [Bollinger Bands](../b/bollinger_bands.md) consist of a moving average and two [standard deviation](../s/standard_deviation.md) lines plotted above and below it. They help identify price [volatility](../v/volatility.md) and potential trading opportunities within different windows.
 
-3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**:
+3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**:
     RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions within various time windows.
 
 4. **MACD (Moving Average Convergence [Divergence](../d/divergence.md))**:

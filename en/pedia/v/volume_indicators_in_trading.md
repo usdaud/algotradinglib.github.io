@@ -58,7 +58,7 @@ Developed by Marc Chaikin, the Chaikin [Money Flow](../m/money_flow.md) (CMF) me
 
 ## 5. Money Flow Index (MFI)
 
-The [Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI) is a [volume](../v/volume.md)-[weighted](../w/weighted.md) version of the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), combining price and [volume](../v/volume.md) data. It ranges from 0 to 100 and is termed as a [momentum](../m/momentum.md) [indicator](../i/indicator.md).
+The [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI) is a [volume](../v/volume.md)-[weighted](../w/weighted.md) version of the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), combining price and [volume](../v/volume.md) data. It ranges from 0 to 100 and is termed as a [momentum](../m/momentum.md) [indicator](../i/indicator.md).
 
 ### Calculation:
 \[ \text{Typical Price (TP)} = \frac{(\text{High} + \text{Low} + \text{Close})}{3} \]
@@ -73,7 +73,7 @@ The [Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI) is a [volume](
 
 ## 6. Negative Volume Index (NVI)
 
-The Negative [Volume](../v/volume.md) [Index](../i/index.md) (NVI) focuses on days when [volume](../v/volume.md) decreases from the previous day to indicate what [smart money](../s/smart_money.md) is doing. It's based on the idea that [smart money](../s/smart_money.md) is active on low-[volume](../v/volume.md) days.
+The Negative [Volume](../v/volume.md) [Index](../i/index_instrument.md) (NVI) focuses on days when [volume](../v/volume.md) decreases from the previous day to indicate what [smart money](../s/smart_money.md) is doing. It's based on the idea that [smart money](../s/smart_money.md) is active on low-[volume](../v/volume.md) days.
 
 ### Calculation:
 The NVI is calculated with adjustments only on days when the [volume](../v/volume.md) drops from the previous day:
@@ -89,7 +89,7 @@ The NVI is calculated with adjustments only on days when the [volume](../v/volum
 
 ## 7. Positive Volume Index (PVI)
 
-The Positive [Volume](../v/volume.md) [Index](../i/index.md) (PVI) is the counterpart to the Negative [Volume](../v/volume.md) [Index](../i/index.md), focusing on days with increased [volume](../v/volume.md). It represents the behavior of retail investors who are thought to be more active on high-[volume](../v/volume.md) days.
+The Positive [Volume](../v/volume.md) [Index](../i/index_instrument.md) (PVI) is the counterpart to the Negative [Volume](../v/volume.md) [Index](../i/index_instrument.md), focusing on days with increased [volume](../v/volume.md). It represents the behavior of retail investors who are thought to be more active on high-[volume](../v/volume.md) days.
 
 ### Calculation:
 The PVI adjust only on days when the [volume](../v/volume.md) increases:

@@ -34,7 +34,7 @@
 
 ## Derivatives
 
-[Derivatives](../d/derivatives.md) are financial contracts whose [value](../v/value.md) is derived from an [underlying asset](../u/underlying_asset.md), [index](../i/index.md), or rate. Common [underlying](../u/underlying.md) instruments include [stocks](../s/stock.md), bonds, commodities, currencies, [interest](../i/interest.md) rates, and [market](../m/market.md) indexes.
+[Derivatives](../d/derivatives.md) are financial contracts whose [value](../v/value.md) is derived from an [underlying asset](../u/underlying_asset.md), [index](../i/index_instrument.md), or rate. Common [underlying](../u/underlying.md) instruments include [stocks](../s/stock.md), bonds, commodities, currencies, [interest](../i/interest.md) rates, and [market](../m/market.md) indexes.
 
 ### Types of Derivatives
 

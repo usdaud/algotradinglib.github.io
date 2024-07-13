@@ -91,7 +91,7 @@ These are debt instruments with variable [interest](../i/interest.md) rates that
 
 ### Inflation-Linked Bonds
 
-These bonds provide protection against [inflation](../i/inflation.md). The [principal](../p/principal.md) and [interest](../i/interest.md) payments adjust based on an [inflation](../i/inflation.md) [index](../i/index.md) (e.g., Consumer Price [Index](../i/index.md) - CPI). Examples include Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) in the U.S.
+These bonds provide protection against [inflation](../i/inflation.md). The [principal](../p/principal.md) and [interest](../i/interest.md) payments adjust based on an [inflation](../i/inflation.md) [index](../i/index_instrument.md) (e.g., Consumer Price [Index](../i/index_instrument.md) - CPI). Examples include Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) in the U.S.
 
 ## Risks Associated with Debt
 

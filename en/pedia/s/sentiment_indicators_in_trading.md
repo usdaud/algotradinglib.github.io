@@ -29,7 +29,7 @@ In [financial markets](../f/financial_market.md), [sentiment indicators](../s/se
 
 ### Volatility Index (VIX)
 
-1. **VIX:** Known as the "fear gauge," the [Volatility](../v/volatility.md) [Index](../i/index.md) measures [market](../m/market.md) [volatility](../v/volatility.md) and is often inversely correlated with the [market](../m/market.md)'s performance.
+1. **VIX:** Known as the "fear gauge," the [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) measures [market](../m/market.md) [volatility](../v/volatility.md) and is often inversely correlated with the [market](../m/market.md)'s performance.
 
 ### Social Media Sentiment
 
@@ -67,19 +67,19 @@ Website: [AAII Sentiment Survey](https://www.aaii.com/sentimentsurvey)
 
 ### CNN Fear & Greed Index
 
-The Fear & Greed [Index](../i/index.md) by CNN [Business](../b/business.md) is designed to measure the primary emotions driving the [market](../m/market.md). It tracks seven different factors including the stock [price momentum](../p/price_momentum.md), stock price strength, stock price breadth, [market](../m/market.md) [volatility](../v/volatility.md), [safe haven](../s/safe_haven.md) [demand](../d/demand.md), [junk bond](../j/junk_bond.md) [demand](../d/demand.md), and [market](../m/market.md) [momentum](../m/momentum.md).
+The Fear & Greed [Index](../i/index_instrument.md) by CNN [Business](../b/business.md) is designed to measure the primary emotions driving the [market](../m/market.md). It tracks seven different factors including the stock [price momentum](../p/price_momentum.md), stock price strength, stock price breadth, [market](../m/market.md) [volatility](../v/volatility.md), [safe haven](../s/safe_haven.md) [demand](../d/demand.md), [junk bond](../j/junk_bond.md) [demand](../d/demand.md), and [market](../m/market.md) [momentum](../m/momentum.md).
 
 Website: [CNN Fear & Greed Index](https://money.cnn.com/data/fear-and-greed/)
 
 ### Investors Intelligence Sentiment Index
 
-Investors Intelligence analyzes over 100 investment newsletters to produce a sentiment [index](../i/index.md). This report categorizes the newsletters as bullish, bearish, or calling for a [correction](../c/correction.md), [offering](../o/offering.md) a snapshot of the prevailing sentiment among [market](../m/market.md) analysts.
+Investors Intelligence analyzes over 100 investment newsletters to produce a sentiment [index](../i/index_instrument.md). This report categorizes the newsletters as bullish, bearish, or calling for a [correction](../c/correction.md), [offering](../o/offering.md) a snapshot of the prevailing sentiment among [market](../m/market.md) analysts.
 
 Website: [Investors Intelligence](https://www.investorsintelligence.com/x/us_advisors_sentiment.html)
 
 ### NAAIM Exposure Index
 
-The National Association of Active Investment Managers (NAAIM) Exposure [Index](../i/index.md) represents the average exposure to US [equity](../e/equity.md) markets reported by its members. It provides a gauge of the sentiment among professional active [asset](../a/asset.md) managers.
+The National Association of Active Investment Managers (NAAIM) Exposure [Index](../i/index_instrument.md) represents the average exposure to US [equity](../e/equity.md) markets reported by its members. It provides a gauge of the sentiment among professional active [asset](../a/asset.md) managers.
 
 Website: [NAAIM Exposure Index](https://www.naaim.org/programs/naaim-exposure-index/)
 

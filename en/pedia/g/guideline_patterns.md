@@ -32,11 +32,11 @@ def mean_reversion_strategy(prices, window):
 [Momentum trading](../m/momentum_trading.md) is a strategy that capitalizes on the continuance of existing [market](../m/market.md) trends. Traders who use this strategy believe that strong price movements in a particular direction are likely to continue in that same direction for some time.
 
 ### Implementation
-[Momentum](../m/momentum.md) strategies often involve indicators such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or simple moving averages (SMA).
+[Momentum](../m/momentum.md) strategies often involve indicators such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or simple moving averages (SMA).
 
 ```python
 def momentum_strategy(prices, short_window, long_window):
-    signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
+    signals = pd.DataFrame([index](../i/index_instrument.md)=prices.[index](../i/index_instrument.md))
     signals['signal'] = 0.0
 
     signals['short_mavg'] = prices.rolling(window=short_window, min_periods=1).mean()

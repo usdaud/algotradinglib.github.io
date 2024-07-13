@@ -1,6 +1,6 @@
 # Absolute Return
 
-Absolute [return](../r/return.md) is a financial term referring to the [gain](../g/gain.md) or loss that an [asset](../a/asset.md) or portfolio achieves over a given period, expressed in terms of its percentage [return](../r/return.md). Unlike relative [return](../r/return.md), which measures performance relative to a [benchmark](../b/benchmark.md) or [index](../i/index.md), absolute [return](../r/return.md) focuses solely on the individual performance of the investment itself.
+Absolute [return](../r/return.md) is a financial term referring to the [gain](../g/gain.md) or loss that an [asset](../a/asset.md) or portfolio achieves over a given period, expressed in terms of its percentage [return](../r/return.md). Unlike relative [return](../r/return.md), which measures performance relative to a [benchmark](../b/benchmark.md) or [index](../i/index_instrument.md), absolute [return](../r/return.md) focuses solely on the individual performance of the investment itself.
 
 ## Concept and Importance
 

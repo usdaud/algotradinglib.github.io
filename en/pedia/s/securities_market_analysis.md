@@ -31,7 +31,7 @@ The [foreign exchange](../f/foreign_exchange.md) (forex) [market](../m/market.md
 
 #### Tools and Indicators in Technical Analysis
 - **Moving Averages**: A technique that smooths price data to identify trends by averaging a particular number of past data points.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: An [oscillator](../o/oscillator.md) that measures the speed and change of price movements to indicate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: An [oscillator](../o/oscillator.md) that measures the speed and change of price movements to indicate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Chart Patterns](../c/chart_patterns.md)**: Visual patterns on price charts that are believed to predict future price movements, such as head and shoulders, triangles, and double tops/bottoms.
 
 ### Quantitative Analysis
@@ -47,7 +47,7 @@ The [foreign exchange](../f/foreign_exchange.md) (forex) [market](../m/market.md
 High-Frequency Trading involves executing orders at incredibly high speeds using advanced computer algorithms. These trades can be executed in milliseconds or microseconds. It leverages small price discrepancies across markets to generate profits.
 
 ### Arbitrage
-[Arbitrage](../a/arbitrage.md) strategies exploit price differences in different markets for the same [asset](../a/asset.md). Common forms of [arbitrage](../a/arbitrage.md) include statistical [arbitrage](../a/arbitrage.md), [index](../i/index.md) [arbitrage](../a/arbitrage.md), and [risk](../r/risk.md) [arbitrage](../a/arbitrage.md).
+[Arbitrage](../a/arbitrage.md) strategies exploit price differences in different markets for the same [asset](../a/asset.md). Common forms of [arbitrage](../a/arbitrage.md) include statistical [arbitrage](../a/arbitrage.md), [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md), and [risk](../r/risk.md) [arbitrage](../a/arbitrage.md).
 
 ### Momentum Trading
 [Momentum trading](../m/momentum_trading.md) strategies buy securities that have shown an upward price [trend](../t/trend.md) and sell those with a downward [trend](../t/trend.md). These strategies are based on the premise that trends are likely to continue for some time.

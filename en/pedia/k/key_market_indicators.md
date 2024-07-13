@@ -28,7 +28,7 @@ print(sma)  # Output: 155.0
 
 ## 2. Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It ranges from 0 to 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It ranges from 0 to 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 - **[Overbought](../o/overbought.md)**: RSI above 70
 - **[Oversold](../o/oversold.md)**: RSI below 30

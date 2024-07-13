@@ -46,7 +46,7 @@ Commodities such as gold and silver can serve as a [hedge](../h/hedge.md) agains
 [Carry trade](../c/carry_trade.md) involves borrowing funds in low-[interest](../i/interest.md)-rate currencies to invest in high-yielding assets. This strategy can be profitable in a [zero interest rate environment](../z/zero_interest_rate_environment.md) but carries [currency](../c/currency.md) [risk](../r/risk.md).
 
 #### Leveraged ETFs
-Leveraged [Exchange](../e/exchange.md)-Traded Funds (ETFs) use financial [derivatives](../d/derivatives.md) to amplify the returns of the [underlying](../u/underlying.md) [index](../i/index.md). While they [offer](../o/offer.md) potential for higher gains, [leveraged ETFs](../l/leveraged_etfs.md) also come with increased [volatility](../v/volatility.md) and [risk](../r/risk.md).
+Leveraged [Exchange](../e/exchange.md)-Traded Funds (ETFs) use financial [derivatives](../d/derivatives.md) to amplify the returns of the [underlying](../u/underlying.md) [index](../i/index_instrument.md). While they [offer](../o/offer.md) potential for higher gains, [leveraged ETFs](../l/leveraged_etfs.md) also come with increased [volatility](../v/volatility.md) and [risk](../r/risk.md).
 
 ### Derivatives
 #### Options

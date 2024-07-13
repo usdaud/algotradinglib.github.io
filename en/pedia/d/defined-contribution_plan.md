@@ -60,7 +60,7 @@ Defined-contribution plans are governed under the Employee Retirement [Income](.
 ## Leading Companies and Plan Providers
 
 ### Vanguard
-Vanguard is one of the largest providers of defined-contribution plans in the United States. They [offer](../o/offer.md) a [range](../r/range.md) of plans and investment [options](../o/options.md), with a strong emphasis on low-cost [index](../i/index.md) funds. [Vanguard](https://investor.vanguard.com/)
+Vanguard is one of the largest providers of defined-contribution plans in the United States. They [offer](../o/offer.md) a [range](../r/range.md) of plans and investment [options](../o/options.md), with a strong emphasis on low-cost [index](../i/index_instrument.md) funds. [Vanguard](https://investor.vanguard.com/)
 
 ### Fidelity Investments
 Fidelity is another major player in the retirement plan [market](../m/market.md), [offering](../o/offering.md) a suite of defined-contribution plan services, including 401(k), 403(b), and 457 plans. They provide a broad array of investment [options](../o/options.md) and [robust](../r/robust.md) [financial planning](../f/financial_planning.md) and advisory services. [Fidelity Investments](https://www.fidelity.com/)

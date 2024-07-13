@@ -32,7 +32,7 @@ Several [economic indicators](../e/economic_indicators.md) heavily influence the
 
 ### Inflation Rate
 
-Measured by the Consumer Price [Index](../i/index.md) (CPI), [inflation](../i/inflation.md) significantly affects [interest rate](../i/interest_rate.md) decisions. The BOJ targets an [inflation](../i/inflation.md) rate of 2%, a level it believes conducive to sustainable [economic growth](../e/economic_growth.md). Persistent [deflation](../d/deflation.md) or low [inflation](../i/inflation.md) typically prompts the BOJ to maintain or lower [interest](../i/interest.md) rates.
+Measured by the Consumer Price [Index](../i/index_instrument.md) (CPI), [inflation](../i/inflation.md) significantly affects [interest rate](../i/interest_rate.md) decisions. The BOJ targets an [inflation](../i/inflation.md) rate of 2%, a level it believes conducive to sustainable [economic growth](../e/economic_growth.md). Persistent [deflation](../d/deflation.md) or low [inflation](../i/inflation.md) typically prompts the BOJ to maintain or lower [interest](../i/interest.md) rates.
 
 ### Gross Domestic Product (GDP) Growth
 

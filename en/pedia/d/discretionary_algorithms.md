@@ -25,7 +25,7 @@ Discretionary algorithms [leverage](../l/leverage.md) various data sources and a
 ## Application and Strategy
 
 ### 1. Technical Analysis
-Traders using discretionary algorithms often rely heavily on [technical analysis](../t/technical_analysis.md), employing various [charting techniques](../c/charting_techniques.md) to identify potential trading opportunities. Indicators such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) are commonly used within these systems, although the final trading decisions are made by humans.
+Traders using discretionary algorithms often rely heavily on [technical analysis](../t/technical_analysis.md), employing various [charting techniques](../c/charting_techniques.md) to identify potential trading opportunities. Indicators such as moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) are commonly used within these systems, although the final trading decisions are made by humans.
 
 ### 2. Fundamental Analysis
 [Fundamental analysis](../f/fundamental_analysis.md) can also play a significant role in [discretionary trading](../d/discretionary_trading.md) strategies. Traders might use [earnings](../e/earnings.md) reports, [economic indicators](../e/economic_indicators.md), and other fundamental data points to inform their decisions. The combination of fundamental insights with algorithmic data processing enables a more holistic approach to [market](../m/market.md) analysis.

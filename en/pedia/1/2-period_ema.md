@@ -58,7 +58,7 @@ The 2-Period EMA is often used in conjunction with other EMAs or [technical indi
 Due to its sensitivity to recent price changes, the 2-Period EMA can also serve as a [momentum](../m/momentum.md) [indicator](../i/indicator.md). A steep slope in the EMA line indicates strong [momentum](../m/momentum.md) in the price movement, whereas a flatter slope suggests weaker [momentum](../m/momentum.md).
 
 ## Combining with Other Indicators
-To enhance its effectiveness, traders often combine the 2-Period EMA with other [technical indicators](../t/technical_indicators.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md).
+To enhance its effectiveness, traders often combine the 2-Period EMA with other [technical indicators](../t/technical_indicators.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md).
 
 ### Example Strategy: EMA Crossover
 An example of a strategy using the 2-Period EMA would be an EMA crossover strategy. Here’s how it might be implemented:

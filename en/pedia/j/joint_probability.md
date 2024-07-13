@@ -20,7 +20,7 @@ where \( P(B|A) \) is the [conditional probability](../c/conditional_probability
 
 ### Risk Management
 
-In the context of [risk management](../r/risk_management.md), [joint](../j/joint.md) probability helps in assessing the likelihood of different [risk](../r/risk.md) events happening at the same time. For example, a [trader](../t/trader.md) might be interested in the probability that a stock [index](../i/index.md) [will](../w/will.md) decline in [value](../v/value.md) while [interest](../i/interest.md) rates rise. By analyzing the [joint](../j/joint.md) probability, the [trader](../t/trader.md) can better prepare for scenarios that could impact their trading portfolio adversely.
+In the context of [risk management](../r/risk_management.md), [joint](../j/joint.md) probability helps in assessing the likelihood of different [risk](../r/risk.md) events happening at the same time. For example, a [trader](../t/trader.md) might be interested in the probability that a stock [index](../i/index_instrument.md) [will](../w/will.md) decline in [value](../v/value.md) while [interest](../i/interest.md) rates rise. By analyzing the [joint](../j/joint.md) probability, the [trader](../t/trader.md) can better prepare for scenarios that could impact their trading portfolio adversely.
 
 ### Portfolio Optimization
 

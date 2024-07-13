@@ -4,7 +4,7 @@ A short [straddle](../s/straddle.md) is an [options](../o/options.md) [trading s
 
 ## Components of a Short Straddle
 
-1. **[Underlying Asset](../u/underlying_asset.md)**: The financial [security](../s/security.md) or [commodity](../c/commodity.md) on which the [options](../o/options.md) are based. This could be a stock, an [index](../i/index.md), a [currency](../c/currency.md) pair, or any other tradeable instrument.
+1. **[Underlying Asset](../u/underlying_asset.md)**: The financial [security](../s/security.md) or [commodity](../c/commodity.md) on which the [options](../o/options.md) are based. This could be a stock, an [index](../i/index_instrument.md), a [currency](../c/currency.md) pair, or any other tradeable instrument.
 2. **[Call Option](../c/call_option.md)**: A financial contract that gives the buyer the right, but not the obligation, to purchase the [underlying asset](../u/underlying_asset.md) at a predefined [strike price](../s/strike_price.md) before or at the [expiration date](../e/expiration_date.md).
 3. **[Put Option](../p/put.md)**: A financial contract that gives the buyer the right, but not the obligation, to sell the [underlying asset](../u/underlying_asset.md) at a predefined [strike price](../s/strike_price.md) before or at the [expiration date](../e/expiration_date.md).
 4. **[Strike Price](../s/strike_price.md)**: The fixed price at which the call and [put options](../p/put_options.md) can be exercised.

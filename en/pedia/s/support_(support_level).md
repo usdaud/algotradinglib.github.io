@@ -20,7 +20,7 @@ A support level is a predetermined [price level](../p/price_level.md) where a [d
    Drawing trendlines can help traders visualize areas of support. A [trendline](../t/trendline.md) is drawn by connecting a series of higher lows in an [uptrend](../u/uptrend.md) or lower highs in a [downtrend](../d/downtrend.md). These lines serve as potential support areas.
 
 4. **[Technical Indicators](../t/technical_indicator.md)**:
-   Indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can be used to identify support by signaling [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+   Indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can be used to identify support by signaling [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 5. **[Volume](../v/volume.md)**:
    High trading [volume](../v/volume.md) at a particular [price level](../p/price_level.md) can indicate strong support. [Volume analysis](../v/volume_analysis.md) helps confirm the strength of a support level.

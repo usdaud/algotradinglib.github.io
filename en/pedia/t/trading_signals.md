@@ -10,7 +10,7 @@ Trading signals are indicators that suggest a good time to buy or sell a [securi
 
 ### Technical Analysis
 
-[Technical analysis](../t/technical_analysis.md) focuses on the historic price and [volume](../v/volume.md) data of a [security](../s/security.md). Various tools and indicators, such as moving averages, [Bollinger Bands](../b/bollinger_bands.md), and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), are employed to generate trading signals. For instance, a moving average crossover strategy generates buy or sell signals when a shorter-term moving average crosses above or below a longer-term moving average.
+[Technical analysis](../t/technical_analysis.md) focuses on the historic price and [volume](../v/volume.md) data of a [security](../s/security.md). Various tools and indicators, such as moving averages, [Bollinger Bands](../b/bollinger_bands.md), and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), are employed to generate trading signals. For instance, a moving average crossover strategy generates buy or sell signals when a shorter-term moving average crosses above or below a longer-term moving average.
 
 ### Fundamental Analysis
 
@@ -28,7 +28,7 @@ Trading signals are indicators that suggest a good time to buy or sell a [securi
 
 ### Momentum Signals
 
-[Momentum](../m/momentum.md) signals are based on the tendency of securities to exhibit persistence in their price trends. These signals are often generated using indicators like the Moving Average Convergence [Divergence](../d/divergence.md) (MACD) or [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI).
+[Momentum](../m/momentum.md) signals are based on the tendency of securities to exhibit persistence in their price trends. These signals are often generated using indicators like the Moving Average Convergence [Divergence](../d/divergence.md) (MACD) or [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI).
 
 ### Reversal Signals
 

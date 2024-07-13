@@ -11,7 +11,7 @@ Residual [volatility](../v/volatility.md) is a critical concept within the realm
 1. **[Historical Volatility](../h/historical_volatility.md) (HV)**: This measures the past price fluctuations of a [security](../s/security.md) over a specific time frame. It is calculated using [standard deviation](../s/standard_deviation.md) of past returns.
 2. **Implied [Volatility](../v/volatility.md) (IV)**: IV represents the [market](../m/market.md)'s forecast of a likely movement in a [security](../s/security.md)'s price, often derived from option prices.
 3. **[Realized Volatility](../r/realized_volatility.md) (RV)**: This is the actual [volatility](../v/volatility.md) of a [security](../s/security.md) over a given period, calculated using historical data.
-4. **Systematic [Volatility](../v/volatility.md)**: This is the portion of a [security](../s/security.md)'s total [volatility](../v/volatility.md) that is attributable to [market](../m/market.md)-wide factors, captured by the performance of a [benchmark](../b/benchmark.md) [index](../i/index.md).
+4. **Systematic [Volatility](../v/volatility.md)**: This is the portion of a [security](../s/security.md)'s total [volatility](../v/volatility.md) that is attributable to [market](../m/market.md)-wide factors, captured by the performance of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 5. **Idiosyncratic [Volatility](../v/volatility.md)**: This is the portion of a [security](../s/security.md)'s total [volatility](../v/volatility.md) that is unexplained by [market](../m/market.md)-wide factors and is unique to the individual [security](../s/security.md) itself.
 
 ### Defining Residual Volatility

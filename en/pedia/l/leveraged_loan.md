@@ -70,10 +70,10 @@ The leveraged [loan](../l/loan.md) [market](../m/market.md) is a crucial part of
 
 Several indices track the performance of the leveraged [loan](../l/loan.md) [market](../m/market.md), providing benchmarks for investors:
 
-1. **S&P/LSTA U.S. Leveraged [Loan](../l/loan.md) 100 [Index](../i/index.md)**: Tracks the largest and most [liquid](../l/liquid.md) leveraged loans in the U.S. [market](../m/market.md).
+1. **S&P/LSTA U.S. Leveraged [Loan](../l/loan.md) 100 [Index](../i/index_instrument.md)**: Tracks the largest and most [liquid](../l/liquid.md) leveraged loans in the U.S. [market](../m/market.md).
    - More information: [S&P Leveraged Loan Index](https://www.spglobal.com/spdji/en/indices/fixed-income/sp-lsta-us-leveraged-loan-100-index/)
 
-2. **[Credit](../c/credit.md) Suisse Leveraged [Loan](../l/loan.md) [Index](../i/index.md)**: A broad measure of the performance of the leveraged [loan](../l/loan.md) [market](../m/market.md).
+2. **[Credit](../c/credit.md) Suisse Leveraged [Loan](../l/loan.md) [Index](../i/index_instrument.md)**: A broad measure of the performance of the leveraged [loan](../l/loan.md) [market](../m/market.md).
    - More information: [Credit Suisse Leveraged Loan Index](https://www.credit-suisse.com)
 
 ## Regulatory Environment

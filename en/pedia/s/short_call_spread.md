@@ -26,7 +26,7 @@ The [Short Call](../s/short_call.md) Spread, also known as a [Bear Call Spread](
 
 To construct a [Short Call](../s/short_call.md) Spread, you need to follow these steps:
 
-1. **Select the [Underlying Asset](../u/underlying_asset.md):** This could be a stock, [index](../i/index.md), ETF, etc.
+1. **Select the [Underlying Asset](../u/underlying_asset.md):** This could be a stock, [index](../i/index_instrument.md), ETF, etc.
 2. **Choose the [Expiration Date](../e/expiration_date.md):** Select the [expiration date](../e/expiration_date.md) for the [options](../o/options.md).
 3. **Determine the Strike Prices:** Decide on the strike prices for the [short call](../s/short_call.md) (lower strike, K1) and the long call (higher strike, K2).
 4. **Sell a [Call Option](../c/call_option.md):** Sell a [call option](../c/call_option.md) with the lower [strike price](../s/strike_price.md) (K1).

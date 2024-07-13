@@ -24,7 +24,7 @@ This formula highlights the relationship between [nominal](../n/nominal.md) GNP,
 
 ### Comparison with Other Price Indices
 
-The GNP deflator is often compared with other price indices such as the Consumer Price [Index](../i/index.md) (CPI) and the Producer Price [Index](../i/index.md) (PPI). While the CPI measures the average change in prices paid by consumers for a [basket of goods](../b/basket_of_goods.md) and services, and the PPI tracks the average change in selling prices received by domestic producers for their output, the GNP deflator encompasses a broader [range](../r/range.md) of goods and services produced by the nation, including investment goods and government services.
+The GNP deflator is often compared with other price indices such as the Consumer Price [Index](../i/index_instrument.md) (CPI) and the Producer Price [Index](../i/index_instrument.md) (PPI). While the CPI measures the average change in prices paid by consumers for a [basket of goods](../b/basket_of_goods.md) and services, and the PPI tracks the average change in selling prices received by domestic producers for their output, the GNP deflator encompasses a broader [range](../r/range.md) of goods and services produced by the nation, including investment goods and government services.
 
 ### Calculation Example
 
@@ -51,7 +51,7 @@ While the GNP deflator is a valuable tool, it has some limitations:
 
 2. **Sector Coverage**: Although the GNP deflator includes a broad [range](../r/range.md) of goods and services, certain sectors may be underrepresented, leading to potential biases.
 
-3. **Price [Index](../i/index.md) Choice**: Different methods of calculating price indices can [yield](../y/yield.md) varying deflator values, complicating comparisons across countries or time periods.
+3. **Price [Index](../i/index_instrument.md) Choice**: Different methods of calculating price indices can [yield](../y/yield.md) varying deflator values, complicating comparisons across countries or time periods.
 
 ### Application in Gross Domestic Product (GDP)
 

@@ -1,6 +1,6 @@
 # Dow 30
 
-The Dow Jones Industrial Average (DJIA), often simply referred to as the "Dow," is one of the most well-known [stock market](../s/stock_market.md) indices in the world. It tracks 30 large, publicly-owned companies trading on the New York Stock [Exchange](../e/exchange.md) (NYSE) and the [NASDAQ](../n/nasdaq.md). The [index](../i/index.md) is widely used to gauge the overall health of the [stock market](../s/stock_market.md) and the [economy](../e/economy.md). Having a comprehensive understanding of the Dow 30 is critical for anyone interested in trading, especially [algorithmic trading](../a/accountability.md).
+The Dow Jones Industrial Average (DJIA), often simply referred to as the "Dow," is one of the most well-known [stock market](../s/stock_market.md) indices in the world. It tracks 30 large, publicly-owned companies trading on the New York Stock [Exchange](../e/exchange.md) (NYSE) and the [NASDAQ](../n/nasdaq.md). The [index](../i/index_instrument.md) is widely used to gauge the overall health of the [stock market](../s/stock_market.md) and the [economy](../e/economy.md). Having a comprehensive understanding of the Dow 30 is critical for anyone interested in trading, especially [algorithmic trading](../a/accountability.md).
 
 ## The Companies in the Dow 30
 
@@ -174,6 +174,6 @@ The historical data of Dow 30 companies is extensive and reliable, making these 
 
 ## Conclusion
 
-The Dow 30 represents the backbone of American [industry](../i/industry.md) and offers a diverse [range](../r/range.md) of opportunities for algorithmic traders. From technological giants like Apple and Microsoft to industrial behemoths like Boeing and Caterpillar, the breadth and depth of the companies within this [index](../i/index.md) make it an essential tool for anyone involved in trading or [investing](../i/investing.md). Whether you’re an [institutional investor](../i/institutional_investor.md) or an individual [trader](../t/trader.md) employing algorithms, understanding the Dow 30 can provide a significant edge in the ever-competitive [financial markets](../f/financial_market.md).
+The Dow 30 represents the backbone of American [industry](../i/industry.md) and offers a diverse [range](../r/range.md) of opportunities for algorithmic traders. From technological giants like Apple and Microsoft to industrial behemoths like Boeing and Caterpillar, the breadth and depth of the companies within this [index](../i/index_instrument.md) make it an essential tool for anyone involved in trading or [investing](../i/investing.md). Whether you’re an [institutional investor](../i/institutional_investor.md) or an individual [trader](../t/trader.md) employing algorithms, understanding the Dow 30 can provide a significant edge in the ever-competitive [financial markets](../f/financial_market.md).
 
 For more detailed information about the companies, visit their official websites linked to their names in the list above.

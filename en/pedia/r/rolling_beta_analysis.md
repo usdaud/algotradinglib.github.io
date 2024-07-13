@@ -17,7 +17,7 @@ Rolling [Beta](../b/beta.md) involves recalculating the [beta](../b/beta.md) of 
 
 ### Steps to Calculate Rolling Beta
 1. **Data Collection**:
-   - Obtain historical price data for the [asset](../a/asset.md) and the [benchmark](../b/benchmark.md) [index](../i/index.md).
+   - Obtain historical price data for the [asset](../a/asset.md) and the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
    - Ensure the price data is synchronized and contains enough points for the rolling windows.
 
 2. **[Return](../r/return.md) Calculation**:

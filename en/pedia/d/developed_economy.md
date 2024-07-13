@@ -1,6 +1,6 @@
 # Developed Economy
 
-A developed [economy](../e/economy.md), also known as an advanced [economy](../e/economy.md), is characterized by a high level of [income per capita](../i/income_per_capita.md), advanced technological [infrastructure](../i/infrastructure.md), diversified industrial and service sectors, and a high Human Development [Index](../i/index.md) (HDI). These economies generally show high standards of living, stable and transparent government structures, and [robust](../r/robust.md) legal and financial systems. In this comprehensive review, we [will](../w/will.md) delve into the key characteristics, examples, [economic indicators](../e/economic_indicators.md), challenges, and benefits associated with developed economies.
+A developed [economy](../e/economy.md), also known as an advanced [economy](../e/economy.md), is characterized by a high level of [income per capita](../i/income_per_capita.md), advanced technological [infrastructure](../i/infrastructure.md), diversified industrial and service sectors, and a high Human Development [Index](../i/index_instrument.md) (HDI). These economies generally show high standards of living, stable and transparent government structures, and [robust](../r/robust.md) legal and financial systems. In this comprehensive review, we [will](../w/will.md) delve into the key characteristics, examples, [economic indicators](../e/economic_indicators.md), challenges, and benefits associated with developed economies.
 
 ## Key Characteristics
 
@@ -51,7 +51,7 @@ Stable and low [inflation](../i/inflation.md) is often an aim for developed econ
 [Interest](../i/interest.md) rates in developed economies are typically set by central banks to manage [economic growth](../e/economic_growth.md) and control [inflation](../i/inflation.md). Low and stable [interest](../i/interest.md) rates encourage investment and spending.
 
 ### Human Development Index (HDI)
-As discussed, HDI combines data on [life expectancy](../l/life_expectancy.md), education, and [income](../i/income.md) to measure a country's social and economic development. Developed nations usually score very high on this [index](../i/index.md), reflecting their overall human [welfare](../w/welfare.md).
+As discussed, HDI combines data on [life expectancy](../l/life_expectancy.md), education, and [income](../i/income.md) to measure a country's social and economic development. Developed nations usually score very high on this [index](../i/index_instrument.md), reflecting their overall human [welfare](../w/welfare.md).
 
 ### Balance of Trade
 A favorable balance of [trade](../t/trade.md), where a country exports more than it imports, is often seen in developed economies. This indicates a strong external economic position and competitive industries.

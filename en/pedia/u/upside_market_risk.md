@@ -12,7 +12,7 @@ From a [risk management](../r/risk_management.md) perspective, it's essential to
 
 ### Active vs. Passive Management
 
-Active managers seek to [outperform](../o/outperform.md) the [market](../m/market.md) through diligent research, [market timing](../m/market_timing.md), and stock selection, taking positions that they believe [will](../w/will.md) capture more [upside potential](../u/upside_potential_in_trading.md). On the other hand, passive managers may focus on tracking a [benchmark](../b/benchmark.md) [index](../i/index.md). In periods of strong [market](../m/market.md) performance, active managers can significantly differentiate themselves by successfully navigating [upside](../u/upside.md) risks, whereas passive strategies [will](../w/will.md) only capture [market](../m/market.md)-level gains.
+Active managers seek to [outperform](../o/outperform.md) the [market](../m/market.md) through diligent research, [market timing](../m/market_timing.md), and stock selection, taking positions that they believe [will](../w/will.md) capture more [upside potential](../u/upside_potential_in_trading.md). On the other hand, passive managers may focus on tracking a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). In periods of strong [market](../m/market.md) performance, active managers can significantly differentiate themselves by successfully navigating [upside](../u/upside.md) risks, whereas passive strategies [will](../w/will.md) only capture [market](../m/market.md)-level gains.
 
 ### Behavioral Finance
 
@@ -42,7 +42,7 @@ Quantitative analysts (quants) and [algorithmic trading](../a/algorithmic_tradin
 
 ### Investment Products
 
-Several financial products are designed to harness [upside](../u/upside.md) [market risk](../m/market_risk.md). [Leveraged ETFs](../l/leveraged_etfs.md), for example, amplify the returns of a [benchmark](../b/benchmark.md) [index](../i/index.md), providing an opportunity to capture outsized gains in bullish markets. Conversely, these products also heighten exposure to [volatility](../v/volatility.md) and can lead to substantial losses if the [market](../m/market.md) turns.
+Several financial products are designed to harness [upside](../u/upside.md) [market risk](../m/market_risk.md). [Leveraged ETFs](../l/leveraged_etfs.md), for example, amplify the returns of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), providing an opportunity to capture outsized gains in bullish markets. Conversely, these products also heighten exposure to [volatility](../v/volatility.md) and can lead to substantial losses if the [market](../m/market.md) turns.
 
 ## Case Studies
 

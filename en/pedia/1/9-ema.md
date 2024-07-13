@@ -64,7 +64,7 @@ Cryptocurrency traders also employ the 9-EMA to navigate the highly volatile con
 
 The 9-EMA is often used in conjunction with other [technical indicators](../t/technical_indicators.md) to improve the accuracy of [trading signals](../t/trading_signals.md). Popular combinations include:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: To confirm potential entry and exit points by analyzing [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: To confirm potential entry and exit points by analyzing [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: To identify potential shifts in [momentum](../m/momentum.md).
 - **[Bollinger Bands](../b/bollinger_bands.md)**: To incorporate [volatility](../v/volatility.md) into trading decisions.
 

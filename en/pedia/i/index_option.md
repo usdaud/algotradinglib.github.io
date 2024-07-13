@@ -1,26 +1,26 @@
 # Index Option
 
-An [index](../i/index.md) option is a financial [derivative](../d/derivative.md) that gives the purchaser the right, but not the obligation, to buy or sell a basket of stock indexes at a predetermined price, called the [strike price](../s/strike_price.md), within a specified time frame. Unlike individual stock [options](../o/options.md), which pertain to single [stocks](../s/stock.md), [index options](../i/index_options.md) pertain to the entire [market](../m/market.md) or a segment of it, allowing traders and investors to implement strategies based on their outlook of the [market](../m/market.md) as a whole.
+An [index](../i/index_instrument.md) option is a financial [derivative](../d/derivative.md) that gives the purchaser the right, but not the obligation, to buy or sell a basket of stock indexes at a predetermined price, called the [strike price](../s/strike_price.md), within a specified time frame. Unlike individual stock [options](../o/options.md), which pertain to single [stocks](../s/stock.md), [index options](../i/index_options.md) pertain to the entire [market](../m/market.md) or a segment of it, allowing traders and investors to implement strategies based on their outlook of the [market](../m/market.md) as a whole.
 
 ## Overview
 
-[Index options](../i/index_options.md) are similar to individual stock [options](../o/options.md) in terms of their structure, but instead of one stock, the [underlying asset](../u/underlying_asset.md) is a stock [index](../i/index.md) like the S&P 500, [Nasdaq](../n/nasdaq.md) 100, or Russell 2000. The [value](../v/value.md) of an [index](../i/index.md) option is tied to the [index](../i/index.md)'s performance and offers an efficient way to [hedge](../h/hedge.md) or speculate on [market](../m/market.md) movements.
+[Index options](../i/index_options.md) are similar to individual stock [options](../o/options.md) in terms of their structure, but instead of one stock, the [underlying asset](../u/underlying_asset.md) is a stock [index](../i/index_instrument.md) like the S&P 500, [Nasdaq](../n/nasdaq.md) 100, or Russell 2000. The [value](../v/value.md) of an [index](../i/index_instrument.md) option is tied to the [index](../i/index_instrument.md)'s performance and offers an efficient way to [hedge](../h/hedge.md) or speculate on [market](../m/market.md) movements.
 
 ### Types of Index Options
 
-1. **Call [Options](../o/options.md)**: These give the holder the right to buy the [underlying](../u/underlying.md) [index](../i/index.md) at the [strike price](../s/strike_price.md) before expiration.
-2. **[Put Options](../p/put_options.md)**: These give the holder the right to sell the [underlying](../u/underlying.md) [index](../i/index.md) at the [strike price](../s/strike_price.md) before expiration.
+1. **Call [Options](../o/options.md)**: These give the holder the right to buy the [underlying](../u/underlying.md) [index](../i/index_instrument.md) at the [strike price](../s/strike_price.md) before expiration.
+2. **[Put Options](../p/put_options.md)**: These give the holder the right to sell the [underlying](../u/underlying.md) [index](../i/index_instrument.md) at the [strike price](../s/strike_price.md) before expiration.
 
-Unlike [options](../o/options.md) on individual [stocks](../s/stock.md), [index options](../i/index_options.md) are settled in cash rather than the [physical delivery](../p/physical_delivery_in_trading.md) of the [underlying asset](../u/underlying_asset.md), due to the impracticality of delivering a portfolio of the numerous [stocks](../s/stock.md) that make up an [index](../i/index.md).
+Unlike [options](../o/options.md) on individual [stocks](../s/stock.md), [index options](../i/index_options.md) are settled in cash rather than the [physical delivery](../p/physical_delivery_in_trading.md) of the [underlying asset](../u/underlying_asset.md), due to the impracticality of delivering a portfolio of the numerous [stocks](../s/stock.md) that make up an [index](../i/index_instrument.md).
 
 ### Key Terminology
 
 - **[Strike Price](../s/strike_price.md)**: The predetermined price at which the option can be exercised.
 - **[Expiration Date](../e/expiration_date.md)**: The date after which the option can no longer be exercised.
 - **[Premium](../p/premium.md)**: The cost to purchase the option, paid upfront.
-- **In-the-[Money](../m/money.md) (ITM)**: A [call option](../c/call_option.md) is ITM if the [index](../i/index.md) [value](../v/value.md) is above the [strike price](../s/strike_price.md); a [put option](../p/put.md) is ITM if the [index](../i/index.md) [value](../v/value.md) is below the [strike price](../s/strike_price.md).
-- **Out-of-the-[Money](../m/money.md) (OTM)**: A [call option](../c/call_option.md) is OTM if the [index](../i/index.md) [value](../v/value.md) is below the [strike price](../s/strike_price.md); a [put option](../p/put.md) is OTM if the [index](../i/index.md) [value](../v/value.md) is above the [strike price](../s/strike_price.md).
-- **At-the-[Money](../m/money.md) (ATM)**: When the [index](../i/index.md) [value](../v/value.md) is equal to the [strike price](../s/strike_price.md).
+- **In-the-[Money](../m/money.md) (ITM)**: A [call option](../c/call_option.md) is ITM if the [index](../i/index_instrument.md) [value](../v/value.md) is above the [strike price](../s/strike_price.md); a [put option](../p/put.md) is ITM if the [index](../i/index_instrument.md) [value](../v/value.md) is below the [strike price](../s/strike_price.md).
+- **Out-of-the-[Money](../m/money.md) (OTM)**: A [call option](../c/call_option.md) is OTM if the [index](../i/index_instrument.md) [value](../v/value.md) is below the [strike price](../s/strike_price.md); a [put option](../p/put.md) is OTM if the [index](../i/index_instrument.md) [value](../v/value.md) is above the [strike price](../s/strike_price.md).
+- **At-the-[Money](../m/money.md) (ATM)**: When the [index](../i/index_instrument.md) [value](../v/value.md) is equal to the [strike price](../s/strike_price.md).
 
 ## Popular Index Options
 
@@ -32,11 +32,11 @@ Several popular indices have [options](../o/options.md) markets, [offering](../o
 
 ## Pricing Factors
 
-The price of an [index](../i/index.md) option is determined by several factors:
+The price of an [index](../i/index_instrument.md) option is determined by several factors:
 
 ### 1. **Intrinsic Value**
 
-This is the real, tangible [value](../v/value.md) of the option if it were exercised immediately. For a [call option](../c/call_option.md), it's calculated as the current [index](../i/index.md) [value](../v/value.md) minus the [strike price](../s/strike_price.md), and for a [put option](../p/put.md), it's the [strike price](../s/strike_price.md) minus the current [index](../i/index.md) [value](../v/value.md).
+This is the real, tangible [value](../v/value.md) of the option if it were exercised immediately. For a [call option](../c/call_option.md), it's calculated as the current [index](../i/index_instrument.md) [value](../v/value.md) minus the [strike price](../s/strike_price.md), and for a [put option](../p/put.md), it's the [strike price](../s/strike_price.md) minus the current [index](../i/index_instrument.md) [value](../v/value.md).
 
 ### 2. **Extrinsic Value**
 
@@ -44,7 +44,7 @@ This is the additional [value](../v/value.md) attributed to factors other than [
 
 ### 3. **Implied Volatility (IV)**
 
-It reflects the [market](../m/market.md)'s forecast of a likely movement in the [index](../i/index.md). Higher implied [volatility](../v/volatility.md) increases the [extrinsic value](../e/extrinsic_value.md) of the [option premium](../o/option_premium.md).
+It reflects the [market](../m/market.md)'s forecast of a likely movement in the [index](../i/index_instrument.md). Higher implied [volatility](../v/volatility.md) increases the [extrinsic value](../e/extrinsic_value.md) of the [option premium](../o/option_premium.md).
 
 ### 4. **Time Decay (Theta)**
 
@@ -60,11 +60,11 @@ Traders and investors use [index options](../i/index_options.md) in various stra
 
 ### 1. **Hedging Portfolios**
 
-Investors may use [index](../i/index.md) [put options](../p/put_options.md) to protect their portfolios from a [market](../m/market.md) downturn. By purchasing [put options](../p/put_options.md), an [investor](../i/investor.md) can [offset](../o/offset.md) losses in their existing stock [holdings](../h/holdings.md) if the [market](../m/market.md) declines.
+Investors may use [index](../i/index_instrument.md) [put options](../p/put_options.md) to protect their portfolios from a [market](../m/market.md) downturn. By purchasing [put options](../p/put_options.md), an [investor](../i/investor.md) can [offset](../o/offset.md) losses in their existing stock [holdings](../h/holdings.md) if the [market](../m/market.md) declines.
 
 ### 2. **Speculation**
 
-Traders can use [index](../i/index.md) call and [put options](../p/put_options.md) to bet on the [market](../m/market.md)'s direction. Buying call [options](../o/options.md) is a bullish strategy, while buying [put options](../p/put_options.md) is a bearish strategy.
+Traders can use [index](../i/index_instrument.md) call and [put options](../p/put_options.md) to bet on the [market](../m/market.md)'s direction. Buying call [options](../o/options.md) is a bullish strategy, while buying [put options](../p/put_options.md) is a bearish strategy.
 
 ### 3. **Spreads**
 
@@ -76,7 +76,7 @@ These strategies involve buying and selling [multiple](../m/multiple.md) [option
 ### 4. **Covered Calls and Cash-Secured Puts**
 
 - **[Covered Call](../c/covered_call.md)**: An [investor](../i/investor.md) holding a portfolio sells call [options](../o/options.md) to generate extra [income](../i/income.md).
-- **Cash-Secured Put**: Selling [put options](../p/put_options.md) while holding enough cash to purchase the [index](../i/index.md) if assigned.
+- **Cash-Secured Put**: Selling [put options](../p/put_options.md) while holding enough cash to purchase the [index](../i/index_instrument.md) if assigned.
 
 ### 5. **Straddle and Strangle**
 

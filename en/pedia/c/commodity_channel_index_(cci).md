@@ -1,6 +1,6 @@
 # Commodity Channel Index (CCI)
 
-The [Commodity](../c/commodity.md) Channel [Index](../i/index.md) (CCI) is a versatile [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) introduced by Donald Lambert in 1980. Originally developed to identify cyclical trends in commodities markets, it has since been adapted to a variety of financial instruments including [stocks](../s/stock.md), indices, and currencies. This [indicator](../i/indicator.md) helps traders identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions, potential buy and sell signals, and divergences that may indicate potential [market](../m/market.md) reversals.
+The [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) (CCI) is a versatile [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) introduced by Donald Lambert in 1980. Originally developed to identify cyclical trends in commodities markets, it has since been adapted to a variety of financial instruments including [stocks](../s/stock.md), indices, and currencies. This [indicator](../i/indicator.md) helps traders identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions, potential buy and sell signals, and divergences that may indicate potential [market](../m/market.md) reversals.
 
 ## Basics of CCI
 
@@ -43,13 +43,13 @@ Divergences between the CCI and the actual price can signal potential reversals.
 
 ### Combining with Other Indicators
 
-Many traders use CCI in conjunction with other [technical indicators](../t/technical_indicators.md) to validate signals. Moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) are commonly paired with CCI to form comprehensive [trading strategies](../t/trading_strategies.md).
+Many traders use CCI in conjunction with other [technical indicators](../t/technical_indicators.md) to validate signals. Moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) are commonly paired with CCI to form comprehensive [trading strategies](../t/trading_strategies.md).
 
 ## Examples of Trading Platforms and Tools Using CCI
 
 ### TradingView
 
-[TradingView](../t/tradingview.md) (https://www.[tradingview](../t/tradingview.md).com) is a widely-used platform that provides an extensive suite of tools for [technical analysis](../t/technical_analysis.md), including the [Commodity](../c/commodity.md) Channel [Index](../i/index.md) (CCI). Traders can easily add CCI to their charts and customize it to their preferred time periods.
+[TradingView](../t/tradingview.md) (https://www.[tradingview](../t/tradingview.md).com) is a widely-used platform that provides an extensive suite of tools for [technical analysis](../t/technical_analysis.md), including the [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) (CCI). Traders can easily add CCI to their charts and customize it to their preferred time periods.
 
 ### MetaTrader 4 & 5
 
@@ -87,7 +87,7 @@ Despite its versatility, CCI is not without criticisms. Some of the commonly cit
 
 ## Conclusion
 
-The [Commodity](../c/commodity.md) Channel [Index](../i/index.md) (CCI) remains a valuable tool in the arsenal of many traders and investors across various [financial markets](../f/financial_market.md). Its ability to identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions, potential [trend](../t/trend.md) reversals, and divergences makes it a versatile [indicator](../i/indicator.md) for both short-term and long-term [trading strategies](../t/trading_strategies.md). As with any [technical analysis](../t/technical_analysis.md) tool, its effectiveness increases when used in conjunction with other indicators and a well-rounded understanding of [market](../m/market.md) conditions.
+The [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) (CCI) remains a valuable tool in the arsenal of many traders and investors across various [financial markets](../f/financial_market.md). Its ability to identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions, potential [trend](../t/trend.md) reversals, and divergences makes it a versatile [indicator](../i/indicator.md) for both short-term and long-term [trading strategies](../t/trading_strategies.md). As with any [technical analysis](../t/technical_analysis.md) tool, its effectiveness increases when used in conjunction with other indicators and a well-rounded understanding of [market](../m/market.md) conditions.
 
 For more detailed and specific applications, traders often rely on platforms like [TradingView](../t/tradingview.md), MetaTrader, [Thinkorswim](../t/thinkorswim.md), and [NinjaTrader](../n/ninjatrader.md), each of which provides [robust](../r/robust.md) tools for integrating CCI into comprehensive [trading strategies](../t/trading_strategies.md).
 

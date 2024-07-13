@@ -36,7 +36,7 @@ A [breakout](../b/breakout.md) strategy involves entering a [trade](../t/trade.m
 A [reversal](../r/reversal.md) strategy entails taking a short position when the price approaches a known resistance zone, anticipating a price decline.
 
 - **Entry Point**: Entering the [trade](../t/trade.md) near the upper boundary of the resistance zone.
-- **Confirmation**: Verifying through indicators like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) that the [asset](../a/asset.md) is [overbought](../o/overbought.md).
+- **Confirmation**: Verifying through indicators like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) that the [asset](../a/asset.md) is [overbought](../o/overbought.md).
 - **[Profit](../p/profit.md) Targets**: Setting [profit](../p/profit.md) targets near previous [support levels](../s/support_levels.md).
 
 ### Range-Bound Strategy

@@ -54,7 +54,7 @@ News-based [trading strategies](../t/trading_strategies.md) involve making tradi
 Discretionary traders often rely on [technical analysis](../t/technical_analysis.md), which involves studying historical price charts and using [technical indicators](../t/technical_indicators.md) to forecast future price movements. Common [technical analysis](../t/technical_analysis.md) tools include:
 
 - **Moving Averages**: Identify trends and potential [reversal](../r/reversal.md) points.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measure [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measure [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Bollinger Bands](../b/bollinger_bands.md)**: Gauge [volatility](../v/volatility.md) and potential [breakout](../b/breakout.md) points.
 - **[Fibonacci Retracement](../f/fibonacci_retracement.md)**: Identify [support and resistance](../s/support_and_resistance.md) levels.
 
@@ -62,7 +62,7 @@ Discretionary traders often rely on [technical analysis](../t/technical_analysis
 [Fundamental analysis](../f/fundamental_analysis.md) involves evaluating the [intrinsic value](../i/intrinsic_value.md) of an [asset](../a/asset.md) based on economic data, [financial statements](../f/financial_statements.md), and other qualitative factors. Discretionary traders use this analysis to make long-term investment decisions or to supplement their [short-term trading](../s/short-term_trading.md) strategies.
 
 ### Market Sentiment Indicators
-[Market sentiment indicators](../m/market_sentiment_indicators.md), such as the Put/Call Ratio, VIX ([Volatility](../v/volatility.md) [Index](../i/index.md)), and Consumer Sentiment [Index](../i/index.md), provide insights into the overall mood of the [market](../m/market.md) participants. Discretionary traders use these indicators to gauge [market sentiment](../m/market_sentiment.md) and predict potential [market](../m/market.md) movements.
+[Market sentiment indicators](../m/market_sentiment_indicators.md), such as the Put/Call Ratio, VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md)), and Consumer Sentiment [Index](../i/index_instrument.md), provide insights into the overall mood of the [market](../m/market.md) participants. Discretionary traders use these indicators to gauge [market sentiment](../m/market_sentiment.md) and predict potential [market](../m/market.md) movements.
 
 ### Risk Management
 [Risk management](../r/risk_management.md) is a crucial aspect of [discretionary trading](../d/discretionary_trading.md). Traders implement various techniques to manage [risk](../r/risk.md), such as:

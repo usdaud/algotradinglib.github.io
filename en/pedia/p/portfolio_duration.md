@@ -63,7 +63,7 @@ Investors can use [duration](../d/duration.md) to position their portfolios alon
 
 ### Performance Measurement
 
-Portfolio [duration](../d/duration.md) is also a key [factor](../f/factor.md) in performance measurement and [attribution analysis](../a/attribution_analysis.md). By comparing the [duration](../d/duration.md) of the portfolio to the [duration](../d/duration.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md), investors can assess how much of the performance is attributed to [interest rate](../i/interest_rate.md) movements versus other factors such as [credit](../c/credit.md) selection or sector allocation.
+Portfolio [duration](../d/duration.md) is also a key [factor](../f/factor.md) in performance measurement and [attribution analysis](../a/attribution_analysis.md). By comparing the [duration](../d/duration.md) of the portfolio to the [duration](../d/duration.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), investors can assess how much of the performance is attributed to [interest rate](../i/interest_rate.md) movements versus other factors such as [credit](../c/credit.md) selection or sector allocation.
 
 ## Practical Considerations
 

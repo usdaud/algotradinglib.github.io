@@ -35,7 +35,7 @@ The 9-day EMA of the MACD, known as the "signal line," is then plotted over the 
 
 #### Commodity Channel Index (CCI)
 
-The [Commodity](../c/commodity.md) Channel [Index](../i/index.md) was introduced by Donald Lambert. The CCI is a versatile [indicator](../i/indicator.md) that can be used to identify a new [trend](../t/trend.md) or warn of extreme [market](../m/market.md) conditions. Unlike most oscillators, CCI is not bounded by any limits, hence can provide insight into the strength of a given [trend](../t/trend.md).
+The [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) was introduced by Donald Lambert. The CCI is a versatile [indicator](../i/indicator.md) that can be used to identify a new [trend](../t/trend.md) or warn of extreme [market](../m/market.md) conditions. Unlike most oscillators, CCI is not bounded by any limits, hence can provide insight into the strength of a given [trend](../t/trend.md).
 
 *CCI Formula*:
 \[ CCI = \frac{\text{Typical Price} - \text{SMA}(Typical \text{ Price})}{0.015 \times \text{Mean Deviation}} \]

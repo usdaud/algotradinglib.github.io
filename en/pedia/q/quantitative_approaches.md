@@ -11,13 +11,13 @@
 Statistical [arbitrage](../a/arbitrage.md) (or stat-arb) is a [trading strategy](../t/trading_strategy.md) based on [mean reversion](../m/mean_reversion.md) theory and statistical relationships between different financial instruments. This involves identifying price discrepancies between assets that are believed to have a long-term [equilibrium](../e/equilibrium.md) relationship. If the prices deviate from this [equilibrium](../e/equilibrium.md), traders take long and short positions anticipating a revert to the mean.
 
 - **[Pairs Trading](../p/pairs_trading.md)**: One of the most common forms of stat-arb. It involves the identification of two securities with historical price [correlation](../c/correlation.md). When the prices diverge beyond a certain threshold, traders short the overperforming [security](../s/security.md) and buy the underperforming one, betting that prices [will](../w/will.md) converge.
-- **[Index](../i/index.md) [Arbitrage](../a/arbitrage.md)**: This strategy involves taking advantage of price differences between the individual components of a stock [index](../i/index.md) and the [index](../i/index.md) itself.
+- **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md)**: This strategy involves taking advantage of price differences between the individual components of a stock [index](../i/index_instrument.md) and the [index](../i/index_instrument.md) itself.
   
 ### 2. Momentum Trading
 
 [Momentum trading](../m/momentum_trading.md) capitalizes on trends in the [market](../m/market.md). The idea is that assets that have performed well in the past [will](../w/will.md) continue to do so for some time, and those that have performed poorly [will](../w/will.md) continue to decline. [Quantitative momentum](../q/quantitative_momentum.md) strategies involve mathematical analyses of an [asset](../a/asset.md)'s price history to identify such trends.
 
-- **Moments Metrics**: Metrics like Moving Averages (MA), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) are often used.
+- **Moments Metrics**: Metrics like Moving Averages (MA), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) are often used.
 - **[Risk Management](../r/risk_management.md)**: Utilizing [stop-loss orders](../s/stop-loss_orders.md) to manage the [risk](../r/risk.md) associated with sudden [trend](../t/trend.md) reversals.
 
 ### 3. High-Frequency Trading (HFT)

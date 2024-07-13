@@ -56,7 +56,7 @@ Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedastic
 
 ### VIX Index
 
-The VIX, also known as the CBOE [Volatility](../v/volatility.md) [Index](../i/index.md), measures the [market](../m/market.md)'s expectation of 30-day [volatility](../v/volatility.md) and is often referred to as the "fear gauge". A high VIX level indicates increased [market](../m/market.md) [uncertainty](../u/uncertainty_in_trading.md) and potential turbulence, while a low VIX level suggests complacency and stability. Traders monitor the VIX to gauge [market sentiment](../m/market_sentiment.md) and adjust their strategies accordingly.
+The VIX, also known as the CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md), measures the [market](../m/market.md)'s expectation of 30-day [volatility](../v/volatility.md) and is often referred to as the "fear gauge". A high VIX level indicates increased [market](../m/market.md) [uncertainty](../u/uncertainty_in_trading.md) and potential turbulence, while a low VIX level suggests complacency and stability. Traders monitor the VIX to gauge [market sentiment](../m/market_sentiment.md) and adjust their strategies accordingly.
 
 ### News and Events
 

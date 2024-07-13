@@ -34,8 +34,8 @@ Qualitative assessments based on the expertise of economists and [labor market](
 ## Key Indicators Used in Forecasting
 
 1. **Gross Domestic Product (GDP)**: [Economic growth](../e/economic_growth.md) is typically linked with lower [unemployment](../u/unemployment.md). Hence, GDP forecasts are critical inputs.
-2. **[Business](../b/business.md) Confidence [Index](../i/index.md)**: Indicates the level of optimism or pessimism that [business](../b/business.md) managers feel about the prospects of their companies. Higher confidence often precedes lower [unemployment](../u/unemployment.md).
-3. **Consumer Confidence [Index](../i/index.md)**: Measures the degree of optimism consumers feel about the overall state of the [economy](../e/economy.md) and their personal financial situation.
+2. **[Business](../b/business.md) Confidence [Index](../i/index_instrument.md)**: Indicates the level of optimism or pessimism that [business](../b/business.md) managers feel about the prospects of their companies. Higher confidence often precedes lower [unemployment](../u/unemployment.md).
+3. **Consumer Confidence [Index](../i/index_instrument.md)**: Measures the degree of optimism consumers feel about the overall state of the [economy](../e/economy.md) and their personal financial situation.
 4. **Job Vacancies and Labor [Turnover](../t/turnover.md)**: Higher job vacancies typically indicate a lower future [unemployment rate](../u/unemployment_rate.md).
 5. **Technological Advancements**: Changes in technology can affect employment rates in various sectors.
 

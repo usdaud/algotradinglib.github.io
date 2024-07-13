@@ -16,7 +16,7 @@ CMOs divide the pool of [mortgage](../m/mortgage.md) loans into distinct classes
 
 4. **Accrual or Z [Tranches](../t/tranches.md)**: These [tranches](../t/tranches.md) do not receive [interest](../i/interest.md) payments initially. Instead, the [interest](../i/interest.md) they are supposed to earn is added to the [principal](../p/principal.md) balance. This structure results in a larger [payment](../p/payment.md) sum when the tranche matures.
 
-5. **Inverse Floater [Tranches](../t/tranches.md)**: The [interest](../i/interest.md) rates on these [tranches](../t/tranches.md) fluctuate inversely to a specific [index](../i/index.md) rate, such as the LIBOR. They are typically used by investors looking to [hedge](../h/hedge.md) against falling [interest](../i/interest.md) rates.
+5. **Inverse Floater [Tranches](../t/tranches.md)**: The [interest](../i/interest.md) rates on these [tranches](../t/tranches.md) fluctuate inversely to a specific [index](../i/index_instrument.md) rate, such as the LIBOR. They are typically used by investors looking to [hedge](../h/hedge.md) against falling [interest](../i/interest.md) rates.
 
 ## Risks Associated with CMOs
 

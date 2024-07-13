@@ -40,7 +40,7 @@ The [inflation](../i/inflation.md) rate measures the average [percentage change]
 
 ## Consumer Confidence Index (CCI)
 
-The Consumer Confidence [Index](../i/index.md) (CCI) measures the degree of optimism that consumers feel about the overall state of the [economy](../e/economy.md) and their personal financial situation. High consumer confidence typically leads to increased consumer spending and [economic growth](../e/economic_growth.md).
+The Consumer Confidence [Index](../i/index_instrument.md) (CCI) measures the degree of optimism that consumers feel about the overall state of the [economy](../e/economy.md) and their personal financial situation. High consumer confidence typically leads to increased consumer spending and [economic growth](../e/economic_growth.md).
 
 - **United States CCI**: [The Conference Board](https://www.conference-board.org/data/consumerconfidence.cfm)
 - **Canada CCI**: [The Conference Board of Canada](https://www.conferenceboard.ca/)
@@ -52,7 +52,7 @@ The Consumer Confidence [Index](../i/index.md) (CCI) measures the degree of opti
 
 ## Manufacturing PMI (Purchasing Managers' Index)
 
-The [Manufacturing](../m/manufacturing.md) PMI is a diffusion [index](../i/index.md) that measures the level of [manufacturing](../m/manufacturing.md) activity in an [economy](../e/economy.md). A PMI above 50 indicates [expansion](../e/expansion.md), while below 50 signifies contraction. The PMI is a critical [indicator](../i/indicator.md) of economic health in the [manufacturing](../m/manufacturing.md) sector.
+The [Manufacturing](../m/manufacturing.md) PMI is a diffusion [index](../i/index_instrument.md) that measures the level of [manufacturing](../m/manufacturing.md) activity in an [economy](../e/economy.md). A PMI above 50 indicates [expansion](../e/expansion.md), while below 50 signifies contraction. The PMI is a critical [indicator](../i/indicator.md) of economic health in the [manufacturing](../m/manufacturing.md) sector.
 
 - **United States PMI**: [ISM - Institute for Supply Management](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/january/)
 - **Canada PMI**: [Ivey Business School](https://www.ivey.uwo.ca/cmsmedia/3778783/ivey-pmi-january-2021.pdf)
@@ -64,7 +64,7 @@ The [Manufacturing](../m/manufacturing.md) PMI is a diffusion [index](../i/index
 
 ## Industrial Production Index
 
-The Industrial Production [Index](../i/index.md) measures the output of the industrial sector, which includes [manufacturing](../m/manufacturing.md), [mining](../m/mining.md), and utilities. An increase in industrial production indicates growth in these sectors, which can lead to economic [expansion](../e/expansion.md).
+The Industrial Production [Index](../i/index_instrument.md) measures the output of the industrial sector, which includes [manufacturing](../m/manufacturing.md), [mining](../m/mining.md), and utilities. An increase in industrial production indicates growth in these sectors, which can lead to economic [expansion](../e/expansion.md).
 
 - **United States Industrial Production**: [US Federal Reserve](https://www.federalreserve.gov/releases/g17/current/)
 - **Canada Industrial Production**: [Statistics Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410007301)

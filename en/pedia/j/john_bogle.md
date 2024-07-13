@@ -1,6 +1,6 @@
 # John Bogle
 
-John Clifton Bogle, commonly known as Jack Bogle, was an influential figure in the field of [investment management](../i/investment_management.md). He was the founder and chief executive of The Vanguard Group, which is now one of the largest and most respected [mutual fund](../m/mutual_fund.md) companies in the world. His investment philosophy, which emphasized low costs and long-term [investing](../i/investing.md) in broad-based [index](../i/index.md) funds, has left a lasting legacy.
+John Clifton Bogle, commonly known as Jack Bogle, was an influential figure in the field of [investment management](../i/investment_management.md). He was the founder and chief executive of The Vanguard Group, which is now one of the largest and most respected [mutual fund](../m/mutual_fund.md) companies in the world. His investment philosophy, which emphasized low costs and long-term [investing](../i/investing.md) in broad-based [index](../i/index_instrument.md) funds, has left a lasting legacy.
 
 ### Early Life and Education
 
@@ -12,11 +12,11 @@ After graduating from Princeton in 1951, Bogle began his career in [investment m
 
 ### Founding of The Vanguard Group
 
-In 1975, Bogle launched The Vanguard Group with a revolutionary idea: creating a [mutual fund](../m/mutual_fund.md) that would simply track the [market](../m/market.md) rather than trying to beat it. This concept was rooted in his belief that over the long term, low-cost [index](../i/index.md) funds would [outperform](../o/outperform.md) actively managed funds due to lower fees and the inefficiencies inherent in trying to predict [market](../m/market.md) movements.
+In 1975, Bogle launched The Vanguard Group with a revolutionary idea: creating a [mutual fund](../m/mutual_fund.md) that would simply track the [market](../m/market.md) rather than trying to beat it. This concept was rooted in his belief that over the long term, low-cost [index](../i/index_instrument.md) funds would [outperform](../o/outperform.md) actively managed funds due to lower fees and the inefficiencies inherent in trying to predict [market](../m/market.md) movements.
 
 ### The Birth of Index Funds
 
-The first [index fund](../i/index_fund.md) offered by Vanguard was the First [Index](../i/index.md) Investment [Trust](../t/trust.md), launched in 1975. This [fund](../f/fund.md), later renamed the Vanguard 500 [Index Fund](../i/index_fund.md), aimed to track the performance of the S&P 500, a broad [index](../i/index.md) of 500 of the largest publicly traded companies in the United States. Initially, the idea was met with skepticism and even ridicule from [Wall Street](../w/wall_street.md), but over time, the benefits of low-cost [passive investing](../p/passive_investing.md) became evident.
+The first [index fund](../i/index_fund.md) offered by Vanguard was the First [Index](../i/index_instrument.md) Investment [Trust](../t/trust.md), launched in 1975. This [fund](../f/fund.md), later renamed the Vanguard 500 [Index Fund](../i/index_fund.md), aimed to track the performance of the S&P 500, a broad [index](../i/index_instrument.md) of 500 of the largest publicly traded companies in the United States. Initially, the idea was met with skepticism and even ridicule from [Wall Street](../w/wall_street.md), but over time, the benefits of low-cost [passive investing](../p/passive_investing.md) became evident.
 
 ### Bogle's Investment Philosophy
 
@@ -24,7 +24,7 @@ John Bogle's investment philosophy can be summarized by a few key principles:
 
 1. **Low Costs:** High fees and expenses eat into investment returns. By keeping costs low, investors can retain more of their returns.
    
-2. **[Diversification](../d/diversification.md):** Spreading investments across a wide array of assets can reduce [risk](../r/risk.md). Bogle championed broad-based [index](../i/index.md) funds for their inherent [diversification](../d/diversification.md).
+2. **[Diversification](../d/diversification.md):** Spreading investments across a wide array of assets can reduce [risk](../r/risk.md). Bogle championed broad-based [index](../i/index_instrument.md) funds for their inherent [diversification](../d/diversification.md).
 
 3. **Long-Term Perspective:** [Market timing](../m/market_timing.md) and [short-term trading](../s/short-term_trading.md) often lead to suboptimal results. Bogle believed in holding investments for the long term.
 
@@ -32,7 +32,7 @@ John Bogle's investment philosophy can be summarized by a few key principles:
 
 ### Impact on the Investment Industry
 
-Bogle's ideas revolutionized the investment [industry](../i/industry.md). Today, [index](../i/index.md) funds account for a significant portion of the assets under management in mutual funds and ETFs. His focus on low costs has also led to a broader [industry](../i/industry.md) [trend](../t/trend.md) of [fee](../f/fee.md) reductions, benefiting investors worldwide.
+Bogle's ideas revolutionized the investment [industry](../i/industry.md). Today, [index](../i/index_instrument.md) funds account for a significant portion of the assets under management in mutual funds and ETFs. His focus on low costs has also led to a broader [industry](../i/industry.md) [trend](../t/trend.md) of [fee](../f/fee.md) reductions, benefiting investors worldwide.
 
 ### Books and Writings
 
@@ -40,7 +40,7 @@ Bogle was a prolific [writer](../w/writer.md) and speaker. Some of his most infl
 
 - **"Common Sense on Mutual Funds"** (1999): A comprehensive guide to [mutual fund](../m/mutual_fund.md) [investing](../i/investing.md), covering various aspects of [investment strategy](../i/investment_strategy.md) and [fund](../f/fund.md) management.
   
-- **"The Little Book of Common Sense [Investing](../i/investing.md)"** (2007): A concise introduction to Bogle's investment philosophy, emphasizing the importance of low-cost [index](../i/index.md) funds.
+- **"The Little Book of Common Sense [Investing](../i/investing.md)"** (2007): A concise introduction to Bogle's investment philosophy, emphasizing the importance of low-cost [index](../i/index_instrument.md) funds.
 
 - **"Enough: True Measures of [Money](../m/money.md), [Business](../b/business.md), and Life"** (2008): A reflection on the broader implications of [wealth](../w/wealth.md) and the importance of ethical behavior in [business](../b/business.md).
 
@@ -56,4 +56,4 @@ For more information about John Bogle and The Vanguard Group, you can visit the 
 
 ### Conclusion
 
-John Bogle's contribution to the investment world cannot be overstated. Through his pioneering work with [index](../i/index.md) funds and his relentless advocacy for low-cost, long-term [investing](../i/investing.md), he fundamentally changed the way people approach [investing](../i/investing.md). His principles of simplicity, cost-[efficiency](../e/efficiency.md), and ethical conduct continue to guide investors and [will](../w/will.md) likely do so for generations to come.
+John Bogle's contribution to the investment world cannot be overstated. Through his pioneering work with [index](../i/index_instrument.md) funds and his relentless advocacy for low-cost, long-term [investing](../i/investing.md), he fundamentally changed the way people approach [investing](../i/investing.md). His principles of simplicity, cost-[efficiency](../e/efficiency.md), and ethical conduct continue to guide investors and [will](../w/will.md) likely do so for generations to come.

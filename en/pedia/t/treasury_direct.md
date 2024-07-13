@@ -29,7 +29,7 @@ Treasury bonds are long-term securities with maturities of 20 years or more. Lik
 
 ### Treasury Inflation-Protected Securities (TIPS)
 
-TIPS are designed to protect against [inflation](../i/inflation.md). The [principal](../p/principal.md) [value](../v/value.md) of TIPS adjusts based on changes in the Consumer Price [Index](../i/index.md) (CPI). They [offer](../o/offer.md) [interest](../i/interest.md) payments twice a year, which fluctuate because the rate is applied to the adjusted [principal](../p/principal.md).
+TIPS are designed to protect against [inflation](../i/inflation.md). The [principal](../p/principal.md) [value](../v/value.md) of TIPS adjusts based on changes in the Consumer Price [Index](../i/index_instrument.md) (CPI). They [offer](../o/offer.md) [interest](../i/interest.md) payments twice a year, which fluctuate because the rate is applied to the adjusted [principal](../p/principal.md).
 
 ### Floating Rate Notes (FRNs)
 

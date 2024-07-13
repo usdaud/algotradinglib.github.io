@@ -6,7 +6,7 @@ Amalgamation in the context of [algorithmic trading](../a/accountability.md) ref
 
 1.1 **[Trend Following Strategies](../t/trend_following_strategies.md)**
 
-[Trend following strategies](../t/trend_following_strategies.md) aim to [capitalize](../c/capitalize.md) on the continuation of existing [market](../m/market.md) trends. These algorithms typically use [technical indicators](../t/technical_indicator.md) like moving averages, the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and the [Average Directional Index](../a/average_directional_index_(adx).md) (ADX) to identify trends. A common [trend](../t/trend.md)-following strategy is the moving average crossover, where a shorter-term moving average crossing above a longer-term moving average signals a buy, and vice versa for a sell.
+[Trend following strategies](../t/trend_following_strategies.md) aim to [capitalize](../c/capitalize.md) on the continuation of existing [market](../m/market.md) trends. These algorithms typically use [technical indicators](../t/technical_indicator.md) like moving averages, the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and the [Average Directional Index](../a/average_directional_index_(adx).md) (ADX) to identify trends. A common [trend](../t/trend.md)-following strategy is the moving average crossover, where a shorter-term moving average crossing above a longer-term moving average signals a buy, and vice versa for a sell.
 
 1.2 **[Mean Reversion](../m/mean_reversion.md) Strategies**
 

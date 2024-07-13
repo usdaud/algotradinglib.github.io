@@ -18,15 +18,15 @@ The items included in the basket typically reflect the spending habits of an ave
 8. **Miscellaneous**: Personal care products, financial services, and other miscellaneous expenses.
 
 ## Calculation of the Consumer Price Index (CPI)
-One of the primary uses of the Basket of Goods is the calculation of the Consumer Price [Index](../i/index.md) (CPI). The CPI measures the average change over time in the prices paid by consumers for the basket of goods and services. The process usually involves:
+One of the primary uses of the Basket of Goods is the calculation of the Consumer Price [Index](../i/index_instrument.md) (CPI). The CPI measures the average change over time in the prices paid by consumers for the basket of goods and services. The process usually involves:
 
 1. **Selection of [Base Year](../b/base_year.md)**: A specific year is chosen as the [benchmark](../b/benchmark.md), known as the [base year](../b/base_year.md).
 2. **Data Collection**: Prices of the items in the basket are compiled from various geographical locations.
 3. **Weight [Assignment](../a/assignment.md)**: Each item in the basket is assigned a weight based on its importance or share in total consumer expenditure.
 4. **Price Comparison**: Current prices are compared to prices in the [base year](../b/base_year.md).
-5. **[Index](../i/index.md) Calculation**: A mathematical formula calculates the [percentage change](../p/percentage_change.md) in the [price level](../p/price_level.md) from the [base year](../b/base_year.md) to the current period.
+5. **[Index](../i/index_instrument.md) Calculation**: A mathematical formula calculates the [percentage change](../p/percentage_change.md) in the [price level](../p/price_level.md) from the [base year](../b/base_year.md) to the current period.
 
-The resultant [index](../i/index.md) gives a numeric [value](../v/value.md) representing the [inflation](../i/inflation.md) rate and [cost of living](../c/cost_of_living.md) changes.
+The resultant [index](../i/index_instrument.md) gives a numeric [value](../v/value.md) representing the [inflation](../i/inflation.md) rate and [cost of living](../c/cost_of_living.md) changes.
 
 ## Importance in Economic Analysis
 The Basket of Goods, through the CPI, is crucial for several reasons:
@@ -58,7 +58,7 @@ Despite its widespread use, the Basket of Goods approach and CPI have faced cert
 To address some of the limitations, there have been developments and alternative methods:
 
 1. **Chained CPI**: This adjusts the weights more frequently to reflect current consumption patterns.
-2. **Core CPI**: Excludes volatile items like food and energy to provide a more stable price [index](../i/index.md).
+2. **Core CPI**: Excludes volatile items like food and energy to provide a more stable price [index](../i/index_instrument.md).
 3. **Personal Consumption Expenditures (PCE)**: Used by the Federal Reserve, it considers broader aspects of consumer spending.
 
 ## Conclusion

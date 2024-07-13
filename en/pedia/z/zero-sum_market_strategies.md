@@ -74,7 +74,7 @@ The zero-sum nature of certain [financial markets](../f/financial_market.md) nec
 
 #### Features
 
-- **[Momentum Indicators](../m/momentum_indicators.md)**: Utilizes indicators like moving averages and [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI) to identify trends.
+- **[Momentum Indicators](../m/momentum_indicators.md)**: Utilizes indicators like moving averages and [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI) to identify trends.
 - **[Breakout](../b/breakout.md) Strategies**: Trades are triggered when prices break out of significant support or resistance levels.
 - **[Position Sizing](../p/position_sizing.md)**: Sophisticated algorithms dynamically adjust position sizes based on the strength and reliability of the [trend](../t/trend.md).
 

@@ -8,7 +8,7 @@ The put option is one of the two primary types of [options](../o/options.md) con
 
 ### Key Terminology
 
-1. **[Underlying Asset](../u/underlying_asset.md)**: The [security](../s/security.md) or [commodity](../c/commodity.md) on which the option is based, such as a stock, [bond](../b/bond.md), [commodity](../c/commodity.md), or [index](../i/index.md).
+1. **[Underlying Asset](../u/underlying_asset.md)**: The [security](../s/security.md) or [commodity](../c/commodity.md) on which the option is based, such as a stock, [bond](../b/bond.md), [commodity](../c/commodity.md), or [index](../i/index_instrument.md).
 2. **[Strike Price](../s/strike_price.md) ([Exercise Price](../e/excersise_price.md))**: The price at which the [underlying asset](../u/underlying_asset.md) can be sold by the holder of the put option.
 3. **[Expiration Date](../e/expiration_date.md)**: The date on which the option contract expires and becomes void.
 4. **[Premium](../p/premium.md)**: The price paid by the buyer to the seller for the put option.
@@ -101,7 +101,7 @@ Where:
 
 ### Hedging
 
-[Put options](../p/put_options.md) are foundational tools for [risk management](../r/risk_management.md) in investment portfolios. Investors use puts to [hedge](../h/hedge.md) against potential losses in the [value](../v/value.md) of their assets. For example, a [fund manager](../f/fund_manager.md) might buy [put options](../p/put_options.md) on a stock [index](../i/index.md) to protect a portfolio during [market](../m/market.md) downturns.
+[Put options](../p/put_options.md) are foundational tools for [risk management](../r/risk_management.md) in investment portfolios. Investors use puts to [hedge](../h/hedge.md) against potential losses in the [value](../v/value.md) of their assets. For example, a [fund manager](../f/fund_manager.md) might buy [put options](../p/put_options.md) on a stock [index](../i/index_instrument.md) to protect a portfolio during [market](../m/market.md) downturns.
 
 ### Speculation
 

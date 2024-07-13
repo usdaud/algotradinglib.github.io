@@ -1,6 +1,6 @@
 # Exchange Traded Derivative
 
-An [exchange](../e/exchange.md)-traded [derivative](../d/derivative.md) (ETD) is a financial contract traded on a regulated [exchange](../e/exchange.md), where the contracts derive their [value](../v/value.md) from the performance of an [underlying asset](../u/underlying_asset.md), [index](../i/index.md), rate, or another [financial instrument](../f/financial_instrument.md). The structured nature of such contracts and their trading on centralized exchanges [offer](../o/offer.md) several unique benefits, including [transparency](../t/transparency.md), [liquidity](../l/liquidity.md), and reduced [counterparty risk](../c/counterparty_risk.md).
+An [exchange](../e/exchange.md)-traded [derivative](../d/derivative.md) (ETD) is a financial contract traded on a regulated [exchange](../e/exchange.md), where the contracts derive their [value](../v/value.md) from the performance of an [underlying asset](../u/underlying_asset.md), [index](../i/index_instrument.md), rate, or another [financial instrument](../f/financial_instrument.md). The structured nature of such contracts and their trading on centralized exchanges [offer](../o/offer.md) several unique benefits, including [transparency](../t/transparency.md), [liquidity](../l/liquidity.md), and reduced [counterparty risk](../c/counterparty_risk.md).
 
 ## Overview of Derivatives
 

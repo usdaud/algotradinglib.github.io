@@ -10,7 +10,7 @@ Given the nature of swing trading, it seamlessly fits into the broader category 
 Swing trading heavily relies on the identification of [market](../m/market.md) trends and cycles. These trends can be upward, downward, or sideways. Traders look for these trends to capture the price movements with the highest probability of success.
 
 ### Technical Analysis
-Swing traders primarily use [technical analysis](../t/technical_analysis.md) to identify trading opportunities. [Technical indicators](../t/technical_indicators.md) like moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), moving average convergence [divergence](../d/divergence.md) (MACD), and [volume](../v/volume.md) are crucial. [Chart patterns](../c/chart_patterns.md) like head and shoulders, triangles, and flags are also significant.
+Swing traders primarily use [technical analysis](../t/technical_analysis.md) to identify trading opportunities. [Technical indicators](../t/technical_indicators.md) like moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), moving average convergence [divergence](../d/divergence.md) (MACD), and [volume](../v/volume.md) are crucial. [Chart patterns](../c/chart_patterns.md) like head and shoulders, triangles, and flags are also significant.
 
 ### Fundamental Analysis
 Although less common, some swing traders incorporate [fundamental analysis](../f/fundamental_analysis.md). They might look at [earnings](../e/earnings.md) reports, [economic indicators](../e/economic_indicators.md), and other fundamental metrics to gauge the health of a stock or sector.

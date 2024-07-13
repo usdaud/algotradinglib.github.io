@@ -195,7 +195,7 @@ signal = macd.ewm(span=signal_window, adjust=False).mean()
 macd_histogram = macd - signal
 
 # Plotting the MACD Histogram
-plt.bar(macd_histogram.[index](../i/index.md), macd_histogram, color='lightgreen')
+plt.bar(macd_histogram.[index](../i/index_instrument.md), macd_histogram, color='lightgreen')
 plt.axhline(0, color='gray', linewidth=1)
 plt.title('MACD Histogram Example')
 plt.xlabel('Time')

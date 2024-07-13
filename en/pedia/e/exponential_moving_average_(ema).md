@@ -93,7 +93,7 @@ By running this strategy on past [market](../m/market.md) data, traders can eval
 
 EMAs are often combined with other [technical indicators](../t/technical_indicators.md) to enhance their predictive power. For example:
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: Consists of two EMAs (usually the 12-day and 26-day EMAs) and a signal line (usually the 9-day EMA of the MACD line). It helps identify potential buy and sell points by analyzing the convergence and [divergence](../d/divergence.md) of the EMAs.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: When combined with an EMA, the RSI can help confirm the strength of a [trend](../t/trend.md) or identify potential [reversal](../r/reversal.md) points.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: When combined with an EMA, the RSI can help confirm the strength of a [trend](../t/trend.md) or identify potential [reversal](../r/reversal.md) points.
 
 ### Adaptive EMAs
 

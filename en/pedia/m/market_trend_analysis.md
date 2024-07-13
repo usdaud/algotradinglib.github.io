@@ -31,7 +31,7 @@ A [market](../m/market.md) [trend](../t/trend.md) refers to the perceived tenden
 
 ### Relative Strength Index (RSI)
 
-The **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)** is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It's typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
+The **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)** is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It's typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
 
 ### Moving Average Convergence Divergence (MACD)
 

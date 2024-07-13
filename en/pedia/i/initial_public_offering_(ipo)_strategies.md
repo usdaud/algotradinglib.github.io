@@ -47,7 +47,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves using data-driven techniques
 IPOs are often accompanied by high [volatility](../v/volatility.md), which can either deter or attract investors. Algotrading facilitates [real-time volatility](../r/real-time_volatility.md) analysis, enabling traders to [capitalize](../c/capitalize.md) on short-term price fluctuations.
 
 #### Implementation:
-- **[Volatility](../v/volatility.md) Indicators**: Use indicators like [Bollinger Bands](../b/bollinger_bands.md), [Average True Range](../a/average_true_range_(atr).md) (ATR), or [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX) in [trading algorithms](../t/trading_algorithms.md).
+- **[Volatility](../v/volatility.md) Indicators**: Use indicators like [Bollinger Bands](../b/bollinger_bands.md), [Average True Range](../a/average_true_range_(atr).md) (ATR), or [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX) in [trading algorithms](../t/trading_algorithms.md).
 - **[Options](../o/options.md) Strategies**: Develop [options trading strategies](../o/options_trading_strategies.md) to [hedge](../h/hedge.md) or speculate based on expected [volatility](../v/volatility.md).
 
 #### 5. Order Book Analysis

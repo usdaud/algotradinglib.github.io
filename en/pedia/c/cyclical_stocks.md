@@ -30,8 +30,8 @@ Proficient traders and investors in cyclical [stocks](../s/stock.md) pay close a
 
 1. **Gross Domestic Product (GDP)**: A growing GDP signifies an expanding [economy](../e/economy.md), typically benefiting cyclical [stocks](../s/stock.md).
 2. **[Unemployment](../u/unemployment.md) Rates**: Decreasing [unemployment](../u/unemployment.md) usually correlates with higher consumer spending, boosting cyclical industries.
-3. **Consumer Confidence [Index](../i/index.md) (CCI)**: This measures consumer optimism about the [economy](../e/economy.md), a [leading indicator](../l/leading_indicator.md) for consumer spending.
-4. **Industrial Production [Index](../i/index.md) (IPI)**: Highlights the production levels in industries, signaling growth or contraction phases.
+3. **Consumer Confidence [Index](../i/index_instrument.md) (CCI)**: This measures consumer optimism about the [economy](../e/economy.md), a [leading indicator](../l/leading_indicator.md) for consumer spending.
+4. **Industrial Production [Index](../i/index_instrument.md) (IPI)**: Highlights the production levels in industries, signaling growth or contraction phases.
 
 ### Sector Rotation Strategy 
 

@@ -27,7 +27,7 @@ The `[underlying asset](../u/underlying_asset.md)` is the [financial asset](../f
 [Technical analysis](../t/technical_analysis.md) focuses on statistical analysis of [market](../m/market.md) activity, such as price movement and [volume](../v/volume.md).
 
 1. **Price Charts**: Line charts, bar charts, and [candlestick](../c/candlestick.md) charts to visualize price movements.
-2. **Indicators and Oscillators**: Moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD).
+2. **Indicators and Oscillators**: Moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD).
 3. **Patterns**: Head and shoulders, double tops and bottoms, triangles, flags.
 4. **[Volume Analysis](../v/volume_analysis.md)**: Observing the trading [volume](../v/volume.md) to confirm trends and price moves.
 

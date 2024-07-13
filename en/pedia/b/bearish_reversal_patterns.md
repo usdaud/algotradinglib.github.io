@@ -59,7 +59,7 @@ A Rising [Wedge](../w/wedge.md) pattern can be identified as:
 
 Bearish [reversal patterns](../r/reversal_patterns.md) can be reinforced with [technical indicators](../t/technical_indicators.md) and oscillators. These tools provide additional confirmation and include:
 
-**i. [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**
+**i. [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**
 
 The RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md):
   * Measures the speed and change of price movements.

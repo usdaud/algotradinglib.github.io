@@ -4,7 +4,7 @@ Relative [performance indicators](../p/performance_indicators.md) (RPIs) are ess
 
 ## Importance of RPIs
 
-1. **Benchmarking**: RPIs allow traders to measure the performance of their [trading algorithms](../t/trading_algorithms.md) against a set standard or [index](../i/index.md). This helps in understanding how well or poorly the strategies are performing relative to the [market](../m/market.md).
+1. **Benchmarking**: RPIs allow traders to measure the performance of their [trading algorithms](../t/trading_algorithms.md) against a set standard or [index](../i/index_instrument.md). This helps in understanding how well or poorly the strategies are performing relative to the [market](../m/market.md).
    
 2. **[Risk Management](../r/risk_management.md)**: By comparing against benchmarks, traders can assess the [risk](../r/risk.md)-adjusted returns of their strategies, which is crucial for managing and mitigating risks.
 
@@ -16,7 +16,7 @@ Relative [performance indicators](../p/performance_indicators.md) (RPIs) are ess
 
 ### 1. **Alpha**
 
-[Alpha](../a/alpha.md) represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md). It is a measure of an investment's performance on a [risk](../r/risk.md)-adjusted [basis](../b/basis.md).
+[Alpha](../a/alpha.md) represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). It is a measure of an investment's performance on a [risk](../r/risk.md)-adjusted [basis](../b/basis.md).
 - Formula: α = Rp - (Rf + β * (Rm - Rf))
   - Rp = [Return](../r/return.md) of the portfolio
   - Rf = [Risk](../r/risk.md)-free rate
@@ -56,7 +56,7 @@ The [Treynor Ratio](../t/treynor_ratio.md) measures returns earned in excess of 
 
 ### 6. **Information Ratio**
 
-The [Information Ratio](../i/information_ratio.md) measures portfolio returns above the returns of a [benchmark](../b/benchmark.md), usually an [index](../i/index.md), and adjusts this [excess return](../e/excess_return.md) by the [volatility](../v/volatility.md) of those returns.
+The [Information Ratio](../i/information_ratio.md) measures portfolio returns above the returns of a [benchmark](../b/benchmark.md), usually an [index](../i/index_instrument.md), and adjusts this [excess return](../e/excess_return.md) by the [volatility](../v/volatility.md) of those returns.
 - Formula: IR = (Rp - Rb) / σα
   - Rp = [Return](../r/return.md) of the portfolio
   - Rb = [Return](../r/return.md) of the [benchmark](../b/benchmark.md)
@@ -73,7 +73,7 @@ The [Information Ratio](../i/information_ratio.md) measures portfolio returns ab
 
 ### 8. **Tracking Error**
 
-[Tracking Error](../t/tracking_error.md) measures how closely a portfolio follows the [index](../i/index.md) to which it is benchmarked. It is the [standard deviation](../s/standard_deviation.md) of the difference between the portfolio [return](../r/return.md) and the [benchmark](../b/benchmark.md) [return](../r/return.md).
+[Tracking Error](../t/tracking_error.md) measures how closely a portfolio follows the [index](../i/index_instrument.md) to which it is benchmarked. It is the [standard deviation](../s/standard_deviation.md) of the difference between the portfolio [return](../r/return.md) and the [benchmark](../b/benchmark.md) [return](../r/return.md).
 - Formula: TE = σ(Rp - Rb)
   - Rp = [Return](../r/return.md) of the portfolio
   - Rb = [Return](../r/return.md) of the [benchmark](../b/benchmark.md)

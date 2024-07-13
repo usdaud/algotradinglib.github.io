@@ -83,12 +83,12 @@ plt.plot(data['short_mavg'], label = f'{short_window}-Day SMA')
 plt.plot(data['long_mavg'], label = f'{long_window}-Day SMA')
 
 # Plot the buy signals
-plt.plot(signals.loc[signals.positions == 1.0].[index](../i/index.md), 
+plt.plot(signals.loc[signals.positions == 1.0].[index](../i/index_instrument.md), 
          signals.short_mavg[signals.positions == 1.0],
          '^', markersize=10, color='g', lw=0, label='buy')
 
 # Plot the sell signals
-plt.plot(signals.loc[signals.positions == -1.0].[index](../i/index.md), 
+plt.plot(signals.loc[signals.positions == -1.0].[index](../i/index_instrument.md), 
          signals.short_mavg[signals.positions == -1.0],
          'v', markersize=10, color='r', lw=0, label='sell')
 
@@ -176,7 +176,7 @@ Numerous [software platforms](../s/software_platforms_for_trading.md) and tools 
 
 ### Historical Analysis
 
-A historical analysis of the Dual Moving Average Crossover strategy using a 50-day SMA and a 200-day SMA on the SP 500 [index](../i/index.md) provides insight into its effectiveness:
+A historical analysis of the Dual Moving Average Crossover strategy using a 50-day SMA and a 200-day SMA on the SP 500 [index](../i/index_instrument.md) provides insight into its effectiveness:
 
 - **2008 [Financial Crisis](../f/financial_crisis.md)**: During the [market](../m/market.md) downturn, the 50-day SMA crossed below the 200-day SMA, generating a sell signal that could have helped traders avoid significant losses.
 - **2019 [Bull Market](../b/bull_market.md)**: In early 2019, the 50-day SMA crossed above the 200-day SMA, producing a buy signal that allowed traders to [capitalize](../c/capitalize.md) on a strong upward [trend](../t/trend.md).
@@ -191,7 +191,7 @@ Conducting thorough [backtesting](../b/backtesting.md) is crucial to validate th
 - **[Risk-adjusted return](../r/risk-adjusted_return.md)**: [Return](../r/return.md) analysis [accounting](../a/accounting.md) for the [risk](../r/risk.md) exposure.
 - **Drawdowns**: Maximum losses during the [simulation](../s/simulation_in_trading.md) period.
 
-For instance, a backtest over a 10-year period on the SP 500 [index](../i/index.md) may show a 60% win rate with an average [annual return](../a/annual_return.md) of 8%, adjusted for [risk](../r/risk.md). 
+For instance, a backtest over a 10-year period on the SP 500 [index](../i/index_instrument.md) may show a 60% win rate with an average [annual return](../a/annual_return.md) of 8%, adjusted for [risk](../r/risk.md). 
 
 ## Conclusion
 

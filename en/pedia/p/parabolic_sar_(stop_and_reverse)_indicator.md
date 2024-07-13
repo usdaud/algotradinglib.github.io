@@ -42,7 +42,7 @@ The primary use of the [Parabolic SAR](../p/parabolic_sar.md) is identifying the
 
 ### Combination with Other Indicators
 
-The [Parabolic SAR](../p/parabolic_sar.md) is often used in combination with other [technical indicators](../t/technical_indicator.md) to improve the reliability of [trading signals](../t/trading_signals.md). For example, combining the SAR with moving averages or the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) can provide additional layers of confirmation.
+The [Parabolic SAR](../p/parabolic_sar.md) is often used in combination with other [technical indicators](../t/technical_indicator.md) to improve the reliability of [trading signals](../t/trading_signals.md). For example, combining the SAR with moving averages or the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) can provide additional layers of confirmation.
 
 ## Advantages and Limitations
 

@@ -79,7 +79,7 @@ PIMCO (Pacific [Investment Management](../i/investment_management.md) Company) i
 BlackRock is one of the world's largest [asset management](../a/asset_management.md) firms, [offering](../o/offering.md) various fixed-[income](../i/income.md) investment [options](../o/options.md). [BlackRock](https://www.blackrock.com/)
 
 ### Vanguard
-Known for its low-cost [index](../i/index.md) funds, Vanguard also offers various fixed-[income](../i/income.md) investment [options](../o/options.md). [Vanguard](https://www.vanguard.com/)
+Known for its low-cost [index](../i/index_instrument.md) funds, Vanguard also offers various fixed-[income](../i/income.md) investment [options](../o/options.md). [Vanguard](https://www.vanguard.com/)
 
 ### Goldman Sachs
 Goldman Sachs provides a [range](../r/range.md) of fixed-[income](../i/income.md) securities and investment services. [Goldman Sachs](https://www.goldmansachs.com/)

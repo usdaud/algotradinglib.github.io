@@ -18,7 +18,7 @@ The number of building permits issued is a leading [indicator](../i/indicator.md
 
 ### Consumer Confidence Index (CCI)
 
-The Consumer Confidence [Index](../i/index.md) measures how optimistic or pessimistic consumers are regarding their expected financial situation. A higher consumer confidence [index](../i/index.md) implies that consumers are more likely to spend [money](../m/money.md), which can drive [economic growth](../e/economic_growth.md).
+The Consumer Confidence [Index](../i/index_instrument.md) measures how optimistic or pessimistic consumers are regarding their expected financial situation. A higher consumer confidence [index](../i/index_instrument.md) implies that consumers are more likely to spend [money](../m/money.md), which can drive [economic growth](../e/economic_growth.md).
 
 ### Initial Jobless Claims
 
@@ -41,7 +41,7 @@ Initial [jobless claims](../j/jobless_claims.md) are weekly [statistics](../s/st
 
 #### Quantitative Models
 
-Algo-[trading systems](../t/trading_systems.md) often incorporate [leading indicators](../l/leading_indicators.md) into [quantitative models](../q/quantitative_models.md) designed to predict price movements. For instance, an algorithm might analyze [stock market](../s/stock_market.md) returns or changes in the Consumer Confidence [Index](../i/index.md) to predict future price trends.
+Algo-[trading systems](../t/trading_systems.md) often incorporate [leading indicators](../l/leading_indicators.md) into [quantitative models](../q/quantitative_models.md) designed to predict price movements. For instance, an algorithm might analyze [stock market](../s/stock_market.md) returns or changes in the Consumer Confidence [Index](../i/index_instrument.md) to predict future price trends.
 
 #### Machine Learning
 

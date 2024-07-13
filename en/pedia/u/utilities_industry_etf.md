@@ -1,6 +1,6 @@
 # Utilities Industry ETF
 
-An [Exchange](../e/exchange.md)-Traded [Fund](../f/fund.md) (ETF) is a type of [security](../s/security.md) that involves a collection of securities—such as [stocks](../s/stock.md)—that often tracks an [underlying](../u/underlying.md) [index](../i/index.md). However, a Utilities [Industry](../i/industry.md) ETF is specifically focused on companies in the [utilities sector](../u/utilities_sector.md). The [utilities sector](../u/utilities_sector.md) includes companies that provide essential public utilities such as electricity, natural gas, water, and sewage services. These businesses are often considered to be fundamental to national [infrastructure](../i/infrastructure.md) and are typically subject to government regulation due to their monopolistic tendencies and the critical nature of their services.
+An [Exchange](../e/exchange.md)-Traded [Fund](../f/fund.md) (ETF) is a type of [security](../s/security.md) that involves a collection of securities—such as [stocks](../s/stock.md)—that often tracks an [underlying](../u/underlying.md) [index](../i/index_instrument.md). However, a Utilities [Industry](../i/industry.md) ETF is specifically focused on companies in the [utilities sector](../u/utilities_sector.md). The [utilities sector](../u/utilities_sector.md) includes companies that provide essential public utilities such as electricity, natural gas, water, and sewage services. These businesses are often considered to be fundamental to national [infrastructure](../i/infrastructure.md) and are typically subject to government regulation due to their monopolistic tendencies and the critical nature of their services.
 
 ## Understanding Utilities Industry ETF
 
@@ -24,7 +24,7 @@ Utilities [Industry](../i/industry.md) ETFs can vary based on their specific foc
 
 2. **Sub-Sector Utilities ETFs**: These ETFs may focus on specific segments within the utilities [market](../m/market.md), such as electric utilities, water utilities, or renewable energy companies. For instance, the First [Trust](../t/trust.md) [Water ETF](../w/water_etf.md) (FIW) focuses specifically on water-related businesses.
 
-3. **Leveraged and Inverse Utilities ETFs**: These ETFs aim to deliver multiples of the daily performance of the [utilities sector](../u/utilities_sector.md) ([leveraged ETFs](../l/leveraged_etfs.md)) or the opposite performance ([inverse ETFs](../i/inverse_etfs.md)). An example is the ProShares Ultra Utilities ETF (UPW), which seeks daily investment results that correspond to twice (200%) the daily performance of the Dow Jones U.S. Utilities [Index](../i/index.md).
+3. **Leveraged and Inverse Utilities ETFs**: These ETFs aim to deliver multiples of the daily performance of the [utilities sector](../u/utilities_sector.md) ([leveraged ETFs](../l/leveraged_etfs.md)) or the opposite performance ([inverse ETFs](../i/inverse_etfs.md)). An example is the ProShares Ultra Utilities ETF (UPW), which seeks daily investment results that correspond to twice (200%) the daily performance of the Dow Jones U.S. Utilities [Index](../i/index_instrument.md).
 
 4. **Global Utilities ETFs**: These ETFs provide exposure to [utility](../u/utility.md) companies worldwide and can include firms outside of the United States. The [iShares](../i/ishares.md) Global Utilities ETF (JXI) is an example.
 
@@ -32,7 +32,7 @@ Utilities [Industry](../i/industry.md) ETFs can vary based on their specific foc
 
 ### 1. Utilities Select Sector SPDR Fund (XLU)
 
-- **Overview**: XLU seeks to provide investment results that, before expenses, generally correspond to the price and [yield](../y/yield.md) performance of the Utilities Select Sector [Index](../i/index.md).
+- **Overview**: XLU seeks to provide investment results that, before expenses, generally correspond to the price and [yield](../y/yield.md) performance of the Utilities Select Sector [Index](../i/index_instrument.md).
 - **Website**: [Utilities Select Sector SPDR Fund (XLU)](https://www.ssga.com/us/en/individual/etfs/funds/the-utilities-select-sector-spdr-fund-xlu)
 - **Key Features**:
   - Broad exposure to the U.S. [utilities sector](../u/utilities_sector.md).
@@ -41,7 +41,7 @@ Utilities [Industry](../i/industry.md) ETFs can vary based on their specific foc
 
 ### 2. Vanguard Utilities ETF (VPU)
 
-- **Overview**: VPU seeks to track the performance of the MSCI US Investable [Market](../m/market.md) Utilities 25/50 [Index](../i/index.md).
+- **Overview**: VPU seeks to track the performance of the MSCI US Investable [Market](../m/market.md) Utilities 25/50 [Index](../i/index_instrument.md).
 - **Website**: [Vanguard Utilities ETF (VPU)](https://investor.vanguard.com/etf/profile/VPU)
 - **Key Features**:
   - Low [expense ratio](../e/expense_ratio.md) compared to other utilities ETFs.
@@ -50,7 +50,7 @@ Utilities [Industry](../i/industry.md) ETFs can vary based on their specific foc
 
 ### 3. iShares U.S. Utilities ETF (IDU)
 
-- **Overview**: IDU seeks to track the investment results of an [index](../i/index.md) composed of U.S. equities in the [utilities sector](../u/utilities_sector.md).
+- **Overview**: IDU seeks to track the investment results of an [index](../i/index_instrument.md) composed of U.S. equities in the [utilities sector](../u/utilities_sector.md).
 - **Website**: [iShares U.S. Utilities ETF (IDU)](https://www.ishares.com/us/products/239716)
 - **Key Features**:
   - Diversified exposure to the U.S. [utilities sector](../u/utilities_sector.md).
@@ -59,7 +59,7 @@ Utilities [Industry](../i/industry.md) ETFs can vary based on their specific foc
 
 ### 4. First Trust Utilities AlphaDEX Fund (FXU)
 
-- **Overview**: FXU seeks to provide investment results that correspond generally to the price and [yield](../y/yield.md) (before fees and expenses) of the StrataQuant Utilities [Index](../i/index.md).
+- **Overview**: FXU seeks to provide investment results that correspond generally to the price and [yield](../y/yield.md) (before fees and expenses) of the StrataQuant Utilities [Index](../i/index_instrument.md).
 - **Website**: [First Trust Utilities AlphaDEX Fund (FXU)](https://www.ftportfolios.com/Retail/ETF/ETFsummary.aspx?Ticker=FXU)
 - **Key Features**:
   - Utilizes a unique stock selection methodology.

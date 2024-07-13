@@ -14,7 +14,7 @@ The at-the-[money](../m/money.md) (ATM) put and call [options](../o/options.md) 
 
 ## Construction of an Iron Butterfly
 To construct an [Iron Butterfly](../i/iron_butterfly.md), follow these steps:
-1. **Select the [Underlying Asset](../u/underlying_asset.md)**: Choose the stock or [index](../i/index.md) you believe [will](../w/will.md) not exhibit large price movements during the [options](../o/options.md)' lifespan.
+1. **Select the [Underlying Asset](../u/underlying_asset.md)**: Choose the stock or [index](../i/index_instrument.md) you believe [will](../w/will.md) not exhibit large price movements during the [options](../o/options.md)' lifespan.
 2. **Determine the [Expiration Date](../e/expiration_date.md)**: Pick an [expiration date](../e/expiration_date.md) for the [options](../o/options.md) contracts based on your forecast for the [underlying asset](../u/underlying_asset.md).
 3. **Choose the Middle [Strike Price](../s/strike_price.md)**: Select the at-the-[money](../m/money.md) [strike price](../s/strike_price.md), which is close to the current [market price](../m/market_price.md) of the [underlying asset](../u/underlying_asset.md).
 4. **Establish the Wing Width**: Decide on the strike prices for the [out-of-the-money options](../o/out-of-the-money_options.md) (both call and put) that [will](../w/will.md) form the "wings" of the butterfly.

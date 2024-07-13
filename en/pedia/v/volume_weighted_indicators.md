@@ -34,7 +34,7 @@ The VWMA is calculated similarly to a Simple Moving Average (SMA) but uses the [
 
 ### 2. Volume Weighted RSI (VW-RSI)
 
-The [Volume](../v/volume.md) [Weighted](../w/weighted.md) [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) modifies the traditional RSI by incorporating [volume](../v/volume.md). It provides a more accurate measurement of [momentum](../m/momentum.md) that takes [market](../m/market.md) activity into account. 
+The [Volume](../v/volume.md) [Weighted](../w/weighted.md) [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) modifies the traditional RSI by incorporating [volume](../v/volume.md). It provides a more accurate measurement of [momentum](../m/momentum.md) that takes [market](../m/market.md) activity into account. 
 
 #### Calculation
 

@@ -65,9 +65,9 @@ Trading volumes have also been on an upward [trend](../t/trend.md), driven by in
 
 ### Key Indices
 The IFB has several indices that track the performance of different [market](../m/market.md) segments. These indices include:
-- **IFX (Iran Fara Bourse [Index](../i/index.md))**: The primary [index](../i/index.md), reflecting the overall performance of the [market](../m/market.md).
-- **IFB SME [Index](../i/index.md)**: Tracks the performance of the small and medium-sized enterprises segment.
-- **IFB [Bond](../b/bond.md) [Index](../i/index.md)**: Measures the performance of the [bond](../b/bond.md) [market segment](../m/market_segment.md).
+- **IFX (Iran Fara Bourse [Index](../i/index_instrument.md))**: The primary [index](../i/index_instrument.md), reflecting the overall performance of the [market](../m/market.md).
+- **IFB SME [Index](../i/index_instrument.md)**: Tracks the performance of the small and medium-sized enterprises segment.
+- **IFB [Bond](../b/bond.md) [Index](../i/index_instrument.md)**: Measures the performance of the [bond](../b/bond.md) [market segment](../m/market_segment.md).
 
 ## Impact of Technological Advancements
 

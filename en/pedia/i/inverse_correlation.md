@@ -43,7 +43,7 @@ A classical example of inverse [correlation](../c/correlation.md) is observed be
 Inverse [correlation](../c/correlation.md) can also be seen in specific [commodity](../c/commodity.md) pairs. For example, gold and U.S. dollar often exhibit an inverse [correlation](../c/correlation.md). When the dollar weakens, gold prices tend to rise as gold becomes cheaper for investors holding other currencies.
 
 ### ETF Strategies
-[Exchange](../e/exchange.md)-Traded Funds (ETFs) often use inverse correlations to create products that move opposite to a particular [index](../i/index.md). These [inverse ETFs](../i/inverse_etfs.md) allow traders to [profit](../p/profit.md) from declining markets without directly short-selling individual [stocks](../s/stock.md).
+[Exchange](../e/exchange.md)-Traded Funds (ETFs) often use inverse correlations to create products that move opposite to a particular [index](../i/index_instrument.md). These [inverse ETFs](../i/inverse_etfs.md) allow traders to [profit](../p/profit.md) from declining markets without directly short-selling individual [stocks](../s/stock.md).
 
 ### Cryptocurrency Markets
 In the volatile world of cryptocurrencies, certain assets may exhibit inverse correlations. For example, [Bitcoin](../b/bitcoin.md) and alternative cryptocurrencies (altcoins) sometimes show an inverse relationship where [capital](../c/capital.md) flows might shift between [Bitcoin](../b/bitcoin.md) and altcoins based on [market sentiment](../m/market_sentiment.md).

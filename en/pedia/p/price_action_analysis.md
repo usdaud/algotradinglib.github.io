@@ -22,7 +22,7 @@ Different tools and strategies are employed by [price action](../p/price_action.
 
 1. **[Chart Patterns](../c/chart_patterns.md)**: Patterns like Head and Shoulders, [Double Top](../d/double_top.md) and Bottom, and Triangles are used to predict future price movements.
 
-2. **[Price Action](../p/price_action.md) Indicators**: While [price action trading](../p/price_action_trading.md) primarily avoids traditional indicators, some traders use them for confirmation, such as Moving Averages and the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI).
+2. **[Price Action](../p/price_action.md) Indicators**: While [price action trading](../p/price_action_trading.md) primarily avoids traditional indicators, some traders use them for confirmation, such as Moving Averages and the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 
 3. **Breakouts and Fakeouts**: Traders watch for breakouts from [support and resistance](../s/support_and_resistance.md) levels, and fakeouts (false breakouts) to identify potential trades.
 

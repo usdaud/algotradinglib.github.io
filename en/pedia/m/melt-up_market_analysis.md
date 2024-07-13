@@ -52,7 +52,7 @@ Historically, melt-up markets have been observed at various times and in various
 
 #### Identifying a Potential Melt-Up
 
-1. **[Technical Indicators](../t/technical_indicators.md)**: Watch for [parabolic moves](../p/parabolic_moves.md) in price charts and high [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI) levels.
+1. **[Technical Indicators](../t/technical_indicators.md)**: Watch for [parabolic moves](../p/parabolic_moves.md) in price charts and high [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI) levels.
   
 2. **[Sentiment Indicators](../s/sentiment_indicators.md)**: [Market](../m/market.md) surveys, [social media](../s/social_media.md) trends, and news coverage can provide insight into public sentiment.
 

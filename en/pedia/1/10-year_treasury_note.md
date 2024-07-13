@@ -49,7 +49,7 @@ Investors [demand](../d/demand.md) higher yields on Treasury securities to compe
 
 ### Economic Data Releases
 
-Key [economic indicators](../e/economic_indicators.md) such as GDP growth, [unemployment](../u/unemployment.md) rates, and consumer price [index](../i/index.md) (CPI) reports can cause fluctuations in the [10-Year Treasury yield](../1/10-year_treasury_yield.md).
+Key [economic indicators](../e/economic_indicators.md) such as GDP growth, [unemployment](../u/unemployment.md) rates, and consumer price [index](../i/index_instrument.md) (CPI) reports can cause fluctuations in the [10-Year Treasury yield](../1/10-year_treasury_yield.md).
 
 ### Demand and Supply Dynamics
 

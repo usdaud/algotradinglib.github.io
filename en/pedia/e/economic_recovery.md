@@ -26,7 +26,7 @@ Improved corporate [earnings](../e/earnings.md) indicate that businesses are rec
 
 ### 6. Industrial Production
 
-An increase in industrial production reflects rising [demand](../d/demand.md) for goods and services. Tracking metrics like the Industrial Production [Index](../i/index.md) helps determine how well the [manufacturing](../m/manufacturing.md) and industrial sectors are recovering.
+An increase in industrial production reflects rising [demand](../d/demand.md) for goods and services. Tracking metrics like the Industrial Production [Index](../i/index_instrument.md) helps determine how well the [manufacturing](../m/manufacturing.md) and industrial sectors are recovering.
 
 ### 7. Inflation Rates
 

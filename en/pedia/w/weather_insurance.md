@@ -27,7 +27,7 @@ Coverage triggers are specific conditions or thresholds that must be met for the
 
 [Payout](../p/payout.md) structures in weather [insurance](../i/insurance.md) can vary depending on the policy type:
 - **Indemnity-Based Payouts**: Compensation is based on the actual financial loss incurred by the policyholder. Requires a claims process and loss assessment.
-- **[Index](../i/index.md)-Based Payouts**: Also known as parametric payouts, these are triggered by reaching predefined weather parameters without the need for loss verification. Payouts are predetermined and occur automatically when conditions are met.
+- **[Index](../i/index_instrument.md)-Based Payouts**: Also known as parametric payouts, these are triggered by reaching predefined weather parameters without the need for loss verification. Payouts are predetermined and occur automatically when conditions are met.
 
 ### Policy Duration and Terms
 
@@ -84,7 +84,7 @@ Construction projects are particularly susceptible to weather delays and associa
 
 ## Understanding Parametric Weather Insurance
 
-Parametric weather [insurance](../i/insurance.md) is becoming increasingly popular due to its simplicity and [efficiency](../e/efficiency.md). This type of [insurance](../i/insurance.md) relies on an [index](../i/index.md) to determine payouts, without the need for loss verification. Key features include:
+Parametric weather [insurance](../i/insurance.md) is becoming increasingly popular due to its simplicity and [efficiency](../e/efficiency.md). This type of [insurance](../i/insurance.md) relies on an [index](../i/index_instrument.md) to determine payouts, without the need for loss verification. Key features include:
 
 1. **Trigger Parameters**: Predetermined thresholds for specific weather data, such as rainfall amounts, wind speeds, or temperatures.
 2. **Data Sources**: Reliable and objective data from meteorological agencies or weather stations, ensuring [transparency](../t/transparency.md).
@@ -122,7 +122,7 @@ The accuracy and reliability of weather [insurance](../i/insurance.md) rely heav
 
 ### Agriculture: Index-Based Crop Insurance in India
 
-India's agriculture sector heavily depends on monsoon rains, making it vulnerable to droughts and excessive rainfall. [Index](../i/index.md)-based crop [insurance](../i/insurance.md) schemes, such as the Pradhan Mantri Fasal Bima Yojana (PMFBY), provide coverage based on rainfall indices. These schemes have helped millions of farmers safeguard their livelihoods against variable monsoon patterns.
+India's agriculture sector heavily depends on monsoon rains, making it vulnerable to droughts and excessive rainfall. [Index](../i/index_instrument.md)-based crop [insurance](../i/insurance.md) schemes, such as the Pradhan Mantri Fasal Bima Yojana (PMFBY), provide coverage based on rainfall indices. These schemes have helped millions of farmers safeguard their livelihoods against variable monsoon patterns.
 
 ### Event Cancellation: Wimbledon Tennis Championship
 
@@ -143,7 +143,7 @@ The Wimbledon Tennis Championship, being an outdoor event, faces significant wea
 ### Future Trends
 
 1. **Integration with Climate Change Models**: Incorporating climate projections to address long-term weather risks and changing patterns.
-2. **Enhanced Parametric Products**: Development of more sophisticated [index](../i/index.md)-based [insurance](../i/insurance.md) products catering to diverse [industry](../i/industry.md) needs.
+2. **Enhanced Parametric Products**: Development of more sophisticated [index](../i/index_instrument.md)-based [insurance](../i/insurance.md) products catering to diverse [industry](../i/industry.md) needs.
 3. **[Blockchain](../b/blockchain_in_trading.md) for Claims Processing**: Utilizing [blockchain](../b/blockchain_in_trading.md) technology for transparent and efficient claims processing.
 4. **[Public-Private Partnerships](../p/public-private_partnerships.md)**: Collaboration between governmental bodies and private insurers to increase coverage availability and affordability.
 

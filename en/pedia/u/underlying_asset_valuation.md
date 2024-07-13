@@ -27,7 +27,7 @@ Key aspects of [fundamental analysis](../f/fundamental_analysis.md) include:
 
 Key tools used in [technical analysis](../t/technical_analysis.md) include:
 - **Price Charts:** Line charts, bar charts, and [candlestick](../c/candlestick.md) charts that display historical price movements.
-- **Indicators:** Moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), moving average convergence [divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md) to identify trends and potential reversals.
+- **Indicators:** Moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), moving average convergence [divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md) to identify trends and potential reversals.
 - **Patterns:** Head and shoulders, double tops and bottoms, and trendlines to forecast future price movements.
 
 ### 3. Quantitative Analysis

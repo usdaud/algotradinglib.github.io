@@ -60,7 +60,7 @@ Traders often use the Kijun-Sen alongside traditional moving averages to identif
 
 ### Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. Using the Kijun-Sen in tandem with RSI can help traders identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions and potential [reversal](../r/reversal.md) points.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. Using the Kijun-Sen in tandem with RSI can help traders identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions and potential [reversal](../r/reversal.md) points.
 
 ## Real-World Examples
 

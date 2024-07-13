@@ -20,7 +20,7 @@ Returns in [finance](../f/finance.md) refer to the gains or losses made on an in
 ### Types of Returns
 
 1. **Absolute Returns**: The simple increase or decrease in the [value](../v/value.md) of an investment.
-2. **Relative Returns**: Returns compared to a [benchmark](../b/benchmark.md) [index](../i/index.md) or other standard.
+2. **Relative Returns**: Returns compared to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) or other standard.
 3. **[Risk](../r/risk.md)-Adjusted Returns**: Returns that [factor](../f/factor.md) in the [risk](../r/risk.md) taken to achieve them, such as [Sharpe Ratio](../s/sharpe_ratio.md).
 4. **[Liquidity](../l/liquidity.md)-[Weighted Returns](../w/weighted_returns_in_trading.md)**: Returns adjusted for the [liquidity](../l/liquidity.md) of the assets involved.
 

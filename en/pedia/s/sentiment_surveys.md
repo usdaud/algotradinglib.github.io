@@ -25,17 +25,17 @@ These surveys assess the sentiment among [business](../b/business.md) executives
 - **ISM [Manufacturing](../m/manufacturing.md) Survey:** Conducted by the Institute for [Supply](../s/supply.md) Management, it measures the sentiment of purchasing managers in the [manufacturing](../m/manufacturing.md) sector.
   [ISM Manufacturing Survey](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/july/)
 
-- **National Federation of Independent [Business](../b/business.md) (NFIB) Small [Business](../b/business.md) Optimism [Index](../i/index.md):** Measures the sentiment of small [business](../b/business.md) owners in the United States.
+- **National Federation of Independent [Business](../b/business.md) (NFIB) Small [Business](../b/business.md) Optimism [Index](../i/index_instrument.md):** Measures the sentiment of small [business](../b/business.md) owners in the United States.
   [NFIB Small Business Optimism Index](https://www.nfib.com/surveys/small-business-economic-trends/)
 
 ### 2.3. Consumer Sentiment Surveys
 
 These surveys reflect the sentiment of consumers, who are essential drivers of the [economy](../e/economy.md).
 
-- **University of Michigan Consumer Sentiment [Index](../i/index.md) (UMCSI):** Widely followed for its insights into U.S. consumer sentiment, this survey asks about consumers' financial conditions and attitudes about the [economy](../e/economy.md).
+- **University of Michigan Consumer Sentiment [Index](../i/index_instrument.md) (UMCSI):** Widely followed for its insights into U.S. consumer sentiment, this survey asks about consumers' financial conditions and attitudes about the [economy](../e/economy.md).
   [UMCSI](http://www.sca.isr.umich.edu/)
 
-- **Conference Board Consumer Confidence [Index](../i/index.md):** Measures the level of confidence that consumers have in economic activities.
+- **Conference Board Consumer Confidence [Index](../i/index_instrument.md):** Measures the level of confidence that consumers have in economic activities.
   [Conference Board Consumer Confidence Index](https://www.conference-board.org/data/consumerconfidence.cfm)
 
 ### 2.4. Financial Market Sentiment Surveys

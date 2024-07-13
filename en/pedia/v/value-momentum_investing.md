@@ -17,7 +17,7 @@ Key metrics often used in [value investing](../v/value_investing.md) include:
 [Momentum investing](../m/momentum_investing.md) involves capitalizing on the continuance of an existing [market](../m/market.md) [trend](../t/trend.md). A [momentum](../m/momentum.md) [investor](../i/investor.md) believes that the price of a stock that has been rising [will](../w/will.md) continue to rise due to the psychological and [collateral](../c/collateral.md) factors at play in the [market](../m/market.md).
 
 Key metrics in [momentum investing](../m/momentum_investing.md) include:
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements.
 - **Moving Averages (MA)**: These are used to smooth out price data to identify the direction of the [trend](../t/trend.md).
 - **Rate of Change (ROC)**: A [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the [percentage change](../p/percentage_change.md) in price over a given time period.
 

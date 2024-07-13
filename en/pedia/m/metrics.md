@@ -39,7 +39,7 @@ The [Sharpe Ratio](../s/sharpe_ratio.md) measures the performance of an investme
 
 ### 4. Alpha
 
-[Alpha](../a/alpha.md) represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md). It is calculated as:
+[Alpha](../a/alpha.md) represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). It is calculated as:
 
 \[ \alpha = \text{Actual Return} - \text{[Expected Return](../e/expected_return.md)} \]
 

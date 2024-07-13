@@ -32,7 +32,7 @@ LIBID can act as an [economic indicator](../e/economic_indicator.md), providing 
 
 While both LIBID and LIBOR are interbank rates, they serve opposite functions. LIBOR is the rate at which banks lend to each other, whereas LIBID is the rate at which they borrow. Generally, LIBID is slightly lower than LIBOR due to the [bid](../b/bid.md)-[offer](../o/offer.md) spread, which compensates for the [risk](../r/risk.md) and [liquidity](../l/liquidity.md) preference of lending banks.
 
-In recent years, the financial [industry](../i/industry.md) has scrutinized LIBOR due to concerns over its accuracy and susceptibility to manipulation. This scrutiny has led to the development of alternative reference rates such as the Sterling Overnight [Index](../i/index.md) Average (SONIA) and the Secured Overnight [Financing](../f/financing.md) Rate (SOFR). However, these changes have also affected the perception and utilization of LIBID.
+In recent years, the financial [industry](../i/industry.md) has scrutinized LIBOR due to concerns over its accuracy and susceptibility to manipulation. This scrutiny has led to the development of alternative reference rates such as the Sterling Overnight [Index](../i/index_instrument.md) Average (SONIA) and the Secured Overnight [Financing](../f/financing.md) Rate (SOFR). However, these changes have also affected the perception and utilization of LIBID.
 
 ## Historical Context
 

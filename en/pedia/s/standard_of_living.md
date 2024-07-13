@@ -60,15 +60,15 @@ Sustainable living practices, including recycling, renewable energy use, and pub
 
 ### Human Development Index (HDI)
 
-The Human Development [Index](../i/index.md) (HDI) is a composite statistic of [life expectancy](../l/life_expectancy.md), education, and [per capita](../p/per_capita.md) [income](../i/income.md) indicators, which are used to rank countries into four tiers of human development. A higher HDI signifies a higher standard of living.
+The Human Development [Index](../i/index_instrument.md) (HDI) is a composite statistic of [life expectancy](../l/life_expectancy.md), education, and [per capita](../p/per_capita.md) [income](../i/income.md) indicators, which are used to rank countries into four tiers of human development. A higher HDI signifies a higher standard of living.
 
 ### Quality of Life Index
 
-The [Quality of Life](../q/quality_of_life.md) [Index](../i/index.md) often includes various indicators such as political stability, job [security](../s/security.md), environmental quality, and [social security](../s/social_security.md). These indices can vary in methodology but generally aim to provide a holistic view of the living standards in different countries.
+The [Quality of Life](../q/quality_of_life.md) [Index](../i/index_instrument.md) often includes various indicators such as political stability, job [security](../s/security.md), environmental quality, and [social security](../s/social_security.md). These indices can vary in methodology but generally aim to provide a holistic view of the living standards in different countries.
 
 ### Multidimensional Poverty Index (MPI)
 
-The Multidimensional [Poverty](../p/poverty.md) [Index](../i/index.md) (MPI) considers [multiple](../m/multiple.md) deprivations that people face at the same time, including poor health, lack of education, and inadequate living standards. It helps in understanding the depth and nature of [poverty](../p/poverty.md) beyond just [income](../i/income.md) levels.
+The Multidimensional [Poverty](../p/poverty.md) [Index](../i/index_instrument.md) (MPI) considers [multiple](../m/multiple.md) deprivations that people face at the same time, including poor health, lack of education, and inadequate living standards. It helps in understanding the depth and nature of [poverty](../p/poverty.md) beyond just [income](../i/income.md) levels.
 
 ## Conclusion
 

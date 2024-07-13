@@ -64,7 +64,7 @@ Given that the Kijun Line represents a historical midpoint, prices often revert 
 The Kijun Line can be combined with other [trend](../t/trend.md)-following indicators to confirm trends:
 
 - **Moving Averages**: Combining the Kijun Line with moving averages (MA) can provide additional confirmation. For instance, a bullish crossover of the price above the Kijun Line, paired with the price being above a long-term moving average, can reinforce a strong [uptrend](../u/uptrend.md) signal.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Aligning the Kijun Line signals with [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the RSI can filter out [false signals](../f/false_signals_in_trading.md) and improve accuracy.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Aligning the Kijun Line signals with [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the RSI can filter out [false signals](../f/false_signals_in_trading.md) and improve accuracy.
 
 ### Integration with Machine Learning Models
 

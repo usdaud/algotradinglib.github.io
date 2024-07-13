@@ -88,7 +88,7 @@ There are two primary types of [knock-out options](../k/knock-out_options.md):
 Several institutions globally deploy [knock-out option](../k/knock-out_option.md) strategies to achieve their financial objectives. Here are a few practical examples showcasing their use:
 
 **1. [Hedge Fund Strategies](../h/hedge_fund_strategies.md)**: Large [hedge](../h/hedge.md) funds employ [knock-out options](../k/knock-out_options.md) to finely tune their [market](../m/market.md) positions, balancing cost with effective [risk management](../r/risk_management.md).
-   - Example: A [hedge fund](../h/hedge_fund.md) using a combination of up-and-out calls and down-and-out puts to create cost-effective synthetic long or short positions on an [equity](../e/equity.md) [index](../i/index.md).
+   - Example: A [hedge fund](../h/hedge_fund.md) using a combination of up-and-out calls and down-and-out puts to create cost-effective synthetic long or short positions on an [equity](../e/equity.md) [index](../i/index_instrument.md).
 
 **2. [Corporate Finance](../c/corporate_finance.md)**: Corporations may use [knock-out options](../k/knock-out_options.md) as part of their treasury management strategies to [hedge](../h/hedge.md) [foreign exchange](../f/foreign_exchange.md) and [commodity](../c/commodity.md) price exposures.
    - Example: A [multinational corporation](../m/multinational_corporation.md) using down-and-out forex [put options](../p/put_options.md) to [hedge](../h/hedge.md) against potential [currency](../c/currency.md) [devaluation](../d/devaluation.md).

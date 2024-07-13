@@ -46,7 +46,7 @@ where:
 Investors who wish to invest in a diversified portfolio of ZCBs can consider Zero Coupon [Bond](../b/bond.md) ETFs and mutual funds. These funds invest in a basket of ZCBs, providing [diversification](../d/diversification.md) and professional management. Some examples include:
 
 1. **Vanguard Extended [Duration](../d/duration.md) Treasury ETF (EDV)**: This ETF focuses on long-[duration](../d/duration.md) U.S. [Treasury STRIPS](../t/treasury_strips.md). More details can be found on the [Vanguard website](https://investor.vanguard.com/etf/profile/EDV).
-2. **PIMCO 25+ Year Zero Coupon [U.S. Treasury](../u/u.s._treasury.md) [Index](../i/index.md) [Exchange](../e/exchange.md)-Traded [Fund](../f/fund.md) (ZROZ)**: This ETF targets long-[duration](../d/duration.md) [U.S. Treasury](../u/u.s._treasury.md) zero coupon bonds. More information is available on the [PIMCO website](https://www.pimco.com/en-us/investments/etf/zroz).
+2. **PIMCO 25+ Year Zero Coupon [U.S. Treasury](../u/u.s._treasury.md) [Index](../i/index_instrument.md) [Exchange](../e/exchange.md)-Traded [Fund](../f/fund.md) (ZROZ)**: This ETF targets long-[duration](../d/duration.md) [U.S. Treasury](../u/u.s._treasury.md) zero coupon bonds. More information is available on the [PIMCO website](https://www.pimco.com/en-us/investments/etf/zroz).
 
 ### Risks Associated with Zero Coupon Bonds
 

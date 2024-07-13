@@ -51,7 +51,7 @@ Forex ([foreign exchange](../f/foreign_exchange.md)) [derivatives](../d/derivati
 
 [Market](../m/market.md) indexes like the S&P 500 or the [Nikkei](../n/nikkei.md) 225 aggregate the performance of a specific collection of [stocks](../s/stock.md). [Derivatives](../d/derivatives.md) based on these indexes allow traders and investors to [gain](../g/gain.md) broad exposure to a [market](../m/market.md) sector without buying individual [stocks](../s/stock.md).
 
-**Example [Index](../i/index.md) Providers:**
+**Example [Index](../i/index_instrument.md) Providers:**
   - [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/)
   - [Nikkei Inc.](https://www.nikkei.co.jp/nikkeiinfo/en/)
 

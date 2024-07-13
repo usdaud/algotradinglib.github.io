@@ -27,7 +27,7 @@ If weak form [efficiency](../e/efficiency.md) holds true, then it has profound i
 
 ### Technical Analysis
 
-[Technical analysis](../t/technical_analysis.md) involves analyzing past price movements and trading volumes to predict future price movements. Indicators such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md) are commonly used tools.
+[Technical analysis](../t/technical_analysis.md) involves analyzing past price movements and trading volumes to predict future price movements. Indicators such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md) are commonly used tools.
 
 - **Moving Averages**: Traders use moving averages to smooth out price data and identify trends. However, if weak form [efficiency](../e/efficiency.md) is valid, moving averages would not consistently [yield](../y/yield.md) above-average returns since past price data is already reflected in current prices.
   

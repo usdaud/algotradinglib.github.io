@@ -5,11 +5,11 @@ End-of-Day (EOD) [trading strategies](../t/trading_strategies.md) involve execut
 ### Key Concepts and Strategies in End-of-Day Trading
 
 #### 1. **Technical Analysis for EOD Trading**
-[Technical analysis](../t/technical_analysis.md) plays a crucial role in end-of-[day trading](../d/day_trading.md). Traders use various [technical indicators](../t/technical_indicators.md) and [chart patterns](../c/chart_patterns.md) to make informed decisions. Some of the most popular tools for EOD trading include moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md), and [candlestick patterns](../c/candlestick_patterns.md).
+[Technical analysis](../t/technical_analysis.md) plays a crucial role in end-of-[day trading](../d/day_trading.md). Traders use various [technical indicators](../t/technical_indicators.md) and [chart patterns](../c/chart_patterns.md) to make informed decisions. Some of the most popular tools for EOD trading include moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md), and [candlestick patterns](../c/candlestick_patterns.md).
 
 - **Moving Averages**: Moving averages help identify the overall direction and strength of the [market](../m/market.md) [trend](../t/trend.md). EOD traders often use combinations like the 50-day and 200-day moving averages to signal potential entries and exits.
   
-- **RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md))**: RSI measures the speed and change of price movements. An RSI above 70 might be interpreted as [overbought](../o/overbought.md), while an RSI below 30 could be considered [oversold](../o/oversold.md). These levels can signal potential reversals in the [market](../m/market.md).
+- **RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md))**: RSI measures the speed and change of price movements. An RSI above 70 might be interpreted as [overbought](../o/overbought.md), while an RSI below 30 could be considered [oversold](../o/oversold.md). These levels can signal potential reversals in the [market](../m/market.md).
   
 - **[Bollinger Bands](../b/bollinger_bands.md)**: [Bollinger Bands](../b/bollinger_bands.md) consist of three lines: a simple moving average (middle band) and two [standard deviation](../s/standard_deviation.md) lines (upper and lower bands). They help traders understand [volatility](../v/volatility.md) and potential price breaks.
   

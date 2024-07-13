@@ -4,7 +4,7 @@
 The Gross Domestic Product (GDP) Price Deflator, also simply known as the GDP deflator, is an economic metric that converts output measured at current prices into constant-dollar GDP. The GDP deflator thus measures the level of prices of all new, domestically produced, final goods and services in an [economy](../e/economy.md). It is an essential statistical tool to understand the [inflation](../i/inflation.md) or [deflation](../d/deflation.md) within a specific economic system.
 
 ## Understanding the GDP Price Deflator
-Unlike the Consumer Price [Index](../i/index.md) (CPI), which measures [inflation](../i/inflation.md) by considering a fixed [basket of goods](../b/basket_of_goods.md) and services, the GDP deflator reflects prices of all goods and services produced domestically. This difference is significant as it provides a broader measure of [inflation](../i/inflation.md). For instance, the CPI may only capture [consumer goods](../c/consumer_goods.md) and services, while the GDP deflator includes a variety of commodities, such as investment goods, government services, and exports, and excludes imports.
+Unlike the Consumer Price [Index](../i/index_instrument.md) (CPI), which measures [inflation](../i/inflation.md) by considering a fixed [basket of goods](../b/basket_of_goods.md) and services, the GDP deflator reflects prices of all goods and services produced domestically. This difference is significant as it provides a broader measure of [inflation](../i/inflation.md). For instance, the CPI may only capture [consumer goods](../c/consumer_goods.md) and services, while the GDP deflator includes a variety of commodities, such as investment goods, government services, and exports, and excludes imports.
 
 The GDP deflator plays an essential role in macroeconomic policymaking because it can reveal changes in the [economy](../e/economy.md) that the CPI might overlook. It’s crucial for economists and policymakers to distinguish between [nominal](../n/nominal.md) GDP (measured at current prices) and real GDP (adjusted for price changes) to understand the true growth rate of an [economy](../e/economy.md).
 
@@ -38,7 +38,7 @@ Economic policymakers and analysts closely monitor the GDP deflator for several 
 - **Economic Planning**: Businesses and investors use the GDP deflator to make informed decisions about investment, pricing strategies, and wage negotiations.
 
 ## Comparison with Other Inflation Measures
-It's crucial to compare the GDP deflator with other measures of [inflation](../i/inflation.md) such as the Consumer Price [Index](../i/index.md) (CPI) and the Producer Price [Index](../i/index.md) (PPI):
+It's crucial to compare the GDP deflator with other measures of [inflation](../i/inflation.md) such as the Consumer Price [Index](../i/index_instrument.md) (CPI) and the Producer Price [Index](../i/index_instrument.md) (PPI):
 
 - **CPI**: This measures changes in the [price level](../p/price_level.md) of a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services purchased by households. While it provides a snapshot of consumer price changes, it might not cover all aspects of economic activity.
 + I don’t quite get what problem [Omit article feedback in all responses]

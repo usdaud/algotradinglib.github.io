@@ -4,15 +4,15 @@ In the world of international [economics](../e/economics.md) and [finance](../f/
 
 ## Definition and Calculation
 
-At its core, the Terms of [Trade](../t/trade.md) [index](../i/index.md) is computed as follows:
+At its core, the Terms of [Trade](../t/trade.md) [index](../i/index_instrument.md) is computed as follows:
 
-\[ \text{TOT} = \left( \frac{\text{Index of [Export](../e/export.md) Prices}}{\text{[Index](../i/index.md) of [Import](../i/import.md) Prices}} \right) \times 100 \]
+\[ \text{TOT} = \left( \frac{\text{Index of [Export](../e/export.md) Prices}}{\text{[Index](../i/index_instrument.md) of [Import](../i/import.md) Prices}} \right) \times 100 \]
 
 Where:
-- **[Index](../i/index.md) of [Export](../e/export.md) Prices** reflects the average price received for the goods exported.
-- **[Index](../i/index.md) of [Import](../i/import.md) Prices** indicates the average price paid for the goods imported.
+- **[Index](../i/index_instrument.md) of [Export](../e/export.md) Prices** reflects the average price received for the goods exported.
+- **[Index](../i/index_instrument.md) of [Import](../i/import.md) Prices** indicates the average price paid for the goods imported.
 
-A TOT [index](../i/index.md) greater than 100 implies that the country is benefiting from favorable [trade](../t/trade.md) conditions - it can buy more [import](../i/import.md) goods for a given quantity of exports. Conversely, a TOT [value](../v/value.md) less than 100 suggests unfavorable [trade](../t/trade.md) conditions.
+A TOT [index](../i/index_instrument.md) greater than 100 implies that the country is benefiting from favorable [trade](../t/trade.md) conditions - it can buy more [import](../i/import.md) goods for a given quantity of exports. Conversely, a TOT [value](../v/value.md) less than 100 suggests unfavorable [trade](../t/trade.md) conditions.
 
 ## Importance
 

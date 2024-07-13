@@ -98,9 +98,9 @@ def generate_signals(price_data, fractals):
     signals = []
     for i in [range](../r/range.md)(len(price_data)):
         if i in fractals['bullish']:
-            signals.append({'type': 'BUY', '[index](../i/index.md)': i})
+            signals.append({'type': 'BUY', '[index](../i/index_instrument.md)': i})
         elif i in fractals['bearish']:
-            signals.append({'type': 'SELL', '[index](../i/index.md)': i})
+            signals.append({'type': 'SELL', '[index](../i/index_instrument.md)': i})
     [return](../r/return.md) signals
 ```
 

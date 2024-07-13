@@ -16,7 +16,7 @@ One common form of [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.m
 
 ### 3. **Dispersion Trading**
 
-[Dispersion](../d/dispersion.md) trading involves trading the difference in [volatility](../v/volatility.md) between an [index](../i/index.md) and its constituent [stocks](../s/stock.md). If the implied [volatility](../v/volatility.md) of the [index](../i/index.md) is higher than the average implied [volatility](../v/volatility.md) of its components, traders might sell the [index](../i/index.md) [volatility](../v/volatility.md) and buy the component volatilities, or vice versa.
+[Dispersion](../d/dispersion.md) trading involves trading the difference in [volatility](../v/volatility.md) between an [index](../i/index_instrument.md) and its constituent [stocks](../s/stock.md). If the implied [volatility](../v/volatility.md) of the [index](../i/index_instrument.md) is higher than the average implied [volatility](../v/volatility.md) of its components, traders might sell the [index](../i/index_instrument.md) [volatility](../v/volatility.md) and buy the component volatilities, or vice versa.
 
 ### 4. **Over-the-Counter (OTC) and Exotic Options**
 
@@ -34,7 +34,7 @@ Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedastic
 
 ### VIX (Volatility Index)
 
-The VIX, or the [Volatility](../v/volatility.md) [Index](../i/index.md), represents the [market](../m/market.md)'s expectations of [volatility](../v/volatility.md) over the coming 30 days. Traders use it to gauge [market sentiment](../m/market_sentiment.md) and identify [arbitrage](../a/arbitrage.md) opportunities based on the spread between the VIX and [realized volatility](../r/realized_volatility.md).
+The VIX, or the [Volatility](../v/volatility.md) [Index](../i/index_instrument.md), represents the [market](../m/market.md)'s expectations of [volatility](../v/volatility.md) over the coming 30 days. Traders use it to gauge [market sentiment](../m/market_sentiment.md) and identify [arbitrage](../a/arbitrage.md) opportunities based on the spread between the VIX and [realized volatility](../r/realized_volatility.md).
 
 ### Machine Learning and Artificial Intelligence
 

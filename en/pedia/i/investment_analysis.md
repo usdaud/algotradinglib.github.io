@@ -17,7 +17,7 @@ Investment analysis is the process of evaluating an investment for profitability
 [Technical analysis](../t/technical_analysis.md) involves [forecasting](../f/forecasting.md) the direction of prices through the study of past [market](../m/market.md) data, primarily price and [volume](../v/volume.md). Unlike [fundamental analysis](../f/fundamental_analysis.md), it does not assess a company's [intrinsic value](../i/intrinsic_value.md) but focuses on patterns and trends.
 
 - **Charts and Patterns**: Uses historical price data to identify patterns such as head and shoulders, triangles, and flags.
-- **Indicators and Oscillators**: Includes tools like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_band.md).
+- **Indicators and Oscillators**: Includes tools like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_band.md).
 - **[Volume Analysis](../v/volume_analysis.md)**: Examines trading [volume](../v/volume.md) to confirm trends and assess the strength of price movements.
 
 ### 3. Quantitative Analysis

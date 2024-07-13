@@ -62,7 +62,7 @@ In contrast to [breakout](../b/breakout.md) and [trend](../t/trend.md)-following
 
 ### 1. Combined with Other Indicators
 
-Combining [Keltner Channels](../k/keltner_channels.md) with other [technical indicators](../t/technical_indicators.md) can enhance the accuracy of [trade](../t/trade.md) signals. For example, pairing [Keltner Channels](../k/keltner_channels.md) with the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can filter out [false signals](../f/false_signals_in_trading.md) and improve [trade](../t/trade.md) timing.
+Combining [Keltner Channels](../k/keltner_channels.md) with other [technical indicators](../t/technical_indicators.md) can enhance the accuracy of [trade](../t/trade.md) signals. For example, pairing [Keltner Channels](../k/keltner_channels.md) with the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can filter out [false signals](../f/false_signals_in_trading.md) and improve [trade](../t/trade.md) timing.
 
 ### 2. Multi-Timeframe Analysis
 

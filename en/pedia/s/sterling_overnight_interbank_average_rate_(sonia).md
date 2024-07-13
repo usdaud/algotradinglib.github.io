@@ -44,7 +44,7 @@ While SONIA and LIBOR are both [benchmark](../b/benchmark.md) [interest](../i/in
 
 ## SONIA Compounded Index
 
-To support the use of SONIA in various financial products, the [Bank](../b/bank.md) of England introduced the SONIA Compounded [Index](../i/index.md). This [index](../i/index.md) offers a standardized methodology for calculating compounded [interest](../i/interest.md) rates over a given period using daily SONIA rates. The [index](../i/index.md) is particularly useful for [market](../m/market.md) participants that need a simple and consistent way to calculate compounded [interest](../i/interest.md) for financial instruments like floating-rate notes and syndicated loans.
+To support the use of SONIA in various financial products, the [Bank](../b/bank.md) of England introduced the SONIA Compounded [Index](../i/index_instrument.md). This [index](../i/index_instrument.md) offers a standardized methodology for calculating compounded [interest](../i/interest.md) rates over a given period using daily SONIA rates. The [index](../i/index_instrument.md) is particularly useful for [market](../m/market.md) participants that need a simple and consistent way to calculate compounded [interest](../i/interest.md) for financial instruments like floating-rate notes and syndicated loans.
 
 ## Implementation and Governance
 

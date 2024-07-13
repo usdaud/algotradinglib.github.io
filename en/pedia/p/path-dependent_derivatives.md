@@ -128,11 +128,11 @@ Consider an [investor](../i/investor.md) looking to [hedge](../h/hedge.md) again
 
 ### Example 2: Barrier Option Pricing
 
-A [bank](../b/bank.md) wants to [offer](../o/offer.md) a structured product linked to the performance of the S&P 500 [index](../i/index.md), with the condition that the option is voided if the [index](../i/index.md) rises above a certain level within the next six months:
+A [bank](../b/bank.md) wants to [offer](../o/offer.md) a structured product linked to the performance of the S&P 500 [index](../i/index_instrument.md), with the condition that the option is voided if the [index](../i/index_instrument.md) rises above a certain level within the next six months:
  
 1. **Pricing Using Binomial Tree**
-    - Construct an appropriate binomial tree for the S&P 500 [index](../i/index.md).
-    - Incorporate the barrier condition by setting payoffs to zero if the [index](../i/index.md) exceeds the barrier at any node.
+    - Construct an appropriate binomial tree for the S&P 500 [index](../i/index_instrument.md).
+    - Incorporate the barrier condition by setting payoffs to zero if the [index](../i/index_instrument.md) exceeds the barrier at any node.
     - Use backward induction to derive the option price.
 
 ## Companies Specialized in Path-Dependent Derivatives

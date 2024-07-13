@@ -56,7 +56,7 @@ Several econometric methodologies can quantify spillover effects:
 
 1. **Vector Autoregressions (VAR)**
 2. **Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md) (GARCH) Models**
-3. **Diebold and Yilmaz Spillover [Index](../i/index.md)**
+3. **Diebold and Yilmaz Spillover [Index](../i/index_instrument.md)**
 4. **Co-movement Analysis**
 
 ### Vector Autoregressions (VAR)
@@ -69,7 +69,7 @@ VAR models capture the linear interdependencies among [multiple](../m/multiple.m
 
 ### Diebold and Yilmaz Spillover Index
 
-Developed by Diebold and Yilmaz, this [index](../i/index.md) quantifies total and directional [volatility](../v/volatility.md) spillovers across markets. It is a comprehensive tool for capturing and visualizing the extent and direction of spillover effects.
+Developed by Diebold and Yilmaz, this [index](../i/index_instrument.md) quantifies total and directional [volatility](../v/volatility.md) spillovers across markets. It is a comprehensive tool for capturing and visualizing the extent and direction of spillover effects.
 
 ### Co-movement Analysis
 

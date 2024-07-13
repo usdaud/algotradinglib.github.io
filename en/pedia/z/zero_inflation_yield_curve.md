@@ -84,7 +84,7 @@ To illustrate the practical application of the ZIYC, let's consider TIPS, which 
 
 ### Pricing TIPS Using the ZIYC
 
-The price of a TIPS [bond](../b/bond.md) can be modeled using the real [yield curve](../y/yield_curve.md). The real [yield](../y/yield.md) of TIPS is derived from the ZIYC, and the [bond](../b/bond.md)'s price is adjusted for [inflation](../i/inflation.md) based on the Consumer Price [Index](../i/index.md) (CPI). By [discounting](../d/discounting.md) the [inflation](../i/inflation.md)-adjusted cash flows using the real [yield curve](../y/yield_curve.md), the fair price of a TIPS [bond](../b/bond.md) can be determined.
+The price of a TIPS [bond](../b/bond.md) can be modeled using the real [yield curve](../y/yield_curve.md). The real [yield](../y/yield.md) of TIPS is derived from the ZIYC, and the [bond](../b/bond.md)'s price is adjusted for [inflation](../i/inflation.md) based on the Consumer Price [Index](../i/index_instrument.md) (CPI). By [discounting](../d/discounting.md) the [inflation](../i/inflation.md)-adjusted cash flows using the real [yield curve](../y/yield_curve.md), the fair price of a TIPS [bond](../b/bond.md) can be determined.
 
 ### Inflation Breakeven Rate
 

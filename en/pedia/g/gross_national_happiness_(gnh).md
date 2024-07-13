@@ -25,7 +25,7 @@ These four pillars are further broken down into nine domains, which provide a mo
 
 ## Measurement and Index
 
-To operationalize GNH, Bhutan has developed a detailed set of indicators and surveys to measure the nine domains. The GNH [Index](../i/index.md) is a composite score derived from these indicators, designed to reflect the general well-being of the population.
+To operationalize GNH, Bhutan has developed a detailed set of indicators and surveys to measure the nine domains. The GNH [Index](../i/index_instrument.md) is a composite score derived from these indicators, designed to reflect the general well-being of the population.
 
 ### Indicators
 
@@ -33,11 +33,11 @@ Each of the nine domains has [multiple](../m/multiple.md) indicators. For exampl
 
 ### Weightage
 
-All nine domains are considered equally important for the GNH [Index](../i/index.md), although within each domain, some indicators may carry more weight than others depending on their relative significance. This approach ensures a balanced and comprehensive assessment of well-being that goes beyond economic metrics.
+All nine domains are considered equally important for the GNH [Index](../i/index_instrument.md), although within each domain, some indicators may carry more weight than others depending on their relative significance. This approach ensures a balanced and comprehensive assessment of well-being that goes beyond economic metrics.
 
 ### Methodology
 
-The data collection process involves face-to-face interviews conducted by trained surveyors. The respondents are selected through random [sampling](../s/sampling.md) to ensure demographic diversity and representation. Each [indicator](../i/indicator.md) is scored, and the aggregate scores are used to compute the overall GNH [Index](../i/index.md). Those scoring below a predefined threshold are considered 'unhappy,' and policymakers focus on these areas for targeted interventions.
+The data collection process involves face-to-face interviews conducted by trained surveyors. The respondents are selected through random [sampling](../s/sampling.md) to ensure demographic diversity and representation. Each [indicator](../i/indicator.md) is scored, and the aggregate scores are used to compute the overall GNH [Index](../i/index_instrument.md). Those scoring below a predefined threshold are considered 'unhappy,' and policymakers focus on these areas for targeted interventions.
 
 ## Policy Implications and Global Influence
 

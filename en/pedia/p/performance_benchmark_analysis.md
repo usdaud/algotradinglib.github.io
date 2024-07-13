@@ -18,12 +18,12 @@ In [algorithmic trading](../a/algorithmic_trading.md), benchmarks serve as a sta
 
 For traders focusing on specific sectors, sector-specific indexes provide a more relevant [benchmark](../b/benchmark.md). Examples are:
 
-- **[Technology Sector](../t/technology_sector.md) (XLK)**: An [index](../i/index.md) that measures the performance of technology companies.
-- **[Healthcare Sector](../h/healthcare_sector.md) (XLV)**: An [index](../i/index.md) tracking the performance of companies in the healthcare [industry](../i/industry.md).
+- **[Technology Sector](../t/technology_sector.md) (XLK)**: An [index](../i/index_instrument.md) that measures the performance of technology companies.
+- **[Healthcare Sector](../h/healthcare_sector.md) (XLV)**: An [index](../i/index_instrument.md) tracking the performance of companies in the healthcare [industry](../i/industry.md).
 
 ### Fixed-Income Benchmarks
 
-For strategies involving bonds and other fixed-[income](../i/income.md) securities, benchmarks like the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index.md) are commonly used. This [index](../i/index.md) measures investment-grade, U.S. dollar-denominated, fixed-rate taxable bonds.
+For strategies involving bonds and other fixed-[income](../i/income.md) securities, benchmarks like the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md) are commonly used. This [index](../i/index_instrument.md) measures investment-grade, U.S. dollar-denominated, fixed-rate taxable bonds.
 
 ### Custom Benchmarks
 

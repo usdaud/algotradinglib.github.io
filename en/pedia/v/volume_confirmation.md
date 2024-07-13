@@ -46,7 +46,7 @@ In [breakout trading](../b/breakout_trading.md), [volume](../v/volume.md) confir
 
 ### Divergence Analysis
 
-In [divergence](../d/divergence.md) analysis, [volume](../v/volume.md) can be used to confirm or dispute a [divergence](../d/divergence.md) between price and a technical [indicator](../i/indicator.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD). If price is moving in one direction but [volume](../v/volume.md) is not supporting that move, it could signal a potential [reversal](../r/reversal.md) or weak [trend](../t/trend.md).
+In [divergence](../d/divergence.md) analysis, [volume](../v/volume.md) can be used to confirm or dispute a [divergence](../d/divergence.md) between price and a technical [indicator](../i/indicator.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD). If price is moving in one direction but [volume](../v/volume.md) is not supporting that move, it could signal a potential [reversal](../r/reversal.md) or weak [trend](../t/trend.md).
 
 ## Algorithmic Implementation of Volume Confirmation
 

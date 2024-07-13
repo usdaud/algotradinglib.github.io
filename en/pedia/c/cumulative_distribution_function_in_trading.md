@@ -71,9 +71,9 @@ Monte Carlo simulations involve running [multiple](../m/multiple.md) trials to e
 
 ### Practical Example
 
-Let's consider a [trader](../t/trader.md) analyzing the S&P 500 [index](../i/index.md)'s daily returns. The [trader](../t/trader.md) wants to understand the [probability distribution](../p/probability_distribution.md) of these returns over the past year.
+Let's consider a [trader](../t/trader.md) analyzing the S&P 500 [index](../i/index_instrument.md)'s daily returns. The [trader](../t/trader.md) wants to understand the [probability distribution](../p/probability_distribution.md) of these returns over the past year.
 
-1. **Data Collection**: The [trader](../t/trader.md) collects daily closing prices of the S&P 500 [index](../i/index.md) for the past year.
+1. **Data Collection**: The [trader](../t/trader.md) collects daily closing prices of the S&P 500 [index](../i/index_instrument.md) for the past year.
 
 2. **Calculating Returns**: The [trader](../t/trader.md) calculates the daily returns using the formula:
 

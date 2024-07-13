@@ -9,7 +9,7 @@
 
 - **Charts and Patterns:** These are graphical representations of price movements over time. Common patterns include head and shoulders, double tops/bottoms, and triangles.
   
-- **Indicators and Oscillators:** Quantitative tools like moving averages, [Bollinger Bands](../b/bollinger_bands.md), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) help in identifying potential [market](../m/market.md) entry and exit points.
+- **Indicators and Oscillators:** Quantitative tools like moving averages, [Bollinger Bands](../b/bollinger_bands.md), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) help in identifying potential [market](../m/market.md) entry and exit points.
   
 - **[Support and Resistance](../s/support_and_resistance.md) Levels:** These are price points where a [security](../s/security.md) tends to find support as it is going down or resistance as it is going up.
 

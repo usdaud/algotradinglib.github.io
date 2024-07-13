@@ -27,7 +27,7 @@ The TSX Venture [Exchange](../e/exchange.md) serves as a junior [market](../m/ma
 
 ## Data and Indices
 ### S&P/TSX Composite Index
-The S&P/TSX Composite [Index](../i/index.md) is the [benchmark](../b/benchmark.md) [index](../i/index.md) for the performance of the Canadian [equity market](../e/equity_market.md). It includes around 250 of the largest companies [listed](../l/listed.md) on the TSX.
+The S&P/TSX Composite [Index](../i/index_instrument.md) is the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) for the performance of the Canadian [equity market](../e/equity_market.md). It includes around 250 of the largest companies [listed](../l/listed.md) on the TSX.
 
 ### Data Services
 TMX Group offers comprehensive [market](../m/market.md) data services, providing real-time and historical data that can be used for investment research, [algorithmic trading](../a/accountability.md), and [risk management](../r/risk_management.md).

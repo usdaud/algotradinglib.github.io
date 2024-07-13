@@ -8,7 +8,7 @@ Knock-In Barrier [Options](../o/options.md) are a type of exotic option in the [
 A Knock-In [Barrier Option](../b/barrier_option.md) is a financial [derivative](../d/derivative.md) that only becomes active or "knocks in" when the price of the [underlying asset](../u/underlying_asset.md) reaches or exceeds a predetermined barrier level. These [options](../o/options.md) are attractive to traders looking for a cost-effective means of exposure to certain [asset](../a/asset.md) price movements without immediately committing to a standard option.
 
 ### Components
-- **[Underlying Asset](../u/underlying_asset.md):** The [financial instrument](../f/financial_instrument.md) (e.g., stock, [index](../i/index.md), [currency](../c/currency.md) pair) upon which the option is based.
+- **[Underlying Asset](../u/underlying_asset.md):** The [financial instrument](../f/financial_instrument.md) (e.g., stock, [index](../i/index_instrument.md), [currency](../c/currency.md) pair) upon which the option is based.
 - **Barrier Level:** The predefined price point that the [underlying asset](../u/underlying_asset.md) must reach for the option to become active.
 - **[Strike Price](../s/strike_price.md):** The price at which the holder can buy ([call option](../c/call_option.md)) or sell ([put option](../p/put.md)) the [underlying asset](../u/underlying_asset.md) once the option is active.
 - **Expiry Date:** The date at which the option contract expires.

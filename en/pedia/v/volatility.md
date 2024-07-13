@@ -11,7 +11,7 @@ Volatility is a statistical measure of the [dispersion](../d/dispersion.md) of r
    - Implied Volatility is derived from the [market price](../m/market_price.md) of a [market](../m/market.md)-traded [derivative](../d/derivative.md), usually [options](../o/options.md). The IV metric reflects [market](../m/market.md) expectations of future volatility. It is not derived from past prices but rather the prices of current [options](../o/options.md) trading.
 
 3. **[Market](../m/market.md) Volatility**
-   - This type of volatility refers to the overall [market](../m/market.md), as opposed to a single [security](../s/security.md) or [asset](../a/asset.md). [Market](../m/market.md) volatility can be measured using indexes such as the Volatility [Index](../i/index.md) (VIX), which tracks the S&P 500’s implied volatility.
+   - This type of volatility refers to the overall [market](../m/market.md), as opposed to a single [security](../s/security.md) or [asset](../a/asset.md). [Market](../m/market.md) volatility can be measured using indexes such as the Volatility [Index](../i/index_instrument.md) (VIX), which tracks the S&P 500’s implied volatility.
    
 4. **Systematic and Unsystematic Volatility**
    - Systematic volatility, also known as [market risk](../m/market_risk.md), affects the entire [market](../m/market.md) and cannot be diversified away. Unsystematic volatility is [asset](../a/asset.md)-specific [risk](../r/risk.md) that can be mitigated through [diversification](../d/diversification.md).
@@ -96,7 +96,7 @@ Effective [risk management](../r/risk_management.md) strategies are crucial for 
 
 Various indices and financial instruments are designed to track and [trade](../t/trade.md) on volatility:
 
-1. **Volatility [Index](../i/index.md) (VIX)**
+1. **Volatility [Index](../i/index_instrument.md) (VIX)**
    - The VIX, often referred to as the "fear gauge," measures the [market](../m/market.md)'s expectations for volatility over the next 30 days. More information can be found on [Cboe](https://www.cboe.com/tradable_products/vix/).
 
 2. **Volatility ETFs and ETNs**

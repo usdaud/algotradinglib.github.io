@@ -10,10 +10,10 @@ Founded in 1969, MSCI has grown into a global powerhouse within the financial [i
 
 MSCI is perhaps best known for its wide [range](../r/range.md) of indexes, which serve as benchmarks for various [asset](../a/asset.md) classes. These indexes are used by [asset](../a/asset.md) managers, advisors, and banks for portfolio allocation, performance measurement, and [risk management](../r/risk_management.md). Some of the most popular MSCI indexes include:
 
-- **MSCI World [Index](../i/index.md):** A global [index](../i/index.md) that captures large and [mid-cap](../m/mid-cap.md) representation across 23 Developed Markets (DM) countries.
-- **MSCI Emerging Markets [Index](../i/index.md):** An [index](../i/index.md) that measures the performance of [equity](../e/equity.md) markets in global emerging economies.
+- **MSCI World [Index](../i/index_instrument.md):** A global [index](../i/index_instrument.md) that captures large and [mid-cap](../m/mid-cap.md) representation across 23 Developed Markets (DM) countries.
+- **MSCI Emerging Markets [Index](../i/index_instrument.md):** An [index](../i/index_instrument.md) that measures the performance of [equity](../e/equity.md) markets in global emerging economies.
 - **MSCI [EAFE Index](../e/eafe_index.md):** Covers developed markets around the world, excluding the U.S. and Canada.
-- **MSCI ACWI [Index](../i/index.md):** Represents the performance of both Developed and Emerging Markets.
+- **MSCI ACWI [Index](../i/index_instrument.md):** Represents the performance of both Developed and Emerging Markets.
 
 ## ESG Research
 

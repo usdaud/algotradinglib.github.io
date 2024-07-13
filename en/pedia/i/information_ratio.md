@@ -20,7 +20,7 @@ The Information Ratio thus gauges the [return](../r/return.md) per unit of [risk
     - It includes both realized and [unrealized gains](../u/unrealized_gains.md) or losses and encompasses dividends or [interest](../i/interest.md) received.
 
 2. **[Benchmark](../b/benchmark.md) [Return](../r/return.md) (\( R_b \))**:
-    - This is the [return](../r/return.md) of a reference [index](../i/index.md) or a comparative [benchmark](../b/benchmark.md) that reflects the [market](../m/market.md) or a particular sector.
+    - This is the [return](../r/return.md) of a reference [index](../i/index_instrument.md) or a comparative [benchmark](../b/benchmark.md) that reflects the [market](../m/market.md) or a particular sector.
     - The [benchmark](../b/benchmark.md) chosen should be relevant to the strategy employed by the portfolio.
 
 3. **[Excess Return](../e/excess_return.md)**:
@@ -41,7 +41,7 @@ The Information Ratio thus gauges the [return](../r/return.md) per unit of [risk
 
 ### Importance in Algorithmic Trading
 
-In the context of [algorithmic trading](../a/algorithmic_trading.md), the Information Ratio is critical for evaluating the effectiveness of [trading algorithms](../t/trading_algorithms.md). It helps in understanding whether the algorithm is providing adequate returns for the [risk](../r/risk.md) it undertakes relative to a [benchmark](../b/benchmark.md), typically an [index](../i/index.md) like the S&P 500 or another relevant [market](../m/market.md) [benchmark](../b/benchmark.md).
+In the context of [algorithmic trading](../a/algorithmic_trading.md), the Information Ratio is critical for evaluating the effectiveness of [trading algorithms](../t/trading_algorithms.md). It helps in understanding whether the algorithm is providing adequate returns for the [risk](../r/risk.md) it undertakes relative to a [benchmark](../b/benchmark.md), typically an [index](../i/index_instrument.md) like the S&P 500 or another relevant [market](../m/market.md) [benchmark](../b/benchmark.md).
 
 1. **Selection of Algorithms**:
     - Algorithms with a higher Information Ratio are preferred as they promise better [risk](../r/risk.md)-adjusted returns.

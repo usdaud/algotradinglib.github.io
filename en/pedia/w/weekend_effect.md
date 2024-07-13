@@ -28,7 +28,7 @@ In many markets, financial transactions are settled a few days after the [trade]
 
 ## Empirical Evidence
 
-Several empirical studies have provided a [wealth](../w/wealth.md) of data supporting the existence of the Weekend Effect. One notable study by French (1980) found that from 1953-1977, the [average return](../a/average_return.md) on the S&P 500 [index](../i/index.md) was significantly negative on Mondays.
+Several empirical studies have provided a [wealth](../w/wealth.md) of data supporting the existence of the Weekend Effect. One notable study by French (1980) found that from 1953-1977, the [average return](../a/average_return.md) on the S&P 500 [index](../i/index_instrument.md) was significantly negative on Mondays.
 
 A more recent study by Lucey and Cuthbertson (2017) looked at 47 international markets over the period from 1992-2013. They found that while the magnitude of the Weekend Effect has diminished over time, it still persists in many countries, particularly in emerging markets.
 

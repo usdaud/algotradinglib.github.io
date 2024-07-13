@@ -31,7 +31,7 @@ Growth companies often reinvest their [earnings](../e/earnings.md) back into the
 [Technical analysis](../t/technical_analysis.md) involves analyzing [price patterns](../p/price_patterns.md), trading volumes, and other [market](../m/market.md)-generated data to forecast the future price movements of [stocks](../s/stock.md). Common [technical indicators](../t/technical_indicators.md) used in [growth investing](../g/growth_investing.md) include:
 
 - **Moving Averages:** Simple Moving Averages (SMA) and Exponential Moving Averages (EMA) help identify trends.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the speed and change of price movements to [check](../c/check.md) [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the speed and change of price movements to [check](../c/check.md) [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Bollinger Bands](../b/bollinger_bands.md):** Utilized to ascertain price [volatility](../v/volatility.md).
 - **[Volume Analysis](../v/volume_analysis.md):** Helps confirm trends and price movement strength.
 

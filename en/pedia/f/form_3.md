@@ -19,7 +19,7 @@ Newly appointed officers, directors, or persons acquiring beneficial ownership o
 Form 3 includes several critical sections designed to capture comprehensive information about the filing individual or entity:
 
 1. **Identity of the Filer:** Information about the individual or entity filing the form, including name, address, and relationship to the [issuer](../i/issuer.md) (e.g., officer, director, 10% owner).
-2. **[Issuer](../i/issuer.md) Information:** Details about the issuing company, including its name and Central [Index](../i/index.md) Key (CIK) number.
+2. **[Issuer](../i/issuer.md) Information:** Details about the issuing company, including its name and Central [Index](../i/index_instrument.md) Key (CIK) number.
 3. **Securities Beneficially Owned:** A detailed account of all [equity](../e/equity.md) securities beneficially owned by the filer, categorized by class of securities (e.g., [common stock](../c/common_stock.md), [preferred stock](../p/preferred_stock.md)).
 4. **Explanatory Notes:** Space for any additional information or explanations necessary to understand the reported [holdings](../h/holdings.md) fully.
 

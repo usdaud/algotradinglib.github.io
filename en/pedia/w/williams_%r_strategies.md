@@ -41,7 +41,7 @@ A reading above -20 is considered [overbought](../o/overbought.md), while a read
    - For example, a [trader](../t/trader.md) might look for a [Williams %R](../w/williams_%r.md) [oversold](../o/oversold.md) condition on the daily chart and confirm with an [oversold](../o/oversold.md) condition on the hourly chart before executing a buy [order](../o/order.md).
 
 3. **Integration with Other Indicators**
-   Combining [Williams %R](../w/williams_%r.md) with other indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or [Bollinger Bands](../b/bollinger_bands.md) can provide more comprehensive [trading signals](../t/trading_signals.md).
+   Combining [Williams %R](../w/williams_%r.md) with other indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or [Bollinger Bands](../b/bollinger_bands.md) can provide more comprehensive [trading signals](../t/trading_signals.md).
    - For instance, a buy signal might be considered stronger if [Williams %R](../w/williams_%r.md) shows [oversold](../o/oversold.md) conditions while RSI also indicates the same.
 
 #### Example Strategy

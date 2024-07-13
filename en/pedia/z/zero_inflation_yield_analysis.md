@@ -6,7 +6,7 @@ Zero [inflation](../i/inflation.md) [yield analysis](../y/yield_analysis.md) is 
 
 Before diving into zero [inflation](../i/inflation.md) [yield analysis](../y/yield_analysis.md), it is essential to have a basic understanding of what [inflation](../i/inflation.md) is. [Inflation](../i/inflation.md) refers to the rate at which the general [price level](../p/price_level.md) of goods and services in an [economy](../e/economy.md) increases over time, leading to a decrease in the [purchasing power](../p/purchasing_power.md) of [money](../m/money.md). In other words, as [inflation](../i/inflation.md) rises, each unit of [currency](../c/currency.md) buys fewer goods and services.
 
-[Inflation](../i/inflation.md) is generally measured by indices such as the Consumer Price [Index](../i/index.md) (CPI) or the Producer Price [Index](../i/index.md) (PPI). These indices track the changes in prices of a [basket of goods](../b/basket_of_goods.md) and services over time.
+[Inflation](../i/inflation.md) is generally measured by indices such as the Consumer Price [Index](../i/index_instrument.md) (CPI) or the Producer Price [Index](../i/index_instrument.md) (PPI). These indices track the changes in prices of a [basket of goods](../b/basket_of_goods.md) and services over time.
 
 ## Real vs. Nominal Yield
 

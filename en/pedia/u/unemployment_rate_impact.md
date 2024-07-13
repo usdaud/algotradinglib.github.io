@@ -82,7 +82,7 @@ GDP growth is another crucial [indicator](../i/indicator.md) correlated with [un
 
 ### Consumer Confidence Index
 
-High [unemployment](../u/unemployment.md) typically dampens consumer confidence. Algorithms can use this [index](../i/index.md) to predict changes in consumer spending, impacting retail [stocks](../s/stock.md) and other consumer-focused industries.
+High [unemployment](../u/unemployment.md) typically dampens consumer confidence. Algorithms can use this [index](../i/index_instrument.md) to predict changes in consumer spending, impacting retail [stocks](../s/stock.md) and other consumer-focused industries.
 
 ## Challenges in Incorporating Unemployment Data
 

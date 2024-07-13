@@ -1,11 +1,11 @@
 # Active Portfolio Management
 
-Active [portfolio management](../p/portfolio_management.md) is a strategy where the [portfolio manager](../p/portfolio_manager.md) makes specific investments with the goal of outperforming an investment [benchmark](../b/benchmark.md) [index](../i/index.md). This is an ever-evolving practice that involves in-depth [market research](../m/market_research.md), vigilance, and a proactive approach to adjusting the portfolio based on [market](../m/market.md) conditions. The following sections [will](../w/will.md) delve into various aspects of active [portfolio management](../p/portfolio_management.md), providing a comprehensive understanding of its principles, methodologies, and related concepts.
+Active [portfolio management](../p/portfolio_management.md) is a strategy where the [portfolio manager](../p/portfolio_manager.md) makes specific investments with the goal of outperforming an investment [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). This is an ever-evolving practice that involves in-depth [market research](../m/market_research.md), vigilance, and a proactive approach to adjusting the portfolio based on [market](../m/market.md) conditions. The following sections [will](../w/will.md) delve into various aspects of active [portfolio management](../p/portfolio_management.md), providing a comprehensive understanding of its principles, methodologies, and related concepts.
 
 ## Key Concepts of Active Portfolio Management
 
 ### Active vs. Passive Management
-[Active management](../a/active_management.md) involves the selection of securities through individual stock picking and other strategies to achieve superior returns compared to a [benchmark](../b/benchmark.md) [index](../i/index.md). On the other hand, passive management requires less intervention after the initial investment, typically tracking a [market index](../m/market_index.md) such as the S&P 500.
+[Active management](../a/active_management.md) involves the selection of securities through individual stock picking and other strategies to achieve superior returns compared to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). On the other hand, passive management requires less intervention after the initial investment, typically tracking a [market index](../m/market_index.md) such as the S&P 500.
 
 ### The Role of the Portfolio Manager
 A [portfolio manager](../p/portfolio_manager.md) is responsible for the [active management](../a/active_management.md) of a [fund](../f/fund.md). Their tasks include [market](../m/market.md) analysis, [asset](../a/asset.md) selection, [risk management](../r/risk_management.md), and [portfolio rebalancing](../p/portfolio_rebalancing.md). Successful portfolio managers employ a mix of quantitative and [qualitative analysis](../q/qualitative_analysis.md) to make informed decisions.
@@ -43,7 +43,7 @@ Stock picking involves selecting [stocks](../s/stock.md) that are expected to pe
 [Quantitative models](../q/quantitative_models.md) use statistical techniques and algorithms to predict price movements and make investment decisions. These models can analyze large data sets for patterns and trends.
 
 ### Technical Indicators
-[Technical indicators](../t/technical_indicators.md) such as Moving Averages, MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) help managers in making decisions based on historical price and [volume](../v/volume.md) data.
+[Technical indicators](../t/technical_indicators.md) such as Moving Averages, MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) help managers in making decisions based on historical price and [volume](../v/volume.md) data.
 
 ### Software and Platforms
 Several specialized platforms and software assist active managers in data analysis, [backtesting](../b/backtesting.md), and [execution](../e/execution.md) of trades. Some popular ones include [Bloomberg](../b/bloomberg.md) Terminal, Thomson [Reuters](../r/reuters.md) Eikon, and advanced [proprietary trading](../p/proprietary_trading.md) software.
@@ -51,7 +51,7 @@ Several specialized platforms and software assist active managers in data analys
 ## Performance Evaluation
 
 ### Benchmarking
-Performance evaluation in active [portfolio management](../p/portfolio_management.md) often involves comparison against a [benchmark](../b/benchmark.md) [index](../i/index.md). Common benchmarks include the S&P 500, Dow Jones Industrial Average, and the [Nasdaq](../n/nasdaq.md) Composite.
+Performance evaluation in active [portfolio management](../p/portfolio_management.md) often involves comparison against a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). Common benchmarks include the S&P 500, Dow Jones Industrial Average, and the [Nasdaq](../n/nasdaq.md) Composite.
 
 ### Risk-adjusted Returns
 [Risk](../r/risk.md)-adjusted [performance metrics](../p/performance_metrics.md) like [Sharpe ratio](../s/sharpe_ratio.md), [Treynor ratio](../t/treynor_ratio.md), and [Jensen's alpha](../j/jensen's_alpha.md) help in assessing the returns relative to the [risk](../r/risk.md).

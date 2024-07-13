@@ -36,16 +36,16 @@ The [yield spread](../y/yield_spread.md) is the difference between the yields of
 ## Strategies in Bond Portfolio Management
 
 ### Passive Management Strategy
-In passive [bond](../b/bond.md) [portfolio management](../p/portfolio_management.md), the objective is to replicate the performance of a [bond](../b/bond.md) [market index](../m/market_index.md), such as the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index.md). This strategy involves minimal trading and focuses on long-term holding.
+In passive [bond](../b/bond.md) [portfolio management](../p/portfolio_management.md), the objective is to replicate the performance of a [bond](../b/bond.md) [market index](../m/market_index.md), such as the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md). This strategy involves minimal trading and focuses on long-term holding.
 
 #### Buy and Hold
 This strategy involves purchasing a diversified portfolio of bonds and holding them until they mature. This approach minimizes [transaction costs](../t/transaction_costs.md) and provides a predictable stream of [income](../i/income.md).
 
 #### Indexing
-[Indexing](../i/indexing.md) aims to match the performance of a specific [bond](../b/bond.md) [index](../i/index.md) by replicating its composition. This strategy requires periodic [rebalancing](../r/rebalancing.md) to maintain alignment with the [index](../i/index.md).
+[Indexing](../i/indexing.md) aims to match the performance of a specific [bond](../b/bond.md) [index](../i/index_instrument.md) by replicating its composition. This strategy requires periodic [rebalancing](../r/rebalancing.md) to maintain alignment with the [index](../i/index_instrument.md).
 
 ### Active Management Strategy
-Active [bond](../b/bond.md) [portfolio management](../p/portfolio_management.md) seeks to [outperform](../o/outperform.md) a [benchmark](../b/benchmark.md) [index](../i/index.md) through various [trading strategies](../t/trading_strategies.md) and [market](../m/market.md) analysis.
+Active [bond](../b/bond.md) [portfolio management](../p/portfolio_management.md) seeks to [outperform](../o/outperform.md) a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) through various [trading strategies](../t/trading_strategies.md) and [market](../m/market.md) analysis.
 
 #### Interest Rate Anticipation
 [Interest rate](../i/interest_rate.md) anticipation involves predicting changes in [interest](../i/interest.md) rates and adjusting the portfolio's [duration](../d/duration.md) accordingly. If [interest](../i/interest.md) rates are expected to rise, the manager might shorten the portfolio's [duration](../d/duration.md) to reduce [interest rate risk](../i/interest_rate_risk.md).
@@ -138,7 +138,7 @@ BlackRock is one of the world's largest [investment management](../i/investment_
 [Visit Fidelity Investments](https://www.fidelity.com)
 
 ### Vanguard
-Vanguard is known for its low-cost [bond](../b/bond.md) [index](../i/index.md) funds and ETFs. The [firm](../f/firm.md)'s [bond](../b/bond.md) [portfolio management](../p/portfolio_management.md) approach focuses on broad [diversification](../d/diversification.md) and cost [efficiency](../e/efficiency.md).
+Vanguard is known for its low-cost [bond](../b/bond.md) [index](../i/index_instrument.md) funds and ETFs. The [firm](../f/firm.md)'s [bond](../b/bond.md) [portfolio management](../p/portfolio_management.md) approach focuses on broad [diversification](../d/diversification.md) and cost [efficiency](../e/efficiency.md).
 [Visit Vanguard](https://www.vanguard.com)
 
 ### T. Rowe Price

@@ -16,7 +16,7 @@
 
    Examples:
    - **Moving Averages**: These models smooth out price data to identify trends. Common methods include simple moving averages (SMA) and exponential moving averages (EMA).
-   - **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+   - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 3. **[Quantitative Models](../q/quantitative_models.md)**:
    [Quantitative models](../q/quantitative_models.md) combine mathematical and statistical techniques to develop sophisticated algorithms capable of analyzing large datasets and identifying patterns.

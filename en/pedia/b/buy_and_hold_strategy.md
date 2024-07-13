@@ -28,7 +28,7 @@ As a passive strategy, [Buy and Hold](../b/buy_and_hold.md) does not require fre
 
 ### Implementation Steps
 
-1. **Research and Select Investments:** Conduct thorough research to select fundamentally strong investments with the potential for long-term growth. Often, investors choose [stocks](../s/stock.md) of well-established companies or diversified [index](../i/index.md) funds.
+1. **Research and Select Investments:** Conduct thorough research to select fundamentally strong investments with the potential for long-term growth. Often, investors choose [stocks](../s/stock.md) of well-established companies or diversified [index](../i/index_instrument.md) funds.
 2. **Diversify Portfolio:** Build a diversified portfolio by including various [asset](../a/asset.md) classes to mitigate [risk](../r/risk.md).
 3. **Set Investment Goals:** Define clear investment goals and time horizons.
 4. **Invest Consistently:** Regularly invest in the portfolio, often through dollar-cost averaging, to avoid attempting to time the [market](../m/market.md).
@@ -40,7 +40,7 @@ As a passive strategy, [Buy and Hold](../b/buy_and_hold.md) does not require fre
 Warren Buffett, CEO of [Berkshire Hathaway](../b/berkshire_hathaway.md), is one of the most iconic proponents of the [Buy and Hold](../b/buy_and_hold.md) strategy. His investment philosophy emphasizes buying fundamentally strong companies and holding them indefinitely. His success has turned [Berkshire Hathaway](../b/berkshire_hathaway.md) into a diversified [holding company](../h/holding_company.md) with significant investments in various sectors.
 
 #### Vanguard Group
-The Vanguard Group, founded by John C. Bogle, is an [investment management](../i/investment_management.md) company known for its low-cost [index](../i/index.md) funds and ETFs that facilitate [Buy and Hold](../b/buy_and_hold.md) [investing](../i/investing.md). Vanguard's philosophy encourages long-term [investing](../i/investing.md) and [diversification](../d/diversification.md). [Vanguard Group](https://www.vanguard.com)
+The Vanguard Group, founded by John C. Bogle, is an [investment management](../i/investment_management.md) company known for its low-cost [index](../i/index_instrument.md) funds and ETFs that facilitate [Buy and Hold](../b/buy_and_hold.md) [investing](../i/investing.md). Vanguard's philosophy encourages long-term [investing](../i/investing.md) and [diversification](../d/diversification.md). [Vanguard Group](https://www.vanguard.com)
 
 ### Case Studies and Examples
 
@@ -48,7 +48,7 @@ The Vanguard Group, founded by John C. Bogle, is an [investment management](../i
 Investors who bought Coca-Cola stock several decades ago and held onto it have seen substantial returns. The company’s consistent performance and dividends have exemplified the success of the [Buy and Hold](../b/buy_and_hold.md) approach.
 
 #### Example 2: S&P 500 Index Funds
-[Investing](../i/investing.md) in S&P 500 [index](../i/index.md) funds is a popular choice for [Buy and Hold](../b/buy_and_hold.md) investors. Historically, the S&P 500 has delivered an average [annual return](../a/annual_return.md) of about 10%, making it a reliable long-term investment.
+[Investing](../i/investing.md) in S&P 500 [index](../i/index_instrument.md) funds is a popular choice for [Buy and Hold](../b/buy_and_hold.md) investors. Historically, the S&P 500 has delivered an average [annual return](../a/annual_return.md) of about 10%, making it a reliable long-term investment.
 
 ### Conclusion
 

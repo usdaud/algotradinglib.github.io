@@ -66,7 +66,7 @@ To enhance the reliability of Tweezer patterns, traders often combine them with 
 
 1. **Moving Averages**: Using moving averages like the 50-day or [200-day moving average](../1/200-day_moving_average.md) can help traders confirm the strength and direction of the [underlying](../u/underlying.md) [trend](../t/trend.md).
 2. **[Volume Analysis](../v/volume_analysis.md)**: Observing [volume](../v/volume.md) can provide insight into whether the Tweezer pattern is supported by sufficient [market](../m/market.md) activity. Higher volumes lend more credibility to the pattern.
-3. **[Momentum Oscillators](../m/momentum_oscillators.md)**: Indicators such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can provide additional signals to validate a Tweezer pattern.
+3. **[Momentum Oscillators](../m/momentum_oscillators.md)**: Indicators such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can provide additional signals to validate a Tweezer pattern.
 4. **Fibonacci Levels**: [Fibonacci retracement](../f/fibonacci_retracement.md) or extension levels can help identify potential price targets and stop-loss points.
 
 ## Conclusion

@@ -14,8 +14,8 @@ There are several types of gilts, each with distinct features:
     - **Fixed-[Interest](../i/interest.md) Gilts**: Pay fixed semi-annual [interest](../i/interest.md) payments and [return](../r/return.md) the [principal](../p/principal.md) at [maturity](../m/maturity.md).
     - **Convertible Gilts**: Can be converted into other types of securities under predefined conditions, although these have become rare.
 
-2. **[Index](../i/index.md)-Linked Gilts**: 
-    - The [principal](../p/principal.md) and [interest](../i/interest.md) payments are adjusted in line with [inflation](../i/inflation.md), measured by the UK Retail Prices [Index](../i/index.md) (RPI). These [offer](../o/offer.md) protection against [inflation](../i/inflation.md) and are particularly appealing during periods of high [inflation](../i/inflation.md).
+2. **[Index](../i/index_instrument.md)-Linked Gilts**: 
+    - The [principal](../p/principal.md) and [interest](../i/interest.md) payments are adjusted in line with [inflation](../i/inflation.md), measured by the UK Retail Prices [Index](../i/index_instrument.md) (RPI). These [offer](../o/offer.md) protection against [inflation](../i/inflation.md) and are particularly appealing during periods of high [inflation](../i/inflation.md).
   
 3. **Undated Gilts**:
     - Have no fixed [maturity date](../m/maturity_date.md). The [principal](../p/principal.md) is not guaranteed to be repaid, but they [offer](../o/offer.md) perpetual [interest](../i/interest.md) payments. These are also quite rare in modern markets.
@@ -52,7 +52,7 @@ Since gilts pay fixed [interest](../i/interest.md), their [market](../m/market.m
 
 ### Inflation Risk
 
-Conventional gilts are sensitive to [inflation](../i/inflation.md). Rising [inflation](../i/inflation.md) erodes the real [value](../v/value.md) of the fixed [interest](../i/interest.md) payments and the [principal](../p/principal.md). [Index](../i/index.md)-linked gilts mitigate this [risk](../r/risk.md) as their payments adjust with [inflation](../i/inflation.md).
+Conventional gilts are sensitive to [inflation](../i/inflation.md). Rising [inflation](../i/inflation.md) erodes the real [value](../v/value.md) of the fixed [interest](../i/interest.md) payments and the [principal](../p/principal.md). [Index](../i/index_instrument.md)-linked gilts mitigate this [risk](../r/risk.md) as their payments adjust with [inflation](../i/inflation.md).
 
 ### Credit Risk
 
@@ -78,7 +78,7 @@ Investors may also [gain](../g/gain.md) exposure to gilts through collective inv
 
 When [investing](../i/investing.md) in gilts, it’s essential to consider factors such as:
 - **[Investment Horizon](../i/investment_horizon.md)**: Longer [maturity](../m/maturity.md) gilts tend to be more sensitive to [interest rate](../i/interest_rate.md) changes.
-- **[Risk Tolerance](../r/risk_tolerance.md)**: Determine the right balance between conventional and [index](../i/index.md)-linked gilts.
+- **[Risk Tolerance](../r/risk_tolerance.md)**: Determine the right balance between conventional and [index](../i/index_instrument.md)-linked gilts.
 - **Current Economic Environment**: Assess [interest rate](../i/interest_rate.md) trends and [inflation](../i/inflation.md) expectations.
 
 ## Gilts in the Economic Context

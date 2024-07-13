@@ -16,10 +16,10 @@ Borsa İstanbul operates under a multi-tier structure that comprises several dis
 
 ## Equities and Indices
 
-The BIST 100 is the [benchmark](../b/benchmark.md) stock [index](../i/index.md) of Borsa İstanbul. It includes the top 100 companies by [market capitalization](../m/market_capitalization.md) and [liquidity](../l/liquidity.md), reflecting the overall performance of the Turkish [equity market](../e/equity_market.md). Other significant indices include:
+The BIST 100 is the [benchmark](../b/benchmark.md) stock [index](../i/index_instrument.md) of Borsa İstanbul. It includes the top 100 companies by [market capitalization](../m/market_capitalization.md) and [liquidity](../l/liquidity.md), reflecting the overall performance of the Turkish [equity market](../e/equity_market.md). Other significant indices include:
 - **BIST 30**: Composed of the 30 highest-performing [stocks](../s/stock.md).
 - **BIST 50**: Comprising 50 notable companies.
-- **BIST Sustainability [Index](../i/index.md)**: Focuses on firms adhering to sustainability principles.
+- **BIST Sustainability [Index](../i/index_instrument.md)**: Focuses on firms adhering to sustainability principles.
 
 ### Notable Listed Companies
 

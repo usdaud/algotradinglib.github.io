@@ -74,7 +74,7 @@ Several financial institutions and [hedge](../h/hedge.md) funds [leverage](../l/
 
 1. **[Global Macro](../g/global_macro.md) [Hedge](../h/hedge.md) Funds**: Firms like Bridgewater Associates utilize macroeconomic indicators, including NIRD, to make informed decisions about [currency](../c/currency.md) exposures and international investments. (For more information, visit [Bridgewater Associates](https://www.bridgewater.com/))
 
-2. **Forex Trading Platforms**: Online forex trading platforms such as [OANDA](../o/oanda.md) and IG [Index](../i/index.md) [offer](../o/offer.md) tools and analytics, including [interest rate](../i/interest_rate.md) differentials, to support traders in implementing trades based on NIRD. (For more information, visit [OANDA](https://www.oanda.com/) or [IG](https://www.ig.com/))
+2. **Forex Trading Platforms**: Online forex trading platforms such as [OANDA](../o/oanda.md) and IG [Index](../i/index_instrument.md) [offer](../o/offer.md) tools and analytics, including [interest rate](../i/interest_rate.md) differentials, to support traders in implementing trades based on NIRD. (For more information, visit [OANDA](https://www.oanda.com/) or [IG](https://www.ig.com/))
 
 3. **Central Banks and Financial Analysts**: Central banks, like the Federal Reserve and the European Central [Bank](../b/bank.md), monitor and analyze NIRD as part of their economic reports and policy decisions. Financial analysts use this data to forecast [currency](../c/currency.md) trends and advise clients.
 

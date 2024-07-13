@@ -10,7 +10,7 @@
 
 1. **[Plain Vanilla](../p/plain_vanilla.md) Swaps:** These are the simplest form of [interest rate swaps](../i/interest_rate_swaps.md) where a [fixed interest rate](../f/fixed_interest_rate.md) is exchanged for a floating rate.
 2. **[Basis](../b/basis.md) Swaps:** In a [basis](../b/basis.md) [swap](../s/swap.md), both parties [exchange](../e/exchange.md) floating rates, often tied to different benchmarks.
-3. **Overnight [Index](../i/index.md) Swaps (OIS):** These involve the [exchange](../e/exchange.md) of fixed [interest](../i/interest.md) payments for overnight floating rates like Fed funds or the [Euro](../e/euro.md) Overnight [Index](../i/index.md) Average (EONIA).
+3. **Overnight [Index](../i/index_instrument.md) Swaps (OIS):** These involve the [exchange](../e/exchange.md) of fixed [interest](../i/interest.md) payments for overnight floating rates like Fed funds or the [Euro](../e/euro.md) Overnight [Index](../i/index_instrument.md) Average (EONIA).
 
 ### Interest Rate Futures
 

@@ -37,12 +37,12 @@ For companies to be [listed](../l/listed.md) on the OSL, they must meet specific
 - **[Credit Rating](../c/credit_rating.md):** Must be investment-grade for certain lists.
 
 ## Indices
-The Oslo Børs operates several indices to measure the performance of its markets, the most notable being the OBX [Index](../i/index.md). The OBX [Index](../i/index.md) is a free [float](../f/float.md) adjusted and [liquidity](../l/liquidity.md) screened [index](../i/index.md) consisting of the 25 most traded [stocks](../s/stock.md) on the Oslo Stock [Exchange](../e/exchange.md).
+The Oslo Børs operates several indices to measure the performance of its markets, the most notable being the OBX [Index](../i/index_instrument.md). The OBX [Index](../i/index_instrument.md) is a free [float](../f/float.md) adjusted and [liquidity](../l/liquidity.md) screened [index](../i/index_instrument.md) consisting of the 25 most traded [stocks](../s/stock.md) on the Oslo Stock [Exchange](../e/exchange.md).
 
 ### Key Indices
-- **OBX [Index](../i/index.md):** Tracks the top 25 [stocks](../s/stock.md).
-- **OSEBX:** Oslo Stock [Exchange](../e/exchange.md) [Benchmark](../b/benchmark.md) [Index](../i/index.md), representing all [listed](../l/listed.md) [shares](../s/shares.md).
-- **OSEFX:** Oslo Stock [Exchange](../e/exchange.md) Financial [Index](../i/index.md).
+- **OBX [Index](../i/index_instrument.md):** Tracks the top 25 [stocks](../s/stock.md).
+- **OSEBX:** Oslo Stock [Exchange](../e/exchange.md) [Benchmark](../b/benchmark.md) [Index](../i/index_instrument.md), representing all [listed](../l/listed.md) [shares](../s/shares.md).
+- **OSEFX:** Oslo Stock [Exchange](../e/exchange.md) Financial [Index](../i/index_instrument.md).
 
 ## Technology and Innovations
 The Oslo Stock [Exchange](../e/exchange.md) has continually upgraded its technological [infrastructure](../i/infrastructure.md) to support high-frequency trading (HFT) and other advanced trading activities. The [exchange](../e/exchange.md) uses the Optiq [trading platform](../t/trading_platform.md), which it [shares](../s/shares.md) with other [Euronext](../e/euronext.md) exchanges, to provide high-performance trading services.

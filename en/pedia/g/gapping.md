@@ -57,7 +57,7 @@ This strategy focuses on identifying exhaustion [gaps](../g/gap.md). Traders wat
 Modern trading platforms [offer](../o/offer.md) various tools to help traders identify and [trade](../t/trade.md) [gaps](../g/gap.md). Features such as [pre-market](../p/pre-market.md) and [after-hours trading](../a/after-hours_trading.md) data, real-time news feeds, and [technical analysis tools](../t/technical_analysis_tools.md) are crucial for gap trading. Some popular trading platforms include:
 - **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)** (https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 - **MetaTrader 4 and 5** (https://www.metatrader4.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)** (https://www.interactivebrokers.com/en/[index](../i/index.md).php?f=12763)
+- **[Interactive Brokers](../i/interactive_brokers.md)** (https://www.interactivebrokers.com/en/[index](../i/index_instrument.md).php?f=12763)
 
 ### 2. Charting Software
 Advanced charting software can help traders identify [gaps](../g/gap.md) and analyze their characteristics. Features such as customized indicators, historical data, and [pattern recognition](../p/pattern_recognition.md) are valuable tools for gap traders. Some widely used charting software includes:

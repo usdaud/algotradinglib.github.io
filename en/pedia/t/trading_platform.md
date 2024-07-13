@@ -43,7 +43,7 @@ Most trading platforms [offer](../o/offer.md) a [range](../r/range.md) of charti
 
 - [Candlestick](../c/candlestick.md) Charts
 - Moving Averages (SMA, EMA)
-- [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)
+- [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
 - MACD (Moving Average Convergence [Divergence](../d/divergence.md))
 - [Fibonacci Retracement](../f/fibonacci_retracement.md)
 

@@ -48,11 +48,11 @@ Despite their potential, growth-[weighted](../w/weighted.md) indices come with s
 
 ### Volatility
 
-High-growth companies often exhibit higher [volatility](../v/volatility.md). Rapid price movements can lead to significant short-term fluctuations in [index](../i/index.md) [value](../v/value.md).
+High-growth companies often exhibit higher [volatility](../v/volatility.md). Rapid price movements can lead to significant short-term fluctuations in [index](../i/index_instrument.md) [value](../v/value.md).
 
 ### Valuation Concerns
 
-Growth-focused [stocks](../s/stock.md) can become [overvalued](../o/overvalued.md), especially if [market sentiment](../m/market_sentiment.md) drives their prices beyond fundamental values. This can result in corrections that negatively impact [index](../i/index.md) performance.
+Growth-focused [stocks](../s/stock.md) can become [overvalued](../o/overvalued.md), especially if [market sentiment](../m/market_sentiment.md) drives their prices beyond fundamental values. This can result in corrections that negatively impact [index](../i/index_instrument.md) performance.
 
 ### Sector Concentration
 
@@ -62,11 +62,11 @@ By emphasizing growth sectors, these indices may become overly concentrated in s
 
 ### NASDAQ-100 Index
 
-The [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index.md), albeit not a pure growth-[weighted](../w/weighted.md) [index](../i/index.md), is heavily tilted towards technology and biotech companies, sectors known for [robust](../r/robust.md) growth. It includes companies like Apple, Microsoft, and Amazon, which are leaders in innovation and [market](../m/market.md) [expansion](../e/expansion.md).
+The [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index_instrument.md), albeit not a pure growth-[weighted](../w/weighted.md) [index](../i/index_instrument.md), is heavily tilted towards technology and biotech companies, sectors known for [robust](../r/robust.md) growth. It includes companies like Apple, Microsoft, and Amazon, which are leaders in innovation and [market](../m/market.md) [expansion](../e/expansion.md).
 
 ### Russell 1000 Growth Index
 
-The Russell 1000 Growth [Index](../i/index.md) specifically targets the growth segment of the Russell 1000, covering large-cap US [stocks](../s/stock.md) identified as having higher growth characteristics relative to the broader [market](../m/market.md).
+The Russell 1000 Growth [Index](../i/index_instrument.md) specifically targets the growth segment of the Russell 1000, covering large-cap US [stocks](../s/stock.md) identified as having higher growth characteristics relative to the broader [market](../m/market.md).
 
 ## Companies Involved in Developing Growth-Weighted Indices
 
@@ -80,13 +80,13 @@ Website: [MSCI Inc.](https://www.msci.com/)
 
 ### S&P Dow Jones Indices
 
-A major player in the indices space, S&P Dow Jones Indices offers numerous growth-focused indices, including the S&P 500 Growth [Index](../i/index.md), which selects companies from the S&P 500 exhibiting strong growth metrics.
+A major player in the indices space, S&P Dow Jones Indices offers numerous growth-focused indices, including the S&P 500 Growth [Index](../i/index_instrument.md), which selects companies from the S&P 500 exhibiting strong growth metrics.
 
 Website: [S&P Dow Jones Indices](https://www.spglobal.com/spdji/)
 
 ### Russell Investments
 
-Russell Investments provides a [range](../r/range.md) of indices focusing on different [market](../m/market.md) segments, with the Russell 1000 Growth [Index](../i/index.md) being a notable example.
+Russell Investments provides a [range](../r/range.md) of indices focusing on different [market](../m/market.md) segments, with the Russell 1000 Growth [Index](../i/index_instrument.md) being a notable example.
 
 Website: [Russell Investments](https://russellinvestments.com/)
 

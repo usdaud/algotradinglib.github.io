@@ -35,7 +35,7 @@ The data provided in Form 13F is aggregated into a summary report, which is made
 
 ## How to Access 13F Filings
 
-Form 13F filings are publicly accessible via the SEC's Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system. Investors can search for filings by using an institutional manager's name or their Central [Index](../i/index.md) Key (CIK) to locate relevant reports. The data can be downloaded in various formats for further analysis.
+Form 13F filings are publicly accessible via the SEC's Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system. Investors can search for filings by using an institutional manager's name or their Central [Index](../i/index_instrument.md) Key (CIK) to locate relevant reports. The data can be downloaded in various formats for further analysis.
 
 ## Implications for Investors
 

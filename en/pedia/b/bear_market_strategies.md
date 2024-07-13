@@ -20,7 +20,7 @@ To effectively implement [bear market](../b/bear_market.md) strategies, it's cru
 
 **[Short selling](../s/short_selling.md)** involves borrowing and selling an [asset](../a/asset.md) with the anticipation of buying it back at a lower price. Algorithmic tools can enhance [short selling](../s/short_selling.md) by identifying [overvalued](../o/overvalued.md) assets and executing trades more efficiently.
 
-- **[Technical Indicators](../t/technical_indicators.md)**: Algorithms can use [technical indicators](../t/technical_indicators.md) such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) to identify short-selling opportunities.
+- **[Technical Indicators](../t/technical_indicators.md)**: Algorithms can use [technical indicators](../t/technical_indicators.md) such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) to identify short-selling opportunities.
   
 - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Algorithms can analyze news, [social media](../s/social_media.md), and other data streams to gauge [market sentiment](../m/market_sentiment.md) and predict potential downturns.
 

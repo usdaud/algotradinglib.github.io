@@ -8,11 +8,11 @@ The concept of being oversold is crucial in both [technical analysis](../t/techn
 
 ## Technical Indicators
 
-Two widely used [technical indicators](../t/technical_indicator.md) for identifying oversold conditions are the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and the Moving Average Convergence [Divergence](../d/divergence.md) (MACD).
+Two widely used [technical indicators](../t/technical_indicator.md) for identifying oversold conditions are the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and the Moving Average Convergence [Divergence](../d/divergence.md) (MACD).
 
 ### Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is one of the most popular tools for spotting oversold conditions. Developed by J. Welles Wilder, the RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or oversold conditions in the price of a [security](../s/security.md). The RSI is calculated using the following formula:
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is one of the most popular tools for spotting oversold conditions. Developed by J. Welles Wilder, the RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or oversold conditions in the price of a [security](../s/security.md). The RSI is calculated using the following formula:
 
 ```
 RSI = 100 - (100 / (1 + RS))

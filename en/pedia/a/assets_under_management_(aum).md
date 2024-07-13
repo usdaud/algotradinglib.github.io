@@ -86,7 +86,7 @@ Regulatory changes can impact how AUM is calculated, reported, and used in [mark
 BlackRock is one of the largest [asset management](../a/asset_management.md) firms globally, with AUM exceeding $10 trillion (as of 2023). The [firm](../f/firm.md)'s vast AUM enables it to have a significant influence on global markets and investment trends. More about BlackRock can be found on their [official website](https://www.blackrock.com).
 
 ### Vanguard
-Vanguard is another major player in the [asset management](../a/asset_management.md) [industry](../i/industry.md), known for its low-cost [index](../i/index.md) funds and ETFs. Vanguard’s AUM reflects its dedication to providing cost-effective investment solutions. More about Vanguard can be found on their [official website](https://www.vanguard.com).
+Vanguard is another major player in the [asset management](../a/asset_management.md) [industry](../i/industry.md), known for its low-cost [index](../i/index_instrument.md) funds and ETFs. Vanguard’s AUM reflects its dedication to providing cost-effective investment solutions. More about Vanguard can be found on their [official website](https://www.vanguard.com).
 
 ### Fidelity
 Fidelity is a diversified financial services company [offering](../o/offering.md) [investment management](../i/investment_management.md) and advisory services. Fidelity's AUM represents its extensive client base and diversified investment products. More about Fidelity can be found on their [official website](https://www.fidelity.com).

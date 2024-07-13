@@ -22,11 +22,11 @@ Bursa Malaysia consists of several components:
 
 Bursa Malaysia uses several indices to represent different segments of the [market](../m/market.md):
 
-1. **FTSE Bursa Malaysia KLCI (Kuala Lumpur Composite [Index](../i/index.md))**: The most recognized [index](../i/index.md), comprising the 30 largest companies by [market capitalization](../m/market_capitalization.md). It serves as a [benchmark](../b/benchmark.md) for the Malaysian [market](../m/market.md).
+1. **FTSE Bursa Malaysia KLCI (Kuala Lumpur Composite [Index](../i/index_instrument.md))**: The most recognized [index](../i/index_instrument.md), comprising the 30 largest companies by [market capitalization](../m/market_capitalization.md). It serves as a [benchmark](../b/benchmark.md) for the Malaysian [market](../m/market.md).
   
-2. **FTSE Bursa Malaysia Hijrah Shariah [Index](../i/index.md)**: This [index](../i/index.md) includes Shariah-compliant companies, catering to ethical and religious investors.
+2. **FTSE Bursa Malaysia Hijrah Shariah [Index](../i/index_instrument.md)**: This [index](../i/index_instrument.md) includes Shariah-compliant companies, catering to ethical and religious investors.
   
-3. **FTSE Bursa Malaysia Mid 70 [Index](../i/index.md)**: Includes 70 [mid-cap](../m/mid-cap.md) companies, [offering](../o/offering.md) a snapshot of the mid-tier [market](../m/market.md).
+3. **FTSE Bursa Malaysia Mid 70 [Index](../i/index_instrument.md)**: Includes 70 [mid-cap](../m/mid-cap.md) companies, [offering](../o/offering.md) a snapshot of the mid-tier [market](../m/market.md).
 
 ## Trading Mechanisms
 
@@ -76,7 +76,7 @@ Several types of participants operate in Bursa Malaysia:
 
 ## Corporate Social Responsibility (CSR)
 
-Bursa Malaysia promotes sustainable and responsible [investing](../i/investing.md). It has initiatives encouraging companies to adopt CSR practices and disclose their environmental, social, and governance (ESG) performance. The FTSE4Good Bursa Malaysia [Index](../i/index.md) was launched to highlight companies with strong ESG practices.
+Bursa Malaysia promotes sustainable and responsible [investing](../i/investing.md). It has initiatives encouraging companies to adopt CSR practices and disclose their environmental, social, and governance (ESG) performance. The FTSE4Good Bursa Malaysia [Index](../i/index_instrument.md) was launched to highlight companies with strong ESG practices.
 
 ## Global Connections
 

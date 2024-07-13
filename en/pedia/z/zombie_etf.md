@@ -41,7 +41,7 @@ ETFs that do not align with current [investor](../i/investor.md) needs and prefe
 Investors holding [shares](../s/shares.md) in Zombie ETFs may face several challenges:
 
 1. **[Liquidity](../l/liquidity.md) Issues:** Low trading volumes can result in wide [bid](../b/bid.md)-ask [spreads](../s/spreads.md), increasing the cost of buying or selling [shares](../s/shares.md).
-2. **Tracking Errors:** Zombie ETFs may experience larger tracking errors, where the [fund](../f/fund.md)'s performance deviates from its [benchmark](../b/benchmark.md) [index](../i/index.md), due to difficulties in managing low [asset](../a/asset.md) levels.
+2. **Tracking Errors:** Zombie ETFs may experience larger tracking errors, where the [fund](../f/fund.md)'s performance deviates from its [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), due to difficulties in managing low [asset](../a/asset.md) levels.
 3. **[Risk](../r/risk.md) of Closure:** These ETFs are at a higher [risk](../r/risk.md) of closure or [liquidation](../l/liquidation.md), which can result in tax implications and the need to reinvest proceeds elsewhere.
 
 ### On Fund Managers

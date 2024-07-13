@@ -42,7 +42,7 @@ A standard Yen [futures contract](../f/futures_contract.md) on the CME represent
 
 ### Developing a Trading Strategy
 
-Successful Yen [futures](../f/futures.md) trading requires a well-thought-out strategy. Traders need to analyze technical and fundamental factors, such as economic data releases, [interest rate](../i/interest_rate.md) differentials, [geopolitical events](../g/geopolitical_events.md), and [market sentiment](../m/market_sentiment.md). Common [technical analysis](../t/technical_analysis.md) tools include moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and Fibonacci retracements.
+Successful Yen [futures](../f/futures.md) trading requires a well-thought-out strategy. Traders need to analyze technical and fundamental factors, such as economic data releases, [interest rate](../i/interest_rate.md) differentials, [geopolitical events](../g/geopolitical_events.md), and [market sentiment](../m/market_sentiment.md). Common [technical analysis](../t/technical_analysis.md) tools include moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and Fibonacci retracements.
 
 ### Risk Management
 

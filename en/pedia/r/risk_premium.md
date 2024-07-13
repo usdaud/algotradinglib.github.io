@@ -30,7 +30,7 @@ The calculation of [risk](../r/risk.md) premiums can differ based on the context
 
 ### Historical Approach
 
-The historical approach involves calculating the [average return](../a/average_return.md) difference between risky assets and [risk](../r/risk.md)-free assets over a specific period. For example, if the average historical [return](../r/return.md) of the S&P 500 [index](../i/index.md) is 10% and the [average return](../a/average_return.md) on 10-year U.S. Treasuries is 3%, the historical [equity risk premium](../e/equity_risk_premium.md) is 7%.
+The historical approach involves calculating the [average return](../a/average_return.md) difference between risky assets and [risk](../r/risk.md)-free assets over a specific period. For example, if the average historical [return](../r/return.md) of the S&P 500 [index](../i/index_instrument.md) is 10% and the [average return](../a/average_return.md) on 10-year U.S. Treasuries is 3%, the historical [equity risk premium](../e/equity_risk_premium.md) is 7%.
 
 ### Forward-Looking Approach
 
@@ -79,7 +79,7 @@ Several [economic indicators](../e/economic_indicators.md) influence the percept
 
 ### Market Volatility
 
-Higher [market](../m/market.md) [volatility](../v/volatility.md) usually corresponds with higher [risk](../r/risk.md) premiums, as investors [demand](../d/demand.md) greater compensation for increased [uncertainty](../u/uncertainty_in_trading.md). Indices like the CBOE [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX) serve as proxies for [market sentiment](../m/market_sentiment.md).
+Higher [market](../m/market.md) [volatility](../v/volatility.md) usually corresponds with higher [risk](../r/risk.md) premiums, as investors [demand](../d/demand.md) greater compensation for increased [uncertainty](../u/uncertainty_in_trading.md). Indices like the CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX) serve as proxies for [market sentiment](../m/market_sentiment.md).
 
 ### Interest Rates
 

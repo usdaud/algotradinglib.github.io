@@ -14,7 +14,7 @@ Price level typically refers to a specific [value](../v/value.md) or [range](../
 
 3. **[Commodity](../c/commodity.md) [Market](../m/market.md)**: In the [commodity](../c/commodity.md) [market](../m/market.md), price levels apply to [raw materials](../r/raw_materials.md) and primary agricultural products like oil, gold, wheat, and coffee. Understanding price levels here involves studying [supply](../s/supply.md) and [demand](../d/demand.md), geopolitical events, and seasonal variations.
 
-4. **Economic Context**: In [macroeconomics](../m/macroeconomics.md), the general price level refers to the average of current prices across the entire spectrum of goods and services produced in the [economy](../e/economy.md). It reflects [inflation](../i/inflation.md) or [deflation](../d/deflation.md) trends and is usually measured by indices like the Consumer Price [Index](../i/index.md) (CPI) or the Producer Price [Index](../i/index.md) (PPI).
+4. **Economic Context**: In [macroeconomics](../m/macroeconomics.md), the general price level refers to the average of current prices across the entire spectrum of goods and services produced in the [economy](../e/economy.md). It reflects [inflation](../i/inflation.md) or [deflation](../d/deflation.md) trends and is usually measured by indices like the Consumer Price [Index](../i/index_instrument.md) (CPI) or the Producer Price [Index](../i/index_instrument.md) (PPI).
 
 ## Technical Analysis of Price Levels
 

@@ -66,7 +66,7 @@ As of the latest data, the NSX has been steadily growing with an increasing numb
 
 - **[Market Capitalization](../m/market_capitalization.md)**: The total [market capitalization](../m/market_capitalization.md) of the NSX has been on an upward [trend](../t/trend.md), driven by both domestic and cross-[listed](../l/listed.md) companies.
 - **[Liquidity](../l/liquidity.md)**: Trading volumes have shown significant improvement, reflecting rising [investor](../i/investor.md) [interest](../i/interest.md) and confidence.
-- **Indices**: The NSX Overall [Index](../i/index.md) is the [benchmark](../b/benchmark.md) [index](../i/index.md), which tracks the performance of top companies [listed](../l/listed.md) on the [exchange](../e/exchange.md).
+- **Indices**: The NSX Overall [Index](../i/index_instrument.md) is the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), which tracks the performance of top companies [listed](../l/listed.md) on the [exchange](../e/exchange.md).
 
 ### International Participation
 

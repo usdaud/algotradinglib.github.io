@@ -29,9 +29,9 @@ Swaps come in various forms, with the most common ones being:
 
 ### 4. Equity Swaps
 
-[Equity](../e/equity.md) swaps involve the [exchange](../e/exchange.md) of cash flows based on the performance of an [equity](../e/equity.md) [index](../i/index.md) or individual [stocks](../s/stock.md). They provide a way to [gain](../g/gain.md) exposure to [equity](../e/equity.md) markets without directly owning the [underlying](../u/underlying.md) [stocks](../s/stock.md). 
+[Equity](../e/equity.md) swaps involve the [exchange](../e/exchange.md) of cash flows based on the performance of an [equity](../e/equity.md) [index](../i/index_instrument.md) or individual [stocks](../s/stock.md). They provide a way to [gain](../g/gain.md) exposure to [equity](../e/equity.md) markets without directly owning the [underlying](../u/underlying.md) [stocks](../s/stock.md). 
 
-- **[Total Return](../t/total_return.md) Swaps:** One party receives the [total return](../t/total_return.md) on an [equity](../e/equity.md) [index](../i/index.md) or individual stock, including dividends and [capital](../c/capital.md) gains, while the other party pays a fixed or floating rate.
+- **[Total Return](../t/total_return.md) Swaps:** One party receives the [total return](../t/total_return.md) on an [equity](../e/equity.md) [index](../i/index_instrument.md) or individual stock, including dividends and [capital](../c/capital.md) gains, while the other party pays a fixed or floating rate.
 
 ### 5. Credit Default Swaps (CDS)
 
@@ -45,7 +45,7 @@ Swaps generally involve the following key components:
 - **[Payment](../p/payment.md) Dates:** The specific dates on which the cash flows are exchanged.
 - **[Maturity Date](../m/maturity_date.md):** The final date on which the last [payment](../p/payment.md) is made, and the swap contract concludes.
 - **Fixed Rate or Price:** In fixed-for-floating swaps, this is the predetermined rate or price agreed upon by the parties.
-- **Floating Rate or Price:** In floating-for-floating swaps, this is the rate or price that changes based on an agreed-upon [index](../i/index.md) or [benchmark](../b/benchmark.md).
+- **Floating Rate or Price:** In floating-for-floating swaps, this is the rate or price that changes based on an agreed-upon [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md).
 
 ## Applications of Swaps
 

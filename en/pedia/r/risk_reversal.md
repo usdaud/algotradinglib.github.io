@@ -8,7 +8,7 @@
 
 1. **[Call Option](../c/call_option.md)**: A financial contract that gives the holder the right, but not the obligation, to buy a specified quantity of an [underlying asset](../u/underlying_asset.md) at a predetermined price ([strike price](../s/strike_price.md)) within a specified timeframe.
 2. **[Put Option](../p/put.md)**: A financial contract that gives the holder the right, but not the obligation, to sell a specified quantity of an [underlying asset](../u/underlying_asset.md) at a predetermined price ([strike price](../s/strike_price.md)) within a specified timeframe.
-3. **[Underlying Asset](../u/underlying_asset.md)**: The [financial instrument](../f/financial_instrument.md) (e.g., stock, [commodity](../c/commodity.md), [index](../i/index.md)) on which the [options](../o/options.md) are based.
+3. **[Underlying Asset](../u/underlying_asset.md)**: The [financial instrument](../f/financial_instrument.md) (e.g., stock, [commodity](../c/commodity.md), [index](../i/index_instrument.md)) on which the [options](../o/options.md) are based.
 
 In a [risk](../r/risk.md) [reversal](../r/reversal.md) strategy, the [options](../o/options.md) involved generally have the same [expiration date](../e/expiration_date.md), and the objective is to [hedge](../h/hedge.md) or speculate on the price movement of the [underlying asset](../u/underlying_asset.md).
 

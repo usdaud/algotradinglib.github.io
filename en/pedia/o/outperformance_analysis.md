@@ -4,7 +4,7 @@ Outperformance Analysis is a critical facet in the domain of [algorithmic tradin
 
 ## What is Outperformance?
 
-Outperformance, in financial terminology, refers to an investment or [trading strategy](../t/trading_strategy.md) that yields returns surpassing a particular [benchmark](../b/benchmark.md) [index](../i/index.md) or the average returns in a given [market](../m/market.md). Typically, benchmarks could be indices like the S&P 500, [NASDAQ](../n/nasdaq.md), or any other [market](../m/market.md)-relative [index](../i/index.md). A consistent outperformance indicates a [robust](../r/robust.md) and effective trading approach or algorithm that adds significant [value](../v/value.md) over simply following a passive [investment strategy](../i/investment_strategy.md).
+Outperformance, in financial terminology, refers to an investment or [trading strategy](../t/trading_strategy.md) that yields returns surpassing a particular [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) or the average returns in a given [market](../m/market.md). Typically, benchmarks could be indices like the S&P 500, [NASDAQ](../n/nasdaq.md), or any other [market](../m/market.md)-relative [index](../i/index_instrument.md). A consistent outperformance indicates a [robust](../r/robust.md) and effective trading approach or algorithm that adds significant [value](../v/value.md) over simply following a passive [investment strategy](../i/investment_strategy.md).
 
 ## Key Metrics in Outperformance Analysis
 
@@ -12,7 +12,7 @@ Several statistical and financial metrics are employed in outperformance analysi
 
 ### Alpha
 
-[Alpha](../a/alpha.md) represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md). It is a measure of [active return](../a/active_return.md) on an investment, and a positive [alpha](../a/alpha.md) indicates that the [trading strategy](../t/trading_strategy.md) has provided returns that exceed the [benchmark](../b/benchmark.md).
+[Alpha](../a/alpha.md) represents the [excess return](../e/excess_return.md) of an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). It is a measure of [active return](../a/active_return.md) on an investment, and a positive [alpha](../a/alpha.md) indicates that the [trading strategy](../t/trading_strategy.md) has provided returns that exceed the [benchmark](../b/benchmark.md).
 
 ```math
 \[alpha](../a/alpha.md) = R_i - (R_f + \[beta](../b/beta.md) \times (R_m - R_f))
@@ -21,7 +21,7 @@ Where:
 - \(R_i\) is the [return](../r/return.md) of the investment.
 - \(R_f\) is the [risk](../r/risk.md)-free rate.
 - \(\[beta](../b/beta.md)\) is the investment’s [beta](../b/beta.md), which measures the sensitivity of the investment to movements in the [benchmark](../b/benchmark.md).
-- \(R_m\) is the [return](../r/return.md) of the [benchmark](../b/benchmark.md) [index](../i/index.md).
+- \(R_m\) is the [return](../r/return.md) of the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 
 ### Sharpe Ratio
 

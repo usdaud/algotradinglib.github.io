@@ -118,7 +118,7 @@ stock_data = pd.DataFrame({'Date': dates, 'Price': prices})
 
 # Function to compute moving average crossover strategy returns
 def moving_average_crossover(data, short_window, long_window):
-    signals = pd.DataFrame([index](../i/index.md)=data.[index](../i/index.md))
+    signals = pd.DataFrame([index](../i/index_instrument.md)=data.[index](../i/index_instrument.md))
     signals['signal'] = 0.0
 
     signals['short_mavg'] = data['Price'].rolling(window=short_window, min_periods=1, center=False).mean()
@@ -140,7 +140,7 @@ for train_index, test_index in tscv.split(stock_data):
     returns = moving_average_crossover(train, short_window=5, long_window=20)
     test_returns = moving_average_crossover(test, short_window=5, long_window=20)
     
-    score = mean_squared_error(test_returns.dropna(), train['Price'].iloc[test_returns.dropna().[index](../i/index.md)])
+    score = mean_squared_error(test_returns.dropna(), train['Price'].iloc[test_returns.dropna().[index](../i/index_instrument.md)])
     scores.append(score)
 
 print(f"Cross-validated scores: {scores}")

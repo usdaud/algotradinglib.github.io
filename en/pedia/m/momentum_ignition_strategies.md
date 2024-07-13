@@ -25,7 +25,7 @@ Once the initial ignition has taken place and other traders start to follow the 
 [Momentum](../m/momentum.md) ignition strategies require extensive data analysis to identify suitable conditions for ignition. Key indicators and tools include:
 - **[Volume Analysis](../v/volume_analysis.md)**: High trading volumes can signal the potential for price movements.
 - **[Order Book Dynamics](../o/order_book_dynamics.md)**: The composition of buy and sell orders can help predict short-term price movements.
-- **[Technical Indicators](../t/technical_indicators.md)**: Tools such as Moving Averages and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) help identify [momentum](../m/momentum.md).
+- **[Technical Indicators](../t/technical_indicators.md)**: Tools such as Moving Averages and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) help identify [momentum](../m/momentum.md).
 
 ### Algorithm Design
 The algorithms designed for [momentum](../m/momentum.md) ignition strategies need to be highly sophisticated and often incorporate the following components:

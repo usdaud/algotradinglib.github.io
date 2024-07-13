@@ -55,7 +55,7 @@ Rather than buying near resistance levels, traders may wait for confirmation of 
 Analyzing trading volumes can provide insights into how [robust](../r/robust.md) the overhead [supply](../s/supply.md) is. High trading volumes during a [breakout](../b/breakout.md) often indicate strong buying [interest](../i/interest.md) capable of overcoming overhead [supply](../s/supply.md).
 
 ### 3. Using Indicators
-[Technical indicators](../t/technical_indicators.md) such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can help traders gauge the strength of resistance and potential for a [breakout](../b/breakout.md).
+[Technical indicators](../t/technical_indicators.md) such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can help traders gauge the strength of resistance and potential for a [breakout](../b/breakout.md).
 
 ### 4. Diversifying Positions
 To mitigate the [risk](../r/risk.md) associated with overhead [supply](../s/supply.md), traders may diversify their positions across different assets or sectors.

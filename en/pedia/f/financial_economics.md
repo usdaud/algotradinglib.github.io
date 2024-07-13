@@ -95,7 +95,7 @@ The [financial sector](../f/financial_sector.md) operates under a variety of reg
 ### Academic Resources
 Several academic journals and institutions focus on the study and advancement of financial [economics](../e/economics.md), including:
 - **[Journal](../j/journal.md) of [Finance](../f/finance.md) (https://jfin-swufe.springeropen.com/):** A leading academic [journal](../j/journal.md) covering all aspects of [finance](../f/finance.md).
-- **Financial [Economics](../e/economics.md) Network (https://www.ssrn.com/[index](../i/index.md).cfm/en/fin):** A repository of research papers and working documents in financial [economics](../e/economics.md).
+- **Financial [Economics](../e/economics.md) Network (https://www.ssrn.com/[index](../i/index_instrument.md).cfm/en/fin):** A repository of research papers and working documents in financial [economics](../e/economics.md).
 
 ## Conclusion
 Financial [economics](../e/economics.md) is a complex field that integrates economic principles with financial practices to inform investment strategies, corporate policies, and regulatory measures. Its multidimensional nature spans across various segments of [finance](../f/finance.md), [offering](../o/offering.md) critical insights into [market](../m/market.md) behaviors, [risk management](../r/risk_management.md), and economic dynamics.

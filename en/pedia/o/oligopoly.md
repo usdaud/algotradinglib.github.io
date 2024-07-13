@@ -75,6 +75,6 @@ Understanding oligopolistic [market](../m/market.md) structures is critical for 
 - **[Market](../m/market.md) Analysis**: Financial analysts often study the strategic behavior and [market](../m/market.md) positioning of firms in oligopolies to forecast future performance and [market](../m/market.md) trends.
 - **Investment Strategies**: Investment decisions in such markets often consider the impact of potential regulatory changes, competitive dynamics, and [market share](../m/market_share.md) stability.
 
-Investors can use tools such as [market](../m/market.md) concentration ratios and the Herfindahl-Hirschman [Index](../i/index.md) (HHI) to gauge the level of competition within a [market](../m/market.md).
+Investors can use tools such as [market](../m/market.md) concentration ratios and the Herfindahl-Hirschman [Index](../i/index_instrument.md) (HHI) to gauge the level of competition within a [market](../m/market.md).
 
 Understanding and analyzing oligopolies are fundamental for making informed decisions, whether one is engaging in algot trading, [financial analysis](../f/financial_analysis.md), or broader [financial planning](../f/financial_planning.md). These [market](../m/market.md) structures, with their unique characteristics and behaviors, [offer](../o/offer.md) both opportunities and challenges to those involved in [financial markets](../f/financial_market.md) and trading.

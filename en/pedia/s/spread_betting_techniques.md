@@ -128,7 +128,7 @@ A leading provider [offering](../o/offering.md) an array of tools for [spread be
 **[CMC Markets](../c/cmc_markets.md)** ([https://www.cmcmarkets.com](https://www.cmcmarkets.com))
 Offers competitive [spreads](../s/spreads.md), an intuitive platform, and useful [risk management](../r/risk_management.md) tools.
 
-**City [Index](../i/index.md)** ([https://www.cityindex.com](https://www.cityindex.com))
+**City [Index](../i/index_instrument.md)** ([https://www.cityindex.com](https://www.cityindex.com))
 Provides extensive research tools and a user-friendly platform suitable for both beginners and advanced traders.
 
 ### 8. Legal and Ethical Considerations

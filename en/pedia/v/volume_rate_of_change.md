@@ -42,7 +42,7 @@ A declining VROC during an [uptrend](../u/uptrend.md) may indicate that the buyi
 
 ### Confluence with Other Indicators
 
-Traders often use the VROC in conjunction with other [technical indicators](../t/technical_indicators.md), such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and MACD, to [gain](../g/gain.md) a more comprehensive view of the [market](../m/market.md). This multi-[indicator](../i/indicator.md) approach helps in filtering out [false signals](../f/false_signals_in_trading.md) and confirming trading decisions.
+Traders often use the VROC in conjunction with other [technical indicators](../t/technical_indicators.md), such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and MACD, to [gain](../g/gain.md) a more comprehensive view of the [market](../m/market.md). This multi-[indicator](../i/indicator.md) approach helps in filtering out [false signals](../f/false_signals_in_trading.md) and confirming trading decisions.
 
 ### Volume-Based Trading Rules
 

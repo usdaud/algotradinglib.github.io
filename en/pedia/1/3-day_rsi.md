@@ -1,6 +1,6 @@
 # 3-Day RSI
 
-The 3-Day [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements over a 3-day period. RSI oscillates between zero and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a traded [security](../s/security.md). When applied to a 3-day time frame, it becomes a more short-term [indicator](../i/indicator.md) compared to the more traditional 14-day RSI. This shorter [duration](../d/duration.md) can help traders take faster action in response to [market](../m/market.md) events.
+The 3-Day [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements over a 3-day period. RSI oscillates between zero and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a traded [security](../s/security.md). When applied to a 3-day time frame, it becomes a more short-term [indicator](../i/indicator.md) compared to the more traditional 14-day RSI. This shorter [duration](../d/duration.md) can help traders take faster action in response to [market](../m/market.md) events.
 
 ## Calculation of 3-Day RSI
 

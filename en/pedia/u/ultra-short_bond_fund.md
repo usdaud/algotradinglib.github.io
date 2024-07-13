@@ -94,7 +94,7 @@ When selecting an ultra-short [bond fund](../b/bond_fund.md), consider the follo
    
    [BlackRock BSBSX](https://www.blackrock.com/us/individual/products/239664/)
 
-4. **SPDR [Bloomberg](../b/bloomberg.md) Barclays 1-3 Month T-Bill ETF (BIL)**: Tracks a [market](../m/market.md)-[weighted](../w/weighted.md) [index](../i/index.md) of [U.S. Treasury](../u/u.s._treasury.md) bills with maturities of one to three months.
+4. **SPDR [Bloomberg](../b/bloomberg.md) Barclays 1-3 Month T-Bill ETF (BIL)**: Tracks a [market](../m/market.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md) of [U.S. Treasury](../u/u.s._treasury.md) bills with maturities of one to three months.
    
    [SPDR BIL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-1-3-month-t-bill-etf-bil)
 

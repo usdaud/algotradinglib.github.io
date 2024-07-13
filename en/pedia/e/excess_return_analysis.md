@@ -8,7 +8,7 @@
 
 ### Definition
 
-[Excess return](../e/excess_return.md) is the [return](../r/return.md) on an investment minus the [return](../r/return.md) on a [benchmark](../b/benchmark.md) [index](../i/index.md) or the [risk](../r/risk.md)-free rate. While the [absolute return](../a/absolute_return.md) of an investment indicates its overall [gain](../g/gain.md) or loss, the [excess return](../e/excess_return.md) focuses on the additional performance that isn't attributed to normal [market](../m/market.md) fluctuations.
+[Excess return](../e/excess_return.md) is the [return](../r/return.md) on an investment minus the [return](../r/return.md) on a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) or the [risk](../r/risk.md)-free rate. While the [absolute return](../a/absolute_return.md) of an investment indicates its overall [gain](../g/gain.md) or loss, the [excess return](../e/excess_return.md) focuses on the additional performance that isn't attributed to normal [market](../m/market.md) fluctuations.
 
 ### Calculation
 
@@ -18,7 +18,7 @@ If using a [risk](../r/risk.md)-free rate, the formula tweaks to:
 
 \[ \text{[Excess Return](../e/excess_return.md)} = \text{Investment [Return](../r/return.md)} - \text{[Risk](../r/risk.md)-Free Rate} \]
 
-For example, if an investment returned 10% over a period and the [benchmark](../b/benchmark.md) [index](../i/index.md) returned 7% during the same period, the [excess return](../e/excess_return.md) is 10% - 7% = 3%.
+For example, if an investment returned 10% over a period and the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) returned 7% during the same period, the [excess return](../e/excess_return.md) is 10% - 7% = 3%.
 
 ### Importance in Algorthmic Trading
 
@@ -34,7 +34,7 @@ For example, if an investment returned 10% over a period and the [benchmark](../
 
 ### Common Benchmarks
 
-1. **[Stock Market](../s/stock_market.md) Indices**: Indices like the S&P 500, [NASDAQ](../n/nasdaq.md), or Russell 2000 are commonly used. Each [index](../i/index.md) reflects trends and movements within specific [market](../m/market.md) segments.
+1. **[Stock Market](../s/stock_market.md) Indices**: Indices like the S&P 500, [NASDAQ](../n/nasdaq.md), or Russell 2000 are commonly used. Each [index](../i/index_instrument.md) reflects trends and movements within specific [market](../m/market.md) segments.
 2. **[Sector Indices](../s/sector_indices.md)**: For strategies focused on specific sectors (e.g., technology, healthcare), sector-specific indices [offer](../o/offer.md) more precise benchmarking.
 3. **Custom Benchmarks**: In some cases, a custom [benchmark](../b/benchmark.md) that closely aligns with the strategy's objectives and [risk](../r/risk.md) profile may be used.
 

@@ -1,6 +1,6 @@
 # Failure Swings
 
-Failure swings are a crucial concept in [technical analysis](../t/technical_analysis.md), specifically in the context of [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), one of the most widely used indicators in [algorithmic trading](../a/algorithmic_trading.md). Failure swings provide a signal that can indicate the potential [reversal](../r/reversal.md) of a current [trend](../t/trend.md) or the continuation of an existing [trend](../t/trend.md) under certain conditions. This document explores the intricacies of failure swings, their significance in trading, and ways traders can incorporate these signals into [algorithmic trading](../a/algorithmic_trading.md) strategies.
+Failure swings are a crucial concept in [technical analysis](../t/technical_analysis.md), specifically in the context of [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), one of the most widely used indicators in [algorithmic trading](../a/algorithmic_trading.md). Failure swings provide a signal that can indicate the potential [reversal](../r/reversal.md) of a current [trend](../t/trend.md) or the continuation of an existing [trend](../t/trend.md) under certain conditions. This document explores the intricacies of failure swings, their significance in trading, and ways traders can incorporate these signals into [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ## Introduction to Failure Swings
 
@@ -40,7 +40,7 @@ Identifying failure swings requires monitoring RSI movements closely. Traders ne
 
 1. **Observe [Overbought](../o/overbought.md)/[Oversold](../o/oversold.md) Conditions**: Traders first identify if the RSI has breached the standard [overbought](../o/overbought.md) (above 70) or [oversold](../o/oversold.md) (below 30) thresholds.
 
-2. **Track RSI Rebounds and Pullbacks**: Following the initial signal, traders then monitor RSI rebounds or pullbacks to identify if the [index](../i/index.md) halts before re-entering the [overbought](../o/overbought.md) or [oversold](../o/oversold.md) zones.
+2. **Track RSI Rebounds and Pullbacks**: Following the initial signal, traders then monitor RSI rebounds or pullbacks to identify if the [index](../i/index_instrument.md) halts before re-entering the [overbought](../o/overbought.md) or [oversold](../o/oversold.md) zones.
 
 3. **Confirmation of Failure Swing**: The move beyond the recent high or low, post the halt, signals a potential failure swing and thus a possible [trend reversal](../t/trend_reversal.md).
 

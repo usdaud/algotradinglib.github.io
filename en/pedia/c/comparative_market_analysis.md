@@ -37,7 +37,7 @@ Raw data needs to be cleaned to remove any inaccuracies or inconsistencies. This
 Feature engineering involves creating meaningful variables from raw data that can be used in the analysis. Some common features in CMA include:
 
 - **Price Ratios**: Ratios like Price-to-[Earnings](../e/earnings.md) (P/E), Price-to-Book (P/B), and [Dividend Yield](../d/dividend_yield.md).
-- **[Technical Indicators](../t/technical_indicator.md)**: Moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), [Bollinger Bands](../b/bollinger_band.md), etc.
+- **[Technical Indicators](../t/technical_indicator.md)**: Moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [Bollinger Bands](../b/bollinger_band.md), etc.
 - **Statistical Measures**: Mean, [median](../m/median.md), variance, [skewness](../s/skewness.md), and [kurtosis](../k/kurtosis.md).
 
 ### Model Building

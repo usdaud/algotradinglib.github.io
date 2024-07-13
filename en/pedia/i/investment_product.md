@@ -78,11 +78,11 @@ A professional [fund manager](../f/fund_manager.md) oversees a [mutual fund](../
 
 ## Exchange-Traded Funds (ETFs)
 
-ETFs are similar to mutual funds but [trade](../t/trade.md) on stock exchanges. They aim to replicate the performance of a specific [index](../i/index.md), sector, [commodity](../c/commodity.md), or other assets.
+ETFs are similar to mutual funds but [trade](../t/trade.md) on stock exchanges. They aim to replicate the performance of a specific [index](../i/index_instrument.md), sector, [commodity](../c/commodity.md), or other assets.
 
 ### How They Work
 
-Investors buy [shares](../s/shares.md) of an ETF through brokerage accounts. ETFs employ various strategies, including passive ([index](../i/index.md)-tracking) and [active management](../a/active_management.md).
+Investors buy [shares](../s/shares.md) of an ETF through brokerage accounts. ETFs employ various strategies, including passive ([index](../i/index_instrument.md)-tracking) and [active management](../a/active_management.md).
 
 ### Advantages
 
@@ -93,7 +93,7 @@ Investors buy [shares](../s/shares.md) of an ETF through brokerage accounts. ETF
 ### Risks
 
 - **[Market Risk](../m/market_risk.md)**: Movement depends on the [underlying](../u/underlying.md) assets.
-- **[Tracking Error](../t/tracking_error.md)**: Potential discrepancy between ETF performance and the tracked [index](../i/index.md).
+- **[Tracking Error](../t/tracking_error.md)**: Potential discrepancy between ETF performance and the tracked [index](../i/index_instrument.md).
 - **[Liquidity Risk](../l/liquidity_risk.md)**: Some ETFs may have lower trading volumes.
 
 ### Typical Investors

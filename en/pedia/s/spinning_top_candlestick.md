@@ -84,7 +84,7 @@ As with any [trading strategy](../t/trading_strategy.md), it’s crucial to inco
 
 #### Case Study 1: Stock Market
 
-In a historical analysis of a major stock [index](../i/index.md), the S&P 500, the presence of [Spinning Top patterns](../s/spinning_top_patterns.md) was frequently observed at key [market](../m/market.md) turning points. For instance, during the 2007-2008 [financial crisis](../f/financial_crisis.md), several Spinning Top candlesticks appeared before significant [market](../m/market.md) reversals, providing valuable signals for traders.
+In a historical analysis of a major stock [index](../i/index_instrument.md), the S&P 500, the presence of [Spinning Top patterns](../s/spinning_top_patterns.md) was frequently observed at key [market](../m/market.md) turning points. For instance, during the 2007-2008 [financial crisis](../f/financial_crisis.md), several Spinning Top candlesticks appeared before significant [market](../m/market.md) reversals, providing valuable signals for traders.
 
 #### Case Study 2: Cryptocurrency Market
 

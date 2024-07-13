@@ -16,12 +16,12 @@
 
 ### 1. Stable Distributions
 
-Stable distributions, particularly Lévy stable distributions, generalize the [Gaussian distribution](../g/gaussian_distribution.md) and allow for [skewness](../s/skewness.md) and heavier tails. The most common type is the α-stable [distribution](../d/distribution.md), defined by four parameters: location, scale, [skewness](../s/skewness.md), and stability [index](../i/index.md) (α).
+Stable distributions, particularly Lévy stable distributions, generalize the [Gaussian distribution](../g/gaussian_distribution.md) and allow for [skewness](../s/skewness.md) and heavier tails. The most common type is the α-stable [distribution](../d/distribution.md), defined by four parameters: location, scale, [skewness](../s/skewness.md), and stability [index](../i/index_instrument.md) (α).
 
 - **Location Parameter**: Specifies the central tendency of the [distribution](../d/distribution.md).
 - **Scale Parameter**: Dictates the width or [dispersion](../d/dispersion.md).
 - **[Skewness](../s/skewness.md) Parameter**: Controls the asymmetry.
-- **Stability [Index](../i/index.md) (α)**: Ranges from 0 to 2, where α = 2 corresponds to a [Gaussian distribution](../g/gaussian_distribution.md). α < 2 allows for heavy tails.
+- **Stability [Index](../i/index_instrument.md) (α)**: Ranges from 0 to 2, where α = 2 corresponds to a [Gaussian distribution](../g/gaussian_distribution.md). α < 2 allows for heavy tails.
 
 **Advantages**: More accurately models the observed properties of financial returns including heavy tails and [skewness](../s/skewness.md).
 

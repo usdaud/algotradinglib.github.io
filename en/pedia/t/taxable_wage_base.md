@@ -12,7 +12,7 @@ In the United States, the [Social Security](../s/social_security.md) taxable wag
 - **Self-Employed**: Self-employed individuals pay 12.4% of their net [earnings](../e/earnings.md) up to the taxable wage base.
 
 ### Adjustments
-- The SSA adjusts the taxable wage base each year based on changes in the national average wage [index](../i/index.md). These adjustments occur to ensure the system remains financially sound and capable of paying future benefits.
+- The SSA adjusts the taxable wage base each year based on changes in the national average wage [index](../i/index_instrument.md). These adjustments occur to ensure the system remains financially sound and capable of paying future benefits.
 
 ## Unemployment Insurance Taxable Wage Base
 
@@ -54,7 +54,7 @@ The [Social Security](../s/social_security.md) taxable wage base has changed sig
 These changes often reflect broader economic trends, including [inflation](../i/inflation.md) and wage growth. A rising taxable wage base typically indicates increases in overall [income](../i/income.md) levels, which can signal [economic growth](../e/economic_growth.md).
 
 ### Legislative Influence
-Government decisions, such as the 1983 amendments to the [Social Security](../s/social_security.md) Act, can also impact the taxable wage base. These amendments led to automatic increases tied to the national average wage [index](../i/index.md).
+Government decisions, such as the 1983 amendments to the [Social Security](../s/social_security.md) Act, can also impact the taxable wage base. These amendments led to automatic increases tied to the national average wage [index](../i/index_instrument.md).
 
 ## Controversies and Discussions
 

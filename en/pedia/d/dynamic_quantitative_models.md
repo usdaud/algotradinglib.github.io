@@ -13,7 +13,7 @@ Dynamic [Quantitative Models](../q/quantitative_models.md) employ statistical te
     - **[Data Cleaning](../d/data_cleaning.md) and Normalization**: Raw data is cleaned to remove inaccuracies or anomalies and normalized to ensure consistency.
 
 2. **Feature Engineering**:
-    - **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as Moving Averages (MA), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) are computed.
+    - **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as Moving Averages (MA), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) are computed.
     - **[Sentiment Analysis](../s/sentiment_analysis.md)**: [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques analyze [market sentiment](../m/market_sentiment.md) from news articles and [social media](../s/social_media.md).
 
 3. **Model Development**:

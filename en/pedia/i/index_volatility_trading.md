@@ -1,6 +1,6 @@
 # Index Volatility Trading
 
-[Index](../i/index.md) [Volatility](../v/volatility.md) Trading, sometimes referred to as [Volatility](../v/volatility.md) [Index](../i/index.md) Trading or [Volatility](../v/volatility.md)-Based Trading, is a strategy used by traders and investors which focuses on the fluctuation of [market](../m/market.md) indices. This strategy is particularly popular among those who prefer to [capitalize](../c/capitalize.md) on short-term [market](../m/market.md) movements and the [market](../m/market.md)'s inherent [volatility](../v/volatility.md). Let's delve deeper into the various aspects of [Index](../i/index.md) [Volatility](../v/volatility.md) Trading.
+[Index](../i/index_instrument.md) [Volatility](../v/volatility.md) Trading, sometimes referred to as [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) Trading or [Volatility](../v/volatility.md)-Based Trading, is a strategy used by traders and investors which focuses on the fluctuation of [market](../m/market.md) indices. This strategy is particularly popular among those who prefer to [capitalize](../c/capitalize.md) on short-term [market](../m/market.md) movements and the [market](../m/market.md)'s inherent [volatility](../v/volatility.md). Let's delve deeper into the various aspects of [Index](../i/index_instrument.md) [Volatility](../v/volatility.md) Trading.
 
 ## What is Volatility?
 
@@ -10,19 +10,19 @@
 
 ### CBOE Volatility Index (VIX)
 
-The most well-known [volatility](../v/volatility.md) [index](../i/index.md) is the CBOE [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX), often referred to as the "fear gauge," because it represents [market](../m/market.md) participants' expectations of future [volatility](../v/volatility.md). Specifically, it reflects the expected [volatility](../v/volatility.md) of the S&P 500 [Index](../i/index.md) over the next 30 days. The VIX is calculated using the prices of S&P 500 [index options](../i/index_options.md).
+The most well-known [volatility](../v/volatility.md) [index](../i/index_instrument.md) is the CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX), often referred to as the "fear gauge," because it represents [market](../m/market.md) participants' expectations of future [volatility](../v/volatility.md). Specifically, it reflects the expected [volatility](../v/volatility.md) of the S&P 500 [Index](../i/index_instrument.md) over the next 30 days. The VIX is calculated using the prices of S&P 500 [index options](../i/index_options.md).
 
 Link: [CBOE VIX](https://www.cboe.com/tradable_products/vix/)
 
 ### Other Global Volatility Indices
 
-1. **VSTOXX**: The [EURO](../e/euro.md) STOXX 50 [Volatility](../v/volatility.md) [Index](../i/index.md) measures the [Eurozone](../e/eurozone.md)'s [stock market](../s/stock_market.md) [volatility](../v/volatility.md) and is comparable to the VIX for European markets.
+1. **VSTOXX**: The [EURO](../e/euro.md) STOXX 50 [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) measures the [Eurozone](../e/eurozone.md)'s [stock market](../s/stock_market.md) [volatility](../v/volatility.md) and is comparable to the VIX for European markets.
    
    Link: [VSTOXX](https://www.stoxx.com/indices/index-information.html?symbol=V2TX)
 
-2. **VXJ**: The [Nikkei](../n/nikkei.md) [Volatility](../v/volatility.md) [Index](../i/index.md), also known as VXJ, measures the expected [volatility](../v/volatility.md) of the [Nikkei](../n/nikkei.md) 225 [index](../i/index.md) in Japan.
+2. **VXJ**: The [Nikkei](../n/nikkei.md) [Volatility](../v/volatility.md) [Index](../i/index_instrument.md), also known as VXJ, measures the expected [volatility](../v/volatility.md) of the [Nikkei](../n/nikkei.md) 225 [index](../i/index_instrument.md) in Japan.
 
-3. **VIXY**: The iPath Series B S&P 500 VIX Short-Term [Futures](../f/futures.md) ETN provides exposure to the VIX [Index](../i/index.md) through short-term [futures contracts](../f/futures_contracts.md) on the [index](../i/index.md).
+3. **VIXY**: The iPath Series B S&P 500 VIX Short-Term [Futures](../f/futures.md) ETN provides exposure to the VIX [Index](../i/index_instrument.md) through short-term [futures contracts](../f/futures_contracts.md) on the [index](../i/index_instrument.md).
 
    Link: [VIXY](https://www.barclaysinvestments.com/etns/product-details/?name=VIXY)
 
@@ -101,4 +101,4 @@ Advanced analytical tools can help traders analyze [market](../m/market.md) cond
 
 ## Conclusion
 
-[Index](../i/index.md) [Volatility](../v/volatility.md) Trading is a sophisticated strategy that offers the potential for substantial profits, especially in turbulent [market](../m/market.md) conditions. However, it requires a deep understanding of [market dynamics](../m/market_dynamics.md), precise timing, and careful [risk management](../r/risk_management.md). By utilizing a combination of long and short [volatility](../v/volatility.md) strategies, [option spreads](../o/option_spreads.md), and hedging techniques, traders can navigate the complexities of [volatility](../v/volatility.md) trading to achieve their investment objectives.
+[Index](../i/index_instrument.md) [Volatility](../v/volatility.md) Trading is a sophisticated strategy that offers the potential for substantial profits, especially in turbulent [market](../m/market.md) conditions. However, it requires a deep understanding of [market dynamics](../m/market_dynamics.md), precise timing, and careful [risk management](../r/risk_management.md). By utilizing a combination of long and short [volatility](../v/volatility.md) strategies, [option spreads](../o/option_spreads.md), and hedging techniques, traders can navigate the complexities of [volatility](../v/volatility.md) trading to achieve their investment objectives.

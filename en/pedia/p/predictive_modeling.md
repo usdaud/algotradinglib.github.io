@@ -38,7 +38,7 @@ Predictive modeling encompasses several core concepts that are critical for deve
 
 1. **Price Prediction**:
    - **Time-Series Analysis**: Using historical price data to predict future price movements. Common techniques include ARIMA (AutoRegressive Integrated Moving Average), LSTM networks, and Prophet (a [forecasting](../f/forecasting.md) tool by Facebook).
-   - **[Technical Indicators](../t/technical_indicators.md)**: Leveraging [technical analysis](../t/technical_analysis.md) indicators such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) to enhance [predictive models](../p/predictive_models_in_trading.md).
+   - **[Technical Indicators](../t/technical_indicators.md)**: Leveraging [technical analysis](../t/technical_analysis.md) indicators such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) to enhance [predictive models](../p/predictive_models_in_trading.md).
 
 2. **[Sentiment Analysis](../s/sentiment_analysis.md)**:
    - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Analyzing news articles, [social media](../s/social_media.md) posts, and other text data to gauge [market sentiment](../m/market_sentiment.md) and predict how news might impact stock prices.

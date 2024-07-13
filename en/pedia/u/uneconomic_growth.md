@@ -30,7 +30,7 @@ The Genuine Progress [Indicator](../i/indicator.md) is an alternative metric to 
 
 ### Human Development Index (HDI)
 
-The Human Development [Index](../i/index.md), although not specifically designed to measure uneconomic growth, provides a broader perspective on growth by considering [life expectancy](../l/life_expectancy.md), education, and [per capita](../p/per_capita.md) [income](../i/income.md).
+The Human Development [Index](../i/index_instrument.md), although not specifically designed to measure uneconomic growth, provides a broader perspective on growth by considering [life expectancy](../l/life_expectancy.md), education, and [per capita](../p/per_capita.md) [income](../i/income.md).
 
 ### Ecological Footprint
 

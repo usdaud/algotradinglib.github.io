@@ -29,8 +29,8 @@ OSE operates Monday through Friday, with specific trading hours:
 
 Several key indices track the performance of securities [listed](../l/listed.md) on OSE:
 
-- **OSEBX**: The Oslo Børs [Benchmark](../b/benchmark.md) [Index](../i/index.md), which includes the most [liquid](../l/liquid.md) [stocks](../s/stock.md).
-- **OSEFX**: The Oslo Børs Financial [Index](../i/index.md), focusing on [financial sector](../f/financial_sector.md) [stocks](../s/stock.md).
+- **OSEBX**: The Oslo Børs [Benchmark](../b/benchmark.md) [Index](../i/index_instrument.md), which includes the most [liquid](../l/liquid.md) [stocks](../s/stock.md).
+- **OSEFX**: The Oslo Børs Financial [Index](../i/index_instrument.md), focusing on [financial sector](../f/financial_sector.md) [stocks](../s/stock.md).
 - **OBX**: Comprises the 25 most traded [stocks](../s/stock.md) on the [exchange](../e/exchange.md).
 
 ### Regulatory Framework

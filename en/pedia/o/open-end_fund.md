@@ -33,7 +33,7 @@ The total assets of an [open](../o/open.md)-end [fund](../f/fund.md) include all
 Balanced funds invest in a diversified portfolio of equities and fixed-[income](../i/income.md) securities. Their objective is to provide a balanced mix of [income](../i/income.md) and [capital](../c/capital.md) growth.
 
 ### 5. Index Funds
-[Index](../i/index.md) funds aim to replicate the performance of a particular [market index](../m/market_index.md), such as the S&P 500. These funds generally have lower [expense](../e/expense.md) ratios since they follow a passive [investment strategy](../i/investment_strategy.md).
+[Index](../i/index_instrument.md) funds aim to replicate the performance of a particular [market index](../m/market_index.md), such as the S&P 500. These funds generally have lower [expense](../e/expense.md) ratios since they follow a passive [investment strategy](../i/investment_strategy.md).
 
 ## Advantages and Disadvantages
 ### Advantages:
@@ -52,7 +52,7 @@ Balanced funds invest in a diversified portfolio of equities and fixed-[income](
 
 ## Prominent Global Examples
 ### Vanguard Group
-The Vanguard Group is one of the largest providers of mutual funds and is known for its low-cost [index](../i/index.md) funds. They [offer](../o/offer.md) a wide [range](../r/range.md) of [open](../o/open.md)-end funds catering to different investment strategies. Visit their website for more information: [Vanguard](https://www.vanguard.com/)
+The Vanguard Group is one of the largest providers of mutual funds and is known for its low-cost [index](../i/index_instrument.md) funds. They [offer](../o/offer.md) a wide [range](../r/range.md) of [open](../o/open.md)-end funds catering to different investment strategies. Visit their website for more information: [Vanguard](https://www.vanguard.com/)
 
 ### Fidelity Investments
 [Fidelity Investments](../f/fidelity_investments.md) is renowned for its [mutual fund](../m/mutual_fund.md) offerings and professional management services. They [offer](../o/offer.md) a variety of [open](../o/open.md)-end funds in different [asset](../a/asset.md) categories. More details can be found here: [Fidelity](https://www.fidelity.com/)

@@ -68,7 +68,7 @@ The [volatility surface](../v/volatility_surface.md) is a three-dimensional plot
 
 ### VIX - The Volatility Index
 
-The Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE) [Volatility](../v/volatility.md) [Index](../i/index.md), commonly referred to as the VIX, measures the [market](../m/market.md)'s expectation of [volatility](../v/volatility.md) over the next 30 days. Derived from the implied volatilities of S&P 500 [index options](../i/index_options.md), the VIX is often referred to as the "fear gauge."
+The Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE) [Volatility](../v/volatility.md) [Index](../i/index_instrument.md), commonly referred to as the VIX, measures the [market](../m/market.md)'s expectation of [volatility](../v/volatility.md) over the next 30 days. Derived from the implied volatilities of S&P 500 [index options](../i/index_options.md), the VIX is often referred to as the "fear gauge."
 
 ### Skew and Smiles
 

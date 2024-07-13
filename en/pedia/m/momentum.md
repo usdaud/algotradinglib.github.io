@@ -6,7 +6,7 @@ Momentum is a widely-used concept in both trading and [finance](../f/finance.md)
 
 In the [financial markets](../f/financial_market.md), momentum refers to the tendency of securities to continue moving in a given direction. This could mean an upward (bullish) or downward (bearish) direction over a specific period. Momentum is typically measured over periods ranging from a few hours to several months, depending on the [trader](../t/trader.md)'s strategy and the [financial instrument](../f/financial_instrument.md) involved. The basic premise is that securities that have shown strong performance (upward momentum) tend to continue to [outperform](../o/outperform.md), and those that have shown poor performance (downward momentum) tend to continue to [underperform](../u/underperform.md), over short to intermediate time horizons.
 
-Momentum can be quantified through various indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and rate of change indicators. Interestingly, momentum can also occur in various [asset](../a/asset.md) classes including [stocks](../s/stock.md), bonds, commodities, and cryptocurrencies.
+Momentum can be quantified through various indicators like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and rate of change indicators. Interestingly, momentum can also occur in various [asset](../a/asset.md) classes including [stocks](../s/stock.md), bonds, commodities, and cryptocurrencies.
 
 ## Historical Perspective
 
@@ -27,7 +27,7 @@ Momentum can be classified into several types, depending on the strategy and par
 
 ### Price Momentum
 
-[Price momentum](../p/price_momentum.md) focuses on the changes in the price of the [asset](../a/asset.md). It's usually measured by comparing the current price with the price from a previous period. For example, a [trader](../t/trader.md) might look at a stock's performance over the past six months and buy if it has outperformed a [benchmark](../b/benchmark.md) [index](../i/index.md).
+[Price momentum](../p/price_momentum.md) focuses on the changes in the price of the [asset](../a/asset.md). It's usually measured by comparing the current price with the price from a previous period. For example, a [trader](../t/trader.md) might look at a stock's performance over the past six months and buy if it has outperformed a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 
 ### Volume Momentum
 

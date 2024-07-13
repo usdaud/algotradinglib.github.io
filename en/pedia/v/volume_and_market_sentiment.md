@@ -42,7 +42,7 @@ Algorithms [leverage](../l/leverage.md) various [volume](../v/volume.md)-based m
   
   2. **[Economic Indicators](../e/economic_indicators.md)**: Macro-economic data releases, such as GDP growth, employment figures, and [interest rate](../i/interest_rate.md) decisions, can shape [market sentiment](../m/market_sentiment.md) by influencing expectations about future economic performance.
   
-  3. **[Technical Indicators](../t/technical_indicators.md)**: Sentiment can also be observed through [technical analysis](../t/technical_analysis.md) tools, such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [sentiment surveys](../s/sentiment_surveys.md) like the AAII [Investor](../i/investor.md) Sentiment Survey.
+  3. **[Technical Indicators](../t/technical_indicators.md)**: Sentiment can also be observed through [technical analysis](../t/technical_analysis.md) tools, such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [sentiment surveys](../s/sentiment_surveys.md) like the AAII [Investor](../i/investor.md) Sentiment Survey.
   
   4. **[Options](../o/options.md) [Market](../m/market.md) Data**: The [options](../o/options.md) [market](../m/market.md) provides valuable insights into sentiment, with metrics like the put/call ratio indicating whether investors are more inclined towards protective puts or speculative calls.
 

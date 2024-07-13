@@ -46,7 +46,7 @@ For algo traders, detecting hardening conditions involves monitoring various ind
 
 1. **[Standard Deviation](../s/standard_deviation.md)**: Measures the [dispersion](../d/dispersion.md) of [security](../s/security.md) prices from their mean, providing insights into [volatility](../v/volatility.md) levels.
 
-2. **VIX [Index](../i/index.md)**: Known as the "fear gauge," the VIX [Index](../i/index.md) tracks [market](../m/market.md) [volatility](../v/volatility.md) expectations over the next 30 days. Lower VIX values suggest stabilized markets.
+2. **VIX [Index](../i/index_instrument.md)**: Known as the "fear gauge," the VIX [Index](../i/index_instrument.md) tracks [market](../m/market.md) [volatility](../v/volatility.md) expectations over the next 30 days. Lower VIX values suggest stabilized markets.
 
 ### Technical Indicators
 

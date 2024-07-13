@@ -69,7 +69,7 @@ The X-[Volume Oscillator](../v/volume_oscillator.md) is often used in conjunctio
 
 - **Moving Averages:** Combining XVO with moving averages of price can help traders filter out [false signals](../f/false_signals_in_trading.md) and confirm trends more accurately.
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Traders can use the RSI alongside the XVO to gauge [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions and identify potential [reversal](../r/reversal.md) points.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Traders can use the RSI alongside the XVO to gauge [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions and identify potential [reversal](../r/reversal.md) points.
 
 - **MACD:** The Moving Average Convergence [Divergence](../d/divergence.md) (MACD) [indicator](../i/indicator.md) can be used with the XVO to identify changes in [momentum](../m/momentum.md) and provide more [robust](../r/robust.md) [trading signals](../t/trading_signals.md).
 

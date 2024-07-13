@@ -1,6 +1,6 @@
 # Negative Volume Index (NVI)
 
-The Negative [Volume](../v/volume.md) [Index](../i/index.md) (NVI) is a [technical analysis](../t/technical_analysis.md) tool used by traders to identify and evaluate price trends and changes within [financial markets](../f/financial_market.md). It was developed by Paul L. Dysart in the 1930s and later popularized by Norman Fosback in his 1976 book, "[Stock Market](../s/stock_market.md) Logic."
+The Negative [Volume](../v/volume.md) [Index](../i/index_instrument.md) (NVI) is a [technical analysis](../t/technical_analysis.md) tool used by traders to identify and evaluate price trends and changes within [financial markets](../f/financial_market.md). It was developed by Paul L. Dysart in the 1930s and later popularized by Norman Fosback in his 1976 book, "[Stock Market](../s/stock_market.md) Logic."
 
 ## Understanding NVI
 
@@ -50,7 +50,7 @@ NVI can be applied historically to test its effectiveness in predicting signific
 
 ### Integration with Other Indicators
 
-NVI is often used in conjunction with other [technical indicators](../t/technical_indicator.md) to improve trading decisions. Commonly paired indicators include On-Balance [Volume](../v/volume.md) (OBV), Moving Averages, and the Positive [Volume](../v/volume.md) [Index](../i/index.md) (PVI), which focuses on days of increasing [volume](../v/volume.md). Combining NVI with other indicators can provide a more comprehensive analysis and reinforce signals.
+NVI is often used in conjunction with other [technical indicators](../t/technical_indicator.md) to improve trading decisions. Commonly paired indicators include On-Balance [Volume](../v/volume.md) (OBV), Moving Averages, and the Positive [Volume](../v/volume.md) [Index](../i/index_instrument.md) (PVI), which focuses on days of increasing [volume](../v/volume.md). Combining NVI with other indicators can provide a more comprehensive analysis and reinforce signals.
 
 ### Example: Trading Strategy
 
@@ -60,7 +60,7 @@ A straightforward [trading strategy](../t/trading_strategy.md) using the NVI inv
 2. Identify crossovers:
    - Buy signal: When NVI crosses above its 255-day moving average.
    - Sell signal: When NVI crosses below its 255-day moving average.
-3. Confirm signals with additional indicators (e.g., Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)) to reduce [false signals](../f/false_signals_in_trading.md).
+3. Confirm signals with additional indicators (e.g., Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)) to reduce [false signals](../f/false_signals_in_trading.md).
 
 ### Risk Management
 
@@ -82,7 +82,7 @@ Like any [trading strategy](../t/trading_strategy.md), using the NVI requires so
 
 ## Conclusion
 
-The Negative [Volume](../v/volume.md) [Index](../i/index.md) is a valuable tool for traders and investors looking to identify and analyze price movements driven by lower trading volumes. By focusing on these quieter days, the NVI aims to capture the activities of more informed [market](../m/market.md) participants, potentially providing early indications of significant price trends and reversals.
+The Negative [Volume](../v/volume.md) [Index](../i/index_instrument.md) is a valuable tool for traders and investors looking to identify and analyze price movements driven by lower trading volumes. By focusing on these quieter days, the NVI aims to capture the activities of more informed [market](../m/market.md) participants, potentially providing early indications of significant price trends and reversals.
 
 While it offers several advantages, including its simplicity and focus on "[smart money](../s/smart_money.md)," it is essential to be aware of its limitations. NVI should not be used in isolation but rather as part of a comprehensive [trading strategy](../t/trading_strategy.md) that incorporates [multiple](../m/multiple.md) indicators and sound [risk management](../r/risk_management.md) practices.
 

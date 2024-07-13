@@ -42,13 +42,13 @@ Although both speculation and investment aim to [profit](../p/profit.md) from [c
 Speculators often use various techniques and forms of analysis to make informed decisions:
 
 1. **[Technical Analysis](../t/technical_analysis.md)**: 
-   - Utilizes historical price and [volume](../v/volume.md) data to identify trends, patterns, and signals. Common tools include moving averages, [Bollinger Bands](../b/bollinger_band.md), and [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI).
+   - Utilizes historical price and [volume](../v/volume.md) data to identify trends, patterns, and signals. Common tools include moving averages, [Bollinger Bands](../b/bollinger_band.md), and [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI).
    
 2. **[Fundamental Analysis](../f/fundamental_analysis.md)**:
    - Although less common among speculators, some may still look at macroeconomic indicators, [earnings](../e/earnings.md) reports, and other fundamental metrics to make predictions about price movements.
    
 3. **[Sentiment Analysis](../s/sentiment_analysis.md)**:
-   - Gauges the mood or attitude of the [market](../m/market.md) participants. Speculators may look at indicators like the VIX ([volatility](../v/volatility.md) [index](../i/index.md)) or conduct [social media](../s/social_media.md) analysis.
+   - Gauges the mood or attitude of the [market](../m/market.md) participants. Speculators may look at indicators like the VIX ([volatility](../v/volatility.md) [index](../i/index_instrument.md)) or conduct [social media](../s/social_media.md) analysis.
    
 4. **[Quantitative Analysis](../q/quantitative_analysis.md)**:
    - Involves the use of mathematical and statistical models to identify trading opportunities. This is particularly common in algo-trading and fintech applications.

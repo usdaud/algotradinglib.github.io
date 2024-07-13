@@ -62,7 +62,7 @@ Moving averages smooth out price data to identify trends. Common types include:
 
 Oscillators measure [market](../m/market.md) [momentum](../m/momentum.md) and can indicate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. Examples include:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Measures the magnitude and velocity of directional price movements.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the magnitude and velocity of directional price movements.
 - **[Stochastic Oscillator](../s/stochastic_oscillator.md)**: Compares a [security](../s/security.md)'s closing price to its price [range](../r/range.md) over a specific period.
 
 ### Mean Reversion

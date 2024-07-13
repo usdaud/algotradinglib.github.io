@@ -10,7 +10,7 @@ Deutsche Börse Group is one of the largest [exchange](../e/exchange.md) organiz
 [Xetra](../x/xetra.md) is one of the leading electronic trading platforms, focusing on German blue chips, but also listing international securities. It is known for its high [liquidity](../l/liquidity.md) and efficient [price discovery](../p/price_discovery.md) mechanisms. The platform is used by traders worldwide due to its significant trading volumes and high reliability.
 
 #### Eurex
-Eurex is one of the world's leading [derivatives](../d/derivatives.md) exchanges, [offering](../o/offering.md) a broad [range](../r/range.md) of international [benchmark](../b/benchmark.md) products. It provides a wide array of products, including [equity](../e/equity.md) [index](../i/index.md) and [interest rate derivatives](../i/interest_rate_derivatives.md), which are crucial for [risk management](../r/risk_management.md) and hedging activities.
+Eurex is one of the world's leading [derivatives](../d/derivatives.md) exchanges, [offering](../o/offering.md) a broad [range](../r/range.md) of international [benchmark](../b/benchmark.md) products. It provides a wide array of products, including [equity](../e/equity.md) [index](../i/index_instrument.md) and [interest rate derivatives](../i/interest_rate_derivatives.md), which are crucial for [risk management](../r/risk_management.md) and hedging activities.
 
 ### Market Data and Analytics
 

@@ -78,7 +78,7 @@ Two Sigma uses [data science](../d/data_science_in_trading.md) and technology to
 
 ### Vanguard
 
-Vanguard is well-known for its low [turnover](../t/turnover.md) [index](../i/index.md) funds and ETFs. The [firm](../f/firm.md) advocates for a buy-and-[hold](../h/hold.md) approach and aims to provide long-term [value](../v/value.md) to investors. [Vanguard](https://www.vanguard.com).
+Vanguard is well-known for its low [turnover](../t/turnover.md) [index](../i/index_instrument.md) funds and ETFs. The [firm](../f/firm.md) advocates for a buy-and-[hold](../h/hold.md) approach and aims to provide long-term [value](../v/value.md) to investors. [Vanguard](https://www.vanguard.com).
 
 ## Conclusion
 

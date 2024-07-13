@@ -17,7 +17,7 @@ Unleveraged funds, also known as unleveraged investment funds, are financial pro
 ## Types of Unleveraged Funds
 
 ### Equity Funds
-These funds invest in [stocks](../s/stock.md) and aim to provide [capital](../c/capital.md) growth over the long term. They do not use borrowed [capital](../c/capital.md), thus [offering](../o/offering.md) lower [risk](../r/risk.md) compared to leveraged [equity](../e/equity.md) funds. Examples include traditional mutual funds and [index](../i/index.md) funds.
+These funds invest in [stocks](../s/stock.md) and aim to provide [capital](../c/capital.md) growth over the long term. They do not use borrowed [capital](../c/capital.md), thus [offering](../o/offering.md) lower [risk](../r/risk.md) compared to leveraged [equity](../e/equity.md) funds. Examples include traditional mutual funds and [index](../i/index_instrument.md) funds.
 
 ### Fixed Income Funds
 These funds invest in bonds and other fixed-[income](../i/income.md) securities. Given their focus on preserving [capital](../c/capital.md) and generating steady [income](../i/income.md), they are naturally predisposed to an unleveraged structure.
@@ -45,7 +45,7 @@ These funds invest in short-term, high-quality investments issued by government 
 ## Examples of Unleveraged Funds
 
 ### Vanguard 500 Index Fund (VFINX)
-Vanguard’s VFINX is a classic example of an unleveraged [equity fund](../e/equity_fund.md) that tracks the performance of the S&P 500 [Index](../i/index.md). By [investing](../i/investing.md) in a wide [range](../r/range.md) of large-cap American companies, it provides diversified exposure without leveraging.
+Vanguard’s VFINX is a classic example of an unleveraged [equity fund](../e/equity_fund.md) that tracks the performance of the S&P 500 [Index](../i/index_instrument.md). By [investing](../i/investing.md) in a wide [range](../r/range.md) of large-cap American companies, it provides diversified exposure without leveraging.
 
 **Link:** [Vanguard 500 Index Fund](https://investor.vanguard.com/mutual-funds/profile/VFINX)
 

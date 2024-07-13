@@ -6,7 +6,7 @@ A **quanto [swap](../s/swap.md)** is a type of [derivative](../d/derivative.md) 
 
 At its core, a quanto [swap](../s/swap.md) combines elements of traditional swaps and quantos. Traditional swaps involve the [exchange](../e/exchange.md) of cash flows between two parties, usually to [hedge](../h/hedge.md) [interest rate](../i/interest_rate.md) or [currency](../c/currency.md) risks. For example, in a basic [interest rate swap](../i/interest_rate_swap.md), one party might [exchange](../e/exchange.md) fixed-rate [interest](../i/interest.md) payments for floating-rate payments with another party. Quantos further extend this concept by adjusting for [currency](../c/currency.md) differentials.
 
-In a quanto [swap](../s/swap.md), the two legs of the [swap](../s/swap.md) might involve different currencies, but the settlement amounts are calculated based on the performance of a specific financial metric (like the [interest rate](../i/interest_rate.md) or [equity](../e/equity.md) [index](../i/index.md)) and then converted back to the domestic [currency](../c/currency.md) of one of the [swap](../s/swap.md) participants at a predefined [exchange rate](../e/exchange_rate.md). This essentially offers investors the best of both worlds: exposure to a foreign financial metric with the certainty of domestic [currency](../c/currency.md) settlement.
+In a quanto [swap](../s/swap.md), the two legs of the [swap](../s/swap.md) might involve different currencies, but the settlement amounts are calculated based on the performance of a specific financial metric (like the [interest rate](../i/interest_rate.md) or [equity](../e/equity.md) [index](../i/index_instrument.md)) and then converted back to the domestic [currency](../c/currency.md) of one of the [swap](../s/swap.md) participants at a predefined [exchange rate](../e/exchange_rate.md). This essentially offers investors the best of both worlds: exposure to a foreign financial metric with the certainty of domestic [currency](../c/currency.md) settlement.
 
 ## Types of Quanto Swaps
 
@@ -14,7 +14,7 @@ There are several specific forms that quanto swaps can take, each designed to ad
 
 1. **Quanto [Interest Rate Swaps](../i/interest_rate_swaps.md)**: Here, the parties agree to [swap](../s/swap.md) [interest](../i/interest.md) payments where at least one [leg](../l/leg.md) of the [swap](../s/swap.md) is based on a foreign [interest rate](../i/interest_rate.md) but the payments themselves are made in a different [currency](../c/currency.md).
 
-2. **Quanto [Equity](../e/equity.md) Swaps**: This type involves swapping cash flows based on the performance of an [equity](../e/equity.md) [index](../i/index.md) in a different country, converted back into the domestic [currency](../c/currency.md) at a pre-determined rate.
+2. **Quanto [Equity](../e/equity.md) Swaps**: This type involves swapping cash flows based on the performance of an [equity](../e/equity.md) [index](../i/index_instrument.md) in a different country, converted back into the domestic [currency](../c/currency.md) at a pre-determined rate.
 
 3. **Quanto [Commodity](../c/commodity.md) Swaps**: In this form, [swap](../s/swap.md) payments are based on the changes in the price of a [commodity](../c/commodity.md), with results settled in a different [currency](../c/currency.md), isolated from the [currency](../c/currency.md) fluctuations.
 
@@ -32,7 +32,7 @@ Valuating a quanto [swap](../s/swap.md) involves several factors that must be co
 
 - **[Interest Rate](../i/interest_rate.md) Differential**: The comparative [interest](../i/interest.md) rates between the two currencies involved play a significant role.
   
-- **[Volatility](../v/volatility.md)**: The [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md) whose performance the [swap](../s/swap.md) is based on must be considered. For example, in a quanto [equity swap](../e/equity_swap.md), the [volatility](../v/volatility.md) of the [equity](../e/equity.md) [index](../i/index.md) [will](../w/will.md) be key to the overall [valuation](../v/valuation.md).
+- **[Volatility](../v/volatility.md)**: The [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md) whose performance the [swap](../s/swap.md) is based on must be considered. For example, in a quanto [equity swap](../e/equity_swap.md), the [volatility](../v/volatility.md) of the [equity](../e/equity.md) [index](../i/index_instrument.md) [will](../w/will.md) be key to the overall [valuation](../v/valuation.md).
 
 - **[Correlation](../c/correlation.md)**: The level of [correlation](../c/correlation.md) between the [underlying asset](../u/underlying_asset.md) and the [exchange rate](../e/exchange_rate.md) should be analyzed. Lower [correlation](../c/correlation.md) typically implies a greater benefit from isolating [currency](../c/currency.md) [risk](../r/risk.md).
 
@@ -50,9 +50,9 @@ While quanto swaps [offer](../o/offer.md) unique advantages, they are not free f
 
 ## Practical Example
 
-Consider an American [investor](../i/investor.md), who expects that the performance of the Japanese [equity](../e/equity.md) [index](../i/index.md) [Nikkei](../n/nikkei.md) [will](../w/will.md) [outperform](../o/outperform.md) the American S&P 500. [Direct investment](../d/direct_investment.md) in [Nikkei](../n/nikkei.md), however, bears the [risk](../r/risk.md) of [depreciation](../d/depreciation.md) of the Japanese Yen relative to the US Dollar. To circumvent this [risk](../r/risk.md), the [investor](../i/investor.md) can enter into a quanto [equity swap](../e/equity_swap.md).
+Consider an American [investor](../i/investor.md), who expects that the performance of the Japanese [equity](../e/equity.md) [index](../i/index_instrument.md) [Nikkei](../n/nikkei.md) [will](../w/will.md) [outperform](../o/outperform.md) the American S&P 500. [Direct investment](../d/direct_investment.md) in [Nikkei](../n/nikkei.md), however, bears the [risk](../r/risk.md) of [depreciation](../d/depreciation.md) of the Japanese Yen relative to the US Dollar. To circumvent this [risk](../r/risk.md), the [investor](../i/investor.md) can enter into a quanto [equity swap](../e/equity_swap.md).
 
-In this [swap](../s/swap.md), the [payment](../p/payment.md) [leg](../l/leg.md) tied to the [Nikkei](../n/nikkei.md) [index](../i/index.md) [will](../w/will.md) be settled in US Dollars using a pre-determined [exchange rate](../e/exchange_rate.md). This ensures that any gains made from the [Nikkei](../n/nikkei.md) [index](../i/index.md) are not eaten away by potential [depreciation](../d/depreciation.md) in the Yen.
+In this [swap](../s/swap.md), the [payment](../p/payment.md) [leg](../l/leg.md) tied to the [Nikkei](../n/nikkei.md) [index](../i/index_instrument.md) [will](../w/will.md) be settled in US Dollars using a pre-determined [exchange rate](../e/exchange_rate.md). This ensures that any gains made from the [Nikkei](../n/nikkei.md) [index](../i/index_instrument.md) are not eaten away by potential [depreciation](../d/depreciation.md) in the Yen.
 
 ## Market Participants
 

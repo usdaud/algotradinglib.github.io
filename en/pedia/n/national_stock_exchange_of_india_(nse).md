@@ -94,7 +94,7 @@ Advanced surveillance systems are in place to monitor trading activities continu
 
 ### NIFTY 50
 
-The [NIFTY 50](../n/nifty_50.md) is NSE’s flagship [index](../i/index.md) representing about 66.8% of the free-[float](../f/float.md) [market capitalization](../m/market_capitalization.md) of [listed](../l/listed.md) [stocks](../s/stock.md) on NSE as of December 2021. It is known for its diversified representation and is widely used as a barometer for Indian [stock market](../s/stock_market.md) performance.
+The [NIFTY 50](../n/nifty_50.md) is NSE’s flagship [index](../i/index_instrument.md) representing about 66.8% of the free-[float](../f/float.md) [market capitalization](../m/market_capitalization.md) of [listed](../l/listed.md) [stocks](../s/stock.md) on NSE as of December 2021. It is known for its diversified representation and is widely used as a barometer for Indian [stock market](../s/stock_market.md) performance.
 
 ### Sectoral Indices
 

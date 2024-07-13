@@ -72,7 +72,7 @@ Website: [Prudential Financial](https://www.prudential.com/)
 
 ### Allianz Life
 
-Allianz Life provides a [range](../r/range.md) of fixed indexed annuities with GLWB features under the "Allianz [Index](../i/index.md) Advantage" suite. These products are known for their balance of growth potential and [income](../i/income.md) [security](../s/security.md).
+Allianz Life provides a [range](../r/range.md) of fixed indexed annuities with GLWB features under the "Allianz [Index](../i/index_instrument.md) Advantage" suite. These products are known for their balance of growth potential and [income](../i/income.md) [security](../s/security.md).
 
 Website: [Allianz Life](https://www.allianzlife.com/)
 

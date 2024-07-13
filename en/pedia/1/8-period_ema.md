@@ -38,7 +38,7 @@ The choice of period length in moving averages is crucial for tailoring the [ind
 
 3. **Crossovers**: Traders often use EMA crossovers to generate buy or sell signals. A common strategy is to use [multiple](../m/multiple.md) EMAs of different periods. For instance, when the 8-period EMA crosses above the 20-period EMA, it may signal a buy, and when it crosses below, it may signal a sell.
 
-4. **Combination with Other Indicators**: The 8-period EMA can be combined with other [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to create more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md).
+4. **Combination with Other Indicators**: The 8-period EMA can be combined with other [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to create more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md).
 
 ### Example: Moving Average Crossover Strategy
 

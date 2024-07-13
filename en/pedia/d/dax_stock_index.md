@@ -1,6 +1,6 @@
 # DAX Stock Index
 
-The DAX (Deutscher Aktienindex) is Germany's leading stock [market index](../m/market_index.md), representing 30 of the largest and most [liquid](../l/liquid.md) blue-chip companies traded on the Frankfurt Stock [Exchange](../e/exchange.md). It is seen as a [benchmark](../b/benchmark.md) for the German [economy](../e/economy.md) and [investor](../i/investor.md) sentiment in the country. The [index](../i/index.md) was created in 1988 by the Frankfurt Stock [Exchange](../e/exchange.md) and mirrors the movements of the broader German [stock market](../s/stock_market.md).
+The DAX (Deutscher Aktienindex) is Germany's leading stock [market index](../m/market_index.md), representing 30 of the largest and most [liquid](../l/liquid.md) blue-chip companies traded on the Frankfurt Stock [Exchange](../e/exchange.md). It is seen as a [benchmark](../b/benchmark.md) for the German [economy](../e/economy.md) and [investor](../i/investor.md) sentiment in the country. The [index](../i/index_instrument.md) was created in 1988 by the Frankfurt Stock [Exchange](../e/exchange.md) and mirrors the movements of the broader German [stock market](../s/stock_market.md).
 
 ## Components and Selection Criteria
 
@@ -15,17 +15,17 @@ To be included in the DAX, companies must:
 
 ### Rebalancing
 
-The composition of the DAX is reviewed quarterly to ensure it accurately represents the German [stock market](../s/stock_market.md). Changes to the [index](../i/index.md) are typically announced a few weeks in advance. The review dates are usually March, June, September, and December.
+The composition of the DAX is reviewed quarterly to ensure it accurately represents the German [stock market](../s/stock_market.md). Changes to the [index](../i/index_instrument.md) are typically announced a few weeks in advance. The review dates are usually March, June, September, and December.
 
 ## Calculation
 
-The DAX is a performance [index](../i/index.md), meaning it is calculated by reinvesting all dividends and considering [capital](../c/capital.md) gains. This differentiates it from a price [index](../i/index.md), where only [capital](../c/capital.md) gains are considered. The DAX's calculation begins at 1,000 points on December 30, 1987, and it is updated every second during trading hours.
+The DAX is a performance [index](../i/index_instrument.md), meaning it is calculated by reinvesting all dividends and considering [capital](../c/capital.md) gains. This differentiates it from a price [index](../i/index_instrument.md), where only [capital](../c/capital.md) gains are considered. The DAX's calculation begins at 1,000 points on December 30, 1987, and it is updated every second during trading hours.
 
 ### Formula
 
-The [index](../i/index.md) is calculated using the Laspeyres formula, which is a [weighted](../w/weighted.md) [arithmetic mean](../a/arithmetic_mean.md) formula. The formula takes into account the current prices, the base, and the fixed component weights.
+The [index](../i/index_instrument.md) is calculated using the Laspeyres formula, which is a [weighted](../w/weighted.md) [arithmetic mean](../a/arithmetic_mean.md) formula. The formula takes into account the current prices, the base, and the fixed component weights.
 
-$$ \text{[Index](../i/index.md)} = \left( \frac{\sum (P_t \cdot Q_0)}{\sum (P_0 \cdot Q_0)} \right) \times 1000 $$
+$$ \text{[Index](../i/index_instrument.md)} = \left( \frac{\sum (P_t \cdot Q_0)}{\sum (P_0 \cdot Q_0)} \right) \times 1000 $$
 
 Where:
 - \( P_t \): Price of the component at time \( t \)
@@ -42,7 +42,7 @@ The DAX is a critical [indicator](../i/indicator.md) of German economic health a
 
 ## Member Companies
 
-As of the latest update, the following companies are members of the DAX [index](../i/index.md):
+As of the latest update, the following companies are members of the DAX [index](../i/index_instrument.md):
 
 ### 1. **Adidas AG**
 Website: [Adidas](https://www.adidas-group.com/)
@@ -136,4 +136,4 @@ Website: [Delivery Hero](https://www.deliveryhero.com/)
 
 ## Conclusion
 
-Understanding the DAX [index](../i/index.md) is essential for any [investor](../i/investor.md) with [interest](../i/interest.md) in the German [market](../m/market.md). As a representation of the overall performance of Germany's top companies, the DAX provides insights into the health and direction of the German [economy](../e/economy.md). The selection of companies is based on rigorous criteria ensuring that only the most significant players are included. Staying informed about changes in the DAX can aid investors in making more educated decisions regarding their portfolios.
+Understanding the DAX [index](../i/index_instrument.md) is essential for any [investor](../i/investor.md) with [interest](../i/interest.md) in the German [market](../m/market.md). As a representation of the overall performance of Germany's top companies, the DAX provides insights into the health and direction of the German [economy](../e/economy.md). The selection of companies is based on rigorous criteria ensuring that only the most significant players are included. Staying informed about changes in the DAX can aid investors in making more educated decisions regarding their portfolios.

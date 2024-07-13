@@ -18,7 +18,7 @@ There are primarily two types of [options](../o/options.md):
 Equities or [stocks](../s/stock.md) are the most prevalent [underlying](../u/underlying.md) option securities. [Options](../o/options.md) on individual [stocks](../s/stock.md) allow traders to speculate on the future price movements of specific companies. For example, a [call option](../c/call_option.md) on Apple Inc. (AAPL) allows the holder to purchase AAPL [shares](../s/shares.md) at a [strike price](../s/strike_price.md) within a defined period.
 
 ### 2. **Indices**
-An [index](../i/index.md) is a statistical measure that reflects the composite [value](../v/value.md) of a selected group of [stocks](../s/stock.md). [Options](../o/options.md) on indices, such as the S&P 500 (SPX) or the [NASDAQ](../n/nasdaq.md)-100 (NDX), permit traders to [gain](../g/gain.md) exposure to a broader [market](../m/market.md) or [industry](../i/industry.md) [sector performance](../s/sector_performance.md).
+An [index](../i/index_instrument.md) is a statistical measure that reflects the composite [value](../v/value.md) of a selected group of [stocks](../s/stock.md). [Options](../o/options.md) on indices, such as the S&P 500 (SPX) or the [NASDAQ](../n/nasdaq.md)-100 (NDX), permit traders to [gain](../g/gain.md) exposure to a broader [market](../m/market.md) or [industry](../i/industry.md) [sector performance](../s/sector_performance.md).
 
 ### 3. **Exchange-Traded Funds (ETFs)**
 ETFs are investment funds traded on stock exchanges. They [hold](../h/hold.md) assets such as [stocks](../s/stock.md), commodities, or bonds and generally operate with an [arbitrage](../a/arbitrage.md) mechanism designed to keep trading close to its net [asset](../a/asset.md) [value](../v/value.md). [Options](../o/options.md) on ETFs, like the SPDR S&P 500 ETF (SPY), provide a way to [trade](../t/trade.md) broad [market](../m/market.md) indices or specific sectors.
@@ -97,7 +97,7 @@ Intermediaries that facilitate the trading of [options](../o/options.md) between
 
 ## Real-World Example: The VIX Index
 
-An illustrative example of [underlying](../u/underlying.md) option [security](../s/security.md) is [options](../o/options.md) based on the Cboe [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX), often referred to as the "fear gauge." The VIX measures [market](../m/market.md) expectations of near-term [volatility](../v/volatility.md) conveyed by S&P 500 stock [index option](../i/index_option.md) prices. When trading [VIX options](../v/vix_option.md), the [underlying security](../u/underlying_security.md) is the VIX [index](../i/index.md) itself, a [benchmark](../b/benchmark.md) for [market](../m/market.md) [volatility](../v/volatility.md).
+An illustrative example of [underlying](../u/underlying.md) option [security](../s/security.md) is [options](../o/options.md) based on the Cboe [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX), often referred to as the "fear gauge." The VIX measures [market](../m/market.md) expectations of near-term [volatility](../v/volatility.md) conveyed by S&P 500 stock [index option](../i/index_option.md) prices. When trading [VIX options](../v/vix_option.md), the [underlying security](../u/underlying_security.md) is the VIX [index](../i/index_instrument.md) itself, a [benchmark](../b/benchmark.md) for [market](../m/market.md) [volatility](../v/volatility.md).
 
 ## Conclusion
 

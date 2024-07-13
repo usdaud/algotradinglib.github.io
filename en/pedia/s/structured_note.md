@@ -8,7 +8,7 @@ At their core, structured notes typically consist of two components:
 1. **[Fixed Income](../f/fixed_income.md) Instrument ([Bond](../b/bond.md) Component):** This part usually involves a [zero-coupon bond](../z/zero-coupon_bond.md) that ensures the [return](../r/return.md) of the [principal](../p/principal.md) at [maturity](../m/maturity.md).
 2. **[Derivative](../d/derivative.md) Component:** This part is linked to the performance of the [underlying asset](../u/underlying_asset.md)(s) and determines any additional [return](../r/return.md) beyond the [principal](../p/principal.md) protection.
 
-Imagine a structured [note](../n/note.md) with a maturation period of five years, tied to the performance of the S&P 500. If the [index](../i/index.md) has appreciated after five years, the [investor](../i/investor.md) receives part of the growth. If the [index](../i/index.md) declines, the [investor](../i/investor.md)'s [principal](../p/principal.md) is still protected, but they may not receive any [return](../r/return.md) over the [principal](../p/principal.md).
+Imagine a structured [note](../n/note.md) with a maturation period of five years, tied to the performance of the S&P 500. If the [index](../i/index_instrument.md) has appreciated after five years, the [investor](../i/investor.md) receives part of the growth. If the [index](../i/index_instrument.md) declines, the [investor](../i/investor.md)'s [principal](../p/principal.md) is still protected, but they may not receive any [return](../r/return.md) over the [principal](../p/principal.md).
 
 ## Types of Structured Notes
 
@@ -43,19 +43,19 @@ Structured notes are typically employed by investors seeking unique solutions to
 
 ## Example
 
-Consider an [investor](../i/investor.md) wishing to invest in a structured [note](../n/note.md) issued by JPMorgan Chase linked to the [Euro](../e/euro.md) Stoxx 50 [Index](../i/index.md). The [note](../n/note.md) guarantees the [return](../r/return.md) of the [principal](../p/principal.md) at [maturity](../m/maturity.md) plus a percentage of the [index](../i/index.md)'s [gain](../g/gain.md) over a specified period.
+Consider an [investor](../i/investor.md) wishing to invest in a structured [note](../n/note.md) issued by JPMorgan Chase linked to the [Euro](../e/euro.md) Stoxx 50 [Index](../i/index_instrument.md). The [note](../n/note.md) guarantees the [return](../r/return.md) of the [principal](../p/principal.md) at [maturity](../m/maturity.md) plus a percentage of the [index](../i/index_instrument.md)'s [gain](../g/gain.md) over a specified period.
 
 - **[Principal](../p/principal.md) Guarantee:** Assume an investment of $1000.
 - **[Duration](../d/duration.md):** 5 Years.
 - **[Euro](../e/euro.md) Stoxx 50 Performance:** 30% increase over five years.
-- **[Payout](../p/payout.md) Structure:** 80% of the [index](../i/index.md) [gain](../g/gain.md).
+- **[Payout](../p/payout.md) Structure:** 80% of the [index](../i/index_instrument.md) [gain](../g/gain.md).
 
 Thus, ignoring fees and costs:
 - **Guaranteed [Principal](../p/principal.md) [Return](../r/return.md):** $1000.
 - **Additional Returns:** 30% x 80% x $1000 = $240.
 - **Total [Payout](../p/payout.md) at [Maturity](../m/maturity.md):** $1240.
 
-If the [index](../i/index.md) had instead declined, the [investor](../i/investor.md) would still get their $1000 [principal](../p/principal.md) [return](../r/return.md), provided the [issuer](../i/issuer.md) doesn't [default](../d/default.md).
+If the [index](../i/index_instrument.md) had instead declined, the [investor](../i/investor.md) would still get their $1000 [principal](../p/principal.md) [return](../r/return.md), provided the [issuer](../i/issuer.md) doesn't [default](../d/default.md).
 
 ## Regulatory Considerations
 

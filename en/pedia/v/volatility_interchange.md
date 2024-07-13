@@ -37,7 +37,7 @@ The [volatility risk](../v/volatility_risk.md) [premium](../p/premium.md) repres
 
 ### Dispersion Trading
 
-[Dispersion](../d/dispersion.md) trading involves taking positions on the [volatility](../v/volatility.md) of individual [stocks](../s/stock.md) within an [index](../i/index.md) compared to the [volatility](../v/volatility.md) of the [index](../i/index.md) itself. The key idea is to [profit](../p/profit.md) from the [divergence](../d/divergence.md) between individual stock volatilities and the overall [market](../m/market.md) [volatility](../v/volatility.md).
+[Dispersion](../d/dispersion.md) trading involves taking positions on the [volatility](../v/volatility.md) of individual [stocks](../s/stock.md) within an [index](../i/index_instrument.md) compared to the [volatility](../v/volatility.md) of the [index](../i/index_instrument.md) itself. The key idea is to [profit](../p/profit.md) from the [divergence](../d/divergence.md) between individual stock volatilities and the overall [market](../m/market.md) [volatility](../v/volatility.md).
 
 ### Calendar Spreads
 

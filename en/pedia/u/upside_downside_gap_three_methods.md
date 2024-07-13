@@ -24,7 +24,7 @@ Traders typically look for confirmation before entering a position. They may con
 
 1. **Entry Point**: Enter a long position after the formation of the fifth [candlestick](../c/candlestick.md).
 2. **Stop Loss**: Place a stop loss below the low of the third [candlestick](../c/candlestick.md) to manage [risk](../r/risk.md).
-3. **Target Price**: Set a target price based on previous resistance levels or use [technical indicators](../t/technical_indicator.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) to identify [overbought](../o/overbought.md) conditions.
+3. **Target Price**: Set a target price based on previous resistance levels or use [technical indicators](../t/technical_indicator.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) to identify [overbought](../o/overbought.md) conditions.
 
 ### Example
 

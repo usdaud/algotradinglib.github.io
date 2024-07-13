@@ -76,7 +76,7 @@ The [Sortino Ratio](../s/sortino_ratio.md) provides a clearer picture of the por
 
 ## 6. Beta
 
-[Beta](../b/beta.md) measures the sensitivity of the portfolio's [return](../r/return.md) to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md) (often the [market](../m/market.md)).
+[Beta](../b/beta.md) measures the sensitivity of the portfolio's [return](../r/return.md) to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) (often the [market](../m/market.md)).
 
 **Formula:**
 
@@ -92,7 +92,7 @@ A [Beta](../b/beta.md) greater than 1 indicates higher sensitivity to [market](.
 
 ## 7. Alpha
 
-[Alpha](../a/alpha.md) represents the portfolio's performance relative to a [benchmark](../b/benchmark.md) [index](../i/index.md), adjusted for [market](../m/market.md)-related [risk](../r/risk.md) ([Beta](../b/beta.md)).
+[Alpha](../a/alpha.md) represents the portfolio's performance relative to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), adjusted for [market](../m/market.md)-related [risk](../r/risk.md) ([Beta](../b/beta.md)).
 
 **Formula:**
 
@@ -157,7 +157,7 @@ The [Treynor Ratio](../t/treynor_ratio.md), like the [Sharpe Ratio](../s/sharpe_
 
 ## 12. R-Squared
 
-[R-Squared](../r/r-squared_in_trading.md) measures the proportion of the portfolio's movement that can be explained by movements in a [benchmark](../b/benchmark.md) [index](../i/index.md).
+[R-Squared](../r/r-squared_in_trading.md) measures the proportion of the portfolio's movement that can be explained by movements in a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 
 **Formula:**
 

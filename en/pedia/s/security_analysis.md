@@ -24,7 +24,7 @@ There are generally two main types of [security](../s/security.md) analysis: [Fu
 
 1. **Price Trends**: Analyzing the direction of price movements over different periods. Trends can be upward, downward, or sideways, and identifying them helps in making buy or sell decisions.
 2. **[Chart Patterns](../c/chart_patterns.md)**: Patterns such as head and shoulders, double tops and bottoms, and triangles that tend to repeat and can indicate potential [market](../m/market.md) direction.
-3. **[Technical Indicators](../t/technical_indicators.md)**: Tools like moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and moving average convergence [divergence](../d/divergence.md) (MACD) that provide quantitative insights into [market](../m/market.md) conditions.
+3. **[Technical Indicators](../t/technical_indicators.md)**: Tools like moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and moving average convergence [divergence](../d/divergence.md) (MACD) that provide quantitative insights into [market](../m/market.md) conditions.
 
 ### Integrating Security Analysis in Algorithmic Trading
 

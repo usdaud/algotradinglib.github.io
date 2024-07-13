@@ -50,7 +50,7 @@ ETFs have become popular investment vehicles for holding the [market](../m/marke
 
 ### Circuit Breakers
 
-Circuit breakers are mechanisms designed to temporarily halt trading on an [exchange](../e/exchange.md) if the [market](../m/market.md) experiences extreme [volatility](../v/volatility.md). These are predefined thresholds set by regulatory bodies to prevent panic selling and allow time for investors to assess [market](../m/market.md) conditions. For instance, if a major [index](../i/index.md) drops by a certain percentage within a short period, trading may be paused to prevent further decline.
+Circuit breakers are mechanisms designed to temporarily halt trading on an [exchange](../e/exchange.md) if the [market](../m/market.md) experiences extreme [volatility](../v/volatility.md). These are predefined thresholds set by regulatory bodies to prevent panic selling and allow time for investors to assess [market](../m/market.md) conditions. For instance, if a major [index](../i/index_instrument.md) drops by a certain percentage within a short period, trading may be paused to prevent further decline.
 
 ## Companies Involved in Holding the Market
 

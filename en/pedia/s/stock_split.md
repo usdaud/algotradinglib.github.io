@@ -12,7 +12,7 @@ Stock splits can also occur in reverse, known as a [reverse stock split](../r/re
 
 3. **Broaden [Shareholder](../s/shareholder.md) Base**: A lower stock price can attract a more diverse [range](../r/range.md) of investors, increasing the [shareholder](../s/shareholder.md) base and providing the company with a more stable stock performance.
 
-4. **Improved [Index](../i/index.md) Placement**: [Stocks](../s/stock.md) with higher [liquidity](../l/liquidity.md) and lower [nominal](../n/nominal.md) prices can make it easier for the stock to be included or retained in [benchmark](../b/benchmark.md) indices.
+4. **Improved [Index](../i/index_instrument.md) Placement**: [Stocks](../s/stock.md) with higher [liquidity](../l/liquidity.md) and lower [nominal](../n/nominal.md) prices can make it easier for the stock to be included or retained in [benchmark](../b/benchmark.md) indices.
 
 ## Example of Stock Split
 

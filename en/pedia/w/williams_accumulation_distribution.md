@@ -42,7 +42,7 @@ Algorithmic traders [leverage](../l/leverage.md) WAD in several strategies to [c
 WAD is frequently used in conjunction with other [technical indicators](../t/technical_indicators.md) to enhance [trading strategies](../t/trading_strategies.md). Some common pairings include:
 
 - **Moving Averages:** By combining WAD with moving averages, traders can filter out [false signals](../f/false_signals_in_trading.md) and improve the accuracy of their trades.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Integrating WAD with RSI allows traders to gauge [momentum](../m/momentum.md) and confirm the strength of trends.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Integrating WAD with RSI allows traders to gauge [momentum](../m/momentum.md) and confirm the strength of trends.
 - **[Bollinger Bands](../b/bollinger_bands.md):** WAD can be paired with [Bollinger Bands](../b/bollinger_bands.md) to identify potential breakouts or breakdowns, improving the timing of entries and exits.
 
 ## Real-World Implementation

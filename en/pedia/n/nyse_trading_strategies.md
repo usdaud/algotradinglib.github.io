@@ -23,7 +23,7 @@ In contrast to [value investing](../v/value_investing.md), [growth investing](..
 [Mean reversion](../m/mean_reversion.md) strategies are based on the idea that stock prices [will](../w/will.md) tend to revert to their historical average over time. Traders using [mean reversion](../m/mean_reversion.md) techniques buy [stocks](../s/stock.md) that have significantly dropped, betting that prices [will](../w/will.md) bounce back, and sell [stocks](../s/stock.md) that have surged, expecting prices to decline to their mean levels.
 
 ### Momentum Trading
-[Momentum trading](../m/momentum_trading.md) involves capitalizing on existing [market](../m/market.md) [momentum](../m/momentum.md). Traders identify [stocks](../s/stock.md) that have shown a strong recent performance and anticipate that the [trend](../t/trend.md) [will](../w/will.md) continue for some time. They use technical tools like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and [moving average crossovers](../m/moving_average_crossovers.md) to determine entry and exit points.
+[Momentum trading](../m/momentum_trading.md) involves capitalizing on existing [market](../m/market.md) [momentum](../m/momentum.md). Traders identify [stocks](../s/stock.md) that have shown a strong recent performance and anticipate that the [trend](../t/trend.md) [will](../w/will.md) continue for some time. They use technical tools like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and [moving average crossovers](../m/moving_average_crossovers.md) to determine entry and exit points.
 
 ## Quantitative Strategies
 

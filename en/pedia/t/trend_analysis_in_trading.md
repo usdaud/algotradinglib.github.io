@@ -40,7 +40,7 @@ Several tools and indicators are used for [trend analysis](../t/trend_analysis.m
 
 2. **Trendlines**: Trendlines are lines drawn on a chart that connect significant highs or lows. They help visualize the [trend](../t/trend.md) and can be used to identify [support and resistance](../s/support_and_resistance.md) levels.
 
-3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It ranges from 0 to 100 and helps identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, which can indicate potential [trend](../t/trend.md) reversals.
+3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It ranges from 0 to 100 and helps identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, which can indicate potential [trend](../t/trend.md) reversals.
 
 4. **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages (typically the 12-day EMA and 26-day EMA). It helps identify [trend](../t/trend.md) direction, strength, and potential [reversal](../r/reversal.md) points.
 

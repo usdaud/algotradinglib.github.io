@@ -17,7 +17,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves identifying and exploiting p
 
 [Momentum trading](../m/momentum_trading.md) strategies [capitalize](../c/capitalize.md) on the continuation of existing [market](../m/market.md) trends. Traders believe that assets that have performed well in the past [will](../w/will.md) continue to do so in the near future. Key techniques in [momentum trading](../m/momentum_trading.md) include:
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** This [indicator](../i/indicator.md) measures the speed and change of price movements. High RSI values indicate [overbought](../o/overbought.md) conditions, while low values suggest [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** This [indicator](../i/indicator.md) measures the speed and change of price movements. High RSI values indicate [overbought](../o/overbought.md) conditions, while low values suggest [oversold](../o/oversold.md) conditions.
 - **Moving Averages:** Traders use [moving average crossovers](../m/moving_average_crossovers.md) to identify [trend](../t/trend.md) changes.
 
 ### Market Making

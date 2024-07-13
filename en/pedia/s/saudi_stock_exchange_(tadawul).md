@@ -11,7 +11,7 @@ Equities or [stocks](../s/stock.md) represent ownership in companies [listed](..
 Tadawul provides a platform for trading Sharia-compliant [sukuk](../s/sukuk.md) and conventional bonds, which [offer](../o/offer.md) investment opportunities with varying [risk](../r/risk.md) and [return](../r/return.md) profiles.
 
 ### ETFs
-ETFs or [Exchange](../e/exchange.md)-Traded Funds are investment funds traded on the stock [exchange](../e/exchange.md), designed to track the performance of an [index](../i/index.md), [commodity](../c/commodity.md), or a basket of assets. They [offer](../o/offer.md) diversified exposure and are a popular [investment vehicle](../i/investment_vehicle.md).
+ETFs or [Exchange](../e/exchange.md)-Traded Funds are investment funds traded on the stock [exchange](../e/exchange.md), designed to track the performance of an [index](../i/index_instrument.md), [commodity](../c/commodity.md), or a basket of assets. They [offer](../o/offer.md) diversified exposure and are a popular [investment vehicle](../i/investment_vehicle.md).
 
 ### Mutual Funds
 Mutual funds are investment programs funded by shareholders that [trade](../t/trade.md) in diversified [holdings](../h/holdings.md) and are professionally managed. Tadawul lists various mutual funds managed by licensed [fund](../f/fund.md) managers.

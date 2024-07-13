@@ -75,7 +75,7 @@ Traders should fine-tune the periods for \%K and \%D to match their trading styl
 
 ### Complementary Indicators
 
-Worden Stochastics can be paired with other [technical indicators](../t/technical_indicator.md) such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), or MACD to confirm signals and enhance the robustness of trading decisions. For example, a stochastic signal aligned with a moving average crossover adds extra confidence to the [trade](../t/trade.md) setup.
+Worden Stochastics can be paired with other [technical indicators](../t/technical_indicator.md) such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), or MACD to confirm signals and enhance the robustness of trading decisions. For example, a stochastic signal aligned with a moving average crossover adds extra confidence to the [trade](../t/trade.md) setup.
 
 ### Time Frame Alignment
 

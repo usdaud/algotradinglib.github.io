@@ -44,7 +44,7 @@ Straddles and strangles are [options](../o/options.md) strategies that involve b
 
 ### Dispersion Trading
 
-In [dispersion](../d/dispersion.md) trading, a [trader](../t/trader.md) aims to exploit the difference in implied [volatility](../v/volatility.md) between an [index](../i/index.md) and its individual components.
+In [dispersion](../d/dispersion.md) trading, a [trader](../t/trader.md) aims to exploit the difference in implied [volatility](../v/volatility.md) between an [index](../i/index_instrument.md) and its individual components.
 
 ### Gamma Scalping
 
@@ -68,7 +68,7 @@ The [volatility smile](../v/volatility_smile.md) is a graphical representation s
 
 ### VIX Index
 
-The VIX ([Volatility](../v/volatility.md) [Index](../i/index.md)) is a popular measure of the [stock market](../s/stock_market.md)'s expectation of [volatility](../v/volatility.md), often referred to as the "fear gauge".
+The VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md)) is a popular measure of the [stock market](../s/stock_market.md)'s expectation of [volatility](../v/volatility.md), often referred to as the "fear gauge".
 
 ## Risk Management
 

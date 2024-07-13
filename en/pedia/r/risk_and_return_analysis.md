@@ -10,7 +10,7 @@ In the realm of [finance](../f/finance.md) and investments, the concepts of [ris
 
 **Types of Returns:**
 1. **[Absolute Return](../a/absolute_return.md):** The total [gain](../g/gain.md) or loss from an investment without considering the [risk](../r/risk.md) taken.
-2. **Relative [Return](../r/return.md):** The [gain](../g/gain.md) or loss in comparison to a [benchmark](../b/benchmark.md) or [index](../i/index.md).
+2. **Relative [Return](../r/return.md):** The [gain](../g/gain.md) or loss in comparison to a [benchmark](../b/benchmark.md) or [index](../i/index_instrument.md).
 3. **[Risk-adjusted Return](../r/risk-adjusted_return.md):** [Return](../r/return.md) measures that account for the [risk](../r/risk.md) involved in the investment.
 
 ### Definition of Risk
@@ -52,7 +52,7 @@ Expected returns are the anticipated returns on an investment based on its histo
 
 **Metrics Related to [Volatility](../v/volatility.md):**
 - **[Standard Deviation](../s/standard_deviation.md):** Measures the amount of variation or [dispersion](../d/dispersion.md) of a set of values.
-- **[Beta](../b/beta.md):** Measures an [asset](../a/asset.md)'s [risk](../r/risk.md) in relation to the [market](../m/market.md) or a [benchmark](../b/benchmark.md) [index](../i/index.md).
+- **[Beta](../b/beta.md):** Measures an [asset](../a/asset.md)'s [risk](../r/risk.md) in relation to the [market](../m/market.md) or a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 - **[Alpha](../a/alpha.md):** Measures an investment's performance on a [risk](../r/risk.md)-adjusted [basis](../b/basis.md).
 
 ### Value at Risk (VaR)

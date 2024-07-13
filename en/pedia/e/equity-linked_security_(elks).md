@@ -1,12 +1,12 @@
 # Equity-Linked Security (ELKS)
 
-[Equity](../e/equity.md)-Linked Securities (ELKS) are a type of [financial instrument](../f/financial_instrument.md) that combines features of both [debt](../d/debt.md) and [equity](../e/equity.md). These hybrid securities [offer](../o/offer.md) investors the opportunity to participate in the potential [upside](../u/upside.md) of a specific stock or [equity](../e/equity.md) [index](../i/index.md), while providing a degree of [capital](../c/capital.md) protection or [income](../i/income.md) generation. They are particularly appealing to investors seeking exposure to [equity](../e/equity.md) markets with a lower [risk](../r/risk.md) profile.
+[Equity](../e/equity.md)-Linked Securities (ELKS) are a type of [financial instrument](../f/financial_instrument.md) that combines features of both [debt](../d/debt.md) and [equity](../e/equity.md). These hybrid securities [offer](../o/offer.md) investors the opportunity to participate in the potential [upside](../u/upside.md) of a specific stock or [equity](../e/equity.md) [index](../i/index_instrument.md), while providing a degree of [capital](../c/capital.md) protection or [income](../i/income.md) generation. They are particularly appealing to investors seeking exposure to [equity](../e/equity.md) markets with a lower [risk](../r/risk.md) profile.
 
 ## Key Features of ELKS
 
 ### Structure
 
-ELKS typically have a fixed term, which can vary but commonly ranges from one to five years. They are issued by financial institutions such as banks and investment firms. The [value](../v/value.md) of an ELKS is linked to the performance of a specific [underlying asset](../u/underlying_asset.md), usually a single stock or an [equity](../e/equity.md) [index](../i/index.md).
+ELKS typically have a fixed term, which can vary but commonly ranges from one to five years. They are issued by financial institutions such as banks and investment firms. The [value](../v/value.md) of an ELKS is linked to the performance of a specific [underlying asset](../u/underlying_asset.md), usually a single stock or an [equity](../e/equity.md) [index](../i/index_instrument.md).
 
 ### Principal Protection
 
@@ -18,7 +18,7 @@ ELKS often come with periodic [interest](../i/interest.md) or coupon payments, w
 
 ### Upside Potential
 
-Unlike traditional [debt](../d/debt.md) instruments, ELKS allow investors to participate in the potential appreciation of the [underlying](../u/underlying.md) [equity](../e/equity.md). If the [underlying](../u/underlying.md) stock or [index](../i/index.md) surpasses a certain threshold, known as the [participation rate](../p/participation_rate.md) or cap, the [investor](../i/investor.md) receives additional returns based on the performance of the [underlying asset](../u/underlying_asset.md).
+Unlike traditional [debt](../d/debt.md) instruments, ELKS allow investors to participate in the potential appreciation of the [underlying](../u/underlying.md) [equity](../e/equity.md). If the [underlying](../u/underlying.md) stock or [index](../i/index_instrument.md) surpasses a certain threshold, known as the [participation rate](../p/participation_rate.md) or cap, the [investor](../i/investor.md) receives additional returns based on the performance of the [underlying asset](../u/underlying_asset.md).
 
 ### Downside Risk
 

@@ -63,7 +63,7 @@ Sector [performance metrics](../p/performance_metrics.md) provide a structured a
 Understanding the [performance metrics](../p/performance_metrics.md) of different sectors aids in managing portfolio [risk](../r/risk.md). Metrics such as [Beta](../b/beta.md) and [Drawdown](../d/drawdown.md) inform investors about the [volatility](../v/volatility.md) and potential risks associated with each sector, allowing for more informed [risk management](../r/risk_management.md) strategies.
 
 ### Benchmarking and Performance Evaluation
-[Alpha](../a/alpha.md) and other relative [performance metrics](../p/performance_metrics.md) enable investors to evaluate how well a sector or [investment manager](../i/investment_manager.md) is performing compared to a [benchmark](../b/benchmark.md) [index](../i/index.md) or other sectors. This comparison helps in assessing the effectiveness of [active management](../a/active_management.md) strategies versus passive investments.
+[Alpha](../a/alpha.md) and other relative [performance metrics](../p/performance_metrics.md) enable investors to evaluate how well a sector or [investment manager](../i/investment_manager.md) is performing compared to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) or other sectors. This comparison helps in assessing the effectiveness of [active management](../a/active_management.md) strategies versus passive investments.
 
 ### Diversification Strategies
 By analyzing sector [performance metrics](../p/performance_metrics.md), investors can build diversified portfolios that minimize [risk](../r/risk.md) and maximize returns. For example, combining sectors with different Betas can reduce overall portfolio [volatility](../v/volatility.md).
@@ -81,12 +81,12 @@ Once the data is collected, various [quantitative analysis](../q/quantitative_an
 
 ### Example Calculation: Total Return
 To calculate the [Total Return](../t/total_return.md) of a sector, follow these steps:
-1. Obtain the sector [index](../i/index.md) [value](../v/value.md) at the beginning and end of the period.
+1. Obtain the sector [index](../i/index_instrument.md) [value](../v/value.md) at the beginning and end of the period.
 2. Gather any dividends distributed during the period.
 3. Apply the [Total Return](../t/total_return.md) formula:
 ```python
-start_value = 1000  # Example starting [index](../i/index.md) [value](../v/value.md)
-end_value = 1100    # Example ending [index](../i/index.md) [value](../v/value.md)
+start_value = 1000  # Example starting [index](../i/index_instrument.md) [value](../v/value.md)
+end_value = 1100    # Example ending [index](../i/index_instrument.md) [value](../v/value.md)
 dividends = 50      # Example dividends received during the period
 
 total_return = (end_value - start_value + dividends) / start_value

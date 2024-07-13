@@ -10,7 +10,7 @@ One of the most common reasons for a trading halt is a significant news announce
 Regulatory bodies like the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) might mandate a trading halt if they detect irregular activity or suspect fraudulent practices. For example, if a company is under investigation for [insider trading](../i/insider.md), the SEC might impose a halt until the investigation is complete.
 
 ### Market-Wide Circuit Breakers
-[Market](../m/market.md)-wide circuit breakers are mechanisms built into the [trading systems](../t/trading_systems.md) that automatically halt trading if there is a significant drop in the [market](../m/market.md). These are typically triggered by a predefined percentage decline in a major stock [index](../i/index.md). For instance, the NYSE has three levels of circuit breakers, set to halt trading at declines of 7%, 13%, and 20% from the previous day's closing price.
+[Market](../m/market.md)-wide circuit breakers are mechanisms built into the [trading systems](../t/trading_systems.md) that automatically halt trading if there is a significant drop in the [market](../m/market.md). These are typically triggered by a predefined percentage decline in a major stock [index](../i/index_instrument.md). For instance, the NYSE has three levels of circuit breakers, set to halt trading at declines of 7%, 13%, and 20% from the previous day's closing price.
 
 ### Technical Issues
 Occasionally, trading can be halted due to technical problems within the [exchange](../e/exchange.md)'s [trading platform](../t/trading_platform.md). These issues can [range](../r/range.md) from software bugs to hardware failures, and the halt remains in place until the problems are resolved.

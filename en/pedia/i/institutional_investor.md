@@ -51,7 +51,7 @@ BlackRock is the world's largest [asset](../a/asset.md) manager, with trillions 
 Website: [BlackRock](https://www.blackrock.com)
 
 ### Vanguard
-Vanguard is known for its low-cost [index](../i/index.md) funds and ETFs. The company advocates a passive [investment strategy](../i/investment_strategy.md), encouraging investors to [hold](../h/hold.md) diversified portfolios and minimize trading to reduce costs. Vanguard's emphasis on cost [efficiency](../e/efficiency.md) has made it a popular choice among individual and institutional investors.
+Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and ETFs. The company advocates a passive [investment strategy](../i/investment_strategy.md), encouraging investors to [hold](../h/hold.md) diversified portfolios and minimize trading to reduce costs. Vanguard's emphasis on cost [efficiency](../e/efficiency.md) has made it a popular choice among individual and institutional investors.
 Website: [Vanguard](https://www.vanguard.com)
 
 ### Bridgewater Associates

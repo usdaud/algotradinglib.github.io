@@ -77,7 +77,7 @@ Investors can purchase [shares](../s/shares.md) of individual [Dividend](../d/di
 ### Exchange-Traded Funds (ETFs)
 There are several ETFs specifically designed to track [Dividend](../d/dividend.md) Aristocrats. These funds provide diversified exposure to a collection of [Dividend](../d/dividend.md) Aristocrats and can be a hassle-free way to invest in this segment.
 
-**SPDR S&P [Dividend](../d/dividend.md) ETF (SDY)**: Tracks the S&P 1500 [Dividend](../d/dividend.md) Aristocrats [Index](../i/index.md).
+**SPDR S&P [Dividend](../d/dividend.md) ETF (SDY)**: Tracks the S&P 1500 [Dividend](../d/dividend.md) Aristocrats [Index](../i/index_instrument.md).
 
 **ProShares S&P 500 [Dividend](../d/dividend.md) Aristocrats ETF (NOBL)**: Tracks the [S&P 500 Dividend Aristocrats Index](../s/s&p_500_dividend_aristocrats_index.md).
 

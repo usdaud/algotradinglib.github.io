@@ -11,7 +11,7 @@ The base rent is the initial rental rate agreed upon at the beginning of the lea
 This is the period after which the rent is adjusted. The intervals can be annually, bi-annually, or at any other agreed-upon frequency. This interval allows both the tenant and the [landlord](../l/landlord.md) to plan their finances accordingly.
 
 ### Adjustment Percentage/Amount
-The lease [will](../w/will.md) specify the amount or percentage by which the rent [will](../w/will.md) increase at each interval. This can be a fixed dollar amount or a percentage. The adjustment percentage is usually tied to an [index](../i/index.md) like the Consumer Price [Index](../i/index.md) (CPI) to account for [inflation](../i/inflation.md) and other economic factors.
+The lease [will](../w/will.md) specify the amount or percentage by which the rent [will](../w/will.md) increase at each interval. This can be a fixed dollar amount or a percentage. The adjustment percentage is usually tied to an [index](../i/index_instrument.md) like the Consumer Price [Index](../i/index_instrument.md) (CPI) to account for [inflation](../i/inflation.md) and other economic factors.
 
 ### Caps and Floors
 Some graduated lease agreements include caps (maximum increases) and floors (minimum increases) to provide a safety net for both parties. This ensures that sudden, extreme [market](../m/market.md) conditions do not drastically affect the rent.

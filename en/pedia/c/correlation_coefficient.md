@@ -52,7 +52,7 @@ Pair trading involves simultaneously buying and selling two highly correlated as
 
 ### Market Predictions
 
-[Correlation](../c/correlation.md) coefficients can help in predicting [market](../m/market.md) movements by analyzing the relationships between different financial instruments. For example, a high [positive correlation](../p/positive_correlation.md) between a stock and an [index](../i/index.md) can indicate that movements in the [index](../i/index.md) might lead to similar movements in the stock.
+[Correlation](../c/correlation.md) coefficients can help in predicting [market](../m/market.md) movements by analyzing the relationships between different financial instruments. For example, a high [positive correlation](../p/positive_correlation.md) between a stock and an [index](../i/index_instrument.md) can indicate that movements in the [index](../i/index_instrument.md) might lead to similar movements in the stock.
 
 ## Calculation Using Software
 

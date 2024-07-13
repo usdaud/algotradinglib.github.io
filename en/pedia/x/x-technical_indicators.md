@@ -21,7 +21,7 @@ Where:
 ## Momentum Indicators
 
 ### Relative Strength Index (RSI)
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) measures the speed and change of price movements. The RSI oscillates between zero and 100. Traditionally, RSI readings of 70 or above indicate that a [security](../s/security.md) is becoming [overbought](../o/overbought.md), while readings of 30 or below indicate that it is [oversold](../o/oversold.md).
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) measures the speed and change of price movements. The RSI oscillates between zero and 100. Traditionally, RSI readings of 70 or above indicate that a [security](../s/security.md) is becoming [overbought](../o/overbought.md), while readings of 30 or below indicate that it is [oversold](../o/oversold.md).
 
 ### Moving Average Convergence Divergence (MACD)
 The MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages of a [security](../s/security.md)’s price. The MACD is calculated by subtracting the 26-period EMA from the 12-period EMA. A nine-period EMA of the MACD known as the "signal line" is then plotted on top of the MACD line, which can function as a trigger for buy and sell signals.
@@ -38,7 +38,7 @@ The [Stochastic Oscillator](../s/stochastic_oscillator.md) compares a particular
 The `%D` line is a 3-day simple moving average of `%K`.
 
 ### Commodity Channel Index (CCI)
-The [Commodity](../c/commodity.md) Channel [Index](../i/index.md) (CCI) measures the variation of a [security](../s/security.md)'s price from its average price. High positive readings suggest that prices are unusually high compared to their average, whereas low negative readings indicate that prices are unusually low. CCI is calculated with:
+The [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) (CCI) measures the variation of a [security](../s/security.md)'s price from its average price. High positive readings suggest that prices are unusually high compared to their average, whereas low negative readings indicate that prices are unusually low. CCI is calculated with:
 
 ```
 CCI = (Typical Price - Moving Average of Typical Price) / (0.015 * Mean Deviation)

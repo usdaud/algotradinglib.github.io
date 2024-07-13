@@ -28,7 +28,7 @@ Identifying and analyzing [market cycles](../m/market_cycles.md) involves studyi
 
 ### Technical Analysis
 
-[Technical analysis](../t/technical_analysis.md) involves studying historical price charts and using various indicators to identify patterns that correspond to different phases of the [market](../m/market.md) cycle. Common [technical indicators](../t/technical_indicators.md) include moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)). [Chart patterns](../c/chart_patterns.md) such as head and shoulders, double tops and bottoms, and [trend](../t/trend.md) lines also help identify potential reversals and continuations in [market cycles](../m/market_cycles.md).
+[Technical analysis](../t/technical_analysis.md) involves studying historical price charts and using various indicators to identify patterns that correspond to different phases of the [market](../m/market.md) cycle. Common [technical indicators](../t/technical_indicators.md) include moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)). [Chart patterns](../c/chart_patterns.md) such as head and shoulders, double tops and bottoms, and [trend](../t/trend.md) lines also help identify potential reversals and continuations in [market cycles](../m/market_cycles.md).
 
 ### Fundamental Analysis
 

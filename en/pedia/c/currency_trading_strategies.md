@@ -34,7 +34,7 @@
 
 - **Moving Averages:** Used to smooth out price data and identify trends. Common moving averages include the Simple Moving Average (SMA) and Exponential Moving Average (EMA).
 
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** An [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It ranges from 0 to 100, with levels above 70 indicating [overbought](../o/overbought.md) conditions and below 30 indicating [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** An [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It ranges from 0 to 100, with levels above 70 indicating [overbought](../o/overbought.md) conditions and below 30 indicating [oversold](../o/oversold.md) conditions.
 
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD):** A [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages. It consists of the MACD line, signal line, and [histogram](../h/histogram.md).
 

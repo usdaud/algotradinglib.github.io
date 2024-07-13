@@ -90,15 +90,15 @@ Despite their benefits, Total [Bond](../b/bond.md) Funds are not without [risk](
 Several well-known Total [Bond](../b/bond.md) Funds [offer](../o/offer.md) investors [options](../o/options.md) to [gain](../g/gain.md) broad exposure to the [bond market](../b/bond_market.md):
 
 ### 1. **Vanguard Total Bond Market Index Fund (VBTLX)**
-   [Vanguard Total Bond Market Index Fund](https://investor.vanguard.com/mutual-funds/profile/VBTLX) seeks to track the performance of the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Float](../f/float.md) Adjusted [Index](../i/index.md). It provides broad exposure to U.S. investment-grade bonds and has a low [expense ratio](../e/expense_ratio.md).
+   [Vanguard Total Bond Market Index Fund](https://investor.vanguard.com/mutual-funds/profile/VBTLX) seeks to track the performance of the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Float](../f/float.md) Adjusted [Index](../i/index_instrument.md). It provides broad exposure to U.S. investment-grade bonds and has a low [expense ratio](../e/expense_ratio.md).
 
 ### 2. **Fidelity Total Bond Fund (FTBFX)**
    [Fidelity Total Bond Fund](https://fundresearch.fidelity.com/mutual-funds/summary/31617K881) aims for a high level of current [income](../i/income.md) by [investing](../i/investing.md) in a mix of U.S. investment-grade bonds, high-[yield](../y/yield.md) bonds, and foreign bonds.
 
 ### 3. **Schwab U.S. Aggregate Bond ETF (SCHZ)**
-   [Schwab U.S. Aggregate Bond ETF](https://www.schwabassetmanagement.com/products/schz) is an [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) that tracks the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index.md). It offers low-cost access to a diversified portfolio of bonds.
+   [Schwab U.S. Aggregate Bond ETF](https://www.schwabassetmanagement.com/products/schz) is an [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) that tracks the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md). It offers low-cost access to a diversified portfolio of bonds.
 
 ### 4. **iShares Core U.S. Aggregate Bond ETF (AGG)**
-   [iShares Core U.S. Aggregate Bond ETF](https://www.ishares.com/us/products/239726/) seeks to track the investment results of an [index](../i/index.md) composed of the total U.S. investment-grade [bond market](../b/bond_market.md), providing exposure to a broad array of U.S. bonds.
+   [iShares Core U.S. Aggregate Bond ETF](https://www.ishares.com/us/products/239726/) seeks to track the investment results of an [index](../i/index_instrument.md) composed of the total U.S. investment-grade [bond market](../b/bond_market.md), providing exposure to a broad array of U.S. bonds.
 
 In conclusion, Total [Bond](../b/bond.md) Funds [offer](../o/offer.md) investors a convenient way to [gain](../g/gain.md) diversified exposure to the [bond market](../b/bond_market.md) with professional management, [income](../i/income.md) potential, and the ability to adjust quickly to changing [market](../m/market.md) conditions. However, assessing one's [risk tolerance](../r/risk_tolerance.md), investment objectives, and understanding the various risks involved is crucial for making an informed investment decision. By carefully evaluating factors like the [expense ratio](../e/expense_ratio.md), [duration](../d/duration.md), [credit](../c/credit.md) quality, [yield](../y/yield.md), and historical performance, investors can select a Total [Bond Fund](../b/bond_fund.md) that aligns with their financial goals and provides the appropriate balance of [risk](../r/risk.md) and [return](../r/return.md).

@@ -23,7 +23,7 @@ To interpret [fund](../f/fund.md) flows meaningfully, it’s important to catego
 - **[Bond](../b/bond.md) Funds**: Investments in bonds.
 - **Mixed-[Asset](../a/asset.md) Funds**: Investments in a combination of [stocks](../s/stock.md) and bonds.
 - **Sector Funds**: Investments in specific [industry](../i/industry.md) sectors like technology, healthcare, etc.
-- **[Index](../i/index.md) Funds**: Funds that track a specific [index](../i/index.md) like the S&P 500.
+- **[Index](../i/index_instrument.md) Funds**: Funds that track a specific [index](../i/index_instrument.md) like the S&P 500.
 
 ## Data Sources
 

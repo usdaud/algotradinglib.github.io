@@ -1,9 +1,9 @@
 # 4-Hour RSI
 
-The 4-hour [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) used in [technical analysis](../t/technical_analysis.md) to measure the speed and change of price movements over a specified period. RSI ranges from 0 to 100, with levels above 70 indicating [overbought](../o/overbought.md) conditions and levels below 30 indicating [oversold](../o/oversold.md) conditions. The 4-hour RSI is a variant that analyzes price data in 4-hour intervals, providing a mid-term perspective on [market](../m/market.md) [momentum](../m/momentum.md). This tool is particularly useful for traders who engage in short to mid-term [trading strategies](../t/trading_strategies.md), including [algorithmic trading](../a/algorithmic_trading.md).
+The 4-hour [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) used in [technical analysis](../t/technical_analysis.md) to measure the speed and change of price movements over a specified period. RSI ranges from 0 to 100, with levels above 70 indicating [overbought](../o/overbought.md) conditions and levels below 30 indicating [oversold](../o/oversold.md) conditions. The 4-hour RSI is a variant that analyzes price data in 4-hour intervals, providing a mid-term perspective on [market](../m/market.md) [momentum](../m/momentum.md). This tool is particularly useful for traders who engage in short to mid-term [trading strategies](../t/trading_strategies.md), including [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Overview
-[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is one of the most popular [technical indicators](../t/technical_indicators.md) used by traders. Developed by J. Welles Wilder, it was first introduced in his 1978 book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)." RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the price of a stock or other [asset](../a/asset.md).
+[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is one of the most popular [technical indicators](../t/technical_indicators.md) used by traders. Developed by J. Welles Wilder, it was first introduced in his 1978 book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)." RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the price of a stock or other [asset](../a/asset.md).
 
 The formula for calculating RSI is:
 \[ 
@@ -21,7 +21,7 @@ For a 4-hour RSI, RS ([Relative Strength](../r/relative_strength.md)) is usually
 2. **Compute Gains and Losses:** Determine the gains and losses for each interval.
 3. **Calculate Average Gains and Losses:** Compute the average [gain](../g/gain.md) and average loss over the look-back period.
 4. **Determine [Relative Strength](../r/relative_strength.md) (RS):** Divide the average [gain](../g/gain.md) by the average loss to get the RS.
-5. **Compute RSI:** Apply the RSI formula to convert RS to an [index](../i/index.md) that ranges from 0 to 100.
+5. **Compute RSI:** Apply the RSI formula to convert RS to an [index](../i/index_instrument.md) that ranges from 0 to 100.
 
 ### Example
 1. **Collect 4-Hour Price Data:** Assume closing prices for the past 14 four-hour intervals are [45, 47, 48, 50, 49, 51, 52, 51, 53, 54, 56, 57, 58, 59].

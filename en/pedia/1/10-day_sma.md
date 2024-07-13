@@ -36,7 +36,7 @@ The 10-Day SMA serves [multiple](../m/multiple.md) purposes in [algorithmic trad
 
 3. **[Support and Resistance](../s/support_and_resistance.md) Levels**: The 10-Day SMA can act as a support level in an [uptrend](../u/uptrend.md) or a resistance level in a [downtrend](../d/downtrend.md). Traders watch these levels closely because they can indicate points where the price might reverse.
 
-4. **Combination with Other Indicators**: Often, the 10-Day SMA is used in conjunction with other [technical indicators](../t/technical_indicators.md). For example, it can be paired with [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to improve the accuracy of [trading signals](../t/trading_signals.md).
+4. **Combination with Other Indicators**: Often, the 10-Day SMA is used in conjunction with other [technical indicators](../t/technical_indicators.md). For example, it can be paired with [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) to improve the accuracy of [trading signals](../t/trading_signals.md).
 
 ## Practical Example
 

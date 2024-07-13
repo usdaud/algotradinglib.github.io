@@ -1,6 +1,6 @@
 # Euro Overnight Index Average (Eonia)
 
-The [Euro](../e/euro.md) Overnight [Index](../i/index.md) Average, commonly known as Eonia, is a measure of the effective [interest rate](../i/interest_rate.md) in the European interbank lending [market](../m/market.md). Calculated by the European Central [Bank](../b/bank.md) (ECB), it represents the [weighted average](../w/weighted_average.md) of all overnight unsecured lending transactions initiated within the Eurosystem by banks. Eonia is pivotal for various financial products and serves as a [reference rate](../r/reference_rate.md) within the broader [financial system](../f/financial_system.md), particularly in the context of monetary policies implemented by the European Central [Bank](../b/bank.md).
+The [Euro](../e/euro.md) Overnight [Index](../i/index_instrument.md) Average, commonly known as Eonia, is a measure of the effective [interest rate](../i/interest_rate.md) in the European interbank lending [market](../m/market.md). Calculated by the European Central [Bank](../b/bank.md) (ECB), it represents the [weighted average](../w/weighted_average.md) of all overnight unsecured lending transactions initiated within the Eurosystem by banks. Eonia is pivotal for various financial products and serves as a [reference rate](../r/reference_rate.md) within the broader [financial system](../f/financial_system.md), particularly in the context of monetary policies implemented by the European Central [Bank](../b/bank.md).
 
 ## Historical Context
 

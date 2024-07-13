@@ -18,7 +18,7 @@ Given their dual focus, Growth and [Income](../i/income.md) Funds tend to exhibi
 ### 4. **Management Style**
 These funds can be either actively or passively managed.
 - **[Active Management](../a/active_management.md):** [Fund](../f/fund.md) managers actively select and [trade](../t/trade.md) securities to achieve the [fund](../f/fund.md)'s objectives. This approach can potentially result in higher returns but also comes with higher management fees.
-- **Passive Management:** The [fund](../f/fund.md) aims to replicate the performance of a specific [index](../i/index.md), reducing management fees and providing a more predictable [return](../r/return.md) profile.
+- **Passive Management:** The [fund](../f/fund.md) aims to replicate the performance of a specific [index](../i/index_instrument.md), reducing management fees and providing a more predictable [return](../r/return.md) profile.
 
 ## Types of Growth and Income Funds
 

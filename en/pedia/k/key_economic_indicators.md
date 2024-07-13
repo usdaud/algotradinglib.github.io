@@ -42,7 +42,7 @@ A high [unemployment rate](../u/unemployment_rate.md) often indicates economic t
 
 ### Definition
 
-The Consumer Price [Index](../i/index.md) (CPI) measures the average change over time in the prices paid by urban consumers for a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services.
+The Consumer Price [Index](../i/index_instrument.md) (CPI) measures the average change over time in the prices paid by urban consumers for a [market](../m/market.md) basket of [consumer goods](../c/consumer_goods.md) and services.
 
 ### Calculation
 
@@ -58,7 +58,7 @@ The CPI is a critical measure of [inflation](../i/inflation.md), reflecting the 
 
 ### Definition
 
-The Producer Price [Index](../i/index.md) (PPI) measures the average change in selling prices received by domestic producers for their output. It is a measure of [inflation](../i/inflation.md) at the wholesale level.
+The Producer Price [Index](../i/index_instrument.md) (PPI) measures the average change in selling prices received by domestic producers for their output. It is a measure of [inflation](../i/inflation.md) at the wholesale level.
 
 ### Calculation
 
@@ -89,11 +89,11 @@ PPI is a [leading indicator](../l/leading_indicator.md) of consumer price [infla
 
 ### Definition
 
-The Industrial Production [Index](../i/index.md) (IPI) measures the real output of [manufacturing](../m/manufacturing.md), [mining](../m/mining.md), and utilities. It shows changes in the production levels of industries that are the backbone of the [economy](../e/economy.md).
+The Industrial Production [Index](../i/index_instrument.md) (IPI) measures the real output of [manufacturing](../m/manufacturing.md), [mining](../m/mining.md), and utilities. It shows changes in the production levels of industries that are the backbone of the [economy](../e/economy.md).
 
 ### Calculation
 
-IPI is calculated by collecting output data from various industries, then weighting and aggregating these data to form a single [index](../i/index.md) number. It compares the current output with a reference period.
+IPI is calculated by collecting output data from various industries, then weighting and aggregating these data to form a single [index](../i/index_instrument.md) number. It compares the current output with a reference period.
 
 ### Importance
 

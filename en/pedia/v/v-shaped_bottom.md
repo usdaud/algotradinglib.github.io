@@ -8,7 +8,7 @@ A **V-shaped bottom** is a [technical analysis](../t/technical_analysis.md) patt
 The first [leg](../l/leg.md) of the V-shaped bottom is characterized by a steep decline in price. This is usually driven by negative [market sentiment](../m/market_sentiment.md), poor [earnings](../e/earnings.md) reports, macroeconomic issues, or other factors leading to panic selling. The decline is rapid and typically does not provide significant support or resistance levels along the way.
 
 ### Sharp Reversal
-At the lowest point of the [downtrend](../d/downtrend.md), [trading algorithms](../t/trading_algorithms.md) may identify [oversold](../o/oversold.md) conditions using indicators such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or moving average convergence [divergence](../d/divergence.md) (MACD). The [reversal](../r/reversal.md) is usually abrupt, accompanied by a spike in trading [volume](../v/volume.md), indicating [robust](../r/robust.md) buying [interest](../i/interest.md).
+At the lowest point of the [downtrend](../d/downtrend.md), [trading algorithms](../t/trading_algorithms.md) may identify [oversold](../o/oversold.md) conditions using indicators such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or moving average convergence [divergence](../d/divergence.md) (MACD). The [reversal](../r/reversal.md) is usually abrupt, accompanied by a spike in trading [volume](../v/volume.md), indicating [robust](../r/robust.md) buying [interest](../i/interest.md).
 
 ### Equally Sharp Uptrend
 The second [leg](../l/leg.md) is marked by a swift recovery in price. This recovery often occurs faster than the preceding decline, driven by renewed [investor](../i/investor.md) confidence or positive news flow. Traders using [momentum](../m/momentum.md)-based algorithms focus on this phase to capture quick gains.
@@ -34,7 +34,7 @@ A sudden spike in [volume](../v/volume.md) during the bottom phase is a critical
 
 ## Real-World Example
 
-A notable example of a V-shaped bottom is the 2008 [financial crisis](../f/financial_crisis.md). The S&P 500 [index](../i/index.md) saw a sharp decline from October 2007 to March 2009. This was followed by an equally sharp recovery, marking one of the most significant V-shaped bottoms in modern [market](../m/market.md) history.
+A notable example of a V-shaped bottom is the 2008 [financial crisis](../f/financial_crisis.md). The S&P 500 [index](../i/index_instrument.md) saw a sharp decline from October 2007 to March 2009. This was followed by an equally sharp recovery, marking one of the most significant V-shaped bottoms in modern [market](../m/market.md) history.
 
 ## Trading Strategies
 

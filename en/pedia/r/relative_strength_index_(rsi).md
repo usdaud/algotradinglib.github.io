@@ -1,6 +1,6 @@
 # Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is one of the most widely used [momentum oscillators](../m/momentum_oscillators.md) in [technical analysis](../t/technical_analysis.md). It was developed by J. Welles Wilder Jr. and introduced in his seminal book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)" published in 1978. The RSI measures the speed and change of price movements and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is one of the most widely used [momentum oscillators](../m/momentum_oscillators.md) in [technical analysis](../t/technical_analysis.md). It was developed by J. Welles Wilder Jr. and introduced in his seminal book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)" published in 1978. The RSI measures the speed and change of price movements and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
 
 ## Calculation of RSI
 
@@ -108,7 +108,7 @@ While RSI is a powerful tool, it is not without limitations:
 
 ## Conclusion
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) remains an essential tool in the arsenal of both novice and experienced traders. By measuring the [momentum](../m/momentum.md) of price movements, it offers valuable insights into potential [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, [trend](../t/trend.md) reversals, and [market](../m/market.md) divergences. However, it is crucial to combine RSI with other [technical indicators](../t/technical_indicators.md) and [robust](../r/robust.md) [risk management](../r/risk_management.md) strategies to maximize its effectiveness and minimize potential drawbacks.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) remains an essential tool in the arsenal of both novice and experienced traders. By measuring the [momentum](../m/momentum.md) of price movements, it offers valuable insights into potential [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, [trend](../t/trend.md) reversals, and [market](../m/market.md) divergences. However, it is crucial to combine RSI with other [technical indicators](../t/technical_indicators.md) and [robust](../r/robust.md) [risk management](../r/risk_management.md) strategies to maximize its effectiveness and minimize potential drawbacks.
 
 For further detailed analysis and application, many trading education resources and platforms provide comprehensive tutorials and examples of using RSI in real-world trading scenarios:
 

@@ -1,10 +1,10 @@
 # Underweight
 
-In the financial context, the term "underweight" refers to a lower level of investment in a particular [asset](../a/asset.md) relative to a [benchmark](../b/benchmark.md) [index](../i/index.md) or [market](../m/market.md). This strategy is often employed by portfolio managers and investment analysts to signify that they believe an [asset](../a/asset.md), such as a specific stock, [bond](../b/bond.md), or sector, is expected to [underperform](../u/underperform.md) the [market](../m/market.md) or its peers. Being underweight means that the investment holds a smaller allocation than what is typically found in a [benchmark](../b/benchmark.md) [index](../i/index.md).
+In the financial context, the term "underweight" refers to a lower level of investment in a particular [asset](../a/asset.md) relative to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) or [market](../m/market.md). This strategy is often employed by portfolio managers and investment analysts to signify that they believe an [asset](../a/asset.md), such as a specific stock, [bond](../b/bond.md), or sector, is expected to [underperform](../u/underperform.md) the [market](../m/market.md) or its peers. Being underweight means that the investment holds a smaller allocation than what is typically found in a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 
 ## Definition
 
-Underweight is one of several [asset allocation](../a/asset_allocation.md) terms used by portfolio managers and financial analysts. It represents a position where an [investor](../i/investor.md) holds a smaller percentage of a particular [asset](../a/asset.md) or [asset class](../a/asset_class.md) compared to its weight in a [benchmark](../b/benchmark.md) [index](../i/index.md). For example, if a stock comprises 5% of a [benchmark](../b/benchmark.md) [index](../i/index.md) but an [investor](../i/investor.md)'s portfolio only allocates 2% to that stock, the [investor](../i/investor.md) is said to be underweight in that stock.
+Underweight is one of several [asset allocation](../a/asset_allocation.md) terms used by portfolio managers and financial analysts. It represents a position where an [investor](../i/investor.md) holds a smaller percentage of a particular [asset](../a/asset.md) or [asset class](../a/asset_class.md) compared to its weight in a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). For example, if a stock comprises 5% of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) but an [investor](../i/investor.md)'s portfolio only allocates 2% to that stock, the [investor](../i/investor.md) is said to be underweight in that stock.
 
 ## Context and Importance
 
@@ -18,7 +18,7 @@ Underweight positions are a crucial aspect of [risk management](../r/risk_manage
 
 ### Benchmark Comparisons
 
-Commonly, benchmarks such as the S&P 500 or the MSCI World [Index](../i/index.md) serve as reference points for determining underweight and [overweight](../o/overweight.md) positions. The deviation from these benchmarks provides a structured approach for [asset allocation](../a/asset_allocation.md), enabling systematic investment decisions.
+Commonly, benchmarks such as the S&P 500 or the MSCI World [Index](../i/index_instrument.md) serve as reference points for determining underweight and [overweight](../o/overweight.md) positions. The deviation from these benchmarks provides a structured approach for [asset allocation](../a/asset_allocation.md), enabling systematic investment decisions.
 
 ## Applications in Asset Management
 
@@ -28,7 +28,7 @@ In [equity](../e/equity.md) [investing](../i/investing.md), underweighting speci
 
 ### Fixed Income
 
-For fixed-[income](../i/income.md) investments, being underweight could mean holding fewer bonds from a particular [issuer](../i/issuer.md) or sector than indicated by a [benchmark](../b/benchmark.md) [index](../i/index.md). This decision could be driven by changing [interest](../i/interest.md) rates, [credit](../c/credit.md) risks, or sectoral shifts influencing [bond](../b/bond.md) performance.
+For fixed-[income](../i/income.md) investments, being underweight could mean holding fewer bonds from a particular [issuer](../i/issuer.md) or sector than indicated by a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). This decision could be driven by changing [interest](../i/interest.md) rates, [credit](../c/credit.md) risks, or sectoral shifts influencing [bond](../b/bond.md) performance.
 
 ### Geographic Diversification
 
@@ -52,7 +52,7 @@ Advanced [quantitative models](../q/quantitative_models.md) use statistical tool
 
 ## Real-World Example
 
-Let's consider a [fund manager](../f/fund_manager.md) overseeing a diversified portfolio that mirrors the composition of the S&P 500. Suppose that the [technology sector](../t/technology_sector.md) consists of 20% of the [index](../i/index.md). Based on current analyses and [forecasting](../f/forecasting.md), the [fund manager](../f/fund_manager.md) believes that technology [stocks](../s/stock.md) are poised for a [correction](../c/correction.md) due to overvaluation and emerging regulatory concerns. As a result, they decide to reduce the portfolio's exposure to technology [stocks](../s/stock.md) to 10%, thereby underweighting the sector relative to the [benchmark](../b/benchmark.md).
+Let's consider a [fund manager](../f/fund_manager.md) overseeing a diversified portfolio that mirrors the composition of the S&P 500. Suppose that the [technology sector](../t/technology_sector.md) consists of 20% of the [index](../i/index_instrument.md). Based on current analyses and [forecasting](../f/forecasting.md), the [fund manager](../f/fund_manager.md) believes that technology [stocks](../s/stock.md) are poised for a [correction](../c/correction.md) due to overvaluation and emerging regulatory concerns. As a result, they decide to reduce the portfolio's exposure to technology [stocks](../s/stock.md) to 10%, thereby underweighting the sector relative to the [benchmark](../b/benchmark.md).
 
 ## Implications and Considerations
 

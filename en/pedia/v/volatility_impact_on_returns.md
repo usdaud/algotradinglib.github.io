@@ -22,7 +22,7 @@ In the financial world, the relationship between [risk](../r/risk.md) and [retur
    
 2. **[Beta](../b/beta.md)**: This measures the [volatility](../v/volatility.md) of a [security](../s/security.md) relative to the overall [market](../m/market.md). A [beta](../b/beta.md) greater than 1 indicates higher [volatility](../v/volatility.md) than the [market](../m/market.md), whereas a [beta](../b/beta.md) less than 1 indicates lower [volatility](../v/volatility.md).
    
-3. **[Volatility](../v/volatility.md) [Index](../i/index.md) (VIX)**: Often referred to as the "fear gauge," the VIX measures the [market](../m/market.md)'s expectation of 30-day forward-looking [volatility](../v/volatility.md) based on S&P 500 [index options](../i/index_options.md).
+3. **[Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX)**: Often referred to as the "fear gauge," the VIX measures the [market](../m/market.md)'s expectation of 30-day forward-looking [volatility](../v/volatility.md) based on S&P 500 [index options](../i/index_options.md).
 
 ## The Relationship Between Volatility and Returns
 

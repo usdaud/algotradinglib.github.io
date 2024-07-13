@@ -24,7 +24,7 @@ In leveraged trading, where investors borrow [money](../m/money.md) to [trade](.
 
 ### Technical Indicators
 
-Technical analysts use various indicators to make trading decisions. When these indicators signal bearish trends, traders may collectively act on these signals, leading to over-selling. Common [technical indicators](../t/technical_indicator.md) include [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Averages, and [Bollinger Bands](../b/bollinger_band.md).
+Technical analysts use various indicators to make trading decisions. When these indicators signal bearish trends, traders may collectively act on these signals, leading to over-selling. Common [technical indicators](../t/technical_indicator.md) include [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Averages, and [Bollinger Bands](../b/bollinger_band.md).
 
 ## Consequences of Over-Selling
 
@@ -56,7 +56,7 @@ Identifying over-sold assets is crucial for traders and investors looking to [ca
 
 ### Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. An RSI [value](../v/value.md) below 30 is generally considered to indicate that an [asset](../a/asset.md) is [oversold](../o/oversold.md), making it a potential buy signal.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. An RSI [value](../v/value.md) below 30 is generally considered to indicate that an [asset](../a/asset.md) is [oversold](../o/oversold.md), making it a potential buy signal.
 
 ### Moving Averages
 

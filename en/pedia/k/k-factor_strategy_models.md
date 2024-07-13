@@ -19,7 +19,7 @@ The K-[Factor](../f/factor.md), in [financial modeling](../f/financial_modeling.
 
 ### Mathematical Representation
 
-The K-[Factor](../f/factor.md) is typically represented as a composite [index](../i/index.md) derived from [weighted](../w/weighted.md) sums or linear combinations of its [underlying](../u/underlying.md) factors. Mathematically, it can be expressed as:
+The K-[Factor](../f/factor.md) is typically represented as a composite [index](../i/index_instrument.md) derived from [weighted](../w/weighted.md) sums or linear combinations of its [underlying](../u/underlying.md) factors. Mathematically, it can be expressed as:
 
 \[ K = \sum_{i=1}^{n} w_i F_i \]
 

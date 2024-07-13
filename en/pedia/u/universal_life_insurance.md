@@ -22,7 +22,7 @@ A unique aspect of universal [life insurance](../l/life_insurance.md) is that it
 
 ### Interest Rates and Investment Options
 
-The cash [value](../v/value.md) in a universal [life insurance](../l/life_insurance.md) policy earns [interest](../i/interest.md) based on the current [market](../m/market.md) rates or the performance of an [index](../i/index.md) or separate account. Many universal life policies [offer](../o/offer.md) a guaranteed minimum [interest rate](../i/interest_rate.md), which protects the policyholder's investment in low-[interest](../i/interest.md)-rate environments. Additionally, some policies provide the option to invest in variable sub-accounts, which function similarly to mutual funds, [offering](../o/offering.md) the potential for higher returns along with greater [risk](../r/risk.md).
+The cash [value](../v/value.md) in a universal [life insurance](../l/life_insurance.md) policy earns [interest](../i/interest.md) based on the current [market](../m/market.md) rates or the performance of an [index](../i/index_instrument.md) or separate account. Many universal life policies [offer](../o/offer.md) a guaranteed minimum [interest rate](../i/interest_rate.md), which protects the policyholder's investment in low-[interest](../i/interest.md)-rate environments. Additionally, some policies provide the option to invest in variable sub-accounts, which function similarly to mutual funds, [offering](../o/offering.md) the potential for higher returns along with greater [risk](../r/risk.md).
 
 ## Types of Universal Life Insurance
 
@@ -36,7 +36,7 @@ Guaranteed universal [life insurance](../l/life_insurance.md) (GUL) focuses on p
 
 ### Indexed Universal Life Insurance
 
-Indexed universal [life insurance](../l/life_insurance.md) policies (IULs) [offer](../o/offer.md) returns based on the performance of a [market index](../m/market_index.md), such as the S&P 500. These policies provide a balance between [risk](../r/risk.md) and reward, as they often include a cap on maximum returns as well as a floor that protects against negative [index](../i/index.md) performance.
+Indexed universal [life insurance](../l/life_insurance.md) policies (IULs) [offer](../o/offer.md) returns based on the performance of a [market index](../m/market_index.md), such as the S&P 500. These policies provide a balance between [risk](../r/risk.md) and reward, as they often include a cap on maximum returns as well as a floor that protects against negative [index](../i/index_instrument.md) performance.
 
 ### Variable Universal Life Insurance
 

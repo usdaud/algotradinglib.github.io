@@ -54,7 +54,7 @@ Effective [risk management](../r/risk_management.md) is crucial in algorithmic t
 
 - **[Sharpe Ratio](../s/sharpe_ratio.md)**: Measures the [risk-adjusted return](../r/risk-adjusted_return.md) of a strategy.
 - **[Drawdown](../d/drawdown.md)**: Quantifies the peak-to-[trough](../t/trough.md) decline in the [value](../v/value.md) of an investment.
-- **[Alpha](../a/alpha.md)**: Indicates the [excess return](../e/excess_return.md) of a strategy compared to a [benchmark](../b/benchmark.md) [index](../i/index.md).
+- **[Alpha](../a/alpha.md)**: Indicates the [excess return](../e/excess_return.md) of a strategy compared to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 - **[Beta](../b/beta.md)**: Measures the [volatility](../v/volatility.md) of a strategy relative to the [market](../m/market.md).
 
 ### 6. **Regulation and Compliance**

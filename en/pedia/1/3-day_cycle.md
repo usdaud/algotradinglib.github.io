@@ -15,7 +15,7 @@ The fundamental idea behind the 3-day cycle is that [financial markets](../f/fin
 Algorithmic traders utilize various [technical indicators](../t/technical_indicators.md) and statistical tools to identify and validate 3-day cycle patterns. Common tools include:
 
 - **Moving Averages (MA):** Helps smooth out price data to identify trends over a specified time period, including three-day periods.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** Measures the speed and change of price movements, often indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, which are essential in identifying overextensions or reversals in a three-day cycle.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** Measures the speed and change of price movements, often indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, which are essential in identifying overextensions or reversals in a three-day cycle.
 - **[Bollinger Bands](../b/bollinger_bands.md):** Provides a visual representation of [volatility](../v/volatility.md) and can demonstrate price movements within upper and lower bands over a three-day period.
 
 ### Implementing the 3-Day Cycle Strategy

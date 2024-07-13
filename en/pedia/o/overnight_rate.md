@@ -27,7 +27,7 @@ The [Federal Funds Rate](../f/federal_funds_rate.md) is the overnight rate at wh
 - More information: [Federal Reserve](https://www.federalreserve.gov/)
 
 ### 2. **EONIA (Eurozone)**
-The [Euro](../e/euro.md) Overnight [Index](../i/index.md) Average (EONIA) was traditionally the [benchmark](../b/benchmark.md) for overnight rates in the [Eurozone](../e/eurozone.md). However, since October 2019, EONIA has been replaced by the [Euro](../e/euro.md) Short-Term Rate (€STR).
+The [Euro](../e/euro.md) Overnight [Index](../i/index_instrument.md) Average (EONIA) was traditionally the [benchmark](../b/benchmark.md) for overnight rates in the [Eurozone](../e/eurozone.md). However, since October 2019, EONIA has been replaced by the [Euro](../e/euro.md) Short-Term Rate (€STR).
 - More information: [European Central Bank](https://www.ecb.europa.eu/)
 
 ### 3. **SONIA (United Kingdom)**

@@ -4,7 +4,7 @@ The Colombo Stock [Exchange](../e/exchange.md) (CSE) is the primary stock [excha
 
 ## Overview
 
-The CSE is located in Colombo, the commercial [capital](../c/capital.md) of Sri Lanka. It is a modern [exchange](../e/exchange.md) that operates with an electronic trading system, ensuring efficient and transparent trading activities. The main [index](../i/index.md) of the CSE is the All Share Price [Index](../i/index.md) (ASPI), which tracks the performance of all [listed](../l/listed.md) companies. Another important [index](../i/index.md) is the S&P Sri Lanka 20 (S&P SL20), which includes the top 20 largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md) in the [market](../m/market.md).
+The CSE is located in Colombo, the commercial [capital](../c/capital.md) of Sri Lanka. It is a modern [exchange](../e/exchange.md) that operates with an electronic trading system, ensuring efficient and transparent trading activities. The main [index](../i/index_instrument.md) of the CSE is the All Share Price [Index](../i/index_instrument.md) (ASPI), which tracks the performance of all [listed](../l/listed.md) companies. Another important [index](../i/index_instrument.md) is the S&P Sri Lanka 20 (S&P SL20), which includes the top 20 largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md) in the [market](../m/market.md).
 
 ### Key Functions
 

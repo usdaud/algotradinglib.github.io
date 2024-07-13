@@ -2,7 +2,7 @@
 
 #### Overview
 
-Leveraged [Exchange](../e/exchange.md)-Traded Funds (ETFs) are a type of [investment fund](../i/investment_fund.md) that seek to deliver multiples of the performance of the [index](../i/index.md) or [benchmark](../b/benchmark.md) they track. For instance, a 2x [leveraged ETF](../l/leveraged_etf.md) aims to deliver twice the daily performance of its [underlying](../u/underlying.md) [index](../i/index.md). In contrast, a -2x [leveraged ETF](../l/leveraged_etf.md) aims to deliver twice the inverse of the daily performance of its [index](../i/index.md). These financial instruments are ideal for [short-term trading](../s/short-term_trading.md) strategies and are popular among those who implement [algorithmic trading](../a/algorithmic_trading.md) (algotrading) methodologies to exploit short-term trends and [volatility](../v/volatility.md).
+Leveraged [Exchange](../e/exchange.md)-Traded Funds (ETFs) are a type of [investment fund](../i/investment_fund.md) that seek to deliver multiples of the performance of the [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md) they track. For instance, a 2x [leveraged ETF](../l/leveraged_etf.md) aims to deliver twice the daily performance of its [underlying](../u/underlying.md) [index](../i/index_instrument.md). In contrast, a -2x [leveraged ETF](../l/leveraged_etf.md) aims to deliver twice the inverse of the daily performance of its [index](../i/index_instrument.md). These financial instruments are ideal for [short-term trading](../s/short-term_trading.md) strategies and are popular among those who implement [algorithmic trading](../a/algorithmic_trading.md) (algotrading) methodologies to exploit short-term trends and [volatility](../v/volatility.md).
 
 #### Structure
 
@@ -10,22 +10,22 @@ Leveraged ETFs use a combination of [derivatives](../d/derivatives.md), includin
 
 #### Daily Rebalancing and Compounding Effect
 
-One of the critical characteristics of leveraged ETFs is their daily [rebalancing](../r/rebalancing.md). This means that these ETFs are designed to achieve their target [multiple](../m/multiple.md) returns on a daily [basis](../b/basis.md), not over longer periods. The daily [rebalancing](../r/rebalancing.md), coupled with [compounding](../c/compounding.md) effects, means that the long-term performance of leveraged ETFs can deviate significantly from their intended [leverage](../l/leverage.md) [multiple](../m/multiple.md) of the [underlying](../u/underlying.md) [index](../i/index.md). This effect is particularly pronounced in volatile markets.
+One of the critical characteristics of leveraged ETFs is their daily [rebalancing](../r/rebalancing.md). This means that these ETFs are designed to achieve their target [multiple](../m/multiple.md) returns on a daily [basis](../b/basis.md), not over longer periods. The daily [rebalancing](../r/rebalancing.md), coupled with [compounding](../c/compounding.md) effects, means that the long-term performance of leveraged ETFs can deviate significantly from their intended [leverage](../l/leverage.md) [multiple](../m/multiple.md) of the [underlying](../u/underlying.md) [index](../i/index_instrument.md). This effect is particularly pronounced in volatile markets.
 
 #### Example of Compounding Effect
 
-Consider a 2x [leveraged ETF](../l/leveraged_etf.md) that tracks an [index](../i/index.md). On Day 1, if the [index](../i/index.md) rises by 1%, the ETF would be expected to rise by 2%. However, if on Day 2, the [index](../i/index.md) falls by 1%, the ETF would fall by 2%. Over [multiple](../m/multiple.md) days, where the [index](../i/index.md) has ups and downs, the [leveraged ETF](../l/leveraged_etf.md)'s performance can diverge significantly due to the effects of daily [rebalancing](../r/rebalancing.md) and [compounding](../c/compounding.md).
+Consider a 2x [leveraged ETF](../l/leveraged_etf.md) that tracks an [index](../i/index_instrument.md). On Day 1, if the [index](../i/index_instrument.md) rises by 1%, the ETF would be expected to rise by 2%. However, if on Day 2, the [index](../i/index_instrument.md) falls by 1%, the ETF would fall by 2%. Over [multiple](../m/multiple.md) days, where the [index](../i/index_instrument.md) has ups and downs, the [leveraged ETF](../l/leveraged_etf.md)'s performance can diverge significantly due to the effects of daily [rebalancing](../r/rebalancing.md) and [compounding](../c/compounding.md).
 
 #### Types of Leveraged ETFs
 
 Leveraged ETFs come in various flavors, including:
 
-- **2x or 3x [Bull](../b/bull.md) ETFs**: Seek to achieve twice or three times the daily performance of the [underlying](../u/underlying.md) [index](../i/index.md).
-- **-2x or -3x Bear ETFs**: Seek to achieve twice or three times the inverse of the daily performance of the [underlying](../u/underlying.md) [index](../i/index.md).
+- **2x or 3x [Bull](../b/bull.md) ETFs**: Seek to achieve twice or three times the daily performance of the [underlying](../u/underlying.md) [index](../i/index_instrument.md).
+- **-2x or -3x Bear ETFs**: Seek to achieve twice or three times the inverse of the daily performance of the [underlying](../u/underlying.md) [index](../i/index_instrument.md).
   
 #### Uses in Algorithmic Trading
 
-Algorithmic traders frequently use leveraged ETFs for [short-term trading](../s/short-term_trading.md) strategies due to their ability to [capitalize](../c/capitalize.md) quickly on [market](../m/market.md) movements. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) can exploit the [leverage](../l/leverage.md) and [liquidity](../l/liquidity.md) of these funds to achieve superior returns on smaller movements in the [underlying](../u/underlying.md) [index](../i/index.md).
+Algorithmic traders frequently use leveraged ETFs for [short-term trading](../s/short-term_trading.md) strategies due to their ability to [capitalize](../c/capitalize.md) quickly on [market](../m/market.md) movements. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) can exploit the [leverage](../l/leverage.md) and [liquidity](../l/liquidity.md) of these funds to achieve superior returns on smaller movements in the [underlying](../u/underlying.md) [index](../i/index_instrument.md).
 
 Some common [algorithmic trading](../a/algorithmic_trading.md) strategies involving leveraged ETFs include:
 
@@ -49,9 +49,9 @@ The Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)
 
 Some of the well-known leveraged ETFs include:
 
-- **ProShares UltraPro QQQ (TQQQ)**: A 3x [leveraged ETF](../l/leveraged_etf.md) that aims to deliver three times the daily performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index.md).
-- **Direxion Daily Financial [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (FAS)**: A 3x [leveraged ETF](../l/leveraged_etf.md) that aims to achieve three times the daily performance of the Russell 1000 Financial Services [Index](../i/index.md).
-- **ProShares UltraShort S&P500 (SDS)**: A -2x [leveraged ETF](../l/leveraged_etf.md) that seeks to deliver twice the inverse daily performance of the S&P 500 [Index](../i/index.md).
+- **ProShares UltraPro QQQ (TQQQ)**: A 3x [leveraged ETF](../l/leveraged_etf.md) that aims to deliver three times the daily performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md).
+- **Direxion Daily Financial [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (FAS)**: A 3x [leveraged ETF](../l/leveraged_etf.md) that aims to achieve three times the daily performance of the Russell 1000 Financial Services [Index](../i/index_instrument.md).
+- **ProShares UltraShort S&P500 (SDS)**: A -2x [leveraged ETF](../l/leveraged_etf.md) that seeks to deliver twice the inverse daily performance of the S&P 500 [Index](../i/index_instrument.md).
 
 #### Key Players in Leveraged ETF Space
 

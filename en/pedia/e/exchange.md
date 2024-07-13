@@ -63,7 +63,7 @@ Physical exchanges have trading floors where traders buy and sell securities in 
 
 ## Exchange-Traded Funds (ETFs)
 
-ETFs are investment funds traded on exchanges, much like [stocks](../s/stock.md). They [hold](../h/hold.md) assets such as [stocks](../s/stock.md), commodities, or bonds and generally aim to track an [index](../i/index.md). Popular ETF providers include:
+ETFs are investment funds traded on exchanges, much like [stocks](../s/stock.md). They [hold](../h/hold.md) assets such as [stocks](../s/stock.md), commodities, or bonds and generally aim to track an [index](../i/index_instrument.md). Popular ETF providers include:
 
 - **BlackRock’s [iShares](../i/ishares.md)**: Offers a variety of ETF [options](../o/options.md). [iShares](https://www.ishares.com)
 - **Vanguard**: Known for its low-cost ETFs. [Vanguard](https://investor.vanguard.com/etf)

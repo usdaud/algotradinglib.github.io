@@ -22,7 +22,7 @@ Hedging involves the use of financial instruments, such as [derivatives](../d/de
 - **Swaps**: Agreements to [exchange](../e/exchange.md) cash flows or other financial instruments.
 
 ### 3. Derivatives
-[Derivatives](../d/derivatives.md) are financial contracts whose [value](../v/value.md) is derived from an [underlying asset](../u/underlying_asset.md), [index](../i/index.md), or rate. They are often used to transfer [risk](../r/risk.md):
+[Derivatives](../d/derivatives.md) are financial contracts whose [value](../v/value.md) is derived from an [underlying asset](../u/underlying_asset.md), [index](../i/index_instrument.md), or rate. They are often used to transfer [risk](../r/risk.md):
 - **[Forward Contracts](../f/forward_contracts.md)**: Customized contracts to buy or sell an [asset](../a/asset.md) at a specified price on a future date.
 - **[Credit Default Swaps](../c/credit_default_swaps.md) (CDS)**: Instruments used to transfer the [risk](../r/risk.md) of a [credit](../c/credit.md) event, such as [default](../d/default.md) on a [loan](../l/loan.md).
 

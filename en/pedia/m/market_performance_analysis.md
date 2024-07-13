@@ -25,11 +25,11 @@ The [Sortino Ratio](../s/sortino_ratio.md) is a variation of the [Sharpe Ratio](
 \[ \text{Sortino Ratio} = \frac{\text{Strategy Return} - \text{Risk-Free Rate}}{\text{[Downside Deviation](../d/downside_deviation.md)}} \]
 
 ### 5. Alpha and Beta
-- **[Alpha](../a/alpha.md)** measures the strategy’s performance relative to a [benchmark](../b/benchmark.md) [index](../i/index.md), indicating how much better or worse the strategy performed.
+- **[Alpha](../a/alpha.md)** measures the strategy’s performance relative to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), indicating how much better or worse the strategy performed.
   
   \[ \text{Alpha} = \text{Strategy Return} - (\text{Beta} \times \text{[Benchmark](../b/benchmark.md) [Return](../r/return.md)}) \]
 
-- **[Beta](../b/beta.md)** measures the [volatility](../v/volatility.md) or [systemic risk](../s/systemic_risk.md) relative to the [market](../m/market.md) ([benchmark](../b/benchmark.md) [index](../i/index.md)).
+- **[Beta](../b/beta.md)** measures the [volatility](../v/volatility.md) or [systemic risk](../s/systemic_risk.md) relative to the [market](../m/market.md) ([benchmark](../b/benchmark.md) [index](../i/index_instrument.md)).
 
   \[ \text{Beta} = \frac{\text{[Covariance](../c/covariance.md)(Strategy, [Market](../m/market.md))}}{\text{Variance([Market](../m/market.md))}} \]
 

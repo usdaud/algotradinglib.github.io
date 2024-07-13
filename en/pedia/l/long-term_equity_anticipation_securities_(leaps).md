@@ -1,6 +1,6 @@
 # Long-Term Equity Anticipation Securities (LEAPS)
 
-Long-Term [Equity](../e/equity.md) Anticipation Securities, commonly known as LEAPS, are long-term [options](../o/options.md) contracts that allow investors to [capitalize](../c/capitalize.md) on the future movements of a stock or an [index](../i/index.md). These financial instruments are similar to standard [options](../o/options.md) but have expiration dates that are significantly further into the future, typically ranging from nine months to three years. LEAPS are available in the form of both calls and puts, allowing investors to [leverage](../l/leverage.md) their positions in anticipation of upward or downward [market](../m/market.md) movements.
+Long-Term [Equity](../e/equity.md) Anticipation Securities, commonly known as LEAPS, are long-term [options](../o/options.md) contracts that allow investors to [capitalize](../c/capitalize.md) on the future movements of a stock or an [index](../i/index_instrument.md). These financial instruments are similar to standard [options](../o/options.md) but have expiration dates that are significantly further into the future, typically ranging from nine months to three years. LEAPS are available in the form of both calls and puts, allowing investors to [leverage](../l/leverage.md) their positions in anticipation of upward or downward [market](../m/market.md) movements.
 
 ## What are LEAPS?
 
@@ -11,7 +11,7 @@ LEAPS provide investors with the right, but not the obligation, to buy or sell a
 1. **[Strike Price](../s/strike_price.md):** The price at which the [underlying asset](../u/underlying_asset.md) can be bought or sold.
 2. **[Expiration Date](../e/expiration_date.md):** The date on which the option contract expires, which can be as long as three years from the date of issuance.
 3. **[Premium](../p/premium.md):** The price paid for purchasing the LEAPS contract. This tends to be higher than that of short-term [options](../o/options.md) due to the extended [time horizon](../t/time_horizon.md).
-4. **[Underlying Asset](../u/underlying_asset.md):** The stock or [index](../i/index.md) that the LEAPS contract is based on.
+4. **[Underlying Asset](../u/underlying_asset.md):** The stock or [index](../i/index_instrument.md) that the LEAPS contract is based on.
 
 ### Types of LEAPS
 

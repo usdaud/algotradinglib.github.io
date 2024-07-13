@@ -28,7 +28,7 @@ These strategies use fundamental metrics such as [earnings](../e/earnings.md), d
 
 ### Equal-weighted Strategies
 
-In equal-[weighted](../w/weighted.md) strategies, each stock in the [index](../i/index.md) is given an [equal weight](../e/equal_weight.md), regardless of its [market capitalization](../m/market_capitalization.md). This method diversifies the portfolio across a wider [range](../r/range.md) of companies and reduces the concentration [risk](../r/risk.md) associated with [market](../m/market.md)-cap-[weighted](../w/weighted.md) indices.
+In equal-[weighted](../w/weighted.md) strategies, each stock in the [index](../i/index_instrument.md) is given an [equal weight](../e/equal_weight.md), regardless of its [market capitalization](../m/market_capitalization.md). This method diversifies the portfolio across a wider [range](../r/range.md) of companies and reduces the concentration [risk](../r/risk.md) associated with [market](../m/market.md)-cap-[weighted](../w/weighted.md) indices.
 
 ## Key Players in Smart Beta
 
@@ -103,7 +103,7 @@ This ETF seeks to provide exposure to U.S. [stocks](../s/stock.md) with lower [v
 
 ### Vanguard's U.S. Value ETF
 
-Vanguard's U.S. [Value](../v/value.md) ETF seeks to track the performance of the CRSP US Large Cap [Value](../v/value.md) [Index](../i/index.md), which measures the investment [return](../r/return.md) of large-[capitalization](../c/capitalization.md) [value](../v/value.md) [stocks](../s/stock.md). It employs a fundamental-based weighting strategy to focus on [stocks](../s/stock.md) expected to provide higher returns. More information is available at [Vanguard U.S. Value ETF](https://investor.vanguard.com/etf/factors/#/sector).
+Vanguard's U.S. [Value](../v/value.md) ETF seeks to track the performance of the CRSP US Large Cap [Value](../v/value.md) [Index](../i/index_instrument.md), which measures the investment [return](../r/return.md) of large-[capitalization](../c/capitalization.md) [value](../v/value.md) [stocks](../s/stock.md). It employs a fundamental-based weighting strategy to focus on [stocks](../s/stock.md) expected to provide higher returns. More information is available at [Vanguard U.S. Value ETF](https://investor.vanguard.com/etf/factors/#/sector).
 
 ### Invesco S&P 500 Equal Weight ETF
 

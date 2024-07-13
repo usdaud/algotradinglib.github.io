@@ -43,9 +43,9 @@ The TSX is recognized for its significant representation of certain sectors, esp
 
 Indices are essential for benchmarking and [market](../m/market.md) analysis. The TSX has several critical indices, which investors use to gauge [market](../m/market.md) performance:
 
-- **S&P/TSX Composite [Index](../i/index.md)**: The [principal](../p/principal.md) broad-[market index](../m/market_index.md), representing around 70% of the [market capitalization](../m/market_capitalization.md) on the TSX.
-- **S&P/TSX 60**: A subset of the Composite [Index](../i/index.md), featuring 60 of the largest Canadian companies.
-- **S&P/TSX Venture Composite [Index](../i/index.md)**: Focuses on the smaller, growth-oriented companies [listed](../l/listed.md) on the TSX Venture [Exchange](../e/exchange.md).
+- **S&P/TSX Composite [Index](../i/index_instrument.md)**: The [principal](../p/principal.md) broad-[market index](../m/market_index.md), representing around 70% of the [market capitalization](../m/market_capitalization.md) on the TSX.
+- **S&P/TSX 60**: A subset of the Composite [Index](../i/index_instrument.md), featuring 60 of the largest Canadian companies.
+- **S&P/TSX Venture Composite [Index](../i/index_instrument.md)**: Focuses on the smaller, growth-oriented companies [listed](../l/listed.md) on the TSX Venture [Exchange](../e/exchange.md).
 
 ## Trading Mechanisms on the TSX
 

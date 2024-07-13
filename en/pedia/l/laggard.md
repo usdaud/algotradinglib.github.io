@@ -10,7 +10,7 @@ A laggard is characterized by its inability to keep pace with the general [marke
    - The most defining characteristic of a laggard is its consistent underperformance relative to the broader [market index](../m/market_index.md) (e.g., S&P 500, [NASDAQ](../n/nasdaq.md)) or sector-specific indices (e.g., technology, healthcare).
    
 2. **Low [Relative Strength](../r/relative_strength.md):**
-   - Laggards typically exhibit low [relative strength](../r/relative_strength.md), an [indicator](../i/indicator.md) used to compare a [security](../s/security.md)'s performance to a [benchmark](../b/benchmark.md). A low [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI) suggests the stock is weaker compared to the broader [market](../m/market.md) [trend](../t/trend.md).
+   - Laggards typically exhibit low [relative strength](../r/relative_strength.md), an [indicator](../i/indicator.md) used to compare a [security](../s/security.md)'s performance to a [benchmark](../b/benchmark.md). A low [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI) suggests the stock is weaker compared to the broader [market](../m/market.md) [trend](../t/trend.md).
 
 3. **[Investor](../i/investor.md) Sentiment:**
    - Laggards may suffer from poor [investor](../i/investor.md) sentiment due to various reasons including disappointing [earnings](../e/earnings.md) reports, negative news, or unfavorable [industry](../i/industry.md) trends. 

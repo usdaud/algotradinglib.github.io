@@ -39,7 +39,7 @@ This simple rule can be implemented in [trading algorithms](../t/trading_algorit
 
 ### Combining with Other Indicators
 
-To enhance the reliability of signals, traders often combine the 5MA with other [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or [Bollinger Bands](../b/bollinger_bands.md). For example, a crossover rule with the 5MA and a longer-term moving average (say, 20-day MA) can be used to confirm [trade](../t/trade.md) signals.
+To enhance the reliability of signals, traders often combine the 5MA with other [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), or [Bollinger Bands](../b/bollinger_bands.md). For example, a crossover rule with the 5MA and a longer-term moving average (say, 20-day MA) can be used to confirm [trade](../t/trade.md) signals.
 
 ### Backtesting
 

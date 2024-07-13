@@ -28,7 +28,7 @@ The VSE provided listings for companies that often couldn't meet the more string
 
 #### VSE Composite Index
 
-The VSE Composite [Index](../i/index.md) was the primary [indicator](../i/indicator.md) representing the general performance of the [listed](../l/listed.md) companies. The [index](../i/index.md) offered insight into the overall health of the small-cap markets and the sectors heavily represented on the VSE.
+The VSE Composite [Index](../i/index_instrument.md) was the primary [indicator](../i/indicator.md) representing the general performance of the [listed](../l/listed.md) companies. The [index](../i/index_instrument.md) offered insight into the overall health of the small-cap markets and the sectors heavily represented on the VSE.
 
 ## Regulatory Environment
 

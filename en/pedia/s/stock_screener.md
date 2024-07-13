@@ -34,7 +34,7 @@ A user-friendly interface makes it easy for investors to set criteria, view resu
 
 ### Fundamental Versus Technical Screeners
 - **Fundamental Screeners**: Focus on company fundamentals such as [revenue](../r/revenue.md), [debt](../d/debt.md), [profit margins](../p/profit_margins_in_trading.md), etc.
-- **Technical Screeners**: Utilize [technical analysis](../t/technical_analysis.md) indicators such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md).
+- **Technical Screeners**: Utilize [technical analysis](../t/technical_analysis.md) indicators such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md).
 
 ## Algorithmic Trading and Stock Screeners
 In [algorithmic trading](../a/accountability.md), stock screeners are integrated into [automated trading systems](../a/automated_trading_systems.md) to identify trading opportunities based on predefined criteria. The integration can be done using APIs provided by stock screener platforms or custom-built solutions that directly query financial databases. Important aspects include:

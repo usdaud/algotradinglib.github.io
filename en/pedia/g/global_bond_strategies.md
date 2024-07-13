@@ -22,7 +22,7 @@
 
 2. **[Active Management](../a/active_management.md)**: [Fund](../f/fund.md) managers actively [trade](../t/trade.md) bonds to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies and shifts in [interest](../i/interest.md) rates, [credit](../c/credit.md) [spreads](../s/spreads.md), and [currency](../c/currency.md) values.
 
-3. **[Indexing](../i/indexing.md)**: Mimicking the performance of a [bond](../b/bond.md) [index](../i/index.md) by holding a diversified portfolio of bonds in the same proportions as the [index](../i/index.md).
+3. **[Indexing](../i/indexing.md)**: Mimicking the performance of a [bond](../b/bond.md) [index](../i/index_instrument.md) by holding a diversified portfolio of bonds in the same proportions as the [index](../i/index_instrument.md).
 
 4. **Tactical Allocation**: Basing investment decisions on macroeconomic views and cyclical trends, adjusting the portfolio to capture short-term opportunities.
 
@@ -74,7 +74,7 @@
 
 2. **BlackRock**: The world’s largest [asset](../a/asset.md) manager, BlackRock offers various [global bond](../g/global_bond.md) funds and ETFs that provide exposure to international fixed-[income](../i/income.md) markets. [BlackRock](https://www.blackrock.com/)
 
-3. **Vanguard**: Known for its low-cost [index](../i/index.md) funds, Vanguard offers [global bond](../g/global_bond.md) [index](../i/index.md) funds that allow investors to track broad [international bond](../i/international_bond.md) markets. [Vanguard](https://www.vanguard.com/)
+3. **Vanguard**: Known for its low-cost [index](../i/index_instrument.md) funds, Vanguard offers [global bond](../g/global_bond.md) [index](../i/index_instrument.md) funds that allow investors to track broad [international bond](../i/international_bond.md) markets. [Vanguard](https://www.vanguard.com/)
 
 4. **J.P. Morgan [Asset Management](../a/asset_management.md)**: This [firm](../f/firm.md) offers actively managed [global bond](../g/global_bond.md) funds that seek to achieve superior returns through strategic investments in international bonds. [J.P. Morgan Asset Management](https://am.jpmorgan.com/)
 

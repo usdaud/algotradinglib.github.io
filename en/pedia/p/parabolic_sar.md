@@ -46,7 +46,7 @@ Traders also use the Parabolic SAR as a [trailing stop](../t/trailing_stop.md)-l
 In [algorithmic trading](../a/algorithmic_trading.md), the Parabolic SAR can be incorporated into [trading strategies](../t/trading_strategies.md) to automate the identification of trends and [execution](../e/execution.md) of trades. Here are some common approaches:
 
 #### Combination with Other Indicators
-Algorithmic traders often combine the Parabolic SAR with other [technical indicators](../t/technical_indicators.md), such as moving averages or the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), to filter out [false signals](../f/false_signals_in_trading.md) and enhance the reliability of the [trading strategy](../t/trading_strategy.md).
+Algorithmic traders often combine the Parabolic SAR with other [technical indicators](../t/technical_indicators.md), such as moving averages or the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), to filter out [false signals](../f/false_signals_in_trading.md) and enhance the reliability of the [trading strategy](../t/trading_strategy.md).
 
 #### Automated Trend Following
 Algorithmic systems can use the Parabolic SAR to implement automated [trend](../t/trend.md)-following strategies. By coding the SAR calculation and signal generation into [trading algorithms](../t/trading_algorithms.md), traders can execute trades based on predefined rules and [market](../m/market.md) conditions.

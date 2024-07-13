@@ -14,7 +14,7 @@ HashKey Global offers a [range](../r/range.md) of digital [asset management](../
 HashKey provides actively managed funds that [leverage](../l/leverage.md) quantitative and fundamental strategies to generate returns. Their team of experienced traders and analysts utilize a [range](../r/range.md) of [trading signals](../t/trading_signals.md) and [proprietary algorithms](../p/proprietary_algorithms.md) to optimize [portfolio performance](../p/portfolio_performance.md).
 
 ### Passive Products
-In addition to actively managed funds, HashKey offers passive investment products such as [index](../i/index.md) funds and [exchange](../e/exchange.md)-traded funds (ETFs) that allow investors to [gain](../g/gain.md) exposure to a diversified basket of digital assets.
+In addition to actively managed funds, HashKey offers passive investment products such as [index](../i/index_instrument.md) funds and [exchange](../e/exchange.md)-traded funds (ETFs) that allow investors to [gain](../g/gain.md) exposure to a diversified basket of digital assets.
 
 ### Staking Services
 HashKey also provides staking services, enabling clients to earn rewards by participating in the validation processes of various [blockchain](../b/blockchain_in_trading.md) networks. This service is particularly valuable for investors looking to generate [yield](../y/yield.md) from their digital [asset](../a/asset.md) [holdings](../h/holdings.md).

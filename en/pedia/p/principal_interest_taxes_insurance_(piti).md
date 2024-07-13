@@ -21,7 +21,7 @@ Early in the life of a [loan](../l/loan.md), a smaller portion of the monthly [p
 
 ### Types of Interest Rates
 - **Fixed-rate mortgages**: The [interest rate](../i/interest_rate.md) remains constant throughout the life of the [loan](../l/loan.md).
-- **Adjustable-rate mortgages (ARMs)**: The [interest rate](../i/interest_rate.md) can change periodically based on an [index](../i/index.md) that reflects the cost to the [lender](../l/lender.md) of borrowing on the [credit](../c/credit.md) markets.
+- **Adjustable-rate mortgages (ARMs)**: The [interest rate](../i/interest_rate.md) can change periodically based on an [index](../i/index_instrument.md) that reflects the cost to the [lender](../l/lender.md) of borrowing on the [credit](../c/credit.md) markets.
 
 ### Impact on Monthly Payments
 The [interest](../i/interest.md) portion of the [mortgage](../m/mortgage.md) [payment](../p/payment.md) is higher during the initial years of the [loan](../l/loan.md) and decreases over time as the [principal](../p/principal.md) is paid down. This is because [interest](../i/interest.md) is calculated on the remaining [principal](../p/principal.md) balance.

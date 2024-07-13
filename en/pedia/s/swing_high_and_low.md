@@ -15,7 +15,7 @@ Swing highs can be identified using different [charting techniques](../c/chartin
 1. **[Candlestick Patterns](../c/candlestick_patterns.md)**: Swing highs can frequently be recognized by specific [candlestick](../c/candlestick.md) formations like bearish engulfing, [evening star](../e/evening_star.md), or [shooting star](../s/shooting_star.md). These patterns often signal a potential high point before a [reversal](../r/reversal.md).
 2. **Moving Averages**: Traders use moving averages, such as the 50-day or [200-day moving average](../1/200-day_moving_average.md), to smooth out price movements and identify swing highs.
 3. **Trendlines and Channels**: Drawing trendlines along the peaks of price movements can help pinpoint swing highs.
-4. **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Stochastic can be used to identify [overbought](../o/overbought.md) conditions, which might precede a swing high.
+4. **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Stochastic can be used to identify [overbought](../o/overbought.md) conditions, which might precede a swing high.
 
 ## Swing Low
 
@@ -101,8 +101,8 @@ plt.figure(figsize=(14,7))
 plt.plot(data['Close'], label='Price')
 buy_signals = data[data['Signal'] == 1]
 sell_signals = data[data['Signal'] == -1]
-plt.scatter(buy_signals.[index](../i/index.md), buy_signals['Close'], marker='^', color='green', label='Buy Signal', [alpha](../a/alpha.md)=1)
-plt.scatter(sell_signals.[index](../i/index.md), sell_signals['Close'], marker='v', color='red', label='Sell Signal', [alpha](../a/alpha.md)=1)
+plt.scatter(buy_signals.[index](../i/index_instrument.md), buy_signals['Close'], marker='^', color='green', label='Buy Signal', [alpha](../a/alpha.md)=1)
+plt.scatter(sell_signals.[index](../i/index_instrument.md), sell_signals['Close'], marker='v', color='red', label='Sell Signal', [alpha](../a/alpha.md)=1)
 plt.legend()
 plt.show()
 ```

@@ -33,7 +33,7 @@ A [market](../m/market.md) cycle consists of four main phases: accumulation, [up
 Several [technical indicators](../t/technical_indicators.md) can help identify [market](../m/market.md) cycles:
 
 - **Moving Averages**: Traders often use MA crossovers to detect shifts in [market](../m/market.md) trends.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Helps identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) markets.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Helps identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) markets.
 - **[Bollinger Bands](../b/bollinger_bands.md)**: Measures [market](../m/market.md) [volatility](../v/volatility.md) and possible [trend](../t/trend.md) reversals.
 - **[Volume](../v/volume.md)**: Changes in trading [volume](../v/volume.md) can signal the start of new phases in the [market](../m/market.md) cycle, especially during the accumulation and [distribution](../d/distribution.md) phases.
 

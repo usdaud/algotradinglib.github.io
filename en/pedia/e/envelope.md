@@ -67,7 +67,7 @@ Traders can then observe how the price interacts with the envelope bands and mak
 ## Advanced Considerations
 
 1. **[Volatility](../v/volatility.md) Adjustment**: During periods of high [market](../m/market.md) [volatility](../v/volatility.md), traders might need to adjust the envelope percentage to prevent frequent [false signals](../f/false_signals_in_trading.md).
-2. **Confirmation with Other Indicators**: To enhance the accuracy of [trading signals](../t/trading_signals.md), envelopes can be used in conjunction with other [technical indicators](../t/technical_indicator.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_band.md).
+2. **Confirmation with Other Indicators**: To enhance the accuracy of [trading signals](../t/trading_signals.md), envelopes can be used in conjunction with other [technical indicators](../t/technical_indicator.md) such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_band.md).
 3. **[Algorithmic Trading](../a/accountability.md) Applications**: Algorithmic traders often implement envelopes in their [trading algorithms](../t/trading_algorithms.md) to automate [trade](../t/trade.md) decisions based on predefined criteria.
 4. **[Backtesting](../b/backtesting.md)**: Before using envelopes in live trading, it’s crucial to backtest the strategy on historical data to evaluate the performance and reliability of the signals generated.
 

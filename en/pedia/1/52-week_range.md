@@ -58,7 +58,7 @@ def place_trade(signal, date, price):
     # Implement [trade](../t/trade.md) [execution](../e/execution.md) logic here
     pass
 
-for [index](../i/index.md), row in df.iterrows():
+for [index](../i/index_instrument.md), row in df.iterrows():
     if row['Buy_Signal']:
         place_trade('BUY', row['Date'], row['Close'])
     elif row['Sell_Signal']:

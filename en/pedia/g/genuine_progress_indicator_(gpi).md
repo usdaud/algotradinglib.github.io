@@ -35,7 +35,7 @@ The calculation of GPI involves several steps, often starting with GDP as a base
 ### Example of GPI Calculation
 
 1. **Starting Point**: Personal Consumption Expenditures (similar to GDP)
-2. **Adjustment**: Adjust for [income](../i/income.md) [distribution](../d/distribution.md) using an inequality weighting [index](../i/index.md).
+2. **Adjustment**: Adjust for [income](../i/income.md) [distribution](../d/distribution.md) using an inequality weighting [index](../i/index_instrument.md).
 3. **Additions**:
    - [Value](../v/value.md) of household work and volunteer work
    - Public [infrastructure](../i/infrastructure.md) investments
@@ -68,7 +68,7 @@ The calculation of GPI involves several steps, often starting with GDP as a base
 Several countries and regions have adopted or experimented with GPI as an alternative metric to GDP, including:
 
 1. **United States**: A number of states, including Maryland and Vermont, have implemented GPI to inform policy decisions and measure progress.
-2. **Canada**: The Canadian [Index](../i/index.md) of Wellbeing (CIW) incorporates elements similar to GPI to provide a more comprehensive measure of national progress.
+2. **Canada**: The Canadian [Index](../i/index_instrument.md) of Wellbeing (CIW) incorporates elements similar to GPI to provide a more comprehensive measure of national progress.
 3. **Australia**: The Australian Bureau of [Statistics](../s/statistics.md) has explored the use of GPI to [complement](../c/complement.md) traditional [economic indicators](../e/economic_indicators.md).
 4. **Europe**: Countries like Germany and the Netherlands have also begun to explore the feasibility of GPI as a supplement to GDP.
 

@@ -65,7 +65,7 @@ While the Hikkake pattern can provide valuable signals, its effectiveness can va
 The Hikkake pattern is visible across different time frames (daily, weekly, or even intra-day charts). However, higher time frames tend to produce more reliable signals due to the reduced [noise](../n/noise.md).
 
 ### Combination with Other Indicators
-The Hikkake pattern can be more effective when combined with other [technical indicators](../t/technical_indicator.md) or [chart patterns](../c/chart_patterns.md). Moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and [volume analysis](../v/volume_analysis.md) can add additional layers of confirmation before entering a [trade](../t/trade.md).
+The Hikkake pattern can be more effective when combined with other [technical indicators](../t/technical_indicator.md) or [chart patterns](../c/chart_patterns.md). Moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [volume analysis](../v/volume_analysis.md) can add additional layers of confirmation before entering a [trade](../t/trade.md).
 
 ## Advantages and Disadvantages
 

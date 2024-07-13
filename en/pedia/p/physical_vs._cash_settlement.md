@@ -38,11 +38,11 @@ Cash settlement, on the other hand, does not involve the delivery of the [underl
 
 ### Examples of Cash Settlement
 
-- **Stock [Index Futures](../i/index_futures.md)**: [Futures contracts](../f/futures_contracts.md) based on stock indices like the S&P 500 or the Dow Jones Industrial Average typically use cash settlement. Traders receive or pay the difference between the contract price and the [index](../i/index.md) closing price on the settlement date.
+- **Stock [Index Futures](../i/index_futures.md)**: [Futures contracts](../f/futures_contracts.md) based on stock indices like the S&P 500 or the Dow Jones Industrial Average typically use cash settlement. Traders receive or pay the difference between the contract price and the [index](../i/index_instrument.md) closing price on the settlement date.
 
 - **[Currency](../c/currency.md) [Futures](../f/futures.md)**: Certain [currency](../c/currency.md) [futures](../f/futures.md) can also be cash-settled. An example is the [Euro](../e/euro.md) FX [Futures](../f/futures.md) traded on the CME, where settlement is in cash rather than actual [currency](../c/currency.md) delivery. [CME Group](https://www.cmegroup.com/)
 
-- **[Commodity](../c/commodity.md) Indices**: [Futures contracts](../f/futures_contracts.md) based on [commodity](../c/commodity.md) indices, such as the [Bloomberg](../b/bloomberg.md) [Commodity](../c/commodity.md) [Index](../i/index.md), are usually settled in cash.
+- **[Commodity](../c/commodity.md) Indices**: [Futures contracts](../f/futures_contracts.md) based on [commodity](../c/commodity.md) indices, such as the [Bloomberg](../b/bloomberg.md) [Commodity](../c/commodity.md) [Index](../i/index_instrument.md), are usually settled in cash.
 
 ## Comparison: Physical vs. Cash Settlement
 

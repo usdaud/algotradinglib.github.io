@@ -4,7 +4,7 @@
 
 ## Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is one of the most commonly used [momentum](../m/momentum.md) oscillators. Developed by J. Welles Wilder, Jr., the RSI measures the speed and change of price movements. It oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [security](../s/security.md).
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is one of the most commonly used [momentum](../m/momentum.md) oscillators. Developed by J. Welles Wilder, Jr., the RSI measures the speed and change of price movements. It oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [security](../s/security.md).
 
 ### Calculation
 
@@ -63,7 +63,7 @@ Traders use the [Stochastic Oscillator](../s/stochastic_oscillator.md) to identi
 
 ## Commodity Channel Index (CCI)
 
-Developed by Donald Lambert, the [Commodity](../c/commodity.md) Channel [Index](../i/index.md) (CCI) is a versatile [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the deviation of a [security](../s/security.md)'s price from its average price over a specified period, typically 20 days.
+Developed by Donald Lambert, the [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) (CCI) is a versatile [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the deviation of a [security](../s/security.md)'s price from its average price over a specified period, typically 20 days.
 
 ### Calculation
 

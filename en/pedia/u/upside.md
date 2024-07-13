@@ -23,7 +23,7 @@ Several factors can impact an [asset](../a/asset.md)'s [upside potential](../u/u
 1. **[Market](../m/market.md) Conditions**: The overall economic and [market](../m/market.md) environment can significantly influence the [upside potential](../u/upside_potential_in_trading.md) of assets. Bullish markets generally support higher [upside potential](../u/upside_potential_in_trading.md) across different [asset](../a/asset.md) classes.
 2. **Company Performance**: For individual [stocks](../s/stock.md), company-specific factors such as [earnings](../e/earnings.md) reports, product launches, and management changes can affect the stock's [upside potential](../u/upside_potential_in_trading.md).
 3. **[Industry](../i/industry.md) Trends**: [Industry](../i/industry.md)-wide trends and innovations, such as technological advancements or regulatory changes, can enhance or constrain [upside potential](../u/upside_potential_in_trading.md).
-4. **[Technical Indicators](../t/technical_indicator.md)**: In [technical analysis](../t/technical_analysis.md), indicators like moving averages, [volume](../v/volume.md) trends, and [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI) can provide insights into [upside potential](../u/upside_potential_in_trading.md).
+4. **[Technical Indicators](../t/technical_indicator.md)**: In [technical analysis](../t/technical_analysis.md), indicators like moving averages, [volume](../v/volume.md) trends, and [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI) can provide insights into [upside potential](../u/upside_potential_in_trading.md).
 
 ## Methods for Evaluating Upside Potential
 

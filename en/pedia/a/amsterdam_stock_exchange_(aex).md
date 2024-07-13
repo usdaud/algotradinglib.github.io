@@ -82,15 +82,15 @@ The [exchange](../e/exchange.md) operates under stringent regulatory oversight t
 
 ### AEX Index
 
-The AEX [Index](../i/index.md) is the leading stock [market index](../m/market_index.md) for [Euronext Amsterdam](../e/euronext_amsterdam.md), comprising the 25 largest and most frequently traded companies [listed](../l/listed.md) on the [exchange](../e/exchange.md). It serves as a [benchmark](../b/benchmark.md) for the Dutch [stock market](../s/stock_market.md) and includes blue-chip companies like Royal Dutch Shell, Unilever, and ING Group.
+The AEX [Index](../i/index_instrument.md) is the leading stock [market index](../m/market_index.md) for [Euronext Amsterdam](../e/euronext_amsterdam.md), comprising the 25 largest and most frequently traded companies [listed](../l/listed.md) on the [exchange](../e/exchange.md). It serves as a [benchmark](../b/benchmark.md) for the Dutch [stock market](../s/stock_market.md) and includes blue-chip companies like Royal Dutch Shell, Unilever, and ING Group.
 
-For more information on the AEX [Index](../i/index.md) and [Euronext](../e/euronext.md), you can visit their official website: [Euronext](https://www.euronext.com/en/markets/amsterdam)
+For more information on the AEX [Index](../i/index_instrument.md) and [Euronext](../e/euronext.md), you can visit their official website: [Euronext](https://www.euronext.com/en/markets/amsterdam)
 
 ### Other Indices
 
-- **AMX [Index](../i/index.md)**: [Mid-cap](../m/mid-cap.md) [index](../i/index.md), tracking the 25 next largest companies after those in the AEX.
-- **ASCX [Index](../i/index.md)**: Small-cap [index](../i/index.md), comprising smaller companies.
-- **AEX ESG [Index](../i/index.md)**: Focuses on companies with strong ESG performance.
+- **AMX [Index](../i/index_instrument.md)**: [Mid-cap](../m/mid-cap.md) [index](../i/index_instrument.md), tracking the 25 next largest companies after those in the AEX.
+- **ASCX [Index](../i/index_instrument.md)**: Small-cap [index](../i/index_instrument.md), comprising smaller companies.
+- **AEX ESG [Index](../i/index_instrument.md)**: Focuses on companies with strong ESG performance.
 
 ## Listings and IPOs
 

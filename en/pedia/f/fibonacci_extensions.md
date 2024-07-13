@@ -46,7 +46,7 @@ In the Forex [market](../m/market.md), assume the EUR/USD moved from 1.2000 (Low
 
 ## Limitations and Combining with Other Indicators
 
-While Fibonacci extensions are essential for traders, relying solely on these levels can be risky. [Market](../m/market.md) conditions are influenced by numerous factors that Fibonacci extensions cannot account for, such as news events, [market sentiment](../m/market_sentiment.md), macroeconomic trends, and geopolitical tensions. Hence, it is crucial to combine them with other [technical indicators](../t/technical_indicator.md) like Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), or [Volume analysis](../v/volume_analysis.md) for a more [robust](../r/robust.md) strategy.
+While Fibonacci extensions are essential for traders, relying solely on these levels can be risky. [Market](../m/market.md) conditions are influenced by numerous factors that Fibonacci extensions cannot account for, such as news events, [market sentiment](../m/market_sentiment.md), macroeconomic trends, and geopolitical tensions. Hence, it is crucial to combine them with other [technical indicators](../t/technical_indicator.md) like Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), or [Volume analysis](../v/volume_analysis.md) for a more [robust](../r/robust.md) strategy.
 
 ### Moving Averages
 

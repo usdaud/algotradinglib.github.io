@@ -4,7 +4,7 @@ The field of [algorithmic trading](../a/algorithmic_trading.md), or simply "algo
 
 ## Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is one of the most commonly used [momentum indicators](../m/momentum_indicators.md). Developed by J. Welles Wilder, it measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the price of an [asset](../a/asset.md). 
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is one of the most commonly used [momentum indicators](../m/momentum_indicators.md). Developed by J. Welles Wilder, it measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the price of an [asset](../a/asset.md). 
 
 ### Calculation: 
 The RSI is calculated using the following formula:
@@ -65,7 +65,7 @@ The [Average Directional Index](../a/average_directional_index_(adx).md) (ADX) i
 The ADX can be calculated over a specified period, usually 14 days, using the following steps:
 1. Calculate the Directional Movement (DM) and [Average True Range](../a/average_true_range_(atr).md) (ATR).
 2. Smooth the DM and ATR using a moving average (usually an exponential moving average).
-3. Compute the Directional Movement [Index](../i/index.md) (DX) using the smoothed values.
+3. Compute the Directional Movement [Index](../i/index_instrument.md) (DX) using the smoothed values.
 4. Finally, the ADX is a smoothed average of the DX.
 
 ### Interpretation:
@@ -74,7 +74,7 @@ The ADX can be calculated over a specified period, usually 14 days, using the fo
 
 ## Commodity Channel Index (CCI)
 
-The [Commodity](../c/commodity.md) Channel [Index](../i/index.md) (CCI), created by Donald Lambert, is a versatile [indicator](../i/indicator.md) that can be used to identify a new [trend](../t/trend.md) or warn of extreme conditions.
+The [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) (CCI), created by Donald Lambert, is a versatile [indicator](../i/indicator.md) that can be used to identify a new [trend](../t/trend.md) or warn of extreme conditions.
 
 ### Calculation:
 CCI is computed with the following formula:

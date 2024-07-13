@@ -49,7 +49,7 @@ The rise of ESG [investing](../i/investing.md) has led to the development of ESG
 
 - **MSCI ESG Ratings**: Provides metrics on companies’ exposures to and management of ESG risks and opportunities [MSCI](https://www.msci.com/our-solutions/esg-investing).
 - **Sustainalytics**: Offers ESG [risk](../r/risk.md) ratings to measure company exposure to [industry](../i/industry.md)-specific material ESG risks [Sustainalytics](https://www.sustainalytics.com/).
-- **[FTSE Russell](../f/ftse_russell.md) (FTSE4Good)**: An [index](../i/index.md) series that measures the performance of companies demonstrating strong ESG practices [FTSE Russell](https://www.ftserussell.com/).
+- **[FTSE Russell](../f/ftse_russell.md) (FTSE4Good)**: An [index](../i/index_instrument.md) series that measures the performance of companies demonstrating strong ESG practices [FTSE Russell](https://www.ftserussell.com/).
 - **ISS ESG**: Delivers ESG ratings, and governance quality scores [ISS ESG](https://www.issgovernance.com/esg/).
 - **[Bloomberg](../b/bloomberg.md) ESG Data**: Provides ESG data, scores, and benchmarking [Bloomberg](https://www.bloomberg.com/professional/solution/esg-data/).
 

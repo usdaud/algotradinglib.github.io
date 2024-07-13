@@ -5,7 +5,7 @@ A rally in [finance](../f/finance.md) refers to a period during which the price 
 ## Types of Rallies
 
 ### Market-Wide Rally
-A [market](../m/market.md)-wide rally happens when a broad [index](../i/index.md), like the S&P 500, Dow Jones Industrial Average, or [NASDAQ](../n/nasdaq.md), experiences an overall upward trajectory. This type of rally often reflects widespread [investor](../i/investor.md) optimism and can be based on macroeconomic factors such as strong GDP growth, lower [unemployment](../u/unemployment.md) rates, or favorable monetary policies from central banks.
+A [market](../m/market.md)-wide rally happens when a broad [index](../i/index_instrument.md), like the S&P 500, Dow Jones Industrial Average, or [NASDAQ](../n/nasdaq.md), experiences an overall upward trajectory. This type of rally often reflects widespread [investor](../i/investor.md) optimism and can be based on macroeconomic factors such as strong GDP growth, lower [unemployment](../u/unemployment.md) rates, or favorable monetary policies from central banks.
 
 ### Sector-Specific Rally
 A sector-specific rally is confined to a particular sector of the [economy](../e/economy.md), such as technology, healthcare, or energy. These rallies are generally driven by sector-specific news, such as technological breakthroughs, regulatory changes, or shifts in consumer behavior. For instance, an announcement of a groundbreaking drug can trigger a rally in the biotechnology sector.
@@ -47,7 +47,7 @@ After reaching a peak, the [market](../m/market.md) may undergo a period of [con
 ## Analyzing Rallies
 
 ### Technical Analysis
-Technical analysts use charts, patterns, and indicators to identify potential rallies. Tools like moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [volume indicators](../v/volume_indicators.md) can help traders spot signs of an impending rally.
+Technical analysts use charts, patterns, and indicators to identify potential rallies. Tools like moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [volume indicators](../v/volume_indicators.md) can help traders spot signs of an impending rally.
 
 ### Fundamental Analysis
 Fundamental analysts look at [economic indicators](../e/economic_indicators.md), corporate [earnings](../e/earnings.md), and [financial statements](../f/financial_statements.md) to predict rallies. Understanding the [intrinsic value](../i/intrinsic_value.md) of an [asset](../a/asset.md) can help investors identify when a [security](../s/security.md) is [undervalued](../u/undervalued.md) and poised for a rally.

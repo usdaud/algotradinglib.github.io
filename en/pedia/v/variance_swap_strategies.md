@@ -43,7 +43,7 @@ Where:
 
 2. **[Volatility](../v/volatility.md) [Arbitrage](../a/arbitrage.md)**:
    - **[Relative Value](../r/relative_value.md) Trades**: This involves comparing the implied [volatility](../v/volatility.md) (from [options](../o/options.md) markets) with the forecasted [realized volatility](../r/realized_volatility.md). Traders might engage in [variance swap](../v/variance_swap.md) strategies if there's a significant discrepancy, expecting a convergence between implied and [realized volatility](../r/realized_volatility.md).
-   - **Long/Short [Volatility](../v/volatility.md) Positions**: Investors might take a long position in variance swaps on one [index](../i/index.md) or [security](../s/security.md) while taking a short position in another, considering correlations or implied [volatility](../v/volatility.md) [spreads](../s/spreads.md).
+   - **Long/Short [Volatility](../v/volatility.md) Positions**: Investors might take a long position in variance swaps on one [index](../i/index_instrument.md) or [security](../s/security.md) while taking a short position in another, considering correlations or implied [volatility](../v/volatility.md) [spreads](../s/spreads.md).
 
 ### Yield Enhancement
 

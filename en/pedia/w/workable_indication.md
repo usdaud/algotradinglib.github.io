@@ -8,11 +8,11 @@ The concept of a workable indication is fundamental in both [finance](../f/finan
 
 ### 1. Technical Indicators
 
-[Technical indicators](../t/technical_indicator.md) are statistical calculations based on historical price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) information. They are widely used in [technical analysis](../t/technical_analysis.md) to predict future [market](../m/market.md) movements. Some common [technical indicators](../t/technical_indicator.md) include moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md).
+[Technical indicators](../t/technical_indicator.md) are statistical calculations based on historical price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) information. They are widely used in [technical analysis](../t/technical_analysis.md) to predict future [market](../m/market.md) movements. Some common [technical indicators](../t/technical_indicator.md) include moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md).
 
 **Moving Averages:** These smooth out price data to identify trends over a specific period. There are different types, including simple moving averages (SMA) and exponential moving averages (EMA).
 
-**[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** RSI measures the speed and change of price movements. It is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
+**[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** RSI measures the speed and change of price movements. It is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
 
 **[Bollinger Bands](../b/bollinger_band.md):** These are [volatility](../v/volatility.md) bands placed above and below a moving average. They help in identifying whether prices are high or low relative to their recent average.
 

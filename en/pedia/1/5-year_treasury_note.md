@@ -29,7 +29,7 @@ The Federal Reserve monitors the yields on Treasury securities, including the 5-
 5-Year [Treasury Notes](../t/treasury_notes.md) are considered one of the safest investments because they are backed by the full faith and [credit](../c/credit.md) of the U.S. government. The primary [risk](../r/risk.md) associated with 5-Year T-Notes is [interest rate risk](../i/interest_rate_risk.md). If [interest](../i/interest.md) rates rise after purchase, the [market value](../m/market_value.md) of the [note](../n/note.md) may decline.
 
 ### Inflation Protection
-The [return](../r/return.md) on a 5-Year T-[Note](../n/note.md) can be eroded by [inflation](../i/inflation.md). To mitigate this [risk](../r/risk.md), investors can consider Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS), which adjust their [principal](../p/principal.md) [value](../v/value.md) based on changes in the Consumer Price [Index](../i/index.md) (CPI).
+The [return](../r/return.md) on a 5-Year T-[Note](../n/note.md) can be eroded by [inflation](../i/inflation.md). To mitigate this [risk](../r/risk.md), investors can consider Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS), which adjust their [principal](../p/principal.md) [value](../v/value.md) based on changes in the Consumer Price [Index](../i/index_instrument.md) (CPI).
 
 ## Historical Performance
 ### Yield Trends

@@ -40,9 +40,9 @@ Trading signal generation is a crucial component of [algorithmic trading](../a/a
    - **[Bollinger Bands](../b/bollinger_bands.md)**: Consist of a middle band (SMA) and an upper and lower band at a specified number of standard deviations away.
 
 2. **[Momentum Indicators](../m/momentum_indicators.md)**:
-   - **RSI**: [Relative Strength](../r/relative_strength.md) [Index](../i/index.md).
+   - **RSI**: [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md).
    - **[Stochastic Oscillator](../s/stochastic_oscillator.md)**: Compares a particular closing price to a [range](../r/range.md) of prices over a certain period.
-   - **CCI**: [Commodity](../c/commodity.md) Channel [Index](../i/index.md).
+   - **CCI**: [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md).
 
 3. **[Volatility](../v/volatility.md) Indicators**:
    - **ATR**: [Average True Range](../a/average_true_range_(atr).md).

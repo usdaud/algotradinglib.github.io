@@ -36,7 +36,7 @@ Horizontal mergers attract considerable scrutiny from [antitrust](../a/antitrust
 The [merger](../m/merger.md) review process often involves an in-depth investigation where regulators analyze [market](../m/market.md) data, competitor positioning, and potential impacts on consumers. Companies proposing a [merger](../m/merger.md) must demonstrate that the advantages outweigh any potential harm to competition. This process can include public commentary, economic analysis, and possibly [restructuring](../r/restructuring.md) proposals to [gain](../g/gain.md) regulatory approval.
 
 ### Legal Precedent and Case Law
-Numerous legal precedents have shaped the landscape of horizontal mergers. Historical cases provide insights into how regulatory bodies approach [merger](../m/merger.md) evaluations, focusing on [market](../m/market.md) concentration indices such as the Herfindahl-Hirschman [Index](../i/index.md) (HHI) and the analysis of competitive effects in relevant markets.
+Numerous legal precedents have shaped the landscape of horizontal mergers. Historical cases provide insights into how regulatory bodies approach [merger](../m/merger.md) evaluations, focusing on [market](../m/market.md) concentration indices such as the Herfindahl-Hirschman [Index](../i/index_instrument.md) (HHI) and the analysis of competitive effects in relevant markets.
 
 ## Strategic Implications
 

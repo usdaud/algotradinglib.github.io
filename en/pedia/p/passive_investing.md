@@ -4,9 +4,9 @@
 
 ### Key Principles of Passive Investing
 
-1. **Low Costs**: Passive [investing](../i/investing.md) typically involves low [transaction costs](../t/transaction_costs.md) because it minimizes buying and selling. Management fees for passive investment vehicles, such as [index](../i/index.md) funds and ETFs ([Exchange](../e/exchange.md)-Traded Funds), are usually lower compared to those for actively managed funds.
+1. **Low Costs**: Passive [investing](../i/investing.md) typically involves low [transaction costs](../t/transaction_costs.md) because it minimizes buying and selling. Management fees for passive investment vehicles, such as [index](../i/index_instrument.md) funds and ETFs ([Exchange](../e/exchange.md)-Traded Funds), are usually lower compared to those for actively managed funds.
 
-2. **[Diversification](../d/diversification.md)**: By [investing](../i/investing.md) in a diverse array of assets, passive investors can spread [risk](../r/risk.md) and reduce the impact of any single investment's poor performance. Typically, this involves [investing](../i/investing.md) in [index](../i/index.md) funds that replicate major [market](../m/market.md) indices like the S&P 500, FTSE 100, or MSCI World [Index](../i/index.md).
+2. **[Diversification](../d/diversification.md)**: By [investing](../i/investing.md) in a diverse array of assets, passive investors can spread [risk](../r/risk.md) and reduce the impact of any single investment's poor performance. Typically, this involves [investing](../i/investing.md) in [index](../i/index_instrument.md) funds that replicate major [market](../m/market.md) indices like the S&P 500, FTSE 100, or MSCI World [Index](../i/index_instrument.md).
 
 3. **[Market Efficiency](../m/market_efficiency.md)**: Passive investors often subscribe to the [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH), which suggests that markets efficiently reflect all available information. As a result, it is difficult to consistently achieve higher returns than the overall [market](../m/market.md).
 
@@ -16,21 +16,21 @@
 
 #### Index Funds
 
-**[Index](../i/index.md) funds** are mutual funds designed to track the performance of a specific [index](../i/index.md). For example, an [index fund](../i/index_fund.md) might track the S&P 500, mirroring the performance of that [index](../i/index.md) by holding all (or a [representative sample](../r/representative_sample.md)) of the [stocks](../s/stock.md) in that [index](../i/index.md). 
+**[Index](../i/index_instrument.md) funds** are mutual funds designed to track the performance of a specific [index](../i/index_instrument.md). For example, an [index fund](../i/index_fund.md) might track the S&P 500, mirroring the performance of that [index](../i/index_instrument.md) by holding all (or a [representative sample](../r/representative_sample.md)) of the [stocks](../s/stock.md) in that [index](../i/index_instrument.md). 
 
 **Advantages**:
-- **Low Fees**: [Index](../i/index.md) funds generally have lower management fees compared to actively managed funds.
-- **[Diversification](../d/diversification.md)**: By [default](../d/default.md), [index](../i/index.md) funds [offer](../o/offer.md) [diversification](../d/diversification.md) across many different securities.
+- **Low Fees**: [Index](../i/index_instrument.md) funds generally have lower management fees compared to actively managed funds.
+- **[Diversification](../d/diversification.md)**: By [default](../d/default.md), [index](../i/index_instrument.md) funds [offer](../o/offer.md) [diversification](../d/diversification.md) across many different securities.
 - **Simplicity**: Simple to understand and easy to manage for investors.
 
 #### Exchange-Traded Funds (ETFs)
 
-**ETFs** are similar to [index](../i/index.md) funds but [trade](../t/trade.md) like individual [stocks](../s/stock.md) on an [exchange](../e/exchange.md). They can be bought and sold throughout the trading day at [market](../m/market.md) prices, which can differ from their net [asset](../a/asset.md) [value](../v/value.md) (NAV).
+**ETFs** are similar to [index](../i/index_instrument.md) funds but [trade](../t/trade.md) like individual [stocks](../s/stock.md) on an [exchange](../e/exchange.md). They can be bought and sold throughout the trading day at [market](../m/market.md) prices, which can differ from their net [asset](../a/asset.md) [value](../v/value.md) (NAV).
 
 **Advantages**:
 - **Flexibility**: Investors can buy and sell ETFs throughout the trading day.
 - **Tax [Efficiency](../e/efficiency.md)**: ETFs typically incur fewer [capital](../c/capital.md) gains [taxes](../t/taxes.md) than mutual funds.
-- **Low Fees**: Often lower fees compared to mutual funds, similar to [index](../i/index.md) funds.
+- **Low Fees**: Often lower fees compared to mutual funds, similar to [index](../i/index_instrument.md) funds.
 
 ### Comparing Passive and Active Investing
 
@@ -56,7 +56,7 @@ Passive [investing](../i/investing.md) is generally more cost-effective:
 
 1. **Limited [Upside](../u/upside.md)**: Unable to [outperform](../o/outperform.md) the [market](../m/market.md); returns are limited to [market](../m/market.md) performance.
 2. **Lack of Flexibility**: Less responsive to [market anomalies](../m/market_anomalies.md) or opportunities.
-3. ** [Tracking Error](../t/tracking_error.md)**: Sometimes, the [fund](../f/fund.md)’s performance may not perfectly align with the [index](../i/index.md) due to fees or slightly different [holdings](../h/holdings.md).
+3. ** [Tracking Error](../t/tracking_error.md)**: Sometimes, the [fund](../f/fund.md)’s performance may not perfectly align with the [index](../i/index_instrument.md) due to fees or slightly different [holdings](../h/holdings.md).
 
 ### Modern Developments in Passive Investing
 

@@ -52,16 +52,16 @@ To maintain [market](../m/market.md) integrity and protect investors, IDX enforc
 The IDX offers several indices that serve as benchmarks for [market](../m/market.md) performance. The most notable indices include:
 
 ### 1. Jakarta Composite Index (JCI)
-The JCI, or IDX Composite, is the primary [benchmark](../b/benchmark.md) measuring the performance of all [listed](../l/listed.md) [stocks](../s/stock.md). It is a [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md) reflecting overall [market](../m/market.md) trends.
+The JCI, or IDX Composite, is the primary [benchmark](../b/benchmark.md) measuring the performance of all [listed](../l/listed.md) [stocks](../s/stock.md). It is a [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md) reflecting overall [market](../m/market.md) trends.
 
 ### 2. LQ45
-This [index](../i/index.md) comprises 45 of the largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md) [listed](../l/listed.md) on the IDX, representing the blue-chip segment of the [market](../m/market.md).
+This [index](../i/index_instrument.md) comprises 45 of the largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md) [listed](../l/listed.md) on the IDX, representing the blue-chip segment of the [market](../m/market.md).
 
 ### 3. IDX30
-This [index](../i/index.md) includes the 30 most actively traded [stocks](../s/stock.md), providing a snapshot of [market](../m/market.md) [liquidity](../l/liquidity.md) and [investor](../i/investor.md) sentiment.
+This [index](../i/index_instrument.md) includes the 30 most actively traded [stocks](../s/stock.md), providing a snapshot of [market](../m/market.md) [liquidity](../l/liquidity.md) and [investor](../i/investor.md) sentiment.
 
 ### 4. Islamic Indices
-The IDX offers indices tailored for Islamic [finance](../f/finance.md), such as the Jakarta Islamic [Index](../i/index.md) (JII) and others, which include [stocks](../s/stock.md) compliant with Sharia law.
+The IDX offers indices tailored for Islamic [finance](../f/finance.md), such as the Jakarta Islamic [Index](../i/index_instrument.md) (JII) and others, which include [stocks](../s/stock.md) compliant with Sharia law.
 
 ## Investment Products and Services
 

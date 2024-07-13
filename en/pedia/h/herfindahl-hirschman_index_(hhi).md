@@ -1,6 +1,6 @@
 # Herfindahl-Hirschman Index (HHI)
 
-The Herfindahl-Hirschman [Index](../i/index.md) (HHI) is a statistical measure used to evaluate the concentration and competitiveness of markets, primarily utilized in the fields of [antitrust](../a/antitrust.md) law and economic studies. It was jointly developed by economists Orris C. Herfindahl and Albert O. Hirschman. The HHI is a valuable tool for policymakers, regulators, and [market](../m/market.md) analysts to assess [market](../m/market.md) structures and the potential implications of mergers and acquisitions.
+The Herfindahl-Hirschman [Index](../i/index_instrument.md) (HHI) is a statistical measure used to evaluate the concentration and competitiveness of markets, primarily utilized in the fields of [antitrust](../a/antitrust.md) law and economic studies. It was jointly developed by economists Orris C. Herfindahl and Albert O. Hirschman. The HHI is a valuable tool for policymakers, regulators, and [market](../m/market.md) analysts to assess [market](../m/market.md) structures and the potential implications of mergers and acquisitions.
 
 ## Calculation of HHI
 
@@ -77,4 +77,4 @@ The [merger](../m/merger.md) between T-Mobile and Sprint, valued at $26 billion,
 
 ## Conclusion
 
-The Herfindahl-Hirschman [Index](../i/index.md) remains an essential metric in understanding and regulating [market](../m/market.md) concentration. While it has its limitations, the HHI’s role in identifying monopolistic tendencies and guiding [antitrust](../a/antitrust.md) interventions is invaluable. By providing a standardized approach, it aids policymakers, economists, and [business](../b/business.md) leaders in fostering competitive and fair markets globally.
+The Herfindahl-Hirschman [Index](../i/index_instrument.md) remains an essential metric in understanding and regulating [market](../m/market.md) concentration. While it has its limitations, the HHI’s role in identifying monopolistic tendencies and guiding [antitrust](../a/antitrust.md) interventions is invaluable. By providing a standardized approach, it aids policymakers, economists, and [business](../b/business.md) leaders in fostering competitive and fair markets globally.

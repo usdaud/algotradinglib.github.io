@@ -58,18 +58,18 @@ def within_candle_body([doji](../d/doji.md), previous_candle):
 def confirm_and_trade(patterns, data):
     trades = []
     for pattern in patterns:
-        [index](../i/index.md) = data.[index](../i/index.md)(pattern[1])
-        if confirmation(data, [index](../i/index.md)):
+        [index](../i/index_instrument.md) = data.[index](../i/index_instrument.md)(pattern[1])
+        if confirmation(data, [index](../i/index_instrument.md)):
             action = 'buy' if pattern[0]['close'] < pattern[0]['[open](../o/open.md)'] else 'sell'
-            stop_loss = data[[index](../i/index.md)+1]['low'] if action == 'buy' else data[[index](../i/index.md)+1]['high']
-            [trade](../t/trade.md) = execute_trade(action, data[[index](../i/index.md)+2], stop_loss)
+            stop_loss = data[[index](../i/index_instrument.md)+1]['low'] if action == 'buy' else data[[index](../i/index_instrument.md)+1]['high']
+            [trade](../t/trade.md) = execute_trade(action, data[[index](../i/index_instrument.md)+2], stop_loss)
             trades.append([trade](../t/trade.md))
     [return](../r/return.md) trades
 
-def confirmation(data, [index](../i/index.md)):
-    if [index](../i/index.md) + 2 >= len(data):
+def confirmation(data, [index](../i/index_instrument.md)):
+    if [index](../i/index_instrument.md) + 2 >= len(data):
         [return](../r/return.md) False
-    [return](../r/return.md) data[[index](../i/index.md)+2]['close'] > data[[index](../i/index.md)+1]['high'] if data[[index](../i/index.md)+1]['close'] < data[[index](../i/index.md)+1]['open'] else data[[index](../i/index.md)+2]['close'] < data[[index](../i/index.md)+1]['low']
+    [return](../r/return.md) data[[index](../i/index_instrument.md)+2]['close'] > data[[index](../i/index_instrument.md)+1]['high'] if data[[index](../i/index_instrument.md)+1]['close'] < data[[index](../i/index_instrument.md)+1]['open'] else data[[index](../i/index_instrument.md)+2]['close'] < data[[index](../i/index_instrument.md)+1]['low']
 
 def execute_trade(action, entry_candle, stop_loss):
     [return](../r/return.md) {

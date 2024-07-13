@@ -36,7 +36,7 @@ Monetary models emphasize the relationship between [money supply](../m/money_sup
 
 ### 5. **Technical Analysis**
 
-[Technical analysis](../t/technical_analysis.md) involves evaluating historical price movements and trading [volume](../v/volume.md) to predict future price movements. Tools like moving averages, [Bollinger bands](../b/bollinger_bands.md), and the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) are often applied.
+[Technical analysis](../t/technical_analysis.md) involves evaluating historical price movements and trading [volume](../v/volume.md) to predict future price movements. Tools like moving averages, [Bollinger bands](../b/bollinger_bands.md), and the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) are often applied.
 
 ### 6. **Sentiment Analysis**
 

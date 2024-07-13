@@ -29,7 +29,7 @@ Charts are the backbone of [technical analysis](../t/technical_analysis.md). Com
 Indicators are statistical measurements used to predict future price movements. These fall into two categories:
 
 - **[Trend Indicators](../t/trend_indicators.md):** Include moving averages, MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and ADX ([Average Directional Index](../a/average_directional_index_(adx).md)). These help identify the direction and strength of a [trend](../t/trend.md).
-- **[Momentum Indicators](../m/momentum_indicators.md):** Such as RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) and [Stochastic Oscillator](../s/stochastic_oscillator.md), gauge the speed and change of price movements.
+- **[Momentum Indicators](../m/momentum_indicators.md):** Such as RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) and [Stochastic Oscillator](../s/stochastic_oscillator.md), gauge the speed and change of price movements.
 
 ### Volume Analysis
 

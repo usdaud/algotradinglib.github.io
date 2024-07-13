@@ -52,7 +52,7 @@ where \( \[lambda](../l/lambda.md) \) is the decay rate, which determines how qu
 
 In [algorithmic trading](../a/accountability.md), the glide path may also involve multi-variable [optimization](../o/optimization.md) considering factors such as:
 - [Volatility](../v/volatility.md)
-- [Market](../m/market.md) [volatility](../v/volatility.md) [index](../i/index.md) (VIX)
+- [Market](../m/market.md) [volatility](../v/volatility.md) [index](../i/index_instrument.md) (VIX)
 - [Liquidity](../l/liquidity.md)
 - [Trade](../t/trade.md) [volume](../v/volume.md)
 - Historical price trends

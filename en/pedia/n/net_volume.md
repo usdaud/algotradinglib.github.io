@@ -64,7 +64,7 @@ Advanced traders may develop custom indicators to measure Net [Volume](../v/volu
 Charting Net [Volume](../v/volume.md) alongside price helps in understanding the dynamics of buying and selling pressure. Positive and negative bars on a Net [Volume](../v/volume.md) chart make it easy to visualize [market sentiment](../m/market_sentiment.md) shifts.
 
 ### Net Volume & Oscillators
-Combining Net [Volume](../v/volume.md) with oscillators like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can improve the accuracy of [trading signals](../t/trading_signals.md). For example, a strong Net [Volume](../v/volume.md) bar along with an RSI [divergence](../d/divergence.md) could indicate a high-probability [trade](../t/trade.md) setup.
+Combining Net [Volume](../v/volume.md) with oscillators like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD) can improve the accuracy of [trading signals](../t/trading_signals.md). For example, a strong Net [Volume](../v/volume.md) bar along with an RSI [divergence](../d/divergence.md) could indicate a high-probability [trade](../t/trade.md) setup.
 
 ### Comparative Analysis
 Comparing Net [Volume](../v/volume.md) across different timeframes provides a more [robust](../r/robust.md) analysis. For instance, a positive Net [Volume](../v/volume.md) on a daily chart, but negative on an hourly chart, could signal short-term selling within a longer-term buying [trend](../t/trend.md).

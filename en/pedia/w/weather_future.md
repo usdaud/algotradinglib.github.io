@@ -8,12 +8,12 @@ Weather [futures](../f/futures.md) primarily operate on the principle of hedging
 
 ### How Weather Futures Work
 
-Weather [futures](../f/futures.md) are typically traded on specialized exchanges, with the Chicago Mercantile [Exchange](../e/exchange.md) (CME) being one of the most notable platforms [offering](../o/offering.md) these instruments. The trading occurs in units called "contracts," which have predetermined parameters defining the weather event, location, time frame, and [index](../i/index.md) type.
+Weather [futures](../f/futures.md) are typically traded on specialized exchanges, with the Chicago Mercantile [Exchange](../e/exchange.md) (CME) being one of the most notable platforms [offering](../o/offering.md) these instruments. The trading occurs in units called "contracts," which have predetermined parameters defining the weather event, location, time frame, and [index](../i/index_instrument.md) type.
 
 Here's how it generally works:
-1. **Choosing a Weather [Index](../i/index.md):** The first step is to choose a relevant weather [index](../i/index.md), such as temperature (measured in degrees), rainfall (measured in millimeters), or snowfall (measured in inches).
+1. **Choosing a Weather [Index](../i/index_instrument.md):** The first step is to choose a relevant weather [index](../i/index_instrument.md), such as temperature (measured in degrees), rainfall (measured in millimeters), or snowfall (measured in inches).
 2. **Defining the Period and Location:** Specify the time period (daily, monthly, seasonal) and geographical location (city, region) for which the weather data [will](../w/will.md) be relevant.
-3. **Specifying the Strike [Value](../v/value.md):** This is the threshold level for the weather [index](../i/index.md) above or below which the financial settlement [will](../w/will.md) occur.
+3. **Specifying the Strike [Value](../v/value.md):** This is the threshold level for the weather [index](../i/index_instrument.md) above or below which the financial settlement [will](../w/will.md) occur.
 4. **Position Taking:** Investors or companies can take a long or short position. A long position benefits from weather conditions exceeding the strike [value](../v/value.md), while a short position benefits if the conditions fall short of the strike [value](../v/value.md).
 5. **Settlement:** At the end of the contract period, the actual weather data is compared to the strike [value](../v/value.md). If the actual data deviates from the strike [value](../v/value.md) in favor of the position taken, a financial [payout](../p/payout.md) is made.
 
@@ -50,12 +50,12 @@ Weather [futures](../f/futures.md) are a subset of a broader category known as [
 ### Weather Options
 
 Weather [options](../o/options.md) function similarly to traditional [options](../o/options.md). They give the holder the right but not the obligation to buy or sell a weather-related [asset](../a/asset.md) at a predefined strike [value](../v/value.md). They come in two types:
-- **[Call Option](../c/call_option.md):** Benefits if the weather [index](../i/index.md) exceeds the strike [value](../v/value.md).
-- **[Put Option](../p/put.md):** Benefits if the weather [index](../i/index.md) falls below the strike [value](../v/value.md).
+- **[Call Option](../c/call_option.md):** Benefits if the weather [index](../i/index_instrument.md) exceeds the strike [value](../v/value.md).
+- **[Put Option](../p/put.md):** Benefits if the weather [index](../i/index_instrument.md) falls below the strike [value](../v/value.md).
 
 ### Weather Swaps
 
-Weather swaps involve exchanging future cash flows based on actual weather outcomes versus predefined thresholds. They typically involve two parties agreeing to [swap](../s/swap.md) the difference between the actual weather [index](../i/index.md) [value](../v/value.md) and an agreed-upon strike [value](../v/value.md).
+Weather swaps involve exchanging future cash flows based on actual weather outcomes versus predefined thresholds. They typically involve two parties agreeing to [swap](../s/swap.md) the difference between the actual weather [index](../i/index_instrument.md) [value](../v/value.md) and an agreed-upon strike [value](../v/value.md).
 
 ## Challenges of Weather Futures
 
@@ -69,7 +69,7 @@ Despite their potential benefits, trading weather [futures](../f/futures.md) inv
 
 ### Chicago Mercantile Exchange (CME)
 
-The CME is one of the leading platforms [offering](../o/offering.md) weather [futures](../f/futures.md) and other [weather derivatives](../w/weather_derivative.md). It provides [robust](../r/robust.md) [trading systems](../t/trading_systems.md), a variety of weather [index](../i/index.md) products, and wide geographical coverage.
+The CME is one of the leading platforms [offering](../o/offering.md) weather [futures](../f/futures.md) and other [weather derivatives](../w/weather_derivative.md). It provides [robust](../r/robust.md) [trading systems](../t/trading_systems.md), a variety of weather [index](../i/index_instrument.md) products, and wide geographical coverage.
 
 For more information, visit: [CME Weather Derivatives](https://www.cmegroup.com/trading/weather/)
 

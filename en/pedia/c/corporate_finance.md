@@ -10,7 +10,7 @@ Corporate [finance](../f/finance.md) encompasses the financial activities relate
 - **Net [Present Value](../p/present_value.md) (NPV):** Calculates the difference between the [present value](../p/present_value.md) of cash inflows and outflows. A positive NPV indicates that the investment should theoretically increase the [firm](../f/firm.md)'s [value](../v/value.md).
 - **Internal [Rate of Return](../r/rate_of_return.md) (IRR):** The [discount rate](../d/discount_rate.md) that makes the NPV of an investment zero. Projects with an IRR higher than the [cost of capital](../c/cost_of_capital.md) are considered good investments.
 - **[Payback Period](../p/payback_period.md):** The amount of time it takes for an investment to generate an amount of cash equivalent to the initial investment.
-- **Profitability [Index](../i/index.md) (PI):** The ratio of the [present value](../p/present_value.md) of future expected cash flows to the initial investment. A PI greater than 1 suggests that the NPV is positive.
+- **Profitability [Index](../i/index_instrument.md) (PI):** The ratio of the [present value](../p/present_value.md) of future expected cash flows to the initial investment. A PI greater than 1 suggests that the NPV is positive.
 
 ### 2. **Capital Structure**
 [Capital structure](../c/capital_structure.md) refers to the mix of [debt](../d/debt.md) and [equity financing](../e/equity_financing.md) a company uses to [fund](../f/fund.md) its operations and growth. The goal is to find the optimal balance that minimizes the [cost of capital](../c/cost_of_capital.md) and maximizes returns to shareholders. Factors influencing [capital structure](../c/capital_structure.md) include:

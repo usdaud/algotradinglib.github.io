@@ -29,7 +29,7 @@ The Accumulation/[Distribution](../d/distribution.md) Line (A/D Line) is used to
 - Current A/D Line = Previous A/D Line + [Money Flow](../m/money_flow.md) [Volume](../v/volume.md).
 
 ### Money Flow Index (MFI)
-The [Money Flow](../m/money_flow.md) [Index](../i/index.md) (MFI) is a [volume](../v/volume.md)-[weighted](../w/weighted.md) version of the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) and was designed by Gene Quong and Avrum Soudack. It compares price movement over time with [volume](../v/volume.md) and uses this data to generate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) signals.
+The [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI) is a [volume](../v/volume.md)-[weighted](../w/weighted.md) version of the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and was designed by Gene Quong and Avrum Soudack. It compares price movement over time with [volume](../v/volume.md) and uses this data to generate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) signals.
 
 **Calculation:**
 - Typical Price = (High + Low + Close) / 3.

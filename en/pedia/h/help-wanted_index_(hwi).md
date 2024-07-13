@@ -1,6 +1,6 @@
 # Help-Wanted Index (HWI)
 
-The Help-Wanted [Index](../i/index.md) (HWI) is a measure of the number of job advertisements posted in print and online media. It's a significant [economic indicator](../e/economic_indicator.md) that provides insight into the [labor market](../l/labor_market.md)'s current state and can be used for various purposes, such as informing [monetary policy](../m/monetary_policy.md), guiding [business](../b/business.md) investment strategies, and supporting economic research. This document delves into the HWI's components, calculation, significance, history, and uses in algotrading.
+The Help-Wanted [Index](../i/index_instrument.md) (HWI) is a measure of the number of job advertisements posted in print and online media. It's a significant [economic indicator](../e/economic_indicator.md) that provides insight into the [labor market](../l/labor_market.md)'s current state and can be used for various purposes, such as informing [monetary policy](../m/monetary_policy.md), guiding [business](../b/business.md) investment strategies, and supporting economic research. This document delves into the HWI's components, calculation, significance, history, and uses in algotrading.
 
 ## Components of HWI
 
@@ -18,7 +18,7 @@ The HWI typically comprises the following components:
    - Adjustments for seasonal effects to account for changes in hiring patterns during different times of the year.
    - Adjustments for changes in the popularity of different advertising media over time.
 
-4. **[Index](../i/index.md) Calculation**:
+4. **[Index](../i/index_instrument.md) Calculation**:
    - [Weighted averages](../w/weighted_averages_in_trading.md) to balance the influence of different sources.
    - Historical baselines for comparison.
 
@@ -37,9 +37,9 @@ The HWI is calculated by aggregating the total number of job advertisements acro
 3. **Weight [Assignment](../a/assignment.md)**:
    - Assign weights to data from different sources based on their representativeness and reliability.
   
-4. **[Index](../i/index.md) Computation**:
+4. **[Index](../i/index_instrument.md) Computation**:
    - Sum the [weighted](../w/weighted.md), normalized counts.
-   - Compare to a historical [baseline](../b/baseline.md) to create a standardized [index](../i/index.md) [value](../v/value.md).
+   - Compare to a historical [baseline](../b/baseline.md) to create a standardized [index](../i/index_instrument.md) [value](../v/value.md).
 
 ## Significance of HWI
 
@@ -92,7 +92,7 @@ The HWI has evolved significantly since its inception:
 
 4. **Automated News Interpretation**:
    - Integrate HWI data feeds with [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) tools to parse and react to economic news in real-time.
-   - Automate responses to significant changes in the [index](../i/index.md).
+   - Automate responses to significant changes in the [index](../i/index_instrument.md).
 
 5. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**:
    - Use historical HWI data to backtest [trading algorithms](../t/trading_algorithms.md).

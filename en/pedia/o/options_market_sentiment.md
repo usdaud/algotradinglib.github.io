@@ -18,7 +18,7 @@ The [put-call ratio](../p/put-call_ratio.md) is a widely-used [indicator](../i/i
 Implied [volatility](../v/volatility.md) (IV) is a metric that reflects the [market](../m/market.md)'s expectation of the future [volatility](../v/volatility.md) of an [asset](../a/asset.md)'s price. Higher implied [volatility](../v/volatility.md) suggests that the [market](../m/market.md) expects significant price movements (often associated with [uncertainty](../u/uncertainty_in_trading.md) or upcoming events), whereas lower implied [volatility](../v/volatility.md) suggests a more stable outlook.
 
 - **Sources:**
-  - **CBOE [Volatility](../v/volatility.md) [Index](../i/index.md) (VIX):** Often referred to as the "fear gauge," the VIX measures the implied [volatility](../v/volatility.md) of S&P 500 [index options](../i/index_options.md) and is a popular [indicator](../i/indicator.md) of [market sentiment](../m/market_sentiment.md).
+  - **CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX):** Often referred to as the "fear gauge," the VIX measures the implied [volatility](../v/volatility.md) of S&P 500 [index options](../i/index_options.md) and is a popular [indicator](../i/indicator.md) of [market sentiment](../m/market_sentiment.md).
     - [CBOE VIX Information](https://www.cboe.com/tradable_products/vix/)
 
 ### 3. Open Interest
@@ -33,7 +33,7 @@ Implied [volatility](../v/volatility.md) (IV) is a metric that reflects the [mar
 
 The skew, or [volatility skew](../v/volatility_skew.md), refers to the difference in implied [volatility](../v/volatility.md) between out-of-the-[money](../m/money.md) (OTM) puts, at-the-[money](../m/money.md) (ATM) [options](../o/options.md), and OTM calls. The skew provides insights into the relative [demand](../d/demand.md) for protection against downside risks ([put options](../p/put_options.md)) compared to [upside potential](../u/upside_potential_in_trading.md) (call [options](../o/options.md)).
 
-- **Skew [Index](../i/index.md):**
+- **Skew [Index](../i/index_instrument.md):**
   - Measures the implied [volatility](../v/volatility.md) of OTM puts relative to OTM calls.
   - A higher skew indicates higher [demand](../d/demand.md) for downside protection, often seen in bearish markets.
 
@@ -54,7 +54,7 @@ A [volatility smile](../v/volatility_smile.md) is a graphical representation of 
 
 Certain financial firms and institutions develop sentiment indices that aggregate various data points to provide a comprehensive view of [market sentiment](../m/market_sentiment.md).
 
-- **CNN Fear & Greed [Index](../i/index.md):**
+- **CNN Fear & Greed [Index](../i/index_instrument.md):**
   - Combines seven different indicators, including [market](../m/market.md) [momentum](../m/momentum.md), stock price strength, stock price breadth, put and call [options](../o/options.md), [market](../m/market.md) [volatility](../v/volatility.md), [junk bond](../j/junk_bond.md) [demand](../d/demand.md), and [safe haven](../s/safe_haven.md) [demand](../d/demand.md).
   - [CNN Fear & Greed Index](https://money.cnn.com/data/fear-and-greed/)
 

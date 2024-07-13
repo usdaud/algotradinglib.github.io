@@ -1,10 +1,10 @@
 # Kairi Relative Index
 
-The Kairi Relative [Index](../i/index.md) (KRI), also known as the Kairi [Index](../i/index.md), is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) used primarily in the world of financial trading. This [index](../i/index.md) is utilized to measure the distance between an [asset](../a/asset.md)'s price and its simple moving average (SMA) in percentage terms. The KRI provides traders with insights into the [market](../m/market.md)'s condition, helping them identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) situations.
+The Kairi Relative [Index](../i/index_instrument.md) (KRI), also known as the Kairi [Index](../i/index_instrument.md), is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) used primarily in the world of financial trading. This [index](../i/index_instrument.md) is utilized to measure the distance between an [asset](../a/asset.md)'s price and its simple moving average (SMA) in percentage terms. The KRI provides traders with insights into the [market](../m/market.md)'s condition, helping them identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) situations.
 
 ## Calculation
 
-The formula to calculate the Kairi Relative [Index](../i/index.md) is straightforward:
+The formula to calculate the Kairi Relative [Index](../i/index_instrument.md) is straightforward:
 
 \[ \text{KRI} = \left( \frac{\text{Current Price} - \text{SMA}}{\text{SMA}} \right) \times 100 \]
 
@@ -34,7 +34,7 @@ Identifying divergences between the KRI and the [underlying](../u/underlying.md)
 
 ## Advantages
 
-1. **Simplicity**: The Kairi Relative [Index](../i/index.md) is easy to understand and calculate, making it accessible for traders of all experience levels.
+1. **Simplicity**: The Kairi Relative [Index](../i/index_instrument.md) is easy to understand and calculate, making it accessible for traders of all experience levels.
 2. **Versatility**: It can be applied to various [asset](../a/asset.md) classes, including [stocks](../s/stock.md), commodities, forex, and cryptocurrencies.
 3. **Early Signal Identification**: By highlighting significant deviations from the moving average, the KRI helps traders identify potential [reversal](../r/reversal.md) points early.
 
@@ -71,9 +71,9 @@ In [TradingView](../t/tradingview.md), traders can script the KRI using Pine Scr
 ### Example Pine Script Code
 
 ```pinescript
-// Kairi Relative [Index](../i/index.md) (KRI) in Pine Script
+// Kairi Relative [Index](../i/index_instrument.md) (KRI) in Pine Script
 //@version=4
-study("Kairi Relative [Index](../i/index.md)", shorttitle="KRI", [overlay](../o/overlay.md)=true)
+study("Kairi Relative [Index](../i/index_instrument.md)", shorttitle="KRI", [overlay](../o/overlay.md)=true)
 length = input(20, title="SMA Length")
 sma = sma(close, length)
 kri = ((close - sma) / sma) * 100
@@ -84,4 +84,4 @@ hline(-10, color=color.green, linestyle=hline.style_dashed)
 
 ## Conclusion
 
-The Kairi Relative [Index](../i/index.md) is a valuable tool in a [trader](../t/trader.md)'s arsenal. By quantifying the deviation of an [asset](../a/asset.md)'s price from its moving average, the KRI helps traders make informed decisions about [market](../m/market.md) conditions. Despite its simplicity, the KRI provides meaningful insights into potential [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, [trend](../t/trend.md) confirmations, and divergences. However, like any technical [indicator](../i/indicator.md), it should be used in conjunction with other tools and analysis methods to enhance its effectiveness and reduce the [risk](../r/risk.md) of [false signals](../f/false_signals_in_trading.md).
+The Kairi Relative [Index](../i/index_instrument.md) is a valuable tool in a [trader](../t/trader.md)'s arsenal. By quantifying the deviation of an [asset](../a/asset.md)'s price from its moving average, the KRI helps traders make informed decisions about [market](../m/market.md) conditions. Despite its simplicity, the KRI provides meaningful insights into potential [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, [trend](../t/trend.md) confirmations, and divergences. However, like any technical [indicator](../i/indicator.md), it should be used in conjunction with other tools and analysis methods to enhance its effectiveness and reduce the [risk](../r/risk.md) of [false signals](../f/false_signals_in_trading.md).

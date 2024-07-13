@@ -24,7 +24,7 @@ The SEM supports the trading of various financial instruments:
   
 - **Bonds**: Government and corporate bonds, providing a fixed-[income](../i/income.md) investment option.
   
-- **[Exchange](../e/exchange.md)-Traded Funds (ETFs)**: These are [marketable securities](../m/marketable_securities.md) that track an [index](../i/index.md), [commodity](../c/commodity.md), or basket of assets like an [index fund](../i/index_fund.md) but [trade](../t/trade.md) like a stock on the [exchange](../e/exchange.md).
+- **[Exchange](../e/exchange.md)-Traded Funds (ETFs)**: These are [marketable securities](../m/marketable_securities.md) that track an [index](../i/index_instrument.md), [commodity](../c/commodity.md), or basket of assets like an [index fund](../i/index_fund.md) but [trade](../t/trade.md) like a stock on the [exchange](../e/exchange.md).
   
 - **Structured Products**: These are pre-packaged investment strategies based on [derivatives](../d/derivatives.md).
 
@@ -44,11 +44,11 @@ The Stock [Exchange](../e/exchange.md) of Mauritius operates under the supervisi
 
 The performance of the SEM is tracked using various indices:
 
-- **SEMDEX**: The SEMDEX is a [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index.md) that includes all [listed](../l/listed.md) companies. It serves as a barometer of the overall [market](../m/market.md) performance.
+- **SEMDEX**: The SEMDEX is a [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md) that includes all [listed](../l/listed.md) companies. It serves as a barometer of the overall [market](../m/market.md) performance.
   
-- **SEM-10**: The SEM-10 is a tradable [index](../i/index.md) consisting of the top 10 largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md) on the SEM.
+- **SEM-10**: The SEM-10 is a tradable [index](../i/index_instrument.md) consisting of the top 10 largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md) on the SEM.
   
-- **DEMEX**: This [index](../i/index.md) tracks the performance of companies [listed](../l/listed.md) on the Development & Enterprise [Market](../m/market.md).
+- **DEMEX**: This [index](../i/index_instrument.md) tracks the performance of companies [listed](../l/listed.md) on the Development & Enterprise [Market](../m/market.md).
 
 ## International Recognition
 

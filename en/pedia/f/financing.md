@@ -42,7 +42,7 @@ A notable example is Andreessen Horowitz, a VC [firm](../f/firm.md) that has inv
 
 ### 2. Leveraged ETFs
 
-Leveraged [Exchange](../e/exchange.md)-Traded Funds (ETFs) aim to provide a [multiple](../m/multiple.md) of the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md). Algorithmic traders may use these instruments to [gain](../g/gain.md) leveraged exposure to [market](../m/market.md) movements without the need to borrow funds directly.
+Leveraged [Exchange](../e/exchange.md)-Traded Funds (ETFs) aim to provide a [multiple](../m/multiple.md) of the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md). Algorithmic traders may use these instruments to [gain](../g/gain.md) leveraged exposure to [market](../m/market.md) movements without the need to borrow funds directly.
 
 ### 3. Risk Management in Leverage
 

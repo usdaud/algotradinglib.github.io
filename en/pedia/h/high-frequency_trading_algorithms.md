@@ -19,7 +19,7 @@ Understanding [market microstructure](../m/market_microstructure.md)—how order
 **[Arbitrage](../a/arbitrage.md)** involves buying and selling the same [asset](../a/asset.md) on different platforms to [profit](../p/profit.md) from price discrepancies. 
 
 1. **Statistical [Arbitrage](../a/arbitrage.md)**: Uses statistical methods and machine learning to predict price movements and identify [arbitrage](../a/arbitrage.md) opportunities.
-2. **[Index](../i/index.md) [Arbitrage](../a/arbitrage.md)**: Involves trading between an [index](../i/index.md) future and the [underlying](../u/underlying.md) securities.
+2. **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md)**: Involves trading between an [index](../i/index_instrument.md) future and the [underlying](../u/underlying.md) securities.
 
 ### Market Making
 [Market](../m/market.md) makers provide [liquidity](../l/liquidity.md) by continuously quoting buy and sell prices. They [profit](../p/profit.md) from the [bid-ask spread](../b/bid-ask_spread.md).

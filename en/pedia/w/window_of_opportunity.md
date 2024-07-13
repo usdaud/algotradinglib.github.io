@@ -28,7 +28,7 @@ Recognizing these windows can be more an art than a science, but there are metho
    
 2. **[Bollinger Bands](../b/bollinger_band.md)**: These bands can identify [volatility](../v/volatility.md) and potential price breakouts.
    
-3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: Identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions can help spot potential [reversal](../r/reversal.md) points.
+3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions can help spot potential [reversal](../r/reversal.md) points.
 
 ### Fundamental Analysis
 

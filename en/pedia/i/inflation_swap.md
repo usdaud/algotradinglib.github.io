@@ -6,23 +6,23 @@
 
 ### Basic Structure
 
-An [inflation](../i/inflation.md) [swap](../s/swap.md) is commonly structured as a [plain vanilla](../p/plain_vanilla.md) [interest rate swap](../i/interest_rate_swap.md), wherein two parties agree to [exchange](../e/exchange.md) cash flows based on the changes in an [inflation](../i/inflation.md) [index](../i/index.md) (such as the Consumer Price [Index](../i/index.md) (CPI)) versus a [fixed interest rate](../f/fixed_interest_rate.md). An [inflation](../i/inflation.md) [swap](../s/swap.md) can be broken down into two legs:
+An [inflation](../i/inflation.md) [swap](../s/swap.md) is commonly structured as a [plain vanilla](../p/plain_vanilla.md) [interest rate swap](../i/interest_rate_swap.md), wherein two parties agree to [exchange](../e/exchange.md) cash flows based on the changes in an [inflation](../i/inflation.md) [index](../i/index_instrument.md) (such as the Consumer Price [Index](../i/index_instrument.md) (CPI)) versus a [fixed interest rate](../f/fixed_interest_rate.md). An [inflation](../i/inflation.md) [swap](../s/swap.md) can be broken down into two legs:
 
-- **[Inflation](../i/inflation.md) [Leg](../l/leg.md):** The party on this [leg](../l/leg.md) receives payments based on the observed [inflation](../i/inflation.md) rate over a specified period. These payments are tied to an agreed-upon [inflation](../i/inflation.md) [index](../i/index.md).
+- **[Inflation](../i/inflation.md) [Leg](../l/leg.md):** The party on this [leg](../l/leg.md) receives payments based on the observed [inflation](../i/inflation.md) rate over a specified period. These payments are tied to an agreed-upon [inflation](../i/inflation.md) [index](../i/index_instrument.md).
 - **Fixed [Leg](../l/leg.md):** The [counterparty](../c/counterparty.md) on this [leg](../l/leg.md) receives fixed-rate payments which were predetermined during the agreement.
 
-For example, in an [inflation](../i/inflation.md) [swap](../s/swap.md) agreement, one party agrees to pay a fixed rate (say 2%) while the other party agrees to pay the rate of [inflation](../i/inflation.md) over a specified period as measured by an [index](../i/index.md) like the CPI.
+For example, in an [inflation](../i/inflation.md) [swap](../s/swap.md) agreement, one party agrees to pay a fixed rate (say 2%) while the other party agrees to pay the rate of [inflation](../i/inflation.md) over a specified period as measured by an [index](../i/index_instrument.md) like the CPI.
 
 ### Cash Flows
 
-The cash flows in an [inflation](../i/inflation.md) [swap](../s/swap.md) are typically exchanged at regular intervals, such as annually or semi-annually. The calculations at each [payment](../p/payment.md) date usually involve determining the [notional principal amount](../n/notional_principal_amount.md), which the [inflation](../i/inflation.md) [index](../i/index.md) adjustments are applied against to determine the [payment](../p/payment.md) amounts.
+The cash flows in an [inflation](../i/inflation.md) [swap](../s/swap.md) are typically exchanged at regular intervals, such as annually or semi-annually. The calculations at each [payment](../p/payment.md) date usually involve determining the [notional principal amount](../n/notional_principal_amount.md), which the [inflation](../i/inflation.md) [index](../i/index_instrument.md) adjustments are applied against to determine the [payment](../p/payment.md) amounts.
 
 ### Indexation
 
 [Inflation](../i/inflation.md) swaps can use different types of [inflation](../i/inflation.md) indexes, depending on the needs of the contracting parties and the markets they operate in. Common indexes include:
 
-- **Consumer Price [Index](../i/index.md) (CPI):** A measure of the average change in prices over time that consumers pay for a [basket of goods](../b/basket_of_goods.md) and services.
-- **Retail Price [Index](../i/index.md) (RPI):** Mostly used in the UK, it includes some items excluded from the CPI, such as [mortgage](../m/mortgage.md) [interest](../i/interest.md) payments and council tax.
+- **Consumer Price [Index](../i/index_instrument.md) (CPI):** A measure of the average change in prices over time that consumers pay for a [basket of goods](../b/basket_of_goods.md) and services.
+- **Retail Price [Index](../i/index_instrument.md) (RPI):** Mostly used in the UK, it includes some items excluded from the CPI, such as [mortgage](../m/mortgage.md) [interest](../i/interest.md) payments and council tax.
 
 ## Types of Inflation Swaps
 
@@ -30,15 +30,15 @@ There are several types of [inflation](../i/inflation.md) swaps, each designed t
 
 ### Zero-Coupon Inflation Swaps (ZCIS)
 
-In a zero-coupon [inflation](../i/inflation.md) [swap](../s/swap.md), there is only a single [payment](../p/payment.md) made at [maturity](../m/maturity.md). The [payment](../p/payment.md) amount is based on the difference between the [inflation](../i/inflation.md) [index](../i/index.md) at the start and at the end of the contract period. This type of [swap](../s/swap.md) is simpler compared to those with periodic payments and can provide a lump-sum exposure to [inflation](../i/inflation.md).
+In a zero-coupon [inflation](../i/inflation.md) [swap](../s/swap.md), there is only a single [payment](../p/payment.md) made at [maturity](../m/maturity.md). The [payment](../p/payment.md) amount is based on the difference between the [inflation](../i/inflation.md) [index](../i/index_instrument.md) at the start and at the end of the contract period. This type of [swap](../s/swap.md) is simpler compared to those with periodic payments and can provide a lump-sum exposure to [inflation](../i/inflation.md).
 
 ### Year-on-Year Inflation Swaps
 
-In year-on-year [inflation](../i/inflation.md) swaps, payments are exchanged on an annual [basis](../b/basis.md). The [payment](../p/payment.md) amounts are derived from the [inflation](../i/inflation.md) [index](../i/index.md) changes over each year within the contract period. This type allows for yearly adjustments and payments, accommodating more frequent exposure to [inflation](../i/inflation.md) changes.
+In year-on-year [inflation](../i/inflation.md) swaps, payments are exchanged on an annual [basis](../b/basis.md). The [payment](../p/payment.md) amounts are derived from the [inflation](../i/inflation.md) [index](../i/index_instrument.md) changes over each year within the contract period. This type allows for yearly adjustments and payments, accommodating more frequent exposure to [inflation](../i/inflation.md) changes.
 
 ### CPI Swaps
 
-CPI swaps are a category of [inflation](../i/inflation.md) swaps where the cash flows are explicitly tied to the Consumer Price [Index](../i/index.md). They provide a direct [hedge](../h/hedge.md) against CPI movements, making them useful tools for those with liabilities or assets susceptible to changes in consumer prices.
+CPI swaps are a category of [inflation](../i/inflation.md) swaps where the cash flows are explicitly tied to the Consumer Price [Index](../i/index_instrument.md). They provide a direct [hedge](../h/hedge.md) against CPI movements, making them useful tools for those with liabilities or assets susceptible to changes in consumer prices.
 
 ## Applications of Inflation Swaps
 
@@ -66,7 +66,7 @@ There are several advantages to using [inflation](../i/inflation.md) swaps:
 
 ### Customization
 
-[Inflation](../i/inflation.md) swaps can be tailored to meet the specific needs and objectives of the participants. This includes determining the notional [principal](../p/principal.md), the [inflation](../i/inflation.md) [index](../i/index.md) used, and the [payment](../p/payment.md) frequency.
+[Inflation](../i/inflation.md) swaps can be tailored to meet the specific needs and objectives of the participants. This includes determining the notional [principal](../p/principal.md), the [inflation](../i/inflation.md) [index](../i/index_instrument.md) used, and the [payment](../p/payment.md) frequency.
 
 ### Liquidity
 
@@ -90,7 +90,7 @@ As with any [derivative](../d/derivative.md), there is a [risk](../r/risk.md) th
 
 ### Basis Risk
 
-[Basis risk](../b/basis_risk.md) arises if the [inflation](../i/inflation.md) [index](../i/index.md) specified in the [swap](../s/swap.md) does not perfectly match the [inflation](../i/inflation.md) [risk](../r/risk.md) the [investor](../i/investor.md) seeks to [hedge](../h/hedge.md). For instance, a mismatch between the CPI and actual cost increases experienced by an institution could lead to an ineffective [hedge](../h/hedge.md).
+[Basis risk](../b/basis_risk.md) arises if the [inflation](../i/inflation.md) [index](../i/index_instrument.md) specified in the [swap](../s/swap.md) does not perfectly match the [inflation](../i/inflation.md) [risk](../r/risk.md) the [investor](../i/investor.md) seeks to [hedge](../h/hedge.md). For instance, a mismatch between the CPI and actual cost increases experienced by an institution could lead to an ineffective [hedge](../h/hedge.md).
 
 ### Liquidity Risk
 

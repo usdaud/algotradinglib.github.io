@@ -38,7 +38,7 @@ Once [undervalued](../u/undervalued.md) [stocks](../s/stock.md) are identified, 
 
 ### Active Management
 
-[Value](../v/value.md) funds are typically actively managed, meaning [fund](../f/fund.md) managers regularly monitor and adjust their [holdings](../h/holdings.md) based on [market](../m/market.md) conditions and new information. This contrasts with [index](../i/index.md) funds, which passively track a [market index](../m/market_index.md).
+[Value](../v/value.md) funds are typically actively managed, meaning [fund](../f/fund.md) managers regularly monitor and adjust their [holdings](../h/holdings.md) based on [market](../m/market.md) conditions and new information. This contrasts with [index](../i/index_instrument.md) funds, which passively track a [market index](../m/market_index.md).
 
 ### Risk Management
 

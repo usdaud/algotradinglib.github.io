@@ -1,6 +1,6 @@
 # Weak Sister
 
-In the realm of [finance](../f/finance.md) and trading, the term "Weak Sister" is often used to describe a [security](../s/security.md), sector, or [market](../m/market.md) that is underperforming relative to its peers. This term is commonly applied in various contexts—whether discussing a subgroup of [stocks](../s/stock.md) within a particular [industry](../i/industry.md), individual components within an [index](../i/index.md), or even entire [asset](../a/asset.md) classes within a diversified portfolio. Weak sisters can act as indicators for broader [market](../m/market.md) trends or potential opportunities for [trading strategies](../t/trading_strategies.md). This article aims to delve into the multifaceted aspects of weak sisters, their identification, implications, and the strategies traders employ to [leverage](../l/leverage.md) them.
+In the realm of [finance](../f/finance.md) and trading, the term "Weak Sister" is often used to describe a [security](../s/security.md), sector, or [market](../m/market.md) that is underperforming relative to its peers. This term is commonly applied in various contexts—whether discussing a subgroup of [stocks](../s/stock.md) within a particular [industry](../i/industry.md), individual components within an [index](../i/index_instrument.md), or even entire [asset](../a/asset.md) classes within a diversified portfolio. Weak sisters can act as indicators for broader [market](../m/market.md) trends or potential opportunities for [trading strategies](../t/trading_strategies.md). This article aims to delve into the multifaceted aspects of weak sisters, their identification, implications, and the strategies traders employ to [leverage](../l/leverage.md) them.
 
 ## Identifying Weak Sisters
 
@@ -9,13 +9,13 @@ In the realm of [finance](../f/finance.md) and trading, the term "Weak Sister" i
 The first step in identifying weak sisters involves the use of [relative performance metrics](../r/relative_performance_metrics.md). [Comparative analysis](../c/comparative_analysis.md) is typically employed to spot securities that lag behind their peers. Key [performance indicators](../p/performance_indicators.md) (KPIs) such as [Return](../r/return.md) on [Equity](../e/equity.md) (ROE), [Earnings](../e/earnings.md) Before [Interest](../i/interest.md) and [Taxes](../t/taxes.md) (EBIT), and net [income](../i/income.md) margins are commonly used. For example:
 
 1. **Interquartile Analysis**: Evaluates the performance of securities within the same sector by segmenting them into quartiles. The lower [quartile](../q/quartile.md) represents the weak sisters.
-2. **[Benchmark Comparison](../b/benchmark_comparison.md)**: Using a [benchmark](../b/benchmark.md) [index](../i/index.md) (e.g., S&P 500 for [large-cap stocks](../l/large_cap_stocks.md)), any [security](../s/security.md) underperforming the [benchmark](../b/benchmark.md) is tagged as a weak sister.
+2. **[Benchmark Comparison](../b/benchmark_comparison.md)**: Using a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) (e.g., S&P 500 for [large-cap stocks](../l/large_cap_stocks.md)), any [security](../s/security.md) underperforming the [benchmark](../b/benchmark.md) is tagged as a weak sister.
 
 ### Technical Analysis
 
 Technical analysts employ [chart patterns](../c/chart_patterns.md), oscillators, and other tools to identify underperformance:
 
-1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)**: An RSI below 30 may indicate that the [security](../s/security.md) is [oversold](../o/oversold.md) and potentially a weak sister.
+1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: An RSI below 30 may indicate that the [security](../s/security.md) is [oversold](../o/oversold.md) and potentially a weak sister.
 2. **Moving Averages**: If a stock consistently trades below its 50-day or [200-day moving average](../1/200-day_moving_average.md), it can be categorized as a weak sister.
 3. **[Volume Analysis](../v/volume_analysis.md)**: Declining [volume](../v/volume.md) on positive price movements can signal [underlying](../u/underlying.md) weakness.
 

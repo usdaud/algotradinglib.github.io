@@ -52,7 +52,7 @@ Preprocessing involves cleaning the data, handling missing values, normalizing d
 
 The choice of features greatly influences the performance of the SVM. Important features include:
 
-- **[Technical Indicators](../t/technical_indicators.md)**: Like Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), etc.
+- **[Technical Indicators](../t/technical_indicators.md)**: Like Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), etc.
 - **[Volume](../v/volume.md) Data**: Trading [volume](../v/volume.md) can often predict future price movements.
 - **[Market Sentiment Indicators](../m/market_sentiment_indicators.md)**: Textual data from news and [social media](../s/social_media.md).
 - **Lagged Data**: Past prices and indicators as features to capture trends.

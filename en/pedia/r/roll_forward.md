@@ -9,7 +9,7 @@ Roll forward involves closing an existing contract that is near expiration and o
 ### Key Terms
 
 1. **[Expiration Date](../e/expiration_date.md)**: The date on which a contract expires and settlement is due. 
-2. **[Underlying Asset](../u/underlying_asset.md)**: The [financial instrument](../f/financial_instrument.md) on which a [derivatives](../d/derivatives.md) contract is based, such as a stock, [commodity](../c/commodity.md), or [index](../i/index.md).
+2. **[Underlying Asset](../u/underlying_asset.md)**: The [financial instrument](../f/financial_instrument.md) on which a [derivatives](../d/derivatives.md) contract is based, such as a stock, [commodity](../c/commodity.md), or [index](../i/index_instrument.md).
 3. **Contract**: The formal agreement in [futures](../f/futures.md) and [options](../o/options.md) trading that specifies the [asset](../a/asset.md), the quantity, the price, and the [expiration date](../e/expiration_date.md).
 
 ### Applications 
@@ -62,7 +62,7 @@ Financial [market](../m/market.md) regulations and [margin](../m/margin.md) requ
 
 ### Roll Forward in S&P 500 Futures
 
-A [trader](../t/trader.md) is holding a long position in an S&P 500 [futures contract](../f/futures_contract.md) that is due to expire in September. As the [expiration date](../e/expiration_date.md) approaches, the [trader](../t/trader.md) decides to roll forward to maintain exposure to the S&P 500 [index](../i/index.md). The [trader](../t/trader.md) sells the September [futures contract](../f/futures_contract.md) and simultaneously buys a December [futures contract](../f/futures_contract.md), extending the position by three months.
+A [trader](../t/trader.md) is holding a long position in an S&P 500 [futures contract](../f/futures_contract.md) that is due to expire in September. As the [expiration date](../e/expiration_date.md) approaches, the [trader](../t/trader.md) decides to roll forward to maintain exposure to the S&P 500 [index](../i/index_instrument.md). The [trader](../t/trader.md) sells the September [futures contract](../f/futures_contract.md) and simultaneously buys a December [futures contract](../f/futures_contract.md), extending the position by three months.
 
 ### Roll Forward in Options Trading
 

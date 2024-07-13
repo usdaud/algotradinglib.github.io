@@ -15,7 +15,7 @@ Sell discipline in the context of [algorithmic trading](../a/algorithmic_trading
 2. **Trailing Stops**: A more flexible form of [stop order](../s/stop_order.md) that moves with the [market price](../m/market_price.md), allowing traders to [lock in profits](../l/lock_in_profits.md) while maintaining the potential for further gains.
 3. **[Profit](../p/profit.md) Targets**: Pre-defined price levels at which a [trader](../t/trader.md) [will](../w/will.md) sell a position to lock in gains, based on [technical analysis](../t/technical_analysis.md), [fundamental analysis](../f/fundamental_analysis.md), or both.
 4. **Time-Based Exits**: Criteria based on the elapsed time rather than price movements, such as exiting a position after a certain period to avoid overexposure.
-5. **[Technical Indicators](../t/technical_indicators.md)**: Use of [technical analysis](../t/technical_analysis.md) tools like moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), which signal when to exit a [trade](../t/trade.md).
+5. **[Technical Indicators](../t/technical_indicators.md)**: Use of [technical analysis](../t/technical_analysis.md) tools like moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), which signal when to exit a [trade](../t/trade.md).
 6. **Fundamental Triggers**: Events or changes in the [underlying](../u/underlying.md) fundamentals of an [asset](../a/asset.md), such as [earnings](../e/earnings.md) reports, regulatory changes, or macroeconomic indicators.
 
 ### Algorithmic Implementation of Sell Discipline

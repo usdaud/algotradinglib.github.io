@@ -25,7 +25,7 @@ Synthesized or lab-grown diamonds have been developed to meet industrial and com
 Diamonds possess several unique physical and chemical properties:
 - **Hardness**: Diamonds are the hardest known natural material, scoring a 10 on the Mohs Hardness Scale.
 - **Thermal Conductivity**: They have exceptional thermal conductivity, which is utilized in various industrial applications.
-- **Optical Properties**: Diamonds have a high refractive [index](../i/index.md) and strong [dispersion](../d/dispersion.md), contributing to their brilliance and fire.
+- **Optical Properties**: Diamonds have a high refractive [index](../i/index_instrument.md) and strong [dispersion](../d/dispersion.md), contributing to their brilliance and fire.
 - **Chemical Stability**: Being made entirely of carbon atoms arranged in a crystal lattice, diamonds are resistant to chemical reactions.
 
 ## Industrial and Commercial Uses

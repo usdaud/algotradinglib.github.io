@@ -52,7 +52,7 @@ DCA is commonly used in purchasing [stocks](../s/stock.md) and mutual funds. Inv
 With the growing popularity of cryptocurrencies, DCA has become a favored strategy in the crypto community, particularly due to the high [volatility](../v/volatility.md) of digital assets. Many platforms now [offer](../o/offer.md) features that facilitate DCA in crypto investments.
 
 ### 3. Index Funds and ETFs
-Investors frequently use DCA to invest in [index](../i/index.md) funds and [Exchange](../e/exchange.md)-Traded Funds (ETFs). This approach aligns with the long-term, [passive investment strategies](../p/passive_investment_strategies.md) often recommended for these assets.
+Investors frequently use DCA to invest in [index](../i/index_instrument.md) funds and [Exchange](../e/exchange.md)-Traded Funds (ETFs). This approach aligns with the long-term, [passive investment strategies](../p/passive_investment_strategies.md) often recommended for these assets.
 
 ## Implementing a Dollar-Cost Averaging Strategy
 

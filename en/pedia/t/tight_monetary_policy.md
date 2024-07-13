@@ -78,7 +78,7 @@ Successfully implementing tight [monetary policy](../m/monetary_policy.md) requi
 Central banks rely heavily on economic data and indicators to inform their decisions, including:
 
 - **[Inflation](../i/inflation.md) Rates**:
-  Central banks closely monitor Consumer Price [Index](../i/index.md) (CPI) and Producer Price [Index](../i/index.md) (PPI) data to gauge inflationary pressures.
+  Central banks closely monitor Consumer Price [Index](../i/index_instrument.md) (CPI) and Producer Price [Index](../i/index_instrument.md) (PPI) data to gauge inflationary pressures.
 
 - **Gross Domestic Product (GDP)**:
   GDP [growth rates](../g/growth_rates_in_trading.md) provide insights into the overall economic activity and [momentum](../m/momentum.md), helping to identify overheating.

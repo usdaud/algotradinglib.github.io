@@ -57,7 +57,7 @@ Treasury securities are [debt](../d/debt.md) instruments issued by the U.S. Trea
 - Pay [interest](../i/interest.md) every six months and [return](../r/return.md) [face value](../f/face_value.md) upon [maturity](../m/maturity.md).
 
 ### Treasury Inflation-Protected Securities (TIPS)
-- [Principal](../p/principal.md) is adjusted based on changes in the Consumer Price [Index](../i/index.md) (CPI).
+- [Principal](../p/principal.md) is adjusted based on changes in the Consumer Price [Index](../i/index_instrument.md) (CPI).
 - Provide protection against [inflation](../i/inflation.md).
 
 ### Savings Bonds

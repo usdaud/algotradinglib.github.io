@@ -77,7 +77,7 @@ DigiFinex also provides [futures](../f/futures.md) trading, enabling users to sp
 DigiFinex offers [real-time market data](../r/real-time_market_data.md), including price charts, trading volumes, and [order book](../o/order_book.md) information. This data is crucial for traders to make informed decisions and develop effective [trading strategies](../t/trading_strategies.md).
 
 ### 2. Technical Analysis Tools
-The platform provides various [technical analysis tools](../t/technical_analysis_tools.md), such as moving averages, [Bollinger Bands](../b/bollinger_band.md), and [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI). These tools help traders analyze [market](../m/market.md) trends and identify potential entry and exit points.
+The platform provides various [technical analysis tools](../t/technical_analysis_tools.md), such as moving averages, [Bollinger Bands](../b/bollinger_band.md), and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI). These tools help traders analyze [market](../m/market.md) trends and identify potential entry and exit points.
 
 ### 3. News and Updates
 DigiFinex integrates news and updates related to the cryptocurrency [market](../m/market.md). This includes announcements, regulatory developments, and other relevant information that can impact [market sentiment](../m/market_sentiment.md).

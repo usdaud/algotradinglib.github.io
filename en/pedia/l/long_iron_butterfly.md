@@ -22,7 +22,7 @@ The general structure follows the format: [Long Put](../l/long_put.md) @ Strike 
 
 ### Setting Up the Trade
 
-1. **Select the [Underlying Asset](../u/underlying_asset.md)**: Choose a stock or [index](../i/index.md) that you expect to have low [volatility](../v/volatility.md).
+1. **Select the [Underlying Asset](../u/underlying_asset.md)**: Choose a stock or [index](../i/index_instrument.md) that you expect to have low [volatility](../v/volatility.md).
 2. **Identify the Strike Prices and Expiration Dates**: Strike prices should be equidistant, and the [expiration date](../e/expiration_date.md) should allow sufficient time for the strategy to play out.
 3. **Execute the Contracts**: Buy one put at the lower [strike price](../s/strike_price.md), sell one put and one call at the middle [strike price](../s/strike_price.md), and buy one call at the higher [strike price](../s/strike_price.md).
 

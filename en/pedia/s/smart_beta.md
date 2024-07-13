@@ -10,11 +10,11 @@ Smart [Beta](../b/beta.md) is an [investment strategy](../i/investment_strategy.
 
 ### Fundamental Indexing
 
-Fundamental [indexing](../i/indexing.md) allocates weights based on fundamental criteria, such as dividends, [earnings](../e/earnings.md), [book value](../b/book_value.md), and sales. This method aims to provide a more rational investment approach compared to traditional [market](../m/market.md) cap-[weighted](../w/weighted.md) indices. For instance, companies with higher [earnings](../e/earnings.md) or more significant dividends receive higher weights in a fundamental [index](../i/index.md).
+Fundamental [indexing](../i/indexing.md) allocates weights based on fundamental criteria, such as dividends, [earnings](../e/earnings.md), [book value](../b/book_value.md), and sales. This method aims to provide a more rational investment approach compared to traditional [market](../m/market.md) cap-[weighted](../w/weighted.md) indices. For instance, companies with higher [earnings](../e/earnings.md) or more significant dividends receive higher weights in a fundamental [index](../i/index_instrument.md).
 
 ### Equal Weighting
 
-Equal weighting involves assigning equal weights to each of the [index](../i/index.md)'s constituents. This approach helps mitigate the concentration [risk](../r/risk.md) inherent in [market](../m/market.md)-cap [weighted](../w/weighted.md) indices, where a few large companies can dominate the [index](../i/index.md) performance. Equal-[weighted](../w/weighted.md) indices tend to have higher exposure to smaller companies, often overlooked in [market](../m/market.md)-cap [weighted](../w/weighted.md) indices.
+Equal weighting involves assigning equal weights to each of the [index](../i/index_instrument.md)'s constituents. This approach helps mitigate the concentration [risk](../r/risk.md) inherent in [market](../m/market.md)-cap [weighted](../w/weighted.md) indices, where a few large companies can dominate the [index](../i/index_instrument.md) performance. Equal-[weighted](../w/weighted.md) indices tend to have higher exposure to smaller companies, often overlooked in [market](../m/market.md)-cap [weighted](../w/weighted.md) indices.
 
 ### Low Volatility
 

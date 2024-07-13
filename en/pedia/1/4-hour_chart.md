@@ -30,7 +30,7 @@ Moving averages, such as the Simple Moving Average (SMA) and the Exponential Mov
 
 ### RSI (Relative Strength Index)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. On a 4-hour chart, RSI helps identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, providing clues for potential [trend](../t/trend.md) reversals or continuation.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. On a 4-hour chart, RSI helps identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, providing clues for potential [trend](../t/trend.md) reversals or continuation.
 
 ### MACD (Moving Average Convergence Divergence)
 

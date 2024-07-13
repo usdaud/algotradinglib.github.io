@@ -13,7 +13,7 @@ Signal analysis is the process of examining and interpreting various data points
 Technical signals are based on historical price and [volume](../v/volume.md) data. Analysts use charting tools to detect patterns and signals that might suggest where the price of a [security](../s/security.md) is headed. Common technical signals include:
  
 - **Moving Averages:** The average price of a [security](../s/security.md) over a specific number of periods, which smoothens out short-term fluctuations and highlights longer-term trends.
-- **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI):** An [oscillator](../o/oscillator.md) that measures the speed and change of price movements, indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+- **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):** An [oscillator](../o/oscillator.md) that measures the speed and change of price movements, indicating [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **[Bollinger Bands](../b/bollinger_bands.md):** Bands plotted at [standard deviation](../s/standard_deviation.md) levels above and below a moving average, showing [volatility](../v/volatility.md) levels.
 
 ### 2.2 Fundamental Signals

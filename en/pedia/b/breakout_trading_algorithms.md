@@ -62,7 +62,7 @@ Incorporating [stop-loss orders](../s/stop-loss_orders.md) and position-sizing a
 
 ### Research and Development
 
-A successful RSI-based [breakout](../b/breakout.md) strategy leverages the [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. This is combined with traditional [breakout](../b/breakout.md) signals to form a [robust](../r/robust.md) strategy.
+A successful RSI-based [breakout](../b/breakout.md) strategy leverages the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. This is combined with traditional [breakout](../b/breakout.md) signals to form a [robust](../r/robust.md) strategy.
 
 ### Algorithm Implementation
 

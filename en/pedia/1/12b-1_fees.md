@@ -17,7 +17,7 @@ A [fund](../f/fund.md) can charge up to 1% of its assets annually under the 12b-
 
 ### Impact on Investors
 
-12b-1 fees directly impact the net returns that investors receive because they are deducted from the [fund](../f/fund.md)’s assets. This [deduction](../d/deduction.md) effectively reduces the overall growth of an [investor](../i/investor.md)'s [money](../m/money.md) in the [fund](../f/fund.md). These fees can particularly erode returns in [index](../i/index.md) funds or other investment vehicles where the management expenses should ideally be lower.
+12b-1 fees directly impact the net returns that investors receive because they are deducted from the [fund](../f/fund.md)’s assets. This [deduction](../d/deduction.md) effectively reduces the overall growth of an [investor](../i/investor.md)'s [money](../m/money.md) in the [fund](../f/fund.md). These fees can particularly erode returns in [index](../i/index_instrument.md) funds or other investment vehicles where the management expenses should ideally be lower.
 
 ### Controversy and Criticism
 

@@ -53,7 +53,7 @@ Growth investors focus on companies expected to grow at an above-average rate co
 
 ### Index Investing
 
-[Index investing](../i/index_investing.md) aims to replicate the performance of a specific [index](../i/index.md), such as the S&P 500. Investors buy [index](../i/index.md) funds or ETFs that track indices, [offering](../o/offering.md) [diversification](../d/diversification.md) and lower fees compared to actively managed funds.
+[Index investing](../i/index_investing.md) aims to replicate the performance of a specific [index](../i/index_instrument.md), such as the S&P 500. Investors buy [index](../i/index_instrument.md) funds or ETFs that track indices, [offering](../o/offering.md) [diversification](../d/diversification.md) and lower fees compared to actively managed funds.
 
 ### Quantitative Investing
 

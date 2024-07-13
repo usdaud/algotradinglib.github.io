@@ -14,7 +14,7 @@ Here are some of the common [overbought](../o/overbought.md) indicators used in 
 
 ### Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) is one of the most commonly used indicators to detect [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements on a scale of 0 to 100. A [security](../s/security.md) is typically considered [overbought](../o/overbought.md) if the RSI reaches 70 or above. Conversely, it is considered [oversold](../o/oversold.md) if the RSI drops to 30 or below.
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is one of the most commonly used indicators to detect [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements on a scale of 0 to 100. A [security](../s/security.md) is typically considered [overbought](../o/overbought.md) if the RSI reaches 70 or above. Conversely, it is considered [oversold](../o/oversold.md) if the RSI drops to 30 or below.
 
 #### Calculation:
 
@@ -59,7 +59,7 @@ Although primarily used as a [trend](../t/trend.md)-following [indicator](../i/i
 
 ### Commodity Channel Index (CCI)
 
-The [Commodity](../c/commodity.md) Channel [Index](../i/index.md) (CCI) is used to identify cyclical trends in a [security](../s/security.md). It measures the current [price level](../p/price_level.md) relative to an average [price level](../p/price_level.md) over a specific period. The CCI primarily indicates [overbought](../o/overbought.md) conditions when it moves above +100 and indicates [oversold](../o/oversold.md) conditions when it moves below -100.
+The [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) (CCI) is used to identify cyclical trends in a [security](../s/security.md). It measures the current [price level](../p/price_level.md) relative to an average [price level](../p/price_level.md) over a specific period. The CCI primarily indicates [overbought](../o/overbought.md) conditions when it moves above +100 and indicates [oversold](../o/oversold.md) conditions when it moves below -100.
 
 #### Calculation:
 

@@ -56,7 +56,7 @@ Individual psychological traits such as optimism, resilience, and a sense of con
 
 ### Public Policy and GNH
 
-Governments are increasingly considering happiness metrics to guide public policy. Policymakers can design initiatives that promote well-being, such as improved healthcare systems, social [welfare](../w/welfare.md) programs, and community-building activities. Bhutan's GNH [index](../i/index.md) serves as a paradigm for incorporating happiness into national policy.
+Governments are increasingly considering happiness metrics to guide public policy. Policymakers can design initiatives that promote well-being, such as improved healthcare systems, social [welfare](../w/welfare.md) programs, and community-building activities. Bhutan's GNH [index](../i/index_instrument.md) serves as a paradigm for incorporating happiness into national policy.
 
 ### Workplace Policies
 

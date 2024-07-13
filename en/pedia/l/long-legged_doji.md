@@ -34,7 +34,7 @@ The Long-Legged [Doji](../d/doji.md) can be integrated into various [trading str
 ### Reversal Strategies
 
 - **Identifying Potential Reversals**: By recognizing Long-Legged [Doji](../d/doji.md) patterns at the end of established trends, traders can anticipate possible reversals and adjust their positions accordingly. For example, following an [uptrend](../u/uptrend.md), the appearance of a Long-Legged [Doji](../d/doji.md) can signal the [trader](../t/trader.md) to consider exiting long positions and preparing for potential short opportunities.
-- **Combining with Other Indicators**: When used in conjunction with indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD), the Long-Legged [Doji](../d/doji.md) can provide stronger signals. For instance, if a Long-Legged [Doji](../d/doji.md) forms while RSI is in [overbought](../o/overbought.md) territory, the likelihood of a bearish [reversal](../r/reversal.md) increases.
+- **Combining with Other Indicators**: When used in conjunction with indicators like [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) or Moving Average Convergence [Divergence](../d/divergence.md) (MACD), the Long-Legged [Doji](../d/doji.md) can provide stronger signals. For instance, if a Long-Legged [Doji](../d/doji.md) forms while RSI is in [overbought](../o/overbought.md) territory, the likelihood of a bearish [reversal](../r/reversal.md) increases.
 
 ### Continuation Strategies
 
@@ -43,7 +43,7 @@ The Long-Legged [Doji](../d/doji.md) can be integrated into various [trading str
 
 ## Real-World Examples
 
-Let’s consider a hypothetical example on a major stock [index](../i/index.md) like the S&P 500. Suppose the S&P 500 has been in a strong upward [trend](../t/trend.md) for several months, and a Long-Legged [Doji](../d/doji.md) forms at the peak of the latest [rally](../r/rally.md). Traders would pay close attention to the following days' price actions. If the next few candlesticks confirm weakness with bearish patterns like a bearish engulfing or a [shooting star](../s/shooting_star.md), traders might interpret this as a signal to sell off their long positions, anticipating a [correction](../c/correction.md) or [reversal](../r/reversal.md).
+Let’s consider a hypothetical example on a major stock [index](../i/index_instrument.md) like the S&P 500. Suppose the S&P 500 has been in a strong upward [trend](../t/trend.md) for several months, and a Long-Legged [Doji](../d/doji.md) forms at the peak of the latest [rally](../r/rally.md). Traders would pay close attention to the following days' price actions. If the next few candlesticks confirm weakness with bearish patterns like a bearish engulfing or a [shooting star](../s/shooting_star.md), traders might interpret this as a signal to sell off their long positions, anticipating a [correction](../c/correction.md) or [reversal](../r/reversal.md).
 
 In cryptocurrency markets, let’s say [Bitcoin](../b/bitcoin.md) has been experiencing a [downtrend](../d/downtrend.md) and a Long-Legged [Doji](../d/doji.md) forms near a significant support level. Coupled with high trading [volume](../v/volume.md), this pattern could prompt traders to enter long positions, expecting a [reversal](../r/reversal.md) to indicate the end of the bearish period.
 

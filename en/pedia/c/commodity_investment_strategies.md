@@ -52,7 +52,7 @@ There are various strategies that traders employ using [options](../o/options.md
 
 - **SPDR Gold [Shares](../s/shares.md) (GLD)**: Provides investors with exposure to gold prices.
 - **United States Oil [Fund](../f/fund.md) (USO)**: Tracks the price movements of West Texas Intermediate (WTI) light, sweet [crude oil](../c/crude_oil.md).
-- **[iShares](../i/ishares.md) S&P GSCI [Commodity](../c/commodity.md)-Indexed [Trust](../t/trust.md) (GSG)**: Reflects the performance of a broad-based, production-[weighted](../w/weighted.md) [index](../i/index.md) of the global [commodity](../c/commodity.md) markets.
+- **[iShares](../i/ishares.md) S&P GSCI [Commodity](../c/commodity.md)-Indexed [Trust](../t/trust.md) (GSG)**: Reflects the performance of a broad-based, production-[weighted](../w/weighted.md) [index](../i/index_instrument.md) of the global [commodity](../c/commodity.md) markets.
 
 ## Physical Commodity Investments
 
@@ -86,11 +86,11 @@ Swaps can provide more tailored hedging solutions compared to standardized [futu
 
 ### What are Commodity Indices?
 
-[Commodity](../c/commodity.md) indices are benchmarks composed of [multiple](../m/multiple.md) [commodity](../c/commodity.md) prices, designed to reflect the overall performance of the [commodity](../c/commodity.md) [market](../m/market.md) or a specific [commodity](../c/commodity.md) sector. Examples include the S&P GSCI (Goldman Sachs [Commodity](../c/commodity.md) [Index](../i/index.md)) and the [Bloomberg](../b/bloomberg.md) [Commodity](../c/commodity.md) [Index](../i/index.md) (BCOM).
+[Commodity](../c/commodity.md) indices are benchmarks composed of [multiple](../m/multiple.md) [commodity](../c/commodity.md) prices, designed to reflect the overall performance of the [commodity](../c/commodity.md) [market](../m/market.md) or a specific [commodity](../c/commodity.md) sector. Examples include the S&P GSCI (Goldman Sachs [Commodity](../c/commodity.md) [Index](../i/index_instrument.md)) and the [Bloomberg](../b/bloomberg.md) [Commodity](../c/commodity.md) [Index](../i/index_instrument.md) (BCOM).
 
 ### Investing in Commodity Indices
 
-Investors can [gain](../g/gain.md) exposure to [commodity](../c/commodity.md) indices through [index](../i/index.md) funds, ETFs, or mutual funds that track these indices. This allows for diversified [commodity](../c/commodity.md) exposure without the need to [trade](../t/trade.md) individual commodities.
+Investors can [gain](../g/gain.md) exposure to [commodity](../c/commodity.md) indices through [index](../i/index_instrument.md) funds, ETFs, or mutual funds that track these indices. This allows for diversified [commodity](../c/commodity.md) exposure without the need to [trade](../t/trade.md) individual commodities.
 
 ### Benefits and Limitations
 

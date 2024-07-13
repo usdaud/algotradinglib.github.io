@@ -22,12 +22,12 @@ In a [Total Return](../t/total_return.md) [Swap](../s/swap.md), one party (the '
 
 ## Example of a Total Return Swap
 
-Imagine a [hedge fund](../h/hedge_fund.md) wants to [gain](../g/gain.md) exposure to the returns of a certain stock [index](../i/index.md) but does not want to actually purchase the [stocks](../s/stock.md) due to regulatory restrictions or other reasons. Instead, they enter into a TRS with an investment [bank](../b/bank.md). 
+Imagine a [hedge fund](../h/hedge_fund.md) wants to [gain](../g/gain.md) exposure to the returns of a certain stock [index](../i/index_instrument.md) but does not want to actually purchase the [stocks](../s/stock.md) due to regulatory restrictions or other reasons. Instead, they enter into a TRS with an investment [bank](../b/bank.md). 
 
-- The [hedge fund](../h/hedge_fund.md) ([total return](../t/total_return.md) receiver) [will](../w/will.md) receive returns from the stock [index](../i/index.md), including both price appreciation and dividends.
+- The [hedge fund](../h/hedge_fund.md) ([total return](../t/total_return.md) receiver) [will](../w/will.md) receive returns from the stock [index](../i/index_instrument.md), including both price appreciation and dividends.
 - The investment [bank](../b/bank.md) ([total return](../t/total_return.md) payer) [will](../w/will.md) receive periodic [interest](../i/interest.md) payments from the [hedge fund](../h/hedge_fund.md), often based on a [LIBOR rate](../l/libor_rate_analysis.md) plus a spread.
 
-At the end of each period, if the [total return](../t/total_return.md) from the stock [index](../i/index.md) is higher than the [interest](../i/interest.md) payments, the investment [bank](../b/bank.md) [will](../w/will.md) pay the [hedge fund](../h/hedge_fund.md) the difference. If the [total return](../t/total_return.md) is lower, the [hedge fund](../h/hedge_fund.md) [will](../w/will.md) pay the investment [bank](../b/bank.md).
+At the end of each period, if the [total return](../t/total_return.md) from the stock [index](../i/index_instrument.md) is higher than the [interest](../i/interest.md) payments, the investment [bank](../b/bank.md) [will](../w/will.md) pay the [hedge fund](../h/hedge_fund.md) the difference. If the [total return](../t/total_return.md) is lower, the [hedge fund](../h/hedge_fund.md) [will](../w/will.md) pay the investment [bank](../b/bank.md).
 
 ## Advantages and Disadvantages
 

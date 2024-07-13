@@ -19,31 +19,31 @@ Lipper Indexes are categorized broadly into four main types, each designed to fo
 
 [Equity](../e/equity.md) indexes encompass a wide [range](../r/range.md) of stock-based funds. These can be further grouped based on regional focus (e.g., U.S., Global, Emerging Markets), investment style (e.g., Growth, [Value](../v/value.md), Blend), and [capitalization](../c/capitalization.md) (e.g., Large-Cap, [Mid-Cap](../m/mid-cap.md), Small-Cap). Some of the prominent Lipper [Equity](../e/equity.md) Indexes include:
 
-- **Lipper U.S. Large-Cap Growth [Index](../i/index.md)**: Tracks the performance of large-cap [growth stocks](../g/growth_stocks.md).
-- **Lipper Global [Equity](../e/equity.md) [Index](../i/index.md)**: Provides a measure for global [equity](../e/equity.md) performance.
-- **Lipper Emerging Markets [Equity](../e/equity.md) [Index](../i/index.md)**: Measures the performance of funds [investing](../i/investing.md) in emerging [market](../m/market.md) equities.
+- **Lipper U.S. Large-Cap Growth [Index](../i/index_instrument.md)**: Tracks the performance of large-cap [growth stocks](../g/growth_stocks.md).
+- **Lipper Global [Equity](../e/equity.md) [Index](../i/index_instrument.md)**: Provides a measure for global [equity](../e/equity.md) performance.
+- **Lipper Emerging Markets [Equity](../e/equity.md) [Index](../i/index_instrument.md)**: Measures the performance of funds [investing](../i/investing.md) in emerging [market](../m/market.md) equities.
 
 ### 2. Bond Indexes
 
 [Bond](../b/bond.md) indexes track the performance of funds [investing](../i/investing.md) in [debt](../d/debt.md) securities. These are often categorized by the type of [bond](../b/bond.md), such as government bonds, corporate bonds, [municipal bonds](../m/municipal_bonds.md), and so on. Specific benchmarks include:
 
-- **Lipper U.S. [Government Bond](../g/government_bond.md) [Index](../i/index.md)**: Tracks funds focusing on U.S. government bonds.
-- **Lipper [Corporate Bond](../c/corporate_bond.md) [Index](../i/index.md)**: Focuses on corporate [debt](../d/debt.md) instruments.
-- **Lipper High [Yield](../y/yield.md) [Bond](../b/bond.md) [Index](../i/index.md)**: Measures the performance of funds [investing](../i/investing.md) in high-[yield](../y/yield.md), speculative-grade bonds.
+- **Lipper U.S. [Government Bond](../g/government_bond.md) [Index](../i/index_instrument.md)**: Tracks funds focusing on U.S. government bonds.
+- **Lipper [Corporate Bond](../c/corporate_bond.md) [Index](../i/index_instrument.md)**: Focuses on corporate [debt](../d/debt.md) instruments.
+- **Lipper High [Yield](../y/yield.md) [Bond](../b/bond.md) [Index](../i/index_instrument.md)**: Measures the performance of funds [investing](../i/investing.md) in high-[yield](../y/yield.md), speculative-grade bonds.
 
 ### 3. Mixed-Asset Indexes
 
 Mixed-[Asset](../a/asset.md) Indexes, often referred to as [balanced fund](../b/balanced_fund.md) indexes, track funds that invest in a combination of equities and bonds. These indexes are useful for investors looking for a balanced exposure to both [asset](../a/asset.md) classes. Examples are:
 
-- **Lipper Mixed-[Asset](../a/asset.md) Target Allocation Growth [Index](../i/index.md)**: Targets a higher allocation towards equities for growth.
-- **Lipper Mixed-[Asset](../a/asset.md) Target Allocation Conservative [Index](../i/index.md)**: Focuses on a more conservative balance with a higher allocation towards bonds.
+- **Lipper Mixed-[Asset](../a/asset.md) Target Allocation Growth [Index](../i/index_instrument.md)**: Targets a higher allocation towards equities for growth.
+- **Lipper Mixed-[Asset](../a/asset.md) Target Allocation Conservative [Index](../i/index_instrument.md)**: Focuses on a more conservative balance with a higher allocation towards bonds.
 
 ### 4. Other Specialized Indexes
 
 These indexes cover various niche areas and specific investment styles. Some examples include sector-specific indexes, socially responsible [investing](../i/investing.md) (SRI) indexes, and [real estate](../r/real_estate.md) indexes. Examples include:
 
-- **Lipper [Real Estate](../r/real_estate.md) [Index](../i/index.md)**: Tracks funds [investing](../i/investing.md) primarily in [real estate](../r/real_estate.md) assets.
-- **Lipper SRI [Index](../i/index.md)**: Focuses on funds with socially responsible investment strategies.
+- **Lipper [Real Estate](../r/real_estate.md) [Index](../i/index_instrument.md)**: Tracks funds [investing](../i/investing.md) primarily in [real estate](../r/real_estate.md) assets.
+- **Lipper SRI [Index](../i/index_instrument.md)**: Focuses on funds with socially responsible investment strategies.
 - **Lipper Sector Specific Indexes**: Includes tech, healthcare, utilities, etc., focused funds.
 
 ## The Importance of Lipper Indexes in Investment Decisions
@@ -74,7 +74,7 @@ The Lipper Leaders scores [range](../r/range.md) from 1 (worst) to 5 (best) and 
 Individual investors often use Lipper Indexes to:
 
 - Assess which funds to invest in by checking how they perform relative to their category.
-- Get insights into [market](../m/market.md) trends by observing [index](../i/index.md) performance.
+- Get insights into [market](../m/market.md) trends by observing [index](../i/index_instrument.md) performance.
 - Manage their investment portfolio by regular benchmarking against relevant Lipper Indexes.
 
 ### Professional Fund Managers

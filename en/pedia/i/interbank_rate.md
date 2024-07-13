@@ -117,6 +117,6 @@ Interbank rates are essential for the functioning of the global [financial syste
 Sources:
 - [Bank](../b/bank.md) of England, SONIA: https://www.bankofengland.co.uk/markets/sonia-[benchmark](../b/benchmark.md)
 - Federal Reserve, [Federal Funds Rate](../f/federal_funds_rate.md): https://www.federalreserve.gov/monetarypolicy/openmarket.htm
-- European Central [Bank](../b/bank.md), EONIA: https://www.ecb.europa.eu/[home](../h/home.md)/html/[index](../i/index.md).en.html
+- European Central [Bank](../b/bank.md), EONIA: https://www.ecb.europa.eu/[home](../h/home.md)/html/[index](../i/index_instrument.md).en.html
 - ICE [Benchmark](../b/benchmark.md) Administration, LIBOR: https://www.theice.com/iba/libor
 - European [Money](../m/money.md) Markets Institute, Euribor: https://www.emmi-benchmarks.eu/euribor-org/euribor-rates.html

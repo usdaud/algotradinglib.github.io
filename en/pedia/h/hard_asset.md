@@ -61,7 +61,7 @@ ETFs that focus on hard assets provide a convenient way to [gain](../g/gain.md) 
 
 - **SPDR Gold [Shares](../s/shares.md) (GLD)**: Tracks the price of gold.
 - **[iShares](../i/ishares.md) Silver [Trust](../t/trust.md) (SLV)**: Tracks the price of silver.
-- **Invesco DB [Commodity](../c/commodity.md) [Index](../i/index.md) Tracking [Fund](../f/fund.md) (DBC)**: Provides exposure to a broad [range](../r/range.md) of commodities.
+- **Invesco DB [Commodity](../c/commodity.md) [Index](../i/index_instrument.md) Tracking [Fund](../f/fund.md) (DBC)**: Provides exposure to a broad [range](../r/range.md) of commodities.
 
 ## Risks and Considerations
 

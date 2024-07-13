@@ -18,7 +18,7 @@ Treasury Bonds, or T-Bonds, are long-term government securities with maturities 
 
 ### Inflation-Protected Securities (TIPS)
 
-Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) are government bonds designed to protect investors from [inflation](../i/inflation.md). The [principal](../p/principal.md) [value](../v/value.md) of TIPS increases with [inflation](../i/inflation.md), as measured by the Consumer Price [Index](../i/index.md) (CPI). [Interest](../i/interest.md) payments, made semi-annually, are calculated based on the adjusted [principal](../p/principal.md). TIPS are an excellent choice for investors concerned about [inflation](../i/inflation.md) eroding the [value](../v/value.md) of their investments.
+Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) are government bonds designed to protect investors from [inflation](../i/inflation.md). The [principal](../p/principal.md) [value](../v/value.md) of TIPS increases with [inflation](../i/inflation.md), as measured by the Consumer Price [Index](../i/index_instrument.md) (CPI). [Interest](../i/interest.md) payments, made semi-annually, are calculated based on the adjusted [principal](../p/principal.md). TIPS are an excellent choice for investors concerned about [inflation](../i/inflation.md) eroding the [value](../v/value.md) of their investments.
 
 ### Savings Bonds
 

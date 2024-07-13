@@ -66,13 +66,13 @@ Several factors can affect the NPV of a project or an investment:
 
 ### NPV vs. Other Investment Appraisal Methods
 
-NPV is one of several methods used to evaluate investment opportunities. Others include the Internal [Rate of Return](../r/rate_of_return.md) (IRR), [Payback Period](../p/payback_period.md), and Profitability [Index](../i/index.md) (PI). Each method has its own advantages and limitations:
+NPV is one of several methods used to evaluate investment opportunities. Others include the Internal [Rate of Return](../r/rate_of_return.md) (IRR), [Payback Period](../p/payback_period.md), and Profitability [Index](../i/index_instrument.md) (PI). Each method has its own advantages and limitations:
 
 1. **Internal [Rate of Return](../r/rate_of_return.md) (IRR)**: IRR calculates the [discount rate](../d/discount_rate.md) at which the NPV of an investment equals zero. While it provides a clear percentage [return](../r/return.md), it can be misleading with non-conventional cash flows and [multiple](../m/multiple.md) IRRs.
 
 2. **[Payback Period](../p/payback_period.md)**: This method measures how long it takes to recover the initial investment from cash flows. It’s simple but ignores the [time value](../t/time_value.md) of [money](../m/money.md) and cash flows beyond the [payback period](../p/payback_period.md).
 
-3. **Profitability [Index](../i/index.md) (PI)**: PI is the ratio of the [present value](../p/present_value.md) of future cash flows to the initial investment. A PI greater than 1 indicates a favorable investment. PI can be useful for comparing projects of different sizes, but like NPV, it relies on accurate [cash flow](../c/cash_flow.md) projections and [discount](../d/discount.md) rates.
+3. **Profitability [Index](../i/index_instrument.md) (PI)**: PI is the ratio of the [present value](../p/present_value.md) of future cash flows to the initial investment. A PI greater than 1 indicates a favorable investment. PI can be useful for comparing projects of different sizes, but like NPV, it relies on accurate [cash flow](../c/cash_flow.md) projections and [discount](../d/discount.md) rates.
 
 ### Applications of NPV in Real World
 

@@ -52,7 +52,7 @@
 
 - **[Trend Analysis](../t/trend_analysis.md)**: Identifying upward, downward, or sideways trends in ETF prices.
 - **[Chart Patterns](../c/chart_patterns.md)**: Recognizing formations such as head-and-shoulders, triangles, and flags.
-- **Indicators**: Utilizing tools like moving averages, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI), and MACD.
+- **Indicators**: Utilizing tools like moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and MACD.
 
 ### Quantitative Analysis
 
@@ -77,14 +77,14 @@ When analyzing [Sector ETFs](../s/sector_etfs.md), several [performance metrics]
 - **[Total Return](../t/total_return.md)**: Measures the overall [return](../r/return.md), including [capital](../c/capital.md) gains and dividends, over a specific period.
 - **[Expense Ratio](../e/expense_ratio.md)**: The annual [fee](../f/fee.md) charged by the ETF manager, expressed as a percentage of assets under management.
 - **[Dividend Yield](../d/dividend_yield.md)**: The annual dividends paid by the ETF as a percentage of its share price.
-- **[Tracking Error](../t/tracking_error.md)**: The difference between the ETF’s performance and its [benchmark](../b/benchmark.md) [index](../i/index.md).
+- **[Tracking Error](../t/tracking_error.md)**: The difference between the ETF’s performance and its [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 - **[Liquidity](../l/liquidity.md)**: Assessed by trading [volume](../v/volume.md) and [bid](../b/bid.md)-ask [spreads](../s/spreads.md), indicating how easily [shares](../s/shares.md) can be bought or sold.
 
 ## Case Studies
 
 ### Technology Sector ETF (XLK)
 
-**Overview**: XLK seeks to track the performance of the Technology Select Sector [Index](../i/index.md). It includes [holdings](../h/holdings.md) primarily in software, hardware, and semiconductors.
+**Overview**: XLK seeks to track the performance of the Technology Select Sector [Index](../i/index_instrument.md). It includes [holdings](../h/holdings.md) primarily in software, hardware, and semiconductors.
 
 - **Top [Holdings](../h/holdings.md)**: Apple Inc., Microsoft Corp., NVIDIA Corp.
 - **Performance Analysis**: Over the past five years, XLK has shown substantial growth, driven by advancements in [cloud computing](../c/cloud_computing_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and consumer electronics.
@@ -92,7 +92,7 @@ When analyzing [Sector ETFs](../s/sector_etfs.md), several [performance metrics]
 
 ### Healthcare Sector ETF (XLV)
 
-**Overview**: XLV aims to replicate the performance of the Health Care Select Sector [Index](../i/index.md). It comprises pharmaceuticals, biotechnology, and medical devices companies.
+**Overview**: XLV aims to replicate the performance of the Health Care Select Sector [Index](../i/index_instrument.md). It comprises pharmaceuticals, biotechnology, and medical devices companies.
 
 - **Top [Holdings](../h/holdings.md)**: Johnson & Johnson, UnitedHealth Group, Pfizer Inc.
 - **Performance Analysis**: XLV has benefited from an aging population and increased healthcare spending. However, it faces regulatory uncertainties related to drug pricing and healthcare reforms.
@@ -100,7 +100,7 @@ When analyzing [Sector ETFs](../s/sector_etfs.md), several [performance metrics]
 
 ### Financial Sector ETF (XLF)
 
-**Overview**: XLF tracks the Financial Select Sector [Index](../i/index.md). It includes banks, [insurance](../i/insurance.md) companies, and other financial services firms.
+**Overview**: XLF tracks the Financial Select Sector [Index](../i/index_instrument.md). It includes banks, [insurance](../i/insurance.md) companies, and other financial services firms.
 
 - **Top [Holdings](../h/holdings.md)**: [Berkshire Hathaway](../b/berkshire_hathaway.md) Inc., JPMorgan Chase & Co., [Bank](../b/bank.md) of America Corp.
 - **Performance Analysis**: XLF’s performance is closely tied to [interest rate](../i/interest_rate.md) movements and [economic cycles](../e/economic_cycles.md). Recent [deregulation](../d/deregulation.md) and lower [interest](../i/interest.md) rates have impacted its [valuation](../v/valuation.md).

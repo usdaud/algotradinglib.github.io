@@ -45,7 +45,7 @@ Managing [risk](../r/risk.md) is a key aspect of [portfolio management](../p/par
 ### Passive Portfolio Management
 Passive [portfolio management](../p/par.md), also known as [index investing](../i/index_investing.md), involves creating a portfolio designed to match the returns of a specific [market index](../m/market_index.md).
 
-- **[Index](../i/index.md) Funds**: [Investing](../i/investing.md) in mutual funds or ETFs that replicate the performance of a [market index](../m/market_index.md).
+- **[Index](../i/index_instrument.md) Funds**: [Investing](../i/investing.md) in mutual funds or ETFs that replicate the performance of a [market index](../m/market_index.md).
 - **[Buy and Hold](../b/buy_and_hold.md)**: Adopting a long-term [investment strategy](../i/investment_strategy.md) with minimal buying and selling activities.
 - **Low Costs**: Maintaining lower management fees as there is less active trading and research involved.
 

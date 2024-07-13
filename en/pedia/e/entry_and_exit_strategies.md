@@ -24,7 +24,7 @@ A common strategy is the **[Golden Cross](../g/golden_cross.md)**, which occurs 
 
 #### 2. Relative Strength Index (RSI)
 
-The **[Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI)** is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It ranges from 0 to 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+The **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)** is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It ranges from 0 to 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 **Example:**
 An RSI [value](../v/value.md) above 70 is considered [overbought](../o/overbought.md), suggesting a potential entry point for a short position. Conversely, an RSI below 30 is considered [oversold](../o/oversold.md), indicating a potential entry point for a long position.

@@ -8,13 +8,13 @@ An investment [fund](../f/fund.md) is a sum of [money](../m/money.md) pooled tog
 Mutual funds are one of the most common types of investment funds. They are managed by professional [money](../m/money.md) managers who allocate the [fund](../f/fund.md)’s assets and attempt to produce [capital](../c/capital.md) gains or [income](../i/income.md) for the [fund](../f/fund.md)'s investors. Mutual funds [offer](../o/offer.md) various types to match different investment objectives: 
 - **[Equity](../e/equity.md) Funds** – Invest in [stocks](../s/stock.md).
 - **Fixed-[Income](../i/income.md) Funds** – Invest in bonds.
-- **[Index](../i/index.md) Funds** – Aim to replicate the performance of a specific [index](../i/index.md) like the S&P 500.
+- **[Index](../i/index_instrument.md) Funds** – Aim to replicate the performance of a specific [index](../i/index_instrument.md) like the S&P 500.
 - **Balanced Funds** – Combine [stocks](../s/stock.md) and bonds.
 - **[Money Market](../m/money_market.md) Funds** – Invest in short-term, low-[risk](../r/risk.md) securities.
 
 ### 2. **Exchange-Traded Funds (ETFs)**
 ETFs are similar to mutual funds but [trade](../t/trade.md) on stock exchanges like individual [stocks](../s/stock.md). They [offer](../o/offer.md) the [diversification benefits](../d/diversification_benefits.md) of mutual funds with the flexibility of stock trading. Examples include:
-- **SPDR S&P 500 ETF [Trust](../t/trust.md) (SPY)** which tracks the S&P 500 [index](../i/index.md).
+- **SPDR S&P 500 ETF [Trust](../t/trust.md) (SPY)** which tracks the S&P 500 [index](../i/index_instrument.md).
 - **Vanguard Total [Stock Market](../s/stock_market.md) ETF (VTI)** which offers broad exposure to the total U.S. [stock market](../s/stock_market.md).
 
 ### 3. **Hedge Funds**
