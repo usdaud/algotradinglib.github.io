@@ -1,12 +1,12 @@
 # Scope
 
 ## Definition
-In trading, "scope" typically refers to the range or extent of price movement of a financial instrument within a specific time frame. It's often used in technical analysis to gauge volatility and potential trading opportunities.
+In trading, "scope" typically refers to the [range](../r/range.md) or extent of price movement of a [financial instrument](../f/financial_instrument.md) within a specific time frame. It's often used in [technical analysis](../t/technical_analysis.md) to gauge [volatility](../v/volatility.md) and potential trading opportunities.
 
 ## Key Aspects
 
 ### 1. Price Range
-- Measures the difference between the highest and lowest prices of an asset over a given period
+- Measures the difference between the highest and lowest prices of an [asset](../a/asset.md) over a given period
 - Often expressed in points, pips, or percentage
 
 ### 2. Time Frame
@@ -14,8 +14,8 @@ In trading, "scope" typically refers to the range or extent of price movement of
 - Helps traders identify short-term and long-term trends
 
 ### 3. Volatility Indicator
-- Large scope indicates high volatility
-- Small scope suggests low volatility or consolidation
+- Large scope indicates high [volatility](../v/volatility.md)
+- Small scope suggests low [volatility](../v/volatility.md) or [consolidation](../c/consolidation.md)
 
 ## Applications in Trading
 
@@ -24,38 +24,38 @@ In trading, "scope" typically refers to the range or extent of price movement of
 - Used to set entry and exit points for trades
 
 ### 2. Breakout Trading
-- Traders watch for prices moving beyond the recent scope as potential breakout signals
+- Traders watch for prices moving beyond the recent scope as potential [breakout](../b/breakout.md) signals
 - Can indicate the start of new trends
 
 ### 3. Risk Management
-- Assists in setting stop-loss orders based on typical price movements
+- Assists in setting [stop-loss orders](../s/stop-loss_orders.md) based on typical price movements
 - Helps in calculating position sizes relative to potential price swings
 
 ### 4. Volatility-based Strategies
-- Some traders focus on high-scope (volatile) periods for short-term trading
-- Others prefer low-scope periods for range-bound trading strategies
+- Some traders focus on high-scope (volatile) periods for [short-term trading](../s/short-term_trading.md)
+- Others prefer low-scope periods for [range](../r/range.md)-bound [trading strategies](../t/trading_strategies.md)
 
 ## Related Concepts
 
-1. **Average True Range (ATR)**
-   - A technical indicator that measures market volatility
+1. **[Average True Range](../a/average_true_range_(atr).md) (ATR)**
+   - A technical [indicator](../i/indicator.md) that measures [market](../m/market.md) [volatility](../v/volatility.md)
    - Often used alongside scope analysis for a more comprehensive view
 
-2. **Trading Range**
+2. **Trading [Range](../r/range.md)**
    - Similar to scope but typically refers to longer-term price boundaries
 
-3. **Price Action**
-   - The study of an asset's price movement over time
-   - Scope is one aspect of price action analysis
+3. **[Price Action](../p/price_action.md)**
+   - The study of an [asset](../a/asset.md)'s price movement over time
+   - Scope is one aspect of [price action analysis](../p/price_action_analysis.md)
 
 ## Importance in Trading Decisions
 
-- Helps traders assess potential profit targets
-- Aids in determining appropriate leverage and position sizing
-- Contributes to overall market analysis and strategy development
+- Helps traders assess potential [profit](../p/profit.md) targets
+- Aids in determining appropriate [leverage](../l/leverage.md) and [position sizing](../p/position_sizing.md)
+- Contributes to overall [market](../m/market.md) analysis and strategy development
 
 ## Limitations
 
 - Past scope doesn't guarantee future price movements
-- Should be used in conjunction with other technical and fundamental analysis tools
-- May be less reliable during periods of extreme market conditions or news events
+- Should be used in conjunction with other technical and [fundamental analysis](../f/fundamental_analysis.md) tools
+- May be less reliable during periods of extreme [market](../m/market.md) conditions or news events

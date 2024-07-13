@@ -8,18 +8,18 @@ Green technology, often abbreviated as green tech, encompasses the application o
 Solar power is harvested by converting sunlight into electricity using photovoltaic cells or concentrated solar power systems. Photovoltaics (PV) use semiconductor materials, such as silicon, to directly convert sunlight into electricity. Concentrated Solar Power (CSP) systems utilize mirrors or lenses to focus a large area of sunlight onto a small area, generating heat that can produce electricity through a steam turbine.
 
 #### Companies in Solar Power
-- **SunPower Corporation**: [SunPower](https://www.sunpower.com/)
+- **SunPower [Corporation](../c/corporation.md)**: [SunPower](https://www.sunpower.com/)
 - **First Solar**: [First Solar](https://www.firstsolar.com/)
 
 ### Wind Energy
-Wind energy harnesses the power of wind through turbines that convert kinetic energy into mechanical power or electricity. Wind farms can be located onshore or offshore, with offshore wind generation typically offering more consistent wind speeds and reduced visual impact on landscapes.
+Wind energy harnesses the power of wind through turbines that convert kinetic energy into mechanical power or electricity. Wind farms can be located onshore or [offshore](../o/offshore.md), with [offshore](../o/offshore.md) wind generation typically [offering](../o/offering.md) more consistent wind speeds and reduced visual impact on landscapes.
 
 #### Companies in Wind Energy
 - **Vestas Wind Systems**: [Vestas](https://www.vestas.com/)
 - **Siemens Gamesa Renewable Energy**: [Siemens Gamesa](https://www.siemensgamesa.com/)
 
 ### Hydropower
-Hydropower generates electricity by using the flow of water from rivers, lakes, and reservoirs to spin turbines connected to generators. It is one of the oldest and largest sources of renewable energy, offering the benefits of reliable power with relatively low operating costs and minimal emissions.
+Hydropower generates electricity by using the flow of water from rivers, lakes, and reservoirs to spin turbines connected to generators. It is one of the oldest and largest sources of renewable energy, [offering](../o/offering.md) the benefits of reliable power with relatively low operating costs and minimal emissions.
 
 #### Companies in Hydropower
 - **General Electric**: [GE Renewable Energy](https://www.ge.com/renewableenergy/hydro-energy)
@@ -44,23 +44,23 @@ Thermal storage involves capturing and storing heat until it is needed to create
 ## Sustainable Transportation Technologies
 
 ### Electric Vehicles (EVs)
-Electric vehicles are powered entirely or partially by electric batteries instead of internal combustion engines that use fossil fuels. EVs represent a significant shift in the auto industry toward sustainability, aiming to reduce greenhouse gas emissions and reliance on oil.
+Electric vehicles are powered entirely or partially by electric batteries instead of internal combustion engines that use fossil fuels. EVs represent a significant shift in the auto [industry](../i/industry.md) toward sustainability, aiming to reduce greenhouse gas emissions and reliance on oil.
 
 #### Companies in Electric Vehicles
 - **Tesla, Inc.**: [Tesla](https://www.tesla.com/)
 - **NIO**: [NIO](https://www.nio.com/)
 
 ### Hydrogen Fuel Cells
-Hydrogen fuel cells generate electricity through a chemical reaction between hydrogen and oxygen, with water and heat as the only byproducts. Fuel cell vehicles can refuel quickly and offer a solution to long driving ranges with zero emissions.
+Hydrogen fuel cells generate electricity through a chemical reaction between hydrogen and oxygen, with water and heat as the only byproducts. Fuel cell vehicles can refuel quickly and [offer](../o/offer.md) a solution to long driving ranges with zero emissions.
 
 #### Companies in Hydrogen Fuel Cells
-- **Toyota Motor Corporation**: [Toyota](https://www.toyota.com/)
+- **Toyota Motor [Corporation](../c/corporation.md)**: [Toyota](https://www.toyota.com/)
 - **Ballard Power Systems**: [Ballard](https://www.ballard.com/)
 
 ## Smart and Sustainable Cities
 
 ### Smart Grids
-Smart grids use digital communication technologies to detect and react to local changes in electricity usage. This infrastructure helps balance supply and demand, reduces energy wastage, and integrates renewable energy sources more efficiently.
+Smart grids use digital communication technologies to detect and react to local changes in electricity usage. This [infrastructure](../i/infrastructure.md) helps balance [supply](../s/supply.md) and [demand](../d/demand.md), reduces energy wastage, and integrates renewable energy sources more efficiently.
 
 #### Companies in Smart Grids
 - **Siemens AG**: [Siemens](https://new.siemens.com/global/en.html)
@@ -71,19 +71,19 @@ Green buildings are designed to reduce the overall impact on human health and th
 
 #### Companies in Green Buildings
 - **USGBC (U.S. Green Building Council)**: [USGBC](https://www.usgbc.org/)
-- **LEED (Leadership in Energy and Environmental Design)**: [LEED](https://www.usgbc.org/leed)
+- **LEED ([Leadership](../l/leadership.md) in Energy and Environmental Design)**: [LEED](https://www.usgbc.org/leed)
 
 ## Waste Management and Recycling Technologies
 
 ### Waste-to-Energy
-Waste-to-energy (WtE) technologies convert non-recyclable waste materials into usable heat, electricity, or fuel. This reduces the volume of waste sent to landfills and recovers energy from the waste.
+Waste-to-energy (WtE) technologies convert non-recyclable waste materials into usable heat, electricity, or fuel. This reduces the [volume](../v/volume.md) of waste sent to landfills and recovers energy from the waste.
 
 #### Companies in Waste-to-Energy
 - **Covanta Energy**: [Covanta](https://www.covanta.com/)
 - **Wheelabrator Technologies**: [Wheelabrator](https://www.wtienergy.com/)
 
 ### Recycling Innovations
-Innovations in recycling technology improve the efficiency of sorting and processing recyclable materials. These technologies can range from advanced robotic sorters to chemical recycling processes that break down plastics into their original monomers for reuse.
+Innovations in recycling technology improve the [efficiency](../e/efficiency.md) of sorting and processing recyclable materials. These technologies can [range](../r/range.md) from advanced robotic sorters to chemical recycling processes that break down plastics into their original monomers for reuse.
 
 #### Companies in Recycling Innovations
 - **TerraCycle**: [TerraCycle](https://www.terracycle.com/en-US/)
@@ -123,4 +123,4 @@ Geoengineering technologies aim to counteract the effects of climate change thro
 
 ## Conclusion
 
-Green technology is a critical component in the global effort to combat climate change and create a sustainable future. By harnessing advances in renewable energy, energy storage, sustainable transportation, smart city infrastructure, waste management, and modern agriculture, green tech presents solutions that can significantly reduce humanity’s environmental impact. Companies at the forefront of these technologies are driving innovation, efficiency, and sustainability, paving the way for a cleaner and greener world.
+Green technology is a critical component in the global effort to combat climate change and create a sustainable future. By harnessing advances in renewable energy, energy storage, sustainable transportation, smart city [infrastructure](../i/infrastructure.md), waste management, and modern agriculture, green tech presents solutions that can significantly reduce humanity’s environmental impact. Companies at the forefront of these technologies are driving innovation, [efficiency](../e/efficiency.md), and sustainability, paving the way for a cleaner and greener world.

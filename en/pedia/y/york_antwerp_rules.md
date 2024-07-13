@@ -1,10 +1,10 @@
 # York Antwerp Rules
 
-The York Antwerp Rules are a set of principles that define the application and distribution of General Average in maritime transport. General Average is a legal principle under maritime law wherein all stakeholders in a sea voyage proportionally share any losses resulting from voluntary sacrifices of part of the ship or cargo to save the whole in an emergency. The York Antwerp Rules provide a standardized method for calculating and distributing these shared losses and have been widely adopted in international shipping.
+The York Antwerp Rules are a set of principles that define the application and [distribution](../d/distribution.md) of General Average in maritime transport. General Average is a legal principle under [maritime law](../m/maritime_law.md) wherein all stakeholders in a sea voyage proportionally share any losses resulting from voluntary sacrifices of part of the ship or cargo to save the whole in an emergency. The York Antwerp Rules provide a standardized method for calculating and distributing these shared losses and have been widely adopted in international shipping.
 
 ## Origins and Development
 
-The York Antwerp Rules were first established in 1890 during the International Law Association (ILA) conference in York and were later amended in Antwerp in 1924, hence the name. The purpose of these rules was to eliminate the inconsistencies and uncertainties that existed in domestic maritime laws regarding General Average. Over the years, the rules have been reviewed and updated multiple times to meet the changing dynamics of global shipping. Key revisions occurred in 1950, 1974, 1994, and most recently in 2016. The 2016 version is the most current and is generally referred to in international contracts for carriage of goods by sea.
+The York Antwerp Rules were first established in 1890 during the International Law Association (ILA) conference in York and were later amended in Antwerp in 1924, hence the name. The purpose of these rules was to eliminate the inconsistencies and uncertainties that existed in domestic maritime laws regarding General Average. Over the years, the rules have been reviewed and updated [multiple](../m/multiple.md) times to meet the changing dynamics of global shipping. Key revisions occurred in 1950, 1974, 1994, and most recently in 2016. The 2016 version is the most current and is generally referred to in international contracts for carriage of goods by sea.
 
 ## Key Principles of the York Antwerp Rules
 
@@ -22,7 +22,7 @@ Rule C clarifies that losses or damages that are not directly associated with th
 
 ### Rule D: Fault
 
-Rule D states that the fault or neglect of any party to the venture will not automatically disqualify an incident from being considered as General Average. However, the idea is to base the claim on the act itself rather than on the underlying cause or fault.
+Rule D states that the fault or neglect of any party to the venture [will](../w/will.md) not automatically disqualify an incident from being considered as General Average. However, the idea is to base the claim on the act itself rather than on the [underlying](../u/underlying.md) cause or fault.
 
 ### Rule E: Claims
 
@@ -30,7 +30,7 @@ Rule E outlines the procedural requirements for presenting a claim under General
 
 ### Apportionment and Settlement
 
-The York Antwerp Rules provide detailed guidelines for apportioning the loss among the different parties based on the value of each party's interest in the maritime venture. The rules specify that the apportionment should be fair and equitable, reflecting the contributions of the various parties to the overall value at risk.
+The York Antwerp Rules provide detailed guidelines for apportioning the loss among the different parties based on the [value](../v/value.md) of each party's [interest](../i/interest.md) in the maritime venture. The rules specify that the apportionment should be fair and equitable, reflecting the contributions of the various parties to the overall [value](../v/value.md) at [risk](../r/risk.md).
 
 ## Application in Modern Shipping
 
@@ -38,7 +38,7 @@ The York Antwerp Rules are integral to maritime contracts and are often cited in
 
 ### Example of Application
 
-Suppose a ship carrying multiple cargoes encounters a severe storm, leading the captain to jettison some containers overboard to stabilize the vessel. Under the York Antwerp Rules, the shipowner, along with the owners of the remaining cargo, would share the financial burden of the loss of the jettisoned containers proportionally to their interests in the voyage.
+Suppose a ship carrying [multiple](../m/multiple.md) cargoes encounters a severe storm, leading the captain to jettison some containers overboard to stabilize the vessel. Under the York Antwerp Rules, the shipowner, along with the owners of the remaining cargo, would share the financial burden of the loss of the jettisoned containers proportionally to their interests in the voyage.
 
 ## Criticisms and Limitations
 
@@ -46,6 +46,6 @@ While the York Antwerp Rules provide a comprehensive framework, they are not wit
 
 ## Conclusion
 
-The York Antwerp Rules form a cornerstone of modern maritime law, providing a robust and standardized framework for sharing losses due to extraordinary sacrifices made for the common good during maritime adventures. While they have evolved over more than a century and continue to be widely adopted, ongoing assessments and revisions are necessary to keep the rules relevant to the changing landscape of global shipping.
+The York Antwerp Rules form a cornerstone of modern [maritime law](../m/maritime_law.md), providing a [robust](../r/robust.md) and standardized framework for sharing losses due to extraordinary sacrifices made for the common good during maritime adventures. While they have evolved over more than a century and continue to be widely adopted, ongoing assessments and revisions are necessary to keep the rules relevant to the changing landscape of global shipping.
 
 For more information about the York Antwerp Rules, you can refer to the website of the Comité Maritime International (CMI), which oversees the development and administration of these rules: [CMI Official Website](https://comitemaritime.org).

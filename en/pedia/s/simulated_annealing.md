@@ -1,22 +1,22 @@
 # Simulated Annealing
 
-Simulated annealing is a probabilistic technique for approximating the global optimum of a given function. It is often used when the search space is discrete, for instance, in combinatorial optimization problems, and finds extensive application in fields such as network design, circuit layout, and most importantly, in [algorithmic trading](../a/algorithmic_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) (or "algo trading") utilizes computer algorithms to automatically make trading decisions, submitting orders, and managing trades in financial markets. 
+Simulated annealing is a probabilistic technique for approximating the global optimum of a given function. It is often used when the search space is discrete, for instance, in combinatorial [optimization](../o/optimization.md) problems, and finds extensive application in fields such as network design, circuit layout, and most importantly, in [algorithmic trading](../a/algorithmic_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) (or "algo trading") utilizes computer algorithms to automatically make trading decisions, submitting orders, and managing trades in [financial markets](../f/financial_market.md). 
 
-Simulated annealing is inspired by the physical process of annealing in metallurgy, where a material is heated to a high temperature and then gradually cooled in a controlled manner to alter its physical properties and reduce defects. Similarly, in the optimization context, simulated annealing gradually reduces the temperature of a system to minimize an objective function while allowing occasional worsening moves to escape local optima.
+Simulated annealing is inspired by the physical process of annealing in metallurgy, where a material is heated to a high temperature and then gradually cooled in a controlled manner to alter its physical properties and reduce defects. Similarly, in the [optimization](../o/optimization.md) context, simulated annealing gradually reduces the temperature of a system to minimize an objective function while allowing occasional worsening moves to escape local optima.
 
 ## Key Components of Simulated Annealing
 
 1. **Temperature Schedule (Cooling Schedule):**
-   The temperature controls the probability of accepting worse solutions as the algorithm progresses. The schedule determines how the temperature is lowered over time. A common schedule is geometric cooling, which reduces the temperature by a constant factor at each iteration.
+   The temperature controls the probability of accepting worse solutions as the algorithm progresses. The schedule determines how the temperature is lowered over time. A common schedule is geometric cooling, which reduces the temperature by a constant [factor](../f/factor.md) at each iteration.
 
 2. **Neighbourhood Function:**
-   Defines the local area in the solution space to explore. For example, in a trading strategy, a neighbourhood function may involve small tweaks to parameters such as entry and exit points or stop-loss levels.
+   Defines the local area in the solution space to explore. For example, in a [trading strategy](../t/trading_strategy.md), a neighbourhood function may involve small tweaks to parameters such as entry and exit points or stop-loss levels.
 
 3. **Acceptance Probability:**
-   Determines the likelihood of accepting a worse solution based on the difference in the cost between the current and new solutions and the current temperature. This is often managed using the Metropolis criterion, which accepts worse solutions with a probability \( \exp(-\Delta E / T) \).
+   Determines the likelihood of accepting a worse solution based on the difference in the cost between the current and new solutions and the current temperature. This is often managed using the Metropolis criterion, which accepts worse solutions with a probability \( \exp(-\[Delta](../d/delta.md) E / T) \).
 
 4. **Objective Function:**
-   The function to be minimized or maximized. In trading, this could be the [Sharpe ratio](../s/sharpe_ratio.md), total return, or another performance metric.
+   The function to be minimized or maximized. In trading, this could be the [Sharpe ratio](../s/sharpe_ratio.md), [total return](../t/total_return.md), or another performance metric.
 
 ## Steps Involved in Simulated Annealing for Algorithmic Trading
 
@@ -34,33 +34,33 @@ Simulated annealing is inspired by the physical process of annealing in metallur
 
 ## Application in Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), simulated annealing can optimize numerous trading strategy components. Here are some specific applications:
+In [algorithmic trading](../a/algorithmic_trading.md), simulated annealing can optimize numerous [trading strategy](../t/trading_strategy.md) components. Here are some specific applications:
 
 ### 1. Parameter Optimization
 
-[Trading strategies](../t/trading_strategies.md) often involve multiple parameters like moving average periods, relative strength index (RSI) thresholds, and stop-loss levels. Simulated annealing can find the optimal combination of these parameters to maximize returns or minimize risk.
+[Trading strategies](../t/trading_strategies.md) often involve [multiple](../m/multiple.md) parameters like moving average periods, [relative strength](../r/relative_strength.md) [index](../i/index.md) (RSI) thresholds, and stop-loss levels. Simulated annealing can find the optimal combination of these parameters to maximize returns or minimize [risk](../r/risk.md).
 
 ### 2. Portfolio Optimization
 
-Beyond individual strategies, it can be used to optimize [asset allocation](../a/asset_allocation.md) within a portfolio. Traditionally, the Markowitz Mean-Variance Framework is used, but simulated annealing offers a flexible alternative that can handle more complex, [non-linear optimization](../n/non-linear_optimization.md) problems.
+Beyond individual strategies, it can be used to optimize [asset allocation](../a/asset_allocation.md) within a portfolio. Traditionally, the Markowitz Mean-Variance Framework is used, but simulated annealing offers a flexible alternative that can [handle](../h/handle.md) more complex, [non-linear optimization](../n/non-linear_optimization.md) problems.
 
 ### 3. Strategy Development
 
-Simulated annealing can assist in the development of new [trading strategies](../t/trading_strategies.md) by searching for combinations of rules and conditions that best capture market inefficiencies.
+Simulated annealing can assist in the development of new [trading strategies](../t/trading_strategies.md) by searching for combinations of rules and conditions that best capture [market](../m/market.md) inefficiencies.
 
 ### 4. Algorithm Calibration
 
-Given the importance of parameter stability in live trading, simulated annealing can be employed to ensure that parameters set during training are resilient to market changes, thereby reducing overfitting.
+Given the importance of parameter stability in live trading, simulated annealing can be employed to ensure that parameters set during training are resilient to [market](../m/market.md) changes, thereby reducing [overfitting](../o/overfitting.md).
 
 ## Example: Applying Simulated Annealing to a Moving Average Crossover Strategy
 
 Let's consider a basic moving average crossover strategy where we aim to optimize the short-term and long-term moving average periods.
 
 ```python
-import numpy as np
-import pandas as pd
-from random import randint, uniform
-import yfinance as yf
+[import](../i/import.md) numpy as np
+[import](../i/import.md) pandas as pd
+from random [import](../i/import.md) randint, uniform
+[import](../i/import.md) yfinance as yf
 
 # Objective Function: Return of strategy
 def calculate_return(params, data):
@@ -70,16 +70,16 @@ def calculate_return(params, data):
     data['signal'] = 0.0
     data['signal'][short_window:] = np.where(data['short_mavg'][short_window:] > data['long_mavg'][short_window:], 1.0, 0.0)
     data['positions'] = data['signal'].diff()
-    initial_capital = float(100000.0)
-    positions = pd.DataFrame(index=data.index).fillna(0.0)
+    initial_capital = [float](../f/float.md)(100000.0)
+    positions = pd.DataFrame([index](../i/index.md)=data.[index](../i/index.md)).fillna(0.0)
     positions['AAPL'] = data['signal']
     portfolio = positions.multiply(data['Close'], axis=0)
     pos_diff = positions.diff()
-    portfolio['holdings'] = positions.multiply(data['Close'], axis=0).sum(axis=1)
+    portfolio['[holdings](../h/holdings.md)'] = positions.multiply(data['Close'], axis=0).sum(axis=1)
     portfolio['cash'] = initial_capital - (pos_diff.multiply(data['Close'], axis=0)).sum(axis=1).cumsum()
-    portfolio['total'] = portfolio['cash'] + portfolio['holdings']
+    portfolio['total'] = portfolio['cash'] + portfolio['[holdings](../h/holdings.md)']
     portfolio['returns'] = portfolio['total'].pct_change()
-    return portfolio['returns'].sum()
+    [return](../r/return.md) portfolio['returns'].sum()
 
 # Simulated Annealing
 def simulated_annealing(data, initial_temp, cooling_rate, stopping_temp, steps):
@@ -98,7 +98,7 @@ def simulated_annealing(data, initial_temp, cooling_rate, stopping_temp, steps):
 
         current_temp *= cooling_rate
     
-    return current_params
+    [return](../r/return.md) current_params
 
 ticker = 'AAPL'
 data = yf.download(ticker, start="2020-01-01", end="2023-01-01")
@@ -109,15 +109,15 @@ print("Optimized Short and Long Window Parameters:", optimized_params)
 
 In this example:
 - We download historical data for Apple (AAPL) using yfinance.
-- Define an objective function (`calculate_return`) for the moving average crossover strategy that calculates the total return.
+- Define an objective function (`calculate_return`) for the moving average crossover strategy that calculates the [total return](../t/total_return.md).
 - Implement simulated annealing (`simulated_annealing`), which optimizes the period for short and long moving averages.
-- The script attempts to find the optimal short and long moving average window periods to maximize the strategy's return.
+- The script attempts to find the optimal short and long moving average window periods to maximize the strategy's [return](../r/return.md).
 
 ## Advantages & Challenges
 
 ### Advantages:
 - **Escaping Local Optima:** Simulated annealing’s acceptance probability for worse solutions helps the algorithm escape local minima, seeking a more globally optimal solution.
-- **Flexibility:** It can handle complex [objective functions](../o/objective_functions_in_trading.md), various constraints, and multifaceted parameter spaces, making it a versatile choice for trading strategy optimization.
+- **Flexibility:** It can [handle](../h/handle.md) complex [objective functions](../o/objective_functions_in_trading.md), various constraints, and multifaceted parameter spaces, making it a versatile choice for [trading strategy](../t/trading_strategy.md) [optimization](../o/optimization.md).
 - **Simplicity:** The algorithm is relatively straightforward to implement and does not require gradient information or complex [derivatives](../d/derivatives.md).
 
 ### Challenges:
@@ -127,4 +127,4 @@ In this example:
 
 ## Conclusion
 
-Simulated annealing presents a powerful, flexible optimization tool for [algorithmic trading](../a/algorithmic_trading.md). Its ability to navigate complex and rugged landscapes of trading strategy parameters makes it a valuable method for traders seeking to optimize their [trading systems](../t/trading_systems.md). Despite its advantages, practitioners should be mindful of the computational demands and the necessity for careful tuning to fully harness the benefits of simulated annealing in their [algorithmic trading](../a/algorithmic_trading.md) endeavors.
+Simulated annealing presents a powerful, flexible [optimization](../o/optimization.md) tool for [algorithmic trading](../a/algorithmic_trading.md). Its ability to navigate complex and rugged landscapes of [trading strategy](../t/trading_strategy.md) parameters makes it a valuable method for traders seeking to optimize their [trading systems](../t/trading_systems.md). Despite its advantages, practitioners should be mindful of the computational demands and the necessity for careful tuning to fully harness the benefits of simulated annealing in their [algorithmic trading](../a/algorithmic_trading.md) endeavors.

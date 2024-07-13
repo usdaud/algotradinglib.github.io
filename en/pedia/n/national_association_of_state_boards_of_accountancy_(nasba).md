@@ -1,23 +1,23 @@
 # National Association of State Boards of Accountancy (NASBA)
 
-The **National Association of State Boards of Accountancy (NASBA)** is a nonprofit organization that serves as a forum for the 55 U.S. boards of accountancy. Established in 1908, NASBA's primary mission is to enhance the effectiveness and advance the common interests of the boards of accountancy. The organization is based in Nashville, Tennessee, and plays a crucial role in the accounting profession by assisting boards in their regulatory responsibilities, including licensing, education, and enforcement.
+The **National Association of State Boards of Accountancy (NASBA)** is a nonprofit organization that serves as a forum for the 55 U.S. boards of accountancy. Established in 1908, NASBA's primary mission is to enhance the effectiveness and advance the common interests of the boards of accountancy. The organization is based in Nashville, Tennessee, and plays a crucial role in the [accounting](../a/accounting.md) profession by assisting boards in their regulatory responsibilities, including licensing, education, and enforcement.
 
 ## Overview
 
-NASBA provides a variety of services to state boards of accountancy, accountants, and accounting students. These services include the administration of the Uniform CPA Examination, licensing and education assistance, and the provision of resources for regulatory enforcement and professional development.
+NASBA provides a variety of services to state boards of accountancy, accountants, and [accounting](../a/accounting.md) students. These services include the administration of the Uniform CPA Examination, licensing and education assistance, and the [provision](../p/provision.md) of resources for regulatory enforcement and professional development.
 
 ## Core Functions
 
 ### 1. **Uniform CPA Examination**
 
-NASBA, in partnership with the American Institute of Certified Public Accountants (AICPA) and Prometric, administers the Uniform CPA Examination. The exam is a critical component for licensure as a Certified Public Accountant (CPA) in the United States. The examination assesses knowledge and skills essential for entry-level CPAs and is divided into four sections:
+NASBA, in partnership with the American Institute of Certified Public Accountants (AICPA) and Prometric, administers the Uniform CPA Examination. The exam is a critical component for licensure as a Certified Public [Accountant](../a/accountant.md) (CPA) in the United States. The examination assesses knowledge and skills essential for entry-level CPAs and is divided into four sections:
 
 - **Auditing and Attestation (AUD)**
-- **Business Environment and Concepts (BEC)**
-- **Financial Accounting and Reporting (FAR)**
+- **[Business](../b/business.md) Environment and Concepts (BEC)**
+- **[Financial Accounting](../f/financial_accounting.md) and Reporting (FAR)**
 - **Regulation (REG)**
 
-Each section of the exam includes a mix of multiple-choice questions, task-based simulations, and written communication tasks, designed to test both technical competence and analytical abilities.
+Each section of the exam includes a mix of [multiple](../m/multiple.md)-choice questions, task-based simulations, and written communication tasks, designed to test both technical competence and analytical abilities.
 
 ### 2. **Licensing and Credentialing**
 
@@ -29,7 +29,7 @@ NASBA offers a comprehensive suite of licensing services designed to assist stat
 
 ### 3. **Education and Continuing Professional Education (CPE)**
 
-NASBA also plays a vital role in the ongoing education of CPAs, ensuring that practitioners maintain competence and keep up with industry developments. Key services include:
+NASBA also plays a vital role in the ongoing education of CPAs, ensuring that practitioners maintain competence and keep up with [industry](../i/industry.md) developments. Key services include:
 
 - **National Registry of CPE Sponsors:** A program that recognizes CPE providers in compliance with nationally accepted standards.
 - **CPE Audit Service:** Assisting boards with the auditing of CPE compliance.
@@ -37,18 +37,18 @@ NASBA also plays a vital role in the ongoing education of CPAs, ensuring that pr
 
 ### 4. **Enforcement and Regulations**
 
-NASBA supports state boards in their regulatory and enforcement activities to uphold the integrity of the profession. This includes:
+NASBA supports state boards in their regulatory and enforcement activities to [uphold](../u/uphold.md) the integrity of the profession. This includes:
 
-- **Accountancy Licensee Database (ALD):** A centralized database of licensed accounting professionals to assist in regulatory compliance and enforcement.
+- **Accountancy [Licensee](../l/licensee.md) Database (ALD):** A centralized database of licensed [accounting](../a/accounting.md) professionals to assist in regulatory compliance and enforcement.
 - **CPAverify:** A free service for the public to confirm the license status and disciplinary history of CPAs.
 
 ## Governance and Structure
 
-NASBA's structure is composed of various committees and task forces, each dedicated to addressing specific areas of interest or concern within the profession. The overall governance includes a Board of Directors, President, and various Vice Presidents overseeing distinct operational areas such as Examination, Licensing, and Regulation.
+NASBA's structure is composed of various committees and task forces, each dedicated to addressing specific areas of [interest](../i/interest.md) or concern within the profession. The overall governance includes a Board of Directors, President, and various Vice Presidents overseeing distinct operational areas such as Examination, Licensing, and Regulation.
 
 ### Board of Directors and Executive Leadership
 
-The NASBA Board of Directors includes representatives from the different state boards, ensuring diverse and inclusive governance that reflects the broad landscape of the profession across the U.S. Executive leadership includes the President and CEO, who are responsible for the day-to-day management and execution of NASBA's strategic goals.
+The NASBA Board of Directors includes representatives from the different state boards, ensuring diverse and inclusive governance that reflects the broad landscape of the profession across the U.S. Executive [leadership](../l/leadership.md) includes the President and CEO, who are responsible for the day-to-day management and [execution](../e/execution.md) of NASBA's strategic goals.
 
 ## Innovation and Technology
 
@@ -62,6 +62,6 @@ The transition to an online portal for CPA examination services has streamlined 
 
 ## Conclusion
 
-The National Association of State Boards of Accountancy (NASBA) plays an indispensable role in the regulatory landscape of the accounting profession in the United States. By facilitating the Uniform CPA Examination, aiding in licensing and credentialing, supporting continuous education, and enhancing enforcement and regulation, NASBA ensures the ongoing competence and integrity of the accounting profession. This helps maintain public trust and upholds the quality of financial reporting and auditing, which are critical to the functioning of capital markets and the economy.
+The National Association of State Boards of Accountancy (NASBA) plays an indispensable role in the regulatory landscape of the [accounting](../a/accounting.md) profession in the United States. By facilitating the Uniform CPA Examination, aiding in licensing and credentialing, supporting continuous education, and enhancing enforcement and regulation, NASBA ensures the ongoing competence and integrity of the [accounting](../a/accounting.md) profession. This helps maintain public [trust](../t/trust.md) and upholds the quality of financial reporting and auditing, which are critical to the functioning of [capital markets](../c/capital_markets.md) and the [economy](../e/economy.md).
 
 For more information on NASBA and its services, visit their [official website](https://www.nasba.org/).

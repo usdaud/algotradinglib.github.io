@@ -1,6 +1,6 @@
 # Kanban
 
-Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are visualized to give participants a view of progress and process, from start to finish—usually via a Kanban board. It is widely embraced for its ability to improve workflow efficiency and ensure a continuous delivery pipeline. 
+Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full [transparency](../t/transparency.md) of work. Work items are visualized to give participants a view of progress and process, from start to finish—usually via a Kanban board. It is widely embraced for its ability to improve workflow [efficiency](../e/efficiency.md) and ensure a continuous delivery pipeline. 
 
 ## Key Concepts of Kanban
 
@@ -10,19 +10,19 @@ One of the core principles of Kanban is the visualization of work. This is typic
 
 ### Limiting Work in Progress (WIP)
 
-Kanban introduces the concept of limiting work in progress (WIP). This means that only a certain number of tasks can be actively worked on at any given time. Limiting WIP highlights bottlenecks and inefficiencies in workflow. By managing task workload and reducing multitasking, Kanban enhances overall productivity and helps maintain focus on the highest priority tasks.
+Kanban introduces the concept of limiting work in progress (WIP). This means that only a certain number of tasks can be actively worked on at any given time. Limiting WIP highlights bottlenecks and inefficiencies in workflow. By managing task workload and reducing multitasking, Kanban enhances overall [productivity](../p/productivity.md) and helps maintain focus on the highest priority tasks.
 
 ### Flow Management
 
-Flow management is about ensuring a smooth progression of tasks through the various stages of the workflow. It’s about sustaining a steady, predictable flow of work items from start to finish, thus minimizing wait times and bottlenecks. Flow can be measured using metrics like cycle time, lead time, and throughput.
+Flow management is about ensuring a smooth progression of tasks through the various stages of the workflow. It’s about sustaining a steady, predictable flow of work items from start to finish, thus minimizing wait times and bottlenecks. Flow can be measured using metrics like cycle time, [lead time](../l/lead_time.md), and [throughput](../t/throughput.md).
 
 ### Continuous Improvement
 
-Another key tenet of Kanban is continuous improvement, often referred to using the Japanese term "Kaizen." Teams are encouraged to consistently scrutinize their processes and workflows to identify areas of inefficiency and opportunities for enhancement. This may involve regular retrospectives or review meetings to reflect on what went well, what didn't, and how the process can be improved moving forward.
+Another key tenet of Kanban is continuous improvement, often referred to using the Japanese term "[Kaizen](../k/kaizen.md)." Teams are encouraged to consistently scrutinize their processes and workflows to identify areas of inefficiency and opportunities for enhancement. This may involve regular retrospectives or review meetings to reflect on what went well, what didn't, and how the process can be improved moving forward.
 
 ### Feedback Loops
 
-Feedback loops are an essential part of the Kanban method. Regular reviews of performance using metrics such as lead time, cycle time, and throughput help teams understand their efficiency and areas needing improvement. Moreover, daily stand-up meetings and periodic retrospectives help teams stay aligned on project goals, share updates, and resolve any blockers promptly.
+[Feedback loops](../f/feedback_loops_in_trading.md) are an essential part of the Kanban method. Regular reviews of performance using metrics such as [lead time](../l/lead_time.md), cycle time, and [throughput](../t/throughput.md) help teams understand their [efficiency](../e/efficiency.md) and areas needing improvement. Moreover, daily stand-up meetings and periodic retrospectives help teams stay aligned on project goals, share updates, and resolve any blockers promptly.
 
 ## Core Practices of Kanban
 
@@ -44,11 +44,11 @@ For successful implementation of Kanban, it’s essential to have clear and shar
 
 ### Implement Feedback Loops
 
-To ensure continuous improvement, regular feedback is critical. This can happen through daily stand-up meetings for immediate issue resolution and longer retrospectives for in-depth process reviews.
+To ensure continuous improvement, regular feedback is critical. This can happen through daily stand-up meetings for immediate [issue](../i/issue.md) resolution and longer retrospectives for in-depth process reviews.
 
 ### Improve Collaboratively
 
-Using the scientific method, teams are encouraged to hypothesize, validate, and implement changes aimed at improving workflow efficiency. This approach nurtures a culture of continuous learning and incremental improvement.
+Using the scientific method, teams are encouraged to hypothesize, validate, and implement changes aimed at improving workflow [efficiency](../e/efficiency.md). This approach nurtures a culture of continuous learning and incremental improvement.
 
 ## Kanban Tools and Software
 
@@ -60,11 +60,11 @@ Trello is a widely-used, flexible tool for visualizing project tasks in the form
 
 ### Jira Software
 
-Jira by Atlassian offers robust Kanban board features tailored towards software development teams. It provides extensive customization capabilities, integrates with many other tools, and offers robust reporting features. More details can be found on [Atlassian's Jira page](https://www.atlassian.com/software/jira).
+Jira by Atlassian offers [robust](../r/robust.md) Kanban board features tailored towards software development teams. It provides extensive customization capabilities, integrates with many other tools, and offers [robust](../r/robust.md) reporting features. More details can be found on [Atlassian's Jira page](https://www.atlassian.com/software/jira).
 
 ### Asana
 
-Asana is another powerful tool for project management that includes Kanban board functionality. It helps teams organize, track, and manage their work with ease. For more information, visit [Asana's official website](https://asana.com/).
+Asana is another powerful tool for [project management](../p/project_management.md) that includes Kanban board functionality. It helps teams organize, track, and manage their work with ease. For more information, visit [Asana's official website](https://asana.com/).
 
 ### Kanbanize
 
@@ -72,7 +72,7 @@ Kanbanize is designed specifically for Kanban and Lean management. It combines K
 
 ### Monday.com
 
-Monday.com is another versatile project management tool that supports Kanban boards among other project views. It is customizable and suitable for various industries and team sizes. For more details, check out [Monday.com's official site](https://monday.com/).
+Monday.com is another versatile [project management](../p/project_management.md) tool that supports Kanban boards among other project views. It is customizable and suitable for various industries and team sizes. For more details, [check](../c/check.md) out [Monday.com's official site](https://monday.com/).
 
 ## Applications and Use Cases of Kanban
 
@@ -82,11 +82,11 @@ In software development, Kanban is often used to manage the flow of tasks throug
 
 ### Manufacturing
 
-Kanban originated in manufacturing, particularly from the Toyota Production System, to manage inventory levels and improve production efficiency. It helps in synchronizing supply with production usage and optimizing stock levels to reduce waste.
+Kanban originated in [manufacturing](../m/manufacturing.md), particularly from the Toyota Production System, to manage [inventory](../i/inventory.md) levels and improve [production efficiency](../p/production_efficiency.md). It helps in synchronizing [supply](../s/supply.md) with production usage and optimizing stock levels to reduce waste.
 
 ### Marketing
 
-Marketing teams use Kanban to manage campaigns, content creation, and other tasks. By visualizing the workflow and limiting WIP, they can optimize their work processes and deliver more consistent results.
+[Marketing](../m/marketing.md) teams use Kanban to manage campaigns, content creation, and other tasks. By visualizing the workflow and limiting WIP, they can optimize their work processes and deliver more consistent results.
 
 ### Human Resources
 
@@ -104,11 +104,11 @@ Microsoft's IT division adopted Kanban for software development to address chall
 
 ### Spotify’s Kanban Adoption
 
-Spotify applied Kanban to its internal engineering teams to manage workflow better and ensure a steady delivery stream. By implementing Kanban principles and regularly reviewing and adjusting their work processes, the teams were able to enhance productivity and collaboration.
+Spotify applied Kanban to its internal engineering teams to manage workflow better and ensure a steady delivery stream. By implementing Kanban principles and regularly reviewing and adjusting their work processes, the teams were able to enhance [productivity](../p/productivity.md) and collaboration.
 
 ### Zara’s Inventory Management
 
-The fashion retailer Zara uses Kanban to manage inventory and new product design. By connecting the demand directly to production, Zara can maintain minimal inventory levels and respond quickly to market trends.
+The fashion retailer Zara uses Kanban to manage [inventory](../i/inventory.md) and new product design. By connecting the [demand](../d/demand.md) directly to production, Zara can maintain minimal [inventory](../i/inventory.md) levels and respond quickly to [market](../m/market.md) trends.
 
 ### Patient Care in Hospitals
 
@@ -118,15 +118,15 @@ Some hospitals have adopted Kanban to streamline their patient care processes. B
 
 ### Resistance to Change
 
-One of the common challenges with implementing Kanban is resistance to change. Teams and organizations used to traditional project management methods might find it difficult to adapt to a continuous flow model.
+One of the common challenges with implementing Kanban is resistance to change. Teams and organizations used to traditional [project management](../p/project_management.md) methods might find it difficult to adapt to a continuous flow model.
 
 ### Overemphasis on Process
 
-Teams focusing too much on the Kanban process itself might lose sight of the end goal—delivering value. It’s crucial to balance process improvements with value delivery.
+Teams focusing too much on the Kanban process itself might lose sight of the end goal—delivering [value](../v/value.md). It’s crucial to balance process improvements with [value](../v/value.md) delivery.
 
 ### Complexity with Scaling
 
-While Kanban works well for individual teams, scaling it across multiple teams or departments can be complex. It can be challenging to maintain consistency and coordination when scaling Kanban.
+While Kanban works well for individual teams, scaling it across [multiple](../m/multiple.md) teams or departments can be complex. It can be challenging to maintain consistency and coordination when scaling Kanban.
 
 ### Tool Limitations
 
@@ -134,10 +134,10 @@ Although many tools support Kanban, they might have limitations based on specifi
 
 ### Limited Guidance
 
-Kanban is less prescriptive compared to other agile methodologies like Scrum. This might lead to confusion, especially for teams new to agile practices, as they have less guidance on how to start and what specific practices to implement.
+Kanban is less prescriptive compared to other agile methodologies like Scrum. This might lead to confusion, especially for teams new to agile practices, as they have less [guidance](../g/guidance.md) on how to start and what specific practices to implement.
 
 ## Conclusion
 
-Kanban is a versatile and powerful method for managing and improving work processes. By visualizing workflows, limiting work in progress, managing flow, and emphasizing continuous improvement, Kanban helps teams achieve better efficiency, productivity, and quality in their work. Despite its challenges, when implemented well, Kanban can bring substantial benefits to various domains, from software development to manufacturing and beyond.
+Kanban is a versatile and powerful method for managing and improving work processes. By visualizing workflows, limiting work in progress, managing flow, and emphasizing continuous improvement, Kanban helps teams achieve better [efficiency](../e/efficiency.md), [productivity](../p/productivity.md), and quality in their work. Despite its challenges, when implemented well, Kanban can bring substantial benefits to various domains, from software development to [manufacturing](../m/manufacturing.md) and beyond.
 
 Through a combination of visualization tools like Trello, Jira, Asana, and more, teams can effectively implement Kanban strategies and continuously refine their processes for optimal performance.

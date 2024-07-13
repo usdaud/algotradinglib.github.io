@@ -1,6 +1,6 @@
 # Swap
 
-A swap is a derivative financial instrument in which two parties agree to exchange cash flows or other financial instruments over a specified period of time. Swaps are widely used to manage risk, speculate, or achieve a desired financial position. They are commonly utilized in financial markets for hedging, income generation, and achieving more favorable loan terms.
+A swap is a [derivative](../d/derivative.md) [financial instrument](../f/financial_instrument.md) in which two parties agree to [exchange](../e/exchange.md) cash flows or other financial instruments over a specified period of time. Swaps are widely used to manage [risk](../r/risk.md), speculate, or achieve a desired financial position. They are commonly utilized in [financial markets](../f/financial_market.md) for hedging, [income](../i/income.md) generation, and achieving more favorable [loan](../l/loan.md) terms.
 
 ## Types of Swaps
 
@@ -8,80 +8,80 @@ Swaps come in various forms, with the most common ones being:
 
 ### 1. Interest Rate Swaps
 
-Interest rate swaps are the most widely known type of swap. In an interest rate swap, two parties agree to exchange interest rate payments on a specified principal amount (notional principal) over a certain period. There are two main forms of interest rate swaps:
+[Interest rate swaps](../i/interest_rate_swaps.md) are the most widely known type of swap. In an [interest rate swap](../i/interest_rate_swap.md), two parties agree to [exchange](../e/exchange.md) [interest rate](../i/interest_rate.md) payments on a specified [principal](../p/principal.md) amount (notional [principal](../p/principal.md)) over a certain period. There are two main forms of [interest rate swaps](../i/interest_rate_swaps.md):
 
-- **Fixed-for-Floating Swaps:** In this type, one party pays a fixed interest rate while the other pays a floating interest rate, typically based on a benchmark like LIBOR. This kind of swap is often used by companies to hedge against interest rate fluctuations.
-- **Floating-for-Floating Swaps (Basis Swaps):** Both parties exchange different floating interest rates. These swaps usually occur between two different floating benchmarks.
+- **Fixed-for-Floating Swaps:** In this type, one party pays a [fixed interest rate](../f/fixed_interest_rate.md) while the other pays a [floating interest rate](../f/floating_interest_rate.md), typically based on a [benchmark](../b/benchmark.md) like LIBOR. This kind of swap is often used by companies to [hedge](../h/hedge.md) against [interest rate](../i/interest_rate.md) fluctuations.
+- **Floating-for-Floating Swaps ([Basis](../b/basis.md) Swaps):** Both parties [exchange](../e/exchange.md) different floating [interest](../i/interest.md) rates. These swaps usually occur between two different floating benchmarks.
 
 ### 2. Currency Swaps
 
-Currency swaps involve the exchange of principal and interest payments in one currency for principal and interest payments in another currency. These swaps are used to hedge against the risk of exchange rate fluctuations, engage in arbitrage, or facilitate loans in foreign currencies. 
+[Currency](../c/currency.md) swaps involve the [exchange](../e/exchange.md) of [principal](../p/principal.md) and [interest](../i/interest.md) payments in one [currency](../c/currency.md) for [principal](../p/principal.md) and [interest](../i/interest.md) payments in another [currency](../c/currency.md). These swaps are used to [hedge](../h/hedge.md) against the [risk](../r/risk.md) of [exchange rate](../e/exchange_rate.md) fluctuations, engage in [arbitrage](../a/arbitrage.md), or facilitate loans in foreign currencies. 
 
-- **Fixed-for-Floating Currency Swaps:** This involves exchanging fixed interest payments in one currency for floating interest payments in another currency.
-- **Fixed-for-Fixed Currency Swaps:** Both parties exchange fixed interest payments but in different currencies.
-- **Floating-for-Floating Currency Swaps:** Both parties exchange floating interest payments in different currencies.
+- **Fixed-for-Floating [Currency](../c/currency.md) Swaps:** This involves exchanging fixed [interest](../i/interest.md) payments in one [currency](../c/currency.md) for floating [interest](../i/interest.md) payments in another [currency](../c/currency.md).
+- **Fixed-for-Fixed [Currency](../c/currency.md) Swaps:** Both parties [exchange](../e/exchange.md) fixed [interest](../i/interest.md) payments but in different currencies.
+- **Floating-for-Floating [Currency](../c/currency.md) Swaps:** Both parties [exchange](../e/exchange.md) floating [interest](../i/interest.md) payments in different currencies.
 
 ### 3. Commodity Swaps
 
-Commodity swaps involve the exchange of cash flows based on the price of a commodity, such as oil, gold, or agricultural products. They are often used by producers and consumers of commodities to manage price risk. 
+[Commodity](../c/commodity.md) swaps involve the [exchange](../e/exchange.md) of cash flows based on the price of a [commodity](../c/commodity.md), such as oil, gold, or agricultural products. They are often used by producers and consumers of commodities to manage price [risk](../r/risk.md). 
 
-- **Fixed-for-Floating Commodity Swaps:** One party pays a fixed price for the commodity, while the other pays a price that fluctuates based on market conditions.
+- **Fixed-for-Floating [Commodity](../c/commodity.md) Swaps:** One party pays a fixed price for the [commodity](../c/commodity.md), while the other pays a price that fluctuates based on [market](../m/market.md) conditions.
 
 ### 4. Equity Swaps
 
-Equity swaps involve the exchange of cash flows based on the performance of an equity index or individual stocks. They provide a way to gain exposure to equity markets without directly owning the underlying stocks. 
+[Equity](../e/equity.md) swaps involve the [exchange](../e/exchange.md) of cash flows based on the performance of an [equity](../e/equity.md) [index](../i/index.md) or individual [stocks](../s/stock.md). They provide a way to [gain](../g/gain.md) exposure to [equity](../e/equity.md) markets without directly owning the [underlying](../u/underlying.md) [stocks](../s/stock.md). 
 
-- **Total Return Swaps:** One party receives the total return on an equity index or individual stock, including dividends and capital gains, while the other party pays a fixed or floating rate.
+- **[Total Return](../t/total_return.md) Swaps:** One party receives the [total return](../t/total_return.md) on an [equity](../e/equity.md) [index](../i/index.md) or individual stock, including dividends and [capital](../c/capital.md) gains, while the other party pays a fixed or floating rate.
 
 ### 5. Credit Default Swaps (CDS)
 
-A credit default swap is a contract in which one party pays a periodic fee in exchange for compensation in the event of a default or credit event related to a specified reference entity (such as a corporation or government). CDS are used to hedge credit risk or to speculate on the creditworthiness of the reference entity.
+A [credit](../c/credit.md) [default](../d/default.md) swap is a contract in which one party pays a periodic [fee](../f/fee.md) in [exchange](../e/exchange.md) for compensation in the event of a [default](../d/default.md) or [credit](../c/credit.md) event related to a specified reference entity (such as a [corporation](../c/corporation.md) or government). CDS are used to [hedge](../h/hedge.md) [credit risk](../c/credit_risk.md) or to speculate on the [creditworthiness](../c/creditworthiness.md) of the reference entity.
 
 ## Mechanics of a Swap
 
 Swaps generally involve the following key components:
 
-- **Notional Principal:** The amount on which the exchanged cash flows are based, also known as the notional amount. This amount is typically not exchanged between the parties and serves only as a reference for calculating payments.
-- **Payment Dates:** The specific dates on which the cash flows are exchanged.
-- **Maturity Date:** The final date on which the last payment is made, and the swap contract concludes.
+- **Notional [Principal](../p/principal.md):** The amount on which the exchanged cash flows are based, also known as the notional amount. This amount is typically not exchanged between the parties and serves only as a reference for calculating payments.
+- **[Payment](../p/payment.md) Dates:** The specific dates on which the cash flows are exchanged.
+- **[Maturity Date](../m/maturity_date.md):** The final date on which the last [payment](../p/payment.md) is made, and the swap contract concludes.
 - **Fixed Rate or Price:** In fixed-for-floating swaps, this is the predetermined rate or price agreed upon by the parties.
-- **Floating Rate or Price:** In floating-for-floating swaps, this is the rate or price that changes based on an agreed-upon index or benchmark.
+- **Floating Rate or Price:** In floating-for-floating swaps, this is the rate or price that changes based on an agreed-upon [index](../i/index.md) or [benchmark](../b/benchmark.md).
 
 ## Applications of Swaps
 
 ### 1. Risk Management
 
-Swaps are commonly used to hedge various types of financial risks. For example:
+Swaps are commonly used to [hedge](../h/hedge.md) various types of financial risks. For example:
 
-- **Interest Rate Risk:** Companies with floating-rate debt might use interest rate swaps to exchange floating payments for fixed payments, thereby locking in predictable interest costs.
-- **Currency Risk:** Firms with exposure to foreign currencies can use currency swaps to manage exchange rate fluctuations.
-- **Commodity Price Risk:** Producers or consumers of commodities can use swaps to stabilize cash flows by locking in prices.
+- **[Interest Rate Risk](../i/interest_rate_risk.md):** Companies with floating-rate [debt](../d/debt.md) might use [interest rate swaps](../i/interest_rate_swaps.md) to [exchange](../e/exchange.md) floating payments for fixed payments, thereby locking in predictable [interest](../i/interest.md) costs.
+- **[Currency](../c/currency.md) [Risk](../r/risk.md):** Firms with exposure to foreign currencies can use [currency](../c/currency.md) swaps to manage [exchange rate](../e/exchange_rate.md) fluctuations.
+- **[Commodity](../c/commodity.md) Price [Risk](../r/risk.md):** Producers or consumers of commodities can use swaps to stabilize cash flows by locking in prices.
 
 ### 2. Speculation
 
-Investors may use swaps to speculate on movements in interest rates, exchange rates, commodity prices, or the performance of equity indices. Speculative use of swaps can potentially offer high rewards but also comes with significant risk.
+Investors may use swaps to speculate on movements in [interest](../i/interest.md) rates, [exchange](../e/exchange.md) rates, [commodity](../c/commodity.md) prices, or the performance of [equity](../e/equity.md) indices. Speculative use of swaps can potentially [offer](../o/offer.md) high rewards but also comes with significant [risk](../r/risk.md).
 
 ### 3. Arbitrage
 
-Arbitrage opportunities arise when there is a price discrepancy between different markets. Traders can use swaps to exploit these discrepancies and earn a risk-free profit. For example, in currency swaps, an arbitrageur might lock in a favorable exchange rate difference between two currencies.
+[Arbitrage opportunities](../a/arbitrage_opportunities.md) arise when there is a price discrepancy between different markets. Traders can use swaps to exploit these discrepancies and earn a [risk](../r/risk.md)-free [profit](../p/profit.md). For example, in [currency](../c/currency.md) swaps, an [arbitrageur](../a/arbitrageur.md) might lock in a favorable [exchange rate](../e/exchange_rate.md) difference between two currencies.
 
 ### 4. Achieving Desired Financial Positions
 
-Swaps can help entities align their financial positions with their goals. For example, a corporation with debt in one currency but revenue in another might use a currency swap to better match its cash flows.
+Swaps can help entities align their financial positions with their goals. For example, a [corporation](../c/corporation.md) with [debt](../d/debt.md) in one [currency](../c/currency.md) but [revenue](../r/revenue.md) in another might use a [currency swap](../c/currency_swap.md) to better match its cash flows.
 
 ## Key Considerations and Risks
 
 ### 1. Counterparty Risk
 
-The risk that the other party in the swap agreement may default on their obligations. This risk is particularly significant in OTC (Over-The-Counter) swaps, where there is no centralized clearinghouse.
+The [risk](../r/risk.md) that the other party in the swap agreement may [default](../d/default.md) on their [obligations](../o/obligation.md). This [risk](../r/risk.md) is particularly significant in OTC (Over-The-Counter) swaps, where there is no centralized clearinghouse.
 
 ### 2. Market Risk
 
-The risk of adverse movements in market variables such as interest rates, exchange rates, or commodity prices, which can impact the value of the swap.
+The [risk](../r/risk.md) of adverse movements in [market](../m/market.md) variables such as [interest](../i/interest.md) rates, [exchange](../e/exchange.md) rates, or [commodity](../c/commodity.md) prices, which can impact the [value](../v/value.md) of the swap.
 
 ### 3. Liquidity Risk
 
-The risk that a party may not be able to easily exit or offset the swap position due to a lack of market liquidity.
+The [risk](../r/risk.md) that a party may not be able to easily exit or [offset](../o/offset.md) the swap position due to a lack of [market](../m/market.md) [liquidity](../l/liquidity.md).
 
 ### 4. Legal and Regulatory Risk
 
@@ -89,8 +89,8 @@ Swaps are subject to legal and regulatory oversight, which can vary by jurisdict
 
 ### 5. Complexity and Valuation
 
-Swaps can be complex financial instruments, and their valuation often requires sophisticated modeling and risk management tools. Misvaluation or misunderstanding of the terms can lead to significant financial losses.
+Swaps can be complex financial instruments, and their [valuation](../v/valuation.md) often requires sophisticated modeling and [risk management](../r/risk_management.md) tools. Misvaluation or misunderstanding of the terms can lead to significant financial losses.
 
 ## Conclusion
 
-Swaps are versatile financial instruments that play a pivotal role in modern financial markets. They provide essential tools for managing risk, achieving financial goals, and facilitating market efficiency. However, their complexity and associated risks necessitate careful consideration and robust risk management practices by those who utilize them. For those looking to delve deeper into the world of swaps, comprehensive resources and expert advice can be invaluable in navigating this intricate landscape.
+Swaps are versatile financial instruments that play a pivotal role in modern [financial markets](../f/financial_market.md). They provide essential tools for managing [risk](../r/risk.md), achieving financial goals, and facilitating [market efficiency](../m/market_efficiency.md). However, their complexity and associated risks necessitate careful consideration and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices by those who utilize them. For those looking to delve deeper into the world of swaps, comprehensive resources and expert advice can be invaluable in navigating this intricate landscape.

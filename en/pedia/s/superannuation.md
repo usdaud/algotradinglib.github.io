@@ -1,12 +1,12 @@
 # Superannuation
 
-Superannuation, often abbreviated as "super," refers to the arrangement in several countries where individuals accumulate funds during their working life to provide them with income upon retirement. The concept is most deeply rooted in countries like Australia, where it is a legal requirement for employers to make contributions to a superannuation fund for their employees. This fund is invested over the years and grows to provide financial security in retirement. Below, we will explore the intricacies of superannuation, including its history, structure, regulations, investment strategies, tax implications, and its role in financial planning.
+Superannuation, often abbreviated as "super," refers to the arrangement in several countries where individuals accumulate funds during their working life to provide them with [income](../i/income.md) upon retirement. The concept is most deeply rooted in countries like Australia, where it is a legal requirement for employers to make contributions to a superannuation [fund](../f/fund.md) for their employees. This [fund](../f/fund.md) is invested over the years and grows to provide financial [security](../s/security.md) in retirement. Below, we [will](../w/will.md) explore the intricacies of superannuation, including its history, structure, regulations, investment strategies, tax implications, and its role in [financial planning](../f/financial_planning.md).
 
 ## History and Evolution
 
 ### Origins of Superannuation
 
-Superannuation traces its origins to pension systems, which have existed for hundreds of years. The first forms of pension-like structures can be found in ancient Rome, where soldiers were promised a retirement benefit. However, modern superannuation, as we know it, began to take shape in the 19th and 20th centuries alongside the industrial revolution and the establishment of more structured employment conditions.
+Superannuation traces its origins to pension systems, which have existed for hundreds of years. The first forms of pension-like structures can be found in ancient Rome, where soldiers were promised a retirement benefit. However, modern superannuation, as we know it, began to take shape in the 19th and 20th centuries alongside the [industrial revolution](../i/industrial_revolution.md) and the establishment of more structured employment conditions.
 
 ### Evolution in Australia
 
@@ -15,33 +15,33 @@ Australia is a flagship example of evolved superannuation systems. The Australia
 - **1983**: Establishment of superannuation as a mandatory retirement savings scheme.
 - **1992**: Introduction of the Superannuation Guarantee (SG) which mandated employer contributions to super funds.
   
-The Superannuation Guarantee initially required employers to contribute 3% of an employee's earnings to their super fund, a rate that has gradually increased over the years.
+The Superannuation Guarantee initially required employers to contribute 3% of an employee's [earnings](../e/earnings.md) to their super [fund](../f/fund.md), a rate that has gradually increased over the years.
 
 ## Structure of Superannuation
 
 ### Employer Contributions
 
-Mandatory employer contributions in Australia are currently set at 10.5% of an employee's ordinary time earnings (as of 2023). These contributions are deposited into superannuation funds, which can be managed by various entities including industry funds, retail funds, and self-managed super funds (SMSFs).
+Mandatory employer contributions in Australia are currently set at 10.5% of an employee's ordinary time [earnings](../e/earnings.md) (as of 2023). These contributions are deposited into superannuation funds, which can be managed by various entities including [industry](../i/industry.md) funds, retail funds, and self-managed super funds (SMSFs).
 
 ### Voluntary Contributions
 
-In addition to employer contributions, individuals can make voluntary contributions to their superannuation funds. These can be pre-tax contributions (salary sacrificing) or post-tax contributions. Voluntary contributions can significantly enhance the retirement corpus due to the compounding effect over time.
+In addition to employer contributions, individuals can make voluntary contributions to their superannuation funds. These can be pre-tax contributions (salary sacrificing) or post-tax contributions. Voluntary contributions can significantly enhance the retirement corpus due to the [compounding](../c/compounding.md) effect over time.
 
 ### Superannuation Funds
 
 Superannuation funds are responsible for the management and investment of contributions made. They fall into several categories:
-- **Industry Funds**: Typically not-for-profit funds managed by industry groups.
-- **Retail Funds**: Operated by financial institutions and open to the public, often generating profit for shareholders.
+- **[Industry](../i/industry.md) Funds**: Typically not-for-[profit](../p/profit.md) funds managed by [industry](../i/industry.md) groups.
+- **Retail Funds**: Operated by financial institutions and [open](../o/open.md) to the public, often generating [profit](../p/profit.md) for shareholders.
 - **Corporate Funds**: Established by companies for their employees.
 - **Public Sector Funds**: Operated for government employees.
 - **Self-Managed Super Funds (SMSFs)**: Funds managed by individuals; allows more control over investments but comes with greater responsibility and regulatory requirements.
 
 ### Investment Options
 
-Superannuation funds offer various investment options to match the risk profiles and preferences of members. Common investment strategies include:
-- **Growth**: Higher risk with potential for higher returns, typically involving a larger allocation to equities.
+Superannuation funds [offer](../o/offer.md) various investment [options](../o/options.md) to match the [risk profiles](../r/risk_profiles.md) and preferences of members. Common investment strategies include:
+- **Growth**: Higher [risk](../r/risk.md) with potential for higher returns, typically involving a larger allocation to equities.
 - **Balanced**: Mix of growth and defensive assets.
-- **Conservative**: Lower risk with a focus on capital preservation, typically involving bonds and cash.
+- **Conservative**: Lower [risk](../r/risk.md) with a focus on [capital preservation](../c/capital_preservation.md), typically involving bonds and cash.
 - **Ethical**: Investments in socially responsible and sustainable companies.
 
 ## Tax Implications
@@ -49,32 +49,32 @@ Superannuation funds offer various investment options to match the risk profiles
 ### Contributions
 
 There are favorable tax treatments for superannuation contributions:
-- **Concessional (Pre-Tax) Contributions**: Employer contributions and salary-sacrificed amounts up to a cap are taxed at a concessional rate of 15%, which can be advantageous compared to the marginal tax rate.
-- **Non-Concessional (Post-Tax) Contributions**: These are not taxed within the fund but are subject to caps to limit tax advantages.
+- **Concessional (Pre-Tax) Contributions**: Employer contributions and salary-sacrificed amounts up to a cap are taxed at a concessional rate of 15%, which can be advantageous compared to the [marginal tax rate](../m/marginal_tax_rate.md).
+- **Non-Concessional (Post-Tax) Contributions**: These are not taxed within the [fund](../f/fund.md) but are subject to caps to limit tax advantages.
 
 ### Investment Earnings
 
-Income generated by investments within superannuation funds is taxed at 15%. However, this tax rate can be effectively lower due to tax credits and other concessions.
+[Income](../i/income.md) generated by investments within superannuation funds is taxed at 15%. However, this [tax rate](../t/tax_rate.md) can be effectively lower due to tax credits and other concessions.
 
 ### Withdrawals
 
 Withdrawals from superannuation are subject to specific rules:
-- **Before Retirement**: Severe restrictions and taxes apply to discourage early withdrawal.
-- **Post-Retirement**: Withdrawals made after meeting preservation age (usually around 60) and meeting certain conditions (e.g., retirement) can be tax-free.
+- **Before Retirement**: Severe restrictions and [taxes](../t/taxes.md) apply to discourage early [withdrawal](../w/withdrawal.md).
+- **Post-Retirement**: Withdrawals made after meeting preservation age (usually around 60) and meeting certain conditions (e.g., retirement) can be [tax-free](../t/tax_free.md).
 
 ## Superannuation and Financial Planning
 
 ### Role in Retirement Planning
 
-Superannuation is a critical component of retirement planning. It acts as a long-term savings vehicle specifically designed to provide financial security in retirement. The mandatory nature of contributions ensures that individuals accumulate savings throughout their working life, reducing reliance on the government pension system.
+Superannuation is a critical component of [retirement planning](../r/retirement_planning.md). It acts as a long-term savings vehicle specifically designed to provide financial [security](../s/security.md) in retirement. The mandatory nature of contributions ensures that individuals accumulate savings throughout their working life, reducing reliance on the government pension system.
 
 ### Financial Advice and Planning
 
-Given the complexity of superannuation laws, regulations, and investment strategies, professional financial advice is often sought by individuals to navigate their super investments effectively. Qualified financial planners can offer advice on contribution strategies, investment options, and optimal ways to draw down on superannuation savings in retirement.
+Given the complexity of superannuation laws, regulations, and investment strategies, professional financial advice is often sought by individuals to navigate their super investments effectively. Qualified financial planners can [offer](../o/offer.md) advice on contribution strategies, investment [options](../o/options.md), and optimal ways to draw down on superannuation savings in retirement.
 
 ### Estate Planning
 
-Superannuation also plays a role in estate planning. Funds remaining in super accounts at death can be passed to beneficiaries, often with tax considerations. It is crucial to nominate beneficiaries and understand the tax implications of super bequests.
+Superannuation also plays a role in [estate planning](../e/estate_planning.md). Funds remaining in super accounts at death can be passed to beneficiaries, often with tax considerations. It is crucial to nominate beneficiaries and understand the tax implications of super bequests.
 
 ## Regulatory Framework
 
@@ -84,11 +84,11 @@ APRA is responsible for supervising superannuation funds (other than SMSFs) to e
 
 ### Australian Securities and Investments Commission (ASIC)
 
-ASIC regulates superannuation by overseeing disclosure requirements, financial advice related to superannuation, and ensuring transparency and fairness in the industry.
+ASIC regulates superannuation by overseeing [disclosure](../d/disclosure.md) requirements, financial advice related to superannuation, and ensuring [transparency](../t/transparency.md) and fairness in the [industry](../i/industry.md).
 
 ### Australian Taxation Office (ATO)
 
-The ATO oversees the compliance of SMSFs and the administration of the tax aspects of superannuation, ensuring contributions, investment earnings, and benefits are reported correctly and taxes are paid appropriately.
+The ATO oversees the compliance of SMSFs and the administration of the tax aspects of superannuation, ensuring contributions, investment [earnings](../e/earnings.md), and benefits are reported correctly and [taxes](../t/taxes.md) are paid appropriately.
 
 ## Contribution Limits and Caps
 
@@ -106,6 +106,6 @@ An individual's total superannuation balance influences their ability to make no
 
 ## Conclusion
 
-Superannuation is a sophisticated, essential system underpinning retirement savings in several countries, most notably Australia. Its structure, regulatory framework, and tax advantages make it a pivotal element of financial and retirement planning. While complex, the system ensures that individuals can accumulate sufficient savings to support themselves post-retirement, which is vital given increasing life expectancies and the pressures on public pension systems. Understanding superannuation, its workings, and strategic planning around contributions and investments can provide individuals with significant advantages and enhanced financial security in their later years.
+Superannuation is a sophisticated, essential system underpinning retirement savings in several countries, most notably Australia. Its structure, regulatory framework, and tax advantages make it a pivotal element of financial and [retirement planning](../r/retirement_planning.md). While complex, the system ensures that individuals can accumulate sufficient savings to support themselves post-retirement, which is vital given increasing life expectancies and the pressures on public pension systems. Understanding superannuation, its workings, and strategic planning around contributions and investments can provide individuals with significant advantages and enhanced financial [security](../s/security.md) in their later years.
 
 For further detailed information on managing superannuation, please visit the official Australian Government site on superannuation [here](https://www.ato.gov.au/Individuals/Super/).

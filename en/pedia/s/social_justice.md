@@ -1,10 +1,10 @@
 # Social Justice
 
-Social justice is a concept that refers to the fair and just relationship between the individual and society. It encompasses various aspects of society, including the allocation of wealth, opportunities, and privileges. Herein, we will delve into the intricacies of social justice, examining its history, principles, key issues, and significant movements.
+Social justice is a concept that refers to the fair and just relationship between the individual and society. It encompasses various aspects of society, including the allocation of [wealth](../w/wealth.md), opportunities, and privileges. Herein, we [will](../w/will.md) delve into the intricacies of social justice, examining its history, principles, key issues, and significant movements.
 
 ## Historical Context
 
-The concept of social justice has evolved over centuries, adapting to meet the challenges of different historical periods. It originated from the philosophical ideas of fairness and equality expounded by thinkers like Plato and Aristotle but gained significant momentum during the Enlightenment. The emergence of modern democracies further shaped its development.
+The concept of social justice has evolved over centuries, adapting to meet the challenges of different historical periods. It originated from the philosophical ideas of fairness and equality expounded by thinkers like Plato and Aristotle but gained significant [momentum](../m/momentum.md) during the Enlightenment. The emergence of modern democracies further shaped its development.
 
 ### Enlightenment Era
 
@@ -12,7 +12,7 @@ During the Enlightenment period, philosophers like John Locke, Jean-Jacques Rous
 
 ### Industrial Revolution
 
-The Industrial Revolution of the 18th and 19th centuries highlighted stark economic inequalities and poor working conditions. These disparities prompted movements for labor rights and social reforms, ultimately influencing policies that sought to address wealth distribution, working hours, health, and safety standards.
+The [Industrial Revolution](../i/industrial_revolution.md) of the 18th and 19th centuries highlighted stark economic inequalities and poor working conditions. These disparities prompted movements for labor rights and social reforms, ultimately influencing policies that sought to address [wealth](../w/wealth.md) [distribution](../d/distribution.md), working hours, health, and safety standards.
 
 ### 20th Century Movements
 
@@ -28,7 +28,7 @@ Fairness involves ensuring that all individuals have equal access to opportuniti
 
 ### Equity 
 
-Equity goes beyond equality by acknowledging that different individuals and communities may need varying levels of support to achieve equal outcomes. It involves distributing resources and opportunities in a manner that addresses these disparities.
+[Equity](../e/equity.md) goes beyond equality by acknowledging that different individuals and communities may need varying levels of support to achieve equal outcomes. It involves distributing resources and opportunities in a manner that addresses these disparities.
 
 ### Rights
 
@@ -48,7 +48,7 @@ Several critical issues remain at the forefront of social justice efforts. These
 
 ### Economic Inequality
 
-Economic inequality refers to the unequal distribution of wealth and income within a society. Addressing this issue involves advocating for policies that promote fair wages, progressive taxation, and social safety nets.
+Economic inequality refers to the unequal [distribution](../d/distribution.md) of [wealth](../w/wealth.md) and [income](../i/income.md) within a society. Addressing this [issue](../i/issue.md) involves advocating for policies that promote fair wages, progressive [taxation](../t/taxation.md), and social safety nets.
 
 ### Racial Justice
 
@@ -112,4 +112,4 @@ The American Civil Liberties Union (ACLU) defends individual rights and libertie
 
 ## Conclusion
 
-Social justice remains a vital and evolving concept, encompassing a broad spectrum of issues and principles. Its pursuit involves addressing deep-seated inequalities and advocating for policies that promote fairness, equity, and inclusive participation. Movements and organizations dedicated to social justice continue to play a crucial role in advancing these objectives, striving for a society where all individuals can achieve their fullest potential without discrimination or unjust barriers.
+Social justice remains a vital and evolving concept, encompassing a broad spectrum of issues and principles. Its pursuit involves addressing deep-seated inequalities and advocating for policies that promote fairness, [equity](../e/equity.md), and inclusive participation. Movements and organizations dedicated to social justice continue to play a crucial role in advancing these objectives, striving for a society where all individuals can achieve their fullest potential without discrimination or unjust barriers.

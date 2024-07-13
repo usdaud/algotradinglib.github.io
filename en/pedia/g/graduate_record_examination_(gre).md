@@ -27,13 +27,13 @@ This section measures the test taker's ability to understand, interpret, and ana
 - Geometry
 - Data Analysis
 
-The Quantitative Reasoning section features various question types, including multiple-choice (both single answer and multiple answers), numeric entry, and quantitative comparison.
+The Quantitative Reasoning section features various question types, including [multiple](../m/multiple.md)-choice (both single answer and [multiple](../m/multiple.md) answers), numeric entry, and quantitative comparison.
 
 ### Analytical Writing
 
 The Analytical Writing section tests the ability to articulate complex ideas clearly and effectively. It consists of two tasks:
 
-- Issue Task: The test taker has 30 minutes to write an essay on a given topic.
+- [Issue](../i/issue.md) Task: The test taker has 30 minutes to write an essay on a given topic.
 - Argument Task: The test taker has 30 minutes to critique an argument presented in a brief passage.
 
 ## Scoring System
@@ -48,7 +48,7 @@ Scores are valid for five years, and test takers can choose to send only their b
 
 ## Registration and Test Fees
 
-The GRE can be taken at test centers worldwide or remotely through a new GRE General Test at-home option. The cost for the test varies by country, with the standard fee in the United States being $205. Additional fees may be applied for services such as changing the test center or rescheduling the test.
+The GRE can be taken at test centers worldwide or remotely through a new GRE General Test at-[home](../h/home.md) option. The cost for the test varies by country, with the standard [fee](../f/fee.md) in the United States being $205. Additional fees may be applied for services such as changing the test center or rescheduling the test.
 
 ## Preparation and Resources
 

@@ -1,29 +1,29 @@
 # Ameritrade
 
 ## Overview
-TD Ameritrade was a leading brokerage firm offering a wide range of investment and trading services, including stocks, ETFs, options, futures, mutual funds, and fixed income investments. Known for its powerful trading platforms, educational resources, and comprehensive market data, TD Ameritrade catered to individual investors, traders, and financial professionals.
+TD Ameritrade was a leading brokerage [firm](../f/firm.md) [offering](../o/offering.md) a wide [range](../r/range.md) of investment and trading services, including [stocks](../s/stock.md), ETFs, [options](../o/options.md), [futures](../f/futures.md), mutual funds, and [fixed income](../f/fixed_income.md) investments. Known for its powerful trading platforms, educational resources, and comprehensive [market](../m/market.md) data, TD Ameritrade catered to individual investors, traders, and financial professionals.
 
 As of October 2020, TD Ameritrade has been acquired by [Charles Schwab](../c/charles_schwab.md), and its services have been integrated into Schwab's offerings.
 
 ## Features
-1. **Trading Platforms**: Advanced trading platforms, including [thinkorswim](../t/thinkorswim.md), offering powerful charting, analysis, and trading tools.
-2. **Wide Range of Investments**: Access to stocks, ETFs, options, futures, mutual funds, and fixed income investments.
-3. **Educational Resources**: Comprehensive educational materials, including webinars, tutorials, and market analysis.
-4. **Research and Analysis**: In-depth research reports, market news, and analysis tools.
+1. **Trading Platforms**: Advanced trading platforms, including [thinkorswim](../t/thinkorswim.md), [offering](../o/offering.md) powerful charting, analysis, and trading tools.
+2. **Wide [Range](../r/range.md) of Investments**: Access to [stocks](../s/stock.md), ETFs, [options](../o/options.md), [futures](../f/futures.md), mutual funds, and [fixed income](../f/fixed_income.md) investments.
+3. **Educational Resources**: Comprehensive educational materials, including webinars, tutorials, and [market](../m/market.md) analysis.
+4. **Research and Analysis**: In-depth research reports, [market](../m/market.md) news, and analysis tools.
 5. **Mobile Trading**: Mobile apps for iOS and Android devices, allowing trading on the go.
-6. **Commission-Free Trading**: Commission-free trading for stocks, ETFs, and options.
-7. **Retirement Planning**: Tools and resources for retirement planning and investment management.
-8. **Customer Support**: 24/7 customer support to assist with trading and account management needs.
-9. **Paper Trading**: [Simulated trading](../s/simulated_trading.md) environment to test and refine [trading strategies](../t/trading_strategies.md) without risking real money.
+6. **[Commission](../c/commission.md)-Free Trading**: [Commission](../c/commission.md)-free trading for [stocks](../s/stock.md), ETFs, and [options](../o/options.md).
+7. **[Retirement Planning](../r/retirement_planning.md)**: Tools and resources for [retirement planning](../r/retirement_planning.md) and [investment management](../i/investment_management.md).
+8. **[Customer](../c/customer.md) Support**: 24/7 [customer](../c/customer.md) support to assist with trading and account management needs.
+9. **Paper Trading**: [Simulated trading](../s/simulated_trading.md) environment to test and refine [trading strategies](../t/trading_strategies.md) without risking real [money](../m/money.md).
 10. **Integration with Schwab**: Seamless integration with [Charles Schwab](../c/charles_schwab.md)’s services and resources.
 
 ## Key Components
-- **[thinkorswim](../t/thinkorswim.md)**: An advanced trading platform offering powerful charting, [technical analysis](../t/technical_analysis.md), and trading tools.
-- **TD Ameritrade Mobile**: Mobile application for trading, account management, and market analysis on the go.
-- **Investment Products**: Wide range of investment products, including stocks, ETFs, options, futures, mutual funds, and bonds.
-- **Educational Resources**: Extensive library of educational content, including webinars, tutorials, and market analysis.
-- **Research Tools**: In-depth research reports, market news, and analysis tools to inform investment decisions.
-- **Retirement Planning Tools**: Resources and tools for retirement planning and investment management.
+- **[thinkorswim](../t/thinkorswim.md)**: An advanced [trading platform](../t/trading_platform.md) [offering](../o/offering.md) powerful charting, [technical analysis](../t/technical_analysis.md), and trading tools.
+- **TD Ameritrade Mobile**: Mobile application for trading, account management, and [market](../m/market.md) analysis on the go.
+- **Investment Products**: Wide [range](../r/range.md) of investment products, including [stocks](../s/stock.md), ETFs, [options](../o/options.md), [futures](../f/futures.md), mutual funds, and bonds.
+- **Educational Resources**: Extensive library of educational content, including webinars, tutorials, and [market](../m/market.md) analysis.
+- **Research Tools**: In-depth research reports, [market](../m/market.md) news, and analysis tools to inform investment decisions.
+- **[Retirement Planning](../r/retirement_planning.md) Tools**: Resources and tools for [retirement planning](../r/retirement_planning.md) and [investment management](../i/investment_management.md).
 
 ## Integrations
 TD Ameritrade integrated with a variety of financial platforms and tools to enhance its functionality. Some notable integrations included:
@@ -34,7 +34,7 @@ TD Ameritrade integrated with a variety of financial platforms and tools to enha
 - **APIs**: Provided APIs for custom integrations and automated trading solutions.
 
 ## Community and Support
-TD Ameritrade offered extensive support through detailed documentation, user guides, tutorials, and a dedicated support team. Users could also access a range of educational resources, including webinars, market analysis, and community forums to share insights and ask questions.
+TD Ameritrade offered extensive support through detailed documentation, user guides, tutorials, and a dedicated support team. Users could also access a [range](../r/range.md) of educational resources, including webinars, [market](../m/market.md) analysis, and community forums to share insights and ask questions.
 
 ## Transition to Charles Schwab
 As of October 2020, TD Ameritrade has been acquired by [Charles Schwab](../c/charles_schwab.md). All TD Ameritrade services have been integrated into Schwab's offerings. Existing TD Ameritrade clients have been transitioned to [Charles Schwab](../c/charles_schwab.md) accounts, and new clients are directed to [Charles Schwab](../c/charles_schwab.md) for [brokerage services](../b/brokerage_services.md).

@@ -1,13 +1,13 @@
 # Unsolicited Application
 
 ## Definition
-An unsolicited application, also known as a "cold application" or "blind application," is a job application submitted to an employer who has not advertised or publicly announced an open position.
+An unsolicited application, also known as a "cold application" or "blind application," is a job application submitted to an employer who has not advertised or publicly announced an [open position](../o/open_position.md).
 
 ## Key Characteristics
 
 ### 1. Proactive Approach
 - Initiated by the job seeker, not the employer
-- Demonstrates initiative and interest in the company
+- Demonstrates initiative and [interest](../i/interest.md) in the company
 
 ### 2. No Specific Job Opening
 - Not in response to a posted job vacancy
@@ -23,8 +23,8 @@ An unsolicited application, also known as a "cold application" or "blind applica
    - Explains the purpose of the application
    - Highlights relevance of skills to potential roles
 
-2. **Resume/CV**
-   - Tailored to align with the company's industry and potential needs
+2. **[Resume](../r/resume.md)/CV**
+   - Tailored to align with the company's [industry](../i/industry.md) and potential needs
    - Emphasizes transferable skills and achievements
 
 3. **Portfolio (if applicable)**
@@ -34,7 +34,7 @@ An unsolicited application, also known as a "cold application" or "blind applica
 ## Advantages
 
 ### For Job Seekers:
-- Access to hidden job market
+- Access to hidden [job market](../j/job_market.md)
 - Reduced competition compared to advertised positions
 - Opportunity to create a position that fits skills and interests
 
@@ -68,7 +68,7 @@ An unsolicited application, also known as a "cold application" or "blind applica
    - Use professional networks or company website to identify key personnel
 
 3. **Craft a Compelling Pitch**
-   - Clearly state the value you can bring to the organization
+   - Clearly state the [value](../v/value.md) you can bring to the organization
    - Be specific about potential roles or contributions
 
 4. **Follow-Up**
@@ -97,8 +97,8 @@ An unsolicited application, also known as a "cold application" or "blind applica
 
 ## Related Concepts
 
-1. Networking
+1. [Networking](../n/networking.md)
 2. Informational interviews
 3. Speculative job search
-4. Hidden job market
+4. Hidden [job market](../j/job_market.md)
 5. Personal branding

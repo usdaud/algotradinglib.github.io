@@ -2,20 +2,20 @@
 
 ## Introduction
 
-[Trend following](../t/trend_following.md) is a strategy that aims to capitalize on the continuation of existing market trends. Whether the market is bullish or bearish, trend-following models seek to enter trades at opportune times to follow the direction of the market. This method has stood the test of time, consistently producing substantial returns for those who have mastered its application.
+[Trend following](../t/trend_following.md) is a strategy that aims to [capitalize](../c/capitalize.md) on the continuation of existing [market](../m/market.md) trends. Whether the [market](../m/market.md) is bullish or bearish, [trend](../t/trend.md)-following models seek to enter trades at opportune times to follow the direction of the [market](../m/market.md). This method has stood the test of time, consistently producing substantial returns for those who have mastered its application.
 
 ## Core Concept
 
-At its heart, [trend following](../t/trend_following.md) relies on the belief that prices will continue to move in the same direction they have been moving rather than reversing course. This approach contrasts with [mean reversion](../m/mean_reversion.md) strategies, which bet that prices will return to a long-term average.
+At its heart, [trend following](../t/trend_following.md) relies on the belief that prices [will](../w/will.md) continue to move in the same direction they have been moving rather than reversing course. This approach contrasts with [mean reversion](../m/mean_reversion.md) strategies, which bet that prices [will](../w/will.md) [return](../r/return.md) to a long-term average.
 
 ## Key Components
 
 ### Market Data
 
-To effectively build and execute a trend-following strategy, accurate and timely market data is crucial. Traders need access to:
+To effectively build and execute a [trend](../t/trend.md)-following strategy, accurate and timely [market](../m/market.md) data is crucial. Traders need access to:
 
 - Price data
-- Volume data
+- [Volume](../v/volume.md) data
 - Historical data
 
 ### Indicators
@@ -23,12 +23,12 @@ To effectively build and execute a trend-following strategy, accurate and timely
 Indicators are essential tools in identifying trends. Some popular indicators include:
 
 - Moving Averages (MA): Averages of price over a specified number of periods.
-- Relative Strength Index (RSI): Measures the speed and change of price movements.
-- Moving Average Convergence Divergence (MACD): Shows the relationship between two moving averages.
+- [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI): Measures the speed and change of price movements.
+- Moving Average Convergence [Divergence](../d/divergence.md) (MACD): Shows the relationship between two moving averages.
 
 ### Algorithms
 
-Algorithms are at the core of [trend following](../t/trend_following.md) in [algorithmic trading](../a/algorithmic_trading.md). These are rule-based systems designed to automatically implement the trading strategy.
+Algorithms are at the core of [trend following](../t/trend_following.md) in [algorithmic trading](../a/algorithmic_trading.md). These are rule-based systems designed to automatically implement the [trading strategy](../t/trading_strategy.md).
 
 ## Trend Following Models
 
@@ -43,14 +43,14 @@ def moving_average_crossover(prices, short_window, long_window):
     short_ma = prices.rolling(window=short_window, min_periods=1).mean()
     long_ma = prices.rolling(window=long_window, min_periods=1).mean()
 
-    signals = pd.DataFrame(index=prices.index)
+    signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
     signals['signal'] = 0.0
     signals['short_ma'] = short_ma
     signals['long_ma'] = long_ma
     signals['signal'][short_window:] = np.where(signals['short_ma'][short_window:] > signals['long_ma'][short_window:], 1.0, 0.0)
     signals['positions'] = signals['signal'].diff()
 
-    return signals
+    [return](../r/return.md) signals
 ```
 
 ### Bollinger Bands
@@ -67,7 +67,7 @@ def bollinger_bands(prices, window, num_std_dev):
     upper_band = rolling_mean + (rolling_std * num_std_dev)
     lower_band = rolling_mean - (rolling_std * num_std_dev)
     
-    signals = pd.DataFrame(index=prices.index)
+    signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
     signals['price'] = prices
     signals['upper_band'] = upper_band
     signals['lower_band'] = lower_band
@@ -76,44 +76,44 @@ def bollinger_bands(prices, window, num_std_dev):
     signals['buy_signal'] = np.where(prices < lower_band, 1.0, 0.0)
     signals['sell_signal'] = np.where(prices > upper_band, -1.0, 0.0)
     
-    return signals
+    [return](../r/return.md) signals
 ```
 
 ### Relative Strength Index (RSI)
 
 **Description**:
-The RSI is a momentum oscillator that measures the speed and change of price movements. It ranges from 0 to 100 and is typically used to identify overbought or oversold conditions. An RSI above 70 indicates overbought, while an RSI below 30 indicates oversold.
+The RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It ranges from 0 to 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. An RSI above 70 indicates [overbought](../o/overbought.md), while an RSI below 30 indicates [oversold](../o/oversold.md).
 
 **Code Example**:
 ```python
 def relative_strength_index(prices, window):
-    delta = prices.diff()
-    gain = (delta.where(delta > 0, 0)).fillna(0)
-    loss = (-delta.where(delta < 0, 0)).fillna(0)
+    [delta](../d/delta.md) = prices.diff()
+    [gain](../g/gain.md) = ([delta](../d/delta.md).where([delta](../d/delta.md) > 0, 0)).fillna(0)
+    loss = (-[delta](../d/delta.md).where([delta](../d/delta.md) < 0, 0)).fillna(0)
 
-    avg_gain = gain.rolling(window=window, min_periods=1).mean()
+    avg_gain = [gain](../g/gain.md).rolling(window=window, min_periods=1).mean()
     avg_loss = loss.rolling(window=window, min_periods=1).mean()
 
     rs = avg_gain / avg_loss
     rsi = 100 - (100 / (1 + rs))
     
-    signals = pd.DataFrame(index=prices.index)
+    signals = pd.DataFrame([index](../i/index.md)=prices.[index](../i/index.md))
     signals['price'] = prices
     signals['rsi'] = rsi
 
     signals['buy_signal'] = np.where(rsi < 30, 1.0, 0.0)
     signals['sell_signal'] = np.where(rsi > 70, -1.0, 0.0)
 
-    return signals
+    [return](../r/return.md) signals
 ```
 
 ## Risk Management
 
-Effective trend-following involves robust [risk management](../r/risk_management.md) techniques, including:
+Effective [trend](../t/trend.md)-following involves [robust](../r/robust.md) [risk management](../r/risk_management.md) techniques, including:
 
 - **Stop Losses**: Setting predetermined levels to close out losing trades to prevent excessive losses.
-- **[Position Sizing](../p/position_sizing.md)**: Determining the size of each trade based on account size and risk tolerance.
+- **[Position Sizing](../p/position_sizing.md)**: Determining the size of each [trade](../t/trade.md) based [on account](../o/on_account.md) size and [risk tolerance](../r/risk_tolerance.md).
 
 ## Conclusion
 
-Trend-following models are foundational strategies in the world of [algorithmic trading](../a/algorithmic_trading.md). By understanding and implementing different types of trend-following models, such as Moving Average Crossover, [Bollinger Bands](../b/bollinger_bands.md), and RSI, traders can make informed decisions and potentially capitalize on existing market trends.
+[Trend](../t/trend.md)-following models are foundational strategies in the world of [algorithmic trading](../a/algorithmic_trading.md). By understanding and implementing different types of [trend](../t/trend.md)-following models, such as Moving Average Crossover, [Bollinger Bands](../b/bollinger_bands.md), and RSI, traders can make informed decisions and potentially [capitalize](../c/capitalize.md) on existing [market](../m/market.md) trends.

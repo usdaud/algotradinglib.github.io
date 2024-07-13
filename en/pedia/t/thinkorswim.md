@@ -1,50 +1,50 @@
 # ThinkOrSwim (TOS)
 
-ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform developed and offered by TD [Ameritrade](../a/ameritrade.md). Known for its robust features and advanced capabilities, ThinkOrSwim caters to both novice and experienced traders across various asset classes.
+ThinkOrSwim, often abbreviated as TOS, is a comprehensive [trading platform](../t/trading_platform.md) developed and offered by TD [Ameritrade](../a/ameritrade.md). Known for its [robust](../r/robust.md) features and advanced capabilities, ThinkOrSwim caters to both novice and experienced traders across various [asset](../a/asset.md) classes.
 
 ## Key Features
 
 ### 1. Advanced Charting
 
-- Multiple chart types (candlestick, bar, line, etc.)
+- [Multiple](../m/multiple.md) chart types ([candlestick](../c/candlestick.md), bar, line, etc.)
 - Over 400 [technical indicators](../t/technical_indicators.md)
-- Custom indicator creation using thinkScript
+- Custom [indicator](../i/indicator.md) creation using thinkScript
 - Drawing tools and [pattern recognition](../p/pattern_recognition.md)
 - Real-time streaming data
 - Multi-monitor support
 
 ### 2. Trading Capabilities
 
-- Stocks, ETFs, options, futures, forex, and cryptocurrency trading
-- Complex options strategies and modeling
-- Risk/reward analysis tools
-- Real-time Greeks for options
-- Customizable order entry interfaces
+- [Stocks](../s/stock.md), ETFs, [options](../o/options.md), [futures](../f/futures.md), forex, and cryptocurrency trading
+- Complex [options](../o/options.md) strategies and modeling
+- [Risk](../r/risk.md)/reward analysis tools
+- Real-time [Greeks](../g/greeks.md) for [options](../o/options.md)
+- Customizable [order](../o/order.md) entry interfaces
 - Trailing stops and other advanced [order types](../o/order_types_in_trading.md)
 
 ### 3. Paper Trading
 
 - [Simulated trading](../s/simulated_trading.md) environment
 - Real-time data in paper trading accounts
-- Ability to test strategies without financial risk
+- Ability to test strategies without [financial risk](../f/financial_risk.md)
 
 ### 4. Market Scanning
 
-- Stock and options scanners
+- Stock and [options](../o/options.md) scanners
 - Custom scan creation
 - Real-time alerts based on user-defined criteria
 
 ### 5. Options Analysis
 
 - Probability analysis tools
-- Profit/loss calculators
+- [Profit](../p/profit.md)/loss calculators
 - [Volatility skew](../v/volatility_skew.md) analysis
-- Option chains with real-time Greeks
+- Option chains with real-time [Greeks](../g/greeks.md)
 
 ### 6. Educational Resources
 
 - Built-in tutorials and how-to videos
-- Daily market commentary
+- Daily [market](../m/market.md) commentary
 - Live webcasts and demos
 - Extensive knowledge base
 
@@ -64,28 +64,28 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 
 - Real-time position monitoring
 - Customizable alerts for price movements and news
-- Portfolio margin analysis
-- Risk profile graphs for complex positions
+- Portfolio [margin](../m/margin.md) analysis
+- [Risk](../r/risk.md) profile graphs for complex positions
 
 ### 10. News and Research
 
 - Integrated news feeds
 - Fundamental company data
-- Earnings and dividend information
-- Economic calendar
+- [Earnings](../e/earnings.md) and [dividend](../d/dividend.md) information
+- [Economic calendar](../e/economic_calendar.md)
 
 ## Platform Versions
 
-1. **Desktop Application**: Full-featured trading platform for Windows and Mac
+1. **Desktop Application**: Full-featured [trading platform](../t/trading_platform.md) for Windows and Mac
 2. **Web Platform**: Browser-based version with most desktop features
 3. **Mobile Apps**: iOS and Android applications for on-the-go trading
 
 ## Asset Classes Supported
 
-- Stocks
-- Exchange-Traded Funds (ETFs)
-- Options
-- Futures
+- [Stocks](../s/stock.md)
+- [Exchange](../e/exchange.md)-Traded Funds (ETFs)
+- [Options](../o/options.md)
+- [Futures](../f/futures.md)
 - Forex
 - Cryptocurrencies (limited)
 
@@ -93,28 +93,28 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 
 ### 1. OnDemand
 
-- Historical market replay tool
-- Allows traders to "rewind" the market and practice trading in past conditions
+- Historical [market](../m/market.md) replay tool
+- Allows traders to "rewind" the [market](../m/market.md) and practice trading in past conditions
 
 ### 2. Risk/Reward Tool
 
 - Visual representation of potential outcomes for trades
-- Adjustable parameters for different market scenarios
+- Adjustable parameters for different [market](../m/market.md) scenarios
 
 ### 3. thinkBack
 
-- Historical options data analysis tool
-- Helps in understanding past options pricing and behavior
+- Historical [options](../o/options.md) data analysis tool
+- Helps in understanding past [options](../o/options.md) pricing and behavior
 
 ### 4. Earnings Analysis
 
-- Tools for analyzing earnings reports and their impact on stock prices
-- Historical earnings data and reaction statistics
+- Tools for analyzing [earnings](../e/earnings.md) reports and their impact on stock prices
+- Historical [earnings](../e/earnings.md) data and reaction [statistics](../s/statistics.md)
 
 ## Data and Research
 
-- Real-time, streaming market data
-- Third-party research integration (Recognia, Market Edge, etc.)
+- Real-time, streaming [market](../m/market.md) data
+- Third-party research integration (Recognia, [Market](../m/market.md) Edge, etc.)
 - Social [sentiment analysis](../s/sentiment_analysis.md)
 - Customizable news feeds
 
@@ -131,7 +131,7 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 ## Target Audience
 
 - Active traders
-- Options traders
+- [Options](../o/options.md) traders
 - Technical analysts
 - Long-term investors seeking advanced tools
 - Algorithmic traders (via thinkScript)
@@ -139,23 +139,23 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 ## Integration and API
 
 - API access for [algorithmic trading](../a/algorithmic_trading.md) (requires approval)
-- Data export capabilities for further analysis
+- Data [export](../e/export.md) capabilities for further analysis
 - Integration with TD [Ameritrade](../a/ameritrade.md) accounts and services
 
 ## Community and Support
 
 - Active user forums
-- 24/7 customer support
+- 24/7 [customer](../c/customer.md) support
 - Regular webinars and educational events
 - In-platform chat support
 
 ## Unique Selling Points
 
 1. Comprehensive all-in-one platform
-2. Advanced options analysis tools
+2. Advanced [options](../o/options.md) analysis tools
 3. No additional costs for real-time data or platform use
 4. Powerful customization through thinkScript
-5. Robust paper [trading environment](../t/trading_environment.md)
+5. [Robust](../r/robust.md) paper [trading environment](../t/trading_environment.md)
 6. Integration with TD [Ameritrade](../a/ameritrade.md)'s extensive educational resources
 
-ThinkOrSwim stands out for its combination of advanced features, ease of use, and integration with TD [Ameritrade](../a/ameritrade.md)'s broader ecosystem. It's particularly favored by options traders and those seeking a platform that can grow with their trading sophistication. The platform's continuous updates and improvements, along with its strong community support, make it a top choice for many retail traders in the United States.
+ThinkOrSwim stands out for its combination of advanced features, ease of use, and integration with TD [Ameritrade](../a/ameritrade.md)'s broader ecosystem. It's particularly favored by [options](../o/options.md) traders and those seeking a platform that can grow with their trading sophistication. The platform's continuous updates and improvements, along with its strong community support, make it a top choice for many retail traders in the United States.

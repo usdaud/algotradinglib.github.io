@@ -1,6 +1,6 @@
 # Air Waybill (AWB)
 
-An Air Waybill (AWB) is a critical document in the field of international air transportation and logistics. It serves as a contract of carriage between the shipper (consignor) and the air carrier (airline) and provides essential information about the shipment. The AWB is a standardized form used by airlines around the world and is recognized by international bodies such as the International Air Transport Association (IATA). Below is a comprehensive exploration of the Air Waybill, including its purpose, key elements, types, legal implications, and its role in logistics.
+An Air Waybill (AWB) is a critical document in the field of international air transportation and [logistics](../l/logistics.md). It serves as a contract of carriage between the shipper (consignor) and the air carrier (airline) and provides essential information about the shipment. The AWB is a standardized form used by airlines around the world and is recognized by international bodies such as the International Air Transport Association (IATA). Below is a comprehensive exploration of the Air Waybill, including its purpose, key elements, types, legal implications, and its role in [logistics](../l/logistics.md).
 
 ## Purpose of Air Waybill (AWB)
 
@@ -21,13 +21,13 @@ An AWB contains numerous fields to provide comprehensive details about the shipm
 3. **Issuing Carrier’s Agent and Office**: Details of the airline or its agent that issued the AWB.
 4. **Routing and Flight Information**: Data on the flight details, including the departure and destination airports and any transit points.
 5. **Description of Goods**: Detailed description of the cargo, including the nature, weight, dimensions, and number of pieces.
-6. **Declared Value for Carriage**: An optional field that indicates the value of the goods for determining the liability in case of loss or damage.
+6. **Declared [Value](../v/value.md) for Carriage**: An optional field that indicates the [value](../v/value.md) of the goods for determining the [liability](../l/liability.md) in case of loss or damage.
 7. **Charges Breakdown**: A detailed breakdown of the charges associated with the shipment, including freight charges, handling, and other surcharges.
 8. **Special Handling Requirements**: Specific instructions or requirements for handling certain types of cargo, such as hazardous materials.
 
 ## Types of Air Waybill (AWB)
 
-There are two primary types of AWBs, each serving different purposes in the logistics chain:
+There are two primary types of AWBs, each serving different purposes in the [logistics](../l/logistics.md) chain:
 
 1. **Master Air Waybill (MAWB)**:
    - Issued by the main air carrier.
@@ -36,31 +36,31 @@ There are two primary types of AWBs, each serving different purposes in the logi
 
 2. **House Air Waybill (HAWB)**:
    - Issued by a freight forwarder or an intermediary.
-   - Used for consolidated shipments where multiple shippers’ goods are grouped together.
+   - Used for consolidated shipments where [multiple](../m/multiple.md) shippers’ goods are grouped together.
    - Each shipper receives a HAWB, while the freight forwarder manages the consolidated shipment under a MAWB.
 
 ## Legal and Regulatory Aspects
 
 The AWB is a legally binding document governed by various international conventions and regulations. It is crucial to understand the legal implications:
 
-1. **Warsaw Convention (1929)**: Established the legal framework for air transportation, including the liability of air carriers.
-2. **Montreal Convention (1999)**: Modernized the rules from the Warsaw Convention and established uniformity in the liability regime for international carriage by air.
-3. **IATA Rules**: IATA sets guidelines and standards for the format and usage of AWBs, ensuring consistency across the industry.
+1. **Warsaw Convention (1929)**: Established the legal framework for air transportation, including the [liability](../l/liability.md) of air carriers.
+2. **Montreal Convention (1999)**: Modernized the rules from the Warsaw Convention and established uniformity in the [liability](../l/liability.md) regime for international carriage by air.
+3. **IATA Rules**: IATA sets guidelines and standards for the format and usage of AWBs, ensuring consistency across the [industry](../i/industry.md).
 
 ## AWB in the Logistics Chain
 
-The role of the AWB extends beyond being a simple carriage document. It is pivotal in the logistics chain, impacting various stakeholders:
+The role of the AWB extends beyond being a simple carriage document. It is pivotal in the [logistics](../l/logistics.md) chain, impacting various stakeholders:
 
 1. **Shipper**: Ensures goods are transported as per the agreed terms, can track the shipment, and has evidence for customs clearance.
 2. **Carrier**: Manages and plans the transportation, billing, and settlement, and handling special cargo requirements.
 3. **Consignee**: Uses the AWB for tracking and receiving goods, and for customs clearance at the destination.
-4. **Customs Authorities**: Utilize AWB information for inspecting and clearing goods, ensuring compliance with regulations.
+4. **Customs Authorities**: Utilize AWB information for inspecting and [clearing](../c/clearing.md) goods, ensuring compliance with regulations.
 
 ## Technological Advancements and e-AWB
 
 With the advent of technology, the traditional paper AWB is gradually being replaced by electronic Air Waybills (e-AWB). The e-AWB provides several benefits:
 
-1. **Efficiency**: Reduces paperwork, streamlines processes, and speeds up the handling of shipments.
+1. **[Efficiency](../e/efficiency.md)**: Reduces paperwork, streamlines processes, and speeds up the handling of shipments.
 2. **Accuracy**: Minimizes errors compared to manual entry, ensuring better data quality.
 3. **Tracking**: Enhances real-time tracking of shipments through integrated digital systems.
 4. **Sustainability**: Contributes to environmental sustainability by reducing paper usage.
@@ -69,4 +69,4 @@ For more information on e-AWB, you can visit the [IATA e-Air Waybill page](https
 
 ## Conclusion
 
-The Air Waybill (AWB) is fundamental in the air cargo industry, serving as a critical document that ensures the smooth transit of goods across international borders. From providing essential shipment details to facilitating customs clearance, and from acting as a contract of carriage to aiding in financial settlements, the AWB plays multiple roles that are indispensable in the logistics chain. As the industry moves towards digitalization, the e-AWB is set to revolutionize the way air cargo shipments are managed, ushering in greater efficiency, accuracy, and environmental benefits.
+The Air Waybill (AWB) is fundamental in the air cargo [industry](../i/industry.md), serving as a critical document that ensures the smooth transit of goods across international borders. From providing essential shipment details to facilitating customs clearance, and from acting as a contract of carriage to aiding in financial settlements, the AWB plays [multiple](../m/multiple.md) roles that are indispensable in the [logistics](../l/logistics.md) chain. As the [industry](../i/industry.md) moves towards digitalization, the e-AWB is set to revolutionize the way air cargo shipments are managed, ushering in greater [efficiency](../e/efficiency.md), accuracy, and environmental benefits.

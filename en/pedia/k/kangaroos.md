@@ -1,14 +1,14 @@
 # Kangaroos
 
-Kangaroos are large marsupials found only in Australia and New Guinea. They belong to the genus Macropus, which is divided into three species: the red kangaroo, antilopine kangaroo, and the eastern and western grey kangaroos. These fascinating creatures are known for their distinctive mode of locomotion and unique biological traits.
+Kangaroos are large marsupials found only in Australia and New Guinea. They belong to the genus Macropus, which is divided into three species: the red kangaroo, antilopine kangaroo, and the eastern and western grey kangaroos. These fascinating creatures are known for their distinctive [mode](../m/mode.md) of locomotion and unique biological traits.
 
 ## Anatomy and Physiology
 
 ### Body Structure
-Kangaroos have powerful hind legs, large feet adapted for leaping, and a strong tail used for balance. Their forelimbs are much shorter and less powerful, primarily used for feeding and grooming. The tail is muscular and can support the kangaroo's weight, acting as a third leg when the animal is moving slowly.
+Kangaroos have powerful hind legs, large feet adapted for leaping, and a strong tail used for balance. Their forelimbs are much shorter and less powerful, primarily used for feeding and grooming. The tail is muscular and can support the kangaroo's weight, acting as a third [leg](../l/leg.md) when the animal is moving slowly.
 
 ### Reproductive System
-One defining characteristic of kangaroos is their mode of reproduction. Female kangaroos have a specialized pouch (marsupium) where their young, called joeys, complete their development after birth. Following a short gestation period (around 30-36 days), the underdeveloped joey crawls into the mother’s pouch to continue growing.
+One defining characteristic of kangaroos is their [mode](../m/mode.md) of reproduction. Female kangaroos have a specialized pouch (marsupium) where their young, called joeys, complete their development after birth. Following a short gestation period (around 30-36 days), the underdeveloped joey crawls into the mother’s pouch to continue growing.
 
 ## Behavior and Ecology
 
@@ -23,7 +23,7 @@ Perhaps the most iconic feature of kangaroos is their method of locomotion. They
 
 ## Habitat
 
-Kangaroos inhabit a variety of environments, from dense forests to open plains. Each species has adapted to different climatic conditions. For example, the red kangaroo thrives in arid and semi-arid regions, while the eastern grey kangaroo is more commonly found in fertile, temperate areas.
+Kangaroos inhabit a variety of environments, from dense forests to [open](../o/open.md) plains. Each species has adapted to different climatic conditions. For example, the red kangaroo thrives in arid and semi-arid regions, while the eastern grey kangaroo is more commonly found in fertile, temperate areas.
 
 ## Conservation Status
 
@@ -31,7 +31,7 @@ While kangaroos are generally abundant and not currently threatened, some local 
 
 ## Cultural Significance
 
-Kangaroos hold a special place in Australian culture and identity. They appear on the national coat of arms and are a symbol of Australia’s unique wildlife. Their image is used extensively in marketing and branding, capturing the spirit of the Australian wilderness.
+Kangaroos [hold](../h/hold.md) a special place in Australian culture and identity. They appear on the national coat of arms and are a symbol of Australia’s unique wildlife. Their image is used extensively in [marketing](../m/marketing.md) and branding, capturing the spirit of the Australian wilderness.
 
 ## Conclusion
 

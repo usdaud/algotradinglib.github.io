@@ -1,69 +1,69 @@
 # Unsystematic Risk
 
-Unsystematic risk, also known as specific risk, idiosyncratic risk, or diversifiable risk, refers to the risk that is unique to a particular company or industry. This type of risk can be mitigated through diversification, unlike systematic risk which affects the entire market or economy. Unsystematic risk arises from factors that can impact an individual company or a small group of companies, such as management decisions, product recalls, regulatory changes, competitive pressures, and business model failures.
+Unsystematic [risk](../r/risk.md), also known as specific [risk](../r/risk.md), [idiosyncratic risk](../i/idiosyncratic_risk.md), or diversifiable [risk](../r/risk.md), refers to the [risk](../r/risk.md) that is unique to a particular company or [industry](../i/industry.md). This type of [risk](../r/risk.md) can be mitigated through [diversification](../d/diversification.md), unlike [systematic risk](../s/systematic_risk.md) which affects the entire [market](../m/market.md) or [economy](../e/economy.md). Unsystematic [risk](../r/risk.md) arises from factors that can impact an individual company or a small group of companies, such as management decisions, product recalls, regulatory changes, competitive pressures, and [business](../b/business.md) model failures.
 
-Understanding unsystematic risk is crucial for investors, portfolio managers, and financial analysts as it plays a significant role in risk management and investment strategy. This topic covers the various facets of unsystematic risk, including its sources, methods to measure and analyze it, and strategies for mitigation.
+Understanding unsystematic [risk](../r/risk.md) is crucial for investors, portfolio managers, and financial analysts as it plays a significant role in [risk management](../r/risk_management.md) and [investment strategy](../i/investment_strategy.md). This topic covers the various facets of unsystematic [risk](../r/risk.md), including its sources, methods to measure and analyze it, and strategies for mitigation.
 
 ## Sources of Unsystematic Risk
 
-1. **Business Risk**: This originates from the operational and management decisions within a company. For instance, the success of a new product launch, the efficiency of operations, and the competency of management can all influence business risk.
+1. **[Business Risk](../b/business_risk.md)**: This originates from the operational and management decisions within a company. For instance, the success of a new product launch, the [efficiency](../e/efficiency.md) of operations, and the competency of management can all influence [business risk](../b/business_risk.md).
    
-2. **Financial Risk**: This is associated with a company's financial structure and funding activities. High levels of debt or poor financial practices can lead to increased financial risk.
+2. **[Financial Risk](../f/financial_risk.md)**: This is associated with a company's [financial structure](../f/financial_structure.md) and funding activities. High levels of [debt](../d/debt.md) or poor financial practices can lead to increased [financial risk](../f/financial_risk.md).
    
-3. **Operational Risk**: This involves failures in internal processes, people, and systems. Examples include technical failures, fraud, or supply chain disruptions.
+3. **[Operational Risk](../o/operational_risk.md)**: This involves failures in internal processes, people, and systems. Examples include technical failures, [fraud](../f/fraud.md), or [supply chain](../s/supply_chain.md) disruptions.
    
-4. **Legal Risk**: Changes in regulations, litigation, or compliance issues can create legal risk impacting a company's performance.
+4. **Legal [Risk](../r/risk.md)**: Changes in regulations, litigation, or compliance issues can create legal [risk](../r/risk.md) impacting a company's performance.
    
-5. **Sectoral Risk**: This is specific to the industry or sector a company operates in. For instance, technological advancements in the tech industry or commodity price changes in the energy sector.
+5. **Sectoral [Risk](../r/risk.md)**: This is specific to the [industry](../i/industry.md) or sector a company operates in. For instance, technological advancements in the tech [industry](../i/industry.md) or [commodity](../c/commodity.md) price changes in the [energy sector](../e/energy_sector.md).
 
 ## Measuring Unsystematic Risk
 
-Unsystematic risk can be measured using various financial metrics and analytical tools. Key measures include:
+Unsystematic [risk](../r/risk.md) can be measured using various financial metrics and analytical tools. Key measures include:
 
-1. **Standard Deviation**: It measures the volatility of a company's stock returns and can indicate how much unsystematic risk is associated with a particular stock.
+1. **[Standard Deviation](../s/standard_deviation.md)**: It measures the [volatility](../v/volatility.md) of a company's stock returns and can indicate how much unsystematic [risk](../r/risk.md) is associated with a particular stock.
    
-2. **Beta**: While beta is typically used to measure systematic risk, it can also inform about a stock’s risk relative to the market. A lower beta indicates that a stock has lower market risk but could have higher unsystematic risk.
+2. **[Beta](../b/beta.md)**: While [beta](../b/beta.md) is typically used to measure [systematic risk](../s/systematic_risk.md), it can also inform about a stock’s [risk](../r/risk.md) relative to the [market](../m/market.md). A lower [beta](../b/beta.md) indicates that a stock has lower [market risk](../m/market_risk.md) but could have higher unsystematic [risk](../r/risk.md).
    
-3. **Alpha**: This measures the excess return on an investment relative to the return of a benchmark index. A high alpha can indicate higher unsystematic risk due to reliance on unique factors.
+3. **[Alpha](../a/alpha.md)**: This measures the [excess return](../e/excess_return.md) on an investment relative to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) [index](../i/index.md). A high [alpha](../a/alpha.md) can indicate higher unsystematic [risk](../r/risk.md) due to reliance on unique factors.
 
-4. **Sharpe Ratio**: While it primarily measures risk-adjusted returns, a lower Sharpe ratio may signal the presence of higher unsystematic risk.
+4. **[Sharpe Ratio](../s/sharpe_ratio.md)**: While it primarily measures [risk](../r/risk.md)-adjusted returns, a lower [Sharpe ratio](../s/sharpe_ratio.md) may signal the presence of higher unsystematic [risk](../r/risk.md).
 
 ## Analyzing Unsystematic Risk
 
-Analyzing unsystematic risk involves qualitative and quantitative methods to understand the unique risks associated with a company or industry.
+Analyzing unsystematic [risk](../r/risk.md) involves qualitative and quantitative methods to understand the unique risks associated with a company or [industry](../i/industry.md).
 
-1. **Qualitative Analysis**: This includes examining company reports, industry news, management discussions, and regulatory filings to understand non-quantifiable risks.
+1. **[Qualitative Analysis](../q/qualitative_analysis.md)**: This includes examining company reports, [industry](../i/industry.md) news, management discussions, and regulatory filings to understand non-quantifiable risks.
    
-2. **Quantitative Analysis**: This involves statistical analysis, financial modeling, and the use of tools like Monte Carlo simulations to predict the impact of specific risks on a company's performance.
+2. **[Quantitative Analysis](../q/quantitative_analysis.md)**: This involves statistical analysis, [financial modeling](../f/financial_modeling.md), and the use of tools like Monte Carlo simulations to predict the impact of specific risks on a company's performance.
    
-3. **Scenario Analysis**: This method involves constructing various hypothetical scenarios to assess potential outcomes and impacts on company performance.
+3. **[Scenario Analysis](../s/scenario_analysis.md)**: This method involves constructing various hypothetical scenarios to assess potential outcomes and impacts on company performance.
 
-4. **Stress Testing**: Stress tests simulate extreme conditions to evaluate a company's resilience to adverse situations, highlighting unsystematic risks.
+4. **[Stress Testing](../s/stress_testing.md)**: Stress tests simulate extreme conditions to evaluate a company's resilience to adverse situations, highlighting unsystematic risks.
 
 ## Mitigating Unsystematic Risk
 
-Diversification is the primary strategy for mitigating unsystematic risk. By holding a varied portfolio of investments, the impact of any single investment's failure is minimized. Other strategies include:
+[Diversification](../d/diversification.md) is the primary strategy for mitigating unsystematic [risk](../r/risk.md). By holding a varied portfolio of investments, the impact of any single investment's failure is minimized. Other strategies include:
 
-1. **Asset Allocation**: Spreading investments across different asset classes (stocks, bonds, real estate, etc.) to reduce exposure to any single category.
+1. **[Asset Allocation](../a/asset_allocation.md)**: Spreading investments across different [asset](../a/asset.md) classes ([stocks](../s/stock.md), bonds, [real estate](../r/real_estate.md), etc.) to reduce exposure to any single category.
    
-2. **Industry Diversification**: Investing in various industries and sectors to avoid concentration in a single field.
+2. **[Industry](../i/industry.md) [Diversification](../d/diversification.md)**: [Investing](../i/investing.md) in various industries and sectors to avoid concentration in a single field.
    
-3. **Geographical Diversification**: Investing in different geographic regions to mitigate risks associated with a particular country or region.
+3. **[Geographical Diversification](../g/geographical_diversification.md)**: [Investing](../i/investing.md) in different geographic regions to mitigate risks associated with a particular country or region.
    
-4. **Hedging**: Using financial instruments like options, futures, and derivatives to offset potential losses.
+4. **Hedging**: Using financial instruments like [options](../o/options.md), [futures](../f/futures.md), and [derivatives](../d/derivatives.md) to [offset](../o/offset.md) potential losses.
    
-5. **Active Management**: Regular monitoring and adjusting the investment portfolio in response to changing market conditions and company performance.
+5. **[Active Management](../a/active_management.md)**: Regular monitoring and adjusting the investment portfolio in response to changing [market](../m/market.md) conditions and company performance.
    
 ## Practical Examples of Unsystematic Risk
 
 1. **Company-Specific Events**: Events such as a product recall by a prominent automobile manufacturer, like Toyota's recall of millions of vehicles due to safety issues, which can significantly impact the company's stock price.
    
-2. **Management Decisions**: Changes in senior management or strategic decisions like mergers and acquisitions can create unsystematic risk. For instance, Elon Musk's management decisions at Tesla (https://www.tesla.com/) significantly impact its stock price.
+2. **Management Decisions**: Changes in senior management or strategic decisions like mergers and acquisitions can create unsystematic [risk](../r/risk.md). For instance, Elon Musk's management decisions at Tesla (https://www.tesla.com/) significantly impact its stock price.
    
-3. **Litigation**: Legal challenges, such as patent disputes in the pharmaceutical industry, can create substantial unsystematic risk. An example is the litigation faced by Johnson & Johnson (https://www.jnj.com/) over product safety concerns.
+3. **Litigation**: Legal challenges, such as [patent](../p/patent.md) disputes in the pharmaceutical [industry](../i/industry.md), can create substantial unsystematic [risk](../r/risk.md). An example is the litigation faced by Johnson & Johnson (https://www.jnj.com/) over product safety concerns.
    
-4. **Regulatory Changes**: Regulatory impacts on specific industries, like the financial regulations imposed on banks which can influence their operational risk.
+4. **Regulatory Changes**: Regulatory impacts on specific industries, like the financial regulations imposed on banks which can influence their [operational risk](../o/operational_risk.md).
 
 ## Conclusion
 
-Unsystematic risk is an integral aspect of portfolio management and investment decision-making. By understanding its sources, measuring and analyzing it appropriately, and employing effective mitigation strategies, investors and financial managers can better manage and reduce the impact of risks that are unique to specific companies or industries. Diversification remains the most potent tool against unsystematic risk, promoting stability and resilience in investment portfolios.
+Unsystematic [risk](../r/risk.md) is an integral aspect of [portfolio management](../p/par.md) and investment decision-making. By understanding its sources, measuring and analyzing it appropriately, and employing effective mitigation strategies, investors and financial managers can better manage and reduce the impact of risks that are unique to specific companies or industries. [Diversification](../d/diversification.md) remains the most potent tool against unsystematic [risk](../r/risk.md), promoting stability and resilience in investment portfolios.

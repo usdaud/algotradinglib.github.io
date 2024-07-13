@@ -1,6 +1,6 @@
 # Activities of Daily Living (ADL)
 
-Activities of Daily Living (ADLs) are a cornerstone in the realm of healthcare, particularly in areas such as occupational therapy, geriatrics, and nursing. ADLs are essential routine tasks that people do every day without needing assistance, and they form the basis of self-care. These activities are central to maintaining personal independence and are crucial indicators of an individual's functional status.
+Activities of Daily Living (ADLs) are a cornerstone in the realm of healthcare, particularly in areas such as occupational therapy, geriatrics, and nursing. ADLs are essential routine tasks that people do every day without needing assistance, and they form the [basis](../b/basis.md) of self-care. These activities are central to maintaining personal independence and are crucial indicators of an individual's functional status.
 
 ## Definition and Importance
 
@@ -21,7 +21,7 @@ Basic ADLs are the fundamental self-care tasks that include:
 
 IADLs, on the other hand, are more complex skills necessary for independent living. These include:
 
-1. **Managing Finances**: Handling money, budgeting, and paying bills.
+1. **Managing Finances**: Handling [money](../m/money.md), budgeting, and paying bills.
 2. **Managing Transportation**: Driving or navigating public transport.
 3. **Shopping**: Purchasing groceries and other necessities.
 4. **Meal Preparation**: Cooking and preparing meals.
@@ -33,19 +33,19 @@ IADLs, on the other hand, are more complex skills necessary for independent livi
 
 Assessing ADLs is a critical part of evaluating a patient's functional status. Healthcare professionals use various standardized tools to measure a person's ability to perform ADLs. Some of the common assessment tools include:
 
-1. **Katz Index of Independence in Activities of Daily Living**: Measures the ability to perform six basic functions.
-2. **Barthel Index**: Assesses the degree of assistance required by an individual on ten different ADLs.
+1. **Katz [Index](../i/index.md) of Independence in Activities of Daily Living**: Measures the ability to perform six basic functions.
+2. **Barthel [Index](../i/index.md)**: Assesses the degree of assistance required by an individual on ten different ADLs.
 3. **Lawton Instrumental Activities of Daily Living Scale**: Evaluates IADLs and can help determine the level of care an individual may need.
 
 ## Applications in Healthcare
 
 ### Geriatrics
 
-ADLs are particularly relevant in geriatric care. As people age, the risk of impairments in performing ADLs increases due to factors like physical decline, cognitive impairment, or chronic illnesses. Evaluating ADLs in elderly patients helps in:
+ADLs are particularly relevant in geriatric care. As people age, the [risk](../r/risk.md) of impairments in performing ADLs increases due to factors like physical decline, cognitive [impairment](../i/impairment.md), or chronic illnesses. Evaluating ADLs in elderly patients helps in:
 
 1. **Care Planning**: Establishing the level of care and support required. 
-2. **Early Intervention**: Identifying early signs of functional decline to prevent further impairment.
-3. **Quality of Life**: Enhancing the well-being and independence of older adults.
+2. **Early Intervention**: Identifying early signs of functional decline to prevent further [impairment](../i/impairment.md).
+3. **[Quality of Life](../q/quality_of_life.md)**: Enhancing the well-being and independence of older adults.
 
 ### Occupational Therapy
 
@@ -53,7 +53,7 @@ In occupational therapy, ADLs are central to the rehabilitation and treatment pr
 
 1. **Skill Training**: Helping patients reacquire lost skills or develop new strategies for performing ADLs.
 2. **Adaptive Equipment**: Recommending tools like grab bars, modified utensils, or bath seats to enhance independence.
-3. **Environmental Modifications**: Adjusting home environments to better support the patient’s functional abilities.
+3. **Environmental Modifications**: Adjusting [home](../h/home.md) environments to better support the patient’s functional abilities.
 
 ### Nursing
 
@@ -61,7 +61,7 @@ Nursing professionals frequently assess ADLs to:
 
 1. **Monitor Progress**: Tracking changes in a patient's ability to perform ADLs over time.
 2. **Provide Personalized Care**: Developing care plans tailored to the specific needs and functional status of the patient.
-3. **Prevent Complications**: Identifying risk factors for injury or further decline, such as fall risks associated with impaired mobility.
+3. **Prevent Complications**: Identifying [risk factors](../r/risk_factors_in_trading.md) for injury or further decline, such as fall risks associated with impaired mobility.
 
 ### Chronic Disease Management
 
@@ -76,8 +76,8 @@ For individuals with chronic diseases such as diabetes, arthritis, or cardiovasc
 Several factors can influence an individual's ability to perform ADLs, including:
 
 1. **Physical Health**: Conditions like arthritis, stroke, or respiratory diseases can impair mobility and dexterity.
-2. **Mental Health**: Cognitive impairments, such as dementia or depression, can affect the ability to perform everyday tasks.
-3. **Environmental Factors**: Living conditions, such as home layout, accessibility, and availability of support systems, can impact ADL performance.
+2. **Mental Health**: Cognitive impairments, such as dementia or [depression](../d/depression.md), can affect the ability to perform everyday tasks.
+3. **Environmental Factors**: Living conditions, such as [home](../h/home.md) layout, accessibility, and availability of support systems, can impact ADL performance.
 4. **Social Support**: The presence of family, friends, or community services can provide crucial assistance.
 5. **Economic Status**: Financial resources can affect the ability to access necessary medical care, adaptive devices, and services.
 
@@ -87,9 +87,9 @@ Improving an individual's ability to perform ADLs often involves a multi-discipl
 
 1. **Rehabilitative Therapy**: Physical and occupational therapies designed to improve strength, mobility, and functional capacity.
 2. **Adaptive Devices**: Tools that assist in daily tasks, such as shower chairs, dressing aids, or reachers.
-3. **Home Modifications**: Changes to the living environment, such as installing ramps, widening doorways, and adding handrails.
+3. **[Home](../h/home.md) Modifications**: Changes to the living environment, such as installing ramps, widening doorways, and adding handrails.
 4. **Education and Training**: Teaching patients and caregivers techniques to compensate for limitations and safely perform ADLs.
-5. **Support Services**: Access to home health aides, meal delivery programs, and other community resources.
+5. **Support Services**: Access to [home](../h/home.md) health aides, meal delivery programs, and other community resources.
 
 ## Conclusion
 

@@ -1,12 +1,12 @@
 # Conflict Theory
 
-Conflict theory is a sociological perspective that originated primarily from the works of Karl Marx and later expanded by other theorists such as Max Weber, Georg Simmel, and more contemporary sociologists like C. Wright Mills and Ralf Dahrendorf. The theory asserts that society is in a continuous state of conflict due to competition for limited resources. Here’s an extensive look into conflict theory, covering its origins, key concepts, applications, and criticisms.
+Conflict theory is a sociological perspective that originated primarily from the works of [Karl Marx](../k/karl_marx.md) and later expanded by other theorists such as Max Weber, Georg Simmel, and more contemporary sociologists like C. Wright Mills and Ralf Dahrendorf. The theory asserts that society is in a continuous state of conflict due to competition for limited resources. Here’s an extensive look into conflict theory, covering its origins, key concepts, applications, and criticisms.
 
 ## Origins
 
 ### Karl Marx: The Foundation of Conflict Theory
 
-Karl Marx is the chief architect of conflict theory. His ideas about social classes, class struggle, and the dynamics of capitalism are central to this perspective. Marx believed that society is fundamentally divided into two major social classes: the bourgeoisie (owners of the means of production) and the proletariat (working class). He argued that the bourgeoisie exploits the proletariat, leading to inherent class conflict. Marx's key works like "The Communist Manifesto" and "Das Kapital" delve deep into these issues.
+[Karl Marx](../k/karl_marx.md) is the chief architect of conflict theory. His ideas about social classes, class struggle, and the dynamics of [capitalism](../c/capitalism.md) are central to this perspective. Marx believed that society is fundamentally divided into two major social classes: the bourgeoisie (owners of the means of production) and the proletariat ([working class](../w/working_class.md)). He argued that the bourgeoisie exploits the proletariat, leading to inherent class conflict. Marx's key works like "The Communist Manifesto" and "Das Kapital" delve deep into these issues.
 
 ### Max Weber: Beyond Class Conflict
 
@@ -20,7 +20,7 @@ Georg Simmel offered a more nuanced view of conflict, seeing it as both destruct
 
 ### Social Inequality
 
-Conflict theory posits that social inequality is at the heart of social problems. Whether it's income disparity, racial discrimination, or gender inequality, conflict theorists argue these inequalities are a result of the uneven distribution of resources and power.
+Conflict theory posits that social inequality is at the heart of social problems. Whether it's [income](../i/income.md) disparity, racial discrimination, or gender inequality, conflict theorists argue these inequalities are a result of the uneven [distribution](../d/distribution.md) of resources and power.
 
 ### Power and Authority
 
@@ -42,7 +42,7 @@ In education, conflict theory examines how educational institutions can perpetua
 
 ### Work and Economy
 
-In the realm of work and the economy, conflict theory explores how labor relations are shaped by power imbalances. Issues like worker exploitation, wage gaps, and labor strikes are analyzed through the lens of class conflict.
+In the realm of work and the [economy](../e/economy.md), conflict theory explores how labor relations are shaped by power imbalances. Issues like worker exploitation, wage [gaps](../g/gap.md), and labor strikes are analyzed through the lens of class conflict.
 
 ### Legal Systems
 
@@ -60,7 +60,7 @@ In terms of gender, conflict theory looks at how patriarchy creates and sustains
 
 ### Overemphasis on Conflict
 
-One of the main criticisms of conflict theory is its overemphasis on conflict and neglect of stability and consensus. Critics argue that the theory overlooks how institutions and social practices contribute to social order and cooperation.
+One of the main criticisms of conflict theory is its overemphasis on conflict and neglect of stability and consensus. Critics argue that the theory overlooks how institutions and social practices contribute to social [order](../o/order.md) and cooperation.
 
 ### Economic Determinism
 
@@ -78,4 +78,4 @@ Empirical support for conflict theory can sometimes be limited. Critics argue th
 
 Conflict theory remains a pivotal framework in sociology for understanding the complexities of social inequality and power dynamics. Despite its criticisms, its insights into the structural sources of conflict continue to inform numerous fields of study, from education to gender studies, and remain relevant in analyzing contemporary social issues.
 
-In summary, conflict theory provides a lens to scrutinize the underlying power structures and inequalities that shape our social world. By examining how different groups compete for resources and power, the theory exposes the mechanisms of dominance and resistance that drive social change.
+In summary, conflict theory provides a lens to scrutinize the [underlying](../u/underlying.md) power structures and inequalities that shape our social world. By examining how different groups compete for resources and power, the theory exposes the mechanisms of dominance and resistance that drive social change.

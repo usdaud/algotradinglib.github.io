@@ -8,11 +8,11 @@ At its core, wrongful termination occurs when an employer breaches one or more t
 
 ### Legal Grounds for Wrongful Termination
 
-Several key legal grounds can serve as the basis for a wrongful termination claim, including but not limited to:
+Several key legal grounds can serve as the [basis](../b/basis.md) for a wrongful termination claim, including but not limited to:
 
 1. **Discrimination**: Termination based on race, gender, age, religion, national origin, disability, or other protected classes is illegal under various federal laws such as the Civil Rights Act, Americans with Disabilities Act (ADA), and Age Discrimination in Employment Act (ADEA).
-2. **Retaliation**: Terminating an employee for exercising their legal rights, such as filing a workers' compensation claim or reporting workplace harassment, constitutes retaliation and is prohibited by law.
-3. **Violation of Public Policy**: This includes termination for reasons that violate government policies, such as firing an employee for serving on a jury or refusing to engage in illegal activities.
+2. **Retaliation**: Terminating an employee for exercising their legal rights, such as filing a [workers' compensation](../w/workers'_compensation.md) claim or reporting workplace harassment, constitutes retaliation and is prohibited by law.
+3. **Violation of Public Policy**: This includes termination for reasons that violate [government policies](../g/government_policies_in_trading.md), such as firing an employee for serving on a jury or refusing to engage in illegal activities.
 4. **Breach of Contract**: When an employer fails to adhere to the terms specified in the employment contract, including agreed-upon termination procedures and conditions, it can be grounds for wrongful termination.
 5. **Constructive Discharge**: Occurs when an employee resigns due to intolerable working conditions created by the employer, effectively being forced to leave.
 
@@ -45,7 +45,7 @@ Understanding one's legal rights under federal and state labor laws is essential
 
 ### Step 3: File a Complaint with a Governing Body
 
-In many cases, it is necessary to file a complaint with a relevant governmental body before pursuing legal action. For example, claims related to discrimination may need to be filed with the Equal Employment Opportunity Commission (EEOC) or the appropriate state agency.
+In many cases, it is necessary to file a complaint with a relevant governmental body before pursuing legal action. For example, claims related to discrimination may need to be filed with the Equal Employment Opportunity [Commission](../c/commission.md) (EEOC) or the appropriate state agency.
 
 ### Step 4: Consider Mediation or Settlement
 
@@ -53,7 +53,7 @@ Many wrongful termination claims are resolved through mediation or settlement ne
 
 ### Step 5: Litigation
 
-If mediation or settlement negotiations fail to yield satisfactory results, the next step is to file a lawsuit in civil court. This involves drafting a complaint that outlines the grounds for the claim and presenting evidence in support of the allegations.
+If mediation or settlement negotiations [fail](../f/fail.md) to [yield](../y/yield.md) satisfactory results, the next step is to file a lawsuit in civil court. This involves drafting a complaint that outlines the grounds for the claim and presenting evidence in support of the allegations.
 
 ## Consequences of Wrongful Termination
 
@@ -61,17 +61,17 @@ Wrongful termination can have significant consequences for both the employer and
 
 ### For Employers
 
-- **Financial Penalties**: Employers found guilty of wrongful termination may be required to pay compensatory damages, back pay, front pay, and punitive damages.
-- **Reinstatement**: In some cases, the court may order the employer to reinstate the employee to their former position.
+- **Financial Penalties**: Employers found guilty of wrongful termination may be required to pay [compensatory damages](../c/compensatory_damages.md), back pay, front pay, and punitive damages.
+- **Reinstatement**: In some cases, the court may [order](../o/order.md) the employer to reinstate the employee to their former position.
 - **Reputation Damage**: Publicly known wrongful termination cases can significantly damage an employer's reputation and affect their ability to attract and retain talent.
 - **Legal Costs**: The costs associated with defending against a wrongful termination claim can be substantial, including attorney fees and court costs.
 
 ### For Employees
 
-- **Financial Hardship**: The loss of income can create immediate financial challenges, including difficulty in meeting basic living expenses and long-term effects on career prospects.
+- **Financial Hardship**: The loss of [income](../i/income.md) can create immediate financial challenges, including difficulty in meeting basic living expenses and long-term effects on career prospects.
 - **Emotional and Psychological Impact**: Wrongful termination often leads to stress, anxiety, and a loss of self-esteem.
 - **Career Disruption**: Finding new employment can be challenging, particularly if the wrongful termination is perceived negatively by potential employers.
 
 ## Concluding Thoughts
 
-Wrongful termination is a complex and multifaceted issue that requires careful consideration and legal expertise. From understanding the legal grounds and common indicators to navigating the claim process and recognizing the associated consequences, addressing wrongful termination claims necessitates a comprehensive and proactive approach. Both employers and employees must remain vigilant and informed about their rights and responsibilities to foster a fair and equitable workplace.
+Wrongful termination is a complex and multifaceted [issue](../i/issue.md) that requires careful consideration and legal expertise. From understanding the legal grounds and common indicators to navigating the claim process and recognizing the associated consequences, addressing wrongful termination claims necessitates a comprehensive and proactive approach. Both employers and employees must remain vigilant and informed about their rights and responsibilities to foster a fair and equitable workplace.

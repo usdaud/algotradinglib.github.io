@@ -1,95 +1,95 @@
 # Floating Rate Fund
 
-A floating rate fund is a type of mutual fund or exchange-traded fund (ETF) that invests in financial instruments with variable or floating interest rates. Unlike fixed-rate funds where the interest payments remain constant throughout the investment period, floating rate funds benefit from getting interest payments that adjust periodically in line with prevailing market interest rates. This mechanism makes floating rate funds an attractive option for investors, particularly during periods of rising interest rates.
+A floating rate [fund](../f/fund.md) is a type of [mutual fund](../m/mutual_fund.md) or [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) that invests in financial instruments with variable or floating [interest](../i/interest.md) rates. Unlike fixed-rate funds where the [interest](../i/interest.md) payments remain constant throughout the investment period, floating rate funds benefit from getting [interest](../i/interest.md) payments that adjust periodically in line with prevailing [market](../m/market.md) [interest](../i/interest.md) rates. This mechanism makes floating rate funds an attractive option for investors, particularly during periods of rising [interest](../i/interest.md) rates.
 
 ## Introduction to Floating Rate Instruments
 
-The primary assets in a floating rate fund are typically floating rate notes (FRNs) and loans. These instruments are generally issued by corporations and financial institutions and include the following characteristics:
-- **Interest Rate Adjustment:** The interest rates on these instruments reset periodically, typically every 30 to 90 days. This reset is usually tied to a reference rate such as the London Interbank Offered Rate (LIBOR) or the Secured Overnight Financing Rate (SOFR).
-- **Credit Quality:** Floating rate instruments can range from high credit quality loans, which pose lower risk, to lower-quality, high-yield loans, which entail higher risk but potentially offer higher returns.
-- **Income Generation:** These instruments pay interest to the fund, generating income that can be distributed to investors.
+The primary assets in a floating rate [fund](../f/fund.md) are typically [floating rate notes](../f/floating_rate_notes.md) (FRNs) and loans. These instruments are generally issued by corporations and financial institutions and include the following characteristics:
+- **[Interest Rate](../i/interest_rate.md) Adjustment:** The [interest](../i/interest.md) rates on these instruments reset periodically, typically every 30 to 90 days. This reset is usually tied to a [reference rate](../r/reference_rate.md) such as the London Interbank Offered Rate (LIBOR) or the Secured Overnight [Financing](../f/financing.md) Rate (SOFR).
+- **[Credit](../c/credit.md) Quality:** Floating rate instruments can [range](../r/range.md) from high [credit](../c/credit.md) quality loans, which pose lower [risk](../r/risk.md), to lower-quality, high-[yield](../y/yield.md) loans, which entail higher [risk](../r/risk.md) but potentially [offer](../o/offer.md) higher returns.
+- **[Income](../i/income.md) Generation:** These instruments pay [interest](../i/interest.md) to the [fund](../f/fund.md), generating [income](../i/income.md) that can be distributed to investors.
 
 ## Benefits of Investing in Floating Rate Funds
 
 ### Protection Against Rising Interest Rates
-One of the most significant benefits of floating rate funds is their ability to offer protection against rising interest rates. When interest rates rise, the coupons on the floating rate instruments adjust upwards, resulting in higher income distributions for fund investors. This feature contrasts starkly with fixed-rate bonds, which can lose value as rates go up.
+One of the most significant benefits of floating rate funds is their ability to [offer](../o/offer.md) protection against rising [interest](../i/interest.md) rates. When [interest](../i/interest.md) rates rise, the coupons on the floating rate instruments adjust upwards, resulting in higher [income](../i/income.md) distributions for [fund](../f/fund.md) investors. This feature contrasts starkly with fixed-rate bonds, which can lose [value](../v/value.md) as rates go up.
 
 ### Diversification
-Floating rate funds can enhance portfolio diversification by providing exposure to sectors and instruments that may not be prevalent in equity or traditional fixed-income portfolios. The loans and notes in these funds often belong to different sectors such as industrials, consumer goods, and energy.
+Floating rate funds can enhance [portfolio diversification](../p/portfolio_diversification.md) by providing exposure to sectors and instruments that may not be prevalent in [equity](../e/equity.md) or traditional fixed-[income](../i/income.md) portfolios. The loans and notes in these funds often belong to different sectors such as industrials, [consumer goods](../c/consumer_goods.md), and energy.
 
 ### Lower Volatility
-Floating rate funds typically exhibit lower price volatility compared to other bond funds because the periodic interest rate adjustments help keep the market value of the securities relatively stable. The shorter duration of these instruments means they are less sensitive to interest rate changes.
+Floating rate funds typically exhibit lower price [volatility](../v/volatility.md) compared to other [bond](../b/bond.md) funds because the [periodic interest rate](../p/periodic_interest_rate.md) adjustments help keep the [market value](../m/market_value.md) of the securities relatively stable. The shorter [duration](../d/duration.md) of these instruments means they are less sensitive to [interest rate](../i/interest_rate.md) changes.
 
 ### High Yields
-Higher yields can be another attractive feature, especially for funds comprising lower-rated, high-yield floating rate loans. While the credit risk may be higher, the potential for elevated income can attract yield-seeking investors.
+Higher yields can be another attractive feature, especially for funds comprising lower-rated, high-[yield](../y/yield.md) floating rate loans. While the [credit risk](../c/credit_risk.md) may be higher, the potential for elevated [income](../i/income.md) can attract [yield](../y/yield.md)-seeking investors.
 
 ## Potential Risks of Floating Rate Funds
 
 ### Credit Risk
-The credit quality of the underlying loans and notes significantly impacts the risk profile of floating rate funds. Lower-rated instruments or high-yield loans come with a higher default risk, which may result in principal loss.
+The [credit](../c/credit.md) quality of the [underlying](../u/underlying.md) loans and notes significantly impacts the [risk](../r/risk.md) profile of floating rate funds. Lower-rated instruments or high-[yield](../y/yield.md) loans come with a higher [default risk](../d/default_risk.md), which may result in [principal](../p/principal.md) loss.
 
 ### Market Liquidity
-Floating rate instruments can be less liquid than other types of bonds because the market for these instruments is smaller and less developed. During periods of market stress, it might be challenging to sell these instruments at desired prices, which can impact the fund's liquidity.
+Floating rate instruments can be less [liquid](../l/liquid.md) than other types of bonds because the [market](../m/market.md) for these instruments is smaller and less developed. During periods of [market](../m/market.md) stress, it might be challenging to sell these instruments at desired prices, which can impact the [fund](../f/fund.md)'s [liquidity](../l/liquidity.md).
 
 ### Interest Rate Spread Risk
-While floating rate funds benefit from increasing rates, they are subject to spread risk. The spread is the difference between the instrument's rate and the reference rate (e.g., LIBOR or SOFR). If the spread narrows, the income generated by the floating-rate instruments may decrease.
+While floating rate funds benefit from increasing rates, they are subject to spread [risk](../r/risk.md). The spread is the difference between the instrument's rate and the [reference rate](../r/reference_rate.md) (e.g., LIBOR or SOFR). If the spread narrows, the [income](../i/income.md) generated by the floating-rate instruments may decrease.
 
 ## Types of Floating Rate Funds
 
 ### Floating Rate Loan Funds
-These funds invest primarily in floating rate loans issued by companies, often below investment grade. These loans are usually senior secured, meaning they have a higher claim on the issuer's assets in the event of default.
+These funds invest primarily in floating rate loans issued by companies, often below [investment grade](../i/investment_grade.md). These loans are usually senior secured, meaning they have a higher claim on the [issuer](../i/issuer.md)'s assets in the event of [default](../d/default.md).
 
 ### Floating Rate Note Funds
-These funds focus on floating rate notes, which are debt securities with a floating interest rate. They typically have higher credit quality compared to floating rate loan funds and less default risk.
+These funds focus on [floating rate notes](../f/floating_rate_notes.md), which are [debt](../d/debt.md) securities with a [floating interest rate](../f/floating_interest_rate.md). They typically have higher [credit](../c/credit.md) quality compared to floating rate [loan](../l/loan.md) funds and less [default risk](../d/default_risk.md).
 
 ### Floating Rate Bond Funds
-Floating rate bond funds invest in various bonds with a floating interest rate, including corporate bonds, municipal bonds, and government bonds.
+Floating rate [bond](../b/bond.md) funds invest in various bonds with a [floating interest rate](../f/floating_interest_rate.md), including corporate bonds, [municipal bonds](../m/municipal_bonds.md), and government bonds.
 
 ## Key Metrics for Evaluating Floating Rate Funds
 
 ### Duration
-Duration measures the sensitivity of a bond's price to changes in interest rates. Floating rate funds generally have low durations due to their periodic interest rate resets, making them less sensitive to rate changes.
+[Duration](../d/duration.md) measures the sensitivity of a [bond](../b/bond.md)'s price to changes in [interest](../i/interest.md) rates. Floating rate funds generally have low durations due to their [periodic interest rate](../p/periodic_interest_rate.md) resets, making them less sensitive to rate changes.
 
 ### Credit Quality
-Assessing the credit quality of a floating rate fund involves looking at the credit ratings of the underlying instruments. Funds holding higher-rated instruments pose lower credit risk compared to those holding lower-rated instruments.
+Assessing the [credit](../c/credit.md) quality of a floating rate [fund](../f/fund.md) involves looking at the [credit](../c/credit.md) ratings of the [underlying](../u/underlying.md) instruments. Funds holding higher-rated instruments pose lower [credit risk](../c/credit_risk.md) compared to those holding lower-rated instruments.
 
 ### Yield
-The yield of a floating rate fund represents the income return on the investment. It is essential to compare the yield with the associated risk levels, including credit and liquidity risks.
+The [yield](../y/yield.md) of a floating rate [fund](../f/fund.md) represents the [income](../i/income.md) [return](../r/return.md) on the investment. It is essential to compare the [yield](../y/yield.md) with the associated [risk](../r/risk.md) levels, including [credit](../c/credit.md) and [liquidity](../l/liquidity.md) risks.
 
 ### Expense Ratio
-The expense ratio indicates the annual fees charged by the fund manager, expressed as a percentage of the fund's assets. Lower expense ratios can enhance net returns for investors.
+The [expense ratio](../e/expense_ratio.md) indicates the annual fees charged by the [fund manager](../f/fund_manager.md), expressed as a percentage of the [fund](../f/fund.md)'s assets. Lower [expense](../e/expense.md) ratios can enhance net returns for investors.
 
 ## Examples of Floating Rate Funds
 
 ### Fidelity Advisor Floating Rate High Income Fund
 [Website](https://www.fidelity.com)
 
-This fund seeks high income by investing primarily in high-yield floating rate loans and floating rate debt securities. It emphasizes maintaining a diversified portfolio to mitigate risk.
+This [fund](../f/fund.md) seeks high [income](../i/income.md) by [investing](../i/investing.md) primarily in high-[yield](../y/yield.md) floating rate loans and floating rate [debt](../d/debt.md) securities. It emphasizes maintaining a diversified portfolio to mitigate [risk](../r/risk.md).
 
 ### BlackRock Floating Rate Income Fund
 [Website](https://www.blackrock.com)
 
-Invests in floating rate loans and other floating rate debt securities. It aims to provide high current income while maintaining a low-duration portfolio to minimize interest-rate sensitivity.
+Invests in floating rate loans and other floating rate [debt](../d/debt.md) securities. It aims to provide high current [income](../i/income.md) while maintaining a low-[duration](../d/duration.md) portfolio to minimize [interest](../i/interest.md)-rate sensitivity.
 
 ### T. Rowe Price Floating Rate Fund
 [Website](https://www.troweprice.com)
 
-Focuses on providing high current income through investments in floating rate loans and other floating rate debt instruments. The fund emphasizes quality and active risk management.
+Focuses on providing high current [income](../i/income.md) through investments in floating rate loans and other floating rate [debt](../d/debt.md) instruments. The [fund](../f/fund.md) emphasizes quality and active [risk management](../r/risk_management.md).
 
 ## Strategies for Investing in Floating Rate Funds
 
 ### Diversification
-Investors should consider diversifying their investments by including floating rate funds as part of a broader fixed-income strategy. This can help reduce overall portfolio risk and enhance yield.
+Investors should consider diversifying their investments by including floating rate funds as part of a broader fixed-[income](../i/income.md) strategy. This can help reduce overall portfolio [risk](../r/risk.md) and enhance [yield](../y/yield.md).
 
 ### Duration Management
-Utilizing floating rate funds with low durations can be an effective way of managing interest rate risk, particularly during periods of expected rate hikes.
+Utilizing floating rate funds with low durations can be an effective way of managing [interest rate risk](../i/interest_rate_risk.md), particularly during periods of expected rate hikes.
 
 ### Credit Monitoring
-Regularly monitoring the credit quality of the underlying instruments can help investors stay informed about potential risks and make informed decisions.
+Regularly monitoring the [credit](../c/credit.md) quality of the [underlying](../u/underlying.md) instruments can help investors stay informed about potential risks and make informed decisions.
 
 ### Allocation
-Determining an appropriate allocation to floating rate funds within a portfolio depends on individual investment goals, risk tolerance, and market outlook. Some investors may prefer a higher allocation in a rising rate environment, while others may opt for a more balanced approach.
+Determining an appropriate allocation to floating rate funds within a portfolio depends on individual investment goals, [risk tolerance](../r/risk_tolerance.md), and [market](../m/market.md) outlook. Some investors may prefer a higher allocation in a rising rate environment, while others may opt for a more balanced approach.
 
 ## Conclusion
 
-Floating rate funds offer a compelling investment option for those seeking protection against rising interest rates, diversification, and potentially higher yields. However, investors must be aware of associated risks, including credit risk and market liquidity. Careful evaluation of fund metrics and an understanding of the underlying instruments are essential steps in making informed investment decisions. As with any investment, consultation with a financial advisor is advisable to ensure that floating rate funds align with one's overall investment strategy and objectives.
+Floating rate funds [offer](../o/offer.md) a compelling investment option for those seeking protection against rising [interest](../i/interest.md) rates, [diversification](../d/diversification.md), and potentially higher yields. However, investors must be aware of associated risks, including [credit risk](../c/credit_risk.md) and [market](../m/market.md) [liquidity](../l/liquidity.md). Careful evaluation of [fund](../f/fund.md) metrics and an understanding of the [underlying](../u/underlying.md) instruments are essential steps in making informed investment decisions. As with any investment, consultation with a [financial advisor](../f/financial_advisor.md) is advisable to ensure that floating rate funds align with one's overall [investment strategy](../i/investment_strategy.md) and objectives.

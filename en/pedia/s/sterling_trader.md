@@ -1,22 +1,22 @@
 # Sterling Trader
 
-Sterling Trader is a suite of professional-grade electronic trading platforms designed for active traders, [proprietary trading](../p/proprietary_trading.md) groups, and institutional clients. Developed by Sterling Trading Tech, these platforms are known for their robust features, reliability, and customization options.
+Sterling [Trader](../t/trader.md) is a suite of professional-grade electronic trading platforms designed for active traders, [proprietary trading](../p/proprietary_trading.md) groups, and institutional clients. Developed by Sterling Trading Tech, these platforms are known for their [robust](../r/robust.md) features, reliability, and customization [options](../o/options.md).
 
 ## Key Products
 
-1. Sterling Trader® Pro
-2. Sterling Trader® Elite
-3. Sterling Trader® Web
-4. Sterling Trader® Mobile
+1. Sterling [Trader](../t/trader.md)® Pro
+2. Sterling [Trader](../t/trader.md)® Elite
+3. Sterling [Trader](../t/trader.md)® Web
+4. Sterling [Trader](../t/trader.md)® Mobile
 
 ## Sterling Trader® Pro
 
-The flagship product of the suite, Sterling Trader Pro is a powerful, broker-neutral platform designed for professional equity traders.
+The flagship product of the suite, Sterling [Trader](../t/trader.md) Pro is a powerful, [broker](../b/broker.md)-[neutral](../n/neutral.md) platform designed for professional [equity](../e/equity.md) traders.
 
 ### Key Features:
 
-1. **Advanced Order Entry**
-  - Multiple [order types](../o/order_types_in_trading.md) (market, limit, stop, etc.)
+1. **Advanced [Order](../o/order.md) Entry**
+  - [Multiple](../m/multiple.md) [order types](../o/order_types_in_trading.md) ([market](../m/market.md), limit, stop, etc.)
   - Single-click trading
   - Customizable hotkeys
   - Basket trading capabilities
@@ -28,7 +28,7 @@ The flagship product of the suite, Sterling Trader Pro is a powerful, broker-neu
   - Real-time news integration
 
 3. **Charting**
-  - Multiple chart types and timeframes
+  - [Multiple](../m/multiple.md) chart types and timeframes
   - [Technical indicators](../t/technical_indicators.md) and drawing tools
   - Customizable layouts
 
@@ -38,7 +38,7 @@ The flagship product of the suite, Sterling Trader Pro is a powerful, broker-neu
   - Customizable alerts and notifications
 
 5. **[Order Routing](../o/order_routing.md)**
-  - Direct market access (DMA)
+  - Direct [market](../m/market.md) access (DMA)
   - Smart [order routing](../o/order_routing.md)
   - Access to [dark pools](../d/dark_pools.md) and ECNs
 
@@ -47,7 +47,7 @@ The flagship product of the suite, Sterling Trader Pro is a powerful, broker-neu
   - API for custom add-ons and integrations
 
 7. **Compliance Tools**
-  - Trade surveillance features
+  - [Trade](../t/trade.md) surveillance features
   - Reporting capabilities for regulatory requirements
 
 ## Sterling Trader® Elite
@@ -55,18 +55,18 @@ The flagship product of the suite, Sterling Trader Pro is a powerful, broker-neu
 An enhanced version of Pro, designed for high-frequency traders and institutions requiring ultra-low latency.
 
 ### Additional Features:
-- Co-location options for reduced latency
+- Co-location [options](../o/options.md) for reduced latency
 - Advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities
 - More extensive API access
 
 ## Sterling Trader® Web
 
-A browser-based version offering core trading functionalities without requiring software installation.
+A browser-based version [offering](../o/offering.md) core trading functionalities without requiring software installation.
 
 ### Key Features:
 - Access from any internet-connected device
 - Real-time quotes and charts
-- Basic order entry and [position management](../p/position_management.md)
+- Basic [order](../o/order.md) entry and [position management](../p/position_management.md)
 
 ## Sterling Trader® Mobile
 
@@ -74,32 +74,32 @@ Mobile application for iOS and Android, allowing traders to monitor markets and 
 
 ### Key Features:
 - [Real-time market data](../r/real-time_market_data.md) and watchlists
-- Basic order entry and [position management](../p/position_management.md)
+- Basic [order](../o/order.md) entry and [position management](../p/position_management.md)
 - Push notifications for alerts
 
 ## Technology Infrastructure
 
-- Built on robust, scalable architecture
-- Supports high-volume trading environments
+- Built on [robust](../r/robust.md), scalable architecture
+- Supports high-[volume](../v/volume.md) trading environments
 - Regular updates and maintenance
 
 ## Target Audience
 
 - Professional day traders
 - [Proprietary trading](../p/proprietary_trading.md) firms
-- Hedge funds
+- [Hedge](../h/hedge.md) funds
 - Institutional trading desks
-- Broker-dealers
+- [Broker](../b/broker.md)-dealers
 
 ## Licensing and Deployment
 
 - Available through partner brokers and institutions
-- Typically requires a minimum trading volume or account size
+- Typically requires a minimum trading [volume](../v/volume.md) or account size
 - Can be deployed as a hosted solution or installed locally
 
 ## Compliance and Regulation
 
 - Adheres to SEC, [FINRA](../f/finra.md), and other regulatory requirements
-- Built-in tools for trade surveillance and reporting
+- Built-in tools for [trade](../t/trade.md) surveillance and reporting
 
-Sterling Trader platforms are known for their stability, speed, and comprehensive feature set, making them a popular choice among professional traders who require reliable and powerful tools for executing complex [trading strategies](../t/trading_strategies.md) in fast-paced market environments.
+Sterling [Trader](../t/trader.md) platforms are known for their stability, speed, and comprehensive feature set, making them a popular choice among professional traders who require reliable and powerful tools for executing complex [trading strategies](../t/trading_strategies.md) in fast-paced [market](../m/market.md) environments.

@@ -1,10 +1,10 @@
 # Durbin Watson Statistic
 
-The Durbin-Watson (DW) statistic is a number that tests for autocorrelation in the residuals from a statistical regression analysis. Autocorrelation, also known as serial correlation, is where errors (residuals) are not independent from one another but may follow some pattern across time or space. In simpler terms, the DW statistic helps identify whether the residuals of a regression model are correlated with each other, which can undermine the assumption of independence of errors fundamental to many regression models.
+The Durbin-Watson (DW) statistic is a number that tests for [autocorrelation](../a/autocorrelation.md) in the residuals from a statistical [regression analysis](../r/regression_analysis.md). [Autocorrelation](../a/autocorrelation.md), also known as serial [correlation](../c/correlation.md), is where errors (residuals) are not independent from one another but may follow some pattern across time or space. In simpler terms, the DW statistic helps identify whether the residuals of a regression model are correlated with each other, which can undermine the assumption of independence of errors fundamental to many regression models.
 
 ## Purpose and Application in Regression Analysis
 
-The primary purpose of the Durbin-Watson statistic is to test the null hypothesis that the residuals from an estimated regression are uncorrelated. It frequently appears in the context of time series analysis and econometrics, as it's often necessary to test whether the error terms in a regression model display autocorrelation. When modeling financial data, such as stock prices or trading volumes, detecting autocorrelation is critical, as it can lead to incorrect inferences about parameter significance and the overall model's predictive power.
+The primary purpose of the Durbin-Watson statistic is to test the [null hypothesis](../n/null_hypothesis.md) that the residuals from an estimated regression are uncorrelated. It frequently appears in the context of [time series analysis](../t/time_series_analysis.md) and [econometrics](../e/econometrics_in_trading.md), as it's often necessary to test whether the error terms in a regression model display [autocorrelation](../a/autocorrelation.md). When modeling financial data, such as stock prices or trading volumes, detecting [autocorrelation](../a/autocorrelation.md) is critical, as it can lead to incorrect inferences about parameter significance and the overall model's predictive power.
 
 ## Calculation of Durbin-Watson Statistic
 
@@ -17,19 +17,19 @@ Where:
 - \(n\) is the number of observations
 
 The DW statistic ranges from 0 to 4:
-- A value near 2 indicates non-autocorrelation.
-- A value toward 0 indicates positive autocorrelation.
-- A value toward 4 indicates negative autocorrelation.
+- A [value](../v/value.md) near 2 indicates non-[autocorrelation](../a/autocorrelation.md).
+- A [value](../v/value.md) toward 0 indicates positive [autocorrelation](../a/autocorrelation.md).
+- A [value](../v/value.md) toward 4 indicates negative [autocorrelation](../a/autocorrelation.md).
 
 ### Interpretation of Durbin-Watson Values
 
-- **0 to <2:** Indicates positive autocorrelation. The closer the value is to 0, the stronger the positive autocorrelation.
-- **2:** No autocorrelation (the residuals are uncorrelated).
-- **>2 to 4:** Indicates negative autocorrelation. The closer the value is to 4, the stronger the negative autocorrelation.
+- **0 to <2:** Indicates positive [autocorrelation](../a/autocorrelation.md). The closer the [value](../v/value.md) is to 0, the stronger the positive [autocorrelation](../a/autocorrelation.md).
+- **2:** No [autocorrelation](../a/autocorrelation.md) (the residuals are uncorrelated).
+- **>2 to 4:** Indicates negative [autocorrelation](../a/autocorrelation.md). The closer the [value](../v/value.md) is to 4, the stronger the negative [autocorrelation](../a/autocorrelation.md).
 
 ## Steps to Perform Durbin-Watson Test
 
-1. **Estimate the Regression Model:** Run the regression analysis and obtain the residuals.
+1. **Estimate the Regression Model:** Run the [regression analysis](../r/regression_analysis.md) and obtain the residuals.
 2. **Compute the Differences:** Calculate \(e_t - e_{t-1}\) for all residuals.
 3. **Square the Differences:** Square the differences to ensure they are positive.
 4. **Sum Squared Differences and Residuals:** Compute the sum of squared differences and the sum of squared residuals.
@@ -39,39 +39,39 @@ The DW statistic ranges from 0 to 4:
 
 ### Financial Markets
 
-In financial markets, where prices and returns data are often serially correlated, the DW statistic is useful for testing the underlying assumptions in econometric models used for asset pricing, risk management, and algorithmic trading strategies.
+In [financial markets](../f/financial_market.md), where prices and returns data are often serially correlated, the DW statistic is useful for testing the [underlying](../u/underlying.md) assumptions in econometric models used for [asset](../a/asset.md) pricing, [risk management](../r/risk_management.md), and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
 ### Algorithmic Trading
 
-Algorithmic trading strategies often depend on precise statistical models to predict future price movements. Autocorrelation in residuals can suggest that past price movements are being echoed in future ones, which can be exploited or need correction within the trading algorithm.
+[Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) often depend on precise statistical models to predict future price movements. [Autocorrelation](../a/autocorrelation.md) in residuals can suggest that past price movements are being echoed in future ones, which can be exploited or need [correction](../c/correction.md) within the trading algorithm.
 
 ### Macroeconomic Time Series
 
-Macroeconomic time series data, such as GDP, inflation rates, and unemployment rates, often exhibit autocorrelation. Using the DW statistic, researchers can adjust their models to account for this and improve the robustness of their forecasts.
+Macroeconomic [time series](../t/time_series.md) data, such as GDP, [inflation](../i/inflation.md) rates, and [unemployment](../u/unemployment.md) rates, often exhibit [autocorrelation](../a/autocorrelation.md). Using the DW statistic, researchers can adjust their models to account for this and improve the robustness of their forecasts.
 
 ## Assumptions and Limitations
 
 ### Assumptions
 
 - **Independent and Identically Distributed Errors:** The DW test assumes that the residuals are independently and identically distributed. If this assumption is violated, the test may give misleading results.
-- **Linear Relationship:** The regression model is correctly specified if the relationship between dependent and independent variables is linear.
+- **[Linear Relationship](../l/linear_relationship.md):** The regression model is correctly specified if the relationship between dependent and independent variables is linear.
 
 ### Limitations
 
 - **Nonlinear Models:** The DW test may not perform well for nonlinear models.
-- **Detect Only First-Order Autocorrelation:** The DW statistic primarily detects first-order autocorrelation and may not detect higher-order serial correlations.
-- **Bounded Analysis:** The test results are bound within the 0-4 range, possibly hiding more complex serial correlation structures.
+- **Detect Only First-[Order](../o/order.md) [Autocorrelation](../a/autocorrelation.md):** The DW statistic primarily detects first-[order](../o/order.md) [autocorrelation](../a/autocorrelation.md) and may not detect higher-[order](../o/order.md) [serial correlations](../s/serial_correlations.md).
+- **Bounded Analysis:** The test results are bound within the 0-4 [range](../r/range.md), possibly hiding more complex serial [correlation](../c/correlation.md) structures.
 
 ## Alternative Tests
 
-While the DW statistic is widely used, there are alternative tests for autocorrelation:
+While the DW statistic is widely used, there are alternative tests for [autocorrelation](../a/autocorrelation.md):
 
-- **Breusch-Godfrey Test:** Uses a Lagrange Multiplier approach and can detect higher-order autocorrelation, making it more versatile than the DW test.
-- **Box-Pierce and Ljung-Box Tests:** Focus on the autocorrelation function of the residuals up to a specified lag.
+- **Breusch-Godfrey Test:** Uses a Lagrange [Multiplier](../m/multiplier.md) approach and can detect higher-[order](../o/order.md) [autocorrelation](../a/autocorrelation.md), making it more versatile than the DW test.
+- **Box-Pierce and Ljung-Box Tests:** Focus on the [autocorrelation](../a/autocorrelation.md) function of the residuals up to a specified lag.
 
 ### Breusch-Godfrey Test
 
-The Breusch-Godfrey test is more flexible, allowing for testing higher-order serial correlations. It involves estimating an auxiliary regression that includes lagged residuals and testing for their joint significance.
+The Breusch-Godfrey test is more flexible, allowing for testing higher-[order](../o/order.md) [serial correlations](../s/serial_correlations.md). It involves estimating an auxiliary regression that includes lagged residuals and testing for their [joint](../j/joint.md) significance.
 
 ### Box-Pierce and Ljung-Box Tests
 
@@ -79,7 +79,7 @@ Both tests involve computing a statistic based on the sum of squared autocorrela
 
 ## Example in R
 
-Here is an example of how to conduct the Durbin-Watson test in R using the `lm` function for regression analysis and `dwtest` function from the `lmtest` package:
+Here is an example of how to conduct the Durbin-Watson test in R using the `lm` function for [regression analysis](../r/regression_analysis.md) and `dwtest` function from the `lmtest` package:
 
 ```R
 # Install and load necessary packages
@@ -101,8 +101,8 @@ dwtest(model)
 In Python, you can use the `statsmodels` library to perform the Durbin-Watson test. Here is an example:
 
 ```python
-import statsmodels.api as sm
-import numpy as np
+[import](../i/import.md) statsmodels.api as sm
+[import](../i/import.md) numpy as np
 
 # Load sample data
 data = sm.datasets.get_rdataset('mtcars').data
@@ -126,10 +126,10 @@ print(f'Durbin-Watson statistic: {dw_statistic}')
 
 Many financial institutions and trading firms use Durbin-Watson and other statistical tests to validate their models. Notable companies include:
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) is a leading algorithmic trading platform that allows users to backtest and deploy their trading strategies while ensuring statistical rigor.
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) is a leading [algorithmic trading](../a/accountability.md) platform that allows users to backtest and deploy their [trading strategies](../t/trading_strategies.md) while ensuring statistical rigor.
 
-- **WorldQuant**: [WorldQuant](https://www.worldquant.com/) employs high-level quant strategies where such statistical tests are crucial for model validation and strategy optimization.
+- **WorldQuant**: [WorldQuant](https://www.worldquant.com/) employs high-level quant strategies where such statistical tests are crucial for model validation and strategy [optimization](../o/optimization.md).
 
-- **Jane Street**: [Jane Street](https://www.janestreet.com/) is a quantitative trading firm that uses advanced statistical techniques, including the Durbin-Watson test, to maintain the integrity of their trading algorithms.
+- **Jane Street**: [Jane Street](https://www.janestreet.com/) is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that uses advanced statistical techniques, including the Durbin-Watson test, to maintain the integrity of their [trading algorithms](../t/trading_algorithms.md).
 
-Understanding the Durbin-Watson statistic and its application can significantly improve the robustness of regression models, particularly in fields like finance where data series often exhibit autocorrelation. It forms an essential part of the toolkit for quantitative analysts, econometricians, and data scientists working with time series data.
+Understanding the Durbin-Watson statistic and its application can significantly improve the robustness of regression models, particularly in fields like [finance](../f/finance.md) where data series often exhibit [autocorrelation](../a/autocorrelation.md). It forms an essential part of the toolkit for quantitative analysts, econometricians, and data scientists working with [time series](../t/time_series.md) data.

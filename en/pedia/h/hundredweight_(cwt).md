@@ -1,20 +1,20 @@
 # Hundredweight (Cwt)
 
-Hundredweight, often abbreviated as "Cwt," is a unit of mass used in certain measurement systems, particularly in the United States and the United Kingdom. Despite its name, the hundredweight does not typically equate to exactly a hundred units of weight. Instead, the term’s definition and value vary significantly between regions, reflecting historical differences in measurement systems. This document aims to unpack the historical context, current usage, and implications of the hundredweight as a standard of mass.
+Hundredweight, often abbreviated as "Cwt," is a unit of mass used in certain measurement systems, particularly in the United States and the United Kingdom. Despite its name, the hundredweight does not typically equate to exactly a hundred units of weight. Instead, the term’s definition and [value](../v/value.md) vary significantly between regions, reflecting historical differences in measurement systems. This document aims to unpack the historical context, current usage, and implications of the hundredweight as a standard of mass.
 
 ## Historical Context
 
 ### Origins of the Hundredweight
 
-The hundredweight has its origins in medieval England, where trading required standardized measurements for the exchange of goods. The term "hundredweight" comes from the general practice of counting goods in lots of one hundred. Originally, the UK hundredweight was based on the long hundredweight system, meaning a unit of 112 pounds. This choice stems from the traditional trade practices that involved linking measurement systems to the dozen (12) or the gross (144).
+The hundredweight has its origins in medieval England, where trading required standardized measurements for the [exchange](../e/exchange.md) of goods. The term "hundredweight" comes from the general practice of counting goods in lots of one hundred. Originally, the UK hundredweight was based on the long hundredweight system, meaning a unit of 112 pounds. This choice stems from the traditional [trade](../t/trade.md) practices that involved linking measurement systems to the dozen (12) or the gross (144).
 
 ### Different Definitions
 
 Over time, two distinct definitions of the hundredweight emerged, corresponding to the British imperial system and the US customary system:
 
-1. **Long Hundredweight (Imperial Hundredweight)**: The British system defines one hundredweight as 112 pounds (approximately 50.802 kilograms). The UK hundredweight is still utilized in specific contexts, including trade, agriculture, and commodity markets.
+1. **Long Hundredweight (Imperial Hundredweight)**: The British system defines one hundredweight as 112 pounds (approximately 50.802 kilograms). The UK hundredweight is still utilized in specific contexts, including [trade](../t/trade.md), agriculture, and [commodity](../c/commodity.md) markets.
 
-2. **Short Hundredweight**: The United States adopted a different approach, utilizing a hundredweight equivalent to 100 pounds (approximately 45.359 kilograms). This version is often prevalent in the agricultural industry and commodity trading.
+2. **Short Hundredweight**: The United States adopted a different approach, utilizing a hundredweight equivalent to 100 pounds (approximately 45.359 kilograms). This version is often prevalent in the agricultural [industry](../i/industry.md) and [commodity](../c/commodity.md) trading.
 
 ## Measurement Systems
 
@@ -35,7 +35,7 @@ The United States developed its own customary system of weights and measures, wh
 - 1 ton (US) = 20 hundredweight (US) = 2000 pounds
 - 1 hundredweight (US) = 100 pounds
 
-This system is still in widespread use in the US, particularly in agriculture and industries related to production and distribution of commodities.
+This system is still in widespread use in the US, particularly in agriculture and industries related to production and [distribution](../d/distribution.md) of commodities.
 
 ### Conversion Between Systems
 
@@ -57,9 +57,9 @@ The hundredweight remains a crucial measure in agriculture, particularly in the 
 
 ### Commodity Markets
 
-In commodity markets, the hundredweight facilitates trading contracts and standardizes units for goods sold in bulk. It allows for clear and consistent communication in buying and selling agreements.
+In [commodity](../c/commodity.md) markets, the hundredweight facilitates trading contracts and standardizes units for goods sold in bulk. It allows for clear and consistent communication in buying and selling agreements.
 
-- **Agricultural Futures**: Futures contracts, which lock in prices for commodities to be delivered in the future, commonly use the hundredweight as a base unit. This ensures that contract sizes and prices remain standardized.
+- **Agricultural [Futures](../f/futures.md)**: [Futures contracts](../f/futures_contracts.md), which lock in prices for commodities to be delivered in the future, commonly use the hundredweight as a base unit. This ensures that contract sizes and prices remain standardized.
 - **Metal Commodities**: Although less common, metals like zinc and lead could also be measured in hundredweight for specific contracts and trading agreements.
 
 ## Contemporary Relevance
@@ -74,7 +74,7 @@ In the United States, the hundredweight remains prevalent, especially within agr
 
 ### International Trade
 
-The differences between the UK and US hundredweight units necessitate careful attention in international trade. When engaging in cross-border transactions, traders must be diligent in ensuring that the unit of measure is clearly specified and understood by all parties.
+The differences between the UK and US hundredweight units necessitate careful attention in international [trade](../t/trade.md). When engaging in cross-border transactions, traders must be diligent in ensuring that the unit of measure is clearly specified and understood by all parties.
 
 ## Metric System Influence
 
@@ -91,4 +91,4 @@ The metric system’s simplicity, with its use of the kilogram as a base unit, c
 
 ## Conclusion
 
-The hundredweight, whether as 112 pounds in the UK or 100 pounds in the US, remains a fascinating example of historical measurement systems adapted for specific trade needs. Despite the global tilt towards the metric system, the hundredweight's usage in agriculture and commodity markets showcases the persistence of traditional units in modern trade. Understanding its dual definitions and applications is vital for professionals in relevant industries, ensuring accurate transactions and communication across regional boundaries.
+The hundredweight, whether as 112 pounds in the UK or 100 pounds in the US, remains a fascinating example of historical measurement systems adapted for specific [trade](../t/trade.md) needs. Despite the global tilt towards the metric system, the hundredweight's usage in agriculture and [commodity](../c/commodity.md) markets showcases the persistence of traditional units in modern [trade](../t/trade.md). Understanding its dual definitions and applications is vital for professionals in relevant industries, ensuring accurate transactions and communication across regional boundaries.

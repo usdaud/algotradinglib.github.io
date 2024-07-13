@@ -1,12 +1,12 @@
 # Support Vector Machines (SVM)
 
-[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) are a set of supervised learning methods used for classification, regression, and outliers detection. Developed initially for binary classification problems, SVMs are powerful, versatile algorithms well-suited for a wide range of tasks.
+[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) are a set of supervised learning methods used for classification, regression, and outliers detection. Developed initially for binary classification problems, SVMs are powerful, versatile algorithms well-suited for a wide [range](../r/range.md) of tasks.
 
 ## Fundamentals of SVM
 
 ### Basic Idea
 
-The fundamental idea behind SVM is to find the best separating hyperplane that divides a dataset into classes. In a 2D space, this is analogous to drawing a line that best separates the data points into different classes. The goal is to maximize the margin, i.e., the distance between the hyperplane and the closest data point from either class. This hyperplane is referred to as the optimal hyperplane.
+The fundamental idea behind SVM is to find the best separating hyperplane that divides a dataset into classes. In a 2D space, this is analogous to drawing a line that best separates the data points into different classes. The goal is to maximize the [margin](../m/margin.md), i.e., the distance between the hyperplane and the closest data point from either class. This hyperplane is referred to as the optimal hyperplane.
 
 ### Mathematical Formulation
 
@@ -18,16 +18,16 @@ The SVM algorithm finds a hyperplane defined by:
 \[ w \cdot x - b = 0 \]
 Where \( w \) is the weight vector, \( x \) is the input vector, and \( b \) is the bias term.
 
-The objective is to maximize the margin, which is given by:
-\[ \text{Margin} = \frac{2}{||w||} \]
-This leads to a quadratic optimization problem with constraints:
+The objective is to maximize the [margin](../m/margin.md), which is given by:
+\[ \text{[Margin](../m/margin.md)} = \frac{2}{||w||} \]
+This leads to a quadratic [optimization](../o/optimization.md) problem with constraints:
 \[ \text{minimize} \quad \frac{1}{2} ||w||^2 \]
 Subject to:
 \[ y_i (w \cdot x_i - b) \geq 1 \]
 
 ### Support Vectors
 
-The data points that are closest to the hyperplane are termed support vectors. These points are critical as they define the position and orientation of the hyperplane. If a point is outside the margin, it is not a support vector and does not influence the model.
+The data points that are closest to the hyperplane are termed support vectors. These points are critical as they define the position and orientation of the hyperplane. If a point is outside the [margin](../m/margin.md), it is not a support vector and does not influence the model.
 
 ## Types of SVM
 
@@ -43,14 +43,14 @@ When data is not linearly separable, SVM can still be used through the applicati
 
 1. **Polynomial Kernel**: 
 \[ K(x_i, x_j) = (x_i \cdot x_j + c)^d \]
-2. **Radial Basis Function (RBF) Kernel / Gaussian Kernel**:
-\[ K(x_i, x_j) = \exp(-\gamma ||x_i - x_j||^2) \]
+2. **Radial [Basis](../b/basis.md) Function (RBF) Kernel / Gaussian Kernel**:
+\[ K(x_i, x_j) = \exp(-\[gamma](../g/gamma.md) ||x_i - x_j||^2) \]
 3. **Sigmoid Kernel**:
-\[ K(x_i, x_j) = \tanh(\alpha x_i \cdot x_j + c) \]
+\[ K(x_i, x_j) = \tanh(\[alpha](../a/alpha.md) x_i \cdot x_j + c) \]
 
 ### SVM for Regression (SVR)
 
-[Support Vector Regression](../s/support_vector_regression.md) (SVR) is an extension of SVM for regression tasks. SVR aims to find a function that deviates from the actual observed targets by a value no greater than a specified margin. The goal is to ensure that the predicted value lies within a certain distance from the actual value, defined by a threshold parameter \( \epsilon \).
+[Support Vector Regression](../s/support_vector_regression.md) (SVR) is an extension of SVM for regression tasks. SVR aims to find a function that deviates from the actual observed targets by a [value](../v/value.md) no greater than a specified [margin](../m/margin.md). The goal is to ensure that the predicted [value](../v/value.md) lies within a certain distance from the actual [value](../v/value.md), defined by a threshold parameter \( \epsilon \).
 
 #### Formulation
 
@@ -68,19 +68,19 @@ One-Class SVM, an extension of SVM, is particularly useful for outlier detection
 
 ### Libraries and Tools
 
-1. **scikit-learn**: A popular Python library for machine learning, which provides robust support for SVM through its `svm` module. [scikit-learn](https://scikit-learn.org/stable/modules/svm.html)
+1. **scikit-learn**: A popular Python library for machine learning, which provides [robust](../r/robust.md) support for SVM through its `svm` module. [scikit-learn](https://scikit-learn.org/stable/modules/svm.html)
 2. **LIBSVM**: A library for [Support Vector Machines](../s/support_vector_machines_in_trading.md) that is widely used for SVM implementation. [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
-3. **TensorFlow**: An open-source library for machine learning that also supports SVM implementations. [TensorFlow SVM](https://www.tensorflow.org/overview)
-4. **KERAS**: An open-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md) and also has modules to integrate SVM. [KERAS](https://keras.io/)
+3. **TensorFlow**: An [open](../o/open.md)-source library for machine learning that also supports SVM implementations. [TensorFlow SVM](https://www.tensorflow.org/overview)
+4. **KERAS**: An [open](../o/open.md)-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md) and also has modules to integrate SVM. [KERAS](https://keras.io/)
 
 ### Example Code in Python
 
 Here is a simple example of implementing a linear SVM using `scikit-learn`:
 
 ```python
-from sklearn import svm
-from sklearn.datasets import make_classification
-from sklearn.model_selection import train_test_split
+from sklearn [import](../i/import.md) svm
+from sklearn.datasets [import](../i/import.md) make_classification
+from sklearn.model_selection [import](../i/import.md) train_test_split
 
 # Generate a random dataset
 X, y = make_classification(n_samples=100, n_features=2, n_classes=2, random_state=42)
@@ -105,7 +105,7 @@ print("Accuracy: ", clf.score(X_test, y_test))
 
 ### Financial Market Prediction
 
-SVMs are extensively used in the finance industry for stock price prediction, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md). They can model complex relationships in financial data and provide robust predictive capabilities.
+SVMs are extensively used in the [finance](../f/finance.md) [industry](../i/industry.md) for stock price prediction, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md). They can model complex relationships in financial data and provide [robust](../r/robust.md) predictive capabilities.
 
 ### Medical Diagnosis
 
@@ -121,13 +121,13 @@ SVMs are widely used in image and speech recognition systems. They help in handw
 
 ### Text Categorization
 
-[Support Vector Machines](../s/support_vector_machines_in_trading.md) can efficiently categorize text, such as emails, news articles, and social media posts, into predefined categories. They are useful in spam detection, [sentiment analysis](../s/sentiment_analysis.md), and topic classification.
+[Support Vector Machines](../s/support_vector_machines_in_trading.md) can efficiently categorize text, such as emails, news articles, and [social media](../s/social_media.md) posts, into predefined categories. They are useful in spam detection, [sentiment analysis](../s/sentiment_analysis.md), and topic classification.
 
 ## Challenges with SVM
 
 1. **High Computational Cost**: Training SVM with large datasets can be time-consuming and require substantial computational resources.
 2. **Choice of Kernel**: Selecting an appropriate kernel function and tuning its parameters is critical and can be challenging.
-3. **Sensitivity to Parameter Selection**: The performance of SVM is sensitive to the choice of parameters like C (regularization) and γ (gamma in RBF kernel).
+3. **Sensitivity to Parameter Selection**: The performance of SVM is sensitive to the choice of parameters like C (regularization) and γ ([gamma](../g/gamma.md) in RBF kernel).
 
 ## Summary
 

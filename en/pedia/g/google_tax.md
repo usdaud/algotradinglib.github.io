@@ -1,23 +1,23 @@
 # Google Tax
 
 ## Introduction
-The term "Google Tax" generally refers to various tax measures implemented by countries worldwide in response to perceived tax avoidance by large multinational digital companies, such as Google, Apple, Facebook, Amazon, and others. These companies often leverage complex structures and transfer pricing strategies to minimize their tax liabilities, especially in jurisdictions with high corporate tax rates. As the digital economy grew, governments became more concerned about the loss of tax revenue and the perceived unfairness of such arrangements, leading to the introduction of specific taxation measures against these practices.
+The term "Google Tax" generally refers to various tax measures implemented by countries worldwide in response to perceived [tax avoidance](../t/tax_avoidance.md) by large multinational digital companies, such as Google, Apple, Facebook, Amazon, and others. These companies often [leverage](../l/leverage.md) complex structures and [transfer pricing](../t/transfer_price.md) strategies to minimize their tax liabilities, especially in jurisdictions with high [corporate tax](../c/corporate_tax.md) rates. As the digital [economy](../e/economy.md) grew, governments became more concerned about the loss of tax [revenue](../r/revenue.md) and the perceived unfairness of such arrangements, leading to the introduction of specific [taxation](../t/taxation.md) measures against these practices.
 
 ## The Concept of Digital Economy and Taxation
-Multinational companies that operate primarily in the digital space may not need a physical presence in a country to conduct significant business there. Traditional tax systems, however, were designed with the assumption that businesses must have a physical presence in a country to generate revenue. This disparity led to calls for reform in international tax rules, which have largely remained unchanged since their inception in the early 20th century.
+Multinational companies that operate primarily in the digital space may not need a physical presence in a country to conduct significant [business](../b/business.md) there. Traditional tax systems, however, were designed with the assumption that businesses must have a physical presence in a country to generate [revenue](../r/revenue.md). This disparity led to calls for reform in international tax rules, which have largely remained [unchanged](../u/unchanged.md) since their inception in the early 20th century.
 
 ### Challenges in Taxing Digital Companies
-1. **Lack of Physical Presence**: Digital companies can earn significant revenues without a physical presence in the country. Therefore, traditional tax rules that rely on physical presence to establish tax obligations are less effective.
-2. **Intangible Assets**: Digital businesses often derive value from intangible assets such as intellectual property, which can be easily moved to low-tax jurisdictions, making it hard to assign tax liabilities accurately.
-3. **Data and User Contribution**: Users in different countries contribute to the generation of value in digital businesses, but current tax systems do not adequately capture this aspect.
+1. **Lack of Physical Presence**: Digital companies can earn significant revenues without a physical presence in the country. Therefore, traditional tax rules that rely on physical presence to establish tax [obligations](../o/obligation.md) are less effective.
+2. **Intangible Assets**: Digital businesses often derive [value](../v/value.md) from intangible assets such as intellectual property, which can be easily moved to low-tax jurisdictions, making it hard to assign tax liabilities accurately.
+3. **Data and User Contribution**: Users in different countries contribute to the generation of [value](../v/value.md) in digital businesses, but current tax systems do not adequately capture this aspect.
 
 ## Overview of Google Tax Initiatives
 
 ### UK Digital Services Tax (DST)
-The United Kingdom introduced its Digital Services Tax in April 2020. The DST applies a 2% tax on the revenues of certain digital businesses that derive value from UK users.
+The United Kingdom introduced its Digital Services Tax in April 2020. The DST applies a 2% tax on the revenues of certain digital businesses that derive [value](../v/value.md) from UK users.
 
-- **Scope**: The tax targets social media platforms, internet search engines, and online marketplaces.
-- **Thresholds**: Companies are liable for DST if their worldwide revenue from digital activities exceeds £500 million, and more than £25 million of this revenue is derived from UK users.
+- **[Scope](../s/scope.md)**: The tax targets [social media](../s/social_media.md) platforms, internet search engines, and online marketplaces.
+- **Thresholds**: Companies are liable for DST if their worldwide [revenue](../r/revenue.md) from digital activities exceeds £500 million, and more than £25 million of this [revenue](../r/revenue.md) is derived from UK users.
 - **Impact**: The UK government estimated that by the fiscal year 2024-2025, the tax would generate approximately £515 million annually.
 
 For more information, you can visit the [UK Government Website](https://www.gov.uk/government/publications/introduction-of-the-new-digital-services-tax).
@@ -25,24 +25,24 @@ For more information, you can visit the [UK Government Website](https://www.gov.
 ### French Digital Services Tax
 France was one of the first countries to implement a tax specifically aimed at large digital companies. The French Digital Services Tax came into effect in July 2019.
 
-- **Scope**: The tax targets companies that provide digital connections between users and make money off advertising, the sale of user data, or connecting buyers with sellers.
+- **[Scope](../s/scope.md)**: The tax targets companies that provide digital connections between users and make [money](../m/money.md) off advertising, the [sale](../s/sale.md) of user data, or connecting buyers with sellers.
 - **Thresholds**: Companies must make more than €750 million in global digital revenues, of which €25 million must be derived from French users.
 - **Rate**: The tax is set at a rate of 3% on the eligible companies' French revenues.
 
 Further information can be found on the [French Government Website](https://www.gouvernement.fr/en/introduction-of-the-new-digital-services-tax).
 
 ### Other Countries
-Several other countries have also introduced or are considering similar taxes. Some key examples include:
+Several other countries have also introduced or are considering similar [taxes](../t/taxes.md). Some key examples include:
 
 - **Italy**: Implemented a 3% digital services tax on revenues generated by specific digital services.
-- **Spain**: Introduced a 3% tax on revenues from online advertisements, online intermediation services, and the sale of user data.
-- **India**: Enhanced its existing equalization levy to include a 2% “Google Tax” on e-commerce operators.
+- **Spain**: Introduced a 3% tax on revenues from online advertisements, online intermediation services, and the [sale](../s/sale.md) of user data.
+- **India**: Enhanced its existing equalization levy to include a 2% “Google Tax” on e-[commerce](../c/commerce.md) operators.
 
 ## OECD and Global Initiatives
-The Organization for Economic Co-operation and Development (OECD) has been at the forefront of global efforts to address the challenges of taxing the digital economy. In October 2021, the OECD announced a landmark agreement endorsed by over 130 countries, which aims to:
+The Organization for Economic Co-operation and Development (OECD) has been at the forefront of global efforts to address the challenges of taxing the digital [economy](../e/economy.md). In October 2021, the OECD announced a landmark agreement endorsed by over 130 countries, which aims to:
 
-1. **Pillar One**: Reallocate some taxing rights over multinational enterprises (MNEs) from their home countries to markets where they conduct significant business, regardless of physical presence.
-2. **Pillar Two**: Introduce a global minimum corporate tax rate of 15%, which is intended to curb profit shifting and tax base erosion.
+1. **Pillar One**: Reallocate some taxing rights over multinational enterprises (MNEs) from their [home](../h/home.md) countries to markets where they conduct significant [business](../b/business.md), regardless of physical presence.
+2. **Pillar Two**: Introduce a global minimum [corporate tax](../c/corporate_tax.md) rate of 15%, which is intended to curb [profit](../p/profit.md) shifting and [tax base](../t/tax_base.md) erosion.
 
 Implementation of these measures is expected to begin in 2023 and is seen as a significant step towards a more equitable global tax system.
 
@@ -51,11 +51,11 @@ You can read more about these initiatives on the [OECD Website](https://www.oecd
 ## Criticism and Challenges
 While the Google Tax and similar measures aim to create a fairer tax system, they are not without criticism:
 
-1. **Complexity**: The introduction of digital taxes has added layers of complexity and compliance costs for businesses.
-2. **Risk of Double Taxation**: Without global coordination, companies may face double taxation, where the same income is taxed in multiple jurisdictions.
-3. **Trade Tensions**: Some countries, particularly the United States, have threatened retaliatory measures against countries that impose digital taxes on American companies. This has led to trade tensions and the potential for tariff imposition.
+1. **Complexity**: The introduction of digital [taxes](../t/taxes.md) has added layers of complexity and compliance costs for businesses.
+2. **[Risk](../r/risk.md) of [Double Taxation](../d/double_taxation.md)**: Without global coordination, companies may face [double taxation](../d/double_taxation.md), where the same [income](../i/income.md) is taxed in [multiple](../m/multiple.md) jurisdictions.
+3. **[Trade](../t/trade.md) Tensions**: Some countries, particularly the United States, have threatened retaliatory measures against countries that impose digital [taxes](../t/taxes.md) on American companies. This has led to [trade](../t/trade.md) tensions and the potential for [tariff](../t/tariff.md) imposition.
 
 ## Conclusion
-The Google Tax represents a significant shift in international taxation aimed at addressing the inequalities and challenges posed by the digital economy. While these measures have begun to generate additional tax revenue for some countries, the quest for a globally coordinated approach remains essential. With ongoing efforts by organizations like the OECD, there is a promise for a more balanced and equitable global tax system in the future.
+The Google Tax represents a significant shift in international [taxation](../t/taxation.md) aimed at addressing the inequalities and challenges posed by the digital [economy](../e/economy.md). While these measures have begun to generate additional tax [revenue](../r/revenue.md) for some countries, the quest for a globally coordinated approach remains essential. With ongoing efforts by organizations like the OECD, there is a promise for a more balanced and equitable global tax system in the future.
 
-As digital businesses continue to evolve and grow, so too must the strategies and frameworks for taxation, ensuring that all entities contribute fairly to the economies in which they operate.
+As digital businesses continue to evolve and grow, so too must the strategies and frameworks for [taxation](../t/taxation.md), ensuring that all entities contribute fairly to the economies in which they operate.

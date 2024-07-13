@@ -17,7 +17,7 @@ One of the most common paths to acquiring a Green Card is through family sponsor
 
 ### 2. Employment-Based Green Cards
 
-Employment-based Green Cards are allocated to individuals whose skills are in demand in the U.S. There are several preference categories, each with its own eligibility requirements:
+Employment-based Green Cards are allocated to individuals whose skills are in [demand](../d/demand.md) in the U.S. There are several preference categories, each with its own eligibility requirements:
 
 - **EB-1**: Priority workers, including individuals with extraordinary abilities, outstanding professors or researchers, and certain multinational executives and managers.
 - **EB-2**: Professionals with advanced degrees or individuals with exceptional abilities.
@@ -55,7 +55,7 @@ For categories subject to annual caps (such as family preference or employment-b
 
 ### 4. Adjustment of Status or Consular Processing
 
-If the applicant is already in the U.S., they may file for Adjustment of Status (Form I-485) to become a permanent resident without having to leave the country. If they are outside the U.S., they will go through Consular Processing at a U.S. Embassy or Consulate in their home country.
+If the applicant is already in the U.S., they may file for Adjustment of Status (Form I-485) to become a permanent resident without having to leave the country. If they are outside the U.S., they [will](../w/will.md) go through Consular Processing at a U.S. Embassy or Consulate in their [home](../h/home.md) country.
 
 ### 5. Green Card Issuance
 

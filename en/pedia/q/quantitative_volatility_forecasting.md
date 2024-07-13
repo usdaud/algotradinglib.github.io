@@ -1,23 +1,23 @@
 # Quantitative Volatility Forecasting
 
-Quantitative [volatility forecasting](../v/volatility_forecasting.md) is a fundamental aspect of [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) in the financial markets. At its core, it involves the use of [mathematical models](../m/mathematical_models_in_trading.md) and computational tools to predict the future volatility of asset prices. This forecasting plays an essential role for traders, portfolio managers, and financial analysts who need to manage risk, optimize portfolios, and make informed trading decisions.
+Quantitative [volatility forecasting](../v/volatility_forecasting.md) is a fundamental aspect of [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) in the [financial markets](../f/financial_market.md). At its core, it involves the use of [mathematical models](../m/mathematical_models_in_trading.md) and computational tools to predict the future [volatility](../v/volatility.md) of [asset](../a/asset.md) prices. This [forecasting](../f/forecasting.md) plays an essential role for traders, portfolio managers, and financial analysts who need to manage [risk](../r/risk.md), optimize portfolios, and make informed trading decisions.
 
 ## The Importance of Volatility Forecasting
 
-Volatility represents the degree of variation in the price of a financial instrument over time. High volatility indicates significant price movement and hence greater risk, whereas low volatility suggests more stable price behavior. For financial professionals, accurately forecasting volatility is critical for several reasons:
+[Volatility](../v/volatility.md) represents the degree of variation in the price of a [financial instrument](../f/financial_instrument.md) over time. High [volatility](../v/volatility.md) indicates significant price movement and hence greater [risk](../r/risk.md), whereas low [volatility](../v/volatility.md) suggests more stable price behavior. For financial professionals, accurately [forecasting](../f/forecasting.md) [volatility](../v/volatility.md) is critical for several reasons:
 
-1. **[Risk Management](../r/risk_management.md)**: Investors and traders utilize volatility forecasts to gauge the potential risk and adjust their exposure accordingly.
-2. **Option Pricing**: The pricing models for [derivatives](../d/derivatives.md), such as the [Black-Scholes model](../b/black-scholes_model.md), factor in volatility to value options accurately.
-3. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Understanding the volatility of different assets allows portfolio managers to craft portfolios that balance returns and risks.
-4. **Regulatory Compliance**: Financial institutions must adhere to regulatory requirements that involve [stress testing](../s/stress_testing_in_trading.md) and scenario analysis which drive the need for accurate volatility forecasts.
+1. **[Risk Management](../r/risk_management.md)**: Investors and traders utilize [volatility](../v/volatility.md) forecasts to gauge the potential [risk](../r/risk.md) and adjust their exposure accordingly.
+2. **Option Pricing**: The pricing models for [derivatives](../d/derivatives.md), such as the [Black-Scholes model](../b/black-scholes_model.md), [factor](../f/factor.md) in [volatility](../v/volatility.md) to [value](../v/value.md) [options](../o/options.md) accurately.
+3. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Understanding the [volatility](../v/volatility.md) of different assets allows portfolio managers to craft portfolios that balance returns and risks.
+4. **Regulatory Compliance**: Financial institutions must adhere to regulatory requirements that involve [stress testing](../s/stress_testing_in_trading.md) and [scenario analysis](../s/scenario_analysis.md) which drive the need for accurate [volatility](../v/volatility.md) forecasts.
 
 ## Approaches to Volatility Forecasting
 
-There are several approaches to forecasting volatility, each with its own set of methodologies and assumptions. Below, we cover the primary quantitative methods commonly used:
+There are several approaches to [forecasting](../f/forecasting.md) [volatility](../v/volatility.md), each with its own set of methodologies and assumptions. Below, we cover the primary quantitative methods commonly used:
 
 ### Historical Volatility
 
-[Historical volatility](../h/historical_volatility.md) is the simplest method and serves as a direct measure derived from past price data. It involves calculating the standard deviation of price returns over a specific period. Although straightforward, [historical volatility](../h/historical_volatility.md) assumes that past price behaviors are indicative of future trends, which may not always hold true in dynamic markets.
+[Historical volatility](../h/historical_volatility.md) is the simplest method and serves as a direct measure derived from past price data. It involves calculating the [standard deviation](../s/standard_deviation.md) of price returns over a specific period. Although straightforward, [historical volatility](../h/historical_volatility.md) assumes that past price behaviors are indicative of future trends, which may not always [hold](../h/hold.md) true in dynamic markets.
 
 #### Calculation
 
@@ -28,25 +28,25 @@ There are several approaches to forecasting volatility, each with its own set of
 \]
 
 Where:
-- \( r_i \) = log return at time \( i \)
-- \( \bar{r} \) = mean log return
+- \( r_i \) = log [return](../r/return.md) at time \( i \)
+- \( \bar{r} \) = mean log [return](../r/return.md)
 - \( n \) = number of observations
 
 ### Implied Volatility
 
-Implied volatility (IV) is derived from the market prices of options. Unlike [historical volatility](../h/historical_volatility.md), IV is forward-looking, as it reflects the market's expectations of future price movement. The IV is embedded in the option’s price and can be extracted using models such as Black-Scholes.
+Implied [volatility](../v/volatility.md) (IV) is derived from the [market](../m/market.md) prices of [options](../o/options.md). Unlike [historical volatility](../h/historical_volatility.md), IV is forward-looking, as it reflects the [market](../m/market.md)'s expectations of future price movement. The IV is embedded in the option’s price and can be extracted using models such as Black-Scholes.
 
 #### Calculation
 
-Extracting implied volatility requires an iterative numerical method since it's embedded in the option price equation. The general approach is:
+Extracting implied [volatility](../v/volatility.md) requires an iterative numerical method since it's embedded in the option price equation. The general approach is:
 
-1. Obtain the current market price of an option.
-2. Use an options pricing model (e.g., Black-Scholes) and plug in the known variables (stock price, strike price, time to expiration, risk-free rate).
-3. Iterate on the volatility value until the model price matches the market price.
+1. Obtain the current [market price](../m/market_price.md) of an option.
+2. Use an [options](../o/options.md) pricing model (e.g., Black-Scholes) and plug in the known variables (stock price, [strike price](../s/strike_price.md), time to expiration, [risk](../r/risk.md)-free rate).
+3. Iterate on the [volatility](../v/volatility.md) [value](../v/value.md) until the model price matches the [market price](../m/market_price.md).
 
 ### GARCH Models
 
-The Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model is one of the most popular methods for [volatility forecasting](../v/volatility_forecasting.md). It assumes that volatility is not constant but varies over time and is influenced by past variances and yields.
+The Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md) (GARCH) model is one of the most popular methods for [volatility forecasting](../v/volatility_forecasting.md). It assumes that [volatility](../v/volatility.md) is not constant but varies over time and is influenced by past variances and yields.
 
 #### The GARCH(1,1) Model
 
@@ -59,33 +59,33 @@ The GARCH(1,1) model, proposed by Bollerslev, is expressed as:
 Where:
 - \(\sigma_t^2\) = forecasted variance at time \( t \)
 - \(\alpha_0\), \(\alpha_1\), \(\beta_1\) = constants
-- \(\epsilon_{t-1}\) = previous period's return shock (residual)
+- \(\epsilon_{t-1}\) = previous period's [return](../r/return.md) shock (residual)
 
 The model parameters can be estimated using [Maximum Likelihood Estimation](../m/maximum_likelihood_estimation.md) (MLE).
 
 ### Stochastic Volatility Models
 
-[Stochastic volatility models](../s/stochastic_volatility_models.md) treat volatility as a latent variable that follows its stochastic process. One of the commonly used models is the Heston model, which assumes that volatility follows a mean-reverting process.
+[Stochastic volatility models](../s/stochastic_volatility_models.md) treat [volatility](../v/volatility.md) as a latent variable that follows its stochastic process. One of the commonly used models is the [Heston model](../h/heston_model.md), which assumes that [volatility](../v/volatility.md) follows a mean-reverting process.
 
 #### The Heston Model
 
-The Heston model is defined by the following [stochastic differential equations](../s/stochastic_differential_equations.md):
+The [Heston model](../h/heston_model.md) is defined by the following [stochastic differential equations](../s/stochastic_differential_equations.md):
 
 \[
 dS_t = \mu S_t dt + \sqrt{V_t} S_t dW_t^S
 \]
 
 \[
-dV_t = \kappa (\theta - V_t) dt + \sigma \sqrt{V_t} dW_t^V
+dV_t = \[kappa](../k/kappa.md) (\[theta](../t/theta.md) - V_t) dt + \sigma \sqrt{V_t} dW_t^V
 \]
 
 Where:
-- \(S_t\) = asset price at time \( t \)
+- \(S_t\) = [asset](../a/asset.md) price at time \( t \)
 - \(\mu\) = drift rate
 - \(V_t\) = variance at time \( t \)
-- \(\kappa\) = rate of [mean reversion](../m/mean_reversion.md)
-- \(\theta\) = long-term mean of variance
-- \(\sigma\) = volatility of variance
+- \(\[kappa](../k/kappa.md)\) = rate of [mean reversion](../m/mean_reversion.md)
+- \(\[theta](../t/theta.md)\) = long-term mean of variance
+- \(\sigma\) = [volatility](../v/volatility.md) of variance
 - \( W_t^S \) and \( W_t^V \) = Wiener processes
 
 ## Machine Learning in Volatility Forecasting
@@ -94,21 +94,21 @@ Recent advancements in machine learning (ML) have opened new avenues for [volati
 
 ### Support Vector Regression (SVR)
 
-[Support Vector Regression](../s/support_vector_regression.md) (SVR) helps in modeling the nonlinear relationships between past returns and future volatility. It works by finding the hyperplane that best fits the data points.
+[Support Vector Regression](../s/support_vector_regression.md) (SVR) helps in modeling the nonlinear relationships between past returns and future [volatility](../v/volatility.md). It works by finding the hyperplane that best fits the data points.
 
 ### Recurrent Neural Networks (RNN)
 
-RNNs, and specifically Long Short-Term Memory (LSTM) networks, are suitable for [time series forecasting](../t/time_series_forecasting.md) because they can capture dependencies over long sequences. They can model the temporal sequence of returns and their impact on future volatility.
+RNNs, and specifically Long Short-Term Memory (LSTM) networks, are suitable for [time series forecasting](../t/time_series_forecasting.md) because they can capture dependencies over long sequences. They can model the temporal sequence of returns and their impact on future [volatility](../v/volatility.md).
 
 #### Example Architecture
 
 1. Input Layer: Takes historical price returns as input.
 2. LSTM Layers: Capture [temporal dependencies](../t/temporal_dependencies_in_trading.md).
-3. Dense Output Layer: Predicts the future volatility score.
+3. Dense Output Layer: Predicts the future [volatility](../v/volatility.md) score.
 
 ### Random Forests
 
-[Random Forests](../r/random_forests_in_trading.md) use an ensemble of [decision trees](../d/decision_trees.md) to improve the robustness and accuracy of volatility forecasts by averaging multiple trees to reduce overfitting.
+[Random Forests](../r/random_forests_in_trading.md) use an ensemble of [decision trees](../d/decision_trees.md) to improve the robustness and accuracy of [volatility](../v/volatility.md) forecasts by averaging [multiple](../m/multiple.md) trees to reduce [overfitting](../o/overfitting.md).
 
 ## Practical Applications
 
@@ -116,12 +116,12 @@ Quantitative [volatility forecasting](../v/volatility_forecasting.md) is impleme
 
 ### Examples of Companies
 
-**[Quantconnect](../q/quantconnect.md)**: They offer a platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md) that includes tools for [volatility forecasting](../v/volatility_forecasting.md). Their platform supports multiple programming languages and provides historical data for [backtesting](../b/backtesting.md) models.
+**[Quantconnect](../q/quantconnect.md)**: They [offer](../o/offer.md) a platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md) that includes tools for [volatility forecasting](../v/volatility_forecasting.md). Their platform supports [multiple](../m/multiple.md) programming languages and provides historical data for [backtesting](../b/backtesting.md) models.
 [Visit Quantconnect](https://www.quantconnect.com/)
 
-**Numerai**: An AI-run, crowdsourced hedge fund, Numerai utilizes machine learning models submitted by data scientists around the world to forecast market volatility and manage portfolios.
+**Numerai**: An AI-run, crowdsourced [hedge fund](../h/hedge_fund.md), Numerai utilizes machine learning models submitted by data scientists around the world to forecast [market](../m/market.md) [volatility](../v/volatility.md) and manage portfolios.
 [Visit Numerai](https://numer.ai/)
 
 ### Conclusion
 
-Accurate [volatility forecasting](../v/volatility_forecasting.md) is integral to numerous aspects of finance, from trading and [risk management](../r/risk_management.md) to derivative pricing and regulatory compliance. The evolution of quantitative methods, coupled with advancements in machine learning, continues to enhance the accuracy and reliability of these forecasts. As financial markets grow increasingly complex, the importance of robust [volatility forecasting](../v/volatility_forecasting.md) techniques will only amplify, making it a critical area of focus for quantitative analysts and financial engineers alike.
+Accurate [volatility forecasting](../v/volatility_forecasting.md) is integral to numerous aspects of [finance](../f/finance.md), from trading and [risk management](../r/risk_management.md) to [derivative](../d/derivative.md) pricing and regulatory compliance. The evolution of quantitative methods, coupled with advancements in machine learning, continues to enhance the accuracy and reliability of these forecasts. As [financial markets](../f/financial_market.md) grow increasingly complex, the importance of [robust](../r/robust.md) [volatility forecasting](../v/volatility_forecasting.md) techniques [will](../w/will.md) only amplify, making it a critical area of focus for quantitative analysts and financial engineers alike.

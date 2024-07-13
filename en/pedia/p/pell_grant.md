@@ -1,6 +1,6 @@
 # Pell Grant
 
-The Pell Grant is a form of financial aid provided by the U.S. federal government to undergraduate students who demonstrate exceptional financial need. Unlike loans, Pell Grants do not have to be repaid, making them one of the more favorable options for students seeking to fund their education. Named after U.S. Senator Claiborne Pell, who was a major advocate for higher education access, the program has been a cornerstone of American financial aid policy since its inception in 1972.
+The Pell [Grant](../g/grant.md) is a form of financial aid provided by the U.S. federal government to undergraduate students who demonstrate exceptional financial need. Unlike loans, Pell Grants do not have to be repaid, making them one of the more favorable [options](../o/options.md) for students seeking to [fund](../f/fund.md) their education. Named after U.S. Senator Claiborne Pell, who was a major advocate for higher education access, the program has been a cornerstone of American financial aid policy since its inception in 1972.
 
 ## Key Features of the Pell Grant
 
@@ -8,21 +8,21 @@ The Pell Grant is a form of financial aid provided by the U.S. federal governmen
 
 Pell Grants are awarded based on the student's financial need, which is determined through the Free Application for Federal Student Aid (FAFSA). Factors that influence financial need include:
 
-- **Family Income**: Lower family income typically increases eligibility.
+- **Family [Income](../i/income.md)**: Lower family [income](../i/income.md) typically increases eligibility.
 - **Household Size**: Larger households may qualify for more aid.
 - **Cost of Attendance**: Varies by institution.
 - **Expected Family Contribution (EFC)**: Calculated from information provided on the FAFSA.
 
 ### Award Amounts
 
-Pell Grant amounts can vary yearly. The maximum award for the 2023-2024 academic year is $6,495, but the actual amount a student might receive can be lower, depending on factors such as:
+Pell [Grant](../g/grant.md) amounts can vary yearly. The maximum award for the 2023-2024 academic year is $6,495, but the actual amount a student might receive can be lower, depending on factors such as:
 
 - Enrolled hours: Full-time students may receive the maximum award, while part-time students receive a pro-rated amount.
-- Duration of enrollment: The grant amount may be adjusted if a student is enrolled for less than an entire academic year.
+- [Duration](../d/duration.md) of enrollment: The [grant](../g/grant.md) amount may be adjusted if a student is enrolled for less than an entire academic year.
 
 ### Usage and Duration Limits
 
-The Pell Grant can be used to cover various educational expenses, including:
+The Pell [Grant](../g/grant.md) can be used to cover various educational expenses, including:
 
 - Tuition and fees
 - Room and board
@@ -32,13 +32,13 @@ However, there is a limit to how many Pell Grants a student can receive. As of c
 
 ### Institutions and Eligibility
 
-Most U.S. colleges, universities, and vocational schools participate in the Pell Grant program. However, not all programs or courses of study may qualify. Students should ensure that their institution is eligible and that their program meets the requirements.
+Most U.S. colleges, universities, and vocational schools participate in the Pell [Grant](../g/grant.md) program. However, not all programs or courses of study may qualify. Students should ensure that their institution is eligible and that their program meets the requirements.
 
 ## Application Process
 
 ### Completing the FAFSA
 
-The key to accessing Pell Grant funds is the Free Application for Federal Student Aid (FAFSA). This application gathers necessary financial information to determine a student's eligibility for not only the Pell Grant but also other federal, state, and institutional aid. Important steps include:
+The key to accessing Pell [Grant](../g/grant.md) funds is the Free Application for Federal Student Aid (FAFSA). This application gathers necessary financial information to determine a student's eligibility for not only the Pell [Grant](../g/grant.md) but also other federal, state, and institutional aid. Important steps include:
 
 1. **Create an FSA ID**: An FSA ID is required to sign the FAFSA electronically.
 2. **Gather Required Documents**: This typically includes tax returns, W-2s, and other financial records.
@@ -50,38 +50,38 @@ Students must complete the FAFSA annually to continue receiving aid. The renewal
 
 ### Notification and Disbursement
 
-After processing the FAFSA, the U.S. Department of Education will send a Student Aid Report (SAR) to the student, summarizing eligibility and the Expected Family Contribution (EFC). The educational institution's financial aid office will then determine the actual award amount and disbursement schedule.
+After processing the FAFSA, the U.S. Department of Education [will](../w/will.md) send a Student Aid Report (SAR) to the student, summarizing eligibility and the Expected Family Contribution (EFC). The educational institution's financial aid office [will](../w/will.md) then determine the actual award amount and [disbursement](../d/disbursement.md) schedule.
 
 ## Impact and Importance
 
 ### Access to Higher Education
 
-The Pell Grant has played a significant role in expanding access to higher education for low-income students. By providing non-repayable financial aid, the grant reduces the financial barriers to college attendance, thereby increasing educational attainment and potential lifetime earnings.
+The Pell [Grant](../g/grant.md) has played a significant role in expanding access to higher education for low-[income](../i/income.md) students. By providing non-repayable financial aid, the [grant](../g/grant.md) reduces the financial barriers to college attendance, thereby increasing educational attainment and potential lifetime [earnings](../e/earnings.md).
 
 ### Economic Mobility
 
-Research has shown that Pell Grant recipients often achieve higher levels of education and subsequently higher levels of income compared to those who do not receive aid. The grant thereby serves as a critical tool for promoting economic mobility and reducing income inequality.
+Research has shown that Pell [Grant](../g/grant.md) recipients often achieve higher levels of education and subsequently higher levels of [income](../i/income.md) compared to those who do not receive aid. The [grant](../g/grant.md) thereby serves as a critical tool for promoting economic mobility and reducing [income inequality](../i/income_inequality.md).
 
 ### Institutional Impact
 
-Institutions that enroll a large number of Pell Grant recipients benefit from a more diverse student body. These institutions also often receive additional funding and support from state and federal governments to help support low-income students.
+Institutions that enroll a large number of Pell [Grant](../g/grant.md) recipients benefit from a more diverse student body. These institutions also often receive additional funding and support from state and federal governments to help support low-[income](../i/income.md) students.
 
 ## Challenges and Criticisms
 
 ### Insufficient Funding
 
-One of the primary criticisms of the Pell Grant program is that the award amounts have not kept pace with the rising cost of college tuition. The maximum award often covers only a fraction of the total cost of attendance, leaving many students with significant unmet financial need.
+One of the primary criticisms of the Pell [Grant](../g/grant.md) program is that the award amounts have not kept pace with the rising cost of college tuition. The maximum award often covers only a fraction of the total cost of attendance, leaving many students with significant unmet financial need.
 
 ### Complexity and Accessibility
 
-The FAFSA application process can be complex and daunting, especially for first-generation college students and those from low-income backgrounds. Efforts have been made to simplify the form, but it remains a barrier for some students.
+The FAFSA application process can be complex and daunting, especially for first-generation college students and those from low-[income](../i/income.md) backgrounds. Efforts have been made to simplify the form, but it remains a barrier for some students.
 
 ### Limited Coverage for Part-Time Students
 
-While some aid is available for part-time students, the pro-rated amounts may not be sufficient to cover even basic expenses, forcing many students to balance work and school carefully or risk dropping out.
+While some aid is available for part-time students, the pro-rated amounts may not be sufficient to cover even basic expenses, forcing many students to balance work and school carefully or [risk](../r/risk.md) dropping out.
 
 ## Conclusion
 
-The Pell Grant remains a vital component of the U.S. financial aid system, providing essential support to millions of students seeking higher education. While there are criticisms regarding funding levels and the application process, the program's impact on educational access and economic mobility cannot be overstated. Continuous efforts to improve and expand the Pell Grant will be crucial in ensuring that higher education remains accessible to all, regardless of financial background.
+The Pell [Grant](../g/grant.md) remains a vital component of the U.S. financial aid system, providing essential support to millions of students seeking higher education. While there are criticisms regarding funding levels and the application process, the program's impact on educational access and economic mobility cannot be overstated. Continuous efforts to improve and expand the Pell [Grant](../g/grant.md) [will](../w/will.md) be crucial in ensuring that higher education remains accessible to all, regardless of financial background.
 
-For more information on the Pell Grant, visit the official Federal Student Aid website: [Federal Student Aid Pell Grant](https://studentaid.gov/understand-aid/types/grants/pell).
+For more information on the Pell [Grant](../g/grant.md), visit the official Federal Student Aid website: [Federal Student Aid Pell Grant](https://studentaid.gov/understand-aid/types/grants/pell).

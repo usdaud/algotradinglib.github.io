@@ -1,6 +1,6 @@
 # Health Reimbursement Arrangement (HRA)
 
-A Health Reimbursement Arrangement (HRA) is an employer-funded, tax-advantaged health benefit plan that helps employees pay for out-of-pocket medical expenses. HRAs are sometimes also referred to as Health Reimbursement Accounts. Here, the employer contributes money towards an account that the employees can use to cover qualified healthcare costs, which may include deductibles, copayments, coinsurance, and other out-of-pocket medical expenses. Crucially, HRAs are not health insurance plans but a mechanism to help employees manage their healthcare expenses. 
+A Health [Reimbursement](../r/reimbursement.md) Arrangement (HRA) is an employer-funded, [tax-advantaged](../t/tax-advantaged.md) health benefit plan that helps employees pay for out-of-pocket medical expenses. HRAs are sometimes also referred to as Health [Reimbursement](../r/reimbursement.md) Accounts. Here, the employer contributes [money](../m/money.md) towards an account that the employees can use to cover qualified healthcare costs, which may include deductibles, copayments, coinsurance, and other out-of-pocket medical expenses. Crucially, HRAs are not [health insurance](../h/health_insurance.md) plans but a mechanism to help employees manage their healthcare expenses. 
 
 ## Types of HRAs
 
@@ -8,27 +8,27 @@ There are several types of HRAs, each designed to cater to different scenarios a
 
 ### 1. Group Coverage HRA
 
-This type of HRA is offered in conjunction with a group health insurance policy. The employer sets aside a specific amount of money for the HRA, which employees can use to reimburse eligible medical expenses not covered by their primary health insurance. This can help in covering high deductibles or other out-of-pocket costs.
+This type of HRA is offered in conjunction with a [group health insurance](../g/group_health_insurance.md) policy. The employer sets aside a specific amount of [money](../m/money.md) for the HRA, which employees can use to reimburse eligible medical expenses not covered by their primary [health insurance](../h/health_insurance.md). This can help in covering high deductibles or other out-of-pocket costs.
 
 ### 2. Qualified Small Employer HRA (QSEHRA)
 
-This option is available to small employers who have less than 50 full-time employees and don’t offer a traditional group health plan. With QSEHRA, employers can provide a tax-free reimbursement to their employees for medical expenses, including premiums for personal health insurance policies. Each year, the IRS sets a maximum contribution limit for QSEHRAs.
+This option is available to small employers who have less than 50 full-time employees and don’t [offer](../o/offer.md) a traditional group health plan. With QSEHRA, employers can provide a [tax-free](../t/tax_free.md) [reimbursement](../r/reimbursement.md) to their employees for medical expenses, including premiums for personal [health insurance](../h/health_insurance.md) policies. Each year, the IRS sets a maximum contribution limit for QSEHRAs.
 
 ### 3. Individual Coverage HRA (ICHRA)
 
-Launched in January 2020, ICHRA allows employers of any size to offer tax-free reimbursements to employees for individual health insurance policies and other medical expenses. ICHRAs are highly flexible and can be tailored to different classes of employees—such as full-time, part-time, and seasonal workers.
+Launched in January 2020, ICHRA allows employers of any size to [offer](../o/offer.md) [tax-free](../t/tax_free.md) reimbursements to employees for individual [health insurance](../h/health_insurance.md) policies and other medical expenses. ICHRAs are highly flexible and can be tailored to different classes of employees—such as full-time, part-time, and seasonal workers.
 
 ### 4. Integrated HRA
 
-Similar to Group Coverage HRA, Integrated HRAs are specifically designed to integrate with other group health plans that adhere to Affordable Care Act (ACA) standards. This type can help meet ACA requirements while providing additional healthcare benefits to employees.
+Similar to Group Coverage HRA, Integrated HRAs are specifically designed to integrate with other group health plans that adhere to [Affordable Care Act](../a/affordable_care_act.md) (ACA) standards. This type can help meet ACA requirements while providing additional healthcare benefits to employees.
 
 ### 5. Retiree-Only HRA
 
-This HRA is designed exclusively for retired employees. The funds in this type of HRA can be used to pay for a wide range of medical expenses, including certain insurance premiums after retirement.
+This HRA is designed exclusively for retired employees. The funds in this type of HRA can be used to pay for a wide [range](../r/range.md) of medical expenses, including certain [insurance](../i/insurance.md) premiums after retirement.
 
 ### 6. Standalone HRA
 
-This traditional form of HRA is not tied to a high-deductible health plan or any other insurance plan. However, due to ACA regulations, standalone HRAs are less common today because they do not comply with ACA market reforms when offered to active employees.
+This traditional form of HRA is not tied to a high-deductible health plan or any other [insurance](../i/insurance.md) plan. However, due to ACA regulations, standalone HRAs are less common today because they do not comply with ACA [market](../m/market.md) reforms when offered to active employees.
 
 ## How HRAs Work
 
@@ -38,7 +38,7 @@ The employer determines how much to contribute to the HRA annually. This amount 
 
 ### Reimbursement
 
-Employees incur medical expenses and then submit claims for reimbursement from their HRA. Typically, employees need to provide proof of the expense, such as receipts or invoices, and sometimes a statement showing that the cost has not been covered by insurance. Reimbursements are usually tax-free for the employees.
+Employees incur medical expenses and then submit claims for [reimbursement](../r/reimbursement.md) from their HRA. Typically, employees need to provide proof of the [expense](../e/expense.md), such as [receipts](../r/receipt.md) or invoices, and sometimes a statement showing that the cost has not been covered by [insurance](../i/insurance.md). Reimbursements are usually [tax-free](../t/tax_free.md) for the employees.
 
 ### Rollovers
 
@@ -52,19 +52,19 @@ Most HRAs are not portable, meaning that if an employee leaves the company, they
 
 ### Tax Benefits
 
-HRAs provide significant tax benefits for both employers and employees. Employer contributions to HRAs are tax-deductible for the company, and reimbursements are generally not considered taxable income for employees.
+HRAs provide significant tax benefits for both employers and employees. Employer contributions to HRAs are tax-deductible for the company, and reimbursements are generally not considered [taxable income](../t/taxable_income.md) for employees.
 
 ### Cost Control
 
-Employers can better control health benefit costs through explicit annual contributions to HRAs and can adjust these amounts based on financial performance and healthcare cost trends.
+Employers can better control health benefit costs through explicit annual contributions to HRAs and can adjust these amounts based on [financial performance](../f/financial_performance.md) and healthcare cost trends.
 
 ### Employee Satisfaction
 
-Offering an HRA can significantly boost employee satisfaction by reducing out-of-pocket healthcare costs. This additional healthcare support can be a crucial factor in attracting and retaining talent.
+[Offering](../o/offering.md) an HRA can significantly boost employee satisfaction by reducing out-of-pocket healthcare costs. This additional healthcare support can be a crucial [factor](../f/factor.md) in attracting and retaining talent.
 
 ### Flexibility
 
-HRAs offer remarkable flexibility both for employers and employees. Employers can design the HRA to meet the specific needs of different classes of employees. Employees benefit from having a dedicated fund to cover a wide range of medical expenses.
+HRAs [offer](../o/offer.md) remarkable flexibility both for employers and employees. Employers can design the HRA to meet the specific needs of different classes of employees. Employees benefit from having a dedicated [fund](../f/fund.md) to cover a wide [range](../r/range.md) of medical expenses.
 
 ## Disadvantages of HRAs
 
@@ -74,7 +74,7 @@ The rules and regulations surrounding HRAs can be complex. Employers need to und
 
 ### Not a Substitute for Health Insurance
 
-While HRAs provide financial support for medical expenses, they are not a substitute for comprehensive health insurance. Employers offering HRAs often need to provide or ensure other health insurance plans are in place.
+While HRAs provide financial support for medical expenses, they are not a [substitute](../s/substitute.md) for comprehensive [health insurance](../h/health_insurance.md). Employers [offering](../o/offering.md) HRAs often need to provide or ensure other [health insurance](../h/health_insurance.md) plans are in place.
 
 ### Non-portability
 
@@ -94,11 +94,11 @@ The ACA imposes certain requirements on HRAs, especially concerning coverage and
 
 ### ERISA
 
-The Employee Retirement Income Security Act (ERISA) governs most HRAs, especially those offered by private-sector employers. Employers need to ensure their HRAs meet ERISA's fiduciary responsibilities, reporting, and disclosure requirements.
+The Employee Retirement [Income](../i/income.md) [Security](../s/security.md) Act (ERISA) governs most HRAs, especially those offered by private-sector employers. Employers need to ensure their HRAs meet ERISA's fiduciary responsibilities, reporting, and [disclosure](../d/disclosure.md) requirements.
 
 ### IRS Regulations
 
-The Internal Revenue Service (IRS) sets forth rules regarding the tax benefits associated with HRAs, including annual contribution limits for types such as QSEHRAs and ICHRAs.
+The Internal [Revenue](../r/revenue.md) Service (IRS) sets forth rules regarding the tax benefits associated with HRAs, including annual contribution limits for types such as QSEHRAs and ICHRAs.
 
 ## Key Considerations for Employers
 
@@ -106,24 +106,24 @@ When implementing an HRA, employers should consider several factors to optimize 
 
 ### Eligibility
 
-Determine which employees will be eligible for the HRA. This decision can be based on employment status, job function, or other criteria.
+Determine which employees [will](../w/will.md) be eligible for the HRA. This decision can be based on employment status, job function, or other criteria.
 
 ### Contribution Limits
 
-Decide on the annual contribution amounts. Employers should balance the need to provide meaningful financial support with the company's budget constraints.
+Decide on the annual contribution amounts. Employers should balance the need to provide meaningful financial support with the company's [budget](../b/budget.md) constraints.
 
 ### Rollovers and Forfeitures
 
-Establish policies regarding the rollover of unused funds and forfeiture conditions. Clear communication on these policies is crucial to manage employee expectations.
+Establish policies regarding the [rollover](../r/rollover.md) of unused funds and forfeiture conditions. Clear communication on these policies is crucial to manage employee expectations.
 
 ### Eligible Expenses
 
-Define what types of medical expenses are eligible for reimbursement. While some employers stick to IRS-qualified medical expenses, others might include additional categories based on their workforce's specific needs.
+Define what types of medical expenses are eligible for [reimbursement](../r/reimbursement.md). While some employers stick to IRS-qualified medical expenses, others might include additional categories based on their workforce's specific needs.
 
 ### Administration
 
-Consider whether to administer the HRA in-house or through a third-party administrator. Given the complexities involved, many employers opt for third-party administrators to manage claims and compliance.
+Consider whether to administer the HRA [in-house](../i/in-house.md) or through a third-party administrator. Given the complexities involved, many employers opt for third-party administrators to manage claims and compliance.
 
 ## Conclusion
 
-Health Reimbursement Arrangements offer a valuable solution for employers looking to provide flexible, tax-advantaged health benefits to their employees. They can help manage out-of-pocket medical costs and serve as an essential tool in a comprehensive employee benefits package. However, the successful implementation and management of an HRA require a thorough understanding of the various types, regulatory requirements, and potential advantages and disadvantages. By carefully considering these factors, employers can design an HRA that meets their objectives and enhances their employees' overall health and well-being.
+Health [Reimbursement](../r/reimbursement.md) Arrangements [offer](../o/offer.md) a valuable solution for employers looking to provide flexible, [tax-advantaged](../t/tax-advantaged.md) health benefits to their employees. They can help manage out-of-pocket medical costs and serve as an essential tool in a comprehensive employee benefits package. However, the successful implementation and management of an HRA require a thorough understanding of the various types, regulatory requirements, and potential advantages and disadvantages. By carefully considering these factors, employers can design an HRA that meets their objectives and enhances their employees' overall health and well-being.

@@ -1,6 +1,6 @@
 # Gifts Causa Mortis
 
-Gifts causa mortis, also known as deathbed gifts, are a particular category of gifts that occur when a donor gives an asset or property to someone else in anticipation of the donor's imminent death. This legal concept has historical roots and varies across jurisdictions, but generally, it encompasses certain key elements that differentiate it from ordinary gifts or testamentary bequests.
+Gifts causa mortis, also known as deathbed gifts, are a particular category of gifts that occur when a donor gives an [asset](../a/asset.md) or property to someone else in anticipation of the donor's imminent death. This legal concept has historical roots and varies across jurisdictions, but generally, it encompasses certain key elements that differentiate it from ordinary gifts or testamentary bequests.
 
 ## Definition and Characteristics
 
@@ -14,13 +14,13 @@ A gift causa mortis is a gift made by a donor who expects to die imminently. The
 
 ## Historical Context
 
-The concept of gifts causa mortis can be traced back to Roman law. It provided a way for individuals to transfer property in the face of death without undergoing the formalities of a will. Over centuries, this concept has evolved and been integrated into common law, retaining its fundamental principles while adapting to modern legal frameworks.
+The concept of gifts causa mortis can be traced back to Roman law. It provided a way for individuals to transfer property in the face of death without undergoing the formalities of a [will](../w/will.md). Over centuries, this concept has evolved and been integrated into [common law](../c/common_law.md), retaining its fundamental principles while adapting to modern legal frameworks.
 
 ## Legal Framework
 
 ### United States
 
-In the United States, gifts causa mortis are recognized in most jurisdictions but are subject to strict scrutiny due to their conditional and revocable nature. Courts tend to apply a high standard of proof to ensure that the elements of such a gift are clearly met. The Uniform Probate Code (UPC), adopted in various forms by many states, also addresses gifts causa mortis.
+In the United States, gifts causa mortis are recognized in most jurisdictions but are subject to strict scrutiny due to their conditional and revocable nature. Courts tend to apply a high standard of proof to ensure that the elements of such a gift are clearly met. The Uniform [Probate](../p/probate.md) Code (UPC), adopted in various forms by many states, also addresses gifts causa mortis.
 
 ### United Kingdom
 
@@ -48,16 +48,16 @@ The inherent conditional nature means that if the donor survives the peril, the 
 
 ### Legal Disputes
 
-Due to the lack of formal documentation and the high stakes involved, gifts causa mortis often lead to legal disputes. Heirs or potential beneficiaries of the donor’s estate may challenge the validity of such gifts, leading to litigation. Courts typically require strong evidence to uphold a gift causa mortis, aiming to protect against fraud and undue influence.
+Due to the lack of formal documentation and the high stakes involved, gifts causa mortis often lead to legal disputes. Heirs or potential beneficiaries of the donor’s [estate](../e/estate.md) may challenge the validity of such gifts, leading to litigation. Courts typically require strong evidence to [uphold](../u/uphold.md) a gift causa mortis, aiming to protect against [fraud](../f/fraud.md) and [undue influence](../u/undue_influence.md).
 
 ## Modern Relevance
 
-In contemporary legal practice, gifts causa mortis remain relevant but are less common than other estate planning tools due to advancements in legal, medical, and financial planning. Modern practices prefer more structured approaches like:
+In contemporary legal practice, gifts causa mortis remain relevant but are less common than other [estate planning](../e/estate_planning.md) tools due to advancements in legal, medical, and [financial planning](../f/financial_planning.md). Modern practices prefer more structured approaches like:
 
-- **Wills**: Formal declarations of asset distribution upon death.
-- **Living Trusts**: Allow assets to be managed and distributed according to the trust terms without probate.
-- **Durable Power of Attorney**: Designates a person to make decisions if the donor is incapacitated.
+- **Wills**: Formal declarations of [asset](../a/asset.md) [distribution](../d/distribution.md) upon death.
+- **Living Trusts**: Allow assets to be managed and distributed according to the [trust](../t/trust.md) terms without [probate](../p/probate.md).
+- **Durable [Power of Attorney](../p/power_of_attorney.md)**: Designates a person to make decisions if the donor is incapacitated.
 
 ## Conclusion
 
-Gifts causa mortis represent a unique blend of historical tradition and contemporary legal principles. They offer a way for individuals facing imminent death to transfer property efficiently. However, due to their conditional and ephemeral nature, such gifts require stringent legal oversight to prevent abuse and ensure genuine intent. As legal systems evolve, the principles governing gifts causa mortis continue to adapt, reflecting both the legal heritage and the practical needs of modern estate planning.
+Gifts causa mortis represent a unique blend of historical tradition and contemporary legal principles. They [offer](../o/offer.md) a way for individuals facing imminent death to transfer property efficiently. However, due to their conditional and ephemeral nature, such gifts require stringent legal oversight to prevent abuse and ensure genuine intent. As legal systems evolve, the principles governing gifts causa mortis continue to adapt, reflecting both the legal heritage and the practical needs of modern [estate planning](../e/estate_planning.md).

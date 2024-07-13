@@ -4,17 +4,17 @@ Automated Chart [Pattern Recognition](../p/pattern_recognition.md) is a major su
 
 ## Introduction
 
-Automated Chart [Pattern Recognition](../p/pattern_recognition.md) (ACPR) involves using software and algorithms to detect traditional [chart patterns](../c/chart_patterns.md) in financial markets. [Chart patterns](../c/chart_patterns.md) such as head and shoulders, triangles, and double tops are commonly used by traders to predict future price movements. The automation of this process leverages computational power to identify these patterns with greater accuracy and speed than humans.
+Automated Chart [Pattern Recognition](../p/pattern_recognition.md) (ACPR) involves using software and algorithms to detect traditional [chart patterns](../c/chart_patterns.md) in [financial markets](../f/financial_market.md). [Chart patterns](../c/chart_patterns.md) such as head and shoulders, triangles, and double tops are commonly used by traders to predict future price movements. The automation of this process leverages computational power to identify these patterns with greater accuracy and speed than humans.
 
 ## Key Concepts
 
 ### Chart Patterns
 
-- **Head and Shoulders**: A reversal pattern indicating a potential change in trend.
-- **Triangles (Symmetrical, Ascending, Descending)**: Patterns that signify potential breakout points.
+- **Head and Shoulders**: A [reversal](../r/reversal.md) pattern indicating a potential change in [trend](../t/trend.md).
+- **Triangles (Symmetrical, Ascending, Descending)**: Patterns that signify potential [breakout](../b/breakout.md) points.
 - **Double Tops and Bottoms**: Indicators of possible bullish or bearish reversals.
 - **Flags and Pennants**: Short-term [continuation patterns](../c/continuation_patterns.md) that occur amid rapid price movements.
-- **Cup and Handle**: A bullish continuation pattern that signals a potential breakout.
+- **Cup and [Handle](../h/handle.md)**: A bullish continuation pattern that signals a potential [breakout](../b/breakout.md).
 
 ### Algorithmic Trading
 
@@ -22,11 +22,11 @@ Automated Chart [Pattern Recognition](../p/pattern_recognition.md) (ACPR) involv
 
 ### Machine Learning and AI
 
-Machine learning and AI can enhance ACPR by developing models trained on vast datasets to improve the identification accuracy and predict the likelihood of pattern success. Techniques include supervised learning, [neural networks](../n/neural_networks_in_trading.md), and deep learning frameworks.
+Machine learning and AI can enhance ACPR by developing models trained on vast datasets to improve the identification accuracy and predict the likelihood of pattern success. Techniques include supervised learning, [neural networks](../n/neural_networks_in_trading.md), and [deep learning](../d/deep_learning.md) frameworks.
 
 ### Technical Indicators
 
-[Technical indicators](../t/technical_indicators.md) such as Moving Averages, Relative Strength Index (RSI), and [Bollinger Bands](../b/bollinger_bands.md) are used alongside [pattern recognition](../p/pattern_recognition.md) to validate signals and improve [trading strategies](../t/trading_strategies.md).
+[Technical indicators](../t/technical_indicators.md) such as Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) are used alongside [pattern recognition](../p/pattern_recognition.md) to validate signals and improve [trading strategies](../t/trading_strategies.md).
 
 ## Techniques
 
@@ -44,7 +44,7 @@ These algorithms compare real-time price data against historical data to find ma
 
 ### Statistical Methods
 
-Statistical methods involve leveraging historical data to ascertain the statistical significance of identified patterns. Techniques include [regression analysis](../r/regression_analysis.md), [hypothesis testing](../h/hypothesis_testing.md), and time-series analysis.
+Statistical methods involve leveraging historical data to ascertain the [statistical significance](../s/statistical_significance.md) of identified patterns. Techniques include [regression analysis](../r/regression_analysis.md), [hypothesis testing](../h/hypothesis_testing.md), and time-series analysis.
 
 ## Applications
 
@@ -54,7 +54,7 @@ Automated trading robots execute trades based on identified patterns. They can o
 
 ### Decision Support Systems
 
-These systems provide traders with [pattern recognition](../p/pattern_recognition.md) insights to assist in manual trading decisions. They highlight potential trading opportunities but leave the execution to the trader.
+These systems provide traders with [pattern recognition](../p/pattern_recognition.md) insights to assist in manual trading decisions. They highlight potential trading opportunities but leave the [execution](../e/execution.md) to the [trader](../t/trader.md).
 
 ### Backtesting
 
@@ -70,14 +70,14 @@ Quant desks in financial institutions use ACPR for [quantitative analysis](../q/
 
 1. **TrendSpider**: [Website](https://www.trendspider.com)
 2. **PatternSmart**: [Website](https://www.patternsmart.com)
-3. **Trade Ideas**: [Website](https://www.trade-ideas.com)
+3. **[Trade](../t/trade.md) Ideas**: [Website](https://www.trade-ideas.com)
 
 ### Financial Institutions
 
 1. **Goldman Sachs**: Known for its [proprietary trading](../p/proprietary_trading.md) algorithms and advanced analytics, Goldman Sachs is at the forefront of using technology for trading. [Website](https://www.goldmansachs.com)
-2. **J.P. Morgan**: The firm employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and ACPR technologies to enhance their trading operations. [Website](https://www.jpmorgan.com)
+2. **J.P. Morgan**: The [firm](../f/firm.md) employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and ACPR technologies to enhance their trading operations. [Website](https://www.jpmorgan.com)
 
 ### Research and Development
 
-1. **Kensho Technologies**: Acquired by S&P Global, Kensho develops machine learning and AI solutions for financial markets. [Website](https://www.kensho.com)
-2. **Numerai**: A hedge fund that leverages [data science](../d/data_science_in_trading.md) and AI for trading, utilizing [predictive models](../p/predictive_models_in_trading.md) and [pattern recognition](../p/pattern_recognition.md). [Website](https://numer.ai)
+1. **Kensho Technologies**: Acquired by S&P Global, Kensho develops machine learning and AI solutions for [financial markets](../f/financial_market.md). [Website](https://www.kensho.com)
+2. **Numerai**: A [hedge fund](../h/hedge_fund.md) that leverages [data science](../d/data_science_in_trading.md) and AI for trading, utilizing [predictive models](../p/predictive_models_in_trading.md) and [pattern recognition](../p/pattern_recognition.md). [Website](https://numer.ai)

@@ -1,17 +1,17 @@
 # Judgmental Adjustment in Forecasting
 
-Judgmental adjustment refers to the modification of statistical forecasts based on human intuition, expertise, or domain-specific knowledge. This process is particularly important in fields where experts believe that the statistical models alone cannot capture all the intricacies of the real-world phenomena they aim to predict. Judgmental adjustments can either complement or override purely data-driven models, enabling forecasters to incorporate additional information that may not be present in the historical data.
+Judgmental adjustment refers to the modification of statistical forecasts based on human intuition, expertise, or domain-specific knowledge. This process is particularly important in fields where experts believe that the statistical models alone cannot capture all the intricacies of the real-world phenomena they aim to predict. Judgmental adjustments can either [complement](../c/complement.md) or override purely data-driven models, enabling forecasters to incorporate additional information that may not be present in the historical data.
 
 ## Importance in Forecasting
 
-While statistical models can process vast amounts of data and identify patterns that may not be visible to the human eye, they have limitations. Models are inherently backward-looking, deriving their predictions from historical data. This reliance on historical data means that they can struggle to account for unprecedented events or future changes in circumstances. Human judgment, however, can fill these gaps by incorporating insights from recent developments, expected policy changes, or emerging trends that are not reflected in historical data.
+While statistical models can process vast amounts of data and identify patterns that may not be visible to the human eye, they have limitations. Models are inherently backward-looking, deriving their predictions from historical data. This reliance on historical data means that they can struggle to account for unprecedented events or future changes in circumstances. Human [judgment](../j/judgment.md), however, can fill these [gaps](../g/gap.md) by incorporating insights from recent developments, expected policy changes, or emerging trends that are not reflected in historical data.
 
 ## Application Areas
 
 Judgmental adjustment is used across various domains:
-- **Financial Markets:** Traders might adjust forecasts of stock prices based on recent news that hasn't yet been reflected in the data.
-- **Supply Chain Management:** Managers might adjust demand forecasts based on upcoming marketing campaigns or new product launches.
-- **Weather Forecasting:** Meteorologists might modify computer-generated weather predictions based on recent observations or knowledge about unique local patterns.
+- **[Financial Markets](../f/financial_market.md):** Traders might adjust forecasts of stock prices based on recent news that hasn't yet been reflected in the data.
+- **[Supply Chain](../s/supply_chain.md) Management:** Managers might adjust [demand](../d/demand.md) forecasts based on upcoming [marketing](../m/marketing.md) campaigns or new product launches.
+- **Weather [Forecasting](../f/forecasting.md):** Meteorologists might modify computer-generated weather predictions based on recent observations or knowledge about unique local patterns.
   
 ## Techniques
 
@@ -31,7 +31,7 @@ Hybrid models combine statistical methods with expert input. Machine [learning a
 Despite their usefulness, judgmental adjustments come with challenges:
 
 ### Bias
-Human judgment is susceptible to biases like overconfidence, anchoring, and availability heuristic. These can lead to systematic errors in adjustments.
+Human [judgment](../j/judgment.md) is susceptible to biases like overconfidence, [anchoring](../a/anchoring.md), and availability heuristic. These can lead to systematic errors in adjustments.
 
 ### Lack of Transparency
 Unlike statistical models, judgmental adjustments can be opaque, making it difficult to understand how final forecasts were derived.
@@ -45,7 +45,7 @@ Measuring the benefit of judgmental adjustments can be challenging. It can be ha
 ## Case Studies
 
 ### Financial Markets
-In the financial industry, companies like Renaissance Technologies have leveraged both [quantitative models](../q/quantitative_models.md) and human expertise. Employing a cadre of Ph.D.s in various scientific disciplines, they build robust models but also consider judgmental adjustments to account for events like [earnings announcements](../e/earnings_announcements.md), [geopolitical events](../g/geopolitical_events.md), etc. [Renaissance Technologies](https://www.rentech.com/)
+In the financial [industry](../i/industry.md), companies like Renaissance Technologies have leveraged both [quantitative models](../q/quantitative_models.md) and human expertise. Employing a cadre of Ph.D.s in various scientific disciplines, they build [robust](../r/robust.md) models but also consider judgmental adjustments to account for events like [earnings announcements](../e/earnings_announcements.md), [geopolitical events](../g/geopolitical_events.md), etc. [Renaissance Technologies](https://www.rentech.com/)
 
 ### Supply Chain Management
 Companies like Amazon use complex algorithms for [demand forecasting](../d/demand_forecasting.md) but still involve human oversight to account for variables like promotional activities, holidays, or economic shifts. [Amazon](https://www.amazon.com/)
@@ -72,20 +72,20 @@ Adopt a structured approach for integrating judgmental adjustments. Consistently
 Regularly review and refine the adjustment process. Incorporate [feedback loops](../f/feedback_loops_in_trading.md) to understand the impact and effectiveness of human inputs.
 
 ### Documentation
-Thoroughly document the reasons for each adjustment. Transparency ensures that future adjustments benefit from historical context and rationales.
+Thoroughly document the reasons for each adjustment. [Transparency](../t/transparency.md) ensures that future adjustments benefit from historical context and rationales.
 
 ## Future Trends
 
 ### AI and Human Collaboration
-Future advancements may see tighter integration between machine learning models and human judgment. AI can assist by flagging when human inputs are likely needed, or by learning from past judgmental adjustments to improve its own future recommendations.
+Future advancements may see tighter integration between machine learning models and human [judgment](../j/judgment.md). AI can assist by flagging when human inputs are likely needed, or by learning from past judgmental adjustments to improve its own future recommendations.
 
 ### Real-time Data
-The influx of real-time data sources can enhance judgmental adjustments by providing up-to-date information that models might not yet incorporate. Fields like IoT can offer immediate data feeds to shape short-term forecasts significantly.
+The influx of real-time data sources can enhance judgmental adjustments by providing up-to-date information that models might not yet incorporate. Fields like IoT can [offer](../o/offer.md) immediate data feeds to shape short-term forecasts significantly.
 
 ### Enhanced Visualization
-Sophisticated visualization tools can help human forecasters make better adjustments by providing clearer insights into both model predictions and the underlying data trends.
+Sophisticated visualization tools can help human forecasters make better adjustments by providing clearer insights into both model predictions and the [underlying](../u/underlying.md) data trends.
 
 ## Conclusion
 
-Judgmental adjustment in forecasting remains a vital process across multiple domains, striking a balance between [quantitative models](../q/quantitative_models.md) and human intuition. While challenges exist, adopting best practices and leveraging advancements in AI and [data visualization](../d/data_visualization.md) can enhance the efficacy and accuracy of this approach.
+Judgmental adjustment in [forecasting](../f/forecasting.md) remains a vital process across [multiple](../m/multiple.md) domains, striking a balance between [quantitative models](../q/quantitative_models.md) and human intuition. While challenges exist, adopting [best practices](../b/best_practices.md) and leveraging advancements in AI and [data visualization](../d/data_visualization.md) can enhance the efficacy and accuracy of this approach.
 

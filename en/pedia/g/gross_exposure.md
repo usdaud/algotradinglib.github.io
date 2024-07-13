@@ -1,32 +1,32 @@
 # Gross Exposure
 
-Gross exposure is a financial term commonly used in the context of hedge funds, mutual funds, and other investment portfolios. It refers to the total exposure to the market of both long and short positions taken by an investment portfolio without netting off long and short positions. In simpler terms, it represents the sum of the absolute values of the investment portfolio's long and short positions.
+Gross exposure is a financial term commonly used in the context of [hedge](../h/hedge.md) funds, mutual funds, and other investment portfolios. It refers to the total exposure to the [market](../m/market.md) of both long and short positions taken by an investment portfolio without [netting](../n/netting.md) off long and short positions. In simpler terms, it represents the sum of the absolute values of the investment portfolio's long and short positions.
 
-Understanding gross exposure is fundamental for investors, fund managers, and stakeholders as it provides insight into the level of market risk an investment portfolio is exposed to. This metric does not consider the direction of the bet (i.e., whether the positions are long or short), but merely the scale of the exposure. The calculation of gross exposure aids in assessing the potential risk and leverage associated with an investment strategy.
+Understanding gross exposure is fundamental for investors, [fund](../f/fund.md) managers, and stakeholders as it provides insight into the level of [market risk](../m/market_risk.md) an investment portfolio is exposed to. This metric does not consider the direction of the bet (i.e., whether the positions are long or short), but merely the scale of the exposure. The calculation of gross exposure aids in assessing the potential [risk](../r/risk.md) and [leverage](../l/leverage.md) associated with an [investment strategy](../i/investment_strategy.md).
 
 ## Calculation and Formula
 
 The formula for calculating gross exposure is:
 
-\[ \text{Gross Exposure} = \sum(\text{Absolute Value of Long Positions}) + \sum(\text{Absolute Value of Short Positions}) \]
+\[ \text{Gross Exposure} = \sum(\text{Absolute [Value](../v/value.md) of Long Positions}) + \sum(\text{Absolute [Value](../v/value.md) of Short Positions}) \]
 
 Here’s a practical breakdown of the formula:
 
-1. **Sum of Absolute Value of Long Positions**: This represents the total market value of all securities in which the fund holds a long position. A long position is when the investor purchases a security with the expectation that it will increase in value.
+1. **Sum of Absolute [Value](../v/value.md) of Long Positions**: This represents the total [market value](../m/market_value.md) of all securities in which the [fund](../f/fund.md) holds a long position. A long position is when the [investor](../i/investor.md) purchases a [security](../s/security.md) with the expectation that it [will](../w/will.md) increase in [value](../v/value.md).
 
-2. **Sum of Absolute Value of Short Positions**: This represents the total market value of all securities in which the fund holds a short position. A short position is when the investor sells a security they do not own, with the aim of repurchasing it later at a lower price.
+2. **Sum of Absolute [Value](../v/value.md) of Short Positions**: This represents the total [market value](../m/market_value.md) of all securities in which the [fund](../f/fund.md) holds a short position. A short position is when the [investor](../i/investor.md) sells a [security](../s/security.md) they do not own, with the aim of repurchasing it later at a lower price.
 
-To illustrate, consider a hedge fund with the following positions:
+To illustrate, consider a [hedge fund](../h/hedge_fund.md) with the following positions:
 
 - Long positions:
-  - $50 million in stocks of Company A.
+  - $50 million in [stocks](../s/stock.md) of Company A.
   - $30 million in bonds of Company B.
 
 - Short positions:
-  - $20 million in stocks of Company C.
+  - $20 million in [stocks](../s/stock.md) of Company C.
   - $10 million in bonds of Company D.
 
-The gross exposure of the fund would be:
+The gross exposure of the [fund](../f/fund.md) would be:
 
 \[ \text{Gross Exposure} = |$50M| + |$30M| + |$20M| + |$10M| = $110M \]
 
@@ -34,63 +34,63 @@ The gross exposure of the fund would be:
 
 Gross exposure is a crucial metric for several reasons:
 
-1. **Risk Management**: It helps in understanding the total market risk to which a portfolio is exposed. A higher gross exposure means higher market risk, as the portfolio has significant exposure both in long and short positions.
+1. **[Risk Management](../r/risk_management.md)**: It helps in understanding the total [market risk](../m/market_risk.md) to which a portfolio is exposed. A higher gross exposure means higher [market risk](../m/market_risk.md), as the portfolio has significant exposure both in long and short positions.
 
-2. **Leverage Assessment**: Gross exposure is an indicator of the leverage used by a fund. In highly leveraged funds, the gross exposure often exceeds the fund's net asset value, indicating the use of borrowed capital to increase potential returns.
+2. **[Leverage](../l/leverage.md) Assessment**: Gross exposure is an [indicator](../i/indicator.md) of the [leverage](../l/leverage.md) used by a [fund](../f/fund.md). In highly leveraged funds, the gross exposure often exceeds the [fund](../f/fund.md)'s net [asset](../a/asset.md) [value](../v/value.md), indicating the use of borrowed [capital](../c/capital.md) to increase potential returns.
 
-3. **Performance Attribution**: By analyzing gross exposure, investors can better comprehend the sources of a fund's performance. It distinguishes between returns generated by market exposure versus those from individual security selection.
+3. **[Performance Attribution](../p/performance_attribution.md)**: By analyzing gross exposure, investors can better comprehend the sources of a [fund](../f/fund.md)'s performance. It distinguishes between returns generated by [market exposure](../m/market_exposure.md) versus those from individual [security selection](../s/security_selection.md).
 
-4. **Regulatory Compliance**: Certain jurisdictions mandate disclosure of gross exposure as part of regulatory requirements to ensure transparency and mitigate systemic risk.
+4. **Regulatory Compliance**: Certain jurisdictions mandate [disclosure](../d/disclosure.md) of gross exposure as part of regulatory requirements to ensure [transparency](../t/transparency.md) and mitigate [systemic risk](../s/systemic_risk.md).
 
 ## Comparison with Net Exposure
 
-Gross exposure should not be confused with net exposure. Net exposure is the difference between a portfolio's long and short positions, providing a directionally adjusted measure of market risk. The formula for net exposure is:
+Gross exposure should not be confused with [net exposure](../n/net_exposure.md). [Net exposure](../n/net_exposure.md) is the difference between a portfolio's long and short positions, providing a directionally adjusted measure of [market risk](../m/market_risk.md). The formula for [net exposure](../n/net_exposure.md) is:
 
-\[ \text{Net Exposure} = \sum(\text{Long Positions}) - \sum(\text{Short Positions}) \]
+\[ \text{[Net Exposure](../n/net_exposure.md)} = \sum(\text{Long Positions}) - \sum(\text{Short Positions}) \]
 
 For instance, using the previous example:
 
 - Long positions total = $80M ($50M + $30M)
 - Short positions total = $30M ($20M + $10M)
 
-Net exposure would be:
+[Net exposure](../n/net_exposure.md) would be:
 
-\[ \text{Net Exposure} = $80M - $30M = $50M \]
+\[ \text{[Net Exposure](../n/net_exposure.md)} = $80M - $30M = $50M \]
 
-While gross exposure focuses on the total amount of capital at risk, net exposure provides an insight into the directional bias of the portfolio (long or short).
+While gross exposure focuses on the total amount of [capital](../c/capital.md) at [risk](../r/risk.md), [net exposure](../n/net_exposure.md) provides an insight into the directional bias of the portfolio (long or short).
 
 ## Applications and Use Cases
 
 ### Hedge Funds
 
-Hedge funds often have complex strategies involving significant gross exposure. For instance, long/short equity funds will hold a mix of long and short positions to hedge against market movements. By analyzing gross exposure, investors can assess the total risks involved irrespective of the fund's long or short bias.
+[Hedge](../h/hedge.md) funds often have complex strategies involving significant gross exposure. For instance, [long/short equity](../l/long_short_equity.md) funds [will](../w/will.md) [hold](../h/hold.md) a mix of long and short positions to [hedge](../h/hedge.md) against [market](../m/market.md) movements. By analyzing gross exposure, investors can assess the total risks involved irrespective of the [fund](../f/fund.md)'s long or short bias.
 
 ### Mutual Funds
 
-Mutual funds that employ derivative strategies also benefit from monitoring gross exposure. It helps fund managers ensure that their derivative contracts do not excessively leverage the portfolio, thereby maintaining a balance between potential returns and risks.
+Mutual funds that employ [derivative strategies](../d/derivative_strategies.md) also benefit from monitoring gross exposure. It helps [fund](../f/fund.md) managers ensure that their [derivative](../d/derivative.md) contracts do not excessively [leverage](../l/leverage.md) the portfolio, thereby maintaining a balance between potential returns and risks.
 
 ### Risk Parity Funds
 
-Risk parity funds allocate capital based on the risk contribution of each asset class. These funds monitor gross exposure to ensure that no single asset class disproportionately increases the portfolio's overall risk.
+[Risk parity](../r/risk_parity.md) funds allocate [capital](../c/capital.md) based on the [risk](../r/risk.md) contribution of each [asset class](../a/asset_class.md). These funds monitor gross exposure to ensure that no single [asset class](../a/asset_class.md) disproportionately increases the portfolio's overall [risk](../r/risk.md).
 
 ### Regulatory Standards
 
-Regulatory bodies, such as the Securities and Exchange Commission (SEC) in the United States, require periodic reporting of gross exposure for transparency. This helps in mitigating systemic risk and preventing excessive leverage that can destabilize financial markets.
+Regulatory bodies, such as the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) in the United States, require periodic reporting of gross exposure for [transparency](../t/transparency.md). This helps in mitigating [systemic risk](../s/systemic_risk.md) and preventing excessive [leverage](../l/leverage.md) that can destabilize [financial markets](../f/financial_market.md).
 
 ## Real-world Examples
 
 ### Bridgewater Associates
 
-Bridgewater Associates, founded by Ray Dalio, is one of the largest hedge funds globally. The firm employs a risk parity approach where gross exposure is meticulously monitored to ensure balanced risk allocation across asset classes. [Bridgewater Associates](https://www.bridgewater.com/)
+Bridgewater Associates, founded by Ray Dalio, is one of the largest [hedge](../h/hedge.md) funds globally. The [firm](../f/firm.md) employs a [risk parity](../r/risk_parity.md) approach where gross exposure is meticulously monitored to ensure balanced [risk](../r/risk.md) allocation across [asset](../a/asset.md) classes. [Bridgewater Associates](https://www.bridgewater.com/)
 
 ### Two Sigma
 
-Two Sigma, a quantitative hedge fund, uses advanced algorithms and machine learning to manage its portfolio. The firm carefully tracks gross exposure to optimize its leverage ratios and market exposure. [Two Sigma](https://www.twosigma.com/)
+Two Sigma, a quantitative [hedge fund](../h/hedge_fund.md), uses advanced algorithms and machine learning to manage its portfolio. The [firm](../f/firm.md) carefully tracks gross exposure to optimize its [leverage ratios](../l/leverage_ratios.md) and [market exposure](../m/market_exposure.md). [Two Sigma](https://www.twosigma.com/)
 
 ### BlackRock
 
-BlackRock, a global investment manager, applies gross exposure metrics across various funds to manage risk and performance effectively. Their platforms integrate gross exposure data for insightful analysis and decision-making. [BlackRock](https://www.blackrock.com/)
+BlackRock, a global [investment manager](../i/investment_manager.md), applies gross exposure metrics across various funds to manage [risk](../r/risk.md) and performance effectively. Their platforms integrate gross exposure data for insightful analysis and decision-making. [BlackRock](https://www.blackrock.com/)
 
 ## Conclusion
 
-Gross exposure is a critical metric in the financial world, especially for investment portfolios employing sophisticated trading strategies. It provides an overarching view of market risk and leverage, enabling better risk management, performance assessment, and regulatory compliance. By understanding and monitoring gross exposure, fund managers, investors, and regulators can make more informed and strategic decisions, thus contributing to a more stable and efficient financial environment.
+Gross exposure is a critical metric in the financial world, especially for investment portfolios employing sophisticated [trading strategies](../t/trading_strategies.md). It provides an overarching view of [market risk](../m/market_risk.md) and [leverage](../l/leverage.md), enabling better [risk management](../r/risk_management.md), performance assessment, and regulatory compliance. By understanding and monitoring gross exposure, [fund](../f/fund.md) managers, investors, and regulators can make more informed and strategic decisions, thus contributing to a more stable and efficient financial environment.

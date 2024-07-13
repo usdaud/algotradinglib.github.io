@@ -1,61 +1,61 @@
 # Non-GAAP Earnings
 
 ## Introduction
-Non-GAAP earnings are financial performance measures that do not conform to the generally accepted accounting principles (GAAP). They are often used by companies to provide a clearer picture of their operating performance by excluding items that they consider non-recurring, non-cash, or otherwise irrelevant to their core operations. While these metrics can offer valuable insights, they also raise concerns regarding transparency and the potential for misleading financial reporting.
+Non-GAAP [earnings](../e/earnings.md) are [financial performance](../f/financial_performance.md) measures that do not conform to the generally accepted [accounting principles](../a/accounting_principles.md) (GAAP). They are often used by companies to provide a clearer picture of their operating performance by excluding items that they consider non-recurring, non-cash, or otherwise irrelevant to their core operations. While these metrics can [offer](../o/offer.md) valuable insights, they also raise concerns regarding [transparency](../t/transparency.md) and the potential for misleading financial reporting.
 
 ## GAAP vs. Non-GAAP: An Overview
 ### GAAP Earnings
-GAAP earnings are calculated using standardized accounting principles set forth by official accounting organizations such as the Financial Accounting Standards Board (FASB) in the United States. These principles aim to promote consistency, comparability, and transparency in financial reporting. GAAP earnings include all revenues, expenses, gains, and losses, providing a comprehensive overview of a company's financial performance.
+GAAP [earnings](../e/earnings.md) are calculated using standardized [accounting principles](../a/accounting_principles.md) set forth by official [accounting](../a/accounting.md) organizations such as the [Financial Accounting](../f/financial_accounting.md) Standards Board (FASB) in the United States. These principles aim to promote consistency, comparability, and [transparency](../t/transparency.md) in financial reporting. GAAP [earnings](../e/earnings.md) include all revenues, expenses, gains, and losses, providing a comprehensive overview of a company's [financial performance](../f/financial_performance.md).
 
 ### Non-GAAP Earnings
-Non-GAAP earnings, on the other hand, are adjusted figures that exclude certain items deemed not reflective of a company's core operations. Common exclusions may include:
-- Restructuring costs
+Non-GAAP [earnings](../e/earnings.md), on the other hand, are adjusted figures that exclude certain items deemed not reflective of a company's core operations. Common exclusions may include:
+- [Restructuring](../r/restructuring.md) costs
 - Litigation expenses
 - Amortization of intangible assets
 - Stock-based compensation
-- Impairment charges
+- [Impairment](../i/impairment.md) charges
 - Gains/losses from disposal of assets
 
 ## Rationale Behind Non-GAAP Earnings
 ### Management Perspective
-From a management standpoint, non-GAAP earnings can highlight the underlying performance of the business. For instance, if a company incurs significant one-time costs due to a restructuring activity, non-GAAP earnings can provide a clearer picture of the operational profitability excluding these irregular expenses.
+From a management standpoint, non-GAAP [earnings](../e/earnings.md) can highlight the [underlying](../u/underlying.md) performance of the [business](../b/business.md). For instance, if a company incurs significant one-time costs due to a [restructuring](../r/restructuring.md) activity, non-GAAP [earnings](../e/earnings.md) can provide a clearer picture of the operational profitability excluding these irregular expenses.
 
 ### Investor Perspective
-Investors may find non-GAAP metrics useful for assessing the ongoing profitability and potential future performance of a company. By focusing on recurring elements, non-GAAP earnings can help investors make more informed decisions.
+Investors may find non-GAAP metrics useful for assessing the ongoing profitability and potential future performance of a company. By focusing on recurring elements, non-GAAP [earnings](../e/earnings.md) can help investors make more informed decisions.
 
 ## Common Non-GAAP Measures
 ### EBITDA
-Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA) is a popular non-GAAP measure that focuses on a company's ability to generate earnings from its core operations. It strips out the effects of financing, tax positions, and non-cash accounting measures, providing a clearer view of operational efficiency.
+[Earnings](../e/earnings.md) Before [Interest](../i/interest.md), [Taxes](../t/taxes.md), [Depreciation](../d/depreciation.md), and Amortization (EBITDA) is a popular non-GAAP measure that focuses on a company's ability to generate [earnings](../e/earnings.md) from its core operations. It strips out the effects of [financing](../f/financing.md), tax positions, and non-[cash accounting](../c/cash_accounting.md) measures, providing a clearer view of [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ### Adjusted Net Income
-This metric adjusts net income to exclude specific items, such as restructuring charges and litigation expenses. The goal is to provide a net income figure that reflects what the company considers its normal operating performance.
+This metric adjusts net [income](../i/income.md) to exclude specific items, such as [restructuring](../r/restructuring.md) charges and litigation expenses. The goal is to provide a net [income](../i/income.md) figure that reflects what the company considers its normal operating performance.
 
 ### Free Cash Flow
-Free Cash Flow (FCF) is another widely used non-GAAP measure that calculates the cash generated by the company's operations, minus capital expenditures. FCF is particularly valuable to investors because it indicates how much cash a company has available to pay dividends, repurchase shares, or pay down debt.
+Free [Cash Flow](../c/cash_flow.md) (FCF) is another widely used non-GAAP measure that calculates the cash generated by the company's operations, minus [capital](../c/capital.md) expenditures. FCF is particularly valuable to investors because it indicates how much cash a company has available to pay dividends, repurchase [shares](../s/shares.md), or pay down [debt](../d/debt.md).
 
 ## Criticisms and Concerns
 ### Lack of Standardization
-One of the primary criticisms of non-GAAP earnings is the lack of standardization. Unlike GAAP, there are no universally accepted rules for calculating non-GAAP metrics, making comparisons across different companies difficult and potentially misleading.
+One of the primary criticisms of non-GAAP [earnings](../e/earnings.md) is the lack of standardization. Unlike GAAP, there are no universally accepted rules for calculating non-GAAP metrics, making comparisons across different companies difficult and potentially misleading.
 
 ### Potential for Manipulation
-The flexibility in defining non-GAAP earnings creates opportunities for companies to present overly optimistic views of their financial performance. By excluding unfavorable items, management could paint a rosier picture than warranted, potentially misleading investors.
+The flexibility in defining non-GAAP [earnings](../e/earnings.md) creates opportunities for companies to present overly optimistic views of their [financial performance](../f/financial_performance.md). By excluding unfavorable items, management could paint a rosier picture than warranted, potentially misleading investors.
 
 ### Regulatory Scrutiny
-Regulators like the U.S. Securities and Exchange Commission (SEC) have increased scrutiny over the use of non-GAAP earnings. They require companies to reconcile non-GAAP metrics with GAAP figures, ensuring that investors receive a complete and transparent view of financial performance.
+Regulators like the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) have increased scrutiny over the use of non-GAAP [earnings](../e/earnings.md). They require companies to reconcile non-GAAP metrics with GAAP figures, ensuring that investors receive a complete and transparent view of [financial performance](../f/financial_performance.md).
 
 ## Examples of Non-GAAP Reporting
 ### Technology Sector
-Many technology companies frequently report non-GAAP earnings. For instance, [Apple Inc.](https://www.apple.com) often includes non-GAAP metrics alongside GAAP figures in their quarterly earnings reports to give investors a better sense of their operational performance.
+Many technology companies frequently report non-GAAP [earnings](../e/earnings.md). For instance, [Apple Inc.](https://www.apple.com) often includes non-GAAP metrics alongside GAAP figures in their [quarterly earnings reports](../q/quarterly_earnings_reports.md) to give investors a better sense of their operational performance.
 
 ### Healthcare Sector
-Pharmaceutical companies, like [Pfizer](https://www.pfizer.com), also rely on non-GAAP metrics to account for the impact of large, one-time expenses such as R&D write-offs, patent litigation costs, or acquisitions.
+Pharmaceutical companies, like [Pfizer](https://www.pfizer.com), also rely on non-GAAP metrics to account for the impact of large, one-time expenses such as R&D [write-offs](../w/write-offs_in_trading.md), [patent](../p/patent.md) litigation costs, or acquisitions.
 
 ## How Non-GAAP Earnings are Used in Valuation
 ### Multiples-Based Valuation
-Non-GAAP earnings are commonly used in multiples-based valuation methods such as the Price/Earnings (P/E) ratio and the EV/EBITDA ratio. These metrics can provide a clearer sense of valuation by focusing on the core earnings potential of the business.
+Non-GAAP [earnings](../e/earnings.md) are commonly used in multiples-based [valuation](../v/valuation.md) methods such as the Price/[Earnings](../e/earnings.md) (P/E) ratio and the EV/EBITDA ratio. These metrics can provide a clearer sense of [valuation](../v/valuation.md) by focusing on the core [earnings](../e/earnings.md) potential of the [business](../b/business.md).
 
 ### Discounted Cash Flow (DCF) Model
-In a DCF model, free cash flow (a non-GAAP measure) is often the primary input. The focus on cash generation ability allows for a more accurate assessment of a company's intrinsic value.
+In a DCF model, free [cash flow](../c/cash_flow.md) (a non-GAAP measure) is often the primary input. The focus on cash generation ability allows for a more accurate assessment of a company's [intrinsic value](../i/intrinsic_value.md).
 
 ## Conclusion
-Non-GAAP earnings are a valuable tool for both management and investors, providing an alternative view of a company's financial performance. However, they must be used judiciously and in conjunction with GAAP figures to ensure a holistic understanding. Despite the benefits, the lack of standardization and potential for manipulation remain significant concerns, emphasizing the need for regulatory oversight and careful interpretation by stakeholders.
+Non-GAAP [earnings](../e/earnings.md) are a valuable tool for both management and investors, providing an alternative view of a company's [financial performance](../f/financial_performance.md). However, they must be used judiciously and in conjunction with GAAP figures to ensure a holistic understanding. Despite the benefits, the lack of standardization and potential for manipulation remain significant concerns, emphasizing the need for regulatory oversight and careful interpretation by stakeholders.

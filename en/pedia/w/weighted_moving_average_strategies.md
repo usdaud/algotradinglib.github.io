@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The Weighted Moving Average (WMA) is a financial indicator used in the analysis of time-series data, particularly in the financial markets. It is a type of moving average that assigns more weight to the most recent data points, hence, reacting more quickly to changes compared to a Simple Moving Average (SMA). This characteristic makes it a valuable tool in [algorithmic trading](../a/algorithmic_trading.md), where timely decision-making is crucial.
+The [Weighted](../w/weighted.md) Moving Average (WMA) is a financial [indicator](../i/indicator.md) used in the analysis of time-series data, particularly in the [financial markets](../f/financial_market.md). It is a type of moving average that assigns more weight to the most recent data points, hence, reacting more quickly to changes compared to a Simple Moving Average (SMA). This characteristic makes it a valuable tool in [algorithmic trading](../a/algorithmic_trading.md), where timely decision-making is crucial.
 
 ## Weighted Moving Average: An Overview
 
 ### Definition
 
-A Weighted Moving Average (WMA) is calculated by assigning a specific weight to each data point within a fixed period. The weights usually decrease linearly as you go back in time. The formula for a WMA is:
+A [Weighted](../w/weighted.md) Moving Average (WMA) is calculated by assigning a specific weight to each data point within a fixed period. The weights usually decrease linearly as you go back in time. The formula for a WMA is:
 
 \[ \text{WMA} = \frac{\sum_{i=1}^{n} (Price_i \times Weight_i)}{\sum_{i=1}^{n} Weight_i} \]
 
@@ -18,15 +18,15 @@ where \( Price_i \) is the price at the ith time period, and \( Weight_i \) repr
 
 [Algorithmic trading](../a/algorithmic_trading.md) involves automated trading decisions based on pre-defined strategies. Since WMA can react faster to recent price changes, it plays a vital role in:
 
-1. **Trend Identification**: By placing more emphasis on recent data, WMA helps in detecting the trend direction more swiftly.
+1. **[Trend](../t/trend.md) Identification**: By placing more emphasis on recent data, WMA helps in detecting the [trend](../t/trend.md) direction more swiftly.
 2. **Signal Generation**: Strategies involving [moving average crossovers](../m/moving_average_crossovers.md) often use WMA to generate buy/sell signals.
-3. **[Risk Management](../r/risk_management.md)**: Faster reaction times allow for more timely adjustments to stop-loss and take-profit levels.
+3. **[Risk Management](../r/risk_management.md)**: Faster reaction times allow for more timely adjustments to stop-loss and take-[profit](../p/profit.md) levels.
 
 ## Strategies Involving Weighted Moving Averages
 
 ### 1. WMA Crossover Strategy
 
-This strategy involves using multiple WMAs of different periods to signal market entry and exit points. A common configuration is the short-term WMA (e.g., 10-day) and the long-term WMA (e.g., 50-day).
+This strategy involves using [multiple](../m/multiple.md) WMAs of different periods to signal [market](../m/market.md) entry and exit points. A common configuration is the short-term WMA (e.g., 10-day) and the long-term WMA (e.g., 50-day).
 
 #### Implementation Steps
 
@@ -40,19 +40,19 @@ This strategy involves using multiple WMAs of different periods to signal market
 
 ### 2. WMA and Relative Strength Index (RSI) Strategy
 
-Combining WMA with Relative Strength Index (RSI) can enhance [trading signals](../t/trading_signals.md) by filtering out [false signals](../f/false_signals_in_trading.md) and confirming trend strength.
+Combining WMA with [Relative Strength](../r/relative_strength.md) [Index](../i/index.md) (RSI) can enhance [trading signals](../t/trading_signals.md) by filtering out [false signals](../f/false_signals_in_trading.md) and confirming [trend](../t/trend.md) strength.
 
 #### Implementation Steps
 
 1. **Calculate WMA**: Compute the WMA for the selected period.
 2. **Calculate RSI**: Compute RSI for the same or different time period (commonly 14 days).
 3. **Generate Signals**:
-   - **Confirm Buy**: When WMA indicates an upward trend and RSI is below the overbought level (usually 70).
-   - **Confirm Sell**: When WMA indicates a downward trend and RSI is above the oversold level (usually 30).
+   - **Confirm Buy**: When WMA indicates an upward [trend](../t/trend.md) and RSI is below the [overbought](../o/overbought.md) level (usually 70).
+   - **Confirm Sell**: When WMA indicates a downward [trend](../t/trend.md) and RSI is above the [oversold](../o/oversold.md) level (usually 30).
 
 ### 3. Dual WMA Scalp Strategy
 
-Scalping involves making numerous trades within a trading day to capitalize on small price movements.
+[Scalping](../s/scalping.md) involves making numerous trades within a trading day to [capitalize](../c/capitalize.md) on small price movements.
 
 #### Implementation Steps
 
@@ -60,12 +60,12 @@ Scalping involves making numerous trades within a trading day to capitalize on s
 2. **Signal Identification**:
    - **Buy Signal**: When the 3-period WMA crosses above the 8-period WMA.
    - **Sell Signal**: When the 3-period WMA crosses below the 8-period WMA.
-3. **Trade Execution**:
-   - Enter trades on identified signals and exit quickly based on predefined profit brackets or stop losses.
+3. **[Trade](../t/trade.md) [Execution](../e/execution.md)**:
+   - Enter trades on identified signals and exit quickly based on predefined [profit](../p/profit.md) brackets or stop losses.
 
 ### 4. WMA and Bollinger Bands Strategy
 
-[Bollinger Bands](../b/bollinger_bands.md) are a [technical analysis](../t/technical_analysis.md) tool that depicts price volatility. Combining them with WMA can help in recognizing overbought and oversold conditions.
+[Bollinger Bands](../b/bollinger_bands.md) are a [technical analysis](../t/technical_analysis.md) tool that depicts price [volatility](../v/volatility.md). Combining them with WMA can help in recognizing [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions.
 
 #### Implementation Steps
 
@@ -79,16 +79,16 @@ Scalping involves making numerous trades within a trading day to capitalize on s
 
 ### 5. WMA Pullback Strategy
 
-A pullback strategy aims to buy during a temporary price dip within an uptrend and sell during a brief rally within a downtrend.
+A [pullback](../p/pullback.md) strategy aims to buy during a temporary price dip within an [uptrend](../u/uptrend.md) and sell during a brief [rally](../r/rally.md) within a [downtrend](../d/downtrend.md).
 
 #### Implementation Steps
 
-1. **Define Trend**: Identify the primary trend using a long-term WMA.
-2. **Monitor Pullback**:
-   - **Uptrend**: Wait for the price to pull back to or below a shorter-term WMA.
-   - **Downtrend**: Wait for the price to rally to or above a shorter-term WMA.
+1. **Define [Trend](../t/trend.md)**: Identify the primary [trend](../t/trend.md) using a long-term WMA.
+2. **Monitor [Pullback](../p/pullback.md)**:
+   - **[Uptrend](../u/uptrend.md)**: Wait for the price to pull back to or below a shorter-term WMA.
+   - **[Downtrend](../d/downtrend.md)**: Wait for the price to [rally](../r/rally.md) to or above a shorter-term WMA.
 3. **Set Entry Points**:
-   - Enter the trade when price resumes its movement in the direction of the main trend.
+   - Enter the [trade](../t/trade.md) when price resumes its movement in the direction of the main [trend](../t/trend.md).
 
 ## Practical Considerations
 
@@ -96,25 +96,25 @@ A pullback strategy aims to buy during a temporary price dip within an uptrend a
 
 Before deploying any WMA-based strategy, thorough [backtesting](../b/backtesting.md) is crucial. This involves running the strategy on historical data to evaluate its performance. Considerations during [backtesting](../b/backtesting.md) include:
 
-- **Data Quality**: Ensure the data used is of high quality and covers various market conditions.
-- **Optimization**: Adjust parameters (e.g., WMA periods) to optimize performance while being cautious of overfitting.
-- **[Performance Metrics](../p/performance_metrics.md)**: Evaluate metrics such as [Sharpe ratio](../s/sharpe_ratio.md), drawdown, win rate, and [profit factor](../p/profit_factor.md).
+- **Data Quality**: Ensure the data used is of high quality and covers various [market](../m/market.md) conditions.
+- **[Optimization](../o/optimization.md)**: Adjust parameters (e.g., WMA periods) to optimize performance while being cautious of [overfitting](../o/overfitting.md).
+- **[Performance Metrics](../p/performance_metrics.md)**: Evaluate metrics such as [Sharpe ratio](../s/sharpe_ratio.md), [drawdown](../d/drawdown.md), win rate, and [profit factor](../p/profit_factor.md).
 
 ### Real-Time Implementation
 
 For real-time trading, careful implementation is necessary to manage risks and ensure reliability.
 
-- **Latency**: Choose a platform and broker with low latency to execute trades promptly.
-- **Automation**: Use robust automation tools. Popular platforms include MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com/), [NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com/), and [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
+- **Latency**: Choose a platform and [broker](../b/broker.md) with low latency to execute trades promptly.
+- **Automation**: Use [robust](../r/robust.md) automation tools. Popular platforms include MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com/), [NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com/), and [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
 - **[Risk Management](../r/risk_management.md)**: Implement rigorous [risk management](../r/risk_management.md) protocols, including [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md).
 
 ### Continuous Monitoring and Adjustment
 
-[Algorithmic trading](../a/algorithmic_trading.md) strategies are not a set-and-forget solution. Continuous monitoring and adjustments may be needed to adapt to changing market conditions.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies are not a set-and-forget solution. Continuous monitoring and adjustments may be needed to adapt to changing [market](../m/market.md) conditions.
 
 - **Performance Review**: Regularly review strategy performance and make necessary adjustments.
-- **Market Conditions**: Remain aware of broader market conditions and news events that could impact strategy effectiveness.
+- **[Market](../m/market.md) Conditions**: Remain aware of broader [market](../m/market.md) conditions and news events that could impact strategy effectiveness.
 
 ## Conclusion
 
-Weighted Moving Averages offer a versatile toolset for [algorithmic trading](../a/algorithmic_trading.md). Their ability to adapt quickly to recent price changes makes them invaluable for trend identification, signal generation, and [risk management](../r/risk_management.md). However, as with any trading strategy, rigorous testing, careful implementation, and continuous monitoring are paramount to success.
+[Weighted](../w/weighted.md) Moving Averages [offer](../o/offer.md) a versatile toolset for [algorithmic trading](../a/algorithmic_trading.md). Their ability to adapt quickly to recent price changes makes them invaluable for [trend](../t/trend.md) identification, signal generation, and [risk management](../r/risk_management.md). However, as with any [trading strategy](../t/trading_strategy.md), rigorous testing, careful implementation, and continuous monitoring are paramount to success.

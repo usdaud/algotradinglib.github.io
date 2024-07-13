@@ -4,54 +4,54 @@ Normalized Price Analysis is a vital concept in [algorithmic trading](../a/algor
 
 ## What is Normalized Price?
 
-Normalized price refers to the process of adjusting the raw prices of financial instruments to a common scale, eliminating the effects of factors like different currency units, price ranges, and volatility. This adjustment allows traders to compare the performance of different assets more directly. Normalization techniques can include using percentages, [z-scores](../z/z-scores_in_trading.md), or scaling prices to a specific range (like 0 to 100).
+Normalized price refers to the process of adjusting the raw prices of financial instruments to a common scale, eliminating the effects of factors like different [currency](../c/currency.md) units, price ranges, and [volatility](../v/volatility.md). This adjustment allows traders to compare the performance of different assets more directly. Normalization techniques can include using percentages, [z-scores](../z/z-scores_in_trading.md), or scaling prices to a specific [range](../r/range.md) (like 0 to 100).
 
 ### Common Normalization Techniques
 
-1. **Percentage Changes**: Calculating the percentage change from a base value to track relative performance over time.
+1. **Percentage Changes**: Calculating the [percentage change](../p/percentage_change.md) from a base [value](../v/value.md) to track relative performance over time.
 2. **[Z-Scores](../z/z-scores_in_trading.md)**: Transforming price data into [z-scores](../z/z-scores_in_trading.md), which represent the number of standard deviations away from the mean price.
-3. **Min-Max Scaling**: Rescaling prices to a specific range, often between 0 and 1, to standardize data for comparison.
+3. **Min-Max Scaling**: Rescaling prices to a specific [range](../r/range.md), often between 0 and 1, to standardize data for comparison.
 4. **[Logarithmic Returns](../l/logarithmic_returns.md)**: Utilizing the natural logarithm of price relatives to normalize data.
 
 ### Importance in Algorithmic Trading
 
 In [algorithmic trading](../a/algorithmic_trading.md), normalized price analysis allows for:
 
-- **[Comparative Analysis](../c/comparative_analysis.md)**: Directly comparing the performance of multiple securities, regardless of their original price scales.
+- **[Comparative Analysis](../c/comparative_analysis.md)**: Directly comparing the performance of [multiple](../m/multiple.md) securities, regardless of their original price scales.
 - **[Pattern Recognition](../p/pattern_recognition.md)**: Identifying patterns and trends that are consistent across different assets.
-- **[Risk Management](../r/risk_management.md)**: Assessing relative volatility and risk more accurately.
+- **[Risk Management](../r/risk_management.md)**: Assessing relative [volatility](../v/volatility.md) and [risk](../r/risk.md) more accurately.
 
 ## Techniques in Detail
 
 ### Percentage Changes
 
-Percentage change is a fundamental normalization technique:
+[Percentage change](../p/percentage_change.md) is a fundamental normalization technique:
 
-\[ \text{Percentage Change} = \left( \frac{P_t}{P_{t-1}} - 1 \right) \times 100 \]
+\[ \text{[Percentage Change](../p/percentage_change.md)} = \left( \frac{P_t}{P_{t-1}} - 1 \right) \times 100 \]
 
-Where \( P_t \) is the price at time \( t \). This method allows traders to see how a security's price has performed relative to its initial value, making this method particularly useful for comparing historical performance.
+Where \( P_t \) is the price at time \( t \). This method allows traders to see how a [security](../s/security.md)'s price has performed relative to its initial [value](../v/value.md), making this method particularly useful for comparing historical performance.
 
 ### Z-Scores
 
 To calculate [z-scores](../z/z-scores_in_trading.md), the following formula is used:
 
-\[ \text{Z-Score} = \frac{P_t - \mu}{\sigma} \]
+\[ \text{[Z-Score](../z/z-score.md)} = \frac{P_t - \mu}{\sigma} \]
 
-Where \( P_t \) is the price at time \( t \), \( \mu \) is the mean price, and \( \sigma \) is the standard deviation. [Z-scores](../z/z-scores_in_trading.md) indicate how far a price is from its average, in terms of standard deviations. This statistical analysis helps traders identify anomalies and outliers.
+Where \( P_t \) is the price at time \( t \), \( \mu \) is the mean price, and \( \sigma \) is the [standard deviation](../s/standard_deviation.md). [Z-scores](../z/z-scores_in_trading.md) indicate how far a price is from its average, in terms of standard deviations. This statistical analysis helps traders identify anomalies and outliers.
 
 ### Min-Max Scaling
 
-Min-max scaling adjusts prices to a predefined range:
+Min-max scaling adjusts prices to a predefined [range](../r/range.md):
 
 \[ X' = \frac{(X - X_{min})}{(X_{max} - X_{min})} \times (b - a) + a \]
 
-Where \( X \) is the original price, \( X_{min} \) and \( X_{max} \) are the minimum and maximum prices in the range, and \( a \) and \( b \) are the new scale's lower and upper bounds, respectively.
+Where \( X \) is the original price, \( X_{min} \) and \( X_{max} \) are the minimum and maximum prices in the [range](../r/range.md), and \( a \) and \( b \) are the new scale's lower and upper bounds, respectively.
 
 ### Logarithmic Returns
 
-[Logarithmic returns](../l/logarithmic_returns.md) offer a continuous compounding perspective:
+[Logarithmic returns](../l/logarithmic_returns.md) [offer](../o/offer.md) a [continuous compounding](../c/continuous_compounding.md) perspective:
 
-\[ \text{Log Return} = \ln \left( \frac{P_t}{P_{t-1}} \right) \]
+\[ \text{Log [Return](../r/return.md)} = \ln \left( \frac{P_t}{P_{t-1}} \right) \]
 
 This method accounts for the compound nature of returns and is preferred for its symmetric property over percentage returns.
 
@@ -63,15 +63,15 @@ Normalization allows traders and algorithms to assess the performance of various
 
 ### Strategy Backtesting
 
-When [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), normalized prices ensure that the strategies are evaluated on a consistent basis, enabling more accurate and meaningful results.
+When [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), normalized prices ensure that the strategies are evaluated on a consistent [basis](../b/basis.md), enabling more accurate and meaningful results.
 
 ### Multi-Asset Strategies
 
-For strategies involving multiple asset classes, normalization allows for coherent evaluation and implementation. Traders can apply the same strategic principles across different securities without worrying about their differing price scales.
+For strategies involving [multiple](../m/multiple.md) [asset](../a/asset.md) classes, normalization allows for coherent evaluation and implementation. Traders can apply the same strategic principles across different securities without worrying about their differing price scales.
 
 ### Risk Management
 
-Normalization helps in understanding and managing the relative risk of various assets. By analyzing normalized price data, traders can detect volatility patterns and adjust their portfolios accordingly.
+Normalization helps in understanding and managing the relative [risk](../r/risk.md) of various assets. By analyzing normalized price data, traders can detect [volatility](../v/volatility.md) patterns and adjust their portfolios accordingly.
 
 ## Tools and Libraries
 
@@ -90,8 +90,8 @@ Several tools and libraries facilitate normalized price analysis in [algorithmic
 Below is an example workflow for normalized price analysis using Python:
 
 ```python
-import pandas as pd
-import numpy as np
+[import](../i/import.md) pandas as pd
+[import](../i/import.md) numpy as np
 
 # Load price data
 data = pd.read_csv('prices.csv')
@@ -114,9 +114,9 @@ min_max_scaled = (prices - min_price) / (max_price - min_price)
 log_returns = np.log(prices / prices.shift(1))
 
 # Plotting for visualization
-import matplotlib.pyplot as plt
+[import](../i/import.md) matplotlib.pyplot as plt
 
-plt.plot(data['Date'], percentage_change, label='Percentage Change')
+plt.plot(data['Date'], percentage_change, label='[Percentage Change](../p/percentage_change.md)')
 plt.plot(data['Date'], z_scores, label='[Z-Scores](../z/z-scores_in_trading.md)')
 plt.plot(data['Date'], min_max_scaled, label='Min-Max Scaled')
 plt.plot(data['Date'], log_returns, label='Log Returns')
@@ -124,8 +124,8 @@ plt.legend()
 plt.show()
 ```
 
-This script loads price data, applies various normalization techniques, and visualizes the normalized data for analysis. Such workflows are essential in [algorithmic trading](../a/algorithmic_trading.md) to create robust, data-driven strategies.
+This script loads price data, applies various normalization techniques, and visualizes the normalized data for analysis. Such workflows are essential in [algorithmic trading](../a/algorithmic_trading.md) to create [robust](../r/robust.md), data-driven strategies.
 
 ## Conclusion
 
-Normalized Price Analysis is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), providing a standardized method to evaluate and compare different financial instruments. By utilizing techniques such as percentage changes, [z-scores](../z/z-scores_in_trading.md), min-max scaling, and [logarithmic returns](../l/logarithmic_returns.md), traders can gain deeper insights into market dynamics, build effective strategies, and manage risk more efficiently. The use of advanced tools and libraries further enhances the precision and effectiveness of normalized price analysis in modern [trading systems](../t/trading_systems.md).
+Normalized Price Analysis is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), providing a standardized method to evaluate and compare different financial instruments. By utilizing techniques such as percentage changes, [z-scores](../z/z-scores_in_trading.md), min-max scaling, and [logarithmic returns](../l/logarithmic_returns.md), traders can [gain](../g/gain.md) deeper insights into [market dynamics](../m/market_dynamics.md), build effective strategies, and manage [risk](../r/risk.md) more efficiently. The use of advanced tools and libraries further enhances the precision and effectiveness of normalized price analysis in modern [trading systems](../t/trading_systems.md).

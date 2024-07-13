@@ -15,21 +15,21 @@ A rolling window continuously updates by adding new observations and dropping ol
 ### Expanding Windows
 Unlike a rolling window, an expanding window includes all historical data up to the current point. This window grows over time, capturing an increasing amount of historical data.
 
-**Application**: Expanding windows are frequently used in cumulative return calculations, where the return is computed from the start of the observation period up to the current point.
+**Application**: Expanding windows are frequently used in cumulative [return](../r/return.md) calculations, where the [return](../r/return.md) is computed from the start of the observation period up to the current point.
 
-**Example**: Calculating the accumulated financial return from the inception of the trading account to the present date.
+**Example**: Calculating the accumulated financial [return](../r/return.md) from the inception of the [trading account](../t/trading_account.md) to the present date.
 
 ### Sliding Windows
-Sliding windows are similar to rolling windows but offer flexibility in terms of overlap. Sliding windows can move in steps larger than a single data point, thus allowing for less frequent updates.
+Sliding windows are similar to rolling windows but [offer](../o/offer.md) flexibility in terms of overlap. Sliding windows can move in steps larger than a single data point, thus allowing for less frequent updates.
 
 **Application**: Sliding windows are often used for seasonal or periodic data analysis, where data is analyzed at regular intervals.
 
-**Example**: A sliding window that updates every week to assess the weekly performance of a trading strategy.
+**Example**: A sliding window that updates every week to assess the weekly performance of a [trading strategy](../t/trading_strategy.md).
 
 ## Techniques in Practice
 
 ### Moving Averages
-Moving averages smooth out price action by filtering out the "noise" from random price fluctuations. They are widely used in momentum and trend [trading strategies](../t/trading_strategies.md).
+Moving averages smooth out [price action](../p/price_action.md) by filtering out the "[noise](../n/noise.md)" from random price fluctuations. They are widely used in [momentum](../m/momentum.md) and [trend](../t/trend.md) [trading strategies](../t/trading_strategies.md).
 
 #### Simple Moving Average (SMA)
 The SMA calculates the mean of the closing prices over a specified period. 
@@ -50,21 +50,21 @@ where \( P_t \) is the price at the current period t.
 **Use Case**: Highlighting recent price trends more effectively than the SMA.
 
 ### Bollinger Bands
-[Bollinger Bands](../b/bollinger_bands.md) consist of a moving average line with two bands that are standard deviations away. They help identify overbought and oversold conditions.
+[Bollinger Bands](../b/bollinger_bands.md) consist of a moving average line with two bands that are standard deviations away. They help identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions.
 
 **Components**:
 - Middle Band: Simple moving average (SMA).
 - Upper Band: SMA plus 2 standard deviations.
 - Lower Band: SMA minus 2 standard deviations.
 
-**Use Case**: Identifying volatility and price levels. If the price touches the upper band, it may be overbought; if it touches the lower band, it may be oversold.
+**Use Case**: Identifying [volatility](../v/volatility.md) and price levels. If the price touches the upper band, it may be [overbought](../o/overbought.md); if it touches the lower band, it may be [oversold](../o/oversold.md).
 
 ### Windowed Volatility
-Volatility measures the degree of variation of a trading price series over time. Windowed volatility breaks down this measurement over specific periods.
+[Volatility](../v/volatility.md) measures the degree of variation of a trading price series over time. Windowed [volatility](../v/volatility.md) breaks down this measurement over specific periods.
 
 **Application**: Assessing the susceptibility of a stock to significant price swings within different time frames.
 
-**Use Case**: High volatility signals higher risk and potential trading opportunities.
+**Use Case**: High [volatility](../v/volatility.md) signals higher [risk](../r/risk.md) and potential trading opportunities.
 
 ### Signal Extraction
 Signal extraction involves identifying meaningful patterns or trends from noisy data within the windows.
@@ -77,24 +77,24 @@ A mathematical transform that decomposes a function of time (a signal) into its 
 #### Kalman Filter
 An algorithm that uses a series of measurements observed over time to estimate the state of a dynamic system.
 
-**Use Case**: Reducing noise and forecasting future states in time series data.
+**Use Case**: Reducing [noise](../n/noise.md) and [forecasting](../f/forecasting.md) future states in [time series](../t/time_series.md) data.
 
 ## Statistical Tests
 
 ### Augmented Dickey-Fuller Test
-A statistical test used to determine if a time series is stationary. Being stationary means the series does not depend on time.
+A statistical test used to determine if a [time series](../t/time_series.md) is stationary. Being stationary means the series does not depend on time.
 
-**Application**: Used in windowing to test if the data within the window is stationary, which is a prerequisite for many time series models.
+**Application**: Used in windowing to test if the data within the window is stationary, which is a prerequisite for many [time series](../t/time_series.md) models.
 
 ### Bartlett's Test
-Tests whether variances are equal across multiple samples or windows.
+Tests whether variances are equal across [multiple](../m/multiple.md) samples or windows.
 
-**Application**: Ensuring that the volatility measured across different windows is consistent before applying specific [trading models](../t/trading_models.md).
+**Application**: Ensuring that the [volatility](../v/volatility.md) measured across different windows is consistent before applying specific [trading models](../t/trading_models.md).
 
 ### Chow Test
-Assesses whether there is a structural break at a point within the time series data.
+Assesses whether there is a structural break at a point within the [time series](../t/time_series.md) data.
 
-**Application**: Useful for detecting shifts in market conditions within different windows.
+**Application**: Useful for detecting shifts in [market](../m/market.md) conditions within different windows.
 
 ## Advanced Strategies
 
@@ -109,10 +109,10 @@ Suitable for sequential data, where the output at each time step depends on prev
 #### Long Short-Term Memory Networks (LSTM)
 A type of RNN that can learn long-term dependencies.
 
-**Use Case**: Capturing long-term trends in trading data, suitable for trend prediction and [anomaly detection](../a/anomaly_detection.md).
+**Use Case**: Capturing long-term trends in trading data, suitable for [trend](../t/trend.md) prediction and [anomaly detection](../a/anomaly_detection.md).
 
 ### Multi-Window Approaches
-Combining multiple windowing techniques can yield more robust [trading strategies](../t/trading_strategies.md).
+Combining [multiple](../m/multiple.md) windowing techniques can [yield](../y/yield.md) more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md).
 
 **Example**: Using a combination of rolling and expanding windows to simultaneously capture short-term movements and long-term trends.
 
@@ -126,7 +126,7 @@ Python offers several libraries such as Pandas, NumPy, and SciPy for implementin
 #### Example: Rolling Window in Pandas
 
 ```python
-import pandas as pd
+[import](../i/import.md) pandas as pd
 
 # Sample data
 date_range = pd.date_range(start='1/1/2022', periods=100, freq='D')
@@ -150,4 +150,4 @@ data['Rolling Mean'] = data['Price'].rolling(window=5).mean()
 3. [Yahoo Finance](https://finance.yahoo.com/)
 
 ## Conclusion
-Windowing techniques in trading offer powerful ways to analyze data, detect patterns, manage volatility, and enhance [predictive models](../p/predictive_models_in_trading.md). By leveraging these methodologies, traders can make more informed decisions and optimize their [trading strategies](../t/trading_strategies.md).
+Windowing techniques in trading [offer](../o/offer.md) powerful ways to analyze data, detect patterns, manage [volatility](../v/volatility.md), and enhance [predictive models](../p/predictive_models_in_trading.md). By leveraging these methodologies, traders can make more informed decisions and optimize their [trading strategies](../t/trading_strategies.md).

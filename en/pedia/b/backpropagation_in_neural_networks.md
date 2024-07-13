@@ -1,6 +1,6 @@
 # Backpropagation in Neural Networks
 
-Backpropagation, short for "backward propagation of errors," is a fundamental algorithm used for training [artificial neural networks](../a/artificial_neural_networks.md). It is a supervised learning technique used primarily for minimizing the error in predictions by adjusting the weights of neurons based on the error at the output. This method is essential to the training process of deep learning models, particularly multi-layered [neural networks](../n/neural_networks_in_trading.md), such as deep [neural networks](../n/neural_networks_in_trading.md).
+Backpropagation, short for "backward propagation of errors," is a fundamental algorithm used for training [artificial neural networks](../a/artificial_neural_networks.md). It is a supervised learning technique used primarily for minimizing the error in predictions by adjusting the weights of neurons based on the error at the output. This method is essential to the training process of [deep learning](../d/deep_learning.md) models, particularly multi-layered [neural networks](../n/neural_networks_in_trading.md), such as deep [neural networks](../n/neural_networks_in_trading.md).
 
 ## Components of Neural Networks
 
@@ -46,41 +46,41 @@ After obtaining the output and computing the loss, the network needs to learn by
 **Steps in Backpropagation**:
 1. **Calculate the Loss Gradient**: Determine the gradient of the loss function concerning the output of each neuron in the final layer.
 2. **Propagate Gradients**: Using the chain rule, compute the loss gradients for each neuron's weights and biases, layer by layer, moving backward from the output layer to the input layer.
-3. **Weight Updates**: Adjust the weights and biases using the computed gradients. This step typically utilizes optimization algorithms like Gradient Descent.
+3. **Weight Updates**: Adjust the weights and biases using the computed gradients. This step typically utilizes [optimization](../o/optimization.md) algorithms like Gradient Descent.
 
 **Mathematical Details**:
 
 1. Compute the error signal for the output layer:
    \[
-   \delta^{(L)} = \nabla_a L \circ \sigma'(z^{(L)})
+   \[delta](../d/delta.md)^{(L)} = \nabla_a L \circ \sigma'(z^{(L)})
    \]
-   where \( \nabla_a L \) is the gradient of the loss function with respect to the activation, \( \sigma' \) is the derivative of the activation function, and \( \circ \) denotes element-wise multiplication.
+   where \( \nabla_a L \) is the gradient of the loss function with respect to the activation, \( \sigma' \) is the [derivative](../d/derivative.md) of the activation function, and \( \circ \) denotes element-wise multiplication.
 
 2. For each hidden layer \( l \):
    \[
-   \delta^{(l)} = ((W^{(l+1)})^T \delta^{(l+1)}) \circ \sigma'(z^{(l)})
+   \[delta](../d/delta.md)^{(l)} = ((W^{(l+1)})^T \[delta](../d/delta.md)^{(l+1)}) \circ \sigma'(z^{(l)})
    \]
    where \( W^{(l+1)} \) is the weight matrix of the subsequent layer.
 
 3. Update the weights:
    \[
-   \Delta W^{(l)} = \eta \cdot \delta^{(l)} \cdot (a^{(l-1)})^T
+   \[Delta](../d/delta.md) W^{(l)} = \eta \cdot \[delta](../d/delta.md)^{(l)} \cdot (a^{(l-1)})^T
    \]
-   \( \Delta b^{(l)} = \eta \cdot \delta^{(l)} \)
+   \( \[Delta](../d/delta.md) b^{(l)} = \eta \cdot \[delta](../d/delta.md)^{(l)} \)
    where \( \eta \) is the learning rate.
 
 ### Practical Implementation
 
 **Python Example using NumPy**:
 ```python
-import numpy as np
+[import](../i/import.md) numpy as np
 
 # Sigmoid activation function and its derivative
 def sigmoid(z):
-    return 1 / (1 + np.exp(-z))
+    [return](../r/return.md) 1 / (1 + np.exp(-z))
 
 def sigmoid_deriv(z):
-    return sigmoid(z) * (1 - sigmoid(z))
+    [return](../r/return.md) sigmoid(z) * (1 - sigmoid(z))
 
 # Initializing neural network parameters
 input_size = 3
@@ -98,10 +98,10 @@ def forward(X):
     A1 = sigmoid(Z1)
     Z2 = np.dot(W2, A1) + b2
     A2 = sigmoid(Z2)
-    return A2, A1, Z1
+    [return](../r/return.md) A2, A1, Z1
 
 def calculate_loss(y_true, y_pred):
-    return np.mean((y_true - y_pred) ** 2)
+    [return](../r/return.md) np.mean((y_true - y_pred) ** 2)
 
 def backprop(X, y_true, learning_rate=0.01):
     # Forward pass
@@ -152,7 +152,7 @@ print("Updated Loss:", updated_loss)
 
 ### Gradient Descent
 
-Gradient Descent is the most straightforward optimization algorithm used to minimize the loss function by iteratively adjusting weights. There are several variations:
+Gradient Descent is the most straightforward [optimization](../o/optimization.md) algorithm used to minimize the loss function by iteratively adjusting weights. There are several variations:
 
 1. **Batch Gradient Descent**: Uses the entire dataset to compute the gradient and update weights.
 2. **[Stochastic Gradient Descent](../s/stochastic_gradient_descent.md) (SGD)**: Uses a single training example to compute the gradient and update weights.
@@ -160,15 +160,15 @@ Gradient Descent is the most straightforward optimization algorithm used to mini
 
 ### Advanced Optimization Algorithms
 
-1. **Momentum**: Helps accelerate SGD by considering the past gradients to smooth out updates.
+1. **[Momentum](../m/momentum.md)**: Helps accelerate SGD by considering the past gradients to smooth out updates.
 2. **RMSProp**: Adapts the learning rate for each parameter by dividing the gradient by an exponentially decaying average of squared gradients.
-3. **Adam**: Combines ideas from Momentum and RMSProp to adapt the learning rate, often leading to faster convergence.
+3. **Adam**: Combines ideas from [Momentum](../m/momentum.md) and RMSProp to adapt the learning rate, often leading to faster convergence.
 
 ## Applications
 
 Backpropagation, and by extension [neural networks](../n/neural_networks_in_trading.md), have found applications across various domains:
 
-- **Finance**: For [algorithmic trading](../a/algorithmic_trading.md), credit scoring, and fraud detection. Companies like [Two Sigma](https://www.twosigma.com/) and [Jane Street](https://www.janestreet.com/) leverage deep learning in their [trading strategies](../t/trading_strategies.md).
+- **[Finance](../f/finance.md)**: For [algorithmic trading](../a/algorithmic_trading.md), [credit](../c/credit.md) scoring, and [fraud](../f/fraud.md) detection. Companies like [Two Sigma](https://www.twosigma.com/) and [Jane Street](https://www.janestreet.com/) [leverage](../l/leverage.md) [deep learning](../d/deep_learning.md) in their [trading strategies](../t/trading_strategies.md).
 - **Healthcare**: For medical image analysis, genomics, and personalized treatment plans.
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: For machine translation, [sentiment analysis](../s/sentiment_analysis.md), and chatbots.
 - **Computer Vision**: For image and video recognition, self-driving cars, and facial recognition systems. Companies like [DeepMind](https://deepmind.com/) (a subsidiary of Alphabet) and [OpenAI](https://openai.com/) are at the forefront of AI research in these fields.
@@ -179,7 +179,7 @@ Backpropagation, and by extension [neural networks](../n/neural_networks_in_trad
 While backpropagation is a powerful algorithm, training deep [neural networks](../n/neural_networks_in_trading.md) is not without its challenges:
 
 1. **Vanishing/Exploding Gradients**: Gradients can become very small or extremely large when propagating through many layers, making training unstable.
-2. **Overfitting**: The model may perform exceptionally well on training data but poorly on unseen data. Regularization techniques like Dropout can mitigate this.
+2. **[Overfitting](../o/overfitting.md)**: The model may perform exceptionally well on training data but poorly on unseen data. Regularization techniques like Dropout can mitigate this.
 3. **Computation Cost**: Training can be computationally expensive, requiring specialized hardware like GPUs or TPUs.
 
-In summary, backpropagation is a cornerstone technique in the field of deep learning, enabling the training of complex [neural networks](../n/neural_networks_in_trading.md) by systematically minimizing the prediction error. Its effectiveness has catalyzed advancements across numerous fields, driving the success of [artificial intelligence](../a/artificial_intelligence_in_trading.md) applications worldwide.
+In summary, backpropagation is a cornerstone technique in the field of [deep learning](../d/deep_learning.md), enabling the training of complex [neural networks](../n/neural_networks_in_trading.md) by systematically minimizing the prediction error. Its effectiveness has catalyzed advancements across numerous fields, driving the success of [artificial intelligence](../a/artificial_intelligence_in_trading.md) applications worldwide.

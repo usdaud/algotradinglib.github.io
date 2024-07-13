@@ -1,13 +1,13 @@
 # X-Trend Following Models
 
-[Trend following](../t/trend_following.md) is a trading strategy that endeavors to profit from market momentum by identifying and riding along with trends, whether they are upwards or downwards. This strategy is rooted in [technical analysis](../t/technical_analysis.md) and relies heavily on utilizing market indicators and historical price data to make trading decisions. Among the multiplicity of methodologies that fall under [trend following](../t/trend_following.md), several noteworthy models and approaches stand out. These models vary in complexity, from simple moving averages (SMAs) to more sophisticated algorithms like the Moving Average Convergence Divergence (MACD) and beyond. This document will delve into some of the most significant trend-following models employed in [algorithmic trading](../a/algorithmic_trading.md).
+[Trend following](../t/trend_following.md) is a [trading strategy](../t/trading_strategy.md) that endeavors to [profit](../p/profit.md) from [market](../m/market.md) [momentum](../m/momentum.md) by identifying and riding along with trends, whether they are upwards or downwards. This strategy is rooted in [technical analysis](../t/technical_analysis.md) and relies heavily on utilizing [market indicators](../m/market_indicators.md) and historical price data to make trading decisions. Among the multiplicity of methodologies that fall under [trend following](../t/trend_following.md), several noteworthy models and approaches stand out. These models vary in complexity, from simple moving averages (SMAs) to more sophisticated algorithms like the Moving Average Convergence [Divergence](../d/divergence.md) (MACD) and beyond. This document [will](../w/will.md) delve into some of the most significant [trend](../t/trend.md)-following models employed in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Moving Averages (MA)
 
-Moving Averages are one of the most rudimentary and effective tools for identifying trends. They smooth out price action by filtering out the noise from random price fluctuations and generating a single flowing line that represents the average price over a certain period.
+Moving Averages are one of the most rudimentary and effective tools for identifying trends. They smooth out [price action](../p/price_action.md) by filtering out the [noise](../n/noise.md) from random price fluctuations and generating a single flowing line that represents the average price over a certain period.
 
 ### Simple Moving Average (SMA)
-A Simple Moving Average calculates the average of a selected range of prices. For instance, a 50-day SMA takes the closing prices of the last 50 days, sums them up, and divides by 50. The SMA is easy to calculate and helps to identify market trends over various time frames.
+A Simple Moving Average calculates the average of a selected [range](../r/range.md) of prices. For instance, a 50-day SMA takes the closing prices of the last 50 days, sums them up, and divides by 50. The SMA is easy to calculate and helps to identify [market](../m/market.md) trends over various time frames.
 
 - **Calculation**: 
   \[
@@ -26,42 +26,42 @@ Unlike the SMA, the Exponential Moving Average places more weight on recent pric
 
 ## Moving Average Convergence Divergence (MACD)
 
-The MACD is a momentum oscillator that follows the trends and shows the relationship between two moving averages of a security’s price. It is composed mainly of:
+The MACD is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that follows the trends and shows the relationship between two moving averages of a [security](../s/security.md)’s price. It is composed mainly of:
 
 - **MACD Line**: The difference between the 26-day EMA and the 12-day EMA.
 - **Signal Line**: A 9-day EMA of the MACD Line.
-- **Histogram**: The difference between the MACD Line and the Signal Line.
+- **[Histogram](../h/histogram.md)**: The difference between the MACD Line and the Signal Line.
 
 ### Interpretation
 - **MACD Crossover**: When the MACD Line crosses above the Signal Line, it indicates a bullish signal (time to buy), and when it crosses below, it indicates a bearish signal (time to sell).
-- **Histogram**: The height of the histogram bars represents the strength of the trend.
+- **[Histogram](../h/histogram.md)**: The height of the [histogram](../h/histogram.md) bars represents the strength of the [trend](../t/trend.md).
 
 ## Relative Strength Index (RSI)
 
-Though primarily used as a momentum oscillator, the RSI can also be employed as a trend-following indicator. It measures the speed and change of price movements on a scale from 0 to 100.
+Though primarily used as a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md), the RSI can also be employed as a [trend](../t/trend.md)-following [indicator](../i/indicator.md). It measures the speed and change of price movements on a scale from 0 to 100.
 
 ### Formula
 \[
 RSI = 100 - \left(\frac{100}{1 + RS}\right)
 \]
-Where \( RS \) is the relative strength, calculated as the average gain divided by the average loss over a given period.
+Where \( RS \) is the [relative strength](../r/relative_strength.md), calculated as the average [gain](../g/gain.md) divided by the average loss over a given period.
 
 ### Application
-- **Above 70**: The market might be overbought, indicating a possible downtrend.
-- **Below 30**: The market might be oversold, indicating a possible uptrend.
+- **Above 70**: The [market](../m/market.md) might be [overbought](../o/overbought.md), indicating a possible [downtrend](../d/downtrend.md).
+- **Below 30**: The [market](../m/market.md) might be [oversold](../o/oversold.md), indicating a possible [uptrend](../u/uptrend.md).
   
 ## Bollinger Bands
 
-Created by John Bollinger, [Bollinger Bands](../b/bollinger_bands.md) consist of a middle band being an n-period moving average, an upper band with k times n-period standard deviation above the average, and a lower band with k times the n-period standard deviation below the average.
+Created by John Bollinger, [Bollinger Bands](../b/bollinger_bands.md) consist of a middle band being an n-period moving average, an upper band with k times n-period [standard deviation](../s/standard_deviation.md) above the average, and a lower band with k times the n-period [standard deviation](../s/standard_deviation.md) below the average.
 
 ### Components
 - **Middle Band**: 20-day SMA
-- **Upper Band**: 20-day SMA + (2 x 20-day standard deviation)
-- **Lower Band**: 20-day SMA - (2 x 20-day standard deviation)
+- **Upper Band**: 20-day SMA + (2 x 20-day [standard deviation](../s/standard_deviation.md))
+- **Lower Band**: 20-day SMA - (2 x 20-day [standard deviation](../s/standard_deviation.md))
 
 ### Usage
-- **Squeeze**: Indicates a period of low volatility, could signal future breakout opportunities.
-- **Breakouts**: Prices moving outside the bands can signify the start of a trend.
+- **Squeeze**: Indicates a period of low [volatility](../v/volatility.md), could signal future [breakout](../b/breakout.md) opportunities.
+- **Breakouts**: Prices moving outside the bands can signify the start of a [trend](../t/trend.md).
 
 ## Parabolic SAR (Stop and Reverse)
 
@@ -85,7 +85,7 @@ Developed by Richard Donchian, the Donchian Channel uses the highest high and th
 
 ## Ichimoku Cloud
 
-The [Ichimoku Cloud](../i/ichimoku_cloud.md), or Ichimoku Kinko Hyo, provides more data points than the standard candlestick chart. It combines multiple indicators that provide support/resistance levels, trend direction, and momentum.
+The [Ichimoku Cloud](../i/ichimoku_cloud.md), or Ichimoku Kinko Hyo, provides more data points than the standard [candlestick](../c/candlestick.md) chart. It combines [multiple](../m/multiple.md) indicators that provide support/resistance levels, [trend](../t/trend.md) direction, and [momentum](../m/momentum.md).
 
 ### Components
 - **Tenkan-sen**: (9-period high + 9-period low) / 2
@@ -95,8 +95,8 @@ The [Ichimoku Cloud](../i/ichimoku_cloud.md), or Ichimoku Kinko Hyo, provides mo
 - **Chikou Span**: Current close plotted 26 periods back.
 
 ### Interpretation
-- **Cloud Color**: The gap between Senkou Span A and Senkou Span B plotted 26 periods ahead forms the Cloud. The color of the Cloud indicates the trend.
-- **Price Position**: Price above the Cloud signals an uptrend, while below the Cloud signals a downtrend.
+- **Cloud Color**: The gap between Senkou Span A and Senkou Span B plotted 26 periods ahead forms the Cloud. The color of the Cloud indicates the [trend](../t/trend.md).
+- **Price Position**: Price above the Cloud signals an [uptrend](../u/uptrend.md), while below the Cloud signals a [downtrend](../d/downtrend.md).
 
 ## Trading Systems and Tools
 
@@ -106,15 +106,15 @@ Various platforms and tools aid in the implementation of these models within an 
 
 2. **[NinjaTrader](../n/ninjatrader.md)** - Another platform that supports building and executing [algorithmic trading](../a/algorithmic_trading.md) strategies with powerful analysis tools. [NinjaTrader](https://www.ninjatrader.com/)
 
-3. **[QuantConnect](../q/quantconnect.md)** - Provides cloud-based services for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) using multiple programming languages like C#, Python. [QuantConnect](https://www.quantconnect.com/)
+3. **[QuantConnect](../q/quantconnect.md)** - Provides cloud-based services for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) using [multiple](../m/multiple.md) programming languages like C#, Python. [QuantConnect](https://www.quantconnect.com/)
 
-4. **[Interactive Brokers](../i/interactive_brokers.md)** - An electronic trading platform that provides APIs for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com/)
+4. **[Interactive Brokers](../i/interactive_brokers.md)** - An electronic [trading platform](../t/trading_platform.md) that provides APIs for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com/)
 
-5. **[TradeStation](../t/tradestation.md)** - Known for its easy-to-use charting and analysis tools, offering a platform for automating trades. [TradeStation](https://www.tradestation.com/)
+5. **[TradeStation](../t/tradestation.md)** - Known for its easy-to-use charting and analysis tools, [offering](../o/offering.md) a platform for automating trades. [TradeStation](https://www.tradestation.com/)
 
-6. **[AlgoTrader](../a/algotrader.md)** - A professional-grade [algorithmic trading](../a/algorithmic_trading.md) software for hedge funds and [proprietary trading](../p/proprietary_trading.md) groups. [AlgoTrader](https://www.algotrader.com/)
+6. **[AlgoTrader](../a/algotrader.md)** - A professional-grade [algorithmic trading](../a/algorithmic_trading.md) software for [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) groups. [AlgoTrader](https://www.algotrader.com/)
 
 37. **QuantInsti** - An educational platform providing courses and certification in [algorithmic trading](../a/algorithmic_trading.md). [QuantInsti](https://www.quantinsti.com/)
 
-These trend-following models and trading platforms form the backbone of successful algo-[trading strategies](../t/trading_strategies.md). Traders and quants leverage these models to gain insights into market trends, thereby making informed trading decisions that can lead to substantial gains while managing risk effectively.
+These [trend](../t/trend.md)-following models and trading platforms form the backbone of successful algo-[trading strategies](../t/trading_strategies.md). Traders and quants [leverage](../l/leverage.md) these models to [gain](../g/gain.md) insights into [market](../m/market.md) trends, thereby making informed trading decisions that can lead to substantial gains while managing [risk](../r/risk.md) effectively.
 

@@ -1,53 +1,53 @@
 # Stock Option
 
-A stock option is a financial derivative that grants the holder the right, but not the obligation, to buy or sell a specific number of shares of a company's stock at a specific price, known as the exercise or strike price, within a certain period. Stock options are commonly used in both corporate finance and investment strategies, and their valuation and strategic uses can be complex.
+A stock option is a financial [derivative](../d/derivative.md) that grants the holder the right, but not the obligation, to buy or sell a specific number of [shares](../s/shares.md) of a company's stock at a specific price, known as the [exercise](../e/exercise.md) or [strike price](../s/strike_price.md), within a certain period. Stock [options](../o/options.md) are commonly used in both [corporate finance](../c/corporate_finance.md) and investment strategies, and their [valuation](../v/valuation.md) and strategic uses can be complex.
 
 ## Types of Stock Options
 
 ### Call Options
-A call option gives the holder the right to buy shares at the strike price. Investors buy call options when they anticipate that the price of the underlying stock will rise.
+A [call option](../c/call_option.md) gives the holder the right to buy [shares](../s/shares.md) at the [strike price](../s/strike_price.md). Investors buy call [options](../o/options.md) when they anticipate that the price of the [underlying](../u/underlying.md) stock [will](../w/will.md) rise.
 
 ### Put Options
-A put option gives the holder the right to sell shares at the strike price. Investors buy put options when they anticipate that the price of the underlying stock will decrease.
+A [put option](../p/put.md) gives the holder the right to sell [shares](../s/shares.md) at the [strike price](../s/strike_price.md). Investors buy [put options](../p/put_options.md) when they anticipate that the price of the [underlying](../u/underlying.md) stock [will](../w/will.md) decrease.
 
 ## Key Terms and Concepts
 
 ### Strike Price
-The strike price is the fixed price at which the holder of the option can buy (in case of a call option) or sell (in case of a put option) the underlying security.
+The [strike price](../s/strike_price.md) is the fixed price at which the holder of the option can buy (in case of a [call option](../c/call_option.md)) or sell (in case of a [put option](../p/put.md)) the [underlying security](../u/underlying_security.md).
 
 ### Expiry Date
-Options have an expiry date, which is the last date on which the option can be exercised.
+[Options](../o/options.md) have an expiry date, which is the last date on which the option can be exercised.
 
 ### Premium
-The option premium is the price the buyer pays for the option contract itself. It is influenced by various factors including the underlying stock price, volatility, expiry period, and interest rates.
+The [option premium](../o/option_premium.md) is the price the buyer pays for the option contract itself. It is influenced by various factors including the [underlying](../u/underlying.md) stock price, [volatility](../v/volatility.md), expiry period, and [interest](../i/interest.md) rates.
 
 ### In-the-Money (ITM)
-An option is in-the-money if exercising the option would result in a positive payoff. For a call option, this occurs when the underlying stock price is above the strike price. For a put option, this occurs when the underlying stock price is below the strike price.
+An option is in-the-[money](../m/money.md) if exercising the option would result in a positive payoff. For a [call option](../c/call_option.md), this occurs when the [underlying](../u/underlying.md) stock price is above the [strike price](../s/strike_price.md). For a [put option](../p/put.md), this occurs when the [underlying](../u/underlying.md) stock price is below the [strike price](../s/strike_price.md).
 
 ### Out-of-the-Money (OTM)
-An option is out-of-the-money if exercising the option would not result in a positive payoff. For a call option, this occurs when the underlying stock price is below the strike price. For a put option, this occurs when the underlying stock price is above the strike price.
+An option is out-of-the-[money](../m/money.md) if exercising the option would not result in a positive payoff. For a [call option](../c/call_option.md), this occurs when the [underlying](../u/underlying.md) stock price is below the [strike price](../s/strike_price.md). For a [put option](../p/put.md), this occurs when the [underlying](../u/underlying.md) stock price is above the [strike price](../s/strike_price.md).
 
 ### At-the-Money (ATM)
-An option is at-the-money when the underlying stock price is exactly equal to the strike price.
+An option is at-the-[money](../m/money.md) when the [underlying](../u/underlying.md) stock price is exactly equal to the [strike price](../s/strike_price.md).
 
 ## Valuation Models
 
 ### The Black-Scholes Model
-One of the most widely used models for pricing European-style options is the Black-Scholes model. It takes into account factors such as the current stock price, the strike price, time until expiration, volatility, and the risk-free interest rate.
+One of the most widely used models for pricing European-style [options](../o/options.md) is the [Black-Scholes model](../b/black-scholes_model.md). It takes into account factors such as the current stock price, the [strike price](../s/strike_price.md), time until expiration, [volatility](../v/volatility.md), and the [risk](../r/risk.md)-free [interest rate](../i/interest_rate.md).
 
 ### The Binomial Model
-The Binomial Option Pricing Model provides a more flexible framework that is particularly useful for American-style options, which can be exercised at any time before expiration.
+The [Binomial Option Pricing Model](../b/binomial_option_pricing_model.md) provides a more flexible framework that is particularly useful for American-style [options](../o/options.md), which can be exercised at any time before expiration.
 
 ## Strategies Involving Stock Options
 
 ### Covered Calls
-A covered call strategy involves holding the underlying stock and selling a call option on the same stock to generate income from the option premium.
+A [covered call](../c/covered_call.md) strategy involves holding the [underlying](../u/underlying.md) stock and selling a [call option](../c/call_option.md) on the same stock to generate [income](../i/income.md) from the [option premium](../o/option_premium.md).
 
 ### Protective Puts
-A protective put strategy involves holding the underlying stock and buying a put option on the same stock to limit potential losses.
+A [protective put](../p/protective_put.md) strategy involves holding the [underlying](../u/underlying.md) stock and buying a [put option](../p/put.md) on the same stock to limit potential losses.
 
 ### Straddles and Strangles
-Both of these strategies involve buying both a call and a put option on the same stock with the same expiry date. In a straddle, the strike prices are the same, while in a strangle, the strike prices are different.
+Both of these strategies involve buying both a call and a [put option](../p/put.md) on the same stock with the same expiry date. In a [straddle](../s/straddle.md), the strike prices are the same, while in a [strangle](../s/strangle.md), the strike prices are different.
 
 ## Employee Stock Options
 
@@ -65,25 +65,25 @@ NSOs do not qualify for special tax treatments and can be offered to employees, 
 - Hedging against potential stock price declines.
 
 ### Risks
-- Options can expire worthless, leading to a total loss of premium paid.
+- [Options](../o/options.md) can expire worthless, leading to a total loss of [premium](../p/premium.md) paid.
 - Complexity in understanding and executing various strategies.
-- Market risks including volatility and liquidity issues.
+- [Market](../m/market.md) risks including [volatility](../v/volatility.md) and [liquidity](../l/liquidity.md) issues.
 
 ## Regulatory Environment
 
-Stock options are regulated by various financial bodies and are subject to rules and guidelines designed to protect investors. In the United States, the Securities and Exchange Commission (SEC) regulates options trading.
+Stock [options](../o/options.md) are regulated by various financial bodies and are subject to rules and guidelines designed to protect investors. In the United States, the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) regulates [options](../o/options.md) trading.
 
 ## Key Players and Platforms
 
-Several platforms and companies facilitate options trading:
+Several platforms and companies facilitate [options](../o/options.md) trading:
 
-- **Chicago Board Options Exchange (CBOE)**: The largest options exchange in the U.S.
+- **Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE)**: The largest [options](../o/options.md) [exchange](../e/exchange.md) in the U.S.
   - [CBOE](https://www.cboe.com/)
-- **Interactive Brokers**: A popular platform for options trading among individual and institutional traders.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A popular platform for [options](../o/options.md) trading among individual and institutional traders.
   - [Interactive Brokers](https://www.interactivebrokers.com/)
-- **Robinhood**: A commission-free trading app that has gained popularity among retail investors.
+- **[Robinhood](../r/robinhood.md)**: A [commission](../c/commission.md)-free trading app that has gained popularity among retail investors.
   - [Robinhood](https://robinhood.com/)
 
 ## Conclusion
 
-Stock options are versatile and powerful financial instruments that can be used for a variety of purposes, from hedging to speculative investing. While they offer significant opportunities for profit, they also come with a high level of risk, requiring a clear understanding of their mechanics and valuation. By exploring various strategies and utilizing the right tools and platforms, investors and traders can effectively incorporate stock options into their broader financial plans.
+Stock [options](../o/options.md) are versatile and powerful financial instruments that can be used for a variety of purposes, from hedging to speculative [investing](../i/investing.md). While they [offer](../o/offer.md) significant opportunities for [profit](../p/profit.md), they also come with a high level of [risk](../r/risk.md), requiring a clear understanding of their mechanics and [valuation](../v/valuation.md). By exploring various strategies and utilizing the right tools and platforms, investors and traders can effectively incorporate stock [options](../o/options.md) into their broader financial plans.

@@ -1,6 +1,6 @@
 # Feedforward Neural Networks
 
-Feedforward [Neural Networks](../n/neural_networks_in_trading.md) (FNNs) are one of the fundamental architectures in deep learning and are extensively used in various applications, including [algorithmic trading](../a/algorithmic_trading.md). This document aims to provide a comprehensive overview of Feedforward [Neural Networks](../n/neural_networks_in_trading.md) and their application in the domain of [algorithmic trading](../a/algorithmic_trading.md).
+Feedforward [Neural Networks](../n/neural_networks_in_trading.md) (FNNs) are one of the fundamental architectures in [deep learning](../d/deep_learning.md) and are extensively used in various applications, including [algorithmic trading](../a/algorithmic_trading.md). This document aims to provide a comprehensive overview of Feedforward [Neural Networks](../n/neural_networks_in_trading.md) and their application in the domain of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Introduction to Feedforward Neural Networks
 
@@ -32,7 +32,7 @@ The training of FNNs involves:
 
 ### Prediction Models
 
-FNNs can be employed to create prediction models that forecast future stock prices, market trends, or [economic indicators](../e/economic_indicators.md). Historical price data, along with [technical indicators](../t/technical_indicators.md), are fed into the network to predict future price movements.
+FNNs can be employed to create prediction models that forecast future stock prices, [market](../m/market.md) trends, or [economic indicators](../e/economic_indicators.md). Historical price data, along with [technical indicators](../t/technical_indicators.md), are fed into the network to predict future price movements.
 
 ### Pattern Recognition
 
@@ -40,17 +40,17 @@ FNNs can be employed to create prediction models that forecast future stock pric
 
 ### Sentiment Analysis
 
-FNNs can be used to analyze financial news and social media feeds to gauge market sentiment. By processing textual data, algorithms can predict market movements based on positive or negative sentiments.
+FNNs can be used to analyze financial news and [social media](../s/social_media.md) feeds to gauge [market sentiment](../m/market_sentiment.md). By processing textual data, algorithms can predict [market](../m/market.md) movements based on positive or negative sentiments.
 
 ### Portfolio Management
 
-FNNs assist in optimizing the selection of assets in a portfolio to maximize returns and minimize risk. By analyzing historical performance and correlations among assets, the model can suggest an optimal [asset allocation](../a/asset_allocation.md).
+FNNs assist in optimizing the selection of assets in a portfolio to maximize returns and minimize [risk](../r/risk.md). By analyzing historical performance and correlations among assets, the model can suggest an optimal [asset allocation](../a/asset_allocation.md).
 
 ## Challenges and Limitations
 
 ### Overfitting
 
-FNNs, especially with many layers, can overfit the training data, capturing noise instead of underlying patterns. Techniques like dropout, regularization, and cross-validation are crucial to mitigate overfitting.
+FNNs, especially with many layers, can overfit the training data, capturing [noise](../n/noise.md) instead of [underlying](../u/underlying.md) patterns. Techniques like dropout, regularization, and cross-validation are crucial to mitigate [overfitting](../o/overfitting.md).
 
 ### Data Quality and Quantity
 
@@ -58,7 +58,7 @@ Reliable and extensive historical data are critical for training effective model
 
 ### Computational Resources
 
-Training deep [neural networks](../n/neural_networks_in_trading.md) require substantial computational power and memory. This demands robust hardware and efficient algorithms to ensure timely execution of [trading strategies](../t/trading_strategies.md).
+Training deep [neural networks](../n/neural_networks_in_trading.md) require substantial computational power and memory. This demands [robust](../r/robust.md) hardware and efficient algorithms to ensure timely [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md).
 
 ## Implementation and Tools
 
@@ -74,9 +74,9 @@ Several programming languages and frameworks support the implementation of FNNs:
 Below is an example code snippet using Python and Keras to create a simple FNN for predicting stock prices:
 
 ```python
-import numpy as np
-from keras.models import Sequential
-from keras.layers import Dense, Dropout
+[import](../i/import.md) numpy as np
+from keras.models [import](../i/import.md) Sequential
+from keras.layers [import](../i/import.md) Dense, Dropout
 
 # Load dataset (assuming X_train and y_train are the input and output datasets)
 X_train = np.random.rand(1000, 10)  # 1000 samples, 10 features
@@ -103,12 +103,12 @@ print(y_pred)
 
 #### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is known for employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including [neural networks](../n/neural_networks_in_trading.md), to predict market movements and execute trades. More information can be found on their [website](https://www.rentec.com/).
+Renaissance Technologies, founded by Jim Simons, is known for employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including [neural networks](../n/neural_networks_in_trading.md), to predict [market](../m/market.md) movements and execute trades. More information can be found on their [website](https://www.rentec.com/).
 
 #### Two Sigma
 
-Two Sigma is another prominent hedge fund that leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [neural networks](../n/neural_networks_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md). More details are available on their [website](https://www.twosigma.com/).
+Two Sigma is another prominent [hedge fund](../h/hedge_fund.md) that leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [neural networks](../n/neural_networks_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md). More details are available on their [website](https://www.twosigma.com/).
 
 ## Conclusion
 
-Feedforward [Neural Networks](../n/neural_networks_in_trading.md) have demonstrated significant potential in transforming [algorithmic trading](../a/algorithmic_trading.md). Despite challenges like overfitting and computational demands, their ability to model complex relationships in data makes them invaluable tools for traders and financial analysts. As computational power and data availability continue to grow, the application of FNNs across various domains, particularly in [trading strategies](../t/trading_strategies.md), is expected to expand further.
+Feedforward [Neural Networks](../n/neural_networks_in_trading.md) have demonstrated significant potential in transforming [algorithmic trading](../a/algorithmic_trading.md). Despite challenges like [overfitting](../o/overfitting.md) and computational demands, their ability to model complex relationships in data makes them invaluable tools for traders and financial analysts. As computational power and data availability continue to grow, the application of FNNs across various domains, particularly in [trading strategies](../t/trading_strategies.md), is expected to expand further.
