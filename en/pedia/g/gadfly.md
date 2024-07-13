@@ -18,9 +18,9 @@ A **Gadfly** is a person who persistently challenges, criticizes, or provokes ot
 4. **Passion for Change**: Driven by a desire to improve society, institutions, or policies, gadflies are passionate about their causes.
 
 ## Example Scenarios
-1. **Activism**: An activist who continuously challenges government policies on environmental issues, pushing for stricter regulations and greater accountability.
+1. **Activism**: An activist who continuously challenges [government policies](../g/government_policies_in_trading.md) on environmental issues, pushing for stricter regulations and greater accountability.
 2. **Academic**: A professor who questions the established norms in their field of study, encouraging students to think critically and explore alternative viewpoints.
-3. **Journalism**: An investigative journalist who uncovers corruption and injustice, prompting public awareness and demand for change through persistent reporting.
+3. **Journalism**: An investigative journalist who uncovers corruption and injustice, prompting public awareness and [demand](../d/demand.md) for change through persistent reporting.
 
 ## Importance
 1. **Encouraging Debate**: Gadflies play a crucial role in fostering debate and discussion, leading to greater awareness and understanding of important issues.

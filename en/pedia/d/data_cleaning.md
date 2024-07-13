@@ -8,15 +8,15 @@ Data cleaning, also known as data cleansing or data scrubbing, is the process of
 
 ### Key Steps in the Data Cleaning Process
 
-1. **Data Collection**: The first step involves gathering raw data from various sources. This can include historical price data, trade volume data, news data, sentiment data, etc.
+1. **Data Collection**: The first step involves gathering raw data from various sources. This can include historical price data, [trade](../t/trade.md) [volume](../v/volume.md) data, news data, sentiment data, etc.
 
 2. **Data Profiling**: Assess the quality and structure of the collected data. This involves analyzing the data for patterns, anomalies, and variations to understand its basic characteristics.
 
 3. **Error Detection**: Identify errors such as missing values, duplicate entries, and inconsistent data formats. Methods include statistical analysis, [pattern recognition](../p/pattern_recognition.md), and manual inspection.
 
-4. **Data Correction**: Rectify identified errors. This can involve filling in missing values, correcting data types, or reformatting inconsistent entries.
+4. **Data [Correction](../c/correction.md)**: Rectify identified errors. This can involve filling in missing values, correcting data types, or reformatting inconsistent entries.
 
-5. **Validation**: Ensure that the cleaned data is accurate, consistent, and complies with predefined standards. Validation checks may include range checks, constraint checks, and cross-referencing against reliable data sources.
+5. **Validation**: Ensure that the cleaned data is accurate, consistent, and complies with predefined standards. Validation checks may include [range](../r/range.md) checks, constraint checks, and cross-referencing against reliable data sources.
 
 6. **Data Transformation**: Convert data into a suitable format or structure for analysis. This can include normalization, scaling, and encoding.
 
@@ -31,8 +31,8 @@ Data cleaning, also known as data cleansing or data scrubbing, is the process of
 
 In [algorithmic trading](../a/algorithmic_trading.md), the quality of data is paramount. [Trading algorithms](../t/trading_algorithms.md) analyze vast datasets to execute trades based on predefined criteria. Poor quality data can lead to incorrect [trading signals](../t/trading_signals.md), resulting in potential financial losses. The objective is to ensure that the data being fed into [trading algorithms](../t/trading_algorithms.md) is as accurate, reliable, and timely as possible.
 
-1. **Accuracy**: Ensuring that the data accurately reflects the market conditions is crucial for making informed trading decisions.
-2. **Consistency**: Consistent data ensures that the [trading algorithms](../t/trading_algorithms.md) have a reliable base to execute trades, reducing the risk of errors.
+1. **Accuracy**: Ensuring that the data accurately reflects the [market](../m/market.md) conditions is crucial for making informed trading decisions.
+2. **Consistency**: Consistent data ensures that the [trading algorithms](../t/trading_algorithms.md) have a reliable base to execute trades, reducing the [risk](../r/risk.md) of errors.
 3. **Completeness**: Incomplete data can lead to misleading analysis and incorrect [trading signals](../t/trading_signals.md).
 4. **Timeliness**: In fast-paced trading environments, the timeliness of data is crucial. Delays in data can result in missed opportunities or incorrect trades.
 
@@ -41,7 +41,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), the quality of data is pa
 Several tools and techniques are employed to clean data in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **[Software Tools](../s/software_tools_for_trading.md)**: Tools such as Python libraries (Pandas, NumPy), R, SAS, and specialized data cleaning software provide functionalities to detect and correct data issues.
-- **Automated Scripts**: Custom scripts to automate the detection and correction of common data issues.
+- **Automated Scripts**: Custom scripts to automate the detection and [correction](../c/correction.md) of common data issues.
 - **Machine Learning**: Using machine learning models to predict and fill in missing data, detect anomalies, and learn from historical patterns to improve data quality.
 
 ### Companies Specializing in Data Cleaning
@@ -57,7 +57,7 @@ Several tools and techniques are employed to clean data in [algorithmic trading]
 
 ### Techniques in Detail
 
-- **Imputation**: Imputation techniques involve filling in missing data with substitute values. Common methods include using the mean, median, mode, or employing more sophisticated methods like K-nearest neighbors (KNN) imputation or [regression techniques](../r/regression_techniques.md).
+- **Imputation**: Imputation techniques involve filling in missing data with [substitute](../s/substitute.md) values. Common methods include using the mean, [median](../m/median.md), [mode](../m/mode.md), or employing more sophisticated methods like K-nearest neighbors (KNN) imputation or [regression techniques](../r/regression_techniques.md).
   
 - **Normalization**: Normalizing data ensures that values are within a common scale, which is especially important for algorithms sensitive to the scale of input data.
 
@@ -65,7 +65,7 @@ Several tools and techniques are employed to clean data in [algorithmic trading]
 
 - **Data Duplication**: Identifying and removing duplicates can be done using [software tools](../s/software_tools_for_trading.md) or scripts that compare and eliminate redundant entries.
 
-- **Data Transformation**: Aggregation, filtering, and pivoting are typical data transformation operations. Aggregating transaction data to daily summaries, filtering trades within certain time bounds, or pivoting data for feature engineering are common practices.
+- **Data Transformation**: [Aggregation](../a/aggregation.md), filtering, and pivoting are typical data transformation operations. Aggregating [transaction](../t/transaction.md) data to daily summaries, filtering trades within certain time bounds, or pivoting data for feature engineering are common practices.
 
 ## Practical Applications
 
@@ -83,10 +83,10 @@ Data cleaning is integral to feature engineering, the process of creating new in
 
 ### Risk Management
 
-Accurate and consistent data is vital for effective [risk management](../r/risk_management.md) in trading. Clean data ensures that [risk metrics](../r/risk_metrics.md) such as Value at Risk (VaR) and expected shortfall are calculated accurately, helping in managing trading risks appropriately.
+Accurate and consistent data is vital for effective [risk management](../r/risk_management.md) in trading. Clean data ensures that [risk metrics](../r/risk_metrics.md) such as [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) and expected [shortfall](../s/shortfall.md) are calculated accurately, helping in managing trading risks appropriately.
 
 ## Conclusion
 
 Data cleaning is an indispensable process in [algorithmic trading](../a/algorithmic_trading.md), directly influencing the performance and reliability of [trading algorithms](../t/trading_algorithms.md). By ensuring the accuracy, consistency, and completeness of data, traders can make more informed decisions, minimize errors, and maximize their [trading performance](../t/trading_performance.md). Leveraging the right tools and techniques for data cleaning can significantly enhance the robustness and effectiveness of [trading strategies](../t/trading_strategies.md), contributing to better financial outcomes.
 
-LIBINTTLS: As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the importance of robust data cleaning practices will only grow, underlining its critical role in the lifecycle of [trading systems](../t/trading_systems.md).
+LIBINTTLS: As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the importance of [robust](../r/robust.md) data cleaning practices [will](../w/will.md) only grow, underlining its critical role in the lifecycle of [trading systems](../t/trading_systems.md).

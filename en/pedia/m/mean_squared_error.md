@@ -1,6 +1,6 @@
 # Mean Squared Error
 
-Mean Squared Error (MSE) is a standard way to measure the error of a quantitative prediction model. It is widely used in the field of statistics, [signal processing](../s/signal_processing_in_trading.md), [econometrics](../e/econometrics_in_trading.md), machine learning, and many other disciplines. In the context of [algorithmic trading](../a/algorithmic_trading.md), MSE can be an essential tool for evaluating the accuracy of [predictive models](../p/predictive_models_in_trading.md) concerning financial data.
+Mean Squared Error (MSE) is a standard way to measure the error of a quantitative prediction model. It is widely used in the field of [statistics](../s/statistics.md), [signal processing](../s/signal_processing_in_trading.md), [econometrics](../e/econometrics_in_trading.md), machine learning, and many other disciplines. In the context of [algorithmic trading](../a/algorithmic_trading.md), MSE can be an essential tool for evaluating the accuracy of [predictive models](../p/predictive_models_in_trading.md) concerning financial data.
 
 ### Definition
 MSE is defined as the average of the squared differences between predicted and actual values. Mathematically, for a set of observations \((y_1, y_2, ..., y_n)\) and corresponding predictions \((\hat{y}_1, \hat{y}_2, ..., \hat{y}_n)\), the MSE is given by:
@@ -17,14 +17,14 @@ MSE is defined as the average of the squared differences between predicted and a
 ### Importance in Algorithmic Trading
 In [algorithmic trading](../a/algorithmic_trading.md), MSE is crucial for several reasons:
 1. **Model Accuracy**: Lower MSE indicates that the model's predictions are close to the actual data. This is critical for the reliability of [trading strategies](../t/trading_strategies.md).
-2. **[Risk Management](../r/risk_management.md)**: By minimizing prediction errors, traders can manage risk more effectively.
+2. **[Risk Management](../r/risk_management.md)**: By minimizing prediction errors, traders can manage [risk](../r/risk.md) more effectively.
 3. **Parameter Tuning**: MSE is often used to tune model parameters during the development phase.
 
 ### Calculation
 
 #### Step-by-step Process
 1. **Collect Data**: Obtain historical financial data for training the model.
-2. **Generate Predictions**: Use your predictive model to generate an estimated value for each data point.
+2. **Generate Predictions**: Use your predictive model to generate an estimated [value](../v/value.md) for each data point.
 3. **Compute Error**: Calculate the difference between actual and predicted values for each point.
 4. **Square the Errors**: Square each difference to ensure that positive and negative errors do not cancel each other out.
 5. **Average the Squared Errors**: Take the mean of these squared errors to get the MSE.
@@ -58,7 +58,7 @@ Therefore, the MSE for this simple example is 8.
 
 ### Use in Machine Learning
 In machine learning, MSE is commonly used as a loss function for regression models. It is particularly favored because:
-1. **Convexity**: The quadratic nature of the function ensures that it is convex, facilitating easier optimization.
+1. **[Convexity](../c/convexity.md)**: The quadratic nature of the function ensures that it is convex, facilitating easier [optimization](../o/optimization.md).
 2. **Sensitivity**: MSE is sensitive to large errors, penalizing significant deviations more heavily.
 
 ### Comparison with Other Metrics
@@ -80,7 +80,7 @@ Although MSE is a widely-used metric, it is not the only one. Some other common 
    \[
    R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} (y_i - \bar{y})^2}
    \]
-   \(R^2\) provides an indication of how well the variability of the actual data is captured by the model.
+   \(R^2\) provides an indication of how well the [variability](../v/variability.md) of the actual data is captured by the model.
 
 ### Limitations
 While useful, MSE has its limitations:
@@ -94,10 +94,10 @@ To overcome these limitations, variations such as the Mean Absolute Percentage E
 Let's dive deeper into the applications and implications of MSE in [algorithmic trading](../a/algorithmic_trading.md).
 
 #### Scenario: Predicting Stock Prices
-Suppose we develop a machine learning model to predict the future prices of a particular stock. We train the model using historical data and then use it to make predictions. MSE will help us evaluate how well our model has generalized to unseen data. A lower MSE would imply that our model is making more accurate predictions.
+Suppose we develop a machine learning model to predict the future prices of a particular stock. We train the model using historical data and then use it to make predictions. MSE [will](../w/will.md) help us evaluate how well our model has generalized to unseen data. A lower MSE would imply that our model is making more accurate predictions.
 
 #### Scenario: Portfolio Optimization
-In [portfolio management](../p/portfolio_management.md), we might use MSE to evaluate the performance of our [asset allocation](../a/asset_allocation.md) strategies. By predicting the returns of different asset classes and minimizing the MSE, we can potentially reduce the risks associated with our investment portfolio.
+In [portfolio management](../p/portfolio_management.md), we might use MSE to evaluate the performance of our [asset allocation](../a/asset_allocation.md) strategies. By predicting the returns of different [asset](../a/asset.md) classes and minimizing the MSE, we can potentially reduce the risks associated with our investment portfolio.
 
 ### Companies and Tools
 Several companies and tools provide solutions that automatically compute MSE for models:

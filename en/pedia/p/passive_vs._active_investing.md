@@ -2,112 +2,112 @@
 
 ## Introduction
 
-In the realm of finance, investing takes many forms, each with its methodologies, advantages, and challenges. Two primary strategies dominate the landscape: passive and active investing. These strategies differ significantly in their approaches, goals, and management styles. By understanding the intricacies of both, investors can make informed decisions aligning with their financial objectives and risk tolerance.
+In the realm of [finance](../f/finance.md), [investing](../i/investing.md) takes many forms, each with its methodologies, advantages, and challenges. Two primary strategies dominate the landscape: passive and active [investing](../i/investing.md). These strategies differ significantly in their approaches, goals, and management styles. By understanding the intricacies of both, investors can make informed decisions aligning with their financial objectives and [risk tolerance](../r/risk_tolerance.md).
 
 ## Passive Investing
 
 ### Definition and Overview
 
-Passive investing is an investment strategy that aims to maximize returns over the long run by minimizing buying and selling actions. This strategy is typically implemented by owning a representative collection of securities or tracking specific indexes, such as the S&P 500. The goal is to replicate the performance of the market or a segment of the market, rather than trying to outperform it.
+[Passive investing](../p/passive_investing.md) is an [investment strategy](../i/investment_strategy.md) that aims to maximize returns over the [long run](../l/long_run.md) by minimizing buying and selling actions. This strategy is typically implemented by owning a representative collection of securities or tracking specific indexes, such as the S&P 500. The goal is to replicate the performance of the [market](../m/market.md) or a segment of the [market](../m/market.md), rather than trying to [outperform](../o/outperform.md) it.
 
 ### Key Characteristics
 
-1. **Low Costs**: Passive investments typically have lower fees and expenses since they require minimal transaction activity. There are fewer management fees and [trading costs](../t/trading_costs.md), making it cost-effective over time.
+1. **Low Costs**: Passive investments typically have lower fees and expenses since they require minimal [transaction](../t/transaction.md) activity. There are fewer management fees and [trading costs](../t/trading_costs.md), making it cost-effective over time.
 
-2. **Diversification**: Passive investors often use index funds or ETFs, which inherently diversify risk across a wide array of assets. Diversification reduces the impact of any single security's poor performance on the overall portfolio.
+2. **[Diversification](../d/diversification.md)**: Passive investors often use [index](../i/index.md) funds or ETFs, which inherently diversify [risk](../r/risk.md) across a wide array of assets. [Diversification](../d/diversification.md) reduces the impact of any single [security](../s/security.md)'s poor performance on the overall portfolio.
 
-3. **Predictable Returns**: Since passive investing aims to mirror the performance of an index, investors can expect returns that are relatively predictable and in line with the market.
+3. **Predictable Returns**: Since [passive investing](../p/passive_investing.md) aims to mirror the performance of an [index](../i/index.md), investors can expect returns that are relatively predictable and in line with the [market](../m/market.md).
 
-4. **Long-Term Focus**: This strategy is designed for long-term growth, capitalizing on the general upward trend of markets over time, despite short-term fluctuations.
+4. **Long-Term Focus**: This strategy is designed for long-term growth, capitalizing on the general upward [trend](../t/trend.md) of markets over time, despite short-term fluctuations.
 
-5. **Lower Tax Implications**: Due to fewer transactions, passive investing can lead to lower capital gains taxes compared to the frequent buying and selling in active strategies.
+5. **Lower Tax Implications**: Due to fewer transactions, [passive investing](../p/passive_investing.md) can lead to lower [capital](../c/capital.md) gains [taxes](../t/taxes.md) compared to the frequent buying and selling in active strategies.
 
 ### Implementation
 
 #### Index Funds
 
-Index funds are mutual funds or ETFs designed to track the performance of a specific index. They are managed passively by purchasing the same securities in the same proportions as the index they follow. 
+[Index](../i/index.md) funds are mutual funds or ETFs designed to track the performance of a specific [index](../i/index.md). They are managed passively by purchasing the same securities in the same proportions as the [index](../i/index.md) they follow. 
 
-- **Vanguard 500 Index Fund (https://investor.vanguard.com/mutual-funds/profile/VFINX)**: It tracks the S&P 500 index and is one of the most popular options among passive investors.
+- **Vanguard 500 [Index Fund](../i/index_fund.md) (https://[investor](../i/investor.md).vanguard.com/mutual-funds/profile/VFINX)**: It tracks the S&P 500 [index](../i/index.md) and is one of the most popular [options](../o/options.md) among passive investors.
 
 #### Exchange-Traded Funds (ETFs)
 
-ETFs operate similarly to index funds but trade on an exchange like a stock. They offer flexibility, liquidity, and lower expense ratios.
+ETFs operate similarly to [index](../i/index.md) funds but [trade](../t/trade.md) on an [exchange](../e/exchange.md) like a stock. They [offer](../o/offer.md) flexibility, [liquidity](../l/liquidity.md), and lower [expense](../e/expense.md) ratios.
 
-- **SPDR S&P 500 ETF Trust (SPY) (https://www.ssga.com/us/en/institutional/etfs/funds/spdr-sp-500-etf-trust-spy)**: It is designed to provide investment results that correspond to the price and yield performance of the S&P 500 Index.
+- **SPDR S&P 500 ETF [Trust](../t/trust.md) (SPY) (https://www.ssga.com/us/en/institutional/etfs/funds/spdr-sp-500-etf-[trust](../t/trust.md)-spy)**: It is designed to provide investment results that correspond to the price and [yield](../y/yield.md) performance of the S&P 500 [Index](../i/index.md).
 
 ### Advantages
 
-- **Cost Efficiency**: Lower fees and expenses lead to higher net returns.
+- **Cost [Efficiency](../e/efficiency.md)**: Lower fees and expenses lead to higher net returns.
 - **Simplicity and Accessibility**: Easier for average investors to understand and manage.
-- **Reduced Risk**: Broad diversification mitigates individual security risk.
+- **Reduced [Risk](../r/risk.md)**: Broad [diversification](../d/diversification.md) mitigates individual [security](../s/security.md) [risk](../r/risk.md).
 
 ### Disadvantages
 
-- **Market-bound Returns**: Investors are limited to market returns without the potential for outperforming the market.
-- **Lack of Flexibility**: Passive strategies may not adapt quickly to market changes or opportunities.
+- **[Market](../m/market.md)-bound Returns**: Investors are limited to [market](../m/market.md) returns without the potential for outperforming the [market](../m/market.md).
+- **Lack of Flexibility**: Passive strategies may not adapt quickly to [market](../m/market.md) changes or opportunities.
 
 ## Active Investing
 
 ### Definition and Overview
 
-Active investing involves continuously monitoring and managing a portfolio to outperform the market or achieve specific investment goals. This strategy relies on research, [market forecasting](../m/market_forecasting.md), and timing to make frequent buy and sell decisions.
+Active [investing](../i/investing.md) involves continuously monitoring and managing a portfolio to [outperform](../o/outperform.md) the [market](../m/market.md) or achieve specific investment goals. This strategy relies on research, [market forecasting](../m/market_forecasting.md), and timing to make frequent buy and sell decisions.
 
 ### Key Characteristics
 
-1. **Higher Costs**: Active investing generally incurs higher fees due to increased trading activity and management fees for professional advice.
+1. **Higher Costs**: Active [investing](../i/investing.md) generally incurs higher fees due to increased trading activity and management fees for professional advice.
 
-2. **Potential for Higher Returns**: By identifying and acting on market inefficiencies, skilled investors can potentially achieve returns that exceed the market average.
+2. **Potential for Higher Returns**: By identifying and acting on [market](../m/market.md) inefficiencies, skilled investors can potentially achieve returns that exceed the [market](../m/market.md) average.
 
-3. **Flexibility**: Active managers can quickly adjust holdings in response to market conditions, economic changes, or emerging opportunities.
+3. **Flexibility**: Active managers can quickly adjust [holdings](../h/holdings.md) in response to [market](../m/market.md) conditions, economic changes, or emerging opportunities.
 
-4. **Research-Driven**: Extensive research, analysis, and [market forecasting](../m/market_forecasting.md) are central to active investing.
+4. **Research-Driven**: Extensive research, analysis, and [market forecasting](../m/market_forecasting.md) are central to active [investing](../i/investing.md).
 
-5. **Higher Tax Implications**: Increased trading activity often results in higher capital gains taxes and potential short-term gains, which are taxed at a higher rate.
+5. **Higher Tax Implications**: Increased trading activity often results in higher [capital](../c/capital.md) gains [taxes](../t/taxes.md) and potential short-term gains, which are taxed at a higher rate.
 
 ### Implementation
 
 #### Mutual Funds and Hedge Funds
 
-Active mutual funds have managers who actively select securities to buy and sell in pursuit of beating the market. Hedge funds often use more aggressive strategies and leverage.
+Active mutual funds have managers who actively select securities to buy and sell in pursuit of beating the [market](../m/market.md). [Hedge](../h/hedge.md) funds often use more aggressive strategies and [leverage](../l/leverage.md).
 
-- **Fidelity Contrafund (https://fundresearch.fidelity.com/mutual-funds/summary/316071109)**: Managed by Fidelity, this fund seeks capital appreciation by investing in companies that exhibit strong growth potential.
+- **Fidelity Contrafund (https://fundresearch.fidelity.com/mutual-funds/summary/316071109)**: Managed by Fidelity, this [fund](../f/fund.md) seeks [capital](../c/capital.md) appreciation by [investing](../i/investing.md) in companies that exhibit strong growth potential.
 
 #### Stock Picking and Market Timing
 
-Individual investors or portfolio managers may employ strategies such as stock picking (selecting individual stocks expected to perform well) or [market timing](../m/market_timing.md) (trying to buy low and sell high).
+Individual investors or portfolio managers may employ strategies such as stock picking (selecting individual [stocks](../s/stock.md) expected to perform well) or [market timing](../m/market_timing.md) (trying to buy low and sell high).
 
 ### Advantages
 
-- **Potential for Superior Returns**: With the right strategy and execution, active investing can significantly outperform the market.
-- **Tailored Strategies**: Active investing can be customized to an investor’s specific goals, risk tolerance, and changing market conditions.
-- **Flexibility and Control**: Active managers can quickly respond to market developments and exploit short-term opportunities.
+- **Potential for Superior Returns**: With the right strategy and [execution](../e/execution.md), active [investing](../i/investing.md) can significantly [outperform](../o/outperform.md) the [market](../m/market.md).
+- **Tailored Strategies**: Active [investing](../i/investing.md) can be customized to an [investor](../i/investor.md)’s specific goals, [risk tolerance](../r/risk_tolerance.md), and changing [market](../m/market.md) conditions.
+- **Flexibility and Control**: Active managers can quickly respond to [market](../m/market.md) developments and exploit short-term opportunities.
 
 ### Disadvantages
 
-- **Higher Costs**: Management fees, transaction costs, and research expenses can eat into profits.
-- **Higher Risks**: Attempting to beat the market introduces the risk of underperformance, especially if market predictions are incorrect.
-- **Complexity and Time-Consuming**: Active investing requires continuous research, monitoring, and decision-making, which can be demanding.
+- **Higher Costs**: Management fees, [transaction costs](../t/transaction_costs.md), and research expenses can eat into profits.
+- **Higher Risks**: Attempting to beat the [market](../m/market.md) introduces the [risk](../r/risk.md) of underperformance, especially if [market](../m/market.md) predictions are incorrect.
+- **Complexity and Time-Consuming**: Active [investing](../i/investing.md) requires continuous research, monitoring, and decision-making, which can be demanding.
 
 ## Comparative Analysis
 
 ### Cost Comparison
 
-Passive investing often has a substantial cost advantage over active investing due to lower management fees and transaction costs. Over the long term, these cost savings can have a significant impact on net returns.
+[Passive investing](../p/passive_investing.md) often has a substantial cost advantage over active [investing](../i/investing.md) due to lower management fees and [transaction costs](../t/transaction_costs.md). Over the long term, these cost savings can have a significant impact on net returns.
 
 ### Performance Comparison
 
-While active investing has the potential for higher returns, it also carries the risk of underperformance. Historical data suggests that most active managers do not consistently outperform their benchmarks after accounting for fees and expenses.
+While active [investing](../i/investing.md) has the potential for higher returns, it also carries the [risk](../r/risk.md) of underperformance. Historical data suggests that most active managers do not consistently [outperform](../o/outperform.md) their benchmarks after [accounting](../a/accounting.md) for fees and expenses.
 
 ### Risk Management
 
-Passive investing distributes risk across a broad index, reducing exposure to individual security performance. Active investing, while having the potential for high returns, can also concentrate risk in particular assets or strategies.
+[Passive investing](../p/passive_investing.md) distributes [risk](../r/risk.md) across a broad [index](../i/index.md), reducing exposure to individual [security](../s/security.md) performance. Active [investing](../i/investing.md), while having the potential for high returns, can also concentrate [risk](../r/risk.md) in particular assets or strategies.
 
 ### Investor Suitability
 
-- **Passive Investing**: Ideal for investors seeking a low-cost, low-maintenance method with predictable market-aligned returns. Suitable for long-term goals like retirement savings.
-- **Active Investing**: Suited for investors willing to take higher risks for the potential of higher returns and who have the resources or expertise to engage in [active portfolio management](../a/active_portfolio_management.md).
+- **[Passive Investing](../p/passive_investing.md)**: Ideal for investors seeking a low-cost, low-maintenance method with predictable [market](../m/market.md)-aligned returns. Suitable for long-term goals like retirement savings.
+- **Active [Investing](../i/investing.md)**: Suited for investors willing to take higher risks for the potential of higher returns and who have the resources or expertise to engage in [active portfolio management](../a/active_portfolio_management.md).
 
 ## Conclusion
 
-Both passive and active investing strategies offer unique benefits and drawbacks. Passive investing stands out for its cost efficiency, simplicity, and reliability over the long term. Active investing, meanwhile, offers the potential for outperformance and greater flexibility but comes with higher costs and risks. Investors should weigh these factors based on their individual financial goals, risk tolerance, and resources before committing to a particular strategy.
+Both passive and active [investing](../i/investing.md) strategies [offer](../o/offer.md) unique benefits and drawbacks. [Passive investing](../p/passive_investing.md) stands out for its cost [efficiency](../e/efficiency.md), simplicity, and reliability over the long term. Active [investing](../i/investing.md), meanwhile, offers the potential for outperformance and greater flexibility but comes with higher costs and risks. Investors should weigh these factors based on their individual financial goals, [risk tolerance](../r/risk_tolerance.md), and resources before committing to a particular strategy.

@@ -81,13 +81,13 @@ Semantic elements provide meaning to the web page's structure:
 
 ## Attributes in HTML
 
-Attributes provide additional information about HTML elements. They are usually placed within the opening tag and have a name-value structure. Here's an example:
+Attributes provide additional information about HTML elements. They are usually placed within the opening tag and have a name-[value](../v/value.md) structure. Here's an example:
 
 ```html
 <a href="https://www.example.com" target="_blank">Visit Example</a>
 ```
 
-In this case, `href` specifies the URL of the link, and `target` defines where to open the linked document.
+In this case, `href` specifies the URL of the link, and `target` defines where to [open](../o/open.md) the linked document.
 
 ## Advanced HTML Topics
 
@@ -96,11 +96,11 @@ In this case, `href` specifies the URL of the link, and `target` defines where t
 HTML5 introduced several new elements and APIs, aimed at modernizing web development.
 
 - **New Semantic Elements:** `<article>`, `<aside>`, `<figure>`, `<figcaption>`, `<footer>`, `<header>`, `<main>`, `<mark>`, `<nav>`, `<section>`, `<time>`.
-- **Forms:** New input types like `email`, `url`, `number`, `range`, `date`, etc, enhancing user input validation.
+- **Forms:** New input types like `email`, `url`, `number`, `[range](../r/range.md)`, `date`, etc, enhancing user input validation.
 - **Graphics:** The `<canvas>` element and Scalable Vector Graphics (SVG) for drawing.
 - **Multimedia:** `<audio>` and `<video>` elements for integrating multimedia.
 - **Web Storage:** APIs like localStorage and sessionStorage for storing data on the client-side.
-- **Geolocation API:** To get the geographical position of the user.
+- **[Geolocation](../g/geolocation.md) API:** To get the geographical position of the user.
 - **Drag and Drop API:** For enhanced user interactivity.
 
 ### Responsive Web Design
@@ -173,7 +173,7 @@ Modern frameworks enhance HTML capabilities by enabling the creation of dynamic 
 - **React:** Uses JSX, a syntax extension that mixes HTML with JavaScript.
 ```jsx
 function App() {
-    return (
+    [return](../r/return.md) (
         <div>
             <h1>Hello, World!</h1>
             <p>This is a React component.</p>
@@ -196,9 +196,9 @@ function App() {
 </template>
 
 <script>
-export default {
+[export](../e/export.md) [default](../d/default.md) {
   data() {
-    return {
+    [return](../r/return.md) {
       title: 'Hello, World!'
     }
   }

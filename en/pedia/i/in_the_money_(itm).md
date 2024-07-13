@@ -1,82 +1,82 @@
 # In the Money (ITM)
 
-In the financial markets, "In the Money" (ITM) is a term used to describe an option contract that currently possesses intrinsic value. An option is a financial derivative that provides the holder the right, but not the obligation, to buy or sell an underlying asset at a specified strike price before or on an expiration date. ITM options are significant because they indicate that executing the option would currently be profitable for the holder, as opposed to "At the Money" (ATM) or "Out of the Money" (OTM) options.
+In the [financial markets](../f/financial_market.md), "In the [Money](../m/money.md)" (ITM) is a term used to describe an option contract that currently possesses [intrinsic value](../i/intrinsic_value.md). An option is a financial [derivative](../d/derivative.md) that provides the holder the right, but not the obligation, to buy or sell an [underlying asset](../u/underlying_asset.md) at a specified [strike price](../s/strike_price.md) before or on an [expiration date](../e/expiration_date.md). ITM [options](../o/options.md) are significant because they indicate that executing the option would currently be profitable for the holder, as opposed to "[At the Money](../a/at_the_money.md)" (ATM) or "Out of the [Money](../m/money.md)" (OTM) [options](../o/options.md).
 
 ## Understanding In the Money
 
 ### Call Options
 
-A call option gives the holder the right to buy an asset at a specified strike price. A call option is considered ITM when the underlying asset’s current market price is higher than the option's strike price. For instance, if you hold a call option with a strike price of $50, and the underlying stock is trading at $60, your option is $10 ITM because you could theoretically buy the stock at the lower strike price and sell it at the current higher market price.
+A [call option](../c/call_option.md) gives the holder the right to buy an [asset](../a/asset.md) at a specified [strike price](../s/strike_price.md). A [call option](../c/call_option.md) is considered ITM when the [underlying asset](../u/underlying_asset.md)’s current [market price](../m/market_price.md) is higher than the option's [strike price](../s/strike_price.md). For instance, if you [hold](../h/hold.md) a [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $50, and the [underlying](../u/underlying.md) stock is trading at $60, your option is $10 ITM because you could theoretically buy the stock at the lower [strike price](../s/strike_price.md) and sell it at the current higher [market price](../m/market_price.md).
 
 ### Put Options
 
-A put option gives the holder the right to sell an asset at a specified strike price. A put option is deemed ITM when the underlying asset’s current market price is lower than the option's strike price. For example, if you hold a put option with a strike price of $50, and the underlying stock is trading at $40, your option is $10 ITM since you could sell the stock at the higher strike price while it trades lower in the market.
+A [put option](../p/put.md) gives the holder the right to sell an [asset](../a/asset.md) at a specified [strike price](../s/strike_price.md). A [put option](../p/put.md) is deemed ITM when the [underlying asset](../u/underlying_asset.md)’s current [market price](../m/market_price.md) is lower than the option's [strike price](../s/strike_price.md). For example, if you [hold](../h/hold.md) a [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $50, and the [underlying](../u/underlying.md) stock is trading at $40, your option is $10 ITM since you could sell the stock at the higher [strike price](../s/strike_price.md) while it trades lower in the [market](../m/market.md).
 
 ## Importance of ITM Options
 
 ### Intrinsic Value and Time Value
 
-An option's price is composed of intrinsic value and time value. ITM options have intrinsic value: 
-- The intrinsic value for a call option is the amount by which the underlying price exceeds the strike price.
-- The intrinsic value for a put option is the amount by which the strike price exceeds the underlying price.
+An option's price is composed of [intrinsic value](../i/intrinsic_value.md) and [time value](../t/time_value.md). ITM [options](../o/options.md) have [intrinsic value](../i/intrinsic_value.md): 
+- The [intrinsic value](../i/intrinsic_value.md) for a [call option](../c/call_option.md) is the amount by which the [underlying](../u/underlying.md) price exceeds the [strike price](../s/strike_price.md).
+- The [intrinsic value](../i/intrinsic_value.md) for a [put option](../p/put.md) is the amount by which the [strike price](../s/strike_price.md) exceeds the [underlying](../u/underlying.md) price.
 
-The time value is the additional premium representing the possibility that the option could gain more profitability before expiration. ITM options typically have higher premiums due to their intrinsic value.
+The [time value](../t/time_value.md) is the additional [premium](../p/premium.md) representing the possibility that the option could [gain](../g/gain.md) more profitability before expiration. ITM [options](../o/options.md) typically have higher premiums due to their [intrinsic value](../i/intrinsic_value.md).
 
 ### Profit Potential
 
-ITM options are crucial for traders because they represent opportunities for profit. Investors interested in understanding their option positions' profitability closely follow whether their options are ITM. 
+ITM [options](../o/options.md) are crucial for traders because they represent opportunities for [profit](../p/profit.md). Investors interested in understanding their option positions' profitability closely follow whether their [options](../o/options.md) are ITM. 
 
 ### Reduced Time Decay
 
-Options face time decay, meaning their value erodes as the expiration date nears. ITM options have less time decay effect compared to ATM or OTM options, which means they lose value more slowly over time, offering a more stable investment.
+[Options](../o/options.md) face [time decay](../t/time_decay.md), meaning their [value](../v/value.md) erodes as the [expiration date](../e/expiration_date.md) nears. ITM [options](../o/options.md) have less [time decay](../t/time_decay.md) effect compared to ATM or OTM [options](../o/options.md), which means they lose [value](../v/value.md) more slowly over time, [offering](../o/offering.md) a more stable investment.
 
 ## Strategies Involving ITM Options
 
 ### Covered Call Writing
 
-In covered call writing, an investor holds a long position in an asset and writes call options on that same asset to generate income through premiums. Writing ITM calls can be more conservative, providing some downside protection and allowing investors to capitalize on premiums while still retaining some potential for profit if the price rises somewhat above the strike price.
+In [covered call writing](../c/covered_call_writing.md), an [investor](../i/investor.md) holds a long position in an [asset](../a/asset.md) and writes call [options](../o/options.md) on that same [asset](../a/asset.md) to generate [income](../i/income.md) through premiums. Writing ITM calls can be more conservative, providing some downside protection and allowing investors to [capitalize](../c/capitalize.md) on premiums while still retaining some potential for [profit](../p/profit.md) if the price rises somewhat above the [strike price](../s/strike_price.md).
 
 ### Protective Puts
 
-In a protective put strategy, an investor holds a long position in an underlying asset and buys put options to guard against downside risks. ITM puts give robust protection because they will be more valuable as the asset price falls, making the strategy a form of insurance for the investment.
+In a [protective put](../p/protective_put.md) strategy, an [investor](../i/investor.md) holds a long position in an [underlying asset](../u/underlying_asset.md) and buys [put options](../p/put_options.md) to guard against downside risks. ITM puts give [robust](../r/robust.md) protection because they [will](../w/will.md) be more valuable as the [asset](../a/asset.md) price falls, making the strategy a form of [insurance](../i/insurance.md) for the investment.
 
 ### Bull Call Spread
 
-A bull call spread involves buying a call option at a lower strike price (ITM) and selling another call option at a higher strike price. This strategy aims to limit the upfront cost by potentially reducing the maximum profit to cap the returns but still benefits from the intrinsic value of the ITM call.
+A [bull call spread](../b/bull_call_spread.md) involves buying a [call option](../c/call_option.md) at a lower [strike price](../s/strike_price.md) (ITM) and selling another [call option](../c/call_option.md) at a higher [strike price](../s/strike_price.md). This strategy aims to limit the upfront cost by potentially reducing the maximum [profit](../p/profit.md) to cap the returns but still benefits from the [intrinsic value](../i/intrinsic_value.md) of the ITM call.
 
 ## ITM and Risk Management
 
 ### Lower Risk than OTM Options
 
-ITM options naturally have intrinsic value, making them less risky than OTM options which could expire worthless if the strike price is not met by expiration. 
+ITM [options](../o/options.md) naturally have [intrinsic value](../i/intrinsic_value.md), making them less risky than OTM [options](../o/options.md) which could expire worthless if the [strike price](../s/strike_price.md) is not met by expiration. 
 
 ### Utilization in Hedging
 
-Traders and fund managers use ITM options as hedging instruments to mitigate risks within their portfolios. For example, purchasing ITM put options on holdings can offset losses in market downturns.
+Traders and [fund](../f/fund.md) managers use ITM [options](../o/options.md) as hedging instruments to mitigate risks within their portfolios. For example, purchasing ITM [put options](../p/put_options.md) on [holdings](../h/holdings.md) can [offset](../o/offset.md) losses in [market](../m/market.md) downturns.
 
 ## Real-World Usage and Examples
 
 ### Institutional Trading
 
-Institutional investors and hedge funds often leverage ITM options for various sophisticated trading strategies, including hedging, speculation, and income generation. For more detailed insights into institutional practices, visit [Goldman Sachs](https://www.goldmansachs.com/).
+Institutional investors and [hedge](../h/hedge.md) funds often [leverage](../l/leverage.md) ITM [options](../o/options.md) for various sophisticated [trading strategies](../t/trading_strategies.md), including hedging, [speculation](../s/speculation.md), and [income](../i/income.md) generation. For more detailed insights into institutional practices, visit [Goldman Sachs](https://www.goldmansachs.com/).
 
 ### Retail Investors
 
-Retail investors utilize ITM options in their trading strategies by directly engaging with brokerage platforms such as [Interactive Brokers](https://www.interactivebrokers.com/) to execute trades that align with their financial goals and risk tolerances.
+Retail investors utilize ITM [options](../o/options.md) in their [trading strategies](../t/trading_strategies.md) by directly engaging with brokerage platforms such as [Interactive Brokers](https://www.interactivebrokers.com/) to execute trades that align with their financial goals and [risk](../r/risk.md) tolerances.
 
 ## Advanced Considerations
 
 ### Greek Analytics
 
-To evaluate ITM options, traders often use Greek metrics:
-- Delta: measures the rate of change in the option's price concerning the underlying asset's price. ITM options have higher delta values.
-- Theta: gauges the rate of time decay in the option's price. ITM options have lower theta impacts, meaning their value decays slower over time.
-- Vega: indicates the sensitivity of the option's price to volatility changes. ITM options can be more resilient to volatility fluctuations in the underlying asset compared to OTM options.
+To evaluate ITM [options](../o/options.md), traders often use Greek metrics:
+- [Delta](../d/delta.md): measures the rate of change in the option's price concerning the [underlying asset](../u/underlying_asset.md)'s price. ITM [options](../o/options.md) have higher [delta](../d/delta.md) values.
+- [Theta](../t/theta.md): gauges the rate of [time decay](../t/time_decay.md) in the option's price. ITM [options](../o/options.md) have lower [theta](../t/theta.md) impacts, meaning their [value](../v/value.md) decays slower over time.
+- [Vega](../v/vega.md): indicates the sensitivity of the option's price to [volatility](../v/volatility.md) changes. ITM [options](../o/options.md) can be more resilient to [volatility](../v/volatility.md) fluctuations in the [underlying asset](../u/underlying_asset.md) compared to OTM [options](../o/options.md).
 
 ### Implied Volatility
 
-Implied volatility reflects market expectations of the underlying asset’s volatility; ITM options possess an inherent value less sensitive to volatility spikes compared to OTM options. 
+Implied [volatility](../v/volatility.md) reflects [market](../m/market.md) expectations of the [underlying asset](../u/underlying_asset.md)’s [volatility](../v/volatility.md); ITM [options](../o/options.md) possess an inherent [value](../v/value.md) less sensitive to [volatility](../v/volatility.md) spikes compared to OTM [options](../o/options.md). 
 
 ## Conclusion
 
-In the Money (ITM) options play a vital role in the financial markets for investors and traders, offering intrinsic value and profit opportunities. Their stability, reduced time decay, and utility in various trading strategies make them essential components in risk management and investment planning. Understanding and effectively leveraging ITM options can significantly enhance trading outcomes and portfolio performance.
+In the [Money](../m/money.md) (ITM) [options](../o/options.md) play a vital role in the [financial markets](../f/financial_market.md) for investors and traders, [offering](../o/offering.md) [intrinsic value](../i/intrinsic_value.md) and [profit](../p/profit.md) opportunities. Their stability, reduced [time decay](../t/time_decay.md), and [utility](../u/utility.md) in various [trading strategies](../t/trading_strategies.md) make them essential components in [risk management](../r/risk_management.md) and investment planning. Understanding and effectively leveraging ITM [options](../o/options.md) can significantly enhance trading outcomes and [portfolio performance](../p/portfolio_performance.md).

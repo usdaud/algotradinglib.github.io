@@ -2,113 +2,113 @@
 
 ### Introduction
 
-Global [asset allocation](../a/asset_allocation.md) involves the practice of distributing investments across various asset classes and geographic regions to optimize returns while minimizing risk. 
+Global [asset allocation](../a/asset_allocation.md) involves the practice of distributing investments across various [asset](../a/asset.md) classes and geographic regions to optimize returns while minimizing [risk](../r/risk.md). 
 
 ### Core Concepts and Definitions
 
 #### Asset Allocation
 
-[Asset allocation](../a/asset_allocation.md) is the process of deciding how to distribute an investment portfolio across different asset categories, such as equities, bonds, real estate, and cash. Each asset class has different risk and return characteristics.
+[Asset allocation](../a/asset_allocation.md) is the process of deciding how to distribute an investment portfolio across different [asset](../a/asset.md) categories, such as equities, bonds, [real estate](../r/real_estate.md), and cash. Each [asset class](../a/asset_class.md) has different [risk](../r/risk.md) and [return](../r/return.md) characteristics.
 
 #### Importance of Diversification
 
-Diversification involves spreading investments across a variety of assets to reduce exposure to any single asset or risk. A well-diversified portfolio can smooth returns over time and reduce the risk of significant losses.
+[Diversification](../d/diversification.md) involves spreading investments across a variety of assets to reduce exposure to any single [asset](../a/asset.md) or [risk](../r/risk.md). A well-diversified portfolio can smooth returns over time and reduce the [risk](../r/risk.md) of significant losses.
 
 ### Types of Asset Classes
 
 #### Equities
 
-Equities represent ownership in a company and entitle the shareholder to a portion of the company's profits. Equities are considered higher-risk but also offer higher potential returns relative to other asset classes.
+Equities represent ownership in a company and entitle the [shareholder](../s/shareholder.md) to a portion of the company's profits. Equities are considered higher-[risk](../r/risk.md) but also [offer](../o/offer.md) higher potential returns relative to other [asset](../a/asset.md) classes.
 
 #### Bonds
 
-Bonds are debt securities issued by corporations, municipalities, or governments. They provide regular interest payments and are generally considered lower risk compared to equities. However, they also offer lower potential returns.
+Bonds are [debt](../d/debt.md) securities issued by corporations, municipalities, or governments. They provide regular [interest](../i/interest.md) payments and are generally considered lower [risk](../r/risk.md) compared to equities. However, they also [offer](../o/offer.md) lower potential returns.
 
 #### Real Estate
 
-Real estate investments might include residential properties, commercial properties, or Real Estate Investment Trusts (REITs). They offer [diversification benefits](../d/diversification_benefits.md) and potential appreciation and income from rent.
+[Real estate](../r/real_estate.md) investments might include residential properties, commercial properties, or [Real Estate](../r/real_estate.md) Investment Trusts (REITs). They [offer](../o/offer.md) [diversification benefits](../d/diversification_benefits.md) and potential appreciation and [income](../i/income.md) from rent.
 
 #### Cash and Cash Equivalents
 
-Cash and cash equivalents are short-term, highly liquid investments like Treasury bills, money market funds, and savings accounts. They are the safest asset class but offer the lowest returns.
+Cash and [cash equivalents](../c/cash_equivalents.md) are short-term, highly [liquid](../l/liquid.md) investments like Treasury bills, [money market](../m/money_market.md) funds, and savings accounts. They are the safest [asset class](../a/asset_class.md) but [offer](../o/offer.md) the lowest returns.
 
 #### Commodities
 
-Commodities include physical goods like gold, oil, and agricultural products. They are often used as a hedge against inflation and geopolitical risks.
+Commodities include physical goods like gold, oil, and agricultural products. They are often used as a [hedge](../h/hedge.md) against [inflation](../i/inflation.md) and geopolitical risks.
 
 ### Geographic Diversification
 
 #### Developed Markets
 
-Developed markets include economies with established infrastructure and financial markets, such as the US, Western Europe, and Japan. They offer stability but may have lower growth potential.
+Developed markets include economies with established [infrastructure](../i/infrastructure.md) and [financial markets](../f/financial_market.md), such as the US, Western Europe, and Japan. They [offer](../o/offer.md) stability but may have lower growth potential.
 
 #### Emerging Markets
 
-Emerging markets are those that are in the process of rapid growth and industrialization, such as China, India, and Brazil. These markets offer higher potential returns but come with more volatility and risk.
+Emerging markets are those that are in the process of rapid growth and [industrialization](../i/industrialization.md), such as China, India, and Brazil. These markets [offer](../o/offer.md) higher potential returns but come with more [volatility](../v/volatility.md) and [risk](../r/risk.md).
 
 #### Frontier Markets
 
-Frontier markets are less advanced than emerging markets and can offer significant growth potential but also come with higher risks due to political instability and lack of infrastructure.
+Frontier markets are less advanced than emerging markets and can [offer](../o/offer.md) significant growth potential but also come with higher risks due to political instability and lack of [infrastructure](../i/infrastructure.md).
 
 ### Theories and Models in Asset Allocation
 
 #### Modern Portfolio Theory (MPT)
 
-Developed by Harry Markowitz, Modern Portfolio Theory emphasizes the benefits of diversification. According to MPT, it's possible to construct an "[efficient frontier](../e/efficient_frontier.md)" of optimal portfolios offering the maximum possible return for a given level of risk.
+Developed by [Harry Markowitz](../h/harry_markowitz.md), Modern Portfolio Theory emphasizes the benefits of [diversification](../d/diversification.md). According to MPT, it's possible to construct an "[efficient frontier](../e/efficient_frontier.md)" of optimal portfolios [offering](../o/offering.md) the maximum possible [return](../r/return.md) for a given level of [risk](../r/risk.md).
 
 #### Capital Asset Pricing Model (CAPM)
 
-The CAPM is a model that describes the relationship between expected return and risk in a portfolio. It postulates that the expected return on a portfolio is equal to the risk-free rate plus a risk premium, which is based on the portfolio's beta.
+The CAPM is a model that describes the relationship between [expected return](../e/expected_return.md) and [risk](../r/risk.md) in a portfolio. It postulates that the [expected return](../e/expected_return.md) on a portfolio is equal to the [risk](../r/risk.md)-free rate plus a [risk premium](../r/risk_premium.md), which is based on the portfolio's [beta](../b/beta.md).
 
 #### Black-Litterman Model
 
-The [Black-Litterman model](../b/black-litterman_model.md) is an advanced [asset allocation](../a/asset_allocation.md) model that combines the expected returns from the CAPM with the investor's own views about future returns. It helps in refining predictions and making more balanced investment decisions.
+The [Black-Litterman model](../b/black-litterman_model.md) is an advanced [asset allocation](../a/asset_allocation.md) model that combines the expected returns from the CAPM with the [investor](../i/investor.md)'s own views about future returns. It helps in refining predictions and making more balanced investment decisions.
 
 ### Strategies in Global Asset Allocation
 
 #### Strategic Asset Allocation
 
-Strategic [asset allocation](../a/asset_allocation.md) is a long-term investment strategy that defines a set allocation for various asset classes and periodically rebalances the portfolio to maintain these allocations.
+Strategic [asset allocation](../a/asset_allocation.md) is a long-term [investment strategy](../i/investment_strategy.md) that defines a set allocation for various [asset](../a/asset.md) classes and periodically rebalances the portfolio to maintain these allocations.
 
 #### Tactical Asset Allocation
 
-Tactical [asset allocation](../a/asset_allocation.md) is a more active strategy that allows for temporary deviations from the set [asset allocation](../a/asset_allocation.md) to take advantage of market opportunities.
+Tactical [asset allocation](../a/asset_allocation.md) is a more active strategy that allows for temporary deviations from the set [asset allocation](../a/asset_allocation.md) to take advantage of [market](../m/market.md) opportunities.
 
 #### Dynamic Asset Allocation
 
-Dynamic [asset allocation](../a/asset_allocation.md) involves continually adjusting the mix of asset classes based on market conditions and the economic environment to minimize risk and maximize returns.
+Dynamic [asset allocation](../a/asset_allocation.md) involves continually adjusting the mix of [asset](../a/asset.md) classes based on [market](../m/market.md) conditions and the economic environment to minimize [risk](../r/risk.md) and maximize returns.
 
 ### Risk Management
 
 #### Risk Assessment
 
-Risk assessment involves analyzing the risk-return profile of individual asset classes as well as the overall portfolio. Factors like volatility, correlation, and potential for loss should be considered.
+[Risk](../r/risk.md) assessment involves analyzing the [risk](../r/risk.md)-[return](../r/return.md) profile of individual [asset](../a/asset.md) classes as well as the overall portfolio. Factors like [volatility](../v/volatility.md), [correlation](../c/correlation.md), and potential for loss should be considered.
 
 #### Rebalancing
 
-Rebalancing is the process of realigning the weightings of a portfolio of assets to maintain a desired level of [asset allocation](../a/asset_allocation.md). This involves periodically buying and selling assets to keep the portfolio aligned with the target allocation.
+[Rebalancing](../r/rebalancing.md) is the process of realigning the weightings of a portfolio of assets to maintain a desired level of [asset allocation](../a/asset_allocation.md). This involves periodically buying and selling assets to keep the portfolio aligned with the target allocation.
 
 ### Tools and Technologies in Global Asset Allocation
 
 #### Software Solutions
 
-Various software solutions offer tools for [asset allocation](../a/asset_allocation.md), [portfolio management](../p/portfolio_management.md), and risk assessment. Key players in this domain include BlackRock’s Aladdin (www.blackrock.com/aladdin), [Morningstar](../m/morningstar.md) Direct (www.[morningstar](../m/morningstar.md).com/products/direct), and [FactSet](../f/factset.md) (www.[factset](../f/factset.md).com).
+Various software solutions [offer](../o/offer.md) tools for [asset allocation](../a/asset_allocation.md), [portfolio management](../p/portfolio_management.md), and [risk](../r/risk.md) assessment. Key players in this domain include BlackRock’s Aladdin (www.blackrock.com/aladdin), [Morningstar](../m/morningstar.md) Direct (www.[morningstar](../m/morningstar.md).com/products/direct), and [FactSet](../f/factset.md) (www.[factset](../f/factset.md).com).
 
 #### Algorithms and Automation
 
-[Algorithmic trading](../a/algorithmic_trading.md) and automation can assist in real-time [portfolio management](../p/portfolio_management.md) and rebalancing. Firms like Two Sigma (www.twosigma.com) and Renaissance Technologies are leaders in applying quantitative methods to [asset allocation](../a/asset_allocation.md).
+[Algorithmic trading](../a/algorithmic_trading.md) and automation can assist in real-time [portfolio management](../p/portfolio_management.md) and [rebalancing](../r/rebalancing.md). Firms like Two Sigma (www.twosigma.com) and Renaissance Technologies are leaders in applying quantitative methods to [asset allocation](../a/asset_allocation.md).
 
 ### Case Studies
 
 #### Yale Endowment Model
 
-The Yale Endowment Model, developed by David Swensen, emphasizes diversification across non-traditional asset classes like private equity, real estate, and hedge funds. Yale’s strategy has consistently outperformed traditional portfolios.
+The Yale [Endowment](../e/endowment.md) Model, developed by David Swensen, emphasizes [diversification](../d/diversification.md) across non-traditional [asset](../a/asset.md) classes like [private equity](../p/private_equity.md), [real estate](../r/real_estate.md), and [hedge](../h/hedge.md) funds. Yale’s strategy has consistently outperformed traditional portfolios.
 
 #### Canadian Pension Plan Investment Board (CPPIB)
 
-The CPPIB adopts a total portfolio approach, considering all asset classes and geographies. This approach allows for flexibility and responsiveness to global economic changes.
+The CPPIB adopts a total portfolio approach, considering all [asset](../a/asset.md) classes and geographies. This approach allows for flexibility and responsiveness to global economic changes.
 
 ### Conclusion
 
-Global [asset allocation](../a/asset_allocation.md) is a dynamic process that involves understanding, selecting, and managing a variety of asset classes across different geographic regions. By utilizing modern theories, models, and tools, investors can construct well-diversified portfolios that optimize returns for a given level of risk.
+Global [asset allocation](../a/asset_allocation.md) is a dynamic process that involves understanding, selecting, and managing a variety of [asset](../a/asset.md) classes across different geographic regions. By utilizing modern theories, models, and tools, investors can construct well-diversified portfolios that optimize returns for a given level of [risk](../r/risk.md).
 

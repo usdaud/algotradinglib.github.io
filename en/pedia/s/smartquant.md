@@ -1,12 +1,12 @@
 # SmartQuant
 
-SmartQuant is a sophisticated [quantitative trading](../q/quantitative_trading.md) software development company that provides a comprehensive suite of tools for [algorithmic trading](../a/algorithmic_trading.md), strategy development, and financial market analysis. Their flagship product, OpenQuant, is widely used by professional traders, hedge funds, and financial institutions.
+SmartQuant is a sophisticated [quantitative trading](../q/quantitative_trading.md) software development company that provides a comprehensive suite of tools for [algorithmic trading](../a/algorithmic_trading.md), strategy development, and financial [market](../m/market.md) analysis. Their flagship product, OpenQuant, is widely used by professional traders, [hedge](../h/hedge.md) funds, and financial institutions.
 
 ## Key Products and Features
 
 ### 1. OpenQuant
 
-OpenQuant is SmartQuant's primary trading platform, designed for developing, testing, and deploying [quantitative trading](../q/quantitative_trading.md) strategies.
+OpenQuant is SmartQuant's primary [trading platform](../t/trading_platform.md), designed for developing, testing, and deploying [quantitative trading](../q/quantitative_trading.md) strategies.
 
 #### Features:
 - **Strategy Development Environment**: 
@@ -16,23 +16,23 @@ OpenQuant is SmartQuant's primary trading platform, designed for developing, tes
 
 - **[Backtesting](../b/backtesting.md) Engine**: 
  - High-speed [historical simulation](../h/historical_simulation.md)
- - Multi-asset and multi-strategy [backtesting](../b/backtesting.md)
- - Transaction cost modeling
+ - Multi-[asset](../a/asset.md) and multi-strategy [backtesting](../b/backtesting.md)
+ - [Transaction](../t/transaction.md) cost modeling
 
-- **Optimization Tools**: 
- - Genetic algorithm and [grid search](../g/grid_search_in_trading.md) optimization
+- **[Optimization](../o/optimization.md) Tools**: 
+ - Genetic algorithm and [grid search](../g/grid_search_in_trading.md) [optimization](../o/optimization.md)
  - Distributed computing support for faster processing
 
 - **[Risk Management](../r/risk_management.md)**: 
- - Real-time risk monitoring
+ - Real-time [risk](../r/risk.md) monitoring
  - Customizable [risk metrics](../r/risk_metrics.md) and alerts
 
 - **Live Trading**: 
- - Automated execution across multiple markets
+ - Automated [execution](../e/execution.md) across [multiple](../m/multiple.md) markets
  - Support for various [order types](../o/order_types_in_trading.md) and algorithms
 
 - **Data Management**: 
- - Integration with multiple data providers
+ - Integration with [multiple](../m/multiple.md) data providers
  - Built-in data cleansing and normalization tools
 
 ### 2. QuantBase
@@ -49,29 +49,29 @@ A cloud-based [backtesting](../b/backtesting.md) and strategy hosting platform.
 A high-performance server solution for deploying [trading strategies](../t/trading_strategies.md) at scale.
 
 #### Features:
-- Low-latency execution engine
+- Low-latency [execution](../e/execution.md) engine
 - Multi-threading and distributed computing capabilities
-- Real-time risk and performance monitoring
+- Real-time [risk](../r/risk.md) and performance monitoring
 
 ## Technology Stack
 
 - **Programming Languages**: C#, .NET Framework
-- **Database**: Built-in proprietary database for market data storage
+- **Database**: Built-in proprietary database for [market](../m/market.md) data storage
 - **API Integrations**: FIX protocol support, REST APIs for various brokers and exchanges
 
 ## Target Markets
 
-SmartQuant's products cater to a wide range of financial instruments:
+SmartQuant's products cater to a wide [range](../r/range.md) of financial instruments:
 - Equities
-- Futures
-- Options
+- [Futures](../f/futures.md)
+- [Options](../o/options.md)
 - Forex
 - Cryptocurrencies
 
 ## User Base
 
 - Quantitative traders and researchers
-- Hedge funds and [proprietary trading](../p/proprietary_trading.md) firms
+- [Hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) firms
 - Financial institutions and banks
 - Individual algorithmic traders
 
@@ -88,7 +88,7 @@ SmartQuant offers various educational materials:
 SmartQuant typically offers:
 - Tiered licensing based on feature set and support level
 - Separate pricing for individual traders and institutions
-- Cloud-based subscription options for QuantBase
+- Cloud-based subscription [options](../o/options.md) for QuantBase
 
 ## Company Background
 

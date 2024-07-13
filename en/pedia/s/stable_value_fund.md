@@ -1,72 +1,72 @@
 # Stable Value Fund
 
-A Stable Value Fund (SVF) is a type of investment vehicle commonly used in employer-sponsored retirement plans, such as 401(k) plans. These funds are designed to provide capital preservation, consistent returns, and low volatility by investing primarily in high-quality, short- to intermediate-term fixed-income securities. SVFs are particularly popular among conservative investors who prioritize preserving their principal and earning steady returns over seeking high growth or taking on more significant risks.
+A Stable [Value Fund](../v/value_fund.md) (SVF) is a type of [investment vehicle](../i/investment_vehicle.md) commonly used in employer-sponsored retirement plans, such as 401(k) plans. These funds are designed to provide [capital preservation](../c/capital_preservation.md), consistent returns, and low [volatility](../v/volatility.md) by [investing](../i/investing.md) primarily in high-quality, short- to intermediate-term fixed-[income](../i/income.md) securities. SVFs are particularly popular among conservative investors who prioritize preserving their [principal](../p/principal.md) and earning steady returns over seeking high growth or taking on more significant risks.
 
 ## Key Characteristics
 
 ### Capital Preservation
-One of the primary objectives of a Stable Value Fund is to preserve the capital invested by participants. This is achieved through investments in high-quality, fixed-income securities and the use of insurance contracts that help protect against market fluctuations.
+One of the primary objectives of a Stable [Value Fund](../v/value_fund.md) is to preserve the [capital](../c/capital.md) invested by participants. This is achieved through investments in high-quality, fixed-[income](../i/income.md) securities and the use of [insurance](../i/insurance.md) contracts that help protect against [market](../m/market.md) fluctuations.
 
 ### Interest Income
-Stable Value Funds generate returns primarily from interest income rather than from capital appreciation. The underlying assets typically include bonds and other fixed-income securities, which pay regular interest. The fund's returns are then passed on to the investors in the form of a stable crediting rate.
+Stable [Value](../v/value.md) Funds generate returns primarily from [interest](../i/interest.md) [income](../i/income.md) rather than from [capital](../c/capital.md) appreciation. The [underlying](../u/underlying.md) assets typically include bonds and other fixed-[income](../i/income.md) securities, which pay regular [interest](../i/interest.md). The [fund](../f/fund.md)'s returns are then passed on to the investors in the form of a stable crediting rate.
 
 ### Low Volatility
-SVFs are structured to minimize volatility and offer a smooth return profile. They achieve this by investing in high-quality instruments and employing insurance wrappers, known as "wrap contracts," which insulate the fund from market fluctuations and ensure that participants' account balances are protected from losses.
+SVFs are structured to minimize [volatility](../v/volatility.md) and [offer](../o/offer.md) a smooth [return](../r/return.md) profile. They achieve this by [investing](../i/investing.md) in high-quality instruments and employing [insurance](../i/insurance.md) wrappers, known as "wrap contracts," which insulate the [fund](../f/fund.md) from [market](../m/market.md) fluctuations and ensure that participants' account balances are protected from losses.
 
 ### Liquidity
-Most Stable Value Funds offer daily liquidity, allowing participants to move their money in and out of the fund without incurring significant penalties. This feature provides flexibility and ease of access, making SVFs a convenient option for retirement plan participants.
+Most Stable [Value](../v/value.md) Funds [offer](../o/offer.md) daily [liquidity](../l/liquidity.md), allowing participants to move their [money](../m/money.md) in and out of the [fund](../f/fund.md) without incurring significant penalties. This feature provides flexibility and ease of access, making SVFs a convenient option for retirement plan participants.
 
 ## Investment Structure
 
-Stable Value Funds typically invest in a diversified portfolio of high-quality fixed-income securities, such as government bonds, corporate bonds, mortgage-backed securities, and asset-backed securities. The fund may also use other investment strategies and instruments to enhance returns while maintaining stability.
+Stable [Value](../v/value.md) Funds typically invest in a diversified portfolio of high-quality fixed-[income](../i/income.md) securities, such as government bonds, corporate bonds, [mortgage](../m/mortgage.md)-backed securities, and [asset](../a/asset.md)-backed securities. The [fund](../f/fund.md) may also use other investment strategies and instruments to enhance returns while maintaining stability.
 
 ### Wrap Contracts
-A key component of an SVF is the wrap contract, an insurance agreement between the fund and a financial institution, such as an insurance company or bank. Wrap contracts provide a level of protection by absorbing market fluctuations and ensuring that the fund's crediting rate remains stable. These contracts essentially "wrap" the portfolio of fixed-income securities, offering participants principal protection and steady returns.
+A key component of an SVF is the wrap contract, an [insurance](../i/insurance.md) agreement between the [fund](../f/fund.md) and a financial institution, such as an [insurance](../i/insurance.md) company or [bank](../b/bank.md). Wrap contracts provide a level of protection by absorbing [market](../m/market.md) fluctuations and ensuring that the [fund](../f/fund.md)'s crediting rate remains stable. These contracts essentially "wrap" the portfolio of fixed-[income](../i/income.md) securities, [offering](../o/offering.md) participants [principal](../p/principal.md) protection and steady returns.
 
 ### Credit Quality
-Stable Value Funds primarily invest in high-credit-quality securities to minimize the risk of default and ensure the stability of returns. The credit quality of the underlying investments is typically investment-grade or higher, and the fund managers actively monitor and manage the credit risk associated with the portfolio.
+Stable [Value](../v/value.md) Funds primarily invest in high-[credit](../c/credit.md)-quality securities to minimize the [risk](../r/risk.md) of [default](../d/default.md) and ensure the stability of returns. The [credit](../c/credit.md) quality of the [underlying](../u/underlying.md) investments is typically investment-grade or higher, and the [fund](../f/fund.md) managers actively monitor and manage the [credit risk](../c/credit_risk.md) associated with the portfolio.
 
 ## Crediting Rate
 
-The crediting rate is the rate of return earned by participants in a Stable Value Fund. This rate is periodically adjusted based on the fund's performance, the yields of the underlying securities, and the terms of the wrap contracts. The crediting rate is designed to be stable, providing predictable returns to investors.
+The crediting rate is the [rate of return](../r/rate_of_return.md) earned by participants in a Stable [Value Fund](../v/value_fund.md). This rate is periodically adjusted based on the [fund](../f/fund.md)'s performance, the yields of the [underlying](../u/underlying.md) securities, and the terms of the wrap contracts. The crediting rate is designed to be stable, providing predictable returns to investors.
 
 ### Calculation
-The crediting rate is calculated using a formula that considers the yield of the underlying investments, the amortization of any premiums or discounts, and the costs associated with the wrap contracts. Typically, the rate is reset quarterly or semi-annually, ensuring that it reflects current market conditions while maintaining stability.
+The crediting rate is calculated using a formula that considers the [yield](../y/yield.md) of the [underlying](../u/underlying.md) investments, the amortization of any premiums or discounts, and the costs associated with the wrap contracts. Typically, the rate is reset quarterly or semi-annually, ensuring that it reflects current [market](../m/market.md) conditions while maintaining stability.
 
 ### Smoothing Mechanism
-The smoothing mechanism employed by Stable Value Funds helps to mitigate the impact of market volatility on the crediting rate. By averaging the returns of the underlying investments over time, the fund can provide a more stable and predictable return profile, reducing the potential for significant fluctuations.
+The smoothing mechanism employed by Stable [Value](../v/value.md) Funds helps to mitigate the impact of [market](../m/market.md) [volatility](../v/volatility.md) on the crediting rate. By averaging the returns of the [underlying](../u/underlying.md) investments over time, the [fund](../f/fund.md) can provide a more stable and predictable [return](../r/return.md) profile, reducing the potential for significant fluctuations.
 
 ## Benefits of Stable Value Funds
 
 ### Principal Protection
-One of the most significant advantages of investing in a Stable Value Fund is the principal protection offered to participants. The use of high-quality fixed-income securities and wrap contracts ensures that the fund's value remains stable, even during periods of market turbulence.
+One of the most significant advantages of [investing](../i/investing.md) in a Stable [Value Fund](../v/value_fund.md) is the [principal](../p/principal.md) protection offered to participants. The use of high-quality fixed-[income](../i/income.md) securities and wrap contracts ensures that the [fund](../f/fund.md)'s [value](../v/value.md) remains stable, even during periods of [market](../m/market.md) turbulence.
 
 ### Steady Returns
-Stable Value Funds provide consistent, predictable returns, making them an attractive option for conservative investors who prioritize stability over high growth. The crediting rate is designed to be steady, offering participants a reliable source of income.
+Stable [Value](../v/value.md) Funds provide consistent, predictable returns, making them an attractive option for conservative investors who prioritize stability over high growth. The crediting rate is designed to be steady, [offering](../o/offering.md) participants a reliable source of [income](../i/income.md).
 
 ### Low Volatility
-By investing in high-quality, short- to intermediate-term fixed-income securities and using wrap contracts, Stable Value Funds minimize volatility. This low-risk profile makes them a suitable choice for investors nearing retirement or those with a low tolerance for risk.
+By [investing](../i/investing.md) in high-quality, short- to intermediate-term fixed-[income](../i/income.md) securities and using wrap contracts, Stable [Value](../v/value.md) Funds minimize [volatility](../v/volatility.md). This low-[risk](../r/risk.md) profile makes them a suitable choice for investors nearing retirement or those with a low tolerance for [risk](../r/risk.md).
 
 ### Diversification
-Stable Value Funds offer diversification benefits by investing in a broad range of fixed-income securities. This diversified approach helps to spread risk and enhance the overall stability of the fund.
+Stable [Value](../v/value.md) Funds [offer](../o/offer.md) [diversification benefits](../d/diversification_benefits.md) by [investing](../i/investing.md) in a broad [range](../r/range.md) of fixed-[income](../i/income.md) securities. This diversified approach helps to spread [risk](../r/risk.md) and enhance the overall stability of the [fund](../f/fund.md).
 
 ### Liquidity and Flexibility
-Most Stable Value Funds offer daily liquidity, allowing participants to access their funds without incurring significant penalties. This flexibility makes SVFs a convenient option for retirement plan participants who may need to reallocate their assets or take distributions.
+Most Stable [Value](../v/value.md) Funds [offer](../o/offer.md) daily [liquidity](../l/liquidity.md), allowing participants to access their funds without incurring significant penalties. This flexibility makes SVFs a convenient option for retirement plan participants who may need to reallocate their assets or take distributions.
 
 ## Risks and Considerations
 
 ### Credit Risk
-Despite their emphasis on high-quality investments, Stable Value Funds are not entirely risk-free. There is a potential for credit risk if the issuers of the underlying securities default on their obligations. Fund managers actively manage this risk by conducting thorough credit analysis and investing in securities with strong credit ratings.
+Despite their emphasis on high-quality investments, Stable [Value](../v/value.md) Funds are not entirely [risk](../r/risk.md)-free. There is a potential for [credit risk](../c/credit_risk.md) if the issuers of the [underlying](../u/underlying.md) securities [default](../d/default.md) on their [obligations](../o/obligation.md). [Fund](../f/fund.md) managers actively manage this [risk](../r/risk.md) by conducting thorough [credit](../c/credit.md) analysis and [investing](../i/investing.md) in securities with strong [credit](../c/credit.md) ratings.
 
 ### Interest Rate Risk
-Stable Value Funds are subject to interest rate risk, as fluctuations in interest rates can impact the value of the underlying fixed-income securities. Though the use of wrap contracts helps to mitigate this risk, significant changes in interest rates can still affect the fund's performance.
+Stable [Value](../v/value.md) Funds are subject to [interest rate risk](../i/interest_rate_risk.md), as fluctuations in [interest](../i/interest.md) rates can impact the [value](../v/value.md) of the [underlying](../u/underlying.md) fixed-[income](../i/income.md) securities. Though the use of wrap contracts helps to mitigate this [risk](../r/risk.md), significant changes in [interest](../i/interest.md) rates can still affect the [fund](../f/fund.md)'s performance.
 
 ### Liquidity Risk
-While Stable Value Funds generally offer daily liquidity, there may be instances where the fund's liquidity is constrained, particularly during periods of market stress. Participants should be aware of the potential for liquidity risk and understand the terms and conditions of their specific fund.
+While Stable [Value](../v/value.md) Funds generally [offer](../o/offer.md) daily [liquidity](../l/liquidity.md), there may be instances where the [fund](../f/fund.md)'s [liquidity](../l/liquidity.md) is constrained, particularly during periods of [market](../m/market.md) stress. Participants should be aware of the potential for [liquidity risk](../l/liquidity_risk.md) and understand the terms and conditions of their specific [fund](../f/fund.md).
 
 ### Wrap Contract Risk
-The performance of a Stable Value Fund is heavily dependent on the terms and stability of the wrap contracts. If the financial institution providing the wrap contracts faces solvency issues or defaults, this could impact the fund's crediting rate and principal protection.
+The performance of a Stable [Value Fund](../v/value_fund.md) is heavily dependent on the terms and stability of the wrap contracts. If the financial institution providing the wrap contracts faces [solvency](../s/solvency.md) issues or defaults, this could impact the [fund](../f/fund.md)'s crediting rate and [principal](../p/principal.md) protection.
 
 ## Conclusion
 
-Stable Value Funds offer a unique combination of capital preservation, steady returns, and low volatility, making them an attractive option for conservative investors and retirement plan participants. By investing in high-quality fixed-income securities and utilizing wrap contracts, these funds provide a stable and predictable return profile ideal for those prioritizing principal protection over high growth potential. However, investors should be aware of the associated risks, including credit risk, interest rate risk, liquidity risk, and wrap contract risk, and carefully consider their investment objectives and risk tolerance before investing in a Stable Value Fund.
+Stable [Value](../v/value.md) Funds [offer](../o/offer.md) a unique combination of [capital preservation](../c/capital_preservation.md), steady returns, and low [volatility](../v/volatility.md), making them an attractive option for conservative investors and retirement plan participants. By [investing](../i/investing.md) in high-quality fixed-[income](../i/income.md) securities and utilizing wrap contracts, these funds provide a stable and predictable [return](../r/return.md) profile ideal for those prioritizing [principal](../p/principal.md) protection over high growth potential. However, investors should be aware of the associated risks, including [credit risk](../c/credit_risk.md), [interest rate risk](../i/interest_rate_risk.md), [liquidity risk](../l/liquidity_risk.md), and wrap contract [risk](../r/risk.md), and carefully consider their investment objectives and [risk tolerance](../r/risk_tolerance.md) before [investing](../i/investing.md) in a Stable [Value Fund](../v/value_fund.md).

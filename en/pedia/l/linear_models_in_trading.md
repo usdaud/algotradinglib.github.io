@@ -1,67 +1,67 @@
 # Linear Models
 
-In the context of financial markets and [algorithmic trading](../a/algorithmic_trading.md), linear models are a cornerstone for predicting prices, modeling risks, and optimizing [trading strategies](../t/trading_strategies.md). Linear models refer to a broad category of approaches that can be summarized by the concept that the best-fitting relationship between a dependent variable (e.g., the price of a stock) and one or more independent variables (predictors, such as time, various [economic indicators](../e/economic_indicators.md), or other stock prices) is a linear function. This discussion will encompass the primary types of linear models used in trading, their practical applications, and the inherent benefits and limitations they present.
+In the context of [financial markets](../f/financial_market.md) and [algorithmic trading](../a/algorithmic_trading.md), linear models are a cornerstone for predicting prices, modeling risks, and optimizing [trading strategies](../t/trading_strategies.md). Linear models refer to a broad category of approaches that can be summarized by the concept that the best-fitting relationship between a dependent variable (e.g., the price of a stock) and one or more independent variables (predictors, such as time, various [economic indicators](../e/economic_indicators.md), or other stock prices) is a linear function. This discussion [will](../w/will.md) encompass the primary types of linear models used in trading, their practical applications, and the inherent benefits and limitations they present.
 
 ## Linear Regression
 
-**[Linear regression](../l/linear_regression.md)** is the most fundamental approach to modeling the relationship between variables. In the context of trading, [linear regression](../l/linear_regression.md) can be used for forecasting future prices based on historical price data and external factors. The general form of a simple [linear regression](../l/linear_regression.md) model is
+**[Linear regression](../l/linear_regression.md)** is the most fundamental approach to modeling the relationship between variables. In the context of trading, [linear regression](../l/linear_regression.md) can be used for [forecasting](../f/forecasting.md) future prices based on historical price data and external factors. The general form of a simple [linear regression](../l/linear_regression.md) model is
 
 \[ y = \beta_0 + \beta_1 x + \epsilon \]
 
 where:
 - \( y \) is the dependent variable (e.g., stock price),
-- \( x \) is the independent variable (e.g., time, volume of traded shares),
+- \( x \) is the independent variable (e.g., time, [volume](../v/volume.md) of traded [shares](../s/shares.md)),
 - \( \beta_0 \) is the intercept,
 - \( \beta_1 \) is the slope of the line (which indicates the change in \( y \) for a unit change in \( x \)),
-- \( \epsilon \) is the error term.
+- \( \epsilon \) is the [error term](../e/error_term.md).
 
 ### Application in Trading
 
 In practical trading, [linear regression](../l/linear_regression.md) can be used for:
 1. **Price Prediction**: By using historical prices (as \( x \)) to predict future prices (as \( y \)).
-2. **[Pairs Trading](../p/pairs_trading.md)**: Involves comparing two correlated assets. A [linear regression](../l/linear_regression.md) between the prices of two stocks can identify divergences to exploit.
-3. **[Factor Models](../f/factor_models.md)**: [Linear regression](../l/linear_regression.md) can help disentangle the impact of various factors (interest rates, [economic indicators](../e/economic_indicators.md)) on asset prices.
+2. **[Pairs Trading](../p/pairs_trading.md)**: Involves comparing two correlated assets. A [linear regression](../l/linear_regression.md) between the prices of two [stocks](../s/stock.md) can identify divergences to exploit.
+3. **[Factor Models](../f/factor_models.md)**: [Linear regression](../l/linear_regression.md) can help disentangle the impact of various factors ([interest](../i/interest.md) rates, [economic indicators](../e/economic_indicators.md)) on [asset](../a/asset.md) prices.
 
 **Example**:
-Let's assume a trader wishes to predict the price of a stock \( y \) based on its past prices. By fitting a linear model:
+Let's assume a [trader](../t/trader.md) wishes to predict the price of a stock \( y \) based on its past prices. By fitting a linear model:
 
 \[ \text{Price\_Today} = \beta_0 + \beta_1 \cdot \text{Price\_Yesterday} + \epsilon \]
 
-The trader can estimate the coefficients \( \beta_0 \) and \( \beta_1 \) through historical data and use them to predict future stock prices.
+The [trader](../t/trader.md) can estimate the coefficients \( \beta_0 \) and \( \beta_1 \) through historical data and use them to predict future stock prices.
 
 ## Multiple Linear Regression
 
-**Multiple [linear regression](../l/linear_regression.md)** extends simple [linear regression](../l/linear_regression.md) by incorporating multiple independent variables. This model is useful for understanding how various factors, in combination, impact a stock's price. The general form of a multiple [linear regression](../l/linear_regression.md) model is:
+**[Multiple](../m/multiple.md) [linear regression](../l/linear_regression.md)** extends simple [linear regression](../l/linear_regression.md) by incorporating [multiple](../m/multiple.md) independent variables. This model is useful for understanding how various factors, in combination, impact a stock's price. The general form of a [multiple](../m/multiple.md) [linear regression](../l/linear_regression.md) model is:
 
 \[ y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + ... + \beta_n x_n + \epsilon \]
 
-where \( x_1, x_2, ..., x_n \) are the multiple predictors.
+where \( x_1, x_2, ..., x_n \) are the [multiple](../m/multiple.md) predictors.
 
 ### Application in Trading
 
-Multiple [linear regression](../l/linear_regression.md) is beneficial in:
-1. **[Factor Investing](../f/factor_investing.md)**: Incorporating multiple [economic indicators](../e/economic_indicators.md) and company fundamentals to predict stock returns.
-2. **Market [Risk Models](../r/risk_models_in_trading.md) (CAPM, Fama-French)**: Using factors like market return, size, and value to explain asset returns.
+[Multiple](../m/multiple.md) [linear regression](../l/linear_regression.md) is beneficial in:
+1. **[Factor Investing](../f/factor_investing.md)**: Incorporating [multiple](../m/multiple.md) [economic indicators](../e/economic_indicators.md) and company fundamentals to predict stock returns.
+2. **[Market](../m/market.md) [Risk Models](../r/risk_models_in_trading.md) (CAPM, Fama-French)**: Using factors like [market](../m/market.md) [return](../r/return.md), size, and [value](../v/value.md) to explain [asset](../a/asset.md) returns.
 3. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Assessing the impact of various factors on portfolio returns and optimizing [asset allocation](../a/asset_allocation.md).
 
 **Example**:
-A trader might use multiple factors such as GDP [growth rates](../g/growth_rates_in_trading.md), interest rates, and industry-specific indices to predict stock returns:
+A [trader](../t/trader.md) might use [multiple](../m/multiple.md) factors such as GDP [growth rates](../g/growth_rates_in_trading.md), [interest](../i/interest.md) rates, and [industry](../i/industry.md)-specific indices to predict stock returns:
 
-\[ \text{Price\_Tomorrow} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{Interest\_Rate} + \beta_3 \cdot \text{Industry\_Index} + \epsilon \]
+\[ \text{Price\_Tomorrow} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{Interest\_Rate} + \beta_3 \cdot \text{[Industry](../i/industry.md)\_Index} + \epsilon \]
 
 ## Autoregressive Models (AR)
 
-**Autoregressive (AR) models** are a type of linear model where the current value of a time series is explained by its previous values. In AR models, future values of a time-series are expressed linearly based on its past values, often under the assumption that past trends can forecast future values.
+**Autoregressive (AR) models** are a type of linear model where the current [value](../v/value.md) of a [time series](../t/time_series.md) is explained by its previous values. In AR models, future values of a time-series are expressed linearly based on its past values, often under the assumption that past trends can forecast future values.
 
-The general form of an AR model of order \( p \) (AR(p)) is:
+The general form of an AR model of [order](../o/order.md) \( p \) (AR(p)) is:
 
 \[ y_t = \phi_1 y_{t-1} + \phi_2 y_{t-2} + ... + \phi_p y_{t-p} + \epsilon_t \]
 
 where:
-- \( y_t \) is the value of the series at time \( t \),
+- \( y_t \) is the [value](../v/value.md) of the series at time \( t \),
 - \( \phi_1, \phi_2, ..., \phi_p \) are the parameters (coefficients),
-- \( \epsilon_t \) is [white noise](../w/white_noise_in_trading.md) error term,
-- \( p \) is the order of the autoregressive model.
+- \( \epsilon_t \) is [white noise](../w/white_noise_in_trading.md) [error term](../e/error_term.md),
+- \( p \) is the [order](../o/order.md) of the autoregressive model.
 
 ### Application in Trading
 
@@ -76,9 +76,9 @@ For [day trading](../d/day_trading.md), predicting today's closing price \( y_t 
 
 ## Vector Autoregressive Models (VAR)
 
-**Vector Autoregressive (VAR) models** generalize the univariate AR model to capture the linear interdependencies among multiple time series. In VAR models, each variable is a linear function of the past values of itself and all the other variables in the system.
+**Vector Autoregressive (VAR) models** generalize the univariate AR model to capture the linear interdependencies among [multiple](../m/multiple.md) [time series](../t/time_series.md). In VAR models, each variable is a linear function of the past values of itself and all the other variables in the system.
 
-The general form of a VAR model of order \( p \) (VAR(p)) for \( k \) time series variables \( y_{1,t}, y_{2,t}, ... , y_{k,t} \) is:
+The general form of a VAR model of [order](../o/order.md) \( p \) (VAR(p)) for \( k \) [time series](../t/time_series.md) variables \( y_{1,t}, y_{2,t}, ... , y_{k,t} \) is:
 
 \[ y_t = c + A_1 y_{t-1} + A_2 y_{t-2} + ... + A_p y_{t-p} + \epsilon_t \]
 
@@ -91,11 +91,11 @@ where:
 ### Application in Trading
 
 VAR models are used in:
-1. **Interrelated Markets Analysis**: Studying relationships and interactions between different markets (e.g., stock and bond markets).
-2. **Macroeconomic Factor Impact**: Understanding how macroeconomic variables jointly impact asset prices.
+1. **Interrelated Markets Analysis**: Studying relationships and interactions between different markets (e.g., stock and [bond](../b/bond.md) markets).
+2. **[Macroeconomic Factor](../m/macroeconomic_factor.md) Impact**: Understanding how macroeconomic variables jointly impact [asset](../a/asset.md) prices.
 
 **Example**:
-Analyzing the relationship between stock prices \( x_t \) and another economic indicator \( z_t \):
+Analyzing the relationship between stock prices \( x_t \) and another [economic indicator](../e/economic_indicator.md) \( z_t \):
 
 \[ 
 \begin{bmatrix}
@@ -113,15 +113,15 @@ z_{t-1}
 
 ## Ridge Regression
 
-**Ridge regression** or **Tikhonov regularization** is a technique used to address [multicollinearity](../m/multicollinearity_in_trading.md) in [linear regression](../l/linear_regression.md). It introduces a penalty term to the loss function used to estimate the regression coefficients, preventing overfitting by shrinking coefficients towards zero.
+**Ridge regression** or **Tikhonov regularization** is a technique used to address [multicollinearity](../m/multicollinearity_in_trading.md) in [linear regression](../l/linear_regression.md). It introduces a penalty term to the loss function used to estimate the regression coefficients, preventing [overfitting](../o/overfitting.md) by shrinking coefficients towards zero.
 
 The ridge regression modifies the loss function in [linear regression](../l/linear_regression.md) to:
 
-\[ L(\beta) = \sum (y_i - \hat{y_i})^2 + \lambda \sum \beta_j^2 \]
+\[ L(\beta) = \sum (y_i - \hat{y_i})^2 + \[lambda](../l/lambda.md) \sum \beta_j^2 \]
 
 where:
-- \( L(\beta) \) is the loss function,
-- \( \lambda \) is the regularization parameter, determining the penalty,
+- \( L(\[beta](../b/beta.md)) \) is the loss function,
+- \( \[lambda](../l/lambda.md) \) is the regularization parameter, determining the penalty,
 - \( \beta_j \) are the model coefficients.
 
 ### Application in Trading
@@ -133,15 +133,15 @@ Ridge regression is useful when:
 **Example**:
 To predict stock returns by incorporating a large set of [economic indicators](../e/economic_indicators.md):
 
-\[ \text{Return} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{Interest\_Rate} + \beta_3 \cdot \text{Index1} + ... + \lambda \sum \beta_j^2 \]
+\[ \text{Return} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{[Interest](../i/interest.md)\_Rate} + \beta_3 \cdot \text{Index1} + ... + \[lambda](../l/lambda.md) \sum \beta_j^2 \]
 
 ## Lasso Regression
 
-**Lasso (Least Absolute Shrinkage and Selection Operator) regression** is another approach to regularization. It includes an L1 penalty, which leads to sparse solutions where some coefficients are exactly zero, thus performing variable selection.
+**Lasso (Least Absolute [Shrinkage](../s/shrinkage.md) and Selection Operator) regression** is another approach to regularization. It includes an L1 penalty, which leads to sparse solutions where some coefficients are exactly zero, thus performing variable selection.
 
 The lasso loss function is:
 
-\[ L(\beta) = \sum (y_i - \hat{y_i})^2 + \lambda \sum |\beta_j| \]
+\[ L(\beta) = \sum (y_i - \hat{y_i})^2 + \[lambda](../l/lambda.md) \sum |\beta_j| \]
 
 ### Application in Trading
 
@@ -152,29 +152,29 @@ Lasso regression is used in:
 **Example**:
 Identifying the most relevant indicators for stock price predictions among numerous potential factors:
 
-\[ \text{Return} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{Interest\_Rate} + \beta_3 \cdot \text{Index1} + ... + \lambda \sum |\beta_j| \]
+\[ \text{Return} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{[Interest](../i/interest.md)\_Rate} + \beta_3 \cdot \text{Index1} + ... + \[lambda](../l/lambda.md) \sum |\beta_j| \]
 
 ## Elastic Net
 
-**Elastic Net** combines the penalties of ridge regression and lasso regression. 
+**[Elastic](../e/elastic.md) Net** combines the penalties of ridge regression and lasso regression. 
 
 It addresses limitations when the number of predictors exceeds the number of samples or when predictors are highly correlated.
 
-The elastic net loss function is:
+The [elastic](../e/elastic.md) [net loss](../n/net_loss.md) function is:
 
-\[ L(\beta) = \sum (y_i - \hat{y_i})^2 + \lambda_1 \sum |\beta_j| + \lambda_2 \sum \beta_j^2 \]
+\[ L(\[beta](../b/beta.md)) = \sum (y_i - \hat{y_i})^2 + \lambda_1 \sum |\beta_j| + \lambda_2 \sum \beta_j^2 \]
 
 ### Application in Trading
 
-Elastic Net is optimal when:
+[Elastic](../e/elastic.md) Net is optimal when:
 1. **High-dimensional Data**: Managing datasets with a large number of predictors.
-2. **Handling Correlated Predictors**: Combining the strengths of lasso and ridge regression to handle [multicollinearity](../m/multicollinearity_in_trading.md) and select variables.
+2. **Handling Correlated Predictors**: Combining the strengths of lasso and ridge regression to [handle](../h/handle.md) [multicollinearity](../m/multicollinearity_in_trading.md) and select variables.
 
 **Example**:
-[Predictive modeling](../p/predictive_modeling.md) for stocks with numerous [technical indicators](../t/technical_indicators.md), combining the strengths of ridge and lasso:
+[Predictive modeling](../p/predictive_modeling.md) for [stocks](../s/stock.md) with numerous [technical indicators](../t/technical_indicators.md), combining the strengths of ridge and lasso:
 
-\[ \text{Return} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{Interest\_Rate} + \beta_3 \cdot \text{Index1} + ... + \lambda_1 \sum |\beta_j| + \lambda_2 \sum \beta_j^2 \]
+\[ \text{Return} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{[Interest](../i/interest.md)\_Rate} + \beta_3 \cdot \text{Index1} + ... + \lambda_1 \sum |\beta_j| + \lambda_2 \sum \beta_j^2 \]
 
 ## Conclusion
 
-In the realm of algo-trading, linear models provide a foundational toolset for designing, evaluating, and implementing [trading strategies](../t/trading_strategies.md). Each type of linear model—from simple [linear regression](../l/linear_regression.md) to sophisticated methods like elastic net—delivers specific advantages suitable for various scenarios encountered by traders. Understanding the appropriate context and application of these models can significantly enhance a trader’s ability to analyze markets, predict price movement, and optimize [trading strategies](../t/trading_strategies.md).
+In the realm of algo-trading, linear models provide a foundational toolset for designing, evaluating, and implementing [trading strategies](../t/trading_strategies.md). Each type of linear model—from simple [linear regression](../l/linear_regression.md) to sophisticated methods like [elastic](../e/elastic.md) net—delivers specific advantages suitable for various scenarios encountered by traders. Understanding the appropriate context and application of these models can significantly enhance a [trader](../t/trader.md)’s ability to analyze markets, predict price movement, and optimize [trading strategies](../t/trading_strategies.md).

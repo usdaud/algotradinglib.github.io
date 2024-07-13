@@ -1,6 +1,6 @@
 # Windowed Trading Strategies
 
-Windowed [Trading Strategies](../t/trading_strategies.md) refer to [algorithmic trading](../a/algorithmic_trading.md) strategies that analyze financial market data over specific time intervals or "windows" to identify trends, patterns, and potential trading opportunities. Unlike strategies that rely on real-time data or a single long-term perspective, windowed [trading strategies](../t/trading_strategies.md) segment historical and real-time data into discrete chunks. This segmentation can provide a more nuanced and adaptable approach to understanding market behavior, ultimately informing more precise trading decisions.
+Windowed [Trading Strategies](../t/trading_strategies.md) refer to [algorithmic trading](../a/algorithmic_trading.md) strategies that analyze financial [market](../m/market.md) data over specific time intervals or "windows" to identify trends, patterns, and potential trading opportunities. Unlike strategies that rely on real-time data or a single long-term perspective, windowed [trading strategies](../t/trading_strategies.md) segment historical and real-time data into discrete chunks. This segmentation can provide a more nuanced and adaptable approach to understanding [market](../m/market.md) behavior, ultimately informing more precise trading decisions.
 
 ## Table of Contents
 - Introduction to Windowed [Trading Strategies](../t/trading_strategies.md)
@@ -18,42 +18,42 @@ Windowed [Trading Strategies](../t/trading_strategies.md) refer to [algorithmic 
   - Data Preprocessing
   - Feature Engineering
   - Model Training and Validation
-- Applications in Market Scenarios
+- Applications in [Market](../m/market.md) Scenarios
   - High-Frequency Trading
   - [Swing Trading](../s/swing_trading.md)
   - [Intraday Trading](../i/intraday_trading.md)
 - Algorithm Examples
   - Moving Averages
   - [Mean Reversion](../m/mean_reversion.md)
-  - Momentum Strategies
+  - [Momentum](../m/momentum.md) Strategies
 - Tools and Platforms
   - Python Libraries (Pandas, Scikit-learn)
   - Trading Platforms ([QuantConnect](../q/quantconnect.md), [Alpaca](../a/alpaca.md))
 - Case Studies and Real-world Examples
 - Challenges and Considerations
   - Computational Complexity
-  - Overfitting and Underfitting
+  - [Overfitting](../o/overfitting.md) and Underfitting
   - Parameter Selection
 - Future Trends and Prospects
 - Conclusion
 
 ## Introduction to Windowed Trading Strategies
 
-Windowed [trading strategies](../t/trading_strategies.md) aim to manage and interpret the massive influx of financial data by breaking it down into manageable subsets or "windows." Each window represents a snapshot of the market over a specific time period, which is then used to derive actionable insights. This approach can accommodate diverse trading styles, from intraday to long-term investment horizons.
+Windowed [trading strategies](../t/trading_strategies.md) aim to manage and interpret the massive influx of financial data by breaking it down into manageable subsets or "windows." Each window represents a snapshot of the [market](../m/market.md) over a specific time period, which is then used to derive actionable insights. This approach can accommodate diverse trading styles, from intraday to long-term investment horizons.
 
-The primary goal of a windowed strategy is to continuously adjust the model based on recently observed data, allowing for dynamic and responsive trading decisions. The usage of windows helps in capturing the temporal structure and dependencies in the [financial time series](../f/financial_time_series.md) data, improving the robustness and adaptability of the trading strategy.
+The primary goal of a windowed strategy is to continuously adjust the model based on recently observed data, allowing for dynamic and responsive trading decisions. The usage of windows helps in capturing the temporal structure and dependencies in the [financial time series](../f/financial_time_series.md) data, improving the robustness and adaptability of the [trading strategy](../t/trading_strategy.md).
 
 ## Rationale and Objectives
 
 The fundamental rationale behind using windowed [trading strategies](../t/trading_strategies.md) lies in their ability to:
-1. Capture short-term market dynamics that may be overlooked by long-term models.
-2. Enhance the robustness of [trading strategies](../t/trading_strategies.md) by averaging out noise and anomalies.
-3. Enable adaptive responses to changing market conditions by updating models with recent data.
-4. Improve computational efficiency by processing smaller data sets at a time.
+1. Capture short-term [market dynamics](../m/market_dynamics.md) that may be overlooked by long-term models.
+2. Enhance the robustness of [trading strategies](../t/trading_strategies.md) by averaging out [noise](../n/noise.md) and anomalies.
+3. Enable adaptive responses to changing [market](../m/market.md) conditions by updating models with recent data.
+4. Improve computational [efficiency](../e/efficiency.md) by processing smaller data sets at a time.
 
 Key objectives include:
 - Optimizing the entry and exit points of trades.
-- Reducing exposure to volatility by mitigating sudden market shifts.
+- Reducing exposure to [volatility](../v/volatility.md) by mitigating sudden [market](../m/market.md) shifts.
 - Enhancing prediction accuracy by focusing on relevant data segments.
 
 ## Types of Windowed Trading Strategies
@@ -84,7 +84,7 @@ An expanding window strategy might start with 1 month of data, expanding to incl
 
 ### Fixed Windows
 
-Fixed windows divide the entire period of observation into equal segments, each considered separately. This non-overlapping approach can help in seasonal analysis or periodic trend examination.
+Fixed windows divide the entire period of observation into equal segments, each considered separately. This non-overlapping approach can help in seasonal analysis or periodic [trend](../t/trend.md) examination.
 
 **Key Characteristics:**
 - Non-overlapping windows.
@@ -96,7 +96,7 @@ A fixed window strategy might analyze quarterly financial data to make trading d
 
 ### Sliding Windows
 
-Sliding windows are a hybrid approach, maintaining a balance between rolling and fixed windows. They use a combination of old and new data by sliding over a fixed duration, but with some overlap.
+Sliding windows are a hybrid approach, maintaining a balance between rolling and fixed windows. They use a combination of old and new data by sliding over a fixed [duration](../d/duration.md), but with some overlap.
 
 **Key Characteristics:**
 - Partial overlap.
@@ -114,12 +114,12 @@ The lookback period determines how far back in time the data should be considere
 
 ### Window Size
 
-Window size defines the duration or number of observations within each window. It needs to be judiciously chosen based on the trading strategy and market behavior. Shorter windows are more responsive but may introduce noise, whereas longer windows reduce noise but may lag in responsiveness.
+Window size defines the [duration](../d/duration.md) or number of observations within each window. It needs to be judiciously chosen based on the [trading strategy](../t/trading_strategy.md) and [market](../m/market.md) behavior. Shorter windows are more responsive but may introduce [noise](../n/noise.md), whereas longer windows reduce [noise](../n/noise.md) but may lag in responsiveness.
 
 ### Overlapping vs. Non-overlapping Windows
 
 - **Overlapping Windows:** Include some of the same data points in successive windows, providing smoother transitions and highlighting short-term trends more distinctly.
-- **Non-overlapping Windows:** Each window includes unique data points, which can minimize the risk of overfitting but may miss short-term patterns.
+- **Non-overlapping Windows:** Each window includes unique data points, which can minimize the [risk](../r/risk.md) of [overfitting](../o/overfitting.md) but may miss short-term patterns.
 
 ## Implementation Techniques
 
@@ -135,14 +135,14 @@ Effective implementation starts with adequate data preprocessing:
 
 Feature engineering involves creating new variables to better capture the information inherent in the raw data. Techniques include:
 - **Moving Averages:** Simple Moving Average (SMA), Exponential Moving Average (EMA).
-- **Price Returns:** Logarithmic return, percent change.
-- **Volatility Measures:** Standard deviation, [Average True Range](../a/average_true_range_(atr).md) (ATR).
+- **Price Returns:** Logarithmic [return](../r/return.md), percent change.
+- **[Volatility](../v/volatility.md) Measures:** [Standard deviation](../s/standard_deviation.md), [Average True Range](../a/average_true_range_(atr).md) (ATR).
 
 ### Model Training and Validation
 
 Splitting the data into training and validation sets ensures unbiased model performance evaluation:
 - **Training Set:** Used to fit the model.
-- **Validation Set:** Used to fine-tune hyperparameters and prevent overfitting.
+- **Validation Set:** Used to fine-tune hyperparameters and prevent [overfitting](../o/overfitting.md).
 - **Cross-Validation:** Especially useful in windowed strategies, involves rolling or expanding validation to assess robustness.
 
 ## Applications in Market Scenarios
@@ -155,11 +155,11 @@ Windowed strategies are pivotal in high-frequency trading, where decisions are b
 ### Swing Trading
 
 Swing traders benefit from windowed strategies by capitalizing on short to medium-term trends:
-- Analyzing data over daily or weekly rolling windows to identify potential reversal points.
+- Analyzing data over daily or weekly rolling windows to identify potential [reversal](../r/reversal.md) points.
 
 ### Intraday Trading
 
-Intraday strategies leverage intraday windows to capitalize on within-day price movements:
+Intraday strategies [leverage](../l/leverage.md) intraday windows to [capitalize](../c/capitalize.md) on within-day price movements:
 - Using minute-level data windows to optimize entry and exit points throughout trading hours.
 
 ## Algorithm Examples
@@ -172,19 +172,19 @@ Moving averages smooth out price data to identify trends:
 
 ### Mean Reversion
 
-[Mean reversion](../m/mean_reversion.md) strategies assume that price will revert to the mean:
-- Using windows to calculate the mean and standard deviation, creating bands for [mean reversion](../m/mean_reversion.md) signals.
+[Mean reversion](../m/mean_reversion.md) strategies assume that price [will](../w/will.md) revert to the mean:
+- Using windows to calculate the mean and [standard deviation](../s/standard_deviation.md), creating bands for [mean reversion](../m/mean_reversion.md) signals.
 
 ### Momentum Strategies
 
-Momentum strategies exploit the tendency of assets to continue moving in the same direction:
-- Calculating [momentum indicators](../m/momentum_indicators.md) like RSI (Relative Strength Index) over specific windows to enter trades.
+[Momentum](../m/momentum.md) strategies exploit the tendency of assets to continue moving in the same direction:
+- Calculating [momentum indicators](../m/momentum_indicators.md) like RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index.md)) over specific windows to enter trades.
 
 ## Tools and Platforms
 
 ### Python Libraries
 
-Python offers robust libraries for implementing windowed strategies:
+Python offers [robust](../r/robust.md) libraries for implementing windowed strategies:
 - **Pandas:** For data manipulation and window functions. [Pandas](https://pandas.pydata.org)
 - **Scikit-learn:** For model building and validation. [Scikit-learn](https://scikit-learn.org)
 
@@ -192,36 +192,36 @@ Python offers robust libraries for implementing windowed strategies:
 
 Several platforms facilitate the development and deployment of windowed [trading strategies](../t/trading_strategies.md):
 - **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports Python and C#. [QuantConnect](https://www.quantconnect.com)
-- **[Alpaca](../a/alpaca.md):** Offers commission-free trading with an API ideal for algorithmic traders. [Alpaca](https://alpaca.markets)
+- **[Alpaca](../a/alpaca.md):** Offers [commission](../c/commission.md)-free trading with an API ideal for algorithmic traders. [Alpaca](https://alpaca.markets)
 
 ## Case Studies and Real-world Examples
 
-- **Renaissance Technologies:** Known for their Medallion Fund, utilizes advanced algorithmic strategies, potentially including windowed approaches for generating superior returns.
-- **Two Sigma:** Another quant hedge fund that may employ windowed strategies to harness data-driven opportunities.
+- **Renaissance Technologies:** Known for their Medallion [Fund](../f/fund.md), utilizes advanced algorithmic strategies, potentially including windowed approaches for generating superior returns.
+- **Two Sigma:** Another quant [hedge fund](../h/hedge_fund.md) that may employ windowed strategies to harness data-driven opportunities.
 
 ## Challenges and Considerations
 
 ### Computational Complexity
 
-Windowed strategies, especially with small window sizes and high-frequency data, can be computationally intensive, requiring robust computing infrastructure.
+Windowed strategies, especially with small window sizes and high-frequency data, can be computationally intensive, requiring [robust](../r/robust.md) computing [infrastructure](../i/infrastructure.md).
 
 ### Overfitting and Underfitting
 
 Balancing model complexity is crucial:
-- **Overfitting:** Models may perform exceptionally well on training data but poorly on new, unseen data.
-- **Underfitting:** Models too simple may fail to capture the underlying market dynamics.
+- **[Overfitting](../o/overfitting.md):** Models may perform exceptionally well on training data but poorly on new, unseen data.
+- **Underfitting:** Models too simple may [fail](../f/fail.md) to capture the [underlying](../u/underlying.md) [market dynamics](../m/market_dynamics.md).
 
 ### Parameter Selection
 
-Careful selection of window size and lookback period is critical. Strategies must be backtested extensively to find optimal parameters that work under various market conditions.
+Careful selection of window size and lookback period is critical. Strategies must be backtested extensively to find optimal parameters that work under various [market](../m/market.md) conditions.
 
 ## Future Trends and Prospects
 
 Advancements in machine learning and [data science](../d/data_science_in_trading.md) are continually evolving windowed [trading strategies](../t/trading_strategies.md):
-- **Deep Learning:** Incorporating [neural networks](../n/neural_networks_in_trading.md) for more sophisticated [pattern recognition](../p/pattern_recognition.md).
+- **[Deep Learning](../d/deep_learning.md):** Incorporating [neural networks](../n/neural_networks_in_trading.md) for more sophisticated [pattern recognition](../p/pattern_recognition.md).
 - **Reinforcement Learning:** Adaptive models that learn optimal trading actions.
 - **[Alternative Data](../a/alternative_data.md) Sources:** Utilizing non-traditional data like [social media sentiment](../s/social_media_sentiment.md).
 
 ## Conclusion
 
-Windowed [trading strategies](../t/trading_strategies.md) offer a powerful approach to managing and interpreting financial data, providing traders with robust, adaptable, and precise tools to navigate complex markets. By understanding and implementing these strategies through careful consideration of window sizes, feature engineering, and model validation, traders can enhance their decision-making processes and potentially improve their [trading performance](../t/trading_performance.md).
+Windowed [trading strategies](../t/trading_strategies.md) [offer](../o/offer.md) a powerful approach to managing and interpreting financial data, providing traders with [robust](../r/robust.md), adaptable, and precise tools to navigate complex markets. By understanding and implementing these strategies through careful consideration of window sizes, feature engineering, and model validation, traders can enhance their decision-making processes and potentially improve their [trading performance](../t/trading_performance.md).

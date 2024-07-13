@@ -1,29 +1,29 @@
 # Backtesting with R
 
-[Backtesting](../b/backtesting.md) is an essential process in the world of [algorithmic trading](../a/algorithmic_trading.md). It allows traders to simulate a trading strategy using historical data to determine its potential effectiveness before applying it in live markets. R, an open-source programming language and free software environment primarily used for statistical computing and data analysis, offers powerful tools to perform [backtesting](../b/backtesting.md) of [trading strategies](../t/trading_strategies.md).
+[Backtesting](../b/backtesting.md) is an essential process in the world of [algorithmic trading](../a/algorithmic_trading.md). It allows traders to simulate a [trading strategy](../t/trading_strategy.md) using historical data to determine its potential effectiveness before applying it in live markets. R, an [open](../o/open.md)-source programming language and free software environment primarily used for statistical computing and data analysis, offers powerful tools to perform [backtesting](../b/backtesting.md) of [trading strategies](../t/trading_strategies.md).
 
 ## Introduction to Backtesting
 
 ### What is Backtesting?
 
-[Backtesting](../b/backtesting.md) refers to the process of testing a trading strategy on historical data to evaluate its performance. The main objective is to estimate how well the strategy would have performed in the past, which can give insights into how it might perform in the future. The key components of [backtesting](../b/backtesting.md) include:
+[Backtesting](../b/backtesting.md) refers to the process of testing a [trading strategy](../t/trading_strategy.md) on historical data to evaluate its performance. The main objective is to estimate how well the strategy would have performed in the past, which can give insights into how it might perform in the future. The key components of [backtesting](../b/backtesting.md) include:
 
-- **Historical Data**: Past market data, including prices, volumes, and other relevant metrics.
-- **Trading Strategy**: A set of rules and algorithms that determine when to buy or sell assets.
-- **[Performance Metrics](../p/performance_metrics.md)**: Measurements such as return, risk, drawdown, and [Sharpe ratio](../s/sharpe_ratio.md) that help assess the strategy's success.
+- **Historical Data**: Past [market](../m/market.md) data, including prices, volumes, and other relevant metrics.
+- **[Trading Strategy](../t/trading_strategy.md)**: A set of rules and algorithms that determine when to buy or sell assets.
+- **[Performance Metrics](../p/performance_metrics.md)**: Measurements such as [return](../r/return.md), [risk](../r/risk.md), [drawdown](../d/drawdown.md), and [Sharpe ratio](../s/sharpe_ratio.md) that help assess the strategy's success.
 
 ### Importance of Backtesting
 
-[Backtesting](../b/backtesting.md) can help identify potential flaws and strengths in a trading strategy, providing valuable feedback for refinement. It is a crucial step before deploying a strategy in live trading to avoid significant financial losses.
+[Backtesting](../b/backtesting.md) can help identify potential flaws and strengths in a [trading strategy](../t/trading_strategy.md), providing valuable feedback for refinement. It is a crucial step before deploying a strategy in live trading to avoid significant financial losses.
 
 ## R for Backtesting
 
-R offers a rich ecosystem of packages and tools specifically designed for financial analysis and [backtesting](../b/backtesting.md). Some of the most prominent packages include:
+R offers a rich ecosystem of packages and tools specifically designed for [financial analysis](../f/financial_analysis.md) and [backtesting](../b/backtesting.md). Some of the most prominent packages include:
 
 - **quantmod**: Quantitative Financial Modelling Framework.
 - **PerformanceAnalytics**: Econometric tools for performance and [risk analysis](../r/risk_analysis.md).
 - **TTR**: Technical [Trading Rules](../t/trading_rules.md).
-- **xts**: eXtensible Time Series.
+- **xts**: eXtensible [Time Series](../t/time_series.md).
 
 ## Setting Up the Environment
 
@@ -38,7 +38,7 @@ install.packages("TTR")
 install.packages("xts")
 ```
 
-After installation, you need to load these packages into your R environment:
+After installation, you need to [load](../l/load.md) these packages into your R environment:
 
 ```R
 library(quantmod)
@@ -59,7 +59,7 @@ The data is stored in an `xts` object, which is suitable for time-series analysi
 
 ## Example Strategy: Moving Average Crossover
 
-One common trading strategy is the moving average crossover. This strategy uses two moving averages – a short-term and a long-term – to generate buy and sell signals.
+One common [trading strategy](../t/trading_strategy.md) is the moving average crossover. This strategy uses two moving averages – a short-term and a long-term – to generate buy and sell signals.
 
 ### Calculating Moving Averages
 
@@ -113,14 +113,14 @@ print(sharpe_ratio)
 
 ## Advanced Backtesting with R
 
-More advanced [backtesting](../b/backtesting.md) involves additional considerations such as handling transaction costs, applying [risk management](../r/risk_management.md) rules, and conducting [out-of-sample testing](../o/out-of-sample_testing.md).
+More advanced [backtesting](../b/backtesting.md) involves additional considerations such as handling [transaction costs](../t/transaction_costs.md), applying [risk management](../r/risk_management.md) rules, and conducting [out-of-sample testing](../o/out-of-sample_testing.md).
 
 ### Transaction Costs
 
-To incorporate transaction costs, adjust the returns by subtracting a fixed cost per trade:
+To incorporate [transaction costs](../t/transaction_costs.md), adjust the returns by subtracting a [fixed cost](../f/fixed_cost.md) per [trade](../t/trade.md):
 
 ```R
-transaction_cost <- 0.001 # Example: 0.1% per trade
+transaction_cost <- 0.001 # Example: 0.1% per [trade](../t/trade.md)
 adjusted_returns <- strategy_returns - transaction_cost * abs(signal)
 ```
 
@@ -130,14 +130,14 @@ Implementing [risk management](../r/risk_management.md) techniques like [positio
 
 ```R
 # Position Sizing based on fixed percentage of equity
-equity <- 100000 # Initial equity
-position_size <- 0.01 # Risk 1% of equity per trade
+[equity](../e/equity.md) <- 100000 # Initial [equity](../e/equity.md)
+position_size <- 0.01 # [Risk](../r/risk.md) 1% of [equity](../e/equity.md) per [trade](../t/trade.md)
 
 # Stop-Loss Example: Exit if loss exceeds 2%
 stop_loss <- 0.02
 
 # Calculate adjusted returns with position sizing
-adjusted_returns <- returns * signal * (equity * position_size)
+adjusted_returns <- returns * signal * ([equity](../e/equity.md) * position_size)
 adjusted_returns <- pmin(adjusted_returns, -stop_loss)
 ```
 
@@ -166,4 +166,4 @@ charts.PerformanceSummary(test_strategy_returns)
 
 ## Conclusion
 
-[Backtesting](../b/backtesting.md) is a critical procedure in developing and validating [trading strategies](../t/trading_strategies.md). R, with its extensive libraries and powerful data manipulation capabilities, provides an excellent platform for executing and refining backtests. By carefully evaluating the [performance metrics](../p/performance_metrics.md) and applying advanced techniques, traders can enhance their strategies' effectiveness and robustness before risking real capital in live markets.
+[Backtesting](../b/backtesting.md) is a critical procedure in developing and validating [trading strategies](../t/trading_strategies.md). R, with its extensive libraries and powerful data manipulation capabilities, provides an excellent platform for executing and refining backtests. By carefully evaluating the [performance metrics](../p/performance_metrics.md) and applying advanced techniques, traders can enhance their strategies' effectiveness and robustness before risking real [capital](../c/capital.md) in live markets.

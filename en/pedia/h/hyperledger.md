@@ -1,12 +1,12 @@
 # Hyperledger
 
-Hyperledger is an open-source collaborative effort created to advance cross-industry blockchain technologies. It is hosted by The Linux Foundation and includes leaders in finance, banking, Internet of Things, supply chains, manufacturing, and technology. The platform is designed to support the management and optimization of blockchain, making it easier for organizations to create and deploy blockchain applications. Hyperledger's modular architecture allows developers to utilize only those blocks they need, optimizing their blockchain for their specific use cases.
+Hyperledger is an [open](../o/open.md)-source collaborative effort created to advance cross-[industry](../i/industry.md) [blockchain](../b/blockchain_in_trading.md) technologies. It is hosted by The Linux Foundation and includes leaders in [finance](../f/finance.md), banking, Internet of Things, [supply](../s/supply.md) chains, [manufacturing](../m/manufacturing.md), and technology. The platform is designed to support the management and [optimization](../o/optimization.md) of [blockchain](../b/blockchain_in_trading.md), making it easier for organizations to create and deploy [blockchain](../b/blockchain_in_trading.md) applications. Hyperledger's modular architecture allows developers to utilize only those blocks they need, optimizing their [blockchain](../b/blockchain_in_trading.md) for their specific use cases.
 
 ## Objectives of Hyperledger
 
-1. **Blockchain For Business**: Hyperledger is focused on creating blockchain frameworks and platforms aimed specifically at business use. It ensures that the solutions are capable of handling the performance and confidentiality essential for business transactions.
+1. **[Blockchain](../b/blockchain_in_trading.md) For [Business](../b/business.md)**: Hyperledger is focused on creating [blockchain](../b/blockchain_in_trading.md) frameworks and platforms aimed specifically at [business](../b/business.md) use. It ensures that the solutions are capable of handling the performance and confidentiality essential for [business](../b/business.md) transactions.
    
-2. **Modular Architecture**: One of the primary goals is to create a modular architecture, making it easy for organizations to mix and match components to overcome specific business needs. This modularity translates to flexibility, enabling implementers to tailor blockchain networks.
+2. **Modular Architecture**: One of the primary goals is to create a modular architecture, making it easy for organizations to mix and match components to overcome specific [business](../b/business.md) needs. This modularity translates to flexibility, enabling implementers to tailor [blockchain](../b/blockchain_in_trading.md) networks.
    
 3. **Collaborative Development**: Hyperledger encourages collaborative development. This ecosystem approach ensures rapid innovation and shared solutions for common problems.
 
@@ -14,27 +14,27 @@ Hyperledger is an open-source collaborative effort created to advance cross-indu
 
 ### Hyperledger Fabric
 
-Hyperledger Fabric is an enterprise-grade, distributed ledger platform that uses smart contracts to support data privacy and confidentiality requirements. Fabric is designed for use cases across a variety of industries.
+[Hyperledger Fabric](../h/hyperledger_fabric.md) is an enterprise-grade, distributed ledger platform that uses [smart contracts](../s/smart_contracts_in_trading.md) to support data privacy and confidentiality requirements. Fabric is designed for use cases across a variety of industries.
 
 #### Key Features
 
-- **Modularity**: Hyperledger Fabric is fully modular. Components such as consensus and membership services are plug-and-play.
-- **Permissioned**: Access to the ledger can be restricted to approved members, enhancing security.
-- **Multi-Language Smart Contracts**: It supports Chaincode (smart contracts) written in Go, JavaScript, and Java.
+- **Modularity**: [Hyperledger Fabric](../h/hyperledger_fabric.md) is fully modular. Components such as consensus and membership services are plug-and-play.
+- **Permissioned**: Access to the ledger can be restricted to approved members, enhancing [security](../s/security.md).
+- **Multi-Language [Smart Contracts](../s/smart_contracts_in_trading.md)**: It supports Chaincode ([smart contracts](../s/smart_contracts_in_trading.md)) written in Go, JavaScript, and Java.
 
 ### Hyperledger Sawtooth
 
-Hyperledger Sawtooth provides a highly modular platform for building, deploying, and running distributed ledgers. It aims to keep ledgers distributed and maintain Smart Contract and transaction logic free from the core system, making it suitable for large enterprises.
+[Hyperledger Sawtooth](../h/hyperledger_sawtooth.md) provides a highly modular platform for building, deploying, and running [distributed ledgers](../d/distributed_ledgers.md). It aims to keep ledgers distributed and maintain Smart Contract and [transaction](../t/transaction.md) logic free from the core system, making it suitable for large enterprises.
 
 #### Key Features
 
-- **Parallel Transaction Execution**: Enhances throughput and scalability.
+- **Parallel [Transaction Execution](../t/transaction_execution.md)**: Enhances [throughput](../t/throughput.md) and [scalability](../s/scalability.md).
 - **Dynamic Consensus**: Consensus can be adjusted without stopping the network or rewriting code.
-- **Flexible Permissioning**: Allows for public and permissioned blockchain applications.
+- **Flexible Permissioning**: Allows for public and permissioned [blockchain](../b/blockchain_in_trading.md) applications.
 
 ### Hyperledger Iroha
 
-Hyperledger Iroha is a blockchain framework tailored for simple and straightforward use case integrations. It is particularly focused on mobile development.
+[Hyperledger Iroha](../h/hyperledger_iroha.md) is a [blockchain](../b/blockchain_in_trading.md) framework tailored for simple and straightforward use case integrations. It is particularly focused on mobile development.
 
 #### Key Features
 
@@ -52,18 +52,18 @@ Hyperledger Indy is a distributed ledger system designed for decentralized ident
 
 ### Hyperledger Besu
 
-Hyperledger Besu is an Ethereum client designed for enterprise use. It can be used for both public and private networks.
+Hyperledger Besu is an [Ethereum](../e/ethereum_.md) client designed for enterprise use. It can be used for both public and private networks.
 
 #### Key Features
 
 - **Enterprise Integration**: It includes features that support enterprise use cases like monitoring, permissioning, and enhanced privacy.
-- **Standards-Based**: Built to comply with the existing Ethereum specifications, ensuring compatibility.
+- **Standards-Based**: Built to comply with the existing [Ethereum](../e/ethereum_.md) specifications, ensuring compatibility.
 
 ## Governance and Community
 
 ### The Linux Foundation
 
-Hyperledger is governed by The Linux Foundation, which administers a variety of collaborative projects. The foundation plays a pivotal role in the governance of the project by maintaining infrastructure, legal support, and empowering collaboration among project contributors.
+Hyperledger is governed by The Linux Foundation, which administers a variety of collaborative projects. The foundation plays a pivotal role in the governance of the project by maintaining [infrastructure](../i/infrastructure.md), legal support, and empowering collaboration among project contributors.
 
 ### Technical Steering Committee (TSC)
 
@@ -71,21 +71,21 @@ The TSC governs and maintains the strategic direction and administrative matters
 
 ### Collaboration with Industry
 
-Hyperledger actively collaborates with industry leaders. Its network ranges across finance, banking, IoT, supply chain, and technology, ensuring that the blockchain solutions meet real-world, industrial needs.
+Hyperledger actively collaborates with [industry](../i/industry.md) leaders. Its network ranges across [finance](../f/finance.md), banking, IoT, [supply chain](../s/supply_chain.md), and technology, ensuring that the [blockchain](../b/blockchain_in_trading.md) solutions meet real-world, industrial needs.
 
 ## Use Cases
 
 ### Supply Chain Management
 
-**IBM Food Trust**: IBM Food Trust leverages Hyperledger Fabric to create a more transparent and efficient supply chain. It tracks every step of the supply process, from farm to table, ensuring better transparency and food safety.
+**IBM Food [Trust](../t/trust.md)**: IBM Food [Trust](../t/trust.md) leverages [Hyperledger Fabric](../h/hyperledger_fabric.md) to create a more transparent and efficient [supply chain](../s/supply_chain.md). It tracks every step of the [supply](../s/supply.md) process, from farm to table, ensuring better [transparency](../t/transparency.md) and food safety.
 
 ### Healthcare
 
-**Change Healthcare**: This healthcare technology company uses Hyperledger Fabric to improve the transparency and auditability of healthcare transactions, aiming to reduce administration costs and enhance patient care.
+**Change Healthcare**: This healthcare technology company uses [Hyperledger Fabric](../h/hyperledger_fabric.md) to improve the [transparency](../t/transparency.md) and auditability of healthcare transactions, aiming to reduce administration costs and enhance patient care.
 
 ### Finance
 
-**We.Trade**: Leveraging Hyperledger Fabric, We.Trade facilitates open-account trade for both small and medium-sized enterprises, providing a more secure and efficient trade finance system.
+**We.[Trade](../t/trade.md)**: Leveraging [Hyperledger Fabric](../h/hyperledger_fabric.md), We.[Trade](../t/trade.md) facilitates [open](../o/open.md)-account [trade](../t/trade.md) for both small and medium-sized enterprises, providing a more secure and efficient [trade finance](../t/trade_finance.md) system.
 
 ### Digital Identity
 
@@ -93,4 +93,4 @@ Hyperledger actively collaborates with industry leaders. Its network ranges acro
 
 ## Conclusion
 
-Hyperledger provides a versatile, modular suite of frameworks, tools, and libraries that empower industries with secure, interoperable blockchain solutions. Its focus on enterprise needs, combined with a strong collaborative community, makes it an outstanding platform for developing robust and scalable blockchain applications.
+Hyperledger provides a versatile, modular suite of frameworks, tools, and libraries that empower industries with secure, interoperable [blockchain](../b/blockchain_in_trading.md) solutions. Its focus on enterprise needs, combined with a strong collaborative community, makes it an outstanding platform for developing [robust](../r/robust.md) and scalable [blockchain](../b/blockchain_in_trading.md) applications.

@@ -1,11 +1,11 @@
 # Named Perils Insurance Policy
 
-A Named Perils Insurance Policy, often referred to simply as a "Named Perils Policy," is a type of property insurance that only provides coverage for incidents explicitly listed in the policy documents. This stands in contrast to an All-Risks (or Open Perils) policy, which covers all losses unless they are specifically excluded. Named Perils Policies are commonly used for both personal and commercial property insurance and can be tailored to meet the specific needs of the insured party.
+A Named Perils [Insurance](../i/insurance.md) Policy, often referred to simply as a "Named Perils Policy," is a type of [property insurance](../p/property_insurance.md) that only provides coverage for incidents explicitly [listed](../l/listed.md) in the policy documents. This stands in contrast to an All-Risks (or [Open](../o/open.md) Perils) policy, which covers all losses unless they are specifically excluded. Named Perils Policies are commonly used for both personal and commercial [property insurance](../p/property_insurance.md) and can be tailored to meet the specific needs of the insured party.
 
 ## Key Components
 
 ### Definition of Perils
-Perils are specific risks or causes of loss that an insurance policy can cover. In a Named Perils Policy, only the perils explicitly listed in the policy document are covered. Commonly included perils are:
+Perils are specific risks or causes of loss that an [insurance](../i/insurance.md) policy can cover. In a Named Perils Policy, only the perils explicitly [listed](../l/listed.md) in the policy document are covered. Commonly included perils are:
 
 1. **Fire**: Damage caused by fire and sometimes smoke.
 2. **Theft**: Loss resulting from burglary or theft.
@@ -21,20 +21,20 @@ Perils are specific risks or causes of loss that an insurance policy can cover. 
 12. **Water Damage**: Damage due to broken pipes or overflow from appliances (typically not from natural flooding).
 
 ### Policy Structure
-A Named Perils Policy includes several sections that detail the scope of coverage, exclusions, conditions, and endorsements. 
+A Named Perils Policy includes several sections that detail the [scope](../s/scope.md) of coverage, exclusions, conditions, and endorsements. 
 
-1. **Declarations Page**: This outlines basic information such as the insured property's address, the names of the insured parties, the policy period, premium amounts, and the coverage limits.
+1. **Declarations Page**: This outlines basic information such as the insured property's address, the names of the insured parties, the policy period, [premium](../p/premium.md) amounts, and the coverage limits.
 2. **Insuring Agreement**: This section specifies what perils are covered and under what circumstances.
-3. **Exclusions**: Explicitly lists what is not covered by the policy. Even if a peril is listed as covered, certain scenarios might be excluded.
+3. **Exclusions**: Explicitly lists what is not covered by the policy. Even if a peril is [listed](../l/listed.md) as covered, certain scenarios might be excluded.
 4. **Conditions**: Conditions under which the policy is valid, including the responsibilities of the insured during a loss, how to file a claim, and any actions that can void the policy.
 5. **Endorsements**: Optional additional coverages or modifications to the standard policy, which can be added based on individual needs.
 
 ### Policy Limits and Deductibles
-Policy limits define the maximum amount the insurer will pay for a covered loss. Deductibles are the amount the insured party must pay out of pocket before the insurance coverage kicks in. 
+Policy limits define the maximum amount the insurer [will](../w/will.md) pay for a covered loss. Deductibles are the amount the insured party must pay out of pocket before the [insurance](../i/insurance.md) coverage kicks in. 
 
 1. **Per Occurrence Limit**: The maximum amount payable for a single incident.
 2. **Aggregate Limit**: The total maximum amount payable during the policy term.
-3. **Deductible**: This can be either a fixed amount or a percentage of the insured value, depending on the policy terms.
+3. **Deductible**: This can be either a fixed amount or a percentage of the insured [value](../v/value.md), depending on the policy terms.
 
 ## Advantages and Disadvantages
 
@@ -44,9 +44,9 @@ Policy limits define the maximum amount the insurer will pay for a covered loss.
 3. **Customization**: Policies can be tailored to the specific risks that are most likely to affect the insured.
 
 ### Disadvantages
-1. **Limited Coverage**: Only the listed perils are covered, which may leave gaps in protection.
+1. **Limited Coverage**: Only the [listed](../l/listed.md) perils are covered, which may leave [gaps](../g/gap.md) in protection.
 2. **Claim Disputes**: Disputes may arise over whether a particular peril caused the damage.
-3. **Potential for Underinsurance**: If a peril that occurs is not listed, the insured may face significant uncovered losses.
+3. **Potential for [Underinsurance](../u/underinsurance.md)**: If a peril that occurs is not [listed](../l/listed.md), the insured may face significant uncovered losses.
 
 ## Use Cases
 
@@ -59,30 +59,30 @@ Businesses may use Named Perils Policies to protect their assets from specific r
 ## Customization and Optional Add-Ons
 
 ### Endorsements and Riders
-These are additional coverages that can be added to a named perils policy to enhance its protection scope. Common endorsements include:
+These are additional coverages that can be added to a named perils policy to enhance its protection [scope](../s/scope.md). Common endorsements include:
 
-1. **Flood Insurance**: Because natural flooding is often excluded, this can be added as an endorsement.
-2. **Earthquake Insurance**: Another peril commonly excluded from standard named perils policies.
-3. **Business Interruption**: Covers loss of income resulting from a covered peril disrupting business operations.
+1. **Flood [Insurance](../i/insurance.md)**: Because natural flooding is often excluded, this can be added as an [endorsement](../e/endorsement.md).
+2. **Earthquake [Insurance](../i/insurance.md)**: Another peril commonly excluded from standard named perils policies.
+3. **[Business](../b/business.md) Interruption**: Covers loss of [income](../i/income.md) resulting from a covered peril disrupting [business](../b/business.md) operations.
 4. **Equipment Breakdown**: Covers mechanical or electrical breakdowns of equipment.
 
 ### Scheduled Property
-For high-value items, specific coverage can be scheduled into the policy. For example, expensive jewelry or artwork can be itemized and insured for its appraised value.
+For high-[value](../v/value.md) items, specific coverage can be scheduled into the policy. For example, expensive jewelry or artwork can be itemized and insured for its appraised [value](../v/value.md).
 
 ## Claim Process
 
 1. **Reporting a Loss**: The insured must report a loss as soon as possible, providing details about the incident and the estimated damage or loss.
 2. **Inspection and Assessment**: The insurer may send an adjuster to inspect the damage and assess the loss.
-3. **Documentation**: The insured must provide proof of loss, which typically includes receipts, photographs, and any other evidence supporting the claim.
-4. **Approval and Payment**: Once the insurer approves the claim, they will disburse the payment up to the policy limits, minus any applicable deductible.
+3. **Documentation**: The insured must provide proof of loss, which typically includes [receipts](../r/receipt.md), photographs, and any other evidence supporting the claim.
+4. **Approval and [Payment](../p/payment.md)**: Once the insurer approves the claim, they [will](../w/will.md) disburse the [payment](../p/payment.md) up to the policy limits, minus any applicable deductible.
 
 ## Real-World Examples
 
 ### Insurance Companies Offering Named Perils Policies
-- **State Farm**: Known for providing a range of homeowner's insurance options, including Named Perils and All-Risks Policies. [State Farm](https://www.statefarm.com)
-- **Allstate**: Offers customizable home insurance policies with options for named perils coverage. [Allstate](https://www.allstate.com)
-- **Liberty Mutual**: Provides flexible home insurance solutions with options to include or exclude specific perils. [Liberty Mutual](https://www.libertymutual.com)
+- **State Farm**: Known for providing a [range](../r/range.md) of homeowner's [insurance](../i/insurance.md) [options](../o/options.md), including Named Perils and All-Risks Policies. [State Farm](https://www.statefarm.com)
+- **Allstate**: Offers customizable [home](../h/home.md) [insurance](../i/insurance.md) policies with [options](../o/options.md) for named perils coverage. [Allstate](https://www.allstate.com)
+- **Liberty Mutual**: Provides flexible [home](../h/home.md) [insurance](../i/insurance.md) solutions with [options](../o/options.md) to include or exclude specific perils. [Liberty Mutual](https://www.libertymutual.com)
 
 ## Conclusion
 
-A Named Perils Insurance Policy offers a straightforward, cost-effective way to protect against specific risks. By understanding the specific perils covered and the limitations of such policies, individuals and businesses can make informed decisions to best protect their assets. Customization options and additional endorsements can enhance the breadth of coverage, ensuring a well-rounded insurance plan tailored to specific needs.
+A Named Perils [Insurance](../i/insurance.md) Policy offers a straightforward, cost-effective way to protect against specific risks. By understanding the specific perils covered and the limitations of such policies, individuals and businesses can make informed decisions to best protect their assets. Customization [options](../o/options.md) and additional endorsements can enhance the breadth of coverage, ensuring a well-rounded [insurance](../i/insurance.md) plan tailored to specific needs.

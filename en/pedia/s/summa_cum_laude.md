@@ -1,7 +1,7 @@
 # Summa Cum Laude
 
 ## Definition
-"Summa cum laude" is a Latin phrase meaning "with highest distinction" or "with highest honor." It is an academic honor used by educational institutions to recognize students who have achieved the highest levels of academic excellence during their studies.
+"Summa [cum laude](../c/cum_laude.md)" is a Latin phrase meaning "with highest distinction" or "with highest honor." It is an academic honor used by educational institutions to recognize students who have achieved the highest levels of academic excellence during their studies.
 
 ## Key Features
 
@@ -15,9 +15,9 @@
 
 ### 3. Hierarchy of Honors
 - Part of a three-tiered Latin honor system:
-  1. Cum laude ("with distinction")
-  2. Magna cum laude ("with great distinction")
-  3. Summa cum laude ("with highest distinction")
+  1. [Cum laude](../c/cum_laude.md) ("with distinction")
+  2. [Magna cum laude](../m/magna_cum_laude.md) ("with great distinction")
+  3. Summa [cum laude](../c/cum_laude.md) ("with highest distinction")
 
 ## Typical Requirements
 
@@ -83,11 +83,11 @@
 
 3. **Criticism**
    - Some argue it places too much emphasis on grades over other forms of achievement
-   - Debates about grade inflation affecting the significance of the honor
+   - Debates about grade [inflation](../i/inflation.md) affecting the significance of the honor
 
 ## Related Concepts
 
 - Dean's List
 - Valedictorian
 - Salutatorian
-- Phi Beta Kappa (and other honor societies)
+- Phi [Beta](../b/beta.md) [Kappa](../k/kappa.md) (and other honor societies)

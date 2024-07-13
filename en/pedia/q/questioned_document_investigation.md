@@ -1,6 +1,6 @@
 # Questioned Document Investigation
 
-Questioned document investigation is a specialized branch of forensic science focused on the examination, analysis, and interpretation of documents that are under suspicion for authenticity, origin, or alterations. This field encompasses a wide range of methodologies and techniques to analyze physical and digital documents, ranging from handwriting analysis to the chemical composition of inks and papers. Below, we explore the various facets of questioned document investigation in comprehensive detail.
+Questioned document investigation is a specialized branch of forensic science focused on the examination, analysis, and interpretation of documents that are under suspicion for authenticity, origin, or alterations. This field encompasses a wide [range](../r/range.md) of methodologies and techniques to analyze physical and digital documents, ranging from handwriting analysis to the chemical composition of inks and papers. Below, we explore the various facets of questioned document investigation in comprehensive detail.
 
 ## Introduction to Questioned Document Investigation
 
@@ -8,7 +8,7 @@ Questioned document investigation involves the comprehensive examination of any 
 
 ### Historical Background
 
-The history of questioned document examination dates back centuries, with early forms of document authentication involving simple observational techniques. The field began to gain formal recognition in the late 19th and early 20th centuries as legal systems and commercial activities demanded more rigorous standards of proof for documents.
+The history of questioned document examination dates back centuries, with early forms of document authentication involving simple observational techniques. The field began to [gain](../g/gain.md) formal recognition in the late 19th and early 20th centuries as legal systems and commercial activities demanded more rigorous standards of proof for documents.
 
 ### Importance in Forensic Science
 
@@ -22,7 +22,7 @@ One of the most prominent techniques in questioned document investigation is han
 
 - Individual letter forms
 - Pen pressure
-- Stroke order and length
+- Stroke [order](../o/order.md) and length
 - Slant and spacing
 
 ### Typewriting and Printing Analysis
@@ -31,7 +31,7 @@ Investigators also examine documents produced by typewriters and printers. The a
 
 - Comparing typefaces and font sizes
 - Identifying typewriter ribbons and print patterns
-- Evaluating wear and ink distribution as unique identifiers
+- Evaluating wear and ink [distribution](../d/distribution.md) as unique identifiers
 
 ### Ink and Paper Analysis
 
@@ -44,7 +44,7 @@ Chemical analysis of ink and paper can reveal much about a document’s origin a
 
 This involves looking at attributes such as:
 
-- Watermarks: Unique designs embedded in the paper during the manufacturing process.
+- Watermarks: Unique designs embedded in the paper during the [manufacturing](../m/manufacturing.md) process.
 - Impressions: Indentations or markings left on the paper from other documents or objects.
 - Stamps and Seals: Analyzing official or adhesive stamps to verify their authenticity.
 
@@ -74,10 +74,10 @@ Documents play a significant role in legal proceedings. Questioned document inve
 
 ### Fraud Detection
 
-In the corporate world, document fraud can entail significant financial losses. Investigators may be involved in cases of:
+In the corporate world, document [fraud](../f/fraud.md) can entail significant financial losses. Investigators may be involved in cases of:
 
-- Check forgery
-- Counterfeit currency
+- [Check](../c/check.md) forgery
+- Counterfeit [currency](../c/currency.md)
 - Misappropriation of company documents
 
 ### Historical Document Authentication
@@ -123,7 +123,7 @@ A career in questioned document examination typically requires a background in f
 
 ### Certification Bodies
 
-Professional certification is often necessary to provide expert testimony. Organizations offering certification include:
+Professional certification is often necessary to provide expert testimony. Organizations [offering](../o/offering.md) certification include:
 
 - **American Board of Forensic Document Examiners (ABFDE)**
 - **Forensic Specialties Accreditation Board (FSAB)**
@@ -144,13 +144,13 @@ Document examiners often deal with sensitive information. Adhering to strict con
 
 Technological advances continue to shape the future of questioned document investigation:
 
-- **Artificial Intelligence (AI):** AI and machine learning algorithms are being developed to enhance document analysis and pattern recognition in handwriting.
-- **Blockchain:** For digital documents, blockchain technology may offer new ways to verify authenticity and track changes.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI):** AI and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are being developed to enhance document analysis and [pattern recognition](../p/pattern_recognition.md) in handwriting.
+- **[Blockchain](../b/blockchain_in_trading.md):** For digital documents, [blockchain](../b/blockchain_in_trading.md) technology may [offer](../o/offer.md) new ways to verify authenticity and track changes.
 
 ### Expanding Applications
 
-As digital documentation becomes more prevalent, the field will likely expand to cover new types of documents and forms of tampering, necessitating continuous learning and adaptation by professionals in the field.
+As digital documentation becomes more prevalent, the field [will](../w/will.md) likely expand to cover new types of documents and forms of tampering, necessitating continuous learning and adaptation by professionals in the field.
 
 ## Conclusion
 
-Questioned document investigation is a vital area of forensic science that combines traditional techniques with modern technology to address challenges in authenticating and analyzing documents. From handwriting analysis to digital document examination, the field offers robust methods for uncovering the truth behind disputed documents and plays an indispensable role in legal and historical contexts.
+Questioned document investigation is a vital area of forensic science that combines traditional techniques with modern technology to address challenges in authenticating and analyzing documents. From handwriting analysis to digital document examination, the field offers [robust](../r/robust.md) methods for uncovering the truth behind disputed documents and plays an indispensable role in legal and historical contexts.

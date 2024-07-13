@@ -2,11 +2,11 @@
 
 ## Introduction to Free On Board (FOB)
 
-Free On Board (FOB) is an international commercial term that is crucial in the realm of global trade and shipping. It is an Incoterm defined by the International Chamber of Commerce (ICC) to specify which party incurs the costs and risks related to the transportation of goods. The term indicates that the seller delivers the goods on board a ship chosen by the buyer. The risk of loss or damage to the goods passes from the seller to the buyer once the goods are on board the vessel, and from that point forward, the buyer is responsible for all costs and risks.
+Free On Board (FOB) is an international commercial term that is crucial in the realm of global [trade](../t/trade.md) and shipping. It is an Incoterm defined by the International Chamber of [Commerce](../c/commerce.md) (ICC) to specify which party incurs the costs and risks related to the transportation of goods. The term indicates that the seller delivers the goods on board a ship chosen by the buyer. The [risk](../r/risk.md) of loss or damage to the goods passes from the seller to the buyer once the goods are on board the vessel, and from that point forward, the buyer is responsible for all costs and risks.
 
 ## Historical Context
 
-The term FOB has been utilized in commercial transactions for centuries, evolving along with the global shipping industry. Historically, it was used in marine shipping to provide a clear demarcation of when liabilities and responsibilities shifted from the seller to the buyer. Over time, as shipping practices and international trade bodies formalized, FOB became standardized, making it easier for cross-border transactions to occur with clear terms.
+The term FOB has been utilized in commercial transactions for centuries, evolving along with the global shipping [industry](../i/industry.md). Historically, it was used in marine shipping to provide a clear demarcation of when liabilities and responsibilities shifted from the seller to the buyer. Over time, as shipping practices and international [trade](../t/trade.md) bodies formalized, FOB became standardized, making it easier for cross-border transactions to occur with clear terms.
 
 ## Key Elements of FOB
 
@@ -18,16 +18,16 @@ In an FOB agreement, the critical point is when the goods pass the ship's rail a
 
 Up until the point of transfer, the seller must ensure that:
 - The goods are suitably packed and ready for shipment.
-- All export customs documentation is correctly processed.
+- All [export](../e/export.md) customs documentation is correctly processed.
 - The goods are delivered to the port of shipment and loaded onto the vessel.
 
 ### Costs and Responsibilities Post-Transfer
 
 After the goods pass the ship’s rail, the buyer is responsible for:
 - Freight costs.
-- Insurance premiums.
+- [Insurance](../i/insurance.md) premiums.
 - Unloading fees at the destination port.
-- Import duties and taxes.
+- [Import](../i/import.md) duties and [taxes](../t/taxes.md).
 - Transportation costs from the port of arrival to the final destination.
 
 ## FOB Variations
@@ -44,11 +44,11 @@ With FOB Destination, the seller retains ownership and responsibility for the go
 
 ### Trade Agreements and Shipping
 
-In international trade, FOB terms are frequently part of broader trade agreements and shipping contracts. They ensure clarity and mitigate disputes regarding who bears the costs and risks at various stages of shipment. By utilizing FOB, buyers and sellers can efficiently navigate logistics and finances associated with global trade.
+In international [trade](../t/trade.md), FOB terms are frequently part of broader [trade](../t/trade.md) agreements and shipping contracts. They ensure clarity and mitigate disputes regarding who bears the costs and risks at various stages of shipment. By utilizing FOB, buyers and sellers can efficiently navigate [logistics](../l/logistics.md) and finances associated with global [trade](../t/trade.md).
 
 ### Legal Considerations
 
-The FOB term also has legal implications, especially in case of loss or damage during transit. By clearly defining when the responsibility shifts, parties can better argue liability. Legal frameworks in international trade often refer to FOB stipulations to resolve disputes.
+The FOB term also has legal implications, especially in case of loss or damage during transit. By clearly defining when the responsibility shifts, parties can better argue [liability](../l/liability.md). Legal frameworks in international [trade](../t/trade.md) often refer to FOB stipulations to resolve disputes.
 
 ## Real-World Examples
 
@@ -71,22 +71,22 @@ An agricultural products exporter in Brazil sells soybeans to a buyer in China u
 ### Drawbacks
 
 - **Initial Costs:** Sellers may face significant initial costs related to transporting goods to the port and loading them.
-- **Risk Transfer:** For buyers, the early transfer of risk (FOB Shipping Point) can result in exposure to potential damages or losses during transit.
+- **[Risk](../r/risk.md) Transfer:** For buyers, the early [transfer of risk](../t/transfer_of_risk.md) (FOB Shipping Point) can result in exposure to potential damages or losses during transit.
 
 ## Technological Impact on FOB
 
 ### Supply Chain Management Software
 
-Modern supply chain management software can help manage and track FOB terms more efficiently. These technologies provide real-time notifications and updates, ensuring that both buyers and sellers are informed about the status and location of shipments, thus mitigating risks.
+Modern [supply chain](../s/supply_chain.md) management software can help manage and track FOB terms more efficiently. These technologies provide real-time notifications and updates, ensuring that both buyers and sellers are informed about the status and location of shipments, thus mitigating risks.
 
 ### Blockchain Technology
 
-Blockchain offers potential improvements in handling FOB terms by providing an immutable ledger where all parties involved can verify the transaction history, ensuring transparency and reducing the risk of disputes.
+[Blockchain](../b/blockchain_in_trading.md) offers potential improvements in handling FOB terms by providing an immutable ledger where all parties involved can verify the [transaction](../t/transaction.md) history, ensuring [transparency](../t/transparency.md) and reducing the [risk](../r/risk.md) of disputes.
 
 ## Case Study: Maersk
 
-Maersk, a leading global shipping company, has implemented solutions leveraging blockchain to enhance transparency and efficiency in trade operations, including transactions under FOB terms. More information can be found on their official website: [Maersk](https://www.maersk.com/).
+Maersk, a leading global shipping company, has implemented solutions leveraging [blockchain](../b/blockchain_in_trading.md) to enhance [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in [trade](../t/trade.md) operations, including transactions under FOB terms. More information can be found on their official website: [Maersk](https://www.maersk.com/).
 
 ## Conclusion
 
-Understanding Free On Board (FOB) is essential for anyone involved in international trade. By clearly delineating the transfer of costs and risks from the seller to the buyer, FOB terms help streamline global commerce. Whether opting for FOB Shipping Point or FOB Destination, the key is ensuring that both parties are aware of their responsibilities and prepared to manage them effectively. The adoption of modern technologies like supply chain management software and blockchain further enhances the management and tracking of FOB terms, fostering greater transparency and efficiency in international trade.
+Understanding Free On Board (FOB) is essential for anyone involved in international [trade](../t/trade.md). By clearly delineating the transfer of costs and risks from the seller to the buyer, FOB terms help streamline global [commerce](../c/commerce.md). Whether opting for FOB Shipping Point or FOB Destination, the key is ensuring that both parties are aware of their responsibilities and prepared to manage them effectively. The adoption of modern technologies like [supply chain](../s/supply_chain.md) management software and [blockchain](../b/blockchain_in_trading.md) further enhances the management and tracking of FOB terms, fostering greater [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in international [trade](../t/trade.md).

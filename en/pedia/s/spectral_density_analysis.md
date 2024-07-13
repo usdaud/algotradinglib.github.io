@@ -1,16 +1,16 @@
 # Spectral Density Analysis
 
-Spectral density analysis is a powerful tool from [signal processing](../s/signal_processing_in_trading.md) used extensively in [algorithmic trading](../a/algorithmic_trading.md). It involves studying the power distribution of different frequency components within a time series. In finance, it helps uncover periodicities, cyclic patterns, or quasi-cyclic behaviors of market data that are not easily detectable in the time domain.
+Spectral density analysis is a powerful tool from [signal processing](../s/signal_processing_in_trading.md) used extensively in [algorithmic trading](../a/algorithmic_trading.md). It involves studying the power [distribution](../d/distribution.md) of different frequency components within a [time series](../t/time_series.md). In [finance](../f/finance.md), it helps uncover periodicities, cyclic patterns, or quasi-cyclic behaviors of [market](../m/market.md) data that are not easily detectable in the time domain.
 
 ## Introduction to Spectral Density
 
-Spectral density, also known as power spectral density (PSD) or simply spectrum, quantifies how power (or variance) of a time series is distributed over frequency. For a stationary time series, the spectral density function \( S(f) \) provides information on the amplitude of different sinusoidal components as a function of frequency \( f \).
+Spectral density, also known as power spectral density (PSD) or simply spectrum, quantifies how power (or variance) of a [time series](../t/time_series.md) is distributed over frequency. For a stationary [time series](../t/time_series.md), the spectral density function \( S(f) \) provides information on the amplitude of different sinusoidal components as a function of frequency \( f \).
 
 The primary mathematical tools for [spectral analysis](../s/spectral_analysis.md) include:
 
-1. **Fourier Transform (FT):** Converts the time series data from the time domain to the frequency domain.
+1. **Fourier Transform (FT):** Converts the [time series](../t/time_series.md) data from the time domain to the frequency domain.
 2. **Periodogram:** An estimate of the spectral density of a signal.
-3. **Welch’s Method:** An approach to reduce the noise in the periodogram by averaging modified periodograms over overlapping segments of the signal.
+3. **Welch’s Method:** An approach to reduce the [noise](../n/noise.md) in the periodogram by averaging modified periodograms over overlapping segments of the signal.
 4. **Multitaper Method:** Enhances spectral estimates by using a set of orthogonal tapers.
 
 ## Fourier Transform
@@ -19,7 +19,7 @@ The Fourier Transform is a mathematical operation that transforms a time-domain 
 
 ### Mathematical Formulation
 
-For a time series \( x(t) \) sampled at \( N \) points, the DFT is given by:
+For a [time series](../t/time_series.md) \( x(t) \) sampled at \( N \) points, the DFT is given by:
 
 \[ X(f) = \sum_{t=0}^{N-1} x(t) e^{-i 2 \pi f t / N} \]
 
@@ -27,7 +27,7 @@ where \( X(f) \) represents the frequency domain signal.
 
 ## Periodogram and Spectral Density Estimation
 
-The periodogram is one of the simplest methods to estimate the spectral density. Given a time series \( \{x_t\} \), the periodogram \( I(f) \) at frequency \( f \) is defined as:
+The periodogram is one of the simplest methods to estimate the spectral density. Given a [time series](../t/time_series.md) \( \{x_t\} \), the periodogram \( I(f) \) at frequency \( f \) is defined as:
 
 \[ I(f) = \frac{1}{N} \left| \sum_{t=0}^{N-1} x_t e^{-i 2 \pi f t / N} \right|^2 \]
 
@@ -38,16 +38,16 @@ Although straightforward, the periodogram can be noisy, especially for finite-le
 Welch’s method is an improvement to the periodogram approach. It involves segmenting the data into overlapping segments, computing a periodogram for each segment, and then averaging these periodograms. This method reduces the variance of spectral estimates.
 
 Steps in Welch’s Method:
-1. Divide the time series into overlapping segments.
-2. Apply a window function to each segment to reduce spectral leakage.
+1. Divide the [time series](../t/time_series.md) into overlapping segments.
+2. Apply a window function to each segment to reduce spectral [leakage](../l/leakage.md).
 3. Compute the periodogram for each segment.
 4. Average the periodograms to get the final spectral estimate.
 
 ## Multitaper Method
 
-The multitaper method further improves spectral estimates by employing multiple tapers (data windows) to provide more stable and less noisy estimates. This method is particularly useful for short time series.
+The multitaper method further improves spectral estimates by employing [multiple](../m/multiple.md) tapers (data windows) to provide more stable and less noisy estimates. This method is particularly useful for short [time series](../t/time_series.md).
 
-For a set of orthogonal tapers \( \{v_k(t)\} \), the multitaper estimate \( \hat{S}(f) \) is the weighted average of periodograms \( I_k(f) \):
+For a set of orthogonal tapers \( \{v_k(t)\} \), the multitaper estimate \( \hat{S}(f) \) is the [weighted average](../w/weighted_average.md) of periodograms \( I_k(f) \):
 
 \[ \hat{S}(f) = \frac{1}{K} \sum_{k=1}^K I_k(f) \]
 
@@ -59,17 +59,17 @@ Spectral density analysis finds several applications in [algorithmic trading](..
 
 ### Signal Processing and Feature Extraction
 
-Traders utilize spectral density to identify hidden cycles, trends, or periodicities in market data. By transforming price data into the frequency domain, they can detect dominant frequencies that might indicate cyclic behavior.
+Traders utilize spectral density to identify hidden cycles, trends, or periodicities in [market](../m/market.md) data. By transforming price data into the frequency domain, they can detect dominant frequencies that might indicate cyclic behavior.
 
 For instance, intraday price series can reveal periodic patterns corresponding to [market microstructure](../m/market_microstructure.md) effects, such as the opening and closing auctions, lunch breaks, or other regular trading intervals.
 
 ### Risk Management
 
-[Spectral analysis](../s/spectral_analysis.md) can help in understanding the risk by studying the variance distribution across frequencies. Portfolio managers might use [spectral methods](../s/spectral_methods.md) to estimate the risk characteristics of time series data, such as [volatility clustering](../v/volatility_clustering.md) and other [temporal dependencies](../t/temporal_dependencies_in_trading.md).
+[Spectral analysis](../s/spectral_analysis.md) can help in understanding the [risk](../r/risk.md) by studying the variance [distribution](../d/distribution.md) across frequencies. Portfolio managers might use [spectral methods](../s/spectral_methods.md) to estimate the [risk](../r/risk.md) characteristics of [time series](../t/time_series.md) data, such as [volatility clustering](../v/volatility_clustering.md) and other [temporal dependencies](../t/temporal_dependencies_in_trading.md).
 
 ### Technical Analysis
 
-Technical analysts rely on spectral density to enhance their traditional tools. For example, they can apply spectral smoothing techniques to reduce noise in price signals, improving the accuracy of [trend following](../t/trend_following.md) or mean-reversion strategies.
+Technical analysts rely on spectral density to enhance their traditional tools. For example, they can apply spectral smoothing techniques to reduce [noise](../n/noise.md) in price signals, improving the accuracy of [trend following](../t/trend_following.md) or mean-reversion strategies.
 
 ### Regression and LSTM Models
 
@@ -77,7 +77,7 @@ Quantitative researchers incorporate spectral features into regression models or
 
 ### Market Microstructure Analysis
 
-Understanding the microstructure of markets – the way orders get matched and trades execute – benefits from spectral density analysis. Researchers analyze high-frequency data to discern patterns that can inform market-making strategies.
+Understanding the microstructure of markets – the way orders get matched and trades execute – benefits from spectral density analysis. Researchers analyze high-frequency data to discern patterns that can inform [market](../m/market.md)-making strategies.
 
 ## Practical Implementation
 
@@ -86,7 +86,7 @@ Several libraries and tools are available for performing spectral density analys
 - **Python’s `scipy.signal` module:** Provides functions for [spectral analysis](../s/spectral_analysis.md), including periodogram and Welch’s method.
   
   ```python
-  import scipy.signal as signal
+  [import](../i/import.md) scipy.signal as signal
   f, Pxx = signal.welch(x, fs=1.0, nperseg=256)
   ```
 
@@ -106,6 +106,6 @@ Several libraries and tools are available for performing spectral density analys
 
 ## Conclusion
 
-Spectral density analysis is a versatile tool, providing invaluable insights into the frequency domain characteristics of [financial time series](../f/financial_time_series.md). Its applications in [algorithmic trading](../a/algorithmic_trading.md) are vast, from uncovering hidden cycles and trends to improving risk assessment and [technical analysis](../t/technical_analysis.md).
+Spectral density analysis is a versatile tool, providing invaluable insights into the frequency domain characteristics of [financial time series](../f/financial_time_series.md). Its applications in [algorithmic trading](../a/algorithmic_trading.md) are vast, from uncovering hidden cycles and trends to improving [risk](../r/risk.md) assessment and [technical analysis](../t/technical_analysis.md).
 
 By leveraging various [spectral methods](../s/spectral_methods.md) like Fourier Transform, Periodogram, Welch’s Method, and Multitaper Method, traders and quantitative researchers can enhance their models and strategies, leading to more informed and effective trading decisions.

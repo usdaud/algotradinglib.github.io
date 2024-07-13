@@ -9,7 +9,7 @@ HHS's programs are administered by 11 operating divisions:
 * The Agency for Healthcare Research and Quality (AHRQ)
 * The Agency for Toxic Substances and Disease Registry (ATSDR)
 * The Centers for Disease Control and Prevention (CDC)
-* The Centers for Medicare and Medicaid Services (CMS)
+* The Centers for Medicare and [Medicaid](../m/medicaid.md) Services (CMS)
 * The Food and Drug Administration (FDA)
 * The Health Resources and Services Administration (HRSA)
 * The Indian Health Service (IHS)
@@ -24,7 +24,7 @@ The Administration for Children and Families (ACF) promotes the economic and soc
 
 - Head Start program
 - Temporary Assistance for Needy Families (TANF)
-- Child welfare services
+- Child [welfare](../w/welfare.md) services
 - Child support enforcement
 - Programs for refugees and asylees
 
@@ -52,11 +52,11 @@ The CDC has the primary responsibility for protecting public health and safety b
 
 ### 6. Centers for Medicare and Medicaid Services (CMS)
 
-CMS manages key programs that provide healthcare services, notably Medicare and Medicaid. It has a significant impact on healthcare financing and delivery by setting standards and regulations. CMS’s responsibilities include:
+CMS manages key programs that provide healthcare services, notably Medicare and [Medicaid](../m/medicaid.md). It has a significant impact on healthcare [financing](../f/financing.md) and delivery by setting standards and regulations. CMS’s responsibilities include:
 
 - Medicare, which is for older adults and certain younger people with disabilities
-- Medicaid, which serves low-income individuals and families
-- Children’s Health Insurance Program (CHIP)
+- [Medicaid](../m/medicaid.md), which serves low-[income](../i/income.md) individuals and families
+- Children’s [Health Insurance](../h/health_insurance.md) Program (CHIP)
 
 ### 7. Food and Drug Administration (FDA)
 
@@ -82,11 +82,11 @@ SAMHSA leads public health efforts to advance the behavioral health of the natio
 
 ### 1. Affordable Care Act (ACA)
 
-The ACA, enacted in 2010, represents a significant expansion of healthcare coverage in the U.S., primarily through the implementation of health insurance marketplaces and the expansion of Medicaid. HHS has played a central role in the rollout and administration of the ACA, focusing on improving access to healthcare, lowering costs, and enhancing healthcare quality.
+The ACA, enacted in 2010, represents a significant [expansion](../e/expansion.md) of healthcare coverage in the U.S., primarily through the implementation of [health insurance](../h/health_insurance.md) marketplaces and the [expansion](../e/expansion.md) of [Medicaid](../m/medicaid.md). HHS has played a central role in the rollout and administration of the ACA, focusing on improving access to healthcare, lowering costs, and enhancing healthcare quality.
 
 ### 2. Health Information Technology (Health IT)
 
-Health IT has become increasingly significant for improving the quality, safety, and efficiency of healthcare. HHS promotes the use of electronic health records (EHRs) and other digital communication technologies among healthcare providers to ensure coordinated and efficient healthcare delivery.
+Health IT has become increasingly significant for improving the quality, safety, and [efficiency](../e/efficiency.md) of healthcare. HHS promotes the use of electronic health records (EHRs) and other digital communication technologies among healthcare providers to ensure coordinated and efficient healthcare delivery.
 
 ### 3. Opioid Crisis Response
 
@@ -123,4 +123,4 @@ Such collaborations foster a comprehensive approach to achieving HHS's mission.
 
 ## Conclusion
 
-The U.S. Department of Health and Human Services plays an integral role in safeguarding public health, advancing medical and public health research, ensuring equity in healthcare, and promoting the general well-being of U.S. citizens. With dedicated departments addressing everything from child welfare to the regulation of food and drug safety, HHS stands at the forefront of improving health services and outcomes nationwide. For more information, visit [HHS's official website](https://www.hhs.gov).
+The U.S. Department of Health and Human Services plays an integral role in safeguarding public health, advancing medical and public health research, ensuring [equity](../e/equity.md) in healthcare, and promoting the general well-being of U.S. citizens. With dedicated departments addressing everything from child [welfare](../w/welfare.md) to the regulation of food and drug safety, HHS stands at the forefront of improving health services and outcomes nationwide. For more information, visit [HHS's official website](https://www.hhs.gov).

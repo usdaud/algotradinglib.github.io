@@ -11,23 +11,23 @@ where:
 - \(X\) is the independent variable (the predictor).
 - \(\beta_0\) is the y-intercept.
 - \(\beta_1\) is the slope of the regression line.
-- \(\epsilon\) represents the error term or residuals.
+- \(\epsilon\) represents the [error term](../e/error_term.md) or residuals.
 
 ## Components and Interpretation
 
 ### Dependent and Independent Variables
 
-- **Dependent Variable (\(Y\))**: This is the outcome or variable you are trying to predict. For instance, it could be the price of a house, sales revenue, or any continuous metric.
+- **Dependent Variable (\(Y\))**: This is the outcome or variable you are trying to predict. For instance, it could be the price of a house, sales [revenue](../r/revenue.md), or any continuous metric.
 - **Independent Variable (\(X\))**: This is the predictor or explanatory variable. It is assumed to influence or predict the dependent variable. Examples include the size of a house, advertising spend, etc.
 
 ### Regression Coefficients (\(\beta_0\) and \(\beta_1\))
 
-- **Intercept (\(\beta_0\))**: This is the predicted value of \(Y\) when \(X\) is zero. It provides a baseline value for the dependent variable.
+- **Intercept (\(\beta_0\))**: This is the predicted [value](../v/value.md) of \(Y\) when \(X\) is zero. It provides a [baseline](../b/baseline.md) [value](../v/value.md) for the dependent variable.
 - **Slope (\(\beta_1\))**: This coefficient measures the change in \(Y\) for a one-unit change in \(X\). It indicates the strength and direction of the relationship between the variables.
 
 ### Residuals (\(\epsilon\))
 
-- **Residual (\(\epsilon\))**: The difference between the observed value and the value predicted by the regression model. It captures the random error not explained by the independent variable.
+- **Residual (\(\epsilon\))**: The difference between the observed [value](../v/value.md) and the [value](../v/value.md) predicted by the regression model. It captures the random error not explained by the independent variable.
 
 ## Assumptions of Simple Linear Regression
 
@@ -72,15 +72,15 @@ MSE measures the average of the squares of the errors:
 
 ### Residual Plots
 
-Residual plots help visualize the distribution of residuals. Ideally, the residuals should be randomly scattered around zero, indicating no patterns or systematic errors.
+Residual plots help visualize the [distribution](../d/distribution.md) of residuals. Ideally, the residuals should be randomly scattered around zero, indicating no patterns or systematic errors.
 
 ## Practical Applications
 
 Simple [Linear Regression](../l/linear_regression.md) is widely used in various fields due to its interpretability and ease of implementation. Some common applications include:
 
-1. **Real Estate**: Predicting house prices based on features like size and number of rooms.
-2. **Marketing**: Estimating sales revenue based on advertising spend.
-3. **Economics**: Analyzing the relationship between [economic indicators](../e/economic_indicators.md), such as inflation and unemployment rates.
+1. **[Real Estate](../r/real_estate.md)**: Predicting house prices based on features like size and number of rooms.
+2. **[Marketing](../m/marketing.md)**: Estimating sales [revenue](../r/revenue.md) based on advertising spend.
+3. **[Economics](../e/economics.md)**: Analyzing the relationship between [economic indicators](../e/economic_indicators.md), such as [inflation](../i/inflation.md) and [unemployment](../u/unemployment.md) rates.
 4. **Healthcare**: Modeling the effect of treatment dosages on health outcomes.
 
 ## Software Implementation
@@ -88,9 +88,9 @@ Simple [Linear Regression](../l/linear_regression.md) is widely used in various 
 Many software packages provide tools to perform Simple [Linear Regression](../l/linear_regression.md), including Python (with libraries like `scikit-learn` and `statsmodels`), R, Excel, and more. Below is an example implementation in Python using `scikit-learn`:
 
 ```python
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.linear_model import LinearRegression
+[import](../i/import.md) numpy as np
+[import](../i/import.md) matplotlib.pyplot as plt
+from sklearn.linear_model [import](../i/import.md) LinearRegression
 
 # Generate synthetic data
 np.random.seed(0)

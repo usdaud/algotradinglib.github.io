@@ -1,19 +1,19 @@
 # Weighted Average
 
-Weighted Average is a statistical measure that takes into account the varying degrees of importance of the numbers in a data set. It's not just the simple arithmetic mean where each element in the dataset contributes equally to the average; instead, different elements can contribute more or less to the average depending on their assigned weights. This concept is widely used in various fields including finance, economics, and statistics.
+[Weighted](../w/weighted.md) Average is a statistical measure that takes into account the varying degrees of importance of the numbers in a data set. It's not just the simple [arithmetic mean](../a/arithmetic_mean.md) where each element in the dataset contributes equally to the average; instead, different elements can contribute more or less to the average depending on their assigned weights. This concept is widely used in various fields including [finance](../f/finance.md), [economics](../e/economics.md), and [statistics](../s/statistics.md).
 
 ## Introduction
 
-In finance, weighted averages are pivotal for making informed decisions and performing nuanced calculations. Whether you are managing a portfolio, pricing derivatives, or calculating expenditures, a weighted average provides a more accurate representation of data when certain elements carry more significance than others.
+In [finance](../f/finance.md), [weighted averages](../w/weighted_averages_in_trading.md) are pivotal for making informed decisions and performing nuanced calculations. Whether you are managing a portfolio, pricing [derivatives](../d/derivatives.md), or calculating expenditures, a [weighted](../w/weighted.md) average provides a more accurate representation of data when certain elements carry more significance than others.
 
-In essence, weighting the elements of a set allows for more sophisticated and precise analyses and interpretations. Understanding how to calculate and apply weighted averages can provide considerable advantages in both theoretical and applied finance.
+In essence, weighting the elements of a set allows for more sophisticated and precise analyses and interpretations. Understanding how to calculate and apply [weighted averages](../w/weighted_averages_in_trading.md) can provide considerable advantages in both theoretical and applied [finance](../f/finance.md).
 
 ## Formula
 
-The formula to calculate a weighted average is relatively straightforward. It involves multiplying each element in the dataset by its corresponding weight, summing the results, and then dividing by the sum of the weights.
+The formula to calculate a [weighted](../w/weighted.md) average is relatively straightforward. It involves multiplying each element in the dataset by its corresponding weight, summing the results, and then dividing by the sum of the weights.
 
 \[
-\text{Weighted Average} = \frac{\sum (x_i \cdot w_i)}{\sum w_i}
+\text{[Weighted](../w/weighted.md) Average} = \frac{\sum (x_i \cdot w_i)}{\sum w_i}
 \]
 
 Where:
@@ -25,70 +25,70 @@ Where:
 
 To provide a clearer understanding, consider a stock portfolio comprised of three assets with the following weights and returns:
 
-- Asset A: Return = 5%, Weight = 30%
-- Asset B: Return = 10%, Weight = 50%
-- Asset C: Return = -2%, Weight = 20%
+- [Asset](../a/asset.md) A: [Return](../r/return.md) = 5%, Weight = 30%
+- [Asset](../a/asset.md) B: [Return](../r/return.md) = 10%, Weight = 50%
+- [Asset](../a/asset.md) C: [Return](../r/return.md) = -2%, Weight = 20%
 
-The weighted average return for this portfolio would be calculated as follows:
+The [weighted](../w/weighted.md) [average return](../a/average_return.md) for this portfolio would be calculated as follows:
 
 \[
-\text{Weighted Average} = \frac{(5\% \cdot 30\%) + (10\% \cdot 50\%) + (-2\% \cdot 20\%)}{30\% + 50\% + 20\%} = \frac{1.5\% + 5\% - 0.4\%}{1} = 6.1\%
+\text{[Weighted](../w/weighted.md) Average} = \frac{(5\% \cdot 30\%) + (10\% \cdot 50\%) + (-2\% \cdot 20\%)}{30\% + 50\% + 20\%} = \frac{1.5\% + 5\% - 0.4\%}{1} = 6.1\%
 \]
 
-Therefore, the portfolio’s weighted average return is 6.1%.
+Therefore, the portfolio’s [weighted](../w/weighted.md) [average return](../a/average_return.md) is 6.1%.
 
 ## Applications in Finance
 
-Weighted averages find applications in various financial scenarios including portfolio management, calculation of averages, index building, and risk assessment.
+[Weighted averages](../w/weighted_averages_in_trading.md) find applications in various financial scenarios including [portfolio management](../p/par.md), calculation of averages, [index](../i/index.md) building, and [risk](../r/risk.md) assessment.
 
 ### Portfolio Management
 
-In portfolio management, weighted averages are commonly used to calculate the expected return or risk of a portfolio. Each asset in the portfolio has a weight corresponding to its proportion of the total portfolio value. 
+In [portfolio management](../p/par.md), [weighted averages](../w/weighted_averages_in_trading.md) are commonly used to calculate the [expected return](../e/expected_return.md) or [risk](../r/risk.md) of a portfolio. Each [asset](../a/asset.md) in the portfolio has a weight corresponding to its proportion of the total portfolio [value](../v/value.md). 
 
 #### Example
 
-Consider a portfolio with three stocks:
+Consider a portfolio with three [stocks](../s/stock.md):
 
-- Stock A: 30% of the portfolio, expected return 8%
-- Stock B: 40% of the portfolio, expected return 5%
-- Stock C: 30% of the portfolio, expected return 12%
+- Stock A: 30% of the portfolio, [expected return](../e/expected_return.md) 8%
+- Stock B: 40% of the portfolio, [expected return](../e/expected_return.md) 5%
+- Stock C: 30% of the portfolio, [expected return](../e/expected_return.md) 12%
 
-The weighted average expected return is:
+The [weighted](../w/weighted.md) average [expected return](../e/expected_return.md) is:
 
 \[
-\text{Weighted Average Return} = (0.3 \cdot 8\%) + (0.4 \cdot 5\%) + (0.3 \cdot 12\%) = 2.4\% + 2\% + 3.6\% = 8\%
+\text{[Weighted](../w/weighted.md) [Average Return](../a/average_return.md)} = (0.3 \cdot 8\%) + (0.4 \cdot 5\%) + (0.3 \cdot 12\%) = 2.4\% + 2\% + 3.6\% = 8\%
 \]
 
 ### Index Building
 
-Stock market indices like the S&P 500, Dow Jones Industrial Average, and others often use weighted averages to reflect the performance of the constituent stocks. These indices can be price-weighted, market-value-weighted, or float-weighted.
+[Stock market](../s/stock_market.md) indices like the S&P 500, Dow Jones Industrial Average, and others often use [weighted averages](../w/weighted_averages_in_trading.md) to reflect the performance of the constituent [stocks](../s/stock.md). These indices can be price-[weighted](../w/weighted.md), [market](../m/market.md)-[value](../v/value.md)-[weighted](../w/weighted.md), or [float](../f/float.md)-[weighted](../w/weighted.md).
 
 #### Example
 
-The S&P 500 is a market-value-weighted index. This means each stock’s weight in the index is based on its market capitalization. A company with a larger market capitalization will have greater influence on the index’s performance.
+The S&P 500 is a [market](../m/market.md)-[value](../v/value.md)-[weighted](../w/weighted.md) [index](../i/index.md). This means each stock’s weight in the [index](../i/index.md) is based on its [market capitalization](../m/market_capitalization.md). A company with a larger [market capitalization](../m/market_capitalization.md) [will](../w/will.md) have greater influence on the [index](../i/index.md)’s performance.
 
 ### Weighted Average Cost of Capital (WACC)
 
-In corporate finance, the Weighted Average Cost of Capital (WACC) is a calculation of a firm's cost of capital where each capital component is proportionately weighted. It includes all sources of capital, such as equity, debt, and preferred stock.
+In [corporate finance](../c/corporate_finance.md), the [Weighted](../w/weighted.md) Average [Cost of Capital](../c/cost_of_capital.md) (WACC) is a calculation of a [firm](../f/firm.md)'s [cost of capital](../c/cost_of_capital.md) where each [capital](../c/capital.md) component is proportionately [weighted](../w/weighted.md). It includes all sources of [capital](../c/capital.md), such as [equity](../e/equity.md), [debt](../d/debt.md), and [preferred stock](../p/preferred_stock.md).
 
 \[
 \text{WACC} = \left( \frac{E}{E+D} \cdot Re \right) + \left( \frac{D}{E+D} \cdot Rd \cdot (1-Tc) \right)
 \]
 
 Where:
-- \(E\) is the market value of equity
-- \(D\) is the market value of debt
-- \(Re\) is the cost of equity
-- \(Rd\) is the cost of debt
-- \(Tc\) is the corporate tax rate
+- \(E\) is the [market value of equity](../m/market_value_of_equity.md)
+- \(D\) is the [market value](../m/market_value.md) of [debt](../d/debt.md)
+- \(Re\) is the [cost of equity](../c/cost_of_equity.md)
+- \(Rd\) is the [cost of debt](../c/cost_of_debt.md)
+- \(Tc\) is the [corporate tax](../c/corporate_tax.md) rate
 
 ## Applications in Algorithmic Trading
 
-In algorithmic trading, weighted averages can be used in various algorithms and trading strategies to enhance decision-making and accuracy.
+In [algorithmic trading](../a/accountability.md), [weighted averages](../w/weighted_averages_in_trading.md) can be used in various algorithms and [trading strategies](../t/trading_strategies.md) to enhance decision-making and accuracy.
 
 ### Moving Averages
 
-Weighted moving averages (WMA) and exponential moving averages (EMA) are crucial in technical analysis for predicting price movements. They assign different weights to past price data, ensuring that recent data points have more impact on the average.
+[Weighted](../w/weighted.md) moving averages (WMA) and exponential moving averages (EMA) are crucial in [technical analysis](../t/technical_analysis.md) for predicting price movements. They assign different weights to past price data, ensuring that recent data points have more impact on the average.
 
 #### Example: Weighted Moving Average (WMA)
 
@@ -104,7 +104,7 @@ Where:
 
 ### Risk Management
 
-Weighted averages can be essential in risk management strategies. Calculating a weighted average of Value-at-Risk (VaR) for different assets in a portfolio helps in understanding the total risk exposure more accurately.
+[Weighted averages](../w/weighted_averages_in_trading.md) can be essential in [risk management](../r/risk_management.md) strategies. Calculating a [weighted](../w/weighted.md) average of [Value](../v/value.md)-at-[Risk](../r/risk.md) (VaR) for different assets in a portfolio helps in understanding the total [risk](../r/risk.md) exposure more accurately.
 
 #### Example: Portfolio VaR
 
@@ -114,7 +114,7 @@ Consider a portfolio of two assets, A and B, with weights \(W_A\) and \(W_B\), a
 \text{Portfolio VaR} = \sqrt{(W_A \cdot VaR_A)^2 + (W_B \cdot VaR_B)^2 + 2 \cdot W_A \cdot W_B \cdot \text{Cov}(A, B)}
 \]
 
-Where Cov(A, B) is the covariance between the returns of assets A and B.
+Where Cov(A, B) is the [covariance](../c/covariance.md) between the returns of assets A and B.
 
 ## Advantages
 
@@ -130,6 +130,6 @@ Where Cov(A, B) is the covariance between the returns of assets A and B.
 
 ## Conclusion
 
-Weighted averages are a powerful statistical tool widely used in finance, economics, and many other fields. They provide a nuanced way to understand data by accounting for the varying importance of different elements. Whether used in portfolio management, index building, or algorithmic trading, weighted averages offer a level of precision and relevance that simple averages cannot achieve. Understanding how to calculate and apply them effectively can significantly enhance analytical and decision-making capabilities in various financial contexts.
+[Weighted averages](../w/weighted_averages_in_trading.md) are a powerful statistical tool widely used in [finance](../f/finance.md), [economics](../e/economics.md), and many other fields. They provide a nuanced way to understand data by [accounting](../a/accounting.md) for the varying importance of different elements. Whether used in [portfolio management](../p/par.md), [index](../i/index.md) building, or [algorithmic trading](../a/accountability.md), [weighted averages](../w/weighted_averages_in_trading.md) [offer](../o/offer.md) a level of precision and relevance that simple averages cannot achieve. Understanding how to calculate and apply them effectively can significantly enhance analytical and decision-making capabilities in various financial contexts.
 
-For further details and practical tools, you can explore financial platforms like **[Bloomberg](https://www.bloomberg.com/)** and **[NYU Stern School of Business](https://www.stern.nyu.edu/faculty-research/centers-initiatives/volatility-institute)**. These resources provide a wealth of information and data analytics tools that incorporate weighted averages across a wide range of financial applications.
+For further details and practical tools, you can explore financial platforms like **[Bloomberg](https://www.bloomberg.com/)** and **[NYU Stern School of Business](https://www.stern.nyu.edu/faculty-research/centers-initiatives/volatility-institute)**. These resources provide a [wealth](../w/wealth.md) of information and [data analytics](../d/data_analytics.md) tools that incorporate [weighted averages](../w/weighted_averages_in_trading.md) across a wide [range](../r/range.md) of financial applications.

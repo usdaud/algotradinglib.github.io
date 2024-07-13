@@ -10,10 +10,10 @@
 
 ## Exclusive Rights
 1. **Reproduction Right**: The right to make copies of the work.
-2. **Distribution Right**: The right to distribute copies of the work to the public by sale, lease, or lending.
+2. **[Distribution](../d/distribution.md) Right**: The right to distribute copies of the work to the public by [sale](../s/sale.md), lease, or lending.
 3. **Public Performance Right**: The right to perform the work publicly, such as in a theater or concert.
 4. **Public Display Right**: The right to display the work publicly, such as in a gallery or online.
-5. **Derivative Works Right**: The right to create derivative works based on the original, such as adaptations or translations.
+5. **[Derivative](../d/derivative.md) Works Right**: The right to create [derivative](../d/derivative.md) works based on the original, such as adaptations or translations.
 6. **Digital Transmission Right**: The right to transmit the work digitally, such as through broadcasting or streaming.
 
 ## Duration of Copyright
@@ -32,9 +32,9 @@
 
 ## Example Scenarios
 1. **Literary Work**: An author writes a novel and holds the copyright, giving them the exclusive right to publish, sell, and adapt the book into other formats like films or audiobooks.
-2. **Music Composition**: A musician composes a song and secures copyright protection, allowing them to control the recording, performance, and distribution of the song.
+2. **Music Composition**: A musician composes a song and secures copyright protection, allowing them to control the recording, performance, and [distribution](../d/distribution.md) of the song.
 3. **Software**: A developer writes code for a new software application, and copyright protects the code, enabling the developer to license it and prevent unauthorized copying.
 
 ## Conclusion
-Copyright is a crucial legal mechanism that protects the rights of creators and promotes the production of original works. By granting exclusive rights to use, reproduce, and distribute their works, copyright incentivizes creativity and ensures that creators can benefit from their intellectual labor. Understanding the components, duration, and enforcement of copyright helps both creators and users navigate the legal landscape of intellectual property.
+Copyright is a crucial legal mechanism that protects the rights of creators and promotes the production of original works. By granting exclusive rights to use, reproduce, and distribute their works, copyright incentivizes creativity and ensures that creators can benefit from their intellectual labor. Understanding the components, [duration](../d/duration.md), and enforcement of copyright helps both creators and users navigate the legal landscape of intellectual property.
 

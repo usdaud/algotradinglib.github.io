@@ -1,43 +1,43 @@
 # Adjusted Present Value (APV)
 
-Adjusted Present Value (APV) is a financial metric used to assess the value of an investment or a company. It is particularly useful in scenarios where the company or investment in question has a complex financing structure that includes both debt and equity. The APV method separates the value of the investment into its core value (the value assuming it is all-equity financed) and the value of the tax shield (the additional value created by the tax deductibility of interest payments). This approach allows for more precise valuation and is useful in evaluating leveraged buyouts (LBOs), mergers and acquisitions (M&A), and other complex financial scenarios.
+Adjusted [Present Value](../p/present_value.md) (APV) is a financial metric used to assess the [value](../v/value.md) of an investment or a company. It is particularly useful in scenarios where the company or investment in question has a complex [financing](../f/financing.md) structure that includes both [debt](../d/debt.md) and [equity](../e/equity.md). The APV method separates the [value](../v/value.md) of the investment into its core [value](../v/value.md) (the [value](../v/value.md) assuming it is all-[equity](../e/equity.md) financed) and the [value](../v/value.md) of the [tax shield](../t/tax_shield.md) (the additional [value](../v/value.md) created by the tax deductibility of [interest](../i/interest.md) payments). This approach allows for more precise [valuation](../v/valuation.md) and is useful in evaluating leveraged buyouts (LBOs), mergers and acquisitions (M&A), and other complex financial scenarios.
 
 ## Core Concepts and Components of APV
 
 APV is broken down into the following components:
 
 ### 1. Base Value of the Investment (All-Equity Value)
-The base value of the investment is calculated as though the company is entirely equity-financed. This can be thought of as the net present value (NPV) of the firm if it had no debt. It can be calculated using the following formula:
+The base [value](../v/value.md) of the investment is calculated as though the company is entirely [equity](../e/equity.md)-financed. This can be thought of as the net [present value](../p/present_value.md) (NPV) of the [firm](../f/firm.md) if it had no [debt](../d/debt.md). It can be calculated using the following formula:
 
-\[ \text{Base Value} = \sum \frac{C_t}{(1 + r_e)^t} \]
+\[ \text{Base [Value](../v/value.md)} = \sum \frac{C_t}{(1 + r_e)^t} \]
 
 Where:
-- \( C_t \): Cash flow at time \( t \)
-- \( r_e \): Cost of equity
+- \( C_t \): [Cash flow](../c/cash_flow.md) at time \( t \)
+- \( r_e \): [Cost of equity](../c/cost_of_equity.md)
 - \( t \): Time period
 
 ### 2. Tax Shield
-The tax shield reflects the present value of the tax savings due to deductible interest expenses. This is an additional value that occurs when a firm has debt in its capital structure. The tax shield can be calculated as:
+The [tax shield](../t/tax_shield.md) reflects the [present value](../p/present_value.md) of the tax savings due to deductible [interest](../i/interest.md) expenses. This is an additional [value](../v/value.md) that occurs when a [firm](../f/firm.md) has [debt](../d/debt.md) in its [capital structure](../c/capital_structure.md). The [tax shield](../t/tax_shield.md) can be calculated as:
 
-\[ \text{Tax Shield} = \sum \frac{T_c \times r_d \times D_t}{(1 + r_d)^t} \]
+\[ \text{[Tax Shield](../t/tax_shield.md)} = \sum \frac{T_c \times r_d \times D_t}{(1 + r_d)^t} \]
 
 Where:
-- \( T_c \): Corporate tax rate
-- \( r_d \): Cost of debt
-- \( D_t \): Debt at time \( t \)
+- \( T_c \): [Corporate tax](../c/corporate_tax.md) rate
+- \( r_d \): [Cost of debt](../c/cost_of_debt.md)
+- \( D_t \): [Debt](../d/debt.md) at time \( t \)
 
 ### 3. Adjustment for Financing Effects
-APV makes adjustments for any financing effects that would otherwise be ignored in traditional NPV calculations. For example, costs related to issuing new debt or equity, or expected financial distress costs can be included.
+APV makes adjustments for any [financing](../f/financing.md) effects that would otherwise be ignored in traditional NPV calculations. For example, costs related to issuing new [debt](../d/debt.md) or [equity](../e/equity.md), or expected [financial distress](../f/financial_distress.md) costs can be included.
 
 ## Calculating APV
 
 The formula for APV is:
 
-\[ \text{APV} = \text{Base Value (all-equity value)} + \text{PV of Tax Shield} + \text{Other Financing Effects} \]
+\[ \text{APV} = \text{Base Value (all-equity value)} + \text{PV of [Tax Shield](../t/tax_shield.md)} + \text{Other [Financing](../f/financing.md) Effects} \]
 
 Let's go through an example to illustrate how this works:
 
-Assume a company has the following cash flows over 5 years, a cost of equity (\(r_e\)) of 10%, a cost of debt (\(r_d\)) of 5%, annual debt service (\(D_t\)) of $1,000,000, and a tax rate (\(T_c\)) of 30%.
+Assume a company has the following cash flows over 5 years, a [cost of equity](../c/cost_of_equity.md) (\(r_e\)) of 10%, a [cost of debt](../c/cost_of_debt.md) (\(r_d\)) of 5%, annual [debt service](../d/debt_service.md) (\(D_t\)) of $1,000,000, and a [tax rate](../t/tax_rate.md) (\(T_c\)) of 30%.
 
 ### Step-by-Step Calculation
 
@@ -45,7 +45,7 @@ Assume a company has the following cash flows over 5 years, a cost of equity (\(
 
 \[
 \begin{align*}
-\text{Year} & \quad \text{Cash Flow (\$)} & \quad \text{Present Value}\\
+\text{Year} & \quad \text{[Cash Flow](../c/cash_flow.md) (\$)} & \quad \text{[Present Value](../p/present_value.md)}\\
 1 & \quad 2,000,000 & \quad \frac{2,000,000}{(1 + 0.10)^1} = 1,818,182\\
 2 & \quad 2,200,000 & \quad \frac{2,200,000}{(1 + 0.10)^2} = 1,818,182\\
 3 & \quad 2,420,000 & \quad \frac{2,420,000}{(1 + 0.10)^3} = 1,817,355\\
@@ -55,16 +55,16 @@ Assume a company has the following cash flows over 5 years, a cost of equity (\(
 \]
 
 \[
-\text{Base Value} = 1,818,182 + 1,818,182 + 1,817,355 + 1,816,686 + 1,816,078 = 9,086,483
+\text{Base [Value](../v/value.md)} = 1,818,182 + 1,818,182 + 1,817,355 + 1,816,686 + 1,816,078 = 9,086,483
 \]
 
 #### Step 2: Calculate PV of Tax Shield
 
-Using the given data, the present value of the tax shield would be calculated as follows:
+Using the given data, the [present value](../p/present_value.md) of the [tax shield](../t/tax_shield.md) would be calculated as follows:
 
 \[
 \begin{align*}
-\text{Year} & \quad \text{Tax Shield (\$)} & \text{PV of Tax Shield}\\
+\text{Year} & \quad \text{[Tax Shield](../t/tax_shield.md) (\$)} & \text{PV of [Tax Shield](../t/tax_shield.md)}\\
 1 & \quad 0.30 \times 0.05 \times 1,000,000 & \quad = 15,000\\
 2 & \quad 0.30 \times 0.05 \times 1,000,000 & \quad = 15,000\\
 3 & \quad 0.30 \times 0.05 \times 1,000,000 & \quad = 15,000\\
@@ -74,7 +74,7 @@ Using the given data, the present value of the tax shield would be calculated as
 \]
 
 \[
-\text{PV of Tax Shield} = \frac{15,000}{(1 + 0.05)^1} + \frac{15,000}{(1 + 0.05)^2} + \frac{15,000}{(1 + 0.05)^3} + \frac{15,000}{(1 + 0.05)^4} + \frac{15,000}{(1 + 0.05)^5}
+\text{PV of [Tax Shield](../t/tax_shield.md)} = \frac{15,000}{(1 + 0.05)^1} + \frac{15,000}{(1 + 0.05)^2} + \frac{15,000}{(1 + 0.05)^3} + \frac{15,000}{(1 + 0.05)^4} + \frac{15,000}{(1 + 0.05)^5}
 \]
 
 \[
@@ -83,71 +83,71 @@ Using the given data, the present value of the tax shield would be calculated as
 
 #### Step 3: Adjustment for Other Financing Effects
 
-In this example, let's assume no additional financing effects for simplicity.
+In this example, let's assume no additional [financing](../f/financing.md) effects for simplicity.
 
 \[
 \text{APV} = 9,086,483 + 64,940 = 9,151,423
 \]
 
-Therefore, the Adjusted Present Value of the investment is $9,151,423.
+Therefore, the Adjusted [Present Value](../p/present_value.md) of the investment is $9,151,423.
 
 ## Applications of APV
 
 ### Leveraged Buyouts (LBO)
-In leveraged buyouts, private equity firms use a significant amount of debt to finance the acquisition of a company. APV is particularly useful because it can separately account for the value of the tax shields generated by the debt, as well as other financing effects such as issuance costs of the new debt or equity, making it easier to gauge the overall impact on valuation.
+In leveraged buyouts, [private equity](../p/private_equity.md) firms use a significant amount of [debt](../d/debt.md) to [finance](../f/finance.md) the [acquisition](../a/acquisition.md) of a company. APV is particularly useful because it can separately account for the [value](../v/value.md) of the tax shields generated by the [debt](../d/debt.md), as well as other [financing](../f/financing.md) effects such as issuance costs of the new [debt](../d/debt.md) or [equity](../e/equity.md), making it easier to gauge the overall impact on [valuation](../v/valuation.md).
 
 ### Valuation of Highly Leveraged Firms
-Companies with high levels of debt can benefit from tax shields significantly. Traditional valuation methods could underestimate the firm's value by not separately accounting for these benefits. APV offers a more detailed analysis which can be critical for making informed investment decisions.
+Companies with high levels of [debt](../d/debt.md) can benefit from tax shields significantly. Traditional [valuation](../v/valuation.md) methods could underestimate the [firm](../f/firm.md)'s [value](../v/value.md) by not separately [accounting](../a/accounting.md) for these benefits. APV offers a more detailed analysis which can be critical for making informed investment decisions.
 
 ### Real Options
-APV can be employed to evaluate investment opportunities that have embedded options (e.g., option to expand, option to delay) by quantifying the incremental value of different financing structures.
+APV can be employed to evaluate investment opportunities that have embedded [options](../o/options.md) (e.g., option to expand, option to delay) by quantifying the incremental [value](../v/value.md) of different [financing](../f/financing.md) structures.
 
 ### Infrastructure Projects
-Infrastructure projects often have complex financial arrangements and various phases of debt structuring. APV can be very useful in such cases, allowing for a layered valuation approach that incorporates these factors effectively.
+[Infrastructure](../i/infrastructure.md) projects often have complex financial arrangements and various phases of [debt](../d/debt.md) structuring. APV can be very useful in such cases, allowing for a layered [valuation](../v/valuation.md) approach that incorporates these factors effectively.
 
 ## Comparison to Other Valuation Methods
 
 ### Net Present Value (NPV)
-While NPV is a widely-used valuation method, it does not adequately separate the value created by financing effects such as tax shields. NPV calculates the value of future cash flows discounted at a firm’s weighted average cost of capital (WACC), which implicitly includes the effects of debt financing but does not disaggregate them.
+While NPV is a widely-used [valuation](../v/valuation.md) method, it does not adequately separate the [value](../v/value.md) created by [financing](../f/financing.md) effects such as tax shields. NPV calculates the [value](../v/value.md) of future cash flows discounted at a [firm](../f/firm.md)’s [weighted average](../w/weighted_average.md) [cost of capital](../c/cost_of_capital.md) (WACC), which implicitly includes the effects of [debt financing](../d/debt_financing.md) but does not disaggregate them.
 
 ### Weighted Average Cost of Capital (WACC)
-The WACC approach assumes a constant debt-to-equity ratio over time, which is not always realistic in practice for firms with dynamic capital structures. APV, on the other hand, evaluates the firm assuming no debt first and then adds the value of the tax shield separately, offering a more modular and flexible approach.
+The WACC approach assumes a constant [debt](../d/debt.md)-to-[equity](../e/equity.md) ratio over time, which is not always realistic in practice for firms with dynamic [capital](../c/capital.md) structures. APV, on the other hand, evaluates the [firm](../f/firm.md) assuming no [debt](../d/debt.md) first and then adds the [value](../v/value.md) of the [tax shield](../t/tax_shield.md) separately, [offering](../o/offering.md) a more modular and flexible approach.
 
 ### Economic Value Added (EVA)
-EVA focuses on the economic profit of the company after accounting for the cost of capital. While it is useful for performance measurement, it does not provide the granularity required for investment and financing decisions the way APV does.
+EVA focuses on the economic [profit](../p/profit.md) of the company after [accounting](../a/accounting.md) for the [cost of capital](../c/cost_of_capital.md). While it is useful for performance measurement, it does not provide the granularity required for investment and [financing](../f/financing.md) decisions the way APV does.
 
 ## Advantages of APV
 
 ### Separation of Operating and Financing Effects
-APV allows for a clearer distinction between the value created by the operating performance of a firm and the value created by the financing decisions (like taking on debt). This disaggregated approach is particularly useful for making strategic financial decisions.
+APV allows for a clearer distinction between the [value](../v/value.md) created by the operating performance of a [firm](../f/firm.md) and the [value](../v/value.md) created by the [financing](../f/financing.md) decisions (like taking on [debt](../d/debt.md)). This disaggregated approach is particularly useful for making strategic financial decisions.
 
 ### Flexibility
-APV offers greater flexibility in handling different financing scenarios. Since it separates the value of tax shields from the base operating value, analysts can more easily model changes in financing without recalculating the entire valuation.
+APV offers greater flexibility in handling different [financing](../f/financing.md) scenarios. Since it separates the [value](../v/value.md) of tax shields from the base operating [value](../v/value.md), analysts can more easily model changes in [financing](../f/financing.md) without recalculating the entire [valuation](../v/valuation.md).
 
 ### Better for Leveraged Transactions
-For investments involving complex or significant debt, such as LBOs, APV accurately reflects the impact of financing by accounting for tax shields, thereby providing a more realistic view of the investment's value.
+For investments involving complex or significant [debt](../d/debt.md), such as LBOs, APV accurately reflects the impact of [financing](../f/financing.md) by [accounting](../a/accounting.md) for tax shields, thereby providing a more realistic view of the investment's [value](../v/value.md).
 
 ## Disadvantages and Limitations of APV
 
 ### Complexity
-For many, the APV method may be more complex to understand and apply compared to other valuation methods such as NPV or WACC. It requires a more detailed understanding of the separate components that make up the firm’s value.
+For many, the APV method may be more complex to understand and apply compared to other [valuation](../v/valuation.md) methods such as NPV or WACC. It requires a more detailed understanding of the separate components that make up the [firm](../f/firm.md)’s [value](../v/value.md).
 
 ### Assumptions
-Accurately calculating APV hinges on the correct estimation of the cost of equity, cost of debt, tax shields, and other non-operating effects. Inaccurate estimates can lead to misleading valuations.
+Accurately calculating APV hinges on the correct estimation of the [cost of equity](../c/cost_of_equity.md), [cost of debt](../c/cost_of_debt.md), tax shields, and other non-operating effects. Inaccurate estimates can lead to misleading valuations.
 
 ### Less Commonly Used
 Despite its advantages, APV is not as universally applied as NPV or WACC. This may result in less familiarity and acceptance among practitioners and stakeholders.
 
 ## Key Takeaways
 
-- **APV** is a powerful valuation method that separates a company's operating value from its financing effects.
-- **Base Value** is computed assuming the company is all-equity financed.
-- **Tax Shield** provides additional value from interest tax deductibility.
-- **Other Financing Effects** like issue costs and financial distress costs can also be included.
-- APV is particularly useful in complex financial scenarios like LBOs, highly leveraged firms, real options, and infrastructure projects.
-- It offers a clearer separation between operating performance and financing effects, providing more precise valuation.
+- **APV** is a powerful [valuation](../v/valuation.md) method that separates a company's operating [value](../v/value.md) from its [financing](../f/financing.md) effects.
+- **Base [Value](../v/value.md)** is computed assuming the company is all-[equity](../e/equity.md) financed.
+- **[Tax Shield](../t/tax_shield.md)** provides additional [value](../v/value.md) from [interest](../i/interest.md) tax deductibility.
+- **Other [Financing](../f/financing.md) Effects** like [issue](../i/issue.md) costs and [financial distress](../f/financial_distress.md) costs can also be included.
+- APV is particularly useful in complex financial scenarios like LBOs, highly leveraged firms, real [options](../o/options.md), and [infrastructure](../i/infrastructure.md) projects.
+- It offers a clearer separation between operating performance and [financing](../f/financing.md) effects, providing more precise [valuation](../v/valuation.md).
 - While highly beneficial, APV can be complex and based on numerous assumptions, which can limit its practical application.
 
 # Conclusion
 
-Adjusted Present Value (APV) provides a structured and insightful approach to valuation that separates the impacts of operating performance and financing effects, offering a nuanced view, especially in leveraged and complex financial scenarios. Though it may come with some complexity and requires accurate estimations, its benefits in detailed and flexible valuation make it a valuable tool in the financial analyst’s toolkit.
+Adjusted [Present Value](../p/present_value.md) (APV) provides a structured and insightful approach to [valuation](../v/valuation.md) that separates the impacts of operating performance and [financing](../f/financing.md) effects, [offering](../o/offering.md) a nuanced view, especially in leveraged and complex financial scenarios. Though it may come with some complexity and requires accurate estimations, its benefits in detailed and flexible [valuation](../v/valuation.md) make it a valuable tool in the financial analyst’s toolkit.

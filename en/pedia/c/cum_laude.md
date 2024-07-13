@@ -10,25 +10,25 @@
 
 ## Latin Honors System
 1. **Cum Laude**: "With honor" or "with praise," typically awarded to students with a GPA in the top 20-30% of their class.
-2. **Magna Cum Laude**: "With great honor" or "with great praise," awarded to students with a GPA in the top 10-15% of their class.
-3. **Summa Cum Laude**: "With highest honor" or "with highest praise," awarded to students with a GPA in the top 5% or the highest in their class.
+2. **[Magna Cum Laude](../m/magna_cum_laude.md)**: "With great honor" or "with great praise," awarded to students with a GPA in the top 10-15% of their class.
+3. **[Summa Cum Laude](../s/summa_cum_laude.md)**: "With highest honor" or "with highest praise," awarded to students with a GPA in the top 5% or the highest in their class.
 
 ## Importance
 1. **Academic Recognition**: Provides formal recognition of a student’s hard work and academic excellence.
-2. **Career Advantage**: Can enhance a graduate’s resume, making them more competitive in the job market.
+2. **Career Advantage**: Can enhance a graduate’s [resume](../r/resume.md), making them more competitive in the [job market](../j/job_market.md).
 3. **Graduate Studies**: May improve a student's chances of being accepted into prestigious graduate or professional programs.
 
 ## Criteria for Cum Laude
 1. **Grade Point Average (GPA)**: Most institutions require a minimum GPA to qualify for cum laude honors. The exact threshold varies by institution.
-2. **Coursework**: Completion of a rigorous course load, including advanced or honors courses, may be considered.
+2. **Coursework**: Completion of a rigorous course [load](../l/load.md), including advanced or honors courses, may be considered.
 3. **Class Rank**: Some institutions consider a student's rank within their graduating class.
 4. **Additional Achievements**: In some cases, other academic achievements, such as research projects, publications, or extracurricular involvement, may be taken into account.
 
 ## Example Scenarios
 1. **University Graduation**: Emily graduates from university with a GPA of 3.7 out of 4.0. Her institution awards cum laude honors to students with a GPA of 3.5 to 3.79. Emily's diploma and transcript include the cum laude distinction.
-2. **Job Application**: John lists his cum laude honors on his resume when applying for jobs. This distinction helps him stand out to potential employers who value academic excellence.
+2. **Job Application**: John lists his cum laude honors on his [resume](../r/resume.md) when applying for jobs. This distinction helps him stand out to potential employers who [value](../v/value.md) academic excellence.
 3. **Graduate School Admission**: Sarah's cum laude distinction improves her application to a competitive graduate program, highlighting her strong academic background.
 
 ## Conclusion
-Cum laude is an academic honor that signifies above-average academic performance and dedication to studies. It is part of the Latin honors system used by many educational institutions to recognize and reward students' academic achievements. Understanding the criteria and significance of cum laude can help students strive for excellence and leverage this distinction in their future academic and professional endeavors.
+Cum laude is an academic honor that signifies above-average academic performance and dedication to studies. It is part of the Latin honors system used by many educational institutions to recognize and reward students' academic achievements. Understanding the criteria and significance of cum laude can help students strive for excellence and [leverage](../l/leverage.md) this distinction in their future academic and professional endeavors.
 

@@ -14,13 +14,13 @@ Throughout history, martial law has been declared in various countries during di
 
 1. **Suspension of Civil Rights:** Under martial law, civil liberties like freedom of speech, press, and assembly may be suspended.
 2. **Military Authority:** The military may assume full control over law enforcement, governance, and the judicial system.
-3. **Curfews and Restrictions:** The imposition of curfews and restrictions on movement to maintain order.
+3. **Curfews and Restrictions:** The imposition of curfews and restrictions on movement to maintain [order](../o/order.md).
 4. **Detention without Trial:** Authorities often have the power to detain individuals without the standard judicial processes.
 5. **Censorship:** Control over the media to prevent the spread of information that could exacerbate the crisis.
 
 ### Legal Framework
 
-In the United States, the legal basis for martial law is not explicitly defined in the Constitution. However, the President and Congress have the power to invoke it in extreme circumstances. For example, during the Civil War, President Abraham Lincoln suspended habeas corpus.
+In the United States, the legal [basis](../b/basis.md) for martial law is not explicitly defined in the Constitution. However, the President and Congress have the power to invoke it in extreme circumstances. For example, during the Civil War, President Abraham Lincoln suspended habeas corpus.
 
 ### Implications for Civil Liberties
 
@@ -32,12 +32,12 @@ The imposition of martial law can drastically limit individual freedoms and righ
 
 ### Modern Examples and Implications
 
-- **Philippines:** President Rodrigo Duterte threatened to impose martial law to fight the widespread violence and illegal drug trade.
+- **Philippines:** President Rodrigo Duterte threatened to impose martial law to fight the widespread violence and illegal drug [trade](../t/trade.md).
 - **Ukraine:** Imposed martial law in 2018 in response to the capture of Ukrainian vessels by Russia.
 
 ### Conclusion
 
-Martial law represents an extreme measure that can significantly alter the balance of power and civil rights within a country. While intended to restore order during crises, its implementation can lead to abuses of power and long-lasting impacts on national governance and civil liberties.
+Martial law represents an extreme measure that can significantly alter the balance of power and civil rights within a country. While intended to restore [order](../o/order.md) during crises, its implementation can lead to abuses of power and long-lasting impacts on national governance and civil liberties.
 
 For more information, visit:
 - [Example Company](https://www.example.com)

@@ -1,62 +1,62 @@
 # Level 1 Market Data
 
-Level 1 market data is a term used in the financial markets to refer to the basic, real-time data that represents the live bid and ask prices for a particular security or asset. This type of market data is crucial for both retail and institutional traders as it provides essential information needed to make informed trading decisions. The granularity of Level 1 data sets it apart from Level 2 or Level 3 market data, which offer more detailed insights into the order book and market depth.
+Level 1 [market](../m/market.md) data is a term used in the [financial markets](../f/financial_market.md) to refer to the basic, real-time data that represents the live [bid and ask](../b/bid_and_ask.md) prices for a particular [security](../s/security.md) or [asset](../a/asset.md). This type of [market](../m/market.md) data is crucial for both retail and institutional traders as it provides essential information needed to make informed trading decisions. The granularity of Level 1 data sets it apart from Level 2 or Level 3 [market](../m/market.md) data, which [offer](../o/offer.md) more detailed insights into the [order book](../o/order_book.md) and [market depth](../m/market_depth.md).
 
 ## Overview
 
-Level 1 market data typically includes the following key elements:
+Level 1 [market](../m/market.md) data typically includes the following key elements:
 
-1. **Bid Price**: The highest price that buyers are willing to pay for a security at a given point in time.
-2. **Ask Price**: The lowest price that sellers are willing to accept for a security at a given point in time.
-3. **Last Traded Price**: The price at which the last transaction occurred.
-4. **Volume**: The number of shares or contracts traded in the last transaction.
+1. **[Bid Price](../b/bid_price.md)**: The highest price that buyers are willing to pay for a [security](../s/security.md) at a given point in time.
+2. **Ask Price**: The lowest price that sellers are willing to accept for a [security](../s/security.md) at a given point in time.
+3. **Last Traded Price**: The price at which the last [transaction](../t/transaction.md) occurred.
+4. **[Volume](../v/volume.md)**: The number of [shares](../s/shares.md) or contracts traded in the last [transaction](../t/transaction.md).
 5. **Timestamp**: The exact time at which the data was recorded, ensuring the data’s relevancy and accuracy.
 
 ## Importance in Trading
 
-Level 1 market data is particularly important for a variety of reasons:
+Level 1 [market](../m/market.md) data is particularly important for a variety of reasons:
 
-- **Liquidity Measurement**: By looking at the bid and ask prices, traders can gauge the liquidity of the market for a particular asset. High liquidity typically results in tighter spreads between the bid and ask prices, making it cheaper to execute trades.
+- **[Liquidity](../l/liquidity.md) Measurement**: By looking at the [bid and ask](../b/bid_and_ask.md) prices, traders can gauge the [liquidity](../l/liquidity.md) of the [market](../m/market.md) for a particular [asset](../a/asset.md). High [liquidity](../l/liquidity.md) typically results in tighter [spreads](../s/spreads.md) between the [bid and ask](../b/bid_and_ask.md) prices, making it cheaper to execute trades.
   
-- **Price Discovery**: The data helps traders understand the real-time price of an asset, enabling them to make quicker decisions.
+- **[Price Discovery](../p/price_discovery.md)**: The data helps traders understand the real-time price of an [asset](../a/asset.md), enabling them to make quicker decisions.
   
-- **Trading Strategies**: Many automated trading systems and algorithms rely on Level 1 data for making high-frequency trades, arbitrage opportunities, and other algorithmic trading strategies.
+- **[Trading Strategies](../t/trading_strategies.md)**: Many [automated trading systems](../a/automated_trading_systems.md) and algorithms rely on Level 1 data for making high-frequency trades, [arbitrage opportunities](../a/arbitrage_opportunities.md), and other [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
   
-- **Market Sentiment**: Monitoring how quickly the bid and ask prices move can provide insights into the market’s sentiment. A rapidly changing bid or ask price can indicate strong interest or significant news affecting the asset.
+- **[Market Sentiment](../m/market_sentiment.md)**: Monitoring how quickly the [bid and ask](../b/bid_and_ask.md) prices move can provide insights into the [market](../m/market.md)’s sentiment. A rapidly changing [bid](../b/bid.md) or ask price can indicate strong [interest](../i/interest.md) or significant news affecting the [asset](../a/asset.md).
 
 ## Sources of Level 1 Data
 
-Various exchanges and financial data providers offer Level 1 market data. Some prominent ones include:
+Various exchanges and financial data providers [offer](../o/offer.md) Level 1 [market](../m/market.md) data. Some prominent ones include:
 
-- **NYSE (New York Stock Exchange)**: https://www.nyse.com
-- **NASDAQ**: https://www.nasdaq.com
+- **NYSE (New York Stock [Exchange](../e/exchange.md))**: https://www.nyse.com
+- **[NASDAQ](../n/nasdaq.md)**: https://www.[nasdaq](../n/nasdaq.md).com
 - **BATS Global Markets**: https://www.markets.cboe.com
-- **Direct Market Access (DMA) providers**: Firms that offer traders access to direct feeds from the exchanges.
-- **Data Aggregators**: Companies like Bloomberg (https://www.bloomberg.com) and Refinitiv (https://www.refinitiv.com) aggregate Level 1 data from multiple sources and offer more comprehensive feeds.
+- **Direct [Market](../m/market.md) Access (DMA) providers**: Firms that [offer](../o/offer.md) traders access to direct feeds from the exchanges.
+- **Data Aggregators**: Companies like [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com) and Refinitiv (https://www.refinitiv.com) aggregate Level 1 data from [multiple](../m/multiple.md) sources and [offer](../o/offer.md) more comprehensive feeds.
 
 ## Technical Implementation
 
-For those involved in algorithmic trading or software development, integrating Level 1 market data into trading systems is a foundational task. 
+For those involved in [algorithmic trading](../a/accountability.md) or software development, integrating Level 1 [market](../m/market.md) data into [trading systems](../t/trading_systems.md) is a foundational task. 
 
 ### APIs
 
-Most exchanges provide APIs (Application Programming Interfaces) that offer real-time access to Level 1 data. These APIs usually support RESTful calls, WebSocket streaming, or FIX protocols.
+Most exchanges provide APIs (Application Programming Interfaces) that [offer](../o/offer.md) real-time access to Level 1 data. These APIs usually support RESTful calls, WebSocket streaming, or FIX protocols.
 
 #### Example: RESTful API
 
 - **Request URL**: 
   ```
-  GET https://api.exchange.com/level1data
+  GET https://api.[exchange](../e/exchange.md).com/level1data
   ```
 
 - **Response**:
   ```json
   {
     "symbol": "AAPL",
-    "bid": 150.25,
+    "[bid](../b/bid.md)": 150.25,
     "ask": 150.30,
     "last_trade": 150.27,
-    "volume": 100,
+    "[volume](../v/volume.md)": 100,
     "timestamp": "2023-10-01T14:30:00Z"
   }
   ```
@@ -65,7 +65,7 @@ Most exchanges provide APIs (Application Programming Interfaces) that offer real
 
 - **Connecting to a WebSocket**:
   ```javascript
-  const socket = new WebSocket('wss://api.exchange.com/marketdata');
+  const socket = new WebSocket('wss://api.[exchange](../e/exchange.md).com/marketdata');
 
   socket.onopen = function(event) {
     console.log("Connection established!");
@@ -74,7 +74,7 @@ Most exchanges provide APIs (Application Programming Interfaces) that offer real
 
   socket.onmessage = function(event) {
     const data = JSON.parse(event.data);
-    console.log(`Bid: ${data.bid}, Ask: ${data.ask}`);
+    console.log(`[Bid](../b/bid.md): ${data.[bid](../b/bid.md)}, Ask: ${data.ask}`);
   }
   ```
 
@@ -84,28 +84,28 @@ Efficient data storage is essential for handling high-frequency Level 1 data. Ma
 
 ### Data Latency
 
-Minimizing latency is critical in high-frequency trading (HFT). Low-latency data feeds and infrastructure are employed to ensure data is as close to real-time as possible. Colocation services, where trading systems are placed near exchange servers, are commonly used to achieve low-latency data processing.
+Minimizing latency is critical in high-frequency trading (HFT). Low-latency data feeds and [infrastructure](../i/infrastructure.md) are employed to ensure data is as close to real-time as possible. Colocation services, where [trading systems](../t/trading_systems.md) are placed near [exchange](../e/exchange.md) servers, are commonly used to achieve low-latency data processing.
 
 ## Regulatory Considerations
 
-The provision and use of Level 1 market data are governed by various regulatory bodies to ensure market fairness and transparency.
+The [provision](../p/provision.md) and use of Level 1 [market](../m/market.md) data are governed by various regulatory bodies to ensure [market](../m/market.md) fairness and [transparency](../t/transparency.md).
 
-- **SEC (Securities and Exchange Commission)**: https://www.sec.gov
-- **FINRA (Financial Industry Regulatory Authority)**: https://www.finra.org
+- **SEC (Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md))**: https://www.sec.gov
+- **FINRA (Financial [Industry](../i/industry.md) Regulatory Authority)**: https://www.finra.org
 - **ESMA (European Securities and Markets Authority)**: https://www.esma.europa.eu
 
-These regulatory bodies set rules to ensure that all market participants have fair access to critical market data.
+These regulatory bodies set rules to ensure that all [market](../m/market.md) participants have fair access to critical [market](../m/market.md) data.
 
 ## Cost of Level 1 Data
 
-The cost of accessing Level 1 market data can vary dramatically depending on the data provider and the type of subscription plan chosen. While individual traders might access it through broker platforms for free, institutional players might pay premium fees for direct feeds from exchanges.
+The cost of accessing Level 1 [market](../m/market.md) data can vary dramatically depending on the data provider and the type of subscription plan chosen. While individual traders might access it through [broker](../b/broker.md) platforms for free, institutional players might pay [premium](../p/premium.md) fees for direct feeds from exchanges.
 
 ### Examples of Subscription Costs
 
-- **Retail Broker Platforms**: Often included for free with trading accounts.
-- **Direct Exchange Feeds**: Can range from hundreds to thousands of dollars per month depending on the asset class and exchange.
-- **Aggregated Feeds**: Providers like Bloomberg or Refinitiv might charge significantly more but offer a comprehensive suite of financial data services.
+- **Retail [Broker](../b/broker.md) Platforms**: Often included for free with trading accounts.
+- **Direct [Exchange](../e/exchange.md) Feeds**: Can [range](../r/range.md) from hundreds to thousands of dollars per month depending on the [asset class](../a/asset_class.md) and [exchange](../e/exchange.md).
+- **Aggregated Feeds**: Providers like [Bloomberg](../b/bloomberg.md) or Refinitiv might charge significantly more but [offer](../o/offer.md) a comprehensive suite of financial data services.
 
 ## Conclusion
 
-Level 1 market data is an essential component of the financial markets, providing real-time insights into the bid and ask prices, last traded price, volume, and timestamps. Its importance spans across market liquidity measurement, price discovery, trading strategies, and market sentiment analysis. Accessible through various APIs, the data can be integrated into trading systems, though considerations around data storage, latency, and regulatory compliance are crucial. Finally, while obtaining Level 1 data might be cost-efficient for retail traders, institutional players often need to invest significantly in this fundamental resource for their trading operations.
+Level 1 [market](../m/market.md) data is an essential component of the [financial markets](../f/financial_market.md), providing real-time insights into the [bid and ask](../b/bid_and_ask.md) prices, last traded price, [volume](../v/volume.md), and timestamps. Its importance spans across [market](../m/market.md) [liquidity](../l/liquidity.md) measurement, [price discovery](../p/price_discovery.md), [trading strategies](../t/trading_strategies.md), and [market sentiment analysis](../m/market_sentiment_analysis.md). Accessible through various APIs, the data can be integrated into [trading systems](../t/trading_systems.md), though considerations around data storage, latency, and regulatory compliance are crucial. Finally, while obtaining Level 1 data might be cost-efficient for retail traders, institutional players often need to invest significantly in this fundamental resource for their trading operations.

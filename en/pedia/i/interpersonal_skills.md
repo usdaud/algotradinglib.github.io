@@ -1,6 +1,6 @@
 # Interpersonal Skills
 
-Interpersonal skills, often referred to as "people skills," are the abilities that help individuals effectively interact, communicate, and collaborate with others. These skills are crucial in almost every aspect of life, especially in professional settings where teamwork, communication, and collaboration are key to achieving goals and maintaining a positive work environment. Interpersonal skills encompass a range of competencies, from communication and empathy to negotiation and conflict resolution.
+Interpersonal skills, often referred to as "people skills," are the abilities that help individuals effectively interact, communicate, and collaborate with others. These skills are crucial in almost every aspect of life, especially in professional settings where teamwork, communication, and collaboration are key to achieving goals and maintaining a positive work environment. Interpersonal skills encompass a [range](../r/range.md) of competencies, from communication and empathy to [negotiation](../n/negotiation.md) and conflict resolution.
 
 ## Communication
 
@@ -21,7 +21,7 @@ Emotional intelligence (EQ) is the ability to understand, manage, and express on
 
 ## Empathy
 
-Empathy is the ability to understand and share the feelings of another person. It involves recognizing emotions in others and responding appropriately. Empathy fosters trust and respect, creating a supportive environment. It can be divided into three types:
+Empathy is the ability to understand and share the feelings of another person. It involves recognizing emotions in others and responding appropriately. Empathy fosters [trust](../t/trust.md) and respect, creating a supportive environment. It can be divided into three types:
 
 - **Cognitive Empathy**: Understanding another person’s perspective or mental state.
 - **Emotional Empathy**: Sharing another person's emotional experience.
@@ -31,21 +31,21 @@ Empathy is the ability to understand and share the feelings of another person. I
 
 Successful teamwork and collaboration require individuals to work together harmoniously towards common goals. This involves:
 
-- **Trust Building**: Establishing and maintaining trust among team members.
-- **Delegation**: Assigning responsibilities effectively to leverage each team member's strengths.
+- **[Trust](../t/trust.md) Building**: Establishing and maintaining [trust](../t/trust.md) among team members.
+- **Delegation**: Assigning responsibilities effectively to [leverage](../l/leverage.md) each team member's strengths.
 - **Conflict Resolution**: Addressing and resolving disagreements constructively.
 
 ## Leadership
 
-Leadership involves guiding and motivating a group towards achieving common objectives. Effective leaders use interpersonal skills to inspire others. Leadership skills include:
+[Leadership](../l/leadership.md) involves guiding and motivating a group towards achieving common objectives. Effective leaders use interpersonal skills to inspire others. [Leadership](../l/leadership.md) skills include:
 
-- **Influence**: The ability to persuade others and gain their support.
+- **Influence**: The ability to persuade others and [gain](../g/gain.md) their support.
 - **Motivation**: Encouraging and inspiring individuals to achieve their best.
 - **Decision-Making**: Making informed and effective decisions that benefit the team or organization.
 
 ## Negotiation
 
-Negotiation is the process of reaching an agreement through discussion and compromise. Strong negotiation skills ensure that all parties feel satisfied with the outcome. These skills include:
+[Negotiation](../n/negotiation.md) is the process of reaching an agreement through discussion and compromise. Strong [negotiation](../n/negotiation.md) skills ensure that all parties feel satisfied with the outcome. These skills include:
 
 - **Preparation**: Understanding the objectives, needs, and constraints of all parties involved.
 - **Active Listening**: Understanding the other party’s perspective.
@@ -63,7 +63,7 @@ Conflict is inevitable in any group setting. Conflict resolution skills help in 
 
 Adaptability is the ability to adjust to new conditions and challenges. It is crucial in dynamic environments where change is constant. Adaptability involves:
 
-- **Flexibility**: Being open to new ideas and approaches.
+- **Flexibility**: Being [open](../o/open.md) to new ideas and approaches.
 - **Resilience**: Recovering quickly from setbacks.
 - **Learning Agility**: Continuously acquiring new skills and knowledge.
 

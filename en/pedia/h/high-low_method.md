@@ -1,6 +1,6 @@
 # High-Low Method
 
-The high-low method is a cost accounting technique that is primarily used to separate variable costs from fixed costs in a mixed cost scenario. Mixed costs, also known as semi-variable or semi-fixed costs, possess both fixed and variable cost components, which complicate the determination of the individual cost behaviors. The high-low method provides a simplistic and effective way to estimate these cost components using only the highest and lowest activity levels.
+The high-low method is a [cost accounting](../c/cost_accounting.md) technique that is primarily used to separate variable costs from fixed costs in a mixed cost scenario. Mixed costs, also known as semi-variable or semi-fixed costs, possess both fixed and [variable cost](../v/variable_cost.md) components, which complicate the determination of the individual cost behaviors. The high-low method provides a simplistic and effective way to estimate these cost components using only the highest and lowest activity levels.
 
 ## Understanding the High-Low Method
 
@@ -10,29 +10,29 @@ The high-low method requires historical data points concerning the total cost an
 
 1. **Identify the Highest and Lowest Activity Levels**: Collect cost data over a period of time and identify the periods that have the highest and lowest levels of activity.
 
-2. **Determine the Variable Cost per Unit**: Compute the variable cost per unit by dividing the change in total cost by the change in activity level between the highest and lowest points.
+2. **Determine the [Variable Cost](../v/variable_cost.md) per Unit**: Compute the [variable cost](../v/variable_cost.md) per unit by dividing the change in total cost by the change in activity level between the highest and lowest points.
    
    \[
-   \text{Variable Cost per Unit} = \frac{\text{Cost at Highest Activity Level} - \text{Cost at Lowest Activity Level}}{\text{Highest Activity Level} - \text{Lowest Activity Level}}
+   \text{[Variable Cost](../v/variable_cost.md) per Unit} = \frac{\text{Cost at Highest Activity Level} - \text{Cost at Lowest Activity Level}}{\text{Highest Activity Level} - \text{Lowest Activity Level}}
    \]
 
-3. **Calculate the Total Fixed Cost**: Using the total cost at either the highest or lowest activity level, subtract the total variable cost to determine the fixed cost.
+3. **Calculate the Total [Fixed Cost](../f/fixed_cost.md)**: Using the total cost at either the highest or lowest activity level, subtract the total [variable cost](../v/variable_cost.md) to determine the [fixed cost](../f/fixed_cost.md).
    
    \[
-   \text{Fixed Cost} = \text{Total Cost} - (\text{Variable Cost per Unit} \times \text{Activity Level})
+   \text{[Fixed Cost](../f/fixed_cost.md)} = \text{Total Cost} - (\text{[Variable Cost](../v/variable_cost.md) per Unit} \times \text{Activity Level})
    \]
 
 4. **Formulate the Cost Equation**: Formulate the cost equation that represents the total cost as a function of the fixed and variable costs.
    
    \[
-   \text{Total Cost} = \text{Fixed Cost} + (\text{Variable Cost per Unit} \times \text{Activity Level})
+   \text{Total Cost} = \text{[Fixed Cost](../f/fixed_cost.md)} + (\text{[Variable Cost](../v/variable_cost.md) per Unit} \times \text{Activity Level})
    \]
 
 ### Example
 
-Suppose a company is analyzing its utility costs over six months. Below are the costs and production levels for each month:
+Suppose a company is analyzing its [utility](../u/utility.md) costs over six months. Below are the costs and production levels for each month:
 
-| Month | Utility Cost | Units Produced |
+| Month | [Utility](../u/utility.md) Cost | Units Produced |
 |-------|--------------|----------------|
 | Jan   | $10,000      | 2,000          |
 | Feb   | $11,500      | 3,000          |
@@ -46,17 +46,17 @@ Suppose a company is analyzing its utility costs over six months. Below are the 
 - Highest level: May with 5,000 units
 - Lowest level: January with 2,000 units
 
-**Step 2: Determine the variable cost per unit**
+**Step 2: Determine the [variable cost](../v/variable_cost.md) per unit**
 
 \[
-\text{Variable Cost per Unit} = \frac{13,500 - 10,000}{5,000 - 2,000} = \frac{3,500}{3,000} = \$1.17
+\text{[Variable Cost](../v/variable_cost.md) per Unit} = \frac{13,500 - 10,000}{5,000 - 2,000} = \frac{3,500}{3,000} = \$1.17
 \]
 
-**Step 3: Calculate the total fixed cost**
+**Step 3: Calculate the total [fixed cost](../f/fixed_cost.md)**
 
 Using the highest activity level (May):
 \[
-\text{Fixed Cost} = 13,500 - (1.17 \times 5,000) = 13,500 - 5,850 = \$7,650
+\text{[Fixed Cost](../f/fixed_cost.md)} = 13,500 - (1.17 \times 5,000) = 13,500 - 5,850 = \$7,650
 \]
 
 **Step 4: Formulate the cost equation**
@@ -75,9 +75,9 @@ Using the highest activity level (May):
 
 ### Limitations
 
-- **Accuracy**: The high-low method might oversimplify the cost behavior, leading to less accurate estimates compared to other methods like regression analysis.
-- **Outliers Impact**: The method is sensitive to outliers. If the highest or lowest data points are atypical, they can distort the variable and fixed cost estimates.
-- **Inflexibility**: It doesn’t account for variations within the normal activity range, potentially overlooking fluctuations or non-linear patterns in cost behavior.
+- **Accuracy**: The high-low method might oversimplify the cost behavior, leading to less accurate estimates compared to other methods like [regression analysis](../r/regression_analysis.md).
+- **Outliers Impact**: The method is sensitive to outliers. If the highest or lowest data points are atypical, they can distort the variable and [fixed cost](../f/fixed_cost.md) estimates.
+- **Inflexibility**: It doesn’t account for variations within the normal activity [range](../r/range.md), potentially overlooking fluctuations or non-linear patterns in cost behavior.
 
 ## Applications in Business
 
@@ -87,11 +87,11 @@ Businesses use the high-low method for internal cost management, enabling manage
 
 ### Budgeting and Forecasting
 
-In budgeting, understanding fixed and variable costs helps predict future costs more accurately, supporting more precise financial planning and control.
+In budgeting, understanding fixed and variable costs helps predict future costs more accurately, supporting more precise [financial planning](../f/financial_planning.md) and control.
 
 ### Performance Evaluation
 
-Managers can assess operational efficiency by comparing actual costs against estimated costs derived from the high-low method. Discrepancies may prompt investigations and corrective actions.
+Managers can assess [operational efficiency](../o/operational_efficiency_in_trading.md) by comparing actual costs against estimated costs derived from the high-low method. Discrepancies may prompt investigations and corrective actions.
 
 ### Decision Making
 
@@ -99,29 +99,29 @@ The high-low method assists in making informed decisions regarding production le
 
 ### Examples from Industry
 
-- **Manufacturing**: A factory might use the high-low method to distinguish between variable costs like raw materials and fixed costs such as machinery depreciation.
-- **Service Industry**: A consultancy firm can segregate variable costs such as billable hours from fixed costs like office rent.
+- **[Manufacturing](../m/manufacturing.md)**: A factory might use the high-low method to distinguish between variable costs like [raw materials](../r/raw_materials.md) and fixed costs such as machinery [depreciation](../d/depreciation.md).
+- **Service [Industry](../i/industry.md)**: A consultancy [firm](../f/firm.md) can segregate variable costs such as billable hours from fixed costs like office rent.
 
 ## Advantages over Other Methods
 
 ### Simplicity and Use Cases
 
-While more sophisticated methods like regression analysis or the scatter-graph method provide better accuracy, the high-low method’s simplicity makes it ideal for quick, preliminary estimates or when data is limited.
+While more sophisticated methods like [regression analysis](../r/regression_analysis.md) or the scatter-graph method provide better accuracy, the high-low method’s simplicity makes it ideal for quick, preliminary estimates or when data is limited.
 
 ### Educational Tool
 
-The high-low method is often used as a teaching tool in cost accounting courses to introduce students to cost behavior analysis before progressing to more complex techniques.
+The high-low method is often used as a teaching tool in [cost accounting](../c/cost_accounting.md) courses to introduce students to cost behavior analysis before progressing to more complex techniques.
 
 ## Real-World Examples
 
 ### General Electric
 
-General Electric (GE) utilizes various cost estimation methods, including the high-low method, to manage operational costs efficiently across its diverse business units. For more information, visit [GE](https://www.ge.com/).
+General Electric (GE) utilizes various cost estimation methods, including the high-low method, to manage operational costs efficiently across its diverse [business](../b/business.md) units. For more information, visit [GE](https://www.ge.com/).
 
 ### Toyota
 
-Toyota employs cost management strategies to maintain its competitive advantage in the automotive industry. The high-low method aids in understanding cost behavior associated with production variations. Learn more about their practices at [Toyota](https://www.toyota-global.com/).
+Toyota employs cost management strategies to maintain its [competitive advantage](../c/competitive_advantage.md) in the automotive [industry](../i/industry.md). The high-low method aids in understanding cost behavior associated with production variations. Learn more about their practices at [Toyota](https://www.toyota-global.com/).
 
 ## Conclusion
 
-The high-low method, while simple and straightforward, provides invaluable insights into cost structures by segregating variable and fixed costs. Despite its limitations regarding accuracy and sensitivity to outliers, it remains a useful tool for preliminary cost analysis, budgeting, forecasting, and decision-making. Businesses across industries can leverage this method to gain a better understanding of their cost behaviors and enhance their financial management practices.
+The high-low method, while simple and straightforward, provides invaluable insights into cost structures by segregating variable and fixed costs. Despite its limitations regarding accuracy and sensitivity to outliers, it remains a useful tool for preliminary cost analysis, budgeting, [forecasting](../f/forecasting.md), and decision-making. Businesses across industries can [leverage](../l/leverage.md) this method to [gain](../g/gain.md) a better understanding of their cost behaviors and enhance their financial management practices.

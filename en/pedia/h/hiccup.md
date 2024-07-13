@@ -1,7 +1,7 @@
 # Hiccup
 
 ## Definition
-A **hiccup** is an involuntary contraction of the diaphragm muscle, followed by the rapid closure of the vocal cords, which produces the characteristic "hic" sound. Hiccups are usually temporary and benign, but persistent hiccups can indicate an underlying medical condition.
+A **hiccup** is an involuntary contraction of the diaphragm muscle, followed by the rapid closure of the vocal cords, which produces the characteristic "hic" sound. Hiccups are usually temporary and benign, but persistent hiccups can indicate an [underlying](../u/underlying.md) medical condition.
 
 ## Key Components
 1. **Diaphragm Contraction**: The diaphragm, a large muscle that helps with breathing, contracts involuntarily.
@@ -29,7 +29,7 @@ A **hiccup** is an involuntary contraction of the diaphragm muscle, followed by 
 ## Medical Treatments
 1. **Medications**: Drugs such as chlorpromazine, metoclopramide, or baclofen may be prescribed for persistent or intractable hiccups.
 2. **Nerve Stimulation**: Techniques like vagus nerve stimulation may be used in severe cases.
-3. **Surgical Intervention**: In rare cases, surgery may be required to address the underlying cause of chronic hiccups.
+3. **Surgical Intervention**: In rare cases, surgery may be required to address the [underlying](../u/underlying.md) cause of chronic hiccups.
 
 ## When to Seek Medical Help
 - Hiccups lasting more than 48 hours.
@@ -41,8 +41,8 @@ A **hiccup** is an involuntary contraction of the diaphragm muscle, followed by 
 Jane eats a large, spicy meal and drinks a carbonated beverage quickly. Shortly afterward, she starts hiccuping. She holds her breath for a few seconds and drinks a glass of cold water, which helps stop the hiccups after a few minutes.
 
 ### Persistent Hiccups
-John has been experiencing hiccups for over 48 hours. They interfere with his sleep and daily activities. He visits a doctor, who prescribes medication to help alleviate the hiccups. The doctor also investigates potential underlying conditions that may be causing the persistent hiccups.
+John has been experiencing hiccups for over 48 hours. They interfere with his sleep and daily activities. He visits a doctor, who prescribes medication to help alleviate the hiccups. The doctor also investigates potential [underlying](../u/underlying.md) conditions that may be causing the persistent hiccups.
 
 ## Conclusion
-Hiccups are usually a temporary and harmless phenomenon caused by involuntary contractions of the diaphragm. While they typically resolve on their own, persistent hiccups may require medical attention to identify and treat any underlying conditions. Understanding the common causes and remedies for hiccups can help manage and alleviate this common occurrence.
+Hiccups are usually a temporary and harmless phenomenon caused by involuntary contractions of the diaphragm. While they typically resolve on their own, persistent hiccups may require medical attention to identify and treat any [underlying](../u/underlying.md) conditions. Understanding the common causes and remedies for hiccups can help manage and alleviate this common occurrence.
 

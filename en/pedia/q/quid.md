@@ -1,7 +1,7 @@
 # QUID (Quasi Universal Intergalactic Denomination)
 
 ## Definition
-QUID, short for Quasi Universal Intergalactic Denomination, is a space currency concept developed by scientists and economists. While not a functional currency, it represents a theoretical approach to interplanetary commerce and financial transactions in space exploration scenarios.
+QUID, short for Quasi Universal Intergalactic [Denomination](../d/denomination.md), is a space [currency](../c/currency.md) concept developed by scientists and economists. While not a [functional currency](../f/functional_currency.md), it represents a theoretical approach to interplanetary [commerce](../c/commerce.md) and financial transactions in space exploration scenarios.
 
 ## Key Characteristics
 
@@ -28,32 +28,32 @@ QUID, short for Quasi Universal Intergalactic Denomination, is a space currency 
 - Could serve as a souvenir or collectible item for space tourists
 
 ### 2. Interplanetary Trade
-- Theoretical medium of exchange for commerce between Earth and future space colonies
+- Theoretical [medium of exchange](../m/medium_of_exchange.md) for [commerce](../c/commerce.md) between Earth and future space colonies
 - Designed to facilitate transactions in various gravitational environments
 
 ### 3. Space Mission Logistics
 - Potential use in compensating astronauts or settling accounts in long-term space missions
-- Could serve as a standardized value system for resource allocation in space
+- Could serve as a standardized [value](../v/value.md) system for resource allocation in space
 
 ## Advantages
 
 1. **Durability**: Designed to withstand extreme space conditions
-2. **Universality**: Attempts to create a currency concept not tied to any single planet or species
+2. **Universality**: Attempts to create a [currency](../c/currency.md) concept not tied to any single planet or species
 3. **Innovation**: Encourages thinking about financial systems beyond Earth-bound concepts
 
 ## Limitations
 
-1. **Theoretical Nature**: Currently exists only as a concept, not a functional currency
-2. **Earth-Centric Design**: Despite attempts at universality, still based on human understanding of commerce
+1. **Theoretical Nature**: Currently exists only as a concept, not a [functional currency](../f/functional_currency.md)
+2. **Earth-Centric Design**: Despite attempts at universality, still based on human understanding of [commerce](../c/commerce.md)
 3. **Practicality**: Electronic or digital currencies might be more practical for actual space use
 
 ## Historical Context
 - Developed in 2007 by scientists from the National Space Centre and the University of Leicester
-- Part of a broader discussion on the economics of space exploration and potential future scenarios
+- Part of a broader discussion on the [economics](../e/economics.md) of space exploration and potential future scenarios
 
 ## Cultural Impact
-- Has been featured in discussions about future space economics
-- Serves as an educational tool to spark interest in space science and economics among students and the public
+- Has been featured in discussions about future space [economics](../e/economics.md)
+- Serves as an educational tool to spark [interest](../i/interest.md) in space science and [economics](../e/economics.md) among students and the public
 
 ## Related Concepts
 - Space-based cryptocurrencies

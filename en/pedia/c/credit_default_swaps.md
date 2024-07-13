@@ -1,60 +1,60 @@
 # Credit Default Swaps
 
 ## Introduction
-Credit Default Swaps (CDS) are a type of financial derivative that function as a form of insurance against the default of a borrower. In a CDS contract, the buyer makes periodic payments to the seller, and in return, the seller promises to pay off the buyer's debt if the borrower defaults. This complex financial instrument plays a significant role in both [risk management](../r/risk_management.md) and speculative trading.
+[Credit](../c/credit.md) [Default](../d/default.md) Swaps (CDS) are a type of financial [derivative](../d/derivative.md) that function as a form of [insurance](../i/insurance.md) against the [default](../d/default.md) of a borrower. In a CDS contract, the buyer makes periodic payments to the seller, and in [return](../r/return.md), the seller promises to pay off the buyer's [debt](../d/debt.md) if the borrower defaults. This complex [financial instrument](../f/financial_instrument.md) plays a significant role in both [risk management](../r/risk_management.md) and speculative trading.
 
 ## Historical Context
-Credit Default Swaps have their roots in the 1990s. They were initially developed by JPMorgan Chase & Co. as a tool for managing the risk associated with their loans. Over the years, the use of CDS expanded dramatically, and they became integral to the workings of financial markets globally, particularly in periods leading up to and during financial crises.
+[Credit](../c/credit.md) [Default](../d/default.md) Swaps have their roots in the 1990s. They were initially developed by JPMorgan Chase & Co. as a tool for managing the [risk](../r/risk.md) associated with their loans. Over the years, the use of CDS expanded dramatically, and they became integral to the workings of [financial markets](../f/financial_market.md) globally, particularly in periods leading up to and during financial crises.
 
 ## Key Components of a CDS
 ### The Protection Buyer
-The protection buyer in a CDS is the entity seeking to hedge against the default risk. This could be a bank, an asset manager, or any institution with exposure to credit risk. The buyer pays regular premiums to the protection seller.
+The protection buyer in a CDS is the entity seeking to [hedge](../h/hedge.md) against the [default risk](../d/default_risk.md). This could be a [bank](../b/bank.md), an [asset](../a/asset.md) manager, or any institution with exposure to [credit risk](../c/credit_risk.md). The buyer pays regular premiums to the protection seller.
 
 ### The Protection Seller
-The protection seller, typically an insurance company, bank, or hedge fund, is the entity taking on the credit risk in exchange for periodic payments. If a credit event occurs, the protection seller compensates the buyer for their losses.
+The protection seller, typically an [insurance](../i/insurance.md) company, [bank](../b/bank.md), or [hedge fund](../h/hedge_fund.md), is the entity taking on the [credit risk](../c/credit_risk.md) in [exchange](../e/exchange.md) for periodic payments. If a [credit](../c/credit.md) event occurs, the protection seller compensates the buyer for their losses.
 
 ### The Reference Entity
-This is the entity or asset for which the default risk is being hedged. It could be a corporation, government, or any other borrower. The credit quality of the reference entity is crucial as it determines the likelihood of default and the valuation of the CDS.
+This is the entity or [asset](../a/asset.md) for which the [default risk](../d/default_risk.md) is being hedged. It could be a [corporation](../c/corporation.md), government, or any other borrower. The [credit](../c/credit.md) quality of the reference entity is crucial as it determines the likelihood of [default](../d/default.md) and the [valuation](../v/valuation.md) of the CDS.
 
 ### The Notional Amount
-The notional amount represents the total value of the assets being protected by the CDS contract. It is a key parameter as it dictates the size of the periodic payments and the payout in case of a credit event.
+The notional amount represents the total [value](../v/value.md) of the assets being protected by the CDS contract. It is a key parameter as it dictates the size of the periodic payments and the [payout](../p/payout.md) in case of a [credit](../c/credit.md) event.
 
 ### Credit Events
-A credit event is a predefined condition set in the contract that triggers the payout from the seller to the buyer. Typical credit events include bankruptcy, failure to pay, and restructuring.
+A [credit](../c/credit.md) event is a predefined condition set in the contract that triggers the [payout](../p/payout.md) from the seller to the buyer. Typical [credit](../c/credit.md) events include [bankruptcy](../b/bankruptcy.md), failure to pay, and [restructuring](../r/restructuring.md).
 
 ## Pricing of CDS
 The pricing of a CDS is influenced by various factors including:
-- **Credit Spread**: Represents the risk premium over risk-free assets. Higher spreads indicate higher perceived default risk.
-- **Probability of Default**: This is derived from the credit spread and represents the likelihood of the reference entity defaulting.
-- **Recovery Rate**: The amount expected to be recovered by creditors in the event of default. Lower recovery rates lead to higher CDS premiums.
-- **Interest Rates**: Prevailing interest rates can impact the discount rates applied in pricing models.
-- **Market Sentiment**: Investor perceptions and market trends also play a significant role.
+- **[Credit Spread](../c/credit_spread.md)**: Represents the [risk premium](../r/risk_premium.md) over [risk](../r/risk.md)-free assets. Higher [spreads](../s/spreads.md) indicate higher perceived [default risk](../d/default_risk.md).
+- **Probability of [Default](../d/default.md)**: This is derived from the [credit spread](../c/credit_spread.md) and represents the likelihood of the reference entity defaulting.
+- **[Recovery Rate](../r/recovery_rate.md)**: The amount expected to be recovered by creditors in the event of [default](../d/default.md). Lower recovery rates lead to higher CDS premiums.
+- **[Interest](../i/interest.md) Rates**: Prevailing [interest](../i/interest.md) rates can impact the [discount](../d/discount.md) rates applied in pricing models.
+- **[Market Sentiment](../m/market_sentiment.md)**: [Investor](../i/investor.md) perceptions and [market](../m/market.md) trends also play a significant role.
 
 ## Uses of CDS
 ### Risk Management
-Financial institutions use CDS to hedge against the risk of default on loans and bonds. By transferring risk to the protection seller, institutions can manage their exposure and stabilize their balance sheets.
+Financial institutions use CDS to [hedge](../h/hedge.md) against the [risk](../r/risk.md) of [default](../d/default.md) on loans and bonds. By transferring [risk](../r/risk.md) to the protection seller, institutions can manage their exposure and stabilize their balance sheets.
 
 ### Speculation
-Traders and investors use CDS to speculate on the creditworthiness of reference entities. If an investor believes that a company's financial condition will deteriorate, they might buy CDS to profit from the increasing spread or the occurrence of a credit event.
+Traders and investors use CDS to speculate on the [creditworthiness](../c/creditworthiness.md) of reference entities. If an [investor](../i/investor.md) believes that a company's financial condition [will](../w/will.md) deteriorate, they might buy CDS to [profit](../p/profit.md) from the increasing spread or the occurrence of a [credit](../c/credit.md) event.
 
 ### Arbitrage
-[Arbitrage](../a/arbitrage.md) strategies involve identifying and exploiting price discrepancies between related securities. For instance, traders might exploit differences between the bond markets and CDS markets to generate risk-free profits.
+[Arbitrage](../a/arbitrage.md) strategies involve identifying and exploiting price discrepancies between related securities. For instance, traders might exploit differences between the [bond](../b/bond.md) markets and CDS markets to generate [risk](../r/risk.md)-free profits.
 
 ## Market Dynamics
-The CDS market has evolved significantly since its inception. It became a focal point of the 2008 financial crisis, raising concerns about systemic risk and [counterparty risk](../c/counterparty_risk.md). The market's transparency and regulation have been subjects of ongoing debate, leading to reforms aimed at improving stability and oversight.
+The CDS [market](../m/market.md) has evolved significantly since its inception. It became a focal point of the 2008 [financial crisis](../f/financial_crisis.md), raising concerns about [systemic risk](../s/systemic_risk.md) and [counterparty risk](../c/counterparty_risk.md). The [market](../m/market.md)'s [transparency](../t/transparency.md) and regulation have been subjects of ongoing debate, leading to reforms aimed at improving stability and oversight.
 
 ### Major Players
-Major institutions involved in the CDS market include:
+Major institutions involved in the CDS [market](../m/market.md) include:
 - **JPMorgan Chase & Co.**: [JPMorgan Chase](https://www.jpmorganchase.com)
 - **Goldman Sachs**: [Goldman Sachs](https://www.goldmansachs.com)
 - **Citigroup**: [Citigroup](https://www.citigroup.com)
-- **Deutsche Bank**: [Deutsche Bank](https://www.db.com)
+- **Deutsche [Bank](../b/bank.md)**: [Deutsche Bank](https://www.db.com)
 - **ISDA (International Swaps and [Derivatives](../d/derivatives.md) Association)**: [ISDA](https://www.isda.org)
 
 ## Regulatory Environment
-Post-2008 financial crisis, regulatory bodies worldwide have implemented reforms aimed at increasing the transparency and stability of the CDS market. Key measures include:
-- **Dodd-Frank Act**: Introduces requirements for central clearing and reporting of CDS transactions.
-- **European Market Infrastructure Regulation (EMIR)**: Mandates similar provisions for European markets.
+Post-2008 [financial crisis](../f/financial_crisis.md), regulatory bodies worldwide have implemented reforms aimed at increasing the [transparency](../t/transparency.md) and stability of the CDS [market](../m/market.md). Key measures include:
+- **Dodd-Frank Act**: Introduces requirements for central [clearing](../c/clearing.md) and reporting of CDS transactions.
+- **European [Market](../m/market.md) [Infrastructure](../i/infrastructure.md) Regulation (EMIR)**: Mandates similar provisions for European markets.
 
 ## Conclusion
-Credit Default Swaps are vibrant yet complex financial instruments that offer immense potential for [risk management](../r/risk_management.md) and speculative gains. However, they require thorough understanding and careful consideration given their impact on financial stability and market dynamics. As a pivotal component of the financial [derivatives](../d/derivatives.md) market, the evolution and regulation of CDS continue to be critical topics within the financial industry.
+[Credit](../c/credit.md) [Default](../d/default.md) Swaps are vibrant yet complex financial instruments that [offer](../o/offer.md) immense potential for [risk management](../r/risk_management.md) and speculative gains. However, they require thorough understanding and careful consideration given their impact on financial stability and [market dynamics](../m/market_dynamics.md). As a pivotal component of the financial [derivatives](../d/derivatives.md) [market](../m/market.md), the evolution and regulation of CDS continue to be critical topics within the financial [industry](../i/industry.md).

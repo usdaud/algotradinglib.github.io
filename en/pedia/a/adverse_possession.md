@@ -1,10 +1,10 @@
 # Adverse Possession
 
-Adverse possession is a legal doctrine under which a person who is not the legal owner of a piece of property can gain legal ownership based on continuous possession or occupation of the property without the permission of its legal owner for a statutory period. This principle is grounded in the idea that the law should favor those who utilize property in a productive manner as opposed to those who neglect it. The specific requirements and timeframes for adverse possession can vary by jurisdiction, but generally, they include occupation that is open, notorious, continuous, and adverse to the interests of the true owner.
+Adverse possession is a legal doctrine under which a person who is not the legal owner of a piece of property can [gain](../g/gain.md) legal ownership based on continuous possession or occupation of the property without the permission of its legal owner for a statutory period. This principle is grounded in the idea that the law should favor those who utilize property in a productive manner as opposed to those who neglect it. The specific requirements and timeframes for adverse possession can vary by jurisdiction, but generally, they include occupation that is [open](../o/open.md), notorious, continuous, and adverse to the interests of the true owner.
 
 ## Historical Background
 
-Adverse possession has roots in English common law and was introduced as a way to resolve land disputes in a time when written documentation of land ownership was sparse. The doctrine evolved to encourage landowners to monitor and maintain their property actively, while also promoting the productive use of land that might otherwise lay dormant. Historically, the timeframe for claiming adverse possession could be quite lengthy, sometimes requiring decades of continuous occupation.
+Adverse possession has roots in English [common law](../c/common_law.md) and was introduced as a way to resolve land disputes in a time when written documentation of land ownership was sparse. The doctrine evolved to encourage landowners to monitor and maintain their property actively, while also promoting the productive use of land that might otherwise lay dormant. Historically, the timeframe for claiming adverse possession could be quite lengthy, sometimes requiring decades of continuous occupation.
 
 ## Legal Requirements
 
@@ -15,16 +15,16 @@ The individual claiming adverse possession must physically occupy the property. 
 The use of the property must be visible and apparent, so the true owner has an opportunity to notice and take action if they so choose. Secret use of the land does not satisfy this requirement.
 
 ### Exclusive Possession
-The possessor must hold the property to the exclusion of the true owner and the public. Shared occupancy with the true owner or the general public nullifies the claim.
+The possessor must [hold](../h/hold.md) the property to the exclusion of the true owner and the public. Shared occupancy with the true owner or the general public nullifies the claim.
 
 ### Continuous and Uninterrupted
 The claimant's possession must be ongoing for a specified period. Interruptions in occupation can reset the statutory clock.
 
 ### Hostile or Adverse
-The possession must be without the permission of the true owner, indicating a claim of right against the interests of the true owner. "Hostile" in this context does not imply ill will but rather occupation that conflicts with the true owner's rights.
+The possession must be without the permission of the true owner, indicating a claim of right against the interests of the true owner. "Hostile" in this context does not imply ill [will](../w/will.md) but rather occupation that conflicts with the true owner's rights.
 
 ## Statutory Period
-The statutory period varies widely across jurisdictions and can range from a few years to several decades. For example, in some states in the United States, the period is generally around 10 years, but it can be longer in other states or countries.
+The statutory period varies widely across jurisdictions and can [range](../r/range.md) from a few years to several decades. For example, in some states in the United States, the period is generally around 10 years, but it can be longer in other states or countries.
 
 ## Tacking
 In some cases, successive periods of adverse possession by different parties can be combined to meet the statutory period. This process, known as "tacking," requires privity—a legal relationship between the successive possessors indicating a transfer of the adverse possession right.
@@ -35,13 +35,13 @@ Property owners can take protective actions to prevent adverse possession claims
 ## Legal Process
 
 ### Filing a Lawsuit
-Once the statutory period has been satisfied, the adverse possessor can file a lawsuit to quiet title, seeking a court declaration of ownership.
+Once the statutory period has been satisfied, the adverse possessor can file a lawsuit to [quiet title](../q/quiet_title.md), seeking a court declaration of ownership.
 
 ### Defenses to Adverse Possession Claims
-The true owner can challenge adverse possession claims by proving any of the essential elements have not been met. Common defenses include showing the possession was not continuous, not open and notorious, or was with permission.
+The true owner can challenge adverse possession claims by proving any of the essential elements have not been met. Common defenses include showing the possession was not continuous, not [open](../o/open.md) and notorious, or was with permission.
 
 ### Court Ruling
-If the court rules in favor of the adverse possessor, they will issue a decree granting title to the land. If the court rules against the possessor, the true owner retains their rights, and the adverse possessor may be evicted.
+If the court rules in favor of the adverse possessor, they [will](../w/will.md) [issue](../i/issue.md) a decree granting title to the land. If the court rules against the possessor, the true owner retains their rights, and the adverse possessor may be evicted.
 
 ## Practical Examples
 
@@ -66,4 +66,4 @@ Some jurisdictions have re-evaluated and modified the stringent requirements of 
 There have been numerous notable cases that helped shape and refine adverse possession statutes and legal interpretations. The outcomes of these cases continue to influence future claims and the handling of adverse possession disputes.
 
 ## Conclusion
-Adverse possession is a complex and nuanced area of property law that continues to evolve. It provides a mechanism for resolving land disputes and encourages the productive use of property while imposing duties on property owners to monitor and control their land. Understanding the elements and implications of adverse possession is crucial for both potential claimants and property owners to safeguard and assert their property rights effectively.
+Adverse possession is a complex and nuanced area of property law that continues to evolve. It provides a mechanism for resolving land disputes and encourages the productive use of property while imposing duties on property owners to monitor and control their land. Understanding the elements and implications of adverse possession is crucial for both potential claimants and property owners to safeguard and assert their [property rights](../p/property_rights.md) effectively.

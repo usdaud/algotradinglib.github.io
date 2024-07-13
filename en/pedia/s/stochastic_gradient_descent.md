@@ -1,13 +1,13 @@
 # Stochastic Gradient Descent (SGD)
 
-Stochastic Gradient Descent (SGD) is a powerful optimization technique widely used in the field of machine learning and [data mining](../d/data_mining.md), particularly for training large-scale models and algorithms. In the context of [algorithmic trading](../a/algorithmic_trading.md), SGD is pivotal in optimizing [trading strategies](../t/trading_strategies.md), calibrating model parameters, and refining machine learning models to increase the predictive power and profitability of [trading systems](../t/trading_systems.md). This extensive exploration will cover the core concepts, mathematical formulation, variants, applications, and practical implementations of SGD in [algorithmic trading](../a/algorithmic_trading.md).
+Stochastic Gradient Descent (SGD) is a powerful [optimization](../o/optimization.md) technique widely used in the field of machine learning and [data mining](../d/data_mining.md), particularly for training large-scale models and algorithms. In the context of [algorithmic trading](../a/algorithmic_trading.md), SGD is pivotal in optimizing [trading strategies](../t/trading_strategies.md), calibrating model parameters, and refining machine learning models to increase the predictive power and profitability of [trading systems](../t/trading_systems.md). This extensive exploration [will](../w/will.md) cover the core concepts, mathematical formulation, variants, applications, and practical implementations of SGD in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Core Concepts and Mathematical Formulation
 
 ### Gradient Descent
 
-Before diving into stochastic gradient descent, it's crucial to understand the basic gradient descent algorithm. Gradient descent is a first-order iterative optimization algorithm used to minimize (or maximize) functions. Here’s how the standard gradient descent works:
-1. **Objective Function:** Suppose we have an objective function \( f(\theta) \) which we need to minimize.
+Before diving into stochastic gradient descent, it's crucial to understand the basic gradient descent algorithm. Gradient descent is a first-[order](../o/order.md) iterative [optimization](../o/optimization.md) algorithm used to minimize (or maximize) functions. Here’s how the standard gradient descent works:
+1. **Objective Function:** Suppose we have an objective function \( f(\[theta](../t/theta.md)) \) which we need to minimize.
 2. **Initial Parameters:** Start with initial parameters \(\theta_0\).
 3. **Update Rule:** Iteratively update the parameters using the rule:
    \[
@@ -40,20 +40,20 @@ where \(X_b\) is a mini-batch of training samples.
 
 ### Momentum
 
-Momentum is an enhancement to the standard SGD, which helps accelerate convergence and smooths the optimization path:
+[Momentum](../m/momentum.md) is an enhancement to the standard SGD, which helps accelerate convergence and smooths the [optimization](../o/optimization.md) path:
 \[
-v_{t+1} = \beta v_t + \eta \cdot \nabla f(\theta_t)
+v_{t+1} = \[beta](../b/beta.md) v_t + \eta \cdot \nabla f(\theta_t)
 \]
 \[
 \theta_{t+1} = \theta_t - v_{t+1}
 \]
-where \(\beta\) is the momentum term.
+where \(\[beta](../b/beta.md)\) is the [momentum](../m/momentum.md) term.
 
 ### Nesterov Accelerated Gradient (NAG)
 
-NAG builds upon momentum by looking ahead:
+NAG builds upon [momentum](../m/momentum.md) by looking ahead:
 \[
-v_{t+1} = \beta v_t + \eta \cdot \nabla f(\theta_t - \beta v_t)
+v_{t+1} = \[beta](../b/beta.md) v_t + \eta \cdot \nabla f(\theta_t - \[beta](../b/beta.md) v_t)
 \]
 \[
 \theta_{t+1} = \theta_t - v_{t+1}
@@ -65,11 +65,11 @@ v_{t+1} = \beta v_t + \eta \cdot \nabla f(\theta_t - \beta v_t)
   \[
   \theta_{t+1} = \theta_t - \frac{\eta}{\sqrt{G_{t,ii} + \epsilon}} \cdot \nabla f(\theta_t)
   \]
-  where \(G_t\) is the accumulated sum of squares of past gradients.
+  where \(G_t\) is the accumulated [sum of squares](../s/sum_of_squares.md) of past gradients.
   
 - **RMSProp:** Similar to AdaGrad but uses an exponential moving average:
   \[
-  G_{t+1,ii} = \gamma G_{t,ii} + (1-\gamma) (\nabla f(\theta_t))^2
+  G_{t+1,ii} = \[gamma](../g/gamma.md) G_{t,ii} + (1-\[gamma](../g/gamma.md)) (\nabla f(\theta_t))^2
   \]
   \[
   \theta_{t+1} = \theta_t - \frac{\eta}{\sqrt{G_{t+1,ii} + \epsilon}} \cdot \nabla f(\theta_t)
@@ -98,15 +98,15 @@ SGD is instrumental in calibrating [predictive models](../p/predictive_models_in
 
 Using SGD, one can optimize [trading strategies](../t/trading_strategies.md) by minimizing the loss function associated with the [trading rules](../t/trading_rules.md):
 \[
-L(\theta) = -R(\theta) + \lambda ||\theta||^2
+L(\[theta](../t/theta.md)) = -R(\[theta](../t/theta.md)) + \[lambda](../l/lambda.md) ||\[theta](../t/theta.md)||^2
 \]
-where \(R(\theta)\) is the return function dependent on the strategy parameters \(\theta\).
+where \(R(\[theta](../t/theta.md))\) is the [return](../r/return.md) function dependent on the strategy parameters \(\[theta](../t/theta.md)\).
 
 ### Risk Management
 
 SGD can also be applied to enhance [risk management](../r/risk_management.md) models by minimizing the expected loss due to risks:
 \[
-\text{Risk}(\theta) = \mathbb{E}[L(\theta)]
+\text{[Risk](../r/risk.md)}(\[theta](../t/theta.md)) = \mathbb{E}[L(\[theta](../t/theta.md))]
 \]
 
 ## Practical Implementations
@@ -121,11 +121,11 @@ Several popular libraries and frameworks support SGD:
 ### Example Implementation in Python with TensorFlow
 
 ```python
-import numpy as np
-import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
-from tensorflow.keras.optimizers import SGD
+[import](../i/import.md) numpy as np
+[import](../i/import.md) tensorflow as tf
+from tensorflow.keras.models [import](../i/import.md) Sequential
+from tensorflow.keras.layers [import](../i/import.md) Dense
+from tensorflow.keras.optimizers [import](../i/import.md) SGD
 
 # Generate dummy dataset
 X_train = np.random.rand(1000, 20)
@@ -138,7 +138,7 @@ model = Sequential([
 ])
 
 # Compile the model
-model.compile(optimizer=SGD(learning_rate=0.01, momentum=0.9),
+model.compile(optimizer=SGD(learning_rate=0.01, [momentum](../m/momentum.md)=0.9),
               loss='binary_crossentropy',
               metrics=['accuracy'])
 
@@ -149,10 +149,10 @@ model.fit(X_train, y_train, epochs=50, batch_size=32)
 ### Example Implementation in Python with PyTorch
 
 ```python
-import torch
-import torch.nn as nn
-import torch.optim as optim
-from torch.autograd import Variable
+[import](../i/import.md) torch
+[import](../i/import.md) torch.nn as nn
+[import](../i/import.md) torch.optim as optim
+from torch.autograd [import](../i/import.md) Variable
 
 # Generate dummy dataset
 X_train = np.random.rand(1000, 20).astype(np.float32)
@@ -172,16 +172,16 @@ class Net(nn.Module):
     def forward(self, x):
         x = torch.relu(self.fc1(x))
         x = torch.sigmoid(self.fc2(x))
-        return x
+        [return](../r/return.md) x
 
 model = Net()
 
 # Define loss function and optimizer
 criterion = nn.BCELoss()
-optimizer = optim.SGD(model.parameters(), lr=0.01, momentum=0.9)
+optimizer = optim.SGD(model.parameters(), lr=0.01, [momentum](../m/momentum.md)=0.9)
 
 # Training loop
-for epoch in range(50):
+for epoch in [range](../r/range.md)(50):
     inputs = Variable(X_train)
     labels = Variable(y_train)
     
@@ -202,4 +202,4 @@ print(validation_output[:10])
 
 ## Conclusion
 
-Stochastic Gradient Descent and its variants are foundational in the realm of optimization for machine learning models, playing a crucial role in [algorithmic trading](../a/algorithmic_trading.md). The adaptability, efficiency, and convergence capabilities of SGD make it an ideal choice for training large-scale [predictive models](../p/predictive_models_in_trading.md), optimizing [trading strategies](../t/trading_strategies.md), and enhancing [risk management](../r/risk_management.md) techniques. Understanding these concepts and their practical implementations enables algorithmic traders and quants to harness the full potential of cutting-edge machine learning technologies.
+Stochastic Gradient Descent and its variants are foundational in the realm of [optimization](../o/optimization.md) for machine learning models, playing a crucial role in [algorithmic trading](../a/algorithmic_trading.md). The adaptability, [efficiency](../e/efficiency.md), and convergence capabilities of SGD make it an ideal choice for training large-scale [predictive models](../p/predictive_models_in_trading.md), optimizing [trading strategies](../t/trading_strategies.md), and enhancing [risk management](../r/risk_management.md) techniques. Understanding these concepts and their practical implementations enables algorithmic traders and quants to harness the full potential of cutting-edge machine learning technologies.

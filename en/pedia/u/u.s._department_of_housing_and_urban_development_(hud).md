@@ -2,7 +2,7 @@
 
 The U.S. Department of Housing and Urban Development (HUD) is an executive department of the federal government of the United States. Established in 1965, HUD's primary mission is to create strong, sustainable, inclusive communities and quality affordable homes for all. Its initiatives and programs address national housing needs, enforce fair housing laws, and support homeownership, economic development, and community revitalization efforts. 
 
-HUD operates a wide array of programs designed to support housing for low-income families, combat discrimination, and assist in urban development. The department plays a crucial role in the housing market by promoting policies that facilitate the construction, purchase, and rental of homes. The overarching goals of HUD encompass addressing homelessness, enhancing the quality of public housing, and ensuring that communities are equipped with the necessary infrastructure and services to thrive.
+HUD operates a wide array of programs designed to support housing for low-[income](../i/income.md) families, combat discrimination, and assist in urban development. The department plays a crucial role in the housing [market](../m/market.md) by promoting policies that facilitate the construction, purchase, and rental of homes. The overarching goals of HUD encompass addressing homelessness, enhancing the quality of public housing, and ensuring that communities are equipped with the necessary [infrastructure](../i/infrastructure.md) and services to thrive.
 
 ## Key Functions and Programs
 
@@ -10,25 +10,25 @@ HUD operates a wide array of programs designed to support housing for low-income
 
 #### Public Housing
 
-HUD provides funding to Public Housing Agencies (PHAs) that manage and operate public housing units. The goal is to offer safe and affordable homes for low-income families, the elderly, and individuals with disabilities. Public housing units are owned by the government and administered locally to meet community-specific needs.
+HUD provides funding to Public Housing Agencies (PHAs) that manage and operate public housing units. The goal is to [offer](../o/offer.md) safe and affordable homes for low-[income](../i/income.md) families, the elderly, and individuals with disabilities. Public housing units are owned by the government and administered locally to meet community-specific needs.
 
 #### Housing Choice Voucher Program (Section 8)
 
-The Housing Choice Voucher Program, commonly known as Section 8, helps very low-income families, the elderly, and disabled individuals afford decent, safe, and sanitary housing in the private market. Participants receive vouchers that subsidize their rent. Beneficiaries have the freedom to choose their housing, including single-family homes, townhouses, and apartments, as long as the housing meets the program's requirements.
+The Housing Choice [Voucher](../v/voucher.md) Program, commonly known as Section 8, helps very low-[income](../i/income.md) families, the elderly, and disabled individuals afford decent, safe, and sanitary housing in the private [market](../m/market.md). Participants receive vouchers that subsidize their rent. Beneficiaries have the freedom to choose their housing, including single-family homes, townhouses, and apartments, as long as the housing meets the program's requirements.
 
 #### Project-Based Rental Assistance
 
-This program contracts with property owners to provide affordable rental units. Owners receive rental subsidies in exchange for these units being occupied by low-income households. The contracts ensure that rent prices remain affordable for an extended period.
+This program contracts with property owners to provide affordable rental units. Owners receive rental subsidies in [exchange](../e/exchange.md) for these units being occupied by low-[income](../i/income.md) households. The contracts ensure that rent prices remain affordable for an extended period.
 
 ### Community Planning and Development
 
 #### Community Development Block Grants (CDBG)
 
-The CDBG program provides annual grants to states, cities, and counties to develop viable urban communities by providing decent housing and a suitable living environment and by expanding economic opportunities, primarily for low- and moderate-income persons.
+The CDBG program provides annual grants to states, cities, and counties to develop viable urban communities by providing decent housing and a suitable living environment and by expanding economic opportunities, primarily for low- and moderate-[income](../i/income.md) persons.
 
 #### HOME Investment Partnerships Program
 
-This program is the largest federal block grant to state and local governments designed exclusively to create affordable housing for low-income households. It provides funds for building, buying, and rehabilitating affordable housing for rent or homeownership or providing direct rental assistance to low-income individuals.
+This program is the largest federal block [grant](../g/grant.md) to state and local governments designed exclusively to create affordable housing for low-[income](../i/income.md) households. It provides funds for building, buying, and rehabilitating affordable housing for rent or homeownership or providing direct rental assistance to low-[income](../i/income.md) individuals.
 
 ### Homeless Assistance
 
@@ -50,27 +50,27 @@ The FHEO enforces laws that ensure fair treatment in housing and prohibit discri
 
 ### Office of Policy Development and Research (PD&R)
 
-PD&R conducts studies on housing, community development, and the nation’s economic condition to support informed policy decisions. The office offers valuable insights into housing market conditions, policy impacts, and the broader economic environment through various publications, data sets, and research initiatives.
+PD&R conducts studies on housing, community development, and the nation’s economic condition to support informed policy decisions. The office offers valuable insights into housing [market](../m/market.md) conditions, policy impacts, and the broader economic environment through various publications, data sets, and research initiatives.
 
 ## HUD's Role in Financial Markets
 
 ### Federal Housing Administration (FHA)
 
-The FHA provides mortgage insurance on loans made by FHA-approved lenders throughout the United States and its territories. FHA insures mortgages on single-family and multifamily homes, including manufactured homes and hospitals. The insured mortgages protect lenders against losses from borrower defaults, thereby making homeownership more accessible to individuals who might not qualify for conventional loans.
+The FHA provides [mortgage insurance](../m/mortgage_insurance.md) on loans made by FHA-approved lenders throughout the United States and its territories. FHA insures mortgages on single-family and multifamily homes, including manufactured homes and hospitals. The insured mortgages protect lenders against losses from borrower defaults, thereby making homeownership more accessible to individuals who might not qualify for conventional loans.
 
 ### Government National Mortgage Association (Ginnie Mae)
 
-Ginnie Mae guarantees the timely payment of principal and interest on mortgage-backed securities (MBS) issued by approved lenders. These MBS are backed by federally insured or guaranteed loans. Ginnie Mae's guarantees increase the liquidity of the mortgage market and make housing credit more affordable and available.
+Ginnie Mae guarantees the timely [payment](../p/payment.md) of [principal](../p/principal.md) and [interest](../i/interest.md) on [mortgage](../m/mortgage.md)-backed securities (MBS) issued by approved lenders. These MBS are backed by federally insured or guaranteed loans. Ginnie Mae's guarantees increase the [liquidity](../l/liquidity.md) of the [mortgage](../m/mortgage.md) [market](../m/market.md) and make housing [credit](../c/credit.md) more affordable and available.
 
 ## Modern Challenges and Initiatives
 
 ### Affordability Crisis
 
-The rising costs of rent and home prices across the country pose significant challenges to ensuring affordable housing for all. HUD is continually developing strategies to address these challenges through funding allocations, policy adjustments, and support programs that aim to expand housing availability and accessibility.
+The rising costs of rent and [home](../h/home.md) prices across the country pose significant challenges to ensuring affordable housing for all. HUD is continually developing strategies to address these challenges through funding allocations, policy adjustments, and support programs that aim to expand housing availability and accessibility.
 
 ### Digital Transformation
 
-In an era of rapid technological advancements, HUD is leveraging digital tools and platforms to enhance service delivery, streamline operations, and improve constituent engagement. Initiatives include modernizing data systems, improving online services, and using big data for informed decision-making.
+In an era of rapid technological advancements, HUD is leveraging digital tools and platforms to enhance service delivery, streamline operations, and improve constituent engagement. Initiatives include modernizing data systems, improving online services, and using [big data](../b/big_data_in_trading.md) for informed decision-making.
 
 ### Response to COVID-19
 

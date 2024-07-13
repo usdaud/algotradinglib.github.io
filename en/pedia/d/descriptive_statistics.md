@@ -1,10 +1,10 @@
 # Descriptive Statistics
 
-Descriptive statistics is a branch of statistics that focuses on summarizing and describing the features of a dataset. It provides simple summaries about the sample and the measures, offering a way to present large amounts of data in a meaningful and interpretable way. In this article, we will delve into the various aspects and techniques of descriptive statistics, discussing measures of central tendency, dispersion, distribution, and data visualization methods.
+Descriptive [statistics](../s/statistics.md) is a branch of [statistics](../s/statistics.md) that focuses on summarizing and describing the features of a dataset. It provides simple summaries about the sample and the measures, [offering](../o/offering.md) a way to present large amounts of data in a meaningful and interpretable way. In this article, we [will](../w/will.md) delve into the various aspects and techniques of descriptive [statistics](../s/statistics.md), discussing measures of central tendency, [dispersion](../d/dispersion.md), [distribution](../d/distribution.md), and [data visualization](../d/data_visualization.md) methods.
 
 ## Measures of Central Tendency
 
-Measures of central tendency are statistical tools used to determine the center or typical value of a dataset. The three main measures are the mean, median, and mode.
+Measures of central tendency are statistical tools used to determine the center or typical [value](../v/value.md) of a dataset. The three main measures are the mean, [median](../m/median.md), and [mode](../m/mode.md).
 
 ### Mean
 
@@ -16,9 +16,9 @@ where \( N \) is the number of observations, and \( x_i \) are the individual va
 
 ### Median
 
-The median is the middle value in a dataset when the values are arranged in ascending or descending order. If the number of observations is even, the median is the average of the two middle values. It is less affected by outliers compared to the mean.
+The [median](../m/median.md) is the middle [value](../v/value.md) in a dataset when the values are arranged in ascending or descending [order](../o/order.md). If the number of observations is even, the [median](../m/median.md) is the average of the two middle values. It is less affected by outliers compared to the mean.
 
-\[ \text{Median} = 
+\[ \text{[Median](../m/median.md)} = 
 \begin{cases} 
 x_{(\frac{N+1}{2})} & \text{if } N \text{ is odd} \\
 \frac{x_{(\frac{N}{2})} + x_{(\frac{N}{2}+1)}}{2} & \text{if } N \text{ is even}
@@ -27,19 +27,19 @@ x_{(\frac{N+1}{2})} & \text{if } N \text{ is odd} \\
 
 ### Mode
 
-The mode is the value that appears most frequently in a dataset. A dataset may have one mode (unimodal), more than one mode (bimodal or multimodal), or no mode at all.
+The [mode](../m/mode.md) is the [value](../v/value.md) that appears most frequently in a dataset. A dataset may have one [mode](../m/mode.md) (unimodal), more than one [mode](../m/mode.md) (bimodal or multimodal), or no [mode](../m/mode.md) at all.
 
-\[ \text{Mode} = \text{most frequent value in the dataset} \]
+\[ \text{Mode} = \text{most frequent [value](../v/value.md) in the dataset} \]
 
 ## Measures of Dispersion
 
-Measures of dispersion describe the spread or variability of a dataset. The common measures include range, variance, standard deviation, and interquartile range (IQR).
+Measures of [dispersion](../d/dispersion.md) describe the spread or [variability](../v/variability.md) of a dataset. The common measures include [range](../r/range.md), variance, [standard deviation](../s/standard_deviation.md), and interquartile [range](../r/range.md) (IQR).
 
 ### Range
 
-The range is the difference between the maximum and minimum values in a dataset.
+The [range](../r/range.md) is the difference between the maximum and minimum values in a dataset.
 
-\[ \text{Range} = \text{Max}(x_i) - \text{Min}(x_i) \]
+\[ \text{[Range](../r/range.md)} = \text{Max}(x_i) - \text{Min}(x_i) \]
 
 ### Variance
 
@@ -55,7 +55,7 @@ where \( \mu \) is the population mean and \( \bar{x} \) is the sample mean.
 
 ### Standard Deviation
 
-The standard deviation is the square root of the variance. It provides a measure of the average distance from the mean.
+The [standard deviation](../s/standard_deviation.md) is the square root of the variance. It provides a measure of the average distance from the mean.
 
 For a population:
 \[ \sigma = \sqrt{\sigma^2} \]
@@ -65,47 +65,47 @@ For a sample:
 
 ### Interquartile Range (IQR)
 
-The IQR is the range within which the central 50% of the values lie, calculated as the difference between the third quartile (\(Q3\)) and the first quartile (\(Q1\)).
+The IQR is the [range](../r/range.md) within which the central 50% of the values lie, calculated as the difference between the third [quartile](../q/quartile.md) (\(Q3\)) and the first [quartile](../q/quartile.md) (\(Q1\)).
 
 \[ \text{IQR} = Q3 - Q1 \]
 
-Quartiles are values that divide the dataset into four equal parts. \(Q1\) is the median of the lower half of the data, and \(Q3\) is the median of the upper half.
+Quartiles are values that divide the dataset into four equal parts. \(Q1\) is the [median](../m/median.md) of the lower half of the data, and \(Q3\) is the [median](../m/median.md) of the upper half.
 
 ## Measures of Distribution Shape
 
-The shape of the data distribution can be described using measures like skewness and kurtosis.
+The shape of the data [distribution](../d/distribution.md) can be described using measures like [skewness and kurtosis](../s/skewness_and_kurtosis.md).
 
 ### Skewness
 
-Skewness measures the asymmetry of the data distribution.
+[Skewness](../s/skewness.md) measures the asymmetry of the data [distribution](../d/distribution.md).
 
-- Positive skew (right skew): The tail on the right side of the distribution is longer or fatter.
+- Positive skew (right skew): The tail on the right side of the [distribution](../d/distribution.md) is longer or fatter.
 - Negative skew (left skew): The tail on the left side is longer or fatter.
-- Zero skew: The distribution is perfectly symmetrical.
+- Zero skew: The [distribution](../d/distribution.md) is perfectly symmetrical.
 
-\[ \text{Skewness} = \frac{1}{N} \sum_{i=1}^N \left( \frac{x_i - \bar{x}}{s} \right)^3 \]
+\[ \text{[Skewness](../s/skewness.md)} = \frac{1}{N} \sum_{i=1}^N \left( \frac{x_i - \bar{x}}{s} \right)^3 \]
 
 ### Kurtosis
 
-Kurtosis measures the "tailedness" of the distribution. 
+[Kurtosis](../k/kurtosis.md) measures the "tailedness" of the [distribution](../d/distribution.md). 
 
-- Positive kurtosis (leptokurtic): Distribution with heavy tails.
-- Negative kurtosis (platykurtic): Distribution with light tails.
-- Zero kurtosis (mesokurtic): Similar to a normal distribution.
+- Positive [kurtosis](../k/kurtosis.md) (leptokurtic): [Distribution](../d/distribution.md) with heavy tails.
+- Negative [kurtosis](../k/kurtosis.md) ([platykurtic](../p/platykurtic.md)): [Distribution](../d/distribution.md) with light tails.
+- Zero [kurtosis](../k/kurtosis.md) (mesokurtic): Similar to a [normal distribution](../n/normal_distribution_in_trading.md).
 
-\[ \text{Kurtosis} = \frac{1}{N} \sum_{i=1}^N \left( \frac{x_i - \bar{x}}{s} \right)^4 - 3 \]
+\[ \text{[Kurtosis](../k/kurtosis.md)} = \frac{1}{N} \sum_{i=1}^N \left( \frac{x_i - \bar{x}}{s} \right)^4 - 3 \]
 
 ## Data Visualization
 
-Data visualization techniques are essential in descriptive statistics for illustrating data features and patterns. Some common methods include histograms, bar charts, pie charts, box plots, and scatter plots.
+[Data visualization](../d/data_visualization.md) techniques are essential in descriptive [statistics](../s/statistics.md) for illustrating data features and patterns. Some common methods include histograms, bar charts, pie charts, box plots, and scatter plots.
 
 ### Histograms
 
-Histograms display the distribution of a dataset by grouping data into bins and plotting the frequency of data points in each bin.
+Histograms display the [distribution](../d/distribution.md) of a dataset by grouping data into bins and plotting the frequency of data points in each bin.
 
 ### Bar Charts
 
-Bar charts represent categorical data with rectangular bars, where the length of each bar corresponds to the frequency or value of the category.
+Bar charts represent categorical data with rectangular bars, where the length of each bar corresponds to the frequency or [value](../v/value.md) of the category.
 
 ### Pie Charts
 
@@ -113,7 +113,7 @@ Pie charts show the proportion of different categories in a dataset, with each "
 
 ### Box Plots
 
-Box plots, or whisker plots, provide a summary of a dataset using a five-number summary: minimum, first quartile (Q1), median, third quartile (Q3), and maximum. Box plots are useful for identifying outliers and understanding data spread.
+Box plots, or whisker plots, provide a summary of a dataset using a five-number summary: minimum, first [quartile](../q/quartile.md) (Q1), [median](../m/median.md), third [quartile](../q/quartile.md) (Q3), and maximum. Box plots are useful for identifying outliers and understanding data spread.
 
 ### Scatter Plots
 
@@ -121,23 +121,23 @@ Scatter plots show the relationship between two numerical variables by plotting 
 
 ## Practical Applications
 
-Descriptive statistics are applied across multiple fields and industries to summarize and interpret data effectively. Here are a few examples:
+Descriptive [statistics](../s/statistics.md) are applied across [multiple](../m/multiple.md) fields and industries to summarize and interpret data effectively. Here are a few examples:
 
 ### Business and Economics
 
-In business and economics, descriptive statistics are used to explore market trends, customer behavior, and financial data. Businesses can make data-driven decisions by analyzing central tendencies and dispersion measures to understand their performance and market position.
+In [business](../b/business.md) and [economics](../e/economics.md), descriptive [statistics](../s/statistics.md) are used to explore [market](../m/market.md) trends, [customer](../c/customer.md) behavior, and financial data. Businesses can make data-driven decisions by analyzing central tendencies and [dispersion](../d/dispersion.md) measures to understand their performance and [market](../m/market.md) position.
 
 ### Healthcare
 
-In healthcare, descriptive statistics help analyze clinical trial results, patient demographics, and disease prevalence. These insights guide medical professionals in understanding health trends and improving patient care.
+In healthcare, descriptive [statistics](../s/statistics.md) help analyze clinical trial results, patient [demographics](../d/demographics.md), and disease prevalence. These insights guide medical professionals in understanding health trends and improving patient care.
 
 ### Education
 
-Educational institutions use descriptive statistics to evaluate student performance, graduation rates, and demographic trends. This information aids in policy-making and curriculum development.
+Educational institutions use descriptive [statistics](../s/statistics.md) to evaluate student performance, graduation rates, and demographic trends. This information aids in policy-making and curriculum development.
 
 ### Sports
 
-Sports analysts use descriptive statistics to evaluate player performance, team statistics, and game outcomes. This data helps in strategy development and performance improvement.
+Sports analysts use descriptive [statistics](../s/statistics.md) to evaluate player performance, team [statistics](../s/statistics.md), and game outcomes. This data helps in strategy development and performance improvement.
 
 ## Software and Tools
 
@@ -145,11 +145,11 @@ Several software programs and tools are available to perform descriptive statist
 
 ### Microsoft Excel
 
-Excel is a widely used spreadsheet application with built-in functions for calculating mean, median, mode, variance, standard deviation, and creating various charts for data visualization.
+Excel is a widely used spreadsheet application with built-in functions for calculating mean, [median](../m/median.md), [mode](../m/mode.md), variance, [standard deviation](../s/standard_deviation.md), and creating various charts for [data visualization](../d/data_visualization.md).
 
 ### R
 
-R is a programming language and environment for statistical computing and graphics. It is highly extensible with a wide range of packages for data manipulation, descriptive statistics, and visualization.
+R is a programming language and environment for statistical computing and graphics. It is highly extensible with a wide [range](../r/range.md) of packages for data manipulation, descriptive [statistics](../s/statistics.md), and visualization.
 
 ### Python
 
@@ -157,8 +157,8 @@ Python, particularly with libraries like Pandas, NumPy, Matplotlib, and Seaborn,
 
 ### SPSS
 
-IBM SPSS Statistics is a software package used for statistical analysis. It offers a user-friendly interface for performing descriptive statistics, hypothesis testing, and data visualization.
+IBM SPSS [Statistics](../s/statistics.md) is a software package used for statistical analysis. It offers a user-friendly interface for performing descriptive [statistics](../s/statistics.md), [hypothesis testing](../h/hypothesis_testing.md), and [data visualization](../d/data_visualization.md).
 
 ## Conclusion
 
-Descriptive statistics provide essential tools for summarizing and interpreting large datasets. Measures of central tendency, dispersion, and distribution shape offer insights into the data's overall structure, while data visualization techniques make these insights accessible and understandable. Whether in business, healthcare, education, or sports, descriptive statistics play a crucial role in making informed decisions based on data.
+Descriptive [statistics](../s/statistics.md) provide essential tools for summarizing and interpreting large datasets. Measures of central tendency, [dispersion](../d/dispersion.md), and [distribution](../d/distribution.md) shape [offer](../o/offer.md) insights into the data's overall structure, while [data visualization](../d/data_visualization.md) techniques make these insights accessible and understandable. Whether in [business](../b/business.md), healthcare, education, or sports, descriptive [statistics](../s/statistics.md) play a crucial role in making informed decisions based on data.

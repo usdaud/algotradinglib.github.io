@@ -13,7 +13,7 @@ The ADP Test compares the average percentages of salary deferred (contributed) t
 HCEs are defined as employees who:
 
 1. Received compensation from the employer exceeding a specified dollar limit (e.g., $130,000 in 2021).
-2. Owned more than 5% of the business at any time during the year, regardless of their compensation.
+2. Owned more than 5% of the [business](../b/business.md) at any time during the year, regardless of their compensation.
 
 ### Test Calculation
 
@@ -68,11 +68,11 @@ If the plan fails either the ADP or ACP test, corrective actions must be taken p
 
 ## Resources and Solutions
 
-Several firms provide ADP/ACP testing assistance, offering automated solutions and tailored consulting to ensure compliance. For instance:
+Several firms provide ADP/ACP testing assistance, [offering](../o/offering.md) automated solutions and tailored consulting to ensure compliance. For instance:
 
-- **ADP Retirement Services**: Automated testing and correction process provided by ADP. [ADP Retirement Services](https://www.adp.com/what-we-offer/benefits/retirement/401k.aspx)
+- **ADP Retirement Services**: Automated testing and [correction](../c/correction.md) process provided by ADP. [ADP Retirement Services](https://www.adp.com/what-we-offer/benefits/retirement/401k.aspx)
 
-- **Paychex**: Comprehensive 401(k) plan administration including non-discrimination testing and corrections. [Paychex](https://www.paychex.com/retirement-services/401k)
+- **Paychex**: Comprehensive [401(k) plan](../1/401(k)_plan.md) administration including non-discrimination testing and corrections. [Paychex](https://www.paychex.com/retirement-services/401k)
 
 - **Fidelity**: Offers 401(k) plans and services, including non-discrimination testing. [Fidelity](https://www.fidelity.com/retirement-ira/small-business/401k)
 

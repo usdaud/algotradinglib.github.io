@@ -1,12 +1,12 @@
 # Stochastic Calculus
 
-Stochastic calculus is a branch of mathematics that operates on [stochastic processes](../s/stochastic_processes.md). It provides tools for modeling and analyzing systems that evolve over time with random elements. This field is essential in various domains, including financial mathematics, physics, engineering, and biology, but it is particularly significant in the domain of [algorithmic trading](../a/algorithmic_trading.md) or "algo trading." In algo trading, stochastic calculus is applied to model the seemingly random behavior of asset prices in the financial markets and to develop algorithms for [trading strategies](../t/trading_strategies.md).
+Stochastic calculus is a branch of mathematics that operates on [stochastic processes](../s/stochastic_processes.md). It provides tools for modeling and analyzing systems that evolve over time with random elements. This field is essential in various domains, including financial mathematics, physics, engineering, and biology, but it is particularly significant in the domain of [algorithmic trading](../a/algorithmic_trading.md) or "algo trading." In algo trading, stochastic calculus is applied to model the seemingly random behavior of [asset](../a/asset.md) prices in the [financial markets](../f/financial_market.md) and to develop algorithms for [trading strategies](../t/trading_strategies.md).
 
 ## Foundations of Stochastic Calculus
 
 ### Brownian Motion
 
-One of the principal concepts in stochastic calculus is Brownian motion, also known as a Wiener process. Named after Robert Brown who first described it, Brownian motion mathematically models the random movement of particles suspended in fluid. It is characterized by the following properties:
+One of the [principal](../p/principal.md) concepts in stochastic calculus is Brownian motion, also known as a Wiener process. Named after Robert Brown who first described it, Brownian motion mathematically models the random movement of particles suspended in fluid. It is characterized by the following properties:
 
 1. **Continuity:** The paths of Brownian motion are continuous.
 2. **Starting Point:** The process starts at zero.
@@ -23,7 +23,7 @@ In mathematical notation, a Brownian motion \( W(t) \) can be described by:
 
 where:
 - \( X_t \) is the state variable.
-- \( \mu(X_t, t) \) is the drift term, representing the deterministic trend.
+- \( \mu(X_t, t) \) is the drift term, representing the deterministic [trend](../t/trend.md).
 - \( \sigma(X_t, t) \) is the diffusion term, representing the stochastic component.
 - \( W_t \) is the Brownian motion or Wiener process.
 
@@ -38,21 +38,21 @@ and \( f(X_t, t) \) is a twice-differentiable function, then \( f(X_t, t) \) fol
 
 ### Black-Scholes Model
 
-One of the most famous applications of stochastic calculus in finance is the [Black-Scholes model](../b/black-scholes_model.md), which is used for option pricing. The model assumes that the price of the underlying asset follows a [geometric Brownian motion](../g/geometric_brownian_motion.md):
+One of the most famous applications of stochastic calculus in [finance](../f/finance.md) is the [Black-Scholes model](../b/black-scholes_model.md), which is used for option pricing. The model assumes that the price of the [underlying asset](../u/underlying_asset.md) follows a [geometric Brownian motion](../g/geometric_brownian_motion.md):
 \[ dS_t = \mu S_t dt + \sigma S_t dW_t \]
 
-Using this assumption, the Black-Scholes formula allows the calculation of a theoretical value for European-style options. The formula involves the following parameters:
+Using this assumption, the Black-Scholes formula allows the calculation of a theoretical [value](../v/value.md) for European-style [options](../o/options.md). The formula involves the following parameters:
 - \( S_t \): Current stock price
-- \( K \): Strike price
-- \( t \): Time to maturity
-- \( \sigma \): Volatility of the underlying asset’s returns
-- \( r \): Risk-free interest rate
+- \( K \): [Strike price](../s/strike_price.md)
+- \( t \): Time to [maturity](../m/maturity.md)
+- \( \sigma \): [Volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md)’s returns
+- \( r \): [Risk](../r/risk.md)-free [interest rate](../i/interest_rate.md)
 
 ### Trading Algorithms Based on Mean Reversion
 
-[Mean reversion](../m/mean_reversion.md) is the financial theory that asset prices and historical returns will eventually revert to their long-term mean or average level. [Stochastic differential equations](../s/stochastic_differential_equations.md) are used to model mean-reverting processes, and one such model is the Ornstein-Uhlenbeck process:
-\[ dX_t = \theta (\mu - X_t) dt + \sigma dW_t \]
-where \( \theta \) governs the speed of reversion, \( \mu \) is the long-term mean level, and \( \sigma \) is the volatility.
+[Mean reversion](../m/mean_reversion.md) is the financial theory that [asset](../a/asset.md) prices and [historical returns](../h/historical_returns.md) [will](../w/will.md) eventually revert to their long-term mean or average level. [Stochastic differential equations](../s/stochastic_differential_equations.md) are used to model mean-reverting processes, and one such model is the Ornstein-Uhlenbeck process:
+\[ dX_t = \[theta](../t/theta.md) (\mu - X_t) dt + \sigma dW_t \]
+where \( \[theta](../t/theta.md) \) governs the speed of reversion, \( \mu \) is the long-term mean level, and \( \sigma \) is the [volatility](../v/volatility.md).
 
 ### Statistical Arbitrage Strategies
 
@@ -60,11 +60,11 @@ Statistical [arbitrage](../a/arbitrage.md) involves techniques that use [mean re
 
 ### Portfolio Optimization
 
-Dynamic [portfolio optimization](../p/portfolio_optimization.md) uses stochastic calculus to manage a portfolio of assets over time. The goal is often to maximize the expected return for a given level of risk, and this involves the solution of [stochastic control](../s/stochastic_control.md) problems. The Hamilton-Jacobi-Bellman (HJB) equation is one such formulation widely used in [portfolio optimization](../p/portfolio_optimization.md).
+Dynamic [portfolio optimization](../p/portfolio_optimization.md) uses stochastic calculus to manage a portfolio of assets over time. The goal is often to maximize the [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md), and this involves the solution of [stochastic control](../s/stochastic_control.md) problems. The Hamilton-Jacobi-Bellman (HJB) equation is one such formulation widely used in [portfolio optimization](../p/portfolio_optimization.md).
 
 ### Risk Management
 
-In its application to [risk management](../r/risk_management.md), stochastic calculus helps in modeling the dynamic behavior of various [risk factors](../r/risk_factors_in_trading.md) and quantifying the risk associated with financial portfolios. Value-at-Risk (VaR) metrics and sensitivities like Greek letters (Delta, Gamma, Vega, etc.) are often derived using models based on [stochastic processes](../s/stochastic_processes.md).
+In its application to [risk management](../r/risk_management.md), stochastic calculus helps in modeling the dynamic behavior of various [risk factors](../r/risk_factors_in_trading.md) and quantifying the [risk](../r/risk.md) associated with financial portfolios. [Value](../v/value.md)-at-[Risk](../r/risk.md) (VaR) metrics and sensitivities like Greek letters ([Delta](../d/delta.md), [Gamma](../g/gamma.md), [Vega](../v/vega.md), etc.) are often derived using models based on [stochastic processes](../s/stochastic_processes.md).
 
 ## Tools and Libraries
 
@@ -72,26 +72,26 @@ Several computational tools and libraries are available for implementing stochas
 
 ### Python Libraries
 
-- **NumPy**: Fundamental package for scientific computing with Python, offering support for large multi-dimensional arrays and matrices.
+- **NumPy**: Fundamental package for scientific computing with Python, [offering](../o/offering.md) support for large multi-dimensional arrays and matrices.
   - [NumPy](https://numpy.org/)
 
-- **SciPy**: Open-source library used for scientific and technical computing, complementing NumPy.
+- **SciPy**: [Open](../o/open.md)-source library used for scientific and technical computing, complementing NumPy.
   - [SciPy](https://scipy.org/)
 
 - **Pandas**: Library providing data structures and data analysis tools for Python.
   - [Pandas](https://pandas.pydata.org/)
 
-- **[QuantLib](../q/quantlib.md)**: Open-source library for [quantitative finance](../q/quantitative_finance.md).
+- **[QuantLib](../q/quantlib.md)**: [Open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md).
   - [QuantLib](https://www.quantlib.org/)
 
 ### MATLAB
 
-MATLAB is extensively used in the financial industry for developing [quantitative trading](../q/quantitative_trading.md) models. It includes toolboxes designed explicitly for implementing [stochastic processes](../s/stochastic_processes.md) and simulations.
+MATLAB is extensively used in the financial [industry](../i/industry.md) for developing [quantitative trading](../q/quantitative_trading.md) models. It includes toolboxes designed explicitly for implementing [stochastic processes](../s/stochastic_processes.md) and simulations.
   - [MATLAB](https://www.mathworks.com/products/matlab.html)
 
 ### R
 
-R is another popular language used for statistical computing and graphics. It offers multiple packages for [stochastic modeling](../s/stochastic_modeling.md) and [quantitative finance](../q/quantitative_finance.md).
+R is another popular language used for statistical computing and graphics. It offers [multiple](../m/multiple.md) packages for [stochastic modeling](../s/stochastic_modeling.md) and [quantitative finance](../q/quantitative_finance.md).
   - [R Project](https://www.r-project.org/)
 
 ### Julia
@@ -111,12 +111,12 @@ Lévy processes extend the concept of Brownian motion by allowing jumps, making 
 
 ### Stochastic Volatility Models
 
-These models account for the variation in volatility over time, which is a more realistic assumption for financial markets. Examples include the Heston model and the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models.
+These models account for the variation in [volatility](../v/volatility.md) over time, which is a more realistic assumption for [financial markets](../f/financial_market.md). Examples include the [Heston model](../h/heston_model.md) and the Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md) (GARCH) models.
 
 ### Fractional Brownian Motion
 
-Fractional Brownian motion (fBm) generalizes Brownian motion by incorporating dependence between increments. It is used for modeling long-range dependence in various fields, including finance.
+Fractional Brownian motion (fBm) generalizes Brownian motion by incorporating dependence between increments. It is used for modeling long-[range](../r/range.md) dependence in various fields, including [finance](../f/finance.md).
 
 ## Conclusion
 
-Stochastic calculus plays a critical role in modern [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). It provides the mathematical foundation for modeling asset prices, developing [trading strategies](../t/trading_strategies.md), optimizing portfolios, and managing financial risk. With the continued advancement of computational tools and libraries, the implementation of stochastic calculus methods in [algorithmic trading](../a/algorithmic_trading.md) will only become more accessible and sophisticated.
+Stochastic calculus plays a critical role in modern [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). It provides the mathematical foundation for modeling [asset](../a/asset.md) prices, developing [trading strategies](../t/trading_strategies.md), optimizing portfolios, and managing [financial risk](../f/financial_risk.md). With the continued advancement of computational tools and libraries, the implementation of stochastic calculus methods in [algorithmic trading](../a/algorithmic_trading.md) [will](../w/will.md) only become more accessible and sophisticated.

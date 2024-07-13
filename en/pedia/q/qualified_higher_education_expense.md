@@ -34,11 +34,11 @@ For students with disabilities, QHEEs can include:
 
 - **Adaptive Equipment and Software**: Items like screen readers, hearing aids, and specialized computer programs tailored to assist in learning.
   
-- **Support Services**: Professional services such as note-takers, interpreters, or personal aides that facilitate educational participation.
+- **Support Services**: Professional services such as [note](../n/note.md)-takers, interpreters, or personal aides that facilitate educational participation.
 
 ## Study Abroad Programs
 
-If a student opts for an accredited study abroad program provided by their home institution or through a recognized exchange program, the associated costs also fall under QHEEs. This can include:
+If a student opts for an accredited study abroad program provided by their [home](../h/home.md) institution or through a recognized [exchange](../e/exchange.md) program, the associated costs also fall under QHEEs. This can include:
 
 - **Program Fees**: Any costs associated with enrolling in the study abroad program.
   
@@ -50,33 +50,33 @@ Graduate students and those pursuing advanced professional degrees often incur a
 
 - **Dissertation and Thesis Expenses**: Costs of research materials, travel for research purposes, and printing/binding fees.
   
-- **Conference Fees**: Registration and travel expenses for academic and professional conferences necessary for degree completion.
+- **Conference Fees**: Registration and [travel expenses](../t/travel_expenses.md) for academic and professional conferences necessary for degree completion.
 
 ## Qualified Savings Plans
 
-Several tax-advantaged savings plans are designed to help families save for QHEEs. Key examples include:
+Several [tax-advantaged](../t/tax-advantaged.md) savings plans are designed to help families save for QHEEs. Key examples include:
 
-- **529 Plans**: These are state-sponsored investment plans offering tax-free growth and withdrawals for QHEEs.
+- **[529 Plans](../1/529_plan.md)**: These are state-sponsored investment plans [offering](../o/offering.md) [tax-free](../t/tax_free.md) growth and withdrawals for QHEEs.
   
-- **Coverdell Education Savings Accounts (ESA)**: Accounts that allow for tax-free growth and withdrawals for educational expenses, with a broader scope of qualified expenses than 529 plans.
+- **Coverdell Education Savings Accounts (ESA)**: Accounts that allow for [tax-free](../t/tax_free.md) growth and withdrawals for educational expenses, with a broader [scope](../s/scope.md) of qualified expenses than [529 plans](../1/529_plan.md).
 
 ## Tax Credits and Deductions
 
 Certain tax benefits are available to families and students who incur QHEEs:
 
-- **American Opportunity Tax Credit (AOTC)**: Provides a credit for qualified education expenses for the first four years of higher education.
+- **American Opportunity [Tax Credit](../t/tax_credit.md) (AOTC)**: Provides a [credit](../c/credit.md) for qualified education expenses for the first four years of higher education.
   
-- **Lifetime Learning Credit (LLC)**: Offers up to $2,000 per taxpayer for qualified tuition and related expenses.
+- **[Lifetime Learning Credit](../l/lifetime_learning_credit.md) (LLC)**: Offers up to $2,000 per [taxpayer](../t/taxpayer.md) for qualified tuition and related expenses.
   
-- **Tuition and Fees Deduction**: Offers a deduction for eligible education expenses, although it cannot be combined with AOTC or LLC.
+- **Tuition and Fees [Deduction](../d/deduction.md)**: Offers a [deduction](../d/deduction.md) for eligible education expenses, although it cannot be combined with AOTC or LLC.
 
 ## Employer-Sponsored Education Assistance
 
-Some companies offer educational assistance programs that can help employees cover QHEEs:
+Some companies [offer](../o/offer.md) educational assistance programs that can help employees cover QHEEs:
 
-- **Tuition Reimbursement**: Up to $5,250 per year in employer-provided education assistance can be excluded from gross taxable income.
+- **Tuition [Reimbursement](../r/reimbursement.md)**: Up to $5,250 per year in employer-provided education assistance can be excluded from gross [taxable income](../t/taxable_income.md).
   
-- **Scholarships and Grants**: Some employers offer scholarships or grants that don't require repayment, assisting with tuition and other educational costs.
+- **Scholarships and Grants**: Some employers [offer](../o/offer.md) scholarships or grants that don't require [repayment](../r/repayment.md), assisting with tuition and other educational costs.
 
 ## Financial Aid Implications
 
@@ -88,6 +88,6 @@ Understanding QHEEs is essential for applying for financial aid:
 
 ## Conclusion
 
-Qualified Higher Education Expenses are a cornerstone of the financial planning landscape for students and families seeking to invest in higher education. They encompass a broad array of costs, ensuring that a variety of essential expenses can be mitigated through tax credits, savings plans, and employer assistance programs. Properly understanding and managing QHEEs can significantly ease the financial burden of pursuing higher education, making it more accessible and affordable.
+Qualified Higher Education Expenses are a cornerstone of the [financial planning](../f/financial_planning.md) landscape for students and families seeking to invest in higher education. They encompass a broad array of costs, ensuring that a variety of essential expenses can be mitigated through tax credits, savings plans, and employer assistance programs. Properly understanding and managing QHEEs can significantly ease the financial burden of pursuing higher education, making it more accessible and affordable.
 
-For more detailed information, you can visit various educational financial planning websites or institutions' financial aid offices.
+For more detailed information, you can visit various educational [financial planning](../f/financial_planning.md) websites or institutions' financial aid offices.

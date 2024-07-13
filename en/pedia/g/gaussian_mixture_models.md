@@ -6,20 +6,20 @@ A Gaussian Mixture Model (GMM) is a probabilistic model that assumes all the dat
 
 #### Gaussian Distribution Basics
 
-To comprehend how GMMs work, it's key to first understand Gaussian distributions, which are also known as normal distributions. A [Gaussian distribution](../g/gaussian_distribution.md) is a continuous probability distribution characterized by a symmetric bell-shaped curve, described mathematically by its mean (μ) and standard deviation (σ). The [probability density function](../p/probability_density_function.md) (PDF) of a [Gaussian distribution](../g/gaussian_distribution.md) is defined as follows:
+To comprehend how GMMs work, it's key to first understand Gaussian distributions, which are also known as normal distributions. A [Gaussian distribution](../g/gaussian_distribution.md) is a continuous [probability distribution](../p/probability_distribution.md) characterized by a symmetric bell-shaped curve, described mathematically by its mean (μ) and [standard deviation](../s/standard_deviation.md) (σ). The [probability density function](../p/probability_density_function.md) (PDF) of a [Gaussian distribution](../g/gaussian_distribution.md) is defined as follows:
 
 \[ f(x|\mu,\sigma^2) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}} \]
 
 In this equation:
-- \(μ\) represents the mean of the distribution.
-- \(σ^2\) denotes the variance, and \(σ\) is the standard deviation.
+- \(μ\) represents the mean of the [distribution](../d/distribution.md).
+- \(σ^2\) denotes the variance, and \(σ\) is the [standard deviation](../s/standard_deviation.md).
 - \(e\) is the base of the natural logarithm.
 
 #### Mixture Models
 
-A mixture model, in general, assumes that the data is generated from a collection (or mixture) of several distributions, rather than a single one. A Gaussian Mixture Model, as the name implies, assumes that these distributions are Gaussian. Mathematically, this is expressed as a weighted sum of individual Gaussian distributions:
+A mixture model, in general, assumes that the data is generated from a collection (or mixture) of several distributions, rather than a single one. A Gaussian Mixture Model, as the name implies, assumes that these distributions are Gaussian. Mathematically, this is expressed as a [weighted](../w/weighted.md) sum of individual Gaussian distributions:
 
-\[ p(x|\lambda) = \sum_{i=1}^K \pi_i \cdot \mathcal{N}(x|\mu_i, \sigma_i^2) \]
+\[ p(x|\[lambda](../l/lambda.md)) = \sum_{i=1}^K \pi_i \cdot \mathcal{N}(x|\mu_i, \sigma_i^2) \]
 
 In the equation:
 - \(K\) is the number of Gaussian components.
@@ -61,11 +61,11 @@ The E-step and M-step repeat until convergence, which is typically defined as th
 
 Gaussian Mixture Models have wide applications in various fields:
 
-1. **Clustering**: GMMs are commonly used for data clustering. Unlike [K-means clustering](../k/k-means_clustering_in_trading.md), which assigns each data point to exactly one cluster, GMMs assign probabilities to the cluster memberships, allowing more flexibility and accounting for overlap between clusters.
+1. **Clustering**: GMMs are commonly used for data clustering. Unlike [K-means clustering](../k/k-means_clustering_in_trading.md), which assigns each data point to exactly one cluster, GMMs assign probabilities to the cluster memberships, allowing more flexibility and [accounting](../a/accounting.md) for overlap between clusters.
 
-2. **Density Estimation**: GMMs can be used to model the [probability density function](../p/probability_density_function.md) of a dataset. This is especially useful in situations where the data distribution is multimodal or does not conform to a single [Gaussian distribution](../g/gaussian_distribution.md).
+2. **Density Estimation**: GMMs can be used to model the [probability density function](../p/probability_density_function.md) of a dataset. This is especially useful in situations where the data [distribution](../d/distribution.md) is multimodal or does not conform to a single [Gaussian distribution](../g/gaussian_distribution.md).
 
-3. **[Anomaly Detection](../a/anomaly_detection.md)**: By learning the distribution of the data, GMMs can be used to detect anomalies or outliers. In a trained GMM, data points that have low probability under the model can be considered anomalies.
+3. **[Anomaly Detection](../a/anomaly_detection.md)**: By learning the [distribution](../d/distribution.md) of the data, GMMs can be used to detect anomalies or outliers. In a trained GMM, data points that have low probability under the model can be considered anomalies.
 
 4. **[Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md)**: GMMs can be used in conjunction with methods like [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) to reduce the dimensionality of data, retaining only the most important components for further analysis.
 
@@ -74,10 +74,10 @@ Gaussian Mixture Models have wide applications in various fields:
 Python libraries such as `scikit-learn` provide built-in implementations of GMMs, making it easy to apply GMMs to real-world datasets. Here is an example of using `scikit-learn` to fit a GMM to a dataset:
 
 ```python
-from sklearn.mixture import GaussianMixture
-import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.colors import LogNorm
+from sklearn.mixture [import](../i/import.md) GaussianMixture
+[import](../i/import.md) numpy as np
+[import](../i/import.md) matplotlib.pyplot as plt
+from matplotlib.colors [import](../i/import.md) LogNorm
 
 # Generate synthetic data
 np.random.seed(0)
@@ -113,14 +113,14 @@ While GMMs are powerful, they come with several challenges and considerations:
 
 2. **Number of Components**: Choosing the right number of components \( K \) is crucial. A common approach is to use model selection criteria like the Bayesian Information Criterion (BIC) or the Akaike Information Criterion (AIC).
 
-3. **Covariance Matrices**: GMMs can have different types of covariance matrices (spherical, diagonal, tied, and full), each making different assumptions about the data. Choosing the correct type impacts the model's flexibility and complexity.
+3. **[Covariance](../c/covariance.md) Matrices**: GMMs can have different types of [covariance](../c/covariance.md) matrices (spherical, diagonal, tied, and full), each making different assumptions about the data. Choosing the correct type impacts the model's flexibility and complexity.
 
-4. **Overfitting**: With complex models and insufficient data, GMMs can overfit, capturing noise rather than the underlying distribution. Regularization and cross-validation can help mitigate this problem.
+4. **[Overfitting](../o/overfitting.md)**: With complex models and insufficient data, GMMs can overfit, capturing [noise](../n/noise.md) rather than the [underlying](../u/underlying.md) [distribution](../d/distribution.md). Regularization and cross-validation can help mitigate this problem.
 
-5. **Computational Complexity**: The EM algorithm can be computationally intensive for large datasets, as it requires multiple passes over the data. Efficient implementations and scalability considerations are important for practical applications.
+5. **Computational Complexity**: The EM algorithm can be computationally intensive for large datasets, as it requires [multiple](../m/multiple.md) passes over the data. Efficient implementations and [scalability](../s/scalability.md) considerations are important for practical applications.
 
 ### Conclusion
 
-Gaussian Mixture Models provide a flexible and powerful framework for clustering, density estimation, [anomaly detection](../a/anomaly_detection.md), and more. They leverage the probabilistic nature of Gaussian distributions to model data in a way that can capture underlying patterns and relationships. Despite their potential complexity and computational demands, GMMs' versatility makes them a valuable tool in the data scientist's toolkit.
+Gaussian Mixture Models provide a flexible and powerful framework for clustering, density estimation, [anomaly detection](../a/anomaly_detection.md), and more. They [leverage](../l/leverage.md) the probabilistic nature of Gaussian distributions to model data in a way that can capture [underlying](../u/underlying.md) patterns and relationships. Despite their potential complexity and computational demands, GMMs' versatility makes them a valuable tool in the data scientist's toolkit.
 
 For more information, you can explore [scikit-learn's documentation for Gaussian Mixture Models](https://scikit-learn.org/stable/modules/mixture.html) to see more examples and in-depth explanations.

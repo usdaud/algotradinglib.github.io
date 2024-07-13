@@ -1,22 +1,22 @@
 # Average Directional Index
 
-The Average Directional Index (ADX) is a [technical analysis](../t/technical_analysis.md) indicator developed by J. Welles Wilder Jr. in 1978. It is used to quantify the strength of a trend in a financial market, whether the trend is upward or downward. The ADX is part of the Directional Movement System and is typically plotted as a single line, which helps traders to distinguish between strong and weak trends.
+The Average Directional [Index](../i/index.md) (ADX) is a [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) developed by J. Welles Wilder Jr. in 1978. It is used to quantify the strength of a [trend](../t/trend.md) in a financial [market](../m/market.md), whether the [trend](../t/trend.md) is upward or downward. The ADX is part of the Directional Movement System and is typically plotted as a single line, which helps traders to distinguish between strong and weak trends.
 
 ## Components of ADX
 
-The ADX is calculated using the Moving Average of price range expansion. The system it belongs to also involves two other indicators:
+The ADX is calculated using the Moving Average of price [range](../r/range.md) [expansion](../e/expansion.md). The system it belongs to also involves two other indicators:
 
-1. **Positive Directional Index (+DI)**: Measures the presence and strength of upward movement in the market.
-2. **Negative Directional Index (-DI)**: Measures the presence and strength of downward movement in the market.
+1. **Positive Directional [Index](../i/index.md) (+DI)**: Measures the presence and strength of upward movement in the [market](../m/market.md).
+2. **Negative Directional [Index](../i/index.md) (-DI)**: Measures the presence and strength of downward movement in the [market](../m/market.md).
 
-When combined, the ADX, +DI, and -DI provide a comprehensive view of market trends and their strengths.
+When combined, the ADX, +DI, and -DI provide a comprehensive view of [market](../m/market.md) trends and their strengths.
 
 ### Calculating the ADX
 
-1. **Calculate True Range (TR)**: The TR for each period is the greatest of the following:
+1. **Calculate True [Range](../r/range.md) (TR)**: The TR for each period is the greatest of the following:
     - Current High minus Current Low
-    - Absolute value of Current High minus Previous Close
-    - Absolute value of Current Low minus Previous Close
+    - Absolute [value](../v/value.md) of Current High minus Previous Close
+    - Absolute [value](../v/value.md) of Current Low minus Previous Close
 
 2. **Calculate the Directional Movement (+DM and -DM)**:
     - +DM equals Current High minus Previous High, if Current High minus Previous High is greater than Current Low minus Previous Low. Otherwise, +DM is zero.
@@ -26,31 +26,31 @@ When combined, the ADX, +DI, and -DI provide a comprehensive view of market tren
 
 4. **Calculate the +DI and -DI** by dividing the smoothed +DM and -DM by the smoothed TR.
 
-5. **Calculate the Directional Movement Index (DX)**:
+5. **Calculate the Directional Movement [Index](../i/index.md) (DX)**:
     - DX = ABS(+DI - -DI) / (+DI + -DI) * 100
 
 6. **Calculate the ADX** by smoothing the DX values, usually with a 14-bar Moving Average.
 
 ### Interpreting the ADX
 
-- An **ADX value above 25** typically indicates a strong trend.
-- An **ADX value below 20** signals a weak trend or a ranging market.
-- ADX values can help traders avoid [false signals](../f/false_signals_in_trading.md) by confirming the trend strength.
+- An **ADX [value](../v/value.md) above 25** typically indicates a strong [trend](../t/trend.md).
+- An **ADX [value](../v/value.md) below 20** signals a weak [trend](../t/trend.md) or a ranging [market](../m/market.md).
+- ADX values can help traders avoid [false signals](../f/false_signals_in_trading.md) by confirming the [trend](../t/trend.md) strength.
 
 ## Use Cases in Algorithmic Trading
 
 In [algorithmic trading](../a/algorithmic_trading.md), the ADX is often used in various strategic approaches, including:
 
-1. **[Trend Following](../t/trend_following.md)**: Algorithms can enter or exit trades based on whether the ADX indicates a strong or weak trend.
-2. **Volatility Filters**: ADX values can act as filters to ensure that trades are only initiated when there is sufficient market movement.
-3. **[Risk Management](../r/risk_management.md)**: ADX can be used to adjust [position sizing](../p/position_sizing.md) according to trend strength to manage risk better.
+1. **[Trend Following](../t/trend_following.md)**: Algorithms can enter or exit trades based on whether the ADX indicates a strong or weak [trend](../t/trend.md).
+2. **[Volatility](../v/volatility.md) Filters**: ADX values can act as filters to ensure that trades are only initiated when there is sufficient [market](../m/market.md) movement.
+3. **[Risk Management](../r/risk_management.md)**: ADX can be used to adjust [position sizing](../p/position_sizing.md) according to [trend](../t/trend.md) strength to manage [risk](../r/risk.md) better.
 
 ## Limitations of ADX
 
 While the ADX is a valuable tool, it has some limitations:
 
-- **Lagging Indicator**: Like many trend-following indicators, the ADX is often slow to respond to rapid market changes.
-- **No Directional Bias**: The ADX indicates trend strength but does not specify the direction – traders must use +DI and -DI or other indicators for directional cues.
+- **[Lagging Indicator](../l/lagging_indicator.md)**: Like many [trend](../t/trend.md)-following indicators, the ADX is often slow to respond to rapid [market](../m/market.md) changes.
+- **No Directional Bias**: The ADX indicates [trend](../t/trend.md) strength but does not specify the direction – traders must use +DI and -DI or other indicators for directional cues.
 - **Complex Calculation**: The multi-step calculation can be complex without software or algorithmic assistance.
 
 ## Implementation in Trading Algorithms
@@ -60,10 +60,10 @@ While the ADX is a valuable tool, it has some limitations:
 Below is a simplified Python implementation using the `pandas` library for calculating the ADX:
 
 ```python
-import pandas as pd
+[import](../i/import.md) pandas as pd
 
 def calculate_adx(data, period=14):
-    # Calculate True Range (TR)
+    # Calculate True [Range](../r/range.md) (TR)
     data['ATR'] = data['High'] - data['Low']
     data['ATR_1'] = abs(data['High'] - data['Close'].shift(1))
     data['ATR_2'] = abs(data['Low'] - data['Close'].shift(1))
@@ -72,10 +72,10 @@ def calculate_adx(data, period=14):
     # Calculate +DM and -DM
     data['+DM'] = data['High'].diff()
     data['-DM'] = data['Low'].diff()
-    data['+DM'] = data['+DM'].apply(lambda x: x if x > 0 else 0)
-    data['-DM'] = data['-DM'].apply(lambda x: abs(x) if x < 0 else 0)
+    data['+DM'] = data['+DM'].apply([lambda](../l/lambda.md) x: x if x > 0 else 0)
+    data['-DM'] = data['-DM'].apply([lambda](../l/lambda.md) x: abs(x) if x < 0 else 0)
     
-    # Smooth the True Range and Directional Movement
+    # Smooth the True [Range](../r/range.md) and Directional Movement
     data['smoothed_TR'] = data['TrueRange'].rolling(window=period).mean()
     data['smoothed_+DM'] = data['+DM'].rolling(window=period).mean()
     data['smoothed_-DM'] = data['-DM'].rolling(window=period).mean()
@@ -90,7 +90,7 @@ def calculate_adx(data, period=14):
     # Calculate ADX
     data['ADX'] = data['DX'].rolling(window=period).mean()
     
-    return data['ADX']
+    [return](../r/return.md) data['ADX']
 
 # Example Data
 data = pd.DataFrame({
@@ -105,11 +105,11 @@ print(adx_values)
 
 ## Popular Tools and Platforms that Support ADX
 
-Several financial platforms and tools support the ADX indicator. Notable examples include:
+Several financial platforms and tools support the ADX [indicator](../i/indicator.md). Notable examples include:
 
-1. **MetaTrader**: One of the most popular trading platforms that offer ADX built-in indicators.
-2. **[TradeStation](../t/tradestation.md)**: A comprehensive trading platform that supports advanced indicator scripting, including ADX.
-3. **[TradingView](../t/tradingview.md)**: An online platform known for its powerful charting tools and extensive indicator library, including ADX.
+1. **MetaTrader**: One of the most popular trading platforms that [offer](../o/offer.md) ADX built-in indicators.
+2. **[TradeStation](../t/tradestation.md)**: A comprehensive [trading platform](../t/trading_platform.md) that supports advanced [indicator](../i/indicator.md) scripting, including ADX.
+3. **[TradingView](../t/tradingview.md)**: An online platform known for its powerful charting tools and extensive [indicator](../i/indicator.md) library, including ADX.
 
 Each of these platforms provides customization features allowing traders to tweak ADX settings to fit their [trading strategies](../t/trading_strategies.md).
 
@@ -119,4 +119,4 @@ Each of these platforms provides customization features allowing traders to twea
 
 **[TradingView](../t/tradingview.md)**: [TradingView](https://www.tradingview.com/)
 
-In conclusion, the Average Directional Index (ADX) is an essential tool in the arsenal of both manual and algorithmic traders. It provides a quantitative measure of trend strength, helping traders make informed decisions on market entry and exit points. While it has its limitations, when used correctly, the ADX can significantly enhance the effectiveness of a trading strategy.
+In conclusion, the Average Directional [Index](../i/index.md) (ADX) is an essential tool in the arsenal of both manual and algorithmic traders. It provides a quantitative measure of [trend](../t/trend.md) strength, helping traders make informed decisions on [market](../m/market.md) entry and exit points. While it has its limitations, when used correctly, the ADX can significantly enhance the effectiveness of a [trading strategy](../t/trading_strategy.md).

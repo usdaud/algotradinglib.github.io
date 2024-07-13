@@ -1,6 +1,6 @@
 # Upstream
 
-The term "upstream" in the context of the oil and gas industry refers to the exploration and production phases of the sector. This segment is primarily concerned with the search for crude oil and natural gas fields, the drilling of exploratory wells, and the extraction of oil and gas from underground reservoirs. It is a critical component of the oil and gas supply chain, and this article delves deeply into its various subcomponents, processes, technologies, and players.
+The term "upstream" in the context of the oil and gas [industry](../i/industry.md) refers to the exploration and production phases of the sector. This segment is primarily concerned with the search for [crude oil](../c/crude_oil.md) and natural gas fields, the drilling of exploratory wells, and the extraction of oil and gas from underground reservoirs. It is a critical component of the oil and gas [supply chain](../s/supply_chain.md), and this article delves deeply into its various subcomponents, processes, technologies, and players.
 
 ## Exploration
 
@@ -10,7 +10,7 @@ Before any drilling begins, companies conduct extensive geological and geophysic
 
 ### Seismic Surveys
 
-Seismic surveys are perhaps the most sophisticated tool in the exploration phase. They involve sending shock waves into the earth and measuring the reflected waves to interpret the subsurface structures. This can be done on land (onshore) or at sea (offshore). Advanced techniques like 3D and 4D seismic imaging provide even more detailed information.
+Seismic surveys are perhaps the most sophisticated tool in the exploration phase. They involve sending shock waves into the earth and measuring the reflected waves to interpret the subsurface structures. This can be done on land (onshore) or at sea ([offshore](../o/offshore.md)). Advanced techniques like 3D and 4D seismic imaging provide even more detailed information.
 
 ## Drilling
 
@@ -20,7 +20,7 @@ Once potential sites are identified through surveys, exploratory drilling takes 
 
 ### Appraisal Drilling
 
-If an exploratory well is successful, appraisal drilling follows. This involves drilling additional wells to delineate the reservoir extent, estimate its size, and understand its characteristics fully.
+If an exploratory well is successful, [appraisal](../a/appraisal.md) drilling follows. This involves drilling additional wells to delineate the reservoir extent, estimate its size, and understand its characteristics fully.
 
 ### Production Drilling
 
@@ -44,11 +44,11 @@ Tertiary recovery techniques include thermal recovery, gas injection, and chemic
 
 ### Hydraulic Fracturing
 
-Hydraulic fracturing, or fracking, involves injecting high-pressure fluid into the rock to create fractures, allowing oil and gas to flow more freely. This has revolutionized the industry by making previously inaccessible reservoirs viable for extraction.
+[Hydraulic fracturing](../h/hydraulic_fracturing.md), or fracking, involves injecting high-pressure fluid into the rock to create fractures, allowing oil and gas to flow more freely. This has revolutionized the [industry](../i/industry.md) by making previously inaccessible reservoirs viable for extraction.
 
 ### Directional and Horizontal Drilling
 
-Directional drilling allows for drilling at multiple angles, not just vertical. Horizontal drilling extends the reach horizontally within the reservoir, significantly boosting extraction efficiency.
+Directional drilling allows for drilling at [multiple](../m/multiple.md) angles, not just vertical. Horizontal drilling extends the reach horizontally within the reservoir, significantly boosting extraction [efficiency](../e/efficiency.md).
 
 ### Blowout Preventers
 
@@ -56,7 +56,7 @@ Essential safety devices, Blowout Preventers (BOPs), are installed to prevent un
 
 ### Remote Sensing and Monitoring
 
-Modern upstream operations leverage remote sensing technologies and IoT (Internet of Things) devices to monitor and manage operations in real-time, enhancing efficiency and safety.
+Modern upstream operations [leverage](../l/leverage.md) remote sensing technologies and IoT (Internet of Things) devices to monitor and manage operations in real-time, enhancing [efficiency](../e/efficiency.md) and safety.
 
 ## Environmental Considerations
 
@@ -76,7 +76,7 @@ Upstream activities can produce significant greenhouse gas emissions. Companies 
 
 ### International Regulations
 
-Upstream activities are heavily regulated by international bodies and agreements, ensuring that the operations adhere to environmental and safety standards. Examples include the International Maritime Organization (IMO) for offshore activities and various climate agreements like the Paris Accord.
+Upstream activities are heavily regulated by international bodies and agreements, ensuring that the operations adhere to environmental and safety standards. Examples include the International Maritime Organization (IMO) for [offshore](../o/offshore.md) activities and various climate agreements like the Paris Accord.
 
 ### National Regulations
 
@@ -86,7 +86,7 @@ Each country has its own regulatory framework governing upstream activities. Thi
 
 ### ExxonMobil
 
-A global leader in upstream operations, ExxonMobil's activities span exploration, production, and development in multiple regions. More info: [ExxonMobil](https://corporate.exxonmobil.com/)
+A global leader in upstream operations, ExxonMobil's activities span exploration, production, and development in [multiple](../m/multiple.md) regions. More info: [ExxonMobil](https://corporate.exxonmobil.com/)
 
 ### Royal Dutch Shell
 
@@ -108,7 +108,7 @@ While not an oil producer, Schlumberger is a leading provider of technology and 
 
 ### Digital Transformation
 
-The digital transformation in the upstream sector involves the integration of artificial intelligence (AI), machine learning, and big data analytics to improve efficiency, reduce costs, and enhance decision-making.
+The digital transformation in the upstream sector involves the integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) to improve [efficiency](../e/efficiency.md), reduce costs, and enhance decision-making.
 
 ### Sustainability and Renewable Integration
 
@@ -116,10 +116,10 @@ There is a growing focus on making upstream operations more sustainable by incor
 
 ### Autonomous Operations
 
-The development of autonomous drilling rigs and drones for inspection and monitoring purposes is on the horizon, promising to reduce human risk and operational costs significantly.
+The development of autonomous drilling rigs and drones for inspection and monitoring purposes is on the horizon, promising to reduce human [risk](../r/risk.md) and operational costs significantly.
 
 ### Enhanced Oil Recovery (EOR) Innovations
 
-New methods and technologies in EOR are continually being researched to further enhance the efficiency and output of existing reservoirs, extending their productive life spans.
+New methods and technologies in EOR are continually being researched to further enhance the [efficiency](../e/efficiency.md) and output of existing reservoirs, extending their productive life spans.
 
-By understanding the various facets of the upstream oil and gas industry—from exploration, drilling, and extraction to the latest technologies and environmental considerations—one gains a comprehensive view of this vital sector’s importance and complexity.
+By understanding the various facets of the upstream oil and gas [industry](../i/industry.md)—from exploration, drilling, and extraction to the latest technologies and environmental considerations—one gains a comprehensive view of this vital sector’s importance and complexity.
