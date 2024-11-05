@@ -47,6 +47,13 @@
   pedia_link: /en/pedia/i/investireoggi.html
   filters: [Italian, Forum]
 
+- name: OS Engine
+  description: Catalog site dedicated to open-source algorithmic trading engine, featuring tools, resources, and a personal blog on algorithmic trading
+  logo: /assets/images/logos/osaengine.png
+  website: https://osaengine.ru/
+  pedia_link: /en/pedia/o/osengine.html
+  filters: [Russian]
+
 - name: QuantConnect Community
   description: Discussion forum for QuantConnect platform users
   logo: /assets/images/logos/quantconnect.png
