@@ -14,7 +14,7 @@
   pedia_link: /en/pedia/a/atas.html
   filters: [Charting, Live trading, Realtime data, C#]
   supported_data_providers: [CQG, IQFeed, Interactive Brokers, Rithmic, DxFeed]
-  supported_brokers: [Interactive Brokers, CQG, Rithmic, Binance, Bitmex, ByBit, Exante]
+  supported_brokers: [Interactive Brokers, CQG, Rithmic, Binance, Bitmex, Bybit, Exante]
 
 - name: Backtrader
   description: Python framework for backtesting trading strategies
@@ -253,7 +253,7 @@
   github: https://github.com/QuantConnect/Lean
   filters: [Backtesting, Live trading, Historical Data, API, OpenSource, Python, C#]
   supported_data_providers: [Polygon.io, IQFeed, IEX Cloud]
-  supported_brokers: [Interactive Brokers, OANDA, Bitfinex, Binance, Coinbase, Alpaca, ByBit, Kraken, Samco, Zerodha, Tradier]
+  supported_brokers: [Interactive Brokers, OANDA, Bitfinex, Binance, Coinbase, Alpaca, Bybit, Kraken, Samco, Zerodha, Tradier]
 
 - name: QuantHouse
   description: Market data and trading infrastructure provider
@@ -327,7 +327,7 @@
   github: https://github.com/StockSharp/StockSharp
   filters: [OpenSource, Free, Historical Data, API, Backtesting, Live trading, C#]
   supported_data_providers: [IQFeed, Yahoo Finance, Finam, Polygon.io, Barchart, DxFeed]
-  supported_brokers: [Interactive Brokers, OANDA, Binance, LMAX, Rithmic, Alor, Tinkoff, Alpaca, Exante, Bitmex, ByBit, OKX, Bithumb, BitMart, Upbit, Tradier, Coinbase, Kraken, Bitfinex, KuCoin, LBank, DigiFinex, LATOKEN, Coincheck, Bitbank, ZB.COM, CoinEx, Exmo, CoinBene, Zaif]
+  supported_brokers: [Interactive Brokers, OANDA, Binance, LMAX, Rithmic, Alor, Tinkoff, Alpaca, Exante, Bitmex, Bybit, OKX, Bithumb, BitMart, Upbit, Tradier, Coinbase, Kraken, Bitfinex, KuCoin, LBank, DigiFinex, LATOKEN, Coincheck, Bitbank, ZB.COM, CoinEx, Exmo, CoinBene, Zaif]
 
 - name: ThinkOrSwim
   description: Advanced trading platform by TD Ameritrade
