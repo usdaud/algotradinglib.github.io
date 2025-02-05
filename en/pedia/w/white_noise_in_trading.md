@@ -42,7 +42,7 @@ In trading, distinguishing between white [noise](../n/noise.md) and meaningful s
 - **Signal:** Predictable component that reflects [underlying](../u/underlying.md) factors such as [economic indicators](../e/economic_indicators.md), company [earnings](../e/earnings.md), and [geopolitical events](../g/geopolitical_events.md).
 - **[Noise](../n/noise.md):** Random fluctuations that do not convey useful information for future price movements.
 
-The challenge in trading is to extract meaningful signals from the noisy data. Various statistical and machine learning techniques are employed to achieve this, including moving averages, [autoregressive models](../a/autoregressive.md), and advanced methods like [neural networks](../n/neural_networks_in_trading.md).
+The challenge in trading is to extract meaningful signals from the noisy data. Various statistical and [machine learning](../m/machine_learning.md) techniques are employed to achieve this, including moving averages, [autoregressive models](../a/autoregressive.md), and advanced methods like [neural networks](../n/neural_networks_in_trading.md).
 
 ### Detection of White Noise
 

@@ -1,6 +1,6 @@
 # PyTorch
 
-PyTorch is an open-source deep learning framework developed by Facebook’s AI Research lab (FAIR). Known for its dynamic computation graph and ease of use, it has become a popular choice among researchers and practitioners alike.
+PyTorch is an [open](../o/open.md)-source [deep learning](../d/deep_learning.md) framework developed by Facebook’s AI Research lab (FAIR). Known for its dynamic computation graph and ease of use, it has become a popular choice among researchers and practitioners alike.
 
 ### Key Components
 - **Dynamic Computation Graphs:** Allow for more flexible model building and debugging.
@@ -10,9 +10,9 @@ PyTorch is an open-source deep learning framework developed by Facebook’s AI R
 
 ### Applications
 - **Research Prototyping:** Fast iteration and experimentation in academic and industrial research.
-- **Natural Language Processing:** Building and fine-tuning language models.
-- **Computer Vision:** Developing models for image classification, segmentation, and detection.
-- **Reinforcement Learning:** Implementing complex RL algorithms with dynamic graphs.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md):** Building and fine-tuning language models.
+- **[Computer Vision](../c/computer_vision.md):** Developing models for image classification, segmentation, and detection.
+- **[Reinforcement Learning](../r/reinforcement_learning.md):** Implementing complex RL algorithms with dynamic graphs.
 
 ### Advantages
 - User-friendly and flexible, facilitating rapid experimentation.
@@ -25,4 +25,4 @@ PyTorch is an open-source deep learning framework developed by Facebook’s AI R
 - Requires careful management of dynamic graphs in complex systems.
 
 ### Future Outlook
-PyTorch is continually evolving with initiatives to improve production deployment (e.g., TorchScript), making it a robust choice for both research and industrial applications in the future.
+PyTorch is continually evolving with initiatives to improve production deployment (e.g., TorchScript), making it a [robust](../r/robust.md) choice for both research and industrial applications in the future.

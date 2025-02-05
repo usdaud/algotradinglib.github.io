@@ -16,7 +16,7 @@ X-[Signal Processing](../s/signal_processing_in_trading.md) in the domain of [al
 1. **Time-Series Analysis**: The foundation of any trading [signal processing](../s/signal_processing_in_trading.md), focusing on understanding different patterns, [seasonality](../s/seasonality.md), and trends within [market](../m/market.md) data.
 2. **Fourier Transform**: Used to transform time-domain data into frequency-domain data, useful for identifying cyclical patterns.
 3. **[Wavelet Transform](../w/wavelet_transform_in_trading.md)**: Provides a time-frequency representation of the signal, especially useful for non-stationary signals.
-4. **Machine Learning**: Techniques like regression, classification, clustering, and reinforcement learning are trained on historical data to predict future trends.
+4. **[Machine Learning](../m/machine_learning.md)**: Techniques like regression, classification, clustering, and [reinforcement learning](../r/reinforcement_learning.md) are trained on historical data to predict future trends.
 5. **[Deep Learning](../d/deep_learning.md)**: Involves using [neural networks](../n/neural_networks_in_trading.md) with [multiple](../m/multiple.md) layers. Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) can capture local patterns in [market](../m/market.md) data, while Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) [handle](../h/handle.md) [temporal dependencies](../t/temporal_dependencies_in_trading.md).
 6. **[Kalman Filter](../k/kalman_filter_in_trading.md)**: A recursive solution to linear filtering problems used to estimate unknown variables such as stock prices in a noisy environment.
 7. **Empirical [Mode](../m/mode.md) Decomposition (EMD)**: Decomposes [time series](../t/time_series.md) into intrinsic [mode](../m/mode.md) functions which can isolate significant data trends.
@@ -25,7 +25,7 @@ X-[Signal Processing](../s/signal_processing_in_trading.md) in the domain of [al
 
 The success of X-[signal processing](../s/signal_processing_in_trading.md) depends significantly on the tools used. Here are some primary environments and tools:
 
-1. **Python**: Widely used because of libraries like NumPy, pandas, scikit-learn, TensorFlow (https://www.tensorflow.org/), PyTorch (https://pytorch.org/).
+1. **Python**: Widely used because of libraries like NumPy, pandas, scikit-learn, [TensorFlow](../t/tensorflow.md) (https://www.[tensorflow](../t/tensorflow.md).org/), [PyTorch](../p/pytorch.md) (https://[pytorch](../p/pytorch.md).org/).
 2. **R**: Praised for statistical analysis with packages like forecast, caret, and xts.
 3. **MATLAB**: Powerful for complex computations and has built-in [signal processing](../s/signal_processing_in_trading.md) capabilities.
 4. **Platforms**:
@@ -44,13 +44,13 @@ The success of X-[signal processing](../s/signal_processing_in_trading.md) depen
 
 1. **Data Quality and [Noise](../n/noise.md)**: Erroneous or noisy data can lead to poor decision-making.
 2. **[Market Microstructure](../m/market_microstructure.md) [Noise](../n/noise.md)**: Detailed [noise](../n/noise.md) in high-frequency data can obscure significant trends.
-3. **[Overfitting](../o/overfitting.md)**: Machine learning models might perform excellently on historical data but [fail](../f/fail.md) in unseen data.
+3. **[Overfitting](../o/overfitting.md)**: [Machine learning](../m/machine_learning.md) models might perform excellently on historical data but [fail](../f/fail.md) in unseen data.
 4. **Latency**: In HFT particularly, the time taken to process data and execute trades is crucial.
 
 #### Future Directions
 
 1. **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Promising significant enhancement in processing power that could break existing X-[signal processing](../s/signal_processing_in_trading.md) barriers.
-2. **Explainable AI (XAI)**: For developing interpretable models that traders can [trust](../t/trust.md).
+2. **[Explainable AI](../e/explainable_ai.md) (XAI)**: For developing interpretable models that traders can [trust](../t/trust.md).
 3. **Edge Computing**: Reducing latency by processing data closer to the source.
 
 X-[signal processing](../s/signal_processing_in_trading.md) remains a dynamic and rapidly evolving field in [algorithmic trading](../a/algorithmic_trading.md), propelling the capabilities of traders to new heights.

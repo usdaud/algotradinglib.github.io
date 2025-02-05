@@ -74,7 +74,7 @@ The HWI has evolved significantly since its inception:
 
 3. **Evolution with Technology**:
    - As job advertising shifted from print to digital platforms, the HWI methodology was updated to include online sources.
-   - Modern indices now integrate sophisticated [data analytics](../d/data_analytics.md) and machine learning to process vast amounts of online job advertising data.
+   - Modern indices now integrate sophisticated [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) to process vast amounts of online job advertising data.
 
 ## Uses of HWI in Algotrading
 

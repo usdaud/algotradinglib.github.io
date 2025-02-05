@@ -84,7 +84,7 @@ Several leading technology and financial services companies [offer](../o/offer.m
 
 ### **Artificial Intelligence and Machine Learning**
 
-The integration of AI and machine learning within UMA systems is poised to revolutionize [market](../m/market.md) access and [trade](../t/trade.md) [execution](../e/execution.md). These technologies enable more sophisticated data analysis, [predictive analytics](../p/predictive_analytics.md), and [adaptive algorithms](../a/adaptive_algorithms.md) that can significantly enhance [trading strategies](../t/trading_strategies.md) and performance.
+The integration of AI and [machine learning](../m/machine_learning.md) within UMA systems is poised to revolutionize [market](../m/market.md) access and [trade](../t/trade.md) [execution](../e/execution.md). These technologies enable more sophisticated data analysis, [predictive analytics](../p/predictive_analytics.md), and [adaptive algorithms](../a/adaptive_algorithms.md) that can significantly enhance [trading strategies](../t/trading_strategies.md) and performance.
 
 ### **Cloud-Based UMA Solutions**
 

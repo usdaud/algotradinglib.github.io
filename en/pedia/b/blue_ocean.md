@@ -8,7 +8,7 @@ In the realm of [algorithmic trading](../a/accountability.md), also known as "al
 
 The Blue Ocean strategy seeks to make the competition irrelevant by creating a leap in [value](../v/value.md) for both the company and its customers. In [algorithmic trading](../a/accountability.md), this can be translated into developing unique [trading algorithms](../t/trading_algorithms.md) that can exploit inefficiencies in new or less explored financial instruments, geographical markets, or types of assets.
 
-- **Innovative [Trading Strategies](../t/trading_strategies.md)**: One of the primary ways to create a Blue Ocean in algo-trading is by developing innovative [trading strategies](../t/trading_strategies.md) that are not widely used. For example, strategies that integrate [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to predict [market](../m/market.md) movements can provide a significant edge over conventional algorithms.
+- **Innovative [Trading Strategies](../t/trading_strategies.md)**: One of the primary ways to create a Blue Ocean in algo-trading is by developing innovative [trading strategies](../t/trading_strategies.md) that are not widely used. For example, strategies that integrate [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to predict [market](../m/market.md) movements can provide a significant edge over conventional algorithms.
 - **Exploration of New Markets**: Another application of Blue Ocean strategy is the exploration of new markets. Algo-traders may look at emerging markets, cryptocurrencies, decentralized [finance](../f/finance.md) (DeFi), or other financial instruments that have less competition and thus greater opportunities for profitable trades.
 
 ## Key Elements of Blue Ocean in Algo-Trading
@@ -17,7 +17,7 @@ Several key elements contribute to the successful implementation of a Blue Ocean
 
 ### Technological Innovation
 
-- **AI and Machine Learning**: Leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning to develop highly sophisticated [trading algorithms](../t/trading_algorithms.md). These algorithms can process vast amounts of data to identify patterns and make trading decisions more accurately and swiftly than human traders.
+- **AI and [Machine Learning](../m/machine_learning.md)**: Leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) to develop highly sophisticated [trading algorithms](../t/trading_algorithms.md). These algorithms can process vast amounts of data to identify patterns and make trading decisions more accurately and swiftly than human traders.
 - **High-Frequency Trading (HFT)**: A strategy that uses powerful computers to conduct hundreds of orders in fractions of a second. Though highly competitive, new methods in HFT can still find untapped opportunities in less explored markets.
 
 ### Data Utilization
@@ -40,7 +40,7 @@ Renaissance Technologies, founded by Jim Simons, is a pioneer in [trading algori
 
 ### Two Sigma
 
-Two Sigma uses [data science](../d/data_science_in_trading.md) and technology-driven approaches to explore new trading opportunities. They utilize machine learning, distributed computing, and research in [macroeconomics](../m/macroeconomics.md) to develop [trading algorithms](../t/trading_algorithms.md) that tap into less crowded opportunities.
+Two Sigma uses [data science](../d/data_science_in_trading.md) and technology-driven approaches to explore new trading opportunities. They utilize [machine learning](../m/machine_learning.md), distributed computing, and research in [macroeconomics](../m/macroeconomics.md) to develop [trading algorithms](../t/trading_algorithms.md) that tap into less crowded opportunities.
 
 [Website](https://www.twosigma.com)
 

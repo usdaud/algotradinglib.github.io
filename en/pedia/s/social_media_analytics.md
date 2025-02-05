@@ -46,7 +46,7 @@ Real-time analytics involves processing and analyzing data as soon as it becomes
 ### Trend Analysis and Prediction
 
 - **[Trend](../t/trend.md) Detection**: Monitoring [social media](../s/social_media.md) for emerging trends that could affect [market](../m/market.md) prices (e.g., viral hashtags, influential opinions).
-- **[Predictive Modeling](../p/predictive_modeling.md)**: Using machine learning models to predict future [asset](../a/asset.md) prices based on [social media](../s/social_media.md) data.
+- **[Predictive Modeling](../p/predictive_modeling.md)**: Using [machine learning](../m/machine_learning.md) models to predict future [asset](../a/asset.md) prices based on [social media](../s/social_media.md) data.
 
 ### Risk Management
 

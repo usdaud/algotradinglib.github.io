@@ -56,7 +56,7 @@ Effective communication skills are essential for [fund](../f/fund.md) managers, 
 
 ### Integration of AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are increasingly being integrated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). These technologies enable [fund](../f/fund.md) managers to develop more sophisticated algorithms capable of analyzing vast amounts of data and adapting to [market](../m/market.md) conditions in real-time.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are increasingly being integrated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). These technologies enable [fund](../f/fund.md) managers to develop more sophisticated algorithms capable of analyzing vast amounts of data and adapting to [market](../m/market.md) conditions in real-time.
 
 ### ESG Investing
 

@@ -84,7 +84,7 @@ As more countries explore the development and implementation of CBDCs, we can ex
 Financial institutions are increasingly showing [interest](../i/interest.md) in digital currencies. The integration of [digital currency trading](../d/digital_currency_trading.md) with traditional [financial markets](../f/financial_market.md) could lead to the creation of new financial instruments and services.
 
 ### Advanced Algorithmic Trading
-As technology advances, the algorithms used for trading digital currencies are becoming more sophisticated. Machine learning and AI are playing growing roles in developing strategies that can adapt to rapidly changing [market](../m/market.md) conditions.
+As technology advances, the algorithms used for trading digital currencies are becoming more sophisticated. [Machine learning](../m/machine_learning.md) and AI are playing growing roles in developing strategies that can adapt to rapidly changing [market](../m/market.md) conditions.
 
 ## Conclusion
 Digital currencies represent a significant innovation in the financial [industry](../i/industry.md). They [offer](../o/offer.md) unique advantages such as decentralization, [security](../s/security.md), and fast transactions. However, they also come with challenges like [volatility](../v/volatility.md) and regulatory [uncertainty](../u/uncertainty_in_trading.md). As technology and regulations evolve, the role of digital currencies in [algorithmic trading](../a/accountability.md) and the broader [financial system](../f/financial_system.md) is likely to expand, [offering](../o/offering.md) new opportunities for traders and investors alike.

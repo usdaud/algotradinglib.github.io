@@ -71,7 +71,7 @@ High-Frequency Trading employs sophisticated algorithms and high-speed data netw
 [Learn more about Renaissance Technologies here](https://www.rentec.com)
 
 ### Machine Learning and AI
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) have revolutionized the way [Alpha](../a/alpha.md) is generated. Algorithms can now learn from vast datasets, recognize patterns, and make autonomous trading decisions. Companies like Two Sigma utilize AI for [predictive modeling](../p/predictive_modeling.md) and strategy development.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) have revolutionized the way [Alpha](../a/alpha.md) is generated. Algorithms can now learn from vast datasets, recognize patterns, and make autonomous trading decisions. Companies like Two Sigma utilize AI for [predictive modeling](../p/predictive_modeling.md) and strategy development.
 [Learn more about Two Sigma here](https://www.twosigma.com)
 
 ### Blockchain and Smart Contracts

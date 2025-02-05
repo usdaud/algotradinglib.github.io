@@ -105,7 +105,7 @@ In the realm of high-frequency trading, where milliseconds matter, the reduced l
 
 ### Algorithmic Trading Firms
 
-Many [algorithmic trading](../a/accountability.md) firms incorporate advanced versions of DEMA within their [proprietary algorithms](../p/proprietary_algorithms.md). These firms often combine DEMA with machine learning models to enhance prediction accuracy. A leading [firm](../f/firm.md) known for such innovations is **XR Trading** [https://xrtrading.com/](https://xrtrading.com/), which specializes in leveraging cutting-edge technology for trading across various [asset](../a/asset.md) classes.
+Many [algorithmic trading](../a/accountability.md) firms incorporate advanced versions of DEMA within their [proprietary algorithms](../p/proprietary_algorithms.md). These firms often combine DEMA with [machine learning](../m/machine_learning.md) models to enhance prediction accuracy. A leading [firm](../f/firm.md) known for such innovations is **XR Trading** [https://xrtrading.com/](https://xrtrading.com/), which specializes in leveraging cutting-edge technology for trading across various [asset](../a/asset.md) classes.
 
 ## Conclusion
 

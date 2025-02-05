@@ -47,7 +47,7 @@ Just as in natural ecosystems, not all [trading strategies](../t/trading_strateg
 
 ### Evolution of Financial Ecosystems
 
-The financial [market](../m/market.md) ecosystem itself undergoes evolution driven by competition, regulation, technological advancements, and socio-economic changes. Regulatory shifts might introduce new constraints and opportunities that affect the viability of certain [trading strategies](../t/trading_strategies.md). Technological advancements, particularly in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are continually reshaping the landscape by enabling the development of more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md).
+The financial [market](../m/market.md) ecosystem itself undergoes evolution driven by competition, regulation, technological advancements, and socio-economic changes. Regulatory shifts might introduce new constraints and opportunities that affect the viability of certain [trading strategies](../t/trading_strategies.md). Technological advancements, particularly in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are continually reshaping the landscape by enabling the development of more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md).
 
 Moreover, socio-economic changes—such as [globalization](../g/globalization.md), demographic shifts, and [behavioral finance](../b/behavioral_finance.md) insights—add layers of complexity and [variability](../v/variability.md), forcing financial [market](../m/market.md) participants to constantly evolve to maintain their competitive edge.
 
@@ -65,7 +65,7 @@ On the [flip](../f/flip.md) side, Renaissance Technologies, founded by mathemati
 
 ### Artificial Intelligence and Machine Learning
 
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) are at the forefront of financial evolution. These technologies allow traders to analyze vast amounts of data, identify hidden patterns, and develop [predictive models](../p/predictive_models_in_trading.md) with high accuracy. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can be trained on historical data to forecast future price movements, optimize portfolios, and enhance [risk management](../r/risk_management.md).
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) are at the forefront of financial evolution. These technologies allow traders to analyze vast amounts of data, identify hidden patterns, and develop [predictive models](../p/predictive_models_in_trading.md) with high accuracy. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can be trained on historical data to forecast future price movements, optimize portfolios, and enhance [risk management](../r/risk_management.md).
 
 ### Algo-Trading Platforms
 

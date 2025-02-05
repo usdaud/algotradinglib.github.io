@@ -100,7 +100,7 @@ Understanding and optimizing [value](../v/value.md) networks come with their own
 
 ## Future Prospects
 
-The concept of [value](../v/value.md) networks is likely to become even more crucial as financial ecosystems become more interconnected and technology-driven. Trends such as the increasing use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning, and the continued rise of [blockchain](../b/blockchain_in_trading.md) [will](../w/will.md) only make [value](../v/value.md) networks more integral to the financial and trading industries. 
+The concept of [value](../v/value.md) networks is likely to become even more crucial as financial ecosystems become more interconnected and technology-driven. Trends such as the increasing use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md), and the continued rise of [blockchain](../b/blockchain_in_trading.md) [will](../w/will.md) only make [value](../v/value.md) networks more integral to the financial and trading industries. 
 
 ### AI and Value Networks
 

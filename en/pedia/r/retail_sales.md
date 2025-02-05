@@ -75,7 +75,7 @@ Retail sales data can influence [exchange](../e/exchange.md) rates as it impacts
 [Bond](../b/bond.md) traders may react to retail sales data if it signals changes in consumer [inflation](../i/inflation.md), potentially affecting [interest](../i/interest.md) rates.
 
 ## Technological Innovations in Retail Sales
-Advancements in technology have transformed retail sales and consumer behavior. Technologies such as [big data analytics](../b/big_data_analytics_in_trading.md), [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI), Machine Learning (ML), and [Blockchain](../b/blockchain_in_trading.md) play significant roles in modern retail strategies.
+Advancements in technology have transformed retail sales and consumer behavior. Technologies such as [big data analytics](../b/big_data_analytics_in_trading.md), [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI), [Machine Learning](../m/machine_learning.md) (ML), and [Blockchain](../b/blockchain_in_trading.md) play significant roles in modern retail strategies.
 
 ### Big Data and Analytics
 Retailers use [big data analytics](../b/big_data_analytics_in_trading.md) to understand consumer preferences, optimize [inventory](../i/inventory.md), and enhance [customer](../c/customer.md) experiences. This approach allows retailers to [offer](../o/offer.md) personalized recommendations and targeted [marketing](../m/marketing.md).

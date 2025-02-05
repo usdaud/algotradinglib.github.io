@@ -6,13 +6,13 @@
 
 ### Python
 
-Python is one of the most popular languages for [quantitative analysis](../q/quantitative_analysis.md) due to its simplicity and the vast array of scientific libraries available. Libraries such as NumPy, pandas, and SciPy allow for efficient data manipulation and analysis. Python’s matplotlib and seaborn are widely used for [data visualization](../d/data_visualization.md), while Scikit-learn and TensorFlow provide machine learning capabilities.
+Python is one of the most popular languages for [quantitative analysis](../q/quantitative_analysis.md) due to its simplicity and the vast array of scientific libraries available. Libraries such as NumPy, pandas, and SciPy allow for efficient data manipulation and analysis. Python’s matplotlib and seaborn are widely used for [data visualization](../d/data_visualization.md), while Scikit-learn and [TensorFlow](../t/tensorflow.md) provide [machine learning](../m/machine_learning.md) capabilities.
 
 - [NumPy](https://numpy.org/): A fundamental package for numerical computation.
 - [pandas](https://pandas.pydata.org/): Provides data structures and data analysis tools.
 - [SciPy](https://scipy.org/): Used for scientific and technical computing.
 - [matplotlib](https://matplotlib.org/): Plotting and visualization library.
-- [Scikit-learn](https://scikit-learn.org/stable/): Machine learning library.
+- [Scikit-learn](https://scikit-learn.org/stable/): [Machine learning](../m/machine_learning.md) library.
 
 ### R
 
@@ -65,19 +65,19 @@ The [Bloomberg](../b/bloomberg.md) Terminal is a high-end data service providing
 
 ### TensorFlow
 
-TensorFlow is an [open](../o/open.md)-source platform for machine learning developed by Google. It provides a comprehensive ecosystem for building and deploying machine learning models. TensorFlow is particularly powerful for [deep learning](../d/deep_learning.md) applications, which are often used in [quantitative trading](../q/quantitative_trading.md) strategies.
+[TensorFlow](../t/tensorflow.md) is an [open](../o/open.md)-source platform for [machine learning](../m/machine_learning.md) developed by Google. It provides a comprehensive ecosystem for building and deploying [machine learning](../m/machine_learning.md) models. [TensorFlow](../t/tensorflow.md) is particularly powerful for [deep learning](../d/deep_learning.md) applications, which are often used in [quantitative trading](../q/quantitative_trading.md) strategies.
 
 - [TensorFlow](https://www.tensorflow.org/): Official site.
 
 ### PyTorch
 
-PyTorch is an [open](../o/open.md)-source machine learning library developed by Facebook's AI Research lab. It is known for its dynamic computation graph and intuitive interface, making it a favorite among researchers and practitioners in the machine learning community.
+[PyTorch](../p/pytorch.md) is an [open](../o/open.md)-source [machine learning](../m/machine_learning.md) library developed by Facebook's AI Research lab. It is known for its dynamic computation graph and intuitive interface, making it a favorite among researchers and practitioners in the [machine learning](../m/machine_learning.md) community.
 
 - [PyTorch](https://pytorch.org/): Official site.
 
 ### Keras
 
-Keras is an [open](../o/open.md)-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md). Keras acts as an interface for the TensorFlow library and simplifies the process of building complex neural [network models](../n/network_models_in_trading.md).
+[Keras](../k/keras.md) is an [open](../o/open.md)-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md). [Keras](../k/keras.md) acts as an interface for the [TensorFlow](../t/tensorflow.md) library and simplifies the process of building complex neural [network models](../n/network_models_in_trading.md).
 
 - [Keras](https://keras.io/): Official site.
 
@@ -131,4 +131,4 @@ Plotly is an [open](../o/open.md)-source graphing library that makes interactive
 
 ## Conclusion
 
-[Quantitative analysis](../q/quantitative_analysis.md) tools are essential for developing, [backtesting](../b/backtesting.md), and implementing [trading strategies](../t/trading_strategies.md) in the [financial markets](../f/financial_market.md). These tools [range](../r/range.md) from programming languages and statistical libraries to data providers, machine learning frameworks, [backtesting](../b/backtesting.md) environments, [risk management](../r/risk_management.md) systems, and visualization tools. Each tool has its unique strengths and use cases, making them valuable assets for quantitative analysts and algorithmic traders alike.
+[Quantitative analysis](../q/quantitative_analysis.md) tools are essential for developing, [backtesting](../b/backtesting.md), and implementing [trading strategies](../t/trading_strategies.md) in the [financial markets](../f/financial_market.md). These tools [range](../r/range.md) from programming languages and statistical libraries to data providers, [machine learning](../m/machine_learning.md) frameworks, [backtesting](../b/backtesting.md) environments, [risk management](../r/risk_management.md) systems, and visualization tools. Each tool has its unique strengths and use cases, making them valuable assets for quantitative analysts and algorithmic traders alike.

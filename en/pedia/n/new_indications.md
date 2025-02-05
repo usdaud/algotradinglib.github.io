@@ -55,7 +55,7 @@ Moving averages smooth out price data to identify trends. Types include:
 [Algorithmic trading](../a/accountability.md) involves using computer algorithms to [trade](../t/trade.md) at high frequencies, employing strategies based on [technical indicators](../t/technical_indicator.md) and patterns. Key aspects include:
 
 - **[Execution Algorithms](../e/execution_algorithms.md)**: Ensure trades are made quickly and efficiently.
-- **[Alpha Generation](../a/alpha_generation.md) Algorithms**: Identify profitable opportunities using statistical and machine learning models.
+- **[Alpha Generation](../a/alpha_generation.md) Algorithms**: Identify profitable opportunities using statistical and [machine learning](../m/machine_learning.md) models.
 
 ### Backtesting
 
@@ -73,10 +73,10 @@ HFT is a subset of [algorithmic trading](../a/accountability.md), involving rapi
 
 ### Machine Learning
 
-Machine learning enhances [algorithmic trading](../a/accountability.md) through [predictive models](../p/predictive_models_in_trading.md):
+[Machine learning](../m/machine_learning.md) enhances [algorithmic trading](../a/accountability.md) through [predictive models](../p/predictive_models_in_trading.md):
 
-- **Supervised Learning**: Models are trained on annotated data (e.g., predicting price movements).
-- **Unsupervised Learning**: Identifies hidden patterns in the data (e.g., clustering similar [market](../m/market.md) conditions).
+- **[Supervised Learning](../s/supervised_learning.md)**: Models are trained on annotated data (e.g., predicting price movements).
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Identifies hidden patterns in the data (e.g., clustering similar [market](../m/market.md) conditions).
 
 ### Execution Strategies
 
@@ -157,4 +157,4 @@ Integration with [blockchain](../b/blockchain_in_trading.md) technologies:
 
 ## Conclusion
 
-[Technical analysis](../t/technical_analysis.md) remains a cornerstone of trading, evolving from traditional manual methods to advanced algorithmic strategies. Its integration with modern technologies like machine learning and [quantum computing](../q/quantum_computing_in_trading.md) ensures its relevance and efficacy in the dynamic landscape of [financial markets](../f/financial_market.md). Through understanding the fundamentals and leveraging computational tools, traders can enhance their decision-making process and achieve greater success in their trading endeavors.
+[Technical analysis](../t/technical_analysis.md) remains a cornerstone of trading, evolving from traditional manual methods to advanced algorithmic strategies. Its integration with modern technologies like [machine learning](../m/machine_learning.md) and [quantum computing](../q/quantum_computing_in_trading.md) ensures its relevance and efficacy in the dynamic landscape of [financial markets](../f/financial_market.md). Through understanding the fundamentals and leveraging computational tools, traders can enhance their decision-making process and achieve greater success in their trading endeavors.

@@ -46,7 +46,7 @@ Renaissance Technologies is one of the most renowned [hedge](../h/hedge.md) fund
 
 ### Two Sigma
 
-Two Sigma uses machine learning, distributed computing, and other advanced technologies to develop [systematic investment strategies](../s/systematic_investment_strategies.md). They delve deeply into [big data](../b/big_data_in_trading.md) and [quantitative analysis](../q/quantitative_analysis.md) to drive their investment decisions.
+Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies to develop [systematic investment strategies](../s/systematic_investment_strategies.md). They delve deeply into [big data](../b/big_data_in_trading.md) and [quantitative analysis](../q/quantitative_analysis.md) to drive their investment decisions.
 
 [Company Website](https://www.twosigma.com/)
 

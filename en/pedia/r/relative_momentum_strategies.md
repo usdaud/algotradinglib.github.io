@@ -164,7 +164,7 @@ Research Affiliates has explored the benefits of [momentum](../m/momentum.md) st
 
 #### Machine Learning
 
-The integration of machine learning techniques to enhance [momentum](../m/momentum.md) signals and improve strategy performance.
+The integration of [machine learning](../m/machine_learning.md) techniques to enhance [momentum](../m/momentum.md) signals and improve strategy performance.
 
 #### Alternative Data
 

@@ -61,7 +61,7 @@ Running simulated trades through past [market](../m/market.md) conditions helps 
 Using real-time dashboards to monitor [trade](../t/trade.md) executions and [unfilled orders](../u/unfilled_orders.md) allows traders to adapt quickly. Highlighting real-time [performance metrics](../p/performance_metrics.md) can pinpoint problems immediately.
 
 ### Statistical Methods
-Advanced statistical methods, such as [regression analysis](../r/regression_analysis.md) and machine learning techniques, can predict the likelihood of orders being unfilled under various conditions.
+Advanced statistical methods, such as [regression analysis](../r/regression_analysis.md) and [machine learning](../m/machine_learning.md) techniques, can predict the likelihood of orders being unfilled under various conditions.
 
 ## Mitigation Strategies
 

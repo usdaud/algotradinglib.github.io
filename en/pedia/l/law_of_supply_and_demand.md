@@ -53,7 +53,7 @@ The [supply](../s/supply.md) and [demand](../d/demand.md) curves can shift based
 ### Components of Algotrading
 
 1. **Data Collection**: Algorithms collect a vast amount of [market](../m/market.md) data to analyze [supply](../s/supply.md) and [demand](../d/demand.md) dynamics. This includes historical price data, trading volumes, and external indicators like economic news.
-2. **Modeling [Demand](../d/demand.md) and [Supply](../s/supply.md)**: Advanced statistical and machine learning models are used to understand and predict shifts in [supply](../s/supply.md) and [demand](../d/demand.md). Each [trade](../t/trade.md) is executed based on the analysis of this data.
+2. **Modeling [Demand](../d/demand.md) and [Supply](../s/supply.md)**: Advanced statistical and [machine learning](../m/machine_learning.md) models are used to understand and predict shifts in [supply](../s/supply.md) and [demand](../d/demand.md). Each [trade](../t/trade.md) is executed based on the analysis of this data.
 3. **[Execution](../e/execution.md) Strategies**: Algotrading systems employ various [execution](../e/execution.md) strategies (e.g., [market](../m/market.md) making, statistical [arbitrage](../a/arbitrage.md)) to take advantage of the [market](../m/market.md) conditions inferred from [supply](../s/supply.md) and [demand](../d/demand.md) analysis.
 
 ### Example: High-Frequency Trading (HFT)

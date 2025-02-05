@@ -99,7 +99,7 @@ The advent of [blockchain](../b/blockchain_in_trading.md) technology and cryptoc
 
 ### Artificial Intelligence (AI) and Machine Learning
 
-AI and machine learning can analyze vast amounts of financial data quickly and accurately, providing insights that can optimize investment strategies.
+AI and [machine learning](../m/machine_learning.md) can analyze vast amounts of financial data quickly and accurately, providing insights that can optimize investment strategies.
 
 ## Companies Specializing in Wealth Management
 

@@ -109,7 +109,7 @@ Renaissance Technologies, known for their Medallion [Fund](../f/fund.md), has ac
 
 ### Two Sigma Investments
 
-Two Sigma Investments leverages [big data](../b/big_data_in_trading.md), AI, and machine learning to drive their [algorithmic trading](../a/algorithmic_trading.md) strategies. Their tech-first approach has enabled impressive ROI performance in a competitive [market](../m/market.md) landscape.
+Two Sigma Investments leverages [big data](../b/big_data_in_trading.md), AI, and [machine learning](../m/machine_learning.md) to drive their [algorithmic trading](../a/algorithmic_trading.md) strategies. Their tech-first approach has enabled impressive ROI performance in a competitive [market](../m/market.md) landscape.
 
 ## Conclusion
 

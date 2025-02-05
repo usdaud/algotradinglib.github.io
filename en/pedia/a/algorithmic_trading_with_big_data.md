@@ -44,7 +44,7 @@ Handling [Big Data](../b/big_data_in_trading.md) requires [robust](../r/robust.m
 
 To derive actionable insights from [Big Data](../b/big_data_in_trading.md), advanced [data analytics](../d/data_analytics.md) techniques are employed:
 
-- **Machine Learning**: Algorithms can learn from historical data to predict future trends. Popular machine learning frameworks include TensorFlow and Scikit-Learn.
+- **[Machine Learning](../m/machine_learning.md)**: Algorithms can learn from historical data to predict future trends. Popular [machine learning](../m/machine_learning.md) frameworks include [TensorFlow](../t/tensorflow.md) and Scikit-Learn.
 
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: NLP techniques are used to analyze textual data from news articles and [social media](../s/social_media.md) to gauge [market sentiment](../m/market_sentiment.md).
 
@@ -72,9 +72,9 @@ Once trading decisions are made, they need to be executed efficiently. Key compo
 
 ### Predictive Analytics
 
-[Predictive analytics](../p/predictive_analytics.md) involves using historical data to forecast future [market](../m/market.md) movements. Machine learning models can be trained on historical price and [transaction](../t/transaction.md) data to predict future prices, [volatility](../v/volatility.md), and other [market](../m/market.md) parameters.
+[Predictive analytics](../p/predictive_analytics.md) involves using historical data to forecast future [market](../m/market.md) movements. [Machine learning](../m/machine_learning.md) models can be trained on historical price and [transaction](../t/transaction.md) data to predict future prices, [volatility](../v/volatility.md), and other [market](../m/market.md) parameters.
 
-- **Example**: A machine learning model trained on historical stock price data can predict future price movements, enabling traders to execute profitable trades.
+- **Example**: A [machine learning](../m/machine_learning.md) model trained on historical stock price data can predict future price movements, enabling traders to execute profitable trades.
 
 ### High-Frequency Trading (HFT)
 
@@ -116,7 +116,7 @@ Processing and analyzing large datasets require significant computational resour
 
 ### Model Overfitting
 
-In machine learning, [overfitting](../o/overfitting.md) occurs when a model is too closely tailored to historical data and performs poorly on new, unseen data. Ensuring that [predictive models](../p/predictive_models_in_trading.md) generalize well to new data is essential for reliable [trading performance](../t/trading_performance.md).
+In [machine learning](../m/machine_learning.md), [overfitting](../o/overfitting.md) occurs when a model is too closely tailored to historical data and performs poorly on new, unseen data. Ensuring that [predictive models](../p/predictive_models_in_trading.md) generalize well to new data is essential for reliable [trading performance](../t/trading_performance.md).
 
 ## Conclusion
 

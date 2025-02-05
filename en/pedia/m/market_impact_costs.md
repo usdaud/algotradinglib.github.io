@@ -40,7 +40,7 @@ Pre-[trade](../t/trade.md) models predict the potential [market](../m/market.md)
 [Post-trade analysis](../p/post-trade_analysis.md) involves examining the actual [market](../m/market.md) prices before, during, and after [trade](../t/trade.md) [execution](../e/execution.md) to evaluate the realized [market](../m/market.md) impact. This helps in assessing the accuracy of pre-[trade](../t/trade.md) predictions and refining algorithms.
 
 ### Predictive Models
-Advanced [predictive models](../p/predictive_models_in_trading.md) using machine learning and regression analytics can also be employed to estimate [market](../m/market.md) impact costs. These models often [factor](../f/factor.md) in a wide [range](../r/range.md) of variables pulled from historical trading data, encompassing aspects like [order book depth](../o/order_book_depth.md) and high-frequency trading patterns.
+Advanced [predictive models](../p/predictive_models_in_trading.md) using [machine learning](../m/machine_learning.md) and regression analytics can also be employed to estimate [market](../m/market.md) impact costs. These models often [factor](../f/factor.md) in a wide [range](../r/range.md) of variables pulled from historical trading data, encompassing aspects like [order book depth](../o/order_book_depth.md) and high-frequency trading patterns.
 
 ## Mitigation Strategies
 

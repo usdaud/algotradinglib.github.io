@@ -82,7 +82,7 @@ Implementing [algorithmic trading](../a/algorithmic_trading.md) strategies for E
    [Algorithmic trading](../a/algorithmic_trading.md) is subject to stringent regulatory standards. Firms must ensure their algorithms comply with [market](../m/market.md) regulations to avoid legal repercussions.
 
 ### Future Trends
-1. **AI and Machine Learning:**
+1. **AI and [Machine Learning](../m/machine_learning.md):**
    The adoption of AI and ML in [algorithmic trading](../a/algorithmic_trading.md) is growing. These technologies enhance prediction accuracy and strategy adaptability.
 
 2. **[Quantum Computing](../q/quantum_computing_in_trading.md):**

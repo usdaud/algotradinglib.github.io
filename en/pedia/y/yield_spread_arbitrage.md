@@ -49,7 +49,7 @@ Advanced [yield spread](../y/yield_spread.md) [arbitrage](../a/arbitrage.md) str
 
 - **High-frequency [Trading Systems](../t/trading_systems.md)**: These systems execute trades at extremely high speeds to take advantage of fleeting [arbitrage](../a/arbitrage.md) opportunities.
 - **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: By analyzing vast amounts of data from [financial markets](../f/financial_market.md), traders can identify and exploit subtle pricing inefficiencies.
-- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Machine learning is increasingly being employed to enhance [predictive models](../p/predictive_models_in_trading.md) for [yield](../y/yield.md) [spreads](../s/spreads.md), [offering](../o/offering.md) a competitive edge in identifying [arbitrage](../a/arbitrage.md) opportunities.
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: [Machine learning](../m/machine_learning.md) is increasingly being employed to enhance [predictive models](../p/predictive_models_in_trading.md) for [yield](../y/yield.md) [spreads](../s/spreads.md), [offering](../o/offering.md) a competitive edge in identifying [arbitrage](../a/arbitrage.md) opportunities.
 
 ### Regulatory Landscape
 

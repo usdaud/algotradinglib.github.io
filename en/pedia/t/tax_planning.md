@@ -95,7 +95,7 @@ Decisions regarding the mix of [debt](../d/debt.md) and [equity financing](../e/
 Advanced tax preparation software like TurboTax, H&R Block, and TaxAct offers users tools to maximize their [tax refund](../t/tax_refund.md) and ensure compliance. 
 
 ### Machine Learning and AI
-Modern tax planning leverages AI and machine learning to analyze complex tax scenarios and optimize strategies efficiently. Companies such as Intuit use AI to enhance their tax software capabilities.
+Modern tax planning leverages AI and [machine learning](../m/machine_learning.md) to analyze complex tax scenarios and optimize strategies efficiently. Companies such as Intuit use AI to enhance their tax software capabilities.
 
 ### Blockchain
 [Blockchain](../b/blockchain_in_trading.md) technology ensures transparent and immutable [transaction](../t/transaction.md) records, which can simplify auditing and compliance processes. For example, IBM utilizes [blockchain](../b/blockchain_in_trading.md) to streamline tax compliance for businesses.

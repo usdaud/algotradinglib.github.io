@@ -15,7 +15,7 @@ Knowledge-driven [trading systems](../t/trading_systems.md) rely on the seamless
 The processing and analysis of integrated data are conducted using advanced analytical techniques:
 
 - **Statistical Analysis:** Traditional methods like regression, [hypothesis testing](../h/hypothesis_testing.md), and [time series analysis](../t/time_series_analysis.md).
-- **Machine Learning (ML):** Utilizing supervised and unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) for [pattern recognition](../p/pattern_recognition.md) and [predictive analytics](../p/predictive_analytics.md).
+- **[Machine Learning](../m/machine_learning.md) (ML):** Utilizing supervised and unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) for [pattern recognition](../p/pattern_recognition.md) and [predictive analytics](../p/predictive_analytics.md).
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP):** Analyzing textual data from news articles, [earnings](../e/earnings.md) reports, and [social media](../s/social_media.md).
 
 ### 3. Domain Expertise
@@ -27,10 +27,10 @@ A critical aspect of knowledge-driven trading is incorporating domain expertise 
 ## Key Technologies in Knowledge-Driven Trading
 
 ### 1. Machine Learning and AI
-Machine Learning and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) play pivotal roles in knowledge-driven trading. Algorithms learn from historical data to predict future price movements and trading opportunities. Key algorithms include:
+[Machine Learning](../m/machine_learning.md) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) play pivotal roles in knowledge-driven trading. Algorithms learn from historical data to predict future price movements and trading opportunities. Key algorithms include:
 
 - **[Deep Learning](../d/deep_learning.md) Models:** Such as Long Short-Term Memory (LSTM) networks and Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) for complex [pattern recognition](../p/pattern_recognition.md).
-- **Reinforcement Learning:** Algorithms that learn optimal [trading strategies](../t/trading_strategies.md) through trial and error in simulated environments.
+- **[Reinforcement Learning](../r/reinforcement_learning.md):** Algorithms that learn optimal [trading strategies](../t/trading_strategies.md) through trial and error in simulated environments.
 
 ### 2. Big Data Technologies
 Handling vast amounts of financial data necessitates [robust](../r/robust.md) [big data](../b/big_data_in_trading.md) technologies:
@@ -41,7 +41,7 @@ Handling vast amounts of financial data necessitates [robust](../r/robust.md) [b
 ### 3. Cloud Computing
 The [scalability](../s/scalability.md) and computational power of [cloud computing](../c/cloud_computing_in_trading.md) support the vast data needs and complex computations of knowledge-driven systems:
 
-- **AWS, Google Cloud, Microsoft Azure:** Leading cloud service providers [offering](../o/offering.md) scalable [infrastructure](../i/infrastructure.md) and machine learning services.
+- **AWS, Google Cloud, Microsoft Azure:** Leading cloud service providers [offering](../o/offering.md) scalable [infrastructure](../i/infrastructure.md) and [machine learning](../m/machine_learning.md) services.
 
 ## Implementation of Knowledge-Driven Trading Systems
 
@@ -53,7 +53,7 @@ Cleaning, transforming, and normalizing raw data to make it suitable for analysi
 - **Normalization:** Scaling data to ensure uniformity across different data sources.
 
 ### 2. Model Development
-Developing [predictive models](../p/predictive_models_in_trading.md) using machine learning techniques:
+Developing [predictive models](../p/predictive_models_in_trading.md) using [machine learning](../m/machine_learning.md) techniques:
 
 - **Training and Validation:** Splitting data into training and testing sets, and using cross-validation techniques to assess model performance.
 - **Hyperparameter Tuning:** Optimizing model parameters to enhance predictive accuracy.
@@ -93,19 +93,19 @@ Utilizing NLP to analyze sentiment from news articles, [social media](../s/socia
 ## Leading Companies in Knowledge-Driven Trading
 
 ### 1. Two Sigma
-Two Sigma (https://www.twosigma.com/) employs machine learning, distributed computing, and sophisticated models to manage various investment strategies. Two Sigma's approach is a paragon of knowledge-driven trading using vast amounts of data and advanced technologies.
+Two Sigma (https://www.twosigma.com/) employs [machine learning](../m/machine_learning.md), distributed computing, and sophisticated models to manage various investment strategies. Two Sigma's approach is a paragon of knowledge-driven trading using vast amounts of data and advanced technologies.
 
 ### 2. Renaissance Technologies
 Noted for its pioneering work in [quantitative trading](../q/quantitative_trading.md), Renaissance Technologies focuses on [systematic trading](../s/systematic_trading.md) strategies derived from complex [mathematical models](../m/mathematical_models_in_trading.md).
 
 ### 3. Numerai
-Numerai (https://numer.ai/) leverages collective intelligence from data scientists worldwide to develop machine learning models for its [hedge fund](../h/hedge_fund.md).
+Numerai (https://numer.ai/) leverages collective intelligence from data scientists worldwide to develop [machine learning](../m/machine_learning.md) models for its [hedge fund](../h/hedge_fund.md).
 
 ### 4. AQR Capital Management
 AQR (https://www.aqr.com/) integrates economic theories with [quantitative analysis](../q/quantitative_analysis.md) to manage its diverse suite of investment strategies.
 
 ### 5. Point72
-Point72 (https://www.point72.com/) employs data scientists and quantitative researchers to develop [alpha](../a/alpha.md)-generating strategies using [big data](../b/big_data_in_trading.md) and machine learning.
+Point72 (https://www.point72.com/) employs data scientists and quantitative researchers to develop [alpha](../a/alpha.md)-generating strategies using [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md).
 
 ## Challenges and Future Directions
 
@@ -116,7 +116,7 @@ Accurate and comprehensive data is crucial. Challenges include:
 - **Real-time [Data Integration](../d/data_integration.md):** Consolidating data from [multiple](../m/multiple.md) sources in real-time.
 
 ### 2. Model Overfitting
-Preventing [overfitting](../o/overfitting.md) in machine learning models is essential to ensure they generalize well to new, unseen data.
+Preventing [overfitting](../o/overfitting.md) in [machine learning](../m/machine_learning.md) models is essential to ensure they generalize well to new, unseen data.
 
 - **Regularization Techniques:** Methods like L1 and L2 regularization to penalize complexity.
 - **Cross-Validation:** Using [robust](../r/robust.md) validation techniques to assess model performance.

@@ -51,7 +51,7 @@ The Kelly Criterion is especially useful for [portfolio management](../p/portfol
   
 - **Bridgewater Associates**: [Bridgewater](https://www.bridgewater.com/) is one of the world’s largest [hedge](../h/hedge.md) funds, known for its systematic and [quantitative approaches](../q/quantitative_approaches.md) to trading that often includes [risk](../r/risk.md) assessment methodologies akin to the Kelly Criterion.
   
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) applies [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and distributed computing to [financial markets](../f/financial_market.md). The [firm](../f/firm.md) utilizes sophisticated [risk management](../r/risk_management.md) and allocation strategies, many of which are influenced by principles similar to the Kelly Criterion.
+- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) applies [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to [financial markets](../f/financial_market.md). The [firm](../f/firm.md) utilizes sophisticated [risk management](../r/risk_management.md) and allocation strategies, many of which are influenced by principles similar to the Kelly Criterion.
 
 ## Historical Context and Development
 

@@ -68,7 +68,7 @@ Several large financial institutions dominate the [business](../b/business.md) b
 One of the most significant trends in [business](../b/business.md) banking is the ongoing digital transformation. Financial institutions are increasingly [investing](../i/investing.md) in technology to streamline their operations, enhance [customer](../c/customer.md) experiences, and develop innovative products and services. Key areas of focus include:
 
 - **Online and [Mobile Banking](../m/mobile_banking.md)**: Platforms that allow businesses to manage their accounts, initiate transactions, and access financial services anytime, anywhere.
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML)**: Advanced technologies that can analyze large volumes of data to provide insights, automate processes, and enhance [risk management](../r/risk_management.md).
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML)**: Advanced technologies that can analyze large volumes of data to provide insights, automate processes, and enhance [risk management](../r/risk_management.md).
 - **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md) (DLT)**: Technologies that can improve the [security](../s/security.md), [transparency](../t/transparency.md), and [efficiency](../e/efficiency.md) of financial transactions.
 
 ### Regulatory Compliance

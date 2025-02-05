@@ -60,14 +60,14 @@ Before deployment, [diversification](../d/diversification.md) strategies undergo
 [Renaissance Technologies](https://www.rentech.com/) is a prominent [hedge fund](../h/hedge_fund.md) known for its use of [quantitative analysis](../q/quantitative_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md) employs extensive [diversification](../d/diversification.md) strategies across [multiple](../m/multiple.md) [asset](../a/asset.md) classes and geographic regions to mitigate [risk](../r/risk.md).
 
 ### Two Sigma
-[Two Sigma](https://www.twosigma.com/) is another leading [hedge fund](../h/hedge_fund.md) that leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to implement [diversification](../d/diversification.md) strategies systematically. They operate globally, spreading their investments across various [asset](../a/asset.md) classes and sectors.
+[Two Sigma](https://www.twosigma.com/) is another leading [hedge fund](../h/hedge_fund.md) that leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to implement [diversification](../d/diversification.md) strategies systematically. They operate globally, spreading their investments across various [asset](../a/asset.md) classes and sectors.
 
 ### Bridgewater Associates
 Bridgewater Associates, founded by Ray Dalio, is known for its All Weather strategy, which embodies the essence of [diversification](../d/diversification.md) across different economic environments. The strategy aims to balance [risk](../r/risk.md) by [investing](../i/investing.md) in assets that perform well under different [economic conditions](../e/economic_conditions.md).
 
 ## Advancements in Technology
 
-The advancement in computational power and [data analytics](../d/data_analytics.md) has significantly enhanced the ability of [hedge](../h/hedge.md) funds and financial institutions to implement complex [diversification](../d/diversification.md) strategies. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) enable more sophisticated analysis and decision-making processes.
+The advancement in computational power and [data analytics](../d/data_analytics.md) has significantly enhanced the ability of [hedge](../h/hedge.md) funds and financial institutions to implement complex [diversification](../d/diversification.md) strategies. [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) enable more sophisticated analysis and decision-making processes.
 
 ### Use of AI and Machine Learning
 Advanced algorithms using AI and ML can identify patterns and correlations that human analysts might miss. These technologies enable the development of more intricate and adaptive [diversification](../d/diversification.md) strategies.

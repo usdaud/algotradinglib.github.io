@@ -59,7 +59,7 @@ The implications of [creative destruction](../c/creative_destruction.md) are far
 [Algorithmic trading](../a/accountability.md) itself is a product of technological innovation. The development of computer algorithms, high-frequency [trading systems](../t/trading_systems.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) has transformed [financial markets](../f/financial_market.md).
 
 1. **High-Frequency Trading (HFT)**: HFT uses algorithms to execute trades at extremely high speeds. These trades can be completed in fractions of a second, taking advantage of minute price discrepancies.
-2. **Machine Learning and AI**: [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can analyze vast amounts of data to identify trading opportunities and optimize strategies.
+2. **[Machine Learning](../m/machine_learning.md) and AI**: [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can analyze vast amounts of data to identify trading opportunities and optimize strategies.
 3. **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md)**: These technologies [offer](../o/offer.md) new ways to execute and settle trades, potentially reducing costs and increasing [transparency](../t/transparency.md).
 
 ### Creative Destruction in Financial Markets

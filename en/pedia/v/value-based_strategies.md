@@ -36,7 +36,7 @@ Data must be cleaned, normalized, and sometimes transformed to fit the models us
    
    - **Monte Carlo Simulations**: Used to account for [uncertainty](../u/uncertainty_in_trading.md) and [risk](../r/risk.md) in the [valuation](../v/valuation.md) process by simulating a [range](../r/range.md) of possible outcomes for key inputs.
 
-Algorithms can be trained using machine learning techniques to recognize patterns and correlations within the data. Advanced models can dynamically adjust weightings and parameters based on real-time inputs.
+Algorithms can be trained using [machine learning](../m/machine_learning.md) techniques to recognize patterns and correlations within the data. Advanced models can dynamically adjust weightings and parameters based on real-time inputs.
 
 #### 3. **Signal Generation**
 
@@ -92,6 +92,6 @@ Despite the appeal of [value](../v/value.md)-based [algorithmic trading](../a/al
 
 ### The Future of Value-Based Algorithmic Trading
 
-With advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, the sophistication of [value](../v/value.md)-based [algorithmic trading](../a/algorithmic_trading.md) is expected to grow. More refined [data analytics](../d/data_analytics.md), improved [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) for better understanding of qualitative factors, and enhanced predictive capabilities could lead to better assessment of intrinsic values and more effective [trading strategies](../t/trading_strategies.md).
+With advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), the sophistication of [value](../v/value.md)-based [algorithmic trading](../a/algorithmic_trading.md) is expected to grow. More refined [data analytics](../d/data_analytics.md), improved [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) for better understanding of qualitative factors, and enhanced predictive capabilities could lead to better assessment of intrinsic values and more effective [trading strategies](../t/trading_strategies.md).
 
 In conclusion, [value](../v/value.md)-based strategies in [algorithmic trading](../a/algorithmic_trading.md) represent a fusion of traditional [fundamental analysis](../f/fundamental_analysis.md) with modern computational techniques, striving to systematically exploit [market](../m/market.md) inefficiencies. As technology and [market](../m/market.md) understanding evolve, these strategies [will](../w/will.md) likely continue to play a crucial role in the landscape of [algorithmic trading](../a/algorithmic_trading.md).

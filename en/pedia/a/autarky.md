@@ -4,7 +4,7 @@ Autarky in the context of [algorithmic trading](../a/accountability.md) refers t
 
 ## Introduction to Autarky
 
-Autarky, originally an economic term, implies a state of self-sufficiency and independence from external aid. In the realm of [algorithmic trading](../a/accountability.md), autarky denotes [trading systems](../t/trading_systems.md) and strategies designed to function autonomously, without reliance on external data feeds or [market](../m/market.md) inputs. These systems [leverage](../l/leverage.md) in-built algorithms, historical data, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning to generate [trading signals](../t/trading_signals.md).
+Autarky, originally an economic term, implies a state of self-sufficiency and independence from external aid. In the realm of [algorithmic trading](../a/accountability.md), autarky denotes [trading systems](../t/trading_systems.md) and strategies designed to function autonomously, without reliance on external data feeds or [market](../m/market.md) inputs. These systems [leverage](../l/leverage.md) in-built algorithms, historical data, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) to generate [trading signals](../t/trading_signals.md).
 
 ## Key Concepts in Autarky
 
@@ -14,7 +14,7 @@ An autarkic trading system does not depend on live data streams from third-party
 
 ### Self-Sustaining Algorithms
 
-Core to autarky is the development of self-sustaining algorithms capable of periodic self-revision and improvement. These algorithms often employ machine learning techniques to adapt to changing [market](../m/market.md) conditions and optimize themselves over time.
+Core to autarky is the development of self-sustaining algorithms capable of periodic self-revision and improvement. These algorithms often employ [machine learning](../m/machine_learning.md) techniques to adapt to changing [market](../m/market.md) conditions and optimize themselves over time.
 
 ### Risk Management
 
@@ -28,7 +28,7 @@ Autarkic systems heavily rely on vast quantities of historical [market](../m/mar
 
 ### Machine Learning and AI
 
-Machine learning models, particularly those involving [neural networks](../n/neural_networks_in_trading.md) and [deep learning](../d/deep_learning.md), are integral to developing autarkic [trading systems](../t/trading_systems.md). These models are trained on historical data to identify profitable trading opportunities and continuously refine themselves based on historical performance and simulated environments.
+[Machine learning](../m/machine_learning.md) models, particularly those involving [neural networks](../n/neural_networks_in_trading.md) and [deep learning](../d/deep_learning.md), are integral to developing autarkic [trading systems](../t/trading_systems.md). These models are trained on historical data to identify profitable trading opportunities and continuously refine themselves based on historical performance and simulated environments.
 
 ```
 [import](../i/import.md) numpy as np
@@ -54,7 +54,7 @@ Evolutionary algorithms mimic natural selection processes. In trading, these alg
 
 ### Reinforcement Learning
 
-Reinforcement learning, a subset of machine learning, is particularly well-suited for autarkic systems. By simulating trading environments, reinforcement learning agents learn to make optimized trading decisions. The agent receives rewards for profitable trades and penalties for losses, guiding its learning process.
+[Reinforcement learning](../r/reinforcement_learning.md), a subset of [machine learning](../m/machine_learning.md), is particularly well-suited for autarkic systems. By simulating trading environments, [reinforcement learning](../r/reinforcement_learning.md) agents learn to make optimized trading decisions. The agent receives rewards for profitable trades and penalties for losses, guiding its learning process.
 
 ```
 [import](../i/import.md) gym
@@ -100,19 +100,19 @@ Aatonomy is a cutting-edge [firm](../f/firm.md) specializing in autonomous [trad
 
 ### Numerai
 
-Numerai uses machine learning models powered by a decentralized network of data scientists to create [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). They provide an innovative approach to model development and data utilization that aligns with the principles of autarky. Explore more on [Numerai's website](https://numer.ai).
+Numerai uses [machine learning](../m/machine_learning.md) models powered by a decentralized network of data scientists to create [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). They provide an innovative approach to model development and data utilization that aligns with the principles of autarky. Explore more on [Numerai's website](https://numer.ai).
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) offers an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that supports machine learning and [backtesting](../b/backtesting.md). Although not entirely autarkic, it embodies several principles of self-sustaining [trading strategies](../t/trading_strategies.md). More information is available at [QuantConnect](https://www.quantconnect.com).
+[QuantConnect](../q/quantconnect.md) offers an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that supports [machine learning](../m/machine_learning.md) and [backtesting](../b/backtesting.md). Although not entirely autarkic, it embodies several principles of self-sustaining [trading strategies](../t/trading_strategies.md). More information is available at [QuantConnect](https://www.quantconnect.com).
 
 ### AphaLab Capital
 
-AlphLab [Capital](../c/capital.md) focuses on developing machine learning-driven autonomous [trading systems](../t/trading_systems.md). Their emphasis on research and innovation places them at the forefront of autarkic trading. Visit their [website](https://www.alphalab.capital) for more details.
+AlphLab [Capital](../c/capital.md) focuses on developing [machine learning](../m/machine_learning.md)-driven autonomous [trading systems](../t/trading_systems.md). Their emphasis on research and innovation places them at the forefront of autarkic trading. Visit their [website](https://www.alphalab.capital) for more details.
 
 ## Future Directions
 
-The future of autarkic [algorithmic trading](../a/accountability.md) lies in the continuous advancement of machine learning techniques, enhanced computational power, and the integration of [alternative data](../a/alternative_data.md) sources. As these technologies evolve, autarkic systems [will](../w/will.md) become more [robust](../r/robust.md), versatile, and capable of navigating increasingly complex [market](../m/market.md) landscapes.
+The future of autarkic [algorithmic trading](../a/accountability.md) lies in the continuous advancement of [machine learning](../m/machine_learning.md) techniques, enhanced computational power, and the integration of [alternative data](../a/alternative_data.md) sources. As these technologies evolve, autarkic systems [will](../w/will.md) become more [robust](../r/robust.md), versatile, and capable of navigating increasingly complex [market](../m/market.md) landscapes.
 
 ### Quantum Computing
 

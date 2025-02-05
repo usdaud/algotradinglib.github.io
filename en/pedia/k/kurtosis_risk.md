@@ -71,7 +71,7 @@ Adopting a dynamic approach to [risk management](../r/risk_management.md) by con
 
 ### Advanced Analytical Tools
 
-Leveraging advanced analytical tools that incorporate [kurtosis](../k/kurtosis.md) and other higher moments can enhance the robustness of algorithms. Tools such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can adjust more dynamically to changing [market](../m/market.md) conditions.
+Leveraging advanced analytical tools that incorporate [kurtosis](../k/kurtosis.md) and other higher moments can enhance the robustness of algorithms. Tools such as [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can adjust more dynamically to changing [market](../m/market.md) conditions.
 
 ## Conclusion
 

@@ -33,7 +33,7 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), one of the 
   - **Triangles**: Includes ascending, descending, and symmetrical, each indicating a potential [breakout](../b/breakout.md) in a particular direction.
 
 ### 1.3 Statistical and Machine Learning Models
-Advanced [trading strategies](../t/trading_strategies.md) may utilize statistical models and machine learning to generate entry signals based on the statistical properties of price movements.
+Advanced [trading strategies](../t/trading_strategies.md) may utilize statistical models and [machine learning](../m/machine_learning.md) to generate entry signals based on the statistical properties of price movements.
 
 - **[Mean Reversion](../m/mean_reversion.md)**: Assumes that the price [will](../w/will.md) revert to its mean or average level over time.
   
@@ -87,7 +87,7 @@ Effective entry signal generation is incomplete without [robust](../r/robust.md)
 - **[Trailing Stop](../t/trailing_stop.md) Loss**: Moves with the [market price](../m/market_price.md) to [lock in profits](../l/lock_in_profits.md) while limiting losses.
 
 ## 5. Conclusion
-Entry signal generation is a complex yet vital aspect of [algorithmic trading](../a/algorithmic_trading.md), involving a mix of [technical analysis](../t/technical_analysis.md), statistical methods, machine learning, and [risk management](../r/risk_management.md) techniques. By meticulously combining these elements and rigorously testing them, traders can develop [robust](../r/robust.md) strategies to navigate the [financial markets](../f/financial_market.md) efficiently.
+Entry signal generation is a complex yet vital aspect of [algorithmic trading](../a/algorithmic_trading.md), involving a mix of [technical analysis](../t/technical_analysis.md), statistical methods, [machine learning](../m/machine_learning.md), and [risk management](../r/risk_management.md) techniques. By meticulously combining these elements and rigorously testing them, traders can develop [robust](../r/robust.md) strategies to navigate the [financial markets](../f/financial_market.md) efficiently.
 
 For further reading and practical application, refer to domain-specific resources such as the following companies:
 - [QuantConnect](../q/quantconnect.md) [link](https://www.quantconnect.com)

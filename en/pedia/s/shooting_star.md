@@ -52,7 +52,7 @@ Historically, [candlestick patterns](../c/candlestick_patterns.md), including th
 
 In algo-trading, recognizing the Shooting Star through automated systems involves:
 - **[Pattern Recognition](../p/pattern_recognition.md) Algorithms:** These algorithms scan historical price data to identify patterns meeting the specific criteria (e.g., body size, shadow length).
-- **Machine Learning:** Incorporating machine learning models helps improve [pattern recognition](../p/pattern_recognition.md) accuracy and adapt to evolving [market dynamics](../m/market_dynamics.md).
+- **[Machine Learning](../m/machine_learning.md):** Incorporating [machine learning](../m/machine_learning.md) models helps improve [pattern recognition](../p/pattern_recognition.md) accuracy and adapt to evolving [market dynamics](../m/market_dynamics.md).
 - **[Backtesting](../b/backtesting.md):** Testing strategies against historical data to validate effectiveness and optimize parameters.
 
 ## Tools and Resources

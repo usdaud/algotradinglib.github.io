@@ -88,7 +88,7 @@ Implementing [financial literacy](../f/financial_literacy.md) programs can incre
 
 ### Technological Upgrades
 
-As mentioned, technological advancements are essential. Utilizing [blockchain](../b/blockchain_in_trading.md), AI, and Machine Learning can revolutionize trading practices, [offering](../o/offering.md) enhanced [security](../s/security.md), [efficiency](../e/efficiency.md), and reliability.
+As mentioned, technological advancements are essential. Utilizing [blockchain](../b/blockchain_in_trading.md), AI, and [Machine Learning](../m/machine_learning.md) can revolutionize trading practices, [offering](../o/offering.md) enhanced [security](../s/security.md), [efficiency](../e/efficiency.md), and reliability.
 
 ## Key Metrics and Data
 

@@ -78,7 +78,7 @@ The [Heston model](../h/heston_model.md) is another sophisticated approach that 
 
 ### Machine Learning Techniques
 
-Recent advancements in machine learning have led to the development of models that can capture the complexities of the [volatility](../v/volatility.md) surface. Techniques like [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md) are being used to fit and predict the [volatility](../v/volatility.md) surface more accurately.
+Recent advancements in [machine learning](../m/machine_learning.md) have led to the development of models that can capture the complexities of the [volatility](../v/volatility.md) surface. Techniques like [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md) are being used to fit and predict the [volatility](../v/volatility.md) surface more accurately.
 
 ## Real-World Examples and Companies
 

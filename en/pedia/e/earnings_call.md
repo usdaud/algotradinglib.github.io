@@ -44,7 +44,7 @@ The information revealed during an [earnings](../e/earnings.md) call can lead to
    - Goldman Sachs is renowned for its advanced [algorithmic trading](../a/accountability.md) systems, which are likely utilized during [earnings](../e/earnings.md) calls to [capitalize](../c/capitalize.md) on real-time data.
    
 2. **Two Sigma**: [Two Sigma](https://www.twosigma.com)
-   - Two Sigma is a quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that extensively uses machine learning and [data science](../d/data_science_in_trading.md), including during [earnings](../e/earnings.md) calls.
+   - Two Sigma is a quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that extensively uses [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md), including during [earnings](../e/earnings.md) calls.
 
 3. **Renaissance Technologies**: [Renaissance Technologies](https://www.rentec.com)
    - Renaissance Technologies employs sophisticated algorithms, likely leveraging [earnings](../e/earnings.md) call data to optimize [trading strategies](../t/trading_strategies.md).
@@ -99,7 +99,7 @@ This involves examining the stock price reaction to [earnings](../e/earnings.md)
 
 ### Machine Learning Models
 
-Advanced machine learning models can be trained on historical [earnings](../e/earnings.md) call data to predict [market](../m/market.md) reactions to new [earnings](../e/earnings.md) reports. Features may include textual data from the call, financial metrics, and even non-verbal cues like management's voice tone and pitch.
+Advanced [machine learning](../m/machine_learning.md) models can be trained on historical [earnings](../e/earnings.md) call data to predict [market](../m/market.md) reactions to new [earnings](../e/earnings.md) reports. Features may include textual data from the call, financial metrics, and even non-verbal cues like management's voice tone and pitch.
 
 ## Tools and Platforms for Parsing Earnings Calls
 
@@ -121,4 +121,4 @@ AlphaSense uses AI to search, track, and analyze data from [earnings](../e/earni
 
 ## Conclusion
 
-[Earnings](../e/earnings.md) calls are a cornerstone event for public companies, [offering](../o/offering.md) a [wealth](../w/wealth.md) of information that can significantly impact their stock prices. For algorithmic traders, these calls present [lucrative](../l/lucrative.md) opportunities. By leveraging real-time data parsing, [sentiment analysis](../s/sentiment_analysis.md), and machine learning models, traders can make swift, informed decisions. Companies like Goldman Sachs, Two Sigma, and Renaissance Technologies exemplify the use of advanced algorithms to [capitalize](../c/capitalize.md) on the data released during these crucial events. As technology continues to evolve, the integration of more sophisticated tools and techniques [will](../w/will.md) only enhance the ability to analyze and react to [earnings](../e/earnings.md) calls, making them a critical focus for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
+[Earnings](../e/earnings.md) calls are a cornerstone event for public companies, [offering](../o/offering.md) a [wealth](../w/wealth.md) of information that can significantly impact their stock prices. For algorithmic traders, these calls present [lucrative](../l/lucrative.md) opportunities. By leveraging real-time data parsing, [sentiment analysis](../s/sentiment_analysis.md), and [machine learning](../m/machine_learning.md) models, traders can make swift, informed decisions. Companies like Goldman Sachs, Two Sigma, and Renaissance Technologies exemplify the use of advanced algorithms to [capitalize](../c/capitalize.md) on the data released during these crucial events. As technology continues to evolve, the integration of more sophisticated tools and techniques [will](../w/will.md) only enhance the ability to analyze and react to [earnings](../e/earnings.md) calls, making them a critical focus for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).

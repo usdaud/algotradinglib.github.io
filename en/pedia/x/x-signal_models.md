@@ -1,6 +1,6 @@
 # X-Signal Models
 
-X-Signal Models represent advanced quantitative methods used in [algorithmic trading](../a/algorithmic_trading.md) to generate predictive signals based on complex [data analytics](../d/data_analytics.md). These models use machine learning techniques, statistical methods, and high-performance computing to detect patterns and trends in massive datasets, effectively capturing the [market](../m/market.md)'s intricacies to identify profitable trading opportunities. 
+X-Signal Models represent advanced quantitative methods used in [algorithmic trading](../a/algorithmic_trading.md) to generate predictive signals based on complex [data analytics](../d/data_analytics.md). These models use [machine learning](../m/machine_learning.md) techniques, statistical methods, and high-performance computing to detect patterns and trends in massive datasets, effectively capturing the [market](../m/market.md)'s intricacies to identify profitable trading opportunities. 
 
 #### 1. Introduction to X-Signal Models
 [Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, refers to the use of computer algorithms to automate the trading process. X-Signal Models are one of the most sophisticated tools in this domain, leveraging interdisciplinary approaches from computer science, mathematics, and [finance](../f/finance.md).
@@ -25,11 +25,11 @@ X-Signal Models can be broadly categorized into several types:
 - **High-Frequency Trading (HFT) Models**: Designed to execute a large number of orders at very high speeds, these models take advantage of minute price discrepancies.
 
 #### 4. Machine Learning in X-Signal Models
-X-Signal Models heavily incorporate machine learning techniques to improve predictive accuracy:
+X-Signal Models heavily incorporate [machine learning](../m/machine_learning.md) techniques to improve predictive accuracy:
 
-- **Supervised Learning**: Models are trained on labeled historical data. Examples include regression models and [neural networks](../n/neural_networks_in_trading.md).
-- **Unsupervised Learning**: Used for identifying hidden patterns in data without pre-labeled outcomes, such as [clustering algorithms](../c/clustering_algorithms.md).
-- **Reinforcement Learning**: Algorithms learn optimal strategies through interaction with the [market](../m/market.md) environment, continually improving from both successes and failures.
+- **[Supervised Learning](../s/supervised_learning.md)**: Models are trained on labeled historical data. Examples include regression models and [neural networks](../n/neural_networks_in_trading.md).
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Used for identifying hidden patterns in data without pre-labeled outcomes, such as [clustering algorithms](../c/clustering_algorithms.md).
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Algorithms learn optimal strategies through interaction with the [market](../m/market.md) environment, continually improving from both successes and failures.
 - **[Deep Learning](../d/deep_learning.md)**: Involves using multi-layered [neural networks](../n/neural_networks_in_trading.md) to detect complex patterns, particularly useful in analyzing vast datasets like [tick](../t/tick.md)-by-[tick](../t/tick.md) [market](../m/market.md) data.
 
 #### 5. Implementation Challenges
@@ -44,7 +44,7 @@ Developing and deploying X-Signal Models come with several challenges:
 Several companies and financial institutions have successfully implemented X-Signal Models in their [trading strategies](../t/trading_strategies.md):
 
 - **AQR [Capital](../c/capital.md) Management**: Known for its quantitative approach, AQR utilizes advanced models to drive its trading decisions. [More about AQR](https://www.aqrcapital.com/)
-- **Two Sigma**: Another leader in [quantitative trading](../q/quantitative_trading.md), Two Sigma employs machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to inform its [trading strategies](../t/trading_strategies.md). [More about Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: Another leader in [quantitative trading](../q/quantitative_trading.md), Two Sigma employs [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to inform its [trading strategies](../t/trading_strategies.md). [More about Two Sigma](https://www.twosigma.com/)
 - **Man AHL**: Part of the Man Group, Man AHL uses [systematic trading](../s/systematic_trading.md) strategies, incorporating complex statistical models and algorithms. [More about Man AHL](https://www.man.com/ahl)
 - **Jane Street**: Known for its [quantitative trading](../q/quantitative_trading.md) and [market](../m/market.md)-making activities, Jane Street uses sophisticated models to operate in highly [liquid](../l/liquid.md) markets. [More about Jane Street](https://www.janestreet.com/)
 
@@ -59,4 +59,4 @@ The future of X-Signal Models looks promising with several emerging trends:
 #### 8. Conclusion
 X-Signal Models are at the forefront of innovation in [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) sophisticated tools to analyze and predict [financial markets](../f/financial_market.md). As technologies evolve, these models are likely to become even more integral to [trading strategies](../t/trading_strategies.md), pushing the boundaries of what is possible in [quantitative finance](../q/quantitative_finance.md).
 
-By leveraging advancements in machine learning and [big data](../b/big_data_in_trading.md), and overcoming the inherent challenges, X-Signal Models can significantly enhance the efficacy and [efficiency](../e/efficiency.md) of [trading systems](../t/trading_systems.md).
+By leveraging advancements in [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md), and overcoming the inherent challenges, X-Signal Models can significantly enhance the efficacy and [efficiency](../e/efficiency.md) of [trading systems](../t/trading_systems.md).

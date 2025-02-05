@@ -1,6 +1,6 @@
 # X-Input Variables
 
-[Algorithmic trading](../a/algorithmic_trading.md) has become a dominant force in [financial markets](../f/financial_market.md), driven by the use of automated systems to execute trades at speeds and frequencies beyond human capabilities. Central to the design and performance of these systems are X-Input variables, also known as features or predictors, which feed into the machine learning models or [trading algorithms](../t/trading_algorithms.md) to make informed decisions. These variables play a crucial role in determining the success of an [algorithmic trading](../a/algorithmic_trading.md) strategy. Below is an extensive exploration of X-Input variables, their importance, types, and examples of how they are used in practice.
+[Algorithmic trading](../a/algorithmic_trading.md) has become a dominant force in [financial markets](../f/financial_market.md), driven by the use of automated systems to execute trades at speeds and frequencies beyond human capabilities. Central to the design and performance of these systems are X-Input variables, also known as features or predictors, which feed into the [machine learning](../m/machine_learning.md) models or [trading algorithms](../t/trading_algorithms.md) to make informed decisions. These variables play a crucial role in determining the success of an [algorithmic trading](../a/algorithmic_trading.md) strategy. Below is an extensive exploration of X-Input variables, their importance, types, and examples of how they are used in practice.
 
 ## Importance of X-Input Variables
 
@@ -123,7 +123,7 @@ Refinitiv, formerly known as Thomson [Reuters](../r/reuters.md) Financial & [Ris
 
 ### 4. Sentifi [Sentifi](https://sentifi.com/)
 
-Sentifi provides sentiment data from news, blogs, and [social media](../s/social_media.md), using advanced AI and machine learning techniques to deliver actionable insights.
+Sentifi provides sentiment data from news, blogs, and [social media](../s/social_media.md), using advanced AI and [machine learning](../m/machine_learning.md) techniques to deliver actionable insights.
 
 ### 5. S&P Global Market Intelligence [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/)
 

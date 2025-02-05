@@ -76,7 +76,7 @@ The Zeta Model provides a static snapshot of a company's [financial health](../f
 
 ## Recent Developments
 
-In recent years, there have been efforts to enhance the Zeta Model by incorporating machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) techniques. These methods aim to improve the model's predictive accuracy by analyzing larger datasets, including [non-financial indicators](../n/non-financial_indicators.md), and continuously updating the model parameters based on new information. However, these advanced models still rely on the foundational principles established by Altman’s original [Z-Score](../z/z-score.md) Model.
+In recent years, there have been efforts to enhance the Zeta Model by incorporating [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) techniques. These methods aim to improve the model's predictive accuracy by analyzing larger datasets, including [non-financial indicators](../n/non-financial_indicators.md), and continuously updating the model parameters based on new information. However, these advanced models still rely on the foundational principles established by Altman’s original [Z-Score](../z/z-score.md) Model.
 
 ## Conclusion
 

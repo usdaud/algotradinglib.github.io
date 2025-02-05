@@ -9,7 +9,7 @@ Trading signal filters are algorithms or techniques used to clean and refine raw
 ### Types of Trading Signal Filters
 
 1. **Statistical Filters:** These filters use statistical methods to process [trading signals](../t/trading_signals.md). They include moving averages, [standard deviation](../s/standard_deviation.md) filters, [z-score](../z/z-score.md) filters, and more.
-2. **Machine Learning Filters:** Machine learning models, such as [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md), are used to refine [trading signals](../t/trading_signals.md). They can identify patterns that are not apparent through traditional statistical methods.
+2. **[Machine Learning](../m/machine_learning.md) Filters:** [Machine learning](../m/machine_learning.md) models, such as [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md), are used to refine [trading signals](../t/trading_signals.md). They can identify patterns that are not apparent through traditional statistical methods.
 3. **[Technical Indicator Filters](../t/technical_indicator_filters.md):** Common [technical indicators](../t/technical_indicators.md) like RSI, MACD, and [Bollinger Bands](../b/bollinger_bands.md) can act as filters to validate or invalidate [trading signals](../t/trading_signals.md).
 4. **[Volume](../v/volume.md) Filters:** [Trade](../t/trade.md) signals are filtered based on trading [volume](../v/volume.md) to ensure actions are taken only when there is sufficient [market](../m/market.md) activity.
 5. **Time Filters:** Signals are filtered based on specific time frames or trading sessions to align with [market](../m/market.md) conditions and [trading strategies](../t/trading_strategies.md).
@@ -58,7 +58,7 @@ def z_score(prices, window):
 
 ### Machine Learning Filters
 
-Machine Learning (ML) filters are increasingly being adopted to enhance [trading signals](../t/trading_signals.md). They can [handle](../h/handle.md) large datasets and identify complex patterns. 
+[Machine Learning](../m/machine_learning.md) (ML) filters are increasingly being adopted to enhance [trading signals](../t/trading_signals.md). They can [handle](../h/handle.md) large datasets and identify complex patterns. 
 
 #### Decision Trees and Random Forests
 
@@ -87,8 +87,8 @@ predictions = model.predict(X_test)
 [Neural networks](../n/neural_networks_in_trading.md), specifically [deep learning](../d/deep_learning.md) models, can capture nonlinear relationships in the data, making them suitable for complex trading environments.
 
 ```python
-from keras.models [import](../i/import.md) Sequential
-from keras.layers [import](../i/import.md) Dense
+from [keras](../k/keras.md).models [import](../i/import.md) Sequential
+from [keras](../k/keras.md).layers [import](../i/import.md) Dense
 
 model = Sequential()
 model.add(Dense(64, input_dim=input_dim, activation='relu'))
@@ -172,7 +172,7 @@ def time_filter(df, start_time, end_time):
 
 ### Conclusion
 
-Trading Signal Filters are indispensable in the field of [algorithmic trading](../a/algorithmic_trading.md). They serve to refine raw [trading signals](../t/trading_signals.md), reduce [noise](../n/noise.md), and ultimately improve the accuracy and performance of [trading strategies](../t/trading_strategies.md). By leveraging statistical methods, machine learning models, [technical indicators](../t/technical_indicators.md), [volume](../v/volume.md), and time filters, traders can enhance their ability to profitably navigate the [financial markets](../f/financial_market.md).
+Trading Signal Filters are indispensable in the field of [algorithmic trading](../a/algorithmic_trading.md). They serve to refine raw [trading signals](../t/trading_signals.md), reduce [noise](../n/noise.md), and ultimately improve the accuracy and performance of [trading strategies](../t/trading_strategies.md). By leveraging statistical methods, [machine learning](../m/machine_learning.md) models, [technical indicators](../t/technical_indicators.md), [volume](../v/volume.md), and time filters, traders can enhance their ability to profitably navigate the [financial markets](../f/financial_market.md).
 
 For further reading and to explore trading solutions, you can visit [QuantConnect](https://www.quantconnect.com/), a platform that provides [algorithmic trading](../a/algorithmic_trading.md) tools and resources.
 

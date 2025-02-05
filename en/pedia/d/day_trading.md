@@ -72,7 +72,7 @@ Algorithmic day trading involves using computer algorithms to automate trading d
 High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_trading.md) involving thousands of trades per second, taking advantage of small price changes. HFT firms require cutting-edge technology and [infrastructure](../i/infrastructure.md) to be successful in this space.
 
 ### 2. Machine Learning & Artificial Intelligence
-Machine learning and AI can analyze vast amounts of data to identify patterns that might not be immediately obvious to human traders. Techniques like [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) can analyze news articles and [social media](../s/social_media.md) to predict [market](../m/market.md) trends.
+[Machine learning](../m/machine_learning.md) and AI can analyze vast amounts of data to identify patterns that might not be immediately obvious to human traders. Techniques like [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) can analyze news articles and [social media](../s/social_media.md) to predict [market](../m/market.md) trends.
 
 ### Prominent Companies and Platforms in Algorithmic Day Trading
 

@@ -57,7 +57,7 @@ Automation and Robotics in operations management involve using control systems a
 Incorporating IoT technology allows for real-time tracking of production processes, remote monitoring and control, and predictive maintenance.
 
 ### 4. Advanced Analytics and Data Science
-[Data analytics](../d/data_analytics.md) and [data science](../d/data_science_in_trading.md) contribute to better decision-making by extracting insights from large volumes of data. Techniques such as machine learning and AI [offer](../o/offer.md) predictive capabilities and more refined operational strategies.
+[Data analytics](../d/data_analytics.md) and [data science](../d/data_science_in_trading.md) contribute to better decision-making by extracting insights from large volumes of data. Techniques such as [machine learning](../m/machine_learning.md) and AI [offer](../o/offer.md) predictive capabilities and more refined operational strategies.
 
 ### 5. Blockchain
 [Blockchain](../b/blockchain_in_trading.md) technology can provide secure, transparent, and tamper-proof records for operations management, enhancing [supply chain](../s/supply_chain.md) [transparency](../t/transparency.md) and reducing [fraud](../f/fraud.md) and errors.

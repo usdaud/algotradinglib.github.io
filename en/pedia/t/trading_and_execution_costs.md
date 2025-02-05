@@ -68,7 +68,7 @@ TCA involves [analyzing trading costs](../a/analyzing_trading_costs.md) to ident
 
 ## The Role of Technology
 
-Advancements in technology have played a pivotal role in understanding and managing trading and [execution](../e/execution.md) costs. High-frequency trading, machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) are some of the technologies that have revolutionized the way [trading costs](../t/trading_costs.md) are approached.
+Advancements in technology have played a pivotal role in understanding and managing trading and [execution](../e/execution.md) costs. High-frequency trading, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) are some of the technologies that have revolutionized the way [trading costs](../t/trading_costs.md) are approached.
 
 ### 1. High-Frequency Trading (HFT)
 

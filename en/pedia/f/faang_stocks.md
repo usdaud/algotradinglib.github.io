@@ -116,7 +116,7 @@ Several [algorithmic trading strategies](../a/algorithmic_trading_strategies.md)
 - **[Mean Reversion](../m/mean_reversion.md)**: Exploiting the tendency of FAANG [stocks](../s/stock.md) to revert to their mean prices
 - **[Momentum Trading](../m/momentum_trading.md)**: Capitalizing on the continued upward or downward trends in these [stocks](../s/stock.md)
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Pair [trading strategies](../t/trading_strategies.md) based on statistical correlations between FAANG [stocks](../s/stock.md)
-- **Machine Learning Models**: Using historical data to predict future price movements through [neural networks](../n/neural_networks_in_trading.md) and other AI techniques
+- **[Machine Learning](../m/machine_learning.md) Models**: Using historical data to predict future price movements through [neural networks](../n/neural_networks_in_trading.md) and other AI techniques
 
 ### Data and Tools
 Algorithmic traders utilize an array of data sources and tools to [trade](../t/trade.md) FAANG [stocks](../s/stock.md) effectively:

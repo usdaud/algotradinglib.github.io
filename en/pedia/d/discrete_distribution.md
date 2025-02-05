@@ -124,7 +124,7 @@ Bayesian methods allow updating the probability of a hypothesis as more evidence
 
 ### 4. **Machine Learning Integration**
 
-Discrete distributions are integrated with machine learning models to enhance predictive performance. [Classification algorithms](../c/classification_algorithms.md), for example, may utilize these distributions to forecast [trade](../t/trade.md) outcomes or [market dynamics](../m/market_dynamics.md).
+Discrete distributions are integrated with [machine learning](../m/machine_learning.md) models to enhance predictive performance. [Classification algorithms](../c/classification_algorithms.md), for example, may utilize these distributions to forecast [trade](../t/trade.md) outcomes or [market dynamics](../m/market_dynamics.md).
 
 ## Conclusion
 

@@ -73,7 +73,7 @@ Numerous regulatory bodies across the globe oversee and regulate trading practic
 Given the speed and complexity of [algorithmic trading](../a/accountability.md), technical solutions are essential for detecting collusion:
 
 - **[Market](../m/market.md) Surveillance Systems**: Advanced [software platforms](../s/software_platforms_for_trading.md) can analyze trading patterns in real-time, identifying anomalies indicative of collusion.
-- **Machine Learning and AI**: Algorithms can use machine learning models to detect suspicious trading activities by identifying patterns that defy typical [market](../m/market.md) behavior.
+- **[Machine Learning](../m/machine_learning.md) and AI**: Algorithms can use [machine learning](../m/machine_learning.md) models to detect suspicious trading activities by identifying patterns that defy typical [market](../m/market.md) behavior.
   
 ## Ethical Considerations
 

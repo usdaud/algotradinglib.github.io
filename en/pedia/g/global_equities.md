@@ -65,7 +65,7 @@ Several indices track the performance of global equities, [offering](../o/offeri
 
 ## Future Trends in Global Equities and Algorithmic Trading
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: Increased application of AI and machine learning for [predictive analytics](../p/predictive_analytics.md), [trade](../t/trade.md) [execution](../e/execution.md), and [risk management](../r/risk_management.md).
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: Increased application of AI and [machine learning](../m/machine_learning.md) for [predictive analytics](../p/predictive_analytics.md), [trade](../t/trade.md) [execution](../e/execution.md), and [risk management](../r/risk_management.md).
 2. **[Big Data](../b/big_data_in_trading.md)**: Leveraging vast datasets for more sophisticated insights and enhanced decision-making.
 3. **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potential to revolutionize algo trading with faster computations and complex problem-solving capabilities.
 4. **[RegTech](../r/regtech.md)**: Development of technologies to ensure compliance with evolving regulations smoothly and efficiently.

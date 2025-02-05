@@ -65,7 +65,7 @@ Renaissance Technologies, founded by Jim Simons, is famous for its Medallion [Fu
 - The Medallion [Fund](../f/fund.md) employs sophisticated mathematical and statistical models to identify trading opportunities, often achieving annual returns vastly superior to its [benchmark](../b/benchmark.md) indices.
 
 #### **Two Sigma**:
-Two Sigma Investments utilizes [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and distributed computing for trading and [investment management](../i/investment_management.md).
+Two Sigma Investments utilizes [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing for trading and [investment management](../i/investment_management.md).
 - More information: [Two Sigma](https://www.twosigma.com/)
 - The [firm](../f/firm.md)’s data-driven approach has enabled it to [outperform](../o/outperform.md) traditional investment benchmarks by leveraging innovative, algorithmic strategies.
 
@@ -89,7 +89,7 @@ For individual and institutional investors, striving for outperformance relative
 
 - **Strategy Analysis**: Continual assessment and [optimization](../o/optimization.md) of [trading strategies](../t/trading_strategies.md) are essential to adapt to changing [market](../m/market.md) conditions.
 - **[Diversification](../d/diversification.md)**: Having a mix of strategies and [asset](../a/asset.md) classes can reduce [risk](../r/risk.md) and improve the chances of achieving sustained outperformance.
-- **Technology Investment**: Leveraging advanced technologies including AI, machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) can provide a competitive edge.
+- **Technology Investment**: Leveraging advanced technologies including AI, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) can provide a competitive edge.
 
 ### Conclusion
 

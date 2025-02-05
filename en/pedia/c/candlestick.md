@@ -46,7 +46,7 @@ The complexity of [candlestick patterns](../c/candlestick_patterns.md) can vary 
 ### Practical Application in Algorithmic Trading
 In [algorithmic trading](../a/accountability.md), [candlestick patterns](../c/candlestick_patterns.md) are often used to create [trading signals](../t/trading_signals.md) based on historical data. Algorithms can be designed to recognize specific candlestick formations and execute trades accordingly. 
 
-- **[Pattern Recognition](../p/pattern_recognition.md)**: Algorithms can be trained using machine learning techniques to identify specific [candlestick patterns](../c/candlestick_patterns.md) and predict future price movements.
+- **[Pattern Recognition](../p/pattern_recognition.md)**: Algorithms can be trained using [machine learning](../m/machine_learning.md) techniques to identify specific [candlestick patterns](../c/candlestick_patterns.md) and predict future price movements.
 
 - **[Backtesting](../b/backtesting.md) Strategies**: Traders can backtest candlestick-based strategies on historical data to evaluate their efficacy and refine their algorithms for better performance.
 

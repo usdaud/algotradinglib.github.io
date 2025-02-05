@@ -76,6 +76,6 @@ While the [value](../v/value.md)-[momentum](../m/momentum.md) combination offers
 3. **[Diversification](../d/diversification.md):** Ensure the portfolio is diversified across sectors and [asset](../a/asset.md) classes.
 
 ## Future Trends
-The [value](../v/value.md)-[momentum](../m/momentum.md) combination strategy is likely to evolve with advancements in technology and [data analytics](../d/data_analytics.md). Machine learning and AI could further enhance the identification of [value](../v/value.md) and [momentum](../m/momentum.md) opportunities, leading to more refined and effective strategies.
+The [value](../v/value.md)-[momentum](../m/momentum.md) combination strategy is likely to evolve with advancements in technology and [data analytics](../d/data_analytics.md). [Machine learning](../m/machine_learning.md) and AI could further enhance the identification of [value](../v/value.md) and [momentum](../m/momentum.md) opportunities, leading to more refined and effective strategies.
 
 In conclusion, the [Value](../v/value.md)-[Momentum](../m/momentum.md) Combination strategy offers a compelling approach for traders and investors looking to enhance their returns. By combining the foundational strengths of [value investing](../v/value_investing.md) with the tactical advantages of [momentum trading](../m/momentum_trading.md), investors can potentially achieve superior [risk](../r/risk.md)-adjusted performance.

@@ -91,7 +91,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves using statistical models to 
 
 ### Machine Learning Models
 
-Advanced machine learning models, including [deep learning](../d/deep_learning.md) and reinforcement learning, are increasingly applied to [order book](../o/order_book.md) analysis. These models can identify complex patterns and predict future price movements more accurately than traditional methods.
+Advanced [machine learning](../m/machine_learning.md) models, including [deep learning](../d/deep_learning.md) and [reinforcement learning](../r/reinforcement_learning.md), are increasingly applied to [order book](../o/order_book.md) analysis. These models can identify complex patterns and predict future price movements more accurately than traditional methods.
 
 ## Advanced Techniques
 

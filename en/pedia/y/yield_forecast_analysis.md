@@ -16,7 +16,7 @@
 2. **Statistical Methods and Models**
     - **[Time Series Analysis](../t/time_series_analysis.md):** Techniques like ARIMA (AutoRegressive Integrated Moving Average) models are employed to analyze time-dependent data.
     - **[Factor Models](../f/factor_models.md):** Multi-[factor models](../f/factor_models.md) (e.g., Fama-French three-[factor](../f/factor.md) model) evaluate the impact of various economic factors on returns.
-    - **Machine Learning Models:** More recently, machine learning models such as [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, and [Neural Networks](../n/neural_networks_in_trading.md) have been employed for [yield forecasting](../y/yield_forecasting.md).
+    - **[Machine Learning](../m/machine_learning.md) Models:** More recently, [machine learning](../m/machine_learning.md) models such as [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, and [Neural Networks](../n/neural_networks_in_trading.md) have been employed for [yield forecasting](../y/yield_forecasting.md).
 
 3. **[Risk Management](../r/risk_management.md)**
     - **[Volatility](../v/volatility.md) Assessment:** Measuring the [volatility](../v/volatility.md) of predicted returns is critical for [risk management](../r/risk_management.md).
@@ -46,7 +46,7 @@ This model expands on the [Capital Asset](../c/capital_asset.md) Pricing Model (
 
 ### Machine Learning Models
 
-The use of machine learning in [yield](../y/yield.md) forecast analysis allows for the [incorporation](../i/incorporation.md) of non-linear relationships and complex patterns in the data.
+The use of [machine learning](../m/machine_learning.md) in [yield](../y/yield.md) forecast analysis allows for the [incorporation](../i/incorporation.md) of non-linear relationships and complex patterns in the data.
 
 #### Random Forests and Gradient Boosting Machines
 
@@ -63,7 +63,7 @@ These [ensemble learning](../e/ensemble_learning.md) methods combine the predict
     - **NumPy:** Fundamental for numerical operations.
     - **Scikit-learn:** Provides [robust](../r/robust.md) implementations of classical machine [learning algorithms](../l/learning_algorithms_in_trading.md).
     - **Statsmodels:** Useful for statistical models and [hypothesis testing](../h/hypothesis_testing.md).
-    - **TensorFlow/PyTorch:** Frameworks for building and training [neural networks](../n/neural_networks_in_trading.md).
+    - **[TensorFlow](../t/tensorflow.md)/[PyTorch](../p/pytorch.md):** Frameworks for building and training [neural networks](../n/neural_networks_in_trading.md).
 
 2. **Trading Platforms:**
     - **[QuantConnect](../q/quantconnect.md) [https://www.quantconnect.com/](https://www.quantconnect.com/):** An [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) data, [cloud computing](../c/cloud_computing_in_trading.md), and [backtesting](../b/backtesting.md) capabilities.

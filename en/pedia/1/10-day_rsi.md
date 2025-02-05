@@ -71,7 +71,7 @@ Several platforms and software [offer](../o/offer.md) tools for implementing and
 
 ## Real-World Usage
 
-Major [hedge](../h/hedge.md) funds and trading firms utilize RSI in their algorithmic strategies, although they often combine it with more complex algorithms and machine learning models.
+Major [hedge](../h/hedge.md) funds and trading firms utilize RSI in their algorithmic strategies, although they often combine it with more complex algorithms and [machine learning](../m/machine_learning.md) models.
 
 For example, Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, is known for using sophisticated algorithms that likely combine [multiple](../m/multiple.md) [technical indicators](../t/technical_indicators.md), including RSI. More about Renaissance Technologies can be found [here](https://www.rentec.com/).
 

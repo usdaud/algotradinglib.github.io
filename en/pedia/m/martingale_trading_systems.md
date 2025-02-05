@@ -74,7 +74,7 @@ Effective in [short-term trading](../s/short-term_trading.md) instruments like C
 [Investing](../i/investing.md) across different assets or markets to spread [risk](../r/risk.md) instead of concentrating on a single strategy or [market](../m/market.md).
 
 ### Algorithmic Enhancements
-Incorporating [quantitative models](../q/quantitative_models.md), machine learning, and [backtesting](../b/backtesting.md) to refine entry and exit points, potentially mitigating some risks associated with pure Martingale approaches.
+Incorporating [quantitative models](../q/quantitative_models.md), [machine learning](../m/machine_learning.md), and [backtesting](../b/backtesting.md) to refine entry and exit points, potentially mitigating some risks associated with pure Martingale approaches.
 
 ### Hedging Strategies
 Using [options](../o/options.md), [futures](../f/futures.md), or other [derivative](../d/derivative.md) instruments to [offset](../o/offset.md) potential losses incurred from Martingale trades.

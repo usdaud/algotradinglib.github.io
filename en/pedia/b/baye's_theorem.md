@@ -121,7 +121,7 @@ Bayesian methods often employ Monte Carlo simulations to approximate the posteri
 [QuantConnect](https://www.quantconnect.com/)
 
 ### Numerai
-Numerai is a [hedge fund](../h/hedge_fund.md) that leverages machine learning and crowdsourced signals. They utilize Bayesian methods extensively to combine and weigh different [trading models](../t/trading_models.md) submitted by data scientists worldwide. This approach ensures that the best models have more influence in the trading decisions.
+Numerai is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and crowdsourced signals. They utilize Bayesian methods extensively to combine and weigh different [trading models](../t/trading_models.md) submitted by data scientists worldwide. This approach ensures that the best models have more influence in the trading decisions.
 [Numerai](https://numer.ai/)
 
 ### Quantitative Research at Leading Firms
@@ -139,7 +139,7 @@ The effectiveness of Bayesian methods largely depends on the quality of the data
 There is a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) when using complex Bayesian models. It's crucial to ensure that the models are [robust](../r/robust.md) and generalizable to avoid poor performance on unseen data.
 
 ### Integration with Other Models
-Bayesian methods should ideally be integrated with other statistical and machine learning models to build hybrid systems that can take advantage of the strengths of different approaches. This integration requires careful design and testing to ensure consistency and effectiveness.
+Bayesian methods should ideally be integrated with other statistical and [machine learning](../m/machine_learning.md) models to build hybrid systems that can take advantage of the strengths of different approaches. This integration requires careful design and testing to ensure consistency and effectiveness.
 
 ## Conclusion
 

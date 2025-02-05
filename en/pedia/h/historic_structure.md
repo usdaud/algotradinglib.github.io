@@ -44,7 +44,7 @@ Incidents like the 2010 Flash Crash, where the [market](../m/market.md) dropped 
 
 ### The Role of Machine Learning
 
-The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) has revolutionized [algorithmic trading](../a/accountability.md) in the 2010s and beyond. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can analyze vast amounts of data more quickly and accurately, recognizing patterns that humans might miss. Companies like Two Sigma and Citadel have been at the forefront of incorporating AI into their [trading strategies](../t/trading_strategies.md).
+The integration of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) has revolutionized [algorithmic trading](../a/accountability.md) in the 2010s and beyond. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can analyze vast amounts of data more quickly and accurately, recognizing patterns that humans might miss. Companies like Two Sigma and Citadel have been at the forefront of incorporating AI into their [trading strategies](../t/trading_strategies.md).
 
 ### Blockchain and Cryptocurrency
 
@@ -66,7 +66,7 @@ Founded by Ken Griffin, Citadel LLC is another giant in the algo trading space, 
 
 ### Two Sigma
 
-Two Sigma employs machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and distributed computing to extract signals from large datasets, applying these insights into their [trading strategies](../t/trading_strategies.md). Visit [Two Sigma](https://www.twosigma.com) to learn more about their approach.
+Two Sigma employs [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and distributed computing to extract signals from large datasets, applying these insights into their [trading strategies](../t/trading_strategies.md). Visit [Two Sigma](https://www.twosigma.com) to learn more about their approach.
 
 ## Conclusion
 

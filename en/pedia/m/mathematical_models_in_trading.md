@@ -45,12 +45,12 @@ Statistical [arbitrage](../a/arbitrage.md) is a [trading strategy](../t/trading_
 
 #### 5. Machine Learning and AI in Trading
 
-Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have become integral in developing sophisticated [trading algorithms](../t/trading_algorithms.md). These technologies help in modeling complex patterns in financial data that traditional statistical methods might miss.
+[Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have become integral in developing sophisticated [trading algorithms](../t/trading_algorithms.md). These technologies help in modeling complex patterns in financial data that traditional statistical methods might miss.
 
 ##### Key Approaches:
-- **Supervised Learning**: Involves training algorithms on historical data to predict future outcomes.
-- **Unsupervised Learning**: Used to identify hidden patterns in data without predefined labels or outcomes.
-- **Reinforcement Learning**: Algorithms learn optimal [trading strategies](../t/trading_strategies.md) by receiving feedback from their actions in a [market](../m/market.md) environment.
+- **[Supervised Learning](../s/supervised_learning.md)**: Involves training algorithms on historical data to predict future outcomes.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Used to identify hidden patterns in data without predefined labels or outcomes.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Algorithms learn optimal [trading strategies](../t/trading_strategies.md) by receiving feedback from their actions in a [market](../m/market.md) environment.
 
 #### 6. Portfolio Optimization
 
@@ -104,11 +104,11 @@ Mathematical models are also applied in trading cryptocurrencies and in understa
 ##### Key Aspects:
 - **Cryptographic Algorithms**: Ensure the [security](../s/security.md) and integrity of [blockchain](../b/blockchain_in_trading.md) transactions.
 - **[Blockchain](../b/blockchain_in_trading.md) Consensus Protocols**: Mathematical algorithms (e.g., Proof of Work, Proof of Stake) used to achieve consensus in decentralized networks.
-- **Price Prediction Models**: Use historical data and machine learning to forecast cryptocurrency price movements.
+- **Price Prediction Models**: Use historical data and [machine learning](../m/machine_learning.md) to forecast cryptocurrency price movements.
 
 #### Conclusion
 
-Mathematical models are indispensable tools in modern trading, providing systematic approaches to understanding [market dynamics](../m/market_dynamics.md), optimizing strategies, and managing risks. As technology continues to advance, the integration of new mathematical techniques, machine learning, and AI [will](../w/will.md) likely revolutionize the trading landscape even further.
+Mathematical models are indispensable tools in modern trading, providing systematic approaches to understanding [market dynamics](../m/market_dynamics.md), optimizing strategies, and managing risks. As technology continues to advance, the integration of new mathematical techniques, [machine learning](../m/machine_learning.md), and AI [will](../w/will.md) likely revolutionize the trading landscape even further.
 
 --- 
 

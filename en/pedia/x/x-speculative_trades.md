@@ -22,7 +22,7 @@ Statistical [arbitrage](../a/arbitrage.md), or "stat arb," is a common strategy 
 
 ### 5. Machine Learning and AI
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly vital in X-Speculative Trades. These technologies enable algorithms to learn from [market](../m/market.md) data, adapt to changing [market](../m/market.md) conditions, and improve their performance over time. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [deep learning](../d/deep_learning.md), and reinforcement learning are used to enhance predictive accuracy and trading outcomes.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly vital in X-Speculative Trades. These technologies enable algorithms to learn from [market](../m/market.md) data, adapt to changing [market](../m/market.md) conditions, and improve their performance over time. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [deep learning](../d/deep_learning.md), and [reinforcement learning](../r/reinforcement_learning.md) are used to enhance predictive accuracy and trading outcomes.
 
 ### Implementation and Execution
 
@@ -50,7 +50,7 @@ The technological [infrastructure](../i/infrastructure.md) underpinning X-Specul
 
 ### 1. Two Sigma Investments
 
-[Two Sigma Investments](https://www.twosigma.com/) is a prominent [hedge fund](../h/hedge_fund.md) that utilizes technology, [data science](../d/data_science_in_trading.md), and advanced quantitative methods to manage its portfolio. The [firm](../f/firm.md) is known for its innovative approach to X-Speculative Trades and its use of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
+[Two Sigma Investments](https://www.twosigma.com/) is a prominent [hedge fund](../h/hedge_fund.md) that utilizes technology, [data science](../d/data_science_in_trading.md), and advanced quantitative methods to manage its portfolio. The [firm](../f/firm.md) is known for its innovative approach to X-Speculative Trades and its use of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 ### 2. Renaissance Technologies
 

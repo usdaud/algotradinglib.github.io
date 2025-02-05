@@ -79,10 +79,10 @@ Traders often use statistical tools to analyze [order book](../o/order_book.md) 
 
 ## Machine Learning in Analyzing Order Books
 
-Machine learning techniques are increasingly used to analyze [order book](../o/order_book.md) data:
+[Machine learning](../m/machine_learning.md) techniques are increasingly used to analyze [order book](../o/order_book.md) data:
 
-- **Supervised Learning**: Models are trained on historical [order book](../o/order_book.md) data to predict future price movements. For example, regression models can predict mid-price changes.
-- **Unsupervised Learning**: Clustering techniques can identify common [order book](../o/order_book.md) shapes or configurations that precede certain price movements.
+- **[Supervised Learning](../s/supervised_learning.md)**: Models are trained on historical [order book](../o/order_book.md) data to predict future price movements. For example, regression models can predict mid-price changes.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Clustering techniques can identify common [order book](../o/order_book.md) shapes or configurations that precede certain price movements.
 - **[Deep Learning](../d/deep_learning.md)**: [Neural networks](../n/neural_networks_in_trading.md), particularly RNNs and LSTMs, can capture the [temporal dependencies](../t/temporal_dependencies_in_trading.md) in the sequences of [order book](../o/order_book.md) changes.
 
 ## Challenges and Considerations
@@ -123,6 +123,6 @@ Large institutional traders utilize [order book](../o/order_book.md) data to exe
 
 ## Conclusion
 
-[Order book](../o/order_book.md) dynamics provide invaluable insights into [market](../m/market.md) behavior and are fundamental to [algorithmic trading](../a/algorithmic_trading.md). By analyzing the ebb and flow of buy and sell orders, traders can make informed decisions, optimize [execution](../e/execution.md), and manage [risk](../r/risk.md) effectively. Advanced technologies like machine learning and high-frequency trading continue to evolve, [offering](../o/offering.md) new tools and methods to [leverage](../l/leverage.md) [order book](../o/order_book.md) data for [competitive advantage](../c/competitive_advantage.md) in the rapidly changing landscape of [financial markets](../f/financial_market.md).
+[Order book](../o/order_book.md) dynamics provide invaluable insights into [market](../m/market.md) behavior and are fundamental to [algorithmic trading](../a/algorithmic_trading.md). By analyzing the ebb and flow of buy and sell orders, traders can make informed decisions, optimize [execution](../e/execution.md), and manage [risk](../r/risk.md) effectively. Advanced technologies like [machine learning](../m/machine_learning.md) and high-frequency trading continue to evolve, [offering](../o/offering.md) new tools and methods to [leverage](../l/leverage.md) [order book](../o/order_book.md) data for [competitive advantage](../c/competitive_advantage.md) in the rapidly changing landscape of [financial markets](../f/financial_market.md).
 
 For more information, you can visit [Nasdaq Order Book](https://www.nasdaq.com/solutions/nasdaq-totalview).

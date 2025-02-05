@@ -49,7 +49,7 @@ In the context of trading, especially in [capital markets](../c/capital_markets.
   
 The fintech sector is revolutionizing how [revolving credit](../r/revolving_credit.md) facilities are structured, managed, and issued. Digital platforms are streamlining the application and approval processes, making [credit](../c/credit.md) more accessible to companies and even individuals.
 
-1. **Automated Processes**: Fintech companies employ machine learning and AI to automate the assessment of [creditworthiness](../c/creditworthiness.md), reducing approval times and operational costs.
+1. **Automated Processes**: Fintech companies employ [machine learning](../m/machine_learning.md) and AI to automate the assessment of [creditworthiness](../c/creditworthiness.md), reducing approval times and operational costs.
 2. **[Blockchain](../b/blockchain_in_trading.md)**: [Blockchain](../b/blockchain_in_trading.md) technology is making transactions more transparent and secure, minimizing risks associated with lending.
 3. **Peer-to-Peer (P2P) Lending**: Platforms like Funding Circle (https://www.fundingcircle.com) enable small businesses to access revolving lines of [credit](../c/credit.md) through P2P lending models, broadening their sources of [capital](../c/capital.md).
 

@@ -109,7 +109,7 @@ APIs from social media giants like Twitter can be integrated into [trading algor
 
 ### Machine Learning Models
 
-Advanced machine learning models, like Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNN) and Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNN), are used for analyzing [social media sentiment](../s/social_media_sentiment.md). These models can predict stock price movements by recognizing patterns in large datasets of social media posts.
+Advanced [machine learning](../m/machine_learning.md) models, like Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNN) and Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNN), are used for analyzing [social media sentiment](../s/social_media_sentiment.md). These models can predict stock price movements by recognizing patterns in large datasets of social media posts.
 
 ### Social Trading Platforms
 

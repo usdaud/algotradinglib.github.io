@@ -77,7 +77,7 @@ Understanding real-world applications of [consolidation](../c/consolidation.md) 
 Renaissance Technologies, one of the most successful [quantitative trading](../q/quantitative_trading.md) firms, employs sophisticated algorithms capable of recognizing [consolidation](../c/consolidation.md) patterns and other [technical indicators](../t/technical_indicators.md) to [profit](../p/profit.md) from various markets. For more information, visit their [website](http://www.rentec.com).
 
 ### 2. Two Sigma
-Two Sigma employs advanced [data science](../d/data_science_in_trading.md) and machine learning techniques, including [pattern recognition](../p/pattern_recognition.md), to develop complex [trading strategies](../t/trading_strategies.md) that [leverage](../l/leverage.md) [consolidation](../c/consolidation.md) patterns. More details can be found on their [website](https://www.twosigma.com/).
+Two Sigma employs advanced [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md) techniques, including [pattern recognition](../p/pattern_recognition.md), to develop complex [trading strategies](../t/trading_strategies.md) that [leverage](../l/leverage.md) [consolidation](../c/consolidation.md) patterns. More details can be found on their [website](https://www.twosigma.com/).
 
 ### 3. Citadel Securities
 Citadel Securities utilizes [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) that incorporate technical patterns, including consolidations, to execute trades with high [efficiency](../e/efficiency.md). Learn more on their [website](https://www.citadelsecurities.com/).

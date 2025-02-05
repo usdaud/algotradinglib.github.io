@@ -41,7 +41,7 @@ Several advanced tools and [software platforms](../s/software_platforms_for_trad
 
 #### BlackRock
 
-BlackRock, one of the leading global [investment management](../i/investment_management.md) firms, applies sophisticated [index](../i/index_instrument.md) [correlation analysis](../c/correlation_analysis.md) as part of its [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) strategies. Their Aladdin platform leverages [big data](../b/big_data_in_trading.md) and machine learning to assess correlations and make informed investment decisions.
+BlackRock, one of the leading global [investment management](../i/investment_management.md) firms, applies sophisticated [index](../i/index_instrument.md) [correlation analysis](../c/correlation_analysis.md) as part of its [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) strategies. Their Aladdin platform leverages [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) to assess correlations and make informed investment decisions.
 
 [BlackRock](https://www.blackrock.com/us/individual)
 
@@ -64,7 +64,7 @@ While [index](../i/index_instrument.md) [correlation analysis](../c/correlation_
 
 As technology and [financial markets](../f/financial_market.md) continue to evolve, so too do the methods and applications of [index](../i/index_instrument.md) [correlation analysis](../c/correlation_analysis.md). Future trends may include:
 
-- **Machine Learning and AI**: Leveraging advanced machine learning techniques to capture more complex relationships and predict correlations more accurately.
+- **[Machine Learning](../m/machine_learning.md) and AI**: Leveraging advanced [machine learning](../m/machine_learning.md) techniques to capture more complex relationships and predict correlations more accurately.
 - **[Big Data](../b/big_data_in_trading.md)**: Utilizing vast amounts of data from various sources, including [social media](../s/social_media.md), news, and [alternative data](../a/alternative_data.md), to enhance [correlation analysis](../c/correlation_analysis.md).
 - **Real-time Analytics**: Increasingly, real-time data processing capabilities [will](../w/will.md) allow traders to calculate and respond to correlations instantaneously.
 

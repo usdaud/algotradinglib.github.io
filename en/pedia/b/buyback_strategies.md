@@ -50,7 +50,7 @@ Buybacks are subject to regulatory guidelines and compliance requirements to ens
 The evolution of [algorithmic trading](../a/algorithmic_trading.md) has allowed for the integration of advanced technologies in executing buybacks. These include:
 
 - **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: AI-driven algorithms can predict optimal [buyback](../b/buyback.md) times and volumes based on [market](../m/market.md) conditions and historical data.
-- **Machine Learning**: These models can adapt to new data, refining [buyback](../b/buyback.md) strategies in real-time to enhance [efficiency](../e/efficiency.md) and effectiveness.
+- **[Machine Learning](../m/machine_learning.md)**: These models can adapt to new data, refining [buyback](../b/buyback.md) strategies in real-time to enhance [efficiency](../e/efficiency.md) and effectiveness.
 - **High-Frequency Trading (HFT)**: HFT allows for the [execution](../e/execution.md) of buybacks at extremely high speeds, taking advantage of minute price discrepancies to optimize [execution](../e/execution.md) prices.
 
 #### Future Trends

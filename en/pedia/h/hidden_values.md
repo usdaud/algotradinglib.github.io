@@ -20,7 +20,7 @@ In the age of [big data](../b/big_data_in_trading.md), markets generate enormous
 
 1. **High-Frequency Data**: Analyzing trades, quotes, and [order book](../o/order_book.md) data at millisecond intervals to detect minute but exploitable inefficiencies.
 2. **[Alternative Data](../a/alternative_data.md)**: Using [non-traditional data sources](../n/non-traditional_data_sources.md) like [social media](../s/social_media.md), satellite imagery, and weather reports to [gain](../g/gain.md) insights that are not yet priced into the [market](../m/market.md).
-3. **Machine Learning**: Implementing sophisticated algorithms that can detect non-linear relationships and complex patterns in the data that traditional models may miss.
+3. **[Machine Learning](../m/machine_learning.md)**: Implementing sophisticated algorithms that can detect non-linear relationships and complex patterns in the data that traditional models may miss.
 
 ### Information Asymmetry
 
@@ -46,9 +46,9 @@ Discovering hidden values in algo trading often involves a combination of variou
 
 AI and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are adept at identifying hidden patterns within large datasets:
 
-1. **Supervised Learning**: Training models on labeled data to predict future [asset](../a/asset.md) prices or identify trading opportunities.
-2. **Unsupervised Learning**: Detecting hidden clusters or anomalies in the data, often leading to the discovery of hidden [market](../m/market.md) patterns or trends.
-3. **Reinforcement Learning**: Algorithms learn optimal [trading strategies](../t/trading_strategies.md) by interacting with a virtual [market](../m/market.md) environment, selectively uncovering hidden rewards.
+1. **[Supervised Learning](../s/supervised_learning.md)**: Training models on labeled data to predict future [asset](../a/asset.md) prices or identify trading opportunities.
+2. **[Unsupervised Learning](../u/unsupervised_learning.md)**: Detecting hidden clusters or anomalies in the data, often leading to the discovery of hidden [market](../m/market.md) patterns or trends.
+3. **[Reinforcement Learning](../r/reinforcement_learning.md)**: Algorithms learn optimal [trading strategies](../t/trading_strategies.md) by interacting with a virtual [market](../m/market.md) environment, selectively uncovering hidden rewards.
 
 ### Sentiment Analysis
 
@@ -90,4 +90,4 @@ Models that are too closely fitted to historical data may not generalize well to
 
 ## Conclusion
 
-Hidden values in [algorithmic trading](../a/accountability.md) represent profound opportunities to achieve superior [trading performance](../t/trading_performance.md) by exploiting [market](../m/market.md) inefficiencies, discovering unique data patterns, and leveraging information asymmetry. Advanced techniques such as [quantitative analysis](../q/quantitative_analysis.md), machine learning, and [sentiment analysis](../s/sentiment_analysis.md) play pivotal roles in uncovering these latent opportunities. However, the pursuit of hidden values must be accompanied by rigorous [risk management](../r/risk_management.md), ethical considerations, and adherence to regulatory standards to ensure sustainable and responsible trading practices.
+Hidden values in [algorithmic trading](../a/accountability.md) represent profound opportunities to achieve superior [trading performance](../t/trading_performance.md) by exploiting [market](../m/market.md) inefficiencies, discovering unique data patterns, and leveraging information asymmetry. Advanced techniques such as [quantitative analysis](../q/quantitative_analysis.md), [machine learning](../m/machine_learning.md), and [sentiment analysis](../s/sentiment_analysis.md) play pivotal roles in uncovering these latent opportunities. However, the pursuit of hidden values must be accompanied by rigorous [risk management](../r/risk_management.md), ethical considerations, and adherence to regulatory standards to ensure sustainable and responsible trading practices.

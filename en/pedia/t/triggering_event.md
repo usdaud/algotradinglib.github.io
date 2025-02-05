@@ -71,7 +71,7 @@ Triggering events can be broadly categorized into several types based on their n
 1. **[Quantitative Models](../q/quantitative_models.md)**:
    - Using [mathematical models](../m/mathematical_models_in_trading.md) to predict and respond to [market](../m/market.md) movements triggered by certain events.
 
-2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**:
+2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**:
    - Leveraging AI and ML to enhance prediction accuracy and response times to triggering events.
 
 3. **[Real-Time Data Analysis](../r/real-time_data_analysis.md)**:

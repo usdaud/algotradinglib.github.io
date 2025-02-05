@@ -85,7 +85,7 @@ Several major financial institutions and [asset management](../a/asset_managemen
 
 ### Technological Advancements
 
-Advances in technology, particularly in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, are set to revolutionize the development and management of OPALS. These technologies can enhance the accuracy and [efficiency](../e/efficiency.md) of [optimization](../o/optimization.md) models, leading to more refined and effective OPALS.
+Advances in technology, particularly in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), are set to revolutionize the development and management of OPALS. These technologies can enhance the accuracy and [efficiency](../e/efficiency.md) of [optimization](../o/optimization.md) models, leading to more refined and effective OPALS.
 
 ### Customized OPALS
 

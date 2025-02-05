@@ -60,7 +60,7 @@ A significant sub-sector of algo trading is High-Frequency Trading, where the ve
 ### Algorithms
 
 1. **Statistical [Arbitrage](../a/arbitrage.md)**: Uses statistical methods to determine price discrepancies and execute trades at optimal times.
-2. **Machine Learning Models**: Predict future price movements based on historical data and execute trades with high precision.
+2. **[Machine Learning](../m/machine_learning.md) Models**: Predict future price movements based on historical data and execute trades with high precision.
 
 ### Infrastructure
 

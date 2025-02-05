@@ -36,13 +36,13 @@ High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_tra
 
 ### 5. **Machine Learning and AI**
 
-Recent advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have opened new avenues for [quantitative investing](../q/quantitative_investing.md). Machine learning models can process vast amounts of data and identify patterns that traditional statistical methods might miss. Popular techniques include supervised learning, unsupervised learning, and reinforcement learning.
+Recent advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have opened new avenues for [quantitative investing](../q/quantitative_investing.md). [Machine learning](../m/machine_learning.md) models can process vast amounts of data and identify patterns that traditional statistical methods might miss. Popular techniques include [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md).
 
 ## Key Players in Quantitative Investment Industry
 
 Several firms are renowned for their expertise in quantitative investment strategies. These firms employ teams of quants—professionals with backgrounds in mathematics, [statistics](../s/statistics.md), and computer science. Here are a few prominent companies:
 
-- **Two Sigma Investments** [(Two Sigma Investments)](https://www.twosigma.com) is a New York-based [hedge fund](../h/hedge_fund.md) that specializes in [systematic trading](../s/systematic_trading.md) and employs machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and distributed computing to develop its investment strategies.
+- **Two Sigma Investments** [(Two Sigma Investments)](https://www.twosigma.com) is a New York-based [hedge fund](../h/hedge_fund.md) that specializes in [systematic trading](../s/systematic_trading.md) and employs [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and distributed computing to develop its investment strategies.
 
 - **Renaissance Technologies** [(Renaissance Technologies)](https://www.rentec.com) is another prominent [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md), which is famous for its exceptional returns. The [firm](../f/firm.md) relies heavily on [quantitative models](../q/quantitative_models.md) developed by a team of scientists and engineers.
 
@@ -70,10 +70,10 @@ Several [mathematical models](../m/mathematical_models_in_trading.md) and techni
 
 ### **Machine Learning Techniques**
 
-Machine learning techniques have become increasingly popular in [quantitative investing](../q/quantitative_investing.md). Popular algorithms include:
+[Machine learning](../m/machine_learning.md) techniques have become increasingly popular in [quantitative investing](../q/quantitative_investing.md). Popular algorithms include:
 
 - **Random Forest**: An [ensemble learning](../e/ensemble_learning.md) method that constructs [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md) and merges them to get more accurate and stable predictions.
-- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs)**: Supervised learning models used for classification and [regression analysis](../r/regression_analysis.md).
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs)**: [Supervised learning](../s/supervised_learning.md) models used for classification and [regression analysis](../r/regression_analysis.md).
 - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models that are particularly good at capturing non-linear relationships in data.
 
 ## Risk Management

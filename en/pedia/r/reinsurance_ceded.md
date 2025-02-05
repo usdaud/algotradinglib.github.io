@@ -97,7 +97,7 @@ Parametric [insurance](../i/insurance.md) and [index](../i/index_instrument.md)-
 
 ### Technology and Data Analytics
 
-Advancements in technology and [data analytics](../d/data_analytics.md) are transforming the [reinsurance](../r/reinsurance.md) [industry](../i/industry.md). [Predictive modeling](../p/predictive_modeling.md), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) are enhancing [risk](../r/risk.md) assessment, pricing accuracy, and claims management. Reinsurers and ceding companies are leveraging these tools to optimize their [reinsurance](../r/reinsurance.md) programs and improve overall [risk management](../r/risk_management.md).
+Advancements in technology and [data analytics](../d/data_analytics.md) are transforming the [reinsurance](../r/reinsurance.md) [industry](../i/industry.md). [Predictive modeling](../p/predictive_modeling.md), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) are enhancing [risk](../r/risk.md) assessment, pricing accuracy, and claims management. Reinsurers and ceding companies are leveraging these tools to optimize their [reinsurance](../r/reinsurance.md) programs and improve overall [risk management](../r/risk_management.md).
 
 ## Challenges and Future Outlook
 

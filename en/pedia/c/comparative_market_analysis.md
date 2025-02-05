@@ -46,7 +46,7 @@ Once the data is prepared and features are engineered, various models can be bui
 
 - **[Linear Regression](../l/linear_regression.md)**: To identify relationships between different [market](../m/market.md) variables.
 - **[Time Series Analysis](../t/time_series_analysis.md)**: ARIMA, [GARCH models](../g/garch_models.md) to analyze and forecast price movements.
-- **Machine Learning**: Algorithms like Random Forest, Gradient Boosting, and [Neural Networks](../n/neural_networks_in_trading.md) for complex analyses.
+- **[Machine Learning](../m/machine_learning.md)**: Algorithms like Random Forest, Gradient Boosting, and [Neural Networks](../n/neural_networks_in_trading.md) for complex analyses.
 - **[Classification Algorithms](../c/classification_algorithms.md)**: Used to categorize assets into different [risk](../r/risk.md) or [return](../r/return.md) profiles.
 
 ### Analysis and Reporting

@@ -80,7 +80,7 @@ The recovery from the [dotcom bubble](../d/dotcom_bubble.md) burst saw many tech
 
 ### Machine Learning
 
-Machine learning models can improve the process by identifying complex patterns and relationships that human analysts might overlook. Models like [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md) can help forecast [asset](../a/asset.md) prices and detect undervalued opportunities.
+[Machine learning](../m/machine_learning.md) models can improve the process by identifying complex patterns and relationships that human analysts might overlook. Models like [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md) can help forecast [asset](../a/asset.md) prices and detect undervalued opportunities.
 
 ### Data Analytics Tools
 

@@ -84,7 +84,7 @@ Partial [correlation](../c/correlation.md) is used in the development and valida
 
 #### Machine Learning Integration
 
-In the realm of machine learning, partial [correlation](../c/correlation.md) can be employed to reduce [multicollinearity](../m/multicollinearity_in_trading.md) among features, thus enhancing the performance of [predictive models](../p/predictive_models_in_trading.md). Features with high partial correlations may be redundant and, therefore, one of them can be removed to improve model stability and interpretability.
+In the realm of [machine learning](../m/machine_learning.md), partial [correlation](../c/correlation.md) can be employed to reduce [multicollinearity](../m/multicollinearity_in_trading.md) among features, thus enhancing the performance of [predictive models](../p/predictive_models_in_trading.md). Features with high partial correlations may be redundant and, therefore, one of them can be removed to improve model stability and interpretability.
 
 ### Practical Cases and Examples
 

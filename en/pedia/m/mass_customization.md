@@ -105,7 +105,7 @@ The future of mass customization is likely to be shaped by several emerging tren
 
 ### Artificial Intelligence and Machine Learning
 
-AI and machine learning can enhance mass customization by providing more accurate [customer](../c/customer.md) insights and automating aspects of the customization process. These technologies can analyze vast amounts of data to predict [customer](../c/customer.md) preferences and optimize production processes.
+AI and [machine learning](../m/machine_learning.md) can enhance mass customization by providing more accurate [customer](../c/customer.md) insights and automating aspects of the customization process. These technologies can analyze vast amounts of data to predict [customer](../c/customer.md) preferences and optimize production processes.
 
 ### Internet of Things (IoT)
 

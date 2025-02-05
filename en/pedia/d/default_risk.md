@@ -92,7 +92,7 @@ Algorithms can include [stress testing](../s/stress_testing.md) modules that sim
 
 ### Machine Learning
 
-Machine learning models can analyze vast datasets to predict [default](../d/default.md) probabilities. These predictions can be integrated into [trading algorithms](../t/trading_algorithms.md) to improve the accuracy of assessing [default](../d/default.md) [risk](../r/risk.md).
+[Machine learning](../m/machine_learning.md) models can analyze vast datasets to predict [default](../d/default.md) probabilities. These predictions can be integrated into [trading algorithms](../t/trading_algorithms.md) to improve the accuracy of assessing [default](../d/default.md) [risk](../r/risk.md).
 
 ### Case Study: QuantConnect
 

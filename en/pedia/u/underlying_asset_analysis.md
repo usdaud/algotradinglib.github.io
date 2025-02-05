@@ -105,7 +105,7 @@ For international investments and commodities priced in specific currencies, [ex
 
 ### Machine Learning and AI
 
-Advances in machine learning and AI have opened new avenues for [underlying asset](../u/underlying_asset.md) analysis. Algorithms can now process vast amounts of data to detect patterns and predict future movements in [asset](../a/asset.md) prices.
+Advances in [machine learning](../m/machine_learning.md) and AI have opened new avenues for [underlying asset](../u/underlying_asset.md) analysis. Algorithms can now process vast amounts of data to detect patterns and predict future movements in [asset](../a/asset.md) prices.
 
 ## Risk Management in Underlying Asset Analysis
 

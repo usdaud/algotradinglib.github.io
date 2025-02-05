@@ -90,7 +90,7 @@ As technology continues to advance, the [U.S. Treasury](../u/u.s._treasury.md) i
 
 ### Financial Technology (Fintech)
 
-The Treasury is increasingly focusing on fintech innovations to improve [efficiency](../e/efficiency.md) and [security](../s/security.md). This includes [blockchain](../b/blockchain_in_trading.md) technology for secure transactions, machine learning for [fraud](../f/fraud.md) detection, and digital platforms for more accessible financial services.
+The Treasury is increasingly focusing on fintech innovations to improve [efficiency](../e/efficiency.md) and [security](../s/security.md). This includes [blockchain](../b/blockchain_in_trading.md) technology for secure transactions, [machine learning](../m/machine_learning.md) for [fraud](../f/fraud.md) detection, and digital platforms for more accessible financial services.
 
 ### Cybersecurity
 

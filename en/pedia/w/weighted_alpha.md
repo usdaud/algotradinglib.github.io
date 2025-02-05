@@ -61,7 +61,7 @@ print("[Weighted](../w/weighted.md) [Alpha](../a/alpha.md):", weighted_alpha)
 
 As [financial markets](../f/financial_market.md) continue to evolve with increasing amounts of data and computational power, the methodologies around metrics like [Weighted](../w/weighted.md) [Alpha](../a/alpha.md) are also anticipated to evolve. Future directions might include:
 
-- **Enhanced Machine Learning Models**: Integrating [Weighted](../w/weighted.md) [Alpha](../a/alpha.md) within more sophisticated ML models.
+- **Enhanced [Machine Learning](../m/machine_learning.md) Models**: Integrating [Weighted](../w/weighted.md) [Alpha](../a/alpha.md) within more sophisticated ML models.
 - **Adaptive Weighting Schemes**: Developing adaptive schemes where weights adjust dynamically based on [market](../m/market.md) conditions.
 - **Integration with Other Metrics**: Combining [Weighted](../w/weighted.md) [Alpha](../a/alpha.md) with other [performance metrics](../p/performance_metrics.md) for a more comprehensive view.
 

@@ -31,7 +31,7 @@ Front running is the practice of executing orders based on advance knowledge of 
 
 ### Surveillance Systems
 
-Financial institutions and exchanges deploy advanced surveillance systems to monitor trading activity for signs of suspicious behavior. These systems often use machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze vast amounts of data in real-time, spotting anomalies that may indicate fraudulent activities.
+Financial institutions and exchanges deploy advanced surveillance systems to monitor trading activity for signs of suspicious behavior. These systems often use [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze vast amounts of data in real-time, spotting anomalies that may indicate fraudulent activities.
 
 ### Transaction Monitoring
 

@@ -24,7 +24,7 @@
 
 - **[Factor Models](../f/factor_models.md)**: These models aim to explain returns based on various factors like [momentum](../m/momentum.md), [value](../v/value.md), size, etc. Factors are statistically derived and quantified to shape trading decisions.
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Involves simultaneous buying and selling related securities when there are discrepancies in prices, expecting them to revert to the mean.
-- **Machine Learning Models**: Algorithms can be designed to learn from the data patterns and improve their accuracy over time using techniques like [neural networks](../n/neural_networks_in_trading.md) or reinforcement learning.
+- **[Machine Learning](../m/machine_learning.md) Models**: Algorithms can be designed to learn from the data patterns and improve their accuracy over time using techniques like [neural networks](../n/neural_networks_in_trading.md) or [reinforcement learning](../r/reinforcement_learning.md).
 
 #### Sentiment Analysis
 

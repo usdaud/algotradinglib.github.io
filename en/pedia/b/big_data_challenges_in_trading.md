@@ -34,7 +34,7 @@ The financial [industry](../i/industry.md) is a prime target for cyberattacks. [
 
 ### Market Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) involves analyzing public sentiments from news articles, [social media](../s/social_media.md), and other sources to gauge [market sentiment](../m/market_sentiment.md). This unstructured data cannot be easily parsed and analyzed using traditional tools. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning techniques are often required to extract actionable insights from this data, presenting a significant challenge for traders.
+[Sentiment analysis](../s/sentiment_analysis.md) involves analyzing public sentiments from news articles, [social media](../s/social_media.md), and other sources to gauge [market sentiment](../m/market_sentiment.md). This unstructured data cannot be easily parsed and analyzed using traditional tools. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) techniques are often required to extract actionable insights from this data, presenting a significant challenge for traders.
 
 ### Data Integration
 

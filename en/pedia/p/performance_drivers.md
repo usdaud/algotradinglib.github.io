@@ -46,7 +46,7 @@ The design and inherent complexity of the algorithm influence its performance. A
 
 Key Points:
 - Simpler algorithms are usually less prone to [overfitting](../o/overfitting.md) on historical data.
-- Advanced machine learning models can adapt to changing [market](../m/market.md) conditions but may require more data and processing power.
+- Advanced [machine learning](../m/machine_learning.md) models can adapt to changing [market](../m/market.md) conditions but may require more data and processing power.
 - [Stress testing](../s/stress_testing_in_trading.md) under various [market](../m/market.md) scenarios is essential to ensure reliability.
 
 #### 6. **Risk Management**

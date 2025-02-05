@@ -75,7 +75,7 @@ From clothing to household items, mass production makes [consumer goods](../c/co
 
 ### Advanced Automation
 
-As technology evolves, so too does the potential for more advanced automation. The integration of AI and machine learning can optimize production lines, predict maintenance needs, and improve [quality control](../q/quality_control.md). Autonomous robots can take on increasingly complex tasks.
+As technology evolves, so too does the potential for more advanced automation. The integration of AI and [machine learning](../m/machine_learning.md) can optimize production lines, predict maintenance needs, and improve [quality control](../q/quality_control.md). Autonomous robots can take on increasingly complex tasks.
 
 ### Industry 4.0
 

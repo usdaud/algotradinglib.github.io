@@ -109,7 +109,7 @@ Many national banks are exploring and developing digital currencies, known as ce
 [RegTech](../r/regtech.md) (regulatory technology) and SupTech (supervisory technology) are technologies that help financial institutions comply with regulations and help national banks supervise the [financial system](../f/financial_system.md) more effectively. Applications include:
 
 - **Automated Reporting:** Technologies that automate the collection and submission of regulatory reports.
-- **AI and Machine Learning:** Tools that enhance the monitoring of financial transactions and the identification of suspicious activities.
+- **AI and [Machine Learning](../m/machine_learning.md):** Tools that enhance the monitoring of financial transactions and the identification of suspicious activities.
 
 ### Payment Systems
 

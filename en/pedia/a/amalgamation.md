@@ -72,17 +72,17 @@ Effective [risk management](../r/risk_management.md) in [algorithmic trading](..
 
 ## 5. **Machine Learning and Artificial Intelligence**
 
-5.1 **Supervised Learning**
+5.1 **[Supervised Learning](../s/supervised_learning.md)**
 
-Supervised learning involves training algorithms on labeled data to make predictions. Common techniques include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md). These models can be used for tasks like price prediction and classification of [market](../m/market.md) conditions.
+[Supervised learning](../s/supervised_learning.md) involves training algorithms on labeled data to make predictions. Common techniques include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md). These models can be used for tasks like price prediction and classification of [market](../m/market.md) conditions.
 
-5.2 **Unsupervised Learning**
+5.2 **[Unsupervised Learning](../u/unsupervised_learning.md)**
 
 Unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) identify patterns and relationships in unlabeled data. Techniques such as clustering (e.g., K-means) and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) (e.g., [Principal Component Analysis](../p/principal_component_analysis_(pca).md)) can be used to uncover hidden [market](../m/market.md) structures and segment [market](../m/market.md) participants.
 
-5.3 **Reinforcement Learning**
+5.3 **[Reinforcement Learning](../r/reinforcement_learning.md)**
 
-Reinforcement learning involves training algorithms through trial and error to maximize rewards. This approach can be used to optimize [trading strategies](../t/trading_strategies.md) by learning from the outcomes of past actions. Techniques like Q-learning and Deep Q Networks (DQN) are commonly applied.
+[Reinforcement learning](../r/reinforcement_learning.md) involves training algorithms through trial and error to maximize rewards. This approach can be used to optimize [trading strategies](../t/trading_strategies.md) by learning from the outcomes of past actions. Techniques like Q-learning and Deep Q Networks (DQN) are commonly applied.
 
 ## 6. **Backtesting and Optimization**
 

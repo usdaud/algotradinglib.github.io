@@ -82,7 +82,7 @@ Serial [correlation](../c/correlation.md) affects the performance and validity o
 
 ### Machine Learning Models
 
-In financial machine learning models, understanding and incorporating serial correlations can improve the model's performance in predicting future [market](../m/market.md) movements. Features derived from serial correlations are often used in training algorithms to capture [temporal dependencies](../t/temporal_dependencies_in_trading.md) in data.
+In financial [machine learning](../m/machine_learning.md) models, understanding and incorporating serial correlations can improve the model's performance in predicting future [market](../m/market.md) movements. Features derived from serial correlations are often used in training algorithms to capture [temporal dependencies](../t/temporal_dependencies_in_trading.md) in data.
 
 ### Mis-specification Issues
 

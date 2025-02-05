@@ -60,7 +60,7 @@ For high-frequency traders, the ability of Macro Manager to execute trades in re
 
 ### Adaptive Algorithms
 
-Algo traders can benefit from Macro Manager's machine learning capabilities to create [adaptive algorithms](../a/adaptive_algorithms.md). These algorithms can learn from historical data and adjust their parameters in real-time based on current [economic conditions](../e/economic_conditions.md). This adaptability ensures that [trading strategies](../t/trading_strategies.md) remain effective even in changing [market](../m/market.md) environments.
+Algo traders can benefit from Macro Manager's [machine learning](../m/machine_learning.md) capabilities to create [adaptive algorithms](../a/adaptive_algorithms.md). These algorithms can learn from historical data and adjust their parameters in real-time based on current [economic conditions](../e/economic_conditions.md). This adaptability ensures that [trading strategies](../t/trading_strategies.md) remain effective even in changing [market](../m/market.md) environments.
 
 ## Use Cases
 

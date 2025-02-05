@@ -64,7 +64,7 @@ The FinTech (financial technology) [industry](../i/industry.md) is replete with 
 Companies like [PayPal](../p/paypal.md) and Square specialize in digital payments and [money](../m/money.md) transfers, ensuring secure, fast, and efficient [transaction](../t/transaction.md) capabilities. They cater to both individual consumers and businesses. [PayPal](https://www.paypal.com/) [Square](https://squareup.com/)
 
 ### InsurTech
-[InsurTech](../i/insurtech.md) firms like Lemonade focus on leveraging technology to disrupt and enhance the [insurance](../i/insurance.md) [industry](../i/industry.md). These companies use AI and machine learning for [underwriting](../u/underwriting.md), claims processing, and [customer service](../c/customer_service.md). [Lemonade](https://www.lemonade.com/)
+[InsurTech](../i/insurtech.md) firms like Lemonade focus on leveraging technology to disrupt and enhance the [insurance](../i/insurance.md) [industry](../i/industry.md). These companies use AI and [machine learning](../m/machine_learning.md) for [underwriting](../u/underwriting.md), claims processing, and [customer service](../c/customer_service.md). [Lemonade](https://www.lemonade.com/)
 
 ### Robo-Advisors
 Robo-advisors like Betterment and Wealthfront specialize in providing automated, algorithm-driven [financial planning](../f/financial_planning.md) services with minimal human intervention, making [investment management](../i/investment_management.md) accessible and affordable for a broad audience. [Betterment](https://www.betterment.com/) [Wealthfront](https://www.wealthfront.com/)

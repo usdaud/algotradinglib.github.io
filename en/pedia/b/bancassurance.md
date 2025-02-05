@@ -98,7 +98,7 @@ Banks and insurers are increasingly using digital platforms to facilitate seamle
 
 ### Data Analytics
 
-Advanced [data analytics](../d/data_analytics.md) allows banks and insurers to personalize [insurance](../i/insurance.md) products based on [customer](../c/customer.md) needs and behaviors. [Predictive analytics](../p/predictive_analytics.md), machine learning, and AI can identify cross-selling opportunities, optimize pricing models, and improve [risk](../r/risk.md) assessment.
+Advanced [data analytics](../d/data_analytics.md) allows banks and insurers to personalize [insurance](../i/insurance.md) products based on [customer](../c/customer.md) needs and behaviors. [Predictive analytics](../p/predictive_analytics.md), [machine learning](../m/machine_learning.md), and AI can identify cross-selling opportunities, optimize pricing models, and improve [risk](../r/risk.md) assessment.
 
 ### Blockchain and Smart Contracts
 
@@ -113,7 +113,7 @@ RPA can streamline back-office operations such as [underwriting](../u/underwriti
 The future of bancassurance is poised for further evolution, influenced by regulatory changes, technological advancements, and shifting [customer](../c/customer.md) expectations:
 
 - **Increased Regulation:** Enhanced regulatory frameworks focusing on consumer protection and digital norms [will](../w/will.md) shape the bancassurance landscape.
-- **Tech-enabled Growth:** The integration of AI, machine learning, and [blockchain](../b/blockchain_in_trading.md) [will](../w/will.md) continue to revolutionize bancassurance, [offering](../o/offering.md) more personalized and streamlined services.
+- **Tech-enabled Growth:** The integration of AI, [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md) [will](../w/will.md) continue to revolutionize bancassurance, [offering](../o/offering.md) more personalized and streamlined services.
 - **Sustainability:** Focus on ESG (Environmental, Social, and Governance) factors [will](../w/will.md) drive the development of sustainable [insurance](../i/insurance.md) products, appealing to increasingly conscious consumers.
 - **[Customer](../c/customer.md)-centric Models:** Leveraging data to understand [customer](../c/customer.md) needs [will](../w/will.md) enable more customized and relevant [insurance](../i/insurance.md) offerings.
 

@@ -40,7 +40,7 @@ To implement these strategies, traders use a variety of models and algorithms. T
 
 - **High-Frequency Trading (HFT)**: Leveraging ultra-fast [algorithmic execution](../a/algorithmic_execution.md) to [capitalize](../c/capitalize.md) on minute price discrepancies in the [bond](../b/bond.md) markets. Companies like Virtu Financial [Virtu Financial](https://www.virtu.com) are pioneers in HFT.
   
-- **Machine Learning and AI**: Employing sophisticated machine learning models to predict [yield curve](../y/yield_curve.md) movements and optimize [trading strategies](../t/trading_strategies.md). These models can process vast amounts of data and identify patterns that traditional methods might miss.
+- **[Machine Learning](../m/machine_learning.md) and AI**: Employing sophisticated [machine learning](../m/machine_learning.md) models to predict [yield curve](../y/yield_curve.md) movements and optimize [trading strategies](../t/trading_strategies.md). These models can process vast amounts of data and identify patterns that traditional methods might miss.
 
 - **[Blockchain](../b/blockchain_in_trading.md) and [Smart Contracts](../s/smart_contracts_in_trading.md)**: Using [blockchain](../b/blockchain_in_trading.md) technology to enhance [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in [bond](../b/bond.md) trading. [Smart contracts](../s/smart_contracts_in_trading.md) can automate the settlement process, reducing [counterparty risk](../c/counterparty_risk.md) and operational inefficiencies.
 

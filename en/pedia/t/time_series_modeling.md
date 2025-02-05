@@ -97,7 +97,7 @@ High-frequency trading heavily relies on the analysis of [market microstructure]
 
 ### Numerai
 [https://numer.ai](https://numer.ai)
-Numerai uses AI and machine learning models, including advanced [time series](../t/time_series.md) models, to crowdsource [trading algorithms](../t/trading_algorithms.md).
+Numerai uses AI and [machine learning](../m/machine_learning.md) models, including advanced [time series](../t/time_series.md) models, to crowdsource [trading algorithms](../t/trading_algorithms.md).
 
 ### QuantConnect
 [https://www.quantconnect.com](https://www.quantconnect.com)
@@ -127,7 +127,7 @@ Complex models with many parameters can overfit historical data, capturing [nois
 
 ### Computational Complexity
 
-Advanced models, especially those involving machine learning, can be computationally intensive, requiring [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) for real-time trading applications.
+Advanced models, especially those involving [machine learning](../m/machine_learning.md), can be computationally intensive, requiring [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) for real-time trading applications.
 
 ### Data Quality and Frequency
 
@@ -135,4 +135,4 @@ High-quality and high-frequency data are crucial for effective [time series](../
 
 ## Conclusion
 
-[Time series](../t/time_series.md) modeling is a foundational aspect of [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) various methods to analyze and forecast financial data. Whether leveraging traditional statistical methods or advanced machine learning techniques, effective [time series analysis](../t/time_series_analysis.md) can significantly enhance [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). Aspiring algorithmic traders need a solid understanding of these models and how to implement them to succeed in the competitive [financial markets](../f/financial_market.md).
+[Time series](../t/time_series.md) modeling is a foundational aspect of [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) various methods to analyze and forecast financial data. Whether leveraging traditional statistical methods or advanced [machine learning](../m/machine_learning.md) techniques, effective [time series analysis](../t/time_series_analysis.md) can significantly enhance [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). Aspiring algorithmic traders need a solid understanding of these models and how to implement them to succeed in the competitive [financial markets](../f/financial_market.md).

@@ -15,7 +15,7 @@ Data forms the backbone of any [trading strategy](../t/trading_strategy.md). In 
 
 ### 2. Trading Algorithms
 
-Algorithms are the core of algotrading, making decisions based on predefined criteria. These algorithms can [range](../r/range.md) from simple moving averages to complex machine learning models. They require quality data to function effectively and must be tuned to minimize latency and maximize [execution](../e/execution.md) speed.
+Algorithms are the core of algotrading, making decisions based on predefined criteria. These algorithms can [range](../r/range.md) from simple moving averages to complex [machine learning](../m/machine_learning.md) models. They require quality data to function effectively and must be tuned to minimize latency and maximize [execution](../e/execution.md) speed.
 
 ### 3. Networks and Infrastructure
 
@@ -94,7 +94,7 @@ As trading volumes increase, the [infrastructure](../i/infrastructure.md) must b
 
 ### Machine Learning
 
-Continued advances in machine learning can provide more accurate predictions and [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). These algorithms can learn from vast amounts of historical data to make better trading decisions.
+Continued advances in [machine learning](../m/machine_learning.md) can provide more accurate predictions and [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). These algorithms can learn from vast amounts of historical data to make better trading decisions.
 
 ### Blockchain
 
@@ -106,4 +106,4 @@ AI [will](../w/will.md) continue to play a significant role in automating and op
 
 ## Conclusion
 
-A [distribution](../d/distribution.md) network in algotrading is a complex ecosystem that involves a multitude of components working together to facilitate efficient, low-latency trading. By understanding and optimizing each piece of this network, traders can achieve better performance and maintain a competitive edge in the fast-paced world of [algorithmic trading](../a/accountability.md). Technologies like [quantum computing](../q/quantum_computing_in_trading.md), machine learning, [blockchain](../b/blockchain_in_trading.md), and AI promise to shape the future of these networks, ushering in a new era of trading [efficiency](../e/efficiency.md) and [security](../s/security.md).
+A [distribution](../d/distribution.md) network in algotrading is a complex ecosystem that involves a multitude of components working together to facilitate efficient, low-latency trading. By understanding and optimizing each piece of this network, traders can achieve better performance and maintain a competitive edge in the fast-paced world of [algorithmic trading](../a/accountability.md). Technologies like [quantum computing](../q/quantum_computing_in_trading.md), [machine learning](../m/machine_learning.md), [blockchain](../b/blockchain_in_trading.md), and AI promise to shape the future of these networks, ushering in a new era of trading [efficiency](../e/efficiency.md) and [security](../s/security.md).

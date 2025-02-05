@@ -71,10 +71,10 @@ Oscillators measure [market](../m/market.md) [momentum](../m/momentum.md) and ca
 
 ### Machine Learning Models
 
-Machine learning models can be trained to identify complex patterns in [market](../m/market.md) data. Techniques include:
+[Machine learning](../m/machine_learning.md) models can be trained to identify complex patterns in [market](../m/market.md) data. Techniques include:
 
-- **Supervised Learning**: Algorithms learn from labeled training data to make predictions.
-- **Unsupervised Learning**: Algorithms identify patterns and anomalies in unlabeled data.
+- **[Supervised Learning](../s/supervised_learning.md)**: Algorithms learn from labeled training data to make predictions.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Algorithms identify patterns and anomalies in unlabeled data.
 
 ## Companies Specializing in Algorithmic Trading
 
@@ -82,6 +82,6 @@ Several notable companies and platforms focus on [algorithmic trading](../a/algo
 
 - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based platform for designing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md).
 - **[Alpaca](../a/alpaca.md)**: [Alpaca](https://alpaca.markets/) offers [commission](../c/commission.md)-free trading with an API for executing algorithmic strategies.
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) uses machine learning, distributed computing, and vast amounts of data to build [trading algorithms](../t/trading_algorithms.md).
+- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) uses [machine learning](../m/machine_learning.md), distributed computing, and vast amounts of data to build [trading algorithms](../t/trading_algorithms.md).
 
 Understanding cyclicality in markets is fundamental for devising [robust](../r/robust.md) algotrading strategies. By analyzing economic, [market](../m/market.md), and psychological cycles, and leveraging algorithms to identify and predict these patterns, traders can increase their chances of success in [financial markets](../f/financial_market.md).

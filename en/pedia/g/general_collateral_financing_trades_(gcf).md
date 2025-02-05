@@ -63,7 +63,7 @@ Technological advancements have significantly impacted GCF Trades. [Automated tr
 Emerging technologies such as [blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md) (DLT) have the potential to revolutionize GCF Trades. By providing a transparent, immutable ledger of transactions, these technologies can enhance [transparency](../t/transparency.md), reduce settlement times, and mitigate operational risks.
 
 ### Artificial Intelligence and Machine Learning
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are increasingly being used to optimize GCF Trades. These technologies can analyze vast amounts of [market](../m/market.md) data to identify trends, predict [market](../m/market.md) movements, and optimize [trading strategies](../t/trading_strategies.md), thereby enhancing the [efficiency](../e/efficiency.md) and profitability of GCF Trades.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are increasingly being used to optimize GCF Trades. These technologies can analyze vast amounts of [market](../m/market.md) data to identify trends, predict [market](../m/market.md) movements, and optimize [trading strategies](../t/trading_strategies.md), thereby enhancing the [efficiency](../e/efficiency.md) and profitability of GCF Trades.
 
 ## Conclusion
 

@@ -78,7 +78,7 @@
 
 **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**
 
-- SVMs are supervised learning models that can be used for regression ([Support Vector Regression](../s/support_vector_regression.md), SVR) to forecast [inflation](../i/inflation.md).
+- SVMs are [supervised learning](../s/supervised_learning.md) models that can be used for regression ([Support Vector Regression](../s/support_vector_regression.md), SVR) to forecast [inflation](../i/inflation.md).
 
 - **Example Application**: Use past [inflation](../i/inflation.md) rates and other [economic indicators](../e/economic_indicators.md) as input features to predict future [inflation](../i/inflation.md) rates.
 
@@ -102,4 +102,4 @@
 
 ### Conclusion
 
-[Inflation](../i/inflation.md) [forecasting](../f/forecasting.md) is a multifaceted and challenging task that requires a deep understanding of economic theories, statistical methods, and [data analysis techniques](../d/data_analysis_techniques.md). By leveraging a combination of traditional econometric models and modern machine learning approaches, forecasters can improve their predictions and provide valuable insights for [monetary policy](../m/monetary_policy.md), investment decisions, and [business](../b/business.md) strategy. Despite the inherent challenges, ongoing advancements in data availability, computational power, and modeling techniques continue to enhance the accuracy and reliability of [inflation](../i/inflation.md) forecasts.
+[Inflation](../i/inflation.md) [forecasting](../f/forecasting.md) is a multifaceted and challenging task that requires a deep understanding of economic theories, statistical methods, and [data analysis techniques](../d/data_analysis_techniques.md). By leveraging a combination of traditional econometric models and modern [machine learning](../m/machine_learning.md) approaches, forecasters can improve their predictions and provide valuable insights for [monetary policy](../m/monetary_policy.md), investment decisions, and [business](../b/business.md) strategy. Despite the inherent challenges, ongoing advancements in data availability, computational power, and modeling techniques continue to enhance the accuracy and reliability of [inflation](../i/inflation.md) forecasts.

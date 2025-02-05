@@ -94,7 +94,7 @@ In 2012, Knight [Capital](../c/capital.md) Group suffered a significant loss due
 
 #### Emerging Technologies
 
-Technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) are increasingly being integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies. These advancements pose new challenges for regulators as they need to update existing frameworks to accommodate fast-evolving technologies.
+Technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) are increasingly being integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies. These advancements pose new challenges for regulators as they need to update existing frameworks to accommodate fast-evolving technologies.
 
 #### Global Coordination
 

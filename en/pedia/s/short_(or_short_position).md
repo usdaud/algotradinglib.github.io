@@ -74,7 +74,7 @@ However, it can also have negative impacts, such as exacerbating [market](../m/m
   
 - **High-Frequency Trading (HFT)**: Uses sophisticated algorithms and high-speed data feeds to execute numerous short trades rapidly.
 
-- **Machine Learning**: Enhances [short selling](../s/short_selling.md) strategies by identifying patterns and predicting stock movements with greater accuracy.
+- **[Machine Learning](../m/machine_learning.md)**: Enhances [short selling](../s/short_selling.md) strategies by identifying patterns and predicting stock movements with greater accuracy.
 
 ## Fintech and Short Selling
 

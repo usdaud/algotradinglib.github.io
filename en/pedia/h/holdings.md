@@ -88,7 +88,7 @@ HFT strategies execute numerous trades within fractions of a second. Holdings in
 
 ### Machine Learning and AI
 
-Advancements in AI and machine learning are continually enhancing [algorithmic trading](../a/accountability.md) capabilities. These technologies can analyze vast amounts of data quickly, identify patterns humans might miss, and make more autonomous and precise trading decisions.
+Advancements in AI and [machine learning](../m/machine_learning.md) are continually enhancing [algorithmic trading](../a/accountability.md) capabilities. These technologies can analyze vast amounts of data quickly, identify patterns humans might miss, and make more autonomous and precise trading decisions.
 
 ### Blockchain and Cryptocurrencies
 

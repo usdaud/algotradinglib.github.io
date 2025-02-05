@@ -84,7 +84,7 @@ In [trading strategies](../t/trading_strategies.md), [random forests](../r/rando
 
 ### Support Vector Machines (SVM)
 #### Description
-SVM is a non-parametric, supervised learning model used for classification and [regression analysis](../r/regression_analysis.md). It finds the hyperplane that best separates the classes in the feature space.
+SVM is a non-parametric, [supervised learning](../s/supervised_learning.md) model used for classification and [regression analysis](../r/regression_analysis.md). It finds the hyperplane that best separates the classes in the feature space.
 
 #### Application in Algo Trading
 SVMs can be used for classification tasks, such as predicting [market](../m/market.md) direction, and for regression tasks like [forecasting](../f/forecasting.md) [asset](../a/asset.md) prices.

@@ -50,7 +50,7 @@ Several unit trusts have successfully adopted [algorithmic trading](../a/algorit
 
 - **Vanguard**: Vanguard employs sophisticated algorithms to assist in managing its ETFs and mutual funds, enhancing [efficiency](../e/efficiency.md) and ensuring optimal [trade](../t/trade.md) [execution](../e/execution.md). Learn more about their approach on their [website](https://investor.vanguard.com/etf/).
 
-- **BlackRock**: BlackRock's Aladdin platform integrates advanced algorithms and machine learning to manage portfolio risks and execute trades for their unit trusts and other investment products. Additional information can be found on their [website](https://www.blackrock.com/aladdin/).
+- **BlackRock**: BlackRock's Aladdin platform integrates advanced algorithms and [machine learning](../m/machine_learning.md) to manage portfolio risks and execute trades for their unit trusts and other investment products. Additional information can be found on their [website](https://www.blackrock.com/aladdin/).
 
 ## Challenges and Considerations
 

@@ -115,7 +115,7 @@ Training and deploying neural [network models](../n/network_models_in_trading.md
 
 ### Case Study: Renaissance Technologies
 
-Renaissance Technologies, a prominent quantitative [hedge fund](../h/hedge_fund.md), leverages advanced machine learning techniques, including [neural networks](../n/neural_networks_in_trading.md), to execute its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) has consistently achieved remarkable returns, showcasing the potential of [neural networks in trading](../n/neural_networks_in_trading.md) ([Renaissance Technologies](https://www.rentech.com/)).
+Renaissance Technologies, a prominent quantitative [hedge fund](../h/hedge_fund.md), leverages advanced [machine learning](../m/machine_learning.md) techniques, including [neural networks](../n/neural_networks_in_trading.md), to execute its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) has consistently achieved remarkable returns, showcasing the potential of [neural networks in trading](../n/neural_networks_in_trading.md) ([Renaissance Technologies](https://www.rentech.com/)).
 
 ### Case Study: Two Sigma
 
@@ -125,15 +125,15 @@ Two Sigma applies [data science](../d/data_science_in_trading.md) and technology
 
 Several [open](../o/open.md)-source libraries and frameworks facilitate the development and deployment of neural [network models in trading](../n/network_models_in_trading.md):
 
-- **TensorFlow**: A comprehensive [open](../o/open.md)-source platform for machine learning.
-- **PyTorch**: An [open](../o/open.md)-source machine learning library known for its flexibility and dynamic computation graph.
-- **Keras**: A high-level [neural networks](../n/neural_networks_in_trading.md) API, running on top of TensorFlow.
+- **[TensorFlow](../t/tensorflow.md)**: A comprehensive [open](../o/open.md)-source platform for [machine learning](../m/machine_learning.md).
+- **[PyTorch](../p/pytorch.md)**: An [open](../o/open.md)-source [machine learning](../m/machine_learning.md) library known for its flexibility and dynamic computation graph.
+- **[Keras](../k/keras.md)**: A high-level [neural networks](../n/neural_networks_in_trading.md) API, running on top of [TensorFlow](../t/tensorflow.md).
 
 ## Future Trends
 
 ### Integration with Reinforcement Learning
 
-The combination of [neural networks](../n/neural_networks_in_trading.md) and reinforcement learning is an emerging [trend](../t/trend.md), known as deep reinforcement learning. This approach allows for the development of models that learn optimal [trading strategies](../t/trading_strategies.md) through continuous interactions with the [market](../m/market.md) environment.
+The combination of [neural networks](../n/neural_networks_in_trading.md) and [reinforcement learning](../r/reinforcement_learning.md) is an emerging [trend](../t/trend.md), known as deep [reinforcement learning](../r/reinforcement_learning.md). This approach allows for the development of models that learn optimal [trading strategies](../t/trading_strategies.md) through continuous interactions with the [market](../m/market.md) environment.
 
 ### Quantum Computing
 

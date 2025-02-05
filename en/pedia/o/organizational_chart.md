@@ -133,7 +133,7 @@ With advancements in technology, organizational charts are becoming more dynamic
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning can enhance organizational charts by predicting potential changes in the workflow and suggesting modifications in the structure. For instance, AI can analyze [performance metrics](../p/performance_metrics.md) and recommend role adjustments to optimize [productivity](../p/productivity.md).
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) can enhance organizational charts by predicting potential changes in the workflow and suggesting modifications in the structure. For instance, AI can analyze [performance metrics](../p/performance_metrics.md) and recommend role adjustments to optimize [productivity](../p/productivity.md).
 
 ### Remote and Hybrid Work Models
 

@@ -103,7 +103,7 @@ Some of the critical regulations and frameworks guiding [Euronext](../e/euronext
 To stay competitive and relevant, [Euronext](../e/euronext.md) Lisbon continually invests in technological innovations:
 
 - **[Blockchain](../b/blockchain_in_trading.md) Initiatives**: Exploring the use of [blockchain](../b/blockchain_in_trading.md) for [clearing and settlement](../c/clearing_and_settlement.md) processes.
-- **AI and Machine Learning**: Implementing these technologies for [market](../m/market.md) surveillance and improving [trading algorithms](../t/trading_algorithms.md).
+- **AI and [Machine Learning](../m/machine_learning.md)**: Implementing these technologies for [market](../m/market.md) surveillance and improving [trading algorithms](../t/trading_algorithms.md).
 - **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Utilizing [cloud computing](../c/cloud_computing_in_trading.md) to enhance the [scalability](../s/scalability.md) and resilience of trading [infrastructure](../i/infrastructure.md).
 
 ## Conclusion

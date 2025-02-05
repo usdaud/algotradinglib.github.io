@@ -172,7 +172,7 @@ Jane Street is a trading [firm](../f/firm.md) and [liquidity](../l/liquidity.md)
 Renaissance Technologies is a highly renowned quantitative investment [firm](../f/firm.md) known for its Medallion [Fund](../f/fund.md), which utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for [trading strategies](../t/trading_strategies.md).
 
 ### 6.5 Two Sigma (https://www.twosigma.com/)
-Two Sigma is a top-tier quantitative [hedge fund](../h/hedge_fund.md) that leverages [data science](../d/data_science_in_trading.md), machine learning, and applied mathematics to devise investment strategies.
+Two Sigma is a top-tier quantitative [hedge fund](../h/hedge_fund.md) that leverages [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and applied mathematics to devise investment strategies.
 
 ## Conclusion
 

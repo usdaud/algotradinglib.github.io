@@ -62,7 +62,7 @@ Real-time filtering introduces latency, which can be detrimental in high-frequen
 Markets evolve, and the effectiveness of a given filtering method may diminish over time. Continuous evaluation and adjustment are necessary to maintain optimal performance.
 
 ### Computational Resources
-Advanced filtering techniques, especially machine learning-based methods, require significant computational power. Efficient implementation and resource allocation are crucial for real-time applications.
+Advanced filtering techniques, especially [machine learning](../m/machine_learning.md)-based methods, require significant computational power. Efficient implementation and resource allocation are crucial for real-time applications.
 
 ## Conclusion
 Signal filtering is an essential component of [algorithmic trading](../a/algorithmic_trading.md), helping traders to distinguish between meaningful signals and [market](../m/market.md) [noise](../n/noise.md). While various techniques are available, the choice of method depends on the specific [trading strategy](../t/trading_strategy.md), [market](../m/market.md) conditions, and computational resources. Continuous adaptation and [optimization](../o/optimization.md) are key to maintaining the efficacy of these filters.

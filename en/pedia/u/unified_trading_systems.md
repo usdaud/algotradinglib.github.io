@@ -59,7 +59,7 @@ UTS [offer](../o/offer.md) customizable interfaces and adaptable algorithms, all
 With comprehensive [risk management](../r/risk_management.md) tools, UTS help traders proactively manage and mitigate risks, enhancing the overall stability and resilience of their trading operations.
 
 ### Competitive Edge
-By harnessing advanced technologies such as AI and machine learning, UTS can provide a competitive edge through sophisticated [trading algorithms](../t/trading_algorithms.md) and [predictive analytics](../p/predictive_analytics.md).
+By harnessing advanced technologies such as AI and [machine learning](../m/machine_learning.md), UTS can provide a competitive edge through sophisticated [trading algorithms](../t/trading_algorithms.md) and [predictive analytics](../p/predictive_analytics.md).
 
 ## Challenges in Implementing Unified Trading Systems
 

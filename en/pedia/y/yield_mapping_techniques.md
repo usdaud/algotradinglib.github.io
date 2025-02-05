@@ -1,6 +1,6 @@
 # Yield Mapping Techniques
 
-[Algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading or black-box trading) is the process of using computer algorithms to [trade](../t/trade.md) financial assets. One critical aspect of [algorithmic trading](../a/algorithmic_trading.md) is [yield](../y/yield.md) mapping, which involves predicting the returns ([yield](../y/yield.md)) of various assets to execute trades effectively. [Yield](../y/yield.md) mapping techniques combine sophisticated [mathematical models](../m/mathematical_models_in_trading.md), [big data analytics](../b/big_data_analytics_in_trading.md), and machine learning to predict [asset](../a/asset.md) returns. This document [will](../w/will.md) explore several advanced [yield](../y/yield.md) mapping techniques utilized in [algorithmic trading](../a/algorithmic_trading.md).
+[Algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading or black-box trading) is the process of using computer algorithms to [trade](../t/trade.md) financial assets. One critical aspect of [algorithmic trading](../a/algorithmic_trading.md) is [yield](../y/yield.md) mapping, which involves predicting the returns ([yield](../y/yield.md)) of various assets to execute trades effectively. [Yield](../y/yield.md) mapping techniques combine sophisticated [mathematical models](../m/mathematical_models_in_trading.md), [big data analytics](../b/big_data_analytics_in_trading.md), and [machine learning](../m/machine_learning.md) to predict [asset](../a/asset.md) returns. This document [will](../w/will.md) explore several advanced [yield](../y/yield.md) mapping techniques utilized in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Statistical Models
 
@@ -19,7 +19,7 @@
 Random Forest is an [ensemble learning](../e/ensemble_learning.md) method that constructs [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md) during training and outputs the [mode](../m/mode.md) of the classes (classification) or mean prediction (regression) of the individual trees. It can model complex nonlinear relationships, making it useful for predicting [asset](../a/asset.md) yields.
 
 ### Support Vector Machines
-[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) are supervised learning models that analyze data for classification and regression. SVMs perform well when the data is linearly separable or can be transformed to be so. They are particularly beneficial for [yield](../y/yield.md) mapping when the predictor variables and decision boundaries are complex.
+[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) are [supervised learning](../s/supervised_learning.md) models that analyze data for classification and regression. SVMs perform well when the data is linearly separable or can be transformed to be so. They are particularly beneficial for [yield](../y/yield.md) mapping when the predictor variables and decision boundaries are complex.
 
 ### Neural Networks
 [Neural networks](../n/neural_networks_in_trading.md), particularly [deep learning](../d/deep_learning.md) models, consist of [multiple](../m/multiple.md) layers of interconnected neurons. They can capture complex patterns in data and are highly effective for [yield](../y/yield.md) mapping when feature relationships are highly nonlinear. Variants like Long Short-Term Memory (LSTM) networks are specifically designed for [time series](../t/time_series.md) prediction.
@@ -30,7 +30,7 @@ Gradient Boosting Machines (GBMs) are [ensemble learning](../e/ensemble_learning
 ## Advanced Techniques
 
 ### Reinforcement Learning
-Reinforcement learning involves training an agent to make a sequence of decisions by rewarding it for desired actions. In [yield](../y/yield.md) mapping, reinforcement learning can be used to develop trading policies that maximize the long-term [yield](../y/yield.md) by learning from historical trading data.
+[Reinforcement learning](../r/reinforcement_learning.md) involves training an agent to make a sequence of decisions by rewarding it for desired actions. In [yield](../y/yield.md) mapping, [reinforcement learning](../r/reinforcement_learning.md) can be used to develop trading policies that maximize the long-term [yield](../y/yield.md) by learning from historical trading data.
 
 ### Genetic Algorithms
 [Genetic algorithms](../g/genetic_algorithms_in_trading.md) are [optimization](../o/optimization.md) algorithms inspired by natural selection. They are used to find optimal [trading strategies](../t/trading_strategies.md) by evolving a population of potential solutions over [multiple](../m/multiple.md) iterations. This method is effective for [yield](../y/yield.md) mapping in complex, multi-modal landscapes.
@@ -44,7 +44,7 @@ Reinforcement learning involves training an agent to make a sequence of decision
 [Sentiment analysis](../s/sentiment_analysis.md) involves processing textual data to determine the sentiment expressed. Financial news, [social media](../s/social_media.md), and analyst reports are analyzed to provide sentiment scores, which are then used to predict [asset](../a/asset.md) yields.
 
 ### Feature Engineering
-Feature engineering is the process of using domain knowledge to create features that make machine learning models work. Creating relevant features from trading [volume](../v/volume.md), [market](../m/market.md) trends, or other financial indicators is crucial for enhancing the performance of [yield mapping models](../y/yield_mapping_models.md).
+Feature engineering is the process of using domain knowledge to create features that make [machine learning](../m/machine_learning.md) models work. Creating relevant features from trading [volume](../v/volume.md), [market](../m/market.md) trends, or other financial indicators is crucial for enhancing the performance of [yield mapping models](../y/yield_mapping_models.md).
 
 ### Portfolio Optimization
 [Portfolio optimization](../p/portfolio_optimization.md) involves allocating assets in a portfolio to optimize the [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md). Techniques like [Mean-Variance Optimization](../m/mean-variance_optimization.md) and the [Black-Litterman model](../b/black-litterman_model.md) are used to predict the overall [yield](../y/yield.md) of the portfolio.
@@ -92,5 +92,5 @@ Advanced [yield](../y/yield.md) mapping techniques often require significant com
 The impact of high-frequency trading on [market](../m/market.md) stability and fairness is a topic of ongoing debate. Ethical considerations must be accounted for to ensure that [yield](../y/yield.md) mapping techniques are used responsibly.
 
 ## Conclusion
-[Yield](../y/yield.md) mapping in [algorithmic trading](../a/algorithmic_trading.md) is a sophisticated discipline that combines statistical models, machine learning, and advanced [data analytics](../d/data_analytics.md) to predict [asset](../a/asset.md) yields. Companies like Two Sigma, Renaissance Technologies, and WorldQuant exemplify the effective use of these techniques. Despite challenges like data quality, [overfitting](../o/overfitting.md), and computational costs, the benefits make [yield](../y/yield.md) mapping indispensable for modern trading.
+[Yield](../y/yield.md) mapping in [algorithmic trading](../a/algorithmic_trading.md) is a sophisticated discipline that combines statistical models, [machine learning](../m/machine_learning.md), and advanced [data analytics](../d/data_analytics.md) to predict [asset](../a/asset.md) yields. Companies like Two Sigma, Renaissance Technologies, and WorldQuant exemplify the effective use of these techniques. Despite challenges like data quality, [overfitting](../o/overfitting.md), and computational costs, the benefits make [yield](../y/yield.md) mapping indispensable for modern trading.
 

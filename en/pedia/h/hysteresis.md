@@ -65,8 +65,8 @@ For more information, visit their [website](https://www.rentec.com).
 
 ### 3. Two Sigma
 
-Two Sigma, a quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md), employs machine learning and [data science](../d/data_science_in_trading.md) techniques to develop [trading algorithms](../t/trading_algorithms.md). Integrating hysteresis effects into their models helps them capture the complex dynamics of [financial markets](../f/financial_market.md). Their practices involve:
-- **Machine Learning Integration:** Incorporating hysteresis-related features into machine learning models to improve predictions and decision-making.
+Two Sigma, a quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md), employs [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md) techniques to develop [trading algorithms](../t/trading_algorithms.md). Integrating hysteresis effects into their models helps them capture the complex dynamics of [financial markets](../f/financial_market.md). Their practices involve:
+- **[Machine Learning](../m/machine_learning.md) Integration:** Incorporating hysteresis-related features into [machine learning](../m/machine_learning.md) models to improve predictions and decision-making.
 - **Behavioral Insights:** Using hysteresis to understand and model [trader](../t/trader.md) behaviors, enabling more effective exploitation of [market](../m/market.md) inefficiencies.
 
 For more information, visit their [website](https://www.twosigma.com).

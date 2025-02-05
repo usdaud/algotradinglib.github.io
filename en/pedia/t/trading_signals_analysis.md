@@ -1,6 +1,6 @@
 # Trading Signals Analysis
 
-[Trading signals](../t/trading_signals.md) are essential components in the realm of [algorithmic trading](../a/algorithmic_trading.md) (also known as algotrading or automated trading). They serve as actionable insights or prompts that inform traders about opportunities to buy or sell an [asset](../a/asset.md). These signals can be derived from various forms of analysis, including [technical analysis](../t/technical_analysis.md), [fundamental analysis](../f/fundamental_analysis.md), machine learning models, and statistical methods. This document details the intricacies of [trading signals](../t/trading_signals.md) analysis, exploring the different types, methodologies for generation, evaluation methods, and practical applications.
+[Trading signals](../t/trading_signals.md) are essential components in the realm of [algorithmic trading](../a/algorithmic_trading.md) (also known as algotrading or automated trading). They serve as actionable insights or prompts that inform traders about opportunities to buy or sell an [asset](../a/asset.md). These signals can be derived from various forms of analysis, including [technical analysis](../t/technical_analysis.md), [fundamental analysis](../f/fundamental_analysis.md), [machine learning](../m/machine_learning.md) models, and statistical methods. This document details the intricacies of [trading signals](../t/trading_signals.md) analysis, exploring the different types, methodologies for generation, evaluation methods, and practical applications.
 
 ## Types of Trading Signals
 
@@ -30,11 +30,11 @@ Sentiment signals are derived from the analysis of [market sentiment](../m/marke
 
 ### Machine Learning Signals
 
-Machine learning signals involve the use of algorithms to predict [market](../m/market.md) movements:
+[Machine learning](../m/machine_learning.md) signals involve the use of algorithms to predict [market](../m/market.md) movements:
 
-1. **Supervised Learning**: Algorithms trained on historical data with known outcomes, such as [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md).
-2. **Unsupervised Learning**: Techniques like clustering to find patterns, e.g., [k-means clustering](../k/k-means_clustering_in_trading.md).
-3. **Reinforcement Learning**: Algorithms like Deep Q-Networks (DQN) that learn optimal [trading strategies](../t/trading_strategies.md) through interactions with the [market](../m/market.md) environment.
+1. **[Supervised Learning](../s/supervised_learning.md)**: Algorithms trained on historical data with known outcomes, such as [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md).
+2. **[Unsupervised Learning](../u/unsupervised_learning.md)**: Techniques like clustering to find patterns, e.g., [k-means clustering](../k/k-means_clustering_in_trading.md).
+3. **[Reinforcement Learning](../r/reinforcement_learning.md)**: Algorithms like Deep Q-Networks (DQN) that learn optimal [trading strategies](../t/trading_strategies.md) through interactions with the [market](../m/market.md) environment.
 
 ## Generation of Trading Signals
 
@@ -93,6 +93,6 @@ These firms and platforms illustrate the diverse landscape of [trading signals](
 
 ## Conclusion
 
-[Trading signals](../t/trading_signals.md) are a cornerstone of modern [financial markets](../f/financial_market.md), providing the insights necessary for making informed trading decisions. The combination of technical, fundamental, sentiment-based, and machine learning-derived signals enables traders to navigate the complexities of the [market](../m/market.md) efficiently. With ongoing advancements in computational power and [data analytics](../d/data_analytics.md), the future of [trading signals](../t/trading_signals.md) promises even greater accuracy and sophistication.
+[Trading signals](../t/trading_signals.md) are a cornerstone of modern [financial markets](../f/financial_market.md), providing the insights necessary for making informed trading decisions. The combination of technical, fundamental, sentiment-based, and [machine learning](../m/machine_learning.md)-derived signals enables traders to navigate the complexities of the [market](../m/market.md) efficiently. With ongoing advancements in computational power and [data analytics](../d/data_analytics.md), the future of [trading signals](../t/trading_signals.md) promises even greater accuracy and sophistication.
 
 By understanding the processes involved in generating, evaluating, and applying these signals, traders can enhance their strategies and potentially improve their [trading performance](../t/trading_performance.md). As always, it’s essential to continue developing your understanding and stay updated with the latest advancements in this dynamic field.

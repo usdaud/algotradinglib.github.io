@@ -94,7 +94,7 @@ Commingled funds, despite their benefits, face several challenges and criticisms
 ## Future Trends
 
 The landscape of commingled funds is continually evolving with technological advancements and changing [investor](../i/investor.md) preferences. Trends to watch for include:
-- **Automation and AI**: Increasing use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning for [fund](../f/fund.md) management and decision-making.
+- **Automation and AI**: Increasing use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) for [fund](../f/fund.md) management and decision-making.
 - **[ESG Investing](../e/esg_investing.md)**: Growing focus on environmental, social, and governance factors in investment strategies.
 - **[Blockchain](../b/blockchain_in_trading.md) and Tokenization**: Potential integration of [blockchain](../b/blockchain_in_trading.md) technology to enhance [transparency](../t/transparency.md) and [operational efficiency](../o/operational_efficiency_in_trading.md) in commingled funds.
 

@@ -31,7 +31,7 @@ Nasdaq has consistently been at the forefront of technological innovations in [f
 
 1. **Nasdaq MarketSite**: Located in Times Square, New York, the Nasdaq MarketSite features a large digital display and a broadcast studio, serving as a hub for financial news and [market](../m/market.md) data.
 2. **[Blockchain](../b/blockchain_in_trading.md) Technology**: Nasdaq has explored the use of [blockchain](../b/blockchain_in_trading.md) technology to enhance the [efficiency](../e/efficiency.md) and [transparency](../t/transparency.md) of securities trading and [clearing](../c/clearing.md) processes.
-3. **Machine Learning and AI**: These technologies are leveraged to enhance [trading algorithms](../t/trading_algorithms.md), [risk management](../r/risk_management.md), and [fraud](../f/fraud.md) detection.
+3. **[Machine Learning](../m/machine_learning.md) and AI**: These technologies are leveraged to enhance [trading algorithms](../t/trading_algorithms.md), [risk management](../r/risk_management.md), and [fraud](../f/fraud.md) detection.
 
 ## Algorithmic Trading and Fintech
 

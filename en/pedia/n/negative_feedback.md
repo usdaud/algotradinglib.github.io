@@ -60,7 +60,7 @@ High-frequency trading involves executing a large number of orders at extremely 
 
 ### Big Data and Machine Learning
 
-[Big data analytics](../b/big_data_analytics_in_trading.md) and machine learning models enhance the ability to identify and predict [market](../m/market.md) trends. By analyzing vast amounts of data, these technologies can detect anomalies and implement corrective measures, acting as modern negative feedback mechanisms. To explore how machine learning is applied in [finance](../f/finance.md), visit [Kensho Technologies](https://www.kensho.com).
+[Big data analytics](../b/big_data_analytics_in_trading.md) and [machine learning](../m/machine_learning.md) models enhance the ability to identify and predict [market](../m/market.md) trends. By analyzing vast amounts of data, these technologies can detect anomalies and implement corrective measures, acting as modern negative feedback mechanisms. To explore how [machine learning](../m/machine_learning.md) is applied in [finance](../f/finance.md), visit [Kensho Technologies](https://www.kensho.com).
 
 ## Challenges and Limitations
 

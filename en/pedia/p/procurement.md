@@ -95,7 +95,7 @@ E-procurement refers to the use of online systems and software to conduct procur
 
 ### AI & Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are being used to analyze procurement data, [forecasting](../f/forecasting.md) [demand](../d/demand.md), identifying supplier risks, and optimizing procurement strategies.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are being used to analyze procurement data, [forecasting](../f/forecasting.md) [demand](../d/demand.md), identifying supplier risks, and optimizing procurement strategies.
 
 ## Challenges in Procurement
 

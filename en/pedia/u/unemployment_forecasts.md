@@ -24,8 +24,8 @@
 
 ### Machine Learning
 
-1. **Supervised Learning**: Algorithms like [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) are trained on historical data to predict future [unemployment](../u/unemployment.md) rates.
-2. **Unsupervised Learning**: Cluster analysis can identify patterns and trends in [unemployment](../u/unemployment.md) data that aren't immediately obvious.
+1. **[Supervised Learning](../s/supervised_learning.md)**: Algorithms like [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) are trained on historical data to predict future [unemployment](../u/unemployment.md) rates.
+2. **[Unsupervised Learning](../u/unsupervised_learning.md)**: Cluster analysis can identify patterns and trends in [unemployment](../u/unemployment.md) data that aren't immediately obvious.
 
 ### Expert Judgment
 

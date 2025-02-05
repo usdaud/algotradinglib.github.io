@@ -113,7 +113,7 @@ R, Python (particularly libraries such as pandas, numpy, and scikit-learn), and 
 
 ### Increased Adoption of AI and Machine Learning
 
-The future of incremental analysis in [algorithmic trading](../a/accountability.md) [will](../w/will.md) likely see increased adoption of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning. These technologies can process vast amounts of data and uncover insights that were previously not visible, thereby making incremental analysis even more powerful.
+The future of incremental analysis in [algorithmic trading](../a/accountability.md) [will](../w/will.md) likely see increased adoption of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md). These technologies can process vast amounts of data and uncover insights that were previously not visible, thereby making incremental analysis even more powerful.
 
 ### Real-Time Incremental Analysis
 

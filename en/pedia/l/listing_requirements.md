@@ -111,7 +111,7 @@ With advancements in technology, stock exchanges are continually updating their 
 
 1. **Digital Platforms**: Utilizing digital platforms for submission and review of listing applications.
 2. **[Blockchain](../b/blockchain_in_trading.md)**: Exploring [blockchain](../b/blockchain_in_trading.md) technology for transparent and secure record-keeping.
-3. **AI and Machine Learning**: Leveraging AI/ML to assess and monitor compliance with listing requirements.
+3. **AI and [Machine Learning](../m/machine_learning.md)**: Leveraging AI/ML to assess and monitor compliance with listing requirements.
 
 ## The Impact of Listing on Companies
 

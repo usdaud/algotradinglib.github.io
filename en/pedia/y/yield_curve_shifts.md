@@ -76,7 +76,7 @@ Algo [trading systems](../t/trading_systems.md) can be designed to [hedge](../h/
 
 ### Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) strategies use historical data and statistical models to identify patterns and mean-reverting behaviors in [yield](../y/yield.md) differentials. [Yield curve](../y/yield_curve.md) shifts are a key component of these models, helping algorithms to predict short-term price movements and execute trades accordingly. These strategies require sophisticated data analysis and machine learning techniques.
+Statistical [arbitrage](../a/arbitrage.md) strategies use historical data and statistical models to identify patterns and mean-reverting behaviors in [yield](../y/yield.md) differentials. [Yield curve](../y/yield_curve.md) shifts are a key component of these models, helping algorithms to predict short-term price movements and execute trades accordingly. These strategies require sophisticated data analysis and [machine learning](../m/machine_learning.md) techniques.
 
 ## Conclusion
 

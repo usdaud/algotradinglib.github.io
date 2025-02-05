@@ -56,7 +56,7 @@ VSAT is also used for precision farming and agricultural monitoring. Remote sens
 
 ## Technological Advances and Future Trends
 
-The VSAT [industry](../i/industry.md) is continuously evolving with advancements in satellite technology, modulation schemes, and data compression techniques. Key trends include:
+The VSAT [industry](../i/industry.md) is continuously evolving with advancements in satellite technology, modulation schemes, and data [compression techniques](../c/compression_techniques.md). Key trends include:
 
 ### High Throughput Satellites (HTS)
 

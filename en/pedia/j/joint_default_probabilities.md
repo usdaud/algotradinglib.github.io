@@ -83,7 +83,7 @@ The global [financial crisis](../f/financial_crisis.md) of 2007-2008 highlighted
 
 ### Machine Learning and AI
 
-Advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) [offer](../o/offer.md) new opportunities for improving [Joint](../j/joint.md) [Default](../d/default.md) Probability estimation. Techniques such as [neural networks](../n/neural_networks_in_trading.md), ensemble methods, and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) can uncover complex patterns in vast amounts of data, enhancing the accuracy of [credit risk models](../c/credit_risk_models.md).
+Advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) [offer](../o/offer.md) new opportunities for improving [Joint](../j/joint.md) [Default](../d/default.md) Probability estimation. Techniques such as [neural networks](../n/neural_networks_in_trading.md), ensemble methods, and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) can uncover complex patterns in vast amounts of data, enhancing the accuracy of [credit risk models](../c/credit_risk_models.md).
 
 ### Blockchain and Big Data
 

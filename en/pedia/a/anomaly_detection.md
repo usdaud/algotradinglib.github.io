@@ -23,8 +23,8 @@ Several techniques are used in the field of [anomaly](../a/anomaly.md) detection
 
 ### Machine Learning Techniques
 
-1. **Supervised Learning**: Algorithms like [Decision Trees](../d/decision_trees.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), or [Neural Networks](../n/neural_networks_in_trading.md) can be trained on labeled datasets to recognize anomalies.
-2. **Unsupervised Learning**: Techniques such as Clustering (e.g., K-Means, DBSCAN) or Autoencoders in [Neural Networks](../n/neural_networks_in_trading.md) do not require labeled datasets and detect anomalies based on unusual patterns.
+1. **[Supervised Learning](../s/supervised_learning.md)**: Algorithms like [Decision Trees](../d/decision_trees.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), or [Neural Networks](../n/neural_networks_in_trading.md) can be trained on labeled datasets to recognize anomalies.
+2. **[Unsupervised Learning](../u/unsupervised_learning.md)**: Techniques such as Clustering (e.g., K-Means, DBSCAN) or Autoencoders in [Neural Networks](../n/neural_networks_in_trading.md) do not require labeled datasets and detect anomalies based on unusual patterns.
 
 ### Time Series Analysis
 
@@ -51,7 +51,7 @@ Several techniques are used in the field of [anomaly](../a/anomaly.md) detection
 Several companies specialize in providing [anomaly](../a/anomaly.md) detection solutions tailored for [financial markets](../f/financial_market.md):
 
 1. **Kensho Technologies**: Kensho provides tools for real-time [market](../m/market.md) event detection and analysis. More information can be found on their [website](https://www.kensho.com/).
-2. **AIQLabs**: AIQLabs offers advanced machine learning solutions for [market](../m/market.md) [anomaly](../a/anomaly.md) detection and [predictive analytics](../p/predictive_analytics.md). Visit their [website](https://aiqlabs.com/).
+2. **AIQLabs**: AIQLabs offers advanced [machine learning](../m/machine_learning.md) solutions for [market](../m/market.md) [anomaly](../a/anomaly.md) detection and [predictive analytics](../p/predictive_analytics.md). Visit their [website](https://aiqlabs.com/).
 3. **HawkEye by TradeIdeas**: This tool helps traders identify unusual [market](../m/market.md) behavior through advanced scanning and analytics. Details can be accessed on their [website](https://www.trade-ideas.com/).
 
 ## Challenges and Future Directions
@@ -65,7 +65,7 @@ While [anomaly](../a/anomaly.md) detection is powerful, it comes with challenges
 
 Future advancements in [anomaly](../a/anomaly.md) detection might focus on:
 
-1. **Enhanced [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Developing more [robust](../r/robust.md) and adaptive machine learning models.
+1. **Enhanced [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Developing more [robust](../r/robust.md) and adaptive [machine learning](../m/machine_learning.md) models.
 2. **Integration with [Big Data](../b/big_data_in_trading.md)**: Leveraging vast datasets for better [pattern recognition](../p/pattern_recognition.md).
 3. **Real-Time Analytics**: Improving speed and [efficiency](../e/efficiency.md) for real-time decision making.
 4. **Interdisciplinary Approaches**: Combining [finance](../f/finance.md), [statistics](../s/statistics.md), and computer science for holistic solutions.

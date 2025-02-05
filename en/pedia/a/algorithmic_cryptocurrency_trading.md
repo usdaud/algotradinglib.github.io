@@ -75,7 +75,7 @@ The regulatory environment for algorithmic cryptocurrency trading varies across 
 [Trading strategies](../t/trading_strategies.md) in algorithmic cryptocurrency trading are usually data-driven. Some advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) include:
 
 - **Statistical [Arbitrage](../a/arbitrage.md)**: This involves using statistical methods to identify and exploit [market](../m/market.md) inefficiencies.
-- **Machine Learning (ML)**: Algorithms that use ML techniques to predict [market](../m/market.md) prices and identify [trading signals](../t/trading_signals.md).
+- **[Machine Learning](../m/machine_learning.md) (ML)**: Algorithms that use ML techniques to predict [market](../m/market.md) prices and identify [trading signals](../t/trading_signals.md).
 - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Leveraging [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to gauge [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and other sources.
 
 ## Challenges and Opportunities
@@ -89,7 +89,7 @@ The regulatory environment for algorithmic cryptocurrency trading varies across 
 
 - **Decentralized [Finance](../f/finance.md) (DeFi)**: The rise of DeFi projects and platforms opens up new avenues for [algorithmic trading](../a/algorithmic_trading.md).
 - **Cross-[Exchange](../e/exchange.md) [Arbitrage](../a/arbitrage.md)**: Varying prices across different exchanges can be exploited for [profit](../p/profit.md).
-- **Innovation in Technology**: Advancements in AI, machine learning, and [quantitative finance](../q/quantitative_finance.md) present continuous opportunities for smarter and faster [trading algorithms](../t/trading_algorithms.md).
+- **Innovation in Technology**: Advancements in AI, [machine learning](../m/machine_learning.md), and [quantitative finance](../q/quantitative_finance.md) present continuous opportunities for smarter and faster [trading algorithms](../t/trading_algorithms.md).
 
 ## Conclusion
 

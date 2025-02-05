@@ -40,7 +40,7 @@ Once the data is prepared, the next step is to identify trends. Common methods i
 Using the identified trends, traders can develop models to predict future price movements. Techniques include:
 
 - **[Regression Analysis](../r/regression_analysis.md):** Statistical methods to determine the relationship between variables.
-- **Machine Learning:** Algorithms that can learn from historical data to make predictions, such as [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md).
+- **[Machine Learning](../m/machine_learning.md):** Algorithms that can learn from historical data to make predictions, such as [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md).
 
 - **Time-Series Analysis:** Using methods like ARIMA (AutoRegressive Integrated Moving Average) to model and forecast based on time-series data.
 
@@ -48,7 +48,7 @@ Using the identified trends, traders can develop models to predict future price 
 
 Several tools and technologies are available to facilitate historical [trend analysis](../t/trend_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **Python and R:** Popular programming languages with extensive libraries for data analysis and machine learning, such as pandas, scikit-learn, and TensorFlow.
+- **Python and R:** Popular programming languages with extensive libraries for data analysis and [machine learning](../m/machine_learning.md), such as pandas, scikit-learn, and [TensorFlow](../t/tensorflow.md).
 - **MATLAB:** A high-level technical computing environment that includes functions for statistical analysis, visualization, and algorithm development.
 - **[Data Visualization](../d/data_visualization.md) Tools:** Tools like Tableau and Power BI for creating visual representations of data to identify trends more easily.
 - **Trading Platforms:** Specialized platforms like MetaTrader and [TradingView](../t/tradingview.md) that [offer](../o/offer.md) built-in [technical indicators](../t/technical_indicators.md) and charting tools.

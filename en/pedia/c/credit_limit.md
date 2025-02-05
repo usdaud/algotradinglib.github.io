@@ -46,7 +46,7 @@ Effective management of [credit](../c/credit.md) limits is crucial to maintainin
 
 Technological advancements and evolving financial landscapes continually influence [credit](../c/credit.md) limits and their management. Here are some recent trends and innovations:
 
-1. **[Data Analytics](../d/data_analytics.md)**: Financial institutions increasingly use advanced [data analytics](../d/data_analytics.md) and machine learning to assess [creditworthiness](../c/creditworthiness.md) and determine [credit](../c/credit.md) limits more accurately.
+1. **[Data Analytics](../d/data_analytics.md)**: Financial institutions increasingly use advanced [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) to assess [creditworthiness](../c/creditworthiness.md) and determine [credit](../c/credit.md) limits more accurately.
 2. **[Alternative Data](../a/alternative_data.md)**: [Non-traditional data sources](../n/non-traditional_data_sources.md), such as [utility](../u/utility.md) payments and [social media](../s/social_media.md) activity, are being used to evaluate [credit](../c/credit.md) limits, especially for individuals with limited [credit](../c/credit.md) history.
 3. **Dynamic [Credit](../c/credit.md) Limits**: Some institutions are adopting dynamic [credit](../c/credit.md) limits that adjust in real-time based on the borrower’s financial behavior and changing [risk](../r/risk.md) profile.
 4. **Fintech Solutions**: Fintech companies are [offering](../o/offering.md) innovative ways to set and manage [credit](../c/credit.md) limits. For instance, companies like Affirm and Afterpay allow consumers to make purchases on a [budget](../b/budget.md) with clear limits and [repayment](../r/repayment.md) plans.

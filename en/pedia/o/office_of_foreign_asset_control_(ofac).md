@@ -49,7 +49,7 @@ Non-compliance can lead to significant penalties. For example, in 2019, Standard
 
 ### Automated Screening
 
-With the growing complexity and [volume](../v/volume.md) of global transactions, fintech solutions have become pivotal for enhancing OFAC compliance. Advanced algorithms and machine learning models are employed to refine automated screening capabilities, reducing false positives and improving the detection of true matches.
+With the growing complexity and [volume](../v/volume.md) of global transactions, fintech solutions have become pivotal for enhancing OFAC compliance. Advanced algorithms and [machine learning](../m/machine_learning.md) models are employed to refine automated screening capabilities, reducing false positives and improving the detection of true matches.
 
 ### Blockchain and Cryptocurrencies
 

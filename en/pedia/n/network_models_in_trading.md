@@ -4,7 +4,7 @@
 
 In the modern financial [market](../m/market.md), trading has emerged as predominantly automated with the proliferation of high-frequency trading (HFT), [algorithmic trading](../a/algorithmic_trading.md), and [quantitative trading](../q/quantitative_trading.md) strategies. Network models have become crucial tools for traders and firms to understand, predict, and exploit [asset](../a/asset.md) price movements. By using these models, trading entities can better grasp the complex relationships between different [market](../m/market.md) variables and improve prediction accuracy, enhance decision-making, and optimize [trading strategies](../t/trading_strategies.md).
 
-Network models [leverage](../l/leverage.md) concepts from [graph theory](../g/graph_theory_in_trading.md), machine learning, and statistical analysis to provide detailed insights into [market dynamics](../m/market_dynamics.md). They help traders identify patterns, relationships, and anomalies in financial data that human traders might overlook. This document explores the intricacies of network models in trading, their applications, key methodologies, and benefits.
+Network models [leverage](../l/leverage.md) concepts from [graph theory](../g/graph_theory_in_trading.md), [machine learning](../m/machine_learning.md), and statistical analysis to provide detailed insights into [market dynamics](../m/market_dynamics.md). They help traders identify patterns, relationships, and anomalies in financial data that human traders might overlook. This document explores the intricacies of network models in trading, their applications, key methodologies, and benefits.
 
 ## Basics of Network Models
 
@@ -78,7 +78,7 @@ JPMorgan Chase uses network models for [risk management](../r/risk_management.md
 
 ### Two Sigma
 
-Two Sigma, a quantitative investment [firm](../f/firm.md), employs advanced network models to perfect their [trading algorithms](../t/trading_algorithms.md). By using machine learning and [big data analytics](../b/big_data_analytics_in_trading.md), Two Sigma creates [robust](../r/robust.md) network models that provide deep insights into [market](../m/market.md) behavior.
+Two Sigma, a quantitative investment [firm](../f/firm.md), employs advanced network models to perfect their [trading algorithms](../t/trading_algorithms.md). By using [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md), Two Sigma creates [robust](../r/robust.md) network models that provide deep insights into [market](../m/market.md) behavior.
 
 **Reference**: [Two Sigma](https://www.twosigma.com)
 

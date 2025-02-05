@@ -24,7 +24,7 @@ There are several types of [neural networks](../n/neural_networks_in_trading.md)
 
 4. **Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs)**: Originally developed for image processing, CNNs can also be adapted for financial data by treating [time series](../t/time_series.md) as one-dimensional images. They excel in extracting local patterns and features.
 
-5. **Generative Adversarial Networks (GANs)**: Comprising two [neural networks](../n/neural_networks_in_trading.md) (generator and discriminator) that compete with each other, GANs can generate realistic synthetic data, which can be used to enhance the robustness of [trading models](../t/trading_models.md).
+5. **[Generative Adversarial Networks](../g/generative_adversarial_networks.md) (GANs)**: Comprising two [neural networks](../n/neural_networks_in_trading.md) (generator and discriminator) that compete with each other, GANs can generate realistic synthetic data, which can be used to enhance the robustness of [trading models](../t/trading_models.md).
 
 ### Data Preparation for Neural Network Forecasting
 
@@ -66,9 +66,9 @@ Several financial institutions and technology companies have successfully implem
 
 1. **JPMorgan Chase**: The investment [bank](../b/bank.md) has explored the use of [deep learning](../d/deep_learning.md) techniques, including [neural networks](../n/neural_networks_in_trading.md), to enhance their [trading strategies](../t/trading_strategies.md). More information can be found on their [official site](https://www.jpmorganchase.com/).
 
-2. **Goldman Sachs**: The [firm](../f/firm.md) has invested significantly in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, utilizing [neural networks](../n/neural_networks_in_trading.md) for improving trading decisions and [risk management](../r/risk_management.md). Additional details are available on their [official site](https://www.goldmansachs.com/).
+2. **Goldman Sachs**: The [firm](../f/firm.md) has invested significantly in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), utilizing [neural networks](../n/neural_networks_in_trading.md) for improving trading decisions and [risk management](../r/risk_management.md). Additional details are available on their [official site](https://www.goldmansachs.com/).
 
-3. **Numerai**: A [hedge fund](../h/hedge_fund.md) that uses a crowdsourcing approach to develop machine learning models, including [neural networks](../n/neural_networks_in_trading.md), for [stock market](../s/stock_market.md) prediction. Contributors build models using anonymized data and are incentivized based on performance. Learn more on their [official site](https://numer.ai/).
+3. **Numerai**: A [hedge fund](../h/hedge_fund.md) that uses a crowdsourcing approach to develop [machine learning](../m/machine_learning.md) models, including [neural networks](../n/neural_networks_in_trading.md), for [stock market](../s/stock_market.md) prediction. Contributors build models using anonymized data and are incentivized based on performance. Learn more on their [official site](https://numer.ai/).
 
 4. **Kensho Technologies**: Acquired by S&P Global, Kensho leverages [deep learning](../d/deep_learning.md) and [neural networks](../n/neural_networks_in_trading.md) to analyze and predict financial [market](../m/market.md) trends, providing actionable insights to investors. Visit their [official site](https://www.kensho.com/).
 

@@ -14,7 +14,7 @@ Efficient **data storage** systems are vital due to the immense [volume](../v/vo
 
 ### 3. Algorithm Development
 
-Algorithms are the core entities responsible for decision-making. They can [range](../r/range.md) from **simple moving averages** and [mean reversion](../m/mean_reversion.md) strategies to **complex machine learning models**. The development process often includes:
+Algorithms are the core entities responsible for decision-making. They can [range](../r/range.md) from **simple moving averages** and [mean reversion](../m/mean_reversion.md) strategies to **complex [machine learning](../m/machine_learning.md) models**. The development process often includes:
 
 - **[Backtesting](../b/backtesting.md):** Evaluating algorithm performance on historical data.
 - **[Optimization](../o/optimization.md):** Tuning parameters to enhance [efficiency](../e/efficiency.md) and profitability.
@@ -102,7 +102,7 @@ Several companies have excelled in [algorithmic trading](../a/accountability.md)
   [Kx Systems](https://kx.com/products/kdb/)
 - **[TradeStation](../t/tradestation.md):** Provides tools and support for developing and [backtesting trading strategies](../b/backtesting_trading_strategies.md).
   [TradeStation](https://www.tradestation.com)
-- **Two Sigma:** A [hedge fund](../h/hedge_fund.md) that extensively employs machine learning and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
+- **Two Sigma:** A [hedge fund](../h/hedge_fund.md) that extensively employs [machine learning](../m/machine_learning.md) and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
   [Two Sigma](https://www.twosigma.com)
 
 ## Conclusion

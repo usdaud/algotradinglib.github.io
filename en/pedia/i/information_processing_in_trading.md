@@ -40,7 +40,7 @@ Efficient data storage and management are critical due to the vast volumes of da
 A wide array of techniques is utilized for analyzing trading data:
 
 1. **Statistical Analysis:** Tools like [regression analysis](../r/regression_analysis.md) and [hypothesis testing](../h/hypothesis_testing.md) help identify patterns and correlations.
-2. **Machine Learning:** Algorithms such as [decision trees](../d/decision_trees.md), [neural networks](../n/neural_networks_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are used for [predictive modeling](../p/predictive_modeling.md).
+2. **[Machine Learning](../m/machine_learning.md):** Algorithms such as [decision trees](../d/decision_trees.md), [neural networks](../n/neural_networks_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are used for [predictive modeling](../p/predictive_modeling.md).
 3. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP):** Techniques for processing and analyzing text data from financial news and reports.
 4. **[Technical Analysis](../t/technical_analysis.md):** The study of historical [market](../m/market.md) data to forecast future price movements using indicators like moving averages and [Bollinger Bands](../b/bollinger_bands.md).
 
@@ -87,7 +87,7 @@ Ongoing technological advancements continually reshape information processing in
 ## Case Studies
 
 - **Renaissance Technologies:** Known for its Medallion [Fund](../f/fund.md), this [firm](../f/firm.md) employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and [robust](../r/robust.md) data processing techniques ([Renaissance Technologies](https://www.rentec.com/)).
-- **Two Sigma:** Utilizes machine learning and vast amounts of data for trading across global markets ([Two Sigma](https://www.twosigma.com)).
+- **Two Sigma:** Utilizes [machine learning](../m/machine_learning.md) and vast amounts of data for trading across global markets ([Two Sigma](https://www.twosigma.com)).
 
 ## Conclusion
 

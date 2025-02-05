@@ -79,7 +79,7 @@ Various regulations may impact how negative [equity](../e/equity.md) situations 
 
 ### Data Analytics and Machine Learning
 - **[Predictive Analytics](../p/predictive_analytics.md):** Using historical data to predict future [asset](../a/asset.md) [value](../v/value.md) trends can help mitigate negative [equity](../e/equity.md) risks.
-- **[Credit Risk Models](../c/credit_risk_models.md):** Implementing machine learning models to assess and monitor borrower [risk profiles](../r/risk_profiles.md).
+- **[Credit Risk Models](../c/credit_risk_models.md):** Implementing [machine learning](../m/machine_learning.md) models to assess and monitor borrower [risk profiles](../r/risk_profiles.md).
 
 ### Financial Products and Fintech
 - **[Equity](../e/equity.md) Release Products:** Financial products that allow homeowners to release [equity](../e/equity.md) from their properties.

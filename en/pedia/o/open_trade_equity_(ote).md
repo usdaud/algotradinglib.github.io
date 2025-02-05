@@ -128,7 +128,7 @@ Traders must be aware of regulatory requirements related to [margin](../m/margin
 
 ### Artificial Intelligence and Machine Learning
 
-The integration of AI and machine learning in trading platforms is enhancing the accuracy and [efficiency](../e/efficiency.md) of OTE calculations. [Predictive analytics tools](../p/predictive_analytics_tools.md) are being developed to forecast potential changes in OTE based on historical data and [market](../m/market.md) trends.
+The integration of AI and [machine learning](../m/machine_learning.md) in trading platforms is enhancing the accuracy and [efficiency](../e/efficiency.md) of OTE calculations. [Predictive analytics tools](../p/predictive_analytics_tools.md) are being developed to forecast potential changes in OTE based on historical data and [market](../m/market.md) trends.
 
 ### Blockchain Technology
 

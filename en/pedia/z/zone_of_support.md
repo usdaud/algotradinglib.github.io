@@ -29,7 +29,7 @@ For manual traders, the zone of support is a critical aspect of [technical analy
 ### Algorithmic Trading
 In [algorithmic trading](../a/accountability.md), integrating support zones can enhance the profitability and robustness of [trading strategies](../t/trading_strategies.md). For example:
 - **Rule-Based Systems**: Algorithms can be programmed to execute buy orders when prices enter the support zone, and [stop-loss orders](../s/stop-loss_orders.md) just below it.
-- **Machine Learning Models**: Advanced models can be trained to identify support zones based on historical data and [market](../m/market.md) conditions, improving predictive capabilities.
+- **[Machine Learning](../m/machine_learning.md) Models**: Advanced models can be trained to identify support zones based on historical data and [market](../m/market.md) conditions, improving predictive capabilities.
 
 ### Real-World Example
 Consider the S&P 500 [index](../i/index_instrument.md), which has historically shown strong support at certain levels, such as the 2000-point [range](../r/range.md). During [market](../m/market.md) corrections, traders and algorithms alike monitor these zones closely for potential buy opportunities.

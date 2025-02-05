@@ -79,7 +79,7 @@ Where:
 
 ### Machine Learning
 
-In machine learning models used for trading, standard deviation is often a feature in time-series data preprocessing. It helps in normalizing data and improving the accuracy of [predictive models](../p/predictive_models_in_trading.md).
+In [machine learning](../m/machine_learning.md) models used for trading, standard deviation is often a feature in time-series data preprocessing. It helps in normalizing data and improving the accuracy of [predictive models](../p/predictive_models_in_trading.md).
 
 ## Fintech and Standard Deviation
 

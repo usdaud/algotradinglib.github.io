@@ -78,7 +78,7 @@ Tesco, one of the largest supermarket chains in the UK, relies on LFL sales to a
 
 ### Technology Integration
 
-As technology advances, businesses are increasingly integrating sophisticated [data analytics](../d/data_analytics.md) tools to enhance the accuracy and relevance of LFL sales. Advanced algorithms and machine learning techniques help filter out [noise](../n/noise.md) and provide deeper insights into sales trends.
+As technology advances, businesses are increasingly integrating sophisticated [data analytics](../d/data_analytics.md) tools to enhance the accuracy and relevance of LFL sales. Advanced algorithms and [machine learning](../m/machine_learning.md) techniques help filter out [noise](../n/noise.md) and provide deeper insights into sales trends.
 
 ### E-commerce Impact
 

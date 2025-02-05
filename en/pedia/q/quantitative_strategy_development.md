@@ -36,7 +36,7 @@ Statistical [arbitrage](../a/arbitrage.md) is a [market](../m/market.md)-[neutra
 
 ### Machine Learning
 
-Machine learning involves training algorithms to recognize patterns in data, make predictions, and improve over time. In [quantitative trading](../q/quantitative_trading.md), machine learning models are used to predict price movements, classify [market](../m/market.md) regimes, and optimize [trading strategies](../t/trading_strategies.md). Techniques include supervised learning, unsupervised learning, and reinforcement learning.
+[Machine learning](../m/machine_learning.md) involves training algorithms to recognize patterns in data, make predictions, and improve over time. In [quantitative trading](../q/quantitative_trading.md), [machine learning](../m/machine_learning.md) models are used to predict price movements, classify [market](../m/market.md) regimes, and optimize [trading strategies](../t/trading_strategies.md). Techniques include [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md).
 
 ### Factor-Based Investing
 
@@ -70,7 +70,7 @@ Renaissance Technologies is a [hedge fund](../h/hedge_fund.md) management compan
 Website: [Renaissance Technologies](https://www.rentec.com)
 
 ### Two Sigma
-Two Sigma is a financial technology and [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to identify investment opportunities. The company combines machine learning, distributed computing, and vast amounts of data to develop [quantitative trading](../q/quantitative_trading.md) strategies.
+Two Sigma is a financial technology and [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to identify investment opportunities. The company combines [machine learning](../m/machine_learning.md), distributed computing, and vast amounts of data to develop [quantitative trading](../q/quantitative_trading.md) strategies.
 
 Website: [Two Sigma](https://www.twosigma.com)
 
@@ -90,10 +90,10 @@ Citadel is a global financial institution that uses proprietary models and [quan
 Website: [Citadel LLC](https://www.citadel.com)
 
 ### WorldQuant
-WorldQuant is a global quantitative investment [firm](../f/firm.md) that uses rigorous scientific methods to develop and deploy advanced [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) leverages [big data](../b/big_data_in_trading.md), machine learning, and distributed computing to achieve its investment goals.
+WorldQuant is a global quantitative investment [firm](../f/firm.md) that uses rigorous scientific methods to develop and deploy advanced [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) leverages [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to achieve its investment goals.
 
 Website: [WorldQuant](https://www.worldquant.com)
 
 ## Conclusion
 
-Quantitative strategy development is an intricate process that requires a blend of theoretical knowledge, practical skills, and technological prowess. By leveraging data, [mathematical models](../m/mathematical_models_in_trading.md), and computational techniques, traders can develop [robust](../r/robust.md) and profitable [trading strategies](../t/trading_strategies.md). With the ongoing advancements in machine learning and [data analytics](../d/data_analytics.md), [quantitative strategies](../q/quantitative_strategies_in_trading.md) continue to evolve, [offering](../o/offering.md) new opportunities and challenges in the world of [algorithmic trading](../a/algorithmic_trading.md).
+Quantitative strategy development is an intricate process that requires a blend of theoretical knowledge, practical skills, and technological prowess. By leveraging data, [mathematical models](../m/mathematical_models_in_trading.md), and computational techniques, traders can develop [robust](../r/robust.md) and profitable [trading strategies](../t/trading_strategies.md). With the ongoing advancements in [machine learning](../m/machine_learning.md) and [data analytics](../d/data_analytics.md), [quantitative strategies](../q/quantitative_strategies_in_trading.md) continue to evolve, [offering](../o/offering.md) new opportunities and challenges in the world of [algorithmic trading](../a/algorithmic_trading.md).

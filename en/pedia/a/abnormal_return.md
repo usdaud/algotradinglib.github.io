@@ -66,7 +66,7 @@ Abnormal returns are significant for a variety of reasons:
 
 #### Quantitative Hedge Funds
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md) often [leverage](../l/leverage.md) sophisticated algorithms and statistical models to identify and [capitalize](../c/capitalize.md) on abnormal returns. These funds rely on a [range](../r/range.md) of data sources and techniques such as machine learning, to find inefficiencies in the [market](../m/market.md).
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) often [leverage](../l/leverage.md) sophisticated algorithms and statistical models to identify and [capitalize](../c/capitalize.md) on abnormal returns. These funds rely on a [range](../r/range.md) of data sources and techniques such as [machine learning](../m/machine_learning.md), to find inefficiencies in the [market](../m/market.md).
 
 For example, **Two Sigma** [two sigma](https://www.twosigma.com/) is a known quantitative [fund](../f/fund.md) that employs vast amounts of data and [predictive models](../p/predictive_models_in_trading.md) to detect abnormal returns and exploit these opportunities through [algorithmic trading](../a/accountability.md).
 

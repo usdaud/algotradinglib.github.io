@@ -55,8 +55,8 @@ Certain algorithmic approaches can be inherently more robust, especially if they
    - [Genetic algorithms](../g/genetic_algorithms_in_trading.md) mimic natural selection to evolve [trading strategies](../t/trading_strategies.md) based on their performance.
    - They can adapt to new [market](../m/market.md) environments over time, enhancing robustness.
 
-2. **Machine Learning and AI**:
-   - [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md), especially those involving reinforcement learning, can continuously learn and adjust strategies based on new data.
+2. **[Machine Learning](../m/machine_learning.md) and AI**:
+   - [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md), especially those involving [reinforcement learning](../r/reinforcement_learning.md), can continuously learn and adjust strategies based on new data.
    - AI-driven systems can recognize complex patterns and adapt dynamically, contributing to robustness.
 
 3. **Ensemble Methods**:
@@ -126,4 +126,4 @@ MSCI Inc. (https://www.msci.com/) offers robust financial models and [index](../
 
 ## Conclusion
 
-Robustness is a critical attribute in trading, [finance](../f/finance.md), and related technological infrastructures. It ensures that [trading systems](../t/trading_systems.md), financial models, and technological architectures perform reliably across diverse and unpredictable conditions. Building and maintaining robustness involves a combination of advanced techniques like Monte Carlo simulations, machine learning, [stress testing](../s/stress_testing.md), and high-quality data management. By prioritizing robustness, financial institutions and traders can better manage risks, enhance performance, and achieve greater stability in their operations.
+Robustness is a critical attribute in trading, [finance](../f/finance.md), and related technological infrastructures. It ensures that [trading systems](../t/trading_systems.md), financial models, and technological architectures perform reliably across diverse and unpredictable conditions. Building and maintaining robustness involves a combination of advanced techniques like Monte Carlo simulations, [machine learning](../m/machine_learning.md), [stress testing](../s/stress_testing.md), and high-quality data management. By prioritizing robustness, financial institutions and traders can better manage risks, enhance performance, and achieve greater stability in their operations.

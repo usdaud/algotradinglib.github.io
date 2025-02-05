@@ -136,7 +136,7 @@ The internal models employed under the IRB approach can introduce subjectivity, 
 
 ### Advancements in Risk Modeling
 
-With advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), more sophisticated [risk](../r/risk.md) modeling techniques are emerging. These new techniques can provide more accurate RWAs by identifying complex [risk factors](../r/risk_factors_in_trading.md) previously unaccounted for.
+With advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), more sophisticated [risk](../r/risk.md) modeling techniques are emerging. These new techniques can provide more accurate RWAs by identifying complex [risk factors](../r/risk_factors_in_trading.md) previously unaccounted for.
 
 ### Adjustment to Economic Changes
 

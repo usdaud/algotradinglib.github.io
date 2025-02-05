@@ -77,7 +77,7 @@ The [insurance](../i/insurance.md) [industry](../i/industry.md) is undergoing a 
 
 ### InsurTech
 
-[InsurTech](../i/insurtech.md) refers to the use of technology to innovate and improve [insurance](../i/insurance.md) services. It encompasses a wide [range](../r/range.md) of technologies, from [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) to Internet of Things (IoT) devices and [blockchain](../b/blockchain_in_trading.md). [InsurTech](../i/insurtech.md) startups are challenging traditional [insurance](../i/insurance.md) models by [offering](../o/offering.md) innovative solutions like on-[demand](../d/demand.md) [insurance](../i/insurance.md), personalized pricing models, and streamlined claims processes.
+[InsurTech](../i/insurtech.md) refers to the use of technology to innovate and improve [insurance](../i/insurance.md) services. It encompasses a wide [range](../r/range.md) of technologies, from [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) to Internet of Things (IoT) devices and [blockchain](../b/blockchain_in_trading.md). [InsurTech](../i/insurtech.md) startups are challenging traditional [insurance](../i/insurance.md) models by [offering](../o/offering.md) innovative solutions like on-[demand](../d/demand.md) [insurance](../i/insurance.md), personalized pricing models, and streamlined claims processes.
 
 ### Big Data and Analytics
 

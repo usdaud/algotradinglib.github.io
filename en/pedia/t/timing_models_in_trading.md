@@ -44,7 +44,7 @@ The [mean reversion](../m/mean_reversion.md) model is based on the principle tha
 
 ### Machine Learning Models
 
-In recent years, machine learning has revolutionized [timing models](../t/timing_models.md) by introducing algorithms that can learn from vast datasets and improve over time. These models use techniques such as regression, clustering, and [neural networks](../n/neural_networks_in_trading.md) to analyze patterns and predict future movements. Machine learning models are highly adaptive and can incorporate non-linear relationships and complex interdependencies.
+In recent years, [machine learning](../m/machine_learning.md) has revolutionized [timing models](../t/timing_models.md) by introducing algorithms that can learn from vast datasets and improve over time. These models use techniques such as regression, clustering, and [neural networks](../n/neural_networks_in_trading.md) to analyze patterns and predict future movements. [Machine learning](../m/machine_learning.md) models are highly adaptive and can incorporate non-linear relationships and complex interdependencies.
 
 **Example**: A neural network trained on historical price data, news sentiment, and [economic indicators](../e/economic_indicators.md) can provide highly accurate buy and sell signals based on real-time analysis.
 
@@ -80,7 +80,7 @@ While [timing models](../t/timing_models.md) [offer](../o/offer.md) significant 
   
 3. **[Market](../m/market.md) Conditions**: [Timing models](../t/timing_models.md) may be less effective in certain [market](../m/market.md) conditions, such as periods of high [volatility](../v/volatility.md) or low [liquidity](../l/liquidity.md). They may also struggle during [black swan events](../b/black_swan_events.md), where [market dynamics](../m/market_dynamics.md) deviate significantly from historical patterns.
   
-4. **Computational Complexity**: Advanced [timing models](../t/timing_models.md), especially those involving machine learning, require significant computational power and expertise to develop and maintain. This can be a barrier for individual traders and smaller firms.
+4. **Computational Complexity**: Advanced [timing models](../t/timing_models.md), especially those involving [machine learning](../m/machine_learning.md), require significant computational power and expertise to develop and maintain. This can be a barrier for individual traders and smaller firms.
   
 5. **Regulatory Concerns**: Algorithmic and high-frequency [trading strategies](../t/trading_strategies.md) face increasing scrutiny from regulators concerned about [market](../m/market.md) stability and fairness. Traders must ensure their models comply with regulatory requirements.
 

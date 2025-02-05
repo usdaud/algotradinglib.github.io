@@ -196,7 +196,7 @@ Fintech companies are revolutionizing the field of ratio analysis by providing a
 
 1. **Real-Time Analysis**: Platforms like [Koyfin](https://www.koyfin.com) provide real-time financial data and ratio analysis to track [market](../m/market.md) trends and company performance.
 
-2. **Advanced Analytics**: AI and machine learning applications predict future trends and identify hidden patterns within [financial statements](../f/financial_statements.md), as offered by companies like [Sift](https://sift.com).
+2. **Advanced Analytics**: AI and [machine learning](../m/machine_learning.md) applications predict future trends and identify hidden patterns within [financial statements](../f/financial_statements.md), as offered by companies like [Sift](https://sift.com).
 
 3. **User-Friendly Dashboards**: Intuitive platforms such as [Tableau](https://www.salesforce.com/products/tableau/overview/) enable users to visualize and interpret complex financial data easily, enhancing analytical capabilities.
 

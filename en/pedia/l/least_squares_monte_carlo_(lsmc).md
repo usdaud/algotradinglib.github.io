@@ -117,7 +117,7 @@ The dynamics of [financial markets](../f/financial_market.md) present ongoing ch
 
 1. **Enhanced Computational Tools**: Development of more efficient algorithms and utilization of GPU computing to tackle the computational intensity of LSMC.
 2. **Hybrid Models**: Integration of LSMC with other [numerical methods](../n/numerical_methods_in_trading.md) (e.g., [finite difference methods](../f/finite_difference_methods.md)) to improve accuracy and computational [efficiency](../e/efficiency.md).
-3. **Machine Learning Integration**: Employing machine learning techniques to refine regression steps and optimize the [basis](../b/basis.md) functions for better estimation of continuation values.
+3. **[Machine Learning](../m/machine_learning.md) Integration**: Employing [machine learning](../m/machine_learning.md) techniques to refine regression steps and optimize the [basis](../b/basis.md) functions for better estimation of continuation values.
 4. **Stochastic [Volatility](../v/volatility.md) and [Jump Processes](../j/jump_processes_in_trading.md)**: Extending LSMC to accommodate more complex [stochastic processes](../s/stochastic_processes.md) involving [volatility clustering](../v/volatility_clustering.md) or jumps in [asset](../a/asset.md) prices.
 
 In conclusion, Least Squares Monte Carlo remains an indispensable technique in the toolbox of financial engineers and quantitative analysts, [offering](../o/offering.md) a [robust](../r/robust.md) framework for tackling the intricacies of [American option](../a/american_option.md) pricing and beyond.

@@ -26,21 +26,21 @@
 
 ### Supervised Learning
 
-Supervised learning involves training a model on a labeled dataset. In the context of [algorithmic trading](../a/algorithmic_trading.md), it helps predict future stock prices, classify [market](../m/market.md) regimes, or signal the buy/sell decision. Common algorithms include:
+[Supervised learning](../s/supervised_learning.md) involves training a model on a labeled dataset. In the context of [algorithmic trading](../a/algorithmic_trading.md), it helps predict future stock prices, classify [market](../m/market.md) regimes, or signal the buy/sell decision. Common algorithms include:
 - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Effective for high-dimensional spaces.
 - **Random Forest**: An ensemble method that uses [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md).
 - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models that can capture complex relationships in data.
 
 ### Unsupervised Learning
 
-Unsupervised learning finds hidden patterns or intrinsic structures in input data without labeled responses. This is particularly useful for clustering [stocks](../s/stock.md), identifying co-movements, and [anomaly detection](../a/anomaly_detection.md). Key methods include:
+[Unsupervised learning](../u/unsupervised_learning.md) finds hidden patterns or intrinsic structures in input data without labeled responses. This is particularly useful for clustering [stocks](../s/stock.md), identifying co-movements, and [anomaly detection](../a/anomaly_detection.md). Key methods include:
 - **[K-Means Clustering](../k/k-means_clustering_in_trading.md)**: Groups data into K clusters based on feature similarity.
 - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces dimensionality of the data while preserving as much [variability](../v/variability.md) as possible.
 - **Autoencoders**: [Neural networks](../n/neural_networks_in_trading.md) used for learning encodings of data for purposes like [dimensionality reduction](../d/dimensionality_reduction_in_trading.md).
 
 ### Reinforcement Learning
 
-Reinforcement learning optimizes sequential decision-making tasks through trial and error to maximize cumulative reward. In trading, it is used to design strategies that adapt over time to changing [market](../m/market.md) conditions. The core concepts include:
+[Reinforcement learning](../r/reinforcement_learning.md) optimizes sequential decision-making tasks through trial and error to maximize cumulative reward. In trading, it is used to design strategies that adapt over time to changing [market](../m/market.md) conditions. The core concepts include:
 - **Q-Learning**: A [value](../v/value.md)-based learning algorithm.
 - **Deep Q-Networks (DQN)**: Combines Q-learning with deep [neural networks](../n/neural_networks_in_trading.md).
 - **Policy Gradients**: Directly searches for the optimal policy in the policy space.
@@ -98,7 +98,7 @@ Several software and tools are essential for [quantitative research](../q/quanti
 
 [Cloud computing](../c/cloud_computing_in_trading.md) and high-performance computing enable the processing of large datasets and the running of complex models:
 - **Amazon Web Services (AWS)**: Offers [cloud computing](../c/cloud_computing_in_trading.md) services suited for data-intensive tasks (https://aws.amazon.com/).
-- **Google Cloud Platform (GCP)**: Provides scalable machine learning services (https://cloud.google.com/).
+- **Google Cloud Platform (GCP)**: Provides scalable [machine learning](../m/machine_learning.md) services (https://cloud.google.com/).
 
 ## Ethical Considerations
 
@@ -109,4 +109,4 @@ Several software and tools are essential for [quantitative research](../q/quanti
 
 ## Conclusion
 
-The landscape of [quantitative research](../q/quantitative_research.md) methods in [algorithmic trading](../a/algorithmic_trading.md) is vast and continuously evolving. Whether through statistical techniques, machine learning, financial models, or [optimization](../o/optimization.md), a thorough understanding and application of these methods can significantly enhance the development of [robust](../r/robust.md) and profitable [trading strategies](../t/trading_strategies.md).
+The landscape of [quantitative research](../q/quantitative_research.md) methods in [algorithmic trading](../a/algorithmic_trading.md) is vast and continuously evolving. Whether through statistical techniques, [machine learning](../m/machine_learning.md), financial models, or [optimization](../o/optimization.md), a thorough understanding and application of these methods can significantly enhance the development of [robust](../r/robust.md) and profitable [trading strategies](../t/trading_strategies.md).

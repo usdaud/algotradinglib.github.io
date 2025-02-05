@@ -90,7 +90,7 @@ Ensuring equal access to trading opportunities for both human traders and algori
 The future of hybrid [market](../m/market.md) structures is likely to be shaped by ongoing technological advancements and evolving [market dynamics](../m/market_dynamics.md).
 
 ### 1. Artificial Intelligence and Machine Learning
-The [incorporation](../i/incorporation.md) of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) into [trading strategies](../t/trading_strategies.md) and [market](../m/market.md) analysis is expected to enhance decision-making and predictive capabilities. These technologies can optimize [order routing](../o/order_routing.md), detect trading patterns, and improve [risk management](../r/risk_management.md).
+The [incorporation](../i/incorporation.md) of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) into [trading strategies](../t/trading_strategies.md) and [market](../m/market.md) analysis is expected to enhance decision-making and predictive capabilities. These technologies can optimize [order routing](../o/order_routing.md), detect trading patterns, and improve [risk management](../r/risk_management.md).
 
 ### 2. Blockchain and Distributed Ledger Technology
 [Blockchain](../b/blockchain_in_trading.md) and [distributed ledger technology](../d/distributed_ledger_technology.md) (DLT) have the potential to revolutionize [market](../m/market.md) [infrastructure](../i/infrastructure.md). They can enhance [transparency](../t/transparency.md), reduce settlement times, and improve the [security](../s/security.md) of [trading systems](../t/trading_systems.md).

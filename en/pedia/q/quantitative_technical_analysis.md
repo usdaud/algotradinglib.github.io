@@ -13,7 +13,7 @@ Quantitative [Technical Analysis](../t/technical_analysis.md) is grounded in sev
 
 1. **Data-Driven Decision Making**: QTA emphasizes the use of historical data to make informed trading decisions. This involves cleansing and preprocessing data to ensure its reliability and validity.
 
-2. **Mathematical Modeling**: Models are created based on statistical methods, such as [regression analysis](../r/regression_analysis.md), machine learning, and [stochastic processes](../s/stochastic_processes.md). These models aim to identify and exploit inefficiencies in the [market](../m/market.md).
+2. **Mathematical Modeling**: Models are created based on statistical methods, such as [regression analysis](../r/regression_analysis.md), [machine learning](../m/machine_learning.md), and [stochastic processes](../s/stochastic_processes.md). These models aim to identify and exploit inefficiencies in the [market](../m/market.md).
 
 3. **[Algorithmic Trading](../a/algorithmic_trading.md)**: The use of algorithms to automate trading decisions is central to QTA. These algorithms can execute trades at speeds and frequencies beyond human capabilities, often making split-second decisions based on sophisticated models.
 
@@ -32,7 +32,7 @@ Several techniques and strategies are commonly employed in Quantitative [Technic
 - **[Exponential Smoothing](../e/exponential_smoothing.md)**: Assigns exponentially decreasing weights to past observations, giving more importance to recent data.
 
 ## Machine Learning Models
-Machine learning models are increasingly used in QTA due to their ability to identify non-linear relationships and patterns in large datasets. Common models include:
+[Machine learning](../m/machine_learning.md) models are increasingly used in QTA due to their ability to identify non-linear relationships and patterns in large datasets. Common models include:
 
 - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs)**: Used for classification and regression tasks, identifying decision boundaries within the data.
 - **[Neural Networks](../n/neural_networks_in_trading.md)**: Multi-layered structures that can capture complex patterns, often used for price prediction and [sentiment analysis](../s/sentiment_analysis.md).
@@ -60,7 +60,7 @@ Machine learning models are increasingly used in QTA due to their ability to ide
 Numerous tools and [software platforms](../s/software_platforms_for_trading.md) facilitate Quantitative [Technical Analysis](../t/technical_analysis.md):
 
 - **Matlab**: Widely used for mathematical modeling and algorithm development.
-- **Python**: Popular in the [finance](../f/finance.md) community due to its extensive libraries for data analysis (e.g., Pandas, NumPy), machine learning (e.g., Scikit-learn, TensorFlow), and visualization (e.g., Matplotlib, Seaborn).
+- **Python**: Popular in the [finance](../f/finance.md) community due to its extensive libraries for data analysis (e.g., Pandas, NumPy), [machine learning](../m/machine_learning.md) (e.g., Scikit-learn, [TensorFlow](../t/tensorflow.md)), and visualization (e.g., Matplotlib, Seaborn).
 - **R**: A statistical programming language well-suited for [data mining](../d/data_mining.md) and [time series analysis](../t/time_series_analysis.md).
 - **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source cloud-based platform for [backtesting](../b/backtesting.md) and deploying [quantitative trading](../q/quantitative_trading.md) strategies. [QuantConnect](https://www.quantconnect.com/)
 - **[Multicharts](../m/multicharts.md)**: A professional trading software for strategy trading with built-in [backtesting](../b/backtesting.md) capabilities. [Multicharts](https://www.multicharts.com/)

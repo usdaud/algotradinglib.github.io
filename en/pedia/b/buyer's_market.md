@@ -52,7 +52,7 @@ With the advent of faster computing and more sophisticated [data analytics](../d
 
 ### Current Trends
 
-The current landscape of [algorithmic trading](../a/accountability.md) is characterized by the use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning. These technologies allow for the creation of [adaptive algorithms](../a/adaptive_algorithms.md) that can learn from historical data and act on real-time information, providing a significant edge in a buyer's [market](../m/market.md).
+The current landscape of [algorithmic trading](../a/accountability.md) is characterized by the use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md). These technologies allow for the creation of [adaptive algorithms](../a/adaptive_algorithms.md) that can learn from historical data and act on real-time information, providing a significant edge in a buyer's [market](../m/market.md).
 
 ## Conclusion
 

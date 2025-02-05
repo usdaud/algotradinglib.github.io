@@ -28,7 +28,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), dealing with [uncertainty
 
 ### Techniques for Decision-Making Under Uncertainty
 
-Several techniques help address [uncertainty](../u/uncertainty_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md). These can be broadly classified into statistical, machine learning, and [optimization](../o/optimization.md) approaches.
+Several techniques help address [uncertainty](../u/uncertainty_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md). These can be broadly classified into statistical, [machine learning](../m/machine_learning.md), and [optimization](../o/optimization.md) approaches.
 
 #### Statistical Methods
 
@@ -40,9 +40,9 @@ Several techniques help address [uncertainty](../u/uncertainty_in_trading.md) in
 
 #### Machine Learning Techniques
 
-1. **Reinforcement Learning:** This approach is particularly suited for dynamic environments like [financial markets](../f/financial_market.md). Algorithms learn optimal [trading strategies](../t/trading_strategies.md) by receiving rewards or penalties based on their actions, enabling them to adapt to changing [market](../m/market.md) conditions.
+1. **[Reinforcement Learning](../r/reinforcement_learning.md):** This approach is particularly suited for dynamic environments like [financial markets](../f/financial_market.md). Algorithms learn optimal [trading strategies](../t/trading_strategies.md) by receiving rewards or penalties based on their actions, enabling them to adapt to changing [market](../m/market.md) conditions.
 
-    - **Deep Reinforcement Learning:** Combining [deep learning](../d/deep_learning.md) with reinforcement learning can enhance the algorithm's ability to process complex, high-dimensional data and make better decisions under [uncertainty](../u/uncertainty_in_trading.md).
+    - **Deep [Reinforcement Learning](../r/reinforcement_learning.md):** Combining [deep learning](../d/deep_learning.md) with [reinforcement learning](../r/reinforcement_learning.md) can enhance the algorithm's ability to process complex, high-dimensional data and make better decisions under [uncertainty](../u/uncertainty_in_trading.md).
 
       A relevant company employing these techniques is [AlphaAdvantage](https://www.alpha-advantage.com/).
 
@@ -60,7 +60,7 @@ Several techniques help address [uncertainty](../u/uncertainty_in_trading.md) in
 
 [Algorithmic trading](../a/algorithmic_trading.md) firms and [hedge](../h/hedge.md) funds widely apply decision-making techniques under [uncertainty](../u/uncertainty_in_trading.md) to enhance their [trading systems](../t/trading_systems.md). Some notable firms and their approaches include:
 
-1. **Two Sigma:** This quantitative [hedge fund](../h/hedge_fund.md) uses a combination of machine learning, [big data analytics](../b/big_data_analytics_in_trading.md), and rigorous scientific methods to make data-driven trading decisions. More information can be found on their [website](https://www.twosigma.com/).
+1. **Two Sigma:** This quantitative [hedge fund](../h/hedge_fund.md) uses a combination of [machine learning](../m/machine_learning.md), [big data analytics](../b/big_data_analytics_in_trading.md), and rigorous scientific methods to make data-driven trading decisions. More information can be found on their [website](https://www.twosigma.com/).
 
 2. **[QuantConnect](../q/quantconnect.md):** A platform that provides tools for building, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. It leverages [cloud computing](../c/cloud_computing_in_trading.md) and [open](../o/open.md) data to facilitate decision-making under [uncertainty](../u/uncertainty_in_trading.md). More details are available on their [site](https://www.quantconnect.com/).
 
@@ -68,7 +68,7 @@ Several techniques help address [uncertainty](../u/uncertainty_in_trading.md) in
 
 ## Case Study: Reinforcement Learning in Algorithmic Trading
 
-To illustrate how reinforcement learning (RL) can be used for decision-making under [uncertainty](../u/uncertainty_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md), let’s delve into a practical case study.
+To illustrate how [reinforcement learning](../r/reinforcement_learning.md) (RL) can be used for decision-making under [uncertainty](../u/uncertainty_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md), let’s delve into a practical case study.
 
 ### Problem Statement
 
@@ -104,4 +104,4 @@ It is essential for regulatory bodies and [market](../m/market.md) participants 
 
 ## Conclusion
 
-Decision-making under [uncertainty](../u/uncertainty_in_trading.md) is a complex yet fascinating area that plays a crucial role in [algorithmic trading](../a/algorithmic_trading.md). By employing advanced statistical, machine learning, and [optimization](../o/optimization.md) techniques, traders can develop [robust](../r/robust.md) algorithms capable of navigating the uncertainties inherent in [financial markets](../f/financial_market.md). Through continuous innovation and ethical considerations, the field of [algorithmic trading](../a/algorithmic_trading.md) can continue to evolve, driving [efficiency](../e/efficiency.md) and performance in [financial markets](../f/financial_market.md).
+Decision-making under [uncertainty](../u/uncertainty_in_trading.md) is a complex yet fascinating area that plays a crucial role in [algorithmic trading](../a/algorithmic_trading.md). By employing advanced statistical, [machine learning](../m/machine_learning.md), and [optimization](../o/optimization.md) techniques, traders can develop [robust](../r/robust.md) algorithms capable of navigating the uncertainties inherent in [financial markets](../f/financial_market.md). Through continuous innovation and ethical considerations, the field of [algorithmic trading](../a/algorithmic_trading.md) can continue to evolve, driving [efficiency](../e/efficiency.md) and performance in [financial markets](../f/financial_market.md).

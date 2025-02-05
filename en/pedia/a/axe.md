@@ -72,7 +72,7 @@ Numerous platforms [offer](../o/offer.md) [sentiment analysis](../s/sentiment_an
 
 ### Advanced Analytics
 
-[Predictive analytics tools](../p/predictive_analytics_tools.md) employing machine learning can aggregate various data points, recognize complex patterns, and predict axes with a high degree of accuracy. These tools use historical data to train algorithms that can identify when a [trader](../t/trader.md) or desk has a strong inclination towards buying or selling.
+[Predictive analytics tools](../p/predictive_analytics_tools.md) employing [machine learning](../m/machine_learning.md) can aggregate various data points, recognize complex patterns, and predict axes with a high degree of accuracy. These tools use historical data to train algorithms that can identify when a [trader](../t/trader.md) or desk has a strong inclination towards buying or selling.
 
 ### Broker Reports
 
@@ -132,7 +132,7 @@ The [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloombe
 
 ### Kensho Technologies
 
-[Kensho Technologies](https://www.kensho.com/), now a part of S&P Global, leverages machine learning and [data analytics](../d/data_analytics.md) to provide actionable insights into [market](../m/market.md) trends, including axes. Their tools are highly advanced and used by institutional traders.
+[Kensho Technologies](https://www.kensho.com/), now a part of S&P Global, leverages [machine learning](../m/machine_learning.md) and [data analytics](../d/data_analytics.md) to provide actionable insights into [market](../m/market.md) trends, including axes. Their tools are highly advanced and used by institutional traders.
 
 ## Conclusion
 

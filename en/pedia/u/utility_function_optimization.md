@@ -63,7 +63,7 @@ With the advancement of computational power and mathematical techniques, several
    Techniques such as Monte Carlo simulations are used to model and optimize [portfolio performance](../p/portfolio_performance.md) under various scenarios.
 
 2. **[Dynamic Programming](../d/dynamic_programming_in_trading.md)**:
-   Methods like reinforcement learning [leverage](../l/leverage.md) [dynamic programming](../d/dynamic_programming_in_trading.md) to make sequential trading decisions that optimize long-term [utility](../u/utility.md).
+   Methods like [reinforcement learning](../r/reinforcement_learning.md) [leverage](../l/leverage.md) [dynamic programming](../d/dynamic_programming_in_trading.md) to make sequential trading decisions that optimize long-term [utility](../u/utility.md).
 
 3. **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md)**:
    These [heuristics](../h/heuristics.md) simulate the process of natural selection to find optimal strategies by evolving [trading rules](../t/trading_rules.md) over time.

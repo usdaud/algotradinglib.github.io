@@ -32,7 +32,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies involve identifying price 
 
 ## 6. Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) strategies involve analyzing news, [social media](../s/social_media.md), and other publicly available data to gauge [market sentiment](../m/market_sentiment.md) and make [trade](../t/trade.md) decisions. These algorithms use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning to process large volumes of textual data and identify trends that may affect [asset](../a/asset.md) prices.
+[Sentiment analysis](../s/sentiment_analysis.md) strategies involve analyzing news, [social media](../s/social_media.md), and other publicly available data to gauge [market sentiment](../m/market_sentiment.md) and make [trade](../t/trade.md) decisions. These algorithms use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) to process large volumes of textual data and identify trends that may affect [asset](../a/asset.md) prices.
 
 # Key Technologies in Algorithmic Trading
 
@@ -50,7 +50,7 @@ Real-time data feeds from exchanges and other [market](../m/market.md) data prov
 
 ## 4. Machine Learning and AI
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) play a significant role in developing more sophisticated [trading algorithms](../t/trading_algorithms.md). These technologies enable the analysis of vast amounts of historical and real-time data to identify patterns and make predictions. AI-based algorithms can continuously learn and adapt to changing [market](../m/market.md) conditions, improving their performance over time.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) play a significant role in developing more sophisticated [trading algorithms](../t/trading_algorithms.md). These technologies enable the analysis of vast amounts of historical and real-time data to identify patterns and make predictions. AI-based algorithms can continuously learn and adapt to changing [market](../m/market.md) conditions, improving their performance over time.
 
 # Regulatory Environment
 

@@ -1,7 +1,7 @@
 # X-Technical Model Analysis
 
 ### Introduction
-X-Technical Model Analysis refers to the use of complex, algorithm-driven methods to analyze financial [market](../m/market.md) data, identify trading opportunities, and execute trades. It combines advanced [mathematical models](../m/mathematical_models_in_trading.md), machine learning techniques, and [historical data analysis](../h/historical_data_analysis.md) to create [trading systems](../t/trading_systems.md) that can make decisions with minimal human intervention. The following sections [will](../w/will.md) delve into various aspects of X-Technical Model Analysis, its importance in [algorithmic trading](../a/algorithmic_trading.md), the methodologies involved, and real-world applications and companies that [leverage](../l/leverage.md) this technology.
+X-Technical Model Analysis refers to the use of complex, algorithm-driven methods to analyze financial [market](../m/market.md) data, identify trading opportunities, and execute trades. It combines advanced [mathematical models](../m/mathematical_models_in_trading.md), [machine learning](../m/machine_learning.md) techniques, and [historical data analysis](../h/historical_data_analysis.md) to create [trading systems](../t/trading_systems.md) that can make decisions with minimal human intervention. The following sections [will](../w/will.md) delve into various aspects of X-Technical Model Analysis, its importance in [algorithmic trading](../a/algorithmic_trading.md), the methodologies involved, and real-world applications and companies that [leverage](../l/leverage.md) this technology.
 
 ### Key Components of X-Technical Model Analysis
 
@@ -34,9 +34,9 @@ X-Technical Model Analysis refers to the use of complex, algorithm-driven method
 
 #### Modern Machine Learning Approaches
 
-1. **Supervised Learning:** Algorithms are trained using labeled data. Common methods include [linear regression](../l/linear_regression.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md).
-2. **Unsupervised Learning:** Aimed at identifying hidden patterns in data without pre-labeled examples. Techniques include clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) (e.g., PCA).
-3. **Reinforcement Learning:** Models that learn from the consequences of their actions, useful in decision-making processes in [trading strategies](../t/trading_strategies.md).
+1. **[Supervised Learning](../s/supervised_learning.md):** Algorithms are trained using labeled data. Common methods include [linear regression](../l/linear_regression.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md).
+2. **[Unsupervised Learning](../u/unsupervised_learning.md):** Aimed at identifying hidden patterns in data without pre-labeled examples. Techniques include clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) (e.g., PCA).
+3. **[Reinforcement Learning](../r/reinforcement_learning.md):** Models that learn from the consequences of their actions, useful in decision-making processes in [trading strategies](../t/trading_strategies.md).
 
 ### Applications of X-Technical Model Analysis
 
@@ -59,11 +59,11 @@ Several companies are pioneers in the field of X-Technical Model Analysis. They 
    
 2. **Numerai** - [Numerai](https://numer.ai/)
    
-   Numerai is a [hedge fund](../h/hedge_fund.md) that leverages crowd-sourced machine learning to run [market](../m/market.md)-[neutral](../n/neutral.md) [trading models](../t/trading_models.md).
+   Numerai is a [hedge fund](../h/hedge_fund.md) that leverages crowd-sourced [machine learning](../m/machine_learning.md) to run [market](../m/market.md)-[neutral](../n/neutral.md) [trading models](../t/trading_models.md).
 
 3. **Two Sigma** - [Two Sigma](https://www.twosigma.com/)
    
-   Two Sigma uses advanced machine learning techniques and large datasets to conduct [systematic trading](../s/systematic_trading.md).
+   Two Sigma uses advanced [machine learning](../m/machine_learning.md) techniques and large datasets to conduct [systematic trading](../s/systematic_trading.md).
 
 4. **Jane Street** - [Jane Street](https://www.janestreet.com/)
    

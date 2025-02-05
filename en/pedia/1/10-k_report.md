@@ -40,7 +40,7 @@ The 10-K report is an essential document for understanding publicly-traded compa
 
 ### Data Extraction and Parsing
 
-Algo traders often employ [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning models to extract and parse qualitative data from the 10-K report. These technologies help in identifying sentiment, categorizing [risk factors](../r/risk_factors_in_trading.md), and even detecting subtle shifts in management tone. Python libraries such as `BeautifulSoup` and `NLTK` are popular for web scraping and text analysis of 10-K filings.
+Algo traders often employ [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) models to extract and parse qualitative data from the 10-K report. These technologies help in identifying sentiment, categorizing [risk factors](../r/risk_factors_in_trading.md), and even detecting subtle shifts in management tone. Python libraries such as `BeautifulSoup` and `NLTK` are popular for web scraping and text analysis of 10-K filings.
 
 ### Quantitative Analysis
 
@@ -81,10 +81,10 @@ Consider an algorithm designed to [trade](../t/trade.md) [stocks](../s/stock.md)
 - **BeautifulSoup**: For web scraping.
 - **NLTK**: For [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md).
 - **pandas**: For data manipulation and analysis.
-- **Scikit-learn**: For machine learning models.
+- **Scikit-learn**: For [machine learning](../m/machine_learning.md) models.
 
 ## Conclusion
 
-The 10-K report is a treasure trove of data for algorithmic traders, [offering](../o/offering.md) deep insights into a company's operations, [financial health](../f/financial_health.md), and risks. By effectively leveraging this information, algo traders can create more precise and profitable [trading strategies](../t/trading_strategies.md). As technology continues to evolve, the integration of NLP, machine learning, and advanced analytics into the parsing and analysis of 10-K filings [will](../w/will.md) only grow, making these reports even more valuable to the trading community.
+The 10-K report is a treasure trove of data for algorithmic traders, [offering](../o/offering.md) deep insights into a company's operations, [financial health](../f/financial_health.md), and risks. By effectively leveraging this information, algo traders can create more precise and profitable [trading strategies](../t/trading_strategies.md). As technology continues to evolve, the integration of NLP, [machine learning](../m/machine_learning.md), and advanced analytics into the parsing and analysis of 10-K filings [will](../w/will.md) only grow, making these reports even more valuable to the trading community.
 
 For more information on how to access 10-K reports and utilize them in your [trading strategies](../t/trading_strategies.md), visit the SEC’s EDGAR database: [EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch.html).

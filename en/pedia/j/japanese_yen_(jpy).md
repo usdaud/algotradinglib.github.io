@@ -58,7 +58,7 @@ In the realm of modern [finance](../f/finance.md), the Japanese Yen plays a cruc
 
 - **[Execution Algorithms](../e/execution_algorithms.md)**: Designed to minimize the [market](../m/market.md) impact of large trades in the Yen.
 - **Latency Reduction**: Utilizing high-speed connections and proximity to exchanges to reduce latency.
-- **Machine Learning**: Implementing AI and machine learning models to predict Yen price movements and optimize [trading strategies](../t/trading_strategies.md).
+- **[Machine Learning](../m/machine_learning.md)**: Implementing AI and [machine learning](../m/machine_learning.md) models to predict Yen price movements and optimize [trading strategies](../t/trading_strategies.md).
 
 ## Regulatory Environment
 Japan's [financial markets](../f/financial_market.md) are governed by several regulatory bodies ensuring [transparency](../t/transparency.md), fairness, and integrity:

@@ -90,7 +90,7 @@ Advancements in technology are shaping the future of [risk](../r/risk.md) assess
 
 #### Artificial Intelligence (AI) and Machine Learning
 
-AI and machine learning can analyze vast datasets to identify patterns and predict risks more accurately. These technologies can enhance [credit](../c/credit.md) scoring, [fraud](../f/fraud.md) detection, and [market](../m/market.md) analysis.
+AI and [machine learning](../m/machine_learning.md) can analyze vast datasets to identify patterns and predict risks more accurately. These technologies can enhance [credit](../c/credit.md) scoring, [fraud](../f/fraud.md) detection, and [market](../m/market.md) analysis.
 
 #### Blockchain
 
@@ -102,7 +102,7 @@ AI and machine learning can analyze vast datasets to identify patterns and predi
 
 ### Case Study: JPMorgan Chase & Co.
 
-JPMorgan Chase & Co. is a leading global financial services [firm](../f/firm.md) that demonstrates the comprehensive application of [risk](../r/risk.md) assessment. The [firm](../f/firm.md) employs advanced [quantitative models](../q/quantitative_models.md), AI, and machine learning to manage [market](../m/market.md), [credit](../c/credit.md), and operational risks. More information on their [risk management](../r/risk_management.md) practices can be found on [JPMorgan's official website](https://www.jpmorganchase.com/).
+JPMorgan Chase & Co. is a leading global financial services [firm](../f/firm.md) that demonstrates the comprehensive application of [risk](../r/risk.md) assessment. The [firm](../f/firm.md) employs advanced [quantitative models](../q/quantitative_models.md), AI, and [machine learning](../m/machine_learning.md) to manage [market](../m/market.md), [credit](../c/credit.md), and operational risks. More information on their [risk management](../r/risk_management.md) practices can be found on [JPMorgan's official website](https://www.jpmorganchase.com/).
 
 ### Conclusion
 

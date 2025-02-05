@@ -69,13 +69,13 @@ print(adx)
 
 **6. Advanced Techniques:**
 
-**a. Machine Learning:**
+**a. [Machine Learning](../m/machine_learning.md):**
 
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can enhance [trend](../t/trend.md) strength analysis by identifying patterns that traditional methods may overlook. Techniques such as supervised learning, unsupervised learning, and reinforcement learning can be applied.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can enhance [trend](../t/trend.md) strength analysis by identifying patterns that traditional methods may overlook. Techniques such as [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md) can be applied.
 
-- **Supervised Learning:** Algorithms like [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) predict the [trend](../t/trend.md) strength based on historical data.
-- **Unsupervised Learning:** Clustering techniques, such as k-means, can segment [market](../m/market.md) conditions to identify [trend](../t/trend.md) patterns.
-- **Reinforcement Learning:** Algorithms learn to make trading decisions based on the strength of trends identified through continuous [feedback loops](../f/feedback_loops_in_trading.md).
+- **[Supervised Learning](../s/supervised_learning.md):** Algorithms like [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) predict the [trend](../t/trend.md) strength based on historical data.
+- **[Unsupervised Learning](../u/unsupervised_learning.md):** Clustering techniques, such as k-means, can segment [market](../m/market.md) conditions to identify [trend](../t/trend.md) patterns.
+- **[Reinforcement Learning](../r/reinforcement_learning.md):** Algorithms learn to make trading decisions based on the strength of trends identified through continuous [feedback loops](../f/feedback_loops_in_trading.md).
 
 **b. [Sentiment Analysis](../s/sentiment_analysis.md):**
 

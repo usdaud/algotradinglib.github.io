@@ -27,13 +27,13 @@ A [trade](../t/trade.md) signal is an indication or trigger that prompts traders
 - **News Events**: Geopolitical events, regulatory changes, and corporate announcements often serve as signals. For example, media reports on a new partnership can drive stock prices up, generating a buy signal.
 
 ### 3. Quantitative or Algorithmic-Based Signals
-These signals use [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify trading opportunities. They can be based on historical data, statistical relationships, and machine learning techniques.
+These signals use [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify trading opportunities. They can be based on historical data, statistical relationships, and [machine learning](../m/machine_learning.md) techniques.
 
 - **[Backtesting](../b/backtesting.md) Results**: Algorithms backtested on historical data to generate profitable strategies can trigger [trade](../t/trade.md) signals when real-time data matches the tested conditions.
 
 - **Pair Trading**: This strategy involves simultaneously buying and selling two correlated assets to [profit](../p/profit.md) from their price convergence or [divergence](../d/divergence.md).
 
-- **Machine Learning Models**: ML models can train on large datasets to predict future price movements. Signals are generated based on the model’s predictions.
+- **[Machine Learning](../m/machine_learning.md) Models**: ML models can train on large datasets to predict future price movements. Signals are generated based on the model’s predictions.
 
 ## Sources of Trade Signals
 

@@ -137,7 +137,7 @@ Implementing dynamic glide paths, especially complex multi-variable models, requ
 
 ### Machine Learning Integration
 
-Integrating machine learning techniques can enhance the adaptability and precision of glide path models. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can identify patterns and adjust the glide path in response to nuanced [market](../m/market.md) signals.
+Integrating [machine learning](../m/machine_learning.md) techniques can enhance the adaptability and precision of glide path models. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can identify patterns and adjust the glide path in response to nuanced [market](../m/market.md) signals.
 
 ### Enhanced Risk Management
 

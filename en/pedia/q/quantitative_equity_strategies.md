@@ -17,7 +17,7 @@ The data collected is then cleaned, normalized, and processed to ensure consiste
 The core of a quantitative [equity](../e/equity.md) strategy is the model used to analyze the data and generate [trading signals](../t/trading_signals.md). These models can be categorized into several types:
 
 1. **[Factor Models](../f/factor_models.md)**: These models use factors (such as [value](../v/value.md), [momentum](../m/momentum.md), size, etc.) to predict stock returns. Each [factor](../f/factor.md) represents a specific characteristic that is believed to influence stock performance.
-2. **Machine Learning Models**: These models use advanced machine learning techniques, such as [neural networks](../n/neural_networks_in_trading.md), [regression trees](../r/regression_trees_in_trading.md), and [clustering algorithms](../c/clustering_algorithms.md), to uncover patterns and relationships in the data.
+2. **[Machine Learning](../m/machine_learning.md) Models**: These models use advanced [machine learning](../m/machine_learning.md) techniques, such as [neural networks](../n/neural_networks_in_trading.md), [regression trees](../r/regression_trees_in_trading.md), and [clustering algorithms](../c/clustering_algorithms.md), to uncover patterns and relationships in the data.
 3. **Statistical [Arbitrage](../a/arbitrage.md) Models**: These models identify pricing inefficiencies between related [stocks](../s/stock.md) and aim to exploit these inefficiencies through paired trades.
 
 ### Backtesting
@@ -38,7 +38,7 @@ Once a quantitative [equity](../e/equity.md) strategy has been developed, tested
 ### Hedge Funds
 Many [hedge](../h/hedge.md) funds specialize in quantitative [equity](../e/equity.md) strategies, leveraging their expertise in [data analytics](../d/data_analytics.md) and [financial modeling](../f/financial_modeling.md). Notable [hedge](../h/hedge.md) funds include:
 
-- **Two Sigma**: A technology-driven investment [firm](../f/firm.md) that uses advanced machine learning techniques and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: A technology-driven investment [firm](../f/firm.md) that uses advanced [machine learning](../m/machine_learning.md) techniques and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com/)
 - **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), which has achieved unparalleled success using [quantitative strategies](../q/quantitative_strategies_in_trading.md). [Renaissance Technologies](https://www.rentec.com/)
 
 ### Investment Banks
@@ -61,7 +61,7 @@ Large trades based on quantitative signals can sometimes move the [market](../m/
 ## Future Trends
 
 ### AI and Machine Learning
-The future of quantitative [equity](../e/equity.md) strategies lies in the further integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning. Advances in these fields [will](../w/will.md) enable even more sophisticated models capable of processing large volumes of data and uncovering hidden patterns.
+The future of quantitative [equity](../e/equity.md) strategies lies in the further integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md). Advances in these fields [will](../w/will.md) enable even more sophisticated models capable of processing large volumes of data and uncovering hidden patterns.
 
 ### Alternative Data
 The use of [alternative data](../a/alternative_data.md) sources is expected to grow, providing new insights that traditional data might miss. This includes data from [social media](../s/social_media.md), [geolocation](../g/geolocation.md), satellite imagery, and more.

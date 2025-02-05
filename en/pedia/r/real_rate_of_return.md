@@ -79,7 +79,7 @@ Innovations in financial technology (FinTech) have revolutionized many aspects o
 
 ### Machine Learning Algorithms
 
-[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are increasingly employed to predict complex economic variables such as [inflation](../i/inflation.md). These algorithms can process and learn from historical data to anticipate future trends, contributing to more accurate real [rate of return](../r/rate_of_return.md) estimations. Financial services companies like [Betterment](https://www.betterment.com/) [leverage](../l/leverage.md) machine learning to optimize investment portfolios considering real returns.
+[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are increasingly employed to predict complex economic variables such as [inflation](../i/inflation.md). These algorithms can process and learn from historical data to anticipate future trends, contributing to more accurate real [rate of return](../r/rate_of_return.md) estimations. Financial services companies like [Betterment](https://www.betterment.com/) [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) to optimize investment portfolios considering real returns.
 
 ## Conclusion
 

@@ -13,13 +13,13 @@ The Haas School of [Business](../b/business.md) offers a comprehensive suite of 
 ### Curriculum and Courses
 
 **[Algorithmic Trading](../a/accountability.md) and [Quantitative Finance](../q/quantitative_finance.md)**
-At Haas, students have access to courses that focus specifically on [algorithmic trading](../a/accountability.md) and [quantitative finance](../q/quantitative_finance.md). These courses blend financial theories with computer science, mathematics, and [data analytics](../d/data_analytics.md) to equip students with the skills needed to thrive in the realm of [algorithmic trading](../a/accountability.md). Topics covered include modern portfolio theory, [stochastic calculus](../s/stochastic_calculus.md), [time series analysis](../t/time_series_analysis.md), machine learning, and financial [econometrics](../e/econometrics_in_trading.md).
+At Haas, students have access to courses that focus specifically on [algorithmic trading](../a/accountability.md) and [quantitative finance](../q/quantitative_finance.md). These courses blend financial theories with computer science, mathematics, and [data analytics](../d/data_analytics.md) to equip students with the skills needed to thrive in the realm of [algorithmic trading](../a/accountability.md). Topics covered include modern portfolio theory, [stochastic calculus](../s/stochastic_calculus.md), [time series analysis](../t/time_series_analysis.md), [machine learning](../m/machine_learning.md), and financial [econometrics](../e/econometrics_in_trading.md).
 
 **Key Courses:**
 - [Financial Engineering](../f/financial_engineering.md)
 - [Computational Finance](../c/computational_finance.md)
 - Advanced [Quantitative Finance](../q/quantitative_finance.md)
-- Machine Learning in [Finance](../f/finance.md)
+- [Machine Learning](../m/machine_learning.md) in [Finance](../f/finance.md)
 
 ### Faculty and Research
 

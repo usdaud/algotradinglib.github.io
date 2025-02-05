@@ -91,7 +91,7 @@ Algorithmic traders have developed models to predict [yield curve](../y/yard.md)
 Algorithms are often put through stress tests to simulate various [economic conditions](../e/economic_conditions.md), including those that would follow a [yield curve](../y/yard.md) inversion. These tests help refine [predictive models](../p/predictive_models_in_trading.md) and ensure robustness under different scenarios.
 
 ### Machine Learning and Artificial Intelligence
-The [incorporation](../i/incorporation.md) of machine learning and AI can improve the accuracy of predictions regarding [yield curve](../y/yard.md) movements. Models can continuously learn and adapt to new data, increasing the likelihood of timely and profitable trades.
+The [incorporation](../i/incorporation.md) of [machine learning](../m/machine_learning.md) and AI can improve the accuracy of predictions regarding [yield curve](../y/yard.md) movements. Models can continuously learn and adapt to new data, increasing the likelihood of timely and profitable trades.
 
 ## Major Companies and Resources
 

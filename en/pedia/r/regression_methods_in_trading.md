@@ -101,7 +101,7 @@ Constructing a regression model typically involves the following steps:
 Several tools and libraries [offer](../o/offer.md) [robust](../r/robust.md) implementations of regression models, including:
 
 - **Statsmodels (Python):** Comprehensive library for estimating and testing statistical models.
-- **Scikit-learn (Python):** Popular library for machine learning, including various [regression techniques](../r/regression_techniques.md).
+- **Scikit-learn (Python):** Popular library for [machine learning](../m/machine_learning.md), including various [regression techniques](../r/regression_techniques.md).
 - **R:** Language and environment for statistical computing, with extensive packages for [regression analysis](../r/regression_analysis.md).
 
 ## Practical Considerations

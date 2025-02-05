@@ -54,7 +54,7 @@ Modern businesses often employ payroll software to automate and streamline the p
 
 ### Future Trends in Payroll
 
-**1. Automation:** Increasing use of AI and machine learning to automate complex calculations and compliance checks.
+**1. Automation:** Increasing use of AI and [machine learning](../m/machine_learning.md) to automate complex calculations and compliance checks.
 
 **2. Mobile Payroll:** Enhanced mobile capabilities allowing employees to access payroll information and employers to manage payroll on the go.
 

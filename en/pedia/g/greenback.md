@@ -42,7 +42,7 @@ In [algorithmic trading](../a/accountability.md), the quality and reliability of
 
 ### Two Sigma Investments
 
-[Two Sigma Investments](https://www.twosigma.com) focuses on applying technology and [data science](../d/data_science_in_trading.md) to trading. Their strategies often involve the USD, given its central role in global [finance](../f/finance.md). Two Sigma employs machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced statistical methods to develop their [trading algorithms](../t/trading_algorithms.md).
+[Two Sigma Investments](https://www.twosigma.com) focuses on applying technology and [data science](../d/data_science_in_trading.md) to trading. Their strategies often involve the USD, given its central role in global [finance](../f/finance.md). Two Sigma employs [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced statistical methods to develop their [trading algorithms](../t/trading_algorithms.md).
 
 ### Other Noteworthy Firms
 

@@ -15,7 +15,7 @@ Change Point Detection (CPD) refers to the process of identifying points in time
     - Identifying points where [volatility](../v/volatility.md) changes can inform [risk management](../r/risk_management.md) practices and trigger the adjustment of [trading algorithms](../t/trading_algorithms.md).
 
 3. **Predictive Modelling**:
-    - Machine learning and statistical models used in trading rely on the assumption that the [underlying](../u/underlying.md) data-generating process remains stable.
+    - [Machine learning](../m/machine_learning.md) and statistical models used in trading rely on the assumption that the [underlying](../u/underlying.md) data-generating process remains stable.
     - Change points can signify [structural breaks](../s/structural_breaks_in_trading.md) that necessitate model retraining or recalibration.
 
 ## Methods for Change Point Detection
@@ -27,9 +27,9 @@ Several methods exist for detecting change points, each with its strengths and a
     - **Z Score Test**: Identifies points where the observed [value](../v/value.md) significantly deviates from the expected [normal distribution](../n/normal_distribution_in_trading.md).
     - **Likelihood Ratio Tests**: Compare the likelihood of data under different hypothesis models to identify change points.
 
-2. **Machine Learning Approaches**:
-    - **Supervised Learning**: Algorithms can be trained to predict change points using labeled historical data.
-    - **Unsupervised Learning**: Methods like clustering and [anomaly detection](../a/anomaly_detection.md) can identify change points without labeled data.
+2. **[Machine Learning](../m/machine_learning.md) Approaches**:
+    - **[Supervised Learning](../s/supervised_learning.md)**: Algorithms can be trained to predict change points using labeled historical data.
+    - **[Unsupervised Learning](../u/unsupervised_learning.md)**: Methods like clustering and [anomaly detection](../a/anomaly_detection.md) can identify change points without labeled data.
 
 3. **Bayesian Methods**:
     - Bayesian techniques incorporate prior knowledge and update beliefs as new data arrives.
@@ -54,7 +54,7 @@ Several methods exist for detecting change points, each with its strengths and a
 A study aimed at identifying change points in Forex [market](../m/market.md) data might proceed as follows:
 - **Data Collection**: Gather historical [exchange rate](../e/exchange_rate.md) data for [currency](../c/currency.md) pairs such as EUR/USD, GBP/USD, etc.
 - **Preprocessing**: Clean the data and remove [noise](../n/noise.md) using statistical techniques.
-- **Method Selection**: Implement and compare various CPD methods such as CUSUM, BOCPD, and machine learning approaches.
+- **Method Selection**: Implement and compare various CPD methods such as CUSUM, BOCPD, and [machine learning](../m/machine_learning.md) approaches.
 - **Evaluation**: Validate the detected change points against known [market](../m/market.md) events and analyze their impact on [trading strategy](../t/trading_strategy.md) performance.
 
 ## Tools and Libraries for CPD

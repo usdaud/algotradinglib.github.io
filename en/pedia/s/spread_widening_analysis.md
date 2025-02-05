@@ -36,7 +36,7 @@ By examining the spread at regular intervals (e.g., every second, minute, or hou
 Traders can also analyze the spread around specific events, such as [earnings](../e/earnings.md) reports or economic announcements. This helps in predicting how similar future events might affect the spread.
 
 ### Statistical Analysis
-Statistical techniques such as moving averages, standard deviations, and [Bollinger Bands](../b/bollinger_bands.md) can be applied to spread data to identify trends and anomalies. Machine learning models like [regression analysis](../r/regression_analysis.md) and clustering can also be utilized to predict spread widening.
+Statistical techniques such as moving averages, standard deviations, and [Bollinger Bands](../b/bollinger_bands.md) can be applied to spread data to identify trends and anomalies. [Machine learning](../m/machine_learning.md) models like [regression analysis](../r/regression_analysis.md) and clustering can also be utilized to predict spread widening.
 
 ## Implications of Spread Widening for Algorithmic Trading
 
@@ -68,7 +68,7 @@ Some [trading algorithms](../t/trading_algorithms.md) are designed to adjust the
 Analyzing historical spread data helps traders understand typical spread behavior during different [market](../m/market.md) conditions and events. This knowledge can be incorporated into [trading algorithms](../t/trading_algorithms.md) to enhance decision-making processes.
 
 ### Spread Predictive Models
-Machine learning models can be trained on historical data to predict future spread widening events. Such [predictive models](../p/predictive_models_in_trading.md) can be integrated into [trading systems](../t/trading_systems.md) to preemptively adapt strategies before [spreads](../s/spreads.md) widen.
+[Machine learning](../m/machine_learning.md) models can be trained on historical data to predict future spread widening events. Such [predictive models](../p/predictive_models_in_trading.md) can be integrated into [trading systems](../t/trading_systems.md) to preemptively adapt strategies before [spreads](../s/spreads.md) widen.
 
 ## Major Entities in Spread Widening Analysis
 

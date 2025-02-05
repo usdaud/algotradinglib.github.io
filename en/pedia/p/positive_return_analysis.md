@@ -40,7 +40,7 @@ Once [backtesting](../b/backtesting.md) is complete, it's important to measure t
 Even after achieving positive returns in [backtesting](../b/backtesting.md), the algorithm needs continuous refinement:
 
 - **Parameter Tuning**: Adjusting various parameters of the algorithm to optimize [performance metrics](../p/performance_metrics.md).
-- **Machine Learning**: Using machine learning models to improve predictive accuracy and adaptability.
+- **[Machine Learning](../m/machine_learning.md)**: Using [machine learning](../m/machine_learning.md) models to improve predictive accuracy and adaptability.
 - **Live Testing**: Deploying the algorithm in a live [market](../m/market.md) environment to assess real-world performance and make further adjustments.
 
 ## Challenges in Positive Return Analysis

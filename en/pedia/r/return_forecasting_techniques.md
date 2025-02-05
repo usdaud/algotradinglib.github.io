@@ -9,8 +9,8 @@
    
    - **Seasonal Decomposition of [Time Series](../t/time_series.md) (STL)**: STL is a technique that decomposes a [time series](../t/time_series.md) into seasonal, [trend](../t/trend.md), and residual components, helping to understand and forecast [seasonality patterns](../s/seasonality_patterns.md).
 
-2. **Machine Learning Techniques**
-   Machine learning techniques are widely used in [return](../r/return.md) [forecasting](../f/forecasting.md) due to their ability to capture complex nonlinear relationships in financial data.
+2. **[Machine Learning](../m/machine_learning.md) Techniques**
+   [Machine learning](../m/machine_learning.md) techniques are widely used in [return](../r/return.md) [forecasting](../f/forecasting.md) due to their ability to capture complex nonlinear relationships in financial data.
 
    - **[Linear Regression](../l/linear_regression.md)**: While simple, [linear regression](../l/linear_regression.md) can be enhanced with additional factors like [momentum](../m/momentum.md) and mean-reversion characteristics for future [return](../r/return.md) predictions.
    
@@ -49,17 +49,17 @@
 7. **Hybrid Models**
    Hybrid models combine [multiple](../m/multiple.md) [forecasting](../f/forecasting.md) techniques to enhance prediction accuracy.
 
-   - **Combining [Time Series](../t/time_series.md) and Machine Learning**: Integrating ARIMA models with machine learning models like [neural networks](../n/neural_networks_in_trading.md) can improve the robustness and accuracy of forecasts.
+   - **Combining [Time Series](../t/time_series.md) and [Machine Learning](../m/machine_learning.md)**: Integrating ARIMA models with [machine learning](../m/machine_learning.md) models like [neural networks](../n/neural_networks_in_trading.md) can improve the robustness and accuracy of forecasts.
    
    - **Ensemble Methods**: Techniques like bagging, boosting, and stacking integrate [multiple](../m/multiple.md) models to produce more reliable forecasts.
 
 8. **[Quantitative Trading](../q/quantitative_trading.md) Firms**
    Companies involved in [quantitative trading](../q/quantitative_trading.md) [leverage](../l/leverage.md) various [return](../r/return.md) [forecasting](../f/forecasting.md) techniques to develop and implement [trading strategies](../t/trading_strategies.md).
 
-   - **Two Sigma**: [Website](https://www.twosigma.com/) Two Sigma leverages advanced machine learning techniques and distributed computing to build sophisticated [trading algorithms](../t/trading_algorithms.md).
+   - **Two Sigma**: [Website](https://www.twosigma.com/) Two Sigma leverages advanced [machine learning](../m/machine_learning.md) techniques and distributed computing to build sophisticated [trading algorithms](../t/trading_algorithms.md).
    
    - **Renaissance Technologies**: Renaissance Technologies applies intensive [quantitative research](../q/quantitative_research.md) and [predictive modeling](../p/predictive_modeling.md) to drive its [trading strategies](../t/trading_strategies.md).
    
-   - **Citadel**: [Website](https://www.citadel.com/) Citadel employs a combination of statistical methods, machine learning, and data analysis to forecast returns and execute trades.
+   - **Citadel**: [Website](https://www.citadel.com/) Citadel employs a combination of statistical methods, [machine learning](../m/machine_learning.md), and data analysis to forecast returns and execute trades.
 
-In conclusion, [return](../r/return.md) [forecasting](../f/forecasting.md) involves a multifaceted approach combining traditional statistical methods with advanced machine learning techniques. Selecting the appropriate method depends on the specific financial context and the nature of the available data.
+In conclusion, [return](../r/return.md) [forecasting](../f/forecasting.md) involves a multifaceted approach combining traditional statistical methods with advanced [machine learning](../m/machine_learning.md) techniques. Selecting the appropriate method depends on the specific financial context and the nature of the available data.

@@ -104,7 +104,7 @@ Companies in the trading [industry](../i/industry.md), such as [hedge](../h/hedg
 As technology and [financial markets](../f/financial_market.md) evolve, the role and implementation of back stops [will](../w/will.md) also undergo significant transformation. Expectations for the future of back stops in [algorithmic trading](../a/accountability.md) include:
 
 1. **Real-Time Dynamic Adjustments**:
-   Future back stops [will](../w/will.md) likely involve more dynamic adjustments in real-time, using machine learning and AI to predict [market](../m/market.md) conditions and adjust protective measures accordingly.
+   Future back stops [will](../w/will.md) likely involve more dynamic adjustments in real-time, using [machine learning](../m/machine_learning.md) and AI to predict [market](../m/market.md) conditions and adjust protective measures accordingly.
 
 2. **Improved Coordination Across Markets**:
    Enhanced coordination across global markets [will](../w/will.md) help standardize back stop mechanisms, making them more effective in mitigating risks in a highly interconnected [trading environment](../t/trading_environment.md).

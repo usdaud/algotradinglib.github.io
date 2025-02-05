@@ -64,7 +64,7 @@ Several reputable financial institutions and [proprietary trading](../p/propriet
 
 As markets evolve, so do the strategies involved in [zero-sum trading](../z/zero-sum_trading.md). Emerging trends include:
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning:** With advancements in AI and ML, zero-sum strategies are becoming more sophisticated. Algorithms can now digest massive data sets, learn patterns, and predict [market](../m/market.md) movements with higher precision, reducing [risk](../r/risk.md) while optimizing returns.
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md):** With advancements in AI and ML, zero-sum strategies are becoming more sophisticated. Algorithms can now digest massive data sets, learn patterns, and predict [market](../m/market.md) movements with higher precision, reducing [risk](../r/risk.md) while optimizing returns.
 
 2. **[Blockchain](../b/blockchain_in_trading.md) and Crypto Markets:** Zero-sum strategies are increasingly being applied in cryptocurrency markets, with trading firms implementing these tactics to navigate the volatile and nascent space of digital assets.
 

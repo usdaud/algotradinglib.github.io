@@ -54,7 +54,7 @@ The Taper Tantrum presents several lessons for [algorithmic trading](../a/accoun
 
 ### Predictive Analytics
 
-The Taper Tantrum underscores the [value](../v/value.md) of [predictive analytics](../p/predictive_analytics.md) in anticipating [market](../m/market.md) reactions to policy changes. By leveraging machine learning and [big data](../b/big_data_in_trading.md) analysis, [trading algorithms](../t/trading_algorithms.md) can better forecast [market](../m/market.md) movements and make more informed trading decisions.
+The Taper Tantrum underscores the [value](../v/value.md) of [predictive analytics](../p/predictive_analytics.md) in anticipating [market](../m/market.md) reactions to policy changes. By leveraging [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) analysis, [trading algorithms](../t/trading_algorithms.md) can better forecast [market](../m/market.md) movements and make more informed trading decisions.
 
 ### Sentiment Analysis
 

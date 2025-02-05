@@ -77,7 +77,7 @@ Thoroughly document the reasons for each adjustment. [Transparency](../t/transpa
 ## Future Trends
 
 ### AI and Human Collaboration
-Future advancements may see tighter integration between machine learning models and human [judgment](../j/judgment.md). AI can assist by flagging when human inputs are likely needed, or by learning from past judgmental adjustments to improve its own future recommendations.
+Future advancements may see tighter integration between [machine learning](../m/machine_learning.md) models and human [judgment](../j/judgment.md). AI can assist by flagging when human inputs are likely needed, or by learning from past judgmental adjustments to improve its own future recommendations.
 
 ### Real-time Data
 The influx of real-time data sources can enhance judgmental adjustments by providing up-to-date information that models might not yet incorporate. Fields like IoT can [offer](../o/offer.md) immediate data feeds to shape short-term forecasts significantly.

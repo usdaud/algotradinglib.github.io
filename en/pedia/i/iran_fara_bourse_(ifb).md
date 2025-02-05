@@ -100,7 +100,7 @@ The regulatory and economic environment presents both challenges and opportuniti
 Increasing [market](../m/market.md) awareness and [financial literacy](../f/financial_literacy.md) among the population is vital for the IFB's growth. Educational initiatives and [investor](../i/investor.md) outreach programs can play a significant role in attracting new investors and enhancing [market](../m/market.md) participation.
 
 ### Technological Integration
-Continuous technological integration and innovation are key to the IFB's future success. Embracing cutting-edge technologies like [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI), Machine Learning (ML), and cybersecurity measures [will](../w/will.md) ensure the [market](../m/market.md) remains resilient and competitive.
+Continuous technological integration and innovation are key to the IFB's future success. Embracing cutting-edge technologies like [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI), [Machine Learning](../m/machine_learning.md) (ML), and cybersecurity measures [will](../w/will.md) ensure the [market](../m/market.md) remains resilient and competitive.
 
 ## Conclusion
 

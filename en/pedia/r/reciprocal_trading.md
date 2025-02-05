@@ -48,7 +48,7 @@ In many jurisdictions, reciprocal trading agreements are subject to regulatory s
 
 ## Technological Advancements
 
-The rapid advancement of technology has significantly impacted the landscape of reciprocal trading in [algorithmic trading](../a/algorithmic_trading.md). From the development of cutting-edge [trading algorithms](../t/trading_algorithms.md) to the integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) models, technology continues to drive innovation in this space.
+The rapid advancement of technology has significantly impacted the landscape of reciprocal trading in [algorithmic trading](../a/algorithmic_trading.md). From the development of cutting-edge [trading algorithms](../t/trading_algorithms.md) to the integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) models, technology continues to drive innovation in this space.
 
 ### Artificial Intelligence and Machine Learning
 

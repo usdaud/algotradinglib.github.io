@@ -72,7 +72,7 @@ Regulations such as the Dodd-Frank Act in the U.S. and the [Market](../m/market.
 
 ### Algorithmic Adjustments
 
-Traders and institutions can adjust their algorithms to recognize and counteract hammering activities. Enhancing algorithms with machine learning capabilities can help in identifying suspicious patterns and responding appropriately.
+Traders and institutions can adjust their algorithms to recognize and counteract hammering activities. Enhancing algorithms with [machine learning](../m/machine_learning.md) capabilities can help in identifying suspicious patterns and responding appropriately.
 
 ## Conclusion
 

@@ -83,7 +83,7 @@ Python has increasingly become popular for [algorithmic trading](../a/algorithmi
 Renaissance Technologies is a renowned quantitative [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md), which has consistently outperformed markets. The [firm](../f/firm.md) uses advanced performance analytics to continuously refine its [trading algorithms](../t/trading_algorithms.md). [Renaissance Technologies](https://www.rentec.com/)
 
 ### 2. Two Sigma
-Two Sigma is another global financial technology [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) and performance analytics to develop [trading strategies](../t/trading_strategies.md). Their approach focuses on rigorous statistical analysis and machine learning. [Two Sigma](https://www.twosigma.com/)
+Two Sigma is another global financial technology [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) and performance analytics to develop [trading strategies](../t/trading_strategies.md). Their approach focuses on rigorous statistical analysis and [machine learning](../m/machine_learning.md). [Two Sigma](https://www.twosigma.com/)
 
 ### 3. D.E. Shaw & Co.
 D.E. Shaw & Co. utilizes quantitative and computational techniques for [investment management](../i/investment_management.md). The [firm](../f/firm.md)’s emphasis on performance analytics has been key to its sustained success in the [industry](../i/industry.md). [D.E. Shaw](https://www.deshaw.com/)

@@ -40,7 +40,7 @@ MSCI also offers extensive tools and solutions for [real estate](../r/real_estat
 
 ## Technological Integration
 
-MSCI integrates cutting-edge technology into its products and services. Leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, MSCI innovates continuously to improve data accuracy, predictive powers, and overall usability of their tools. Innovations in this area include:
+MSCI integrates cutting-edge technology into its products and services. Leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), MSCI innovates continuously to improve data accuracy, predictive powers, and overall usability of their tools. Innovations in this area include:
 
 - **[Data Science](../d/data_science_in_trading.md) Solutions:** Leveraging [big data](../b/big_data_in_trading.md) and analytics to generate insightful investment data.
 - **APIs:** [Offering](../o/offering.md) Application Programming Interfaces for seamless integration of MSCI tools into third-party platforms.

@@ -56,7 +56,7 @@ Though not directly tied to the CCC, HFT techniques allow companies to engage in
 
 ### Machine Learning Models
 
-Machine learning models can predict fluctuations in [demand](../d/demand.md), optimize pricing strategies, and forecast cash flows. These models enable better CCC management by:
+[Machine learning](../m/machine_learning.md) models can predict fluctuations in [demand](../d/demand.md), optimize pricing strategies, and forecast cash flows. These models enable better CCC management by:
 
 - Balancing [inventory](../i/inventory.md) levels based on [demand](../d/demand.md) predictions.
 - Setting dynamic [credit](../c/credit.md) terms for customers.
@@ -71,7 +71,7 @@ SAP Ariba provides a comprehensive platform for managing [procurement](../p/proc
 
 ### Coupa
 
-Coupa offers a suite of software products for managing [business](../b/business.md) spend, including [procurement](../p/procurement.md), invoicing, expenses, and payments. It utilizes AI and machine learning to optimize these processes.
+Coupa offers a suite of software products for managing [business](../b/business.md) spend, including [procurement](../p/procurement.md), invoicing, expenses, and payments. It utilizes AI and [machine learning](../m/machine_learning.md) to optimize these processes.
 - [Coupa](https://www.coupa.com/)
 
 ### QuickBooks and Xero

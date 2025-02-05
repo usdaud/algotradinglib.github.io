@@ -60,7 +60,7 @@ Various online trading platforms facilitate the buying and selling of T-Bills di
 1. **[Pairs Trading](../p/pairs_trading.md)**: Utilize the predictability and stability of T-Bill yields in [pairs trading](../p/pairs_trading.md) strategies by coupling them with more volatile assets.
 2. **Rate Spread [Arbitrage](../a/arbitrage.md)**: [Leverage](../l/leverage.md) the [spreads](../s/spreads.md) between different T-Bill maturities to implement [arbitrage](../a/arbitrage.md) strategies.
 3. **Hedging**: Use 90-Day T-Bills as a [hedge](../h/hedge.md) against uncertain [market](../m/market.md) conditions or specific portfolio exposures.
-4. **[Yield Curve](../y/yield_curve.md) Analysis**: Incorporate [yield curve](../y/yield_curve.md) data into machine learning models to predict [economic cycles](../e/economic_cycles.md) and adjust [trading algorithms](../t/trading_algorithms.md) accordingly.
+4. **[Yield Curve](../y/yield_curve.md) Analysis**: Incorporate [yield curve](../y/yield_curve.md) data into [machine learning](../m/machine_learning.md) models to predict [economic cycles](../e/economic_cycles.md) and adjust [trading algorithms](../t/trading_algorithms.md) accordingly.
 
 ### Conclusion
 

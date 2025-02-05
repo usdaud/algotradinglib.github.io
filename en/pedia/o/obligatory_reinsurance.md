@@ -114,7 +114,7 @@ Several leading companies operate in the [reinsurance](../r/reinsurance.md) [mar
 
 ## Technological Advancements in Reinsurance
 
-Technology, especially in the realms of [data analytics](../d/data_analytics.md), machine learning, and [blockchain](../b/blockchain_in_trading.md), is reshaping the landscape of obligatory [reinsurance](../r/reinsurance.md):
+Technology, especially in the realms of [data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md), is reshaping the landscape of obligatory [reinsurance](../r/reinsurance.md):
 
 ### 1. Data Analytics
 

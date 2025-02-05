@@ -13,7 +13,7 @@ Quantitative [market timing](../m/market_timing.md) relies on large datasets to 
 Several statistical techniques are employed to analyze the data, including [regression analysis](../r/regression_analysis.md), time-series analysis, and machine [learning algorithms](../l/learning_algorithms_in_trading.md). These methods help in identifying correlations and causations that may not be visible through simple visual or heuristic methods.
 
 ### Algorithm Development
-Once useful patterns are identified, the next step involves developing algorithms that can execute trades based on these patterns. The algorithms can [range](../r/range.md) from simple moving averages to more complicated machine learning models like [neural networks](../n/neural_networks_in_trading.md) or [support vector machines](../s/support_vector_machines_in_trading.md).
+Once useful patterns are identified, the next step involves developing algorithms that can execute trades based on these patterns. The algorithms can [range](../r/range.md) from simple moving averages to more complicated [machine learning](../m/machine_learning.md) models like [neural networks](../n/neural_networks_in_trading.md) or [support vector machines](../s/support_vector_machines_in_trading.md).
 
 ### Backtesting
 To ensure that the model or algorithm is [robust](../r/robust.md) and reliable, [backtesting](../b/backtesting.md) is conducted using historical data. [Backtesting](../b/backtesting.md) simulates how the model would have performed in the past to evaluate its effectiveness. [Robust](../r/robust.md) [backtesting](../b/backtesting.md) helps in refining the model parameters before it's applied in real-time trading.
@@ -33,7 +33,7 @@ Moving averages are a simple yet powerful tool used in quantitative [market timi
 [Momentum](../m/momentum.md) strategies focus on assets that have shown a continued upward or downward movement. The core idea is to buy assets that have performed well and sell those that have performed poorly. [Momentum](../m/momentum.md) can be measured through rate-of-change (ROC), [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), or other [technical indicators](../t/technical_indicators.md).
 
 ### Machine Learning Models
-Machine learning models, such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), can analyze complex patterns in data to generate [market timing](../m/market_timing.md) signals. These models can adapt to new data, improving their predictive abilities over time.
+[Machine learning](../m/machine_learning.md) models, such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), can analyze complex patterns in data to generate [market timing](../m/market_timing.md) signals. These models can adapt to new data, improving their predictive abilities over time.
 
 ### Sentiment Analysis
 [Sentiment analysis](../s/sentiment_analysis.md) involves gauging [market sentiment](../m/market_sentiment.md) through the analysis of news articles, [social media](../s/social_media.md), and other textual data. [Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques are often used to quantify sentiment and translate it into actionable [trading signals](../t/trading_signals.md).
@@ -61,7 +61,7 @@ Traders and firms using quantitative [market timing](../m/market_timing.md) must
 Renaissance Technologies is one of the most famous examples of a [firm](../f/firm.md) that has successfully implemented quantitative [market timing](../m/market_timing.md). Their flagship Medallion [Fund](../f/fund.md) has consistently outperformed the [market](../m/market.md) by using sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency trading techniques. [Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
-Two Sigma Investments focuses on using [big data](../b/big_data_in_trading.md), machine learning, and distributed computing to achieve superior [market timing](../m/market_timing.md). They incorporate a variety of analytical methods to exploit inefficiencies in the [market](../m/market.md). [Two Sigma](https://www.twosigma.com/)
+Two Sigma Investments focuses on using [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to achieve superior [market timing](../m/market_timing.md). They incorporate a variety of analytical methods to exploit inefficiencies in the [market](../m/market.md). [Two Sigma](https://www.twosigma.com/)
 
 ### Winton Group
 Winton Group employs a scientific approach to [investing](../i/investing.md), relying heavily on statistical research and [quantitative models](../q/quantitative_models.md). They focus on [pattern recognition](../p/pattern_recognition.md) and data analysis to make informed trading decisions. [Winton](https://www.winton.com/)

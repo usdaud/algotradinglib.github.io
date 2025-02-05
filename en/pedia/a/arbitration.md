@@ -24,7 +24,7 @@ This type uses [quantitative models](../q/quantitative_models.md) to find statis
 [Algorithmic trading](../a/accountability.md) is particularly well-suited for [arbitrage opportunities](../a/arbitrage_opportunities.md) due to its speed and [efficiency](../e/efficiency.md). Here’s how [algorithmic trading](../a/accountability.md) systems implement [arbitrage](../a/arbitrage.md) strategies:
 
 ### **Data Collection and Processing**
-Algorithms collect real-time data from various sources, such as stock exchanges, forex markets, and [commodity](../c/commodity.md) markets. This data includes prices, volumes, and other relevant metrics. Advanced systems use machine learning to filter and preprocess this data, identifying meaningful patterns and irregularities.
+Algorithms collect real-time data from various sources, such as stock exchanges, forex markets, and [commodity](../c/commodity.md) markets. This data includes prices, volumes, and other relevant metrics. Advanced systems use [machine learning](../m/machine_learning.md) to filter and preprocess this data, identifying meaningful patterns and irregularities.
 
 ### **Signal Generation**
 Once the raw data is processed, the algorithm analyzes it to generate [trading signals](../t/trading_signals.md). This involves comparing prices across different markets or using statistical models to detect discrepancies. The algorithm must be capable of performing these analyses in milliseconds to [capitalize](../c/capitalize.md) on short-lived opportunities.
@@ -77,7 +77,7 @@ One of the most significant challenges in [arbitrage](../a/arbitrage.md) trading
 Reliable and accurate data is crucial for successful [arbitrage](../a/arbitrage.md) trading. Inaccuracies or delays in data can lead to missed opportunities or unwanted trades. Firms use advanced data validation techniques and redundant data sources to minimize risks.
 
 ### Algorithm Complexity
-Developing effective [arbitrage](../a/arbitrage.md) algorithms requires a deep understanding of [financial markets](../f/financial_market.md), [data science](../d/data_science_in_trading.md), and computer programming. Firms continuously refine their models, integrating machine learning and other advanced techniques to improve accuracy and responsiveness.
+Developing effective [arbitrage](../a/arbitrage.md) algorithms requires a deep understanding of [financial markets](../f/financial_market.md), [data science](../d/data_science_in_trading.md), and computer programming. Firms continuously refine their models, integrating [machine learning](../m/machine_learning.md) and other advanced techniques to improve accuracy and responsiveness.
 
 ### Regulatory Compliance
 [Arbitrage](../a/arbitrage.md) algorithms must comply with various regulatory requirements. This involves implementing [checks and balances](../c/checks_and_balances.md) to ensure that the trades executed adhere to legal standards. Regulatory technology ([RegTech](../r/regtech.md)) solutions are increasingly used to automate compliance processes.
@@ -85,7 +85,7 @@ Developing effective [arbitrage](../a/arbitrage.md) algorithms requires a deep u
 ## Future Trends
 
 ### Increased Use of AI and Machine Learning
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are set to play a more prominent role in [arbitrage](../a/arbitrage.md) trading. These technologies can analyze vast amounts of data more efficiently, improving the detection of [arbitrage opportunities](../a/arbitrage_opportunities.md) and optimizing [trade](../t/trade.md) [execution](../e/execution.md).
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are set to play a more prominent role in [arbitrage](../a/arbitrage.md) trading. These technologies can analyze vast amounts of data more efficiently, improving the detection of [arbitrage opportunities](../a/arbitrage_opportunities.md) and optimizing [trade](../t/trade.md) [execution](../e/execution.md).
 
 ### Blockchain and Decentralized Finance (DeFi)
 [Blockchain](../b/blockchain_in_trading.md) technology and DeFi platforms could introduce new [arbitrage opportunities](../a/arbitrage_opportunities.md). The transparent nature of [blockchain](../b/blockchain_in_trading.md) transactions and the emergence of various cryptocurrencies and tokens provide a fertile ground for [arbitrage](../a/arbitrage.md) strategies.

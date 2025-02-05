@@ -106,7 +106,7 @@ This allows the [firm](../f/firm.md) to continuously fine-tune their [trading al
 
 As the financial [industry](../i/industry.md) continues to evolve with advancements in technology and AI, the application and calculation of the Rolling [Sharpe Ratio](../s/sharpe_ratio.md) may see further innovations:
 
-1. **[Big Data](../b/big_data_in_trading.md) and Machine Learning:** Leveraging [big data](../b/big_data_in_trading.md) and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict rolling Sharpe Ratios based on a multitude of [market](../m/market.md) factors and [economic indicators](../e/economic_indicators.md).
+1. **[Big Data](../b/big_data_in_trading.md) and [Machine Learning](../m/machine_learning.md):** Leveraging [big data](../b/big_data_in_trading.md) and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict rolling Sharpe Ratios based on a multitude of [market](../m/market.md) factors and [economic indicators](../e/economic_indicators.md).
 2. **Real-Time Calculations:** With the advent of high-frequency trading, there may be increased use of real-time Rolling Sharpe Ratios, recalculated on very short frequencies (minutes, seconds) for intra-day performance monitoring.
 3. **Integration with [Automated Trading Systems](../a/automated_trading_systems.md):** More sophisticated [automated trading systems](../a/automated_trading_systems.md) integrating real-time Rolling Sharpe Ratios to dynamically adjust [trading strategies](../t/trading_strategies.md) based on prevailing [risk](../r/risk.md)-adjusted [performance metrics](../p/performance_metrics.md).
 

@@ -50,7 +50,7 @@ JCR’s research is extensive and covers a broad array of topics, from macroecon
 ## Innovation and Adaptation
 Adaptability and innovation are crucial in the ever-evolving field of [credit rating](../c/credit_rating.md). JCR continuously updates its methodologies to keep pace with changes in [economic conditions](../e/economic_conditions.md), regulatory environments, and [market dynamics](../m/market_dynamics.md). 
 
-The agency invests in technology and [data analytics](../d/data_analytics.md) to refine its [rating](../r/rating.md) processes further. Innovations like [big data analytics](../b/big_data_analytics_in_trading.md) and machine learning are gradually being integrated into JCR’s analytical framework, enhancing the precision and [efficiency](../e/efficiency.md) of its ratings.
+The agency invests in technology and [data analytics](../d/data_analytics.md) to refine its [rating](../r/rating.md) processes further. Innovations like [big data analytics](../b/big_data_analytics_in_trading.md) and [machine learning](../m/machine_learning.md) are gradually being integrated into JCR’s analytical framework, enhancing the precision and [efficiency](../e/efficiency.md) of its ratings.
 
 ## Ethical Standards and Independence
 Maintaining high [ethical standards](../e/ethical_standards_in_trading.md) and independence is paramount for JCR. The agency ensures that its [rating](../r/rating.md) processes are free from conflicts of [interest](../i/interest.md) and that its assessments are objective. [Transparency](../t/transparency.md) is a key principle, and JCR makes its [rating](../r/rating.md) criteria, methodologies, and rationales publicly available to foster [trust](../t/trust.md) and reliability.

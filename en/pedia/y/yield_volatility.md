@@ -56,7 +56,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies involve identifying and ex
 
 ### Machine Learning Models
 
-Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can predict [yield](../y/yield.md) [volatility](../v/volatility.md) patterns using historical data and real-time information. By analyzing large datasets, machine learning models can [offer](../o/offer.md) insights into future [yield](../y/yield.md) movements, which [algorithmic trading](../a/algorithmic_trading.md) systems can then act upon.
+Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can predict [yield](../y/yield.md) [volatility](../v/volatility.md) patterns using historical data and real-time information. By analyzing large datasets, [machine learning](../m/machine_learning.md) models can [offer](../o/offer.md) insights into future [yield](../y/yield.md) movements, which [algorithmic trading](../a/algorithmic_trading.md) systems can then act upon.
 
 ### Risk Management in Algo-Trading
 
@@ -68,7 +68,7 @@ Several firms specialize in leveraging [algorithmic trading](../a/algorithmic_tr
 
 - **Citadel Securities**: A leading global [market maker](../m/market_maker.md). Citadel Securities employs complex algorithms to [trade](../t/trade.md) across various fixed-[income](../i/income.md) markets. More information can be found on [Citadel Securities' website](https://www.citadelsecurities.com).
 
-- **Two Sigma**: A prominent [hedge fund](../h/hedge_fund.md) that uses machine learning and advanced analytics to [trade](../t/trade.md) equities, [futures](../f/futures.md), [options](../o/options.md), and other financial instruments, including those sensitive to [yield](../y/yield.md) [volatility](../v/volatility.md). Learn more at [Two Sigma's official page](https://www.twosigma.com).
+- **Two Sigma**: A prominent [hedge fund](../h/hedge_fund.md) that uses [machine learning](../m/machine_learning.md) and advanced analytics to [trade](../t/trade.md) equities, [futures](../f/futures.md), [options](../o/options.md), and other financial instruments, including those sensitive to [yield](../y/yield.md) [volatility](../v/volatility.md). Learn more at [Two Sigma's official page](https://www.twosigma.com).
 
 - **Renaissance Technologies**: Famous for its Medallion [Fund](../f/fund.md), Renaissance Technologies employs statistical and [quantitative models](../q/quantitative_models.md) to exploit [market](../m/market.md) inefficiencies, including those related to [yield](../y/yield.md) [volatility](../v/volatility.md). Visit [Renaissance Technologies' site](https://www.rentec.com).
 

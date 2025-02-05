@@ -87,7 +87,7 @@ For individual retail investors, understanding the concept of round lots can inf
 
 1. **Dynamic Round Lot Sizes**: With the advent of [fractional share](../f/fractional_share.md) trading, some platforms are redefining what constitutes a round lot or [offering](../o/offering.md) customizable trading units, posing both opportunities and challenges.
 2. **Regulatory Changes**: Updates in financial regulation may impact how round lots are defined and managed, particularly in increasingly global and digital markets.
-3. **Technology Integration**: As [algorithmic trading](../a/accountability.md) and fintech evolve, integrating round lot processing into sophisticated AI and machine learning frameworks [will](../w/will.md) be an ongoing area of development.
+3. **Technology Integration**: As [algorithmic trading](../a/accountability.md) and fintech evolve, integrating round lot processing into sophisticated AI and [machine learning](../m/machine_learning.md) frameworks [will](../w/will.md) be an ongoing area of development.
 4. **[Market](../m/market.md) Fragmentation**: Different exchanges and markets may have varying definitions and standards for round lots, complicating cross-[market](../m/market.md) [trading strategies](../t/trading_strategies.md) for sophisticated traders and algorithms.
  
 ## Conclusion

@@ -50,7 +50,7 @@ Algorithmic traders employ various strategies and tools to mitigate long [tail r
 Setting strict [risk](../r/risk.md) limits helps to control potential losses. [Algorithmic trading](../a/algorithmic_trading.md) systems can automatically enforce these limits, ensuring that individual trades or the entire portfolio do not exceed predefined [risk](../r/risk.md) thresholds.
 
 ### Advanced Algorithms
-Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md), such as reinforcement learning and Bayesian methods, can improve the ability to detect and respond to [long tail](../l/long_tail.md) events. These algorithms can adapt to changing [market](../m/market.md) conditions and learn from new data, enhancing their predictive power.
+Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md), such as [reinforcement learning](../r/reinforcement_learning.md) and Bayesian methods, can improve the ability to detect and respond to [long tail](../l/long_tail.md) events. These algorithms can adapt to changing [market](../m/market.md) conditions and learn from new data, enhancing their predictive power.
 
 ### Tail Risk Hedging
 [Tail risk](../t/tail_risk.md) hedging involves using financial instruments, such as [options](../o/options.md) or [derivatives](../d/derivatives.md), to protect against extreme [market](../m/market.md) movements. For example, purchasing [put options](../p/put_options.md) can provide a [hedge](../h/hedge.md) against a significant [market](../m/market.md) downturn.

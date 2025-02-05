@@ -64,6 +64,6 @@ In early 2020, oil markets witnessed unprecedented [volatility](../v/volatility.
 
 ## Future Trends and Developments
 
-The evolution of technology and [data analytics](../d/data_analytics.md) continues to shape the future of VPLs. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are likely to play a significant role in refining the algorithms that determine these limits. Moreover, as markets become more interconnected globally, there is a growing need for standardized approaches to VPLs across different exchanges and [asset](../a/asset.md) classes.
+The evolution of technology and [data analytics](../d/data_analytics.md) continues to shape the future of VPLs. [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are likely to play a significant role in refining the algorithms that determine these limits. Moreover, as markets become more interconnected globally, there is a growing need for standardized approaches to VPLs across different exchanges and [asset](../a/asset.md) classes.
 
 In conclusion, Variable Price Limits are a critical tool in modern [financial markets](../f/financial_market.md), [offering](../o/offering.md) a balanced approach to managing [volatility](../v/volatility.md) and ensuring [market](../m/market.md) integrity. While they come with their challenges, the benefits they provide in maintaining stable and fair trading environments are indispensable.

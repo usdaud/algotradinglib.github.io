@@ -99,7 +99,7 @@ The code snippet demonstrates loading [return](../r/return.md) data, fitting a G
 
 3. **Nonlinearity and Complexity**: [Financial markets](../f/financial_market.md) are influenced by a myriad of factors, leading to complex nonlinear behaviors that can be challenging to capture with [GARCH models](../g/garch_models.md).
 
-Researchers and practitioners continually strive to address these limitations by developing more advanced models and incorporating alternative approaches such as non-parametric methods, [neural networks](../n/neural_networks_in_trading.md), and other machine learning techniques.
+Researchers and practitioners continually strive to address these limitations by developing more advanced models and incorporating alternative approaches such as non-parametric methods, [neural networks](../n/neural_networks_in_trading.md), and other [machine learning](../m/machine_learning.md) techniques.
 
 ### Conclusion
 

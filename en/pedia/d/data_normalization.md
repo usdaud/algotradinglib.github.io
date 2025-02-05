@@ -1,7 +1,7 @@
 # Data Normalization
 
 ## Introduction
-Data normalization is a critical process in [algorithmic trading](../a/algorithmic_trading.md) and financial data analysis. It involves adjusting and transforming data to ensure that it can be compared and analyzed accurately. This process helps in mitigating biases caused by differences in the scales of measurement, as well as preparing data for various kinds of statistical and machine learning models. Accurate and effective normalization of financial data can significantly enhance [trading algorithms](../t/trading_algorithms.md) and predictions.
+Data normalization is a critical process in [algorithmic trading](../a/algorithmic_trading.md) and financial data analysis. It involves adjusting and transforming data to ensure that it can be compared and analyzed accurately. This process helps in mitigating biases caused by differences in the scales of measurement, as well as preparing data for various kinds of statistical and [machine learning](../m/machine_learning.md) models. Accurate and effective normalization of financial data can significantly enhance [trading algorithms](../t/trading_algorithms.md) and predictions.
 
 ## The Importance of Data Normalization
 In the realm of trading, data comes in various forms such as prices, volumes, [financial ratios](../f/financial_ratios.md), and [technical indicators](../t/technical_indicators.md). These data types often have different scales. For example, stock prices may [range](../r/range.md) from a few dollars to several thousand dollars, while trading volumes can vary from hundreds to millions of [shares](../s/shares.md). Raw data with such discrepancies can lead to misleading outcomes in analyses and models.

@@ -1,6 +1,6 @@
 # LSTM Applications
 
-Long Short-Term Memory (LSTM) networks are a specialized form of Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) designed to [handle](../h/handle.md) [time series](../t/time_series.md) data and sequences where relationships between data points can span long durations. LSTMs have shown significant promise in various domains, including [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), speech recognition, and notably, financial trading. In trading, LSTM networks are utilized to predict stock prices, manage portfolios, and develop automatic [trading strategies](../t/trading_strategies.md). This document explores the essentials of LSTMs, how they work, and their specific applications in the trading world.
+Long Short-Term Memory (LSTM) networks are a specialized form of Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) designed to [handle](../h/handle.md) [time series](../t/time_series.md) data and sequences where relationships between data points can span long durations. LSTMs have shown significant promise in various domains, including [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), [speech recognition](../s/speech_recognition.md), and notably, financial trading. In trading, LSTM networks are utilized to predict stock prices, manage portfolios, and develop automatic [trading strategies](../t/trading_strategies.md). This document explores the essentials of LSTMs, how they work, and their specific applications in the trading world.
 
 ## Understanding LSTMs
 
@@ -83,8 +83,8 @@ When implementing LSTM models in trading, there are several considerations to ke
 
 Several platforms and frameworks facilitate the development and deployment of LSTM models for trading:
 
-- **TensorFlow and Keras:** Popular [deep learning](../d/deep_learning.md) frameworks that provide powerful tools for building and training LSTM models.
-- **[QuantConnect](../q/quantconnect.md) ([quantconnect.com](https://www.quantconnect.com/)):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports the integration of machine learning models, including LSTMs.
+- **[TensorFlow](../t/tensorflow.md) and [Keras](../k/keras.md):** Popular [deep learning](../d/deep_learning.md) frameworks that provide powerful tools for building and training LSTM models.
+- **[QuantConnect](../q/quantconnect.md) ([quantconnect.com](https://www.quantconnect.com/)):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports the integration of [machine learning](../m/machine_learning.md) models, including LSTMs.
 - **[Alpaca](../a/alpaca.md) ([alpaca.markets](https://alpaca.markets/)):** A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that offers APIs to integrate custom [trading algorithms](../t/trading_algorithms.md), such as those based on LSTM predictions.
 - **[Interactive Brokers](../i/interactive_brokers.md) ([interactivebrokers.com](https://www.interactivebrokers.com/)):** A brokerage that provides extensive API support for [algorithmic trading](../a/algorithmic_trading.md).
 

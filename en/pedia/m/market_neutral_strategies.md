@@ -22,7 +22,7 @@ Fixed-[income](../i/income.md) [arbitrage](../a/arbitrage.md) strategies involve
 ## Methods of Implementation
 
 ### Quantitative Models
-[Quantitative models](../q/quantitative_models.md) form the backbone of [market neutral](../m/market_neutral.md) strategies. These models use historical data to identify patterns, correlations, and deviations that can be exploited for [profit](../p/profit.md). Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly employed to enhance these models.
+[Quantitative models](../q/quantitative_models.md) form the backbone of [market neutral](../m/market_neutral.md) strategies. These models use historical data to identify patterns, correlations, and deviations that can be exploited for [profit](../p/profit.md). [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly employed to enhance these models.
 
 ### Risk Management Techniques
 Proper [risk management](../r/risk_management.md) is crucial for [market neutral](../m/market_neutral.md) strategies. This includes setting stop-loss levels, diversifying trades, and using [leverage](../l/leverage.md) judiciously to avoid exposure to systematic risks that could negate the strategy’s neutrality.
@@ -59,7 +59,7 @@ Citadel LLC, founded by Ken Griffin in 1990, is a prominent [hedge fund](../h/he
 [Visit Citadel](https://www.citadel.com/)
 
 ### Two Sigma
-Two Sigma is another leading [hedge fund](../h/hedge_fund.md) known for its advancements in technology and [quantitative trading](../q/quantitative_trading.md). The [firm](../f/firm.md) extensively uses [market neutral](../m/market_neutral.md) strategies and leverages machine learning to improve its [trading models](../t/trading_models.md).
+Two Sigma is another leading [hedge fund](../h/hedge_fund.md) known for its advancements in technology and [quantitative trading](../q/quantitative_trading.md). The [firm](../f/firm.md) extensively uses [market neutral](../m/market_neutral.md) strategies and leverages [machine learning](../m/machine_learning.md) to improve its [trading models](../t/trading_models.md).
 [Visit Two Sigma](https://www.twosigma.com/)
 
 ### Renaissance Technologies

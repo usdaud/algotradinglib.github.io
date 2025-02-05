@@ -39,7 +39,7 @@ UBS has embraced the FinTech revolution, reflected in initiatives like UBS Next.
 
 ### Algotrading
 
-UBS leverages [algorithmic trading](../a/accountability.md) (algotrading) as a cornerstone of its [trading strategy](../t/trading_strategy.md). Algotrading involves the use of complex [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computing to execute trades at optimal times and prices. UBS's algotrading platforms integrate advanced algorithms to manage [market](../m/market.md) risks, optimize [trading performance](../t/trading_performance.md), and reduce manual intervention. The deployment of machine learning and AI in algotrading allows UBS to adapt to [market](../m/market.md) conditions in real-time, ensuring [competitive advantage](../c/competitive_advantage.md) in high-frequency trading environments.
+UBS leverages [algorithmic trading](../a/accountability.md) (algotrading) as a cornerstone of its [trading strategy](../t/trading_strategy.md). Algotrading involves the use of complex [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computing to execute trades at optimal times and prices. UBS's algotrading platforms integrate advanced algorithms to manage [market](../m/market.md) risks, optimize [trading performance](../t/trading_performance.md), and reduce manual intervention. The deployment of [machine learning](../m/machine_learning.md) and AI in algotrading allows UBS to adapt to [market](../m/market.md) conditions in real-time, ensuring [competitive advantage](../c/competitive_advantage.md) in high-frequency trading environments.
 
 ### Innovation Lab
 

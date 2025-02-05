@@ -72,7 +72,7 @@ Renaissance Technologies is famous for its Medallion [Fund](../f/fund.md), which
 - [Renaissance Technologies](https://www.rentec.com/)
 
 #### 3. Two Sigma Investments
-Two Sigma utilizes [big data](../b/big_data_in_trading.md) and machine learning to develop strategies that can include various holding periods. This [firm](../f/firm.md) focuses heavily on research and employs a wide array of quant strategies.
+Two Sigma utilizes [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) to develop strategies that can include various holding periods. This [firm](../f/firm.md) focuses heavily on research and employs a wide array of quant strategies.
 
 **Two Sigma Investments**
 - [Two Sigma Investments](https://www.twosigma.com/)

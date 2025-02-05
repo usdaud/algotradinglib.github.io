@@ -67,7 +67,7 @@ Algorithms can convert survey results into quantifiable [sentiment indicators](.
 
 ### 4.2. Data Integration
 
-Sentiment data from surveys can be integrated with other [market](../m/market.md) data such as price, [volume](../v/volume.md), and [volatility](../v/volatility.md) to create a multifaceted [trading strategy](../t/trading_strategy.md). Machine learning models can analyze this integrated data to make more precise [market](../m/market.md) predictions.
+Sentiment data from surveys can be integrated with other [market](../m/market.md) data such as price, [volume](../v/volume.md), and [volatility](../v/volatility.md) to create a multifaceted [trading strategy](../t/trading_strategy.md). [Machine learning](../m/machine_learning.md) models can analyze this integrated data to make more precise [market](../m/market.md) predictions.
 
 ### 4.3. Sentiment Analysis Tools
 
@@ -101,7 +101,7 @@ Interpreting sentiment data requires sophisticated models that can correctly und
 
 ## 7. Future of Sentiment Surveys in Algorithmic Trading
 
-With advancements in [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning, the future of sentiment surveys in [algorithmic trading](../a/algorithmic_trading.md) looks promising. Enhanced capabilities in text analysis and classification could lead to more accurate [sentiment indicators](../s/sentiment_indicators.md), further improving the efficacy of [trading algorithms](../t/trading_algorithms.md).
+With advancements in [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md), the future of sentiment surveys in [algorithmic trading](../a/algorithmic_trading.md) looks promising. Enhanced capabilities in text analysis and classification could lead to more accurate [sentiment indicators](../s/sentiment_indicators.md), further improving the efficacy of [trading algorithms](../t/trading_algorithms.md).
 
 ## 8. Conclusion
 

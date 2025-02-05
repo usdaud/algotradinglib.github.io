@@ -88,7 +88,7 @@ Visit [Renaissance Technologies](https://www.rentec.com/) for more information.
 
 ### Two Sigma
 
-Two Sigma uses advanced machine learning techniques to evaluate and optimize growth rates in its [trading algorithms](../t/trading_algorithms.md). The [firm](../f/firm.md) emphasizes the importance of data-driven decisions to maintain superior growth rates in their trading portfolios.
+Two Sigma uses advanced [machine learning](../m/machine_learning.md) techniques to evaluate and optimize growth rates in its [trading algorithms](../t/trading_algorithms.md). The [firm](../f/firm.md) emphasizes the importance of data-driven decisions to maintain superior growth rates in their trading portfolios.
 
 Visit [Two Sigma](https://www.twosigma.com/) for more information.
 

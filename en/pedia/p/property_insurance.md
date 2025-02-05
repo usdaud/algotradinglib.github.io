@@ -135,7 +135,7 @@ State [insurance](../i/insurance.md) departments regulate property [insurance](.
 Technology is transforming the property [insurance](../i/insurance.md) landscape with innovations such as:
 - **[Insurtech](../i/insurtech.md):** Companies leveraging technology to create new [insurance](../i/insurance.md) models and improve [customer](../c/customer.md) experience. Examples include Lemonade and Hippo.
 - **Telematics and IoT:** Using devices like smart [home](../h/home.md) sensors to monitor risks and prevent damage.
-- **AI and Machine Learning:** Enhancing [underwriting](../u/underwriting.md) by analyzing large data sets to predict risks more accurately.
+- **AI and [Machine Learning](../m/machine_learning.md):** Enhancing [underwriting](../u/underwriting.md) by analyzing large data sets to predict risks more accurately.
 
 ### Climate Adaptation
 

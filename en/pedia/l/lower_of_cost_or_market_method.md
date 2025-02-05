@@ -68,7 +68,7 @@ Fintech platforms that provide automated [accounting](../a/accounting.md) and fi
 
 ### Integrating AI for Valuation Predictions:
 
-Modern fintech solutions might integrate AI and machine learning models to predict [market](../m/market.md) values and NRV more accurately, thus automating and optimally applying the LCM method.
+Modern fintech solutions might integrate AI and [machine learning](../m/machine_learning.md) models to predict [market](../m/market.md) values and NRV more accurately, thus automating and optimally applying the LCM method.
 
 ## Challenges and Considerations
 

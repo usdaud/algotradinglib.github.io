@@ -59,7 +59,7 @@ where:
 
 [Algorithmic trading](../a/algorithmic_trading.md) systems incorporate [utility](../u/utility.md) maximization principles to make real-time decisions on [trade](../t/trade.md) [execution](../e/execution.md) and [asset allocation](../a/asset_allocation.md). These systems can quickly analyze large volumes of data, including historical prices, [market](../m/market.md) trends, and [economic indicators](../e/economic_indicators.md), to predict the most [lucrative](../l/lucrative.md) trades. The following elements are vital in [algorithm design](../a/algorithm_design.md):
 
-- **[Predictive Models](../p/predictive_models_in_trading.md):** Utilize machine learning and statistical methods to forecast [asset](../a/asset.md) prices and [market](../m/market.md) movements.
+- **[Predictive Models](../p/predictive_models_in_trading.md):** Utilize [machine learning](../m/machine_learning.md) and statistical methods to forecast [asset](../a/asset.md) prices and [market](../m/market.md) movements.
   
 - **[Risk Management](../r/risk_management.md) Module:** Continuously monitors and manages [risk](../r/risk.md) exposure to align with the [trader](../t/trader.md)’s [risk tolerance](../r/risk_tolerance.md) levels.
 
@@ -73,7 +73,7 @@ Consider a [hedge fund](../h/hedge_fund.md) that employs a quantitative [algorit
 
 1. **Data Collection and Analysis:** The algorithm collects historical price data, trading volumes, economic reports, and news articles to identify potential trading opportunities.
   
-2. **Modeling Expected Returns:** Using statistical and machine learning models, the algorithm estimates the expected returns for various securities.
+2. **Modeling Expected Returns:** Using statistical and [machine learning](../m/machine_learning.md) models, the algorithm estimates the expected returns for various securities.
 
 3. **[Risk](../r/risk.md) Assessment:** The algorithm evaluates the [covariance](../c/covariance.md) matrix of [security](../s/security.md) returns to understand the portfolio's [risk](../r/risk.md) characteristics.
 

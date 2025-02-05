@@ -44,7 +44,7 @@ Several major investment firms and [hedge](../h/hedge.md) funds employ [quantita
 
 - **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies is a pioneer in [quantitative investing](../q/quantitative_investing.md). Although primarily focused on high-frequency trading, the [firm](../f/firm.md) also employs [value](../v/value.md)-oriented strategies in some of its funds. Their innovative approach has set the standard for combining [quantitative analysis](../q/quantitative_analysis.md) with investment strategies. Visit their website for more details: [Renaissance Technologies](https://www.rentec.com).
 
-- **Two Sigma Investments**: Another leading [quant fund](../q/quant_fund.md), Two Sigma uses machine learning, distributed computing, and sophisticated quantitative methods to develop investment strategies. The [firm](../f/firm.md) integrates [value investing](../v/value_investing.md) principles into some of its models to identify [lucrative](../l/lucrative.md) opportunities. Additional information is available at their website: [Two Sigma](https://www.twosigma.com).
+- **Two Sigma Investments**: Another leading [quant fund](../q/quant_fund.md), Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and sophisticated quantitative methods to develop investment strategies. The [firm](../f/firm.md) integrates [value investing](../v/value_investing.md) principles into some of its models to identify [lucrative](../l/lucrative.md) opportunities. Additional information is available at their website: [Two Sigma](https://www.twosigma.com).
 
 #### Ethical and Regulatory Considerations
 

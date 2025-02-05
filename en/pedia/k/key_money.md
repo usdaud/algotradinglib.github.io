@@ -33,11 +33,11 @@ Proprietary data feeds can also be purchased from exchanges or specialized data 
 
 #### Proprietary Trading Algorithms
 
-Developing [proprietary trading](../p/proprietary_trading.md) algorithms requires significant investment. These algorithms are often the result of extensive research and development, incorporating advanced [mathematical models](../m/mathematical_models_in_trading.md), machine learning, and statistical analysis. Moreover, specialist programming skills are required to implement these algorithms effectively.
+Developing [proprietary trading](../p/proprietary_trading.md) algorithms requires significant investment. These algorithms are often the result of extensive research and development, incorporating advanced [mathematical models](../m/mathematical_models_in_trading.md), [machine learning](../m/machine_learning.md), and statistical analysis. Moreover, specialist programming skills are required to implement these algorithms effectively.
 
 - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers a cloud-based platform for [algorithmic trading](../a/accountability.md). While they [offer](../o/offer.md) a free tier, more advanced features and institutions may require substantial subscription fees.
 
-- **Numerai**: Numerai lets data scientists build machine learning models for trading, compensating them based on the model's performance. Participation often requires upfront investment in talent and technology.
+- **Numerai**: Numerai lets data scientists build [machine learning](../m/machine_learning.md) models for trading, compensating them based on the model's performance. Participation often requires upfront investment in talent and technology.
 
 #### High-Frequency Trading (HFT) Infrastructure
 

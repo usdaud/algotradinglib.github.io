@@ -67,7 +67,7 @@ The [underemployment](../u/underemployment.md) rate captures those who are emplo
 
 #### Numerai
 
-[Numerai](https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) that utilizes a collective of data scientist submissions to drive its [trading strategies](../t/trading_strategies.md). Through data curation and machine learning models, Numerai can analyze [unemployment](../u/unemployment.md) indicators to refine its [market](../m/market.md) predictions and optimize its [portfolio performance](../p/portfolio_performance.md).
+[Numerai](https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) that utilizes a collective of data scientist submissions to drive its [trading strategies](../t/trading_strategies.md). Through data curation and [machine learning](../m/machine_learning.md) models, Numerai can analyze [unemployment](../u/unemployment.md) indicators to refine its [market](../m/market.md) predictions and optimize its [portfolio performance](../p/portfolio_performance.md).
 
 ### Algorithm Design Considerations
 
@@ -76,7 +76,7 @@ When designing algorithms that [leverage](../l/leverage.md) [unemployment](../u/
 1. **Data Quality**: Ensuring the accuracy and reliability of [unemployment](../u/unemployment.md) data is paramount. Incorrect data can lead to erroneous trades.
 2. **Latency**: Rapid response to the release of [unemployment](../u/unemployment.md) data can be critical. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md), in particular, must process data with minimal delay to [capitalize](../c/capitalize.md) on [market](../m/market.md) movements.
 3. **Historical Analysis**: [Backtesting](../b/backtesting.md) algorithms with historical [unemployment](../u/unemployment.md) data helps validate their effectiveness and refine their parameters.
-4. **Machine Learning**: Incorporating machine learning can enhance algorithms' ability to predict [market](../m/market.md) movements based on [unemployment](../u/unemployment.md) indicators. Models like [regression analysis](../r/regression_analysis.md), [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) can be deployed.
+4. **[Machine Learning](../m/machine_learning.md)**: Incorporating [machine learning](../m/machine_learning.md) can enhance algorithms' ability to predict [market](../m/market.md) movements based on [unemployment](../u/unemployment.md) indicators. Models like [regression analysis](../r/regression_analysis.md), [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) can be deployed.
 5. **[Risk Management](../r/risk_management.md)**: Developing [robust](../r/robust.md) [risk management](../r/risk_management.md) protocols to prevent significant losses due to unexpected [unemployment](../u/unemployment.md) data is essential.
 
 ## Conclusion

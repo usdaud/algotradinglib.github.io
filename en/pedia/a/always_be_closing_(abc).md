@@ -30,7 +30,7 @@ The term "Always Be Closing" was popularized by David Mamet's 1992 film "Glengar
 
 ### 2. Two Sigma
 
-[Two Sigma](https://www.twosigma.com) employs a scientific approach to [investment management](../i/investment_management.md). The [firm](../f/firm.md) uses machine learning, distributed computing, and vast sets of data to optimize [trading strategies](../t/trading_strategies.md) continually, focusing on "closing" profitable transactions in the competitive landscape of [financial markets](../f/financial_market.md).
+[Two Sigma](https://www.twosigma.com) employs a scientific approach to [investment management](../i/investment_management.md). The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md), distributed computing, and vast sets of data to optimize [trading strategies](../t/trading_strategies.md) continually, focusing on "closing" profitable transactions in the competitive landscape of [financial markets](../f/financial_market.md).
 
 ### 3. Renaissance Technologies
 

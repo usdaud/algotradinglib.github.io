@@ -37,7 +37,7 @@ Key tools used in [technical analysis](../t/technical_analysis.md) include:
 Key techniques in [quantitative analysis](../q/quantitative_analysis.md) include:
 - **Statistical [Arbitrage](../a/arbitrage.md):** Using statistical models to exploit pricing inefficiencies between related assets.
 - **[Factor Models](../f/factor_models.md):** Analyzing various factors such as [market risk](../m/market_risk.md), size, [value](../v/value.md), and [momentum](../m/momentum.md) to explain [asset](../a/asset.md) returns.
-- **Machine Learning:** Applying algorithms that can learn from and make predictions based on data.
+- **[Machine Learning](../m/machine_learning.md):** Applying algorithms that can learn from and make predictions based on data.
 
 ### 4. Discounted Cash Flow (DCF) Analysis
 

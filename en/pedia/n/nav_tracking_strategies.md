@@ -65,7 +65,7 @@ Statistical [arbitrage](../a/arbitrage.md) utilizes statistical and [mathematica
 #### Methodology
 - **[Mean Reversion](../m/mean_reversion.md)**: Betting that the price of a mispriced [security](../s/security.md) [will](../w/will.md) revert to its historical mean.
 - **[Pairs Trading](../p/pairs_trading.md)**: Simultaneously buying and selling correlated securities to exploit relative price movements.
-- **Machine Learning**: Implementing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict price movements and optimize [trading strategies](../t/trading_strategies.md).
+- **[Machine Learning](../m/machine_learning.md)**: Implementing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict price movements and optimize [trading strategies](../t/trading_strategies.md).
 
 ## Technological and Analytical Tools
 
@@ -75,7 +75,7 @@ HFT systems are integral to NAV tracking strategies, providing the computational
 
 ### Quantitative Models
 
-[Quantitative models](../q/quantitative_models.md), including those built on statistical, econometric, and machine learning techniques, form the backbone of NAV tracking and adjustments.
+[Quantitative models](../q/quantitative_models.md), including those built on statistical, econometric, and [machine learning](../m/machine_learning.md) techniques, form the backbone of NAV tracking and adjustments.
 
 ### Data Feeds and APIs
 

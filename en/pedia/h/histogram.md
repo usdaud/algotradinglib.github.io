@@ -1,6 +1,6 @@
 # Histogram
 
-A histogram is a graphical representation of the [distribution](../d/distribution.md) of numerical data. It is an estimate of the [probability distribution](../p/probability_distribution.md) of a continuous variable and was first introduced by Karl Pearson. Histograms are widely used in statistical analysis, [data visualization](../d/data_visualization.md), and machine learning to provide insights into data [distribution](../d/distribution.md) patterns, trends, and potential outliers.
+A histogram is a graphical representation of the [distribution](../d/distribution.md) of numerical data. It is an estimate of the [probability distribution](../p/probability_distribution.md) of a continuous variable and was first introduced by Karl Pearson. Histograms are widely used in statistical analysis, [data visualization](../d/data_visualization.md), and [machine learning](../m/machine_learning.md) to provide insights into data [distribution](../d/distribution.md) patterns, trends, and potential outliers.
 
 ## Components of a Histogram
 
@@ -74,7 +74,7 @@ Histograms play a vital role in statistical analysis:
 
 ### Machine Learning
 
-In machine learning, histograms are used to:
+In [machine learning](../m/machine_learning.md), histograms are used to:
 - **Feature Engineering**: Transform raw data into features for modeling (e.g., binning continuous variables).
 - **Model Diagnostics**: Evaluate model performance by examining error distributions.
 
@@ -232,4 +232,4 @@ plt.show()
 
 ## Conclusion
 
-Histograms are versatile tools that provide a visual representation of data [distribution](../d/distribution.md), making them valuable for various applications in [data visualization](../d/data_visualization.md), statistical analysis, machine learning, and [algorithmic trading](../a/accountability.md). Whether analyzing financial data, evaluating [trading algorithms](../t/trading_algorithms.md), or transforming features for machine learning models, histograms [offer](../o/offer.md) a straightforward yet powerful means of extracting insights from data. Proper understanding and utilization of histograms can lead to more informed decision-making and improved outcomes in diverse fields.
+Histograms are versatile tools that provide a visual representation of data [distribution](../d/distribution.md), making them valuable for various applications in [data visualization](../d/data_visualization.md), statistical analysis, [machine learning](../m/machine_learning.md), and [algorithmic trading](../a/accountability.md). Whether analyzing financial data, evaluating [trading algorithms](../t/trading_algorithms.md), or transforming features for [machine learning](../m/machine_learning.md) models, histograms [offer](../o/offer.md) a straightforward yet powerful means of extracting insights from data. Proper understanding and utilization of histograms can lead to more informed decision-making and improved outcomes in diverse fields.

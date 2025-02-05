@@ -37,13 +37,13 @@ Several methodologies can be employed to forecast the jobless rate. These method
    - **ARIMA Models**: Auto-Regressive Integrated Moving Average models are used for time-series [forecasting](../f/forecasting.md) by analyzing the differences between values in a [time series](../t/time_series.md) to reduce non-stationarity.
    - **Vector Autoregressions (VAR)**: VAR models consider [multiple](../m/multiple.md) [time series](../t/time_series.md) (such as jobless rate, [inflation](../i/inflation.md), and [interest](../i/interest.md) rates) and their interdependencies.
 
-2. **Machine Learning Models**:
+2. **[Machine Learning](../m/machine_learning.md) Models**:
    - **[Decision Trees](../d/decision_trees.md) and [Random Forests](../r/random_forests_in_trading.md)**: These models split the data into subsets based on various conditions, making them [robust](../r/robust.md) against [overfitting](../o/overfitting.md).
    - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Neural networks](../n/neural_networks_in_trading.md) are particularly adept at capturing complex nonlinear relationships and patterns in large datasets.
-   - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: SVMs are supervised learning models useful for classification and regression problems within high-dimensional spaces.
+   - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: SVMs are [supervised learning](../s/supervised_learning.md) models useful for classification and regression problems within high-dimensional spaces.
 
 3. **Hybrid Models**:
-   - Combining traditional econometric models with machine learning techniques is becoming more popular. For example, utilizing a VAR model for initial predictions and refining these predictions using [neural networks](../n/neural_networks_in_trading.md).
+   - Combining traditional econometric models with [machine learning](../m/machine_learning.md) techniques is becoming more popular. For example, utilizing a VAR model for initial predictions and refining these predictions using [neural networks](../n/neural_networks_in_trading.md).
 
 ### Challenges in Jobless Rate Forecasting
 
@@ -55,9 +55,9 @@ Several methodologies can be employed to forecast the jobless rate. These method
  
 3. **Economic Shocks**: Unforeseen events, such as financial crises, pandemics, and geopolitical tensions, can drastically disrupt normal employment trends.
 
-4. **Model [Overfitting](../o/overfitting.md)**: Particularly with machine learning models, there is a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) to historical data, potentially producing inaccurate future predictions.
+4. **Model [Overfitting](../o/overfitting.md)**: Particularly with [machine learning](../m/machine_learning.md) models, there is a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) to historical data, potentially producing inaccurate future predictions.
 
-5. **Interpretability**: Particularly with advanced machine learning models, interpretability can suffer. It becomes challenging to understand the why behind a particular forecast.
+5. **Interpretability**: Particularly with advanced [machine learning](../m/machine_learning.md) models, interpretability can suffer. It becomes challenging to understand the why behind a particular forecast.
 
 ### Case Study: Algorithmic Trading Firms and Jobless Rate Forecasting
 
@@ -65,7 +65,7 @@ Algorithimic trading firms such as [Two Sigma](https://www.twosigma.com/) and [R
 
 1. **Data Collection**: The [firm](../f/firm.md) gathers data from [multiple](../m/multiple.md) sources, including government reports, private surveys, and [big data analytics](../b/big_data_analytics_in_trading.md).
 
-2. **Model Development**: Combining econometric models with machine learning techniques, the [firm](../f/firm.md) develops a composite model that predicts the jobless rate.
+2. **Model Development**: Combining econometric models with [machine learning](../m/machine_learning.md) techniques, the [firm](../f/firm.md) develops a composite model that predicts the jobless rate.
 
 3. **Integration into [Trading Systems](../t/trading_systems.md)**: The predicted jobless rate influences trading decisions. For instance, an anticipated rise in the jobless rate might trigger the [firm](../f/firm.md) to take a short position in [equity](../e/equity.md) markets.
 
@@ -83,4 +83,4 @@ Algorithimic trading firms such as [Two Sigma](https://www.twosigma.com/) and [R
 
 ### Conclusion
 
-Jobless rate [forecasting](../f/forecasting.md) is a vital aspect of economic analysis that has substantial implications for policymaking, corporate strategy, and [algorithmic trading](../a/algorithmic_trading.md). The intersection of [econometrics](../e/econometrics_in_trading.md), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) offers promising avenues for enhancing the accuracy and [utility](../u/utility.md) of these forecasts. As technology evolves and new data sources become available, the precision of jobless rate [forecasting](../f/forecasting.md) [will](../w/will.md) continue to improve, providing better insights and strategies for all stakeholders involved.
+Jobless rate [forecasting](../f/forecasting.md) is a vital aspect of economic analysis that has substantial implications for policymaking, corporate strategy, and [algorithmic trading](../a/algorithmic_trading.md). The intersection of [econometrics](../e/econometrics_in_trading.md), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) offers promising avenues for enhancing the accuracy and [utility](../u/utility.md) of these forecasts. As technology evolves and new data sources become available, the precision of jobless rate [forecasting](../f/forecasting.md) [will](../w/will.md) continue to improve, providing better insights and strategies for all stakeholders involved.

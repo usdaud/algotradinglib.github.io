@@ -106,7 +106,7 @@ The rise of internalization has had a significant impact on public exchanges. As
 
 The future of internalization [will](../w/will.md) likely be shaped by technological advancements, regulatory changes, and evolving [market](../m/market.md) structures. Key trends to watch include:
 
-1. **Increased Use of [Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: AI and machine learning [will](../w/will.md) enhance the capabilities of internalization algorithms, making them more effective at managing complex [trade](../t/trade.md) flows and [market](../m/market.md) conditions.
+1. **Increased Use of [Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: AI and [machine learning](../m/machine_learning.md) [will](../w/will.md) enhance the capabilities of internalization algorithms, making them more effective at managing complex [trade](../t/trade.md) flows and [market](../m/market.md) conditions.
 
 2. **Regulatory Adjustments**: Ongoing regulatory scrutiny may lead to new rules and guidelines that balance the benefits of internalization with the need for [market](../m/market.md) [transparency](../t/transparency.md) and fairness.
 

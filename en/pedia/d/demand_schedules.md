@@ -89,7 +89,7 @@ Several trading platforms and financial services companies employ [demand](../d/
 
 1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that allows traders to design, test, and deploy [trading strategies](../t/trading_strategies.md). Their platform uses historical and real-time data to help algo traders understand [demand](../d/demand.md) schedules and optimize their strategies. More information can be found on their [official website](https://www.quantconnect.com/).
 
-2. **Kensho Technologies**: Kensho Technologies provides [data analytics](../d/data_analytics.md) and machine learning solutions to financial services companies. They [offer](../o/offer.md) tools that can help in analyzing [demand](../d/demand.md) schedules and incorporating them into [trading algorithms](../t/trading_algorithms.md). Visit them at their [official website](https://www.kensho.com/).
+2. **Kensho Technologies**: Kensho Technologies provides [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) solutions to financial services companies. They [offer](../o/offer.md) tools that can help in analyzing [demand](../d/demand.md) schedules and incorporating them into [trading algorithms](../t/trading_algorithms.md). Visit them at their [official website](https://www.kensho.com/).
 
 ## Conclusion
 

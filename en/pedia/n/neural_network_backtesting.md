@@ -14,7 +14,7 @@ Neural network [backtesting](../b/backtesting.md) is a critical process in [algo
 
 4. **Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNN)**: Originally designed for image processing, CNNs have found applications in trading by identifying patterns through different layers of processing, which can be transferred to analyzing features of trading data.
 
-5. **Generative Adversarial Networks (GANs)**: GANs consist of two [neural networks](../n/neural_networks_in_trading.md), a generator and a discriminator, working in opposition. In trading, GANs can generate synthetic data to augment limited datasets, providing more training data for models.
+5. **[Generative Adversarial Networks](../g/generative_adversarial_networks.md) (GANs)**: GANs consist of two [neural networks](../n/neural_networks_in_trading.md), a generator and a discriminator, working in opposition. In trading, GANs can generate synthetic data to augment limited datasets, providing more training data for models.
 
 ### Backtesting Frameworks and Tools
 
@@ -26,7 +26,7 @@ Neural network [backtesting](../b/backtesting.md) is a critical process in [algo
 
 3. **Zipline**: An [open](../o/open.md)-source [backtesting](../b/backtesting.md) library written in Python and maintained by Quantopian. It is used in conjunction with Python and Pandas for efficient [backtesting](../b/backtesting.md). [Zipline](https://www.zipline.io/)
 
-4. **Keras and TensorFlow**: Keras, in conjunction with TensorFlow, is often used to build and train [neural networks](../n/neural_networks_in_trading.md). These frameworks facilitate the integration of [deep learning](../d/deep_learning.md) models with [backtesting](../b/backtesting.md) libraries like Zipline and [Backtrader](../b/backtrader.md). [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/)
+4. **[Keras](../k/keras.md) and [TensorFlow](../t/tensorflow.md)**: [Keras](../k/keras.md), in conjunction with [TensorFlow](../t/tensorflow.md), is often used to build and train [neural networks](../n/neural_networks_in_trading.md). These frameworks facilitate the integration of [deep learning](../d/deep_learning.md) models with [backtesting](../b/backtesting.md) libraries like Zipline and [Backtrader](../b/backtrader.md). [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/)
 
 ### Backtesting Steps
 
@@ -52,8 +52,8 @@ data['Close'] = data['Close'].pct_change().dropna()  # Calculate returns
 Train the neural network on the historical data. This step includes defining the architecture, compiling the model, and training it using the training dataset:
 
 ```python
-from keras.models [import](../i/import.md) Sequential
-from keras.layers [import](../i/import.md) Dense, LSTM
+from [keras](../k/keras.md).models [import](../i/import.md) Sequential
+from [keras](../k/keras.md).layers [import](../i/import.md) Dense, LSTM
 
 model = Sequential()
 model.add(LSTM(units=50, return_sequences=True, input_shape=(60, 1)))

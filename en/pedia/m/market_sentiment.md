@@ -42,14 +42,14 @@ Qualitative [sentiment analysis](../s/sentiment_analysis.md) involves interpreti
 
 ### Quantitative Analysis
 
-In recent years, advancements in technology and [data analytics](../d/data_analytics.md) have enabled more sophisticated quantitative [sentiment analysis](../s/sentiment_analysis.md). Techniques such as [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning are used to analyze large volumes of text data from [social media](../s/social_media.md), news articles, and [earnings](../e/earnings.md) reports to measure sentiment.
+In recent years, advancements in technology and [data analytics](../d/data_analytics.md) have enabled more sophisticated quantitative [sentiment analysis](../s/sentiment_analysis.md). Techniques such as [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) are used to analyze large volumes of text data from [social media](../s/social_media.md), news articles, and [earnings](../e/earnings.md) reports to measure sentiment.
 
 ### Algorithmic Trading
 
 [Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) often incorporate [sentiment analysis](../s/sentiment_analysis.md) to make informed trading decisions. By using algorithms to analyze sentiment data, traders can quickly identify and react to changes in [market](../m/market.md) sentiment, potentially gaining a competitive edge.
 
 **Example Company: Kensho Technologies**
-[Kensho Technologies](https://www.kensho.com/), a subsidiary of S&P Global, provides advanced analytics, including [market sentiment analysis](../m/market_sentiment_analysis.md), through the use of AI and machine learning.
+[Kensho Technologies](https://www.kensho.com/), a subsidiary of S&P Global, provides advanced analytics, including [market sentiment analysis](../m/market_sentiment_analysis.md), through the use of AI and [machine learning](../m/machine_learning.md).
 
 ## Sentiment in Different Financial Markets
 
@@ -132,7 +132,7 @@ The use of [sentiment analysis](../s/sentiment_analysis.md), particularly when i
 
 ### Integration with AI and Machine Learning
 
-The future of [sentiment analysis](../s/sentiment_analysis.md) lies in further integration with AI and machine learning technologies. These advanced technologies can analyze vast amounts of data with high accuracy, providing deeper insights into [market](../m/market.md) sentiment.
+The future of [sentiment analysis](../s/sentiment_analysis.md) lies in further integration with AI and [machine learning](../m/machine_learning.md) technologies. These advanced technologies can analyze vast amounts of data with high accuracy, providing deeper insights into [market](../m/market.md) sentiment.
 
 ### Real-time Sentiment Analysis
 

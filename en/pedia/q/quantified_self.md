@@ -26,7 +26,7 @@ To effectively quantify oneself, various elements and methodologies are typicall
 ### 3. **Data Analysis**
 
 1. **Statistical Analysis:** Analyzing the tracked data to identify patterns, trends, and correlations.
-2. **Machine Learning:** Leveraging algorithms to predict future outcomes or to [gain](../g/gain.md) actionable insights from complex datasets.
+2. **[Machine Learning](../m/machine_learning.md):** Leveraging algorithms to predict future outcomes or to [gain](../g/gain.md) actionable insights from complex datasets.
 3. **Visualization Tools:** Graphs, charts, and dashboards that help in understanding and interpreting the data clearly.
 
 ### 4. **Behavioral Science**
@@ -78,7 +78,7 @@ There's a [risk](../r/risk.md) that individuals might become overly dependent on
 
 ## Future Trends
 
-The future of the Quantified Self movement [will](../w/will.md) likely involve more seamless and sophisticated integration of tracking tools into everyday life. Advances in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning [will](../w/will.md) enable more profound insights and predictions, while enhanced [security](../s/security.md) protocols [will](../w/will.md) address privacy concerns.
+The future of the Quantified Self movement [will](../w/will.md) likely involve more seamless and sophisticated integration of tracking tools into everyday life. Advances in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) [will](../w/will.md) enable more profound insights and predictions, while enhanced [security](../s/security.md) protocols [will](../w/will.md) address privacy concerns.
 
 1. **Integration with Smart Homes:** Devices in the [home](../h/home.md) may soon track activities and health metrics more seamlessly, from digital mirrors that provide health tips to smart beds that monitor sleep.
 

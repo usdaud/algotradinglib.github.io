@@ -65,7 +65,7 @@ Combining [trendline](../t/trendline.md) breakouts with other indicators can enh
 2. **RSI or MACD**: Incorporate RSI or MACD to avoid false breakouts.
 
 ### Machine Learning
-Integrate machine learning to predict [breakout](../b/breakout.md) sustainability:
+Integrate [machine learning](../m/machine_learning.md) to predict [breakout](../b/breakout.md) sustainability:
 1. **Feature Engineering**: Create features based on historical [breakout](../b/breakout.md) data.
 2. **Model Training**: Train models to predict whether a [breakout](../b/breakout.md) [will](../w/will.md) lead to a significant [trend](../t/trend.md) or revert.
 

@@ -54,11 +54,11 @@ Several [software platforms](../s/software_platforms_for_trading.md) provide too
 
 ### Role of Machine Learning
 
-Machine learning techniques have become increasingly important in [holdings](../h/holdings.md) analysis, providing advanced methods to predict [security](../s/security.md) prices, classify [asset](../a/asset.md) types, and optimize [portfolio performance](../p/portfolio_performance.md). Approaches include:
+[Machine learning](../m/machine_learning.md) techniques have become increasingly important in [holdings](../h/holdings.md) analysis, providing advanced methods to predict [security](../s/security.md) prices, classify [asset](../a/asset.md) types, and optimize [portfolio performance](../p/portfolio_performance.md). Approaches include:
 
-- **Supervised Learning**: Algorithms learn from historical data to predict future [asset](../a/asset.md) performance.
-- **Unsupervised Learning**: Used for clustering and segmenting assets into different groups based on characteristics.
-- **Reinforcement Learning**: Algorithms learn to make trading decisions by interacting with the [market](../m/market.md) environment and receiving feedback.
+- **[Supervised Learning](../s/supervised_learning.md)**: Algorithms learn from historical data to predict future [asset](../a/asset.md) performance.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Used for clustering and segmenting assets into different groups based on characteristics.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Algorithms learn to make trading decisions by interacting with the [market](../m/market.md) environment and receiving feedback.
 
 ## Process of Holdings Analysis
 
@@ -85,4 +85,4 @@ Several challenges are associated with [holdings](../h/holdings.md) analysis in 
 
 ## Conclusion
 
-[Holdings](../h/holdings.md) analysis is a fundamental component of [portfolio management](../p/portfolio_management.md) and [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) insights that drive informed investment decisions and [risk management](../r/risk_management.md) strategies. By leveraging advanced quantitative techniques, analytical tools, and machine learning models, traders and portfolio managers can optimize their [holdings](../h/holdings.md) for better performance and reduced [risk](../r/risk.md). As technology continues to evolve, the methods and tools for [holdings](../h/holdings.md) analysis [will](../w/will.md) become even more sophisticated, further enhancing the capabilities of [algorithmic trading](../a/algorithmic_trading.md).
+[Holdings](../h/holdings.md) analysis is a fundamental component of [portfolio management](../p/portfolio_management.md) and [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) insights that drive informed investment decisions and [risk management](../r/risk_management.md) strategies. By leveraging advanced quantitative techniques, analytical tools, and [machine learning](../m/machine_learning.md) models, traders and portfolio managers can optimize their [holdings](../h/holdings.md) for better performance and reduced [risk](../r/risk.md). As technology continues to evolve, the methods and tools for [holdings](../h/holdings.md) analysis [will](../w/will.md) become even more sophisticated, further enhancing the capabilities of [algorithmic trading](../a/algorithmic_trading.md).

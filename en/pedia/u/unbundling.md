@@ -86,7 +86,7 @@ The Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md))
 
 ## Future of Unbundling
 
-As technology continues to advance, the [trend](../t/trend.md) towards unbundling in financial services and other industries is likely to persist. [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are expected to further enable the [specialization](../s/specialization.md) and personalization of services. For instance, AI-driven [customer](../c/customer.md) support can [offer](../o/offer.md) personalized advice and solutions, enhancing the unbundled consumer experience.
+As technology continues to advance, the [trend](../t/trend.md) towards unbundling in financial services and other industries is likely to persist. [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are expected to further enable the [specialization](../s/specialization.md) and personalization of services. For instance, AI-driven [customer](../c/customer.md) support can [offer](../o/offer.md) personalized advice and solutions, enhancing the unbundled consumer experience.
 
 ### Fintech Ecosystem
 

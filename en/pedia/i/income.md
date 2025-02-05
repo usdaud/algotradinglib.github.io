@@ -68,8 +68,8 @@ Government income is primarily derived from [taxes](../t/taxes.md) and other com
 4. **[Algorithmic Execution](../a/algorithmic_execution.md):**
    - [Passive income](../p/passive_income.md) can also be derived through optimized [execution algorithms](../e/execution_algorithms.md) designed to reduce the cost of trading. By minimizing [market](../m/market.md) impact, these strategies ensure better prices for large orders over time.
 
-5. **Machine Learning Techniques:**
-   - By employing AI and machine learning, algos can make predictive decisions, adjusting to new data in real-time. Techniques such as reinforcement learning and [neural networks](../n/neural_networks_in_trading.md) aid in generating [robust](../r/robust.md) income streams by dynamically adapting [trading strategies](../t/trading_strategies.md).
+5. **[Machine Learning](../m/machine_learning.md) Techniques:**
+   - By employing AI and [machine learning](../m/machine_learning.md), algos can make predictive decisions, adjusting to new data in real-time. Techniques such as [reinforcement learning](../r/reinforcement_learning.md) and [neural networks](../n/neural_networks_in_trading.md) aid in generating [robust](../r/robust.md) income streams by dynamically adapting [trading strategies](../t/trading_strategies.md).
 
 ### Key Players in Algorithmic Trading
 

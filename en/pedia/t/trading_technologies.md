@@ -29,7 +29,7 @@ An [order](../o/order.md) and [execution](../e/execution.md) management system d
 
 ### 3. TT Score
 
-A machine learning-powered [trade](../t/trade.md) surveillance and compliance solution.
+A [machine learning](../m/machine_learning.md)-powered [trade](../t/trade.md) surveillance and compliance solution.
 
 #### Key Features:
 - [Pattern recognition](../p/pattern_recognition.md) for potentially abusive trading practices
@@ -60,7 +60,7 @@ TT provides low-latency connectivity and hosting solutions.
 - HTML5 front-end for cross-platform compatibility
 - FIX protocol support for [order routing](../o/order_routing.md)
 - RESTful APIs for third-party integrations
-- Machine learning and AI for [predictive analytics](../p/predictive_analytics.md) and surveillance
+- [Machine learning](../m/machine_learning.md) and AI for [predictive analytics](../p/predictive_analytics.md) and surveillance
 
 ## Supported Markets and Asset Classes
 
@@ -131,7 +131,7 @@ TT provides low-latency connectivity and hosting solutions.
 
 ## Recent Innovations
 
-- [Expansion](../e/expansion.md) of machine learning capabilities in trading and surveillance
+- [Expansion](../e/expansion.md) of [machine learning](../m/machine_learning.md) capabilities in trading and surveillance
 - Enhanced cryptocurrency trading features
 - Development of more sophisticated [risk management](../r/risk_management.md) tools
 - Continued focus on reducing latency in [order](../o/order.md) [execution](../e/execution.md)

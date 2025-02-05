@@ -1,6 +1,6 @@
 # Bias-Variance Tradeoff
 
-The bias-variance tradeoff is a fundamental concept in supervised machine learning and statistical modeling that describes the tradeoff between two sources of errors that affect the performance of [predictive models](../p/predictive_models_in_trading.md): bias and variance. Understanding this tradeoff is essential for selecting models that generalize well to new, unseen data.
+The bias-variance tradeoff is a fundamental concept in supervised [machine learning](../m/machine_learning.md) and statistical modeling that describes the tradeoff between two sources of errors that affect the performance of [predictive models](../p/predictive_models_in_trading.md): bias and variance. Understanding this tradeoff is essential for selecting models that generalize well to new, unseen data.
 
 ## Bias
 
@@ -80,7 +80,7 @@ Hyperparameter tuning is crucial in managing bias and variance. For example:
 Increasing the amount of data typically reduces variance, giving the model more opportunities to identify [underlying](../u/underlying.md) patterns.
 
 - **Synthetic data generation**: Techniques such as SMOTE (Synthetic Minority Over-[sampling](../s/sampling.md) Technique) can be used to generate new synthetic data points.
-- **Data augmentation in computer vision**: Techniques like rotation, scaling, and flipping images to create more training data.
+- **[Data augmentation](../d/data_augmentation.md) in [computer vision](../c/computer_vision.md)**: Techniques like rotation, scaling, and flipping images to create more training data.
 
 ### Ensemble Methods
 
@@ -98,9 +98,9 @@ Regularization techniques are essential for managing the complexity of models:
 
 ## Conclusion
 
-The bias-variance tradeoff is a critical aspect of model selection and evaluation in machine learning and statistical modeling. Striking the right balance involves a combination of choosing the appropriate model, tuning hyperparameters, increasing data [volume](../v/volume.md), and using ensemble and regularization techniques. Understanding and managing this tradeoff allows for the development of [robust](../r/robust.md) models that generalize well on unseen data.
+The bias-variance tradeoff is a critical aspect of model selection and evaluation in [machine learning](../m/machine_learning.md) and statistical modeling. Striking the right balance involves a combination of choosing the appropriate model, tuning hyperparameters, increasing data [volume](../v/volume.md), and using ensemble and regularization techniques. Understanding and managing this tradeoff allows for the development of [robust](../r/robust.md) models that generalize well on unseen data.
 
 ## Resources for Further Reading
 
 - **Elements of Statistical Learning**: A comprehensive text by Hastie, Tibshirani, and Friedman discussing statistical learning, including the bias-variance tradeoff.
-- **Machine Learning Yearning**: A practical guide by Andrew Ng, focusing on applied machine learning techniques and considerations like bias-variance tradeoffs.
+- **[Machine Learning](../m/machine_learning.md) Yearning**: A practical guide by Andrew Ng, focusing on applied [machine learning](../m/machine_learning.md) techniques and considerations like bias-variance tradeoffs.

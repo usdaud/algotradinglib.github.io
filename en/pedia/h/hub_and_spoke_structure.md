@@ -8,7 +8,7 @@ In the realm of [algorithmic trading](../a/accountability.md) and [quantitative 
 
 1. **Central Data Repository**: The hub is typically a centralized repository that consolidates data from various sources, including [market](../m/market.md) data feeds, trading platforms, and external APIs for news or [economic indicators](../e/economic_indicators.md). High-frequency trading platforms like [QuantConnect](https://www.quantconnect.com) and [KX](https://kx.com/) often serve as hubs in [algorithmic trading](../a/accountability.md).
 
-2. **Decision Engines**: At the core of the hub, advanced algorithms, machine learning models, and statistical techniques are applied to generate [trading signals](../t/trading_signals.md). These decision engines [leverage](../l/leverage.md) the consolidated data to identify trading opportunities, predict [market](../m/market.md) movements, and optimize [trade](../t/trade.md) executions. Companies like [Hudson River Trading](https://www.hudsonrivertrading.com) implement such intelligent engines.
+2. **Decision Engines**: At the core of the hub, advanced algorithms, [machine learning](../m/machine_learning.md) models, and statistical techniques are applied to generate [trading signals](../t/trading_signals.md). These decision engines [leverage](../l/leverage.md) the consolidated data to identify trading opportunities, predict [market](../m/market.md) movements, and optimize [trade](../t/trade.md) executions. Companies like [Hudson River Trading](https://www.hudsonrivertrading.com) implement such intelligent engines.
 
 3. **[Risk Management Systems](../r/risk_management_systems.md)**: The hub also houses sophisticated [risk management frameworks](../r/risk_management_frameworks.md) designed to monitor and mitigate trading risks. These systems evaluate portfolio exposure, assess [counterparty](../c/counterparty.md) risks, and enforce compliance with regulatory requirements. Platforms like [Kinetic Partners](https://www.duffandphelps.com/our-services/compliance-and-regulatory-consulting/kinetic-partners) [offer](../o/offer.md) services that integrate into the hub.
 
@@ -44,7 +44,7 @@ High-speed communication networks link the hub and its spokes, ensuring that inf
 
 ### Improved Decision Making
 
-By centralizing data processing and decision-making capabilities in the hub, trading firms can [leverage](../l/leverage.md) advanced algorithms and machine learning models to make more accurate and faster decisions. 
+By centralizing data processing and decision-making capabilities in the hub, trading firms can [leverage](../l/leverage.md) advanced algorithms and [machine learning](../m/machine_learning.md) models to make more accurate and faster decisions. 
 
 ### Enhanced Scalability
 

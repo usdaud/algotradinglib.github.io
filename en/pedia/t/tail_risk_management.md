@@ -24,7 +24,7 @@ Different statistical tools and metrics are employed to quantify [tail risk](../
 ### Technology and Tail Risk Management
 Algorithmic traders can [leverage](../l/leverage.md) technology to monitor, evaluate, and respond to tail risks more effectively:
 - **High-Frequency [Data Analytics](../d/data_analytics.md)**: Using vast datasets and high-frequency trading data, algorithms can identify and react to extreme patterns promptly.
-- **Machine Learning Models**: [Predictive models](../p/predictive_models_in_trading.md) incorporating machine learning can foresee tail events by recognizing complex, non-linear [market](../m/market.md) relationships.
+- **[Machine Learning](../m/machine_learning.md) Models**: [Predictive models](../p/predictive_models_in_trading.md) incorporating [machine learning](../m/machine_learning.md) can foresee tail events by recognizing complex, non-linear [market](../m/market.md) relationships.
 - **Real-Time Monitoring Systems**: Implementing real-time [risk](../r/risk.md) monitoring systems that can automatically trigger hedging mechanisms when tail event signals are detected.
 
 ### Notable Examples and Case Studies

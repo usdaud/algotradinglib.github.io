@@ -63,7 +63,7 @@ Algorithms should aim to minimize any adverse effects on the [market](../m/marke
 
 ### Technological Advancements
 
-Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning could further enhance the capability of [trading systems](../t/trading_systems.md) to act under the doctrine of agency by necessity. [Predictive analytics](../p/predictive_analytics.md) might improve emergency response times and accuracy.
+Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) could further enhance the capability of [trading systems](../t/trading_systems.md) to act under the doctrine of agency by necessity. [Predictive analytics](../p/predictive_analytics.md) might improve emergency response times and accuracy.
 
 ### Regulatory Evolution
 

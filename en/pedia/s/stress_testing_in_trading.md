@@ -109,7 +109,7 @@ Conducting stress tests can be resource-intensive, requiring significant computa
 
 ### Machine Learning and AI
 
-The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in stress testing promises to enhance the predictive capabilities of models, identify complex [risk](../r/risk.md) patterns, and automate [scenario analysis](../s/scenario_analysis.md).
+The integration of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in stress testing promises to enhance the predictive capabilities of models, identify complex [risk](../r/risk.md) patterns, and automate [scenario analysis](../s/scenario_analysis.md).
 
 ### Real-Time Stress Testing
 

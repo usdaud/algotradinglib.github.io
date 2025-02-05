@@ -24,7 +24,7 @@ Traditional [mean-variance optimization](../m/mean-variance_optimization.md) see
 
 ### Strategies for Robust Portfolio Construction
 
-Numerous strategies have emerged to facilitate [robust](../r/robust.md) portfolio construction, including but not limited to minimum variance portfolios, multi-[factor models](../f/factor_models.md), and machine learning techniques. Each strategy comes with its application nuances and suitability depending on the [investor](../i/investor.md)'s objectives and [market](../m/market.md) conditions.
+Numerous strategies have emerged to facilitate [robust](../r/robust.md) portfolio construction, including but not limited to minimum variance portfolios, multi-[factor models](../f/factor_models.md), and [machine learning](../m/machine_learning.md) techniques. Each strategy comes with its application nuances and suitability depending on the [investor](../i/investor.md)'s objectives and [market](../m/market.md) conditions.
 
 #### 1. Minimum Variance Portfolios
 
@@ -36,7 +36,7 @@ Multi-[factor models](../f/factor_models.md) extend the traditional [Capital Ass
 
 #### 3. Machine Learning Techniques
 
-Machine learning techniques, especially those under the umbrella of [artificial intelligence](../a/artificial_intelligence_in_trading.md), have recently found their place in [robust](../r/robust.md) portfolio construction. Methods such as reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and [clustering algorithms](../c/clustering_algorithms.md) are used to uncover patterns in data, optimize portfolios dynamically, and adjust to changing [market](../m/market.md) conditions in real-time.
+[Machine learning](../m/machine_learning.md) techniques, especially those under the umbrella of [artificial intelligence](../a/artificial_intelligence_in_trading.md), have recently found their place in [robust](../r/robust.md) portfolio construction. Methods such as [reinforcement learning](../r/reinforcement_learning.md), [neural networks](../n/neural_networks_in_trading.md), and [clustering algorithms](../c/clustering_algorithms.md) are used to uncover patterns in data, optimize portfolios dynamically, and adjust to changing [market](../m/market.md) conditions in real-time.
 
 ### Tools for Implementing Robust Portfolios
 
@@ -78,7 +78,7 @@ QSTrader is an [open](../o/open.md)-source [backtesting](../b/backtesting.md) fr
    Using historical data and [robust](../r/robust.md) statistical methods, estimate the expected returns, variances, and covariances of the assets.
 
 4. **Optimize Portfolio:**
-   Apply [optimization](../o/optimization.md) techniques, ensuring robustness. This could be through [robust](../r/robust.md) [mean-variance optimization](../m/mean-variance_optimization.md), [risk parity](../r/risk_parity.md) models, or more sophisticated machine learning methods.
+   Apply [optimization](../o/optimization.md) techniques, ensuring robustness. This could be through [robust](../r/robust.md) [mean-variance optimization](../m/mean-variance_optimization.md), [risk parity](../r/risk_parity.md) models, or more sophisticated [machine learning](../m/machine_learning.md) methods.
 
 5. **Backtest and Stress Test:**
    Implement [backtesting](../b/backtesting.md) using historical data to gauge performance. Additionally, conduct scenario and stress tests to assess how the portfolio holds up under adverse conditions.

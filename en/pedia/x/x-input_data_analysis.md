@@ -50,7 +50,7 @@ Feature engineering involves transforming raw data into meaningful features that
 Statistical methods are employed to identify [underlying](../u/underlying.md) patterns and relationships in the data. Common statistical tools include [regression analysis](../r/regression_analysis.md), [hypothesis testing](../h/hypothesis_testing.md), and [time series analysis](../t/time_series_analysis.md).
 
 ### 4. Machine Learning Models
-Machine learning models, such as [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md), are used extensively to extract insights from X-input data. These models can uncover complex, non-linear relationships that traditional statistical methods might miss.
+[Machine learning](../m/machine_learning.md) models, such as [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md), are used extensively to extract insights from X-input data. These models can uncover complex, non-linear relationships that traditional statistical methods might miss.
 
 ### 5. Sentiment Analysis Tools
 [Sentiment analysis](../s/sentiment_analysis.md) tools analyze text data from news articles, [social media](../s/social_media.md), and analyst reports. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques are used to gauge [market sentiment](../m/market_sentiment.md), which can influence trading decisions.
@@ -78,7 +78,7 @@ The sheer [volume](../v/volume.md) and variety of X-input data necessitate signi
 ## Case Study: Use of X-Input Data by Leading Algorithmic Trading Firms
 
 ### Two Sigma
-Two Sigma, a renowned quantitative [hedge fund](../h/hedge_fund.md), leverages vast amounts of X-input data to drive its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) uses machine learning and [big data](../b/big_data_in_trading.md) technologies to analyze [financial markets](../f/financial_market.md). More information about their approach can be found on their [official website](https://www.twosigma.com/).
+Two Sigma, a renowned quantitative [hedge fund](../h/hedge_fund.md), leverages vast amounts of X-input data to drive its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) technologies to analyze [financial markets](../f/financial_market.md). More information about their approach can be found on their [official website](https://www.twosigma.com/).
 
 ### Renaissance Technologies
 Renaissance Technologies is another prominent player known for its advanced [data analysis techniques](../d/data_analysis_techniques.md). They utilize diverse X-input data sources to build sophisticated [trading models](../t/trading_models.md). Details on their methodologies are available on their [official website](https://www.rentec.com/).
@@ -89,7 +89,7 @@ Renaissance Technologies is another prominent player known for its advanced [dat
 The [Bloomberg](../b/bloomberg.md) Terminal is a powerful tool that provides comprehensive financial data, news, and analytics. It supports data extraction, analysis, and visualization, making it indispensable for many traders.
 
 ### 2. Python and R
-Python and R are popular programming languages for data analysis. Libraries like Pandas, NumPy, Scikit-learn, and TensorFlow in Python, and Tidyverse and caret in R, facilitate advanced data analysis and machine learning tasks.
+Python and R are popular programming languages for data analysis. Libraries like Pandas, NumPy, Scikit-learn, and [TensorFlow](../t/tensorflow.md) in Python, and Tidyverse and caret in R, facilitate advanced data analysis and [machine learning](../m/machine_learning.md) tasks.
 
 ### 3. Apache Spark
 Apache Spark is an [open](../o/open.md)-source distributed computing system used for [big data](../b/big_data_in_trading.md) processing. Its speed and [scalability](../s/scalability.md) make it ideal for handling large X-input datasets.
@@ -109,7 +109,7 @@ Define clear objectives for the analysis. Understanding the purpose helps in sel
 Prioritize data quality by regularly cleaning and validating data. Use automated tools and processes to detect and correct anomalies.
 
 ### 3. Stay Updated with Technological Advances
-Continuously explore new technologies and tools that can enhance data analysis capabilities. This includes staying abreast of developments in machine learning, [big data](../b/big_data_in_trading.md), and [cloud computing](../c/cloud_computing_in_trading.md).
+Continuously explore new technologies and tools that can enhance data analysis capabilities. This includes staying abreast of developments in [machine learning](../m/machine_learning.md), [big data](../b/big_data_in_trading.md), and [cloud computing](../c/cloud_computing_in_trading.md).
 
 ### 4. Collaborate with Domain Experts
 Collaborate with financial analysts, economists, and other domain experts to ensure the relevance and accuracy of the X-input data used in analysis.

@@ -4,7 +4,7 @@ In the competitive world of financial trading, leveraging computational technolo
 
 ### Algorithmic Trading Overview
 
-[Algorithmic trading](../a/algorithmic_trading.md) involves using specific rules, derived from both historical analysis and real-time data, to [trade](../t/trade.md) securities such as [stocks](../s/stock.md), [options](../o/options.md), and [futures](../f/futures.md). Algorithms can be programmed to follow a [range](../r/range.md) of strategies, from simple ones like moving averages and [arbitrage](../a/arbitrage.md) to more complex strategies incorporating [neural networks](../n/neural_networks_in_trading.md), machine learning, and [quantitative analysis](../q/quantitative_analysis.md). Some of the most common types of [algorithmic trading](../a/algorithmic_trading.md) include high-frequency trading (HFT), [market](../m/market.md) making, statistical [arbitrage](../a/arbitrage.md), and [momentum](../m/momentum.md) strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using specific rules, derived from both historical analysis and real-time data, to [trade](../t/trade.md) securities such as [stocks](../s/stock.md), [options](../o/options.md), and [futures](../f/futures.md). Algorithms can be programmed to follow a [range](../r/range.md) of strategies, from simple ones like moving averages and [arbitrage](../a/arbitrage.md) to more complex strategies incorporating [neural networks](../n/neural_networks_in_trading.md), [machine learning](../m/machine_learning.md), and [quantitative analysis](../q/quantitative_analysis.md). Some of the most common types of [algorithmic trading](../a/algorithmic_trading.md) include high-frequency trading (HFT), [market](../m/market.md) making, statistical [arbitrage](../a/arbitrage.md), and [momentum](../m/momentum.md) strategies.
 
 ### Key Components of Algorithmic Trading Systems
 
@@ -12,7 +12,7 @@ In the competitive world of financial trading, leveraging computational technolo
 
 2. **Data Management**: Handling this data involves storing, organizing, and accessing it efficiently. Technologies like distributed databases and cloud storage solutions are often used to manage large datasets.
 
-3. **Strategy Development**: Developing the actual [trading algorithms](../t/trading_algorithms.md) involves statistical analysis, machine learning, and [quantitative models](../q/quantitative_models.md). It's a multidisciplinary effort that often requires expertise in [finance](../f/finance.md), mathematics, and computer science.
+3. **Strategy Development**: Developing the actual [trading algorithms](../t/trading_algorithms.md) involves statistical analysis, [machine learning](../m/machine_learning.md), and [quantitative models](../q/quantitative_models.md). It's a multidisciplinary effort that often requires expertise in [finance](../f/finance.md), mathematics, and computer science.
 
 4. **[Backtesting](../b/backtesting.md)**: [Backtesting](../b/backtesting.md) allows traders to test how their algorithms would have performed using historical data. This step is crucial for validating the efficacy of the [trading strategy](../t/trading_strategy.md) before putting real [money](../m/money.md) at [risk](../r/risk.md).
 
@@ -32,7 +32,7 @@ High-Performance Computing is particularly valuable in [algorithmic trading](../
 
 4. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Financial firms are increasingly turning to cloud solutions for scaling their computational resources. [Cloud computing](../c/cloud_computing_in_trading.md) offers flexibility, [scalability](../s/scalability.md), and cost-effectiveness, making it ideal for [backtesting](../b/backtesting.md), data analysis, and even real-time trading.
 
-5. **Machine Learning Frameworks**: HPC technologies often integrate with advanced machine learning frameworks like TensorFlow, PyTorch, and Apache Spark. These frameworks can be optimized to run on GPUs (Graphics Processing Units), thereby parallelizing computation and speeding up strategy development and [backtesting](../b/backtesting.md).
+5. **[Machine Learning](../m/machine_learning.md) Frameworks**: HPC technologies often integrate with advanced [machine learning](../m/machine_learning.md) frameworks like [TensorFlow](../t/tensorflow.md), [PyTorch](../p/pytorch.md), and Apache Spark. These frameworks can be optimized to run on GPUs (Graphics Processing Units), thereby parallelizing computation and speeding up strategy development and [backtesting](../b/backtesting.md).
 
 ### Applications of HPC in Algorithmic Trading
 
@@ -60,7 +60,7 @@ Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) fund
 
 #### Two Sigma
 
-Two Sigma Investments is another prominent [firm](../f/firm.md) that extensively uses HPC and machine learning for trading. Their strategies are heavily research-driven, relying on large datasets and complex algorithms. The [firm](../f/firm.md) has stated that it uses [cloud computing](../c/cloud_computing_in_trading.md) and scalable data storage to enhance its trading capabilities.
+Two Sigma Investments is another prominent [firm](../f/firm.md) that extensively uses HPC and [machine learning](../m/machine_learning.md) for trading. Their strategies are heavily research-driven, relying on large datasets and complex algorithms. The [firm](../f/firm.md) has stated that it uses [cloud computing](../c/cloud_computing_in_trading.md) and scalable data storage to enhance its trading capabilities.
 
 Website: [Two Sigma](https://www.twosigma.com/)
 
@@ -76,7 +76,7 @@ As [financial markets](../f/financial_market.md) become more data-driven, the ne
 
 #### Advanced Machine Learning
 
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are becoming more advanced, and their integration with HPC is likely to produce even more sophisticated [trading strategies](../t/trading_strategies.md). Techniques like [deep learning](../d/deep_learning.md) and reinforcement learning are expected to become more prevalent in the trading domain.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are becoming more advanced, and their integration with HPC is likely to produce even more sophisticated [trading strategies](../t/trading_strategies.md). Techniques like [deep learning](../d/deep_learning.md) and [reinforcement learning](../r/reinforcement_learning.md) are expected to become more prevalent in the trading domain.
 
 ### Conclusion
 

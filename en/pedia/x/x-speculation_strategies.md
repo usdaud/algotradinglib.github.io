@@ -43,15 +43,15 @@ Statistical [Arbitrage](../a/arbitrage.md), often known as StatArb, involves the
 
 ### 4. Machine Learning-Based Strategies
 
-These strategies utilize machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to make trading decisions. The algorithms ingest vast amounts of data to detect patterns and make predictions.
+These strategies utilize [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to make trading decisions. The algorithms ingest vast amounts of data to detect patterns and make predictions.
 
 - **Characteristics**:
   - Adaptive self-learning models
   - Data-intensive
-  - Uses unsupervised and supervised learning techniques
+  - Uses unsupervised and [supervised learning](../s/supervised_learning.md) techniques
 
 - **Example**:
-  - **Kensho Technologies**: [Kensho](https://www.kensho.com/) applies advanced machine learning techniques to develop sophisticated [trading strategies](../t/trading_strategies.md).
+  - **Kensho Technologies**: [Kensho](https://www.kensho.com/) applies advanced [machine learning](../m/machine_learning.md) techniques to develop sophisticated [trading strategies](../t/trading_strategies.md).
 
 ### 5. Cross-Asset Arbitrage
 
@@ -81,7 +81,7 @@ The backbone of any X-[Speculation](../s/speculation.md) strategy is data. It in
 Developing the algorithms that make trading decisions is critical. This typically involves:
 
 - Statistical modeling
-- Machine learning
+- [Machine learning](../m/machine_learning.md)
 - [Signal processing](../s/signal_processing_in_trading.md)
 
 ### 3. Backtesting and Simulation

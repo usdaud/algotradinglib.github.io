@@ -22,7 +22,7 @@ Different regions and [asset](../a/asset.md) classes can provide varied returns 
 
 ### Data Collection and Analysis
 
-Collecting and analyzing vast amounts of data from different markets is crucial for global [diversification](../d/diversification.md). Algorithms can process this data to identify trends, correlations, and anomalies, thereby informing investment decisions. Advanced analytics, including [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, can further refine these insights.
+Collecting and analyzing vast amounts of data from different markets is crucial for global [diversification](../d/diversification.md). Algorithms can process this data to identify trends, correlations, and anomalies, thereby informing investment decisions. Advanced analytics, including [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), can further refine these insights.
 
 ### Execution Speed
 
@@ -78,7 +78,7 @@ Link: [Bloomberg](https://www.bloomberg.com)
 
 Advanced analytical tools enable the development and refinement of [trading algorithms](../t/trading_algorithms.md). Popular tools include:
 - **MATLAB**: A powerful environment for [quantitative analysis](../q/quantitative_analysis.md) and algorithm development.
-- **Python with libraries such as Pandas and NumPy**: Widely used for data analysis and machine learning in trading.
+- **Python with libraries such as Pandas and NumPy**: Widely used for data analysis and [machine learning](../m/machine_learning.md) in trading.
 
 ## Examples of Successful Globally Diversified Algorithmic Trading Strategies
 
@@ -91,7 +91,7 @@ Link: [Renaissance Technologies](https://www.rentec.com)
 
 ### Two Sigma
 
-Two Sigma uses advanced technology, including machine learning and distributed computing, to execute globally diversified [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) applies a data-driven approach to identify opportunities across various markets and [asset](../a/asset.md) classes.
+Two Sigma uses advanced technology, including [machine learning](../m/machine_learning.md) and distributed computing, to execute globally diversified [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) applies a data-driven approach to identify opportunities across various markets and [asset](../a/asset.md) classes.
 Link: [Two Sigma](https://www.twosigma.com)
 
 ### AQR Capital Management

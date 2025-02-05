@@ -103,7 +103,7 @@ Advancements in technology have revolutionized the trading of [underlying](../u/
 [Algorithmic trading](../a/accountability.md) employs algorithms to execute trades based on predefined criteria. It allows for high-frequency trading, leveraging small price movements in the [underlying](../u/underlying.md) [security](../s/security.md) to achieve gains at lightning speed.
 
 ### 2. **Artificial Intelligence and Machine Learning**
-AI and machine learning help in predictive analysis of price movements by analyzing vast datasets, including price trends, news, [social media sentiment](../s/social_media_sentiment.md), and more. They provide insights that manual analysis might miss.
+AI and [machine learning](../m/machine_learning.md) help in predictive analysis of price movements by analyzing vast datasets, including price trends, news, [social media sentiment](../s/social_media_sentiment.md), and more. They provide insights that manual analysis might miss.
 
 ### 3. **Blockchain and Cryptocurrencies**
 [Blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies are reshaping [financial markets](../f/financial_market.md). Cryptocurrencies themselves serve as [underlying](../u/underlying.md) securities for various [derivatives](../d/derivatives.md), and [blockchain](../b/blockchain_in_trading.md) technology enhances [transparency](../t/transparency.md) and [security](../s/security.md) in trading.

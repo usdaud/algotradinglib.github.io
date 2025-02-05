@@ -30,7 +30,7 @@
 
 ### Technologies in Risk Management
 
-**Advanced Analytics and Machine Learning**: Sophisticated algorithms and [big data analytics](../b/big_data_analytics_in_trading.md) help in modeling complex [risk](../r/risk.md) scenarios and predicting potential vulnerabilities.
+**Advanced Analytics and [Machine Learning](../m/machine_learning.md)**: Sophisticated algorithms and [big data analytics](../b/big_data_analytics_in_trading.md) help in modeling complex [risk](../r/risk.md) scenarios and predicting potential vulnerabilities.
 
 **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md) (DLT)**: Improves [transparency](../t/transparency.md) and accuracy in recording financial transactions, aiding in managing operational and [counterparty](../c/counterparty.md) risks.
 

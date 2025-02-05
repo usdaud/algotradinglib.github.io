@@ -23,12 +23,12 @@ The heart of any trading algorithm lies in its strategy, which typically falls i
 Choosing the right model is vital for the [efficiency](../e/efficiency.md) of [trading algorithms](../t/trading_algorithms.md). Models can be broadly categorized as:
 
 - **[Linear Models](../l/linear_models_in_trading.md)**: Simplistic yet powerful in capturing [underlying](../u/underlying.md) relationships (e.g., [linear regression](../l/linear_regression.md)).
-- **Machine Learning Models**: More sophisticated models capable of capturing complex patterns (e.g., [decision trees](../d/decision_trees.md), [neural networks](../n/neural_networks_in_trading.md)).
+- **[Machine Learning](../m/machine_learning.md) Models**: More sophisticated models capable of capturing complex patterns (e.g., [decision trees](../d/decision_trees.md), [neural networks](../n/neural_networks_in_trading.md)).
 
-**Training Machine Learning Models**:
-- **Supervised Learning**: Where the algorithm learns from labeled input-output pairs.
-- **Unsupervised Learning**: Detects patterns in data without predefined labels.
-- **Reinforcement Learning**: Algorithms learn optimal strategies through rewards and penalties.
+**Training [Machine Learning](../m/machine_learning.md) Models**:
+- **[Supervised Learning](../s/supervised_learning.md)**: Where the algorithm learns from labeled input-output pairs.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Detects patterns in data without predefined labels.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Algorithms learn optimal strategies through rewards and penalties.
 
 ### 4. Backtesting
 [Backtesting](../b/backtesting.md) is a crucial phase, ensuring that the [trading strategy](../t/trading_strategy.md) would have performed well in historical scenarios:
@@ -67,11 +67,11 @@ HFT involves executing a large number of orders at extremely high speeds, typica
 - **Co-Location**: Placing trading servers in close proximity to [exchange](../e/exchange.md) servers to reduce latency.
 
 ### AI and Machine Learning in Algorithm Trading
-AI and machine learning revolutionize [algorithmic trading](../a/algorithmic_trading.md) by providing tools for prediction and automated decision-making:
+AI and [machine learning](../m/machine_learning.md) revolutionize [algorithmic trading](../a/algorithmic_trading.md) by providing tools for prediction and automated decision-making:
 
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md)**: Analyzing news articles and tweets to gauge [market sentiment](../m/market_sentiment.md).
 - **[Deep Learning](../d/deep_learning.md)**: Using [neural networks](../n/neural_networks_in_trading.md) to model nonlinear relationships and patterns in [market](../m/market.md) data.
-- **Reinforcement Learning**: Training models that can adapt their strategies based on [market](../m/market.md) feedback.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Training models that can adapt their strategies based on [market](../m/market.md) feedback.
 
 ### Quantum Computing in Trading
 Though still in its infancy, [quantum computing](../q/quantum_computing_in_trading.md) promises transformative capabilities:

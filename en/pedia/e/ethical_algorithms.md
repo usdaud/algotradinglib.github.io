@@ -74,7 +74,7 @@ Prescriptive standards provide specific rules and methodologies for ethical [alg
 As [trading algorithms](../t/trading_algorithms.md) become more sophisticated, their complexity makes it challenging to ensure they adhere to [ethical standards](../e/ethical_standards_in_trading.md).
 
 - **Explainability vs. Performance**: Balancing the need for high-performing algorithms with the ability to explain their decisions.
-- **AI and Machine Learning**: These technologies add layers of complexity, making it hard to predict and control the behavior of [trading algorithms](../t/trading_algorithms.md).
+- **AI and [Machine Learning](../m/machine_learning.md)**: These technologies add layers of complexity, making it hard to predict and control the behavior of [trading algorithms](../t/trading_algorithms.md).
 
 ### Regulatory Landscape
 

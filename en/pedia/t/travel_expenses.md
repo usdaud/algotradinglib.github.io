@@ -82,7 +82,7 @@ International travel involves additional layers of complexity and cost. Importan
 Technological advancements and changing work paradigms are shaping how travel expenses are managed. Emerging trends include:
 
 - **Virtual and Hybrid Events**: Reducing travel needs through virtual meetings and hybrid events.
-- **AI and Machine Learning**: Using AI to predict travel expenditure trends and optimize expenses.
+- **AI and [Machine Learning](../m/machine_learning.md)**: Using AI to predict travel expenditure trends and optimize expenses.
 - **Sustainability and Carbon Footprint**: Increasing emphasis on sustainable travel [options](../o/options.md) and reducing carbon footprints. Companies may track and report on the environmental impact of [business](../b/business.md) travel.
 
 ## Conclusion

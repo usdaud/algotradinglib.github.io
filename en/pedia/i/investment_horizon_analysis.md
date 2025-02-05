@@ -54,7 +54,7 @@ The choice of an [investment horizon](../i/investment_horizon.md) is intrinsical
 
 4. **[Trend Following](../t/trend_following.md) Strategies**: Often applied over medium to long-term horizons, [trend following](../t/trend_following.md) strategies involve identifying and following prolonged price movements. These strategies rely on [technical indicators](../t/technical_indicators.md) such as moving averages and [trend](../t/trend.md) lines.
 
-5. **Machine Learning and AI Strategies**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can adapt to various horizons by learning from vast amounts of data and detecting patterns that are not evident to traditional models. These strategies can [range](../r/range.md) from high-frequency trading to [long-term investments](../l/long-term_investments.md).
+5. **[Machine Learning](../m/machine_learning.md) and AI Strategies**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can adapt to various horizons by learning from vast amounts of data and detecting patterns that are not evident to traditional models. These strategies can [range](../r/range.md) from high-frequency trading to [long-term investments](../l/long-term_investments.md).
 
 ### Real-World Applications
 
@@ -68,7 +68,7 @@ Several companies and platforms have developed sophisticated solutions to analyz
 
 4. **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com) provides a comprehensive [trading platform](../t/trading_platform.md) with [algorithmic trading](../a/algorithmic_trading.md) capabilities, allowing traders to execute strategies across various timeframes and [asset](../a/asset.md) classes.
 
-5. **Kavout**: [Kavout](https://www.kavout.com) leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to develop [predictive models](../p/predictive_models_in_trading.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies, optimizing investment horizons for better [risk](../r/risk.md)-adjusted returns.
+5. **Kavout**: [Kavout](https://www.kavout.com) leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to develop [predictive models](../p/predictive_models_in_trading.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies, optimizing investment horizons for better [risk](../r/risk.md)-adjusted returns.
 
 ### Conclusion
 

@@ -64,7 +64,7 @@ While potentially profitable, the Long Jelly Roll strategy comes with several ri
 
 The Long Jelly Roll strategy is widely employed by [hedge](../h/hedge.md) funds, [proprietary trading](../p/proprietary_trading.md) firms, and individual sophisticated traders. These entities frequently employ algorithms and [quantitative models](../q/quantitative_models.md) to identify possible [arbitrage opportunities](../a/arbitrage_opportunities.md) that the Jelly Roll can exploit.
 
-For instance, [Optiver](https://www.optiver.com/) and [Jane Street](https://www.janestreet.com/) are well-known [proprietary trading](../p/proprietary_trading.md) firms that specialize in employing various advanced strategies, including but not limited to the Jelly Roll, to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. They use extensive [data analytics](../d/data_analytics.md), high-powered algorithms, and machine learning to fine-tune their strategies and maximize their [risk](../r/risk.md)-adjusted returns.
+For instance, [Optiver](https://www.optiver.com/) and [Jane Street](https://www.janestreet.com/) are well-known [proprietary trading](../p/proprietary_trading.md) firms that specialize in employing various advanced strategies, including but not limited to the Jelly Roll, to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. They use extensive [data analytics](../d/data_analytics.md), high-powered algorithms, and [machine learning](../m/machine_learning.md) to fine-tune their strategies and maximize their [risk](../r/risk.md)-adjusted returns.
 
 ## Tools and Software
 

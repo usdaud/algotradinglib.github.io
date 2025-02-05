@@ -58,7 +58,7 @@ In the [bond market](../b/bond_market.md), GTA evaluates [interest rate](../i/in
 
 Several leading financial institutions and fintech companies specialize in Global [Trend Analysis](../t/trend_analysis.md) for [algorithmic trading](../a/algorithmic_trading.md):
 
-- **Two Sigma**: Known for its data-driven approach and machine learning techniques, Two Sigma leverages GTA to manage its diverse investment strategies. Visit [Two Sigma](https://www.twosigma.com/) for more information.
+- **Two Sigma**: Known for its data-driven approach and [machine learning](../m/machine_learning.md) techniques, Two Sigma leverages GTA to manage its diverse investment strategies. Visit [Two Sigma](https://www.twosigma.com/) for more information.
 - **Renaissance Technologies**: This [hedge fund](../h/hedge_fund.md) relies heavily on [quantitative models](../q/quantitative_models.md) and GTA to achieve high returns. More about the [firm](../f/firm.md) can be found at [Renaissance Technologies](https://www.rentec.com/).
 - **Citadel**: A global financial services [firm](../f/firm.md), Citadel employs sophisticated algorithms and [data analytics](../d/data_analytics.md) to inform its [trading strategies](../t/trading_strategies.md). Learn more on [Citadel's website](https://www.citadel.com/).
 

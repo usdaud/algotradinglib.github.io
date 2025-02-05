@@ -112,7 +112,7 @@ In the event of borrower [default](../d/default.md), the lack of documentation c
 
 ### Technological Integration
 
-The integration of [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) in financial services has the potential to transform the landscape of No Doc mortgages. These technologies can [offer](../o/offer.md) nuanced assessments of borrower [risk](../r/risk.md), potentially reviving [interest](../i/interest.md) in this [mortgage](../m/mortgage.md) category.
+The integration of [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) in financial services has the potential to transform the landscape of No Doc mortgages. These technologies can [offer](../o/offer.md) nuanced assessments of borrower [risk](../r/risk.md), potentially reviving [interest](../i/interest.md) in this [mortgage](../m/mortgage.md) category.
 
 ### Alternative Lending Platforms
 

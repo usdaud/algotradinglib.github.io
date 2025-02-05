@@ -70,7 +70,7 @@ These models attempt to identify different [market](../m/market.md) regimes (e.g
 
 ### Machine Learning and AI
 
-Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can identify patterns that are not easily noticeable through traditional methods. Techniques like reinforcement learning, supervised learning, and unsupervised learning can be employed to improve [return](../r/return.md) stability.
+Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can identify patterns that are not easily noticeable through traditional methods. Techniques like [reinforcement learning](../r/reinforcement_learning.md), [supervised learning](../s/supervised_learning.md), and [unsupervised learning](../u/unsupervised_learning.md) can be employed to improve [return](../r/return.md) stability.
 
 ## Practical Applications
 

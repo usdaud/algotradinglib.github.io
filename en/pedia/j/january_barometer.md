@@ -30,7 +30,7 @@ January's [market](../m/market.md) performance can also serve as an early reflec
 
 ### Machine Learning Integration
 
-Advanced machine learning models can be trained to identify patterns and correlations in January's [market](../m/market.md) data, enhancing the predictive capabilities of the January Barometer. These models can incorporate not only historical data but also real-time [economic indicators](../e/economic_indicators.md), news [sentiment analysis](../s/sentiment_analysis.md), and global [market](../m/market.md) influences.
+Advanced [machine learning](../m/machine_learning.md) models can be trained to identify patterns and correlations in January's [market](../m/market.md) data, enhancing the predictive capabilities of the January Barometer. These models can incorporate not only historical data but also real-time [economic indicators](../e/economic_indicators.md), news [sentiment analysis](../s/sentiment_analysis.md), and global [market](../m/market.md) influences.
 
 ### Risk Management
 

@@ -20,7 +20,7 @@ Rationalization in [finance](../f/finance.md) and trading refers to the process 
 
 ### 2.1. Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) refers to the use of computer algorithms to execute [trading strategies](../t/trading_strategies.md) at high speeds and volumes. Rationalization in [algorithmic trading](../a/accountability.md) involves optimizing these algorithms to improve accuracy, speed, and decision-making. Techniques such as machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [big data analytics](../b/big_data_analytics_in_trading.md) are often employed to enhance [trading algorithms](../t/trading_algorithms.md)' [efficiency](../e/efficiency.md) and effectiveness.
+[Algorithmic trading](../a/accountability.md) refers to the use of computer algorithms to execute [trading strategies](../t/trading_strategies.md) at high speeds and volumes. Rationalization in [algorithmic trading](../a/accountability.md) involves optimizing these algorithms to improve accuracy, speed, and decision-making. Techniques such as [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [big data analytics](../b/big_data_analytics_in_trading.md) are often employed to enhance [trading algorithms](../t/trading_algorithms.md)' [efficiency](../e/efficiency.md) and effectiveness.
 
 ### 2.2. High-Frequency Trading (HFT)
 

@@ -94,7 +94,7 @@ Incorporating [predictive analytics](../p/predictive_analytics.md) into algo [tr
 
 ### Sentiment Analysis
 
-Algorithmic traders often use [sentiment analysis](../s/sentiment_analysis.md) to gauge [market sentiment](../m/market_sentiment.md) towards announcements of discontinued operations. [Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning models can mine news articles, press releases, and [social media](../s/social_media.md) for sentiment cues, which can be integrated into [trading strategies](../t/trading_strategies.md) for enhanced decision-making.
+Algorithmic traders often use [sentiment analysis](../s/sentiment_analysis.md) to gauge [market sentiment](../m/market_sentiment.md) towards announcements of discontinued operations. [Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) models can mine news articles, press releases, and [social media](../s/social_media.md) for sentiment cues, which can be integrated into [trading strategies](../t/trading_strategies.md) for enhanced decision-making.
 
 ## Real-World Examples
 

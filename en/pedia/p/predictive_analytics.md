@@ -1,10 +1,10 @@
 # Predictive Analytics
 
-Predictive analytics involves using statistical techniques, machine learning, and [data mining](../d/data_mining.md) to analyze historical data and make predictions about future events. In the context of [algorithmic trading](../a/algorithmic_trading.md), predictive analytics plays a critical role in developing [trading strategies](../t/trading_strategies.md), identifying profitable trades, and managing risks. This document covers various aspects of predictive analytics in [algorithmic trading](../a/algorithmic_trading.md), including key techniques, applications, and case studies.
+Predictive analytics involves using statistical techniques, [machine learning](../m/machine_learning.md), and [data mining](../d/data_mining.md) to analyze historical data and make predictions about future events. In the context of [algorithmic trading](../a/algorithmic_trading.md), predictive analytics plays a critical role in developing [trading strategies](../t/trading_strategies.md), identifying profitable trades, and managing risks. This document covers various aspects of predictive analytics in [algorithmic trading](../a/algorithmic_trading.md), including key techniques, applications, and case studies.
 
 ## Machine Learning in Predictive Analytics
 
-Machine learning (ML) is a subset of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) that focuses on the development of algorithms that allow computers to learn from and make decisions based on data. There are several machine [learning algorithms](../l/learning_algorithms_in_trading.md) commonly used in predictive analytics for [algorithmic trading](../a/algorithmic_trading.md), including:
+[Machine learning](../m/machine_learning.md) (ML) is a subset of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) that focuses on the development of algorithms that allow computers to learn from and make decisions based on data. There are several machine [learning algorithms](../l/learning_algorithms_in_trading.md) commonly used in predictive analytics for [algorithmic trading](../a/algorithmic_trading.md), including:
 
 1. **[Regression Analysis](../r/regression_analysis.md)**: This technique involves modeling the relationship between a dependent variable and one or more independent variables. In trading, it can be used to forecast [asset](../a/asset.md) prices based on various [economic indicators](../e/economic_indicators.md).
   
@@ -14,7 +14,7 @@ Machine learning (ML) is a subset of [artificial intelligence](../a/artificial_i
    
 4. **Clustering**: This involves grouping a set of objects in such a way that objects in the same group are more similar to each other than to those in other groups. [K-means clustering](../k/k-means_clustering_in_trading.md) is a commonly used algorithm in trading to identify patterns in [market](../m/market.md) data.
    
-5. **[Deep Learning](../d/deep_learning.md)**: A subset of machine learning involving [neural networks](../n/neural_networks_in_trading.md) with many layers. Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNN) and Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNN) are widely used for image recognition and sequential data analysis, respectively. In trading, these can be applied to complex [pattern recognition](../p/pattern_recognition.md) and prediction tasks.
+5. **[Deep Learning](../d/deep_learning.md)**: A subset of [machine learning](../m/machine_learning.md) involving [neural networks](../n/neural_networks_in_trading.md) with many layers. Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNN) and Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNN) are widely used for image recognition and sequential data analysis, respectively. In trading, these can be applied to complex [pattern recognition](../p/pattern_recognition.md) and prediction tasks.
 
 ## Applications in Algorithmic Trading
 
@@ -34,13 +34,13 @@ Predictive analytics is applied in various aspects of [algorithmic trading](../a
 
 Several tools and technologies are used in predictive analytics for [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **Python and R**: Popular programming languages with extensive libraries for statistical analysis, machine learning, and [data visualization](../d/data_visualization.md).
+1. **Python and R**: Popular programming languages with extensive libraries for statistical analysis, [machine learning](../m/machine_learning.md), and [data visualization](../d/data_visualization.md).
    
 2. **MATLAB**: Preferred for [quantitative analysis](../q/quantitative_analysis.md) and [financial modeling](../f/financial_modeling.md).
    
 3. **Hadoop and Spark**: Used for handling large datasets and performing parallel processing.
    
-4. **TensorFlow and PyTorch**: [Deep learning](../d/deep_learning.md) frameworks used to build complex neural [network models](../n/network_models_in_trading.md).
+4. **[TensorFlow](../t/tensorflow.md) and [PyTorch](../p/pytorch.md)**: [Deep learning](../d/deep_learning.md) frameworks used to build complex neural [network models](../n/network_models_in_trading.md).
    
 5. **[QuantConnect](../q/quantconnect.md) and Quantiacs**: Platforms that [offer](../o/offer.md) tools and datasets for [algorithmic trading](../a/algorithmic_trading.md) development.
    - [QuantConnect](https://www.quantconnect.com/)
@@ -54,7 +54,7 @@ Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion [
 
 ### Two Sigma
 
-Two Sigma harnesses the power of [data science](../d/data_science_in_trading.md) and technology to create sophisticated [trading models](../t/trading_models.md). The [firm](../f/firm.md) uses machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to ingest and analyze vast amounts of data, making predictions that inform its [trading strategies](../t/trading_strategies.md).
+Two Sigma harnesses the power of [data science](../d/data_science_in_trading.md) and technology to create sophisticated [trading models](../t/trading_models.md). The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to ingest and analyze vast amounts of data, making predictions that inform its [trading strategies](../t/trading_strategies.md).
 
 ### Bridgewater Associates
 

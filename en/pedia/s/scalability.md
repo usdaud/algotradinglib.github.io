@@ -58,7 +58,7 @@ The fintech sector often deals with vast amounts of data and transactions, neces
 1. **[Blockchain](../b/blockchain_in_trading.md) Technology**: [Blockchain](../b/blockchain_in_trading.md) can [offer](../o/offer.md) scalability through decentralized [transaction](../t/transaction.md) processing, though it has its own challenges like [throughput](../t/throughput.md) and energy consumption.
 2. **APIs**: APIs (Application Programming Interfaces) enable seamless integration and can help scale services efficiently.
 3. **Serverless Computing**: Serverless architectures automatically scale resources with user [demand](../d/demand.md), ensuring efficient use of resources.
-4. **Machine Learning**: Automated decision-making and [risk](../r/risk.md) assessment powered by machine learning can [handle](../h/handle.md) increased data volumes more efficiently.
+4. **[Machine Learning](../m/machine_learning.md)**: Automated decision-making and [risk](../r/risk.md) assessment powered by [machine learning](../m/machine_learning.md) can [handle](../h/handle.md) increased data volumes more efficiently.
 
 ## Case Study: Scalability in Practice
 

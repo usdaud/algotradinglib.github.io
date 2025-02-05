@@ -40,7 +40,7 @@
 
 Several firms specialize in [algorithmic trading](../a/algorithmic_trading.md) by leveraging [underlying](../u/underlying.md) financial data, providing services, platforms, or algorithms that rely heavily on these metrics:
 
-1. **Two Sigma**: This New York-based [hedge fund](../h/hedge_fund.md) uses machine learning, distributed computing, and vast data sets to create algorithms that include detailed financial metrics in their modeling processes. [Two Sigma](https://www.twosigma.com/)
+1. **Two Sigma**: This New York-based [hedge fund](../h/hedge_fund.md) uses [machine learning](../m/machine_learning.md), distributed computing, and vast data sets to create algorithms that include detailed financial metrics in their modeling processes. [Two Sigma](https://www.twosigma.com/)
 
 2. **Renaissance Technologies**: Also a [hedge fund](../h/hedge_fund.md), Renaissance is known for its Medallion [Fund](../f/fund.md), which employs [quantitative models](../q/quantitative_models.md) driven by a variety of data inputs, including [underlying](../u/underlying.md) financial metrics. Their use of financial data is part of a broader, highly secretive [trading strategy](../t/trading_strategy.md).
 
@@ -68,7 +68,7 @@ While integrating [underlying](../u/underlying.md) financials into [algorithmic 
 
 The integration of [underlying](../u/underlying.md) financials in [algorithmic trading](../a/algorithmic_trading.md) is expected to expand and evolve with advancements in technology and [data science](../d/data_science_in_trading.md):
 
-1. **Enhanced Machine Learning Models**: As machine learning models grow more sophisticated, they [will](../w/will.md) be better equipped to [handle](../h/handle.md) the complexity and [volume](../v/volume.md) of financial data, yielding even more precise [trading strategies](../t/trading_strategies.md).
+1. **Enhanced [Machine Learning](../m/machine_learning.md) Models**: As [machine learning](../m/machine_learning.md) models grow more sophisticated, they [will](../w/will.md) be better equipped to [handle](../h/handle.md) the complexity and [volume](../v/volume.md) of financial data, yielding even more precise [trading strategies](../t/trading_strategies.md).
 
 2. **Real-Time [Data Integration](../d/data_integration.md)**: Advances in real-time data processing [will](../w/will.md) enable [trading systems](../t/trading_systems.md) to [leverage](../l/leverage.md) the latest financial data instantaneously, further improving the accuracy of trading decisions.
 

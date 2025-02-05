@@ -1,10 +1,10 @@
 # Machine Learning Algorithms
 
-Machine Learning (ML) has revolutionized numerous industries, and trading is no exception. As markets become more complex, the need for rapid, data-driven decision-making grows. Machine learning provides traders with advanced methodologies to analyze historical data, uncover hidden patterns, and predict future [market](../m/market.md) movements.
+[Machine Learning](../m/machine_learning.md) (ML) has revolutionized numerous industries, and trading is no exception. As markets become more complex, the need for rapid, data-driven decision-making grows. [Machine learning](../m/machine_learning.md) provides traders with advanced methodologies to analyze historical data, uncover hidden patterns, and predict future [market](../m/market.md) movements.
 
 #### 1. Introduction to Machine Learning in Trading
 
-Machine Learning involves training algorithms to learn from data without being explicitly programmed. In trading, ML algorithms analyze vast amounts of financial data, including price histories, trading volumes, and [economic indicators](../e/economic_indicators.md), to forecast [market](../m/market.md) trends and generate profitable [trading strategies](../t/trading_strategies.md).
+[Machine Learning](../m/machine_learning.md) involves training algorithms to learn from data without being explicitly programmed. In trading, ML algorithms analyze vast amounts of financial data, including price histories, trading volumes, and [economic indicators](../e/economic_indicators.md), to forecast [market](../m/market.md) trends and generate profitable [trading strategies](../t/trading_strategies.md).
 
 ##### 1.1. Advantages of ML in Trading
 - **[Efficiency](../e/efficiency.md)**: ML can process and analyze data far quicker than a human can, allowing for real-time decision-making.
@@ -46,7 +46,7 @@ Unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) are u
 - **t-Distributed Stochastic Neighbor Embedding (t-SNE)**: Nonlinear technique for reducing dimensions, often used for [data visualization](../d/data_visualization.md).
 
 ##### 2.3. Reinforcement Learning
-Reinforcement Learning (RL) is a type of ML where an agent learns to make decisions by performing certain actions and receiving rewards or penalties. In trading, an RL agent might decide to buy, [hold](../h/hold.md), or sell [stocks](../s/stock.md) to maximize its cumulative reward.
+[Reinforcement Learning](../r/reinforcement_learning.md) (RL) is a type of ML where an agent learns to make decisions by performing certain actions and receiving rewards or penalties. In trading, an RL agent might decide to buy, [hold](../h/hold.md), or sell [stocks](../s/stock.md) to maximize its cumulative reward.
 
 ###### 2.3.1. Q-Learning
 Q-Learning is a [value](../v/value.md)-based RL algorithm where the agent learns a function (Q-function) to estimate the [value](../v/value.md) of taking a given action in a given state.
@@ -123,7 +123,7 @@ Several companies specialize in developing and utilizing ML algorithms for tradi
 **Website**: [QuantConnect](https://www.quantconnect.com)
 
 ##### 6.2. Two Sigma
-Two Sigma is a quantitative [investment management](../i/investment_management.md) company that leverages machine learning to make informed trading decisions.
+Two Sigma is a quantitative [investment management](../i/investment_management.md) company that leverages [machine learning](../m/machine_learning.md) to make informed trading decisions.
 **Website**: [Two Sigma](https://www.twosigma.com)
 
 ##### 6.3. Renaissance Technologies

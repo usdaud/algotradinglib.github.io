@@ -71,7 +71,7 @@ The 2008 [financial crisis](../f/financial_crisis.md) highlighted the importance
 
 ### Algorithmic Trading
 
-Modern [finance](../f/finance.md) increasingly relies on [algorithmic trading](../a/accountability.md) and [data analytics](../d/data_analytics.md) to determine haircuts. Advanced models use real-time data and machine learning to assess [asset](../a/asset.md) [risk profiles](../r/risk_profiles.md) and [market](../m/market.md) conditions, providing dynamic haircut calculations.
+Modern [finance](../f/finance.md) increasingly relies on [algorithmic trading](../a/accountability.md) and [data analytics](../d/data_analytics.md) to determine haircuts. Advanced models use real-time data and [machine learning](../m/machine_learning.md) to assess [asset](../a/asset.md) [risk profiles](../r/risk_profiles.md) and [market](../m/market.md) conditions, providing dynamic haircut calculations.
 
 ### Risk Management Systems
 

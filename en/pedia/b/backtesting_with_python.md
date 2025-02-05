@@ -189,7 +189,7 @@ Walk-forward analysis involves partitioning your data into training and testing 
 
 ### Reinforcement Learning
 
-Reinforcement learning allows strategies to adapt dynamically by learning from their performance. Libraries like TensorFlow and PyTorch can be integrated with [backtesting](../b/backtesting.md) frameworks to develop AI-driven [trading algorithms](../t/trading_algorithms.md).
+[Reinforcement learning](../r/reinforcement_learning.md) allows strategies to adapt dynamically by learning from their performance. Libraries like [TensorFlow](../t/tensorflow.md) and [PyTorch](../p/pytorch.md) can be integrated with [backtesting](../b/backtesting.md) frameworks to develop AI-driven [trading algorithms](../t/trading_algorithms.md).
 
 ### Genetic Algorithms
 

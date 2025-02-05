@@ -68,7 +68,7 @@ Algorithmic and high-frequency trading firms frequently employ sophisticated alg
 
 ### Machine Learning
 
-Some firms and trading desks incorporate machine learning models to predict NFP outcomes and [market](../m/market.md) reactions. These models analyze vast amounts of economic data, including previous NFP reports, to generate predictions and [trading signals](../t/trading_signals.md).
+Some firms and trading desks incorporate [machine learning](../m/machine_learning.md) models to predict NFP outcomes and [market](../m/market.md) reactions. These models analyze vast amounts of economic data, including previous NFP reports, to generate predictions and [trading signals](../t/trading_signals.md).
 
 ## Accessing NFP Data
 

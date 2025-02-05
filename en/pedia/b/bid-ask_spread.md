@@ -133,7 +133,7 @@ Traders can analyze [bid](../b/bid.md)-ask [spreads](../s/spreads.md) across dif
 
 ### Machine Learning Applications
 
-Machine learning can be applied to predict [bid](../b/bid.md)-ask spread changes. By analyzing historical data and identifying patterns, machine learning models can improve [trading strategies](../t/trading_strategies.md) that depend on spread exploitation.
+[Machine learning](../m/machine_learning.md) can be applied to predict [bid](../b/bid.md)-ask spread changes. By analyzing historical data and identifying patterns, [machine learning](../m/machine_learning.md) models can improve [trading strategies](../t/trading_strategies.md) that depend on spread exploitation.
 
 ### Regulatory Impact
 

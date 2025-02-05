@@ -39,7 +39,7 @@ The buy-side employs a [range](../r/range.md) of investment strategies to achiev
 Many buy-side firms use [fundamental analysis](../f/fundamental_analysis.md) to evaluate securities. This involves analyzing a company's [financial statements](../f/financial_statements.md), competitive position, [market](../m/market.md) conditions, and other factors to determine its [intrinsic value](../i/intrinsic_value.md). The goal is to identify [undervalued](../u/undervalued.md) or [overvalued](../o/overvalued.md) [stocks](../s/stock.md) based on their fundamentals.
 
 #### Quantitative Analysis
-[Quantitative analysis](../q/quantitative_analysis.md) involves using mathematical and statistical models to determine investment decisions. Quant strategies may include [algorithmic trading](../a/accountability.md), where computers execute trades based on pre-defined criteria. Quant firms use [data mining](../d/data_mining.md), machine learning, and other technologies to [gain](../g/gain.md) insights and execute trades efficiently.
+[Quantitative analysis](../q/quantitative_analysis.md) involves using mathematical and statistical models to determine investment decisions. Quant strategies may include [algorithmic trading](../a/accountability.md), where computers execute trades based on pre-defined criteria. Quant firms use [data mining](../d/data_mining.md), [machine learning](../m/machine_learning.md), and other technologies to [gain](../g/gain.md) insights and execute trades efficiently.
 
 #### Technical Analysis
 [Technical analysis](../t/technical_analysis.md) studies price movements and trading volumes to forecast future prices. Traders using [technical analysis](../t/technical_analysis.md) seek to identify patterns and trends that can indicate buy or sell signals.
@@ -52,7 +52,7 @@ Many buy-side firms use [fundamental analysis](../f/fundamental_analysis.md) to 
 
 ### Role of Technology in Buy-Side Operations
 
-Modern buy-side firms increasingly rely on sophisticated technology to [gain](../g/gain.md) a competitive edge. This includes using [big data analytics](../b/big_data_analytics_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), and machine learning (ML) to uncover trends and make faster, more informed investment decisions.
+Modern buy-side firms increasingly rely on sophisticated technology to [gain](../g/gain.md) a competitive edge. This includes using [big data analytics](../b/big_data_analytics_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), and [machine learning](../m/machine_learning.md) (ML) to uncover trends and make faster, more informed investment decisions.
 
 #### Algorithmic Trading
 [Algorithmic trading](../a/accountability.md) involves the use of computer algorithms to execute trades at optimal times and prices. Buy-side firms might use algorithms for high-frequency trading (HFT) to [capitalize](../c/capitalize.md) on minute [market](../m/market.md) movements.

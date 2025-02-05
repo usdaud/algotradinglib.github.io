@@ -60,9 +60,9 @@ Data is the lifeblood of [algorithmic trading](../a/accountability.md). Mastery 
 
 An emerging and increasingly critical area in algo-trading. Key concepts include:
 
-- **Supervised Learning**: [Predictive models](../p/predictive_models_in_trading.md) based on labeled data.
-- **Unsupervised Learning**: Discovering hidden patterns in data.
-- **Reinforcement Learning**: Algorithms that learn optimal actions through trial and error.
+- **[Supervised Learning](../s/supervised_learning.md)**: [Predictive models](../p/predictive_models_in_trading.md) based on labeled data.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Discovering hidden patterns in data.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Algorithms that learn optimal actions through trial and error.
 
 ## Challenges in the Learning Curve
 
@@ -87,7 +87,7 @@ To manage and potentially flatten the steep learning curve in algo-trading, nume
 
 ### Online Courses and Tutorials
 
-Various platforms [offer](../o/offer.md) courses in [finance](../f/finance.md), programming, and machine learning. Examples include:
+Various platforms [offer](../o/offer.md) courses in [finance](../f/finance.md), programming, and [machine learning](../m/machine_learning.md). Examples include:
 
 - **Coursera**: Courses from top universities [Coursera](https://www.coursera.org/).
 - **Udemy**: Wide [range](../r/range.md) of tutorials on [finance](../f/finance.md) and programming [Udemy](https://www.udemy.com/).
@@ -99,7 +99,7 @@ Numerous authoritative texts exist on each essential topic:
 
 - **"[Algorithmic Trading](../a/accountability.md)" by Ernest P. Chan**: Covers strategies and quantitative methods.
 - **"Python for [Finance](../f/finance.md)" by Yves Hilpisch**: Focuses on Python programming for financial applications.
-- **"The Elements of Statistical Learning" by Trevor Hastie, Robert Tibshirani, and Jerome Friedman**: Foundation book for machine learning techniques.
+- **"The Elements of Statistical Learning" by Trevor Hastie, Robert Tibshirani, and Jerome Friedman**: Foundation book for [machine learning](../m/machine_learning.md) techniques.
 
 ### Software Platforms
 

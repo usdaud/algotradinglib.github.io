@@ -65,7 +65,7 @@ Fintech solutions often include advanced tools for [expense](../e/expense.md) ma
 
 - **[Expense](../e/expense.md) Tracking Software**: Solutions like Expensify (https://www.expensify.com) and Concur (https://www.concur.com) [offer](../o/offer.md) automated [expense](../e/expense.md) tracking and reporting, streamlining administrative overhead.
 - **Financial Analytics Tools**: Platforms such as Adaptive Insights (https://www.workday.com/en-us/applications/adaptive-insights.html) provide comprehensive financial analytics, helping companies analyze SG&A trends and make data-driven decisions.
-- **AI and Machine Learning**: [Predictive analytics](../p/predictive_analytics.md) driven by AI and machine learning can forecast future SG&A expenses based on historical data and [market](../m/market.md) trends, aiding in strategic planning.
+- **AI and [Machine Learning](../m/machine_learning.md)**: [Predictive analytics](../p/predictive_analytics.md) driven by AI and [machine learning](../m/machine_learning.md) can forecast future SG&A expenses based on historical data and [market](../m/market.md) trends, aiding in strategic planning.
 
 ## Practical Examples and Case Studies
 

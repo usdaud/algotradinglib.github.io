@@ -95,7 +95,7 @@ The decentralized nature of cryptocurrencies and [blockchain](../b/blockchain_in
 The rise of fintech companies [offering](../o/offering.md) services such as [peer-to-peer lending](../p/peer-to-peer_lending.md), [mobile banking](../m/mobile_banking.md), and robo-advising creates new regulatory challenges. Ensuring that fintech innovations do not exploit any loopholes [will](../w/will.md) require adaptive regulatory frameworks.
 
 ### Artificial Intelligence and Machine Learning
-AI and machine learning technologies used in [trading algorithms](../t/trading_algorithms.md) could potentially identify and exploit loopholes faster than traditional methods. Regulatory bodies [will](../w/will.md) need to develop advanced monitoring and analytical tools to keep pace with these innovations.
+AI and [machine learning](../m/machine_learning.md) technologies used in [trading algorithms](../t/trading_algorithms.md) could potentially identify and exploit loopholes faster than traditional methods. Regulatory bodies [will](../w/will.md) need to develop advanced monitoring and analytical tools to keep pace with these innovations.
 
 ### Global Coordination
 Given the global nature of [financial markets](../f/financial_market.md), international coordination among regulators [will](../w/will.md) be crucial. Efforts such as the G20 and OECD initiatives on global tax rules are steps in the right direction for closing cross-border loopholes.

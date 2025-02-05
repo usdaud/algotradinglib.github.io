@@ -80,11 +80,11 @@ Several software packages and tools are available for building and applying late
 
 1. **R**: R is a popular statistical programming language with numerous packages for latent variable modeling, such as `lavaan` for SEMs, `dlm` for state-space models, and `topicmodels` for LDA.
    
-2. **Python**: Python is another widely used language in [finance](../f/finance.md), [offering](../o/offering.md) packages like `sklearn` for general machine learning, `pmdarima` for state-space models, and `gensim` for topic modeling.
+2. **Python**: Python is another widely used language in [finance](../f/finance.md), [offering](../o/offering.md) packages like `sklearn` for general [machine learning](../m/machine_learning.md), `pmdarima` for state-space models, and `gensim` for topic modeling.
 
 3. **MATLAB**: MATLAB provides [robust](../r/robust.md) tools for [time series analysis](../t/time_series_analysis.md), including packages for state-space modeling and [factor analysis](../f/factor_analysis.md).
 
-4. **TensorFlow and PyTorch**: These [deep learning](../d/deep_learning.md) frameworks can be used to build custom latent variable models, particularly for complex and large-scale applications.
+4. **[TensorFlow](../t/tensorflow.md) and [PyTorch](../p/pytorch.md)**: These [deep learning](../d/deep_learning.md) frameworks can be used to build custom latent variable models, particularly for complex and large-scale applications.
 
 # Challenges and Considerations
 

@@ -94,7 +94,7 @@ As [financial markets](../f/financial_market.md) evolve, so too does the [scope]
 
 ### Advancements in Data Management
 
-Ongoing advancements in data management, including [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, promise to enhance the accuracy, [efficiency](../e/efficiency.md), and [utility](../u/utility.md) of ISIN codes, further supporting their role in global [finance](../f/finance.md).
+Ongoing advancements in data management, including [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), promise to enhance the accuracy, [efficiency](../e/efficiency.md), and [utility](../u/utility.md) of ISIN codes, further supporting their role in global [finance](../f/finance.md).
 
 ## Conclusion
 

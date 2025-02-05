@@ -57,7 +57,7 @@ print(f"Mean Square Deviation: {msd}")
    - Traders can use MSD to compare different [predictive models](../p/predictive_models_in_trading.md) and choose the one with the lowest MSD, indicating higher accuracy.
 
 2. **Parameter Tuning**:
-   - Adjusting hyperparameters in machine learning models to minimize MSD can lead to better-performing [trading algorithms](../t/trading_algorithms.md).
+   - Adjusting hyperparameters in [machine learning](../m/machine_learning.md) models to minimize MSD can lead to better-performing [trading algorithms](../t/trading_algorithms.md).
 
 3. **[Risk Management](../r/risk_management.md)**:
    - By assessing MSD, traders can gauge the reliability of their models and adjust their [risk](../r/risk.md) exposure accordingly.

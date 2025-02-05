@@ -59,10 +59,10 @@ Website: [MetaTrader](https://www.metatrader4.com/en)
 
 ## Implementing Horizon Analysis with AI/ML
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) have revolutionized horizon analysis by enhancing the precision of predictions and the depth of data analysis. 
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) have revolutionized horizon analysis by enhancing the precision of predictions and the depth of data analysis. 
 
 ### Machine Learning Models
-Machine learning models such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) are employed to forecast investment performance over different horizons. These models learn from historical data and identify patterns that traditional statistical methods may overlook.
+[Machine learning](../m/machine_learning.md) models such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) are employed to forecast investment performance over different horizons. These models learn from historical data and identify patterns that traditional statistical methods may overlook.
 
 ### AI-Powered Tools
 AI-powered platforms like AlphaSense and Kensho use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and advanced algorithms to provide horizon analysis by extracting relevant information from vast datasets.

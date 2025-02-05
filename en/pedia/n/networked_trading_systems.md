@@ -49,7 +49,7 @@ Back-end systems manage and store the data required for trading operations:
 
 - **Real-Time Data Processing:** Technologies like Complex Event Processing (CEP) analyze streaming data in real-time to detect patterns and trigger trading decisions.
 - **[Big Data Analytics](../b/big_data_analytics_in_trading.md):** Using Hadoop, Spark, and other frameworks to [handle](../h/handle.md) large volumes of [market](../m/market.md) and [trade](../t/trade.md) data for [backtesting](../b/backtesting.md) and strategy [optimization](../o/optimization.md).
-- **Machine Learning:** Employing algorithms to identify predictive patterns in historical data and adapt strategies dynamically.
+- **[Machine Learning](../m/machine_learning.md):** Employing algorithms to identify predictive patterns in historical data and adapt strategies dynamically.
 
 ## Importance and Impact on Algorithmic Trading
 

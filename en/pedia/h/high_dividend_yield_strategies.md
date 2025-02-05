@@ -88,7 +88,7 @@ The next step is to design the algorithm to identify high [dividend yield](../d/
 
 2. **Scoring and Ranking**:
    - Develop a scoring model that ranks [stocks](../s/stock.md) based on their [dividend yield](../d/dividend_yield.md) and other [financial health](../f/financial_health.md) metrics.
-   - Apply machine learning techniques to improve the accuracy of the scoring model.
+   - Apply [machine learning](../m/machine_learning.md) techniques to improve the accuracy of the scoring model.
 
 3. **Portfolio Construction**:
    - Construct a diversified portfolio from the top-ranked [stocks](../s/stock.md).

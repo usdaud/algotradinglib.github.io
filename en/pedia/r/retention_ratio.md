@@ -123,7 +123,7 @@ Companies might change their [dividend](../d/dividend.md) policies over time bas
 
 ### Data Analytics and Machine Learning
 
-In the realm of [algorithmic trading](../a/accountability.md), the retention ratio can be used as a feature in machine learning models to predict stock price movements and [valuation](../v/valuation.md) trends. By analyzing historical retention ratios and their [correlation](../c/correlation.md) with stock performance, algorithms can identify patterns and make data-driven trading decisions.
+In the realm of [algorithmic trading](../a/accountability.md), the retention ratio can be used as a feature in [machine learning](../m/machine_learning.md) models to predict stock price movements and [valuation](../v/valuation.md) trends. By analyzing historical retention ratios and their [correlation](../c/correlation.md) with stock performance, algorithms can identify patterns and make data-driven trading decisions.
 
 ### Financial Modeling
 

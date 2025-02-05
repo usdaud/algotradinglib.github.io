@@ -150,7 +150,7 @@ Technological advancements have significantly enhanced the ability to manage fin
 [Data analytics](../d/data_analytics.md) involves analyzing large datasets to identify patterns and trends that impact financial exposure. Techniques include:
 
 - **[Predictive Analytics](../p/predictive_analytics.md)**: Using statistical models to predict future [market](../m/market.md) movements and potential risks.
-- **Machine Learning**: Applying algorithms to analyze historical data and improve [risk assessment models](../r/risk_assessment_models.md).
+- **[Machine Learning](../m/machine_learning.md)**: Applying algorithms to analyze historical data and improve [risk assessment models](../r/risk_assessment_models.md).
 
 ### 3. Blockchain Technology
 

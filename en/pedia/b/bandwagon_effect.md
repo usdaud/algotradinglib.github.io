@@ -20,7 +20,7 @@ In algotrading, the bandwagon effect can manifest through [multiple](../m/multip
 
 ### Sentiment Analysis
 
-Advancements in [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning have enabled the development of [sentiment analysis](../s/sentiment_analysis.md) algorithms. These algorithms parse enormous amounts of data from [social media](../s/social_media.md), news articles, and financial forums to gauge [market sentiment](../m/market_sentiment.md). The bandwagon effect can be detected by monitoring shifts in sentiment, allowing algos to make informed trading decisions.
+Advancements in [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) have enabled the development of [sentiment analysis](../s/sentiment_analysis.md) algorithms. These algorithms parse enormous amounts of data from [social media](../s/social_media.md), news articles, and financial forums to gauge [market sentiment](../m/market_sentiment.md). The bandwagon effect can be detected by monitoring shifts in sentiment, allowing algos to make informed trading decisions.
 
 ### Volume Analysis
 
@@ -66,7 +66,7 @@ Effective [risk management](../r/risk_management.md) protocols are essential for
 
 ### Machine Learning Models
 
-Advanced machine learning models can be employed to predict the onset and [duration](../d/duration.md) of the bandwagon effect. These models can adapt to new data in real-time, providing a competitive edge.
+Advanced [machine learning](../m/machine_learning.md) models can be employed to predict the onset and [duration](../d/duration.md) of the bandwagon effect. These models can adapt to new data in real-time, providing a competitive edge.
 
 ### Behavioral Finance Analysis
 
@@ -76,7 +76,7 @@ Incorporating [behavioral finance](../b/behavioral_finance.md) can enhance the e
 
 Several companies and platforms have incorporated the bandwagon effect into their [trading systems](../t/trading_systems.md):
 
-1. **Numerai**: https://numer.ai/ - Utilizes crowdsourced machine learning models, effectively leveraging the bandwagon effect from its community of data scientists.
+1. **Numerai**: https://numer.ai/ - Utilizes crowdsourced [machine learning](../m/machine_learning.md) models, effectively leveraging the bandwagon effect from its community of data scientists.
 2. **Sentient Technologies**: Although this company has ceased operations, it was known for implementing [artificial intelligence](../a/artificial_intelligence_in_trading.md) in financial trading, exploiting trends and [market sentiment](../m/market_sentiment.md).
 3. **[QuantConnect](../q/quantconnect.md)**: https://www.[quantconnect](../q/quantconnect.md).com/ - Provides a platform for developing, [backtesting](../b/backtesting.md), and deploying [quantitative trading](../q/quantitative_trading.md) strategies, which may include those harnessing the bandwagon effect.
 

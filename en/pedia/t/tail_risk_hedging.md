@@ -48,7 +48,7 @@ In the context of [finance](../f/finance.md), tail risks can result from various
 ### Algorithmic Tail Risk Models
 
 1. **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**
-   - **Function:** Advanced machine learning models can identify patterns and predict potential tail events by analyzing historical data and [market](../m/market.md) signals.
+   - **Function:** Advanced [machine learning](../m/machine_learning.md) models can identify patterns and predict potential tail events by analyzing historical data and [market](../m/market.md) signals.
    - **Usage:** Algorithms can dynamically adjust portfolio positions based on real-time data and [predictive analytics](../p/predictive_analytics.md) to [hedge](../h/hedge.md) against anticipated tail risks.
 
 2. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**

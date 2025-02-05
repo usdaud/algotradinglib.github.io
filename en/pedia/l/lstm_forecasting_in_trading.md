@@ -42,7 +42,7 @@ Before feeding data into an LSTM network, it needs to be preprocessed. Key steps
 
 ### Model Construction
 
-An LSTM model is typically built using [deep learning](../d/deep_learning.md) frameworks such as TensorFlow or PyTorch. Important layers include:
+An LSTM model is typically built using [deep learning](../d/deep_learning.md) frameworks such as [TensorFlow](../t/tensorflow.md) or [PyTorch](../p/pytorch.md). Important layers include:
 
 1. **Input Layer:** Accepts the historical sequences.
 2. **LSTM Layers:** One or more layers that capture the [temporal dependencies](../t/temporal_dependencies_in_trading.md).
@@ -64,14 +64,14 @@ If the model's performance is unsatisfactory, hyperparameters such as the number
 
 ## Practical Example
 
-Let's consider a practical implementation using Python and TensorFlow:
+Let's consider a practical implementation using Python and [TensorFlow](../t/tensorflow.md):
 
 ```python
 [import](../i/import.md) numpy as np
 [import](../i/import.md) pandas as pd
 from sklearn.preprocessing [import](../i/import.md) MinMaxScaler
-from tensorflow.keras.models [import](../i/import.md) Sequential
-from tensorflow.keras.layers [import](../i/import.md) LSTM, Dense
+from [tensorflow](../t/tensorflow.md).[keras](../k/keras.md).models [import](../i/import.md) Sequential
+from [tensorflow](../t/tensorflow.md).[keras](../k/keras.md).layers [import](../i/import.md) LSTM, Dense
 
 # Load Data
 df = pd.read_csv('historical_stock_prices.csv')

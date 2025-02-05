@@ -80,7 +80,7 @@ Modern trading platforms often come equipped with features such as gap scanners,
 [Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) often include gap detection mechanisms. Algorithms can be programmed to execute trades instantly upon detecting specific gap patterns, reducing the time lag that human traders face.
 
 ### **3. Machine Learning**
-With the rise of [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning models can now predict [gaps](../g/gap.md) based on historical data, [economic indicators](../e/economic_indicators.md), and other relevant metrics. These models can [offer](../o/offer.md) probabilistic insights into the likelihood and magnitude of future [gaps](../g/gap.md).
+With the rise of [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md) models can now predict [gaps](../g/gap.md) based on historical data, [economic indicators](../e/economic_indicators.md), and other relevant metrics. These models can [offer](../o/offer.md) probabilistic insights into the likelihood and magnitude of future [gaps](../g/gap.md).
 
 ## Case Studies
 

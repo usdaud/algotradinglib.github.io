@@ -34,7 +34,7 @@
 
 #### Signal Enhancement
 
-Improving the robustness and reliability of [trading signals](../t/trading_signals.md) using advanced statistical techniques and machine learning models.
+Improving the robustness and reliability of [trading signals](../t/trading_signals.md) using advanced statistical techniques and [machine learning](../m/machine_learning.md) models.
 
 ### Volatility Management
 
@@ -80,9 +80,9 @@ Modern [algorithmic trading](../a/algorithmic_trading.md) platforms come with bu
 
 ### Machine Learning and AI
 
-Machine learning and AI technologies enhance the effectiveness of [overlay](../o/overlay.md) strategies by providing powerful tools for [signal detection](../s/signal_detection_in_trading.md), [risk](../r/risk.md) assessment, and [execution](../e/execution.md) [optimization](../o/optimization.md).
+[Machine learning](../m/machine_learning.md) and AI technologies enhance the effectiveness of [overlay](../o/overlay.md) strategies by providing powerful tools for [signal detection](../s/signal_detection_in_trading.md), [risk](../r/risk.md) assessment, and [execution](../e/execution.md) [optimization](../o/optimization.md).
 
-- **TensorFlow**: An [open](../o/open.md)-source machine learning library used for building and deploying machine learning models.
+- **[TensorFlow](../t/tensorflow.md)**: An [open](../o/open.md)-source [machine learning](../m/machine_learning.md) library used for building and deploying [machine learning](../m/machine_learning.md) models.
 
 ### API Integration
 
@@ -94,7 +94,7 @@ APIs facilitate the integration of various [overlay](../o/overlay.md) components
 
 ### Two Sigma Investments
 
-Two Sigma is a prominent [firm](../f/firm.md) known for its use of machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced technologies in its [trading strategies](../t/trading_strategies.md), including [overlay](../o/overlay.md) strategies.
+Two Sigma is a prominent [firm](../f/firm.md) known for its use of [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced technologies in its [trading strategies](../t/trading_strategies.md), including [overlay](../o/overlay.md) strategies.
 Website: [Two Sigma](https://www.twosigma.com)
 
 ### Renaissance Technologies

@@ -31,11 +31,11 @@ High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_tra
 [Momentum](../m/momentum.md) algorithms identify trends in the [market](../m/market.md) and make trades that align with these trends. If prices are trending upwards, the algorithm [will](../w/will.md) place buy orders, while if prices are trending downwards, it [will](../w/will.md) place sell orders.
 
 ### Machine Learning in Algo Trading
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are playing an increasingly significant role in [algorithmic trading](../a/algorithmic_trading.md). Models can be trained on historical data to predict [market](../m/market.md) trends, optimize portfolio allocations, and detect [arbitrage](../a/arbitrage.md) opportunities. Popular machine learning techniques include:
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are playing an increasingly significant role in [algorithmic trading](../a/algorithmic_trading.md). Models can be trained on historical data to predict [market](../m/market.md) trends, optimize portfolio allocations, and detect [arbitrage](../a/arbitrage.md) opportunities. Popular [machine learning](../m/machine_learning.md) techniques include:
 
-- **Supervised Learning**: Training models based on labeled input-output pairs.
-- **Unsupervised Learning**: Identifying patterns in unlabeled data.
-- **Reinforcement Learning**: Algorithms learn optimal [trading strategies](../t/trading_strategies.md) through trial and error, receiving rewards for profitable trades.
+- **[Supervised Learning](../s/supervised_learning.md)**: Training models based on labeled input-output pairs.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Identifying patterns in unlabeled data.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Algorithms learn optimal [trading strategies](../t/trading_strategies.md) through trial and error, receiving rewards for profitable trades.
 
 ### Risk Management
 Effective [risk management](../r/risk_management.md) is crucial in [algorithmic trading](../a/algorithmic_trading.md). This includes measures to [handle](../h/handle.md) [operational risk](../o/operational_risk.md), [market risk](../m/market_risk.md), and [credit risk](../c/credit_risk.md). Algorithms need to incorporate [risk management](../r/risk_management.md) protocols, such as dynamic stop-loss mechanisms, [volatility](../v/volatility.md) filters, and [diversification](../d/diversification.md) techniques.
@@ -56,7 +56,7 @@ Several key players dominate the [algorithmic trading](../a/algorithmic_trading.
    - An innovative trading [firm](../f/firm.md) focusing on sophisticated strategies across various [asset](../a/asset.md) classes, heavily leveraging quantitative methods.
 
 4. [Two Sigma](https://www.twosigma.com/)
-   - A technology-driven trading [firm](../f/firm.md) that heavily utilizes [data science](../d/data_science_in_trading.md) and machine learning.
+   - A technology-driven trading [firm](../f/firm.md) that heavily utilizes [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md).
 
 5. [DRW Trading](https://drw.com/)
    - A diversified [principal](../p/principal.md) trading [firm](../f/firm.md) combining traditional and modern approaches across a variety of products and [asset](../a/asset.md) classes.

@@ -82,7 +82,7 @@ Innovation is at the core of ICE’s strategy for future growth:
 ### Blockchain and Cryptocurrencies
 ICE has shown [interest](../i/interest.md) in [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies, evidenced by its investment in Bakkt, a platform for managing digital assets.
 ### Artificial Intelligence and Machine Learning
-By leveraging AI and machine learning, ICE aims to improve [trading algorithms](../t/trading_algorithms.md), [risk management](../r/risk_management.md), and compliance frameworks.
+By leveraging AI and [machine learning](../m/machine_learning.md), ICE aims to improve [trading algorithms](../t/trading_algorithms.md), [risk management](../r/risk_management.md), and compliance frameworks.
 
 ## Conclusion
 Intercontinental [Exchange](../e/exchange.md) has established itself as a leading player in the global [financial markets](../f/financial_market.md). Through its diverse [range](../r/range.md) of services, commitment to technological innovation, and focus on regulatory compliance, ICE provides a [robust](../r/robust.md) and efficient marketplace for a multitude of financial instruments. As it continues to expand and innovate, ICE remains at the forefront of the financial [industry](../i/industry.md), shaping the future of global trading.

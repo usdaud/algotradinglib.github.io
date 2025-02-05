@@ -98,7 +98,7 @@ Limited historical data can lead to insufficient testing and unreliable results.
 ### How to Avoid It:
 
 1. **Extended Data Sets:** Use the most extended data sets possible to capture [multiple](../m/multiple.md) [market cycles](../m/market_cycles.md).
-2. **Data Augmentation:** Augment limited data with synthetic data if necessary.
+2. **[Data Augmentation](../d/data_augmentation.md):** Augment limited data with synthetic data if necessary.
 3. **[Robust](../r/robust.md) Testing:** Ensure your strategy is tested across different time frames and [market](../m/market.md) conditions.
 
 ## Latency and Execution Issues

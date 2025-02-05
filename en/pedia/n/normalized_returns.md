@@ -69,7 +69,7 @@ Several companies [offer](../o/offer.md) tools and platforms tailored for algori
 - **[QuantConnect](../q/quantconnect.md)** [QuantConnect](https://www.quantconnect.com/): A community-focused [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) data, research, [backtesting](../b/backtesting.md), and live trading capabilities.
 - **[Alpaca](../a/alpaca.md)** [Alpaca](https://alpaca.markets/): Provides [commission](../c/commission.md)-free trading APIs and facilitates [algorithmic trading](../a/algorithmic_trading.md) with normalized [return](../r/return.md) calculations for performance comparison.
 - **Kensho Technologies** [Kensho](https://www.kensho.com/): Offers advanced analytics and data processing tools that can incorporate normalized returns into more extensive financial analyses.
-- **Numerai** [Numerai](https://numer.ai/): Utilizes crowd-sourced data and machine learning models to predict [market](../m/market.md) moves, often incorporating normalized returns in their competitions and model assessments.
+- **Numerai** [Numerai](https://numer.ai/): Utilizes crowd-sourced data and [machine learning](../m/machine_learning.md) models to predict [market](../m/market.md) moves, often incorporating normalized returns in their competitions and model assessments.
 
 #### Conclusion
 

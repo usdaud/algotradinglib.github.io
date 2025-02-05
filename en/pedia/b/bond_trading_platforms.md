@@ -36,7 +36,7 @@ Regulatory compliance is a key concern for [bond](../b/bond.md) traders. Most [b
 ### Technological Advancements in Bond Trading Platforms
 
 #### Artificial Intelligence and Machine Learning
-AI and machine learning applications are increasingly being incorporated into [bond](../b/bond.md) trading platforms to enhance [predictive analytics](../p/predictive_analytics.md), optimize [trading strategies](../t/trading_strategies.md), and improve [risk management](../r/risk_management.md). For example, platforms can employ AI to analyze historical data, [market](../m/market.md) trends, and other variables to recommend optimal trading actions.
+AI and [machine learning](../m/machine_learning.md) applications are increasingly being incorporated into [bond](../b/bond.md) trading platforms to enhance [predictive analytics](../p/predictive_analytics.md), optimize [trading strategies](../t/trading_strategies.md), and improve [risk management](../r/risk_management.md). For example, platforms can employ AI to analyze historical data, [market](../m/market.md) trends, and other variables to recommend optimal trading actions.
 
 #### Blockchain and Distributed Ledger Technology
 While still in nascent stages, [blockchain](../b/blockchain_in_trading.md) technology holds promise for [bond](../b/bond.md) trading by enhancing [transparency](../t/transparency.md), reducing [counterparty risk](../c/counterparty_risk.md), and streamlining the settlement process. Some platforms are exploring [blockchain](../b/blockchain_in_trading.md)-based solutions to provide immutable [transaction](../t/transaction.md) records and automate complex contractual [obligations](../o/obligation.md) through [smart contracts](../s/smart_contracts_in_trading.md).
@@ -64,7 +64,7 @@ Regulatory bodies often mandate best [execution](../e/execution.md) policies, re
 As [bond](../b/bond.md) markets increasingly embrace electronic trading, the role of automation and [algorithmic trading](../a/algorithmic_trading.md) is expected to grow. Algorithms can execute large volumes of trades with greater speed and [efficiency](../e/efficiency.md), potentially leveling the playing field for different [market](../m/market.md) participants.
 
 #### Enhanced Data Analytics
-The future of [bond](../b/bond.md) trading [will](../w/will.md) likely see a greater emphasis on advanced [data analytics](../d/data_analytics.md), including the use of [big data](../b/big_data_in_trading.md) and machine learning techniques. These technologies can provide deeper [market](../m/market.md) insights, better [risk](../r/risk.md) assessments, and improved [trading strategies](../t/trading_strategies.md).
+The future of [bond](../b/bond.md) trading [will](../w/will.md) likely see a greater emphasis on advanced [data analytics](../d/data_analytics.md), including the use of [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) techniques. These technologies can provide deeper [market](../m/market.md) insights, better [risk](../r/risk.md) assessments, and improved [trading strategies](../t/trading_strategies.md).
 
 #### Regulatory Evolution
 As the [bond](../b/bond.md) trading landscape evolves, so too [will](../w/will.md) the regulatory environment. Platforms [will](../w/will.md) need to stay agile and adaptable, ensuring compliance with new regulations while continuing to innovate and enhance their service offerings.

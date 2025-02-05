@@ -50,8 +50,8 @@ The performance of [algorithmic trading](../a/algorithmic_trading.md) strategies
 **2. [Cloud Computing](../c/cloud_computing_in_trading.md):**
 [Cloud computing](../c/cloud_computing_in_trading.md) offers scalable resources for back-testing and running complex [trading algorithms](../t/trading_algorithms.md). It also provides the flexibility to adapt to changing [market](../m/market.md) conditions without significant upfront investment in hardware.
 
-**3. Machine Learning and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md):**
-Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being integrated into [algorithmic trading](../a/algorithmic_trading.md) systems. These technologies enable the development of algorithms that can learn and evolve based on [market](../m/market.md) data, potentially leading to more sophisticated and adaptive [trading strategies](../t/trading_strategies.md).
+**3. [Machine Learning](../m/machine_learning.md) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md):**
+[Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being integrated into [algorithmic trading](../a/algorithmic_trading.md) systems. These technologies enable the development of algorithms that can learn and evolve based on [market](../m/market.md) data, potentially leading to more sophisticated and adaptive [trading strategies](../t/trading_strategies.md).
 
 **4. Regulatory Technology ([RegTech](../r/regtech.md)):**
 Compliance with regulatory requirements is crucial in [algorithmic trading](../a/algorithmic_trading.md). [RegTech](../r/regtech.md) solutions automate compliance processes, ensuring that [trading algorithms](../t/trading_algorithms.md) adhere to relevant laws and regulations.
@@ -65,7 +65,7 @@ Compliance with regulatory requirements is crucial in [algorithmic trading](../a
 [AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports both traditional and digital [asset](../a/asset.md) trading. Its platform includes features for strategy development, [simulation](../s/simulation_in_trading.md), and [execution](../e/execution.md).
 
 **3. Numerai:**
-Numerai (https://numer.ai) is a [hedge fund](../h/hedge_fund.md) that crowdsources its [trading algorithms](../t/trading_algorithms.md) from data scientists around the world. The company uses a unique incentive structure and machine learning to develop its [trading strategies](../t/trading_strategies.md).
+Numerai (https://numer.ai) is a [hedge fund](../h/hedge_fund.md) that crowdsources its [trading algorithms](../t/trading_algorithms.md) from data scientists around the world. The company uses a unique incentive structure and [machine learning](../m/machine_learning.md) to develop its [trading strategies](../t/trading_strategies.md).
 
 **4. [Deltix](../d/deltix.md):**
 [Deltix](../d/deltix.md) (https://www.deltixlab.com) offers software and services for [quantitative research](../q/quantitative_research.md), [algorithmic trading](../a/algorithmic_trading.md), and [execution](../e/execution.md). Its products cater to [hedge](../h/hedge.md) funds, [asset](../a/asset.md) managers, and [proprietary trading](../p/proprietary_trading.md) firms.

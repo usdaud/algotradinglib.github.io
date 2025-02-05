@@ -71,7 +71,7 @@ Educating employees about the signs of embezzlement and the importance of ethica
 
 ### Advanced Tools
 
-Leveraging advanced [software tools](../s/software_tools_for_trading.md) and technologies, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, can enhance the capability to detect anomalies and fraudulent activities in real-time.
+Leveraging advanced [software tools](../s/software_tools_for_trading.md) and technologies, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), can enhance the capability to detect anomalies and fraudulent activities in real-time.
 
 ## Impact on Organizations
 

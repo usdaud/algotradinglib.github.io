@@ -87,7 +87,7 @@ Placing the [customer](../c/customer.md) at the center of RGU strategies often y
 
 ### Technological Integration
 
-Leveraging advanced technologies like AI and machine learning can enhance RGU tracking and [forecasting](../f/forecasting.md). [Predictive analytics](../p/predictive_analytics.md) can identify trends and potential churn risks, allowing companies to proactively address issues and optimize [revenue](../r/revenue.md).
+Leveraging advanced technologies like AI and [machine learning](../m/machine_learning.md) can enhance RGU tracking and [forecasting](../f/forecasting.md). [Predictive analytics](../p/predictive_analytics.md) can identify trends and potential churn risks, allowing companies to proactively address issues and optimize [revenue](../r/revenue.md).
 
 ### Cross-Selling and Upselling
 

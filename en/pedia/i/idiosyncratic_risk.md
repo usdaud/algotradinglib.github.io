@@ -28,7 +28,7 @@ Algorithms can be designed to account for idiosyncratic [risk](../r/risk.md) by 
 - **Geographic [diversification](../d/diversification.md)**: [Investing](../i/investing.md) in assets from different countries or regions can mitigate risks associated with specific geopolitical or [economic conditions](../e/economic_conditions.md).
 - **[Asset class](../a/asset_class.md) [diversification](../d/diversification.md)**: Holding a mix of [asset](../a/asset.md) classes (e.g., [stocks](../s/stock.md), bonds, [real estate](../r/real_estate.md)) can reduce the impact of risks unique to a single [asset class](../a/asset_class.md).
 
-In practice, [algorithmic trading](../a/accountability.md) systems can employ [diversification strategies](../d/diversification_strategies.md) to dynamically adjust portfolio compositions in response to changing [market](../m/market.md) conditions and emerging risks. This can be achieved through techniques such as Monte Carlo simulations, [optimization](../o/optimization.md) algorithms, and machine learning models.
+In practice, [algorithmic trading](../a/accountability.md) systems can employ [diversification strategies](../d/diversification_strategies.md) to dynamically adjust portfolio compositions in response to changing [market](../m/market.md) conditions and emerging risks. This can be achieved through techniques such as Monte Carlo simulations, [optimization](../o/optimization.md) algorithms, and [machine learning](../m/machine_learning.md) models.
 
 ### Statistical Models for Idiosyncratic Risk
 

@@ -26,7 +26,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves identifying and exploiting p
 [Sentiment analysis](../s/sentiment_analysis.md) involves analyzing news articles, [social media](../s/social_media.md) posts, and other text data to gauge [market sentiment](../m/market_sentiment.md). Algorithms can then use this sentiment data to make informed trading decisions.
 
 ### Machine Learning
-Machine learning techniques are increasingly used in X-Tactical Trading to develop [predictive models](../p/predictive_models_in_trading.md). These models can uncover complex patterns in large datasets that traditional methods might miss.
+[Machine learning](../m/machine_learning.md) techniques are increasingly used in X-Tactical Trading to develop [predictive models](../p/predictive_models_in_trading.md). These models can uncover complex patterns in large datasets that traditional methods might miss.
 
 ## Technological Infrastructure
 
@@ -40,14 +40,14 @@ Advanced trading platforms are necessary for executing X-Tactical [trading strat
 [Cloud computing](../c/cloud_computing_in_trading.md) provides the computational power required to process large data sets and run complex algorithms. It enables [scalability](../s/scalability.md) and flexibility in deploying [trading strategies](../t/trading_strategies.md).
 
 ### GPUs and TPUs
-Graphics Processing Units (GPUs) and Tensor Processing Units (TPUs) are specialized hardware used to accelerate the processing of complex algorithms, particularly those involving machine learning.
+Graphics Processing Units (GPUs) and Tensor Processing Units (TPUs) are specialized hardware used to accelerate the processing of complex algorithms, particularly those involving [machine learning](../m/machine_learning.md).
 
 ## Key Players in X-Tactical Trading
 
 ### Hedge funds and Proprietary Trading Firms
 [Hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) firms are leading players in the X-Tactical Trading space. They possess the resources and expertise needed to develop and deploy sophisticated [trading strategies](../t/trading_strategies.md). Notable examples include:
 - **Renaissance Technologies**: Renowned for its Medallion [Fund](../f/fund.md), which uses complex algorithms to achieve astronomical returns. More information can be found on their [official site](https://www.rentec.com/).
-- **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that leverages machine learning and other advanced techniques. Information about the [firm](../f/firm.md) is available on their [website](https://www.twosigma.com/).
+- **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and other advanced techniques. Information about the [firm](../f/firm.md) is available on their [website](https://www.twosigma.com/).
 
 ### Technology Providers
 Several technology companies specialize in providing the tools and [infrastructure](../i/infrastructure.md) needed for X-Tactical Trading. These include:

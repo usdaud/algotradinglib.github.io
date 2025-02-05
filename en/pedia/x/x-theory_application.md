@@ -15,7 +15,7 @@ The application of X-Theory in [algorithmic trading](../a/algorithmic_trading.md
 
 #### Predictive Modeling
 
-[Predictive modeling](../p/predictive_modeling.md) in the context of X-Theory is multifaceted. It involves the use of machine learning models such as:
+[Predictive modeling](../p/predictive_modeling.md) in the context of X-Theory is multifaceted. It involves the use of [machine learning](../m/machine_learning.md) models such as:
 
 - **[Linear Regression](../l/linear_regression.md)**: To establish relationships between dependent and independent variables.
 - **[Decision Trees](../d/decision_trees.md)**: For hierarchical partitioning to make predictive decisions.
@@ -53,7 +53,7 @@ These strategies focus purely on quantitative metrics and [mathematical models](
 Implementing X-Theory in [algorithmic trading](../a/algorithmic_trading.md) requires a comprehensive technological [infrastructure](../i/infrastructure.md) and a [robust](../r/robust.md) analytical framework. Here's a step-by-step approach:
 
 1. **Data [Acquisition](../a/acquisition.md) and Preprocessing**: Collecting and cleaning vast datasets from various sources such as stock exchanges, financial news, and [economic indicators](../e/economic_indicators.md).
-2. **Model Development**: Using programming languages like Python or R, along with frameworks such as TensorFlow or PyTorch, to develop and train [predictive models](../p/predictive_models_in_trading.md).
+2. **Model Development**: Using programming languages like Python or R, along with frameworks such as [TensorFlow](../t/tensorflow.md) or [PyTorch](../p/pytorch.md), to develop and train [predictive models](../p/predictive_models_in_trading.md).
 3. **[Backtesting](../b/backtesting.md)**: Testing the developed models on historical data to validate their performance.
 4. **Deployment**: Integrating the models into a [trading platform](../t/trading_platform.md) or algorithm that can execute trades automatically.
 5. **Monitoring and Refinement**: Continuously monitoring the performance of the [trading algorithms](../t/trading_algorithms.md) and refining them based on new data and changing [market](../m/market.md) conditions.

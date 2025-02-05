@@ -35,7 +35,7 @@ Diversifying [trading strategies](../t/trading_strategies.md) and [asset](../a/a
 
 ### 3. Real-time Risk Monitoring
 
-Real-time [risk](../r/risk.md) monitoring systems can help detect and respond to deviations from expected performance quickly. Technologies such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can enhance these systems by identifying patterns indicative of potential risks.
+Real-time [risk](../r/risk.md) monitoring systems can help detect and respond to deviations from expected performance quickly. Technologies such as [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can enhance these systems by identifying patterns indicative of potential risks.
 
 - **Key [Performance Indicators](../p/performance_indicators.md) (KPIs):** Defining and monitoring key [performance indicators](../p/performance_indicators.md) in real-time to detect any anomalies.
 - **Alert Systems:** Implementing automated alerts that notify traders of significant deviations or potential issues.
@@ -84,7 +84,7 @@ High-Frequency Trading (HFT) firms, such as Virtu Financial (https://www.virtu.c
 
 Modern X-[risk management](../r/risk_management.md) leverages a [range](../r/range.md) of advanced tools and technologies:
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML):** AI and ML can analyze vast amounts of data in real-time, identifying potential risks and adapting [trading strategies](../t/trading_strategies.md) dynamically.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML):** AI and ML can analyze vast amounts of data in real-time, identifying potential risks and adapting [trading strategies](../t/trading_strategies.md) dynamically.
 - **[Blockchain](../b/blockchain_in_trading.md) Technology:** [Blockchain](../b/blockchain_in_trading.md)’s transparent and immutable ledger can enhance auditability and [security](../s/security.md), reducing [fraud](../f/fraud.md) and operational risks.
 - **[Cloud Computing](../c/cloud_computing_in_trading.md):** Leveraging cloud [infrastructure](../i/infrastructure.md) can enhance the [scalability](../s/scalability.md) and reliability of trading operations, ensuring [robust](../r/robust.md) disaster recovery mechanisms.
 

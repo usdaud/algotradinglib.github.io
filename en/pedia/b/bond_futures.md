@@ -48,7 +48,7 @@ The [fair value](../f/fair_value.md) of a [bond](../b/bond.md) future is calcula
 
 ### Technical Tools
 
-1. **Advanced Algorithms**: Incorporate machine learning models, such as [Random Forests](../r/random_forests_in_trading.md) or [Neural Networks](../n/neural_networks_in_trading.md), to predict price movements.
+1. **Advanced Algorithms**: Incorporate [machine learning](../m/machine_learning.md) models, such as [Random Forests](../r/random_forests_in_trading.md) or [Neural Networks](../n/neural_networks_in_trading.md), to predict price movements.
 2. **High-Frequency Trading (HFT)**: Executing trades at extremely high speeds using algorithms to exploit minute price inefficiencies.
 
 ## Prominent Exchanges for Bond Futures

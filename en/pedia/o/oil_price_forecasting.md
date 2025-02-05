@@ -61,7 +61,7 @@ Improvements in [efficiency](../e/efficiency.md) and alternative energy sources 
 [Quantitative models](../q/quantitative_models.md) use statistical and mathematical techniques for oil price [forecasting](../f/forecasting.md).
 
 - **[Time Series Analysis](../t/time_series_analysis.md):** Models like ARIMA (AutoRegressive Integrated Moving Average) are employed to understand and predict future prices based on past price data.
-- **Machine Learning:** Advanced machine learning models, including [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md), are increasingly used for [forecasting](../f/forecasting.md) oil prices.
+- **[Machine Learning](../m/machine_learning.md):** Advanced [machine learning](../m/machine_learning.md) models, including [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md), are increasingly used for [forecasting](../f/forecasting.md) oil prices.
 
 ### Algorithmic Trading Systems
 
@@ -114,7 +114,7 @@ Oil markets are highly volatile, and even sophisticated models can struggle to a
 
 ### Overfitting
 
-Models, especially those utilizing machine learning, can become overly complex and tailored to historical data, making them less effective for future predictions.
+Models, especially those utilizing [machine learning](../m/machine_learning.md), can become overly complex and tailored to historical data, making them less effective for future predictions.
 
 ### Regulatory Changes
 

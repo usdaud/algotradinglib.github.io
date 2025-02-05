@@ -94,7 +94,7 @@ In OTC markets, the failure of the [counterparty](../c/counterparty.md) to honor
 
 ### Automated Hedging in Energy Markets
 
-Energy companies, for example, can deploy [algorithmic trading](../a/algorithmic_trading.md) systems to automatically [hedge](../h/hedge.md) their exposure to [crude oil](../c/crude_oil.md) and natural gas prices. These systems use real-time data, [predictive analytics](../p/predictive_analytics.md), and machine learning models to optimize [hedge](../h/hedge.md) ratios and execute orders seamlessly.
+Energy companies, for example, can deploy [algorithmic trading](../a/algorithmic_trading.md) systems to automatically [hedge](../h/hedge.md) their exposure to [crude oil](../c/crude_oil.md) and natural gas prices. These systems use real-time data, [predictive analytics](../p/predictive_analytics.md), and [machine learning](../m/machine_learning.md) models to optimize [hedge](../h/hedge.md) ratios and execute orders seamlessly.
 
 ### Agricultural Commodities
 

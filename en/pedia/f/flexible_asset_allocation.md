@@ -10,7 +10,7 @@ Flexible [Asset Allocation](../a/asset_allocation.md) (FAA) is an advanced [inve
 
 **3. [Risk Management](../r/risk_management.md):** FAA aims not just for returns but also for managing [risk](../r/risk.md) through techniques such as [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and [volatility](../v/volatility.md) targeting. This ensures that the portfolio is not overly exposed to any single [market](../m/market.md) movement.
 
-**4. [Quantitative Models](../q/quantitative_models.md):** The strategy often relies on sophisticated [quantitative models](../q/quantitative_models.md) and algorithms to analyze [market](../m/market.md) data and make timely investment decisions. This can involve machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) for [predictive analytics](../p/predictive_analytics.md).
+**4. [Quantitative Models](../q/quantitative_models.md):** The strategy often relies on sophisticated [quantitative models](../q/quantitative_models.md) and algorithms to analyze [market](../m/market.md) data and make timely investment decisions. This can involve [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) for [predictive analytics](../p/predictive_analytics.md).
 
 **5. Tactical Moves:** FAA can involve tactical shifts, such as increasing the allocation to cash during periods of high [market](../m/market.md) [volatility](../v/volatility.md), or increasing exposure to high-[yield](../y/yield.md) bonds when [interest](../i/interest.md) rates are favorable.
 

@@ -5,16 +5,16 @@ Weak AI, also known as Narrow AI, is a type of [artificial intelligence](../a/ar
 ## Key Characteristics of Weak AI
 
 ### Specificity
-Weak AI is developed to [handle](../h/handle.md) particular tasks, such as speech recognition, language translation, image classification, or playing chess. These AI systems are not designed to understand or perform outside their specialized areas.
+Weak AI is developed to [handle](../h/handle.md) particular tasks, such as [speech recognition](../s/speech_recognition.md), language translation, image classification, or playing chess. These AI systems are not designed to understand or perform outside their specialized areas.
 
 ### Rule-Based and Machine Learning Approaches
-Weak AI can be categorized into rule-based systems and machine learning models. Rule-based systems operate on predefined rules and logical sequences, while machine learning models rely on data to learn patterns and make decisions.
+Weak AI can be categorized into rule-based systems and [machine learning](../m/machine_learning.md) models. Rule-based systems operate on predefined rules and logical sequences, while [machine learning](../m/machine_learning.md) models rely on data to learn patterns and make decisions.
 
 ### Non-Sentient Nature
 Weak AI systems do not possess consciousness, self-awareness, or emotions. They operate purely on algorithms and pre-programmed instructions without any subjective experiences.
 
 ### Dependence on Data
-Machine learning-based Weak AI systems require vast amounts of data for training. They learn from historical data and improve their performance by identifying patterns and correlations within the data.
+[Machine learning](../m/machine_learning.md)-based Weak AI systems require vast amounts of data for training. They learn from historical data and improve their performance by identifying patterns and correlations within the data.
 
 ### Task Performance
 The [operational efficiency](../o/operational_efficiency_in_trading.md) of Weak AI is typically high within its domain. For example, AI models designed for image recognition can [outperform](../o/outperform.md) humans in identifying objects within images.
@@ -31,7 +31,7 @@ In [finance](../f/finance.md), Weak AI is used for [predictive analytics](../p/p
 NLP applications include [sentiment analysis](../s/sentiment_analysis.md), language translation, and chatbots. For instance, [customer service](../c/customer_service.md) chatbots employ NLP to interpret and respond to [customer](../c/customer.md) queries, enhancing user experience and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ### Image and Speech Recognition
-Weak AI powers image and speech recognition technologies. Examples include facial recognition systems used in [security](../s/security.md) applications and automatic speech recognition (ASR) systems employed in transcription services.
+Weak AI powers image and [speech recognition](../s/speech_recognition.md) technologies. Examples include facial recognition systems used in [security](../s/security.md) applications and automatic [speech recognition](../s/speech_recognition.md) (ASR) systems employed in transcription services.
 
 ### Autonomous Vehicles
 While fully autonomous vehicles strive for General AI, current self-driving car technologies are considered Weak AI. They can navigate and make driving decisions within a structured environment but lack the wide-ranging cognitive abilities of a human driver.
@@ -62,7 +62,7 @@ Weak AI applications can be scaled to [handle](../h/handle.md) large volumes of 
 Weak AI's performance is restricted to its training data and domain-specific knowledge. It cannot generalize learning to other contexts or environments beyond its programming.
 
 ### Data Dependency
-The effectiveness of machine learning models in Weak AI depends heavily on the quality and quantity of data. Inaccurate or biased data can lead to erroneous results and decisions.
+The effectiveness of [machine learning](../m/machine_learning.md) models in Weak AI depends heavily on the quality and quantity of data. Inaccurate or biased data can lead to erroneous results and decisions.
 
 ### Ethical and Privacy Concerns
 The use of Weak AI raises concerns about data privacy and [security](../s/security.md). Handling sensitive information, such as personal and financial data, requires stringent safeguards to prevent breaches and misuse.
@@ -81,7 +81,7 @@ Combining Weak AI with the Internet of Things (IoT) creates smarter ecosystems. 
 As Weak AI systems become more intuitive, their integration with human workflows is expected to improve, facilitating better collaboration and decision-making support across various industries.
 
 ### Evolution of AI Models
-Ongoing research and development efforts focus on creating more advanced machine learning models, such as [deep learning](../d/deep_learning.md) and reinforcement learning, to push the boundaries of Weak AI capabilities.
+Ongoing research and development efforts focus on creating more advanced [machine learning](../m/machine_learning.md) models, such as [deep learning](../d/deep_learning.md) and [reinforcement learning](../r/reinforcement_learning.md), to push the boundaries of Weak AI capabilities.
 
 ### Enhanced Personalization
 In the consumer space, Weak AI [will](../w/will.md) increasingly provide personalized experiences tailored to individual preferences, from customized shopping recommendations to adaptive educational content.

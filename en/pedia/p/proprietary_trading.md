@@ -44,7 +44,7 @@ Co-location involves placing trading servers in close proximity to [exchange](..
 
 ### 4. Data Analytics and Machine Learning
 
-Advanced [data analytics](../d/data_analytics.md) and machine learning techniques are used to analyze vast amounts of [market](../m/market.md) data to identify patterns and predict future price movements. These technologies enhance the decision-making capabilities of [proprietary trading systems](../p/proprietary_trading_systems.md).
+Advanced [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) techniques are used to analyze vast amounts of [market](../m/market.md) data to identify patterns and predict future price movements. These technologies enhance the decision-making capabilities of [proprietary trading systems](../p/proprietary_trading_systems.md).
 
 ## Benefits of Proprietary Trading
 

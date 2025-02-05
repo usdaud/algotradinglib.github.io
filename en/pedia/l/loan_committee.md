@@ -100,7 +100,7 @@ Modern [Loan](../l/loan.md) Committees often utilize sophisticated [Loan](../l/l
 
 ### Artificial Intelligence and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) algorithms are increasingly being used to predict borrower behavior, detect [fraud](../f/fraud.md), and improve [risk management](../r/risk_management.md). These technologies provide deeper insights and increase the accuracy of [credit](../c/credit.md) assessments.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) algorithms are increasingly being used to predict borrower behavior, detect [fraud](../f/fraud.md), and improve [risk management](../r/risk_management.md). These technologies provide deeper insights and increase the accuracy of [credit](../c/credit.md) assessments.
 
 ## Case Study: Example of Loan Committee in Action
 

@@ -68,7 +68,7 @@ Understanding the [intrinsic value](../i/intrinsic_value.md) of [holdings](../h/
 [Behavioral finance](../b/behavioral_finance.md) studies the effects of psychological factors on [market](../m/market.md) participants and their impact on [market](../m/market.md) outcomes. Understanding how biases and [heuristics](../h/heuristics.md) can lead to mispricing can enhance [underlying](../u/underlying.md) [value](../v/value.md) analysis.
 
 ### Machine Learning Applications
-The integration of machine learning in [underlying](../u/underlying.md) [value](../v/value.md) analysis is a growing field. Algorithms can identify patterns and relationships within large datasets, [offering](../o/offering.md) more accurate [intrinsic value](../i/intrinsic_value.md) estimations.
+The integration of [machine learning](../m/machine_learning.md) in [underlying](../u/underlying.md) [value](../v/value.md) analysis is a growing field. Algorithms can identify patterns and relationships within large datasets, [offering](../o/offering.md) more accurate [intrinsic value](../i/intrinsic_value.md) estimations.
 
 ### Sentiment Analysis
 [Sentiment analysis](../s/sentiment_analysis.md) involves assessing [market sentiment](../m/market_sentiment.md) through the analysis of news, [social media](../s/social_media.md), and analyst reports. Combining sentiment with fundamental and [technical analysis](../t/technical_analysis.md) can provide a comprehensive view of an [asset](../a/asset.md)’s [underlying](../u/underlying.md) [value](../v/value.md).

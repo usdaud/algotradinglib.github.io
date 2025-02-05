@@ -79,7 +79,7 @@ Brookfield [Asset Management](../a/asset_management.md) exemplifies how a focus 
 
 ## Future Trends
 
-As markets evolve, so do strategies for maintaining and deploying dry powder. Current trends indicate that technological advancements, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, are influencing how firms manage [liquidity](../l/liquidity.md). [Predictive analytics](../p/predictive_analytics.md) can more accurately forecast [market](../m/market.md) conditions, allowing for more strategic deployment of dry powder. Additionally, the rise of environmental, social, and governance (ESG) considerations is shaping how firms allocate their reserves.
+As markets evolve, so do strategies for maintaining and deploying dry powder. Current trends indicate that technological advancements, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), are influencing how firms manage [liquidity](../l/liquidity.md). [Predictive analytics](../p/predictive_analytics.md) can more accurately forecast [market](../m/market.md) conditions, allowing for more strategic deployment of dry powder. Additionally, the rise of environmental, social, and governance (ESG) considerations is shaping how firms allocate their reserves.
 
 ### Technological Advancements
 

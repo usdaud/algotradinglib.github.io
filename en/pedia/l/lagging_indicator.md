@@ -72,7 +72,7 @@ Renaissance Technologies, one of the most successful [quantitative hedge funds](
 
 ### Two Sigma Investments
 
-Two Sigma Investments is another major player in the world of [algorithmic trading](../a/accountability.md). They use advanced data analysis and computational techniques, incorporating [lagging indicators](../l/lagging_indicators.md) to validate [trading signals](../t/trading_signals.md) and manage [risk](../r/risk.md). Their approach combines machine learning with traditional statistical methods, including the use of [lagging indicators](../l/lagging_indicators.md) to refine their strategies.
+Two Sigma Investments is another major player in the world of [algorithmic trading](../a/accountability.md). They use advanced data analysis and computational techniques, incorporating [lagging indicators](../l/lagging_indicators.md) to validate [trading signals](../t/trading_signals.md) and manage [risk](../r/risk.md). Their approach combines [machine learning](../m/machine_learning.md) with traditional statistical methods, including the use of [lagging indicators](../l/lagging_indicators.md) to refine their strategies.
 
 ### Algorithmic Trading Platforms
 

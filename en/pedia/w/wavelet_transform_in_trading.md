@@ -54,7 +54,7 @@ Wavelet transform offers several advantages in analyzing financial data, making 
 
 3. **Feature Extraction**:
    - The decomposed components obtained through wavelet transform can reveal hidden structures and patterns in the data.
-   - These features can be used as inputs for machine learning models, improving the accuracy of predictive [trading algorithms](../t/trading_algorithms.md).
+   - These features can be used as inputs for [machine learning](../m/machine_learning.md) models, improving the accuracy of predictive [trading algorithms](../t/trading_algorithms.md).
 
 4. **[Volatility Analysis](../v/volatility_analysis.md)**:
    - Wavelet transform can be used to analyze the [volatility](../v/volatility.md) of financial instruments.
@@ -94,7 +94,7 @@ Several case studies highlight the practical applications of wavelet transform i
 
 1. **Stock Price Prediction**:
    - Researchers have used wavelet transform to predict stock prices by decomposing historical price data and extracting meaningful features.
-   - Combining these features with machine learning models has shown improved prediction accuracy and [trading performance](../t/trading_performance.md).
+   - Combining these features with [machine learning](../m/machine_learning.md) models has shown improved prediction accuracy and [trading performance](../t/trading_performance.md).
 
 2. **[Algorithmic Trading](../a/algorithmic_trading.md) Strategies**:
    - Wavelet-based algorithms have been developed to identify [trading signals](../t/trading_signals.md) and execute trades automatically.
@@ -115,7 +115,7 @@ Several tools and libraries are available for implementing wavelet transform in 
 1. **Python**:
    - `PyWavelets`: A comprehensive library for wavelet transform in Python, supporting both CWT and DWT.
      - [PyWavelets](https://pywavelets.readthedocs.io/)
-   - `scikit-learn`: A machine learning library that can be combined with wavelet features for developing [predictive models](../p/predictive_models_in_trading.md).
+   - `scikit-learn`: A [machine learning](../m/machine_learning.md) library that can be combined with wavelet features for developing [predictive models](../p/predictive_models_in_trading.md).
      - [scikit-learn](https://scikit-learn.org/)
 
 2. **MATLAB**:

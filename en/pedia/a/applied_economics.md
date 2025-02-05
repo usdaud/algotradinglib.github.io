@@ -63,7 +63,7 @@ Applied economists must address ethical considerations in their work, especially
 ## The Future of Applied Economics
 
 ### Technological Advancements
-Advances in technology, particularly in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, are revolutionizing the field of applied [economics](../e/economics.md). These technologies enable more sophisticated data analysis, better predictions, and more [robust](../r/robust.md) policy evaluations.
+Advances in technology, particularly in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), are revolutionizing the field of applied [economics](../e/economics.md). These technologies enable more sophisticated data analysis, better predictions, and more [robust](../r/robust.md) policy evaluations.
 
 ### Interdisciplinary Approaches
 The future of applied [economics](../e/economics.md) is increasingly interdisciplinary, incorporating insights from fields like psychology, sociology, and political science. This holistic approach allows for more comprehensive analyses of complex economic issues.

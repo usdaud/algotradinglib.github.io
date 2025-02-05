@@ -52,7 +52,7 @@ Kibana is a [data visualization](../d/data_visualization.md) and exploration too
 
 1. **Interactive Dashboards**: Kibana allows users to create interactive dashboards to visualize trading data. These dashboards can be customized to display various metrics, charts, and graphs relevant to [trading strategies](../t/trading_strategies.md).
 
-2. **Advanced Analytics**: Kibana supports advanced analytics, including machine learning and [anomaly detection](../a/anomaly_detection.md), helping traders uncover hidden patterns and anomalies in the data.
+2. **Advanced Analytics**: Kibana supports advanced analytics, including [machine learning](../m/machine_learning.md) and [anomaly detection](../a/anomaly_detection.md), helping traders uncover hidden patterns and anomalies in the data.
 
 3. **Real-Time Monitoring**: Traders can monitor real-time data and set up alerts to be notified of significant changes, enabling prompt response to [market](../m/market.md) events.
 

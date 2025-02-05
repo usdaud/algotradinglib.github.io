@@ -47,7 +47,7 @@ In X-Lagged Models, these elements can be extended to incorporate additional pre
 
 Several [software platforms](../s/software_platforms_for_trading.md) and libraries facilitate the implementation of X-Lagged Models, including:
 
-- **Python Libraries:** Statsmodels, scikit-learn, tensorflow
+- **Python Libraries:** Statsmodels, scikit-learn, [tensorflow](../t/tensorflow.md)
 - **R Packages:** forecast, vars, car
 - **Commercial Software:** MATLAB, SAS
 
@@ -133,7 +133,7 @@ The efficacy of X-Lagged Models heavily depends on the quality and quantity of h
 
 X-Lagged Models play a vital role in [algorithmic trading](../a/algorithmic_trading.md) by leveraging historical data to forecast future trends. Their flexibility and robustness make them a powerful tool for traders. However, careful consideration must be given to model selection, feature engineering, and validation to ensure accurate and reliable predictions.
 
-For further study, you can explore more advanced topics like regime-switching models, machine learning integrations, and high-frequency trading applications. Many financial firms and research institutions are continuously innovating in this area, pushing the boundaries of what's possible in [predictive modeling](../p/predictive_modeling.md) and [trading strategies](../t/trading_strategies.md).
+For further study, you can explore more advanced topics like regime-switching models, [machine learning](../m/machine_learning.md) integrations, and high-frequency trading applications. Many financial firms and research institutions are continuously innovating in this area, pushing the boundaries of what's possible in [predictive modeling](../p/predictive_modeling.md) and [trading strategies](../t/trading_strategies.md).
 
 ## Further Reading and Resources
 

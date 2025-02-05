@@ -61,7 +61,7 @@ Despite their advantages, AMCs face several challenges:
 
 The landscape of [appraisal](../a/appraisal.md) management is continually evolving, with several trends expected to shape the [industry](../i/industry.md)'s future:
 
-- **Increased Automation:** The adoption of AI and machine learning is likely to enhance the accuracy and [efficiency](../e/efficiency.md) of [appraisal](../a/appraisal.md) processes.
+- **Increased Automation:** The adoption of AI and [machine learning](../m/machine_learning.md) is likely to enhance the accuracy and [efficiency](../e/efficiency.md) of [appraisal](../a/appraisal.md) processes.
 - **[Blockchain](../b/blockchain_in_trading.md) Technology:** [Blockchain](../b/blockchain_in_trading.md) could [offer](../o/offer.md) new levels of [transparency](../t/transparency.md) and [security](../s/security.md) in the [real estate](../r/real_estate.md) [transaction](../t/transaction.md) process.
 - **Regulatory Changes:** Ongoing updates to regulatory requirements [will](../w/will.md) continue to impact AMC operations, necessitating agile adaptation strategies.
 - **Enhanced [Data Integration](../d/data_integration.md):** Seamless integration of various data sources [will](../w/will.md) provide more comprehensive property insights and improve [valuation](../v/valuation.md) accuracy.

@@ -129,7 +129,7 @@ APIs like [Alpaca](../a/alpaca.md), [Interactive Brokers](../i/interactive_broke
 
 ### Machine Learning Integrations
 
-Integrating machine learning models can improve the accuracy and profitability of RSI-based strategies. For example, using classifiers to predict RSI behavior or clustering techniques to identify [market](../m/market.md) regimes.
+Integrating [machine learning](../m/machine_learning.md) models can improve the accuracy and profitability of RSI-based strategies. For example, using classifiers to predict RSI behavior or clustering techniques to identify [market](../m/market.md) regimes.
 
 ### Risk Management
 
@@ -141,4 +141,4 @@ Ensuring compliance with trading regulations is crucial for [algorithmic trading
 
 ## Conclusion
 
-The 1-Day RSI is a powerful tool for identifying [short-term trading](../s/short-term_trading.md) opportunities, particularly in the realms of [mean reversion](../m/mean_reversion.md) and [trend following](../t/trend_following.md) strategies. However, its effectiveness is significantly enhanced when used in combination with additional indicators and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. By integrating advanced tools and platforms, and considering innovative techniques such as machine learning, traders can further bolster their strategies' accuracy and profitability.
+The 1-Day RSI is a powerful tool for identifying [short-term trading](../s/short-term_trading.md) opportunities, particularly in the realms of [mean reversion](../m/mean_reversion.md) and [trend following](../t/trend_following.md) strategies. However, its effectiveness is significantly enhanced when used in combination with additional indicators and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. By integrating advanced tools and platforms, and considering innovative techniques such as [machine learning](../m/machine_learning.md), traders can further bolster their strategies' accuracy and profitability.

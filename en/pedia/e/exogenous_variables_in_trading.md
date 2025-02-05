@@ -12,9 +12,9 @@ Exogenous variables essentially lie outside the [scope](../s/scope.md) of a mode
 
 1. **Statistical Methods**: [Time series](../t/time_series.md) models like ARIMAX (Auto-Regressive Integrated Moving Average with Exogenous Inputs) integrate exogenous variables explicitly. These models [offer](../o/offer.md) more accurate forecasts by incorporating external factors.
 
-2. **Machine Learning**: Advanced machine learning techniques can [handle](../h/handle.md) high-dimensional data, making it easier to incorporate [multiple](../m/multiple.md) exogenous variables. Models such as [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, and [Deep Learning](../d/deep_learning.md) frameworks can be equipped to accommodate these external factors.
+2. **[Machine Learning](../m/machine_learning.md)**: Advanced [machine learning](../m/machine_learning.md) techniques can [handle](../h/handle.md) high-dimensional data, making it easier to incorporate [multiple](../m/multiple.md) exogenous variables. Models such as [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, and [Deep Learning](../d/deep_learning.md) frameworks can be equipped to accommodate these external factors.
 
-3. **Hybrid Models**: Some [trading strategies](../t/trading_strategies.md) [leverage](../l/leverage.md) a combination of statistical methods and machine learning to balance robustness and precision. A hybrid approach can enhance model performance by capturing both linear and non-linear effects introduced by exogenous variables.
+3. **Hybrid Models**: Some [trading strategies](../t/trading_strategies.md) [leverage](../l/leverage.md) a combination of statistical methods and [machine learning](../m/machine_learning.md) to balance robustness and precision. A hybrid approach can enhance model performance by capturing both linear and non-linear effects introduced by exogenous variables.
 
 ## Types of Exogenous Variables
 

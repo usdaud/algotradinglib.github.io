@@ -82,7 +82,7 @@ The [NASDAQ](../n/nasdaq.md)-100 includes 100 largest non-financial companies [l
 #### Key Tools:
 - **[Quantitative Models](../q/quantitative_models.md):** Used for predicting price movements based on historical data.
 - **High-Frequency Trading (HFT):** Algorithms execute trades in fractions of a second to [capitalize](../c/capitalize.md) on minimal price changes.
-- **Machine Learning:** Advanced machine learning models analyze complex data sets to determine [trading signals](../t/trading_signals.md).
+- **[Machine Learning](../m/machine_learning.md):** Advanced [machine learning](../m/machine_learning.md) models analyze complex data sets to determine [trading signals](../t/trading_signals.md).
 
 ### FinTech Impact
 

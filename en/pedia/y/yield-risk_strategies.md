@@ -1,6 +1,6 @@
 # Yield-Risk Strategies
 
-[Algorithmic trading](../a/algorithmic_trading.md), commonly known as algo trading, is a method of executing orders using automated pre-programmed trading instructions [accounting](../a/accounting.md) for variables such as time, price, and [volume](../v/volume.md). [Yield](../y/yield.md)-[risk](../r/risk.md) strategies in algo trading focus on optimizing the balance between the returns ([yield](../y/yield.md)) and the potential risks associated with investments. These strategies employ various statistical, econometric, and machine learning models to predict [market](../m/market.md) movements and make informed trading decisions.
+[Algorithmic trading](../a/algorithmic_trading.md), commonly known as algo trading, is a method of executing orders using automated pre-programmed trading instructions [accounting](../a/accounting.md) for variables such as time, price, and [volume](../v/volume.md). [Yield](../y/yield.md)-[risk](../r/risk.md) strategies in algo trading focus on optimizing the balance between the returns ([yield](../y/yield.md)) and the potential risks associated with investments. These strategies employ various statistical, econometric, and [machine learning](../m/machine_learning.md) models to predict [market](../m/market.md) movements and make informed trading decisions.
 
 ## Key Concepts in Yield-Risk Strategies
 
@@ -23,7 +23,7 @@
 - **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulates the performance of a [trading strategy](../t/trading_strategy.md) under extreme [market](../m/market.md) conditions.
 
 ### 5. Machine Learning and AI
-Machine learning models can enhance [yield](../y/yield.md)-[risk](../r/risk.md) strategies by identifying complex patterns and making predictions based on vast datasets. Techniques like reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and unsupervised learning can be applied to develop more effective [trading algorithms](../t/trading_algorithms.md).
+[Machine learning](../m/machine_learning.md) models can enhance [yield](../y/yield.md)-[risk](../r/risk.md) strategies by identifying complex patterns and making predictions based on vast datasets. Techniques like [reinforcement learning](../r/reinforcement_learning.md), [neural networks](../n/neural_networks_in_trading.md), and [unsupervised learning](../u/unsupervised_learning.md) can be applied to develop more effective [trading algorithms](../t/trading_algorithms.md).
 
 ## Implementation of Yield-Risk Strategies
 

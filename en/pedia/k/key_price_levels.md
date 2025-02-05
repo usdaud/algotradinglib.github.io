@@ -31,7 +31,7 @@ Certain [technical indicators](../t/technical_indicators.md) can help identify k
 
 ### Advanced Algorithms
 
-Modern quantitative firms like [Two Sigma](https://www.twosigma.com/) and [Citadel](https://www.citadel.com/) employ machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop advanced algorithms for pinpointing key price levels. These algorithms are capable of learning from vast datasets and can adapt as [market](../m/market.md) conditions change.
+Modern quantitative firms like [Two Sigma](https://www.twosigma.com/) and [Citadel](https://www.citadel.com/) employ [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop advanced algorithms for pinpointing key price levels. These algorithms are capable of learning from vast datasets and can adapt as [market](../m/market.md) conditions change.
 
 ## Utilizing Key Price Levels in Trading Strategies
 

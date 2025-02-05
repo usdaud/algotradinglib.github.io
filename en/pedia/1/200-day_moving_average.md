@@ -76,7 +76,7 @@ Incorporating the 200-DMA with a shorter moving average like the [50-day moving 
 [Backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) with the 200-DMA involves running simulations on historical data to evaluate performance. Traders can optimize their parameters and strategies based on historical performance. Many platforms, such as [QuantConnect](https://www.quantconnect.com/) and [AlgoTrader](https://www.algotrader.com/), [offer](../o/offer.md) [backtesting](../b/backtesting.md) services.
 
 ### Machine Learning Integration
-Integrating machine learning models with the 200-DMA can enhance predictive accuracy. Models like [neural networks](../n/neural_networks_in_trading.md) can process vast amounts of data to identify patterns and generate more reliable [trading signals](../t/trading_signals.md).
+Integrating [machine learning](../m/machine_learning.md) models with the 200-DMA can enhance predictive accuracy. Models like [neural networks](../n/neural_networks_in_trading.md) can process vast amounts of data to identify patterns and generate more reliable [trading signals](../t/trading_signals.md).
 
 ## Tools and Platforms
 

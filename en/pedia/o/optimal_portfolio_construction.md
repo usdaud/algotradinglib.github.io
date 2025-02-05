@@ -50,7 +50,7 @@ This traditional method involves creating portfolios that [offer](../o/offer.md)
 This model integrates [investor](../i/investor.md) views with [market](../m/market.md) [equilibrium](../e/equilibrium.md), [offering](../o/offering.md) a nuanced approach to determining expected returns. It can be particularly useful for institutional investors who wish to incorporate their [market](../m/market.md) insights into the [optimization](../o/optimization.md) process.
 
 ### Genetic Algorithms and Machine Learning
-Advanced techniques, including [genetic algorithms](../g/genetic_algorithms_in_trading.md) and machine learning models, provide innovative solutions for [portfolio optimization](../p/portfolio_optimization.md) by efficiently navigating large solution spaces and capturing complex nonlinear relationships between assets.
+Advanced techniques, including [genetic algorithms](../g/genetic_algorithms_in_trading.md) and [machine learning](../m/machine_learning.md) models, provide innovative solutions for [portfolio optimization](../p/portfolio_optimization.md) by efficiently navigating large solution spaces and capturing complex nonlinear relationships between assets.
 
 ### Heuristic Methods
 Heuristic [optimization](../o/optimization.md) methods, such as [simulated annealing](../s/simulated_annealing.md) and particle swarm [optimization](../o/optimization.md), [offer](../o/offer.md) alternative approaches for solving complex [optimization](../o/optimization.md) problems where traditional methods may fall short.

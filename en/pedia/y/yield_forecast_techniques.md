@@ -1,6 +1,6 @@
 # Yield Forecast Techniques
 
-[Yield forecasting](../y/yield_forecasting.md) is a critical component of agricultural [economics](../e/economics.md), agribusiness, [finance](../f/finance.md), and investment sectors. It involves predicting the amount of output a crop [will](../w/will.md) produce in a forthcoming period based on various factors like climate conditions, soil properties, farming techniques, and [economic indicators](../e/economic_indicators.md). [Yield](../y/yield.md) forecasts can help stakeholders make informed decisions regarding resource allocation, investment, and policy planning. Below, we delve into several techniques used for [yield forecasting](../y/yield_forecasting.md), ranging from traditional statistical models to advanced machine learning methods.
+[Yield forecasting](../y/yield_forecasting.md) is a critical component of agricultural [economics](../e/economics.md), agribusiness, [finance](../f/finance.md), and investment sectors. It involves predicting the amount of output a crop [will](../w/will.md) produce in a forthcoming period based on various factors like climate conditions, soil properties, farming techniques, and [economic indicators](../e/economic_indicators.md). [Yield](../y/yield.md) forecasts can help stakeholders make informed decisions regarding resource allocation, investment, and policy planning. Below, we delve into several techniques used for [yield forecasting](../y/yield_forecasting.md), ranging from traditional statistical models to advanced [machine learning](../m/machine_learning.md) methods.
 
 ## 1. Regression Analysis
 
@@ -97,7 +97,7 @@ Disadvantages:
 - Less interpretable compared to single [decision trees](../d/decision_trees.md).
 
 ### 3.2 Support Vector Machines (SVM)
-SVMs are supervised learning models that classify data by finding the hyperplane that best separates the different classes. While traditionally used for classification, SVMs can also be employed for regression ([Support Vector Regression](../s/support_vector_regression.md)):
+SVMs are [supervised learning](../s/supervised_learning.md) models that classify data by finding the hyperplane that best separates the different classes. While traditionally used for classification, SVMs can also be employed for regression ([Support Vector Regression](../s/support_vector_regression.md)):
 
 Advantages:
 - Effective in high-dimensional spaces.

@@ -48,7 +48,7 @@ While gold is seen as a safe-haven [asset](../a/asset.md), there are risks invol
 1. **[Trend Following](../t/trend_following.md)**: Algorithms identify and [capitalize](../c/capitalize.md) on trends in gold prices. 
 2. **[Arbitrage](../a/arbitrage.md)**: Exploiting price differences between gold markets or instruments.
 3. **[Mean Reversion](../m/mean_reversion.md)**: Algorithms predict that gold prices [will](../w/will.md) revert to a historical mean over time.
-4. **Machine Learning**: Advanced algorithms use machine learning to predict price movements based on historical data and other variables.
+4. **[Machine Learning](../m/machine_learning.md)**: Advanced algorithms use [machine learning](../m/machine_learning.md) to predict price movements based on historical data and other variables.
 
 ### Platforms and Tools
 

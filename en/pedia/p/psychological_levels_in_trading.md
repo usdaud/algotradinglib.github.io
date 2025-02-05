@@ -63,7 +63,7 @@ In Forex trading, round numbers like 1.00 for [currency](../c/currency.md) pairs
 [Gann angles](../g/gann_angles.md), developed by W.D. Gann, also identify potential [support and resistance](../s/support_and_resistance.md) levels that frequently align with psychological levels. Gann's methods involve angles formed by price and time, often intersecting at psychologically significant prices.
 
 ### Machine Learning Algorithms
-Using machine learning to identify psychological levels involves training algorithms on historical price data to learn patterns and predict future psychological levels. Companies like [Kensho](https://www.sncwgs.com), a subsidiary of S&P Global, provide AI-driven analytics to institutional investors for this purpose.
+Using [machine learning](../m/machine_learning.md) to identify psychological levels involves training algorithms on historical price data to learn patterns and predict future psychological levels. Companies like [Kensho](https://www.sncwgs.com), a subsidiary of S&P Global, provide AI-driven analytics to institutional investors for this purpose.
 
 **Importance in [Algorithmic Trading](../a/algorithmic_trading.md)**
 -------------------------------------

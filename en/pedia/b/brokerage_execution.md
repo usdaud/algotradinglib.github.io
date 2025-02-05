@@ -20,7 +20,7 @@ Brokerage [execution](../e/execution.md) is a critical component of [algorithmic
 
 ### 3. Smart Order Routing (SOR)
 
-Smart [Order Routing](../o/order_routing.md) enhances basic [order routing](../o/order_routing.md) by dynamically seeking the best possible [execution](../e/execution.md) opportunities in real-time. It leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to adapt to changing [market](../m/market.md) conditions and optimize [execution](../e/execution.md).
+Smart [Order Routing](../o/order_routing.md) enhances basic [order routing](../o/order_routing.md) by dynamically seeking the best possible [execution](../e/execution.md) opportunities in real-time. It leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to adapt to changing [market](../m/market.md) conditions and optimize [execution](../e/execution.md).
 
 ### 4. Direct Market Access (DMA)
 

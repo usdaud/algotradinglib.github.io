@@ -34,7 +34,7 @@ Long-tail [liability](../l/liability.md) is a concept in [insurance](../i/insura
 [Predictive modeling](../p/predictive_modeling.md) uses statistical techniques to anticipate and understand future long-tail liabilities. This involves:
 - **Data Gathering**: Collecting historical data on past claims and relevant [risk factors](../r/risk_factors_in_trading.md).
 - **Statistical Analysis**: Employing advanced statistical tools to identify patterns and predict future occurrences.
-- **Machine Learning**: Implementing [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to refine predictions and improve accuracy.
+- **[Machine Learning](../m/machine_learning.md)**: Implementing [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to refine predictions and improve accuracy.
   
 ### Actuarial Science
 [Actuarial science](../a/actuarial_science.md) plays a fundamental role in managing long-tail liabilities through:
@@ -60,7 +60,7 @@ Several [insurance](../i/insurance.md) companies are renowned for their strategi
 
 ## Current and Emerging Trends
 ### Technological Advancements
-- **AI and Machine Learning**: Enhanced prediction and management of long-tail liabilities through advanced technologies.
+- **AI and [Machine Learning](../m/machine_learning.md)**: Enhanced prediction and management of long-tail liabilities through advanced technologies.
 - **[Blockchain](../b/blockchain_in_trading.md)**: Leveraging [blockchain](../b/blockchain_in_trading.md) to improve [transparency](../t/transparency.md) and traceability in handling long-term claims.
 
 ### Regulatory Changes

@@ -16,7 +16,7 @@
 
 ### Technological Advancements
 
-1. **Machine Learning and AI**: Algorithms leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) can adapt to changing [market](../m/market.md) conditions by learning from historical data. These models can identify complex patterns that may not be evident through traditional statistical techniques.
+1. **[Machine Learning](../m/machine_learning.md) and AI**: Algorithms leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) can adapt to changing [market](../m/market.md) conditions by learning from historical data. These models can identify complex patterns that may not be evident through traditional statistical techniques.
 
 2. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: The availability of large datasets and advancements in [data analytics](../d/data_analytics.md) allow for the processing and analysis of vast amounts of information. This data can include everything from [market](../m/market.md) prices to [social media sentiment](../s/social_media_sentiment.md).
 
@@ -46,7 +46,7 @@ High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_tra
 
 ### Trend Following
 
-[Trend](../t/trend.md)-following algorithms buy or sell securities based on the direction of price trends. These strategies can be simple, such as [moving average crossovers](../m/moving_average_crossovers.md), or more complex, incorporating machine learning models to predict future price movements.
+[Trend](../t/trend.md)-following algorithms buy or sell securities based on the direction of price trends. These strategies can be simple, such as [moving average crossovers](../m/moving_average_crossovers.md), or more complex, incorporating [machine learning](../m/machine_learning.md) models to predict future price movements.
 
 ### Mean Reversion
 
@@ -124,7 +124,7 @@ The future of [algorithmic trading](../a/algorithmic_trading.md) [will](../w/wil
 
 ### AI and Machine Learning
 
-Future algorithms may incorporate more advanced AI techniques, such as [deep learning](../d/deep_learning.md) and reinforcement learning, to [handle](../h/handle.md) increasingly complex [market](../m/market.md) environments. These models can adapt to new data and evolving [market](../m/market.md) conditions faster than traditional algorithms.
+Future algorithms may incorporate more advanced AI techniques, such as [deep learning](../d/deep_learning.md) and [reinforcement learning](../r/reinforcement_learning.md), to [handle](../h/handle.md) increasingly complex [market](../m/market.md) environments. These models can adapt to new data and evolving [market](../m/market.md) conditions faster than traditional algorithms.
 
 ### Quantum Computing
 

@@ -28,7 +28,7 @@ X-[Order Routing](../o/order_routing.md) employs smart [order routing](../o/orde
 
 ### 5. Adaptive Learning
 
-Modern X-[Order Routing](../o/order_routing.md) systems utilize machine learning models that adapt based on historical [trade](../t/trade.md) data and real-time [market](../m/market.md) feedback. This adaptive learning capability allows the system to evolve and refine its routing decisions continually, ensuring they remain effective even as [market](../m/market.md) conditions change.
+Modern X-[Order Routing](../o/order_routing.md) systems utilize [machine learning](../m/machine_learning.md) models that adapt based on historical [trade](../t/trade.md) data and real-time [market](../m/market.md) feedback. This adaptive learning capability allows the system to evolve and refine its routing decisions continually, ensuring they remain effective even as [market](../m/market.md) conditions change.
 
 ## Benefits of X-Order Routing
 

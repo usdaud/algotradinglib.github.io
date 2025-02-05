@@ -44,7 +44,7 @@ Developing algorithms to detect and [trade](../t/trade.md) [wedge](../w/wedge.md
 High-quality price and [volume](../v/volume.md) data must be collected and preprocessed to eliminate [noise](../n/noise.md) and ensure accuracy.
 
 ### Pattern Recognition Algorithms
-Machine learning techniques, such as supervised learning, can be employed to train algorithms to recognize [wedge](../w/wedge.md) patterns. Historical data can be used to develop and refine these models.
+[Machine learning](../m/machine_learning.md) techniques, such as [supervised learning](../s/supervised_learning.md), can be employed to train algorithms to recognize [wedge](../w/wedge.md) patterns. Historical data can be used to develop and refine these models.
 
 ### Backtesting and Optimization
 Algorithms must be rigorously backtested using historical data to evaluate their performance and optimize their parameters. This process involves simulating trades based on past data to identify potential improvements.

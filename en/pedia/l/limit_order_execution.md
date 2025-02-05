@@ -56,7 +56,7 @@ These strategies use [quantitative models](../q/quantitative_models.md) to ident
 
 1. **Hidden and Iceberg Orders**: Some exchanges [offer](../o/offer.md) orders that hide part of the [order](../o/order.md) size. Iceberg orders only display a small portion of the total [order](../o/order.md), thus reducing [market](../m/market.md) impact.
 2. **Dynamic Limit Pricing**: Algorithms can dynamically adjust the limit price based on [real-time market data](../r/real-time_market_data.md) and signals, thus maximizing [execution](../e/execution.md) probability while controlling for price.
-3. **Machine Learning**: Advanced algorithms [leverage](../l/leverage.md) machine learning to predict price movements and adjust limit orders accordingly to optimize [execution](../e/execution.md).
+3. **[Machine Learning](../m/machine_learning.md)**: Advanced algorithms [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) to predict price movements and adjust limit orders accordingly to optimize [execution](../e/execution.md).
 
 ### Best Practices for Efficient Limit Order Execution
 

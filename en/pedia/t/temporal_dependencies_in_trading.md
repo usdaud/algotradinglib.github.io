@@ -1,6 +1,6 @@
 # Temporal Dependencies
 
-Temporal dependencies in trading refer to the relationships and patterns that exist between financial data points over time. These dependencies are critical for developing [predictive models](../p/predictive_models_in_trading.md) and algorithms in [algorithmic trading](../a/algorithmic_trading.md) (algo-trading). Understanding, identifying, and leveraging these temporal dependencies can significantly enhance the accuracy and effectiveness of [trading strategies](../t/trading_strategies.md). This document provides an exhaustive exploration of temporal dependencies in trading, covering various aspects including statistical models, machine learning techniques, and practical applications in the [finance](../f/finance.md) sector.
+Temporal dependencies in trading refer to the relationships and patterns that exist between financial data points over time. These dependencies are critical for developing [predictive models](../p/predictive_models_in_trading.md) and algorithms in [algorithmic trading](../a/algorithmic_trading.md) (algo-trading). Understanding, identifying, and leveraging these temporal dependencies can significantly enhance the accuracy and effectiveness of [trading strategies](../t/trading_strategies.md). This document provides an exhaustive exploration of temporal dependencies in trading, covering various aspects including statistical models, [machine learning](../m/machine_learning.md) techniques, and practical applications in the [finance](../f/finance.md) sector.
 
 ## Introduction to Temporal Dependencies
 
@@ -61,10 +61,10 @@ HMMs are statistical models where the system being modeled is assumed to follow 
 ## Machine Learning Approaches
 
 ### Supervised Learning
-Supervised learning techniques, including SVMs and [decision trees](../d/decision_trees.md), can be employed to predict future values of a [time series](../t/time_series.md) based on labeled historical data.
+[Supervised learning](../s/supervised_learning.md) techniques, including SVMs and [decision trees](../d/decision_trees.md), can be employed to predict future values of a [time series](../t/time_series.md) based on labeled historical data.
 
 ### Unsupervised Learning
-Unsupervised learning methods such as clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) can be utilized to detect hidden patterns and structures within the data.
+[Unsupervised learning](../u/unsupervised_learning.md) methods such as clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) can be utilized to detect hidden patterns and structures within the data.
 
 ### Reinforcement Learning
 Reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) can adapt to new data points over time and are particularly useful in developing self-learning [trading systems](../t/trading_systems.md).
@@ -93,7 +93,7 @@ Advanced models like LSTM networks and reinforcement [learning algorithms](../l/
 
 ## Conclusion
 
-Temporal dependencies are a cornerstone of [predictive modeling](../p/predictive_modeling.md) in [algorithmic trading](../a/algorithmic_trading.md). From traditional statistical techniques to cutting-edge machine learning approaches, the identification and utilization of these dependencies can greatly enhance [trading strategies](../t/trading_strategies.md)' performance and robustness. Understanding the different types of temporal dependencies, the techniques to identify them, and their applications can provide traders and analysts with powerful tools to navigate the complexities of [financial markets](../f/financial_market.md).
+Temporal dependencies are a cornerstone of [predictive modeling](../p/predictive_modeling.md) in [algorithmic trading](../a/algorithmic_trading.md). From traditional statistical techniques to cutting-edge [machine learning](../m/machine_learning.md) approaches, the identification and utilization of these dependencies can greatly enhance [trading strategies](../t/trading_strategies.md)' performance and robustness. Understanding the different types of temporal dependencies, the techniques to identify them, and their applications can provide traders and analysts with powerful tools to navigate the complexities of [financial markets](../f/financial_market.md).
 
 ## Additional Resources
 

@@ -82,7 +82,7 @@ The [Bloomberg](../b/bloomberg.md) API allows for seamless integration of the Te
 
 ### Machine Learning and AI
 
-With the increasing importance of machine learning and AI in trading, [Bloomberg](../b/bloomberg.md) has integrated various tools to support these technologies. Users can [leverage](../l/leverage.md) [Bloomberg](../b/bloomberg.md)’s data to train machine learning models, which can be used to develop more sophisticated and predictive [trading algorithms](../t/trading_algorithms.md).
+With the increasing importance of [machine learning](../m/machine_learning.md) and AI in trading, [Bloomberg](../b/bloomberg.md) has integrated various tools to support these technologies. Users can [leverage](../l/leverage.md) [Bloomberg](../b/bloomberg.md)’s data to train [machine learning](../m/machine_learning.md) models, which can be used to develop more sophisticated and predictive [trading algorithms](../t/trading_algorithms.md).
 
 ## Conclusion
 

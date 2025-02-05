@@ -32,7 +32,7 @@ In essence, spread trading attempts to [profit](../p/profit.md) from the relativ
 
 Algorithmic traders use various [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify and exploit potential spread opportunities. The algorithm must continuously monitor [market](../m/market.md) conditions, correlations, and price movements to identify potential trades. 
 
-For example, statistical [arbitrage](../a/arbitrage.md) models often underpin [pairs trading](../p/pairs_trading.md) strategies, using historical price data to identify mean-reverting pairs. Machine learning techniques can also be employed to enhance the effectiveness of such strategies.
+For example, statistical [arbitrage](../a/arbitrage.md) models often underpin [pairs trading](../p/pairs_trading.md) strategies, using historical price data to identify mean-reverting pairs. [Machine learning](../m/machine_learning.md) techniques can also be employed to enhance the effectiveness of such strategies.
 
 ### Real-World Applications and Companies
 

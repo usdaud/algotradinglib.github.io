@@ -58,7 +58,7 @@ T [Distribution](../d/distribution.md) can also be instrumental in calculating d
 ### Trading Firms
 Several trading firms incorporate complex statistical models, including the T [Distribution](../d/distribution.md), into their [algorithmic trading platforms](../a/algorithmic_trading_platforms.md). For example:
 
-- **Two Sigma Investments**: Known for leveraging machine learning, [big data analytics](../b/big_data_analytics_in_trading.md), and advanced statistical models.
+- **Two Sigma Investments**: Known for leveraging [machine learning](../m/machine_learning.md), [big data analytics](../b/big_data_analytics_in_trading.md), and advanced statistical models.
   Website: [Two Sigma Investments](https://www.twosigma.com/)
 
 - **Renaissance Technologies**: Another leading [firm](../f/firm.md) that utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for trading.

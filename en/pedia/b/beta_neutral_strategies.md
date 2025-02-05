@@ -71,7 +71,7 @@ Visit: [AQR Capital Management](https://www.aqr.com/)
 
 ### Two Sigma Investments
 
-Two Sigma Investments utilizes machine learning, distributed computing, and other advanced technologies to implement [beta](../b/beta.md)-[neutral](../n/neutral.md), [market](../m/market.md)-[neutral](../n/neutral.md) strategies. They focus on statistical [arbitrage](../a/arbitrage.md) among other [quantitative strategies](../q/quantitative_strategies_in_trading.md).
+Two Sigma Investments utilizes [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies to implement [beta](../b/beta.md)-[neutral](../n/neutral.md), [market](../m/market.md)-[neutral](../n/neutral.md) strategies. They focus on statistical [arbitrage](../a/arbitrage.md) among other [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 Visit: [Two Sigma Investments](https://www.twosigma.com/)
 
 ### Renaissance Technologies

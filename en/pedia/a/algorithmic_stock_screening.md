@@ -37,7 +37,7 @@ Stock screening is a process where investors use a set of criteria to find [stoc
 **Building the algorithm** is perhaps the most crucial part of the process. This step involves:
 
 - **Defining Criteria**: Establishing what financial, technical, or other criteria a stock must meet. These criteria can be user-defined or based on established models.
-- **[Algorithm Design](../a/algorithm_design.md)**: Creating the logic that [will](../w/will.md) apply the criteria to the stock data to filter out relevant [stocks](../s/stock.md). This can be based on simple logic rules or more complex machine learning models.
+- **[Algorithm Design](../a/algorithm_design.md)**: Creating the logic that [will](../w/will.md) apply the criteria to the stock data to filter out relevant [stocks](../s/stock.md). This can be based on simple logic rules or more complex [machine learning](../m/machine_learning.md) models.
 
 ### 5. **Backtesting**
 
@@ -64,15 +64,15 @@ Stock screening is a process where investors use a set of criteria to find [stoc
 
 ### **Machine Learning-Based Screening**
 
-**Machine learning-based screening** algorithms use advanced statistical models to identify patterns and make predictions about [stocks](../s/stock.md).
+**[Machine learning](../m/machine_learning.md)-based screening** algorithms use advanced statistical models to identify patterns and make predictions about [stocks](../s/stock.md).
 
 - **Example**: Using a random forest classifier to predict stock price movements based on various input features like [technical indicators](../t/technical_indicators.md) and financial metrics.
 
 ### **Hybrid Approaches**
 
-Some screening algorithms combine **rule-based** and **machine learning** techniques to [leverage](../l/leverage.md) the benefits of both approaches.
+Some screening algorithms combine **rule-based** and **[machine learning](../m/machine_learning.md)** techniques to [leverage](../l/leverage.md) the benefits of both approaches.
 
-- **Example**: A hybrid algorithm might first use rule-based screening to narrow down the universe of [stocks](../s/stock.md) and then apply a machine learning model to rank the best [options](../o/options.md).
+- **Example**: A hybrid algorithm might first use rule-based screening to narrow down the universe of [stocks](../s/stock.md) and then apply a [machine learning](../m/machine_learning.md) model to rank the best [options](../o/options.md).
 
 ## Tools and Platforms for Algorithmic Stock Screening
 
@@ -153,11 +153,11 @@ Designing an algorithm that performs exceptionally well on historical data but f
 
 ### **Computational Requirements**
 
-Sophisticated algorithms, particularly those involving machine learning, can require substantial computational power for both training and [execution](../e/execution.md). Access to high-performance computing resources can be a limiting [factor](../f/factor.md).
+Sophisticated algorithms, particularly those involving [machine learning](../m/machine_learning.md), can require substantial computational power for both training and [execution](../e/execution.md). Access to high-performance computing resources can be a limiting [factor](../f/factor.md).
 
 ## Future of Algorithmic Stock Screening
 
-The future of algorithmic stock screening [will](../w/will.md) likely be shaped by advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), particularly in machine learning and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md). These technologies [will](../w/will.md) enable more sophisticated analyses and predictions, making it possible to incorporate a broader [range](../r/range.md) of data sources and more complex criteria.
+The future of algorithmic stock screening [will](../w/will.md) likely be shaped by advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), particularly in [machine learning](../m/machine_learning.md) and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md). These technologies [will](../w/will.md) enable more sophisticated analyses and predictions, making it possible to incorporate a broader [range](../r/range.md) of data sources and more complex criteria.
 
 ### **AI and Machine Learning**
 

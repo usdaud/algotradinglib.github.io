@@ -21,7 +21,7 @@ Public cloud services, provided by third-party vendors, [offer](../o/offer.md) f
 
 1. **[Scalability](../s/scalability.md)**: Easily scale resources up or down based on trading [volume](../v/volume.md) and [market](../m/market.md) conditions.
 2. **Cost [Efficiency](../e/efficiency.md)**: Pay-as-you-go pricing models help manage IT expenses effectively.
-3. **Innovation**: Access to cutting-edge technologies such as machine learning and [big data analytics](../b/big_data_analytics_in_trading.md).
+3. **Innovation**: Access to cutting-edge technologies such as [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md).
 
 ### Integration Layer
 
@@ -42,7 +42,7 @@ Integrated [risk management](../r/risk_management.md) systems can run simulation
 
 ### Data Analytics and Machine Learning
 
-[Algorithmic trading](../a/algorithmic_trading.md) heavily relies on [data analytics](../d/data_analytics.md) to devise and optimize [trading strategies](../t/trading_strategies.md). Hybrid cloud systems empower trading firms to harness the computational power of public clouds for [big data](../b/big_data_in_trading.md) processing and machine learning, while protecting [proprietary algorithms](../p/proprietary_algorithms.md) and sensitive data in private clouds.
+[Algorithmic trading](../a/algorithmic_trading.md) heavily relies on [data analytics](../d/data_analytics.md) to devise and optimize [trading strategies](../t/trading_strategies.md). Hybrid cloud systems empower trading firms to harness the computational power of public clouds for [big data](../b/big_data_in_trading.md) processing and [machine learning](../m/machine_learning.md), while protecting [proprietary algorithms](../p/proprietary_algorithms.md) and sensitive data in private clouds.
 
 ## Examples of Hybrid Cloud Solutions in Financial Services
 

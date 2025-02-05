@@ -30,7 +30,7 @@
 
 ### Machine Learning and AI
 
-Machine learning and AI play crucial roles in [upside](../u/upside.md) [risk management](../r/risk_management.md). By training algorithms on vast datasets, machine learning models can identify patterns and relationships not immediately apparent to human traders. These insights help optimize [trading strategies](../t/trading_strategies.md) for higher returns.
+[Machine learning](../m/machine_learning.md) and AI play crucial roles in [upside](../u/upside.md) [risk management](../r/risk_management.md). By training algorithms on vast datasets, [machine learning](../m/machine_learning.md) models can identify patterns and relationships not immediately apparent to human traders. These insights help optimize [trading strategies](../t/trading_strategies.md) for higher returns.
 
 #### Neural Networks
 
@@ -42,7 +42,7 @@ Machine learning and AI play crucial roles in [upside](../u/upside.md) [risk man
 
 ### Reinforcement Learning
 
-Reinforcement learning is another approach, where an algorithm learns to make a sequence of trading decisions by optimizing a reward function. This reward function usually balances the [trade](../t/trade.md)-off between [risk](../r/risk.md) and [return](../r/return.md), thus aiding in effective [upside](../u/upside.md) [risk management](../r/risk_management.md).
+[Reinforcement learning](../r/reinforcement_learning.md) is another approach, where an algorithm learns to make a sequence of trading decisions by optimizing a reward function. This reward function usually balances the [trade](../t/trade.md)-off between [risk](../r/risk.md) and [return](../r/return.md), thus aiding in effective [upside](../u/upside.md) [risk management](../r/risk_management.md).
 
 ## Practical Applications and Tools
 
@@ -51,7 +51,7 @@ Reinforcement learning is another approach, where an algorithm learns to make a 
 Several trading platforms [offer](../o/offer.md) built-in tools and frameworks for [upside](../u/upside.md) [risk management](../r/risk_management.md):
 
 - **[QuantConnect](../q/quantconnect.md)** ([link](https://www.quantconnect.com/)): Provides an [open](../o/open.md)-source, cloud-based platform that supports [algorithmic trading](../a/algorithmic_trading.md) with a [robust](../r/robust.md) [backtesting](../b/backtesting.md) environment to optimize [return](../r/return.md) strategies.
-- **Kensho Technologies** ([link](https://www.kensho.com/)): Specializes in leveraging machine learning and [data analytics](../d/data_analytics.md) to provide actionable trading insights and maximize [upside](../u/upside.md) opportunities.
+- **Kensho Technologies** ([link](https://www.kensho.com/)): Specializes in leveraging [machine learning](../m/machine_learning.md) and [data analytics](../d/data_analytics.md) to provide actionable trading insights and maximize [upside](../u/upside.md) opportunities.
 - **[Alpaca](../a/alpaca.md)** ([link](https://alpaca.markets/)): Offers [commission](../c/commission.md)-free trading APIs with a focus on [algorithmic trading](../a/algorithmic_trading.md) and includes tools for strategy [optimization](../o/optimization.md) and [performance analytics](../p/performance_analytics.md).
 
 ### Backtesting Frameworks
@@ -78,5 +78,5 @@ Bridgewater Associates employs a systematic approach to trading, using advanced 
 ## Further Reading
 
 - **"[Algorithmic Trading](../a/algorithmic_trading.md) and DMA: An introduction to Direct Access [Trading Strategies](../t/trading_strategies.md)" by Barry Johnson**: This book delves into the intricacies of [algorithmic trading](../a/algorithmic_trading.md) and provides insights into various aspects of [risk management](../r/risk_management.md).
-- **"Advances in Financial Machine Learning" by Marcos López de Prado**: This text provides a comprehensive look at the intersection of machine learning and [finance](../f/finance.md), including applications in [upside](../u/upside.md) [risk management](../r/risk_management.md).
+- **"Advances in Financial [Machine Learning](../m/machine_learning.md)" by Marcos López de Prado**: This text provides a comprehensive look at the intersection of [machine learning](../m/machine_learning.md) and [finance](../f/finance.md), including applications in [upside](../u/upside.md) [risk management](../r/risk_management.md).
 

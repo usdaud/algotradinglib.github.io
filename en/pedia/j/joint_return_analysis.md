@@ -43,7 +43,7 @@ where \( \phi \) is the [cumulative distribution function](../c/cumulative_distr
 
 ### Machine Learning and Neural Networks
 
-With the advent of machine learning, more advanced techniques such as [neural networks](../n/neural_networks_in_trading.md) have been employed to model complex dependencies between [asset](../a/asset.md) returns. 
+With the advent of [machine learning](../m/machine_learning.md), more advanced techniques such as [neural networks](../n/neural_networks_in_trading.md) have been employed to model complex dependencies between [asset](../a/asset.md) returns. 
 
 #### LSTM Networks
 Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN), are particularly effective in capturing [temporal dependencies](../t/temporal_dependencies_in_trading.md) and have been used for predicting [joint](../j/joint.md) returns.
@@ -96,4 +96,4 @@ Quantitative funds, or "quant funds," heavily rely on [joint return](../j/joint_
 
 ## Conclusion
 
-[Joint Return](../j/joint_return.md) Analysis is an indispensable tool in the arsenal of an algorithmic [trader](../t/trader.md). By leveraging techniques ranging from basic statistical measures like [covariance](../c/covariance.md) and [correlation](../c/correlation.md) to advanced methodologies like PCA, copulas, and machine learning, traders can [gain](../g/gain.md) a profound understanding of how assets interact. This knowledge is vital for constructing [robust](../r/robust.md) portfolios, managing [risk](../r/risk.md), and optimizing [trading strategies](../t/trading_strategies.md), thereby enhancing the decision-making process in the complex world of [algorithmic trading](../a/algorithmic_trading.md).
+[Joint Return](../j/joint_return.md) Analysis is an indispensable tool in the arsenal of an algorithmic [trader](../t/trader.md). By leveraging techniques ranging from basic statistical measures like [covariance](../c/covariance.md) and [correlation](../c/correlation.md) to advanced methodologies like PCA, copulas, and [machine learning](../m/machine_learning.md), traders can [gain](../g/gain.md) a profound understanding of how assets interact. This knowledge is vital for constructing [robust](../r/robust.md) portfolios, managing [risk](../r/risk.md), and optimizing [trading strategies](../t/trading_strategies.md), thereby enhancing the decision-making process in the complex world of [algorithmic trading](../a/algorithmic_trading.md).

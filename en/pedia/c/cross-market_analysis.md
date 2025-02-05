@@ -26,9 +26,9 @@ Cross-[market](../m/market.md) analysis in [algorithmic trading](../a/algorithmi
 
 ### Algorithmic Techniques
 
-1. **Machine Learning**
-   - Supervised Learning (e.g., Regression, Classification)
-   - Unsupervised Learning (e.g., Clustering, [Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md))
+1. **[Machine Learning](../m/machine_learning.md)**
+   - [Supervised Learning](../s/supervised_learning.md) (e.g., Regression, Classification)
+   - [Unsupervised Learning](../u/unsupervised_learning.md) (e.g., Clustering, [Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md))
    - [Deep Learning](../d/deep_learning.md) (e.g., [Neural Networks](../n/neural_networks_in_trading.md))
 
 2. **Time-Series Analysis**
@@ -57,7 +57,7 @@ Cross-[market](../m/market.md) analysis in [algorithmic trading](../a/algorithmi
 
 ### Software
 
-1. **Python and R**: Widely used for data analysis, statistical modeling, and machine learning.
+1. **Python and R**: Widely used for data analysis, statistical modeling, and [machine learning](../m/machine_learning.md).
 2. **MatLab**: Employed for complex mathematical modeling and algorithm development.
 3. **Specialized Trading Platforms**: [Interactive Brokers](../i/interactive_brokers.md) (IBKR), [QuantConnect](https://www.quantconnect.com/), and [Quantopian](https://www.quantopian.com/).
 

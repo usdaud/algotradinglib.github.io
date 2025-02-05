@@ -93,7 +93,7 @@ Involves approximating the [value](../v/value.md) function when exact solutions 
 
 ### Machine Learning Approaches
 
-Reinforcement learning (RL) is increasingly used to solve stochastic control problems by learning optimal policies through trial and error.
+[Reinforcement learning](../r/reinforcement_learning.md) (RL) is increasingly used to solve stochastic control problems by learning optimal policies through trial and error.
 
 **Deep Q-Networks (DQN)**: Combines Q-learning with deep [neural networks](../n/neural_networks_in_trading.md) to [handle](../h/handle.md) high-dimensional state spaces.
 

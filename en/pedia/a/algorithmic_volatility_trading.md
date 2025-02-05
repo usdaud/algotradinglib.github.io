@@ -24,18 +24,18 @@ Algorithmic [Volatility](../v/volatility.md) Trading involves using algorithms t
 
 ### Statistical Techniques and Machine Learning
 
-Algorithmic [volatility](../v/volatility.md) trading heavily relies on statistical techniques and machine learning. These methodologies analyze historical data to identify patterns, predict future price movements, and implement [trading strategies](../t/trading_strategies.md).
+Algorithmic [volatility](../v/volatility.md) trading heavily relies on statistical techniques and [machine learning](../m/machine_learning.md). These methodologies analyze historical data to identify patterns, predict future price movements, and implement [trading strategies](../t/trading_strategies.md).
 
 - **[Mean Reversion](../m/mean_reversion.md):**
     This technique is based on the assumption that [asset](../a/asset.md) prices [will](../w/will.md) revert to their historical average over time. Algorithms [capitalize](../c/capitalize.md) by buying [undervalued](../u/undervalued.md) assets and selling [overvalued](../o/overvalued.md) ones.
 
-- **Machine Learning Models:**
-    Advanced machine learning models, including classification, regression, and clustering, help to analyze complex datasets. Supervised and unsupervised learning methods are used to increase prediction accuracy.
+- **[Machine Learning](../m/machine_learning.md) Models:**
+    Advanced [machine learning](../m/machine_learning.md) models, including classification, regression, and clustering, help to analyze complex datasets. Supervised and [unsupervised learning](../u/unsupervised_learning.md) methods are used to increase prediction accuracy.
 
     - **[Neural Networks](../n/neural_networks_in_trading.md):**
         [Deep learning](../d/deep_learning.md) techniques such as Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) and Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) are employed to predict [market](../m/market.md) [volatility](../v/volatility.md).
 
-    - **Reinforcement Learning:**
+    - **[Reinforcement Learning](../r/reinforcement_learning.md):**
         Involves training models to make sequence decisions, effectively optimizing [trading strategies](../t/trading_strategies.md) to maximize cumulative returns.
 
 ### Tools and Platforms

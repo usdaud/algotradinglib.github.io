@@ -58,7 +58,7 @@ Where:
 
 ### Algo Trading
 
-In [algorithmic trading](../a/accountability.md), [risk](../r/risk.md) aversion parameters can be integrated into [trading algorithms](../t/trading_algorithms.md) to ensure that the strategies align with the [investor](../i/investor.md)'s [risk](../r/risk.md) preferences. Algorithms can be designed to dynamically adjust positions based on the real-time [risk](../r/risk.md) assessment of the [market](../m/market.md). Utilizing machine learning, these algorithms can adapt and optimize [trading strategies](../t/trading_strategies.md) according to changing [market](../m/market.md) conditions and [risk factors](../r/risk_factors_in_trading.md).
+In [algorithmic trading](../a/accountability.md), [risk](../r/risk.md) aversion parameters can be integrated into [trading algorithms](../t/trading_algorithms.md) to ensure that the strategies align with the [investor](../i/investor.md)'s [risk](../r/risk.md) preferences. Algorithms can be designed to dynamically adjust positions based on the real-time [risk](../r/risk.md) assessment of the [market](../m/market.md). Utilizing [machine learning](../m/machine_learning.md), these algorithms can adapt and optimize [trading strategies](../t/trading_strategies.md) according to changing [market](../m/market.md) conditions and [risk factors](../r/risk_factors_in_trading.md).
 
 ### Financial Instruments and Products
 

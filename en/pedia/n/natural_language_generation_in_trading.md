@@ -31,7 +31,7 @@ Rule-based systems rely on a set of predefined rules and linguistic patterns to 
 Statistical methods use probabilistic models to determine the most likely text based on the input data. These methods can [handle](../h/handle.md) [variability](../v/variability.md) better than template-based and rule-based systems but may require large datasets to train the models effectively.
 
 ### 4. Neural Networks and Deep Learning
-The advent of [deep learning](../d/deep_learning.md) and [neural networks](../n/neural_networks_in_trading.md) has revolutionized NLG. Models such as GPT-3 (Generative Pre-trained Transformer 3) and BERT (Bidirectional Encoder Representations from Transformers) [leverage](../l/leverage.md) vast datasets and complex architectures to produce human-like text. These models are capable of generating highly coherent and contextually relevant text, making them ideal for dynamic and nuanced applications in trading.
+The advent of [deep learning](../d/deep_learning.md) and [neural networks](../n/neural_networks_in_trading.md) has revolutionized NLG. Models such as GPT-3 (Generative Pre-trained Transformer 3) and BERT (Bidirectional Encoder Representations from [Transformers](../t/transformers.md)) [leverage](../l/leverage.md) vast datasets and complex architectures to produce human-like text. These models are capable of generating highly coherent and contextually relevant text, making them ideal for dynamic and nuanced applications in trading.
 
 ## Challenges in NLG for Trading
 
@@ -78,7 +78,7 @@ Future NLG systems [will](../w/will.md) [offer](../o/offer.md) more refined and 
 The integration of NLG with voice assistants could provide traders with voice-activated [market](../m/market.md) updates and insights, enhancing accessibility and real-time responsiveness.
 
 ### 3. Advanced Multi-modal Systems
-Combining NLG with other AI technologies such as computer vision and augmented reality could provide traders with richer, more interactive ways to interpret and act on financial data.
+Combining NLG with other AI technologies such as [computer vision](../c/computer_vision.md) and augmented reality could provide traders with richer, more interactive ways to interpret and act on financial data.
 
 ### 4. Autonomous Trading Systems
 NLG could play a critical role in fully autonomous [trading systems](../t/trading_systems.md), allowing for seamless interpretation and communication of data-driven decisions without human intervention.

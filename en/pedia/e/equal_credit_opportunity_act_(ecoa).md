@@ -96,7 +96,7 @@ The ECOA [will](../w/will.md) continue to evolve as the [credit](../c/credit.md)
 
 ### Enhanced Technologies for Compliance
 
-As technology advances, financial institutions may increasingly adopt sophisticated tools, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, to ensure ECOA compliance. These technologies can help identify and prevent potential discriminatory practices more effectively.
+As technology advances, financial institutions may increasingly adopt sophisticated tools, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), to ensure ECOA compliance. These technologies can help identify and prevent potential discriminatory practices more effectively.
 
 ### Broader Inclusion Criteria
 

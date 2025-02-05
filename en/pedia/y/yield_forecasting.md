@@ -30,7 +30,7 @@ The core of [yield](../y/yield.md) [forecasting](../f/forecasting.md) is the [pr
 
 **Common Models Used:**
 - **[Time Series](../t/time_series.md) Models:** ARIMA (AutoRegressive Integrated Moving Average), GARCH (Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md)), [Exponential Smoothing](../e/exponential_smoothing.md).
-- **Machine Learning Models:** [Linear Regression](../l/linear_regression.md), Lasso Regression, Ridge Regression, [Decision Trees](../d/decision_trees.md), Random Forest, Gradient Boosting Machines, [Support Vector Machines](../s/support_vector_machines_in_trading.md), [Neural Networks](../n/neural_networks_in_trading.md).
+- **[Machine Learning](../m/machine_learning.md) Models:** [Linear Regression](../l/linear_regression.md), Lasso Regression, Ridge Regression, [Decision Trees](../d/decision_trees.md), Random Forest, Gradient Boosting Machines, [Support Vector Machines](../s/support_vector_machines_in_trading.md), [Neural Networks](../n/neural_networks_in_trading.md).
 - **[Deep Learning](../d/deep_learning.md) Models:** LSTM (Long Short-Term Memory networks), GRU (Gated Recurrent Units).
 
 #### 4. **Model Training and Validation**
@@ -99,4 +99,4 @@ Retail platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alp
 
 ### Conclusion
 
-[Yield](../y/yield.md) [forecasting](../f/forecasting.md) is a fundamental element of [algorithmic trading](../a/algorithmic_trading.md), driving the development of sophisticated [trading systems](../t/trading_systems.md). By integrating statistical methods, machine learning, and financial insights, traders can achieve better predictive accuracy, [risk management](../r/risk_management.md), and [return](../r/return.md) [optimization](../o/optimization.md). Despite challenges, continuous advancements in technology and data analysis are set to further enhance the capabilities and applications of [yield](../y/yield.md) [forecasting](../f/forecasting.md) in the [financial markets](../f/financial_market.md).
+[Yield](../y/yield.md) [forecasting](../f/forecasting.md) is a fundamental element of [algorithmic trading](../a/algorithmic_trading.md), driving the development of sophisticated [trading systems](../t/trading_systems.md). By integrating statistical methods, [machine learning](../m/machine_learning.md), and financial insights, traders can achieve better predictive accuracy, [risk management](../r/risk_management.md), and [return](../r/return.md) [optimization](../o/optimization.md). Despite challenges, continuous advancements in technology and data analysis are set to further enhance the capabilities and applications of [yield](../y/yield.md) [forecasting](../f/forecasting.md) in the [financial markets](../f/financial_market.md).

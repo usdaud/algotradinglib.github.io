@@ -21,7 +21,7 @@ The decision to keep these trading operations in-house rather than [outsourcing]
 3. **Algorithm Development**
     - **[Quantitative Models](../q/quantitative_models.md):** Quantitative analysts or 'quants' develop [mathematical models](../m/mathematical_models_in_trading.md) that drive trading decisions. These models can be based on statistical [arbitrage](../a/arbitrage.md), [mean reversion](../m/mean_reversion.md), [momentum](../m/momentum.md), and other [trading strategies](../t/trading_strategies.md).
     - **[Backtesting](../b/backtesting.md):** Once developed, algorithms need to be rigorously backtested against historical data to evaluate their performance and tweak parameters for [optimization](../o/optimization.md).
-    - **Machine Learning:** Increasingly, machine learning techniques are used to enhance predictive capabilities and improve strategy robustness.
+    - **[Machine Learning](../m/machine_learning.md):** Increasingly, [machine learning](../m/machine_learning.md) techniques are used to enhance predictive capabilities and improve strategy robustness.
 
 4. **[Execution](../e/execution.md) Systems**
     - **[Order Management Systems](../o/order_management_systems.md) (OMS):** These systems manage the [life cycle](../l/life_cycle.md) of [trade](../t/trade.md) orders from creation to [execution](../e/execution.md) and settlement.
@@ -60,7 +60,7 @@ Renaissance Technologies is one of the most renowned firms in the world of [algo
 
 ### Two Sigma
 
-Two Sigma employs a scientific approach to trading, leveraging advanced [data analytics](../d/data_analytics.md) and machine learning. Their [robust](../r/robust.md) in-house development process allows them to continuously innovate and refine their [trading strategies](../t/trading_strategies.md).
+Two Sigma employs a scientific approach to trading, leveraging advanced [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md). Their [robust](../r/robust.md) in-house development process allows them to continuously innovate and refine their [trading strategies](../t/trading_strategies.md).
 
 [More about Two Sigma](https://www.twosigma.com/)
 
@@ -74,7 +74,7 @@ Virtu Financial is known for its high-frequency [trading strategies](../t/tradin
 
 ### Artificial Intelligence and Machine Learning
 
-AI and machine learning are expected to play an increasingly prominent role in [algorithmic trading](../a/accountability.md). In-house teams are exploring these technologies to enhance predictive capabilities and develop more adaptive and resilient [trading strategies](../t/trading_strategies.md).
+AI and [machine learning](../m/machine_learning.md) are expected to play an increasingly prominent role in [algorithmic trading](../a/accountability.md). In-house teams are exploring these technologies to enhance predictive capabilities and develop more adaptive and resilient [trading strategies](../t/trading_strategies.md).
 
 ### Alternative Data Sources
 

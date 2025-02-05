@@ -80,7 +80,7 @@
 
 ### 4. Machine Learning Algorithms
 
-**Machine Learning (ML)** has revolutionized [algorithmic trading](../a/algorithmic_trading.md) by enabling the development of adaptive [trading systems](../t/trading_systems.md) that learn from new data. ML algorithms can uncover patterns and relationships that traditional methods might miss, making them highly effective for developing [predictive models](../p/predictive_models_in_trading.md) and strategies.
+**[Machine Learning](../m/machine_learning.md) (ML)** has revolutionized [algorithmic trading](../a/algorithmic_trading.md) by enabling the development of adaptive [trading systems](../t/trading_systems.md) that learn from new data. ML algorithms can uncover patterns and relationships that traditional methods might miss, making them highly effective for developing [predictive models](../p/predictive_models_in_trading.md) and strategies.
 
 **Implementation**:
 - **[Linear Regression](../l/linear_regression.md)**: Used to predict the price of a stock based on its historical values.
@@ -105,8 +105,8 @@
     ```
 - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models, such as Long Short-Term Memory (LSTM) networks, are particularly adept at predicting [time series](../t/time_series.md) data.
     ```python
-    from keras.models [import](../i/import.md) Sequential
-    from keras.layers [import](../i/import.md) LSTM, Dense
+    from [keras](../k/keras.md).models [import](../i/import.md) Sequential
+    from [keras](../k/keras.md).layers [import](../i/import.md) LSTM, Dense
     
     def lstm_model(input_shape):
         model = Sequential()
@@ -193,7 +193,7 @@
 
 ### Conclusion
 
-Computational algorithms play a crucial role in [algorithmic trading](../a/algorithmic_trading.md), enabling the automation of trades, the discovery of new strategies, and the enhancement of existing ones. From traditional statistical methods and machine learning to cutting-edge [genetic algorithms](../g/genetic_algorithms_in_trading.md), these computational techniques continuously evolve to keep up with the ever-changing [financial markets](../f/financial_market.md). Each algorithm offers unique strengths and applications, allowing traders to develop [robust](../r/robust.md) systems tailored to specific [market](../m/market.md) conditions and objectives.
+Computational algorithms play a crucial role in [algorithmic trading](../a/algorithmic_trading.md), enabling the automation of trades, the discovery of new strategies, and the enhancement of existing ones. From traditional statistical methods and [machine learning](../m/machine_learning.md) to cutting-edge [genetic algorithms](../g/genetic_algorithms_in_trading.md), these computational techniques continuously evolve to keep up with the ever-changing [financial markets](../f/financial_market.md). Each algorithm offers unique strengths and applications, allowing traders to develop [robust](../r/robust.md) systems tailored to specific [market](../m/market.md) conditions and objectives.
 
 ### Example Companies
 

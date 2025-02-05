@@ -46,7 +46,7 @@ High [liquidity](../l/liquidity.md) and deep markets are often favorable as they
 - **Implementation [Shortfall](../s/shortfall.md)**: Minimizes the difference between the decision price and the actual [execution](../e/execution.md) price by focusing on minimizing adverse price movements.
 
 ### Advanced Analytics and Machine Learning
-Many institutional traders [leverage](../l/leverage.md) advanced analytics and machine learning for [order book analysis](../o/order_book_analysis.md). Machine learning models can identify patterns and predict potential [market](../m/market.md) movements with a high degree of accuracy.
+Many institutional traders [leverage](../l/leverage.md) advanced analytics and [machine learning](../m/machine_learning.md) for [order book analysis](../o/order_book_analysis.md). [Machine learning](../m/machine_learning.md) models can identify patterns and predict potential [market](../m/market.md) movements with a high degree of accuracy.
 
 ### Sentiment Analysis
 [Order book analysis](../o/order_book_analysis.md) can also incorporate [sentiment analysis](../s/sentiment_analysis.md). By analyzing the [order book](../o/order_book.md) and other data sources, traders can gauge [market sentiment](../m/market_sentiment.md) and make more informed decisions.

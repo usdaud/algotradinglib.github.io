@@ -22,7 +22,7 @@
 #### Components of Algorithmic Trading
 
 **1. Data Collection and Processing:** Gathering real-time and historical [market](../m/market.md) data.
-**2. Strategy Formulation:** Developing strategies based on [quantitative analysis](../q/quantitative_analysis.md), machine learning, and statistical models.
+**2. Strategy Formulation:** Developing strategies based on [quantitative analysis](../q/quantitative_analysis.md), [machine learning](../m/machine_learning.md), and statistical models.
 **3. [Execution](../e/execution.md):** Implementing the [trading strategies](../t/trading_strategies.md) through automated systems.
 **4. Monitoring and Adjustments:** Continuously monitoring the performance of algorithmic strategies and making necessary adjustments.
 
@@ -34,7 +34,7 @@ Combining [yield](../y/yield.md) management techniques with [algorithmic trading
 
 Dynamic pricing involves adjusting the prices of financial instruments in real-time based on [market](../m/market.md) conditions. Algorithms can analyze vast amounts of data to determine the optimal pricing strategy. For example:
 
-**1. Machine Learning Models:** Using [regression analysis](../r/regression_analysis.md) and [neural networks](../n/neural_networks_in_trading.md) to predict [market](../m/market.md) trends and adjust prices accordingly.
+**1. [Machine Learning](../m/machine_learning.md) Models:** Using [regression analysis](../r/regression_analysis.md) and [neural networks](../n/neural_networks_in_trading.md) to predict [market](../m/market.md) trends and adjust prices accordingly.
 **2. [Real-Time Data Analysis](../r/real-time_data_analysis.md):** Evaluating [order](../o/order.md) books, [trade](../t/trade.md) volumes, and other [market indicators](../m/market_indicators.md) to set prices dynamically.
 **3. Competitive Pricing:** Analyzing competitors' pricing strategies and adjusting accordingly to remain competitive.
 
@@ -64,7 +64,7 @@ Dynamic pricing involves adjusting the prices of financial instruments in real-t
 
 #### Advanced Technologies Utilized
 
-**1. [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning:** These technologies are deployed to develop sophisticated [trading algorithms](../t/trading_algorithms.md) capable of learning and adapting to [market](../m/market.md) conditions.
+**1. [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md):** These technologies are deployed to develop sophisticated [trading algorithms](../t/trading_algorithms.md) capable of learning and adapting to [market](../m/market.md) conditions.
 **2. [Big Data Analytics](../b/big_data_analytics_in_trading.md):** The capacity to manage and analyze large datasets allows for more accurate [demand forecasting](../d/demand_forecasting.md) and strategy formulation.
 **3. [Quantum Computing](../q/quantum_computing_in_trading.md):** Although still in early stages, [quantum computing](../q/quantum_computing_in_trading.md) presents potential for solving complex [optimization](../o/optimization.md) problems at speeds unattainable by classical computers.
 

@@ -62,7 +62,7 @@ Example: Google Ventures (GV) is one of the most notable CVCs, [investing](../i/
 
 #### 10. Confluence of Artificial Intelligence and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) continue to be hot areas for [venture capital investment](../v/venture_capital_investment.md). Startups that [leverage](../l/leverage.md) these technologies to [offer](../o/offer.md) innovative solutions across various sectors, including healthcare, [finance](../f/finance.md), and e-[commerce](../c/commerce.md), are gaining significant traction. The ability of AI and ML to transform industries by driving [efficiency](../e/efficiency.md) and enabling new capabilities makes them highly attractive to investors.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) continue to be hot areas for [venture capital investment](../v/venture_capital_investment.md). Startups that [leverage](../l/leverage.md) these technologies to [offer](../o/offer.md) innovative solutions across various sectors, including healthcare, [finance](../f/finance.md), and e-[commerce](../c/commerce.md), are gaining significant traction. The ability of AI and ML to transform industries by driving [efficiency](../e/efficiency.md) and enabling new capabilities makes them highly attractive to investors.
 
 Example: Data Collective DCVC is a [venture capital](../v/venture_capital.md) [firm](../f/firm.md) that specializes in deep tech investments, focusing on companies that [leverage](../l/leverage.md) AI and ML to solve complex problems. [Data Collective DCVC](https://www.dcvc.com/)
 

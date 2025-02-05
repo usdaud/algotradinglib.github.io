@@ -55,7 +55,7 @@ TMX Group collaborates with several international exchanges and financial instit
 Innovation is a core aspect of TMX Group's strategy, focusing on [blockchain](../b/blockchain_in_trading.md), AI, and advanced [data analytics](../d/data_analytics.md). These innovations aim to improve [market efficiency](../m/market_efficiency.md), [transparency](../t/transparency.md), and user experience.
 
 ### TMX Insights
-TMX Insights provides advanced analytics and [market](../m/market.md) insights, leveraging [data science](../d/data_science_in_trading.md) and machine learning techniques to [offer](../o/offer.md) targeted research and actionable insights.
+TMX Insights provides advanced analytics and [market](../m/market.md) insights, leveraging [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md) techniques to [offer](../o/offer.md) targeted research and actionable insights.
 
 ## Conclusion
 TMX Group is a pivotal entity in the Canadian and global [financial markets](../f/financial_market.md), [offering](../o/offering.md) a wide array of services catering to diverse [market](../m/market.md) needs. From listing and trading to [market](../m/market.md) data and advanced technologies, TMX Group plays an integral role in the financial ecosystem.

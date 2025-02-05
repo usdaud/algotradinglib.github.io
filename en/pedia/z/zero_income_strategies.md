@@ -9,7 +9,7 @@ Zero [Income](../i/income.md) Strategies in algo trading emphasize price movemen
 ## Key Components
 
 1. **Algorithm Development**
-   - **Machine Learning Models**: Algorithms rely on machine learning models to predict price movements. Techniques such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) are commonplace.
+   - **[Machine Learning](../m/machine_learning.md) Models**: Algorithms rely on [machine learning](../m/machine_learning.md) models to predict price movements. Techniques such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) are commonplace.
    - **[Backtesting](../b/backtesting.md)**: Ensuring historical performance measurements to validate the [efficiency](../e/efficiency.md) of the algorithm.
    - **Parameter [Optimization](../o/optimization.md)**: Fine-tuning model parameters to maximize [performance metrics](../p/performance_metrics.md) like [Sharpe Ratio](../s/sharpe_ratio.md) or [Sortino Ratio](../s/sortino_ratio.md).
 

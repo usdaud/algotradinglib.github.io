@@ -97,7 +97,7 @@ Subscription boxes and membership services in e-[commerce](../c/commerce.md) uti
 [Blockchain](../b/blockchain_in_trading.md) technology offers secure, transparent [transaction](../t/transaction.md) records, reducing the [risk](../r/risk.md) of [fraud](../f/fraud.md) and enhancing [trust](../t/trust.md) in recurring billing processes.
 
 ### 2. **AI and Machine Learning**
-AI and machine learning can predict [customer](../c/customer.md) behavior, optimize pricing strategies, and automate [customer](../c/customer.md) support, enhancing the [efficiency](../e/efficiency.md) of recurring billing systems.
+AI and [machine learning](../m/machine_learning.md) can predict [customer](../c/customer.md) behavior, optimize pricing strategies, and automate [customer](../c/customer.md) support, enhancing the [efficiency](../e/efficiency.md) of recurring billing systems.
 
 ### 3. **Tokenization**
 Tokenization replaces sensitive [payment](../p/payment.md) data with unique identifiers or tokens, enhancing [security](../s/security.md) and reducing the [risk](../r/risk.md) of data breaches.

@@ -2,13 +2,13 @@
 
 ## Introduction
 
-A Support Vector Classifier (SVC) is a supervised learning algorithm commonly used in the field of machine learning and [pattern recognition](../p/pattern_recognition.md). It is based on the principles of the Support Vector Machine (SVM) and aims to classify data points by finding an optimal hyperplane that separates the various classes. In the context of [algorithmic trading](../a/algorithmic_trading.md), SVC can play a crucial role in predicting [market](../m/market.md) directions, identifying [trading signals](../t/trading_signals.md), and building [predictive models](../p/predictive_models_in_trading.md) to optimize [trading strategies](../t/trading_strategies.md). 
+A Support Vector Classifier (SVC) is a [supervised learning](../s/supervised_learning.md) algorithm commonly used in the field of [machine learning](../m/machine_learning.md) and [pattern recognition](../p/pattern_recognition.md). It is based on the principles of the Support Vector Machine (SVM) and aims to classify data points by finding an optimal hyperplane that separates the various classes. In the context of [algorithmic trading](../a/algorithmic_trading.md), SVC can play a crucial role in predicting [market](../m/market.md) directions, identifying [trading signals](../t/trading_signals.md), and building [predictive models](../p/predictive_models_in_trading.md) to optimize [trading strategies](../t/trading_strategies.md). 
 
 ## Basic Concept of Support Vector Classifier
 
 ### Supervised Learning
 
-Supervised learning involves training a model on a labeled dataset, which means that each training example is paired with an output label. For SVC, the data points (features) are labeled as belonging to one of two categories. The goal of the SVC is to create a model that can predict the label of new, unseen data points.
+[Supervised learning](../s/supervised_learning.md) involves training a model on a labeled dataset, which means that each training example is paired with an output label. For SVC, the data points (features) are labeled as belonging to one of two categories. The goal of the SVC is to create a model that can predict the label of new, unseen data points.
 
 ### Hyperplane and Margins
 
@@ -124,13 +124,13 @@ Several tools and libraries facilitate the implementation of SVC for [algorithmi
 - **scikit-learn**: A popular Python library that offers a [robust](../r/robust.md) implementation of SVC with various kernel [options](../o/options.md) and utilities for model evaluation.
   [scikit-learn](https://scikit-learn.org/stable/modules/svm.html#svm-classification)
 
-- **TensorFlow and Keras**: Although primarily used for [neural networks](../n/neural_networks_in_trading.md), TensorFlow and Keras can also implement SVC models through their machine learning APIs.
+- **[TensorFlow](../t/tensorflow.md) and [Keras](../k/keras.md)**: Although primarily used for [neural networks](../n/neural_networks_in_trading.md), [TensorFlow](../t/tensorflow.md) and [Keras](../k/keras.md) can also implement SVC models through their [machine learning](../m/machine_learning.md) APIs.
   [TensorFlow](https://www.tensorflow.org/)
 
 - **libsvm**: A library dedicated to SVM and SVC with support for various kernels and [optimization](../o/optimization.md) algorithms.
   [libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
-- **[QuantConnect](../q/quantconnect.md)**: A platform [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) tools, including support for SVC and other machine learning models.
+- **[QuantConnect](../q/quantconnect.md)**: A platform [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) tools, including support for SVC and other [machine learning](../m/machine_learning.md) models.
   [QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion

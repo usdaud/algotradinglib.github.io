@@ -86,7 +86,7 @@ Effective [underwriting](../u/underwriting.md) helps in maintaining the delicate
 
 Incorporating advanced [data analytics](../d/data_analytics.md) and technology can significantly enhance [underwriting](../u/underwriting.md) outcomes. Insurers and [investment banks](../i/investment_bank_(ib).md) use data-driven tools to predict risks more accurately and optimize pricing strategies.
 
-1. **[Predictive Modeling](../p/predictive_modeling.md)**: Using historical data and machine learning models to predict claim probabilities and [default](../d/default.md) rates more accurately.
+1. **[Predictive Modeling](../p/predictive_modeling.md)**: Using historical data and [machine learning](../m/machine_learning.md) models to predict claim probabilities and [default](../d/default.md) rates more accurately.
 
 2. **[Blockchain](../b/blockchain_in_trading.md) Technology**: Employing [blockchain](../b/blockchain_in_trading.md) for transparent, immutable, and efficient processing of [underwriting](../u/underwriting.md) transactions.
 

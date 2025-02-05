@@ -94,7 +94,7 @@ KCEX competes with other global and regional [commodity](../c/commodity.md) exch
 
 KCEX is well-positioned to [capitalize](../c/capitalize.md) on the growing [demand](../d/demand.md) for commodities in South Korea and beyond. Future developments may include:
 
-- **Enhanced Technology**: Leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning for better [market](../m/market.md) predictions and [risk management](../r/risk_management.md).
+- **Enhanced Technology**: Leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) for better [market](../m/market.md) predictions and [risk management](../r/risk_management.md).
 - **Sustainability Initiatives**: Introducing green commodities and carbon credits to promote environmental sustainability.
 - **Global [Expansion](../e/expansion.md)**: Increasing international participation by collaborating with other global exchanges and easing cross-border transactions.
 

@@ -53,13 +53,13 @@ Systematic [beta](../b/beta.md) capture involves constructing portfolios that ca
 
 ### 5. Machine Learning and Artificial Intelligence
 
-The advent of [big data](../b/big_data_in_trading.md) and advancements in machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have opened new horizons for quantitative [beta](../b/beta.md) strategies. These technologies can process vast amounts of data to uncover hidden patterns, predictive signals, and optimize [portfolio management](../p/portfolio_management.md) processes.
+The advent of [big data](../b/big_data_in_trading.md) and advancements in [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have opened new horizons for quantitative [beta](../b/beta.md) strategies. These technologies can process vast amounts of data to uncover hidden patterns, predictive signals, and optimize [portfolio management](../p/portfolio_management.md) processes.
 
 #### Applications
 
-1. **[Predictive Analytics](../p/predictive_analytics.md)**: Using supervised learning models like regression, [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), and ensemble methods to make predictions about [asset](../a/asset.md) returns.
+1. **[Predictive Analytics](../p/predictive_analytics.md)**: Using [supervised learning](../s/supervised_learning.md) models like regression, [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), and ensemble methods to make predictions about [asset](../a/asset.md) returns.
 2. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Analyzing textual data from news articles, [earnings call](../e/earnings_call.md) transcripts, and [social media](../s/social_media.md) to gauge [market sentiment](../m/market_sentiment.md) and inform [trading strategies](../t/trading_strategies.md).
-3. **Reinforcement Learning**: Employing algorithms that learn optimal trading policies through trial and error to adapt to changing [market](../m/market.md) conditions dynamically.
+3. **[Reinforcement Learning](../r/reinforcement_learning.md)**: Employing algorithms that learn optimal trading policies through trial and error to adapt to changing [market](../m/market.md) conditions dynamically.
 
 ### Notable Providers and Resources
 

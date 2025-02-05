@@ -53,7 +53,7 @@ Autonomous expenditure components are closely monitored as [economic indicators]
 - **[Infrastructure](../i/infrastructure.md) Projects:** Announcements about new projects can impact industries like construction, materials, and technology, leading to strategic [asset allocation](../a/asset_allocation.md) adjustments.
 
 ### Forecasting and Predictions
-Algorithms that [factor](../f/factor.md) in autonomous expenditure can enhance [forecasting](../f/forecasting.md) accuracy. Integrating autonomous spending trends into machine learning models allows for better predictions of [economic cycles](../e/economic_cycles.md) and [market](../m/market.md) movements.
+Algorithms that [factor](../f/factor.md) in autonomous expenditure can enhance [forecasting](../f/forecasting.md) accuracy. Integrating autonomous spending trends into [machine learning](../m/machine_learning.md) models allows for better predictions of [economic cycles](../e/economic_cycles.md) and [market](../m/market.md) movements.
 
 - **Model Training:** Training models on historical data including autonomous expenditures improves the predictive capabilities regarding macroeconomic conditions.
 - **[Scenario Analysis](../s/scenario_analysis.md):** Autonomous expenditure changes can be used in [scenario analysis](../s/scenario_analysis.md) to simulate potential [market](../m/market.md) outcomes under different [economic conditions](../e/economic_conditions.md).

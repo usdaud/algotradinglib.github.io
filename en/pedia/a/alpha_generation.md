@@ -14,7 +14,7 @@
 
 ### 1. Quantitative Models
 
-[Quantitative models](../q/quantitative_models.md) are mathematical constructs designed to identify trading opportunities by analyzing large datasets. These models often employ complex statistical techniques, including [regression analysis](../r/regression_analysis.md), machine learning, and [pattern recognition](../p/pattern_recognition.md), to predict price movements.
+[Quantitative models](../q/quantitative_models.md) are mathematical constructs designed to identify trading opportunities by analyzing large datasets. These models often employ complex statistical techniques, including [regression analysis](../r/regression_analysis.md), [machine learning](../m/machine_learning.md), and [pattern recognition](../p/pattern_recognition.md), to predict price movements.
 
 ### 2. Arbitrage Strategies
 
@@ -40,7 +40,7 @@ Effective [risk management](../r/risk_management.md) is essential for maintainin
 
 ### 2. Machine Learning Libraries
 
-Machine learning libraries like TensorFlow, Keras, and Scikit-Learn are commonly used to develop [predictive models](../p/predictive_models_in_trading.md) in algo trading. These libraries provide tools for building [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and other types of machine learning models.
+[Machine learning](../m/machine_learning.md) libraries like [TensorFlow](../t/tensorflow.md), [Keras](../k/keras.md), and Scikit-Learn are commonly used to develop [predictive models](../p/predictive_models_in_trading.md) in algo trading. These libraries provide tools for building [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and other types of [machine learning](../m/machine_learning.md) models.
 
 ### 3. Execution Management Systems (EMS)
 
@@ -84,7 +84,7 @@ Renaissance Technologies, founded by mathematician James Simons, is one of the m
 
 ### Case Study 2: Two Sigma
 
-Two Sigma is another prominent [hedge fund](../h/hedge_fund.md) known for its data-driven approach to [investment management](../i/investment_management.md). The [firm](../f/firm.md) uses advanced machine learning techniques and [big data analytics](../b/big_data_analytics_in_trading.md) to create [trading strategies](../t/trading_strategies.md) that consistently [outperform](../o/outperform.md) the [market](../m/market.md). Two Sigma’s emphasis on research and technology has made it a leader in [alpha](../a/alpha.md) generation.
+Two Sigma is another prominent [hedge fund](../h/hedge_fund.md) known for its data-driven approach to [investment management](../i/investment_management.md). The [firm](../f/firm.md) uses advanced [machine learning](../m/machine_learning.md) techniques and [big data analytics](../b/big_data_analytics_in_trading.md) to create [trading strategies](../t/trading_strategies.md) that consistently [outperform](../o/outperform.md) the [market](../m/market.md). Two Sigma’s emphasis on research and technology has made it a leader in [alpha](../a/alpha.md) generation.
 
 - Website: [Two Sigma](https://www.twosigma.com/)
 
@@ -96,7 +96,7 @@ Citadel is a global financial institution that operates one of the largest and m
 
 ### Case Study 4: D. E. Shaw
 
-D. E. Shaw is a [hedge fund](../h/hedge_fund.md) known for its use of quantitative methods and [computational finance](../c/computational_finance.md). The [firm](../f/firm.md)’s [trading strategies](../t/trading_strategies.md) rely heavily on statistical [arbitrage](../a/arbitrage.md) and machine learning models to identify profitable trading opportunities. D. E. Shaw’s interdisciplinary approach has enabled it to generate substantial [alpha](../a/alpha.md) over the years.
+D. E. Shaw is a [hedge fund](../h/hedge_fund.md) known for its use of quantitative methods and [computational finance](../c/computational_finance.md). The [firm](../f/firm.md)’s [trading strategies](../t/trading_strategies.md) rely heavily on statistical [arbitrage](../a/arbitrage.md) and [machine learning](../m/machine_learning.md) models to identify profitable trading opportunities. D. E. Shaw’s interdisciplinary approach has enabled it to generate substantial [alpha](../a/alpha.md) over the years.
 
 - Website: [D. E. Shaw](https://www.deshaw.com/)
 
@@ -125,7 +125,7 @@ As concerns about the ethical implications of [algorithmic trading](../a/algorit
 ### Key Takeaways
 
 - [Alpha](../a/alpha.md) generation refers to the [excess return](../e/excess_return.md) of an investment relative to a [benchmark](../b/benchmark.md).
-- [Data analytics](../d/data_analytics.md), machine learning, and [sentiment analysis](../s/sentiment_analysis.md) are key tools for generating [alpha](../a/alpha.md) in [algorithmic trading](../a/algorithmic_trading.md).
+- [Data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and [sentiment analysis](../s/sentiment_analysis.md) are key tools for generating [alpha](../a/alpha.md) in [algorithmic trading](../a/algorithmic_trading.md).
 - [Risk management](../r/risk_management.md), regulatory compliance, and data quality are critical for successful [alpha](../a/alpha.md) generation.
 - Leading firms in the field, such as Renaissance Technologies, Two Sigma, and Citadel, exemplify the successful application of these principles.
 - Future trends like AI, [blockchain](../b/blockchain_in_trading.md), and [quantum computing](../q/quantum_computing_in_trading.md) promise to reshape the landscape of [alpha](../a/alpha.md) generation.

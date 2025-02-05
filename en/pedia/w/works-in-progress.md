@@ -116,7 +116,7 @@ To overcome these challenges, businesses can adopt several strategies:
 
 - **Automation and Robotics**: Implementing automation and robotics can enhance [efficiency](../e/efficiency.md), reduce labor costs, and improve the accuracy of WIP tracking.
 
-- **Improved [Forecasting](../f/forecasting.md)**: Utilizing advanced analytics and machine learning, companies can improve [demand forecasting](../d/demand_forecasting.md), aligning production schedules more closely with [market](../m/market.md) needs.
+- **Improved [Forecasting](../f/forecasting.md)**: Utilizing advanced analytics and [machine learning](../m/machine_learning.md), companies can improve [demand forecasting](../d/demand_forecasting.md), aligning production schedules more closely with [market](../m/market.md) needs.
 
 ## Conclusion
 

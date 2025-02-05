@@ -67,7 +67,7 @@ Developing an algorithm for [quantitative trading](../q/quantitative_trading.md)
 Choosing the right model is critical for the success of a [trading strategy](../t/trading_strategy.md). Common models used in [quantitative trading](../q/quantitative_trading.md) include:
 
 - **[Linear Regression](../l/linear_regression.md):** This model predicts the future [value](../v/value.md) of an [asset](../a/asset.md) based on its historical relationship with other variables.
-- **Machine Learning Models:** Techniques such as [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) can identify complex patterns in data.
+- **[Machine Learning](../m/machine_learning.md) Models:** Techniques such as [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) can identify complex patterns in data.
 
 ### Feature Engineering
 

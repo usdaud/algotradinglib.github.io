@@ -50,7 +50,7 @@ HFT strategies often exploit minute inefficiencies in the [market](../m/market.m
 
 ## Fintech and Volume of Trade
 
-In the fintech sector, [trade](../t/trade.md) [volume](../v/volume.md) data is increasingly being leveraged to provide innovative trading solutions and services. Fintech companies often use advanced analytics, machine learning, and [big data](../b/big_data_in_trading.md) technologies to analyze [trade](../t/trade.md) [volume](../v/volume.md) and [offer](../o/offer.md) cutting-edge services such as:
+In the fintech sector, [trade](../t/trade.md) [volume](../v/volume.md) data is increasingly being leveraged to provide innovative trading solutions and services. Fintech companies often use advanced analytics, [machine learning](../m/machine_learning.md), and [big data](../b/big_data_in_trading.md) technologies to analyze [trade](../t/trade.md) [volume](../v/volume.md) and [offer](../o/offer.md) cutting-edge services such as:
 
 - **Robo-Advisors**: Automated investment platforms that use [trade](../t/trade.md) [volume](../v/volume.md) data to rebalance portfolios and optimize [trading strategies](../t/trading_strategies.md).
 - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Tools that analyze [social media](../s/social_media.md), news, and other data sources to gauge [market sentiment](../m/market_sentiment.md) and predict [trade](../t/trade.md) [volume](../v/volume.md) trends.

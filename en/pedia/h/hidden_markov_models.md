@@ -1,6 +1,6 @@
 # Hidden Markov Models
 
-Hidden Markov Models (HMMs) are a powerful statistical tool widely used in various fields like speech recognition, bioinformatics, and [financial modeling](../f/financial_modeling.md). In the realm of [algorithmic trading](../a/algorithmic_trading.md), HMMs provide traders with a framework to model and predict [asset](../a/asset.md) prices and [market](../m/market.md) conditions based on observed sequences of data. This detailed exploration [will](../w/will.md) delve into the structure of HMMs, their application in [algorithmic trading](../a/algorithmic_trading.md), and practical considerations for implementing these models.
+Hidden Markov Models (HMMs) are a powerful statistical tool widely used in various fields like [speech recognition](../s/speech_recognition.md), bioinformatics, and [financial modeling](../f/financial_modeling.md). In the realm of [algorithmic trading](../a/algorithmic_trading.md), HMMs provide traders with a framework to model and predict [asset](../a/asset.md) prices and [market](../m/market.md) conditions based on observed sequences of data. This detailed exploration [will](../w/will.md) delve into the structure of HMMs, their application in [algorithmic trading](../a/algorithmic_trading.md), and practical considerations for implementing these models.
 
 ## Definition and Components
 
@@ -68,7 +68,7 @@ Several companies in the financial technology space [leverage](../l/leverage.md)
 
 1. **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) utilizing sophisticated mathematical techniques and models, including HMMs, for trading and [risk management](../r/risk_management.md). [Jane Street](https://www.janestreet.com/)
    
-2. **Two Sigma**: A company that applies HMMs and other machine learning models to make data-driven investment decisions. [Two Sigma](https://www.twosigma.com/)
+2. **Two Sigma**: A company that applies HMMs and other [machine learning](../m/machine_learning.md) models to make data-driven investment decisions. [Two Sigma](https://www.twosigma.com/)
 
 3. **Hudson River Trading**: This [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) employs HMMs among other statistical models to develop and refine its [trading strategies](../t/trading_strategies.md). [Hudson River Trading](https://www.hudsonrivertrading.com/)
 

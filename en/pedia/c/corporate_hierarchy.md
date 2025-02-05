@@ -83,7 +83,7 @@ Decentralizing decision-making processes is another emerging [trend](../t/trend.
 ## Future of Corporate Hierarchies
 
 ### 1. Technological Integration
-The integration of AI and machine learning into corporate hierarchies can streamline decision-making processes and improve [operational efficiency](../o/operational_efficiency_in_trading.md). 
+The integration of AI and [machine learning](../m/machine_learning.md) into corporate hierarchies can streamline decision-making processes and improve [operational efficiency](../o/operational_efficiency_in_trading.md). 
 
 ### 2. Agile Management
 The future may see a rise in agile management practices, which accommodate rapid changes in the [business](../b/business.md) environment by emphasizing flexibility, collaboration, and [customer](../c/customer.md) focus.

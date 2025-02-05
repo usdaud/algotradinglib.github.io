@@ -22,7 +22,7 @@ Real-time data analysis refers to the process of examining, processing, and repo
 
 ### 3. **Algorithm Development**
 
-- **Machine Learning Models:** In real-time trading, machine learning models are used to predict future price movements. Libraries like TensorFlow (https://www.tensorflow.org/) and PyTorch (https://pytorch.org/) are employed for building such models.
+- **[Machine Learning](../m/machine_learning.md) Models:** In real-time trading, [machine learning](../m/machine_learning.md) models are used to predict future price movements. Libraries like [TensorFlow](../t/tensorflow.md) (https://www.[tensorflow](../t/tensorflow.md).org/) and [PyTorch](../p/pytorch.md) (https://[pytorch](../p/pytorch.md).org/) are employed for building such models.
 
 - **Statistical Analysis:** Techniques such as [linear regression](../l/linear_regression.md), [mean reversion](../m/mean_reversion.md), and statistical [arbitrage](../a/arbitrage.md) are applied to real-time data to develop [trading strategies](../t/trading_strategies.md).
 
@@ -60,7 +60,7 @@ Real-time data analysis refers to the process of examining, processing, and repo
 
 ### Model Deployment
 
-5. **Model Training and Validation:** Use historical data to train and validate machine learning models. This can be done using Python libraries like Scikit-learn.
+5. **Model Training and Validation:** Use historical data to train and validate [machine learning](../m/machine_learning.md) models. This can be done using Python libraries like Scikit-learn.
 
 6. **Model Deployment:** Deploy the validated model in a production environment for real-time prediction. This often involves creating RESTful APIs for model serving.
 

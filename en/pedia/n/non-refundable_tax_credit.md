@@ -82,7 +82,7 @@ Tax laws and credits are subject to continuous changes influenced by political, 
 
 Innovation in fintech, particularly in [tax planning](../t/tax_planning.md), is creating new ways to [leverage](../l/leverage.md) non-refundable tax credits:
 1. **Software Solutions**: Tax preparation software like TurboTax and H&R Block now include sophisticated algorithms to maximize the benefit of non-refundable tax credits.
-2. **AI and Machine Learning**: These technologies are being used to analyze tax data, predict eligibility and optimize the use of non-refundable tax credits to reduce tax liabilities effectively.
+2. **AI and [Machine Learning](../m/machine_learning.md)**: These technologies are being used to analyze tax data, predict eligibility and optimize the use of non-refundable tax credits to reduce tax liabilities effectively.
 
 ## Conclusion
 

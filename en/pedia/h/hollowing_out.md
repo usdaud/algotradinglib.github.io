@@ -8,7 +8,7 @@ Hollowing out in the context of [algorithmic trading](../a/accountability.md) re
 
 ### Key Components of Algorithmic Trading
 
-1. **Algorithms**: These are sets of rules or instructions given to the computer to perform trading tasks. They [range](../r/range.md) from simple strategies based on moving averages to complex [predictive models](../p/predictive_models_in_trading.md) that use machine learning.
+1. **Algorithms**: These are sets of rules or instructions given to the computer to perform trading tasks. They [range](../r/range.md) from simple strategies based on moving averages to complex [predictive models](../p/predictive_models_in_trading.md) that use [machine learning](../m/machine_learning.md).
 2. **[Execution](../e/execution.md) Speed and Latency**: Time is a critical [factor](../f/factor.md) in [algorithmic trading](../a/accountability.md). Milliseconds can make the difference in capturing the desired price or [volume](../v/volume.md).
 3. **Data**: Large volumes of financial data are parsed and analyzed to identify trading opportunities. The quality and timeliness of data directly impact the performance of algorithms.
 4. **[Infrastructure](../i/infrastructure.md)**: This includes powerful computer systems, co-location services (placing servers close to [exchange](../e/exchange.md) data centers to minimize latency), and [networking](../n/networking.md) technologies.

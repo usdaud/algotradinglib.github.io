@@ -59,7 +59,7 @@ Actuarial techniques such as the Chain Ladder Method, Bornhuetter-Ferguson Metho
 
 ### Predictive Analytics
 
-Advanced [predictive analytics](../p/predictive_analytics.md), including machine learning and [data mining](../d/data_mining.md) techniques, are increasingly being adopted to enhance the accuracy of UNL predictions. These methods analyze large datasets to identify patterns and predict future claim occurrences and severities.
+Advanced [predictive analytics](../p/predictive_analytics.md), including [machine learning](../m/machine_learning.md) and [data mining](../d/data_mining.md) techniques, are increasingly being adopted to enhance the accuracy of UNL predictions. These methods analyze large datasets to identify patterns and predict future claim occurrences and severities.
 
 ### Software Solutions
 

@@ -30,7 +30,7 @@ Coincident indicators change approximately the same time as the [economy](../e/e
 ## How Economic Indicators are Used in Algorithmic Trading
 
 ### Predictive Models
-[Algorithmic trading](../a/accountability.md) relies heavily on [predictive models](../p/predictive_models_in_trading.md) that use [economic indicators](../e/economic_indicators.md) to forecast [market](../m/market.md) movements. These models often employ machine learning and statistical techniques to analyze historical data of [economic indicators](../e/economic_indicators.md):
+[Algorithmic trading](../a/accountability.md) relies heavily on [predictive models](../p/predictive_models_in_trading.md) that use [economic indicators](../e/economic_indicators.md) to forecast [market](../m/market.md) movements. These models often employ [machine learning](../m/machine_learning.md) and statistical techniques to analyze historical data of [economic indicators](../e/economic_indicators.md):
 
 - **[Regression Analysis](../r/regression_analysis.md):** Algorithms use regression models to understand the relationship between [economic indicators](../e/economic_indicators.md) and stock prices. For instance, they can forecast future stock prices by analyzing historical stock data alongside GDP [growth rates](../g/growth_rates_in_trading.md).
   
@@ -54,7 +54,7 @@ Algorithms integrate real-time economic data to make immediate trading decisions
 
 Several fintech companies specialize in providing [algorithmic trading](../a/accountability.md) solutions and economic data feeds:
 
-- **Kensho Technologies:** Known for machine learning-based [financial analysis](../f/financial_analysis.md) tools. [Visit Kensho](https://www.kensho.com)
+- **Kensho Technologies:** Known for [machine learning](../m/machine_learning.md)-based [financial analysis](../f/financial_analysis.md) tools. [Visit Kensho](https://www.kensho.com)
   
 - **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/accountability.md) platform that provides historical and real-time data across various [asset](../a/asset.md) classes. [Visit QuantConnect](https://www.quantconnect.com)
   

@@ -51,7 +51,7 @@ Python is widely used in financial data analysis due to its simplicity and power
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical operations.
 - **Matplotlib and Seaborn**: For [data visualization](../d/data_visualization.md).
-- **Scikit-learn**: For machine learning applications.
+- **Scikit-learn**: For [machine learning](../m/machine_learning.md) applications.
 
 ### 2. R
 R is another popular tool with libraries like `quantmod`, `TTR`, and `xts` specifically tailored for [financial time series](../f/financial_time_series.md) analysis.
@@ -79,10 +79,10 @@ Statistical techniques help in understanding the data [distribution](../d/distri
 - **[Hypothesis Testing](../h/hypothesis_testing.md)**: Tests like t-tests and chi-square tests.
 
 ### 3. Machine Learning
-Machine learning models can identify complex patterns in historical data that traditional methods might miss. Techniques include:
+[Machine learning](../m/machine_learning.md) models can identify complex patterns in historical data that traditional methods might miss. Techniques include:
 
-- **Supervised Learning**: Regression and classification models.
-- **Unsupervised Learning**: Clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md).
+- **[Supervised Learning](../s/supervised_learning.md)**: Regression and classification models.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md).
 - **[Deep Learning](../d/deep_learning.md)**: [Neural networks](../n/neural_networks_in_trading.md) for predicting [market](../m/market.md) trends.
 
 ### 4. Technical Analysis

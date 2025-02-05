@@ -94,7 +94,7 @@ As [investor](../i/investor.md) [interest](../i/interest.md) in ESG issues grows
 
 ### Technology and Innovation
 
-The MSRB is leveraging advancements in technology to improve [market](../m/market.md) surveillance and enforcement. This includes using [data analytics](../d/data_analytics.md) and machine learning to detect patterns indicative of [market manipulation](../m/market_manipulation.md) or other prohibited activities.
+The MSRB is leveraging advancements in technology to improve [market](../m/market.md) surveillance and enforcement. This includes using [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) to detect patterns indicative of [market manipulation](../m/market_manipulation.md) or other prohibited activities.
 
 ### Modernizing the Rule Book
 

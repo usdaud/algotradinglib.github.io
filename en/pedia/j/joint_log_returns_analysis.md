@@ -105,7 +105,7 @@ Consider a portfolio composed of [stocks](../s/stock.md) from different sectors,
 
 ### Machine Learning and AI
 
-Integrating machine learning techniques with traditional statistical models enhances the predictive power and adaptability of [joint](../j/joint.md) [log returns analysis](../l/log_returns_analysis.md). Techniques like [neural networks](../n/neural_networks_in_trading.md), reinforcement learning, and ensemble methods are being explored for this purpose.
+Integrating [machine learning](../m/machine_learning.md) techniques with traditional statistical models enhances the predictive power and adaptability of [joint](../j/joint.md) [log returns analysis](../l/log_returns_analysis.md). Techniques like [neural networks](../n/neural_networks_in_trading.md), [reinforcement learning](../r/reinforcement_learning.md), and ensemble methods are being explored for this purpose.
 
 ### High-Dimensional Data
 

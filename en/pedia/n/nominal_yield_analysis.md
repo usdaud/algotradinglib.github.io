@@ -82,7 +82,7 @@ In applying [nominal](../n/nominal.md) [yield analysis](../y/yield_analysis.md) 
 
 ### Predictive Analytics
 
-Algorithms use historical data and real-time information to predict future price movements and [yield](../y/yield.md) changes. Machine learning models can identify patterns and trends, enabling more accurate predictions and [robust](../r/robust.md) trading decisions.
+Algorithms use historical data and real-time information to predict future price movements and [yield](../y/yield.md) changes. [Machine learning](../m/machine_learning.md) models can identify patterns and trends, enabling more accurate predictions and [robust](../r/robust.md) trading decisions.
 
 ### High-Frequency Trading (HFT)
 

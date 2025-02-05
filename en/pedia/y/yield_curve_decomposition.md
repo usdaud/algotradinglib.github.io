@@ -58,10 +58,10 @@ Several financial institutions and fintech companies specialize in [yield curve]
 
 ### Advanced Yield Curve Techniques
 
-Beyond basic decomposition methods, more advanced techniques have emerged, incorporating machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance [yield curve](../y/yield_curve.md) modeling.
+Beyond basic decomposition methods, more advanced techniques have emerged, incorporating [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance [yield curve](../y/yield_curve.md) modeling.
 
 #### Machine Learning Models
-Machine learning techniques, such as [neural networks](../n/neural_networks_in_trading.md) and [regression trees](../r/regression_trees_in_trading.md), are increasingly used to predict [yield curve](../y/yield_curve.md) movements by identifying complex patterns in historical data.
+[Machine learning](../m/machine_learning.md) techniques, such as [neural networks](../n/neural_networks_in_trading.md) and [regression trees](../r/regression_trees_in_trading.md), are increasingly used to predict [yield curve](../y/yield_curve.md) movements by identifying complex patterns in historical data.
 
 - **[Neural Networks](../n/neural_networks_in_trading.md)**: Capture non-linear relationships and can model intricate [yield curve](../y/yield_curve.md) dynamics.
 - **Gradient Boosting Machines**: Effective in handling large datasets and improving prediction accuracy.
@@ -82,6 +82,6 @@ Term structure models provide frameworks for predicting future [interest rate](.
 
 ### Conclusion
 
-[Yield curve](../y/yield_curve.md) decomposition is a fundamental technique in [financial markets](../f/financial_market.md), providing deep insights into [interest rate](../i/interest_rate.md) dynamics. The ability to decompose the [yield curve](../y/yield_curve.md) into its core components—level, slope, and curvature—enables traders, analysts, and policymakers to make informed decisions, optimize portfolios, and manage risks effectively. With advancements in statistical methods and machine learning, [yield curve](../y/yield_curve.md) modeling continues to evolve, [offering](../o/offering.md) even greater precision and predictive power in understanding [interest rate](../i/interest_rate.md) behaviors.
+[Yield curve](../y/yield_curve.md) decomposition is a fundamental technique in [financial markets](../f/financial_market.md), providing deep insights into [interest rate](../i/interest_rate.md) dynamics. The ability to decompose the [yield curve](../y/yield_curve.md) into its core components—level, slope, and curvature—enables traders, analysts, and policymakers to make informed decisions, optimize portfolios, and manage risks effectively. With advancements in statistical methods and [machine learning](../m/machine_learning.md), [yield curve](../y/yield_curve.md) modeling continues to evolve, [offering](../o/offering.md) even greater precision and predictive power in understanding [interest rate](../i/interest_rate.md) behaviors.
 
 By leveraging sophisticated [yield curve](../y/yield_curve.md) decomposition techniques, traders in the [algorithmic trading](../a/algorithmic_trading.md) space can [gain](../g/gain.md) a competitive edge, harnessing detailed insights to develop [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md) tailored to ever-changing [market](../m/market.md) conditions.

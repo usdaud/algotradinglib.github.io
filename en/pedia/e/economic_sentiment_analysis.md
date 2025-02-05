@@ -25,10 +25,10 @@ NLP allows computers to understand, interpret, and generate human language. It's
 ### Machine Learning
 Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can classify text sentiment by learning from labeled datasets. Common algorithms used include:
 
-- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: A supervised learning model used for classification tasks.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: A [supervised learning](../s/supervised_learning.md) model used for classification tasks.
 - **Naive Bayes**: A probabilistic classifier based on Bayes’ theorem.
 - **Random Forest**: An [ensemble learning](../e/ensemble_learning.md) method that operates by constructing [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md) during training.
-- **[Neural Networks](../n/neural_networks_in_trading.md)**: Advanced models like recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs) and transformers that can capture complex patterns in text data.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Advanced models like recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs) and [transformers](../t/transformers.md) that can capture complex patterns in text data.
 
 ### Sentiment Lexicons
 Sentiment lexicons are lists of words associated with positive or negative sentiment scores. Some popular lexicons include:
@@ -110,4 +110,4 @@ Environmental, Social, and Governance (ESG) criteria are becoming crucial in inv
 ### Real-time Applications
 The push for real-time [sentiment analysis](../s/sentiment_analysis.md) [will](../w/will.md) continue, particularly in high-frequency trading environments. Improved computational models and real-time data feeds [will](../w/will.md) be crucial for these applications.
 
-By leveraging the advancements in NLP and machine learning, along with the increasing availability of textual data sources, economic [sentiment analysis](../s/sentiment_analysis.md) [will](../w/will.md) continue to be an indispensable tool for [financial analysis](../f/financial_analysis.md), policy making, and investment strategies.
+By leveraging the advancements in NLP and [machine learning](../m/machine_learning.md), along with the increasing availability of textual data sources, economic [sentiment analysis](../s/sentiment_analysis.md) [will](../w/will.md) continue to be an indispensable tool for [financial analysis](../f/financial_analysis.md), policy making, and investment strategies.

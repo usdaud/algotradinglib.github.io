@@ -41,7 +41,7 @@ Identifying [trend](../t/trend.md) [reversal patterns](../r/reversal_patterns.md
 
 [Algorithmic trading](../a/algorithmic_trading.md) systems can be designed to recognize and react to [trend](../t/trend.md) [reversal patterns](../r/reversal_patterns.md). This involves:
 
-**1. Pattern Detection Algorithms**: Using machine learning models or predefined rule-based systems to identify head and shoulders, double patterns, wedges, etc.
+**1. Pattern Detection Algorithms**: Using [machine learning](../m/machine_learning.md) models or predefined rule-based systems to identify head and shoulders, double patterns, wedges, etc.
 
 **2. [Trade](../t/trade.md) [Execution](../e/execution.md)**: Automatically placing trades based on recognized patterns to [capitalize](../c/capitalize.md) on predicted [market](../m/market.md) movements.
 

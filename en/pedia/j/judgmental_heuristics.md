@@ -48,7 +48,7 @@ Traders often operate under high-pressure conditions, and stress can exacerbate 
 
 ## Practical Applications
 
-Several financial institutions [leverage](../l/leverage.md) knowledge of judgmental [heuristics](../h/heuristics.md) to refine their [algorithmic trading](../a/algorithmic_trading.md) practices. Firms like Renaissance Technologies [https://www.rentec.com/], known for their data-driven approach, incorporate extensive [backtesting](../b/backtesting.md) and machine learning to minimize human biases in their algorithms.
+Several financial institutions [leverage](../l/leverage.md) knowledge of judgmental [heuristics](../h/heuristics.md) to refine their [algorithmic trading](../a/algorithmic_trading.md) practices. Firms like Renaissance Technologies [https://www.rentec.com/], known for their data-driven approach, incorporate extensive [backtesting](../b/backtesting.md) and [machine learning](../m/machine_learning.md) to minimize human biases in their algorithms.
 
 Another example is Two Sigma [https://www.twosigma.com/], which employs advanced data science techniques to mitigate heuristic-driven errors and enhance [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

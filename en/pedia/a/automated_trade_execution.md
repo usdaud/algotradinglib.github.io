@@ -10,7 +10,7 @@ Automated [trade](../t/trade.md) [execution](../e/execution.md) is a technologic
 - **[Bloomberg](../b/bloomberg.md)**: [Bloomberg Market Data Feeds](https://www.bloomberg.com/professional/solution/market-data/)
 
 ### 2. **Trading Algorithms**
-[Trading algorithms](../t/trading_algorithms.md) are coded strategies that automatically execute trades based on predefined rules and conditions. These might involve [technical analysis](../t/technical_analysis.md), statistical models, or machine learning methods to predict price movements. [Trading algorithms](../t/trading_algorithms.md) can [range](../r/range.md) from simple (e.g., [moving average crossovers](../m/moving_average_crossovers.md)) to highly complex strategies.
+[Trading algorithms](../t/trading_algorithms.md) are coded strategies that automatically execute trades based on predefined rules and conditions. These might involve [technical analysis](../t/technical_analysis.md), statistical models, or [machine learning](../m/machine_learning.md) methods to predict price movements. [Trading algorithms](../t/trading_algorithms.md) can [range](../r/range.md) from simple (e.g., [moving average crossovers](../m/moving_average_crossovers.md)) to highly complex strategies.
 
 ### 3. **Order Management Systems (OMS)**
 An [Order Management](../o/order_management_in_trading.md) System is a software application that facilitates and manages the entire [order](../o/order.md) [life cycle](../l/life_cycle.md). It ensures that orders are executed at the best possible prices and provides essential functionalities such as [order](../o/order.md) matching, [execution](../e/execution.md), and [trade](../t/trade.md) validation.
@@ -92,7 +92,7 @@ Tech companies provide the [infrastructure](../i/infrastructure.md), software, a
 ## Future Trends
 
 ### 1. **AI and Machine Learning**
-The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) in automated [trade](../t/trade.md) [execution](../e/execution.md) is already underway. These technologies enhance [predictive analytics](../p/predictive_analytics.md) and decision-making capabilities, making automated systems more adaptive and intelligent.
+The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) in automated [trade](../t/trade.md) [execution](../e/execution.md) is already underway. These technologies enhance [predictive analytics](../p/predictive_analytics.md) and decision-making capabilities, making automated systems more adaptive and intelligent.
 
 ### 2. **Blockchain and Smart Contracts**
 [Blockchain](../b/blockchain_in_trading.md) technology offers the potential for creating decentralized [trading systems](../t/trading_systems.md), while [smart contracts](../s/smart_contracts_in_trading.md) could automate complex trading agreements and settlements.

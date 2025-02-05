@@ -58,7 +58,7 @@ Charting software provides tools for visualizing price movements and identifying
 
 ### 2. Data Analytics Platforms
 
-[Data analytics](../d/data_analytics.md) platforms help in the sophisticated analysis of historical price data. They [offer](../o/offer.md) tools for statistical analysis, machine learning, and [predictive modeling](../p/predictive_modeling.md). Some noteworthy platforms are:
+[Data analytics](../d/data_analytics.md) platforms help in the sophisticated analysis of historical price data. They [offer](../o/offer.md) tools for statistical analysis, [machine learning](../m/machine_learning.md), and [predictive modeling](../p/predictive_modeling.md). Some noteworthy platforms are:
 - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/)
 - **[Alpaca](../a/alpaca.md)**: [Alpaca](https://alpaca.markets/)
 - **Kaggle**: [Kaggle](https://www.kaggle.com/)
@@ -81,10 +81,10 @@ Statistical analysis involves the utilization of statistical methodologies to an
 
 ### 2. Machine Learning
 
-Machine learning leverages algorithms and statistical models to analyze historical price data and predict future trends. Key approaches include:
-- **Supervised Learning**: Algorithms are trained on historical data to predict future prices.
-- **Unsupervised Learning**: Identifying hidden patterns or intrinsic structures in historical data without pre-defined labels.
-- **Reinforcement Learning**: Using trial and error to discover optimal [trading strategies](../t/trading_strategies.md) based on historical price data.
+[Machine learning](../m/machine_learning.md) leverages algorithms and statistical models to analyze historical price data and predict future trends. Key approaches include:
+- **[Supervised Learning](../s/supervised_learning.md)**: Algorithms are trained on historical data to predict future prices.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Identifying hidden patterns or intrinsic structures in historical data without pre-defined labels.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Using trial and error to discover optimal [trading strategies](../t/trading_strategies.md) based on historical price data.
 
 ### 3. Sentiment Analysis
 

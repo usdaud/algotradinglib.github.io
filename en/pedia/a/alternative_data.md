@@ -4,7 +4,7 @@ Alternative data refers to data that is derived from non-traditional sources. Th
 
 ## Introduction
 
-The emergence of alternative data is closely tied to advancements in technology, particularly [big data analytics](../b/big_data_analytics_in_trading.md), machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md). These advancements have allowed [market](../m/market.md) participants to process and analyze vast amounts of non-traditional data at unprecedented speed and accuracy. 
+The emergence of alternative data is closely tied to advancements in technology, particularly [big data analytics](../b/big_data_analytics_in_trading.md), [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md). These advancements have allowed [market](../m/market.md) participants to process and analyze vast amounts of non-traditional data at unprecedented speed and accuracy. 
 
 ## Types of Alternative Data
 
@@ -80,7 +80,7 @@ Collecting, processing, and analyzing alternative data can be expensive. The hig
 
 ### Example 1: Kensho Technologies
 
-[Kensho Technologies](https://www.kensho.com/) uses machine learning and [big data analytics](../b/big_data_analytics_in_trading.md) to provide financial insights. They analyze various alternative data sources, including news articles, [social media](../s/social_media.md) posts, and [economic indicators](../e/economic_indicators.md), to forecast [market](../m/market.md) trends.
+[Kensho Technologies](https://www.kensho.com/) uses [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to provide financial insights. They analyze various alternative data sources, including news articles, [social media](../s/social_media.md) posts, and [economic indicators](../e/economic_indicators.md), to forecast [market](../m/market.md) trends.
 
 ### Example 2: Quantopian and the Twitter Sentiment Approach
 

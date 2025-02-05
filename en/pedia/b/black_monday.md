@@ -49,7 +49,7 @@ The impact of Black Monday on algotrading has been profound. In the years follow
 Technological advancements have been a cornerstone of modern algo trading. Developments include:
 1. **Advanced Computing**: High-performance computing systems enable the rapid processing of vast amounts of data.
 2. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: The use of large datasets to inform trading decisions.
-3. **Machine Learning**: [Artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) help identify patterns and make [predictive models](../p/predictive_models_in_trading.md).
+3. **[Machine Learning](../m/machine_learning.md)**: [Artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) help identify patterns and make [predictive models](../p/predictive_models_in_trading.md).
 4. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies**: The emergence of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies has added new dimensions to [trading strategies](../t/trading_strategies.md) and mechanisms.
 
 ## Regulatory Changes

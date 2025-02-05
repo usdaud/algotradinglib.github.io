@@ -48,7 +48,7 @@ To maintain an optimized [gross margin](../g/gross_margin.md) strategy, continuo
 ### Algorithm Development
 Custom algorithms can be designed to enhance [gross margin](../g/gross_margin.md). These include:
 
-- **Machine Learning Models**: Utilizing machine learning to predict [market](../m/market.md) movements and optimize [trade](../t/trade.md) [execution](../e/execution.md).
+- **[Machine Learning](../m/machine_learning.md) Models**: Utilizing [machine learning](../m/machine_learning.md) to predict [market](../m/market.md) movements and optimize [trade](../t/trade.md) [execution](../e/execution.md).
 - **[Backtesting](../b/backtesting.md)**: Continuously [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) against historical data to ensure their robustness.
 - **Algorithm Refinement**: Regularly updating and refining algorithms based on real-world performance data.
 
@@ -61,7 +61,7 @@ Renaissance Technologies is renowned for its scientific approach to [algorithmic
 Citadel Securities focuses on leveraging advanced technology and [quantitative strategies](../q/quantitative_strategies_in_trading.md) to achieve superior [trade](../t/trade.md) [execution](../e/execution.md) and minimize operational costs. They invest heavily in [infrastructure](../i/infrastructure.md) to reduce latency and improve [execution](../e/execution.md) quality. More information is available [here](https://www.citadelsecurities.com/).
 
 ### Two Sigma
-Two Sigma utilizes machine learning and [big data analytics](../b/big_data_analytics_in_trading.md) to enhance their [trading strategies](../t/trading_strategies.md). Their approach involves continuous refinement of algorithms to optimize performance and control costs, thereby improving gross margins. Learn more about their methods [here](https://www.twosigma.com/).
+Two Sigma utilizes [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to enhance their [trading strategies](../t/trading_strategies.md). Their approach involves continuous refinement of algorithms to optimize performance and control costs, thereby improving gross margins. Learn more about their methods [here](https://www.twosigma.com/).
 
 ## Conclusion
 [Gross margin](../g/gross_margin.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) are essential for maximizing profitability. By focusing on cost management, optimizing [trade](../t/trade.md) [execution](../e/execution.md), managing risks, and leveraging advanced algorithms, traders can significantly enhance their gross margins. Continuous performance monitoring and algorithm refinement are critical to sustaining these improvements in a dynamic [market](../m/market.md) environment.

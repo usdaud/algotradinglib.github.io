@@ -38,7 +38,7 @@ By analyzing historical earnings trends, algorithms can identify consistent grow
 Earnings are a core [factor](../f/factor.md) in [multi-factor models](../m/multi-factor_models.md), which incorporate various financial metrics to evaluate [stocks](../s/stock.md). Factors like earnings [momentum](../m/momentum.md) are integrated to enhance [portfolio performance](../p/portfolio_performance.md).
 
 ### 4. **Machine Learning Models**
-Advanced machine learning techniques, including [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), are employed to analyze [earnings call](../e/earnings_call.md) transcripts, financial reports, and other unstructured data to generate [trading signals](../t/trading_signals.md).
+Advanced [machine learning](../m/machine_learning.md) techniques, including [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), are employed to analyze [earnings call](../e/earnings_call.md) transcripts, financial reports, and other unstructured data to generate [trading signals](../t/trading_signals.md).
 
 ## Key Earnings Metrics
 
@@ -60,7 +60,7 @@ These margins indicate the percentage of [revenue](../r/revenue.md) that transla
 ## Case Studies: Companies Using Earnings in Algorithmic Trading
 
 ### 1. **Two Sigma**
-Two Sigma, a notable quantitative [hedge fund](../h/hedge_fund.md), leverages vast datasets, including earnings data, to execute high-frequency [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) integrates earnings analysis into its machine learning models to predict stock price movements. [Two Sigma](https://www.twosigma.com/)
+Two Sigma, a notable quantitative [hedge fund](../h/hedge_fund.md), leverages vast datasets, including earnings data, to execute high-frequency [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) integrates earnings analysis into its [machine learning](../m/machine_learning.md) models to predict stock price movements. [Two Sigma](https://www.twosigma.com/)
 
 ### 2. **Renaissance Technologies**
 Renowned for its Medallion [Fund](../f/fund.md), Renaissance Technologies employs complex algorithms that incorporate various earnings metrics to achieve unparalleled returns. By analyzing patterns in earnings reports, they identify profitable trading opportunities. [Renaissance Technologies](https://www.rentec.com/)
@@ -99,7 +99,7 @@ Understanding and adjusting for non-recurring items, different [accounting](../a
 ## Future Trends in Earnings Analysis for Algorithmic Trading
 
 ### 1. **AI and Machine Learning**
-The application of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning models is expected to increase, providing more accurate predictions based on complex, multi-source data.
+The application of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) models is expected to increase, providing more accurate predictions based on complex, multi-source data.
 
 ### 2. **Real-time Data Processing**
 Advancements in technology [will](../w/will.md) enable more real-time processing of earnings data, enhancing the speed and precision of [algorithmic trading](../a/accountability.md) decisions.

@@ -46,7 +46,7 @@ Companies like Apple and PepsiCo have also entered the green [bond market](../b/
 [Mean reversion](../m/mean_reversion.md) strategies based on the statistical analysis of [green bond](../g/green_bond.md) prices can be utilized. Algorithms can be designed to buy [undervalued](../u/undervalued.md) bonds and sell [overvalued](../o/overvalued.md) ones, contributing to [market efficiency](../m/market_efficiency.md).
 
 ### 3. Machine Learning Models
-Machine learning models can predict the performance of green bonds by analyzing historical data, environmental metrics, and relevant news articles. These [predictive models](../p/predictive_models_in_trading.md) can inform trading decisions and [risk management](../r/risk_management.md).
+[Machine learning](../m/machine_learning.md) models can predict the performance of green bonds by analyzing historical data, environmental metrics, and relevant news articles. These [predictive models](../p/predictive_models_in_trading.md) can inform trading decisions and [risk management](../r/risk_management.md).
 
 ## Risks and Challenges
 

@@ -68,7 +68,7 @@ Recent advances in technology are contributing to more accurate MFL assessments:
 The Internet of Things (IoT) provides real-time monitoring of critical systems. Sensors can detect early signs of failures in fire protection systems, and [predictive analytics](../p/predictive_analytics.md) can flag potential issues before they escalate into catastrophic scenarios.
 
 ### 3. Data Analytics
-[Big data analytics](../b/big_data_analytics_in_trading.md) allows for the integration of vast historical loss data from all over the world, improving the accuracy and reliability of MFL estimations. Machine learning models can predict potential loss scenarios based on diverse datasets.
+[Big data analytics](../b/big_data_analytics_in_trading.md) allows for the integration of vast historical loss data from all over the world, improving the accuracy and reliability of MFL estimations. [Machine learning](../m/machine_learning.md) models can predict potential loss scenarios based on diverse datasets.
 
 ### 4. Drones and Robotics
 Drones and robotics are increasingly being used for site assessments and inspections of hard-to-reach areas, giving a more thorough and precise evaluation of potential risks.

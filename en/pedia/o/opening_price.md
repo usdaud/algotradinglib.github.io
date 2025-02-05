@@ -55,7 +55,7 @@ Traders monitor [pre-market](../p/pre-market.md) news and economic releases to a
 In [algorithmic trading](../a/accountability.md), the opening price is used as a critical data point. Algorithms analyze historical opening prices to detect patterns and forecast future price movements. This data is also used for [backtesting](../b/backtesting.md) strategies to evaluate their performance.
 
 ### Machine Learning Models
-Machine learning models utilize opening prices as input features to predict intraday price movements. These models help in developing strategies that can adapt to [market](../m/market.md) changes and exploit the opening price's [volatility](../v/volatility.md).
+[Machine learning](../m/machine_learning.md) models utilize opening prices as input features to predict intraday price movements. These models help in developing strategies that can adapt to [market](../m/market.md) changes and exploit the opening price's [volatility](../v/volatility.md).
 
 ### Automated Execution
 Algorithms are programmed to execute trades based on predetermined conditions related to the opening price. This could include executing trades when the opening price diverges significantly from expected levels or when specific [technical indicators](../t/technical_indicator.md) are met.

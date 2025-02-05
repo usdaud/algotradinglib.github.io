@@ -47,7 +47,7 @@ Several platforms and tools enable the use of leading indicators in [algorithmic
 ## Future Trends
 
 ### 1. **Machine Learning and AI:**
-   With advancements in machine learning and AI, the predictive power of leading indicators can be significantly enhanced. AI systems can analyze vast amounts of data to identify patterns that traditional methods might miss.
+   With advancements in [machine learning](../m/machine_learning.md) and AI, the predictive power of leading indicators can be significantly enhanced. AI systems can analyze vast amounts of data to identify patterns that traditional methods might miss.
 
 ### 2. **Integration with Big Data:**
    The integration of [big data analytics](../b/big_data_analytics_in_trading.md) allows for more accurate predictions. Algorithms can analyze [social media sentiment](../s/social_media_sentiment.md), news reports, and other unconventional data sources to [gain](../g/gain.md) additional insights.

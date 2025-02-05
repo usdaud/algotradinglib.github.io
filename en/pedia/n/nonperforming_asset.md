@@ -88,7 +88,7 @@ Different countries may have specific regulations and practices for managing NPA
 Modern-day financial institutions are increasingly leveraging advanced analytical tools and technologies to identify, monitor, and manage NPAs:
 
 ### Predictive Analytics
-Using machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), [predictive analytics](../p/predictive_analytics.md) can help in identifying potential NPAs before they actually turn non-performing. Models can be trained to analyze borrower behavior, [payment](../p/payment.md) history, [credit](../c/credit.md) scores, and other relevant data to predict the [risk](../r/risk.md) of [default](../d/default.md).
+Using [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), [predictive analytics](../p/predictive_analytics.md) can help in identifying potential NPAs before they actually turn non-performing. Models can be trained to analyze borrower behavior, [payment](../p/payment.md) history, [credit](../c/credit.md) scores, and other relevant data to predict the [risk](../r/risk.md) of [default](../d/default.md).
 
 ### Blockchain Technology
 [Blockchain](../b/blockchain_in_trading.md) offers potential solutions for transparent and tamper-proof [transaction](../t/transaction.md) records. It can help in tracking the usage of [loan](../l/loan.md) funds and ensuring they are used for their intended purposes, thus reducing instances of willful [default](../d/default.md).

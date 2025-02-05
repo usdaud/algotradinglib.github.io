@@ -88,7 +88,7 @@ The [arbitrageur](../a/arbitrageur.md) buys the bonds at $20 and anticipates a r
 
 ## Statistical Arbitrage in Bonds
 
-**Statistical [arbitrage](../a/arbitrage.md)** exploits statistical mispricings between related [bond](../b/bond.md) instruments. By using [quantitative models](../q/quantitative_models.md), analysts identify and [trade](../t/trade.md) price discrepancies that are expected to converge over time. Machine learning and advanced statistical methods play a significant role in this strategy.
+**Statistical [arbitrage](../a/arbitrage.md)** exploits statistical mispricings between related [bond](../b/bond.md) instruments. By using [quantitative models](../q/quantitative_models.md), analysts identify and [trade](../t/trade.md) price discrepancies that are expected to converge over time. [Machine learning](../m/machine_learning.md) and advanced statistical methods play a significant role in this strategy.
 
 ### Example of Statistical Arbitrage
 

@@ -47,7 +47,7 @@ Many platforms around the world have embraced the P2B model, facilitating countl
 ## Technological Framework
 P2B platforms rely on [robust](../r/robust.md) technological [infrastructure](../i/infrastructure.md) to ensure secure, efficient, and transparent operations. Key components include:
 - **[Blockchain](../b/blockchain_in_trading.md) Technology**: Some P2B platforms utilize [blockchain](../b/blockchain_in_trading.md) to enhance [security](../s/security.md) and [transparency](../t/transparency.md) through immutable ledgers.
-- **AI and Machine Learning**: Advanced algorithms can be employed for [credit risk](../c/credit_risk.md) assessment, [loan](../l/loan.md) matching, and [fraud](../f/fraud.md) detection.
+- **AI and [Machine Learning](../m/machine_learning.md)**: Advanced algorithms can be employed for [credit risk](../c/credit_risk.md) assessment, [loan](../l/loan.md) matching, and [fraud](../f/fraud.md) detection.
 - **[Smart Contracts](../s/smart_contracts_in_trading.md)**: Automated enforcement of contract terms can be facilitated through [smart contracts](../s/smart_contracts_in_trading.md), reducing reliance on intermediaries.
 
 ## Regulatory Landscape

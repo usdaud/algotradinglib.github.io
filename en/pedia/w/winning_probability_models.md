@@ -16,7 +16,7 @@
 - **Assumption of Stationarity**: Assumes that past conditions [will](../w/will.md) continue into the future.
 
 ### 2. Machine Learning Models
-Machine learning models utilize a variety of algorithms to forecast winning probabilities. Techniques such as [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) are common in this domain. These models can learn complex patterns and relationships from historical data to make future predictions.
+[Machine learning](../m/machine_learning.md) models utilize a variety of algorithms to forecast winning probabilities. Techniques such as [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) are common in this domain. These models can learn complex patterns and relationships from historical data to make future predictions.
 
 #### Advantages:
 - **Complex [Pattern Recognition](../p/pattern_recognition.md)**: Capable of identifying complex nonlinear relationships.
@@ -79,16 +79,16 @@ In high-frequency trading, [winning probability](../w/winning_probability.md) mo
 ## Companies Using Winning Probability Models
 
 ### 1. Renaissance Technologies
-[Renaissance Technologies](https://www.rentec.com/) is known for its use of [quantitative models](../q/quantitative_models.md) and computer algorithms to [trade](../t/trade.md) in various markets. The [firm](../f/firm.md) employs a variety of statistical and machine learning models to predict the [winning probability](../w/winning_probability.md) of trades.
+[Renaissance Technologies](https://www.rentec.com/) is known for its use of [quantitative models](../q/quantitative_models.md) and computer algorithms to [trade](../t/trade.md) in various markets. The [firm](../f/firm.md) employs a variety of statistical and [machine learning](../m/machine_learning.md) models to predict the [winning probability](../w/winning_probability.md) of trades.
 
 ### 2. Two Sigma
-[Two Sigma](https://www.twosigma.com/) leverages [data science](../d/data_science_in_trading.md) and technology to develop [trading models](../t/trading_models.md). Their approach includes the use of machine learning and advanced statistical methods to improve [trade](../t/trade.md) predictions.
+[Two Sigma](https://www.twosigma.com/) leverages [data science](../d/data_science_in_trading.md) and technology to develop [trading models](../t/trading_models.md). Their approach includes the use of [machine learning](../m/machine_learning.md) and advanced statistical methods to improve [trade](../t/trade.md) predictions.
 
 ### 3. Citadel
 [Citadel](https://www.citadel.com/) uses sophisticated [quantitative models](../q/quantitative_models.md) to manage investments. The [firm](../f/firm.md) employs a [range](../r/range.md) of probabilistic models to enhance the accuracy of its [trading strategies](../t/trading_strategies.md).
 
 ### 4. AQR Capital Management
-[AQR Capital Management](https://www.aqr.com/) integrates [quantitative research](../q/quantitative_research.md) with investment strategies. Their models include [historical simulation](../h/historical_simulation.md), [time series analysis](../t/time_series_analysis.md), and machine learning to predict [trade](../t/trade.md) outcomes.
+[AQR Capital Management](https://www.aqr.com/) integrates [quantitative research](../q/quantitative_research.md) with investment strategies. Their models include [historical simulation](../h/historical_simulation.md), [time series analysis](../t/time_series_analysis.md), and [machine learning](../m/machine_learning.md) to predict [trade](../t/trade.md) outcomes.
 
 ## Challenges and Future Directions
 

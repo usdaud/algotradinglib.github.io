@@ -64,7 +64,7 @@ The [order book](../o/order_book.md) reveals the current bids and asks, providin
 
 #### Implementation:
 - **Auction Algorithms**: Utilize [Dutch auction](../d/dutch_auction.md) algorithms to allow the [market](../m/market.md) to set the price, ensuring maximum participation.
-- **Book-Building Models**: Use machine learning models to analyze [investor](../i/investor.md) [demand](../d/demand.md) and set a suitable IPO price [range](../r/range.md).
+- **Book-Building Models**: Use [machine learning](../m/machine_learning.md) models to analyze [investor](../i/investor.md) [demand](../d/demand.md) and set a suitable IPO price [range](../r/range.md).
 
 #### 7. Insider Trading Analysis
 
@@ -72,7 +72,7 @@ Algotrading can help detect suspicious activities that might indicate [insider t
 
 #### Implementation:
 - **[Pattern Recognition](../p/pattern_recognition.md)**: Employ machine [learning algorithms](../l/learning_algorithms_in_trading.md) to identify [unusual trading patterns](../u/unusual_trading_patterns.md).
-- **[Anomaly Detection](../a/anomaly_detection.md) Tools**: Use tools like Scikit-Learn or TensorFlow to build models for [anomaly detection](../a/anomaly_detection.md).
+- **[Anomaly Detection](../a/anomaly_detection.md) Tools**: Use tools like Scikit-Learn or [TensorFlow](../t/tensorflow.md) to build models for [anomaly detection](../a/anomaly_detection.md).
 
 ### Companies Offering Algotrading Solutions for IPOs
 
@@ -95,7 +95,7 @@ Trading Technologies specializes in sophisticated trading solutions, including a
 Website: [Trading Technologies](https://www.tradingtechnologies.com)
 
 #### 5. **Kavout**
-Kavout leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to provide [trading signals](../t/trading_signals.md) and predictions, beneficial for IPO strategies.
+Kavout leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to provide [trading signals](../t/trading_signals.md) and predictions, beneficial for IPO strategies.
 Website: [Kavout](https://www.kavout.com)
 
 ### Risks and Challenges in Algotrading for IPOs

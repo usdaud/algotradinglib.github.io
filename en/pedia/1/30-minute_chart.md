@@ -72,7 +72,7 @@ Before live trading, algorithms are backtested on historical 30-minute chart dat
 
 Algorithms use real-time 30-minute chart data for generating buy/sell signals.
 - **Multi-[Indicator](../i/indicator.md) Strategy**: Combine different indicators for [robust](../r/robust.md) signal generation.
-- **Machine Learning**: Implement ML techniques to adapt to changing [market](../m/market.md) conditions in real-time.
+- **[Machine Learning](../m/machine_learning.md)**: Implement ML techniques to adapt to changing [market](../m/market.md) conditions in real-time.
 
 ### Risk Management
 

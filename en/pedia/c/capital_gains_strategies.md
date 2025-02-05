@@ -86,15 +86,15 @@ Algorithms use these models to identify patterns, trends, and predictive signals
 
 ## Machine Learning
 
-Machine learning involves training algorithms on large datasets to identify patterns and make decisions with minimal human intervention.
+[Machine learning](../m/machine_learning.md) involves training algorithms on large datasets to identify patterns and make decisions with minimal human intervention.
 
 ### Key Concepts:
-- **Supervised Learning:** Uses labeled training data to teach models to make predictions or decisions.
-- **Unsupervised Learning:** Finds hidden patterns or intrinsic structures in input data without labeled responses.
-- **Reinforcement Learning:** Learns to make sequences of decisions by optimizing a cumulative reward.
+- **[Supervised Learning](../s/supervised_learning.md):** Uses labeled training data to teach models to make predictions or decisions.
+- **[Unsupervised Learning](../u/unsupervised_learning.md):** Finds hidden patterns or intrinsic structures in input data without labeled responses.
+- **[Reinforcement Learning](../r/reinforcement_learning.md):** Learns to make sequences of decisions by optimizing a cumulative reward.
 
 ### Algorithmic Approach:
-Algorithms can be trained using supervised learning methods to predict price movements, segregate assets into classes, or recognize complex patterns. Reinforcement learning can optimize [trading strategies](../t/trading_strategies.md) in real-time by receiving feedback from mini-batches of trading data.
+Algorithms can be trained using [supervised learning](../s/supervised_learning.md) methods to predict price movements, segregate assets into classes, or recognize complex patterns. [Reinforcement learning](../r/reinforcement_learning.md) can optimize [trading strategies](../t/trading_strategies.md) in real-time by receiving feedback from mini-batches of trading data.
 
 ## High-Frequency Trading (HFT)
 

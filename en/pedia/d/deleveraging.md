@@ -70,7 +70,7 @@ Several financial institutions, [hedge](../h/hedge.md) funds, and technology com
 
 2. **Renaissance Technologies:** Known for its Medallion [Fund](../f/fund.md), the [firm](../f/firm.md) employs [quantitative models](../q/quantitative_models.md) that can [handle](../h/handle.md) various [market](../m/market.md) conditions, including periods of deleveraging.
 
-3. **Two Sigma:** Another leading quantitative [hedge fund](../h/hedge_fund.md), Two Sigma uses machine learning to adapt to [market](../m/market.md) changes, such as those caused by deleveraging [Two Sigma](https://www.twosigma.com).
+3. **Two Sigma:** Another leading quantitative [hedge fund](../h/hedge_fund.md), Two Sigma uses [machine learning](../m/machine_learning.md) to adapt to [market](../m/market.md) changes, such as those caused by deleveraging [Two Sigma](https://www.twosigma.com).
 
 ## Conclusion
 

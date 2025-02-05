@@ -74,7 +74,7 @@ Link: [Bridgewater Associates](https://www.bridgewater.com/)
 
 As [financial markets](../f/financial_market.md) become more complex and interconnected, the efficacy of simple [negative correlation](../n/negative_correlation.md) strategies may diminish. Here are some burgeoning trends and technologies that could influence their future:
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: AI can uncover patterns and relationships between assets that traditional models might miss. Machine [Learning algorithms](../l/learning_algorithms_in_trading.md), such as reinforcement learning and [neural networks](../n/neural_networks_in_trading.md), are increasingly being used to refine [negative correlation](../n/negative_correlation.md) strategies.
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: AI can uncover patterns and relationships between assets that traditional models might miss. Machine [Learning algorithms](../l/learning_algorithms_in_trading.md), such as [reinforcement learning](../r/reinforcement_learning.md) and [neural networks](../n/neural_networks_in_trading.md), are increasingly being used to refine [negative correlation](../n/negative_correlation.md) strategies.
 
 2. **[Alternative Data](../a/alternative_data.md)**: Traditional price and [volume](../v/volume.md) data are being supplemented with [alternative data](../a/alternative_data.md) sources such as [social media sentiment](../s/social_media_sentiment.md), satellite images, and [transaction](../t/transaction.md) data, [offering](../o/offering.md) new avenues for identifying negatively correlated assets.
 

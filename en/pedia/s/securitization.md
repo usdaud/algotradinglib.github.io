@@ -148,7 +148,7 @@ There is a growing [trend](../t/trend.md) toward the securitization of sustainab
 
 ### Artificial Intelligence (AI) and Machine Learning
 
-AI and machine learning are being utilized to enhance [risk](../r/risk.md) assessment and [asset valuation](../a/asset_valuation.md) in securitization. These technologies enable sophisticated modeling of [credit risk](../c/credit_risk.md), [market](../m/market.md) behavior, and [asset](../a/asset.md) performance, leading to more accurate pricing and [risk management](../r/risk_management.md).
+AI and [machine learning](../m/machine_learning.md) are being utilized to enhance [risk](../r/risk.md) assessment and [asset valuation](../a/asset_valuation.md) in securitization. These technologies enable sophisticated modeling of [credit risk](../c/credit_risk.md), [market](../m/market.md) behavior, and [asset](../a/asset.md) performance, leading to more accurate pricing and [risk management](../r/risk_management.md).
 
 ## Key Players in the Securitization Market
 

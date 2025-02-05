@@ -75,7 +75,7 @@ Environmental and social [accounting](../a/accounting.md), or sustainability [ac
 
 ## Big Data and Technology in Accounting
 
-[Big data](../b/big_data_in_trading.md) and technological advancements are reshaping [accounting](../a/accounting.md) theory and practice. [Data analytics](../d/data_analytics.md), machine learning, and [blockchain](../b/blockchain_in_trading.md) technology are enhancing the accuracy, [efficiency](../e/efficiency.md), and [transparency](../t/transparency.md) of financial reporting systems.
+[Big data](../b/big_data_in_trading.md) and technological advancements are reshaping [accounting](../a/accounting.md) theory and practice. [Data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md) technology are enhancing the accuracy, [efficiency](../e/efficiency.md), and [transparency](../t/transparency.md) of financial reporting systems.
 
 ## Ethical Considerations
 

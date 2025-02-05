@@ -112,7 +112,7 @@ Several tools and libraries can facilitate the implementation of logistic regres
 
 Python is a widely-used programming language in the [finance](../f/finance.md) [industry](../i/industry.md) due to its simplicity and the availability of powerful libraries. Key libraries for logistic regression in trading include:
 
-- **Scikit-learn**: A machine learning library that provides simple and efficient tools for [data mining](../d/data_mining.md) and analysis. It includes functions for logistic regression, model evaluation, and feature selection.
+- **Scikit-learn**: A [machine learning](../m/machine_learning.md) library that provides simple and efficient tools for [data mining](../d/data_mining.md) and analysis. It includes functions for logistic regression, model evaluation, and feature selection.
   
   [Scikit-learn](https://scikit-learn.org/)
 
@@ -134,7 +134,7 @@ R is another powerful language for statistical computing and is widely used in a
 
 - **glm() function** in the base stats package for fitting [generalized linear models](../g/generalized_linear_models.md), including logistic regression.
 
-- **caret**: A package containing tools for training and evaluating machine learning models, including logistic regression.
+- **caret**: A package containing tools for training and evaluating [machine learning](../m/machine_learning.md) models, including logistic regression.
   
   [Caret](https://topepo.github.io/caret/)
 

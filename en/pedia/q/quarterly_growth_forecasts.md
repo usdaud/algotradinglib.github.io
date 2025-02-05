@@ -32,7 +32,7 @@ Econometric models use statistical methods to quantify economic theories and for
 - **Vector Autoregression (VAR)**: Captures the linear interdependencies among [multiple](../m/multiple.md) [time series](../t/time_series.md).
 
 ### Machine Learning
-Machine learning involves training algorithms to recognize patterns and make predictions based on large datasets.
+[Machine learning](../m/machine_learning.md) involves training algorithms to recognize patterns and make predictions based on large datasets.
 
 #### Techniques
 - **[Neural Networks](../n/neural_networks_in_trading.md)**: Mimics the human brain's network of neurons to find complex patterns.
@@ -56,7 +56,7 @@ Growth forecasts aid in adjusting the portfolio to achieve the desired balance o
 ## Case Study: Quarterly Growth Forecasts in Practice
 
 ### J.P. Morgan
-J.P. Morgan utilizes advanced econometric models and machine learning techniques to produce in-depth quarterly growth forecasts. These forecasts contribute to [asset management](../a/asset_management.md) strategies and guide investment decisions.
+J.P. Morgan utilizes advanced econometric models and [machine learning](../m/machine_learning.md) techniques to produce in-depth quarterly growth forecasts. These forecasts contribute to [asset management](../a/asset_management.md) strategies and guide investment decisions.
 
 **For more information, visit [J.P. Morgan's Research Portal](https://www.jpmorgan.com/insights/research).**
 
@@ -74,10 +74,10 @@ Accurate forecasts depend on the quality and comprehensiveness of the input data
 Models may not account for unexpected events or structural changes in the [market](../m/market.md), leading to inaccurate predictions.
 
 ### Overfitting
-In machine learning, [overfitting](../o/overfitting.md) occurs when a model is too complex and captures [noise](../n/noise.md) rather than the [underlying](../u/underlying.md) [trend](../t/trend.md). This can make the model less generalizable.
+In [machine learning](../m/machine_learning.md), [overfitting](../o/overfitting.md) occurs when a model is too complex and captures [noise](../n/noise.md) rather than the [underlying](../u/underlying.md) [trend](../t/trend.md). This can make the model less generalizable.
 
 ### External Shocks
 Unpredictable events such as natural disasters, political upheaval, or pandemics can render forecasts useless.
 
 ## Conclusion
-Quarterly growth forecasts are a cornerstone of [financial analysis](../f/financial_analysis.md) in the realm of [algorithmic trading](../a/algorithmic_trading.md). They involve a meticulous combination of historical data, econometric models, and machine learning techniques. Despite their complexity and inherent risks, these forecasts provide invaluable insights that, when used correctly, can significantly enhance [trading strategies](../t/trading_strategies.md) and investment decisions.
+Quarterly growth forecasts are a cornerstone of [financial analysis](../f/financial_analysis.md) in the realm of [algorithmic trading](../a/algorithmic_trading.md). They involve a meticulous combination of historical data, econometric models, and [machine learning](../m/machine_learning.md) techniques. Despite their complexity and inherent risks, these forecasts provide invaluable insights that, when used correctly, can significantly enhance [trading strategies](../t/trading_strategies.md) and investment decisions.

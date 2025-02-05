@@ -110,7 +110,7 @@ The TSE is one of the largest stock exchanges in Asia, known for its deep [order
 Regulatory changes and compliance requirements can influence [market](../m/market.md) [liquidity](../l/liquidity.md). Striking a balance between ensuring [market](../m/market.md) integrity and promoting [liquidity](../l/liquidity.md) remains a key focus for regulators and [market](../m/market.md) participants.
 
 ### 3. Technological Advancements
-Ongoing advancements in trading technology, including [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [blockchain](../b/blockchain_in_trading.md), [will](../w/will.md) continue to shape the future of [order book](../o/order_book.md) [liquidity](../l/liquidity.md). These innovations [hold](../h/hold.md) the potential to further enhance [efficiency](../e/efficiency.md) and [transparency](../t/transparency.md) in trading.
+Ongoing advancements in trading technology, including [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md), [will](../w/will.md) continue to shape the future of [order book](../o/order_book.md) [liquidity](../l/liquidity.md). These innovations [hold](../h/hold.md) the potential to further enhance [efficiency](../e/efficiency.md) and [transparency](../t/transparency.md) in trading.
 
 ## Conclusion
 

@@ -88,7 +88,7 @@ Wage push [inflation](../i/inflation.md) is a subset of [cost-push inflation](..
 
 In the context of [algorithmic trading](../a/accountability.md), understanding wage push [inflation](../i/inflation.md) can be critical for developing models that predict price movements and [inflation](../i/inflation.md) trends. Algo traders can use statistical models to analyze [economic indicators](../e/economic_indicators.md) related to wages and [labor market](../l/labor_market.md) conditions to forecast inflationary pressures. Key aspects include:
 - **Data Analysis**: Incorporating economic data on wages, employment rates, and labor [market dynamics](../m/market_dynamics.md) into [trading algorithms](../t/trading_algorithms.md).
-- **[Predictive Modeling](../p/predictive_modeling.md)**: Using machine learning techniques to predict the impact of wage changes on [inflation](../i/inflation.md) and [market](../m/market.md) prices.
+- **[Predictive Modeling](../p/predictive_modeling.md)**: Using [machine learning](../m/machine_learning.md) techniques to predict the impact of wage changes on [inflation](../i/inflation.md) and [market](../m/market.md) prices.
 - **[Hedging Strategies](../h/hedging_strategies.md)**: Developing strategies to [hedge](../h/hedge.md) against [inflation](../i/inflation.md)-related risks through commodities, [inflation-protected securities](../i/inflation-protected_securities.md), or other financial instruments.
 
 ### Financial Technology (Fintech)

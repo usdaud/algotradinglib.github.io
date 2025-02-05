@@ -40,7 +40,7 @@ To implement Adjusted EBITDA in a trading algorithm, consider the following:
    
 2. **Normalization**: Normalize the data to account for seasonal patterns or other cyclic changes.
    
-3. **Statistical Analysis**: Employ statistical methods to identify and filter out non-recurring items. Machine learning techniques like [anomaly detection](../a/anomaly_detection.md) can also be useful.
+3. **Statistical Analysis**: Employ statistical methods to identify and filter out non-recurring items. [Machine learning](../m/machine_learning.md) techniques like [anomaly detection](../a/anomaly_detection.md) can also be useful.
    
 4. **[Backtesting](../b/backtesting.md)**: Integrate Adjusted EBITDA into your [trading models](../t/trading_models.md) and backtest them to evaluate performance under various [market](../m/market.md) conditions.
 

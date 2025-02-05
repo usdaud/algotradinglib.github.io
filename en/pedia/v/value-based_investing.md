@@ -68,7 +68,7 @@ Several financial metrics are predominant in [value](../v/value.md)-based [inves
 
 With advancements in technology and the rise of [algorithmic trading](../a/algorithmic_trading.md), [value](../v/value.md)-based [investing](../i/investing.md) has also seen new tools and methodologies:
 
-- **[Data Analytics](../d/data_analytics.md) and Machine Learning**: These tools help in processing vast amounts of financial data to identify [undervalued](../u/undervalued.md) [stocks](../s/stock.md) more efficiently.
+- **[Data Analytics](../d/data_analytics.md) and [Machine Learning](../m/machine_learning.md)**: These tools help in processing vast amounts of financial data to identify [undervalued](../u/undervalued.md) [stocks](../s/stock.md) more efficiently.
   
 - **Automated Financial Models**: Algorithms can automate the calculation of intrinsic values and screen for investment opportunities, making the process quicker and more accurate.
   

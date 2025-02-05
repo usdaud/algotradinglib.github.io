@@ -116,7 +116,7 @@ Regulators ensure that markets operate fairly and efficiently. Examples include 
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are increasingly being used in [financial markets](../f/financial_market.md) for [predictive analytics](../p/predictive_analytics.md), [risk management](../r/risk_management.md), and [trading strategy](../t/trading_strategy.md) development.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are increasingly being used in [financial markets](../f/financial_market.md) for [predictive analytics](../p/predictive_analytics.md), [risk management](../r/risk_management.md), and [trading strategy](../t/trading_strategy.md) development.
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Decision Tree
 
-A Decision Tree is a decision support tool that uses a tree-like model of decisions and their possible consequences. It is a powerful and versatile machine learning algorithm capable of performing both classification and regression tasks, and even multi-output tasks. In the context of [algorithmic trading](../a/accountability.md), [decision trees](../d/decision_trees.md) are frequently used to create [predictive models](../p/predictive_models_in_trading.md) to forecast stock prices, detect trends, and automate [trading strategies](../t/trading_strategies.md). 
+A Decision Tree is a decision support tool that uses a tree-like model of decisions and their possible consequences. It is a powerful and versatile [machine learning](../m/machine_learning.md) algorithm capable of performing both classification and regression tasks, and even multi-output tasks. In the context of [algorithmic trading](../a/accountability.md), [decision trees](../d/decision_trees.md) are frequently used to create [predictive models](../p/predictive_models_in_trading.md) to forecast stock prices, detect trends, and automate [trading strategies](../t/trading_strategies.md). 
 
 ## Introduction
 
@@ -124,4 +124,4 @@ Several libraries and frameworks provide efficient implementations for [decision
 
 ## Conclusion
 
-[Decision Trees](../d/decision_trees.md) are a [robust](../r/robust.md), flexible machine learning algorithm suitable for both classification and regression within [algorithmic trading](../a/accountability.md). Despite their susceptibility to [overfitting](../o/overfitting.md), techniques such as pruning and the use of ensemble methods can help mitigate some of these issues. Their intuitive structure makes them an excellent choice for those aiming to delve into machine learning-driven [trading strategies](../t/trading_strategies.md).
+[Decision Trees](../d/decision_trees.md) are a [robust](../r/robust.md), flexible [machine learning](../m/machine_learning.md) algorithm suitable for both classification and regression within [algorithmic trading](../a/accountability.md). Despite their susceptibility to [overfitting](../o/overfitting.md), techniques such as pruning and the use of ensemble methods can help mitigate some of these issues. Their intuitive structure makes them an excellent choice for those aiming to delve into [machine learning](../m/machine_learning.md)-driven [trading strategies](../t/trading_strategies.md).

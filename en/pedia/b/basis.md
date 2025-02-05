@@ -58,10 +58,10 @@ Hedging involves taking a position in a [futures market](../f/futures_market.md)
 
 ### Machine Learning Applications
 
-Machine learning techniques can also play a vital role in predicting basis changes. Algorithms can identify complex patterns that might not be evident through traditional analysis.
+[Machine learning](../m/machine_learning.md) techniques can also play a vital role in predicting basis changes. Algorithms can identify complex patterns that might not be evident through traditional analysis.
 
-1. **Supervised Learning**: Techniques like [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [artificial neural networks](../a/artificial_neural_networks.md) can be trained on historical data to predict future basis movements.
-2. **Unsupervised Learning**: [Clustering algorithms](../c/clustering_algorithms.md) can group similar [market](../m/market.md) conditions, aiding in basis analysis.
+1. **[Supervised Learning](../s/supervised_learning.md)**: Techniques like [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [artificial neural networks](../a/artificial_neural_networks.md) can be trained on historical data to predict future basis movements.
+2. **[Unsupervised Learning](../u/unsupervised_learning.md)**: [Clustering algorithms](../c/clustering_algorithms.md) can group similar [market](../m/market.md) conditions, aiding in basis analysis.
 
 ## Practical Applications
 
@@ -88,4 +88,4 @@ Several brokers [offer](../o/offer.md) [robust](../r/robust.md) APIs and data fe
 
 ## Conclusion
 
-Understanding basis and its applications in [algorithmic trading](../a/accountability.md) is critical for developing effective [market](../m/market.md) strategies. Whether for [arbitrage](../a/arbitrage.md), [spread trading](../s/spread_trading.md), or hedging, a deep comprehension of basis and its implications can [offer](../o/offer.md) significant advantages. Algorithmic traders can [leverage](../l/leverage.md) a blend of statistical methods, machine learning techniques, and advanced trading platforms to [capitalize](../c/capitalize.md) on basis differentials, enhancing profitability and [risk management](../r/risk_management.md).
+Understanding basis and its applications in [algorithmic trading](../a/accountability.md) is critical for developing effective [market](../m/market.md) strategies. Whether for [arbitrage](../a/arbitrage.md), [spread trading](../s/spread_trading.md), or hedging, a deep comprehension of basis and its implications can [offer](../o/offer.md) significant advantages. Algorithmic traders can [leverage](../l/leverage.md) a blend of statistical methods, [machine learning](../m/machine_learning.md) techniques, and advanced trading platforms to [capitalize](../c/capitalize.md) on basis differentials, enhancing profitability and [risk management](../r/risk_management.md).

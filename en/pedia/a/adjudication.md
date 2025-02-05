@@ -26,7 +26,7 @@ Adjudication guarantees a level playing field for all [market](../m/market.md) p
 Adjudication begins with the identification of issues related to [algorithmic trading](../a/accountability.md). These may include erroneous [trade](../t/trade.md) executions, discrepancies in [transaction](../t/transaction.md) records, latency [arbitrage](../a/arbitrage.md), and more.
 
 ### Data Collection and Analysis
-An extensive collection of trading data and logs is crucial for the adjudication process. Advanced [data analytics](../d/data_analytics.md) tools, often powered by [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML), are used to analyze [trade](../t/trade.md) patterns, detect anomalies, and gather evidence.
+An extensive collection of trading data and logs is crucial for the adjudication process. Advanced [data analytics](../d/data_analytics.md) tools, often powered by [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML), are used to analyze [trade](../t/trade.md) patterns, detect anomalies, and gather evidence.
 
 ### Regulatory Review
 Regulatory bodies play an essential role in the adjudication process. They review the evidence, conduct hearings, and enforce regulations. These bodies may include national and international financial regulators, [exchange](../e/exchange.md) authorities, and independent adjudicatory councils.

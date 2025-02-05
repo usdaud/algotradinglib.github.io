@@ -45,7 +45,7 @@ The implementation of [dividend](../d/dividend.md) strategies within the [scope]
     Collecting historical data on [dividend](../d/dividend.md) payments, stock prices, [financial statements](../f/financial_statements.md), and [market sentiment](../m/market_sentiment.md). Sources of data might include financial news websites, stock exchanges, and data marketplaces.
 
 2. **Model Development**:
-    Developing [mathematical models](../m/mathematical_models_in_trading.md) and algorithms that can predict [dividend](../d/dividend.md) payments, assess the [financial health](../f/financial_health.md) of companies, and identify trading opportunities based on [dividend](../d/dividend.md) events. These models might use statistical methods, machine learning, or a combination of both.
+    Developing [mathematical models](../m/mathematical_models_in_trading.md) and algorithms that can predict [dividend](../d/dividend.md) payments, assess the [financial health](../f/financial_health.md) of companies, and identify trading opportunities based on [dividend](../d/dividend.md) events. These models might use statistical methods, [machine learning](../m/machine_learning.md), or a combination of both.
 
 3. **[Backtesting](../b/backtesting.md)**:
     Testing the developed algorithms against historical data to evaluate their performance. [Backtesting](../b/backtesting.md) helps refine strategy parameters, manage [risk](../r/risk.md), and estimate potential returns.
@@ -61,8 +61,8 @@ The implementation of [dividend](../d/dividend.md) strategies within the [scope]
 1. **Mean-Reversion [Dividend](../d/dividend.md) Capture Algorithm**:
     This algorithm assumes that stock prices that drop on the [ex-dividend](../e/ex-dividend.md) date [will](../w/will.md) revert to their mean price. The algorithm buys [shares](../s/shares.md) just before the [ex-dividend](../e/ex-dividend.md) date and sells them shortly after, aiming to capture the [dividend](../d/dividend.md) and a price rebound. It can use historical price data and statistical analysis to identify and [trade](../t/trade.md) [stocks](../s/stock.md) that exhibit mean-reversion behavior.
 
-2. **Machine Learning [Dividend](../d/dividend.md) Growth Predictor**:
-    An algorithm that uses machine learning models to predict which companies are likely to increase their dividends. It might use features such as past [dividend growth rate](../d/dividend_growth_rate.md), [earnings](../e/earnings.md) growth, and [payout](../p/payout.md) ratios. Once high-potential [stocks](../s/stock.md) are identified, the algorithm executes trades based on predefined criteria.
+2. **[Machine Learning](../m/machine_learning.md) [Dividend](../d/dividend.md) Growth Predictor**:
+    An algorithm that uses [machine learning](../m/machine_learning.md) models to predict which companies are likely to increase their dividends. It might use features such as past [dividend growth rate](../d/dividend_growth_rate.md), [earnings](../e/earnings.md) growth, and [payout](../p/payout.md) ratios. Once high-potential [stocks](../s/stock.md) are identified, the algorithm executes trades based on predefined criteria.
 
 3. **High-[Yield](../y/yield.md) Rotation Strategy**:
     This algo diversifies investment into a basket of high-[yield](../y/yield.md) [stocks](../s/stock.md) while periodically [rebalancing](../r/rebalancing.md) the portfolio based on [yield](../y/yield.md) changes and [market](../m/market.md) conditions. It monitors the [dividend](../d/dividend.md) yields of a broader stock universe and selects the top-performing assets while managing associated risks through [diversification](../d/diversification.md).

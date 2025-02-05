@@ -41,9 +41,9 @@ To evaluate the performance of a granular portfolio, several metrics are used:
 
 ### Machine Learning
 [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are increasingly used to manage granular portfolios. These algorithms can identify patterns and make data-driven decisions. Examples include:
-- **Supervised Learning:** Techniques such as regression and classification used for predicting [asset](../a/asset.md) prices and returns.
-- **Unsupervised Learning:** Techniques like clustering to identify hidden structures in the portfolio data.
-- **Reinforcement Learning:** Algorithms that learn to make decisions through trial and error to maximize portfolio returns over time.
+- **[Supervised Learning](../s/supervised_learning.md):** Techniques such as regression and classification used for predicting [asset](../a/asset.md) prices and returns.
+- **[Unsupervised Learning](../u/unsupervised_learning.md):** Techniques like clustering to identify hidden structures in the portfolio data.
+- **[Reinforcement Learning](../r/reinforcement_learning.md):** Algorithms that learn to make decisions through trial and error to maximize portfolio returns over time.
 
 ### Optimization Techniques
 [Optimization](../o/optimization.md) techniques are crucial for constructing a granular portfolio. These techniques help in finding the best mix of assets that maximize returns for a given level of [risk](../r/risk.md):
@@ -87,4 +87,4 @@ The use of [big data](../b/big_data_in_trading.md) [will](../w/will.md) enhance 
 ### Blockchain
 [Blockchain](../b/blockchain_in_trading.md) technology could improve [transparency](../t/transparency.md) and [security](../s/security.md) in [portfolio management](../p/par.md), providing a more reliable [infrastructure](../i/infrastructure.md) for managing assets.
 
-In conclusion, a granular portfolio in [algorithmic trading](../a/accountability.md) is a sophisticated approach that involves detailed analysis and management of various assets to optimize returns and minimize risks. Leveraging advanced algorithms, machine learning, and [optimization](../o/optimization.md) techniques, this method requires continuous monitoring and adaptation to [market dynamics](../m/market_dynamics.md), presenting both challenges and opportunities for investors and managers alike.
+In conclusion, a granular portfolio in [algorithmic trading](../a/accountability.md) is a sophisticated approach that involves detailed analysis and management of various assets to optimize returns and minimize risks. Leveraging advanced algorithms, [machine learning](../m/machine_learning.md), and [optimization](../o/optimization.md) techniques, this method requires continuous monitoring and adaptation to [market dynamics](../m/market_dynamics.md), presenting both challenges and opportunities for investors and managers alike.

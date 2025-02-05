@@ -50,7 +50,7 @@ ARIMA models are particularly useful for capturing the [underlying](../u/underly
 
 #### Support Vector Machines (SVM)
 
-SVMs are supervised learning models used for classification and regression tasks. SVM attempts to find a hyperplane that best separates the data into classes.
+SVMs are [supervised learning](../s/supervised_learning.md) models used for classification and regression tasks. SVM attempts to find a hyperplane that best separates the data into classes.
 
 - **Kernel Trick**: Enhances the capability of SVMs to solve non-linear problems by mapping inputs into higher-dimensional spaces.
 - **Application**: Utilized in classification of financial instruments, [fraud](../f/fraud.md) detection, and [algorithmic trading](../a/algorithmic_trading.md) strategies.
@@ -122,7 +122,7 @@ For more details, visit [AQR Capital Management](https://www.aqr.com).
 
 ### Two Sigma
 
-Two Sigma applies [data science](../d/data_science_in_trading.md) and technology to find [value](../v/value.md) in [financial markets](../f/financial_market.md). Their [quantitative models](../q/quantitative_models.md) integrate machine learning and [big data analytics](../b/big_data_analytics_in_trading.md).
+Two Sigma applies [data science](../d/data_science_in_trading.md) and technology to find [value](../v/value.md) in [financial markets](../f/financial_market.md). Their [quantitative models](../q/quantitative_models.md) integrate [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md).
 
 More information can be found at [Two Sigma](https://www.twosigma.com).
 

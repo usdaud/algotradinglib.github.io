@@ -59,7 +59,7 @@ Choose the individual indicators that [will](../w/will.md) make up the composite
 Assign weights to each of the chosen indicators. This could be equal weighting or [weighted](../w/weighted.md) by importance, historical performance, or [volatility](../v/volatility.md) adjustments.
 
 ### Backtesting and Optimization
-Before deploying a composite [indicator](../i/indicator.md) in live trading, it should be backtested against historical data. [Optimization](../o/optimization.md) techniques like [genetic algorithms](../g/genetic_algorithms_in_trading.md) or machine learning can also be applied to fine-tune the parameters.
+Before deploying a composite [indicator](../i/indicator.md) in live trading, it should be backtested against historical data. [Optimization](../o/optimization.md) techniques like [genetic algorithms](../g/genetic_algorithms_in_trading.md) or [machine learning](../m/machine_learning.md) can also be applied to fine-tune the parameters.
 
 ### Performance Monitoring
 Once the composite [indicator](../i/indicator.md) is live, continue to monitor its performance. Make adjustments as required based on changing [market](../m/market.md) conditions or new data.

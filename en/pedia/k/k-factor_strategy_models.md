@@ -112,7 +112,7 @@ K-[Factor models](../f/factor_models.md) are highly scalable, accommodating vari
 
 ### Integration with Artificial Intelligence
 
-The future of K-[Factor models](../f/factor_models.md) lies in their integration with [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) technologies. AI-driven models can continuously learn from new data, adapt to changing [market](../m/market.md) conditions, and improve predictive accuracy over time.
+The future of K-[Factor models](../f/factor_models.md) lies in their integration with [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) technologies. AI-driven models can continuously learn from new data, adapt to changing [market](../m/market.md) conditions, and improve predictive accuracy over time.
 
 ### Real-Time Analytics
 

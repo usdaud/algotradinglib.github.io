@@ -24,13 +24,13 @@
 
 4. **[Kelly Criterion](../k/kelly_criterion.md)**: A formula used to determine the optimal size of a series of bets to maximize [wealth](../w/wealth.md) over time. In the context of [algorithmic trading](../a/algorithmic_trading.md), it helps determine the size of positions based on the probability of winning and the [payout ratio](../p/payout_ratio.md).
 
-5. **Machine Learning-based Allocation**: Employing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict returns, classify [market](../m/market.md) regimes, or optimize portfolio weights. Techniques like reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) can be utilized for dynamic [capital](../c/capital.md) allocation.
+5. **[Machine Learning](../m/machine_learning.md)-based Allocation**: Employing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict returns, classify [market](../m/market.md) regimes, or optimize portfolio weights. Techniques like [reinforcement learning](../r/reinforcement_learning.md), [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) can be utilized for dynamic [capital](../c/capital.md) allocation.
 
 ## Tools and Technologies for Capital Allocation
 
 1. **[Portfolio Management](../p/portfolio_management.md) Software**: Specialized software that provides functionality for [capital](../c/capital.md) allocation, performance measurement, and [risk management](../r/risk_management.md). Examples include [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/factset.md), and Portfolio123.
 
-2. **Programming Languages**: Languages such as Python, R, and MATLAB are commonly used for developing and testing [capital](../c/capital.md) allocation algorithms. These languages [offer](../o/offer.md) extensive libraries for data analysis, machine learning, and [optimization](../o/optimization.md).
+2. **Programming Languages**: Languages such as Python, R, and MATLAB are commonly used for developing and testing [capital](../c/capital.md) allocation algorithms. These languages [offer](../o/offer.md) extensive libraries for data analysis, [machine learning](../m/machine_learning.md), and [optimization](../o/optimization.md).
 
 3. **[Risk Management](../r/risk_management.md) Platforms**: Tools like RiskMetrics, Axioma, and [Algorithmic Trading](../a/algorithmic_trading.md) Management Systems (ATMS) provide [risk](../r/risk.md) analytics and tools to support [capital](../c/capital.md) allocation decisions.
 
@@ -40,11 +40,11 @@
 
 ### Case Study 1: Renaissance Technologies
 
-Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) known for its [algorithmic trading](../a/algorithmic_trading.md) prowess, employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to allocate [capital](../c/capital.md) across a variety of markets and instruments. By using statistical [arbitrage](../a/arbitrage.md) and machine learning techniques, Renaissance optimizes its [capital](../c/capital.md) allocation to achieve high annual returns with relatively low [risk](../r/risk.md). More information about Renaissance Technologies can be found at [their official website](https://www.rentec.com).
+Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) known for its [algorithmic trading](../a/algorithmic_trading.md) prowess, employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to allocate [capital](../c/capital.md) across a variety of markets and instruments. By using statistical [arbitrage](../a/arbitrage.md) and [machine learning](../m/machine_learning.md) techniques, Renaissance optimizes its [capital](../c/capital.md) allocation to achieve high annual returns with relatively low [risk](../r/risk.md). More information about Renaissance Technologies can be found at [their official website](https://www.rentec.com).
 
 ### Case Study 2: Two Sigma
 
-Two Sigma uses [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and distributed computing to develop [trading strategies](../t/trading_strategies.md) and allocate [capital](../c/capital.md) efficiently. By continuously refining their models and algorithms, Two Sigma ensures optimal [capital](../c/capital.md) allocation that adapts to changing [market](../m/market.md) conditions. Further details are available on the [Two Sigma website](https://www.twosigma.com).
+Two Sigma uses [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to develop [trading strategies](../t/trading_strategies.md) and allocate [capital](../c/capital.md) efficiently. By continuously refining their models and algorithms, Two Sigma ensures optimal [capital](../c/capital.md) allocation that adapts to changing [market](../m/market.md) conditions. Further details are available on the [Two Sigma website](https://www.twosigma.com).
 
 ## Challenges in Capital Allocation
 

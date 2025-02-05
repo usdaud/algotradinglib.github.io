@@ -72,7 +72,7 @@ In [algorithmic trading](../a/algorithmic_trading.md) (or algo trading), traders
 
 3. **[Sentiment Analysis](../s/sentiment_analysis.md) Algorithms**: These algorithms analyze news, [social media](../s/social_media.md), and other sentiment sources to gauge the [market](../m/market.md) mood and predict movements.
 
-4. **Machine Learning Models**: These models can be trained on historical melt-up [market](../m/market.md) data to predict the onset and behavior of future melt-ups.
+4. **[Machine Learning](../m/machine_learning.md) Models**: These models can be trained on historical melt-up [market](../m/market.md) data to predict the onset and behavior of future melt-ups.
 
 5. **[Risk Management](../r/risk_management.md) Algorithms**: Specialized algorithms manage the risks associated with trading in volatile and speculative markets.
 

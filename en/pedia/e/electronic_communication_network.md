@@ -94,7 +94,7 @@ Regulatory bodies globally are increasingly focusing on the role of technology i
 
 ### Integration with AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are beginning to play significant roles in the functionality of ECNs. These technologies can improve the [efficiency](../e/efficiency.md) of matching engines, predict [market](../m/market.md) trends, and even assist in regulatory compliance.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are beginning to play significant roles in the functionality of ECNs. These technologies can improve the [efficiency](../e/efficiency.md) of matching engines, predict [market](../m/market.md) trends, and even assist in regulatory compliance.
 
 ### Expansion into New Assets
 

@@ -69,7 +69,7 @@ Residual [risk](../r/risk.md) is the [risk](../r/risk.md) that remains after all
    Various software solutions aid in the identification, assessment, and management of residual risks. For instance, firms like [Risk.net](https://www.risk.net/) provide specialized [risk management](../r/risk_management.md) tools.
 
 ### 2. **Machine Learning**
-   Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can predict potential [risk factors](../r/risk_factors_in_trading.md) and adjust [trading strategies](../t/trading_strategies.md) dynamically. Firms like [Kensho](https://www.kensho.com/) are leading in the application of machine learning for [risk management](../r/risk_management.md).
+   Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can predict potential [risk factors](../r/risk_factors_in_trading.md) and adjust [trading strategies](../t/trading_strategies.md) dynamically. Firms like [Kensho](https://www.kensho.com/) are leading in the application of [machine learning](../m/machine_learning.md) for [risk management](../r/risk_management.md).
 
 ### 3. **Blockchain Technology**
    The [transparency](../t/transparency.md) and immutability offered by [blockchain](../b/blockchain_in_trading.md) can help in tracking transactions and reducing operational risks.
@@ -80,7 +80,7 @@ Residual [risk](../r/risk.md) is the [risk](../r/risk.md) that remains after all
 ## Case Studies
 
 ### 1. **Two Sigma Investments**
-   Two Sigma is a [hedge fund](../h/hedge_fund.md) that extensively uses [data science](../d/data_science_in_trading.md) and technology for trading. They have [robust](../r/robust.md) [risk management](../r/risk_management.md) frameworks to [handle](../h/handle.md) residual risks, including advanced machine learning models for [predictive analytics](../p/predictive_analytics.md). [Two Sigma](https://www.twosigma.com/).
+   Two Sigma is a [hedge fund](../h/hedge_fund.md) that extensively uses [data science](../d/data_science_in_trading.md) and technology for trading. They have [robust](../r/robust.md) [risk management](../r/risk_management.md) frameworks to [handle](../h/handle.md) residual risks, including advanced [machine learning](../m/machine_learning.md) models for [predictive analytics](../p/predictive_analytics.md). [Two Sigma](https://www.twosigma.com/).
 
 ### 2. **Bridgewater Associates**
    Bridgewater Associates employs systematic decision-making processes to manage [risk](../r/risk.md) across their portfolios. Their emphasis on [scenario analysis](../s/scenario_analysis.md) and [stress testing](../s/stress_testing_in_trading.md) helps manage residual risks effectively. [Bridgewater Associates](https://www.bridgewater.com/).
@@ -90,7 +90,7 @@ Residual [risk](../r/risk.md) is the [risk](../r/risk.md) that remains after all
 
 ## Conclusion
 
-Residual [risk management](../r/risk_management.md) is an indispensable part of [algorithmic trading](../a/algorithmic_trading.md), requiring a multifaceted approach that encompasses model validation, [market](../m/market.md) [diversification](../d/diversification.md), operational controls, [credit](../c/credit.md) evaluation, and [liquidity analysis](../l/liquidity_analysis.md). By leveraging advanced technologies such as machine learning, [blockchain](../b/blockchain_in_trading.md), and specialized [risk management](../r/risk_management.md) software, trading firms can better anticipate and mitigate the potential adverse impacts of residual [risk](../r/risk.md), ensuring more consistent and profitable trading outcomes.
+Residual [risk management](../r/risk_management.md) is an indispensable part of [algorithmic trading](../a/algorithmic_trading.md), requiring a multifaceted approach that encompasses model validation, [market](../m/market.md) [diversification](../d/diversification.md), operational controls, [credit](../c/credit.md) evaluation, and [liquidity analysis](../l/liquidity_analysis.md). By leveraging advanced technologies such as [machine learning](../m/machine_learning.md), [blockchain](../b/blockchain_in_trading.md), and specialized [risk management](../r/risk_management.md) software, trading firms can better anticipate and mitigate the potential adverse impacts of residual [risk](../r/risk.md), ensuring more consistent and profitable trading outcomes.
 
 Understanding and managing residual [risk](../r/risk.md) not only protects trading [capital](../c/capital.md) but also aligns trading practices with regulatory standards, making it a crucial competence for any [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md) aiming for long-term success.
 

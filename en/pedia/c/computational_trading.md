@@ -27,7 +27,7 @@ Founded by Ken Griffin, Citadel is a global financial institution with a signifi
 Website: [Citadel](https://www.citadel.com/)
 
 ### Two Sigma
-Two Sigma leverages [big data](../b/big_data_in_trading.md) and machine learning to develop [trading algorithms](../t/trading_algorithms.md). Their team includes engineers, data scientists, and statisticians who work together to refine their [trading models](../t/trading_models.md) and strategies continuously.
+Two Sigma leverages [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) to develop [trading algorithms](../t/trading_algorithms.md). Their team includes engineers, data scientists, and statisticians who work together to refine their [trading models](../t/trading_models.md) and strategies continuously.
 Website: [Two Sigma](https://www.twosigma.com/)
 
 ### Virtu Financial
@@ -70,7 +70,7 @@ Reliance on [mathematical models](../m/mathematical_models_in_trading.md) introd
 ## Current Trends and the Future
 
 ### Artificial Intelligence and Machine Learning
-AI and machine learning are being increasingly integrated into [trading algorithms](../t/trading_algorithms.md) to enhance prediction accuracy and adaptive capability. This includes using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze news and [social media sentiment](../s/social_media_sentiment.md).
+AI and [machine learning](../m/machine_learning.md) are being increasingly integrated into [trading algorithms](../t/trading_algorithms.md) to enhance prediction accuracy and adaptive capability. This includes using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze news and [social media sentiment](../s/social_media_sentiment.md).
 
 ### Blockchain and Decentralized Finance (DeFi)
 [Blockchain](../b/blockchain_in_trading.md) technology and DeFi are transforming the trading landscape by enabling decentralized exchanges and [smart contracts](../s/smart_contracts_in_trading.md), which could bring about new opportunities for computational [trading strategies](../t/trading_strategies.md).

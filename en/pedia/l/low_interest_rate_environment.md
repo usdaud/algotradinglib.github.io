@@ -43,7 +43,7 @@ In a LIRE, pair [trading strategies](../t/trading_strategies.md) can be used to 
 Low-[interest](../i/interest.md) rates can lead to decreased [market](../m/market.md) [volatility](../v/volatility.md). Algo-traders can employ [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md) strategies, such as those based on the [volatility](../v/volatility.md) [index](../i/index_instrument.md) (VIX), to take advantage of mispricings in [options](../o/options.md) and other [derivative](../d/derivative.md) instruments.
 
 #### Machine Learning Models
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) have become increasingly important in identifying patterns and [forecasting](../f/forecasting.md) [market](../m/market.md) movements in a low [interest rate](../i/interest_rate.md) environment. These models can process vast amounts of data and refine [trading strategies](../t/trading_strategies.md) more efficiently than traditional methods.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) have become increasingly important in identifying patterns and [forecasting](../f/forecasting.md) [market](../m/market.md) movements in a low [interest rate](../i/interest_rate.md) environment. These models can process vast amounts of data and refine [trading strategies](../t/trading_strategies.md) more efficiently than traditional methods.
 
 ### Challenges and Considerations
 

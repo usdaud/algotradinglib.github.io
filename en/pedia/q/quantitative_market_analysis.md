@@ -53,7 +53,7 @@ Continuous monitoring and adjustment of the models and strategies are essential.
 
 Several tools and platforms facilitate quantitative [market](../m/market.md) analysis, including:
 
-- **Python and R:** Popular programming languages for statistical analysis and machine learning.
+- **Python and R:** Popular programming languages for statistical analysis and [machine learning](../m/machine_learning.md).
 - **MATLAB:** A high-level language and interactive environment for numerical computation and visualization.
 - **[Bloomberg](../b/bloomberg.md) Terminal:** Provides real-time financial data, news, and analytics.
 - **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform for designing and testing [trading algorithms](../t/trading_algorithms.md).
@@ -90,7 +90,7 @@ Creating a model that fits historical data too precisely can result in poor perf
 Markets are dynamic, and models may become obsolete as [market](../m/market.md) conditions change. Continuous monitoring and adaptation are necessary.
 
 **4. Computational Cost:**
-Advanced [quantitative models](../q/quantitative_models.md), especially those involving machine learning, require significant computational resources for processing and analysis.
+Advanced [quantitative models](../q/quantitative_models.md), especially those involving [machine learning](../m/machine_learning.md), require significant computational resources for processing and analysis.
 
 **5. Regulatory Concerns:**
 [Quantitative trading](../q/quantitative_trading.md) strategies must comply with regulatory frameworks to avoid legal issues. Keeping up with regulatory changes is a continuous challenge.

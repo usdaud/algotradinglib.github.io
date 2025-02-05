@@ -123,7 +123,7 @@ A [peer-to-peer lending](../p/peer-to-peer_lending.md) platform like Lending Clu
 
 ### Advanced Algorithmic Implementations
 
-With advancements in AI and machine learning, the concept of recourse in financial algorithms is likely to become more sophisticated. Real-time [risk](../r/risk.md) assessments and automated corrective measures [will](../w/will.md) become the norm, further improving the resilience and reliability of [trading strategies](../t/trading_strategies.md).
+With advancements in AI and [machine learning](../m/machine_learning.md), the concept of recourse in financial algorithms is likely to become more sophisticated. Real-time [risk](../r/risk.md) assessments and automated corrective measures [will](../w/will.md) become the norm, further improving the resilience and reliability of [trading strategies](../t/trading_strategies.md).
 
 ### Blockchain and Decentralized Finance (DeFi)
 

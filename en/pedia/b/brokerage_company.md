@@ -94,7 +94,7 @@ High-frequency trading is a subset of [algorithmic trading](../a/accountability.
 
 ### Artificial Intelligence (AI) and Machine Learning
 
-AI and machine learning are increasingly being used by brokerage firms to analyze vast amounts of data, identify patterns, and make investment recommendations. These technologies can enhance research capabilities and improve the accuracy of [predictive models](../p/predictive_models_in_trading.md).
+AI and [machine learning](../m/machine_learning.md) are increasingly being used by brokerage firms to analyze vast amounts of data, identify patterns, and make investment recommendations. These technologies can enhance research capabilities and improve the accuracy of [predictive models](../p/predictive_models_in_trading.md).
 
 ### Mobile Trading Apps
 

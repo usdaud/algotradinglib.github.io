@@ -74,7 +74,7 @@ In [algorithmic trading](../a/accountability.md) (also known as algo trading or 
 
 Various financial institutions and trading firms use [debt](../d/debt.md) ratio as part of their [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). For example:
 
-- **Two Sigma**: An [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses machine learning, distributed computing, and sophisticated algorithms to maximize returns. [Debt](../d/debt.md) ratios might be one of many financial metrics factored into their algorithms. More about their data and strategies can be found on their [website](https://www.twosigma.com).
+- **Two Sigma**: An [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md), distributed computing, and sophisticated algorithms to maximize returns. [Debt](../d/debt.md) ratios might be one of many financial metrics factored into their algorithms. More about their data and strategies can be found on their [website](https://www.twosigma.com).
   
 - **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), which applies [quantitative models](../q/quantitative_models.md) derived from mathematical and statistical analyses. [Debt](../d/debt.md) ratios and other financial metrics would likely be inputs in their models. More information is available on their [website](https://www.rentech.com).
 

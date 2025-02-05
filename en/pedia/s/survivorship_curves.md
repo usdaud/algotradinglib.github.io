@@ -70,7 +70,7 @@ Many [algorithmic trading](../a/algorithmic_trading.md) firms utilize [survivors
 
 1. **AQR [Capital](../c/capital.md) Management, LLC**: Using advanced statistical techniques to gauge the longevity and performance of diverse [quantitative strategies](../q/quantitative_strategies_in_trading.md). [Visit their site](https://www.aqr.com/).
   
-2. **Two Sigma**: Emphasizes machine learning models and [survivorship analysis](../s/survivorship_analysis.md) to sustain profitable [trading strategies](../t/trading_strategies.md) over prolonged periods. [View their approach](https://www.twosigma.com/).
+2. **Two Sigma**: Emphasizes [machine learning](../m/machine_learning.md) models and [survivorship analysis](../s/survivorship_analysis.md) to sustain profitable [trading strategies](../t/trading_strategies.md) over prolonged periods. [View their approach](https://www.twosigma.com/).
   
 3. **D-E Shaw Group**: Implements survivorship models for evaluating strategy lifecycle, ensuring [robust](../r/robust.md) performance adaptation over time. [Explore their methods](https://www.deshaw.com/).
 

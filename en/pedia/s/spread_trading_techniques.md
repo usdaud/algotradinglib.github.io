@@ -55,7 +55,7 @@
 The complexity of [spread trading](../s/spread_trading.md) often necessitates the use of advanced software and tools for analysis, [execution](../e/execution.md), and [risk management](../r/risk_management.md). Some commonly used tools include:
 
 - **MATLAB and R**: Used for complex statistical analysis and modeling due to their [robust](../r/robust.md) libraries for financial computations and data manipulation.
-- **Python**: Popular for its versatility and comprehensive libraries such as Pandas, NumPy, and Scikit-learn, which facilitate statistical analysis and machine learning applications in [spread trading](../s/spread_trading.md).
+- **Python**: Popular for its versatility and comprehensive libraries such as Pandas, NumPy, and Scikit-learn, which facilitate statistical analysis and [machine learning](../m/machine_learning.md) applications in [spread trading](../s/spread_trading.md).
 - **Trading Platforms**: Platforms like [Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md), MetaTrader, and [Interactive Brokers](../i/interactive_brokers.md) provide tools for executing and monitoring spread trades.
 - **Specialized Software**: Programs like SpreadTrader by [CQG](../c/cqg.md), and RTS InterSpread [offer](../o/offer.md) specialized tools for analyzing and executing spread trades in [futures](../f/futures.md) and other markets.
 

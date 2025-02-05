@@ -78,7 +78,7 @@ Despite advanced [security](../s/security.md) measures, concerns about data brea
 ## Future Trends
 
 ### AI and Machine Learning
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are poised to revolutionize EBPP by automating processes, detecting [fraud](../f/fraud.md), and providing personalized financial advice. These technologies can enhance the [efficiency](../e/efficiency.md) and [security](../s/security.md) of EBPP systems.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are poised to revolutionize EBPP by automating processes, detecting [fraud](../f/fraud.md), and providing personalized financial advice. These technologies can enhance the [efficiency](../e/efficiency.md) and [security](../s/security.md) of EBPP systems.
 
 ### Blockchain Technology
 [Blockchain](../b/blockchain_in_trading.md) offers a decentralized and immutable ledger for recording transactions, enhancing the [transparency](../t/transparency.md) and [security](../s/security.md) of EBPP systems. This technology could streamline [payment](../p/payment.md) processing and reduce [fraud](../f/fraud.md).

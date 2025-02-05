@@ -30,7 +30,7 @@ Algo trading substantially reduces the [transaction costs](../t/transaction_cost
 
 ### Artificial Intelligence and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are revolutionizing algo trading. These technologies enable algorithms to learn from historical data and adapt to new data, improving their decision-making capabilities over time. For example, AI can analyze millions of data points to identify patterns that would be imperceptible to humans.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are revolutionizing algo trading. These technologies enable algorithms to learn from historical data and adapt to new data, improving their decision-making capabilities over time. For example, AI can analyze millions of data points to identify patterns that would be imperceptible to humans.
 
 #### Case Study: Goldman Sachs
 

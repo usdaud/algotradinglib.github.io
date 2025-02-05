@@ -50,7 +50,7 @@ Encryption is vital to protecting data in payment systems. It ensures that sensi
 2FA adds an extra layer of [security](../s/security.md) by requiring users to provide two forms of verification before accessing an account or completing a [transaction](../t/transaction.md). This could include something the user knows (a password) and something the user has (a mobile device).
 
 ### Fraud Detection and Prevention
-Modern payment systems incorporate sophisticated [fraud](../f/fraud.md) detection algorithms to identify and prevent fraudulent transactions. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly used to detect patterns of fraudulent behavior, thereby enhancing the [security](../s/security.md) and reliability of payment systems.
+Modern payment systems incorporate sophisticated [fraud](../f/fraud.md) detection algorithms to identify and prevent fraudulent transactions. [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly used to detect patterns of fraudulent behavior, thereby enhancing the [security](../s/security.md) and reliability of payment systems.
 
 ## Regulatory Environment
 
@@ -75,7 +75,7 @@ IoT devices, from smart fridges to connected cars, are poised to become new chan
 CBDCs represent a digital form of central [bank](../b/bank.md) [money](../m/money.md). Several countries, including China with its digital yuan, are actively exploring or piloting CBDCs. These currencies aim to combine the benefits of digital payments with the stability of fiat currencies.
 
 ### AI and Machine Learning
-AI and machine learning continue to play a pivotal role in the evolution of payment systems. They are used for everything from [fraud](../f/fraud.md) detection to personalized financial services, promising to make payments more secure, efficient, and tailored to individual needs.
+AI and [machine learning](../m/machine_learning.md) continue to play a pivotal role in the evolution of payment systems. They are used for everything from [fraud](../f/fraud.md) detection to personalized financial services, promising to make payments more secure, efficient, and tailored to individual needs.
 
 In conclusion, the payment landscape is undergoing rapid transformation driven by technological advancements and changing consumer behaviors. As digital payment methods proliferate, issues of [security](../s/security.md), regulation, and innovation [will](../w/will.md) remain at the forefront of the [industry](../i/industry.md)’s development. Companies, financial institutions, and regulators must collaborate to navigate these changes while ensuring that payment systems are secure, efficient, and accessible to all.
 

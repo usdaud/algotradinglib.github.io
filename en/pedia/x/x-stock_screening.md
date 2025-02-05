@@ -29,14 +29,14 @@ Once the data is collected, the next step is to define the criteria for screenin
 Designing the algorithm involves translating screening criteria into programmable instructions. This requires knowledge of both [finance](../f/finance.md) and programming. Common algorithmic methods include:
 
 - **Rule-Based Screening**: Logical rules (e.g., P/E ratio < 15 and [dividend yield](../d/dividend_yield.md) > 3%) are implemented to filter [stocks](../s/stock.md).
-- **Machine Learning Models**: Techniques like [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), or [neural networks](../n/neural_networks_in_trading.md) can identify patterns and predict stock performance based on historical data.
+- **[Machine Learning](../m/machine_learning.md) Models**: Techniques like [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), or [neural networks](../n/neural_networks_in_trading.md) can identify patterns and predict stock performance based on historical data.
 - **[Optimization](../o/optimization.md) Algorithms**: Techniques like [genetic algorithms](../g/genetic_algorithms_in_trading.md) or gradient descent can fine-tune stock selection criteria for better performance.
 
 ### Implementation Frameworks
 
 Various platforms and languages can be used to implement stock screening algorithms, including:
 
-- **Python**: Libraries like Pandas, NumPy, and Scikit-learn are popular for data manipulation and machine learning.
+- **Python**: Libraries like Pandas, NumPy, and Scikit-learn are popular for data manipulation and [machine learning](../m/machine_learning.md).
 - **R**: Packages like Quantmod and TTR are designed for financial data analysis and technical [trading rules](../t/trading_rules.md).
 - **MATLAB**: Offers [robust](../r/robust.md) numerical computing environment with toolboxes for algorithm development and [financial modeling](../f/financial_modeling.md).
 
@@ -56,7 +56,7 @@ After successful [backtesting](../b/backtesting.md), the stock screening algorit
 
 [Algorithmic stock screening](../a/algorithmic_stock_screening.md) is not a one-time setup but requires continuous monitoring and adjustment. [Market](../m/market.md) conditions change, and new data sources become available, necessitating regular updates to the screening algorithms. 
 
-- **Model Retraining**: Machine learning models need periodic retraining with new data to maintain accuracy.
+- **Model Retraining**: [Machine learning](../m/machine_learning.md) models need periodic retraining with new data to maintain accuracy.
 - **Performance Review**: Continuous performance tracking to identify areas of improvement.
 - **Algorithm Tuning**: Adjusting parameters and criteria to align with current [market](../m/market.md) conditions.
 
@@ -102,4 +102,4 @@ Adhering to financial regulations and ensuring compliance can be challenging, es
 
 ## Conclusion
 
-X-Stock Screening represents a sophisticated approach to identifying potential investment opportunities in [financial markets](../f/financial_market.md). By leveraging data, quantitative methods, and machine learning, traders can enhance their decision-making processes, reduce biases, and increase the likelihood of profitable trades. Continuous improvement, data quality, and regulatory compliance are critical factors for the successful implementation of stock screening algorithms.
+X-Stock Screening represents a sophisticated approach to identifying potential investment opportunities in [financial markets](../f/financial_market.md). By leveraging data, quantitative methods, and [machine learning](../m/machine_learning.md), traders can enhance their decision-making processes, reduce biases, and increase the likelihood of profitable trades. Continuous improvement, data quality, and regulatory compliance are critical factors for the successful implementation of stock screening algorithms.

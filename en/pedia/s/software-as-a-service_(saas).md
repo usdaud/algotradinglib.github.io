@@ -91,7 +91,7 @@ The future of SaaS in FinTech looks promising, with several trends shaping the l
 
 ### Artificial Intelligence and Machine Learning
 
-The integration of AI and machine learning in SaaS applications [will](../w/will.md) enhance [predictive analytics](../p/predictive_analytics.md), [risk management](../r/risk_management.md), and personalized [customer](../c/customer.md) experiences. These technologies [will](../w/will.md) enable financial institutions to provide more tailored and efficient services.
+The integration of AI and [machine learning](../m/machine_learning.md) in SaaS applications [will](../w/will.md) enhance [predictive analytics](../p/predictive_analytics.md), [risk management](../r/risk_management.md), and personalized [customer](../c/customer.md) experiences. These technologies [will](../w/will.md) enable financial institutions to provide more tailored and efficient services.
 
 ### Blockchain Technology
 

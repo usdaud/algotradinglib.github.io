@@ -94,7 +94,7 @@ The core mechanism of convertible bonds revolves around the conversion price and
 Technological advancements have dramatically transformed [convertible bond](../c/convertible_bond.md) [arbitrage](../a/arbitrage.md):
 - **[Algorithmic Trading](../a/algorithmic_trading.md):**
    - [Algorithmic trading](../a/algorithmic_trading.md) platforms facilitate rapid [execution](../e/execution.md) of [arbitrage](../a/arbitrage.md) strategies, allowing traders to [capitalize](../c/capitalize.md) on minute price discrepancies instantaneously.
-   - Advanced algorithms incorporate [real-time data analysis](../r/real-time_data_analysis.md), machine learning techniques, and [predictive modeling](../p/predictive_modeling.md) to identify [arbitrage](../a/arbitrage.md) opportunities.
+   - Advanced algorithms incorporate [real-time data analysis](../r/real-time_data_analysis.md), [machine learning](../m/machine_learning.md) techniques, and [predictive modeling](../p/predictive_modeling.md) to identify [arbitrage](../a/arbitrage.md) opportunities.
 
 - **High-Frequency Trading (HFT):**
    - HFT firms employ sophisticated technology to execute a large number of transactions at lightning speed. These firms often engage in [convertible bond](../c/convertible_bond.md) [arbitrage](../a/arbitrage.md), leveraging speed and [efficiency](../e/efficiency.md) to [gain](../g/gain.md) competitive advantages.

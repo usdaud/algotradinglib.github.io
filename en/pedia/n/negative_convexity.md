@@ -57,7 +57,7 @@ Advanced algorithms can incorporate complex [risk management](../r/risk_manageme
 
 ### Machine Learning Techniques
 
-Machine learning techniques can enhance the understanding and prediction of negative [convexity](../c/convexity.md) effects. By analyzing substantial historical data, machine learning models can identify patterns and predict future behaviors of negative [convexity](../c/convexity.md) securities under various [market](../m/market.md) conditions, optimizing trading decisions and [risk management](../r/risk_management.md) protocols.
+[Machine learning](../m/machine_learning.md) techniques can enhance the understanding and prediction of negative [convexity](../c/convexity.md) effects. By analyzing substantial historical data, [machine learning](../m/machine_learning.md) models can identify patterns and predict future behaviors of negative [convexity](../c/convexity.md) securities under various [market](../m/market.md) conditions, optimizing trading decisions and [risk management](../r/risk_management.md) protocols.
 
 ## Notable Companies and Services
 

@@ -40,7 +40,7 @@ Using Monte Carlo simulations, [rebalancing](../r/rebalancing.md) algorithms can
 
 #### Machine Learning Techniques
 
-Machine learning techniques involve training algorithms on historical [market](../m/market.md) data to predict the best times to rebalance the portfolio. These algorithms can identify patterns and trends that may not be evident through traditional methods.
+[Machine learning](../m/machine_learning.md) techniques involve training algorithms on historical [market](../m/market.md) data to predict the best times to rebalance the portfolio. These algorithms can identify patterns and trends that may not be evident through traditional methods.
 
 ### Benefits of Rebalancing Algorithms
 

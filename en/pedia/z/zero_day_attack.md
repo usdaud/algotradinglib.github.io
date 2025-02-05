@@ -40,7 +40,7 @@ Regular code audits and secure development practices can preclude many vulnerabi
 Although zero day vulnerabilities are unique in that they are unknown to vendors, keeping systems updated with the latest patches can mitigate the impact of other known vulnerabilities that might be exploited alongside a zero-day.
 
 ### Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS)
-IDS and IPS can help detect abnormal behaviors indicative of a zero-day exploit. Machine learning models are increasingly being integrated into these systems to improve threat detection capabilities.
+IDS and IPS can help detect abnormal behaviors indicative of a zero-day exploit. [Machine learning](../m/machine_learning.md) models are increasingly being integrated into these systems to improve threat detection capabilities.
 
 ### Threat Intelligence Sharing
 Collaboration and sharing of threat intelligence among organizations can help quickly identify and respond to emerging threats. Platforms like Information Sharing and Analysis Centers (ISACs) facilitate this [exchange](../e/exchange.md).

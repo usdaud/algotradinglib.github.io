@@ -54,7 +54,7 @@ Models should be trained with and without unusual items to assess their impacts 
 
 ### Anomaly Detection
 
-Algorithms designed for [anomaly detection](../a/anomaly_detection.md) can be particularly useful in identifying and isolating unusual items. Machine Learning models like autoencoders and [clustering algorithms](../c/clustering_algorithms.md) can be tuned to spot data points that deviate significantly from the norm.
+Algorithms designed for [anomaly detection](../a/anomaly_detection.md) can be particularly useful in identifying and isolating unusual items. [Machine Learning](../m/machine_learning.md) models like autoencoders and [clustering algorithms](../c/clustering_algorithms.md) can be tuned to spot data points that deviate significantly from the norm.
 
 ## The Role of FinTech in Managing Unusual Items
 

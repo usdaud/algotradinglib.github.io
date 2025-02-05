@@ -98,7 +98,7 @@ Institutional investors, such as [hedge](../h/hedge.md) funds and pension funds,
 
 As technology advances, new opportunities and challenges emerge in applying garnishment principles to [algorithmic trading](../a/accountability.md):
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML)**: Leveraging AI and ML to enhance [predictive analytics](../p/predictive_analytics.md), optimize [risk management](../r/risk_management.md), and develop smarter [capital allocation](../c/capital_allocation.md) algorithms.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML)**: Leveraging AI and ML to enhance [predictive analytics](../p/predictive_analytics.md), optimize [risk management](../r/risk_management.md), and develop smarter [capital allocation](../c/capital_allocation.md) algorithms.
 - **[Blockchain](../b/blockchain_in_trading.md) and [Smart Contracts](../s/smart_contracts_in_trading.md)**: Utilizing [blockchain](../b/blockchain_in_trading.md) technology and [smart contracts](../s/smart_contracts_in_trading.md) to automate compliance, transparently execute transactions, and streamline [fund](../f/fund.md) allocation.
 - **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Exploring [quantum computing](../q/quantum_computing_in_trading.md) capabilities to solve complex [optimization](../o/optimization.md) problems in real-time, enhancing the robustness of [trading algorithms](../t/trading_algorithms.md).
 

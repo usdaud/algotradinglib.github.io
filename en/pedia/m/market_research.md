@@ -104,7 +104,7 @@ CRM systems (e.g., Salesforce, HubSpot) help businesses manage and analyze [cust
 
 ### Machine Learning and AI
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) technologies are increasingly being used in [market](../m/market.md) research to analyze large datasets and uncover insights. AI-powered tools can analyze text, images, and speech to identify sentiment, trends, and patterns. They can also automate tasks such as survey administration, data collection, and analysis, making the [market](../m/market.md) research process more efficient and accurate.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) technologies are increasingly being used in [market](../m/market.md) research to analyze large datasets and uncover insights. AI-powered tools can analyze text, images, and speech to identify sentiment, trends, and patterns. They can also automate tasks such as survey administration, data collection, and analysis, making the [market](../m/market.md) research process more efficient and accurate.
 
 ## Ethical Considerations in Market Research
 

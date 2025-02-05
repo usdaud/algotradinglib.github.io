@@ -71,7 +71,7 @@ To illustrate the practical application of [joint](../j/joint.md) [risk models](
 
 ### Machine Learning and AI
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being integrated into [joint](../j/joint.md) [risk models](../r/risk_models_in_trading.md). These technologies enhance the ability to capture complex, non-linear dependencies and improve the accuracy of [risk](../r/risk.md) predictions. Techniques such as [deep learning](../d/deep_learning.md), reinforcement learning, and [Bayesian networks](../b/bayesian_networks.md) are being applied to model [joint](../j/joint.md) risks more effectively.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being integrated into [joint](../j/joint.md) [risk models](../r/risk_models_in_trading.md). These technologies enhance the ability to capture complex, non-linear dependencies and improve the accuracy of [risk](../r/risk.md) predictions. Techniques such as [deep learning](../d/deep_learning.md), [reinforcement learning](../r/reinforcement_learning.md), and [Bayesian networks](../b/bayesian_networks.md) are being applied to model [joint](../j/joint.md) risks more effectively.
 
 ### High-Frequency Data Analysis
 

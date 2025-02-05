@@ -119,7 +119,7 @@ In high-frequency trading, latency in detecting and responding to [volume](../v/
 
 ### Machine Learning and AI
 
-The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in [trading algorithms](../t/trading_algorithms.md) holds promising potential for enhancing [volume](../v/volume.md) imbalance analysis. These technologies can identify complex patterns and predictive relationships beyond traditional analytical methods.
+The integration of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in [trading algorithms](../t/trading_algorithms.md) holds promising potential for enhancing [volume](../v/volume.md) imbalance analysis. These technologies can identify complex patterns and predictive relationships beyond traditional analytical methods.
 
 ### Blockchain and Decentralized Exchanges
 

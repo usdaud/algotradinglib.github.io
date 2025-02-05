@@ -63,7 +63,7 @@ print(smoothed_series)
 
 1. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Companies like [Two Sigma](https://www.twosigma.com/) and [Virtu Financial](https://www.virtu.com/) utilize sophisticated filtering techniques, including [median](../m/median.md) filters, to enhance [signal processing](../s/signal_processing_in_trading.md) in their [trading strategies](../t/trading_strategies.md).
 
-2. **Academic Research**: Numerous studies have examined the effectiveness of [median](../m/median.md) filters in trading. For instance, the paper "[Median](../m/median.md) Filtering as a Preprocessing Tool in [Financial Time Series](../f/financial_time_series.md) Prediction" investigates its use in machine learning models for predictive trading.
+2. **Academic Research**: Numerous studies have examined the effectiveness of [median](../m/median.md) filters in trading. For instance, the paper "[Median](../m/median.md) Filtering as a Preprocessing Tool in [Financial Time Series](../f/financial_time_series.md) Prediction" investigates its use in [machine learning](../m/machine_learning.md) models for predictive trading.
 
 ### Conclusion
 

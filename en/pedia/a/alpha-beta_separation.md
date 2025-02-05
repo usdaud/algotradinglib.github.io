@@ -35,7 +35,7 @@ By distinguishing between [alpha](../a/alpha.md) and [beta](../b/beta.md), trade
 
 ### Alpha-Beta Separation in Algorithmic Trading Infrastructure
 
-Incorporating [Alpha](../a/alpha.md)-[Beta](../b/beta.md) Separation into [algorithmic trading](../a/algorithmic_trading.md) involves advanced [infrastructure](../i/infrastructure.md) and sophisticated computational techniques. Firms often integrate technologies like machine learning and [big data analytics](../b/big_data_analytics_in_trading.md) to identify [alpha](../a/alpha.md) opportunities while managing [beta](../b/beta.md) exposure efficiently. Here are notable aspects and examples:
+Incorporating [Alpha](../a/alpha.md)-[Beta](../b/beta.md) Separation into [algorithmic trading](../a/algorithmic_trading.md) involves advanced [infrastructure](../i/infrastructure.md) and sophisticated computational techniques. Firms often integrate technologies like [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to identify [alpha](../a/alpha.md) opportunities while managing [beta](../b/beta.md) exposure efficiently. Here are notable aspects and examples:
 
 #### 1. Quantitative Models
 
@@ -43,7 +43,7 @@ Incorporating [Alpha](../a/alpha.md)-[Beta](../b/beta.md) Separation into [algor
 
 #### 2. Machine Learning Algorithms
 
-Machine learning (ML) algorithms help discover hidden [alpha](../a/alpha.md) by identifying patterns and anomalies that human traders might overlook. ML models can process vast amounts of data, making them crucial for developing sophisticated [alpha](../a/alpha.md) strategies. Companies like [Kensho Technologies](https://www.kensho.com/) exemplify the integration of ML in analyzing financial data.
+[Machine learning](../m/machine_learning.md) (ML) algorithms help discover hidden [alpha](../a/alpha.md) by identifying patterns and anomalies that human traders might overlook. ML models can process vast amounts of data, making them crucial for developing sophisticated [alpha](../a/alpha.md) strategies. Companies like [Kensho Technologies](https://www.kensho.com/) exemplify the integration of ML in analyzing financial data.
 
 #### 3. High-Frequency Trading (HFT)
 
@@ -69,4 +69,4 @@ High-quality data is crucial for both [alpha generation](../a/alpha_generation.m
 
 [Alpha](../a/alpha.md)-[Beta](../b/beta.md) Separation is a foundational principle in [algorithmic trading](../a/algorithmic_trading.md), enabling clearer distinction between [market](../m/market.md)-driven returns and those from active strategies. This separation enhances [return](../r/return.md) decomposition, [risk management](../r/risk_management.md), and [performance attribution](../p/performance_attribution.md). As technology and [data analysis techniques](../d/data_analysis_techniques.md) advance, [alpha](../a/alpha.md)-[beta](../b/beta.md) separation strategies [will](../w/will.md) continue to evolve, [offering](../o/offering.md) more sophisticated and efficient ways to optimize trading and investment decisions.
 
-By leveraging [quantitative models](../q/quantitative_models.md), machine learning, and high-frequency trading, firms like Two Sigma, Kensho Technologies, and Virtu Financial exemplify the cutting-edge applications of [alpha](../a/alpha.md)-[beta](../b/beta.md) separation, demonstrating its critical role in modern [financial markets](../f/financial_market.md).
+By leveraging [quantitative models](../q/quantitative_models.md), [machine learning](../m/machine_learning.md), and high-frequency trading, firms like Two Sigma, Kensho Technologies, and Virtu Financial exemplify the cutting-edge applications of [alpha](../a/alpha.md)-[beta](../b/beta.md) separation, demonstrating its critical role in modern [financial markets](../f/financial_market.md).

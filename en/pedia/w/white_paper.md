@@ -45,11 +45,11 @@ Another notable white paper in the fintech space is the [Ethereum](../e/ethereum
 
 ## Algorithmic Trading White Papers
 
-White papers in [algorithmic trading](../a/accountability.md) often discuss [trading strategies](../t/trading_strategies.md), [quantitative models](../q/quantitative_models.md), and the use of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve [trading performance](../t/trading_performance.md). These documents aim to provide traders and financial institutions with insights into advanced trading techniques and the technology driving them.
+White papers in [algorithmic trading](../a/accountability.md) often discuss [trading strategies](../t/trading_strategies.md), [quantitative models](../q/quantitative_models.md), and the use of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve [trading performance](../t/trading_performance.md). These documents aim to provide traders and financial institutions with insights into advanced trading techniques and the technology driving them.
 
 ### Example: Quantitative Trading Strategies
 
-A white paper titled "Optimizing [Trading Strategies](../t/trading_strategies.md) using Machine Learning" by Marcos López de Prado and Gordon Ritter explores how machine learning can be applied to develop and optimize [quantitative trading](../q/quantitative_trading.md) strategies. It provides a detailed analysis of various algorithms, their implementation, and their impact on [trading performance](../t/trading_performance.md).
+A white paper titled "Optimizing [Trading Strategies](../t/trading_strategies.md) using [Machine Learning](../m/machine_learning.md)" by Marcos López de Prado and Gordon Ritter explores how [machine learning](../m/machine_learning.md) can be applied to develop and optimize [quantitative trading](../q/quantitative_trading.md) strategies. It provides a detailed analysis of various algorithms, their implementation, and their impact on [trading performance](../t/trading_performance.md).
 
 - [Optimizing Trading Strategies using Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2727335)
 

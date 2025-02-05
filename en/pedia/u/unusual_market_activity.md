@@ -40,7 +40,7 @@ Financial exchanges and regulatory bodies employ sophisticated real-time surveil
 
 ### 2. Data Analytics and Machine Learning
 
-Advanced [data analytics](../d/data_analytics.md) and machine learning techniques are increasingly utilized to identify suspicious trading activity. These technologies can process vast amounts of data to detect anomalies that might indicate UMA.
+Advanced [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) techniques are increasingly utilized to identify suspicious trading activity. These technologies can process vast amounts of data to detect anomalies that might indicate UMA.
 
 ### 3. Regulatory Oversight
 
@@ -82,4 +82,4 @@ The Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/fi
 
 ## Conclusion
 
-Unusual [Market](../m/market.md) Activity is a complex phenomenon that can be triggered by a variety of factors including [market manipulation](../m/market_manipulation.md), [insider trading](../i/insider.md), [algorithmic trading](../a/algorithmic_trading.md), and external events. Monitoring and addressing UMA is critical for ensuring the integrity and stability of [financial markets](../f/financial_market.md). Advanced technologies such as real-time surveillance systems, [data analytics](../d/data_analytics.md), and machine learning are increasingly being deployed to detect and analyze UMA. Regulatory bodies and financial institutions continue to refine their approaches to managing UMA to protect investors and maintain [market](../m/market.md) confidence.
+Unusual [Market](../m/market.md) Activity is a complex phenomenon that can be triggered by a variety of factors including [market manipulation](../m/market_manipulation.md), [insider trading](../i/insider.md), [algorithmic trading](../a/algorithmic_trading.md), and external events. Monitoring and addressing UMA is critical for ensuring the integrity and stability of [financial markets](../f/financial_market.md). Advanced technologies such as real-time surveillance systems, [data analytics](../d/data_analytics.md), and [machine learning](../m/machine_learning.md) are increasingly being deployed to detect and analyze UMA. Regulatory bodies and financial institutions continue to refine their approaches to managing UMA to protect investors and maintain [market](../m/market.md) confidence.

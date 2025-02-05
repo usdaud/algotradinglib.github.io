@@ -66,7 +66,7 @@ Advancements in technology have led to the development of sophisticated tools an
 [Blockchain](../b/blockchain_in_trading.md) can provide transparent, immutable records of transactions, reducing the [uncertainty](../u/uncertainty_in_trading.md) and potential for disputes in trading.
 
 ### 2. Artificial Intelligence (AI) and Machine Learning
-AI and machine learning models can analyze enormous datasets to predict [counterparty](../c/counterparty.md) defaults and optimize [risk management](../r/risk_management.md) strategies.
+AI and [machine learning](../m/machine_learning.md) models can analyze enormous datasets to predict [counterparty](../c/counterparty.md) defaults and optimize [risk management](../r/risk_management.md) strategies.
 
 ### 3. Cloud Computing
 Cloud-based platforms [offer](../o/offer.md) [scalability](../s/scalability.md) and real-time processing power, crucial for the heavy computational demands of [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md).
