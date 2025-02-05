@@ -83,7 +83,7 @@ Incorporating dividends and [interest](../i/interest.md) [income](../i/income.md
 
 ### Integration of AI and ML
 
-With advancements in [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML), algorithms are becoming more adept at recognizing patterns and predicting complete returns, thus optimizing strategies even further against [total return](../t/total_return.md) benchmarks.
+With advancements in [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML), algorithms are becoming more adept at recognizing patterns and predicting complete returns, thus optimizing strategies even further against [total return](../t/total_return.md) benchmarks.
 
 ### Granular Benchmarks
 

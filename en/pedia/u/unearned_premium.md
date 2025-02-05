@@ -66,15 +66,15 @@ Emerging financial technologies can [leverage](../l/leverage.md) unearned premiu
 
 1. **[Blockchain](../b/blockchain_in_trading.md) for [Smart Contracts](../s/smart_contracts_in_trading.md)**: [Blockchain](../b/blockchain_in_trading.md) technology can utilize [smart contracts](../s/smart_contracts_in_trading.md) to automate the tracking and conversion of unearned premiums to earned premiums, ensuring seamless and transparent financial reporting.
 
-2. **[InsurTech](../i/insurtech.md) Platforms**: These platforms can provide real-time analytics on unearned premiums for insurers, aiding in [risk management](../r/risk_management.md) and decision-making processes. Tools like machine learning can predict claims patterns, influencing how premiums are earned over the policy period.
+2. **[InsurTech](../i/insurtech.md) Platforms**: These platforms can provide real-time analytics on unearned premiums for insurers, aiding in [risk management](../r/risk_management.md) and decision-making processes. Tools like [machine learning](../m/machine_learning.md) can predict claims patterns, influencing how premiums are earned over the policy period.
 
 ### Practical Application in Companies
 
 #### Case Study: Lemonade Inc.
 
-[Lemonade Inc.](https://www.lemonade.com), a prominent [InsurTech](../i/insurtech.md) company, uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to manage their operations. They provide clear insights into unearned premiums through their advanced technology stack:
+[Lemonade Inc.](https://www.lemonade.com), a prominent [InsurTech](../i/insurtech.md) company, uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to manage their operations. They provide clear insights into unearned premiums through their advanced technology stack:
 
-- **AI and Machine Learning**: By leveraging AI algorithms, Lemonade can precisely calculate unearned premiums and predict future claims, optimizing the balance between earned and unearned revenues.
+- **AI and [Machine Learning](../m/machine_learning.md)**: By leveraging AI algorithms, Lemonade can precisely calculate unearned premiums and predict future claims, optimizing the balance between earned and unearned revenues.
 
 - **Real-Time [Data Analytics](../d/data_analytics.md)**: Lemonade's platform offers real-time analytics, allowing for agile management of liabilities and ensuring financial stability.
 

@@ -78,7 +78,7 @@ For those looking for advanced desktop trading software, [Thinkorswim](https://w
 
 ## Future Trends in Call Options Trading
 
-With advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, the future of call [options](../o/options.md) trading is likely to involve even more sophisticated algorithms capable of analyzing vast datasets in real-time. Additionally, [blockchain](../b/blockchain_in_trading.md) technology could [offer](../o/offer.md) new ways to [trade](../t/trade.md) [options](../o/options.md) more securely and transparently.
+With advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), the future of call [options](../o/options.md) trading is likely to involve even more sophisticated algorithms capable of analyzing vast datasets in real-time. Additionally, [blockchain](../b/blockchain_in_trading.md) technology could [offer](../o/offer.md) new ways to [trade](../t/trade.md) [options](../o/options.md) more securely and transparently.
 
 ## Conclusion
 

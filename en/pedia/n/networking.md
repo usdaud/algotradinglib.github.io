@@ -50,7 +50,7 @@ High-Frequency Trading uses algorithms and ultra-low-latency networks to execute
 [Cloud computing](../c/cloud_computing_in_trading.md) platforms [offer](../o/offer.md) scalable and flexible networking solutions for financial institutions. They facilitate data storage, processing, and sharing capabilities crucial for modern financial operations.
 
 ## Artificial Intelligence and Machine Learning
-AI and Machine Learning enable [predictive analytics](../p/predictive_analytics.md) and automated decision-making processes, enhancing the [efficiency](../e/efficiency.md) of networking by analyzing vast amounts of data and identifying trends.
+AI and [Machine Learning](../m/machine_learning.md) enable [predictive analytics](../p/predictive_analytics.md) and automated decision-making processes, enhancing the [efficiency](../e/efficiency.md) of networking by analyzing vast amounts of data and identifying trends.
 
 ## Application Programming Interfaces (APIs)
 APIs facilitate seamless integration between different financial systems and applications, ensuring smooth data flows, automation, and interoperability.

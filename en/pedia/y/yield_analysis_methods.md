@@ -45,7 +45,7 @@ Statistical measures provide a quantitative [basis](../b/basis.md) for evaluatin
   
 - **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md):** These algorithms simulate the process of natural selection to evolve strategies towards better performance over [multiple](../m/multiple.md) generations.
 
-- **Machine Learning-based [Optimization](../o/optimization.md):** Using machine learning models to predict optimal parameter settings based on historical data. Libraries like TensorFlow and Scikit-learn are often used for this purpose.
+- **[Machine Learning](../m/machine_learning.md)-based [Optimization](../o/optimization.md):** Using [machine learning](../m/machine_learning.md) models to predict optimal parameter settings based on historical data. Libraries like [TensorFlow](../t/tensorflow.md) and Scikit-learn are often used for this purpose.
   
     - [TensorFlow](https://www.tensorflow.org)
     - [Scikit-learn](https://scikit-learn.org)

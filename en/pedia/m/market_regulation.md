@@ -92,7 +92,7 @@ When violations of [market](../m/market.md) regulations are detected, regulatory
 
 ### 7. The Future of Market Regulation
 
-As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve with advances in technology, [market](../m/market.md) regulation [will](../w/will.md) need to adapt. This future might see the introduction of new regulatory technologies ([RegTech](../r/regtech.md)) that [leverage](../l/leverage.md) AI and machine learning to enhance compliance and regulatory monitoring.
+As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve with advances in technology, [market](../m/market.md) regulation [will](../w/will.md) need to adapt. This future might see the introduction of new regulatory technologies ([RegTech](../r/regtech.md)) that [leverage](../l/leverage.md) AI and [machine learning](../m/machine_learning.md) to enhance compliance and regulatory monitoring.
 
 #### 7.1. Global Coordination
 

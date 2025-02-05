@@ -70,7 +70,7 @@ Using [hedging strategies](../h/hedging_strategies.md) like [options](../o/optio
 
 ### Data-Driven Decision Making
 
-Utilizing advanced analytics, [algorithmic trading](../a/accountability.md), and machine learning models can aid in predicting [market](../m/market.md) movements and making informed decisions to mitigate underperformance.
+Utilizing advanced analytics, [algorithmic trading](../a/accountability.md), and [machine learning](../m/machine_learning.md) models can aid in predicting [market](../m/market.md) movements and making informed decisions to mitigate underperformance.
 
 ### Staying Informed
 

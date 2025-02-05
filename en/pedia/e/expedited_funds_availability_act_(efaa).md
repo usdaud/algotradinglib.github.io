@@ -92,7 +92,7 @@ The banking [industry](../i/industry.md) has adapted to the EFAA through innovat
 
 - **Remote [Deposit](../d/deposit.md) Capture**: [Offering](../o/offering.md) services that allow businesses to [deposit](../d/deposit.md) checks electronically, improving [cash flow](../c/cash_flow.md) management.
   
-- **Enhanced [Fraud](../f/fraud.md) Detection**: Deploying sophisticated algorithms and machine learning tools to detect and prevent [check](../c/check.md) [fraud](../f/fraud.md).
+- **Enhanced [Fraud](../f/fraud.md) Detection**: Deploying sophisticated algorithms and [machine learning](../m/machine_learning.md) tools to detect and prevent [check](../c/check.md) [fraud](../f/fraud.md).
 
 ## Conclusion
 

@@ -117,7 +117,7 @@ Estimating [Loan](../l/loan.md) Loss Provisions involves several challenges:
 To ensure accurate and adequate [Loan](../l/loan.md) Loss Provisions, financial institutions can adopt the following [best practices](../b/best_practices.md):
 
 1. **[Robust](../r/robust.md) Data Management**: Maintain high-quality, comprehensive, and up-to-date data to support accurate loss estimation.
-2. **Advanced Analytical Models**: Utilize sophisticated statistical and machine learning models to enhance the accuracy of PD and LGD estimates.
+2. **Advanced Analytical Models**: Utilize sophisticated statistical and [machine learning](../m/machine_learning.md) models to enhance the accuracy of PD and LGD estimates.
 3. **Regular Model Validation**: Conduct regular validation and back-testing of models to ensure their reliability and accuracy.
 4. **[Scenario Analysis](../s/scenario_analysis.md)**: Perform [scenario analysis](../s/scenario_analysis.md) and [stress testing](../s/stress_testing.md) to assess the impact of different [economic conditions](../e/economic_conditions.md) on [loan](../l/loan.md) losses.
 5. **Governance and Oversight**: Establish strong governance and oversight mechanisms to ensure compliance with regulatory requirements and internal policies.

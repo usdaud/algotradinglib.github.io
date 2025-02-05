@@ -38,7 +38,7 @@ In the context of [financial markets](../f/financial_market.md), the accumulatio
 
 ### Pattern Recognition Algorithms
 
-[Pattern recognition](../p/pattern_recognition.md) algorithms can scan historical data to identify patterns consistent with the accumulation phase. These can [range](../r/range.md) from simple price and [volume analysis](../v/volume_analysis.md) to more complex patterns identified through machine learning.
+[Pattern recognition](../p/pattern_recognition.md) algorithms can scan historical data to identify patterns consistent with the accumulation phase. These can [range](../r/range.md) from simple price and [volume analysis](../v/volume_analysis.md) to more complex patterns identified through [machine learning](../m/machine_learning.md).
 
 ### Sentiment Analysis Algorithms
 

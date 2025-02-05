@@ -32,7 +32,7 @@ Application of decision theory in [algorithmic trading](../a/accountability.md) 
 
 1. **Data Collection and Analysis**: The foundation of any algo-trading system is data. Systems collect vast amounts of data, including [market](../m/market.md) prices, [trade](../t/trade.md) volumes, [economic indicators](../e/economic_indicators.md), and even news sentiment.
 
-2. **Algorithm Development**: Algorithms are developed using various models from decision theory. For instance, they might use [utility functions](../u/utility_functions_in_trading.md) to assess the desirability of different trading outcomes or employ machine learning models to predict [market](../m/market.md) trends.
+2. **Algorithm Development**: Algorithms are developed using various models from decision theory. For instance, they might use [utility functions](../u/utility_functions_in_trading.md) to assess the desirability of different trading outcomes or employ [machine learning](../m/machine_learning.md) models to predict [market](../m/market.md) trends.
 
 3. **[Backtesting](../b/backtesting.md)**: Before deploying an algorithm, it is tested retrospectively with historical data to evaluate its effectiveness and robustness.
 
@@ -54,7 +54,7 @@ Firms such as [QuantConnect](https://www.quantconnect.com/) provide platforms wh
 
 [Algorithmic trading](../a/accountability.md) firms often deploy teams of quantitative analysts or 'quants' who specialize in applying mathematical and statistical methods to [financial markets](../f/financial_market.md). These teams work on:
 
-- **Model Selection**: Choosing appropriate models based on historical performance and theoretical backing. This may involve models from [econometrics](../e/econometrics_in_trading.md), statistical learning, or machine learning.
+- **Model Selection**: Choosing appropriate models based on historical performance and theoretical backing. This may involve models from [econometrics](../e/econometrics_in_trading.md), statistical learning, or [machine learning](../m/machine_learning.md).
 - **[Optimization](../o/optimization.md)**: Fine-tuning algorithm parameters to optimize performance while managing [risk](../r/risk.md).
 - **Behavioral Analysis**: Incorporating descriptive decision theories to account for [market](../m/market.md) participants' behaviors, such as irrational trading patterns.
 
@@ -80,4 +80,4 @@ Regulators around the world are increasingly scrutinizing algorithmic and high-f
 
 ## Conclusion
 
-Decision theory provides a comprehensive framework for understanding and enhancing decision-making processes. In the context of [algorithmic trading](../a/accountability.md), it offers invaluable insights and tools for developing sophisticated [trading systems](../t/trading_systems.md) that can operate in dynamic and complex [market](../m/market.md) environments. As technology advances, the integration of decision theory with other disciplines such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) [will](../w/will.md) likely continue to evolve, [offering](../o/offering.md) new opportunities and challenges in the [financial markets](../f/financial_market.md).
+Decision theory provides a comprehensive framework for understanding and enhancing decision-making processes. In the context of [algorithmic trading](../a/accountability.md), it offers invaluable insights and tools for developing sophisticated [trading systems](../t/trading_systems.md) that can operate in dynamic and complex [market](../m/market.md) environments. As technology advances, the integration of decision theory with other disciplines such as [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) [will](../w/will.md) likely continue to evolve, [offering](../o/offering.md) new opportunities and challenges in the [financial markets](../f/financial_market.md).

@@ -42,7 +42,7 @@
 
 ### 4. Machine Learning-Based Volatility Strategies
 
-**Machine Learning [Volatility](../v/volatility.md) Overview:** This approach uses advanced computational models to identify patterns in historical data, predicting future [volatility](../v/volatility.md) and price movements.
+**[Machine Learning](../m/machine_learning.md) [Volatility](../v/volatility.md) Overview:** This approach uses advanced computational models to identify patterns in historical data, predicting future [volatility](../v/volatility.md) and price movements.
 
 **How it Works:**
 - **[Neural Networks](../n/neural_networks_in_trading.md):** [Deep learning](../d/deep_learning.md) models trained on vast datasets to predict price movements.

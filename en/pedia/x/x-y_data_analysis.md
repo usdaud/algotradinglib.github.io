@@ -59,7 +59,7 @@ In [arbitrage](../a/arbitrage.md) trading, X-Y data analysis helps in identifyin
 Renaissance Technologies, founded by Jim Simons, is known for its data-driven approach to trading. The [firm](../f/firm.md) employs advanced [mathematical models](../m/mathematical_models_in_trading.md) to analyze [market](../m/market.md) data and execute trades. More details can be found on their [website](https://www.rentec.com/).
 
 ### Two Sigma
-Two Sigma utilizes machine learning, distributed computing, and vast amounts of data to identify patterns and make predictions about [financial markets](../f/financial_market.md). Their approach includes extensive use of X-Y data analysis in their [trading strategies](../t/trading_strategies.md). Visit their [website](https://www.twosigma.com/) for more information.
+Two Sigma utilizes [machine learning](../m/machine_learning.md), distributed computing, and vast amounts of data to identify patterns and make predictions about [financial markets](../f/financial_market.md). Their approach includes extensive use of X-Y data analysis in their [trading strategies](../t/trading_strategies.md). Visit their [website](https://www.twosigma.com/) for more information.
 
 ## Challenges in X-Y Data Analysis
 

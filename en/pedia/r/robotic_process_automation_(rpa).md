@@ -75,7 +75,7 @@ Blue Prism is known for its strong governance and [security](../s/security.md) f
 
 ### WorkFusion
 
-WorkFusion offers intelligent automation solutions that combine RPA with AI and Machine Learning, making it suitable for more complex automation needs.
+WorkFusion offers intelligent automation solutions that combine RPA with AI and [Machine Learning](../m/machine_learning.md), making it suitable for more complex automation needs.
 
 [WorkFusion](https://www.workfusion.com)
 
@@ -100,7 +100,7 @@ WorkFusion offers intelligent automation solutions that combine RPA with AI and 
 
 ### Hyperautomation
 
-Hyperautomation involves the use of advanced technologies like AI, Machine Learning, and [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) to further enhance the capabilities of RPA. This [trend](../t/trend.md) aims to automate more complex tasks that require cognitive abilities.
+Hyperautomation involves the use of advanced technologies like AI, [Machine Learning](../m/machine_learning.md), and [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) to further enhance the capabilities of RPA. This [trend](../t/trend.md) aims to automate more complex tasks that require cognitive abilities.
 
 ### Democratization of RPA
 

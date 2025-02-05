@@ -85,16 +85,16 @@ Once the model achieves satisfactory performance, it can be deployed in a real [
 Several companies [leverage](../l/leverage.md) Artificial [Neural Networks](../n/neural_networks_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md). Some notable examples include:
 
 1. **Kensho Technologies**: [kensho.com](https://kensho.com)
-   - Provides advanced analytics, AI, and machine learning solutions for [financial markets](../f/financial_market.md).
+   - Provides advanced analytics, AI, and [machine learning](../m/machine_learning.md) solutions for [financial markets](../f/financial_market.md).
    
 2. **Numerai**: [numer.ai](https://numer.ai)
-   - Uses encrypted data packages to crowdsource [trading algorithms](../t/trading_algorithms.md) based on machine learning models.
+   - Uses encrypted data packages to crowdsource [trading algorithms](../t/trading_algorithms.md) based on [machine learning](../m/machine_learning.md) models.
    
 3. **Two Sigma**: [twosigma.com](https://www.twosigma.com)
-   - Utilizes AI, machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) to develop [trading strategies](../t/trading_strategies.md).
+   - Utilizes AI, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) to develop [trading strategies](../t/trading_strategies.md).
    
 4. **WorldQuant**: [worldquant.com](https://www.worldquant.com)
-   - Employs [quantitative research](../q/quantitative_research.md) to create [trading strategies](../t/trading_strategies.md) using statistical models and machine learning.
+   - Employs [quantitative research](../q/quantitative_research.md) to create [trading strategies](../t/trading_strategies.md) using statistical models and [machine learning](../m/machine_learning.md).
 
 ## Challenges and Considerations
 
@@ -125,7 +125,7 @@ Training complex [neural networks](../n/neural_networks_in_trading.md) requires 
 
 ### Integrating Other AI Techniques
 
-Combining [neural networks](../n/neural_networks_in_trading.md) with other AI techniques like reinforcement learning, [genetic algorithms](../g/genetic_algorithms_in_trading.md), and swarm intelligence can enhance [trading strategies](../t/trading_strategies.md).
+Combining [neural networks](../n/neural_networks_in_trading.md) with other AI techniques like [reinforcement learning](../r/reinforcement_learning.md), [genetic algorithms](../g/genetic_algorithms_in_trading.md), and swarm intelligence can enhance [trading strategies](../t/trading_strategies.md).
 
 ### Quantum Computing
 

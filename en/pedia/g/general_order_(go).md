@@ -121,7 +121,7 @@ Excessive reliance on algorithmic orders might lead to over-[optimization](../o/
 ## Evolving Trends
 
 ### 1. Artificial Intelligence and Machine Learning
-Incorporating AI and machine learning into General Orders and [trading algorithms](../t/trading_algorithms.md) can enhance decision-making capabilities by analyzing vast amounts of data and identifying patterns.
+Incorporating AI and [machine learning](../m/machine_learning.md) into General Orders and [trading algorithms](../t/trading_algorithms.md) can enhance decision-making capabilities by analyzing vast amounts of data and identifying patterns.
 
 ### 2. Blockchain and Smart Contracts
 [Blockchain](../b/blockchain_in_trading.md) technology and [smart contracts](../s/smart_contracts_in_trading.md) [offer](../o/offer.md) potential for creating more secure and transparent [order](../o/order.md) [execution](../e/execution.md) processes, reducing the [risk](../r/risk.md) of [fraud](../f/fraud.md) and enhancing [trust](../t/trust.md).

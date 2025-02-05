@@ -32,7 +32,7 @@ Several factors drive the rotation of sectors within a portfolio:
 
 Algo-[trading strategies](../t/trading_strategies.md) for hot [sector rotation](../s/sector_rotation.md) are built on complex algorithms capable of processing vast amounts of data to identify optimal sector reallocation timings. The development process typically includes:
 - **Data Collection**: Gathering historical and real-time data from various sources, including [financial markets](../f/financial_market.md), economic reports, news articles, and [social media](../s/social_media.md).
-- **Modeling and [Optimization](../o/optimization.md)**: Creating [predictive models](../p/predictive_models_in_trading.md) using statistical methods, machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to forecast [sector performance](../s/sector_performance.md).
+- **Modeling and [Optimization](../o/optimization.md)**: Creating [predictive models](../p/predictive_models_in_trading.md) using statistical methods, [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to forecast [sector performance](../s/sector_performance.md).
 - **[Backtesting](../b/backtesting.md)**: Testing the effectiveness of the models on historical data to ensure reliability and [efficiency](../e/efficiency.md) before deployment.
 - **[Execution Algorithms](../e/execution_algorithms.md)**: Designing algorithms capable of making real-time trading decisions, ensuring they can execute large orders with minimal [market](../m/market.md) impact.
 
@@ -70,7 +70,7 @@ Individual investors can access [sector rotation](../s/sector_rotation.md) strat
 
 ### Machine Learning and AI
 
-Recent advances in machine learning and AI have revolutionized [sector rotation](../s/sector_rotation.md) strategies. These technologies enable the analysis of vast datasets beyond traditional financial metrics, including [social media sentiment](../s/social_media_sentiment.md), news flow, and [alternative data](../a/alternative_data.md) sources. Models trained using supervised learning, reinforcement learning, and [deep learning](../d/deep_learning.md) can provide more accurate predictions and adaptive [sector rotation](../s/sector_rotation.md) strategies.
+Recent advances in [machine learning](../m/machine_learning.md) and AI have revolutionized [sector rotation](../s/sector_rotation.md) strategies. These technologies enable the analysis of vast datasets beyond traditional financial metrics, including [social media sentiment](../s/social_media_sentiment.md), news flow, and [alternative data](../a/alternative_data.md) sources. Models trained using [supervised learning](../s/supervised_learning.md), [reinforcement learning](../r/reinforcement_learning.md), and [deep learning](../d/deep_learning.md) can provide more accurate predictions and adaptive [sector rotation](../s/sector_rotation.md) strategies.
 
 ### High-Frequency Trading (HFT)
 

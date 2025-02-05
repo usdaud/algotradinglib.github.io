@@ -1,6 +1,6 @@
 # Support Vector Machines (SVM)
 
-[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) are a set of supervised learning methods used for classification, regression, and outliers detection. Developed initially for binary classification problems, SVMs are powerful, versatile algorithms well-suited for a wide [range](../r/range.md) of tasks.
+[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) are a set of [supervised learning](../s/supervised_learning.md) methods used for classification, regression, and outliers detection. Developed initially for binary classification problems, SVMs are powerful, versatile algorithms well-suited for a wide [range](../r/range.md) of tasks.
 
 ## Fundamentals of SVM
 
@@ -68,10 +68,10 @@ One-Class SVM, an extension of SVM, is particularly useful for outlier detection
 
 ### Libraries and Tools
 
-1. **scikit-learn**: A popular Python library for machine learning, which provides [robust](../r/robust.md) support for SVM through its `svm` module. [scikit-learn](https://scikit-learn.org/stable/modules/svm.html)
+1. **scikit-learn**: A popular Python library for [machine learning](../m/machine_learning.md), which provides [robust](../r/robust.md) support for SVM through its `svm` module. [scikit-learn](https://scikit-learn.org/stable/modules/svm.html)
 2. **LIBSVM**: A library for [Support Vector Machines](../s/support_vector_machines_in_trading.md) that is widely used for SVM implementation. [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
-3. **TensorFlow**: An [open](../o/open.md)-source library for machine learning that also supports SVM implementations. [TensorFlow SVM](https://www.tensorflow.org/overview)
-4. **KERAS**: An [open](../o/open.md)-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md) and also has modules to integrate SVM. [KERAS](https://keras.io/)
+3. **[TensorFlow](../t/tensorflow.md)**: An [open](../o/open.md)-source library for [machine learning](../m/machine_learning.md) that also supports SVM implementations. [TensorFlow SVM](https://www.tensorflow.org/overview)
+4. **[KERAS](../k/keras.md)**: An [open](../o/open.md)-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md) and also has modules to integrate SVM. [KERAS](https://keras.io/)
 
 ### Example Code in Python
 
@@ -117,7 +117,7 @@ Bioinformatics involves large datasets, such as gene expression data. SVMs can c
 
 ### Image and Speech Recognition
 
-SVMs are widely used in image and speech recognition systems. They help in handwriting recognition, face detection, and voice classification.
+SVMs are widely used in image and [speech recognition](../s/speech_recognition.md) systems. They help in handwriting recognition, face detection, and voice classification.
 
 ### Text Categorization
 

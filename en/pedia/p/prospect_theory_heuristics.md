@@ -45,7 +45,7 @@ Several companies and platforms have successfully integrated [Prospect Theory](.
    - [QuantConnect](https://www.quantconnect.com/) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It uses advanced [data analytics](../d/data_analytics.md) to address [behavioral biases](../b/behavioral_biases_in_trading.md) explained by [Prospect Theory](../p/prospect_theory_in_trading.md).
 
 2. **Kensho Technologies**:
-   - [Kensho Technologies](https://home.kensho.com/) leverages machine learning and advanced analytics to interpret vast amounts of data and predicts [market](../m/market.md) movements with an awareness of [behavioral biases](../b/behavioral_biases_in_trading.md).
+   - [Kensho Technologies](https://home.kensho.com/) leverages [machine learning](../m/machine_learning.md) and advanced analytics to interpret vast amounts of data and predicts [market](../m/market.md) movements with an awareness of [behavioral biases](../b/behavioral_biases_in_trading.md).
 
 3. **Sigmoid [Capital](../c/capital.md)**:
    - [Sigmoid Capital](https://www.sigmoidcapital.com/) focuses on using [behavioral economics](../b/behavioral_economics.md) to guide their investment strategies. They employ algorithms that account for [investor](../i/investor.md) sentiment and [market](../m/market.md) psychology in their [trading models](../t/trading_models.md).

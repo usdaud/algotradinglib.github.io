@@ -40,7 +40,7 @@ Several critical factors and tools are used in dynamic [portfolio hedging](../p/
 
 ### 3.3 Algorithms
 
-The application of algorithms in [dynamic hedging](../d/dynamic_hedging.md) allows for the automated adjustment of positions. High-frequency trading firms, in particular, rely heavily on [algorithmic trading](../a/algorithmic_trading.md) strategies to manage their dynamic hedges. Algorithms can be based on a variety of approaches such as statistical [arbitrage](../a/arbitrage.md), machine learning, and more.
+The application of algorithms in [dynamic hedging](../d/dynamic_hedging.md) allows for the automated adjustment of positions. High-frequency trading firms, in particular, rely heavily on [algorithmic trading](../a/algorithmic_trading.md) strategies to manage their dynamic hedges. Algorithms can be based on a variety of approaches such as statistical [arbitrage](../a/arbitrage.md), [machine learning](../m/machine_learning.md), and more.
 
 ## 4. Major Firms Specializing in Dynamic Hedging
 
@@ -48,7 +48,7 @@ Several companies are at the forefront of dynamic [portfolio hedging](../p/portf
 
 - **AQR [Capital](../c/capital.md) Management**: Known for their quantitative approach to trading and [investment management](../i/investment_management.md), AQR uses [dynamic hedging](../d/dynamic_hedging.md) techniques to manage [risk](../r/risk.md) across its portfolios. [AQR Capital Management](https://www.aqr.com/).
 
-- **Two Sigma Investments**: A [hedge fund](../h/hedge_fund.md) that employs machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify [market](../m/market.md) patterns and dynamically [hedge](../h/hedge.md) positions. [Two Sigma Investments](https://www.twosigma.com/).
+- **Two Sigma Investments**: A [hedge fund](../h/hedge_fund.md) that employs [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify [market](../m/market.md) patterns and dynamically [hedge](../h/hedge.md) positions. [Two Sigma Investments](https://www.twosigma.com/).
 
 - **DE Shaw & Co**: An investment and technology development [firm](../f/firm.md), DE Shaw employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for [dynamic hedging](../d/dynamic_hedging.md). [DE Shaw & Co](https://www.deshaw.com/).
 

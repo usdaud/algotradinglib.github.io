@@ -1,7 +1,7 @@
 # X-Trend Following
 
 ### Introduction
-[Trend following](../t/trend_following.md) is a popular [trading strategy](../t/trading_strategy.md) that attempts to capture gains through the analysis of an [asset](../a/asset.md)'s [momentum](../m/momentum.md) in a particular direction. X-[Trend Following](../t/trend_following.md) is an advanced variant of this strategy that incorporates complex algorithms, machine learning models, and other sophisticated techniques to enhance the predictive capabilities and profitability of [trend](../t/trend.md)-following systems.
+[Trend following](../t/trend_following.md) is a popular [trading strategy](../t/trading_strategy.md) that attempts to capture gains through the analysis of an [asset](../a/asset.md)'s [momentum](../m/momentum.md) in a particular direction. X-[Trend Following](../t/trend_following.md) is an advanced variant of this strategy that incorporates complex algorithms, [machine learning](../m/machine_learning.md) models, and other sophisticated techniques to enhance the predictive capabilities and profitability of [trend](../t/trend.md)-following systems.
 
 ### The Basics of Trend Following
 Traditional [trend following](../t/trend_following.md) revolves around the concept of buying an [asset](../a/asset.md) when its price is moving upwards and selling it when the price is moving downwards. It is based on the hypothesis that assets which have been trending in a certain direction for a period are more likely to continue moving in that direction. This strategy relies on various tools and indicators such as moving averages, moving average convergence [divergence](../d/divergence.md) (MACD), and [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI).
@@ -13,7 +13,7 @@ X-[Trend Following](../t/trend_following.md) goes beyond traditional methods by 
 Modern X-[Trend Following](../t/trend_following.md) platforms integrate [multiple](../m/multiple.md) data sources including financial databases, [social media](../s/social_media.md) [sentiment analysis](../s/sentiment_analysis.md), [economic indicators](../e/economic_indicators.md), and news feeds. This multi-source approach aims to capture a more comprehensive view of [market](../m/market.md) trends.
 
 #### Machine Learning Models
-Machine learning (ML) models are key to X-[Trend Following](../t/trend_following.md). These models can recognize intricate patterns and relationships within the data that might be missed by human analysts or simpler algorithms. Techniques like supervised learning, unsupervised learning, and reinforcement learning are often utilized. 
+[Machine learning](../m/machine_learning.md) (ML) models are key to X-[Trend Following](../t/trend_following.md). These models can recognize intricate patterns and relationships within the data that might be missed by human analysts or simpler algorithms. Techniques like [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md) are often utilized. 
 
 #### Natural Language Processing (NLP)
 NLP can parse and comprehend vast quantities of text-based data such as news articles, analyst reports, and [social media](../s/social_media.md) posts. By interpreting sentiment and context, NLP enhances [trend](../t/trend.md)-following algorithms by providing insightful [sentiment analysis](../s/sentiment_analysis.md) and event impact assessments.
@@ -51,7 +51,7 @@ NLP can parse and comprehend vast quantities of text-based data such as news art
    - The use of sophisticated models and diverse data sources increases the accuracy of [trend](../t/trend.md) predictions.
    
 2. **Adaptability**
-   - Machine learning models can adapt to changing [market](../m/market.md) conditions and evolving trends, enhancing the robustness of the strategy.
+   - [Machine learning](../m/machine_learning.md) models can adapt to changing [market](../m/market.md) conditions and evolving trends, enhancing the robustness of the strategy.
    
 3. **[Scalability](../s/scalability.md)**
    - Automated systems can [handle](../h/handle.md) large volumes of data and execute a high number of transactions efficiently, making it scalable for institutional-level trading.
@@ -79,7 +79,7 @@ NLP can parse and comprehend vast quantities of text-based data such as news art
 Renaissance Technologies is one of the most well-known firms employing sophisticated [quantitative models](../q/quantitative_models.md), including advanced [trend](../t/trend.md)-following algorithms. More information can be found on their website [here](https://www.rentec.com).
 
 **2. Two Sigma**
-Two Sigma uses machine learning, distributed computing, and other advanced technologies to manage assets via algorithmic strategies, including [trend following](../t/trend_following.md). Detailed information is available on their site [here](https://www.twosigma.com).
+Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies to manage assets via algorithmic strategies, including [trend following](../t/trend_following.md). Detailed information is available on their site [here](https://www.twosigma.com).
 
 ### Conclusion
 X-[Trend Following](../t/trend_following.md) represents a significant evolution in [algorithmic trading](../a/algorithmic_trading.md) strategies by integrating advanced technologies and methodologies to enhance traditional [trend following](../t/trend_following.md). Despite its complexities and challenges, when executed correctly, it offers considerable potential for predictive accuracy, adaptability, and [scalability](../s/scalability.md) in trading.

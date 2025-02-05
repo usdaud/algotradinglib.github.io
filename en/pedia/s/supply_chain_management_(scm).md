@@ -60,7 +60,7 @@ Several technologies are transforming [supply chain](../s/supply_chain.md) manag
 
 - **[Blockchain](../b/blockchain_in_trading.md):** [Blockchain](../b/blockchain_in_trading.md) technology provides a secure and transparent way to track the movement of goods and verify transactions within the [supply chain](../s/supply_chain.md). It can help reduce [fraud](../f/fraud.md), improve traceability, and enhance [trust](../t/trust.md) among stakeholders.
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning:** AI and machine learning can analyze large volumes of data to identify patterns, predict [demand](../d/demand.md), optimize routes, and improve decision-making processes.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md):** AI and [machine learning](../m/machine_learning.md) can analyze large volumes of data to identify patterns, predict [demand](../d/demand.md), optimize routes, and improve decision-making processes.
 
 - **Internet of Things (IoT):** IoT devices can collect real-time data on the condition and location of goods throughout the [supply chain](../s/supply_chain.md). This information can be used to monitor [inventory](../i/inventory.md) levels, track shipments, and ensure product quality.
 

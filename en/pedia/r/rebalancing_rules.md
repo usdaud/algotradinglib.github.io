@@ -80,7 +80,7 @@ Several companies provide tools and services tailored for [portfolio rebalancing
 
 ## The Future of Rebalancing
 
-The future of [rebalancing](../r/rebalancing.md) is expected to see increased automation and integration of advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning. These technologies [will](../w/will.md) enhance the [efficiency](../e/efficiency.md) and effectiveness of [rebalancing strategies](../r/rebalancing_strategies.md).
+The future of [rebalancing](../r/rebalancing.md) is expected to see increased automation and integration of advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md). These technologies [will](../w/will.md) enhance the [efficiency](../e/efficiency.md) and effectiveness of [rebalancing strategies](../r/rebalancing_strategies.md).
 
 ### Artificial Intelligence and Machine Learning
 AI and ML can improve the decision-making process by analyzing vast amounts of historical and real-time data to predict [market](../m/market.md) movements and optimize [rebalancing](../r/rebalancing.md) actions.

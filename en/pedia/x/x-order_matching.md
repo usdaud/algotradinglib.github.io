@@ -20,7 +20,7 @@ X-[Order](../o/order.md) Matching diverges from traditional models by introducin
    - Orders are intelligently routed across various markets and exchanges to find the best [execution](../e/execution.md). This minimizes [market](../m/market.md) impact and [slippage](../s/slippage.md), thereby improving [trade](../t/trade.md) [efficiency](../e/efficiency.md).
   
 4. **Algorithmic Enhancements:**
-   - Utilizing machine learning and AI, the system adapts in real-time, adjusting matching criteria based on current [market](../m/market.md) conditions and participant behavior.
+   - Utilizing [machine learning](../m/machine_learning.md) and AI, the system adapts in real-time, adjusting matching criteria based on current [market](../m/market.md) conditions and participant behavior.
 
 #### Advantages of X-Order Matching
 

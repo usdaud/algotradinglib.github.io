@@ -217,9 +217,9 @@ Careful selection of window size and lookback period is critical. Strategies mus
 
 ## Future Trends and Prospects
 
-Advancements in machine learning and [data science](../d/data_science_in_trading.md) are continually evolving windowed [trading strategies](../t/trading_strategies.md):
+Advancements in [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md) are continually evolving windowed [trading strategies](../t/trading_strategies.md):
 - **[Deep Learning](../d/deep_learning.md):** Incorporating [neural networks](../n/neural_networks_in_trading.md) for more sophisticated [pattern recognition](../p/pattern_recognition.md).
-- **Reinforcement Learning:** Adaptive models that learn optimal trading actions.
+- **[Reinforcement Learning](../r/reinforcement_learning.md):** Adaptive models that learn optimal trading actions.
 - **[Alternative Data](../a/alternative_data.md) Sources:** Utilizing non-traditional data like [social media sentiment](../s/social_media_sentiment.md).
 
 ## Conclusion

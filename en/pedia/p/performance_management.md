@@ -114,7 +114,7 @@ Bridgewater Associates is one of the largest [hedge](../h/hedge.md) funds global
 
 ### 2. **Two Sigma**
 
-Two Sigma utilizes cutting-edge technology, including [big data](../b/big_data_in_trading.md) and machine learning, to manage performance. Their quantitative approach helps them systematically analyze performance and continuously refine their [trading strategies](../t/trading_strategies.md).
+Two Sigma utilizes cutting-edge technology, including [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md), to manage performance. Their quantitative approach helps them systematically analyze performance and continuously refine their [trading strategies](../t/trading_strategies.md).
 
 [Two Sigma](https://www.twosigma.com/)
 

@@ -46,9 +46,9 @@ In a [risk](../r/risk.md)-[neutral](../n/neutral.md) world, every [investor](../
 For complex instruments, analytical solutions may not be possible. [Numerical methods](../n/numerical_methods_in_trading.md) like [finite difference methods](../f/finite_difference_methods.md) and lattice models (e.g., the binomial model) are employed.
 
 ### Machine Learning
-Machine learning models are increasingly applied to pricing problems. Approaches include:
-- **Supervised Learning**: Models trained on historical data to predict prices.
-- **Reinforcement Learning**: Agents learn strategies to maximize returns.
+[Machine learning](../m/machine_learning.md) models are increasingly applied to pricing problems. Approaches include:
+- **[Supervised Learning](../s/supervised_learning.md)**: Models trained on historical data to predict prices.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Agents learn strategies to maximize returns.
 
 ### High-Frequency Trading (HFT)
 Firms use algorithms to [trade](../t/trade.md) large volumes at high speeds to take advantage of small price discrepancies. Companies like [Virtu Financial](https://www.virtu.com) are leaders in this space.

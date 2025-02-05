@@ -75,7 +75,7 @@ Successful trading of [trend](../t/trend.md) reversals necessitates [robust](../
    - Assume that prices [will](../w/will.md) revert to their mean values over time.
    - Algorithms identify deviations from the mean and place trades anticipating a [reversal](../r/reversal.md).
 
-2. **Machine Learning Models**:
+2. **[Machine Learning](../m/machine_learning.md) Models**:
    - Employ historical data to train models that predict future price movements.
    - These models can adapt to changing [market](../m/market.md) conditions and improve over time.
 

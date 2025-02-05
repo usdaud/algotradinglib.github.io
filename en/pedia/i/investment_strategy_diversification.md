@@ -60,7 +60,7 @@ Strategies that involve the use of statistical models to identify and exploit pr
 
 ### Machine Learning Models
 
-Utilizing machine learning techniques to dynamically adapt [trading strategies](../t/trading_strategies.md) based on [market](../m/market.md) conditions and historical data.
+Utilizing [machine learning](../m/machine_learning.md) techniques to dynamically adapt [trading strategies](../t/trading_strategies.md) based on [market](../m/market.md) conditions and historical data.
 
 ### Risk Management Algorithms
 
@@ -72,7 +72,7 @@ Automated systems that regularly reallocate investments within a portfolio to ma
 
 ### Example: Two Sigma
 
-Two Sigma (https://www.twosigma.com/) is a prominent example of a [firm](../f/firm.md) that employs advanced technology and [data science](../d/data_science_in_trading.md) to implement diversified [algorithmic trading](../a/algorithmic_trading.md) strategies. They [leverage](../l/leverage.md) machine learning, distributed computing, and other quantitative methods to enhance the [diversification](../d/diversification.md) and performance of their investment portfolios.
+Two Sigma (https://www.twosigma.com/) is a prominent example of a [firm](../f/firm.md) that employs advanced technology and [data science](../d/data_science_in_trading.md) to implement diversified [algorithmic trading](../a/algorithmic_trading.md) strategies. They [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md), distributed computing, and other quantitative methods to enhance the [diversification](../d/diversification.md) and performance of their investment portfolios.
 
 ## Challenges in Diversification
 

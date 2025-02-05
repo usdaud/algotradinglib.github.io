@@ -26,7 +26,7 @@ Accurate detection of regime shifts is essential for adapting [trading strategie
 ### Machine Learning Techniques
 
 1. **[Hidden Markov Models](../h/hidden_markov_models.md) (HMMs)**: These models assume that the [market](../m/market.md) can be in one of several hidden states and model the probability of transitioning between these states.
-2. **Reinforcement Learning**: This technique can be used to adaptively learn and adjust to different [market](../m/market.md) regimes by receiving feedback from the [trading environment](../t/trading_environment.md).
+2. **[Reinforcement Learning](../r/reinforcement_learning.md)**: This technique can be used to adaptively learn and adjust to different [market](../m/market.md) regimes by receiving feedback from the [trading environment](../t/trading_environment.md).
 3. **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models can be trained on historical data to recognize patterns that precede regime shifts.
 
 ### Signal Processing Methods
@@ -59,9 +59,9 @@ Several trading firms and financial institutions implement regime shift detectio
 
 - **AQR [Capital](../c/capital.md) Management**: AQR incorporates regime detection in their [quantitative strategies](../q/quantitative_strategies_in_trading.md) to adjust [risk](../r/risk.md) and allocation dynamically. [AQR Capital Management](https://www.aqr.com/)
 
-- **Two Sigma**: This [firm](../f/firm.md) leverages machine learning and statistical methods to identify regime shifts and optimize [trading strategies](../t/trading_strategies.md) accordingly. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: This [firm](../f/firm.md) leverages [machine learning](../m/machine_learning.md) and statistical methods to identify regime shifts and optimize [trading strategies](../t/trading_strategies.md) accordingly. [Two Sigma](https://www.twosigma.com/)
 
-- **WorldQuant**: Utilizes advanced statistical techniques and machine learning models to detect and adapt to regime shifts in their [algorithmic trading](../a/algorithmic_trading.md) strategies. [WorldQuant](https://www.worldquant.com/)
+- **WorldQuant**: Utilizes advanced statistical techniques and [machine learning](../m/machine_learning.md) models to detect and adapt to regime shifts in their [algorithmic trading](../a/algorithmic_trading.md) strategies. [WorldQuant](https://www.worldquant.com/)
 
 ## Challenges and Considerations
 
@@ -73,7 +73,7 @@ High-quality, granular data is essential for accurate detection of regime shifts
 
 ### Overfitting Risks
 
-Using complex models, especially in machine learning, can lead to [overfitting](../o/overfitting.md), where the model performs well on historical data but fails to generalize to new [market](../m/market.md) conditions. Regularization techniques and cross-validation can help mitigate this [risk](../r/risk.md).
+Using complex models, especially in [machine learning](../m/machine_learning.md), can lead to [overfitting](../o/overfitting.md), where the model performs well on historical data but fails to generalize to new [market](../m/market.md) conditions. Regularization techniques and cross-validation can help mitigate this [risk](../r/risk.md).
 
 ### Latency and Execution
 
@@ -85,4 +85,4 @@ Strategies need to be [robust](../r/robust.md) to avoid frequent adjustments to 
 
 ## Conclusion
 
-Regime shifts are an inherent aspect of [financial markets](../f/financial_market.md), and successful [algorithmic trading](../a/algorithmic_trading.md) strategies must be adept at detecting and adapting to these changes. By employing a combination of statistical methods, machine learning techniques, and [signal processing](../s/signal_processing_in_trading.md) methods, traders can enhance their ability to navigate different [market](../m/market.md) regimes. However, it is crucial to consider data quality, avoid [overfitting](../o/overfitting.md), and ensure timely [execution](../e/execution.md) to effectively [capitalize](../c/capitalize.md) on regime shifts. As the [financial markets](../f/financial_market.md) continue to evolve, the ability to detect and adapt to regime shifts [will](../w/will.md) remain a key determinant of trading success.
+Regime shifts are an inherent aspect of [financial markets](../f/financial_market.md), and successful [algorithmic trading](../a/algorithmic_trading.md) strategies must be adept at detecting and adapting to these changes. By employing a combination of statistical methods, [machine learning](../m/machine_learning.md) techniques, and [signal processing](../s/signal_processing_in_trading.md) methods, traders can enhance their ability to navigate different [market](../m/market.md) regimes. However, it is crucial to consider data quality, avoid [overfitting](../o/overfitting.md), and ensure timely [execution](../e/execution.md) to effectively [capitalize](../c/capitalize.md) on regime shifts. As the [financial markets](../f/financial_market.md) continue to evolve, the ability to detect and adapt to regime shifts [will](../w/will.md) remain a key determinant of trading success.

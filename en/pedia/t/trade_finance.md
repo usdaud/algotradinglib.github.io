@@ -93,7 +93,7 @@ Many fintech companies and financial institutions have developed digital platfor
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning are being employed to analyze large sets of data related to [trade](../t/trade.md) [finance](../f/finance.md). These technologies can help in assessing [credit risk](../c/credit_risk.md), detecting [fraud](../f/fraud.md), and predicting [market](../m/market.md) trends to make informed decisions.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) are being employed to analyze large sets of data related to [trade](../t/trade.md) [finance](../f/finance.md). These technologies can help in assessing [credit risk](../c/credit_risk.md), detecting [fraud](../f/fraud.md), and predicting [market](../m/market.md) trends to make informed decisions.
 
 ### Internet of Things (IoT)
 

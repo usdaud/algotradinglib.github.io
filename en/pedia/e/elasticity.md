@@ -93,4 +93,4 @@ For further information on companies that specialize in integrating advanced the
 - [Numerai](https://numer.ai)
 - [Two Sigma](https://www.twosigma.com)
 
-These organizations [leverage](../l/leverage.md) sophisticated data analysis and machine learning techniques to enhance [trading strategies](../t/trading_strategies.md), incorporating a wide array of financial theories and models, including elasticity.
+These organizations [leverage](../l/leverage.md) sophisticated data analysis and [machine learning](../m/machine_learning.md) techniques to enhance [trading strategies](../t/trading_strategies.md), incorporating a wide array of financial theories and models, including elasticity.

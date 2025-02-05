@@ -76,7 +76,7 @@ Global [supply](../s/supply.md) chains have become increasingly complex, with bu
 
 ### Competitive Practices in the Digital Age
 
-As businesses [leverage](../l/leverage.md) [data analytics](../d/data_analytics.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning to optimize pricing strategies, the potential for [price discrimination](../p/price_discrimination.md) increases. Regulators and policymakers must address the challenges posed by these advanced technologies and ensure that competitive practices remain fair and transparent.
+As businesses [leverage](../l/leverage.md) [data analytics](../d/data_analytics.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) to optimize pricing strategies, the potential for [price discrimination](../p/price_discrimination.md) increases. Regulators and policymakers must address the challenges posed by these advanced technologies and ensure that competitive practices remain fair and transparent.
 
 ## Conclusion
 

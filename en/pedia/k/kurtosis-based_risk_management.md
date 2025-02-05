@@ -57,7 +57,7 @@ Several trading platforms and software incorporate [kurtosis](../k/kurtosis.md)-
 
 #### 2. Numer.ai
 
-Numerai is a [hedge fund](../h/hedge_fund.md) that leverages machine learning and AI for trading. Their focus on statistical modeling includes leveraging advanced [risk metrics](../r/risk_metrics.md) like [kurtosis](../k/kurtosis.md) to refine [trading algorithms](../t/trading_algorithms.md).
+Numerai is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and AI for trading. Their focus on statistical modeling includes leveraging advanced [risk metrics](../r/risk_metrics.md) like [kurtosis](../k/kurtosis.md) to refine [trading algorithms](../t/trading_algorithms.md).
 
 - [Numer.ai](https://numer.ai/)
 
@@ -69,7 +69,7 @@ Numerai is a [hedge fund](../h/hedge_fund.md) that leverages machine learning an
 
 ### Case Study: Portfolio Management with Kurtosis
 
-Consider a [portfolio manager](../p/portfolio_manager.md) who uses a machine learning model to predict stock returns. By incorporating [kurtosis](../k/kurtosis.md), the model not only predicts returns but also alerts the manager to the probability of extreme returns, enabling better [risk](../r/risk.md)-adjusted decisions.
+Consider a [portfolio manager](../p/portfolio_manager.md) who uses a [machine learning](../m/machine_learning.md) model to predict stock returns. By incorporating [kurtosis](../k/kurtosis.md), the model not only predicts returns but also alerts the manager to the probability of extreme returns, enabling better [risk](../r/risk.md)-adjusted decisions.
 
 1. **Data Collection**: Historical stock returns are gathered.
 2. **[Kurtosis](../k/kurtosis.md) Calculation**: The [kurtosis](../k/kurtosis.md) of the stock returns is computed.

@@ -78,7 +78,7 @@ While Level 3 assets come with inherent risks and challenges, they can also prov
 
 ## Future Trends
 
-- **Technological Advancements**: The advent of technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning offers new ways to improve the [valuation models](../v/valuation_models.md) for Level 3 assets. These technologies can analyze large datasets more effectively, identify patterns, and make more accurate predictions.
+- **Technological Advancements**: The advent of technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) offers new ways to improve the [valuation models](../v/valuation_models.md) for Level 3 assets. These technologies can analyze large datasets more effectively, identify patterns, and make more accurate predictions.
 
 - **[Blockchain](../b/blockchain_in_trading.md) and Tokenization**: [Blockchain](../b/blockchain_in_trading.md) technology and the tokenization of assets could bring increased [transparency](../t/transparency.md) and [liquidity](../l/liquidity.md) to certain types of Level 3 assets, particularly in areas like [real estate](../r/real_estate.md) and [private equity](../p/private_equity.md).
 

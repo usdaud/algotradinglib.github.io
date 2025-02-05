@@ -76,10 +76,10 @@ Once the rules have been thoroughly tested and optimized, they can be deployed i
 
 ### Machine Learning in Rule Development
 
-Machine learning (ML) can enhance rule development by identifying complex patterns and adapting to changing [market](../m/market.md) conditions. Various ML models are used, such as:
+[Machine learning](../m/machine_learning.md) (ML) can enhance rule development by identifying complex patterns and adapting to changing [market](../m/market.md) conditions. Various ML models are used, such as:
 
-- **Supervised Learning:** Algorithms like Random Forest, [Support Vector Machines](../s/support_vector_machines_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) are trained using labeled historical data.
-- **Unsupervised Learning:** Models like [k-means clustering](../k/k-means_clustering_in_trading.md) can identify inherent [market](../m/market.md) patterns without preset labels.
+- **[Supervised Learning](../s/supervised_learning.md):** Algorithms like Random Forest, [Support Vector Machines](../s/support_vector_machines_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) are trained using labeled historical data.
+- **[Unsupervised Learning](../u/unsupervised_learning.md):** Models like [k-means clustering](../k/k-means_clustering_in_trading.md) can identify inherent [market](../m/market.md) patterns without preset labels.
   
 Integration of platforms like [TensorFlow](https://www.tensorflow.org/) for Python allows for sophisticated ML model building and usage in algo trading.
 
@@ -101,6 +101,6 @@ Numerous frameworks help simplify rule development and algo trading:
 
 ## Conclusion
 
-Rule development in trading is a multifaceted process that encompasses defining objectives, collecting and analyzing data, developing and back-testing rules, and [optimization](../o/optimization.md). The ever-evolving field of algo trading continues to integrate advanced technologies like machine learning to stay ahead of the curve. Mastery in rule development therefore requires not just technical acumen but also strategic planning and continuous adaptability.
+Rule development in trading is a multifaceted process that encompasses defining objectives, collecting and analyzing data, developing and back-testing rules, and [optimization](../o/optimization.md). The ever-evolving field of algo trading continues to integrate advanced technologies like [machine learning](../m/machine_learning.md) to stay ahead of the curve. Mastery in rule development therefore requires not just technical acumen but also strategic planning and continuous adaptability.
 
 For further reading and deep dives, please consult platforms like [QuantConnect](https://www.quantconnect.com) and specific financial data providers to start your rule development journey.

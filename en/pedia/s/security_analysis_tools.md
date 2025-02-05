@@ -23,7 +23,7 @@ MetaTrader is a popular [trading platform](../t/trading_platform.md), particular
 
 ### a. NumPy
 
-NumPy (Numerical Python) is a fundamental library for array computing in Python, which forms the foundation for many higher-level data analysis and machine learning libraries that are used in [algorithmic trading](../a/algorithmic_trading.md). It supports large multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
+NumPy (Numerical Python) is a fundamental library for array computing in Python, which forms the foundation for many higher-level data analysis and [machine learning](../m/machine_learning.md) libraries that are used in [algorithmic trading](../a/algorithmic_trading.md). It supports large multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
 [More about NumPy](https://numpy.org/)
 
 ### b. Pandas

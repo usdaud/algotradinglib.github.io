@@ -85,17 +85,17 @@ Compliance with regulatory standards is mandatory in the financial [industry](..
 
 ### Role and Importance
 
-Cloud services have revolutionized the financial [industry](../i/industry.md) by [offering](../o/offering.md) scalable, secure, and cost-effective solutions for data storage, computing power, machine learning, and more. Many algo trading firms [leverage](../l/leverage.md) third-party cloud services for their computational needs.
+Cloud services have revolutionized the financial [industry](../i/industry.md) by [offering](../o/offering.md) scalable, secure, and cost-effective solutions for data storage, computing power, [machine learning](../m/machine_learning.md), and more. Many algo trading firms [leverage](../l/leverage.md) third-party cloud services for their computational needs.
 
 ### Examples
 
-- **Amazon Web Services (AWS)**: Offers a broad [range](../r/range.md) of [cloud computing](../c/cloud_computing_in_trading.md) services, including data storage, machine learning, and high-performance computing capabilities.
+- **Amazon Web Services (AWS)**: Offers a broad [range](../r/range.md) of [cloud computing](../c/cloud_computing_in_trading.md) services, including data storage, [machine learning](../m/machine_learning.md), and high-performance computing capabilities.
   [AWS Finance Solutions](https://aws.amazon.com/financial-services/)
 
 - **Microsoft Azure**: Provides cloud services tailored for financial institutions, including advanced analytics, data Lake storage, and AI capabilities.
   [Microsoft Azure](https://azure.microsoft.com/en-us/industries/financial-services/)
 
-- **Google Cloud Platform (GCP)**: Delivers [cloud computing](../c/cloud_computing_in_trading.md) services, [big data](../b/big_data_in_trading.md), and machine learning solutions suitable for [financial analysis](../f/financial_analysis.md) and algo trading.
+- **Google Cloud Platform (GCP)**: Delivers [cloud computing](../c/cloud_computing_in_trading.md) services, [big data](../b/big_data_in_trading.md), and [machine learning](../m/machine_learning.md) solutions suitable for [financial analysis](../f/financial_analysis.md) and algo trading.
   [Google Cloud Financial Services](https://cloud.google.com/solutions/financial-services)
 
 ## Third-Party Broker Services

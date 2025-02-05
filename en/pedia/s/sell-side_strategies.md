@@ -34,7 +34,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves using [quantitative models](
 - **Key Techniques:**
   - [Pairs Trading](../p/pairs_trading.md): Involves trading pairs of securities that are historically correlated. When their price [correlation](../c/correlation.md) temporarily diverges, the strategy predicts their convergence.
   - [Mean Reversion](../m/mean_reversion.md): Based on the assumption that [asset](../a/asset.md) prices [will](../w/will.md) revert to their historical mean over time.
-  - Machine Learning: Utilizes advanced data analysis and machine learning techniques to identify patterns and predict price movements.
+  - [Machine Learning](../m/machine_learning.md): Utilizes advanced data analysis and [machine learning](../m/machine_learning.md) techniques to identify patterns and predict price movements.
 
 Companies Involved:
 - **Two Sigma** [Website](https://www.twosigma.com/)

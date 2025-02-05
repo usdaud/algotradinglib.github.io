@@ -41,7 +41,7 @@ Big Data refers to the vast [volume](../v/volume.md) of data, both structured an
 ## Companies Leading in Big Data Trading 
 
 ### 1. **Two Sigma**
-Two Sigma is a quantitative investment [firm](../f/firm.md) that leverages Big Data and advanced technologies to derive insights and drive [trading strategies](../t/trading_strategies.md). They utilize machine learning, distributed computing, and other technological advancements to analyze vast datasets and develop [trading models](../t/trading_models.md).
+Two Sigma is a quantitative investment [firm](../f/firm.md) that leverages Big Data and advanced technologies to derive insights and drive [trading strategies](../t/trading_strategies.md). They utilize [machine learning](../m/machine_learning.md), distributed computing, and other technological advancements to analyze vast datasets and develop [trading models](../t/trading_models.md).
 [Two Sigma](https://www.twosigma.com/)
 
 ### 2. **D.E. Shaw & Co.**
@@ -49,7 +49,7 @@ D.E. Shaw & Co. is another prominent player in the field of [quantitative tradin
 [D.E. Shaw](https://www.deshaw.com/)
 
 ### 3. **Kensho Technologies**
-Kensho is a [data analytics](../d/data_analytics.md) and machine learning company that provides financial firms with powerful data analysis tools. Their services enable traders to analyze Big Data quickly and accurately, facilitating better trading decisions.
+Kensho is a [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) company that provides financial firms with powerful data analysis tools. Their services enable traders to analyze Big Data quickly and accurately, facilitating better trading decisions.
 [Kensho](https://www.kensho.com/)
 
 ### 4. **Cloudera**
@@ -82,7 +82,7 @@ Palantir Technologies specializes in [data integration](../d/data_integration.md
 
 ## Future Trends in Big Data Trading
 
-1. **Increased Use of AI and Machine Learning**: The integration of AI and machine learning with [Big Data analytics](../b/big_data_analytics_in_trading.md) [will](../w/will.md) continue to evolve, leading to more sophisticated [trading strategies](../t/trading_strategies.md) and [predictive models](../p/predictive_models_in_trading.md).
+1. **Increased Use of AI and [Machine Learning](../m/machine_learning.md)**: The integration of AI and [machine learning](../m/machine_learning.md) with [Big Data analytics](../b/big_data_analytics_in_trading.md) [will](../w/will.md) continue to evolve, leading to more sophisticated [trading strategies](../t/trading_strategies.md) and [predictive models](../p/predictive_models_in_trading.md).
 
 2. **[Blockchain](../b/blockchain_in_trading.md) Technology**: [Blockchain](../b/blockchain_in_trading.md) can [offer](../o/offer.md) enhanced [data security](../d/data_security_in_trading.md) and [transparency](../t/transparency.md), making it a valuable tool for maintaining the integrity of trading data.
 

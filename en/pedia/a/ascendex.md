@@ -80,7 +80,7 @@ The platform offers advanced analytics tools to help traders make informed decis
 
 ### Machine Learning and AI
 
-AscendEX is exploring the use of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance [trading algorithms](../t/trading_algorithms.md), improve [market](../m/market.md) predictions, and optimize the overall trading experience. These technologies are expected to provide users with more accurate and timely information for making trading decisions.
+AscendEX is exploring the use of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance [trading algorithms](../t/trading_algorithms.md), improve [market](../m/market.md) predictions, and optimize the overall trading experience. These technologies are expected to provide users with more accurate and timely information for making trading decisions.
 
 ### Mobile Application
 

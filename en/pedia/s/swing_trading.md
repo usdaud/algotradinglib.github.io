@@ -74,7 +74,7 @@ Several firms specialize in creating and deploying algorithmic swing [trading st
 ## The Future of Swing Trading in Algorithmic Trading
 
 ### AI and Machine Learning
-The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) into swing [trading algorithms](../t/trading_algorithms.md) is a growing [trend](../t/trend.md). These technologies enable the algorithms to learn and adapt from historical data, improving their accuracy and performance.
+The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) into swing [trading algorithms](../t/trading_algorithms.md) is a growing [trend](../t/trend.md). These technologies enable the algorithms to learn and adapt from historical data, improving their accuracy and performance.
 
 ### Increased Accessibility
 With the rise of online trading platforms and educational resources, swing trading, and [algorithmic trading](../a/algorithmic_trading.md) have become more accessible to retail investors. This democratization is likely to continue, with technological advancements lowering the barrier to entry.

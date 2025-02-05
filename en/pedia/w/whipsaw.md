@@ -50,7 +50,7 @@ Algorithmic traders can incorporate [signal filtering](../s/signal_filtering.md)
 Adjusting algorithms to account for higher [volatility](../v/volatility.md) can also be effective. For example, setting parameters that adapt to changing [volatility](../v/volatility.md) can help avoid executing trades during highly turbulent periods.
 
 ### Machine Learning Integration
-Incorporating [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can enhance the adaptability of [trading strategies](../t/trading_strategies.md) in whipsaw conditions. Machine learning models can analyze historical data to identify patterns that precede whipsaw events, allowing for more informed decision-making.
+Incorporating [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can enhance the adaptability of [trading strategies](../t/trading_strategies.md) in whipsaw conditions. [Machine learning](../m/machine_learning.md) models can analyze historical data to identify patterns that precede whipsaw events, allowing for more informed decision-making.
 
 ### Backtesting Strategies
 Before deploying strategies in a live [trading environment](../t/trading_environment.md), [backtesting](../b/backtesting.md) them on historical data that includes whipsaw events can provide insights into their robustness. This helps in understanding how strategies perform under different [market](../m/market.md) conditions.

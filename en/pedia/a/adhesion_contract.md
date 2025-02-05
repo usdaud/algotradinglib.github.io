@@ -69,7 +69,7 @@ Issues such as [market manipulation](../m/market_manipulation.md) and the impact
 ## Future Trends
 
 ### Artificial Intelligence (AI)
-The integration of AI and machine learning is revolutionizing [algorithmic trading](../a/accountability.md). These technologies enable the development of more adaptive and predictive [trading algorithms](../t/trading_algorithms.md).
+The integration of AI and [machine learning](../m/machine_learning.md) is revolutionizing [algorithmic trading](../a/accountability.md). These technologies enable the development of more adaptive and predictive [trading algorithms](../t/trading_algorithms.md).
 
 ### Quantum Computing
 [Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to solve complex [optimization](../o/optimization.md) problems much faster than classical computers, which could significantly enhance algo trading capabilities.

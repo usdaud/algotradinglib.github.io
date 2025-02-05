@@ -16,7 +16,7 @@ Data is the lifeblood of [algorithmic trading](../a/accountability.md). Collecti
 
 Once data is in place, the next step involves developing [trading algorithms](../t/trading_algorithms.md). This is often a collaborative effort involving quants (quantitative analysts), data scientists, and software engineers.
 
-- **Research and Modelling**: Quant researchers create models that can predict price movements based on historical data. This often involves techniques from [statistics](../s/statistics.md), machine learning, and even [deep learning](../d/deep_learning.md).
+- **Research and Modelling**: Quant researchers create models that can predict price movements based on historical data. This often involves techniques from [statistics](../s/statistics.md), [machine learning](../m/machine_learning.md), and even [deep learning](../d/deep_learning.md).
 - **[Simulation](../s/simulation_in_trading.md) and [Backtesting](../b/backtesting.md)**: Before deploying a strategy in the live [market](../m/market.md), it must be tested using historical data to see how it would have performed. This involves coding the strategy, running simulations, and analyzing [performance metrics](../p/performance_metrics.md) like [Sharpe ratio](../s/sharpe_ratio.md), drawdowns, and so on.
 
 ### Computational Requirements

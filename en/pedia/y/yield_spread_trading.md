@@ -32,13 +32,13 @@ Consider a simple strategy involving two bonds, [Bond](../b/bond.md) A and [Bond
 
 ### Algorithmic Implementation
 
-[Yield](../y/yield.md) [spread trading](../s/spread_trading.md) can be efficiently executed using [algorithmic trading](../a/algorithmic_trading.md) systems that [leverage](../l/leverage.md) historical data, statistical models, and machine learning techniques to identify opportunities and execute trades.
+[Yield](../y/yield.md) [spread trading](../s/spread_trading.md) can be efficiently executed using [algorithmic trading](../a/algorithmic_trading.md) systems that [leverage](../l/leverage.md) historical data, statistical models, and [machine learning](../m/machine_learning.md) techniques to identify opportunities and execute trades.
 
 #### Data Analysis and Signal Generation
 
 1. **[Historical Data Analysis](../h/historical_data_analysis.md)**: Collecting and analyzing historical [yield](../y/yield.md) data for the target securities. This involves time-series analysis to understand the past behavior of [spreads](../s/spreads.md).
 2. **Statistical Models**: Developing statistical models (e.g., [correlation analysis](../c/correlation_analysis.md), [co-integration](../c/co-integration.md) models) to predict future movements in [yield](../y/yield.md) [spreads](../s/spreads.md).
-3. **Machine Learning**: Using machine [learning algorithms](../l/learning_algorithms_in_trading.md) to enhance prediction accuracy. Techniques like [regression analysis](../r/regression_analysis.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) can be used to forecast [yield spread](../y/yield_spread.md) movements.
+3. **[Machine Learning](../m/machine_learning.md)**: Using machine [learning algorithms](../l/learning_algorithms_in_trading.md) to enhance prediction accuracy. Techniques like [regression analysis](../r/regression_analysis.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) can be used to forecast [yield spread](../y/yield_spread.md) movements.
 
 #### Execution and Risk Management
 
@@ -61,7 +61,7 @@ Several financial institutions and technology companies provide platforms and to
    - An online marketplace for trading fixed-[income](../i/income.md) securities, [offering](../o/offering.md) tools for [yield](../y/yield.md) [spread trading](../s/spread_trading.md) and analytics.
 
 4. **[QuantConnect](../q/quantconnect.md)**: [Link](https://www.quantconnect.com/)
-   - An [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to develop and backtest [yield](../y/yield.md) [spread trading](../s/spread_trading.md) strategies using historical data and advanced machine learning models.
+   - An [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to develop and backtest [yield](../y/yield.md) [spread trading](../s/spread_trading.md) strategies using historical data and advanced [machine learning](../m/machine_learning.md) models.
 
 ### Factors Influencing Yield Spreads
 
@@ -79,4 +79,4 @@ Several macroeconomic and microeconomic factors can influence [yield](../y/yield
 
 ### Conclusion
 
-[Yield](../y/yield.md) [spread trading](../s/spread_trading.md) is a sophisticated strategy that leverages differences in [yield](../y/yield.md) levels to generate profits. By utilizing advanced data analysis, statistical models, and [algorithmic trading](../a/algorithmic_trading.md) platforms, traders can effectively identify and [capitalize](../c/capitalize.md) on opportunities within the [bond market](../b/bond_market.md). As the financial landscape continues to evolve, the integration of machine learning and technological advancements [will](../w/will.md) likely enhance the precision and efficacy of [yield](../y/yield.md) [spread trading](../s/spread_trading.md) strategies. Ultimately, a deep understanding of the [underlying](../u/underlying.md) factors and efficient [risk management](../r/risk_management.md) are essential for successful [yield](../y/yield.md) [spread trading](../s/spread_trading.md).
+[Yield](../y/yield.md) [spread trading](../s/spread_trading.md) is a sophisticated strategy that leverages differences in [yield](../y/yield.md) levels to generate profits. By utilizing advanced data analysis, statistical models, and [algorithmic trading](../a/algorithmic_trading.md) platforms, traders can effectively identify and [capitalize](../c/capitalize.md) on opportunities within the [bond market](../b/bond_market.md). As the financial landscape continues to evolve, the integration of [machine learning](../m/machine_learning.md) and technological advancements [will](../w/will.md) likely enhance the precision and efficacy of [yield](../y/yield.md) [spread trading](../s/spread_trading.md) strategies. Ultimately, a deep understanding of the [underlying](../u/underlying.md) factors and efficient [risk management](../r/risk_management.md) are essential for successful [yield](../y/yield.md) [spread trading](../s/spread_trading.md).

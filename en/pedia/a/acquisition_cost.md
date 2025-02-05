@@ -73,7 +73,7 @@ In [algorithmic trading](../a/accountability.md), strategies to reduce AC might 
 
 ### Technological Innovations
 
-Leveraging AI and machine learning can help reduce AC by improving [efficiency](../e/efficiency.md) and outcomes:
+Leveraging AI and [machine learning](../m/machine_learning.md) can help reduce AC by improving [efficiency](../e/efficiency.md) and outcomes:
 - **[Predictive Analytics](../p/predictive_analytics.md)**: Using AI to predict [market](../m/market.md) trends and optimize trading actions.
 - **Robotic Process Automation (RPA)**: Implementing RPA to [handle](../h/handle.md) repetitive tasks, reducing labor costs.
 

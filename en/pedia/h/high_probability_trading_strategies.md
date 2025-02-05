@@ -75,7 +75,7 @@ Several platforms and software solutions support the implementation of high prob
 Renaissance Technologies, founded by Jim Simons, uses [quantitative models](../q/quantitative_models.md) to analyze and execute trades. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is known for its high-frequency [trading strategies](../t/trading_strategies.md) that [leverage](../l/leverage.md) [mean reversion](../m/mean_reversion.md) and other statistical models.
 
 **Company B: Two Sigma**
-Two Sigma utilizes machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to develop high probability [trading strategies](../t/trading_strategies.md). The company combines data-driven insights with innovative technology to create [robust](../r/robust.md) [trading models](../t/trading_models.md). [Two Sigma](https://www.twosigma.com)
+Two Sigma utilizes [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to develop high probability [trading strategies](../t/trading_strategies.md). The company combines data-driven insights with innovative technology to create [robust](../r/robust.md) [trading models](../t/trading_models.md). [Two Sigma](https://www.twosigma.com)
 
 **[Best Practices](../b/best_practices.md)**
 

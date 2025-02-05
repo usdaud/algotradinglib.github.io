@@ -44,7 +44,7 @@ Several tools and software packages facilitate multivariate analysis in [algorit
 
 - **R:** R is a powerful statistical programming language that offers a plethora of packages for multivariate analysis, such as `psych`, `MASS`, and `FactoMineR`.
 - **Python:** Python, with its libraries like `numpy`, `pandas`, `scipy`, and `scikit-learn`, makes performing multivariate analysis accessible and relatively straightforward.
-- **MATLAB:** MATLAB provides comprehensive tools for numerical computation and visualization. Toolboxes such as [Statistics](../s/statistics.md) and Machine Learning Toolbox provide extensive capabilities for multivariate analysis.
+- **MATLAB:** MATLAB provides comprehensive tools for numerical computation and visualization. Toolboxes such as [Statistics](../s/statistics.md) and [Machine Learning](../m/machine_learning.md) Toolbox provide extensive capabilities for multivariate analysis.
 - **SAS:** SAS is a software suite used for advanced analytics, including multivariate analysis. It offers procedures such as PROC REG, PROC [FACTOR](../f/factor.md), and PROC CLUSTER.
 - **SPSS:** IBM’s SPSS provides a [range](../r/range.md) of multivariate techniques through its GUI-driven interface, making it easier for those less familiar with coding.
 

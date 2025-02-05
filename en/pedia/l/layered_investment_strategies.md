@@ -27,7 +27,7 @@ Implementing layered investment strategies in [algorithmic trading](../a/algorit
 
 1. **[Alpha Generation](../a/alpha_generation.md):**
    - **[Quantitative Models](../q/quantitative_models.md):** Employing mathematical and statistical techniques to identify trading opportunities.
-   - **Machine Learning:** Using machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze historical data and predict future price movements.
+   - **[Machine Learning](../m/machine_learning.md):** Using machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze historical data and predict future price movements.
 
 2. **[Execution](../e/execution.md):**
    - **[Order](../o/order.md) Placement:** Optimizing [order types](../o/order_types_in_trading.md) ([market](../m/market.md) orders, limit orders) and timing to achieve the best possible [execution](../e/execution.md) price.
@@ -41,7 +41,7 @@ Implementing layered investment strategies in [algorithmic trading](../a/algorit
 
 ### Quantitative Hedge Funds
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md) are a prime example of using layered investment strategies. Firms like Renaissance Technologies and Two Sigma employ advanced statistical models and machine learning techniques to identify trading opportunities across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. For more details on these firms, visit their websites:
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) are a prime example of using layered investment strategies. Firms like Renaissance Technologies and Two Sigma employ advanced statistical models and [machine learning](../m/machine_learning.md) techniques to identify trading opportunities across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. For more details on these firms, visit their websites:
 
 - Renaissance Technologies: [https://www.rentec.com](https://www.rentec.com)
 - Two Sigma: [https://www.twosigma.com](https://www.twosigma.com)
@@ -71,7 +71,7 @@ Successful implementation of layered investment strategies in [algorithmic tradi
 
 3. **[Software Tools](../s/software_tools_for_trading.md):**
    - **Programming Languages:** Python, R, and C++ for developing and testing algorithms.
-   - **Machine Learning Frameworks:** TensorFlow, PyTorch, and Scikit-learn for building [predictive models](../p/predictive_models_in_trading.md).
+   - **[Machine Learning](../m/machine_learning.md) Frameworks:** [TensorFlow](../t/tensorflow.md), [PyTorch](../p/pytorch.md), and Scikit-learn for building [predictive models](../p/predictive_models_in_trading.md).
 
 4. **Trading Platforms:**
    - **[Execution](../e/execution.md) Management Systems (EMS):** For efficient [order](../o/order.md) [execution](../e/execution.md) and [trade](../t/trade.md) management.
@@ -100,7 +100,7 @@ Despite the potential benefits, layered investment strategies in [algorithmic tr
 
 The field of [algorithmic trading](../a/algorithmic_trading.md) and layered investment strategies is constantly evolving. Key trends to watch include:
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning:**
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md):**
    - Continued advancements in AI and ML [will](../w/will.md) lead to more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md).
 
 2. **[Big Data](../b/big_data_in_trading.md) and [Alternative Data](../a/alternative_data.md):**

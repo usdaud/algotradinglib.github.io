@@ -73,12 +73,12 @@ Several financial institutions and fintech companies implement RNNs in their [tr
 
 ## Future of RNNs in Trading
 
-The use of RNNs in [algorithmic trading](../a/algorithmic_trading.md) continues to evolve with advancements in [deep learning](../d/deep_learning.md) and computational power. Innovations such as Attention Mechanisms and Transformers are augmenting traditional RNN approaches, providing even more sophisticated tools for traders to harness.
+The use of RNNs in [algorithmic trading](../a/algorithmic_trading.md) continues to evolve with advancements in [deep learning](../d/deep_learning.md) and computational power. Innovations such as Attention Mechanisms and [Transformers](../t/transformers.md) are augmenting traditional RNN approaches, providing even more sophisticated tools for traders to harness.
 
 ### Attention Mechanisms
 Attention mechanisms allow models to focus on specific parts of the input sequence when making predictions, leading to more accurate and contextually relevant outputs. This is especially beneficial for analyzing long sequences where RNNs might struggle.
 
 ### Transformers
-Transformers, introduced by Vaswani et al., have revolutionized sequence processing by eliminating the need for recurrent connections. Instead, they rely on self-attention mechanisms, enabling faster training and improved performance on sequence tasks. Traders are increasingly exploring transformer models to enhance predictive accuracy and [execution](../e/execution.md) speed.
+[Transformers](../t/transformers.md), introduced by Vaswani et al., have revolutionized sequence processing by eliminating the need for recurrent connections. Instead, they rely on self-attention mechanisms, enabling faster training and improved performance on sequence tasks. Traders are increasingly exploring transformer models to enhance predictive accuracy and [execution](../e/execution.md) speed.
 
 In conclusion, Recurrent [Neural Networks](../n/neural_networks_in_trading.md) continue to be a pivotal technology in [algorithmic trading](../a/algorithmic_trading.md), providing [robust](../r/robust.md) tools for analyzing sequential data and driving more informed trading decisions. With ongoing research and development, the capabilities and applications of RNNs in [financial markets](../f/financial_market.md) are poised to expand even further.

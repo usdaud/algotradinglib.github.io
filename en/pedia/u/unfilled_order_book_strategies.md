@@ -68,7 +68,7 @@ These algorithms can [leverage](../l/leverage.md) unfilled [order](../o/order.md
 
 ### Machine Learning
 
-Machine learning models are increasingly used for [pattern recognition](../p/pattern_recognition.md) within unfilled [order](../o/order.md) data. Models can predict future price movements based on historical [order book](../o/order_book.md) data, providing a quantitative edge.
+[Machine learning](../m/machine_learning.md) models are increasingly used for [pattern recognition](../p/pattern_recognition.md) within unfilled [order](../o/order.md) data. Models can predict future price movements based on historical [order book](../o/order_book.md) data, providing a quantitative edge.
 
 ## Challenges and Risks
 

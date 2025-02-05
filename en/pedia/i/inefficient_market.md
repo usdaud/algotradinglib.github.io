@@ -58,7 +58,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies seek to exploit inefficien
 
 ### Machine Learning Models
 
-Recent advancements in machine learning have allowed traders to detect complex inefficiencies that traditional models might miss. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can analyze vast amounts of data, including news sentiment, [social media](../s/social_media.md) activity, and even satellite imagery, to make trading decisions.
+Recent advancements in [machine learning](../m/machine_learning.md) have allowed traders to detect complex inefficiencies that traditional models might miss. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can analyze vast amounts of data, including news sentiment, [social media](../s/social_media.md) activity, and even satellite imagery, to make trading decisions.
 
 ## Regulatory and Ethical Considerations
 

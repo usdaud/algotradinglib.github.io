@@ -18,7 +18,7 @@ Quantitative [Alpha Generation](../a/alpha_generation.md) encompasses a wide arr
 Statistical [arbitrage](../a/arbitrage.md) (or stat arb) is a type of strategy used to exploit the statistical mispricing of one or more assets. These strategies typically involve complex models to identify trading opportunities that [offer](../o/offer.md) expected returns with minimized [risk](../r/risk.md).
 
 ### Machine Learning
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be employed to analyze vast datasets and uncover patterns that might not be apparent through traditional techniques. Techniques such as supervised learning, unsupervised learning, reinforcement learning, and [neural networks](../n/neural_networks_in_trading.md) play crucial roles in modern quantitative [alpha generation](../a/alpha_generation.md) strategies.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be employed to analyze vast datasets and uncover patterns that might not be apparent through traditional techniques. Techniques such as [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), [reinforcement learning](../r/reinforcement_learning.md), and [neural networks](../n/neural_networks_in_trading.md) play crucial roles in modern quantitative [alpha generation](../a/alpha_generation.md) strategies.
 
 ### Backtesting
 [Backtesting](../b/backtesting.md) involves testing a [trading strategy](../t/trading_strategy.md) on historical data to evaluate its effectiveness. By simulated [execution](../e/execution.md) using past [market](../m/market.md) data, quantitative analysts can estimate the potential performance of the strategy.
@@ -38,7 +38,7 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be emp
 High-frequency trading involves executing a large number of orders at extremely high speeds using sophisticated algorithms. This type of trading seeks to capture small price inefficiencies often invisible to slower traders.
 
 ### Sentiment Analysis
-[Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning to gauge [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and other text-based sources. This helps in predicting [market](../m/market.md) movements based on the collective sentiment of [market](../m/market.md) participants.
+[Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) to gauge [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and other text-based sources. This helps in predicting [market](../m/market.md) movements based on the collective sentiment of [market](../m/market.md) participants.
 
 ### Risk Parity
 [Risk parity](../r/risk_parity.md) strategies seek to balance [risk](../r/risk.md) rather than allocate [capital](../c/capital.md). By equalizing [risk](../r/risk.md) across various [asset](../a/asset.md) classes, these strategies aim to generate more stable returns, thereby enabling more reliable [alpha generation](../a/alpha_generation.md).
@@ -84,7 +84,7 @@ The regulatory landscape for algorithmic and [quantitative trading](../q/quantit
 [Quantum computing](../q/quantum_computing_in_trading.md) holds the promise of solving complex [optimization](../o/optimization.md) problems much faster than classical computers, potentially unlocking new frontiers in [alpha generation](../a/alpha_generation.md).
 
 ### Advanced AI Techniques
-Developments in [artificial intelligence](../a/artificial_intelligence_in_trading.md), such as [deep learning](../d/deep_learning.md) and reinforcement learning, are creating new opportunities for improving [predictive models](../p/predictive_models_in_trading.md) and developing more adaptive [trading strategies](../t/trading_strategies.md).
+Developments in [artificial intelligence](../a/artificial_intelligence_in_trading.md), such as [deep learning](../d/deep_learning.md) and [reinforcement learning](../r/reinforcement_learning.md), are creating new opportunities for improving [predictive models](../p/predictive_models_in_trading.md) and developing more adaptive [trading strategies](../t/trading_strategies.md).
 
 ### Alternative Data
 The use of [non-traditional data sources](../n/non-traditional_data_sources.md), such as satellite imagery, [social media](../s/social_media.md), and [transaction](../t/transaction.md) data, continues to grow, [offering](../o/offering.md) new ways to generate quantitative [alpha](../a/alpha.md).

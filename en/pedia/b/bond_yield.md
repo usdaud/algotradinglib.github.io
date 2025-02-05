@@ -116,7 +116,7 @@ Calculating YTM and assessing [yield](../y/yield.md) [spreads](../s/spreads.md) 
 Differences in yields across different markets can present [arbitrage opportunities](../a/arbitrage_opportunities.md).
 
 ### Strategy Development
-Algorithmic strategies can be developed based on predicting changes in [bond](../b/bond.md) yields using machine learning models.
+Algorithmic strategies can be developed based on predicting changes in [bond](../b/bond.md) yields using [machine learning](../m/machine_learning.md) models.
 
 ## Conclusion
 

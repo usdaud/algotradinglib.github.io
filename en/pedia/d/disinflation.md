@@ -83,7 +83,7 @@ Disinflation is a critical [factor](../f/factor.md) for algorithmic traders (als
     - Forex trading algos must consider disinflation influences on [currency](../c/currency.md) strength. For instance, a [currency](../c/currency.md) from a country experiencing disinflation might appreciate, [offering](../o/offering.md) strategic opportunities for long or short positions.
 
 6. **[Pattern Recognition](../p/pattern_recognition.md)**:
-    - Machine learning models in algotrading can help identify patterns associated with disinflationary periods. These insights can be used to forecast future [market](../m/market.md) conditions and optimize trading decisions.
+    - [Machine learning](../m/machine_learning.md) models in algotrading can help identify patterns associated with disinflationary periods. These insights can be used to forecast future [market](../m/market.md) conditions and optimize trading decisions.
 
 ### Case Study: Application in Algotrading
 

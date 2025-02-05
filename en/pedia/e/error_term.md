@@ -79,11 +79,11 @@ Ensemble methods like [Random Forests](../r/random_forests_in_trading.md) or Gra
 
 Various libraries and frameworks aid in managing and analyzing the error term:
 
-1. **Scikit-learn**: A premier machine learning library for Python that offers tools for both regression and classification tasks.
+1. **Scikit-learn**: A premier [machine learning](../m/machine_learning.md) library for Python that offers tools for both regression and classification tasks.
 
-2. **TensorFlow** (https://www.tensorflow.org/): A leading library for [deep learning](../d/deep_learning.md) models, suitable for handling non-linear patterns in trading data that simple [linear models](../l/linear_models_in_trading.md) might miss.
+2. **[TensorFlow](../t/tensorflow.md)** (https://www.[tensorflow](../t/tensorflow.md).org/): A leading library for [deep learning](../d/deep_learning.md) models, suitable for handling non-linear patterns in trading data that simple [linear models](../l/linear_models_in_trading.md) might miss.
 
-3. **PyCaret** (https://pycaret.org/): An [open](../o/open.md)-source, low-code machine learning library that automates machine learning workflows.
+3. **PyCaret** (https://pycaret.org/): An [open](../o/open.md)-source, low-code [machine learning](../m/machine_learning.md) library that automates [machine learning](../m/machine_learning.md) workflows.
 
 ### Financial Data Platforms
 

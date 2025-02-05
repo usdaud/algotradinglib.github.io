@@ -92,7 +92,7 @@ HFT involves using powerful computers and algorithms to execute trades at extrem
 
 ### Machine Learning and AI
 
-Machine learning and AI are increasingly being used to develop [predictive models](../p/predictive_models_in_trading.md) for price movements. These technologies can process and analyze massive datasets to identify patterns and trends that might not be apparent through traditional analysis.
+[Machine learning](../m/machine_learning.md) and AI are increasingly being used to develop [predictive models](../p/predictive_models_in_trading.md) for price movements. These technologies can process and analyze massive datasets to identify patterns and trends that might not be apparent through traditional analysis.
 
 ## Conclusion
 

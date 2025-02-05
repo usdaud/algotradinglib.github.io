@@ -78,7 +78,7 @@ The [Sharpe Ratio](../s/sharpe_ratio.md) measures the [risk-adjusted return](../
 
 #### Statistical and Machine Learning Models
 
-[Ex-ante](../e/ex-ante.md) [risk measures](../r/risk_measures.md) heavily rely on statistical techniques and machine learning models to predict potential risks. The implementation involves:
+[Ex-ante](../e/ex-ante.md) [risk measures](../r/risk_measures.md) heavily rely on statistical techniques and [machine learning](../m/machine_learning.md) models to predict potential risks. The implementation involves:
 
 - **Time-Series Analysis:** Techniques such as ARIMA or [GARCH models](../g/garch_models.md) are used to predict future [volatility](../v/volatility.md) and returns.
 - **Monte Carlo Simulations:** These simulations generate a [range](../r/range.md) of potential outcomes based on historical data, helping to estimate VaR and CVaR.
@@ -88,7 +88,7 @@ The [Sharpe Ratio](../s/sharpe_ratio.md) measures the [risk-adjusted return](../
 
 Several software and tools are available for implementing [ex-ante](../e/ex-ante.md) [risk measures](../r/risk_measures.md) in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **Python Libraries:** Libraries such as `numpy`, `pandas`, `statsmodels`, and `scikit-learn` provide the necessary functionality for statistical analysis and machine learning.
+- **Python Libraries:** Libraries such as `numpy`, `pandas`, `statsmodels`, and `scikit-learn` provide the necessary functionality for statistical analysis and [machine learning](../m/machine_learning.md).
 - **R Packages:** Packages like `quantmod`, `PerformanceAnalytics`, and `TTR` [offer](../o/offer.md) [robust](../r/robust.md) tools for [financial analysis](../f/financial_analysis.md) and [risk](../r/risk.md) assessment.
 
 #### Practical Considerations
@@ -99,4 +99,4 @@ Several software and tools are available for implementing [ex-ante](../e/ex-ante
 
 ### Conclusion
 
-[Ex-ante](../e/ex-ante.md) [risk measures](../r/risk_measures.md) play a crucial role in the [risk management](../r/risk_management.md) framework of [algorithmic trading](../a/algorithmic_trading.md). By providing predictive insights into potential losses, these measures help traders and portfolio managers make informed decisions and align their strategies with their [risk tolerance](../r/risk_tolerance.md) levels. With advances in statistical techniques and machine learning, the accuracy and reliability of [ex-ante](../e/ex-ante.md) [risk measures](../r/risk_measures.md) continue to improve, [offering](../o/offering.md) more [robust](../r/robust.md) tools for navigating the complexities of [financial markets](../f/financial_market.md).
+[Ex-ante](../e/ex-ante.md) [risk measures](../r/risk_measures.md) play a crucial role in the [risk management](../r/risk_management.md) framework of [algorithmic trading](../a/algorithmic_trading.md). By providing predictive insights into potential losses, these measures help traders and portfolio managers make informed decisions and align their strategies with their [risk tolerance](../r/risk_tolerance.md) levels. With advances in statistical techniques and [machine learning](../m/machine_learning.md), the accuracy and reliability of [ex-ante](../e/ex-ante.md) [risk measures](../r/risk_measures.md) continue to improve, [offering](../o/offering.md) more [robust](../r/robust.md) tools for navigating the complexities of [financial markets](../f/financial_market.md).

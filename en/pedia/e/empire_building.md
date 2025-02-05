@@ -14,7 +14,7 @@ Empire building in [algorithmic trading](../a/accountability.md) represents the 
 
 2. **[Market Penetration](../m/market_penetration.md)**: Penetrating into new geographical markets or financial exchanges allows [algorithmic trading](../a/accountability.md) firms to [leverage](../l/leverage.md) [arbitrage opportunities](../a/arbitrage_opportunities.md) and capture a broader spectrum of trading volumes.
 
-3. **Diverse Strategies**: Developing and employing a diverse array of [trading strategies](../t/trading_strategies.md), including high-frequency trading (HFT), statistical [arbitrage](../a/arbitrage.md), and machine learning-driven [predictive models](../p/predictive_models_in_trading.md).
+3. **Diverse Strategies**: Developing and employing a diverse array of [trading strategies](../t/trading_strategies.md), including high-frequency trading (HFT), statistical [arbitrage](../a/arbitrage.md), and [machine learning](../m/machine_learning.md)-driven [predictive models](../p/predictive_models_in_trading.md).
 
 ### Technological Investments
 

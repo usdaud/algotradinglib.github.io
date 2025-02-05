@@ -74,7 +74,7 @@ Various [economic indicators](../e/economic_indicators.md) can help traders and 
 
 ### Predictive Analytics
 
-Advancements in [predictive analytics](../p/predictive_analytics.md) and machine learning enable more accurate [forecasting](../f/forecasting.md) of the potential outcomes of [trade](../t/trade.md) wars. Financial institutions and trading firms increasingly rely on these tools to anticipate [market](../m/market.md) movements and devise [trading strategies](../t/trading_strategies.md).
+Advancements in [predictive analytics](../p/predictive_analytics.md) and [machine learning](../m/machine_learning.md) enable more accurate [forecasting](../f/forecasting.md) of the potential outcomes of [trade](../t/trade.md) wars. Financial institutions and trading firms increasingly rely on these tools to anticipate [market](../m/market.md) movements and devise [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

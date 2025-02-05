@@ -101,7 +101,7 @@ Advancements in technology have led to sophisticated [risk management](../r/risk
 In algotrading, algorithms can be designed to identify opportunities arising from [interest rate](../i/interest_rate.md) fluctuations and execute trades based on [predictive models](../p/predictive_models_in_trading.md). For instance, certain strategies might involve exploiting mispricings in [bond](../b/bond.md) markets influenced by [interest rate](../i/interest_rate.md) changes.
 
 ### 3. **Data Analytics and Machine Learning**
-Machine learning techniques and advanced [data analytics](../d/data_analytics.md) can help in predicting [interest rate](../i/interest_rate.md) movements and their potential impacts more accurately, thus improving [risk management](../r/risk_management.md) practices.
+[Machine learning](../m/machine_learning.md) techniques and advanced [data analytics](../d/data_analytics.md) can help in predicting [interest rate](../i/interest_rate.md) movements and their potential impacts more accurately, thus improving [risk management](../r/risk_management.md) practices.
 
 ## Case Studies
 

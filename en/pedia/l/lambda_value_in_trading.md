@@ -44,13 +44,13 @@ where:
 
 ### Regularization in Machine Learning
 
-In machine learning models used for trading, such as [linear regression](../l/linear_regression.md) or advanced techniques like LASSO (Least Absolute [Shrinkage](../s/shrinkage.md) and Selection Operator), [lambda](../l/lambda.md) values are used as regularization parameters. These parameters penalize the complexity of the model to prevent [overfitting](../o/overfitting.md), thereby improving the model's robustness and predictive power.
+In [machine learning](../m/machine_learning.md) models used for trading, such as [linear regression](../l/linear_regression.md) or advanced techniques like LASSO (Least Absolute [Shrinkage](../s/shrinkage.md) and Selection Operator), [lambda](../l/lambda.md) values are used as regularization parameters. These parameters penalize the complexity of the model to prevent [overfitting](../o/overfitting.md), thereby improving the model's robustness and predictive power.
 
 ## Case Studies and Applications
 
 ### Quantitative Trading Firms
 
-**Two Sigma** is a leading [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) known for its use of advanced statistical models and machine learning. The [firm](../f/firm.md)'s [trading strategies](../t/trading_strategies.md) heavily rely on parameters like the [lambda](../l/lambda.md) [value](../v/value.md) to optimize [trading algorithms](../t/trading_algorithms.md) and manage [risk](../r/risk.md) effectively.
+**Two Sigma** is a leading [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) known for its use of advanced statistical models and [machine learning](../m/machine_learning.md). The [firm](../f/firm.md)'s [trading strategies](../t/trading_strategies.md) heavily rely on parameters like the [lambda](../l/lambda.md) [value](../v/value.md) to optimize [trading algorithms](../t/trading_algorithms.md) and manage [risk](../r/risk.md) effectively.
 
 For more information, visit [Two Sigma](https://www.twosigma.com/).
 
@@ -97,6 +97,6 @@ This code snippet demonstrates how to formulate and solve a [portfolio optimizat
 
 ## Conclusion
 
-The [lambda](../l/lambda.md) [value](../v/value.md) is a versatile and powerful parameter in [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md). Its applications [range](../r/range.md) from balancing [risk](../r/risk.md) and [return](../r/return.md) in [portfolio optimization](../p/portfolio_optimization.md) to enhancing the robustness of machine learning models in trading. By understanding and effectively utilizing [lambda](../l/lambda.md) values, traders and investors can develop more sophisticated and resilient [trading strategies](../t/trading_strategies.md), ultimately leading to improved performance and [risk management](../r/risk_management.md).
+The [lambda](../l/lambda.md) [value](../v/value.md) is a versatile and powerful parameter in [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md). Its applications [range](../r/range.md) from balancing [risk](../r/risk.md) and [return](../r/return.md) in [portfolio optimization](../p/portfolio_optimization.md) to enhancing the robustness of [machine learning](../m/machine_learning.md) models in trading. By understanding and effectively utilizing [lambda](../l/lambda.md) values, traders and investors can develop more sophisticated and resilient [trading strategies](../t/trading_strategies.md), ultimately leading to improved performance and [risk management](../r/risk_management.md).
 
 For further readings, it is recommended to explore the resources provided by [quantitative trading](../q/quantitative_trading.md) firms and academic papers dedicated to financial [optimization](../o/optimization.md) problems.

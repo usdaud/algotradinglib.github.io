@@ -1,6 +1,6 @@
 # Least Squares Criterion
 
-The least squares criterion is a fundamental mathematical approach used extensively in statistical modeling, [regression analysis](../r/regression_analysis.md), and machine learning. It aims to minimize the sum of the squares of the differences between the observed and predicted values in a dataset. This criterion is foundational in constructing models that can predict or explain the relationship between variables. Let's delve into the various facets of the least squares criterion, including its mathematical formulation, applications, properties, benefits, and limitations.
+The least squares criterion is a fundamental mathematical approach used extensively in statistical modeling, [regression analysis](../r/regression_analysis.md), and [machine learning](../m/machine_learning.md). It aims to minimize the sum of the squares of the differences between the observed and predicted values in a dataset. This criterion is foundational in constructing models that can predict or explain the relationship between variables. Let's delve into the various facets of the least squares criterion, including its mathematical formulation, applications, properties, benefits, and limitations.
 
 ## Mathematical Formulation
 
@@ -38,7 +38,7 @@ where \( \bar{x} \) and \( \bar{y} \) are the sample means of the independent an
 In [statistics](../s/statistics.md), the least squares criterion is primarily used in [regression analysis](../r/regression_analysis.md) to estimate the parameters of [linear models](../l/linear_models_in_trading.md). [Linear regression](../l/linear_regression.md) models are widely employed to understand relationships between variables and to make predictions.
 
 ### Machine Learning
-In machine learning, least squares is used in algorithms such as [linear regression](../l/linear_regression.md) and other [predictive models](../p/predictive_models_in_trading.md). These algorithms utilize least squares to minimize prediction errors and enhance accuracy.
+In [machine learning](../m/machine_learning.md), least squares is used in algorithms such as [linear regression](../l/linear_regression.md) and other [predictive models](../p/predictive_models_in_trading.md). These algorithms utilize least squares to minimize prediction errors and enhance accuracy.
 
 ### Time Series Analysis
 In [finance](../f/finance.md) and [economics](../e/economics.md), the least squares criterion is used in [time series analysis](../t/time_series_analysis.md) to model temporal data. It helps in [forecasting](../f/forecasting.md) future values based on historical data.
@@ -104,4 +104,4 @@ For non-linear relationships, extensions like polynomial regression, spline regr
 
 ## Conclusion
 
-The least squares criterion is a cornerstone of statistical modeling and machine learning, providing a straightforward and effective method for estimating model parameters. Despite its simplicity and desirable properties, practitioners must be mindful of its limitations and consider [robust](../r/robust.md) alternatives when necessary. Through careful application and consideration of assumptions, the least squares criterion can [yield](../y/yield.md) valuable insights and predictions across various fields.
+The least squares criterion is a cornerstone of statistical modeling and [machine learning](../m/machine_learning.md), providing a straightforward and effective method for estimating model parameters. Despite its simplicity and desirable properties, practitioners must be mindful of its limitations and consider [robust](../r/robust.md) alternatives when necessary. Through careful application and consideration of assumptions, the least squares criterion can [yield](../y/yield.md) valuable insights and predictions across various fields.

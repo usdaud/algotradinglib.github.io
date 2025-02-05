@@ -36,11 +36,11 @@ While the Win/[Loss ratio](../l/loss_ratio.md) is a valuable metric, it has cert
 
 ## Enhancing the Win/Loss Ratio with Algorithms
 
-In [algorithmic trading](../a/accountability.md), advanced algorithms can be developed to optimize the Win/[Loss ratio](../l/loss_ratio.md) by leveraging [data analytics](../d/data_analytics.md), machine learning, and other computational techniques. These systems can:
+In [algorithmic trading](../a/accountability.md), advanced algorithms can be developed to optimize the Win/[Loss ratio](../l/loss_ratio.md) by leveraging [data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and other computational techniques. These systems can:
 
 1. **[Backtesting](../b/backtesting.md)**: Run historical data simulations to refine and improve [trading strategies](../t/trading_strategies.md), leading to improved win rates.
 
-2. **Machine Learning Models**: Implement models that can predict [market](../m/market.md) movements with greater accuracy, thus enhancing the likelihood of winning trades.
+2. **[Machine Learning](../m/machine_learning.md) Models**: Implement models that can predict [market](../m/market.md) movements with greater accuracy, thus enhancing the likelihood of winning trades.
 
 3. **High-Frequency Trading**: Utilize speed and automation to exploit small [market](../m/market.md) inefficiencies that a human [trader](../t/trader.md) might miss.
 

@@ -50,7 +50,7 @@ Effective DQM in [algorithmic trading](../a/algorithmic_trading.md) leverages va
 - **Data [Quality Management](../q/quality_management.md) Platforms**: Solutions like Talend and Informatica [offer](../o/offer.md) comprehensive DQM capabilities.
 - **ETL (Extract, Transform, [Load](../l/load.md)) Tools**: Tools like Apache NiFi and Microsoft SSIS help in data extraction, transformation, and loading while ensuring quality.
 - **Data Streaming Platforms**: Tools like Apache Kafka facilitate real-time data processing and validation.
-- **Machine Learning Models**: [Anomaly detection](../a/anomaly_detection.md) algorithms can identify inconsistencies and errors in data streams.
+- **[Machine Learning](../m/machine_learning.md) Models**: [Anomaly detection](../a/anomaly_detection.md) algorithms can identify inconsistencies and errors in data streams.
 
 ## Challenges in Data Quality Management
 
@@ -69,11 +69,11 @@ Managing data quality in [algorithmic trading](../a/algorithmic_trading.md) come
 
 ### Case Study 2: Numerai
 
-[Numerai](https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) that utilizes crowdsourced machine learning models. Data quality is paramount for Numerai as they rely on diverse data sources to train their models. Their data pipeline involves extensive preprocessing, validation, and transformation techniques to ensure high-quality datasets for model training and evaluation.
+[Numerai](https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) that utilizes crowdsourced [machine learning](../m/machine_learning.md) models. Data quality is paramount for Numerai as they rely on diverse data sources to train their models. Their data pipeline involves extensive preprocessing, validation, and transformation techniques to ensure high-quality datasets for model training and evaluation.
 
 ### Case Study 3: Two Sigma
 
-[Two Sigma](https://www.twosigma.com/) is a quantitative investment [firm](../f/firm.md) that places significant emphasis on data quality. They employ advanced data governance frameworks and machine learning techniques to manage and maintain the quality of data used in their [trading algorithms](../t/trading_algorithms.md). They focus on continuous improvement of their data processes to adapt to the evolving [market](../m/market.md) landscape.
+[Two Sigma](https://www.twosigma.com/) is a quantitative investment [firm](../f/firm.md) that places significant emphasis on data quality. They employ advanced data governance frameworks and [machine learning](../m/machine_learning.md) techniques to manage and maintain the quality of data used in their [trading algorithms](../t/trading_algorithms.md). They focus on continuous improvement of their data processes to adapt to the evolving [market](../m/market.md) landscape.
 
 ## Conclusion
 

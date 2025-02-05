@@ -61,7 +61,7 @@ Borrowers can employ several strategies to minimize or avoid [loan](../l/loan.md
 The increasing digitization of financial services has had a noticeable impact on [loan](../l/loan.md) application fees. Online lenders and fintech companies often have lower overhead costs and are able to [offer](../o/offer.md) reduced or no application fees.
 
 ### Digital Transformation
-1. **Automation**: Use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to automate the [loan](../l/loan.md) application process can reduce the need for high application fees.
+1. **Automation**: Use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to automate the [loan](../l/loan.md) application process can reduce the need for high application fees.
 2. **Fintech Solutions**: Online platforms often compete by [offering](../o/offering.md) lower fees to attract tech-savvy consumers.
 
 ### Regulatory Changes

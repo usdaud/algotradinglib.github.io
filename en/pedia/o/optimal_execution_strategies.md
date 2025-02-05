@@ -72,7 +72,7 @@ HFT involves using sophisticated algorithms to execute trades at extremely high 
 
 ### Machine Learning and AI
 
-Machine learning and AI-based algorithms analyze vast amounts of [market](../m/market.md) data to improve [execution](../e/execution.md) strategies. These technologies can adapt to changing [market](../m/market.md) conditions in real-time, optimizing [execution](../e/execution.md) continuously.
+[Machine learning](../m/machine_learning.md) and AI-based algorithms analyze vast amounts of [market](../m/market.md) data to improve [execution](../e/execution.md) strategies. These technologies can adapt to changing [market](../m/market.md) conditions in real-time, optimizing [execution](../e/execution.md) continuously.
 
 ### Blockchain and Distributed Ledger Technology (DLT)
 
@@ -92,7 +92,7 @@ Citadel Securities is a prominent [market maker](../m/market_maker.md) and provi
 
 ### Two Sigma
 
-Two Sigma is an [investment management](../i/investment_management.md) [firm](../f/firm.md) known for its data-driven approach and use of technology in trading. Their [execution](../e/execution.md) strategies [leverage](../l/leverage.md) machine learning and AI to optimize [trade](../t/trade.md) performance.
+Two Sigma is an [investment management](../i/investment_management.md) [firm](../f/firm.md) known for its data-driven approach and use of technology in trading. Their [execution](../e/execution.md) strategies [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) and AI to optimize [trade](../t/trade.md) performance.
 - [Two Sigma](https://www.twosigma.com/)
 
 ## Conclusion

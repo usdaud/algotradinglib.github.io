@@ -83,7 +83,7 @@ With the rise of [mobile commerce](../m/mobile_commerce.md), fraudsters are incr
 Fraudsters use [social media](../s/social_media.md) platforms to carry out scams by creating fake profiles, pages, or ads. They lure consumers into making purchases on fake e-[commerce](../c/commerce.md) websites or divulging personal information.
 
 ### AI and Machine Learning in Fraud Detection
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning are being leveraged for enhanced [fraud](../f/fraud.md) detection. These technologies can analyze vast amounts of data in real-time to identify patterns and anomalies indicative of fraudulent activity.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) are being leveraged for enhanced [fraud](../f/fraud.md) detection. These technologies can analyze vast amounts of data in real-time to identify patterns and anomalies indicative of fraudulent activity.
 
 ## Conclusion
 Online shoplifting presents a persistent and evolving challenge for both businesses and consumers. While technological advancements [offer](../o/offer.md) new avenues for combating [fraud](../f/fraud.md), they also introduce more sophisticated methods for committing it. Hence, continuous vigilance, updated [security](../s/security.md) practices, and informed consumer behavior are crucial in mitigating the risks associated with e-[commerce](../c/commerce.md) [fraud](../f/fraud.md). Businesses must invest in advanced [security](../s/security.md) measures and stay ahead of emerging [fraud](../f/fraud.md) techniques to protect their assets and [customer](../c/customer.md) [trust](../t/trust.md).

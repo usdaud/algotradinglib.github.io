@@ -74,7 +74,7 @@ Using more [robust](../r/robust.md) statistical tests can help mitigate Type II 
 
 ### Cross-Validation
 
-In machine learning models used for trading, cross-validation helps ensure that the model generalizes well to unseen data. This can reduce the [risk](../r/risk.md) of Type II errors when applying the model to real-world scenarios.
+In [machine learning](../m/machine_learning.md) models used for trading, cross-validation helps ensure that the model generalizes well to unseen data. This can reduce the [risk](../r/risk.md) of Type II errors when applying the model to real-world scenarios.
 
 ### Sensitivity Analysis
 

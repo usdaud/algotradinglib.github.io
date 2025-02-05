@@ -1,6 +1,6 @@
 # Knowledge Extraction
 
-Knowledge extraction in trading refers to the process of retrieving, filtering, and interpreting vast quantities of financial and [market](../m/market.md)-related data to generate insights that support financial decisions, including [algorithmic trading](../a/algorithmic_trading.md). This involves using various technologies and methodologies from [data science](../d/data_science_in_trading.md), machine learning, and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to transform raw data into actionable knowledge.
+Knowledge extraction in trading refers to the process of retrieving, filtering, and interpreting vast quantities of financial and [market](../m/market.md)-related data to generate insights that support financial decisions, including [algorithmic trading](../a/algorithmic_trading.md). This involves using various technologies and methodologies from [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to transform raw data into actionable knowledge.
 
 ## Introduction to Knowledge Extraction
 
@@ -31,7 +31,7 @@ Once the data is collected, it must be parsed and cleaned to ensure it is in a u
 Feature selection is a critical part of the knowledge extraction process as it involves identifying the most relevant variables that influence the trading decisions. Common techniques include:
 
 - **Filter Methods**: Evaluates features individually through statistical methods to assess their relationship with the target variable.
-- **Wrapper Methods**: Uses machine learning models to evaluate the performance of different subsets of features.
+- **Wrapper Methods**: Uses [machine learning](../m/machine_learning.md) models to evaluate the performance of different subsets of features.
 - **Embedded Methods**: Integrates feature selection as part of the model training process.
 
 ## Model Training
@@ -72,7 +72,7 @@ Knowledge extraction has numerous applications in trading, such as:
 
 Several companies [leverage](../l/leverage.md) knowledge extraction to [offer](../o/offer.md) trading solutions. Some notable ones include:
 
-- **Kensho Technologies**: Offers machine learning-powered insights for [finance](../f/finance.md) and healthcare. [Kensho](https://www.kensho.com/)
+- **Kensho Technologies**: Offers [machine learning](../m/machine_learning.md)-powered insights for [finance](../f/finance.md) and healthcare. [Kensho](https://www.kensho.com/)
 - **Numerai**: An AI-powered [hedge fund](../h/hedge_fund.md) that crowdsources financial models. [Numerai](https://numer.ai/)
 - **[Quandl](../q/quandl.md)**: Provides a wide [range](../r/range.md) of financial, economic, and [alternative data](../a/alternative_data.md). [Quandl](https://www.quandl.com/)
 - **Sentifi**: Specializes in [alternative data](../a/alternative_data.md) and [sentiment analysis](../s/sentiment_analysis.md). [Sentifi](https://www.sentifi.com/)

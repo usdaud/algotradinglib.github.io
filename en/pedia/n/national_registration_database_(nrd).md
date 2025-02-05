@@ -80,7 +80,7 @@ Despite its advantages, NRD faces challenges related to data management:
 The future directions for NRD may include:
 
 1. **Incorporating [Blockchain](../b/blockchain_in_trading.md):** Using [blockchain](../b/blockchain_in_trading.md) technology could further enhance [data security](../d/data_security_in_trading.md) and [transparency](../t/transparency.md).
-2. **Enhanced Analytics:** Leveraging machine learning and AI to provide [predictive analytics](../p/predictive_analytics.md) and [gain](../g/gain.md) deeper insights into [market](../m/market.md) behaviors.
+2. **Enhanced Analytics:** Leveraging [machine learning](../m/machine_learning.md) and AI to provide [predictive analytics](../p/predictive_analytics.md) and [gain](../g/gain.md) deeper insights into [market](../m/market.md) behaviors.
 3. **User Experience:** Ongoing enhancements to the user interface to improve accessibility and usability for all stakeholders.
 
 ### Regulatory Adaptations

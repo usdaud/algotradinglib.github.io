@@ -98,7 +98,7 @@ As social movements [gain](../g/gain.md) prominence, companies are increasingly 
 
 ## AI and Machine Learning in Social Responsibility
 
-Leveraging AI and machine learning for promoting social responsibility, especially in [finance](../f/finance.md), is a burgeoning field. These technologies can be deployed to enhance ESG performance tracking, predict societal needs, and optimize resource allocation to sustainable initiatives.
+Leveraging AI and [machine learning](../m/machine_learning.md) for promoting social responsibility, especially in [finance](../f/finance.md), is a burgeoning field. These technologies can be deployed to enhance ESG performance tracking, predict societal needs, and optimize resource allocation to sustainable initiatives.
 
 1. **[Predictive Analytics](../p/predictive_analytics.md)**: [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can predict the outcomes of certain [business](../b/business.md) practices on social and environmental factors. This allows businesses to make informed decisions that align with their CSR goals.
 2. **[Sentiment Analysis](../s/sentiment_analysis.md)**: AI can analyze [social media](../s/social_media.md) and other online platforms to gauge public sentiment regarding a company's social responsibility efforts. This helps in shaping strategies that are more aligned with public expectations and demands.

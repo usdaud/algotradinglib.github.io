@@ -46,7 +46,7 @@ The [European Union](../e/european_union_(eu).md) enacts AML regulations through
 Technological advancements play a significant role in enhancing AML strategies. Cutting-edge technologies improve the [efficiency](../e/efficiency.md) and effectiveness of detecting and preventing [money laundering](../m/money_laundering.md) activities.
 
 #### Artificial Intelligence and Machine Learning
-AI and Machine Learning (ML) algorithms analyze large datasets to identify patterns indicative of [money laundering](../m/money_laundering.md). These technologies enable real-time [anomaly detection](../a/anomaly_detection.md) and improve the accuracy of monitoring systems. They can also reduce false positives, allowing compliance teams to focus on genuinely suspicious activities.
+AI and [Machine Learning](../m/machine_learning.md) (ML) algorithms analyze large datasets to identify patterns indicative of [money laundering](../m/money_laundering.md). These technologies enable real-time [anomaly detection](../a/anomaly_detection.md) and improve the accuracy of monitoring systems. They can also reduce false positives, allowing compliance teams to focus on genuinely suspicious activities.
 
 Companies utilizing AI in AML:
 - **Palantir Technologies**: [Palantir](https://www.palantir.com)
@@ -81,7 +81,7 @@ Criminals continually develop sophisticated methods to launder [money](../m/mone
 The AML landscape is expected to continue evolving, driven by technological advancements and changing regulatory demands. Institutions [will](../w/will.md) need to adapt to future trends to maintain effective compliance.
 
 #### Increased Use of AI and Machine Learning
-The role of AI and Machine Learning in AML compliance [will](../w/will.md) grow, with institutions [investing](../i/investing.md) in these technologies to enhance their capabilities. More advanced algorithms [will](../w/will.md) enable better detection of complex [money laundering](../m/money_laundering.md) patterns.
+The role of AI and [Machine Learning](../m/machine_learning.md) in AML compliance [will](../w/will.md) grow, with institutions [investing](../i/investing.md) in these technologies to enhance their capabilities. More advanced algorithms [will](../w/will.md) enable better detection of complex [money laundering](../m/money_laundering.md) patterns.
 
 #### Collaborative Efforts
 There [will](../w/will.md) be an increase in collaborative efforts between financial institutions, regulators, and technology providers. Sharing information and [best practices](../b/best_practices.md) [will](../w/will.md) strengthen global AML efforts and improve overall efficacy.

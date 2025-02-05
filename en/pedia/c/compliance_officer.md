@@ -39,7 +39,7 @@ Compliance Officers use a variety of specialized tools and technologies to manag
 
 ### Surveillance Systems
 - **Automated Surveillance Platforms**: Tools like NICE Actimize and [Nasdaq](../n/nasdaq.md)'s SMARTS provide advanced capabilities for real-time [trade](../t/trade.md) surveillance.
-- **Behavioral Analysis**: Systems that use machine learning to identify [unusual trading patterns](../u/unusual_trading_patterns.md) that may indicate compliance issues.
+- **Behavioral Analysis**: Systems that use [machine learning](../m/machine_learning.md) to identify [unusual trading patterns](../u/unusual_trading_patterns.md) that may indicate compliance issues.
 
 ### Reporting Tools
 - **Regulatory Compliance Software**: Platforms like AxiomSL and Cappitech help automate the reporting process, ensuring timely and accurate submissions to regulatory bodies.
@@ -74,7 +74,7 @@ Goldman Sachs employs cutting-edge technology and detailed compliance protocols 
 ## Future Trends
 
 ### AI and Machine Learning
-The integration of AI and machine learning into compliance monitoring tools is expected to enhance the ability of Compliance Officers to detect and mitigate sophisticated trading abuses.
+The integration of AI and [machine learning](../m/machine_learning.md) into compliance monitoring tools is expected to enhance the ability of Compliance Officers to detect and mitigate sophisticated trading abuses.
 
 ### Regulatory Technological Advancements
 With advances in regulation technology ([RegTech](../r/regtech.md)), Compliance Officers [will](../w/will.md) have access to more powerful tools for automating and streamlining compliance processes.

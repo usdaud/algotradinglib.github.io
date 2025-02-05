@@ -79,7 +79,7 @@ ARIMA is a popular model for analyzing and [forecasting](../f/forecasting.md) fi
 
 ### Machine Learning Methods
 
-Recent advances include the application of machine learning models:
+Recent advances include the application of [machine learning](../m/machine_learning.md) models:
 
 1. **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs)**: Including Long Short-Term Memory (LSTM) networks, which are effective in capturing patterns in sequential data.
 2. **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Useful for classification tasks, such as predicting [market](../m/market.md) direction.
@@ -107,7 +107,7 @@ Assessing strategy performance typically involves:
 ### Statistical and Mathematical Tools
 
 - **R**: Popular for statistical analysis with packages like `quantmod` and `forecast`.
-- **Python**: Widely used in [finance](../f/finance.md), with libraries such as pandas, NumPy, SciPy, and machine learning frameworks like TensorFlow and scikit-learn.
+- **Python**: Widely used in [finance](../f/finance.md), with libraries such as pandas, NumPy, SciPy, and [machine learning](../m/machine_learning.md) frameworks like [TensorFlow](../t/tensorflow.md) and scikit-learn.
 
 ### Trading Platforms and Software
 

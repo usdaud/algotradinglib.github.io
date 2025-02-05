@@ -63,7 +63,7 @@ The future for M-Pesa looks promising, especially with the continuous advancemen
 
 ### Technological Innovations
 
-The integration of [blockchain](../b/blockchain_in_trading.md) technology, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning could further enhance M-Pesa's capabilities. These technologies can improve [transaction](../t/transaction.md) [security](../s/security.md), [offer](../o/offer.md) personalized financial services, and streamline operations.
+The integration of [blockchain](../b/blockchain_in_trading.md) technology, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) could further enhance M-Pesa's capabilities. These technologies can improve [transaction](../t/transaction.md) [security](../s/security.md), [offer](../o/offer.md) personalized financial services, and streamline operations.
 
 ### Geographic Expansion
 

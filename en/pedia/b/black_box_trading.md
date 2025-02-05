@@ -6,7 +6,7 @@ Black Box Trading refers to the use of proprietary, often secretive, algorithmic
 
 ### Algorithms
 
-Algorithms in black box trading are [mathematical models](../m/mathematical_models_in_trading.md) and rules that dictate when to buy or sell securities. These algorithms can [range](../r/range.md) from simple, rule-based strategies to highly complex systems incorporating machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
+Algorithms in black box trading are [mathematical models](../m/mathematical_models_in_trading.md) and rules that dictate when to buy or sell securities. These algorithms can [range](../r/range.md) from simple, rule-based strategies to highly complex systems incorporating [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 ### Data Inputs
 
@@ -21,7 +21,7 @@ Black box systems require vast amounts of data to function effectively, includin
 - **High-Performance Computing (HPC):** Essential for processing large datasets and executing trades at high speeds.
 - **Low-Latency [Networking](../n/networking.md):** Reduces the time it takes for data to travel between trading venues and the black box system, essential for high-frequency trading (HFT).
 - **[Cloud Computing](../c/cloud_computing_in_trading.md):** Offers scalable resources for both storage and computation.
-- **Machine Learning Models:** Used for [pattern recognition](../p/pattern_recognition.md), [predictive analytics](../p/predictive_analytics.md), and improving decision-making processes over time.
+- **[Machine Learning](../m/machine_learning.md) Models:** Used for [pattern recognition](../p/pattern_recognition.md), [predictive analytics](../p/predictive_analytics.md), and improving decision-making processes over time.
 
 ## Advantages
 

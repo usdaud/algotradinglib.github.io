@@ -25,7 +25,7 @@ Several [trading strategies](../t/trading_strategies.md) revolve around the OR, 
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the OR serves as a parameter within various algorithms. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) might exploit the [volatility](../v/volatility.md) during the establishment of the OR for quick gains. Furthermore, machine learning models may incorporate OR data to predict intra-day price movements.
+In [algorithmic trading](../a/accountability.md), the OR serves as a parameter within various algorithms. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) might exploit the [volatility](../v/volatility.md) during the establishment of the OR for quick gains. Furthermore, [machine learning](../m/machine_learning.md) models may incorporate OR data to predict intra-day price movements.
 
 ### Risk Management
 

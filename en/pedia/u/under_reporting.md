@@ -61,7 +61,7 @@ IDEA is a powerful data analysis software often used by auditors to detect [frau
 ACL Analytics helps in identifying financial anomalies and signs of under-reporting by applying various tests and algorithms on the data.
 
 ### 3. MindBridge AI (https://www.mindbridge.ai/)
-MindBridge AI employs [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to detect unusual patterns in financial records, aimed at identifying under-reporting and other fraudulent activities.
+MindBridge AI employs [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to detect unusual patterns in financial records, aimed at identifying under-reporting and other fraudulent activities.
 
 ## Conclusion
 

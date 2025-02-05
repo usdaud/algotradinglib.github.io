@@ -39,7 +39,7 @@ The velocity of [market](../m/market.md) movements is a critical concept in [fin
 1. **Dynamic Model Adjustment**: Algorithms must be capable of dynamically adjusting their parameters based on real-time [market](../m/market.md) velocity.
 2. **Latency Reduction**: Utilizing technologies such as FPGA (Field Programmable Gate Array) or operating in co-location facilities close to the [exchange](../e/exchange.md) servers can significantly reduce latency.
 3. **Advanced [Risk Management](../r/risk_management.md)**: Implementing sophisticated [risk management](../r/risk_management.md) algorithms that can quickly adapt to rapid price movements is essential.
-4. **Machine Learning**: Leveraging machine learning techniques to forecast [market](../m/market.md) movements and adapt strategies accordingly.
+4. **[Machine Learning](../m/machine_learning.md)**: Leveraging [machine learning](../m/machine_learning.md) techniques to forecast [market](../m/market.md) movements and adapt strategies accordingly.
 
 #### Conclusion
 

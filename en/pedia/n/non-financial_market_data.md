@@ -37,10 +37,10 @@ The first step in leveraging non-financial [market](../m/market.md) data is acqu
 Once the data is cleaned, it can be enriched by combining it with other datasets. For instance, [social media sentiment](../s/social_media_sentiment.md) data can be enriched with trading volumes to better understand the potential impact on the [market](../m/market.md).
 
 ### Feature Engineering
-In feature engineering, relevant features are extracted or transformed from raw data to be used in machine learning models. For example, sentiment scores from news articles can be converted into numerical features that algorithms can use.
+In feature engineering, relevant features are extracted or transformed from raw data to be used in [machine learning](../m/machine_learning.md) models. For example, sentiment scores from news articles can be converted into numerical features that algorithms can use.
 
 ### Model Training and Testing
-With enriched and pre-processed data, the next step is to train machine learning models. These models can [range](../r/range.md) from simple linear regressions to complex [deep learning](../d/deep_learning.md) architectures. They are trained on historical data and tested on validation datasets to ensure they generalize well to unseen data.
+With enriched and pre-processed data, the next step is to train [machine learning](../m/machine_learning.md) models. These models can [range](../r/range.md) from simple linear regressions to complex [deep learning](../d/deep_learning.md) architectures. They are trained on historical data and tested on validation datasets to ensure they generalize well to unseen data.
 
 ### Real-Time Processing
 For algo-trading, real-time processing capabilities are crucial. This involves setting up pipelines and infrastructures that can ingest, process, and react to data in real-time. Technologies like Apache Kafka and Apache Flink are often used for real-time data processing.
@@ -79,7 +79,7 @@ Firms like Predictive Markets have created algorithms that integrate geopolitica
 ## Future Trends
 
 ### Increased Use of AI and Machine Learning
-Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are likely to further enhance the ability to process and analyze non-financial [market](../m/market.md) data. [Deep learning](../d/deep_learning.md) models, in particular, [hold](../h/hold.md) promise for uncovering complex patterns and relationships in unstructured data.
+Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are likely to further enhance the ability to process and analyze non-financial [market](../m/market.md) data. [Deep learning](../d/deep_learning.md) models, in particular, [hold](../h/hold.md) promise for uncovering complex patterns and relationships in unstructured data.
 
 ### Greater Integration of Diverse Data Sources
 As more [non-traditional data sources](../n/non-traditional_data_sources.md) become available, there [will](../w/will.md) likely be increased efforts to integrate these diverse datasets. This could improve the accuracy and robustness of [trading algorithms](../t/trading_algorithms.md).

@@ -44,15 +44,15 @@ The RSI measures the speed and change of price movements. It ranges from 0 to 10
 
 ### Machine Learning and Artificial Intelligence
 
-Algorithmic traders increasingly use machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques to predict inflection points. These methods can process large datasets and identify patterns that traditional statistical methods might miss.
+Algorithmic traders increasingly use [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques to predict inflection points. These methods can process large datasets and identify patterns that traditional statistical methods might miss.
 
 #### Supervised Learning
 
-In supervised learning, algorithms are trained on historical data labeled with known inflection points. Models such as [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) can be used to predict future inflection points based on new data.
+In [supervised learning](../s/supervised_learning.md), algorithms are trained on historical data labeled with known inflection points. Models such as [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) can be used to predict future inflection points based on new data.
 
 #### Unsupervised Learning
 
-Unsupervised learning involves identifying patterns in data without predefined labels. [Clustering algorithms](../c/clustering_algorithms.md) like k-means and hierarchical clustering can group similar [market](../m/market.md) conditions, potentially identifying inflection points.
+[Unsupervised learning](../u/unsupervised_learning.md) involves identifying patterns in data without predefined labels. [Clustering algorithms](../c/clustering_algorithms.md) like k-means and hierarchical clustering can group similar [market](../m/market.md) conditions, potentially identifying inflection points.
 
 ## Practical Applications in Trading Algorithms
 
@@ -66,13 +66,13 @@ Unsupervised learning involves identifying patterns in data without predefined l
 
 ### Machine Learning-Based Models
 
-Machine learning models can be trained to detect inflection points and execute trades accordingly. These models can [leverage](../l/leverage.md) various features such as price data, [volume](../v/volume.md), [technical indicators](../t/technical_indicator.md), and even news sentiment.
+[Machine learning](../m/machine_learning.md) models can be trained to detect inflection points and execute trades accordingly. These models can [leverage](../l/leverage.md) various features such as price data, [volume](../v/volume.md), [technical indicators](../t/technical_indicator.md), and even news sentiment.
 
 ## Example: QuantConnect
 
 [QuantConnect](https://www.quantconnect.com/) is a platform that provides [algorithmic trading](../a/accountability.md) solutions and [backtesting](../b/backtesting.md) environments. It allows traders to implement and test their strategies, including those that detect and exploit inflection points.
 
-[QuantConnect](../q/quantconnect.md)’s platform supports [multiple](../m/multiple.md) languages (C#, Python, F#), enabling traders to [leverage](../l/leverage.md) machine learning libraries to build advanced models. The platform's community and extensive documentation can help traders enhance their understanding and application of inflection points in [algorithmic trading](../a/accountability.md).
+[QuantConnect](../q/quantconnect.md)’s platform supports [multiple](../m/multiple.md) languages (C#, Python, F#), enabling traders to [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) libraries to build advanced models. The platform's community and extensive documentation can help traders enhance their understanding and application of inflection points in [algorithmic trading](../a/accountability.md).
 
 ### Implementation of an Inflection Point Detection Algorithm
 
@@ -115,7 +115,7 @@ Inflection point detection algorithms can generate false positives, signaling a 
 
 ### Model Overfitting
 
-Machine learning models can overfit historical data, performing well in [backtesting](../b/backtesting.md) but poorly in live trading. Proper validation and regularization techniques are essential to mitigate [overfitting](../o/overfitting.md).
+[Machine learning](../m/machine_learning.md) models can overfit historical data, performing well in [backtesting](../b/backtesting.md) but poorly in live trading. Proper validation and regularization techniques are essential to mitigate [overfitting](../o/overfitting.md).
 
 ### Market Noise
 
@@ -123,4 +123,4 @@ Machine learning models can overfit historical data, performing well in [backtes
 
 ## Conclusion
 
-Inflection points are critical moments in [financial markets](../f/financial_market.md) that signal changes in trends or [market](../m/market.md) conditions. Identifying these points can provide valuable insights for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Techniques ranging from [technical analysis](../t/technical_analysis.md) to machine learning can be employed to detect inflection points. Despite the challenges, incorporating inflection point detection into [trading algorithms](../t/trading_algorithms.md) can enhance decision-making and potentially improve [trading performance](../t/trading_performance.md). Platforms like [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) tools and environments for developing and testing such algorithms, enabling traders to navigate the complexities of [financial markets](../f/financial_market.md) more effectively.
+Inflection points are critical moments in [financial markets](../f/financial_market.md) that signal changes in trends or [market](../m/market.md) conditions. Identifying these points can provide valuable insights for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Techniques ranging from [technical analysis](../t/technical_analysis.md) to [machine learning](../m/machine_learning.md) can be employed to detect inflection points. Despite the challenges, incorporating inflection point detection into [trading algorithms](../t/trading_algorithms.md) can enhance decision-making and potentially improve [trading performance](../t/trading_performance.md). Platforms like [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) tools and environments for developing and testing such algorithms, enabling traders to navigate the complexities of [financial markets](../f/financial_market.md) more effectively.

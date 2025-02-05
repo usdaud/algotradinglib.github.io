@@ -24,7 +24,7 @@ Several methodologies and tools have been developed to measure [risk](../r/risk.
 
 3. **Quantitative Metrics**: Financial metrics such as the [Sharpe ratio](../s/sharpe_ratio.md), [standard deviation](../s/standard_deviation.md), and [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) may provide quantitative insights into the [risk](../r/risk.md)-[return](../r/return.md) profile of an [investor](../i/investor.md)’s portfolio.
 
-4. **[Software Tools](../s/software_tools_for_trading.md)**: Many fintech companies [offer](../o/offer.md) software solutions to assess and monitor [risk](../r/risk.md) tolerance dynamically. These tools can [leverage](../l/leverage.md) [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to provide tailored investment advice. Companies like [Riskalyze](https://www.riskalyze.com/) and [Finametrica](https://www.finametrica.com/) specialize in these services.
+4. **[Software Tools](../s/software_tools_for_trading.md)**: Many fintech companies [offer](../o/offer.md) software solutions to assess and monitor [risk](../r/risk.md) tolerance dynamically. These tools can [leverage](../l/leverage.md) [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to provide tailored investment advice. Companies like [Riskalyze](https://www.riskalyze.com/) and [Finametrica](https://www.finametrica.com/) specialize in these services.
 
 ## Impact on Investment Strategy
 

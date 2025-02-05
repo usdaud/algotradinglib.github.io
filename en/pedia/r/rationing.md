@@ -104,7 +104,7 @@ AI and [big data](../b/big_data_in_trading.md) enhance [risk](../r/risk.md) asse
 - **Automated Decision-Making:** AI-driven [loan](../l/loan.md) approval processes can streamline [credit](../c/credit.md) [distribution](../d/distribution.md).
 
 #### Case Study:
-Zest AI (https://www.zest.ai) uses machine learning to improve [credit](../c/credit.md) [underwriting](../u/underwriting.md) processes, thereby addressing [credit](../c/credit.md) rationing challenges.
+Zest AI (https://www.zest.ai) uses [machine learning](../m/machine_learning.md) to improve [credit](../c/credit.md) [underwriting](../u/underwriting.md) processes, thereby addressing [credit](../c/credit.md) rationing challenges.
 
 ## Future Trends and Challenges
 

@@ -24,11 +24,11 @@ These components are synthesized into a cohesive framework that can guide [tradi
 
 ### 2. Machine Learning Models
 
-Machine learning models represent the frontier of X-[Quantitative Models](../q/quantitative_models.md), heavily relying on patterns identified in large datasets:
+[Machine learning](../m/machine_learning.md) models represent the frontier of X-[Quantitative Models](../q/quantitative_models.md), heavily relying on patterns identified in large datasets:
 
-- **Supervised Learning Models**: Utilize labeled data to train algorithms. Examples include [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), and SVMs ([Support Vector Machines](../s/support_vector_machines_in_trading.md)).
-- **Unsupervised Learning Models**: These work with unlabeled data to find hidden patterns. Techniques often used are Clustering and [Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md).
-- **[Deep Learning](../d/deep_learning.md) Models**: A subset of machine learning, leveraging [neural networks](../n/neural_networks_in_trading.md) with many layers to model complex patterns in large datasets.
+- **[Supervised Learning](../s/supervised_learning.md) Models**: Utilize labeled data to train algorithms. Examples include [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), and SVMs ([Support Vector Machines](../s/support_vector_machines_in_trading.md)).
+- **[Unsupervised Learning](../u/unsupervised_learning.md) Models**: These work with unlabeled data to find hidden patterns. Techniques often used are Clustering and [Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md).
+- **[Deep Learning](../d/deep_learning.md) Models**: A subset of [machine learning](../m/machine_learning.md), leveraging [neural networks](../n/neural_networks_in_trading.md) with many layers to model complex patterns in large datasets.
 
 ### 3. Stochastic Models
 
@@ -53,7 +53,7 @@ Implementation often requires a [robust](../r/robust.md) technology stack, typic
 - **Programming Languages**: Python, R, and MATLAB for statistical computing and modeling.
 - **Data Handling Tools**: SQL databases for structured data and NoSQL databases for unstructured data.
 - **Scientific Libraries**: NumPy, pandas, and SciPy for data manipulation and analysis.
-- **Machine Learning Libraries**: Scikit-learn, TensorFlow, and PyTorch for model training and evaluation.
+- **[Machine Learning](../m/machine_learning.md) Libraries**: Scikit-learn, [TensorFlow](../t/tensorflow.md), and [PyTorch](../p/pytorch.md) for model training and evaluation.
 
 ### Data Acquisition
 
@@ -88,7 +88,7 @@ Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), whi
 
 ### Two Sigma
 
-Two Sigma is another leader in the field of [quantitative finance](../q/quantitative_finance.md), leveraging diverse datasets and machine learning techniques to generate [alpha](../a/alpha.md). The [firm](../f/firm.md) emphasizes technological innovation and scientific research in its [trading strategies](../t/trading_strategies.md). For further details, visit [Two Sigma](https://www.twosigma.com/).
+Two Sigma is another leader in the field of [quantitative finance](../q/quantitative_finance.md), leveraging diverse datasets and [machine learning](../m/machine_learning.md) techniques to generate [alpha](../a/alpha.md). The [firm](../f/firm.md) emphasizes technological innovation and scientific research in its [trading strategies](../t/trading_strategies.md). For further details, visit [Two Sigma](https://www.twosigma.com/).
 
 ## Conclusion
 

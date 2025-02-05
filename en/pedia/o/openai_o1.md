@@ -4,11 +4,11 @@ OpenAI’s **o1** model represents the first full-fledged member of the “o” 
 
 ### Key Components
 
-1. **Chain-of-Thought Reasoning:**  
+1. **[Chain-of-Thought Reasoning](../c/chain-of-thought_reasoning.md):**  
    o1 generates an internal sequence of thought steps that allows it to break down complex queries into manageable parts and correct itself along the way.
 
 2. **Deep Neural Architecture:**  
-   Utilizing multiple layers, o1 is engineered to capture intricate patterns in data, making it ideal for high-level reasoning and analysis.
+   Utilizing [multiple](../m/multiple.md) layers, o1 is engineered to capture intricate patterns in data, making it ideal for high-level reasoning and analysis.
 
 3. **Large Context Processing:**  
    The model can process extensive textual contexts, ensuring that it considers comprehensive information when formulating responses.
@@ -31,7 +31,7 @@ OpenAI’s **o1** model represents the first full-fledged member of the “o” 
 ### Challenges
 
 - Requires substantial computational resources, which may lead to increased response latency.
-- Optimization is needed to balance cost and performance.
+- [Optimization](../o/optimization.md) is needed to balance cost and performance.
 
 ### Future Developments
 

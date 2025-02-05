@@ -34,7 +34,7 @@ In the contemporary [financial markets](../f/financial_market.md), [Big Data](..
 ### A. Data Storage Solutions
 Technologies like Hadoop and Apache Spark are imperative for storing and processing [Big Data](../b/big_data_in_trading.md) efficiently.
 - **Hadoop**: An [open](../o/open.md)-source software framework for storing data and running applications on clusters of [commodity](../c/commodity.md) hardware.
-- **Apache Spark**: An [open](../o/open.md)-source unified analytics engine for large-scale data processing, with built-in modules for SQL, streaming, machine learning, and graph processing.
+- **Apache Spark**: An [open](../o/open.md)-source unified analytics engine for large-scale data processing, with built-in modules for SQL, streaming, [machine learning](../m/machine_learning.md), and graph processing.
 
 ### B. Data Processing and Analysis
 Data processing frameworks and languages include:
@@ -57,7 +57,7 @@ Palantir offers [data integration](../d/data_integration.md) and analytics solut
 - [Palantir](https://www.palantir.com/)
 
 ### C. Two Sigma Investments
-An innovative [hedge fund](../h/hedge_fund.md) that applies [Big Data](../b/big_data_in_trading.md) analytics and machine learning to its [trading strategies](../t/trading_strategies.md) to achieve superior returns.
+An innovative [hedge fund](../h/hedge_fund.md) that applies [Big Data](../b/big_data_in_trading.md) analytics and [machine learning](../m/machine_learning.md) to its [trading strategies](../t/trading_strategies.md) to achieve superior returns.
 - [Two Sigma Investments](https://www.twosigma.com/)
 
 ## 5. Benefits of Big Data Analytics in Trading
@@ -113,4 +113,4 @@ As [Big Data](../b/big_data_in_trading.md) analytics becomes pervasive, there [w
 
 ## Conclusion
 
-[Big Data](../b/big_data_in_trading.md) analytics has indubitably transformed the landscape of trading, [offering](../o/offering.md) tools and insights that were previously unimaginable. While the implementation of such technologies comes with its set of challenges, the advantages it brings to the table more than justify the investment. Moving forward, the synergy between advancing technologies like machine learning, [blockchain](../b/blockchain_in_trading.md), and [quantum computing](../q/quantum_computing_in_trading.md) [will](../w/will.md) further streamline and enhance the efficacy of [Big Data](../b/big_data_in_trading.md) analytics in trading.
+[Big Data](../b/big_data_in_trading.md) analytics has indubitably transformed the landscape of trading, [offering](../o/offering.md) tools and insights that were previously unimaginable. While the implementation of such technologies comes with its set of challenges, the advantages it brings to the table more than justify the investment. Moving forward, the synergy between advancing technologies like [machine learning](../m/machine_learning.md), [blockchain](../b/blockchain_in_trading.md), and [quantum computing](../q/quantum_computing_in_trading.md) [will](../w/will.md) further streamline and enhance the efficacy of [Big Data](../b/big_data_in_trading.md) analytics in trading.

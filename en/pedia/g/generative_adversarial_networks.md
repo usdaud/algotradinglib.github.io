@@ -1,6 +1,6 @@
 # Generative Adversarial Networks
 
-Generative Adversarial Networks (GANs) are a class of deep learning models used to generate realistic data through a game-like process between two networks: a generator and a discriminator.
+Generative Adversarial Networks (GANs) are a class of [deep learning](../d/deep_learning.md) models used to generate realistic data through a game-like process between two networks: a generator and a discriminator.
 
 ### Key Components
 - **Generator:** Produces synthetic data (e.g., images) that mimic real data.
@@ -11,7 +11,7 @@ Generative Adversarial Networks (GANs) are a class of deep learning models used 
 ### Applications
 - **Image Generation:** Creating high-quality, realistic images and art.
 - **Video Synthesis:** Generating video sequences or enhancing video quality.
-- **Data Augmentation:** Creating synthetic data to augment training datasets.
+- **[Data Augmentation](../d/data_augmentation.md):** Creating synthetic data to augment training datasets.
 - **Style Transfer:** Transforming images to mimic the style of another.
 
 ### Advantages
@@ -20,9 +20,9 @@ Generative Adversarial Networks (GANs) are a class of deep learning models used 
 - Enhances data diversity through synthetic augmentation.
 
 ### Challenges
-- Training instability and mode collapse can occur.
+- Training instability and [mode](../m/mode.md) collapse can occur.
 - Requires careful tuning of hyperparameters.
 - Sensitive to the balance between the generator and discriminator.
 
 ### Future Outlook
-Advances in GAN architectures and training techniques are expected to improve stability and quality, further expanding their use in creative applications, simulation, and data augmentation.
+Advances in GAN architectures and training techniques are expected to improve stability and quality, further expanding their use in creative applications, [simulation](../s/simulation_in_trading.md), and [data augmentation](../d/data_augmentation.md).

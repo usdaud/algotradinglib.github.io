@@ -77,7 +77,7 @@ The WDA in Singapore offers various initiatives aimed at upskilling workers. The
 
 ### Online Courses
 - Coursera: "The Future of Work: Preparing for Disruption" offered by the University of London.
-- edX: "Automation, AI, and Machine Learning in Financial Services" presented by Technische Universität München (TUM).
+- edX: "Automation, AI, and [Machine Learning](../m/machine_learning.md) in Financial Services" presented by Technische Universität München (TUM).
 
 ### Government Websites
 - [U.S. Department of Labor](https://www.dol.gov/)

@@ -12,7 +12,7 @@
 2. **Strategy Implementation**
     - **Function:** Defines the [trading rules](../t/trading_rules.md) and logic to determine buy and sell signals.
     - **Example Providers:** [QuantConnect](../q/quantconnect.md) ([quantconnect.com](https://www.quantconnect.com)), Algorithmia ([algorithmia.com](https://algorithmia.com)).
-    - **Details:** These strategies can [range](../r/range.md) from simple moving averages to complex machine learning models that predict [market](../m/market.md) movements based on historical data.
+    - **Details:** These strategies can [range](../r/range.md) from simple moving averages to complex [machine learning](../m/machine_learning.md) models that predict [market](../m/market.md) movements based on historical data.
 
 3. **[Order](../o/order.md) [Execution](../e/execution.md) Engine**
     - **Function:** Executes trades based on the strategy's output.

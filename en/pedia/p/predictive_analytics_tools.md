@@ -1,18 +1,18 @@
 # Predictive Analytics Tools
 
-[Predictive analytics](../p/predictive_analytics.md) is a field that leverages statistical techniques, machine learning, and [data mining](../d/data_mining.md) to analyze current and historical facts to make predictions about future or otherwise unknown events. In the domain of [algorithmic trading](../a/algorithmic_trading.md), [predictive analytics](../p/predictive_analytics.md) tools are indispensable for creating [trading models](../t/trading_models.md) that can forecast [market](../m/market.md) behavior, [asset](../a/asset.md) price movements, and other financial indicators. Below, we'll explore in detail several prominent [predictive analytics](../p/predictive_analytics.md) tools that are widely used in [algorithmic trading](../a/algorithmic_trading.md).
+[Predictive analytics](../p/predictive_analytics.md) is a field that leverages statistical techniques, [machine learning](../m/machine_learning.md), and [data mining](../d/data_mining.md) to analyze current and historical facts to make predictions about future or otherwise unknown events. In the domain of [algorithmic trading](../a/algorithmic_trading.md), [predictive analytics](../p/predictive_analytics.md) tools are indispensable for creating [trading models](../t/trading_models.md) that can forecast [market](../m/market.md) behavior, [asset](../a/asset.md) price movements, and other financial indicators. Below, we'll explore in detail several prominent [predictive analytics](../p/predictive_analytics.md) tools that are widely used in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## 1. Python and R Programming Languages
 
 ### Python
 
-Python is one of the most popular programming languages in the field of [predictive analytics](../p/predictive_analytics.md) due to its simplicity and the vast array of libraries available for data analysis and machine learning.
+Python is one of the most popular programming languages in the field of [predictive analytics](../p/predictive_analytics.md) due to its simplicity and the vast array of libraries available for data analysis and [machine learning](../m/machine_learning.md).
 
 #### Key Libraries in Python:
 - **Pandas**: A powerful data manipulation and analysis tool.
 - **NumPy**: Provides support for large multidimensional arrays and matrices.
-- **Scikit-learn**: A library for machine learning that includes a wide [range](../r/range.md) of algorithms such as classification, regression, clustering, and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md).
-- **TensorFlow and Keras**: Libraries for developing [neural networks](../n/neural_networks_in_trading.md) and [deep learning](../d/deep_learning.md) models.
+- **Scikit-learn**: A library for [machine learning](../m/machine_learning.md) that includes a wide [range](../r/range.md) of algorithms such as classification, regression, clustering, and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md).
+- **[TensorFlow](../t/tensorflow.md) and [Keras](../k/keras.md)**: Libraries for developing [neural networks](../n/neural_networks_in_trading.md) and [deep learning](../d/deep_learning.md) models.
 - **Statsmodels**: Provides classes and functions for the estimation of many different statistical models.
 - **Prophet**: A [forecasting](../f/forecasting.md) tool developed by Facebook that is specifically designed to [handle](../h/handle.md) [time series](../t/time_series.md) data with trends and [seasonality](../s/seasonality.md).
 
@@ -39,11 +39,11 @@ For more information about SAS, visit their [official website](https://www.sas.c
 
 ## 3. RapidMiner
 
-RapidMiner is a [data science](../d/data_science_in_trading.md) platform designed to help data scientists and analysts [leverage](../l/leverage.md) [predictive analytics](../p/predictive_analytics.md) and machine learning models.
+RapidMiner is a [data science](../d/data_science_in_trading.md) platform designed to help data scientists and analysts [leverage](../l/leverage.md) [predictive analytics](../p/predictive_analytics.md) and [machine learning](../m/machine_learning.md) models.
 
 ### Key Features:
 - **Visual Workflow Designer**: Allows users to build models with a drag-and-drop interface.
-- **Automated Machine Learning (AutoML)**: Simplifies the process of building and optimizing machine learning models.
+- **Automated [Machine Learning](../m/machine_learning.md) ([AutoML](../a/automl.md))**: Simplifies the process of building and optimizing [machine learning](../m/machine_learning.md) models.
 - **In-depth [Data Analytics](../d/data_analytics.md)**: Provides tools for preprocessing data, statistical analysis, and text [mining](../m/mining.md).
 - **Support for R and Python**: Users can incorporate R and Python scripts within workflows.
 
@@ -68,14 +68,14 @@ KNIME (Konstanz Information Miner) is an [open](../o/open.md)-source platform fo
 ### Key Features:
 - **Node-Based Graphical Interface**: Designed to allow users to visually create data workflows and analytical models.
 - **Modular Data Pipelines**: Enables the construction of reusable and extensible analytics pipelines.
-- **Integration with Machine Learning Libraries**: Supports integration with libraries like TensorFlow, Keras, and H2O.
+- **Integration with [Machine Learning](../m/machine_learning.md) Libraries**: Supports integration with libraries like [TensorFlow](../t/tensorflow.md), [Keras](../k/keras.md), and H2O.
 - **Community Extensions**: A large repository of community-contributed nodes and plugins.
 
 For more information about KNIME, visit their [official website](https://www.knime.com).
 
 ## 6. TIBCO Data Science
 
-TIBCO [Data Science](../d/data_science_in_trading.md) is a [robust](../r/robust.md) analytics suite that offers advanced modeling, data preparation, and deployment capabilities for machine learning and [predictive analytics](../p/predictive_analytics.md).
+TIBCO [Data Science](../d/data_science_in_trading.md) is a [robust](../r/robust.md) analytics suite that offers advanced modeling, data preparation, and deployment capabilities for [machine learning](../m/machine_learning.md) and [predictive analytics](../p/predictive_analytics.md).
 
 ### Key Features:
 - **Integration with [Open](../o/open.md)-source Tools**: Combines [open](../o/open.md)-source languages and libraries like R, Python, and Spark with TIBCO’s analytics tools.
@@ -99,10 +99,10 @@ For more information about Alteryx, visit their [official website](https://www.a
 
 ## 8. DataRobot
 
-DataRobot is a leading enterprise AI platform that automates the end-to-end process for building, deploying, and maintaining machine learning models.
+DataRobot is a leading enterprise AI platform that automates the end-to-end process for building, deploying, and maintaining [machine learning](../m/machine_learning.md) models.
 
 ### Key Features:
-- **Automated Machine Learning (AutoML)**: Automates feature engineering, model selection, and hyperparameter tuning.
+- **Automated [Machine Learning](../m/machine_learning.md) ([AutoML](../a/automl.md))**: Automates feature engineering, model selection, and hyperparameter tuning.
 - **Model Insight**: Provides detailed insights into model performance and interpretability.
 - **Deployment and Monitoring**: Simplifies the process of deploying models into production environments and monitoring them for performance.
 - **[Scalability](../s/scalability.md)**: Designed to [handle](../h/handle.md) the requirements of large enterprises with scalable performance.

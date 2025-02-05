@@ -1,7 +1,7 @@
 # NeuroShell Trader
 
 ## Overview
-NeuroShell [Trader](../t/trader.md) is an advanced trading software platform developed by Ward Systems Group. It is designed to [leverage](../l/leverage.md) [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) techniques to develop, backtest, and execute [trading strategies](../t/trading_strategies.md). The platform is particularly known for its neural network capabilities, allowing traders to create models that adapt and learn from [market](../m/market.md) data.
+NeuroShell [Trader](../t/trader.md) is an advanced trading software platform developed by Ward Systems Group. It is designed to [leverage](../l/leverage.md) [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) techniques to develop, backtest, and execute [trading strategies](../t/trading_strategies.md). The platform is particularly known for its neural network capabilities, allowing traders to create models that adapt and learn from [market](../m/market.md) data.
 
 ## Features
 1. **[Neural Networks](../n/neural_networks_in_trading.md)**: Utilizes [neural networks](../n/neural_networks_in_trading.md) and other AI techniques to develop predictive [trading models](../t/trading_models.md).
@@ -44,4 +44,4 @@ NeuroShell [Trader](../t/trader.md) provides extensive support through detailed 
 - **Algorithmic Traders**: Enables algo traders to build and optimize automated [trading strategies](../t/trading_strategies.md) using [neural networks](../n/neural_networks_in_trading.md) and [genetic algorithms](../g/genetic_algorithms_in_trading.md).
 - **[Market](../m/market.md) Analysts**: Used by [market](../m/market.md) analysts for in-depth [technical analysis](../t/technical_analysis.md) and [market](../m/market.md) prediction models.
 
-NeuroShell [Trader](../t/trader.md)’s advanced AI capabilities, combined with its powerful trading tools and integrations, make it an ideal choice for traders seeking to [leverage](../l/leverage.md) [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning in their [trading strategies](../t/trading_strategies.md).
+NeuroShell [Trader](../t/trader.md)’s advanced AI capabilities, combined with its powerful trading tools and integrations, make it an ideal choice for traders seeking to [leverage](../l/leverage.md) [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) in their [trading strategies](../t/trading_strategies.md).

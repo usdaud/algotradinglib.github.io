@@ -40,7 +40,7 @@ To effectively implement term [spread analysis](../s/spread_analysis.md), trader
 
 4. **Statistical Analysis:** Perform statistical analyses such as [regression analysis](../r/regression_analysis.md) to understand the relationship between term [spreads](../s/spreads.md) and [economic indicators](../e/economic_indicators.md) like GDP growth, [unemployment](../u/unemployment.md) rates, and [inflation](../i/inflation.md).
 
-5. **Machine Learning Models:** Develop machine learning models to predict future movements of term [spreads](../s/spreads.md) based on historical patterns and economic data. Common techniques include time-series analysis, [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md).
+5. **[Machine Learning](../m/machine_learning.md) Models:** Develop [machine learning](../m/machine_learning.md) models to predict future movements of term [spreads](../s/spreads.md) based on historical patterns and economic data. Common techniques include time-series analysis, [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md).
 
 6. **[Backtesting](../b/backtesting.md):** Test the [trading algorithms](../t/trading_algorithms.md) on historical data to evaluate their performance and make necessary adjustments for [optimization](../o/optimization.md).
 
@@ -80,7 +80,7 @@ Despite its advantages, term [spread analysis](../s/spread_analysis.md) in [algo
 
 #### Future Trends
 
-The future of term [spread analysis](../s/spread_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md) looks promising, with advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning likely to enhance predictive capabilities. Here are some anticipated trends:
+The future of term [spread analysis](../s/spread_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md) looks promising, with advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) likely to enhance predictive capabilities. Here are some anticipated trends:
 
 1. **AI and [Deep Learning](../d/deep_learning.md):** Incorporating AI and [deep learning](../d/deep_learning.md) techniques can improve the accuracy of term spread predictions by capturing complex non-linear relationships and patterns in the data.
 

@@ -20,7 +20,7 @@ Handling the massive influx of [market](../m/market.md) data requires [robust](.
 ### Algorithmic Models
 Algorithmic models are the brain of any RTTS. These models analyze [market](../m/market.md) data to identify profitable trading opportunities and prescribe actions.
 1. **[Quantitative Models](../q/quantitative_models.md)**: Developed using statistical methods and mathematical theories. Often used in strategies like [mean reversion](../m/mean_reversion.md) or statistical [arbitrage](../a/arbitrage.md).
-2. **Machine Learning Models**: Incorporate techniques such as [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md) to predict [market](../m/market.md) trends and optimize [trading strategies](../t/trading_strategies.md).
+2. **[Machine Learning](../m/machine_learning.md) Models**: Incorporate techniques such as [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md) to predict [market](../m/market.md) trends and optimize [trading strategies](../t/trading_strategies.md).
 3. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Used to analyze news articles, [social media](../s/social_media.md) posts, and other unstructured data to gauge [market sentiment](../m/market_sentiment.md).
 
 ### Order Management System (OMS)
@@ -62,7 +62,7 @@ Virtu Financial operates as one of the largest HFT firms globally. Their RTTS le
 
 ### Future Trends
 The landscape of real-time [trading systems](../t/trading_systems.md) is continually evolving, driven by technological advancements and regulatory changes.
-1. **AI and Machine Learning**: More sophisticated models [will](../w/will.md) likely drive [trading strategies](../t/trading_strategies.md), leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning for deeper [market](../m/market.md) insights.
+1. **AI and [Machine Learning](../m/machine_learning.md)**: More sophisticated models [will](../w/will.md) likely drive [trading strategies](../t/trading_strategies.md), leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) for deeper [market](../m/market.md) insights.
 2. **[Blockchain](../b/blockchain_in_trading.md) Technology**: Could [offer](../o/offer.md) greater [transparency](../t/transparency.md) and [security](../s/security.md) in trading operations.
 3. **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Although still in its infancy, [quantum computing](../q/quantum_computing_in_trading.md) promises to revolutionize data processing and algorithmic modeling capabilities.
 

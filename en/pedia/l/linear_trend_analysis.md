@@ -65,7 +65,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), strategies are often base
 
 Numerous tools and software packages are available for conducting Linear [Trend Analysis](../t/trend_analysis.md) in the context of [algorithmic trading](../a/algorithmic_trading.md). Some popular ones include:
 
-- **Python**: Libraries like Pandas, NumPy, and Scikit-learn [offer](../o/offer.md) [robust](../r/robust.md) functionalities for data manipulation, statistical analysis, and machine learning, making Python a popular choice for algo-trading.
+- **Python**: Libraries like Pandas, NumPy, and Scikit-learn [offer](../o/offer.md) [robust](../r/robust.md) functionalities for data manipulation, statistical analysis, and [machine learning](../m/machine_learning.md), making Python a popular choice for algo-trading.
   - [Python Pandas](https://pandas.pydata.org/)
   - [NumPy](https://numpy.org/)
   - [Scikit-learn](https://scikit-learn.org/)

@@ -66,10 +66,10 @@ Some sophisticated models, especially those involving large datasets or [multipl
 
 #### Machine Learning
 
-Machine learning (ML) techniques have revolutionized quantitative [forecasting](../f/forecasting.md) by enabling more accurate and [robust](../r/robust.md) predictions. Some popular ML approaches include:
+[Machine learning](../m/machine_learning.md) (ML) techniques have revolutionized quantitative [forecasting](../f/forecasting.md) by enabling more accurate and [robust](../r/robust.md) predictions. Some popular ML approaches include:
 
 - **[Random Forests](../r/random_forests_in_trading.md):** An [ensemble learning](../e/ensemble_learning.md) method that builds [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md) and merges them to improve accuracy.
-- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** A supervised learning model that finds the hyperplane that best separates data into classes.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** A [supervised learning](../s/supervised_learning.md) model that finds the hyperplane that best separates data into classes.
 - **[Neural Networks](../n/neural_networks_in_trading.md):** Computational models inspired by the human brain, capable of capturing complex patterns through hidden layers and non-linear activations.
 - **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNN):** A type of neural network particularly suited for [time series](../t/time_series.md) data as they incorporate memory of previous inputs.
 
@@ -83,7 +83,7 @@ The proliferation of [cloud computing](../c/cloud_computing_in_trading.md) has m
 
 ### Conclusion
 
-Quantitative [forecasting](../f/forecasting.md) represents a vital component in strategic planning and decision-making across [multiple](../m/multiple.md) fields. Its data-driven nature provides a reliable [basis](../b/basis.md) for prediction, but it also poses several challenges that need to be addressed. The integration of machine learning, [big data](../b/big_data_in_trading.md), and [cloud computing](../c/cloud_computing_in_trading.md) is pushing the boundaries of what is possible, making quantitative [forecasting](../f/forecasting.md) an ever-evolving discipline. As technology advances, the tools and techniques available for quantitative [forecasting](../f/forecasting.md) [will](../w/will.md) continue to improve, [offering](../o/offering.md) more accurate and actionable insights.
+Quantitative [forecasting](../f/forecasting.md) represents a vital component in strategic planning and decision-making across [multiple](../m/multiple.md) fields. Its data-driven nature provides a reliable [basis](../b/basis.md) for prediction, but it also poses several challenges that need to be addressed. The integration of [machine learning](../m/machine_learning.md), [big data](../b/big_data_in_trading.md), and [cloud computing](../c/cloud_computing_in_trading.md) is pushing the boundaries of what is possible, making quantitative [forecasting](../f/forecasting.md) an ever-evolving discipline. As technology advances, the tools and techniques available for quantitative [forecasting](../f/forecasting.md) [will](../w/will.md) continue to improve, [offering](../o/offering.md) more accurate and actionable insights.
 
 For more information on [quantitative finance](../q/quantitative_finance.md) models and [trading algorithms](../t/trading_algorithms.md), you can visit Renaissance Technologies [here](https://www.rentec.com/).
 For information on [supply chain](../s/supply_chain.md) solutions, visit SAP IBP [here](https://www.sap.com/products/integrated-business-planning.html).

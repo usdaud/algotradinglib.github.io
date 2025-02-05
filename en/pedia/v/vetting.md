@@ -99,7 +99,7 @@ Numerous tools and software solutions are available to facilitate the vetting pr
 ### Algorithmic Trading Tools
 
 - **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com): An [open](../o/open.md)-source platform for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md), with features for code review and performance evaluation.
-- **Algorithmia** (https://algorithmia.com): A platform for deploying and managing machine learning models, with built-in vetting capabilities for algorithm performance and [security](../s/security.md).
+- **Algorithmia** (https://algorithmia.com): A platform for deploying and managing [machine learning](../m/machine_learning.md) models, with built-in vetting capabilities for algorithm performance and [security](../s/security.md).
 
 ### AML and Compliance Solutions
 
@@ -118,7 +118,7 @@ While vetting is indispensable, it presents several challenges:
 
 ### Future Trends
 
-- **AI and Machine Learning**: Enhanced vetting capabilities through AI and machine learning, enabling more accurate [risk](../r/risk.md) assessments and [anomaly detection](../a/anomaly_detection.md).
+- **AI and [Machine Learning](../m/machine_learning.md)**: Enhanced vetting capabilities through AI and [machine learning](../m/machine_learning.md), enabling more accurate [risk](../r/risk.md) assessments and [anomaly detection](../a/anomaly_detection.md).
 - **[Blockchain](../b/blockchain_in_trading.md)**: Utilizing [blockchain](../b/blockchain_in_trading.md) technology for transparent and immutable record-keeping, improving the reliability and [efficiency](../e/efficiency.md) of vetting processes.
 - **Real-Time Verification**: Developing real-time verification systems to enhance the speed and accuracy of KYC, AML, and other compliance processes.
 

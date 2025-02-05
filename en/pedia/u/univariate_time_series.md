@@ -122,7 +122,7 @@ Accurate [volatility forecasting](../v/volatility_forecasting.md) is crucial for
 
 ### Sentiment Analysis
 
-Integrating univariate [time series](../t/time_series.md) with other data sources, such as [social media sentiment](../s/social_media_sentiment.md), can enhance predictions. Machine learning models can combine these diverse data sources to derive more accurate and holistic insights.
+Integrating univariate [time series](../t/time_series.md) with other data sources, such as [social media sentiment](../s/social_media_sentiment.md), can enhance predictions. [Machine learning](../m/machine_learning.md) models can combine these diverse data sources to derive more accurate and holistic insights.
 
 ## Challenges and Limitations
 
@@ -144,7 +144,7 @@ Sophisticated models such as [deep learning](../d/deep_learning.md) require sign
 
 ## Conclusion
 
-Univariate [time series](../t/time_series.md) is a foundational element in [algorithmic trading](../a/algorithmic_trading.md). Despite its limitations, it offers valuable insights and predictive power. Combining traditional statistical models with modern machine learning and [deep learning](../d/deep_learning.md) techniques can [yield](../y/yield.md) [robust](../r/robust.md) and scalable [trading strategies](../t/trading_strategies.md). As data quality and computational capabilities continue to improve, the potential for univariate [time series analysis](../t/time_series_analysis.md) in algo-trading [will](../w/will.md) only grow.
+Univariate [time series](../t/time_series.md) is a foundational element in [algorithmic trading](../a/algorithmic_trading.md). Despite its limitations, it offers valuable insights and predictive power. Combining traditional statistical models with modern [machine learning](../m/machine_learning.md) and [deep learning](../d/deep_learning.md) techniques can [yield](../y/yield.md) [robust](../r/robust.md) and scalable [trading strategies](../t/trading_strategies.md). As data quality and computational capabilities continue to improve, the potential for univariate [time series analysis](../t/time_series_analysis.md) in algo-trading [will](../w/will.md) only grow.
 
 For more detailed and practical implementations of these concepts, traders and data scientists can refer to the following companies and their respective pages:
 

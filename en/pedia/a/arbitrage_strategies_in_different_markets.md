@@ -105,7 +105,7 @@ Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm
 **Website:** [Jane Street](https://www.janestreet.com/)
 
 ### **Two Sigma**
-Two Sigma is a leading financial technology [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) and technology to [arbitrage](../a/arbitrage.md) and other [trading strategies](../t/trading_strategies.md). They employ advanced machine learning and modeling techniques to uncover trading opportunities.
+Two Sigma is a leading financial technology [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) and technology to [arbitrage](../a/arbitrage.md) and other [trading strategies](../t/trading_strategies.md). They employ advanced [machine learning](../m/machine_learning.md) and modeling techniques to uncover trading opportunities.
 
 **Website:** [Two Sigma](https://www.twosigma.com/)
 

@@ -1,6 +1,6 @@
 # Quantitative Volatility Strategies
 
-Quantitative [volatility](../v/volatility.md) strategies are a subset of [quantitative trading](../q/quantitative_trading.md) that focus specifically on [volatility](../v/volatility.md) as the primary variable. These strategies aim to take advantage of fluctuations in [market](../m/market.md) prices, often through [derivatives](../d/derivatives.md) such as [options](../o/options.md) and [futures](../f/futures.md). [Volatility](../v/volatility.md) strategies can be implemented using a variety of quantitative techniques and models, ranging from statistical [arbitrage](../a/arbitrage.md) to machine learning. This document provides a comprehensive overview of these strategies, their theoretical foundations, methods, and practical implementations.
+Quantitative [volatility](../v/volatility.md) strategies are a subset of [quantitative trading](../q/quantitative_trading.md) that focus specifically on [volatility](../v/volatility.md) as the primary variable. These strategies aim to take advantage of fluctuations in [market](../m/market.md) prices, often through [derivatives](../d/derivatives.md) such as [options](../o/options.md) and [futures](../f/futures.md). [Volatility](../v/volatility.md) strategies can be implemented using a variety of quantitative techniques and models, ranging from statistical [arbitrage](../a/arbitrage.md) to [machine learning](../m/machine_learning.md). This document provides a comprehensive overview of these strategies, their theoretical foundations, methods, and practical implementations.
 
 ## Theoretical Foundations
 
@@ -58,7 +58,7 @@ Monte Carlo simulations are used to model the probability of different outcomes 
 
 ### Machine Learning
 
-Machine learning can be used to predict [volatility](../v/volatility.md) by analyzing patterns that might not be apparent through traditional statistical methods. Techniques like [neural networks](../n/neural_networks_in_trading.md) and reinforcement learning are gaining popularity.
+[Machine learning](../m/machine_learning.md) can be used to predict [volatility](../v/volatility.md) by analyzing patterns that might not be apparent through traditional statistical methods. Techniques like [neural networks](../n/neural_networks_in_trading.md) and [reinforcement learning](../r/reinforcement_learning.md) are gaining popularity.
 
 ## Key Metrics
 

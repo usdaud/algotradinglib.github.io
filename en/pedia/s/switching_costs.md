@@ -108,7 +108,7 @@ Regulations such as GDPR (General Data Protection Regulation) emphasize the impo
 [Blockchain](../b/blockchain_in_trading.md) technology promises to reduce transactional and procedural switching costs by [offering](../o/offering.md) decentralized and transparent ledger systems that can track and verify data seamlessly across different platforms.
 
 ### 3. AI and Machine Learning
-As AI and machine learning become more prevalent, personalized consumer experiences [will](../w/will.md) deepen engagement, potentially increasing psychological and relational switching costs. However, AI could also [offer](../o/offer.md) personalized recommendations and automated support that reduce the effort required to switch.
+As AI and [machine learning](../m/machine_learning.md) become more prevalent, personalized consumer experiences [will](../w/will.md) deepen engagement, potentially increasing psychological and relational switching costs. However, AI could also [offer](../o/offer.md) personalized recommendations and automated support that reduce the effort required to switch.
 
 ### 4. Subscription Economy
 The proliferation of subscription-based models across various industries increases financial switching costs. Subscribers often face penalties or loss of cumulative benefits when terminating subscriptions prematurely.

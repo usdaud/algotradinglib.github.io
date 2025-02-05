@@ -114,7 +114,7 @@ The COVID-19 pandemic caused unprecedented [market](../m/market.md) [volatility]
 
 ### Machine Learning
 
-Machine learning, especially [deep learning](../d/deep_learning.md), has started to influence [volatility](../v/volatility.md) modeling. Techniques like LSTM (Long Short-Term Memory) networks can capture intricate dependencies between [multiple](../m/multiple.md) [time series](../t/time_series.md).
+[Machine learning](../m/machine_learning.md), especially [deep learning](../d/deep_learning.md), has started to influence [volatility](../v/volatility.md) modeling. Techniques like LSTM (Long Short-Term Memory) networks can capture intricate dependencies between [multiple](../m/multiple.md) [time series](../t/time_series.md).
 
 ### Real-time Data Analysis
 

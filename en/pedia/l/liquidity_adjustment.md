@@ -86,7 +86,7 @@ The field of [Liquidity](../l/liquidity.md) Adjustment in [algorithmic trading](
 
 ### Artificial Intelligence and Machine Learning
 
-AI and machine learning are poised to revolutionize [Liquidity](../l/liquidity.md) Adjustment. By analyzing massive datasets and learning from [market](../m/market.md) behavior, AI-driven algorithms can make more informed and adaptive trading decisions. Companies like H2O.ai (https://www.h2o.ai/) and DataRobot (https://www.datarobot.com/) are at the forefront of integrating AI into [trading strategies](../t/trading_strategies.md).
+AI and [machine learning](../m/machine_learning.md) are poised to revolutionize [Liquidity](../l/liquidity.md) Adjustment. By analyzing massive datasets and learning from [market](../m/market.md) behavior, AI-driven algorithms can make more informed and adaptive trading decisions. Companies like H2O.ai (https://www.h2o.ai/) and DataRobot (https://www.datarobot.com/) are at the forefront of integrating AI into [trading strategies](../t/trading_strategies.md).
 
 ### Blockchain and Distributed Ledger Technology (DLT)
 

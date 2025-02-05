@@ -48,7 +48,7 @@ Several companies and individuals have been pioneers in adopting and promoting [
 Renaissance Technologies, founded by Jim Simons, is a renowned [hedge fund](../h/hedge_fund.md) that has been at the forefront of [algorithmic trading](../a/accountability.md). The [firm](../f/firm.md)'s early adoption and development of advanced [trading algorithms](../t/trading_algorithms.md) have made it one of the most successful [hedge](../h/hedge.md) funds in history.
 
 ### Two Sigma
-[Two Sigma](https://www.twosigma.com/) is another prominent [hedge fund](../h/hedge_fund.md) that has leveraged machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and other advanced technologies in its [trading strategies](../t/trading_strategies.md). Their early adoption of these technologies has helped them achieve significant success in the [financial markets](../f/financial_market.md).
+[Two Sigma](https://www.twosigma.com/) is another prominent [hedge fund](../h/hedge_fund.md) that has leveraged [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and other advanced technologies in its [trading strategies](../t/trading_strategies.md). Their early adoption of these technologies has helped them achieve significant success in the [financial markets](../f/financial_market.md).
 
 ## Challenges Faced by Early Adopters
 

@@ -31,7 +31,7 @@ Flag patterns can be either bullish or bearish and are identified by a small, re
 ### Applications in Algo-Trading
 
 #### 1. **Pattern Recognition Algorithms**
-One of the primary applications of intraday [price patterns](../p/price_patterns.md) in algo-trading is to create algorithms that recognize specific patterns and make trading decisions accordingly. [Pattern recognition](../p/pattern_recognition.md) algorithms can be designed using machine learning techniques such as [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md).
+One of the primary applications of intraday [price patterns](../p/price_patterns.md) in algo-trading is to create algorithms that recognize specific patterns and make trading decisions accordingly. [Pattern recognition](../p/pattern_recognition.md) algorithms can be designed using [machine learning](../m/machine_learning.md) techniques such as [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md).
 
 #### 2. **Backtesting Strategies**
 [Backtesting](../b/backtesting.md) is the process of applying a [trading strategy](../t/trading_strategy.md) to historical [market](../m/market.md) data to verify its effectiveness. This is especially important for intraday price pattern strategies because it allows traders to see how their strategy would have performed under various [market](../m/market.md) conditions. For example, traders using the ORB strategy can backtest their approach by applying it to historical data to determine its validity.

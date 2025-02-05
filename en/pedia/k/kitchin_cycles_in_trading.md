@@ -33,7 +33,7 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), recognizin
 
 ### Implementing Kitchin Cycles in Algotrading
 1. **Data Analysis**: Historical data on stock prices, GDP, and [interest](../i/interest.md) rates can be analyzed to identify recurring patterns consistent with Kitchin Cycles.
-2. **Model Development**: Statistical models can be developed to quantify these cycles. Machine learning techniques, such as time-series analysis, can be employed to predict future phases.
+2. **Model Development**: Statistical models can be developed to quantify these cycles. [Machine learning](../m/machine_learning.md) techniques, such as time-series analysis, can be employed to predict future phases.
 3. **Signal Generation**: Algorithms can generate buy or sell signals based on the current phase of the Kitchin Cycle. For example, during an [expansion](../e/expansion.md) phase, the algorithm might prioritize long positions, while during contraction phases, it might favor short positions.
 4. **[Backtesting](../b/backtesting.md)**: [Trading strategies](../t/trading_strategies.md) based on Kitchin Cycles should be backtested against historical data to evaluate their effectiveness and robustness.
 

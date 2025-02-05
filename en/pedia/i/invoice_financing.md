@@ -44,7 +44,7 @@
 
 Technological advancements have revolutionized [invoice](../i/invoice.md) [financing](../f/financing.md), [offering](../o/offering.md) platforms and tools that provide better [risk](../r/risk.md) assessment, faster processing, and enhanced user experience:
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning**: These technologies assess [credit](../c/credit.md) risks and predict [payment](../p/payment.md) behaviors more accurately, allowing financiers to make smarter lending decisions.
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md)**: These technologies assess [credit](../c/credit.md) risks and predict [payment](../p/payment.md) behaviors more accurately, allowing financiers to make smarter lending decisions.
 2. **[Blockchain](../b/blockchain_in_trading.md)**: Enhances [security](../s/security.md), [transparency](../t/transparency.md), and [trust](../t/trust.md) in transactions, potentially reducing [fraud](../f/fraud.md) and improving verification in the [invoice](../i/invoice.md) [financing](../f/financing.md) ecosystem.
 3. **APIs (Application Programming Interfaces)**: Enable seamless integration with [accounting](../a/accounting.md) and ERP systems, streamlining the submission and management of invoices.
 

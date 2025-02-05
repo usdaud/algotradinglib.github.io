@@ -47,17 +47,17 @@ Various advanced techniques and technologies help in recognizing trading pattern
 
 #### Machine Learning Algorithms
 
-Machine learning offers powerful tools for detecting patterns in data. Some extensively used algorithms include:
+[Machine learning](../m/machine_learning.md) offers powerful tools for detecting patterns in data. Some extensively used algorithms include:
 
-1. **Supervised Learning**:
-   - In supervised learning, models are trained on labeled historical data.
+1. **[Supervised Learning](../s/supervised_learning.md)**:
+   - In [supervised learning](../s/supervised_learning.md), models are trained on labeled historical data.
    - Techniques include [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), and [neural networks](../n/neural_networks_in_trading.md).
 
-2. **Unsupervised Learning**:
+2. **[Unsupervised Learning](../u/unsupervised_learning.md)**:
    - These algorithms try to identify patterns without labeled data.
    - Common techniques include clustering ([k-means clustering](../k/k-means_clustering_in_trading.md), hierarchical clustering) and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) ([Principal Component Analysis](../p/principal_component_analysis_(pca).md)).
 
-3. **Reinforcement Learning**:
+3. **[Reinforcement Learning](../r/reinforcement_learning.md)**:
    - Here, the model learns optimal [trading strategies](../t/trading_strategies.md) through a trial and error mechanism.
    - Algorithms in this category include Q-learning and Deep Q-Networks (DQN).
 
@@ -129,7 +129,7 @@ Several companies and trading firms specialize in leveraging pattern recognition
 
 1. **Two Sigma**:
    - A leading trading [firm](../f/firm.md) using [data science](../d/data_science_in_trading.md) and technology to derive trading insights.
-   - Employs machine learning models extensively for pattern recognition.
+   - Employs [machine learning](../m/machine_learning.md) models extensively for pattern recognition.
    - [Two Sigma](https://www.twosigma.com/)
 
 2. **AQR [Capital](../c/capital.md) Management**:
@@ -140,4 +140,4 @@ Several companies and trading firms specialize in leveraging pattern recognition
    - Renowned for their Medallion [Fund](../f/fund.md), leveraging advanced statistical models to exploit [market](../m/market.md) inefficiencies.
    - [Renaissance Technologies](https://www.rentec.com/)
 
-In conclusion, pattern recognition forms the backbone of many [algorithmic trading](../a/algorithmic_trading.md) strategies. The integration of modern machine learning techniques with traditional statistical models has revolutionized the ability to decode [market](../m/market.md) patterns. Despite facing substantial challenges, ongoing advancements in technology and computational techniques continue to enhance the precision and accuracy of pattern recognition in trading.
+In conclusion, pattern recognition forms the backbone of many [algorithmic trading](../a/algorithmic_trading.md) strategies. The integration of modern [machine learning](../m/machine_learning.md) techniques with traditional statistical models has revolutionized the ability to decode [market](../m/market.md) patterns. Despite facing substantial challenges, ongoing advancements in technology and computational techniques continue to enhance the precision and accuracy of pattern recognition in trading.

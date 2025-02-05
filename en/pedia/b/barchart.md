@@ -123,7 +123,7 @@ Barchart is a leading provider of financial data, analytics, and technology solu
 
 - [Expansion](../e/expansion.md) of cryptocurrency data coverage
 - Enhanced ESG (Environmental, Social, Governance) data offerings
-- Improved machine learning-based analytics and predictions
+- Improved [machine learning](../m/machine_learning.md)-based analytics and predictions
 - Launch of new API endpoints for specialized data sets
 
 ## Educational Resources
@@ -139,4 +139,4 @@ Barchart is a leading provider of financial data, analytics, and technology solu
 - Integration with popular trading platforms and software
 - Collaborations with financial media outlets
 
-Barchart has established itself as a versatile and reliable financial data provider, catering to a wide spectrum of users from individual retail investors to large financial institutions. Its combination of comprehensive data coverage, user-friendly tools, and flexible enterprise solutions has made it a popular choice in the financial data and analytics space. The company's ongoing innovation in areas like commodities data, API services, and machine learning analytics continues to strengthen its position in the [market](../m/market.md).
+Barchart has established itself as a versatile and reliable financial data provider, catering to a wide spectrum of users from individual retail investors to large financial institutions. Its combination of comprehensive data coverage, user-friendly tools, and flexible enterprise solutions has made it a popular choice in the financial data and analytics space. The company's ongoing innovation in areas like commodities data, API services, and [machine learning](../m/machine_learning.md) analytics continues to strengthen its position in the [market](../m/market.md).

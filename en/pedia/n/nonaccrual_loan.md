@@ -69,7 +69,7 @@ Effectively managing nonaccrual loans involves several strategies:
 
 1. **[Loan](../l/loan.md) Reviews**:
    - Regularly conduct comprehensive [loan](../l/loan.md) reviews to identify potential issues early.
-   - Use automated systems and technologies like [data analytics](../d/data_analytics.md) and machine learning to predict potential defaults.
+   - Use automated systems and technologies like [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) to predict potential defaults.
 
 2. **Borrower Communication**:
    - Maintain [open](../o/open.md) lines of communication with borrowers to understand their financial conditions and address issues preemptively.
@@ -96,7 +96,7 @@ Effectively managing nonaccrual loans involves several strategies:
 ### Utilization of Technology
 
 1. **Automation Tools**:
-   - Implement automated [credit](../c/credit.md) monitoring tools using [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) to forecast delinquencies and assess borrower [risk](../r/risk.md) continuously.
+   - Implement automated [credit](../c/credit.md) monitoring tools using [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) to forecast delinquencies and assess borrower [risk](../r/risk.md) continuously.
 
 2. **[Data Analytics](../d/data_analytics.md)**:
    - [Leverage](../l/leverage.md) [big data analytics](../b/big_data_analytics_in_trading.md) to track borrower behavior, [industry](../i/industry.md) trends, and macroeconomic factors impacting [loan](../l/loan.md) performance.

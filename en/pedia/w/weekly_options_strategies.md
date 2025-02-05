@@ -68,7 +68,7 @@ Weekly [options](../o/options.md) are short-term [options](../o/options.md) cont
 Leveraging [algorithmic trading](../a/algorithmic_trading.md) to manage weekly [options](../o/options.md) strategies involves optimizing entry and exit points for better profitability. Here's how to get the most out of algotrading.
 
 1. **Data Analysis**: Use historical data to backtest strategies, focusing on metrics like implied [volatility](../v/volatility.md), strike prices, and [market](../m/market.md) conditions.
-2. **Machine Learning Models**: Implement machine learning (ML) to predict stock price movements and optimize option pricing.
+2. **[Machine Learning](../m/machine_learning.md) Models**: Implement [machine learning](../m/machine_learning.md) (ML) to predict stock price movements and optimize option pricing.
 3. **Real-Time Adjustments**: Algorithms can dynamically adjust positions based on [real-time market data](../r/real-time_market_data.md), improving response times to [market](../m/market.md) shifts.
 
 ### Algorithmic Frameworks

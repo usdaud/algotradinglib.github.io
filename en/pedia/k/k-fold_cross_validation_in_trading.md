@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Machine learning and data-driven strategies play an increasingly important role in modern trading platforms. One critical component of building [robust](../r/robust.md) models is ensuring that they generalize well to unseen data. Cross-validation is a widely-used technique for validating the performance of a model, and among the many cross-validation methods, K-Fold Cross Validation stands out due to its balanced approach between bias and variance. This document delves into the specifics of K-Fold cross validation within the context of trading, its importance, implementation nuances, and [best practices](../b/best_practices.md).
+[Machine learning](../m/machine_learning.md) and data-driven strategies play an increasingly important role in modern trading platforms. One critical component of building [robust](../r/robust.md) models is ensuring that they generalize well to unseen data. Cross-validation is a widely-used technique for validating the performance of a model, and among the many cross-validation methods, K-Fold Cross Validation stands out due to its balanced approach between bias and variance. This document delves into the specifics of K-Fold cross validation within the context of trading, its importance, implementation nuances, and [best practices](../b/best_practices.md).
 
 ## What is K-Fold Cross Validation?
 
-K-Fold Cross Validation is a method used to evaluate the performance of a machine learning model by dividing the original dataset into 'K' equally-sized subsets, or "folds". The model is trained and validated K times, each time using one fold as the validation set and the remaining K-1 folds as the training set. The final performance metric is then averaged over the K trials to provide a comprehensive evaluation.
+K-Fold Cross Validation is a method used to evaluate the performance of a [machine learning](../m/machine_learning.md) model by dividing the original dataset into 'K' equally-sized subsets, or "folds". The model is trained and validated K times, each time using one fold as the validation set and the remaining K-1 folds as the training set. The final performance metric is then averaged over the K trials to provide a comprehensive evaluation.
 
 ### Steps in K-Fold Cross Validation:
 

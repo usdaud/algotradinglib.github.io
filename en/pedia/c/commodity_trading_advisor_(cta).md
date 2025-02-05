@@ -42,7 +42,7 @@ CTAs often employ a [range](../r/range.md) of strategies to manage portfolios an
 Technology has significantly influenced the CTA landscape, enhancing their capability to make better, faster decisions. Key technological advancements include:
 
 1. **High-Frequency Trading (HFT)**: Employs algorithms to execute trades at extremely high speeds.
-2. **Machine Learning**: Utilizes data to train models that predict [market](../m/market.md) movements.
+2. **[Machine Learning](../m/machine_learning.md)**: Utilizes data to train models that predict [market](../m/market.md) movements.
 3. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Analyzes vast datasets for [market](../m/market.md) insights.
 4. **[Blockchain](../b/blockchain_in_trading.md)**: Promises [transparency](../t/transparency.md) and [security](../s/security.md) in trading activities.
 
@@ -67,7 +67,7 @@ Operating as a CTA is fraught with challenges, such as:
 
 The future of CTAs is set to be shaped by various factors such as:
 
-1. **Technological Integration**: Increasing use of AI and machine learning.
+1. **Technological Integration**: Increasing use of AI and [machine learning](../m/machine_learning.md).
 2. **Regulatory Changes**: Adapting to evolving regulatory frameworks.
 3. **Economic Shifts**: Adjusting strategies in response to global economic changes.
 4. **Environmental, Social, and Governance (ESG)**: Incorporating ESG criteria into [trading strategies](../t/trading_strategies.md).

@@ -91,22 +91,22 @@ Algorithms use these models to:
 
 ## 5. Machine Learning-Based Valuation
 
-Machine learning approaches deploy advanced algorithms to predict the [value](../v/value.md) of assets by learning from vast amounts of historical data. These models can capture non-linear relationships and complex patterns that traditional models might miss.
+[Machine learning](../m/machine_learning.md) approaches deploy advanced algorithms to predict the [value](../v/value.md) of assets by learning from vast amounts of historical data. These models can capture non-linear relationships and complex patterns that traditional models might miss.
 
 ### Techniques
 1. **Regression Models**: [Linear regression](../l/linear_regression.md), [support vector regression](../s/support_vector_regression.md), [random forests](../r/random_forests_in_trading.md).
 2. **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models, including Long Short Term Memory (LSTM) networks.
-3. **Reinforcement Learning**: Methods that learn optimal decision-making strategies.
+3. **[Reinforcement Learning](../r/reinforcement_learning.md)**: Methods that learn optimal decision-making strategies.
 
 ### Integration in Algorithmic Trading
-Machine learning models can:
+[Machine learning](../m/machine_learning.md) models can:
 - Predict future price movements.
 - Optimize portfolios based on predicted returns and risks.
 - Continuously improve through retraining on new data.
 
 ### Tools and Software
-- **Libraries**: TensorFlow, PyTorch, scikit-learn.
-- **Platforms**: Azure Machine Learning, Amazon SageMaker for scalable model deployment.
+- **Libraries**: [TensorFlow](../t/tensorflow.md), [PyTorch](../p/pytorch.md), scikit-learn.
+- **Platforms**: Azure [Machine Learning](../m/machine_learning.md), Amazon SageMaker for scalable model deployment.
 
 ## Conclusion
 

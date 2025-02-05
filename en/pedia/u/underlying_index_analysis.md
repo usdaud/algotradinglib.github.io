@@ -76,7 +76,7 @@ This tool provides access to extensive financial data and analytics features, in
 
 - **Pandas:** For data manipulation and analysis.
 - **Matplotlib/Seaborn:** For [data visualization](../d/data_visualization.md).
-- **Statsmodels/Scikit-learn:** For statistical modeling and machine learning.
+- **Statsmodels/Scikit-learn:** For statistical modeling and [machine learning](../m/machine_learning.md).
 
 ## Applications in Algorithmic Trading
 

@@ -15,7 +15,7 @@ In the realm of [candlestick](../c/candlestick.md) charts, a Spinning Top is cha
 [Algorithmic trading](../a/algorithmic_trading.md) (algo trading) relies heavily on patterns and [technical indicators](../t/technical_indicators.md) for executing trades. The Spinning Top fits well into an algo trading framework due to its clear-cut appearance and the straightforward logic behind its occurrence. This pattern can be integrated into [automated trading systems](../a/automated_trading_systems.md) to identify potential [market](../m/market.md) reversals and make decisions accordingly.
 
 ### Integration in Algo Trading Systems
-1. **[Pattern Recognition](../p/pattern_recognition.md) Algorithms**: Advanced algorithms can be developed to scan for Spinning Top formations across various assets and timeframes. Utilizing machine learning and image recognition models enhances the accuracy of detection.
+1. **[Pattern Recognition](../p/pattern_recognition.md) Algorithms**: Advanced algorithms can be developed to scan for Spinning Top formations across various assets and timeframes. Utilizing [machine learning](../m/machine_learning.md) and image recognition models enhances the accuracy of detection.
 2. **[Risk Management](../r/risk_management.md)**: The Spinning Top can serve as an early warning signal for potential reversals, prompting automated systems to adjust stop-loss levels or exit from current positions.
 3. **[Backtesting](../b/backtesting.md)**: Historical analysis of the effectiveness of the Spinning Top in predicting [market](../m/market.md) reversals is crucial. [Backtesting](../b/backtesting.md) helps refine the algo [trading strategies](../t/trading_strategies.md) by analyzing the pattern's behavior over time.
 

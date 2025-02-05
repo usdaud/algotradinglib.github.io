@@ -45,7 +45,7 @@ Quantitative [risk models](../r/risk_models_in_trading.md) are essential for ide
 1. **Statistical Methods**:
    - Involves the use of [probability distributions](../p/probability_distributions_in_trading.md), [regression analysis](../r/regression_analysis.md), and other statistical tools to estimate [risk](../r/risk.md).
 
-2. **Machine Learning and AI**:
+2. **[Machine Learning](../m/machine_learning.md) and AI**:
    - Advanced techniques like [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [clustering algorithms](../c/clustering_algorithms.md) are increasingly utilized to identify and manage [risk](../r/risk.md).
 
 3. **[Simulation Models](../s/simulation_models.md)**:
@@ -103,8 +103,8 @@ Quantitative [risk models](../r/risk_models_in_trading.md) are essential for ide
 1. **Integration of [Big Data](../b/big_data_in_trading.md) and Analytics**:
    - Leveraging vast datasets and advanced analytics to improve [risk](../r/risk.md) modeling accuracy.
 
-2. **Enhanced Machine Learning Techniques**:
-   - The ongoing advancements in AI and machine learning are likely to bring more sophisticated and adaptive [risk models](../r/risk_models_in_trading.md).
+2. **Enhanced [Machine Learning](../m/machine_learning.md) Techniques**:
+   - The ongoing advancements in AI and [machine learning](../m/machine_learning.md) are likely to bring more sophisticated and adaptive [risk models](../r/risk_models_in_trading.md).
 
 3. **Increased Focus on Cyber [Risk](../r/risk.md)**:
    - With digitalization, models assessing cybersecurity risks are becoming increasingly important.

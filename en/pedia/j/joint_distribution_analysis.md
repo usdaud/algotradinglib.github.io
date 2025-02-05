@@ -96,7 +96,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies rely on identifying and ex
 
 ### Machine Learning Models
 
-Machine learning models in [algorithmic trading](../a/algorithmic_trading.md) often use [joint](../j/joint.md) [distribution](../d/distribution.md) analysis as a foundation. For example, [Gaussian Mixture Models](../g/gaussian_mixture_models.md) (GMMs) can be employed to cluster financial data based on [joint](../j/joint.md) distributions, aiding in [pattern recognition](../p/pattern_recognition.md) and [predictive modeling](../p/predictive_modeling.md).
+[Machine learning](../m/machine_learning.md) models in [algorithmic trading](../a/algorithmic_trading.md) often use [joint](../j/joint.md) [distribution](../d/distribution.md) analysis as a foundation. For example, [Gaussian Mixture Models](../g/gaussian_mixture_models.md) (GMMs) can be employed to cluster financial data based on [joint](../j/joint.md) distributions, aiding in [pattern recognition](../p/pattern_recognition.md) and [predictive modeling](../p/predictive_modeling.md).
 
 ### High-Frequency Trading (HFT)
 

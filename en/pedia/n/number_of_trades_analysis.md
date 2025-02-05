@@ -64,9 +64,9 @@ where:
 
 ### Machine Learning and AI
 
-Machine learning and AI are increasingly being used to analyze the number of trades and optimize [trading strategies](../t/trading_strategies.md). Algorithms can learn from past trades and adapt to changing [market](../m/market.md) conditions.
+[Machine learning](../m/machine_learning.md) and AI are increasingly being used to analyze the number of trades and optimize [trading strategies](../t/trading_strategies.md). Algorithms can learn from past trades and adapt to changing [market](../m/market.md) conditions.
 
-- **Kensho Technologies**: [Kensho](https://www.sandpglobal.com/en/who-we-are/the-future-of-fintech) uses machine learning to enhance [trading strategies](../t/trading_strategies.md).
+- **Kensho Technologies**: [Kensho](https://www.sandpglobal.com/en/who-we-are/the-future-of-fintech) uses [machine learning](../m/machine_learning.md) to enhance [trading strategies](../t/trading_strategies.md).
 
 ### Statistical Analysis
 
@@ -99,4 +99,4 @@ By analyzing the [drawdown](../d/drawdown.md) periods and [Sharpe ratio](../s/sh
 
 ## Conclusion
 
-Analyzing the number of trades executed by an algorithm is a multi-faceted process involving various metrics, tools, and methodologies. It helps traders understand the [efficiency](../e/efficiency.md), costs, risks, and potential for profitability of their [trading strategies](../t/trading_strategies.md). Firms leveraging advanced tools such as [simulation](../s/simulation_in_trading.md) platforms, machine learning, and statistical analysis can optimize their [trading algorithms](../t/trading_algorithms.md) to perform better in live markets. This [optimization](../o/optimization.md) not only contributes to higher profitability but also ensures sustainable and [robust](../r/robust.md) trading operations.
+Analyzing the number of trades executed by an algorithm is a multi-faceted process involving various metrics, tools, and methodologies. It helps traders understand the [efficiency](../e/efficiency.md), costs, risks, and potential for profitability of their [trading strategies](../t/trading_strategies.md). Firms leveraging advanced tools such as [simulation](../s/simulation_in_trading.md) platforms, [machine learning](../m/machine_learning.md), and statistical analysis can optimize their [trading algorithms](../t/trading_algorithms.md) to perform better in live markets. This [optimization](../o/optimization.md) not only contributes to higher profitability but also ensures sustainable and [robust](../r/robust.md) trading operations.

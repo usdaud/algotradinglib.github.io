@@ -42,7 +42,7 @@ Several [performance metrics](../p/performance_metrics.md) are used to evaluate 
 The evolution of technology has significantly impacted the management and [execution](../e/execution.md) of trading book strategies. Key technologies include:
 - **[Algorithmic Trading](../a/accountability.md)**: The use of computer algorithms to execute trades based on predefined criteria. This can increase trading [efficiency](../e/efficiency.md) and reduce human error.
 - **High-Frequency Trading (HFT)**: Involves executing a large number of orders at extremely high speeds. HFT firms [leverage](../l/leverage.md) sophisticated algorithms and powerful computing resources to [capitalize](../c/capitalize.md) on minimal price discrepancies.
-- **Machine Learning**: Advanced machine learning techniques help in [predictive analytics](../p/predictive_analytics.md), [risk](../r/risk.md) assessment, and decision-making processes.
+- **[Machine Learning](../m/machine_learning.md)**: Advanced [machine learning](../m/machine_learning.md) techniques help in [predictive analytics](../p/predictive_analytics.md), [risk](../r/risk.md) assessment, and decision-making processes.
 
 ## Case Studies
 

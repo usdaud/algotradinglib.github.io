@@ -38,7 +38,7 @@ Online [learning algorithms](../l/learning_algorithms_in_trading.md) are highly 
 
 **Case Study:**
 - **Company**: [Kensho](https://www.kensho.com)
-- **Application**: Kensho uses machine learning techniques, including online [learning algorithms](../l/learning_algorithms_in_trading.md), to analyze and predict [stock market](../s/stock_market.md) movements.
+- **Application**: Kensho uses [machine learning](../m/machine_learning.md) techniques, including online [learning algorithms](../l/learning_algorithms_in_trading.md), to analyze and predict [stock market](../s/stock_market.md) movements.
 
 #### Portfolio Management
 
@@ -76,11 +76,11 @@ Concept drift refers to the change in the statistical properties of the target v
 
 #### Integration with Reinforcement Learning
 
-Reinforcement learning (RL) represents a compelling future direction for online learning in trading. Combining online [learning algorithms](../l/learning_algorithms_in_trading.md) with RL can [offer](../o/offer.md) ways to develop trading agents that not only learn from the data but also improve their strategy based on direct feedback from trading actions.
+[Reinforcement learning](../r/reinforcement_learning.md) (RL) represents a compelling future direction for online learning in trading. Combining online [learning algorithms](../l/learning_algorithms_in_trading.md) with RL can [offer](../o/offer.md) ways to develop trading agents that not only learn from the data but also improve their strategy based on direct feedback from trading actions.
 
 **Key Player**:
 - **Company**: [Sentient Technologies](https://www.sentient.ai)
-- **Application**: Uses a blend of online learning and reinforcement learning to develop advanced [trading algorithms](../t/trading_algorithms.md).
+- **Application**: Uses a blend of online learning and [reinforcement learning](../r/reinforcement_learning.md) to develop advanced [trading algorithms](../t/trading_algorithms.md).
 
 #### AI Regulation and Ethics
 
@@ -91,4 +91,4 @@ As online [learning algorithms](../l/learning_algorithms_in_trading.md) become m
 
 ### Conclusion
 
-Online [learning algorithms](../l/learning_algorithms_in_trading.md) represent a powerful tool in the arsenal of algorithmic traders, enabling [real-time data analysis](../r/real-time_data_analysis.md) and model updates. Whether it's in predicting stock prices, managing portfolios, or executing high-frequency trades, these algorithms [offer](../o/offer.md) distinct advantages over traditional batch learning techniques. As the field evolves, integrating online learning with other advanced technologies like reinforcement learning promises to unlock even more sophisticated [trading strategies](../t/trading_strategies.md). However, challenges related to data quality and concept drift must be addressed to maximize the efficacy of these algorithms. The future of online learning in [algorithmic trading](../a/algorithmic_trading.md) looks promising, but it [will](../w/will.md) require careful navigation of ethical and regulatory landscapes.
+Online [learning algorithms](../l/learning_algorithms_in_trading.md) represent a powerful tool in the arsenal of algorithmic traders, enabling [real-time data analysis](../r/real-time_data_analysis.md) and model updates. Whether it's in predicting stock prices, managing portfolios, or executing high-frequency trades, these algorithms [offer](../o/offer.md) distinct advantages over traditional batch learning techniques. As the field evolves, integrating online learning with other advanced technologies like [reinforcement learning](../r/reinforcement_learning.md) promises to unlock even more sophisticated [trading strategies](../t/trading_strategies.md). However, challenges related to data quality and concept drift must be addressed to maximize the efficacy of these algorithms. The future of online learning in [algorithmic trading](../a/algorithmic_trading.md) looks promising, but it [will](../w/will.md) require careful navigation of ethical and regulatory landscapes.

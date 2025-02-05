@@ -11,7 +11,7 @@ Algorithmic trading, often referred to as algotrading, is the use of computer al
 Statistical [arbitrage](../a/arbitrage.md) strategies deploy [mathematical models](../m/mathematical_models_in_trading.md) to identify and exploit pricing inefficiencies between related financial instruments. This involves high-frequency trading (HFT), and [pairs trading](../p/pairs_trading.md), where algorithms look for correlated [asset](../a/asset.md) pairs and [trade](../t/trade.md) them based on historical price correlations.
 
 ### 3. **Sentiment Analysis**
-Algorithms can analyze sentiment from [social media](../s/social_media.md), news articles, and other text-based sources to gauge [market sentiment](../m/market_sentiment.md). This involves [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning to predict [market](../m/market.md) movements based on aggregated emotional and opinion metrics.
+Algorithms can analyze sentiment from [social media](../s/social_media.md), news articles, and other text-based sources to gauge [market sentiment](../m/market_sentiment.md). This involves [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) to predict [market](../m/market.md) movements based on aggregated emotional and opinion metrics.
 
 ### 4. **Trend Following**
 [Trend following](../t/trend_following.md) algorithms [capitalize](../c/capitalize.md) on the [momentum](../m/momentum.md) of an [asset](../a/asset.md)’s price movement. They use [technical indicators](../t/technical_indicator.md) like moving averages, [momentum](../m/momentum.md) indices, and [volume](../v/volume.md) data to identify and follow emerging trends, buying when trends are upward and selling when they turn downward.
@@ -82,7 +82,7 @@ Citadel Securities is among the largest algorithmic trading firms globally, empl
    - [Citadel Securities](https://www.citadelsecurities.com/)
 
 ### 2. **Two Sigma**
-Two Sigma utilizes machine learning and distributed computing for their [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), focusing on data-driven decision-making.
+Two Sigma utilizes [machine learning](../m/machine_learning.md) and distributed computing for their [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), focusing on data-driven decision-making.
    - [Two Sigma](https://www.twosigma.com/)
 
 ### 3. **Renaissance Technologies**

@@ -53,8 +53,8 @@ Effective [risk management](../r/risk_management.md) is critical for low-[risk](
 
 #### Technologies and Tools
 
-1. **AI and Machine Learning**
-   - Algorithms use AI and machine learning to enhance their predictive capabilities and adapt to changing [market](../m/market.md) conditions.
+1. **AI and [Machine Learning](../m/machine_learning.md)**
+   - Algorithms use AI and [machine learning](../m/machine_learning.md) to enhance their predictive capabilities and adapt to changing [market](../m/market.md) conditions.
    - Example: Firms like [Quantiacs](https://www.quantiacs.com/) provide platforms where traders can build, test, and deploy their AI-driven algorithms.
 
 2. **High-Frequency Trading (HFT) Systems**

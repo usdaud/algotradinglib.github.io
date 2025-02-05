@@ -47,7 +47,7 @@ The wholesale [trade](../t/trade.md) sector has seen significant technological a
 1. **eCommerce Platforms**: Digital platforms allow wholesalers to reach a wider audience and streamline sales processes. For instance, platforms like Alibaba (https://www.alibaba.com) have modernized wholesale purchasing.
 2. **ERP Systems**: Enterprise Resource Planning (ERP) software facilitates the integration of various functions like [inventory management](../i/inventory_management.md), [order](../o/order.md) processing, and [customer](../c/customer.md) relations.
 3. **[Blockchain](../b/blockchain_in_trading.md)**: This can enhance [transparency](../t/transparency.md) and traceability in the [supply chain](../s/supply_chain.md) by recording every [transaction](../t/transaction.md) in a nearly immutable ledger.
-4. **AI and Machine Learning**: These technologies can improve [demand forecasting](../d/demand_forecasting.md), optimize [logistics](../l/logistics.md), and personalize [marketing](../m/marketing.md) efforts.
+4. **AI and [Machine Learning](../m/machine_learning.md)**: These technologies can improve [demand forecasting](../d/demand_forecasting.md), optimize [logistics](../l/logistics.md), and personalize [marketing](../m/marketing.md) efforts.
 5. **IoT (Internet of Things)**: Sensors and smart devices can track real-time data on [inventory](../i/inventory.md) levels and transportation environments, enabling predictive maintenance and reducing downtime.
 
 ## Challenges in Wholesale Trade

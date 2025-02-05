@@ -46,7 +46,7 @@ Traders can use confirmation methods such as waiting for [multiple](../m/multipl
 
 **[Adaptive Algorithms](../a/adaptive_algorithms.md)**
 
-Developing [adaptive algorithms](../a/adaptive_algorithms.md) that adjust to changing [market](../m/market.md) conditions can enhance the accuracy of [trading signals](../t/trading_signals.md). Machine learning models that learn from new data and adapt their parameters can reduce the impact of false signals.
+Developing [adaptive algorithms](../a/adaptive_algorithms.md) that adjust to changing [market](../m/market.md) conditions can enhance the accuracy of [trading signals](../t/trading_signals.md). [Machine learning](../m/machine_learning.md) models that learn from new data and adapt their parameters can reduce the impact of false signals.
 
 ### Case Studies and Practical Examples
 

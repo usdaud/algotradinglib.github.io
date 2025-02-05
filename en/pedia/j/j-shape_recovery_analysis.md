@@ -24,7 +24,7 @@ The concept of a J-shaped recovery is not just theoretical. It has been observed
 - **Macroeconomic indicators**: GDP, [unemployment](../u/unemployment.md) rates, etc.
 
 ### Algorithmic Strategies
-1. **[Pattern Recognition](../p/pattern_recognition.md)**: Algorithms can be designed to recognize J-shaped recovery patterns through machine learning and statistical analysis.
+1. **[Pattern Recognition](../p/pattern_recognition.md)**: Algorithms can be designed to recognize J-shaped recovery patterns through [machine learning](../m/machine_learning.md) and statistical analysis.
 2. **[Momentum Investing](../m/momentum_investing.md)**: Taking advantage of the rapid rebound characteristic of a J-shaped recovery by [investing](../i/investing.md) in rising assets.
 3. **[Risk Management](../r/risk_management.md)**: Implementing stop-loss and take-[profit](../p/profit.md) orders more effectively by understanding the typical phases of a J-shaped recovery.
 

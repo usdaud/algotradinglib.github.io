@@ -92,7 +92,7 @@ Founded by James Simons, Renaissance Technologies is a legendary [quantitative t
 
 ### Two Sigma
 
-Two Sigma leverages machine learning and [big data](../b/big_data_in_trading.md) to identify patterns in [financial markets](../f/financial_market.md). Their approach includes extensive [trend analysis](../t/trend_analysis.md) to inform trading decisions.
+Two Sigma leverages [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to identify patterns in [financial markets](../f/financial_market.md). Their approach includes extensive [trend analysis](../t/trend_analysis.md) to inform trading decisions.
 [Two Sigma](https://www.twosigma.com/)
 
 ### Citadel Securities
@@ -121,4 +121,4 @@ In high-frequency trading, delays in data transmission and processing impact the
 
 ## Conclusion
 
-Price trends analysis remains a vital tool in the arsenal of both discretionary and algorithmic traders. By leveraging a mix of [technical indicators](../t/technical_indicators.md), machine learning models, and advanced algorithms, traders can enhance their ability to discern trends, making informed and timely trading decisions. Although challenges such as [market](../m/market.md) [noise](../n/noise.md) and [overfitting](../o/overfitting.md) exist, ongoing advancements in [algorithmic trading](../a/algorithmic_trading.md) and machine learning continue to refine the process, leading to more accurate and profitable outcomes in [financial markets](../f/financial_market.md).
+Price trends analysis remains a vital tool in the arsenal of both discretionary and algorithmic traders. By leveraging a mix of [technical indicators](../t/technical_indicators.md), [machine learning](../m/machine_learning.md) models, and advanced algorithms, traders can enhance their ability to discern trends, making informed and timely trading decisions. Although challenges such as [market](../m/market.md) [noise](../n/noise.md) and [overfitting](../o/overfitting.md) exist, ongoing advancements in [algorithmic trading](../a/algorithmic_trading.md) and [machine learning](../m/machine_learning.md) continue to refine the process, leading to more accurate and profitable outcomes in [financial markets](../f/financial_market.md).

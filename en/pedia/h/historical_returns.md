@@ -55,7 +55,7 @@ Historical returns play a pivotal role in [algorithmic trading](../a/accountabil
 
 ### 2. Machine Learning Models
 
-In the age of [Big Data](../b/big_data_in_trading.md), machine learning models are increasingly being used to predict future price movements. These models are trained on historical [return](../r/return.md) data to recognize patterns and make predictions.
+In the age of [Big Data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md) models are increasingly being used to predict future price movements. These models are trained on historical [return](../r/return.md) data to recognize patterns and make predictions.
 
 ### 3. Risk Management
 

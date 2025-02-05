@@ -64,7 +64,7 @@ Training neural networks, especially [deep learning](../d/deep_learning.md) mode
 ## Companies Utilizing Neural Networks in Trading
 
 ### Two Sigma
-Two Sigma is a financial technology company that leverages machine learning, including neural networks, to develop [trading strategies](../t/trading_strategies.md) and manage portfolios. Their approach combines vast amounts of data with advanced algorithms to [gain](../g/gain.md) a competitive edge in the [market](../m/market.md).
+Two Sigma is a financial technology company that leverages [machine learning](../m/machine_learning.md), including neural networks, to develop [trading strategies](../t/trading_strategies.md) and manage portfolios. Their approach combines vast amounts of data with advanced algorithms to [gain](../g/gain.md) a competitive edge in the [market](../m/market.md).
 - Website: [Two Sigma](https://www.twosigma.com)
 
 ### Renaissance Technologies
@@ -76,11 +76,11 @@ Citadel is a leading global financial institution that utilizes [artificial inte
 - Website: [Citadel](https://www.citadel.com)
 
 ### DE Shaw
-DE Shaw uses a multidisciplinary approach, incorporating neural networks and machine learning to develop [proprietary trading](../p/proprietary_trading.md) models. Their strategies are based on rigorous research and data analysis to optimize [trading performance](../t/trading_performance.md).
+DE Shaw uses a multidisciplinary approach, incorporating neural networks and [machine learning](../m/machine_learning.md) to develop [proprietary trading](../p/proprietary_trading.md) models. Their strategies are based on rigorous research and data analysis to optimize [trading performance](../t/trading_performance.md).
 - Website: [DE Shaw](https://www.deshaw.com)
 
 ### AQR Capital Management
-AQR [Capital](../c/capital.md) Management integrates neural networks into their [quantitative investment strategies](../q/quantitative_investment_strategies.md). By leveraging advanced machine learning techniques, AQR aims to enhance portfolio returns and manage [risk](../r/risk.md) effectively.
+AQR [Capital](../c/capital.md) Management integrates neural networks into their [quantitative investment strategies](../q/quantitative_investment_strategies.md). By leveraging advanced [machine learning](../m/machine_learning.md) techniques, AQR aims to enhance portfolio returns and manage [risk](../r/risk.md) effectively.
 - Website: [AQR Capital Management](https://www.aqr.com)
 
 ## Implementing Neural Networks in Trading
@@ -103,13 +103,13 @@ Once validated, the neural network model can be integrated into a trading system
 ## Future of Neural Networks in Trading
 
 ### Hybrid Models
-Combining neural networks with traditional [quantitative models](../q/quantitative_models.md) and other machine learning techniques can create [robust](../r/robust.md) hybrid systems that [leverage](../l/leverage.md) the strengths of different approaches. Such models can improve prediction accuracy and diversify [trading strategies](../t/trading_strategies.md).
+Combining neural networks with traditional [quantitative models](../q/quantitative_models.md) and other [machine learning](../m/machine_learning.md) techniques can create [robust](../r/robust.md) hybrid systems that [leverage](../l/leverage.md) the strengths of different approaches. Such models can improve prediction accuracy and diversify [trading strategies](../t/trading_strategies.md).
 
 ### Real-Time Learning
 Advancements in online learning and [adaptive algorithms](../a/adaptive_algorithms.md) enable neural networks to learn and adjust in real-time, enhancing their ability to respond to immediate [market](../m/market.md) changes and opportunities.
 
 ### Enhanced Interpretability
-Efforts to develop more interpretable neural [network models](../n/network_models_in_trading.md) [will](../w/will.md) make it easier for traders and regulators to understand and [trust](../t/trust.md) AI-driven trading decisions. Techniques like attention mechanisms and explainable AI are steps in this direction.
+Efforts to develop more interpretable neural [network models](../n/network_models_in_trading.md) [will](../w/will.md) make it easier for traders and regulators to understand and [trust](../t/trust.md) AI-driven trading decisions. Techniques like attention mechanisms and [explainable AI](../e/explainable_ai.md) are steps in this direction.
 
 ### Ethical AI
 Ensuring that neural [network models](../n/network_models_in_trading.md) are designed and used ethically is paramount. This includes addressing biases in data, ensuring fairness in decision-making, and protecting against misuse in high-frequency trading that can disrupt markets.

@@ -108,7 +108,7 @@ AlgoSeek is a leading provider of high-quality financial data and analytics solu
 ## Recent Developments
 
 - [Expansion](../e/expansion.md) of [alternative data](../a/alternative_data.md) offerings
-- Enhanced machine learning-driven analytics
+- Enhanced [machine learning](../m/machine_learning.md)-driven analytics
 - Improved real-time data delivery capabilities
 - Integration with cloud-based [backtesting](../b/backtesting.md) platforms
 

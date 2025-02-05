@@ -1,6 +1,6 @@
 # Upstart
 
-Upstart is a leading [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) lending platform that is transforming the financial services [industry](../i/industry.md). By using AI and machine learning, Upstart aims to improve access to affordable [credit](../c/credit.md) while reducing the [risk](../r/risk.md) and costs associated with lending. Founded in 2012 by Dave Girouard, Anna Counselman, and Paul Gu, the company has rapidly grown to become a significant player in the fintech space.
+Upstart is a leading [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) lending platform that is transforming the financial services [industry](../i/industry.md). By using AI and [machine learning](../m/machine_learning.md), Upstart aims to improve access to affordable [credit](../c/credit.md) while reducing the [risk](../r/risk.md) and costs associated with lending. Founded in 2012 by Dave Girouard, Anna Counselman, and Paul Gu, the company has rapidly grown to become a significant player in the fintech space.
 
 ## Company Overview
 
@@ -20,7 +20,7 @@ Anna Counselman is the co-founder and SVP of People and Operations at Upstart. B
 
 ### Paul Gu
 
-Paul Gu is a co-founder and the head of product at Upstart. Gu led the development of Upstart's initial [credit](../c/credit.md) model leveraging machine learning. He has a background in [finance](../f/finance.md) and technology, having worked at various quantitative investment firms before co-founding Upstart.
+Paul Gu is a co-founder and the head of product at Upstart. Gu led the development of Upstart's initial [credit](../c/credit.md) model leveraging [machine learning](../m/machine_learning.md). He has a background in [finance](../f/finance.md) and technology, having worked at various quantitative investment firms before co-founding Upstart.
 
 ## Key Features
 
@@ -93,6 +93,6 @@ The growth of AI-driven lending [will](../w/will.md) inevitably attract scrutiny
 
 ## Conclusion
 
-Upstart represents a significant advancement in the application of AI and machine learning in financial services. By providing a more inclusive and efficient lending platform, it addresses many of the limitations inherent in traditional [credit](../c/credit.md) scoring systems. As Upstart continues to innovate and expand, it is well-positioned to redefine the lending landscape and further establish itself as a key player in the fintech [industry](../i/industry.md).
+Upstart represents a significant advancement in the application of AI and [machine learning](../m/machine_learning.md) in financial services. By providing a more inclusive and efficient lending platform, it addresses many of the limitations inherent in traditional [credit](../c/credit.md) scoring systems. As Upstart continues to innovate and expand, it is well-positioned to redefine the lending landscape and further establish itself as a key player in the fintech [industry](../i/industry.md).
 
 For more information, visit the official [Upstart](https://www.upstart.com) website.

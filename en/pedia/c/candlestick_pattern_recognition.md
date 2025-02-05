@@ -47,7 +47,7 @@ A [candlestick](../c/candlestick.md) chart is composed of numerous individual ca
 
 #### Automation of Pattern Recognition
 
-With the advancement of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, the automation of [candlestick](../c/candlestick.md) [pattern recognition](../p/pattern_recognition.md) has become feasible. These technologies utilize historical data to train models that can identify patterns in real-time with high accuracy. Automated recognition reduces the lag and potential errors due to manual identification, increasing the [efficiency](../e/efficiency.md) and effectiveness of [trading strategies](../t/trading_strategies.md).
+With the advancement of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), the automation of [candlestick](../c/candlestick.md) [pattern recognition](../p/pattern_recognition.md) has become feasible. These technologies utilize historical data to train models that can identify patterns in real-time with high accuracy. Automated recognition reduces the lag and potential errors due to manual identification, increasing the [efficiency](../e/efficiency.md) and effectiveness of [trading strategies](../t/trading_strategies.md).
 
 #### Software and Tools
 
@@ -74,7 +74,7 @@ One of the significant risks in relying on [candlestick patterns](../c/candlesti
 
 #### Overfitting
 
-While training machine learning models for [pattern recognition](../p/pattern_recognition.md), there is a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) to historical data, where the model performs exceptionally well on historical data but fails in real [market](../m/market.md) conditions. It's crucial to ensure that models generalize well and [robust](../r/robust.md) strategies are employed to mitigate risks.
+While training [machine learning](../m/machine_learning.md) models for [pattern recognition](../p/pattern_recognition.md), there is a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) to historical data, where the model performs exceptionally well on historical data but fails in real [market](../m/market.md) conditions. It's crucial to ensure that models generalize well and [robust](../r/robust.md) strategies are employed to mitigate risks.
 
 ### Conclusion
 

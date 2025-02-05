@@ -68,7 +68,7 @@ Conducting scenario analyses and stress tests on [trading algorithms](../t/tradi
 
 ### Regulatory Technology (RegTech)
 
-The use of regulatory technology, or [RegTech](../r/regtech.md), is becoming increasingly popular. [RegTech](../r/regtech.md) solutions use advanced technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning to ensure compliance with regulatory requirements efficiently. Examples of [RegTech](../r/regtech.md) applications include:
+The use of regulatory technology, or [RegTech](../r/regtech.md), is becoming increasingly popular. [RegTech](../r/regtech.md) solutions use advanced technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) to ensure compliance with regulatory requirements efficiently. Examples of [RegTech](../r/regtech.md) applications include:
 
 - **Automated Compliance Monitoring**: Systems that automatically monitor trades for compliance with relevant laws and regulations.
 - **Real-Time Reporting**: Solutions that generate real-time compliance reports to meet regulatory requirements.

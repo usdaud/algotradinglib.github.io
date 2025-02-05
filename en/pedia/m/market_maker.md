@@ -86,7 +86,7 @@ High-frequency trading is an integral part of modern [market](../m/market.md) ma
 
 ### Data Analytics
 
-[Market](../m/market.md) makers rely heavily on [data analytics](../d/data_analytics.md) to understand [market](../m/market.md) trends and make informed decisions. Tools like machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are used to analyze historical data, predict future price movements, and optimize [trading strategies](../t/trading_strategies.md). [Data analytics](../d/data_analytics.md) also helps in monitoring compliance and [risk management](../r/risk_management.md).
+[Market](../m/market.md) makers rely heavily on [data analytics](../d/data_analytics.md) to understand [market](../m/market.md) trends and make informed decisions. Tools like [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are used to analyze historical data, predict future price movements, and optimize [trading strategies](../t/trading_strategies.md). [Data analytics](../d/data_analytics.md) also helps in monitoring compliance and [risk management](../r/risk_management.md).
 
 ## Future of Market Making
 

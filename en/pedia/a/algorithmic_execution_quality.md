@@ -43,7 +43,7 @@ VWAP and TWAP are popular [trading strategies](../t/trading_strategies.md) used 
 
 ### Algorithmic Adjustments and Fine-Tuning
 
-Continuous fine-tuning and adjustments to [trading algorithms](../t/trading_algorithms.md) based on historical performance and [market](../m/market.md) conditions can significantly improve [execution](../e/execution.md) quality. This includes back-testing, [simulation](../s/simulation_in_trading.md), and the use of machine learning to adapt algorithms to changing [market](../m/market.md) conditions.
+Continuous fine-tuning and adjustments to [trading algorithms](../t/trading_algorithms.md) based on historical performance and [market](../m/market.md) conditions can significantly improve [execution](../e/execution.md) quality. This includes back-testing, [simulation](../s/simulation_in_trading.md), and the use of [machine learning](../m/machine_learning.md) to adapt algorithms to changing [market](../m/market.md) conditions.
 
 ## Industry Standards and Compliance
 
@@ -71,7 +71,7 @@ HFT firms like Virtu Financial (https://www.virtu.com/) employ advanced algorith
 
 ### Machine Learning and AI
 
-The integration of machine learning and [artificial intelligence in trading](../a/artificial_intelligence_in_trading.md) algorithms is poised to bring significant advancements in [execution](../e/execution.md) quality. These technologies enable real-time analysis and adaptation to [market](../m/market.md) conditions, improving decision-making processes and [execution](../e/execution.md) outcomes.
+The integration of [machine learning](../m/machine_learning.md) and [artificial intelligence in trading](../a/artificial_intelligence_in_trading.md) algorithms is poised to bring significant advancements in [execution](../e/execution.md) quality. These technologies enable real-time analysis and adaptation to [market](../m/market.md) conditions, improving decision-making processes and [execution](../e/execution.md) outcomes.
 
 ### Blockchain and Smart Contracts
 

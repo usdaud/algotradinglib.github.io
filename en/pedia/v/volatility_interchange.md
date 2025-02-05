@@ -77,7 +77,7 @@ HFT firms [leverage](../l/leverage.md) ultra-low latency systems to exploit flee
 
 ### Machine Learning and AI
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques are increasingly employed to identify patterns and predict [volatility](../v/volatility.md) more accurately, thereby optimizing [trading strategies](../t/trading_strategies.md).
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques are increasingly employed to identify patterns and predict [volatility](../v/volatility.md) more accurately, thereby optimizing [trading strategies](../t/trading_strategies.md).
 
 ## Industry Participants
 

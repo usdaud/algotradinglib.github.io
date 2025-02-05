@@ -98,7 +98,7 @@ In high-frequency trading environments, the time lag between signal generation a
 
 ### Integration with Machine Learning
 
-The integration of [z-score](../z/z-score.md) models with machine learning techniques presents exciting possibilities. Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be trained to adaptively adjust [z-score](../z/z-score.md) thresholds based on evolving [market](../m/market.md) conditions, enhancing the robustness of [trading strategies](../t/trading_strategies.md).
+The integration of [z-score](../z/z-score.md) models with [machine learning](../m/machine_learning.md) techniques presents exciting possibilities. Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be trained to adaptively adjust [z-score](../z/z-score.md) thresholds based on evolving [market](../m/market.md) conditions, enhancing the robustness of [trading strategies](../t/trading_strategies.md).
 
 ### High-Frequency Applications
 

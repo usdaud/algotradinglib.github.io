@@ -108,7 +108,7 @@ The [liquid](../l/liquid.md) alternatives [market](../m/market.md) is continuall
 Integrating Environmental, Social, and Governance (ESG) criteria into investment strategies is becoming more common. [Liquid](../l/liquid.md) alternatives that incorporate ESG factors aim to generate returns while promoting sustainable and responsible [investing](../i/investing.md).
 
 ### Quantitative Strategies
-Advancements in technology and [data analytics](../d/data_analytics.md) have led to the development of [quantitative strategies](../q/quantitative_strategies_in_trading.md) that [leverage](../l/leverage.md) algorithms and machine learning to identify investment opportunities.
+Advancements in technology and [data analytics](../d/data_analytics.md) have led to the development of [quantitative strategies](../q/quantitative_strategies_in_trading.md) that [leverage](../l/leverage.md) algorithms and [machine learning](../m/machine_learning.md) to identify investment opportunities.
 
 ### Increased Regulation
 The [liquid](../l/liquid.md) alternatives [market](../m/market.md) is subject to ongoing regulatory scrutiny to ensure [investor](../i/investor.md) protection and [market](../m/market.md) integrity. Enhanced regulatory frameworks aim to increase [transparency](../t/transparency.md) and reduce risks.

@@ -29,7 +29,7 @@ Alternatively, it can be represented as:
 
 1. **Quantitative Screens**: Algorithms can screen [stocks](../s/stock.md) with desirable DPRs, filtering out companies in alignment with specific investment strategies.
 2. **[Risk Management](../r/risk_management.md)**: By including DPR in [risk assessment models](../r/risk_assessment_models.md), algorithms can predict [dividend](../d/dividend.md) sustainability and identify [stocks](../s/stock.md) with stable returns.
-3. **Predictive Analysis**: Historical DPR trends can be incorporated into machine learning models to forecast future stock performance and [dividend](../d/dividend.md) payments.
+3. **Predictive Analysis**: Historical DPR trends can be incorporated into [machine learning](../m/machine_learning.md) models to forecast future stock performance and [dividend](../d/dividend.md) payments.
 
 ## Industry Examples
 

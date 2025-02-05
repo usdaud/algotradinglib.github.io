@@ -75,7 +75,7 @@ The process of conducting stress tests is resource-intensive. Smaller banks, in 
 ## Future Trends
 
 ### Increased Use of Technology
-Advancements in technology, including machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), [will](../w/will.md) likely play a growing role in enhancing the accuracy and [efficiency](../e/efficiency.md) of stress tests. These technologies can provide deeper insights into complex [risk](../r/risk.md) interactions and improve [predictive modeling](../p/predictive_modeling.md).
+Advancements in technology, including [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), [will](../w/will.md) likely play a growing role in enhancing the accuracy and [efficiency](../e/efficiency.md) of stress tests. These technologies can provide deeper insights into complex [risk](../r/risk.md) interactions and improve [predictive modeling](../p/predictive_modeling.md).
 
 ### Climate Change Stress Testing
 As awareness of climate-related financial risks grows, regulatory bodies are beginning to include climate change scenarios in stress tests. These scenarios assess the impact of environmental factors on banks' [asset](../a/asset.md) portfolios and overall financial stability.

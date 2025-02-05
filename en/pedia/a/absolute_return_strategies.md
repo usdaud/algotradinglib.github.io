@@ -67,7 +67,7 @@ Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies employs c
 Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ### 4. Two Sigma Investments
-Two Sigma leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and advanced [data analytics](../d/data_analytics.md) to pursue [absolute return](../a/absolute_return.md) strategies across various [asset](../a/asset.md) classes.
+Two Sigma leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and advanced [data analytics](../d/data_analytics.md) to pursue [absolute return](../a/absolute_return.md) strategies across various [asset](../a/asset.md) classes.
 Website: [Two Sigma Investments](https://www.twosigma.com/)
 
 ### 5. Man Group

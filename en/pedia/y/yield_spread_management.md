@@ -70,7 +70,7 @@ The advent of financial technology has revolutionized [yield spread](../y/yield_
 1. **[Algorithmic Trading](../a/algorithmic_trading.md)**:
    - Using algorithms to execute [bond](../b/bond.md) trades based on predetermined criteria, including [yield](../y/yield.md) [spreads](../s/spreads.md). 
 
-2. **Machine Learning and AI**:
+2. **[Machine Learning](../m/machine_learning.md) and AI**:
    - Leveraging machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict changes in [yield](../y/yield.md) [spreads](../s/spreads.md) and optimize portfolio strategies. 
 
 3. **[Data Analytics](../d/data_analytics.md)**:

@@ -109,7 +109,7 @@ The marketing landscape is constantly evolving, driven by technological advancem
 
 ### Artificial Intelligence (AI) and Machine Learning
 
-AI and machine learning are transforming marketing by enabling more personalized and predictive marketing efforts. These technologies can analyze vast amounts of data to identify patterns, optimize campaigns, and enhance [customer](../c/customer.md) experiences.
+AI and [machine learning](../m/machine_learning.md) are transforming marketing by enabling more personalized and predictive marketing efforts. These technologies can analyze vast amounts of data to identify patterns, optimize campaigns, and enhance [customer](../c/customer.md) experiences.
 
 ### Voice Search and Smart Speakers
 

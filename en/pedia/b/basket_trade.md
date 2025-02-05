@@ -40,7 +40,7 @@ Basket trading has evolved significantly with advances in technology. Several te
 
 1. **High-Frequency Trading (HFT)**: HFT uses powerful algorithms and high-speed data networks to execute basket trades within microseconds, capturing fleeting [market](../m/market.md) opportunities.
 
-2. **Machine Learning and AI**: Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are being leveraged to optimize basket compositions, predict [market](../m/market.md) trends, and enhance [execution algorithms](../e/execution_algorithms.md).
+2. **[Machine Learning](../m/machine_learning.md) and AI**: [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are being leveraged to optimize basket compositions, predict [market](../m/market.md) trends, and enhance [execution algorithms](../e/execution_algorithms.md).
 
 3. **Direct [Market](../m/market.md) Access (DMA)**: DMA allows traders to interact directly with the [order](../o/order.md) books of exchanges, thereby executing large basket orders with minimal delay and at better prices.
 

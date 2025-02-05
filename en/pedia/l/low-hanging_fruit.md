@@ -44,7 +44,7 @@ Certain assets exhibit predictable seasonal trends. For instance, retail [stocks
 
 ### Use of Technology in Low-Hanging Fruit Identification
 
-The advent of financial technology (FinTech) and [algorithmic trading](../a/accountability.md) has made it even easier to identify and exploit low-hanging fruit in the markets. Algorithms can quickly parse through large data sets to identify simple yet profitable opportunities that a human [trader](../t/trader.md) might overlook. Tools such as [sentiment analysis](../s/sentiment_analysis.md), [automated trading systems](../a/automated_trading_systems.md), and machine learning models can greatly enhance the ability to recognize and [capitalize](../c/capitalize.md) on these opportunities.
+The advent of financial technology (FinTech) and [algorithmic trading](../a/accountability.md) has made it even easier to identify and exploit low-hanging fruit in the markets. Algorithms can quickly parse through large data sets to identify simple yet profitable opportunities that a human [trader](../t/trader.md) might overlook. Tools such as [sentiment analysis](../s/sentiment_analysis.md), [automated trading systems](../a/automated_trading_systems.md), and [machine learning](../m/machine_learning.md) models can greatly enhance the ability to recognize and [capitalize](../c/capitalize.md) on these opportunities.
 
 #### Sentiment Analysis
 
@@ -56,7 +56,7 @@ Tools that analyze sentiment from news articles, [social media](../s/social_medi
 
 #### Machine Learning Models
 
-Machine learning models can be trained to recognize patterns and predict future [market](../m/market.md) movements based on historical data. These models can help identify low-hanging fruit by spotting trends and opportunities that are not immediately obvious.
+[Machine learning](../m/machine_learning.md) models can be trained to recognize patterns and predict future [market](../m/market.md) movements based on historical data. These models can help identify low-hanging fruit by spotting trends and opportunities that are not immediately obvious.
 
 ## Real-World Examples of Low-Hanging Fruit in Financial Markets
 

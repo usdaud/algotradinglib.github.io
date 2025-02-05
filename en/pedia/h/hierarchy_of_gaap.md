@@ -106,7 +106,7 @@ As technology evolves, new tools and platforms are emerging to aid in the implem
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are beginning to play a significant role in [accounting](../a/accounting.md), [offering](../o/offering.md) [predictive analytics](../p/predictive_analytics.md) and automating complex processes, thus enabling more accurate compliance with GAAP. These technologies are expected to reduce human errors and make the implementation of GAAP more seamless.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are beginning to play a significant role in [accounting](../a/accounting.md), [offering](../o/offering.md) [predictive analytics](../p/predictive_analytics.md) and automating complex processes, thus enabling more accurate compliance with GAAP. These technologies are expected to reduce human errors and make the implementation of GAAP more seamless.
 
 ## Conclusion
 

@@ -84,7 +84,7 @@ Non-[linear models](../l/linear_models_in_trading.md), particularly [deep learni
 Numerai is an AI-run [hedge fund](../h/hedge_fund.md) that relies on data scientists to create [predictive models](../p/predictive_models_in_trading.md) for [stock market](../s/stock_market.md) trading. Numerai incorporates advanced non-[linear models](../l/linear_models_in_trading.md) in its strategies.
 
 ### 2. **Kensho Technologies** ([link](https://www.kensho.com/))
-Kensho provides analytical solutions leveraging machine learning and non-[linear models](../l/linear_models_in_trading.md) to understand [financial markets](../f/financial_market.md) and enhance [trading strategies](../t/trading_strategies.md).
+Kensho provides analytical solutions leveraging [machine learning](../m/machine_learning.md) and non-[linear models](../l/linear_models_in_trading.md) to understand [financial markets](../f/financial_market.md) and enhance [trading strategies](../t/trading_strategies.md).
 
 ### 3. **Alpaca** ([link](https://alpaca.markets/))
 [Alpaca](../a/alpaca.md) offers an API platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to deploy and backtest non-[linear models](../l/linear_models_in_trading.md) easily.
@@ -93,10 +93,10 @@ Kensho provides analytical solutions leveraging machine learning and non-[linear
 [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of non-[linear models](../l/linear_models_in_trading.md) for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 
 ### 5. **Two Sigma** ([link](https://www.twosigma.com/))
-Two Sigma uses advanced non-[linear models](../l/linear_models_in_trading.md) and machine learning techniques to identify [market](../m/market.md) trends and develop [quantitative trading](../q/quantitative_trading.md) strategies.
+Two Sigma uses advanced non-[linear models](../l/linear_models_in_trading.md) and [machine learning](../m/machine_learning.md) techniques to identify [market](../m/market.md) trends and develop [quantitative trading](../q/quantitative_trading.md) strategies.
 
 ### 6. **SigOpt** ([link](https://sigopt.com/))
-SigOpt offers [optimization](../o/optimization.md) solutions for machine learning models, including non-[linear models](../l/linear_models_in_trading.md), to enhance predictive performance in trading applications.
+SigOpt offers [optimization](../o/optimization.md) solutions for [machine learning](../m/machine_learning.md) models, including non-[linear models](../l/linear_models_in_trading.md), to enhance predictive performance in trading applications.
 
 ## Conclusion
 Non-[linear models](../l/linear_models_in_trading.md) play a vital role in modern trading by capturing complex relationships in financial data and providing [robust](../r/robust.md) predictive capabilities. Their flexibility and precision make them indispensable tools for traders, analysts, and financial institutions looking to stay ahead in dynamic markets. Despite their advantages, careful consideration of computational complexity, [overfitting](../o/overfitting.md), data quality, and interpretability is essential for successful implementation.

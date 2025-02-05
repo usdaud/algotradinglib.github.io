@@ -45,9 +45,9 @@
    - **Real-World Example**: [Credit](../c/credit.md) Suisse's AES (Advanced [Execution](../e/execution.md) Services) includes [liquidity](../l/liquidity.md)-seeking algorithms.
 
 6. **[Adaptive Algorithms](../a/adaptive_algorithms.md)**
-   - [Adaptive algorithms](../a/adaptive_algorithms.md) are advanced [execution](../e/execution.md) strategies that use machine learning and real-time data to adapt to [market](../m/market.md) conditions dynamically, optimizing [order](../o/order.md) [execution](../e/execution.md) parameters on the fly.
+   - [Adaptive algorithms](../a/adaptive_algorithms.md) are advanced [execution](../e/execution.md) strategies that use [machine learning](../m/machine_learning.md) and real-time data to adapt to [market](../m/market.md) conditions dynamically, optimizing [order](../o/order.md) [execution](../e/execution.md) parameters on the fly.
    - **Key Features**:
-     - Machine learning models for real-time adaptation.
+     - [Machine learning](../m/machine_learning.md) models for real-time adaptation.
      - High customization and flexibility.
    - **Use Cases**: Complex trading environments, algorithm developers.
    - **Real-World Example**: [Trade](../t/trade.md) Informatics offers adaptive [execution](../e/execution.md) algorithms designed to refine strategies in real-time.
@@ -66,7 +66,7 @@
 [Execution](../e/execution.md) algorithms rely heavily on technology and [infrastructure](../i/infrastructure.md). High-frequency trading (HFT) firms, for instance, use cutting-edge technology to ensure the lowest latency in executing trades. The sophistication of [execution](../e/execution.md) algorithms can [range](../r/range.md) from simple, rule-based systems to advanced, self-learning models supported by [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 - **High-Performance Computing**: [Execution](../e/execution.md) algorithms benefit from parallel processing and high-speed computation, allowing for complex analyses and rapid decision-making.
-- **[Data Analytics](../d/data_analytics.md)**: Real-time data feeds, [historical data analysis](../h/historical_data_analysis.md), and machine learning models are integral in refining [execution](../e/execution.md) strategies and adjusting to [market dynamics](../m/market_dynamics.md).
+- **[Data Analytics](../d/data_analytics.md)**: Real-time data feeds, [historical data analysis](../h/historical_data_analysis.md), and [machine learning](../m/machine_learning.md) models are integral in refining [execution](../e/execution.md) strategies and adjusting to [market dynamics](../m/market_dynamics.md).
 - **[Networking](../n/networking.md)**: Low-latency networks ensure rapid communication between [trading systems](../t/trading_systems.md) and exchanges, reducing [execution](../e/execution.md) time.
 - **[Cloud Computing](../c/cloud_computing_in_trading.md)**: [Scalability](../s/scalability.md) and flexibility provided by cloud services enable trading firms to [handle](../h/handle.md) large volumes of data and execute complex algorithms without significant [capital investment](../c/capital_investment.md).
 
@@ -74,7 +74,7 @@
 
 Executing large orders efficiently and effectively poses several challenges, such as [market](../m/market.md) impact, price [slippage](../s/slippage.md), and latency. However, advancements in technology and methodology continue to evolve the landscape of [execution](../e/execution.md) algorithms.
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: The integration of AI can enhance the adaptability and predictive capabilities of [execution](../e/execution.md) algorithms, allowing for more intelligent [order](../o/order.md) [execution](../e/execution.md) strategies.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: The integration of AI can enhance the adaptability and predictive capabilities of [execution](../e/execution.md) algorithms, allowing for more intelligent [order](../o/order.md) [execution](../e/execution.md) strategies.
 - **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potential future applications of [quantum computing](../q/quantum_computing_in_trading.md) could revolutionize how [trading algorithms](../t/trading_algorithms.md) are developed and executed, providing unparalleled computational power and speed.
 - **Regulatory Developments**: As [financial markets](../f/financial_market.md) evolve, regulatory environments [will](../w/will.md) also shift, impacting how [execution](../e/execution.md) algorithms can operate. Traders must stay informed of these changes.
 - **Sustainable Trading Practices**: Ethical considerations, such as ESG factors, are starting to influence trading practices, including how [execution](../e/execution.md) algorithms are designed and applied.

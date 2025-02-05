@@ -89,7 +89,7 @@ In the context of [algorithmic trading](../a/accountability.md), intellectual [c
 
 - **Quantitative Analysts (Quants)**: These professionals use [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities and assess risks. Their deep expertise in mathematics, [statistics](../s/statistics.md), and computer science represents high [human capital](../h/human_capital.md).
 - **Software Developers**: Skilled developers create and maintain the software that executes [trading algorithms](../t/trading_algorithms.md). Their expertise in programming languages such as C++, Python, and R is crucial.
-- **Data Scientists**: They analyze vast amounts of [market](../m/market.md) data to find patterns and insights that inform [trading strategies](../t/trading_strategies.md). Their skills in [data mining](../d/data_mining.md), machine learning, and statistical analysis are highly valuable.
+- **Data Scientists**: They analyze vast amounts of [market](../m/market.md) data to find patterns and insights that inform [trading strategies](../t/trading_strategies.md). Their skills in [data mining](../d/data_mining.md), [machine learning](../m/machine_learning.md), and statistical analysis are highly valuable.
 - **Traders**: Experienced traders who understand [market dynamics](../m/market_dynamics.md) can make informed decisions based on the output of [trading algorithms](../t/trading_algorithms.md).
 
 ### 2. Relational Capital in Algo Trading

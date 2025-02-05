@@ -115,7 +115,7 @@ Interpreting the results of [Market](../m/market.md) Basket Analysis requires do
 
 ### Integration with Machine Learning
 
-The integration of MBA with machine learning techniques is poised to enhance its predictive power. Machine learning models can be trained on the associations identified by MBA to predict future purchasing behaviors more accurately.
+The integration of MBA with [machine learning](../m/machine_learning.md) techniques is poised to enhance its predictive power. [Machine learning](../m/machine_learning.md) models can be trained on the associations identified by MBA to predict future purchasing behaviors more accurately.
 
 ### Real-Time Analysis
 

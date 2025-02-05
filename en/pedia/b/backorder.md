@@ -66,7 +66,7 @@ Implementing safety stock strategies can act as a buffer against unforeseen [dem
 
 ### Amazon
 
-Amazon, one of the largest e-[commerce](../c/commerce.md) platforms, uses sophisticated [inventory management](../i/inventory_management.md) and [demand forecasting](../d/demand_forecasting.md) systems to minimize backorders. The company leverages [big data analytics](../b/big_data_analytics_in_trading.md) and machine learning to predict [customer](../c/customer.md) [demand](../d/demand.md) accurately, optimize [inventory](../i/inventory.md) levels, and ensure timely replenishment. However, despite these advanced systems, backorders can still occur, particularly during peak shopping seasons like [Black Friday](../b/black_friday.md) and Cyber Monday. [Amazon](https://www.amazon.com)
+Amazon, one of the largest e-[commerce](../c/commerce.md) platforms, uses sophisticated [inventory management](../i/inventory_management.md) and [demand forecasting](../d/demand_forecasting.md) systems to minimize backorders. The company leverages [big data analytics](../b/big_data_analytics_in_trading.md) and [machine learning](../m/machine_learning.md) to predict [customer](../c/customer.md) [demand](../d/demand.md) accurately, optimize [inventory](../i/inventory.md) levels, and ensure timely replenishment. However, despite these advanced systems, backorders can still occur, particularly during peak shopping seasons like [Black Friday](../b/black_friday.md) and Cyber Monday. [Amazon](https://www.amazon.com)
 
 ### Apple
 

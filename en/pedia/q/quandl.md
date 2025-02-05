@@ -25,7 +25,7 @@ Quandl is a platform that provides financial, economic, and alternative datasets
 ## Integrations
 Quandl integrates with a variety of financial platforms, analytical tools, and third-party applications to enhance its functionality. Some notable integrations include:
 
-- **Python**: Access to Quandl data using Python libraries for data analysis and machine learning applications.
+- **Python**: Access to Quandl data using Python libraries for data analysis and [machine learning](../m/machine_learning.md) applications.
 - **R**: Integration with R for statistical computing and graphics.
 - **Excel**: Easy access to Quandl data within Microsoft Excel for data analysis and reporting.
 - **MATLAB**: Compatibility with MATLAB for numerical computing and algorithm development.
@@ -38,7 +38,7 @@ Quandl provides extensive support through detailed documentation, user guides, t
 ## Use Cases
 - **Financial Analysts**: Utilized by financial analysts for accessing and integrating diverse datasets into financial models and research.
 - **Quantitative Researchers**: Supports quantitative researchers in developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) using comprehensive data.
-- **Data Scientists**: Enables data scientists to [leverage](../l/leverage.md) [alternative data](../a/alternative_data.md) for [predictive modeling](../p/predictive_modeling.md) and machine learning applications.
+- **Data Scientists**: Enables data scientists to [leverage](../l/leverage.md) [alternative data](../a/alternative_data.md) for [predictive modeling](../p/predictive_modeling.md) and [machine learning](../m/machine_learning.md) applications.
 - **Individual Investors**: Provides individual investors with access to unique datasets and analytical tools for informed decision-making.
 - **Academic Researchers**: Assists academic researchers in conducting in-depth studies and analysis of financial and economic trends.
 

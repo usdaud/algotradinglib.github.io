@@ -114,7 +114,7 @@ Examining how algorithmic strategies performed during a significant [bear market
 
 Companies that effectively manage algotrading strategies during bear markets include:
 
-- **[Two Sigma](https://www.twosigma.com/)**: Utilizes advanced data analysis and machine learning to navigate [market](../m/market.md) downturns.
+- **[Two Sigma](https://www.twosigma.com/)**: Utilizes advanced data analysis and [machine learning](../m/machine_learning.md) to navigate [market](../m/market.md) downturns.
   
 - **[Renaissance Technologies](https://www.rentec.com/)**: Known for their Medallion [Fund](../f/fund.md), which uses sophisticated algorithms to achieve remarkable returns regardless of [market](../m/market.md) conditions.
 

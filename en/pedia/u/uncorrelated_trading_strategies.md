@@ -37,7 +37,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves identifying pricing ineffici
 - [Citadel Securities](https://www.citadelsecurities.com/)
 
 ### Statistical Machine Learning
-Machine learning and AI-driven models use large datasets to train algorithms to detect patterns and make predictions independent of traditional [market](../m/market.md) movements.
+[Machine learning](../m/machine_learning.md) and AI-driven models use large datasets to train algorithms to detect patterns and make predictions independent of traditional [market](../m/market.md) movements.
 
 #### Example Companies:
 - [Numerai](https://numer.ai/)

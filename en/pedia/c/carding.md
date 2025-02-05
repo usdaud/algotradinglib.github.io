@@ -46,7 +46,7 @@ Carding is a criminal offense, and those caught engaging in or facilitating card
 
 ### Security Challenges
 
-The persistent nature of carding necessitates ongoing efforts by financial institutions and [security](../s/security.md) professionals to combat [fraud](../f/fraud.md). Advanced [security](../s/security.md) measures, such as EMV (Europay, [MasterCard](../m/mastercard.md), and Visa) chip technology, tokenization, and machine learning-based [fraud](../f/fraud.md) detection systems, are employed to mitigate risks.
+The persistent nature of carding necessitates ongoing efforts by financial institutions and [security](../s/security.md) professionals to combat [fraud](../f/fraud.md). Advanced [security](../s/security.md) measures, such as EMV (Europay, [MasterCard](../m/mastercard.md), and Visa) chip technology, tokenization, and [machine learning](../m/machine_learning.md)-based [fraud](../f/fraud.md) detection systems, are employed to mitigate risks.
 
 ## Prevention Measures
 

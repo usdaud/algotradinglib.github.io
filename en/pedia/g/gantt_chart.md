@@ -70,7 +70,7 @@ During the Apollo space missions, NASA used Gantt charts extensively to manage t
 Another classic case is the construction of the Hoover Dam. The project, completed in 1935, required meticulous planning and coordination, and Gantt charts were used to manage schedules and deadlines. This project demonstrated how a Gantt chart could be instrumental in managing large-scale engineering feats.
 
 ## Future Trends
-With the advent of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, the next generation of Gantt charts is expected to include [predictive analytics](../p/predictive_analytics.md), which can forecast potential delays and overages before they occur. Additionally, increased integration with Internet of Things (IoT) devices may allow for real-time updates and more granular monitoring of project components.
+With the advent of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), the next generation of Gantt charts is expected to include [predictive analytics](../p/predictive_analytics.md), which can forecast potential delays and overages before they occur. Additionally, increased integration with Internet of Things (IoT) devices may allow for real-time updates and more granular monitoring of project components.
 
 ## Conclusion
 The Gantt chart remains an essential tool in [project management](../p/project_management.md). Its ability to break down projects into manageable tasks and visually map out timelines makes it indispensable for a wide array of industries. While not without its limitations, the continuous development of software solutions continues to expand the functionality and [efficiency](../e/efficiency.md) of Gantt charts.

@@ -32,7 +32,7 @@ Statistical [arbitrage](../a/arbitrage.md) is a [trading strategy](../t/trading_
 
 ### Machine Learning
 
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can process vast amounts of data to learn patterns and make predictions. Techniques like supervised learning, unsupervised learning, and reinforcement learning are often employed in quantitative analysis.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can process vast amounts of data to learn patterns and make predictions. Techniques like [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md) are often employed in quantitative analysis.
 
 ### Factor Analysis
 
@@ -54,7 +54,7 @@ Website: [DE Shaw](https://www.deshaw.com/)
 
 ### Two Sigma
 
-Two Sigma leverages machine learning and distributed computing to perform [quantitative research](../q/quantitative_research.md) and deploy [systematic trading](../s/systematic_trading.md) strategies.
+Two Sigma leverages [machine learning](../m/machine_learning.md) and distributed computing to perform [quantitative research](../q/quantitative_research.md) and deploy [systematic trading](../s/systematic_trading.md) strategies.
 
 Website: [Two Sigma](https://www.twosigma.com/)
 
@@ -84,7 +84,7 @@ Quantitative analysis is also used in [portfolio optimization](../p/portfolio_op
 
 ### Predictive Analytics
 
-[Predictive analytics](../p/predictive_analytics.md) involves using statistical and machine learning models to forecast future [market](../m/market.md) movements. This can include price predictions, [volatility](../v/volatility.md) estimations, and [economic forecasting](../e/economic_forecasting.md).
+[Predictive analytics](../p/predictive_analytics.md) involves using statistical and [machine learning](../m/machine_learning.md) models to forecast future [market](../m/market.md) movements. This can include price predictions, [volatility](../v/volatility.md) estimations, and [economic forecasting](../e/economic_forecasting.md).
 
 ## Conclusion
 

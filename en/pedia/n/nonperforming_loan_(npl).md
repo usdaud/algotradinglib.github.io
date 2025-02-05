@@ -58,7 +58,7 @@ The 1997 [Asian Financial Crisis](../a/asian_financial_crisis.md) led to a steep
 
 ### Technological Innovations in NPL Management
 - **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Utilization of [big data](../b/big_data_in_trading.md) to predict and manage potential NPLs by identifying early warning indicators.
-- **Machine Learning**: [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can assess borrower [creditworthiness](../c/creditworthiness.md) more accurately and [offer](../o/offer.md) alternative lending solutions.
+- **[Machine Learning](../m/machine_learning.md)**: [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can assess borrower [creditworthiness](../c/creditworthiness.md) more accurately and [offer](../o/offer.md) alternative lending solutions.
 - **[Blockchain](../b/blockchain_in_trading.md)**: [Blockchain](../b/blockchain_in_trading.md) technology can enhance [transparency](../t/transparency.md) and improve the tracking of [loan](../l/loan.md) performance, helping reduce defaults.
 - **Fintech Platforms**: Online platforms specializing in NPL transactions provide a marketplace for buying and selling distressed assets, improving [liquidity](../l/liquidity.md) in the NPL [market](../m/market.md).
 

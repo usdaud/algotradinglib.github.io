@@ -80,7 +80,7 @@ Algorithmic traders can incorporate Z-[Shares](../s/shares.md) into their portfo
 3. **Automated [Rebalancing](../r/rebalancing.md):** Algorithms can automate the process of [rebalancing](../r/rebalancing.md) portfolios in response to [market](../m/market.md) conditions, ensuring that the exposure to Z-[Shares](../s/shares.md) aligns with investment goals.
 
 ### Machine Learning Applications
-Machine learning models can predict the price movements and [liquidity](../l/liquidity.md) requirements for Z-[Shares](../s/shares.md). By analyzing historical data and [market](../m/market.md) trends, machine learning applications can improve decision-making processes regarding the timing of buying and selling Z-[Shares](../s/shares.md).
+[Machine learning](../m/machine_learning.md) models can predict the price movements and [liquidity](../l/liquidity.md) requirements for Z-[Shares](../s/shares.md). By analyzing historical data and [market](../m/market.md) trends, [machine learning](../m/machine_learning.md) applications can improve decision-making processes regarding the timing of buying and selling Z-[Shares](../s/shares.md).
 
 ## Integration into Fintech Platforms
 

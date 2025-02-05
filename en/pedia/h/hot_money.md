@@ -77,7 +77,7 @@ In the late 2000s and early 2010s, many emerging markets, such as Brazil, Turkey
 ## Companies and Technologies
 
 ### BlackRock
-BlackRock (https://www.blackrock.com) employs sophisticated algorithms to manage assets and has been successful in navigating [hot money flows](../h/hot_money_flows.md). Their technology integrates machine learning to adapt to changing [market dynamics](../m/market_dynamics.md).
+BlackRock (https://www.blackrock.com) employs sophisticated algorithms to manage assets and has been successful in navigating [hot money flows](../h/hot_money_flows.md). Their technology integrates [machine learning](../m/machine_learning.md) to adapt to changing [market dynamics](../m/market_dynamics.md).
 
 ### Renaissance Technologies
 Renaissance Technologies (https://www.rentec.com) is another [industry](../i/industry.md) leader that utilizes [quantitative analysis](../q/quantitative_analysis.md) and [algorithmic trading](../a/accountability.md). Understanding [hot money flows](../h/hot_money_flows.md) is crucial for their [trading strategies](../t/trading_strategies.md) to maximize returns while minimizing risks.

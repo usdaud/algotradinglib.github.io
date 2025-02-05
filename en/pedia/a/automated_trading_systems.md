@@ -5,7 +5,7 @@ Automated [trading systems](../t/trading_systems.md), also known as [algorithmic
 ## Core Components of Automated Trading Systems
 
 ### Trading Algorithms
-At the heart of automated [trading systems](../t/trading_systems.md) are [trading algorithms](../t/trading_algorithms.md). These algorithmic strategies define the rules for [trade](../t/trade.md) entries and exits based on a pre-defined set of conditions. The complexity of these algorithms can vary from straightforward [technical indicators](../t/technical_indicators.md) such as moving averages to more sophisticated and advanced statistical, machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) models.
+At the heart of automated [trading systems](../t/trading_systems.md) are [trading algorithms](../t/trading_algorithms.md). These algorithmic strategies define the rules for [trade](../t/trade.md) entries and exits based on a pre-defined set of conditions. The complexity of these algorithms can vary from straightforward [technical indicators](../t/technical_indicators.md) such as moving averages to more sophisticated and advanced statistical, [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) models.
 
 ### Market Data Feeds
 Automated [trading systems](../t/trading_systems.md) rely heavily on real-time data feeds from various markets. High-quality, low-latency data is crucial, as any delay in receiving [market](../m/market.md) information can result in suboptimal trading decisions. These data feeds can include price data, [order book](../o/order_book.md) data, news feeds, and other relevant [market](../m/market.md) information.
@@ -74,7 +74,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves trading based on statistical
 HFT strategies exploit extremely short-term [market](../m/market.md) inefficiencies, executing a high [volume](../v/volume.md) of trades in milliseconds. These strategies rely on low-latency [execution](../e/execution.md) and advanced computational capabilities to be effective.
 
 ### Machine Learning and AI-Based Strategies
-These strategies incorporate machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) techniques to enhance [predictive models](../p/predictive_models_in_trading.md) and adapt to evolving [market](../m/market.md) conditions. Algorithms can learn from new data, recognize complex patterns, and optimize trading decisions in real-time.
+These strategies incorporate [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) techniques to enhance [predictive models](../p/predictive_models_in_trading.md) and adapt to evolving [market](../m/market.md) conditions. Algorithms can learn from new data, recognize complex patterns, and optimize trading decisions in real-time.
 
 ## Implementing Automated Trading Systems
 
@@ -96,7 +96,7 @@ Selecting the appropriate platform is foundational for implementing automated [t
 ### Programming Languages
 Different platforms and strategies may require different programming languages. Common languages used in [algorithmic trading](../a/algorithmic_trading.md) include:
 
-- **Python**: Known for its simplicity and extensive libraries for data analysis and machine learning (e.g., NumPy, pandas, scikit-learn).
+- **Python**: Known for its simplicity and extensive libraries for data analysis and [machine learning](../m/machine_learning.md) (e.g., NumPy, pandas, scikit-learn).
 - **C++**: Favored for its high performance and speed, particularly in HFT applications.
 - **Java**: Offers robustness and portability, widely used in institutional [trading systems](../t/trading_systems.md).
 - **R**: Popular for statistical analysis and [data visualization](../d/data_visualization.md), often used in academic research and [risk management](../r/risk_management.md).
@@ -120,7 +120,7 @@ Once an algorithm is thoroughly tested, it can be deployed for live trading. It'
 ## Future Trends in Automated Trading Systems
 
 ### Artificial Intelligence and Machine Learning
-The integration of AI and machine learning in [trading systems](../t/trading_systems.md) continues to grow. These technologies enable algorithms to learn from new data, improve predictive accuracy, and adapt to evolving [market](../m/market.md) conditions.
+The integration of AI and [machine learning](../m/machine_learning.md) in [trading systems](../t/trading_systems.md) continues to grow. These technologies enable algorithms to learn from new data, improve predictive accuracy, and adapt to evolving [market](../m/market.md) conditions.
 
 ### Quantum Computing
 [Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize automated trading by solving complex [optimization](../o/optimization.md) problems much faster than classical computers. While still in its early stages, the research and development of [quantum algorithms](../q/quantum_algorithms_in_trading.md) for financial applications are underway.

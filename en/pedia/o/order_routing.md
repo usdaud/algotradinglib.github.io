@@ -35,7 +35,7 @@ Application Programming Interfaces (APIs) enable [automated trading systems](../
 Low-latency networks ensure that time delays in sending and receiving orders are reduced to the minimum. HFT firms usually invest heavily in ultra-low latency networks to [gain](../g/gain.md) a competitive edge.
 
 ### 4. **Machine Learning and AI**
-Incorporating machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) into [order](../o/order.md) routing algorithms can optimize most of the routing parameters dynamically. These technologies analyze real-time and historical data to predict the most favorable [execution](../e/execution.md) venues.
+Incorporating [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) into [order](../o/order.md) routing algorithms can optimize most of the routing parameters dynamically. These technologies analyze real-time and historical data to predict the most favorable [execution](../e/execution.md) venues.
 
 ## Challenges in Order Routing
 

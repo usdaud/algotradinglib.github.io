@@ -68,7 +68,7 @@ Direct [Market](../m/market.md) Access (DMA) providers such as [Interactive Brok
 
 ## The Future of Disintermediation
 
-The [trend](../t/trend.md) of disintermediation is expected to continue as technology advances. The rise of [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and further developments in [blockchain](../b/blockchain_in_trading.md) could further streamline trading processes and reduce reliance on intermediaries. However, the balance between innovation and regulation [will](../w/will.md) be critical to ensure [market](../m/market.md) integrity and [investor](../i/investor.md) protection.
+The [trend](../t/trend.md) of disintermediation is expected to continue as technology advances. The rise of [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and further developments in [blockchain](../b/blockchain_in_trading.md) could further streamline trading processes and reduce reliance on intermediaries. However, the balance between innovation and regulation [will](../w/will.md) be critical to ensure [market](../m/market.md) integrity and [investor](../i/investor.md) protection.
 
 ## Conclusion
 

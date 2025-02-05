@@ -61,7 +61,7 @@ NLP techniques are used to analyze textual data, such as news articles, [social 
 [QuantConnect](https://www.quantconnect.com) provides a platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies using Python and C#. It offers access to extensive historical data and cloud-based [backtesting](../b/backtesting.md) tools.
 
 ### Numerai
-[Numerai](https://numer.ai) is a [hedge fund](../h/hedge_fund.md) that crowdsources machine learning models to manage its portfolio. Data scientists build and submit [predictive models](../p/predictive_models_in_trading.md) to compete in a global tournament, improving their algorithms over time.
+[Numerai](https://numer.ai) is a [hedge fund](../h/hedge_fund.md) that crowdsources [machine learning](../m/machine_learning.md) models to manage its portfolio. Data scientists build and submit [predictive models](../p/predictive_models_in_trading.md) to compete in a global tournament, improving their algorithms over time.
 
 ### Alpaca
 [Alpaca](https://alpaca.markets) offers a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) with APIs for algo trading. It provides resources and tools for building and executing [trading algorithms](../t/trading_algorithms.md).

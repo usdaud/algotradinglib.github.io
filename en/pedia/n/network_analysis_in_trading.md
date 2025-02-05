@@ -66,7 +66,7 @@ Financial networks are highly dynamic, with relationships constantly evolving. D
 
 #### Integration with AI and Machine Learning
 
-The integration of network analysis with AI and machine learning holds significant promise. Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can help in identifying patterns and anomalies within financial networks that may be too subtle for traditional analysis techniques.
+The integration of network analysis with AI and [machine learning](../m/machine_learning.md) holds significant promise. Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can help in identifying patterns and anomalies within financial networks that may be too subtle for traditional analysis techniques.
 
 ### Conclusion
 

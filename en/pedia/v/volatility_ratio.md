@@ -53,7 +53,7 @@ Interpreting the [Volatility](../v/volatility.md) Ratio involves understanding i
 In [algorithmic trading](../a/accountability.md), [volatility](../v/volatility.md) is a vital input for developing and optimizing [trading algorithms](../t/trading_algorithms.md). Algorithms might incorporate the VR to dynamically adjust [trading strategies](../t/trading_strategies.md) based on changing [market](../m/market.md) conditions. For example:
 
 1. **[Volatility](../v/volatility.md)-Based Algorithms**: These algorithms can increase trading frequency in high [volatility](../v/volatility.md) periods to [capitalize](../c/capitalize.md) on larger price movements or reduce activity during low [volatility](../v/volatility.md) to avoid unnecessary risks.
-2. **Machine Learning Models**: [Volatility](../v/volatility.md) measures can be features in machine learning models predicting price movements or [market](../m/market.md) regime changes.
+2. **[Machine Learning](../m/machine_learning.md) Models**: [Volatility](../v/volatility.md) measures can be features in [machine learning](../m/machine_learning.md) models predicting price movements or [market](../m/market.md) regime changes.
 
 ### High-Frequency Trading (HFT)
 

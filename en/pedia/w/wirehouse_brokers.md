@@ -132,7 +132,7 @@ The rise of [discount](../d/discount.md) brokers and online trading platforms ha
 
 ### Technological Integration
 
-Technological advancements [will](../w/will.md) continue to shape the future of [wirehouse](../w/wirehouse.md) brokers. Firms are likely to invest in [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) to enhance their advisory services and improve [trade](../t/trade.md) [execution](../e/execution.md).
+Technological advancements [will](../w/will.md) continue to shape the future of [wirehouse](../w/wirehouse.md) brokers. Firms are likely to invest in [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) to enhance their advisory services and improve [trade](../t/trade.md) [execution](../e/execution.md).
 
 ### Enhanced Regulatory Scrutiny
 

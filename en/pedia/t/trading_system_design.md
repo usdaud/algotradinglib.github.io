@@ -56,7 +56,7 @@ A trading system needs to be thoroughly tested on historical data to validate it
 ### 3.1 Model Selection
 Choosing the right model for a trading system is essential. Some common models include:
 - **Statistical Models:** Methods based on statistical principles, like regression and time-series analysis.
-- **Machine Learning Models:** Algorithms that learn patterns from data, like [decision trees](../d/decision_trees.md) and [neural networks](../n/neural_networks_in_trading.md).
+- **[Machine Learning](../m/machine_learning.md) Models:** Algorithms that learn patterns from data, like [decision trees](../d/decision_trees.md) and [neural networks](../n/neural_networks_in_trading.md).
 - **[Technical Analysis](../t/technical_analysis.md) Models:** Techniques that analyze price and [volume](../v/volume.md) data to predict future price movements.
 
 ### 3.2 Backtesting
@@ -128,8 +128,8 @@ Periodic reviews are necessary to evaluate system performance and make necessary
 - **Parameter Tuning:** Adjusting model parameters based on current [market](../m/market.md) conditions.
 
 ### 6.2 Machine Learning and AI
-Modern [trading systems](../t/trading_systems.md) increasingly incorporate machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to adapt and evolve.
-- **Reinforcement Learning:** Algorithms that learn optimal [trading strategies](../t/trading_strategies.md) through trial and error.
+Modern [trading systems](../t/trading_systems.md) increasingly incorporate [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to adapt and evolve.
+- **[Reinforcement Learning](../r/reinforcement_learning.md):** Algorithms that learn optimal [trading strategies](../t/trading_strategies.md) through trial and error.
 - **[Adaptive Algorithms](../a/adaptive_algorithms.md):** Models that continuously update themselves based on new data.
 
 ### 6.3 Feedback Loops

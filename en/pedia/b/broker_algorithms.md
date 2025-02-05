@@ -112,7 +112,7 @@ Morgan Stanley's [algorithmic trading](../a/algorithmic_trading.md) platform pro
 
 ### JPMorgan Chase
 
-JPMorgan Chase offers powerful [algorithmic trading](../a/algorithmic_trading.md) solutions that [leverage](../l/leverage.md) machine learning and [big data analytics](../b/big_data_analytics_in_trading.md) to improve [execution](../e/execution.md) quality and manage risks.
+JPMorgan Chase offers powerful [algorithmic trading](../a/algorithmic_trading.md) solutions that [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to improve [execution](../e/execution.md) quality and manage risks.
 
 [JPMorgan Chase Algorithmic Trading](https://www.jpmorganchase.com/what-we-do/markets/algorithmic-trading/)
 

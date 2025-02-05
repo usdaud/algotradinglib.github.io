@@ -63,7 +63,7 @@ With the rise of automated trading platforms, regulatory compliance has become m
 
 - Ensure real-time tracking and reporting.
 - Facilitate compliance with multi-jurisdictional regulations.
-- Employ machine learning for [predictive analytics](../p/predictive_analytics.md) and [anomaly detection](../a/anomaly_detection.md).
+- Employ [machine learning](../m/machine_learning.md) for [predictive analytics](../p/predictive_analytics.md) and [anomaly detection](../a/anomaly_detection.md).
 
 ### Integration with Trading Platforms
 

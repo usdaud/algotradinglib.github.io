@@ -7,7 +7,7 @@ X-Trading, or the use of advanced algorithms for trading in [financial markets](
 ### 1. Historical Data Analysis
 Historical data forms the bedrock of most [trading algorithms](../t/trading_algorithms.md). By analyzing how certain markets behaved in the past, algorithms try to predict future movements. Key tools in this process include:
 - **[Time Series Analysis](../t/time_series_analysis.md)**: This involves methods such as Autoregressive Integrated Moving Average (ARIMA) models and [GARCH models](../g/garch_models.md) that help in understanding data trends and [volatility](../v/volatility.md).
-- **Machine Learning Models**: Techniques like [Linear Regression](../l/linear_regression.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md) are used to identify patterns from historical data.
+- **[Machine Learning](../m/machine_learning.md) Models**: Techniques like [Linear Regression](../l/linear_regression.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md) are used to identify patterns from historical data.
 
 ### 2. Market Microstructure
 Understanding the detailed processes and rules governing trading on an [exchange](../e/exchange.md)—collectively known as [market microstructure](../m/market_microstructure.md)—is vital for X-trading. This includes:

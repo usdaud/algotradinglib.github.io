@@ -42,7 +42,7 @@ Despite its usefulness, there are challenges associated with using jobless claim
 ## Advanced Applications in Algo Trading
 To effectively integrate jobless claims data into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), traders often deploy advanced techniques:
 
-1. **Machine Learning**: By training machine learning models on historical jobless claims data and [market](../m/market.md) reactions, traders can develop [predictive models](../p/predictive_models_in_trading.md) that anticipate [market](../m/market.md) movements.
+1. **[Machine Learning](../m/machine_learning.md)**: By training [machine learning](../m/machine_learning.md) models on historical jobless claims data and [market](../m/market.md) reactions, traders can develop [predictive models](../p/predictive_models_in_trading.md) that anticipate [market](../m/market.md) movements.
 2. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: NLP techniques can analyze text data, such as news articles and analyst reports, to gauge [market sentiment](../m/market_sentiment.md) following jobless claims releases.
 3. **High-Frequency Trading (HFT)**: HFT strategies can execute trades within milliseconds of the jobless claims report release, capitalizing on the initial [market](../m/market.md) reaction.
 

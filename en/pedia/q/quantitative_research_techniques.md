@@ -1,6 +1,6 @@
 # Quantitative Research Techniques
 
-[Quantitative research](../q/quantitative_research.md) techniques are fundamental to [algorithmic trading](../a/algorithmic_trading.md), as they provide the backbone for developing, testing, and optimizing [trading strategies](../t/trading_strategies.md). This document delves into various [quantitative research](../q/quantitative_research.md) methods employed by professional traders and financial institutions. The techniques discussed include statistical analysis, machine learning, and [data mining](../d/data_mining.md) among others, highlighting their application in the realm of [algorithmic trading](../a/algorithmic_trading.md).
+[Quantitative research](../q/quantitative_research.md) techniques are fundamental to [algorithmic trading](../a/algorithmic_trading.md), as they provide the backbone for developing, testing, and optimizing [trading strategies](../t/trading_strategies.md). This document delves into various [quantitative research](../q/quantitative_research.md) methods employed by professional traders and financial institutions. The techniques discussed include statistical analysis, [machine learning](../m/machine_learning.md), and [data mining](../d/data_mining.md) among others, highlighting their application in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Statistical Analysis
 
@@ -28,7 +28,7 @@
 ## Machine Learning
 
 ### Supervised Learning
-In supervised learning, algorithms are trained on labeled data to make predictions or decisions. Crucial algorithms used in algotrading include:
+In [supervised learning](../s/supervised_learning.md), algorithms are trained on labeled data to make predictions or decisions. Crucial algorithms used in algotrading include:
 
 - **[Linear Regression](../l/linear_regression.md):** Predicts future stock prices based on historical data.
 - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** Classifies [stocks](../s/stock.md) and is used in [pattern recognition](../p/pattern_recognition.md) in price data.
@@ -42,9 +42,9 @@ Used to identify intrinsic structures in unlabeled data, aiding in portfolio clu
 - **[Anomaly Detection](../a/anomaly_detection.md):** Identifies irregular [market](../m/market.md) activities that could signal trading opportunities.
 
 ### Reinforcement Learning
-Reinforcement learning is particularly powerful in developing adaptive [trading algorithms](../t/trading_algorithms.md):
+[Reinforcement learning](../r/reinforcement_learning.md) is particularly powerful in developing adaptive [trading algorithms](../t/trading_algorithms.md):
 
-- **Q-Learning:** A model-free reinforcement learning algorithm to find the optimal action-selection policy.
+- **Q-Learning:** A model-free [reinforcement learning](../r/reinforcement_learning.md) algorithm to find the optimal action-selection policy.
 - **Deep Q-Networks (DQN):** Integrates [neural networks](../n/neural_networks_in_trading.md) with Q-learning to [handle](../h/handle.md) more complex scenarios.
 - **Policy Gradients:** Used for optimizing continuous action spaces, ideal for real-time trading decisions.
 
@@ -83,7 +83,7 @@ Quantitative [sentiment analysis](../s/sentiment_analysis.md) involves [indexing
 
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP):** Converts text data into quantitative signals.
 - **Sentiment Indices:** A measure derived from text data to predict [market](../m/market.md) trends.
-- **Machine Learning Models:** Algorithms trained on labeled sentiment data to infer the sentiment of new, unseen data.
+- **[Machine Learning](../m/machine_learning.md) Models:** Algorithms trained on labeled sentiment data to infer the sentiment of new, unseen data.
 
 ## Risk Management Techniques
 
@@ -121,7 +121,7 @@ Quant techniques streamline [portfolio management](../p/portfolio_management.md)
 Robo-advisors automate financial advice based on quantitative techniques.
 
 - **Rule-Based Systems:** Use predefined rules for portfolio allocation and management.
-- **Machine Learning Models:** Tailor advice based on individual [investor](../i/investor.md) profiles and [market](../m/market.md) conditions.
+- **[Machine Learning](../m/machine_learning.md) Models:** Tailor advice based on individual [investor](../i/investor.md) profiles and [market](../m/market.md) conditions.
 - **Hybrid Systems:** Combine human advisors with algorithmic recommendations for more personalized service.
 
 ## Industry Examples

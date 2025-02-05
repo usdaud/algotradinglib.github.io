@@ -66,7 +66,7 @@ Several firms specialize in providing insights based on Buy-Sell Imbalance. Here
 
 3. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) is a platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md), providing data and tools to utilize BSI in developing [trading algorithms](../t/trading_algorithms.md).
 
-4. **Kavout**: [Kavout](https://www.kavout.com/) leverages AI and machine learning to provide [market](../m/market.md) insights, including analysis based on buy-sell imbalances.
+4. **Kavout**: [Kavout](https://www.kavout.com/) leverages AI and [machine learning](../m/machine_learning.md) to provide [market](../m/market.md) insights, including analysis based on buy-sell imbalances.
 
 5. **[QuantHouse](../q/quanthouse.md)**: [QuantHouse](https://www.quanthouse.com/) offers end-to-end solutions for [market](../m/market.md) data and trading [infrastructure](../i/infrastructure.md), with tools to analyze buy-sell imbalances for better trading decisions.
 

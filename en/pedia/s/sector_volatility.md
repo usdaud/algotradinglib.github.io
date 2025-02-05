@@ -57,7 +57,7 @@ Reliable and real-time data is crucial for analyzing sector [volatility](../v/vo
 Tools and platforms like CBOE's VIX, S&P's sector-specific [volatility](../v/volatility.md) indexes, and analytical tools from platforms like [TradingView](../t/tradingview.md) and [Thinkorswim](../t/thinkorswim.md) [offer](../o/offer.md) detailed insights into sector [volatility](../v/volatility.md). Visit [CBOE](https://www.cboe.com/), [S&P Global](https://www.spglobal.com/), and [TradingView](https://www.tradingview.com/) for more information.
 
 ### Machine Learning and Statistical Tools
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) and statistical tools are invaluable in processing vast amounts of data to identify patterns and predict sector [volatility](../v/volatility.md). Software like Python, R, TensorFlow, and PyTorch enable the development of sophisticated models for [volatility analysis](../v/volatility_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md).
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) and statistical tools are invaluable in processing vast amounts of data to identify patterns and predict sector [volatility](../v/volatility.md). Software like Python, R, [TensorFlow](../t/tensorflow.md), and [PyTorch](../p/pytorch.md) enable the development of sophisticated models for [volatility analysis](../v/volatility_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Challenges and Risks
 

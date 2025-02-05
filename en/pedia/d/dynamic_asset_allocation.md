@@ -82,7 +82,7 @@ Dynamic [Asset Allocation](../a/asset_allocation.md) (DAA) is an [investment str
 4. **Technology and Tools**:
     - **[Data Analytics](../d/data_analytics.md)**: Utilize advanced [data analytics](../d/data_analytics.md) for better [market](../m/market.md) insights.
     - **Trading Platforms**: Use sophisticated trading platforms for efficient [portfolio management](../p/portfolio_management.md).
-    - **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: Employ AI and machine learning for [predictive analytics](../p/predictive_analytics.md) and automated decision-making.
+    - **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: Employ AI and [machine learning](../m/machine_learning.md) for [predictive analytics](../p/predictive_analytics.md) and automated decision-making.
 
 ### Advantages of Dynamic Asset Allocation
 

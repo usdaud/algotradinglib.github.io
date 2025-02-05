@@ -97,7 +97,7 @@ The Ministry of [Statistics](../s/statistics.md) and Programme Implementation (M
 
 ## Future Trends in GDI Analysis
 
-The evolving landscape of [data analytics](../d/data_analytics.md) and machine learning is transforming the analysis of GDI:
+The evolving landscape of [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) is transforming the analysis of GDI:
 
 ### 1. **Big Data Integration**
 The [incorporation](../i/incorporation.md) of [big data](../b/big_data_in_trading.md) techniques can enhance the accuracy and timeliness of GDI estimates by using real-time data from various sources, such as [social media](../s/social_media.md), financial transactions, and satellite imagery.

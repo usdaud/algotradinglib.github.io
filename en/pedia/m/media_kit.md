@@ -77,7 +77,7 @@ Details about the specific technologies used:
 
 - **[Blockchain](../b/blockchain_in_trading.md) Technology:** Utilizes [Ethereum](../e/ethereum_.md) and [Hyperledger Fabric](../h/hyperledger_fabric.md) for secure, decentralized transactions.
 - **Programming Languages:** Python, Java, C++
-- **Machine Learning:** TensorFlow and PyTorch frameworks for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
+- **[Machine Learning](../m/machine_learning.md):** [TensorFlow](../t/tensorflow.md) and [PyTorch](../p/pytorch.md) frameworks for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
 ### Awards and Recognition
 Recognition helps build credibility. Example:

@@ -80,7 +80,7 @@ Two Sigma employs data-driven strategies and advanced algorithms for investment 
 
 As regulatory environments evolve and technology advances, disclosure practices are likely to become more stringent and comprehensive. Key trends include:
 
-- **Advanced Technology Disclosures**: As AI and machine learning become integral to [trading algorithms](../t/trading_algorithms.md), disclosures might need to cover these aspects in greater detail.
+- **Advanced Technology Disclosures**: As AI and [machine learning](../m/machine_learning.md) become integral to [trading algorithms](../t/trading_algorithms.md), disclosures might need to cover these aspects in greater detail.
 - **Real-time Reporting**: Enhancements in technology might lead to more frequent and real-time disclosures, aiding in better [market](../m/market.md) [transparency](../t/transparency.md) and monitoring.
 - **Global Standardization**: Efforts to harmonize disclosure regulations across jurisdictions can simplify compliance for international firms.
 - **Ethical AI Disclosures**: As ethical considerations surrounding AI in trading grow, disclosures related to the ethical use and impact of AI algorithms might become mandatory.

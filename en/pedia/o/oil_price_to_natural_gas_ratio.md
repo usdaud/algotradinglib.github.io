@@ -95,8 +95,8 @@ This strategy involves identifying the historical mean of the ratio and taking p
 **Pair Trading**  
 Here, the algorithm would simultaneously take long and short positions on oil and natural gas based on the ratio. The aim is to [profit](../p/profit.md) from the relative movement between the two, irrespective of the individual price movements.
 
-**Machine Learning Applications**  
-Advanced machine learning models like [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, and [Neural Networks](../n/neural_networks_in_trading.md) can be trained to predict the ratio based on historical price data, [economic indicators](../e/economic_indicators.md), and other covariates.
+**[Machine Learning](../m/machine_learning.md) Applications**  
+Advanced [machine learning](../m/machine_learning.md) models like [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, and [Neural Networks](../n/neural_networks_in_trading.md) can be trained to predict the ratio based on historical price data, [economic indicators](../e/economic_indicators.md), and other covariates.
 
 ### Risk Management
 

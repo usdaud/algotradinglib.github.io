@@ -115,7 +115,7 @@ Advancements in technology have significantly impacted the [asset](../a/asset.md
 
 ### Artificial Intelligence and Machine Learning
 
-AI and machine learning technologies are increasingly used in [asset](../a/asset.md) management for tasks such as [portfolio management](../p/par.md), [risk](../r/risk.md) assessment, and [fraud](../f/fraud.md) detection. These technologies enable [asset](../a/asset.md) managers to analyze large datasets, identify patterns, and make more informed investment decisions.
+AI and [machine learning](../m/machine_learning.md) technologies are increasingly used in [asset](../a/asset.md) management for tasks such as [portfolio management](../p/par.md), [risk](../r/risk.md) assessment, and [fraud](../f/fraud.md) detection. These technologies enable [asset](../a/asset.md) managers to analyze large datasets, identify patterns, and make more informed investment decisions.
 
 ### Robo-Advisors
 

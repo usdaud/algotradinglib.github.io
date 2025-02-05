@@ -93,7 +93,7 @@ In real-time trading, algorithms must make quick decisions based on the latest [
 
 ### Machine Learning and AI
 
-Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques are increasingly being employed in [algorithmic trading](../a/accountability.md) to predict [asset](../a/asset.md) prices and develop [trading strategies](../t/trading_strategies.md). Expected [Return](../r/return.md) is often a target variable in supervised learning models, where the algorithms are trained to predict future returns based on historical data and various explanatory features.
+[Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques are increasingly being employed in [algorithmic trading](../a/accountability.md) to predict [asset](../a/asset.md) prices and develop [trading strategies](../t/trading_strategies.md). Expected [Return](../r/return.md) is often a target variable in [supervised learning](../s/supervised_learning.md) models, where the algorithms are trained to predict future returns based on historical data and various explanatory features.
 
 ### Risk Metrics and Adjustments
 

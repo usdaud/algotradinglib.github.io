@@ -87,7 +87,7 @@ Despite its usefulness, depreciated cost estimation has its challenges:
 
 As technology evolves, new trends and innovations in [asset](../a/asset.md) [depreciation](../d/depreciation.md) and management are emerging:
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning**: AI tools are being developed to predict [asset](../a/asset.md) [depreciation](../d/depreciation.md) more accurately based on historical data and real-time usage patterns.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md)**: AI tools are being developed to predict [asset](../a/asset.md) [depreciation](../d/depreciation.md) more accurately based on historical data and real-time usage patterns.
 
 - **[Blockchain](../b/blockchain_in_trading.md)**: [Blockchain](../b/blockchain_in_trading.md) technology is poised to enhance [transparency](../t/transparency.md) and accuracy in tracking [asset](../a/asset.md) [value](../v/value.md) and transactions, including [depreciation](../d/depreciation.md).
 

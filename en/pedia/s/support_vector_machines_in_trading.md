@@ -1,10 +1,10 @@
 # Support Vector Machines
 
-Support Vector Machines (SVMs) are supervised learning models frequently used in classification and regression tasks. SVMs are known for their versatility and accuracy, and have found significant applications in various fields including [finance](../f/finance.md) and trading. This document [will](../w/will.md) delve into the functionality of SVMs, their role in [trading algorithms](../t/trading_algorithms.md), the process of implementing SVM-based strategies, and real-world applications.
+Support Vector Machines (SVMs) are [supervised learning](../s/supervised_learning.md) models frequently used in classification and regression tasks. SVMs are known for their versatility and accuracy, and have found significant applications in various fields including [finance](../f/finance.md) and trading. This document [will](../w/will.md) delve into the functionality of SVMs, their role in [trading algorithms](../t/trading_algorithms.md), the process of implementing SVM-based strategies, and real-world applications.
 
 ## Introduction to Support Vector Machines (SVMs)
 
-Support Vector Machines are a set of supervised learning methods used for classification, regression, and outliers detection. The main idea behind SVM is to find a hyperplane that best divides a dataset into classes. In a two-dimensional space, this hyperplane is a line dividing a plane into two parts where in each class lay on either side.
+Support Vector Machines are a set of [supervised learning](../s/supervised_learning.md) methods used for classification, regression, and outliers detection. The main idea behind SVM is to find a hyperplane that best divides a dataset into classes. In a two-dimensional space, this hyperplane is a line dividing a plane into two parts where in each class lay on either side.
 
 ### Key Concepts of SVMs
 
@@ -78,7 +78,7 @@ Numerous investment firms and [hedge](../h/hedge.md) funds incorporate SVMs into
 
 1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). [QuantConnect](../q/quantconnect.md) offers resources and examples of using SVMs in trading. More info: [QuantConnect](https://www.quantconnect.com/).
 
-2. **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that leverages machine learning, including SVMs, for building sophisticated [trading models](../t/trading_models.md): [Two Sigma](https://www.twosigma.com/).
+2. **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md), including SVMs, for building sophisticated [trading models](../t/trading_models.md): [Two Sigma](https://www.twosigma.com/).
 
 3. **WorldQuant**: An international quantitative investment [firm](../f/firm.md) that uses machine [learning algorithms](../l/learning_algorithms_in_trading.md) to uncover trading opportunities: [WorldQuant](https://www.worldquant.com/).
 

@@ -46,7 +46,7 @@ Trading models play a crucial role in [algorithmic trading](../a/algorithmic_tra
 
 ## 6. Machine Learning Models
 
-**Machine learning trading models** utilize algorithms to learn from historical data to make future trading decisions.
+**[Machine learning](../m/machine_learning.md) trading models** utilize algorithms to learn from historical data to make future trading decisions.
 - **Key Components**: [Neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md).
 - **Mechanics**: Develops [predictive models](../p/predictive_models_in_trading.md) to identify [trade](../t/trade.md) signals from higher-dimensional data.
 - **Benefits**: Adaptive to new data and capable of capturing complex patterns.
@@ -119,7 +119,7 @@ Several companies have made a mark in the field of [algorithmic trading](../a/al
 
 ## 1. Two Sigma
 
-[Two Sigma](https://www.twosigma.com/) is a [hedge fund](../h/hedge_fund.md) that leverages advanced machine learning techniques and sophisticated models to drive trading decisions.
+[Two Sigma](https://www.twosigma.com/) is a [hedge fund](../h/hedge_fund.md) that leverages advanced [machine learning](../m/machine_learning.md) techniques and sophisticated models to drive trading decisions.
 
 ## 2. Renaissance Technologies
 

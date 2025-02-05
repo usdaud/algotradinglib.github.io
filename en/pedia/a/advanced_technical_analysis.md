@@ -68,7 +68,7 @@ The Ichimoku Kinko Hyo, or [Ichimoku Cloud](../i/ichimoku_cloud.md), is a compre
 
 ### 11. Machine Learning and Artificial Intelligence
 
-Machine learning and AI are increasingly being integrated into advanced [technical analysis](../t/technical_analysis.md) to improve the accuracy and efficacy of [trading strategies](../t/trading_strategies.md). Techniques such as [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) enable traders to analyze vast amounts of data, uncover hidden patterns, and make more informed decisions.
+[Machine learning](../m/machine_learning.md) and AI are increasingly being integrated into advanced [technical analysis](../t/technical_analysis.md) to improve the accuracy and efficacy of [trading strategies](../t/trading_strategies.md). Techniques such as [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) enable traders to analyze vast amounts of data, uncover hidden patterns, and make more informed decisions.
 
 ### 12. Algorithmic Trading
 

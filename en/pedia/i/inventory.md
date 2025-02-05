@@ -89,8 +89,8 @@ The advent of sophisticated technologies and tools has revolutionized [inventory
 3. **[Risk Management](../r/risk_management.md) Software:**
    For precise [risk](../r/risk.md) assessment and control, tools like Axioma [Risk](../r/risk.md), MSCI RiskMetrics, and [Bloomberg](../b/bloomberg.md) PORT [offer](../o/offer.md) detailed analytics for inventory positions.
 
-4. **[Data Analytics](../d/data_analytics.md) and Machine Learning:**
-   Advanced [data analytics](../d/data_analytics.md) and machine learning platforms like TensorFlow, PyTorch, and Keras enable traders to develop [predictive models](../p/predictive_models_in_trading.md) for [inventory management](../i/inventory_management.md), leveraging vast amounts of [market](../m/market.md) data.
+4. **[Data Analytics](../d/data_analytics.md) and [Machine Learning](../m/machine_learning.md):**
+   Advanced [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) platforms like [TensorFlow](../t/tensorflow.md), [PyTorch](../p/pytorch.md), and [Keras](../k/keras.md) enable traders to develop [predictive models](../p/predictive_models_in_trading.md) for [inventory management](../i/inventory_management.md), leveraging vast amounts of [market](../m/market.md) data.
 
 ## Real-World Applications
 

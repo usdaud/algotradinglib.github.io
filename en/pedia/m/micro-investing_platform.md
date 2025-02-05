@@ -99,7 +99,7 @@ The future of micro-[investing](../i/investing.md) platforms looks promising, wi
 Micro-[investing](../i/investing.md) platforms may increasingly integrate with other financial services, providing comprehensive financial solutions, including banking, loans, and [insurance](../i/insurance.md).
 
 ### 2. **Increased Personalization**
-With advancements in AI and machine learning, micro-[investing](../i/investing.md) platforms are expected to [offer](../o/offer.md) more personalized investment advice and [portfolio management](../p/par.md) services tailored to individual users’ financial goals and [risk tolerance](../r/risk_tolerance.md).
+With advancements in AI and [machine learning](../m/machine_learning.md), micro-[investing](../i/investing.md) platforms are expected to [offer](../o/offer.md) more personalized investment advice and [portfolio management](../p/par.md) services tailored to individual users’ financial goals and [risk tolerance](../r/risk_tolerance.md).
 
 ### 3. **Enhanced Educational Tools**
 There [will](../w/will.md) likely be a focus on enhancing educational tools, with more interactive and personalized content to help users deepen their understanding of investments and [financial planning](../f/financial_planning.md).

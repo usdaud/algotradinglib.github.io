@@ -7,7 +7,7 @@
 ### Languages and Key Tools
 To engage in [algorithmic trading](../a/accountability.md) effectively, programming is indispensable. The most commonly used programming languages in this domain include:
 
-- **Python**: Python is heavily used in [algorithmic trading](../a/accountability.md) due to its simple syntax, extensive libraries (such as NumPy, pandas, Matplotlib, and SciPy), and frameworks for machine learning like TensorFlow and scikit-learn. Python's ability to [handle](../h/handle.md) data manipulation and automate tasks makes it essential.
+- **Python**: Python is heavily used in [algorithmic trading](../a/accountability.md) due to its simple syntax, extensive libraries (such as NumPy, pandas, Matplotlib, and SciPy), and frameworks for [machine learning](../m/machine_learning.md) like [TensorFlow](../t/tensorflow.md) and scikit-learn. Python's ability to [handle](../h/handle.md) data manipulation and automate tasks makes it essential.
 - **C++**: Known for its speed and [efficiency](../e/efficiency.md), C++ is often used for high-frequency trading where milliseconds matter. It provides low-level memory manipulation and quick [execution](../e/execution.md).
 - **R**: Specialized in statistical computing and graphics, R is used for developing and testing statistical models.
 - **Java**: Known for its portability and performance, Java is also used in trading platforms for developing large-scale [trading systems](../t/trading_systems.md).
@@ -148,12 +148,12 @@ Proficiency in data analysis empowers traders to build more accurate and reliabl
 
 ## Machine Learning
 
-Machine learning is increasingly being adopted in [algorithmic trading](../a/accountability.md) to develop data-driven [trading algorithms](../t/trading_algorithms.md). Key aspects include:
+[Machine learning](../m/machine_learning.md) is increasingly being adopted in [algorithmic trading](../a/accountability.md) to develop data-driven [trading algorithms](../t/trading_algorithms.md). Key aspects include:
 
 ### Types of Learning
-- **Supervised Learning**: Building [predictive models](../p/predictive_models_in_trading.md) from historical labeled data (e.g., stock prices).
-- **Unsupervised Learning**: Identifying hidden patterns or groupings in data without labeled outcomes (e.g., clustering similar [stocks](../s/stock.md)).
-- **Reinforcement Learning**: Algorithm learns to make trading decisions by receiving rewards or penalties based on the outcome of its actions.
+- **[Supervised Learning](../s/supervised_learning.md)**: Building [predictive models](../p/predictive_models_in_trading.md) from historical labeled data (e.g., stock prices).
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Identifying hidden patterns or groupings in data without labeled outcomes (e.g., clustering similar [stocks](../s/stock.md)).
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Algorithm learns to make trading decisions by receiving rewards or penalties based on the outcome of its actions.
 
 ### Algorithms
 - **Regression Models**: [Linear regression](../l/linear_regression.md), [logistic regression](../l/logistic_regression_in_trading.md).
@@ -172,7 +172,7 @@ rf_clf.fit(features, labels)
 predictions = rf_clf.predict(features)
 ```
 
-Machine learning enables the development of adaptive and self-improving [trading strategies](../t/trading_strategies.md).
+[Machine learning](../m/machine_learning.md) enables the development of adaptive and self-improving [trading strategies](../t/trading_strategies.md).
 
 ## Network Engineering
 
@@ -204,6 +204,6 @@ s.close()
 
 ## Conclusion
 
-[Algorithmic trading](../a/accountability.md) requires a multifaceted skillset that blends programming, [quantitative analysis](../q/quantitative_analysis.md), financial knowledge, [risk management](../r/risk_management.md), data analysis, machine learning, and network engineering. Mastering these hard skills can provide a competitive edge in developing, implementing, and optimizing [trading algorithms](../t/trading_algorithms.md).
+[Algorithmic trading](../a/accountability.md) requires a multifaceted skillset that blends programming, [quantitative analysis](../q/quantitative_analysis.md), financial knowledge, [risk management](../r/risk_management.md), data analysis, [machine learning](../m/machine_learning.md), and network engineering. Mastering these hard skills can provide a competitive edge in developing, implementing, and optimizing [trading algorithms](../t/trading_algorithms.md).
 
 Leveraging the power of modern technology and [mathematical models](../m/mathematical_models_in_trading.md), algorithmic traders can [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities that were previously inaccessible to human traders, driving more efficient and effective [trading strategies](../t/trading_strategies.md).

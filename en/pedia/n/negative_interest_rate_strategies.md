@@ -34,7 +34,7 @@ Negative [interest](../i/interest.md) rates profoundly impact [financial markets
 
 4. **[Equity Market](../e/equity_market.md) Adaptation:** [Trading systems](../t/trading_systems.md) need to account for increased [market](../m/market.md) [volatility](../v/volatility.md) and shifts in [equity](../e/equity.md) valuations driven by [negative interest rate](../n/negative_interest_rate.md) policies. Algorithms should integrate macroeconomic indicators and central [bank](../b/bank.md) communications to predict [market](../m/market.md) movements.
 
-5. **Machine Learning:** Utilizing advanced machine learning models can help in predicting [market](../m/market.md) responses to changes in [interest rate](../i/interest_rate.md) policies. Algorithms can learn from historical patterns and refine [trading strategies](../t/trading_strategies.md) accordingly.
+5. **[Machine Learning](../m/machine_learning.md):** Utilizing advanced [machine learning](../m/machine_learning.md) models can help in predicting [market](../m/market.md) responses to changes in [interest rate](../i/interest_rate.md) policies. Algorithms can learn from historical patterns and refine [trading strategies](../t/trading_strategies.md) accordingly.
 
 6. **Smart [Order Routing](../o/order_routing.md):** In a fragmented [market](../m/market.md) environment, smart [order routing](../o/order_routing.md) algorithms can help achieve the best possible [execution](../e/execution.md) by navigating through [multiple](../m/multiple.md) trading venues to match buyers with sellers efficiently.
 
@@ -70,7 +70,7 @@ One of the critical aspects of adopting [negative interest rate](../n/negative_i
 
 The continuation of [negative interest rate](../n/negative_interest_rate.md) policies depends on several factors including global [economic recovery](../e/economic_recovery.md), [inflation](../i/inflation.md) rates, and [monetary policy](../m/monetary_policy.md) evolution. Financial innovations and the advancement in [artificial intelligence](../a/artificial_intelligence_in_trading.md) promise to enhance algo trading capabilities, allowing for even more sophisticated strategies in navigating this complex environment.
 
-As central banks continue exploring unconventional monetary policies, [algorithmic trading](../a/algorithmic_trading.md) firms [will](../w/will.md) likely innovate further, leveraging [big data analytics](../b/big_data_analytics_in_trading.md) and machine learning to maintain competitive advantages and manage the intricacies inherent in [negative interest rate](../n/negative_interest_rate.md) environments.
+As central banks continue exploring unconventional monetary policies, [algorithmic trading](../a/algorithmic_trading.md) firms [will](../w/will.md) likely innovate further, leveraging [big data analytics](../b/big_data_analytics_in_trading.md) and [machine learning](../m/machine_learning.md) to maintain competitive advantages and manage the intricacies inherent in [negative interest rate](../n/negative_interest_rate.md) environments.
 
 In a future characterized by increasingly interconnected economies and accelerated technological growth, the role of [algorithmic trading](../a/algorithmic_trading.md) in deciphering and capitalizing on negative [interest](../i/interest.md) rates [will](../w/will.md) only become more crucial.
 

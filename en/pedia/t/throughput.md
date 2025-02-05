@@ -71,7 +71,7 @@ Regular benchmarking and [stress testing](../s/stress_testing.md) of systems can
 Adopting cloud services can [offer](../o/offer.md) scalable resources that automatically adjust to the data [load](../l/load.md), maximizing throughput without the need for significant upfront [infrastructure](../i/infrastructure.md) investments.
 
 ### AI and Machine Learning
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) technologies can predict and optimize throughput by identifying bottlenecks and suggesting improvements.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) technologies can predict and optimize throughput by identifying bottlenecks and suggesting improvements.
 
 ### Streamlining Workflows
 Revisiting and streamlining operational workflows can eliminate unnecessary steps and processes, improving overall system [efficiency](../e/efficiency.md).

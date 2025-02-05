@@ -1,6 +1,6 @@
 # Backpropagation in Neural Networks
 
-Backpropagation, short for "backward propagation of errors," is a fundamental algorithm used for training [artificial neural networks](../a/artificial_neural_networks.md). It is a supervised learning technique used primarily for minimizing the error in predictions by adjusting the weights of neurons based on the error at the output. This method is essential to the training process of [deep learning](../d/deep_learning.md) models, particularly multi-layered [neural networks](../n/neural_networks_in_trading.md), such as deep [neural networks](../n/neural_networks_in_trading.md).
+Backpropagation, short for "backward propagation of errors," is a fundamental algorithm used for training [artificial neural networks](../a/artificial_neural_networks.md). It is a [supervised learning](../s/supervised_learning.md) technique used primarily for minimizing the error in predictions by adjusting the weights of neurons based on the error at the output. This method is essential to the training process of [deep learning](../d/deep_learning.md) models, particularly multi-layered [neural networks](../n/neural_networks_in_trading.md), such as deep [neural networks](../n/neural_networks_in_trading.md).
 
 ## Components of Neural Networks
 
@@ -171,7 +171,7 @@ Backpropagation, and by extension [neural networks](../n/neural_networks_in_trad
 - **[Finance](../f/finance.md)**: For [algorithmic trading](../a/algorithmic_trading.md), [credit](../c/credit.md) scoring, and [fraud](../f/fraud.md) detection. Companies like [Two Sigma](https://www.twosigma.com/) and [Jane Street](https://www.janestreet.com/) [leverage](../l/leverage.md) [deep learning](../d/deep_learning.md) in their [trading strategies](../t/trading_strategies.md).
 - **Healthcare**: For medical image analysis, genomics, and personalized treatment plans.
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: For machine translation, [sentiment analysis](../s/sentiment_analysis.md), and chatbots.
-- **Computer Vision**: For image and video recognition, self-driving cars, and facial recognition systems. Companies like [DeepMind](https://deepmind.com/) (a subsidiary of Alphabet) and [OpenAI](https://openai.com/) are at the forefront of AI research in these fields.
+- **[Computer Vision](../c/computer_vision.md)**: For image and video recognition, self-driving cars, and facial recognition systems. Companies like [DeepMind](https://deepmind.com/) (a subsidiary of Alphabet) and [OpenAI](https://openai.com/) are at the forefront of AI research in these fields.
 - **Gaming**: For AI opponents, game strategy development, and real-time decision-making.
 
 ## Challenges and Considerations

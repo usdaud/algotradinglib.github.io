@@ -27,7 +27,7 @@ Quantitative research employs advanced statistical methods to uncover patterns a
 [Mathematical models](../m/mathematical_models_in_trading.md) are the cornerstone of quantitative research. They [leverage](../l/leverage.md) historical data to predict future [market](../m/market.md) behaviors and form the backbone of many [trading strategies](../t/trading_strategies.md). Common types of models include:
 - **[Time Series](../t/time_series.md) Models**: ARIMA, [GARCH models](../g/garch_models.md) are often used to forecast stock prices.
 - **[Factor Models](../f/factor_models.md)**: CAPM and multi-[factor models](../f/factor_models.md) help in understanding [risk](../r/risk.md) and [return](../r/return.md).
-- **Machine Learning Models**: Algorithms like Random Forest, Gradient Boosting, and [Neural Networks](../n/neural_networks_in_trading.md) provide sophisticated [predictive analytics](../p/predictive_analytics.md).
+- **[Machine Learning](../m/machine_learning.md) Models**: Algorithms like Random Forest, Gradient Boosting, and [Neural Networks](../n/neural_networks_in_trading.md) provide sophisticated [predictive analytics](../p/predictive_analytics.md).
 
 ### Programming and Algorithm Development 
 
@@ -93,10 +93,10 @@ Several platforms and tools support the rigorous demands of quantitative researc
 
 ### Machine Learning in Quantitative Research
 
-The infusion of machine learning techniques into quantitative research has created new paradigms for data analysis and [predictive modeling](../p/predictive_modeling.md):
-- **Supervised Learning**: Used for classification and regression problems.
-- **Unsupervised Learning**: Techniques like clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) applied for [pattern recognition](../p/pattern_recognition.md).
-- **Reinforcement Learning**: [Adaptive algorithms](../a/adaptive_algorithms.md) optimizing [trading strategies](../t/trading_strategies.md) through continuous learning.
+The infusion of [machine learning](../m/machine_learning.md) techniques into quantitative research has created new paradigms for data analysis and [predictive modeling](../p/predictive_modeling.md):
+- **[Supervised Learning](../s/supervised_learning.md)**: Used for classification and regression problems.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Techniques like clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) applied for [pattern recognition](../p/pattern_recognition.md).
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: [Adaptive algorithms](../a/adaptive_algorithms.md) optimizing [trading strategies](../t/trading_strategies.md) through continuous learning.
 
 ### Regulatory Considerations
 

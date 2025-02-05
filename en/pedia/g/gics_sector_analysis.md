@@ -195,7 +195,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), GICS sectors help in crea
 
 ### Advanced Analytics
 
-With GICS, traders can employ advanced analytics and machine learning models to analyze sector-specific data, identify patterns, and predict future movements. This can lead to the development of sophisticated [trading strategies](../t/trading_strategies.md) that consider fundamental and technical factors unique to each sector.
+With GICS, traders can employ advanced analytics and [machine learning](../m/machine_learning.md) models to analyze sector-specific data, identify patterns, and predict future movements. This can lead to the development of sophisticated [trading strategies](../t/trading_strategies.md) that consider fundamental and technical factors unique to each sector.
 
 ### Risk Management
 

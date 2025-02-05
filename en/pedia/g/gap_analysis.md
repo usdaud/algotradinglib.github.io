@@ -66,7 +66,7 @@ Make the necessary changes and closely monitor the performance to assess the eff
 Statistical techniques like [regression analysis](../r/regression_analysis.md), [hypothesis testing](../h/hypothesis_testing.md), and [variance analysis](../v/variance_analysis.md) can help in understanding the discrepancies and their implications.
 
 ### Machine Learning
-Machine learning can be exceptionally useful in identifying patterns and explaining the causes behind [gaps](../g/gap.md). Techniques such as unsupervised learning can help in [anomaly detection](../a/anomaly_detection.md), which is critical in understanding performance deviations.
+[Machine learning](../m/machine_learning.md) can be exceptionally useful in identifying patterns and explaining the causes behind [gaps](../g/gap.md). Techniques such as [unsupervised learning](../u/unsupervised_learning.md) can help in [anomaly detection](../a/anomaly_detection.md), which is critical in understanding performance deviations.
 
 ### Backtesting Platforms
 Using [robust](../r/robust.md) [backtesting](../b/backtesting.md) platforms can help in performing what-if analyses to understand how potential changes might affect the algorithm's performance. Platforms like [QuantConnect](../q/quantconnect.md), MetaTrader and others provide tools for in-depth [backtesting](../b/backtesting.md) and validation.
@@ -84,10 +84,10 @@ A retail Forex [trader](../t/trader.md) noticed a gap between their backtested r
 
 ## Future Trends
 
-With the advancement in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, gap analysis techniques are expected to become more sophisticated. Future trends include:
+With the advancement in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), gap analysis techniques are expected to become more sophisticated. Future trends include:
 
 - **Real-Time Gap Analysis**: The ability to perform real-time gap analysis using streaming data technologies.
-- **Enhanced [Predictive Modeling](../p/predictive_modeling.md)**: Utilizing advanced machine learning models to predict [gaps](../g/gap.md) before they occur.
+- **Enhanced [Predictive Modeling](../p/predictive_modeling.md)**: Utilizing advanced [machine learning](../m/machine_learning.md) models to predict [gaps](../g/gap.md) before they occur.
 - **Automated [Correction](../c/correction.md) Mechanisms**: Development of self-[learning algorithms](../l/learning_algorithms_in_trading.md) that can automatically adjust to bridge identified [gaps](../g/gap.md) without manual intervention.
 
 ## Conclusion

@@ -68,7 +68,7 @@ In [algorithmic trading](../a/accountability.md), return metrics enable traders 
 
 ### Hyperparameter Tuning
 
-In machine learning-based [trading systems](../t/trading_systems.md), hyperparameter tuning involves optimizing parameters to achieve the best possible return. Metrics such as [Sharpe Ratio](../s/sharpe_ratio.md) and annualized return are crucial in this process.
+In [machine learning](../m/machine_learning.md)-based [trading systems](../t/trading_systems.md), hyperparameter tuning involves optimizing parameters to achieve the best possible return. Metrics such as [Sharpe Ratio](../s/sharpe_ratio.md) and annualized return are crucial in this process.
 
 ## Fintech Applications
 

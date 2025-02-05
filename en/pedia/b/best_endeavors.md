@@ -18,10 +18,10 @@ Statistical [arbitrage](../a/arbitrage.md) or "stat-arb" involves exploiting ine
 
 ## Machine Learning and AI
 
-In recent years, the application of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) has transformed [algorithmic trading](../a/accountability.md). These technologies enable the creation of self-learning trading bots that can adapt to new [market](../m/market.md) conditions on the fly. Leading firms include:
+In recent years, the application of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) has transformed [algorithmic trading](../a/accountability.md). These technologies enable the creation of self-learning trading bots that can adapt to new [market](../m/market.md) conditions on the fly. Leading firms include:
 
 - **Kensho Technologies** ([Kensho Technologies](https://www.kensho.com)): A company specializing in AI for [financial markets](../f/financial_market.md).
-- **AQR [Capital](../c/capital.md) Management** ([AQR Capital Management](https://www.aqr.com)): Integrating machine learning models into their [trading strategies](../t/trading_strategies.md), AQR is a pioneer in [quantitative trading](../q/quantitative_trading.md).
+- **AQR [Capital](../c/capital.md) Management** ([AQR Capital Management](https://www.aqr.com)): Integrating [machine learning](../m/machine_learning.md) models into their [trading strategies](../t/trading_strategies.md), AQR is a pioneer in [quantitative trading](../q/quantitative_trading.md).
 
 ## Quantitative Research Firms
 
@@ -116,6 +116,6 @@ Decentralized [Finance](../f/finance.md) leverages [blockchain](../b/blockchain_
 AI's role in [algorithmic trading](../a/accountability.md) continues to grow, with more advanced models being developed to predict [market](../m/market.md) trends, execute high-frequency trades, and adapt to [market](../m/market.md) changes autonomously.
 
 - **DeepMind** ([DeepMind](https://deepmind.com)): Although known for AI research, there is potential for financial [market](../m/market.md) applications.
-- **[Alpaca](../a/alpaca.md)** ([Alpaca](https://alpaca.markets)): Specializes in API-based trading platforms that [leverage](../l/leverage.md) machine learning for better [trade](../t/trade.md) [execution](../e/execution.md).
+- **[Alpaca](../a/alpaca.md)** ([Alpaca](https://alpaca.markets)): Specializes in API-based trading platforms that [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) for better [trade](../t/trade.md) [execution](../e/execution.md).
 
 [Algorithmic trading](../a/accountability.md) represents a convergence of [finance](../f/finance.md) and technology, and the best endeavors in this field continue to push the limits of what's achievable. These advancements not only enhance trading [efficiency](../e/efficiency.md) but also bring new levels of sophistication, [risk management](../r/risk_management.md), and regulatory compliance to the [financial markets](../f/financial_market.md).

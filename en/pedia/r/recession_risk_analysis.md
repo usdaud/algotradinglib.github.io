@@ -40,7 +40,7 @@ Tightening [credit](../c/credit.md) conditions and increasing [default](../d/def
 [Quantitative models](../q/quantitative_models.md) use statistical techniques and historical data to forecast recessions. These models may include:
 
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Techniques such as ARIMA (AutoRegressive Integrated Moving Average) models forecast future values based on past data.
-- **Machine Learning**: Algorithms like [random forests](../r/random_forests_in_trading.md), [neural networks](../n/neural_networks_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) can be trained on historical data to predict recessions.
+- **[Machine Learning](../m/machine_learning.md)**: Algorithms like [random forests](../r/random_forests_in_trading.md), [neural networks](../n/neural_networks_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) can be trained on historical data to predict recessions.
 - **Macroeconomic Models**: These include [structural models](../s/structural_models_in_trading.md) that incorporate various economic theories and relationships between different economic variables.
 
 ### 2. Econometric Analysis

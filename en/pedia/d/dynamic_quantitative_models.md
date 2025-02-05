@@ -18,7 +18,7 @@ Dynamic [Quantitative Models](../q/quantitative_models.md) employ statistical te
 
 3. **Model Development**:
     - **Statistical Methods**: Traditional methods like [Regression Analysis](../r/regression_analysis.md), ARIMA models, and [GARCH models](../g/garch_models.md).
-    - **Machine Learning**: Techniques including [Decision Trees](../d/decision_trees.md), [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md).
+    - **[Machine Learning](../m/machine_learning.md)**: Techniques including [Decision Trees](../d/decision_trees.md), [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md).
 
 4. **Model Calibration**:
     - **[Backtesting](../b/backtesting.md)**: Models are tested using historical data to evaluate their performance.
@@ -48,19 +48,19 @@ Dynamic [Quantitative Models](../q/quantitative_models.md) are grounded in vario
 
 ### Machine Learning Techniques
 
-Machine learning (ML) techniques are increasingly used in DQMs to enhance predictive power and adaptability:
+[Machine learning](../m/machine_learning.md) (ML) techniques are increasingly used in DQMs to enhance predictive power and adaptability:
 
-1. **Supervised Learning**:
+1. **[Supervised Learning](../s/supervised_learning.md)**:
     - **Linear and [Logistic Regression](../l/logistic_regression_in_trading.md)**: Basic forms of regression for continuous and binary outcomes.
     - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Effective for classification and regression challenges.
     - **[Decision Trees](../d/decision_trees.md) and [Random Forests](../r/random_forests_in_trading.md)**: [Handle](../h/handle.md) non-linear relationships and feature interactions.
     - **[Neural Networks](../n/neural_networks_in_trading.md)**: Capture complex patterns using layers of interconnected nodes.
 
-2. **Unsupervised Learning**:
+2. **[Unsupervised Learning](../u/unsupervised_learning.md)**:
     - **[K-Means Clustering](../k/k-means_clustering_in_trading.md)**: Identifies [underlying](../u/underlying.md) structures in data.
     - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces dimensionality for computational [efficiency](../e/efficiency.md).
 
-3. **Reinforcement Learning**:
+3. **[Reinforcement Learning](../r/reinforcement_learning.md)**:
     - **Temporal Difference Learning**: Adjusts predictions based on learned corrections.
     - **Q-Learning**: Identifies optimal strategies by learning from interactions with the [market](../m/market.md) environment.
 
@@ -69,7 +69,7 @@ Machine learning (ML) techniques are increasingly used in DQMs to enhance predic
 Several companies have successfully implemented DQMs in their [trading systems](../t/trading_systems.md):
 
 1. **Two Sigma**:
-    - [Two Sigma](https://www.twosigma.com/) employs machine learning and vast datasets to create adaptive [trading strategies](../t/trading_strategies.md), consistently outperforming traditional [hedge](../h/hedge.md) funds.
+    - [Two Sigma](https://www.twosigma.com/) employs [machine learning](../m/machine_learning.md) and vast datasets to create adaptive [trading strategies](../t/trading_strategies.md), consistently outperforming traditional [hedge](../h/hedge.md) funds.
 
 2. **Renaissance Technologies**:
     - Renaissance Technologies utilizes statistical models and real-time data adaptation to achieve unmatched [market](../m/market.md) returns through its flagship Medallion [Fund](../f/fund.md).
@@ -108,4 +108,4 @@ Several companies have successfully implemented DQMs in their [trading systems](
 5. **Ethical Considerations**:
     - Addressing ethical concerns related to [market manipulation](../m/market_manipulation.md) and fairness.
 
-Dynamic [Quantitative Models](../q/quantitative_models.md) represent the forefront of [algorithmic trading](../a/algorithmic_trading.md), blending statistical rigor with machine learning to adapt to evolving [market](../m/market.md) conditions. As technology and [data analytics](../d/data_analytics.md) continue to advance, DQMs are poised to play an increasingly essential role in optimizing [trading strategies](../t/trading_strategies.md) and managing [financial risk](../f/financial_risk.md).
+Dynamic [Quantitative Models](../q/quantitative_models.md) represent the forefront of [algorithmic trading](../a/algorithmic_trading.md), blending statistical rigor with [machine learning](../m/machine_learning.md) to adapt to evolving [market](../m/market.md) conditions. As technology and [data analytics](../d/data_analytics.md) continue to advance, DQMs are poised to play an increasingly essential role in optimizing [trading strategies](../t/trading_strategies.md) and managing [financial risk](../f/financial_risk.md).

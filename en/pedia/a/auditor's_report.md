@@ -39,7 +39,7 @@ Organizations involved in [algorithmic trading](../a/accountability.md) are subj
 
 ### Continuous Assurance and Automation
 
-As [algorithmic trading](../a/accountability.md) relies heavily on automation, firms are increasingly adopting continuous [assurance](../a/assurance.md) methodologies. This approach involves ongoing, real-time auditing facilitated by technology such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning models. Continuous [assurance](../a/assurance.md) provides more timely and dynamic audit reports, which can be particularly advantageous in the fast-paced world of [algorithmic trading](../a/accountability.md).
+As [algorithmic trading](../a/accountability.md) relies heavily on automation, firms are increasingly adopting continuous [assurance](../a/assurance.md) methodologies. This approach involves ongoing, real-time auditing facilitated by technology such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) models. Continuous [assurance](../a/assurance.md) provides more timely and dynamic audit reports, which can be particularly advantageous in the fast-paced world of [algorithmic trading](../a/accountability.md).
 
 ### Example Firms with Auditor’s Report Implementation
 

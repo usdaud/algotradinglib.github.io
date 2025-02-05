@@ -39,7 +39,7 @@ Analyzing [financial statements](../f/financial_statements.md) provides insights
 [Stress testing](../s/stress_testing.md) involves evaluating the potential impact of extreme conditions on an entity's ability to meet its [debt](../d/debt.md) [obligations](../o/obligation.md). [Scenario analysis](../s/scenario_analysis.md) tests how various unforeseeable events could affect the borrower's financial stability.
 
 ### Machine Learning and AI
-Advanced algorithms and machine learning models are increasingly used to predict [credit](../c/credit.md) [risk](../r/risk.md). These models can process large datasets, identifying patterns that traditional methods might miss. Companies like Zest AI (https://www.zest.ai/) specialize in AI-driven [credit](../c/credit.md) [risk](../r/risk.md) assessment.
+Advanced algorithms and [machine learning](../m/machine_learning.md) models are increasingly used to predict [credit](../c/credit.md) [risk](../r/risk.md). These models can process large datasets, identifying patterns that traditional methods might miss. Companies like Zest AI (https://www.zest.ai/) specialize in AI-driven [credit](../c/credit.md) [risk](../r/risk.md) assessment.
 
 ### Portfolio Management
 [Diversification](../d/diversification.md) helps manage [credit](../c/credit.md) [risk](../r/risk.md) across a portfolio by spreading exposure across various borrowers, industries, and geographic regions. Strategic [asset allocation](../a/asset_allocation.md) mitigates the [risk](../r/risk.md) of large losses from a single [default](../d/default.md).
@@ -78,7 +78,7 @@ The [European Sovereign Debt Crisis](../e/european_sovereign_debt_crisis.md) und
 ## Emerging Trends
 
 ### Fintech Innovations
-Fintech companies are transforming [credit](../c/credit.md) [risk](../r/risk.md) assessment by leveraging [big data](../b/big_data_in_trading.md), machine learning, and [blockchain](../b/blockchain_in_trading.md) technology. Innovations include more accurate [credit](../c/credit.md) scoring models and real-time [risk](../r/risk.md) assessments, making [credit](../c/credit.md) more accessible and safer.
+Fintech companies are transforming [credit](../c/credit.md) [risk](../r/risk.md) assessment by leveraging [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md) technology. Innovations include more accurate [credit](../c/credit.md) scoring models and real-time [risk](../r/risk.md) assessments, making [credit](../c/credit.md) more accessible and safer.
 
 ### Sustainable Finance
 The growing emphasis on Environmental, Social, and Governance (ESG) factors is influencing [credit](../c/credit.md) [risk](../r/risk.md) assessment. Lenders and investors are increasingly considering ESG criteria to identify long-term risks and opportunities.

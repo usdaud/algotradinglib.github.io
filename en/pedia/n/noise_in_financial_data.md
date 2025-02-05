@@ -34,7 +34,7 @@ Statistical methods like variance ratio tests and [autocorrelation](../a/autocor
 
 ### 3. **Machine Learning**
 
-Machine learning models can be trained to distinguish between [noise](../n/noise.md) and meaningful patterns in historical data. Techniques such as clustering and [neural networks](../n/neural_networks_in_trading.md) can identify non-obvious relationships that might be obscured by [noise](../n/noise.md).
+[Machine learning](../m/machine_learning.md) models can be trained to distinguish between [noise](../n/noise.md) and meaningful patterns in historical data. Techniques such as clustering and [neural networks](../n/neural_networks_in_trading.md) can identify non-obvious relationships that might be obscured by [noise](../n/noise.md).
 
 ## Impact of Noise on Trading Strategies
 

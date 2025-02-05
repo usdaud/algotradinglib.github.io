@@ -82,7 +82,7 @@ Any [algorithmic trading](../a/accountability.md) strategy needs rigorous [backt
 
 Several [quantitative trading](../q/quantitative_trading.md) firms employ sophisticated algorithms that could theoretically use EBITA as part of their models. Below are two examples:
 
-1. **Two Sigma Investments**: A leading quantitative [firm](../f/firm.md) that uses machine learning and vast amounts of data to make trading decisions. [Two Sigma](https://www.twosigma.com)
+1. **Two Sigma Investments**: A leading quantitative [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md) and vast amounts of data to make trading decisions. [Two Sigma](https://www.twosigma.com)
 2. **Renaissance Technologies**: Another prominent player in the quant space known for leveraging [mathematical models](../m/mathematical_models_in_trading.md). [Renaissance Technologies](https://www.rentec.com)
 
 ## EBITA in Financial Reporting and Analysis

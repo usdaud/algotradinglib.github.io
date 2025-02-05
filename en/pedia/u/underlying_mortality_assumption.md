@@ -69,7 +69,7 @@ The advent of technology has significantly improved the accuracy and reliability
 
 ### Machine Learning and AI
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being used to refine mortality assumptions. These technologies can process large datasets, identify patterns, and make predictions with greater accuracy than traditional methods. For example, AI can analyze health records, genetic data, and lifestyle information to provide personalized mortality [risk](../r/risk.md) assessments.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being used to refine mortality assumptions. These technologies can process large datasets, identify patterns, and make predictions with greater accuracy than traditional methods. For example, AI can analyze health records, genetic data, and lifestyle information to provide personalized mortality [risk](../r/risk.md) assessments.
 
 ### Wearable Technology
 

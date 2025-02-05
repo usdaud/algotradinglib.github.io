@@ -73,8 +73,8 @@ Modern outperformance tracking employs advanced technologies and [software tools
 4. **[Risk Management](../r/risk_management.md) Systems**
    - Providers like RiskMetrics Group [offer](../o/offer.md) software solutions that incorporate sophisticated [risk management](../r/risk_management.md) tools to calculate metrics like VaR ([Value](../v/value.md) at [Risk](../r/risk.md)) and CVaR (Conditional [Value](../v/value.md) at [Risk](../r/risk.md)), which are crucial for comprehensive performance assessment.
 
-5. **Machine Learning and AI**
-   - Leveraging advanced machine learning and AI techniques can greatly enhance outperformance tracking by analyzing vast datasets and uncovering hidden patterns that traditional methods might overlook.
+5. **[Machine Learning](../m/machine_learning.md) and AI**
+   - Leveraging advanced [machine learning](../m/machine_learning.md) and AI techniques can greatly enhance outperformance tracking by analyzing vast datasets and uncovering hidden patterns that traditional methods might overlook.
 
 ### Practical Example: Using QuantConnect for Outperformance Tracking
 
@@ -94,7 +94,7 @@ Modern outperformance tracking employs advanced technologies and [software tools
 
 4. **[Optimization](../o/optimization.md)**:
    - **Step 7**: Adjust and optimize the strategy based on performance insights and changing [market](../m/market.md) conditions.
-   - **Step 8**: Iterate this process to refine the strategy continually, employing additional tools like machine learning models for dynamic adjustments.
+   - **Step 8**: Iterate this process to refine the strategy continually, employing additional tools like [machine learning](../m/machine_learning.md) models for dynamic adjustments.
 
 ### Challenges and Best Practices
 

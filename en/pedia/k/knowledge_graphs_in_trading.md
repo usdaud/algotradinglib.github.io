@@ -75,7 +75,7 @@ Several tools and technologies support the development and use of knowledge grap
 
 - **Graph Databases**: Examples include Neo4j, Amazon Neptune, and Microsoft Azure Cosmos DB.
 - **Semantic Web Technologies**: RDF, SPARQL, and OWL are standards for representing and querying knowledge graphs.
-- **Machine Learning and NLP**: Algorithms for entity recognition, relationship extraction, and [sentiment analysis](../s/sentiment_analysis.md) are crucial for building and enriching knowledge graphs.
+- **[Machine Learning](../m/machine_learning.md) and NLP**: Algorithms for entity recognition, relationship extraction, and [sentiment analysis](../s/sentiment_analysis.md) are crucial for building and enriching knowledge graphs.
 
 ## Challenges and Considerations
 
@@ -90,7 +90,7 @@ There are some challenges and considerations when implementing knowledge graphs 
 
 The use of knowledge graphs in trading is expected to grow as the technology matures and more advanced tools become available. Future trends include:
 
-- **Integration with AI**: Combining knowledge graphs with AI and machine learning can enhance [predictive analytics](../p/predictive_analytics.md) and automated [trading strategies](../t/trading_strategies.md).
+- **Integration with AI**: Combining knowledge graphs with AI and [machine learning](../m/machine_learning.md) can enhance [predictive analytics](../p/predictive_analytics.md) and automated [trading strategies](../t/trading_strategies.md).
 - **Real-time Analysis**: Developing real-time knowledge graphs that update dynamically with live data feeds to provide instantaneous insights.
 - **Cross-domain Applications**: Expanding the use of knowledge graphs beyond trading into areas like [risk management](../r/risk_management.md), compliance, and [financial planning](../f/financial_planning.md).
 

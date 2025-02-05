@@ -68,7 +68,7 @@ In HFT, the importance of timely data processing cannot be overstated. Zero-Lag 
 
 ### Machine Learning Integration
 
-[Algorithmic trading](../a/algorithmic_trading.md) strategies increasingly [leverage](../l/leverage.md) machine learning models, which benefit from cleaner, lag-free data. Integrating a Zero-Lag Filter can help in feeding more accurate inputs into these models, improving their prediction and [execution](../e/execution.md) [efficiency](../e/efficiency.md).
+[Algorithmic trading](../a/algorithmic_trading.md) strategies increasingly [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) models, which benefit from cleaner, lag-free data. Integrating a Zero-Lag Filter can help in feeding more accurate inputs into these models, improving their prediction and [execution](../e/execution.md) [efficiency](../e/efficiency.md).
 
 ## Companies and Platforms Using Zero-Lag Filters
 

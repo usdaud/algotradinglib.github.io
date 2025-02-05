@@ -44,7 +44,7 @@ In [algorithmic trading](../a/accountability.md), automated systems are programm
 
 ### Machine Learning and AI
 
-Modern advancements have introduced machine learning and AI into [trend analysis](../t/trend_analysis.md). These algorithms learn from historical data to make predictions about future trends. They can identify complex patterns and relationships that are not apparent through traditional methods.
+Modern advancements have introduced [machine learning](../m/machine_learning.md) and AI into [trend analysis](../t/trend_analysis.md). These algorithms learn from historical data to make predictions about future trends. They can identify complex patterns and relationships that are not apparent through traditional methods.
 
 ## Case Studies and Practical Examples
 
@@ -68,7 +68,7 @@ Price movements caused by random events or [market](../m/market.md) [noise](../n
 
 ### Overfitting in Algorithms
 
-[Overfitting](../o/overfitting.md) occurs when an algorithm is too closely fitted to historical data and performs poorly on new, unseen data. This [issue](../i/issue.md) is particularly relevant in AI and machine learning models used for [trend analysis](../t/trend_analysis.md).
+[Overfitting](../o/overfitting.md) occurs when an algorithm is too closely fitted to historical data and performs poorly on new, unseen data. This [issue](../i/issue.md) is particularly relevant in AI and [machine learning](../m/machine_learning.md) models used for [trend analysis](../t/trend_analysis.md).
 
 ## Trend Analysis Tools and Platforms
 

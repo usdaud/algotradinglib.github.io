@@ -51,14 +51,14 @@ To work with non-stationary data, various transformation techniques can be appli
 - **State Space Models:** Represent [time series](../t/time_series.md) using state variables that evolve over time.
 
 ### Machine Learning Approaches
-Machine learning models do not require strong assumptions about stationarity:
+[Machine learning](../m/machine_learning.md) models do not require strong assumptions about stationarity:
 - **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs):** [Neural networks](../n/neural_networks_in_trading.md) that capture time dependencies, useful for [forecasting](../f/forecasting.md).
 - **Long Short Term Memory (LSTM):** A type of RNN that handles long-term dependencies better by mitigating the vanishing gradient problem.
 - **Ensemble Methods:** Combining [multiple](../m/multiple.md) models to improve robustness against non-stationarity.
 
 ### Practical Examples
 Several financial firms are using advanced techniques to manage non-stationary markets:
-- **Two Sigma:** [Two Sigma](https://www.twosigma.com/) uses machine learning and [big data](../b/big_data_in_trading.md) to adapt to changing [market](../m/market.md) conditions.
+- **Two Sigma:** [Two Sigma](https://www.twosigma.com/) uses [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to adapt to changing [market](../m/market.md) conditions.
 - **Citadel Securities:** [Citadel Securities](https://www.citadelsecurities.com/) implements advanced statistical techniques and [adaptive algorithms](../a/adaptive_algorithms.md).
 - **DE Shaw:** [DE Shaw](https://www.deshaw.com/) employs sophisticated mathematical modeling to address non-stationarity.
 
@@ -77,4 +77,4 @@ Pair trading involves simultaneous buying and selling of highly correlated asset
 - **Cointegration Analysis:** Ensuring that the pairs are cointegrated, meaning they share a long-term [equilibrium](../e/equilibrium.md) relationship, which can adjust for non-stationary behavior.
 
 ## Conclusion
-Non-stationary data analysis is a cornerstone of successful [algorithmic trading](../a/algorithmic_trading.md). By understanding and implementing adaptive techniques, traders can build [robust](../r/robust.md) models that account for the dynamic nature of [financial markets](../f/financial_market.md). Employing statistical tests, transformation methods, [adaptive algorithms](../a/adaptive_algorithms.md), and advanced machine learning approaches can significantly enhance the ability to navigate and [profit](../p/profit.md) from non-stationary data environments.
+Non-stationary data analysis is a cornerstone of successful [algorithmic trading](../a/algorithmic_trading.md). By understanding and implementing adaptive techniques, traders can build [robust](../r/robust.md) models that account for the dynamic nature of [financial markets](../f/financial_market.md). Employing statistical tests, transformation methods, [adaptive algorithms](../a/adaptive_algorithms.md), and advanced [machine learning](../m/machine_learning.md) approaches can significantly enhance the ability to navigate and [profit](../p/profit.md) from non-stationary data environments.

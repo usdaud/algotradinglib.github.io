@@ -76,7 +76,7 @@ Despite its apparent advantages, Positive Pay is not without challenges and cons
 As financial technologies evolve, Positive Pay systems are increasingly being integrated with advanced technologies to enhance their effectiveness:
 
 ### Machine Learning and AI
-   [Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) can augment Positive Pay by identifying patterns and anomalies in [transaction](../t/transaction.md) data that may not be immediately evident through traditional methods. These technologies can thus help in predicting and preventing potential [fraud](../f/fraud.md) more effectively.
+   [Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) can augment Positive Pay by identifying patterns and anomalies in [transaction](../t/transaction.md) data that may not be immediately evident through traditional methods. These technologies can thus help in predicting and preventing potential [fraud](../f/fraud.md) more effectively.
 
 ### Blockchain
    Integrating [blockchain](../b/blockchain_in_trading.md) technology could further enhance the [security](../s/security.md) of Positive Pay systems. [Blockchain](../b/blockchain_in_trading.md)’s immutable ledger can ensure that [check](../c/check.md) details remain unaltered once issued and approved, thus providing an additional layer of [security](../s/security.md).

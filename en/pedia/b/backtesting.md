@@ -13,7 +13,7 @@ The first and foremost step in backtesting is selecting accurate and relevant hi
 
 ## Defining the Strategy
 
-A [trading strategy](../t/trading_strategy.md) involves a set of rules and logic that dictate when to enter or exit a [trade](../t/trade.md). These rules are based on various analysis techniques, such as [technical indicators](../t/technical_indicators.md), statistical methods, or machine learning models. The specifics include:
+A [trading strategy](../t/trading_strategy.md) involves a set of rules and logic that dictate when to enter or exit a [trade](../t/trade.md). These rules are based on various analysis techniques, such as [technical indicators](../t/technical_indicators.md), statistical methods, or [machine learning](../m/machine_learning.md) models. The specifics include:
 
 - **Entry and Exit Rules**: Criteria for initiating and closing a [trade](../t/trade.md).
 - **[Position Sizing](../p/position_sizing.md)**: Determines the amount of [capital](../c/capital.md) allocated to each [trade](../t/trade.md).

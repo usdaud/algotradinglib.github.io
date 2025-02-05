@@ -84,7 +84,7 @@ Technological advancements have revolutionized the trading of the Indian Rupee i
 
 ### Trading Platforms
 
-Various trading platforms, both domestic and international, [offer](../o/offer.md) advanced technological tools for trading in INR. These platforms provide real-time [data analytics](../d/data_analytics.md), automated trading, and machine learning-based [predictive indicators](../p/predictive_indicators.md). They help traders make informed decisions and optimize their [trading strategies](../t/trading_strategies.md).
+Various trading platforms, both domestic and international, [offer](../o/offer.md) advanced technological tools for trading in INR. These platforms provide real-time [data analytics](../d/data_analytics.md), automated trading, and [machine learning](../m/machine_learning.md)-based [predictive indicators](../p/predictive_indicators.md). They help traders make informed decisions and optimize their [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

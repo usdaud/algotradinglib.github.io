@@ -35,7 +35,7 @@ Rule-based systems are one of the earliest forms of knowledge systems. They cons
 Ontological engineering involves the creation of ontologies to categorize and model concepts within specific domains. Ontologies play a critical role in semantic web technologies and information retrieval systems.
 
 ### Machine Learning
-Machine Learning (ML) approaches are increasingly integrated with Knowledge Engineering. Techniques such as supervised learning, unsupervised learning, and reinforcement learning are used to automatically extract patterns and build models from data.
+[Machine Learning](../m/machine_learning.md) (ML) approaches are increasingly integrated with Knowledge Engineering. Techniques such as [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md) are used to automatically extract patterns and build models from data.
 
 ### Natural Language Processing (NLP)
 NLP techniques allow systems to process and understand human language. This is particularly important in Knowledge Engineering for tasks like information retrieval, text summarization, and dialogue systems.
@@ -65,7 +65,7 @@ Knowledge-based Decision Support Systems (DSS) [offer](../o/offer.md) valuable i
 ### Example Companies
 Several companies are at the forefront of integrating Knowledge Engineering into [algorithmic trading](../a/accountability.md) systems:
 
-- **Numerai:** Numerai is a [hedge fund](../h/hedge_fund.md) that leverages data scientists globally using machine learning and Knowledge Engineering techniques to crowdsource [trading strategies](../t/trading_strategies.md). [Numerai](https://numer.ai/)
+- **Numerai:** Numerai is a [hedge fund](../h/hedge_fund.md) that leverages data scientists globally using [machine learning](../m/machine_learning.md) and Knowledge Engineering techniques to crowdsource [trading strategies](../t/trading_strategies.md). [Numerai](https://numer.ai/)
 
 - **Kensho Technologies:** Kensho uses advanced Knowledge Engineering and AI to make financial predictions and provide comprehensive economic analyses. Kensho's systems can analyze large datasets and provide contextual insights for better decision-making. [Kensho Technologies](https://www.kensho.com/)
 

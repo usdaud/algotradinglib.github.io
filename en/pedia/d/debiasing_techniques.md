@@ -46,7 +46,7 @@ Ensemble methods combine [multiple](../m/multiple.md) models to produce a consen
 Adversarial training involves generating adversarial examples—slightly modified inputs designed to deceive the model—and training the model to withstand these perturbations. This method enhances model robustness and reduces the [risk](../r/risk.md) of over-relying on specific input patterns.
 
 ### 7. Data Augmentation
-Data augmentation involves creating additional synthetic data points based on the existing dataset. This technique can help mitigate historical bias by introducing variances and diversities not initially present in the dataset.
+[Data augmentation](../d/data_augmentation.md) involves creating additional synthetic data points based on the existing dataset. This technique can help mitigate historical bias by introducing variances and diversities not initially present in the dataset.
 
 ### 8. Backtesting on Unseen Periods
 Conducting backtests on periods of data that were not used in the model development process helps assess the model's real-world performance. This practice ensures that the model's results are not merely an artifact of historical fitting.
@@ -58,7 +58,7 @@ Anchored walk-forward cross-validation partitions the data into sequential train
 Bayesian methods incorporate prior knowledge into the model training process, providing a probabilistic framework to [handle](../h/handle.md) [uncertainty](../u/uncertainty_in_trading.md). [Bayesian inference](../b/bayesian_inference.md) can help mitigate biases by integrating prior distributions and updating beliefs in a systematic manner.
 
 ### 11. Probabilistic Programming
-Probabilistic programming languages such as Stan, PyMC3, and TensorFlow Probability [offer](../o/offer.md) tools to define and infer complex probabilistic models. These languages enable the modeling of uncertainties and biases more explicitly and rigorously.
+Probabilistic programming languages such as Stan, PyMC3, and [TensorFlow](../t/tensorflow.md) Probability [offer](../o/offer.md) tools to define and infer complex probabilistic models. These languages enable the modeling of uncertainties and biases more explicitly and rigorously.
 
 ### 12. Quantile Regression
 Quantile regression estimates the conditional quantiles of a response variable [distribution](../d/distribution.md), rather than the mean. This approach provides a more comprehensive view of the potential outcomes and can be used to reduce bias in tail predictions.
@@ -94,4 +94,4 @@ Website: [AQR Capital Management](https://www.aqr.com/)
 
 ## Conclusion
 
-The significance of debiasing techniques in [algorithmic trading](../a/algorithmic_trading.md) cannot be overstated. By addressing various biases, these techniques enable the creation of more [robust](../r/robust.md), reliable, and fair [trading algorithms](../t/trading_algorithms.md). Whether through traditional statistical methods or advanced machine learning approaches, the consistent application of debiasing techniques is crucial for achieving sustainable success in [algorithmic trading](../a/algorithmic_trading.md).
+The significance of debiasing techniques in [algorithmic trading](../a/algorithmic_trading.md) cannot be overstated. By addressing various biases, these techniques enable the creation of more [robust](../r/robust.md), reliable, and fair [trading algorithms](../t/trading_algorithms.md). Whether through traditional statistical methods or advanced [machine learning](../m/machine_learning.md) approaches, the consistent application of debiasing techniques is crucial for achieving sustainable success in [algorithmic trading](../a/algorithmic_trading.md).

@@ -67,7 +67,7 @@ Advancements in technology have enabled the development of real-time monitoring 
 In the realm of high-frequency trading, embargoes pose unique challenges. HFT firms must implement sophisticated algorithms that can adapt to embargoes in real-time, ensuring that their [trading strategies](../t/trading_strategies.md) comply with regulatory requirements while maintaining profitability.
 
 ### AI and Machine Learning
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are being increasingly utilized to predict and manage embargoes. These technologies can analyze vast amounts of data to forecast [market](../m/market.md) events that may trigger embargoes, allowing trading firms to adjust their strategies proactively.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are being increasingly utilized to predict and manage embargoes. These technologies can analyze vast amounts of data to forecast [market](../m/market.md) events that may trigger embargoes, allowing trading firms to adjust their strategies proactively.
 
 ## Conclusion
 

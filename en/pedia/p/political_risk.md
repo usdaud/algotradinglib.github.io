@@ -104,7 +104,7 @@ Algorithmic traders are increasingly incorporating political [risk](../r/risk.md
 
 ### Sentiment Analysis
 
-Using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning (ML), algorithms analyze news headlines, [social media](../s/social_media.md), and other sources to gauge political sentiment. This analysis can help predict [market](../m/market.md) reactions to political events.
+Using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) (ML), algorithms analyze news headlines, [social media](../s/social_media.md), and other sources to gauge political sentiment. This analysis can help predict [market](../m/market.md) reactions to political events.
 
 ### Predictive Modeling
 

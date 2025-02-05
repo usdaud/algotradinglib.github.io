@@ -68,11 +68,11 @@ Monte Carlo simulations can predict the probabilities of different outcomes, all
 
 ### S&P 500 Vertical Spread Optimization
 
-Using historical data and machine learning, various vertical [spreads](../s/spreads.md) were optimized on the S&P 500 [index](../i/index_instrument.md). The study revealed that [optimization](../o/optimization.md) could enhance the [risk](../r/risk.md)-reward ratio by 15%.
+Using historical data and [machine learning](../m/machine_learning.md), various vertical [spreads](../s/spreads.md) were optimized on the S&P 500 [index](../i/index_instrument.md). The study revealed that [optimization](../o/optimization.md) could enhance the [risk](../r/risk.md)-reward ratio by 15%.
 
 ### Algorithmic Optimization in Bitcoin Options
 
-In a study involving [Bitcoin](../b/bitcoin.md) [options](../o/options.md), the use of Monte Carlo simulations and machine learning significantly improved the effectiveness of [bull](../b/bull.md) and bear [spreads](../s/spreads.md).
+In a study involving [Bitcoin](../b/bitcoin.md) [options](../o/options.md), the use of Monte Carlo simulations and [machine learning](../m/machine_learning.md) significantly improved the effectiveness of [bull](../b/bull.md) and bear [spreads](../s/spreads.md).
 
 ## Conclusion
 

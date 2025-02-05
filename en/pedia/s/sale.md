@@ -154,7 +154,7 @@ Evolving [customer](../c/customer.md) expectations require businesses to continu
 
 ### AI and Machine Learning
 
-AI and machine learning are transforming sales processes by providing insights into [customer](../c/customer.md) behavior, automating routine tasks, and enhancing decision-making. Tools employing AI, like [Conversica](https://www.conversica.com/), [offer](../o/offer.md) AI-driven sales assistants and chatbots.
+AI and [machine learning](../m/machine_learning.md) are transforming sales processes by providing insights into [customer](../c/customer.md) behavior, automating routine tasks, and enhancing decision-making. Tools employing AI, like [Conversica](https://www.conversica.com/), [offer](../o/offer.md) AI-driven sales assistants and chatbots.
 
 ### Omnichannel Sales
 

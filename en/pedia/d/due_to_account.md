@@ -127,7 +127,7 @@ Financial regulations are continually evolving. Keeping Due to Accounts in line 
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) can significantly enhance the management of Due to Accounts in algo trading. 
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) can significantly enhance the management of Due to Accounts in algo trading. 
 
 - **[Predictive Analytics](../p/predictive_analytics.md):** ML algorithms can predict [market](../m/market.md) movements and adjust liabilities accordingly.
 - **[Anomaly Detection](../a/anomaly_detection.md):** AI can identify unusual patterns in [trade](../t/trade.md) data, which could indicate discrepancies.

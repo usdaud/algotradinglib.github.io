@@ -67,7 +67,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), [harmonic patterns](../h/
 
 ### Algorithms and Harmonic Patterns
 
-Several algorithms can be used to recognize and [trade](../t/trade.md) [harmonic patterns](../h/harmonic_patterns.md), incorporating machine learning and [pattern recognition](../p/pattern_recognition.md) techniques.
+Several algorithms can be used to recognize and [trade](../t/trade.md) [harmonic patterns](../h/harmonic_patterns.md), incorporating [machine learning](../m/machine_learning.md) and [pattern recognition](../p/pattern_recognition.md) techniques.
 
 #### Pattern Recognition Algorithms
 

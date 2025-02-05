@@ -1,6 +1,6 @@
 # Representative Sample
 
-In the world of [finance](../f/finance.md) and trading, making decisions based on data is critical. Whether it’s for [risk management](../r/risk_management.md), [forecasting](../f/forecasting.md) [market](../m/market.md) trends, or developing [trading algorithms](../t/trading_algorithms.md), financial professionals often rely on statistical methods to derive insights from vast amounts of data. One of the key concepts in these statistical methods is the "representative sample." This is the cornerstone of statistical analysis and machine learning, and it ensures that inferences drawn from a sample can be reliably applied to the broader population.
+In the world of [finance](../f/finance.md) and trading, making decisions based on data is critical. Whether it’s for [risk management](../r/risk_management.md), [forecasting](../f/forecasting.md) [market](../m/market.md) trends, or developing [trading algorithms](../t/trading_algorithms.md), financial professionals often rely on statistical methods to derive insights from vast amounts of data. One of the key concepts in these statistical methods is the "representative sample." This is the cornerstone of statistical analysis and [machine learning](../m/machine_learning.md), and it ensures that inferences drawn from a sample can be reliably applied to the broader population.
 
 ## What is a Representative Sample?
 
@@ -16,7 +16,7 @@ The concept of a representative sample is extremely important in trading and [fi
 
 2. **[Market Forecasting](../m/market_forecasting.md)**: Accurate predictions of [market](../m/market.md) movements are crucial for developing [trading strategies](../t/trading_strategies.md). A representative sample helps in creating models that can predict future trends reliably.
 
-3. **Algorithm Development**: In [algorithmic trading](../a/accountability.md), machine learning models are trained on historical data. It’s essential that the training data is representative of the real-world [market](../m/market.md) conditions to ensure that the algorithm performs well in live trading conditions.
+3. **Algorithm Development**: In [algorithmic trading](../a/accountability.md), [machine learning](../m/machine_learning.md) models are trained on historical data. It’s essential that the training data is representative of the real-world [market](../m/market.md) conditions to ensure that the algorithm performs well in live trading conditions.
 
 4. **Regulatory Compliance**: Financial institutions often need to comply with various regulations that require accurate reporting and analysis. A representative sample ensures that these reports and analyses are based on accurate and reliable data.
 
@@ -54,7 +54,7 @@ Consider a scenario where an algorithmic [trader](../t/trader.md) wants to devel
 
 3. **[Sampling](../s/sampling.md)**: Within each stratum, randomly select a proportional number of [stocks](../s/stock.md) for analysis.
 
-4. **Algorithm Training**: Use the sampled data to train machine learning models.
+4. **Algorithm Training**: Use the sampled data to train [machine learning](../m/machine_learning.md) models.
 
 5. **Validation**: Validate the algorithm on out-of-sample data to ensure it performs well in different [market](../m/market.md) conditions.
 

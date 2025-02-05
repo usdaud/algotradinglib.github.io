@@ -51,7 +51,7 @@ Hedging variance swaps requires managing exposure to changes in the variance of 
 ### Innovations in Variance Swap Hedging
 
 1. **[Algorithmic Trading](../a/algorithmic_trading.md)**:
-   - With advancements in [algorithmic trading](../a/algorithmic_trading.md) and AI, firms now [leverage](../l/leverage.md) machine learning models to dynamically [hedge](../h/hedge.md) complex [derivative](../d/derivative.md) exposures.
+   - With advancements in [algorithmic trading](../a/algorithmic_trading.md) and AI, firms now [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) models to dynamically [hedge](../h/hedge.md) complex [derivative](../d/derivative.md) exposures.
    
 2. **Improved [Data Analytics](../d/data_analytics.md)**:
    - [Big data](../b/big_data_in_trading.md) and advanced analytics enable traders to make more informed decisions by analyzing vast datasets for patterns and correlations.

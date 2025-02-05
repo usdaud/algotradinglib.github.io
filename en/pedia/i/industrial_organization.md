@@ -114,7 +114,7 @@ The field of industrial organization relies on [robust](../r/robust.md) empirica
 - Natural Experiments: Exploit random or quasi-random variations in [market](../m/market.md) conditions to identify causal relationships.
 - Data Sources: Employ a wide [range](../r/range.md) of data, including [firm](../f/firm.md)-level data, [market](../m/market.md)-level data, experimental data, and survey data.
 
-Advancements in [data analytics](../d/data_analytics.md), machine learning, and computational power have further enhanced the ability to analyze complex [market dynamics](../m/market_dynamics.md) and predict future trends.
+Advancements in [data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and computational power have further enhanced the ability to analyze complex [market dynamics](../m/market_dynamics.md) and predict future trends.
 
 ## Prominent Academic research and Practitioners
 

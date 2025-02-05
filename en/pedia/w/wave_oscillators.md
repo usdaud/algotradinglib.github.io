@@ -83,7 +83,7 @@ As technology advances, the analysis and application of wave oscillators in trad
 
 ### Machine Learning and Artificial Intelligence
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are revolutionizing the field of [technical analysis](../t/technical_analysis.md). By leveraging AI algorithms, traders can enhance their wave [oscillator](../o/oscillator.md) analysis, identifying more complex patterns and improving predictive accuracy. These technologies enable the development of adaptive [trading strategies](../t/trading_strategies.md) that can learn and evolve with changing [market](../m/market.md) conditions.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are revolutionizing the field of [technical analysis](../t/technical_analysis.md). By leveraging AI algorithms, traders can enhance their wave [oscillator](../o/oscillator.md) analysis, identifying more complex patterns and improving predictive accuracy. These technologies enable the development of adaptive [trading strategies](../t/trading_strategies.md) that can learn and evolve with changing [market](../m/market.md) conditions.
 
 ### Big Data and Quantitative Analysis
 

@@ -49,7 +49,7 @@ Executing large block trades involves [multiple](../m/multiple.md) challenges, p
 
 ### Technological Innovations and Future Trends
 
-**AI and Machine Learning:** Innovations in AI and machine learning are further refining [algorithmic trading](../a/algorithmic_trading.md) strategies for block trades. Machine learning models can predict [market](../m/market.md) movements, optimize [trade](../t/trade.md) [execution](../e/execution.md) segments, and make real-time adjustments to strategies.
+**AI and [Machine Learning](../m/machine_learning.md):** Innovations in AI and [machine learning](../m/machine_learning.md) are further refining [algorithmic trading](../a/algorithmic_trading.md) strategies for block trades. [Machine learning](../m/machine_learning.md) models can predict [market](../m/market.md) movements, optimize [trade](../t/trade.md) [execution](../e/execution.md) segments, and make real-time adjustments to strategies.
 
 **[Blockchain](../b/blockchain_in_trading.md) Technology:** [Blockchain](../b/blockchain_in_trading.md) offers potential for increased [transparency](../t/transparency.md), [security](../s/security.md), and [efficiency](../e/efficiency.md) in the [execution](../e/execution.md) and settlement of block trades. 
 

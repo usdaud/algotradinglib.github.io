@@ -88,7 +88,7 @@ Analyzing historical HDD data can reveal trends that are indicative of changing 
 
 ### Machine Learning and AI
 
-Modern advancements in machine learning and AI are being leveraged to create more accurate predictions of HDDs. These technologies can process vast amounts of historical data, along with real-time weather inputs, to improve [forecasting models](../f/forecasting_models.md).
+Modern advancements in [machine learning](../m/machine_learning.md) and AI are being leveraged to create more accurate predictions of HDDs. These technologies can process vast amounts of historical data, along with real-time weather inputs, to improve [forecasting models](../f/forecasting_models.md).
 
 ### Integration with IoT
 

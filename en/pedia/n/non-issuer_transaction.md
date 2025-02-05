@@ -70,7 +70,7 @@ Electronic trading platforms provide a digital interface for executing non-[issu
 
 ### Artificial Intelligence and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are increasingly being used to analyze [market](../m/market.md) data and execute trades. These technologies can identify patterns, predict price movements, and automate [trading strategies](../t/trading_strategies.md), making markets more efficient.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are increasingly being used to analyze [market](../m/market.md) data and execute trades. These technologies can identify patterns, predict price movements, and automate [trading strategies](../t/trading_strategies.md), making markets more efficient.
 
 ## Challenges and Risks
 

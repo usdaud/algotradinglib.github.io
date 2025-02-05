@@ -88,7 +88,7 @@ Betterment, a prominent robo-advisor, uses percentage change extensively to [off
 
 ### Predictive Analytics
 
-[Predictive analytics](../p/predictive_analytics.md) in [finance](../f/finance.md) use historical percentage change data to forecast future trends. Machine learning models are trained on past data, where percentage changes act as features to predict future price movements or [economic conditions](../e/economic_conditions.md).
+[Predictive analytics](../p/predictive_analytics.md) in [finance](../f/finance.md) use historical percentage change data to forecast future trends. [Machine learning](../m/machine_learning.md) models are trained on past data, where percentage changes act as features to predict future price movements or [economic conditions](../e/economic_conditions.md).
 
 ## Percentage Change and Market Sentiment
 

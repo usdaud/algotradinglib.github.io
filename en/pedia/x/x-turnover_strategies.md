@@ -70,7 +70,7 @@ Implementing effective X-[turnover strategies](../t/turnover_strategies.md) dema
 
 - **Servers and Datacenters**: High-frequency trading firms often deploy their servers in close proximity to stock exchanges to minimize latency.
   
-- **Advanced Algorithms**: Machine learning and AI-driven algorithms can enhance decision-making processes, making them more efficient and adaptive to [market](../m/market.md) changes.
+- **Advanced Algorithms**: [Machine learning](../m/machine_learning.md) and AI-driven algorithms can enhance decision-making processes, making them more efficient and adaptive to [market](../m/market.md) changes.
 
 #### Real-time Data
 
@@ -94,7 +94,7 @@ Companies employing X-[turnover strategies](../t/turnover_strategies.md) must ad
 
 ### Future of X-Turnover Strategies
 
-The future of X-[turnover strategies](../t/turnover_strategies.md) in [algorithmic trading](../a/algorithmic_trading.md) seems promising with the advancement of technology, AI, and machine learning. 
+The future of X-[turnover strategies](../t/turnover_strategies.md) in [algorithmic trading](../a/algorithmic_trading.md) seems promising with the advancement of technology, AI, and [machine learning](../m/machine_learning.md). 
 
 #### Innovations on the Horizon
 

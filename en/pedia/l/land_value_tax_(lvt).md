@@ -56,7 +56,7 @@ The debate over [Land Value](../l/land_value.md) Tax continues in modern economi
 
 ### LVT in the Digital Era
 
-With advancements in technology, modern implementations of LVT could [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md), AI, and machine learning to more precisely assess land values. These technologies can analyze vast amounts of data from [real estate](../r/real_estate.md) transactions, economic activities, and infrastructural developments to provide transparent and accurate land valuations. Governments could use online platforms to manage tax collection, making the process more efficient and accessible for taxpayers.
+With advancements in technology, modern implementations of LVT could [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md), AI, and [machine learning](../m/machine_learning.md) to more precisely assess land values. These technologies can analyze vast amounts of data from [real estate](../r/real_estate.md) transactions, economic activities, and infrastructural developments to provide transparent and accurate land valuations. Governments could use online platforms to manage tax collection, making the process more efficient and accessible for taxpayers.
 
 ## Conclusion
 

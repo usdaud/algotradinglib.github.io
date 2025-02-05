@@ -77,7 +77,7 @@ Selecting a suitable cloud provider depends on various factors such as cost, fea
 
 3. **Google Cloud Platform (GCP)**:
    - Offers computing, storage, and advanced [data analytics](../d/data_analytics.md) services such as BigQuery.
-   - Provides tools for machine learning and AI integration.
+   - Provides tools for [machine learning](../m/machine_learning.md) and AI integration.
    - Visit [GCP](https://cloud.google.com/solutions/financial-services).
 
 ### Infrastructure Setup
@@ -160,7 +160,7 @@ The integration of [cloud computing](../c/cloud_computing_in_trading.md) and [al
 
 ### Machine Learning and AI
 
-The application of machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in [algorithmic trading](../a/algorithmic_trading.md) is gaining traction. Cloud providers [offer](../o/offer.md) [robust](../r/robust.md) ML/AI services, enabling traders to build, train, and deploy models that can predict [market](../m/market.md) movements, recognize patterns, and optimize strategies.
+The application of [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in [algorithmic trading](../a/algorithmic_trading.md) is gaining traction. Cloud providers [offer](../o/offer.md) [robust](../r/robust.md) ML/AI services, enabling traders to build, train, and deploy models that can predict [market](../m/market.md) movements, recognize patterns, and optimize strategies.
 
 ### Quantum Computing
 

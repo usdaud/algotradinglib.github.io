@@ -57,7 +57,7 @@ In the context of digital and [algorithmic trading](../a/accountability.md), MES
 
 ## Technological Enhancements
 
-Technological advancements play a critical role in enabling firms to achieve MES. Investments in automation, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning can drive efficiencies that lower [production costs](../p/production_costs.md). For example, the implementation of [automated trading systems](../a/automated_trading_systems.md) and [predictive analytics](../p/predictive_analytics.md) in [finance](../f/finance.md) enables firms to [trade](../t/trade.md) at higher volumes with reduced personnel costs.
+Technological advancements play a critical role in enabling firms to achieve MES. Investments in automation, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) can drive efficiencies that lower [production costs](../p/production_costs.md). For example, the implementation of [automated trading systems](../a/automated_trading_systems.md) and [predictive analytics](../p/predictive_analytics.md) in [finance](../f/finance.md) enables firms to [trade](../t/trade.md) at higher volumes with reduced personnel costs.
 
 ## Challenges and Considerations
 

@@ -44,7 +44,7 @@ To manage [prepayment](../p/prepayment.md) [risk](../r/risk.md), investors may e
 3. **Adjustable-Rate Mortgages (ARMs):** [Investing](../i/investing.md) in ARMs can mitigate [prepayment](../p/prepayment.md) [risk](../r/risk.md) since the [interest](../i/interest.md) rates on these loans adjust with [market](../m/market.md) conditions, reducing the incentive for refinancing.
 
 ### Use of Technology
-Financial technology (fintech) has introduced advanced algorithms and machine learning models to predict [prepayment](../p/prepayment.md) behavior with higher accuracy. For example, platforms like [Better Mortgage](https://www.better.com/) use advanced [data analytics](../d/data_analytics.md) to predict [prepayment](../p/prepayment.md) [risk](../r/risk.md) more effectively.
+Financial technology (fintech) has introduced advanced algorithms and [machine learning](../m/machine_learning.md) models to predict [prepayment](../p/prepayment.md) behavior with higher accuracy. For example, platforms like [Better Mortgage](https://www.better.com/) use advanced [data analytics](../d/data_analytics.md) to predict [prepayment](../p/prepayment.md) [risk](../r/risk.md) more effectively.
 
 ## Case Studies and Examples
 

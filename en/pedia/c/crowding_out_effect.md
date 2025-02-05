@@ -50,7 +50,7 @@ In [financial markets](../f/financial_market.md), the crowding out effect can be
 
 - **[Currency](../c/currency.md) Fluctuations**:
     - Forex [trading algorithms](../t/trading_algorithms.md) should [factor](../f/factor.md) in potential crowding out effects that can lead to [currency](../c/currency.md) appreciation or [depreciation](../d/depreciation.md).
-    - Machine learning models can analyze the relationship between government [debt](../d/debt.md) issuance and subsequent [currency](../c/currency.md) movements.
+    - [Machine learning](../m/machine_learning.md) models can analyze the relationship between government [debt](../d/debt.md) issuance and subsequent [currency](../c/currency.md) movements.
 
 - **[Market Sentiment Analysis](../m/market_sentiment_analysis.md)**:
     - [Sentiment analysis tools](../s/sentiment_analysis_tools.md) can gauge the [market](../m/market.md)'s reaction to government fiscal announcements.

@@ -67,7 +67,7 @@ For further details: [Qontigo Axioma](https://www.qontigo.com/risk-solutions/)
 
 ## Machine Learning and AI in Factor Analysis
 
-The integration of machine learning and AI in [factor](../f/factor.md) analysis has revolutionized how quants extract and utilize factors. Advanced algorithms are capable of uncovering non-linear relationships and interactions among factors that traditional methods may miss.
+The integration of [machine learning](../m/machine_learning.md) and AI in [factor](../f/factor.md) analysis has revolutionized how quants extract and utilize factors. Advanced algorithms are capable of uncovering non-linear relationships and interactions among factors that traditional methods may miss.
 
 ### Artificial Neural Networks (ANNs)
 
@@ -79,6 +79,6 @@ These [ensemble learning](../e/ensemble_learning.md) methods are used to identif
 
 ## Conclusion
 
-[Factor](../f/factor.md) analysis is an indispensable tool in the arsenal of algorithmic traders. It facilitates the decomposition of complex [market](../m/market.md) data into understandable and actionable factors, which can enhance [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and [portfolio optimization](../p/portfolio_optimization.md). As markets continue to evolve, the integration of machine learning and AI into [factor](../f/factor.md) analysis [will](../w/will.md) likely uncover even more sophisticated insights, driving the future of [algorithmic trading](../a/algorithmic_trading.md).
+[Factor](../f/factor.md) analysis is an indispensable tool in the arsenal of algorithmic traders. It facilitates the decomposition of complex [market](../m/market.md) data into understandable and actionable factors, which can enhance [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and [portfolio optimization](../p/portfolio_optimization.md). As markets continue to evolve, the integration of [machine learning](../m/machine_learning.md) and AI into [factor](../f/factor.md) analysis [will](../w/will.md) likely uncover even more sophisticated insights, driving the future of [algorithmic trading](../a/algorithmic_trading.md).
 
 For a more detailed guide on [factor models](../f/factor_models.md), techniques, and implementation, you can explore specialized financial textbooks and research papers, or consider professional courses in [quantitative finance](../q/quantitative_finance.md) offered by institutions like Coursera and edX.

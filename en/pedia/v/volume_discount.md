@@ -113,7 +113,7 @@ Sellers must ensure [volume](../v/volume.md) [discount](../d/discount.md) practi
 
 ## Future Outlook
 
-The future of [volume](../v/volume.md) discounts lies in increasing digitization and data-driven decision-making. Integrating advanced technologies like AI, machine learning, and [blockchain](../b/blockchain_in_trading.md) into [discount](../d/discount.md) strategies [will](../w/will.md) enhance [efficiency](../e/efficiency.md), [transparency](../t/transparency.md), and effectiveness. As consumer behaviors evolve, dynamic and personalized [discounting](../d/discounting.md) [will](../w/will.md) become pivotal in maintaining [competitive advantage](../c/competitive_advantage.md).
+The future of [volume](../v/volume.md) discounts lies in increasing digitization and data-driven decision-making. Integrating advanced technologies like AI, [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md) into [discount](../d/discount.md) strategies [will](../w/will.md) enhance [efficiency](../e/efficiency.md), [transparency](../t/transparency.md), and effectiveness. As consumer behaviors evolve, dynamic and personalized [discounting](../d/discounting.md) [will](../w/will.md) become pivotal in maintaining [competitive advantage](../c/competitive_advantage.md).
 
 ## Conclusion
 

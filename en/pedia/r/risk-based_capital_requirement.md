@@ -72,7 +72,7 @@ Implementing [risk](../r/risk.md)-based [capital](../c/capital.md) requirements 
 
 ### Technological Advancements
 
-Advancements in technology, particularly in the fields of [data analytics](../d/data_analytics.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), and machine learning, are transforming [risk management](../r/risk_management.md) practices. These technologies can enhance the accuracy and [efficiency](../e/efficiency.md) of [risk](../r/risk.md) assessments, enabling banks to better align their [capital](../c/capital.md) with their [risk](../r/risk.md) exposures.
+Advancements in technology, particularly in the fields of [data analytics](../d/data_analytics.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), and [machine learning](../m/machine_learning.md), are transforming [risk management](../r/risk_management.md) practices. These technologies can enhance the accuracy and [efficiency](../e/efficiency.md) of [risk](../r/risk.md) assessments, enabling banks to better align their [capital](../c/capital.md) with their [risk](../r/risk.md) exposures.
 
 ### Global Harmonization
 

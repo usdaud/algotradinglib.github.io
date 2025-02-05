@@ -22,7 +22,7 @@ Another significant [indicator](../i/indicator.md) of a jobless recovery is the 
 
 ### Technological Advancements
 
-One of the primary drivers of jobless recoveries is technological advancement. Automation, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning have transformed many industries, enabling companies to achieve higher [productivity](../p/productivity.md) without proportional increases in human labor. For example, automated [manufacturing](../m/manufacturing.md) processes and sophisticated software systems can [handle](../h/handle.md) tasks that previously required many employees.
+One of the primary drivers of jobless recoveries is technological advancement. Automation, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) have transformed many industries, enabling companies to achieve higher [productivity](../p/productivity.md) without proportional increases in human labor. For example, automated [manufacturing](../m/manufacturing.md) processes and sophisticated software systems can [handle](../h/handle.md) tasks that previously required many employees.
 
 ### Globalization and Outsourcing
 

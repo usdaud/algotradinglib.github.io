@@ -10,7 +10,7 @@ The [Quantitative Finance](../q/quantitative_finance.md) subreddit, found at r/q
 
 3. **Career Advice**: The subreddit provides a space for members to discuss career paths, job opportunities, interview experiences, and advice for breaking into the field of [quantitative finance](../q/quantitative_finance.md).
 
-4. **Programming and Development**: Discussions frequently focus on the technical side of [quantitative finance](../q/quantitative_finance.md), including coding in languages such as Python, R, MATLAB, and C++, and using libraries and tools like Pandas, NumPy, and TensorFlow.
+4. **Programming and Development**: Discussions frequently focus on the technical side of [quantitative finance](../q/quantitative_finance.md), including coding in languages such as Python, R, MATLAB, and C++, and using libraries and tools like Pandas, NumPy, and [TensorFlow](../t/tensorflow.md).
 
 5. **Research Sharing**: The subreddit encourages sharing of academic research, [industry](../i/industry.md) reports, and case studies related to [quantitative finance](../q/quantitative_finance.md) and [financial engineering](../f/financial_engineering.md).
 
@@ -34,7 +34,7 @@ The [Quantitative Finance](../q/quantitative_finance.md) subreddit, found at r/q
 Discussions in r/quantfinance often cover the use of various APIs and libraries for [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md):
 - **REST APIs**: For accessing financial data and executing trades programmatically.
 - **WebSocket APIs**: For real-time data streaming.
-- **Financial Libraries**: Libraries such as Pandas, NumPy, SciPy, and TensorFlow for data analysis and [financial modeling](../f/financial_modeling.md).
+- **Financial Libraries**: Libraries such as Pandas, NumPy, SciPy, and [TensorFlow](../t/tensorflow.md) for data analysis and [financial modeling](../f/financial_modeling.md).
 
 ## Clients and Partners
 The subreddit serves a diverse [range](../r/range.md) of users, including:

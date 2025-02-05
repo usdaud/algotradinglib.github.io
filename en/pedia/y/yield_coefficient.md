@@ -98,7 +98,7 @@ Diversifying the [trading strategies](../t/trading_strategies.md) and adding hed
 
 ### 5. Machine Learning
 
-Integrating machine learning techniques to model complex [market dynamics](../m/market_dynamics.md) can significantly improve the performance of [algorithmic trading](../a/algorithmic_trading.md) strategies. Machine learning models can adapt to changing [market](../m/market.md) conditions and optimize the [yield](../y/yield.md) coefficient better than static rule-based systems.
+Integrating [machine learning](../m/machine_learning.md) techniques to model complex [market dynamics](../m/market_dynamics.md) can significantly improve the performance of [algorithmic trading](../a/algorithmic_trading.md) strategies. [Machine learning](../m/machine_learning.md) models can adapt to changing [market](../m/market.md) conditions and optimize the [yield](../y/yield.md) coefficient better than static rule-based systems.
 
 ## Conclusion
 

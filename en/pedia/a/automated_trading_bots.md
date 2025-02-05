@@ -25,7 +25,7 @@ Automated trading bots are sophisticated programs that interact with [financial 
    - **[Technical Analysis](../t/technical_analysis.md)**: Utilize past [market](../m/market.md) data to predict future movements. Common tools include moving averages, exponential averages, and MACD.
    - **[Fundamental Analysis](../f/fundamental_analysis.md)**: Focus on the inherent [value](../v/value.md) of a [security](../s/security.md) by analyzing [economic indicators](../e/economic_indicators.md), [financial statements](../f/financial_statements.md), etc.
    - **[Sentiment Analysis](../s/sentiment_analysis.md)**: [Leverage](../l/leverage.md) [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze public opinion on [social media](../s/social_media.md) and other platforms.
-   - **Machine Learning**: Use statistical techniques to enable the bot to learn from historical data and improve its performance over time.
+   - **[Machine Learning](../m/machine_learning.md)**: Use statistical techniques to enable the bot to learn from historical data and improve its performance over time.
    
 3. **[Trading Strategy](../t/trading_strategy.md)**
 
@@ -117,9 +117,9 @@ Automated trading bots are sophisticated programs that interact with [financial 
 
 ### Future Trends
 
-1. **Machine Learning and AI**
+1. **[Machine Learning](../m/machine_learning.md) and AI**
 
-   The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) continues to drive innovations in automated trading. Advanced AI models can adapt to changing [market](../m/market.md) conditions in real-time.
+   The integration of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) continues to drive innovations in automated trading. Advanced AI models can adapt to changing [market](../m/market.md) conditions in real-time.
 
 2. **[Quantum Computing](../q/quantum_computing_in_trading.md)**
 

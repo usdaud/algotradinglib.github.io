@@ -38,7 +38,7 @@ Traditional models like Black-Scholes assume normal log-returns, which might not
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems often employ machine learning and high-frequency [trading strategies](../t/trading_strategies.md). Nonparametric [regression methods](../r/regression_methods_in_trading.md), like kernel regression or k-nearest neighbors (k-NN), are applied to forecast price movements and generate [trading signals](../t/trading_signals.md). Machine learning models, such as [random forests](../r/random_forests_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md), also benefit from nonparametric strategies to achieve a high degree of accuracy without distributional assumptions.
+[Algorithmic trading](../a/accountability.md) systems often employ [machine learning](../m/machine_learning.md) and high-frequency [trading strategies](../t/trading_strategies.md). Nonparametric [regression methods](../r/regression_methods_in_trading.md), like kernel regression or k-nearest neighbors (k-NN), are applied to forecast price movements and generate [trading signals](../t/trading_signals.md). [Machine learning](../m/machine_learning.md) models, such as [random forests](../r/random_forests_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md), also benefit from nonparametric strategies to achieve a high degree of accuracy without distributional assumptions.
 
 ## Practical Example: Algorithmic Trading
 

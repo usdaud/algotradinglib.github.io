@@ -60,10 +60,10 @@
         [return](../r/return.md) signals
     ```
 
-4. **Machine Learning-based Strategies**:
-    Machine Learning (ML) allows for more complex strategies that can adapt and evolve with changing [market](../m/market.md) conditions. These strategies can include supervised learning techniques to forecast prices or classify [market](../m/market.md) conditions, as well as reinforcement learning for optimizing trading decisions over time.
+4. **[Machine Learning](../m/machine_learning.md)-based Strategies**:
+    [Machine Learning](../m/machine_learning.md) (ML) allows for more complex strategies that can adapt and evolve with changing [market](../m/market.md) conditions. These strategies can include [supervised learning](../s/supervised_learning.md) techniques to forecast prices or classify [market](../m/market.md) conditions, as well as [reinforcement learning](../r/reinforcement_learning.md) for optimizing trading decisions over time.
 
-    **Example Algorithm**: Using a supervised learning model to forecast stock prices.
+    **Example Algorithm**: Using a [supervised learning](../s/supervised_learning.md) model to forecast stock prices.
     ```python
     from sklearn.ensemble [import](../i/import.md) RandomForestRegressor
 
@@ -157,7 +157,7 @@ Incorporating [risk management](../r/risk_management.md) measures is crucial to 
 
 1. [QuantConnect](https://www.quantconnect.com/): An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading.
 2. [Alpaca](https://alpaca.markets/): A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that offers [robust](../r/robust.md) API support for algorithmic traders.
-3. [Two Sigma](https://www.twosigma.com/): A technology-driven investment [firm](../f/firm.md) that integrates machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) in their [trading strategies](../t/trading_strategies.md).
+3. [Two Sigma](https://www.twosigma.com/): A technology-driven investment [firm](../f/firm.md) that integrates [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) in their [trading strategies](../t/trading_strategies.md).
 4. [Jane Street](https://www.janestreet.com/): A global trading [firm](../f/firm.md) known for their [quantitative trading](../q/quantitative_trading.md) expertise.
 
 Algorithimic trading for maximum [return](../r/return.md) is the confluence of advanced computational techniques, statistical methods, and rigorous [risk management](../r/risk_management.md), all aimed at achieving optimal [financial performance](../f/financial_performance.md) in trading activities.

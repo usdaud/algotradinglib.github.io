@@ -107,7 +107,7 @@ Technological advancements and evolving regulations shape the future of HFT:
 ### 7.1 Technology
 
 - **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potential to revolutionize computational [efficiency](../e/efficiency.md) and speed in HFT algorithms.
-- **AI and Machine Learning**: Enhanced [predictive models](../p/predictive_models_in_trading.md) and [adaptive algorithms](../a/adaptive_algorithms.md) could [offer](../o/offer.md) a competitive edge.
+- **AI and [Machine Learning](../m/machine_learning.md)**: Enhanced [predictive models](../p/predictive_models_in_trading.md) and [adaptive algorithms](../a/adaptive_algorithms.md) could [offer](../o/offer.md) a competitive edge.
 
 ### 7.2 Regulation
 

@@ -92,7 +92,7 @@ Technology plays a pivotal role in modern [currency](../c/currency.md) [futures]
    Firms like [Jane Street](https://www.janestreet.com/) and [Two Sigma](https://www.twosigma.com/) extensively use [algorithmic trading](../a/algorithmic_trading.md) strategies. These firms employ sophisticated algorithms that analyze vast amounts of data to make trading decisions.
 
 3. **[Data Analytics](../d/data_analytics.md):**
-   Tools for data analysis, machine learning, and AI are widely adopted to glean insights from historical and [real-time market data](../r/real-time_market_data.md) to enhance [trading strategies](../t/trading_strategies.md).
+   Tools for data analysis, [machine learning](../m/machine_learning.md), and AI are widely adopted to glean insights from historical and [real-time market data](../r/real-time_market_data.md) to enhance [trading strategies](../t/trading_strategies.md).
 
 4. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies:**
    As [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies [gain](../g/gain.md) [momentum](../m/momentum.md), they are gradually integrating with traditional [futures](../f/futures.md) markets. Some exchanges now [offer](../o/offer.md) [bitcoin](../b/bitcoin.md) [futures](../f/futures.md), for instance.

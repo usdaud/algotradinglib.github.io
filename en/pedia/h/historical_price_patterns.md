@@ -81,7 +81,7 @@ Simple and exponential moving averages help in smoothing out price data to ident
 
 #### 2. Machine Learning Algorithms
 
-Machine learning techniques, such as [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md), can be trained to recognize complex patterns in historical price data.
+[Machine learning](../m/machine_learning.md) techniques, such as [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md), can be trained to recognize complex patterns in historical price data.
 
 #### 3. Pattern Matching Algorithms
 

@@ -91,11 +91,11 @@ Statistical [arbitrage](../a/arbitrage.md) involves using [mathematical models](
 
 ### 3. **Machine Learning Models**
 
-Machine learning models can be trained to identify patterns and predict price movements in [penny stocks](../p/penny_stocks.md):
+[Machine learning](../m/machine_learning.md) models can be trained to identify patterns and predict price movements in [penny stocks](../p/penny_stocks.md):
 
-- **Supervised Learning**: Train models on historical price data, [volume](../v/volume.md), news sentiment, and other features to predict future price movements.
+- **[Supervised Learning](../s/supervised_learning.md)**: Train models on historical price data, [volume](../v/volume.md), news sentiment, and other features to predict future price movements.
 - **Feature Engineering**: Develop features that could be predictive of price movements, such as moving averages, [Bollinger Bands](../b/bollinger_bands.md), or RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)).
-- **[Backtesting](../b/backtesting.md)**: Utilize [backtesting](../b/backtesting.md) frameworks to evaluate the performance of machine learning models on historical data. This helps in refining algorithms before deploying them in live trading environments.
+- **[Backtesting](../b/backtesting.md)**: Utilize [backtesting](../b/backtesting.md) frameworks to evaluate the performance of [machine learning](../m/machine_learning.md) models on historical data. This helps in refining algorithms before deploying them in live trading environments.
 
 ### 4. **High-Frequency Trading (HFT)**
 

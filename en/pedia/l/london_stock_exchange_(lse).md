@@ -100,7 +100,7 @@ In recent years, the LSE has been at the forefront of several key developments:
 
 - **Green [Finance](../f/finance.md)**: The LSE is a strong advocate of sustainable [finance](../f/finance.md), [offering](../o/offering.md) dedicated segments for [green bonds](../g/green_bonds.md) and other environmentally friendly financial instruments.
 
-- **Technological Advancements**: The continued adoption of technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [Big Data analytics](../b/big_data_analytics_in_trading.md) is transforming [trading strategies](../t/trading_strategies.md), [market](../m/market.md) surveillance, and [risk management](../r/risk_management.md).
+- **Technological Advancements**: The continued adoption of technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [Big Data analytics](../b/big_data_analytics_in_trading.md) is transforming [trading strategies](../t/trading_strategies.md), [market](../m/market.md) surveillance, and [risk management](../r/risk_management.md).
 
 ## Example Companies and Listings
 

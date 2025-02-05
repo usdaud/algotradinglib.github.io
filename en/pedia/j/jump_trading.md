@@ -28,7 +28,7 @@ Data is the lifeblood of Jump Trading’s operations. The [firm](../f/firm.md) c
   
 - **[Alternative Data](../a/alternative_data.md):** In addition to traditional [market](../m/market.md) data, Jump Trading also uses [alternative data](../a/alternative_data.md) sources. This can include news [sentiment analysis](../s/sentiment_analysis.md), [social media](../s/social_media.md) trends, and other non-traditional data points that may influence [market](../m/market.md) movements.
   
-- **Machine Learning and AI:** Jump Trading employs machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze data and improve [trading algorithms](../t/trading_algorithms.md). These technologies enable the [firm](../f/firm.md) to find patterns in data that are not immediately obvious to human traders.
+- **[Machine Learning](../m/machine_learning.md) and AI:** Jump Trading employs [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze data and improve [trading algorithms](../t/trading_algorithms.md). These technologies enable the [firm](../f/firm.md) to find patterns in data that are not immediately obvious to human traders.
 
 ### Risk Management
 

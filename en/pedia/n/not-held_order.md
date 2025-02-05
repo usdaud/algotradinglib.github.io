@@ -60,7 +60,7 @@ With advancements in technology, brokers now often use algorithms to execute not
 3. **Implementation [Shortfall](../s/shortfall.md)**: This strategy focuses on minimizing the cost of delayed [execution](../e/execution.md) by dynamically adjusting the [execution](../e/execution.md) rate.
 
 ### Artificial Intelligence and Machine Learning
-[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) analyze historical trading data and model potential [market](../m/market.md) scenarios to make more informed decisions regarding the [execution](../e/execution.md) of not-held orders. For example, machine learning can predict short-term price movements, thereby aiding brokers in executing orders at the most advantageous times.
+[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) analyze historical trading data and model potential [market](../m/market.md) scenarios to make more informed decisions regarding the [execution](../e/execution.md) of not-held orders. For example, [machine learning](../m/machine_learning.md) can predict short-term price movements, thereby aiding brokers in executing orders at the most advantageous times.
 
 ## Risks and Mitigation
 

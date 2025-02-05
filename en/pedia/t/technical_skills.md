@@ -6,7 +6,7 @@ In the realm of trading and [finance](../f/finance.md), technical skills play a 
 
 ### Python
 
-Python is a versatile and widely-used programming language in [finance](../f/finance.md). It offers numerous libraries and frameworks tailored for [financial analysis](../f/financial_analysis.md) and machine learning.
+Python is a versatile and widely-used programming language in [finance](../f/finance.md). It offers numerous libraries and frameworks tailored for [financial analysis](../f/financial_analysis.md) and [machine learning](../m/machine_learning.md).
 
 - **Pandas**: A powerful data manipulation and analysis library.
 - **NumPy**: A library for numerical computing, providing support for arrays.
@@ -98,44 +98,44 @@ Probability and [statistics](../s/statistics.md) are fundamental in [risk manage
 
 ### AWS (Amazon Web Services)
 
-AWS provides scalable computing resources and services for data storage, machine learning, and application hosting.
+AWS provides scalable computing resources and services for data storage, [machine learning](../m/machine_learning.md), and application hosting.
 
 - **EC2**: Virtual servers for running applications.
 - **S3**: Storage service for large datasets.
 
 ### Google Cloud Platform (GCP)
 
-Similar to AWS, GCP offers services for computing, storage, and machine learning.
+Similar to AWS, GCP offers services for computing, storage, and [machine learning](../m/machine_learning.md).
 
 - **BigQuery**: Data warehouse service for large-scale data analysis.
-- **TensorFlow**: [Open](../o/open.md)-source machine learning library, widely used for building models.
+- **[TensorFlow](../t/tensorflow.md)**: [Open](../o/open.md)-source [machine learning](../m/machine_learning.md) library, widely used for building models.
 
 ### Microsoft Azure
 
 Azure offers a [range](../r/range.md) of cloud services, including virtual machines, storage, and advanced data services.
 
-- **Azure Machine Learning**: Provides tools for building, training, and deploying machine learning models.
+- **Azure [Machine Learning](../m/machine_learning.md)**: Provides tools for building, training, and deploying [machine learning](../m/machine_learning.md) models.
 - **Azure SQL Database**: Managed database service for storing and querying data.
 
 ## Machine Learning and AI
 
 ### Supervised Learning
 
-Supervised learning involves training models on labeled data to make predictions. Common algorithms include:
+[Supervised learning](../s/supervised_learning.md) involves training models on labeled data to make predictions. Common algorithms include:
 
 - **[Linear Regression](../l/linear_regression.md)**: Predicts continuous outcomes.
 - **[Decision Trees](../d/decision_trees.md)**: Used for classification.
 
 ### Unsupervised Learning
 
-Unsupervised learning deals with unlabeled data to find hidden patterns. Key techniques include:
+[Unsupervised learning](../u/unsupervised_learning.md) deals with unlabeled data to find hidden patterns. Key techniques include:
 
 - **Clustering**: Groups similar data points, e.g., [K-means clustering](../k/k-means_clustering_in_trading.md).
 - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces the dimensionality of data for visualization and analysis.
 
 ### Reinforcement Learning
 
-Reinforcement learning (RL) involves training agents through rewards and penalties. Applications in trading include:
+[Reinforcement learning](../r/reinforcement_learning.md) (RL) involves training agents through rewards and penalties. Applications in trading include:
 
 - **Q-Learning**: Model-free algorithm to learn the [value](../v/value.md) of an action in a particular state.
 - **Deep RL**: Combines [deep learning](../d/deep_learning.md) with RL for complex decision-making scenarios.
@@ -181,4 +181,4 @@ Effective [portfolio management](../p/par.md) requires powerful tools:
 
 ## Conclusion
 
-Mastering technical skills in trading and [finance](../f/finance.md) requires a multifaceted approach. From programming and data analysis to understanding financial instruments and leveraging machine learning, these competencies are essential for navigating the complex financial landscape. Continuous learning and staying updated with the latest technologies and tools [will](../w/will.md) ensure success in this ever-evolving domain.
+Mastering technical skills in trading and [finance](../f/finance.md) requires a multifaceted approach. From programming and data analysis to understanding financial instruments and leveraging [machine learning](../m/machine_learning.md), these competencies are essential for navigating the complex financial landscape. Continuous learning and staying updated with the latest technologies and tools [will](../w/will.md) ensure success in this ever-evolving domain.

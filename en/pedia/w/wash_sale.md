@@ -70,7 +70,7 @@ Fintech platforms, like [Robinhood](https://robinhood.com) and [Wealthfront](htt
 
 ### Machine Learning
 
-[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are particularly useful for managing the complexities of [wash](../w/wash.md) sales. By analyzing trading patterns, these algorithms can predict which trades may trigger [wash](../w/wash.md) [sale](../s/sale.md) rules. Over time, machine learning models become more accurate, saving investors from potential tax complications.
+[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are particularly useful for managing the complexities of [wash](../w/wash.md) sales. By analyzing trading patterns, these algorithms can predict which trades may trigger [wash](../w/wash.md) [sale](../s/sale.md) rules. Over time, [machine learning](../m/machine_learning.md) models become more accurate, saving investors from potential tax complications.
 
 ### Blockchain and Transaction Tracking
 

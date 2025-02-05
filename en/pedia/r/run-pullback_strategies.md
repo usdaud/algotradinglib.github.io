@@ -63,7 +63,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), these strategies can be a
 
 Large financial institutions and [hedge](../h/hedge.md) funds often employ sophisticated algorithms to implement run-[pullback](../p/pullback.md) strategies. For instance:
 
-- **Two Sigma** (https://www.twosigma.com) uses advanced machine learning and statistical models for [trading strategies](../t/trading_strategies.md) including run-[pullback](../p/pullback.md) strategies.
+- **Two Sigma** (https://www.twosigma.com) uses advanced [machine learning](../m/machine_learning.md) and statistical models for [trading strategies](../t/trading_strategies.md) including run-[pullback](../p/pullback.md) strategies.
 - **AQR [Capital](../c/capital.md) Management** (https://www.aqr.com) employs quant-driven investment strategies, leveraging [trend](../t/trend.md)-following and [pullback](../p/pullback.md) models.
 
 ## Practical Considerations
@@ -100,7 +100,7 @@ Large financial institutions and [hedge](../h/hedge.md) funds often employ sophi
 ## Case Studies and Examples
 
 - **Case Study 1: Two Sigma:**
-   Two Sigma's adoption of machine learning to gauge [market](../m/market.md) trends and identify optimal [pullback](../p/pullback.md) points showcases the potential of algorithmic run-[pullback](../p/pullback.md) strategies in generating significant returns.
+   Two Sigma's adoption of [machine learning](../m/machine_learning.md) to gauge [market](../m/market.md) trends and identify optimal [pullback](../p/pullback.md) points showcases the potential of algorithmic run-[pullback](../p/pullback.md) strategies in generating significant returns.
 
 - **Case Study 2: AQR's [Trend Following](../t/trend_following.md):**
    AQR’s [trend](../t/trend.md)-following strategies often incorporate [pullback](../p/pullback.md) tactics, using statistical models to predict when a [pullback](../p/pullback.md) is ending, thus defining entry points for trades.

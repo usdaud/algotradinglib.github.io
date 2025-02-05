@@ -63,7 +63,7 @@ High-frequency [trading systems](../t/trading_systems.md) require advanced [exec
 
 ## Case Studies
 ### Investment Banks
-[Investment banks](../i/investment_bank_(ib).md) such as Goldman Sachs and Morgan Stanley have developed sophisticated [algorithmic trading](../a/algorithmic_trading.md) platforms that incorporate zero-coupon bonds into various [trading strategies](../t/trading_strategies.md). These platforms [leverage](../l/leverage.md) advanced analytics and machine learning to optimize trading decisions. For more information, you can visit their respective websites: [Goldman Sachs](https://www.goldmansachs.com/) and [Morgan Stanley](https://www.morganstanley.com/).
+[Investment banks](../i/investment_bank_(ib).md) such as Goldman Sachs and Morgan Stanley have developed sophisticated [algorithmic trading](../a/algorithmic_trading.md) platforms that incorporate zero-coupon bonds into various [trading strategies](../t/trading_strategies.md). These platforms [leverage](../l/leverage.md) advanced analytics and [machine learning](../m/machine_learning.md) to optimize trading decisions. For more information, you can visit their respective websites: [Goldman Sachs](https://www.goldmansachs.com/) and [Morgan Stanley](https://www.morganstanley.com/).
 
 ### Hedge Funds
 [Hedge](../h/hedge.md) funds often use zero-coupon bonds in their [trading strategies](../t/trading_strategies.md) to achieve high returns while managing [risk](../r/risk.md). Firms like Renaissance Technologies and Two Sigma employ quantitative analysts and data scientists to develop complex algorithms that include zero-coupon bonds.

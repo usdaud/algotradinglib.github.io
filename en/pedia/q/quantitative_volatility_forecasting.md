@@ -90,7 +90,7 @@ Where:
 
 ## Machine Learning in Volatility Forecasting
 
-Recent advancements in machine learning (ML) have opened new avenues for [volatility forecasting](../v/volatility_forecasting.md). ML techniques can model complex patterns in [financial time series](../f/financial_time_series.md) data that traditional methods might miss.
+Recent advancements in [machine learning](../m/machine_learning.md) (ML) have opened new avenues for [volatility forecasting](../v/volatility_forecasting.md). ML techniques can model complex patterns in [financial time series](../f/financial_time_series.md) data that traditional methods might miss.
 
 ### Support Vector Regression (SVR)
 
@@ -119,9 +119,9 @@ Quantitative [volatility forecasting](../v/volatility_forecasting.md) is impleme
 **[Quantconnect](../q/quantconnect.md)**: They [offer](../o/offer.md) a platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md) that includes tools for [volatility forecasting](../v/volatility_forecasting.md). Their platform supports [multiple](../m/multiple.md) programming languages and provides historical data for [backtesting](../b/backtesting.md) models.
 [Visit Quantconnect](https://www.quantconnect.com/)
 
-**Numerai**: An AI-run, crowdsourced [hedge fund](../h/hedge_fund.md), Numerai utilizes machine learning models submitted by data scientists around the world to forecast [market](../m/market.md) [volatility](../v/volatility.md) and manage portfolios.
+**Numerai**: An AI-run, crowdsourced [hedge fund](../h/hedge_fund.md), Numerai utilizes [machine learning](../m/machine_learning.md) models submitted by data scientists around the world to forecast [market](../m/market.md) [volatility](../v/volatility.md) and manage portfolios.
 [Visit Numerai](https://numer.ai/)
 
 ### Conclusion
 
-Accurate [volatility forecasting](../v/volatility_forecasting.md) is integral to numerous aspects of [finance](../f/finance.md), from trading and [risk management](../r/risk_management.md) to [derivative](../d/derivative.md) pricing and regulatory compliance. The evolution of quantitative methods, coupled with advancements in machine learning, continues to enhance the accuracy and reliability of these forecasts. As [financial markets](../f/financial_market.md) grow increasingly complex, the importance of [robust](../r/robust.md) [volatility forecasting](../v/volatility_forecasting.md) techniques [will](../w/will.md) only amplify, making it a critical area of focus for quantitative analysts and financial engineers alike.
+Accurate [volatility forecasting](../v/volatility_forecasting.md) is integral to numerous aspects of [finance](../f/finance.md), from trading and [risk management](../r/risk_management.md) to [derivative](../d/derivative.md) pricing and regulatory compliance. The evolution of quantitative methods, coupled with advancements in [machine learning](../m/machine_learning.md), continues to enhance the accuracy and reliability of these forecasts. As [financial markets](../f/financial_market.md) grow increasingly complex, the importance of [robust](../r/robust.md) [volatility forecasting](../v/volatility_forecasting.md) techniques [will](../w/will.md) only amplify, making it a critical area of focus for quantitative analysts and financial engineers alike.

@@ -12,7 +12,7 @@ Algorithmic trading has its roots in the development of electronic [trading syst
 - **1980s**: Adoption of program [trading strategies](../t/trading_strategies.md) using computers.
 - **1990s**: Development of more sophisticated [trading algorithms](../t/trading_algorithms.md) and statistical [arbitrage](../a/arbitrage.md) strategies.
 - **2000s**: Growth in high-frequency trading (HFT) driven by technological advancements and regulatory changes.
-- **2010s**: Further advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), enhancing the capabilities of algorithmic trading.
+- **2010s**: Further advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), enhancing the capabilities of algorithmic trading.
 
 ## Mechanisms of Algorithmic Trading
 
@@ -20,7 +20,7 @@ The core mechanism behind algorithmic trading involves using algorithms and [mat
 
 ### 1. Data Analysis
 
-Data analysis is the foundation of any algorithmic [trading strategy](../t/trading_strategy.md). Traders use historical price data, trading volumes, and other [market indicators](../m/market_indicators.md) to develop and test their algorithms. Advanced [data analysis techniques](../d/data_analysis_techniques.md), such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are also employed to identify patterns and make predictions.
+Data analysis is the foundation of any algorithmic [trading strategy](../t/trading_strategy.md). Traders use historical price data, trading volumes, and other [market indicators](../m/market_indicators.md) to develop and test their algorithms. Advanced [data analysis techniques](../d/data_analysis_techniques.md), such as [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are also employed to identify patterns and make predictions.
 
 ### 2. Algorithm Development
 
@@ -68,7 +68,7 @@ High-frequency trading involves executing a large number of orders in a fraction
 
 ### 6. Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) strategies use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning to analyze news articles, [social media](../s/social_media.md) posts, and other textual data. These algorithms gauge [market sentiment](../m/market_sentiment.md) and execute trades based on the insights gained from the analysis.
+[Sentiment analysis](../s/sentiment_analysis.md) strategies use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) to analyze news articles, [social media](../s/social_media.md) posts, and other textual data. These algorithms gauge [market sentiment](../m/market_sentiment.md) and execute trades based on the insights gained from the analysis.
 
 ## Advantages of Algorithmic Trading
 
@@ -143,7 +143,7 @@ As technology continues to evolve, algorithmic trading is likely to see further 
 
 ### 1. Artificial Intelligence and Machine Learning
 
-The integration of AI and machine learning in algorithmic trading is expected to grow, enabling the development of more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md). These technologies can enhance [pattern recognition](../p/pattern_recognition.md), [predictive analytics](../p/predictive_analytics.md), and decision-making processes.
+The integration of AI and [machine learning](../m/machine_learning.md) in algorithmic trading is expected to grow, enabling the development of more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md). These technologies can enhance [pattern recognition](../p/pattern_recognition.md), [predictive analytics](../p/predictive_analytics.md), and decision-making processes.
 
 ### 2. Quantum Computing
 

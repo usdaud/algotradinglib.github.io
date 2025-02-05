@@ -110,7 +110,7 @@ E&P activities have significant environmental and regulatory implications. The [
 
 The E&P [industry](../i/industry.md) is continually evolving, driven by technological advancements, changing [market dynamics](../m/market_dynamics.md), and increasing environmental concerns. Some future trends in E&P include:
 
-- **Digitalization**: The adoption of digital technologies, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md), is transforming E&P operations. These technologies enhance [efficiency](../e/efficiency.md), optimize production, and improve decision-making.
+- **Digitalization**: The adoption of digital technologies, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md), is transforming E&P operations. These technologies enhance [efficiency](../e/efficiency.md), optimize production, and improve decision-making.
 
 - **Renewables Integration**: E&P companies are increasingly exploring opportunities to integrate renewable energy sources, such as wind and solar, into their operations. This reduces carbon emissions and supports the transition to a more sustainable energy mix.
 

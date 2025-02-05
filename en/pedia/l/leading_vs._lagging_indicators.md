@@ -57,7 +57,7 @@ Successful [trading strategies](../t/trading_strategies.md) often combine both l
 
 ### Case Studies and Real-World Examples
 
-1. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms** like Renaissance Technologies and Two Sigma employ advanced statistical models and machine learning techniques to analyze a combination of leading and [lagging indicators](../l/lagging_indicators.md), making precise trading decisions.
+1. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms** like Renaissance Technologies and Two Sigma employ advanced statistical models and [machine learning](../m/machine_learning.md) techniques to analyze a combination of leading and [lagging indicators](../l/lagging_indicators.md), making precise trading decisions.
    - Renaissance Technologies: [Renaissance Technologies LLC](https://www.rentech.com/)
    - Two Sigma Investments: [Two Sigma](https://www.twosigma.com/)
 

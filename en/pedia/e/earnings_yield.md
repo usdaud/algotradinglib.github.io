@@ -31,7 +31,7 @@ For example, if a company has an EPS of $5 and its current share price is $50, t
 
 2. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Algorithms can be designed to optimize portfolios by prioritizing [stocks](../s/stock.md) with higher [earnings](../e/earnings.md) yields. This can help in building a portfolio that balances growth and [value](../v/value.md) [stocks](../s/stock.md), potentially leading to better [risk](../r/risk.md)-adjusted returns.
 
-3. **[Predictive Models](../p/predictive_models_in_trading.md)**: Machine learning models can use historical [earnings](../e/earnings.md) yields, among other factors, to predict future stock prices or price movements. By analyzing patterns and correlations, these models can generate buy or sell signals.
+3. **[Predictive Models](../p/predictive_models_in_trading.md)**: [Machine learning](../m/machine_learning.md) models can use historical [earnings](../e/earnings.md) yields, among other factors, to predict future stock prices or price movements. By analyzing patterns and correlations, these models can generate buy or sell signals.
 
 4. **Pair Trading**: Involving simultaneous buying and selling of related [stocks](../s/stock.md), pair [trading strategies](../t/trading_strategies.md) can benefit from [earnings](../e/earnings.md) [yield](../y/yield.md) by pairing a high-[yield](../y/yield.md) stock with a low-[yield](../y/yield.md) one within the same sector.
 

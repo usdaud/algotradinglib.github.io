@@ -2,7 +2,7 @@
 
 ## What is Clustering?
 
-Clustering is a machine learning technique that involves grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar to each other than to those in other groups. This technique is widely used in various fields such as [data mining](../d/data_mining.md), [pattern recognition](../p/pattern_recognition.md), image analysis, information retrieval, and bioinformatics. In the context of algo trading, clustering algorithms can be used to identify patterns in historical price data, segment different types of [market](../m/market.md) conditions, and enhance [predictive models](../p/predictive_models_in_trading.md) for [trading strategies](../t/trading_strategies.md).
+Clustering is a [machine learning](../m/machine_learning.md) technique that involves grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar to each other than to those in other groups. This technique is widely used in various fields such as [data mining](../d/data_mining.md), [pattern recognition](../p/pattern_recognition.md), image analysis, information retrieval, and bioinformatics. In the context of algo trading, clustering algorithms can be used to identify patterns in historical price data, segment different types of [market](../m/market.md) conditions, and enhance [predictive models](../p/predictive_models_in_trading.md) for [trading strategies](../t/trading_strategies.md).
 
 ## Types of Clustering Algorithms
 

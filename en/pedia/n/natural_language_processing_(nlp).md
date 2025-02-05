@@ -107,7 +107,7 @@ FastText extends Word2Vec by considering subword information, which helps in han
 
 #### BERT
 
-Bidirectional Encoder Representations from Transformers (BERT) is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers. This allows it to understand the context of words in a sentence more precisely.
+Bidirectional Encoder Representations from [Transformers](../t/transformers.md) (BERT) is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers. This allows it to understand the context of words in a sentence more precisely.
 
 #### GPT
 
@@ -147,7 +147,7 @@ NLP can be used to automatically generate financial reports, press releases, and
 
 ### Pre-trained Models and Transfer Learning
 
-The development of pre-trained models like BERT, GPT-3, and RoBERTa has revolutionized NLP by enabling models to be fine-tuned on specific tasks using transfer learning, significantly improving performance with less data and computational resources.
+The development of pre-trained models like BERT, GPT-3, and RoBERTa has revolutionized NLP by enabling models to be fine-tuned on specific tasks using [transfer learning](../t/transfer_learning.md), significantly improving performance with less data and computational resources.
 
 ### Explainability
 

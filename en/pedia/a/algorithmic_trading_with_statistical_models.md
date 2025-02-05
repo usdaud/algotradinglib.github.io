@@ -38,11 +38,11 @@ Statistical models form the backbone of many [algorithmic trading](../a/algorith
 
 ### Machine Learning Models
 
-**Machine Learning (ML)** techniques have gained popularity in [algorithmic trading](../a/algorithmic_trading.md) due to their ability to model complex, non-linear relationships in data.
+**[Machine Learning](../m/machine_learning.md) (ML)** techniques have gained popularity in [algorithmic trading](../a/algorithmic_trading.md) due to their ability to model complex, non-linear relationships in data.
 
-- **Supervised Learning**: Models are trained on labeled data to predict outcomes.
+- **[Supervised Learning](../s/supervised_learning.md)**: Models are trained on labeled data to predict outcomes.
   - **Examples**: [Linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md).
-- **Unsupervised Learning**: Models identify inherent structures in data without labeled outcomes.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Models identify inherent structures in data without labeled outcomes.
   - **Examples**: [Clustering algorithms](../c/clustering_algorithms.md) like k-means, [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA).
 
 ### Probabilistic Models
@@ -122,6 +122,6 @@ Founded by David E. Shaw, DE Shaw has been a pioneer in [proprietary trading](..
 
 ## Future of Algorithmic Trading
 
-Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are set to further revolutionize [algorithmic trading](../a/algorithmic_trading.md). [Predictive models](../p/predictive_models_in_trading.md) are expected to become more accurate, adaptive, and capable of processing an ever-increasing [volume](../v/volume.md) of data. Additionally, the integration of [blockchain](../b/blockchain_in_trading.md) technology may enhance [transparency](../t/transparency.md) and [security](../s/security.md) in trading activities.
+Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are set to further revolutionize [algorithmic trading](../a/algorithmic_trading.md). [Predictive models](../p/predictive_models_in_trading.md) are expected to become more accurate, adaptive, and capable of processing an ever-increasing [volume](../v/volume.md) of data. Additionally, the integration of [blockchain](../b/blockchain_in_trading.md) technology may enhance [transparency](../t/transparency.md) and [security](../s/security.md) in trading activities.
 
 In summary, [algorithmic trading](../a/algorithmic_trading.md) with statistical models has established itself as an indispensable tool in modern [financial markets](../f/financial_market.md). While the benefits are clear, traders must navigate the complexities of [market](../m/market.md) behavior, technological constraints, and regulatory requirements to develop and deploy successful strategies.

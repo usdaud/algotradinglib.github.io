@@ -40,7 +40,7 @@ MasterCard has heavily invested in technology to enhance the [security](../s/sec
 1. **EMV Chip Technology**: Enhanced [security](../s/security.md) through microprocessor chips embedded in cards.
 2. **Contactless Payments**: Facilitating fast and secure payments through near-field communication (NFC) technology.
 3. **Masterpass**: A [digital wallet](../d/digital_wallet.md) service enabling secure online transactions.
-4. **AI and Machine Learning**: Utilized in [fraud](../f/fraud.md) detection and improving [transaction](../t/transaction.md) accuracy.
+4. **AI and [Machine Learning](../m/machine_learning.md)**: Utilized in [fraud](../f/fraud.md) detection and improving [transaction](../t/transaction.md) accuracy.
 
 ## Strategic Acquisitions
 

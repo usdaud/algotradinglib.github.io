@@ -98,7 +98,7 @@ In high-frequency trading, latency—the delay between receiving [market](../m/m
 
 ### Machine Learning
 
-Machine learning techniques are increasingly being applied to [order flow analysis](../o/order_flow_analysis.md). Algorithms can be trained to recognize patterns and make predictions based on historical [order](../o/order.md) flow data, potentially providing a significant edge in trading.
+[Machine learning](../m/machine_learning.md) techniques are increasingly being applied to [order flow analysis](../o/order_flow_analysis.md). Algorithms can be trained to recognize patterns and make predictions based on historical [order](../o/order.md) flow data, potentially providing a significant edge in trading.
 
 ### Decentralized Exchanges
 

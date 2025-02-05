@@ -13,7 +13,7 @@ Quantitative Strategy [Backtesting](../b/backtesting.md) is a crucial methodolog
      - **Macro Data**: [Economic indicators](../e/economic_indicators.md), [interest](../i/interest.md) rates, and other macroeconomic variables.
 
 2. **Strategy Definition**
-   - **Algorithm Description**: It involves defining the set of rules and conditions based on which trading decisions are made. This could be anything from simple [moving average crossovers](../m/moving_average_crossovers.md) to more complex machine learning models.
+   - **Algorithm Description**: It involves defining the set of rules and conditions based on which trading decisions are made. This could be anything from simple [moving average crossovers](../m/moving_average_crossovers.md) to more complex [machine learning](../m/machine_learning.md) models.
    - **Parameters**: Strategies often have several parameters, such as the length of moving averages, thresholds for indicators, or [risk management](../r/risk_management.md) rules. Optimizing these parameters is a key aspect of strategy development.
 
 3. **[Execution](../e/execution.md) Logic**

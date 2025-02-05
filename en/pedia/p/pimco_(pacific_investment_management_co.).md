@@ -62,7 +62,7 @@ With offices in major financial centers around the world, including New York, Lo
 
 PIMCO leverages advanced technology to enhance its investment processes, improve [efficiency](../e/efficiency.md), and drive innovation. This includes the use of:
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning:** To analyze large datasets and extract meaningful investment insights.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md):** To analyze large datasets and extract meaningful investment insights.
 - **[Algorithmic Trading](../a/accountability.md):** To execute trades with precision and speed.
 - **[Big Data Analytics](../b/big_data_analytics_in_trading.md):** For comprehensive [market research](../m/market_research.md) and predictive analysis.
 

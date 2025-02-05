@@ -46,10 +46,10 @@ Modern [trading algorithms](../t/trading_algorithms.md) often incorporate [senti
 
 ### Machine Learning Models
 
-Machine learning models, particularly those based on [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [neural networks](../n/neural_networks_in_trading.md), are increasingly used in algotrading to predict [earnings](../e/earnings.md) outcomes. These models can process vast amounts of unstructured data, such as news articles and [earnings call](../e/earnings_call.md) transcripts, to identify patterns and make predictions about future [earnings](../e/earnings.md).
+[Machine learning](../m/machine_learning.md) models, particularly those based on [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [neural networks](../n/neural_networks_in_trading.md), are increasingly used in algotrading to predict [earnings](../e/earnings.md) outcomes. These models can process vast amounts of unstructured data, such as news articles and [earnings call](../e/earnings_call.md) transcripts, to identify patterns and make predictions about future [earnings](../e/earnings.md).
 
 **Examples of Companies Utilizing Advanced Techniques**:
-- **Kensho Technologies**: Kensho leverages machine learning to analyze financial data and predict [market](../m/market.md) outcomes. For more information, visit [Kensho Technologies](https://www.kensho.com).
+- **Kensho Technologies**: Kensho leverages [machine learning](../m/machine_learning.md) to analyze financial data and predict [market](../m/market.md) outcomes. For more information, visit [Kensho Technologies](https://www.kensho.com).
 - **Numerai**: Numerai is a [hedge fund](../h/hedge_fund.md) that uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and crowdsourced models to generate [trading signals](../t/trading_signals.md). More details can be found at [Numerai](https://numer.ai).
 
 ## Challenges in Using Earnings Estimates for Trading
@@ -66,6 +66,6 @@ While [earnings](../e/earnings.md) estimates are a powerful tool, there are seve
 
 ## Conclusion
 
-[Earnings](../e/earnings.md) estimates are a vital component of the financial ecosystem, and their relevance is magnified in the context of [algorithmic trading](../a/accountability.md). By incorporating [earnings](../e/earnings.md) estimates into [trading algorithms](../t/trading_algorithms.md), traders can develop strategies that [capitalize](../c/capitalize.md) on pre-announcement positions, [earnings surprises](../e/earnings_surprises.md), and post-[earnings](../e/earnings.md) drifts. However, the inherent uncertainties and [market](../m/market.md) complexities necessitate sophisticated techniques such as [sentiment analysis](../s/sentiment_analysis.md) and machine learning to enhance the accuracy and effectiveness of these algorithms.
+[Earnings](../e/earnings.md) estimates are a vital component of the financial ecosystem, and their relevance is magnified in the context of [algorithmic trading](../a/accountability.md). By incorporating [earnings](../e/earnings.md) estimates into [trading algorithms](../t/trading_algorithms.md), traders can develop strategies that [capitalize](../c/capitalize.md) on pre-announcement positions, [earnings surprises](../e/earnings_surprises.md), and post-[earnings](../e/earnings.md) drifts. However, the inherent uncertainties and [market](../m/market.md) complexities necessitate sophisticated techniques such as [sentiment analysis](../s/sentiment_analysis.md) and [machine learning](../m/machine_learning.md) to enhance the accuracy and effectiveness of these algorithms.
 
 The successful integration of [earnings](../e/earnings.md) estimates into algotrading requires a deep understanding of [financial analysis](../f/financial_analysis.md), [market](../m/market.md) behavior, and advanced computational techniques. As technology continues to evolve, the precision and impact of [earnings](../e/earnings.md) estimates in [trading algorithms](../t/trading_algorithms.md) are likely to become even more profound, shaping the future of [financial markets](../f/financial_market.md).

@@ -162,7 +162,7 @@ TradeStation is a comprehensive electronic [trading platform](../t/trading_platf
 
 - [Expansion](../e/expansion.md) into cryptocurrency trading
 - Enhanced mobile trading capabilities
-- Integration of more AI and machine learning tools for [market](../m/market.md) analysis
+- Integration of more AI and [machine learning](../m/machine_learning.md) tools for [market](../m/market.md) analysis
 - Continued improvements to the web [trading platform](../t/trading_platform.md)
 
 TradeStation is renowned for its sophisticated tools that cater to serious traders and investors. Its combination of advanced analytical capabilities, [robust](../r/robust.md) strategy development and testing tools, and support for [multiple](../m/multiple.md) [asset](../a/asset.md) classes makes it a popular choice for those who require a professional-grade [trading platform](../t/trading_platform.md). The platform's continuous evolution and adaptation to new [market](../m/market.md) trends, such as cryptocurrency trading, ensure its relevance in the ever-changing landscape of electronic trading.

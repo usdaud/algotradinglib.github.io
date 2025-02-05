@@ -66,7 +66,7 @@ Advanced analytics tools are being integrated into MLS platforms, [offering](../
 
 ### Artificial Intelligence
 
-AI is beginning to impact MLS systems by enhancing property search algorithms, predicting [market](../m/market.md) trends, and even automating some aspects of [customer service](../c/customer_service.md). Machine learning models can analyze vast amounts of data to identify patterns and predict which properties might be most attractive to specific buyers.
+AI is beginning to impact MLS systems by enhancing property search algorithms, predicting [market](../m/market.md) trends, and even automating some aspects of [customer service](../c/customer_service.md). [Machine learning](../m/machine_learning.md) models can analyze vast amounts of data to identify patterns and predict which properties might be most attractive to specific buyers.
 
 ## Challenges and Controversies
 

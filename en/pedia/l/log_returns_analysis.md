@@ -76,7 +76,7 @@ Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedastic
 
 ### Machine Learning
 
-In machine learning applications, such as predicting stock price movements or constructing [trading signals](../t/trading_signals.md), log returns are often used as features. Their normality and stability contribute to more reliable model training and better generalization.
+In [machine learning](../m/machine_learning.md) applications, such as predicting stock price movements or constructing [trading signals](../t/trading_signals.md), log returns are often used as features. Their normality and stability contribute to more reliable model training and better generalization.
 
 ## Practical Considerations
 

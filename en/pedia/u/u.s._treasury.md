@@ -84,7 +84,7 @@ The U.S. Treasury has embraced technological advancements to improve its operati
 - Enhancing the [efficiency](../e/efficiency.md) of settlement and clearance processes in [financial markets](../f/financial_market.md).
 
 ### Artificial Intelligence and Machine Learning
-- Leveraging AI and machine learning to detect [tax evasion](../t/tax_evasion.md) and financial [fraud](../f/fraud.md).
+- Leveraging AI and [machine learning](../m/machine_learning.md) to detect [tax evasion](../t/tax_evasion.md) and financial [fraud](../f/fraud.md).
 - Improving [predictive analytics](../p/predictive_analytics.md) for [economic forecasting](../e/economic_forecasting.md) and policy-making.
 
 ### Digital Currency

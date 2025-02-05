@@ -101,7 +101,7 @@ Bridgewater Associates, founded by Ray Dalio, is a global leader in [hedge fund]
 - [Bridgewater Associates](https://www.bridgewater.com/)
 
 #### 2. **Two Sigma Investments**
-Two Sigma Investments utilizes machine learning, distributed computing, and sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md) to manage assets. The [firm](../f/firm.md)'s emphasis on data-driven insights and [algorithmic trading](../a/algorithmic_trading.md) has enabled it to deliver strong portfolio performance.
+Two Sigma Investments utilizes [machine learning](../m/machine_learning.md), distributed computing, and sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md) to manage assets. The [firm](../f/firm.md)'s emphasis on data-driven insights and [algorithmic trading](../a/algorithmic_trading.md) has enabled it to deliver strong portfolio performance.
 
 - [Two Sigma Investments](https://www.twosigma.com/)
 

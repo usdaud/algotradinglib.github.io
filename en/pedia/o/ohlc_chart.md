@@ -100,7 +100,7 @@ Algorithmic traders often use OHLC data as inputs for [trading algorithms](../t/
 
 ### Machine Learning in OHLC Data
 
-Machine learning models can be trained on OHLC data to predict future price movements. Popular techniques include:
+[Machine learning](../m/machine_learning.md) models can be trained on OHLC data to predict future price movements. Popular techniques include:
 
 1. **[Regression Analysis](../r/regression_analysis.md)**:
    - Utilizing regression models to predict future closing prices based on historical OHLC data.

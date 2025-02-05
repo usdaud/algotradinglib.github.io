@@ -23,7 +23,7 @@
 [Weighted](../w/weighted.md) [Yield](../y/yield.md) Strategies involve a blend of quantitative algorithms, statistical analyses, and financial theories. Here are the fundamental mechanics:
 
 #### 1. Quantitative Analysis
-**ML Algorithms**: Machine Learning (ML) algorithms are employed to identify patterns and predict future yields. Techniques such as [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs), [Neural Networks](../n/neural_networks_in_trading.md), and [Random Forests](../r/random_forests_in_trading.md) are widely used.
+**ML Algorithms**: [Machine Learning](../m/machine_learning.md) (ML) algorithms are employed to identify patterns and predict future yields. Techniques such as [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs), [Neural Networks](../n/neural_networks_in_trading.md), and [Random Forests](../r/random_forests_in_trading.md) are widely used.
 
 #### 2. Statistical Approaches
 **Variance and [Covariance](../c/covariance.md)**: Measures the [variability](../v/variability.md) of [asset](../a/asset.md) returns and their relationships. This helps in assessing the [risk](../r/risk.md) associated with each [asset](../a/asset.md).
@@ -81,4 +81,4 @@ Compliance with trading regulations and standards is crucial. Regulations may va
 
 ### Conclusion
 
-[Weighted](../w/weighted.md) [Yield](../y/yield.md) Strategies in [algorithmic trading](../a/algorithmic_trading.md) represent a balanced approach to maximizing returns while managing [risk](../r/risk.md) through sophisticated, data-driven methodologies. Their success rests on accurate data, [robust](../r/robust.md) algorithm development, and dynamic [execution](../e/execution.md). As [financial markets](../f/financial_market.md) evolve, the integration of advanced technology like machine learning and AI continues to enhance the efficacy and precision of these strategies.
+[Weighted](../w/weighted.md) [Yield](../y/yield.md) Strategies in [algorithmic trading](../a/algorithmic_trading.md) represent a balanced approach to maximizing returns while managing [risk](../r/risk.md) through sophisticated, data-driven methodologies. Their success rests on accurate data, [robust](../r/robust.md) algorithm development, and dynamic [execution](../e/execution.md). As [financial markets](../f/financial_market.md) evolve, the integration of advanced technology like [machine learning](../m/machine_learning.md) and AI continues to enhance the efficacy and precision of these strategies.

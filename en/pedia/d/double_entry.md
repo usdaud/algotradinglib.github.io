@@ -122,7 +122,7 @@ As technology advances, the integration of double-entry [accounting](../a/accoun
 
 - **[Blockchain](../b/blockchain_in_trading.md) Technology:** The immutable and transparent nature of [blockchain](../b/blockchain_in_trading.md) can enhance double-entry [accounting](../a/accounting.md) by providing a decentralized ledger for recording transactions.
   
-- **AI and Machine Learning:** These technologies can automate more complex [accounting](../a/accounting.md) tasks, improve error detection, and enhance decision-making.
+- **AI and [Machine Learning](../m/machine_learning.md):** These technologies can automate more complex [accounting](../a/accounting.md) tasks, improve error detection, and enhance decision-making.
 
 - **Enhanced [Data Analytics](../d/data_analytics.md):** Advanced analytics tools [will](../w/will.md) [offer](../o/offer.md) deeper insights into financial records, helping traders optimize strategies and manage risks more effectively.
 

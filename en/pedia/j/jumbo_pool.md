@@ -66,7 +66,7 @@ Given the confidential nature of [dark pools](../d/dark_pools.md), including Jum
 The landscape of Jumbo Pools and algo-trading is continually evolving. Several future trends are emerging that are likely to shape the direction of this space:
 
 1. **Increased Regulation**: As concerns about [transparency](../t/transparency.md) and fair trading practices grow, regulatory bodies are expected to impose stricter rules on Jumbo Pools to enhance [market](../m/market.md) integrity.
-2. **Technological Advancements**: Ongoing innovations in machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [blockchain](../b/blockchain_in_trading.md) technology are poised to revolutionize the functionality and [efficiency](../e/efficiency.md) of Jumbo Pools.
+2. **Technological Advancements**: Ongoing innovations in [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [blockchain](../b/blockchain_in_trading.md) technology are poised to revolutionize the functionality and [efficiency](../e/efficiency.md) of Jumbo Pools.
 3. **Integration with Other Trading Venues**: There may be increased integration between Jumbo Pools and other trading platforms, providing a more seamless trading experience for institutional investors.
 4. **Focus on Ethical Trading Practices**: With rising awareness of ethical considerations in [finance](../f/finance.md), there may be a greater emphasis on ensuring that Jumbo Pools adhere to ethical trading standards.
 

@@ -96,7 +96,7 @@ As businesses increasingly adopt digital technologies, restructuring efforts are
 Environmental, Social, and Governance (ESG) factors are becoming more critical in restructuring decisions. Companies are expected to consider the impact of their restructuring on the environment, [social responsibility](../s/social_responsibility.md), and [corporate governance](../c/corporate_governance.md) to improve sustainability and [stakeholder](../s/stakeholder.md) [trust](../t/trust.md).
 
 ### 3. Integration of Artificial Intelligence and Machine Learning
-The adoption of AI and machine learning technologies can streamline restructuring processes by analyzing vast amounts of data, predicting outcomes, and identifying optimal restructuring strategies.
+The adoption of AI and [machine learning](../m/machine_learning.md) technologies can streamline restructuring processes by analyzing vast amounts of data, predicting outcomes, and identifying optimal restructuring strategies.
 
 ### 4. Increased Focus on Agility
 In an increasingly volatile and unpredictable [business](../b/business.md) environment, companies may prioritize restructuring efforts that enhance organizational agility, enabling them to respond more swiftly and effectively to [market](../m/market.md) changes and emerging opportunities.

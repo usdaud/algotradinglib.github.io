@@ -100,7 +100,7 @@ American Express has embraced digital integration and innovation. This includes:
 
 ## Innovation and Future Trends
 
-American Express continues to innovate in the financial services sector. Future trends may include further integration of AI and machine learning for [fraud](../f/fraud.md) detection, more sustainable and eco-friendly card [options](../o/options.md), and expanded partnerships for co-branded cards.
+American Express continues to innovate in the financial services sector. Future trends may include further integration of AI and [machine learning](../m/machine_learning.md) for [fraud](../f/fraud.md) detection, more sustainable and eco-friendly card [options](../o/options.md), and expanded partnerships for co-branded cards.
 
 ## Conclusion
 

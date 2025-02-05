@@ -51,7 +51,7 @@ Tailoring [rebalancing strategies](../r/rebalancing_strategies.md) to individual
 Algorithmic [rebalancing](../r/rebalancing.md) leverages [quantitative models](../q/quantitative_models.md) to systematically adjust portfolios. These models incorporate variables such as [asset](../a/asset.md) performance, [volatility](../v/volatility.md), correlations, and [market](../m/market.md) conditions to determine optimal [rebalancing](../r/rebalancing.md) actions.
 
 ### Optimization Algorithms
-[Optimization](../o/optimization.md) algorithms, such as [mean-variance optimization](../m/mean-variance_optimization.md), [genetic algorithms](../g/genetic_algorithms_in_trading.md), and machine learning techniques, can enhance [rebalancing](../r/rebalancing.md) decisions. These algorithms seek to maximize returns, minimize [risk](../r/risk.md), and ensure efficient [diversification](../d/diversification.md).
+[Optimization](../o/optimization.md) algorithms, such as [mean-variance optimization](../m/mean-variance_optimization.md), [genetic algorithms](../g/genetic_algorithms_in_trading.md), and [machine learning](../m/machine_learning.md) techniques, can enhance [rebalancing](../r/rebalancing.md) decisions. These algorithms seek to maximize returns, minimize [risk](../r/risk.md), and ensure efficient [diversification](../d/diversification.md).
 
 ### Automated Execution
 Automated trading platforms execute [rebalancing](../r/rebalancing.md) trades based on predefined rules and algorithms. This automation reduces the potential for human error, increases [efficiency](../e/efficiency.md), and ensures timely [execution](../e/execution.md).

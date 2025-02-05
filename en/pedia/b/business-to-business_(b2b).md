@@ -72,7 +72,7 @@ Integrating new technologies with existing systems can be challenging. Ensuring 
 
 ### 1. **Digital Transformation**
 
-The digitalization of B2B processes is accelerating. [Cloud computing](../c/cloud_computing_in_trading.md), AI, and machine learning are becoming integral to enhancing [efficiency](../e/efficiency.md), accuracy, and decision-making. Businesses are increasingly adopting digital platforms for everything from [procurement](../p/procurement.md) to [logistics](../l/logistics.md).
+The digitalization of B2B processes is accelerating. [Cloud computing](../c/cloud_computing_in_trading.md), AI, and [machine learning](../m/machine_learning.md) are becoming integral to enhancing [efficiency](../e/efficiency.md), accuracy, and decision-making. Businesses are increasingly adopting digital platforms for everything from [procurement](../p/procurement.md) to [logistics](../l/logistics.md).
 
 ### 2. **Sustainability Practices**
 

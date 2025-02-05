@@ -75,7 +75,7 @@ Algorithms analyze vast amounts of historical and real-time data to identify tre
 
 ### Machine Learning
 
-Machine learning models can predict [asset](../a/asset.md) performance and suggest optimal distributions. These models continuously improve as they are exposed to more data, allowing for increasingly accurate predictions.
+[Machine learning](../m/machine_learning.md) models can predict [asset](../a/asset.md) performance and suggest optimal distributions. These models continuously improve as they are exposed to more data, allowing for increasingly accurate predictions.
 
 ### Backtesting
 
@@ -96,7 +96,7 @@ BlackRock's Aladdin platform integrates sophisticated analytics with advanced po
 Website: [BlackRock Aladdin](https://www.blackrock.com/aladdin/)
 
 ### Two Sigma
-Two Sigma leverages machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to create automated investment strategies. Their approach is deeply rooted in [quantitative analysis](../q/quantitative_analysis.md) and algorithmic processes for [asset](../a/asset.md) [distribution](../d/distribution.md).
+Two Sigma leverages [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to create automated investment strategies. Their approach is deeply rooted in [quantitative analysis](../q/quantitative_analysis.md) and algorithmic processes for [asset](../a/asset.md) [distribution](../d/distribution.md).
 Website: [Two Sigma](https://www.twosigma.com/)
 
 ## Challenges in Joint Asset Distribution

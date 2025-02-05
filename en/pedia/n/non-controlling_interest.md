@@ -53,7 +53,7 @@ There's a growing [trend](../t/trend.md) towards more transparent reporting of N
 
 ### Sophisticated Valuation Methods:
 
-With advanced analytical tools, companies are using more sophisticated methods to [value](../v/value.md) NCIs. This includes leveraging [big data](../b/big_data_in_trading.md), machine learning, and [financial modeling](../f/financial_modeling.md) to achieve more accurate representations.
+With advanced analytical tools, companies are using more sophisticated methods to [value](../v/value.md) NCIs. This includes leveraging [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and [financial modeling](../f/financial_modeling.md) to achieve more accurate representations.
 
 ### Impacts of IFRS 10 and ASC 810:
 

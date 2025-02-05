@@ -1,6 +1,6 @@
 # Model Distillation & Quantization
 
-Model Distillation and Quantization are techniques used to reduce the size and complexity of deep learning models while retaining most of their performance.
+Model Distillation and Quantization are techniques used to reduce the size and complexity of [deep learning](../d/deep_learning.md) models while retaining most of their performance.
 
 ### Key Components
 - **Knowledge Distillation:** A smaller “student” model learns to mimic a larger “teacher” model’s behavior.

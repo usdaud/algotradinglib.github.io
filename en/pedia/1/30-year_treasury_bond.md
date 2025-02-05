@@ -52,7 +52,7 @@ The [30-Year Treasury](../1/30-year_treasury.md) [Bond](../b/bond.md) has a rich
 
 The significance of the [30-Year Treasury](../1/30-year_treasury.md) [Bond](../b/bond.md) continues to evolve:
 - **[Quantitative Easing](../q/quantitative_easing.md) (QE)**: In recent times, actions by the Federal Reserve, such as QE, have had direct impacts on yields, driving them lower as the Fed purchases large amounts of long-term Treasuries.
-- **Technological Innovations**: The rise of high-frequency trading (HFT) and other technological advancements in algo trading have changed the way these bonds are traded, incorporating machine learning models and [big data analytics](../b/big_data_analytics_in_trading.md) to improve [trade](../t/trade.md) [execution](../e/execution.md) and strategy [efficiency](../e/efficiency.md).
+- **Technological Innovations**: The rise of high-frequency trading (HFT) and other technological advancements in algo trading have changed the way these bonds are traded, incorporating [machine learning](../m/machine_learning.md) models and [big data analytics](../b/big_data_analytics_in_trading.md) to improve [trade](../t/trade.md) [execution](../e/execution.md) and strategy [efficiency](../e/efficiency.md).
 
 ### Relevance for Institutional and Retail Investors
 

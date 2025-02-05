@@ -102,7 +102,7 @@ When dealing with a portfolio of [multiple](../m/multiple.md) assets, consider c
 
 ### Computational Techniques
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems [leverage](../l/leverage.md) computational techniques to dynamically calculate and adjust the Kelly fraction based on real-time data. Techniques like Monte Carlo simulations and machine learning models are employed to estimate probabilities and outcomes more accurately.
+[Algorithmic trading](../a/algorithmic_trading.md) systems [leverage](../l/leverage.md) computational techniques to dynamically calculate and adjust the Kelly fraction based on real-time data. Techniques like Monte Carlo simulations and [machine learning](../m/machine_learning.md) models are employed to estimate probabilities and outcomes more accurately.
 
 ## Challenges and Criticisms
 

@@ -62,7 +62,7 @@ Modern [risk management](../r/risk_management.md) software solutions provide [ro
 
 ### Artificial Intelligence and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are increasingly being used in [equity](../e/equity.md) [risk management](../r/risk_management.md) to analyze large datasets and identify [risk](../r/risk.md) patterns. These technologies enhance decision-making and predictive capabilities in [risk management](../r/risk_management.md).
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are increasingly being used in [equity](../e/equity.md) [risk management](../r/risk_management.md) to analyze large datasets and identify [risk](../r/risk.md) patterns. These technologies enhance decision-making and predictive capabilities in [risk management](../r/risk_management.md).
 
 ### Blockchain Technology
 

@@ -90,7 +90,7 @@ print(overbought)
 ```
 
 ### Fintech Applications
-Modern fintech platforms utilize AI and machine learning to detect overbought conditions. These platforms [offer](../o/offer.md) advanced analytics, alerting users when specific overbought criteria are met. Examples include [Robinhood](../r/robinhood.md)’s [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) and [eToro](../e/etoro.md)’s [social trading](../s/social_trading.md) features.
+Modern fintech platforms utilize AI and [machine learning](../m/machine_learning.md) to detect overbought conditions. These platforms [offer](../o/offer.md) advanced analytics, alerting users when specific overbought criteria are met. Examples include [Robinhood](../r/robinhood.md)’s [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) and [eToro](../e/etoro.md)’s [social trading](../s/social_trading.md) features.
 
 ## Risks Associated with Overbought Trading
 

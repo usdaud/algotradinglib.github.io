@@ -36,7 +36,7 @@ Markowitz's work on portfolio selection emphasized the importance of [diversific
 
 ### 5. **Machine Learning and Artificial Intelligence**
 
-Recent advances in computational power and data availability have catalyzed the use of machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in [quantitative analysis](../q/quantitative_analysis.md). Techniques such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and reinforcement learning are now integral to developing [predictive models](../p/predictive_models_in_trading.md) and [automated trading systems](../a/automated_trading_systems.md).
+Recent advances in computational power and data availability have catalyzed the use of [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in [quantitative analysis](../q/quantitative_analysis.md). Techniques such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [reinforcement learning](../r/reinforcement_learning.md) are now integral to developing [predictive models](../p/predictive_models_in_trading.md) and [automated trading systems](../a/automated_trading_systems.md).
 
 ## Applications in Finance
 
@@ -58,7 +58,7 @@ Quantitative techniques help in constructing and managing diversified portfolios
 
 ### 5. **Credit Scoring**
 
-In lending, quantitative methods are used to evaluate [credit risk](../c/credit_risk.md) by analyzing borrower data and predicting the likelihood of [default](../d/default.md). Techniques like [logistic regression](../l/logistic_regression_in_trading.md) and machine learning models are common in [credit](../c/credit.md) scoring.
+In lending, quantitative methods are used to evaluate [credit risk](../c/credit_risk.md) by analyzing borrower data and predicting the likelihood of [default](../d/default.md). Techniques like [logistic regression](../l/logistic_regression_in_trading.md) and [machine learning](../m/machine_learning.md) models are common in [credit](../c/credit.md) scoring.
 
 ## Key Tools and Software
 
@@ -78,7 +78,7 @@ Founded by Jim Simons, Renaissance Technologies is one of the most successful [q
 
 ### Two Sigma
 
-Two Sigma focuses on data-driven [investing](../i/investing.md), utilizing machine learning and distributed computing to develop [predictive models](../p/predictive_models_in_trading.md). Their quantitative approach spans various [asset](../a/asset.md) classes and leverages vast amounts of data to inform investment decisions ([Two Sigma](https://www.twosigma.com/)).
+Two Sigma focuses on data-driven [investing](../i/investing.md), utilizing [machine learning](../m/machine_learning.md) and distributed computing to develop [predictive models](../p/predictive_models_in_trading.md). Their quantitative approach spans various [asset](../a/asset.md) classes and leverages vast amounts of data to inform investment decisions ([Two Sigma](https://www.twosigma.com/)).
 
 ### DE Shaw & Co.
 
@@ -98,10 +98,10 @@ Despite its advantages, [quantitative analysis](../q/quantitative_analysis.md) f
 As technology continues to evolve, several trends are likely to shape the future of [quantitative analysis](../q/quantitative_analysis.md):
 
 - **[Big Data](../b/big_data_in_trading.md) and Analytics**: The ability to process and analyze massive datasets [will](../w/will.md) enhance model accuracy and uncover new insights.
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: AI and ML [will](../w/will.md) drive more sophisticated models capable of learning and adapting to new [market](../m/market.md) conditions.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: AI and ML [will](../w/will.md) drive more sophisticated models capable of learning and adapting to new [market](../m/market.md) conditions.
 - **[Quantum Computing](../q/quantum_computing_in_trading.md)**: This emerging field has the potential to exponentially increase computational power, enabling the development of more complex models and simulations.
 - **Integration with FinTech**: The convergence of [quantitative analysis](../q/quantitative_analysis.md) and financial technology (FinTech) [will](../w/will.md) create innovative solutions for trading, [risk management](../r/risk_management.md), and financial services.
 
 ## Conclusion
 
-[Quantitative analysis](../q/quantitative_analysis.md) has revolutionized the field of [finance](../f/finance.md), providing powerful tools and methods to navigate complex markets and make informed investment decisions. Its integration with advanced technologies like machine learning, [big data](../b/big_data_in_trading.md), and [quantum computing](../q/quantum_computing_in_trading.md) promises to further enhance its capabilities, driving the evolution of [finance](../f/finance.md) and trading in the coming years.
+[Quantitative analysis](../q/quantitative_analysis.md) has revolutionized the field of [finance](../f/finance.md), providing powerful tools and methods to navigate complex markets and make informed investment decisions. Its integration with advanced technologies like [machine learning](../m/machine_learning.md), [big data](../b/big_data_in_trading.md), and [quantum computing](../q/quantum_computing_in_trading.md) promises to further enhance its capabilities, driving the evolution of [finance](../f/finance.md) and trading in the coming years.

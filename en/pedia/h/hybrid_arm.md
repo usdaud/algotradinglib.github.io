@@ -8,7 +8,7 @@ In the world of [algorithmic trading](../a/accountability.md) (often referred to
 [Algorithmic trading](../a/accountability.md) involves the use of computer algorithms to automatically make trading decisions, submit orders, and manage those orders after submission. This methodology improves the speed and accuracy of trading while reducing the emotional and [psychological biases](../p/psychological_biases_in_trading.md) that typically affect human traders.
 
 ### Adaptive Rate Models
-Adaptive Rate Models (ARMs) incorporate elements of machine learning and statistical analysis to dynamically adjust trading parameters based on current and historical [market](../m/market.md) data. These models are designed to evolve and self-correct, optimizing their performance as new information becomes available.
+Adaptive Rate Models (ARMs) incorporate elements of [machine learning](../m/machine_learning.md) and statistical analysis to dynamically adjust trading parameters based on current and historical [market](../m/market.md) data. These models are designed to evolve and self-correct, optimizing their performance as new information becomes available.
 
 ### Hybrid Models
 Hybrid models combine different algorithmic approaches, [heuristics](../h/heuristics.md), and strategies to [leverage](../l/leverage.md) the strengths of each component. The goal is to create a more [robust](../r/robust.md), versatile, and efficient system that can operate effectively under various [market](../m/market.md) conditions.
@@ -22,7 +22,7 @@ The first component of Hybrid ARM involves the [acquisition](../a/acquisition.md
 Feature engineering is the process of transforming raw data into meaningful features that can be used for [predictive modeling](../p/predictive_modeling.md). In the context of Hybrid ARM, features may include [technical indicators](../t/technical_indicator.md) (like moving averages, RSI, MACD), cross-[asset](../a/asset.md) correlations, and [sentiment analysis](../s/sentiment_analysis.md) metrics.
 
 ### Model Training and Validation
-Hybrid ARM utilizes [multiple](../m/multiple.md) machine learning models and statistical techniques for training. Common methods include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md), [neural networks](../n/neural_networks_in_trading.md), and reinforcement learning. The models are trained on historical data and validated using techniques like cross-validation and [backtesting](../b/backtesting.md) to ensure robustness.
+Hybrid ARM utilizes [multiple](../m/multiple.md) [machine learning](../m/machine_learning.md) models and statistical techniques for training. Common methods include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md), [neural networks](../n/neural_networks_in_trading.md), and [reinforcement learning](../r/reinforcement_learning.md). The models are trained on historical data and validated using techniques like cross-validation and [backtesting](../b/backtesting.md) to ensure robustness.
 
 ### Strategy Integration
 Once individual models are trained and validated, they are integrated into a cohesive hybrid strategy. This involves combining different models and approaches in a way that optimizes overall performance. For example, a Hybrid ARM might use a [momentum](../m/momentum.md)-based strategy alongside a mean-reversion strategy to [capitalize](../c/capitalize.md) on different [market](../m/market.md) phases.
@@ -70,7 +70,7 @@ Many [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) and 
 ## Case Studies and Examples
 
 ### Renaissance Technologies
-Renaissance Technologies, founded by mathematician James Simons, is one of the most successful [hedge](../h/hedge.md) funds employing hybrid [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Their Medallion [Fund](../f/fund.md) uses a combination of statistical [arbitrage](../a/arbitrage.md), machine learning, and various quantitative methods to achieve consistent high returns.
+Renaissance Technologies, founded by mathematician James Simons, is one of the most successful [hedge](../h/hedge.md) funds employing hybrid [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Their Medallion [Fund](../f/fund.md) uses a combination of statistical [arbitrage](../a/arbitrage.md), [machine learning](../m/machine_learning.md), and various quantitative methods to achieve consistent high returns.
 
 ### Bridgewater Associates
 Bridgewater Associates, led by Ray Dalio, employs advanced [algorithmic trading](../a/accountability.md) and [risk management techniques](../r/risk_management_techniques.md) in its Pure [Alpha](../a/alpha.md) [Fund](../f/fund.md). The [fund](../f/fund.md) combines various strategies and dynamically adjusts its positions based on economic and [market](../m/market.md) conditions.

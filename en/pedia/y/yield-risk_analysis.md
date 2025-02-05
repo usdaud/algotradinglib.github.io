@@ -61,7 +61,7 @@ Several metrics are employed in [risk analysis](../r/risk_analysis.md) to quanti
 
 1. **Data Collection and Preparation**: Collect historical data on financial instruments. Data might include prices, volumes, dividends, [interest](../i/interest.md) rates, and macroeconomic indicators. Algorithms need clean and processed data for accurate analysis and predictions.
 
-2. **[Quantitative Models](../q/quantitative_models.md)**: Develop [quantitative models](../q/quantitative_models.md) to predict future price movements. These models often incorporate elements of statistical analysis, machine learning, and econometric models.
+2. **[Quantitative Models](../q/quantitative_models.md)**: Develop [quantitative models](../q/quantitative_models.md) to predict future price movements. These models often incorporate elements of statistical analysis, [machine learning](../m/machine_learning.md), and econometric models.
 
 3. **[Backtesting](../b/backtesting.md)**: This involves simulating the performance of an algorithmic strategy using historical data to determine how well the strategy might perform in real markets.
 

@@ -51,7 +51,7 @@ Algorithmic traders need to consider several strategies and adjustments when ope
 - Employing dynamic [leverage](../l/leverage.md) strategies that adjust based on [market](../m/market.md) conditions and [volatility](../v/volatility.md) measures.
 
 ### Machine Learning and Artificial Intelligence
-Advanced [algorithmic trading](../a/algorithmic_trading.md) employs machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) to adapt to ZLB conditions:
+Advanced [algorithmic trading](../a/algorithmic_trading.md) employs [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) to adapt to ZLB conditions:
 - **[Predictive Analytics](../p/predictive_analytics.md)**: Using ML models to predict future [market](../m/market.md) movements based on historical data and emerging trends.
 - **[Adaptive Algorithms](../a/adaptive_algorithms.md)**: Developing algorithms that can adjust their strategies dynamically in response to changing [market](../m/market.md) conditions.
 - **[Behavioral Finance](../b/behavioral_finance.md)**: Incorporating [behavioral finance](../b/behavioral_finance.md) principles to understand and predict [investor](../i/investor.md) behavior under ZLB.

@@ -44,7 +44,7 @@ Several leading investment funds utilize [distribution](../d/distribution.md) wa
 
 ### Two Sigma Investments
 
-[Two Sigma](https://www.twosigma.com/) is a prominent technology-driven [hedge fund](../h/hedge_fund.md) that employs advanced algorithms and machine learning techniques. While specific details of their [distribution](../d/distribution.md) waterfall practices are proprietary, Two Sigma's emphasis on data-driven strategies and automated processes aligns with the principles of efficient [profit distribution](../p/profit_distribution.md).
+[Two Sigma](https://www.twosigma.com/) is a prominent technology-driven [hedge fund](../h/hedge_fund.md) that employs advanced algorithms and [machine learning](../m/machine_learning.md) techniques. While specific details of their [distribution](../d/distribution.md) waterfall practices are proprietary, Two Sigma's emphasis on data-driven strategies and automated processes aligns with the principles of efficient [profit distribution](../p/profit_distribution.md).
 
 ### Renaissance Technologies
 
@@ -66,7 +66,7 @@ While [distribution](../d/distribution.md) waterfalls are financially oriented, 
 
 ### Technological Advancements
 
-The integration of [distribution](../d/distribution.md) waterfall models into [algorithmic trading](../a/accountability.md) is facilitated by ongoing technological advancements. Innovations in [data analytics](../d/data_analytics.md), machine learning, and [blockchain](../b/blockchain_in_trading.md) technology [offer](../o/offer.md) new opportunities for enhancing the precision and [efficiency](../e/efficiency.md) of [profit distribution](../p/profit_distribution.md).
+The integration of [distribution](../d/distribution.md) waterfall models into [algorithmic trading](../a/accountability.md) is facilitated by ongoing technological advancements. Innovations in [data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md) technology [offer](../o/offer.md) new opportunities for enhancing the precision and [efficiency](../e/efficiency.md) of [profit distribution](../p/profit_distribution.md).
 
 ### Future Trends
 

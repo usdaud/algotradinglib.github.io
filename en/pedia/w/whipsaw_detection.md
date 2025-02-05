@@ -59,9 +59,9 @@ Effective [whipsaw](../w/whipsaw.md) detection strategies must identify false mo
 
 ### Machine Learning Algorithms
 
-Machine learning models have emerged as powerful tools for [whipsaw](../w/whipsaw.md) detection:
-- **Supervised Learning Models:** Using labeled data, algorithms can be trained to recognize patterns indicative of whipsaws.
-- **Reinforcement Learning:** Agents learn from [market](../m/market.md) interaction and use rewards to optimize decision-making under volatile conditions.
+[Machine learning](../m/machine_learning.md) models have emerged as powerful tools for [whipsaw](../w/whipsaw.md) detection:
+- **[Supervised Learning](../s/supervised_learning.md) Models:** Using labeled data, algorithms can be trained to recognize patterns indicative of whipsaws.
+- **[Reinforcement Learning](../r/reinforcement_learning.md):** Agents learn from [market](../m/market.md) interaction and use rewards to optimize decision-making under volatile conditions.
 
 ### Enhanced Signal Processing
 
@@ -120,7 +120,7 @@ Implementing and running sophisticated models requires significant computational
 
 ## Conclusion
 
-[Whipsaw](../w/whipsaw.md) detection in [algorithmic trading](../a/algorithmic_trading.md) plays a pivotal role in minimizing trading risks associated with volatile [market](../m/market.md) conditions. By leveraging indicators such as moving averages, [Bollinger Bands](../b/bollinger_bands.md), ATR, and advanced techniques such as machine learning and statistical models, traders can better identify and mitigate [whipsaw](../w/whipsaw.md) effects. Despite the inherent challenges, continuous innovation and [adaptive strategies](../a/adaptive_strategies.md) remain central to achieving [robust](../r/robust.md) [whipsaw](../w/whipsaw.md) detection and maintaining consistent [trading performance](../t/trading_performance.md).
+[Whipsaw](../w/whipsaw.md) detection in [algorithmic trading](../a/algorithmic_trading.md) plays a pivotal role in minimizing trading risks associated with volatile [market](../m/market.md) conditions. By leveraging indicators such as moving averages, [Bollinger Bands](../b/bollinger_bands.md), ATR, and advanced techniques such as [machine learning](../m/machine_learning.md) and statistical models, traders can better identify and mitigate [whipsaw](../w/whipsaw.md) effects. Despite the inherent challenges, continuous innovation and [adaptive strategies](../a/adaptive_strategies.md) remain central to achieving [robust](../r/robust.md) [whipsaw](../w/whipsaw.md) detection and maintaining consistent [trading performance](../t/trading_performance.md).
 
 For further reading and reference, visit the following companies and their relevant documentation:
 - [Two Sigma](https://www.twosigma.com/)

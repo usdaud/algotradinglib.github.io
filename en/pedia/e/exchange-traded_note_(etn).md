@@ -96,7 +96,7 @@ Advances in technology, especially in [data analytics](../d/data_analytics.md) a
 As investors continue to seek diversified and efficient investment vehicles, the [demand](../d/demand.md) for ETNs could grow. Their ability to [offer](../o/offer.md) exposure to hard-to-access markets [will](../w/will.md) likely remain a key selling point.
 
 ### **Product Innovation**
-Financial institutions may develop innovative ETN products that [offer](../o/offer.md) novel strategies, such as incorporating environmental, social, and governance (ESG) criteria or leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning to optimize performance.
+Financial institutions may develop innovative ETN products that [offer](../o/offer.md) novel strategies, such as incorporating environmental, social, and governance (ESG) criteria or leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) to optimize performance.
 
 ### **Education and Transparency**
 As the [market](../m/market.md) for ETNs widens, there [will](../w/will.md) be a greater emphasis on [investor](../i/investor.md) education and [transparency](../t/transparency.md). Financial institutions and regulatory bodies [will](../w/will.md) likely focus on ensuring that investors understand the complexity and risks of ETNs.

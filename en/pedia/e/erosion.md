@@ -27,7 +27,7 @@ Markets continuously evolve due to changing [economic conditions](../e/economic_
 ### Technological Advancements
 Advances in technology can render existing algorithms obsolete. As new tools, data sources, and analytical techniques become available, staying ahead of technological trends is crucial to avoid erosion. Examples include:
 
-1. **Machine Learning:** The adoption of machine learning can quickly overshadow traditional statistical models, necessitating continuous innovation.
+1. **[Machine Learning](../m/machine_learning.md):** The adoption of [machine learning](../m/machine_learning.md) can quickly overshadow traditional statistical models, necessitating continuous innovation.
 2. **Data Access:** High-quality, real-time data feeds can provide a significant advantage, making older data sources less competitive.
 
 ### Operational Risks
@@ -40,7 +40,7 @@ To combat erosion, it is essential to invest in continuous research and developm
 
 1. **Strategy [Diversification](../d/diversification.md):** Developing a diverse portfolio of [trading strategies](../t/trading_strategies.md) can help mitigate the impact of erosion on any single strategy.
 2. **Algorithmic Refinement:** Regularly revisiting and refining existing algorithms to adapt to current [market](../m/market.md) conditions.
-3. **Innovative Techniques:** Leveraging cutting-edge technologies such as machine learning, [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), and [alternative data](../a/alternative_data.md) sources.
+3. **Innovative Techniques:** Leveraging cutting-edge technologies such as [machine learning](../m/machine_learning.md), [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), and [alternative data](../a/alternative_data.md) sources.
 
 ### Robust Backtesting and Validation
 [Robust](../r/robust.md) [backtesting](../b/backtesting.md) and validation processes can help identify and avoid [overfitting](../o/overfitting.md). Key practices include:
@@ -60,7 +60,7 @@ Implementing effective [risk management](../r/risk_management.md) strategies is 
 Continuous monitoring and analytics are essential to detect signs of erosion early. Effective monitoring practices include:
 
 1. **[Performance Metrics](../p/performance_metrics.md):** Tracking key [performance metrics](../p/performance_metrics.md) such as profitability, drawdowns, and Sharpe ratios.
-2. **[Anomaly Detection](../a/anomaly_detection.md):** Using statistical methods and machine learning to detect unusual performance patterns that may indicate [underlying](../u/underlying.md) issues.
+2. **[Anomaly Detection](../a/anomaly_detection.md):** Using statistical methods and [machine learning](../m/machine_learning.md) to detect unusual performance patterns that may indicate [underlying](../u/underlying.md) issues.
 3. **Real-Time Data:** Incorporating real-time data feeds to promptly respond to [market](../m/market.md) changes and anomalies.
 
 ### Collaborations and Partnerships
@@ -93,7 +93,7 @@ This case underscores the importance of avoiding [overfitting](../o/overfitting.
 ## Technological Solutions to Mitigate Erosion
 
 ### Machine Learning and AI
-Adopting machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) can help mitigate erosion by enhancing the adaptability and predictive power of [trading algorithms](../t/trading_algorithms.md). Key advantages include:
+Adopting [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) can help mitigate erosion by enhancing the adaptability and predictive power of [trading algorithms](../t/trading_algorithms.md). Key advantages include:
 
 1. **Dynamic Adaptive Models:** ML models can adapt to changing [market](../m/market.md) conditions in real-time.
 2. **[Pattern Recognition](../p/pattern_recognition.md):** AI techniques can identify complex patterns and relationships in data that traditional models may overlook.

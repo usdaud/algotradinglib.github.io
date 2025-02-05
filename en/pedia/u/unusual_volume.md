@@ -56,12 +56,12 @@ Unusual [volume](../v/volume.md) acts as a [proxy](../p/proxy.md) for [investor]
 
 ### Machine Learning Algorithms
 
-- **[Pattern Recognition](../p/pattern_recognition.md):** Machine learning models can be trained to recognize patterns associated with unusual [volume](../v/volume.md). These models can continuously evolve by learning from historical data and new [market](../m/market.md) conditions.
+- **[Pattern Recognition](../p/pattern_recognition.md):** [Machine learning](../m/machine_learning.md) models can be trained to recognize patterns associated with unusual [volume](../v/volume.md). These models can continuously evolve by learning from historical data and new [market](../m/market.md) conditions.
   
   - **Link to Platform Examples:** 
     - [Kaggle: Data science and machine learning competitions](https://www.kaggle.com/)
   
-- **[Anomaly Detection](../a/anomaly_detection.md):** Advanced machine learning techniques can flag anomalies in trading [volume](../v/volume.md), helping to identify unusual trading activity that could signify breaking news or significant events.
+- **[Anomaly Detection](../a/anomaly_detection.md):** Advanced [machine learning](../m/machine_learning.md) techniques can flag anomalies in trading [volume](../v/volume.md), helping to identify unusual trading activity that could signify breaking news or significant events.
 
 ## Strategic Applications
 
@@ -106,4 +106,4 @@ Unusual [volume](../v/volume.md) can sometimes result from [market manipulation]
 
 ## Conclusion
 
-In summary, unusual [volume](../v/volume.md) is a powerful [indicator](../i/indicator.md) in [algorithmic trading](../a/algorithmic_trading.md) that can signal potential [trade](../t/trade.md) opportunities or risks. By leveraging statistical methods, algorithmic approaches, and machine learning, traders can detect and act upon unusual [volume](../v/volume.md) to refine their [trading strategies](../t/trading_strategies.md). As with any trading signal, it is crucial to corroborate unusual [volume](../v/volume.md) with additional data points to minimize risks and enhance decision-making accuracy.
+In summary, unusual [volume](../v/volume.md) is a powerful [indicator](../i/indicator.md) in [algorithmic trading](../a/algorithmic_trading.md) that can signal potential [trade](../t/trade.md) opportunities or risks. By leveraging statistical methods, algorithmic approaches, and [machine learning](../m/machine_learning.md), traders can detect and act upon unusual [volume](../v/volume.md) to refine their [trading strategies](../t/trading_strategies.md). As with any trading signal, it is crucial to corroborate unusual [volume](../v/volume.md) with additional data points to minimize risks and enhance decision-making accuracy.

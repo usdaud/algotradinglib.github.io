@@ -58,7 +58,7 @@ Renaissance Technologies is one of the most successful [hedge](../h/hedge.md) fu
 
 #### Two Sigma
 
-Two Sigma is another prominent [hedge fund](../h/hedge_fund.md) that specializes in [quantitative trading](../q/quantitative_trading.md) strategies, including [Relative Value](../r/relative_value.md) [Arbitrage](../a/arbitrage.md). The [firm](../f/firm.md) leverages [big data](../b/big_data_in_trading.md), machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to inform its trading decisions. [Two Sigma](https://www.twosigma.com/)
+Two Sigma is another prominent [hedge fund](../h/hedge_fund.md) that specializes in [quantitative trading](../q/quantitative_trading.md) strategies, including [Relative Value](../r/relative_value.md) [Arbitrage](../a/arbitrage.md). The [firm](../f/firm.md) leverages [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to inform its trading decisions. [Two Sigma](https://www.twosigma.com/)
 
 #### Citadel LLC
 

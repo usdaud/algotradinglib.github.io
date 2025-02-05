@@ -125,7 +125,7 @@ Several firms are at the forefront of [market microstructure](../m/market_micros
 
 ### Two Sigma Investments
 
-[Two Sigma Investments](https://www.twosigma.com) focuses on using advanced machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to make data-driven investment decisions.
+[Two Sigma Investments](https://www.twosigma.com) focuses on using advanced [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to make data-driven investment decisions.
 
 ### IMC Trading
 

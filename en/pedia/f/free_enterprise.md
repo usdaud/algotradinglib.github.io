@@ -84,7 +84,7 @@ Renaissance Technologies (https://www.rentec.com) is renowned for its [quantitat
 
 ### 4. Two Sigma Investments
 
-Two Sigma Investments (https://www.twosigma.com) is a quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) applies its expertise in technology and data analysis to identify [market](../m/market.md) opportunities.
+Two Sigma Investments (https://www.twosigma.com) is a quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) applies its expertise in technology and data analysis to identify [market](../m/market.md) opportunities.
 
 ### 5. DE Shaw & Co.
 
@@ -132,7 +132,7 @@ The future of free enterprise and [algorithmic trading](../a/accountability.md) 
 
 ### 1. Artificial Intelligence and Machine Learning
 
-AI and machine learning are expected to play an increasingly significant role in [algorithmic trading](../a/accountability.md). These technologies can enhance predictive capabilities, optimize [trading strategies](../t/trading_strategies.md), and adapt to changing [market](../m/market.md) conditions.
+AI and [machine learning](../m/machine_learning.md) are expected to play an increasingly significant role in [algorithmic trading](../a/accountability.md). These technologies can enhance predictive capabilities, optimize [trading strategies](../t/trading_strategies.md), and adapt to changing [market](../m/market.md) conditions.
 
 ### 2. Quantum Computing
 

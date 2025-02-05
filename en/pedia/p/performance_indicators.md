@@ -139,9 +139,9 @@ Tail Ratio = Average Size of Largest Gains / Average Size of Largest Losses
 Kensho uses advanced analytics and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to [offer](../o/offer.md) [performance analytics](../p/performance_analytics.md) tools. You can explore their technology further at [Kensho Technologies](https://www.kensho.com/).
 
 ### 2. **Numerai**
-Numerai uses machine learning models to predict [stock market](../s/stock_market.md) returns and offers incentives to data scientists for improved predictions. Additional details can be found on [Numerai](https://numer.ai/).
+Numerai uses [machine learning](../m/machine_learning.md) models to predict [stock market](../s/stock_market.md) returns and offers incentives to data scientists for improved predictions. Additional details can be found on [Numerai](https://numer.ai/).
 
 ### 3. **Two Sigma**
-Two Sigma is a [hedge fund](../h/hedge_fund.md) that uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning for its [trading strategies](../t/trading_strategies.md). Their approach to [performance metrics](../p/performance_metrics.md) is detailed on [Two Sigma](https://www.twosigma.com/).
+Two Sigma is a [hedge fund](../h/hedge_fund.md) that uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) for its [trading strategies](../t/trading_strategies.md). Their approach to [performance metrics](../p/performance_metrics.md) is detailed on [Two Sigma](https://www.twosigma.com/).
 
 These performance indicators collectively provide a [robust](../r/robust.md) framework for evaluating the efficacy, [risk](../r/risk.md), and [return](../r/return.md) profile of [algorithmic trading](../a/algorithmic_trading.md) strategies. Each metric highlights different facets of a trading algorithm's performance and risks, aiding in the comprehensive assessment and [optimization](../o/optimization.md) of [trading models](../t/trading_models.md).

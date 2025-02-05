@@ -29,7 +29,7 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), [quantitat
 
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Studying historical price data to forecast future movements.
 - **[Factor Models](../f/factor_models.md)**: Identifying factors like [momentum](../m/momentum.md), [value](../v/value.md), and size that drive returns.
-- **Machine Learning**: Applying algorithms to detect patterns and make predictions from large datasets.
+- **[Machine Learning](../m/machine_learning.md)**: Applying algorithms to detect patterns and make predictions from large datasets.
 
 ## The Role of Equity Research in Algorithmic Trading
 

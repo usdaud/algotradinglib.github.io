@@ -93,7 +93,7 @@ Blended learning models, which combine traditional face-to-face teaching with on
 
 ## Advancements in AI and Machine Learning
 
-As AI and machine learning technologies advance, their applications in EdTech [will](../w/will.md) become more sophisticated. Future systems might include [predictive analytics](../p/predictive_analytics.md) that can forecast a student's future performance based on current progress or virtual mentors that provide real-time feedback.
+As AI and [machine learning](../m/machine_learning.md) technologies advance, their applications in EdTech [will](../w/will.md) become more sophisticated. Future systems might include [predictive analytics](../p/predictive_analytics.md) that can forecast a student's future performance based on current progress or virtual mentors that provide real-time feedback.
 
 ## Blockchain in Education
 

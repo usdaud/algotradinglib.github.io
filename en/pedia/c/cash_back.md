@@ -97,7 +97,7 @@ Advancements in technology have allowed for smoother integration of cash back pr
 
 ### Personalized Offers
 
-Machine learning and AI are increasingly being used to personalize cash back offers based on consumer behavior. For example, some [credit card](../c/credit_card.md) issuers use [data analytics](../d/data_analytics.md) to [offer](../o/offer.md) higher cash back percentages on categories where a consumer frequently spends.
+[Machine learning](../m/machine_learning.md) and AI are increasingly being used to personalize cash back offers based on consumer behavior. For example, some [credit card](../c/credit_card.md) issuers use [data analytics](../d/data_analytics.md) to [offer](../o/offer.md) higher cash back percentages on categories where a consumer frequently spends.
 
 ### Cryptocurrencies and Cash Back
 

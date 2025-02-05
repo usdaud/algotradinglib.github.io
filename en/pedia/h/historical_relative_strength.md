@@ -32,7 +32,7 @@ Various tools can be employed to analyze historical RS:
 
 - **Charts and Graphs**: Visual representations that plot RS over time.
 - **Statistical Methods**: Techniques such as moving averages and [regression analysis](../r/regression_analysis.md) to smooth out and analyze data trends.
-- **Machine Learning**: Advanced techniques to identify patterns and make predictive analyses.
+- **[Machine Learning](../m/machine_learning.md)**: Advanced techniques to identify patterns and make predictive analyses.
 
 ## Applications in Algorithmic Trading
 

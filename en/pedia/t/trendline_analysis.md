@@ -37,7 +37,7 @@ Algorithms use historical price data to detect trendlines. They employ various m
 
 ### Advanced Trendline Algorithms
 
-Advanced algorithms might include machine learning models trained to recognize complex patterns that indicate [trend](../t/trend.md) changes. Techniques such as:
+Advanced algorithms might include [machine learning](../m/machine_learning.md) models trained to recognize complex patterns that indicate [trend](../t/trend.md) changes. Techniques such as:
 
 - **[Neural Networks](../n/neural_networks_in_trading.md)**: Employed to predict future price movements based on historical patterns.
 - **[Support Vector Machines](../s/support_vector_machines_in_trading.md)**: Used to classify price movements into different [trend](../t/trend.md) categories.
@@ -54,7 +54,7 @@ In rule-based systems, the algorithm is coded with specific rules to follow when
 
 #### Machine Learning-Based Systems
 
-Machine learning systems, on the other hand, are more dynamic and adapt by learning from historical data:
+[Machine learning](../m/machine_learning.md) systems, on the other hand, are more dynamic and adapt by learning from historical data:
 
 1. **Data Collection**: Training data consists of historical price movements and trendlines drawn by experts.
 2. **Model Training**: Algorithms learn to recognize patterns and predict future trends.
@@ -82,5 +82,5 @@ Various [algorithmic trading](../a/algorithmic_trading.md) platforms [offer](../
 
 ### Conclusion
 
-[Trendline](../t/trendline.md) analysis is a powerful tool in both manual and [algorithmic trading](../a/algorithmic_trading.md). By automating the creation and interpretation of trendlines, traders can enhance their strategy performance, reduce subjective errors, and respond swiftly to [market](../m/market.md) changes. Developing [robust](../r/robust.md) algorithms for [trendline](../t/trendline.md) analysis involves a deep understanding of [market](../m/market.md) behaviors, efficient coding practices, and the ability to harness machine learning for adaptive [trend](../t/trend.md) detection.
+[Trendline](../t/trendline.md) analysis is a powerful tool in both manual and [algorithmic trading](../a/algorithmic_trading.md). By automating the creation and interpretation of trendlines, traders can enhance their strategy performance, reduce subjective errors, and respond swiftly to [market](../m/market.md) changes. Developing [robust](../r/robust.md) algorithms for [trendline](../t/trendline.md) analysis involves a deep understanding of [market](../m/market.md) behaviors, efficient coding practices, and the ability to harness [machine learning](../m/machine_learning.md) for adaptive [trend](../t/trend.md) detection.
 

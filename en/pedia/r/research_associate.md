@@ -58,7 +58,7 @@ Strong skills in [quantitative analysis](../q/quantitative_analysis.md) are impe
 
 Modern research associates in [finance](../f/finance.md) and fintech are often expected to have programming skills, especially in languages like Python, R, and SQL.
 
-- **Python**: For data analysis, machine learning models, and scripting.
+- **Python**: For data analysis, [machine learning](../m/machine_learning.md) models, and scripting.
 - **R**: For statistical analysis.
 - **SQL**: For database querying and management.
 

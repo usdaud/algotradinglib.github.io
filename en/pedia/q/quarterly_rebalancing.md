@@ -63,7 +63,7 @@ Robo-advisors like Betterment and Wealthfront automate the [rebalancing](../r/re
 
 ### Future Trends
 
-The future of quarterly [rebalancing](../r/rebalancing.md) in [algorithmic trading](../a/algorithmic_trading.md) is likely to involve even more automation and sophistication. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) could play significant roles in predicting optimal [rebalancing](../r/rebalancing.md) times and minimizing costs. Enhanced [data analytics](../d/data_analytics.md) and real-time monitoring [will](../w/will.md) enable more efficient and responsive [rebalancing strategies](../r/rebalancing_strategies.md).
+The future of quarterly [rebalancing](../r/rebalancing.md) in [algorithmic trading](../a/algorithmic_trading.md) is likely to involve even more automation and sophistication. [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) could play significant roles in predicting optimal [rebalancing](../r/rebalancing.md) times and minimizing costs. Enhanced [data analytics](../d/data_analytics.md) and real-time monitoring [will](../w/will.md) enable more efficient and responsive [rebalancing strategies](../r/rebalancing_strategies.md).
 
 ### Conclusion
 

@@ -32,7 +32,7 @@ There are various types of [simulation](../s/simulation_in_trading.md) models co
 4. **Synthetic Data Generation**:
    - **Definition**: Creating artificial data that resembles real [market](../m/market.md) conditions using statistical techniques and machine [learning algorithms](../l/learning_algorithms_in_trading.md).
    - **Usage**: Useful when historical data is insufficient or when testing on hypothetical scenarios.
-   - **Tools**: Algorithms such as GANs (Generative Adversarial Networks) are increasingly employed for synthetic data generation.
+   - **Tools**: Algorithms such as GANs ([Generative Adversarial Networks](../g/generative_adversarial_networks.md)) are increasingly employed for synthetic data generation.
 
 ### Key Components of Simulation Models
 

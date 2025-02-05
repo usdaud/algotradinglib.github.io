@@ -118,7 +118,7 @@ Contingent immunization combines [active management](../a/active_management.md) 
 Robo-advisors use algorithms to create and manage [bond](../b/bond.md) portfolios based on investors' [risk](../r/risk.md) preferences and financial goals. They provide automated, low-cost [portfolio management](../p/portfolio_management.md) services.
 
 ### Machine Learning and AI
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly used in [bond](../b/bond.md) [portfolio management](../p/portfolio_management.md) to analyze large datasets, identify patterns, and make [predictive models](../p/predictive_models_in_trading.md). These technologies enhance decision-making and [risk management](../r/risk_management.md) capabilities.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly used in [bond](../b/bond.md) [portfolio management](../p/portfolio_management.md) to analyze large datasets, identify patterns, and make [predictive models](../p/predictive_models_in_trading.md). These technologies enhance decision-making and [risk management](../r/risk_management.md) capabilities.
 
 ### Blockchain and Smart Contracts
 [Blockchain](../b/blockchain_in_trading.md) technology and [smart contracts](../s/smart_contracts_in_trading.md) [offer](../o/offer.md) [transparency](../t/transparency.md), [security](../s/security.md), and [efficiency](../e/efficiency.md) in [bond](../b/bond.md) transactions and management. They streamline processes such as settlement, compliance, and reporting.

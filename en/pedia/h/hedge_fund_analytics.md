@@ -34,7 +34,7 @@ These models are paramount for proper analysis and strategy development in [hedg
 
 - **Markowitz Modern Portfolio Theory (MPT)**: Emphasizes optimizing a portfolio's [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md).
 - **[Factor Models](../f/factor_models.md)**: Decomposing returns into factors such as [market risk](../m/market_risk.md), size, [value](../v/value.md), and [momentum](../m/momentum.md).
-- **Machine Learning (ML) Algorithms**: Using techniques like regression, classification, clustering, and [neural networks](../n/neural_networks_in_trading.md) to analyze data and predict [market](../m/market.md) behaviors.
+- **[Machine Learning](../m/machine_learning.md) (ML) Algorithms**: Using techniques like regression, classification, clustering, and [neural networks](../n/neural_networks_in_trading.md) to analyze data and predict [market](../m/market.md) behaviors.
 
 ### 5. Data Sources and Tools
 [Hedge](../h/hedge.md) funds use numerous data sources and analytical tools to support decision-making processes.
@@ -52,7 +52,7 @@ These models are paramount for proper analysis and strategy development in [hedg
 ## Leading Hedge Fund Analytics Companies
 
 ### 1. Two Sigma
-Two Sigma uses machine learning, distributed computing, and other advanced technologies to find connections in the world’s data. They manage over $60 billion in assets and employ over 1,600 people.
+Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies to find connections in the world’s data. They manage over $60 billion in assets and employ over 1,600 people.
 - Website: [Two Sigma](https://www.twosigma.com/)
 
 ### 2. Renaissance Technologies
@@ -72,7 +72,7 @@ Citadel employs advanced analytics and proprietary technology to build portfolio
 - Website: [Citadel](https://www.citadel.com/)
 
 ## Machine Learning in Hedge Fund Analytics
-Machine learning (ML) plays a pivotal role in enhancing the capabilities of [hedge fund](../h/hedge_fund.md) analytics.
+[Machine learning](../m/machine_learning.md) (ML) plays a pivotal role in enhancing the capabilities of [hedge fund](../h/hedge_fund.md) analytics.
 
 ### Use Cases:
 - **[Predictive Modeling](../p/predictive_modeling.md)**: Algorithms identify patterns and predict future price movements.

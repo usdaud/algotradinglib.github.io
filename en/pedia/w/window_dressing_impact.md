@@ -58,7 +58,7 @@ From a regulatory perspective, [window dressing](../w/window_dressing.md) can be
 
 ### Pattern Recognition
 
-Advanced machine learning techniques and statistical models can be used for [pattern recognition](../p/pattern_recognition.md). By training algorithms on historical data, these systems can learn to identify patterns indicative of [window dressing](../w/window_dressing.md).
+Advanced [machine learning](../m/machine_learning.md) techniques and statistical models can be used for [pattern recognition](../p/pattern_recognition.md). By training algorithms on historical data, these systems can learn to identify patterns indicative of [window dressing](../w/window_dressing.md).
 
 ### Sentiment Analysis
 

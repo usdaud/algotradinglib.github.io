@@ -44,7 +44,7 @@ The [debt](../d/debt.md)-to-[income](../i/income.md) (DTI) ratio is a key metric
 
 ### Automated Evaluation Models
 
-Advanced technologies like machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly employed to assess creditworthiness. These models analyze vast datasets, identifying patterns and trends beyond human capability. Companies like [Zest AI](https://www.zest.ai/) use such technologies to enhance [credit](../c/credit.md) evaluations.
+Advanced technologies like [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly employed to assess creditworthiness. These models analyze vast datasets, identifying patterns and trends beyond human capability. Companies like [Zest AI](https://www.zest.ai/) use such technologies to enhance [credit](../c/credit.md) evaluations.
 
 ## Importance of Creditworthiness in Algorithmic Trading
 
@@ -72,7 +72,7 @@ Creditworthiness is integral to [portfolio management](../p/par.md), influencing
 
 ### Fintech and AI Integration
 
-Fintech innovations, particularly AI and machine learning, are expected to revolutionize creditworthiness assessments. [Predictive analytics](../p/predictive_analytics.md) and advanced modeling [will](../w/will.md) enhance accuracy and [efficiency](../e/efficiency.md). Companies like [Upstart](https://www.upstart.com/) are pioneers in leveraging AI for [credit](../c/credit.md) evaluations, setting trends for the future.
+Fintech innovations, particularly AI and [machine learning](../m/machine_learning.md), are expected to revolutionize creditworthiness assessments. [Predictive analytics](../p/predictive_analytics.md) and advanced modeling [will](../w/will.md) enhance accuracy and [efficiency](../e/efficiency.md). Companies like [Upstart](https://www.upstart.com/) are pioneers in leveraging AI for [credit](../c/credit.md) evaluations, setting trends for the future.
 
 ### Blockchain and Credit Reporting
 

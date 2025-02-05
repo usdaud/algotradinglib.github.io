@@ -22,7 +22,7 @@ In [algorithmic trading](../a/accountability.md), gains are calculated using com
 
 \[ \text{Gain} = \text{Selling Price} - \text{Purchase Price} \]
 
-For more sophisticated strategies, algorithms incorporate additional variables and methods like [regression analysis](../r/regression_analysis.md), machine learning, and statistical [arbitrage](../a/arbitrage.md) to optimize gains.
+For more sophisticated strategies, algorithms incorporate additional variables and methods like [regression analysis](../r/regression_analysis.md), [machine learning](../m/machine_learning.md), and statistical [arbitrage](../a/arbitrage.md) to optimize gains.
 
 ## Factors Influencing Gains
 Several factors can influence the gains in [algorithmic trading](../a/accountability.md):

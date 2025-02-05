@@ -30,9 +30,9 @@ Statistical models use historical data to make predictions about future price mo
 - **GARCH (Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md))**: Used to estimate the [volatility](../v/volatility.md) of returns over time.
 
 #### Machine Learning and AI
-Advanced machine learning techniques are increasingly being used in signal generation. These include:
-- **Supervised Learning**: Algorithms like [Random Forests](../r/random_forests_in_trading.md) and [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) used for classification and regression tasks.
-- **Unsupervised Learning**: Techniques like [K-means clustering](../k/k-means_clustering_in_trading.md) for identifying patterns without prior training.
+Advanced [machine learning](../m/machine_learning.md) techniques are increasingly being used in signal generation. These include:
+- **[Supervised Learning](../s/supervised_learning.md)**: Algorithms like [Random Forests](../r/random_forests_in_trading.md) and [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) used for classification and regression tasks.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Techniques like [K-means clustering](../k/k-means_clustering_in_trading.md) for identifying patterns without prior training.
 - **[Deep Learning](../d/deep_learning.md)**: Utilizing [neural networks](../n/neural_networks_in_trading.md) for complex [pattern recognition](../p/pattern_recognition.md) and [forecasting](../f/forecasting.md).
 
 ## Key Challenges in X-Signal Generation
@@ -75,7 +75,7 @@ The ability to process and analyze data in real-time is becoming increasingly cr
 Incorporating [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md), satellite imagery, and web traffic, is becoming more common. These data sources can provide unique insights and enhance signal accuracy.
 
 ### 4. Ethical AI and Transparency
-As the use of machine learning in trading grows, so does the need for ethical AI practices and algorithmic [transparency](../t/transparency.md). Firms must ensure their models are not only effective but also fair and compliant with regulations.
+As the use of [machine learning](../m/machine_learning.md) in trading grows, so does the need for ethical AI practices and algorithmic [transparency](../t/transparency.md). Firms must ensure their models are not only effective but also fair and compliant with regulations.
 
 ## Conclusion
-X-Signal generation is a multifaceted and evolving area within [algorithmic trading](../a/algorithmic_trading.md). Combining techniques from [technical analysis](../t/technical_analysis.md), statistical modeling, and machine learning, [algorithmic trading](../a/algorithmic_trading.md) aims to generate highly accurate and timely signals. Despite challenges related to data quality, [overfitting](../o/overfitting.md), and regulatory compliance, advancements in real-time data processing, [quantum computing](../q/quantum_computing_in_trading.md), and [alternative data](../a/alternative_data.md) integration continue to push the boundaries of what is possible. As the field progresses, ethical considerations and [transparency](../t/transparency.md) [will](../w/will.md) play an increasingly important role in the development and deployment of [trading algorithms](../t/trading_algorithms.md).
+X-Signal generation is a multifaceted and evolving area within [algorithmic trading](../a/algorithmic_trading.md). Combining techniques from [technical analysis](../t/technical_analysis.md), statistical modeling, and [machine learning](../m/machine_learning.md), [algorithmic trading](../a/algorithmic_trading.md) aims to generate highly accurate and timely signals. Despite challenges related to data quality, [overfitting](../o/overfitting.md), and regulatory compliance, advancements in real-time data processing, [quantum computing](../q/quantum_computing_in_trading.md), and [alternative data](../a/alternative_data.md) integration continue to push the boundaries of what is possible. As the field progresses, ethical considerations and [transparency](../t/transparency.md) [will](../w/will.md) play an increasingly important role in the development and deployment of [trading algorithms](../t/trading_algorithms.md).

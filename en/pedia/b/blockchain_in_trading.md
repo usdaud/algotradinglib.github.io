@@ -95,7 +95,7 @@ While blockchain is transparent, this can sometimes conflict with data privacy r
 ## Future Prospects and Innovations
 
 ### Integration with AI and ML
-The integration of blockchain with [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) can transform [trading algorithms](../t/trading_algorithms.md), making them more efficient and capable of learning from vast amounts of data.
+The integration of blockchain with [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) can transform [trading algorithms](../t/trading_algorithms.md), making them more efficient and capable of learning from vast amounts of data.
 
 ### Smart Contracts
 [Smart contracts](../s/smart_contracts_in_trading.md) can automate and enforce trading agreements without the need for manual intervention. These programmable contracts can execute trades automatically when specific conditions are met.

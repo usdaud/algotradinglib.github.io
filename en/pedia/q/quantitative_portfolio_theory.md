@@ -64,7 +64,7 @@ The [Black-Litterman Model](../b/black-litterman_model.md) is an advanced [portf
 
 ### Machine Learning in QPT
 
-Machine Learning (ML) algorithms are increasingly being integrated into QPT. Techniques such as supervised learning, unsupervised learning, and reinforcement learning are used to predict [asset](../a/asset.md) prices, optimize portfolios, and manage risks.
+[Machine Learning](../m/machine_learning.md) (ML) algorithms are increasingly being integrated into QPT. Techniques such as [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md) are used to predict [asset](../a/asset.md) prices, optimize portfolios, and manage risks.
 
 ## Applications and Real-World Examples
 

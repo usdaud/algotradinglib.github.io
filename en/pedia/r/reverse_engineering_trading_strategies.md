@@ -62,7 +62,7 @@ Several tools and technologies can facilitate the reverse engineering of [tradin
 - **Programming Languages:** Python, R, and MATLAB are popular choices for implementing and testing [trading strategies](../t/trading_strategies.md).
 - **Trading Platforms:** Platforms like MetaTrader, [Thinkorswim](../t/thinkorswim.md), and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) extensive tools for [backtesting](../b/backtesting.md) and strategy development.
 - **Data Analysis Libraries:** Libraries such as Pandas, NumPy, and SciPy in Python provide powerful data manipulation and analysis capabilities.
-- **Machine Learning Frameworks:** TensorFlow, scikit-learn, and PyTorch can be used to incorporate machine learning techniques into [trading strategy](../t/trading_strategy.md) analysis.
+- **[Machine Learning](../m/machine_learning.md) Frameworks:** [TensorFlow](../t/tensorflow.md), scikit-learn, and [PyTorch](../p/pytorch.md) can be used to incorporate [machine learning](../m/machine_learning.md) techniques into [trading strategy](../t/trading_strategy.md) analysis.
 
 ## Ethical and Legal Considerations
 

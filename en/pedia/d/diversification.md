@@ -50,7 +50,7 @@ Algorithms such as [Mean-Variance Optimization](../m/mean-variance_optimization.
 
 ### Machine Learning Models
 
-Algorithms leveraging machine learning can adapt to changing [market](../m/market.md) conditions, making them powerful tools for achieving diversification. For example, [clustering algorithms](../c/clustering_algorithms.md) like K-means or hierarchical clustering can group highly correlated assets, helping in mix selection. Reinforcement learning can dynamically adjust the portfolio composition based on [market](../m/market.md) state.
+Algorithms leveraging [machine learning](../m/machine_learning.md) can adapt to changing [market](../m/market.md) conditions, making them powerful tools for achieving diversification. For example, [clustering algorithms](../c/clustering_algorithms.md) like K-means or hierarchical clustering can group highly correlated assets, helping in mix selection. [Reinforcement learning](../r/reinforcement_learning.md) can dynamically adjust the portfolio composition based on [market](../m/market.md) state.
 
 ### Statistical Techniques
 
@@ -70,7 +70,7 @@ Renaissance Technologies, founded by Jim Simons, employs sophisticated [mathemat
 
 ### Two Sigma [Two Sigma](https://www.twosigma.com/)
 
-Two Sigma, founded by David Siegel and John Overdeck, is a [hedge fund](../h/hedge_fund.md) based on [data science](../d/data_science_in_trading.md) and technology. They utilize machine learning, distributed computing, and diversified investment strategies to manage their portfolios. Their approach includes a wide [range](../r/range.md) of diversification—from [asset](../a/asset.md) classes and geographies to the use of [multiple](../m/multiple.md) algorithmic strategies, helping them minimize risks and achieve steady returns.
+Two Sigma, founded by David Siegel and John Overdeck, is a [hedge fund](../h/hedge_fund.md) based on [data science](../d/data_science_in_trading.md) and technology. They utilize [machine learning](../m/machine_learning.md), distributed computing, and diversified investment strategies to manage their portfolios. Their approach includes a wide [range](../r/range.md) of diversification—from [asset](../a/asset.md) classes and geographies to the use of [multiple](../m/multiple.md) algorithmic strategies, helping them minimize risks and achieve steady returns.
 
 ## Software Tools for Diversification
 

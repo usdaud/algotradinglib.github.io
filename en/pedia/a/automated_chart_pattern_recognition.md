@@ -18,11 +18,11 @@ Automated Chart [Pattern Recognition](../p/pattern_recognition.md) (ACPR) involv
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) involves the use of algorithms to execute trades automatically. This includes strategies based on statistical analysis, machine learning, and [technical indicators](../t/technical_indicators.md), of which [pattern recognition](../p/pattern_recognition.md) is a part.
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of algorithms to execute trades automatically. This includes strategies based on statistical analysis, [machine learning](../m/machine_learning.md), and [technical indicators](../t/technical_indicators.md), of which [pattern recognition](../p/pattern_recognition.md) is a part.
 
 ### Machine Learning and AI
 
-Machine learning and AI can enhance ACPR by developing models trained on vast datasets to improve the identification accuracy and predict the likelihood of pattern success. Techniques include supervised learning, [neural networks](../n/neural_networks_in_trading.md), and [deep learning](../d/deep_learning.md) frameworks.
+[Machine learning](../m/machine_learning.md) and AI can enhance ACPR by developing models trained on vast datasets to improve the identification accuracy and predict the likelihood of pattern success. Techniques include [supervised learning](../s/supervised_learning.md), [neural networks](../n/neural_networks_in_trading.md), and [deep learning](../d/deep_learning.md) frameworks.
 
 ### Technical Indicators
 
@@ -36,7 +36,7 @@ Image recognition techniques involve processing visual data from charts. Convolu
 
 ### Rule-Based Systems
 
-Rule-based systems use predefined criteria to identify patterns. These systems are simpler but less flexible than machine learning models. They operate by matching current price movements with classic chart pattern definitions.
+Rule-based systems use predefined criteria to identify patterns. These systems are simpler but less flexible than [machine learning](../m/machine_learning.md) models. They operate by matching current price movements with classic chart pattern definitions.
 
 ### Pattern Matching Algorithms
 
@@ -79,5 +79,5 @@ Quant desks in financial institutions use ACPR for [quantitative analysis](../q/
 
 ### Research and Development
 
-1. **Kensho Technologies**: Acquired by S&P Global, Kensho develops machine learning and AI solutions for [financial markets](../f/financial_market.md). [Website](https://www.kensho.com)
+1. **Kensho Technologies**: Acquired by S&P Global, Kensho develops [machine learning](../m/machine_learning.md) and AI solutions for [financial markets](../f/financial_market.md). [Website](https://www.kensho.com)
 2. **Numerai**: A [hedge fund](../h/hedge_fund.md) that leverages [data science](../d/data_science_in_trading.md) and AI for trading, utilizing [predictive models](../p/predictive_models_in_trading.md) and [pattern recognition](../p/pattern_recognition.md). [Website](https://numer.ai)

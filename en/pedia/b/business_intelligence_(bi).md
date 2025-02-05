@@ -75,7 +75,7 @@ The field of [Business](../b/business.md) Intelligence is ever-evolving, with se
 
 ### Artificial Intelligence and Machine Learning
 
-AI and machine learning are increasingly being integrated into BI platforms to automate complex data analysis and uncover insights that would be impossible for humans to detect manually.
+AI and [machine learning](../m/machine_learning.md) are increasingly being integrated into BI platforms to automate complex data analysis and uncover insights that would be impossible for humans to detect manually.
 
 ### Natural Language Processing (NLP)
 
@@ -91,7 +91,7 @@ The [demand](../d/demand.md) for [real-time data analysis](../r/real-time_data_a
 
 ### Augmented Analytics
 
-Augmented analytics uses machine learning to enhance data preparation, insight generation, and explanation to augment how data are explored and analyzed.
+Augmented analytics uses [machine learning](../m/machine_learning.md) to enhance data preparation, insight generation, and explanation to augment how data are explored and analyzed.
 
 # Challenges in Implementing BI
 

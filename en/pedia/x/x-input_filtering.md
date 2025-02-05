@@ -43,7 +43,7 @@ Smoothing techniques like Moving Average (MA), Exponential Moving Average (EMA),
 Statistical filters such as Kalman Filters and Particle Filters are used for estimating variables over time by considering [noise](../n/noise.md) and other inaccuracies.
 
 ### Machine Learning Models
-Machine learning models like [Neural Networks](../n/neural_networks_in_trading.md) and [Support Vector Machines](../s/support_vector_machines_in_trading.md) can be trained to identify and filter out anomalies and irrelevant data points.
+[Machine learning](../m/machine_learning.md) models like [Neural Networks](../n/neural_networks_in_trading.md) and [Support Vector Machines](../s/support_vector_machines_in_trading.md) can be trained to identify and filter out anomalies and irrelevant data points.
 
 ### Signal Processing Techniques
 Fourier Transform and [Wavelet Transform](../w/wavelet_transform_in_trading.md) are advanced [signal processing](../s/signal_processing_in_trading.md) techniques that can segregate [noise](../n/noise.md) from useful signals in the data.
@@ -63,7 +63,7 @@ For high-frequency trading, implementing real-time filtering techniques is cruci
 Back-testing involves testing [trading algorithms](../t/trading_algorithms.md) on historical data to ensure they work correctly and profitably. Properly filtered inputs can provide more accurate and reliable back-testing results.
 
 ### Feature Engineering
-Filtered inputs are used to create features that [will](../w/will.md) be fed into machine learning models. High-quality features result in better model performance.
+Filtered inputs are used to create features that [will](../w/will.md) be fed into [machine learning](../m/machine_learning.md) models. High-quality features result in better model performance.
 
 ## Case Studies and Applications
 

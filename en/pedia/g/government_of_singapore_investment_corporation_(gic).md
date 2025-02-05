@@ -75,13 +75,13 @@ GIC contributes to community development through various initiatives and partner
 
 ## Technological Innovations
 
-To stay ahead in the rapidly evolving investment landscape, GIC leverages technological innovations. Advanced analytics, machine learning, and [big data](../b/big_data_in_trading.md) are increasingly integrated into its investment processes.
+To stay ahead in the rapidly evolving investment landscape, GIC leverages technological innovations. Advanced analytics, [machine learning](../m/machine_learning.md), and [big data](../b/big_data_in_trading.md) are increasingly integrated into its investment processes.
 
 ### Data Analytics
 GIC uses [data analytics](../d/data_analytics.md) to enhance its investment research and decision-making. This includes analyzing large datasets to identify trends and opportunities.
 
 ### Machine Learning
-Machine learning models help GIC improve its [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md). These models can process vast amounts of data to identify potential risks and optimize [asset allocation](../a/asset_allocation.md).
+[Machine learning](../m/machine_learning.md) models help GIC improve its [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md). These models can process vast amounts of data to identify potential risks and optimize [asset allocation](../a/asset_allocation.md).
 
 ### Digital Platforms
 GIC utilizes digital platforms to streamline its operations and improve [efficiency](../e/efficiency.md). These platforms facilitate better collaboration, data sharing, and decision-making across the organization.

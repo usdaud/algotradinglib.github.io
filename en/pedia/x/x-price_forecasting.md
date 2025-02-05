@@ -1,7 +1,7 @@
 # X-Price Forecasting
 
 ## Introduction
-X-Price [Forecasting](../f/forecasting.md) refers to the use of advanced computational and statistical techniques to predict future prices of financial instruments. In [algorithmic trading](../a/algorithmic_trading.md), these forecasts are critical for making informed trading decisions. Modern [forecasting](../f/forecasting.md) methods [leverage](../l/leverage.md) a combination of machine learning, [time series analysis](../t/time_series_analysis.md), and [deep learning](../d/deep_learning.md) to achieve high levels of accuracy. This document provides a comprehensive overview of X-Price [Forecasting](../f/forecasting.md), including its importance, methodologies, challenges, and real-world application.
+X-Price [Forecasting](../f/forecasting.md) refers to the use of advanced computational and statistical techniques to predict future prices of financial instruments. In [algorithmic trading](../a/algorithmic_trading.md), these forecasts are critical for making informed trading decisions. Modern [forecasting](../f/forecasting.md) methods [leverage](../l/leverage.md) a combination of [machine learning](../m/machine_learning.md), [time series analysis](../t/time_series_analysis.md), and [deep learning](../d/deep_learning.md) to achieve high levels of accuracy. This document provides a comprehensive overview of X-Price [Forecasting](../f/forecasting.md), including its importance, methodologies, challenges, and real-world application.
 
 ## Importance of X-Price Forecasting
 X-Price [Forecasting](../f/forecasting.md) is integral to [algorithmic trading](../a/algorithmic_trading.md) for several reasons:
@@ -19,7 +19,7 @@ X-Price [Forecasting](../f/forecasting.md) is integral to [algorithmic trading](
 - **GARCH (Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md))**: Models [volatility clustering](../v/volatility_clustering.md) in [financial time series](../f/financial_time_series.md).
 
 ### Machine Learning Models
-Machine learning models can capture complex, non-linear relationships in financial data:
+[Machine learning](../m/machine_learning.md) models can capture complex, non-linear relationships in financial data:
 - **[Linear Regression](../l/linear_regression.md)**: Provides a basic approach for modeling relationships between variables.
 - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Effective for classification and regression tasks in [financial forecasting](../f/financial_forecasting.md).
 - **[Random Forests](../r/random_forests_in_trading.md)**: An [ensemble learning](../e/ensemble_learning.md) method that enhances prediction accuracy by combining [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md).
@@ -47,7 +47,7 @@ Hybrid models combine various [forecasting](../f/forecasting.md) techniques to [
 
 ### Model Overfitting
 - **[Overfitting](../o/overfitting.md)**: Developing models that perform well on historical data but poorly on unseen data. Regularization techniques and cross-validation can help mitigate this [issue](../i/issue.md).
-- **Hyperparameter Tuning**: The challenge of selecting optimal hyperparameters for machine learning models, requiring extensive experimentation and validation.
+- **Hyperparameter Tuning**: The challenge of selecting optimal hyperparameters for [machine learning](../m/machine_learning.md) models, requiring extensive experimentation and validation.
 
 ### Market Dynamics
 - **Non-Stationarity**: [Financial markets](../f/financial_market.md) are non-stationary, with [underlying](../u/underlying.md) patterns and distributions changing over time.
@@ -63,7 +63,7 @@ Hybrid models combine various [forecasting](../f/forecasting.md) techniques to [
 HFT firms use X-Price [Forecasting models](../f/forecasting_models.md) to make rapid, high-[volume](../v/volume.md) trades, capitalizing on minute price fluctuations. E.g., [Jump Trading](../j/jump_trading.md) leverages sophisticated algorithms to execute trades in microseconds (https://www.jumptrading.com).
 
 ### Hedge Funds and Asset Management
-[Hedge](../h/hedge.md) funds and [asset](../a/asset.md) managers use sophisticated [forecasting models](../f/forecasting_models.md) to devise long-term investment strategies and manage portfolios. Two Sigma, for instance, employs machine learning and AI-driven models to forecast [market](../m/market.md) movements (https://www.twosigma.com).
+[Hedge](../h/hedge.md) funds and [asset](../a/asset.md) managers use sophisticated [forecasting models](../f/forecasting_models.md) to devise long-term investment strategies and manage portfolios. Two Sigma, for instance, employs [machine learning](../m/machine_learning.md) and AI-driven models to forecast [market](../m/market.md) movements (https://www.twosigma.com).
 
 ### Retail Trading Platforms
 Retail trading platforms integrate [forecasting](../f/forecasting.md) tools to assist individual traders. Platforms like [Robinhood](../r/robinhood.md) and [eToro](../e/etoro.md) [offer](../o/offer.md) [predictive analytics](../p/predictive_analytics.md) and tools to guide user trading decisions.
@@ -74,4 +74,4 @@ Retail trading platforms integrate [forecasting](../f/forecasting.md) tools to a
 Financial research firms provide [forecasting](../f/forecasting.md) services and tools to analyze [market](../m/market.md) trends and inform investment reports. [Bloomberg](../b/bloomberg.md)'s Terminal is an example [offering](../o/offering.md) extensive [market](../m/market.md) data and [predictive analytics](../p/predictive_analytics.md) tools (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal).
 
 ## Conclusion
-X-Price [Forecasting](../f/forecasting.md) plays a pivotal role in [algorithmic trading](../a/algorithmic_trading.md), empowering traders with predictive insights that drive strategy and decision-making. Despite its challenges, continual advancements in machine learning and computational power promise even greater accuracy and [efficiency](../e/efficiency.md) in price [forecasting](../f/forecasting.md). By combining [robust](../r/robust.md) [data analysis techniques](../d/data_analysis_techniques.md) with modern AI approaches, traders can navigate the complexities of [financial markets](../f/financial_market.md) to achieve superior performance.
+X-Price [Forecasting](../f/forecasting.md) plays a pivotal role in [algorithmic trading](../a/algorithmic_trading.md), empowering traders with predictive insights that drive strategy and decision-making. Despite its challenges, continual advancements in [machine learning](../m/machine_learning.md) and computational power promise even greater accuracy and [efficiency](../e/efficiency.md) in price [forecasting](../f/forecasting.md). By combining [robust](../r/robust.md) [data analysis techniques](../d/data_analysis_techniques.md) with modern AI approaches, traders can navigate the complexities of [financial markets](../f/financial_market.md) to achieve superior performance.

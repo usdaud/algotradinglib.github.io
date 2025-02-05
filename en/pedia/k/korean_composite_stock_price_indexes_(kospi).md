@@ -90,7 +90,7 @@ Global financial events, crises, and geopolitical developments can induce [volat
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning technologies are being increasingly integrated into [trading algorithms](../t/trading_algorithms.md). These technologies can analyze vast datasets, identify patterns, and optimize [trading strategies](../t/trading_strategies.md) in real-time, thereby enhancing the efficacy of KOSPI-related trades.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md) technologies are being increasingly integrated into [trading algorithms](../t/trading_algorithms.md). These technologies can analyze vast datasets, identify patterns, and optimize [trading strategies](../t/trading_strategies.md) in real-time, thereby enhancing the efficacy of KOSPI-related trades.
 
 ### Blockchain
 

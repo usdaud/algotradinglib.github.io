@@ -29,7 +29,7 @@ Identifying growth potential involves analyzing several key metrics:
 ### 4. Algorithmic Strategies
 Utilizing advanced algorithms enhances the [efficiency](../e/efficiency.md) and accuracy of VGA:
 
-- **Machine Learning**: Algorithms trained on historical data to predict future stock performance.
+- **[Machine Learning](../m/machine_learning.md)**: Algorithms trained on historical data to predict future stock performance.
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Analyzes news articles and [social media](../s/social_media.md) posts for [sentiment analysis](../s/sentiment_analysis.md).
 - **[Quantitative Models](../q/quantitative_models.md)**: Employ statistical methods to identify correlations and patterns in the data.
 
@@ -45,7 +45,7 @@ Effective VGA incorporates [risk](../r/risk.md) assessment and management techni
 Several tools and platforms facilitate effective [Value](../v/value.md) Growth Analysis in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive financial data, analytics, and trading tools.
-- **Python Libraries**: `Pandas` for data manipulation, `Scikit-learn` for machine learning, `Matplotlib` for visualization.
+- **Python Libraries**: `Pandas` for data manipulation, `Scikit-learn` for [machine learning](../m/machine_learning.md), `Matplotlib` for visualization.
 - **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading (https://www.[quantconnect](../q/quantconnect.md).com/).
 
 ## Implementation Example

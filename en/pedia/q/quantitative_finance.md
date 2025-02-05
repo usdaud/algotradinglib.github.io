@@ -1,6 +1,6 @@
 # Quantitative Finance
 
-Quantitative [finance](../f/finance.md), commonly referred to as "quant [finance](../f/finance.md)" or "[quantitative trading](../q/quantitative_trading.md)," is a subfield of [finance](../f/finance.md) that employs [mathematical models](../m/mathematical_models_in_trading.md), statistical techniques, and [computational algorithms](../c/computational_algorithms.md) to understand financial phenomena and make investment decisions. This approach seeks to analyze and interpret [market](../m/market.md) trends, [asset](../a/asset.md) prices, and [financial risk](../f/financial_risk.md) using quantitative techniques derived from areas such as [statistics](../s/statistics.md), [stochastic processes](../s/stochastic_processes.md), empirical [finance](../f/finance.md), and machine learning. 
+Quantitative [finance](../f/finance.md), commonly referred to as "quant [finance](../f/finance.md)" or "[quantitative trading](../q/quantitative_trading.md)," is a subfield of [finance](../f/finance.md) that employs [mathematical models](../m/mathematical_models_in_trading.md), statistical techniques, and [computational algorithms](../c/computational_algorithms.md) to understand financial phenomena and make investment decisions. This approach seeks to analyze and interpret [market](../m/market.md) trends, [asset](../a/asset.md) prices, and [financial risk](../f/financial_risk.md) using quantitative techniques derived from areas such as [statistics](../s/statistics.md), [stochastic processes](../s/stochastic_processes.md), empirical [finance](../f/finance.md), and [machine learning](../m/machine_learning.md). 
 
 ## Foundational Concepts
 
@@ -43,14 +43,14 @@ High-frequency trading uses powerful computers and algorithms to execute a large
 [Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to automate the process of trading. These algorithms can be based on a wide [range](../r/range.md) of strategies, including:
 
 - **[Momentum Trading](../m/momentum_trading.md):** Strategies that buy assets that have shown positive returns and sell those with negative returns.
-- **Machine Learning Models:** Employing AI and machine learning to identify patterns and make data-driven trading decisions.
+- **[Machine Learning](../m/machine_learning.md) Models:** Employing AI and [machine learning](../m/machine_learning.md) to identify patterns and make data-driven trading decisions.
 
 ## Key Players and Resources
 
 Several institutions and companies are at the forefront of quantitative [finance](../f/finance.md), [offering](../o/offering.md) insights, tools, and platforms for traders and researchers. Here are some leading organizations:
 
 ### WorldQuant
-[WorldQuant](https://www.worldquant.com/) is a global quantitative [asset management](../a/asset_management.md) [firm](../f/firm.md) that uses statistical and [mathematical models](../m/mathematical_models_in_trading.md) to develop investment strategies. They [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md), machine learning, and high-performance computational [infrastructure](../i/infrastructure.md).
+[WorldQuant](https://www.worldquant.com/) is a global quantitative [asset management](../a/asset_management.md) [firm](../f/firm.md) that uses statistical and [mathematical models](../m/mathematical_models_in_trading.md) to develop investment strategies. They [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and high-performance computational [infrastructure](../i/infrastructure.md).
 
 ### Jane Street
 [Jane Street](https://www.janestreet.com/) is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that excels in [quantitative trading](../q/quantitative_trading.md) and research. They focus on [algorithmic trading](../a/algorithmic_trading.md) strategies and have a significant presence in ETFs, [options](../o/options.md), and other financial [derivatives](../d/derivatives.md).
@@ -72,7 +72,7 @@ MATLAB (Matrix Laboratory) is a highly flexible platform for numerical computing
 R and Python are popular [open](../o/open.md)-source programming languages in quantitative [finance](../f/finance.md):
 
 - **R:** Favored for its [robust](../r/robust.md) statistical analysis capabilities, particularly useful in [econometrics](../e/econometrics_in_trading.md) and [time series analysis](../t/time_series_analysis.md).
-- **Python:** Known for its versatility and extensive libraries such as NumPy, pandas, and SciPy for data analysis, and PyMC3 and TensorFlow for machine learning.
+- **Python:** Known for its versatility and extensive libraries such as NumPy, pandas, and SciPy for data analysis, and PyMC3 and [TensorFlow](../t/tensorflow.md) for [machine learning](../m/machine_learning.md).
 
 ### QuantLib
 [QuantLib](https://www.quantlib.org/) is an [open](../o/open.md)-source library for financial quantitative analysts and developers, [offering](../o/offering.md) tools for [derivatives](../d/derivatives.md) pricing, [portfolio management](../p/portfolio_management.md), and [risk management](../r/risk_management.md).
@@ -93,9 +93,9 @@ Numerous leading universities [offer](../o/offer.md) graduate programs in quanti
 ### Online Courses
 Online courses and certifications can provide valuable learning opportunities in quantitative [finance](../f/finance.md):
 
-- **Coursera:** Offers courses in [financial engineering](../f/financial_engineering.md), [data science](../d/data_science_in_trading.md), and machine learning, often in collaboration with top universities.
+- **Coursera:** Offers courses in [financial engineering](../f/financial_engineering.md), [data science](../d/data_science_in_trading.md), and [machine learning](../m/machine_learning.md), often in collaboration with top universities.
 - **edX:** Provides specialized courses in quantitative [finance](../f/finance.md) from institutions like MIT and Columbia University.
 
 ## Conclusion
 
-Quantitative [finance](../f/finance.md) represents a dynamic intersection of mathematics, [statistics](../s/statistics.md), and [finance](../f/finance.md), driven by the goal of understanding complex [market](../m/market.md) behaviors and developing data-driven investment strategies. This field continues to evolve with advancements in computational power and the integration of new technologies such as machine learning and [big data analytics](../b/big_data_analytics_in_trading.md), [offering](../o/offering.md) new opportunities and challenges for professionals in the financial [industry](../i/industry.md).
+Quantitative [finance](../f/finance.md) represents a dynamic intersection of mathematics, [statistics](../s/statistics.md), and [finance](../f/finance.md), driven by the goal of understanding complex [market](../m/market.md) behaviors and developing data-driven investment strategies. This field continues to evolve with advancements in computational power and the integration of new technologies such as [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md), [offering](../o/offering.md) new opportunities and challenges for professionals in the financial [industry](../i/industry.md).

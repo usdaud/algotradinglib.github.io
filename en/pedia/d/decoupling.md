@@ -57,8 +57,8 @@ Decoupling [trading strategies](../t/trading_strategies.md) and algorithms from 
 - Maintaining libraries of pre-built algorithms that can be mixed and matched or extended based on specific trading needs.
 - Ensuring algorithms adhere to standard interfaces allowing for easy integration and replacement.
 
-**Machine Learning Pipelines:**
-- Training machine learning models on historical data in a separate pipeline.
+**[Machine Learning](../m/machine_learning.md) Pipelines:**
+- Training [machine learning](../m/machine_learning.md) models on historical data in a separate pipeline.
 - Decoupling feature extraction, model training, and deployment phases to facilitate continuous improvement.
 
 ## Risk Management and Compliance Decoupling

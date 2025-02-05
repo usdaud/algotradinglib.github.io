@@ -94,7 +94,7 @@ Analytics software can process vast amounts of occupancy data, uncovering patter
 
 ### AI and Machine Learning
 
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning models help in predicting future occupancy trends based on historical data, [market](../m/market.md) conditions, and external factors. These [predictive models](../p/predictive_models_in_trading.md) enable proactive management strategies to maximize [occupancy rates](../o/occupancy_rates_in_trading.md).
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) models help in predicting future occupancy trends based on historical data, [market](../m/market.md) conditions, and external factors. These [predictive models](../p/predictive_models_in_trading.md) enable proactive management strategies to maximize [occupancy rates](../o/occupancy_rates_in_trading.md).
 
 ### Software Solutions
 

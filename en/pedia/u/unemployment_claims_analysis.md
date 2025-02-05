@@ -24,7 +24,7 @@
 #### 4. Analytical Tools in Algorithmic Trading
 
 1. **[Time Series Analysis](../t/time_series_analysis.md)**: Analyzing [unemployment](../u/unemployment.md) claims over time to identify trends and cyclical patterns.
-2. **Machine Learning Models**: Utilizing supervised and unsupervised learning to predict future claims based on historical data.
+2. **[Machine Learning](../m/machine_learning.md) Models**: Utilizing supervised and [unsupervised learning](../u/unsupervised_learning.md) to predict future claims based on historical data.
 3. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Scraping news articles and [social media](../s/social_media.md) for [sentiment analysis](../s/sentiment_analysis.md) to predict the reaction to [unemployment](../u/unemployment.md) claims releases.
 
 #### 5. Building Trading Strategies

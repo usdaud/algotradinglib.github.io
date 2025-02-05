@@ -42,7 +42,7 @@ The rise of [computational finance](../c/computational_finance.md) has made prog
 [Risk management](../r/risk_management.md) is one of the primary applications of financial engineering. Financial engineers develop complex models to measure and manage the financial risks faced by organizations. This includes:
 
 - **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR)**: A statistical technique that measures the [risk](../r/risk.md) of loss for investments.
-- **[Credit Risk](../c/credit_risk.md) Modeling**: Techniques such as [logistic regression](../l/logistic_regression_in_trading.md) and machine learning are used to predict the likelihood of a borrower defaulting on a [loan](../l/loan.md).
+- **[Credit Risk](../c/credit_risk.md) Modeling**: Techniques such as [logistic regression](../l/logistic_regression_in_trading.md) and [machine learning](../m/machine_learning.md) are used to predict the likelihood of a borrower defaulting on a [loan](../l/loan.md).
 - **[Derivatives](../d/derivatives.md) and Hedging**: Using instruments like [options](../o/options.md), swaps, and [futures](../f/futures.md) to manage exposure to various financial risks.
 
 ### Investment Strategies

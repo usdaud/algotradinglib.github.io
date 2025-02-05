@@ -98,7 +98,7 @@ Some [investment banks](../i/investment_bank_(ib).md) [offer](../o/offer.md) [as
 
 ## Technological Influence
 
-In recent years, technological advancements have significantly influenced investment banking activities. Technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) have been integrated into various processes to improve [efficiency](../e/efficiency.md), reduce costs, and provide better services.
+In recent years, technological advancements have significantly influenced investment banking activities. Technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) have been integrated into various processes to improve [efficiency](../e/efficiency.md), reduce costs, and provide better services.
 
 - **[Algorithmic Trading](../a/accountability.md)**: Utilizing computer algorithms to automate [trading strategies](../t/trading_strategies.md), allowing for high-speed and high-frequency trading.
   

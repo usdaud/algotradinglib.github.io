@@ -67,9 +67,9 @@ Algorithmic traders deploy historical data to backtest strategies based on the o
 
 #### Machine Learning Integration
 
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be employed to enhance the efficacy of [trading strategies](../t/trading_strategies.md) that utilize price oscillators. For instance, supervised learning models can be trained using inputs derived from [multiple](../m/multiple.md) oscillators to forecast future price movements.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be employed to enhance the efficacy of [trading strategies](../t/trading_strategies.md) that utilize price oscillators. For instance, [supervised learning](../s/supervised_learning.md) models can be trained using inputs derived from [multiple](../m/multiple.md) oscillators to forecast future price movements.
 
-Popular machine learning libraries such as TensorFlow and Scikit-Learn, when integrated with financial APIs, can retrieve [real-time market data](../r/real-time_market_data.md), process [oscillator](../o/oscillator.md) values, and execute trades based on predicted [market](../m/market.md) scenarios.
+Popular [machine learning](../m/machine_learning.md) libraries such as [TensorFlow](../t/tensorflow.md) and Scikit-Learn, when integrated with financial APIs, can retrieve [real-time market data](../r/real-time_market_data.md), process [oscillator](../o/oscillator.md) values, and execute trades based on predicted [market](../m/market.md) scenarios.
 
 #### Multi-oscillator Strategies
 
@@ -104,7 +104,7 @@ Renaissance Technologies, founded by mathematician James Simons, exemplifies the
 
 #### Two Sigma
 
-Two Sigma, another giant in the field of [quantitative trading](../q/quantitative_trading.md), uses data-driven algorithms to capture [market](../m/market.md) opportunities. The [firm](../f/firm.md) leverages machine learning along with [technical indicators](../t/technical_indicators.md), including oscillators, to develop [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md).
+Two Sigma, another giant in the field of [quantitative trading](../q/quantitative_trading.md), uses data-driven algorithms to capture [market](../m/market.md) opportunities. The [firm](../f/firm.md) leverages [machine learning](../m/machine_learning.md) along with [technical indicators](../t/technical_indicators.md), including oscillators, to develop [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md).
 
 **Website**: [Two Sigma](https://www.twosigma.com/)
 

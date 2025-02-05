@@ -47,7 +47,7 @@ In auto [insurance](../i/insurance.md), [underwriting](../u/underwriting.md) con
 
 ## Impact of Advanced Technologies on Underwriting Fees
 
-The [incorporation](../i/incorporation.md) of advanced technologies is reshaping the [underwriting](../u/underwriting.md) landscape. Technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning (ML), and [big data analytics](../b/big_data_analytics_in_trading.md) streamline the [underwriting](../u/underwriting.md) process, potentially reducing costs and enhancing accuracy.
+The [incorporation](../i/incorporation.md) of advanced technologies is reshaping the [underwriting](../u/underwriting.md) landscape. Technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md) (ML), and [big data analytics](../b/big_data_analytics_in_trading.md) streamline the [underwriting](../u/underwriting.md) process, potentially reducing costs and enhancing accuracy.
 
 ### Predictive Modeling
 [Predictive models](../p/predictive_models_in_trading.md) allow insurers to foresee potential risks based on historical data and trends. Utilizing [predictive analytics](../p/predictive_analytics.md) can lower [underwriting](../u/underwriting.md) fees by providing quicker and more accurate assessments.

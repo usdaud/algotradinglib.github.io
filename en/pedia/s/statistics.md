@@ -194,12 +194,12 @@ Where \( \bar{x} \) is the sample mean, \( Z_{\frac{\[alpha](../a/alpha.md)}{2}}
 
 ### Machine Learning in Finance
 
-1. **Supervised Learning**:
+1. **[Supervised Learning](../s/supervised_learning.md)**:
    Models are trained on labeled data.
    - **Regression**: Predicting a continuous output.
    - **Classification**: Predicting a discrete category.
 
-2. **Unsupervised Learning**:
+2. **[Unsupervised Learning](../u/unsupervised_learning.md)**:
    Models find hidden patterns in unlabeled data.
    - **Clustering**: Grouping similar data points together.
 
@@ -220,10 +220,10 @@ Where \( \bar{x} \) is the sample mean, \( Z_{\frac{\[alpha](../a/alpha.md)}{2}}
    Decentralized ledger technology used for securely recording transactions across a network of computers.
 
 2. **Cryptocurrency Analytics**:
-   Statistical and machine learning techniques applied to the analysis of digital currencies.
+   Statistical and [machine learning](../m/machine_learning.md) techniques applied to the analysis of digital currencies.
 
 ## Conclusion
 
-Statistics form the backbone of data analysis in trading and [finance](../f/finance.md). By understanding and applying statistical techniques, traders and financial professionals can make more informed decisions, optimize strategies, and effectively manage [risk](../r/risk.md) in an ever-evolving [market](../m/market.md) landscape. Whether it’s through traditional methods of descriptive and inferential statistics or through modern machine learning approaches, the role of statistics in [finance](../f/finance.md) is indispensable.
+Statistics form the backbone of data analysis in trading and [finance](../f/finance.md). By understanding and applying statistical techniques, traders and financial professionals can make more informed decisions, optimize strategies, and effectively manage [risk](../r/risk.md) in an ever-evolving [market](../m/market.md) landscape. Whether it’s through traditional methods of descriptive and inferential statistics or through modern [machine learning](../m/machine_learning.md) approaches, the role of statistics in [finance](../f/finance.md) is indispensable.
 
 For more detailed information on statistical applications in [finance](../f/finance.md), professionals can visit financial services institutions like [Goldman Sachs](https://www.goldmansachs.com/) or [quantitative research](../q/quantitative_research.md) firms like [Two Sigma](https://www.twosigma.com/).

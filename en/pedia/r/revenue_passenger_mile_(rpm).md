@@ -52,7 +52,7 @@ Modern airlines [leverage](../l/leverage.md) [big data](../b/big_data_in_trading
 
 ### Machine Learning Models
 
-[Predictive models](../p/predictive_models_in_trading.md) that incorporate machine learning are becoming increasingly important in optimizing RPMs. These models can analyze historic data alongside external variables (e.g., [economic indicators](../e/economic_indicators.md), seasonal trends) to forecast future RPMs with high accuracy.
+[Predictive models](../p/predictive_models_in_trading.md) that incorporate [machine learning](../m/machine_learning.md) are becoming increasingly important in optimizing RPMs. These models can analyze historic data alongside external variables (e.g., [economic indicators](../e/economic_indicators.md), seasonal trends) to forecast future RPMs with high accuracy.
 
 ### Automated Revenue Management
 

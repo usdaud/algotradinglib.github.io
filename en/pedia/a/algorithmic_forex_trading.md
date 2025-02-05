@@ -47,7 +47,7 @@ These strategies aim to [capitalize](../c/capitalize.md) on the [market](../m/ma
 
 ### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and machine learning to gauge [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and other textual sources.
+[Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and [machine learning](../m/machine_learning.md) to gauge [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and other textual sources.
 
 ## Advantages of Algorithmic Forex Trading
 
@@ -140,7 +140,7 @@ Countries like Japan, Singapore, and Hong Kong have their own regulatory bodies 
 
 ### Artificial Intelligence and Machine Learning
 
-The integration of AI and machine learning technologies in [algorithmic trading](../a/algorithmic_trading.md) is expected to continue growing. These technologies can analyze vast amounts of data and identify patterns that traditional algorithms might miss.
+The integration of AI and [machine learning](../m/machine_learning.md) technologies in [algorithmic trading](../a/algorithmic_trading.md) is expected to continue growing. These technologies can analyze vast amounts of data and identify patterns that traditional algorithms might miss.
 
 ### Quantum Computing
 

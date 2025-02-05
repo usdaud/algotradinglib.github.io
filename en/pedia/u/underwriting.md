@@ -14,7 +14,7 @@ In the realm of [insurance](../i/insurance.md), underwriting is the process that
 - **Policy Issuance:** If approved, the policy is issued with the determined terms and conditions.
 
 #### Technologies in Insurance Underwriting
-- **Machine Learning and AI:** These technologies are applied for [predictive analytics](../p/predictive_analytics.md) to expedite the [risk](../r/risk.md) assessment process.
+- **[Machine Learning](../m/machine_learning.md) and AI:** These technologies are applied for [predictive analytics](../p/predictive_analytics.md) to expedite the [risk](../r/risk.md) assessment process.
 - **[Big Data](../b/big_data_in_trading.md):** [Big data analytics](../b/big_data_analytics_in_trading.md) are used to find patterns and trends that inform [risk](../r/risk.md) evaluation.
 - **Automated Underwriting Systems:** These systems help streamline the underwriting process by automating data collection and initial assessment steps.
 
@@ -83,7 +83,7 @@ Underwriting processes ensure compliance with regulatory requirements, protectin
 Changes in [economic conditions](../e/economic_conditions.md) can significantly impact underwriting decisions, requiring constant reassessment of [risk](../r/risk.md) parameters.
 
 ### Technological Integration
-Integrating advanced technologies such as AI and machine learning poses challenges related to accuracy, ethical considerations, and implementation costs.
+Integrating advanced technologies such as AI and [machine learning](../m/machine_learning.md) poses challenges related to accuracy, ethical considerations, and implementation costs.
 
 ### Regulatory Changes
 Constantly evolving regulatory landscapes can impact underwriting policies and require quick adaptation and compliance from financial institutions.

@@ -86,7 +86,7 @@ Software like R and Python (with libraries such as NumPy, pandas, and SciPy) pro
 Advanced trading platforms like MetaTrader and [Bloomberg](../b/bloomberg.md) Terminal [offer](../o/offer.md) built-in tools for variance analysis.
 
 ### 3. Machine Learning
-Machine learning models can automate the process of variance analysis by continuously learning from past performance and adjusting parameters in real-time.
+[Machine learning](../m/machine_learning.md) models can automate the process of variance analysis by continuously learning from past performance and adjusting parameters in real-time.
 
 ## Challenges
 

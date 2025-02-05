@@ -55,8 +55,8 @@ Technical [noise](../n/noise.md) is derived from the trading activity itself and
 ### Machine Learning Approaches
 Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can assist in distinguishing [noise](../n/noise.md) from signal:
 
-- **Supervised Learning Models**: Models trained on labeled data to identify and filter [noise](../n/noise.md).
-- **Unsupervised Learning**: Techniques like clustering to find patterns that distinguish [noise](../n/noise.md) from informative signals.
+- **[Supervised Learning](../s/supervised_learning.md) Models**: Models trained on labeled data to identify and filter [noise](../n/noise.md).
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Techniques like clustering to find patterns that distinguish [noise](../n/noise.md) from informative signals.
 
 ### Time Series Analysis
 [Time series analysis](../t/time_series_analysis.md) methods help in modeling the [underlying](../u/underlying.md) structure of the data and filtering out [noise](../n/noise.md):
@@ -117,5 +117,5 @@ Citadel LLC, operates significant algorithmic and high-frequency [trading strate
 For more details, visit: [Citadel LLC](https://www.citadel.com/)
 
 ## Conclusion
-[Noise](../n/noise.md) analysis in trading is a critical aspect of developing [robust](../r/robust.md) and profitable [trading algorithms](../t/trading_algorithms.md). By understanding the sources and types of [noise](../n/noise.md) and implementing various statistical, machine learning, and [time series analysis](../t/time_series_analysis.md) techniques, traders can significantly enhance their signal-detection capabilities and improve overall [trading performance](../t/trading_performance.md). The dynamic nature of [financial markets](../f/financial_market.md) necessitates continual adaptation and enhancement of [noise](../n/noise.md) reduction methods to maintain their efficacy.
+[Noise](../n/noise.md) analysis in trading is a critical aspect of developing [robust](../r/robust.md) and profitable [trading algorithms](../t/trading_algorithms.md). By understanding the sources and types of [noise](../n/noise.md) and implementing various statistical, [machine learning](../m/machine_learning.md), and [time series analysis](../t/time_series_analysis.md) techniques, traders can significantly enhance their signal-detection capabilities and improve overall [trading performance](../t/trading_performance.md). The dynamic nature of [financial markets](../f/financial_market.md) necessitates continual adaptation and enhancement of [noise](../n/noise.md) reduction methods to maintain their efficacy.
 

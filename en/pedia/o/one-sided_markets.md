@@ -72,7 +72,7 @@ Traders and firms must ensure their algorithms comply with regulatory frameworks
 ## Future Trends
 
 ### Machine Learning and AI
-The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in [algorithmic trading](../a/algorithmic_trading.md) is likely to continue evolving. These technologies can enhance the ability to predict [market](../m/market.md) movements, adapt to changing conditions, and optimize [trading strategies](../t/trading_strategies.md) in one-sided markets.
+The integration of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in [algorithmic trading](../a/algorithmic_trading.md) is likely to continue evolving. These technologies can enhance the ability to predict [market](../m/market.md) movements, adapt to changing conditions, and optimize [trading strategies](../t/trading_strategies.md) in one-sided markets.
 
 ### Decentralized Finance (DeFi)
 The rise of decentralized [finance](../f/finance.md) (DeFi) platforms introduces a new layer of complexity to [financial markets](../f/financial_market.md). The decentralized nature of these platforms could lead to the creation of one-sided [market](../m/market.md) conditions. [Algorithmic trading](../a/algorithmic_trading.md) in DeFi requires navigating unique challenges, including varying levels of [liquidity](../l/liquidity.md) and [market](../m/market.md) [maturity](../m/maturity.md).

@@ -53,7 +53,7 @@ In recent years, [wash](../w/wash.md) trading has become increasingly common in 
 ### Technological Measures to Combat Wash Trading 
 
 #### Machine Learning and AI
-Modern surveillance systems employ machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to detect patterns and anomalies that signify [wash](../w/wash.md) trading. These technologies enable:
+Modern surveillance systems employ [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to detect patterns and anomalies that signify [wash](../w/wash.md) trading. These technologies enable:
 - **[Predictive Analytics](../p/predictive_analytics.md):** Using historical data to predict and detect unusual trading behaviors.
 - **[Pattern Recognition](../p/pattern_recognition.md):** Identifying complex patterns that are indicative of [wash](../w/wash.md) trading.
 

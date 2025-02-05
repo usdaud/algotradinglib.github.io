@@ -1,6 +1,6 @@
 # Support Vector Regression (SVR)
 
-Support Vector Regression (SVR) is a type of Support Vector Machine (SVM) that is specifically designed for regression tasks. While SVM is widely known for its application in classification problems, SVR extends the SVM framework to predict continuous values, making it a powerful tool for regression in machine learning and [data science](../d/data_science_in_trading.md).
+Support Vector Regression (SVR) is a type of Support Vector Machine (SVM) that is specifically designed for regression tasks. While SVM is widely known for its application in classification problems, SVR extends the SVM framework to predict continuous values, making it a powerful tool for regression in [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md).
 
 ### Fundamentals of Support Vector Regression
 
@@ -73,15 +73,15 @@ Support Vector Regression is employed in various real-world applications, such a
 
 ### Implementations of SVR
 
-SVR is implemented in various machine learning libraries and frameworks:
+SVR is implemented in various [machine learning](../m/machine_learning.md) libraries and frameworks:
 
 - **scikit-learn**: The popular Python library scikit-learn offers an easy-to-use implementation of SVR.
   - [scikit-learn SVR Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html)
 - **LIBSVM**: A library for SVM and SVR, often used in academic research.
   - [LIBSVM Documentation](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
-- **TensorFlow**: Google's TensorFlow library also provides capabilities for regression using SVM.
+- **[TensorFlow](../t/tensorflow.md)**: Google's [TensorFlow](../t/tensorflow.md) library also provides capabilities for regression using SVM.
   - [TensorFlow Documentation](https://www.tensorflow.org/)
 
 ### Conclusion
 
-Support Vector Regression is a versatile and powerful technique for [regression analysis](../r/regression_analysis.md), capable of handling both linear and non-linear relationships through the use of various kernel functions. Its application spans numerous fields, from [finance](../f/finance.md) to healthcare, highlighting its [utility](../u/utility.md) and effectiveness. Despite some challenges in computational complexity and parameter tuning, SVR remains a valuable tool for [predictive modeling](../p/predictive_modeling.md) in machine learning.
+Support Vector Regression is a versatile and powerful technique for [regression analysis](../r/regression_analysis.md), capable of handling both linear and non-linear relationships through the use of various kernel functions. Its application spans numerous fields, from [finance](../f/finance.md) to healthcare, highlighting its [utility](../u/utility.md) and effectiveness. Despite some challenges in computational complexity and parameter tuning, SVR remains a valuable tool for [predictive modeling](../p/predictive_modeling.md) in [machine learning](../m/machine_learning.md).

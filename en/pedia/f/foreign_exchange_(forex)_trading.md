@@ -90,7 +90,7 @@ This strategy involves identifying statistical mispricings between different cur
 
 ### Machine Learning Algorithms
 
-Machine learning models can be developed to predict price movements by training on historical data and other relevant features. These models can adapt to changing [market](../m/market.md) conditions and improve over time.
+[Machine learning](../m/machine_learning.md) models can be developed to predict price movements by training on historical data and other relevant features. These models can adapt to changing [market](../m/market.md) conditions and improve over time.
 
 ## Software and Tools for Forex Trading
 

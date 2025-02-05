@@ -66,11 +66,11 @@ An RSI above 70 is considered [overbought](../o/overbought.md), and below 30 is 
 
 ## 3. Machine Learning Models
 
-The application of machine learning in [algorithmic trading](../a/algorithmic_trading.md) has grown significantly, allowing for more sophisticated [X-Price Analysis](../x/x-price_analysis.md) Models. Machine learning models can [handle](../h/handle.md) vast amounts of data and identify complex patterns that traditional models might miss.
+The application of [machine learning](../m/machine_learning.md) in [algorithmic trading](../a/algorithmic_trading.md) has grown significantly, allowing for more sophisticated [X-Price Analysis](../x/x-price_analysis.md) Models. [Machine learning](../m/machine_learning.md) models can [handle](../h/handle.md) vast amounts of data and identify complex patterns that traditional models might miss.
 
 ### 3.1 Supervised Learning
 
-Supervised learning models are trained on historical data where the outcomes (target variables) are known. The model learns to map input features to the target variable to make predictions.
+[Supervised learning](../s/supervised_learning.md) models are trained on historical data where the outcomes (target variables) are known. The model learns to map input features to the target variable to make predictions.
 
 #### 3.1.1 Linear Regression
 
@@ -86,7 +86,7 @@ SVM is used for classification and regression. It constructs hyperplanes in a hi
 
 ### 3.2 Unsupervised Learning
 
-Unsupervised learning models find hidden patterns or intrinsic structures in input data without labeled responses.
+[Unsupervised learning](../u/unsupervised_learning.md) models find hidden patterns or intrinsic structures in input data without labeled responses.
 
 #### 3.2.1 Clustering
 
@@ -114,7 +114,7 @@ Lexicon-based models use predefined dictionaries of words associated with positi
 
 #### 4.1.2 Machine Learning-Based Approaches
 
-Machine learning models, such as LSTM (Long Short-Term Memory) and transformers, are trained on labeled datasets to predict sentiment.
+[Machine learning](../m/machine_learning.md) models, such as LSTM (Long Short-Term Memory) and [transformers](../t/transformers.md), are trained on labeled datasets to predict sentiment.
 
 ### Example: [FinBrain Technologies](https://finbrain.tech/)
 
@@ -178,4 +178,4 @@ Numerai is a crowdsourced [hedge fund](../h/hedge_fund.md) utilizing neural [net
 
 ## Conclusion
 
-[X-Price Analysis](../x/x-price_analysis.md) Models are essential tools in [algorithmic trading](../a/algorithmic_trading.md), enabling traders to make data-driven decisions and automate trading processes. From traditional statistical methods to advanced machine learning and [neural networks](../n/neural_networks_in_trading.md), these models provide various ways to analyze and predict price movements, each with its strengths and limitations. As technology and [financial markets](../f/financial_market.md) evolve, the integration of newer models and techniques [will](../w/will.md) continue to enhance the [efficiency](../e/efficiency.md) and accuracy of [algorithmic trading](../a/algorithmic_trading.md) strategies.
+[X-Price Analysis](../x/x-price_analysis.md) Models are essential tools in [algorithmic trading](../a/algorithmic_trading.md), enabling traders to make data-driven decisions and automate trading processes. From traditional statistical methods to advanced [machine learning](../m/machine_learning.md) and [neural networks](../n/neural_networks_in_trading.md), these models provide various ways to analyze and predict price movements, each with its strengths and limitations. As technology and [financial markets](../f/financial_market.md) evolve, the integration of newer models and techniques [will](../w/will.md) continue to enhance the [efficiency](../e/efficiency.md) and accuracy of [algorithmic trading](../a/algorithmic_trading.md) strategies.

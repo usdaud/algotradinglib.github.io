@@ -38,7 +38,7 @@ High-Frequency Trading involves the use of powerful computers and high-speed int
 
 ### Machine Learning and AI
 
-The [incorporation](../i/incorporation.md) of machine learning and AI in algo-trading allows for the development of more adaptive and sophisticated models. Techniques such as [neural networks](../n/neural_networks_in_trading.md), reinforcement learning, and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) are increasingly being used to enhance [trading strategies](../t/trading_strategies.md).
+The [incorporation](../i/incorporation.md) of [machine learning](../m/machine_learning.md) and AI in algo-trading allows for the development of more adaptive and sophisticated models. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [reinforcement learning](../r/reinforcement_learning.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) are increasingly being used to enhance [trading strategies](../t/trading_strategies.md).
 
 ## Benefits of Algorithmic Trading
 
@@ -104,7 +104,7 @@ Renaissance Technologies, founded by Jim Simons, is a prime example of the succe
 
 ### Two Sigma
 
-Two Sigma employs a data-driven approach to [investment management](../i/investment_management.md), leveraging machine learning, distributed computing, and other technologies to execute sophisticated [trading strategies](../t/trading_strategies.md).
+Two Sigma employs a data-driven approach to [investment management](../i/investment_management.md), leveraging [machine learning](../m/machine_learning.md), distributed computing, and other technologies to execute sophisticated [trading strategies](../t/trading_strategies.md).
 
 [Visit Two Sigma](https://www.twosigma.com/)
 

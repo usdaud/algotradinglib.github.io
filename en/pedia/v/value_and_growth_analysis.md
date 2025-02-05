@@ -34,7 +34,7 @@
 Several firms specialize in developing and implementing [algorithmic trading](../a/algorithmic_trading.md) systems, incorporating both [value](../v/value.md) and growth analysis. These companies use cutting-edge technology and strategic insights to deliver superior [trading performance](../t/trading_performance.md).
 
 #### 1. [Two Sigma](https://www.twosigma.com/)
-Two Sigma is a technology-driven company focusing on [data science](../d/data_science_in_trading.md) and advanced quantitative methods to understand the world’s markets. They utilize machine learning and distributed computing to create [algorithmic trading](../a/algorithmic_trading.md) strategies based on various financial theories, including [value](../v/value.md) and [growth investing](../g/growth_investing.md).
+Two Sigma is a technology-driven company focusing on [data science](../d/data_science_in_trading.md) and advanced quantitative methods to understand the world’s markets. They utilize [machine learning](../m/machine_learning.md) and distributed computing to create [algorithmic trading](../a/algorithmic_trading.md) strategies based on various financial theories, including [value](../v/value.md) and [growth investing](../g/growth_investing.md).
 
 #### 2. [Renaissance Technologies](https://www.rentec.com/)
 Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), which employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithmic systems. Their approach includes elements of [value](../v/value.md) and growth investment strategies within their overall quantitative framework.

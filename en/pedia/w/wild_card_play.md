@@ -92,7 +92,7 @@ Regulatory bodies closely scrutinize Wild Card Plays to ensure [market](../m/mar
 Technology has dramatically enhanced the ability to perform and execute Wild Card Plays. Advanced computing power, [real-time market data](../r/real-time_market_data.md), and sophisticated algorithms have revolutionized [trading strategies](../t/trading_strategies.md).
 
 ### Key Technologies
-- **Machine Learning**: Algorithms that learn from data and adapt strategies.
+- **[Machine Learning](../m/machine_learning.md)**: Algorithms that learn from data and adapt strategies.
 - **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Processing massive datasets to identify patterns and opportunities.
 - **[Blockchain](../b/blockchain_in_trading.md)**: Emerging technology that could bring new dimensions to Wild Card Plays with decentralized [finance](../f/finance.md) (DeFi).
 

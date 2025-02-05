@@ -82,7 +82,7 @@ The Society for Worldwide Interbank Financial Telecommunication (SWIFT) network 
 
 ### Artificial Intelligence (AI) and Machine Learning
 
-AI and machine learning are increasingly being used in correspondent banking to enhance [risk management](../r/risk_management.md), detect fraudulent activities, and improve [customer service](../c/customer_service.md). These technologies enable banks to analyze vast amounts of data more efficiently and accurately.
+AI and [machine learning](../m/machine_learning.md) are increasingly being used in correspondent banking to enhance [risk management](../r/risk_management.md), detect fraudulent activities, and improve [customer service](../c/customer_service.md). These technologies enable banks to analyze vast amounts of data more efficiently and accurately.
 
 ## Challenges in Correspondent Banking
 

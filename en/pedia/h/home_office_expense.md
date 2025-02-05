@@ -13,7 +13,7 @@
 - **Processor (CPU)**: Multi-core processors, such as Intel i7/i9 or AMD Ryzen series, [offer](../o/offer.md) the required computational power.
 - **Memory (RAM)**: At least 16GB of RAM is recommended, with 32GB or more being ideal for more demanding tasks.
 - **Storage**: Solid State Drives (SSDs) provide faster data access and retrieval, crucial for handling large datasets efficiently.
-- **Graphics Card (GPU)**: While not always necessary, a good GPU can accelerate [data visualization](../d/data_visualization.md) and machine learning tasks.
+- **Graphics Card (GPU)**: While not always necessary, a good GPU can accelerate [data visualization](../d/data_visualization.md) and [machine learning](../m/machine_learning.md) tasks.
 
 #### Reliable Internet Connection
 

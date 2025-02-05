@@ -64,7 +64,7 @@ The Role of Technology
 
 The application of [prospect theory](../p/prospect_theory_in_trading.md) in the financial [industry](../i/industry.md) has been significantly enhanced by technological advancements:
 
-1. **Machine Learning and AI**: These technologies enable the development of sophisticated algorithms that can model human behavior based on [prospect theory](../p/prospect_theory_in_trading.md), allowing for high-frequency and highly accurate [trading strategies](../t/trading_strategies.md).
+1. **[Machine Learning](../m/machine_learning.md) and AI**: These technologies enable the development of sophisticated algorithms that can model human behavior based on [prospect theory](../p/prospect_theory_in_trading.md), allowing for high-frequency and highly accurate [trading strategies](../t/trading_strategies.md).
 
 2. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: [Big data](../b/big_data_in_trading.md) technologies make it possible to analyze vast amounts of [market](../m/market.md) data to identify behavioral patterns as predicted by [prospect theory](../p/prospect_theory_in_trading.md).
 

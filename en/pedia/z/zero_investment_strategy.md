@@ -48,7 +48,7 @@ High-speed computing and low-latency [infrastructure](../i/infrastructure.md) ar
 
 #### Data and Analytics
 
-Access to high-quality [market](../m/market.md) data and analytical tools is crucial for identifying trading opportunities. This includes historical price data, [real-time market data](../r/real-time_market_data.md), [order book](../o/order_book.md) information, and newsfeeds. Algorithmic traders employ sophisticated [data analytics](../d/data_analytics.md) and machine learning models to uncover patterns and correlations in the data that can be exploited for zero investment strategies.
+Access to high-quality [market](../m/market.md) data and analytical tools is crucial for identifying trading opportunities. This includes historical price data, [real-time market data](../r/real-time_market_data.md), [order book](../o/order_book.md) information, and newsfeeds. Algorithmic traders employ sophisticated [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) models to uncover patterns and correlations in the data that can be exploited for zero investment strategies.
 
 ### Examples of Zero Investment Strategy Implementations
 
@@ -60,7 +60,7 @@ Renaissance Technologies, founded by Jim Simons, is a [hedge fund](../h/hedge_fu
 
 #### D.E. Shaw & Co.
 
-D.E. Shaw & Co. is another prominent [hedge fund](../h/hedge_fund.md) that employs sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies, including zero investment strategies. The [firm](../f/firm.md) utilizes [computational finance](../c/computational_finance.md) and machine learning to identify [market](../m/market.md) inefficiencies and execute trades with precision. Learn more about their approach on their [website](https://www.deshaw.com).
+D.E. Shaw & Co. is another prominent [hedge fund](../h/hedge_fund.md) that employs sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies, including zero investment strategies. The [firm](../f/firm.md) utilizes [computational finance](../c/computational_finance.md) and [machine learning](../m/machine_learning.md) to identify [market](../m/market.md) inefficiencies and execute trades with precision. Learn more about their approach on their [website](https://www.deshaw.com).
 
 #### Two Sigma Investments
 

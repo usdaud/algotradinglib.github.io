@@ -42,7 +42,7 @@ In recent years, the DTC has explored the use of [blockchain](../b/blockchain_in
 
 ### Automation and Machine Learning
 
-The DTC has also leveraged automation and machine learning to improve the accuracy and [efficiency](../e/efficiency.md) of its services. Automation of routine processes and the use of [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) for data analysis and [predictive modeling](../p/predictive_modeling.md) have enabled the DTC to enhance its [operational efficiency](../o/operational_efficiency_in_trading.md) and reduce the [risk](../r/risk.md) of errors. These technological advancements are particularly important in the context of [algorithmic trading](../a/accountability.md), where precision and speed are paramount.
+The DTC has also leveraged automation and [machine learning](../m/machine_learning.md) to improve the accuracy and [efficiency](../e/efficiency.md) of its services. Automation of routine processes and the use of [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) for data analysis and [predictive modeling](../p/predictive_modeling.md) have enabled the DTC to enhance its [operational efficiency](../o/operational_efficiency_in_trading.md) and reduce the [risk](../r/risk.md) of errors. These technological advancements are particularly important in the context of [algorithmic trading](../a/accountability.md), where precision and speed are paramount.
 
 ## Regulatory Environment
 

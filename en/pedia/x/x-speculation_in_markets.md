@@ -25,7 +25,7 @@ HFT involves executing large volumes of trades at very high speeds using algorit
 
 ## Algorithmic Approaches in X-Speculation
 ### Machine Learning Algorithms
-Machine learning, particularly methods like [neural networks](../n/neural_networks_in_trading.md) and [ensemble learning](../e/ensemble_learning.md), has been harnessed to identify complex patterns in [market](../m/market.md) data that can signal profitable opportunities.
+[Machine learning](../m/machine_learning.md), particularly methods like [neural networks](../n/neural_networks_in_trading.md) and [ensemble learning](../e/ensemble_learning.md), has been harnessed to identify complex patterns in [market](../m/market.md) data that can signal profitable opportunities.
 
 ### Natural Language Processing (NLP)
 NLP is utilized to analyze news, reports, and even [social media sentiment](../s/social_media_sentiment.md) to make informed speculative trades. For instance, the analysis of sentiment in financial news can help predict [asset](../a/asset.md) price movements.
@@ -41,7 +41,7 @@ Renaissance Technologies is one of the most famous [hedge](../h/hedge.md) funds 
 Citadel LLC, founded by Ken Griffin, is a global financial institution that engages in a variety of speculative [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) is a leader in [quantitative trading](../q/quantitative_trading.md) and [hedge fund](../h/hedge_fund.md) management [Citadel LLC](https://www.citadel.com/).
 
 ### Two Sigma
-Two Sigma Investments is a [hedge fund](../h/hedge_fund.md) that leverages [big data](../b/big_data_in_trading.md), advanced [statistics](../s/statistics.md), and technology-driven approaches to execute its [trading strategies](../t/trading_strategies.md). It is a front-runner in the utilization of machine learning for [financial markets](../f/financial_market.md) [Two Sigma](https://www.twosigma.com/).
+Two Sigma Investments is a [hedge fund](../h/hedge_fund.md) that leverages [big data](../b/big_data_in_trading.md), advanced [statistics](../s/statistics.md), and technology-driven approaches to execute its [trading strategies](../t/trading_strategies.md). It is a front-runner in the utilization of [machine learning](../m/machine_learning.md) for [financial markets](../f/financial_market.md) [Two Sigma](https://www.twosigma.com/).
 
 ## The Role of Risk Management in X-Speculation
 ### VaR and CVaR

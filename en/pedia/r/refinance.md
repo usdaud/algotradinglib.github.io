@@ -72,7 +72,7 @@ Many online lenders [offer](../o/offer.md) refinancing [options](../o/options.md
 
 ### Automated Underwriting
 
-FinTech firms are leveraging automation and machine learning to speed up the [underwriting](../u/underwriting.md) process. By automating data collection and analysis, these companies reduce the need for manual intervention, resulting in faster, more accurate [loan](../l/loan.md) approvals. For instance, Blend offers a platform that automates many aspects of the [mortgage](../m/mortgage.md) banking process, including [underwriting](../u/underwriting.md).
+FinTech firms are leveraging automation and [machine learning](../m/machine_learning.md) to speed up the [underwriting](../u/underwriting.md) process. By automating data collection and analysis, these companies reduce the need for manual intervention, resulting in faster, more accurate [loan](../l/loan.md) approvals. For instance, Blend offers a platform that automates many aspects of the [mortgage](../m/mortgage.md) banking process, including [underwriting](../u/underwriting.md).
 
 ### Enhanced Data Analytics
 

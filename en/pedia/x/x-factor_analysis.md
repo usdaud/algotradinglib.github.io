@@ -25,7 +25,7 @@ Not all factors [will](../w/will.md) have the same impact on [asset](../a/asset.
 
 - **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md):** Using historical data to assess the performance impact of each [factor](../f/factor.md).
 - **Expert Input:** Incorporating insights from [industry](../i/industry.md) experts, economists, and [market](../m/market.md) analysts.
-- **Machine Learning Models:** Employing algorithms like [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) to optimize [factor](../f/factor.md) selection and weighting.
+- **[Machine Learning](../m/machine_learning.md) Models:** Employing algorithms like [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) to optimize [factor](../f/factor.md) selection and weighting.
 
 #### 4. Strategy Development
 Once the relevant factors are chosen and [weighted](../w/weighted.md), they are integrated into [trading algorithms](../t/trading_algorithms.md). These algorithms can be designed to:
@@ -65,7 +65,7 @@ Academic and private research institutions contribute to the development of X-[F
 
 X-[Factor Analysis](../f/factor_analysis.md) continues to evolve as technology and data collection methods advance. Future trends may include:
 
-- **Enhanced AI and Machine Learning Capabilities:** More sophisticated algorithms for better data processing and analysis.
+- **Enhanced AI and [Machine Learning](../m/machine_learning.md) Capabilities:** More sophisticated algorithms for better data processing and analysis.
 - **Integration of Real-Time Data:** Incorporating real-time data feeds to make more timely and accurate trading decisions.
 - **[Expansion](../e/expansion.md) of Data Sources:** Utilizing new types of [alternative data](../a/alternative_data.md), such as biometric data or advanced environmental metrics.
 

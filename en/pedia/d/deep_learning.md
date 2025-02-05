@@ -1,6 +1,6 @@
 # Deep Learning
 
-Deep Learning, a subset of machine learning, utilizes algorithms inspired by the structure and function of the brain's [neural networks](../n/neural_networks_in_trading.md). It has revolutionized various fields, including healthcare, automotive, [finance](../f/finance.md), and more. This article delves into the fundamentals, applications, challenges, and future prospects of Deep Learning.
+Deep Learning, a subset of [machine learning](../m/machine_learning.md), utilizes algorithms inspired by the structure and function of the brain's [neural networks](../n/neural_networks_in_trading.md). It has revolutionized various fields, including healthcare, automotive, [finance](../f/finance.md), and more. This article delves into the fundamentals, applications, challenges, and future prospects of Deep Learning.
 
 ## Fundamentals of Deep Learning
 
@@ -38,7 +38,7 @@ Loss functions measure the difference between the predicted and actual outputs. 
 Deep Learning models, particularly CNNs, have made significant strides in image recognition. Applications [range](../r/range.md) from facial recognition systems and autonomous driving to medical image analysis, where algorithms help in detecting anomalies.
 
 ### Natural Language Processing (NLP)
-NLP tasks, such as language translation, [sentiment analysis](../s/sentiment_analysis.md), and speech recognition, have seen remarkable improvements with Deep Learning. Models like RNNs and Transformers are pivotal.
+NLP tasks, such as language translation, [sentiment analysis](../s/sentiment_analysis.md), and [speech recognition](../s/speech_recognition.md), have seen remarkable improvements with Deep Learning. Models like RNNs and [Transformers](../t/transformers.md) are pivotal.
 
 - **Google Translate:** Uses deep learning for accurate translations ([Google Translate](https://translate.google.com)).
 - **Siri and Alexa:** [Leverage](../l/leverage.md) deep learning for voice recognition ([Apple Siri](https://www.apple.com/siri/), [Amazon Alexa](https://developer.amazon.com/en-US/alexa)).

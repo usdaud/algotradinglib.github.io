@@ -77,7 +77,7 @@ Tax treaties aim to prevent [double taxation](../d/double_taxation.md) and [tax 
 
 ### Digital Advancements
 
-The evolution of technology continuously impacts how tax returns are prepared and filed. [Blockchain](../b/blockchain_in_trading.md), AI, and machine learning have the potential to further automate and streamline tax compliance and reporting. 
+The evolution of technology continuously impacts how tax returns are prepared and filed. [Blockchain](../b/blockchain_in_trading.md), AI, and [machine learning](../m/machine_learning.md) have the potential to further automate and streamline tax compliance and reporting. 
 
 ### Policy Changes
 

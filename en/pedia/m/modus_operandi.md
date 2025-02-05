@@ -47,7 +47,7 @@ Wirecard, a German [payment](../p/payment.md) processing company, collapsed in 2
 Adhering to established laws and regulations such as the Sarbanes-Oxley Act in the U.S. or the [European Union](../e/european_union_(eu).md)’s General Data Protection Regulation (GDPR) can help mitigate the [risk](../r/risk.md) of financial [fraud](../f/fraud.md). Regular audits and compliance checks are essential.
 
 ### Advanced Analytics
-Technologies such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can significantly enhance [fraud](../f/fraud.md) detection capabilities. By analyzing large sets of [transaction](../t/transaction.md) data, these systems can identify patterns indicative of fraudulent activity and alert investigators in real-time.
+Technologies such as [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can significantly enhance [fraud](../f/fraud.md) detection capabilities. By analyzing large sets of [transaction](../t/transaction.md) data, these systems can identify patterns indicative of fraudulent activity and alert investigators in real-time.
 
 ### Employee Training
 Continuous training and awareness programs for employees can serve as the first line of defense against financial [fraud](../f/fraud.md). By educating employees about common [fraud](../f/fraud.md) tactics and red flags, organizations can reduce the likelihood of internal and external [fraud](../f/fraud.md).

@@ -36,7 +36,7 @@ The high [liquidity](../l/liquidity.md) induced by [zero interest rate policies]
 
 ### Machine Learning Adaptations
 
-Machine Learning (ML)-driven algotrading systems have an advantage in adapting to zero [interest rate](../i/interest_rate.md) environments. Models can be trained to understand and predict [market](../m/market.md) behavior under these specific conditions, which are drastically different from high or even 'normal' [interest rate](../i/interest_rate.md) environments.
+[Machine Learning](../m/machine_learning.md) (ML)-driven algotrading systems have an advantage in adapting to zero [interest rate](../i/interest_rate.md) environments. Models can be trained to understand and predict [market](../m/market.md) behavior under these specific conditions, which are drastically different from high or even 'normal' [interest rate](../i/interest_rate.md) environments.
 
 ### Key Players in Zero Interest Policy and Algotrading
 
@@ -81,7 +81,7 @@ Central banks may eventually raise rates from the [zero-bound](../z/zero-bound.m
 
 ### Technological Advancements
 
-As computational power increases and machine learning models become more sophisticated, algotrading systems [will](../w/will.md) be better equipped to [handle](../h/handle.md) the unique challenges and opportunities presented by [zero interest rate policies](../z/zero_interest_rate_policies.md).
+As computational power increases and [machine learning](../m/machine_learning.md) models become more sophisticated, algotrading systems [will](../w/will.md) be better equipped to [handle](../h/handle.md) the unique challenges and opportunities presented by [zero interest rate policies](../z/zero_interest_rate_policies.md).
 
 ### Conclusion
 

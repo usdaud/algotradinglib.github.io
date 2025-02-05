@@ -67,7 +67,7 @@ In high-frequency trading, algorithms perform a high number of transactions at e
 
 ## Institutional Use
 
-Institutional investors like [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) desks heavily rely on sophisticated algorithms to discern oversold conditions and [capitalize](../c/capitalize.md) on potential price corrections. These institutional players often employ a combination of [technical indicators](../t/technical_indicator.md), [fundamental analysis](../f/fundamental_analysis.md), and machine learning models to identify oversold [stocks](../s/stock.md).
+Institutional investors like [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) desks heavily rely on sophisticated algorithms to discern oversold conditions and [capitalize](../c/capitalize.md) on potential price corrections. These institutional players often employ a combination of [technical indicators](../t/technical_indicator.md), [fundamental analysis](../f/fundamental_analysis.md), and [machine learning](../m/machine_learning.md) models to identify oversold [stocks](../s/stock.md).
 
 ### Example: Renaissance Technologies
 

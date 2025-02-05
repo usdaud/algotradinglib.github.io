@@ -1,6 +1,6 @@
 # Grid Search
 
-Grid search is a hyperparameter [optimization](../o/optimization.md) technique traditionally used in machine learning, but it has found significant application in the realm of [algorithmic trading](../a/algorithmic_trading.md). The primary goal of grid search in trading is to optimize strategy parameters to maximize the [performance metrics](../p/performance_metrics.md) such as returns, [Sharpe ratio](../s/sharpe_ratio.md), [Sortino ratio](../s/sortino_ratio.md), and other [risk](../r/risk.md)-adjusted performance measures.
+Grid search is a hyperparameter [optimization](../o/optimization.md) technique traditionally used in [machine learning](../m/machine_learning.md), but it has found significant application in the realm of [algorithmic trading](../a/algorithmic_trading.md). The primary goal of grid search in trading is to optimize strategy parameters to maximize the [performance metrics](../p/performance_metrics.md) such as returns, [Sharpe ratio](../s/sharpe_ratio.md), [Sortino ratio](../s/sortino_ratio.md), and other [risk](../r/risk.md)-adjusted performance measures.
 
 Grid search involves systematically working through [multiple](../m/multiple.md) combinations of parameter tunes, cross-validating as it goes to determine which tune gives the best performance. Below is an exhaustive dive into how grid search is applied to [trading algorithms](../t/trading_algorithms.md).
 
@@ -49,7 +49,7 @@ Grid search is an exhaustive search algorithm where every combination of paramet
 
 Several libraries and frameworks can help implement grid search for trading:
 
-- **Python's `sklearn.model_selection.GridSearchCV`**: While primarily designed for machine learning, it can be adapted for use in [trading algorithms](../t/trading_algorithms.md).
+- **Python's `sklearn.model_selection.GridSearchCV`**: While primarily designed for [machine learning](../m/machine_learning.md), it can be adapted for use in [trading algorithms](../t/trading_algorithms.md).
 - **`bt` ([Backtesting](../b/backtesting.md) Library)**: A flexible Python library for [backtesting](../b/backtesting.md), with integration capabilities for parameter tuning.
 - **`[QuantConnect](../q/quantconnect.md)`**: [QuantConnect](../q/quantconnect.md) handles grid searches efficiently by distributing the workload across cloud servers. [QuantConnect](https://www.quantconnect.com/)
 
@@ -136,8 +136,8 @@ Platforms like [QuantConnect](../q/quantconnect.md) are enabling traders to easi
 
 ### 3. Machine Learning Integration
 
-Integrating machine learning models to predict better parameter values. By training models on past performance data, traders can predict which parameter sets may perform better, thus narrowing down the search space.
+Integrating [machine learning](../m/machine_learning.md) models to predict better parameter values. By training models on past performance data, traders can predict which parameter sets may perform better, thus narrowing down the search space.
 
 ## Conclusion
 
-Grid search remains a foundational method in hyperparameter [optimization](../o/optimization.md) within [trading algorithms](../t/trading_algorithms.md). Although computationally expensive, it provides a straightforward and exhaustive means to optimize strategy parameters. As both [algorithmic trading](../a/algorithmic_trading.md) and machine learning techniques continue to evolve, grid search [will](../w/will.md) likely be complemented or partially replaced by more advanced methods, but for now, it remains a valuable tool in a [trader](../t/trader.md)'s arsenal.
+Grid search remains a foundational method in hyperparameter [optimization](../o/optimization.md) within [trading algorithms](../t/trading_algorithms.md). Although computationally expensive, it provides a straightforward and exhaustive means to optimize strategy parameters. As both [algorithmic trading](../a/algorithmic_trading.md) and [machine learning](../m/machine_learning.md) techniques continue to evolve, grid search [will](../w/will.md) likely be complemented or partially replaced by more advanced methods, but for now, it remains a valuable tool in a [trader](../t/trader.md)'s arsenal.

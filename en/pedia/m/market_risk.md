@@ -80,7 +80,7 @@ Technology plays a critical role in modern [market](../m/market.md) [risk manage
 [Big data](../b/big_data_in_trading.md) and analytics systems aggregate and analyze vast amounts of [market](../m/market.md) data to provide insights into [market](../m/market.md) trends, correlations, and [risk factors](../r/risk_factors_in_trading.md). These systems enhance the ability of [risk](../r/risk.md) managers to identify and respond to emerging risks promptly.
 
 ### 2. Machine Learning and Artificial Intelligence (AI)
-Machine learning and AI algorithms can process and analyze complex data sets, identify patterns, and predict future [market](../m/market.md) movements. These technologies improve the accuracy of [risk](../r/risk.md) assessments and support decision-making processes in [market](../m/market.md) [risk management](../r/risk_management.md).
+[Machine learning](../m/machine_learning.md) and AI algorithms can process and analyze complex data sets, identify patterns, and predict future [market](../m/market.md) movements. These technologies improve the accuracy of [risk](../r/risk.md) assessments and support decision-making processes in [market](../m/market.md) [risk management](../r/risk_management.md).
 
 ### 3. Blockchain
 [Blockchain](../b/blockchain_in_trading.md) technology offers transparent and immutable record-keeping for financial transactions, reducing [counterparty risk](../c/counterparty_risk.md) and enhancing the integrity of [market](../m/market.md) data. [Smart contracts](../s/smart_contracts_in_trading.md) on [blockchain](../b/blockchain_in_trading.md) can automate [risk management](../r/risk_management.md) processes and enforce compliance with predefined conditions.

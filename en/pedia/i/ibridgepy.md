@@ -5,7 +5,7 @@ IBridgePy is a flexible and powerful Python [trading platform](../t/trading_plat
 
 ## Features
 1. **[Interactive Brokers](../i/interactive_brokers.md) Integration**: Seamless integration with [Interactive Brokers](../i/interactive_brokers.md), providing access to a wide [range](../r/range.md) of financial instruments including [stocks](../s/stock.md), [options](../o/options.md), [futures](../f/futures.md), forex, and bonds.
-2. **Python-Based**: Allows users to develop [trading algorithms](../t/trading_algorithms.md) using Python, leveraging its extensive libraries for data analysis and machine learning.
+2. **Python-Based**: Allows users to develop [trading algorithms](../t/trading_algorithms.md) using Python, leveraging its extensive libraries for data analysis and [machine learning](../m/machine_learning.md).
 3. **[Backtesting](../b/backtesting.md)**: Comprehensive [backtesting](../b/backtesting.md) capabilities to test [trading strategies](../t/trading_strategies.md) against historical data.
 4. **Live Trading**: Support for live trading, enabling the [execution](../e/execution.md) of strategies in real-time markets.
 5. **Paper Trading**: Paper trading [mode](../m/mode.md) for testing strategies in a simulated environment without risking real [money](../m/money.md).
@@ -25,7 +25,7 @@ IBridgePy is a flexible and powerful Python [trading platform](../t/trading_plat
 IBridgePy is designed to work seamlessly with [Interactive Brokers](../i/interactive_brokers.md), providing a [range](../r/range.md) of integration [options](../o/options.md) to enhance trading capabilities:
 
 - **[Interactive Brokers](../i/interactive_brokers.md) API**: Direct integration with IB’s API for real-time data and [order](../o/order.md) [execution](../e/execution.md).
-- **Python Libraries**: Compatible with popular Python libraries such as NumPy, pandas, and scikit-learn for data analysis and machine learning.
+- **Python Libraries**: Compatible with popular Python libraries such as NumPy, pandas, and scikit-learn for data analysis and [machine learning](../m/machine_learning.md).
 - **Third-Party Data Providers**: Ability to integrate with other data providers for additional [market](../m/market.md) data.
 
 ## Community and Support

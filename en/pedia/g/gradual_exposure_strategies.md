@@ -74,7 +74,7 @@ While gradual exposure strategies [offer](../o/offer.md) significant advantages,
 
 The advancements in technology have significantly influenced the development and effectiveness of gradual exposure strategies. Key technological aspects include:
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML)**: The integration of AI and ML enables smarter [order routing](../o/order_routing.md) and [adaptive algorithms](../a/adaptive_algorithms.md) that can learn and evolve with [market](../m/market.md) conditions.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML)**: The integration of AI and ML enables smarter [order routing](../o/order_routing.md) and [adaptive algorithms](../a/adaptive_algorithms.md) that can learn and evolve with [market](../m/market.md) conditions.
 - **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Utilizing massive datasets for [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md) helps in refining strategies for better performance.
 - **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Offers scalable resources to process and analyze vast amounts of [market](../m/market.md) data with reduced latency.
 

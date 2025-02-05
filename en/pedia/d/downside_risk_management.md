@@ -41,7 +41,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/ri
 ### Advanced Tools and Techniques
 
 #### Machine Learning and Downside Risk
-With advancements in technology, machine learning is increasingly being used to predict [downside risk](../d/downside_risk.md). By analyzing large datasets and identifying patterns, machine [learning algorithms](../l/learning_algorithms_in_trading.md) can enhance [risk management](../r/risk_management.md) by providing more accurate predictions and [adaptive strategies](../a/adaptive_strategies.md).
+With advancements in technology, [machine learning](../m/machine_learning.md) is increasingly being used to predict [downside risk](../d/downside_risk.md). By analyzing large datasets and identifying patterns, machine [learning algorithms](../l/learning_algorithms_in_trading.md) can enhance [risk management](../r/risk_management.md) by providing more accurate predictions and [adaptive strategies](../a/adaptive_strategies.md).
 
 #### Monte Carlo Simulations
 Monte Carlo simulations are used to model the probability of different outcomes in [financial markets](../f/financial_market.md). By simulating a wide [range](../r/range.md) of potential [market](../m/market.md) movements, traders can assess the likelihood of various downside scenarios and plan accordingly.

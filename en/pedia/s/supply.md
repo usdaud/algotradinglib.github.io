@@ -67,14 +67,14 @@ Some financial assets, like [Bitcoin](../b/bitcoin.md), have a fixed supply dete
 
 ### Machine Learning Models
 
-Advanced machine learning models can incorporate supply data to make better trading decisions. These models use historical data to recognize patterns and predict future supply conditions, factoring in:
+Advanced [machine learning](../m/machine_learning.md) models can incorporate supply data to make better trading decisions. These models use historical data to recognize patterns and predict future supply conditions, factoring in:
 
 - Historical price and [volume](../v/volume.md) data.
 - [Supply chain](../s/supply_chain.md) disruptions.
 - Producer [financial health](../f/financial_health.md) indicators.
 - [Market sentiment analysis](../m/market_sentiment_analysis.md).
 
-Companies like [Kensho](https://www.kensho.com) and [Numerai](https://numer.ai) [leverage](../l/leverage.md) machine learning to [gain](../g/gain.md) insights into [market](../m/market.md) data, including supply-related metrics.
+Companies like [Kensho](https://www.kensho.com) and [Numerai](https://numer.ai) [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) to [gain](../g/gain.md) insights into [market](../m/market.md) data, including supply-related metrics.
 
 ## Conclusion
 

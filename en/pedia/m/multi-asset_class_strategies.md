@@ -52,7 +52,7 @@ Similar to tactical [asset allocation](../a/asset_allocation.md), dynamic [asset
 [Algorithmic trading](../a/algorithmic_trading.md), also known as "algo trading," uses computer programs to automate trading decisions. In the context of [multi-asset class](../m/multi-asset_class.md) strategies, [algorithmic trading](../a/algorithmic_trading.md) can be particularly effective in managing several [asset](../a/asset.md) classes simultaneously.
 
 ### Quantitative Models
-[Quantitative models](../q/quantitative_models.md) are the backbone of [algorithmic trading](../a/algorithmic_trading.md). These models can include statistical methods, machine learning techniques, and complex mathematical formulas to predict [asset](../a/asset.md) price movements, correlations, and [market](../m/market.md) trends.
+[Quantitative models](../q/quantitative_models.md) are the backbone of [algorithmic trading](../a/algorithmic_trading.md). These models can include statistical methods, [machine learning](../m/machine_learning.md) techniques, and complex mathematical formulas to predict [asset](../a/asset.md) price movements, correlations, and [market](../m/market.md) trends.
 
 ### Backtesting
 [Backtesting](../b/backtesting.md) involves testing the algorithm on historical data to evaluate its performance. This process is critical for validating the accuracy and robustness of the [trading strategy](../t/trading_strategy.md) before deploying it in live markets.
@@ -89,10 +89,10 @@ AQR [Capital](../c/capital.md) Management is known for its quantitative approach
 
 ## The Future of Multi-Asset Class Strategies
 
-The future of [multi-asset class](../m/multi-asset_class.md) strategies [will](../w/will.md) likely continue to evolve with advancements in technology, particularly in the fields of [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md). These technologies have the potential to enhance the way multi-[asset](../a/asset.md) portfolios are constructed, monitored, and managed.
+The future of [multi-asset class](../m/multi-asset_class.md) strategies [will](../w/will.md) likely continue to evolve with advancements in technology, particularly in the fields of [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md). These technologies have the potential to enhance the way multi-[asset](../a/asset.md) portfolios are constructed, monitored, and managed.
 
 ### Artificial Intelligence and Machine Learning
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning can dynamically analyze vast datasets to identify patterns and correlations that traditional analysis might miss. As these technologies evolve, they [will](../w/will.md) [offer](../o/offer.md) more precise and adaptive [multi-asset class](../m/multi-asset_class.md) strategies.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) can dynamically analyze vast datasets to identify patterns and correlations that traditional analysis might miss. As these technologies evolve, they [will](../w/will.md) [offer](../o/offer.md) more precise and adaptive [multi-asset class](../m/multi-asset_class.md) strategies.
 
 ### Roboadvisors
 Robo-advisors use automated, algorithm-driven [financial planning](../f/financial_planning.md) services to create and manage multi-[asset](../a/asset.md) portfolios tailored to individual [investor](../i/investor.md) needs. These platforms are becoming increasingly popular for providing accessible and cost-effective investment solutions.

@@ -27,7 +27,7 @@
 3. **[Order Book Dynamics](../o/order_book_dynamics.md) Algorithms:**
    - Rely on real-time analysis of [order book](../o/order_book.md) data to make trading decisions.
    - Monitor [order](../o/order.md) flow, size, and price levels to anticipate [market](../m/market.md) movements.
-   - Employ machine learning techniques to adapt to changing [market](../m/market.md) conditions.
+   - Employ [machine learning](../m/machine_learning.md) techniques to adapt to changing [market](../m/market.md) conditions.
 
 4. **[Trend Following](../t/trend_following.md) Algorithms:**
    - Identify and exploit [market](../m/market.md) trends to make profitable trades.
@@ -52,7 +52,7 @@
    - Implementing [stop-loss orders](../s/stop-loss_orders.md) and other [risk control](../r/risk_control.md) measures to protect against significant losses.
 
 4. **Adaptive Learning:**
-   - Utilization of machine learning techniques to adapt to changing [market](../m/market.md) conditions.
+   - Utilization of [machine learning](../m/machine_learning.md) techniques to adapt to changing [market](../m/market.md) conditions.
    - Algorithms learn from historical data and real-time [market](../m/market.md) feedback to improve performance.
    - Advanced models can identify patterns and anomalies that human traders might miss.
 
@@ -100,8 +100,8 @@ While [market](../m/market.md)-making algorithms [offer](../o/offer.md) numerous
 
 The future of [market](../m/market.md)-making algorithms is likely to be shaped by several trends and technological advancements:
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning:**
-   - Continued integration of AI and machine learning techniques to improve predictive accuracy and adaptability.
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md):**
+   - Continued integration of AI and [machine learning](../m/machine_learning.md) techniques to improve predictive accuracy and adaptability.
    - Development of more sophisticated models capable of processing large datasets and complex [market dynamics](../m/market_dynamics.md).
 
 2. **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md):**

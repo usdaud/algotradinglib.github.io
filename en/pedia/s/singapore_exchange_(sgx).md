@@ -50,7 +50,7 @@ SGX offers an extensive [range](../r/range.md) of [market](../m/market.md) data 
 In recent years, SGX has made significant strides in the digital space, deploying advanced technologies, such as [blockchain](../b/blockchain_in_trading.md), to enhance [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in post-[trade](../t/trade.md) processes.
 
 - **[Distributed Ledger Technology](../d/distributed_ledger_technology.md) (DLT)**: To streamline over-the-counter (OTC) [derivatives](../d/derivatives.md) settlements and reduce [reconciliation](../r/reconciliation.md) efforts.
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) & Machine Learning**: Used for [market](../m/market.md) surveillance, detecting anomalies, and ensuring [market](../m/market.md) integrity.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) & [Machine Learning](../m/machine_learning.md)**: Used for [market](../m/market.md) surveillance, detecting anomalies, and ensuring [market](../m/market.md) integrity.
 
 ## Regulation and Compliance
 

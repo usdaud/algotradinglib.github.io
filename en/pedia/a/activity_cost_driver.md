@@ -132,7 +132,7 @@ The landscape of cost management is continuously evolving, and several emerging 
 
 ### 1. Integration with Digital Technologies
 
-The integration of ABC systems with digital technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning (ML), and [big data analytics](../b/big_data_analytics_in_trading.md) is revolutionizing cost management. These technologies enable [real-time data analysis](../r/real-time_data_analysis.md), predictive cost modeling, and enhanced accuracy in identifying cost drivers.
+The integration of ABC systems with digital technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md) (ML), and [big data analytics](../b/big_data_analytics_in_trading.md) is revolutionizing cost management. These technologies enable [real-time data analysis](../r/real-time_data_analysis.md), predictive cost modeling, and enhanced accuracy in identifying cost drivers.
 
 ### 2. Advanced Cost Allocation Algorithms
 

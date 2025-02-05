@@ -20,7 +20,7 @@ Reverse engineering, in the context of [algorithmic trading](../a/algorithmic_tr
 ### Steps in Reverse Engineering Trading Algorithms
 
 1. **Data Collection**: Gather extensive data on trades executed by the algorithm, including [transaction](../t/transaction.md) times, [asset](../a/asset.md) prices, volumes, and any anomalies.
-2. **[Pattern Recognition](../p/pattern_recognition.md)**: Utilize statistical and machine learning techniques to uncover patterns and relationships within the collected data.
+2. **[Pattern Recognition](../p/pattern_recognition.md)**: Utilize statistical and [machine learning](../m/machine_learning.md) techniques to uncover patterns and relationships within the collected data.
 3. **Behavioral Analysis**: Analyze the response of the algorithm under various [market](../m/market.md) conditions to identify behavioral triggers and decision-making criteria.
 4. **[Hypothesis Testing](../h/hypothesis_testing.md)**: Formulate hypotheses about the algorithm’s strategies and test them against historical data to validate findings.
 5. **Model Reconstruction**: Build a reconstructed model of the original algorithm based on the insights gained from the analysis.
@@ -34,7 +34,7 @@ Reverse engineering, in the context of [algorithmic trading](../a/algorithmic_tr
 ### Tools and Techniques in Reverse Engineering
 
 1. **Statistical Analysis**: Tools like R and Python (with libraries such as NumPy, pandas, and statsmodels) for identifying trends and variances.
-2. **Machine Learning**: Algorithms in scikit-learn, TensorFlow, or PyTorch for [predictive modeling](../p/predictive_modeling.md) and classification of trading patterns.
+2. **[Machine Learning](../m/machine_learning.md)**: Algorithms in scikit-learn, [TensorFlow](../t/tensorflow.md), or [PyTorch](../p/pytorch.md) for [predictive modeling](../p/predictive_modeling.md) and classification of trading patterns.
 3. **Visualization Tools**: Use of tools like Matplotlib, Seaborn, and Plotly for graphical representation of data to make sense of complex sets of data.
 4. **[Simulation](../s/simulation_in_trading.md) Environments**: [Backtesting](../b/backtesting.md) frameworks (e.g., [QuantConnect](https://www.quantconnect.com/), [Backtrader](https://www.backtrader.com/)) to test reconstructed models against historical data.
 

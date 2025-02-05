@@ -53,7 +53,7 @@ Data from balance sheets, [income](../i/income.md) statements, and [cash flow](.
 5. **[Overfitting](../o/overfitting.md):** The [risk](../r/risk.md) of developing a model that performs well on historical data but fails in live trading.
 
 ## Popular Programming Languages
-1. **Python:** Widely used for its simplicity and extensive libraries for data analysis and machine learning (e.g., pandas, NumPy, scikit-learn).
+1. **Python:** Widely used for its simplicity and extensive libraries for data analysis and [machine learning](../m/machine_learning.md) (e.g., pandas, NumPy, scikit-learn).
 2. **R:** Another popular language, especially in academic circles, for statistical analysis and visualization.
 3. **C++:** Preferred for high-frequency trading due to its speed and [efficiency](../e/efficiency.md).
 
@@ -62,15 +62,15 @@ Data from balance sheets, [income](../i/income.md) statements, and [cash flow](.
 ### Python
 - **pandas:** Data manipulation
 - **NumPy:** Numerical computations
-- **scikit-learn:** Machine learning
-- **TensorFlow:** [Deep learning](../d/deep_learning.md)
+- **scikit-learn:** [Machine learning](../m/machine_learning.md)
+- **[TensorFlow](../t/tensorflow.md):** [Deep learning](../d/deep_learning.md)
 - **PyAlgoTrade:** [Backtesting](../b/backtesting.md) framework
 
 ### R
 - **quantmod:** Quantitative [financial modeling](../f/financial_modeling.md)
 - **TTR:** Technical [trading rules](../t/trading_rules.md)
 - **xts:** [Time series](../t/time_series.md) data
-- **caret:** Machine learning
+- **caret:** [Machine learning](../m/machine_learning.md)
 
 ### C++
 - **Kx Systems' kdb+:** High-performance [time series](../t/time_series.md) database
@@ -87,7 +87,7 @@ Data from balance sheets, [income](../i/income.md) statements, and [cash flow](.
 ## Future Trends
 
 ### Artificial Intelligence
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are increasingly being integrated into [quantitative trading](../q/quantitative_trading.md). This includes advanced techniques such as [deep learning](../d/deep_learning.md) models which can identify patterns in data that are not obvious through traditional methods.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are increasingly being integrated into [quantitative trading](../q/quantitative_trading.md). This includes advanced techniques such as [deep learning](../d/deep_learning.md) models which can identify patterns in data that are not obvious through traditional methods.
 
 ### Quantum Computing
 [Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize [quantitative trading](../q/quantitative_trading.md) by solving complex problems much faster than classical computers. As quantum technology matures, we may see new types of algorithms capable of dramatically improving [trading strategies](../t/trading_strategies.md).

@@ -71,7 +71,7 @@ Several tools and libraries are available for performing Monte Carlo [Simulation
   - [NumPy](https://numpy.org/): Provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on them.
   - [pandas](https://pandas.pydata.org/): Offers data structures and tools for processing structured data.
   - [SciPy](https://www.scipy.org/): Contains modules for [optimization](../o/optimization.md), integration, [interpolation](../i/interpolation.md), eigenvalue problems, algebraic equations, and other numerical tasks.
-  - [PyMC3](https://docs.pymc.io/): Allows for Bayesian statistical modeling and probabilistic machine learning, including MCS.
+  - [PyMC3](https://docs.pymc.io/): Allows for Bayesian statistical modeling and probabilistic [machine learning](../m/machine_learning.md), including MCS.
   
 - **Commercial Software**:
   - [MATLAB](https://www.mathworks.com/products/matlab.html)

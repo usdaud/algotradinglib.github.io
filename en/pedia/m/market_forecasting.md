@@ -51,7 +51,7 @@ Several models are utilized to analyze and forecast [time series](../t/time_seri
 
 ### 4.1. Supervised Learning
 
-Supervised learning involves training algorithms on labeled data, where the input-output relationships are known. Common supervised learning techniques include:
+[Supervised learning](../s/supervised_learning.md) involves training algorithms on labeled data, where the input-output relationships are known. Common [supervised learning](../s/supervised_learning.md) techniques include:
 
 - **[Linear Regression](../l/linear_regression.md)**: Models the relationship between dependent and independent variables.
 - **[Decision Trees](../d/decision_trees.md)**: Non-[linear models](../l/linear_models_in_trading.md) that segment data based on feature values.
@@ -59,14 +59,14 @@ Supervised learning involves training algorithms on labeled data, where the inpu
 
 ### 4.2. Unsupervised Learning
 
-Unsupervised learning deals with unlabeled data and aims to find hidden patterns or groupings. Techniques include:
+[Unsupervised learning](../u/unsupervised_learning.md) deals with unlabeled data and aims to find hidden patterns or groupings. Techniques include:
 
 - **Clustering**: Groups similar data points together (e.g., [K-means clustering](../k/k-means_clustering_in_trading.md)).
 - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces the dimensionality of the data, retaining the most significant features.
 
 ### 4.3. Deep Learning
 
-[Deep learning](../d/deep_learning.md), a subset of machine learning, uses [neural networks](../n/neural_networks_in_trading.md) with many layers to model complex data representations. Key architectures used in [market](../m/market.md) [forecasting](../f/forecasting.md) include:
+[Deep learning](../d/deep_learning.md), a subset of [machine learning](../m/machine_learning.md), uses [neural networks](../n/neural_networks_in_trading.md) with many layers to model complex data representations. Key architectures used in [market](../m/market.md) [forecasting](../f/forecasting.md) include:
 
 - **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs)**: Suitable for sequential data, capturing [temporal dependencies](../t/temporal_dependencies_in_trading.md).
 - **Long Short-Term Memory Networks (LSTMs)**: A type of RNN that can learn long-term dependencies and prevent the vanishing gradient problem.
@@ -150,4 +150,4 @@ High performance and reliability are essential for [algorithmic trading](../a/al
 
 ## Conclusion
 
-[Market](../m/market.md) [forecasting](../f/forecasting.md) in [algorithmic trading](../a/algorithmic_trading.md) combines [historical data analysis](../h/historical_data_analysis.md), [time series modeling](../t/time_series_modeling.md), machine learning, [sentiment analysis](../s/sentiment_analysis.md), and rigorous [backtesting](../b/backtesting.md) to predict future [market](../m/market.md) movements. Despite its challenges, accurate [forecasting](../f/forecasting.md) can provide a competitive edge in [financial markets](../f/financial_market.md), driving informed decision-making and maximizing returns. As technology continues to evolve, the integration of more sophisticated models and real-time data processing capabilities [will](../w/will.md) further enhance the efficacy of [market](../m/market.md) [forecasting](../f/forecasting.md) in [algorithmic trading](../a/algorithmic_trading.md).
+[Market](../m/market.md) [forecasting](../f/forecasting.md) in [algorithmic trading](../a/algorithmic_trading.md) combines [historical data analysis](../h/historical_data_analysis.md), [time series modeling](../t/time_series_modeling.md), [machine learning](../m/machine_learning.md), [sentiment analysis](../s/sentiment_analysis.md), and rigorous [backtesting](../b/backtesting.md) to predict future [market](../m/market.md) movements. Despite its challenges, accurate [forecasting](../f/forecasting.md) can provide a competitive edge in [financial markets](../f/financial_market.md), driving informed decision-making and maximizing returns. As technology continues to evolve, the integration of more sophisticated models and real-time data processing capabilities [will](../w/will.md) further enhance the efficacy of [market](../m/market.md) [forecasting](../f/forecasting.md) in [algorithmic trading](../a/algorithmic_trading.md).

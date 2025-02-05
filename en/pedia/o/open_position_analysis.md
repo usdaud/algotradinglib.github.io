@@ -32,7 +32,7 @@ Statistical models, such as moving averages, [Bollinger Bands](../b/bollinger_ba
 
 ### Machine Learning and AI
 
-Advanced [algorithmic trading](../a/algorithmic_trading.md) platforms integrate machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict future price movements, identify patterns, and optimize [position management](../p/position_management.md). Techniques such as reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and clustering are commonly applied.
+Advanced [algorithmic trading](../a/algorithmic_trading.md) platforms integrate [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict future price movements, identify patterns, and optimize [position management](../p/position_management.md). Techniques such as [reinforcement learning](../r/reinforcement_learning.md), [neural networks](../n/neural_networks_in_trading.md), and clustering are commonly applied.
 
 ### Scenario Analysis
 
@@ -94,7 +94,7 @@ Efficient [open position](../o/open_position.md) analysis demands substantial co
 
 ### Enhanced Machine Learning Models
 
-With advancements in AI and machine learning, future [open position](../o/open_position.md) analysis is expected to become more predictive and less reactive. Enhanced models [will](../w/will.md) likely [offer](../o/offer.md) better insights into [market](../m/market.md) movements and position performance.
+With advancements in AI and [machine learning](../m/machine_learning.md), future [open position](../o/open_position.md) analysis is expected to become more predictive and less reactive. Enhanced models [will](../w/will.md) likely [offer](../o/offer.md) better insights into [market](../m/market.md) movements and position performance.
 
 ### Quantum Computing
 

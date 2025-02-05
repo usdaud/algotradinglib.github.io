@@ -71,7 +71,7 @@ In the broader field of [risk management](../r/risk_management.md), financial an
 
 Recent advancements in computational power and [data analytics](../d/data_analytics.md) have led to more sophisticated methods for constructing and using mortality tables. Some of these advances include:
 
-- **Machine Learning**: The use of [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to identify patterns and trends in mortality data that traditional methods may miss.
+- **[Machine Learning](../m/machine_learning.md)**: The use of [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to identify patterns and trends in mortality data that traditional methods may miss.
 - **Dynamic Modelling**: Developing models that can adapt over time as new data becomes available, leading to more accurate predictions.
 - **[Big Data](../b/big_data_in_trading.md)**: Leveraging large datasets to improve the reliability and granularity of mortality tables.
 

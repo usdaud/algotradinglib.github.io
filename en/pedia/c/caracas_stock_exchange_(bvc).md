@@ -114,7 +114,7 @@ The BVC operates in an [economy](../e/economy.md) characterized by high [volatil
 
 ### Technological Integration
 
-While the adoption of electronic [trading systems](../t/trading_systems.md) has modernized the BVC, further advancements in technology, such as machine learning for [predictive analytics](../p/predictive_analytics.md) and [blockchain](../b/blockchain_in_trading.md) for secure, transparent transactions, are crucial for future growth.
+While the adoption of electronic [trading systems](../t/trading_systems.md) has modernized the BVC, further advancements in technology, such as [machine learning](../m/machine_learning.md) for [predictive analytics](../p/predictive_analytics.md) and [blockchain](../b/blockchain_in_trading.md) for secure, transparent transactions, are crucial for future growth.
 
 ### Diversification and Inclusivity
 

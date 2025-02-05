@@ -73,10 +73,10 @@ Long-Term [Capital](../c/capital.md) Management (LTCM) showcased another example
 
 ### Machine Learning and AI
 
-The integration of machine learning and AI can significantly mitigate the [issue](../i/issue.md) of insufficient funds by [offering](../o/offering.md) sophisticated [predictive analytics](../p/predictive_analytics.md):
+The integration of [machine learning](../m/machine_learning.md) and AI can significantly mitigate the [issue](../i/issue.md) of insufficient funds by [offering](../o/offering.md) sophisticated [predictive analytics](../p/predictive_analytics.md):
 
 - **Predictive Maintenance**: AI algorithms can predict [fund](../f/fund.md) insufficiency scenarios based on historical data and trends, allowing for proactive adjustments.
-- **Reinforcement Learning**: RF can be applied to optimize [portfolio management](../p/par.md) and [capital allocation](../c/capital_allocation.md) dynamically.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: RF can be applied to optimize [portfolio management](../p/par.md) and [capital allocation](../c/capital_allocation.md) dynamically.
 
 ### Blockchain and Smart Contracts
 

@@ -1,8 +1,8 @@
 # Deep Learning for Trading
 
-[Deep learning](../d/deep_learning.md), a subset of machine learning, focuses on using [neural networks](../n/neural_networks_in_trading.md) with many layers (also known as deep [neural networks](../n/neural_networks_in_trading.md)) to analyze various forms of data. Over recent years, [deep learning](../d/deep_learning.md) has seen remarkable success across a spectrum of domains such as image recognition, [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), and autonomous driving. One of the prominent and rapidly evolving applications of [deep learning](../d/deep_learning.md) is in the realm of algotrading ([algorithmic trading](../a/algorithmic_trading.md)).
+[Deep learning](../d/deep_learning.md), a subset of [machine learning](../m/machine_learning.md), focuses on using [neural networks](../n/neural_networks_in_trading.md) with many layers (also known as deep [neural networks](../n/neural_networks_in_trading.md)) to analyze various forms of data. Over recent years, [deep learning](../d/deep_learning.md) has seen remarkable success across a spectrum of domains such as image recognition, [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), and autonomous driving. One of the prominent and rapidly evolving applications of [deep learning](../d/deep_learning.md) is in the realm of algotrading ([algorithmic trading](../a/algorithmic_trading.md)).
 
-[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to analyze trading data and execute buy and sell orders on behalf of traders. These algorithms can [range](../r/range.md) from simple rule-based systems to extremely complex models based on advanced machine learning techniques. [Deep learning](../d/deep_learning.md), with its ability to understand complex patterns and infer insights from large amounts of data, represents a quantum leap in developing [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md).
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to analyze trading data and execute buy and sell orders on behalf of traders. These algorithms can [range](../r/range.md) from simple rule-based systems to extremely complex models based on advanced [machine learning](../m/machine_learning.md) techniques. [Deep learning](../d/deep_learning.md), with its ability to understand complex patterns and infer insights from large amounts of data, represents a quantum leap in developing [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md).
 
 ## Key Concepts in Deep Learning
 
@@ -92,19 +92,19 @@ Quantopian provides a platform for developing, testing, and deploying [trading a
 
 ### 5. [Numerai](https://numer.ai/)
 
-Numerai is a [hedge fund](../h/hedge_fund.md) that leverages machine learning and [data science](../d/data_science_in_trading.md) competitions to create [predictive models](../p/predictive_models_in_trading.md) for stock trading.
+Numerai is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md) competitions to create [predictive models](../p/predictive_models_in_trading.md) for stock trading.
 
 ### 6. [TensorFlow](https://www.tensorflow.org/)
 
-TensorFlow is an [open](../o/open.md)-source [deep learning](../d/deep_learning.md) framework developed by Google. It is widely used in various [deep learning](../d/deep_learning.md) applications, including financial trading.
+[TensorFlow](../t/tensorflow.md) is an [open](../o/open.md)-source [deep learning](../d/deep_learning.md) framework developed by Google. It is widely used in various [deep learning](../d/deep_learning.md) applications, including financial trading.
 
 ### 7. [PyTorch](https://pytorch.org/)
 
-PyTorch, developed by Facebook, is another popular [deep learning](../d/deep_learning.md) framework known for its flexibility and ease of use, making it a favorite among researchers and [industry](../i/industry.md) practitioners.
+[PyTorch](../p/pytorch.md), developed by Facebook, is another popular [deep learning](../d/deep_learning.md) framework known for its flexibility and ease of use, making it a favorite among researchers and [industry](../i/industry.md) practitioners.
 
 ### 8. [Keras](https://keras.io/)
 
-Keras is an [open](../o/open.md)-source neural network library that runs on top of TensorFlow, making it accessible for rapid prototyping of [deep learning](../d/deep_learning.md) models.
+[Keras](../k/keras.md) is an [open](../o/open.md)-source neural network library that runs on top of [TensorFlow](../t/tensorflow.md), making it accessible for rapid prototyping of [deep learning](../d/deep_learning.md) models.
 
 By leveraging these companies, tools, and platforms, traders and financial institutions can harness the power of [deep learning](../d/deep_learning.md) to [gain](../g/gain.md) a competitive edge in the markets.
 

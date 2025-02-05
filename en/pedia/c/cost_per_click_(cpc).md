@@ -103,7 +103,7 @@ Analyzing CPC campaigns requires [robust](../r/robust.md) analytical tools:
 Using advanced algorithms can enhance campaign performance:
 
 1. **[Predictive Analytics](../p/predictive_analytics.md)**: Algorithms can predict which keywords and audience segments [will](../w/will.md) [yield](../y/yield.md) the highest conversion rates.
-2. **Machine Learning (ML)**: ML models can optimize [bid](../b/bid.md) strategies based on historical performance data.
+2. **[Machine Learning](../m/machine_learning.md) (ML)**: ML models can optimize [bid](../b/bid.md) strategies based on historical performance data.
 3. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: NLP can improve ad copy by understanding the most impactful language patterns.
 
 ## Case Studies: CPC in Algorithmic Trading

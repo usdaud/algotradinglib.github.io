@@ -28,7 +28,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), the speed and accuracy of
 
 ### Machine Learning Strategies
 
-Machine learning strategies use [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze vast amounts of data and detect patterns that are not apparent to human traders. These strategies continuously learn and adapt, improving their accuracy over time.
+[Machine learning](../m/machine_learning.md) strategies use [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze vast amounts of data and detect patterns that are not apparent to human traders. These strategies continuously learn and adapt, improving their accuracy over time.
 
 ### Risk Parity
 
@@ -64,7 +64,7 @@ Different strategies tend to perform well in different [market](../m/market.md) 
 
 ### Adaptive Learning
 
-The integration of machine learning allows blended strategies to evolve. Algorithms can be tweaked and improved based on their performance, ensuring they remain relevant as [market](../m/market.md) conditions change.
+The integration of [machine learning](../m/machine_learning.md) allows blended strategies to evolve. Algorithms can be tweaked and improved based on their performance, ensuring they remain relevant as [market](../m/market.md) conditions change.
 
 ### Risk Mitigation
 
@@ -96,7 +96,7 @@ The reliability of blended strategies hinges on the quality of data used. Poor q
 
 ### Two Sigma
 
-Two Sigma is a prominent player in the field of blended investment strategies. They use [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and distributed computing to develop sophisticated [trading algorithms](../t/trading_algorithms.md).
+Two Sigma is a prominent player in the field of blended investment strategies. They use [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to develop sophisticated [trading algorithms](../t/trading_algorithms.md).
 [Two Sigma](https://www.twosigma.com/)
 
 ### Renaissance Technologies

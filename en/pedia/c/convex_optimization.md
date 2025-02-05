@@ -94,8 +94,8 @@ A powerful generalization of [linear programming](../l/linear_programming_in_tra
 
 As [financial markets](../f/financial_market.md) continue to evolve, the role of convex [optimization](../o/optimization.md) in [algorithmic trading](../a/algorithmic_trading.md) is expected to grow due to advances in computational power and the availability of [big data](../b/big_data_in_trading.md). Some future trends include:
 
-**Machine Learning Integration**:
-Combining convex [optimization](../o/optimization.md) with machine learning techniques to improve [predictive models](../p/predictive_models_in_trading.md) and make more informed trading decisions.
+**[Machine Learning](../m/machine_learning.md) Integration**:
+Combining convex [optimization](../o/optimization.md) with [machine learning](../m/machine_learning.md) techniques to improve [predictive models](../p/predictive_models_in_trading.md) and make more informed trading decisions.
 
 **[Quantum Computing](../q/quantum_computing_in_trading.md)**:
 Exploring how [quantum algorithms](../q/quantum_algorithms_in_trading.md) can solve convex [optimization](../o/optimization.md) problems more efficiently, reducing the computational complexity and time required for large-scale trading.

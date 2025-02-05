@@ -37,7 +37,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies often rely on identifying 
 
 ### Machine Learning and Predictive Modeling
 
-Modern machine learning models incorporate [joint](../j/joint.md) [covariance](../c/covariance.md) analysis to improve predictive accuracy. For instance, multivariate regression models and other machine [learning algorithms](../l/learning_algorithms_in_trading.md) use the [covariance](../c/covariance.md) structure to model the relationships between [multiple](../m/multiple.md) financial variables, enhancing the predictive power of the models.
+Modern [machine learning](../m/machine_learning.md) models incorporate [joint](../j/joint.md) [covariance](../c/covariance.md) analysis to improve predictive accuracy. For instance, multivariate regression models and other machine [learning algorithms](../l/learning_algorithms_in_trading.md) use the [covariance](../c/covariance.md) structure to model the relationships between [multiple](../m/multiple.md) financial variables, enhancing the predictive power of the models.
 
 ## Techniques and Tools
 
@@ -68,7 +68,7 @@ Several [software platforms](../s/software_platforms_for_trading.md) and librari
 3. **SciPy**: Contains advanced statistical functions and tools for [covariance](../c/covariance.md) analysis.
    - [SciPy](https://scipy.org/)
 
-4. **scikit-learn**: Offers machine learning tools that include PCA and other [covariance](../c/covariance.md)-related techniques.
+4. **scikit-learn**: Offers [machine learning](../m/machine_learning.md) tools that include PCA and other [covariance](../c/covariance.md)-related techniques.
    - [scikit-learn](https://scikit-learn.org/)
 
 ### Trading Platforms

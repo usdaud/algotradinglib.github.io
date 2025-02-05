@@ -41,7 +41,7 @@ The CIR model describes the evolution of [interest](../i/interest.md) rates usin
 
 #### 3. Machine Learning Techniques
 
-Machine learning techniques have gained popularity for [interest rate](../i/interest_rate.md) [forecasting](../f/forecasting.md) due to their ability to [handle](../h/handle.md) large datasets and capture complex patterns.
+[Machine learning](../m/machine_learning.md) techniques have gained popularity for [interest rate](../i/interest_rate.md) [forecasting](../f/forecasting.md) due to their ability to [handle](../h/handle.md) large datasets and capture complex patterns.
 
 ##### Artificial Neural Networks (ANN)
 
@@ -73,11 +73,11 @@ Hybrid models combine [multiple](../m/multiple.md) [forecasting](../f/forecastin
 2. **Data Quality**: Accurate [forecasting](../f/forecasting.md) requires high-quality data, which can be difficult to obtain.
 3. **[Market](../m/market.md) [Volatility](../v/volatility.md)**: Sudden economic shocks or policy changes can render forecasts inaccurate.
 4. **[Overfitting](../o/overfitting.md)**: Complex models can overfit historical data, leading to poor [out-of-sample performance](../o/out-of-sample_performance.md).
-5. **Computational Complexity**: Advanced machine learning models can be computationally intensive, requiring significant resources.
+5. **Computational Complexity**: Advanced [machine learning](../m/machine_learning.md) models can be computationally intensive, requiring significant resources.
 
 ### Conclusion
 
-[Interest rate](../i/interest_rate.md) [forecasting](../f/forecasting.md) is a vital component of [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) numerous applications from [bond](../b/bond.md) pricing to [risk management](../r/risk_management.md). The choice of [forecasting](../f/forecasting.md) techniques can vary based on the specific requirements and constraints faced by traders. Despite its challenges, advancements in econometric models and machine learning have significantly improved the accuracy and reliability of [interest rate](../i/interest_rate.md) forecasts.
+[Interest rate](../i/interest_rate.md) [forecasting](../f/forecasting.md) is a vital component of [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) numerous applications from [bond](../b/bond.md) pricing to [risk management](../r/risk_management.md). The choice of [forecasting](../f/forecasting.md) techniques can vary based on the specific requirements and constraints faced by traders. Despite its challenges, advancements in econometric models and [machine learning](../m/machine_learning.md) have significantly improved the accuracy and reliability of [interest rate](../i/interest_rate.md) forecasts.
 
 For further information on [algorithmic trading](../a/algorithmic_trading.md) and [interest rate](../i/interest_rate.md) [forecasting](../f/forecasting.md), visit:
 

@@ -64,7 +64,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves using [mathematical models](
 
 [Algorithmic trading](../a/accountability.md) relies on programming languages to develop and implement [trading strategies](../t/trading_strategies.md). Commonly used languages include:
 
-- Python: Known for its simplicity and extensive libraries for data analysis and machine learning.
+- Python: Known for its simplicity and extensive libraries for data analysis and [machine learning](../m/machine_learning.md).
 - C++: Valued for its speed and [efficiency](../e/efficiency.md), making it ideal for high-frequency trading.
 - R: Popular in the [finance](../f/finance.md) [industry](../i/industry.md) for statistical computing and [data visualization](../d/data_visualization.md).
 

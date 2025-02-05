@@ -125,7 +125,7 @@ Algorithms based on 15-minute charts [risk](../r/risk.md) [overfitting](../o/ove
 
 ### AI and Machine Learning
 
-The integration of AI and machine learning with 15-minute chart data is set to revolutionize algo-trading:
+The integration of AI and [machine learning](../m/machine_learning.md) with 15-minute chart data is set to revolutionize algo-trading:
 - **[Pattern Recognition](../p/pattern_recognition.md)**: Enhanced capabilities to detect and act on complex [chart patterns](../c/chart_patterns.md).
 - **[Adaptive Algorithms](../a/adaptive_algorithms.md)**: Models that continuously learn from [market](../m/market.md) data and adjust their strategies in real-time.
 

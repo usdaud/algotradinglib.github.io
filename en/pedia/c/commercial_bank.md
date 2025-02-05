@@ -103,7 +103,7 @@ Digital banking is perhaps the most significant shift in the commercial banking 
 
 ### Artificial Intelligence (AI) and Machine Learning
 
-AI and machine learning are being adopted for:
+AI and [machine learning](../m/machine_learning.md) are being adopted for:
 
 1. **[Risk Management](../r/risk_management.md)**: Predicting and mitigating financial risks.
 2. **[Fraud](../f/fraud.md) Detection**: Identifying and preventing fraudulent activities.

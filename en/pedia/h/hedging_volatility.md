@@ -52,7 +52,7 @@ The effectiveness of [hedging strategies](../h/hedging_strategies.md) can be inf
 
 ## Algorithmic Approaches to Hedging Volatility
 ### Quantitative Models
-Algorithmic traders utilize [quantitative models](../q/quantitative_models.md) to identify optimal [hedging strategies](../h/hedging_strategies.md). These models often include statistical analysis, machine learning, and economic modeling.
+Algorithmic traders utilize [quantitative models](../q/quantitative_models.md) to identify optimal [hedging strategies](../h/hedging_strategies.md). These models often include statistical analysis, [machine learning](../m/machine_learning.md), and economic modeling.
 
 ### Automated Execution
 Algorithms can automate the [execution](../e/execution.md) of [hedging strategies](../h/hedging_strategies.md), ensuring timely and accurate adjustments to the portfolio in response to [market](../m/market.md) movements.

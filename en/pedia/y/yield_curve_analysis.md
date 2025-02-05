@@ -69,7 +69,7 @@ Several models are available for interpreting and predicting [yield](../y/yield.
 [Algorithmic trading](../a/algorithmic_trading.md) platforms integrate [yield curve](../y/yield_curve.md) analysis using advanced mathematical techniques and computational resources. For instance:
 
 - **Python Libraries**: Libraries such as `numpy`, `pandas`, and `statsmodels` are essential for data manipulation and statistical analysis.
-- **Machine Learning**: Techniques such as supervised learning can predict [yield curve](../y/yield_curve.md) movements.
+- **[Machine Learning](../m/machine_learning.md)**: Techniques such as [supervised learning](../s/supervised_learning.md) can predict [yield curve](../y/yield_curve.md) movements.
 - **HFT Systems**: High-Frequency Trading (HFT) systems require [robust](../r/robust.md) and low-latency implementations.
 
 ## 8. Case Study: Application in Industry
@@ -91,7 +91,7 @@ Despite its power, [yield curve](../y/yield_curve.md) analysis faces several cha
 The future of [yield curve](../y/yield_curve.md) analysis in [algorithmic trading](../a/algorithmic_trading.md) [will](../w/will.md) likely be shaped by advancements in technology and [data analytics](../d/data_analytics.md):
 
 - **[Big Data](../b/big_data_in_trading.md)**: Incorporating broader datasets can enhance [yield curve](../y/yield_curve.md) predictions.
-- **AI and Machine Learning**: More sophisticated algorithms can better [handle](../h/handle.md) complexity and deliver more accurate forecasts.
+- **AI and [Machine Learning](../m/machine_learning.md)**: More sophisticated algorithms can better [handle](../h/handle.md) complexity and deliver more accurate forecasts.
 - **[Blockchain](../b/blockchain_in_trading.md)**: Enhanced [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in [bond](../b/bond.md) trading through decentralized ledgers.
 
 In conclusion, [yield curve](../y/yield_curve.md) analysis remains an essential tool in [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) insights into [market](../m/market.md) conditions and informing strategic decisions. Its integration with cutting-edge technology promises to drive the evolution of [bond](../b/bond.md) trading and [financial markets](../f/financial_market.md).

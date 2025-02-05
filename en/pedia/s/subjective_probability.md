@@ -44,7 +44,7 @@ In predictive markets, participants [trade](../t/trade.md) contracts based on th
 
 ### 1. **Incorporating Expert Opinion**
 
-[Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) can benefit from incorporating subjective probabilities derived from expert opinions. For example, machine learning models can be trained on data labeled with experts' probabilistic assessments to improve predictions and identify profitable trading opportunities.
+[Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) can benefit from incorporating subjective probabilities derived from expert opinions. For example, [machine learning](../m/machine_learning.md) models can be trained on data labeled with experts' probabilistic assessments to improve predictions and identify profitable trading opportunities.
 
 ### 2. **Hybrid Models**
 

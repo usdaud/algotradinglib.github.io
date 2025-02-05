@@ -4,7 +4,7 @@
 
 ## Definition of Algorithmic Trading
 
-At its core, [algorithmic trading](../a/accountability.md) involves using advanced [mathematical models](../m/mathematical_models_in_trading.md) and software to make high-speed [trade](../t/trade.md) decisions in [financial markets](../f/financial_market.md). These models are designed to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies and trends to [yield](../y/yield.md) profits. The decisions made by these algorithms can [range](../r/range.md) from simple rule-based strategies to more complex strategies involving machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
+At its core, [algorithmic trading](../a/accountability.md) involves using advanced [mathematical models](../m/mathematical_models_in_trading.md) and software to make high-speed [trade](../t/trade.md) decisions in [financial markets](../f/financial_market.md). These models are designed to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies and trends to [yield](../y/yield.md) profits. The decisions made by these algorithms can [range](../r/range.md) from simple rule-based strategies to more complex strategies involving [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 ## Historical Context
 
@@ -38,7 +38,7 @@ The software architecture for [algorithmic trading](../a/accountability.md) typi
 
 ### Data Analysis
 
-[Algorithmic trading](../a/accountability.md) heavily relies on data analysis. This includes the use of historical data to back-test strategies and real-time data for live trading. Advanced techniques in data analysis, such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are increasingly being used to enhance [trading algorithms](../t/trading_algorithms.md).
+[Algorithmic trading](../a/accountability.md) heavily relies on data analysis. This includes the use of historical data to back-test strategies and real-time data for live trading. Advanced techniques in data analysis, such as [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are increasingly being used to enhance [trading algorithms](../t/trading_algorithms.md).
 
 ## Risks and Challenges
 
@@ -68,7 +68,7 @@ Founded by mathematician James Simons, Renaissance Technologies is one of the mo
 
 [Visit Two Sigma](https://www.twosigma.com/)
 
-Two Sigma Investments employs advanced technologies and [data science](../d/data_science_in_trading.md) to drive its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) is known for its use of machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and distributed computing in trading.
+Two Sigma Investments employs advanced technologies and [data science](../d/data_science_in_trading.md) to drive its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) is known for its use of [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and distributed computing in trading.
 
 ### Citadel Securities
 
@@ -80,7 +80,7 @@ Citadel Securities is a leading [market maker](../m/market_maker.md) and [algori
 
 ### Machine Learning and AI
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are revolutionizing [algorithmic trading](../a/accountability.md). These technologies enable algorithms to learn from historical data and adapt to changing [market](../m/market.md) conditions. Examples include reinforcement learning, [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), and deep [learning algorithms](../l/learning_algorithms_in_trading.md).
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are revolutionizing [algorithmic trading](../a/accountability.md). These technologies enable algorithms to learn from historical data and adapt to changing [market](../m/market.md) conditions. Examples include [reinforcement learning](../r/reinforcement_learning.md), [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), and deep [learning algorithms](../l/learning_algorithms_in_trading.md).
 
 ### Quantum Computing
 

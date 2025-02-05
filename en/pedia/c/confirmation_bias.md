@@ -78,7 +78,7 @@ Establishing [feedback loops](../f/feedback_loops_in_trading.md) that include pe
 Leveraging technology and advanced analytics can also play a crucial role in mitigating confirmation bias:
 
 - **Automated Data Analysis:** Employing [robust](../r/robust.md) algorithms for data analysis that minimize human intervention can reduce the subjective influence on the outcomes.
-- **Machine Learning Models:** Using unsupervised learning techniques that identify patterns in data without preconceived labels, reducing the [risk](../r/risk.md) of enforcing preexisting biases.
+- **[Machine Learning](../m/machine_learning.md) Models:** Using [unsupervised learning](../u/unsupervised_learning.md) techniques that identify patterns in data without preconceived labels, reducing the [risk](../r/risk.md) of enforcing preexisting biases.
 
 ### Case Studies
 
@@ -95,7 +95,7 @@ Melvin [Capital](../c/capital.md), a [hedge fund](../h/hedge_fund.md) involved i
 Several companies [offer](../o/offer.md) solutions aimed at reducing confirmation bias in trading. These include:
 
 - [Qlik](https://www.qlik.com): Qlik provides [business](../b/business.md) intelligence and [data visualization](../d/data_visualization.md) tools that help traders uncover unbiased insights from their data.
-- [Kensho](https://www.kensho.com): Kensho offers advanced machine learning and analytics solutions to ensure objective data analysis and reduce [cognitive biases in trading](../c/cognitive_biases_in_trading.md) decisions.
+- [Kensho](https://www.kensho.com): Kensho offers advanced [machine learning](../m/machine_learning.md) and analytics solutions to ensure objective data analysis and reduce [cognitive biases in trading](../c/cognitive_biases_in_trading.md) decisions.
 - [Aiera](https://www.aiera.com): Aiera specializes in providing real-time [market](../m/market.md) analysis using AI to help traders make data-driven decisions without [cognitive biases](../c/cognitive_biases_in_trading.md).
 
 ### Conclusion

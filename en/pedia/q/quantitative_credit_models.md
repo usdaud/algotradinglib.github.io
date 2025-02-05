@@ -22,7 +22,7 @@ Reduced form models, also known as intensity-based models, do not rely directly 
 - **Jarrow-Turnbull Model**: This model defines the [hazard rate](../h/hazard_rate.md) and uses it to derive [bond](../b/bond.md) prices and [credit](../c/credit.md) [spreads](../s/spreads.md). [More about Jarrow-Turnbull Model](https://www.jstor.org/stable/2331139)
 
 #### 3. Machine Learning Models
-With advancements in computational power and [big data analytics](../b/big_data_analytics_in_trading.md), machine learning models have become increasingly popular for [credit risk](../c/credit_risk.md) modeling. These models apply algorithms to discover patterns and relationships in vast data sets.
+With advancements in computational power and [big data analytics](../b/big_data_analytics_in_trading.md), [machine learning](../m/machine_learning.md) models have become increasingly popular for [credit risk](../c/credit_risk.md) modeling. These models apply algorithms to discover patterns and relationships in vast data sets.
 
 - **[Random Forests](../r/random_forests_in_trading.md)**: [Multiple](../m/multiple.md) [decision trees](../d/decision_trees.md) are trained with random samples of data and features; the consensus of the forest is used for predictions.
 
@@ -71,7 +71,7 @@ Several global firms specialize in developing and applying quantitative [credit]
 3. **Regulatory Compliance**: Adherence to evolving regulatory demands can be complex and resource-intensive.
 
 #### Future Trends
-1. **AI and Machine Learning**: Greater integration for improved prediction accuracy.
+1. **AI and [Machine Learning](../m/machine_learning.md)**: Greater integration for improved prediction accuracy.
 2. **Real-time [Risk](../r/risk.md) Assessment**: Leveraging real-time [data analytics](../d/data_analytics.md) for dynamic [credit](../c/credit.md) [risk management](../r/risk_management.md).
 3. **Increased [Transparency](../t/transparency.md)**: Efforts towards making models more interpretable and transparent to stakeholders.
 

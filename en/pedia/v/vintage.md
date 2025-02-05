@@ -38,7 +38,7 @@ A [private equity](../p/private_equity.md) [fund](../f/fund.md) that invested du
 
 The advancement of fintech and [algorithmic trading](../a/accountability.md) has revolutionized how vintage analysis is conducted. Using sophisticated algorithms and [big data](../b/big_data_in_trading.md), financial technologies can assess and predict the performance of assets with higher precision. Here’s how:
 
-- **Data [Aggregation](../a/aggregation.md) and Machine Learning**: Fintech platforms aggregate large datasets to analyze historical performance based on vintage years. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can identify patterns and correlations that traditional methods might overlook.
+- **Data [Aggregation](../a/aggregation.md) and [Machine Learning](../m/machine_learning.md)**: Fintech platforms aggregate large datasets to analyze historical performance based on vintage years. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can identify patterns and correlations that traditional methods might overlook.
 
 - **[Predictive Modeling](../p/predictive_modeling.md)**: Algorithms can create [predictive models](../p/predictive_models_in_trading.md) that forecast the performance of assets based on their vintages. This assists in formulating investment strategies and managing [risk](../r/risk.md).
 

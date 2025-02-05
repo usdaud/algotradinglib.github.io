@@ -71,7 +71,7 @@ In the realm of [algorithmic trading](../a/accountability.md), OPRA data is inte
 
 ### Machine Learning and AI Applications
 
-FinTech innovations such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) also benefit from OPRA data. Training AI models requires vast amounts of historical and [real-time market data](../r/real-time_market_data.md). OPRA provides this dataset, serving as the foundation upon which [predictive models](../p/predictive_models_in_trading.md) and [automated trading systems](../a/automated_trading_systems.md) are built.
+FinTech innovations such as [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) also benefit from OPRA data. Training AI models requires vast amounts of historical and [real-time market data](../r/real-time_market_data.md). OPRA provides this dataset, serving as the foundation upon which [predictive models](../p/predictive_models_in_trading.md) and [automated trading systems](../a/automated_trading_systems.md) are built.
 
 ### Risk Management Solutions
 

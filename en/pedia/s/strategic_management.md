@@ -91,7 +91,7 @@ Navigating challenges is a part of strategic management:
 ## Future Trends in Strategic Management
 
 As businesses move towards the future, trends shaping strategic management include:
-- **AI and Machine Learning**: Enhancing decision-making processes.
+- **AI and [Machine Learning](../m/machine_learning.md)**: Enhancing decision-making processes.
 - **Digital Transformation**: Integrating technology at every level of the organization.
 - **Sustainability**: Incorporating eco-friendly practices into strategic planning.
 

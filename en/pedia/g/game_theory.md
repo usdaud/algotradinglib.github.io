@@ -12,7 +12,7 @@ The origins of Game Theory date back to the early 20th century. It was formally 
 In Game Theory, "players" are the decision-makers in the game. In the context of algo-trading, players could be individual traders, institutional investors, [trading algorithms](../t/trading_algorithms.md), or even entire trading firms.
 
 #### 2. **Strategies**
-A strategy is a predefined plan or set of rules that a player follows to make decisions. In algo-trading, strategies can [range](../r/range.md) from simple rules (like moving averages) to complex algorithms (like machine learning models).
+A strategy is a predefined plan or set of rules that a player follows to make decisions. In algo-trading, strategies can [range](../r/range.md) from simple rules (like moving averages) to complex algorithms (like [machine learning](../m/machine_learning.md) models).
 
 #### 3. **Payoff**
 The payoff is the outcome or reward a player receives based on the chosen strategy, usually quantified in terms of [profit](../p/profit.md) or loss. In algo-trading, the payoff is typically the financial [return](../r/return.md) on investment.
@@ -74,7 +74,7 @@ Implementing Game Theory in algo-trading requires significant computational powe
 ### Future Trends
 
 #### 1. **Integration with AI and Machine Learning**
-The integration of AI and machine learning with Game Theory is leading to more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md). These systems can learn and evolve, potentially leading to more efficient markets.
+The integration of AI and [machine learning](../m/machine_learning.md) with Game Theory is leading to more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md). These systems can learn and evolve, potentially leading to more efficient markets.
 
 #### 2. **Decentralized Finance (DeFi)**
 Game Theory is increasingly being applied to DeFi platforms, optimizing [trade](../t/trade.md) executions and [liquidity provision](../l/liquidity_provision.md) in decentralized markets.

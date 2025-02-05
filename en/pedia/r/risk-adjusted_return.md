@@ -76,9 +76,9 @@ Several [algorithmic trading](../a/algorithmic_trading.md) firms utilize [risk](
 
 1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where users backtest and deploy strategies using various [risk metrics](../r/risk_metrics.md) including Sharpe and Sortino ratios. [QuantConnect](https://www.quantconnect.com/)
    
-2. **Kensho Technologies**: A technology company providing machine learning and analytics platforms for algotrading and other financial fields. Kensho leverages [risk](../r/risk.md)-adjusted [return](../r/return.md) metrics to enhance [trading algorithms](../t/trading_algorithms.md). [Kensho Technologies](https://www.kensho.com/)
+2. **Kensho Technologies**: A technology company providing [machine learning](../m/machine_learning.md) and analytics platforms for algotrading and other financial fields. Kensho leverages [risk](../r/risk.md)-adjusted [return](../r/return.md) metrics to enhance [trading algorithms](../t/trading_algorithms.md). [Kensho Technologies](https://www.kensho.com/)
 
-3. **Two Sigma**: A prominent [hedge fund](../h/hedge_fund.md) that employs machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). Two Sigma places significant emphasis on [risk](../r/risk.md)-adjusted returns to maintain a competitive edge. [Two Sigma](https://www.twosigma.com/)
+3. **Two Sigma**: A prominent [hedge fund](../h/hedge_fund.md) that employs [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). Two Sigma places significant emphasis on [risk](../r/risk.md)-adjusted returns to maintain a competitive edge. [Two Sigma](https://www.twosigma.com/)
 
 ### Optimization Techniques
 In practice, algorithmic traders might employ various [optimization](../o/optimization.md) techniques to maximize [risk](../r/risk.md)-adjusted returns.
@@ -90,7 +90,7 @@ In practice, algorithmic traders might employ various [optimization](../o/optimi
 [Genetic algorithms](../g/genetic_algorithms_in_trading.md) can be used to find optimal [trading strategies](../t/trading_strategies.md) by mimicking the process of natural selection. This involves iterating through potential solutions ([trading strategies](../t/trading_strategies.md)) to identify those with the highest [risk](../r/risk.md)-adjusted returns, thereby evolving more [robust](../r/robust.md) strategies over time.
 
 #### Machine Learning
-Machine learning models such as reinforcement learning can adaptively modify [trading strategies](../t/trading_strategies.md) to maximize [risk](../r/risk.md)-adjusted returns based on historical and real-time data. These models can continuously improve through learning from new [market](../m/market.md) data and outcomes.
+[Machine learning](../m/machine_learning.md) models such as [reinforcement learning](../r/reinforcement_learning.md) can adaptively modify [trading strategies](../t/trading_strategies.md) to maximize [risk](../r/risk.md)-adjusted returns based on historical and real-time data. These models can continuously improve through learning from new [market](../m/market.md) data and outcomes.
 
 ## Challenges and Considerations
 

@@ -30,7 +30,7 @@ MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicat
 
 ### 3. Algorithms and Machine Learning
 
-Modern algotrading models employ machine learning techniques, including supervised and unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md), to study historical data and predict future price movements. These models can recognize patterns that are not evident to human traders.
+Modern algotrading models employ [machine learning](../m/machine_learning.md) techniques, including supervised and unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md), to study historical data and predict future price movements. These models can recognize patterns that are not evident to human traders.
 
 #### Support Vector Machines (SVMs)
 
@@ -72,4 +72,4 @@ Algotrading firms like Renaissance Technologies [Renaissance Technologies](https
 
 ### Conclusion
 
-Identifying [whipsaw patterns](../w/whipsaw_patterns.md) remains a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), requiring a combination of advanced statistical methods, machine learning techniques, and strategic [risk management](../r/risk_management.md) practices. By developing models that can effectively recognize and anticipate these volatile movements, traders can better navigate the complexities of modern markets. Leveraging both historic data analysis and real-time [market sentiment](../m/market_sentiment.md), along with [robust](../r/robust.md) algorithmic strategies, enhance the ability to manage and [capitalize](../c/capitalize.md) on [whipsaw patterns](../w/whipsaw_patterns.md).
+Identifying [whipsaw patterns](../w/whipsaw_patterns.md) remains a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), requiring a combination of advanced statistical methods, [machine learning](../m/machine_learning.md) techniques, and strategic [risk management](../r/risk_management.md) practices. By developing models that can effectively recognize and anticipate these volatile movements, traders can better navigate the complexities of modern markets. Leveraging both historic data analysis and real-time [market sentiment](../m/market_sentiment.md), along with [robust](../r/robust.md) algorithmic strategies, enhance the ability to manage and [capitalize](../c/capitalize.md) on [whipsaw patterns](../w/whipsaw_patterns.md).

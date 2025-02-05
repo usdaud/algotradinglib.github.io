@@ -134,7 +134,7 @@ These algorithms simulate extreme [market](../m/market.md) conditions to evaluat
 
 ### 4. **Machine Learning Models**
 
-Machine learning models analyze historical and real-time data to detect patterns and predict future [market](../m/market.md) movements. They can adapt to changing [market](../m/market.md) conditions and provide dynamic [risk](../r/risk.md) assessments.
+[Machine learning](../m/machine_learning.md) models analyze historical and real-time data to detect patterns and predict future [market](../m/market.md) movements. They can adapt to changing [market](../m/market.md) conditions and provide dynamic [risk](../r/risk.md) assessments.
 
 - **Example**: [Kensho Machine Learning](https://www.kensho.com/)
 

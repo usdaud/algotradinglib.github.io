@@ -34,7 +34,7 @@ where \( Y \) is the dependent variable, \( X_1, X_2, \ldots, X_k \) are the ind
     Understanding the partial relationships between various [market indicators](../m/market_indicators.md) and [asset](../a/asset.md) prices can be vital for [risk management](../r/risk_management.md). For example, isolating the effect of [interest](../i/interest.md) rates on a [bond](../b/bond.md)'s price while [accounting](../a/accounting.md) for other factors such as [inflation](../i/inflation.md) rates and [economic growth](../e/economic_growth.md) can help in better [risk](../r/risk.md) assessment and mitigation.
 
 3. **Model Enhancement**:
-    In [algorithmic trading](../a/algorithmic_trading.md) models, particularly those based on machine learning, partial regression can be used to refine models by identifying and adjusting for [multicollinearity](../m/multicollinearity_in_trading.md) among predictors. This leads to more [robust](../r/robust.md) and reliable [trading strategies](../t/trading_strategies.md).
+    In [algorithmic trading](../a/algorithmic_trading.md) models, particularly those based on [machine learning](../m/machine_learning.md), partial regression can be used to refine models by identifying and adjusting for [multicollinearity](../m/multicollinearity_in_trading.md) among predictors. This leads to more [robust](../r/robust.md) and reliable [trading strategies](../t/trading_strategies.md).
 
 ### Practical Implementation
 
@@ -103,7 +103,7 @@ In this example, we first regress the stock price on all predictors except the [
 
 Several companies in the [financial sector](../f/financial_sector.md) utilize advanced statistical techniques, including partial regression, for trading and [risk management](../r/risk_management.md). Some notable examples include:
 
-1. **Two Sigma**: A quantitative [hedge fund](../h/hedge_fund.md) that extensively uses statistical and machine learning methods in its [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com/)
+1. **Two Sigma**: A quantitative [hedge fund](../h/hedge_fund.md) that extensively uses statistical and [machine learning](../m/machine_learning.md) methods in its [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com/)
 
 2. **Renaissance Technologies**: Known for its quantitative methods in trading, this [firm](../f/firm.md) employs various statistical models to drive its investment strategies. [Renaissance Technologies](https://www.rentec.com/)
 

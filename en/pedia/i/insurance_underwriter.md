@@ -70,7 +70,7 @@ Cloud-based solutions [offer](../o/offer.md) [scalability](../s/scalability.md),
 ## Future Trends
 
 ### 1. Increased Use of AI and Machine Learning
-The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning in [underwriting](../u/underwriting.md) processes [will](../w/will.md) continue to grow. These technologies [will](../w/will.md) assist underwriters in making even more informed decisions by providing deeper insights.
+The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) in [underwriting](../u/underwriting.md) processes [will](../w/will.md) continue to grow. These technologies [will](../w/will.md) assist underwriters in making even more informed decisions by providing deeper insights.
 
 ### 2. Greater Emphasis on Cybersecurity Insurance
 With the rise in cyber threats, there [will](../w/will.md) be a growing need for cybersecurity [insurance](../i/insurance.md). Underwriters [will](../w/will.md) need specialized knowledge to assess the risks associated with cyber threats accurately.
@@ -91,11 +91,11 @@ Verisk Analytics provides [data analytics](../d/data_analytics.md) solutions, in
 [Verisk Analytics](https://www.verisk.com/)
 
 ### 2. IBM
-IBM offers various AI and machine learning solutions that help in [underwriting](../u/underwriting.md) processes. Their Watson platform is particularly renowned for its analytics capabilities.
+IBM offers various AI and [machine learning](../m/machine_learning.md) solutions that help in [underwriting](../u/underwriting.md) processes. Their Watson platform is particularly renowned for its analytics capabilities.
 [IBM Watson](https://www.ibm.com/watson/)
 
 ### 3. SAS
-SAS provides [data analytics](../d/data_analytics.md) software, including [underwriting](../u/underwriting.md) tools that use advanced statistical methods and machine learning.
+SAS provides [data analytics](../d/data_analytics.md) software, including [underwriting](../u/underwriting.md) tools that use advanced statistical methods and [machine learning](../m/machine_learning.md).
 [SAS](https://www.sas.com/)
 
 ### 4. Guidewire Software
@@ -103,7 +103,7 @@ Guidewire offers a comprehensive suite of software solutions designed for proper
 [Guidewire Software](https://www.guidewire.com/)
 
 ### 5. Zurich Insurance Group
-Although primarily an [insurance](../i/insurance.md) provider, Zurich has invested heavily in [underwriting](../u/underwriting.md) technologies, including [predictive analytics](../p/predictive_analytics.md) and machine learning.
+Although primarily an [insurance](../i/insurance.md) provider, Zurich has invested heavily in [underwriting](../u/underwriting.md) technologies, including [predictive analytics](../p/predictive_analytics.md) and [machine learning](../m/machine_learning.md).
 [Zurich Insurance Group](https://www.zurich.com/)
 
 ## Conclusion

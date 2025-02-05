@@ -66,7 +66,7 @@ Understanding changes in the APC can aid in [risk management](../r/risk_manageme
 
 ### WorldQuant
 
-[WorldQuant](https://www.worldquant.com/) is a quantitative investment [firm](../f/firm.md) that leverages statistical and machine learning techniques to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs a wide [range](../r/range.md) of macroeconomic indicators, including the APC, as part of its data-driven approach to [investing](../i/investing.md).
+[WorldQuant](https://www.worldquant.com/) is a quantitative investment [firm](../f/firm.md) that leverages statistical and [machine learning](../m/machine_learning.md) techniques to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs a wide [range](../r/range.md) of macroeconomic indicators, including the APC, as part of its data-driven approach to [investing](../i/investing.md).
 
 ## Conclusion
 

@@ -72,7 +72,7 @@ In [portfolio management](../p/portfolio_management.md), PCA can be used to deco
 
 ### Future Directions
 
-As [financial markets](../f/financial_market.md) continue to evolve, the role of spectral methods in [algorithmic trading](../a/algorithmic_trading.md) is likely to expand. With advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), hybrid models that combine [spectral analysis](../s/spectral_analysis.md) with [deep learning](../d/deep_learning.md) techniques are beginning to emerge, [offering](../o/offering.md) even more powerful tools for traders.
+As [financial markets](../f/financial_market.md) continue to evolve, the role of spectral methods in [algorithmic trading](../a/algorithmic_trading.md) is likely to expand. With advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), hybrid models that combine [spectral analysis](../s/spectral_analysis.md) with [deep learning](../d/deep_learning.md) techniques are beginning to emerge, [offering](../o/offering.md) even more powerful tools for traders.
 
 ## Conclusion
 

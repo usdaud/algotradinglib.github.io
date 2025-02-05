@@ -125,7 +125,7 @@ As markets continue to evolve with increasing data complexity, the role of PCA i
 For more information about the practical applications of PCA in trading, you can explore the following resources and tools used by quantitative analysts and data scientists.
 
 1. **PyCaret**:
-   PyCaret is an [open](../o/open.md)-source, low-code machine learning library in Python that automates machine learning workflows. PyCaret includes modules for performing PCA and other [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) techniques.[PyCaret](https://www.pycaret.org/)
+   PyCaret is an [open](../o/open.md)-source, low-code [machine learning](../m/machine_learning.md) library in Python that automates [machine learning](../m/machine_learning.md) workflows. PyCaret includes modules for performing PCA and other [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) techniques.[PyCaret](https://www.pycaret.org/)
    
 2. **[QuantConnect](../q/quantconnect.md)**:
    [QuantConnect](../q/quantconnect.md) provides a cloud-based platform for designing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform supports PCA and other statistical methods for developing [robust](../r/robust.md) [trading models](../t/trading_models.md). [QuantConnect](https://www.quantconnect.com/)

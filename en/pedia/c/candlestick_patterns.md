@@ -71,7 +71,7 @@ Even when patterns are identified correctly, the [market](../m/market.md) may no
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading or automated trading, leverages computer algorithms to execute trades at high speed and [volume](../v/volume.md) based on predefined criteria, including [candlestick](../c/candlestick.md) patterns.
 
 ### Machine Learning and AI
-Modern advancements in machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have enabled the creation of sophisticated models that can recognize complex patterns and predict [market](../m/market.md) movements with high accuracy.
+Modern advancements in [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have enabled the creation of sophisticated models that can recognize complex patterns and predict [market](../m/market.md) movements with high accuracy.
 
 ### Pattern Recognition Software
 Many trading platforms [offer](../o/offer.md) built-in [pattern recognition](../p/pattern_recognition.md) tools that automatically highlight [candlestick](../c/candlestick.md) patterns on charts:

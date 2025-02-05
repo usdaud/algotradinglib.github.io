@@ -62,7 +62,7 @@ Worldwide [Market](../m/market.md) Analysis is a comprehensive term that encompa
 
 1. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Leveraging large datasets and advanced analytical tools, [big data analytics](../b/big_data_analytics_in_trading.md) helps uncover hidden patterns and [market](../m/market.md) trends. It enhances predictive accuracy and decision-making.
 
-2. **Machine Learning**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) analyze vast amounts of data to identify patterns and make predictions. These self-improving algorithms adapt to new data, improving their predictive power over time.
+2. **[Machine Learning](../m/machine_learning.md)**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) analyze vast amounts of data to identify patterns and make predictions. These self-improving algorithms adapt to new data, improving their predictive power over time.
 
 3. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies**: The rise of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies has introduced new [asset](../a/asset.md) classes and trading opportunities. Analyzing these markets requires understanding [blockchain](../b/blockchain_in_trading.md) mechanics and [market sentiment](../m/market_sentiment.md).
 

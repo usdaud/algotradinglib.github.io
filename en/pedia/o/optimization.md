@@ -54,7 +54,7 @@ Financial institutions use optimization for budgeting, resource allocation, and 
 ## Common Optimization Techniques
 
 ### 1. Gradient Descent
-Gradient descent is a first-[order](../o/order.md) iterative optimization algorithm for finding the minimum of a function. It is widely used in machine learning and [financial modeling](../f/financial_modeling.md). The algorithm adjusts parameters by moving in the direction of the negative gradient of the objective function.
+Gradient descent is a first-[order](../o/order.md) iterative optimization algorithm for finding the minimum of a function. It is widely used in [machine learning](../m/machine_learning.md) and [financial modeling](../f/financial_modeling.md). The algorithm adjusts parameters by moving in the direction of the negative gradient of the objective function.
 
 ### 2. Genetic Algorithms
 [Genetic algorithms](../g/genetic_algorithms_in_trading.md) are search [heuristics](../h/heuristics.md) inspired by natural evolution. They are useful in exploring large, complex search spaces in [trading strategy](../t/trading_strategy.md) optimization, where traditional methods may fall short.

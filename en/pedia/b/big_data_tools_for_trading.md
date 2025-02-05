@@ -24,12 +24,12 @@ Apache Spark is another [open](../o/open.md)-source [big data](../b/big_data_in_
 - **Usage in Trading:**
   - **Real-time Analytics:** Spark’s in-memory computing capabilities enable the analysis of financial data in real-time.
   - **Back-testing:** Traders can [leverage](../l/leverage.md) Spark to perform back-testing of [trading strategies](../t/trading_strategies.md) using extensive historical data.
-  - **Machine Learning:** Integrates with MLlib to apply machine [learning algorithms](../l/learning_algorithms_in_trading.md) for predicting [market](../m/market.md) trends.
+  - **[Machine Learning](../m/machine_learning.md):** Integrates with MLlib to apply machine [learning algorithms](../l/learning_algorithms_in_trading.md) for predicting [market](../m/market.md) trends.
 
 - **Key Features:**
   - Speed: Processes data up to 100x faster than Hadoop MapReduce.
   - Versatility: Supports [multiple](../m/multiple.md) languages, including Java, Scala, Python, and R.
-  - Advanced Analytics: Provides libraries for machine learning, graph processing, and stream processing.
+  - Advanced Analytics: Provides libraries for [machine learning](../m/machine_learning.md), graph processing, and stream processing.
 
 Visit the [Apache Spark Website](https://spark.apache.org/) for more details.
 

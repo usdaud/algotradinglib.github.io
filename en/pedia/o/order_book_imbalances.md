@@ -51,7 +51,7 @@ To effectively analyze [order book](../o/order_book.md) imbalances, traders need
 
 ### High-Frequency Trading (HFT) Firms
 
-High-frequency trading firms, such as **Citadel Securities** (https://www.citadelsecurities.com/), utilize [order book](../o/order_book.md) imbalances as one of the many inputs in their [trading algorithms](../t/trading_algorithms.md). Although the precise methods and models used by these firms are proprietary, they often involve statistical analysis and machine learning techniques to maximize their predictive accuracy.
+High-frequency trading firms, such as **Citadel Securities** (https://www.citadelsecurities.com/), utilize [order book](../o/order_book.md) imbalances as one of the many inputs in their [trading algorithms](../t/trading_algorithms.md). Although the precise methods and models used by these firms are proprietary, they often involve statistical analysis and [machine learning](../m/machine_learning.md) techniques to maximize their predictive accuracy.
 
 ### Academic Research
 

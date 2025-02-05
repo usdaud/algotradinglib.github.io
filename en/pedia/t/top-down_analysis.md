@@ -60,10 +60,10 @@ Reliable and timely economic data is crucial. Common sources include:
 
 ### Developing Predictive Models
 
-Algorithms use statistical and machine learning models to analyze data. Techniques include:
+Algorithms use statistical and [machine learning](../m/machine_learning.md) models to analyze data. Techniques include:
 - **[Regression Analysis](../r/regression_analysis.md)**: Understanding relationships between [economic indicators](../e/economic_indicators.md) and [asset](../a/asset.md) prices.
 - **Time-Series Analysis**: Analyzing trends and cycles within economic data.
-- **Machine Learning**: Advanced models like [neural networks](../n/neural_networks_in_trading.md) can be used for [pattern recognition](../p/pattern_recognition.md) and predictions.
+- **[Machine Learning](../m/machine_learning.md)**: Advanced models like [neural networks](../n/neural_networks_in_trading.md) can be used for [pattern recognition](../p/pattern_recognition.md) and predictions.
 
 ### Backtesting
 

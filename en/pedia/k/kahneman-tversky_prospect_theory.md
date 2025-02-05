@@ -55,7 +55,7 @@ Wealthfront integrates behavioral insights to [offer](../o/offer.md) automated i
 ### Future Perspectives
 
 [Prospect Theory](../p/prospect_theory_in_trading.md)'s [incorporation](../i/incorporation.md) in [trading systems](../t/trading_systems.md) opens new horizons for research and application:
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML):** Utilize AI and ML to dynamically adapt [trading algorithms](../t/trading_algorithms.md) based on real-time behavioral data, enhancing model accuracy and predictive power.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML):** Utilize AI and ML to dynamically adapt [trading algorithms](../t/trading_algorithms.md) based on real-time behavioral data, enhancing model accuracy and predictive power.
 - **Quantitative [Behavioral Finance](../b/behavioral_finance.md):** Expand [quantitative models](../q/quantitative_models.md) integrating [Prospect Theory](../p/prospect_theory_in_trading.md) to simulate [market](../m/market.md) scenarios, thus refining [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) frameworks.
 - **Enhanced Personalization:** Tailor investment advice and [portfolio management](../p/portfolio_management.md) services more finely to individual [risk profiles](../r/risk_profiles.md), blending quantitative data with behavioral insights for optimal outcomes.
 

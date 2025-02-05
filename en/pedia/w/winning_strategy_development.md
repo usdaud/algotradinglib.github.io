@@ -33,11 +33,11 @@ Statistical [arbitrage](../a/arbitrage.md) involves complex [mathematical models
 
 ### 5. **Machine Learning and AI-Based Strategies**
 
-Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have made significant inroads into [algorithmic trading](../a/algorithmic_trading.md). ML algorithms use large datasets to uncover patterns and make predictions, while reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) can optimize [trading performance](../t/trading_performance.md) by learning from historical data. Key methods include:
+[Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have made significant inroads into [algorithmic trading](../a/algorithmic_trading.md). ML algorithms use large datasets to uncover patterns and make predictions, while reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) can optimize [trading performance](../t/trading_performance.md) by learning from historical data. Key methods include:
 
-- Supervised Learning
-- Unsupervised Learning
-- Reinforcement Learning
+- [Supervised Learning](../s/supervised_learning.md)
+- [Unsupervised Learning](../u/unsupervised_learning.md)
+- [Reinforcement Learning](../r/reinforcement_learning.md)
   
 Companies like Two Sigma [Two Sigma](https://www.twosigma.com/) and Renaissance Technologies [Renaissance](https://www.rentec.com/) are renowned for using advanced ML and AI techniques in their [trading strategies](../t/trading_strategies.md).
 
@@ -102,7 +102,7 @@ The choice of programming language can significantly impact the [efficiency](../
   
 ### 2. **Cloud Computing**
 
-Cloud services like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud provide scalable and cost-effective solutions for data storage, processing, and machine learning.
+Cloud services like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud provide scalable and cost-effective solutions for data storage, processing, and [machine learning](../m/machine_learning.md).
 
 ### 3. **Big Data Technologies**
 

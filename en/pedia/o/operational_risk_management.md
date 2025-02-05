@@ -54,7 +54,7 @@ Technology plays a vital role in operational [risk management](../r/risk_managem
 
 1. **[Risk Management](../r/risk_management.md) Software**: Using specialized [risk management](../r/risk_management.md) software to automate [risk](../r/risk.md) identification, assessment, and mitigation processes. Examples include [risk](../r/risk.md) analytics platforms and compliance management tools.
 
-2. **Machine Learning and AI**: Leveraging machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict and detect potential risks, analyze patterns, and optimize [trading strategies](../t/trading_strategies.md).
+2. **[Machine Learning](../m/machine_learning.md) and AI**: Leveraging [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict and detect potential risks, analyze patterns, and optimize [trading strategies](../t/trading_strategies.md).
 
 3. **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md) (DLT)**: Utilizing [blockchain](../b/blockchain_in_trading.md) and DLT for secure and transparent record-keeping, reducing the [risk](../r/risk.md) of data tampering and [fraud](../f/fraud.md).
 

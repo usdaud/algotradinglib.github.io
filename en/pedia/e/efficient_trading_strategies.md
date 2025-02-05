@@ -35,7 +35,7 @@ Efficient [trading strategies](../t/trading_strategies.md) are fundamental for t
 
 ### 5. **Machine Learning and AI-based Strategies**
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning are revolutionizing [trading strategies](../t/trading_strategies.md) by processing vast amounts of data and identifying patterns that humans may overlook. These models continuously learn and adapt, improving their predictive accuracy over time.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md) are revolutionizing [trading strategies](../t/trading_strategies.md) by processing vast amounts of data and identifying patterns that humans may overlook. These models continuously learn and adapt, improving their predictive accuracy over time.
 
 - **[Neural Networks](../n/neural_networks_in_trading.md):** These are used to predict price movements by learning from historical data and identifying complex patterns.
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP):** NLP analyzes news articles, [social media](../s/social_media.md) posts, and other text data to gauge [market sentiment](../m/market_sentiment.md) and predict price movements.
@@ -87,7 +87,7 @@ Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion [
 
 ### 2. **Two Sigma**
 
-Founded in 2001, Two Sigma uses machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to elucidate trading insights. The [firm](../f/firm.md) has successfully applied these technologies to manage billions in assets. [Two Sigma](https://www.twosigma.com)
+Founded in 2001, Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to elucidate trading insights. The [firm](../f/firm.md) has successfully applied these technologies to manage billions in assets. [Two Sigma](https://www.twosigma.com)
 
 ### 3. **D. E. Shaw Group**
 
@@ -95,4 +95,4 @@ D. E. Shaw Group is a global investment [firm](../f/firm.md) that employs a vari
 
 ## Conclusion
 
-Efficient [trading strategies](../t/trading_strategies.md) encompass a wide array of techniques ranging from simple [momentum](../m/momentum.md) strategies to complex machine learning models. While these strategies provide substantial opportunities for [profit](../p/profit.md), they also require rigorous [risk management](../r/risk_management.md) and continuous adaptation to changing [market dynamics](../m/market_dynamics.md). Utilizing advanced tools and platforms can aid traders in optimizing their strategies and achieving consistent returns.
+Efficient [trading strategies](../t/trading_strategies.md) encompass a wide array of techniques ranging from simple [momentum](../m/momentum.md) strategies to complex [machine learning](../m/machine_learning.md) models. While these strategies provide substantial opportunities for [profit](../p/profit.md), they also require rigorous [risk management](../r/risk_management.md) and continuous adaptation to changing [market dynamics](../m/market_dynamics.md). Utilizing advanced tools and platforms can aid traders in optimizing their strategies and achieving consistent returns.

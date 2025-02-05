@@ -30,7 +30,7 @@ The MD&A section gives insights into the management's perspective on the financi
 ## Application in Algorithmic Trading Strategies
 
 ### Earnings Surprises
-[Earnings surprises](../e/earnings_surprises.md) occur when the reported [earnings](../e/earnings.md) deviate significantly from analysts' estimates. [Algorithmic trading](../a/algorithmic_trading.md) models use historical data and machine learning techniques to predict [earnings surprises](../e/earnings_surprises.md) and execute trades based on the predicted [market](../m/market.md) reaction.
+[Earnings surprises](../e/earnings_surprises.md) occur when the reported [earnings](../e/earnings.md) deviate significantly from analysts' estimates. [Algorithmic trading](../a/algorithmic_trading.md) models use historical data and [machine learning](../m/machine_learning.md) techniques to predict [earnings surprises](../e/earnings_surprises.md) and execute trades based on the predicted [market](../m/market.md) reaction.
 
 ### Event-Driven Trading
 [Event-driven trading](../e/event-driven_trading.md) strategies focus on specific events, such as [earnings announcements](../e/earnings_announcements.md). Algorithms are programmed to scan for these events and initiate trades that [capitalize](../c/capitalize.md) on the price movements caused by the announcements.
@@ -49,7 +49,7 @@ For companies operating globally, algorithms must also consider International Fi
 ## Case Studies and Examples
 
 ### Kensho Technologies
-Kensho Technologies utilizes AI and machine learning to analyze financial data and quarterly reports, providing insights and [trading signals](../t/trading_signals.md).
+Kensho Technologies utilizes AI and [machine learning](../m/machine_learning.md) to analyze financial data and quarterly reports, providing insights and [trading signals](../t/trading_signals.md).
 [Learn more about Kensho](https://www.kensho.com)
 
 ### Thasos Group
@@ -58,4 +58,4 @@ Thasos Group leverages [alternative data](../a/alternative_data.md), such as [ge
 
 ## Conclusion
 
-Quarterly financial reports serve as a cornerstone for various [algorithmic trading](../a/algorithmic_trading.md) strategies. From [sentiment analysis](../s/sentiment_analysis.md) to [fundamental analysis](../f/fundamental_analysis.md), these reports [offer](../o/offer.md) a [wealth](../w/wealth.md) of data that algorithms can exploit to execute highly informed and timely trades. By leveraging cutting-edge AI and machine learning technologies, traders can enhance their ability to predict [market](../m/market.md) movements and make data-driven decisions.
+Quarterly financial reports serve as a cornerstone for various [algorithmic trading](../a/algorithmic_trading.md) strategies. From [sentiment analysis](../s/sentiment_analysis.md) to [fundamental analysis](../f/fundamental_analysis.md), these reports [offer](../o/offer.md) a [wealth](../w/wealth.md) of data that algorithms can exploit to execute highly informed and timely trades. By leveraging cutting-[edge AI](../e/edge_ai.md) and [machine learning](../m/machine_learning.md) technologies, traders can enhance their ability to predict [market](../m/market.md) movements and make data-driven decisions.

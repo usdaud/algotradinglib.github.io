@@ -90,7 +90,7 @@ Different countries may have different [accounting](../a/accounting.md) standard
 
 ### Technological Advancements
 
-Advances in technology, particularly in [data analytics](../d/data_analytics.md) and machine learning, could enhance the accuracy and timeliness of FOF data. Automated data collection and processing tools can streamline the compilation of these accounts.
+Advances in technology, particularly in [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md), could enhance the accuracy and timeliness of FOF data. Automated data collection and processing tools can streamline the compilation of these accounts.
 
 ### Greater Transparency
 

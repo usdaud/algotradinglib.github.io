@@ -48,7 +48,7 @@ Opportunities are external possibilities that can be leveraged for growth and [p
 
 ### Technological Advancements
 
-1. **AI and Machine Learning**: Implementing AI for [predictive analytics](../p/predictive_analytics.md) can enhance [trading strategies](../t/trading_strategies.md).
+1. **AI and [Machine Learning](../m/machine_learning.md)**: Implementing AI for [predictive analytics](../p/predictive_analytics.md) can enhance [trading strategies](../t/trading_strategies.md).
 2. **[Blockchain](../b/blockchain_in_trading.md) Technology**: [Offering](../o/offering.md) transparent and secure transactions can attract clients looking for reliability.
 
 ### Regulatory Changes

@@ -2,7 +2,7 @@
 
 ### Introduction
 
-In the world of [algorithmic trading](../a/algorithmic_trading.md), traders and financial institutions use various kinds of models to make trading decisions. These models can broadly be classified into three categories: Black Box Models, White Box Models, and Grey Box Models. While Black Box Models are those whose internal algorithms and processes are not transparent (often utilizing complex machine learning techniques), and White Box Models are fully transparent and explainable, Grey Box Models strike a balance between these two extremes by combining both data-driven (typically black box) and theoretical (typically white box) components. This detailed overview explores how Grey Box Models are utilized within [algorithmic trading](../a/algorithmic_trading.md), their advantages and disadvantages, and examples from the [industry](../i/industry.md).
+In the world of [algorithmic trading](../a/algorithmic_trading.md), traders and financial institutions use various kinds of models to make trading decisions. These models can broadly be classified into three categories: Black Box Models, White Box Models, and Grey Box Models. While Black Box Models are those whose internal algorithms and processes are not transparent (often utilizing complex [machine learning](../m/machine_learning.md) techniques), and White Box Models are fully transparent and explainable, Grey Box Models strike a balance between these two extremes by combining both data-driven (typically black box) and theoretical (typically white box) components. This detailed overview explores how Grey Box Models are utilized within [algorithmic trading](../a/algorithmic_trading.md), their advantages and disadvantages, and examples from the [industry](../i/industry.md).
 
 
 ### What are Grey Box Models?
@@ -30,7 +30,7 @@ In trading, managing [risk](../r/risk.md) is crucial. Grey Box Models help in pr
 
 #### Quantitative Trading Strategies
 
-Grey Box Models are also employed to develop [quantitative trading](../q/quantitative_trading.md) strategies. For instance, a Grey Box Model could blend a mean-reversion strategy (where prices are expected to revert to a mean [value](../v/value.md)) with machine learning models to identify optimal entry and exit points more accurately. 
+Grey Box Models are also employed to develop [quantitative trading](../q/quantitative_trading.md) strategies. For instance, a Grey Box Model could blend a mean-reversion strategy (where prices are expected to revert to a mean [value](../v/value.md)) with [machine learning](../m/machine_learning.md) models to identify optimal entry and exit points more accurately. 
 
 ### Advantages of Grey Box Models
 
@@ -38,7 +38,7 @@ Grey Box Models are also employed to develop [quantitative trading](../q/quantit
 
 2. **Improved Accuracy:** By combining different modeling techniques, Grey Box Models often result in better predictive accuracy than purely white or black box models.
 
-3. **Flexibility:** These models allow traders to incorporate domain knowledge through the transparent components while leveraging the data-driven nature of machine learning to optimize the predictions.
+3. **Flexibility:** These models allow traders to incorporate domain knowledge through the transparent components while leveraging the data-driven nature of [machine learning](../m/machine_learning.md) to optimize the predictions.
 
 4. **[Risk Management](../r/risk_management.md):** The interpretability of parts of the model aids in better [risk management](../r/risk_management.md) and helps in explaining model decisions to regulatory bodies, which is often a requirement in financial institutions.
 
@@ -47,7 +47,7 @@ Grey Box Models are also employed to develop [quantitative trading](../q/quantit
 
 1. **Complexity:** Grey Box Models can be more complex to develop and maintain compared to purely white or black box models. The combination of different methodologies requires a deeper level of expertise.
 
-2. **Computationally Intensive:** These models often need more computational resources due to the involvement of machine learning components, which can be resource-intensive.
+2. **Computationally Intensive:** These models often need more computational resources due to the involvement of [machine learning](../m/machine_learning.md) components, which can be resource-intensive.
 
 3. **Parameter Tuning:** Managing and tuning the parameters of both transparent and opaque parts of the model can be challenging and may require substantial [backtesting](../b/backtesting.md).
 
@@ -59,13 +59,13 @@ Grey Box Models are also employed to develop [quantitative trading](../q/quantit
 Several trading firms and financial institutions use Grey Box Models to enhance their [trading strategies](../t/trading_strategies.md). Here are some notable examples:
 
 1. **Two Sigma:**
-   [Two Sigma](https://www.twosigma.com/) is a prominent quantitative [hedge fund](../h/hedge_fund.md) that uses a combination of innovative [data science](../d/data_science_in_trading.md) and financial theory. While specific details about their models are proprietary, they are known to employ a mix of machine learning and traditional statistical techniques, suggesting the use of Grey Box Models.
+   [Two Sigma](https://www.twosigma.com/) is a prominent quantitative [hedge fund](../h/hedge_fund.md) that uses a combination of innovative [data science](../d/data_science_in_trading.md) and financial theory. While specific details about their models are proprietary, they are known to employ a mix of [machine learning](../m/machine_learning.md) and traditional statistical techniques, suggesting the use of Grey Box Models.
 
 2. **AQR [Capital](../c/capital.md) Management:**
    [AQR Capital Management](https://www.aqr.com/) is known for its sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md) that blend financial theory with advanced data-driven methods, making it another example of an institution likely using Grey Box Models.
 
 3. **Kensho Technologies:**
-   [Kensho Technologies](https://www.kensho.com/) provides analytics platforms for [financial markets](../f/financial_market.md) and is known for integrating machine learning models with established financial theories, aligning with the concept of Grey Box Models.
+   [Kensho Technologies](https://www.kensho.com/) provides analytics platforms for [financial markets](../f/financial_market.md) and is known for integrating [machine learning](../m/machine_learning.md) models with established financial theories, aligning with the concept of Grey Box Models.
 
 
 ### Building a Grey Box Model in Algorithmic Trading

@@ -83,7 +83,7 @@ The future of wire rooms [will](../w/will.md) likely be shaped by several emergi
 
 ### Artificial Intelligence and Machine Learning
 
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) have the potential to revolutionize wire room operations. These technologies can:
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) have the potential to revolutionize wire room operations. These technologies can:
 
 1. **Automate Complex Tasks**: Automating tasks such as [trade](../t/trade.md) validation, error detection, and [fraud](../f/fraud.md) prevention.
 2. **Enhance Decision Making**: Using [predictive analytics](../p/predictive_analytics.md) to inform [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md).

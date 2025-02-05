@@ -31,7 +31,7 @@ For algo-traders, integrating NOPAT into [trading algorithms](../t/trading_algor
 
 1. **Screening [Stocks](../s/stock.md)**: Algorithms can filter [stocks](../s/stock.md) by NOPAT growth rate, identifying firms with improving operational efficiencies.
 2. **[Financial Ratios](../f/financial_ratios.md)**: Combining NOPAT with other [financial ratios](../f/financial_ratios.md) (like EBIT margins or [Return](../r/return.md) on [Invested Capital](../i/invested_capital.md)) can provide a comprehensive view of a company's health.
-3. **Predictive Modelling**: Machine learning models can incorporate historical NOPAT data to predict future performance and price movements.
+3. **Predictive Modelling**: [Machine learning](../m/machine_learning.md) models can incorporate historical NOPAT data to predict future performance and price movements.
 
 ## Fintech Applications
 

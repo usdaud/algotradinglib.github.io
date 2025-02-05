@@ -1,6 +1,6 @@
 # Numeraire
 
-Numeraire (NMR) is a unique cryptocurrency created by Numerai, a [hedge fund](../h/hedge_fund.md) that uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning to make trading decisions. It acts as both a staking mechanism and an incentive structure for data scientists who contribute [predictive models](../p/predictive_models_in_trading.md) to Numerai’s platform. The term "numeraire" in [economics](../e/economics.md) refers to a [benchmark](../b/benchmark.md) or standard by which [value](../v/value.md) is measured. Numerai, the company, applies the concept in a new way to the field of [data science](../d/data_science_in_trading.md) and [finance](../f/finance.md).
+Numeraire (NMR) is a unique cryptocurrency created by Numerai, a [hedge fund](../h/hedge_fund.md) that uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) to make trading decisions. It acts as both a staking mechanism and an incentive structure for data scientists who contribute [predictive models](../p/predictive_models_in_trading.md) to Numerai’s platform. The term "numeraire" in [economics](../e/economics.md) refers to a [benchmark](../b/benchmark.md) or standard by which [value](../v/value.md) is measured. Numerai, the company, applies the concept in a new way to the field of [data science](../d/data_science_in_trading.md) and [finance](../f/finance.md).
 
 ## Overview of Numerai
 
@@ -32,7 +32,7 @@ As of the most recent updates, the maximum [supply](../s/supply.md) of NMR is ca
 
 Participation in Numerai's tournament involves several steps:
 1. **Data Download**: Data scientists download the anonymized datasets provided by Numerai. These datasets contain historical [stock market](../s/stock_market.md) data devoid of any proprietary information.
-2. **Model Development**: Participants develop [predictive models](../p/predictive_models_in_trading.md) based on the downloaded data using various machine learning techniques.
+2. **Model Development**: Participants develop [predictive models](../p/predictive_models_in_trading.md) based on the downloaded data using various [machine learning](../m/machine_learning.md) techniques.
 3. **Submission**: [Predictive models](../p/predictive_models_in_trading.md) are submitted to Numerai's platform.
 4. **Staking NMR**: To participate in the tournament, data scientists must stake a certain amount of NMR on their models.
 5. **Performance Evaluation**: Numerai evaluates the models based on their predictive accuracy over a period of time.
@@ -44,7 +44,7 @@ Numerai and its cryptocurrency, NMR, [offer](../o/offer.md) several advantages:
 - **Decentralized Wisdom**: By aggregating predictions from a diverse group of data scientists, Numerai aims to create a more accurate and resilient meta-model.
 - **Incentive Alignment**: The staking and reward mechanism aligns incentives, ensuring that participants are motivated to develop high-quality models.
 - **[Open](../o/open.md) Participation**: Data scientists from around the world can participate, democratizing access to [financial markets](../f/financial_market.md) and tapping into a global pool of talent.
-- **Innovative Approach**: Numerai's use of AI and machine learning in [finance](../f/finance.md) represents a forward-thinking approach to trading and investment.
+- **Innovative Approach**: Numerai's use of AI and [machine learning](../m/machine_learning.md) in [finance](../f/finance.md) represents a forward-thinking approach to trading and investment.
 
 ## Challenges and Limitations
 

@@ -65,7 +65,7 @@ Strict technical regulations in the electronics sector, particularly in consumer
 
 ### Predictive Modelling
 
-Algorithms can use machine learning models to predict the impacts of NTBs on [market dynamics](../m/market_dynamics.md). By analyzing historical data and incorporating real-time updates, traders can forecast price movements and adjust their strategies.
+Algorithms can use [machine learning](../m/machine_learning.md) models to predict the impacts of NTBs on [market dynamics](../m/market_dynamics.md). By analyzing historical data and incorporating real-time updates, traders can forecast price movements and adjust their strategies.
 
 ### Event-Driven Trading
 

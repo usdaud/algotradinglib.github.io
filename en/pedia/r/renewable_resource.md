@@ -60,7 +60,7 @@ Renewable energy investments can be accessed through various financial instrumen
 RECs represent proof that energy has been generated from renewable sources. They can be traded to meet regulatory requirements or voluntary green energy commitments.
 
 ## Role of Fintech and Algotrading
-Fintech innovations and [algorithmic trading](../a/accountability.md) play a crucial role in renewable energy markets. Advanced [data analytics](../d/data_analytics.md), machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are used to optimize [trading strategies](../t/trading_strategies.md), forecast energy production, and manage [risk](../r/risk.md).
+Fintech innovations and [algorithmic trading](../a/accountability.md) play a crucial role in renewable energy markets. Advanced [data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are used to optimize [trading strategies](../t/trading_strategies.md), forecast energy production, and manage [risk](../r/risk.md).
 
 ### Advanced Data Analytics
 [Data analytics](../d/data_analytics.md) tools process vast amounts of data from weather forecasts, energy production, and [market](../m/market.md) trends to inform trading decisions. [Predictive models](../p/predictive_models_in_trading.md) help in optimizing pricing and [trading strategies](../t/trading_strategies.md).

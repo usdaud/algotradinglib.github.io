@@ -30,7 +30,7 @@ In [financial markets](../f/financial_market.md), [noise](../n/noise.md) can be 
 
 - **Pre-Processing Data**: Before using data for [trading algorithms](../t/trading_algorithms.md), it's crucial to pre-process and clean it. This involves removing outliers, smoothing data, and applying filters.
 - **Feature Engineering**: Various statistical metrics and transformations can be applied to raw data to extract more meaningful features that highlight true signals.
-- **Machine Learning**: Advanced machine learning models, such as [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs) and [neural networks](../n/neural_networks_in_trading.md), can be trained to distinguish between [noise](../n/noise.md) and signal.
+- **[Machine Learning](../m/machine_learning.md)**: Advanced [machine learning](../m/machine_learning.md) models, such as [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs) and [neural networks](../n/neural_networks_in_trading.md), can be trained to distinguish between [noise](../n/noise.md) and signal.
 - **[Backtesting](../b/backtesting.md)**: A [robust](../r/robust.md) [backtesting](../b/backtesting.md) framework can help determine how well [noise](../n/noise.md)-filtering techniques work under different [market](../m/market.md) conditions by simulating [trading strategies](../t/trading_strategies.md) on historical data.
 
 ### Case Studies
@@ -38,7 +38,7 @@ In [financial markets](../f/financial_market.md), [noise](../n/noise.md) can be 
 Several companies specialize in [noise](../n/noise.md) measurement and [signal processing](../s/signal_processing_in_trading.md) for trading:
 
 1. **[Quandl](../q/quandl.md)**: Provides a marketplace for financial, economic, and [alternative data](../a/alternative_data.md), [offering](../o/offering.md) tools for [data normalization](../d/data_normalization.md) and [signal detection](../s/signal_detection_in_trading.md). [Website](https://www.quandl.com/)
-2. **Kensho Technologies**: Uses machine learning to analyze and interpret [market](../m/market.md) data, filtering out [noise](../n/noise.md) to provide accurate [market](../m/market.md) insights. [Website](https://www.kensho.com/)
+2. **Kensho Technologies**: Uses [machine learning](../m/machine_learning.md) to analyze and interpret [market](../m/market.md) data, filtering out [noise](../n/noise.md) to provide accurate [market](../m/market.md) insights. [Website](https://www.kensho.com/)
 3. **Numerai**: A [hedge fund](../h/hedge_fund.md) that crowdsources AI models to predict [market](../m/market.md) movements, where model submission and evaluation focus heavily on signal extraction quality. [Website](https://numer.ai/)
 
 ### Challenges in Noise Measurement
@@ -47,7 +47,7 @@ While [noise](../n/noise.md) measurement offers significant benefits, it also co
 
 - **[Overfitting](../o/overfitting.md)**: Creating models and filters so finely tuned to historical data that they perform poorly on new, unseen data.
 - **Data Snooping**: The [risk](../r/risk.md) of using data to develop hypotheses that are tested on the same data, leading to biased results.
-- **Computational Complexity**: Advanced techniques like machine learning require significant computational resources and expertise.
+- **Computational Complexity**: Advanced techniques like [machine learning](../m/machine_learning.md) require significant computational resources and expertise.
 
 ### Conclusion
 

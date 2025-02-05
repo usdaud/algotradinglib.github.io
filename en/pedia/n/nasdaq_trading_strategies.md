@@ -57,7 +57,7 @@ Automated algotrading utilizes computer algorithms to execute trades based on pr
 #### Tools and Algorithms for Algotrading
 
 - **High-Frequency Trading (HFT):** Involves executing a large number of orders at incredibly high speeds to [profit](../p/profit.md) from small price differentials.
-- **Machine Learning Models:** Algorithms that use historical data to predict future price movements.
+- **[Machine Learning](../m/machine_learning.md) Models:** Algorithms that use historical data to predict future price movements.
 - **Algorithmic Indicators:** Custom scripts and indicators programmed to identify trading opportunities based on specific criteria.
 
 ## Risks and Considerations

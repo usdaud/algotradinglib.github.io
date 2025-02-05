@@ -33,7 +33,7 @@ Zacks provides comprehensive research reports that include the Zacks Rank along 
 
 ## Research Methodologies
 
-The core of Zacks’ research methodologies lies in its data-driven, quantitative approach to [financial analysis](../f/financial_analysis.md). The [firm](../f/firm.md) leverages advanced statistical techniques, machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) to interpret and predict stock performance. Below are some of the core methodologies employed by Zacks Investment Research:
+The core of Zacks’ research methodologies lies in its data-driven, quantitative approach to [financial analysis](../f/financial_analysis.md). The [firm](../f/firm.md) leverages advanced statistical techniques, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) to interpret and predict stock performance. Below are some of the core methodologies employed by Zacks Investment Research:
 
 ### Earnings Estimate Revisions 
 
@@ -77,7 +77,7 @@ Recognizing the importance of [investor](../i/investor.md) education, Zacks Inve
 
 ## Technology and Innovation
 
-Zacks Investment Research stays at the forefront of technological innovations by integrating the latest advancements in machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), and [big data](../b/big_data_in_trading.md) into its research methodologies.
+Zacks Investment Research stays at the forefront of technological innovations by integrating the latest advancements in [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), and [big data](../b/big_data_in_trading.md) into its research methodologies.
 
 ### Machine Learning Algorithms
 
@@ -95,6 +95,6 @@ AI techniques are increasingly used to refine Zacks' models and [predictive anal
 
 Zacks Investment Research has established itself as a leader in the financial research [industry](../i/industry.md) through its proprietary ranking systems, data-driven methodologies, and innovative technology integration. Founded by Leonard Zacks in 1978, the [firm](../f/firm.md) has a long history of providing valuable insights to both institutional and individual investors. Services like Zacks [Premium](../p/premium.md), Zacks Ultimate, and Zacks Advisor Tools empower investors with the tools and information needed to make informed decisions.
 
-The company’s emphasis on [earnings](../e/earnings.md) estimate revisions, [earnings surprises](../e/earnings_surprises.md), and [fundamental analysis](../f/fundamental_analysis.md) forms the foundation of its research methodologies. Additionally, Zacks' commitment to leveraging machine learning, [big data](../b/big_data_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) ensures that it remains at the cutting edge of [financial analysis](../f/financial_analysis.md).
+The company’s emphasis on [earnings](../e/earnings.md) estimate revisions, [earnings surprises](../e/earnings_surprises.md), and [fundamental analysis](../f/fundamental_analysis.md) forms the foundation of its research methodologies. Additionally, Zacks' commitment to leveraging [machine learning](../m/machine_learning.md), [big data](../b/big_data_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) ensures that it remains at the cutting edge of [financial analysis](../f/financial_analysis.md).
 
 For more information, visit [Zacks Investment Research](https://www.zacks.com/).

@@ -66,7 +66,7 @@ Effective [inventory management](../i/inventory_management.md) is crucial for a 
 ### Future Trends in Point of Purchase
 
 #### Personalization
-Personalization is set to play a significant role in the future of POP. Retailers can [leverage](../l/leverage.md) [data analytics](../d/data_analytics.md) and machine learning to tailor the POP experience to individual customers. Personalized recommendations, customized promotions, and targeted [marketing](../m/marketing.md) efforts can enhance the [customer](../c/customer.md) experience and drive sales.
+Personalization is set to play a significant role in the future of POP. Retailers can [leverage](../l/leverage.md) [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) to tailor the POP experience to individual customers. Personalized recommendations, customized promotions, and targeted [marketing](../m/marketing.md) efforts can enhance the [customer](../c/customer.md) experience and drive sales.
 
 #### Omnichannel Integration
 The integration of online and offline channels, known as omnichannel retailing, is becoming increasingly important. Customers expect a seamless experience across all touchpoints, whether they are shopping online or in-store. Retailers need to ensure that their POP strategies are aligned with their overall omnichannel approach, providing a consistent and cohesive [customer](../c/customer.md) experience.

@@ -60,7 +60,7 @@ Having a [robust](../r/robust.md) technology [infrastructure](../i/infrastructur
 Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to minimize [trading costs](../t/trading_costs.md). The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is renowned for its ability to generate high returns while controlling [trading costs](../t/trading_costs.md) effectively. More information can be found on their [official website](https://www.rentech.com/).
 
 #### 1.2 Two Sigma
-Two Sigma, another leading quant [firm](../f/firm.md), leverages [data science](../d/data_science_in_trading.md) and machine learning to optimize [trading strategies](../t/trading_strategies.md). By focusing on minimizing [trading costs](../t/trading_costs.md) and maximizing [efficiency](../e/efficiency.md), Two Sigma has maintained a competitive edge in the [market](../m/market.md). Visit their [official site](https://www.twosigma.com/) for more details.
+Two Sigma, another leading quant [firm](../f/firm.md), leverages [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md) to optimize [trading strategies](../t/trading_strategies.md). By focusing on minimizing [trading costs](../t/trading_costs.md) and maximizing [efficiency](../e/efficiency.md), Two Sigma has maintained a competitive edge in the [market](../m/market.md). Visit their [official site](https://www.twosigma.com/) for more details.
 
 ### 2. Real-World Applications
 

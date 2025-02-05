@@ -77,7 +77,7 @@ Incorporating these adjustments increases the complexity of [trading algorithms]
 ### Future Trends
 
 #### Advanced Machine Learning Techniques
-Machine learning models are increasingly used to identify and adjust for [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md) in real-time. These models can learn from vast datasets and dynamically adjust [trading strategies](../t/trading_strategies.md), [offering](../o/offering.md) a cutting-edge advantage in the [algorithmic trading](../a/algorithmic_trading.md) landscape.
+[Machine learning](../m/machine_learning.md) models are increasingly used to identify and adjust for [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md) in real-time. These models can learn from vast datasets and dynamically adjust [trading strategies](../t/trading_strategies.md), [offering](../o/offering.md) a cutting-edge advantage in the [algorithmic trading](../a/algorithmic_trading.md) landscape.
 
 #### Increased Regulatory Scrutiny
 As the [financial markets](../f/financial_market.md) evolve and more sophisticated [trading strategies](../t/trading_strategies.md) emerge, regulatory bodies are likely to scrutinize the use of complex statistical adjustments, including [kurtosis](../k/kurtosis.md) and [skewness](../s/skewness.md). Ensuring compliance while leveraging these techniques [will](../w/will.md) be a key challenge and opportunity.

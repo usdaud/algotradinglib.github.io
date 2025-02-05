@@ -66,7 +66,7 @@ Algorithms can be designed to [capitalize](../c/capitalize.md) on existing trend
 This involves the use of advanced statistical models to find and exploit price inefficiencies between correlated assets. In [weighted](../w/weighted.md) [index](../i/index_instrument.md) funds, it would involve trading based on predicted temporary mispricings in the [fund](../f/fund.md) relative to its [underlying](../u/underlying.md) components.
 
 ### Machine Learning
-With advances in machine learning, algorithms can now predict [market](../m/market.md) movements based on large datasets, including historical price data, trading volumes, and perhaps even news sentiments. For [weighted](../w/weighted.md) [index](../i/index_instrument.md) funds, these models can predict future price movements and adjust positions accordingly.
+With advances in [machine learning](../m/machine_learning.md), algorithms can now predict [market](../m/market.md) movements based on large datasets, including historical price data, trading volumes, and perhaps even news sentiments. For [weighted](../w/weighted.md) [index](../i/index_instrument.md) funds, these models can predict future price movements and adjust positions accordingly.
 
 ## prominent companies offering such funds and strategies
 
@@ -84,4 +84,4 @@ WisdomTree offers ETF products that include fundamentally-[weighted](../w/weight
 
 ## Conclusion
 
-[Weighted](../w/weighted.md) [index](../i/index_instrument.md) funds [offer](../o/offer.md) a [range](../r/range.md) of strategies to investors, each with its benefits and drawbacks. When coupled with [algorithmic trading](../a/algorithmic_trading.md), these investment vehicles can become potent tools for both retail and institutional investors. The advent of technology and machine learning continues to evolve the landscape, presenting new opportunities and challenges in the realm of [weighted](../w/weighted.md) [index](../i/index_instrument.md) funds.
+[Weighted](../w/weighted.md) [index](../i/index_instrument.md) funds [offer](../o/offer.md) a [range](../r/range.md) of strategies to investors, each with its benefits and drawbacks. When coupled with [algorithmic trading](../a/algorithmic_trading.md), these investment vehicles can become potent tools for both retail and institutional investors. The advent of technology and [machine learning](../m/machine_learning.md) continues to evolve the landscape, presenting new opportunities and challenges in the realm of [weighted](../w/weighted.md) [index](../i/index_instrument.md) funds.

@@ -92,7 +92,7 @@ Several investment firms and [hedge](../h/hedge.md) funds have successfully impl
 
 The field of Quantitative [Momentum](../m/momentum.md) is continuously evolving with advancements in technology and [data analytics](../d/data_analytics.md). Emerging trends include:
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning**: Integrating AI and machine learning to enhance model accuracy and adaptability.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md)**: Integrating AI and [machine learning](../m/machine_learning.md) to enhance model accuracy and adaptability.
   
 - **[Alternative Data](../a/alternative_data.md)**: Leveraging [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md) and [economic indicators](../e/economic_indicators.md), to refine [momentum](../m/momentum.md) models.
 

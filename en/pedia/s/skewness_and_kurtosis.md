@@ -114,7 +114,7 @@ Continuous monitoring of [skewness](../s/skewness.md) and [kurtosis](../k/kurtos
 
 ### Machine Learning and AI
 
-[Skewness](../s/skewness.md) and [kurtosis](../k/kurtosis.md) are also significant in feature engineering for machine learning models in trading. Algorithms such as [random forests](../r/random_forests_in_trading.md), gradient boosting, and [neural networks](../n/neural_networks_in_trading.md) can incorporate these features to improve predictive accuracy.
+[Skewness](../s/skewness.md) and [kurtosis](../k/kurtosis.md) are also significant in feature engineering for [machine learning](../m/machine_learning.md) models in trading. Algorithms such as [random forests](../r/random_forests_in_trading.md), gradient boosting, and [neural networks](../n/neural_networks_in_trading.md) can incorporate these features to improve predictive accuracy.
 
 ## Conclusion
 

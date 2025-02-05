@@ -34,7 +34,7 @@ Automating repetitive and time-consuming tasks within the trading workflow can s
 High-frequency trading firms often pioneer in extracting Operational [Alpha](../a/alpha.md) by leveraging low-latency technologies, co-located servers, and algorithms capable of executing millions of trades in fractions of a second.
 
 ### Machine Learning and AI
-The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) into [trading systems](../t/trading_systems.md) can lead to improved [predictive models](../p/predictive_models_in_trading.md), [anomaly detection](../a/anomaly_detection.md), and decision-making processes, thereby enhancing Operational [Alpha](../a/alpha.md).
+The integration of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) into [trading systems](../t/trading_systems.md) can lead to improved [predictive models](../p/predictive_models_in_trading.md), [anomaly detection](../a/anomaly_detection.md), and decision-making processes, thereby enhancing Operational [Alpha](../a/alpha.md).
 
 ### Real-Time Monitoring and Analytics
 Real-time monitoring tools and analytics platforms help in tracking performance, identifying inefficiencies, and making data-driven adjustments to [trading strategies](../t/trading_strategies.md) promptly.

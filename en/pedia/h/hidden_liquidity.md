@@ -83,7 +83,7 @@ The landscape of hidden [liquidity](../l/liquidity.md) is continually evolving, 
 
 ### 1. **Artificial Intelligence and Machine Learning**
 
-AI and machine learning technologies are increasingly being integrated into [trading algorithms](../t/trading_algorithms.md) to better detect and interact with hidden [liquidity](../l/liquidity.md). These technologies can analyze vast datasets to uncover patterns and optimize [execution](../e/execution.md) strategies.
+AI and [machine learning](../m/machine_learning.md) technologies are increasingly being integrated into [trading algorithms](../t/trading_algorithms.md) to better detect and interact with hidden [liquidity](../l/liquidity.md). These technologies can analyze vast datasets to uncover patterns and optimize [execution](../e/execution.md) strategies.
 
 ### 2. **Regulatory Changes**
 

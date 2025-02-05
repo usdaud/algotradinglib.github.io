@@ -60,7 +60,7 @@ Regular training and drills for the incident response team ensure that they are 
 Cloud-based solutions [offer](../o/offer.md) [scalability](../s/scalability.md) and redundancy, making them a popular choice for backup and disaster recovery. Major cloud providers like AWS (Amazon Web Services), Microsoft Azure, and Google Cloud [offer](../o/offer.md) services tailored for financial trading.
 
 ### AI and Machine Learning
-AI and machine learning can be used for [predictive analytics](../p/predictive_analytics.md) to foresee potential disruptions and automate contingency responses. These technologies can analyze vast amounts of data to identify patterns and trends that human analysts might miss.
+AI and [machine learning](../m/machine_learning.md) can be used for [predictive analytics](../p/predictive_analytics.md) to foresee potential disruptions and automate contingency responses. These technologies can analyze vast amounts of data to identify patterns and trends that human analysts might miss.
 
 ### Blockchain
 [Blockchain](../b/blockchain_in_trading.md) technology can enhance the [security](../s/security.md) and [transparency](../t/transparency.md) of trading activities. It can provide an immutable record of all transactions, reducing the [risk](../r/risk.md) of [fraud](../f/fraud.md) and improving [trust](../t/trust.md) in the trading system.

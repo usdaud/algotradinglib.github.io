@@ -64,7 +64,7 @@ The [Ichimoku Cloud](../i/ichimoku_cloud.md), or Ichimoku Kinko Hyo, is a compre
 Statistical techniques used in [trend](../t/trend.md) models rely heavily on the analysis of past price data. Common techniques include [time series analysis](../t/time_series_analysis.md), regression models, and [hypothesis testing](../h/hypothesis_testing.md).
 
 ### Machine Learning
-Machine learning techniques [leverage](../l/leverage.md) algorithms that can learn from and make predictions on data. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are employed to identify and exploit [market](../m/market.md) trends.
+[Machine learning](../m/machine_learning.md) techniques [leverage](../l/leverage.md) algorithms that can learn from and make predictions on data. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are employed to identify and exploit [market](../m/market.md) trends.
 
 ### Signal Processing
 [Signal processing](../s/signal_processing_in_trading.md) methods such as Fourier Transform, wavelet transforms, and filtering techniques are used to analyze and filter [noise](../n/noise.md) from the [market](../m/market.md) data to identify [underlying](../u/underlying.md) trends.
@@ -112,10 +112,10 @@ Renaissance Technologies is a prominent example of a [hedge fund](../h/hedge_fun
 D. E. Shaw & Co. is another leading [hedge fund](../h/hedge_fund.md) known for its [quantitative trading](../q/quantitative_trading.md) strategies. They employ advanced [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques to identify [market](../m/market.md) trends and opportunities. [Link to D. E. Shaw & Co.](https://www.deshaw.com/)
 
 ### Two Sigma Investments
-Two Sigma Investments leverages machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to build models that identify subtle [market](../m/market.md) inefficiencies and trends. [Link to Two Sigma Investments](https://www.twosigma.com/)
+Two Sigma Investments leverages [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to build models that identify subtle [market](../m/market.md) inefficiencies and trends. [Link to Two Sigma Investments](https://www.twosigma.com/)
 
 ### AQR Capital Management
 AQR [Capital](../c/capital.md) Management blends quantitative and investment research to develop models for [trend](../t/trend.md)-following, [risk parity](../r/risk_parity.md), and other strategies to deliver consistent returns. [Link to AQR Capital Management](https://www.aqr.com/)
 
 ## Conclusion
-Quantitative [trend](../t/trend.md) models are an essential part of the [algorithmic trading](../a/algorithmic_trading.md) landscape. They [offer](../o/offer.md) sophisticated tools for analyzing [market](../m/market.md) behavior and making informed trading decisions. By leveraging diverse techniques, including statistical methods, machine learning, and [signal processing](../s/signal_processing_in_trading.md), traders can effectively capture and exploit [market](../m/market.md) trends. As the [financial markets](../f/financial_market.md) continue to evolve, the role of quantitative [trend](../t/trend.md) models in ensuring competitive trading edge remains invaluable.
+Quantitative [trend](../t/trend.md) models are an essential part of the [algorithmic trading](../a/algorithmic_trading.md) landscape. They [offer](../o/offer.md) sophisticated tools for analyzing [market](../m/market.md) behavior and making informed trading decisions. By leveraging diverse techniques, including statistical methods, [machine learning](../m/machine_learning.md), and [signal processing](../s/signal_processing_in_trading.md), traders can effectively capture and exploit [market](../m/market.md) trends. As the [financial markets](../f/financial_market.md) continue to evolve, the role of quantitative [trend](../t/trend.md) models in ensuring competitive trading edge remains invaluable.

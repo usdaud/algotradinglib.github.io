@@ -63,7 +63,7 @@ Similar to double tops and bottoms but involve three peaks or troughs at roughly
 
 ## Applying Chart Patterns in Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), the recognition and interpretation of these patterns can be automated using various algorithms and machine learning techniques. Here are several ways to incorporate chart patterns in [algorithmic trading](../a/algorithmic_trading.md):
+In [algorithmic trading](../a/algorithmic_trading.md), the recognition and interpretation of these patterns can be automated using various algorithms and [machine learning](../m/machine_learning.md) techniques. Here are several ways to incorporate chart patterns in [algorithmic trading](../a/algorithmic_trading.md):
 
 ### Pattern Recognition Algorithms
 
@@ -71,11 +71,11 @@ Algorithms can be designed to recognize specific chart patterns by analyzing pri
 
 ### Machine Learning and AI
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can significantly enhance [pattern recognition](../p/pattern_recognition.md) in [algorithmic trading](../a/algorithmic_trading.md):
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can significantly enhance [pattern recognition](../p/pattern_recognition.md) in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **Supervised Learning:** Algorithms can be trained on historical data to learn specific chart patterns and their subsequent price movements. Models like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) are often used.
+- **[Supervised Learning](../s/supervised_learning.md):** Algorithms can be trained on historical data to learn specific chart patterns and their subsequent price movements. Models like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) are often used.
   
-- **Unsupervised Learning:** Clustering techniques like K-means or Hierarchical Clustering can group similar patterns together without predefined labels, potentially discovering new patterns.
+- **[Unsupervised Learning](../u/unsupervised_learning.md):** Clustering techniques like K-means or Hierarchical Clustering can group similar patterns together without predefined labels, potentially discovering new patterns.
 
 ### Backtesting
 
@@ -97,5 +97,5 @@ Several companies and platforms specialize in providing [algorithmic trading](..
 
 ## Conclusion
 
-Chart patterns are an indispensable part of [technical analysis](../t/technical_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md). By recognizing and understanding these patterns, traders can make informed predictions about future price movements. The integration of advanced algorithms and machine learning techniques has further enhanced the ability to identify and [leverage](../l/leverage.md) these patterns, making them an essential tool in the arsenal of any algorithmic [trader](../t/trader.md).
+Chart patterns are an indispensable part of [technical analysis](../t/technical_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md). By recognizing and understanding these patterns, traders can make informed predictions about future price movements. The integration of advanced algorithms and [machine learning](../m/machine_learning.md) techniques has further enhanced the ability to identify and [leverage](../l/leverage.md) these patterns, making them an essential tool in the arsenal of any algorithmic [trader](../t/trader.md).
 

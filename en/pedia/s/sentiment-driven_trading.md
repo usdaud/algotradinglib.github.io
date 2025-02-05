@@ -24,7 +24,7 @@ Several data sources are used in sentiment-driven trading:
 Various techniques are employed to analyze sentiment from textual data:
 
 1. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: NLP techniques are used to process and understand human language. Sentiment classification, entity recognition, and topic modeling are some NLP methods applied in [sentiment analysis](../s/sentiment_analysis.md).
-2. **Machine Learning**: Algorithms like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) are trained on datasets to classify sentiments as positive, negative, or [neutral](../n/neutral.md).
+2. **[Machine Learning](../m/machine_learning.md)**: Algorithms like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) are trained on datasets to classify sentiments as positive, negative, or [neutral](../n/neutral.md).
 3. **Text [Mining](../m/mining.md)**: Text [mining](../m/mining.md) involves extracting meaningful information from text. It includes tasks like tokenization, parsing, and feature extraction, which help in identifying [sentiment indicators](../s/sentiment_indicators.md) from large datasets.
 4. **Lexicon-Based Approaches**: Predefined lists of positive and negative words (lexicons) are used to score the sentiment of text. Though simple, this method provides a quick way to gauge sentiment.
 
@@ -43,7 +43,7 @@ Despite its advantages, sentiment-driven trading faces several challenges:
 1. **Data Quality**: The accuracy of [sentiment analysis](../s/sentiment_analysis.md) depends on the quality of data. Noisy or unstructured data can lead to incorrect sentiment classification.
 2. **Real-Time Processing**: [Sentiment analysis](../s/sentiment_analysis.md) requires real-time data processing to be effective in fast-moving markets, which demands significant computational resources.
 3. **[Market](../m/market.md) [Noise](../n/noise.md)**: Markets are often influenced by random or irrelevant factors ([noise](../n/noise.md)), which can obscure true sentiment signals.
-4. **[Overfitting](../o/overfitting.md)**: Machine learning models used for [sentiment analysis](../s/sentiment_analysis.md) can overfit to historical data, reducing their effectiveness in out-of-sample predictions.
+4. **[Overfitting](../o/overfitting.md)**: [Machine learning](../m/machine_learning.md) models used for [sentiment analysis](../s/sentiment_analysis.md) can overfit to historical data, reducing their effectiveness in out-of-sample predictions.
 5. **Regulation and Compliance**: Traders must ensure that their [sentiment analysis](../s/sentiment_analysis.md) methods comply with financial regulations and do not lead to [market manipulation](../m/market_manipulation.md).
 
 ### Companies and Platforms Specializing in Sentiment Analysis
@@ -69,9 +69,9 @@ A study conducted by researchers at the University of California, Riverside, exa
 
 ### Future Trends in Sentiment-Driven Trading
 
-The field of sentiment-driven trading is expected to evolve with advancements in AI, machine learning, and [big data](../b/big_data_in_trading.md) technologies:
+The field of sentiment-driven trading is expected to evolve with advancements in AI, [machine learning](../m/machine_learning.md), and [big data](../b/big_data_in_trading.md) technologies:
 
-1. **Enhanced NLP Models**: The development of more sophisticated NLP models, such as transformers and BERT, [will](../w/will.md) improve the accuracy of [sentiment analysis](../s/sentiment_analysis.md).
+1. **Enhanced NLP Models**: The development of more sophisticated NLP models, such as [transformers](../t/transformers.md) and BERT, [will](../w/will.md) improve the accuracy of [sentiment analysis](../s/sentiment_analysis.md).
 2. **Integration with Other Data Sources**: Combining sentiment data with traditional financial metrics and [alternative data](../a/alternative_data.md) sources (e.g., satellite imagery, [credit card](../c/credit_card.md) transactions) [will](../w/will.md) provide a more holistic view of [market dynamics](../m/market_dynamics.md).
 3. **[RegTech](../r/regtech.md) Solutions**: Regulatory technology ([RegTech](../r/regtech.md)) [will](../w/will.md) help ensure that sentiment-driven trading complies with financial regulations, reducing the [risk](../r/risk.md) of legal issues.
 4. **Decentralized Sentiment Platforms**: [Blockchain](../b/blockchain_in_trading.md) technology could enable decentralized platforms where users contribute sentiment data transparently and securely.

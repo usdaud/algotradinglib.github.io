@@ -4,7 +4,7 @@
 
 #### Importance of Neural Networks in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) encompasses the use of computer programs to execute [trading strategies](../t/trading_strategies.md) based on pre-defined criteria, often at speeds and frequencies impossible for human traders. [Neural networks](../n/neural_networks_in_trading.md), a subset of machine learning models, are used to recognize intricate patterns within large datasets. Their key strengths in [algorithmic trading](../a/algorithmic_trading.md) include:
+[Algorithmic trading](../a/algorithmic_trading.md) encompasses the use of computer programs to execute [trading strategies](../t/trading_strategies.md) based on pre-defined criteria, often at speeds and frequencies impossible for human traders. [Neural networks](../n/neural_networks_in_trading.md), a subset of [machine learning](../m/machine_learning.md) models, are used to recognize intricate patterns within large datasets. Their key strengths in [algorithmic trading](../a/algorithmic_trading.md) include:
 
 - **[Pattern Recognition](../p/pattern_recognition.md):** [Neural networks](../n/neural_networks_in_trading.md) can detect nonlinear relationships in [financial markets](../f/financial_market.md), which traditional statistical models might miss.
 - **Adaptability:** They can adapt to new data and changing [market](../m/market.md) conditions through ongoing training.
@@ -59,7 +59,7 @@ Consider implementing an LSTM network for predicting stock prices. The key steps
 Several companies and platforms specialize in leveraging neural network [optimization](../o/optimization.md) for trading:
 
 - **Numerai:** A [hedge fund](../h/hedge_fund.md) that crowdsources algorithms from a global community of data scientists. More information can be found on their [website](https://numer.ai).
-- **Kensho Technologies:** Known for their [predictive analytics](../p/predictive_analytics.md) capabilities, Kensho utilizes machine learning models, including [neural networks](../n/neural_networks_in_trading.md), for [financial analysis](../f/financial_analysis.md). Visit their [website](https://www.kensho.com) for more details.
+- **Kensho Technologies:** Known for their [predictive analytics](../p/predictive_analytics.md) capabilities, Kensho utilizes [machine learning](../m/machine_learning.md) models, including [neural networks](../n/neural_networks_in_trading.md), for [financial analysis](../f/financial_analysis.md). Visit their [website](https://www.kensho.com) for more details.
 
 #### Conclusion
 

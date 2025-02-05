@@ -48,7 +48,7 @@ Modern technology plays a crucial role in [execution](../e/execution.md) quality
 
 - **Algo Trading Platforms**: Advanced [algorithmic trading](../a/algorithmic_trading.md) platforms provide built-in analytics for monitoring and evaluating [execution](../e/execution.md) quality.
 - **Analytics Software**: Specialized software such as [Bloomberg](../b/bloomberg.md) [Transaction Cost Analysis](../t/transaction_cost_analysis.md) (BTCA) (https://www.[bloomberg](../b/bloomberg.md).com/professional/product/[transaction](../t/transaction.md)-cost-analysis/) and Abel Noser Solutions (https://www.abelnoser.com/) [offer](../o/offer.md) comprehensive TCA solutions.
-- **Machine Learning**: Utilizing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict [market](../m/market.md) movements, optimize [trade](../t/trade.md) [execution](../e/execution.md), and reduce [slippage](../s/slippage.md) and [market](../m/market.md) impact.
+- **[Machine Learning](../m/machine_learning.md)**: Utilizing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict [market](../m/market.md) movements, optimize [trade](../t/trade.md) [execution](../e/execution.md), and reduce [slippage](../s/slippage.md) and [market](../m/market.md) impact.
 - **[Data Analytics](../d/data_analytics.md)**: [Big data analytics](../b/big_data_analytics_in_trading.md) help in analyzing large volumes of [trade](../t/trade.md) data to identify patterns, trends, and anomalies that can impact [execution](../e/execution.md) quality.
 
 ## 6. Best Practices
@@ -74,7 +74,7 @@ Despite the benefits, [execution](../e/execution.md) quality analysis faces seve
 
 The landscape of [execution](../e/execution.md) quality analysis is continuously evolving, with several emerging trends:
 
-- **AI and Machine Learning**: Increasing adoption of AI and machine learning to enhance [predictive analytics](../p/predictive_analytics.md) and optimize [trade](../t/trade.md) executions.
+- **AI and [Machine Learning](../m/machine_learning.md)**: Increasing adoption of AI and [machine learning](../m/machine_learning.md) to enhance [predictive analytics](../p/predictive_analytics.md) and optimize [trade](../t/trade.md) executions.
 - **[Blockchain](../b/blockchain_in_trading.md)**: Potential use of [blockchain](../b/blockchain_in_trading.md) technology for transparent and efficient [trade](../t/trade.md) settlement processes.
 - **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Leveraging cloud-based platforms for scalable and cost-effective [execution](../e/execution.md) quality analysis.
 - **Enhanced Regulation**: Tighter regulations and increased scrutiny on [execution](../e/execution.md) practices to ensure [investor](../i/investor.md) protection and [market](../m/market.md) integrity.

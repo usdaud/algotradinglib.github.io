@@ -101,7 +101,7 @@ The use of [blockchain](../b/blockchain_in_trading.md) technology and [smart con
 
 ### Algorithmic Loan Management
 
-Algorithmic [loan](../l/loan.md) management employs AI and machine learning to optimize repayment schedules. These algorithms can analyze a borrower's financial behavior and predict potential repayment issues, allowing financial institutions to intervene proactively. This reduces [default](../d/default.md) rates and improves overall [financial health](../f/financial_health.md).
+Algorithmic [loan](../l/loan.md) management employs AI and [machine learning](../m/machine_learning.md) to optimize repayment schedules. These algorithms can analyze a borrower's financial behavior and predict potential repayment issues, allowing financial institutions to intervene proactively. This reduces [default](../d/default.md) rates and improves overall [financial health](../f/financial_health.md).
 
 ## Conclusion
 

@@ -85,7 +85,7 @@ Application in [Algorithmic Trading](../a/algorithmic_trading.md)
 
 ### Steps to Implement Triangle Chart Patterns in Algo Trading:
 
-1. **[Pattern Recognition](../p/pattern_recognition.md)**: The first step is developing an algorithm to recognize [triangle](../t/triangle.md) [chart patterns](../c/chart_patterns.md). This can involve using machine learning techniques or rule-based systems that analyze historical price data to identify patterns.
+1. **[Pattern Recognition](../p/pattern_recognition.md)**: The first step is developing an algorithm to recognize [triangle](../t/triangle.md) [chart patterns](../c/chart_patterns.md). This can involve using [machine learning](../m/machine_learning.md) techniques or rule-based systems that analyze historical price data to identify patterns.
 
 2. **Parameter Tuning**: Different [market](../m/market.md) conditions may require different parameters for [pattern recognition](../p/pattern_recognition.md). The algorithm needs to be tuned to account for variables such as time frames, [market](../m/market.md) [volatility](../v/volatility.md), and [asset](../a/asset.md) types.
 

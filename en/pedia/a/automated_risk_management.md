@@ -64,7 +64,7 @@ Programmatic access to [risk management](../r/risk_management.md) tools is facil
 - **ccxt:** A cryptocurrency trading library for managing risks across [multiple](../m/multiple.md) exchanges using Python and JavaScript (https://github.com/ccxt/ccxt).
 
 ### Machine Learning and AI
-Machine Learning (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly utilized for advanced [risk management](../r/risk_management.md). ML algorithms can analyze large datasets to identify patterns and predict risks more accurately than traditional methods.
+[Machine Learning](../m/machine_learning.md) (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly utilized for advanced [risk management](../r/risk_management.md). ML algorithms can analyze large datasets to identify patterns and predict risks more accurately than traditional methods.
 
 ## Real-World Applications
 

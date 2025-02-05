@@ -73,7 +73,7 @@ Algo trading is subject to stringent regulatory requirements, and headhunters mu
 ## Future Trends in Headhunting for Algorithmic Trading
 
 ### Increased Use of Artificial Intelligence and Machine Learning
-The integration of AI and machine learning in the recruitment process is expected to enhance headhunters' ability to identify and evaluate candidates. This includes:
+The integration of AI and [machine learning](../m/machine_learning.md) in the recruitment process is expected to enhance headhunters' ability to identify and evaluate candidates. This includes:
 - **Automated Screening:** Using AI-powered tools to automate the initial screening of resumes and applications, thereby improving [efficiency](../e/efficiency.md) and accuracy.
 - **[Predictive Analytics](../p/predictive_analytics.md):** Leveraging [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to predict candidates' success in specific roles based on historical data and [performance metrics](../p/performance_metrics.md).
 

@@ -99,7 +99,7 @@ Visa is exploring the potential of [blockchain](../b/blockchain_in_trading.md) t
 
 ### 2. Artificial Intelligence (AI)
 
-Visa utilizes AI and machine learning to enhance [fraud](../f/fraud.md) detection and prevention. AI algorithms analyze [transaction](../t/transaction.md) patterns and identify anomalies that could indicate fraudulent activity.
+Visa utilizes AI and [machine learning](../m/machine_learning.md) to enhance [fraud](../f/fraud.md) detection and prevention. AI algorithms analyze [transaction](../t/transaction.md) patterns and identify anomalies that could indicate fraudulent activity.
 
 ### 3. Mobile Wallets and Digital Payments
 

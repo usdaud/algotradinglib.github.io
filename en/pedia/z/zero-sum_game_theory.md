@@ -75,10 +75,10 @@ The competitive nature of zero-sum games can lead to ethical concerns, particula
 
 ### Machine Learning and AI
 
-Incorporating machine learning and AI into [algorithmic trading](../a/algorithmic_trading.md) strategies represents an advanced application of [zero-sum game](../z/zero-sum_game.md) theory. These technologies enable traders to analyze vast amounts of data, identify patterns, and optimize strategies in real-time.
+Incorporating [machine learning](../m/machine_learning.md) and AI into [algorithmic trading](../a/algorithmic_trading.md) strategies represents an advanced application of [zero-sum game](../z/zero-sum_game.md) theory. These technologies enable traders to analyze vast amounts of data, identify patterns, and optimize strategies in real-time.
 
 #### Example: Two Sigma
-Two Sigma ([website](https://www.twosigma.com/)) is a [hedge fund](../h/hedge_fund.md) that leverages machine learning and AI to execute trades. Their algorithms continuously learn and adapt, giving them a competitive edge in the [zero-sum game](../z/zero-sum_game.md) of trading.
+Two Sigma ([website](https://www.twosigma.com/)) is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and AI to execute trades. Their algorithms continuously learn and adapt, giving them a competitive edge in the [zero-sum game](../z/zero-sum_game.md) of trading.
 
 ### Quantum Computing
 

@@ -117,7 +117,7 @@ In HFT strategies, input [sensitivity analysis](../s/sensitivity_analysis.md) is
 
 ### Machine Learning Models
 
-Machine learning models for trading involve [multiple](../m/multiple.md) hyperparameters and features. [Sensitivity analysis](../s/sensitivity_analysis.md) helps in understanding the feature importance and hyperparameter tuning, thereby improving the model's predictive accuracy and [trading performance](../t/trading_performance.md).
+[Machine learning](../m/machine_learning.md) models for trading involve [multiple](../m/multiple.md) hyperparameters and features. [Sensitivity analysis](../s/sensitivity_analysis.md) helps in understanding the feature importance and hyperparameter tuning, thereby improving the model's predictive accuracy and [trading performance](../t/trading_performance.md).
 
 ### Multi-Asset Trading
 

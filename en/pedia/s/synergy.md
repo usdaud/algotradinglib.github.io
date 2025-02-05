@@ -27,7 +27,7 @@ In the context of [algorithmic trading](../a/accountability.md), synergy can be 
 
 - **[Diversification](../d/diversification.md) of Strategies:** Combining different algorithms reduces the [risk](../r/risk.md) by diversifying the trading approaches and mitigating the impact of any single strategy failing.
 - **[Data Integration](../d/data_integration.md):** Utilizing various data sources such as [market](../m/market.md) data, news feeds, and [social media sentiment](../s/social_media_sentiment.md) analysis can create a more comprehensive trading model.
-- **[Optimization](../o/optimization.md) Techniques:** Techniques like machine learning and statistical analysis can optimize the performance of each strategy, leading to better [trade](../t/trade.md) [execution](../e/execution.md) and profitability.
+- **[Optimization](../o/optimization.md) Techniques:** Techniques like [machine learning](../m/machine_learning.md) and statistical analysis can optimize the performance of each strategy, leading to better [trade](../t/trade.md) [execution](../e/execution.md) and profitability.
 
 **Example Platforms and Companies:**
 - **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com/): A leading platform that allows traders and developers to create, backtest, and execute [multiple](../m/multiple.md) [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) in a synergistic manner.

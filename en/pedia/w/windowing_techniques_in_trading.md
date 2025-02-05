@@ -99,7 +99,7 @@ Assesses whether there is a structural break at a point within the [time series]
 ## Advanced Strategies
 
 ### Machine Learning with Windowing
-AI and machine learning models frequently use windowing techniques to train on subsets of data.
+AI and [machine learning](../m/machine_learning.md) models frequently use windowing techniques to train on subsets of data.
 
 #### Recurrent Neural Networks (RNN)
 Suitable for sequential data, where the output at each time step depends on previous inputs.

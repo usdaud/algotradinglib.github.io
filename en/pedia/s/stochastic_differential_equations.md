@@ -122,7 +122,7 @@ Systems operating over [multiple](../m/multiple.md) temporal and spatial scales 
 
 ### Machine Learning Integration
 
-The integration of machine learning and SDEs offers promising avenues for advancing model accuracy and computational [efficiency](../e/efficiency.md). Neural SDEs, for example, combine [neural networks](../n/neural_networks_in_trading.md) with [stochastic modeling](../s/stochastic_modeling.md), providing flexible and powerful tools for various applications.
+The integration of [machine learning](../m/machine_learning.md) and SDEs offers promising avenues for advancing model accuracy and computational [efficiency](../e/efficiency.md). Neural SDEs, for example, combine [neural networks](../n/neural_networks_in_trading.md) with [stochastic modeling](../s/stochastic_modeling.md), providing flexible and powerful tools for various applications.
 
 ## Conclusion
 

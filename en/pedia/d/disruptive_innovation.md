@@ -31,7 +31,7 @@ Several technological advancements have contributed to the disruptive innovation
 
 #### Machine Learning and Artificial Intelligence (AI)
 
-**Machine learning** and **AI** are reshaping algo-trading by enabling systems to learn from historical data and adapt to new [market](../m/market.md) conditions. These algorithms can identify patterns, make predictions, and execute trades with minimal human intervention. Enhanced AI-based strategies have the potential to [outperform](../o/outperform.md) traditional models by leveraging [big data analytics](../b/big_data_analytics_in_trading.md) and advanced processing power.
+**[Machine learning](../m/machine_learning.md)** and **AI** are reshaping algo-trading by enabling systems to learn from historical data and adapt to new [market](../m/market.md) conditions. These algorithms can identify patterns, make predictions, and execute trades with minimal human intervention. Enhanced AI-based strategies have the potential to [outperform](../o/outperform.md) traditional models by leveraging [big data analytics](../b/big_data_analytics_in_trading.md) and advanced processing power.
 
 #### Quantum Computing
 
@@ -79,11 +79,11 @@ The rise of algo-trading brings forth several **ethical considerations**. As mac
 
 ### Development of Explainable AI (XAI)
 
-Explainable AI (XAI) is gaining importance as financial institutions seek to understand and [trust](../t/trust.md) the decision-making processes of their AI-driven algorithms. XAI focuses on making AI systems transparent, interpretable, and accountable, addressing concerns about the "black-box" nature of traditional AI models.
+[Explainable AI](../e/explainable_ai.md) (XAI) is gaining importance as financial institutions seek to understand and [trust](../t/trust.md) the decision-making processes of their AI-driven algorithms. XAI focuses on making AI systems transparent, interpretable, and accountable, addressing concerns about the "black-box" nature of traditional AI models.
 
 ### Personalized Trading Strategies
 
-Advances in machine learning and [data analytics](../d/data_analytics.md) are enabling the development of highly personalized [trading strategies](../t/trading_strategies.md). By analyzing an individual's trading behavior and preferences, algorithms can tailor strategies that align with personal [risk tolerance](../r/risk_tolerance.md) and investment goals.
+Advances in [machine learning](../m/machine_learning.md) and [data analytics](../d/data_analytics.md) are enabling the development of highly personalized [trading strategies](../t/trading_strategies.md). By analyzing an individual's trading behavior and preferences, algorithms can tailor strategies that align with personal [risk tolerance](../r/risk_tolerance.md) and investment goals.
 
 ## Case Studies
 
@@ -93,7 +93,7 @@ Advances in machine learning and [data analytics](../d/data_analytics.md) are en
 
 ### Two Sigma Investments
 
-**Two Sigma** (https://www.twosigma.com/) is a leading [hedge fund](../h/hedge_fund.md) that relies on [data science](../d/data_science_in_trading.md), machine learning, and distributed computing to develop its [trading models](../t/trading_models.md). The [firm](../f/firm.md) exemplifies the integration of disruptive technologies in [financial markets](../f/financial_market.md), driving innovation in [algorithmic trading](../a/accountability.md).
+**Two Sigma** (https://www.twosigma.com/) is a leading [hedge fund](../h/hedge_fund.md) that relies on [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to develop its [trading models](../t/trading_models.md). The [firm](../f/firm.md) exemplifies the integration of disruptive technologies in [financial markets](../f/financial_market.md), driving innovation in [algorithmic trading](../a/accountability.md).
 
 ### Citadel LLC
 

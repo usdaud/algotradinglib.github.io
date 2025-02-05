@@ -114,7 +114,7 @@ The regulatory landscape is constantly changing, and TAMPs must stay abreast of 
 ## Future Trends
 
 ### Artificial Intelligence (AI) and Machine Learning
-AI and machine learning are expected to play an increasingly significant role in TAMP services, enhancing investment strategies, [risk management](../r/risk_management.md), and client personalization.
+AI and [machine learning](../m/machine_learning.md) are expected to play an increasingly significant role in TAMP services, enhancing investment strategies, [risk management](../r/risk_management.md), and client personalization.
 
 ### Blockchain Technology
 [Blockchain](../b/blockchain_in_trading.md) could revolutionize [transparency](../t/transparency.md) and [security](../s/security.md) in TAMP operations, providing immutable records of transactions and improving data integrity.

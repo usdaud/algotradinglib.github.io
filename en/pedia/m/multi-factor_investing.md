@@ -92,7 +92,7 @@ The frequent [rebalancing](../r/rebalancing.md) required in multi-[factor](../f/
 Environmental, social, and governance (ESG) considerations are becoming increasingly integrated into [factor investing](../f/factor_investing.md). Combining traditional factors with ESG criteria can align investments with broader sustainability goals.
 
 ### Advances in Technology
-Technological advancements, including machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are enhancing the capabilities of multi-[factor models](../f/factor_models.md). These technologies facilitate the analysis of vast datasets, uncovering new factors and improving the accuracy of predictions.
+Technological advancements, including [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are enhancing the capabilities of multi-[factor models](../f/factor_models.md). These technologies facilitate the analysis of vast datasets, uncovering new factors and improving the accuracy of predictions.
 
 ### Personalized Investment Solutions
 The [trend](../t/trend.md) towards customization is driving the development of personalized multi-[factor](../f/factor.md) investment solutions. Robo-advisors and fintech platforms are leveraging multi-[factor](../f/factor.md) strategies to create tailored portfolios for individual investors.

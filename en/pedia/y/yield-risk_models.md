@@ -90,8 +90,8 @@ At their core, [Yield](../y/yield.md)-[Risk Models](../r/risk_models_in_trading.
   - Techniques include [genetic algorithms](../g/genetic_algorithms_in_trading.md), [simulated annealing](../s/simulated_annealing.md), and gradient descent.
 
 ### Machine Learning Integration
-  - Machine learning models can enhance predictability and adaptability of [Yield](../y/yield.md)-[Risk Models](../r/risk_models_in_trading.md).
-  - Techniques like regression, [neural networks](../n/neural_networks_in_trading.md), and reinforcement learning can uncover non-linear relationships and intrinsic patterns in data.
+  - [Machine learning](../m/machine_learning.md) models can enhance predictability and adaptability of [Yield](../y/yield.md)-[Risk Models](../r/risk_models_in_trading.md).
+  - Techniques like regression, [neural networks](../n/neural_networks_in_trading.md), and [reinforcement learning](../r/reinforcement_learning.md) can uncover non-linear relationships and intrinsic patterns in data.
 
 ## Applications in Algorithmic Trading
 

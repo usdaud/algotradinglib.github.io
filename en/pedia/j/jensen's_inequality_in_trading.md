@@ -74,7 +74,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies, which involve exploiting 
 
 ### Machine Learning Models
 
-In recent years, machine learning models have increasingly been used in [algorithmic trading](../a/algorithmic_trading.md). These models often predict probabilities and expected returns. Jensen's inequality becomes crucial in understanding the difference between model predictions (expected returns) and the realized [utility](../u/utility.md), aiding in improving model performance and decision-making processes.
+In recent years, [machine learning](../m/machine_learning.md) models have increasingly been used in [algorithmic trading](../a/algorithmic_trading.md). These models often predict probabilities and expected returns. Jensen's inequality becomes crucial in understanding the difference between model predictions (expected returns) and the realized [utility](../u/utility.md), aiding in improving model performance and decision-making processes.
 
 ## Conclusion
 

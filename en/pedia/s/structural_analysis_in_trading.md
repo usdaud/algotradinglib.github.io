@@ -40,7 +40,7 @@ Advanced structural analysis often involves identifying and interpreting complex
 Statistical [arbitrage](../a/arbitrage.md) strategies exploit statistical patterns in [market](../m/market.md) prices. These patterns may relate to [mean reversion](../m/mean_reversion.md), [momentum](../m/momentum.md), or other statistical relationships.
 
 #### Machine Learning and AI
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can uncover hidden [market](../m/market.md) structures by analyzing vast amounts of data and detecting patterns that may not be evident through traditional statistical methods. Techniques like clustering, [neural networks](../n/neural_networks_in_trading.md), and reinforcement learning are commonly adopted.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can uncover hidden [market](../m/market.md) structures by analyzing vast amounts of data and detecting patterns that may not be evident through traditional statistical methods. Techniques like clustering, [neural networks](../n/neural_networks_in_trading.md), and [reinforcement learning](../r/reinforcement_learning.md) are commonly adopted.
 
 ### High-Frequency Trading (HFT)
 High-frequency trading (HFT) represents the pinnacle of leveraging structural analysis in trading. HFT firms utilize sophisticated algorithms to exploit micro-structures in the [market](../m/market.md), executing numerous trades within fractions of a second.
@@ -58,7 +58,7 @@ Several tools and platforms facilitate structural analysis for traders. These to
 Many trading platforms like MetaTrader, [TradeStation](../t/tradestation.md), and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) features for conducting structural analysis, including [technical indicators](../t/technical_indicators.md), [automated trading systems](../a/automated_trading_systems.md), and real-time data feeds.
 
 ### Specialized Analytical Software
-Software like MATLAB, R, and Python libraries (such as Pandas, NumPy, and Scikit-learn) enable advanced statistical and machine learning analysis for detecting [market](../m/market.md) structures.
+Software like MATLAB, R, and Python libraries (such as Pandas, NumPy, and Scikit-learn) enable advanced statistical and [machine learning](../m/machine_learning.md) analysis for detecting [market](../m/market.md) structures.
 
 ## Application of Structural Analysis in Algorithmic Trading
 [Algorithmic trading](../a/algorithmic_trading.md) systems [leverage](../l/leverage.md) structural analysis to formulate and execute [trading strategies](../t/trading_strategies.md). These systems operate based on rules derived from structural analysis, optimizing the entry and exit points to maximize profitability.

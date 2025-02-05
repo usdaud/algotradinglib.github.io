@@ -52,7 +52,7 @@ Several trading firms and [hedge](../h/hedge.md) funds specialize in [volatility
 
 - **Citadel LLC**: [Citadel](https://www.citadel.com) is a global financial institution involved in [hedge fund](../h/hedge_fund.md) management and [market](../m/market.md) making, known for its expertise in [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md).
 - **DE Shaw Group**: [DE Shaw](https://www.deshaw.com) uses computational techniques and [quantitative strategies](../q/quantitative_strategies_in_trading.md) for trading, including vol arb.
-- **Two Sigma Investments**: [Two Sigma](https://www.twosigma.com) employs machine learning and advanced statistical analysis in its vol arb strategies.
+- **Two Sigma Investments**: [Two Sigma](https://www.twosigma.com) employs [machine learning](../m/machine_learning.md) and advanced statistical analysis in its vol arb strategies.
 
 #### Software and Models
 

@@ -80,7 +80,7 @@ Several tools and programming languages are commonly used for implementing stoch
 
 ### Python
 
-Python, with libraries such as NumPy, SciPy, and pandas, offers extensive functionality for numerical computing and data analysis. Libraries like `scikit-learn` provide machine learning tools that integrate well with stochastic modeling.
+Python, with libraries such as NumPy, SciPy, and pandas, offers extensive functionality for numerical computing and data analysis. Libraries like `scikit-learn` provide [machine learning](../m/machine_learning.md) tools that integrate well with stochastic modeling.
 
 ### R
 

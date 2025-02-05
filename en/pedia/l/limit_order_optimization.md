@@ -28,7 +28,7 @@ Optimizing limit orders involves a series of sophisticated techniques and consid
    Understanding historical [trade](../t/trade.md) data and patterns can help in predicting future price movements and determining when and where to place limit orders.
 
 ### 2. Machine Learning Algorithms
-   Algorithms such as reinforcement learning, supervised learning, and unsupervised learning can optimize [order](../o/order.md) placement by evaluating huge datasets and discovering patterns.
+   Algorithms such as [reinforcement learning](../r/reinforcement_learning.md), [supervised learning](../s/supervised_learning.md), and [unsupervised learning](../u/unsupervised_learning.md) can optimize [order](../o/order.md) placement by evaluating huge datasets and discovering patterns.
 
 ### 3. Predictive Modeling
    Models that predict price movements or [order book](../o/order_book.md) changes can guide the placement of limit orders, aiming for better [execution](../e/execution.md) prices and lower waiting times.
@@ -47,7 +47,7 @@ Optimizing limit orders involves a series of sophisticated techniques and consid
 
 ### 2. Data Analytics Tools
    - **Pandas**: A Python library for data analysis, instrumental in processing [stock market](../s/stock_market.md) data.
-   - **TensorFlow**: An [open](../o/open.md)-source machine learning library by Google, useful in developing and training [predictive models](../p/predictive_models_in_trading.md).
+   - **[TensorFlow](../t/tensorflow.md)**: An [open](../o/open.md)-source [machine learning](../m/machine_learning.md) library by Google, useful in developing and training [predictive models](../p/predictive_models_in_trading.md).
 
 ## Case Studies and Applications
 

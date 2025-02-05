@@ -29,9 +29,9 @@
     - **[Regression Analysis](../r/regression_analysis.md)**: Used to identify the strength and character of the relationship between different variables, such as price and time, to predict future prices.
     - **[Time Series Analysis](../t/time_series_analysis.md)**: A technique that analyzes time-ordered data points to extract meaningful [statistics](../s/statistics.md) and characteristics to understand [underlying](../u/underlying.md) patterns.
 
-2. **Machine Learning Models**:
-    - **Supervised Learning**: Models like [Linear Regression](../l/linear_regression.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Decision Trees](../d/decision_trees.md) to predict trends based on historical data.
-    - **Unsupervised Learning**: Clustering techniques such as K-means to group similar [trend](../t/trend.md) patterns.
+2. **[Machine Learning](../m/machine_learning.md) Models**:
+    - **[Supervised Learning](../s/supervised_learning.md)**: Models like [Linear Regression](../l/linear_regression.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Decision Trees](../d/decision_trees.md) to predict trends based on historical data.
+    - **[Unsupervised Learning](../u/unsupervised_learning.md)**: Clustering techniques such as K-means to group similar [trend](../t/trend.md) patterns.
     - **[Deep Learning](../d/deep_learning.md)**: [Neural networks](../n/neural_networks_in_trading.md), particularly Long Short-Term Memory (LSTM) networks, used for predicting future price movements based on historical trends.
 
 3. **Algorithm Development**:
@@ -94,7 +94,7 @@ Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), whi
 - [Renaissance Technologies](https://www.rentec.com/Home.action)
 
 ### Two Sigma
-Two Sigma Investments uses machine learning, distributed computing, and other advanced technologies to develop sophisticated [trading strategies](../t/trading_strategies.md).
+Two Sigma Investments uses [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies to develop sophisticated [trading strategies](../t/trading_strategies.md).
 - [Two Sigma](https://www.twosigma.com/)
 
 ### D.E. Shaw Group
@@ -103,7 +103,7 @@ The D.E. Shaw Group is known for using quantitative and computational techniques
 
 ## Future Trends
 
-1. **Enhanced Machine Learning**: Continuous advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve [trend](../t/trend.md) prediction accuracy.
+1. **Enhanced [Machine Learning](../m/machine_learning.md)**: Continuous advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve [trend](../t/trend.md) prediction accuracy.
 
 2. **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Exploration of [quantum computing](../q/quantum_computing_in_trading.md) capabilities for solving complex calculations faster than traditional computers, potentially revolutionizing [trend](../t/trend.md) analysis.
 
@@ -115,4 +115,4 @@ The D.E. Shaw Group is known for using quantitative and computational techniques
 
 ## Conclusion
 
-[Trend](../t/trend.md) analysis is a vital aspect of [algorithmic trading](../a/algorithmic_trading.md), enabling traders to identify and [capitalize](../c/capitalize.md) on [market](../m/market.md) movements. By leveraging statistical methods, machine learning models, and sophisticated algorithms, traders can develop strategies that enhance their [trading performance](../t/trading_performance.md). However, mastering [trend](../t/trend.md) analysis requires continuous learning and adaptation to evolving [market](../m/market.md) conditions and technological advancements.
+[Trend](../t/trend.md) analysis is a vital aspect of [algorithmic trading](../a/algorithmic_trading.md), enabling traders to identify and [capitalize](../c/capitalize.md) on [market](../m/market.md) movements. By leveraging statistical methods, [machine learning](../m/machine_learning.md) models, and sophisticated algorithms, traders can develop strategies that enhance their [trading performance](../t/trading_performance.md). However, mastering [trend](../t/trend.md) analysis requires continuous learning and adaptation to evolving [market](../m/market.md) conditions and technological advancements.

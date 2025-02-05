@@ -62,7 +62,7 @@ Algotrading strategies must be adaptable to changing [market](../m/market.md) co
 
 ### Model Complexity
 
-Incorporating ZLB effects into algotrading models adds to their complexity. Traders need to account for unconventional monetary policies’ impact on [asset](../a/asset.md) prices, [volatility](../v/volatility.md), and [liquidity](../l/liquidity.md). Advanced statistical techniques and machine learning methods may be employed to better understand and adapt to these [market](../m/market.md) conditions.
+Incorporating ZLB effects into algotrading models adds to their complexity. Traders need to account for unconventional monetary policies’ impact on [asset](../a/asset.md) prices, [volatility](../v/volatility.md), and [liquidity](../l/liquidity.md). Advanced statistical techniques and [machine learning](../m/machine_learning.md) methods may be employed to better understand and adapt to these [market](../m/market.md) conditions.
 
 ### Risk Management
 

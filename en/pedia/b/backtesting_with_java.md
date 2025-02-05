@@ -22,7 +22,7 @@ Java is a [robust](../r/robust.md), high-performance, and widely-used programmin
 
 ### Key Libraries and Tools for Backtesting in Java
 
-1. **Apache Commons Math**: A library providing machine learning and statistical analysis tools. (Website: [Apache Commons Math](http://commons.apache.org/proper/commons-math/))
+1. **Apache Commons Math**: A library providing [machine learning](../m/machine_learning.md) and statistical analysis tools. (Website: [Apache Commons Math](http://commons.apache.org/proper/commons-math/))
 2. **JFreeChart**: A free Java chart library that makes it easy to display charts and data visualizations. (Website: [JFreeChart](http://www.jfree.org/jfreechart/))
 3. **TA-Lib**: [Technical Analysis](../t/technical_analysis.md) Library for Java providing a [wide variety](../w/wide_variety.md) of [technical analysis](../t/technical_analysis.md) functions. (Website: [TA-Lib](http://ta-lib.org/))
 4. **[Market](../m/market.md) Data Providers**: Various APIs like [Alpha](../a/alpha.md) Vantage and [Quandl](../q/quandl.md) provide historical [market](../m/market.md) data. (Website: [Alpha Vantage](https://www.alphavantage.co/), [Quandl](https://www.quandl.com/))

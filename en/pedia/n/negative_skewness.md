@@ -38,7 +38,7 @@ For a negatively skewed [distribution](../d/distribution.md), the [value](../v/v
 
 3. **[Tail Risk](../t/tail_risk.md)**: Negative [skewness](../s/skewness.md) highlights the presence of [tail risk](../t/tail_risk.md), which is the [risk](../r/risk.md) of rare events that lie outside the normal expectations of [return](../r/return.md) [distribution](../d/distribution.md). [Tail risk](../t/tail_risk.md) measures such as [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) and Conditional [Value](../v/value.md) at [Risk](../r/risk.md) (CVaR) become crucial in such scenarios.
 
-4. **Strategy Calibration**: Algorithms need to be calibrated to account for the negative [skewness](../s/skewness.md) particularly under different [market](../m/market.md) conditions. Machine learning models such as reinforcement learning can be trained to adaptively tailor strategies that mitigate the impact of negative [skewness](../s/skewness.md).
+4. **Strategy Calibration**: Algorithms need to be calibrated to account for the negative [skewness](../s/skewness.md) particularly under different [market](../m/market.md) conditions. [Machine learning](../m/machine_learning.md) models such as [reinforcement learning](../r/reinforcement_learning.md) can be trained to adaptively tailor strategies that mitigate the impact of negative [skewness](../s/skewness.md).
 
 ### Example in Algorithmic Trading
 

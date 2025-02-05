@@ -94,7 +94,7 @@ Given the changing sectoral composition of markets, sector-specific CAPE ratios 
 
 ### Machine Learning and Big Data
 
-In recent years, the integration of machine learning and [big data analytics](../b/big_data_analytics_in_trading.md) has allowed for more sophisticated modeling and [forecasting](../f/forecasting.md) using the CAPE ratio. [Predictive models](../p/predictive_models_in_trading.md) that consider a broader set of variables, including macroeconomic indicators, sentiment data, and global interconnectedness, enhance the predictive power of the CAPE ratio.
+In recent years, the integration of [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) has allowed for more sophisticated modeling and [forecasting](../f/forecasting.md) using the CAPE ratio. [Predictive models](../p/predictive_models_in_trading.md) that consider a broader set of variables, including macroeconomic indicators, sentiment data, and global interconnectedness, enhance the predictive power of the CAPE ratio.
 
 ## Conclusion
 

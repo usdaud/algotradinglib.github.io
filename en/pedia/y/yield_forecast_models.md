@@ -37,7 +37,7 @@ These models estimate the expected [earnings](../e/earnings.md) relative to the 
 - **Price/[Earnings](../e/earnings.md) (P/E) Ratio Models:** These use the inverse of the P/E ratio to estimate [earnings](../e/earnings.md) yields.
 
 ### 2.3 Machine Learning Models in Financial Yield Forecasting
-Recent advances in machine learning have enabled more sophisticated [yield forecasting](../y/yield_forecasting.md). Techniques include:
+Recent advances in [machine learning](../m/machine_learning.md) have enabled more sophisticated [yield forecasting](../y/yield_forecasting.md). Techniques include:
 - **Regression Models:** Linear and non-[linear regression](../l/linear_regression.md) for predicting yields.
 - **[Neural Networks](../n/neural_networks_in_trading.md):** [Deep learning](../d/deep_learning.md) models for capturing complex, non-linear relationships.
 - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** For classification and regression tasks in [yield forecasting](../y/yield_forecasting.md).
@@ -61,7 +61,7 @@ Utilize satellite imagery and GIS data to predict crop yields by observing crop 
 A popular [indicator](../i/indicator.md) derived from remote sensing, NDVI correlates with crop health and [yield](../y/yield.md) potential.
 
 ### 3.4 Machine Learning in Agricultural Yield Forecasting
-As with financial yields, machine learning models are increasingly used for agricultural [yield forecasting](../y/yield_forecasting.md):
+As with financial yields, [machine learning](../m/machine_learning.md) models are increasingly used for agricultural [yield forecasting](../y/yield_forecasting.md):
 - **[Random Forests](../r/random_forests_in_trading.md):** [Ensemble learning](../e/ensemble_learning.md) methods for [robust](../r/robust.md) prediction.
 - **[Artificial Neural Networks](../a/artificial_neural_networks.md) (ANN):** [Deep learning](../d/deep_learning.md) architectures for complex relationships.
 - **Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNN):** Utilized for image data from remote sensing to predict crop yields.
@@ -72,7 +72,7 @@ As with financial yields, machine learning models are increasingly used for agri
 - **BlackRock's Aladdin Platform:** Uses advanced analytics for [yield forecasting](../y/yield_forecasting.md) and [risk management](../r/risk_management.md). [BlackRock](https://www.blackrock.com/)
 
 ### 4.2 Agricultural Case Studies
-- **John Deere’s Precision Agriculture:** Employs machine learning and GIS for [yield](../y/yield.md) mapping and prediction. [John Deere](https://www.deere.com/)
+- **John Deere’s Precision Agriculture:** Employs [machine learning](../m/machine_learning.md) and GIS for [yield](../y/yield.md) mapping and prediction. [John Deere](https://www.deere.com/)
 - **NASA’s SERVIR Project:** Uses satellite data for agricultural monitoring and [yield forecasting](../y/yield_forecasting.md). [NASA SERVIR](https://www.servirglobal.net/)
 
 ## 5. Challenges and Future Directions
@@ -80,7 +80,7 @@ As with financial yields, machine learning models are increasingly used for agri
 ### 5.1 Challenges
 - **Data Quality and Availability:** Accurate [yield forecasting](../y/yield_forecasting.md) relies heavily on high-quality, accessible data.
 - **Model Calibration and Validation:** Ensuring models are properly calibrated and validated to avoid [overfitting](../o/overfitting.md) and underfitting.
-- **Computational Complexity:** Advanced models, especially machine learning-based, require significant computational resources.
+- **Computational Complexity:** Advanced models, especially [machine learning](../m/machine_learning.md)-based, require significant computational resources.
 
 ### 5.2 Future Directions
 - **Integration of IoT (Internet of Things):** Enhanced data collection and real-time analytics.

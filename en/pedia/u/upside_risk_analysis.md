@@ -45,8 +45,8 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), [upside](..
 3. **Monte Carlo Simulations**:
    Using [Monte Carlo methods](../m/monte_carlo_methods.md) to model and understand the [distribution](../d/distribution.md) of returns and their [upside potential](../u/upside_potential_in_trading.md). These simulations allow for stress-testing the algorithm under various [market](../m/market.md) conditions to ensure robustness.
 
-4. **Machine Learning**:
-   Employing machine learning models to dynamically adjust the algorithm based on evolving [market](../m/market.md) conditions. These models can identify and adapt to new opportunities for [upside](../u/upside.md) gains that static algorithms might miss.
+4. **[Machine Learning](../m/machine_learning.md)**:
+   Employing [machine learning](../m/machine_learning.md) models to dynamically adjust the algorithm based on evolving [market](../m/market.md) conditions. These models can identify and adapt to new opportunities for [upside](../u/upside.md) gains that static algorithms might miss.
 
 #### Portfolio Management
 

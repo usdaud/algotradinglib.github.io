@@ -38,7 +38,7 @@ In heterogeneous agent models, [market](../m/market.md) participants are categor
 
 ### Machine Learning Techniques
 
-Machine learning, particularly [deep learning](../d/deep_learning.md), has advanced significantly in capturing nonlinearity. Techniques including [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md) (SVMs), and [decision trees](../d/decision_trees.md) can model complex relationships between variables much better than traditional linear approaches.
+[Machine learning](../m/machine_learning.md), particularly [deep learning](../d/deep_learning.md), has advanced significantly in capturing nonlinearity. Techniques including [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md) (SVMs), and [decision trees](../d/decision_trees.md) can model complex relationships between variables much better than traditional linear approaches.
 
 #### Neural Networks
 
@@ -88,7 +88,7 @@ Nonlinear models help in capturing the shifts in [market sentiment](../m/market_
 
 ### High-Frequency Trading (HFT)
 
-HFT firms use algorithms to execute trades at incredibly high speeds. Nonlinear models and machine learning are critical for HFT, as they need to process vast amounts of data and recognize patterns instantaneously.
+HFT firms use algorithms to execute trades at incredibly high speeds. Nonlinear models and [machine learning](../m/machine_learning.md) are critical for HFT, as they need to process vast amounts of data and recognize patterns instantaneously.
 
 ### Portfolio Optimization
 

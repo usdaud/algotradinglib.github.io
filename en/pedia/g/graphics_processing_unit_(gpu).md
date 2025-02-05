@@ -86,7 +86,7 @@ Similar to NVIDIA’s offerings, AMD’s Radeon RX series provides competitive g
 
 ### Tesla GPUs by NVIDIA
 
-Specialized for AI and Machine Learning, Tesla GPUs [offer](../o/offer.md) tensor cores for accelerated ML tasks. Used in data centers and research labs, they provide immense processing power for [neural network training](../n/neural_network_training.md) and inference.
+Specialized for AI and [Machine Learning](../m/machine_learning.md), Tesla GPUs [offer](../o/offer.md) tensor cores for accelerated ML tasks. Used in data centers and research labs, they provide immense processing power for [neural network training](../n/neural_network_training.md) and inference.
 
 ### Intel Iris Xe
 
@@ -94,7 +94,7 @@ Part of Intel's integrated GPU lineup, Iris Xe aims at providing sufficient grap
 
 ### Google TPU (Tensor Processing Unit)
 
-Although technically not a GPU, Google’s TPU is tailored for TensorFlow operations. Its highly parallel architecture is similar to a GPU, making it a specialized processor for machine learning tasks.
+Although technically not a GPU, Google’s TPU is tailored for [TensorFlow](../t/tensorflow.md) operations. Its highly parallel architecture is similar to a GPU, making it a specialized processor for [machine learning](../m/machine_learning.md) tasks.
 
 ## Future of GPUs
 

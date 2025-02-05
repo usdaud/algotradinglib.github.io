@@ -63,7 +63,7 @@ In [algorithmic trading](../a/accountability.md), pledged assets can serve as [c
 ### FinTech Applications
 
 In FinTech, modern platforms have streamlined and automated the [appraisal](../a/appraisal.md) and utilization of pledged assets through:
-* **Online [Valuation](../v/valuation.md) Tools**: Real-time [valuation](../v/valuation.md) systems based on [data analytics](../d/data_analytics.md) and machine learning.
+* **Online [Valuation](../v/valuation.md) Tools**: Real-time [valuation](../v/valuation.md) systems based on [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md).
 * **[Blockchain](../b/blockchain_in_trading.md) Technology**: Use of [smart contracts](../s/smart_contracts_in_trading.md) to enforce agreements and automate the [collateral](../c/collateral.md) process.
 * **[Peer-to-Peer Lending](../p/peer-to-peer_lending.md) Platforms**: Facilitating the use of smaller, personal assets as [collateral](../c/collateral.md) between individual lenders and borrowers.
 

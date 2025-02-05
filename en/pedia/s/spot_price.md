@@ -80,7 +80,7 @@ Traders employ various strategies in spot markets to exploit real-time price mov
 In the age of digital transformation, technology plays a pivotal role in spot trading:
 
 1. **[Algorithmic Trading](../a/accountability.md)**: Leveraging algorithms to execute trades at speeds impossible for human traders. High-frequency trading (HFT) is a subset of this, focusing on executing thousands of trades per second.
-2. **Machine Learning**: Utilizing advanced models to predict price movements based on historical data.
+2. **[Machine Learning](../m/machine_learning.md)**: Utilizing advanced models to predict price movements based on historical data.
 3. **[Blockchain](../b/blockchain_in_trading.md)**: Ensuring [trade](../t/trade.md) [transparency](../t/transparency.md) and reducing [fraud](../f/fraud.md).
 
 For more insights on [algorithmic trading](../a/accountability.md), firms like [AlgoTrader](https://www.algotrader.com/) [offer](../o/offer.md) comprehensive solutions for institutional trading.

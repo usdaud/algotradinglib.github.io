@@ -72,7 +72,7 @@ Regulatory bodies have scrutinized high-frequency trading practices, citing conc
 1. **[Quantum Computing](../q/quantum_computing_in_trading.md)**
    [Quantum computing](../q/quantum_computing_in_trading.md) could revolutionize quick response by solving complex calculations and processing massive datasets at unprecedented speeds.
 
-2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**
+2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**
    AI and ML models can enhance [trading algorithms](../t/trading_algorithms.md) by learning and adapting to [market](../m/market.md) conditions in real-time, potentially improving the speed and accuracy of responses.
 
 #### Global Expansion

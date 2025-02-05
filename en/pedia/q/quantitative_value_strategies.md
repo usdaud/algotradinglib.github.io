@@ -13,7 +13,7 @@ At the heart of quantitative [value](../v/value.md) strategies lie the fundament
 Quantitative [value](../v/value.md) strategies implement these principles through the following:
 - **[Mathematical Models](../m/mathematical_models_in_trading.md)**: Algorithmic models that use various financial metrics and ratios to evaluate and rank securities.
 - **Data Analysis**: Processing large volumes of historical and real-time data to identify patterns and predict future performance.
-- **Statistical Techniques**: Using statistical methods such as [regression analysis](../r/regression_analysis.md), clustering, and machine learning to enhance stock selection and [portfolio management](../p/portfolio_management.md).
+- **Statistical Techniques**: Using statistical methods such as [regression analysis](../r/regression_analysis.md), clustering, and [machine learning](../m/machine_learning.md) to enhance stock selection and [portfolio management](../p/portfolio_management.md).
 
 ## Key Metrics in Quantitative Value Strategies
 
@@ -30,7 +30,7 @@ Quantitative [value](../v/value.md) strategies implement these principles throug
 1. **Data Collection**: Gathering financial data from reliable sources, including balance sheets, [income](../i/income.md) statements, and stock prices.
 2. **[Data Cleaning](../d/data_cleaning.md)**: Ensuring accuracy and consistency, removing anomalies and outliers.
 3. **Feature Selection**: Identifying key financial metrics that have predictive power for future price movements.
-4. **Model Construction**: Building the algorithm using statistical and machine learning techniques to weigh each feature.
+4. **Model Construction**: Building the algorithm using statistical and [machine learning](../m/machine_learning.md) techniques to weigh each feature.
 5. **[Backtesting](../b/backtesting.md)**: Testing the model against historical data to evaluate its performance and refine parameters.
 6. **Implementation**: Deploying the model in real-time trading scenarios.
 
@@ -60,7 +60,7 @@ Effective [risk management](../r/risk_management.md) in quantitative [value](../
 [AQR Capital Management](https://www.aqr.com) is known for its application of quantitative [value](../v/value.md) strategies. They utilize complex models incorporating [multiple](../m/multiple.md) financial metrics to identify [value](../v/value.md) [stocks](../s/stock.md) across global markets. Their systematic approach allows them to process vast amounts of data and execute trades based on statistical decision-making.
 
 ### Case Study: Two Sigma Investments
-[Two Sigma Investments](https://www.twosigma.com) employs advanced machine learning and data-driven techniques for quantitative [value](../v/value.md) strategies. Their algorithms analyze diverse datasets, including non-traditional financial information, to uncover [undervalued](../u/undervalued.md) investment opportunities and optimize [portfolio performance](../p/portfolio_performance.md).
+[Two Sigma Investments](https://www.twosigma.com) employs advanced [machine learning](../m/machine_learning.md) and data-driven techniques for quantitative [value](../v/value.md) strategies. Their algorithms analyze diverse datasets, including non-traditional financial information, to uncover [undervalued](../u/undervalued.md) investment opportunities and optimize [portfolio performance](../p/portfolio_performance.md).
 
 ## Benefits and Challenges
 

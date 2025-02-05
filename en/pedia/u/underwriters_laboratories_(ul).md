@@ -65,7 +65,7 @@ UL works closely with regulatory agencies like the U.S. Consumer Product Safety 
 
 UL continuously invests in research and development to advance safety science and address emerging safety challenges. The organization’s commitment to innovation is evident in its initiatives such as:
 - **Advanced Research Labs:** Facilities dedicated to studying emerging risks and developing new testing methods.
-- **Digital Transformation:** Leveraging technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to enhance testing and certification processes.
+- **Digital Transformation:** Leveraging technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to enhance testing and certification processes.
 - **Sustainability Programs:** Developing eco-friendly testing protocols and promoting sustainable product design and [manufacturing](../m/manufacturing.md) practices.
 
 ## Conclusion

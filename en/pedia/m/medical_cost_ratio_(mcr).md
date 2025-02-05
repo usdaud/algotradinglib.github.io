@@ -73,7 +73,7 @@ Involving members in their health management through preventive care programs, w
 Setting the right [premium](../p/premium.md) rates is crucial. Insurers conduct extensive actuarial analysis to balance [premium](../p/premium.md) pricing, ensuring that it covers expected medical costs while remaining competitive in the [market](../m/market.md).
 
 ### Leveraging Technology
-[Investing](../i/investing.md) in technology initiatives like [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) can greatly enhance the ability to manage costs. Identifying patterns, predicting high-cost claims, and automating processes lead to improved efficiencies and a favorable MCR.
+[Investing](../i/investing.md) in technology initiatives like [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) can greatly enhance the ability to manage costs. Identifying patterns, predicting high-cost claims, and automating processes lead to improved efficiencies and a favorable MCR.
 
 ### Partnerships and Collaborations
 Collaborations with healthcare providers, pharmaceutical companies, and other stakeholders in the health sector can lead to more efficient care delivery and cost-saving initiatives. Insurers often form networks and preferred provider arrangements to control costs.

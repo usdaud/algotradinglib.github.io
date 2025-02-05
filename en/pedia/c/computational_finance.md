@@ -25,7 +25,7 @@ Computational [finance](../f/finance.md) is a discipline that combines computer 
 6. **[Portfolio Optimization](../p/portfolio_optimization.md):**
    - This involves selecting a mix of assets that maximizes returns for a given level of [risk](../r/risk.md). Techniques such as [Mean-Variance Optimization](../m/mean-variance_optimization.md), the [Capital Asset](../c/capital_asset.md) Pricing Model (CAPM), and Black-Litterman models are commonly used.
 
-7. **Machine Learning in [Finance](../f/finance.md):**
+7. **[Machine Learning](../m/machine_learning.md) in [Finance](../f/finance.md):**
    - Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being applied to financial problems. These techniques can uncover patterns in large datasets, improve [trading strategies](../t/trading_strategies.md), and enhance [risk management](../r/risk_management.md).
 
 **Key Players and Tools**

@@ -2,11 +2,11 @@
 
 [Algorithmic trading](../a/algorithmic_trading.md), or simply algotrading, refers to the use of computer algorithms to automate the process of trading financial instruments at high speeds and frequencies. These algorithms make decisions and execute trades based on pre-programmed criteria. The goal is to [profit](../p/profit.md) from [market](../m/market.md) opportunities that are often transient and cannot be exploited through manual trading.
 
-One fascinating and evolving aspect of [algorithmic trading](../a/algorithmic_trading.md) is the use of reinforcement learning (RL), a subfield of [artificial intelligence](../a/artificial_intelligence_in_trading.md). This document explores the intricate relationship between reinforcement learning and [algorithmic trading](../a/algorithmic_trading.md), unveiling its potential, strategies, benefits, and challenges.
+One fascinating and evolving aspect of [algorithmic trading](../a/algorithmic_trading.md) is the use of [reinforcement learning](../r/reinforcement_learning.md) (RL), a subfield of [artificial intelligence](../a/artificial_intelligence_in_trading.md). This document explores the intricate relationship between [reinforcement learning](../r/reinforcement_learning.md) and [algorithmic trading](../a/algorithmic_trading.md), unveiling its potential, strategies, benefits, and challenges.
 
 # What is Reinforcement Learning?
 
-Reinforcement learning is a type of machine learning where agents learn to make decisions by performing actions within an environment to maximize cumulative reward. This learning process is guided by the agents' interactions with the environment, where they receive feedback in the form of rewards or penalties. The key elements in RL are:
+[Reinforcement learning](../r/reinforcement_learning.md) is a type of [machine learning](../m/machine_learning.md) where agents learn to make decisions by performing actions within an environment to maximize cumulative reward. This learning process is guided by the agents' interactions with the environment, where they receive feedback in the form of rewards or penalties. The key elements in RL are:
 
 - **Agent:** The learner or decision-maker.
 - **Environment:** The space within which the agent operates.
@@ -46,7 +46,7 @@ To implement RL in [algorithmic trading](../a/algorithmic_trading.md), several s
 
 # Benefits of Using Reinforcement Learning in Algorithmic Trading
 
-Reinforcement learning brings several advantages to the domain of [algorithmic trading](../a/algorithmic_trading.md):
+[Reinforcement learning](../r/reinforcement_learning.md) brings several advantages to the domain of [algorithmic trading](../a/algorithmic_trading.md):
 
 - **Adaptability:** RL agents can adapt and learn [trading strategies](../t/trading_strategies.md) from the data itself without requiring handcrafted rules or [heuristics](../h/heuristics.md).
 
@@ -72,7 +72,7 @@ Despite its potential, the application of RL in [algorithmic trading](../a/algor
 
 # Case Study: Reinforcement Learning in a Live Trading System
 
-Let's consider a theoretical case study where reinforcement learning is used to develop a live trading system.
+Let's consider a theoretical case study where [reinforcement learning](../r/reinforcement_learning.md) is used to develop a live trading system.
 
 1. **Problem Setting:** A trading [firm](../f/firm.md) wants to develop an RL-based forex trading system. The goal is to [trade](../t/trade.md) EUR/USD with the objective of maximizing profits while managing [risk](../r/risk.md).
 
@@ -94,12 +94,12 @@ Let's consider a theoretical case study where reinforcement learning is used to 
 
 # Companies Leveraging RL in Algorithmic Trading
 
-Several companies and research institutions are at the forefront of integrating reinforcement learning into [algorithmic trading](../a/algorithmic_trading.md):
+Several companies and research institutions are at the forefront of integrating [reinforcement learning](../r/reinforcement_learning.md) into [algorithmic trading](../a/algorithmic_trading.md):
 
-- **[Alpaca](../a/alpaca.md)**: [Alpaca](../a/alpaca.md) provides [commission](../c/commission.md)-free trading APIs for real-time and historical [market](../m/market.md) data. They [leverage](../l/leverage.md) machine learning, including reinforcement learning, to [offer](../o/offer.md) advanced trading solutions. More information can be found on their [official website](https://alpaca.markets/).
+- **[Alpaca](../a/alpaca.md)**: [Alpaca](../a/alpaca.md) provides [commission](../c/commission.md)-free trading APIs for real-time and historical [market](../m/market.md) data. They [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md), including [reinforcement learning](../r/reinforcement_learning.md), to [offer](../o/offer.md) advanced trading solutions. More information can be found on their [official website](https://alpaca.markets/).
 
-- **Numerai**: A [hedge fund](../h/hedge_fund.md) built according to a new model, Numerai applies machine [learning algorithms](../l/learning_algorithms_in_trading.md) to model the [stock market](../s/stock_market.md). Their approach crowdsources [predictive models](../p/predictive_models_in_trading.md) from data scientists and has explored the use of reinforcement learning. Visit their [official website](https://numer.ai/) for more details.
+- **Numerai**: A [hedge fund](../h/hedge_fund.md) built according to a new model, Numerai applies machine [learning algorithms](../l/learning_algorithms_in_trading.md) to model the [stock market](../s/stock_market.md). Their approach crowdsources [predictive models](../p/predictive_models_in_trading.md) from data scientists and has explored the use of [reinforcement learning](../r/reinforcement_learning.md). Visit their [official website](https://numer.ai/) for more details.
 
-- **DeepMind**: Known for its advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), DeepMind has delved into [financial markets](../f/financial_market.md). Their research often touches on reinforcement learning applications in trading. More about their work can be found on their [website](https://deepmind.com/).
+- **DeepMind**: Known for its advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), DeepMind has delved into [financial markets](../f/financial_market.md). Their research often touches on [reinforcement learning](../r/reinforcement_learning.md) applications in trading. More about their work can be found on their [website](https://deepmind.com/).
 
-By understanding and applying these principles, traders and financial analysts can harness the power of reinforcement learning to develop sophisticated and adaptive [trading strategies](../t/trading_strategies.md) that can potentially [outperform](../o/outperform.md) traditional methods.
+By understanding and applying these principles, traders and financial analysts can harness the power of [reinforcement learning](../r/reinforcement_learning.md) to develop sophisticated and adaptive [trading strategies](../t/trading_strategies.md) that can potentially [outperform](../o/outperform.md) traditional methods.

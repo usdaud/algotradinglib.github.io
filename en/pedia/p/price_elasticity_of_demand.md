@@ -63,7 +63,7 @@ Empirical measurement involves analyzing historical data to understand how [quan
 
 ## Ped and Technology
 
-Advancements in machine learning and [big data analytics](../b/big_data_analytics_in_trading.md) have revolutionized the measurement and application of PED. Fintech companies, such as [Kensho](https://www.kensho.com/) and [ZestFinance](https://www.zest.ai/), [leverage](../l/leverage.md) these technologies to provide dynamic pricing models and [demand forecasting](../d/demand_forecasting.md).
+Advancements in [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) have revolutionized the measurement and application of PED. Fintech companies, such as [Kensho](https://www.kensho.com/) and [ZestFinance](https://www.zest.ai/), [leverage](../l/leverage.md) these technologies to provide dynamic pricing models and [demand forecasting](../d/demand_forecasting.md).
 
 ### Algorithmic Trading
 
@@ -73,5 +73,5 @@ In the realm of algotrading, algorithms [factor](../f/factor.md) PED to optimize
 
 Price [Elasticity](../e/elasticity.md) of [Demand](../d/demand.md) is a fundamental concept in [economics](../e/economics.md) that has far-reaching implications in various sectors, from individual businesses’ pricing strategies to macroeconomic policy-making. Understanding and accurately measuring PED can provide valuable insights for optimizing prices, enhancing [revenue](../r/revenue.md), and making informed strategic decisions.
 
-Further advancements in technology, particularly in [data analytics](../d/data_analytics.md) and machine learning, continue to refine our ability to understand and utilize PED, making it an ever-more critical tool in the modern economic landscape.
+Further advancements in technology, particularly in [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md), continue to refine our ability to understand and utilize PED, making it an ever-more critical tool in the modern economic landscape.
 

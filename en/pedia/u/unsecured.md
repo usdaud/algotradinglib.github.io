@@ -66,7 +66,7 @@ The regulatory landscape for unsecured financial instruments varies by jurisdict
 
 ### Advances in Risk Assessment
 
-Technological advancements have enhanced [risk](../r/risk.md) assessment methodologies. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly being used to predict [default](../d/default.md) probabilities, helping lenders better manage [credit risk](../c/credit_risk.md).
+Technological advancements have enhanced [risk](../r/risk.md) assessment methodologies. [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly being used to predict [default](../d/default.md) probabilities, helping lenders better manage [credit risk](../c/credit_risk.md).
 
 ### Investor Sentiment
 
@@ -116,7 +116,7 @@ Investors can mitigate [risk](../r/risk.md) by diversifying their portfolios. Al
 
 ### Credit Analysis
 
-Rigorous [credit](../c/credit.md) analysis can aid in identifying high-[risk](../r/risk.md) borrowers. Employing both traditional [credit](../c/credit.md) scoring models and newer machine learning techniques can enhance the accuracy of [credit risk](../c/credit_risk.md) assessments.
+Rigorous [credit](../c/credit.md) analysis can aid in identifying high-[risk](../r/risk.md) borrowers. Employing both traditional [credit](../c/credit.md) scoring models and newer [machine learning](../m/machine_learning.md) techniques can enhance the accuracy of [credit risk](../c/credit_risk.md) assessments.
 
 ### Monitoring and Auditing
 

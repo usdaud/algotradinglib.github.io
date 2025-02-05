@@ -112,7 +112,7 @@ Several companies specialize in providing [algorithmic trading](../a/algorithmic
   - Kensho Technologies uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and advanced analytics, including [noise](../n/noise.md) filtering techniques like [Wavelet Transform](../w/wavelet_transform_in_trading.md), to [offer](../o/offer.md) refined and actionable [market](../m/market.md) insights.
 
 - **Numerai**: [numer.ai](https://numer.ai)
-  - Numerai leverages collective intelligence and machine learning, incorporating [noise](../n/noise.md) filtering processes to create more [robust](../r/robust.md) [trading models](../t/trading_models.md).
+  - Numerai leverages collective intelligence and [machine learning](../m/machine_learning.md), incorporating [noise](../n/noise.md) filtering processes to create more [robust](../r/robust.md) [trading models](../t/trading_models.md).
 
 ### Conclusion
 

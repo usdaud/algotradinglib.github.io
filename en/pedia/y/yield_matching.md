@@ -68,7 +68,7 @@ The evolution of technology has significantly enhanced the process of [yield](..
 
 1. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: The use of [big data](../b/big_data_in_trading.md) allows for more accurate prediction of cash flows and liabilities, enabling more precise [yield](../y/yield.md)-matching strategies.
    
-2. **Machine Learning**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can identify patterns and trends in [market](../m/market.md) data, improving the selection of [fixed income securities](../f/fixed_income_securities.md) for [yield](../y/yield.md) matching.
+2. **[Machine Learning](../m/machine_learning.md)**: Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can identify patterns and trends in [market](../m/market.md) data, improving the selection of [fixed income securities](../f/fixed_income_securities.md) for [yield](../y/yield.md) matching.
    
 3. **[Blockchain](../b/blockchain_in_trading.md)**: [Blockchain](../b/blockchain_in_trading.md) technology can provide enhanced [security](../s/security.md) and [transparency](../t/transparency.md) in [bond](../b/bond.md) transactions, reducing [counterparty risk](../c/counterparty_risk.md) and ensuring reliable [execution](../e/execution.md) of [yield](../y/yield.md)-matching strategies.
    

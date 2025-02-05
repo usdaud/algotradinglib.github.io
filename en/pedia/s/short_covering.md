@@ -49,7 +49,7 @@ While short covering can be a strategic move for traders, it carries inherent ri
 3. **Borrowing Costs**: Borrowing [shares](../s/shares.md) for [short selling](../s/short_selling.md) involves fees and [interest](../i/interest.md), which can add up, especially if the short position is held for an extended period.
 
 ## Role of Technology and Algorithms in Short Covering
-[Algorithmic trading](../a/algorithmic_trading.md), or "algo-trading," has revolutionized the way short covering is conducted. High-frequency trading (HFT) algorithms can execute short covering orders within milliseconds, helping traders react to [market](../m/market.md) movements more efficiently. Additionally, machine learning models can analyze vast amounts of data to predict optimal timing for short covering.
+[Algorithmic trading](../a/algorithmic_trading.md), or "algo-trading," has revolutionized the way short covering is conducted. High-frequency trading (HFT) algorithms can execute short covering orders within milliseconds, helping traders react to [market](../m/market.md) movements more efficiently. Additionally, [machine learning](../m/machine_learning.md) models can analyze vast amounts of data to predict optimal timing for short covering.
 
 ### Algorithmic Trading Platforms
 Several platforms [offer](../o/offer.md) advanced tools and algorithms for executing short covering efficiently:

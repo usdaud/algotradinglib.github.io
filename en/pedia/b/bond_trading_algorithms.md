@@ -20,10 +20,10 @@ Bonds are [debt](../d/debt.md) instruments issued by corporations, municipalitie
 - **[Yield Curve](../y/yield_curve.md) [Arbitrage](../a/arbitrage.md)**: This strategy seeks to take advantage of mispricing along the [yield curve](../y/yield_curve.md) by buying [undervalued](../u/undervalued.md) bonds and selling [overvalued](../o/overvalued.md) ones.
 
 ### 2. Predictive Algorithms
-These algorithms use statistical methods and machine learning to forecast future [bond](../b/bond.md) prices or [interest](../i/interest.md) rates. Techniques include:
+These algorithms use statistical methods and [machine learning](../m/machine_learning.md) to forecast future [bond](../b/bond.md) prices or [interest](../i/interest.md) rates. Techniques include:
 
 - **[Regression Analysis](../r/regression_analysis.md)**: Simple or multivariate regression models to predict [bond](../b/bond.md) prices based on variables like [interest](../i/interest.md) rates, [credit](../c/credit.md) [spreads](../s/spreads.md), and [economic indicators](../e/economic_indicators.md).
-- **Machine Learning Models**: More advanced methods like [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs), and [deep learning](../d/deep_learning.md) to predict [bond](../b/bond.md) price movements.
+- **[Machine Learning](../m/machine_learning.md) Models**: More advanced methods like [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs), and [deep learning](../d/deep_learning.md) to predict [bond](../b/bond.md) price movements.
 
 ### 3. High-Frequency Trading (HFT) Algorithms
 [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) execute a large number of orders at extremely high speeds to [capitalize](../c/capitalize.md) on small price discrepancies. Features include:
@@ -60,10 +60,10 @@ Statistical [arbitrage](../a/arbitrage.md) involves developing statistical model
 - **[Mean Reversion](../m/mean_reversion.md)**: Trading based on the idea that [bond](../b/bond.md) prices [will](../w/will.md) revert to their historical mean over time.
 
 ### 2. Machine Learning and AI
-Several machine learning models are utilized in [bond](../b/bond.md) trading:
+Several [machine learning](../m/machine_learning.md) models are utilized in [bond](../b/bond.md) trading:
 
-- **Supervised Learning Models**: Models like [Linear Regression](../l/linear_regression.md), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) trained on historical data to predict [bond](../b/bond.md) prices.
-- **Unsupervised Learning Models**: [Clustering algorithms](../c/clustering_algorithms.md) for grouping similar bonds based on [risk profiles](../r/risk_profiles.md) or [yield](../y/yield.md) characteristics.
+- **[Supervised Learning](../s/supervised_learning.md) Models**: Models like [Linear Regression](../l/linear_regression.md), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) trained on historical data to predict [bond](../b/bond.md) prices.
+- **[Unsupervised Learning](../u/unsupervised_learning.md) Models**: [Clustering algorithms](../c/clustering_algorithms.md) for grouping similar bonds based on [risk profiles](../r/risk_profiles.md) or [yield](../y/yield.md) characteristics.
 
 ### 3. Risk Management Algorithms
 Effective [risk management](../r/risk_management.md) is crucial in [bond](../b/bond.md) trading. Algorithms incorporate various methods to assess and mitigate [risk](../r/risk.md):
@@ -103,4 +103,4 @@ As computational power and data availability continue to rise, the adoption of A
 With a growing emphasis on sustainable [investing](../i/investing.md), algorithms [will](../w/will.md) increasingly incorporate ESG factors into [bond valuation](../b/bond_valuation.md) and trading decisions.
 
 ## Conclusion
-[Bond](../b/bond.md) [trading algorithms](../t/trading_algorithms.md) [offer](../o/offer.md) a blend of sophisticated [mathematical models](../m/mathematical_models_in_trading.md), machine learning techniques, and real-time data processing to navigate the complexities of the [bond market](../b/bond_market.md). As technology continues to advance, the capabilities and applications of these algorithms are likely to expand, making them an indispensable tool in modern [financial markets](../f/financial_market.md).
+[Bond](../b/bond.md) [trading algorithms](../t/trading_algorithms.md) [offer](../o/offer.md) a blend of sophisticated [mathematical models](../m/mathematical_models_in_trading.md), [machine learning](../m/machine_learning.md) techniques, and real-time data processing to navigate the complexities of the [bond market](../b/bond_market.md). As technology continues to advance, the capabilities and applications of these algorithms are likely to expand, making them an indispensable tool in modern [financial markets](../f/financial_market.md).

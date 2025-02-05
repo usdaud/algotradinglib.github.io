@@ -43,7 +43,7 @@ Analyzing historical spread data can provide insights into typical spread behavi
 Visualization tools help in understanding and interpreting spread data. Platforms like Tableau or custom-built dashboards can assist in visualizing spread changes over time, highlighting patterns that might not be obvious in raw data.
 
 ### Machine Learning Models
-Machine learning techniques can be employed to predict future spread behaviors based on historical data. Models such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), or [neural networks](../n/neural_networks_in_trading.md) can be trained to recognize patterns and predict spread changes that can inform trading decisions.
+[Machine learning](../m/machine_learning.md) techniques can be employed to predict future spread behaviors based on historical data. Models such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), or [neural networks](../n/neural_networks_in_trading.md) can be trained to recognize patterns and predict spread changes that can inform trading decisions.
 
 ## Real-Life Application: Companies Specializing in Spread Analysis
 Several firms specialize in providing tools and services for [spread analysis](../s/spread_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). One notable example is:

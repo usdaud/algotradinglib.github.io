@@ -104,7 +104,7 @@ Company C, part of the [energy sector](../e/energy_sector.md), faced challenges 
 The inherent [volatility](../v/volatility.md) of small cap [stocks](../s/stock.md) creates opportunities for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) can [capitalize](../c/capitalize.md) on price fluctuations, exploiting short-term inefficiencies in the [market](../m/market.md).
 
 ### Data Analysis
-Algorithmic traders use advanced [data analysis techniques](../d/data_analysis_techniques.md) to process large volumes of information quickly. Machine learning models can identify patterns and trends, aiding in the selection and timing of small cap trades.
+Algorithmic traders use advanced [data analysis techniques](../d/data_analysis_techniques.md) to process large volumes of information quickly. [Machine learning](../m/machine_learning.md) models can identify patterns and trends, aiding in the selection and timing of small cap trades.
 
 ### Risk Management
 Effective [risk management](../r/risk_management.md) is crucial in [algorithmic trading](../a/accountability.md) of small caps. Algorithms can be designed with strict [risk](../r/risk.md) parameters, such as [stop-loss orders](../s/stop-loss_orders.md), to mitigate potential losses from volatile price movements.

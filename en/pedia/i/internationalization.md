@@ -73,7 +73,7 @@ Compliance with local laws and [security](../s/security.md) regulations is cruci
 
 ### Machine Learning and AI
 
-The use of machine learning and AI for internationalized [trading algorithms](../t/trading_algorithms.md) is expected to grow. These technologies can adapt more easily to new markets and languages, improving [trading performance](../t/trading_performance.md) and compliance.
+The use of [machine learning](../m/machine_learning.md) and AI for internationalized [trading algorithms](../t/trading_algorithms.md) is expected to grow. These technologies can adapt more easily to new markets and languages, improving [trading performance](../t/trading_performance.md) and compliance.
 
 ### Blockchain and Cryptocurrencies
 

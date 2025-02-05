@@ -96,7 +96,7 @@ Creditor regulations play a crucial role in maintaining the integrity and stabil
 
 ## Technological Integration
 
-Technological advancements have revolutionized how creditors operate and interact with markets. The use of blockchains, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning is becoming prevalent in [credit](../c/credit.md) analysis and [risk management](../r/risk_management.md).
+Technological advancements have revolutionized how creditors operate and interact with markets. The use of blockchains, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) is becoming prevalent in [credit](../c/credit.md) analysis and [risk management](../r/risk_management.md).
 
 ### Blockchain
 

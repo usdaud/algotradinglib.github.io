@@ -10,7 +10,7 @@ Velocity [trading strategies](../t/trading_strategies.md) use advanced algorithm
 
 ### Algorithms
 
-Algorithms are the backbone of velocity trading. They analyze [market](../m/market.md) data in real-time and execute trades based on pre-set criteria. These algorithms can be highly sophisticated, using machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to adapt over time.
+Algorithms are the backbone of velocity trading. They analyze [market](../m/market.md) data in real-time and execute trades based on pre-set criteria. These algorithms can be highly sophisticated, using [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to adapt over time.
 
 ### Order Types
 
@@ -121,7 +121,7 @@ The fairness of velocity trading is often debated, as these strategies require s
 
 ### Machine Learning and AI
 
-The integration of machine learning and AI is expected to make algorithms smarter and more adaptive, enhancing the efficacy of velocity [trading strategies](../t/trading_strategies.md).
+The integration of [machine learning](../m/machine_learning.md) and AI is expected to make algorithms smarter and more adaptive, enhancing the efficacy of velocity [trading strategies](../t/trading_strategies.md).
 
 ### Blockchain
 
@@ -137,4 +137,4 @@ The rise of DeFi platforms suggests that velocity trading could extend beyond tr
 
 ## Conclusion
 
-Velocity [trading strategies](../t/trading_strategies.md) [offer](../o/offer.md) numerous advantages, including improved [liquidity](../l/liquidity.md), efficient [price discovery](../p/price_discovery.md), and increased [market efficiency](../m/market_efficiency.md). However, they also come with challenges such as regulatory compliance, technological demands, and potential [market](../m/market.md) risks. The future of velocity trading [will](../w/will.md) likely be shaped by advancements in AI, machine learning, [blockchain](../b/blockchain_in_trading.md), and [quantum computing](../q/quantum_computing_in_trading.md), which promise to further refine and optimize these high-speed [trading strategies](../t/trading_strategies.md).
+Velocity [trading strategies](../t/trading_strategies.md) [offer](../o/offer.md) numerous advantages, including improved [liquidity](../l/liquidity.md), efficient [price discovery](../p/price_discovery.md), and increased [market efficiency](../m/market_efficiency.md). However, they also come with challenges such as regulatory compliance, technological demands, and potential [market](../m/market.md) risks. The future of velocity trading [will](../w/will.md) likely be shaped by advancements in AI, [machine learning](../m/machine_learning.md), [blockchain](../b/blockchain_in_trading.md), and [quantum computing](../q/quantum_computing_in_trading.md), which promise to further refine and optimize these high-speed [trading strategies](../t/trading_strategies.md).

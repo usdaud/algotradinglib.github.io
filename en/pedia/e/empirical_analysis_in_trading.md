@@ -25,7 +25,7 @@ After collecting the necessary data, traders use a variety of statistical tools 
 
 3. **[Time Series Analysis](../t/time_series_analysis.md)**: This involves methods for analyzing sequential data points, such as moving averages, [autoregressive models](../a/autoregressive.md), and ARIMA (AutoRegressive Integrated Moving Average) models. [Time series analysis](../t/time_series_analysis.md) is crucial for understanding trends, [seasonality](../s/seasonality.md), and cyclic behaviors in [financial markets](../f/financial_market.md).
 
-4. **Machine Learning and AI**: These advanced methods involve training algorithms on historical data to identify patterns and make predictions. Techniques such as supervised learning (e.g., [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md)), unsupervised learning (e.g., clustering), and reinforcement learning are increasingly used in trading.
+4. **[Machine Learning](../m/machine_learning.md) and AI**: These advanced methods involve training algorithms on historical data to identify patterns and make predictions. Techniques such as [supervised learning](../s/supervised_learning.md) (e.g., [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md)), [unsupervised learning](../u/unsupervised_learning.md) (e.g., clustering), and [reinforcement learning](../r/reinforcement_learning.md) are increasingly used in trading.
 
 ## Backtesting
 

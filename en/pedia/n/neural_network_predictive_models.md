@@ -44,7 +44,7 @@ Optimizing portfolios by predicting the performance of various assets and findin
 ## Example Companies Utilizing Neural Network Predictive Models in Algotrading
 
 ### 1. **Kensho Technologies**
-[Kensho](https://www.kensho.com/) utilizes machine learning and [neural networks](../n/neural_networks_in_trading.md) to analyze vast amounts of structured and unstructured financial data, [offering](../o/offering.md) [predictive analytics](../p/predictive_analytics.md) and actionable insights for trading and investment strategies.
+[Kensho](https://www.kensho.com/) utilizes [machine learning](../m/machine_learning.md) and [neural networks](../n/neural_networks_in_trading.md) to analyze vast amounts of structured and unstructured financial data, [offering](../o/offering.md) [predictive analytics](../p/predictive_analytics.md) and actionable insights for trading and investment strategies.
 
 ### 2. **Kavout**
 [Kavout](https://www.kavout.com/) combines [neural networks](../n/neural_networks_in_trading.md) with [big data analytics](../b/big_data_analytics_in_trading.md) to provide [predictive models](../p/predictive_models_in_trading.md) specifically designed for [stock market](../s/stock_market.md) analysis and [financial forecasting](../f/financial_forecasting.md).

@@ -78,7 +78,7 @@ With the advent of technology, the management and administration of millage rate
 
 As technology continues to advance, the future of millage rate administration may see further innovations, such as:
 
-- **Automated [Valuation Models](../v/valuation_models.md) (AVM):** AVMs use [data analytics](../d/data_analytics.md), algorithms, and machine learning to predict property values more accurately and efficiently, reducing the need for labor-intensive assessments.
+- **Automated [Valuation Models](../v/valuation_models.md) (AVM):** AVMs use [data analytics](../d/data_analytics.md), algorithms, and [machine learning](../m/machine_learning.md) to predict property values more accurately and efficiently, reducing the need for labor-intensive assessments.
 
 - **[Blockchain](../b/blockchain_in_trading.md) Technology:** [Blockchain](../b/blockchain_in_trading.md) can enhance [transparency](../t/transparency.md) and [security](../s/security.md) in property transactions and tax records, ensuring the integrity of millage rate calculations and [property tax](../p/property_tax.md) collections.
 

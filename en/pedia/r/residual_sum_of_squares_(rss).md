@@ -61,7 +61,7 @@ Where \( f(x_i; \[theta](../t/theta.md)) \) is the nonlinear function parameteri
 
 ### Machine Learning
 
-In machine learning, especially for regression tasks, RSS is employed as a loss function. Various algorithms, such as [Linear Regression](../l/linear_regression.md), use minimization of RSS to train the model. However, more complex models, like [Neural Networks](../n/neural_networks_in_trading.md) and Gradient Boosting Machines, might use variants or modifications of RSS in their loss functions.
+In [machine learning](../m/machine_learning.md), especially for regression tasks, RSS is employed as a loss function. Various algorithms, such as [Linear Regression](../l/linear_regression.md), use minimization of RSS to train the model. However, more complex models, like [Neural Networks](../n/neural_networks_in_trading.md) and Gradient Boosting Machines, might use variants or modifications of RSS in their loss functions.
 
 ### Algorithmic Trading
 
@@ -91,4 +91,4 @@ In this example, RSS equals 55, indicating the total squared error between the a
 
 ## Conclusion
 
-The Residual [Sum of Squares](../s/sum_of_squares.md) is a foundational concept in [regression analysis](../r/regression_analysis.md), [offering](../o/offering.md) a straightforward yet powerful measure of model fit. Its applications span across various fields, from traditional statistical modeling to modern machine learning and [algorithmic trading](../a/accountability.md), underscoring its importance in [quantitative analysis](../q/quantitative_analysis.md). By providing a tangible quantification of prediction errors, RSS remains an invaluable tool for analysts and researchers aiming to develop and refine [predictive models](../p/predictive_models_in_trading.md).
+The Residual [Sum of Squares](../s/sum_of_squares.md) is a foundational concept in [regression analysis](../r/regression_analysis.md), [offering](../o/offering.md) a straightforward yet powerful measure of model fit. Its applications span across various fields, from traditional statistical modeling to modern [machine learning](../m/machine_learning.md) and [algorithmic trading](../a/accountability.md), underscoring its importance in [quantitative analysis](../q/quantitative_analysis.md). By providing a tangible quantification of prediction errors, RSS remains an invaluable tool for analysts and researchers aiming to develop and refine [predictive models](../p/predictive_models_in_trading.md).

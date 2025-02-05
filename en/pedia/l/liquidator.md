@@ -78,10 +78,10 @@ The Enron [bankruptcy](../b/bankruptcy.md) in 2001 led to one of the most extens
 
 ### AI and Machine Learning
 
-Advances in AI and machine learning have started to make an impact on the [liquidation](../l/liquidation.md) process. These technologies can be used to:
+Advances in AI and [machine learning](../m/machine_learning.md) have started to make an impact on the [liquidation](../l/liquidation.md) process. These technologies can be used to:
 
 - **Automate [Asset Valuation](../a/asset_valuation.md):** AI algorithms can quickly analyze [market](../m/market.md) data to provide real-time valuations of assets.
-- **[Predictive Analytics](../p/predictive_analytics.md):** Machine learning models can forecast the potential recovery rates from [asset](../a/asset.md) sales and [debt](../d/debt.md) settlements.
+- **[Predictive Analytics](../p/predictive_analytics.md):** [Machine learning](../m/machine_learning.md) models can forecast the potential recovery rates from [asset](../a/asset.md) sales and [debt](../d/debt.md) settlements.
 - **[Enhanced Due Diligence](../e/enhanced_due_diligence.md):** AI can assist in identifying potentially fraudulent transactions or discrepancies in financial records.
 
 ### Blockchain

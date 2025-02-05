@@ -51,7 +51,7 @@ Several firms, like [Two Sigma](https://www.twosigma.com/) and [Citadel LLC](htt
 To [handle](../h/handle.md) the [J-Curve](../j/j-curve.md) in [algorithmic trading](../a/algorithmic_trading.md) efficiently, various tools and techniques are deployed:
 
 - **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**: Running the algorithm through historical [market](../m/market.md) data to identify potential initial dips and predict performance.
-- **[Robust](../r/robust.md) Data Analysis**: Utilizing machine learning and data analysis to refine algorithms and predict [market](../m/market.md) changes with higher accuracy.
+- **[Robust](../r/robust.md) Data Analysis**: Utilizing [machine learning](../m/machine_learning.md) and data analysis to refine algorithms and predict [market](../m/market.md) changes with higher accuracy.
 - **Incremental Updates**: Making iterative updates and improvements to the algorithm based on real-time performance feedback.
 
 ### Conclusion

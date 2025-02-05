@@ -110,7 +110,7 @@ Critics have also questioned the performance of funds rated highly by [Morningst
 
 ### Future Prospects
 
-[Morningstar](../m/morningstar.md)'s commitment to innovation and continuous improvement positions it well for future growth. The company's focus on integrating advanced technologies like machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) into its analytics platforms [will](../w/will.md) likely enhance its offerings further.
+[Morningstar](../m/morningstar.md)'s commitment to innovation and continuous improvement positions it well for future growth. The company's focus on integrating advanced technologies like [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) into its analytics platforms [will](../w/will.md) likely enhance its offerings further.
 
 ### Research and Development
 

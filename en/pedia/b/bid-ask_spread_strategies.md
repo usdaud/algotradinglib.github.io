@@ -86,7 +86,7 @@ Using [real-time market data](../r/real-time_market_data.md) to track and analyz
 
 ### Machine Learning Models
 
-Machine learning models can be employed to predict future changes in the spread based on historical data. These models enhance the precision of [trading strategies](../t/trading_strategies.md) by learning from past [market](../m/market.md) behaviors.
+[Machine learning](../m/machine_learning.md) models can be employed to predict future changes in the spread based on historical data. These models enhance the precision of [trading strategies](../t/trading_strategies.md) by learning from past [market](../m/market.md) behaviors.
 
 ### Execution Algorithms
 

@@ -21,7 +21,7 @@ Often synonymous with â€œ[quantitative finance](../q/quantitative_finance.md),â€
 In quant hedging, algorithms are employed to automate trading decisions based on predefined models. These algorithms can quickly process vast amounts of [market](../m/market.md) data, performing tasks such as real-time [risk](../r/risk.md) assessment, [asset allocation](../a/asset_allocation.md), and [execution](../e/execution.md) of trades almost instantaneously.
 
 ### Machine Learning and AI
-The recent advancements in machine learning and AI have further revolutionized quantitative [hedging strategies](../h/hedging_strategies.md). These technologies allow for more accurate predictions and more adaptive models that better manage [risk](../r/risk.md) in various [market](../m/market.md) conditions.
+The recent advancements in [machine learning](../m/machine_learning.md) and AI have further revolutionized quantitative [hedging strategies](../h/hedging_strategies.md). These technologies allow for more accurate predictions and more adaptive models that better manage [risk](../r/risk.md) in various [market](../m/market.md) conditions.
 
 ## Techniques in Quantitative Hedging
 

@@ -24,7 +24,7 @@ Developing the algorithms used in HFSA requires expertise in both [quantitative 
 
 #### Machine Learning and Artificial Intelligence
 
-In recent years, the integration of machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) has become increasingly common in HFSA. These technologies enable the development of more adaptive and [predictive models](../p/predictive_models_in_trading.md), allowing traders to refine their strategies based on [real-time market data](../r/real-time_market_data.md).
+In recent years, the integration of [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) has become increasingly common in HFSA. These technologies enable the development of more adaptive and [predictive models](../p/predictive_models_in_trading.md), allowing traders to refine their strategies based on [real-time market data](../r/real-time_market_data.md).
 
 ### Data Collection and Analysis
 
@@ -84,7 +84,7 @@ Renaissance Technologies, founded by mathematician James Simons, is renowned for
 
 ### Two Sigma
 
-Two Sigma is another prominent quantitative [hedge fund](../h/hedge_fund.md) that employs high-frequency trading and statistical [arbitrage](../a/arbitrage.md) strategies. The [firm](../f/firm.md) utilizes machine learning, distributed computing, and vast datasets to develop and refine its [trading algorithms](../t/trading_algorithms.md).
+Two Sigma is another prominent quantitative [hedge fund](../h/hedge_fund.md) that employs high-frequency trading and statistical [arbitrage](../a/arbitrage.md) strategies. The [firm](../f/firm.md) utilizes [machine learning](../m/machine_learning.md), distributed computing, and vast datasets to develop and refine its [trading algorithms](../t/trading_algorithms.md).
 
 ### Citadel Securities
 

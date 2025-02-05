@@ -116,7 +116,7 @@ Qualitative data on management quality, [industry](../i/industry.md) conditions,
 
 ### 3. Machine Learning Models
 
-Machine learning models can be trained on qualitative data such as news sentiment, [earnings call](../e/earnings_call.md) transcripts, and management commentary to enhance predictive accuracy and investment decision-making.
+[Machine learning](../m/machine_learning.md) models can be trained on qualitative data such as news sentiment, [earnings call](../e/earnings_call.md) transcripts, and management commentary to enhance predictive accuracy and investment decision-making.
 
 ### 4. Real-Time Data Analytics
 

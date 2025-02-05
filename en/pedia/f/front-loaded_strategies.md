@@ -33,7 +33,7 @@ TWAP [execution](../e/execution.md) strategies aim to distribute orders evenly o
 [Predictive models](../p/predictive_models_in_trading.md) [leverage](../l/leverage.md) historical data and statistical algorithms to forecast [market](../m/market.md) movements. These models identify periods where front-loading trades may be advantageous based on expected [volatility](../v/volatility.md) and price changes.
 
 #### Machine Learning
-Advanced machine learning techniques can enhance the prediction accuracy of front-loaded strategies. Algorithms can learn from large data sets to recognize patterns and signals that precede significant [market](../m/market.md) movements.
+Advanced [machine learning](../m/machine_learning.md) techniques can enhance the prediction accuracy of front-loaded strategies. Algorithms can learn from large data sets to recognize patterns and signals that precede significant [market](../m/market.md) movements.
 
 #### Quantitative Analysis
 [Quantitative approaches](../q/quantitative_approaches.md) use [mathematical models](../m/mathematical_models_in_trading.md) and historical data to gauge the optimal timing and size of front-loaded trades. This deals with [risk](../r/risk.md) assessments, expected returns, and [market](../m/market.md) impact analysis.

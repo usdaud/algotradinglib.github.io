@@ -10,7 +10,7 @@ In the modern trading landscape, [algorithmic trading](../a/accountability.md), 
 
 ### History and Evolution
 
-[Algorithmic trading](../a/accountability.md) began gaining traction in the 1970s with the introduction of computers to stock exchanges. The growth of electronic trading platforms in the 1990s and advancements in computational power, machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) further catapulted its adoption.
+[Algorithmic trading](../a/accountability.md) began gaining traction in the 1970s with the introduction of computers to stock exchanges. The growth of electronic trading platforms in the 1990s and advancements in computational power, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) further catapulted its adoption.
 
 ### Key Components
 
@@ -26,7 +26,7 @@ Algo trading relies heavily on vast sets of historical and real-time data. [Big 
 
 ### Machine Learning and Artificial Intelligence
 
-Machine learning and AI can identify patterns and predict potential [market](../m/market.md) movements more accurately than traditional methods. These technologies are integral for developing adaptive and self-improving algorithms.
+[Machine learning](../m/machine_learning.md) and AI can identify patterns and predict potential [market](../m/market.md) movements more accurately than traditional methods. These technologies are integral for developing adaptive and self-improving algorithms.
 
 ### High-Frequency Trading (HFT)
 
@@ -114,7 +114,7 @@ Citadel Securities is another significant player in the [algorithmic trading](..
 
 ### Two Sigma
 
-Two Sigma is a prominent [hedge fund](../h/hedge_fund.md) that extensively employs machine learning and advanced quantitative techniques for [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) is known for its data-driven and [systematic trading](../s/systematic_trading.md) approach. For more information: [Two Sigma](https://www.twosigma.com/)
+Two Sigma is a prominent [hedge fund](../h/hedge_fund.md) that extensively employs [machine learning](../m/machine_learning.md) and advanced quantitative techniques for [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) is known for its data-driven and [systematic trading](../s/systematic_trading.md) approach. For more information: [Two Sigma](https://www.twosigma.com/)
 
 ### Renaissance Technologies
 
@@ -138,7 +138,7 @@ Algorithms must be designed to comply with existing regulations and need to be c
 
 ### Increased Use of AI and Machine Learning
 
-The future of algo trading [will](../w/will.md) likely see more sophisticated use of AI and machine learning to develop more accurate and adaptive [trading models](../t/trading_models.md).
+The future of algo trading [will](../w/will.md) likely see more sophisticated use of AI and [machine learning](../m/machine_learning.md) to develop more accurate and adaptive [trading models](../t/trading_models.md).
 
 ### Blockchain Integration
 

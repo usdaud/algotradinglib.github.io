@@ -13,8 +13,8 @@ Under these laws, insiders are prohibited from trading based on material non-pub
 1. **Event Studies**
    - Event studies analyze the impact of [insider trading](../i/insider.md) announcements on stock prices. By examining the price and [volume](../v/volume.md) changes around the event date, analysts can infer the information content and [market](../m/market.md) reaction to insider trades.
 
-2. **[Data Mining](../d/data_mining.md) and Machine Learning**
-   - Advanced algorithms and machine learning techniques are employed to detect patterns and anomalies that might suggest illegal [insider trading](../i/insider.md). For instance, [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) can scan regulatory filings and news articles for insider activity.
+2. **[Data Mining](../d/data_mining.md) and [Machine Learning](../m/machine_learning.md)**
+   - Advanced algorithms and [machine learning](../m/machine_learning.md) techniques are employed to detect patterns and anomalies that might suggest illegal [insider trading](../i/insider.md). For instance, [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) can scan regulatory filings and news articles for insider activity.
 
 3. **Statistical Analysis**
    - Various statistical methods are used to assess the likelihood that a particular trading pattern is the result of insider knowledge. This includes [regression analysis](../r/regression_analysis.md) and [hypothesis testing](../h/hypothesis_testing.md) to compare the performance of insider trades against benchmarks.

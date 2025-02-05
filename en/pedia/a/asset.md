@@ -87,7 +87,7 @@ Once validated, the algorithms are deployed in live markets. High-frequency trad
 
 #### 1. Machine Learning and AI
 
-Machine learning models can analyze vast datasets to identify patterns and predict [market](../m/market.md) movements, improving the decision-making process in trading.
+[Machine learning](../m/machine_learning.md) models can analyze vast datasets to identify patterns and predict [market](../m/market.md) movements, improving the decision-making process in trading.
 
 #### 2. High-Performance Computing
 
@@ -107,7 +107,7 @@ Several companies specialize in providing technologies and platforms for algo-tr
 
 - **AlgoTrader**: Offers an institutional-grade [algorithmic trading](../a/accountability.md) platform for [quantitative trading](../q/quantitative_trading.md) and [execution](../e/execution.md). [AlgoTrader](https://www.algotrader.com)
 
-- **Kensho Technologies**: A provider of next-generation analytics and machine learning capabilities for financial institutions. [Kensho Technologies](https://www.kensho.com)
+- **Kensho Technologies**: A provider of next-generation analytics and [machine learning](../m/machine_learning.md) capabilities for financial institutions. [Kensho Technologies](https://www.kensho.com)
 
 ## Conclusion
 

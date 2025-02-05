@@ -61,7 +61,7 @@ HFT involves executing a large number of orders at extremely high speeds. This m
 This strategy uses statistical models to identify price inefficiencies between related securities, allowing traders to make profits from temporary mispricings.
 
 ### Sentiment Analysis
-AI and machine learning are used to analyze large volumes of data, including news articles and [social media](../s/social_media.md), to gauge [market sentiment](../m/market_sentiment.md) and predict price movements.
+AI and [machine learning](../m/machine_learning.md) are used to analyze large volumes of data, including news articles and [social media](../s/social_media.md), to gauge [market sentiment](../m/market_sentiment.md) and predict price movements.
 
 ### Trend Following
 Algorithms are designed to identify and follow major [market](../m/market.md) trends. This approach typically involves [technical indicators](../t/technical_indicators.md) such as moving averages and [momentum oscillators](../m/momentum_oscillators.md).

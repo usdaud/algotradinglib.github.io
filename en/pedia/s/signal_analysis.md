@@ -42,7 +42,7 @@ Quantitative signals use [mathematical models](../m/mathematical_models_in_tradi
 
 ### 3.2 Machine Learning
 
-Machine learning methods help identify patterns by training on past data. Applications in signal analysis include:
+[Machine learning](../m/machine_learning.md) methods help identify patterns by training on past data. Applications in signal analysis include:
 
 - **[Classification Algorithms](../c/classification_algorithms.md):** Techniques like [support vector machines](../s/support_vector_machines_in_trading.md) (SVM) to classify buy/sell signals.
 - **Regression Algorithms:** Methods such as Lasso regression to predict future price movements.
@@ -122,7 +122,7 @@ Renaissance Technologies is one of the most successful [hedge](../h/hedge.md) fu
 
 ### 6.2 Two Sigma
 
-Two Sigma employs advanced signal analysis and machine learning techniques to generate [trading signals](../t/trading_signals.md). Additional information is available on their [website](https://www.twosigma.com/).
+Two Sigma employs advanced signal analysis and [machine learning](../m/machine_learning.md) techniques to generate [trading signals](../t/trading_signals.md). Additional information is available on their [website](https://www.twosigma.com/).
 
 ### 6.3 Citadel
 
@@ -153,5 +153,5 @@ The advancement in AI and [deep learning](../d/deep_learning.md) is expected to 
 
 ## 8. Conclusion
 
-Signal analysis is cornerstone to effective [algorithmic trading](../a/algorithmic_trading.md), allowing traders to make data-driven decisions. The integration of advanced statistical methods, machine learning, and cutting-edge technology continually pushes the boundaries of what can be achieved in [financial markets](../f/financial_market.md).
+Signal analysis is cornerstone to effective [algorithmic trading](../a/algorithmic_trading.md), allowing traders to make data-driven decisions. The integration of advanced statistical methods, [machine learning](../m/machine_learning.md), and cutting-edge technology continually pushes the boundaries of what can be achieved in [financial markets](../f/financial_market.md).
 

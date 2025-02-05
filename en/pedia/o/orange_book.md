@@ -67,7 +67,7 @@ Financial analysts and traders use various methodologies to interpret Orange Boo
 
 ## The Future of the Orange Book
 
-The ever-evolving landscape of pharmaceuticals, biotechnology, and regulatory frameworks ensures that the Orange Book remains a critical resource for the [industry](../i/industry.md). Technological advancements like [big data](../b/big_data_in_trading.md) analysis, AI, and machine learning are being integrated to provide deeper insights.
+The ever-evolving landscape of pharmaceuticals, biotechnology, and regulatory frameworks ensures that the Orange Book remains a critical resource for the [industry](../i/industry.md). Technological advancements like [big data](../b/big_data_in_trading.md) analysis, AI, and [machine learning](../m/machine_learning.md) are being integrated to provide deeper insights.
 
 ### Integration with Fintech
 

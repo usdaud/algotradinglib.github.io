@@ -93,7 +93,7 @@ Algorithms can be designed to set automatic [stop-loss orders](../s/stop-loss_or
 
 ### Pattern Recognition
 
-Advanced algorithms use machine learning to recognize patterns and identify potential Level Death points. This involves analyzing historical price data and identifying signals that precede breaches of critical levels.
+Advanced algorithms use [machine learning](../m/machine_learning.md) to recognize patterns and identify potential Level Death points. This involves analyzing historical price data and identifying signals that precede breaches of critical levels.
 
 ### Backtesting
 

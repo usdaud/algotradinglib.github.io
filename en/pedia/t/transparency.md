@@ -103,7 +103,7 @@ The rapid pace of technological advancements can outstrip regulatory frameworks,
 The future of transparency in [finance](../f/finance.md) is shaped by ongoing technological innovations and evolving regulatory landscapes. Several trends and developments are expected to influence transparency in the coming years.
 
 ### 7.1 Artificial Intelligence and Machine Learning
-AI and machine learning technologies can enhance transparency by providing advanced [data analytics](../d/data_analytics.md) and predictive insights. These technologies can help in monitoring trading activities and detecting anomalies.
+AI and [machine learning](../m/machine_learning.md) technologies can enhance transparency by providing advanced [data analytics](../d/data_analytics.md) and predictive insights. These technologies can help in monitoring trading activities and detecting anomalies.
 
 ### 7.2 Enhanced Regulation and Standards
 Future regulatory frameworks are likely to impose stricter transparency requirements, particularly in areas such as [algorithmic trading](../a/accountability.md) and fintech. International cooperation [will](../w/will.md) be crucial in harmonizing these regulations.

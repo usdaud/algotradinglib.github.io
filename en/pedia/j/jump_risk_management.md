@@ -58,7 +58,7 @@ One notable event highlighting the importance of managing jump [risk](../r/risk.
 
 ### Automation and Algorithms
 
-Technological advancements have enabled algorithmic traders to deploy sophisticated [risk management](../r/risk_management.md) systems. These systems use machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict potential jumps, optimize stop-loss levels, and dynamically adjust positions.
+Technological advancements have enabled algorithmic traders to deploy sophisticated [risk management](../r/risk_management.md) systems. These systems use [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict potential jumps, optimize stop-loss levels, and dynamically adjust positions.
 
 ### High-Frequency Trading (HFT)
 

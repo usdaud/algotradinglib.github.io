@@ -107,7 +107,7 @@ With the proliferation of [multiple](../m/multiple.md) [blockchain](../b/blockch
 
 ### AI and Machine Learning
 
-Incorporating AI and machine learning can optimize pricing algorithms, predict [market](../m/market.md) trends, and manage risks more effectively, leading to more efficient [market](../m/market.md) making.
+Incorporating AI and [machine learning](../m/machine_learning.md) can optimize pricing algorithms, predict [market](../m/market.md) trends, and manage risks more effectively, leading to more efficient [market](../m/market.md) making.
 
 ### Regulation and Compliance
 

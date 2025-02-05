@@ -40,7 +40,7 @@ Algorithms rely on historical data to predict future trends and make trading dec
 
 ### Model Training
 
-Machine learning models used in [trading strategies](../t/trading_strategies.md) are highly sensitive to input data. Base effects within training datasets can lead to distorted learning processes.
+[Machine learning](../m/machine_learning.md) models used in [trading strategies](../t/trading_strategies.md) are highly sensitive to input data. Base effects within training datasets can lead to distorted learning processes.
 
 1. **Feature Engineering**: Ensuring the variables created for model training do not inherently carry base effect biases is crucial.
 2. **Normalization**: Careful normalization and blinding techniques can mitigate the [undue influence](../u/undue_influence.md) of base effect in training data.

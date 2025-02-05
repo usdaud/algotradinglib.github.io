@@ -57,7 +57,7 @@ Despite its advantages, [junk bond](../j/junk_bond.md) trading also presents cha
 ## Role of Technology and Quantitative Models
 Advancements in technology and [quantitative models](../q/quantitative_models.md) have significantly impacted [junk bond](../j/junk_bond.md) trading. [Algorithmic trading](../a/algorithmic_trading.md) and sophisticated [risk management](../r/risk_management.md) tools enable traders to analyze vast amounts of data and execute trades efficiently. Some key technological innovations include:
 - **[Algorithmic Trading](../a/algorithmic_trading.md):** Algorithms can identify trading opportunities and execute orders rapidly, reducing response time and [transaction costs](../t/transaction_costs.md).
-- **Machine Learning:** Machine learning models help predict [credit](../c/credit.md) events and assess [issuer](../i/issuer.md) [risk](../r/risk.md) by analyzing historical data and identifying patterns.
+- **[Machine Learning](../m/machine_learning.md):** [Machine learning](../m/machine_learning.md) models help predict [credit](../c/credit.md) events and assess [issuer](../i/issuer.md) [risk](../r/risk.md) by analyzing historical data and identifying patterns.
 - **[Data Analytics](../d/data_analytics.md):** Access to real-time data and advanced analytics platforms aids traders in making informed decisions.
 
 ## Leading Companies in Junk Bond Trading

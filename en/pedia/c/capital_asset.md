@@ -87,7 +87,7 @@ Some algo trading approaches focus on high-frequency trading (HFT), making extre
 Several companies have gained prominence in deploying [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) for managing [capital](../c/capital.md) assets. Understanding what they [offer](../o/offer.md) can provide context for the practical applications of algo trading.
 
 ### Two Sigma
-[Two Sigma](https://www.twosigma.com/) is a [hedge fund](../h/hedge_fund.md) that leverages technology-driven [trading strategies](../t/trading_strategies.md). Their approach involves [data science](../d/data_science_in_trading.md), machine learning, and distributed computing to find patterns in large datasets, optimizing [asset management](../a/asset_management.md).
+[Two Sigma](https://www.twosigma.com/) is a [hedge fund](../h/hedge_fund.md) that leverages technology-driven [trading strategies](../t/trading_strategies.md). Their approach involves [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to find patterns in large datasets, optimizing [asset management](../a/asset_management.md).
 
 ### Renaissance Technologies
 Renaissance Technologies, particularly its Medallion [Fund](../f/fund.md), is known for using advanced [mathematical models](../m/mathematical_models_in_trading.md) to guide its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs computer-based algorithms to identify assets with high potential returns.

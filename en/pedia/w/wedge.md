@@ -73,7 +73,7 @@ Cryptocurrencies, known for their [volatility](../v/volatility.md), frequently s
 Combining [Fibonacci retracement](../f/fibonacci_retracement.md) levels with [wedge patterns](../w/wedge_patterns.md) can enhance the prediction of [breakout](../b/breakout.md) levels. For example, in a falling wedge, the [retracement](../r/retracement.md) levels might align with the potential [breakout](../b/breakout.md) points, providing a clearer target for traders.
 
 ### Algorithmic Trading
-Algorithmic traders can program [trading systems](../t/trading_systems.md) to identify [wedge patterns](../w/wedge_patterns.md) automatically. By using tools like machine learning, [neural networks](../n/neural_networks_in_trading.md), and traditional [technical indicators](../t/technical_indicator.md), these systems can efficiently spot and [trade](../t/trade.md) [wedge patterns](../w/wedge_patterns.md) across various markets.
+Algorithmic traders can program [trading systems](../t/trading_systems.md) to identify [wedge patterns](../w/wedge_patterns.md) automatically. By using tools like [machine learning](../m/machine_learning.md), [neural networks](../n/neural_networks_in_trading.md), and traditional [technical indicators](../t/technical_indicator.md), these systems can efficiently spot and [trade](../t/trade.md) [wedge patterns](../w/wedge_patterns.md) across various markets.
 
 ### Software
 Several trading platforms [offer](../o/offer.md) tools and indicators to identify [wedge patterns](../w/wedge_patterns.md).

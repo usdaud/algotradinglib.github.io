@@ -81,7 +81,7 @@ With the rise of digital financial solutions, companies are increasingly adoptin
 [Blockchain](../b/blockchain_in_trading.md) technology offers a promising development in the field of [voucher](../v/voucher.md) checks by ensuring enhanced [security](../s/security.md), [transparency](../t/transparency.md), and immutability of transactional records. [Blockchain](../b/blockchain_in_trading.md)-based [voucher](../v/voucher.md) checks could provide a tamper-proof method of recording and verifying payments.
 
 ### **Automated Solutions**:
-Integration of AI and machine learning into [voucher](../v/voucher.md) [check](../c/check.md) processes can further reduce errors, increase [efficiency](../e/efficiency.md), and improve the overall [payment](../p/payment.md) lifecycle by automating the creation, approval, and issuance processes.
+Integration of AI and [machine learning](../m/machine_learning.md) into [voucher](../v/voucher.md) [check](../c/check.md) processes can further reduce errors, increase [efficiency](../e/efficiency.md), and improve the overall [payment](../p/payment.md) lifecycle by automating the creation, approval, and issuance processes.
 
 ## Leading Financial Service Providers
 

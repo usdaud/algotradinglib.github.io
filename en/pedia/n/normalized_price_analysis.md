@@ -81,7 +81,7 @@ Several tools and libraries facilitate normalized price analysis in [algorithmic
   [Pandas](https://pandas.pydata.org/)
 - **NumPy**: Provides support for large arrays and matrices, along with mathematical functions to operate on these arrays.
   [NumPy](https://numpy.org/)
-- **Scikit-learn**: Includes tools for machine learning and data preprocessing, including normalization techniques.
+- **Scikit-learn**: Includes tools for [machine learning](../m/machine_learning.md) and data preprocessing, including normalization techniques.
   [Scikit-learn](https://scikit-learn.org/)
 - **Trading Platforms**: Many trading platforms have built-in functions for price normalization and [comparative analysis](../c/comparative_analysis.md).
 

@@ -10,7 +10,7 @@ Quantitative [active management](../a/active_management.md) is essentially a dat
 
 1. **Data Collection and Management**: The backbone of QAM is data. This includes historical pricing data, trading volumes, corporate [financial statements](../f/financial_statements.md), macroeconomic indicators, and even [alternative data](../a/alternative_data.md) sources like [social media sentiment](../s/social_media_sentiment.md), satellite imagery, and weather patterns.
   
-2. **Quantitative Modeling**: Models can [range](../r/range.md) from simple statistical methods, such as regressions, to advanced machine learning techniques. These models extrapolate from past data to predict future price movements or identify [undervalued](../u/undervalued.md) securities.
+2. **Quantitative Modeling**: Models can [range](../r/range.md) from simple statistical methods, such as regressions, to advanced [machine learning](../m/machine_learning.md) techniques. These models extrapolate from past data to predict future price movements or identify [undervalued](../u/undervalued.md) securities.
   
 3. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Algorithms execute trades based on predefined criteria set by the [quantitative models](../q/quantitative_models.md). These can be executed in milliseconds, allowing funds to [capitalize](../c/capitalize.md) on fleeting [market](../m/market.md) inefficiencies.
 
@@ -32,7 +32,7 @@ Quantitative [active management](../a/active_management.md) encompasses a variet
 
 5. **[Factor Investing](../f/factor_investing.md)**: This strategy involves building portfolios based on certain attributes or "factors" that have been empirically shown to drive returns. Common factors include [value](../v/value.md), [momentum](../m/momentum.md), size, and [volatility](../v/volatility.md).
 
-6. **Machine Learning and AI**: Increasingly, QAM incorporates sophisticated AI techniques like [neural networks](../n/neural_networks_in_trading.md), [random forests](../r/random_forests_in_trading.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to identify patterns and generate [trading signals](../t/trading_signals.md).
+6. **[Machine Learning](../m/machine_learning.md) and AI**: Increasingly, QAM incorporates sophisticated AI techniques like [neural networks](../n/neural_networks_in_trading.md), [random forests](../r/random_forests_in_trading.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to identify patterns and generate [trading signals](../t/trading_signals.md).
 
 ## Tools and Technologies
 
@@ -46,13 +46,13 @@ The implementation of quantitative [active management](../a/active_management.md
   
 4. **Programming Languages**: R, Python, MATLAB, and C++ are commonly used for developing and testing quant models.
   
-5. **Machine Learning Libraries**: TensorFlow, Scikit-learn, and PyTorch are popular libraries that support the development of machine learning models used in QAM.
+5. **[Machine Learning](../m/machine_learning.md) Libraries**: [TensorFlow](../t/tensorflow.md), Scikit-learn, and [PyTorch](../p/pytorch.md) are popular libraries that support the development of [machine learning](../m/machine_learning.md) models used in QAM.
 
 ## Key Players in Quantitative Active Management
 
 Several firms have established themselves as leaders in the field of quantitative [active management](../a/active_management.md), leveraging their technological expertise and sophisticated models to generate [alpha](../a/alpha.md). Some of the most prominent firms include:
 
-1. **Two Sigma Investments**: [Two Sigma Investments](https://www.twosigma.com/) is a key player known for its data-driven investment strategies leveraging machine learning and distributed computing.
+1. **Two Sigma Investments**: [Two Sigma Investments](https://www.twosigma.com/) is a key player known for its data-driven investment strategies leveraging [machine learning](../m/machine_learning.md) and distributed computing.
 
 2. **Renaissance Technologies**: Founded by Jim Simons, Renaissance Technologies is famous for its highly secretive and successful Medallion [Fund](../f/fund.md), which employs sophisticated statistical models.
    
@@ -80,7 +80,7 @@ While QAM has its advantages, it also faces several challenges:
 
 The future of quantitative [active management](../a/active_management.md) is likely to be shaped by advances in technology and data availability. Some potential developments include:
 
-1. **AI and [Deep Learning](../d/deep_learning.md)**: As machine learning techniques become more advanced, they [will](../w/will.md) play an increasingly significant role in identifying [trading signals](../t/trading_signals.md) and managing portfolios.
+1. **AI and [Deep Learning](../d/deep_learning.md)**: As [machine learning](../m/machine_learning.md) techniques become more advanced, they [will](../w/will.md) play an increasingly significant role in identifying [trading signals](../t/trading_signals.md) and managing portfolios.
 
 2. **[Alternative Data](../a/alternative_data.md)**: The use of [non-traditional data sources](../n/non-traditional_data_sources.md), such as [social media](../s/social_media.md), satellite images, and IoT devices, [will](../w/will.md) become more prevalent in [predictive modeling](../p/predictive_modeling.md).
 

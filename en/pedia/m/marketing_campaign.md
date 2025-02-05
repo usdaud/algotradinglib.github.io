@@ -62,7 +62,7 @@ A multi-channel [marketing strategy](../m/marketing_strategy.md) ensures a broad
 Regularly soliciting [customer](../c/customer.md) feedback helps in adapting [marketing](../m/marketing.md) strategies to better meet client needs. Platforms can use surveys, [social media](../s/social_media.md) polls, and direct feedback channels to gather valuable insights.
 
 ### Investing in Technology
-Innovative technology such as [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) can optimize [marketing](../m/marketing.md) efforts. AI can enhance [customer](../c/customer.md) segmentation, personalize [customer](../c/customer.md) journeys, and improve [predictive analytics](../p/predictive_analytics.md).
+Innovative technology such as [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) can optimize [marketing](../m/marketing.md) efforts. AI can enhance [customer](../c/customer.md) segmentation, personalize [customer](../c/customer.md) journeys, and improve [predictive analytics](../p/predictive_analytics.md).
 
 ## Case Studies
 ### E*TRADE

@@ -65,7 +65,7 @@ Digital wallets and online [payment](../p/payment.md) systems are another potent
 While [blockchain](../b/blockchain_in_trading.md) technology provides a transparent ledger of transactions, the anonymity associated with cryptocurrencies complicates AML efforts. Regulatory bodies are increasingly focusing on ensuring that cryptocurrency exchanges implement rigorous KYC and AML procedures.
 
 ### RegTech Solutions
-[RegTech](../r/regtech.md), or regulatory technology, leverages [big data](../b/big_data_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning to streamline compliance with regulatory requirements. [RegTech](../r/regtech.md) solutions can automate the monitoring of transactions, enabling quicker detection and response to [money](../m/money.md) laundering activities.
+[RegTech](../r/regtech.md), or regulatory technology, leverages [big data](../b/big_data_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) to streamline compliance with regulatory requirements. [RegTech](../r/regtech.md) solutions can automate the monitoring of transactions, enabling quicker detection and response to [money](../m/money.md) laundering activities.
 
 ### Collaboration with Authorities
 Fintech companies and trading platforms must collaborate closely with regulatory bodies and law enforcement agencies. Sharing information and [best practices](../b/best_practices.md) can lead to more effective AML strategies and a more [robust](../r/robust.md) defense against illicit financial activities.

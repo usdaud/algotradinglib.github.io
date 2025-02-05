@@ -74,7 +74,7 @@ Malaysia's approach to the crisis was notably different, as it opted not to seek
 
 ## The Role of Technology in Crisis Prevention
 
-Advancements in technology have played a pivotal role in preventing similar financial crises in the future. Improved [data analytics](../d/data_analytics.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning have enhanced [risk](../r/risk.md) assessment and early warning systems. Real-time monitoring of [financial markets](../f/financial_market.md) and better data [transparency](../t/transparency.md) have enabled policymakers to respond more swiftly to potential crises.
+Advancements in technology have played a pivotal role in preventing similar financial crises in the future. Improved [data analytics](../d/data_analytics.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) have enhanced [risk](../r/risk.md) assessment and early warning systems. Real-time monitoring of [financial markets](../f/financial_market.md) and better data [transparency](../t/transparency.md) have enabled policymakers to respond more swiftly to potential crises.
 
 ## Conclusion
 

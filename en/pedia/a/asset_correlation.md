@@ -53,7 +53,7 @@ Traders use correlations to develop algorithms that can predict [asset](../a/ass
 [Algorithmic trading](../a/algorithmic_trading.md) platforms often integrate [correlation](../c/correlation.md) metrics to dynamically adjust [risk](../r/risk.md) exposure. For instance, during periods of high [market](../m/market.md) [volatility](../v/volatility.md), the algorithm might reduce exposure to highly correlated assets to avoid compound risks.
 
 ### Machine Learning Models
-Modern [algorithmic trading](../a/algorithmic_trading.md) increasingly relies on machine learning models that ingest massive amounts of data, including [correlation](../c/correlation.md) matrices, to generate predictive signals. By understanding and incorporating correlations, these models can improve their predictive accuracy and robustness.
+Modern [algorithmic trading](../a/algorithmic_trading.md) increasingly relies on [machine learning](../m/machine_learning.md) models that ingest massive amounts of data, including [correlation](../c/correlation.md) matrices, to generate predictive signals. By understanding and incorporating correlations, these models can improve their predictive accuracy and robustness.
 
 ## Real-World Examples
 

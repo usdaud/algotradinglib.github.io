@@ -47,7 +47,7 @@ HFT systems use algorithms to execute trades at incredibly high speeds, often in
 #### Example: [MetaTrader 5](https://www.metatrader5.com/en)
 
 ### 3. **Advanced Data Analytics**
-[Data analytics](../d/data_analytics.md) tools utilize sophisticated algorithms and machine learning techniques to analyze historical and [real-time market data](../r/real-time_market_data.md). These tools help traders identify patterns, predict price movements, and optimize [trading strategies](../t/trading_strategies.md) with greater accuracy.
+[Data analytics](../d/data_analytics.md) tools utilize sophisticated algorithms and [machine learning](../m/machine_learning.md) techniques to analyze historical and [real-time market data](../r/real-time_market_data.md). These tools help traders identify patterns, predict price movements, and optimize [trading strategies](../t/trading_strategies.md) with greater accuracy.
 
 #### Example: [Kensho](https://www.spglobal.com/en/what-we-do/brands/kensho)
 

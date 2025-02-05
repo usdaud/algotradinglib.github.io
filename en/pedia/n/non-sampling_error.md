@@ -104,7 +104,7 @@ Regular data validation is crucial for ensuring data quality. Techniques such as
 
 ### Algorithmic Checks
 
-Implement failsafes within [trading algorithms](../t/trading_algorithms.md) to catch and correct errors in real-time. Using machine learning techniques to identify anomalous patterns in data can help in flagging potential errors.
+Implement failsafes within [trading algorithms](../t/trading_algorithms.md) to catch and correct errors in real-time. Using [machine learning](../m/machine_learning.md) techniques to identify anomalous patterns in data can help in flagging potential errors.
 
 ### Comprehensive Data Collection
 

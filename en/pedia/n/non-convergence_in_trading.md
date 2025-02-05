@@ -10,7 +10,7 @@ Non-convergence frequently occurs due to algorithmic traps, where an algorithm m
 
 #### Example: Machine Learning Models
 
-In machine learning, models like [neural networks](../n/neural_networks_in_trading.md) or [support vector machines](../s/support_vector_machines_in_trading.md) might show excellent [backtesting](../b/backtesting.md) results but diverge significantly in live trading. This [divergence](../d/divergence.md) highlights the non-stationary nature of [financial markets](../f/financial_market.md), where past patterns do not always predict future outcomes.
+In [machine learning](../m/machine_learning.md), models like [neural networks](../n/neural_networks_in_trading.md) or [support vector machines](../s/support_vector_machines_in_trading.md) might show excellent [backtesting](../b/backtesting.md) results but diverge significantly in live trading. This [divergence](../d/divergence.md) highlights the non-stationary nature of [financial markets](../f/financial_market.md), where past patterns do not always predict future outcomes.
 
 ### 2. Market Microstructure Noise
 
@@ -60,7 +60,7 @@ Rigorous model validation practices, including [out-of-sample testing](../o/out-
 
 ### 2. Adaptive Algorithms
 
-Developing [adaptive algorithms](../a/adaptive_algorithms.md) that dynamically adjust their parameters based on current [market](../m/market.md) conditions can mitigate non-convergences. Techniques such as reinforcement learning allow algorithms to learn and adapt from real-time feedback.
+Developing [adaptive algorithms](../a/adaptive_algorithms.md) that dynamically adjust their parameters based on current [market](../m/market.md) conditions can mitigate non-convergences. Techniques such as [reinforcement learning](../r/reinforcement_learning.md) allow algorithms to learn and adapt from real-time feedback.
 
 ### 3. Diversification
 

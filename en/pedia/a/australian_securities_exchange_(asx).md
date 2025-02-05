@@ -90,7 +90,7 @@ ASX has been at the forefront of integrating [blockchain](../b/blockchain_in_tra
 
 ### Artificial Intelligence and Machine Learning
 
-AI and machine learning are increasingly being integrated into [trading algorithms](../t/trading_algorithms.md) to enhance [predictive analytics](../p/predictive_analytics.md) and decision-making capabilities. These technologies enable more sophisticated algortrading strategies, potentially yielding higher returns.
+AI and [machine learning](../m/machine_learning.md) are increasingly being integrated into [trading algorithms](../t/trading_algorithms.md) to enhance [predictive analytics](../p/predictive_analytics.md) and decision-making capabilities. These technologies enable more sophisticated algortrading strategies, potentially yielding higher returns.
 
 ### ESG (Environmental, Social, and Governance) Investing
 

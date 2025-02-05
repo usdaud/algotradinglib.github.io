@@ -12,7 +12,7 @@ Compression Techniques in AI involve methods to reduce the size and complexity o
 ### Applications
 - **Model Deployment:** Enabling large models to run on mobile and edge devices.
 - **Inference Acceleration:** Speeding up real-time predictions in production environments.
-- **Cloud Efficiency:** Reducing the cost and energy consumption of data centers.
+- **Cloud [Efficiency](../e/efficiency.md):** Reducing the cost and energy consumption of data centers.
 - **Data Transmission:** Facilitating faster model updates and lower bandwidth requirements.
 
 ### Advantages
@@ -21,9 +21,9 @@ Compression Techniques in AI involve methods to reduce the size and complexity o
 - Lower energy consumption and operational costs.
 
 ### Challenges
-- Risk of significant accuracy loss if compression is too severe.
+- [Risk](../r/risk.md) of significant accuracy loss if compression is too severe.
 - The need to balance compression ratio with model performance.
 - Complexities in automating optimal compression strategies.
 
 ### Future Outlook
-Research will continue to enhance compression algorithms, aiming for techniques that allow massive models to be efficiently deployed on a variety of devices without sacrificing performance.
+Research [will](../w/will.md) continue to enhance compression algorithms, aiming for techniques that allow massive models to be efficiently deployed on a variety of devices without sacrificing performance.

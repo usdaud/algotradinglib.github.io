@@ -77,7 +77,7 @@ With advancements in technology, digital [Order](../o/order.md) Paper management
 
 ### Artificial Intelligence and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are making significant inroads into [Order](../o/order.md) Paper management. AI can be used to predict [market](../m/market.md) trends based on historical [Order](../o/order.md) Paper data, while ML algorithms can optimize [trading strategies](../t/trading_strategies.md) by learning from past performance.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are making significant inroads into [Order](../o/order.md) Paper management. AI can be used to predict [market](../m/market.md) trends based on historical [Order](../o/order.md) Paper data, while ML algorithms can optimize [trading strategies](../t/trading_strategies.md) by learning from past performance.
 
 ### Smart Contracts
 

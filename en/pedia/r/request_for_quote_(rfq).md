@@ -40,10 +40,10 @@ These platforms [offer](../o/offer.md) several benefits:
 
 #### AI and Machine Learning in RFQs
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are also making significant impacts on the RFQ process. These technologies can process vast amounts of data quickly and accurately, [offering](../o/offering.md) predictive insights that help buyers make more informed decisions.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are also making significant impacts on the RFQ process. These technologies can process vast amounts of data quickly and accurately, [offering](../o/offering.md) predictive insights that help buyers make more informed decisions.
 
 - **Predictive Pricing:** AI algorithms can predict future pricing trends based on historical data, helping firms time their RFQs more strategically.
-- **Supplier Scoring:** Machine learning models can assess and score supplier reliability and performance, aiding in the selection of the best suppliers.
+- **Supplier Scoring:** [Machine learning](../m/machine_learning.md) models can assess and score supplier reliability and performance, aiding in the selection of the best suppliers.
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP):** NLP can be used to analyze the responses to RFQs, automatically extracting relevant information and flagging potential issues or outstanding terms.
 
 ### Case Studies

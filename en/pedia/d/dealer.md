@@ -43,7 +43,7 @@ Several prominent financial institutions and technology firms are leaders in the
 [Virtu Financial](https://www.virtu.com/) combines technology and [market](../m/market.md) expertise to deliver [liquidity](../l/liquidity.md) across [financial markets](../f/financial_market.md). As a global [market maker](../m/market_maker.md), Virtu utilizes algorithms to ensure tight [spreads](../s/spreads.md) and efficient [trade](../t/trade.md) [execution](../e/execution.md).
 
 ### XTX Markets
-[XTX Markets](https://www.xtxmarkets.com/) is a leading [algorithmic trading](../a/accountability.md) [firm](../f/firm.md) focused on providing [liquidity](../l/liquidity.md) in the [foreign exchange](../f/foreign_exchange.md), equities, [fixed income](../f/fixed_income.md), and [commodity](../c/commodity.md) markets. Their [trading strategies](../t/trading_strategies.md) are powered by sophisticated algorithms and machine learning techniques.
+[XTX Markets](https://www.xtxmarkets.com/) is a leading [algorithmic trading](../a/accountability.md) [firm](../f/firm.md) focused on providing [liquidity](../l/liquidity.md) in the [foreign exchange](../f/foreign_exchange.md), equities, [fixed income](../f/fixed_income.md), and [commodity](../c/commodity.md) markets. Their [trading strategies](../t/trading_strategies.md) are powered by sophisticated algorithms and [machine learning](../m/machine_learning.md) techniques.
 
 ## Regulatory Environment
 

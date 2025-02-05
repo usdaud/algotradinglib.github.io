@@ -30,7 +30,7 @@ In the fields of trading and [finance](../f/finance.md), technical job skills ar
 
 - **Statistical Techniques**: [Regression analysis](../r/regression_analysis.md), [hypothesis testing](../h/hypothesis_testing.md), and [time series analysis](../t/time_series_analysis.md).
 - **Programming Languages**: Proficiency in languages like Python, R, and MATLAB for data manipulation and modeling.
-- **[Data Mining](../d/data_mining.md)**: Extracting patterns from large datasets using algorithms and machine learning.
+- **[Data Mining](../d/data_mining.md)**: Extracting patterns from large datasets using algorithms and [machine learning](../m/machine_learning.md).
 
 ## Algorithmic Trading
 
@@ -61,7 +61,7 @@ In the fields of trading and [finance](../f/finance.md), technical job skills ar
 Fintech combines [finance](../f/finance.md) with technology to improve financial services. Essential skills include:
 
 - **[Blockchain](../b/blockchain_in_trading.md) Technology**: Understanding [blockchain](../b/blockchain_in_trading.md) architecture, [smart contracts](../s/smart_contracts_in_trading.md), and cryptocurrencies.
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: Using AI and machine learning for [predictive analytics](../p/predictive_analytics.md) and automated decision-making.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: Using AI and [machine learning](../m/machine_learning.md) for [predictive analytics](../p/predictive_analytics.md) and automated decision-making.
 - **Cybersecurity**: Protecting financial data and systems from cyber threats.
 
 ## Trading Platforms

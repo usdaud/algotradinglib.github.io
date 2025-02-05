@@ -82,7 +82,7 @@ The quality and availability of historical data heavily influence the effectiven
 
 ### Machine Learning
 
-Machine learning techniques are emerging as powerful tools for enhancing MPAA strategies. By analyzing vast amounts of data and identifying patterns, machine learning models can improve the accuracy of [return](../r/return.md) forecasts, [risk](../r/risk.md) assessments, and scenario analyses.
+[Machine learning](../m/machine_learning.md) techniques are emerging as powerful tools for enhancing MPAA strategies. By analyzing vast amounts of data and identifying patterns, [machine learning](../m/machine_learning.md) models can improve the accuracy of [return](../r/return.md) forecasts, [risk](../r/risk.md) assessments, and scenario analyses.
 
 ### Real-Time Data Integration
 

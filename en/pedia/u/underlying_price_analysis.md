@@ -36,7 +36,7 @@ The `[underlying asset](../u/underlying_asset.md)` is the [financial asset](../f
 
 1. **Algorithmic Models**: Using algorithms to identify profitable trading opportunities.
 2. **Statistical Approaches**: [Regression analysis](../r/regression_analysis.md), time-series analysis.
-3. **Machine Learning**: Using AI and machine learning models to predict price movements.
+3. **[Machine Learning](../m/machine_learning.md)**: Using AI and [machine learning](../m/machine_learning.md) models to predict price movements.
 
 ### Sentiment Analysis
 [Sentiment analysis](../s/sentiment_analysis.md) gauges the mood or attitude of the [market](../m/market.md) participants.
@@ -79,7 +79,7 @@ The analysis of GameStop’s stock price movements revealed the power of [social
 ## Emerging Trends
 
 ### AI and Machine Learning
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning are becoming increasingly prevalent in analyzing [underlying](../u/underlying.md) prices and making [predictive models](../p/predictive_models_in_trading.md) more accurate.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) are becoming increasingly prevalent in analyzing [underlying](../u/underlying.md) prices and making [predictive models](../p/predictive_models_in_trading.md) more accurate.
 
 ### Big Data Analytics
 The use of [big data](../b/big_data_in_trading.md) enables the processing of large datasets to derive actionable insights and improve [trading algorithms](../t/trading_algorithms.md).

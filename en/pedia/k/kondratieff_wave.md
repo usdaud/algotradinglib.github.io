@@ -45,7 +45,7 @@ One of the areas where understanding [Kondratieff Waves](../k/kondratieff_waves.
 
 ### Backtesting Strategies
 
-[Algorithmic trading](../a/accountability.md) (algotrading) systems can be designed to backtest historical data based on Kondratieff Wave phases. By examining past [economic cycles](../e/economic_cycles.md), traders can refine their strategies to anticipate [market](../m/market.md) shifts better. This could involve machine learning models trained on a combination of [economic indicators](../e/economic_indicators.md), historical [asset](../a/asset.md) prices, and known phase transitions.
+[Algorithmic trading](../a/accountability.md) (algotrading) systems can be designed to backtest historical data based on Kondratieff Wave phases. By examining past [economic cycles](../e/economic_cycles.md), traders can refine their strategies to anticipate [market](../m/market.md) shifts better. This could involve [machine learning](../m/machine_learning.md) models trained on a combination of [economic indicators](../e/economic_indicators.md), historical [asset](../a/asset.md) prices, and known phase transitions.
 
 ### Risk Management
 

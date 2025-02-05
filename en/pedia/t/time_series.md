@@ -41,7 +41,7 @@ Statistical methods for [time series analysis](../t/time_series_analysis.md) exp
 
 ### Machine Learning Methods
 
-Machine Learning (ML) methods have revolutionized [time series analysis](../t/time_series_analysis.md), providing sophisticated approaches for [pattern recognition](../p/pattern_recognition.md):
+[Machine Learning](../m/machine_learning.md) (ML) methods have revolutionized [time series analysis](../t/time_series_analysis.md), providing sophisticated approaches for [pattern recognition](../p/pattern_recognition.md):
 - **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs)**: Designed for sequential data analysis.
 - **Long Short-Term Memory (LSTM)**: A specialized RNN for capturing long-term dependencies.
 - **Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs)**: Effective in identifying local patterns through convolutional layers.
@@ -103,7 +103,7 @@ Dealing with high-dimensional data requires [dimensionality reduction](../d/dime
 ## Tools and Libraries
 
 Several [software tools](../s/software_tools_for_trading.md) and libraries are invaluable for [time series analysis](../t/time_series_analysis.md):
-- **Python Libraries**: `pandas`, `statsmodels`, `sklearn`, `pmdarima`, `prophet`, `tensorflow`
+- **Python Libraries**: `pandas`, `statsmodels`, `sklearn`, `pmdarima`, `prophet`, `[tensorflow](../t/tensorflow.md)`
 - **R Packages**: `forecast`, `tsibble`, `fable`, `prophet`
 - **Matlab Toolboxes**: `[Econometrics](../e/econometrics_in_trading.md) Toolbox`, `Time Series Toolbox`
 

@@ -133,13 +133,13 @@ plt.show()
 ## Companies Utilizing Kalman Filter
 
 ### Numerai
-Numerai (https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) that applies [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, including techniques like the [Kalman Filter](../k/kalman_filter_in_trading.md), to develop [trading models](../t/trading_models.md). They [leverage](../l/leverage.md) collective intelligence from data scientists worldwide to generate highly [predictive models](../p/predictive_models_in_trading.md).
+Numerai (https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) that applies [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), including techniques like the [Kalman Filter](../k/kalman_filter_in_trading.md), to develop [trading models](../t/trading_models.md). They [leverage](../l/leverage.md) collective intelligence from data scientists worldwide to generate highly [predictive models](../p/predictive_models_in_trading.md).
 
 ### Hudson River Trading (HRT)
-Hudson River Trading (https://www.hudsonrivertrading.com/) is a high-frequency trading [firm](../f/firm.md) that uses sophisticated algorithms and machine learning techniques, including the [Kalman Filter](../k/kalman_filter_in_trading.md), to analyze [market](../m/market.md) data and execute trades in microseconds.
+Hudson River Trading (https://www.hudsonrivertrading.com/) is a high-frequency trading [firm](../f/firm.md) that uses sophisticated algorithms and [machine learning](../m/machine_learning.md) techniques, including the [Kalman Filter](../k/kalman_filter_in_trading.md), to analyze [market](../m/market.md) data and execute trades in microseconds.
 
 ### Two Sigma
-Two Sigma (https://www.twosigma.com/) employs statistical models and machine learning, including methods like the [Kalman Filter](../k/kalman_filter_in_trading.md), to identify [market](../m/market.md) inefficiencies and inform their investment strategies.
+Two Sigma (https://www.twosigma.com/) employs statistical models and [machine learning](../m/machine_learning.md), including methods like the [Kalman Filter](../k/kalman_filter_in_trading.md), to identify [market](../m/market.md) inefficiencies and inform their investment strategies.
 
 ## Advantages and Limitations
 

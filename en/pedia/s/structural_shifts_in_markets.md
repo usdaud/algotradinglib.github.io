@@ -16,9 +16,9 @@ With the rise of digital trading platforms, [market](../m/market.md) access has 
 
 High-frequency trading, which involves the use of complex algorithms to execute trades at incredibly high speeds, has also shifted [market](../m/market.md) structures. Firms like Virtu Financial (https://www.virtu.com/) use HFT strategies to take advantage of price disparities and [liquidity](../l/liquidity.md) imbalances in milliseconds. While HFT can provide [liquidity](../l/liquidity.md), it can also lead to [market](../m/market.md) instability, as seen during the Flash Crash of 2010.
 
-**3. [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning**
+**3. [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md)**
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and machine learning have enabled traders to analyze massive datasets and execute strategies that were previously impossible. [Hedge](../h/hedge.md) funds such as Renaissance Technologies (https://www.rentec.com/) employ AI to uncover patterns and make [predictive models](../p/predictive_models_in_trading.md), fundamentally changing how [trading strategies](../t/trading_strategies.md) are developed and executed.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) have enabled traders to analyze massive datasets and execute strategies that were previously impossible. [Hedge](../h/hedge.md) funds such as Renaissance Technologies (https://www.rentec.com/) employ AI to uncover patterns and make [predictive models](../p/predictive_models_in_trading.md), fundamentally changing how [trading strategies](../t/trading_strategies.md) are developed and executed.
 
 **Regulatory Changes**
 
@@ -66,7 +66,7 @@ For retail investors, increased access to markets and information has democratiz
 
 **2. Institutional Investors**
 
-Institutional investors have had to adapt to the new landscape by leveraging technology and adopting more sophisticated strategies. [Hedge](../h/hedge.md) funds and [asset](../a/asset.md) managers are increasingly using AI and machine learning to maintain a competitive edge. [Risk management](../r/risk_management.md) has also become more complex due to the interconnected nature of global markets.
+Institutional investors have had to adapt to the new landscape by leveraging technology and adopting more sophisticated strategies. [Hedge](../h/hedge.md) funds and [asset](../a/asset.md) managers are increasingly using AI and [machine learning](../m/machine_learning.md) to maintain a competitive edge. [Risk management](../r/risk_management.md) has also become more complex due to the interconnected nature of global markets.
 
 **3. [Market](../m/market.md) Makers**
 

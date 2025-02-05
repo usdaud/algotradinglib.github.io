@@ -91,7 +91,7 @@ Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedastic
 
 ### Machine Learning Techniques
 
-Recent advances in machine learning [offer](../o/offer.md) new ways to estimate and model tail dependence. Techniques such as [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md) can be trained to identify complex dependencies in financial data, providing more accurate and dynamic estimates of [joint](../j/joint.md) tail dependence.
+Recent advances in [machine learning](../m/machine_learning.md) [offer](../o/offer.md) new ways to estimate and model tail dependence. Techniques such as [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md) can be trained to identify complex dependencies in financial data, providing more accurate and dynamic estimates of [joint](../j/joint.md) tail dependence.
 
 ## Regulatory Considerations
 

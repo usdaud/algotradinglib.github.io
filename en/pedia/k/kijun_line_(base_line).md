@@ -68,10 +68,10 @@ The Kijun Line can be combined with other [trend](../t/trend.md)-following indic
 
 ### Integration with Machine Learning Models
 
-[Algorithmic trading](../a/accountability.md) systems increasingly [leverage](../l/leverage.md) machine learning to enhance prediction models. The Kijun Line can be a valuable input feature for training machine learning models:
+[Algorithmic trading](../a/accountability.md) systems increasingly [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) to enhance prediction models. The Kijun Line can be a valuable input feature for training [machine learning](../m/machine_learning.md) models:
 
 - **Feature Engineering**: Features such as the slope of the Kijun Line, the distance of the price from the Kijun Line, and historical crossover events can be used to train models for predicting future price movements.
-- **Supervised Learning**: By using historical data of Kijun Line interactions, supervised learning models can be trained to identify patterns and predict [breakout](../b/breakout.md) or [reversal](../r/reversal.md) points.
+- **[Supervised Learning](../s/supervised_learning.md)**: By using historical data of Kijun Line interactions, [supervised learning](../s/supervised_learning.md) models can be trained to identify patterns and predict [breakout](../b/breakout.md) or [reversal](../r/reversal.md) points.
 
 ## Practical Considerations and Limitations
 

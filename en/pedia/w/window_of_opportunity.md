@@ -62,7 +62,7 @@ Algorithms can be designed to detect and exploit windows of opportunity with hig
 
 AI models can analyze vast amounts of data in real-time to predict windows of opportunity. 
 
-1. **[Predictive Analytics](../p/predictive_analytics.md)**: Machine learning models can predict [market](../m/market.md) movements based on historical data and real-time inputs.
+1. **[Predictive Analytics](../p/predictive_analytics.md)**: [Machine learning](../m/machine_learning.md) models can predict [market](../m/market.md) movements based on historical data and real-time inputs.
    
 2. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: NLP algorithms can analyze news articles, [social media](../s/social_media.md), and other text data to gauge [market sentiment](../m/market_sentiment.md).
 

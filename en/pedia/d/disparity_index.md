@@ -95,11 +95,11 @@ MetaTrader platforms [offer](../o/offer.md) built-in indicators for the Disparit
 
 ## Research and Development
 
-Ongoing research and development in the field of [algorithmic trading](../a/algorithmic_trading.md) continue to enhance the [utility](../u/utility.md) of the Disparity [Index](../i/index_instrument.md). Machine learning models are increasingly being employed to refine the application of the Disparity [Index](../i/index_instrument.md):
+Ongoing research and development in the field of [algorithmic trading](../a/algorithmic_trading.md) continue to enhance the [utility](../u/utility.md) of the Disparity [Index](../i/index_instrument.md). [Machine learning](../m/machine_learning.md) models are increasingly being employed to refine the application of the Disparity [Index](../i/index_instrument.md):
 
 ### Machine Learning
 
-1. **[Predictive Models](../p/predictive_models_in_trading.md)**: Machine learning models such as [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md) can use historical data to predict future price movements based on the Disparity [Index](../i/index_instrument.md) values.
+1. **[Predictive Models](../p/predictive_models_in_trading.md)**: [Machine learning](../m/machine_learning.md) models such as [neural networks](../n/neural_networks_in_trading.md) and [decision trees](../d/decision_trees.md) can use historical data to predict future price movements based on the Disparity [Index](../i/index_instrument.md) values.
 2. **[Optimization](../o/optimization.md)**: [Genetic algorithms](../g/genetic_algorithms_in_trading.md) and other [optimization](../o/optimization.md) techniques help in fine-tuning the parameters (like the length of the moving average) to improve the reliability of the Disparity [Index](../i/index_instrument.md).
 
 ### Case Studies

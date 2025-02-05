@@ -98,7 +98,7 @@ Large financial institutions and [hedge](../h/hedge.md) funds utilize advanced [
 
 ### Machine Learning Integration
 
-Machine learning techniques can be integrated with traditional [technical analysis](../t/technical_analysis.md) to enhance the predictive accuracy of patterns like the Spinning Top. By training models on extensive historical data, these systems can learn to recognize subtle nuances in [candlestick patterns](../c/candlestick_patterns.md) and improve trading outcomes.
+[Machine learning](../m/machine_learning.md) techniques can be integrated with traditional [technical analysis](../t/technical_analysis.md) to enhance the predictive accuracy of patterns like the Spinning Top. By training models on extensive historical data, these systems can learn to recognize subtle nuances in [candlestick patterns](../c/candlestick_patterns.md) and improve trading outcomes.
 
 #### Example Methodology
 

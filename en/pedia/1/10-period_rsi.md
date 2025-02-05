@@ -68,11 +68,11 @@ print(df)
 
 ### Utilizing Machine Learning
 
-Machine learning can enhance RSI-based strategies by:
+[Machine learning](../m/machine_learning.md) can enhance RSI-based strategies by:
 - **Predictive Modelling**: Using historical RSI values and price actions to predict future price movements.
 - **Classification**: Identifying [market](../m/market.md) conditions suitable for trading, e.g., [overbought](../o/overbought.md)/[oversold](../o/oversold.md) status.
 
-Machine learning frameworks like TensorFlow, PyTorch, and Scikit-learn can be used to develop sophisticated models enhancing the decision-making process s of [algorithmic trading](../a/algorithmic_trading.md) systems.
+[Machine learning](../m/machine_learning.md) frameworks like [TensorFlow](../t/tensorflow.md), [PyTorch](../p/pytorch.md), and Scikit-learn can be used to develop sophisticated models enhancing the decision-making process s of [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 ## Case Studies
 
@@ -88,4 +88,4 @@ Several academic papers and articles have explored the [optimization](../o/optim
 
 ## Conclusion
 
-The 10-period RSI is a powerful tool for traders seeking to [capitalize](../c/capitalize.md) on short-term price movements. Its higher sensitivity compared to longer-period RSIs makes it particularly suitable for active traders and [algorithmic trading](../a/algorithmic_trading.md) applications. Coupled with modern programming and machine learning technologies, it offers a [robust](../r/robust.md) framework for developing sophisticated [trading strategies](../t/trading_strategies.md).
+The 10-period RSI is a powerful tool for traders seeking to [capitalize](../c/capitalize.md) on short-term price movements. Its higher sensitivity compared to longer-period RSIs makes it particularly suitable for active traders and [algorithmic trading](../a/algorithmic_trading.md) applications. Coupled with modern programming and [machine learning](../m/machine_learning.md) technologies, it offers a [robust](../r/robust.md) framework for developing sophisticated [trading strategies](../t/trading_strategies.md).

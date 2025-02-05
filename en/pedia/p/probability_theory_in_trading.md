@@ -62,7 +62,7 @@ Renaissance Technologies is known for its [quantitative research](../q/quantitat
 - [Renaissance Technologies](https://www.rentec.com)
 
 #### Two Sigma
-Two Sigma applies AI and machine learning, founded on probability theory, to develop investment strategies.
+Two Sigma applies AI and [machine learning](../m/machine_learning.md), founded on probability theory, to develop investment strategies.
 - [Two Sigma](https://www.twosigma.com)
 
 #### DE Shaw & Co.

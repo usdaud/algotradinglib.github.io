@@ -2,13 +2,13 @@
 
 ## Introduction to Data Science in Trading
 
-Data science in trading involves using complex algorithms, statistical methods, and machine learning to analyze and interpret vast amounts of financial data. It aims to uncover patterns, make predictions, and automate trading processes to increase [efficiency](../e/efficiency.md) and profitability. Financial institutions and individual traders use data science techniques to [gain](../g/gain.md) a competitive edge in the highly dynamic [financial markets](../f/financial_market.md).
+Data science in trading involves using complex algorithms, statistical methods, and [machine learning](../m/machine_learning.md) to analyze and interpret vast amounts of financial data. It aims to uncover patterns, make predictions, and automate trading processes to increase [efficiency](../e/efficiency.md) and profitability. Financial institutions and individual traders use data science techniques to [gain](../g/gain.md) a competitive edge in the highly dynamic [financial markets](../f/financial_market.md).
 
 ## Key Concepts in Data Science for Trading
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, uses computer algorithms to execute trades at high speed and [volume](../v/volume.md). These algorithms make decisions based on predefined criteria such as price, timing, and [volume](../v/volume.md), minimizing human intervention. Data science enhances these algorithms by incorporating machine learning models that can adapt to changing [market](../m/market.md) conditions.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, uses computer algorithms to execute trades at high speed and [volume](../v/volume.md). These algorithms make decisions based on predefined criteria such as price, timing, and [volume](../v/volume.md), minimizing human intervention. Data science enhances these algorithms by incorporating [machine learning](../m/machine_learning.md) models that can adapt to changing [market](../m/market.md) conditions.
 
 ### Predictive Analytics
 
@@ -16,11 +16,11 @@ Data science in trading involves using complex algorithms, statistical methods, 
 
 ### Machine Learning
 
-Machine learning (ML) plays a crucial role in trading by enabling models to learn from previous data without being explicitly programmed. Some common ML methods in trading include:
+[Machine learning](../m/machine_learning.md) (ML) plays a crucial role in trading by enabling models to learn from previous data without being explicitly programmed. Some common ML methods in trading include:
 
-- **Supervised Learning:** These algorithms are trained on labeled data (historical data with known outcomes) to predict future events.
-- **Unsupervised Learning:** These algorithms identify hidden patterns and relationships in unlabeled data.
-- **Reinforcement Learning:** These algorithms learn to make decisions by receiving rewards or penalties for actions taken, optimizing over time.
+- **[Supervised Learning](../s/supervised_learning.md):** These algorithms are trained on labeled data (historical data with known outcomes) to predict future events.
+- **[Unsupervised Learning](../u/unsupervised_learning.md):** These algorithms identify hidden patterns and relationships in unlabeled data.
+- **[Reinforcement Learning](../r/reinforcement_learning.md):** These algorithms learn to make decisions by receiving rewards or penalties for actions taken, optimizing over time.
 
 ### Natural Language Processing (NLP)
 
@@ -36,7 +36,7 @@ Machine learning (ML) plays a crucial role in trading by enabling models to lear
 
 Several programming languages are popular in the domain:
 
-- **Python:** Widely used due to its easy syntax and extensive libraries such as Pandas, NumPy, Scikit-Learn, and TensorFlow.
+- **Python:** Widely used due to its easy syntax and extensive libraries such as Pandas, NumPy, Scikit-Learn, and [TensorFlow](../t/tensorflow.md).
 - **R:** Preferred for statistical analysis and visualization.
 - **C++:** Known for high performance, often used in high-frequency [trading systems](../t/trading_systems.md).
 
@@ -44,8 +44,8 @@ Several programming languages are popular in the domain:
 
 - **Pandas:** For data manipulation and analysis.
 - **NumPy:** For numerical computations.
-- **Scikit-Learn:** For machine learning.
-- **TensorFlow and PyTorch:** For [deep learning](../d/deep_learning.md).
+- **Scikit-Learn:** For [machine learning](../m/machine_learning.md).
+- **[TensorFlow](../t/tensorflow.md) and [PyTorch](../p/pytorch.md):** For [deep learning](../d/deep_learning.md).
 - **NLTK and SpaCy:** For [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md).
 
 ### Data Visualization Tools
@@ -79,11 +79,11 @@ Data science assists in [risk management](../r/risk_management.md) by quantifyin
 
 ### Portfolio Management 
 
-Advanced [data analytics](../d/data_analytics.md) optimize [portfolio management](../p/portfolio_management.md) by balancing [risk](../r/risk.md) and [return](../r/return.md). Machine learning models can identify the best [asset allocation](../a/asset_allocation.md), rebalance portfolios in response to [market](../m/market.md) changes, and assess the performance of investment strategies.
+Advanced [data analytics](../d/data_analytics.md) optimize [portfolio management](../p/portfolio_management.md) by balancing [risk](../r/risk.md) and [return](../r/return.md). [Machine learning](../m/machine_learning.md) models can identify the best [asset allocation](../a/asset_allocation.md), rebalance portfolios in response to [market](../m/market.md) changes, and assess the performance of investment strategies.
 
 ### Fraud Detection
 
-Data science techniques help detect fraudulent activities in trading by identifying unusual patterns and behaviors. Machine learning models can analyze [transaction](../t/transaction.md) histories to flag anomalies that may indicate [fraud](../f/fraud.md).
+Data science techniques help detect fraudulent activities in trading by identifying unusual patterns and behaviors. [Machine learning](../m/machine_learning.md) models can analyze [transaction](../t/transaction.md) histories to flag anomalies that may indicate [fraud](../f/fraud.md).
 
 ## Ethical Considerations and Challenges
 
@@ -119,6 +119,6 @@ Data science has profoundly impacted trading, bringing advancements in [efficien
 
 For more information on companies specializing in data science for trading, refer to their official websites:
 
-- [Numerai](https://numer.ai/): A [hedge fund](../h/hedge_fund.md) that crowdsources data science and machine learning to create [stock market](../s/stock_market.md) predictions.
-- [Kensho Technologies](https://www.kensho.com/): Develops [data analytics](../d/data_analytics.md) and machine learning solutions for [financial markets](../f/financial_market.md).
+- [Numerai](https://numer.ai/): A [hedge fund](../h/hedge_fund.md) that crowdsources data science and [machine learning](../m/machine_learning.md) to create [stock market](../s/stock_market.md) predictions.
+- [Kensho Technologies](https://www.kensho.com/): Develops [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) solutions for [financial markets](../f/financial_market.md).
 - [QuantConnect](https://www.quantconnect.com/): An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that integrates data science and [cloud computing](../c/cloud_computing_in_trading.md).

@@ -61,7 +61,7 @@ With the rise of [algorithmic trading](../a/accountability.md), the type of data
 
 ## Future Prospects
 
-As the financial [industry](../i/industry.md) continues to evolve, the role of traditional publications like Yellow Sheets [will](../w/will.md) further diminish in favor of advanced digital platforms. The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) [will](../w/will.md) likely revolutionize how [market](../m/market.md) data is collected, analyzed, and disseminated.
+As the financial [industry](../i/industry.md) continues to evolve, the role of traditional publications like Yellow Sheets [will](../w/will.md) further diminish in favor of advanced digital platforms. The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) [will](../w/will.md) likely revolutionize how [market](../m/market.md) data is collected, analyzed, and disseminated.
 
 However, the fundamental purpose of Yellow Sheets—providing [transparency](../t/transparency.md) and reliability in less-[liquid](../l/liquid.md) markets—[will](../w/will.md) remain crucial. Future advancements may include:
 

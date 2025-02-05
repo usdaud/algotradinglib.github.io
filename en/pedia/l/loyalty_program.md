@@ -108,7 +108,7 @@ Sephora's Beauty Insider program is a points-based system that allows customers 
 
 ## Future Trends in Loyalty Programs
 
-1. **Personalization:** Advances in AI and machine learning [will](../w/will.md) enable even more personalized and targeted loyalty programs.
+1. **Personalization:** Advances in AI and [machine learning](../m/machine_learning.md) [will](../w/will.md) enable even more personalized and targeted loyalty programs.
 
 2. **Omni-Channel Integration:** Loyalty programs [will](../w/will.md) increasingly span [multiple](../m/multiple.md) channels, providing a seamless experience whether customers shop online, in-store, or via mobile apps.
 

@@ -42,7 +42,7 @@ Historical [market](../m/market.md) data is crucial for [backtesting](../b/backt
 
 ### Computational Models
 
-Advanced computational models, including machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are increasingly used to develop and refine trading rules. These models can analyze vast amounts of data to identify complex patterns and optimize [trading strategies](../t/trading_strategies.md).
+Advanced computational models, including [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are increasingly used to develop and refine trading rules. These models can analyze vast amounts of data to identify complex patterns and optimize [trading strategies](../t/trading_strategies.md).
 
 ## Implementation of Trading Rules
 

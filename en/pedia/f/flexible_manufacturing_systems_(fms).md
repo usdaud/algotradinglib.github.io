@@ -69,7 +69,7 @@ The medical device [industry](../i/industry.md) benefits from FMS by producing a
 ## Future Trends and Innovations in FMS
 
 ### Integration of Artificial Intelligence (AI) and Machine Learning
-Future advancements in FMS [will](../w/will.md) likely involve the integration of AI and machine learning technologies. These innovations can enhance predictive maintenance, optimize production schedules in real-time, and further improve decision-making processes within the system.
+Future advancements in FMS [will](../w/will.md) likely involve the integration of AI and [machine learning](../m/machine_learning.md) technologies. These innovations can enhance predictive maintenance, optimize production schedules in real-time, and further improve decision-making processes within the system.
 
 ### Advanced Robotics
 The use of advanced robotics, including collaborative robots (cobots) that can work alongside human operators, [will](../w/will.md) continue to enhance the flexibility and [efficiency](../e/efficiency.md) of FMS. These robots can perform complex tasks with greater accuracy and speed, contributing to overall [productivity](../p/productivity.md).

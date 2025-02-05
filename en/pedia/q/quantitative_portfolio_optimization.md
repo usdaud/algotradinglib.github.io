@@ -67,7 +67,7 @@ Quadratic programming is used extensively in [portfolio optimization](../p/portf
 [Monte Carlo Simulation](../m/monte_carlo_simulation.md) involves running numerous scenarios to understand the potential [variability](../v/variability.md) of portfolio returns and to optimize [asset](../a/asset.md) weights accordingly.
 
 ### Machine Learning
-Machine learning techniques are increasingly being applied to [portfolio optimization](../p/portfolio_optimization.md). Techniques like reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and clustering are used to make better predictions of returns and [risk](../r/risk.md).
+[Machine learning](../m/machine_learning.md) techniques are increasingly being applied to [portfolio optimization](../p/portfolio_optimization.md). Techniques like [reinforcement learning](../r/reinforcement_learning.md), [neural networks](../n/neural_networks_in_trading.md), and clustering are used to make better predictions of returns and [risk](../r/risk.md).
 
 ## Applications
 

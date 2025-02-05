@@ -66,7 +66,7 @@ Fintech companies [leverage](../l/leverage.md) technology to [offer](../o/offer.
 
 ## Future Trends
 
-1. **AI and Machine Learning**: As AI and machine learning technologies evolve, they can further refine the recognition and management of unearned [interest](../i/interest.md). [Predictive models](../p/predictive_models_in_trading.md) can enhance accuracy and reduce delays in [interest](../i/interest.md) [income](../i/income.md) recognition.
+1. **AI and [Machine Learning](../m/machine_learning.md)**: As AI and [machine learning](../m/machine_learning.md) technologies evolve, they can further refine the recognition and management of unearned [interest](../i/interest.md). [Predictive models](../p/predictive_models_in_trading.md) can enhance accuracy and reduce delays in [interest](../i/interest.md) [income](../i/income.md) recognition.
 
 2. **[Blockchain](../b/blockchain_in_trading.md) Technology**: [Blockchain](../b/blockchain_in_trading.md) can provide a transparent and immutable ledger for tracking unearned [interest](../i/interest.md), [offering](../o/offering.md) real-time [visibility](../v/visibility.md) into financial transactions and enhancing compliance.
 

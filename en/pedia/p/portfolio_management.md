@@ -94,7 +94,7 @@ Smart [Order Routing](../o/order_routing.md) algorithms optimize [trade](../t/tr
 
 ### Machine Learning and AI
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) enhance portfolio management by identifying complex patterns and making smarter, data-driven decisions. Algorithms continuously learn and adapt to [market](../m/market.md) changes, improving performance over time.
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) enhance portfolio management by identifying complex patterns and making smarter, data-driven decisions. Algorithms continuously learn and adapt to [market](../m/market.md) changes, improving performance over time.
 
 ### Big Data Analytics
 
@@ -124,7 +124,7 @@ Renaissance Technologies, founded by Jim Simons, is renowned for its pioneering 
 
 ### Two Sigma
 
-Two Sigma employs advanced [data science](../d/data_science_in_trading.md) and technology to develop cutting-edge [trading strategies](../t/trading_strategies.md). Their approach combines machine learning, AI, and [big data](../b/big_data_in_trading.md) to optimize portfolio management. For more details, visit [Two Sigma](https://www.twosigma.com/).
+Two Sigma employs advanced [data science](../d/data_science_in_trading.md) and technology to develop cutting-edge [trading strategies](../t/trading_strategies.md). Their approach combines [machine learning](../m/machine_learning.md), AI, and [big data](../b/big_data_in_trading.md) to optimize portfolio management. For more details, visit [Two Sigma](https://www.twosigma.com/).
 
 ### Bridgewater Associates
 
@@ -132,7 +132,7 @@ Bridgewater Associates, founded by Ray Dalio, is one of the largest [hedge](../h
 
 ## 13. Future Directions
 
-The future of portfolio management in [algorithmic trading](../a/algorithmic_trading.md) [will](../w/will.md) likely see further integration of AI, machine learning, and innovative data sources. Continuous advancements in technology and computational power [will](../w/will.md) enable more sophisticated models and strategies, driving enhanced performance and [efficiency](../e/efficiency.md).
+The future of portfolio management in [algorithmic trading](../a/algorithmic_trading.md) [will](../w/will.md) likely see further integration of AI, [machine learning](../m/machine_learning.md), and innovative data sources. Continuous advancements in technology and computational power [will](../w/will.md) enable more sophisticated models and strategies, driving enhanced performance and [efficiency](../e/efficiency.md).
 
 ## Conclusion
 

@@ -50,7 +50,7 @@ Governments and regulatory bodies mandate KYC processes to combat financial crim
 Advancements in technology have significantly impacted how KYC processes are implemented and enhanced. Integrating sophisticated technology solutions can streamline the KYC process and improve accuracy. Some major technological advancements include:
 
 - **Digital Identification Verification:** Utilizes biometric identification methods like facial recognition, fingerprint scanning, and document verification through optical character recognition (OCR) technology.
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning:** These technologies aid in analyzing vast amounts of data to identify suspicious activities and anomalies in [transaction](../t/transaction.md) patterns, improving the [efficiency](../e/efficiency.md) of KYC processes.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md):** These technologies aid in analyzing vast amounts of data to identify suspicious activities and anomalies in [transaction](../t/transaction.md) patterns, improving the [efficiency](../e/efficiency.md) of KYC processes.
 - **[Blockchain](../b/blockchain_in_trading.md) Technology:** Facilitates secure and immutable digital identities and [transaction](../t/transaction.md) histories, enhancing [transparency](../t/transparency.md) and reducing the [risk](../r/risk.md) of [fraud](../f/fraud.md).
 - **Automated Systems:** Automated KYC solutions help in faster onboarding of clients by reducing manual processes and increasing the accuracy of data collection and verification.
 

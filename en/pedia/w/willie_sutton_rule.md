@@ -20,7 +20,7 @@ In [finance](../f/finance.md), the Willie Sutton Rule is often invoked to explai
 
 ### Corporate Decision-Making
 
-Corporations use the Willie Sutton Rule to prioritize investments and projects. For instance, a tech company might invest heavily in R&D (Research and Development) in areas showing the most growth potential, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning. Essentially, they allocate [capital](../c/capital.md) to "where the [money](../m/money.md) could be" in the future.
+Corporations use the Willie Sutton Rule to prioritize investments and projects. For instance, a tech company might invest heavily in R&D (Research and Development) in areas showing the most growth potential, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md). Essentially, they allocate [capital](../c/capital.md) to "where the [money](../m/money.md) could be" in the future.
 
 ### Economic Policy
 

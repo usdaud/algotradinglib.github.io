@@ -9,7 +9,7 @@ The concept of the J-Curve is a graphical representation commonly used in variou
 When a new [algorithmic trading](../a/accountability.md) strategy is devised, it begins with a phase of development and [backtesting](../b/backtesting.md). This involves creating a model based on historical [market](../m/market.md) data to predict future price movements and optimize the strategy.
 
 1. **Data Collection**: Gathering extensive historical data to ensure the model is trained on a [robust](../r/robust.md) dataset. Sources can include exchanges, financial data providers, and proprietary systems.
-2. **Model Building**: Developing a trading algorithm often using machine learning techniques, statistical models, or econometric methods.
+2. **Model Building**: Developing a trading algorithm often using [machine learning](../m/machine_learning.md) techniques, statistical models, or econometric methods.
 3. **Parameter Tuning**: Adjusting parameters to fit historical data and improve performance, also known as [overfitting](../o/overfitting.md) when excessive.
 4. **[Backtesting](../b/backtesting.md)**: Simulating the [trading strategy](../t/trading_strategy.md) on historical data to evaluate its potential, assessing metrics like [Sharpe ratio](../s/sharpe_ratio.md), [drawdown](../d/drawdown.md), and profitability.
 
@@ -29,7 +29,7 @@ In this phase, performance often declines due to various unforeseen [market](../
 This phase is critical as it involves learning from the initial deployment phase and making necessary adjustments to the [trading strategy](../t/trading_strategy.md) to improve its performance.
 
 1. **Performance Monitoring**: Continuously monitoring the algorithm’s performance in real-time, using Key [Performance Indicators](../p/performance_indicators.md) (KPIs) to identify weaknesses.
-2. **Algorithm Adjustment**: Incorporating new data and insights to refine the trading model. This may include changing trading parameters, incorporating additional data sources, or employing more advanced techniques such as Reinforcement Learning.
+2. **Algorithm Adjustment**: Incorporating new data and insights to refine the trading model. This may include changing trading parameters, incorporating additional data sources, or employing more advanced techniques such as [Reinforcement Learning](../r/reinforcement_learning.md).
 3. **[Risk Management](../r/risk_management.md)**: Developing and implementing [robust](../r/robust.md) [risk management techniques](../r/risk_management_techniques.md) to mitigate potential losses, which can help stabilize and eventually improve performance.
 
 This period of adaptation and refinement is where the strategy begins to stabilize and improve, making its way towards the upward trajectory of the J-Curve.
@@ -54,7 +54,7 @@ Renaissance Technologies, founded by Jim Simons, is renowned for its highly prof
 
 ### Two Sigma
 
-Two Sigma, a quantitative investment [firm](../f/firm.md), also leverages massive data sets and machine learning to drive its [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Initially, the [firm](../f/firm.md) faced challenges perfecting their models, but through continuous adaptation and leveraging advanced analytics, they managed to achieve consistent profitability, following the J-Curve trajectory.
+Two Sigma, a quantitative investment [firm](../f/firm.md), also leverages massive data sets and [machine learning](../m/machine_learning.md) to drive its [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Initially, the [firm](../f/firm.md) faced challenges perfecting their models, but through continuous adaptation and leveraging advanced analytics, they managed to achieve consistent profitability, following the J-Curve trajectory.
 
 [Discover Two Sigma](https://www.twosigma.com/)
 

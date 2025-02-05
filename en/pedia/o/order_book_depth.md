@@ -59,7 +59,7 @@ Algorithmic traders often employ advanced techniques to analyze [order book](../
 
 1. **Heat Maps**: Visual representations where [order](../o/order.md) density at various price levels is shown in different colors.
 2. **[Order Flow Analysis](../o/order_flow_analysis.md)**: Involves tracking the flow of orders over time to predict price movements based on large orders entering or exiting the [market](../m/market.md).
-3. **Machine Learning Models**: These can be trained on historical [order book](../o/order_book.md) data to forecast future price movements or [liquidity](../l/liquidity.md) changes.
+3. **[Machine Learning](../m/machine_learning.md) Models**: These can be trained on historical [order book](../o/order_book.md) data to forecast future price movements or [liquidity](../l/liquidity.md) changes.
 4. **[Volume Profile](../v/volume_profile.md) Analysis**: Studies the traded [volume](../v/volume.md) at different price levels, often used in conjunction with [order book](../o/order_book.md) depth to find significant price levels.
 
 ### Real-World Applications

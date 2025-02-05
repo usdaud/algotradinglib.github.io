@@ -81,7 +81,7 @@ Investment funds such as DFA (Dimensional [Fund](../f/fund.md) Advisors) and Ren
 
 ## Tools and Software
 
-- **Python:** A popular programming language used for data analysis, machine learning, and [quantitative finance](../q/quantitative_finance.md). Libraries such as Pandas, NumPy, and SciPy are essential for statistical analysis.
+- **Python:** A popular programming language used for data analysis, [machine learning](../m/machine_learning.md), and [quantitative finance](../q/quantitative_finance.md). Libraries such as Pandas, NumPy, and SciPy are essential for statistical analysis.
 - **R:** Another statistical programming language often used in [quantitative finance](../q/quantitative_finance.md) for data manipulation and visualization.
 - **MATLAB:** A high-level language and environment for numerical computing.
 - **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying [quantitative strategies](../q/quantitative_strategies_in_trading.md).

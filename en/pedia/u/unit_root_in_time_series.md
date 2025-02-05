@@ -82,7 +82,7 @@ Unit roots in [financial time series](../f/financial_time_series.md) have practi
 
 ### Case Study: AlgoTrader
 
-[AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com/) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that leverages various statistical and machine learning techniques to analyze and utilize [financial time series](../f/financial_time_series.md) data. Understanding unit roots and transforming non-stationary data is crucial for improving prediction accuracy and model robustness.
+[AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com/) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that leverages various statistical and [machine learning](../m/machine_learning.md) techniques to analyze and utilize [financial time series](../f/financial_time_series.md) data. Understanding unit roots and transforming non-stationary data is crucial for improving prediction accuracy and model robustness.
 
 ---
 

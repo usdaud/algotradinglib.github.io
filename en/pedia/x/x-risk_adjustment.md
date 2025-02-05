@@ -69,7 +69,7 @@ Dynamic [risk management](../r/risk_management.md) involves continuously monitor
 #### Techniques for Dynamic Management
 
 - **Real-Time [Data Analytics](../d/data_analytics.md)**: Use [real-time market data](../r/real-time_market_data.md) to make informed adjustments.
-- **Algorithm Adaptation**: Implement machine learning techniques to adapt algorithms based on [market](../m/market.md) conditions.
+- **Algorithm Adaptation**: Implement [machine learning](../m/machine_learning.md) techniques to adapt algorithms based on [market](../m/market.md) conditions.
 - **Automated [Risk](../r/risk.md) Controls**: Set automated [risk](../r/risk.md) controls to trigger adjustments in high-[risk](../r/risk.md) situations.
 
 ## Incorporating X-Risk Adjustments in Algorithmic Trading Systems

@@ -56,7 +56,7 @@ Recent advancements in technology and [data science](../d/data_science_in_tradin
 
 ### Big Data and Machine Learning
 
-[Big data](../b/big_data_in_trading.md) and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are being applied to vast and complex datasets to enhance the accuracy of mortality predictions. Machine learning models can identify patterns and interactions among numerous [risk factors](../r/risk_factors_in_trading.md), providing more personalized and precise mortality estimates.
+[Big data](../b/big_data_in_trading.md) and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are being applied to vast and complex datasets to enhance the accuracy of mortality predictions. [Machine learning](../m/machine_learning.md) models can identify patterns and interactions among numerous [risk factors](../r/risk_factors_in_trading.md), providing more personalized and precise mortality estimates.
 
 ### Wearable Technology
 

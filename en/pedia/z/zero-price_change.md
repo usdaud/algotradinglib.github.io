@@ -69,7 +69,7 @@ Effective [risk management](../r/risk_management.md) is essential for any [algor
 High-frequency trading (HFT) firms often deploy strategies that depend on rapid detection and response to zero-price change conditions. These firms use sophisticated algorithms and advanced [infrastructure](../i/infrastructure.md) to identify and exploit tiny inefficiencies in the [market](../m/market.md).
 
 ### Quantitative Hedge Funds
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md), such as Renaissance Technologies and Two Sigma, integrate zero-price change strategies within their larger trading frameworks. These funds apply rigorous statistical analysis and machine learning techniques to continuously improve their identification and utilization of zero-price change events. More information on these firms can be found at:
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md), such as Renaissance Technologies and Two Sigma, integrate zero-price change strategies within their larger trading frameworks. These funds apply rigorous statistical analysis and [machine learning](../m/machine_learning.md) techniques to continuously improve their identification and utilization of zero-price change events. More information on these firms can be found at:
 - [Renaissance Technologies](https://www.rentec.com)
 - [Two Sigma](https://www.twosigma.com)
 
@@ -82,7 +82,7 @@ Platforms like [QuantConnect](../q/quantconnect.md) and [Algorithmic Trading](..
 As markets continue to evolve, so too [will](../w/will.md) the strategies that exploit zero-price change conditions. Emerging technologies and methodologies that may shape the future include:
 
 ### Machine Learning and AI
-Advancements in machine learning and AI can enhance the detection of zero-price change events and improve the predictive accuracy of subsequent price movements. By leveraging large datasets and sophisticated models, algorithms can become more adept at identifying subtle [market](../m/market.md) signals associated with zero-price changes.
+Advancements in [machine learning](../m/machine_learning.md) and AI can enhance the detection of zero-price change events and improve the predictive accuracy of subsequent price movements. By leveraging large datasets and sophisticated models, algorithms can become more adept at identifying subtle [market](../m/market.md) signals associated with zero-price changes.
 
 ### Enhanced Data Analytics
 As data collection methods and processing power improve, traders can access more granular and diverse datasets. Enhanced analytics [will](../w/will.md) allow for better detection of zero-price change events and more informed decision-making.

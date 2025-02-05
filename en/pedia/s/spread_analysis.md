@@ -55,8 +55,8 @@ The design of the [trading platform](../t/trading_platform.md) and [market](../m
 - **[Z-Score](../z/z-score.md):** Used in pair trading to measure the distance of the spread from its mean, indicating potential entry and exit points.
 
 ### 4.4 Machine Learning Techniques
-- **Supervised Learning:** Algorithms can predict future [spreads](../s/spreads.md) based on historical data.
-- **Unsupervised Learning:** Clustering and [anomaly detection](../a/anomaly_detection.md) can identify unusual patterns or shifts in spread behavior.
+- **[Supervised Learning](../s/supervised_learning.md):** Algorithms can predict future [spreads](../s/spreads.md) based on historical data.
+- **[Unsupervised Learning](../u/unsupervised_learning.md):** Clustering and [anomaly detection](../a/anomaly_detection.md) can identify unusual patterns or shifts in spread behavior.
 
 ## 5. Applications of Spread Analysis in Algorithmic Trading
 
@@ -113,4 +113,4 @@ The presence of numerous sophisticated [market](../m/market.md) participants can
 
 ## 9. Conclusion
 
-Spread analysis is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) insights into [market](../m/market.md) mechanics, trading opportunities, and [risk management](../r/risk_management.md). Whether through statistical methods, machine learning models, or [proprietary algorithms](../p/proprietary_algorithms.md), a deep understanding of [spreads](../s/spreads.md) can significantly enhance [trading performance](../t/trading_performance.md). With the ongoing advancements in technology and [data analytics](../d/data_analytics.md), the future of spread analysis in trading promises continued evolution and opportunities for innovation.
+Spread analysis is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) insights into [market](../m/market.md) mechanics, trading opportunities, and [risk management](../r/risk_management.md). Whether through statistical methods, [machine learning](../m/machine_learning.md) models, or [proprietary algorithms](../p/proprietary_algorithms.md), a deep understanding of [spreads](../s/spreads.md) can significantly enhance [trading performance](../t/trading_performance.md). With the ongoing advancements in technology and [data analytics](../d/data_analytics.md), the future of spread analysis in trading promises continued evolution and opportunities for innovation.

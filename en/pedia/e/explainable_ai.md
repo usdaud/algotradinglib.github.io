@@ -10,19 +10,19 @@ Explainable AI (XAI) is a set of techniques and methods that make the decision-m
 
 ### Applications
 - **Healthcare:** Explaining diagnoses and treatment recommendations.
-- **Finance:** Justifying decisions in credit scoring and risk assessment.
-- **Legal Systems:** Providing transparency in automated decision-making.
-- **Customer Trust:** Enhancing user confidence in AI-driven applications.
+- **[Finance](../f/finance.md):** Justifying decisions in [credit](../c/credit.md) scoring and [risk](../r/risk.md) assessment.
+- **Legal Systems:** Providing [transparency](../t/transparency.md) in automated decision-making.
+- **[Customer](../c/customer.md) [Trust](../t/trust.md):** Enhancing user confidence in AI-driven applications.
 
 ### Advantages
-- Improves transparency and trust in AI systems.
+- Improves [transparency](../t/transparency.md) and [trust](../t/trust.md) in AI systems.
 - Facilitates debugging and model improvement.
 - Helps comply with regulatory requirements regarding fairness and accountability.
 
 ### Challenges
-- Trade-offs between model complexity and interpretability.
+- [Trade](../t/trade.md)-offs between model complexity and interpretability.
 - Explanations can sometimes oversimplify complex decision processes.
-- Balancing transparency with intellectual property protection.
+- Balancing [transparency](../t/transparency.md) with intellectual property protection.
 
 ### Future Outlook
-XAI will continue to grow in importance as AI systems become more pervasive, with ongoing research aimed at developing methods that are both robust and user-friendly, bridging the gap between complex models and human understanding.
+XAI [will](../w/will.md) continue to grow in importance as AI systems become more pervasive, with ongoing research aimed at developing methods that are both [robust](../r/robust.md) and user-friendly, bridging the gap between complex models and human understanding.

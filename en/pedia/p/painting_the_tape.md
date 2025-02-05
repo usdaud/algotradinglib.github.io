@@ -69,7 +69,7 @@ Regulators and exchanges employ algorithms to monitor trading activity in real-t
 
 ### 2. Data Analytics
 
-[Big data analytics](../b/big_data_analytics_in_trading.md) are used to analyze vast amounts of trading data for anomalies. Machine learning models can identify [unusual trading patterns](../u/unusual_trading_patterns.md) that deviate from normal [market](../m/market.md) behavior.
+[Big data analytics](../b/big_data_analytics_in_trading.md) are used to analyze vast amounts of trading data for anomalies. [Machine learning](../m/machine_learning.md) models can identify [unusual trading patterns](../u/unusual_trading_patterns.md) that deviate from normal [market](../m/market.md) behavior.
 
 ### 3. Cross-Market Surveillance
 
@@ -89,7 +89,7 @@ Trading firms have started implementing internal safeguards within their algorit
 
 ### 2. AI and Machine Learning
 
-AI and machine learning models are increasingly used to adapt to evolving [market](../m/market.md) conditions and detect manipulative patterns that human observers might miss. These systems can learn from historical data and continually improve their detection capabilities.
+AI and [machine learning](../m/machine_learning.md) models are increasingly used to adapt to evolving [market](../m/market.md) conditions and detect manipulative patterns that human observers might miss. These systems can learn from historical data and continually improve their detection capabilities.
 
 ## Case Studies
 

@@ -120,7 +120,7 @@ High-frequency trading is used by some ETFs and [index](../i/index_instrument.md
 
 ### Big Data and Machine Learning
 
-[Big data](../b/big_data_in_trading.md) and machine learning technologies enable more sophisticated analysis and [optimization](../o/optimization.md) of passive investment strategies. By analyzing vast amounts of financial data, these technologies can uncover patterns and trends that enhance the construction and [rebalancing](../r/rebalancing.md) of passive portfolios.
+[Big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) technologies enable more sophisticated analysis and [optimization](../o/optimization.md) of passive investment strategies. By analyzing vast amounts of financial data, these technologies can uncover patterns and trends that enhance the construction and [rebalancing](../r/rebalancing.md) of passive portfolios.
 
 ### Blockchain and Tokenization
 

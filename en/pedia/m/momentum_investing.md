@@ -52,13 +52,13 @@ The effectiveness of [momentum](../m/momentum.md) models can be compromised by c
 
 ## Modern Applications: Algorithmic Trading and Fintech
 
-Advancements in technology, particularly in fintech and machine learning, have transformed the landscape of [momentum](../m/momentum.md) [investing](../i/investing.md). [Algorithmic trading](../a/accountability.md) systems can now monitor [multiple](../m/multiple.md) markets and execute trades at high speed with precision, based on predefined [momentum](../m/momentum.md) criteria.
+Advancements in technology, particularly in fintech and [machine learning](../m/machine_learning.md), have transformed the landscape of [momentum](../m/momentum.md) [investing](../i/investing.md). [Algorithmic trading](../a/accountability.md) systems can now monitor [multiple](../m/multiple.md) markets and execute trades at high speed with precision, based on predefined [momentum](../m/momentum.md) criteria.
 
 ### Algorithmic Trading
 [Algorithmic trading](../a/accountability.md) leverages computer algorithms to automatically execute trades when specific conditions are met. These systems can be programmed to detect [momentum](../m/momentum.md) signals and [capitalize](../c/capitalize.md) on small price movements, reducing human error and emotional decision-making.
 
 ### Artificial Intelligence
-Machine learning models enable investors to uncover complex patterns and correlations that may not be apparent through traditional analysis. By training algorithms on historical price data, AI can improve the accuracy of [momentum](../m/momentum.md) signals and adapt to changing [market](../m/market.md) conditions.
+[Machine learning](../m/machine_learning.md) models enable investors to uncover complex patterns and correlations that may not be apparent through traditional analysis. By training algorithms on historical price data, AI can improve the accuracy of [momentum](../m/momentum.md) signals and adapt to changing [market](../m/market.md) conditions.
 
 ### High-Frequency Trading (HFT)
 HFT is a subset of [algorithmic trading](../a/accountability.md) focusing on executing a large number of orders at extremely high speeds. While HFT strategies often diverge from traditional [momentum](../m/momentum.md) [investing](../i/investing.md), they share the core principle of exploiting short-term price movements and trends.

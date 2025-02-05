@@ -97,10 +97,10 @@ Application Programming Interfaces (APIs) allow for seamless integration of [tra
 
 ### 4.4 Machine Learning and AI
 
-Machine Learning (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly used in algorithmic hedging to improve prediction accuracy and decision-making.
+[Machine Learning](../m/machine_learning.md) (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly used in algorithmic hedging to improve prediction accuracy and decision-making.
 
 - **ML Applications:** [Predictive analytics](../p/predictive_analytics.md), [pattern recognition](../p/pattern_recognition.md), [sentiment analysis](../s/sentiment_analysis.md).
-- **AI Platforms:** TensorFlow, PyTorch, Keras.
+- **AI Platforms:** [TensorFlow](../t/tensorflow.md), [PyTorch](../p/pytorch.md), [Keras](../k/keras.md).
 
 ### 4.5 Quantitative Research Tools
 

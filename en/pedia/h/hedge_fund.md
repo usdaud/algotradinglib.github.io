@@ -109,7 +109,7 @@ Founded by Kenneth C. Griffin in 1990, Citadel is a global financial institution
 
 The [hedge](../h/hedge.md) [fund](../f/fund.md) [industry](../i/industry.md) continues to evolve with advancements in technology, changing regulations, and shifting [investor](../i/investor.md) preferences. Areas of growth and focus include:
 
-- **AI and Machine Learning**: Increasing use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning in developing [trading algorithms](../t/trading_algorithms.md).
+- **AI and [Machine Learning](../m/machine_learning.md)**: Increasing use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) in developing [trading algorithms](../t/trading_algorithms.md).
 - **[Environmental, Social, and Governance (ESG) Investing](../e/environmental_social_and_governance_(esg)_investing.md)**: Growing [interest](../i/interest.md) in integrating ESG criteria into investment strategies.
 - **Cryptocurrencies**: Increasing allocation to digital assets as they become more mainstream.
 

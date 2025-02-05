@@ -52,7 +52,7 @@ Website: [Citadel](https://www.citadel.com/)
 
 #### 2. Two Sigma
 
-Two Sigma Investments, known for its [data-driven trading strategies](../d/data-driven_trading_strategies.md), employs numerous data scientists and engineers specializing in AI and machine learning. The [firm](../f/firm.md)'s continuity plan involves key person [insurance](../i/insurance.md) to safeguard against the loss of these invaluable members.
+Two Sigma Investments, known for its [data-driven trading strategies](../d/data-driven_trading_strategies.md), employs numerous data scientists and engineers specializing in AI and [machine learning](../m/machine_learning.md). The [firm](../f/firm.md)'s continuity plan involves key person [insurance](../i/insurance.md) to safeguard against the loss of these invaluable members.
 Website: [Two Sigma](https://www.twosigma.com/)
 
 ### How Companies Implement Key Person Insurance

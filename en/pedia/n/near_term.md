@@ -51,12 +51,12 @@ Cryptocurrencies often react sharply to news. Anything from regulatory announcem
 [Algorithmic trading](../a/accountability.md) models, particularly High-Frequency Trading (HFT) algorithms, benefit greatly from exploiting near-term [market](../m/market.md) inefficiencies. These models often incorporate:
 
 - **Real-time Data:** To react instantly to [market](../m/market.md) changes.
-- **[Predictive Analytics](../p/predictive_analytics.md):** To forecast near-term movements based on historical patterns and machine learning.
+- **[Predictive Analytics](../p/predictive_analytics.md):** To forecast near-term movements based on historical patterns and [machine learning](../m/machine_learning.md).
 - **[Execution Algorithms](../e/execution_algorithms.md):** To optimize [trade](../t/trade.md) [execution](../e/execution.md) by minimizing [market](../m/market.md) impact and [slippage](../s/slippage.md).
 
 ### Machine Learning and AI
 
-Machine Learning and AI tools can be applied to predict near-term [market](../m/market.md) movements. These technologies might analyze vast datasets, including [market](../m/market.md) prices, trading volumes, news articles, and [social media sentiment](../s/social_media_sentiment.md), to generate near-term [trading signals](../t/trading_signals.md).
+[Machine Learning](../m/machine_learning.md) and AI tools can be applied to predict near-term [market](../m/market.md) movements. These technologies might analyze vast datasets, including [market](../m/market.md) prices, trading volumes, news articles, and [social media sentiment](../s/social_media_sentiment.md), to generate near-term [trading signals](../t/trading_signals.md).
 
 ### Backtesting
 

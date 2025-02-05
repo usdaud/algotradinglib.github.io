@@ -62,7 +62,7 @@ Due to the relative infancy and [volatility](../v/volatility.md) of cryptocurren
 High-frequency trading utilizes sophisticated algorithms to execute a large number of orders at extremely high speeds. HFT firms play a significant role in [arbitrage](../a/arbitrage.md) trading, profiting from minor price inefficiencies in the [market](../m/market.md) that exist for very short durations.
 
 ### Machine Learning and AI
-With advancements in machine learning and AI, traders can now apply more complex models and [predictive analytics](../p/predictive_analytics.md) to identify [arbitrage](../a/arbitrage.md) opportunities. AI can continuously learn from [market](../m/market.md) data and improve the efficacy of the [trading strategies](../t/trading_strategies.md).
+With advancements in [machine learning](../m/machine_learning.md) and AI, traders can now apply more complex models and [predictive analytics](../p/predictive_analytics.md) to identify [arbitrage](../a/arbitrage.md) opportunities. AI can continuously learn from [market](../m/market.md) data and improve the efficacy of the [trading strategies](../t/trading_strategies.md).
 
 ## Risks and Challenges
 
@@ -83,4 +83,4 @@ Reliance on technology exposes traders to the [risk](../r/risk.md) of system fai
 
 ## Conclusion
 
-[Arbitrage](../a/arbitrage.md) opportunities, although increasingly hard to exploit with the advent of technology and [market efficiency](../m/market_efficiency.md), remain a fundamental concept in trading. From simple spatial [arbitrage](../a/arbitrage.md) to complex statistical methods, traders continue to innovate and develop sophisticated techniques to uncover and [capitalize](../c/capitalize.md) on these opportunities. Using advanced algorithms, machine learning, and high-frequency trading, the landscape of [arbitrage](../a/arbitrage.md) trading is continually evolving, showcasing the relentless pursuit of gains in the world of [finance](../f/finance.md).
+[Arbitrage](../a/arbitrage.md) opportunities, although increasingly hard to exploit with the advent of technology and [market efficiency](../m/market_efficiency.md), remain a fundamental concept in trading. From simple spatial [arbitrage](../a/arbitrage.md) to complex statistical methods, traders continue to innovate and develop sophisticated techniques to uncover and [capitalize](../c/capitalize.md) on these opportunities. Using advanced algorithms, [machine learning](../m/machine_learning.md), and high-frequency trading, the landscape of [arbitrage](../a/arbitrage.md) trading is continually evolving, showcasing the relentless pursuit of gains in the world of [finance](../f/finance.md).

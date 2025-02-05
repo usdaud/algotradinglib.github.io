@@ -92,7 +92,7 @@ For more details, visit: [Microsoft Investor Relations](https://www.microsoft.co
 
 ### Machine Learning Applications
 
-Machine learning models can be employed to predict the outcomes and effectiveness of [buyback](../b/buyback.md) programs:
+[Machine learning](../m/machine_learning.md) models can be employed to predict the outcomes and effectiveness of [buyback](../b/buyback.md) programs:
 1. **Predictive Analysis**: Utilizing historical data on buybacks to predict future stock price movements and [financial performance](../f/financial_performance.md).
 2. **Classification Models**: Classifying [buyback](../b/buyback.md) announcements into likely successful or unsuccessful based on specific financial and corporate parameters.
 3. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Analyzing [market sentiment](../m/market_sentiment.md) from news articles, analyst reports, and [social media](../s/social_media.md) to gauge the likely impact of [buyback](../b/buyback.md) announcements.
@@ -113,4 +113,4 @@ Examples of regulatory frameworks include:
 
 Repurchase programs are a versatile and strategic tool for companies aiming to enhance [shareholder value](../s/shareholder_value.md), optimize [capital structure](../c/capital_structure.md), and signal [market](../m/market.md) confidence. While they [offer](../o/offer.md) several potential benefits, including EPS improvement and stock price support, they also come with strategic and financial implications that must be carefully considered.
 
-In the realm of [algorithmic trading](../a/algorithmic_trading.md), understanding and analyzing repurchase programs can provide unique opportunities for profitable trades, particularly by leveraging advanced analytical models and machine learning techniques. However, traders and investors alike must remain vigilant of regulatory guidelines and the broader financial impact of these programs to navigate the complexities effectively.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), understanding and analyzing repurchase programs can provide unique opportunities for profitable trades, particularly by leveraging advanced analytical models and [machine learning](../m/machine_learning.md) techniques. However, traders and investors alike must remain vigilant of regulatory guidelines and the broader financial impact of these programs to navigate the complexities effectively.

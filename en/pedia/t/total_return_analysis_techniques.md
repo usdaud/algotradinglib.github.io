@@ -158,9 +158,9 @@ Monte Carlo simulations use random [sampling](../s/sampling.md) and statistical 
 
 ### c. Machine Learning Applications
 
-Machine learning techniques, such as [regression analysis](../r/regression_analysis.md), [neural networks](../n/neural_networks_in_trading.md), and [deep learning](../d/deep_learning.md), can be employed to predict total returns based on historical data and patterns.
+[Machine learning](../m/machine_learning.md) techniques, such as [regression analysis](../r/regression_analysis.md), [neural networks](../n/neural_networks_in_trading.md), and [deep learning](../d/deep_learning.md), can be employed to predict total returns based on historical data and patterns.
 
-- **Tool Example**: [TensorFlow](https://www.tensorflow.org) and [Keras](https://keras.io) are frameworks widely used for building machine learning models in [finance](../f/finance.md).
+- **Tool Example**: [TensorFlow](https://www.tensorflow.org) and [Keras](https://keras.io) are frameworks widely used for building [machine learning](../m/machine_learning.md) models in [finance](../f/finance.md).
 
 ## Conclusion
 

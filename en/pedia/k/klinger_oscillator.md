@@ -128,7 +128,7 @@ print(df)
 
 ## Broader Context in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) employs complex and sophisticated algorithms to make high-speed trading decisions. The Klinger [Oscillator](../o/oscillator.md) fits into this by [offering](../o/offering.md) a quantifiable measure of [market](../m/market.md) [momentum](../m/momentum.md), which can be integrated into larger [trading strategies](../t/trading_strategies.md). These strategies can [range](../r/range.md) from simple [moving average crossovers](../m/moving_average_crossovers.md) to sophisticated machine learning models that consider various indicators.
+[Algorithmic trading](../a/algorithmic_trading.md) employs complex and sophisticated algorithms to make high-speed trading decisions. The Klinger [Oscillator](../o/oscillator.md) fits into this by [offering](../o/offering.md) a quantifiable measure of [market](../m/market.md) [momentum](../m/momentum.md), which can be integrated into larger [trading strategies](../t/trading_strategies.md). These strategies can [range](../r/range.md) from simple [moving average crossovers](../m/moving_average_crossovers.md) to sophisticated [machine learning](../m/machine_learning.md) models that consider various indicators.
 
 ### Integration into Trading Systems
 

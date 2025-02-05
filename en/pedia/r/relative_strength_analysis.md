@@ -108,7 +108,7 @@ A rising RCS signals that the tech stock is outperforming the utilities ETF, ind
 
 ## Future of Relative Strength Analysis
 
-With advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, the future holds promising developments for RSA. Autonomous systems can now analyze vast datasets to automatically detect patterns and predict future movements with greater accuracy. These AI-driven tools could further refine RSA methodologies, making them more [robust](../r/robust.md) and less prone to human error.
+With advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), the future holds promising developments for RSA. Autonomous systems can now analyze vast datasets to automatically detect patterns and predict future movements with greater accuracy. These AI-driven tools could further refine RSA methodologies, making them more [robust](../r/robust.md) and less prone to human error.
 
 ### Integration with Big Data
 

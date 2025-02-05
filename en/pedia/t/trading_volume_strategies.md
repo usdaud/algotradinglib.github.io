@@ -77,7 +77,7 @@ Chaikin [Money Flow](../m/money_flow.md) (CMF) is an [indicator](../i/indicator.
 
 ### Machine Learning in Volume Strategies
 
-Machine learning involves using models that can learn from and make decisions based on data. In trading [volume](../v/volume.md) strategies:
+[Machine learning](../m/machine_learning.md) involves using models that can learn from and make decisions based on data. In trading [volume](../v/volume.md) strategies:
 - Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can detect complex patterns that human analysts might miss.
 - These algorithms can optimize [trade](../t/trade.md) [execution](../e/execution.md) and [risk management](../r/risk_management.md) by adapting to real-time data inputs.
 
@@ -120,7 +120,7 @@ A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) used [
 
 ### Case Study 3: Machine Learning for Volume Pattern Recognition 
 
-An [asset management](../a/asset_management.md) company deployed machine learning models to analyze historical [volume](../v/volume.md) and price data. These models identified complex patterns and correlations that were not evident through traditional analysis. The implementation led to a 10% reduction in the [risk](../r/risk.md)-adjusted [volatility](../v/volatility.md) of their portfolio, enhancing overall performance.
+An [asset management](../a/asset_management.md) company deployed [machine learning](../m/machine_learning.md) models to analyze historical [volume](../v/volume.md) and price data. These models identified complex patterns and correlations that were not evident through traditional analysis. The implementation led to a 10% reduction in the [risk](../r/risk.md)-adjusted [volatility](../v/volatility.md) of their portfolio, enhancing overall performance.
 
 ## Conclusion
 

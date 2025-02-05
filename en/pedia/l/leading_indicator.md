@@ -45,7 +45,7 @@ Algo-[trading systems](../t/trading_systems.md) often incorporate [leading indic
 
 #### Machine Learning
 
-In more advanced algo-[trading systems](../t/trading_systems.md), machine learning models can use [leading indicators](../l/leading_indicators.md) to improve prediction accuracy. These models can be trained on historical data, including a [range](../r/range.md) of leading [economic indicators](../e/economic_indicators.md), to identify patterns and relationships that are not immediately apparent.
+In more advanced algo-[trading systems](../t/trading_systems.md), [machine learning](../m/machine_learning.md) models can use [leading indicators](../l/leading_indicators.md) to improve prediction accuracy. These models can be trained on historical data, including a [range](../r/range.md) of leading [economic indicators](../e/economic_indicators.md), to identify patterns and relationships that are not immediately apparent.
 
 #### Risk Management
 

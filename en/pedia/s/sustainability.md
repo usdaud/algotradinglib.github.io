@@ -49,7 +49,7 @@ Technology plays a pivotal role in promoting sustainability in [finance](../f/fi
 ### Algorithmic Trading:
 In [algorithmic trading](../a/accountability.md), computer algorithms are used to make trading decisions at speeds and frequencies that are impossible for human traders. Sustainable practices in [algorithmic trading](../a/accountability.md) can be implemented by:
 - **Integrating ESG Data:** Algorithms can integrate real-time ESG data into trading decisions, prioritizing companies with strong sustainability profiles.
-- **[Risk Assessment Models](../r/risk_assessment_models.md):** Advanced analytics and machine learning can improve the precision of [risk](../r/risk.md) assessment, incorporating long-term environmental and social factors.
+- **[Risk Assessment Models](../r/risk_assessment_models.md):** Advanced analytics and [machine learning](../m/machine_learning.md) can improve the precision of [risk](../r/risk.md) assessment, incorporating long-term environmental and social factors.
 
 ### Fintech Innovations:
 Financial technology (fintech) is enhancing sustainability by [offering](../o/offering.md) innovative solutions and improving accessibility:

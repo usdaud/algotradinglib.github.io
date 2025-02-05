@@ -20,7 +20,7 @@ At its core, X-Peak Identification involves analyzing time-series data to determ
     - A critical step in peak detection involves setting thresholds that determine what qualifies as a significant peak. Thresholds can be set based on [historical volatility](../h/historical_volatility.md), percentage deviation from the mean, or statistical measures such as standard deviations.
 
 4. **False Positive Mitigation**:
-    - To improve the robustness of peak detection, algorithms are designed to filter out false positives. Techniques such as signal-to-[noise](../n/noise.md) [ratio analysis](../r/ratio_analysis.md), [pattern recognition](../p/pattern_recognition.md), and machine learning classifiers can be used to enhance accuracy.
+    - To improve the robustness of peak detection, algorithms are designed to filter out false positives. Techniques such as signal-to-[noise](../n/noise.md) [ratio analysis](../r/ratio_analysis.md), [pattern recognition](../p/pattern_recognition.md), and [machine learning](../m/machine_learning.md) classifiers can be used to enhance accuracy.
 
 5. **Real-time vs. [Historical Data Analysis](../h/historical_data_analysis.md)**:
     - X-Peak Identification can be performed on both real-time streaming data and historical data sets. While historical analysis helps in back-testing strategies and modeling, real-time detection is critical for live trading applications.

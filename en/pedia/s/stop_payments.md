@@ -62,7 +62,7 @@ JPMorgan Chase, one of the largest financial institutions globally, offers compr
 
 In the context of fintech and [algorithmic trading](../a/accountability.md), stop payments are evolving to meet the demands of a rapidly changing financial environment. Emerging trends include:
 
-1. **Integration with AI and Machine Learning**: Advanced AI algorithms can predict and prevent unauthorized transactions and streamline stop [payment](../p/payment.md) requests.
+1. **Integration with AI and [Machine Learning](../m/machine_learning.md)**: Advanced AI algorithms can predict and prevent unauthorized transactions and streamline stop [payment](../p/payment.md) requests.
 2. **Instant Notifications**: Clients receive real-time notifications of potential issues, enabling immediate stop [payment](../p/payment.md) actions.
 3. **[Blockchain](../b/blockchain_in_trading.md) Applications**: [Blockchain](../b/blockchain_in_trading.md) technology could [offer](../o/offer.md) immutable records and automate stop [payment](../p/payment.md) protocols for transparent and secure transactions.
 

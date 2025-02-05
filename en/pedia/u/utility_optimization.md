@@ -39,7 +39,7 @@ MPT introduces the concepts of:
 
 3. **[Stochastic Control](../s/stochastic_control.md)**: This approach involves modeling the [asset](../a/asset.md) price dynamics as [stochastic processes](../s/stochastic_processes.md) and using control theory to derive optimal [trading strategies](../t/trading_strategies.md) that maximize the [expected utility](../e/expected_utility.md).
 
-4. **Reinforcement Learning**: Machine learning techniques, particularly reinforcement learning, can be used to develop adaptive [trading strategies](../t/trading_strategies.md) that learn and optimize [utility functions](../u/utility_functions_in_trading.md) over time based on observed [market](../m/market.md) data.
+4. **[Reinforcement Learning](../r/reinforcement_learning.md)**: [Machine learning](../m/machine_learning.md) techniques, particularly [reinforcement learning](../r/reinforcement_learning.md), can be used to develop adaptive [trading strategies](../t/trading_strategies.md) that learn and optimize [utility functions](../u/utility_functions_in_trading.md) over time based on observed [market](../m/market.md) data.
 
 ### Transaction Costs and Constraints
 

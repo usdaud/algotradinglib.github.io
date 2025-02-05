@@ -76,7 +76,7 @@ Several trading platforms support the implementation of GAs, either through buil
 Traders often combine GAs with other [optimization](../o/optimization.md) techniques to enhance their effectiveness. For instance:
 
 - **Hybrid Genetic Algorithms**: GAs can be combined with local search algorithms to refine solutions further.
-- **Machine Learning Integration**: GAs can be used to optimize machine learning models that predict price movements or classify [trading signals](../t/trading_signals.md).
+- **[Machine Learning](../m/machine_learning.md) Integration**: GAs can be used to optimize [machine learning](../m/machine_learning.md) models that predict price movements or classify [trading signals](../t/trading_signals.md).
 
 ## Challenges and Considerations
 

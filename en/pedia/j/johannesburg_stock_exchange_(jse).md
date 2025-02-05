@@ -101,7 +101,7 @@ The JSE operates under a stringent regulatory framework to ensure [market](../m/
 ### Technologies Enabling Algorithmic Trading:
 - **Low-latency Networks**: Ensuring rapid data transmission between traders and the [exchange](../e/exchange.md).
 - **Co-Location Services**: Allowing traders to place their servers in the JSE's data center to minimize latency.
-- **Advanced Analytics and Machine Learning**: Leveraging [big data](../b/big_data_in_trading.md) and AI to inform [trading strategies](../t/trading_strategies.md).
+- **Advanced Analytics and [Machine Learning](../m/machine_learning.md)**: Leveraging [big data](../b/big_data_in_trading.md) and AI to inform [trading strategies](../t/trading_strategies.md).
 
 ## Key Statistics
 ### Market Performance (as of the latest available data):

@@ -115,7 +115,7 @@ plt.show()
 
 ## Case Study: Real-World Application
 
-Some trading firms specialize in algorithmic strategies based on swing highs and lows. One notable company is [Two Sigma](https://www.twosigma.com/), a [firm](../f/firm.md) that applies machine learning and [artificial intelligence in trading](../a/artificial_intelligence_in_trading.md) strategies. While specifics are proprietary, firms like Two Sigma use swing points as a component of larger, more complex [trading algorithms](../t/trading_algorithms.md).
+Some trading firms specialize in algorithmic strategies based on swing highs and lows. One notable company is [Two Sigma](https://www.twosigma.com/), a [firm](../f/firm.md) that applies [machine learning](../m/machine_learning.md) and [artificial intelligence in trading](../a/artificial_intelligence_in_trading.md) strategies. While specifics are proprietary, firms like Two Sigma use swing points as a component of larger, more complex [trading algorithms](../t/trading_algorithms.md).
 
 ## Conclusion
 

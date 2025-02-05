@@ -57,7 +57,7 @@ As non-member banks adopt more digital solutions, cybersecurity becomes a critic
 
 ### Artificial Intelligence and Machine Learning
 
-Non-member banks are leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) to enhance their decision-making processes. For example, AI-driven algorithms can analyze large datasets to predict [loan](../l/loan.md) defaults, identify fraudulent activities, and assess [creditworthiness](../c/creditworthiness.md), helping banks to minimize risks and improve [operational efficiency](../o/operational_efficiency_in_trading.md).
+Non-member banks are leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) to enhance their decision-making processes. For example, AI-driven algorithms can analyze large datasets to predict [loan](../l/loan.md) defaults, identify fraudulent activities, and assess [creditworthiness](../c/creditworthiness.md), helping banks to minimize risks and improve [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ### Blockchain Technology
 

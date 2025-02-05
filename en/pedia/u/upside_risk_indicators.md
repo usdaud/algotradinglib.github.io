@@ -121,7 +121,7 @@ In sophisticated [trading systems](../t/trading_systems.md) like BlackRock's Ala
 
 ## Future Directions
 
-1. **Machine Learning Integration**: [Upside risk](../u/upside_risk.md) indicators can be enhanced through machine learning models that predict future values, [offering](../o/offering.md) dynamic adjustments to [trading strategies](../t/trading_strategies.md).
+1. **[Machine Learning](../m/machine_learning.md) Integration**: [Upside risk](../u/upside_risk.md) indicators can be enhanced through [machine learning](../m/machine_learning.md) models that predict future values, [offering](../o/offering.md) dynamic adjustments to [trading strategies](../t/trading_strategies.md).
 
 2. **Real-time Analytics**: With advancements in [big data analytics](../b/big_data_analytics_in_trading.md) and real-time data streams, [upside risk](../u/upside_risk.md) indicators can be calculated and applied in real-time, providing more responsive and adaptive [trading strategies](../t/trading_strategies.md).
 

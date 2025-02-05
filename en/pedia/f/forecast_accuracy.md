@@ -75,7 +75,7 @@ Using cross-validation techniques to assess model performance can help avoid [ov
 ### Trading Platforms and APIs
 
 #### QuantConnect
-[QuantConnect](https://www.quantconnect.com) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) types of strategies, from basic moving averages to complex machine learning models.
+[QuantConnect](https://www.quantconnect.com) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) types of strategies, from basic moving averages to complex [machine learning](../m/machine_learning.md) models.
 
 #### Alpaca
 [Alpaca](https://alpaca.markets) is an API-focused [trading platform](../t/trading_platform.md) that provides [commission](../c/commission.md)-free trading and powerful tools for developing and testing [trading algorithms](../t/trading_algorithms.md).
@@ -83,10 +83,10 @@ Using cross-validation techniques to assess model performance can help avoid [ov
 ### Programming Libraries
 
 #### TensorFlow and Keras
-TensorFlow and Keras are powerful libraries for building and training machine learning models, particularly useful for [neural networks](../n/neural_networks_in_trading.md).
+[TensorFlow](../t/tensorflow.md) and [Keras](../k/keras.md) are powerful libraries for building and training [machine learning](../m/machine_learning.md) models, particularly useful for [neural networks](../n/neural_networks_in_trading.md).
 
 #### scikit-learn
-scikit-learn is a versatile library in Python that provides simple and efficient tools for [data mining](../d/data_mining.md) and data analysis, suitable for a [range](../r/range.md) of both supervised and unsupervised learning problems.
+scikit-learn is a versatile library in Python that provides simple and efficient tools for [data mining](../d/data_mining.md) and data analysis, suitable for a [range](../r/range.md) of both supervised and [unsupervised learning](../u/unsupervised_learning.md) problems.
 
 #### Pandas and NumPy
 Pandas and NumPy are essential for data manipulation and numerical operations, facilitating the preprocessing steps crucial for improving forecast accuracy.
@@ -106,7 +106,7 @@ Models that perform exceptionally well on training data but poorly on unseen dat
 Changes in the [underlying](../u/underlying.md) relationships in the data over time, known as concept drift, can degrade model performance if not accounted for.
 
 ### Computational Resources
-Developing and training complex algorithms, particularly those based on machine learning, requires significant computational power and time.
+Developing and training complex algorithms, particularly those based on [machine learning](../m/machine_learning.md), requires significant computational power and time.
 
 ## Conclusion
 

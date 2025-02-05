@@ -67,8 +67,8 @@
    - [Real-time market data](../r/real-time_market_data.md) feeds and advanced analytics tools for monitoring trades and [market](../m/market.md) conditions.
    - Examples: Thomson [Reuters](../r/reuters.md) DataScope, [FactSet](../f/factset.md).
 
-3. **Machine Learning and AI**:
-   - Leveraging machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict [market](../m/market.md) impact and optimize [trading strategies](../t/trading_strategies.md).
+3. **[Machine Learning](../m/machine_learning.md) and AI**:
+   - Leveraging [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict [market](../m/market.md) impact and optimize [trading strategies](../t/trading_strategies.md).
    - AI-driven models can continuously learn and adapt to changing [market](../m/market.md) conditions, improving [execution](../e/execution.md) quality over time.
 
 ### Regulatory and Compliance Aspects

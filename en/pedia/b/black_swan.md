@@ -55,7 +55,7 @@ To make [trading algorithms](../t/trading_algorithms.md) more [robust](../r/robu
 
 ### Adaptive Algorithms
 
-One approach to dealing with the unpredictability of [Black Swan events](../b/black_swan_events.md) is to create [adaptive algorithms](../a/adaptive_algorithms.md) that can change their behavior in response to changing [market](../m/market.md) conditions. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md), particularly those involving reinforcement learning, can be trained to adapt to new data patterns.
+One approach to dealing with the unpredictability of [Black Swan events](../b/black_swan_events.md) is to create [adaptive algorithms](../a/adaptive_algorithms.md) that can change their behavior in response to changing [market](../m/market.md) conditions. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md), particularly those involving [reinforcement learning](../r/reinforcement_learning.md), can be trained to adapt to new data patterns.
 
 ### Tail Risk Hedging
 
@@ -69,7 +69,7 @@ Several companies specialize in [risk management](../r/risk_management.md) and t
 
 2. **AQR [Capital](../c/capital.md) Management**: Led by Cliff Asness, this [firm](../f/firm.md) employs [quantitative research](../q/quantitative_research.md) to develop strategies that aim to mitigate the impact of extreme [market](../m/market.md) events. More information can be found on their [official website](https://www.aqr.com/).
 
-3. **Two Sigma**: This [firm](../f/firm.md) uses machine learning and large datasets to create [adaptive algorithms](../a/adaptive_algorithms.md) designed to function under various [market](../m/market.md) conditions. More information can be found on their [official website](https://www.twosigma.com/).
+3. **Two Sigma**: This [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md) and large datasets to create [adaptive algorithms](../a/adaptive_algorithms.md) designed to function under various [market](../m/market.md) conditions. More information can be found on their [official website](https://www.twosigma.com/).
 
 4. **Numerai**: This [hedge fund](../h/hedge_fund.md) leverages crowdsourced [data science](../d/data_science_in_trading.md) contributions to build more [robust](../r/robust.md) [trading models](../t/trading_models.md). More information can be found on their [official website](https://numer.ai/).
 

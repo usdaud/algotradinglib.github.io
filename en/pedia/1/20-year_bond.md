@@ -64,7 +64,7 @@ The 20-year [bond](../b/bond.md), a type of [fixed-income security](../f/fixed-i
 ### Government Bond Trading
 
 1. **Example:** Analysis of [U.S. Treasury](../u/u.s._treasury.md) 20-Year [Bond yield](../b/bond_yield.md) movements based on Federal Reserve [interest rate](../i/interest_rate.md) announcements and macroeconomic indicators.
-2. **Implementation:** Utilization of machine learning models to predict [yield](../y/yield.md) changes and optimize [bond](../b/bond.md) portfolio allocations.
+2. **Implementation:** Utilization of [machine learning](../m/machine_learning.md) models to predict [yield](../y/yield.md) changes and optimize [bond](../b/bond.md) portfolio allocations.
 
 ### Corporate Bond Arbitrage
 

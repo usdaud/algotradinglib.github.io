@@ -72,13 +72,13 @@ While zero-sum models are a natural aspect of trading, they raise several ethica
 
 #### Case Study 2: Two Sigma Investments
 
-[Two Sigma Investments](https://www.twosigma.com/) is another leading [hedge fund](../h/hedge_fund.md) that leverages zero-sum models within its [algorithmic trading](../a/algorithmic_trading.md) strategies. Using data-driven approaches, machine learning, and advanced analytics, Two Sigma has successfully navigated zero-sum [market](../m/market.md) conditions to generate consistent profits.
+[Two Sigma Investments](https://www.twosigma.com/) is another leading [hedge fund](../h/hedge_fund.md) that leverages zero-sum models within its [algorithmic trading](../a/algorithmic_trading.md) strategies. Using data-driven approaches, [machine learning](../m/machine_learning.md), and advanced analytics, Two Sigma has successfully navigated zero-sum [market](../m/market.md) conditions to generate consistent profits.
 
 ### Future Trends in Zero-Sum Algo-Trading
 
 The future of zero-sum models in [algorithmic trading](../a/algorithmic_trading.md) is likely to be shaped by several trends:
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: Increasing adoption of AI and ML to enhance model accuracy and predictive power, enabling better exploitation of zero-sum opportunities.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: Increasing adoption of AI and ML to enhance model accuracy and predictive power, enabling better exploitation of zero-sum opportunities.
 
 - **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Leveraging vast datasets from various sources to refine [trading algorithms](../t/trading_algorithms.md) and improve decision-making in zero-sum environments.
 

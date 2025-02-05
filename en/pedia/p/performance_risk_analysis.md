@@ -38,7 +38,7 @@ Operational risks are related to failures in the trading system's [infrastructur
 [Backtesting](../b/backtesting.md) entails running the trading algorithm on historical [market](../m/market.md) data to evaluate its performance. [Backtesting](../b/backtesting.md) helps in identifying inconsistencies and ensures that the model performs well under historical [market](../m/market.md) conditions before deploying it in live trading.
 
 ### 3.4 Real-time Monitoring
-Real-time monitoring involves continuously tracking the performance of [trading algorithms](../t/trading_algorithms.md) during live trading to quickly identify and mitigate any emerging risks. Advanced analytics and machine learning techniques are often used for real-time [anomaly detection](../a/anomaly_detection.md).
+Real-time monitoring involves continuously tracking the performance of [trading algorithms](../t/trading_algorithms.md) during live trading to quickly identify and mitigate any emerging risks. Advanced analytics and [machine learning](../m/machine_learning.md) techniques are often used for real-time [anomaly detection](../a/anomaly_detection.md).
 
 ### 3.5 Performance Attribution
 [Performance attribution](../p/performance_attribution.md) involves breaking down the performance of [trading algorithms](../t/trading_algorithms.md) into various contributing factors such as [market](../m/market.md) movements, [execution](../e/execution.md) [efficiency](../e/efficiency.md), and model accuracy. This analysis helps in identifying which factors are driving performance and which ones are introducing [risk](../r/risk.md).
@@ -66,7 +66,7 @@ Hedging involves taking positions that would [offset](../o/offset.md) potential 
 Analytic tools such as Python’s pandas, NumPy, and SciPy libraries are widely used for performance [risk analysis](../r/risk_analysis.md). These tools facilitate extensive data analysis and visualization, aiding in the identification and management of risks.
 
 ### 5.2 Machine Learning Models
-Machine learning models are increasingly employed to predict [market](../m/market.md) movements and identify risks in real-time. Libraries like TensorFlow and Scikit-Learn provide frameworks for implementing [predictive models](../p/predictive_models_in_trading.md).
+[Machine learning](../m/machine_learning.md) models are increasingly employed to predict [market](../m/market.md) movements and identify risks in real-time. Libraries like [TensorFlow](../t/tensorflow.md) and Scikit-Learn provide frameworks for implementing [predictive models](../p/predictive_models_in_trading.md).
 
 ### 5.3 Automated Monitoring Systems
 Automated systems that monitor [algorithmic trading](../a/algorithmic_trading.md) performance in real-time are invaluable. Tools such as Splunk and Nagios [offer](../o/offer.md) comprehensive monitoring solutions, helping traders detect and respond to risks promptly.

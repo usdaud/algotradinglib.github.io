@@ -94,7 +94,7 @@ The rise of smartphones has led to an increase in [mobile commerce](../m/mobile_
 
 ### Artificial Intelligence and Machine Learning
 
-AI and machine learning are transforming e-tailing by enabling personalized recommendations, chatbots for [customer service](../c/customer_service.md), and [predictive analytics](../p/predictive_analytics.md) for [inventory management](../i/inventory_management.md).
+AI and [machine learning](../m/machine_learning.md) are transforming e-tailing by enabling personalized recommendations, chatbots for [customer service](../c/customer_service.md), and [predictive analytics](../p/predictive_analytics.md) for [inventory management](../i/inventory_management.md).
 
 ### Subscription Services
 

@@ -104,6 +104,6 @@ Visualizing the results of PCA helps in understanding the transformed data. Two 
 
 For those seeking more in-depth insights and applications in [algorithmic trading](../a/algorithmic_trading.md), further readings can include:
 - "The Elements of Statistical Learning" by Hastie, Tibshirani, and Friedman
-- "Machine Learning for [Asset](../a/asset.md) Managers" by Marcos López de Prado.
+- "[Machine Learning](../m/machine_learning.md) for [Asset](../a/asset.md) Managers" by Marcos López de Prado.
 
 For practical [algorithmic trading](../a/algorithmic_trading.md) implementations, exploring platforms like [QuantConnect](https://www.quantconnect.com) for hands-on experience with PCA in [trading strategies](../t/trading_strategies.md) is highly recommended.

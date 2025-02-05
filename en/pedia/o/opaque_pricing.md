@@ -70,7 +70,7 @@ While opaque pricing can [offer](../o/offer.md) benefits, it also raises ethical
 
 #### AI and Machine Learning
 
-The integration of AI and machine learning is expected to further refine opaque pricing strategies. More sophisticated algorithms can better predict [customer](../c/customer.md) behavior, optimize prices, and match [inventory](../i/inventory.md) with [demand](../d/demand.md) more effectively.
+The integration of AI and [machine learning](../m/machine_learning.md) is expected to further refine opaque pricing strategies. More sophisticated algorithms can better predict [customer](../c/customer.md) behavior, optimize prices, and match [inventory](../i/inventory.md) with [demand](../d/demand.md) more effectively.
 
 #### Real-Time Pricing
 

@@ -30,7 +30,7 @@ Sector analysis is a method of examining industries within the financial [market
 
 3. **[Quantitative Analysis](../q/quantitative_analysis.md):**
    - **Statistical Modeling:** Uses statistical methods to predict [sector performance](../s/sector_performance.md).
-   - **Machine Learning:** Employs algorithms to identify patterns and forecast trends.
+   - **[Machine Learning](../m/machine_learning.md):** Employs algorithms to identify patterns and forecast trends.
    - **[Backtesting](../b/backtesting.md):** Tests [trading strategies](../t/trading_strategies.md) against historical data to assess viability.
 
 #### Tools and Platforms for Sector Analysis
@@ -89,7 +89,7 @@ Sector analysis is a method of examining industries within the financial [market
    - **[Trend Analysis](../t/trend_analysis.md):** Often exhibit strong upward [momentum](../m/momentum.md) during economic expansions.
    - **[Volume Analysis](../v/volume_analysis.md):** High trading volumes indicate strong [interest](../i/interest.md) from [market](../m/market.md) participants.
 
-4. **Machine Learning Application:**
+4. **[Machine Learning](../m/machine_learning.md) Application:**
    - **[Sentiment Analysis](../s/sentiment_analysis.md):** Using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to gauge [market sentiment](../m/market_sentiment.md) from news articles and [social media](../s/social_media.md).
    - **Prediction Models:** Developing algorithms that predict stock performance based on historical data and current [market](../m/market.md) conditions.
 

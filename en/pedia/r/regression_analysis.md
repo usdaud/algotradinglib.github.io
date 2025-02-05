@@ -141,7 +141,7 @@ Renaissance Technologies is a renowned [hedge fund](../h/hedge_fund.md) company 
 
 [Visit Two Sigma](https://www.twosigma.com)
 
-Two Sigma uses machine learning, AI, and advanced statistical techniques, including regression analysis, to develop [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) large datasets to identify patterns and make informed trading decisions.
+Two Sigma uses [machine learning](../m/machine_learning.md), AI, and advanced statistical techniques, including regression analysis, to develop [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) large datasets to identify patterns and make informed trading decisions.
 
 ### 3. AQR Capital Management
 

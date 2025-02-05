@@ -26,7 +26,7 @@ These companies are involved in the design, construction, and management of [inf
 
 ### Electrical Equipment
 
-Companies in this sub-sector manufacture and distribute electrical components and equipment used in various industries. These include products such as transformers, motors, and switchgear.
+Companies in this sub-sector manufacture and distribute electrical components and equipment used in various industries. These include products such as [transformers](../t/transformers.md), motors, and switchgear.
 
 **Key Companies:**
 - Siemens (https://new.siemens.com/global/en.html)

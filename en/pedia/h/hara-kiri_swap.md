@@ -108,7 +108,7 @@ One of the fundamental [risk management](../r/risk_management.md) strategies for
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are increasingly being integrated into the [trading strategies](../t/trading_strategies.md) involving Hara-Kiri Swaps. These technologies can analyze vast amounts of data in real time, identify patterns, and execute trades more efficiently.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are increasingly being integrated into the [trading strategies](../t/trading_strategies.md) involving Hara-Kiri Swaps. These technologies can analyze vast amounts of data in real time, identify patterns, and execute trades more efficiently.
 
 ### Increased Regulation
 

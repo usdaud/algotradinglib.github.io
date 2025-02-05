@@ -62,7 +62,7 @@
 
 ## Future Trends in CRM
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML)**: The integration of AI and ML in CRM systems is transforming the way businesses interact with customers. AI-powered chatbots, [predictive analytics](../p/predictive_analytics.md), and personalized recommendations are enhancing [customer](../c/customer.md) experiences.
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML)**: The integration of AI and ML in CRM systems is transforming the way businesses interact with customers. AI-powered chatbots, [predictive analytics](../p/predictive_analytics.md), and personalized recommendations are enhancing [customer](../c/customer.md) experiences.
 
 2. **Mobile CRM**: With the increasing use of mobile devices, mobile CRM solutions are becoming more important. Mobile CRM allows sales and support teams to access [customer](../c/customer.md) information and manage interactions on the go.
 

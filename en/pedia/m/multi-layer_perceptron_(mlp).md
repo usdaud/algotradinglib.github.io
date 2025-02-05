@@ -1,6 +1,6 @@
 # Multi-Layer Perceptron (MLP)
 
-A Multi-Layer Perceptron (MLP) is a class of feedforward [artificial neural networks](../a/artificial_neural_networks.md) (ANN). It consists of at least three layers of nodes: an input layer, a hidden layer, and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function. MLP utilizes a supervised learning technique called backpropagation for training the network. It is a foundational model in [deep learning](../d/deep_learning.md) and has applications in various domains, including [algorithmic trading](../a/algorithmic_trading.md).
+A Multi-Layer Perceptron (MLP) is a class of feedforward [artificial neural networks](../a/artificial_neural_networks.md) (ANN). It consists of at least three layers of nodes: an input layer, a hidden layer, and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function. MLP utilizes a [supervised learning](../s/supervised_learning.md) technique called backpropagation for training the network. It is a foundational model in [deep learning](../d/deep_learning.md) and has applications in various domains, including [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Structure of MLP
 
@@ -27,7 +27,7 @@ Training an MLP involves adjusting weights and biases to minimize the error betw
 
 ### Backpropagation
 
-Backpropagation is a supervised learning algorithm used for training [neural networks](../n/neural_networks_in_trading.md). It involves four steps:
+Backpropagation is a [supervised learning](../s/supervised_learning.md) algorithm used for training [neural networks](../n/neural_networks_in_trading.md). It involves four steps:
 
 1. **Initialization:** Assign random values to the weights.
 2. **Forward Propagation:** Compute the output of each neuron from the input layer to the output layer.
@@ -48,7 +48,7 @@ MLPs have a wide [range](../r/range.md) of applications in [algorithmic trading]
 Several companies and platforms incorporate MLPs into their [trading strategies](../t/trading_strategies.md) and algorithms. Examples include:
 
 - **Kensho Technologies:** A financial analytics and AI company that leverages [neural networks](../n/neural_networks_in_trading.md) for predictive analysis. [Website](https://www.kensho.com)
-- **Two Sigma:** A leading [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that uses machine learning and MLPs for [trading strategies](../t/trading_strategies.md). [Website](https://www.twosigma.com)
+- **Two Sigma:** A leading [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md) and MLPs for [trading strategies](../t/trading_strategies.md). [Website](https://www.twosigma.com)
 - **Numerai:** A [hedge fund](../h/hedge_fund.md) that crowdsources [trading models](../t/trading_models.md), many of which use MLPs for predictions. [Website](https://numer.ai)
 
 ### Advantages of MLP

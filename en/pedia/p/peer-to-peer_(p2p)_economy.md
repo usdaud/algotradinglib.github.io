@@ -69,7 +69,7 @@ Etsy is an online marketplace for handmade, [vintage](../v/vintage.md), and uniq
 The Internet of Things (IoT) can further enhance the P2P [economy](../e/economy.md) by increasing connectivity between devices. This could lead to more integrated and automated systems, particularly in sectors like smart homes and transport.
 
 ### Enhanced AI and Machine Learning
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning can optimize various aspects of the P2P [economy](../e/economy.md). They can improve [matching algorithms](../m/matching_algorithms_in_trading.md), personalize user experiences, and even predict [market](../m/market.md) trends, making transactions smoother and more efficient.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) can optimize various aspects of the P2P [economy](../e/economy.md). They can improve [matching algorithms](../m/matching_algorithms_in_trading.md), personalize user experiences, and even predict [market](../m/market.md) trends, making transactions smoother and more efficient.
 
 ### Sustainability and Circular Economy
 The P2P [economy](../e/economy.md) has significant potential for promoting sustainability. By enabling the reuse and sharing of resources, it supports the principles of the circular [economy](../e/economy.md), reducing waste and promoting more sustainable consumption patterns.

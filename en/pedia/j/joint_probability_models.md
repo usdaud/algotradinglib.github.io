@@ -92,7 +92,7 @@ Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) fund
 
 ### Two Sigma
 
-Two Sigma Investments is another leading [firm](../f/firm.md) that leverages [joint probability](../j/joint_probability.md) models to drive their [algorithmic trading](../a/algorithmic_trading.md) strategies. By employing advanced statistical techniques, machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md), Two Sigma develops models that analyze the [joint](../j/joint.md) behavior of various financial instruments to identify profitable opportunities.
+Two Sigma Investments is another leading [firm](../f/firm.md) that leverages [joint probability](../j/joint_probability.md) models to drive their [algorithmic trading](../a/algorithmic_trading.md) strategies. By employing advanced statistical techniques, [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md), Two Sigma develops models that analyze the [joint](../j/joint.md) behavior of various financial instruments to identify profitable opportunities.
 
 [Link to Two Sigma](https://www.twosigma.com/)
 

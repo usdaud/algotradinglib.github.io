@@ -34,9 +34,9 @@ For example, some HFT strategies involve parsing [social media](../s/social_medi
 
 ### Machine Learning and Artificial Intelligence
 
-Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have revolutionized the field of [algorithmic trading](../a/accountability.md), [offering](../o/offering.md) the potential to uncover valuable insights from vast data sets. However, the aspiration to create a perfect predictive model can lead to overly ambitious projects. The complexity of some ML models can make them difficult to understand, interpret, and implement effectively.
+[Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have revolutionized the field of [algorithmic trading](../a/accountability.md), [offering](../o/offering.md) the potential to uncover valuable insights from vast data sets. However, the aspiration to create a perfect predictive model can lead to overly ambitious projects. The complexity of some ML models can make them difficult to understand, interpret, and implement effectively.
 
-Moreover, machine learning models require substantial training data to avoid biases and to generalize well. This often involves iteratively refining models and incorporating domain expertise, rather than chasing the unattainable goal of completely predicting [market](../m/market.md) movements.
+Moreover, [machine learning](../m/machine_learning.md) models require substantial training data to avoid biases and to generalize well. This often involves iteratively refining models and incorporating domain expertise, rather than chasing the unattainable goal of completely predicting [market](../m/market.md) movements.
 
 ## Practical Steps to Avoid Boiling the Ocean
 
@@ -72,7 +72,7 @@ Virtu Financial (https://www.virtu.com/) is a prominent player in the HFT arena.
 
 ### Citadel Securities
 
-Citadel Securities (https://www.citadelsecurities.com/) is another key player known for its expertise in [algorithmic trading](../a/accountability.md) and [market](../m/market.md)-making activities. The [firm](../f/firm.md) combines massive computational power with machine learning and AI to optimize [trading strategies](../t/trading_strategies.md) in real-time. Citadel Securities emphasizes rigorous testing, validation, and continuous improvement of its algorithms to ensure they are not just theoretically sound but also practically effective in real-world environments.
+Citadel Securities (https://www.citadelsecurities.com/) is another key player known for its expertise in [algorithmic trading](../a/accountability.md) and [market](../m/market.md)-making activities. The [firm](../f/firm.md) combines massive computational power with [machine learning](../m/machine_learning.md) and AI to optimize [trading strategies](../t/trading_strategies.md) in real-time. Citadel Securities emphasizes rigorous testing, validation, and continuous improvement of its algorithms to ensure they are not just theoretically sound but also practically effective in real-world environments.
 
 ### Renaissance Technologies
 

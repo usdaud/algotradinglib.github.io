@@ -56,7 +56,7 @@ AQR [Capital](../c/capital.md) Management employs a disciplined, systematic appr
 
 ### Two Sigma Investments
 
-Two Sigma Investments focuses on data-driven strategies to capture [upside](../u/upside.md) [market](../m/market.md) risks. Utilizing [big data](../b/big_data_in_trading.md), machine learning, and advanced technologies, Two Sigma's investment algorithms seek to uncover unique patterns and opportunities in the [financial markets](../f/financial_market.md). More information is available on their [website](https://www.twosigma.com).
+Two Sigma Investments focuses on data-driven strategies to capture [upside](../u/upside.md) [market](../m/market.md) risks. Utilizing [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and advanced technologies, Two Sigma's investment algorithms seek to uncover unique patterns and opportunities in the [financial markets](../f/financial_market.md). More information is available on their [website](https://www.twosigma.com).
 
 ---
 

@@ -44,7 +44,7 @@ Financial crises often present frequent bear traps due to heightened [volatility
 Algorithms designed to follow trends might misinterpret a bear trap as a genuine sell signal and thus execute sell orders, causing losses when the price rebounds.
 
 ### Exploiting Bear Traps
-Conversely, sophisticated algorithms, especially those using advanced AI and machine learning techniques, can identify the patterns associated with bear traps and exploit them to make [profit](../p/profit.md). These might include algorithms by high-frequency trading firms that can quickly respond to temporary price dips and [capitalize](../c/capitalize.md) on the rebound.
+Conversely, sophisticated algorithms, especially those using advanced AI and [machine learning](../m/machine_learning.md) techniques, can identify the patterns associated with bear traps and exploit them to make [profit](../p/profit.md). These might include algorithms by high-frequency trading firms that can quickly respond to temporary price dips and [capitalize](../c/capitalize.md) on the rebound.
 
 ## Key Players and Algorithmic Trading Firms
 
@@ -57,7 +57,7 @@ One of the most prominent and secretive [hedge](../h/hedge.md) funds, Renaissanc
 Another big name in the high-frequency trading space is Citadel Securities. They are involved in various [market](../m/market.md)-making activities and deploy sophisticated algorithms to [trade](../t/trade.md) securities. More details can be found at [Citadel Securities](https://www.citadelsecurities.com/).
 
 ### Two Sigma
-An [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to derive [trading signals](../t/trading_signals.md). Their approach often incorporates machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and other advanced computational techniques. More about them can be found at [Two Sigma](https://www.twosigma.com/).
+An [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to derive [trading signals](../t/trading_signals.md). Their approach often incorporates [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and other advanced computational techniques. More about them can be found at [Two Sigma](https://www.twosigma.com/).
 
 ## Conclusion
 

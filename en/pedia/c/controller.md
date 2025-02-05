@@ -54,7 +54,7 @@ Data controllers manage the input, storage, and processing of data crucial for i
 - **Real-time Processing:** Ensuring that data is processed and available in real-time for immediate decision-making.
   
 #### Examples:
-- DataRobot: A platform providing automated data processing and machine learning tools for trading. [DataRobot](https://www.datarobot.com/)
+- DataRobot: A platform providing automated data processing and [machine learning](../m/machine_learning.md) tools for trading. [DataRobot](https://www.datarobot.com/)
 
 ### 5. Compliance Controllers
 
@@ -89,10 +89,10 @@ Compliance controllers operate across the board to monitor activities in real-ti
 
 ### Machine Learning and Artificial Intelligence
 
-Many modern controllers now incorporate elements of Machine Learning (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) to enhance their performance. These technologies enable controllers to learn from past trading behaviors, predict future trends, and make more informed decisions.
+Many modern controllers now incorporate elements of [Machine Learning](../m/machine_learning.md) (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) to enhance their performance. These technologies enable controllers to learn from past trading behaviors, predict future trends, and make more informed decisions.
 
 #### Example:
-- **[Adaptive Algorithms](../a/adaptive_algorithms.md):** Machines can adapt [trading strategies](../t/trading_strategies.md) based on changing [market](../m/market.md) conditions using reinforcement learning techniques.
+- **[Adaptive Algorithms](../a/adaptive_algorithms.md):** Machines can adapt [trading strategies](../t/trading_strategies.md) based on changing [market](../m/market.md) conditions using [reinforcement learning](../r/reinforcement_learning.md) techniques.
 
 ### Blockchain and Distributed Ledger Technology (DLT)
 
@@ -126,4 +126,4 @@ Regular [security](../s/security.md) audits and continuous monitoring can help i
 
 ## Conclusion
 
-Controllers are the backbone of any [robust](../r/robust.md) [algorithmic trading](../a/accountability.md) system. They ensure seamless operation, from [trade](../t/trade.md) [execution](../e/execution.md) and [risk management](../r/risk_management.md) to strategy [optimization](../o/optimization.md), data processing, and regulatory compliance. By integrating advanced technologies like AI, machine learning, [blockchain](../b/blockchain_in_trading.md), and [cloud computing](../c/cloud_computing_in_trading.md), modern controllers enhance the [efficiency](../e/efficiency.md) and effectiveness of [trading systems](../t/trading_systems.md). Ensuring [robust](../r/robust.md) [security](../s/security.md) measures are also crucial to protect these systems from cyber threats. Understanding the roles and interplay of various controllers is essential for anyone looking to delve into the world of [algorithmic trading](../a/accountability.md).
+Controllers are the backbone of any [robust](../r/robust.md) [algorithmic trading](../a/accountability.md) system. They ensure seamless operation, from [trade](../t/trade.md) [execution](../e/execution.md) and [risk management](../r/risk_management.md) to strategy [optimization](../o/optimization.md), data processing, and regulatory compliance. By integrating advanced technologies like AI, [machine learning](../m/machine_learning.md), [blockchain](../b/blockchain_in_trading.md), and [cloud computing](../c/cloud_computing_in_trading.md), modern controllers enhance the [efficiency](../e/efficiency.md) and effectiveness of [trading systems](../t/trading_systems.md). Ensuring [robust](../r/robust.md) [security](../s/security.md) measures are also crucial to protect these systems from cyber threats. Understanding the roles and interplay of various controllers is essential for anyone looking to delve into the world of [algorithmic trading](../a/accountability.md).

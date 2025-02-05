@@ -126,7 +126,7 @@ The [market](../m/market.md) for own-occupation policies is evolving, driven by 
 
 - **Increased Customization**: Insurers are [offering](../o/offering.md) more customizable [options](../o/options.md) to align with the unique needs of various professions.
 - **Digital Platforms**: The rise of digital platforms is making it easier for individuals to compare and purchase own-occupation policies online.
-- **Enhanced [Risk](../r/risk.md) Assessment**: Advancements in [data analytics](../d/data_analytics.md) and machine learning are enabling more precise [risk](../r/risk.md) assessments, leading to more tailored and affordable coverage [options](../o/options.md).
+- **Enhanced [Risk](../r/risk.md) Assessment**: Advancements in [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) are enabling more precise [risk](../r/risk.md) assessments, leading to more tailored and affordable coverage [options](../o/options.md).
 
 ## Conclusion
 

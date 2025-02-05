@@ -43,7 +43,7 @@ After preprocessing, NLP models assign sentiment scores to texts. These scores a
 - **TextBlob**: Simplifies text processing and sentiment analysis tasks.
 - **VADER (Valence Aware Dictionary and Sentiment Reasoner)**: Specifically tuned for [social media](../s/social_media.md) text.
 - **spaCy**: Industrial-strength NLP library.
-- **TensorFlow/Keras**: For building [deep learning](../d/deep_learning.md) models.
+- **[TensorFlow](../t/tensorflow.md)/[Keras](../k/keras.md)**: For building [deep learning](../d/deep_learning.md) models.
 
 ### Example Workflow
 1. **Data Collection**: Gather textual data from news APIs, [social media](../s/social_media.md) platforms, etc.
@@ -122,7 +122,7 @@ Ensuring the quality and reliability of textual data is a significant challenge.
 [Financial markets](../f/financial_market.md) move quickly, requiring sentiment analysis systems to process and analyze data in real-time. Building scalable systems that can [handle](../h/handle.md) high-frequency data is complex.
 
 ### Interpretability
-Machine learning models, particularly [deep learning](../d/deep_learning.md) models, can be difficult to interpret. Understanding how a model arrives at a sentiment score is crucial for [trust](../t/trust.md) and reliability.
+[Machine learning](../m/machine_learning.md) models, particularly [deep learning](../d/deep_learning.md) models, can be difficult to interpret. Understanding how a model arrives at a sentiment score is crucial for [trust](../t/trust.md) and reliability.
 
 ### Sentiment Complexity
 Human language is nuanced and context-dependent. Accurately capturing sentiment, especially sarcasm or irony, remains a challenging task.

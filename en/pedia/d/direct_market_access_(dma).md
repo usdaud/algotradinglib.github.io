@@ -82,7 +82,7 @@ While DMA provides access to [multiple](../m/multiple.md) [liquidity pools](../l
 ## Future Trends in DMA
 
 ### Artificial Intelligence and Machine Learning
-The integration of AI and machine learning into DMA platforms is set to revolutionize the trading landscape. These technologies can provide enhanced [predictive analytics](../p/predictive_analytics.md), real-time decision-making capabilities, and adaptive learning, optimizing [trade](../t/trade.md) [execution](../e/execution.md) and strategy adjustment.
+The integration of AI and [machine learning](../m/machine_learning.md) into DMA platforms is set to revolutionize the trading landscape. These technologies can provide enhanced [predictive analytics](../p/predictive_analytics.md), real-time decision-making capabilities, and adaptive learning, optimizing [trade](../t/trade.md) [execution](../e/execution.md) and strategy adjustment.
 
 ### Blockchain and Distributed Ledger Technology
 [Blockchain](../b/blockchain_in_trading.md) technology can bring greater [transparency](../t/transparency.md) and [security](../s/security.md) to DMA processes. Distributed ledger technologies can ensure the immutability of transactions, reduce the [risk](../r/risk.md) of discrepancies, and streamline settlement processes.

@@ -42,7 +42,7 @@ Model-based approaches use econometric and statistical models to predict future 
 
 1. **ARIMA Models:** Autoregressive Integrated Moving Average models are used to capture and predict the [time series](../t/time_series.md) properties of financial data.
 2. **[Stochastic Volatility Models](../s/stochastic_volatility_models.md):** These models assume that [volatility](../v/volatility.md) itself follows a stochastic process, such as the [Heston model](../h/heston_model.md).
-3. **Machine Learning Models:** Advanced machine learning techniques, including [neural networks](../n/neural_networks_in_trading.md) and ensemble methods, are applied to predict [volatility](../v/volatility.md) based on a wide [range](../r/range.md) of input variables.
+3. **[Machine Learning](../m/machine_learning.md) Models:** Advanced [machine learning](../m/machine_learning.md) techniques, including [neural networks](../n/neural_networks_in_trading.md) and ensemble methods, are applied to predict [volatility](../v/volatility.md) based on a wide [range](../r/range.md) of input variables.
 
 #### Examples:
 - ARIMA Model: `R_t = μ + ϕ1R_t-1 + ϕ2R_t-2 + ... + ε_t`
@@ -79,7 +79,7 @@ Despite its importance, [volatility](../v/volatility.md) [forecasting](../f/fore
 
 3. **Data Quality:** The quality and availability of historical data can impact the reliability of [volatility](../v/volatility.md) forecasts. Data anomalies, missing values, and inaccuracies need to be addressed.
 
-4. **[Overfitting](../o/overfitting.md):** In machine learning approaches, there is a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) the model to historical data, which can reduce its predictive power on new data.
+4. **[Overfitting](../o/overfitting.md):** In [machine learning](../m/machine_learning.md) approaches, there is a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) the model to historical data, which can reduce its predictive power on new data.
 
 ## Examples of Volatility Forecasting Solutions and Companies
 
@@ -91,11 +91,11 @@ Several companies provide solutions and tools for [volatility](../v/volatility.m
 
 ### Alpha Vantage
 
-[Alpha](../a/alpha.md) Vantage provides APIs for accessing historical and [real-time market data](../r/real-time_market_data.md), which can be used for [volatility](../v/volatility.md) [forecasting](../f/forecasting.md). The platform supports various [time series analysis](../t/time_series_analysis.md) and machine learning techniques. More information can be found at [Alpha Vantage](https://www.alphavantage.co/).
+[Alpha](../a/alpha.md) Vantage provides APIs for accessing historical and [real-time market data](../r/real-time_market_data.md), which can be used for [volatility](../v/volatility.md) [forecasting](../f/forecasting.md). The platform supports various [time series analysis](../t/time_series_analysis.md) and [machine learning](../m/machine_learning.md) techniques. More information can be found at [Alpha Vantage](https://www.alphavantage.co/).
 
 ### Numerai
 
-Numerai is a [hedge fund](../h/hedge_fund.md) that uses machine learning to generate [trading signals](../t/trading_signals.md), including [volatility](../v/volatility.md) forecasts. The company's [open](../o/open.md) [data science](../d/data_science_in_trading.md) platform allows data scientists to contribute models and improve [forecasting](../f/forecasting.md) accuracy. Visit [Numerai](https://numer.ai/) for more details.
+Numerai is a [hedge fund](../h/hedge_fund.md) that uses [machine learning](../m/machine_learning.md) to generate [trading signals](../t/trading_signals.md), including [volatility](../v/volatility.md) forecasts. The company's [open](../o/open.md) [data science](../d/data_science_in_trading.md) platform allows data scientists to contribute models and improve [forecasting](../f/forecasting.md) accuracy. Visit [Numerai](https://numer.ai/) for more details.
 
 ## Conclusion
 

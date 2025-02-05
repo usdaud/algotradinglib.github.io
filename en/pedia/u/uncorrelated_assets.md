@@ -94,7 +94,7 @@ Statistical [arbitrage](../a/arbitrage.md) is a type of [algorithmic trading](..
 
 ### Machine Learning for Portfolio Optimization
 
-Machine learning techniques are increasingly being used in [algorithmic trading](../a/algorithmic_trading.md) to optimize portfolios containing uncorrelated assets. These techniques can analyze vast amounts of data to identify patterns and relationships that may not be apparent through traditional analysis. By incorporating uncorrelated assets, machine learning models can create more [robust](../r/robust.md) and diversified portfolios.
+[Machine learning](../m/machine_learning.md) techniques are increasingly being used in [algorithmic trading](../a/algorithmic_trading.md) to optimize portfolios containing uncorrelated assets. These techniques can analyze vast amounts of data to identify patterns and relationships that may not be apparent through traditional analysis. By incorporating uncorrelated assets, [machine learning](../m/machine_learning.md) models can create more [robust](../r/robust.md) and diversified portfolios.
 
 ## Future Trends and Considerations
 

@@ -24,7 +24,7 @@ Fluctuations in [exchange](../e/exchange.md) rates can affect the costs of impor
 ## Implications for Algorithmic Trading
 
 ### 1. **Market Volatility**
-Cost-push [inflation](../i/inflation.md) can lead to increased [market](../m/market.md) [volatility](../v/volatility.md). Algorithmic traders need to develop strategies that can adapt to rapidly changing [market](../m/market.md) conditions. This may involve employing [volatility](../v/volatility.md)-adjusted [order](../o/order.md) placement, hedging mechanisms, or machine learning models to predict [market](../m/market.md) movement accurately.
+Cost-push [inflation](../i/inflation.md) can lead to increased [market](../m/market.md) [volatility](../v/volatility.md). Algorithmic traders need to develop strategies that can adapt to rapidly changing [market](../m/market.md) conditions. This may involve employing [volatility](../v/volatility.md)-adjusted [order](../o/order.md) placement, hedging mechanisms, or [machine learning](../m/machine_learning.md) models to predict [market](../m/market.md) movement accurately.
 
 ### 2. **Impact on Company Earnings**
 Increased [production costs](../p/production_costs.md) can negatively impact company [earnings](../e/earnings.md), leading to downward revisions in [profit](../p/profit.md) forecasts and stock price [volatility](../v/volatility.md). Algo [trading systems](../t/trading_systems.md) designed to [capitalize](../c/capitalize.md) on such inefficiencies can generate significant returns.
@@ -41,7 +41,7 @@ Cost-push [inflation](../i/inflation.md) often involves commodities, making [com
 Algorithms can be designed to analyze news feeds, [social media](../s/social_media.md), and other forms of communication to gauge [market sentiment](../m/market_sentiment.md) and predict the impact of cost-push [inflation](../i/inflation.md) on various [asset](../a/asset.md) classes. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques can be employed to extract sentiment from large text corpora, providing a real-time barometer of [market sentiment](../m/market_sentiment.md).
 
 ### 2. **Predictive Analytics**
-Machine learning models can be used to predict future movements in [asset](../a/asset.md) prices influenced by cost-push [inflation](../i/inflation.md). These models may use historical data and various [economic indicators](../e/economic_indicators.md) to forecast price trends.
+[Machine learning](../m/machine_learning.md) models can be used to predict future movements in [asset](../a/asset.md) prices influenced by cost-push [inflation](../i/inflation.md). These models may use historical data and various [economic indicators](../e/economic_indicators.md) to forecast price trends.
 
 ### 3. **Risk Management Tools**
 [Algorithmic trading](../a/accountability.md) systems can incorporate sophisticated [risk management](../r/risk_management.md) tools, such as [Value](../v/value.md)-at-[Risk](../r/risk.md) (VaR) and Conditional [Value](../v/value.md)-at-[Risk](../r/risk.md) (CVaR), to measure potential losses in volatile environments. These measures can help traders set stop-loss limits and other [risk](../r/risk.md) controls.
@@ -72,7 +72,7 @@ Goldman Sachs is a global investment [bank](../b/bank.md) that employs sophistic
 Citadel Securities is a leading [market maker](../m/market_maker.md) and [algorithmic trading](../a/accountability.md) [firm](../f/firm.md), known for its advanced trading platforms and high-frequency trading capabilities.
 
 ### **Two Sigma [Two Sigma Website](https://www.twosigma.com)**
-Two Sigma is a [hedge fund](../h/hedge_fund.md) that leverages [data science](../d/data_science_in_trading.md) and technology to inform its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) uses machine learning and [big data analytics](../b/big_data_analytics_in_trading.md) to predict [market](../m/market.md) movements.
+Two Sigma is a [hedge fund](../h/hedge_fund.md) that leverages [data science](../d/data_science_in_trading.md) and technology to inform its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to predict [market](../m/market.md) movements.
 
 ### **Jane Street [Jane Street Website](https://www.janestreet.com)**
 Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that employs algorithmic strategies across various [asset](../a/asset.md) classes, including equities, commodities, and [fixed income](../f/fixed_income.md).

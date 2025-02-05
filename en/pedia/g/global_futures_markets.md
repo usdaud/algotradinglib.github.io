@@ -96,7 +96,7 @@ The future of [futures](../f/futures.md) markets looks poised for continued grow
    
 2. **Sustainable [Futures](../f/futures.md)**: Growing [interest](../i/interest.md) in [environmental, social, and governance (ESG) investing](../e/environmental,_social,_and_governance_(esg)_investing.md) is leading to the creation of [futures contracts](../f/futures_contracts.md) linked to sustainable assets, such as carbon credits.
 
-3. **Advanced Analytics and Machine Learning**: The use of [big data analytics](../b/big_data_analytics_in_trading.md) and machine learning in creating [predictive models](../p/predictive_models_in_trading.md) and [trading strategies](../t/trading_strategies.md).
+3. **Advanced Analytics and [Machine Learning](../m/machine_learning.md)**: The use of [big data analytics](../b/big_data_analytics_in_trading.md) and [machine learning](../m/machine_learning.md) in creating [predictive models](../p/predictive_models_in_trading.md) and [trading strategies](../t/trading_strategies.md).
 
 4. **Regulatory Changes**: Evolving regulations aiming to improve [market](../m/market.md) [transparency](../t/transparency.md) and reduce systemic risks.
 

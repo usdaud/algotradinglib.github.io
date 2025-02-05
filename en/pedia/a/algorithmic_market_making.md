@@ -47,7 +47,7 @@ Algorithmic [market](../m/market.md) making relies heavily on advanced technolog
 
 1. **High-Frequency [Trading Systems](../t/trading_systems.md):** These systems are designed to execute a large number of orders quickly and efficiently. Speed and reliability are critical components of these systems.
 2. **[Data Analytics](../d/data_analytics.md):** Real-time [data analytics](../d/data_analytics.md) are crucial for making informed decisions. Algorithms analyze vast amounts of data to detect patterns and formulate optimal quoting strategies.
-3. **Machine Learning:** ML algorithms enhance decision-making by learning from historical data and adapting to changing [market](../m/market.md) conditions. They help in [predictive modeling](../p/predictive_modeling.md) and [risk management](../r/risk_management.md).
+3. **[Machine Learning](../m/machine_learning.md):** ML algorithms enhance decision-making by learning from historical data and adapting to changing [market](../m/market.md) conditions. They help in [predictive modeling](../p/predictive_modeling.md) and [risk management](../r/risk_management.md).
 4. **Network [Infrastructure](../i/infrastructure.md):** Low-latency networks are essential to minimize delays in [order](../o/order.md) [execution](../e/execution.md). Co-location with exchanges and direct [market](../m/market.md) access (DMA) are common practices to achieve optimal latency.
 
 ## Leading Firms in Algorithmic Market Making

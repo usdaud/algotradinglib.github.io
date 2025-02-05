@@ -62,7 +62,7 @@ The advent of technology has revolutionized [risk management](../r/risk_manageme
 
 1. **[Algorithmic Trading](../a/accountability.md)**: Algorithms can execute trades at high speeds and with precision, while also incorporating [risk management](../r/risk_management.md) rules automatically. This reduces human error and ensures consistent application of [risk](../r/risk.md) controls.
 
-2. **Machine Learning**: Machine learning models can analyze vast datasets to identify patterns and potential risks that may not be evident to human analysts. [Predictive analytics](../p/predictive_analytics.md) can forewarn about potential [market](../m/market.md) disruptions or adverse trends.
+2. **[Machine Learning](../m/machine_learning.md)**: [Machine learning](../m/machine_learning.md) models can analyze vast datasets to identify patterns and potential risks that may not be evident to human analysts. [Predictive analytics](../p/predictive_analytics.md) can forewarn about potential [market](../m/market.md) disruptions or adverse trends.
 
 3. **[Blockchain](../b/blockchain_in_trading.md) Technology**: [Blockchain](../b/blockchain_in_trading.md) offers greater [transparency](../t/transparency.md) and [security](../s/security.md) in transactions, which can reduce operational and [fraud](../f/fraud.md) risks. It also facilitates more reliable and real-time [risk](../r/risk.md) reporting.
 

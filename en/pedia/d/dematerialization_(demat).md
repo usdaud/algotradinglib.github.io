@@ -114,7 +114,7 @@ The future of dematerialization looks promising with ongoing technological advan
 
 - **[Blockchain](../b/blockchain_in_trading.md) Technology**: Leveraging [blockchain](../b/blockchain_in_trading.md) for enhanced [security](../s/security.md) and [transparency](../t/transparency.md) in the handling of securities.
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML)**: Implementing AI and ML for predictive analysis and improved decision-making in trading.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML)**: Implementing AI and ML for predictive analysis and improved decision-making in trading.
 
 - **Digital Identification**: Utilizing digital identification methods like e-KYC for faster and more secure account opening processes.
 

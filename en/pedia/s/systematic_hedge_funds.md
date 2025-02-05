@@ -20,7 +20,7 @@ Key components:
 Systematic [hedge](../h/hedge.md) funds rely on various data sources beyond conventional [market](../m/market.md) prices. This includes news sentiment, [social media](../s/social_media.md) signals, macroeconomic indicators, and more. The models employed can [range](../r/range.md) from simple moving averages to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md) and [neural networks](../n/neural_networks_in_trading.md).
 
 1. **Statistical Models**: These include [regression analysis](../r/regression_analysis.md), time-series analysis, and multivariate [statistics](../s/statistics.md) to identify relationships and patterns in data.
-2. **Machine Learning**: Advanced techniques such as supervised learning, unsupervised learning, and reinforcement learning enhance predictive capabilities.
+2. **[Machine Learning](../m/machine_learning.md)**: Advanced techniques such as [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md) enhance predictive capabilities.
 3. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Used for analyzing text data from news or [social media](../s/social_media.md) to gauge [market sentiment](../m/market_sentiment.md).
 
 ## Key Players in the Systematic Hedge Fund Industry
@@ -72,7 +72,7 @@ Systematic [hedge](../h/hedge.md) funds use various strategies differing in comp
 
 Advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) [leverage](../l/leverage.md) statistical models and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict [market](../m/market.md) movements. 
 
-1. **Machine Learning Models**: Utilizing supervised and unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) to identify patterns and make predictions.
+1. **[Machine Learning](../m/machine_learning.md) Models**: Utilizing supervised and unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) to identify patterns and make predictions.
 2. **[Neural Networks](../n/neural_networks_in_trading.md)**: Employing [deep learning](../d/deep_learning.md) techniques for complex [pattern recognition](../p/pattern_recognition.md).
 3. **[Bayesian Networks](../b/bayesian_networks.md)**: Providing a probabilistic graphical model for decision making under [uncertainty](../u/uncertainty_in_trading.md).
 
@@ -119,7 +119,7 @@ The landscape of systematic [hedge](../h/hedge.md) funds is constantly evolving,
 
 ### Artificial Intelligence and Machine Learning
 
-The growing capabilities of AI and machine learning are likely to enhance model sophistication and predictive accuracy significantly.
+The growing capabilities of AI and [machine learning](../m/machine_learning.md) are likely to enhance model sophistication and predictive accuracy significantly.
 
 ### Big Data
 

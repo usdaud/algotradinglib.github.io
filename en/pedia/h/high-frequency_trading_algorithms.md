@@ -8,7 +8,7 @@ High-Frequency Trading (HFT) algorithms have profoundly transformed [financial m
 The cornerstone of High-Frequency Trading is speed. HFT firms invest heavily in technologies that minimize latency, which is the time delay between the [market](../m/market.md) event and the [execution](../e/execution.md) of [trade](../t/trade.md). Low latency ensures that HFT algorithms can [capitalize](../c/capitalize.md) on minute price discrepancies before they disappear. Technologies such as fiber optic cables, microwave transmissions, and co-location services (placing traders' servers next to [exchange](../e/exchange.md) servers) are commonly deployed.
 
 ### Complex Algorithms
-HFT algorithms are sophisticated, often incorporating machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md). These algorithms scan and react to [market](../m/market.md) orders, price movements, and other financial indicators. 
+HFT algorithms are sophisticated, often incorporating [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md). These algorithms scan and react to [market](../m/market.md) orders, price movements, and other financial indicators. 
 
 ### Market Microstructure
 Understanding [market microstructure](../m/market_microstructure.md)—how orders are matched, types of orders, and the functioning of various trading venues—is crucial for HFT strategies. These algorithms exploit micro-inefficiencies within this structure.
@@ -18,7 +18,7 @@ Understanding [market microstructure](../m/market_microstructure.md)—how order
 ### Arbitrage
 **[Arbitrage](../a/arbitrage.md)** involves buying and selling the same [asset](../a/asset.md) on different platforms to [profit](../p/profit.md) from price discrepancies. 
 
-1. **Statistical [Arbitrage](../a/arbitrage.md)**: Uses statistical methods and machine learning to predict price movements and identify [arbitrage](../a/arbitrage.md) opportunities.
+1. **Statistical [Arbitrage](../a/arbitrage.md)**: Uses statistical methods and [machine learning](../m/machine_learning.md) to predict price movements and identify [arbitrage](../a/arbitrage.md) opportunities.
 2. **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md)**: Involves trading between an [index](../i/index_instrument.md) future and the [underlying](../u/underlying.md) securities.
 
 ### Market Making
@@ -65,7 +65,7 @@ Continuous advancements in hardware, software, and [networking](../n/networking.
 Regulatory bodies across the globe are working to implement rules that address concerns related to fairness, [transparency](../t/transparency.md), and [systemic risk](../s/systemic_risk.md) in HFT.
 
 ### Machine Learning and AI
-The integration of more advanced machine learning and AI techniques [will](../w/will.md) enhance the predictive capabilities of HFT algorithms, resulting in more sophisticated [trading strategies](../t/trading_strategies.md).
+The integration of more advanced [machine learning](../m/machine_learning.md) and AI techniques [will](../w/will.md) enhance the predictive capabilities of HFT algorithms, resulting in more sophisticated [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

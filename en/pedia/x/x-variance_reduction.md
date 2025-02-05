@@ -25,7 +25,7 @@ Hedging involves taking offsetting positions in related securities to counterbal
 [Grid trading](../g/grid_trading.md) is a type of [trading strategy](../t/trading_strategy.md) that places buy and sell orders at predefined intervals around a set price. While the [market](../m/market.md) fluctuates, it [will](../w/will.md) trigger these orders, thus capturing profits from the [volatility](../v/volatility.md) without trying to predict directions.
 
 ### 4. **Sophisticated Algorithms**
-Advanced algorithms that incorporate machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can dynamically adapt to changing [market](../m/market.md) conditions better than static models. These sophisticated algorithms are capable of learning from past [market](../m/market.md) behavior, thus reducing the [risk](../r/risk.md) of unexpected events.
+Advanced algorithms that incorporate [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can dynamically adapt to changing [market](../m/market.md) conditions better than static models. These sophisticated algorithms are capable of learning from past [market](../m/market.md) behavior, thus reducing the [risk](../r/risk.md) of unexpected events.
 
 ### 5. **Risk Parity**
 [Risk parity](../r/risk_parity.md) is an investment approach that focuses on allocating [capital](../c/capital.md) according to [risk](../r/risk.md) rather than [expected return](../e/expected_return.md). By equalizing the [risk](../r/risk.md) contribution of each [asset](../a/asset.md) in the portfolio, this method reduces variance and contributes to a more [balanced investment strategy](../b/balanced_investment_strategy.md).

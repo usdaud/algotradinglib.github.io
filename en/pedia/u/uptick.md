@@ -50,10 +50,10 @@ The occurrence of upticks can influence [investor](../i/investor.md) psychology 
 
 ### Machine Learning Models
 
-Modern [trading algorithms](../t/trading_algorithms.md) increasingly incorporate machine learning techniques to identify and [capitalize](../c/capitalize.md) on upticks. These models can process vast amounts of data to identify patterns that human traders might miss. 
+Modern [trading algorithms](../t/trading_algorithms.md) increasingly incorporate [machine learning](../m/machine_learning.md) techniques to identify and [capitalize](../c/capitalize.md) on upticks. These models can process vast amounts of data to identify patterns that human traders might miss. 
 
 - **[Neural Networks](../n/neural_networks_in_trading.md):** These can be trained on historical price data to predict the likelihood of future upticks.
-- **Reinforcement Learning:** Algorithms can learn optimal actions in complex trading environments through trial-and-error, refining their strategies over thousands of [simulated trading](../s/simulated_trading.md) sessions.
+- **[Reinforcement Learning](../r/reinforcement_learning.md):** Algorithms can learn optimal actions in complex trading environments through trial-and-error, refining their strategies over thousands of [simulated trading](../s/simulated_trading.md) sessions.
 
 ### Real-time Data Analysis
 
@@ -85,4 +85,4 @@ In the [European Union](../e/european_union_(eu).md), the Markets in Financial I
 
 ## Conclusion
 
-Upticks are more than just simple price increases; they are integral signals that traders use to understand and act upon [market](../m/market.md) trends. With the rise of [algorithmic trading](../a/accountability.md) and machine learning, the role of upticks in [trading strategies](../t/trading_strategies.md) has become even more sophisticated. However, the potential for misuse and the need for rigorous regulatory compliance cannot be ignored. Success in leveraging upticks requires blending traditional [market](../m/market.md) understanding with cutting-edge technological tools.
+Upticks are more than just simple price increases; they are integral signals that traders use to understand and act upon [market](../m/market.md) trends. With the rise of [algorithmic trading](../a/accountability.md) and [machine learning](../m/machine_learning.md), the role of upticks in [trading strategies](../t/trading_strategies.md) has become even more sophisticated. However, the potential for misuse and the need for rigorous regulatory compliance cannot be ignored. Success in leveraging upticks requires blending traditional [market](../m/market.md) understanding with cutting-edge technological tools.

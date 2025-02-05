@@ -38,7 +38,7 @@ X-Stock Indicators operate by processing historical and [real-time market data](
 
 ### Data Collection and Processing
 
-Data is collected from various sources including stock exchanges, financial news providers, and economic reports. The data includes price levels, trading volumes, and other [market](../m/market.md) metrics. Advanced computational tools and machine learning models are employed to parse through this data and extract relevant patterns.
+Data is collected from various sources including stock exchanges, financial news providers, and economic reports. The data includes price levels, trading volumes, and other [market](../m/market.md) metrics. Advanced computational tools and [machine learning](../m/machine_learning.md) models are employed to parse through this data and extract relevant patterns.
 
 ### Algorithmic Analysis
 

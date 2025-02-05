@@ -130,7 +130,7 @@ The field of [market](../m/market.md) [risk analysis](../r/risk_analysis.md) con
 
 ### Machine Learning and Artificial Intelligence
 
-Machine learning and AI are increasingly being utilized to enhance [risk](../r/risk.md) analytics. These technologies enable the analysis of large datasets and identification of complex patterns, improving the accuracy and [efficiency](../e/efficiency.md) of [risk](../r/risk.md) assessments.
+[Machine learning](../m/machine_learning.md) and AI are increasingly being utilized to enhance [risk](../r/risk.md) analytics. These technologies enable the analysis of large datasets and identification of complex patterns, improving the accuracy and [efficiency](../e/efficiency.md) of [risk](../r/risk.md) assessments.
 
 ### Real-time Risk Monitoring
 

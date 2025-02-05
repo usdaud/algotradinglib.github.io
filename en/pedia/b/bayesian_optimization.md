@@ -1,6 +1,6 @@
 # Bayesian Optimization
 
-Bayesian [Optimization](../o/optimization.md) is a powerful strategy for the [optimization](../o/optimization.md) of black-box functions, which are functions with inputs that are either continuous or discrete, where the objective function is expensive to evaluate. This approach is extensively utilized in fields such as machine learning, hyperparameter tuning, and automated [algorithm design](../a/algorithm_design.md), where the cost of function evaluation is high.
+Bayesian [Optimization](../o/optimization.md) is a powerful strategy for the [optimization](../o/optimization.md) of black-box functions, which are functions with inputs that are either continuous or discrete, where the objective function is expensive to evaluate. This approach is extensively utilized in fields such as [machine learning](../m/machine_learning.md), hyperparameter tuning, and automated [algorithm design](../a/algorithm_design.md), where the cost of function evaluation is high.
 
 ## Fundamental Concept
 
@@ -50,15 +50,15 @@ Bayesian [Optimization](../o/optimization.md) has found applications in diverse 
 
 ### Hyperparameter Tuning
 
-In machine learning, Bayesian [Optimization](../o/optimization.md) is often used for hyperparameter tuning, where the objective function is the performance of a machine learning model, and the evaluations are the results of training the model with different hyperparameter settings.
+In [machine learning](../m/machine_learning.md), Bayesian [Optimization](../o/optimization.md) is often used for hyperparameter tuning, where the objective function is the performance of a [machine learning](../m/machine_learning.md) model, and the evaluations are the results of training the model with different hyperparameter settings.
 
 ### Automated Machine Learning (AutoML)
 
-AutoML frameworks employ Bayesian [Optimization](../o/optimization.md) to automate the selection and tuning of machine learning models, leading to faster and more reliable deployment of machine learning solutions.
+[AutoML](../a/automl.md) frameworks employ Bayesian [Optimization](../o/optimization.md) to automate the selection and tuning of [machine learning](../m/machine_learning.md) models, leading to faster and more reliable deployment of [machine learning](../m/machine_learning.md) solutions.
 
 ### Reinforcement Learning
 
-Bayesian [Optimization](../o/optimization.md) aids in optimizing policy parameters in reinforcement learning, striking a balance between exploring new policies and exploiting known good policies.
+Bayesian [Optimization](../o/optimization.md) aids in optimizing policy parameters in [reinforcement learning](../r/reinforcement_learning.md), striking a balance between exploring new policies and exploiting known good policies.
 
 ### Industrial and Scientific Applications
 
@@ -78,7 +78,7 @@ Several companies and tools [offer](../o/offer.md) Bayesian [Optimization](../o/
 
 ### OPTUNA
 
-[Optuna](https://optuna.org/) is an automatic hyperparameter [optimization](../o/optimization.md) library designed for machine learning, using efficient [sampling](../s/sampling.md) and pruning strategies for Bayesian [Optimization](../o/optimization.md).
+[Optuna](https://optuna.org/) is an automatic hyperparameter [optimization](../o/optimization.md) library designed for [machine learning](../m/machine_learning.md), using efficient [sampling](../s/sampling.md) and pruning strategies for Bayesian [Optimization](../o/optimization.md).
 
 ### Hyperopt
 

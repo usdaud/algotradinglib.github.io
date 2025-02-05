@@ -49,7 +49,7 @@ Data is pivotal for systematic trading. This includes historical price data, [re
 
 ### 2. **Programming Languages**
 
-Programming languages such as Python, R, C++, and MATLAB are widely used to develop, backtest, and implement [trading strategies](../t/trading_strategies.md). Python’s rich libraries like NumPy, pandas, and TensorFlow make it particularly popular among quants.
+Programming languages such as Python, R, C++, and MATLAB are widely used to develop, backtest, and implement [trading strategies](../t/trading_strategies.md). Python’s rich libraries like NumPy, pandas, and [TensorFlow](../t/tensorflow.md) make it particularly popular among quants.
 
 ### 3. **Trading Platforms**
 
@@ -61,13 +61,13 @@ Various trading platforms support the deployment of systematic [trading strategi
 
 ### 4. **Machine Learning and AI**
 
-Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being integrated into systematic trading to enhance model accuracy and predictability. Techniques like [neural networks](../n/neural_networks_in_trading.md), reinforcement learning, and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) are applied to extract insights from large data sets.
+[Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being integrated into systematic trading to enhance model accuracy and predictability. Techniques like [neural networks](../n/neural_networks_in_trading.md), [reinforcement learning](../r/reinforcement_learning.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) are applied to extract insights from large data sets.
 
 ## Systematic Trading Firms
 
 ### 1. **Two Sigma**
 
-[Two Sigma](https://www.twosigma.com) is a prominent quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and advanced technologies to drive its [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) massive data sets, machine learning, and distributed computing.
+[Two Sigma](https://www.twosigma.com) is a prominent quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and advanced technologies to drive its [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) massive data sets, [machine learning](../m/machine_learning.md), and distributed computing.
 
 ### 2. **Renaissance Technologies**
 
@@ -132,5 +132,5 @@ The rise of quantitative [exchange](../e/exchange.md)-traded funds (ETFs) that e
 
 ## Conclusion
 
-Systematic trading represents a paradigm shift in how [financial markets](../f/financial_market.md) operate, emphasizing the importance of data, machine learning, and algorithmic strategies. As technology advances, the role of systematic trading [will](../w/will.md) only grow, paving the way for more efficient and innovative approaches to [financial markets](../f/financial_market.md).
+Systematic trading represents a paradigm shift in how [financial markets](../f/financial_market.md) operate, emphasizing the importance of data, [machine learning](../m/machine_learning.md), and algorithmic strategies. As technology advances, the role of systematic trading [will](../w/will.md) only grow, paving the way for more efficient and innovative approaches to [financial markets](../f/financial_market.md).
 

@@ -58,7 +58,7 @@ Analyzing performance after executing trades provides insights for ongoing impro
 
 Constant refinement of algorithms and strategies is crucial:
 
-- **Machine Learning**: Integrating machine learning models to adapt to changing [market](../m/market.md) conditions.
+- **[Machine Learning](../m/machine_learning.md)**: Integrating [machine learning](../m/machine_learning.md) models to adapt to changing [market](../m/market.md) conditions.
 - **Algorithm Tuning**: Routine adjustments based on [performance metrics](../p/performance_metrics.md) and [market dynamics](../m/market_dynamics.md).
 - **R&D Investments**: Allocating resources for research and development to stay ahead of the competition.
 

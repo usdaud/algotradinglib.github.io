@@ -67,7 +67,7 @@ Various standards and frameworks guide companies in ESG reporting. Some of the w
 ESG [investing](../i/investing.md) continues to evolve with growing awareness and regulatory support. Current trends and future directions include:
 
 - **Regulatory Developments:** Increasing government regulations and policies encourage [transparency](../t/transparency.md) and standardization in ESG reporting.
-- **Technological Advancements:** Enhanced [data analytics](../d/data_analytics.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning are improving ESG data collection and analysis.
+- **Technological Advancements:** Enhanced [data analytics](../d/data_analytics.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) are improving ESG data collection and analysis.
 - **[Investor](../i/investor.md) [Demand](../d/demand.md):** Greater emphasis from institutional and retail investors for responsible investments.
 - **Corporate Engagement:** More companies integrating ESG factors into their strategies and operations due to [stakeholder](../s/stakeholder.md) pressures.
 

@@ -43,7 +43,7 @@ In [algorithmic trading](../a/accountability.md), the detection and interpretati
 
 ### Pattern Recognition Algorithms
 - Algorithms such as Moving Averages, [Trend](../t/trend.md) Lines, and [Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price (VWAP) can be used to smooth the data and identify trends.
-- Machine learning models can be trained to recognize the Inverse [Head and Shoulders pattern](../h/head_and_shoulders_pattern.md) from thousands of historical charts, thus improving the detection accuracy over time.
+- [Machine learning](../m/machine_learning.md) models can be trained to recognize the Inverse [Head and Shoulders pattern](../h/head_and_shoulders_pattern.md) from thousands of historical charts, thus improving the detection accuracy over time.
 
 ### Breakout Confirmation
 - Once the pattern is identified, a potential [breakout](../b/breakout.md) point is determined by the [neckline](../n/neckline.md).

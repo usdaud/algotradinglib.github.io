@@ -46,7 +46,7 @@ With the advent and growth of [algorithmic trading](../a/algorithmic_trading.md)
 
 2. **Bridgewater Associates**: Founded by Ray Dalio, Bridgewater is one of the largest [hedge](../h/hedge.md) funds in the world. Dalio's investment philosophy, described in his book "Principles," often emphasizes understanding long-term [economic cycles](../e/economic_cycles.md), including the Kondratieff Waves. Further details are available on their [official site](https://www.bridgewater.com/).
 
-3. **Two Sigma**: This [firm](../f/firm.md) employs machine learning, distributed computing, and other advanced technologies to improve investment strategies. Their approach often includes analyzing historical economic data and trends, which may encompass long-term cycles like the Kondratieff Waves. More on their methodologies can be found on their [website](https://www.twosigma.com/).
+3. **Two Sigma**: This [firm](../f/firm.md) employs [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies to improve investment strategies. Their approach often includes analyzing historical economic data and trends, which may encompass long-term cycles like the Kondratieff Waves. More on their methodologies can be found on their [website](https://www.twosigma.com/).
 
 ## Criticisms and Controversies
 

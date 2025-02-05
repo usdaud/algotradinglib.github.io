@@ -84,7 +84,7 @@ In fintech, combining nonlinear regression with [machine learning algorithms](..
 
 ### Example: Machine Learning Model Integration
 
-Consider a machine learning model integrating nonlinear regression for [credit](../c/credit.md) scoring. This model could use [customer](../c/customer.md) historical data and nonlinear regression to predict the probability of [default](../d/default.md):
+Consider a [machine learning](../m/machine_learning.md) model integrating nonlinear regression for [credit](../c/credit.md) scoring. This model could use [customer](../c/customer.md) historical data and nonlinear regression to predict the probability of [default](../d/default.md):
 
 \[ P(\text{[default](../d/default.md)}) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 x1 + \beta_2 x2 + \beta_3 x1x2)}} \]
 
@@ -92,7 +92,7 @@ Here, the logistic function (a nonlinear function) models the probability, with 
 
 ## Implementation and Software
 
-Modern statistical software packages like R, Python (with libraries such as Scikit-learn, TensorFlow, and PyTorch), SAS, and MATLAB provide [robust](../r/robust.md) tools for implementing nonlinear regression models. Additionally, financial data platforms like [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md) [offer](../o/offer.md) data feeds compatible with these tools, enabling sophisticated model building and real-time analysis.
+Modern statistical software packages like R, Python (with libraries such as Scikit-learn, [TensorFlow](../t/tensorflow.md), and [PyTorch](../p/pytorch.md)), SAS, and MATLAB provide [robust](../r/robust.md) tools for implementing nonlinear regression models. Additionally, financial data platforms like [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md) [offer](../o/offer.md) data feeds compatible with these tools, enabling sophisticated model building and real-time analysis.
 
 ### Example: Python Implementation with Scikit-learn
 

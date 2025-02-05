@@ -36,7 +36,7 @@ Several facets in the utilization of average life within [algorithmic trading](.
 
 ### Integration with AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are being extensively employed in [algorithmic trading](../a/accountability.md) to better interpret complex financial instruments. Average life becomes a critical metric in:
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are being extensively employed in [algorithmic trading](../a/accountability.md) to better interpret complex financial instruments. Average life becomes a critical metric in:
 - **[Predictive Analytics](../p/predictive_analytics.md)**: Using historical data to forecast future cash flows and repayments to estimate more accurate average lives.
 - **Algorithm Adjustments**: Dynamically adjusting [trading algorithms](../t/trading_algorithms.md) to react to changes in the average life of bonds within the portfolio.
 

@@ -52,7 +52,7 @@ As the [market](../m/market.md) reaches its lowest point, signals indicating a p
 
 ## Machine Learning and AI in Investment Cycles
 
-Modern [algorithmic trading](../a/algorithmic_trading.md) intensely leverages machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance the accuracy and adaptability of [trading strategies](../t/trading_strategies.md). ML algorithms can process vast amounts of data to identify subtle patterns and make predictions about future [market](../m/market.md) movements.
+Modern [algorithmic trading](../a/algorithmic_trading.md) intensely leverages [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance the accuracy and adaptability of [trading strategies](../t/trading_strategies.md). ML algorithms can process vast amounts of data to identify subtle patterns and make predictions about future [market](../m/market.md) movements.
 
 ### Neural Networks
 
@@ -60,7 +60,7 @@ Modern [algorithmic trading](../a/algorithmic_trading.md) intensely leverages ma
 
 ### Reinforcement Learning
 
-Reinforcement learning involves training algorithms through trial and error to make optimal trading decisions. Agents explore various actions within simulated markets to maximize cumulative rewards, improving their strategies over time.
+[Reinforcement learning](../r/reinforcement_learning.md) involves training algorithms through trial and error to make optimal trading decisions. Agents explore various actions within simulated markets to maximize cumulative rewards, improving their strategies over time.
 
 ## Risk Management in Algorithmic Trading
 
@@ -84,9 +84,9 @@ Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion [
 
 ### Citadel
 
-Citadel employs a combination of [quantitative research](../q/quantitative_research.md) and [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) to achieve [robust](../r/robust.md) performance. The [firm](../f/firm.md) utilizes machine learning and massive data sets to refine its [trading models](../t/trading_models.md) continually. For further details, see [Citadel Securities](https://www.citadelsecurities.com/).
+Citadel employs a combination of [quantitative research](../q/quantitative_research.md) and [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) to achieve [robust](../r/robust.md) performance. The [firm](../f/firm.md) utilizes [machine learning](../m/machine_learning.md) and massive data sets to refine its [trading models](../t/trading_models.md) continually. For further details, see [Citadel Securities](https://www.citadelsecurities.com/).
 
 ## Conclusion
 
-Understanding investment cycles is critically important for [algorithmic trading](../a/algorithmic_trading.md). By designing algorithms tailored to the different phases of these cycles, traders can significantly enhance their profitability and manage risks effectively. Leveraging advanced [data analytics](../d/data_analytics.md), machine learning, and AI technologies further strengthens the ability of these algo-[trading systems](../t/trading_systems.md) to anticipate [market](../m/market.md) movements and maintain a competitive edge.
+Understanding investment cycles is critically important for [algorithmic trading](../a/algorithmic_trading.md). By designing algorithms tailored to the different phases of these cycles, traders can significantly enhance their profitability and manage risks effectively. Leveraging advanced [data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and AI technologies further strengthens the ability of these algo-[trading systems](../t/trading_systems.md) to anticipate [market](../m/market.md) movements and maintain a competitive edge.
 

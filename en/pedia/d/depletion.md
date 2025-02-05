@@ -56,7 +56,7 @@ Diversifying [trading strategies](../t/trading_strategies.md) across different [
 
 ### Innovation
 
-Constantly innovating and incorporating new data sets, machine learning models, and other advanced analytical techniques can [offer](../o/offer.md) a competitive edge and access to fresh [alpha](../a/alpha.md)-generating opportunities. This includes adopting cutting-edge technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [quantum computing](../q/quantum_computing_in_trading.md) for more sophisticated [market](../m/market.md) analysis and prediction models.
+Constantly innovating and incorporating new data sets, [machine learning](../m/machine_learning.md) models, and other advanced analytical techniques can [offer](../o/offer.md) a competitive edge and access to fresh [alpha](../a/alpha.md)-generating opportunities. This includes adopting cutting-edge technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [quantum computing](../q/quantum_computing_in_trading.md) for more sophisticated [market](../m/market.md) analysis and prediction models.
 
 ### Collaboration and Shared Knowledge
 
@@ -74,7 +74,7 @@ Staying abreast of regulatory changes and ensuring compliance can prevent abrupt
 
 The landscape of [algorithmic trading](../a/accountability.md) is continuously evolving, driven by technological advancements and shifts in [market dynamics](../m/market_dynamics.md). While depletion poses a significant challenge, it also pushes for constant innovation and improvement in [trading strategies](../t/trading_strategies.md). Key trends likely to shape the future include:
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: Increased adoption of AI and machine learning for [predictive analytics](../p/predictive_analytics.md), [sentiment analysis](../s/sentiment_analysis.md), and automated decision-making, [offering](../o/offering.md) more sophisticated and adaptive [trading strategies](../t/trading_strategies.md).
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: Increased adoption of AI and [machine learning](../m/machine_learning.md) for [predictive analytics](../p/predictive_analytics.md), [sentiment analysis](../s/sentiment_analysis.md), and automated decision-making, [offering](../o/offering.md) more sophisticated and adaptive [trading strategies](../t/trading_strategies.md).
 2. **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potential utilization of [quantum computing](../q/quantum_computing_in_trading.md) for faster and more efficient data processing, providing a [competitive advantage](../c/competitive_advantage.md) in identifying and leveraging [market](../m/market.md) opportunities.
 3. **Sustainable [Finance](../f/finance.md)**: Incorporating environmental, social, and governance (ESG) factors into [trading algorithms](../t/trading_algorithms.md), aligning with the growing [trend](../t/trend.md) of sustainable [finance](../f/finance.md) and potentially uncovering new investment opportunities.
 4. **[Blockchain](../b/blockchain_in_trading.md) Technology**: Leveraging [blockchain](../b/blockchain_in_trading.md) for enhanced [transparency](../t/transparency.md), [security](../s/security.md), and [efficiency](../e/efficiency.md) in [trade](../t/trade.md) [execution](../e/execution.md) and settlement processes.

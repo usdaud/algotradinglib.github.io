@@ -91,9 +91,9 @@ Univariate statistical models deal with the analysis of a single variable. The p
 - **High-Frequency Trading (HFT)**
    - Involves executing trades in milliseconds. Statistical models tailored for ultra-high-frequency data can identify fleeting opportunities.
 
-- **Machine Learning Integration**
-   - Combining traditional statistical models with machine learning techniques can enhance predictive performance. For example, hybrid models that integrate ARIMA with [neural networks](../n/neural_networks_in_trading.md).
+- **[Machine Learning](../m/machine_learning.md) Integration**
+   - Combining traditional statistical models with [machine learning](../m/machine_learning.md) techniques can enhance predictive performance. For example, hybrid models that integrate ARIMA with [neural networks](../n/neural_networks_in_trading.md).
 
 ### Conclusion
 
-Univariate statistical models are powerful tools in the arsenal of algorithmic traders and analysts. By understanding the [underlying](../u/underlying.md) patterns and characteristics of a single financial variable, these models enable more informed decision-making and strategy development. From ARIMA to GARCH, these models provide a [robust](../r/robust.md) framework for tackling various challenges in [financial forecasting](../f/financial_forecasting.md) and [risk management](../r/risk_management.md). As the field evolves, integrating these traditional models with advanced machine learning techniques promises even greater potential for refining [algorithmic trading](../a/algorithmic_trading.md) strategies.
+Univariate statistical models are powerful tools in the arsenal of algorithmic traders and analysts. By understanding the [underlying](../u/underlying.md) patterns and characteristics of a single financial variable, these models enable more informed decision-making and strategy development. From ARIMA to GARCH, these models provide a [robust](../r/robust.md) framework for tackling various challenges in [financial forecasting](../f/financial_forecasting.md) and [risk management](../r/risk_management.md). As the field evolves, integrating these traditional models with advanced [machine learning](../m/machine_learning.md) techniques promises even greater potential for refining [algorithmic trading](../a/algorithmic_trading.md) strategies.

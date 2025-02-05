@@ -28,7 +28,7 @@ In batch processing, tasks are queued and executed one after the other. These ta
 
 ### 2. **Model Training**
 
-- **Purpose**: Training machine learning models on historical data to predict future [market](../m/market.md) movements.
+- **Purpose**: Training [machine learning](../m/machine_learning.md) models on historical data to predict future [market](../m/market.md) movements.
 - **Process**: Data preprocessing, feature engineering, model selection, training, and evaluation are performed as batch processes.
 - **Example**: Using past price data to train a predictive model that forecasts stock price movements.
 
@@ -55,12 +55,12 @@ In batch processing, tasks are queued and executed one after the other. These ta
 ### 1. **Apache Hadoop**
 
 - **Overview**: An [open](../o/open.md)-source framework that facilitates distributed storage and processing of large datasets across clusters of computers.
-- **Application**: Used in algo-trading for processing large volumes of historical [market](../m/market.md) data and training machine learning models.
+- **Application**: Used in algo-trading for processing large volumes of historical [market](../m/market.md) data and training [machine learning](../m/machine_learning.md) models.
 - **Link**: [Apache Hadoop](https://hadoop.apache.org/)
 
 ### 2. **Apache Spark**
 
-- **Overview**: An [open](../o/open.md)-source unified analytics engine for large-scale data processing, with built-in modules for SQL, streaming, and machine learning.
+- **Overview**: An [open](../o/open.md)-source unified analytics engine for large-scale data processing, with built-in modules for SQL, streaming, and [machine learning](../m/machine_learning.md).
 - **Application**: Employed in algo-trading for distributed data processing and handling complex computations in batch [mode](../m/mode.md).
 - **Link**: [Apache Spark](https://spark.apache.org/)
 
@@ -84,10 +84,10 @@ In batch processing, tasks are queued and executed one after the other. These ta
 
 ### 6. **Databricks**
 
-- **Overview**: A data and AI company that provides a unified platform for data engineering, [data science](../d/data_science_in_trading.md), and machine learning.
+- **Overview**: A data and AI company that provides a unified platform for data engineering, [data science](../d/data_science_in_trading.md), and [machine learning](../m/machine_learning.md).
 - **Application**: Databricks leverages Apache Spark for fast and scalable batch processing tasks, widely used in algo-trading for data analysis and model training.
 - **Link**: [Databricks](https://databricks.com/)
 
 ## Conclusion
 
-Batch processing plays a critical role in the field of algo-trading, providing a structured and efficient way to [handle](../h/handle.md) large volumes of data and complex computations. Its advantages in terms of [efficiency](../e/efficiency.md), cost-effectiveness, error handling, [scalability](../s/scalability.md), and data integrity make it an invaluable method for various [algorithmic trading](../a/accountability.md) applications. Whether it's analyzing historical data, training machine learning models, [backtesting](../b/backtesting.md) strategies, generating [trading signals](../t/trading_signals.md), or managing [risk](../r/risk.md), batch processing offers [robust](../r/robust.md) solutions that are leveraged by many leading technologies and companies in the [industry](../i/industry.md).
+Batch processing plays a critical role in the field of algo-trading, providing a structured and efficient way to [handle](../h/handle.md) large volumes of data and complex computations. Its advantages in terms of [efficiency](../e/efficiency.md), cost-effectiveness, error handling, [scalability](../s/scalability.md), and data integrity make it an invaluable method for various [algorithmic trading](../a/accountability.md) applications. Whether it's analyzing historical data, training [machine learning](../m/machine_learning.md) models, [backtesting](../b/backtesting.md) strategies, generating [trading signals](../t/trading_signals.md), or managing [risk](../r/risk.md), batch processing offers [robust](../r/robust.md) solutions that are leveraged by many leading technologies and companies in the [industry](../i/industry.md).

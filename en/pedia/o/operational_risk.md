@@ -90,7 +90,7 @@ The BIS also provides a comprehensive set of guidelines for [operational risk ma
 
 ## Technology in Operational Risk Management
 
-In recent years, technology has played an increasingly critical role in managing operational [risk](../r/risk.md). Innovations in areas such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning (ML), and [blockchain](../b/blockchain_in_trading.md) are transforming how firms manage these risks.
+In recent years, technology has played an increasingly critical role in managing operational [risk](../r/risk.md). Innovations in areas such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md) (ML), and [blockchain](../b/blockchain_in_trading.md) are transforming how firms manage these risks.
 
 ### Artificial Intelligence and Machine Learning
 AI and ML are being used to:

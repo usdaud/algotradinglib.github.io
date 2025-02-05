@@ -101,7 +101,7 @@ Regulatory bodies worldwide have implemented rules and guidelines to ensure the 
 
 Technological advancements continue to shape the future of [algorithmic trading](../a/accountability.md). Emerging trends include:
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: Enhancing the adaptability and predictive capabilities of [trading algorithms](../t/trading_algorithms.md) using AI and machine learning techniques.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: Enhancing the adaptability and predictive capabilities of [trading algorithms](../t/trading_algorithms.md) using AI and [machine learning](../m/machine_learning.md) techniques.
 - **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md)**: Improving [transparency](../t/transparency.md), [security](../s/security.md), and settlement processes in [financial markets](../f/financial_market.md).
 - **[Quantum Computing](../q/quantum_computing_in_trading.md)**: [Offering](../o/offering.md) the potential for unprecedented computation speeds and complex problem-solving, which could revolutionize [trading strategies](../t/trading_strategies.md).
 

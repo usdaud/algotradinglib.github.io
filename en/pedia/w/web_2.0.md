@@ -42,7 +42,7 @@ Javascript frameworks like React, Angular, and Vue.js are essential for creating
 Platforms like WordPress, Joomla, and Drupal have made it easier for users to create, manage, and publish content on the web. These CMS platforms provide users with tools to build websites without needing in-depth technical knowledge.
 
 ### Cloud Computing
-The advent of [cloud computing](../c/cloud_computing_in_trading.md) has enabled powerful Web 2.0 experiences by providing scalable and accessible resources. Services like Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure have become foundational to modern web applications, [offering](../o/offering.md) everything from data storage to machine learning capabilities.
+The advent of [cloud computing](../c/cloud_computing_in_trading.md) has enabled powerful Web 2.0 experiences by providing scalable and accessible resources. Services like Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure have become foundational to modern web applications, [offering](../o/offering.md) everything from data storage to [machine learning](../m/machine_learning.md) capabilities.
 
 ## Impact on Business and Finance
 
@@ -90,7 +90,7 @@ As we look ahead, the evolution of the web continues with the emergence of Web 3
 [Blockchain](../b/blockchain_in_trading.md) technology promises to decentralize the web, reducing dependency on central authorities. This has implications for data ownership, privacy, and [security](../s/security.md). Decentralized platforms like [Ethereum](../e/ethereum_.md) are paving the way for new applications and services.
 
 ### Artificial Intelligence and Machine Learning
-AI and machine learning are driving innovations in search, automation, and personalization. These technologies enable more intelligent and context-aware web experiences, from chatbots to recommendation engines.
+AI and [machine learning](../m/machine_learning.md) are driving innovations in search, automation, and personalization. These technologies enable more intelligent and context-aware web experiences, from chatbots to recommendation engines.
 
 ### Internet of Things (IoT)
 The IoT connects physical devices to the internet, creating a vast network of interconnected objects. This integration enhances automation, data collection, and real-time decision-making across various sectors, from smart homes to industrial automation.

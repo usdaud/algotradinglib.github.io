@@ -40,7 +40,7 @@ Given the time-sensitive nature of algorithmic trading, having a low-latency tra
 
 ### Machine Learning and AI
 
-Advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) have opened new avenues for algorithmic trading. Techniques such as [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) are used to analyze news sentiment, while [deep learning](../d/deep_learning.md) models can predict price movements based on historical data.
+Advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) have opened new avenues for algorithmic trading. Techniques such as [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) are used to analyze news sentiment, while [deep learning](../d/deep_learning.md) models can predict price movements based on historical data.
 
 ## Regulation and Compliance
 

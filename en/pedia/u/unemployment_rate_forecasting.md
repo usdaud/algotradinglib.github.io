@@ -20,7 +20,7 @@ Accurate [forecasting](../f/forecasting.md) of the [unemployment rate](../u/unem
 
 ### Methods of Forecasting
 
-Several methods are used to forecast the [unemployment rate](../u/unemployment_rate.md), ranging from simple statistical techniques to complex machine learning models. Here are some common methods:
+Several methods are used to forecast the [unemployment rate](../u/unemployment_rate.md), ranging from simple statistical techniques to complex [machine learning](../m/machine_learning.md) models. Here are some common methods:
 
 #### 1. Time Series Analysis
 
@@ -36,9 +36,9 @@ Econometric models use economic theories to specify relationships between the [u
 
 #### 3. Machine Learning Techniques
 
-With the advent of [big data](../b/big_data_in_trading.md), machine learning models have become popular for [forecasting](../f/forecasting.md). These include:
+With the advent of [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md) models have become popular for [forecasting](../f/forecasting.md). These include:
 - **[Random Forests](../r/random_forests_in_trading.md)**: An [ensemble learning](../e/ensemble_learning.md) method that constructs [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md) during training.
-- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: A supervised learning model that analyzes data for classification and [regression analysis](../r/regression_analysis.md).
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: A [supervised learning](../s/supervised_learning.md) model that analyzes data for classification and [regression analysis](../r/regression_analysis.md).
 - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models like Long Short-Term Memory (LSTM) networks are used for their ability to capture long-term dependencies in sequential data.
 
 ### Factors Influencing the Unemployment Rate

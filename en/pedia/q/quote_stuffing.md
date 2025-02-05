@@ -96,7 +96,7 @@ Traders can adopt practices to protect themselves from the impact of [quote](../
 ## Future Outlook
 
 ### Technological Advancements
-As technology evolves, so too [will](../w/will.md) the methods and tools used to detect and counteract [quote](../q/quote.md) stuffing. Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) [will](../w/will.md) likely lead to more effective surveillance and detection systems.
+As technology evolves, so too [will](../w/will.md) the methods and tools used to detect and counteract [quote](../q/quote.md) stuffing. Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) [will](../w/will.md) likely lead to more effective surveillance and detection systems.
 
 ### Regulatory Evolution
 Regulatory frameworks are expected to continue evolving, with new rules and guidelines aimed at maintaining [market](../m/market.md) integrity and protecting investors from manipulative practices like [quote](../q/quote.md) stuffing.

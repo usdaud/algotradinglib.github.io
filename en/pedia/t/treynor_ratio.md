@@ -94,7 +94,7 @@ In [algorithmic trading](../a/accountability.md), where decisions are made by co
 
 ### Strategy Backtesting
 
-During [backtesting](../b/backtesting.md), traders can evaluate different strategies by measuring their Treynor Ratios to ensure they are choosing strategies that maximize returns per unit of [market risk](../m/market_risk.md). High-frequency trading, machine learning models, and other algorithmic strategies benefit from incorporating the Treynor Ratio as it helps in distinguishing models that perform well relative to [market risk](../m/market_risk.md).
+During [backtesting](../b/backtesting.md), traders can evaluate different strategies by measuring their Treynor Ratios to ensure they are choosing strategies that maximize returns per unit of [market risk](../m/market_risk.md). High-frequency trading, [machine learning](../m/machine_learning.md) models, and other algorithmic strategies benefit from incorporating the Treynor Ratio as it helps in distinguishing models that perform well relative to [market risk](../m/market_risk.md).
 
 ### Risk Management
 

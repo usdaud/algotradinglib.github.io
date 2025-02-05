@@ -80,7 +80,7 @@ DTCC is committed to fostering innovation through research and development initi
 
 ### Continued Technological Evolution
 
-As the [financial markets](../f/financial_market.md) continue to evolve, DTCC is expected to maintain its focus on leveraging technology to enhance its services. Initiatives involving [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning, and DLT are likely to shape the future of [clearing and settlement](../c/clearing_and_settlement.md) processes. DTCC's commitment to technological advancement positions it well to lead the [industry](../i/industry.md) in adopting new paradigms that improve [efficiency](../e/efficiency.md), reduce costs, and enhance [security](../s/security.md).
+As the [financial markets](../f/financial_market.md) continue to evolve, DTCC is expected to maintain its focus on leveraging technology to enhance its services. Initiatives involving [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md), and DLT are likely to shape the future of [clearing and settlement](../c/clearing_and_settlement.md) processes. DTCC's commitment to technological advancement positions it well to lead the [industry](../i/industry.md) in adopting new paradigms that improve [efficiency](../e/efficiency.md), reduce costs, and enhance [security](../s/security.md).
 
 ### Regulatory Adaptation
 

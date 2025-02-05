@@ -50,7 +50,7 @@ Monetary models emphasize the relationship between [money supply](../m/money_sup
 
 ### 2. **Machine Learning and AI**
 
-Machine Learning and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) can analyze vast datasets much quicker than humanly possible, identifying patterns and trends that can be invisible to the naked eye. Techniques such as [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) are used in [sentiment analysis](../s/sentiment_analysis.md) to predict [market](../m/market.md) movements.
+[Machine Learning](../m/machine_learning.md) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) can analyze vast datasets much quicker than humanly possible, identifying patterns and trends that can be invisible to the naked eye. Techniques such as [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) are used in [sentiment analysis](../s/sentiment_analysis.md) to predict [market](../m/market.md) movements.
 
 ### 3. **Economic Calendars**
 

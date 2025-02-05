@@ -33,7 +33,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies use [mathematical models](
 High-quality, real-time data is crucial for [algorithmic trading](../a/algorithmic_trading.md) systems. This includes historical price data, trading volumes, [order book](../o/order_book.md) information, and even news feeds. Services like [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md) provide such data, which algorithms consume to make informed decisions.
 
 #### 2. **Algorithm Development**
-Developing algorithms involves programming [trading strategies](../t/trading_strategies.md) based on predefined rules. Languages commonly used include Python, R, C++, and Java. Complex algorithms may also incorporate machine learning techniques to adapt to new data.
+Developing algorithms involves programming [trading strategies](../t/trading_strategies.md) based on predefined rules. Languages commonly used include Python, R, C++, and Java. Complex algorithms may also incorporate [machine learning](../m/machine_learning.md) techniques to adapt to new data.
 
 #### 3. **Backtesting**
 Before being implemented in live markets, algorithms are tested against historical data to evaluate their performance. [Backtesting](../b/backtesting.md) helps in understanding how the algorithm would have behaved under different [market](../m/market.md) conditions, allowing for further tuning and [optimization](../o/optimization.md).

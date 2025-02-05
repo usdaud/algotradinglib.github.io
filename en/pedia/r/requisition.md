@@ -58,7 +58,7 @@ With advancements in FinTech, the requisition processes in financial and trading
 
 3. **ERP and CRM Systems**: Modern ERP and CRM systems integrate requisition workflows, enabling seamless operation across financial institutions. These systems support everything from initial requisition generation to final [execution](../e/execution.md) and reporting.
 
-4. **AI and Machine Learning**: AI and Machine Learning technologies aid in predictive analysis, helping financial organizations make informed requisition decisions. AI models can forecast the [demand](../d/demand.md) for particular instruments, optimize [procurement](../p/procurement.md) processes, and predict [market](../m/market.md) movements.
+4. **AI and [Machine Learning](../m/machine_learning.md)**: AI and [Machine Learning](../m/machine_learning.md) technologies aid in predictive analysis, helping financial organizations make informed requisition decisions. AI models can forecast the [demand](../d/demand.md) for particular instruments, optimize [procurement](../p/procurement.md) processes, and predict [market](../m/market.md) movements.
 
 ## Conclusion
 

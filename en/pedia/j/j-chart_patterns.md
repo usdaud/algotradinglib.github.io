@@ -34,7 +34,7 @@ J-[Chart patterns](../c/chart_patterns.md) can form over different time frames, 
 
 ### Pattern Recognition Algorithms
 
-Advanced [pattern recognition](../p/pattern_recognition.md) algorithms use machine learning and statistical techniques to identify [chart patterns](../c/chart_patterns.md) based on historical price data. These algorithms can be trained to recognize the specific characteristics of J-[Chart patterns](../c/chart_patterns.md) and can scan [multiple](../m/multiple.md) securities in real-time to identify potential trading opportunities.
+Advanced [pattern recognition](../p/pattern_recognition.md) algorithms use [machine learning](../m/machine_learning.md) and statistical techniques to identify [chart patterns](../c/chart_patterns.md) based on historical price data. These algorithms can be trained to recognize the specific characteristics of J-[Chart patterns](../c/chart_patterns.md) and can scan [multiple](../m/multiple.md) securities in real-time to identify potential trading opportunities.
 
 ### Indicator Integration
 

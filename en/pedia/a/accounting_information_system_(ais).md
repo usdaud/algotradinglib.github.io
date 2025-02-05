@@ -118,7 +118,7 @@ While AIS offers [robust](../r/robust.md) [security](../s/security.md) features,
 
 ## Artificial Intelligence
 
-AI and machine learning can significantly enhance the capabilities of AIS by automating complex tasks, predicting financial trends, and identifying anomalies.
+AI and [machine learning](../m/machine_learning.md) can significantly enhance the capabilities of AIS by automating complex tasks, predicting financial trends, and identifying anomalies.
 
 ## Blockchain
 

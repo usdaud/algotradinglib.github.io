@@ -79,7 +79,7 @@ Performance evaluation in simulated [market](../m/market.md) scenarios hinges on
 - [Virtu Financial Website](https://www.virtu.com/)
 
 ### Hedge Funds
-[Hedge](../h/hedge.md) funds utilize complex simulations to tailor strategies to specific investment goals and [risk](../r/risk.md) appetites. Firms like **Two Sigma** and **Renaissance Technologies** integrate machine learning and high-frequency trading techniques with simulated [market](../m/market.md) environments to achieve superior returns.
+[Hedge](../h/hedge.md) funds utilize complex simulations to tailor strategies to specific investment goals and [risk](../r/risk.md) appetites. Firms like **Two Sigma** and **Renaissance Technologies** integrate [machine learning](../m/machine_learning.md) and high-frequency trading techniques with simulated [market](../m/market.md) environments to achieve superior returns.
 
 - [Two Sigma Website](https://www.twosigma.com/)
 - [Renaissance Technologies Website](https://www.rentec.com/)
@@ -102,7 +102,7 @@ Individual traders and developers use simulated [market](../m/market.md) scenari
 ## Future Trends
 
 ### Artificial Intelligence and Machine Learning
-AI and ML are revolutionizing simulated [market](../m/market.md) scenarios by enabling more sophisticated models that can learn from vast datasets. Techniques such as [deep learning](../d/deep_learning.md) and reinforcement learning [offer](../o/offer.md) the potential for developing [adaptive strategies](../a/adaptive_strategies.md) that evolve with [market](../m/market.md) conditions.
+AI and ML are revolutionizing simulated [market](../m/market.md) scenarios by enabling more sophisticated models that can learn from vast datasets. Techniques such as [deep learning](../d/deep_learning.md) and [reinforcement learning](../r/reinforcement_learning.md) [offer](../o/offer.md) the potential for developing [adaptive strategies](../a/adaptive_strategies.md) that evolve with [market](../m/market.md) conditions.
 
 ### Quantum Computing
 [Quantum computing](../q/quantum_computing_in_trading.md) promises to accelerate the speed and accuracy of complex simulations. As the technology matures, it could transform how traders perform [scenario analysis](../s/scenario_analysis.md) and model [market](../m/market.md) behaviors.

@@ -93,7 +93,7 @@ Despite its potential, [momentum](../m/momentum.md) analysis comes with its own 
 Recent Developments
 -------------------
 
-Recent advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly being integrated into [momentum](../m/momentum.md) analysis. Machine [learning algorithms](../l/learning_algorithms_in_trading.md), such as convolutional [neural networks](../n/neural_networks_in_trading.md) (CNNs) and recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs), are being explored for their potential to detect subtle and complex patterns that traditional models may overlook. 
+Recent advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are increasingly being integrated into [momentum](../m/momentum.md) analysis. Machine [learning algorithms](../l/learning_algorithms_in_trading.md), such as convolutional [neural networks](../n/neural_networks_in_trading.md) (CNNs) and recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs), are being explored for their potential to detect subtle and complex patterns that traditional models may overlook. 
 
 Additionally, the use of [alternative data](../a/alternative_data.md) sources, such as [social media](../s/social_media.md) [sentiment analysis](../s/sentiment_analysis.md), satellite imagery, and transactional data, is growing. These unconventional datasets provide broader context and can enhance [momentum](../m/momentum.md) models' predictive accuracy.
 

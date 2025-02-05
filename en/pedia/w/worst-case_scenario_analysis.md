@@ -55,7 +55,7 @@ Effective worst-case [scenario analysis](../s/scenario_analysis.md) begins with 
 Developing [robust](../r/robust.md) models is at the heart of worst-case [scenario analysis](../s/scenario_analysis.md). This could involve:
 
 - **Econometric Models**: Employing statistical techniques to model economic relationships and [market](../m/market.md) behaviors.
-- **Machine Learning Models**: Using advanced algorithms to detect patterns and predict outcomes based on historical data.
+- **[Machine Learning](../m/machine_learning.md) Models**: Using advanced algorithms to detect patterns and predict outcomes based on historical data.
 
 ### Simulation and Testing
 
@@ -119,7 +119,7 @@ As technology and computational methods advance, worst-case [scenario analysis](
 
 ### Artificial Intelligence and Machine Learning
 
-Leveraging AI and machine learning to enhance [predictive models](../p/predictive_models_in_trading.md) and simulate more sophisticated scenarios.
+Leveraging AI and [machine learning](../m/machine_learning.md) to enhance [predictive models](../p/predictive_models_in_trading.md) and simulate more sophisticated scenarios.
 
 ### Big Data Analytics
 

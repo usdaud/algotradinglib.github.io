@@ -144,7 +144,7 @@ Automation is increasingly being used to streamline cost [accounting](../a/accou
 
 ### Data Analytics
 
-Advanced [data analytics](../d/data_analytics.md) and machine learning are being integrated into cost [accounting](../a/accounting.md) to provide deeper insights and predictive capabilities.
+Advanced [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) are being integrated into cost [accounting](../a/accounting.md) to provide deeper insights and predictive capabilities.
 
 ### Sustainability Accounting
 

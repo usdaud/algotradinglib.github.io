@@ -35,16 +35,16 @@ Multi-[factor models](../f/factor_models.md), like the Fama-French three-[factor
 [Risk](../r/risk.md) [factor analysis](../f/factor_analysis.md) identifies and quantifies the [risk](../r/risk.md) contributions of different factors to an investment portfolio. This helps in constructing portfolios that optimize returns for a given level of [risk](../r/risk.md).
 
 ### 2.3 Machine Learning and AI Models
-Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) models have revolutionized quantitative investment by enabling more complex and [adaptive strategies](../a/adaptive_strategies.md).
+[Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) models have revolutionized quantitative investment by enabling more complex and [adaptive strategies](../a/adaptive_strategies.md).
 
 #### 2.3.1 Supervised Learning Models
-Supervised learning models are trained on historical data to make predictions about future [asset](../a/asset.md) prices. Techniques like regression, [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are commonly used.
+[Supervised learning](../s/supervised_learning.md) models are trained on historical data to make predictions about future [asset](../a/asset.md) prices. Techniques like regression, [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are commonly used.
 
 #### 2.3.2 Unsupervised Learning Models
-Unsupervised learning models identify patterns and relationships in data without predefined labels. [Clustering algorithms](../c/clustering_algorithms.md), such as k-means and hierarchical clustering, are used to group assets with similar characteristics.
+[Unsupervised learning](../u/unsupervised_learning.md) models identify patterns and relationships in data without predefined labels. [Clustering algorithms](../c/clustering_algorithms.md), such as k-means and hierarchical clustering, are used to group assets with similar characteristics.
 
 #### 2.3.3 Reinforcement Learning Models
-Reinforcement learning involves training algorithms to make a sequence of decisions that maximize cumulative rewards over time. This approach is useful for developing adaptive [trading strategies](../t/trading_strategies.md) that learn from ongoing [market](../m/market.md) conditions.
+[Reinforcement learning](../r/reinforcement_learning.md) involves training algorithms to make a sequence of decisions that maximize cumulative rewards over time. This approach is useful for developing adaptive [trading strategies](../t/trading_strategies.md) that learn from ongoing [market](../m/market.md) conditions.
 
 ## 3. Methodologies in Quantitative Investment
 

@@ -63,7 +63,7 @@ Kweku Adoboli, a [trader](../t/trader.md) at [UBS](../u/ubs.md), engaged in unau
 The rise of technology in [financial markets](../f/financial_market.md) has both benefits and risks. While technological advancements have improved [risk management](../r/risk_management.md) and surveillance capabilities, they have also introduced new challenges, such as:
 
 - **High-Frequency Trading (HFT):** The speed and complexity of HFT can obscure unauthorized activities.
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning:** These technologies enhance [market](../m/market.md) surveillance and [anomaly detection](../a/anomaly_detection.md) but also require sophisticated understanding and implementation.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md):** These technologies enhance [market](../m/market.md) surveillance and [anomaly detection](../a/anomaly_detection.md) but also require sophisticated understanding and implementation.
 - **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md) (DLT):** [Blockchain](../b/blockchain_in_trading.md)'s transparent and immutable nature can improve transactional integrity but may also be leveraged in complex fraudulent schemes.
 
 ## Ethical Considerations

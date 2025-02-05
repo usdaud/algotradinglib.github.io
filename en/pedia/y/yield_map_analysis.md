@@ -27,7 +27,7 @@ A [yield](../y/yield.md) map is a comprehensive visualization that combines [mul
 [Yield](../y/yield.md) map analysis employs several quantitative techniques, including but not limited to:
 
 - **Statistical Analysis:** Utilizes historical data to identify trends and patterns that can predict future movements.
-- **Machine Learning:** Advanced algorithms learn from vast datasets to forecast yields and optimize [trading strategies](../t/trading_strategies.md).
+- **[Machine Learning](../m/machine_learning.md):** Advanced algorithms learn from vast datasets to forecast yields and optimize [trading strategies](../t/trading_strategies.md).
 - **Econometric Models:** These models use economic theories and statistical methods to analyze the relationships between different financial indicators.
 - **Monte Carlo Simulations:** A computational method that simulates a wide [range](../r/range.md) of possible outcomes to assess risks and potential returns.
 
@@ -61,7 +61,7 @@ Several companies and tools specialize in providing advanced solutions for [yiel
 - **[QuantConnect](../q/quantconnect.md):** Platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies using data-driven methods.
   [QuantConnect](https://www.quantconnect.com/)
   
-- **Numerai:** A [hedge fund](../h/hedge_fund.md) leveraging [data science](../d/data_science_in_trading.md) and machine learning to drive trading decisions.
+- **Numerai:** A [hedge fund](../h/hedge_fund.md) leveraging [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md) to drive trading decisions.
   [Numerai](https://numer.ai/)
 
 ### Conclusion

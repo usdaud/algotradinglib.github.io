@@ -71,7 +71,7 @@ With the rise in contactless [payment](../p/payment.md) technologies, offline [d
 
 ### Artificial Intelligence
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning are increasingly being integrated into the [transaction](../t/transaction.md) monitoring processes to preemptively detect and mitigate fraudulent activities. AI algorithms analyze [transaction](../t/transaction.md) patterns and flag potential threats in real time.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are increasingly being integrated into the [transaction](../t/transaction.md) monitoring processes to preemptively detect and mitigate fraudulent activities. AI algorithms analyze [transaction](../t/transaction.md) patterns and flag potential threats in real time.
 
 ### Enhanced Digital Wallets
 

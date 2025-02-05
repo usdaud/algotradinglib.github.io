@@ -150,11 +150,11 @@ Large datasets and high-frequency trading require efficient algorithms. AR model
 
 ### Augmenting AR Models
 
-Combining AR models with other [time series](../t/time_series.md) techniques such as Moving Average (MA) or integrating with machine learning models (e.g., ARIMA, ARIMAX) can enhance predictive power.
+Combining AR models with other [time series](../t/time_series.md) techniques such as Moving Average (MA) or integrating with [machine learning](../m/machine_learning.md) models (e.g., ARIMA, ARIMAX) can enhance predictive power.
 
 ### Machine Learning Integration
 
-Machine learning can improve feature selection and capture non-linear patterns, complementing the strengths of AR models.
+[Machine learning](../m/machine_learning.md) can improve feature selection and capture non-linear patterns, complementing the strengths of AR models.
 
 ### High-Frequency Trading
 

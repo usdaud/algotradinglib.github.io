@@ -34,7 +34,7 @@ Algorithmic traders can incorporate the Gravestone [Doji](../d/doji.md) into [au
 High-quality historical price data is the foundation for detecting patterns like the Gravestone [Doji](../d/doji.md). Accurate [open](../o/open.md), high, low, and close (OHLC) data is required for precise [pattern recognition](../p/pattern_recognition.md).
 
 ### Pattern Recognition Algorithms
-Algorithmic traders employ various techniques to identify the Gravestone [Doji](../d/doji.md), ranging from simple rule-based scripts to complex machine learning models. The basic rule might involve checking if the [open](../o/open.md) and close prices are nearly identical and located at the lower end of the trading [range](../r/range.md), with a considerable upper shadow.
+Algorithmic traders employ various techniques to identify the Gravestone [Doji](../d/doji.md), ranging from simple rule-based scripts to complex [machine learning](../m/machine_learning.md) models. The basic rule might involve checking if the [open](../o/open.md) and close prices are nearly identical and located at the lower end of the trading [range](../r/range.md), with a considerable upper shadow.
 
 ### Execution Strategy
 Once a Gravestone [Doji](../d/doji.md) is detected, the algorithm must decide on the course of action. This typically involves:

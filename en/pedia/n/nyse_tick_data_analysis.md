@@ -41,7 +41,7 @@ Analyzing [tick](../t/tick.md) data involves several steps, each requiring speci
 
 1. **[Data Cleaning](../d/data_cleaning.md)**: Raw [tick](../t/tick.md) data often contains errors, missing values, or outliers. Cleaning this data is crucial for accurate analysis.
 2. **[Aggregation](../a/aggregation.md)**: Due to its high frequency, [tick](../t/tick.md) data can be aggregated into larger intervals (seconds, minutes) to make it more manageable.
-3. **Statistical Analysis**: Techniques like time-series analysis, statistical modeling, and machine learning can be applied to extract insights.
+3. **Statistical Analysis**: Techniques like time-series analysis, statistical modeling, and [machine learning](../m/machine_learning.md) can be applied to extract insights.
 4. **[Backtesting](../b/backtesting.md)**: Any [trading strategy](../t/trading_strategy.md) based on [tick](../t/tick.md) data needs to be rigorously backtested to ensure its viability in real-time trading.
 5. **Visualization**: Graphical representations, such as [tick](../t/tick.md) charts, can help in understanding the data better.
 
@@ -52,7 +52,7 @@ Several algorithms and models are specifically designed to analyze and [trade](.
 - **[Market](../m/market.md) Making**: Strategies that provide [liquidity](../l/liquidity.md) to the [market](../m/market.md) by placing buy and sell orders around the current [market price](../m/market_price.md).
 - **[Arbitrage](../a/arbitrage.md)**: Exploiting price differences between different markets or instruments.
 - **[Momentum Trading](../m/momentum_trading.md)**: Identifying and trading in the direction of short-term price movements.
-- **Machine Learning Models**: Techniques like reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) to predict price movements.
+- **[Machine Learning](../m/machine_learning.md) Models**: Techniques like [reinforcement learning](../r/reinforcement_learning.md), [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) to predict price movements.
 
 ### Challenges and Considerations
 

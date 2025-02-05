@@ -122,7 +122,7 @@ Reducing the burden on survey respondents is an ongoing challenge. The BLS striv
 
 ### Advanced Analytics
 
-The BLS is exploring the use of advanced analytics, such as machine learning and [big data](../b/big_data_in_trading.md), to enhance its data collection and analysis processes. These technologies have the potential to improve the accuracy and timeliness of economic [statistics](../s/statistics.md).
+The BLS is exploring the use of advanced analytics, such as [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md), to enhance its data collection and analysis processes. These technologies have the potential to improve the accuracy and timeliness of economic [statistics](../s/statistics.md).
 
 ### Global Comparability
 

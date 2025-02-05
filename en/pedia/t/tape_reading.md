@@ -81,7 +81,7 @@ The principles of tape reading have been integrated into [algorithmic trading st
 
 ### Algorithmic Order Flow Analysis
 
-Algorithms can parse vast amounts of time and sales data to detect patterns far quicker than a human can. These algorithms often use machine learning models to improve their predictive accuracy over time.
+Algorithms can parse vast amounts of time and sales data to detect patterns far quicker than a human can. These algorithms often use [machine learning](../m/machine_learning.md) models to improve their predictive accuracy over time.
 
 ### Automated Pattern Recognition
 

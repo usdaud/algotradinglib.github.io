@@ -85,7 +85,7 @@ Bridgewater Associates, founded by Ray Dalio, is one of the largest [hedge](../h
 
 ### Two Sigma
 
-Two Sigma, a quantitative [hedge fund](../h/hedge_fund.md), uses advanced algorithms and machine learning to manage its portfolio. The [firm](../f/firm.md) carefully tracks gross exposure to optimize its [leverage ratios](../l/leverage_ratios.md) and [market exposure](../m/market_exposure.md). [Two Sigma](https://www.twosigma.com/)
+Two Sigma, a quantitative [hedge fund](../h/hedge_fund.md), uses advanced algorithms and [machine learning](../m/machine_learning.md) to manage its portfolio. The [firm](../f/firm.md) carefully tracks gross exposure to optimize its [leverage ratios](../l/leverage_ratios.md) and [market exposure](../m/market_exposure.md). [Two Sigma](https://www.twosigma.com/)
 
 ### BlackRock
 

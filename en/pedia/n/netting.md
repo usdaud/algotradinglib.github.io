@@ -91,7 +91,7 @@ The future of netting in the financial [industry](../i/industry.md) looks promis
 [Blockchain](../b/blockchain_in_trading.md) and DLT [offer](../o/offer.md) the potential to further streamline and automate the netting process by providing a transparent and immutable ledger. This can enhance [trust](../t/trust.md) and [efficiency](../e/efficiency.md) in netting practices.
 
 ### 2. **Artificial Intelligence (AI) and Machine Learning**
-AI and machine learning can be used to optimize netting algorithms, identify patterns, and manage risks with greater precision. This can lead to smarter and more efficient netting processes.
+AI and [machine learning](../m/machine_learning.md) can be used to optimize netting algorithms, identify patterns, and manage risks with greater precision. This can lead to smarter and more efficient netting processes.
 
 ### 3. **RegTech Solutions**
 [RegTech](../r/regtech.md) (Regulatory Technology) solutions are emerging to help financial institutions comply with netting regulations more efficiently. These technologies can automate regulatory reporting and ensure that netting practices adhere to evolving standards.

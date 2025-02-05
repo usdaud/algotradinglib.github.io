@@ -46,7 +46,7 @@ D&B's [Master Data Management](../m/master_data_management_in_trading.md) (MDM) 
 
 ## Technology and Innovation
 
-Dun & Bradstreet has continuously evolved its technology and innovation capabilities to stay at the forefront of the [industry](../i/industry.md). The company leverages advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning (ML), and [big data analytics](../b/big_data_analytics_in_trading.md) to enhance its offerings and provide deeper insights to customers.
+Dun & Bradstreet has continuously evolved its technology and innovation capabilities to stay at the forefront of the [industry](../i/industry.md). The company leverages advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md) (ML), and [big data analytics](../b/big_data_analytics_in_trading.md) to enhance its offerings and provide deeper insights to customers.
 
 ### Artificial Intelligence and Machine Learning
 

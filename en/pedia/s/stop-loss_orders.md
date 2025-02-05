@@ -137,7 +137,7 @@ Robo-advisors (e.g., Betterment (https://www.betterment.com/), Wealthfront (http
 
 #### 1. **AI and Machine Learning**
 
-Future advancements might see increased utilization of AI and machine learning techniques to set and adjust stop-loss orders. Reinforcement learning models could dynamically adjust stop prices based on observed [market](../m/market.md) conditions and [predictive analytics](../p/predictive_analytics.md).
+Future advancements might see increased utilization of AI and [machine learning](../m/machine_learning.md) techniques to set and adjust stop-loss orders. [Reinforcement learning](../r/reinforcement_learning.md) models could dynamically adjust stop prices based on observed [market](../m/market.md) conditions and [predictive analytics](../p/predictive_analytics.md).
 
 #### 2. **Real-Time Analytics**
 

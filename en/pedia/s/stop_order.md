@@ -63,7 +63,7 @@ Algorithms can adapt stop prices based on [real-time market data](../r/real-time
 Algorithmic traders rigorously backtest strategies involving stop orders to evaluate their effectiveness across historical data. This analysis helps in refining stop prices and understanding potential [slippage](../s/slippage.md) impacts.
 
 ### Integration with AI and Machine Learning
-Advanced algorithms may [leverage](../l/leverage.md) AI and machine learning to predict optimal stop prices, minimizing risks while maximizing gains. These sophisticated systems analyze vast datasets to refine [stop order strategies](../s/stop_order_strategies.md) continuously.
+Advanced algorithms may [leverage](../l/leverage.md) AI and [machine learning](../m/machine_learning.md) to predict optimal stop prices, minimizing risks while maximizing gains. These sophisticated systems analyze vast datasets to refine [stop order strategies](../s/stop_order_strategies.md) continuously.
 
 ## Practical Applications
 

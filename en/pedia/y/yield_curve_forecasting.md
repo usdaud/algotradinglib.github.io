@@ -43,7 +43,7 @@ Macroeconomic models incorporate broader [economic indicators](../e/economic_ind
 
 ### Machine Learning Techniques
 
-Machine learning (ML) methods have revolutionized [yield curve](../y/yield_curve.md) [forecasting](../f/forecasting.md) by capturing complex, non-linear relationships in large data sets. Common ML techniques include:
+[Machine learning](../m/machine_learning.md) (ML) methods have revolutionized [yield curve](../y/yield_curve.md) [forecasting](../f/forecasting.md) by capturing complex, non-linear relationships in large data sets. Common ML techniques include:
 
 1. **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models, including Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNN) and Long Short-Term Memory (LSTM) networks, excel in capturing time-dependent patterns.
 2. **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs)**: SVMs are used for both regression and classification tasks, effective in high-dimensional spaces.
@@ -62,7 +62,7 @@ Machine learning (ML) methods have revolutionized [yield curve](../y/yield_curve
 
 Several tools and software packages are available for [yield curve](../y/yield_curve.md) [forecasting](../f/forecasting.md), catering to different levels of expertise:
 
-- **Python Libraries**: Libraries like `statsmodels`, `scikit-learn`, and `TensorFlow` are widely used for implementing various [forecasting models](../f/forecasting_models.md).
+- **Python Libraries**: Libraries like `statsmodels`, `scikit-learn`, and `[TensorFlow](../t/tensorflow.md)` are widely used for implementing various [forecasting models](../f/forecasting_models.md).
 - **MATLAB**: Offers comprehensive toolboxes for econometric and [financial modeling](../f/financial_modeling.md), including [yield curve](../y/yield_curve.md) analysis.
 - **R**: Packages like `forecast`, `vars`, and `tseries` support a wide [range](../r/range.md) of [yield curve](../y/yield_curve.md) [forecasting](../f/forecasting.md) methods.
 
@@ -78,12 +78,12 @@ The first step involves preparing the data, which includes:
 3. **Feature Engineering**: Create relevant features that can enhance the performance of the model.
 
 ### LSTM Model Implementation
-We implement an LSTM model using Python's `TensorFlow` library:
+We implement an LSTM model using Python's `[TensorFlow](../t/tensorflow.md)` library:
 
 ```python
 [import](../i/import.md) numpy as np
 [import](../i/import.md) pandas as pd
-[import](../i/import.md) tensorflow as tf
+[import](../i/import.md) [tensorflow](../t/tensorflow.md) as tf
 from sklearn.preprocessing [import](../i/import.md) MinMaxScaler
 
 # Load the dataset
@@ -100,11 +100,11 @@ train_data = scaled_data[:train_size]
 test_data = scaled_data[train_size:]
 
 # Create the LSTM model
-model = tf.keras.models.Sequential([
-    tf.keras.layers.LSTM(units=50, return_sequences=True, input_shape=(train_data.shape[1], train_data.shape[2])),
-    tf.keras.layers.LSTM(units=50, return_sequences=False),
-    tf.keras.layers.Dense(units=25),
-    tf.keras.layers.Dense(units=train_data.shape[2])
+model = tf.[keras](../k/keras.md).models.Sequential([
+    tf.[keras](../k/keras.md).layers.LSTM(units=50, return_sequences=True, input_shape=(train_data.shape[1], train_data.shape[2])),
+    tf.[keras](../k/keras.md).layers.LSTM(units=50, return_sequences=False),
+    tf.[keras](../k/keras.md).layers.Dense(units=25),
+    tf.[keras](../k/keras.md).layers.Dense(units=train_data.shape[2])
 ])
 
 model.compile(optimizer='adam', loss='mean_squared_error')
@@ -134,11 +134,11 @@ mse = np.mean(np.square(predictions_rescaled - y_test))
 print(f"[Mean Squared Error](../m/mean_squared_error.md): {mse}")
 ```
 
-This simplified example illustrates how machine learning models can be used for [yield curve](../y/yield_curve.md) [forecasting](../f/forecasting.md). Real-world implementations may involve more sophisticated features, hyperparameter tuning, and validation techniques to enhance model performance.
+This simplified example illustrates how [machine learning](../m/machine_learning.md) models can be used for [yield curve](../y/yield_curve.md) [forecasting](../f/forecasting.md). Real-world implementations may involve more sophisticated features, hyperparameter tuning, and validation techniques to enhance model performance.
 
 ## Conclusion
 
-[Yield curve](../y/yield_curve.md) [forecasting](../f/forecasting.md) is a critical aspect of financial analytics that combines economic theory, statistical methods, and cutting-edge machine learning techniques. As [financial markets](../f/financial_market.md) grow increasingly complex, the ability to accurately predict the [yield curve](../y/yield_curve.md) becomes indispensable for investors, policymakers, and financial institutions alike. By leveraging advanced methodologies and technologies, stakeholders can better navigate [market](../m/market.md) uncertainties and make informed decisions.
+[Yield curve](../y/yield_curve.md) [forecasting](../f/forecasting.md) is a critical aspect of financial analytics that combines economic theory, statistical methods, and cutting-edge [machine learning](../m/machine_learning.md) techniques. As [financial markets](../f/financial_market.md) grow increasingly complex, the ability to accurately predict the [yield curve](../y/yield_curve.md) becomes indispensable for investors, policymakers, and financial institutions alike. By leveraging advanced methodologies and technologies, stakeholders can better navigate [market](../m/market.md) uncertainties and make informed decisions.
 
 For more formal and detailed resources on [yield curve](../y/yield_curve.md) [forecasting](../f/forecasting.md), consider exploring the following websites:
 

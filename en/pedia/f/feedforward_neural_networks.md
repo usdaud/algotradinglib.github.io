@@ -65,18 +65,18 @@ Training deep [neural networks](../n/neural_networks_in_trading.md) require subs
 ### Programming Languages and Frameworks
 
 Several programming languages and frameworks support the implementation of FNNs:
-- **Python**: Widely used language with libraries like TensorFlow, Keras, and PyTorch.
+- **Python**: Widely used language with libraries like [TensorFlow](../t/tensorflow.md), [Keras](../k/keras.md), and [PyTorch](../p/pytorch.md).
 - **R**: Suitable for statistical computing and graphics, with packages like caret and nnet.
 - **MATLAB**: Known for its robustness in numerical computations, offers tools for neural network modeling.
 
 ### Example Code in Python
 
-Below is an example code snippet using Python and Keras to create a simple FNN for predicting stock prices:
+Below is an example code snippet using Python and [Keras](../k/keras.md) to create a simple FNN for predicting stock prices:
 
 ```python
 [import](../i/import.md) numpy as np
-from keras.models [import](../i/import.md) Sequential
-from keras.layers [import](../i/import.md) Dense, Dropout
+from [keras](../k/keras.md).models [import](../i/import.md) Sequential
+from [keras](../k/keras.md).layers [import](../i/import.md) Dense, Dropout
 
 # Load dataset (assuming X_train and y_train are the input and output datasets)
 X_train = np.random.rand(1000, 10)  # 1000 samples, 10 features
@@ -107,7 +107,7 @@ Renaissance Technologies, founded by Jim Simons, is known for employing sophisti
 
 #### Two Sigma
 
-Two Sigma is another prominent [hedge fund](../h/hedge_fund.md) that leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [neural networks](../n/neural_networks_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md). More details are available on their [website](https://www.twosigma.com/).
+Two Sigma is another prominent [hedge fund](../h/hedge_fund.md) that leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [neural networks](../n/neural_networks_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md). More details are available on their [website](https://www.twosigma.com/).
 
 ## Conclusion
 

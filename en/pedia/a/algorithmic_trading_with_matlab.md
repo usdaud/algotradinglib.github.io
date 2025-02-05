@@ -43,9 +43,9 @@ The development of [trading strategies](../t/trading_strategies.md) can be based
 
 1. **Statistical Analysis**: Using [mean reversion](../m/mean_reversion.md), pair trading, and cointegration tests.
 2. **[Technical Analysis](../t/technical_analysis.md)**: Applying indicators like Moving Averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [Bollinger Bands](../b/bollinger_bands.md), etc.
-3. **Machine Learning**: Implementing supervised and unsupervised learning models for predictive analysis and classification.
+3. **[Machine Learning](../m/machine_learning.md)**: Implementing supervised and [unsupervised learning](../u/unsupervised_learning.md) models for predictive analysis and classification.
 
-MATLAB's comprehensive libraries and toolboxes such as [Statistics](../s/statistics.md) and Machine Learning Toolbox make it convenient to build and refine these strategies.
+MATLAB's comprehensive libraries and toolboxes such as [Statistics](../s/statistics.md) and [Machine Learning](../m/machine_learning.md) Toolbox make it convenient to build and refine these strategies.
 
 ### Backtesting
 

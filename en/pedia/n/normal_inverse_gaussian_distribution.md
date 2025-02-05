@@ -80,7 +80,7 @@ Several software packages and libraries facilitate the implementation of the NIG
 
 - **R**: The GeneralizedHyperbolic package for R includes functionalities for NIG [distribution](../d/distribution.md).
 - **Python**: Packages like `scipy` and `statsmodels` can be extended to include NIG [distribution](../d/distribution.md) using custom implementation.
-- **MATLAB**: MATLAB's [Statistics](../s/statistics.md) and Machine Learning Toolbox contains functions to work with the Generalized Hyperbolic [Distribution](../d/distribution.md), including NIG.
+- **MATLAB**: MATLAB's [Statistics](../s/statistics.md) and [Machine Learning](../m/machine_learning.md) Toolbox contains functions to work with the Generalized Hyperbolic [Distribution](../d/distribution.md), including NIG.
 
 ### Example Code (Python)
 

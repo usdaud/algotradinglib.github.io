@@ -30,7 +30,7 @@ Companies like SoFi and Marcus by Goldman Sachs provide personal loans online th
 ## Robo-Advisors
 
 ### Automated Investment Platforms
-Robo-advisors like Betterment, Wealthfront, and Schwab Intelligent Portfolios use algorithms and machine learning to provide financial advice and manage investments for individuals. These platforms generally charge lower fees than traditional financial advisors.
+Robo-advisors like Betterment, Wealthfront, and Schwab Intelligent Portfolios use algorithms and [machine learning](../m/machine_learning.md) to provide financial advice and manage investments for individuals. These platforms generally charge lower fees than traditional financial advisors.
 
 ## Regtech (Regulatory Technology)
 
@@ -82,7 +82,7 @@ While fintech has the potential to democratize access to financial services, it 
 # Emerging Trends in Fintech
 
 ## AI and Machine Learning
-The integration of AI and machine learning is enabling more personalized and data-driven financial services. Applications include [fraud](../f/fraud.md) detection, [credit](../c/credit.md) scoring, and personalized financial advice.
+The integration of AI and [machine learning](../m/machine_learning.md) is enabling more personalized and data-driven financial services. Applications include [fraud](../f/fraud.md) detection, [credit](../c/credit.md) scoring, and personalized financial advice.
 
 ## Insurtech (Insurance Technology)
 [Insurance](../i/insurance.md) is being revolutionized by fintech, with companies like Lemonade and Root [Insurance](../i/insurance.md) using technology to [offer](../o/offer.md) more transparent, efficient, and [customer](../c/customer.md)-friendly [insurance](../i/insurance.md) products.

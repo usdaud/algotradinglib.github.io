@@ -36,13 +36,13 @@ Fundamental indicators involve evaluating a company's [financial statements](../
 
 ### 4. Machine Learning Algorithms
 
-[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) have become increasingly prevalent in trading and fintech. These algorithms can learn from and adapt to new data, improving their predictions over time. Popular machine learning techniques include supervised learning, unsupervised learning, and reinforcement learning.
+[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) have become increasingly prevalent in trading and fintech. These algorithms can learn from and adapt to new data, improving their predictions over time. Popular [machine learning](../m/machine_learning.md) techniques include [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md).
 
-**Supervised Learning:** This involves training a model on a labeled dataset, where the input-output pairs are known. Algorithms such as [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) fall under this category.
+**[Supervised Learning](../s/supervised_learning.md):** This involves training a model on a labeled dataset, where the input-output pairs are known. Algorithms such as [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) fall under this category.
 
-**Unsupervised Learning:** These algorithms identify hidden patterns in data without labeled responses. Clustering techniques like k-means and hierarchical clustering are commonly used.
+**[Unsupervised Learning](../u/unsupervised_learning.md):** These algorithms identify hidden patterns in data without labeled responses. Clustering techniques like k-means and hierarchical clustering are commonly used.
 
-**Reinforcement Learning:** This is a type of learning where an agent learns to make decisions by taking actions in an environment to maximize cumulative rewards. It is particularly useful in developing [trading strategies](../t/trading_strategies.md).
+**[Reinforcement Learning](../r/reinforcement_learning.md):** This is a type of learning where an agent learns to make decisions by taking actions in an environment to maximize cumulative rewards. It is particularly useful in developing [trading strategies](../t/trading_strategies.md).
 
 ## Practical Applications in Algorithmic Trading
 
@@ -74,7 +74,7 @@ Robo-advisors use algorithms to provide automated, algorithm-driven [financial p
 
 ### 2. Fraud Detection
 
-Machine learning models trained on historical [transaction](../t/transaction.md) data can generate indications of fraudulent activities. These systems analyze patterns and flag anomalies for further investigation.
+[Machine learning](../m/machine_learning.md) models trained on historical [transaction](../t/transaction.md) data can generate indications of fraudulent activities. These systems analyze patterns and flag anomalies for further investigation.
 
 ### 3. Credit Scoring
 

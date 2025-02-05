@@ -1,6 +1,6 @@
 # Regression Trees
 
-Regression trees are a type of machine learning algorithm used for predicting continuous values. In the context of trading, regression trees can be instrumental in [forecasting](../f/forecasting.md) stock prices, [asset](../a/asset.md) [volatility](../v/volatility.md), and other financial metrics. They are a non-parametric supervised learning method used both for classification and regression. In [finance](../f/finance.md), regression trees are often utilized due to their simplicity, interpretability, and ability to [handle](../h/handle.md) non-linear relationships between inputs and outputs.
+Regression trees are a type of [machine learning](../m/machine_learning.md) algorithm used for predicting continuous values. In the context of trading, regression trees can be instrumental in [forecasting](../f/forecasting.md) stock prices, [asset](../a/asset.md) [volatility](../v/volatility.md), and other financial metrics. They are a non-parametric [supervised learning](../s/supervised_learning.md) method used both for classification and regression. In [finance](../f/finance.md), regression trees are often utilized due to their simplicity, interpretability, and ability to [handle](../h/handle.md) non-linear relationships between inputs and outputs.
 
 ## What are Regression Trees?
 
@@ -61,9 +61,9 @@ Here’s a simplified example of how a regression tree might be constructed to p
 
 ## Case Study: Application by Leading Financial Firms
 
-Several financial institutions employ regression trees and related algorithms as part of their trading and [risk management](../r/risk_management.md) strategies. For instance, Wells Fargo leverages [decision trees](../d/decision_trees.md) for [risk](../r/risk.md) assessment and to automate [trading strategies](../t/trading_strategies.md). More information about their use of [data science](../d/data_science_in_trading.md) and machine learning can be found on their [AI and Machine Learning page](https://www.wellsfargo.com/tech-and-innovation/).
+Several financial institutions employ regression trees and related algorithms as part of their trading and [risk management](../r/risk_management.md) strategies. For instance, Wells Fargo leverages [decision trees](../d/decision_trees.md) for [risk](../r/risk.md) assessment and to automate [trading strategies](../t/trading_strategies.md). More information about their use of [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md) can be found on their [AI and Machine Learning page](https://www.wellsfargo.com/tech-and-innovation/).
 
-Another example is Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) notable for its use of [quantitative models](../q/quantitative_models.md). The [firm](../f/firm.md) employs various machine learning techniques, including regression trees, to make trading decisions. Although specific details are proprietary, Renaissance's general approach aligns with the methodologies described.
+Another example is Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) notable for its use of [quantitative models](../q/quantitative_models.md). The [firm](../f/firm.md) employs various [machine learning](../m/machine_learning.md) techniques, including regression trees, to make trading decisions. Although specific details are proprietary, Renaissance's general approach aligns with the methodologies described.
 
 ## Implementing Regression Trees with Python
 

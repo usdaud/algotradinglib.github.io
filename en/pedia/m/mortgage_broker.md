@@ -38,7 +38,7 @@ Recent advancements in financial technology (fintech) have significantly transfo
 Many [mortgage](../m/mortgage.md) brokers now use digital platforms that allow borrowers to apply for loans online. These platforms automate data collection and document submission, reducing the manual effort and time required to process [loan](../l/loan.md) applications.
 
 ### **AI and Machine Learning**
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are being utilized to analyze borrowers' financial profiles more accurately and predict [loan](../l/loan.md) eligibility. This results in more personalized [loan](../l/loan.md) product recommendations and faster decision-making.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) are being utilized to analyze borrowers' financial profiles more accurately and predict [loan](../l/loan.md) eligibility. This results in more personalized [loan](../l/loan.md) product recommendations and faster decision-making.
 
 ### **Blockchain Technology**
 [Blockchain](../b/blockchain_in_trading.md) technology is also making inroads into [mortgage](../m/mortgage.md) brokerage. Its ability to create transparent and immutable records can enhance the [security](../s/security.md) and [efficiency](../e/efficiency.md) of [loan](../l/loan.md) transactions, reducing the [risk](../r/risk.md) of [fraud](../f/fraud.md).

@@ -79,7 +79,7 @@ In 2015, Glencore PLC executed a significant [block trade](../b/block_trade.md) 
 
 The evolution of technology and [market](../m/market.md) [infrastructure](../i/infrastructure.md) continuously shapes the landscape of block trading:
 
-1. **AI and Machine Learning**: Enhanced algorithms utilizing AI and machine learning are expected to further refine the [execution](../e/execution.md) of block trades, reducing [market](../m/market.md) impact and improving [efficiency](../e/efficiency.md).
+1. **AI and [Machine Learning](../m/machine_learning.md)**: Enhanced algorithms utilizing AI and [machine learning](../m/machine_learning.md) are expected to further refine the [execution](../e/execution.md) of block trades, reducing [market](../m/market.md) impact and improving [efficiency](../e/efficiency.md).
 2. **[Blockchain](../b/blockchain_in_trading.md) Technology**: [Blockchain](../b/blockchain_in_trading.md) offers potential enhancements in [transparency](../t/transparency.md) and [security](../s/security.md) for executing and settling block trades.
 
 In conclusion, [block trade](../b/block_trade.md) analysis is integral to understanding the broader implications of large trades in [financial markets](../f/financial_market.md). Through sophisticated strategies, technological advancements, and stringent regulatory frameworks, their [execution](../e/execution.md) continues to evolve, providing both challenges and opportunities for [market](../m/market.md) participants.

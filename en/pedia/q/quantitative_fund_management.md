@@ -9,7 +9,7 @@ Quantitative [fund](../f/fund.md) management, commonly referred to as "quant" [f
 [Mathematical models](../m/mathematical_models_in_trading.md) and algorithms are the backbone of quantitative [fund](../f/fund.md) management. These models are designed to process vast amounts of data, identify patterns, and make investment decisions based on predefined criteria. Common techniques include:
 
 - **Statistical Analysis**: Using statistical methods to analyze historical price data, correlations, and trends.
-- **Machine Learning**: Employing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to adapt and improve [trading strategies](../t/trading_strategies.md) over time.
+- **[Machine Learning](../m/machine_learning.md)**: Employing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to adapt and improve [trading strategies](../t/trading_strategies.md) over time.
 - **[Optimization](../o/optimization.md) Techniques**: Developing algorithms to optimize portfolio allocation, balancing [risk](../r/risk.md) and [return](../r/return.md).
 
 ### Data-Driven Decisions
@@ -124,7 +124,7 @@ The landscape of quantitative [fund](../f/fund.md) management is continually evo
 
 ### Artificial Intelligence and Machine Learning
 
-AI and machine learning are becoming increasingly integral to quantitative [fund](../f/fund.md) management. These technologies enable the development of more adaptive and sophisticated models that can process diverse data sources and identify complex patterns.
+AI and [machine learning](../m/machine_learning.md) are becoming increasingly integral to quantitative [fund](../f/fund.md) management. These technologies enable the development of more adaptive and sophisticated models that can process diverse data sources and identify complex patterns.
 
 ### Alternative Data
 

@@ -82,7 +82,7 @@ SV models improve the pricing of [derivatives](../d/derivatives.md) such as [opt
 SV models allow for more accurate [hedging strategies](../h/hedging_strategies.md) by capturing the time-varying nature of [market](../m/market.md) [volatility](../v/volatility.md). Consequently, they help in reducing portfolio risks.
 
 ### Algorithmic Trading
-In [algorithmic trading](../a/algorithmic_trading.md), SV models are used to predict [market](../m/market.md) conditions and build [trading strategies](../t/trading_strategies.md) that [capitalize](../c/capitalize.md) on [volatility](../v/volatility.md) patterns. Firms like [Two Sigma](https://www.twosigma.com/) [leverage](../l/leverage.md) advanced machine learning and SV models to enhance [trading algorithms](../t/trading_algorithms.md).
+In [algorithmic trading](../a/algorithmic_trading.md), SV models are used to predict [market](../m/market.md) conditions and build [trading strategies](../t/trading_strategies.md) that [capitalize](../c/capitalize.md) on [volatility](../v/volatility.md) patterns. Firms like [Two Sigma](https://www.twosigma.com/) [leverage](../l/leverage.md) advanced [machine learning](../m/machine_learning.md) and SV models to enhance [trading algorithms](../t/trading_algorithms.md).
 
 ## Challenges and Limitations
 

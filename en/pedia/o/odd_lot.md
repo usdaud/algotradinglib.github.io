@@ -48,7 +48,7 @@ Odd lots can affect [market dynamics](../m/market_dynamics.md) in various ways. 
 
 ## Financial Technology (FinTech) Innovations
 
-Fintech companies have also contributed significantly to the modernization of odd lot trading. By using advanced analytics and machine learning, these companies can better predict [market](../m/market.md) movements and provide improved [execution](../e/execution.md) for odd lot trades.
+Fintech companies have also contributed significantly to the modernization of odd lot trading. By using advanced analytics and [machine learning](../m/machine_learning.md), these companies can better predict [market](../m/market.md) movements and provide improved [execution](../e/execution.md) for odd lot trades.
 
 ### Notable Companies
 

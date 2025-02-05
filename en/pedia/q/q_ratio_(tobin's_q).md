@@ -62,7 +62,7 @@ In [algorithmic trading](../a/accountability.md), the Q Ratio can be integrated 
 
 ### Machine Learning and Q Ratio
 
-Machine learning techniques can enhance the predictive power of the Q Ratio by analyzing large datasets and identifying patterns that human analysts might miss. For example, [neural networks](../n/neural_networks_in_trading.md) and other [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can process historical Q Ratio data along with other financial indicators to improve stock price prediction models.
+[Machine learning](../m/machine_learning.md) techniques can enhance the predictive power of the Q Ratio by analyzing large datasets and identifying patterns that human analysts might miss. For example, [neural networks](../n/neural_networks_in_trading.md) and other [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can process historical Q Ratio data along with other financial indicators to improve stock price prediction models.
 
 ### Fintech Innovations
 

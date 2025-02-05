@@ -43,7 +43,7 @@ Enron's scandal in the early 2000s involved substantial restatements where the c
 4. **Technology:** Implementing advanced financial software to reduce manual errors.
 
 ## Implications for Algo Trading and Fintech
-In the realm of [algorithmic trading](../a/accountability.md) and fintech, restatements can significantly impact [trading algorithms](../t/trading_algorithms.md) designed to make decisions based on financial data. Strategies relying on [predictive analytics](../p/predictive_analytics.md), machine learning, and historical financial data must incorporate mechanisms to adjust for restatements. Fintech companies must also maintain [robust](../r/robust.md) data validation processes to ensure the accuracy of [financial statements](../f/financial_statements.md) used in their algorithms.
+In the realm of [algorithmic trading](../a/accountability.md) and fintech, restatements can significantly impact [trading algorithms](../t/trading_algorithms.md) designed to make decisions based on financial data. Strategies relying on [predictive analytics](../p/predictive_analytics.md), [machine learning](../m/machine_learning.md), and historical financial data must incorporate mechanisms to adjust for restatements. Fintech companies must also maintain [robust](../r/robust.md) data validation processes to ensure the accuracy of [financial statements](../f/financial_statements.md) used in their algorithms.
 
 ### Example: Algorithm Adjustment
 Consider an algorithm that uses historical [earnings](../e/earnings.md) data to project future stock prices. If a restatement occurs, the algorithm needs to adjust the historical data to [factor](../f/factor.md) in the restated [earnings](../e/earnings.md) to make accurate predictions. Failure to do so could lead to erroneous trading decisions.
@@ -52,7 +52,7 @@ Consider an algorithm that uses historical [earnings](../e/earnings.md) data to 
 [Blockchain](../b/blockchain_in_trading.md) technology can enhance the [transparency](../t/transparency.md) and immutability of financial records. By storing financial transactions on a decentralized ledger, the accuracy of [financial statements](../f/financial_statements.md) can be validated in real-time, reducing the likelihood of restatements.
 
 ### Example: AI and Machine Learning
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning models can be trained to detect anomalies and potential inaccuracies in real-time, [offering](../o/offering.md) a proactive approach to identifying errors before they necessitate restatements.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md) models can be trained to detect anomalies and potential inaccuracies in real-time, [offering](../o/offering.md) a proactive approach to identifying errors before they necessitate restatements.
 
 ## Conclusion
 Restatements are a critical aspect of financial reporting, ensuring the accuracy and reliability of financial information. While they can have significant negative impacts on a company, implementing [robust](../r/robust.md) [internal controls](../i/internal_controls.md), compliance mechanisms, and leveraging technology can help mitigate these risks. As financial landscapes continue to evolve, particularly with the rise of algo trading and fintech, the importance of accurate financial reporting and proactive error detection becomes even more paramount.

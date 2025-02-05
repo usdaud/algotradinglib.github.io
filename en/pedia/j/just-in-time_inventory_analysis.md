@@ -31,7 +31,7 @@ Modern technologies play a pivotal role in the implementation and efficient func
 1. **Enterprise Resource Planning (ERP) Systems**: These systems help in the real-time tracking of [inventory](../i/inventory.md), orders, and production schedules.
 2. **Barcoding and RFID**: These technologies facilitate accurate tracking and management of [inventory](../i/inventory.md).
 3. **Vendor-Managed [Inventory](../i/inventory.md) (VMI) systems**: Allows suppliers to manage [inventory](../i/inventory.md) on behalf of the buyer, ensuring timely deliveries.
-4. **[Predictive Analytics](../p/predictive_analytics.md)**: Machine learning and [predictive analytics](../p/predictive_analytics.md) can enhance [demand forecasting](../d/demand_forecasting.md), making JIT more efficient and reliable.
+4. **[Predictive Analytics](../p/predictive_analytics.md)**: [Machine learning](../m/machine_learning.md) and [predictive analytics](../p/predictive_analytics.md) can enhance [demand forecasting](../d/demand_forecasting.md), making JIT more efficient and reliable.
 5. **Internet of Things (IoT)**: IoT devices enable real-time monitoring of production processes and [inventory](../i/inventory.md) levels, giving companies the agility to make quick, informed decisions.
 
 ### Case Studies

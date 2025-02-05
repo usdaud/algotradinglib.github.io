@@ -44,7 +44,7 @@ Bridgewater Associates is one of the largest [hedge fund](../h/hedge_fund.md) fi
 [Visit Bridgewater Associates](https://www.bridgewater.com/)
 
 ### Two Sigma
-Two Sigma is another prominent quantitative [hedge fund](../h/hedge_fund.md) that leverages [big data](../b/big_data_in_trading.md), machine learning, and advanced algorithms to implement [market](../m/market.md)-[neutral](../n/neutral.md) and other [trading strategies](../t/trading_strategies.md).
+Two Sigma is another prominent quantitative [hedge fund](../h/hedge_fund.md) that leverages [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and advanced algorithms to implement [market](../m/market.md)-[neutral](../n/neutral.md) and other [trading strategies](../t/trading_strategies.md).
 [Visit Two Sigma](https://www.twosigma.com/)
 
 ### Citadel

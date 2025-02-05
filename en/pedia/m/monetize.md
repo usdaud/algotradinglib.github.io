@@ -17,7 +17,7 @@
     - Example: Refinitiv (www.refinitiv.com) specializes in providing financial [market](../m/market.md) data and [infrastructure](../i/infrastructure.md).
 
 4. **Licensing Proprietary Technology**
-    - Companies can license their proprietary technologies to other businesses. In fintech, this might include [trading algorithms](../t/trading_algorithms.md), [blockchain](../b/blockchain_in_trading.md) platforms, Machine Learning (ML) models, or [payment](../p/payment.md) processing technologies.
+    - Companies can license their proprietary technologies to other businesses. In fintech, this might include [trading algorithms](../t/trading_algorithms.md), [blockchain](../b/blockchain_in_trading.md) platforms, [Machine Learning](../m/machine_learning.md) (ML) models, or [payment](../p/payment.md) processing technologies.
     - Example: Plaid (www.plaid.com) licenses its financial data APIs to other fintech companies.
 
 5. **[Affiliate Marketing](../a/affiliate_marketing.md)**

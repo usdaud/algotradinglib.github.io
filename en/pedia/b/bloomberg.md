@@ -110,7 +110,7 @@ The flagship product, providing:
 ## Recent Developments
 
 - [Expansion](../e/expansion.md) of ESG (Environmental, Social, Governance) data and analytics
-- Enhanced machine learning and AI capabilities for data analysis
+- Enhanced [machine learning](../m/machine_learning.md) and AI capabilities for data analysis
 - Improvements in cryptocurrency and digital [asset](../a/asset.md) coverage
 - Development of cloud-based services and APIs
 

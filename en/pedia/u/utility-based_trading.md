@@ -74,7 +74,7 @@ At the core of [utility](../u/utility.md)-based trading is advanced mathematics.
   
 - **Quantitative Brokers**: [Quantitative Brokers](https://www.quantitativebrokers.com) integrates scientific trading principles, including [utility](../u/utility.md)-based models, to drive [execution algorithms](../e/execution_algorithms.md).
 
-- **Numerai**: [Numerai](https://numer.ai) leverages machine learning models to predict [asset](../a/asset.md) prices, some of which incorporate [utility](../u/utility.md)-based [optimization](../o/optimization.md) to enhance [trading strategies](../t/trading_strategies.md).
+- **Numerai**: [Numerai](https://numer.ai) leverages [machine learning](../m/machine_learning.md) models to predict [asset](../a/asset.md) prices, some of which incorporate [utility](../u/utility.md)-based [optimization](../o/optimization.md) to enhance [trading strategies](../t/trading_strategies.md).
 
 ### Conclusion
 

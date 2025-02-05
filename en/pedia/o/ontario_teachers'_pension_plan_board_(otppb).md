@@ -54,7 +54,7 @@ OTPPB has received numerous awards for its excellence in pension [fund](../f/fun
 
 ## Technology and Innovation
 
-OTPPB leverages cutting-edge technology to enhance its investment processes. From advanced analytics and machine learning to [blockchain](../b/blockchain_in_trading.md) and fintech solutions, OTPPB stays at the forefront of technological advancements in [finance](../f/finance.md).
+OTPPB leverages cutting-edge technology to enhance its investment processes. From advanced analytics and [machine learning](../m/machine_learning.md) to [blockchain](../b/blockchain_in_trading.md) and fintech solutions, OTPPB stays at the forefront of technological advancements in [finance](../f/finance.md).
 
 ### Data Analytics and Machine Learning
 

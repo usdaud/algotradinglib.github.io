@@ -83,7 +83,7 @@ An algorithm can be backtested to see how effective the Fourier Transform is at 
 [Market](../m/market.md) data is inherently noisy, which can lead to [false signals](../f/false_signals_in_trading.md) from cycle indicators. This might result in incorrect trading decisions if not carefully managed.
 
 ### Solution:
-Combining [multiple](../m/multiple.md) indicators or integrating machine learning techniques to filter out [noise](../n/noise.md) and improve signal accuracy.
+Combining [multiple](../m/multiple.md) indicators or integrating [machine learning](../m/machine_learning.md) techniques to filter out [noise](../n/noise.md) and improve signal accuracy.
 
 ### Overfitting
 There's a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) algorithms to historical data, making them less effective in live markets.

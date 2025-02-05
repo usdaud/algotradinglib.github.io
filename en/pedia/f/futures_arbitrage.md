@@ -120,7 +120,7 @@ Engaging in [insider trading](../i/insider.md) or [market manipulation](../m/mar
 ## Future of Futures Arbitrage
 
 ### Technological Advancements
-- **AI and Machine Learning**: [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being used to identify [arbitrage](../a/arbitrage.md) opportunities and manage risks dynamically.
+- **AI and [Machine Learning](../m/machine_learning.md)**: [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being used to identify [arbitrage](../a/arbitrage.md) opportunities and manage risks dynamically.
 - **[Blockchain](../b/blockchain_in_trading.md) and [Smart Contracts](../s/smart_contracts_in_trading.md)**: The advent of [blockchain](../b/blockchain_in_trading.md) technology and [smart contracts](../s/smart_contracts_in_trading.md) can enhance [transparency](../t/transparency.md) and reduce [counterparty](../c/counterparty.md) risks in [futures](../f/futures.md) trading.
 
 ### Algorithmic Trading

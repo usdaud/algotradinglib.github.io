@@ -74,7 +74,7 @@ Renaissance Technologies, founded by James Simons, is one of the most successful
 Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
-Two Sigma Investments leverages machine learning and distributed computing for OPS. Their strategies integrate diverse data sources, including non-traditional datasets, to anticipate [market](../m/market.md) movements.
+Two Sigma Investments leverages [machine learning](../m/machine_learning.md) and distributed computing for OPS. Their strategies integrate diverse data sources, including non-traditional datasets, to anticipate [market](../m/market.md) movements.
 
 Website: [Two Sigma](https://www.twosigma.com/)
 

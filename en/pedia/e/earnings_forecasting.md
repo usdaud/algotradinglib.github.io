@@ -2,7 +2,7 @@
 
 [Earnings](../e/earnings.md) [forecasting](../f/forecasting.md) is a crucial aspect of [financial analysis](../f/financial_analysis.md) and [investment strategy](../i/investment_strategy.md), particularly within the domain of [algorithmic trading](../a/algorithmic_trading.md). It involves predicting a company's future profitability based on a [range](../r/range.md) of variables and data points. These forecasts play an essential role in guiding investors, traders, and financial analysts in making informed decisions.
 
-In [algorithmic trading](../a/algorithmic_trading.md), [earnings](../e/earnings.md) [forecasting](../f/forecasting.md) can be approached using various methods and models, often leveraging machine learning and statistical techniques to analyze massive quantities of data. This document [will](../w/will.md) explore the intricacies of [earnings](../e/earnings.md) [forecasting](../f/forecasting.md), methodologies involved, and their relevance in [algorithmic trading](../a/algorithmic_trading.md).
+In [algorithmic trading](../a/algorithmic_trading.md), [earnings](../e/earnings.md) [forecasting](../f/forecasting.md) can be approached using various methods and models, often leveraging [machine learning](../m/machine_learning.md) and statistical techniques to analyze massive quantities of data. This document [will](../w/will.md) explore the intricacies of [earnings](../e/earnings.md) [forecasting](../f/forecasting.md), methodologies involved, and their relevance in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Importance of Earnings Forecasting
 
@@ -20,8 +20,8 @@ Algorithmic traders use [earnings](../e/earnings.md) forecasts to develop strate
    - **[Time Series Analysis](../t/time_series_analysis.md)**: Utilizes historical data to predict future [earnings](../e/earnings.md). Models such as ARIMA (AutoRegressive Integrated Moving Average) are popular.
    - **[Regression Analysis](../r/regression_analysis.md)**: Identifies relationships between [earnings](../e/earnings.md) and other variables such as [interest](../i/interest.md) rates, GDP growth, and [industry](../i/industry.md) performance.
    
-3. **Machine Learning Models**:
-   - **Supervised Learning**: Algorithms like Random Forest, Gradient Boosting Machines (GBMs), and [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs) are trained on historical data to make predictions.
+3. **[Machine Learning](../m/machine_learning.md) Models**:
+   - **[Supervised Learning](../s/supervised_learning.md)**: Algorithms like Random Forest, Gradient Boosting Machines (GBMs), and [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs) are trained on historical data to make predictions.
    - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models, including Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) and Long Short-Term Memory Networks (LSTMs), can capture complex patterns in the data.
 
 4. **[Sentiment Analysis](../s/sentiment_analysis.md)**:
@@ -73,4 +73,4 @@ Algorithmic traders use [earnings](../e/earnings.md) forecasts to develop strate
 
 ### Conclusion
 
-[Earnings](../e/earnings.md) [forecasting](../f/forecasting.md) is a multifaceted and dynamic component of [algorithmic trading](../a/algorithmic_trading.md). By leveraging a combination of [fundamental analysis](../f/fundamental_analysis.md), statistical methods, machine learning, and [sentiment analysis](../s/sentiment_analysis.md), traders can develop [robust](../r/robust.md) models to navigate the complexities of the [market](../m/market.md). As technology advances, the methods and tools used in [earnings](../e/earnings.md) [forecasting](../f/forecasting.md) [will](../w/will.md) continue to evolve, [offering](../o/offering.md) even greater potential for accuracy and profitability in [algorithmic trading](../a/algorithmic_trading.md).
+[Earnings](../e/earnings.md) [forecasting](../f/forecasting.md) is a multifaceted and dynamic component of [algorithmic trading](../a/algorithmic_trading.md). By leveraging a combination of [fundamental analysis](../f/fundamental_analysis.md), statistical methods, [machine learning](../m/machine_learning.md), and [sentiment analysis](../s/sentiment_analysis.md), traders can develop [robust](../r/robust.md) models to navigate the complexities of the [market](../m/market.md). As technology advances, the methods and tools used in [earnings](../e/earnings.md) [forecasting](../f/forecasting.md) [will](../w/will.md) continue to evolve, [offering](../o/offering.md) even greater potential for accuracy and profitability in [algorithmic trading](../a/algorithmic_trading.md).

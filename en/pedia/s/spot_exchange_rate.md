@@ -115,7 +115,7 @@ A forward [exchange rate](../e/exchange_rate.md) is an agreed-upon rate at which
 2. **[Momentum Trading](../m/momentum_trading.md):** Identifying and trading based on prevailing [market](../m/market.md) trends or [momentum](../m/momentum.md).
 3. **[Mean Reversion](../m/mean_reversion.md):** Identifying currencies that deviate from their statistical norms and expecting them to revert to the mean.
 
-Various advanced algorithmic techniques, such as machine learning and AI, are employed to analyze patterns and predict movements in spot [exchange](../e/exchange.md) rates, thus enhancing decision-making processes.
+Various advanced algorithmic techniques, such as [machine learning](../m/machine_learning.md) and AI, are employed to analyze patterns and predict movements in spot [exchange](../e/exchange.md) rates, thus enhancing decision-making processes.
 
 ## Innovations and Fintech
 

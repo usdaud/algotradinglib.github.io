@@ -72,7 +72,7 @@ Algorithms can identify [arbitrage](../a/arbitrage.md) opportunities arising fro
 
 ### 1. **Reinforcement Learning**: 
 
-Traders can employ reinforcement learning to allow algorithms to learn [trading strategies](../t/trading_strategies.md) through trial and error, dynamically adjusting to [market](../m/market.md) conditions.
+Traders can employ [reinforcement learning](../r/reinforcement_learning.md) to allow algorithms to learn [trading strategies](../t/trading_strategies.md) through trial and error, dynamically adjusting to [market](../m/market.md) conditions.
 
 ### 2. **Factor Analysis Models**
 

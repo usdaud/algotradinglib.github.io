@@ -48,11 +48,11 @@ Reduced-form models, also called intensity-based models, do not focus on the [fi
 
 ### 4. Machine Learning Models
 
-Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are transforming [credit risk](../c/credit_risk.md) modeling by leveraging vast datasets and sophisticated algorithms to improve predictive accuracy.
+[Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are transforming [credit risk](../c/credit_risk.md) modeling by leveraging vast datasets and sophisticated algorithms to improve predictive accuracy.
 
 #### Techniques Used:
-- **Supervised Learning**: Algorithms like [logistic regression](../l/logistic_regression_in_trading.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and gradient boosting.
-- **Unsupervised Learning**: Clustering techniques to identify patterns in borrower behavior.
+- **[Supervised Learning](../s/supervised_learning.md)**: Algorithms like [logistic regression](../l/logistic_regression_in_trading.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and gradient boosting.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Clustering techniques to identify patterns in borrower behavior.
 - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models to capture complex, non-linear relationships.
 
 **Example Companies**:
@@ -90,8 +90,8 @@ Despite advancements, [credit risk](../c/credit_risk.md) modeling faces several 
 ### Future Directions:
 - **Integration of [Alternative Data](../a/alternative_data.md)**: Using [non-traditional data sources](../n/non-traditional_data_sources.md) like [social media](../s/social_media.md), [utility](../u/utility.md) payments, and [transaction](../t/transaction.md) data to enhance model accuracy.
 - **Use of [Blockchain](../b/blockchain_in_trading.md)**: Potential for decentralized [credit](../c/credit.md) scoring and verification.
-- **Advance in AI and ML**: Continued evolution of machine learning models to [handle](../h/handle.md) larger and more complex datasets, improving predictive power and robustness.
+- **Advance in AI and ML**: Continued evolution of [machine learning](../m/machine_learning.md) models to [handle](../h/handle.md) larger and more complex datasets, improving predictive power and robustness.
 
 ## Conclusion
 
-[Credit](../c/credit.md) [risk models](../r/risk_models_in_trading.md) are an essential component of modern [financial risk management](../f/financial_risk_management.md). From traditional statistical methods to cutting-edge machine learning techniques, these models provide valuable insights into the probability of borrower [default](../d/default.md), enabling better decision-making and [risk management](../r/risk_management.md) for financial institutions. As technology and data availability continue to evolve, [credit risk](../c/credit_risk.md) modeling [will](../w/will.md) undoubtedly become even more sophisticated, [offering](../o/offering.md) enhanced capabilities for predicting and managing [credit risk](../c/credit_risk.md) in an increasingly complex financial landscape.
+[Credit](../c/credit.md) [risk models](../r/risk_models_in_trading.md) are an essential component of modern [financial risk management](../f/financial_risk_management.md). From traditional statistical methods to cutting-edge [machine learning](../m/machine_learning.md) techniques, these models provide valuable insights into the probability of borrower [default](../d/default.md), enabling better decision-making and [risk management](../r/risk_management.md) for financial institutions. As technology and data availability continue to evolve, [credit risk](../c/credit_risk.md) modeling [will](../w/will.md) undoubtedly become even more sophisticated, [offering](../o/offering.md) enhanced capabilities for predicting and managing [credit risk](../c/credit_risk.md) in an increasingly complex financial landscape.

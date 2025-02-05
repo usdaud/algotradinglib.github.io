@@ -8,7 +8,7 @@ A comprehensive understanding of data-driven [trading strategies](../t/trading_s
 [Algorithmic Trading](../a/algorithmic_trading.md), or Algo-Trading, involves utilizing pre-programmed trading instructions to execute orders based on specific criteria like timing, price, and [volume](../v/volume.md). These criteria are designed to work without human intervention, thus allowing quick [execution](../e/execution.md) and mitigating emotional biases.
 
 ### 2. **Quantitative Analysis**
-[Quantitative analysis](../q/quantitative_analysis.md) involves using [mathematical models](../m/mathematical_models_in_trading.md), historical datasets, and statistical techniques to analyze [market](../m/market.md) behavior. Key components of [quantitative analysis](../q/quantitative_analysis.md) include time-series analysis, [linear regression](../l/linear_regression.md), and machine learning.
+[Quantitative analysis](../q/quantitative_analysis.md) involves using [mathematical models](../m/mathematical_models_in_trading.md), historical datasets, and statistical techniques to analyze [market](../m/market.md) behavior. Key components of [quantitative analysis](../q/quantitative_analysis.md) include time-series analysis, [linear regression](../l/linear_regression.md), and [machine learning](../m/machine_learning.md).
 
 ### 3. **Big Data in Trading**
 The utilization of [big data](../b/big_data_in_trading.md)—massive datasets that can be analyzed computationally—plays a crucial role in identifying patterns, trends, and anomalies in the [financial markets](../f/financial_market.md). [Big Data](../b/big_data_in_trading.md) encompasses structured and unstructured data from various sources, including [market](../m/market.md) prices, trading volumes, news articles, and [social media](../s/social_media.md).
@@ -28,7 +28,7 @@ Statistical [arbitrage](../a/arbitrage.md) (StatArb) is a popular data-driven st
 Event-driven strategies take advantage of price movements caused by specific events such as [earnings](../e/earnings.md) reports, mergers and acquisitions, or macroeconomic data releases. This requires a keen understanding of the [financial markets](../f/financial_market.md) and the potential impact of various events.
 
 ### 5. **Machine Learning and AI**
-Machine Learning (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) algorithms can process large datasets to find hidden patterns and make predictions. Popular techniques include [neural networks](../n/neural_networks_in_trading.md), reinforcement learning, and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md).
+[Machine Learning](../m/machine_learning.md) (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) algorithms can process large datasets to find hidden patterns and make predictions. Popular techniques include [neural networks](../n/neural_networks_in_trading.md), [reinforcement learning](../r/reinforcement_learning.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md).
 
 ## Data Sources
 
@@ -44,7 +44,7 @@ Effective data-driven [trading strategies](../t/trading_strategies.md) rely on h
 Before implementing any strategy, it is essential to collect and clean data. Data must be accurate, consistent, and free from errors. Techniques like [interpolation](../i/interpolation.md), outlier detection, and normalization are commonly used in this phase.
 
 ### 2. **Model Building**
-Building a trading model involves selecting the appropriate statistical or machine learning techniques to analyze the data. This phase includes feature selection, parameter tuning, and model validation. [Software tools](../s/software_tools_for_trading.md) such as Python, R, and specialized platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and Quantopian can be valuable for this purpose.
+Building a trading model involves selecting the appropriate statistical or [machine learning](../m/machine_learning.md) techniques to analyze the data. This phase includes feature selection, parameter tuning, and model validation. [Software tools](../s/software_tools_for_trading.md) such as Python, R, and specialized platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and Quantopian can be valuable for this purpose.
 
 ### 3. **Backtesting**
 [Backtesting](../b/backtesting.md) allows traders to test their models on historical data to evaluate performance. This step is crucial for understanding the efficacy and robustness of a [trading strategy](../t/trading_strategy.md) before deploying it in live markets.

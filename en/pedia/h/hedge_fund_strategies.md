@@ -133,7 +133,7 @@ Avenue [Capital](../c/capital.md) Group, founded by Marc Lasry, is known for its
 ### Mechanism
 - **[Algorithmic Trading](../a/algorithmic_trading.md)**: Computers make decisions and execute trades based on predefined rules.
 - **[Big Data](../b/big_data_in_trading.md)**: Analyzing massive data sets including [market](../m/market.md) data, news, and [alternative data](../a/alternative_data.md) sources.
-- **Machine Learning**: Utilizing AI and machine learning to improve models and predict [market](../m/market.md) movements.
+- **[Machine Learning](../m/machine_learning.md)**: Utilizing AI and [machine learning](../m/machine_learning.md) to improve models and predict [market](../m/market.md) movements.
 
 ### Examples
 Renaissance Technologies, founded by Jim Simons, is a pioneer in quantitative [hedge fund](../h/hedge_fund.md) strategies, known for its Medallion [Fund](../f/fund.md)'s impressive performance utilizing advanced statistical models.

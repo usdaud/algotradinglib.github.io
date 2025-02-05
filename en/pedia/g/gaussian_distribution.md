@@ -44,7 +44,7 @@ While the Gaussian [distribution](../d/distribution.md) is powerful, it has its 
 ## Companies Utilizing Gaussian Distribution in Algorithmic Trading
 
 1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform and utilizes Gaussian [distribution](../d/distribution.md) in many of its [backtesting](../b/backtesting.md) algorithms.
-2. **Numerai**: [Numerai](https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) that crowdsources stock predictions and employs Gaussian distributions in its machine learning models to predict [stock market](../s/stock_market.md) movements.
+2. **Numerai**: [Numerai](https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) that crowdsources stock predictions and employs Gaussian distributions in its [machine learning](../m/machine_learning.md) models to predict [stock market](../s/stock_market.md) movements.
 
 ## Conclusion
 

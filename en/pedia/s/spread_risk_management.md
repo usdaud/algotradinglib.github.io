@@ -34,7 +34,7 @@ Establishing [risk](../r/risk.md) limits and controls is essential for managing 
 
 ### 5. Statistical Models and Machine Learning
 
-Traders [leverage](../l/leverage.md) statistical models and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict and manage spread [risk](../r/risk.md). By analyzing historical data and [market](../m/market.md) conditions, these models can forecast spread movements and adjust [trading strategies](../t/trading_strategies.md) accordingly. Machine learning techniques, such as [regression analysis](../r/regression_analysis.md) and [neural networks](../n/neural_networks_in_trading.md), are particularly effective in identifying patterns and anomalies in spread behavior.
+Traders [leverage](../l/leverage.md) statistical models and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict and manage spread [risk](../r/risk.md). By analyzing historical data and [market](../m/market.md) conditions, these models can forecast spread movements and adjust [trading strategies](../t/trading_strategies.md) accordingly. [Machine learning](../m/machine_learning.md) techniques, such as [regression analysis](../r/regression_analysis.md) and [neural networks](../n/neural_networks_in_trading.md), are particularly effective in identifying patterns and anomalies in spread behavior.
 
 ## Importance of Spread Risk Management
 
@@ -76,7 +76,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies rely on the statistical re
 
 ## Case Study: Citadel Securities
 
-Citadel Securities is a leading [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider known for its expertise in managing spread [risk](../r/risk.md). The company's advanced [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) systems enable it to provide tight [bid](../b/bid.md)-ask [spreads](../s/spreads.md) and execute trades efficiently across a wide [range](../r/range.md) of assets. Citadel Securities leverages sophisticated [data analytics](../d/data_analytics.md) and machine learning techniques to optimize its [trading strategies](../t/trading_strategies.md) and manage spread [risk](../r/risk.md) effectively.
+Citadel Securities is a leading [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider known for its expertise in managing spread [risk](../r/risk.md). The company's advanced [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) systems enable it to provide tight [bid](../b/bid.md)-ask [spreads](../s/spreads.md) and execute trades efficiently across a wide [range](../r/range.md) of assets. Citadel Securities leverages sophisticated [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) techniques to optimize its [trading strategies](../t/trading_strategies.md) and manage spread [risk](../r/risk.md) effectively.
 
 For more information about Citadel Securities and their approach to spread [risk management](../r/risk_management.md), visit their [official website](https://www.citadelsecurities.com/).
 

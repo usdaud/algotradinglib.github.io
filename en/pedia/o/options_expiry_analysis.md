@@ -50,7 +50,7 @@ Pin [risk](../r/risk.md) occurs when the [underlying asset](../u/underlying_asse
 
 Algorithmic traders extensively use historical data and [predictive models](../p/predictive_models_in_trading.md) to analyze patterns around expiry:
 - **[Historical Volatility](../h/historical_volatility.md) Data**: Studying past data helps in predicting [volatility](../v/volatility.md) spikes and crafting relevant strategies.
-- **Machine Learning Models**: Leveraging machine learning to forecast price movements and [volatility](../v/volatility.md) patterns at expiry.
+- **[Machine Learning](../m/machine_learning.md) Models**: Leveraging [machine learning](../m/machine_learning.md) to forecast price movements and [volatility](../v/volatility.md) patterns at expiry.
 - **[Order Book Analysis](../o/order_book_analysis.md)**: Analyzing depth and changes in the [order book](../o/order_book.md) to understand [market sentiment](../m/market_sentiment.md) and [liquidity](../l/liquidity.md) dynamics.
 
 ## Risk Management in Expiry Trading

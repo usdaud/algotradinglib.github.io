@@ -76,7 +76,7 @@ As technology advances, the way BINs are utilized is also evolving. Here are som
 
 ### Enhanced Fraud Analytics
 
-With the rise of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, the analysis of BIN data for [fraud](../f/fraud.md) detection is becoming more sophisticated. Systems can now predict and detect potential [fraud](../f/fraud.md) patterns much more accurately.
+With the rise of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), the analysis of BIN data for [fraud](../f/fraud.md) detection is becoming more sophisticated. Systems can now predict and detect potential [fraud](../f/fraud.md) patterns much more accurately.
 
 ### Open Banking
 

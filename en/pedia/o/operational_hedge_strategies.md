@@ -61,7 +61,7 @@ Even after deployment, the process is ongoing. Algorithms must adapt to changing
 Companies dealing with [raw materials](../r/raw_materials.md) often face [commodity](../c/commodity.md) price [volatility](../v/volatility.md). Algotrading assists in:
 
 - **[Commodity Futures](../c/commodity_futures.md) Hedging:** Automatic [execution](../e/execution.md) of [futures contracts](../f/futures_contracts.md) to lock in prices.
-- **Advanced Pricing Models:** Algorithms employing machine learning to predict [commodity](../c/commodity.md) price trends and optimize [hedge](../h/hedge.md) positions.
+- **Advanced Pricing Models:** Algorithms employing [machine learning](../m/machine_learning.md) to predict [commodity](../c/commodity.md) price trends and optimize [hedge](../h/hedge.md) positions.
 
 ### 3. Interest Rate Hedging
 [Interest rate](../i/interest_rate.md) fluctuations can significantly impact borrowing costs. Algotrading strategies may include:

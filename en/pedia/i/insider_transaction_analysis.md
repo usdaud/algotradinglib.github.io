@@ -60,7 +60,7 @@ Event studies analyze stock price behavior surrounding the dates of insider trad
 Regression models can be used to quantify the relationship between [insider trading](../i/insider.md) activity and future stock returns, controlling for other variables such as [market](../m/market.md) trends.
 
 ### Machine Learning Models
-Machine learning and AI techniques can process large datasets of insider transactions to identify patterns and predict future stock movements.
+[Machine learning](../m/machine_learning.md) and AI techniques can process large datasets of insider transactions to identify patterns and predict future stock movements.
 
 ## Case Studies and Applications
 ### Case Study 1: Analyzing Insider Buying During Market Downturns

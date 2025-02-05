@@ -49,7 +49,7 @@ Forex [algorithmic trading](../a/algorithmic_trading.md) involves the use of com
 - **Data Processing Platforms**: Apache Kafka, Hadoop, and Spark.
 - **[Trade](../t/trade.md) [Execution](../e/execution.md) Platforms**: MetaTrader, [NinjaTrader](../n/ninjatrader.md), FIX Protocol.
 - **Cloud and Hosting Services**: AWS, Google Cloud, and Azure.
-- **Machine Learning Libraries**: TensorFlow, PyTorch, Scikit-Learn.
+- **[Machine Learning](../m/machine_learning.md) Libraries**: [TensorFlow](../t/tensorflow.md), [PyTorch](../p/pytorch.md), Scikit-Learn.
 
 ### 4. Risk Management
 
@@ -98,7 +98,7 @@ A case study can illustrate the practical application of forex [algorithmic trad
 
 ## Future Trends
 
-1. **Machine Learning and AI**: Greater integration of AI for more predictive and adaptive [trading models](../t/trading_models.md).
+1. **[Machine Learning](../m/machine_learning.md) and AI**: Greater integration of AI for more predictive and adaptive [trading models](../t/trading_models.md).
 2. **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potential to revolutionize the speed and complexity of [trading algorithms](../t/trading_algorithms.md).
 3. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies**: Expanding the [scope](../s/scope.md) of [algorithmic trading](../a/algorithmic_trading.md) to include digital assets.
 4. **Increased Regulation**: Evolving regulatory landscape to cope with the advances in [algorithmic trading](../a/algorithmic_trading.md).

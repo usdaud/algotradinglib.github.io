@@ -94,7 +94,7 @@ Increasingly, [credit](../c/credit.md) unions might develop custom [trading algo
 
 ### AI and Machine Learning
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning are revolutionizing algo trading. [Credit](../c/credit.md) unions [will](../w/will.md) likely adopt these technologies to improve decision-making, [portfolio optimization](../p/portfolio_optimization.md), and [real-time data analysis](../r/real-time_data_analysis.md) capabilities.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) are revolutionizing algo trading. [Credit](../c/credit.md) unions [will](../w/will.md) likely adopt these technologies to improve decision-making, [portfolio optimization](../p/portfolio_optimization.md), and [real-time data analysis](../r/real-time_data_analysis.md) capabilities.
 
 ### Blockchain and Smart Contracts
 

@@ -70,7 +70,7 @@ Regulation aims to strike a balance between fostering innovation and ensuring th
 [Funding Circle](https://www.fundingcircle.com/) operates in several countries including the US, UK, and the EU. It focuses primarily on small [business](../b/business.md) loans, providing a platform for SMEs to access [capital](../c/capital.md) from investors. Funding Circle runs a thorough vetting process to assess the [creditworthiness](../c/creditworthiness.md) of [business](../b/business.md) borrowers.
 
 ### Upstart
-[Upstart](https://www.upstart.com/) leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning to assess [credit risk](../c/credit_risk.md). It offers personal loans to borrowers who may not have an extensive [credit](../c/credit.md) history but demonstrate strong potential as indicated by other data points. This platform aims to widen access to [credit](../c/credit.md) while [offering](../o/offering.md) competitive [interest](../i/interest.md) rates.
+[Upstart](https://www.upstart.com/) leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to assess [credit risk](../c/credit_risk.md). It offers personal loans to borrowers who may not have an extensive [credit](../c/credit.md) history but demonstrate strong potential as indicated by other data points. This platform aims to widen access to [credit](../c/credit.md) while [offering](../o/offering.md) competitive [interest](../i/interest.md) rates.
 
 ### Zopa
 [Zopa](https://www.zopa.com/) is one of the original P2P lending platforms, operating mainly in the UK. It offers both personal loans and investment opportunities for lenders. Zopa focuses on providing transparent and fair terms for both parties involved.
@@ -80,7 +80,7 @@ Regulation aims to strike a balance between fostering innovation and ensuring th
 The P2P lending [industry](../i/industry.md) is poised for continued growth and innovation. Key trends driving the future of P2P lending include:
 
 ### 1. Technological Advancements
-The integration of AI, machine learning, and [big data](../b/big_data_in_trading.md) is transforming [credit risk](../c/credit_risk.md) assessment and [loan servicing](../l/loan_servicing.md) processes. These technologies enable more accurate evaluations, streamline operations, and enhance user experience.
+The integration of AI, [machine learning](../m/machine_learning.md), and [big data](../b/big_data_in_trading.md) is transforming [credit risk](../c/credit_risk.md) assessment and [loan servicing](../l/loan_servicing.md) processes. These technologies enable more accurate evaluations, streamline operations, and enhance user experience.
 
 ### 2. Global Expansion
 As internet penetration and digital literacy increase worldwide, P2P lending platforms are expanding their services to more countries. This global [expansion](../e/expansion.md) presents opportunities to democratize access to [credit](../c/credit.md) on an international scale.

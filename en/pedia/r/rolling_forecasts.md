@@ -9,7 +9,7 @@ A rolling forecast is a [forecasting](../f/forecasting.md) method that uses hist
 ### How Rolling Forecasts Work
 
 1. **Data Collection**: Historical data is collected over a specific past period. This data includes, but is not limited to, price movements, trading volumes, [economic indicators](../e/economic_indicators.md), and other relevant metrics.
-2. **Initial Forecast Creation**: An initial forecast is created using the historical data. Machine learning models, statistical methods, or a combination of both are typically employed.
+2. **Initial Forecast Creation**: An initial forecast is created using the historical data. [Machine learning](../m/machine_learning.md) models, statistical methods, or a combination of both are typically employed.
 3. **Rolling Update**: As new data becomes available (e.g., daily, hourly, or in real-time), the forecast is updated. This involves re-running the [forecasting](../f/forecasting.md) algorithms with the most recent data included.
 4. **Adjustment Mechanisms**: Adjustments are made for [seasonality](../s/seasonality.md), [market](../m/market.md) shocks, and other anomalies that could distort predictions.
 5. **Model Validation**: Continual [backtesting](../b/backtesting.md) is performed to ensure that the model remains accurate and reliable.
@@ -19,17 +19,17 @@ A rolling forecast is a [forecasting](../f/forecasting.md) method that uses hist
 1. **Adaptability**: Rolling forecasts facilitate the creation of models that can adapt in real-time to [market](../m/market.md) changes, ensuring that [trading strategies](../t/trading_strategies.md) remain relevant.
 2. **[Risk Management](../r/risk_management.md)**: By continuously updating forecasts, traders can better anticipate potential [market](../m/market.md) risks, allowing for more effective [risk management](../r/risk_management.md) strategies.
 3. **Optimized Trading Decisions**: Leveraging up-to-date information allows algorithms to make more informed and timely trading decisions, potentially leading to increased profitability.
-4. **Integration with Machine Learning**: Rolling forecasts can be effectively integrated with machine learning models, particularly supervised [learning algorithms](../l/learning_algorithms_in_trading.md) that thrive on continuous, updated data streams.
+4. **Integration with [Machine Learning](../m/machine_learning.md)**: Rolling forecasts can be effectively integrated with [machine learning](../m/machine_learning.md) models, particularly supervised [learning algorithms](../l/learning_algorithms_in_trading.md) that thrive on continuous, updated data streams.
 
 ### Methodologies Used
 
 1. **[Time Series Analysis](../t/time_series_analysis.md)**: Techniques such as ARIMA (AutoRegressive Integrated Moving Average), SARIMA (Seasonal ARIMA), and [Exponential Smoothing](../e/exponential_smoothing.md) are commonly used.
-2. **Machine Learning Models**: Techniques like [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, Long Short-Term Memory (LSTM) networks, and other [deep learning](../d/deep_learning.md) models are increasingly prevalent.
-3. **Hybrid Models**: These combine classical [time series](../t/time_series.md) methods with machine learning approaches to [leverage](../l/leverage.md) the strengths of both.
+2. **[Machine Learning](../m/machine_learning.md) Models**: Techniques like [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, Long Short-Term Memory (LSTM) networks, and other [deep learning](../d/deep_learning.md) models are increasingly prevalent.
+3. **Hybrid Models**: These combine classical [time series](../t/time_series.md) methods with [machine learning](../m/machine_learning.md) approaches to [leverage](../l/leverage.md) the strengths of both.
 
 ### Example: Application in Trading Strategies
 
-A practical example of rolling forecasts in an [algorithmic trading](../a/algorithmic_trading.md) strategy might involve predicting stock prices. Suppose a [trader](../t/trader.md) uses a machine learning model trained on the last two years of daily stock price data to forecast the price for the next day. As each day passes, the model updates its predictions based on the actual stock prices observed, thus keeping the models dynamic and current.
+A practical example of rolling forecasts in an [algorithmic trading](../a/algorithmic_trading.md) strategy might involve predicting stock prices. Suppose a [trader](../t/trader.md) uses a [machine learning](../m/machine_learning.md) model trained on the last two years of daily stock price data to forecast the price for the next day. As each day passes, the model updates its predictions based on the actual stock prices observed, thus keeping the models dynamic and current.
 
 ### Challenges and Pitfalls
 

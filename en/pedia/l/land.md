@@ -6,9 +6,9 @@
 
 [Algorithmic trading](../a/accountability.md) refers to the use of automated systems and computer algorithms to [trade](../t/trade.md) securities in [financial markets](../f/financial_market.md). The primary motivations for using [algorithmic trading](../a/accountability.md) include increasing [trade](../t/trade.md) speed, improving [trade](../t/trade.md) accuracy, and potentially boosting profitability. These algorithms are designed to follow a set of defined instructions to place a [trade](../t/trade.md) in [order](../o/order.md) to generate profits at a speed and frequency that is impossible for a human [trader](../t/trader.md).
 
-[Algorithmic trading](../a/accountability.md) can be used in various types of financial instruments, including [stocks](../s/stock.md), bonds, [foreign exchange](../f/foreign_exchange.md), and commodities. The algorithms can [range](../r/range.md) from simple rule-based systems to complex machine learning models. Here are some key components of [algorithmic trading](../a/accountability.md):
+[Algorithmic trading](../a/accountability.md) can be used in various types of financial instruments, including [stocks](../s/stock.md), bonds, [foreign exchange](../f/foreign_exchange.md), and commodities. The algorithms can [range](../r/range.md) from simple rule-based systems to complex [machine learning](../m/machine_learning.md) models. Here are some key components of [algorithmic trading](../a/accountability.md):
 
-1. **[Trading Algorithms](../t/trading_algorithms.md)**: These can be simple algorithms, such as those that follow a fixed set of rules for buying and selling, or more complex algorithms that utilize machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze massive datasets and make predictions.
+1. **[Trading Algorithms](../t/trading_algorithms.md)**: These can be simple algorithms, such as those that follow a fixed set of rules for buying and selling, or more complex algorithms that utilize [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze massive datasets and make predictions.
 2. **[Execution Algorithms](../e/execution_algorithms.md)**: These are designed to execute large orders without causing significant price movements. Examples include VWAP ([Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price) and TWAP (Time [Weighted Average](../w/weighted_average.md) Price).
 3. **[Risk Management](../r/risk_management.md) Algorithms**: These algorithms help in managing the [risk](../r/risk.md) associated with trades by setting predefined [risk](../r/risk.md) parameters.
 4. **[Market](../m/market.md) Data**: Accurate and [real-time market data](../r/real-time_market_data.md) is crucial for effective [algorithmic trading](../a/accountability.md). This includes price data, [volume](../v/volume.md) data, and sometimes level II [market](../m/market.md) data, which shows the [order book](../o/order_book.md).
@@ -62,7 +62,7 @@ Renaissance Technologies is one of the most successful [hedge](../h/hedge.md) fu
 
 ### 3. **Two Sigma**
 
-Two Sigma is another leading [hedge fund](../h/hedge_fund.md) that heavily uses [data science](../d/data_science_in_trading.md), machine learning, and distributed computing technologies for trading. They focus on finding connections in large datasets that can be applied to markets.
+Two Sigma is another leading [hedge fund](../h/hedge_fund.md) that heavily uses [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing technologies for trading. They focus on finding connections in large datasets that can be applied to markets.
 [Two Sigma Website](https://www.twosigma.com)
 
 ### 4. **AQR Capital Management**
@@ -138,7 +138,7 @@ The landscape of [algorithmic trading](../a/accountability.md) is continually ev
 
 ### 1. **Artificial Intelligence and Machine Learning**
 
-The integration of AI and machine learning into [trading algorithms](../t/trading_algorithms.md) is expected to become even more prevalent. These technologies can identify complex patterns and make more accurate predictions.
+The integration of AI and [machine learning](../m/machine_learning.md) into [trading algorithms](../t/trading_algorithms.md) is expected to become even more prevalent. These technologies can identify complex patterns and make more accurate predictions.
 
 ### 2. **Quantum Computing**
 

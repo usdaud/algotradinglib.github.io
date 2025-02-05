@@ -2,7 +2,7 @@
 
 Trading algorithm [optimization](../o/optimization.md) is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), which involves using computer programs to [trade](../t/trade.md) [financial markets](../f/financial_market.md) with speed and [efficiency](../e/efficiency.md) far beyond human capabilities. The goal of [optimization](../o/optimization.md) is to enhance the performance of a trading algorithm by adjusting its parameters in such a way that it maximizes returns, minimizes drawdowns, and operates robustly under various [market](../m/market.md) conditions.
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems utilize a variety of strategies, ranging from simple moving averages and [mean reversion](../m/mean_reversion.md) techniques to complex strategies driven by machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md). The effectiveness of these strategies often hinges on the meticulous [optimization](../o/optimization.md) of the [underlying](../u/underlying.md) algorithms.
+[Algorithmic trading](../a/algorithmic_trading.md) systems utilize a variety of strategies, ranging from simple moving averages and [mean reversion](../m/mean_reversion.md) techniques to complex strategies driven by [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md). The effectiveness of these strategies often hinges on the meticulous [optimization](../o/optimization.md) of the [underlying](../u/underlying.md) algorithms.
 
 ## Steps in Trading Algorithm Optimization
 
@@ -43,7 +43,7 @@ A less exhaustive method where a random subset of all possible parameter combina
 An evolutionary approach that mimics natural selection processes to iteratively improve the parameter set.
 
 #### d. Gradient Descent
-Used commonly in machine learning, this [optimization](../o/optimization.md) technique involves adjusting parameters in the direction that maximizes or minimizes a loss function.
+Used commonly in [machine learning](../m/machine_learning.md), this [optimization](../o/optimization.md) technique involves adjusting parameters in the direction that maximizes or minimizes a loss function.
 
 ### 5. Walk-forward Analysis
 

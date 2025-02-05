@@ -74,7 +74,7 @@ Bootstrapping is a resampling method that involves repeatedly drawing samples fr
 
 ### 5. Machine Learning and AI
 
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) techniques, such as [neural networks](../n/neural_networks_in_trading.md) and reinforcement learning, can be applied to analyze [return](../r/return.md) distributions. These advanced methods enable the identification of complex patterns and relationships in [return](../r/return.md) data, enhancing the predictive accuracy and robustness of [trading strategies](../t/trading_strategies.md).
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) techniques, such as [neural networks](../n/neural_networks_in_trading.md) and [reinforcement learning](../r/reinforcement_learning.md), can be applied to analyze [return](../r/return.md) distributions. These advanced methods enable the identification of complex patterns and relationships in [return](../r/return.md) data, enhancing the predictive accuracy and robustness of [trading strategies](../t/trading_strategies.md).
 
 ## Practical Applications in Algorithmic Trading
 
@@ -109,7 +109,7 @@ Several [software tools](../s/software_tools_for_trading.md) and platforms facil
 - **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers extensive data for [backtesting](../b/backtesting.md) and live trading. (https://www.[quantconnect](../q/quantconnect.md).com/)
 - **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that provides a [range](../r/range.md) of functionalities for [return](../r/return.md) [distribution](../d/distribution.md) analysis. (http://[quantlib](../q/quantlib.md).org/)
 - **MATLAB**: A numerical computing environment used for statistical analysis, [simulation](../s/simulation_in_trading.md), and modeling of [return](../r/return.md) distributions. (https://www.mathworks.com/products/matlab.html)
-- **Python Libraries (Pandas, NumPy, SciPy, Scikit-Learn)**: Widely used libraries in Python for data analysis, statistical modeling, and machine learning, enabling comprehensive [return](../r/return.md) [distribution](../d/distribution.md) analysis. (https://pandas.pydata.org/, https://numpy.org/, https://www.scipy.org/, https://scikit-learn.org/stable/)
+- **Python Libraries (Pandas, NumPy, SciPy, Scikit-Learn)**: Widely used libraries in Python for data analysis, statistical modeling, and [machine learning](../m/machine_learning.md), enabling comprehensive [return](../r/return.md) [distribution](../d/distribution.md) analysis. (https://pandas.pydata.org/, https://numpy.org/, https://www.scipy.org/, https://scikit-learn.org/stable/)
 - **R**: A programming language and environment for statistical computing, ideal for analyzing financial [return](../r/return.md) distributions. (https://www.r-project.org/)
 - **Excel**: A versatile tool for performing basic statistical analysis and visualization of [return](../r/return.md) distributions. (https://www.microsoft.com/en-us/microsoft-365/excel)
 

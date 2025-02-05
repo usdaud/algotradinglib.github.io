@@ -32,9 +32,9 @@ In 2017, [Bitcoin](../b/bitcoin.md) witnessed a massive surge in [value](../v/va
 Understanding [market sentiment](../m/market_sentiment.md) can be invaluable for identifying bubbles. This involves analyzing news articles, [social media](../s/social_media.md) posts, and other text data to gauge public sentiment toward a particular [asset](../a/asset.md). Algorithms can quantify sentiment and predict potential [market](../m/market.md) movements.
 
 ### Machine Learning Models
-Machine learning offers more complex, [adaptive algorithms](../a/adaptive_algorithms.md) capable of identifying bubbles:
-- **Supervised Learning**: Algorithms are trained using historical data of past bubbles to recognize patterns that preceded those events.
-- **Unsupervised Learning**: Clustering techniques like [k-means clustering](../k/k-means_clustering_in_trading.md) can identify groups of [stocks](../s/stock.md) or assets that exhibit bubble-like behavior without pre-labeled data.
+[Machine learning](../m/machine_learning.md) offers more complex, [adaptive algorithms](../a/adaptive_algorithms.md) capable of identifying bubbles:
+- **[Supervised Learning](../s/supervised_learning.md)**: Algorithms are trained using historical data of past bubbles to recognize patterns that preceded those events.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Clustering techniques like [k-means clustering](../k/k-means_clustering_in_trading.md) can identify groups of [stocks](../s/stock.md) or assets that exhibit bubble-like behavior without pre-labeled data.
   
 ### Real-time Market Data Analysis
 Access to [real-time market data](../r/real-time_market_data.md) allows algorithms to monitor trades, [volume](../v/volume.md), and other key indicators continuously. Anomalous patterns detected in real-time can signal the formation of a bubble.

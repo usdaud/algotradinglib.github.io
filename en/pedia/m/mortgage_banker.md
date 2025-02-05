@@ -97,7 +97,7 @@ Automated [underwriting](../u/underwriting.md) systems (AUS) use algorithms and 
 
 ### 4. Data Analytics and Machine Learning
 
-Advanced [data analytics](../d/data_analytics.md) and machine learning techniques can be used to:
+Advanced [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) techniques can be used to:
 
 - Predict borrower behavior and potential defaults.
 - Optimize [loan](../l/loan.md) pricing and [portfolio management](../p/par.md).

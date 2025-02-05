@@ -78,7 +78,7 @@ RMIS are integrated IT solutions used by firms to manage and aggregate data from
 
 ### 2. Predictive Analytics Software
 
-This software leverages statistical algorithms and machine learning techniques to predict future outcomes based on historical data.
+This software leverages statistical algorithms and [machine learning](../m/machine_learning.md) techniques to predict future outcomes based on historical data.
 
 ### 3. SimCorp
 

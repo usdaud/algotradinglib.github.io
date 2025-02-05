@@ -60,7 +60,7 @@ In the modern financial landscape, technology has enhanced the ability to determ
 
 ### 4.2. Machine Learning and AI
 
-Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) algorithms can improve value assessment by identifying patterns and predicting future price movements based on historical data, enhancing the [intrinsic value](../i/intrinsic_value.md) calculation robustness.
+[Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) algorithms can improve value assessment by identifying patterns and predicting future price movements based on historical data, enhancing the [intrinsic value](../i/intrinsic_value.md) calculation robustness.
 
 ### 4.3. Robo-Advisors
 

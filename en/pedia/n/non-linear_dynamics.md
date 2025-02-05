@@ -35,12 +35,12 @@ These models capture more complex relationships between variables. They are cruc
 - **Spline Regression**: Fits piecewise polynomial functions to segments of the data.
 
 ### Machine Learning Algorithms
-Machine learning, particularly [deep learning](../d/deep_learning.md) models, inherently considers non-linear dynamics. [Neural networks](../n/neural_networks_in_trading.md), especially those with [multiple](../m/multiple.md) layers (Deep [Neural Networks](../n/neural_networks_in_trading.md)), can model highly complex relationships.
+[Machine learning](../m/machine_learning.md), particularly [deep learning](../d/deep_learning.md) models, inherently considers non-linear dynamics. [Neural networks](../n/neural_networks_in_trading.md), especially those with [multiple](../m/multiple.md) layers (Deep [Neural Networks](../n/neural_networks_in_trading.md)), can model highly complex relationships.
 - **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs)**: Suitable for time-series data where past information influences future events.
 - **Long Short-Term Memory (LSTM)**: An advanced RNN variant that can remember long-term dependencies, crucial in financial time-series [forecasting](../f/forecasting.md).
 
 #### Case Study: Two Sigma
-Two Sigma Investments LLC uses machine learning and distributed computing systems to uncover non-linear relationships in data. Their strategies [range](../r/range.md) from statistical [arbitrage](../a/arbitrage.md) to [trend following](../t/trend_following.md), utilizing intricate models that embed non-linear dynamics principles. [Two Sigma](https://www.twosigma.com/)
+Two Sigma Investments LLC uses [machine learning](../m/machine_learning.md) and distributed computing systems to uncover non-linear relationships in data. Their strategies [range](../r/range.md) from statistical [arbitrage](../a/arbitrage.md) to [trend following](../t/trend_following.md), utilizing intricate models that embed non-linear dynamics principles. [Two Sigma](https://www.twosigma.com/)
 
 ### Chaos Theory in Trading
 Identifying chaotic yet deterministic patterns in [market](../m/market.md) data can drive [trading strategies](../t/trading_strategies.md). Tools like the Lyapunov Exponent measure the rate of separation of infinitesimally close trajectories, helping assess the predictability of a system.
@@ -64,7 +64,7 @@ MATLAB offers extensive toolboxes for non-linear dynamics and chaos theory, enab
 Several Python libraries facilitate the application of non-linear dynamics in [trading algorithms](../t/trading_algorithms.md):
 - **SciPy and NumPy**: Fundamental for numerical computations.
 - **Scikit-Learn**: Includes utilities for non-[linear regression](../l/linear_regression.md) and clustering.
-- **TensorFlow and Keras**: Learnings tools for building [deep learning](../d/deep_learning.md) models.
+- **[TensorFlow](../t/tensorflow.md) and [Keras](../k/keras.md)**: Learnings tools for building [deep learning](../d/deep_learning.md) models.
   
 ### R Programming
 R, with packages like `tseries` and `forecast`, offers powerful tools for [time series analysis](../t/time_series_analysis.md) and modeling, useful in capturing non-linear dynamics in financial data.
@@ -78,7 +78,7 @@ The effectiveness of non-[linear models](../l/linear_models_in_trading.md) heavi
 Non-[linear models](../l/linear_models_in_trading.md) often require significant computational resources. Optimizing these models for real-time trading applications can be challenging but necessary, particularly in high-frequency trading.
 
 ### Interpretability
-Non-[linear models](../l/linear_models_in_trading.md), especially those built using machine learning, can be challenging to interpret. Understanding the rationale behind trading decisions is crucial for [risk management](../r/risk_management.md) and regulatory compliance.
+Non-[linear models](../l/linear_models_in_trading.md), especially those built using [machine learning](../m/machine_learning.md), can be challenging to interpret. Understanding the rationale behind trading decisions is crucial for [risk management](../r/risk_management.md) and regulatory compliance.
 
 ### Overfitting
 The flexibility of non-[linear models](../l/linear_models_in_trading.md) can sometimes lead to [overfitting](../o/overfitting.md), where the model performs well on historical data but poorly on new data. [Robust](../r/robust.md) cross-validation techniques are essential.
@@ -89,11 +89,11 @@ The flexibility of non-[linear models](../l/linear_models_in_trading.md) can som
 [Quantum algorithms](../q/quantum_algorithms_in_trading.md) [hold](../h/hold.md) promise for solving non-linear problems more efficiently than classical computers, potentially revolutionizing [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Explainable AI (XAI)
-Developing models that are both powerful and interpretable is an ongoing research area. Explainable AI aims to make complex models, including those based on non-linear dynamics, more transparent and understandable to human users.
+Developing models that are both powerful and interpretable is an ongoing research area. [Explainable AI](../e/explainable_ai.md) aims to make complex models, including those based on non-linear dynamics, more transparent and understandable to human users.
 
 ### Integration with Big Data
 The ability to process vast amounts of unstructured data in real-time [will](../w/will.md) further enhance the capabilities of non-linear dynamic models in [algorithmic trading](../a/algorithmic_trading.md), improving predictive accuracy and decision-making speed.
 
 ## Conclusion
-Non-linear dynamics brings a sophisticated and nuanced approach to [algorithmic trading](../a/algorithmic_trading.md), enabling traders to capture complex [market](../m/market.md) relationships that [linear models](../l/linear_models_in_trading.md) overlook. While the field presents significant challenges, advancements in computational power, machine learning, and [data analysis techniques](../d/data_analysis_techniques.md) continue to push the boundaries of what's possible. As markets evolve, the integration of non-linear dynamics into [trading strategies](../t/trading_strategies.md) [will](../w/will.md) likely become even more critical in maintaining a competitive edge.
+Non-linear dynamics brings a sophisticated and nuanced approach to [algorithmic trading](../a/algorithmic_trading.md), enabling traders to capture complex [market](../m/market.md) relationships that [linear models](../l/linear_models_in_trading.md) overlook. While the field presents significant challenges, advancements in computational power, [machine learning](../m/machine_learning.md), and [data analysis techniques](../d/data_analysis_techniques.md) continue to push the boundaries of what's possible. As markets evolve, the integration of non-linear dynamics into [trading strategies](../t/trading_strategies.md) [will](../w/will.md) likely become even more critical in maintaining a competitive edge.
 

@@ -47,7 +47,7 @@ An overlay in financial trading refers to a set of strategies or tools that "ove
 In the realm of financial technology (FinTech) and [algorithmic trading](../a/accountability.md), overlays play a crucial role in optimizing [trading strategies](../t/trading_strategies.md) and achieving better [risk](../r/risk.md)-adjusted returns. Advanced technologies and [data analytics](../d/data_analytics.md) are used to develop sophisticated overlays that can adapt to changing [market](../m/market.md) conditions. Examples include:
 
 - **Statistical [Arbitrage](../a/arbitrage.md) Overlays:** Identifying and exploiting pricing inefficiencies across related securities using statistical models.
-- **Machine Learning Overlays:** Utilizing [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to develop [predictive models](../p/predictive_models_in_trading.md) that enhance [trading strategies](../t/trading_strategies.md).
+- **[Machine Learning](../m/machine_learning.md) Overlays:** Utilizing [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to develop [predictive models](../p/predictive_models_in_trading.md) that enhance [trading strategies](../t/trading_strategies.md).
 - **[Risk Management](../r/risk_management.md) Overlays:** Implementing dynamic [risk](../r/risk.md) controls, such as [Value](../v/value.md)-at-[Risk](../r/risk.md) (VaR) limits and [stress testing](../s/stress_testing.md), to minimize losses during adverse [market](../m/market.md) conditions.
 
 ## Implementation of Overlays

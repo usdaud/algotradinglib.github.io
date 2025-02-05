@@ -46,7 +46,7 @@ These algorithms are predicated on the statistical concept of [mean reversion](.
 [Market](../m/market.md)-making algorithms provide [liquidity](../l/liquidity.md) to [financial markets](../f/financial_market.md). They place both buy and sell limit orders for a given [security](../s/security.md), profiting from the [bid-ask spread](../b/bid-ask_spread.md). These algorithms aim to be [market](../m/market.md)-[neutral](../n/neutral.md) by quickly offsetting [inventory](../i/inventory.md) positions.
 
 ### **5. Sentiment Analysis Algorithms**
-These algorithms scan news articles, [social media](../s/social_media.md) platforms, and other text sources for [sentiment indicators](../s/sentiment_indicators.md). Positive sentiment about an [asset](../a/asset.md) might trigger buying, while negative sentiment might trigger selling. Advances in [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning have vastly improved these systems' effectiveness.
+These algorithms scan news articles, [social media](../s/social_media.md) platforms, and other text sources for [sentiment indicators](../s/sentiment_indicators.md). Positive sentiment about an [asset](../a/asset.md) might trigger buying, while negative sentiment might trigger selling. Advances in [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) have vastly improved these systems' effectiveness.
 
 ### **6. High-Frequency Trading (HFT)**
 HFT represents the apex of [algorithmic trading](../a/algorithmic_trading.md), focusing on executing orders in microseconds. Firms like Citadel Securities and Virtu Financial employ HFT algorithms for strategies including [arbitrage](../a/arbitrage.md) and [market](../m/market.md)-making.
@@ -82,8 +82,8 @@ Designing and implementing a trading algorithm involves [multiple](../m/multiple
 ## Emerging Trends
 
 ### **Machine Learning and AI**
-Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are becoming integral to [algorithmic trading](../a/algorithmic_trading.md) strategies. ML models excel in [pattern recognition](../p/pattern_recognition.md) and [predictive analytics](../p/predictive_analytics.md), giving traders an edge.
-- **Deep Reinforcement Learning:** Algorithms train themselves to [trade](../t/trade.md) by simulating [market](../m/market.md) environments.
+[Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are becoming integral to [algorithmic trading](../a/algorithmic_trading.md) strategies. ML models excel in [pattern recognition](../p/pattern_recognition.md) and [predictive analytics](../p/predictive_analytics.md), giving traders an edge.
+- **Deep [Reinforcement Learning](../r/reinforcement_learning.md):** Algorithms train themselves to [trade](../t/trade.md) by simulating [market](../m/market.md) environments.
 - **[Neural Networks](../n/neural_networks_in_trading.md):** Employed for complex [forecasting](../f/forecasting.md) and [anomaly detection](../a/anomaly_detection.md).
 
 ### **Quantum Computing**

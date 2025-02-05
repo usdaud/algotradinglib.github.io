@@ -110,7 +110,7 @@ Emerging technologies like [blockchain](../b/blockchain_in_trading.md) can furth
 
 ### **Artificial Intelligence (AI) and Machine Learning**
 
-AI and machine learning technologies are expected to further advance STP by enabling [predictive analytics](../p/predictive_analytics.md) and more intelligent automation. These technologies can help in [anomaly detection](../a/anomaly_detection.md), predictive maintenance, and adaptive learning, further reducing the need for human intervention.
+AI and [machine learning](../m/machine_learning.md) technologies are expected to further advance STP by enabling [predictive analytics](../p/predictive_analytics.md) and more intelligent automation. These technologies can help in [anomaly detection](../a/anomaly_detection.md), predictive maintenance, and adaptive learning, further reducing the need for human intervention.
 
 ### **Cloud Computing**
 

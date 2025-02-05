@@ -72,7 +72,7 @@ EBS is an electronic [trading platform](../t/trading_platform.md) specializing i
 
 1. **Technological Advancements**: Continued advancements in technology, including [blockchain](../b/blockchain_in_trading.md) and [distributed ledger technology](../d/distributed_ledger_technology.md) (DLT), have the potential to enhance the [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) of OTC markets. DLT can facilitate the secure and transparent recording of trades.
 
-2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: AI and machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being used for [predictive analytics](../p/predictive_analytics.md), automated trading, and [risk management](../r/risk_management.md) in OTC markets. These technologies can improve accuracy in [price discovery](../p/price_discovery.md) and [execution](../e/execution.md).
+2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: AI and machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being used for [predictive analytics](../p/predictive_analytics.md), automated trading, and [risk management](../r/risk_management.md) in OTC markets. These technologies can improve accuracy in [price discovery](../p/price_discovery.md) and [execution](../e/execution.md).
 
 3. **Regulatory Evolutions**: Regulatory bodies are constantly evolving to address the challenges posed by OTC markets. This includes enhancing [transparency](../t/transparency.md), implementing stringent reporting requirements, and developing frameworks to mitigate systemic risks.
 

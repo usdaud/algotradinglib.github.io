@@ -38,7 +38,7 @@ The VIX, or the [Volatility](../v/volatility.md) [Index](../i/index_instrument.m
 
 ### Machine Learning and Artificial Intelligence
 
-Modern [algorithmic trading](../a/algorithmic_trading.md) increasingly relies on machine learning and AI for [arbitrage](../a/arbitrage.md) opportunities. Advanced models and algorithms can detect and exploit subtle patterns and inefficiencies in [volatility](../v/volatility.md) that are not apparent to traditional models.
+Modern [algorithmic trading](../a/algorithmic_trading.md) increasingly relies on [machine learning](../m/machine_learning.md) and AI for [arbitrage](../a/arbitrage.md) opportunities. Advanced models and algorithms can detect and exploit subtle patterns and inefficiencies in [volatility](../v/volatility.md) that are not apparent to traditional models.
 
 ## Prominent Players and Technologies
 
@@ -48,7 +48,7 @@ Modern [algorithmic trading](../a/algorithmic_trading.md) increasingly relies on
 
 ### Two Sigma
 
-[Two Sigma](https://www.twosigma.com/) is another major player that leverages technology and [data science](../d/data_science_in_trading.md) for trading, including [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md). They use advanced data modeling and machine learning techniques to identify and exploit [market](../m/market.md) inefficiencies.
+[Two Sigma](https://www.twosigma.com/) is another major player that leverages technology and [data science](../d/data_science_in_trading.md) for trading, including [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md). They use advanced data modeling and [machine learning](../m/machine_learning.md) techniques to identify and exploit [market](../m/market.md) inefficiencies.
 
 ### Citadel LLC
 

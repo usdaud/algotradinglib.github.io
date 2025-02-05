@@ -68,7 +68,7 @@ Various fintech firms and platforms specialize in NAV [discount](../d/discount.m
 
 2. **[QuantConnect](../q/quantconnect.md)**: Provides a collaborative environment for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies [QuantConnect](https://www.quantconnect.com/)
 
-3. **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that utilizes machine learning and distributed computing for trading [Two Sigma](https://www.twosigma.com/)
+3. **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that utilizes [machine learning](../m/machine_learning.md) and distributed computing for trading [Two Sigma](https://www.twosigma.com/)
 
 4. **AlphaSimplex Group**: Focuses on [alternative investment](../a/alternative_investment.md) solutions leveraging NAV analysis among other strategies [AlphaSimplex](https://www.alphasimplex.com/)
 

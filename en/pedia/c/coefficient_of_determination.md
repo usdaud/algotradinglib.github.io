@@ -74,7 +74,7 @@ Two Sigma (https://www.twosigma.com/) is a technology-driven investment [firm](.
 
 ### Numerai
 
-Numerai (https://numer.ai/) is a unique [hedge fund](../h/hedge_fund.md) that crowdsources [stock market](../s/stock_market.md) predictions through machine learning models. Participants submit their predictions, which are evaluated based on various [performance metrics](../p/performance_metrics.md) including $R^2$. Numerai then uses the best-performing models to drive their [trading strategies](../t/trading_strategies.md), blending cutting-edge [data science](../d/data_science_in_trading.md) with financial [market](../m/market.md) trading.
+Numerai (https://numer.ai/) is a unique [hedge fund](../h/hedge_fund.md) that crowdsources [stock market](../s/stock_market.md) predictions through [machine learning](../m/machine_learning.md) models. Participants submit their predictions, which are evaluated based on various [performance metrics](../p/performance_metrics.md) including $R^2$. Numerai then uses the best-performing models to drive their [trading strategies](../t/trading_strategies.md), blending cutting-edge [data science](../d/data_science_in_trading.md) with financial [market](../m/market.md) trading.
 
 ## Practical Example of Using $R^2$ in Algorithmic Trading
 

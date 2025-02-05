@@ -37,10 +37,10 @@ Agent-based models simulate interactions of individual [market](../m/market.md) 
 
 ### Machine Learning Models
 
-Machine learning models use algorithms to learn patterns and make predictions from large datasets without being explicitly programmed for specific tasks. Common machine learning techniques in quant modeling include:
+[Machine learning](../m/machine_learning.md) models use algorithms to learn patterns and make predictions from large datasets without being explicitly programmed for specific tasks. Common [machine learning](../m/machine_learning.md) techniques in quant modeling include:
 
-- **Supervised Learning**: Techniques like [linear regression](../l/linear_regression.md), [logistic regression](../l/logistic_regression_in_trading.md), and [decision trees](../d/decision_trees.md).
-- **Unsupervised Learning**: Clustering techniques like K-means and hierarchical clustering.
+- **[Supervised Learning](../s/supervised_learning.md)**: Techniques like [linear regression](../l/linear_regression.md), [logistic regression](../l/logistic_regression_in_trading.md), and [decision trees](../d/decision_trees.md).
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Clustering techniques like K-means and hierarchical clustering.
 - **[Deep Learning](../d/deep_learning.md)**: [Neural networks](../n/neural_networks_in_trading.md) and their variants, such as recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs) and convolutional [neural networks](../n/neural_networks_in_trading.md) (CNNs).
 
 ## Model Construction and Calibration
@@ -93,7 +93,7 @@ Stochastic models are widely used in option pricing, enabling accurate [valuatio
 
 ### Market Forecasting
 
-[Time series](../t/time_series.md) models and machine learning techniques are employed to forecast [market](../m/market.md) trends and [economic indicators](../e/economic_indicators.md).
+[Time series](../t/time_series.md) models and [machine learning](../m/machine_learning.md) techniques are employed to forecast [market](../m/market.md) trends and [economic indicators](../e/economic_indicators.md).
 
 ## Prominent Companies and Resources
 
@@ -102,11 +102,11 @@ Several companies and research institutions specialize in the development and ap
 - [The MathWorks](https://www.mathworks.com/solutions/quantitative-finance.html): Known for their MATLAB software, which is extensively used for [quantitative finance](../q/quantitative_finance.md) and model development.
 - [Bloomberg](https://www.bloomberg.com/professional/solution/quantitative-research/): Provides a suite of quant tools and [data analytics](../d/data_analytics.md) for financial professionals.
 - [QuantConnect](https://www.quantconnect.com/): An [open](../o/open.md) platform [offering](../o/offering.md) tools and data for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
-- [Two Sigma](https://www.twosigma.com/): A [hedge fund](../h/hedge_fund.md) that leverages [quantitative strategies](../q/quantitative_strategies_in_trading.md) and machine learning for investment decisions.
+- [Two Sigma](https://www.twosigma.com/): A [hedge fund](../h/hedge_fund.md) that leverages [quantitative strategies](../q/quantitative_strategies_in_trading.md) and [machine learning](../m/machine_learning.md) for investment decisions.
 - [Jane Street](https://www.janestreet.com/): Engages in [proprietary trading](../p/proprietary_trading.md), using [quantitative models](../q/quantitative_models.md) to make markets and manage risks.
 
 ## Conclusion
 
 Quantitative [market](../m/market.md) models are indispensable in modern [finance](../f/finance.md), driving innovations in [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and [financial analysis](../f/financial_analysis.md). Their ability to process vast amounts of data and extract meaningful insights positions them as essential tools for financial professionals and institutions.
 
-The continuous evolution of computational power and machine learning techniques promises to further enhance the capabilities of [quantitative models](../q/quantitative_models.md), [offering](../o/offering.md) new avenues for research and application in [financial markets](../f/financial_market.md). As these models become more sophisticated, they [hold](../h/hold.md) the potential to provide even deeper insights, enabling [market](../m/market.md) participants to navigate the complexities of global financial systems with greater precision and confidence.
+The continuous evolution of computational power and [machine learning](../m/machine_learning.md) techniques promises to further enhance the capabilities of [quantitative models](../q/quantitative_models.md), [offering](../o/offering.md) new avenues for research and application in [financial markets](../f/financial_market.md). As these models become more sophisticated, they [hold](../h/hold.md) the potential to provide even deeper insights, enabling [market](../m/market.md) participants to navigate the complexities of global financial systems with greater precision and confidence.

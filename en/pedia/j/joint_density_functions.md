@@ -78,7 +78,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), [joint](../j/joint.md) de
 
 3. **Statistical [Arbitrage](../a/arbitrage.md)**: [Joint](../j/joint.md) densities can be used to identify and exploit statistical relationships between different assets or financial instruments.
 
-4. **Machine Learning Models**: In [financial modeling](../f/financial_modeling.md), [joint](../j/joint.md) density estimation can improve the performance of models predicting [asset](../a/asset.md) prices by capturing dependencies between variables.
+4. **[Machine Learning](../m/machine_learning.md) Models**: In [financial modeling](../f/financial_modeling.md), [joint](../j/joint.md) density estimation can improve the performance of models predicting [asset](../a/asset.md) prices by capturing dependencies between variables.
 
 ### Example: Gaussian Copula
 

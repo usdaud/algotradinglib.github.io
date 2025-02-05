@@ -39,7 +39,7 @@ High-frequency [trading strategies](../t/trading_strategies.md) are commonly use
 This involves trading related equities with correlated price movements. Algorithms detect these correlations, [trade](../t/trade.md) accordingly, reducing [risk](../r/risk.md) in hydrocarbons trading.
 
 ### Predictive Modelling
-Machine learning models predict price changes by analyzing historical data, news, weather patterns, and other variables influencing hydrocarbon prices.
+[Machine learning](../m/machine_learning.md) models predict price changes by analyzing historical data, news, weather patterns, and other variables influencing hydrocarbon prices.
 
 ### Momentum Trading
 This strategy leverages price trends, buying rising commodities and selling them as [momentum](../m/momentum.md) decreases. Algorithms precisely time these [market](../m/market.md) entries and exits.
@@ -89,7 +89,7 @@ With increasing reliance on technology, cybersecurity threats are a concern. Pro
 ## Future Trends
 
 ### Machine Learning Advancements
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning continue to evolve, enabling more sophisticated and predictive [trading models](../t/trading_models.md) for hydrocarbons.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) continue to evolve, enabling more sophisticated and predictive [trading models](../t/trading_models.md) for hydrocarbons.
 
 ### Integration with IoT
 The Internet of Things (IoT) offers real-time data from numerous sensors and devices, enhancing the accuracy of algorithms analyzing operational parameters in the hydrocarbon [industry](../i/industry.md).

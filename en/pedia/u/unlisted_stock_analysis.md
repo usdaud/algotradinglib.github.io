@@ -54,7 +54,7 @@ Unlisted [stock analysis](../s/stock_analysis.md) refers to the detailed examina
 
 1. **[Financial Ratios](../f/financial_ratios.md)**: Calculating ratios like P/E ratio, [debt](../d/debt.md)-to-[equity](../e/equity.md) ratio, and [return](../r/return.md) on [equity](../e/equity.md) to assess [financial health](../f/financial_health.md).
 2. **Statistical Models**: Using models like [regression analysis](../r/regression_analysis.md) to identify relationships between variables.
-3. **Machine Learning**: Implementing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict stock performance based on historical data.
+3. **[Machine Learning](../m/machine_learning.md)**: Implementing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict stock performance based on historical data.
 
 ## Implementing Algotrading for Unlisted Stocks
 

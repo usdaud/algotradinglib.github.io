@@ -52,13 +52,13 @@ A general account, in the context of [financial markets](../f/financial_market.m
 
 ### Machine Learning and Artificial Intelligence
 
-1. **TensorFlow**: [Open](../o/open.md)-source platform TensorFlow [TensorFlow](https://www.tensorflow.org) is widely used for implementing machine learning models in [trading algorithms](../t/trading_algorithms.md). TensorFlow’s powerful compute capabilities enable the development and [optimization](../o/optimization.md) of complex [trading strategies](../t/trading_strategies.md).
+1. **[TensorFlow](../t/tensorflow.md)**: [Open](../o/open.md)-source platform [TensorFlow](../t/tensorflow.md) [TensorFlow](https://www.tensorflow.org) is widely used for implementing [machine learning](../m/machine_learning.md) models in [trading algorithms](../t/trading_algorithms.md). [TensorFlow](../t/tensorflow.md)’s powerful compute capabilities enable the development and [optimization](../o/optimization.md) of complex [trading strategies](../t/trading_strategies.md).
 
-2. **Keras**: Built on top of TensorFlow, Keras [Keras](https://keras.io) simplifies the development of [neural networks](../n/neural_networks_in_trading.md). It's popular for prototyping and developing [deep learning](../d/deep_learning.md) models that can predict [market](../m/market.md) trends and identify trading opportunities.
+2. **[Keras](../k/keras.md)**: Built on top of [TensorFlow](../t/tensorflow.md), [Keras](../k/keras.md) [Keras](https://keras.io) simplifies the development of [neural networks](../n/neural_networks_in_trading.md). It's popular for prototyping and developing [deep learning](../d/deep_learning.md) models that can predict [market](../m/market.md) trends and identify trading opportunities.
 
 ### Cloud Computing and Infrastructure
 
-1. **AWS**: Amazon Web Services (AWS) [AWS](https://aws.amazon.com) offers scalable [cloud computing](../c/cloud_computing_in_trading.md) services that are ideal for running computationally intensive [trading algorithms](../t/trading_algorithms.md). AWS provides tools such as EC2 for virtual servers, S3 for storage, and SageMaker for machine learning.
+1. **AWS**: Amazon Web Services (AWS) [AWS](https://aws.amazon.com) offers scalable [cloud computing](../c/cloud_computing_in_trading.md) services that are ideal for running computationally intensive [trading algorithms](../t/trading_algorithms.md). AWS provides tools such as EC2 for virtual servers, S3 for storage, and SageMaker for [machine learning](../m/machine_learning.md).
 
 2. **Google Cloud**: Google Cloud Platform (GCP) [Google Cloud](https://cloud.google.com) provides a [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) for algo trading. GCP’s BigQuery allows for large-scale data analysis, and its AI tools facilitate the development of advanced [trading models](../t/trading_models.md).
 

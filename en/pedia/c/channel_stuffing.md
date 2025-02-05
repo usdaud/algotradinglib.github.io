@@ -71,7 +71,7 @@ Modern technology offers several tools to detect and prevent channel stuffing:
 
 - **[Data Analytics](../d/data_analytics.md)**: Advanced [data analytics](../d/data_analytics.md) tools can help discern patterns and anomalies in sales and [distribution](../d/distribution.md) data, thereby providing early warnings of potential channel stuffing.
 - **[Blockchain](../b/blockchain_in_trading.md)**: Integrating [blockchain](../b/blockchain_in_trading.md) technology in [supply chain](../s/supply_chain.md) and [inventory management](../i/inventory_management.md) systems can [offer](../o/offer.md) unprecedented [transparency](../t/transparency.md) and traceability, making it harder to engage in deceptive practices without detection.
-- **AI and Machine Learning**: [Artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can forecast [demand](../d/demand.md) more accurately and identify discrepancies in sales and [inventory](../i/inventory.md) levels.
+- **AI and [Machine Learning](../m/machine_learning.md)**: [Artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can forecast [demand](../d/demand.md) more accurately and identify discrepancies in sales and [inventory](../i/inventory.md) levels.
 
 ## Conclusion
 

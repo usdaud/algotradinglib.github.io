@@ -54,10 +54,10 @@ MACD is used to identify changes in the strength, direction, [momentum](../m/mom
 ## Machine Learning and 5-Minute Charts
 
 ### Data Features
-Machine learning models can be trained using the features extracted from 5-minute charts, such as price opens, highs, lows, closes, volumes, and derived indicators (RSI, MACD, etc.). These features can help in predicting future price movements or classifying [market](../m/market.md) regimes.
+[Machine learning](../m/machine_learning.md) models can be trained using the features extracted from 5-minute charts, such as price opens, highs, lows, closes, volumes, and derived indicators (RSI, MACD, etc.). These features can help in predicting future price movements or classifying [market](../m/market.md) regimes.
 
 ### Model Training
-5-minute charts provide a rich dataset for training machine learning models. Given the high frequency of data points, models can be trained more efficiently and can capture [intraday trading](../i/intraday_trading.md) nuances better than daily or hourly charts.
+5-minute charts provide a rich dataset for training [machine learning](../m/machine_learning.md) models. Given the high frequency of data points, models can be trained more efficiently and can capture [intraday trading](../i/intraday_trading.md) nuances better than daily or hourly charts.
 
 ### Real-Time Prediction
 Models can be deployed to make real-time predictions based on the latest 5-minute chart data. Such predictions can be integrated into [trading algorithms](../t/trading_algorithms.md) to improve decision-making and [execution](../e/execution.md) [efficiency](../e/efficiency.md).

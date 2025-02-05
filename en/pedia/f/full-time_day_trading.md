@@ -73,10 +73,10 @@ HFT involves making tens of thousands of trades within seconds, leveraging high-
 
 ### Data Analytics and AI
 
-Analyzing vast sets of [market](../m/market.md) data in real-time for patterns and opportunities is a complex yet vital aspect of [day trading](../d/day_trading.md). AI and machine learning [offer](../o/offer.md) advanced [predictive analytics](../p/predictive_analytics.md) capabilities.
+Analyzing vast sets of [market](../m/market.md) data in real-time for patterns and opportunities is a complex yet vital aspect of [day trading](../d/day_trading.md). AI and [machine learning](../m/machine_learning.md) [offer](../o/offer.md) advanced [predictive analytics](../p/predictive_analytics.md) capabilities.
 
 **Popular Data Analysis Tools:**
-- **Python Libraries:** Like Pandas, NumPy, and TensorFlow for advanced analysis and AI model development.
+- **Python Libraries:** Like Pandas, NumPy, and [TensorFlow](../t/tensorflow.md) for advanced analysis and AI model development.
 - **R Shiny:** For interactive web applications focused on [real-time data analysis](../r/real-time_data_analysis.md).
 
 ## Psychological and Behavioral Aspects

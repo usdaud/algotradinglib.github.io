@@ -44,7 +44,7 @@ Before diving deeper into the strategy, it's essential to understand why dips oc
 ### Practical Applications and Considerations
 
 1. **High-Frequency Trading (HFT)**: Implementing dip-buying strategies in HFT can exploit brief price dips within milliseconds, profiting from slight rebounds.
-2. **Machine Learning**: Utilizing machine learning to enhance signal generation by identifying complex patterns and correlations that traditional methods might miss.
+2. **[Machine Learning](../m/machine_learning.md)**: Utilizing [machine learning](../m/machine_learning.md) to enhance signal generation by identifying complex patterns and correlations that traditional methods might miss.
 3. **[Market](../m/market.md) Context**: Considering broader [market](../m/market.md) conditions, as buying the dips in a bearish [market](../m/market.md) or during a [financial crisis](../f/financial_crisis.md) might lead to significant losses.
 4. **[Performance Metrics](../p/performance_metrics.md)**: Continuously monitoring strategy performance through metrics like [Sharpe ratio](../s/sharpe_ratio.md), [drawdown](../d/drawdown.md), and [profit factor](../p/profit_factor.md) to ensure efficacy.
 

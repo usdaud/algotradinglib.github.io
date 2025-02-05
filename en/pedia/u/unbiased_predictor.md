@@ -56,7 +56,7 @@ Algo-[trading models](../t/trading_models.md) employ historical data to calibrat
 
 ### Machine Learning Integration
 
-Machine learning models thrive on data quality. Using unbiased predictors for feature selection and data preprocessing ensures models are trained on representative data, leading to better generalization and robustness in unseen datasets.
+[Machine learning](../m/machine_learning.md) models thrive on data quality. Using unbiased predictors for feature selection and data preprocessing ensures models are trained on representative data, leading to better generalization and robustness in unseen datasets.
 
 ### Real-Time Trading
 
@@ -78,7 +78,7 @@ Despite their advantages, unbiased predictors are not without challenges:
 
 ### Advanced Machine Learning Techniques
 
-Advancements in machine learning, particularly [deep learning](../d/deep_learning.md) and reinforcement learning, are being explored to mitigate biases in [predictive modeling](../p/predictive_modeling.md). Techniques such as bias [correction](../c/correction.md) algorithms and adversarial training are showing promise.
+Advancements in [machine learning](../m/machine_learning.md), particularly [deep learning](../d/deep_learning.md) and [reinforcement learning](../r/reinforcement_learning.md), are being explored to mitigate biases in [predictive modeling](../p/predictive_modeling.md). Techniques such as bias [correction](../c/correction.md) algorithms and adversarial training are showing promise.
 
 ### Quantum Computing
 

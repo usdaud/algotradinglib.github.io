@@ -27,7 +27,7 @@ The first step involves collecting relevant trading data including price, [volum
 
 #### 3.2 Model Development
 
-Develop a trading model based on the collected data. This could be a statistical model like [linear regression](../l/linear_regression.md) or machine learning models such as [neural networks](../n/neural_networks_in_trading.md). The chosen model makes predictions based on historical data.
+Develop a trading model based on the collected data. This could be a statistical model like [linear regression](../l/linear_regression.md) or [machine learning](../m/machine_learning.md) models such as [neural networks](../n/neural_networks_in_trading.md). The chosen model makes predictions based on historical data.
 
 #### 3.3 Residual Calculation
 
@@ -105,7 +105,7 @@ Complex models can sometimes overly complicate residual analysis. Striking a bal
 
 ### 9. Future Directions
 
-The future of residual analysis in trading [will](../w/will.md) see advancements in AI and machine learning, enabling more sophisticated and accurate modeling. Real-time residual analysis [will](../w/will.md) become more prevalent, [offering](../o/offering.md) traders immediate insights into model performance.
+The future of residual analysis in trading [will](../w/will.md) see advancements in AI and [machine learning](../m/machine_learning.md), enabling more sophisticated and accurate modeling. Real-time residual analysis [will](../w/will.md) become more prevalent, [offering](../o/offering.md) traders immediate insights into model performance.
 
 ### Conclusion
 

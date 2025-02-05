@@ -49,7 +49,7 @@ Algorithmic trading, also known as "algo trading" or "black-box trading," refers
    - Involves executing a large number of orders at very high speeds. It aims to capture small price discrepancies that exist for mere fractions of a second.
 
 7. **[Sentiment Analysis](../s/sentiment_analysis.md)**
-   - Uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and machine learning to analyze [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and other textual data.
+   - Uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and [machine learning](../m/machine_learning.md) to analyze [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and other textual data.
 
 ### Prominent Companies in Algorithmic Trading
 
@@ -59,7 +59,7 @@ Algorithmic trading, also known as "algo trading" or "black-box trading," refers
 
 2. **Two Sigma**
    - Website: [Two Sigma](https://www.twosigma.com/)
-   - Overview: A [hedge fund](../h/hedge_fund.md) that uses advanced [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md). Two Sigma focuses on exploiting [market](../m/market.md) inefficiencies through [quantitative analysis](../q/quantitative_analysis.md) and machine learning.
+   - Overview: A [hedge fund](../h/hedge_fund.md) that uses advanced [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md). Two Sigma focuses on exploiting [market](../m/market.md) inefficiencies through [quantitative analysis](../q/quantitative_analysis.md) and [machine learning](../m/machine_learning.md).
 
 3. **Renaissance Technologies**
    - Website: [Renaissance Technologies](https://www.rentec.com/)
@@ -110,8 +110,8 @@ Algorithmic trading, also known as "algo trading" or "black-box trading," refers
 
 ### Future Trends in Algorithmic Trading
 
-1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**
-   - Increasing use of AI and machine learning techniques to develop more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md).
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**
+   - Increasing use of AI and [machine learning](../m/machine_learning.md) techniques to develop more sophisticated and adaptive [trading algorithms](../t/trading_algorithms.md).
 
 2. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies**
    - Growth of algorithmic trading in the cryptocurrency [market](../m/market.md), leveraging [blockchain](../b/blockchain_in_trading.md) technology for [transparency](../t/transparency.md) and [security](../s/security.md).

@@ -35,7 +35,7 @@ Contrary to the [mean reversion](../m/mean_reversion.md) strategy, a [momentum](
 
 ### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning to analyze news, [social media](../s/social_media.md), and other sources to gauge [investor](../i/investor.md) sentiment.
+[Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md) to analyze news, [social media](../s/social_media.md), and other sources to gauge [investor](../i/investor.md) sentiment.
 
 #### Implementation
 1. **Text [Mining](../m/mining.md):** Extract relevant financial news and [social media](../s/social_media.md) posts.
@@ -53,7 +53,7 @@ Renowned for its Medallion [Fund](../f/fund.md), Renaissance Technologies has ac
 [Link to Renaissance Technologies](https://www.rentec.com/)
 
 #### Two Sigma
-Two Sigma uses machine learning, distributed computing, and vast datasets to understand the workings of global [financial markets](../f/financial_market.md) and develop profitable [trading strategies](../t/trading_strategies.md).
+Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and vast datasets to understand the workings of global [financial markets](../f/financial_market.md) and develop profitable [trading strategies](../t/trading_strategies.md).
 [Link to Two Sigma](https://www.twosigma.com/)
 
 ### Market-Making Firms
@@ -74,7 +74,7 @@ Academic research continues to explore the implications and applications of the 
 
 ## Conclusion
 
-The [Overreaction](../o/overreaction.md) Hypothesis plays a pivotal role in understanding [market dynamics](../m/market_dynamics.md) and developing profitable [algorithmic trading](../a/algorithmic_trading.md) strategies. It challenges the notion of [market efficiency](../m/market_efficiency.md) and highlights the impact of [investor](../i/investor.md) psychology on [asset](../a/asset.md) prices. By leveraging statistical methods, machine learning, and [sentiment analysis](../s/sentiment_analysis.md), traders can develop [robust](../r/robust.md) algorithms to exploit these [behavioral biases](../b/behavioral_biases_in_trading.md) and achieve superior returns.
+The [Overreaction](../o/overreaction.md) Hypothesis plays a pivotal role in understanding [market dynamics](../m/market_dynamics.md) and developing profitable [algorithmic trading](../a/algorithmic_trading.md) strategies. It challenges the notion of [market efficiency](../m/market_efficiency.md) and highlights the impact of [investor](../i/investor.md) psychology on [asset](../a/asset.md) prices. By leveraging statistical methods, [machine learning](../m/machine_learning.md), and [sentiment analysis](../s/sentiment_analysis.md), traders can develop [robust](../r/robust.md) algorithms to exploit these [behavioral biases](../b/behavioral_biases_in_trading.md) and achieve superior returns.
 
 ### Final Thoughts
 

@@ -45,7 +45,7 @@ Several companies and financial institutions have developed proprietary K-[Facto
 
 - **[Numerai](https://numer.ai/)**: A [hedge fund](../h/hedge_fund.md) using [data science](../d/data_science_in_trading.md) competitions to crowdsource and refine [predictive models](../p/predictive_models_in_trading.md), incorporating various K-factors.
 - **[Quantopian](https://www.quantopian.com/)**: A platform providing tools for [quantitative trading](../q/quantitative_trading.md) and fostering an online community where traders share and enhance algorithmic models.
-- **[Two Sigma](https://www.twosigma.com/)**: Employs vast amounts of data and sophisticated machine learning techniques to develop and deploy [trading algorithms](../t/trading_algorithms.md).
+- **[Two Sigma](https://www.twosigma.com/)**: Employs vast amounts of data and sophisticated [machine learning](../m/machine_learning.md) techniques to develop and deploy [trading algorithms](../t/trading_algorithms.md).
 
 ### Challenges and Limitations
 
@@ -61,4 +61,4 @@ Several companies and financial institutions have developed proprietary K-[Facto
 
 ### Conclusion
 
-K-[Factor models](../f/factor_models.md) represent a powerful tool in the algorithmic [trader](../t/trader.md)’s arsenal, enabling them to integrate various [market](../m/market.md) factors into a cohesive, predictive framework. While challenges exist, the ongoing advancements in [data science](../d/data_science_in_trading.md), machine learning, and computational power [hold](../h/hold.md) promise for these models to continually evolve, [offering](../o/offering.md) significant potential for more informed and dynamic [trading strategies](../t/trading_strategies.md).
+K-[Factor models](../f/factor_models.md) represent a powerful tool in the algorithmic [trader](../t/trader.md)’s arsenal, enabling them to integrate various [market](../m/market.md) factors into a cohesive, predictive framework. While challenges exist, the ongoing advancements in [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and computational power [hold](../h/hold.md) promise for these models to continually evolve, [offering](../o/offering.md) significant potential for more informed and dynamic [trading strategies](../t/trading_strategies.md).

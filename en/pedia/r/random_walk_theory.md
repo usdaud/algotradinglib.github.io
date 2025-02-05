@@ -69,7 +69,7 @@ Critics argue that the Random Walk Theory oversimplifies real-world [market dyna
 [Behavioral finance](../b/behavioral_finance.md) studies reveal that [investor](../i/investor.md) psychology and [behavioral biases](../b/behavioral_biases_in_trading.md) often lead to predictable patterns in stock prices, challenging the notion of randomness posited by the Random Walk Theory.
 
 ### Advances in Data Analytics
-With the advent of [big data](../b/big_data_in_trading.md), machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md), some researchers and traders are exploring ways to detect subtle patterns or signals in stock price data that may not be evident through traditional analytical methods. These advances may [offer](../o/offer.md) some counterpoints to the random walk perspective.
+With the advent of [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md), some researchers and traders are exploring ways to detect subtle patterns or signals in stock price data that may not be evident through traditional analytical methods. These advances may [offer](../o/offer.md) some counterpoints to the random walk perspective.
 
 ## Conclusion
 

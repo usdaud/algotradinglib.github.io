@@ -63,6 +63,6 @@ Continuous research and development are crucial for advancing EOR technologies a
 - **Biotechnology**: Using microbes and other biological agents to convert heavy oils into lighter, more easily recoverable types.
 - **Smart Water Flooding**: Tailoring the ionic composition of injection water to improve oil mobilization and recovery.
 - **Carbon Sequestration**: Combining CO2 EOR with carbon sequestration to simultaneously enhance oil recovery and reduce greenhouse gas emissions.
-- **Digital and AI Applications**: Utilizing [big data](../b/big_data_in_trading.md), machine learning, and AI to optimize EOR processes and improve reservoir management.
+- **Digital and AI Applications**: Utilizing [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and AI to optimize EOR processes and improve reservoir management.
 
 The future of EOR looks promising with the advent of new technologies and the growing need for sustainable and efficient oil recovery methods.

@@ -52,7 +52,7 @@
 
 ## 5. Quantitative Investing
 
-[Quantitative investing](../q/quantitative_investing.md) leverages [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify investment opportunities. Strategies [range](../r/range.md) from simple moving averages to complex machine learning models.
+[Quantitative investing](../q/quantitative_investing.md) leverages [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify investment opportunities. Strategies [range](../r/range.md) from simple moving averages to complex [machine learning](../m/machine_learning.md) models.
 
 - **Key Indicators**: Various depending on the model used.
 - **Notable Practitioners**: Jim Simons, Renaissance Technologies.
@@ -60,7 +60,7 @@
 
 ### Tools and Techniques
 - **[Algorithmic Trading](../a/algorithmic_trading.md)**: Uses computer algorithms for [execution](../e/execution.md).
-- **Machine Learning Models**: Employs sophisticated [data science](../d/data_science_in_trading.md) techniques for [predictive analytics](../p/predictive_analytics.md).
+- **[Machine Learning](../m/machine_learning.md) Models**: Employs sophisticated [data science](../d/data_science_in_trading.md) techniques for [predictive analytics](../p/predictive_analytics.md).
 
 ## 6. Index Investing
 

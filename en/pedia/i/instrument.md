@@ -55,7 +55,7 @@ Accurate and timely data feed is crucial for [algorithmic trading](../a/accounta
 ## 1. **Two Sigma**
 
 ### Description:
-Two Sigma leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and distributed computing for [investment management](../i/investment_management.md).
+Two Sigma leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing for [investment management](../i/investment_management.md).
 
 ### Link:
 [Two Sigma](https://www.twosigma.com/)
@@ -151,10 +151,10 @@ Statistical analysis tools help in analyzing data and developing [predictive mod
 ## 3. **Machine Learning Libraries**
 
 ### Description:
-Machine learning libraries facilitate the implementation of complex algorithms and [predictive models](../p/predictive_models_in_trading.md).
+[Machine learning](../m/machine_learning.md) libraries facilitate the implementation of complex algorithms and [predictive models](../p/predictive_models_in_trading.md).
 
 ### Libraries:
-- **TensorFlow:** An [open](../o/open.md)-source library for machine learning.
+- **[TensorFlow](../t/tensorflow.md):** An [open](../o/open.md)-source library for [machine learning](../m/machine_learning.md).
 - **Scikit-learn:** Provides simple and efficient tools for [data mining](../d/data_mining.md) and analysis.
 
 # Ethical and Regulatory Considerations

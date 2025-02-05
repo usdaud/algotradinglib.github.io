@@ -45,9 +45,9 @@ Key programming languages and libraries used in [algorithmic trading](../a/algor
 
 #### 2. Machine Learning and AI
 Machine [learning algorithms](../l/learning_algorithms_in_trading.md) enhance predictive accuracy by analyzing large datasets and identifying patterns. Techniques used include:
-- **Supervised Learning**: Training models on labeled historical data to make predictions.
-- **Unsupervised Learning**: Clustering and [pattern recognition](../p/pattern_recognition.md) without predefined labels.
-- **Reinforcement Learning**: Teaching models to make trading decisions by rewarding successful outcomes.
+- **[Supervised Learning](../s/supervised_learning.md)**: Training models on labeled historical data to make predictions.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Clustering and [pattern recognition](../p/pattern_recognition.md) without predefined labels.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Teaching models to make trading decisions by rewarding successful outcomes.
 
 #### 3. High-Performance Computing (HPC)
 HPC enables the processing of vast amounts of data at high speeds. Components include:
@@ -67,7 +67,7 @@ Hudson River Trading is renowned for its expertise in high-frequency trading and
 [Website](https://www.hudsonrivertrading.com/)
 
 #### 2. Two Sigma
-Two Sigma uses [big data](../b/big_data_in_trading.md) and machine learning to create [alpha](../a/alpha.md)-generating strategies. They emphasize a scientific approach to [investment management](../i/investment_management.md).
+Two Sigma uses [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) to create [alpha](../a/alpha.md)-generating strategies. They emphasize a scientific approach to [investment management](../i/investment_management.md).
 [Website](https://www.twosigma.com/)
 
 #### 3. Goldman Sachs
@@ -83,6 +83,6 @@ Goldman Sachs employs sophisticated [algorithmic trading](../a/algorithmic_tradi
 [Website](https://alpaca.markets/)
 
 ### Conclusion
-X-Systems in [algorithmic trading](../a/algorithmic_trading.md) represent a complex network of technologies, methods, and [infrastructure](../i/infrastructure.md) designed to optimize [trading performance](../t/trading_performance.md). From strategy development and data collection to [risk management](../r/risk_management.md) and [execution](../e/execution.md), each component plays a vital role. The integration of advanced technologies like machine learning, HPC, and [robust](../r/robust.md) APIs has propelled the effectiveness of these systems, making them indispensable in modern trading.
+X-Systems in [algorithmic trading](../a/algorithmic_trading.md) represent a complex network of technologies, methods, and [infrastructure](../i/infrastructure.md) designed to optimize [trading performance](../t/trading_performance.md). From strategy development and data collection to [risk management](../r/risk_management.md) and [execution](../e/execution.md), each component plays a vital role. The integration of advanced technologies like [machine learning](../m/machine_learning.md), HPC, and [robust](../r/robust.md) APIs has propelled the effectiveness of these systems, making them indispensable in modern trading.
 
 Companies specializing in X-Systems development continue to push the boundaries, leveraging cutting-edge technology to stay ahead in the competitive world of [algorithmic trading](../a/algorithmic_trading.md). As [financial markets](../f/financial_market.md) evolve, so [will](../w/will.md) the sophistication and capabilities of X-Systems, ensuring they remain a cornerstone of the trading landscape.

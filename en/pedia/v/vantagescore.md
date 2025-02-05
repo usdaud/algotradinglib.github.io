@@ -16,8 +16,8 @@ The VantageScore model uses a complex algorithm that accounts for various factor
 2. **Data Utilization**:
    - VantageScore employs data from the consumer's [credit report](../c/credit_report.md), including accounts, balances, [payment](../p/payment.md) histories, and [credit](../c/credit.md) inquiries. Importantly, it can generate scores with just one month of [credit](../c/credit.md) history and for as little as one account. This approach aims to include more people, especially those who are not traditionally covered by other [credit](../c/credit.md) scoring models.
 
-3. **Machine Learning and Advanced Analytics**:
-   - Recent versions of VantageScore incorporate machine learning and advanced analytics to improve the accuracy and predictiveness of the scores. These technologies help identify patterns and correlations in the data that may not be obvious through traditional statistical methods.
+3. **[Machine Learning](../m/machine_learning.md) and Advanced Analytics**:
+   - Recent versions of VantageScore incorporate [machine learning](../m/machine_learning.md) and advanced analytics to improve the accuracy and predictiveness of the scores. These technologies help identify patterns and correlations in the data that may not be obvious through traditional statistical methods.
 
 4. **Consistency Across [Credit](../c/credit.md) Bureaus**:
    - One of the significant benefits of VantageScore is its consistency. Because it was developed collaboratively by all three major [credit](../c/credit.md) bureaus, the scoring model is designed to deliver similar results regardless of which bureau's data is used.
@@ -60,7 +60,7 @@ While VantageScore and [FICO Score](../f/fico_score.md) are both widely used [cr
    - VantageScore can generate a score with as little as one month of [credit](../c/credit.md) history and one account. FICO, on the other hand, typically requires at least six months of [credit](../c/credit.md) history and at least one account reported in the last six months.
 
 3. **Data Utilization**:
-   - VantageScore often utilizes machine learning techniques and can differentiate trends in consumer behavior more granularly, while FICO relies on tried-and-tested statistical models.
+   - VantageScore often utilizes [machine learning](../m/machine_learning.md) techniques and can differentiate trends in consumer behavior more granularly, while FICO relies on tried-and-tested statistical models.
 
 4. **Consistency Across [Credit](../c/credit.md) Bureaus**:
    - VantageScore aims for consistency across all three bureaus by using uniform algorithms and data treatment. FICO models can vary slightly depending on the bureau's data and version of the [FICO score](../f/fico_score.md) used.
@@ -70,6 +70,6 @@ While VantageScore and [FICO Score](../f/fico_score.md) are both widely used [cr
 
 ## Conclusion
 
-VantageScore is a [robust](../r/robust.md) and reliable [credit](../c/credit.md) scoring model [offering](../o/offering.md) several benefits over traditional models, including broader consumer inclusion and greater consistency across [credit](../c/credit.md) bureaus. With advancements in machine learning and regular updates, VantageScore continues to serve as a critical tool for evaluating [consumer credit](../c/consumer_credit.md) [risk](../r/risk.md) in an evolving financial landscape.
+VantageScore is a [robust](../r/robust.md) and reliable [credit](../c/credit.md) scoring model [offering](../o/offering.md) several benefits over traditional models, including broader consumer inclusion and greater consistency across [credit](../c/credit.md) bureaus. With advancements in [machine learning](../m/machine_learning.md) and regular updates, VantageScore continues to serve as a critical tool for evaluating [consumer credit](../c/consumer_credit.md) [risk](../r/risk.md) in an evolving financial landscape.
 
 For more information, you can visit the official VantageScore website: [VantageScore](https://vantagescore.com)

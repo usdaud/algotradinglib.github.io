@@ -49,9 +49,9 @@ Different methods are used in signal detection, and these [range](../r/range.md)
 
 Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being applied to detect [trading signals](../t/trading_signals.md). Some of the methods include:
 
-- **Supervised Learning**: Techniques like regression, [logistic regression](../l/logistic_regression_in_trading.md), and classification trees are used to predict price movements.
-- **Unsupervised Learning**: [Clustering algorithms](../c/clustering_algorithms.md) help in identifying hidden patterns.
-- **Reinforcement Learning**: Used for developing strategies that adapt and improve over time.
+- **[Supervised Learning](../s/supervised_learning.md)**: Techniques like regression, [logistic regression](../l/logistic_regression_in_trading.md), and classification trees are used to predict price movements.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: [Clustering algorithms](../c/clustering_algorithms.md) help in identifying hidden patterns.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Used for developing strategies that adapt and improve over time.
 
 ### Statistical Methods
 
@@ -99,7 +99,7 @@ Renaissance Technologies, led by Jim Simons, is known for its Medallion [Fund](.
 
 ### 2. **Two Sigma**
 
-Two Sigma uses machine learning and distributed computing to identify signals. The company has been successful in uncovering inefficiencies in [financial markets](../f/financial_market.md) for profitable trades. [Two Sigma](https://www.twosigma.com/)
+Two Sigma uses [machine learning](../m/machine_learning.md) and distributed computing to identify signals. The company has been successful in uncovering inefficiencies in [financial markets](../f/financial_market.md) for profitable trades. [Two Sigma](https://www.twosigma.com/)
 
 ### 3. **AQR Capital Management**
 
@@ -127,5 +127,5 @@ Regulatory constraints can impact the effectiveness of certain [trading strategi
 
 ## Conclusion
 
-Signal detection is an integral part of [algorithmic trading](../a/algorithmic_trading.md), combining elements of [data science](../d/data_science_in_trading.md), statistical analysis, and machine learning. While it offers the potential for significant returns, the complexity and challenges involved require [robust](../r/robust.md) strategies, continuous monitoring, and ongoing [optimization](../o/optimization.md).
+Signal detection is an integral part of [algorithmic trading](../a/algorithmic_trading.md), combining elements of [data science](../d/data_science_in_trading.md), statistical analysis, and [machine learning](../m/machine_learning.md). While it offers the potential for significant returns, the complexity and challenges involved require [robust](../r/robust.md) strategies, continuous monitoring, and ongoing [optimization](../o/optimization.md).
 

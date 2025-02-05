@@ -42,7 +42,7 @@
 1. **[Factor Models](../f/factor_models.md)**:
    [Factor models](../f/factor_models.md) decompose [yield](../y/yield.md) behavior into various [risk factors](../r/risk_factors_in_trading.md), such as level, slope, and curvature. The most common model is the Nelson-Siegel model, widely used for fitting the [yield curve](../y/yield_curve.md).
 
-2. **Machine Learning**:
+2. **[Machine Learning](../m/machine_learning.md)**:
    Machine [learning algorithms](../l/learning_algorithms_in_trading.md), including regression models, [neural networks](../n/neural_networks_in_trading.md), and ensemble methods, are increasingly applied to predict [yield](../y/yield.md) movements based on vast datasets incorporating [economic indicators](../e/economic_indicators.md), [market](../m/market.md) sentiments, historical yields, and real-time data.
 
 3. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**:
@@ -54,7 +54,7 @@
 ### Notable Companies in Algorithmic Trading and Yield Analysis
 
 1. **Two Sigma**:
-   [Two Sigma](https://www.twosigma.com/) is known for its heavy reliance on [data science](../d/data_science_in_trading.md), machine learning, and distributed computing for developing sophisticated [trading strategies](../t/trading_strategies.md), including those based on [yield analysis](../y/yield_analysis.md).
+   [Two Sigma](https://www.twosigma.com/) is known for its heavy reliance on [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing for developing sophisticated [trading strategies](../t/trading_strategies.md), including those based on [yield analysis](../y/yield_analysis.md).
 
 2. **Citadel**:
    [Citadel](https://www.citadel.com/) is a global financial institution that employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) to [trade](../t/trade.md) across various [asset](../a/asset.md) classes, using advanced technologies to analyze and respond to [yield](../y/yield.md) behaviors.
@@ -70,5 +70,5 @@
 
 ### Conclusion
 
-Understanding and predicting [yield](../y/yield.md) behavior is critical for successful [algorithmic trading](../a/algorithmic_trading.md), especially in fixed-[income](../i/income.md) markets. The sophisticated use of statistical models, machine learning, [big data analytics](../b/big_data_analytics_in_trading.md), and high-frequency trading technologies allows traders and institutions to [gain](../g/gain.md) a competitive edge. By continuously analyzing various factors that influence yields, traders can develop and refine strategies that adapt to dynamic [market](../m/market.md) conditions, thus optimizing their investment returns.
+Understanding and predicting [yield](../y/yield.md) behavior is critical for successful [algorithmic trading](../a/algorithmic_trading.md), especially in fixed-[income](../i/income.md) markets. The sophisticated use of statistical models, [machine learning](../m/machine_learning.md), [big data analytics](../b/big_data_analytics_in_trading.md), and high-frequency trading technologies allows traders and institutions to [gain](../g/gain.md) a competitive edge. By continuously analyzing various factors that influence yields, traders can develop and refine strategies that adapt to dynamic [market](../m/market.md) conditions, thus optimizing their investment returns.
 

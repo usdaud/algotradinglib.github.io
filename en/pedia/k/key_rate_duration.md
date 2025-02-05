@@ -69,13 +69,13 @@ Several challenges are inherent in the application of KRD in algo-trading:
 ### Advanced Techniques
 
 To address the challenges, various advanced techniques have been developed:
-1. **Machine Learning**: Algorithms can be designed to predict [key rate](../k/key_rate.md) movements using historical data and machine learning techniques.
+1. **[Machine Learning](../m/machine_learning.md)**: Algorithms can be designed to predict [key rate](../k/key_rate.md) movements using historical data and [machine learning](../m/machine_learning.md) techniques.
 2. **Real-Time Adjustments**: Implementing real-time analytics allows for dynamic adjustments to the portfolio based on real-time [yield curve](../y/yield_curve.md) data.
 3. **[Scenario Analysis](../s/scenario_analysis.md)**: Running [multiple](../m/multiple.md) [yield curve](../y/yield_curve.md) scenarios helps in understanding the potential impacts on the portfolio, allowing algorithms to be preemptively tuned to anticipated changes.
 
 ### Conclusion
 
-[Key Rate](../k/key_rate.md) [Duration](../d/duration.md) is a potent tool in the arsenal of algorithmic traders, providing a nuanced understanding of [interest rate](../i/interest_rate.md) risks across different key maturities. By isolating specific points along the [yield curve](../y/yield_curve.md), KRD enables more precise portfolio adjustments and [hedging strategies](../h/hedging_strategies.md). As the landscape of algo-trading continues to evolve, the integration of KRD with advanced analytics and machine learning techniques [will](../w/will.md) likely become even more sophisticated, enhancing the ability to navigate complex [bond](../b/bond.md) markets effectively.
+[Key Rate](../k/key_rate.md) [Duration](../d/duration.md) is a potent tool in the arsenal of algorithmic traders, providing a nuanced understanding of [interest rate](../i/interest_rate.md) risks across different key maturities. By isolating specific points along the [yield curve](../y/yield_curve.md), KRD enables more precise portfolio adjustments and [hedging strategies](../h/hedging_strategies.md). As the landscape of algo-trading continues to evolve, the integration of KRD with advanced analytics and [machine learning](../m/machine_learning.md) techniques [will](../w/will.md) likely become even more sophisticated, enhancing the ability to navigate complex [bond](../b/bond.md) markets effectively.
 
 Further Reading:
 - [Jane Street](https://www.janestreet.com/)

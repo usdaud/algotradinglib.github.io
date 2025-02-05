@@ -23,7 +23,7 @@
 
    Examples:
    - **[Factor Models](../f/factor_models.md)**: These models use [multiple](../m/multiple.md) factors (e.g., [market risk](../m/market_risk.md), size, [value](../v/value.md)) to explain returns. The Fama-French model is a well-known multi-[factor](../f/factor.md) approach.
-   - **Machine Learning Models**: [Leverage](../l/leverage.md) algorithms from machine learning, such as [neural networks](../n/neural_networks_in_trading.md) or [random forests](../r/random_forests_in_trading.md), to predict yields based on extensive datasets.
+   - **[Machine Learning](../m/machine_learning.md) Models**: [Leverage](../l/leverage.md) algorithms from [machine learning](../m/machine_learning.md), such as [neural networks](../n/neural_networks_in_trading.md) or [random forests](../r/random_forests_in_trading.md), to predict yields based on extensive datasets.
 
 4. **Hybrid Models**:
    Hybrid models integrate elements from fundamental, technical, and [quantitative approaches](../q/quantitative_approaches.md) to create [robust](../r/robust.md) [yield](../y/yield.md) prediction models. Combining [multiple](../m/multiple.md) methodologies often results in more accurate and reliable predictions.

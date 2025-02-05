@@ -61,7 +61,7 @@ Techniques like [mean-variance optimization](../m/mean-variance_optimization.md)
 
 ### Machine Learning
 
-Machine learning models can also be adapted for low-frequency data, including both supervised methods (e.g., regression, classification) and unsupervised methods (e.g., clustering, [dimensionality reduction](../d/dimensionality_reduction_in_trading.md)).
+[Machine learning](../m/machine_learning.md) models can also be adapted for low-frequency data, including both supervised methods (e.g., regression, classification) and unsupervised methods (e.g., clustering, [dimensionality reduction](../d/dimensionality_reduction_in_trading.md)).
 
 ## Risk Management
 

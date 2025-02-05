@@ -14,7 +14,7 @@ Predictive models in trading are statistical techniques employed to forecast fut
         - **ARIMA (AutoRegressive Integrated Moving Average)**: Combines autoregressive, differencing, and moving average components.
         - **GARCH (Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md))**: Models [volatility clustering](../v/volatility_clustering.md) in [time series](../t/time_series.md) data.
 
-3. **Machine Learning Models**:
+3. **[Machine Learning](../m/machine_learning.md) Models**:
     - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Used for classification and regression tasks. SVMs can capture non-linear relationships in data by transforming it using a kernel function.
     - **[Random Forests](../r/random_forests_in_trading.md)**: An [ensemble learning](../e/ensemble_learning.md) method that constructs [multiple](../m/multiple.md) [decision trees](../d/decision_trees.md) to improve prediction accuracy and control [overfitting](../o/overfitting.md).
     - **[Neural Networks](../n/neural_networks_in_trading.md)**: Especially [deep learning](../d/deep_learning.md) models like recurrent [neural networks](../n/neural_networks_in_trading.md) (RNN) and long short-term memory networks (LSTM) are highly effective in capturing complex patterns and dependencies in sequential data.
@@ -49,15 +49,15 @@ To implement predictive models in trading, several steps must be followed:
 ### Real-World Examples
 
 1. **Numerai**:
-    - Numerai is a [hedge fund](../h/hedge_fund.md) that leverages machine learning models built by a global network of data scientists. By crowdsourcing predictive models, Numerai aims to achieve superior [trading performance](../t/trading_performance.md).
+    - Numerai is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) models built by a global network of data scientists. By crowdsourcing predictive models, Numerai aims to achieve superior [trading performance](../t/trading_performance.md).
     - [Numerai Website](https://numer.ai/)
 
 2. **Kensho Technologies**:
-    - Acquired by S&P Global, Kensho uses AI and machine learning to build predictive models that analyze massive amounts of financial data.
+    - Acquired by S&P Global, Kensho uses AI and [machine learning](../m/machine_learning.md) to build predictive models that analyze massive amounts of financial data.
     - [Kensho Technologies Website](https://www.kensho.com/)
 
 3. **Two Sigma**:
-    - A quantitative [hedge fund](../h/hedge_fund.md) that heavily relies on predictive models and machine learning to drive its [trading strategies](../t/trading_strategies.md). Two Sigma uses data from diverse sources, including weather and satellite images, to enhance its predictions.
+    - A quantitative [hedge fund](../h/hedge_fund.md) that heavily relies on predictive models and [machine learning](../m/machine_learning.md) to drive its [trading strategies](../t/trading_strategies.md). Two Sigma uses data from diverse sources, including weather and satellite images, to enhance its predictions.
     - [Two Sigma Website](https://www.twosigma.com/)
 
 4. **Sentifi**:
@@ -83,13 +83,13 @@ To implement predictive models in trading, several steps must be followed:
 1. **Integration of [Alternative Data](../a/alternative_data.md)**:
     - Using unconventional data sources such as [social media sentiment](../s/social_media_sentiment.md), web traffic, and satellite imagery to improve prediction accuracy.
 
-2. **Explainable AI (XAI)**:
+2. **[Explainable AI](../e/explainable_ai.md) (XAI)**:
     - Developing models that provide insights into their decision-making process to enhance [transparency](../t/transparency.md) and [trust](../t/trust.md).
 
 3. **[Quantum Computing](../q/quantum_computing_in_trading.md)**:
     - Leveraging [quantum computing](../q/quantum_computing_in_trading.md) for faster and more accurate predictions. [Quantum algorithms](../q/quantum_algorithms_in_trading.md) can potentially solve complex [optimization](../o/optimization.md) problems much quicker than classical computers.
 
-4. **Automated Machine Learning (AutoML)**:
+4. **Automated [Machine Learning](../m/machine_learning.md) ([AutoML](../a/automl.md))**:
     - Simplifying the model building process by automating tasks such as feature selection, model selection, and hyperparameter tuning.
 
-In conclusion, predictive models in trading have revolutionized the way [market](../m/market.md) participants forecast [asset](../a/asset.md) prices and make trading decisions. With continuous advancements in machine learning and [data analytics](../d/data_analytics.md), these models are expected to evolve further, [offering](../o/offering.md) enhanced accuracy and [efficiency](../e/efficiency.md) in trading. The integration of [alternative data](../a/alternative_data.md) and emerging technologies like [quantum computing](../q/quantum_computing_in_trading.md) [will](../w/will.md) likely drive the next wave of innovations in [predictive modeling](../p/predictive_modeling.md) for trading.
+In conclusion, predictive models in trading have revolutionized the way [market](../m/market.md) participants forecast [asset](../a/asset.md) prices and make trading decisions. With continuous advancements in [machine learning](../m/machine_learning.md) and [data analytics](../d/data_analytics.md), these models are expected to evolve further, [offering](../o/offering.md) enhanced accuracy and [efficiency](../e/efficiency.md) in trading. The integration of [alternative data](../a/alternative_data.md) and emerging technologies like [quantum computing](../q/quantum_computing_in_trading.md) [will](../w/will.md) likely drive the next wave of innovations in [predictive modeling](../p/predictive_modeling.md) for trading.

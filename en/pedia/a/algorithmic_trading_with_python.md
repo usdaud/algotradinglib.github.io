@@ -245,7 +245,7 @@ def apply_risk_management(portfolio_value, max_risk=0.01):
 
 ### Machine Learning in Algorithmic Trading
 
-Integrate machine learning models to predict [market](../m/market.md) movements and improve strategies. Libraries such as Scikit-Learn, TensorFlow, and PyTorch are useful.
+Integrate [machine learning](../m/machine_learning.md) models to predict [market](../m/market.md) movements and improve strategies. Libraries such as Scikit-Learn, [TensorFlow](../t/tensorflow.md), and [PyTorch](../p/pytorch.md) are useful.
 
 ```python
 from sklearn.ensemble [import](../i/import.md) RandomForestClassifier

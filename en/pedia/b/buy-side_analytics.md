@@ -68,7 +68,7 @@ Data platforms and APIs (Application Programming Interfaces) provide access to v
 [Quantitative analysis](../q/quantitative_analysis.md) software like MATLAB, R, Python (with libraries such as Pandas, NumPy, SciPy), and specialized platforms such as [QuantConnect](../q/quantconnect.md) and [QuantLib](../q/quantlib.md) are used to develop, test, and implement [trading models](../t/trading_models.md) and algorithms.
 
 #### a. Python for Finance
-Python, with its extensive libraries (e.g., pandas, NumPy, scikit-learn), is widely used in the [finance](../f/finance.md) [industry](../i/industry.md) for data analysis, machine learning, and algorithm development. The simplicity and versatility of Python make it an attractive choice for building and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+Python, with its extensive libraries (e.g., pandas, NumPy, scikit-learn), is widely used in the [finance](../f/finance.md) [industry](../i/industry.md) for data analysis, [machine learning](../m/machine_learning.md), and algorithm development. The simplicity and versatility of Python make it an attractive choice for building and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 
 #### b. R for Statistical Computing
 R is another powerful tool for statistical computing and graphics, favored by many quantitative analysts and data scientists. It provides a comprehensive environment for data manipulation, statistical modeling, and visualization.
@@ -77,13 +77,13 @@ R is another powerful tool for statistical computing and graphics, favored by ma
 High-performance computing resources are essential for processing large volumes of data and running complex simulations. [Cloud computing](../c/cloud_computing_in_trading.md) platforms such as Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure [offer](../o/offer.md) scalable HPC solutions for [buy-side](../b/buy-side.md) firms.
 
 ### 4. Machine Learning and AI
-Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques have become increasingly integral to [buy-side](../b/buy-side.md) analytics. AI can uncover complex patterns in data and enhance predictive accuracy for [trading models](../t/trading_models.md).
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques have become increasingly integral to [buy-side](../b/buy-side.md) analytics. AI can uncover complex patterns in data and enhance predictive accuracy for [trading models](../t/trading_models.md).
 
 #### a. Supervised Learning
 Supervised [learning algorithms](../l/learning_algorithms_in_trading.md), such as regression and classification models, are used to predict [asset](../a/asset.md) prices, identify [trading signals](../t/trading_signals.md), and categorize [market](../m/market.md) regimes based on historical data.
 
 #### b. Unsupervised Learning
-Unsupervised learning techniques, such as clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md), help in identifying hidden structures and relationships within data sets, leading to novel insights and potential trading opportunities.
+[Unsupervised learning](../u/unsupervised_learning.md) techniques, such as clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md), help in identifying hidden structures and relationships within data sets, leading to novel insights and potential trading opportunities.
 
 #### c. Reinforcement Learning
 Reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) optimize [trading strategies](../t/trading_strategies.md) by learning from interactions with the [market](../m/market.md) environment. They adapt and self-improve based on the feedback received from each trading decision's outcomes.
@@ -100,10 +100,10 @@ Effective visualization and dashboard tools help in interpreting complex data an
 [BlackRock](https://www.blackrock.com) is a global [asset management](../a/asset_management.md) [firm](../f/firm.md) that extensively uses [buy-side](../b/buy-side.md) analytics and data-driven strategies to manage over $9 trillion in assets. They employ a combination of [quantitative models](../q/quantitative_models.md), [risk management](../r/risk_management.md) frameworks, and AI-driven insights to enhance their investment processes.
 
 ### 2. Hedge Funds
-[Hedge](../h/hedge.md) funds employ complex [algorithmic trading](../a/algorithmic_trading.md) strategies and [quantitative models](../q/quantitative_models.md) to achieve [alpha](../a/alpha.md) (excess returns) and manage risks. They often utilize high-frequency trading, statistical [arbitrage](../a/arbitrage.md), and machine learning models to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies.
+[Hedge](../h/hedge.md) funds employ complex [algorithmic trading](../a/algorithmic_trading.md) strategies and [quantitative models](../q/quantitative_models.md) to achieve [alpha](../a/alpha.md) (excess returns) and manage risks. They often utilize high-frequency trading, statistical [arbitrage](../a/arbitrage.md), and [machine learning](../m/machine_learning.md) models to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies.
 
 #### Example: Two Sigma
-[Two Sigma](https://www.twosigma.com) is a prominent [hedge fund](../h/hedge_fund.md) known for its quantitative and technology-driven approach to [investment management](../i/investment_management.md). They [leverage](../l/leverage.md) [data science](../d/data_science_in_trading.md), machine learning, and distributed computing to develop sophisticated [trading algorithms](../t/trading_algorithms.md) and models.
+[Two Sigma](https://www.twosigma.com) is a prominent [hedge fund](../h/hedge_fund.md) known for its quantitative and technology-driven approach to [investment management](../i/investment_management.md). They [leverage](../l/leverage.md) [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to develop sophisticated [trading algorithms](../t/trading_algorithms.md) and models.
 
 ### 3. Mutual Funds
 Mutual funds use [buy-side](../b/buy-side.md) analytics to create diversified portfolios that align with various investment objectives, from conservative [income](../i/income.md) generation to aggressive growth. [Quantitative analysis](../q/quantitative_analysis.md) helps them allocate assets effectively and monitor ongoing performance.
@@ -125,4 +125,4 @@ Pension funds, entrusted with managing retirement savings, utilize [buy-side](..
 
 ## Conclusion
 
-[Buy-side](../b/buy-side.md) analytics in [algorithmic trading](../a/algorithmic_trading.md) encompass a wide array of techniques and tools aimed at enhancing investment decision-making for institutional investors. From data [acquisition](../a/acquisition.md) and quantitative modeling to algorithm development, [portfolio optimization](../p/portfolio_optimization.md), and [performance attribution](../p/performance_attribution.md), [buy-side](../b/buy-side.md) analytics provide a comprehensive framework for navigating the complexities of [financial markets](../f/financial_market.md). Leveraging cutting-edge technologies such as machine learning, high-performance computing, and sophisticated [data visualization](../d/data_visualization.md), [buy-side](../b/buy-side.md) firms are well-equipped to identify opportunities, manage risks, and achieve sustainable growth for their clients.
+[Buy-side](../b/buy-side.md) analytics in [algorithmic trading](../a/algorithmic_trading.md) encompass a wide array of techniques and tools aimed at enhancing investment decision-making for institutional investors. From data [acquisition](../a/acquisition.md) and quantitative modeling to algorithm development, [portfolio optimization](../p/portfolio_optimization.md), and [performance attribution](../p/performance_attribution.md), [buy-side](../b/buy-side.md) analytics provide a comprehensive framework for navigating the complexities of [financial markets](../f/financial_market.md). Leveraging cutting-edge technologies such as [machine learning](../m/machine_learning.md), high-performance computing, and sophisticated [data visualization](../d/data_visualization.md), [buy-side](../b/buy-side.md) firms are well-equipped to identify opportunities, manage risks, and achieve sustainable growth for their clients.

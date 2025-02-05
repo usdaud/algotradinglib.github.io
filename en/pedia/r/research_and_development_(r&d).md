@@ -64,7 +64,7 @@ Pharmaceutical companies invest heavily in R&D to discover new drugs and therapi
 
 ### Technology Industry
 
-In the [technology sector](../t/technology_sector.md), R&D drives innovation in hardware, software, and services. Companies like Apple, Google, and Microsoft allocate significant budgets to R&D to stay at the forefront of technological innovation. For instance, [Google Research](https://research.google/) focuses on areas like [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [quantum computing](../q/quantum_computing_in_trading.md).
+In the [technology sector](../t/technology_sector.md), R&D drives innovation in hardware, software, and services. Companies like Apple, Google, and Microsoft allocate significant budgets to R&D to stay at the forefront of technological innovation. For instance, [Google Research](https://research.google/) focuses on areas like [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [quantum computing](../q/quantum_computing_in_trading.md).
 
 ### Automotive Industry
 
@@ -104,7 +104,7 @@ Despite its benefits, R&D faces several challenges:
 
 The future of R&D is dynamic and poised for transformation due to several factors:
 
-1. **Digital Transformation:** Digital tools such as [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [big data analytics](../b/big_data_analytics_in_trading.md) are revolutionizing the R&D process, making it faster, more efficient, and data-driven.
+1. **Digital Transformation:** Digital tools such as [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) are revolutionizing the R&D process, making it faster, more efficient, and data-driven.
    
 2. **[Open](../o/open.md) Innovation:** Collaboration across organizations and industries is becoming more common. [Open](../o/open.md) innovation encourages the sharing of ideas and resources to accelerate innovation.
 

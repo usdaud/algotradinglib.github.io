@@ -53,7 +53,7 @@ Regulation of merchant banks varies by country but generally includes comprehens
 
 ### Fintech Innovations
 
-The integration of Fintech solutions in the realm of merchant banking has proven to be transformative. With the adoption of [blockchain](../b/blockchain_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning, merchant banks can [offer](../o/offer.md) more efficient, transparent, and secure services. [Blockchain](../b/blockchain_in_trading.md), for example, is used in [smart contracts](../s/smart_contracts_in_trading.md) which streamline complex [transaction](../t/transaction.md) processes, reducing the time and costs associated with [due diligence](../d/due_diligence.md), [clearing](../c/clearing.md), and settlement.
+The integration of Fintech solutions in the realm of merchant banking has proven to be transformative. With the adoption of [blockchain](../b/blockchain_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md), merchant banks can [offer](../o/offer.md) more efficient, transparent, and secure services. [Blockchain](../b/blockchain_in_trading.md), for example, is used in [smart contracts](../s/smart_contracts_in_trading.md) which streamline complex [transaction](../t/transaction.md) processes, reducing the time and costs associated with [due diligence](../d/due_diligence.md), [clearing](../c/clearing.md), and settlement.
 
 ### Algorithmic Trading
 

@@ -58,7 +58,7 @@ Implementing negative [beta](../b/beta.md) strategies demands rigorous [risk man
 
 **AQR [Capital](../c/capital.md) Management**: Known for [quantitative strategies](../q/quantitative_strategies_in_trading.md), AQR uses a variety of [beta](../b/beta.md) strategies within multi-strategy funds to [hedge](../h/hedge.md) against [market](../m/market.md) movements. Their approach involves sophisticated models to dynamically manage [beta](../b/beta.md) exposures across their portfolios. [AQR Capital Management](https://www.aqr.com/)
 
-**Two Sigma**: This quantitative [hedge fund](../h/hedge_fund.md) employs machine learning and sophisticated algorithms to [trade](../t/trade.md) based on statistical relationships identified in historical data, including those with negative [beta](../b/beta.md) characteristics. [Two Sigma](https://www.twosigma.com/)
+**Two Sigma**: This quantitative [hedge fund](../h/hedge_fund.md) employs [machine learning](../m/machine_learning.md) and sophisticated algorithms to [trade](../t/trade.md) based on statistical relationships identified in historical data, including those with negative [beta](../b/beta.md) characteristics. [Two Sigma](https://www.twosigma.com/)
 
 ## Challenges and Considerations
 
@@ -82,7 +82,7 @@ For high-frequency trading and significant position sizes, [liquidity](../l/liqu
 
 Advancements in technology and [data analytics](../d/data_analytics.md) continue to shape the future of negative [beta](../b/beta.md) strategies:
 
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: These technologies enhance [pattern recognition](../p/pattern_recognition.md), [backtesting](../b/backtesting.md) capabilities, and adaptive strategy development.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: These technologies enhance [pattern recognition](../p/pattern_recognition.md), [backtesting](../b/backtesting.md) capabilities, and adaptive strategy development.
 - **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Leveraging vast datasets allows for more granular and sophisticated analysis of [market](../m/market.md) behavior and [correlation](../c/correlation.md) structures.
 - **[Blockchain](../b/blockchain_in_trading.md) and Decentralized [Finance](../f/finance.md) (DeFi)**: Emerging financial instruments and platforms may [offer](../o/offer.md) new avenues for implementing negative [beta](../b/beta.md) strategies in decentralized ecosystems.
 

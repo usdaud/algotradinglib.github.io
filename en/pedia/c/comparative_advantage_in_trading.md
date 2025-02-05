@@ -55,7 +55,7 @@ Renaissance Technologies (https://www.rentec.com/) is a prime example of a tradi
 Virtu Financial (https://www.virtu.com/) uses cutting-edge technology and extensive [market](../m/market.md) data to maintain its comparative advantage in [market](../m/market.md)-making and [liquidity provision](../l/liquidity_provision.md). The [firm](../f/firm.md)'s ability to execute trades with high speed and accuracy gives it an edge over competitors.
 
 ### Two Sigma
-Two Sigma (https://www.twosigma.com/) combines advanced technology with sophisticated data analysis to identify trading opportunities. The [firm](../f/firm.md)'s extensive use of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) helps it maintain a comparative advantage in the [quantitative trading](../q/quantitative_trading.md) space.
+Two Sigma (https://www.twosigma.com/) combines advanced technology with sophisticated data analysis to identify trading opportunities. The [firm](../f/firm.md)'s extensive use of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) helps it maintain a comparative advantage in the [quantitative trading](../q/quantitative_trading.md) space.
 
 ## Challenges and Risks
 

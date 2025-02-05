@@ -108,7 +108,7 @@ These models assume that [yield](../y/yield.md) curves are influenced by a few [
 
 #### Machine Learning Techniques
 
-Machine learning techniques provide a flexible and powerful approach to [yield](../y/yield.md)-curve analysis by leveraging large datasets and complex algorithms.
+[Machine learning](../m/machine_learning.md) techniques provide a flexible and powerful approach to [yield](../y/yield.md)-curve analysis by leveraging large datasets and complex algorithms.
 
 ##### Neural Networks
 
@@ -126,7 +126,7 @@ Machine learning techniques provide a flexible and powerful approach to [yield](
 - Data-hungry: Requires large amounts of data to train effectively.
 - Interpretability: Models can be black boxes, making it hard to understand exactly how predictions are made.
 
-**Company Reference**: [DeepMind](https://deepmind.com/) specializes in machine learning and AI research, which can be applied in financial domains like [yield](../y/yield.md)-curve analysis.
+**Company Reference**: [DeepMind](https://deepmind.com/) specializes in [machine learning](../m/machine_learning.md) and AI research, which can be applied in financial domains like [yield](../y/yield.md)-curve analysis.
 
 ##### Support Vector Machines (SVM)
 
@@ -144,7 +144,7 @@ SVMs are effective for classification and regression tasks in [yield](../y/yield
 - Parameter tuning: Requires careful tuning of the hyperparameters.
 - Complexity: Can be computationally intensive for large datasets.
 
-**Company Reference**: [Palantir Technologies](https://www.palantir.com/) integrates machine learning techniques for complex data analysis, including financial applications.
+**Company Reference**: [Palantir Technologies](https://www.palantir.com/) integrates [machine learning](../m/machine_learning.md) techniques for complex data analysis, including financial applications.
 
 ### 6. Practical Applications of Yield-Curve Analysis
 
@@ -182,4 +182,4 @@ While [yield](../y/yield.md)-curve analysis is a powerful tool, it comes with se
 
 ### Conclusion
 
-[Yield](../y/yield.md)-curve analysis techniques are indispensable for understanding and interpreting the [bond market](../b/bond_market.md) and broader [economic conditions](../e/economic_conditions.md). From traditional bootstrapping to advanced machine learning methods, each technique offers unique insights and applications. However, analysts must be mindful of the limitations and continuously refine their models to adapt to changing [market dynamics](../m/market_dynamics.md).
+[Yield](../y/yield.md)-curve analysis techniques are indispensable for understanding and interpreting the [bond market](../b/bond_market.md) and broader [economic conditions](../e/economic_conditions.md). From traditional bootstrapping to advanced [machine learning](../m/machine_learning.md) methods, each technique offers unique insights and applications. However, analysts must be mindful of the limitations and continuously refine their models to adapt to changing [market dynamics](../m/market_dynamics.md).

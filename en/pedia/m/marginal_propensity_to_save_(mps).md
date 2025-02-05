@@ -95,11 +95,11 @@ MPS is also incorporated into advanced general [equilibrium models](../e/equilib
 With the advent of [Big Data](../b/big_data_in_trading.md) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI), collecting and analyzing data on [income](../i/income.md) and savings behavior has become more sophisticated. Financial institutions and researchers use these technologies to [gain](../g/gain.md) deeper insights into MPS:
 
 1. **[Data Analytics](../d/data_analytics.md)**: By analyzing large datasets, institutions can identify trends and patterns in saving behaviors across different segments of the population.
-2. **Machine Learning Models**: AI models can predict changes in MPS based on various [economic indicators](../e/economic_indicators.md), helping in more accurate [economic forecasting](../e/economic_forecasting.md).
+2. **[Machine Learning](../m/machine_learning.md) Models**: AI models can predict changes in MPS based on various [economic indicators](../e/economic_indicators.md), helping in more accurate [economic forecasting](../e/economic_forecasting.md).
 3. **Real-time Data**: The availability of real-time financial data allows for timely analysis of MPS, aiding swift policy responses to economic changes.
 
 ## Conclusion
 
 Marginal Propensity to Save (MPS) is a fundamental economic metric that provides insights into saving behaviors in response to changes in [income](../i/income.md). Its importance spans from [economic forecasting](../e/economic_forecasting.md) to policy-making, investment decisions, and the formulation of macroeconomic models. Understanding MPS and its influencing factors offers a comprehensive picture of the interplay between [income](../i/income.md), saving, and consumption in driving economic dynamics. 
 
-By leveraging modern [data analytics](../d/data_analytics.md) and machine learning, economists and financial institutions can further refine their understanding of MPS, ensuring more effective economic strategies and policies.
+By leveraging modern [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md), economists and financial institutions can further refine their understanding of MPS, ensuring more effective economic strategies and policies.

@@ -90,7 +90,7 @@ While stock screeners are powerful tools, they are not without limitations:
 
 ## Future of Stock Screeners
 The future of stock screeners is likely to be shaped by advancements in technology:
-- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning**: These technologies can provide more sophisticated filters and [predictive analytics](../p/predictive_analytics.md).
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md)**: These technologies can provide more sophisticated filters and [predictive analytics](../p/predictive_analytics.md).
 - **Big [Data Integration](../d/data_integration.md)**: Leveraging [big data](../b/big_data_in_trading.md) can [offer](../o/offer.md) deeper insights and more accurate filtering results.
 - **User Customization**: Enhanced customization [options](../o/options.md) [will](../w/will.md) allow for more personalized screening experiences.
 

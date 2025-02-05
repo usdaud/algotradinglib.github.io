@@ -88,7 +88,7 @@ In [algorithmic trading](../a/accountability.md), [valuation](../v/valuation.md)
 
 ### Fintech Innovations
 
-Fintech companies are leveraging [big data](../b/big_data_in_trading.md), machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance the [valuation](../v/valuation.md) process. These technologies enable more accurate and timely valuations across varying periods, improving decision-making for investors and financial institutions.
+Fintech companies are leveraging [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance the [valuation](../v/valuation.md) process. These technologies enable more accurate and timely valuations across varying periods, improving decision-making for investors and financial institutions.
 
 ### Blockchain and Distributed Ledgers
 

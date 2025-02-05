@@ -34,7 +34,7 @@ Co-location refers to placing a trading [firm](../f/firm.md)'s server in close p
 
 ### Algorithm Design
 
-The design and complexity of [trading algorithms](../t/trading_algorithms.md) play a crucial role. Algorithms must be optimized not only for identifying profitable opportunities but also for computational [efficiency](../e/efficiency.md). Advanced algorithms use techniques like machine learning, statistical modeling, and [real-time data analysis](../r/real-time_data_analysis.md), which need to be finely tuned to operate within stringent time constraints.
+The design and complexity of [trading algorithms](../t/trading_algorithms.md) play a crucial role. Algorithms must be optimized not only for identifying profitable opportunities but also for computational [efficiency](../e/efficiency.md). Advanced algorithms use techniques like [machine learning](../m/machine_learning.md), statistical modeling, and [real-time data analysis](../r/real-time_data_analysis.md), which need to be finely tuned to operate within stringent time constraints.
 
 ### Network Speed
 
@@ -96,7 +96,7 @@ Companies are exploring the use of low-earth orbit (LEO) satellites to create hi
 
 ### Artificial Intelligence
 
-AI and machine learning are progressively being integrated into [algorithmic trading](../a/accountability.md) systems to create smarter, faster, and more adaptive [trading algorithms](../t/trading_algorithms.md). These AI-driven systems can potentially anticipate [market](../m/market.md) movements with greater accuracy and reduce decision-making lead times.
+AI and [machine learning](../m/machine_learning.md) are progressively being integrated into [algorithmic trading](../a/accountability.md) systems to create smarter, faster, and more adaptive [trading algorithms](../t/trading_algorithms.md). These AI-driven systems can potentially anticipate [market](../m/market.md) movements with greater accuracy and reduce decision-making lead times.
 
 ### Blockchain and Distributed Ledger Technology
 

@@ -74,10 +74,10 @@ Japanese [candlestick charting techniques](../c/candlestick_charting_techniques.
 
 ### Machine Learning Models
 
-Advancements in machine learning have introduced sophisticated models that can predict [currency](../c/currency.md) movements. These models might include:
+Advancements in [machine learning](../m/machine_learning.md) have introduced sophisticated models that can predict [currency](../c/currency.md) movements. These models might include:
 
 - **[Neural Networks](../n/neural_networks_in_trading.md):** Deep [learning algorithms](../l/learning_algorithms_in_trading.md) trained on vast datasets.
-- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** Supervised learning models used for classification and regression.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** [Supervised learning](../s/supervised_learning.md) models used for classification and regression.
 - **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md):** [Optimization](../o/optimization.md) techniques inspired by natural selection processes.
 
 ## Risk Management

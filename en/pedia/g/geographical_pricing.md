@@ -108,7 +108,7 @@ Advanced pricing software, such as Pricefx and PROS, can help businesses impleme
 
 ### Machine Learning
 
-[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can predict consumer response to different price points and recommend optimal pricing strategies. Solutions like AI-driven pricing tools from BlackCurve use machine learning to enhance geographical pricing strategies.
+[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can predict consumer response to different price points and recommend optimal pricing strategies. Solutions like AI-driven pricing tools from BlackCurve use [machine learning](../m/machine_learning.md) to enhance geographical pricing strategies.
 
 ## Conclusion
 

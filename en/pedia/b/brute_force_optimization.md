@@ -55,7 +55,7 @@ Given the computational demands of brute force [optimization](../o/optimization.
 
 - **Parallel Computing:** Utilizing multi-core processors or distributed computing systems to parallelize the [optimization](../o/optimization.md) process.
 - **High-Performance Computing (HPC):** Leveraging supercomputers or cloud-based HPC services to [handle](../h/handle.md) large-scale [optimization](../o/optimization.md) tasks.
-- **Optimized Libraries and Frameworks:** Using specialized libraries like Google’s TensorFlow or companies such as NVIDIA [offering](../o/offering.md) GPU acceleration can significantly speed up the [optimization](../o/optimization.md) process.
+- **Optimized Libraries and Frameworks:** Using specialized libraries like Google’s [TensorFlow](../t/tensorflow.md) or companies such as NVIDIA [offering](../o/offering.md) GPU acceleration can significantly speed up the [optimization](../o/optimization.md) process.
 
 ### Conclusion
 

@@ -83,7 +83,7 @@ Efficient technology [infrastructure](../i/infrastructure.md) is essential for d
 ## Future Trends
 
 ### **Artificial Intelligence and Machine Learning**
-AI and ML are becoming integral to refining [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Techniques such as reinforcement learning can be used to continually optimize [trading algorithms](../t/trading_algorithms.md) based on the Growth Curve outcomes.
+AI and ML are becoming integral to refining [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Techniques such as [reinforcement learning](../r/reinforcement_learning.md) can be used to continually optimize [trading algorithms](../t/trading_algorithms.md) based on the Growth Curve outcomes.
 
 ### **Big Data Analytics**
 The usage of [Big Data](../b/big_data_in_trading.md) allows traders to analyze extensive datasets, improving the accuracy and predictive power of Growth Curves.

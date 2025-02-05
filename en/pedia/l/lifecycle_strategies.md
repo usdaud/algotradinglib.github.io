@@ -42,7 +42,7 @@ After deployment, continuous monitoring and real-time adjustments are necessary 
 
 1. **[Trade](../t/trade.md) Review**: Analyzing each [trade](../t/trade.md) to understand what worked and what didn’t. Factors to consider include entry and exit points, [market](../m/market.md) conditions at the time of the [trade](../t/trade.md), and the performance of [execution algorithms](../e/execution_algorithms.md).
 2. **Strategy Refinement**: Using insights from [trade](../t/trade.md) reviews to refine and optimize the strategy. This may involve adjusting parameters, incorporating new data sources, or tweaking the model.
-3. **Machine Learning**: Leveraging machine learning techniques to uncover hidden patterns and improve predictive accuracy. Techniques such as reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) can be employed.
+3. **[Machine Learning](../m/machine_learning.md)**: Leveraging [machine learning](../m/machine_learning.md) techniques to uncover hidden patterns and improve predictive accuracy. Techniques such as [reinforcement learning](../r/reinforcement_learning.md), [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) can be employed.
 4. **Continuous Improvement**: Establishing a feedback loop where [post-trade analysis](../p/post-trade_analysis.md) continuously informs idea generation and strategy formulation, ensuring that the trading system adapts and evolves over time.
 
 ## Governance and Compliance

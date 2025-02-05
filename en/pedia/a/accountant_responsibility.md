@@ -80,7 +80,7 @@ The role of accountants is continually evolving, driven by changes in technology
 
 ### Technological Advancements
 
-The advent of advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning, and [blockchain](../b/blockchain_in_trading.md) is transforming the [accounting](../a/accounting.md) profession.
+The advent of advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md) is transforming the [accounting](../a/accounting.md) profession.
 
 - **Automation:** Automation tools are streamlining routine [accounting](../a/accounting.md) tasks, such as data entry, [reconciliation](../r/reconciliation.md), and financial reporting. This allows accountants to focus on higher-[value](../v/value.md) activities, such as [financial analysis](../f/financial_analysis.md) and strategic planning.
 - **[Data Analytics](../d/data_analytics.md):** Accountants are increasingly using [data analytics](../d/data_analytics.md) tools to extract insights from large datasets. This helps in identifying trends, assessing risks, and making data-driven decisions.

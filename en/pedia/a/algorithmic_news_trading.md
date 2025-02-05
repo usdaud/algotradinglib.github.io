@@ -4,7 +4,7 @@ Algorithmic news trading is a sophisticated form of [algorithmic trading](../a/a
 
 ### Introduction to Algorithmic News Trading
 
-Algorithmic news trading, also known as news-based [algorithmic trading](../a/algorithmic_trading.md), emerged as a result of advancements in [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), machine learning, and high-frequency trading (HFT). The primary objective is to develop algorithms capable of digesting unstructured data from news sources and converting it into actionable [trading signals](../t/trading_signals.md). This form of trading is especially beneficial for capturing short-term price movements driven by news events, such as [earnings announcements](../e/earnings_announcements.md), [geopolitical events](../g/geopolitical_events.md), regulatory updates, and [market](../m/market.md)-moving press releases.
+Algorithmic news trading, also known as news-based [algorithmic trading](../a/algorithmic_trading.md), emerged as a result of advancements in [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP), [machine learning](../m/machine_learning.md), and high-frequency trading (HFT). The primary objective is to develop algorithms capable of digesting unstructured data from news sources and converting it into actionable [trading signals](../t/trading_signals.md). This form of trading is especially beneficial for capturing short-term price movements driven by news events, such as [earnings announcements](../e/earnings_announcements.md), [geopolitical events](../g/geopolitical_events.md), regulatory updates, and [market](../m/market.md)-moving press releases.
 
 ### Components of Algorithmic News Trading
 
@@ -21,9 +21,9 @@ Common NLP tasks include:
 
 #### Machine Learning
 
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are used to build [predictive models](../p/predictive_models_in_trading.md) that can identify trading opportunities based on news data. Supervised learning techniques, such as classification and regression models, are often employed to predict stock price movements or [volatility](../v/volatility.md). Unsupervised learning techniques, like clustering, can be used to group similar news articles or identify emerging trends.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are used to build [predictive models](../p/predictive_models_in_trading.md) that can identify trading opportunities based on news data. [Supervised learning](../s/supervised_learning.md) techniques, such as classification and regression models, are often employed to predict stock price movements or [volatility](../v/volatility.md). [Unsupervised learning](../u/unsupervised_learning.md) techniques, like clustering, can be used to group similar news articles or identify emerging trends.
 
-Examples of machine learning applications in news trading include:
+Examples of [machine learning](../m/machine_learning.md) applications in news trading include:
 
 - **Sentiment-based [Trading Models](../t/trading_models.md):** These models predict stock price movements based on the aggregated sentiment of news articles.
 - **[Anomaly Detection](../a/anomaly_detection.md) Systems:** Detection of [unusual trading patterns](../u/unusual_trading_patterns.md) or news events that could precede significant [market](../m/market.md) movements.
@@ -74,7 +74,7 @@ The accuracy and timeliness of trading decisions heavily depend on the quality o
 
 #### Overfitting
 
-Machine learning models are prone to [overfitting](../o/overfitting.md), especially when trained on limited datasets. [Overfitting](../o/overfitting.md) occurs when a model learns the [noise](../n/noise.md) in the training data rather than the [underlying](../u/underlying.md) pattern, resulting in poor performance on new, unseen data.
+[Machine learning](../m/machine_learning.md) models are prone to [overfitting](../o/overfitting.md), especially when trained on limited datasets. [Overfitting](../o/overfitting.md) occurs when a model learns the [noise](../n/noise.md) in the training data rather than the [underlying](../u/underlying.md) pattern, resulting in poor performance on new, unseen data.
 
 #### Latency
 
@@ -104,4 +104,4 @@ Several firms specialize in providing technology and data solutions for algorith
 
 ### Conclusion
 
-Algorithmic news trading represents the intersection of technology, [finance](../f/finance.md), and [data science](../d/data_science_in_trading.md). As the [volume](../v/volume.md) and velocity of information continue to increase, traders who can effectively harness and interpret news data in real-time [will](../w/will.md) have a significant advantage. By leveraging NLP, machine learning, and [robust](../r/robust.md) data sources, algorithmic news [trading strategies](../t/trading_strategies.md) can capture [market](../m/market.md) opportunities that might be missed by traditional trading approaches. However, traders must also navigate challenges related to data quality, latency, and regulatory compliance to succeed in this dynamic environment.
+Algorithmic news trading represents the intersection of technology, [finance](../f/finance.md), and [data science](../d/data_science_in_trading.md). As the [volume](../v/volume.md) and velocity of information continue to increase, traders who can effectively harness and interpret news data in real-time [will](../w/will.md) have a significant advantage. By leveraging NLP, [machine learning](../m/machine_learning.md), and [robust](../r/robust.md) data sources, algorithmic news [trading strategies](../t/trading_strategies.md) can capture [market](../m/market.md) opportunities that might be missed by traditional trading approaches. However, traders must also navigate challenges related to data quality, latency, and regulatory compliance to succeed in this dynamic environment.

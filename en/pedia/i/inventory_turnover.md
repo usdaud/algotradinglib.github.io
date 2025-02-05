@@ -71,7 +71,7 @@ For more information, visit [Walmart](https://corporate.walmart.com/).
 
 ### Amazon
 
-Amazon's [inventory](../i/inventory.md) [turnover](../t/turnover.md) is a crucial component of its e-[commerce](../c/commerce.md) success. The company employs advanced algorithms and machine learning models to forecast [demand](../d/demand.md), optimize stock levels, and manage its vast fulfillment network. By doing so, Amazon can deliver products quickly and maintain a high [inventory](../i/inventory.md) [turnover](../t/turnover.md) rate, ensuring [customer](../c/customer.md) satisfaction and [operational efficiency](../o/operational_efficiency_in_trading.md).
+Amazon's [inventory](../i/inventory.md) [turnover](../t/turnover.md) is a crucial component of its e-[commerce](../c/commerce.md) success. The company employs advanced algorithms and [machine learning](../m/machine_learning.md) models to forecast [demand](../d/demand.md), optimize stock levels, and manage its vast fulfillment network. By doing so, Amazon can deliver products quickly and maintain a high [inventory](../i/inventory.md) [turnover](../t/turnover.md) rate, ensuring [customer](../c/customer.md) satisfaction and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 For more information, visit [Amazon](https://www.aboutamazon.com/).
 

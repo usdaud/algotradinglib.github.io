@@ -76,7 +76,7 @@ Quantitative Performance Measurement (QPM) is a systematic approach to assessing
 Renaissance Technologies is a renowned quantitative [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md). Their success is attributed to sophisticated [quantitative models](../q/quantitative_models.md) and a strong focus on quantitative performance measurement. [Website](https://www.rentec.com)
 
 #### 2. Two Sigma
-Two Sigma uses [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [quantitative analysis](../q/quantitative_analysis.md) to uncover investment opportunities. Their rigorous approach to performance measurement ensures optimal strategy effectiveness. [Website](https://www.twosigma.com)
+Two Sigma uses [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [quantitative analysis](../q/quantitative_analysis.md) to uncover investment opportunities. Their rigorous approach to performance measurement ensures optimal strategy effectiveness. [Website](https://www.twosigma.com)
 
 ### Conclusion
 

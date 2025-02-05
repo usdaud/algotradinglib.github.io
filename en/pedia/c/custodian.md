@@ -88,7 +88,7 @@ Maintaining compliance with ever-evolving regulations constitutes a significant 
 
 ### Technological Adoption
 
-Adopting new technologies is crucial for custodians to enhance service delivery and maintain competitiveness. However, the integration of advanced technologies like AI, machine learning, and [blockchain](../b/blockchain_in_trading.md) requires substantial investment and poses challenges in terms of skilled workforce and cybersecurity.
+Adopting new technologies is crucial for custodians to enhance service delivery and maintain competitiveness. However, the integration of advanced technologies like AI, [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md) requires substantial investment and poses challenges in terms of skilled workforce and cybersecurity.
 
 ### Innovation and Client Expectations
 

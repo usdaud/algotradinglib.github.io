@@ -61,7 +61,7 @@ In the [financial markets](../f/financial_market.md), "Vest Fleece" could be uti
 2. **[Blockchain](../b/blockchain_in_trading.md) and [Smart Contracts](../s/smart_contracts_in_trading.md)**: The use of [blockchain](../b/blockchain_in_trading.md) technology to create contracts that execute themselves when predefined conditions are met.
    - Example: [Ethereum](../e/ethereum_.md)-based [smart contracts](../s/smart_contracts_in_trading.md) that automate complex [trading strategies](../t/trading_strategies.md) without the need for intermediaries.
 
-3. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: The application of machine learning and AI to identify trading opportunities and risks by analyzing large datasets in real-time.
+3. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: The application of [machine learning](../m/machine_learning.md) and AI to identify trading opportunities and risks by analyzing large datasets in real-time.
    - Example: AI-driven platforms like Kensho, used by financial institutions to [gain](../g/gain.md) insights for trading.
 
 ### Implications and Challenges

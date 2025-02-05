@@ -83,6 +83,6 @@ The process of [mean-variance optimization](../m/mean-variance_optimization.md) 
    
 3. **[Robust](../r/robust.md) [Portfolio Optimization](../p/portfolio_optimization.md)**: Attempts to create portfolios that are less sensitive to errors in the input estimates, enhancing the stability of investment decisions.
 
-4. **Machine Learning in [Portfolio Management](../p/portfolio_management.md)**: Companies such as **[AQR Capital Management](https://www.aqr.com)** are leveraging machine learning techniques to improve the estimation of model parameters and incorporate non-linear relationships among [asset](../a/asset.md) returns.
+4. **[Machine Learning](../m/machine_learning.md) in [Portfolio Management](../p/portfolio_management.md)**: Companies such as **[AQR Capital Management](https://www.aqr.com)** are leveraging [machine learning](../m/machine_learning.md) techniques to improve the estimation of model parameters and incorporate non-linear relationships among [asset](../a/asset.md) returns.
 
 In conclusion, mean-variance portfolio theory has been a cornerstone of modern [finance](../f/finance.md), providing a systematic and quantitative approach for portfolio construction and management. Despite its limitations, it remains a fundamental tool for investors seeking to optimize the [risk](../r/risk.md)-[return](../r/return.md) characteristics of their investment portfolios.

@@ -30,7 +30,7 @@ Various companies employ "web scraping" techniques to collect data from public w
 
 ### Real-time Surveillance
 
-Modern surveillance systems use algorithms for real-time monitoring of trading activities. These systems flag [unusual trading patterns](../u/unusual_trading_patterns.md) that may indicate potential insider trading. Advanced Machine Learning (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques can analyze deviations from typical trading behaviors and correlate them with [market](../m/market.md) events to identify suspicious activities. Firms such as [NASDAQ](../n/nasdaq.md)'s SMARTS and NICE Actimize provide solutions for monitoring trades and maintaining compliance.
+Modern surveillance systems use algorithms for real-time monitoring of trading activities. These systems flag [unusual trading patterns](../u/unusual_trading_patterns.md) that may indicate potential insider trading. Advanced [Machine Learning](../m/machine_learning.md) (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) techniques can analyze deviations from typical trading behaviors and correlate them with [market](../m/market.md) events to identify suspicious activities. Firms such as [NASDAQ](../n/nasdaq.md)'s SMARTS and NICE Actimize provide solutions for monitoring trades and maintaining compliance.
 
 [NASDAQ SMARTS](https://www.nasdaq.com/solutions/nasdaq-smarts)  
 [NICE Actimize](https://www.niceactimize.com/solutions/fcm-trade-compliance/)

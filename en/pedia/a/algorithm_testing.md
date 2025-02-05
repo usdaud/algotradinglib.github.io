@@ -66,7 +66,7 @@ Algorithms should be tested for their potential [market](../m/market.md) impact,
 ### 6. Advanced Techniques in Algorithm Testing
 
 #### 6.1 Machine Learning and AI
-Machine learning and AI techniques are increasingly used in testing [trading algorithms](../t/trading_algorithms.md). These techniques can identify patterns and relationships in data that may not be evident through traditional analysis.
+[Machine learning](../m/machine_learning.md) and AI techniques are increasingly used in testing [trading algorithms](../t/trading_algorithms.md). These techniques can identify patterns and relationships in data that may not be evident through traditional analysis.
 
 #### 6.2 Genetic Algorithms
 [Genetic algorithms](../g/genetic_algorithms_in_trading.md) optimize [trading strategies](../t/trading_strategies.md) by simulating the process of natural selection, iterating through generations of strategies to find the best performers.
@@ -143,7 +143,7 @@ Algorithms should be tested for their potential [market](../m/market.md) impact,
 ### 6. Advanced Techniques in Algorithm Testing
 
 #### 6.1 Machine Learning and AI
-Machine learning and AI techniques are increasingly used in testing [trading algorithms](../t/trading_algorithms.md). These techniques can identify patterns and relationships in data that may not be evident through traditional analysis.
+[Machine learning](../m/machine_learning.md) and AI techniques are increasingly used in testing [trading algorithms](../t/trading_algorithms.md). These techniques can identify patterns and relationships in data that may not be evident through traditional analysis.
 
 #### 6.2 Genetic Algorithms
 [Genetic algorithms](../g/genetic_algorithms_in_trading.md) optimize [trading strategies](../t/trading_strategies.md) by simulating the process of natural selection, iterating through generations of strategies to find the best performers.

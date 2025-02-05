@@ -48,7 +48,7 @@ In [algorithmic trading](../a/accountability.md), the standard error of various 
 
 ### Machine Learning Models
 
-In machine learning applications within [finance](../f/finance.md), such as predicting stock prices or [volatility](../v/volatility.md), the standard error is used to assess the accuracy and stability of the models. Algorithms like [regression analysis](../r/regression_analysis.md) or [neural networks](../n/neural_networks_in_trading.md) rely on standard error metrics to fine-tune parameters and improve predictions.
+In [machine learning](../m/machine_learning.md) applications within [finance](../f/finance.md), such as predicting stock prices or [volatility](../v/volatility.md), the standard error is used to assess the accuracy and stability of the models. Algorithms like [regression analysis](../r/regression_analysis.md) or [neural networks](../n/neural_networks_in_trading.md) rely on standard error metrics to fine-tune parameters and improve predictions.
 
 ### Quantitative Analysis
 

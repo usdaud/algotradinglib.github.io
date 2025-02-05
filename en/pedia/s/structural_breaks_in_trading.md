@@ -60,7 +60,7 @@ Several software packages and tools can be used to implement structural break de
 
 2. **Econometric Software**: Tools like EViews and Stata [offer](../o/offer.md) built-in functions for structural break analysis.
 
-3. **Custom Implementations**: For more complex needs, custom implementations using statistical and machine learning frameworks can be developed.
+3. **Custom Implementations**: For more complex needs, custom implementations using statistical and [machine learning](../m/machine_learning.md) frameworks can be developed.
 
 ### Real-time Implementation
 

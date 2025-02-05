@@ -166,7 +166,7 @@ Modern [accounting](../a/accounting.md) software includes modules that automate 
 
 ### Case Study 1: Financial Services Company
 
-A financial services company implemented a machine learning model to estimate its allowance for [bad debt](../b/bad_debt.md). By analyzing [customer](../c/customer.md) data, [transaction](../t/transaction.md) history, and economic trends, the model provided more accurate predictions. As a result, the company reduced its [bad debt expense](../b/bad_debt_expense.md) by 15% and improved its accounts [receivable](../r/receivable.md) [turnover ratio](../t/turnover_ratio.md).
+A financial services company implemented a [machine learning](../m/machine_learning.md) model to estimate its allowance for [bad debt](../b/bad_debt.md). By analyzing [customer](../c/customer.md) data, [transaction](../t/transaction.md) history, and economic trends, the model provided more accurate predictions. As a result, the company reduced its [bad debt expense](../b/bad_debt_expense.md) by 15% and improved its accounts [receivable](../r/receivable.md) [turnover ratio](../t/turnover_ratio.md).
 
 ### Case Study 2: Retail Company
 

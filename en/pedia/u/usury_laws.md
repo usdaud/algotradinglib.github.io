@@ -100,7 +100,7 @@ The emergence of cryptocurrencies and [blockchain](../b/blockchain_in_trading.md
 
 ### Dynamic Interest Rates
 
-With advancements in AI and machine learning, there is potential for more dynamic and personalized [interest](../i/interest.md) rates that balance the need for fair lending practices with the [risk profiles](../r/risk_profiles.md) of individual borrowers. This approach could lead to more nuanced [usury](../u/usury.md) laws that consider real-time data and [economic conditions](../e/economic_conditions.md).
+With advancements in AI and [machine learning](../m/machine_learning.md), there is potential for more dynamic and personalized [interest](../i/interest.md) rates that balance the need for fair lending practices with the [risk profiles](../r/risk_profiles.md) of individual borrowers. This approach could lead to more nuanced [usury](../u/usury.md) laws that consider real-time data and [economic conditions](../e/economic_conditions.md).
 
 ## Conclusion
 

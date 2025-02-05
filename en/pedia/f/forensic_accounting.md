@@ -138,7 +138,7 @@ Forensic [accounting](../a/accounting.md) continues to evolve, driven by technol
 
 ### Artificial Intelligence and Machine Learning
 
-AI and machine learning are revolutionizing [fraud](../f/fraud.md) detection and forensic analysis. These technologies can process vast amounts of data more quickly and accurately than traditional methods, uncovering patterns and anomalies indicative of [fraud](../f/fraud.md).
+AI and [machine learning](../m/machine_learning.md) are revolutionizing [fraud](../f/fraud.md) detection and forensic analysis. These technologies can process vast amounts of data more quickly and accurately than traditional methods, uncovering patterns and anomalies indicative of [fraud](../f/fraud.md).
 
 ### Blockchain and Cryptocurrency
 

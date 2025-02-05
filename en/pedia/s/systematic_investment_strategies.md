@@ -20,7 +20,7 @@ Data is the lifeblood of systematic investment strategies. The quality, breadth,
 Statistical models are used to identify patterns and relationships in the data, which can predict future [market](../m/market.md) behaviors. These models [range](../r/range.md) from simple linear regressions to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md).
 
 - **Regression Models**: Used to understand the relationships between different variables.
-- **Machine Learning**: Enhances the ability to uncover non-linear relationships within the data. Techniques include supervised learning (like regression and classification) and unsupervised learning (such as clustering).
+- **[Machine Learning](../m/machine_learning.md)**: Enhances the ability to uncover non-linear relationships within the data. Techniques include [supervised learning](../s/supervised_learning.md) (like regression and classification) and [unsupervised learning](../u/unsupervised_learning.md) (such as clustering).
 
 ### Algorithmic Trading Systems
 
@@ -106,7 +106,7 @@ HFT involves executing a large number of orders at extremely high speeds, often 
 
 ### Artificial Intelligence and Machine Learning
 
-AI and machine learning are set to revolutionize systematic [investing](../i/investing.md) by uncovering new patterns and relationships within the data that were previously undetectable.
+AI and [machine learning](../m/machine_learning.md) are set to revolutionize systematic [investing](../i/investing.md) by uncovering new patterns and relationships within the data that were previously undetectable.
 
 - **[Deep Learning](../d/deep_learning.md)**: A subset of AI that involves [neural networks](../n/neural_networks_in_trading.md) with many layers, which can model complex relationships.
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Can analyze textual data, such as news articles and financial reports, to predict [market](../m/market.md) movements.

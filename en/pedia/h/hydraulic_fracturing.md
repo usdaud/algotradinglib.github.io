@@ -108,7 +108,7 @@ The future of hydraulic fracturing [will](../w/will.md) likely see continued tec
 
 - **Eco-friendly Fracturing Fluids:** Developing biodegradable and less toxic fracturing fluids to minimize environmental risks.
 
-- **Advanced Monitoring and Analytics:** Utilizing real-time [data analytics](../d/data_analytics.md), machine learning, and advanced sensors to improve the accuracy and safety of fracturing operations.
+- **Advanced Monitoring and Analytics:** Utilizing real-time [data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and advanced sensors to improve the accuracy and safety of fracturing operations.
 
 - **Enhanced Oil Recovery (EOR) Techniques:** Exploring methods to increase the amount of recoverable hydrocarbons from existing wells, such as using CO2 injection.
 

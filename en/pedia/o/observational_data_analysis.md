@@ -26,7 +26,7 @@ Observational data can be sourced through various means, including but not limit
 ## Role of Observational Data Analysis
 
 Observational data analysis is used to:
-1. **Identify [Trading Signals](../t/trading_signals.md)**: Leveraging statistical models and machine learning techniques to predict future price movements.
+1. **Identify [Trading Signals](../t/trading_signals.md)**: Leveraging statistical models and [machine learning](../m/machine_learning.md) techniques to predict future price movements.
 2. **Back-Test Strategies**: Evaluating the performance of [trading algorithms](../t/trading_algorithms.md) using historical data to simulate trading scenarios.
 3. **[Risk Management](../r/risk_management.md)**: Assessing [market risk](../m/market_risk.md), setting stop-loss limits, and ensuring diverse portfolio allocation.
 4. **[Market Microstructure](../m/market_microstructure.md) Analysis**: Understanding the mechanics of how different [market](../m/market.md) participants interact and how this affects [price discovery](../p/price_discovery.md).
@@ -41,10 +41,10 @@ Statistical methods involve the application of mathematical theories to analyze 
 
 ### Machine Learning
 
-Machine learning (ML) offers advanced methods for interpreting large datasets:
-- **Supervised Learning**: Algorithms like [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), and [Neural Networks](../n/neural_networks_in_trading.md) trained on labeled data to predict outcomes.
-- **Unsupervised Learning**: Clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) techniques such as K-Means, [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) for identifying hidden patterns in data.
-- **Reinforcement Learning**: Algorithms like Q-Learning which learn to make decisions through trial-and-error in dynamic environments.
+[Machine learning](../m/machine_learning.md) (ML) offers advanced methods for interpreting large datasets:
+- **[Supervised Learning](../s/supervised_learning.md)**: Algorithms like [Linear Regression](../l/linear_regression.md), [Decision Trees](../d/decision_trees.md), and [Neural Networks](../n/neural_networks_in_trading.md) trained on labeled data to predict outcomes.
+- **[Unsupervised Learning](../u/unsupervised_learning.md)**: Clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) techniques such as K-Means, [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) for identifying hidden patterns in data.
+- **[Reinforcement Learning](../r/reinforcement_learning.md)**: Algorithms like Q-Learning which learn to make decisions through trial-and-error in dynamic environments.
 
 ### Natural Language Processing (NLP)
 
@@ -56,7 +56,7 @@ NLP techniques help in analyzing unstructured textual data from news articles, [
 
 ### Programming Languages
 
-- **Python**: Widely used for its vast libraries such as NumPy, pandas, scikit-learn, and TensorFlow.
+- **Python**: Widely used for its vast libraries such as NumPy, pandas, scikit-learn, and [TensorFlow](../t/tensorflow.md).
 - **R**: Favored for its statistical capabilities and rapid deployment of models.
 - **C++/Java**: Used for their [execution](../e/execution.md) speed in high-frequency trading environments.
 
@@ -77,7 +77,7 @@ NLP techniques help in analyzing unstructured textual data from news articles, [
 
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies and Two Sigma heavily rely on observational data analysis:
 - **Renaissance Technologies**: Uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to identify subtle patterns and predict price movements with incredible precision. [Renaissance Technologies](https://www.rentec.com/)
-- **Two Sigma**: Employs machine learning and distributed computing to build models that ingest and analyze vast datasets. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: Employs [machine learning](../m/machine_learning.md) and distributed computing to build models that ingest and analyze vast datasets. [Two Sigma](https://www.twosigma.com/)
 
 ### High-Frequency Trading (HFT)
 

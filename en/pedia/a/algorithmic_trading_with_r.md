@@ -6,7 +6,7 @@
 
 [Algorithmic trading](../a/algorithmic_trading.md) refers to the use of algorithms to automate trading processes. Instead of manually analyzing the markets and executing trades, algorithms [handle](../h/handle.md) these tasks based on pre-defined rules and conditions. This can lead to more efficient, faster, and sometimes more profitable trading.
 
-Algorithms can [range](../r/range.md) from simple trigger conditions, such as moving averages, to complex strategies involving [multiple](../m/multiple.md) data sources, regression models, and machine learning techniques.
+Algorithms can [range](../r/range.md) from simple trigger conditions, such as moving averages, to complex strategies involving [multiple](../m/multiple.md) data sources, regression models, and [machine learning](../m/machine_learning.md) techniques.
 
 ## Why Use R for Algorithmic Trading?
 

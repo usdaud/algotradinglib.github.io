@@ -1,6 +1,6 @@
 # Convolutional Neural Networks (CNN)
 
-Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNN), primarily known as a tool in the field of computer vision, have provided groundbreaking advancements in many other domains. One such domain is trading. This comprehensive explanation details how CNNs operate, their application in trading, notable examples, the potential and challenges of using CNNs, and future trends.
+Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNN), primarily known as a tool in the field of [computer vision](../c/computer_vision.md), have provided groundbreaking advancements in many other domains. One such domain is trading. This comprehensive explanation details how CNNs operate, their application in trading, notable examples, the potential and challenges of using CNNs, and future trends.
 
 ## Introduction to Convolutional Neural Networks
 CNNs are a class of deep [neural networks](../n/neural_networks_in_trading.md) that have proven most effective in analyzing visual datasets. Unlike regular [neural networks](../n/neural_networks_in_trading.md), CNNs are characterized by convolutional layers that automatically and adaptively learn spatial hierarchies of features.
@@ -42,10 +42,10 @@ Several firms and platforms have integrated CNNs into their [trading systems](..
 [Alpaca](https://alpaca.markets/) offers a [commission](../c/commission.md)-free trading API that can be used to execute [algorithmic trading](../a/algorithmic_trading.md) strategies, including those built using CNNs. Developers can [leverage](../l/leverage.md) their API to integrate sophisticated CNN models into their [trading systems](../t/trading_systems.md).
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides a cloud-based environment for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md). It supports various machine learning frameworks, allowing traders to implement CNN-based strategies.
+[QuantConnect](https://www.quantconnect.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides a cloud-based environment for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md). It supports various [machine learning](../m/machine_learning.md) frameworks, allowing traders to implement CNN-based strategies.
 
 ### H2O.ai
-[H2O.ai](https://www.h2o.ai/) offers an [open](../o/open.md)-source platform for building machine learning models, including [deep learning](../d/deep_learning.md) models like CNNs. Their tools can be utilized to develop and deploy [trading algorithms](../t/trading_algorithms.md).
+[H2O.ai](https://www.h2o.ai/) offers an [open](../o/open.md)-source platform for building [machine learning](../m/machine_learning.md) models, including [deep learning](../d/deep_learning.md) models like CNNs. Their tools can be utilized to develop and deploy [trading algorithms](../t/trading_algorithms.md).
 
 ## Benefits of Using CNNs in Trading
 
@@ -67,7 +67,7 @@ CNNs can assist in identifying [risk](../r/risk.md) patterns and potential [mark
 [Financial markets](../f/financial_market.md) require large, high-quality datasets to train CNNs effectively. Insufficient or poor-quality data can lead to inaccurate models.
 
 ### 2. Overfitting
-CNNs are prone to [overfitting](../o/overfitting.md), especially when dealing with a limited dataset. Proper regularization techniques and data augmentation are crucial to mitigate this [issue](../i/issue.md).
+CNNs are prone to [overfitting](../o/overfitting.md), especially when dealing with a limited dataset. Proper regularization techniques and [data augmentation](../d/data_augmentation.md) are crucial to mitigate this [issue](../i/issue.md).
 
 ### 3. Computational Resources
 Training CNNs is computationally intensive, requiring significant hardware resources, such as GPUs. This can be a barrier for individual traders or small firms.
@@ -81,7 +81,7 @@ CNNs are often considered 'black boxes', with limited interpretability of their 
 ## Future Trends
 
 ### 1. Integration with Other AI Technologies
-Combining CNNs with other AI technologies, such as [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and Reinforcement Learning, can provide more comprehensive [trading systems](../t/trading_systems.md).
+Combining CNNs with other AI technologies, such as [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [Reinforcement Learning](../r/reinforcement_learning.md), can provide more comprehensive [trading systems](../t/trading_systems.md).
 
 ### 2. Enhanced Model Interpretability
 Developing methods to interpret CNN models can make them more trustworthy and actionable for traders. Techniques like Grad-CAM (Gradient-[weighted](../w/weighted.md) Class Activation Mapping) are steps in this direction.

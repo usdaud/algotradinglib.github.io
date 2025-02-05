@@ -100,13 +100,13 @@ Numerix (https://www.numerix.com/) offers advanced analytics and financial techn
 [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) provides [algorithmic trading](../a/algorithmic_trading.md) platforms with built-in support for various regression models and tools for strategy development and [backtesting](../b/backtesting.md).
 
 ### 3. Ayasdi
-Ayasdi (https://www.ayasdi.com/) specializes in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) for financial services, with [robust](../r/robust.md) [regression analysis](../r/regression_analysis.md) capabilities.
+Ayasdi (https://www.ayasdi.com/) specializes in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) for financial services, with [robust](../r/robust.md) [regression analysis](../r/regression_analysis.md) capabilities.
 
 ### 4. RStudio
 RStudio (https://rstudio.com/) offers integrated development environments and tools for R, a statistical programming language widely used for [regression analysis](../r/regression_analysis.md) in [finance](../f/finance.md).
 
 ### 5. DataRobot
-DataRobot (https://www.datarobot.com/) provides automated machine learning platforms that support a [range](../r/range.md) of [regression techniques](../r/regression_techniques.md) for [predictive modeling](../p/predictive_modeling.md) in trading and [risk management](../r/risk_management.md).
+DataRobot (https://www.datarobot.com/) provides automated [machine learning](../m/machine_learning.md) platforms that support a [range](../r/range.md) of [regression techniques](../r/regression_techniques.md) for [predictive modeling](../p/predictive_modeling.md) in trading and [risk management](../r/risk_management.md).
 
 ## Conclusion
 

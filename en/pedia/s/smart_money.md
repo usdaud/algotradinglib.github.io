@@ -36,7 +36,7 @@ Examining changes in institutional [holdings](../h/holdings.md) can shed light o
 Algorithmic or algo-trading involves using computer algorithms to execute trades based on predefined criteria. These algorithms can process vast amounts of data in real-time, allowing for rapid decision-making and [execution](../e/execution.md). High-frequency trading (HFT) is a subset of algo-trading that uses extremely fast [execution](../e/execution.md) speeds to [capitalize](../c/capitalize.md) on minute [market](../m/market.md) inefficiencies.
 
 ### Sentiment Analysis
-[Sentiment analysis](../s/sentiment_analysis.md) evaluates [investor](../i/investor.md) sentiment through news articles, [social media](../s/social_media.md), and other public forums. Sophisticated machine learning and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) techniques can extract insights about [market sentiment](../m/market_sentiment.md), which smart [money](../m/money.md) can then use to inform their [trading strategies](../t/trading_strategies.md).
+[Sentiment analysis](../s/sentiment_analysis.md) evaluates [investor](../i/investor.md) sentiment through news articles, [social media](../s/social_media.md), and other public forums. Sophisticated [machine learning](../m/machine_learning.md) and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) techniques can extract insights about [market sentiment](../m/market_sentiment.md), which smart [money](../m/money.md) can then use to inform their [trading strategies](../t/trading_strategies.md).
 
 ## Impact on Markets
 

@@ -120,7 +120,7 @@ J.P. Morgan is a global leader in financial services [offering](../o/offering.md
 
 ### Digitization and Automation
 
-The future of trading houses [will](../w/will.md) likely be marked by increased digitization and automation. The use of advanced algorithms, machine learning, and [blockchain](../b/blockchain_in_trading.md) technology is expected to transform trading operations, making them more efficient and transparent.
+The future of trading houses [will](../w/will.md) likely be marked by increased digitization and automation. The use of advanced algorithms, [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md) technology is expected to transform trading operations, making them more efficient and transparent.
 
 ### ESG (Environmental, Social, Governance) Considerations
 

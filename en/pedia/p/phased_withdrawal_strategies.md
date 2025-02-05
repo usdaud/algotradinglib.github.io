@@ -45,7 +45,7 @@ A phased [withdrawal](../w/withdrawal.md) strategy is an approach that divides t
    [Algorithmic trading](../a/algorithmic_trading.md) systems can be programmed to execute phased [withdrawal](../w/withdrawal.md) strategies automatically. By integrating rules and conditions into the trading algorithm, traders can ensure disciplined [withdrawal](../w/withdrawal.md) without manual intervention.
 
 2. **[Risk Management](../r/risk_management.md) Algorithms**:
-   Algorithms can be designed to assess [risk](../r/risk.md) levels continuously and adjust [withdrawal](../w/withdrawal.md) plans accordingly. For instance, a machine learning model might predict [market](../m/market.md) downturns and trigger higher withdrawals to protect [capital](../c/capital.md).
+   Algorithms can be designed to assess [risk](../r/risk.md) levels continuously and adjust [withdrawal](../w/withdrawal.md) plans accordingly. For instance, a [machine learning](../m/machine_learning.md) model might predict [market](../m/market.md) downturns and trigger higher withdrawals to protect [capital](../c/capital.md).
 
 3. **[Reinvestment](../r/reinvestment.md) Strategies**:
    Phased withdrawals can be part of more extensive [reinvestment](../r/reinvestment.md) strategies where withdrawn funds are allocated to other [asset](../a/asset.md) classes or [trading strategies](../t/trading_strategies.md) to optimize returns and [diversification](../d/diversification.md).

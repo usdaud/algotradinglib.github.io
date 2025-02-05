@@ -59,7 +59,7 @@ HFT strategies are a subset of [algorithmic trading](../a/algorithmic_trading.md
 
 ### Machine Learning and AI
 
-Advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) have enabled the development of sophisticated [trading algorithms](../t/trading_algorithms.md) that can analyze historical data, recognize patterns, and make [predictive analytics](../p/predictive_analytics.md) to forecast future price movements.
+Advancements in [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) have enabled the development of sophisticated [trading algorithms](../t/trading_algorithms.md) that can analyze historical data, recognize patterns, and make [predictive analytics](../p/predictive_analytics.md) to forecast future price movements.
 
 ### Trading Platforms
 

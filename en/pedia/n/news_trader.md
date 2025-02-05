@@ -81,7 +81,7 @@ The spread of false information can lead to mistaken trades. Ensuring the credib
 ## Trends and Future of News Trading
 
 ### AI and Machine Learning
-Advancements in AI and machine learning are increasingly being integrated into news [trading strategies](../t/trading_strategies.md) to improve [sentiment analysis](../s/sentiment_analysis.md), [market](../m/market.md) predictions, and [trade](../t/trade.md) [execution](../e/execution.md) speeds.
+Advancements in AI and [machine learning](../m/machine_learning.md) are increasingly being integrated into news [trading strategies](../t/trading_strategies.md) to improve [sentiment analysis](../s/sentiment_analysis.md), [market](../m/market.md) predictions, and [trade](../t/trade.md) [execution](../e/execution.md) speeds.
 
 ### Blockchain and Financial Technology
 [Blockchain](../b/blockchain_in_trading.md) technologies are providing new opportunities and challenges in how news is distributed and verified. Decentralized news platforms and verifiable news sources may change the landscape of news trading.

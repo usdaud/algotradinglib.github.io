@@ -112,11 +112,11 @@ As technology has advanced, so too have the techniques available to spread betto
 
 #### Machine Learning and AI
 
-The adoption of machine learning and AI in trading is becoming increasingly common. These technologies can analyze vast amounts of data far quicker than a human can, identifying patterns and making predictions that would be otherwise impossible.
+The adoption of [machine learning](../m/machine_learning.md) and AI in trading is becoming increasingly common. These technologies can analyze vast amounts of data far quicker than a human can, identifying patterns and making predictions that would be otherwise impossible.
 
 **Example:**
 1. Using AI algorithms to identify [market sentiment](../m/market_sentiment.md) from news articles and [social media](../s/social_media.md).
-2. Implementing machine learning models to predict price movements based on historical data.
+2. Implementing [machine learning](../m/machine_learning.md) models to predict price movements based on historical data.
 
 ### 7. Platforms and Tools
 
@@ -137,4 +137,4 @@ Provides extensive research tools and a user-friendly platform suitable for both
 
 ### Conclusion
 
-[Spread betting](../s/spread_betting.md) offers a variety of techniques that, if used wisely, can lead to significant financial gains. By incorporating strong [risk management](../r/risk_management.md) strategies, leveraging appropriate tools and platforms, and maintaining an ethical trading approach, traders can enhance their chances of success. Whether through fundamental or [technical analysis](../t/technical_analysis.md), [trend following](../t/trend_following.md), [scalping](../s/scalping.md), [swing trading](../s/swing_trading.md), or leveraging advanced technologies like AI and machine learning, there is a myriad of avenues to explore in the dynamic world of [spread betting](../s/spread_betting.md).
+[Spread betting](../s/spread_betting.md) offers a variety of techniques that, if used wisely, can lead to significant financial gains. By incorporating strong [risk management](../r/risk_management.md) strategies, leveraging appropriate tools and platforms, and maintaining an ethical trading approach, traders can enhance their chances of success. Whether through fundamental or [technical analysis](../t/technical_analysis.md), [trend following](../t/trend_following.md), [scalping](../s/scalping.md), [swing trading](../s/swing_trading.md), or leveraging advanced technologies like AI and [machine learning](../m/machine_learning.md), there is a myriad of avenues to explore in the dynamic world of [spread betting](../s/spread_betting.md).

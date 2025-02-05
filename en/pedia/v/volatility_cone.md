@@ -66,7 +66,7 @@ Advanced Usage and Enhancements
 
 **1. Multi-[Asset](../a/asset.md) [Volatility](../v/volatility.md) Cones:** In [portfolio management](../p/portfolio_management.md), constructing multi-[asset](../a/asset.md) [volatility](../v/volatility.md) cones can help in understanding the combined [volatility](../v/volatility.md) behavior of a portfolio, considering correlations between different assets.
 
-**2. Machine Learning Integration:** Modern advancements in machine learning [offer](../o/offer.md) ways to enhance [volatility](../v/volatility.md) cone construction. Algorithms can identify more complex patterns in historical data, providing more refined [volatility](../v/volatility.md) forecasts.
+**2. [Machine Learning](../m/machine_learning.md) Integration:** Modern advancements in [machine learning](../m/machine_learning.md) [offer](../o/offer.md) ways to enhance [volatility](../v/volatility.md) cone construction. Algorithms can identify more complex patterns in historical data, providing more refined [volatility](../v/volatility.md) forecasts.
 
 **3. Real-Time Adjustments:** Applying real-time data to continuously update the [volatility](../v/volatility.md) cone can provide more dynamic insights, reflecting current [market](../m/market.md) conditions more accurately.
 

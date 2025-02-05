@@ -53,7 +53,7 @@ Several factors impact the price of WTI, including:
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) has become increasingly prevalent in WTI markets. Sophisticated algorithms analyze [market](../m/market.md) data and execute trades at speeds unimaginable for human traders. These systems employ a variety of strategies, including statistical [arbitrage](../a/arbitrage.md), [trend following](../t/trend_following.md), and machine learning, to [capitalize](../c/capitalize.md) on small price discrepancies and [market](../m/market.md) inefficiencies.
+[Algorithmic trading](../a/accountability.md) has become increasingly prevalent in WTI markets. Sophisticated algorithms analyze [market](../m/market.md) data and execute trades at speeds unimaginable for human traders. These systems employ a variety of strategies, including statistical [arbitrage](../a/arbitrage.md), [trend following](../t/trend_following.md), and [machine learning](../m/machine_learning.md), to [capitalize](../c/capitalize.md) on small price discrepancies and [market](../m/market.md) inefficiencies.
 
 ## Environmental and Regulatory Factors
 

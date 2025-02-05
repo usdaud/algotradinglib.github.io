@@ -90,7 +90,7 @@ The rise of fintech platforms and [blockchain](../b/blockchain_in_trading.md) te
 
 ### 1. Technological Advancements
 
-As technology continues to evolve, the role of middlemen is expected to change. [Artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [blockchain](../b/blockchain_in_trading.md) technology are enabling more efficient and cost-effective solutions.
+As technology continues to evolve, the role of middlemen is expected to change. [Artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md) technology are enabling more efficient and cost-effective solutions.
 
 ### 2. Regulation
 

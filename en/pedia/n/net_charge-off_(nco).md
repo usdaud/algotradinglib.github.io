@@ -87,7 +87,7 @@ To manage and mitigate Net Charge-Offs, financial institutions often employ seve
 
 With advancements in financial technology and analytics, banks and financial institutions are better equipped to predict, assess, and manage Net Charge-Offs:
 
-1. **[Predictive Analytics](../p/predictive_analytics.md)**: Use of AI and machine learning models to anticipate delinquencies and defaults.
+1. **[Predictive Analytics](../p/predictive_analytics.md)**: Use of AI and [machine learning](../m/machine_learning.md) models to anticipate delinquencies and defaults.
 2. **Automation**: Automated collection processes and real-time monitoring of [loan](../l/loan.md) performance.
 3. **Big [Data Integration](../d/data_integration.md)**: Leveraging [big data](../b/big_data_in_trading.md) to refine [credit](../c/credit.md)-scoring algorithms and enhance prediction accuracy.
 4. **[Blockchain](../b/blockchain_in_trading.md)**: Enhanced [transparency](../t/transparency.md) and [security](../s/security.md) in [loan](../l/loan.md) transactions, potentially reducing [fraud](../f/fraud.md)-related charge-offs.

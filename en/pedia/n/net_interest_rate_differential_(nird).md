@@ -66,7 +66,7 @@ In the sphere of [algorithmic trading](../a/accountability.md), NIRD can be part
 
 4. **[Risk Management](../r/risk_management.md)**: Implement [risk management](../r/risk_management.md) protocols to ensure that trades influenced by NIRD are within acceptable [risk](../r/risk.md) parameters. This includes setting stop-losses, [position sizing](../p/position_sizing.md), and [portfolio rebalancing](../p/portfolio_rebalancing.md).
 
-5. **Machine Learning**: Utilize machine learning models to analyze historical data and predict future NIRD movements. Machine learning can enhance the predictive power and adaptability of [trading algorithms](../t/trading_algorithms.md).
+5. **[Machine Learning](../m/machine_learning.md)**: Utilize [machine learning](../m/machine_learning.md) models to analyze historical data and predict future NIRD movements. [Machine learning](../m/machine_learning.md) can enhance the predictive power and adaptability of [trading algorithms](../t/trading_algorithms.md).
 
 ## Real-World Examples and Applications
 

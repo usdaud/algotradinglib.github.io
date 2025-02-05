@@ -55,7 +55,7 @@ In the fintech [industry](../i/industry.md), access to comprehensive data coveri
 
 ### Machine Learning and AI
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning models thrive on [big data](../b/big_data_in_trading.md). A broad universe of securities provides the necessary diversity and depth of data to train these models. [Predictive analytics](../p/predictive_analytics.md), [anomaly detection](../a/anomaly_detection.md), and [portfolio optimization](../p/portfolio_optimization.md) are some areas where AI significantly contributes, allowing for more informed decision-making and efficient [trade](../t/trade.md) strategies.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) models thrive on [big data](../b/big_data_in_trading.md). A broad universe of securities provides the necessary diversity and depth of data to train these models. [Predictive analytics](../p/predictive_analytics.md), [anomaly detection](../a/anomaly_detection.md), and [portfolio optimization](../p/portfolio_optimization.md) are some areas where AI significantly contributes, allowing for more informed decision-making and efficient [trade](../t/trade.md) strategies.
 
 ### Robo-Advisors
 

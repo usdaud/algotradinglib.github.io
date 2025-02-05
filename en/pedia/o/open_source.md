@@ -88,7 +88,7 @@ As more traders, developers, and financial professionals recognize the benefits 
 
 ### 2. Integration with Machine Learning and AI
 
-The integration of [open](../o/open.md)-source trading platforms with machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) is expected to become more widespread. [Open](../o/open.md) source libraries such as TensorFlow and PyTorch are already being used to develop sophisticated [trading algorithms](../t/trading_algorithms.md) that [leverage](../l/leverage.md) machine learning techniques for [market](../m/market.md) prediction and strategy [optimization](../o/optimization.md).
+The integration of [open](../o/open.md)-source trading platforms with [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) is expected to become more widespread. [Open](../o/open.md) source libraries such as [TensorFlow](../t/tensorflow.md) and [PyTorch](../p/pytorch.md) are already being used to develop sophisticated [trading algorithms](../t/trading_algorithms.md) that [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) techniques for [market](../m/market.md) prediction and strategy [optimization](../o/optimization.md).
 
 ### 3. Enhanced Security and Compliance
 

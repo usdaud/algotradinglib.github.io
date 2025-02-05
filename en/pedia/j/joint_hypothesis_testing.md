@@ -87,7 +87,7 @@ mcmc.run(trading_data)
 ```
 
 ### Neural Networks and Machine Learning Models
-Advanced machine learning models and [neural networks](../n/neural_networks_in_trading.md) can be trained to perform [joint](../j/joint.md) [hypothesis testing](../h/hypothesis_testing.md), particularly useful in high-dimensional data scenarios.
+Advanced [machine learning](../m/machine_learning.md) models and [neural networks](../n/neural_networks_in_trading.md) can be trained to perform [joint](../j/joint.md) [hypothesis testing](../h/hypothesis_testing.md), particularly useful in high-dimensional data scenarios.
 
 ```python
 from sklearn.model_selection [import](../i/import.md) train_test_split
@@ -106,4 +106,4 @@ predictions = model.predict(X_test)
 - **Dynamic Nature of Markets**: [Financial markets](../f/financial_market.md) are continually evolving, which could affect the stability of [joint](../j/joint.md) tests over time.
 
 ## Conclusion
-[Joint](../j/joint.md) [hypothesis testing](../h/hypothesis_testing.md) is an essential tool in the arsenal of algorithmic traders and quantitative analysts. It allows for a holistic evaluation of complex models and strategies, ultimately leading to more [robust](../r/robust.md) and reliable [trading systems](../t/trading_systems.md). Its applications span from validating [trading strategies](../t/trading_strategies.md) to comprehensive [risk management](../r/risk_management.md) and beyond. The methodologies used can vary from traditional statistical tests to advanced machine learning models, each [offering](../o/offering.md) unique advantages depending on the complexity and type of data involved.
+[Joint](../j/joint.md) [hypothesis testing](../h/hypothesis_testing.md) is an essential tool in the arsenal of algorithmic traders and quantitative analysts. It allows for a holistic evaluation of complex models and strategies, ultimately leading to more [robust](../r/robust.md) and reliable [trading systems](../t/trading_systems.md). Its applications span from validating [trading strategies](../t/trading_strategies.md) to comprehensive [risk management](../r/risk_management.md) and beyond. The methodologies used can vary from traditional statistical tests to advanced [machine learning](../m/machine_learning.md) models, each [offering](../o/offering.md) unique advantages depending on the complexity and type of data involved.

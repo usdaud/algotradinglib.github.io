@@ -22,7 +22,7 @@ There are various ways to gauge [market sentiment](../m/market_sentiment.md), an
 
 ### 3. **Discussion Forums**
    - **Description**: Websites like Reddit and specialized forums such as Seeking [Alpha](../a/alpha.md) have active user bases discussing [stocks](../s/stock.md) and markets.
-   - **Tools**: NLP and machine learning can extract sentiment from posts and comments.
+   - **Tools**: NLP and [machine learning](../m/machine_learning.md) can extract sentiment from posts and comments.
    - **Example**: Reddit API accessed via Python or other programming languages for [sentiment analysis](../s/sentiment_analysis.md).
 
 ### 4. **Surveys and Polls**
@@ -43,7 +43,7 @@ There are various ways to gauge [market sentiment](../m/market_sentiment.md), an
    - **Example**: TextBlob (https://textblob.readthedocs.io/en/dev/) provides simple API for NLP tasks.
 
 ### 2. **Machine Learning**
-   - **Description**: Machine learning models can be trained on historical sentiment data to predict future [market](../m/market.md) movements.
+   - **Description**: [Machine learning](../m/machine_learning.md) models can be trained on historical sentiment data to predict future [market](../m/market.md) movements.
    - **Tools**: Algorithms like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) can be employed.
    - **Example**: Scikit-learn (https://scikit-learn.org) for building ML models.
 
@@ -107,9 +107,9 @@ There are various ways to gauge [market sentiment](../m/market_sentiment.md), an
    - **Solution**: Using efficient data processing pipelines and [cloud computing](../c/cloud_computing_in_trading.md).
 
 ### 3. **Overfitting**
-   - **Description**: Machine learning models can overfit to historical sentiment data, reducing future predictive accuracy.
+   - **Description**: [Machine learning](../m/machine_learning.md) models can overfit to historical sentiment data, reducing future predictive accuracy.
    - **Solution**: Employing regularization techniques and validation methods.
 
 ## Conclusion
 
-Sentiment [trading strategies](../t/trading_strategies.md) [offer](../o/offer.md) a promising [complement](../c/complement.md) to traditional trading methods. By leveraging advancements in NLP and machine learning, traders can quantify and systematically incorporate [market sentiment](../m/market_sentiment.md) into their strategies. As technology and data sources evolve, sentiment trading is likely to become an increasingly vital tool in the [algorithmic trading](../a/algorithmic_trading.md) toolkit.
+Sentiment [trading strategies](../t/trading_strategies.md) [offer](../o/offer.md) a promising [complement](../c/complement.md) to traditional trading methods. By leveraging advancements in NLP and [machine learning](../m/machine_learning.md), traders can quantify and systematically incorporate [market sentiment](../m/market_sentiment.md) into their strategies. As technology and data sources evolve, sentiment trading is likely to become an increasingly vital tool in the [algorithmic trading](../a/algorithmic_trading.md) toolkit.

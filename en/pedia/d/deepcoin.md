@@ -25,7 +25,7 @@ Deepcoin offers [robust](../r/robust.md) support for [algorithmic trading](../a/
 The platform integrates real-time [data analytics](../d/data_analytics.md) tools that provide traders with comprehensive [market](../m/market.md) insights. These tools include customizable charts, indicators, and alerts that help in making informed trading decisions.
 
 ### Machine Learning & AI
-Deepcoin harnesses the power of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance its [predictive analytics](../p/predictive_analytics.md) and [risk management systems](../r/risk_management_systems.md). ML algorithms analyze vast amounts of historical and current [market](../m/market.md) data to [offer](../o/offer.md) predictive insights and flag potential [market anomalies](../m/market_anomalies.md).
+Deepcoin harnesses the power of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance its [predictive analytics](../p/predictive_analytics.md) and [risk management systems](../r/risk_management_systems.md). ML algorithms analyze vast amounts of historical and current [market](../m/market.md) data to [offer](../o/offer.md) predictive insights and flag potential [market anomalies](../m/market_anomalies.md).
 
 ## Security Protocols
 

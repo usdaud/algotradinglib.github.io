@@ -116,7 +116,7 @@ The evolution of RWAs continues as regulatory bodies and financial institutions 
 
 ### 8.1. Advancements in Risk Assessment Technologies
 
-The uptake of advanced analytics, machine learning, and AI is transforming how banks assess [risk](../r/risk.md), potentially refining how RWAs are calculated and managed.
+The uptake of advanced analytics, [machine learning](../m/machine_learning.md), and AI is transforming how banks assess [risk](../r/risk.md), potentially refining how RWAs are calculated and managed.
 
 ### 8.2. Environmental, Social, and Governance (ESG) Considerations
 

@@ -103,7 +103,7 @@ Recent technological advancements are transforming how loss reserves are estimat
 
 #### Machine Learning and Artificial Intelligence (AI)
 
-Machine learning (ML) and AI algorithms can analyze vast amounts of data to identify patterns and predict future claims more accurately. These technologies can improve the precision of traditional actuarial methods and identify non-linear relationships in data. Examples include:
+[Machine learning](../m/machine_learning.md) (ML) and AI algorithms can analyze vast amounts of data to identify patterns and predict future claims more accurately. These technologies can improve the precision of traditional actuarial methods and identify non-linear relationships in data. Examples include:
 - **[Predictive Analytics](../p/predictive_analytics.md):** Using historical data to predict future claims more accurately.
 - **Text [Mining](../m/mining.md):** Extracting relevant information from unstructured data sources like claims notes and medical reports.
 

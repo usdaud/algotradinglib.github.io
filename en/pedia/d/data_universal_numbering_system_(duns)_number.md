@@ -93,11 +93,11 @@ Additionally, D&B uses advanced analytics tools and technologies to derive insig
 
 ## Future of DUNS Number
 
-As global [trade](../t/trade.md) continues to expand and digital transformation accelerates, the DUNS Number [will](../w/will.md) likely play an increasingly vital role in [business](../b/business.md) identification and data management. The advent of [blockchain](../b/blockchain_in_trading.md) technology, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and machine learning [will](../w/will.md) further enhance the capabilities and applications of the DUNS Number.
+As global [trade](../t/trade.md) continues to expand and digital transformation accelerates, the DUNS Number [will](../w/will.md) likely play an increasingly vital role in [business](../b/business.md) identification and data management. The advent of [blockchain](../b/blockchain_in_trading.md) technology, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) [will](../w/will.md) further enhance the capabilities and applications of the DUNS Number.
 
 ### Integration with Emerging Technologies
 
-DUNS Numbers could potentially integrate with [blockchain](../b/blockchain_in_trading.md) to [offer](../o/offer.md) immutable records of [business](../b/business.md) transactions and relationships. AI and machine learning can provide predictive insights, further elevating the [value](../v/value.md) of data tied to DUNS Numbers.
+DUNS Numbers could potentially integrate with [blockchain](../b/blockchain_in_trading.md) to [offer](../o/offer.md) immutable records of [business](../b/business.md) transactions and relationships. AI and [machine learning](../m/machine_learning.md) can provide predictive insights, further elevating the [value](../v/value.md) of data tied to DUNS Numbers.
 
 ### Enhancements in Data Reporting
 

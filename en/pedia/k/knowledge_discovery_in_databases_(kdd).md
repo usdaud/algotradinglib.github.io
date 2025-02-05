@@ -1,6 +1,6 @@
 # Knowledge Discovery in Databases (KDD)
 
-Knowledge Discovery in Databases (KDD) is an interdisciplinary area focusing on methodologies for extracting useful knowledge from data. KDD is a comprehensive process that spans [multiple](../m/multiple.md) phases and involves techniques from machine learning, [statistics](../s/statistics.md), databases, and [data visualization](../d/data_visualization.md). This process aims at discovering patterns, correlations, anomalies, and significant structures in large datasets.
+Knowledge Discovery in Databases (KDD) is an interdisciplinary area focusing on methodologies for extracting useful knowledge from data. KDD is a comprehensive process that spans [multiple](../m/multiple.md) phases and involves techniques from [machine learning](../m/machine_learning.md), [statistics](../s/statistics.md), databases, and [data visualization](../d/data_visualization.md). This process aims at discovering patterns, correlations, anomalies, and significant structures in large datasets.
 
 ## 1. Introduction to KDD
 KDD is not merely about [data mining](../d/data_mining.md), but about the entire data analysis process, which includes understanding the [business](../b/business.md) problem, preparing the data, defining the [mining](../m/mining.md) goals, executing the [data mining](../d/data_mining.md) algorithms, and interpreting and using the discovered knowledge. It bridges the gap between data and valuable insights through a structured methodology.
@@ -105,26 +105,26 @@ SAS provides advanced analytics, [business](../b/business.md) intelligence, and 
 Website: [SAS Analytics](https://www.sas.com/en_us/analytics.html)
 
 ### 8.3 Microsoft
-Microsoft's Azure platform incorporates a [range](../r/range.md) of tools for [data analytics](../d/data_analytics.md) and machine learning that support the end-to-end KDD process.
+Microsoft's Azure platform incorporates a [range](../r/range.md) of tools for [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) that support the end-to-end KDD process.
 Website: [Microsoft Azure AI](https://azure.microsoft.com/en-us/services/machine-learning/)
 
 ### 8.4 RapidMiner
-RapidMiner offers an [open](../o/open.md)-source [data science](../d/data_science_in_trading.md) platform used in KDD for data preparation, machine learning, and model deployment.
+RapidMiner offers an [open](../o/open.md)-source [data science](../d/data_science_in_trading.md) platform used in KDD for data preparation, [machine learning](../m/machine_learning.md), and model deployment.
 Website: [RapidMiner](https://rapidminer.com/)
 
 ### 8.5 KNIME
-KNIME’s platform integrates with [big data](../b/big_data_in_trading.md), machine learning, and various data sources, making it a versatile tool in the KDD domain.
+KNIME’s platform integrates with [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and various data sources, making it a versatile tool in the KDD domain.
 Website: [KNIME](https://www.knime.com/)
 
 ### 8.6 Google
-Google's Cloud AI provides advanced tools for machine learning and [data analytics](../d/data_analytics.md) supporting the discovery of knowledge from data.
+Google's Cloud AI provides advanced tools for [machine learning](../m/machine_learning.md) and [data analytics](../d/data_analytics.md) supporting the discovery of knowledge from data.
 Website: [Google Cloud AI](https://cloud.google.com/products/ai)
 
 ## 9. Future Directions in KDD
-The future of KDD is poised to evolve with advancements in AI and machine learning. Some emergent trends include:
+The future of KDD is poised to evolve with advancements in AI and [machine learning](../m/machine_learning.md). Some emergent trends include:
 
 ### 9.1 Automated Machine Learning (AutoML)
-AutoML is transforming the KDD landscape by automating the selection of algorithms, parameter tuning, and model deployment, making advanced analytics accessible to non-experts.
+[AutoML](../a/automl.md) is transforming the KDD landscape by automating the selection of algorithms, parameter tuning, and model deployment, making advanced analytics accessible to non-experts.
 
 ### 9.2 Integration of IoT Data
 The Internet of Things (IoT) is generating vast amounts of real-time data, necessitating new methodologies in KDD to process and extract insights from these dynamic data streams.

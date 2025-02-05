@@ -91,7 +91,7 @@ These strategies focus on trading around specific corporate actions, including b
 [Quantitative models](../q/quantitative_models.md) can incorporate a variety of factors, such as [financial ratios](../f/financial_ratios.md), historical [buyback](../b/buyback.md) effectiveness, and overall [market](../m/market.md) conditions, to predict the impact of a [buyback](../b/buyback.md) on the company’s stock price.
 
 ### 4. **Machine Learning Approaches**
-Machine learning models can learn from vast amounts of historical data to identify patterns and signals that may precede repurchase announcements or influence their [market](../m/market.md) impact. These models continuously improve as they ingest more data, enhancing their predictive accuracy.
+[Machine learning](../m/machine_learning.md) models can learn from vast amounts of historical data to identify patterns and signals that may precede repurchase announcements or influence their [market](../m/market.md) impact. These models continuously improve as they ingest more data, enhancing their predictive accuracy.
 
 ## Ethical Considerations and Criticisms
 

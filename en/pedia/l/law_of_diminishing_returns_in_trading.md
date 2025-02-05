@@ -54,7 +54,7 @@ For more information, visit [Renaissance Technologies](https://www.rentec.com/).
 
 #### Two Sigma
 
-Two Sigma, another leading quantitative [hedge fund](../h/hedge_fund.md), also exemplifies the application of the Law of Diminishing Returns in trading. The [firm](../f/firm.md) leverages vast computational resources, sophisticated machine learning models, and comprehensive data to develop its [trading strategies](../t/trading_strategies.md). However, Two Sigma acknowledges that continuous scaling requires careful consideration of diminishing returns.
+Two Sigma, another leading quantitative [hedge fund](../h/hedge_fund.md), also exemplifies the application of the Law of Diminishing Returns in trading. The [firm](../f/firm.md) leverages vast computational resources, sophisticated [machine learning](../m/machine_learning.md) models, and comprehensive data to develop its [trading strategies](../t/trading_strategies.md). However, Two Sigma acknowledges that continuous scaling requires careful consideration of diminishing returns.
 
 Two Sigma's approach involves balancing resource allocation, avoiding [overfitting](../o/overfitting.md) through rigorous model validation, and ensuring efficient [capital](../c/capital.md) deployment. By recognizing the diminishing [marginal benefits](../m/marginal_benefits.md) of additional inputs, Two Sigma can sustain high performance and adapt to evolving [market](../m/market.md) conditions.
 

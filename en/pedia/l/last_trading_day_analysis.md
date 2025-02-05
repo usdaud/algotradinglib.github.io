@@ -60,7 +60,7 @@ Institutional investors might place hedging trades to protect their portfolios f
 
 ### Machine Learning
 
-Machine learning models can be trained to identify historical patterns and predict end-of-day price movements. These models can consider an array of factors including historical price data, [sentiment analysis](../s/sentiment_analysis.md), and macroeconomic indicators.
+[Machine learning](../m/machine_learning.md) models can be trained to identify historical patterns and predict end-of-day price movements. These models can consider an array of factors including historical price data, [sentiment analysis](../s/sentiment_analysis.md), and macroeconomic indicators.
 
 ## Case Studies
 
@@ -84,4 +84,4 @@ The final trading day of Q1 2019 was marked by high [volatility](../v/volatility
 
 ## Conclusion
 
-Analyzing the [last trading day](../l/last_trading_day.md) is essential for traders and investors aiming to optimize their strategies and [capitalize](../c/capitalize.md) on unique [market](../m/market.md) conditions. By understanding the behavior, indicators, and effective strategies associated with the [last trading day](../l/last_trading_day.md), participants can enhance their [trading performance](../t/trading_performance.md) and better navigate the [financial markets](../f/financial_market.md). Leveraging advanced technologies like [algorithmic trading](../a/algorithmic_trading.md) and machine learning further improves the chances of successful trades in such a complex and high-stakes environment.
+Analyzing the [last trading day](../l/last_trading_day.md) is essential for traders and investors aiming to optimize their strategies and [capitalize](../c/capitalize.md) on unique [market](../m/market.md) conditions. By understanding the behavior, indicators, and effective strategies associated with the [last trading day](../l/last_trading_day.md), participants can enhance their [trading performance](../t/trading_performance.md) and better navigate the [financial markets](../f/financial_market.md). Leveraging advanced technologies like [algorithmic trading](../a/algorithmic_trading.md) and [machine learning](../m/machine_learning.md) further improves the chances of successful trades in such a complex and high-stakes environment.

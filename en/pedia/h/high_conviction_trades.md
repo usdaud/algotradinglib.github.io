@@ -28,7 +28,7 @@ Algorithms can be designed to identify high conviction [trade](../t/trade.md) si
 [Quantitative models](../q/quantitative_models.md) form the backbone of high conviction algorithms. These models use enormous datasets and complex mathematical formulas to predict [market](../m/market.md) movements and identify trades with a high probability of success.
 
 ### 3. **Machine Learning**
-Machine learning (ML) is an essential tool in modern [algorithmic trading](../a/algorithmic_trading.md). ML models are fed historical and real-time data to train them in detecting high conviction setups. These models can continually learn and adapt to changing [market](../m/market.md) conditions.
+[Machine learning](../m/machine_learning.md) (ML) is an essential tool in modern [algorithmic trading](../a/algorithmic_trading.md). ML models are fed historical and real-time data to train them in detecting high conviction setups. These models can continually learn and adapt to changing [market](../m/market.md) conditions.
 
 ### 4. **Backtesting and Simulation**
 Before deploying high conviction algorithms in live trading, extensive [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) are conducted. This helps in validating the algorithm’s performance and tweaking parameters to enhance accuracy.
@@ -39,7 +39,7 @@ High conviction trades require precise [execution](../e/execution.md) to minimiz
 ## Companies Specializing in High Conviction Trades
 
 ### 1. **Two Sigma Investments**
-Two Sigma leverages AI, machine learning, and advanced technological [infrastructure](../i/infrastructure.md) to execute trades with high conviction. For more information, visit [Two Sigma](https://www.twosigma.com/).
+Two Sigma leverages AI, [machine learning](../m/machine_learning.md), and advanced technological [infrastructure](../i/infrastructure.md) to execute trades with high conviction. For more information, visit [Two Sigma](https://www.twosigma.com/).
 
 ### 2. **Renaissance Technologies**
 Renaissance Technologies, notably its Medallion [Fund](../f/fund.md), is renowned for its high conviction [quantitative strategies](../q/quantitative_strategies_in_trading.md). Their proprietary models and data-driven approach consistently deliver high returns. For more details, you can explore [Renaissance Technologies](https://www.rentec.com/).

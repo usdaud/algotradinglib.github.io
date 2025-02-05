@@ -62,7 +62,7 @@ Flotation, in the context of [finance](../f/finance.md) and [algorithmic trading
    [Mean reversion](../m/mean_reversion.md) strategies assume that stock prices [will](../w/will.md) revert to their historical mean. Algorithms identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions and [trade](../t/trade.md) to capture the expected reversion.
 
 4. **[Market Sentiment Analysis](../m/market_sentiment_analysis.md):**
-   Incorporating [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning, algorithms analyze news sentiment, [social media](../s/social_media.md) trends, and other data sources to gauge [market sentiment](../m/market_sentiment.md) and predict price movements.
+   Incorporating [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning](../m/machine_learning.md), algorithms analyze news sentiment, [social media](../s/social_media.md) trends, and other data sources to gauge [market sentiment](../m/market_sentiment.md) and predict price movements.
 
 5. **[Liquidity](../l/liquidity.md) Seeking:**
    Algorithms are designed to seek optimal [liquidity](../l/liquidity.md) for executing large trades with minimal impact. These [smart order routing](../s/smart_order_routing.md) strategies adjust [execution](../e/execution.md) based on [market](../m/market.md) conditions.
@@ -106,7 +106,7 @@ The convergence of flotation and [algorithmic trading](../a/accountability.md) p
    - **[Market Dynamics](../m/market_dynamics.md):** Algorithms must be resilient to changing [market](../m/market.md) conditions and unexpected events.
 
 2. **Future Trends:**
-   - **AI and Machine Learning:** Advanced AI models [will](../w/will.md) further enhance [algorithmic trading](../a/accountability.md) by enabling more sophisticated predictions and [adaptive strategies](../a/adaptive_strategies.md).
+   - **AI and [Machine Learning](../m/machine_learning.md):** Advanced AI models [will](../w/will.md) further enhance [algorithmic trading](../a/accountability.md) by enabling more sophisticated predictions and [adaptive strategies](../a/adaptive_strategies.md).
    - **[Blockchain](../b/blockchain_in_trading.md) Technology:** [Blockchain](../b/blockchain_in_trading.md) can improve [transparency](../t/transparency.md) and [security](../s/security.md) in the flotation process, providing a verifiable record of transactions.
    - **Decentralized [Finance](../f/finance.md) (DeFi):** DeFi platforms [offer](../o/offer.md) innovative approaches to fundraising and trading, potentially transforming traditional IPO mechanisms.
    - **[Environmental, Social, and Governance (ESG) Investing](../e/environmental_social_and_governance_(esg)_investing.md):** Algorithms incorporating ESG factors [will](../w/will.md) align investment strategies with sustainability goals.

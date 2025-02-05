@@ -38,7 +38,7 @@ Non-[linear models](../l/linear_models_in_trading.md) include a broad [range](..
 
 ### Machine Learning and Non-Linearity
 
-Machine learning, especially deep [learning algorithms](../l/learning_algorithms_in_trading.md), incorporates non-[linear models](../l/linear_models_in_trading.md) to capture complex patterns in financial data. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), and [decision trees](../d/decision_trees.md) are inherently non-linear. These methods do not assume a specific functional form and can therefore capture a myriad of non-linear relationships in data.
+[Machine learning](../m/machine_learning.md), especially deep [learning algorithms](../l/learning_algorithms_in_trading.md), incorporates non-[linear models](../l/linear_models_in_trading.md) to capture complex patterns in financial data. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), and [decision trees](../d/decision_trees.md) are inherently non-linear. These methods do not assume a specific functional form and can therefore capture a myriad of non-linear relationships in data.
 
 ### Real-World Applications
 
@@ -46,7 +46,7 @@ Several [hedge](../h/hedge.md) funds and financial institutions rely heavily on 
 
 - **Renaissance Technologies**: Founded by James Simons, this [hedge fund](../h/hedge_fund.md) is renowned for its use of complex [mathematical models](../m/mathematical_models_in_trading.md) and [data mining](../d/data_mining.md) techniques, many of which are non-linear, for stock trading. [Renaissance Technologies](https://www.rentec.com)
 
-- **Two Sigma**: Another technology-driven [firm](../f/firm.md) that leverages non-[linear models](../l/linear_models_in_trading.md) and machine learning to execute [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com)
+- **Two Sigma**: Another technology-driven [firm](../f/firm.md) that leverages non-[linear models](../l/linear_models_in_trading.md) and [machine learning](../m/machine_learning.md) to execute [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com)
 
 ### Challenges and Limitations
 
@@ -57,7 +57,7 @@ While non-[linear models](../l/linear_models_in_trading.md) provide a [robust](.
 
 ### Conclusion
 
-Non-linearity is a fundamental characteristic of financial models that represents complex relationships more accurately than [linear models](../l/linear_models_in_trading.md). It plays a significant role in [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md), and [predictive modeling](../p/predictive_modeling.md). Despite its challenges, the use of non-[linear models](../l/linear_models_in_trading.md) continues to grow, especially with advancements in computational power and machine learning techniques, enabling the development of more sophisticated [trading strategies](../t/trading_strategies.md) and financial analyses.
+Non-linearity is a fundamental characteristic of financial models that represents complex relationships more accurately than [linear models](../l/linear_models_in_trading.md). It plays a significant role in [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md), and [predictive modeling](../p/predictive_modeling.md). Despite its challenges, the use of non-[linear models](../l/linear_models_in_trading.md) continues to grow, especially with advancements in computational power and [machine learning](../m/machine_learning.md) techniques, enabling the development of more sophisticated [trading strategies](../t/trading_strategies.md) and financial analyses.
 
 ---
 

@@ -74,7 +74,7 @@ One area that has seen significant growth in SEFs is [algorithmic trading](../a/
 
 ### Machine Learning and AI
 
-With the advent of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), SEFs are now able to [offer](../o/offer.md) more sophisticated analytics and trading tools. These technologies can help in [predictive analytics](../p/predictive_analytics.md), [fraud](../f/fraud.md) detection, and compliance monitoring.
+With the advent of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), SEFs are now able to [offer](../o/offer.md) more sophisticated analytics and trading tools. These technologies can help in [predictive analytics](../p/predictive_analytics.md), [fraud](../f/fraud.md) detection, and compliance monitoring.
 
 ### Blockchain
 

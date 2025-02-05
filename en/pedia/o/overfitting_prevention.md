@@ -16,7 +16,7 @@ Several strategies can be employed to prevent [overfitting](../o/overfitting.md)
 4. **Early Stopping**: When training models like [neural networks](../n/neural_networks_in_trading.md), monitoring the performance on a validation set and stopping the training process once performance starts to degrade helps prevent [overfitting](../o/overfitting.md).
 5. **Ensemble Methods**: Combining the predictions of [multiple](../m/multiple.md) models can reduce the likelihood of [overfitting](../o/overfitting.md). Methods like bagging, boosting, and stacking are commonly used.
 6. **Feature Selection**: Carefully selecting the features that are most relevant to the task can reduce [noise](../n/noise.md) and complexity, thereby mitigating [overfitting](../o/overfitting.md).
-7. **Data Augmentation**: Creating synthetic data points or slightly altering existing ones can help the model to generalize better.
+7. **[Data Augmentation](../d/data_augmentation.md)**: Creating synthetic data points or slightly altering existing ones can help the model to generalize better.
 8. **Pruning**: Especially useful in [decision trees](../d/decision_trees.md), pruning involves cutting off parts of the model that provide little power on cross-validated data.
 
 ### Case Study: Use in High-Frequency Trading

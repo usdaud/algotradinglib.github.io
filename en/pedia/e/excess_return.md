@@ -98,7 +98,7 @@ By diversifying the portfolio across different [asset](../a/asset.md) classes, s
 
 ### Advanced Analytics
 
-Utilizing advanced analytics, including machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), can help in identifying patterns and opportunities that traditional methods might miss. Platforms like [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) tools to implement such analytics.
+Utilizing advanced analytics, including [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), can help in identifying patterns and opportunities that traditional methods might miss. Platforms like [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) tools to implement such analytics.
 
 ### Continuous Optimization
 

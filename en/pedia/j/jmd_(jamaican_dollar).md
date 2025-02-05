@@ -92,7 +92,7 @@ The JMD can be subject to high [volatility](../v/volatility.md) due to economic 
 
 ## Future Prospects of JMD in Algorithmic Trading
 
-The evolving economic landscape of Jamaica and technological advancements in trading platforms promise exciting possibilities for JMD in the [algorithmic trading](../a/accountability.md) space. With increasing integration of AI and machine learning in [trading systems](../t/trading_systems.md), there is potential for even more sophisticated and precise [trading strategies](../t/trading_strategies.md) involving JMD.
+The evolving economic landscape of Jamaica and technological advancements in trading platforms promise exciting possibilities for JMD in the [algorithmic trading](../a/accountability.md) space. With increasing integration of AI and [machine learning](../m/machine_learning.md) in [trading systems](../t/trading_systems.md), there is potential for even more sophisticated and precise [trading strategies](../t/trading_strategies.md) involving JMD.
 
 ### Conclusion
 

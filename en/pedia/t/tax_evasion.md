@@ -68,7 +68,7 @@ Countries are continuously updating and tightening their regulatory frameworks t
 Global efforts to combat tax evasion include organizations like the Organisation for Economic Co-operation and Development (OECD) and initiatives like the Base Erosion and [Profit](../p/profit.md) Shifting (BEPS) project. These efforts aim to create a more transparent and fair international tax system.
 
 ### Technology and Data Analytics
-Governments are leveraging technology and [data analytics](../d/data_analytics.md) to detect tax evasion. This includes using [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning to analyze large datasets and identify suspicious patterns indicative of tax evasion.
+Governments are leveraging technology and [data analytics](../d/data_analytics.md) to detect tax evasion. This includes using [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) to analyze large datasets and identify suspicious patterns indicative of tax evasion.
 
 ### Increased Transparency
 [Transparency](../t/transparency.md) initiatives such as the Common Reporting Standard (CRS) facilitate the automatic [exchange](../e/exchange.md) of [financial account](../f/financial_account.md) information between countries. This helps in tracking assets and [income](../i/income.md) held abroad.

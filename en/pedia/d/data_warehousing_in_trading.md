@@ -32,7 +32,7 @@ Once data is stored, it must be easily accessible for analysis. This phase invol
 
 - **SQL Queries**: Utilizing SQL to query and analyze data.
 - **[Data Mining](../d/data_mining.md)**: Discovering patterns and anomalies.
-- **Machine Learning**: Applying algorithms for [predictive analytics](../p/predictive_analytics.md).
+- **[Machine Learning](../m/machine_learning.md)**: Applying algorithms for [predictive analytics](../p/predictive_analytics.md).
 
 ### 5. Data Governance
 Ensuring the quality, [security](../s/security.md), and compliance of data is essential. This involves:
@@ -102,7 +102,7 @@ IBM Db2 Warehouse on Cloud delivers a fully managed private data warehouse servi
 ## Future Trends
 
 ### 1. Integration with AI and ML
-The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) into data [warehousing](../w/warehousing.md) [will](../w/will.md) further enhance [predictive analytics](../p/predictive_analytics.md), enabling more sophisticated [trading strategies](../t/trading_strategies.md).
+The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) (ML) into data [warehousing](../w/warehousing.md) [will](../w/will.md) further enhance [predictive analytics](../p/predictive_analytics.md), enabling more sophisticated [trading strategies](../t/trading_strategies.md).
 
 ### 2. Blockchain Technology
 [Blockchain](../b/blockchain_in_trading.md) could revolutionize data [warehousing](../w/warehousing.md) in trading by providing enhanced [security](../s/security.md), traceability, and [transparency](../t/transparency.md) of data transactions.

@@ -99,7 +99,7 @@ Rules requiring HFT firms to register with financial authorities and report thei
 
 ### Advancements in Machine Learning
 
-Machine learning and AI are increasingly being integrated with HFT algorithms to enhance predictive accuracy and decision-making capabilities.
+[Machine learning](../m/machine_learning.md) and AI are increasingly being integrated with HFT algorithms to enhance predictive accuracy and decision-making capabilities.
 
 ### Quantum Computing
 

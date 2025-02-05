@@ -95,7 +95,7 @@ Despite its potential, [market](../m/market.md) [sentiment analysis](../s/sentim
 
 ## Future Trends
 
-The future of [market](../m/market.md) [sentiment analysis](../s/sentiment_analysis.md) looks promising, driven by continuous advancements in AI, machine learning, and [Big Data](../b/big_data_in_trading.md) technologies:
+The future of [market](../m/market.md) [sentiment analysis](../s/sentiment_analysis.md) looks promising, driven by continuous advancements in AI, [machine learning](../m/machine_learning.md), and [Big Data](../b/big_data_in_trading.md) technologies:
 
 * **Real-Time Analysis**: The development of more sophisticated real-time [sentiment analysis](../s/sentiment_analysis.md) tools to capture instantaneous [market](../m/market.md) reactions.
 * **Multimodal Analysis**: Integration of text, audio, and video data to provide a more comprehensive [sentiment analysis](../s/sentiment_analysis.md).

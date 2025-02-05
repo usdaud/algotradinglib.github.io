@@ -18,7 +18,7 @@ Trading signals are indicators that suggest a good time to buy or sell a [securi
 
 ### Quantitative Analysis
 
-[Quantitative analysis](../q/quantitative_analysis.md) uses mathematical and statistical models to generate trading signals. These models can [range](../r/range.md) from simple [regression analysis](../r/regression_analysis.md) to sophisticated algorithms like machine learning models. For example, a quant model might analyze historical price data and [market sentiment](../m/market_sentiment.md) to generate signals.
+[Quantitative analysis](../q/quantitative_analysis.md) uses mathematical and statistical models to generate trading signals. These models can [range](../r/range.md) from simple [regression analysis](../r/regression_analysis.md) to sophisticated algorithms like [machine learning](../m/machine_learning.md) models. For example, a quant model might analyze historical price data and [market sentiment](../m/market_sentiment.md) to generate signals.
 
 ### Sentiment Analysis
 

@@ -76,7 +76,7 @@ Pharmaceutical giant Pfizer announced the divestment of its consumer health divi
 
 ### Integration of AI and Machine Learning
 
-AI and machine learning technologies are progressively being integrated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). These advanced technologies enhance the predictive capabilities of algorithms, enabling better decision-making processes in real-time.
+AI and [machine learning](../m/machine_learning.md) technologies are progressively being integrated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). These advanced technologies enhance the predictive capabilities of algorithms, enabling better decision-making processes in real-time.
 
 ### Increased Regulatory Scrutiny
 

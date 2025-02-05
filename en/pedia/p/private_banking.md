@@ -104,7 +104,7 @@ There is a growing [demand](../d/demand.md) for sustainable and socially respons
 
 ### AI and Machine Learning
 
-The use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning is anticipated to facilitate more sophisticated [financial analysis](../f/financial_analysis.md) and personalized client interactions.
+The use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) is anticipated to facilitate more sophisticated [financial analysis](../f/financial_analysis.md) and personalized client interactions.
 
 ### Blockchain Technology
 

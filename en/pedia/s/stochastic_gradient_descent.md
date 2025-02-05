@@ -1,6 +1,6 @@
 # Stochastic Gradient Descent (SGD)
 
-Stochastic Gradient Descent (SGD) is a powerful [optimization](../o/optimization.md) technique widely used in the field of machine learning and [data mining](../d/data_mining.md), particularly for training large-scale models and algorithms. In the context of [algorithmic trading](../a/algorithmic_trading.md), SGD is pivotal in optimizing [trading strategies](../t/trading_strategies.md), calibrating model parameters, and refining machine learning models to increase the predictive power and profitability of [trading systems](../t/trading_systems.md). This extensive exploration [will](../w/will.md) cover the core concepts, mathematical formulation, variants, applications, and practical implementations of SGD in [algorithmic trading](../a/algorithmic_trading.md).
+Stochastic Gradient Descent (SGD) is a powerful [optimization](../o/optimization.md) technique widely used in the field of [machine learning](../m/machine_learning.md) and [data mining](../d/data_mining.md), particularly for training large-scale models and algorithms. In the context of [algorithmic trading](../a/algorithmic_trading.md), SGD is pivotal in optimizing [trading strategies](../t/trading_strategies.md), calibrating model parameters, and refining [machine learning](../m/machine_learning.md) models to increase the predictive power and profitability of [trading systems](../t/trading_systems.md). This extensive exploration [will](../w/will.md) cover the core concepts, mathematical formulation, variants, applications, and practical implementations of SGD in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Core Concepts and Mathematical Formulation
 
@@ -114,18 +114,18 @@ SGD can also be applied to enhance [risk management](../r/risk_management.md) mo
 ### Libraries and Frameworks
 
 Several popular libraries and frameworks support SGD:
-- **TensorFlow:** [TensorFlow Optimizers](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers) provide a variety of SGD-based optimizers.
-- **PyTorch:** [PyTorch Optimizers](https://pytorch.org/docs/stable/optim.html) include implementations of SGD and its variants.
+- **[TensorFlow](../t/tensorflow.md):** [TensorFlow Optimizers](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers) provide a variety of SGD-based optimizers.
+- **[PyTorch](../p/pytorch.md):** [PyTorch Optimizers](https://pytorch.org/docs/stable/optim.html) include implementations of SGD and its variants.
 - **Scikit-learn:** [Scikit-learn SGD](https://scikit-learn.org/stable/modules/sgd.html) for [linear models](../l/linear_models_in_trading.md).
 
 ### Example Implementation in Python with TensorFlow
 
 ```python
 [import](../i/import.md) numpy as np
-[import](../i/import.md) tensorflow as tf
-from tensorflow.keras.models [import](../i/import.md) Sequential
-from tensorflow.keras.layers [import](../i/import.md) Dense
-from tensorflow.keras.optimizers [import](../i/import.md) SGD
+[import](../i/import.md) [tensorflow](../t/tensorflow.md) as tf
+from [tensorflow](../t/tensorflow.md).[keras](../k/keras.md).models [import](../i/import.md) Sequential
+from [tensorflow](../t/tensorflow.md).[keras](../k/keras.md).layers [import](../i/import.md) Dense
+from [tensorflow](../t/tensorflow.md).[keras](../k/keras.md).optimizers [import](../i/import.md) SGD
 
 # Generate dummy dataset
 X_train = np.random.rand(1000, 20)
@@ -202,4 +202,4 @@ print(validation_output[:10])
 
 ## Conclusion
 
-Stochastic Gradient Descent and its variants are foundational in the realm of [optimization](../o/optimization.md) for machine learning models, playing a crucial role in [algorithmic trading](../a/algorithmic_trading.md). The adaptability, [efficiency](../e/efficiency.md), and convergence capabilities of SGD make it an ideal choice for training large-scale [predictive models](../p/predictive_models_in_trading.md), optimizing [trading strategies](../t/trading_strategies.md), and enhancing [risk management](../r/risk_management.md) techniques. Understanding these concepts and their practical implementations enables algorithmic traders and quants to harness the full potential of cutting-edge machine learning technologies.
+Stochastic Gradient Descent and its variants are foundational in the realm of [optimization](../o/optimization.md) for [machine learning](../m/machine_learning.md) models, playing a crucial role in [algorithmic trading](../a/algorithmic_trading.md). The adaptability, [efficiency](../e/efficiency.md), and convergence capabilities of SGD make it an ideal choice for training large-scale [predictive models](../p/predictive_models_in_trading.md), optimizing [trading strategies](../t/trading_strategies.md), and enhancing [risk management](../r/risk_management.md) techniques. Understanding these concepts and their practical implementations enables algorithmic traders and quants to harness the full potential of cutting-edge [machine learning](../m/machine_learning.md) technologies.

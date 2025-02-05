@@ -96,7 +96,7 @@ There is a growing [trend](../t/trend.md) towards sustainable and socially respo
 Technological advancements and user-friendly trading platforms are encouraging more retail investors to participate in the secondary [market](../m/market.md), democratizing access to [financial markets](../f/financial_market.md).
 
 ### Integration of AI and Machine Learning
-AI and machine learning are expected to play a more significant role in analyzing [market](../m/market.md) data, predicting trends, and optimizing [trading strategies](../t/trading_strategies.md).
+AI and [machine learning](../m/machine_learning.md) are expected to play a more significant role in analyzing [market](../m/market.md) data, predicting trends, and optimizing [trading strategies](../t/trading_strategies.md).
 
 ### Decentralized Finance (DeFi)
 DeFi is emerging as a significant disruptor, using [blockchain](../b/blockchain_in_trading.md) technology to create decentralized financial products and services, including trading platforms that operate without intermediaries.

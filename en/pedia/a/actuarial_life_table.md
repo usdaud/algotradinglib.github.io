@@ -90,7 +90,7 @@ Over time, life tables have evolved to incorporate more sophisticated statistica
 
 ### Big Data and Machine Learning
 
-The advent of [big data](../b/big_data_in_trading.md) and machine learning has revolutionized the creation and application of life tables. Advanced algorithms and large datasets allow for more precise mortality [forecasting](../f/forecasting.md) and [risk analysis](../r/risk_analysis.md). Companies like [Haven Life](https://www.havenlife.com) and [Lemonade](https://www.lemonade.com) utilize such technologies to refine their actuarial processes.
+The advent of [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) has revolutionized the creation and application of life tables. Advanced algorithms and large datasets allow for more precise mortality [forecasting](../f/forecasting.md) and [risk analysis](../r/risk_analysis.md). Companies like [Haven Life](https://www.havenlife.com) and [Lemonade](https://www.lemonade.com) utilize such technologies to refine their actuarial processes.
 
 ### Personalized Life Tables
 

@@ -42,7 +42,7 @@ This is a specialized form of [arbitrage](../a/arbitrage.md) focused on the [acq
 
 4. **[Quantitative Models](../q/quantitative_models.md)**
 
-   These include machine learning models, statistical techniques, and econometric models which are backtested on historical data to ensure their reliability and robustness.
+   These include [machine learning](../m/machine_learning.md) models, statistical techniques, and econometric models which are backtested on historical data to ensure their reliability and robustness.
 
 ## Risk Management
 

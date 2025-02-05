@@ -37,7 +37,7 @@ Bandai Namco is a major player in the video game [industry](../i/industry.md), p
 
 Tools and techniques used in [sentiment analysis](../s/sentiment_analysis.md) include:
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Algorithms that parse and analyze text data to determine the sentiment expressed.
-- **Machine Learning**: Models trained on historical data to predict future sentiment trends.
+- **[Machine Learning](../m/machine_learning.md)**: Models trained on historical data to predict future sentiment trends.
 - **API Access**: Integrating data from various platforms using APIs for real-time analysis.
 
 ### Strategies

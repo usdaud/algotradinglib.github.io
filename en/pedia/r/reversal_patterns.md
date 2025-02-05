@@ -122,7 +122,7 @@ Algorithms rely on historical and real-time data to identify [reversal](../r/rev
 
 ### Pattern Recognition Algorithms
 
-Machine Learning (ML) and [Deep Learning](../d/deep_learning.md) (DL) techniques such as Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) can be employed to recognize and predict patterns from chart data. Reinforcement Learning (RL) can also be implemented for adaptive [trading strategies](../t/trading_strategies.md).
+[Machine Learning](../m/machine_learning.md) (ML) and [Deep Learning](../d/deep_learning.md) (DL) techniques such as Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) can be employed to recognize and predict patterns from chart data. [Reinforcement Learning](../r/reinforcement_learning.md) (RL) can also be implemented for adaptive [trading strategies](../t/trading_strategies.md).
 
 ### Backtesting and Optimization
 

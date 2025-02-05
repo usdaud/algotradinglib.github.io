@@ -120,7 +120,7 @@ Operational risks, such as system failures or human errors, can impact the relia
 
 ## Future Outlook
 
-The future of INET is closely tied to developments in financial technology (fintech) and broader trends in the financial [industry](../i/industry.md). Innovations such as [blockchain](../b/blockchain_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), and machine learning (ML) have the potential to further enhance the capabilities of INET, making financial transactions even more efficient, transparent, and secure.
+The future of INET is closely tied to developments in financial technology (fintech) and broader trends in the financial [industry](../i/industry.md). Innovations such as [blockchain](../b/blockchain_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), and [machine learning](../m/machine_learning.md) (ML) have the potential to further enhance the capabilities of INET, making financial transactions even more efficient, transparent, and secure.
 
 ### 1. Blockchain Technology
 

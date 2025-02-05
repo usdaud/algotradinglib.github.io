@@ -45,7 +45,7 @@ Grantees often play a crucial role in driving innovation in [algorithmic trading
 ### **Research and Academia**
 Many grantees are affiliated with academic institutions or research organizations. These grantees focus on:
 
-- **Advanced Financial Research:** Exploring new methodologies in [finance](../f/finance.md), such as machine learning applications in [market](../m/market.md) prediction.
+- **Advanced Financial Research:** Exploring new methodologies in [finance](../f/finance.md), such as [machine learning](../m/machine_learning.md) applications in [market](../m/market.md) prediction.
   
 - **Publishing Findings:** Sharing their discoveries through academic journals, conferences, and workshops.
 

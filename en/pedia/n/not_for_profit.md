@@ -138,7 +138,7 @@ There is a growing emphasis on DEI within NPOs, both internally and in their mis
 
 ### Enhanced Volunteer Management
 
-Leveraging AI and machine learning, NPOs can better match volunteer skills with organizational needs, optimize resource allocation, and improve volunteer engagement and satisfaction.
+Leveraging AI and [machine learning](../m/machine_learning.md), NPOs can better match volunteer skills with organizational needs, optimize resource allocation, and improve volunteer engagement and satisfaction.
 
 ## Conclusion
 
