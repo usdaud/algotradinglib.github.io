@@ -1,6 +1,6 @@
 # DllExport
 
-**DllExport** is a system utility designed to export functions from .NET assemblies as native DLL exports. By providing a bridge between managed (.NET) code and native applications, DllExport enables seamless integration of modern trading platforms (such as StockSharp, Tiger.Trade or Lean) with legacy systems like MetaTrader 4 (MT4) and MetaTrader 5 (MT5).
+**DllExport** is a system utility designed to export functions from .NET assemblies as native DLL exports. By providing a bridge between managed (.NET) code and native applications, DllExport enables seamless integration of modern trading platforms (such as [StockSharp](../s/stocksharp.md), Tiger.Trade or [Lean](../q/quantconnect.md)) with legacy systems like [MetaTrader 4 (MT4)](../m/metatrader4.md) and [MetaTrader 5 (MT5)](../m/metatrader5.md).
 
 ### Key Components
 
@@ -16,10 +16,10 @@
 ### Applications
 
 - **Integration with Legacy Trading Platforms:** 
-  Financial institutions and independent developers can integrate modern, feature-rich trading applications like StockSharp or Lean with well-established legacy platforms such as MT4 and MT5. This integration allows traders to leverage modern analytical tools while maintaining compatibility with widely used legacy systems.
+  Financial institutions and independent developers can integrate modern, feature-rich trading applications like [StockSharp](../s/stocksharp.md) or Lean with well-established legacy platforms such as [MT4](../m/metatrader4.md) and [MT5](../m/metatrader5.md). This integration allows traders to [leverage](../l/leverage.md) modern analytical tools while maintaining compatibility with widely used legacy systems.
 
 - **Enhancing Functionality of Legacy Systems:** 
-  Using DllExport, legacy systems can be extended with advanced functionality developed in modern languages. This is particularly useful for incorporating new algorithms, data feeds, and risk management features into older platforms.
+  Using DllExport, legacy systems can be extended with advanced functionality developed in modern languages. This is particularly useful for incorporating new algorithms, data feeds, and [risk management](../r/risk_management.md) features into older platforms.
 
 - **Seamless Interoperability:** 
   Developers can create hybrid solutions where modern managed code handles complex logic or data processing, and native legacy applications maintain their familiar user interfaces and connectivity with traditional trading networks.
@@ -27,10 +27,10 @@
 ### Advantages
 
 - **Cost-Effective Modernization:** 
-  DllExport offers a cost-effective way to modernize legacy trading systems by enabling them to use state-of-the-art .NET libraries without the need to completely replace existing platforms.
+  DllExport offers a cost-effective way to modernize legacy [trading systems](../t/trading_systems.md) by enabling them to use state-of-the-art .NET libraries without the need to completely replace existing platforms.
 
 - **Increased Flexibility:** 
-  By bridging managed and native code, it provides developers with the flexibility to choose the best tools and frameworks for each part of their system, integrating advanced features with time-tested legacy infrastructure.
+  By bridging managed and native code, it provides developers with the flexibility to choose the best tools and frameworks for each part of their system, integrating advanced features with time-tested legacy [infrastructure](../i/infrastructure.md).
 
 - **Enhanced Performance:** 
   With native DLL exports, integration is efficient and avoids the overhead associated with inter-process communication, ensuring responsive performance in real-time trading environments.
@@ -48,4 +48,4 @@
 
 ### Future Outlook
 
-As the financial technology landscape continues to evolve, tools like DllExport will play a crucial role in bridging the gap between new and legacy systems. Future developments may focus on further simplifying the integration process, improving compatibility across various platforms, and enhancing security. These advancements will help ensure that legacy trading platforms can continue to benefit from modern innovations, providing traders with cutting-edge tools without sacrificing the reliability of established systems.
+As the financial technology landscape continues to evolve, tools like DllExport will play a crucial role in bridging the gap between new and legacy systems. Future developments may focus on further simplifying the integration process, improving compatibility across various platforms, and enhancing [security](../s/security.md). These advancements [will](../w/will.md) help ensure that legacy trading platforms can continue to benefit from modern innovations, providing traders with cutting-edge tools without sacrificing the reliability of established systems.
